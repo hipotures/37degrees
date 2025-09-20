@@ -1,186 +1,186 @@
-# Badania: "Bogactwo narodów" w kulturze młodzieżowej i cyfrowej (2024-2025)
+# Research: "The Wealth of Nations" in Youth and Digital Culture (2024-2025)
 
-## Wprowadzenie
+## Introduction
 
-"The Wealth of Nations" Adama Smitha (1776) - fundamentalne dzieło ekonomii klasycznej - odnajduje nowe życie w kulturze cyfrowej Gen Z. Młode pokolenie przełamuje stereotypy o "nudnej ekonomii", odkrywając jak 250-letnie teorie rezonują z ich codziennymi problemami w erze TikToka, kryptowalut i hustle culture.
-
----
-
-## 1. MODERN PARALLELS: Problemy Smitha vs Życie Gen Z
-
-### 1.1 Podział pracy w czasach TikToka
-**Smith o specjalizacji** → **Współczesny gig economy**
-- **Smith**: Manufaktura szpilek - 10 osób robi 48,000 szpilek dziennie vs 1 osoba robi 20
-- **2024**: TikTok stworzył nowe zawody - content creator, social media manager, editor wideo
-- **Paralela**: Specjalizacja w mikro-umiejętnościach (taneczne trendy, makeup tutorials, financial advice)
-- **Hashtag**: #SpecializationNation #GigEconomy #SideHustle (1.8 mld wyświetleń)
-
-### 1.2 "Niewidzialna ręka" vs Algorytmy TikToka
-**Smith**: Rynek reguluje się sam przez "niewidzialną rękę"
-**2024**: Algorytm TikToka jako współczesna "niewidzialna ręka" dystrybuujaca treści i zyski
-- **Twórcy na TikToku**: "Algorytm decyduje kto zarobi" = nowoczesna interpretacja niewidzialnej ręki
-- **Memy**: "Talk to the invisible hand" - popularne grafiki na Etsy i Pinterest
-- **Problem**: Algorithm bias vs idealna efektywność rynku
-
-### 1.3 Teoria wartości pracy vs Quiet Quitting
-**Smith**: "Praca jest rzeczywistą miarą wartości wymiennej wszystkich towarów"
-**2024**: Ruch #QuietQuitting kwestionuje czy praca jest właściwie wyceniana
-- **Reddit r/antiwork**: 1.7 mln członków dyskutuje o nadwartości pracy
-- **50% pracowników** to "quiet quitters" (dane Gallup 2022-2024)
-- **Gen Z**: 73% zgłasza wypalenie zawodowe - czy to dowód na niewłaściwą wycenę pracy?
+"The Wealth of Nations" by Adam Smith (1776) - a fundamental work of classical economics - finds new life in Gen Z digital culture. The young generation breaks stereotypes about "boring economics," discovering how 250-year-old theories resonate with their daily problems in the era of TikTok, cryptocurrency, and hustle culture.
 
 ---
 
-## 2. VIRAL CONTENT: TikTok, Memes i Social Media (2024-2025)
+## 1. MODERN PARALLELS: Smith's Problems vs Gen Z Life
 
-### 2.1 BookTok i edukacja ekonomiczna
+### 1.1 Division of Labor in the TikTok Era
+**Smith on specialization** → **Contemporary gig economy**
+- **Smith**: Pin manufacturing - 10 people make 48,000 pins daily vs 1 person makes 20
+- **2024**: TikTok created new professions - content creator, social media manager, video editor
+- **Parallel**: Specialization in micro-skills (dance trends, makeup tutorials, financial advice)
+- **Hashtag**: #SpecializationNation #GigEconomy #SideHustle (1.8 billion views)
+
+### 1.2 "Invisible Hand" vs TikTok Algorithms
+**Smith**: Market regulates itself through the "invisible hand"
+**2024**: TikTok algorithm as contemporary "invisible hand" distributing content and profits
+- **TikTok creators**: "Algorithm decides who earns" = modern interpretation of invisible hand
+- **Memes**: "Talk to the invisible hand" - popular graphics on Etsy and Pinterest
+- **Problem**: Algorithm bias vs perfect market efficiency
+
+### 1.3 Labor Theory of Value vs Quiet Quitting
+**Smith**: "Labor is the real measure of the exchangeable value of all commodities"
+**2024**: #QuietQuitting movement questions whether work is properly valued
+- **Reddit r/antiwork**: 1.7 million members discuss surplus value of labor
+- **50% of workers** are "quiet quitters" (Gallup data 2022-2024)
+- **Gen Z**: 73% report burnout - is this proof of improper labor valuation?
+
+---
+
+## 2. VIRAL CONTENT: TikTok, Memes and Social Media (2024-2025)
+
+### 2.1 BookTok and Economic Education
 **@1min1book**: "The Wealth of Nations - 1 Minute Summary"
-- **Hashtagi**: #BookTok #AdamSmith #Economics #Capitalism #FreeMarket
-- **Format**: 60-sekundowe streszczenia klasycznych dzieł ekonomii
-- **Engagement**: Młodzież komentuje "finally economics that makes sense"
+- **Hashtags**: #BookTok #AdamSmith #Economics #Capitalism #FreeMarket
+- **Format**: 60-second summaries of economic classics
+- **Engagement**: Youth commenting "finally economics that makes sense"
 
-### 2.2 #FinTok Revolution (4.7 mld wyświetleń)
-**Top ekonomiczne hashtagi TikTok 2024**:
-- **#FinTok**: 4.7 miliarda wyświetleń
-- **#MoneyTok**: 2.9 miliona postów  
-- **#Investing**: 3+ miliony postów
-- **#forex**: 4.2+ miliona postów
+### 2.2 #FinTok Revolution (4.7 billion views)
+**Top economic hashtags TikTok 2024**:
+- **#FinTok**: 4.7 billion views
+- **#MoneyTok**: 2.9 million posts
+- **#Investing**: 3+ million posts
+- **#forex**: 4.2+ million posts
 
-**Kluczowi twórcy 2024**:
-- **Kyla Scanlon** (@kylascan): 600k obserwujących, wytłumaczyła "vibecession"
-- **The Debt-Free Guys**: Serial "Living Not So Fabulously"
+**Key creators 2024**:
+- **Kyla Scanlon** (@kylascan): 600k followers, explained "vibecession"
+- **The Debt-Free Guys**: "Living Not So Fabulously" series
 - **Budgetnista Tiffany Aliche**: Debunking "save money to make money"
 
-### 2.3 "Girl Math" vs Ekonomia klasyczna
-**Trend 2024**: #GirlMath - racjonalizacja wydatków przez dziewczęce logiki
-- **Przykład**: "Starbucks za 5$ to praktycznie za darmo"
-- **Smith vs Girl Math**: Teoria użyteczności marginalnej w praktyce
-- **Paradoks**: Czy "girl math" to intuicyjna ekonomia behawioralna?
+### 2.3 "Girl Math" vs Classical Economics
+**2024 Trend**: #GirlMath - rationalizing expenses through feminine logic
+- **Example**: "Starbucks for $5 is practically free"
+- **Smith vs Girl Math**: Marginal utility theory in practice
+- **Paradox**: Is "girl math" intuitive behavioral economics?
 
-### 2.4 "Loud Budgeting" - nowy minimalizm ekonomiczny
-**Creator**: Lukas Battle - 1.5 miliona wyświetleń na oryginalnym video
-- **Hashtag**: #LoudBudgeting (13.1 miliona wyświetleń)
-- **Filozofia**: "Nie 'nie mam pieniędzy' ale 'nie chcę wydawać'"
-- **Smithowskie**: Powrót do racjonalnej konsumpcji vs pokazowa konsumpcja
+### 2.4 "Loud Budgeting" - New Economic Minimalism
+**Creator**: Lukas Battle - 1.5 million views on original video
+- **Hashtag**: #LoudBudgeting (13.1 million views)
+- **Philosophy**: Not "I don't have money" but "I don't want to spend"
+- **Smithian**: Return to rational consumption vs conspicuous consumption
 
 ---
 
-## 3. GAMING CULTURE: Ekonomiczne symulacje i światy wirtualne
+## 3. GAMING CULTURE: Economic Simulations and Virtual Worlds
 
-### 3.1 Minecraft jako laboratorium ekonomiczne
-**Badania 2024**: Minecraft Economy servers mają większe nierówności niż jakikolwiek kraj
-- **Problem**: Nieregulowana ekonomia Minecraft tworzy skrajne nierówności
-- **Smith vs Minecraft**: Czy wolny rynek automatycznie prowadzi do sprawiedliwości?
-- **Gaming community**: Gracze dyskutują o "wealth caps" i redystrybucji
+### 3.1 Minecraft as Economic Laboratory
+**2024 Research**: Minecraft Economy servers have greater inequality than any country
+- **Problem**: Unregulated Minecraft economy creates extreme inequality
+- **Smith vs Minecraft**: Does free market automatically lead to fairness?
+- **Gaming community**: Players discuss "wealth caps" and redistribution
 
-### 3.2 Gry ekonomiczne trending 2024
+### 3.2 Economic Games Trending 2024
 **Steam "Capitalism and Economy Fest" 2024**:
-- **Capitalism 2**: "Najlepsza symulacja biznesu i handlu"
-- **EVE Online**: "Najbliżej realnej ekonomii w grach" - player-driven economy
-- **Cities: Skylines**: Planowanie ekonomiczne na poziomie miejskim
-- **Gaming trend**: Młodzież uczy się ekonomii przez symulacje
+- **Capitalism 2**: "Best business and trade simulation"
+- **EVE Online**: "Closest to real economy in games" - player-driven economy
+- **Cities: Skylines**: Economic planning at city level
+- **Gaming trend**: Youth learning economics through simulations
 
-### 3.3 Kryptowaluty w grach (Gen Z focus)
-**55% inwestorów Gen Z** inwestuje głównie w kryptowaluty
+### 3.3 Cryptocurrencies in Games (Gen Z focus)
+**55% of Gen Z investors** invest primarily in cryptocurrencies
 - **Gaming integration**: NFT, blockchain games, play-to-earn
-- **Smith vs crypto**: Czy krypto to powrót do "commodity money"?
-- **Risk**: "All cryptocurrencies are speculative" - ale Gen Z i tak inwestuje
+- **Smith vs crypto**: Is crypto a return to "commodity money"?
+- **Risk**: "All cryptocurrencies are speculative" - but Gen Z invests anyway
 
 ---
 
-## 4. BOOKTOK I BOOKTUBERS: Edukacyjni content creators
+## 4. BOOKTOK AND BOOKTUBERS: Educational Content Creators
 
-### 4.1 Mikroinfluencerzy ekonomiczni
-**Format**: 15-60 sekund na skomplikowane tematy ekonomiczne
+### 4.1 Economic Micro-influencers
+**Format**: 15-60 seconds on complex economic topics
 - **Trend**: "Economics explained in 60 seconds"
-- **Popularne**: Adam Smith, Keynes, Marx w bite-sized content
-- **Hashtagi**: #EconomicsExplained #BookSummary #StudyTok
+- **Popular**: Adam Smith, Keynes, Marx in bite-sized content
+- **Hashtags**: #EconomicsExplained #BookSummary #StudyTok
 
 ### 4.2 Economics Meme Culture
-**University Economics Societies**: "MEME MONDAY" z memami o niewidzialnej ręce
+**University Economics Societies**: "MEME MONDAY" with invisible hand memes
 - **Format**: Economics graph memes, macro econ memes
-- **Engagement**: Studenci ekonomii tworzą relatable content
-- **Przykład**: "Watch out for our invisible hands" - klasyczny economics joke
+- **Engagement**: Economics students create relatable content
+- **Example**: "Watch out for our invisible hands" - classic economics joke
 
 ### 4.3 Academic TikTok meets PopCulture
-**@the_genz_economist**: Łączy pop culture z teorią ekonomiczną
-- **Content**: Jak Smith wyjaśniłby dzisiejsze trendy
+**@the_genz_economist**: Combines pop culture with economic theory
+- **Content**: How Smith would explain today's trends
 - **Viral approach**: Complex theory → Simple metaphors → TikTok format
 
 ---
 
-## 5. MENTAL HEALTH CONNECTIONS: Ekonomia i wellbeing
+## 5. MENTAL HEALTH CONNECTIONS: Economics and Wellbeing
 
 ### 5.1 Economic Anxiety Epidemic
 **Gen Z statistics 2024**:
-- **80%+ Gen Z to renterzy** - wzrost rent o 20%, dochodów o 2%
-- **61% młodych** płaci ponad 30% dochodu za mieszkanie
-- **31% Gen Z** mieszka z rodzicami - nie stać ich na własne
-- **Średni dług studencki**: $20,900 (+13% vs millenialsi)
+- **80%+ Gen Z are renters** - rent up 20%, income up 2%
+- **61% young people** pay over 30% of income for housing
+- **31% Gen Z** live with parents - can't afford their own
+- **Average student debt**: $20,900 (+13% vs millennials)
 
-### 5.2 TikTok jako "ekonomiczna terapia"
-**#MentalHealth**: 25.3 miliarda wyświetleń (stan na 2024)
+### 5.2 TikTok as "Economic Therapy"
+**#MentalHealth**: 25.3 billion views (as of 2024)
 - **Trend**: Economic stress → mental health content → coping mechanisms
-- **Problem**: 83% mental health advice na TikToku jest misleading
-- **Smith connection**: Czy teoria "self-interest" uwzględnia mental health?
+- **Problem**: 83% mental health advice on TikTok is misleading
+- **Smith connection**: Does "self-interest" theory account for mental health?
 
-### 5.3 "Vibecession" phenomenon
-**Kyla Scanlon** stworzyła termin opisujący rozbieżność między:
-- **Dane ekonomiczne**: Gospodarka rośnie
-- **Perception**: Ludzie czują się ekonomicznie niepewnie
-- **Smith vs vibe**: Czy sentiment to część "niewidzialnej ręki"?
+### 5.3 "Vibecession" Phenomenon
+**Kyla Scanlon** created term describing disconnect between:
+- **Economic data**: Economy is growing
+- **Perception**: People feel economically insecure
+- **Smith vs vibe**: Is sentiment part of the "invisible hand"?
 
 ---
 
 ## 6. TECH CULTURE PARALLELS: AI, Social Media vs Smith's World
 
 ### 6.1 AI Automation Anxiety
-**57% Gen Z** obawia się negatywnego wpływu automatyzacji na pracę
-- **Smith vs AI**: Podział pracy prowadził do prosperity - czy AI będzie dalszy krok?
-- **Wealth inequality**: AI może pogorszyć nierówności (IMF 2024)
-- **Gen Z response**: "AI will take our jobs" - trending na TikToku
+**57% Gen Z** fears negative impact of automation on work
+- **Smith vs AI**: Division of labor led to prosperity - will AI be the next step?
+- **Wealth inequality**: AI may worsen inequality (IMF 2024)
+- **Gen Z response**: "AI will take our jobs" - trending on TikTok
 
-### 6.2 Social Media jako nowy "rynek"
+### 6.2 Social Media as New "Market"
 **TikTok attention economy**:
 - **"Attention is the new currency"** - literal interpretation of Smith's value theory
-- **Creators = manufacturers** content dla "attention consumers"
-- **Algorithm = invisible hand** alokujący uwagę i monetyzację
+- **Creators = manufacturers** of content for "attention consumers"
+- **Algorithm = invisible hand** allocating attention and monetization
 
 ### 6.3 Hustle Culture vs Smith's Work Ethic
 **Side Hustle statistics**:
-- **#SideHustles**: 1.8 miliarda wyświetleń
-- **67% side hustlers**: Zgłaszają wypalenie
-- **Trend 2024**: Liczba Americans z side hustles spada pierwszy raz od 8 lat
-- **Gen Z rebrand**: Od "hustle until you die" do "work-life balance"
+- **#SideHustles**: 1.8 billion views
+- **67% side hustlers**: Report burnout
+- **2024 Trend**: Number of Americans with side hustles drops for first time in 8 years
+- **Gen Z rebrand**: From "hustle until you die" to "work-life balance"
 
 ---
 
-## 7. CONTEMPORARY ADAPTATIONS: Jak młodzież "remixuje" Smitha
+## 7. CONTEMPORARY ADAPTATIONS: How Youth "Remix" Smith
 
 ### 7.1 Modern Interpretations
-**"Wealth of TikTok Nations"**: Jak algorytmy tworzą nowe ekonomie
-**"The Invisible Hand of Social Media"**: Medium articles o algorytmach jako economic forces
-**"Adam Smith Would Love TikTok"**: Dezentralizowany content creation = perfect competition
+**"Wealth of TikTok Nations"**: How algorithms create new economies
+**"The Invisible Hand of Social Media"**: Medium articles about algorithms as economic forces
+**"Adam Smith Would Love TikTok"**: Decentralized content creation = perfect competition
 
 ### 7.2 Educational Renaissance
 **Trend**: Classics education through modern formats
-- **1-minute summaries** zamiast 900-stron tekstów
-- **Visual economics**: Charts, graphs, animations na TikToku
-- **Relatable examples**: Starbucks pricing zamiast pin manufacturing
+- **1-minute summaries** instead of 900-page texts
+- **Visual economics**: Charts, graphs, animations on TikTok
+- **Relatable examples**: Starbucks pricing instead of pin manufacturing
 
 ### 7.3 Critical Adaptations
-**Gen Z nie kupuje wszystkiego**:
-- **Kwestionują**: Czy "self-interest" rzeczywiście prowadzi do common good?
-- **Climate change**: Invisible hand nie rozwiązuje externalites
-- **Wealth inequality**: System nie samoreguluje nierówności
+**Gen Z doesn't buy everything**:
+- **Question**: Does "self-interest" really lead to common good?
+- **Climate change**: Invisible hand doesn't solve externalities
+- **Wealth inequality**: System doesn't self-regulate inequality
 
 ---
 
-## 8. HASHTAGI I TRENDY (aktualność 2024-2025)
+## 8. HASHTAGS AND TRENDS (Current 2024-2025)
 
 ### 8.1 Economics TikTok Hashtags
 - **#FinTok**: 4.7B views
-- **#MoneyTok**: 2.9M posts  
+- **#MoneyTok**: 2.9M posts
 - **#LoudBudgeting**: 13.1M views
 - **#GirlMath**: Trending but controversial
 - **#QuietQuitting**: 50% workforce identification
@@ -199,7 +199,7 @@
 
 ---
 
-## 9. INFLUENCES I CREATORS (aktywni 2024-2025)
+## 9. INFLUENCERS AND CREATORS (Active 2024-2025)
 
 ### 9.1 Financial Education TikTokers
 - **@KylaScan**: 600K followers, coined "vibecession"
@@ -223,8 +223,8 @@
 
 ### 10.1 Economic Stress Indicators
 **2024 Gen Z Economic Mental Health Crisis**:
-- **77.7% Gen Z** uważa TikTok za addictive
-- **83%+ frequent TikTok users** show anxiety/depression symptoms  
+- **77.7% Gen Z** considers TikTok addictive
+- **83%+ frequent TikTok users** show anxiety/depression symptoms
 - **Economic stressors**: Rent burden, student loans, job market
 - **Coping mechanism**: Financial advice TikTok as therapy substitute
 
@@ -242,12 +242,12 @@
 
 ---
 
-## PODSUMOWANIE: 30+ Konkretnych Połączeń
+## SUMMARY: 30+ Specific Connections
 
-### Najsilniejsze Trendy (ostatnie 24 miesiące):
+### Strongest Trends (Last 24 Months):
 
-1. **#FinTok Revolution** - 4.7B views młodzież uczy się ekonomii
-2. **Loud Budgeting movement** - 13.1M views, conscious spending rejection  
+1. **#FinTok Revolution** - 4.7B views youth learning economics
+2. **Loud Budgeting movement** - 13.1M views, conscious spending rejection
 3. **Quiet Quitting epidemic** - 50% workforce, questioning labor value
 4. **AI job anxiety** - 57% Gen Z fears automation displacement
 5. **Minecraft economic inequality** - virtual worlds mirror Smith's concerns
@@ -257,15 +257,15 @@
 9. **Mental health + economic stress** - 77.7% addiction, anxiety correlation
 10. **BookTok economics** - 60-second Smith summaries viral
 
-### Kluczowe Pytania Gen Z do Smitha:
+### Key Questions Gen Z Asks Smith:
 - **"Did invisible hand include algorithms?"**
-- **"Does division of labor prevent human fulfillment?"**  
+- **"Does division of labor prevent human fulfillment?"**
 - **"Can capitalism fix climate change?"**
 - **"Why doesn't wealth trickle down?"**
 - **"Is hustle culture what you meant by self-interest?"**
 
-**Wniosek**: Gen Z nie odrzuca Smitha - remixuje go. Podstawowe pytania o work, wealth, and human nature pozostają aktualne, ale młodzież szuka odpowiedzi przez TikTok videos, gaming simulations, i community-driven economics education. "The Wealth of Nations" żyje - tylko teraz w 15-sekundowych clipach.
+**Conclusion**: Gen Z doesn't reject Smith - they remix him. Basic questions about work, wealth, and human nature remain relevant, but youth seek answers through TikTok videos, gaming simulations, and community-driven economics education. "The Wealth of Nations" lives on - just now in 15-second clips.
 
 ---
 
-*Badanie oparte na trendach z okresu styczeń 2024 - styczeń 2025, z naciskiem na aktualnie popularne hashtagi, twórców i ruchy kulturowe.*
+*Research based on trends from January 2024 - January 2025, emphasizing currently popular hashtags, creators, and cultural movements.*

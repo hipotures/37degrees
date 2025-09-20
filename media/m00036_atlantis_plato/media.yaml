@@ -1,0 +1,15 @@
+media_info:
+  title: The Lost City of Atlantis - Plato's Account
+  author: Philosophical Documentation
+  year: -360
+  genre: Ancient Legend Documentary
+  description: Plato's account of a prosperous civilization that vanished into the
+    sea in a single day, inspiring centuries of searches and theories
+  target_audience: General public, students, ancient history enthusiasts, mythology fans
+  duration: ~3 minutes
+  objective: Explore Plato's detailed description of the advanced island civilization
+    and examine modern theories about its possible real-world inspiration
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

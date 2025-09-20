@@ -4,3 +4,179 @@ book_info:
   author: "Ursula K. Le Guin"
   year: 1969
   genre: "Science fiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-19T00:00:00"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 2
+    contemporary_reception: 2
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 9
+    total: 54
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 5.0
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "gender_revolution"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary approach to gender creating feminist science fiction genre"
+        source: "dark_drama"
+      - id: "taoist_philosophy"
+        type: "FACT"
+        credibility: 0.95
+        content: "Taoism and Eastern Philosophy central to symbolic structure and meaning"
+        source: "symbols_meanings"
+      - id: "anthropological_innovation"
+        type: "FACT"
+        credibility: 0.90
+        content: "Anthropological method of world-building changed science fiction"
+        source: "writing_innovation"
+      - id: "prophetic_predictions"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Gender fluidity revolution, toxic masculinity crisis, communication technology"
+        source: "reality_wisdom"
+      - id: "feminist_creation"
+        type: "FACT"
+        credibility: 0.95
+        content: "First book in feminist science fiction genre, changed literature"
+        source: "writing_innovation"
+      - id: "nationalism_critique"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Critique of patriotism as fear of other, political manipulation warnings"
+        source: "dark_drama"
+      - id: "communication_barriers"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Cultural misunderstandings as main conflict, shifgrethor complexity"
+        source: "symbols_meanings"
+      - id: "structural_revolution"
+        type: "FACT"
+        credibility: 0.90
+        content: "Post-modernist fragmentary structure, polyvocal narration innovation"
+        source: "writing_innovation"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western literature with BBC adaptations"
+        key_editions: ["Ace Books anniversary editions", "BBC Radio adaptations"]
+        reception_notes: "Strong academic tradition and curriculum integration"
+        educational_status: "Standard in gender studies and SF courses"
+        local_themes: ["Feminist discourse", "Academic analysis tradition"]
+      pl:
+        cultural_impact: "Limited Polish reception but educational significance"
+        key_editions: ["Wydawnictwo Literackie translation"]
+        reception_notes: "Growing interest in gender studies context"
+        educational_status: "Emerging in university curricula"
+        local_themes: ["Gender studies discussions", "Translation challenges"]
+      de:
+        cultural_impact: "Strong German academic reception and analysis"
+        key_editions: ["German scholarly editions"]
+        reception_notes: "Philosophical interpretation tradition"
+        educational_status: "University literature programs"
+        local_themes: ["Philosophical readings", "Academic tradition"]
+      fr:
+        cultural_impact: "French literary reception through feminist theory"
+        key_editions: ["French feminist editions"]
+        reception_notes: "Post-structurist analysis tradition"
+        educational_status: "Comparative literature programs"
+        local_themes: ["Feminist theory", "Gender discourse"]
+      es:
+        cultural_impact: "Spanish-language feminist science fiction influence"
+        key_editions: ["Latin American editions"]
+        reception_notes: "Gender liberation discourse"
+        educational_status: "Women's studies integration"
+        local_themes: ["Liberation themes", "Social commentary"]
+      pt:
+        cultural_impact: "Portuguese-language SF and gender studies"
+        key_editions: ["Brazilian editions"]
+        reception_notes: "Academic feminist analysis"
+        educational_status: "University gender programs"
+        local_themes: ["Gender fluidity", "Social critique"]
+      ja:
+        cultural_impact: "Japanese SF translation and gender themes"
+        key_editions: ["Japanese SF editions"]
+        reception_notes: "Anime and manga influence parallels"
+        educational_status: "Comparative literature studies"
+        local_themes: ["Identity fluidity", "Cultural adaptation"]
+      ko:
+        cultural_impact: "Korean reception through SF and gender studies"
+        key_editions: ["Korean translations"]
+        reception_notes: "Academic gender discourse"
+        educational_status: "University courses"
+        local_themes: ["Gender roles", "Social transformation"]
+      hi:
+        cultural_impact: "Hindi reception in post-colonial and gender contexts"
+        key_editions: ["Indian editions"]
+        reception_notes: "Post-colonial feminist readings"
+        educational_status: "English literature programs"
+        local_themes: ["Cultural identity", "Gender liberation"]
+
+  formats:
+    temporal_context:
+      name: "temporal_context"
+      duration: 16
+      hosts:
+        host_a: "classical literature expert explaining origins"
+        host_b: "contemporary reader finding modern relevance"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:12"
+          topic: "original_era"
+          lead: "host_a"
+          description: "1969 context: second-wave feminism, Vietnam War, social revolution backdrop"
+        - segment: 2
+          time_range: "03:12-06:24"
+          topic: "evolution"
+          lead: "host_b"
+          description: "How gender understanding evolved from 1969 critique to 2024 reality"
+        - segment: 3
+          time_range: "06:24-09:36"
+          topic: "modern_parallels"
+          lead: "host_a"
+          description: "Prophetic elements: toxic masculinity crisis, communication technology"
+        - segment: 4
+          time_range: "09:36-12:48"
+          topic: "predictions_fulfilled"
+          lead: "host_b"
+          description: "What came true: gender fluidity, environmental awareness, nationalism critique"
+        - segment: 5
+          time_range: "12:48-16:00"
+          topic: "timelessness"
+          lead: "host_a"
+          description: "Universal themes transcending eras: communication, authenticity, love"
+      prompts:
+        host_a: "You are {male_name}, a classical literature expert. Explain 'The Left Hand of Darkness' in its original 1969 context: second-wave feminism, Cold War tensions, social revolution. Discuss Le Guin's revolutionary intentions and the book's groundbreaking nature for its era."
+        host_b: "You are {female_name} from 2025. Find modern parallels in 'The Left Hand of Darkness': gender fluidity movements, toxic masculinity crisis, digital communication parallels to ansible, environmental concerns. Connect 1969 predictions to today's reality."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["gender identity discussions", "social commentary", "political themes"]
+    educational_elements:
+      - "Science fiction genre characteristics"
+      - "Historical context of 1969"
+      - "Evolution of gender understanding"
+      - "Anthropological world-building methods"
+      - "Taoist philosophy in literature"
+    production_notes:
+      intro_style: "scholarly but accessible introduction to groundbreaking 1969 work"
+      transitions: "subtle musical bridges between past and present segments"
+      outro_style: "reflective conclusion emphasizing timeless relevance"
+
+  overall_confidence: 0.89

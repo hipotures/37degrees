@@ -1,0 +1,105 @@
+sceneDescription:
+  setting:
+    time: November 14, 2004, approximately 1:15 PM
+    location: Pacific Ocean southwest of San Diego, California, original intercept area now empty
+    weather: Clear, sunny day with bright sunlight and unlimited visibility
+  characters:
+  - appearance: Caucasian man, 40s, athletic build, focused expression, military bearing
+    clothing: Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name
+      tags
+    position: In F/A-18F cockpit searching empty airspace where object disappeared
+    action: Scanning surrounding airspace and communicating object's disappearance to control
+  - appearance: Caucasian woman, 30s, slender build, determined expression, professional demeanor
+    clothing: Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name
+      tags
+    position: In wingman F/A-18F also searching empty sky
+    action: Looking for vanished object and maintaining formation during search pattern
+  scene:
+    mainElements: Two-seat tandem configuration with multi-function color displays (DDIs, MPCD), head-up display (HUD) with
+      targeting information, cramped space filled with switches and controls
+    details: HGU-68/P flight helmet with MBU-20/P oxygen mask, visor reflecting sunlight, communication equipment integrated,
+      protective headgear for high-performance flight operations worn by confused pilots. Empty airspace where Tic Tac object
+      just vanished without trace. F/A-18F instruments showing normal flight parameters but no target contact. Cockpit displays
+      unable to track disappeared object. Pacific Ocean surface now calm with no disturbance visible.
+    background: Pacific Ocean southwest of San Diego, California, approximately 100 miles offshore, water depth 13,000 feet
+      with completely empty airspace and calm blue ocean
+    atmosphere: Bewilderment and disbelief as pilots search empty sky where extraordinary object just disappeared, radio communications
+      reporting impossible instantaneous relocation 60 miles away, sense of encountering technology beyond understanding
+  composition:
+    cameraAngle: Close-up shot from inside cockpit showing pilot's helmet and empty sky ahead
+    focus: Pilot searching through canopy at empty airspace where Tic Tac object just vanished
+    depth: 'Foreground: pilot in helmet and oxygen mask, middle ground: empty cockpit canopy view, background: vacant Pacific
+      sky, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

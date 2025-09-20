@@ -1,0 +1,99 @@
+sceneDescription:
+  setting:
+    time: March 13, 1997, 8:35 PM MST, night
+    location: Residential backyard in Phoenix suburbs with clear sky view
+    weather: Clear night conditions, calm air
+  characters:
+  - appearance: Adult resident, 30s-40s, focused expression holding camera equipment
+    clothing: Casual evening clothing, light sweater or shirt
+    position: Standing in backyard holding video camera aimed skyward
+    action: Operating video camera to record formation, adjusting focus and zoom controls
+  scene:
+    mainElements: 1990s home video camera, VHS or Hi8 format, handheld consumer model, viewfinder extended, recording lights
+      active
+    details: Witness operates handheld video camera attempting to capture V-formation lights, camera viewfinder glowing in
+      darkness, formation continues steady southeast movement across frame, video camera's auto-focus hunting between lights
+      and infinity, recording light indicates active filming, residential backyard setting with patio furniture and house
+      lighting, formation appears as bright orbs in geometric arrangement, witness adjusting camera controls trying to get
+      clear footage, no text or letters visible
+    background: Suburban residential area with house lights, desert landscape extending toward mountains, night sky filled
+      with stars
+    atmosphere: Intense concentration and urgency to document extraordinary phenomenon for posterity
+  composition:
+    cameraAngle: Medium shot showing witness with camera and formation in background
+    focus: Witness documenting event with handheld video camera as primary element
+    depth: Foreground shows witness with recording equipment, middle ground captures residential setting, background features
+      formation against night sky
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

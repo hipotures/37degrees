@@ -1,257 +1,257 @@
-# Gitanjali: Przewidywania vs Rzeczywistość - Uniwersalne Mądrości dla Współczesnej Młodzieży
+# Gitanjali: Predictions vs Reality - Universal Wisdom for Contemporary Youth
 
-## Wprowadzenie: Nobel 1913 vs Świat 2025
+## Introduction: Nobel 1913 vs World 2025
 
-Rabindranath Tagore w 1910 roku, pisząc "Gitanjali" w Bengalu pod brytyjskim panowaniem, nie mógł przewidzieć świata mediów społecznościowych, globalnego ocieplenia czy pandemii COVID-19. Jednak jego duchowe przesłania i wizje społeczne okazały się zaskakująco proroże w niektórych obszarach, błędne w innych, i uniwersalnie prawdziwe w kwestiach natury ludzkiej.
+When Rabindranath Tagore wrote "Gitanjali" in 1910 in Bengal under British rule, he could not have foreseen a world of social media, global warming, or the COVID-19 pandemic. However, his spiritual messages and social visions proved surprisingly prophetic in some areas, wrong in others, and universally true in matters of human nature.
 
-## Sekcja I: CO SIĘ SPRAWDZIŁO - Trafne Przewidywania
+## Section I: WHAT CAME TRUE - Accurate Predictions
 
-### 1. Globalizacja Duchowości i Międzykulturowość (✅ TRAFIONE)
+### 1. Globalization of Spirituality and Multiculturalism (✅ ACCURATE)
 
-**Przewidywanie Tagore (1910):**
+**Tagore's Prediction (1910):**
 - "Where the world has not been broken up into fragments by narrow domestic walls"
-- Wizja uniwersalnej duchowości przekraczającej granice religijne
+- Vision of universal spirituality transcending religious boundaries
 
-**Rzeczywistość 2025:**
-- Mindfulness i medytacja stały się globalnymi trendami wśród Gen Z
-- Aplikacje medytacyjne (Headspace, Calm) mają miliony użytkowników
-- Yoga i duchowość wschodnia mainstream w zachodniej kulturze
-- Młodzi ludzie tworzą własne "duchowne miksy" z różnych tradycji
+**Reality 2025:**
+- Mindfulness and meditation became global trends among Gen Z
+- Meditation apps (Headspace, Calm) have millions of users
+- Yoga and Eastern spirituality mainstream in Western culture
+- Young people create their own "spiritual mixes" from different traditions
 
-**Lekcja dla współczesnych:** Tagore przewidział duchową globalizację na 100+ lat przed internetem.
+**Lesson for contemporaries:** Tagore predicted spiritual globalization 100+ years before the internet.
 
-### 2. Kryzys Nacjonalizmu i Potrzeba Uniwersalizmu (✅ CZĘŚCIOWO TRAFIONE)
+### 2. Crisis of Nationalism and Need for Universalism (✅ PARTIALLY ACCURATE)
 
-**Przewidywanie Tagore (1910):**
-- Ostrzeżenie przed "złem nacjonalizmu" jako "epidemią ludzkości"
-- Wizja obywatelstwa światowego ponad narodowością
+**Tagore's Prediction (1910):**
+- Warning against "the evil of nationalism" as "epidemic of humanity"
+- Vision of world citizenship above nationality
 
-**Rzeczywistość 2025:**
-- Brexit, Trump, populizm - nacjonalizm rzeczywiście stał się problemem
-- Gen Z bardziej globalni niż poprzednie pokolenia (TikTok, międzynarodowe znajomości)
-- Równoczesny wzrost nacjonalistycznych ruchów (Indie, USA, Europa)
-- Młodzież walczy z klimatem globalnie, myśli ponad granicami
+**Reality 2025:**
+- Brexit, Trump, populism - nationalism indeed became a problem
+- Gen Z more global than previous generations (TikTok, international friendships)
+- Simultaneous rise of nationalist movements (India, USA, Europe)
+- Youth fight climate change globally, think beyond borders
 
-**Lekcja dla współczesnych:** Tagore miał rację co do niebezpieczeństw nacjonalizmu, ale nie przewidział jego powrotu.
+**Lesson for contemporaries:** Tagore was right about the dangers of nationalism, but didn't predict its resurgence.
 
-### 3. Kobiety i Równość (✅ CZĘŚCIOWO TRAFIONE)
+### 3. Women and Equality (✅ PARTIALLY ACCURATE)
 
-**Przewidywanie Tagore (1910):**
-- Kobiece postacie w literaturze jako niezależne, podejmujące własne decyzje
-- Krytyka systemu małżeństw aranżowanych
-- Wizja kobiet opuszczających opresyjne związki
+**Tagore's Prediction (1910):**
+- Female characters in literature as independent, making their own decisions
+- Criticism of arranged marriage system
+- Vision of women leaving oppressive relationships
 
-**Rzeczywistość 2025:**
-- #MeToo, feminizm czwartej fali
-- Rosnąca liczba rozwodów inicjowanych przez kobiety
-- Gen Z redefinuje związki, odchodzi od tradycyjnego małżeństwa
-- W Indiach wciąż problemy z małżeństwami aranżowanymi, ale zmiany w miastach
+**Reality 2025:**
+- #MeToo, fourth-wave feminism
+- Rising number of divorces initiated by women
+- Gen Z redefines relationships, moves away from traditional marriage
+- In India still problems with arranged marriages, but changes in cities
 
-**Lekcja dla współczesnych:** Tagore przewidział emancypację kobiet, ale proces trwa dłużej niż myślał.
+**Lesson for contemporaries:** Tagore predicted women's emancipation, but the process takes longer than he thought.
 
-### 4. Kryzys Tradycji vs Nowoczesność (✅ TRAFIONE)
+### 4. Crisis of Tradition vs Modernity (✅ ACCURATE)
 
-**Przewidywanie Tagore (1910):**
+**Tagore's Prediction (1910):**
 - "Where the clear stream of reason has not lost its way into the dreary desert of dead habit"
-- Potrzeba przełamywania ślepej tradycji przez rozum
+- Need to break blind tradition through reason
 
-**Rzeczywistość 2025:**
-- Gen Z kwestionuje tradycyjne normy (religia, kariera, związki)
-- Cancel culture jako reakcja na "martwe przyzwyczajenia"
-- Młodzi ludzie odchodzą od religii organizowanych, ale szukają duchowości
-- Tension między starszymi pokoleniami a Gen Z w kwestiach społecznych
+**Reality 2025:**
+- Gen Z questions traditional norms (religion, career, relationships)
+- Cancel culture as reaction to "dead habits"
+- Young people leave organized religion but seek spirituality
+- Tension between older generations and Gen Z on social issues
 
-**Lekcja dla współczesnych:** Tagore przewidział kulturową rewolucję młodego pokolenia.
+**Lesson for contemporaries:** Tagore predicted the cultural revolution of the young generation.
 
-## Sekcja II: CO SIĘ NIE SPRAWDZIŁO - Błędne Przewidywania
+## Section II: WHAT DIDN'T COME TRUE - Incorrect Predictions
 
-### 1. Tempo Końca Kolonializmu (❌ ZA OPTYMISTYCZNE)
+### 1. Pace of End of Colonialism (❌ TOO OPTIMISTIC)
 
-**Przewidywanie Tagore (1910):**
-- Wydawało się, że Indie szybko się uwolnią od Brytyjczyków
-- Wiara w pokojową transformację przez edukację i duchowość
+**Tagore's Prediction (1910):**
+- It seemed India would quickly free itself from the British
+- Belief in peaceful transformation through education and spirituality
 
-**Rzeczywistość:**
-- Indie uzyskały niepodległość dopiero w 1947 (37 lat później)
-- Potrzebna była brutalna walka, nie tylko duchowa transformacja
-- Podział na Indie i Pakistan z milionami ofiar
-- Neoimperializm ekonomiczny trwa do dziś
+**Reality:**
+- India gained independence only in 1947 (37 years later)
+- Brutal struggle was needed, not just spiritual transformation
+- Partition into India and Pakistan with millions of casualties
+- Economic neo-imperialism continues today
 
-**Lekcja dla współczesnych:** Duchowość bez politycznej akcji to za mało.
+**Lesson for contemporaries:** Spirituality without political action is not enough.
 
-### 2. Technologia jako Narzędzie Wyzwolenia (❌ NAIWNE)
+### 2. Technology as Liberation Tool (❌ NAIVE)
 
-**Przewidywanie Tagore (1910):**
-- Technologia brytyjska miała być udostępniona wszystkim
-- Edukacja przez technologię miała przynieść równość
+**Tagore's Prediction (1910):**
+- British technology was to be made available to everyone
+- Education through technology was to bring equality
 
-**Rzeczywistość 2025:**
-- Podział cyfrowy - tech oligarchowie vs reszta świata
-- Social media powodują depresję u Gen Z, nie szczęście
-- AI zwiększa nierówności zamiast je zmniejszać
-- Tech addiction jako nowy problem zdrowia psychicznego
+**Reality 2025:**
+- Digital divide - tech oligarchs vs rest of the world
+- Social media causes depression in Gen Z, not happiness
+- AI increases inequalities instead of reducing them
+- Tech addiction as new mental health problem
 
-**Lekcja dla współczesnych:** Tagore nie przewidział ciemnej strony technologii.
+**Lesson for contemporaries:** Tagore didn't foresee the dark side of technology.
 
-### 3. Koniec Konfliktów Religijnych (❌ UTOPIJNE)
+### 3. End of Religious Conflicts (❌ UTOPIAN)
 
-**Przewidywanie Tagore (1910):**
-- Uniwersalna duchowość miała zastąpić wojny religijne
-- Wszystkie religie zjednoczone we wspólnej mądrości
+**Tagore's Prediction (1910):**
+- Universal spirituality was to replace religious wars
+- All religions united in common wisdom
 
-**Rzeczywistość 2025:**
-- ISIS, konflikty w Afganistanie, Palestyna/Izrael
-- Hindutva w Indiach - radykalny nacjonalizm hinduski
-- Islamofobia w Europie i USA
-- Chiny prześladują Ujgurów muzułmanów
+**Reality 2025:**
+- ISIS, conflicts in Afghanistan, Palestine/Israel
+- Hindutva in India - radical Hindu nationalism
+- Islamophobia in Europe and USA
+- China persecutes Uyghur Muslims
 
-**Lekcja dla współczesnych:** Duchowa wizja nie wystarczy przeciwko fundamentalizmowi.
+**Lesson for contemporaries:** Spiritual vision is not enough against fundamentalism.
 
-### 4. Naturalna Harmonia Człowiek-Natura (❌ ROMANTYCZNE)
+### 4. Natural Human-Nature Harmony (❌ ROMANTIC)
 
-**Przewidywanie Tagore (1910):**
-- Człowiek naturalnie dąży do harmonii z naturą
-- Duchowość automatycznie prowadzi do ekologii
+**Tagore's Prediction (1910):**
+- Humans naturally strive for harmony with nature
+- Spirituality automatically leads to ecology
 
-**Rzeczywistość 2025:**
-- Kryzys klimatyczny, wymieranie gatunków
-- Konsumpcjonizm wygrał z naturalną harmonią
-- Dopiero Gen Z zaczyna się budzić ekologicznie
-- Indie - jeden z największych trucicieli świata
+**Reality 2025:**
+- Climate crisis, species extinction
+- Consumerism defeated natural harmony
+- Only Gen Z is starting to wake up ecologically
+- India - one of the world's biggest polluters
 
-**Lekcja dla współczesnych:** Duchowość bez działania ekologicznego to hipokryzja.
+**Lesson for contemporaries:** Spirituality without ecological action is hypocrisy.
 
-## Sekcja III: UNIWERSALNE PRAWDY - Co Nie Zmienia się w Naturze Ludzkiej
+## Section III: UNIVERSAL TRUTHS - What Doesn't Change in Human Nature
 
-### 1. Potrzeba Sensu i Transcendencji
+### 1. Need for Meaning and Transcendence
 
-**Cytat Tagore:** "Where the mind is without fear and the head is held high"
+**Tagore Quote:** "Where the mind is without fear and the head is held high"
 
-**Prawda uniwersalna:** Ludzie w każdej epoce szukają czegoś większego niż oni sami.
+**Universal truth:** People in every era seek something greater than themselves.
 
-**Współczesne potwierdzenie:**
-- Gen Z masowo praktykuje mindfulness mimo ateizmu
-- TikTok pełen treści o "manifestowaniu" i duchowości
-- Krypto i NFT jako nowe formy "wiary" i wspólnoty
-- Mental health awareness jako forma duchowej praktyki
+**Contemporary confirmation:**
+- Gen Z massively practices mindfulness despite atheism
+- TikTok full of content about "manifesting" and spirituality
+- Crypto and NFTs as new forms of "faith" and community
+- Mental health awareness as form of spiritual practice
 
-### 2. Miłość vs Instytucja
+### 2. Love vs Institution
 
-**Cytat Tagore:** "Miłość zawsze niszczy małżeństwo" (w jednej z jego powieści)
+**Tagore Quote:** "Love always destroys marriage" (in one of his novels)
 
-**Prawda uniwersalna:** Tension między spontaniczną miłością a społecznymi strukturami.
+**Universal truth:** Tension between spontaneous love and social structures.
 
-**Współczesne potwierdzenie:**
-- Gen Z redefiniuje związki - polyamoria, relationship anarchy
-- Spadająca liczba małżeństw, wzrost kohabitacji
-- Apps randkowe vs głębsze relacje - wieczny konflikt
-- Red flags i toxic relationships jako popularne tematy TikTok
+**Contemporary confirmation:**
+- Gen Z redefines relationships - polyamory, relationship anarchy
+- Declining marriage rates, increase in cohabitation
+- Dating apps vs deeper relationships - eternal conflict
+- Red flags and toxic relationships as popular TikTok topics
 
-### 3. Indywidualizm vs Wspólnota
+### 3. Individualism vs Community
 
-**Cytat Tagore:** "Where the world has not been broken up into fragments"
+**Tagore Quote:** "Where the world has not been broken up into fragments"
 
-**Prawda uniwersalna:** Ludzie potrzebują zarówno autonomii jak i przynależności.
+**Universal truth:** People need both autonomy and belonging.
 
-**Współczesne potwierdzenie:**
-- Social media paradoks - więcej połączeń, więcej samotności
-- Gen Z bardziej samotni niż boomers mimo technology
-- Online communities jako nowe formy plemion
-- FOMO i social comparison jako odwieczne problemy w nowej formie
+**Contemporary confirmation:**
+- Social media paradox - more connections, more loneliness
+- Gen Z lonelier than boomers despite technology
+- Online communities as new forms of tribes
+- FOMO and social comparison as eternal problems in new form
 
-### 4. Władza Korumpuje
+### 4. Power Corrupts
 
-**Cytat Tagore:** Krytyka "insolent might" (arogancka siła)
+**Tagore Quote:** Criticism of "insolent might" (arrogant force)
 
-**Prawda uniwersalna:** Władza bez duchowej dyscypliny prowadzi do tyranii.
+**Universal truth:** Power without spiritual discipline leads to tyranny.
 
-**Współczesne potwierdzenie:**
-- Tech billionaires jako nowi kolonialiści
-- Influencers zkorumpowani przez fame i pieniądze
-- Political polarization na całym świecie
-- Gen Z nie ufa institusjom bardziej niż wcześniejsze pokolenia
+**Contemporary confirmation:**
+- Tech billionaires as new colonialists
+- Influencers corrupted by fame and money
+- Political polarization worldwide
+- Gen Z trusts institutions less than previous generations
 
-## Sekcja IV: RELATIONSHIP RED FLAGS - Tagore vs Współczesność
+## Section IV: RELATIONSHIP RED FLAGS - Tagore vs Contemporary
 
-### Toxic Patterns Zidentyfikowane przez Tagore (1910)
+### Toxic Patterns Identified by Tagore (1910)
 
 1. **Treating Partner as Accessory**
-   - Tagore: Mąż traktuje żonę jako ozdobę, nie człowieka
-   - 2025: Instagram couples, performatywne związki
+   - Tagore: Husband treats wife as ornament, not human
+   - 2025: Instagram couples, performative relationships
 
 2. **Family Control Over Individual Choice**
-   - Tagore: Rodzina decyduje o małżeństwie
-   - 2025: Helicopter parents, family pressure na karierę
+   - Tagore: Family decides about marriage
+   - 2025: Helicopter parents, family pressure on career
 
 3. **Suppressing Partner's Talents**
-   - Tagore: Mąż niszczy pasje żony
-   - 2025: Partner jealous of success, sabotujący dreams
+   - Tagore: Husband destroys wife's passions
+   - 2025: Partner jealous of success, sabotaging dreams
 
 4. **Never Standing Up for Partner**
-   - Tagore: Mąż nie broni żony przed rodziną
-   - 2025: Partner nie wspiera w conflicts z friends/family
+   - Tagore: Husband doesn't defend wife against family
+   - 2025: Partner doesn't support in conflicts with friends/family
 
 ### Healthy Relationship Wisdom (Timeless)
 
 1. **Respect Individual Growth**
    - Tagore: "Give me strength to make my love fruitful in service"
-   - 2025 zastosowanie: Support partner's personal development
+   - 2025 application: Support partner's personal development
 
 2. **Choose Love Over Social Pressure**
    - Tagore: Chitra declines marriage knowing it won't work
-   - 2025 zastosowanie: End relationships that don't serve you
+   - 2025 application: End relationships that don't serve you
 
 3. **Intellectual Partnership**
    - Tagore: "Where knowledge is free"
-   - 2025 zastosowanie: Partners who stimulate each other mentally
+   - 2025 application: Partners who stimulate each other mentally
 
 4. **Spiritual Connection**
    - Tagore: Love as divine experience
-   - 2025 zastosowanie: Shared values and life philosophy
+   - 2025 application: Shared values and life philosophy
 
-## Sekcja V: GENERATIONAL EVOLUTION - Co się Zmieniło vs Co Zostało
+## Section V: GENERATIONAL EVOLUTION - What Changed vs What Remained
 
-### Co się ZMIENIŁO:
+### What CHANGED:
 
 1. **Communication Technology**
-   - 1910: Listy, spotkania face-to-face
+   - 1910: Letters, face-to-face meetings
    - 2025: Texting, video calls, social media
-   - **Impact**: Więcej surface-level connections, mniej deep intimacy
+   - **Impact**: More surface-level connections, less deep intimacy
 
 2. **Gender Roles**
-   - 1910: Wyraźnie zdefiniowane role płciowe
+   - 1910: Clearly defined gender roles
    - 2025: Fluid gender expression, equal expectations
-   - **Impact**: Więcej możliwości, więcej confusion
+   - **Impact**: More possibilities, more confusion
 
 3. **Economic Independence**
-   - 1910: Kobiety zależne ekonomicznie od mężczyzn
-   - 2025: Economic equality (w teorii), finansowa autonomia
-   - **Impact**: Więcej relationship choices, wyższe standards
+   - 1910: Women economically dependent on men
+   - 2025: Economic equality (in theory), financial autonomy
+   - **Impact**: More relationship choices, higher standards
 
 4. **Family Structure**
    - 1910: Extended families, social control
    - 2025: Nuclear families, individual choice
-   - **Impact**: Więcej freedom, mniej support network
+   - **Impact**: More freedom, less support network
 
-### Co ZOSTAŁO to samo:
+### What REMAINED the same:
 
 1. **Jealousy and Insecurity**
-   - 1910: Zazdrość o inne kobiety/mężczyzn
-   - 2025: Stalking social media, anxiety o ex-partners
+   - 1910: Jealousy about other women/men
+   - 2025: Stalking social media, anxiety about ex-partners
 
 2. **Power Struggles in Relationships**
-   - 1910: Kto ma władzę w domu
+   - 1910: Who has power at home
    - 2025: Who controls finances, decisions, social life
 
 3. **Need for Emotional Validation**
-   - 1910: Potrzeba bycia kochanym i docenianym
+   - 1910: Need to be loved and appreciated
    - 2025: Likes, comments, constant reassurance
 
 4. **Fear of Abandonment**
-   - 1910: Strach przed zostaniem samemu
+   - 1910: Fear of being left alone
    - 2025: Ghosting anxiety, attachment issues
 
-## Sekcja VI: PRACTICAL LIFE LESSONS dla Gen Z
+## Section VI: PRACTICAL LIFE LESSONS for Gen Z
 
 ### 1. Inner Peace in Digital Chaos
 
@@ -298,37 +298,37 @@ Rabindranath Tagore w 1910 roku, pisząc "Gitanjali" w Bengalu pod brytyjskim pa
 - Practice gratitude and acceptance
 - Cultivate inner resilience for external challenges
 
-## Sekcja VII: TIMELINE PORÓWNANIA - 1910 vs 2025
+## Section VII: TIMELINE COMPARISON - 1910 vs 2025
 
-### Społeczne Zmiany:
+### Social Changes:
 
 **1910 - Tagore's World:**
-- British Raj w Indiach
-- Kobiety bez praw wyborczych
-- Kastowy system w pełnej sile
-- Komunikacja przez listy
+- British Raj in India
+- Women without voting rights
+- Caste system in full force
+- Communication through letters
 
 **2025 - Our World:**
-- Indie jako potęga technologiczna
-- Kobiety w parlamencie i biznesie (ale wciąż nierówności)
-- System kastowy officially illegal, ale social practice continues
+- India as technological power
+- Women in parliament and business (but still inequalities)
+- Caste system officially illegal, but social practice continues
 - Instant global communication
 
-### Co się Sprawdziło w Timeline:
+### What Came True in Timeline:
 
-1. **Edukacja kobiet** - Tagore przewidział, nastąpiło
-2. **Koniec colonialnego systemu** - Tagore przewidział, nastąpiło (ale później)
-3. **Global cultural exchange** - Tagore przewidział, nastąpiło przez internet
-4. **Crisis of traditional religion** - Tagore przewidział, nastąpiło
+1. **Women's education** - Tagore predicted, happened
+2. **End of colonial system** - Tagore predicted, happened (but later)
+3. **Global cultural exchange** - Tagore predicted, happened through internet
+4. **Crisis of traditional religion** - Tagore predicted, happened
 
-### Co nie sprawdziło się w Timeline:
+### What didn't come true in Timeline:
 
-1. **Peaceful resolution of conflicts** - Tagore był zbyt optymistyczny
-2. **Automatic spiritual evolution** - Ludzie nie stali się automatycznie mądrzejsi
-3. **Technology as pure liberation** - Tagore nie przewidział social media addiction
-4. **End of economic inequality** - Problem się pogłębił mimo technological progress
+1. **Peaceful resolution of conflicts** - Tagore was too optimistic
+2. **Automatic spiritual evolution** - People didn't automatically become wiser
+3. **Technology as pure liberation** - Tagore didn't predict social media addiction
+4. **End of economic inequality** - Problem deepened despite technological progress
 
-## Sekcja VIII: DATING i ZWIĄZKI - Red Flags i Wisdom
+## Section VIII: DATING and RELATIONSHIPS - Red Flags and Wisdom
 
 ### Red Flags Identified by Tagore (Still Relevant):
 
@@ -366,7 +366,7 @@ Rabindranath Tagore w 1910 roku, pisząc "Gitanjali" w Bengalu pod brytyjskim pa
    - Tagore: "I slept and dreamt that life was joy. I awoke and saw that life was service"
    - Modern: Relationships about mutual support, not ownership
 
-## Sekcja IX: EVOLUTION OF SOCIAL NORMS
+## Section IX: EVOLUTION OF SOCIAL NORMS
 
 ### 1910 Social Norms:
 - Rigid gender roles
@@ -396,7 +396,7 @@ Rabindranath Tagore w 1910 roku, pisząc "Gitanjali" w Bengalu pod brytyjskim pa
 3. **Backlash Against Progress** - Conservative reaction to liberal changes
 4. **Complexity of Human Nature** - People don't automatically become better
 
-## Sekcja X: PRAKTYCZNE TAKEAWAYS dla Współczesnej Młodzieży
+## Section X: PRACTICAL TAKEAWAYS for Contemporary Youth
 
 ### For Personal Development:
 
@@ -440,14 +440,14 @@ Rabindranath Tagore w 1910 roku, pisząc "Gitanjali" w Bengalu pod brytyjskim pa
    - Tagore sought unity across religious and cultural divides
    - Modern: Build understanding across political and social differences
 
-## Wnioski: Uniwersalna Mądrość vs Historyczne Ograniczenia
+## Conclusions: Universal Wisdom vs Historical Limitations
 
-Rabindranath Tagore okazał się zaskakująco trafny w przewidywaniu długoterminowych trendów społecznych - emancypacji kobiet, kryzysu nacjonalizmu, potrzeby globalnej duchowości, i edukacji jako narzędzia wyzwolenia. Jego psychologiczne wglądy w naturę ludzką pozostają uniwersalne.
+Rabindranath Tagore proved surprisingly accurate in predicting long-term social trends - women's emancipation, the crisis of nationalism, the need for global spirituality, and education as a tool of liberation. His psychological insights into human nature remain universal.
 
-Jednak był naiwny co do tempa zmian, siły oporu społecznego, i ciemnej strony technologii. Jego romantyczny idealizm nie uwzględniał złożoności ludzkiej natury i siły interesów ekonomicznych.
+However, he was naive about the pace of change, the strength of social resistance, and the dark side of technology. His romantic idealism didn't account for the complexity of human nature and the power of economic interests.
 
-Dla współczesnej młodzieży, "Gitanjali" oferuje nie gotowe odpowiedzi, ale uniwersalne pytania: Jak zachować duchową głębię w powierzchownym świecie? Jak budować autentyczne relacje mimo presji społecznej? Jak służyć ludzkości nie tracąc indywidualnej tożsamości?
+For contemporary youth, "Gitanjali" offers not ready answers, but universal questions: How to maintain spiritual depth in a superficial world? How to build authentic relationships despite social pressure? How to serve humanity without losing individual identity?
 
-Te pytania pozostają aktualne czy żyjemy w 1910, czy w 2025 - i prawdopodobnie będą aktualne w 2125.
+These questions remain relevant whether we live in 1910 or 2025 - and probably will be relevant in 2125.
 
-**Ostateczna lekcja:** Mądrość nie polega na przewidywaniu przyszłości, ale na zadawaniu ponadczasowych pytań o sens, miłość, i służbę. W tym Tagore pozostaje naszym mistrzem.
+**Final lesson:** Wisdom doesn't lie in predicting the future, but in asking timeless questions about meaning, love, and service. In this, Tagore remains our master.

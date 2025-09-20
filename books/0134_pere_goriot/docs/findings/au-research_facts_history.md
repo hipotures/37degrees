@@ -1,195 +1,195 @@
-# Badania: Historia powstania "Ojca Goriot" (Père Goriot, 1835)
+# Research: Creation History of "Père Goriot" (1835)
 
-## Kontekst biograficzny autora
+## Biographical Context of the Author
 
-### Sytuacja finansowa Balzaca w 1834 roku
+### Balzac's Financial Situation in 1834
 
-**FAKT**: W 1834 roku, gdy Balzac pisał "Ojca Goriot", znajdował się w dramatycznej sytuacji finansowej. Między 1828 a 1834 rokiem prowadził rozrzutny tryb życia jako dandy paryski, wydając przyszłe zarobki z góry.
+**FACT**: In 1834, when Balzac was writing "Père Goriot," he found himself in a dramatic financial situation. Between 1828 and 1834, he led an extravagant lifestyle as a Parisian dandy, spending future earnings in advance.
 
-**FAKT**: Matka Balzaca była zmuszona wciągnąć własną fortunę, by ratować syna przed bankructwem. Posagi jej dwóch córek również zostały wydane na długi syna, a jedynym majątkiem, jaki jej pozostał, był dom w Paryżu.
+**FACT**: Balzac's mother was forced to drain her own fortune to save her son from bankruptcy. The dowries of her two daughters were also spent on her son's debts, and the only property remaining to her was a house in Paris.
 
-**FAKT**: W listopadzie 1834 roku matka Balzaca napisała desperacki list do syna: "Ostatni list, jaki od ciebie otrzymałam, był w listopadzie 1834. Zgadzałeś się w nim dawać mi od 1 kwietnia 1835 roku dwieście franków kwartalnie na czynsz i pokojówkę."
+**FACT**: In November 1834, Balzac's mother wrote a desperate letter to her son: "The last letter I received from you was in November 1834. In it you agreed to give me two hundred francs quarterly from April 1, 1835, for rent and a maid."
 
-### Życie osobiste jako inspiracja
+### Personal Life as Inspiration
 
-**FAKT**: W 1833 roku Balzac rozpoczął romans z pisarką Marią Du Fresnay, która była wówczas 24-letnia i mężatką. W 1834 roku, 8 miesięcy po zajściu w ciążę, urodziła mu córkę Marie-Caroline Du Fresnay.
+**FACT**: In 1833, Balzac began an affair with writer Maria Du Fresnay, who was then 24 years old and married. In 1834, 8 months after becoming pregnant, she gave birth to his daughter Marie-Caroline Du Fresnay.
 
-**FAKT**: Centralność postaci ojca w powieści odzwierciedla własną sytuację Balzaca - nie tylko jako mentora swojego sekretarza Julesa Sandeau, ale również jako świeżo upieczonego ojca nieślubnego dziecka.
+**FACT**: The centrality of the father figure in the novel reflects Balzac's own situation - not only as a mentor to his secretary Jules Sandeau, but also as a newly-made father of an illegitimate child.
 
-**FAKT**: Maria Du Fresnay była wcześniej inspiracją dla postaci Eugenie Grandet, co pokazuje, jak Balzac wykorzystywał swoje osobiste doświadczenia w twórczości.
+**FACT**: Maria Du Fresnay had previously been the inspiration for the character of Eugenie Grandet, showing how Balzac used his personal experiences in his creative work.
 
-## Proces twórczy i okoliczności powstania
+## Creative Process and Writing Circumstances
 
-### Timeline pisania
+### Writing Timeline
 
-**FAKT**: Balzac rozpoczął pracę nad "Ojcem Goriot" latem 1834 roku, gdy pracował nad tragiczną historią o ojcu odrzuconym przez córki.
+**FACT**: Balzac began work on "Père Goriot" in the summer of 1834, when he was working on the tragic story of a father rejected by his daughters.
 
-**FAKT**: Pierwszy szkic powieści napisał jesienią 1834 roku w zaledwie 40 dni, co było nawet jak na Balzaca niesamowitym tempem.
+**FACT**: He wrote the first draft of the novel in the autumn of 1834 in just 40 days, which was remarkable even by Balzac's standards.
 
-**FAKT**: Balzac pracował nad powieścią 4 miesiące, po 18 godzin dziennie, kończąc ją w październiku 1834 roku.
+**FACT**: Balzac worked on the novel for 4 months, 18 hours a day, finishing it in October 1834.
 
-**FAKT**: Powieść pisana była od września 1834 do stycznia 1835 roku.
+**FACT**: The novel was written from September 1834 to January 1835.
 
-### Notatki z dziennika
+### Diary Notes
 
-**FAKT**: Dziennik Balzaca zawiera kilka niedatowanych linijek na temat fabuły: "Temat Starego Goriota - Dobry człowiek - średniej klasy pensjonat - 600 franków dochodu - zrujnował się dla swoich córek mających po 50000 franków dochodu - umiera jak pies."
+**FACT**: Balzac's diary contains several undated lines about the plot: "Subject of Old Goriot - Good man - middle-class boarding house - 600 francs income - ruined himself for his daughters having 50,000 francs income each - dies like a dog."
 
-### Metodologia pracy
+### Working Methodology
 
-**FAKT**: Balzac pisał w godzinach od 1:00 do 8:00 rano każdego dnia, czasami jeszcze dłużej. Jego preferowaną metodą było zjedzenie lekkiego posiłku o 17:00-18:00, następnie sen do północy.
+**FACT**: Balzac wrote between 1:00 and 8:00 AM every day, sometimes even longer. His preferred method was to eat a light meal at 5:00-6:00 PM, then sleep until midnight.
 
-**FAKT**: Balzac mógł pisać bardzo szybko gęsim piórem - w tempie równym 30 słów na minutę na współczesnej maszynie do pisania.
+**FACT**: Balzac could write very quickly with a quill pen - at a pace equivalent to 30 words per minute on a contemporary typewriter.
 
-**FAKT**: Często pracował po 15 godzin bez przerwy, a raz twierdził, że pracował 48 godzin z tylko trzygodzinną przerwą w środku.
+**FACT**: He often worked 15 hours without a break, and once claimed to have worked 48 hours with only a three-hour break in the middle.
 
-**FAKT**: Balzac pił niezliczone filiżanki czarnej kawy podczas pisania. Współcześni badacze przypisują jego śmierć między innymi nadmiernemu spożyciu kofeiny - podobno wypijał ponad 50 filiżanek dziennie.
+**FACT**: Balzac drank countless cups of black coffee while writing. Contemporary researchers attribute his death partly to excessive caffeine consumption - reportedly he drank over 50 cups daily.
 
-**FAKT**: Pracował w białym, quasi-mnisim szlafroku przy swoim stole z gęsim piórem.
+**FACT**: He worked in a white, quasi-monastic dressing gown at his desk with a quill pen.
 
-## Inspiracje literackie i rzeczywiste
+## Literary and Real-Life Inspirations
 
-### Wpływ Szekspira
+### Shakespeare's Influence
 
-**FAKT**: "Ojciec Goriot" jest transpozycją "Króla Leara" Szekspira na Paryż lat 20. XIX wieku. Balzac został nawet oskarżony o plagiat przy pierwszej publikacji.
+**FACT**: "Père Goriot" is a transposition of Shakespeare's "King Lear" to 1820s Paris. Balzac was even accused of plagiarism upon first publication.
 
-**FAKT**: Krytyk George Saintsbury twierdził, że córki Goriot "są równie pewne morderczyniami swojego ojca jak [córki Leara] Goneril i Regan".
+**FACT**: Critic George Saintsbury claimed that Goriot's daughters "are as certain murderers of their father as [Lear's daughters] Goneril and Regan."
 
-### Wpływ Cooper'a i Scott'a
+### Influence of Cooper and Scott
 
-**FAKT**: Styl Balzaca w "Ojcu Goriot" nosi znamiona wpływu amerykańskiego powieściopisarza Jamesa Fenimore'a Cooper'a i szkockiego pisarza Waltera Scott'a.
+**FACT**: Balzac's style in "Père Goriot" bears the influence of American novelist James Fenimore Cooper and Scottish writer Walter Scott.
 
-**FAKT**: W wyobrażeniach Cooper'a o pierwotnych mieszkańcach Ameryki Balzac dostrzegł ludzkie barbarzyństwo, które przetrwało próby ucywilizowania.
+**FACT**: In Cooper's depictions of America's native inhabitants, Balzac saw human barbarism that survived attempts at civilization.
 
-**FAKT**: W przedmowie do drugiego wydania w 1835 roku Balzac napisał, że tytułowy Goriot był "Illinoisem przemysłu mącznego" i "Huronem rynku zboża".
+**FACT**: In the preface to the second edition in 1835, Balzac wrote that the titular Goriot was "an Illinois of the flour industry" and "a Huron of the grain market."
 
-**FAKT**: Vautrin określa Paryż jako "las Nowego Świata, gdzie dwadzieścia brutalnych plemion zderza się ze sobą" - kolejna oznaka wpływu Cooper'a.
+**FACT**: Vautrin describes Paris as "a forest of the New World, where twenty brutal tribes clash with each other" - another sign of Cooper's influence.
 
-### Inspiracje z rzeczywistości - postać Vautrina
+### Real-Life Inspirations - The Character of Vautrin
 
-**FAKT**: Zimą 1828-29 Eugène-François Vidocq opublikował swoje wspomnienia opisujące przestępstwa, których się dopuścił przed rozpoczęciem pracy w służbie policyjnej.
+**FACT**: In the winter of 1828-29, Eugène-François Vidocq published his memoirs describing crimes he committed before beginning work in the police service.
 
-**FAKT**: Balzac spotkał Vidocq'a w kwietniu 1834 roku i użył go jako prototypu dla postaci Vautrina, której planował użyć w nowej powieści.
+**FACT**: Balzac met Vidocq in April 1834 and used him as a prototype for the character Vautrin, whom he planned to use in a new novel.
 
-### Szczegóły Pension Vauquer
+### Details of Pension Vauquer
 
-**FAKT**: Przyjaciel Balzaca, Henri de Latouche, miał dobre rozeznanie w tapetowaniu. Balzac przeniósł tę wiedzę do opisów Pension Vauquer, czyniąc tapety odzwierciedleniem tożsamości mieszkańców.
+**FACT**: Balzac's friend, Henri de Latouche, had good knowledge of wallpapering. Balzac transferred this knowledge to descriptions of Pension Vauquer, making the wallpaper reflect the inhabitants' identities.
 
-**FAKT**: Powieść otwiera się słowami po angielsku: "All is true" ("Wszystko jest prawdą"). Choć postacie i sytuacje są fikcyjne, szczegóły wiernie oddają rzeczywistość życia w Paryżu tamtych czasów.
+**FACT**: The novel opens with words in English: "All is true." Though the characters and situations are fictional, the details faithfully reflect the reality of life in Paris at that time.
 
-## Historia publikacji
+## Publication History
 
-### Pierwsze wydanie
+### First Edition
 
-**FAKT**: "Ojciec Goriot" był publikowany w odcinkach w "Revue de Paris" od grudnia 1834 do lutego 1835 roku.
+**FACT**: "Père Goriot" was published in installments in "Revue de Paris" from December 1834 to February 1835.
 
-**FAKT**: Jako samodzielna powieść został wydany w marcu 1835 roku przez dom wydawniczy Edmonda Werdeta (i Spahmanna).
+**FACT**: As a standalone novel, it was published in March 1835 by the publishing house of Edmond Werdet (and Spahmann).
 
-**FAKT**: Drugie wydanie ukazało się już w maju 1835 roku, również u Werdeta.
+**FACT**: The second edition appeared in May 1835, also by Werdet.
 
-**FAKT**: Trzecie, poprawione wydanie zostało opublikowane w 1839 roku przez Charpentiera.
+**FACT**: The third, revised edition was published in 1839 by Charpentier.
 
-### Reakcje i recepcja
+### Reactions and Reception
 
-**FAKT**: Pierwsze recenzje książki były mieszane. Niektórzy recenzenci oskarżali Balzaca o plagiat lub przytłaczanie czytelnika szczegółami i malowanie uproszczonego obrazu paryskiego high society.
+**FACT**: The first reviews of the book were mixed. Some reviewers accused Balzac of plagiarism or overwhelming the reader with details and painting an oversimplified picture of Parisian high society.
 
-**FAKT**: Inni krytykowali wątpliwą moralność postaci, sugerując, że Balzac legitymizuje ich poglądy, i potępiali go za nieumieszczenie w książce więcej postaci o szlachetnych intencjach.
+**FACT**: Others criticized the questionable morality of the characters, suggesting that Balzac legitimized their views, and condemned him for not including more characters with noble intentions in the book.
 
-**FAKT**: Mimo mieszanych recenzji, sam Balzac był niezwykle dumny z dzieła, oświadczając jeszcze przed opublikowaniem ostatniej części: "Père Goriot to szalejący sukces; moi najzajadlejsi wrogowie musieli ugiąć kolana. Zatriumfowałem nad wszystkim, nad przyjaciółmi jak i zawistnikami".
+**FACT**: Despite mixed reviews, Balzac himself was extremely proud of the work, declaring before the last part was published: "Père Goriot is a raging success; my most bitter enemies had to bow their knees. I have triumphed over everything, over friends and envious alike."
 
-**FAKT**: Do Madame Hańskiej 28 grudnia 1834 roku Balzac opisał swoją powieść jako "piękne dzieło, ale potworne smutne", a kilka dni później zauważył: "To przewyższa wszystkie moje poprzednie kompozycje... Eugénie Grandet, l'Absolu, wszystko jest przewyższone..."
+**FACT**: To Madame Hańska on December 28, 1834, Balzac described his novel as "a beautiful work, but monstrously sad," and a few days later noted: "This surpasses all my previous compositions... Eugénie Grandet, l'Absolu, everything is surpassed..."
 
-### Adaptacje teatralne
+### Theatrical Adaptations
 
-**FAKT**: W latach następujących po publikacji powieść była często adaptowana na scenę. Dwie produkcje teatralne w 1835 roku - kilka miesięcy po publikacji książki - podtrzymały jej popularność i zwiększyły szacunek publiczności dla Balzaca.
+**FACT**: In the years following publication, the novel was frequently adapted for the stage. Two theatrical productions in 1835 - a few months after the book's publication - sustained its popularity and increased public respect for Balzac.
 
-## Znaczenie w twórczości Balzaca
+## Significance in Balzac's Work
 
-### Technika powracających postaci
+### Technique of Recurring Characters
 
-**FAKT**: "Ojciec Goriot" był pierwszą powieścią, w której Balzac zastosował technikę powracających postaci, praktykę, której złożoność i regularność występowania stały się charakterystyczne dla jego twórczości.
+**FACT**: "Père Goriot" was the first novel in which Balzac employed the technique of recurring characters, a practice whose complexity and regularity became characteristic of his work.
 
-**FAKT**: Prawdopodobnie w tym samym roku Balzac wpadł na pomysł powracania postaci z powieści do powieści; pierwszą powieścią wykorzystującą tę technikę był "Père Goriot" (1834-1835).
+**FACT**: Probably in the same year, Balzac came up with the idea of characters returning from novel to novel; the first novel to use this technique was "Père Goriot" (1834-1835).
 
-**FAKT**: Zgodnie ze swoim zwyczajem, Balzac wprowadził liczne notatki i zmiany na korektach otrzymanych od wydawców, tak że późniejsze wydania jego powieści często znacząco różniły się od najwcześniejszych.
+**FACT**: According to his custom, Balzac introduced numerous notes and changes to proofs received from publishers, so that later editions of his novels often differed significantly from the earliest ones.
 
-**FAKT**: W przypadku "Ojca Goriot" zmienił wiele postaci w osoby z innych napisanych przez siebie powieści i dodał nowe fragmenty.
+**FACT**: In the case of "Père Goriot," he changed many characters into people from other novels he had written and added new fragments.
 
-### Miejsce w "Komedii Ludzkiej"
+### Place in "The Human Comedy"
 
-**FAKT**: "Ojciec Goriot" należy do części "Sceny z życia prywatnego" monumentalnej "Komedii Ludzkiej", która składa się z 91 opowiadań, powieści i esejów.
+**FACT**: "Père Goriot" belongs to the "Scenes from Private Life" section of the monumental "Human Comedy," which consists of 91 stories, novels, and essays.
 
-**FAKT**: Balzac ożywił w swoich dziełach ponad dwa tysiące postaci.
+**FACT**: Balzac brought to life over two thousand characters in his works.
 
-## Wpływ kulturowy i międzynarodowy sukces
+## Cultural Impact and International Success
 
-### Status literacki
+### Literary Status
 
-**FAKT**: Według redaktora Norton Critical Edition, Petera Brooksa, książka jest obecnie postrzegana jako "najbardziej trwale popularna z niezliczonych prac Balzaca" i "klasyk XIX-wiecznej powieści europejskiej".
+**FACT**: According to the editor of the Norton Critical Edition, Peter Brooks, the book is currently regarded as "the most enduringly popular of Balzac's countless works" and "a classic of 19th-century European novel."
 
-**FAKT**: "Père Goriot" jest powszechnie uważane za najważniejszą powieść Balzaca.
+**FACT**: "Père Goriot" is widely considered Balzac's most important novel.
 
-**FAKT**: Francuski powieściopisarz Félicien Marceau zauważył: "Wszyscy jesteśmy dziećmi Le Père Goriot".
+**FACT**: French novelist Félicien Marceau noted: "We are all children of Le Père Goriot."
 
-### Wpływ na język francuski
+### Influence on French Language
 
-**FAKT**: Powieść dała początek francuskiemu wyrażeniu "Rastignac" - określeniu ambitnego społecznego wspinacza gotowego użyć wszelkich środków do poprawy swojej sytuacji.
+**FACT**: The novel gave rise to the French expression "Rastignac" - a term for an ambitious social climber ready to use any means to improve his situation.
 
-**FAKT**: "Rastignac" to dość powszechna zniewaga we Francji, pokazująca głęboką kulturę intelektualną kraju.
+**FACT**: "Rastignac" is a fairly common insult in France, showing the country's deep intellectual culture.
 
-**FAKT**: Na cmentarzu Père Lachaise Rastignac wygłasza słynną proklamację: "À nous deux, maintenant!" ("Teraz tylko ty i ja!"), która stała się kultową frazą francuskiej literatury.
+**FACT**: At Père Lachaise cemetery, Rastignac delivers the famous proclamation: "À nous deux, maintenant!" ("Now it's just you and me!"), which became an iconic phrase in French literature.
 
-### Wpływ na kulturę popularną
+### Influence on Popular Culture
 
-**FAKT**: Znana kwestia z tej książki, gdy Vautrin mówi do Eugène: "W takim przypadku złożę ci ofertę, której nikt by nie odrzucił", została przerobiona przez Mario Puzo w powieści "Ojciec chrzestny" (1969) i jej filmowej adaptacji (1972): "Złożę mu ofertę, której nie będzie mógł odrzucić".
+**FACT**: A famous line from this book, when Vautrin says to Eugène: "In that case, I'll make you an offer that no one would refuse," was reworked by Mario Puzo in the novel "The Godfather" (1969) and its film adaptation (1972): "I'll make him an offer he can't refuse."
 
-**FAKT**: Ta kwestia została uznana za drugą najważniejszą cytatę kinematograficzną w AFI's 100 Years...100 Movie Quotes (2005) przez American Film Institute.
+**FACT**: This line was recognized as the second most important cinematic quote in AFI's 100 Years...100 Movie Quotes (2005) by the American Film Institute.
 
-## Tłumaczenia i wydania
+## Translations and Editions
 
-### Polskie tłumaczenia
+### Polish Translations
 
-**FAKT**: Pierwsze polskie tłumaczenie "Ojca Goriota" zostało wykonane przez Amelię Bortnowską i opublikowane w 1881 roku w Warszawie przez wydawnictwo S. Lewental.
+**FACT**: The first Polish translation of "Père Goriot" was made by Amelia Bortnowska and published in 1881 in Warsaw by S. Lewental publishing house.
 
-**FAKT**: Wydanie było częścią serii "Biblioteka Najcelniejszych Utworów Literatury Europejskiej. Literatura Francuzka" i stanowiło tom 3 "Komedii Ludzkiej" Balzaca.
+**FACT**: The edition was part of the series "Library of the Most Excellent Works of European Literature. French Literature" and constituted volume 3 of Balzac's "Human Comedy."
 
-### Tłumaczenia międzynarodowe
+### International Translations
 
-**FAKT**: Ponieważ "Père Goriot" stało się tak ważną powieścią do studiowania literatury francuskiej, zostało przetłumaczone wielokrotnie na wiele języków.
+**FACT**: Because "Père Goriot" became such an important novel for studying French literature, it has been translated multiple times into many languages.
 
-**FAKT**: Według biografa Balzaca, Grahama Robba, "Goriot to jedna z powieści La Comédie humaine, którą można bezpiecznie czytać po angielsku dla tego, czym jest".
+**FACT**: According to Balzac's biographer, Graham Robb, "Goriot is one of the novels of La Comédie humaine that can safely be read in English for what it is."
 
-### Adaptacje filmowe
+### Film Adaptations
 
-**FAKT**: W XX wieku powstało wiele wersji filmowych, w tym adaptacje w reżyserii Travers'a Vale (1915), Jacques'a de Baronelli (1922) i Paddy Russell (1968).
+**FACT**: In the 20th century, many film versions were made, including adaptations directed by Travers Vale (1915), Jacques de Baronelli (1922), and Paddy Russell (1968).
 
-**FAKT**: Znacząca adaptacja z 1945 roku w reżyserii Roberta Vernay'a, z Pierre'em Renoirem jako Vautrin, została uznana za doskonałą adaptację, która uchwycił czarny humor, cynizm i tragiczną przenikliwość powieści.
+**FACT**: A significant 1945 adaptation directed by Robert Vernay, with Pierre Renoir as Vautrin, was recognized as an excellent adaptation that captured the black humor, cynicism, and tragic insight of the novel.
 
-**FAKT**: W 1972 roku powstał film telewizyjny w reżyserii Guy Jorré z Charlesem Vanelem w roli głównej.
+**FACT**: In 1972, a television film was made directed by Guy Jorré with Charles Vanel in the lead role.
 
-## Ciekawostki i anegdoty
+## Curiosities and Anecdotes
 
-### Liczby i statystyki
+### Numbers and Statistics
 
-**FAKT**: Balzac uzywał obsesyjnie korekt, pokrywając próbne odbitki wydawców zmianami i dodatkami do ponownego składu. Czasami powtarzał ten proces podczas publikacji książki, powodując znaczne koszty zarówno dla siebie, jak i wydawcy.
+**FACT**: Balzac used corrections obsessively, covering publishers' proofs with changes and additions for re-composition. Sometimes he repeated this process during book publication, causing significant costs for both himself and the publisher.
 
-**PLOTKA**: Współcześni badacze przypisują częściowo śmierć Balzaca nadmiernemu spożyciu kawy lub przedawkowaniu kofeiny - podobno wypijał ponad 50 filiżanek dziennie.
+**RUMOR**: Contemporary researchers partly attribute Balzac's death to excessive coffee consumption or caffeine overdose - reportedly he drank over 50 cups daily.
 
-### Kontekst historyczny
+### Historical Context
 
-**FAKT**: Akcja powieści toczy się w Paryżu w 1819 roku, podczas okresu Restauracji, gdy król Ludwik XVIII został przywrócony na tron w monarchii konstytucyjnej.
+**FACT**: The novel's action takes place in Paris in 1819, during the Restoration period, when King Louis XVIII was restored to the throne in a constitutional monarchy.
 
-**FAKT**: Po raz pierwszy we Francji niższe klasy miały szansę zdobyć bogactwo i władzę oraz awansować społecznie.
+**FACT**: For the first time in France, the lower classes had a chance to gain wealth and power and advance socially.
 
-**FAKT**: Dzisiejsza rue Tournefort to dawna rue Neuve-Sainte-Geneviève, gdzie Balzac umieścił Pension Vauquer. Stromą część, gdzie stałby dom, nazywa się obecnie rue Lhomond.
+**FACT**: Today's rue Tournefort is the former rue Neuve-Sainte-Geneviève, where Balzac placed Pension Vauquer. The steep part, where the house would stand, is now called rue Lhomond.
 
-### Wpływ na współczesność
+### Impact on Contemporary Times
 
-**FAKT**: "Ojciec Goriot" jest jedną z najważniejszych lektur szkolnych w Polsce i częścią kanonu literatury światowej w polskim systemie edukacyjnym.
+**FACT**: "Père Goriot" is one of the most important school readings in Poland and part of the world literature canon in the Polish education system.
 
-**FAKT**: Powieść pozostaje ważną pozycją w polskim kanonie literackim jako przykład realizmu francuskiego XIX wieku.
+**FACT**: The novel remains an important position in the Polish literary canon as an example of 19th-century French realism.
 
-**FAKT**: Jest publikowana w ramach projektu Wolne Lektury i dostępna cyfrowo dla współczesnych czytelników.
+**FACT**: It is published as part of the Free Readings project and available digitally for contemporary readers.
 
 ---
 
-**Podsumowanie**: "Ojciec Goriot" powstał w dramatycznych okolicznościach finansowych i osobistych Balzaca w 1834 roku, czerpał z jego własnych doświadczeń ojcostwa oraz inspiracji literackich (głównie Szekspir) i rzeczywistych postaci (Vidocq). Napisany w zaledwie 40 dni przy ekstremalnym tempie pracy, stał się jedną z najważniejszych powieści literatury światowej i wywarł trwały wpływ na kulturę francuską i międzynarodową. Mimo początkowo mieszanych recenzji, obecnie jest uznawany za arcydzieło realizmu i kluczowe dzieło "Komedii Ludzkiej" Balzaca.
+**Summary**: "Père Goriot" was created under dramatic financial and personal circumstances for Balzac in 1834, drawing from his own experiences of fatherhood and literary inspirations (mainly Shakespeare) and real-life figures (Vidocq). Written in just 40 days at an extreme pace of work, it became one of the most important novels in world literature and had a lasting impact on French and international culture. Despite initially mixed reviews, it is now recognized as a masterpiece of realism and a key work of Balzac's "Human Comedy."

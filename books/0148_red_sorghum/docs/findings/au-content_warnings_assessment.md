@@ -1,155 +1,155 @@
-# Ocena Zgodności z Zasadami Platform - "Czerwone sorgo" Mo Yana
+# Content Warnings & Platform Compliance Assessment - "Red Sorghum" by Mo Yan
 
-**Data oceny**: 4 września 2025  
-**Książka**: Red Sorghum (Czerwone sorgo) - Mo Yan, 1986  
+**Assessment Date**: September 20, 2025
+**Book**: Red Sorghum - Mo Yan, 1986
 **Agent**: Content Warnings & Platform Compliance Assessment
 
-## Streszczenie wykonawcze
+## Executive Summary
 
-"Czerwone sorgo" Mo Yana zawiera znaczne wyzwania dla twórców treści na platformach społecznościowych. Książka porusza kontrowersyjne tematy polityczne związane z komunizmem chińskim, zawiera szczegółowe opisy przemocy wojennej i seksualnej, oraz dotyczy problemów cenzury i dysydentów. W kontekście nowych zasad platform społecznościowych na 2025 rok, treść wymaga ostrożnego podejścia i dostosowania do każdej platformy osobno.
-
----
-
-## Matrix Problematycznych Tematów vs Platformy
-
-### 🚨 KRYTYCZNE RYZYKA dla wszystkich platform
-
-| Temat | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
-|-------|----------|-----------|---------|---------|---------|------|
-| **Przemoc seksualna/gwałt** | 🔴 BAN | 🔴 BAN | 🔴 DEMONETIZED | 🔴 BAN | 🔴 BAN | 🟡 CONTENT WARNING |
-| **Szczegółowe opisy przemocy** | 🔴 HIGH RISK | 🔴 HIGH RISK | 🟡 AGE-RESTRICT | 🟡 AGE-RESTRICT | 🟡 EDIT/OMIT | 🟢 OK |
-| **Krytyka reżimów politycznych** | 🟡 UNPREDICTABLE | 🟡 UNPREDICTABLE | 🟡 REVIEW | 🔴 HIGH RISK | 🟢 OK | 🟢 OK |
-| **Mo Yan kontrowersje polityczne** | 🔴 HIGH RISK | 🔴 HIGH RISK | 🟡 EDUCATIONAL | 🔴 HIGH RISK | 🟢 OK | 🟢 OK |
-| **Cenzura i dysydenci** | 🟡 COMMUNITY NOTES | 🟡 RISK | 🟡 CONTEXT NEEDED | 🔴 HIGH RISK | 🟢 OK | 🟢 OK |
-
-### 🟡 ŚREDNIE RYZYKA
-
-| Temat | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
-|-------|----------|-----------|---------|---------|---------|------|
-| **Historia chińsko-japońska** | 🟢 OK | 🟢 OK | 🟢 OK | 🟡 CONTEXT | 🟢 OK | 🟢 OK |
-| **Trauma pokoleniowa** | 🟢 OK | 🟢 OK | 🟢 VALUABLE | 🟢 TRENDY | 🟢 OK | 🟢 OK |
-| **Tradycyjne chińskie kultury** | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK |
-| **Krytyka modernizacji** | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK |
+Mo Yan's "Red Sorghum" presents significant challenges for social media content creators. The book addresses controversial political themes related to Chinese communism, contains detailed descriptions of war and sexual violence, and involves issues of censorship and dissidents. Under 2025 social media platform policies, content requires careful handling and platform-specific adaptation strategies.
 
 ---
 
-## Szczegółowa Ocena Platform
+## Problematic Topics vs Platforms Matrix
 
-### 📱 Facebook/Instagram (WYSOKIE RYZYKO - 🔴)
+### 🚨 CRITICAL RISKS for all platforms
 
-#### Główne zagrożenia:
-1. **Nowe zasady 2025**: Liberalizacja "hate speech" może być nieprzewidywalna
-2. **Community Notes**: Kontrowersyjne twierdzenia o Mo Yana mogą wywołać fact-checking
-3. **Polityczna wrażliwość**: Tematy chińskie szczególnie monitorowane
-4. **Przemoc seksualna**: Zero tolerancji dla opisów gwałtu
+| Topic | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+|-------|----------|-----------|---------|---------|---------|------|
+| **Sexual violence/rape** | 🔴 BAN | 🔴 BAN | 🔴 DEMONETIZED | 🔴 BAN | 🔴 BAN | 🟡 CONTENT WARNING |
+| **Detailed violence descriptions** | 🔴 HIGH RISK | 🔴 HIGH RISK | 🟡 AGE-RESTRICT | 🟡 AGE-RESTRICT | 🟡 EDIT/OMIT | 🟢 OK |
+| **Criticism of political regimes** | 🟡 UNPREDICTABLE | 🟡 UNPREDICTABLE | 🟡 REVIEW | 🔴 HIGH RISK | 🟢 OK | 🟢 OK |
+| **Mo Yan political controversies** | 🔴 HIGH RISK | 🔴 HIGH RISK | 🟡 EDUCATIONAL | 🔴 HIGH RISK | 🟢 OK | 🟢 OK |
+| **Censorship and dissidents** | 🟡 COMMUNITY NOTES | 🟡 RISK | 🟡 CONTEXT NEEDED | 🔴 HIGH RISK | 🟢 OK | 🟢 OK |
 
-#### Rekomendacje:
-- **AGE-RESTRICT wszystkie posty** zawierające przemoc
-- **UNIKAJ omawiania**: 
-  - Kontrowersji wokół Mo Yana i jego pozycji wobec dysydentów
-  - Szczegółów scen gwałtu z książki
-  - Bezpośredniej krytyki systemu komunistycznego
-- **FOCUS NA**:
-  - Wartości literackie i artystyczne dzieła
-  - Uniwersalne tematy (rodzina, przyszłość vs przeszłość)
-  - Zhang Yimou adaptację filmową (wizualne aspekty)
+### 🟡 MODERATE RISKS
 
-### 📺 YouTube (ŚREDNIE RYZYKO - 🟡)
+| Topic | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+|-------|----------|-----------|---------|---------|---------|------|
+| **Chinese-Japanese history** | 🟢 OK | 🟢 OK | 🟢 OK | 🟡 CONTEXT | 🟢 OK | 🟢 OK |
+| **Generational trauma** | 🟢 OK | 🟢 OK | 🟢 VALUABLE | 🟢 TRENDY | 🟢 OK | 🟢 OK |
+| **Traditional Chinese culture** | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK |
+| **Modernization criticism** | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK |
 
-#### Główne wyzwania:
-1. **"Inauthentic content" policy**: Wymagana oryginalna wartość i ludzka narracja
-2. **Liberalizacja controversial content**: Więcej możliwości przy educational framing
-3. **Wymóg human narration**: Nie można używać text-to-speech
+---
 
-#### Rekomendacje:
-- **WYMAGANE**:
-  - ✅ Ludzka narracja (nie AI voice)
-  - ✅ Oryginalne komentarze do książki
-  - ✅ Educational framing dla kontrowersyjnych tematów
-  - ✅ Content warning na początku wideo
-- **STRATEGIA CONTENT**:
-  - Storytelling approach - opowieść o autorze i kontekście historycznym
-  - Analiza literacka zamiast streszczenia
-  - Porównania z innymi dziełami literatury światowej
-  - Film Zhang Yimou jako visual hook
+## Detailed Platform Assessment
 
-### 📱 TikTok (ŚREDNIE RYZYKO - 🟡)
+### 📱 Facebook/Instagram (HIGH RISK - 🔴)
 
-#### Kluczowe ograniczenia:
-1. **Tylko 1+ minutowe videoa** mogą być monetyzowane
-2. **70% rejection rate** dla aplikacji Creator Rewards
-3. **Strict moderation** content politycznego
+#### Main threats:
+1. **2025 new policies**: Liberalized "hate speech" may be unpredictable
+2. **Community Notes**: Controversial claims about Mo Yan may trigger fact-checking
+3. **Political sensitivity**: Chinese topics particularly monitored
+4. **Sexual violence**: Zero tolerance for rape descriptions
+
+#### Recommendations:
+- **AGE-RESTRICT all posts** containing violence
+- **AVOID discussing**:
+  - Mo Yan controversies and his position on dissidents
+  - Details of rape scenes from the book
+  - Direct criticism of communist system
+- **FOCUS ON**:
+  - Literary and artistic value of the work
+  - Universal themes (family, past vs future)
+  - Zhang Yimou film adaptation (visual aspects)
+
+### 📺 YouTube (MODERATE RISK - 🟡)
+
+#### Main challenges:
+1. **"Inauthentic content" policy**: Requires original value and human narration
+2. **Controversial content liberalization**: More opportunities with educational framing
+3. **Human narration requirement**: Cannot use text-to-speech
+
+#### Recommendations:
+- **REQUIRED**:
+  - ✅ Human narration (not AI voice)
+  - ✅ Original commentary on the book
+  - ✅ Educational framing for controversial topics
+  - ✅ Content warning at video start
+- **CONTENT STRATEGY**:
+  - Storytelling approach - story about author and historical context
+  - Literary analysis instead of plot summary
+  - Comparisons with other world literature works
+  - Zhang Yimou film as visual hook
+
+### 📱 TikTok (MODERATE RISK - 🟡)
+
+#### Key limitations:
+1. **Only 1+ minute videos** can be monetized
+2. **70% rejection rate** for Creator Rewards applications
+3. **Strict moderation** of political content
 4. **AI labeling requirements**
 
-#### Rekomendacje:
+#### Recommendations:
 - **CONTENT STRATEGY**:
   - Long-form educational content (1+ min)
-  - Personal storytelling o czytaniu książki
-  - BookTok format - book review z własnym komentarzem
-  - Therapeutic reading angle - healing trauma przez literaturę
+  - Personal storytelling about reading the book
+  - BookTok format - book review with personal commentary
+  - Therapeutic reading angle - healing trauma through literature
 - **RED FLAGS to avoid**:
-  - Duetowanie z political content
-  - Kopiowanie content o Mo Yan kontrowersji
+  - Dueting with political content
+  - Copying content about Mo Yan controversies
   - Under-1-minute content (no monetization)
-  - Political statements bez educational context
+  - Political statements without educational context
 
-### 🎵 Spotify (NISKIE RYZYKO - 🟢)
+### 🎵 Spotify (LOW RISK - 🟢)
 
-#### Zalety:
-1. **Creator-friendly policies** dla educational content
-2. **Video podcast priority** dla wyższych zarobków
-3. **Minimal content restrictions** dla książkowych dyskusji
+#### Advantages:
+1. **Creator-friendly policies** for educational content
+2. **Video podcast priority** for higher earnings
+3. **Minimal content restrictions** for book discussions
 
-#### Rekomendacje:
-- **OPTYMALNA STRATEGIA**:
-  - Video podcast format o książce
-  - Episodic approach - każdy odcinek o różnym aspekcie
-  - Interviews z ekspertami od literatury chińskiej
-  - Proper music licensing dla background
+#### Recommendations:
+- **OPTIMAL STRATEGY**:
+  - Video podcast format about the book
+  - Episodic approach - each episode on different aspect
+  - Interviews with Chinese literature experts
+  - Proper music licensing for background
 - **AVOID**:
   - Copyrighted audiobook clips
   - Mass-produced content
-  - Hate speech lub discriminatory language
+  - Hate speech or discriminatory language
 
-### 📺 Kick (NAJNIŻSZE RYZYKO - 🟢)
+### 📺 Kick (LOWEST RISK - 🟢)
 
-#### Zalety:
+#### Advantages:
 1. **Most creator-friendly** revenue split (95/5)
 2. **Context-based moderation** decisions
 3. **Educational content** widely acceptable
-4. **Interactive community building** możliwości
+4. **Interactive community building** opportunities
 
-#### Rekomendacje:
-- **IDEAL PLATFORM dla**:
-  - Live discussion streams o książce
-  - Educational series o Chinese literature  
+#### Recommendations:
+- **IDEAL PLATFORM for**:
+  - Live discussion streams about the book
+  - Educational series on Chinese literature
   - Interactive Q&A sessions
   - Community building around literature
 - **MINOR CONSIDERATIONS**:
   - Respect author privacy
-  - Educational framing dla controversial topics
+  - Educational framing for controversial topics
 
 ---
 
-## Klasyfikacja Wiekowa i Content Warnings
+## Age Classification and Content Warnings
 
 ### 📊 Age Rating Matrix
 
-| Platforma | Zalecana klasyfikacja | Powód |
+| Platform | Recommended classification | Reason |
 |-----------|----------------------|-------|
-| **Facebook/Instagram** | **18+** | Przemoc seksualna, kontrowersje polityczne |
-| **YouTube** | **16+** z content warning | Mature themes, war violence |
+| **Facebook/Instagram** | **18+** | Sexual violence, political controversies |
+| **YouTube** | **16+** with content warning | Mature themes, war violence |
 | **TikTok** | **16+** | Historical violence, complex themes |
-| **Spotify** | **16+** | Mature themes, można omówić z educational context |
-| **Kick** | **13+** z ostrzeżeniami | Najliberalniejsze zasady, educational focus |
+| **Spotify** | **16+** | Mature themes, can be discussed with educational context |
+| **Kick** | **13+** with warnings | Most liberal policies, educational focus |
 
-### 🚨 Wymagane Content Warnings
+### 🚨 Required Content Warnings
 
-#### UNIWERSALNE ostrzeżenia dla wszystkich platform:
-- ⚠️ **"Mature Content"** - przemoc wojenna
-- ⚠️ **"Historical Violence"** - opisy brutalności
-- ⚠️ **"Sensitive Political Topics"** - chińska polityka
-- ⚠️ **"Adult Themes"** - niewolnictwo seksualne, przymusowe małżeństwa
+#### UNIVERSAL warnings for all platforms:
+- ⚠️ **"Mature Content"** - war violence
+- ⚠️ **"Historical Violence"** - descriptions of brutality
+- ⚠️ **"Sensitive Political Topics"** - Chinese politics
+- ⚠️ **"Adult Themes"** - sexual slavery, forced marriages
 
 #### Specific warnings per platform:
 
@@ -161,16 +161,16 @@
 
 ---
 
-## Alternative Approaches dla Różnych Audience
+## Alternative Approaches for Different Audiences
 
-### 🎯 Strategia dla różnych grup odbiorców
+### 🎯 Strategy for different audience groups
 
 #### **Academic/Educational Audience**
 - **Focus**: Literary analysis, historical context, Nobel Prize significance
 - **Safe topics**: Writing techniques, magical realism, cultural symbolism
 - **Platforms**: YouTube (long-form), Spotify (podcast series)
 
-#### **BookTok/Young Adult Audience**  
+#### **BookTok/Young Adult Audience**
 - **Focus**: Family saga, generational trauma healing, therapeutic reading
 - **Angle**: "Books that help understand family patterns"
 - **Platforms**: TikTok (1+ min educational), Instagram (stories series)
@@ -183,17 +183,17 @@
 
 #### **Asian Diaspora Community**
 - **Focus**: Cultural identity, representation, Asian heritage
-- **Connection**: Family stories, immigrant experience parallels  
+- **Connection**: Family stories, immigrant experience parallels
 - **Platforms**: All platforms with cultural context emphasis
 
 ---
 
-## Mitigation Strategies dla Problematycznych Treści
+## Mitigation Strategies for Problematic Content
 
-### 🛡️ Jak omówić trudne tematy bezpiecznie
+### 🛡️ How to discuss difficult topics safely
 
 #### **Mo Yan Political Controversies**
-- ❌ **AVOID**: "Mo Yan is a regime puppet" 
+- ❌ **AVOID**: "Mo Yan is a regime puppet"
 - ✅ **BETTER**: "Mo Yan navigated complex political pressures as an author in China"
 - ✅ **ACADEMIC**: "Scholars debate the relationship between artistic freedom and political systems"
 
@@ -207,7 +207,7 @@
 - ✅ **BETTER**: "The author's work explores themes of artistic expression under various constraints"
 - ✅ **UNIVERSAL**: "Writers throughout history have faced challenges balancing truth and safety"
 
-#### **Controversial Themes for Różnych Platform**
+#### **Controversial Themes for Different Platforms**
 
 **Facebook/Instagram approach**:
 - Lead with artistic and cultural value
@@ -245,7 +245,7 @@
 - [ ] No graphic violence descriptions included
 - [ ] Educational context provided for sensitive topics
 - [ ] Original commentary dominates over quoted material
-- [ ] Fact-checking dla historical claims completed
+- [ ] Fact-checking for historical claims completed
 
 #### **Platform-Specific**
 - [ ] **Facebook/Meta**: Extreme caution with political topics, avoid controversial Mo Yan aspects
@@ -271,18 +271,18 @@
 
 ---
 
-## Ostateczne Rekomendacje
+## Final Recommendations
 
 ### 📈 Platform Priority Ranking for "Red Sorghum" Content
 
 1. **KICK** (🟢 SAFEST) - Best revenue potential, minimal restrictions
-2. **SPOTIFY** (🟢 SAFE) - Video podcast format ideal dla deep dive
+2. **SPOTIFY** (🟢 SAFE) - Video podcast format ideal for deep dive
 3. **YOUTUBE** (🟡 MODERATE) - Good reach with careful educational framing
 4. **TIKTOK** (🟡 MODERATE) - Trendy BookTok angle, but political risks
-5. **INSTAGRAM** (🔴 HIGH RISK) - Visual potential, but Meta policy risks  
+5. **INSTAGRAM** (🔴 HIGH RISK) - Visual potential, but Meta policy risks
 6. **FACEBOOK** (🔴 HIGHEST RISK) - Avoid political discussions entirely
 
-### 💡 Golden Rules dla "Red Sorghum" Content
+### 💡 Golden Rules for "Red Sorghum" Content
 
 1. **Education Over Controversy** - Frame everything as literary/historical education
 2. **Art Over Politics** - Focus on artistic merits, avoid current political commentary
@@ -290,4 +290,4 @@
 4. **Context Is King** - Always provide historical and educational context
 5. **Audience First** - Tailor content to platform's dominant demographics
 
-**BOTTOM LINE**: "Czerwone sorgo" jest wykonalnym tematem dla content creators, ale wymaga sophisticated approach i platform-specific strategies. Key to success: educational framing, appropriate age ratings, and avoiding direct political commentary while celebrating the literary and cultural value of the work.
+**BOTTOM LINE**: "Red Sorghum" is a viable topic for content creators, but requires a sophisticated approach and platform-specific strategies. Key to success: educational framing, appropriate age ratings, and avoiding direct political commentary while celebrating the literary and cultural value of the work.

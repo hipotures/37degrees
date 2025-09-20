@@ -1,142 +1,142 @@
-# Historia powstania "Śmierci komiwojażera" - Fascynujące fakty i anegdoty
+# The Creation History of "Death of a Salesman" - Fascinating Facts and Anecdotes
 
-## Podstawowe informacje
-**Tytuł**: Death of a Salesman (Śmierć komiwojażera)  
-**Autor**: Arthur Miller  
-**Rok publikacji**: 1949  
-**Gatunek**: Tragedia dramatyczna
+## Basic Information
+**Title**: Death of a Salesman
+**Author**: Arthur Miller
+**Publication Year**: 1949
+**Genre**: Dramatic Tragedy
 
-## Okoliczności powstania
+## Circumstances of Creation
 
-### **FAKT**: Geneza w nastoletnim opowiadaniu
-Arthur Miller napisał pierwsze ziarno "Śmierci komiwojażera" jako 17-latek, pracując w firmie ojca. Opowiadanie dotyczyło starzejącego się sprzedawcy, który nic nie może sprzedać, jest nękany przez kupców i pożycza drobne na metro od młodego narratora. W postscriptum Miller napisał, że prawdziwy sprzedawca, na którym oparł opowiadanie, rzucił się pod pociąg metra.
+### **FACT**: Genesis in a Teenage Story
+Arthur Miller wrote the first seed of "Death of a Salesman" as a 17-year-old, working in his father's company. The story was about an aging salesman who couldn't sell anything, was harassed by buyers, and borrowed small change for the subway from the young narrator. In a postscript, Miller wrote that the real salesman he based the story on had thrown himself under a subway train.
 
-### **FAKT**: Odkrycie manuskryptu przez matkę
-W wieczór przed premierą na Broadwayu matka Millera znalazła to nastoletnie opowiadanie porzucone w szufladzie - po ponad 20 latach.
+### **FACT**: Discovery of Manuscript by Mother
+On the evening before the Broadway premiere, Miller's mother found this teenage story abandoned in a drawer - after more than 20 years.
 
-### **FAKT**: Sześć tygodni cudu w Connecticut
-W kwietniu 1948 Miller udał się do swojej chaty w Connecticut z jedynie dwoma pierwszymi kwestiami już ustalonymi w umyśle. Wyszedł po sześciu tygodniach z gotowym scenariuszem jednego z największych dzieł teatru amerykańskiego.
+### **FACT**: Six Weeks of Miracle in Connecticut
+In April 1948, Miller went to his cabin in Connecticut with only two opening lines already established in his mind. He emerged six weeks later with the completed script of one of the greatest works of American theater.
 
-### **FAKT**: Pierwszy akt w jeden dzień
-W swojej autobiografii Miller opisuje, jak pierwszy akt "Śmierci komiwojażera" wylał się z niego w jeden dzień wiosną 1948: "To się samo odsłaniało. Byłem stenografem. Mogłem ich słyszeć. Mogłem ich słyszeć, dosłownie."
+### **FACT**: First Act in One Day
+In his autobiography, Miller describes how the first act of "Death of a Salesman" poured out of him in one day in spring 1948: "It was unveiling itself. I was a stenographer. I could hear them. I could hear them, literally."
 
-### **FAKT**: Studio 10x12 stóp
-Miller napisał sztukę w swoim studiu o wymiarach 10x12 stóp w Connecticut. "Wszystko co miałem to pierwsze dwie kwestie i śmierć" - wspominał później.
+### **FACT**: 10x12 Foot Studio
+Miller wrote the play in his 10x12 foot studio in Connecticut. "All I had was the first two lines and the death," he later recalled.
 
-## Inspiracje osobiste
+## Personal Inspirations
 
-### **FAKT**: Wujek Manny Newman jako Willy Loman
-Główną inspiracją dla Willy'ego Lomana był wujek Millera, Manny Newman, również handlowiec. Newman wyobrażał sobie ciągłą rywalizację między swoim synem a Millerem i jego bratem. Odmówił zaakceptowania porażki i wymagał pozorów najwyższej pewności siebie w swoim domu.
+### **FACT**: Uncle Manny Newman as Willy Loman
+The main inspiration for Willy Loman was Miller's uncle, Manny Newman, also a traveling salesman. Newman imagined constant competition between his son and Miller and his brother. He refused to accept defeat and demanded the appearance of utmost confidence in his home.
 
-### **FAKT**: Fatalne spotkanie w teatrze
-Geneza sztuki rozpoczęła się od przypadkowego spotkania między Millerem a jego wujkiem Mannnym Newmanem w lobby teatru w Bostonie w 1947 roku, gdzie wystawiano "All My Sons". Newman był wyraźnie zaskoczony spotkaniem Millera tam.
+### **FACT**: Fateful Meeting at the Theater
+The genesis of the play began with a chance meeting between Miller and his uncle Manny Newman in the lobby of a theater in Boston in 1947, where "All My Sons" was being performed. Newman was clearly surprised to encounter Miller there.
 
-### **FAKT**: Samobójstwa sprzedawców
-Manny Newman popełnił samobójstwo wkrótce po tym spotkaniu, co było przyczyną śmierci również dwóch innych handlowców, których Miller znał. Ta prawdziwa tragedia stała się centralnym elementem rozwoju sztuki.
+### **FACT**: Salesman Suicides
+Manny Newman committed suicide shortly after this meeting, which was also the cause of death for two other traveling salesmen Miller knew. This real tragedy became a central element in the play's development.
 
-### **FAKT**: Paralele rodzinne
-Syn Manny'ego, Buddy, podobnie jak Biff w sztuce Millera, był bohaterem sportowym i podobnie jak Happy Loman, popularny wśród dziewcząt. I podobnie jak Biff, Buddy nigdy nie dostał się do college'u, bo nie uczył się w liceum.
+### **FACT**: Family Parallels
+Manny's son, Buddy, like Biff in Miller's play, was a sports hero and, like Happy Loman, popular with girls. And like Biff, Buddy never made it to college because he didn't study in high school.
 
-### **FAKT**: Inspiracja dla Lindy Loman
-Miller opisywał żonę Manny'ego jako tę, która "niosła krzyż za nich wszystkich", wspierając męża i "utrzymując spokojny, entuzjastyczny uśmiech, żeby nie czuł, że nie jest doceniony". To bezpośrednio wpłynęło na postać Lindy Loman.
+### **FACT**: Inspiration for Linda Loman
+Miller described Manny's wife as one who "carried the cross for all of them," supporting her husband and "maintaining a calm, enthusiastic smile so he wouldn't feel unappreciated." This directly influenced the character of Linda Loman.
 
-## Kontekst historyczny i społeczny
+## Historical and Social Context
 
-### **FAKT**: Wpływ Wielkiego Kryzysu
-Do czasu gdy Miller był nastolatkiem, jego rodzina - jak wiele innych - zmagała się z Wielkim Kryzysem. Jego ojciec stracił swoją firmę odzieżową podczas krachu na Wall Street, a rodzina musiała przeprowadzić się do mniejszego domu na Brooklynie.
+### **FACT**: Impact of the Great Depression
+By the time Miller was a teenager, his family - like many others - was struggling with the Great Depression. His father lost his clothing business during the Wall Street crash, and the family had to move to a smaller house in Brooklyn.
 
-### **FAKT**: Powojenna Ameryka
-Miller tworzył sztukę w kontekście społeczno-ekonomicznym powojennej Ameryki. Kryzys i następstwa II wojny światowej wpłynęły na Millera, by pisał sztuki o bezbronnych, zwyczajnych ludziach - pracujących i walczących o awans.
+### **FACT**: Post-War America
+Miller created the play in the socio-economic context of post-war America. The crisis and aftermath of World War II influenced Miller to write plays about vulnerable, ordinary people - working and fighting for advancement.
 
-### **FAKT**: Sukces "All My Sons"
-Sukces sztuki "All My Sons" z 1947 roku pozwolił Millerowi kupić posiadłość na wsi w Connecticut, gdzie zbudował małe studio i rozpoczął pracę nad "Śmiercią komiwojażera".
+### **FACT**: Success of "All My Sons"
+The success of the 1947 play "All My Sons" allowed Miller to buy a country estate in Connecticut, where he built a small studio and began work on "Death of a Salesman."
 
-## Premiera i odbiór krytyczny
+## Premiere and Critical Reception
 
-### **FAKT**: Data premiery
-"Śmierć komiwojażera" miała premierę na Broadwayu 10 lutego 1949 roku w teatrze Morosco Theatre i grała do 18 listopada 1950 roku przez łącznie 742 przedstawienia.
+### **FACT**: Premiere Date
+"Death of a Salesman" premiered on Broadway on February 10, 1949, at the Morosco Theatre and ran until November 18, 1950, for a total of 742 performances.
 
-### **FAKT**: Obsada pierwotna
-W pierwotnej obsadzie broadwayowskiej wystąpili: Lee J. Cobb jako Willy Loman, Mildred Dunnock jako Linda, Arthur Kennedy jako Biff i Cameron Mitchell jako Happy.
+### **FACT**: Original Cast
+The original Broadway cast featured: Lee J. Cobb as Willy Loman, Mildred Dunnock as Linda, Arthur Kennedy as Biff, and Cameron Mitchell as Happy.
 
-### **FAKT**: Reakcja widowni na premierze
-Miller opisywał reakcję widowni na premierze: "Kurtyna spadła i nic się nie stało. Ludzie siedzieli tam dobre dwie, trzy minuty, potem ktoś wstał z płaszczem. Kilku mężczyzn - nie widziałem, żeby kobiety to robiły - było bezradnych. Siedzieli tam z chusteczkami na twarzach. To było jak pogrzeb. Nie wiedziałem, czy spektakl jest martwy czy żywy."
+### **FACT**: Audience Reaction at Premiere
+Miller described the audience reaction at the premiere: "The curtain came down and nothing happened. People sat there for a good two, three minutes, then someone got up with a coat. Several men - I didn't see women doing it - were helpless. They sat there with handkerchiefs to their faces. It was like a funeral. I didn't know if the show was dead or alive."
 
-### **FAKT**: Opinie krytyków
-Krytyk teatralny John Gassner napisał, że "ekstatyczne przyjęcie, jakie spotkało Śmierć komiwojażera, odbija się echem już od jakiegoś czasu wszędzie tam, gdzie jest ucho na teatr, i jest to niewątpliwie najlepsza amerykańska sztuka od Tramwaju zwanego pożądaniem."
+### **FACT**: Critics' Opinions
+Theater critic John Gassner wrote that "the ecstatic reception that greeted Death of a Salesman has been echoing for some time wherever there is an ear for theater, and it is undoubtedly the best American play since A Streetcar Named Desire."
 
-## Nagrody i uznanie
+## Awards and Recognition
 
-### **FAKT**: Nagroda Pulitzera
-2 maja 1949 roku nowojorski dramaturg Arthur Miller zdobywa Nagrodę Pulitzera w kategorii Dramat za "Śmierć komiwojażera", najsłynniejsze dzieło swojej kariery.
+### **FACT**: Pulitzer Prize
+On May 2, 1949, New York playwright Arthur Miller won the Pulitzer Prize in the Drama category for "Death of a Salesman," the most famous work of his career.
 
-### **FAKT**: Tony Awards
-Sztuka zdobyła Tony Award dla najlepszej sztuki, najlepszego aktora drugoplanowego (Arthur Kennedy), najlepszej scenografii (Jo Mielziner), producenta (dramatycznego), autora (Arthur Miller) i reżysera (Elia Kazan).
+### **FACT**: Tony Awards
+The play won Tony Awards for Best Play, Best Supporting Actor (Arthur Kennedy), Best Scenic Design (Jo Mielziner), Producer (Dramatic), Author (Arthur Miller), and Director (Elia Kazan).
 
-### **FAKT**: Lee J. Cobb jako "najlepszy aktor dramatyczny"
-Miller chwalił Cobba jako "najlepszego aktora dramatycznego, jakiego kiedykolwiek widziałem", a po jego obsadzeniu zmienił kwestię odnoszącą się do fizycznego wyglądu tytułowej postaci z "krewetka" na "morsz".
+### **FACT**: Lee J. Cobb as "Best Dramatic Actor"
+Miller praised Cobb as "the best dramatic actor I've ever seen," and after his casting changed a line referring to the title character's physical appearance from "shrimp" to "walrus."
 
-## Międzynarodowy sukces
+## International Success
 
-### **FAKT**: Chińska produkcja z Millerem jako reżyserem
-W 1983 roku Miller poleciał do Pekinu i spędził sześć tygodni reżyserując obsadę w chińskojęzycznej produkcji w Teatrze Sztuki Ludowej w Pekinie, mimo że znał tylko dwa słowa po chińsku. Udokumentował swoje doświadczenia w książce "Salesman in Beijing" opublikowanej w 1984 roku.
+### **FACT**: Chinese Production with Miller as Director
+In 1983, Miller flew to Beijing and spent six weeks directing a cast in a Chinese-language production at the People's Art Theatre in Beijing, despite knowing only two words in Chinese. He documented his experiences in the book "Salesman in Beijing" published in 1984.
 
-### **FAKT**: Adaptacje filmowe
-Sztuka została zaadaptowana na kinowy ekran dziesięć razy, z różnymi obsadami i reżyserami na przestrzeni dekad.
+### **FACT**: Film Adaptations
+The play has been adapted for the cinema ten times, with various casts and directors over the decades.
 
-### **FAKT**: Pięć wznowień na Broadwayu
-Od premiery sztuka była wznawiana na Broadwayu pięć razy, zdobywając trzy Tony Awards za najlepsze wznowienie.
+### **FACT**: Five Broadway Revivals
+Since its premiere, the play has been revived on Broadway five times, winning three Tony Awards for Best Revival.
 
-## Dave Singleman - legendarny komiwojażer
+## Dave Singleman - The Legendary Salesman
 
-### **FAKT**: Inspiracja dla idealnego sprzedawcy
-Dave Singleman to kluczowa postać w sztuce reprezentująca ideał sukcesu Willy'ego. Gdy Willy prosi swojego szefa Howarda o pracę biurową, opowiada historię śmierci najwspanialszego sprzedawcy, Dave'a Singlemana, który według niego robił wszystkie swoje sprzedaże przez telefon, siedząc w swoim pokoju hotelowym w "zielonych aksamitnych pantoflach".
+### **FACT**: Inspiration for the Ideal Salesman
+Dave Singleman is a key figure in the play representing Willy's ideal of success. When Willy asks his boss Howard for office work, he tells the story of the death of the greatest salesman, Dave Singleman, who according to him made all his sales by phone, sitting in his hotel room in "green velvet slippers."
 
-### **FAKT**: "Śmierć komiwojażera"
-Dave Singleman umarł "śmiercią komiwojażera", nadal w trasie w wieku 84 lat, pamiętany przez "setki sprzedawców i kupców" na swoim pogrzebie. Dla Willy'ego śmierć Dave'a Singlemana nie była tragiczna, ale bajką mającą inspirować.
+### **FACT**: "Death of a Salesman"
+Dave Singleman died "the death of a salesman," still on the road at age 84, remembered by "hundreds of salesmen and buyers" at his funeral. For Willy, Dave Singleman's death was not tragic, but a fairy tale meant to inspire.
 
-## Kontrowersje i życie osobiste Millera
+## Controversies and Miller's Personal Life
 
-### **FAKT**: Marilyn Monroe i skandal
-W czerwcu 1956 Miller opuścił swoją pierwszą żonę, Mary Slattery, za którą poślubił w 1940 roku, i ożenił się z gwiazda filmową Marilyn Monroe. Poznali się w 1951 roku, mieli krótki romans i pozostawali w kontakcie.
+### **FACT**: Marilyn Monroe and Scandal
+In June 1956, Miller left his first wife, Mary Slattery, whom he had married in 1940, and married film star Marilyn Monroe. They met in 1951, had a brief affair, and remained in contact.
 
-### **FAKT**: "After the Fall" i kontrowersja
-Ich związek później zainspirował kontrowersję, gdy Miller napisał "After the Fall", które otworzyło się 23 stycznia 1964 roku wśród "furory rozgłosu i oburzenia z powodu umieszczenia postaci podobnej do Monroe, Maggie, na scenie."
+### **FACT**: "After the Fall" and Controversy
+Their relationship later inspired controversy when Miller wrote "After the Fall," which opened on January 23, 1964, amid "a fury of publicity and outrage over placing a Monroe-like character, Maggie, on stage."
 
-### **FAKT**: Oskarżenia o komunizm
-W latach 40. Miller uczestniczył w spotkaniach sponsorowanych przez komunistów w Nowym Jorku i pisał recenzje teatralne dla New Masses pod pseudonimem. Był prominentnym zwolennikiem Henry'ego Wallace'a i sowieckiej Partii Postępowej w wyborach prezydenckich 1948 roku.
+### **FACT**: Accusations of Communism
+In the 1940s, Miller attended communist-sponsored meetings in New York and wrote theater reviews for New Masses under a pseudonym. He was a prominent supporter of Henry Wallace and the Soviet Progressive Party in the 1948 presidential election.
 
-### **FAKT**: HUAC i odmowa wydania nazwisk
-W 1956 roku Komisja ds. Działań Antyamerykańskich wezwała Millera do zeznań o sympatykach komunistycznych w przemyśle rozrywkowym. Miller odmówił podania nazwisk ludzi, których znał jako "współpodróżnych". Został oskarżony o obrazę Kongresu i skazany na więzienie, ale jego skazanie zostało później uchylone.
+### **FACT**: HUAC and Refusal to Name Names
+In 1956, the House Un-American Activities Committee called Miller to testify about communist sympathizers in the entertainment industry. Miller refused to provide names of people he knew as "fellow travelers." He was charged with contempt of Congress and sentenced to prison, but his conviction was later overturned.
 
-## Ciekawostki produkcyjne
+## Production Curiosities
 
-### **FAKT**: Zmiana fizycznego opisu Willy'ego
-Miller pierwotnie wyobrażał sobie Willy'ego jako małego mężczyznę, ale po obsadzeniu Lee J. Cobba zmienił kwestię odnoszącą się do wyglądu fizycznego tytułowej postaci z "krewetka" na "morsz".
+### **FACT**: Change in Willy's Physical Description
+Miller originally imagined Willy as a small man, but after casting Lee J. Cobb, he changed the line referring to the title character's physical appearance from "shrimp" to "walrus."
 
-### **FAKT**: Scenografia Jo Mielzinera
-Brooks Atkinson z New York Times napisał: "Jo Mielziner, zawsze dorównujący okazji, zaprojektował szkieletową scenografię, która oddaje nastrój sztuki i świetnie służy aktorom".
+### **FACT**: Jo Mielziner's Set Design
+Brooks Atkinson of the New York Times wrote: "Jo Mielziner, always equal to the occasion, has designed a skeletal set that captures the mood of the play and serves the actors admirably."
 
-### **FAKT**: Adaptacja telewizyjna 1966
-Cobb powtórzył swoją rolę Willy'ego Lomana w adaptacji telewizyjnej CBS z 1966 roku "Śmierć komiwojażera", która obejmowała Gene'a Wildera, Jamesa Farentino, Berniego Kopella i George'a Segala. Cobb został nominowany do nagrody Emmy za tę rolę.
+### **FACT**: 1966 Television Adaptation
+Cobb reprised his role as Willy Loman in CBS's 1966 television adaptation "Death of a Salesman," which featured Gene Wilder, James Farentino, Bernie Kopell, and George Segal. Cobb was nominated for an Emmy Award for this role.
 
-### **FAKT**: Mildred Dunnock - wierna Linda
-Mildred Dunnock, która współgrała zarówno w oryginalnej wersji scenicznej, jak i filmowej z 1951 roku, ponownie powtórzyła swoją rolę Lindy, oddanej żony Willy'ego, w adaptacji telewizyjnej z 1966 roku.
+### **FACT**: Mildred Dunnock - Faithful Linda
+Mildred Dunnock, who appeared in both the original stage version and the 1951 film, again reprised her role as Linda, Willy's devoted wife, in the 1966 television adaptation.
 
-## Wpływ na kulturę i liczby
+## Cultural Impact and Numbers
 
-### **FAKT**: Jedno z najważniejszych dzieł XX wieku
-Sztuka jest uważana przez niektórych krytyków za jedno z najważniejszych dzieł teatralnych XX wieku i nadal jest wystawiana i studiowana na całym świecie.
+### **FACT**: One of the Most Important Works of the 20th Century
+The play is considered by some critics to be one of the most important theatrical works of the 20th century and continues to be performed and studied worldwide.
 
-### **FAKT**: Uniwersalne przesłanie
-Pomimo głęboko amerykańskiego kontekstu, sztuka pokazała swoją uniwersalną atrakcyjność, szczególnie w chińskiej produkcji, demonstrując globalny rezonans tematów związanych z amerykańskim snem i ludzkimi zmaganiami.
+### **FACT**: Universal Message
+Despite its deeply American context, the play demonstrated its universal appeal, particularly in the Chinese production, showing the global resonance of themes related to the American Dream and human struggles.
 
-### **FAKT**: Ciągłe wznowienia
-Przez ponad 70 lat od premiery "Śmierć komiwojażera" pozostaje jednym z najczęściej wystawianych dzieł teatralnych na świecie, z produkcjami w dziesiątkach krajów i językach.
+### **FACT**: Continuous Revivals
+For over 70 years since its premiere, "Death of a Salesman" remains one of the most frequently performed theatrical works in the world, with productions in dozens of countries and languages.
 
-### **FAKT**: Edukacyjne znaczenie
-Sztuka stała się obowiązkową lekturą w amerykańskich szkołach średnich i na uniwersytetach, wprowadzając miliony uczniów do tematów kapitalizmu, snu amerykańskiego i ludzkiej godności.
+### **FACT**: Educational Significance
+The play has become required reading in American high schools and universities, introducing millions of students to themes of capitalism, the American Dream, and human dignity.
 
 ---
 
-**Źródła badań**: Na podstawie informacji z Kennedy Center, SparkNotes, Wikipedia, Britannica, History.com oraz biografii Arthura Millera i dokumentacji teatralnej dotyczącej "Śmierci komiwojażera".
+**Research Sources**: Based on information from Kennedy Center, SparkNotes, Wikipedia, Britannica, History.com, and Arthur Miller biographies and theatrical documentation regarding "Death of a Salesman."

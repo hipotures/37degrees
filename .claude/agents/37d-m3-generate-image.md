@@ -412,4 +412,4 @@ console.log(`Zadanie ${sceneKey} image_gen ukończone. Thread ID: ${threadId}`);
   - **pending** - limit ChatGPT Plus (do ponownej próby)
 - Thread ID zapisany w właściwościach image_gen subtaska
 - PROJECT_ID zapisany w właściwościach listy (jeśli projekt był tworzony)
-- Obraz rozpoczął generowanie w ChatGPT z pełną specyfikacją YAML (sukces) lub wykryto limit
+- Obraz rozpoczął generowanie w ChatGPT z pełną specyfikacją YAML (sukces) lub wykryto limit ChatGPT Plus

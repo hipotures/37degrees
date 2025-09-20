@@ -1,158 +1,158 @@
-# Badania Faktów i Historii: "Sezon migracji na Północ"
+# Facts and History Research: "Season of Migration to the North"
 
-## Podstawowe informacje o książce
-- **Tytuł oryginalny**: موسم الهجرة إلى الشمال (Mawsim al-hijra ila al-Shamal)
-- **Autor**: Tayeb Salih (الطيب صالح)
-- **Rok pierwszej publikacji**: 1966 (serial w magazynie Hiwar)
-- **Język oryginalny**: arabski
-- **Pierwsze tłumaczenie na angielski**: 1969 (Denys Johnson-Davies)
-
----
-
-## NAJWAŻNIEJSZE ODKRYCIA I CIEKAWOSTKI
-
-### 1. Kontrowersyjna publikacja - związki z CIA
-**FAKT**: Powieść została po raz pierwszy opublikowana w 1966 roku w odcinkach w magazynie "Hiwar" wydawanym w Bejrucie, który był tajnie finansowany przez CIA w ramach zimnej wojny kulturalnej.
-
-**FAKT**: Magazyn "Hiwar" był częścią sieci Kongresu Wolności Kulturalnej (Congress for Cultural Freedom), organizacji przykrywkowej CIA działającej na całym świecie.
-
-**FAKT**: Finansowanie CIA zostało ujawnione przez "New York Times" w kwietniu 1966 roku, zaledwie kilka miesięcy po publikacji powieści, co spowodowało zamknięcie magazynu w 1967 roku.
-
-**FAKT**: Redaktor naczelny Tawfiq Sayigh zapłacił Salihowi 1400 lirów libańskich za powieść, opisując to jako "największą kwotę, jaką wydałem (lub wydam) na redagowanie!"
-
-### 2. Najważniejsza powieść arabska XX wieku
-**FAKT**: W 2001 roku panel arabskich pisarzy i krytyków wybrał "Sezon migracji na Północ" jako najważniejszą powieść arabską XX wieku.
-
-**FAKT**: Akademia Literatury Arabskiej w Damaszku uznała ją za jedną z najlepszych powieści arabskich XX wieku.
-
-**FAKT**: Edward Said opisał ją jako jedną z sześciu wielkich powieści w literaturze arabskiej.
-
-**FAKT**: Została przełożona na ponad 20 języków (według niektórych źródeł nawet na 30).
-
-### 3. Fascynujący autor - życie między Wschodem a Zachodem
-**FAKT**: Tayeb Salih urodził się 12 lipca 1929 roku w Karmakol, wiosce nad Nilem w północnym Sudanie, zmarł 18 lutego 2009 roku w Londynie.
-
-**FAKT**: Pochodził z rodziny małych rolników i nauczycieli religijnych, pierwotnie planował pracę w rolnictwie.
-
-**FAKT**: Pracował jako szef działu dramatycznego w BBC Arabic Service w Londynie.
-
-**FAKT**: Przez ponad 10 lat pisał cotygodniową kolumnę dla londyńskiego arabskiego czasopisma "al Majalla".
-
-**FAKT**: Ostatnie 10 lat kariery zawodowej spędził w UNESCO w Paryżu, gdzie był przedstawicielem UNESCO dla państw arabskich Zatoki Perskiej.
-
-### 4. Inspiracje i proces twórczy
-**FAKT**: Salih początkowo zamierzał napisać "thriller" - "prostą historię kryminalną", jak sam to opisał w wywiadzie z 1997 roku, ale książka przybrała zupełnie inne wymiary.
-
-**FAKT**: Inspiracją była jego własna wioska nad Nilem - podobnie jak narrator powieści, Salih dorastał w małej wiosce nad Nilem w północnym Sudanie.
-
-**FAKT**: Fikcyjna wioska Wad Hamid, która pojawia się w powieści, stała się literackim uniwersum Saliha - pojawia się również w innych jego dziełach jak "Wesele Zeina".
-
-**FAKT**: W wywiadzie Salih powiedział: "Zawsze fascynowała mnie rzeka od wczesnego dzieciństwa" - Nil był głównym źródłem inspiracji w jego twórczości literackiej.
-
-**FAKT**: Salih porównywał swoją sytuację do Jamesa Joyce'a - jako emigrant ciągle spoglądał ku domowi, sudańskiej wiosce, szukając inspiracji.
-
-### 5. Tłumaczenia i międzynarodowy sukces
-**FAKT**: Angielskie tłumaczenie autorstwa Denysa Johnson-Daviesa zostało opublikowane w 1969 roku w prestiżowej serii Heinemann African Writers Series.
-
-**FAKT**: Edward Said nazwał Johnson-Daviesa "wiodącym tłumaczem z arabskiego na angielski naszych czasów".
-
-**FAKT**: Powieść została przełożona na francuski, niemiecki, włoski, rosyjski, polski, norweski, a nawet na hebrajski.
-
-**FAKT**: Dzieła Saliha stały się obowiązkową lekturą na różnych uniwersytetach w świecie arabskim, a także w Stanach Zjednoczonych.
-
-### 6. Cenzura i kontrowersje
-**FAKT**: Powieść była zakazana w rodzimym Sudanie od 1983 roku z powodu graficznych scen seksualnych, które obrażały islamski rząd.
-
-**FAKT**: Zakaz był jednak krótkotrwały i dziś powieść jest łatwo dostępna w Sudanie, ciesząc się dużą popularnością.
-
-**PLOTKA**: Niektórzy krytycy sugerują, że kontrowersje wokół treści seksualnych były wyolbrzymione - sceny nie są bardziej eksplicytne niż w wielu współczesnych powieściach.
-
-### 7. Adaptacje i wpływ kulturowy
-**FAKT**: Powieść została zaadaptowana na spektakl teatralny przez Ouriela Zohara z Mohamedem Bakriem w roli głównej.
-
-**FAKT**: Mohammed Bakri zdobył nagrodę dla najlepszego aktora na Festiwalu Alternatywnego Teatru Izraelskiego w Acco w 1993 roku za tę rolę.
-
-**FAKT**: Została również zaadaptowana na film z udziałem Mohameda Bakriego.
-
-**FAKT**: Powieść jest często analizowana w kontekście "Otella" Szekspira i "Jądra ciemności" Conrada - Salih świadomie nawiązywał do tych dzieł.
-
-### 8. Liczby i statystyki
-**FAKT**: Powieść została najpierw opublikowana w czasopiśmie Hiwar, tomy 4(6)–5(1) w 1966 roku, strony 5–87.
-
-**FAKT**: Angielskie tłumaczenie ukazało się 3 lata po oryginale - w 1969 roku.
-
-**FAKT**: Salih żył 79 lat (1929-2009), z czego większość czasu spędził poza Sudanem.
-
-**FAKT**: Przez ponad dekadę pisał cotygodniową kolumnę - to oznacza ponad 520 artykułów tylko w "al Majalla".
-
-**FAKT**: Ostatnie 10 lat kariery (prawdopodobnie 1999-2009) spędził w UNESCO w Paryżu.
-
-### 9. Kontekst historyczny i polityczny
-**FAKT**: Sudan uzyskał niepodległość w 1956 roku, gdy Salih miał 27 lat - powieść została napisana w pierwszej dekadzie niepodległości.
-
-**FAKT**: Salih opuścił Sudan na 4 lata przed uzyskaniem niepodległości w 1956 roku, aby studiować stosunki międzynarodowe w Londynie.
-
-**FAKT**: Urodził się podczas wspólnego panowania brytyjsko-egipskiego nad Sudanem (Anglo-Egyptian Condominium).
-
-**FAKT**: Dorastał w małej społeczności wiejskiej składającej się głównie z rolników w północnym Sudanie.
-
-### 10. Pierwsze kroki literackie i odkrycie talentu
-**FAKT**: Salih nigdy wcześniej nie publikował swoich prac, gdy po raz pierwszy skontaktował się z tłumaczem Denysem Johnson-Daviesem.
-
-**FAKT**: Pojawił się w biurze Johnson-Daviesa z kilkoma maszynopisami, wyjaśniając, że to opowiadanie, które napisał, i że nigdy wcześniej nie publikował swoich prac.
-
-**FAKT**: Pierwszy kontakt z literaturą miał podczas pracy w "al Majalla", arabskim magazynie londyńskim, gdzie pisał cotygodniową kolumnę.
-
-**FAKT**: Został przedstawiony Johnson-Daviesowi przez szefa sekcji arabskiej BBC jako ktoś, kto spędził część wczesnych lat w Sudanie.
-
-### 11. Styl pisarski i technika
-**FAKT**: Johnson-Davies napisał o stylu Saliha: "wykorzystał w pełni bogactwo języka literackiego w narracji i używa żywego lokalnego dialektu w dialogach".
-
-**FAKT**: Arabski krytyk opisał styl Saliha jako "bliższy pisarstwu dramatycznemu niż powieściowemu".
-
-**FAKT**: Mimo znajomości języka angielskiego, Salih świadomie wybrał pisanie w języku arabskim.
-
-**FAKT**: Jego twórczość pokazuje szerokie oczytanie w zakamarkach literatury arabskiej, w tym poezji.
-
-### 12. Osobisty wymiar twórczości
-**FAKT**: W wywiadzie z Eleanor Wachtel w 2002 roku Salih stwierdził: "Fundament mojej pracy leży w tym, czym jestem... sudańskim muzułmańskim Arabem urodzonym w określonym czasie i określonym miejscu".
-
-**FAKT**: Tematy jego książek wywodzą się z jego religijnych doświadczeń jako muzułmanina w XX-wiecznym Sudanie, zarówno przed-, jak i postkolonialnym.
-
-**FAKT**: Ogólniejszym tematem twórczości Saliha jest konfrontacja arabsko-muzułmańskiego i zachodnioeuropejskiego świata.
-
-### 13. Śmierć i dziedzictwo
-**FAKT**: Salih zmarł w Londynie około świtu 18 lutego 2009 roku, po chorobie nerek.
-
-**FAKT**: Miał 79 lat w momencie śmierci.
-
-**FAKT**: Zmarł w tym samym mieście, gdzie pracował w BBC i gdzie zaczął swoją karierę literacką.
-
-### 14. Wpływ na literaturę światową
-**FAKT**: Powieść jest uważana za dzieło, które wyniosło współczesną literaturę arabską na scenę światową i wprowadzało ją do nowoczesnego kanonu.
-
-**FAKT**: Jest określana jako "przełomowy punkt zwrotny w rozwoju narracji postkolonialnych koncentrujących się na spotkaniu Wschodu i Zachodu".
-
-**FAKT**: Tayeb Salih zyskał znaczną reputację na całym świecie, nawet w Egipcie, gdzie czytelnicy generalnie nie przyjmują dobrze nie-Egipcjan.
-
-### 15. Ciekawostki językowe i kulturowe
-**FAKT**: Tytuł w języku arabskim "موسم الهجرة إلى الشمال" dosłownie oznacza "Sezon migracji na Północ".
-
-**FAKT**: "Północ" w tytule odnosi się do Europy/Zachodu, podczas gdy Sudan leży na południu - to metafora kolonialnej relacji.
-
-**FAKT**: Powieść zawiera liczne nawiązania do klasyki literatury angielskiej, szczególnie do "Otella" Szekspira.
+## Basic Book Information
+- **Original title**: موسم الهجرة إلى الشمال (Mawsim al-hijra ila al-Shamal)
+- **Author**: Tayeb Salih (الطيب صالح)
+- **First publication year**: 1966 (serialized in Hiwar magazine)
+- **Original language**: Arabic
+- **First English translation**: 1969 (by Denys Johnson-Davies)
 
 ---
 
-## PODSUMOWANIE NAJWAŻNIEJSZYCH FAKTÓW
+## MOST IMPORTANT DISCOVERIES AND CURIOSITIES
 
-1. **Kontrowersyjna geneza**: Pierwsza publikacja w magazynie finansowanym przez CIA
-2. **Najwyższe uznanie**: Wybrana jako najważniejsza powieść arabska XX wieku
-3. **Globalny zasięg**: Przełożona na ponad 20 języków
-4. **Zakazy i cenzura**: Czasowo zakazana w Sudanie z powodu treści
-5. **Międzykulturowy autor**: Życie między Sudanem a Europą jako źródło inspiracji
-6. **Literacki debiut**: Pierwszy tekst od razu stał się arcydziełem
-7. **Adaptacje**: Spektakl teatralny i film z nagrodzonymi aktorami
-8. **Wpływ na kanon**: Dzieło, które wprowadziło literaturę arabską na scenę światową
+### 1. Controversial Publication - CIA Connections
+**FACT**: The novel was first published in 1966 in installments in the magazine "Hiwar" published in Beirut, which was secretly funded by the CIA as part of the cultural Cold War.
 
-Te fakty pokazują, jak "Sezon migracji na Północ" stał się nie tylko ważną powieścią arabską, ale również globalnym fenomenem literackim, który łączy osobistą historię autora z uniwersalnymi tematami tożsamości, kolonializmu i kulturowego zderzenia między Wschodem a Zachodem.
+**FACT**: "Hiwar" magazine was part of the Congress for Cultural Freedom network, a CIA front organization operating worldwide.
+
+**FACT**: CIA funding was exposed by "The New York Times" in April 1966, just months after the novel's publication, causing the magazine to close in 1967.
+
+**FACT**: Editor-in-chief Tawfiq Sayigh paid Salih 1,400 Lebanese pounds for the novel, describing it as "the largest amount I have spent (or will spend) on editing!"
+
+### 2. Most Important Arabic Novel of the 20th Century
+**FACT**: In 2001, a panel of Arab writers and critics selected "Season of Migration to the North" as the most important Arabic novel of the 20th century.
+
+**FACT**: The Arab Literature Academy in Damascus recognized it as one of the best Arabic novels of the 20th century.
+
+**FACT**: Edward Said described it as one of six great novels in Arabic literature.
+
+**FACT**: It has been translated into over 20 languages (according to some sources, even 30).
+
+### 3. Fascinating Author - Life Between East and West
+**FACT**: Tayeb Salih was born on July 12, 1929, in Karmakol, a village on the Nile in northern Sudan, and died February 18, 2009, in London.
+
+**FACT**: He came from a family of small farmers and religious teachers, originally planned to work in agriculture.
+
+**FACT**: He worked as head of the drama department at BBC Arabic Service in London.
+
+**FACT**: For over 10 years he wrote a weekly column for the London-based Arabic magazine "al Majalla".
+
+**FACT**: He spent the last 10 years of his professional career at UNESCO in Paris, where he was UNESCO's representative for Arab Gulf states.
+
+### 4. Inspirations and Creative Process
+**FACT**: Salih initially intended to write a "thriller" - a "simple crime story," as he described it in a 1997 interview, but the book took on completely different dimensions.
+
+**FACT**: The inspiration was his own village on the Nile - like the novel's narrator, Salih grew up in a small village on the Nile in northern Sudan.
+
+**FACT**: The fictional village of Wad Hamid, which appears in the novel, became Salih's literary universe - it also appears in his other works like "The Wedding of Zein".
+
+**FACT**: In an interview, Salih said: "I have always been fascinated by the river from early childhood" - the Nile was the main source of inspiration in his literary work.
+
+**FACT**: Salih compared his situation to James Joyce - as an emigrant, he constantly looked back home to the Sudanese village for inspiration.
+
+### 5. Translations and International Success
+**FACT**: The English translation by Denys Johnson-Davies was published in 1969 in the prestigious Heinemann African Writers Series.
+
+**FACT**: Edward Said called Johnson-Davies "the leading translator from Arabic to English of our time".
+
+**FACT**: The novel has been translated into French, German, Italian, Russian, Polish, Norwegian, and even Hebrew.
+
+**FACT**: Salih's works became required reading at various universities in the Arab world, as well as in the United States.
+
+### 6. Censorship and Controversies
+**FACT**: The novel was banned in Sudan from 1983 due to graphic sexual scenes that offended the Islamic government.
+
+**FACT**: However, the ban was short-lived and today the novel is readily available in Sudan, enjoying great popularity.
+
+**RUMOR**: Some critics suggest that controversies around sexual content were exaggerated - the scenes are no more explicit than in many contemporary novels.
+
+### 7. Adaptations and Cultural Impact
+**FACT**: The novel was adapted for theater by Ouriel Zohar with Mohamed Bakri in the lead role.
+
+**FACT**: Mohammed Bakri won the award for best actor at the Israeli Alternative Theater Festival in Acco in 1993 for this role.
+
+**FACT**: It was also adapted into a film featuring Mohamed Bakri.
+
+**FACT**: The novel is often analyzed in the context of Shakespeare's "Othello" and Conrad's "Heart of Darkness" - Salih consciously referenced these works.
+
+### 8. Numbers and Statistics
+**FACT**: The novel was first published in Hiwar magazine, volumes 4(6)–5(1) in 1966, pages 5–87.
+
+**FACT**: The English translation appeared 3 years after the original - in 1969.
+
+**FACT**: Salih lived 79 years (1929-2009), spending most of that time outside Sudan.
+
+**FACT**: For over a decade he wrote a weekly column - that means over 520 articles in "al Majalla" alone.
+
+**FACT**: He spent the last 10 years of his career (probably 1999-2009) at UNESCO in Paris.
+
+### 9. Historical and Political Context
+**FACT**: Sudan gained independence in 1956, when Salih was 27 years old - the novel was written in the first decade of independence.
+
+**FACT**: Salih left Sudan 4 years before independence in 1956 to study international relations in London.
+
+**FACT**: He was born during the Anglo-Egyptian Condominium over Sudan.
+
+**FACT**: He grew up in a small rural community consisting mainly of farmers in northern Sudan.
+
+### 10. First Literary Steps and Discovery of Talent
+**FACT**: Salih had never published his work before when he first contacted translator Denys Johnson-Davies.
+
+**FACT**: He appeared in Johnson-Davies' office with several typescripts, explaining that it was a story he had written and that he had never published his work before.
+
+**FACT**: His first contact with literature was during his work at "al Majalla", the London-based Arabic magazine, where he wrote a weekly column.
+
+**FACT**: He was introduced to Johnson-Davies by the head of BBC Arabic section as someone who had spent part of his early years in Sudan.
+
+### 11. Writing Style and Technique
+**FACT**: Johnson-Davies wrote about Salih's style: "he made full use of the richness of literary language in narration and uses vivid local dialect in dialogue".
+
+**FACT**: An Arabic critic described Salih's style as "closer to dramatic writing than novelistic".
+
+**FACT**: Despite knowing English, Salih consciously chose to write in Arabic.
+
+**FACT**: His work shows wide reading in the intricacies of Arabic literature, including poetry.
+
+### 12. Personal Dimension of Creativity
+**FACT**: In a 2002 interview with Eleanor Wachtel, Salih stated: "The foundation of my work lies in what I am... a Sudanese Muslim Arab born at a particular time and particular place".
+
+**FACT**: The themes of his books derive from his religious experiences as a Muslim in 20th-century Sudan, both pre- and post-colonial.
+
+**FACT**: The broader theme of Salih's work is the confrontation between the Arab-Muslim and Western European worlds.
+
+### 13. Death and Legacy
+**FACT**: Salih died in London around dawn on February 18, 2009, after kidney disease.
+
+**FACT**: He was 79 years old at the time of death.
+
+**FACT**: He died in the same city where he worked at the BBC and where he began his literary career.
+
+### 14. Impact on World Literature
+**FACT**: The novel is considered a work that brought contemporary Arabic literature to the world stage and introduced it to the modern canon.
+
+**FACT**: It is described as a "breakthrough turning point in the development of postcolonial narratives focusing on the encounter between East and West".
+
+**FACT**: Tayeb Salih gained considerable reputation worldwide, even in Egypt, where readers generally do not readily accept non-Egyptians.
+
+### 15. Linguistic and Cultural Curiosities
+**FACT**: The title in Arabic "موسم الهجرة إلى الشمال" literally means "Season of Migration to the North".
+
+**FACT**: "North" in the title refers to Europe/the West, while Sudan lies in the south - it's a metaphor for colonial relations.
+
+**FACT**: The novel contains numerous references to English literary classics, particularly Shakespeare's "Othello".
+
+---
+
+## SUMMARY OF MOST IMPORTANT FACTS
+
+1. **Controversial genesis**: First publication in a CIA-funded magazine
+2. **Highest recognition**: Selected as the most important Arabic novel of the 20th century
+3. **Global reach**: Translated into over 20 languages
+4. **Bans and censorship**: Temporarily banned in Sudan due to content
+5. **Intercultural author**: Life between Sudan and Europe as source of inspiration
+6. **Literary debut**: First text immediately became a masterpiece
+7. **Adaptations**: Theater performance and film with award-winning actors
+8. **Impact on canon**: Work that introduced Arabic literature to the world stage
+
+These facts show how "Season of Migration to the North" became not only an important Arabic novel, but also a global literary phenomenon that connects the author's personal story with universal themes of identity, colonialism, and cultural clash between East and West.

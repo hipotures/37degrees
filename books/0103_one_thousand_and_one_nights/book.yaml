@@ -4,3 +4,182 @@ book_info:
   author: "Anonymous"
   year: c. 9th–14th centuries
   genre: "Folk tales,Frame story"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-19T15:32:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 8
+    cultural_phenomenon: 10
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 10
+    structural_complexity: 9
+    social_roles: 8
+    total: 70
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.0
+      category: "high"
+    heat:
+      value: 8.5
+      category: "high"
+
+  themes:
+    universal:
+      - id: "frame_narrative_innovation"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Revolutionary frame story structure with embedded narratives creating mise en abyme effect - first such complex structure in world literature"
+        source: "writing_innovation"
+      - id: "political_commentary"
+        type: "FACT"
+        credibility: 0.95
+        content: "Systematic murder of women as central motif - trauma passing forward, tyranny through fear, healing through narrative"
+        source: "dark_drama"
+      - id: "orientalist_controversy"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Burton plagiarized three-quarters of translation from Payne, called 'ocean of filth' by Victorian critics"
+        source: "dark_drama"
+      - id: "mystical_symbolism"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "35 symbolic interpretations including Jungian archetypes, Sufi mysticism, alchemical transformation, and narrative therapy"
+        source: "symbols_meanings"
+      - id: "digital_age_relevance"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Scheherazade's survival strategy mirrors TikTok algorithm - content creation for algorithmic approval, cliffhanger mechanisms"
+        source: "youth_digital"
+      - id: "literary_technique_revolution"
+        type: "FACT"
+        credibility: 0.95
+        content: "Invented cliffhanger, embedded narratives, metafiction, temporal manipulation - techniques still used in modern media"
+        source: "writing_innovation"
+      - id: "feminist_power_dynamics"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Scheherazade uses traditionally feminine tools to subvert patriarchal violence - wisdom overcoming brute force"
+        source: "symbols_meanings"
+      - id: "global_adaptation_phenomenon"
+        type: "FACT"
+        credibility: 0.95
+        content: "Over 100 adaptations across all media - films, opera, theater, games, literature - defining entire genres"
+        source: "culture_impact"
+
+    localized:
+      en:
+        cultural_impact: "Foundational orientalist text in English literature, influenced Victorian authors from Dickens to Tennyson"
+        key_editions: ["Burton's unexpurgated translation (1885)", "Lane's scholarly edition (1840s)", "Penguin Classics Lyons translation"]
+        reception_notes: "Sparked first public pornography debate in Victorian England, established adult literary status"
+        educational_status: "Yale, Harvard, UC Davis courses - part of world literature canon"
+        local_themes: ["Victorian orientalism", "Colonial discourse", "Literary censorship debates"]
+
+      pl:
+        cultural_impact: "PIW complete translation (1973-76) by leading Arabists, inspired Bolesław Leśmian's Sesame Tales"
+        key_editions: ["PIW 9-volume edition", "Leśmian's poetic adaptations", "Reclam popular editions"]
+        reception_notes: "Shaped Polish orientalist imagination for 250+ years, symbol of Eastern exoticism"
+        educational_status: "Supplementary reading in world literature programs, not mandatory curriculum"
+        local_themes: ["Sarmatism parallels", "Romantic orientalism", "Folk tale connections"]
+
+      de:
+        cultural_impact: "Littmann's scholarly translation (1921-28) with Hofmannsthal introduction, influenced German romanticism"
+        key_editions: ["Littmann 6-volume Insel edition", "Henning's Reclam popular edition", "Weber's opera Abu Hassan"]
+        reception_notes: "Central to German orientalism and philosophical hermeneutics tradition"
+        educational_status: "Gymnasium curriculum in Oriental literature projects, Abitur preparation"
+        local_themes: ["Romantic orientalism", "Hermeneutic interpretation", "Märchenoper tradition"]
+
+      fr:
+        cultural_impact: "Galland's pioneering translation (1704-17) introduced work to Europe, sparked oriental tale fashion"
+        key_editions: ["Galland's foundational 12-volume translation", "Mardrus ribald translation", "Educational Bibliocollège editions"]
+        reception_notes: "Foundational for European orientalism, subject of postcolonial critique"
+        educational_status: "5th grade curriculum, imagining new worlds theme, structuralist theory applications"
+        local_themes: ["Colonial discourse", "Orientalist origins", "Structuralist analysis"]
+
+      es:
+        cultural_impact: "Spanish translations followed French models, incorporated into Hispanic literary tradition"
+        key_editions: ["19th-century Spanish translations", "Modern academic editions", "Children's adaptations"]
+        reception_notes: "Part of world literature studies in Spanish universities"
+        educational_status: "University comparative literature courses"
+        local_themes: ["Oriental influence in Spanish culture", "Literary orientalism", "Cross-cultural translation"]
+
+      pt:
+        cultural_impact: "Portuguese and Brazilian reception through translated editions"
+        key_editions: ["Portuguese translations", "Brazilian popular editions"]
+        reception_notes: "Incorporated into Lusophone literary traditions"
+        educational_status: "World literature courses in Portuguese universities"
+        local_themes: ["Lusophone orientalism", "Translation studies", "Cultural adaptation"]
+
+      ja:
+        cultural_impact: "First European literary work translated to Japanese (1875), strong narrative tradition influence"
+        key_editions: ["Nagamine Hideki's 1875 translation", "Modern complete translations", "Manga adaptations"]
+        reception_notes: "Influenced Japanese narrative techniques and visual storytelling"
+        educational_status: "Comparative literature studies, Western literature courses"
+        local_themes: ["East-West narrative exchange", "Visual storytelling influence", "Cultural translation"]
+
+      ko:
+        cultural_impact: "Korean translations and adaptations part of global literature reception"
+        key_editions: ["Modern Korean translations", "Educational editions"]
+        reception_notes: "Studied as world literature classic"
+        educational_status: "University world literature programs"
+        local_themes: ["Global literature reception", "Narrative tradition studies", "Cultural adaptation"]
+
+      hi:
+        cultural_impact: "Indian subcontinent connections through Persian roots and Bollywood adaptations"
+        key_editions: ["Hindi translations", "Bollywood film adaptations", "Academic editions"]
+        reception_notes: "Cultural connections through shared Oriental roots"
+        educational_status: "Comparative literature and Middle Eastern studies"
+        local_themes: ["Indo-Persian literary connections", "Bollywood adaptations", "Shared cultural heritage"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "revolutionary_narrative_techniques"
+          lead: "host_a"
+          description: "Frame story innovation - first complex embedded narrative structure in world literature"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "translation_controversies"
+          lead: "host_b"
+          description: "Burton plagiarism scandal, Galland's additions, orientalist distortions across centuries"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "symbolic_interpretations"
+          lead: "host_a"
+          description: "35 layers of meaning - Jungian archetypes, Sufi mysticism, feminist readings"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "contemporary_digital_relevance"
+          lead: "host_b"
+          description: "Scheherazade as proto-content creator, algorithm survival, TikTok cliffhanger mechanics"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "global_cultural_phenomenon"
+          lead: "host_a"
+          description: "100+ adaptations defining genres, from Disney to Pasolini, academic canon worldwide"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'One Thousand and One Nights' with scholarly depth. Discuss revolutionary narrative techniques - frame story, embedded narratives, cliffhanger invention. This work literally created the mise en abyme structure and metafictional storytelling. Address the complex translation controversies from Galland's creative additions to Burton's plagiarism scandal. Explore the 35 symbolic interpretation layers from Jungian archetypes to Sufi mysticism. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification on complex literary techniques, request examples of how ancient storytelling connects to modern media. Help explain how Scheherazade's survival strategy mirrors TikTok content creation - algorithmic approval, cliffhanger mechanics. Connect the work's 100+ adaptations to contemporary cultural impact. Ensure accessibility for non-academics while maintaining scholarly rigor."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence against women", "colonial/orientalist content discussion", "complex academic terminology"]
+    educational_elements: ["Frame narrative techniques", "Translation studies", "Cultural orientalism analysis", "Feminist literary criticism", "Medieval Islamic civilization"]
+    production_notes:
+      intro_style: "scholarly_measured"
+      transitions: "academic_bridges"
+      outro_style: "comprehensive_summary"
+
+  overall_confidence: 0.91

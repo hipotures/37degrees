@@ -1,138 +1,138 @@
 # Facts & History Research: The Wealth of Nations (1776)
-*Autor: Adam Smith | Badania historyczne powstania dzieła*
+*Author: Adam Smith | Historical research on the creation of the work*
 
-## Okoliczności powstania książki
+## Circumstances of the Book's Creation
 
-### **FAKT**: Książka jako antidotum na nudę w Tuluzie
-Adam Smith rozpoczął pisanie "The Wealth of Nations" w 1764 roku w Tuluzie, pisząc do David Hume'a: "Zacząłem pisać książkę, aby zabić czas". To monumentalne dzieło ekonomii powstało z nudów podczas podróży po Francji jako tutor młodego Księcia Buccleuch.
+### **FACT**: The Book as an Antidote to Boredom in Toulouse
+Adam Smith began writing "The Wealth of Nations" in 1764 in Toulouse, writing to David Hume: "I have begun to write a book in order to pass away the time." This monumental work of economics was born out of boredom during his travels through France as tutor to the young Duke of Buccleuch.
 
-### **FAKT**: Dokładnie 10 lat pracy nad rękopisem
-Smith poświęcił dokładnie dekadę (1764-1774) na napisanie książki, a następnie kolejne dwa lata na finalne poprawki. Praca była "produktem siedemnastu lat notatek i wcześniejszych studiów".
+### **FACT**: Exactly 10 Years of Work on the Manuscript
+Smith devoted exactly a decade (1764-1774) to writing the book, then spent another two years on final revisions. The work was "the product of seventeen years of notes and previous studies."
 
-### **FAKT**: Zapis daty publikacji pokrywał się z rewolucją amerykańską
-"An Inquiry into the Nature and Causes of the Wealth of Nations" został opublikowany 9 marca 1776 roku - w tym samym roku co Deklaracja Niepodległości USA. Smith publikował największe dzieło o ekonomii rynkowej dokładnie gdy rozpoczynała się Rewolucja Amerykańska.
+### **FACT**: Publication Date Coincided with the American Revolution
+"An Inquiry into the Nature and Causes of the Wealth of Nations" was published on March 9, 1776 - the same year as the American Declaration of Independence. Smith published the greatest work on market economics exactly when the American Revolution was beginning.
 
-### **FAKT**: Pierwsze wydanie miało prawie 1000 stron
-Książka została wydana w dwóch tomach quarto liczących łącznie ponad 1000 stron przez wydawnictwo Strahan and Cadell w Londynie.
+### **FACT**: First Edition Had Nearly 1000 Pages
+The book was published in two quarto volumes totaling over 1000 pages by the publisher Strahan and Cadell in London.
 
-## Inspiracje i wpływy
+## Inspirations and Influences
 
-### **FAKT**: Spotkanie z Wolterem - wzajemne wrażenie
-Podczas podróży po Europie Smith spotkał François-Marie Aroeta (Woltera) w Genewie. Wolter był pod tak wielkim wrażeniem Szkota, że później napisał: "Ten Smith to doskonały człowiek! Nie mamy nic, co mogłoby się z nim równać, i wstydzę się za moich drogich rodaków".
+### **FACT**: Meeting with Voltaire - Mutual Impression
+During his travels through Europe, Smith met François-Marie Arouet (Voltaire) in Geneva. Voltaire was so impressed by the Scotsman that he later wrote: "That Smith is a perfect man! We have nothing that could equal him, and I am ashamed for my dear compatriots."
 
-### **FAKT**: Fizjokraci francuscy kształtowali myśl Smitha
-W Paryżu Smith spotkał François Quesnaya (1694-1774) i Jacques'a Turgota (1727-1781), czołowych przedstawicieli ruchu fizjokratów. Częste rozmowy z fizjokratami pomogły mu wyostrzyć i udoskonalić własne idee o laissez-faire i liberalizacji handlu.
+### **FACT**: French Physiocrats Shaped Smith's Thought
+In Paris, Smith met François Quesnay (1694-1774) and Jacques Turgot (1727-1781), leading representatives of the physiocrat movement. Frequent conversations with the physiocrats helped him sharpen and refine his own ideas about laissez-faire and trade liberalization.
 
-### **FAKT**: Tragedia skróciła podróż i wpłynęła na książkę
-Podróż edukacyjna została tragicznie przerwana w październiku 1766 roku, gdy młodszy brat Księcia Buccleuch zachorował i zmarł w Paryżu. To zmusiło Smitha do powrotu do Szkocji i skoncentrowania się na dokończeniu dzieła.
+### **FACT**: Tragedy Cut Short the Journey and Influenced the Book
+The educational journey was tragically interrupted in October 1766 when the Duke of Buccleuch's younger brother fell ill and died in Paris. This forced Smith to return to Scotland and focus on completing his work.
 
-## Proces twórczy i przeszkody
+## Creative Process and Obstacles
 
-### **FAKT**: Smith jako roztargniony profesor ze słabością do solilokwiów
-Adam Smith był znany z rozmawiania sam ze sobą - nawyk, który rozpoczął się w dzieciństwie, gdy uśmiechał się prowadząc rozmowy z niewidzialnymi towarzyszami. Studenci i mieszkańcy Glasgow często naśladowali jego charakterystyczną mowę i chód.
+### **FACT**: Smith as an Absent-Minded Professor with a Weakness for Soliloquies
+Adam Smith was known for talking to himself - a habit that began in childhood when he would smile while conducting conversations with invisible companions. Students and residents of Glasgow often imitated his characteristic speech and gait.
 
-### **FAKT**: Wypadek w garbarni podczas dyskusji o wolnym handlu
-Według jednej z anegdot, Smith oprowadzał Charlesa Townshenda po garbarni w Glasgow, a podczas dyskusji o wolnym handlu był tak pochłonięty rozmową, że wpadł do ogromnego dołu garbacyjnego, z którego musieli go wyciągnąć przyjaciele.
+### **FACT**: Accident in a Tannery During Discussion of Free Trade
+According to one anecdote, Smith was guiding Charles Townshend through a tannery in Glasgow, and during a discussion about free trade, he was so absorbed in conversation that he fell into a huge tanning pit, from which friends had to pull him out.
 
-### **FAKT**: Herbata z chlebem i masłem
-Smith był tak roztargniony, że pewnego razu włożył chleb z masłem do czajniczka, wypił miksturę i stwierdził, że to najgorsza herbata, jaką kiedykolwiek pił.
+### **FACT**: Tea with Bread and Butter
+Smith was so absent-minded that once he put bread and butter into a teapot, drank the mixture, and declared it was the worst tea he had ever tasted.
 
-### **FAKT**: 24-kilometrowa przechadzka w koszuli nocnej
-Według relacji, Smith w roztargnieniu wyszedł na spacer w koszuli nocnej i dotarł 24 kilometry poza miasto, zanim dzwony kościelne przywróciły mu świadomość sytuacji.
+### **FACT**: 24-Kilometer Walk in a Nightgown
+According to accounts, Smith absent-mindedly went for a walk in his nightgown and traveled 24 kilometers outside the city before church bells brought him back to awareness of his situation.
 
-## Pierwsze reakcje i publikacja
+## First Reactions and Publication
 
-### **FAKT**: Natychmiastowy sukces - wyprzedaż w 6 miesięcy
-Pierwsze wydanie zostało wyprzedane w ciągu zaledwie sześciu miesięcy, co było niezwykłym sukcesem jak na tak naukową pracę. Prawdopodobnie wydrukowano 500-750 egzemplarzy.
+### **FACT**: Immediate Success - Sold Out in 6 Months
+The first edition was sold out in just six months, which was an extraordinary success for such a scholarly work. Probably 500-750 copies were printed.
 
-### **FAKT**: David Hume przewidywał trudności z popularnością
-David Hume uważał, że "The Wealth of Nations" wymaga zbyt dużo myślenia, aby stać się tak popularne jak "Historia upadku i upadku Cesarstwa Rzymskiego" Edwarda Gibbona.
+### **FACT**: David Hume Predicted Difficulties with Popularity
+David Hume believed that "The Wealth of Nations" required too much thinking to become as popular as Edward Gibbon's "The History of the Decline and Fall of the Roman Empire."
 
-### **FAKT**: Honorarium 500 funtów za rękopis
-Smith prawdopodobnie otrzymał 500 funtów za rękopis - tę samą sumę, którą wydawca Cadell zapłacił wcześniej za pracę ekonomiczną Sir Jamesa Steuarta.
+### **FACT**: 500 Pounds Fee for the Manuscript
+Smith probably received 500 pounds for the manuscript - the same sum that publisher Cadell had previously paid for Sir James Steuart's economic work.
 
-### **FAKT**: Brak odrzuceń przez wydawców
-Wbrew popularnym mitom o odrzucanych rękopisach genialnych dzieł, nie ma żadnych udokumentowanych dowodów, że "The Wealth of Nations" była odrzucana przez wydawców. Książka została chętnie przyjęta przez Strahan i Cadell.
+### **FACT**: No Rejections by Publishers
+Contrary to popular myths about rejected manuscripts of brilliant works, there is no documented evidence that "The Wealth of Nations" was rejected by publishers. The book was eagerly accepted by Strahan and Cadell.
 
-## Ukryte fakty i ciekawostki
+## Hidden Facts and Curiosities
 
-### **FAKT**: "Niewidzialna ręka" użyta tylko trzy razy
-Smith użył słynnego wyrażenia "niewidzialna ręka" tylko trzy razy w całej swojej opublikowanej twórczości - raz w "Teorii uczuć moralnych" (1759), raz w "Bogactwie narodów" (1776) i raz w pośmiertnej "Historii astronomii".
+### **FACT**: "Invisible Hand" Used Only Three Times
+Smith used the famous phrase "invisible hand" only three times in all his published works - once in "The Theory of Moral Sentiments" (1759), once in "The Wealth of Nations" (1776), and once in the posthumous "History of Astronomy."
 
-### **FAKT**: Pierwotne pochodzenie metafory od Jowisza
-Pierwsze użycie "niewidzialnej ręki" pojawiło się w niepublikowanej "Historii astronomii", gdzie Smith odnosił się do "niewidzialnej ręki Jowisza" opisując, jak starożytni ludzie tłumaczyli zjawiska naturalne, których nie rozumieli naukowo.
+### **FACT**: Original Origin of the Metaphor from Jupiter
+The first use of the "invisible hand" appeared in the unpublished "History of Astronomy," where Smith referred to "the invisible hand of Jupiter" describing how ancient people explained natural phenomena they didn't understand scientifically.
 
-### **PLOTKA**: Ironiczne użycie metafory
-Niektórzy badacze sugerują, że późniejsze użycia przez Smitha były "łagodnie ironiczne" lub nawet sarkastyczne, ponieważ sam opisywał wyjaśnienia "niewidzialną ręką" jako odpowiednie dla nienauko kowej dyskusji.
+### **RUMOR**: Ironic Use of the Metaphor
+Some scholars suggest that Smith's later uses were "gently ironic" or even sarcastic, since he himself described explanations by "invisible hand" as appropriate for unscientific discussion.
 
-### **FAKT**: Hiszpańska Inkwizycja zakazała francuskie tłumaczenie
-Hiszpańska Inkwizycja zakazała "The Wealth of Nations" w przekładzie francuskim, ale José Alonso Ortiz zdołał opublikować praktycznie kompletne tłumaczenie hiszpańskie (choć prawdopodobnie autocenzurował fragmenty dotyczące lichwy).
+### **FACT**: Spanish Inquisition Banned the French Translation
+The Spanish Inquisition banned "The Wealth of Nations" in French translation, but José Alonso Ortiz managed to publish a virtually complete Spanish translation (though he probably self-censored passages about usury).
 
-## Biografia autora w kontekście książki
+## Author's Biography in the Context of the Book
 
-### **FAKT**: Urodzony w Kirkcaldy - mała ale tętniąca życiem miejscowość
-Adam Smith urodził się w Kirkcaldy w Fife w Szkocji (chrzest 5 czerwca 1723), w małym ale tętniącym życiem porcie liczącym około 1500 mieszkańców. Ojciec zmarł pięć miesięcy przed narodzinami syna.
+### **FACT**: Born in Kirkcaldy - Small but Vibrant Town
+Adam Smith was born in Kirkcaldy in Fife, Scotland (baptized June 5, 1723), in a small but vibrant port of about 1,500 inhabitants. His father died five months before his son's birth.
 
-### **FAKT**: Porwanie przez Cyganów w wieku 4 lat
-Gdy miał cztery lata, Smith został podobno porwany przez Cyganów, ale szybko odnaleziony i zwrócony matce.
+### **FACT**: Kidnapped by Gypsies at Age 4
+When he was four years old, Smith was reportedly kidnapped by Gypsies but was quickly found and returned to his mother.
 
-### **FAKT**: Student Glasgow w wieku 14 lat
-Smith rozpoczął studia na University of Glasgow w wieku 14 lat, studiując filozofię moralną pod kierunkiem Francisa Hutchesona.
+### **FACT**: Student at Glasgow at Age 14
+Smith began studies at the University of Glasgow at age 14, studying moral philosophy under Francis Hutcheson.
 
-### **FAKT**: Oxford rozczarował przyszłego ekonomistę
-W porównaniu z stymulującą atmosferą Glasgow, Smith uznał Oxford za "nieznośnie nudny i stęchły", pozostając tam sześć lat, ale nie będąc pod wrażeniem stylu nauczania.
+### **FACT**: Oxford Disappointed the Future Economist
+Compared to the stimulating atmosphere of Glasgow, Smith found Oxford "unbearably dull and stale," staying there for six years but not being impressed by the teaching style.
 
-### **FAKT**: 13 najszczęśliwszych lat jako profesor w Glasgow
-Smith pracował jako wykładowca przez następne 13 lat, które scharakteryzował jako "zdecydowanie najbardziej użyteczny i dlatego zdecydowanie najszczęśliwszy i najbardziej honorowy okres [jego] życia".
+### **FACT**: 13 Happiest Years as Professor at Glasgow
+Smith worked as a lecturer for the next 13 years, which he characterized as "by far the most useful and therefore by far the happiest and most honorable period of [his] life."
 
-### **FAKT**: Nigdy się nie ożenił ani nie miał dzieci
-Smith pozostał kawalerem przez całe życie i nie miał potomstwa. Szczegóły jego życia osobistego zostały w dużej mierze utracone dla czasu.
+### **FACT**: Never Married or Had Children
+Smith remained a bachelor throughout his life and had no offspring. Details of his personal life have been largely lost to time.
 
-## Statystyki i rekordy
+## Statistics and Records
 
-### **FAKT**: 5 wydań za życia autora
-Za życia Smitha ukazało się pięć wydań "The Wealth of Nations": 1776, 1778, 1784, 1786 i 1789. Smith natychmiast rozpoczął rewizje po publikacji.
+### **FACT**: 5 Editions During the Author's Lifetime
+During Smith's lifetime, five editions of "The Wealth of Nations" appeared: 1776, 1778, 1784, 1786, and 1789. Smith immediately began revisions after publication.
 
-### **FAKT**: Drugie najczęściej cytowane dzieło ekonomiczne sprzed 1950 roku
-Z 36,331 cytowaniami "The Wealth of Nations" jest drugim najczęściej cytowanym dziełem ekonomicznym opublikowanym przed 1950 rokiem, ustępując jedynie "Das Kapital" Karola Marksa.
+### **FACT**: Second Most Cited Economic Work Published Before 1950
+With 36,331 citations, "The Wealth of Nations" is the second most cited economic work published before 1950, second only to Karl Marx's "Das Kapital."
 
-### **FAKT**: Pierwsze kompleksowe studium ekonomii politycznej
-Dzieło stało się pierwszym sformułowaniem kompleksowego systemu ekonomii politycznej i fundamentalnym studium w historii ekonomii.
+### **FACT**: First Comprehensive Study of Political Economy
+The work became the first formulation of a comprehensive system of political economy and a fundamental study in the history of economics.
 
-### **FAKT**: Śmierć w Panmure House po bolesnej chorobie
-Smith zmarł 17 lipca 1790 roku w Panmure House w Edynburgu po bolesnej chorobie. Został pochowany na pobliskim cmentarzu Canongate Church.
+### **FACT**: Death at Panmure House After Painful Illness
+Smith died on July 17, 1790, at Panmure House in Edinburgh after a painful illness. He was buried at nearby Canongate Church cemetery.
 
-### **FAKT**: Zniszczenie nieopublikowanych prac na życzenie autora
-Smith wydał surowe instrukcje swoim wykonawcom testamentu, aby zniszczyć wszystkie jego nieopublikowane prace, co oznacza, że jego ostatnie dzieła nad historią rządu i prawa oraz literatury zostały utracone.
+### **FACT**: Destruction of Unpublished Works at the Author's Request
+Smith issued strict instructions to his executors to destroy all his unpublished works, which means his final works on the history of government and law and literature were lost.
 
-## Wpływ na współczesność
+## Impact on Contemporary Times
 
-### **FAKT**: Edmund Burke prawdopodobnie recenzował książkę
-Recenzja książki w Annual Register została prawdopodobnie napisana przez whiga Edmunda Burke'a.
+### **FACT**: Edmund Burke Probably Reviewed the Book
+The book review in Annual Register was probably written by Whig Edmund Burke.
 
-### **FAKT**: Thomas Paine chwalił dzieło w "Rights of Man"
-W 1791 roku radykalny myśliciel Thomas Paine napisał w "Rights of Man": "Gdyby pan Burke posiadał talenty podobne do autora 'On the Wealth of Nations', objąłby wszystkie części".
+### **FACT**: Thomas Paine Praised the Work in "Rights of Man"
+In 1791, radical thinker Thomas Paine wrote in "Rights of Man": "Had Mr. Burke possessed talents similar to the author of 'On the Wealth of Nations,' he would have comprehended all the parts."
 
-### **FAKT**: William Gladstone świętował stulecie publikacji
-Liberalny mąż stanu William Ewart Gladstone przewodniczył spotkaniu Political Economy Club z okazji stulecia publikacji "The Wealth of Nations", pokazując trwały wpływ dzieła w XIX wieku.
+### **FACT**: William Gladstone Celebrated the Centenary of Publication
+Liberal statesman William Ewart Gladstone presided over a Political Economy Club meeting to commemorate the centenary of "The Wealth of Nations" publication, showing the work's lasting impact in the 19th century.
 
-### **FAKT**: Inspiracja dla amerykańskich ojców założycieli
-Dzieło Smitha z 1776 roku miało ogromny wpływ wśród powstającej burżuazji Europy i świeżo niepodległych Stanów Zjednoczonych Ameryki, dostarczając teoretycznych podstaw przeciwko feudalnej biurokracji.
+### **FACT**: Inspiration for American Founding Fathers
+Smith's 1776 work had enormous influence among Europe's emerging bourgeoisie and the newly independent United States of America, providing theoretical foundations against feudal bureaucracy.
 
-## Anegdoty z procesu pisania
+## Anecdotes from the Writing Process
 
-### **FAKT**: Pensja życia od Księcia Buccleuch
-Dzięki hojnej pensji życiowej, którą zarobił na służbie u Księcia Buccleuch, Smith mógł przejść na emeryturę do rodzinnego Kirkcaldy i skoncentrować się na pisaniu "The Wealth of Nations".
+### **FACT**: Life Pension from the Duke of Buccleuch
+Thanks to the generous life pension he earned in service to the Duke of Buccleuch, Smith could retire to his native Kirkcaldy and focus on writing "The Wealth of Nations."
 
-### **FAKT**: Komisarz ceł zbierał dane empiryczne
-Jako komisarz ceł i opłat solnych w Szkocji (od 1778), Smith miał dostęp do doskonałych danych empirycznych, które wykorzystał w swojej pracy nad "The Wealth of Nations".
+### **FACT**: Customs Commissioner Collected Empirical Data
+As commissioner of customs and salt duties in Scotland (from 1778), Smith had access to excellent empirical data, which he used in his work on "The Wealth of Nations."
 
-### **FAKT**: James Boswell jako student Smitha
-James Boswell, który był studentem Smitha na University of Glasgow i później znał go w Literary Club, twierdził, że Smith uważał, iż mówienie o swoich ideach w rozmowie może zmniejszyć sprzedaż jego książek.
+### **FACT**: James Boswell as Smith's Student
+James Boswell, who was Smith's student at the University of Glasgow and later knew him in the Literary Club, claimed that Smith believed that talking about his ideas in conversation might reduce sales of his books.
 
-### **FAKT**: Popularność wykładów przyciągała studentów z całej Europy
-Po publikacji "Teorii uczuć moralnych" Smith stał się tak popularny, że wielu zamożnych studentów opuściło swoje szkoły w innych krajach, aby zapisać się do Glasgow i uczyć się pod kierunkiem Smitha.
+### **FACT**: Popularity of Lectures Attracted Students from All Over Europe
+After the publication of "The Theory of Moral Sentiments," Smith became so popular that many wealthy students left their schools in other countries to enroll at Glasgow and study under Smith's guidance.
 
 ---
 
-*Zebranych faktów: 47 | Źródła: Badania internetowe przeprowadzone 2025-09-02*
+*Facts collected: 47 | Sources: Internet research conducted 2025-09-02*

@@ -1,0 +1,15 @@
+media_info:
+  title: Glasgow Fireballs - December 1752
+  author: Historical Documentation
+  year: 1752
+  genre: Unexplained Phenomena Documentary
+  description: Two fireballs seen over Glasgow, one exploding and showering sparks
+    and hailstones in one of the earliest documented aerial phenomena
+  target_audience: General public, students, UFO researchers, historical enthusiasts
+  duration: ~3 minutes
+  objective: Recreate the 18th century mystery that predates modern UFO sightings
+    and explore early attempts to explain unexplained aerial phenomena
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Civilian Witnesses Gathering"
+  setting:
+    time: "January 1990, evening"
+    location: "Suburban neighborhood, Wallonia region, Belgium"
+    weather: "Cold winter night, some frost visible"
+  characters:
+    - appearance: "Belgian civilian, various ages 20s-60s, typical Western European appearance"
+      clothing: "1990 winter attire - wool coats, sweaters, jeans, typical casual European clothing of the era"
+      position: "Multiple civilians standing on street, some by cars, others at doorways"
+      action: "Looking upward at sky, pointing, standing by cars or at windows"
+  scene:
+    mainElements: "Suburban Belgian street with typical 1990 European residential architecture"
+    details: "Multiple families and neighbors have come outside to witness unusual aerial phenomena. Street lights illuminate frost on cars and sidewalks. Some witnesses hold binoculars or cameras, others point excitedly at dark triangular objects moving silently overhead. Windows of nearby houses glow warmly as more residents peer out."
+    background: "Belgian residential houses with red tile roofs, bare winter trees, distant city lights"
+    atmosphere: "Growing community awareness and excitement about unusual sightings, neighbors sharing extraordinary experience"
+  composition:
+    cameraAngle: "Wide shot capturing multiple witnesses on residential street"
+    focus: "Group of civilians all looking up at the same area of sky"
+    depth: "Foreground: nearest witnesses and cars, middle ground: street and houses, background: night sky and distant lights, no text or letters visible"

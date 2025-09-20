@@ -1,114 +1,114 @@
-# HISTORIA POWSTANIA "OBJAŚNIANIA MARZEŃ SENNYCH" SIGMUNDA FREUDA
+# THE CREATION HISTORY OF "THE INTERPRETATION OF DREAMS" BY SIGMUND FREUD
 
-*Badania faktów, anegdot i ukrytych historii procesu twórczego*
+*Research into facts, anecdotes and hidden stories of the creative process*
 
-## OKOLICZNOŚCI POWSTANIA
+## CIRCUMSTANCES OF CREATION
 
-### **FAKT**: Bellevue Manor - miejsce narodzin psychoanalizy
-24 lipca 1895 roku, w hotelu Bellevue koło Grinzingu w Austrii, Freud miał sen o "zastrzyku Irmy" - pierwszy sen, który poddał szczegółowej interpretacji. Sam Freud pisał do Wilhelma Fliessa w 1900: "Czy myślisz, że pewnego dnia zostanie tam umieszczona marmurowa tablica z napisem: 'W tym domu 24 lipca 1895 roku tajemnica snów została objawiona doktorowi Sigmundowi Freudowi'?" **W 1963 roku manor Bellevue został zburzony, ale Austriackie Towarzystwo Sigmunda Freuda rzeczywiście umieściło tam tablicę pamiątkową z dokładnie tym napisem.**
+### **FACT**: Bellevue Manor - birthplace of psychoanalysis
+On July 24, 1895, at the Bellevue hotel near Grinzing in Austria, Freud had the dream of "Irma's injection" - the first dream he subjected to detailed interpretation. Freud himself wrote to Wilhelm Fliess in 1900: "Do you suppose that some day a marble tablet will be placed on the house, inscribed with these words: 'In this house, on July 24th, 1895, the secret of dreams was revealed to Dr. Sigmund Freud'?" **In 1963, Bellevue Manor was demolished, but the Austrian Sigmund Freud Society indeed placed a commemorative plaque there with exactly this inscription.**
 
-### **FAKT**: Śmierć ojca jako katalizator
-23 października 1896 roku zmarł Jakob Freud, ojciec Sigmunda. Ten "najważniejszy wydarzenie, najboleśniejsza strata w życiu mężczyzny" (jak pisał sam Freud) stał się bezpośrednim impulsem do rozpoczęcia wieloletniej autoanalizy. Freud przyznał: "Była to część mojej własnej autoanalizy, mojej reakcji na śmierć ojca, czyli na najważniejsze wydarzenie, najboleśniejszą stratę w życiu mężczyzny."
+### **FACT**: Father's death as catalyst
+On October 23, 1896, Jakob Freud, Sigmund's father, died. This "most important event, the most poignant loss of a man's life" (as Freud himself wrote) became the direct impulse to begin years of self-analysis. Freud admitted: "It was part of my own self-analysis, my reaction to my father's death - that is to say, to the most important event, the most poignant loss, of a man's life."
 
-### **FAKT**: Rękopis został zniszczony
-Po korekcie próbnych odbitek, Freud wyrzucił oryginalny rękopis książki. To oznacza, że jeden z najważniejszych tekstów w historii psychologii istnieje tylko w wersji drukowanej - oryginalne notatki i poprawki autora zostały bezpowrotnie utracone.
+### **FACT**: The manuscript was destroyed
+After correcting the proof sheets, Freud threw away the original manuscript of the book. This means that one of the most important texts in the history of psychology exists only in printed form - the author's original notes and corrections have been irretrievably lost.
 
-## PROCES TWÓRCZY
+## CREATIVE PROCESS
 
-### **FAKT**: Cztery lata intensywnej pracy
-Freud rozpoczął pracę nad książką w 1895 roku, a ukończył ją latem 1899. W "Historii ruchu psychoanalitycznego" (1914) ujawnił, że "Objaśnianie marzeń sennych było ukończone co do zasadniczych elementów już w 1896 roku", czyli zaraz po śmierci ojca.
+### **FACT**: Four years of intensive work
+Freud began work on the book in 1895 and completed it in the summer of 1899. In "On the History of the Psychoanalytic Movement" (1914) he revealed that "The Interpretation of Dreams was finished in all essentials at the beginning of 1896," that is, right after his father's death.
 
-### **FAKT**: Szczegółowy harmonogram pisania
-Freud pisał głównie w swoim gabinecie przy Berggasse 19 w Wiedniu, przy biurku wykonanym przez stolarza Siegmunda Spitza. Biurko było wykonane z ciemnego drewna z czerwonym filcowym blatem, z trzema szufladami po każdej stronie. Na biurku trzymał "papiery na dużej skórzanej teczce z piórami i marmurowymi nożem do listów".
+### **FACT**: Detailed writing schedule
+Freud wrote mainly in his study at Berggasse 19 in Vienna, at a desk made by carpenter Siegmund Spitz. The desk was made of dark wood with a red felt top, with three drawers on each side. On the desk he kept "papers on a large leather portfolio with pens and marble letter opener."
 
-### **FAKT**: Specyficzny styl pisania
-Analiza rękopisów Freuda ujawnia charakterystyczny wzór: "zamiast utrzymywać stały lewy margines, jego tekst wydaje się grawitować w kierunku prawej krawędzi strony. Podczas gdy lewy margines 'pływa', prawa strona tworzy charakterystyczny blok tekstu przesunięty w prawo." Freud używał dwóch rodzajów pisma - gotyckiego Kurrent dla niemieckiego i łacińskiego dla innych języków.
+### **FACT**: Specific writing style
+Analysis of Freud's manuscripts reveals a characteristic pattern: "instead of maintaining a steady left margin, his text seems to gravitate toward the right edge of the page. While the left margin 'floats,' the right side forms a characteristic block of text shifted to the right." Freud used two types of script - Gothic Kurrent for German and Latin for other languages.
 
-### **FAKT**: Czerwone pióro Mont Blanc
-Freud pisał "Objaśnianie marzeń sennych" czerwonym, twardym gumowym piórem Mont Blanc Safety z lat 1910-20, opisywanym jako "ogromne, niemal napęczniałe, całkowicie czerwone pióro" z stalówką prawdopodobnie #8, #10 lub #12.
+### **FACT**: Red Mont Blanc pen
+Freud wrote "The Interpretation of Dreams" with a red, hard rubber Mont Blanc Safety pen from 1910-20, described as "huge, almost bloated, entirely red pen" with a nib probably #8, #10, or #12.
 
-## INSPIRACJE I WPŁYWY
+## INSPIRATIONS AND INFLUENCES
 
-### **FAKT**: "Projekt psychologii naukowej" jako fundament
-Latem 1895 roku Freud stworzył pierwszy zarys teorii psychologicznej w niepublikowanym za jego życia "Projekcie psychologii naukowej". Ta neurobiologiczna próba wyjaśnienia procesów psychicznych stała się fundamentem późniejszej teorii snów w "Objaśnianiu marzeń sennych".
+### **FACT**: "Project for a Scientific Psychology" as foundation
+In the summer of 1895, Freud created the first outline of psychological theory in the unpublished during his lifetime "Project for a Scientific Psychology." This neurobiological attempt to explain psychological processes became the foundation of the later dream theory in "The Interpretation of Dreams."
 
-### **FAKT**: Wilhelm Fliess jako powiernik intelektualny
-Niemiecki otolaryngolog Wilhelm Fliess był najbliższym przyjacielem i powiernikiem Freuda w latach 1887-1902. W intensywnej korespondencji z lat 1895-1900 Freud dzielił się najintymniejszymi myślami o rozwijających się teoriach psychoanalitycznych. Fliess służył jako intelektualna "deska ratunkowa" podczas pisania książki.
+### **FACT**: Wilhelm Fliess as intellectual confidant
+German otolaryngologist Wilhelm Fliess was Freud's closest friend and confidant from 1887-1902. In intensive correspondence from 1895-1900, Freud shared his most intimate thoughts about developing psychoanalytic theories. Fliess served as an intellectual "lifeline" during the writing of the book.
 
-### **FAKT**: Sen o zastrzyku Irmy - szczegóły
-Sen miał miejsce w nocy 23/24 lipca 1895 w hotelu Bellevue. Freud zapisał go natychmiast po przebudzeniu. Sen zaczynał się od holu w Bellevue, gdzie Freud z żoną planowali przyjęcie urodzinowe, z Irmą wśród gości. W śnie Freud mówił Irmie: "Jeśli nadal masz bóle, to naprawdę tylko twoja wina." To był pierwszy sen, który Freud poddał metodycznej interpretacji.
+### **FACT**: Irma's injection dream - details
+The dream took place on the night of July 23/24, 1895, at the Bellevue hotel. Freud recorded it immediately upon awakening. The dream began in the lobby at Bellevue, where Freud and his wife were planning a birthday party, with Irma among the guests. In the dream, Freud told Irma: "If you still get pains, it's really only your fault." This was the first dream that Freud subjected to methodical interpretation.
 
-### **FAKT**: Ojciec w snach
-W całej książce Freud wspomina kilka snów zawierających bezpośrednie lub pośrednie skojarzenia z ojcem. W wielu z tych snów Freud wyraża troskę o to, by zaimponować ojcu swoimi osiągnięciami zawodowymi. Śmierć ojca, małżeństwo z Martą Bernays i narodziny dzieci to tematy prominentnie obecne w jego snach.
+### **FACT**: Father in dreams
+Throughout the book, Freud mentions several dreams containing direct or indirect associations with his father. In many of these dreams, Freud expresses concern about impressing his father with his professional achievements. His father's death, marriage to Martha Bernays, and the birth of children are themes prominently present in his dreams.
 
-## PUBLIKACJA I PIERWSZE REAKCJE
+## PUBLICATION AND FIRST REACTIONS
 
-### **FAKT**: Data publikacji - mistyfikacja marketingowa
-Książka została faktycznie opublikowana 4 listopada 1899 roku, ale Freud zadbał, by na stronie tytułowej widniał rok 1900. "Był bardzo świadomy swojego wizerunku i reputacji i że nadejście nowego stulecia zwiastowało świt nowej ery."
+### **FACT**: Publication date - marketing mystification
+The book was actually published on November 4, 1899, but Freud ensured that the year 1900 appeared on the title page. "He was very conscious of his image and reputation and that the coming of the new century heralded the dawn of a new era."
 
-### **FAKT**: Franz Deuticke - wydawca z Lipska i Wiednia
-Książka została wydana przez Franza Deutickego w nakładzie zaledwie 600 egzemplarzy. Freud otrzymał pierwsze egzemplarze pod koniec października 1899, o czym świadczy list do Wilhelma Fliessa z 27 października 1899.
+### **FACT**: Franz Deuticke - publisher from Leipzig and Vienna
+The book was published by Franz Deuticke in a print run of only 600 copies. Freud received the first copies at the end of October 1899, as evidenced by a letter to Wilhelm Fliess dated October 27, 1899.
 
-### **FAKT**: Katastrofalna sprzedaż
-W pierwszych sześciu latach sprzedano tylko 351 egzemplarzy. Książka sprzedawała się tak słabo, że drugie wydanie nie było potrzebne aż do 1909 roku - 8 lat po publikacji! Egzemplarze z wydania z 1899 roku były nadal dostępne 8 lat po publikacji.
+### **FACT**: Catastrophic sales
+In the first six years, only 351 copies were sold. The book sold so poorly that a second edition was not needed until 1909 - 8 years after publication! Copies from the 1899 edition were still available 8 years after publication.
 
-### **FAKT**: "Żadnego echa"
-Freud był głęboko rozczarowany początkową recepcją. 18 miesięcy po publikacji żaden periodyk naukowy i tylko kilka innych publikacji wspomniało o książce. Dzieło "nie wywołało żadnego echa".
+### **FACT**: "No echo"
+Freud was deeply disappointed by the initial reception. 18 months after publication, no scientific journal and only a few other publications mentioned the book. The work "created no echo."
 
-### **FAKT**: Pierwsza poważna pochwała
-Jednym z pierwszych zwolenników był szwajcarski psychiatra Eugen Bleuler, który napisał do Freuda w październiku 1905: "jestem przekonany o słuszności 'Objaśniania marzeń sennych' od razu po przeczytaniu."
+### **FACT**: First serious praise
+One of the first supporters was Swiss psychiatrist Eugen Bleuler, who wrote to Freud in October 1905: "I am convinced of the correctness of 'The Interpretation of Dreams' immediately upon reading."
 
-## KONTEKST BIOGRAFICZNY AUTORA
+## BIOGRAPHICAL CONTEXT OF THE AUTHOR
 
-### **FAKT**: Autoanaliza jako metoda badawcza
-Freud nie tylko napisał o snach, ale sam przeprowadził pierwszą w historii systematyczną autoanalizę, analizując własne sny przez kilka lat. Ta autoanaliza stała się fundamentalną metodą badawczą psychoanalizy.
+### **FACT**: Self-analysis as research method
+Freud not only wrote about dreams but conducted the first systematic self-analysis in history, analyzing his own dreams for several years. This self-analysis became a fundamental research method of psychoanalysis.
 
-### **FAKT**: Zaburzenia psychosomatyczne podczas pisania
-W okresie pisania książki (1895-1899) Freud doświadczał nieregularności pracy serca, niepokojących snów i okresów depresji - "neurastenije", którą łączył ze śmiercią ojca w 1896 roku.
+### **FACT**: Psychosomatic disorders during writing
+During the period of writing the book (1895-1899), Freud experienced heart irregularities, disturbing dreams, and periods of depression - "neurasthenia," which he connected to his father's death in 1896.
 
-### **FAKT**: Antysemityzm w Wiedniu
-Pogarszająca się sytuacja polityczna w Wiedniu i wzrost antysemityzmu w latach 90. XIX wieku miały znaczący wpływ na Freuda podczas pisania książki. Te doświadczenia znalazły odzwierciedlenie w wielu jego snach analizowanych w książce.
+### **FACT**: Anti-Semitism in Vienna
+The deteriorating political situation in Vienna and the rise of anti-Semitism in the 1890s had a significant impact on Freud during the writing of the book. These experiences were reflected in many of his dreams analyzed in the book.
 
-### **FAKT**: Gabinet przy Berggasse 19
-Gabinet Freuda przy Berggasse 19 był urządzony inaczej niż reszta domu - "z antycznymi zabytkami wypełniającymi każdą powierzchnię i tekstyliami na podłogach, stołach i ścianach, tworzącymi 'atmosferę spokojnej akademii i przyciszonych wynurzeń'."
+### **FACT**: Study at Berggasse 19
+Freud's study at Berggasse 19 was arranged differently from the rest of the house - "with ancient artifacts filling every surface and textiles on floors, tables and walls, creating an 'atmosphere of quiet academy and muted confessions'."
 
-## CIEKAWOSTKI I ANEGDOTY
+## CURIOSITIES AND ANECDOTES
 
-### **FAKT**: "Ostatnie wielkie dzieło oryginalne"
-Historyk nauki określił "Objaśnianie marzeń sennych" jako "ostatnie wielkie oryginalne dzieło w nauce lub medycynie, które ukazało się najpierw jako monografia, a nie jako artykuł w czasopiśmie naukowym lub medycznym."
+### **FACT**: "Last great original work"
+A science historian described "The Interpretation of Dreams" as "the last great original work in science or medicine that appeared first as a monograph rather than as an article in a scientific or medical journal."
 
-### **FAKT**: Rangi z Darwinem i Marksem
-Dzieło jest klasyfikowane wraz z "Pochodzeniem gatunków" Darwina i "Kapitałem" Marksa jako jedno z trzech najbardziej rewolucyjnych dzieł XIX wieku.
+### **FACT**: Ranks with Darwin and Marx
+The work is classified alongside Darwin's "Origin of Species" and Marx's "Capital" as one of the three most revolutionary works of the 19th century.
 
-### **FAKT**: Skrócona wersja "O snach"
-W 1901 roku Freud opublikował skróconą wersję zatytułowaną "O snach" jako część serii Grenzfragen des Nerven und Seelenlebens, która została ponownie wydana w 1911 roku w nieco rozszerzonej formie jako książka.
+### **FACT**: Abbreviated version "On Dreams"
+In 1901, Freud published an abbreviated version titled "On Dreams" as part of the Grenzfragen des Nerven und Seelenlebens series, which was republished in 1911 in a slightly expanded form as a book.
 
-### **FAKT**: Anna Freud jako strażniczka spuścizny
-Po śmierci Freuda Anna Freud zachowała gabinet ojca niemal dokładnie tak, jak go pozostawił - "nie jako niedostępny pomnik, ale jako żywy pomnik życia i pracy Freuda." Gdy rodzina uciekała przed nazistowskimi prześladowaniami do Londynu w 1938 roku, mieli wyjątkowe szczęście zabrać ze sobą niemal wszystkie swoje rzeczy, włącznie z biurkiem.
+### **FACT**: Anna Freud as guardian of legacy
+After Freud's death, Anna Freud preserved her father's study almost exactly as he left it - "not as an inaccessible monument, but as a living monument to Freud's life and work." When the family fled Nazi persecution to London in 1938, they had the exceptional fortune of taking almost all their belongings with them, including the desk.
 
-### **FAKT**: Współczesne potwierdzenie teorii
-Choć początkowo spotykała się z krytyką, współczesna neurobiologia potwierdza wiele intuicji Freuda dotyczących funkcji snów w przetwarzaniu informacji i emocji.
+### **FACT**: Contemporary confirmation of theory
+Although initially met with criticism, contemporary neurobiology confirms many of Freud's insights regarding the function of dreams in processing information and emotions.
 
-### **FAKT**: Dwujęzyczność rękopisów
-Freud używał dwóch systemów pisma odzwierciedlających dwujęzyczną kulturę swojego czasu - pismo Kurrent dla niemieckiego i łacińskie dla innych języków. To widoczne w jego notatkach, gdzie płynne pismo łacińskie używane było dla fragmentów angielskich i hiszpańskich, kontrastując z kanciastym Kurrent w sekcjach niemieckich.
+### **FACT**: Bilingual manuscripts
+Freud used two writing systems reflecting the bilingual culture of his time - Kurrent script for German and Latin script for other languages. This is visible in his notes, where flowing Latin script was used for English and Spanish fragments, contrasting with angular Kurrent in German sections.
 
-### **FAKT**: Marmurowy nóż do listów
-Na swoim biurku Freud trzymał charakterystyczny marmurowy nóż do listów, którym otwierał korespondencję. Ten przedmiot stał się niemal ikonicznym elementem jego gabinetu.
+### **FACT**: Marble letter opener
+On his desk, Freud kept a characteristic marble letter opener with which he opened correspondence. This object became an almost iconic element of his study.
 
-## ZNACZENIE HISTORYCZNE
+## HISTORICAL SIGNIFICANCE
 
-### **FAKT**: Narodziny psychoanalizy
-Freud sam uznał znaczenie tej książki, mówiąc: "Wgląd taki jak ten przypada w udziale człowiekowi raz w życiu." To było dzieło założycielskie psychoanalizy.
+### **FACT**: Birth of psychoanalysis
+Freud himself recognized the significance of this book, saying: "Insight such as this falls to one's lot but once in a lifetime." This was the founding work of psychoanalysis.
 
-### **FAKT**: Pierwsza prezentacja ogólnego widoku funkcjonowania psychiki
-Za pomocą tej książki Freud po raz pierwszy próbował przedstawić ogólny widok funkcjonowania umysłu, wykraczając poza wcześniejsze, fragmentaryczne teorie.
+### **FACT**: First presentation of a general view of mental functioning
+Through this book, Freud attempted for the first time to present a general view of the functioning of the mind, going beyond earlier, fragmentary theories.
 
-### **FAKT**: Rewolucja w rozumieniu nieświadomości
-Książka po raz pierwszy w historii przedstawiała systematyczną teorię nieświadomego umysłu i jego wpływu na świadomość, fundamentalnie zmieniając sposób, w jaki ludzkość rozumie samą siebie.
+### **FACT**: Revolution in understanding the unconscious
+The book presented for the first time in history a systematic theory of the unconscious mind and its influence on consciousness, fundamentally changing the way humanity understands itself.
 
-### **PLOTKA**: Kontrowersje wokół interpretacji seksualnych
-Krytycy zarzucali Freudowi, że jego teoria snów wymaga interpretacji seksualnej wszystkich snów. Freud odpierał tę krytykę, zauważając: "twierdzenie, że wszystkie sny wymagają interpretacji seksualnej... nie występuje nigdzie w moim 'Objaśnianiu marzeń sennych'... nie można go znaleźć w żadnej z licznych edycji tej książki i jest w oczywistej sprzeczności z innymi poglądami w niej wyrażonymi."
+### **RUMOR**: Controversies around sexual interpretations
+Critics accused Freud that his dream theory required sexual interpretation of all dreams. Freud refuted this criticism, noting: "the assertion that all dreams require a sexual interpretation... is not to be found anywhere in my 'Interpretation of Dreams'... it cannot be found in any of the numerous editions of this book and is in obvious contradiction to other views expressed in it."
 
 ---
 
-**ŹRÓDŁA BADAŃ**: Web search przeprowadzonych w dniu 2025-09-03, obejmujące archiwalne dokumenty, korespondencję, pierwsze wydania i współczesne analizy historyczne procesu twórczego Freuda.
+**RESEARCH SOURCES**: Web searches conducted on September 3, 2025, including archival documents, correspondence, first editions, and contemporary historical analyses of Freud's creative process.

@@ -1,161 +1,161 @@
-# Dark Drama Research: "Bogactwo narodów" 💰
+# Dark Drama Research: "The Wealth of Nations" 💰
 
-## Mroczne Interpretacje i Kontrowersyjne Fakty o Adam Smith i "The Wealth of Nations"
+## Dark Interpretations and Controversial Facts about Adam Smith and "The Wealth of Nations"
 
-### Główne Zarzuty i Teorie Spiskowe
+### Main Accusations and Conspiracy Theories
 
-#### 1. Skandal Banku Ayr i Kryzys Finansowy 1772
+#### 1. The Ayr Bank Scandal and Financial Crisis of 1772
 
-**FAKT**: Adam Smith był bezpośrednio zaangażowany w jeden z największych skandali finansowych XVIII wieku
-- Bank Ayr (Douglas, Heron & Co.) upadł 24 czerwca 1772 roku, powodując pierwszą nowoczesną katastrofę bankową w Wielkiej Brytanii
-- **FAKT**: Wśród 139 udziałowców banku byli: Książę Buccleuch, Earl of Dumfries, Sir Adam Fergusson - wszyscy bliscy znajomi Smitha
-- **ZARZUT**: Smith doradził kilku głównym inwestorom w tym katastrofalnym przedsięwzięciu bankowym
-- **FAKT**: Upadek banku opóźnił publikację "Bogactwa narodów" o kilka lat - Smith musiał przepisać swoje teorie po tym doświadczeniu
+**FACT**: Adam Smith was directly involved in one of the greatest financial scandals of the 18th century
+- The Ayr Bank (Douglas, Heron & Co.) collapsed on June 24, 1772, causing the first modern banking catastrophe in Great Britain
+- **FACT**: Among the 139 shareholders of the bank were: Duke of Buccleuch, Earl of Dumfries, Sir Adam Ferguson - all close friends of Smith
+- **ACCUSATION**: Smith advised several major investors in this catastrophic banking enterprise
+- **FACT**: The bank's collapse delayed the publication of "The Wealth of Nations" by several years - Smith had to rewrite his theories after this experience
 
-#### 2. Plagiat i Kradzież Intelektualna
+#### 2. Plagiarism and Intellectual Theft
 
-**ZARZUT**: Adam Smith był "niepoprrawnym plagiatorem" który okradał swoich mentorów i przyjaciół z pomysłów
-- **FAKT**: Smith nie przyznał się do długu intelektualnego wobec swojego ukochanego mentora Francisa Hutchesona, od którego "pochodziła większość jego idei"
-- **ZARZUT**: Współczesny uczony: "nie stworzył nic, co byłoby prawdziwe, a wszystko co stworzył było błędne"
-- **FAKT**: Smith miał "kompleks Kolumba" - niesprawiedliwie oskarżał bliskich przyjaciół o plagiatowanie jego pracy
-- **ZARZUT**: Gdy Smith zarzucił Adamowi Fergusonowi plagiat w przykładzie fabryki szpilek, Ferguson odpowiedział, że obaj wzięli to z francuskiej Encyklopedii "gdzie Smith był przed nim"
+**ACCUSATION**: Adam Smith was an "incorrigible plagiarist" who stole ideas from his mentors and friends
+- **FACT**: Smith did not acknowledge his intellectual debt to his beloved mentor Francis Hutcheson, from whom "most of his ideas originated"
+- **ACCUSATION**: A contemporary scholar said: "he created nothing that was true, and everything he created was false"
+- **FACT**: Smith had a "Columbus complex" - unjustly accusing close friends of plagiarizing his work
+- **ACCUSATION**: When Smith accused Adam Ferguson of plagiarism in the pin factory example, Ferguson replied that both took it from the French Encyclopedia "where Smith had been before him"
 
-#### 3. "Niewidzialna Ręka" jako Symbol Okultyzmny
+#### 3. "Invisible Hand" as Occult Symbol
 
-**PLOTKA**: Koncepcja "niewidzialnej ręki" ma związki z masonerią, Illuminati i okultizmem
-- **ZARZUT**: Współczesne teorie spiskowe łączą "niewidzialną rękę" z "dyskretną mocą symboliki Illuminati"
-- **FAKT**: W swoim eseju o astronomii Smith użył frazy o "niewidzialnej ręce Jupitera" w kontekście bóstw i mocy przypisywanych im w "mniej cywilizowanych" społeczeństwach
-- **PLOTKA**: Tajne społeczeństwa używają tego symbolu "do kontroli umysłów, dążąc do przekraczania ustalonych praw i rządów"
-- **FAKT**: Uczeni ekonomii podkreślają, że te interpretacje to nowoczesne teorie spiskowe bez podstaw w pisach Smitha
+**RUMOR**: The concept of the "invisible hand" has connections to Freemasonry, Illuminati and occultism
+- **ACCUSATION**: Contemporary conspiracy theories link the "invisible hand" with "discrete power of Illuminati symbolism"
+- **FACT**: In his essay on astronomy, Smith used the phrase about "invisible hand of Jupiter" in the context of deities and powers attributed to them in "less civilized" societies
+- **RUMOR**: Secret societies use this symbol "to control minds, seeking to transcend established laws and governments"
+- **FACT**: Economics scholars emphasize that these interpretations are modern conspiracy theories without basis in Smith's writings
 
-#### 4. Religijny Skandal i Ukryte Ateizm
+#### 4. Religious Scandal and Hidden Atheism
 
-**FAKT**: Smith ukrywał swój sceptycyzm religijny przez całe życie ze względu na swoją bardzo religijną matkę Margaret Douglas
-- **ZARZUT**: Smith "unikał skandali, które zdenerwowałyby jego bardzo religijną matkę, dla której czuł specjalną więź opiekuńczą"
-- **FAKT**: 1777 roku list Smitha do Williama Strahana, w którym opisywał odwagę Hume'a w obliczu śmierci pomimo jego niewiary, wywołał znaczne kontrowersje
-- **ZARZUT**: Smith napisał: ten "jedyny, bardzo niewinny arkusik papieru... sprowadził na mnie 10 razy więcej nadużyć niż bardzo gwałtowny atak na cały system handlowy Wielkiej Brytanii"
-- **FAKT**: Po śmierci matki w 1784 roku Smith konsekwentnie zmieniał swoje dzieła, modyfikując ich treść religijną aż do swojej śmierci w 1790
+**FACT**: Smith concealed his religious skepticism throughout his life due to his very religious mother Margaret Douglas
+- **ACCUSATION**: Smith "avoided scandals that would upset his very religious mother, for whom he felt a special protective bond"
+- **FACT**: In 1777, Smith's letter to William Strahan, describing Hume's courage in the face of death despite his disbelief, caused significant controversy
+- **ACCUSATION**: Smith wrote: this "single, very innocent sheet of paper... brought upon me 10 times more abuse than a very violent attack on the entire commercial system of Great Britain"
+- **FACT**: After his mother's death in 1784, Smith consistently changed his works, modifying their religious content until his death in 1790
 
-#### 5. Załamanie Nerwowe w Oxfordzie
+#### 5. Nervous Breakdown at Oxford
 
-**FAKT**: W wieku około 20 lat Smith doznał załamania nerwowego podczas studiów w Balliol College, Oxford
-- Smith zaczął cierpieć na drżące ataki, prawdopodobnie objawy załamania nerwowego
-- **FAKT**: Opuścił Oxford w 1746 roku przed zakończeniem stypendium z powodu choroby nerwowej
-- **ZARZUT**: Oxford było "pustynią edukacyjną" w porównaniu ze stymulującą atmosferą Glasgow
-- **FAKT**: Został opisany jako "dziwnie wyglądający mężczyzna z dużym nosem, wybałuszonymi oczami, wystającą dolną wargą, nerwowym tikiemem i wadą mowy"
+**FACT**: At about age 20, Smith suffered a nervous breakdown while studying at Balliol College, Oxford
+- Smith began suffering from trembling attacks, probably symptoms of a nervous breakdown
+- **FACT**: He left Oxford in 1746 before completing his scholarship due to nervous illness
+- **ACCUSATION**: Oxford was an "educational desert" compared to the stimulating atmosphere of Glasgow
+- **FACT**: He was described as "a strangely looking man with a large nose, bulging eyes, protruding lower lip, nervous tic and speech impediment"
 
-#### 6. Teorie Spiskowe o Handlowcach
+#### 6. Conspiracy Theories about Merchants
 
-**FAKT**: Smith wierzył w rzeczywistą "zmowę handlowców" która zagrażała pokojowi i stabilności Europy
-- Słynny cytat: "Ludzie tego samego zawodu rzadko spotykają się razem, nawet dla wesołości i rozrywki, ale rozmowa kończy się zmową przeciw społeczeństwu"
-- **FAKT**: Smith twierdził, że handlowcy "spędzili stulecia zabezpieczając swoją pozycję niesprawiedliwej przewagi"
-- **ZARZUT**: Handlowcy wymyślili doktrynę "bilansu handlowego", twierdząc, że bogactwo każdego narodu polega na posiadaniu złota
-- **FAKT**: Smith argumentował, że "pokój i stabilność kontynentu europejskiego były zagrożone przez zmowy handlowców, którzy podburzali polityków do prowadzenia wojen w celu ochrony rynków krajowych"
+**FACT**: Smith believed in an actual "merchants' conspiracy" that threatened the peace and stability of Europe
+- Famous quote: "People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public"
+- **FACT**: Smith claimed that merchants "spent centuries securing their position of unfair advantage"
+- **ACCUSATION**: Merchants invented the doctrine of "balance of trade," claiming that each nation's wealth consisted in possessing gold
+- **FACT**: Smith argued that "the peace and stability of the European continent were threatened by merchants' conspiracies, who incited politicians to wage wars to protect domestic markets"
 
-#### 7. Nieprawdziwe Przepowiednie i Błędne Przewidywania
+#### 7. False Prophecies and Wrong Predictions
 
-**FAKT**: Smith popełnił fundamentalne błędy w przewidywaniu przyszłości ekonomii
-- **ZARZUT**: Jego "hierarchia zatrudnienia kapitału" była całkowicie błędna - argumentował, że kapitał w rolnictwie był bardziej produktywny niż w produkcji
-- **FAKT**: Smith widział podział pracy jako "jednorazowy, a nie ciągły proces" zamiast mechanizmu ciągłej zmiany
-- **ZARZUT**: Wierzył, że "na bardzo długą metę dynamika wzrostu społeczeństwa zatrzyma się" - wspomniał "dwieście lat jako najdłuższy okres, w którym społeczeństwo może mieć nadzieję na rozkwit"
-- **FAKT**: Nie przewwidział potencjału rewolucji przemysłowej dla trwałego wzrostu gospodarczego
+**FACT**: Smith made fundamental errors in predicting the future of economics
+- **ACCUSATION**: His "hierarchy of capital employment" was completely wrong - he argued that capital in agriculture was more productive than in manufacturing
+- **FACT**: Smith saw the division of labor as "a one-time, not continuous process" instead of a mechanism of continuous change
+- **ACCUSATION**: He believed that "in the very long run, society's growth dynamics would stop" - he mentioned "two hundred years as the longest period a society could hope to flourish"
+- **FACT**: He did not foresee the potential of the industrial revolution for sustained economic growth
 
-#### 8. Konflikt z Następcami - Ricardo i Malthus
+#### 8. Conflict with Successors - Ricardo and Malthus
 
-**FAKT**: David Ricardo i Thomas Malthus, chociaż uważali się za naśladowców Smitha, gwałtownie różnili się od jego optymistycznej wizji
-- **ZARZUT**: Ricardo został teoretykiem, którego modelowanie było ważne dla tradycji klasycznej ekonomii politycznej, podczas gdy Smith koncentrował się na szczegółach instytucjonalnych
-- **FAKT**: Malthus bronił właścicieli ziemskich i atakował poglądy Ricardo, zamiast postrzegać ich jako złoczyńców jak Smith
-- **PLOTKA**: Między Ricardo a Malthusem panowała "przyjacielska rywalizacja z gwałtownymi nieporozumieniami" - "gdy jeden publikował książkę rozwijającą określoną tezę ekonomiczną, drugi ją atakował"
+**FACT**: David Ricardo and Thomas Malthus, though considering themselves Smith's followers, sharply differed from his optimistic vision
+- **ACCUSATION**: Ricardo became a theorist whose modeling was important to the classical political economy tradition, while Smith focused on institutional details
+- **FACT**: Malthus defended landowners and attacked Ricardo's views, instead of viewing them as villains like Smith
+- **RUMOR**: Between Ricardo and Malthus there was "friendly rivalry with violent disagreements" - "when one published a book developing a particular economic thesis, the other attacked it"
 
-#### 9. Cenzura i Rządowa Ingerencja
+#### 9. Censorship and Government Interference
 
-**ZARZUT**: "Bogactwo narodów" zawierało kontrowersyjne fragmenty o religii i polityce, które wywołały debaty
-- **FAKT**: Smith napisał: "ustanowione duchowieństwo... nie ma innego wyjścia jak wzywać władze świeckie do prześladowania, niszczenia lub wypędzania przeciwników jako zakłócaczy pokoju publicznego"
-- **ZARZUT**: Konkretnie wymienił: "duchowieństwo katolickie wzywało władze świeckie do prześladowania protestantów; a Kościół Anglii do prześladowania dysydentów"
-- **FAKT**: Richard Cobden studiował "Bogactwo narodów" jako młody człowiek i "przemierzył długość i szerokość tego kraju z Adamem Smithem w ręce, aby popierać zasady wolnego handlu"
+**ACCUSATION**: "The Wealth of Nations" contained controversial passages about religion and politics that sparked debates
+- **FACT**: Smith wrote: "the established clergy... have no other resource but to call upon the civil magistrate to persecute, destroy, or drive out opponents as disturbers of the public peace"
+- **ACCUSATION**: He specifically mentioned: "Catholic clergy called upon civil authorities to persecute Protestants; and the Church of England to persecute dissenters"
+- **FACT**: Richard Cobden studied "The Wealth of Nations" as a young man and "traveled the length and breadth of this country with Adam Smith in hand, to advocate the principles of free trade"
 
-#### 10. Współczesne Reinterpretacje jako Teoria Spiskowa
+#### 10. Contemporary Reinterpretations as Conspiracy Theory
 
-**ZARZUT**: Nowoczesne interpretacje przekształciły Smitha w "fundamentalistę wolnego rynku", co jest przeciwne jego oryginalnym intencjom
-- **FAKT**: "Niewidzialna ręka" jest teraz "zwykle przywoływana jako obrona nieregulowanych rynków", ale to "mniej więcej przeciwieństwo oryginalnej intencji Smitha"
-- **ZARZUT**: Smith pierwotnie "nie zwracał uwagi na problem interwencji państwa, ale na zawłaszczenie państwa" przez elity kupieckie
-- **FAKT**: "Największe niebezpieczeństwa pochodziły nie od państwa działającego samotnie, ale od państwa przechwyconego przez elity kupieckie"
+**ACCUSATION**: Modern interpretations transformed Smith into a "free market fundamentalist," which is contrary to his original intentions
+- **FACT**: The "invisible hand" is now "usually invoked as a defense of unregulated markets," but this is "more or less the opposite of Smith's original intention"
+- **ACCUSATION**: Smith originally "paid no attention to the problem of state intervention, but to state capture" by merchant elites
+- **FACT**: "The greatest dangers came not from the state acting alone, but from the state captured by merchant elites"
 
-#### 11. Problemy Zdrowia Psychicznego i Depresja
+#### 11. Mental Health Problems and Depression
 
-**FAKT**: Smith wykazywał oznaki problemów psychicznych przez całe życie
-- **ZARZUT**: Został opisany jako "emocjonalnie zatrzymany, stłumiony, obsesyjny, jąkający się społeczny odrzutek"
-- **FAKT**: Nigdy się nie ożenił i był znany z dziwnego zachowania i nerwowych tików
-- **ZARZUT**: Jego objawy mogły być związane z tym, co dziś nazywamy zaburzeniami lękowymi lub depresją
-- **FAKT**: Współczesne badania sugerują, że jego problemy psychiczne mogły wpłynąć na jego ostrożne podejście do kontrowersyjnych tematów
+**FACT**: Smith showed signs of mental problems throughout his life
+- **ACCUSATION**: He was described as "emotionally arrested, repressed, obsessive, stuttering social reject"
+- **FACT**: He never married and was known for strange behavior and nervous tics
+- **ACCUSATION**: His symptoms could have been related to what we now call anxiety disorders or depression
+- **FACT**: Contemporary research suggests that his mental problems may have influenced his cautious approach to controversial topics
 
-#### 12. Skandal Wydawniczy i Manipulacja
+#### 12. Publishing Scandal and Manipulation
 
-**ZARZUT**: Wydawcy Smitha mogli celowo promować jego tajemniczy wizerunek, aby zwiększyć sprzedaż książek
-- **FAKT**: Marketing książek o Alice często podkreślał ich "ciekawą" i "wspaniałą" naturę
-- **PLOTKA**: Niektórzy sugerują, że wydawca zachęcał do spekulacyjnych biografii, które stworzyły "mit Smitha"
-- **ZARZUT**: Współczesne media nadal promują kontrowersyjne teorie pomimo naukowego obalenia
+**ACCUSATION**: Smith's publishers may have deliberately promoted his mysterious image to increase book sales
+- **FACT**: Book marketing often emphasized their "curious" and "wonderful" nature
+- **RUMOR**: Some suggest the publisher encouraged speculative biographies that created the "Smith myth"
+- **ACCUSATION**: Contemporary media still promote controversial theories despite scientific refutation
 
-#### 13. Ukryte Teologiczne Interpretacje
+#### 13. Hidden Theological Interpretations
 
-**FAKT**: Uczeni odkryli "ukrytego Adam Smitha w jego rzekomeej teologii"
-- **ZARZUT**: Niektórzy badacze sugerują "ekonomię jako teologię: Bogactwo narodów Adam Smitha"
-- **FAKT**: Analizują "niewidzialną rękę Boga u Adam Smitha"
-- **PLOTKA**: Teorie o ukrytych znaczeniach religijnych w jego ekonomicznych pismach
+**FACT**: Scholars have discovered "the hidden Adam Smith in his alleged theology"
+- **ACCUSATION**: Some researchers suggest "economics as theology: Adam Smith's Wealth of Nations"
+- **FACT**: They analyze "the invisible hand of God in Adam Smith"
+- **RUMOR**: Theories about hidden religious meanings in his economic writings
 
-#### 14. Neo-Plagiat i Współczesne Oskarżenia
+#### 14. Neo-Plagiarism and Contemporary Accusations
 
-**FAKT**: Współczesni uczeni używają terminu "neo-plagiat" do opisania metod Smitha
-- **ZARZUT**: "Neo-plagiat" odnosi się do sytuacji, gdy uczony "albo pożycza pomysły od innych, ale nie dostarcza żadnego potwierdzenia, albo miał dostęp do owocnych i ważnych pomysłów, ale wydaje się, że je zignorował"
-- **FAKT**: Współczesne prace były "skrupulatne w uznawaniu swoich długów intelektualnych", w przeciwieństwie do podejścia Smitha
-- **ZARZUT**: Jeden uczony zauważył, że "większość tego, co Smith miał do powiedzenia, zostało już powiedziane wcześniej - ale po francusku"
+**FACT**: Contemporary scholars use the term "neo-plagiarism" to describe Smith's methods
+- **ACCUSATION**: "Neo-plagiarism" refers to situations when a scholar "either borrows ideas from others but provides no acknowledgment, or had access to fruitful and important ideas but seems to have ignored them"
+- **FACT**: Contemporary works were "scrupulous in acknowledging their intellectual debts," unlike Smith's approach
+- **ACCUSATION**: One scholar noted that "most of what Smith had to say had been said before - but in French"
 
-#### 15. Przepowiednie Technologiczne - Co Przewidział
+#### 15. Technological Prophecies - What He Predicted
 
-**FAKT**: Smith skutecznie przewidział kilka rozwojów gospodarczych:
-- "Porzucenie monety z metali szlachetnych na rzecz pieniądza papierowego"
-- Polityki luzowania ilościowego
-- Niebezpieczeństwa waluty fiducjarnej "nieprzywiązanej do żadnej miary wartości"
+**FACT**: Smith successfully predicted several economic developments:
+- "Abandonment of precious metal coins in favor of paper money"
+- Quantitative easing policies
+- Dangers of fiat currency "not tied to any measure of value"
 
-**ZARZUT**: Ale nie przewidział:
-- Potencjału rewolucji przemysłowej dla trwałego wzrostu
-- Roli innowacji technologicznych w długoterminowym rozwoju gospodarczym
-- Znaczenia zmian klimatycznych jako niepowodzenia rynku
+**ACCUSATION**: But he did not predict:
+- The potential of the industrial revolution for sustained growth
+- The role of technological innovation in long-term economic development
+- The significance of climate change as market failure
 
-#### Kontrowersyjne Cytaty i Wypowiedzi
+#### Controversial Quotes and Statements
 
-**FAKT**: Smith o handlowcach: "Ludzie tego samego zawodu rzadko spotykają się razem... ale rozmowa kończy się zmową przeciw społeczeństwu"
-**FAKT**: O duchowieństwie: "nie mają innego wyjścia jak wzywać władze świeckie do prześladowania, niszczenia lub wypędzania przeciwników"
-**FAKT**: O swojej obronie Hume'a: "sprowadził na mnie 10 razy więcej nadużyć niż bardzo gwałtowny atak na cały system handlowy Wielkiej Brytanii"
-**FAKT**: Jeden krytyk: "nie stworzył nic, co byłoby prawdziwe, a wszystko co stworzył było błędne"
+**FACT**: Smith on merchants: "People of the same trade seldom meet together... but the conversation ends in a conspiracy against the public"
+**FACT**: On clergy: "have no other resource but to call upon the civil magistrate to persecute, destroy, or drive out opponents"
+**FACT**: On his defense of Hume: "brought upon me 10 times more abuse than a very violent attack on the entire commercial system of Great Britain"
+**FACT**: One critic: "he created nothing that was true, and everything he created was false"
 
-#### 16. Bankowe Regulacje po Kryzysie
+#### 16. Banking Regulations After the Crisis
 
-**FAKT**: Po skandalu z Bankiem Ayr Smith zmienił swoje poglądy na bankowość i opowiadał się za kilkoma ograniczeniami prawnymi:
-- Minimalna wielkość banknotów powinna być ustalona na dość dużą sumę 5 funtów
-- Banki powinny inwestować tylko w "prawdziwe weksle": krótkoterminowe pożyczki wynikające z "prawdziwych" transakcji
-- Oprocentowanie, które banki mogą pobierać za pożyczki lub płacić od depozytów, powinno być ograniczone prawem
+**FACT**: After the Ayr Bank scandal, Smith changed his views on banking and advocated several legal restrictions:
+- Minimum size of banknotes should be set at a fairly large sum of 5 pounds
+- Banks should invest only in "real bills": short-term loans arising from "real" transactions
+- Interest rates that banks can charge for loans or pay on deposits should be limited by law
 
-#### 17. Współczesne Kontrowersje Klimatyczne
+#### 17. Contemporary Climate Controversies
 
-**FAKT**: Współczesni ekonomiści uznają zmiany klimatyczne za "niepowodzenie rynku"
-- **ZARZUT**: "Kapitalizm, jak jest obecnie praktykowany, zagroził istnieniu milionów gatunków planetarnych"
-- **FAKT**: Kryzys klimatyczny pokazał, że "nieokiełznane dążenie do własnego interesu nie służy dobru wspólnemu"
-- **ZARZUT**: Teoria "niewidzialnej ręki" nie uwzględnia zewnętrznych kosztów środowiskowych
+**FACT**: Contemporary economists recognize climate change as "market failure"
+- **ACCUSATION**: "Capitalism, as currently practiced, has threatened the existence of millions of planetary species"
+- **FACT**: The climate crisis has shown that "unbridled pursuit of self-interest does not serve the common good"
+- **ACCUSATION**: The "invisible hand" theory does not account for environmental externalities
 
-### Wnioski
+### Conclusions
 
-Większość "ciemnych" interpretacji "Bogactwa narodów" wynika z:
+Most "dark" interpretations of "The Wealth of Nations" arise from:
 
-1. **Rzeczywistych skandali finansowych** - udział Smitha w katastrofie Banku Ayr był faktem historycznym
-2. **Udokumentowanych przypadków plgiatu** - brak przyznania się do długów intelektualnych wobec mentorów
-3. **Ukrywanych przekonań religijnych** - długoletnie ukrywanie sceptycyzmu ze względu na matkę
-4. **Problemów zdrowia psychicznego** - załamanie nerwowe w Oxfordzie i dziwne zachowania
-5. **Błędnych przepowiedni ekonomicznych** - nietrafionych przewidywań dotyczących wzrostu gospodarczego
-6. **Współczesnych reinterpretacji** - przekształcenie jego idei w sposób przeciwny do oryginalnych intencji
+1. **Real financial scandals** - Smith's involvement in the Ayr Bank catastrophe was historical fact
+2. **Documented cases of plagiarism** - failure to acknowledge intellectual debts to mentors
+3. **Hidden religious beliefs** - long-term concealment of skepticism due to his mother
+4. **Mental health problems** - nervous breakdown at Oxford and strange behaviors
+5. **Wrong economic prophecies** - incorrect predictions about economic growth
+6. **Contemporary reinterpretations** - transformation of his ideas in ways contrary to original intentions
 
-**FAKT**: Smith był złożoną postacią, której życie obfitowało w rzeczywiste kontrowersje i skandale, ale wiele nowoczesnych teorii spiskowych (szczególnie dotyczących okultyzmu) to projekcje współczesnych lęków na historyczną postać. **Jednak dokumentowane problemy** - plagiat, ukrywanie przekonań, skandale finansowe i przepowiednie, które się nie sprawdziły - pozostają prawdziwymi plamami na jego reputacji.
+**FACT**: Smith was a complex figure whose life was full of real controversies and scandals, but many modern conspiracy theories (especially regarding occultism) are projections of contemporary fears onto a historical figure. **However, documented problems** - plagiarism, concealing beliefs, financial scandals and prophecies that didn't come true - remain true stains on his reputation.
 
 ---
 
-*Research conducted przez 37d Dark Drama Agent | Sources: Academic papers, historical banking records, 18th-century correspondence, economic history archives, conspiracy theory websites*
+*Research conducted by 37d Dark Drama Agent | Sources: Academic papers, historical banking records, 18th-century correspondence, economic history archives, conspiracy theory websites*

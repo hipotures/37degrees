@@ -1,167 +1,167 @@
-# The Cairo Trilogy - Historia Powstania i Fakty Biograficzne
+# The Cairo Trilogy - Creation History and Biographical Facts
 
-## Podstawowe Informacje o Dziele
+## Basic Information About the Work
 
-**FAKT**: Trylogia kairska składa się z trzech powieści: "Palace Walk" (Bayn al-Qasrayn, 1956), "Palace of Desire" (Qasr al-Shawq, 1957) i "Sugar Street" (Al-Sukkariyya, 1957).
+**FACT**: The Cairo Trilogy consists of three novels: "Palace Walk" (Bayn al-Qasrayn, 1956), "Palace of Desire" (Qasr al-Shawq, 1957) and "Sugar Street" (Al-Sukkariyya, 1957).
 
-**FAKT**: Tytuły arabskie pochodzą od nazw rzeczywistych ulic w Kairze, gdzie Mahfouz spędził dzieciństwo i młodość.
+**FACT**: The Arabic titles come from the names of real streets in Cairo, where Mahfouz spent his childhood and youth.
 
-**FAKT**: Ukończona w 1952 roku, trylogia nie mogła znaleźć wydawcy aż do końca dekady - Mahfouz musiał czekać kilka lat na publikację swojego arcydzieła.
+**FACT**: Completed in 1952, the trilogy could not find a publisher until the end of the decade - Mahfouz had to wait several years for publication of his masterpiece.
 
-**FAKT**: Masywna, 1500-stronicowa trylogia została opublikowana w latach 1956-1957, podczas gdy Egipt przechodził przez rewolucyjne przemiany polityczne.
+**FACT**: The massive, 1500-page trilogy was published in 1956-1957, while Egypt was undergoing revolutionary political changes.
 
-## Biografia Autora i Kontekst Osobisty
+## Author Biography and Personal Context
 
-**FAKT**: Naguib Mahfouz urodził się w 1911 roku w starym kwartale Kairu (Gamaliya) i mieszkał tam do 12. roku życia, kiedy rodzice przenieśli się do nowszej dzielnicy.
+**FACT**: Naguib Mahfouz was born in 1911 in the old quarter of Cairo (Gamaliya) and lived there until age 12, when his parents moved to a newer district.
 
-**FAKT**: Pierwsze imię otrzymał na cześć znanego położnika, Naguiba Pashy Mahfouza, który nadzorował jego trudny poród.
+**FACT**: He received his first name in honor of the famous obstetrician, Naguib Pasha Mahfouz, who supervised his difficult birth.
 
-**FAKT**: Był siódmym i najmłodszym dzieckiem w rodzinie, z czworgiem braci i dwiema siostrami, wszyscy znacznie starsi od niego - dorastał praktycznie jak jedynak.
+**FACT**: He was the seventh and youngest child in the family, with four brothers and two sisters, all significantly older than him - he grew up practically as an only child.
 
-**FAKT**: Rodzina mieszkała w dwóch popularnych dzielnicach miasta: al-Jamaliya i al-Abbasiya, które stały się tłem większości jego utworów.
+**FACT**: The family lived in two popular districts of the city: al-Jamaliya and al-Abbasiya, which became the backdrop for most of his works.
 
-**FAKT**: Ojciec był urzędnikiem państwowym, a polityka i religia były ważnymi tematami rozmów w domu.
+**FACT**: His father was a civil servant, and politics and religion were important topics of conversation at home.
 
-## Proces Twórczy i Inspiracje
+## Creative Process and Inspirations
 
-**FAKT**: Mahfouz osadził akcję trylogii w częściach Kairu, gdzie dorastał - bezpośrednio czerpał z własnych doświadczeń dzieciństwa.
+**FACT**: Mahfouz set the trilogy's action in parts of Cairo where he grew up - he drew directly from his own childhood experiences.
 
-**FAKT**: Do postaci Kamala, najmłodszego syna Abd al-Jawada, Mahfouz przyznał, że nadał mu niektóre własne cechy - obaj ukończyli filozofię na obecnym Uniwersytecie Kairskim i mieli problemy z głębokimi sprzecznościami między zasadami religijnymi a zachodnimi odkryciami naukowymi.
+**FACT**: For the character of Kamal, the youngest son of Abd al-Jawad, Mahfouz admitted he gave him some of his own traits - both completed philosophy at what is now Cairo University and had problems with deep contradictions between religious principles and Western scientific discoveries.
 
-**FAKT**: Trylogia używa rewolucji egipskiej z 1919 roku jako tła historycznego, pokazując wrażliwość Mahfouza na wydarzenia polityczne.
+**FACT**: The trilogy uses the Egyptian revolution of 1919 as historical background, showing Mahfouz's sensitivity to political events.
 
-**FAKT**: Akcja obejmuje życie patriarchy Al-Sayyeda Ahmeda Abdela Gawada i jego rodziny przez trzy pokolenia, od I wojny światowej do 1944 roku.
+**FACT**: The action covers the life of patriarch Al-Sayyid Ahmed Abdel Gawad and his family through three generations, from World War I to 1944.
 
-## Przełomowe Uznanie i Nagrody
+## Breakthrough Recognition and Awards
 
-**FAKT**: W 1957 roku trylogia otrzymała państwową nagrodę egipską (ja'izat al-dawla lil-adab).
+**FACT**: In 1957, the trilogy received the Egyptian state prize (ja'izat al-dawla lil-adab).
 
-**FAKT**: Dzieło przyniosło Mahfouzowi wszechstronne pochwały od egipskich krytyków i zwróciło uwagę na jego wcześniejsze powieści.
+**FACT**: The work brought Mahfouz comprehensive praise from Egyptian critics and drew attention to his earlier novels.
 
-**FAKT**: W 1988 roku Mahfouz został pierwszym arabskim pisarzem uhonorowanym Nagrodą Nobla w dziedzinie literatury.
+**FACT**: In 1988, Mahfouz became the first Arab writer honored with the Nobel Prize in Literature.
 
-**FAKT**: Gdy Szwedzka Akademia ogłosiła go laureatem w 1988 roku, "zapadła cisza, a wielu zastanawiało się, kim jest". Chociaż był gwiazdą w świecie arabskim od dziesięcioleci, jego prace były mało czytane na Zachodzie.
+**FACT**: When the Swedish Academy announced him as laureate in 1988, "silence fell, and many wondered who he was." Although he had been a star in the Arab world for decades, his works were little read in the West.
 
-**FAKT**: Znany z tego, że rzadko opuszczał Kair, wysłał swoje dwie córki, aby odebrały nagrodę w jego imieniu.
+**FACT**: Known for rarely leaving Cairo, he sent his two daughters to accept the prize on his behalf.
 
-## Historia Publikacji i Przekładów
+## Publication History and Translations
 
-**FAKT**: Pierwsza publikacja w języku angielskim ukazała się nakładem American University in Cairo Press w latach 1989-1992.
+**FACT**: The first English publication appeared from American University in Cairo Press in 1989-1992.
 
-**FAKT**: Pierwsze amerykańskie wydanie opublikował Doubleday w latach 1990-1992.
+**FACT**: The first American edition was published by Doubleday in 1990-1992.
 
-**FAKT**: Edytorką w Doubleday była osobiście Jacqueline Kennedy Onassis, która od razu wykupiła prawa do kilku książek Mahfouza.
+**FACT**: The editor at Doubleday was personally Jacqueline Kennedy Onassis, who immediately bought the rights to several of Mahfouz's books.
 
-**FAKT**: Jackie Kennedy Onassis redagowała trzy tomy trylogii w Nowym Jorku ołówkiem na papierze.
+**FACT**: Jackie Kennedy Onassis edited the three volumes of the trilogy in New York with pencil on paper.
 
-**FAKT**: Tłumaczami byli: William M. Hutchins i Olive Kenny (Palace Walk), Hutchins, Olive Kenny i Lorne Kenny (Palace of Desire), Hutchins, Olive Kenny i Angele Botros Samaan (Sugar Street).
+**FACT**: The translators were: William M. Hutchins and Olive Kenny (Palace Walk), Hutchins, Olive Kenny and Lorne Kenny (Palace of Desire), Hutchins, Olive Kenny and Angele Botros Samaan (Sugar Street).
 
-**FAKT**: William Hutchins powiedział o pracy nad tłumaczeniem: "To nieuchronnie moja najważniejsza praca do tej pory. To nie była tylko duża robota, ale kawałek mojego serca."
+**FACT**: William Hutchins said about working on the translation: "It's inevitably my most important work to date. It wasn't just a big job, but a piece of my heart."
 
-**FAKT**: Trylogia została po raz pierwszy przetłumaczona na hebrajski w latach 1981-1987.
+**FACT**: The trilogy was first translated into Hebrew in 1981-1987.
 
-## Kariera Pisarska - Liczby i Statystyki
+## Writing Career - Numbers and Statistics
 
-**FAKT**: Mahfouz opublikował 35 powieści, ponad 350 opowiadań, 26 scenariuszy filmowych, setki felietonów dla egipskich gazet i siedem sztuk teatralnych w ciągu 70-letniej kariery (lata 30. XX wieku - 2004).
+**FACT**: Mahfouz published 35 novels, over 350 short stories, 26 film screenplays, hundreds of columns for Egyptian newspapers and seven plays during his 70-year career (1930s - 2004).
 
-**FAKT**: Pierwsza powieść została opublikowana w 1939 roku, a dziesięć kolejnych napisał przed rewolucją egipską z lipca 1952 roku.
+**FACT**: His first novel was published in 1939, and he wrote ten more before the Egyptian revolution of July 1952.
 
-**FAKT**: Po ukończeniu trylogii Mahfouz przestał pisać na kilka lat, rozczarowany reżimem Nasera, który obalił monarchię w 1952 roku.
+**FACT**: After completing the trilogy, Mahfouz stopped writing for several years, disappointed with Nasser's regime, which overthrew the monarchy in 1952.
 
-**FAKT**: Rozpoczął ponowne publikowanie w 1959 roku.
+**FACT**: He resumed publishing in 1959.
 
-**FAKT**: Pracował w egipskiej służbie cywilnej na różnych stanowiskach od 1934 roku do przejścia na emeryturę w 1971 roku.
+**FACT**: He worked in the Egyptian civil service in various positions from 1934 until retirement in 1971.
 
-**FAKT**: Pisał jedną godzinę dziennie przez całą swoją 70-letnią karierę, wypalał trzy papierosy dziennie i spacerował wzdłuż Nilu każdego ranka.
+**FACT**: He wrote one hour daily throughout his 70-year career, smoked three cigarettes a day, and walked along the Nile every morning.
 
-## Kontrowersje i Zagrożenia
+## Controversies and Threats
 
-**FAKT**: W 1959 roku Mahfouz opublikował powieść "Children of Gebelawi" (Dzieci Gebelaawi), która została zakazana w Egipcie z powodu domniemanej bluźnierczości.
+**FACT**: In 1959, Mahfouz published the novel "Children of Gebelawi" (Children of Gebelaawi), which was banned in Egypt for alleged blasphemy.
 
-**FAKT**: Powieść alegorycznie przedstawia Boga i trzy monoteistyczne religie abrahamowe: judaizm, chrześcijaństwo i islam.
+**FACT**: The novel allegorically depicts God and the three Abrahamic monotheistic religions: Judaism, Christianity, and Islam.
 
-**FAKT**: Przywódcy uniwersytetu islamskiego Al-Azhar wezwali do wygnania "heretyckiej" książki, a tłumy ludzi maszerowały na ulicach do budynku Al-Ahram, krzycząc protesty przeciwko bluźnierczej książce.
+**FACT**: Leaders of the Islamic university Al-Azhar called for the banishment of the "heretical" book, and crowds of people marched through the streets to the Al-Ahram building, shouting protests against the blasphemous book.
 
-**FAKT**: Powieść została po raz pierwszy wydrukowana w Libanie w 1967 roku i była zakazana w całym świecie arabskim z wyjątkiem Libanu aż do 2006 roku.
+**FACT**: The novel was first printed in Lebanon in 1967 and was banned throughout the Arab world except Lebanon until 2006.
 
-**FAKT**: 14 października 1994 roku, 82-letni Mahfouz został dźgnięty nożem w szyję przez islamskich ekstremistów przed swoim domem w Kairze.
+**FACT**: On October 14, 1994, 82-year-old Mahfouz was stabbed in the neck by Islamic extremists outside his home in Cairo.
 
-**FAKT**: Atak miał miejsce, gdy siedział w samochodzie przyjaciela w drodze na cotygodniowe spotkanie w kawiarni w centrum Kairu.
+**FACT**: The attack occurred when he was sitting in a friend's car on his way to a weekly meeting at a cafe in central Cairo.
 
-**FAKT**: Cudem przeżył zamach, ale doznał trwałego uszkodzenia nerwów w prawej kończynie górnej, przez co prawie całkowicie nie mógł pisać do końca życia.
+**FACT**: He miraculously survived the assassination attempt, but suffered permanent nerve damage to his right upper limb, making him almost completely unable to write for the rest of his life.
 
-**FAKT**: Szesnaście osób zostało postawionych przed sądem wojskowym, dwóch z nich otrzymało karę śmierci i zostało ostatecznie powieszonych.
+**FACT**: Sixteen people were tried by military court, two of them received death sentences and were ultimately hanged.
 
-**FAKT**: Mahfouz żył pod stałą ochroną ochroniarzy po zamachu.
+**FACT**: Mahfouz lived under constant protection by bodyguards after the assassination attempt.
 
-## Życie Społeczne i Rytuały
+## Social Life and Rituals
 
-**FAKT**: Mimo dużej nieśmiałości Mahfouz prowadził aktywne życie towarzyskie, spotykając się codziennie z przyjaciółmi w różnych kawiarniach i restauracjach w Kairze.
+**FACT**: Despite great shyness, Mahfouz led an active social life, meeting friends daily at various cafes and restaurants in Cairo.
 
-**FAKT**: Mahfouz spotykał się z przyjaciółmi w kawiarni Orabi co czwartek, gdzie był jowialny i zrelaksowany.
+**FACT**: Mahfouz met with friends at Orabi cafe every Thursday, where he was jovial and relaxed.
 
-**FAKT**: Powiedział: "Nie lubię, gdy tydzień mija bez pójścia do kina, do teatru, bez pracy i spotkania z przyjaciółmi."
+**FACT**: He said: "I don't like a week to pass without going to the cinema, to the theater, without work and meeting friends."
 
-## Adaptacje i Wpływ Kulturowy
+## Adaptations and Cultural Impact
 
-**FAKT**: Mahfouz jest jednym z najbardziej adaptowanych autorów arabskich - jego dzieła zostały przeniesione na ekran w egipskich i międzynarodowych filmach.
+**FACT**: Mahfouz is one of the most adapted Arab authors - his works have been transferred to screen in Egyptian and international films.
 
-**FAKT**: Żaden arabski pisarz nie miał więcej adaptacji kinowych i telewizyjnych swoich dzieł niż Mahfouz.
+**FACT**: No Arab writer has had more film and television adaptations of his works than Mahfouz.
 
-**FAKT**: Dokładnie 21 filmów zostało nakręconych na podstawie jego utworów.
+**FACT**: Exactly 21 films were made based on his works.
 
-**FAKT**: Napisał także kilkadziesiąt scenariuszy filmowych.
+**FACT**: He also wrote dozens of film screenplays.
 
-## Nagrody i Wyróżnienia
+## Awards and Honors
 
-**FAKT**: Jedyny Egipcjanin, który otrzymał Nagrodę Nobla w dziedzinie literatury.
+**FACT**: The only Egyptian to receive the Nobel Prize in Literature.
 
-**FAKT**: W 1972 roku otrzymał Nagrodę Narodową dla Literatury Egipskiej, a z nią najwyższe narodowe wyróżnienie: Naszyjnik Republiki.
+**FACT**: In 1972, he received the National Prize for Egyptian Literature, and with it the highest national honor: the Collar of the Republic.
 
-**FAKT**: Szwedzka Akademia opisała go jako pisarza "który poprzez dzieła bogate w niuanse - raz jasno realistyczne, raz sugestywnie niejednoznaczne - stworzył arabską sztukę narracyjną, która odnosi się do całej ludzkości."
+**FACT**: The Swedish Academy described him as a writer "who through works rich in nuance - now clearly realistic, now evocatively ambiguous - has formed an Arabian narrative art that applies to all mankind."
 
-## Ciekawostki i Anegdoty
+## Curiosities and Anecdotes
 
-**FAKT**: Jackie Kennedy Onassis uważała, że zarówno Mahfouz, jak i tłumacz znaleźli swój głos dopiero po około pierwszych pięćdziesięciu stronach.
+**FACT**: Jackie Kennedy Onassis believed that both Mahfouz and the translator found their voice only after about the first fifty pages.
 
-**FAKT**: Krytyk z Kirkus Reviews umieścił pisarstwo Mahfouza "w wielkiej tradycji powieści XIX-wiecznej od Balzaca do Buddenbrooks."
+**FACT**: A critic from Kirkus Reviews placed Mahfouz's writing "in the great tradition of the 19th-century novel from Balzac to Buddenbrooks."
 
-**FAKT**: Mahfouz wykazał niezwykłą wielkoduszość wobec jednego ze swoich napastników - poprosił władze o przeniesienie jednego z napastników, Ibrahima, do głównych budynków więzienia Torra i wysłał mu telegram z gratulacjami z okazji przeprowadzki.
+**FACT**: Mahfouz showed extraordinary magnanimity toward one of his attackers - he asked authorities to transfer one of the attackers, Ibrahim, to the main buildings of Torra prison and sent him a telegram of congratulations on the occasion of his transfer.
 
-**PLOTKA**: Po zamachu Mahfouz miał utrzymywać kontakt z jednym ze swoich napastników, chociaż szczegóły tej relacji pozostają niepotwierdzone.
+**RUMOR**: After the assassination attempt, Mahfouz allegedly maintained contact with one of his attackers, although details of this relationship remain unconfirmed.
 
-**FAKT**: Cztery miesiące po śmierci Mahfouza w 2006 roku, książka "Children of Gebelawi" została oficjalnie wydana w Egipcie i stała się bestsellerem.
+**FACT**: Four months after Mahfouz's death in 2006, the book "Children of Gebelawi" was officially published in Egypt and became a bestseller.
 
-**FAKT**: Po zamachu w 1994 roku Mahfouz mógł pisać maksymalnie pół godziny dziennie, co drastycznie zmniejszyło jego produkcję literacką.
+**FACT**: After the 1994 assassination attempt, Mahfouz could write for a maximum of half an hour daily, which drastically reduced his literary output.
 
-**FAKT**: W 1989 roku radykalny duchowny Omar Abdel-Rahman powiedział dziennikarzowi, że gdyby Mahfouz został ukarany za napisanie swojej powieści, Rushdie nie odważyłby się opublikować "Szatańskich wersetów."
+**FACT**: In 1989, radical cleric Omar Abdel-Rahman told a journalist that if Mahfouz had been punished for writing his novel, Rushdie would not have dared to publish "The Satanic Verses."
 
-**FAKT**: Publikacja "Children of Gebelawi" w formie książki została zakazana w Egipcie, ale mogła ukazać się w odcinkach w gazecie Al-Ahram dzięki interwencji prezydenta Gamala Abdela Nasera, który był przyjacielem redaktora Al-Ahram, Mohammeda Heikala.
+**FACT**: Publication of "Children of Gebelawi" in book form was banned in Egypt, but could appear in installments in Al-Ahram newspaper thanks to the intervention of President Gamal Abdel Nasser, who was a friend of Al-Ahram editor Mohammed Heikal.
 
-**FAKT**: Mahfouz został opisany jako "syn dwóch cywilizacji" - arabskiej i zachodniej - co odzwierciedla jego filozoficzne wykształcenie i głębokie zakorzenienie w kulturze arabskiej.
+**FACT**: Mahfouz was described as a "son of two civilizations" - Arab and Western - which reflects his philosophical education and deep rooting in Arab culture.
 
-**FAKT**: Trylogia kairska jest uważana za jedno z najważniejszych dzieł współczesnej literatury arabskiej, obok twórczości Taha Husseina, w eksploracji tematów egzystencjalnych.
+**FACT**: The Cairo Trilogy is considered one of the most important works of contemporary Arabic literature, alongside the works of Taha Hussein, in exploring existential themes.
 
-## Rekordy i Statystyki
+## Records and Statistics
 
-**FAKT**: 70 lat kariery pisarskiej (1930-2004) - jedna z najdłuższych w historii literatury światowej.
+**FACT**: 70 years of writing career (1930-2004) - one of the longest in world literature history.
 
-**FAKT**: Ponad 350 opowiadań - jedna z najbardziej płodnych kolekcji w literaturze arabskiej.
+**FACT**: Over 350 short stories - one of the most prolific collections in Arabic literature.
 
-**FAKT**: 35 powieści w ciągu siedmiu dekad.
+**FACT**: 35 novels over seven decades.
 
-**FAKT**: 26 scenariuszy filmowych, co czyni go również znaczącą postacią w egipskim przemyśle filmowym.
+**FACT**: 26 film screenplays, making him also a significant figure in the Egyptian film industry.
 
-**FAKT**: Pierwszy i jedyny arabski laureat Nagrody Nobla w dziedzinie literatury (1988).
+**FACT**: First and only Arab Nobel Prize laureate in Literature (1988).
 
-**FAKT**: Dzieła zostały przetłumaczone na dziesiątki języków światowych.
+**FACT**: His works have been translated into dozens of world languages.
 
-**FAKT**: Trylogia kairska liczy około 1500 stron w oryginalnej wersji arabskiej.
+**FACT**: The Cairo Trilogy numbers approximately 1500 pages in the original Arabic version.
 
-**FAKT**: Akcja trylogii rozciąga się na 27 lat (1917-1944), obejmując trzy pokolenia jednej rodziny.
+**FACT**: The trilogy's action spans 27 years (1917-1944), covering three generations of one family.
 
-**FAKT**: Mahfouz żył 95 lat (1911-2006), będąc świadkiem i kronikarzem ogromnych przemian w Egipcie i świecie arabskim.
+**FACT**: Mahfouz lived 95 years (1911-2006), witnessing and chronicling enormous changes in Egypt and the Arab world.
 
 ---
 
-*Ten dokument zawiera 54 potwierdzone fakty (**FAKT**) i 1 niepotwierdzoną informację (**PLOTKA**) dotyczące historii powstania Trylogii kairskiej Naguiba Mahfouza, procesu twórczego, biografii autora oraz kontekstu historycznego i kulturowego tego fundamentalnego dzieła literatury arabskiej.*
+*This document contains 54 confirmed facts (**FACT**) and 1 unconfirmed piece of information (**RUMOR**) regarding the creation history of The Cairo Trilogy by Naguib Mahfouz, the creative process, author's biography, and the historical and cultural context of this fundamental work of Arabic literature.*

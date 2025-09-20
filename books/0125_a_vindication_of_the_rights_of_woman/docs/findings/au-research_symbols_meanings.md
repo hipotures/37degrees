@@ -1,368 +1,368 @@
-# Symbolika i ukryte znaczenia w "Wołaniu o prawa kobiety" Mary Wollstonecraft
+# Symbolism and Hidden Meanings in Mary Wollstonecraft's "A Vindication of the Rights of Woman"
 
-## Wprowadzenie
+## Introduction
 
-"A Vindication of the Rights of Woman" (1792) to znacznie więcej niż traktat filozoficzny – to mistrzowsko skonstruowana sieć symboli, metafor i ukrytych znaczeń, które do dziś rezonują z czytelnikami na całym świecie. Mary Wollstonecraft stworzyła dzieło, które operuje na wielu poziomach interpretacji, łącząc oświeceniową racjonalność z poetycką siłą obrazowania. Niniejsza analiza odkrywa wielowarstwowe interpretacje tego przełomowego tekstu.
+"A Vindication of the Rights of Woman" (1792) is far more than a philosophical treatise – it is a masterfully constructed network of symbols, metaphors, and hidden meanings that continue to resonate with readers worldwide. Mary Wollstonecraft created a work that operates on multiple interpretive levels, combining Enlightenment rationality with poetic power of imagery. This analysis uncovers the multi-layered interpretations of this groundbreaking text.
 
-## Główne symbole i ich interpretacje
+## Main Symbols and Their Interpretations
 
-### 1. Metafora niewolnictwa jako rdzeń argumentacji
+### 1. The Slavery Metaphor as Core Argumentation
 
-**Symbol**: Niewolnictwo jako stan społeczny kobiet
-**Interpretacje klasyczne**:
-- Wollstonecraft konsekwentnie używa metafory niewolnictwa: kobiety to "wygodne niewolnice, ale niewolnictwo będzie miało stały wpływ, degradując zarówno pana jak i poddaną"
-- Połączenie rasistowskiego niewolnictwa z "genderowym zniewoleniem" - nowatorska dla XVIII wieku perspektywa
-- Przeniesienie "kobiecej kwestii" w obszar praw człowieka i obywatelskich
+**Symbol**: Slavery as women's social condition
+**Classical Interpretations**:
+- Wollstonecraft consistently uses slavery metaphors: women are "convenient slaves, but slavery will have a constant effect, degrading both master and subject"
+- Connection of racial slavery with "gender enslavement" - innovative perspective for the 18th century
+- Transfer of "women's question" into the realm of human and civil rights
 
-**Interpretacje współczesne**:
-- Feministyczne odczytanie postkolonialne: paralelizm między kolonialnym uciskiem a patriarchalną dominacją
-- Analiza intersekjonalna: wielowarstwowość opresji (klasa, rasa, płeć)
-- Krytyka kapitalistyczna: niewolnictwo ekonomiczne współczesnych kobiet
+**Contemporary Interpretations**:
+- Feminist postcolonial reading: parallelism between colonial oppression and patriarchal domination
+- Intersectional analysis: multi-layered oppression (class, race, gender)
+- Capitalist critique: economic slavery of contemporary women
 
-**Symbolika ukryta**: Łańcuchy jako fizyczna manifestacja psychicznego zniewolenia - kobiety "przytulają swoje łańcuchy" przez internalizację opresji.
+**Hidden Symbolism**: Chains as physical manifestation of psychological enslavement - women "embrace their chains" through internalization of oppression.
 
-### 2. Ogrodnicza metaforyka edukacji i rozwoju
+### 2. Horticultural Metaphors of Education and Development
 
-**Symbol**: Uprawa jako proces kształcenia
-**Obrazowanie botaniczne**:
-- "Sztuczna uprawa" vs "naturalny wzrost"
-- "Cieplarniany kwiat" jako symbol fałszywej delikatności
-- "Nasiona fałszywego wyrafinowania" siane przez system patriarchalny
+**Symbol**: Cultivation as educational process
+**Botanical Imagery**:
+- "Artificial cultivation" vs "natural growth"
+- "Hothouse flower" as symbol of false delicacy
+- "Seeds of false refinement" sown by patriarchal system
 
-**Głębokie interpretacje**:
-- Krytyka "hot-bed" (szklarnia) edukacji: intensywne, ale sztuczne środowisko rozwoju
-- Paradoks piękna: "siła i użyteczność zostają poświęcone piękności"
-- Metafora owoców: "zbierając kwiaty dnia, nie należy chwytać jednocześnie solidnych owoców trudu i mądrości"
+**Deep Interpretations**:
+- Critique of "hot-bed" education: intensive but artificial development environment
+- Beauty paradox: "strength and usefulness are sacrificed to beauty"
+- Fruit metaphor: "gathering flowers of the day, one should not simultaneously grasp solid fruits of labor and wisdom"
 
-**Współczesne odczytanie**: Ekofeminizm - Wollstonecraft łączy hierarchie społeczne z dominacją człowieka nad naturą, antycypując współczesne teorie ekologiczne.
+**Contemporary Reading**: Ecofeminism - Wollstonecraft connects social hierarchies with human domination over nature, anticipating contemporary ecological theories.
 
-### 3. Architektura więzienia jako metafora społeczna
+### 3. Prison Architecture as Social Metaphor
 
-**Symbol**: Struktury zamknięcia i ograniczenia
-**Interpretacje**:
-- Dom jako więzienie: przestrzeń domowa nie jako bezpieczna przystań, ale klatka
-- Edukacja jako więzienne mury: system ograniczający, a nie wyzwalający
-- Małżeństwo jako "jedyna droga awansu" - paradoks wolności przez podporządkowanie
+**Symbol**: Structures of confinement and limitation
+**Interpretations**:
+- Home as prison: domestic space not as safe haven but cage
+- Education as prison walls: limiting rather than liberating system
+- Marriage as "only path of advancement" - paradox of freedom through subordination
 
-**Psychoanalityczne odczytanie**: Internalizacja opresji - kobiety stają się strażniczkami własnych więzień, reprodukując patriarchalne struktury.
+**Psychoanalytic Reading**: Internalization of oppression - women become guardians of their own prisons, reproducing patriarchal structures.
 
-### 4. Zwierzęce imagery jako degradacja człowieczeństwa
+### 4. Animal Imagery as Degradation of Humanity
 
-**Symbol**: Animalizacja kobiet
-**Klasyczna interpretacja**: "Czyniąc z kobiet zwykłe zwierzęta" - redukcja do funkcji biologicznych
-**Współczesna analiza**: 
-- Dehumanizacja jako strategia kontroli
-- Paralela z rasistowskimi stereotypami (człowiek vs zwierzę)
-- Krytyka infantylizacji: kobiety traktowane jak dzieci lub domowe zwierzęta
+**Symbol**: Animalization of women
+**Classical Interpretation**: "Making women mere animals" - reduction to biological functions
+**Contemporary Analysis**:
+- Dehumanization as control strategy
+- Parallel with racist stereotypes (human vs animal)
+- Critique of infantilization: women treated like children or domestic animals
 
-### 5. Słownictwo oświeceniowe jako broń retoryczna
+### 5. Enlightenment Vocabulary as Rhetorical Weapon
 
-**Symbole-klucze**: "tyrania", "despotyzm", "rewolucja", "rozum", "natura", "cnota"
-**Strategia interpretacyjna**:
-- Apropriacja męskiego dyskursu filozoficznego do kobiecych celów
-- Rozum jako uniwersalny, nie genderowy atrybut
-- "Rewolucja kobiet" jako naturalne następstwo rewolucji politycznych
+**Key Symbols**: "tyranny," "despotism," "revolution," "reason," "nature," "virtue"
+**Interpretive Strategy**:
+- Appropriation of masculine philosophical discourse for feminine purposes
+- Reason as universal, not gendered attribute
+- "Women's revolution" as natural consequence of political revolutions
 
-**Ukryta agenda**: Wollstonecraft używa oświeceniowego języka, żeby uczynić swoje radykalne idee akceptowalnymi dla patriarchalnej publiczności.
+**Hidden Agenda**: Wollstonecraft uses Enlightenment language to make her radical ideas acceptable to patriarchal audiences.
 
-## Archetypy i motywy uniwersalne
+## Archetypes and Universal Motifs
 
-### 6. Archetyp Więźnia i Wyzwoliciela
+### 6. The Prisoner and Liberator Archetype
 
-**Jungowska analiza**: Kobiety jako uwięzione Anima, Wollstonecraft jako Wyzwolicielka
-**Mitologiczne paralele**: Prometeusz wykradający ogień (wiedzy) bogom (mężczyznom)
-**Współczesne echo**: Archetyp "consciousness-raising" w feminizmie lat 60/70
+**Jungian Analysis**: Women as imprisoned Anima, Wollstonecraft as Liberator
+**Mythological Parallels**: Prometheus stealing fire (knowledge) from gods (men)
+**Contemporary Echo**: "Consciousness-raising" archetype in 1960s/70s feminism
 
-### 7. Mit Edenu i Upadku
+### 7. The Eden and Fall Myth
 
-**Symbol**: Stan natury vs cywilizacja
-**Interpretacja**: Kobiety w "stanie upadłym" przez sztuczną edukację, nie przez grzech pierworodny
-**Odwrócenie narracji**: To patriarchat, nie kobiety, jest źródłem "upadku" społeczeństwa
+**Symbol**: State of nature vs civilization
+**Interpretation**: Women in "fallen state" through artificial education, not original sin
+**Narrative Reversal**: Patriarchy, not women, is the source of society's "fall"
 
-### 8. Motyw Metamorfozy
+### 8. The Metamorphosis Motif
 
-**Symbol**: Transformacja przez edukację
-**Alchemiczne interpretacje**: Rozum jako philosopher's stone przekształcający "ołów" ignorancji w "złoto" mądrości
-**Ewolucyjna perspektywa**: Edukacja jako evolution, nie revolution - naturalna progresja ludzkości
+**Symbol**: Transformation through education
+**Alchemical Interpretations**: Reason as philosopher's stone transforming "lead" of ignorance into "gold" of wisdom
+**Evolutionary Perspective**: Education as evolution, not revolution - natural progression of humanity
 
-## Interpretacje kulturowe - jak różne kultury czytają Wollstonecraft
+## Cultural Interpretations - How Different Cultures Read Wollstonecraft
 
-### Francuskie odczytanie (1792-1794)
+### French Reading (1792-1794)
 
-**Kontekst rewolucyjny**: Défense des droits des femmes w tłumaczeniu Félicité Brissot de Warville
-**Symbolika polityczna**: Wollstonecraft jako głos Żyrondystów, łagodniej radykalna niż Jacobini
-**Ukryta agenda**: Prawa kobiet jako część szerszej reformy społecznej, nie osobny ruch
+**Revolutionary Context**: "Défense des droits des femmes" in Félicité Brissot de Warville's translation
+**Political Symbolism**: Wollstonecraft as voice of Girondists, more moderately radical than Jacobins
+**Hidden Agenda**: Women's rights as part of broader social reform, not separate movement
 
-### Niemiecka recepcja (1793-1794)
+### German Reception (1793-1794)
 
-**Edukacyjna perspektywa**: Rettung der Rechte des Weibes przez Salzmann i Weissenborn
-**Pedagogiczna reinterpretacja**: Nacisk na praktyczne reformy szkolnictwa
-**Kulturowa adaptacja**: Łagodzenie radykalizmu dla bardziej konserwatywnej społeczności
+**Educational Perspective**: "Rettung der Rechte des Weibes" by Salzmann and Weissenborn
+**Pedagogical Reinterpretation**: Emphasis on practical educational reforms
+**Cultural Adaptation**: Moderating radicalism for more conservative community
 
-### Amerykańska interpretacja (XIX wiek)
+### American Interpretation (19th Century)
 
-**Symbolika pioniera**: Wollstonecraft jako prekursorka Margaret Fuller, Susan B. Anthony
-**"New Woman" motyw**: Model nowoczesnej kobiecości dla amerykańskiego kontekstu
-**Demokratyczne czytanie**: Prawa kobiet jako naturalne rozszerzenie ideałów demokratycznych
+**Pioneer Symbolism**: Wollstonecraft as precursor to Margaret Fuller, Susan B. Anthony
+**"New Woman" Motif**: Model of modern femininity for American context
+**Democratic Reading**: Women's rights as natural extension of democratic ideals
 
-### Hiszpańska recepcja (XXI wiek)
+### Spanish Reception (21st Century)
 
-**Postfrankistowska reinterpretacja**: Symbolika oporu wobec autorytarnych reżimów
-**Wielojęzyczne tłumaczenia**: Adaptacja na katalońskie, baskijskie konteksty kulturowe
-**Globalna ikona**: Wollstonecraft jako międzynarodowy symbol feminizmu
+**Post-Francoist Reinterpretation**: Symbolism of resistance against authoritarian regimes
+**Multilingual Translations**: Adaptation to Catalan, Basque cultural contexts
+**Global Icon**: Wollstonecraft as international symbol of feminism
 
-### Postkolonialne odczytania
+### Postcolonial Readings
 
-**Krytyka eurocentryczna**: Ograniczenia białej, klasowej perspektywy Wollstonecraft
-**Intersekjonalna analiza**: Potrzeba uwzględnienia rasy, klasy, kolonializmu
-**Trzecioświatowy feminizm**: Reinterpretacja przez pryzmat doświadczeń postkolonialnych kobiet
+**Eurocentric Critique**: Limitations of Wollstonecraft's white, class-based perspective
+**Intersectional Analysis**: Need to include race, class, colonialism
+**Third World Feminism**: Reinterpretation through lens of postcolonial women's experiences
 
-## Psychologia postaci i uniwersalne aspekty
+## Character Psychology and Universal Aspects
 
-### 9. Psychologia opresji i oporu
+### 9. Psychology of Oppression and Resistance
 
-**Adaptacyjne preferencje**: Dlaczego kobiety "przytulają swoje łańcuchy"
-**Cognitive dissonance**: Internalizacja patriarchalnych wartości jako mechanizm przetrwania
-**Learned helplessness**: Edukacyjny system tworzący bezradność jako strategię kontroli
+**Adaptive Preferences**: Why women "embrace their chains"
+**Cognitive Dissonance**: Internalization of patriarchal values as survival mechanism
+**Learned Helplessness**: Educational system creating helplessness as control strategy
 
-### 10. Trauma intergeneracyjna
+### 10. Intergenerational Trauma
 
-**Symbolika dziedziczenia**: Matki przekazujące córkom wzorce podporządkowania
-**Breaking the cycle**: Edukacja jako sposób na przerwanie traumy międzypokoleniowej
-**Healing through reason**: Rozum jako narzędzie terapeutyczne
+**Inheritance Symbolism**: Mothers passing patterns of subordination to daughters
+**Breaking the Cycle**: Education as way to interrupt intergenerational trauma
+**Healing Through Reason**: Reason as therapeutic tool
 
-### 11. Tożsamość a autentyczność
+### 11. Identity and Authenticity
 
-**False self vs true self**: Społeczna maska kobiecości vs autentyczne ja
-**Performance gender**: Kobiecość jako wyuczona rola, nie natura
-**Individuation process**: Rozwój prawdziwej tożsamości przez edukację
+**False Self vs True Self**: Social mask of femininity vs authentic self
+**Performance Gender**: Femininity as learned role, not nature
+**Individuation Process**: Development of true identity through education
 
-## Współczesne reinterpretacje
+## Contemporary Reinterpretations
 
-### Feministyczne perspektywy
+### Feminist Perspectives
 
-**Liberal feminizm**: Wollstonecraft jako prekursorka równości szans
-**Radical feminizm**: Krytyka patriarchalnych struktur władzy
-**Cultural feminizm**: Rehabilitacja "kobiecych" wartości przez rozum
+**Liberal Feminism**: Wollstonecraft as precursor of equal opportunity
+**Radical Feminism**: Critique of patriarchal power structures
+**Cultural Feminism**: Rehabilitation of "feminine" values through reason
 
-### Queer Theory interpretacje
+### Queer Theory Interpretations
 
-**Binary limitations**: Ograniczenia esencjalistycznego myślenia o płci
-**Gender performativity**: Antycypacja Butler w krytyce "naturalnej" kobiecości
-**Fluid identities**: Współczesna krytyka sztywnych kategorii genderowych
+**Binary Limitations**: Limitations of essentialist thinking about gender
+**Gender Performativity**: Anticipation of Butler in critique of "natural" femininity
+**Fluid Identities**: Contemporary critique of rigid gender categories
 
-### Postkolonialne odczytania
+### Postcolonial Readings
 
-**Eurocentric blind spots**: Ograniczenia białej, klasowej perspektywy
-**Global feminism**: Potrzeba uwzględnienia różnorodnych doświadczeń kobiet
-**Decolonizing feminism**: Reinterpretacja przez pryzmy lokalnych kultur
+**Eurocentric Blind Spots**: Limitations of white, class-based perspective
+**Global Feminism**: Need to include diverse women's experiences
+**Decolonizing Feminism**: Reinterpretation through local cultural lenses
 
-### LGBTQ+ perspektywy
+### LGBTQ+ Perspectives
 
-**Heteronormative assumptions**: Krytyka założenia heteroseksualnego małżeństwa jako normy
-**Queer potential**: Elementy dzieła otwarte na nieheteronormatywne interpretacje
-**Trans considerations**: Współczesne pytania o biologiczne vs społeczne rozumienie płci
+**Heteronormative Assumptions**: Critique of assumption of heterosexual marriage as norm
+**Queer Potential**: Elements of work open to non-heteronormative interpretations
+**Trans Considerations**: Contemporary questions about biological vs social understanding of gender
 
-## Ewolucja interpretacji na przestrzeni lat
+## Evolution of Interpretations Over the Years
 
-### XVIII wiek: Szok i akceptacja
+### 18th Century: Shock and Acceptance
 
-**Pierwotna recepcja**: Pozytywne recenzje vs późniejsza demonizacja
-**Political context**: Rewolucja francuska jako tło ideologiczne
-**Gender panic**: Reakcja na zagrożenie tradycyjnych ról
+**Original Reception**: Positive reviews vs later demonization
+**Political Context**: French Revolution as ideological background
+**Gender Panic**: Reaction to threat to traditional roles
 
-### XIX wiek: Ikona vs skandalistka
+### 19th Century: Icon vs Scandalmonger
 
-**Victorian reinterpretation**: Moralne potępienie osoby vs docenianie idei
-**Suffragette inspiration**: Reaktywacja jako symbol walki o prawa wyborcze
-**Domestic ideology**: Tension między ideałem "Angel in the House" a Wollstonecraft
+**Victorian Reinterpretation**: Moral condemnation of person vs appreciation of ideas
+**Suffragette Inspiration**: Reactivation as symbol of suffrage struggle
+**Domestic Ideology**: Tension between "Angel in the House" ideal and Wollstonecraft
 
-### Pierwsza połowa XX wieku: Akademicka rehabilitacja
+### First Half of 20th Century: Academic Rehabilitation
 
-**Scholarly rediscovery**: Badania nad historią feminizmu
-**Modernist interpretation**: Związki z Virginia Woolf, Simone de Beauvoir
-**Psychoanalytic readings**: Freudowskie i jungowskie interpretacje
+**Scholarly Rediscovery**: Research on feminist history
+**Modernist Interpretation**: Connections with Virginia Woolf, Simone de Beauvoir
+**Psychoanalytic Readings**: Freudian and Jungian interpretations
 
-### Druga fala feminizmu (1960-1980): Canonical status
+### Second Wave Feminism (1960-1980): Canonical Status
 
-**Women's liberation**: Wollstonecraft jako founding mother feminizmu
-**Academic feminism**: Włączenie do kanonu literatury kobiecej
-**Popular culture**: Biograficzne reprezentacje i adaptacje
+**Women's Liberation**: Wollstonecraft as founding mother of feminism
+**Academic Feminism**: Inclusion in women's literature canon
+**Popular Culture**: Biographical representations and adaptations
 
-### Trzecia fala i dalej (1990-obecnie): Intersekjonalna krytyka
+### Third Wave and Beyond (1990-Present): Intersectional Critique
 
-**Postcolonial critique**: Pytania o ekskluzywność białego feminizmu
-**Queer theory**: Destabilizacja binarnych kategorii płci
-**Global feminism**: Wielokulturowe i transnarodowe interpretacje
+**Postcolonial Critique**: Questions about exclusivity of white feminism
+**Queer Theory**: Destabilization of binary gender categories
+**Global Feminism**: Multicultural and transnational interpretations
 
-## Symbole które czytelnik może przeoczyć
+## Symbols Readers Might Overlook
 
-### 12. Symbolika światła i ciemności
+### 12. Light and Darkness Symbolism
 
-**Oświecenie dosłowne i metaforyczne**: "Rozum" jako światło rozpraszające ciemność ignorancji
-**Platońska jaskinia**: Kobiety jako więźniowie oglądający cienie na ścianie
-**Symbolika świec vs słońca**: Sztuczne vs naturalne źródła światła (edukacji)
+**Literal and Metaphorical Enlightenment**: "Reason" as light dispersing darkness of ignorance
+**Platonic Cave**: Women as prisoners watching shadows on wall
+**Candle vs Sun Symbolism**: Artificial vs natural sources of light (education)
 
-### 13. Metafory tekstylne
+### 13. Textile Metaphors
 
-**Tkanie i przędzenie**: Tradycyjne kobية zajęcia jako metafora ograniczonych możliwości
-**Cutting the thread**: Przecięcie nici jako symbol wyzwolenia
-**Weaving narratives**: Tworzenie nowych opowieści o kobiecości
+**Weaving and Spinning**: Traditional women's occupations as metaphor for limited possibilities
+**Cutting the Thread**: Severing thread as symbol of liberation
+**Weaving Narratives**: Creating new stories about femininity
 
-### 14. Symbolika architektoniczna
+### 14. Architectural Symbolism
 
-**Foundations**: Edukacja jako fundament społeczeństwa
-**Windows**: Możliwości poznania świata poza domowymi murami
-**Doors**: Bariery i możliwości przekraczania granic społecznych
+**Foundations**: Education as foundation of society
+**Windows**: Possibilities of knowing world beyond domestic walls
+**Doors**: Barriers and possibilities of crossing social boundaries
 
-### 15. Numerologiczne symbole
+### 15. Numerological Symbols
 
-**Two vs One**: Dualność płci vs jedność ludzkiej natury
-**Multiplication**: Edukacja kobiet jako mnożenie społecznych korzyści
-**Division**: Społeczne podziały jako sztuczne konstrukty
+**Two vs One**: Gender duality vs unity of human nature
+**Multiplication**: Women's education as multiplying social benefits
+**Division**: Social divisions as artificial constructs
 
-### 16. Alchemiczne metaphory
+### 16. Alchemical Metaphors
 
-**Base metals to gold**: Transformacja ignorancji w mądrość
-**Dissolving boundaries**: Rozpad sztucznych kategorii społecznych
-**Philosophical stone**: Rozum jako uniwersalny środek przemiany
+**Base Metals to Gold**: Transformation of ignorance into wisdom
+**Dissolving Boundaries**: Breakdown of artificial social categories
+**Philosophical Stone**: Reason as universal agent of transformation
 
-## Połączenia z innymi dziełami kultury
+## Connections with Other Cultural Works
 
-### Literackie poprzedzenie
+### Literary Precedents
 
-**Mary Astell**: "A Serious Proposal to the Ladies" (1694) - bezpośredni prekursor
-**Catherine Macaulay**: "Letters on Education" (1790) - bezpośrednia inspiracja
-**Jean-Jacques Rousseau**: "Emile" (1762) - główny cel krytyki
+**Mary Astell**: "A Serious Proposal to the Ladies" (1694) - direct precursor
+**Catherine Macaulay**: "Letters on Education" (1790) - direct inspiration
+**Jean-Jacques Rousseau**: "Emile" (1762) - main target of critique
 
-### Współczesne paralele
+### Contemporary Parallels
 
-**Olympe de Gouges**: "Declaration of the Rights of Woman" (1791) - französkie echo
-**Judith Sargent Murray**: "On the Equality of the Sexes" (1790) - amerykański głos
+**Olympe de Gouges**: "Declaration of the Rights of Woman" (1791) - French echo
+**Judith Sargent Murray**: "On the Equality of the Sexes" (1790) - American voice
 **Hannah More**: Conservative response - "Strictures on Female Education" (1799)
 
-### Literackie dziedzictwo
+### Literary Legacy
 
-**Jane Austen**: Subtilne echo w krytyce edukacji kobiet
-**Charlotte Brontë**: "Jane Eyre" jako literacka inkarnacja ideałów Wollstonecraft
-**Virginia Woolf**: "A Room of One's Own" jako XX-wieczne kontynuacja
+**Jane Austen**: Subtle echo in critique of women's education
+**Charlotte Brontë**: "Jane Eyre" as literary incarnation of Wollstonecraft's ideals
+**Virginia Woolf**: "A Room of One's Own" as 20th-century continuation
 
-### Filozoficzne connections
+### Philosophical Connections
 
-**John Stuart Mill**: "The Subjection of Women" (1869) - bezpośredni spadkobierca
-**Simone de Beauvoir**: "The Second Sex" (1949) - egzystencjalistyczna reinterpretacja
-**Betty Friedan**: "The Feminine Mystique" (1963) - popularna adaptacja
+**John Stuart Mill**: "The Subjection of Women" (1869) - direct heir
+**Simone de Beauvoir**: "The Second Sex" (1949) - existentialist reinterpretation
+**Betty Friedan**: "The Feminine Mystique" (1963) - popular adaptation
 
-### Współczesna kultura popularna
+### Contemporary Popular Culture
 
-**"The Handmaid's Tale"**: Dystopijne ostrzeżenie przed cofnięciem się do czasów Wollstonecraft
-**"Hidden Figures"**: Współczesne historie o kobietach walczących o uznanie intelektualne
-**Social media feminism**: #MeToo jako cyfrowe wcielenie wezwań Wollstonecraft
+**"The Handmaid's Tale"**: Dystopian warning against regression to Wollstonecraft's times
+**"Hidden Figures"**: Contemporary stories of women fighting for intellectual recognition
+**Social Media Feminism**: #MeToo as digital embodiment of Wollstonecraft's calls
 
-## Ukryte psychoanalityczne warstwy
+## Hidden Psychoanalytic Layers
 
-### 17. Oedipalne napięcia
+### 17. Oedipal Tensions
 
-**Father figures**: Autorytety męskie jako blocking forces
-**Maternal lineage**: Przerwanie传统 przekazywania patriarchalnych wartości
-**Generational conflict**: Młodsza generacja vs established order
+**Father Figures**: Male authorities as blocking forces
+**Maternal Lineage**: Breaking tradition of transmitting patriarchal values
+**Generational Conflict**: Younger generation vs established order
 
-### 18. Shadows i unconscious
+### 18. Shadows and Unconscious
 
-**Shadow projection**: Męskie społeczeństwo projektujące swoje słabości na kobiety
-**Collective unconscious**: Archetypy Anima/Animus w społecznych rolach
-**Integration**: Potrzeba psychicznej wholeness przez edukację
+**Shadow Projection**: Male society projecting its weaknesses onto women
+**Collective Unconscious**: Anima/Animus archetypes in social roles
+**Integration**: Need for psychic wholeness through education
 
-### 19. Libidinal economics
+### 19. Libidinal Economics
 
-**Sublimation**: Przekierowanie seksualnej energii w edukacyjną produkcję
-**Repression**: Społeczne tłumienie kobiecej agency
-**Jouissance**: Possibility radości przez intellectual fulfillment
+**Sublimation**: Redirecting sexual energy into educational production
+**Repression**: Social suppression of female agency
+**Jouissance**: Possibility of joy through intellectual fulfillment
 
-## Społeczno-polityczne alegorie
+## Socio-Political Allegories
 
-### 20. Feudalizm vs kapitalizm
+### 20. Feudalism vs Capitalism
 
-**Economic metaphors**: Przejście od feudalnej zależności do kapitalistycznej konkurencji
-**Marriage market**: Małżeństwo jako economic transaction
-**Human capital**: Edukacja jako investment w społeczną produkcję
+**Economic Metaphors**: Transition from feudal dependence to capitalist competition
+**Marriage Market**: Marriage as economic transaction
+**Human Capital**: Education as investment in social production
 
-### 21. Rewolucyjne symbole
+### 21. Revolutionary Symbols
 
-**Bastille of the mind**: Oswobodzenie umysłów jako parallel do politycznego wyzwolenia
-**Declaration of Independence**: Kobiecy manifest jako pendant do amerykańskiej deklaracji
-**Social contract**: Nowa umowa społeczna włączająca kobiety
+**Bastille of the Mind**: Liberation of minds as parallel to political liberation
+**Declaration of Independence**: Women's manifesto as pendant to American declaration
+**Social Contract**: New social contract including women
 
-### 22. Klasowe napięcia
+### 22. Class Tensions
 
-**Bourgeois limitations**: Ograniczenia middle-class perspective Wollstonecraft
-**Working-class invisibility**: Nieobecność proletariuszek w analizie
-**Aristocratic critique**: Atak na leisure class values
+**Bourgeois Limitations**: Limitations of Wollstonecraft's middle-class perspective
+**Working-Class Invisibility**: Absence of proletarian women in analysis
+**Aristocratic Critique**: Attack on leisure class values
 
-## Religijne i duchowe interpretacje
+## Religious and Spiritual Interpretations
 
-### 23. Teologia wyzwolenia
+### 23. Liberation Theology
 
-**Divine equality**: Bóg jako twórca równych dusz, bez względu na płeć
-**Prophetic tradition**: Wollstonecraft jako prorokini nowego porządku
-**Sacred feminisme**: Rehabilitation kobiecej duchowości
+**Divine Equality**: God as creator of equal souls, regardless of gender
+**Prophetic Tradition**: Wollstonecraft as prophetess of new order
+**Sacred Feminism**: Rehabilitation of female spirituality
 
-### 24. Gnostyckie elementy
+### 24. Gnostic Elements
 
-**Hidden knowledge**: Prawda o kobiecych możliwościach jako tajna wiedza
-**Demiurge society**: Patriarchalne społeczeństwo jako fałszywy stwórca
-**Pleroma**: Pełnia człowieczeństwa osiągalna przez obie płcie
+**Hidden Knowledge**: Truth about women's capabilities as secret knowledge
+**Demiurge Society**: Patriarchal society as false creator
+**Pleroma**: Fullness of humanity achievable by both sexes
 
-### 25. Buddhist parallels
+### 25. Buddhist Parallels
 
-**Suffering**: Kobiecy los jako illustration of pierwszej szlachetnej prawdy
-**Attachment**: Przywiązanie do patriarchalnych ról jako źródło cierpienia
-**Enlightenment**: Edukacja jako droga do illumination
+**Suffering**: Women's fate as illustration of first noble truth
+**Attachment**: Attachment to patriarchal roles as source of suffering
+**Enlightenment**: Education as path to illumination
 
-## Semiotyczne i strukturalistyczne odczytania
+## Semiotic and Structuralist Readings
 
-### 26. Binary oppositions
+### 26. Binary Oppositions
 
-**Nature/Culture**: Kobiety jako "natura" vs męska "kultura"
-**Emotion/Reason**: False dichotomy krytykowana przez Wollstonecraft
-**Private/Public**: Rozbicie granicy między sferą domową a publiczną
+**Nature/Culture**: Women as "nature" vs male "culture"
+**Emotion/Reason**: False dichotomy criticized by Wollstonecraft
+**Private/Public**: Breaking boundary between domestic and public sphere
 
-### 27. Language power
+### 27. Language Power
 
-**Discourse control**: Kto ma prawo mówić o edukacji i prawach?
-**Semantic fields**: "Virtue", "reason", "nature" jako contested terms
-**Performative utterances**: "I vindicate" jako speech act tworzący nową rzeczywistość
+**Discourse Control**: Who has right to speak about education and rights?
+**Semantic Fields**: "Virtue," "reason," "nature" as contested terms
+**Performative Utterances**: "I vindicate" as speech act creating new reality
 
-### 28. Narrative strategies
+### 28. Narrative Strategies
 
-**Authoritative voice**: Establishment of credibility in masculine discourse
-**Counter-narrative**: Alternative story to dominant cultural narratives
-**Implied reader**: Targeting both male gatekeepers and female subjects
+**Authoritative Voice**: Establishment of credibility in masculine discourse
+**Counter-Narrative**: Alternative story to dominant cultural narratives
+**Implied Reader**: Targeting both male gatekeepers and female subjects
 
-## Posthumanistyczne perspektywy
+## Posthumanist Perspectives
 
-### 29. Beyond anthropocentrism
+### 29. Beyond Anthropocentrism
 
-**Human-animal boundary**: Critique of reducing women to "mere animals"
-**Ecological thinking**: Cultivation metaphors as early environmental consciousness
-**More-than-human agency**: Education as collaboration between human and natural forces
+**Human-Animal Boundary**: Critique of reducing women to "mere animals"
+**Ecological Thinking**: Cultivation metaphors as early environmental consciousness
+**More-Than-Human Agency**: Education as collaboration between human and natural forces
 
-### 30. Technological implications
+### 30. Technological Implications
 
-**Prosthetic reason**: Education as extension of natural cognitive capabilities
-**Network thinking**: Society as system where women's education benefits all
-**Cybernetic loops**: Feedback between individual development and social progress
+**Prosthetic Reason**: Education as extension of natural cognitive capabilities
+**Network Thinking**: Society as system where women's education benefits all
+**Cybernetic Loops**: Feedback between individual development and social progress
 
-## Zamiast zakończenia: Żywe dziedzictwo
+## Instead of Conclusion: Living Legacy
 
-"Wołanie o prawa kobiety" pozostaje dziełem żywym, które z każdą generacją czytelników odkrywa nowe warstwy znaczeniowe. Symbolika Wollstonecraft nie tylko antycypowała późniejsze ruchy emancypacyjne, ale także zawiera elementy, które dopiero dziś w pełni doceniamy - od ekofeminizmu po postkolonialną krytykę, od queer theory po posthumanistyczną filozofię.
+"A Vindication of the Rights of Woman" remains a living work that reveals new layers of meaning with each generation of readers. Wollstonecraft's symbolism not only anticipated later emancipatory movements but also contains elements we only fully appreciate today - from ecofeminism to postcolonial critique, from queer theory to posthumanist philosophy.
 
-Największą siłą tej książki jest jej zdolność do mówienia różnymi głosami do różnych czasów. Dla XVIII-wiecznych czytelników była manifestem oświeceniowym, dla XIX-wiecznych suffrazystek - biblią ruchu, dla feministek drugiej fali - kanonicznym tekstem, dla współczesnych badaczy - złożonym dokumentem wymagającym intersekjonalnej analizy.
+The greatest strength of this book is its ability to speak in different voices to different times. For 18th-century readers it was an Enlightenment manifesto, for 19th-century suffragettes - a movement bible, for second-wave feminists - a canonical text, for contemporary scholars - a complex document requiring intersectional analysis.
 
-Symbole które Wollstonecraft zasadziła w kulturowej glebie - od metafory uprawy po obraz łańcuchów, od światła rozumu po architekturę więzienia - nadal kiełkują w nowych kontekstach, dowodząc, że prawdziwie wielkie dzieła literatury nie tylko opisują swoją epokę, ale kształtują wszystkie następne.
+The symbols that Wollstonecraft planted in cultural soil - from cultivation metaphors to images of chains, from light of reason to prison architecture - continue to sprout in new contexts, proving that truly great works of literature not only describe their era but shape all subsequent ones.
 
-W czasach gdy pytania o równość, edukację, tożsamość i sprawiedliwość nabierają nowych wymiarów, "Wołanie o prawa kobiety" pozostaje nie tyle historycznym dokumentem, ile żywą mapą emancypacyjnych możliwości - tekstem, który wciąż pokazuje drogi wyzwolenia tym, którzy potrafią czytać między wierszami jego symboli.
+In times when questions about equality, education, identity, and justice take on new dimensions, "A Vindication of the Rights of Woman" remains not so much a historical document as a living map of emancipatory possibilities - a text that still shows paths to liberation to those who can read between the lines of its symbols.
 
 ---
 
-*Opracowano na podstawie międzynarodowych badań, analiz akademickich i współczesnych interpretacji krytycznych, z uwzględnieniem wielokulturowej recepcji dzieła Mary Wollstonecraft na przestrzeni ponad dwóch stuleci.*
+*Based on international research, academic analyses, and contemporary critical interpretations, including multicultural reception of Mary Wollstonecraft's work over more than two centuries.*

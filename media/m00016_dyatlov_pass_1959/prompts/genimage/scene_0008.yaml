@@ -1,0 +1,97 @@
+sceneDescription:
+  setting:
+    time: May 4, 1959, afternoon
+    location: Natural ravine 75 meters from cedar tree into taiga forest, Northern Ural Mountains, 4-meter deep depression
+    weather: Spring thaw conditions, melting snow revealing ravine contents, mild temperatures
+  characters: No characters present in this scene
+  scene:
+    mainElements: Deep natural ravine partially filled with melting snow revealing evidence of final victims, 4-meter deep
+      depression with running water underneath, natural snow cave formation collapsed
+    details: Natural ravine with steep sides showing 4-meter depth, melting snow and ice revealing darker areas where bodies
+      were found, running water visible beneath remaining snow creating stream through ravine bottom, evidence of natural
+      snow cave formation that provided temporary shelter, scattered clothing items partially visible in melting snow, broken
+      evergreen branches used for insulation, signs that victims sought shelter in ravine's protection from wind, ice formations
+      from freeze-thaw cycles visible on ravine walls
+    background: Dense taiga forest surrounding ravine with evergreen trees, forest floor covered in mixture of snow and exposed
+      earth from spring melt, 75 meters distance from large cedar tree visible through forest, natural forest depression providing
+      deepest snow accumulation in area
+    atmosphere: Tragic final discovery site, spring revelation of winter's secrets, natural shelter that became final resting
+      place, melancholic contrast between winter death and spring renewal, sense of closure to mysterious tragedy
+  composition:
+    cameraAngle: High angle shot looking down into ravine showing depth and contents
+    focus: Deep forest ravine partially revealed by melting snow showing evidence
+    depth: Foreground shows ravine edge and forest floor, middle ground captures ravine depth and melting snow, background
+      reveals dense forest context and cedar tree location, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

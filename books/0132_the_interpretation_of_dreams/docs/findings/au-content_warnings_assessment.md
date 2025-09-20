@@ -1,158 +1,158 @@
-# Ocena Treści i Ostrzeżenia - "Objaśnianie marzeń sennych" Sigmunda Freuda
+# Content Warnings Assessment - "The Interpretation of Dreams" by Sigmund Freud
 
-**Agent**: Content Warnings & Platform Compliance  
-**Data oceny**: 3 września 2025  
-**Book ID**: 0132_the_interpretation_of_dreams  
-**Tytuł**: "The Interpretation of Dreams" / "Objaśnianie marzeń sennych" (1899)  
-**Autor**: Sigmund Freud
-
----
-
-## Streszczenie Wykonawcze
-
-**KLASYFIKACJA OGÓLNA**: 16+ (z ostrzeżeniami dla niektórych platform)
-
-**GŁÓWNE ZAGROŻENIA**:
-- Kontrowersyjne teorie o seksualności i rozwoju psychologicznym
-- Skandale osobiste autora (uzależnienie od kokainy, śmierć przyjaciela)
-- Przestarzałe stereotypy dotyczące kobiet i LGBTQ+
-- Pseudonaukowe zarzuty i manipulacje faktami
-
-**REKOMENDACJA**: Treść wymaga thoughtful framing i ostrzeżeń o historycznym kontekście, ale można bezpiecznie publikować na wszystkich platformach z odpowiednimi adaptacjami.
+**Agent**: Content Warnings & Platform Compliance
+**Assessment Date**: September 3, 2025
+**Book ID**: 0132_the_interpretation_of_dreams
+**Title**: "The Interpretation of Dreams" (1899)
+**Author**: Sigmund Freud
 
 ---
 
-## Matrix Zgodności Platform
+## Executive Summary
 
-### Problematyczne Tematy vs Platformy
+**OVERALL CLASSIFICATION**: 16+ (with warnings for some platforms)
 
-| Temat | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+**MAIN CONCERNS**:
+- Controversial theories about sexuality and psychological development
+- Author's personal scandals (cocaine addiction, friend's death)
+- Outdated stereotypes regarding women and LGBTQ+
+- Pseudoscientific allegations and fact manipulation
+
+**RECOMMENDATION**: Content requires thoughtful framing and warnings about historical context, but can be safely published on all platforms with appropriate adaptations.
+
+---
+
+## Platform Compliance Matrix
+
+### Problematic Topics vs Platforms
+
+| Topic | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
 |-------|----------|-----------|---------|---------|---------|------|
-| **Uzależnienie od kokainy** | 🟡 ŚREDNIE | 🟡 ŚREDNIE | 🟢 NISKIE | 🟢 NISKIE | 🟢 NISKIE | 🟢 NISKIE |
-| **Teorie seksualności** | 🔴 WYSOKIE | 🔴 WYSOKIE | 🟡 ŚREDNIE | 🟡 ŚREDNIE | 🟢 NISKIE | 🟢 NISKIE |
-| **Kompleks Edypa** | 🟡 ŚREDNIE | 🟡 ŚREDNIE | 🟡 ŚREDNIE | 🟡 ŚREDNIE | 🟢 NISKIE | 🟢 NISKIE |
-| **Stereotypy kobiet** | 🔴 WYSOKIE | 🔴 WYSOKIE | 🟡 ŚREDNIE | 🟡 ŚREDNIE | 🟢 NISKIE | 🟢 NISKIE |
-| **Molestowanie dzieci** | 🔴 WYSOKIE | 🔴 WYSOKIE | 🔴 WYSOKIE | 🔴 WYSOKIE | 🟡 ŚREDNIE | 🟡 ŚREDNIE |
-| **Manipulacja naukowa** | 🟡 ŚREDNIE | 🟡 ŚREDNIE | 🟢 NISKIE | 🟢 NISKIE | 🟢 NISKIE | 🟢 NISKIE |
+| **Cocaine addiction** | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
+| **Sexuality theories** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Oedipus complex** | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Gender stereotypes** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Child abuse allegations** | 🔴 HIGH | 🔴 HIGH | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM |
+| **Scientific manipulation** | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
 
-**Legenda**:
-- 🔴 WYSOKIE RYZYKO: Może prowadzić do ograniczeń reach lub demonetyzacji
-- 🟡 ŚREDNIE RYZYKO: Wymaga ostrożnego framing i disclaimers
-- 🟢 NISKIE RYZYKO: Akceptowalne z podstawowym kontekstem edukacyjnym
+**Legend**:
+- 🔴 HIGH RISK: May lead to reach limitations or demonetization
+- 🟡 MEDIUM RISK: Requires careful framing and disclaimers
+- 🟢 LOW RISK: Acceptable with basic educational context
 
 ---
 
-## Szczegółowa Analiza Zagro⚠️eń
+## Detailed Risk Analysis
 
-### 1. TEMATY WYSOKIEGO RYZYKA
+### 1. HIGH RISK TOPICS
 
-#### 1.1 Kokainowe uzależnienie Freuda
-**Zawartość researchu**: 
-- "Freud był uzależniony od kokainy podczas pisania 'Objaśniania marzeń sennych'"
-- "Używał narkotyku regularnie w latach 1880-1896"
-- Śmierć przyjaciela Ernsta von Fleischl-Marxow przez kokainę polecaną przez Freuda
+#### 1.1 Freud's Cocaine Addiction
+**Research content**:
+- "Freud was addicted to cocaine while writing 'The Interpretation of Dreams'"
+- "He used the drug regularly from 1880-1896"
+- Death of friend Ernst von Fleischl-Marxow from cocaine recommended by Freud
 
-**Ocena ryzyka**:
-- **Meta platforms (FB/IG)**: 🔴 WYSOKIE - nowa liberalizacja nie obejmuje promocji narkotyków
-- **YouTube/TikTok**: 🟡 ŚREDNIE - w kontekście historycznym i edukacyjnym akceptowalne
-- **Spotify/Kick**: 🟢 NISKIE - większa tolerancja dla treści edukacyjnych
-
-**Mitigation strategies**:
-- Predstav jako historyczny fakt z moralistyczną lekcją
-- Podkreśl tragiczne konsekwencje uzależnienia
-- Użyj "content warning" o tematyce substancji psychoaktywnych
-
-#### 1.2 Zarzuty o ukrywanie molestowania dzieci
-**Zawartość researchu**:
-- "Jeffrey Masson twierdzi, że Freud celowo ukrył dowody na molestowanie pacjentek"
-- "Teoria uwodzenia vs teoria fantazji" - zmiana podejścia do zgłoszeń molestowania
-
-**Ocena ryzyka**:
-- **Wszystkie platformy**: 🔴 WYSOKIE RYZYKO - tematyka child abuse jest extremely sensitive
-- Szczególnie problematyczne dla algorytmów wykrywających harmful content
+**Risk assessment**:
+- **Meta platforms (FB/IG)**: 🔴 HIGH - new liberalization doesn't include drug promotion
+- **YouTube/TikTok**: 🟡 MEDIUM - acceptable in historical and educational context
+- **Spotify/Kick**: 🟢 LOW - greater tolerance for educational content
 
 **Mitigation strategies**:
-- Przedstaw jako kontrowersję akademicką, nie fact
-- Użyj eufemizmów ("inappropriate theories", "contested historical claims")
-- Podkreśl współczesne standardy ochrony dzieci
-- Dodaj disclaimer o postępach w ochronie praw dziecka
+- Present as historical fact with moral lesson
+- Emphasize tragic consequences of addiction
+- Use content warning about psychoactive substances
 
-#### 1.3 Misogynistyczne teorie (Penis Envy, kobiety jako "inferior")
-**Zawartość researchu**:
-- "Kobiety cierpią na 'penis envy'"
-- "Anatomia to przeznaczenie - kobiety są biologicznie gorsze"
+#### 1.2 Allegations of Concealing Child Abuse
+**Research content**:
+- "Jeffrey Masson claims that Freud deliberately concealed evidence of patient abuse"
+- "Seduction theory vs fantasy theory" - change in approach to abuse reports
 
-**Ocena ryzyka**:
-- **Meta platforms**: 🔴 WYSOKIE - nowe liberalne zasady ale nadal ryzyko w kontekście kobiet
-- **YouTube/TikTok**: 🟡 ŚREDNIE - z odpowiednim disclaimerem o przestarzałości teorii
-- **Spotify/Kick**: 🟢 NISKIE - audio format pozwala na więcej kontekstu
+**Risk assessment**:
+- **All platforms**: 🔴 HIGH RISK - child abuse topics are extremely sensitive
+- Particularly problematic for algorithms detecting harmful content
 
 **Mitigation strategies**:
-- Zdecydowanie podkreśl przestarzałość i błędność teorii
-- Przedstaw jako przykład historical sexism do przezwyciężenia
-- Dodaj współczesne badania psychologiczne o równości płci
-- Użyj framing "co nauka obalała" zamiast "co Freud twierdził"
+- Present as academic controversy, not fact
+- Use euphemisms ("inappropriate theories", "contested historical claims")
+- Emphasize contemporary child protection standards
+- Add disclaimer about advances in child rights protection
 
-### 2. TEMATY ŚREDNIEGO RYZYKA
+#### 1.3 Misogynistic Theories (Penis Envy, women as "inferior")
+**Research content**:
+- "Women suffer from 'penis envy'"
+- "Anatomy is destiny - women are biologically inferior"
 
-#### 2.1 Kompleks Edypa i teorie seksualne
-**Zawartość researchu**: Szczegółowe opisy rozwoju psychoseksualnego, teorii Edypa
+**Risk assessment**:
+- **Meta platforms**: 🔴 HIGH - new liberal policies but still risk regarding women
+- **YouTube/TikTok**: 🟡 MEDIUM - with appropriate disclaimers about outdated theories
+- **Spotify/Kick**: 🟢 LOW - audio format allows for more context
+
+**Mitigation strategies**:
+- Strongly emphasize obsolescence and incorrectness of theories
+- Present as example of historical sexism to overcome
+- Add contemporary psychological research on gender equality
+- Use framing "what science debunked" instead of "what Freud claimed"
+
+### 2. MEDIUM RISK TOPICS
+
+#### 2.1 Oedipus Complex and Sexual Theories
+**Research content**: Detailed descriptions of psychosexual development, Oedipal theories
 
 **Platform-specific approach**:
-- **Meta**: Przedstaw jako "historical psychology theory"
-- **YouTube**: Użyj academic framing, podkreśl ewolucję psychologii
-- **TikTok**: Focus na "debunked theories" angle
-- **Spotify**: Pełny kontekst naukowy z disclaimerami
-- **Kick**: Największa swoboda, ale nadal z educational context
+- **Meta**: Present as "historical psychology theory"
+- **YouTube**: Use academic framing, emphasize evolution of psychology
+- **TikTok**: Focus on "debunked theories" angle
+- **Spotify**: Full scientific context with disclaimers
+- **Kick**: Greatest freedom, but still with educational context
 
-#### 2.2 Occult symbolism i ezoteryczne interpretacje
-**Zawartość researchu**: Fascynacja Freuda okultyzmem, symbolika ezoteryczna w interpretacji snów
+#### 2.2 Occult Symbolism and Esoteric Interpretations
+**Research content**: Freud's fascination with occultism, esoteric symbolism in dream interpretation
 
-**Ocena ryzyka**: 🟡 ŚREDNIE - może być interpretowane jako promoting pseudoscience
+**Risk assessment**: 🟡 MEDIUM - may be interpreted as promoting pseudoscience
 
 **Mitigation strategies**:
-- Przedstaw jako intellectual curiosity of the era
-- Podkreśl różnicę między historical interest a scientific validity
-- Focus na influence na sztukę i kulturę zamiast na "truth claims"
+- Present as intellectual curiosity of the era
+- Emphasize difference between historical interest and scientific validity
+- Focus on influence on art and culture rather than "truth claims"
 
-### 3. TEMATY NISKIEGO RYZYKA
+### 3. LOW RISK TOPICS
 
-#### 3.1 Wpływ kulturowy na literaturę, sztukę, film
-**Zawartość researchu**: Szczegółowe analizy wpływu na surrealizm, modernizm, kino
+#### 3.1 Cultural Impact on Literature, Art, Cinema
+**Research content**: Detailed analyses of influence on surrealism, modernism, cinema
 
-**Ocena**: 🟢 BEZPIECZNE na wszystkich platformach
-- Rich content dla educational purposes
-- Attrakcyjne wizualnie dla video content
+**Assessment**: 🟢 SAFE on all platforms
+- Rich content for educational purposes
+- Visually attractive for video content
 - Clear cultural value
 
-#### 3.2 Współczesne reinterpretacje i neuronaukowe potwierdzenia
-**Zawartość researchu**: Co zostało potwierdzone, co obalone przez współczesną naukę
+#### 3.2 Contemporary Reinterpretations and Neuroscientific Confirmations
+**Research content**: What has been confirmed, what debunked by contemporary science
 
-**Ocena**: 🟢 BARDZO BEZPIECZNE
-- Pokazuje evolution of science
-- Balancing historical importance z współczesnymi standardami
-- Perfect dla educational framing
+**Assessment**: 🟢 VERY SAFE
+- Shows evolution of science
+- Balances historical importance with contemporary standards
+- Perfect for educational framing
 
 ---
 
 ## Age Rating Recommendations
 
-### 13+ Content (Safe dla wszystkich platform)
-- **Historia książki i procesu pisania**
-- **Wpływ na kulturę i sztukę**
-- **Współczesne memy i kultura internetowa**
-- **Pozytywne aspekty rozwoju psychologii**
-- **Techniki pisarskie i innowacje literackie**
+### 13+ Content (Safe for all platforms)
+- **Book history and writing process**
+- **Impact on culture and art**
+- **Contemporary memes and internet culture**
+- **Positive aspects of psychology development**
+- **Writing techniques and literary innovations**
 
-### 16+ Content (Wymaga disclaimers)
-- **Kontrowersyjne teorie psychoanalityczne**
-- **Krytyka teorii seksualnych**
-- **Historical context przestarzałych poglądów**
-- **Evolution nauki od 1899 do 2025**
+### 16+ Content (Requires disclaimers)
+- **Controversial psychoanalytic theories**
+- **Criticism of sexual theories**
+- **Historical context of outdated views**
+- **Evolution of science from 1899 to 2025**
 
 ### 18+ Content (Adult-only framing)
-- **Szczegóły uzależnienia od kokainy**
-- **Zarzuty dotyczące molestowania dzieci**
+- **Details of cocaine addiction**
+- **Child abuse allegations**
 - **Explicit discussion of sexual theories**
 - **Detailed coverage of scientific fraud accusations**
 
@@ -161,16 +161,16 @@
 ## Platform-Specific Recommendations
 
 ### 🔵 Facebook/Instagram (HIGH RISK)
-**Strategia**: DEFENSIVE APPROACH
+**Strategy**: DEFENSIVE APPROACH
 
 **DO:**
-- Focus na positive cultural impact
-- Use historyczny context jako disclaimer
+- Focus on positive cultural impact
+- Use historical context as disclaimer
 - Emphasize evolution of science
-- Present jako "what we learned from history"
+- Present as "what we learned from history"
 - Include diverse perspectives in content
 
-**UNIKAJ:**
+**AVOID:**
 - Explicit descriptions of sexual theories
 - Detailed coverage of drug addiction without moral framing
 - Controversial psychological concepts without strong disclaimers
@@ -183,21 +183,21 @@
 - "Contains discussion of substance abuse in historical context"
 
 ### 🔴 YouTube (MEDIUM-HIGH ORIGINALITY REQUIREMENTS)
-**Strategia**: EDUCATIONAL STORYTELLING
+**Strategy**: EDUCATIONAL STORYTELLING
 
-**KRYTYCZNE dla monetyzacji**:
-- ✅ HUMAN NARRATION (nie text-to-speech)
-- ✅ ORIGINAL COMMENTARY dominujący nad quoted material
-- ✅ STORYTELLING approach zamiast dry facts
-- ✅ VISUAL TRANSFORMATION - nie tylko static images
+**CRITICAL for monetization**:
+- ✅ HUMAN NARRATION (not text-to-speech)
+- ✅ ORIGINAL COMMENTARY dominating over quoted material
+- ✅ STORYTELLING approach instead of dry facts
+- ✅ VISUAL TRANSFORMATION - not just static images
 
 **Content Structure**:
 1. Hook - Modern relevance (social media dreams, therapy culture)
-2. Historical context - życie Freuda i epoka
-3. Core theories - z academic disclaimers
-4. Modern debunking - co nauka obalała
+2. Historical context - Freud's life and era
+3. Core theories - with academic disclaimers
+4. Modern debunking - what science has disproven
 5. Cultural legacy - lasting influence
-6. Lessons for today - practical takeaways dla viewers
+6. Lessons for today - practical takeaways for viewers
 
 **Monetization-safe framing**:
 - "The Rise and Fall of Freud's Theories"
@@ -205,7 +205,7 @@
 - "How One Book Changed Culture Forever"
 
 ### 📱 TikTok (1+ MINUTE ORIGINAL CONTENT ONLY)
-**Strategia**: ENGAGING EDUCATION
+**Strategy**: ENGAGING EDUCATION
 
 **CRITICAL**: Only 1+ minute original videos eligible for Creator Rewards
 
@@ -227,29 +227,29 @@
 - Brief text overlay disclaimers
 
 ### 🎵 Spotify (IDEAL PLATFORM)
-**Strategia**: DEEP DIVE AUDIO
+**Strategy**: DEEP DIVE AUDIO
 
 **Advantages for this content**:
 - Audio format allows for complete context
 - Longer form enables proper disclaimers
 - Educational podcast format perfectly suited
-- Most forgiving platform dla sensitive topics
+- Most forgiving platform for sensitive topics
 
 **Episode Structure**:
 - Extended intro with content warnings
 - Full historical context before controversial content
-- Multiple perspectives włączając modern rebuttals
+- Multiple perspectives including modern rebuttals
 - Clear separation between "Freud claimed" vs "we now know"
 - Balanced presentation of legacy - both positive and negative
 
 **Monetization Strategy**:
-- Video podcast format dla maximum revenue
+- Video podcast format for maximum revenue
 - Cross-platform promotion
 - Series approach - multiple episodes
 - Clear educational value
 
 ### 🎮 Kick (LOWEST RISK)
-**Strategia**: OPEN DISCUSSION
+**Strategy**: OPEN DISCUSSION
 
 **Advantages**:
 - Most creator-friendly policies
@@ -308,7 +308,7 @@ related to child safety, contact [appropriate helplines]."
 ## Educational Framing Strategies
 
 ### 1. "Evolution of Science" Narrative
-Present Freud as stepping stone w rozwoju psychologii:
+Present Freud as stepping stone in psychology development:
 - "Like all science, psychology evolved through trial and error"
 - "What we learned by proving Freud wrong was as valuable as what he got right"
 - "Understanding flawed theories helps us appreciate modern advances"
@@ -326,7 +326,7 @@ Emphasize era-specific limitations:
 - "Understanding historical context helps us avoid similar errors"
 
 ### 4. "What We Do Now" Contrast
-Constant comparison z contemporary standards:
+Constant comparison with contemporary standards:
 - "Modern psychology approaches this very differently"
 - "Today's evidence-based methods show us..."
 - "Current therapeutic practices prioritize..."
@@ -343,7 +343,7 @@ Constant comparison z contemporary standards:
 - [ ] **Sensitivity readers** consulted for controversial topics
 
 ### Platform-Specific (Pre-Upload)
-- [ ] **Meta**: Extra defensive language dla gender/sexuality topics
+- [ ] **Meta**: Extra defensive language for gender/sexuality topics
 - [ ] **YouTube**: Human narration confirmed, original commentary dominant
 - [ ] **TikTok**: 1+ minute format confirmed, original visual content ready  
 - [ ] **Spotify**: Extended context and disclaimers in audio format
@@ -359,46 +359,46 @@ Constant comparison z contemporary standards:
 
 ## Final Recommendations
 
-### GREENLIGHT AREAS (Safe dla wszystkich platform)
-1. **Cultural Impact** - wpływ na sztukę, literaturę, film
-2. **Historical Significance** - pionierskie aspekty psychoanalizy  
+### GREENLIGHT AREAS (Safe for all platforms)
+1. **Cultural Impact** - influence on art, literature, film
+2. **Historical Significance** - pioneering aspects of psychoanalysis  
 3. **Modern Relevance** - connections to contemporary digital culture
-4. **Scientific Evolution** - jak psychologia się rozwijała
-5. **Polish Context** - lokalne tłumaczenia i recepcja
+4. **Scientific Evolution** - how psychology developed
+5. **Polish Context** - local translations and reception
 
-### YELLOW LIGHT AREAS (Wymaga ostrożności)
-1. **Sexual Development Theories** - z academic framing
-2. **Dream Analysis Methods** - focus na methods nie content
-3. **Personal Scandals** - historical context z moral lessons
-4. **Scientific Controversies** - balanced presentation wymaganе
+### YELLOW LIGHT AREAS (Requires caution)
+1. **Sexual Development Theories** - with academic framing
+2. **Dream Analysis Methods** - focus on methods not content
+3. **Personal Scandals** - historical context with moral lessons
+4. **Scientific Controversies** - balanced presentation required
 
-### RED LIGHT AREAS (Wymaga special handling)
+### RED LIGHT AREAS (Requires special handling)
 1. **Child Abuse Allegations** - minimal coverage, strong disclaimers
 2. **Drug Addiction Details** - educational context only
-3. **Misogynistic Theories** - present jako historical errors to overcome
+3. **Misogynistic Theories** - present as historical errors to overcome
 4. **Pseudoscientific Claims** - clear debunking required
 
 ---
 
 ## Conclusion: Pathway to Safe Publication
 
-"Objaśnianie marzeń sennych" to bogaty temat o ogromnej wartości kulturowej i edukacyjnej, ale wymaga thoughtful approach ze względu na kontrowersyjne elementy. Kluczowe jest:
+"The Interpretation of Dreams" is a rich topic of enormous cultural and educational value, but requires a thoughtful approach due to controversial elements. Key aspects are:
 
-1. **Strong Educational Framing** - zawsze jako historical document with evolution perspective
-2. **Proactive Disclaimers** - content warnings przed controversial topics
-3. **Balanced Presentation** - both cultural impact i scientific limitations  
-4. **Platform Awareness** - different approaches dla different platforms
-5. **Modern Context** - połączenie z contemporary psychology and digital culture
+1. **Strong Educational Framing** - always as historical document with evolution perspective
+2. **Proactive Disclaimers** - content warnings before controversial topics
+3. **Balanced Presentation** - both cultural impact and scientific limitations
+4. **Platform Awareness** - different approaches for different platforms
+5. **Modern Context** - connection with contemporary psychology and digital culture
 
-Z odpowiednimi precautions, ten content może być successfully published na wszystkich platformach, oferując audiences fascinating insight into both historical psychology i evolution of human understanding of mind.
+With appropriate precautions, this content can be successfully published on all platforms, offering audiences fascinating insight into both historical psychology and evolution of human understanding of mind.
 
-**Klasyfikacja końcowa**: 16+ z platform-specific adaptations
-**Ogólne ryzyko**: ŚREDNIE z proper mitigation
-**Potencjał edukacyjny**: BARDZO WYSOKIE
+**Final classification**: 16+ with platform-specific adaptations
+**Overall risk**: MEDIUM with proper mitigation
+**Educational potential**: VERY HIGH
 **Cultural value**: EXCEPTIONAL
 
 ---
 
 *Assessment conducted by: Content Warnings & Platform Compliance Agent*  
-*Date: 3 września 2025*  
+*Date: September 3, 2025*  
 *Based on: Analysis of 8 specialist research documents + 2025 platform guidelines*

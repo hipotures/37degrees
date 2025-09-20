@@ -1,40 +1,40 @@
-# Long Day's Journey Into Night: Rezonans z Kulturą Młodzieżową i Digital Life (2024-2025)
+# Long Day's Journey Into Night: Resonance with Youth Culture and Digital Life (2024-2025)
 
-*Badanie przeprowadzone: 4 września 2025*
+*Research conducted: September 4, 2025*
 
 ## Executive Summary
 
-"Long Day's Journey Into Night" Eugene'a O'Neilla rezonuje z pokoleniem Gen Z i millenialsami głównie poprzez swoje bezlitosne przedstawienie dysfunkcji rodzinnej, uzależnień i traum międzypokoleniowych. Chociaż klasyczna sztuka teatralna z 1956 roku nie stała się viralem na TikToku, jej tematy są niezwykle aktualne w kontekście współczesnych dyskusji o mental health, toxic family dynamics i breaking generational trauma.
+Eugene O'Neill's "Long Day's Journey Into Night" resonates with Gen Z and millennials primarily through its merciless portrayal of family dysfunction, addiction, and intergenerational trauma. While this classic 1956 play hasn't gone viral on TikTok, its themes are extremely relevant in the context of contemporary discussions about mental health, toxic family dynamics, and breaking generational trauma.
 
-## Kluczowe Paralele ze Współczesnym Życiem Gen Z
+## Key Parallels with Contemporary Gen Z Life
 
-### 1. Mental Health i Terapia - Trending Topic 2024-2025
+### 1. Mental Health and Therapy - Trending Topic 2024-2025
 
-**Statystyki kluczowe:**
-- 42% Gen Z chodzi na terapię (wzrost o 22% od 2022)
-- 87% Gen Z uważa się za najlepszych w dyskusjach o zdrowiu psychicznym
-- 27% Gen Z ocenia swoje zdrowie psychiczne jako słabe (vs. 15% millenialsów)
+**Key Statistics:**
+- 42% of Gen Z attends therapy (22% increase since 2022)
+- 87% of Gen Z considers themselves best at mental health discussions
+- 27% of Gen Z rates their mental health as poor (vs. 15% of millennials)
 
-**Połączenie z O'Neillem:**
-- Mary Tyrone's morfina = współczesne dyskusje o opioid crisis
-- Rodzinne sekrety i denial = #MentalHealthAwareness na TikToku
-- Edmund's gruźlica = chroniczne choroby psychiczne młodych
+**Connection to O'Neill:**
+- Mary Tyrone's morphine = contemporary opioid crisis discussions
+- Family secrets and denial = #MentalHealthAwareness on TikTok
+- Edmund's tuberculosis = chronic mental illness in young people
 
-### 2. Generational Trauma - Viral Concept na TikToku
+### 2. Generational Trauma - Viral Concept on TikTok
 
-**Trending hashtagi (2024-2025):**
-- #GenerationalTrauma: 45.1M postów na TikToku
-- #BreakingGenerationalTrauma: miliony views
-- #ToxicFamily trends eksplodują wśród Gen Z
+**Trending hashtags (2024-2025):**
+- #GenerationalTrauma: 45.1M posts on TikTok
+- #BreakingGenerationalTrauma: millions of views
+- #ToxicFamily trends exploding among Gen Z
 
-**Paralele z sztuką:**
+**Parallels with the play:**
 - James Tyrone's childhood trauma → current toxic masculinity discussions
 - Mary's lost dreams → millennial/Gen Z career anxiety
-- Cycles of addiction and denial → viral stories o family dysfunction
+- Cycles of addiction and denial → viral stories about family dysfunction
 
 ### 3. "You're So Funny" Meme Trend (2025) - Direct Connection
 
-**Format mema:**
+**Meme format:**
 - "You're so funny" → "Thanks" → traumatic family memory
 - Gen Z shares embarrassing/painful childhood stories as humor
 - Concept: trauma makes you funny = Mary Tyrone's deflection mechanisms
@@ -44,9 +44,9 @@
 ### Family Dysfunction in Interactive Media (2024-2025)
 
 **Gaming Industry Trends:**
-- 0.3-1% populacji ma Internet Gaming Disorder
-- Family dysfunction = major risk factor dla gaming addiction
-- COVID pandemic increased gaming addiction dramatically
+- 0.3-1% of population has Internet Gaming Disorder
+- Family dysfunction = major risk factor for gaming addiction
+- COVID pandemic dramatically increased gaming addiction
 
 **O'Neill Parallels:**
 - Escapism through substances (Mary) = escapism through gaming
@@ -54,26 +54,26 @@
 - Parental neglect leading to addictive behaviors
 
 **Potential Game Adaptations:**
-- Family drama indie games style "That Dragon, Cancer"
+- Family drama indie games like "That Dragon, Cancer"
 - Choice-based narrative games exploring addiction
 - VR experiences of family psychological spaces
 
-## BookTok i Literature Influencers
+## BookTok and Literature Influencers
 
 ### BookTok Statistics (2024-2025)
 
 **Platform Impact:**
-- 200 billion views na #BookTok content
-- 40% wzrost sprzedaży książek dzięki BookTok
+- 200 billion views on #BookTok content
+- 40% increase in book sales thanks to BookTok
 - Top influencers: Ayman (918K followers), Abby (465K followers)
 
-**Dlaczego O'Neill NIE jest viral na BookTok:**
+**Why O'Neill is NOT viral on BookTok:**
 - Platform favors: fantasy, romance, contemporary fiction
 - Gen Z prefers: interactive content, visual aesthetics, hope-based narratives
 - O'Neill's bleakness conflicts with BookTok's escapist trends
 
-**Potencjał dla crossover:**
-- Dark academia aesthetic (644.8K posts) mogłaby wprowadzić O'Neilla
+**Potential for crossover:**
+- Dark academia aesthetic (644.8K posts) could introduce O'Neill
 - Jessica Lange 2025 film adaptation could trigger interest
 - Connection through mental health discussions
 
@@ -81,10 +81,10 @@
 
 ### TikTok Therapy Culture (2024-2025)
 
-**Problematyczne trendy:**
-- 83% mental health advice na TikToku jest misleading
+**Problematic trends:**
+- 83% of mental health advice on TikTok is misleading
 - Self-diagnosis based on social media content
-- Trauma dumping jako viral content format
+- Trauma dumping as viral content format
 
 **O'Neill Connection:**
 - Mary's self-medication = self-diagnosis culture
@@ -99,21 +99,21 @@
 - "Cutting off toxic family" trends
 - Generational wealth trauma discussions
 
-## Współczesne Adaptacje i Potencjał
+## Contemporary Adaptations and Potential
 
 ### Jessica Lange Film (2025) - Limited TikTok Impact
 
 **Film Details:**
-- Premiêra: Dublin Film Festival, February 27, 2025
+- Premiere: Dublin Film Festival, February 27, 2025
 - Cast: Jessica Lange, Ed Harris, Ben Foster, Colin Morgan
 - Critical acclaim but limited Gen Z social media buzz
 
-**Dlaczego nie viral:**
+**Why not viral:**
 - No wide theatrical release yet
 - Classic adaptation vs. original content preference
 - Target audience: older demographics
 
-### Potencjalne Adaptacje dla Gen Z
+### Potential Adaptations for Gen Z
 
 **Format Ideas:**
 - TikTok series format: "One day in dysfunctional family"
@@ -137,14 +137,14 @@
 - Therapeutic game about breaking generational patterns
 - Interactive family therapy simulation
 
-## Opioid Crisis i Modern Relevance
+## Opioid Crisis and Modern Relevance
 
 ### 2024-2025 Statistics
 
-**Kryzys opioidowy:**
-- 87,000 drug overdose deaths w 12-month period (2024)
+**Opioid crisis:**
+- 87,000 drug overdose deaths in 12-month period (2024)
 - Fentanyl 50x stronger than heroin, 100x stronger than morphine
-- 55 million fentanyl pills seized w 2024
+- 55 million fentanyl pills seized in 2024
 
 **Mary Tyrone's Morphine → Modern Context:**
 - Prescription drug addiction remains family destroyer
@@ -166,9 +166,9 @@
 - Social media replacing genuine emotional connection
 - Technology enabling family avoidance patterns
 
-## Recommendations dla Marketing do Gen Z
+## Recommendations for Gen Z Marketing
 
-### Content Strategy dla O'Neill Promotion
+### Content Strategy for O'Neill Promotion
 
 **TikTok Approaches:**
 1. **Mental Health Education:** "What 1912 family dysfunction teaches about modern therapy"
@@ -281,7 +281,7 @@
 
 **High Relevance Areas:**
 - Mental health discussions (9/10)
-- Family trauma content (9/10)  
+- Family trauma content (9/10)
 - Addiction narratives (8/10)
 - Generational wealth trauma (8/10)
 

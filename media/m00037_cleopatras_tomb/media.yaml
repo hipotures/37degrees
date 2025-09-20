@@ -1,0 +1,15 @@
+media_info:
+  title: Cleopatra's Lost Tomb Mystery - 30 BCE
+  author: Archaeological Documentation
+  year: -30
+  genre: Archaeological Mystery Documentary
+  description: The burial site of Egypt's most famous queen remains undiscovered
+    despite numerous archaeological expeditions and modern technology
+  target_audience: General public, students, ancient Egypt enthusiasts, archaeology fans
+  duration: ~3 minutes
+  objective: Explore the ongoing search for Cleopatra VII's tomb and examine the
+    leading theories about its possible location in Alexandria or beyond
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

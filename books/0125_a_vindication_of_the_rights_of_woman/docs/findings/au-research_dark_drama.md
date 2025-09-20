@@ -1,94 +1,94 @@
-# Mary Wollstonecraft: Mroczne sekrety feministycznej ikony
+# Mary Wollstonecraft: Dark Secrets of the Feminist Icon
 
-## **FAKT**: Tragiczna śmierć po porodzie z powodu niewiedzy medycznej
+## **FACT**: Tragic death after childbirth due to medical ignorance
 
-Mary Wollstonecraft zmarła 10 września 1797 r., 11 dni po urodzeniu córki Mary (późniejszej Mary Shelley), w wyniku posocznicy spowodowanej infekcją poporodową. **FAKT**: Gdy część łożyska pozostała w macicy, wezwano lekarza Poignanda, który zdecydował się ręcznie usunąć łożysko w procedurze powodującej agonalny ból. W tamtych czasach lekarze nie wiedzieli o znaczeniu higieny rąk, co sprawiało, że ich interwencje często prowadziły do śmiertelnych infekcji.
+Mary Wollstonecraft died on September 10, 1797, 11 days after giving birth to her daughter Mary (later Mary Shelley), as a result of sepsis caused by a postpartum infection. **FACT**: When part of the placenta remained in the uterus, doctor Poignand was called, who decided to manually remove the placenta in a procedure causing agonizing pain. In those times, doctors didn't know about the importance of hand hygiene, which meant their interventions often led to fatal infections.
 
-## **FAKT**: Skandaliczny romans z żonatym malarzem Henrym Fuselim
+## **FACT**: Scandalous affair with married painter Henry Fuseli
 
-W 1792 roku, 29-letnia Mary wpadła w obsesję na punkcie 47-letniego malarza Henryka Fuseliego, który był już żonaty ze swoją byłą modelką Sophią Rawlins. **FAKT**: Fuseli był znany z tworzenia rysunków pornograficznych i zyskał sławę dzięki malarstwu "Zmora" (The Nightmare). Wollstonecraft była "oczarowana jego geniuszem, 'wielkością jego duszy, tą szybkością rozumienia i piękną sympatią'".
+In 1792, 29-year-old Mary became obsessed with 47-year-old painter Henry Fuseli, who was already married to his former model Sophia Rawlins. **FACT**: Fuseli was known for creating pornographic drawings and gained fame through his painting "The Nightmare." Wollstonecraft was "charmed by his genius, 'the grandeur of his soul, that quickness of comprehension and lovely sympathy.'"
 
-## **PLOTKA**: Niekonwencjonalna propozycja życia w trójkącie
+## **RUMOR**: Unconventional proposal for a ménage à trois
 
-**ZARZUT**: Najskandalizujący aspekt ich relacji nastąpił, gdy Wollstonecraft zaproponowała platoniczną aranżację mieszkaniową z Fuselim i jego żoną. Poszła do żony Fuseliego i zasugerowała: "Skoro jej miłość jest niewinna, czy nie powinni wszyscy trzej żyć razem?" Żona Fuseliego była przerażona, a on zerwał relację z Wollstonecraft. **FAKT**: Po tej porażce Mary postanowiła uciec do Francji, pisząc: "Nie zamierzam dłużej walczyć z racjonalnym pragnieniem, więc postanowiłam wyruszyć do Paryża w ciągu dwóch tygodni lub trzech tygodni."
+**ACCUSATION**: The most scandalizing aspect of their relationship occurred when Wollstonecraft proposed a platonic living arrangement with Fuseli and his wife. She went to Fuseli's wife and suggested: "Since her love is innocent, shouldn't all three of them live together?" Fuseli's wife was horrified, and he broke off the relationship with Wollstonecraft. **FACT**: After this failure, Mary decided to flee to France, writing: "I intend no longer to struggle with a rational desire, so have determined to set out for Paris in the course of a fortnight or three weeks."
 
-## **FAKT**: Dwie próby samobójstwa po nieudanym romansie z Amerykaninem
+## **FACT**: Two suicide attempts after failed romance with American
 
-Mary miała córkę Fanny z Gilbertem Imlay, amerykańskim biznesmenem, w maju 1794 roku. **FAKT**: Gdy zaszła w ciążę, była zachwycona, a ona i Imlay byli dumni z tego, że nie są małżeństwem, choć nazywała siebie panią Imlay, aby ochronić się podczas Rewolucji Francuskiej i osłonić dziecko przed piętnem nieprawego urodzenia.
+Mary had a daughter Fanny with Gilbert Imlay, an American businessman, in May 1794. **FACT**: When she became pregnant, she was delighted, and she and Imlay were proud of not being married, though she called herself Mrs. Imlay to protect herself during the French Revolution and shield the child from the stigma of illegitimate birth.
 
-**FAKT**: W maju 1795 roku podjęła pierwszą próbę samobójstwa, prawdopodobnie laudanum. Po powrocie do Londynu i zrozumieniu, że jej związek z Imlay się skończył, **FAKT**: podjęła drugą próbę samobójstwa, zostawiając notatkę dla Imlay: "Niech moje krzywdy śpią ze mną!" Następnie wyszła deszczowej nocy i "aby ciężar ubrań ją pociągnął, chodziła w górę i w dół około pół godziny" przed skokiem do Tamizy, ale nieznajomy zobaczył ją skaczącą i uratował.
+**FACT**: In May 1795, she made her first suicide attempt, probably with laudanum. After returning to London and realizing that her relationship with Imlay was over, **FACT**: she made a second suicide attempt, leaving a note for Imlay: "Let my wrongs sleep with me!" She then went out on a rainy night and "to make her clothes heavy, she walked up and down for about half an hour" before jumping into the Thames, but a stranger saw her jumping and saved her.
 
-## **FAKT**: Skandal pośmiertny - mąż zniszczył jej reputację na stulecie
+## **FACT**: Posthumous scandal - husband destroyed her reputation for a century
 
-W styczniu 1798 roku William Godwin opublikował "Pamiętniki autorki Wołania o prawa kobiety". **FAKT**: Choć Godwin czuł, że portretuje żonę z miłością, współczuciem i szczerością, wielu czytelników było wstrząśniętych tym, że ujawnił nieprawe dzieci Wollstonecraft, romanse i próby samobójstwa. Romantyczny poeta Robert Southey oskarżył go o "brak wszelkich uczuć w obnażaniu nagiej zmarłej żony".
+In January 1798, William Godwin published "Memoirs of the Author of A Vindication of the Rights of Woman." **FACT**: Although Godwin felt he was portraying his wife with love, compassion, and honesty, many readers were shocked that he revealed Wollstonecraft's illegitimate children, affairs, and suicide attempts. Romantic poet Robert Southey accused him of "want of all feeling in stripping his dead wife naked."
 
-**FAKT**: Do końca lat 90. XVIII wieku i przez większość XIX wieku Wollstonecraft była wyśmiewana przez wielu, choćby tylko ze względu na to, co uważano za skandaliczne życie osobiste. Większość feministycznych historyków literatury zgadza się, że publikacja Pamiętników Godwina nieumyślnie sprawiła, że nazwisko jego zmarłej żony stało się anatema w towarzystwie grzecznym przez prawie sto lat.
+**FACT**: By the end of the 1790s and throughout most of the 19th century, Wollstonecraft was ridiculed by many, if only because of what was considered her scandalous personal life. Most feminist literary historians agree that Godwin's publication of the Memoirs inadvertently made his dead wife's name anathema in polite society for nearly a hundred years.
 
-## **ZARZUT**: Związki z kręgami okultystycznymi przez przyjaciół
+## **ACCUSATION**: Connections with occult circles through friends
 
-**PLOTKA**: Mary Wollstonecraft była "przyjaciółką Williama Godwina, wybitnego orędownika wolnej miłości i wolności jednostki, z powiązaniami z kręgami okultystycznymi" według analizy domniemanych okultystycznych wpływów na wczesny feminizm. Wollstonecraft była częścią "wpływowej grupy radykałów, która gromadziła się w jego domu i obejmowała Williama Godwina, Thomasa Paine'a, Thomasa Holcrofta, Williama Blake'a, a po 1793 roku Williama Wordswortha" gdy pracowała dla wydawcy Josepha Johnsona w Londynie.
+**RUMOR**: Mary Wollstonecraft was "a friend of William Godwin, a prominent advocate of free love and individual freedom, with connections to occult circles" according to analysis of alleged occultist influences on early feminism. Wollstonecraft was part of "an influential group of radicals who gathered at his house and included William Godwin, Thomas Paine, Thomas Holcroft, William Blake, and after 1793, William Wordsworth" when she worked for publisher Joseph Johnson in London.
 
-## **FAKT**: Książka cudem uniknęła cenzury pomimo radykalnych treści
+## **FACT**: Book miraculously escaped censorship despite radical content
 
-**FAKT**: To feministyczny esej poruszający wiele tematów, które są wciąż kontrowersyjne dziś, to cud, że "Wołanie o prawa kobiety" nie zostało zakazane przez żaden kraj ani nie znalazło się w Index Librorum Prohibitorum (lista dzieł, których katolikom zakazano czytać). Powszechna edukacja i prawa kobiet to główne tematy, których dotyka Wollstonecraft, ale to silny podprąd republikanizmu przebiegający przez całe Wołanie, anty-monarchistyczne, anty-arystokratyczne sentiment czyni brak zakazu jeszcze bardziej zdumiewającym.
+**FACT**: For a feminist essay addressing many topics that are still controversial today, it's a miracle that "A Vindication of the Rights of Woman" was not banned by any country nor found its way onto the Index Librorum Prohibitorum (the list of works Catholics were forbidden to read). Universal education and women's rights are the main themes Wollstonecraft addresses, but it's the strong undercurrent of republicanism running through the entire Vindication, the anti-monarchist, anti-aristocratic sentiment that makes the lack of prohibition even more astonishing.
 
-## **ZARZUT**: Konserwatywna prasa atakuje za bluźnierstwo i herezję
+## **ACCUSATION**: Conservative press attacks for blasphemy and heresy
 
-**FAKT**: Konserwatywna prasa tamtych czasów atakowała tę odważną, wygadaną kobietę, choć zawsze była honorowana przez wolnomyślicieli i humanistów. Była krytykowana za bluźnierstwo, za poparcie dla Thomasa Paine'a, niezwykłego Anglika, który pomagał Amerykanom w ich wojnie o niepodległość i Francuzom w ich rewolucji, oraz za posiadanie dziecka poza małżeństwem.
+**FACT**: The conservative press of those times attacked this bold, outspoken woman, though she was always honored by freethinkers and humanists. She was criticized for blasphemy, for supporting Thomas Paine, the extraordinary Englishman who helped Americans in their war of independence and the French in their revolution, and for having a child out of wedlock.
 
-## **FAKT**: Wikte pisania po skandalu z Fuselim
+## **FACT**: Writing block after Fuseli scandal
 
-**FAKT**: Po napisaniu kontrowersyjnego Wołania o prawa kobiety w sześciotygodniowym przypływie pasji, wpadła w blok pisarski - z wyjątkiem listów do Fuseliego. Po odrzuceniu przez Fuselego jej życie osobiste zaczęło dominować nad jej pracą twórczą, co wpłynęło na produktywność literacką.
+**FACT**: After writing the controversial Vindication of the Rights of Woman in a six-week burst of passion, she fell into writer's block - except for letters to Fuseli. After being rejected by Fuseli, her personal life began to dominate over her creative work, affecting her literary productivity.
 
-## **PLOTKA**: Teorie o ukrytych znaczeniach rewolucyjnych w książce
+## **RUMOR**: Theories about hidden revolutionary meanings in the book
 
-**ZARZUT**: Niektórzy badacze sugerują, że Wollstonecraft "postrzegała system edukacyjny, który był w miejscu jako spisek mężczyzn w celu podporządkowania kobiet i sprawienia, by wydawały się mniej racjonalne i słabsze niż w rzeczywistości były", ale to odnosi się do jej krytyki nierówności edukacyjnej raczej niż do jakiegokolwiek okultystycznego spisku.
+**ACCUSATION**: Some scholars suggest that Wollstonecraft "perceived the educational system that was in place as a conspiracy by men to subordinate women and make them appear less rational and weaker than they actually were," but this refers to her criticism of educational inequality rather than any occultist conspiracy.
 
-## **FAKT**: Izolacja po śmierci - stała się "nie-osobą" w społeczeństwie
+## **FACT**: Isolation after death - became a "non-person" in society
 
-**FAKT**: Po opublikowaniu pamiętników Godwina "współcześni czytelnicy byli wstrząśnięci nieortodoksyjnym stylem życia Wollstonecraft i stała się znienawidzoną postacią" z krytykami jak Richard Polwhele atakującymi ją w wierszach jak "The Unsex'd Females" ("Pozbawione płci kobiety").
+**FACT**: After Godwin's memoirs were published, "contemporary readers were shocked by Wollstonecraft's unorthodox lifestyle and she became a hated figure" with critics like Richard Polwhele attacking her in poems like "The Unsex'd Females."
 
-## **FAKT**: Wpływ na córkę Mary Shelley i mroczną literaturę
+## **FACT**: Influence on daughter Mary Shelley and dark literature
 
-Mary Wollstonecraft zmarła, gdy jej córka Mary miała tylko jedenaście dni. **FAKT**: Mary Shelley dorastała bez matki, ale z ciężarem jej skandalicznej reputacji i radykalnych idei. To może wyjaśniać, dlaczego Mary Shelley stworzyła jedną z najciemniejszych i najbardziej rewolucyjnych powieści w historii literatury - "Frankensteina" (1818).
+Mary Wollstonecraft died when her daughter Mary was only eleven days old. **FACT**: Mary Shelley grew up without a mother, but with the burden of her scandalous reputation and radical ideas. This may explain why Mary Shelley created one of the darkest and most revolutionary novels in literary history - "Frankenstein" (1818).
 
-## **ZARZUT**: Niepoprawność polityczna wobec religii tradycyjnej
+## **ACCUSATION**: Political incorrectness toward traditional religion
 
-**FAKT**: Wollstonecraft miała skomplikowaną relację z religią - "powtarzające się 'apele do Boga i cnoty' w Wołaniu o prawa kobiety są 'martwą literą dla feministek teraz'" według wiodącego krytyka feministycznego, a jeśli przez martwą literę rozumie się nieudaną komunikację, to z pewnością prawdą jest, że ze wszystkich aspektów myśli Wollstonecraft to jej wiara religijna nie przemówiła do współczesnych interpretatorów.
+**FACT**: Wollstonecraft had a complicated relationship with religion - "the repeated 'appeals to God and virtue' in A Vindication of the Rights of Woman are 'dead letter to feminists now'" according to a leading feminist critic, and if by dead letter one means failed communication, then it is certainly true that of all aspects of Wollstonecraft's thought, it is her religious faith that has not spoken to contemporary interpreters.
 
-## **FAKT**: Podejrzenia o pierwsze samobójstwo przez przedawkowanie opium
+## **FACT**: Suspicions about first suicide using opium overdose
 
-**FAKT**: Pierwsza próba samobójstwa w maju 1795 roku prawdopodobnie została podjęta przy użyciu laudanum - mieszanki opium z alkoholem, które było powszechnie dostępne jako lekarstwo przeciwbólowe w XVIII wieku. To sugeruje, że Wollstonecraft mogła mieć dostęp do substancji odurzających i być świadoma ich śmiertelnego potencjału.
+**FACT**: The first suicide attempt in May 1795 was probably undertaken using laudanum - a mixture of opium and alcohol that was commonly available as pain medication in the 18th century. This suggests that Wollstonecraft may have had access to narcotic substances and been aware of their lethal potential.
 
-## **FAKT**: Kontrowersyjne podejście do macierzyństwa i małżeństwa
+## **FACT**: Controversial approach to motherhood and marriage
 
-**FAKT**: Mary Wollstonecraft dwukrotnie rodziła dzieci poza małżeństwem - najpierw Fanny z Gilbertem Imlay w 1794, a następnie Mary z Williamem Godwinem w 1797 (pobrali się dopiero gdy Mary była w ciąży). W tamtych czasach było to ekstremalne pogwałcenie norm społecznych i religijnych.
+**FACT**: Mary Wollstonecraft twice gave birth to children out of wedlock - first Fanny with Gilbert Imlay in 1794, then Mary with William Godwin in 1797 (they married only when Mary was pregnant). In those times, this was an extreme violation of social and religious norms.
 
-## **PLOTKA**: Teorie o umyślnym sabotażu reputacji przez establishmnt
+## **RUMOR**: Theories about deliberate sabotage of reputation by establishment
 
-**ZARZUT**: Niektórzy współcześni badacze sugerują, że tak szybkie i całkowite zniszczenie reputacji Wollstonecraft po publikacji pamiętników Godwina mogło być częściowo celowe - sposób na zdyskredytowanie jej radykalnych idei feministycznych przez patriarchalny establishment. **PLOTKA**: Publikacja szczegółów jej życia seksualnego została wykorzystana jako broń przeciwko jej intelektualnym osiągnięciom.
+**ACCUSATION**: Some contemporary scholars suggest that the rapid and complete destruction of Wollstonecraft's reputation after Godwin's memoirs were published may have been partly deliberate - a way to discredit her radical feminist ideas by the patriarchal establishment. **RUMOR**: The publication of details about her sexual life was used as a weapon against her intellectual achievements.
 
-## **FAKT**: Finansowe trudności i zależność od mężczyzn
+## **FACT**: Financial difficulties and dependence on men
 
-**FAKT**: Pomimo bycia jedną z pierwszych kobiet utrzymujących się z pisania, Wollstonecraft często borykała się z problemami finansowymi i była zależna od wsparcia mężczyzn w swoim życiu - od wydawcy Josepha Johnsona, przez Gilberta Imlay, po Williama Godwina. Ironicznie, autorka walcząca o niezależność kobiet sama nieraz znajdowała się w pozycji finansowej zależności.
+**FACT**: Despite being one of the first women to make a living from writing, Wollstonecraft often struggled with financial problems and was dependent on support from men in her life - from publisher Joseph Johnson, through Gilbert Imlay, to William Godwin. Ironically, the author fighting for women's independence often found herself in a position of financial dependence.
 
-## **FAKT**: Mroczne przepowiednie o przyszłości kobiet
+## **FACT**: Dark prophecies about women's future
 
-W "Wołaniu o prawa kobiety" Wollstonecraft przewidziała, że bez edukacji i równych praw, kobiety pozostaną w stanie "moralnej degradacji". **FAKT**: Jej obawy o to, że kobiety będą postrzegane tylko przez pryzmat swojej seksualności i zdolności rozrodczych, okazały się prorocze - jej własna reputacja została zniszczona właśnie przez ujawnienie szczegółów jej życia seksualnego, podczas gdy jej intelektualne osiągnięcia zostały zignorowane na ponad sto lat.
+In "A Vindication of the Rights of Woman," Wollstonecraft predicted that without education and equal rights, women would remain in a state of "moral degradation." **FACT**: Her fears that women would be perceived only through the prism of their sexuality and reproductive capabilities proved prophetic - her own reputation was destroyed precisely by the revelation of details about her sexual life, while her intellectual achievements were ignored for over a hundred years.
 
-## **ZARZUT**: Hipokryzja w praktykowanych ideałach
+## **ACCUSATION**: Hypocrisy in practiced ideals
 
-**ZARZUT**: Krytycy wskazują na sprzeczność między ideałami Wollstonecraft a jej życiem praktycznym - propagowała racjonalność i kontrolę nad emocjami, podczas gdy sama była znana z intensywnych, często destrukcyjnych namiętności i impulsywnych decyzji, w tym prób samobójstwa i obsesyjnej miłości do żonatego mężczyzny.
+**ACCUSATION**: Critics point to the contradiction between Wollstonecraft's ideals and her practical life - she promoted rationality and control over emotions, while she herself was known for intense, often destructive passions and impulsive decisions, including suicide attempts and obsessive love for a married man.
 
-## **FAKT**: Dziedzictwo traumy rodzinnej w następnym pokoleniu
+## **FACT**: Legacy of family trauma in the next generation
 
-**FAKT**: Córka Mary Wollstonecraft, Mary Shelley, doświadczyła podobnych traum osobistych - utraciła pierwsze dziecko, borykała się z depresją, a jej mąż Percy Shelley zginął w młodym wieku. Fanny Imlay, pierwsza córka Wollstonecraft, popełniła samobójstwo w wieku 22 lat w 1816 roku. **FAKT**: Wydaje się, że trauma i niestabilność emocjonalna przeszły z matki na córki, tworząc cykl cierpienia w rodzinie.
+**FACT**: Mary Wollstonecraft's daughter, Mary Shelley, experienced similar personal traumas - she lost her first child, struggled with depression, and her husband Percy Shelley died at a young age. Fanny Imlay, Wollstonecraft's first daughter, committed suicide at age 22 in 1816. **FACT**: It seems that trauma and emotional instability passed from mother to daughters, creating a cycle of suffering in the family.
 
-## **FAKT**: Radykalne idee wyprzedzające epokę o stulecia
+## **FACT**: Radical ideas ahead of their time by centuries
 
-**FAKT**: Pomimo osobistych skandali, "Wołanie o prawa kobiety" zawierało idee, które były tak radykalne, że niektóre z nich zostały zrealizowane dopiero w XX wieku - prawo wyborcze dla kobiet (1918-1920), dostęp do wyższej edukacji, równość w małżeństwie, kontrola urodzeń. Wollstonecraft była prawdziwą wizjonerką, która zapłaciła za swoje idee ceną osobistego szczęścia i społecznej akceptacji.
+**FACT**: Despite personal scandals, "A Vindication of the Rights of Woman" contained ideas that were so radical that some of them were only realized in the 20th century - women's suffrage (1918-1920), access to higher education, equality in marriage, birth control. Wollstonecraft was a true visionary who paid for her ideas with the price of personal happiness and social acceptance.
 
 ---
 
-*Badania przeprowadzone: wrzesień 2025*  
-*Źródła: Biografia Godwina (1798), współczesne dokumenty historyczne, archiwum Stanford Philosophy, British Library, współczesne analizy feministyczne*
+*Research conducted: September 2025*
+*Sources: Godwin's Biography (1798), contemporary historical documents, Stanford Philosophy archive, British Library, contemporary feminist analyses*

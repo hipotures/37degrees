@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Pilots Discover Churning Ocean Water Disturbance"
+  setting:
+    time: "November 14, 2004, approximately 12:30 PM"
+    location: "Pacific Ocean southwest of San Diego, California, specific area of anomalous water activity"
+    weather: "Clear, sunny day with calm seas except for the mysterious disturbance area"
+  characters:
+    - appearance: "Caucasian man, 40s, athletic build, focused expression, military bearing"
+      clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
+      position: "In lead F/A-18F cockpit, looking down at ocean disturbance"
+      action: "Banking aircraft to get better view of anomalous water pattern below"
+    - appearance: "Caucasian woman, 30s, slender build, determined expression, professional demeanor"
+      clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
+      position: "In wingman F/A-18F cockpit, following lead aircraft"
+      action: "Observing unusual ocean phenomenon and maintaining formation"
+  scene:
+    mainElements: "Circular area of churning whitewater approximately 50-100 feet diameter, described as boiling or frothing water pattern, contrasting with surrounding calm seas"
+    details: "Boeing F/A-18F Super Hornet in tactical grey paint scheme, VFA-41 Black Aces squadron markings, Bureau Number on fuselage, AIM-9X Sidewinder training missiles, twin-engine multirole fighter aircraft flying over disturbed water. Ocean disturbance creates visible white foam and turbulence in otherwise calm blue Pacific waters. Bright sunlight illuminates the contrast between normal ocean surface and the mysterious churning area."
+    background: "Pacific Ocean southwest of San Diego, California, approximately 100 miles offshore, water depth 13,000 feet extending to horizon with no other vessels or land visible"
+    atmosphere: "Vast blue ocean expanse, bright sunlight creating glare off water surface, isolated military training environment. Growing sense of mystery as pilots encounter unexplained phenomenon in routine training area"
+  composition:
+    cameraAngle: "Aerial view from pilot's perspective looking down at ocean disturbance"
+    focus: "Circular churning whitewater disturbance contrasting sharply with surrounding calm blue ocean"
+    depth: "Foreground: aircraft cockpit elements, middle ground: mysterious ocean disturbance, background: endless Pacific Ocean, no text or letters visible"

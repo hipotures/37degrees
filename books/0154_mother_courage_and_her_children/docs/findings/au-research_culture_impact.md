@@ -1,405 +1,405 @@
-# Wpływ Kulturowy: "Matka Courage i jej dzieci" Bertolta Brechta
+# Cultural Impact: "Mother Courage and Her Children" by Bertolt Brecht
 
-## Wprowadzenie
+## Introduction
 
-"Matka Courage i jej dzieci" (1939) Bertolta Brechta to jedna z najważniejszych sztuk XX wieku, uważana przez Oskara Eustisa za "największe dzieło teatralne XX wieku, a być może także największą antywojenną sztukę wszech czasów". Sztuka rewolucjonizowała nie tylko teatr, ale wpłynęła na całą kulturę popularną, edukację i dyskurs polityczny.
+"Mother Courage and Her Children" (1939) by Bertolt Brecht is one of the most important plays of the 20th century, considered by Oskar Eustis as "the greatest theatrical work of the 20th century, and perhaps the greatest anti-war play of all time." The play revolutionized not only theater, but influenced all of popular culture, education and political discourse.
 
-## I. NAJWAŻNIEJSZE ADAPTACJE MEDIALNE
+## I. MAJOR MEDIA ADAPTATIONS
 
-### Filmowe i Telewizyjne
+### Film and Television
 
-**1. Film DEFA (1961, NRD)**
-- Reżyseria: Peter Palitzsch i Manfred Wekwerth
-- Główna rola: Helene Weigel (wdowa po Brechcie)
-- Nagrodzony na Festiwalu w Locarno
-- Wiernie odtworzył spektakl Berliner Ensemble z 1949 r.
-- Uważany za "definitywną interpretację" sztuki na ekranie
+**1. DEFA Film (1961, East Germany)**
+- Directors: Peter Palitzsch and Manfred Wekwerth
+- Lead role: Helene Weigel (Brecht's widow)
+- Awarded at Locarno Film Festival
+- Faithfully recreated the 1949 Berliner Ensemble production
+- Considered the "definitive interpretation" of the play on screen
 
 **2. BBC Television (1959)**
-- Adaptacja: Eric Crozier
-- Produkcja: Rudolph Cartier  
-- Główna rola: Flora Robson
-- Pierwsza telewizyjna adaptacja dla brytyjskiej publiczności
+- Adaptation: Eric Crozier
+- Producer: Rudolph Cartier
+- Lead role: Flora Robson
+- First television adaptation for British audiences
 
 **3. "Theater of War" (2008)**
-- Dokument o produkcji z Meryl Streep
-- Pierwszy film pokazujący przygotowania Streep do roli scenicznej
-- Analiza związków między sztuką a współczesnymi konfliktami
+- Documentary about production starring Meryl Streep
+- First film showing Streep's preparation for stage role
+- Analysis of connections between the play and contemporary conflicts
 
-## II. PRZEŁOMOWE PRODUKCJE TEATRALNE
+## II. GROUNDBREAKING THEATRICAL PRODUCTIONS
 
-### Historyczne Spektakle
+### Historical Productions
 
 **4. Berliner Ensemble (1949)**
-- Pierwsza wielka realizacja pod kierunkiem samego Brechta
-- Helene Weigel w roli tytułowej
-- Tournée po Europie trwające dekadę
-- Wzorzec dla wszystkich późniejszych produkcji
+- First major production under Brecht's own direction
+- Helene Weigel in title role
+- European tour lasting a decade
+- Template for all subsequent productions
 
-**5. Teatr Żydowski w Warszawie (1957)**
-- Reżyseria i gł. rola: Ida Kamińska
-- Pierwsza produkcja w Polsce
-- Interpretacja przez pryzmat Holokaustu
-- Ruth Kamińska jako Katrin
-- Przełożenie na jidysz przez Idę Kamińską
+**5. Jewish Theater in Warsaw (1957)**
+- Direction and lead role: Ida Kamińska
+- First production in Poland
+- Interpretation through Holocaust lens
+- Ruth Kamińska as Katrin
+- Translation into Yiddish by Ida Kamińska
 
 **6. Royal Shakespeare Company (1984)**
-- Judi Dench w roli tytułowej
-- Tłumaczenie: Hanif Kureishi
-- Barbican Theatre, Londyn
-- Krytykowana za zbyt emocjonalne podejście
+- Judi Dench in title role
+- Translation: Hanif Kureishi
+- Barbican Theatre, London
+- Criticized for overly emotional approach
 
-### Współczesne Megaprodukcje
+### Contemporary Mega-Productions
 
 **7. Royal National Theatre (1995)**
-- Diana Rigg w roli głównej
-- Adaptacja: David Hare
-- Reżyseria: Jonathan Kent
-- Evening Standard Theatre Award dla Rigg
-- Alternatywny tytuł: "The Silencing of Mother Courage"
+- Diana Rigg in lead role
+- Adaptation: David Hare
+- Direction: Jonathan Kent
+- Evening Standard Theatre Award for Rigg
+- Alternative title: "The Silencing of Mother Courage"
 
 **8. Shakespeare in the Park (2006)**
-- Meryl Streep jako Matka Courage
-- Kevin Kline jako Kucharz
-- Tłumaczenie: Tony Kushner
-- Muzyka: Jeanine Tesori
-- Reżyseria: George C. Wolfe
+- Meryl Streep as Mother Courage
+- Kevin Kline as The Cook
+- Translation: Tony Kushner
+- Music: Jeanine Tesori
+- Direction: George C. Wolfe
 - Delacorte Theater, Central Park
 
 **9. Royal National Theatre (2009)**
-- Fiona Shaw w roli tytułowej
-- Reżyseria: Deborah Warner
-- Nowe piosenki wykonywane przez Duke Special na żywo
+- Fiona Shaw in title role
+- Direction: Deborah Warner
+- New songs performed live by Duke Special
 
 **10. Arena Stage, Washington DC (2014)**
-- Kathleen Turner jako Matka Courage
-- Adaptacja: David Hare
-- 13 nowych piosenek
-- Komentarz do współczesnych konfliktów
+- Kathleen Turner as Mother Courage
+- Adaptation: David Hare
+- 13 new songs
+- Commentary on contemporary conflicts
 
-## III. WPŁYW NA TWÓRCÓW I ARTYSTÓW
+## III. INFLUENCE ON CREATORS AND ARTISTS
 
-### Dramaturgia
+### Dramaturgy
 
 **11. Lynn Nottage - "Ruined" (2009)**
-- Bezpośrednia inspiracja "Matką Courage"
-- Nagroda Pulitzera
-- Osadzona w Demokratycznej Republice Konga
-- Powstała po pobycie z kobietami w obozach uchodźców w Ugandzie
+- Direct inspiration from "Mother Courage"
+- Pulitzer Prize winner
+- Set in Democratic Republic of Congo
+- Created after time with women in refugee camps in Uganda
 
 **12. Dan O'Brien - "The Body of an American" (2014)**
-- Nagroda Edwarda Kennedy'ego
-- Współczesna parafraza tematów Brechta
-- Wojny w Somalii, Rwandzie, Iraku, Afganistanie
+- Edward Kennedy Prize winner
+- Contemporary paraphrase of Brechtian themes
+- Wars in Somalia, Rwanda, Iraq, Afghanistan
 
-### Kompozytorzy i Muzycy
+### Composers and Musicians
 
 **13. Duke Special - album "Mother Courage and Her Children" (2010)**
-- Kompletna adaptacja muzyczna
-- Teksty Brechta w tłumaczeniu Tony'ego Kushnera
-- Współczesne aranżacje dla National Theatre
+- Complete musical adaptation
+- Brecht's lyrics in Tony Kushner translation
+- Contemporary arrangements for National Theatre
 
 **14. Jeanine Tesori (2006)**
-- Nowa muzyka do produkcji z Meryl Streep
-- Współpracowniczka Tony'ego Kushnera przy "Caroline, or Change"
+- New music for Meryl Streep production
+- Collaborator with Tony Kushner on "Caroline, or Change"
 
 **15. Duncan Sheik (2016)**
-- Kompozytor "Spring Awakening"
-- Nowa partytura do współczesnych produkcji
+- Composer of "Spring Awakening"
+- New score for contemporary productions
 
 **16. Daniel Daly**
-- Współczesny kompozytor
-- Odmówił słuchania wcześniejszych wersji
-- Świeże podejście do muzyki Brechta
+- Contemporary composer
+- Refused to listen to earlier versions
+- Fresh approach to Brecht's music
 
-### Zespoły Muzyczne
+### Musical Groups
 
 **17. Courage Mother**
-- Post-hardcore zespół z Virginia
-- Nazwa nawiązuje do sztuki
-- Teksty o traumie i rozwoju osobistym
-- Liderka: Lily Monico (salwadorsko-amerykańska autorka)
+- Post-hardcore band from Virginia
+- Name references the play
+- Lyrics about trauma and personal development
+- Leader: Lily Monico (Salvadoran-American author)
 
-## IV. TEATR EPICKI - REWOLUCJA TEATRALNA
+## IV. EPIC THEATER - THEATRICAL REVOLUTION
 
-### Techniki Brechtowskie
+### Brechtian Techniques
 
-**18. Efekt Obcości (Verfremdungseffekt)**
-- Przełamywanie iluzji teatralnej
-- Zwracanie się aktorów do publiczności
-- Widoczne elementy scenograficzne
-- Dystans krytyczny zamiast empatii
+**18. Alienation Effect (Verfremdungseffekt)**
+- Breaking theatrical illusion
+- Actors addressing audience directly
+- Visible set elements
+- Critical distance instead of empathy
 
-**19. Wpływ na Współczesny Teatr Polityczny**
-- Użycie transparentów i plakatów
-- Protestujący wchodzący między publiczność
-- Komentarze do bieżących wydarzeń politycznych
-- Teatr jako narzędzie perswazji politycznej
+**19. Influence on Contemporary Political Theater**
+- Use of banners and posters
+- Protesters entering among audience
+- Commentary on current political events
+- Theater as tool of political persuasion
 
-### Teoretycy i Reżyserzy
+### Theorists and Directors
 
 **20. Oskar Eustis**
-- Dyrektor The Public Theater
-- Nazywa sztukę "największą XX wieku"
-- Promotor adaptacji Tony'ego Kushnera
+- Director of The Public Theater
+- Calls the play "greatest of the 20th century"
+- Promoter of Tony Kushner's adaptation
 
 **21. George C. Wolfe**
-- Reżyser produkcji z 2006 r.
-- Adaptował Brechta do komentarza o wojnie w Iraku
+- Director of 2006 production
+- Adapted Brecht to comment on Iraq War
 
 **22. Michał Zadara**
-- Polska adaptacja (2016)
-- Teatr Narodowy w Warszawie
-- Osadzona w przyszłej Warszawie
-- Kontekst rozpadu Unii Europejskiej
+- Polish adaptation (2016)
+- National Theatre in Warsaw
+- Set in future Warsaw
+- Context of European Union collapse
 
-## V. EDUKACJA I PROGRAMY UNIWERSYTECKIE
+## V. EDUCATION AND UNIVERSITY PROGRAMS
 
-### Uczelnie Teatralne
+### Theater Schools
 
 **23. Princeton University (Lewis Center for the Arts)**
-- Produkcja studencka z adaptacją Kushnera
-- Praca dyplomowa studentki
-- "Przerażające wyzwanie" dla młodych aktorów
+- Student production with Kushner adaptation
+- Thesis work for student
+- "Terrifying challenge" for young actors
 
 **24. University of Washington School of Drama**
-- Reżyseria: Steve Pearson
-- Część programu studiów teatralnych
+- Direction: Steve Pearson
+- Part of theatrical studies program
 
 **25. Columbia University (Arts Initiative)**
-- Określana jako "arcydzieło teatru epickiego"
-- Część programu edukacyjnego o dramacie współczesnym
+- Described as "masterpiece of epic theater"
+- Part of contemporary drama education program
 
 **26. Carnegie Mellon University School of Drama**
-- Zaawansowane studia aktorskie
+- Advanced acting studies
 - "Scene Study and Style"
 
 **27. San Antonio College**
-- Tłumaczenie Tony'ego Kushnera
-- Program dramatu dla młodzieży
+- Tony Kushner translation
+- Youth drama program
 
 **28. Brigham Young University**
-- Departament Theatre and Media Arts
+- Theatre and Media Arts Department
 - Pardoe Theatre
 
-### Materiały Edukacyjne
+### Educational Materials
 
 **29. Audiobook - zpe.gov.pl**
-- "Jak czytać dramaty? Dramat epicki: Bertolt Brecht, Matka Courage i jej dzieci"
-- Oficjalny materiał edukacyjny dla polskich szkół
+- "How to read dramas? Epic drama: Bertolt Brecht, Mother Courage and Her Children"
+- Official educational material for Polish schools
 
 **30. Spotify Playlist - Seattle Shakespeare Company**
-- Playlista z adaptacjami piosenek Brechta
-- Nowoczesne interpretacje artystów współczesnych
+- Playlist with adaptations of Brecht's songs
+- Modern interpretations by contemporary artists
 
-## VI. WPŁYW NA KULTURĘ POLSKĄ
+## VI. INFLUENCE ON POLISH CULTURE
 
-### Historyczne Znaczenie
+### Historical Significance
 
-**31. "Wojna o Brechta" (1952)**
-- Gościnne występy Berliner Ensemble w Polsce
-- Warszawa, Łódź, Kraków
-- Oburzenie ideologów komunistycznych
-- Aktywne dyskusje w prasie teatralnej
+**31. "War over Brecht" (1952)**
+- Guest performances by Berliner Ensemble in Poland
+- Warsaw, Łódź, Kraków
+- Outrage from communist ideologues
+- Active discussions in theatrical press
 
-**32. Pierwsza premiera (1957)**
-- Teatr Żydowski im. Ester Rachel Kamińskiej
-- Interpretacja przez pryzmat traumy Holokaustu
-- Ida Kamińska jako tragiczna żydowska matka
-- Recenzja Jana Kotta: "tragedia odegrana na tekście Brechta"
+**32. First premiere (1957)**
+- Ester Rachel Kamińska Jewish Theater
+- Interpretation through Holocaust trauma lens
+- Ida Kamińska as tragic Jewish mother
+- Jan Kott's review: "tragedy played on Brecht's text"
 
-### Współczesne Interpretacje
+### Contemporary Interpretations
 
-**33. Teatr Narodowy - adaptacja Michała Zadary (2016)**
-- Warszawa przyszłości z czołgami
-- Kontekst europejskiego kryzysu
-- "Matka chroniąca dzieci przed wojną"
-- Komentarz do współczesnej sytuacji geopolitycznej
+**33. National Theatre - Michał Zadara adaptation (2016)**
+- Future Warsaw with tanks
+- Context of European crisis
+- "Mother protecting children from war"
+- Commentary on contemporary geopolitical situation
 
-**34. Teatr Mazowiecki**
-- Pierwsza polska premiera w języku polskim
-- Przekład na język polski
+**34. Mazowiecki Theatre**
+- First Polish premiere in Polish language
+- Translation into Polish
 
-## VII. MIĘDZYNARODOWE ADAPTACJE KULTUROWE
+## VII. INTERNATIONAL CULTURAL ADAPTATIONS
 
-### Adaptacje Etniczne i Kulturowe
+### Ethnic and Cultural Adaptations
 
 **35. The Public Theater (1980)**
-- Adaptacja Ntozake Shange
-- Osadzona w amerykańskim Południu
-- Okres Rekonstrukcji po wojnie secesyjnej
-- Gloria Foster jako Matka Courage
-- Reżyseria: Wilford Leach
+- Adaptation by Ntozake Shange
+- Set in American South
+- Reconstruction period after Civil War
+- Gloria Foster as Mother Courage
+- Direction: Wilford Leach
 
 **36. Royal Exchange Theatre, Manchester (2019)**
-- Adaptacja Anna Jordan
-- Współczesne podejście brytyjskie
-- Aktualizacja tematów
+- Adaptation by Anna Jordan
+- Contemporary British approach
+- Updated themes
 
-### Konteksty Polityczne
+### Political Contexts
 
-**37. Komentarz do Wojny w Iraku (2006)**
-- Produkcja z Meryl Streep
-- Tłumaczenie Tony'ego Kushnera z wulgaryzmami
-- Bezpośrednie odniesienia do konfliktów amerykańskich
-- "Theater of War" jako tytuł dokumentu
+**37. Commentary on Iraq War (2006)**
+- Production with Meryl Streep
+- Tony Kushner translation with profanity
+- Direct references to American conflicts
+- "Theater of War" as documentary title
 
-**38. Komentarz do Konfliktów Współczesnych**
-- Produkcje nawiązujące do wojen w Afganistanie
-- Kryzys uchodźczy w Europie
-- Konflikty w Afryce (inspiracja dla "Ruined")
+**38. Commentary on Contemporary Conflicts**
+- Productions referencing wars in Afghanistan
+- European refugee crisis
+- African conflicts (inspiration for "Ruined")
 
-## VIII. CYTATY I NAWIĄZANIA W KULTURZE
+## VIII. QUOTES AND REFERENCES IN CULTURE
 
-### Literatura Akademicka
+### Academic Literature
 
 **39. "Pairing Mother Courage and The Body of an American"**
 - Pedagogy & American Literary Studies
-- Zestawienie z dramatem Dana O'Briena
-- Metodologia nauczania literatury wojennej
+- Pairing with Dan O'Brien's drama
+- War literature teaching methodology
 
 **40. ResearchGate: "Shedding Light on Different Themes"**
-- Akademickie analizy tematyczne
-- Wpływ na badania literaturoznawcze
+- Academic thematic analyses
+- Influence on literary studies research
 
-### Krytyka Teatralna
+### Theater Criticism
 
 **41. SparkNotes Study Guides**
-- Analiza tematów, motywów, cytatów
-- Narzędzie edukacyjne dla studentów
-- Popularyzacja dzieła Brechta
+- Analysis of themes, motifs, quotes
+- Educational tool for students
+- Popularization of Brecht's work
 
 **42. LitCharts Analysis**
-- Przewodnik literacki online
-- Współczesne interpretacje klasycznego tekstu
+- Online literary guide
+- Contemporary interpretations of classic text
 
-## IX. MERCHANDISING I KOMERCJALIZACJA
+## IX. MERCHANDISING AND COMMERCIALIZATION
 
-### Wydania Książkowe
+### Book Editions
 
 **43. Modern Classics Series**
-- Wydanie Methuen Drama
-- Tłumaczenie Tom Kuhn i Tony Kushner
+- Methuen Drama edition
+- Translation by Tom Kuhn and Tony Kushner
 - ISBN: 9781408111512
-- Amazon bestseller w kategorii dramatu
+- Amazon bestseller in drama category
 
 **44. Lubimyczytac.pl**
-- Polska platforma czytelnicza
-- Oceny i recenzje polskich czytelników
-- Popularność wśród polskiej publiczności
+- Polish reading platform
+- Reviews and ratings by Polish readers
+- Popularity among Polish audience
 
-### Nagrania Audio i Muzyczne
+### Audio and Musical Recordings
 
 **45. Bandcamp - "Music | Courage Mother"**
-- Zespół inspirowany sztuką
-- Sprzedaż cyfrowa muzyki
-- Niezależna scena muzyczna
+- Band inspired by the play
+- Digital music sales
+- Independent music scene
 
 **46. Amazon: Theater of War DVD**
-- Dokumentalny film o produkcji
+- Documentary film about production
 - Meryl Streep, Kevin Kline, Tony Kushner
-- Komercyjna dystrybucja
+- Commercial distribution
 
-## X. MIEJSCA TEMATYCZNE I MUZEA
+## X. THEMED PLACES AND MUSEUMS
 
 ### Berliner Ensemble
 
-**47. Muzeum Brechta w Berlinie**
+**47. Brecht Museum in Berlin**
 - Theater am Schiffbauerdamm
-- Archiwum spektakli "Matki Courage"
-- Turystyka kulturalna
+- Archive of "Mother Courage" productions
+- Cultural tourism
 
 **48. Brecht-Weigel-Museum**
-- Dom Brechta i Helene Weigel
-- Pamiątki po produkcji z 1949 r.
-- Centrum badań nad teatrem epicki
+- Home of Brecht and Helene Weigel
+- Memorabilia from 1949 production
+- Epic theater research center
 
-### Uniwersytet Massachusetts
+### University of Massachusetts
 
 **49. DEFA Film Library**
-- Archiwum filmu z 1961 r.
-- Badania nad kinem NRD
-- Digitalizacja dziedzictwa kulturowego
+- Archive of 1961 film
+- East German cinema research
+- Cultural heritage digitization
 
-## XI. SPOŁECZNOŚCI FANÓW I FANDOM
+## XI. FAN COMMUNITIES AND FANDOM
 
-### Społeczności Akademickie
+### Academic Communities
 
-**50. Encyklopedia Teatru Polskiego**
-- Szczegółowe opisy wszystkich polskich produkcji
-- Społeczność badaczy teatru
-- Digitalne archiwum kultury teatralnej
+**50. Encyclopedia of Polish Theater**
+- Detailed descriptions of all Polish productions
+- Theater researchers community
+- Digital archive of theatrical culture
 
 **51. East German Cinema Blog**
-- Społeczność miłośników kina NRD
-- Analizy filmu z 1961 r.
-- Międzynarodowa społeczność badaczy
+- Community of East German cinema enthusiasts
+- Analysis of 1961 film
+- International researchers community
 
-### Platformy Edukacyjne
+### Educational Platforms
 
 **52. Course Hero**
-- Materiały studenckie online
-- Analiza kontekstu historycznego
-- Społeczność studentów i wykładowców
+- Online student materials
+- Historical context analysis
+- Students and instructors community
 
 **53. Theatricalia**
-- Baza danych produkcji teatralnych
-- Społeczność miłośników teatru
-- Dokumentacja historii teatru
+- Theater productions database
+- Theater enthusiasts community
+- Theater history documentation
 
-## XII. KONTROWERSJE I DEBATY
+## XII. CONTROVERSIES AND DEBATES
 
-### Interpretacje Polityczne
+### Political Interpretations
 
-**54. "Wojna o Brechta" w Polsce (1952)**
-- Sprzeciw władz komunistycznych
-- Debaty o sztuce zaangażowanej politycznie
-- Konflikt między sztuką a ideologią
+**54. "War over Brecht" in Poland (1952)**
+- Opposition from communist authorities
+- Debates about politically engaged art
+- Conflict between art and ideology
 
-**55. Krytyka "Zbyt Emocjonalnych" Interpretacji**
-- Produkcja z Judi Dench (1984)
-- Zarzuty o odejście od intencji Brechta
-- Debata o "dystansie krytycznym"
+**55. Criticism of "Too Emotional" Interpretations**
+- Production with Judi Dench (1984)
+- Accusations of departing from Brecht's intentions
+- Debate about "critical distance"
 
-### Akademickie Kontrowersje
+### Academic Controversies
 
-**56. Interpretacja Holokaustu (1957)**
-- Ida Kamińska a intencje Brechta
-- Uniwersalizm vs. specyfika żydowska
-- Jan Kott o "innej tragedii"
+**56. Holocaust Interpretation (1957)**
+- Ida Kamińska vs. Brecht's intentions
+- Universalism vs. Jewish specificity
+- Jan Kott about "another tragedy"
 
-## XIII. WSPÓŁCZESNE NAWIĄZANIA CYFROWE
+## XIII. CONTEMPORARY DIGITAL REFERENCES
 
-### Streaming i Cyfrowa Kultura
+### Streaming and Digital Culture
 
-**57. Spotify: Interpretacje Brechtowskich Piosenek**
-- Współczesni artyści wykonujący utwory z sztuki
-- Playlisy teatralne
-- Globalna dostępność kultury
+**57. Spotify: Interpretations of Brechtian Songs**
+- Contemporary artists performing songs from the play
+- Theatrical playlists
+- Global culture accessibility
 
-**58. Letterboxd: Film z 1961 r.**
-- Społeczność filmowa online
-- Oceny i recenzje współczesnych widzów
-- 7.9/10 średnia ocena
+**58. Letterboxd: 1961 Film**
+- Online film community
+- Contemporary viewers' ratings and reviews
+- 7.9/10 average rating
 
-### Platformy Edukacyjne Online
+### Online Educational Platforms
 
-**59. YouTube: Materiały Edukacyjne**
-- Fragmenty spektakli
-- Analizy akademickie
-- Globalna edukacja teatralna
+**59. YouTube: Educational Materials**
+- Production excerpts
+- Academic analyses
+- Global theatrical education
 
 **60. Coursework Platforms**
-- Materiały dla studentów online
-- Międzynarodowa wymiana akademicka
-- Cyfrowa dostępność klasyki
+- Online student materials
+- International academic exchange
+- Digital accessibility of classics
 
-## Podsumowanie
+## Summary
 
-"Matka Courage i jej dzieci" pozostaje żywym dziełem kultury, które przez ponad 80 lat nieprzerwanie inspiruje twórców, edukatorów i publiczność na całym świecie. Od przełomowego spektaklu Berliner Ensemble z 1949 r., przez traumatyczną interpretację Idy Kamińskiej, po współczesne megaprodukcje z Meryl Streep czy Fioną Shaw - sztuka Brechta udowadnia swoją uniwersalność i aktualność.
+"Mother Courage and Her Children" remains a living work of culture that has continuously inspired creators, educators and audiences worldwide for over 80 years. From the groundbreaking 1949 Berliner Ensemble production, through Ida Kamińska's traumatic interpretation, to contemporary mega-productions with Meryl Streep or Fiona Shaw - Brecht's play proves its universality and relevance.
 
-Wpływ kulturowy dzieła wykracza daleko poza teatr: inspiruje muzyków (Duke Special, Courage Mother), dramaturgów (Lynn Nottage), reżyserów filmowych, a nawet zespoły post-hardcore. Techniki teatru epickiego Brechta zrewolucjonizowały sposób myślenia o teatrze politycznym, a efekt obcości stał się stałym elementem współczesnego teatru.
+The cultural impact of the work extends far beyond theater: it inspires musicians (Duke Special, Courage Mother), playwrights (Lynn Nottage), film directors, and even post-hardcore bands. Brecht's epic theater techniques revolutionized thinking about political theater, and the alienation effect became a permanent element of contemporary theater.
 
-W Polsce sztuka ma szczególne znaczenie - od kontrowersyjnej "wojny o Brechta" w 1952 r., przez przełomową interpretację Holokaustu w wykonaniu Idy Kamińskiej, po współczesny komentarz Michała Zadary o kryzysie europejskim. "Matka Courage" pozostaje jednym z najważniejszych tekstów kultury XX i XXI wieku, który nadal przemawia do współczesnych odbiorców o kosztach wojny, kapitalizmie i ludzkim przetrwaniu.
+In Poland, the play has special significance - from the controversial "war over Brecht" in 1952, through Ida Kamińska's groundbreaking Holocaust interpretation, to Michał Zadara's contemporary commentary on the European crisis. "Mother Courage" remains one of the most important texts of 20th and 21st century culture, which still speaks to contemporary audiences about the costs of war, capitalism and human survival.
 
-Sztuka jest regularnie wystawiana na najważniejszych scenach świata, stanowi obowiązkowy materiał w programach uniwersyteckich, inspiruje nowe dzieła sztuki i pozostaje żywym komentarzem do współczesnych konfliktów globalnych. To testament trwałości wielkiej sztuki, która przekracza granice czasu, kultury i języka.
+The play is regularly performed on the world's most important stages, constitutes mandatory material in university programs, inspires new works of art and remains a living commentary on contemporary global conflicts. It is a testament to the durability of great art that transcends the boundaries of time, culture and language.

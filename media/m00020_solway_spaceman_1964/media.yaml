@@ -1,0 +1,15 @@
+media_info:
+  title: Solway Spaceman Photograph - 1964
+  author: Historical Documentation
+  year: 1964
+  genre: Unexplained Phenomena Documentary
+  description: A mysterious figure in white appeared in the background of a family
+    photograph taken in Carlisle, creating one of UFO's most famous images
+  target_audience: General public, students, UFO researchers, photography enthusiasts
+  duration: ~3 minutes
+  objective: Investigate the enigmatic photograph that baffled experts for decades
+    and explore theories about the identity of the mysterious figure
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "SOBEPS Report Publication"
+  setting:
+    time: "1991, daytime"
+    location: "SOBEPS office, Brussels, Belgium"
+    weather: "Bright day, indoor office environment"
+  characters:
+    - appearance: "Academic researcher, 40s-50s, physics professor appearance, serious expression"
+      clothing: "Business casual attire typical of academics - dress shirt, slacks, sometimes lab coat or jacket"
+      position: "Seated at desk with completed comprehensive report"
+      action: "Taking notes, examining documents, carrying notebooks and recording equipment"
+  scene:
+    mainElements: "Academic office with completed investigation materials and published documentation"
+    details: "Comprehensive witness reports, technical radar data analysis, maps of Belgium with sighting location pins, photographs, investigative notebooks, recording equipment now organized into comprehensive published report. Stacks of completed documentation from months of investigation work. Professional presentation of compiled witness testimonies and technical analysis."
+    background: "Bookshelves with scientific publications, office windows showing Brussels cityscape"
+    atmosphere: "Professional completion of serious academic investigation into unexplained phenomena"
+  composition:
+    cameraAngle: "Medium shot focusing on completed investigation documentation"
+    focus: "SOBEPS researcher with published comprehensive report on Belgian UFO wave"
+    depth: "Foreground: researcher and completed report materials, middle ground: organized office environment, background: academic setting with reference materials, no text or letters visible"

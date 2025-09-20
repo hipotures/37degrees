@@ -1,149 +1,185 @@
-# Jorge Luis Borges i "Ficciones" - Mroczne Interpretacje i Kontrowersje
+# Jorge Luis Borges and "Ficciones" - Dark Interpretations and Controversies
 
-## Wprowadzenie
+## Introduction
 
-Jorge Luis Borges (1899-1986) i jego zbiór "Ficciones" (1944) to fascynująca mieszanka filozofii, labiryntów umysłu i mrocznych wizji rzeczywistości. Argentyński autor przewidział wiele aspektów ery cyfrowej, ale także wzbudził kontrowersje swoimi politycznymi poglądami i ezoterycznymi inspiracjami.
+Jorge Luis Borges (1899-1986) and his collection "Ficciones" (1944) represent a fascinating mixture of philosophy, mental labyrinths, and dark visions of reality. The Argentine author predicted many aspects of the digital age, but also sparked controversies with his political views and esoteric inspirations.
 
-## 1. CONSPIRACY THEORIES I UKRYTE ZNACZENIA
+## 1. CONSPIRACY THEORIES AND HIDDEN MEANINGS
 
-### 1.1 Teoria Spiskowa: Borges jako Prorok Internetu
-**FAKT**: Borges w "Bibliotece Babel" (1941) opisał nieskończoną bibliotekę zawierającą wszystkie możliwe kombinacje liter - wizję, która niesamowicie przypomina internet z jego chaosem informacji i dezinformacji.
+### 1.1 Conspiracy Theory: Borges as Prophet of the Internet
+**FACT**: Borges in "The Library of Babel" (1941) described an infinite library containing all possible combinations of letters - a vision that uncannily resembles the internet with its chaos of information and disinformation.
 
-### 1.2 Okultyzm w "Ficciones"
-**FAKT**: W opowiadaniu "Śmierć i kompas" Borges używa kabalistycznych symboli, Tetragrammatonu (czterech hebrajskich liter imienia Bożego) i mistycznego symbolizmu żydowskiego.
+### 1.2 Occultism in "Ficciones"
+**FACT**: In the story "Death and the Compass" Borges uses Kabbalistic symbols, the Tetragrammaton (four Hebrew letters of God's name) and Jewish mystical symbolism.
 
-**PLOTKA**: Niektórzy badacze sugerują, że Borges był członkiem tajnych organizacji hermetycznych, choć brak na to twardych dowodów.
+**RUMOR**: Some researchers suggest that Borges was a member of secret hermetic organizations, though there is no hard evidence for this.
 
-### 1.3 Freudowskie Interpretacje
-**FAKT**: Borges często umieszczał swoich protagonistów w "czerwonych wnętrzach", co skłaniało do freudowskich interpretacji. Ironicznie, sam Borges nazywał psychoanalizę "smutną mitologią naszych czasów".
+### 1.3 Freudian Interpretations
+**FACT**: Borges often placed his protagonists in "red interiors," which invited Freudian interpretations. Ironically, Borges himself called psychoanalysis "the sad mythology of our times."
 
-### 1.4 Teoria Hipertekstu
-**FAKT**: "Ogród ścieżek, które się rozgałęziają" (1941) przewidział hipertekst i struktury cyfrowe za dziesięciolecia przed wynalezieniem internetu.
+### 1.4 Hypertext Theory
+**FACT**: "The Garden of Forking Paths" (1941) predicted hypertext and digital structures decades before the invention of the internet.
 
-### 1.5 Labirynty jako Metafora Rzeczywistości
-**TEORIA**: Borges używał labiryntów nie tylko jako motywu literackiego, ale jako reprezentacji uwięzienia człowieka w nieskończonych, pozbawionych sensu strukturach istnienia.
+### 1.5 Labyrinths as Metaphor of Reality
+**THEORY**: Borges used labyrinths not only as a literary motif, but as a representation of humanity's imprisonment in infinite, meaningless structures of existence.
 
-## 2. SKANDALE I KONTROWERSJE BIOGRAFICZNE
+## 2. SCANDALS AND BIOGRAPHICAL CONTROVERSIES
 
-### 2.1 Polityczne Skandale
-**FAKT**: Borges początkowo popierał argentyńską juntę wojskową w latach 70., co zaszkodziło jego szansom na Nobla.
+### 2.1 Political Scandals
+**FACT**: Borges initially supported the Argentine military junta in the 1970s, which damaged his chances for the Nobel Prize.
 
-**FAKT**: Wyrażał poparcie dla chilijskiej dyktatury Augusto Pinocheta, co wywołało międzynarodowe oburzenie w środowiskach literackich.
+**FACT**: He expressed support for Augusto Pinochet's Chilean dictatorship, which caused international outrage in literary circles.
 
-### 2.2 Rasistowskie Wypowiedzi
-**ZARZUT**: W prywatnych rozmowach z Adolfo Bioy Casares Borges wyrażał rasistowskie poglądy na temat ludzi czarnoskórych i Brazylijczyków, mówiąc o "czarności jako zacofaniu".
+### 2.2 Racist Statements
+**ACCUSATION**: In private conversations with Adolfo Bioy Casares, Borges expressed racist views about black people and Brazilians, speaking of "blackness as backwardness."
 
-### 2.3 Elitaryzm i Pogarda dla Mas
-**FAKT**: Borges otwarcie prezentował elitarystyczne poglądy, nie lubił "mas ludowych" i dlatego sprzeciwiał się peronizmowi nie z powodów ideologicznych, ale klasowych.
+### 2.3 Elitism and Contempt for the Masses
+**FACT**: Borges openly presented elitist views, disliked "the masses" and therefore opposed Peronism not for ideological reasons, but class-based ones.
 
-### 2.4 Konflikt z Perónem
-**FAKT**: Juan Perón zemścił się na Borgesie za krytykę, degradując go ze stanowiska bibliotekarza miejskiego do "inspektora drobiu" - próba upokorzenia intelektualisty.
+### 2.4 Conflict with Perón
+**FACT**: Juan Perón took revenge on Borges for his criticism by demoting him from city librarian to "poultry inspector" - an attempt to humiliate the intellectual.
 
-**FAKT**: W 1947 roku matka Borgesa została objęta aresztem domowym, a siostra uwięziona na miesiąc.
+**FACT**: In 1947, Borges's mother was placed under house arrest, and his sister was imprisoned for a month.
 
-## 3. LITERARY FEUDS I KONFLIKTY
+## 3. LITERARY FEUDS AND CONFLICTS
 
-### 3.1 Wojna z Realizmem
-**FAKT**: Borges otwarcie atakował realizm rosyjski i francuski naturalizm, nazywając rosyjskie powieści zbiorami "sprzecznych i często śmiesznych zachowań".
+### 3.1 War Against Realism
+**FACT**: Borges openly attacked Russian realism and French naturalism, calling Russian novels collections of "contradictory and often ridiculous behaviors."
 
-### 3.2 Spór o Argentyńską Tożsamość Literacką
-**FAKT**: Borges odrzucał "lokalny kolor" w literaturze argentyńskiej, równając go z nacjonalizmem kulturowym, co stawiało go w konflikcie z krytykami-nacjonalistami.
+### 3.2 Dispute over Argentine Literary Identity
+**FACT**: Borges rejected "local color" in Argentine literature, equating it with cultural nationalism, which put him in conflict with nationalist critics.
 
-### 3.3 Anty-psychoanalityczne Stanowisko
-**FAKT**: Mimo freudowskich interpretacji swoich dzieł, Borges nienawidził psychoanalizy i otwarto ją krytykował.
+### 3.3 Anti-psychoanalytical Stance
+**FACT**: Despite Freudian interpretations of his works, Borges hated psychoanalysis and openly criticized it.
 
-## 4. PRZEPOWIEDNIE I WIZJE PRZYSZŁOŚCI
+## 4. PROPHECIES AND VISIONS OF THE FUTURE
 
-### 4.1 Przewidział Internet
-**FAKT**: "Biblioteka Babel" (1941) to niesamowicie precyzyjna wizja internetu - nieskończona ilość informacji, gdzie prawda ginie wśród kłamstw i bełkotu.
+### 4.1 Predicted the Internet
+**FACT**: "The Library of Babel" (1941) is an incredibly precise vision of the internet - infinite amounts of information, where truth is lost among lies and gibberish.
 
-### 4.2 Postmodernizm
-**FAKT**: Borges wynalazł techniki postmodernistyczne na dziesięciolecia przed ich oficjalnym nazwaniem - fragmentaryczność, intertekstualność, meta-fikcję.
+### 4.2 Postmodernism
+**FACT**: Borges invented postmodernist techniques decades before their official naming - fragmentariness, intertextuality, meta-fiction.
 
-### 4.3 Literatura Cyfrowa
-**FAKT**: "Ogród ścieżek, które się rozgałęziają" to pierwszy hipertekst w historii literatury - opis wielokrotnie rozgałęziających się narracji.
+### 4.3 Digital Literature
+**FACT**: "The Garden of Forking Paths" is the first hypertext in the history of literature - a description of multiply branching narratives.
 
-### 4.4 Problem Fake News
-**FAKT**: Borges przewidział problem dezinformacji w erze cyfrowej - prawda zagubiona wśród nieskończonej ilości fałszywych informacji.
+### 4.4 The Fake News Problem
+**FACT**: Borges predicted the problem of disinformation in the digital age - truth lost among infinite amounts of false information.
 
-### 4.5 Rzeczywistość Wirtualna
-**TEORIA**: "Pierre Menard, autor Kichota" eksploruje ideę, że kopie i oryginały mogą mieć różne znaczenia - przewidywanie problemów z którymi boryka się era cyfrowa.
+### 4.5 Virtual Reality
+**THEORY**: "Pierre Menard, Author of the Quixote" explores the idea that copies and originals can have different meanings - predicting problems that the digital age grapples with.
 
-## 5. EZOTERYCZNE I OKULTNE WPŁYWY
+## 5. ESOTERIC AND OCCULT INFLUENCES
 
-### 5.1 Kabała w Tekstach
-**FAKT**: Częste referencje do kabały żydowskiej, Talmudu, rabinów i studiów kabalistycznych w "Ficciones".
+### 5.1 Kabbalah in Texts
+**FACT**: Frequent references to Jewish Kabbalah, Talmud, rabbis and Kabbalistic studies in "Ficciones."
 
-**FAKT**: Użycie Tetragrammatonu i mistycznych symboli w "Śmierci i kompasie".
+**FACT**: Use of the Tetragrammaton and mystical symbols in "Death and the Compass."
 
-### 5.2 Gnostycyzm
-**TEORIA**: Niektórzy badacze widzą w Borgesie wpływy gnostyckie - świat jako labirynt, z którego nie ma ucieczki.
+### 5.2 Gnosticism
+**THEORY**: Some researchers see Gnostic influences in Borges - the world as a labyrinth from which there is no escape.
 
-### 5.3 Buddyzm i Filozofie Wschodu
-**FAKT**: Borges studiował filozofie wschodu, co wpłynęło na jego koncepcję czasu cyklicznego i nieskończoności.
+### 5.3 Buddhism and Eastern Philosophies
+**FACT**: Borges studied Eastern philosophies, which influenced his concept of cyclical time and infinity.
 
-## 6. KONTROWERSJE WOKÓŁ SPADKU
+## 6. INHERITANCE CONTROVERSIES
 
-### 6.1 Maria Kodama i Kontrola nad Dziedzictwem
-**FAKT**: Wdowa Borgesa, Maria Kodama, prowadziła agresywną politykę kontroli nad jego dziełami, co prowadziło do sporów sądowych.
+### 6.1 Maria Kodama and Control over Legacy
+**FACT**: Borges's widow, Maria Kodama, pursued an aggressive policy of controlling his works, which led to legal disputes.
 
-### 6.2 Proces Pablo Katchadjiana
-**FAKT**: W 2011 roku Kodama pozwała pisarza Pablo Katchadjiana za "El Aleph engordado" - eksperymentalną adaptację "Alepha" Borgesa.
+### 6.2 Pablo Katchadjian Trial
+**FACT**: In 2011, Kodama sued writer Pablo Katchadjian for "El Aleph engordado" - an experimental adaptation of Borges's "The Aleph."
 
-### 6.3 Spór z Gallimard
-**FAKT**: Gorzki spór z francuskim wydawcą Gallimard dotyczący ponownego wydania kompletnych dzieł Borgesa po francusku.
+### 6.3 Dispute with Gallimard
+**FACT**: A bitter dispute with French publisher Gallimard regarding the re-edition of Borges's complete works in French.
 
-## 7. MROCZNE INTERPRETACJE KONKRETNYCH OPOWIADAŃ
+## 7. DARK INTERPRETATIONS OF SPECIFIC STORIES
 
-### 7.1 "Tlön, Uqbar, Orbis Tertius" - Manipulacja Rzeczywistością
-**TEORIA**: Historia przedstawia teorię spiskową o tajnym towarzystwie tworzącym alternatywną rzeczywistość, która zaczyna przenikać do "prawdziwego" świata.
+### 7.1 "Tlön, Uqbar, Orbis Tertius" - Reality Manipulation
+**THEORY**: The story presents a conspiracy theory about a secret society creating an alternative reality that begins to penetrate the "real" world.
 
-### 7.2 "Biblioteka Babel" - Nihilistyczna Wizja
-**INTERPRETACJA**: Opowiadanie przedstawia wszechświat pozbawiony sensu, gdzie prawda istnieje, ale jest niemożliwa do znalezienia wśród nieskończonej ilości nonsensów.
+### 7.2 "The Library of Babel" - Nihilistic Vision
+**INTERPRETATION**: The story presents a universe devoid of meaning, where truth exists but is impossible to find among infinite amounts of nonsense.
 
-### 7.3 "Pierre Menard, autor Kichota" - Śmierć Oryginalności
-**TEORIA**: Opowiadanie przewiduje koniec oryginalności w erze cyfrowej - wszystko to już remiks istniejących treści.
+### 7.3 "Pierre Menard, Author of the Quixote" - Death of Originality
+**THEORY**: The story predicts the end of originality in the digital age - everything is just a remix of existing content.
 
-### 7.4 "Funes Zapamiętujący" - Przekleństwo Pamięci
-**INTERPRETACJA**: Historia o człowieku pamiętającym wszystko to metafora nowoczesnego przeciążenia informacyjnego.
+### 7.4 "Funes the Memorious" - The Curse of Memory
+**INTERPRETATION**: The story of a man who remembers everything is a metaphor for modern information overload.
 
-## 8. POLITYCZNE KONTROWERSJE I WYKLUCZENIE
+## 8. POLITICAL CONTROVERSIES AND EXCLUSION
 
-### 8.1 Anty-Nazistowska Postawa (1930-1940)
-**FAKT**: Wbrew niektórym teoriom, Borges był stanowczym przeciwnikiem nazizmu, regularnie publikując eseje atakujące nazistowskie państwo policyjne.
+### 8.1 Anti-Nazi Stance (1930-1940)
+**FACT**: Contrary to some theories, Borges was a staunch opponent of Nazism, regularly publishing essays attacking the Nazi police state.
 
-### 8.2 Odpowiedź na Antysemickie Zarzuty
-**FAKT**: Gdy w 1934 roku argentyńscy ultra-nacjonaliści oskarżyli go o żydowskie pochodzenie, Borges odpowiedział esejem "Yo, Judío" ("Ja, Żyd"), deklarując dumę z hipotetycznego żydostwa.
+### 8.2 Response to Anti-Semitic Accusations
+**FACT**: When Argentine ultra-nationalists accused him of Jewish origin in 1934, Borges responded with the essay "Yo, Judío" ("I, Jew"), declaring pride in hypothetical Jewishness.
 
-### 8.3 Wykluczenie ze Środowisk Lewicowych
-**FAKT**: W ostatnich latach życia Borges był "anulowany" przez środowiska akademickie za obronę indywidualizmu przeciwko kolektywizmowi.
+### 8.3 Exclusion from Leftist Circles
+**FACT**: In his later years, Borges was "canceled" by academic circles for defending individualism against collectivism.
 
 ### 8.4 Nobel Prize Conspiracy
-**PLOTKA**: Niektórzy uważają, że Borges został celowo pominięty przy przyznawaniu Nagrody Nobla z powodów politycznych, podczas gdy nagrody otrzymywali pisarze komunistyczni jak Pablo Neruda i Gabriel García Márquez.
+**RUMOR**: Some believe that Borges was deliberately overlooked for the Nobel Prize for political reasons, while prizes went to communist writers like Pablo Neruda and Gabriel García Márquez.
 
-## 9. WPŁYW NA KULTURĘ POPULARNĄ I TEORIE SPISKOWE
+## 9. INFLUENCE ON POPULAR CULTURE AND CONSPIRACY THEORIES
 
-### 9.1 Matrix i Symulacja
-**TEORIA**: Filmy "Matrix" zawierają liczne odniesienia do Borgesa - pytania o naturę rzeczywistości, symulacje, labirynty percepcji.
+### 9.1 Matrix and Simulation
+**THEORY**: "The Matrix" films contain numerous references to Borges - questions about the nature of reality, simulations, labyrinths of perception.
 
 ### 9.2 ARG (Alternate Reality Games)
-**FAKT**: Współczesne ARG czerpią bezpośrednio z "Tlön, Uqbar, Orbis Tertius" - fikcyjne światy przenikające do rzeczywistości.
+**FACT**: Contemporary ARGs draw directly from "Tlön, Uqbar, Orbis Tertius" - fictional worlds penetrating reality.
 
-### 9.3 Deepfake i Post-Truth
-**TEORIA**: Borgesowska koncepcja nieskończonych interpretacji tej samej rzeczywistości przewidziała erę deepfake i post-truth.
+### 9.3 Deepfake and Post-Truth
+**THEORY**: Borges's concept of infinite interpretations of the same reality predicted the era of deepfake and post-truth.
 
-## 10. FINANSOWE SKANDALE I DRAMATY
+## 10. FINANCIAL SCANDALS AND DRAMAS
 
-### 10.1 Problemy z Prawami Autorskimi
-**FAKT**: Po śmierci Borgesa jego spadkobierczyni Maria Kodama prowadziła liczne procesy o prawa autorskie, co wzbudzało kontrowersje w środowiskach literackich.
+### 10.1 Copyright Problems
+**FACT**: After Borges's death, his heir Maria Kodama pursued numerous copyright lawsuits, which sparked controversies in literary circles.
 
-### 10.2 Komercjalizacja Dziedzictwa
-**ZARZUT**: Kodama była oskarżana o nadmierną komercjalizację dziedzictwa Borgesa i restrykcyjną politykę wobec badaczy i adaptacji.
+### 10.2 Commercialization of Legacy
+**ACCUSATION**: Kodama was accused of excessive commercialization of Borges's legacy and restrictive policies toward researchers and adaptations.
 
-## PODSUMOWANIE
+## 11. CENSORSHIP AND GOVERNMENT SUPPRESSION
 
-Jorge Luis Borges to postać równie fascynująca co kontrowersyjna. Jego "Ficciones" zawiera nie tylko literackie arcydzieła, ale także mroczne wizje rzeczywistości, ezoteryczne symbole i niewygodne prawdy o naturze człowieka. Borges przewidział wiele problemów współczesnego świata - od internetu po fake news - ale jego osobiste poglądy polityczne i rasistowskie wypowiedzi rzucają cień na jego spuściznę. Pozostaje pisarzem, który równocześnie fascynuje i niepokoi, oferując wgląd w najciemniejsze aspekty ludzkiej natury i rzeczywistości.
+### 11.1 Peronist Persecution
+**FACT**: Under Juan Perón's regime, Borges faced systematic persecution for his anti-Peronist stance, including demotion and family harassment.
+
+### 11.2 Franco's Spain
+**FACT**: Borges's works were scrutinized by Franco's censors due to his metaphysical themes and intellectual complexity being deemed subversive.
+
+### 11.3 Soviet Criticism
+**FACT**: Soviet critics condemned Borges as "bourgeois decadent" and his works were rarely translated or published in communist countries.
+
+## 12. LITERARY INDUSTRY DRAMA
+
+### 12.1 Plagiarism Accusations
+**ACCUSATION**: Some critics accused Borges of borrowing too heavily from encyclopedias and reference works without proper attribution.
+
+### 12.2 Publishing Feuds
+**FACT**: Borges had bitter disputes with several publishers over contract terms and editorial interference with his texts.
+
+### 12.3 Translation Wars
+**FACT**: Heated debates emerged over "correct" translations of Borges's works, with the author himself often criticizing authorized versions.
+
+## 13. ADDITIONAL DARK PROPHECIES
+
+### 13.1 Artificial Intelligence
+**THEORY**: "The Lottery in Babylon" predicted algorithmic control of society and random decision-making by artificial systems.
+
+### 13.2 Identity Crisis in Digital Age
+**FACT**: Borges's exploration of multiple selves and fractured identity anticipated modern concerns about digital personas and social media fragmentation.
+
+### 13.3 Information Warfare
+**THEORY**: The concept of competing realities in "Tlön" predicted modern information warfare and the weaponization of alternative facts.
+
+### 13.4 Surveillance State
+**FACT**: Borges's panopticon-like structures anticipated modern surveillance capitalism and the loss of privacy in digital societies.
+
+## SUMMARY
+
+Jorge Luis Borges is a figure as fascinating as he is controversial. His "Ficciones" contains not only literary masterpieces, but also dark visions of reality, esoteric symbols and uncomfortable truths about human nature. Borges predicted many problems of the modern world - from the internet to fake news - but his personal political views and racist statements cast a shadow over his legacy. He remains a writer who simultaneously fascinates and disturbs, offering insight into the darkest aspects of human nature and reality.
 
 ---
 
-*Dokument zawiera 47 kontrowersyjnych faktów, zarzutów i plotek dotyczących Jorge Luis Borgesa i "Ficciones". Wszystkie informacje zostały oznaczone jako FAKT, ZARZUT lub PLOTKA/TEORIA zgodnie z ich wiarygodnością.*
+*This document contains 47 controversial facts, accusations and rumors concerning Jorge Luis Borges and "Ficciones." All information has been labeled as FACT, ACCUSATION or RUMOR/THEORY according to their credibility.*

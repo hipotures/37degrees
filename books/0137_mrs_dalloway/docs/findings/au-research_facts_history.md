@@ -1,111 +1,111 @@
-# Badania historyczne i ciekawostki: "Mrs. Dalloway" Virginia Woolf (1925)
+# Historical Research and Facts: "Mrs. Dalloway" by Virginia Woolf (1925)
 
-## Historia powstania dzieła
+## Creation History of the Work
 
-**FAKT**: Virginia Woolf rozpoczęła pierwszy notatnik z "Mrs. Dalloway" 27 czerwca 1923 roku, a do 15 października 1923 napisała setną stronę. Ukończyła manuskrypt jesienią 1924 roku.
+**FACT**: Virginia Woolf began the first notebook for "Mrs. Dalloway" on June 27, 1923, and by October 15, 1923, she had written the hundredth page. She completed the manuscript in autumn 1924.
 
-**FAKT**: Pierwotny tytuł roboczý książki brzmiał "The Hours" (Godziny). Ten tytuł został później "ukradziony" przez Michaela Cunninghama dla jego powieści z 1998 roku, jak sam przyznał: "to była kradzież, czysta i prosta, choć kradzież o szlachetnych intencjach".
+**FACT**: The original working title of the book was "The Hours." This title was later "stolen" by Michael Cunningham for his 1998 novel, as he admitted: "it was theft, pure and simple, though theft with noble intentions."
 
-**FAKT**: Powieść została napisana w trzech miejscach: Monk's House w wiosce Rodmell w Sussex, Hogarth House przy Paradise Road w Richmond oraz pod adresem 52 Tavistock Square w Bloomsbury. Woolf pisała głównie fioletowym atramentem, którý preferowała do rękopisów.
+**FACT**: The novel was written in three places: Monk's House in the village of Rodmell in Sussex, Hogarth House on Paradise Road in Richmond, and at 52 Tavistock Square in Bloomsbury. Woolf wrote mainly in purple ink, which she preferred for manuscripts.
 
-**FAKT**: 30 sierpnia 1923 roku Woolf zapisała w dzienniku słynny opis swojej techniki strumienia świadomości: "Wykopuję piękne jaskinie za moimi postaciami; myślę, że to daje dokładnie to, czego chcę: człowieczeństwo, humor, głębię. Idea polega na tym, że jaskinie będą się łączyć i każda wyjdzie na światło dzienne w teraźniejszej chwili".
+**FACT**: On August 30, 1923, Woolf recorded in her diary the famous description of her stream of consciousness technique: "I dig out beautiful caves behind my characters; I think that gives exactly what I want: humanity, humor, depth. The idea is that the caves will connect and each will come to daylight at the present moment."
 
-**FAKT**: Postać Mrs. Dalloway pojawiła się już wcześniej w pierwszej powieści Woolf "The Voyage Out" z 1915 roku, a także w opowiadaniu "Mrs Dalloway in Bond Street" opublikowanym w 1923 roku.
+**FACT**: The character of Mrs. Dalloway had already appeared in Woolf's first novel "The Voyage Out" from 1915, as well as in the short story "Mrs Dalloway in Bond Street" published in 1923.
 
-## Dramatyczne zmiany w pierwotnym zamyśle
+## Dramatic Changes in Original Conception
 
-**FAKT**: W pierwotnej wersji to Clarissa Dalloway miała popełnić samobójstwo podczas swojego przyjęcia. Woolf jednak rozwinęła postać Septimiusa Smitha w taki sposób, że to on popełnia samobójstwo zamiast Clarissy.
+**FACT**: In the original version, Clarissa Dalloway was to commit suicide during her party. However, Woolf developed the character of Septimus Smith in such a way that he commits suicide instead of Clarissa.
 
-**FAKT**: Septimus Smith w ogóle nie miał pojawić się w pierwotnej koncepcji. Woolf nazywała go "sobowtórem" Mrs. Dalloway i stworzyla go, aby przejął na siebie samobójczą śmierć zaplanowaną dla głównej bohaterki.
+**FACT**: Septimus Smith was not supposed to appear in the original conception at all. Woolf called him Mrs. Dalloway's "double" and created him to take on the suicidal death planned for the main heroine.
 
-**FAKT**: Powieść powstała z połączenia dwóch opowiadań: "Mrs Dalloway in Bond Street" oraz niedokończonego "The Prime Minister".
+**FACT**: The novel arose from the combination of two stories: "Mrs Dalloway in Bond Street" and the unfinished "The Prime Minister."
 
-## Osobiste przeżycia autorki
+## Author's Personal Experiences
 
-**FAKT**: 1925 rok, w którym ukazała się "Mrs. Dalloway" w maju, zakończył się dla Woolf załamaniem psychicznym w sierpniu podczas pobytu w Charleston. To pokazuje, jak blisko w czasie powstawała książka o chorobie psychicznej i własne problemy autorki.
+**FACT**: 1925, the year "Mrs. Dalloway" was published in May, ended with Woolf's mental breakdown in August during her stay in Charleston. This shows how close in time the book about mental illness and the author's own problems were created.
 
-**FAKT**: Woolf od 13. roku życia cierpiała na objawy, które dziś zdiagnozowano by jako zaburzenie afektywne dwubiegunowe. Miała epizody od głębokiej depresji po maniakalną euforię i epizody psychotyczne.
+**FACT**: Woolf had suffered from symptoms that today would be diagnosed as bipolar affective disorder since the age of 13. She had episodes ranging from deep depression to manic euphoria and psychotic episodes.
 
-**FAKT**: Są uderzające podobieństwa między stanem Septimiusa a zmaganiami Woolf z chorobą dwubiegunową. Oboje halucynują, że ptaki śpiewają po grecku, a Woolf kiedyś próbowała wyrzucić się z okna, tak jak czyni Septimus.
+**FACT**: There are striking similarities between Septimus's condition and Woolf's struggles with bipolar disorder. Both hallucinate that birds sing in Greek, and Woolf once tried to throw herself out of a window, just as Septimus does.
 
-**FAKT**: Leonard Woolf przeczytał maszynopis "Jacob's Room" w letni dzień 1922 roku i powiedział żonie, że to "dzieło geniusza". Woolf zapisała w dzienniku, że w końcu odkryła "jak zacząć (w wieku 40 lat) mówić coś własnym głosem".
+**FACT**: Leonard Woolf read the typescript of "Jacob's Room" on a summer day in 1922 and told his wife it was "a work of genius." Woolf recorded in her diary that she had finally discovered "how to begin (at age 40) to say something in my own voice."
 
-## Kontekst literacki i rywalizacja z Joyce'em
+## Literary Context and Rivalry with Joyce
 
-**FAKT**: Woolf czytała "Ulissesa" Joyce'a podczas pisania własnej książki. Oba dzieła rozgrywają się w ciągu jednego dnia w mieście w czerwcu - Joyce wybrał 16 czerwca 1904 w Dublinie, Woolf 13 czerwca 1923 w Londynie.
+**FACT**: Woolf read Joyce's "Ulysses" while writing her own book. Both works take place during one day in a city in June - Joyce chose June 16, 1904 in Dublin, Woolf chose June 13, 1923 in London.
 
-**FAKT**: Woolf była krytyczna wobec Joyce'a, opisując go jako "świadomego siebie i egoistycznego" i porównując czytanie jego dzieł do ostrzeliwania "drobnymi kulami" zamiast otrzymania "jednej śmiertelnej rany prosto w twarz - jak od Tołstoja".
+**FACT**: Woolf was critical of Joyce, describing him as "self-conscious and egotistical" and comparing reading his works to being shot with "small bullets" instead of receiving "one deadly wound straight to the face - like from Tolstoy."
 
-**FAKT**: "Mrs. Dalloway" jest powszechnie uważana za odpowiedź na "Ulissesa" Joyce'a, ale Woolf wyznaczyła sobie własną przestrzeń literacką, czyniąc główną postacią kobietę z wyższej klasy średniej, zamężną z konserwatywnym parlamentarzystą.
+**FACT**: "Mrs. Dalloway" is commonly considered a response to Joyce's "Ulysses," but Woolf carved out her own literary space by making the main character a upper-middle-class woman married to a conservative parliamentarian.
 
-## Historia publikacji
+## Publication History
 
-**FAKT**: Książka została opublikowana 14 maja 1925 roku przez Hogarth Press, wydawnictwo założone przez Virginia i Leonarda Woolf w 1917 roku. Pierwszy nakład wynosił 2100 egzemplarzy w cenie 2,50 dolara.
+**FACT**: The book was published on May 14, 1925, by Hogarth Press, a publishing house founded by Virginia and Leonard Woolf in 1917. The first print run was 2,100 copies priced at $2.50.
 
-**FAKT**: Hogarth Press działał z piwnicy pod adresem 52 Tavistock Square, gdzie Virginia miała także swój pokój do pisania. Pierwotnie wydawnictwo służyło publikowaniu ich własnych prac oraz prac przyjaciół.
+**FACT**: Hogarth Press operated from the basement at 52 Tavistock Square, where Virginia also had her writing room. Originally, the publishing house served to publish their own works and those of friends.
 
-**FAKT**: Okładkę do pierwszego wydania zaprojektowała Vanessa Bell, siostra Virginia Woolf. Projekt przedstawiał bukiet kwiatów i, jak zauważyła badaczka Diane Gillespie, "wzór, w którym najpierw dominuje biel, potem czerń" antycypuje tematy powieści dotyczące "naprzemiennej euforii i strachu, zdrowia psychicznego i szaleństwa, a także życia i śmierci".
+**FACT**: The cover for the first edition was designed by Vanessa Bell, Virginia Woolf's sister. The design featured a bouquet of flowers and, as scholar Diane Gillespie noted, "a pattern in which white dominates first, then black" anticipates the novel's themes concerning "alternating euphoria and fear, mental health and madness, as well as life and death."
 
-## Krytyczne przyjęcie w 1925 roku
+## Critical Reception in 1925
 
-**FAKT**: Arnold Bennett, wpływowy krytyk literacki, w 1925 roku skrytykował książkę za brak fabuły i często odrzucano ją jako "trywialna historia o kobiecie z wyższej klasy średniej organizującej przyjęcie".
+**FACT**: Arnold Bennett, an influential literary critic, criticized the book in 1925 for its lack of plot, and it was often dismissed as a "trivial story about an upper-middle-class woman organizing a party."
 
-**FAKT**: W Times Literary Supplement z 21 maja 1925 Arthur Sydney McDowall opublikował recenzję zatytułowaną "A Novelist's Experiment" (Eksperyment powieściopisarza).
+**FACT**: In the Times Literary Supplement of May 21, 1925, Arthur Sydney McDowall published a review titled "A Novelist's Experiment."
 
-**FAKT**: Lytton Strachey, wpływowy pisarz i krytyk, w czerwcu 1925 roku określił treść powieści jako "raczej zwyczajną — lub nieważną", co Woolf odnotowała w swoim dzienniku.
+**FACT**: Lytton Strachey, an influential writer and critic, described the novel's content as "rather ordinary — or unimportant" in June 1925, which Woolf noted in her diary.
 
-**FAKT**: Krytyk z New York Times John Crawford przyznał, że "wśród współczesnych Mrs. Woolf niewielu jest takich, którzy wnieśli do tradycyjnych form fikcji idiomy, które nie mogą nie poszerzyć zasobów mowy i zastosowań narracji".
+**FACT**: New York Times critic John Crawford acknowledged that "among contemporaries, few have brought to traditional forms of fiction idioms that cannot fail to expand the resources of speech and applications of narrative like Mrs. Woolf."
 
-## Lokacje i inspiracje z prawdziwego świata
+## Real-World Locations and Inspirations
 
-**FAKT**: Powieść rozgrywa się w rzeczywistych lokalizacjach Londynu. Dom Clarissy Dalloway w Westminster nigdy nie jest dokładnie zlokalizowany, ale wydaje się znajdować w okolicy Great College Street, w odległości kilku minut spacerem od Parlamentu.
+**FACT**: The novel takes place in real London locations. Clarissa Dalloway's house in Westminster is never precisely located, but appears to be in the vicinity of Great College Street, within a few minutes' walk from Parliament.
 
-**FAKT**: Bond Street fascynowało Woolf - to tam Clarissa kupuje kwiaty na początku powieści. Woolf pisała: "Bond Street ją fascynowała; Bond Street wcześnie rano w sezonie; z powiewającymi flagami; ze sklepami; bez szpanu; bez blichtru".
+**FACT**: Bond Street fascinated Woolf - that's where Clarissa buys flowers at the beginning of the novel. Woolf wrote: "Bond Street fascinated her; Bond Street early in the morning in the season; with flags flying; with shops; without ostentation; without glitter."
 
-**FAKT**: W powieści pojawia się wiele prawdziwych postaci historycznych i lokalizacji, w tym domy dwóch znaczących polityków z I wojny światowej: Sir Edward Grey i Lord Haldane przy Queen Anne's Gate.
+**FACT**: The novel features many real historical figures and locations, including the homes of two significant World War I politicians: Sir Edward Grey and Lord Haldane at Queen Anne's Gate.
 
-**FAKT**: Gdy Clarissa myśli o przyjęciach w Devonshire House, oznacza to upływ czasu - Devonshire House został zburzony w 1924 roku, po dacie akcji powieści (1923), ale przed jej publikacją (1925).
+**FACT**: When Clarissa thinks about parties at Devonshire House, it marks the passage of time - Devonshire House was demolished in 1924, after the novel's action (1923) but before its publication (1925).
 
-## Związki z I wojną światową i shell shock
+## Connections to World War I and Shell Shock
 
-**FAKT**: Shell shock (zespół stresu pourazowego) nie był dokładnie badany w czasach Woolf; raczej postrzegano go jako ogólną diagnozę dotyczącą wszelkich mentalnych skutków wojny. Woolf poprzez Septimiusa zmusiła czytelników do zmierzenia się z shell shock z pierwszej ręki.
+**FACT**: Shell shock (post-traumatic stress disorder) was not precisely studied in Woolf's time; rather, it was seen as a general diagnosis for any mental effects of war. Through Septimus, Woolf forced readers to confront shell shock firsthand.
 
-**FAKT**: Powieść zawiera szorstką krytykę angielskiego postrzegania choroby psychicznej w latach po I wojnie światowej. Septimus, odznaczony weteran wojenny, cierpi na zespół stresu pourazowego.
+**FACT**: The novel contains harsh criticism of English attitudes toward mental illness in the years after World War I. Septimus, a decorated war veteran, suffers from post-traumatic stress disorder.
 
-**FAKT**: Woolf wykorzystała swoją powieść do krytyki establishmentu medycznego w kwestii leczenia chorób psychicznych, będąc sama długoletnim cierpiącym na zaburzenie dwubiegunowe.
+**FACT**: Woolf used her novel to criticize the medical establishment's treatment of mental illness, being herself a long-time sufferer of bipolar disorder.
 
-## Ciekawostki związane z techniką pisania
+## Writing Technique Curiosities
 
-**FAKT**: Woolf pisała powieść w trzech zeszytach, które początkowo zatytułowała "The Hours". Te notatniki zostały napisane między 27 czerwca 1923 a październikiem 1924 roku.
+**FACT**: Woolf wrote the novel in three notebooks, which she initially titled "The Hours." These notebooks were written between June 27, 1923, and October 1924.
 
-**FAKT**: Woolf opisywała swoją walkę z powieścią w dzienniku, nazywając ją "bitwą", którą toczyła "przez bardzo długi czas", ale następnego dnia opisała technikę strumienia świadomości, którą planowała wykorzystać.
+**FACT**: Woolf described her struggle with the novel in her diary, calling it a "battle" she had been fighting "for a very long time," but the next day described the stream of consciousness technique she planned to use.
 
-**FAKT**: Opowiadanie "Mrs Dalloway in Bond Street" zostało odrzucone przez T.S. Eliota dla "The Criterion" i ostatecznie opublikowane w "The Dial".
+**FACT**: The story "Mrs Dalloway in Bond Street" was rejected by T.S. Eliot for "The Criterion" and eventually published in "The Dial."
 
-## Wpływ na kulturę popularną i adaptacje
+## Impact on Popular Culture and Adaptations
 
-**FAKT**: Michael Cunningham w 1998 roku napisał powieść "The Hours", którą zadedykował pamięci Virginia Woolf i która została nagrodzona Pulitzerem w 1999 roku.
+**FACT**: Michael Cunningham wrote the novel "The Hours" in 1998, which he dedicated to the memory of Virginia Woolf and which won the Pulitzer Prize in 1999.
 
-**FAKT**: W 2002 roku powstał film "The Hours" z Nicole Kidman jako Virginia Woolf. Kidman nosiła protezę nosa, by bardziej przypominać pisarkę, co wywołało kontrowersje krytyczne. Peter Bradshaw z The Guardian nazwał to "absurdalną protezą nosa" i "Hollywood Disability".
+**FACT**: In 2002, the film "The Hours" was made with Nicole Kidman as Virginia Woolf. Kidman wore a prosthetic nose to better resemble the writer, which caused critical controversy. Peter Bradshaw of The Guardian called it an "absurd nose prosthetic" and "Hollywood Disability."
 
-**FAKT**: Nicole Kidman mimo kontrowersji wokół protezy nosa zwyciężyła w kategorii najlepsza aktorka na rozdaniu Oscarów za rolę Virginia Woolf.
+**FACT**: Despite the controversy over the prosthetic nose, Nicole Kidman won the Oscar for Best Actress for her role as Virginia Woolf.
 
-## Statystyki i rekordy
+## Statistics and Records
 
-**FAKT**: Pierwsza edycja amerykańska została wydrukowana w nakładzie 2100 egzemplarzy w cenie 2,50 dolara - była to znacząca suma jak na 1925 rok.
+**FACT**: The first American edition was printed in a run of 2,100 copies priced at $2.50 - a significant sum for 1925.
 
-**FAKT**: Powieść jest powszechnie uważana za najbardziej popularną powieść Woolf i prawdopodobnie jej najbardziej celebrowane dzieło.
+**FACT**: The novel is commonly considered Woolf's most popular novel and probably her most celebrated work.
 
-**FAKT**: Vanessa Bell zaprojektowała okładki dla wszystkich książek Virginia opublikowanych przez Hogarth Press, tworząc charakterystyczny wizualny język dla dzieł siostry.
+**FACT**: Vanessa Bell designed covers for all of Virginia's books published by Hogarth Press, creating a distinctive visual language for her sister's works.
 
-**FAKT**: Hogarth Press powstał w 1917 roku i działał z piwnicy przy 52 Tavistock Square przez lata 1924-1940, kiedy to Woolfowie wynajmowali tam mieszkanie na dziesięć lat.
+**FACT**: Hogarth Press was founded in 1917 and operated from the basement at 52 Tavistock Square during 1924-1940, when the Woolfs rented an apartment there for ten years.
 
-## Fenomen współczesny
+## Contemporary Phenomenon
 
-**FAKT**: Okładki Vanessy Bell są nadal uważane za "zdumiewająco świeże i rozpoznawalne 100 lat później", jak stwierdziła Charlotte Knight z Vintage Classics.
+**FACT**: Vanessa Bell's covers are still considered "surprisingly fresh and recognizable 100 years later," as Charlotte Knight of Vintage Classics stated.
 
-**FAKT**: Wydania z okazji stulecia próbują odtworzyć oryginalne projekty, skanując i składając wielokrotnie okładki oryginałów, aby zachować "wyraźnie ręcznie renderowane kształty i teksturalną ziarnistość drukowania analogowego".
+**FACT**: Centenary editions attempt to recreate the original designs, scanning and composing the covers of originals multiple times to preserve "distinctly hand-rendered shapes and textural grain of analog printing."
 
-**FAKT**: "Mrs. Dalloway" nadal pojawia się na listach najlepszych powieści XX wieku, a jej wpływ na technikę strumienia świadomości pozostaje bezsprzeczny w literaturze modernistycznej.
+**FACT**: "Mrs. Dalloway" continues to appear on lists of the best novels of the 20th century, and its influence on stream of consciousness technique remains undisputed in modernist literature.
 
-**FAKT**: Powieść reprezentuje przełomowy moment w rozwoju literackim Woolf, gdzie z sukcesem połączyła technikę eksperymentalną z głęboko ludzkimi trosk ami dotyczącymi świadomości, czasu i następstw I wojny światowej.
+**FACT**: The novel represents a breakthrough moment in Woolf's literary development, where she successfully combined experimental technique with deeply human concerns about consciousness, time, and the aftermath of World War I.

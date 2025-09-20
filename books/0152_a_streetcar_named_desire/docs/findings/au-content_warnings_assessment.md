@@ -1,288 +1,288 @@
-# OCENA ZGODNOŚCI Z ZASADAMI PLATFORM: "Tramwaj zwany pożądaniem"
+# PLATFORM COMPLIANCE ASSESSMENT: "A Streetcar Named Desire"
 
-**Książka:** A Streetcar Named Desire (Tennessee Williams, 1947)  
-**Data oceny:** 4 września 2025  
-**Podstawa analizy:** 8 dokumentów researchu + aktualne wytyczne platform 2025  
-
----
-
-## PODSUMOWANIE WYKONAWCZE
-
-"Tramwaj zwany pożądaniem" zawiera znaczące treści dla dorosłych, które wymagają ostrożnego podejścia przy tworzeniu treści edukacyjnych na platformach społecznościowych. Główne obszary ryzyka to przemoc płciowa, toksyczna męskość, problemy zdrowia psychicznego i społeczne stereotypy. 
-
-**REKOMENDACJE OGÓLNE:**
-- **Klasyfikacja wiekowa:** 16+ dla większości platform
-- **Podejście edukacyjne:** Wymagane w każdej adaptacji  
-- **Ostrzeżenia:** Konieczne dla treści o przemocy i zdrowiu psychicznym
-- **Najłatwiejsze platformy:** Spotify, Kick
-- **Najcięższe platformy:** Facebook/Instagram (Meta)
+**Book:** A Streetcar Named Desire (Tennessee Williams, 1947)
+**Assessment Date:** September 20, 2025
+**Analysis Basis:** 8 research documents + current 2025 platform guidelines
 
 ---
 
-## ANALIZA PROBLEMATYCZNYCH TREŚCI
+## EXECUTIVE SUMMARY
 
-### 🔴 WYSOKIE RYZYKO - Treści wymagające szczególnej ostrożności
+"A Streetcar Named Desire" contains significant adult content that requires careful approach when creating educational content for social media platforms. Main risk areas include sexual violence, toxic masculinity, mental health issues, and social stereotypes.
 
-#### 1. **PRZEMOC PŁCIOWA I GWAŁT**
-**Źródło:** Gwałt Blanche przez Stanley'a (scena 10)
+**GENERAL RECOMMENDATIONS:**
+- **Age Classification:** 16+ for most platforms
+- **Educational Approach:** Required in every adaptation
+- **Warnings:** Necessary for violence and mental health content
+- **Safest Platforms:** Spotify, Kick
+- **Highest Risk Platforms:** Facebook/Instagram (Meta)
 
-**Ryzyka platformowe:**
-- **Facebook/Meta:** BARDZO WYSOKIE - nowe liberalne zasady mogą nie chronić dyskusji o przemocy płciowej
-- **YouTube:** ŚREDNIE - akceptowane w kontekście edukacyjnym z age restriction
-- **TikTok:** WYSOKIE - może zostać oznaczone jako promowanie przemocy
-- **Instagram:** BARDZO WYSOKIE - podobnie jak Facebook
-- **Spotify:** NISKIE - audio format jest mniej wrażliwy
-- **Kick:** NISKIE - najliberalniejsze zasady
+---
 
-**Mitigation strategies:**
-- Używać terminów akademickich: "napaść seksualna", "przemoc płciowa"
-- Kontekst edukacyjny: analiza jako krytyka toksycznej męskości
-- Content warnings przed każdą dyskusją
-- Focus na konsekwencjach, nie na opisie aktu
+## PROBLEMATIC CONTENT ANALYSIS
 
-#### 2. **TOKSYCZNA MĘSKOŚĆ I PRZEMOC DOMOWA**
-**Źródło:** Zachowanie Stanley'a - przemoc fizyczna wobec Stelli, agresja
+### 🔴 HIGH RISK - Content requiring special caution
 
-**Ryzyka platformowe:**
-- **Facebook/Meta:** WYSOKIE - nowe zasady mogą tolerować "tradycyjne" wzorce męskie
-- **YouTube:** NISKIE - dobre dla treści edukacyjnych o toxic masculinity
-- **TikTok:** ŚREDNIE - może zostać flagowane jako promowanie przemocy
-- **Instagram:** WYSOKIE - podobnie jak Facebook
-- **Spotify:** BARDZO NISKIE - audio discussion jest bezpieczne
-- **Kick:** BARDZO NISKIE - platformie nie przeszkadza kontrowersyjny content
+#### 1. **SEXUAL VIOLENCE AND RAPE**
+**Source:** Blanche's rape by Stanley (Scene 10)
 
-**Rekomendacje:**
-- Przedstawiać Stanley'a jako NEGATYWNY przykład męskości
-- Wykorzystać współczesną terminologię: "red flags", "abusive patterns"
-- Połączyć z resources dla ofiar przemocy domowej
-- Podkreślać, że przemoc NIE jest normalna w związkach
+**Platform Risks:**
+- **Facebook/Meta:** VERY HIGH - new liberal policies may not protect discussions of sexual violence
+- **YouTube:** MEDIUM - acceptable in educational context with age restriction
+- **TikTok:** HIGH - may be flagged as promoting violence
+- **Instagram:** VERY HIGH - similar to Facebook
+- **Spotify:** LOW - audio format is less sensitive
+- **Kick:** LOW - most liberal policies
 
-#### 3. **PROBLEMY ZDROWIA PSYCHICZNEGO I STIGMATYZACJA**
-**Źródło:** Załamanie psychiczne Blanche, hospitalizacja w szpitalu psychiatrycznym
+**Mitigation Strategies:**
+- Use academic terms: "sexual assault", "sexual violence"
+- Educational context: analysis as critique of toxic masculinity
+- Content warnings before any discussion
+- Focus on consequences, not description of the act
 
-**Ryzyka platformowe:**
-- **Wszystkie platformy:** ŚREDNIE RYZYKO - może być postrzegane jako stigmatyzujące
-- **TikTok:** NISKIE - Gen Z jest aware of mental health issues
-- **YouTube:** NISKIE - dobre dla edukacji o PTSD i traumie
+#### 2. **TOXIC MASCULINITY AND DOMESTIC VIOLENCE**
+**Source:** Stanley's behavior - physical violence against Stella, aggression
 
-**Podejście:**
-- Używać współczesnej terminologii: PTSD, trauma response, dissociation
-- Unikać terminów: "szaleństwo", "wariatka", "obłąkana"
-- Kontekst destigmatyzacji zdrowia psychicznego
-- Podkreślać potrzebę profesjonalnej pomocy
+**Platform Risks:**
+- **Facebook/Meta:** HIGH - new policies may tolerate "traditional" male patterns
+- **YouTube:** LOW - good for educational content about toxic masculinity
+- **TikTok:** MEDIUM - may be flagged as promoting violence
+- **Instagram:** HIGH - similar to Facebook
+- **Spotify:** VERY LOW - audio discussion is safe
+- **Kick:** VERY LOW - platform doesn't mind controversial content
 
-#### 4. **TEMATYKA LGBTQ+ I HOMOFOBIA**
-**Źródło:** Samobójstwo Allan'a Gray z powodu homofobii
+**Recommendations:**
+- Present Stanley as NEGATIVE example of masculinity
+- Use contemporary terminology: "red flags", "abusive patterns"
+- Connect with resources for domestic violence victims
+- Emphasize that violence is NOT normal in relationships
 
-**Ryzyka platformowe:**
-- **Facebook/Meta:** BARDZO WYSOKIE - nowe zasady pozwalają nazywanie osób LGBTQ+ "it"
-- **YouTube:** NISKIE - support dla LGBTQ+ treści edukacyjnych  
-- **TikTok:** NISKIE - platforma supportive wobec LGBTQ+ content
-- **Instagram:** BARDZO WYSOKIE - jak Facebook
-- **Spotify:** NISKIE
-- **Kick:** ŚREDNIE - może być różnie w zależności od audience
+#### 3. **MENTAL HEALTH ISSUES AND STIGMATIZATION**
+**Source:** Blanche's mental breakdown, psychiatric hospitalization
+
+**Platform Risks:**
+- **All platforms:** MEDIUM RISK - may be perceived as stigmatizing
+- **TikTok:** LOW - Gen Z is aware of mental health issues
+- **YouTube:** LOW - good for PTSD and trauma education
 
 **Approach:**
-- Przedstawiać homofobię jako ŹRÓDŁO tragedii, nie jako usprawiedliwienie
-- Kontekst historyczny lat 40. vs współczesna akceptacja
-- Resources dla LGBTQ+ youth experiencing similar issues
-- Focus na postęp społeczny od 1947 roku
+- Use contemporary terminology: PTSD, trauma response, dissociation
+- Avoid terms: "madness", "crazy", "insane"
+- Destigmatization of mental health context
+- Emphasize need for professional help
 
-### 🟡 ŚREDNIE RYZYKO - Wymagają kontekstu edukacyjnego
+#### 4. **LGBTQ+ THEMES AND HOMOPHOBIA**
+**Source:** Allan Gray's suicide due to homophobia
 
-#### 5. **STEREOTYPY KLASOWE I ETNICZNE**
-**Źródło:** "Polaczek" Stanley vs "arystokratka" Blanche
-
-**Podejście:**
-- Kontekst historyczny i socjologiczny
-- Krityka stereotypów, nie ich promowanie
-- Analiza jako przykład class conflict w Ameryce
-
-#### 6. **ALKOHOLIZM I UZALEŻNIENIA**
-**Źródło:** Problemy alkoholowe Blanche, Tennessee Williams
+**Platform Risks:**
+- **Facebook/Meta:** VERY HIGH - new policies allow calling LGBTQ+ people "it"
+- **YouTube:** LOW - support for educational LGBTQ+ content
+- **TikTok:** LOW - platform supportive of LGBTQ+ content
+- **Instagram:** VERY HIGH - like Facebook
+- **Spotify:** LOW
+- **Kick:** MEDIUM - may vary depending on audience
 
 **Approach:**
-- Mental health perspective na addiction
-- Resources dla pomocy w uzależnieniach
-- Nie gloryfikowanie, ale understanding
+- Present homophobia as SOURCE of tragedy, not justification
+- Historical context of 1940s vs contemporary acceptance
+- Resources for LGBTQ+ youth experiencing similar issues
+- Focus on social progress since 1947
 
-#### 7. **OBIEKTYFIKACJA I SEKSUALNOŚĆ**
-**Źródło:** Sposób przedstawiania kobiecości w sztuce
+### 🟡 MEDIUM RISK - Require educational context
+
+#### 5. **CLASS AND ETHNIC STEREOTYPES**
+**Source:** "Polish" Stanley vs "aristocrat" Blanche
+
+**Approach:**
+- Historical and sociological context
+- Critique stereotypes, don't promote them
+- Analysis as example of class conflict in America
+
+#### 6. **ALCOHOLISM AND ADDICTION**
+**Source:** Blanche's alcohol problems, Tennessee Williams
+
+**Approach:**
+- Mental health perspective on addiction
+- Resources for addiction help
+- Don't glorify, but understand
+
+#### 7. **OBJECTIFICATION AND SEXUALITY**
+**Source:** Portrayal of femininity in the play
 
 **Strategy:**
-- Feministyczna analiza obiektyfikacji
-- Kontekst lat 40. vs współczesne standardy
-- Empowerment message dla młodych kobiet
+- Feminist analysis of objectification
+- Context of 1940s vs contemporary standards
+- Empowerment message for young women
 
 ---
 
-## MATRIX ZGODNOŚCI PLATFORMOWEJ
+## PLATFORM COMPLIANCE MATRIX
 
-### 🔥 FACEBOOK & INSTAGRAM (META) - NAJWYŻSZE RYZYKO
+### 🔥 FACEBOOK & INSTAGRAM (META) - HIGHEST RISK
 
-**Aktualna sytuacja (2025):**
-- Nowe liberalne zasady mogą tolerować hateful content
-- Brak fact-checkingu = większe ryzyko dezinformacji
-- Społeczność może flagować treści edukacyjne jako offensive
+**Current Situation (2025):**
+- New liberal policies may tolerate hateful content
+- No fact-checking = greater misinformation risk
+- Community may flag educational content as offensive
 
-**REKOMENDACJE:**
-- **Unikać tych platform** dla content o Streetcar
-- Jeśli MUSISZ używać: focus na literary analysis, unikaj społecznych tematów
-- Bardzo ostrożne content warnings
-- Unikać słów: gwałt, przemoc, homoseksualizm - używać eufemizmów
+**RECOMMENDATIONS:**
+- **Avoid these platforms** for Streetcar content
+- If MUST use: focus on literary analysis, avoid social themes
+- Very careful content warnings
+- Avoid words: rape, violence, homosexuality - use euphemisms
 
 **Rating: 🔴 AVOID / EXTREME CAUTION**
 
-### 📹 YOUTUBE - ŚREDNIE RYZYKO, WYSOKIE MOŻLIWOŚCI
+### 📹 YOUTUBE - MEDIUM RISK, HIGH POSSIBILITIES
 
-**Zalety:**
-- Dobre dla treści edukacyjnych 16+
-- Age restriction dostępne
-- Community supportive wobec literary analysis
+**Advantages:**
+- Good for 16+ educational content
+- Age restriction available
+- Community supportive of literary analysis
 
-**Wymagania:**
-- Ludzka narracja (NIE text-to-speech)
-- Długość: minimum 8-10 minut dla lepszej monetization
-- Wyraźne content warnings na początku
-- Kontekst edukacyjny przez cały czas
+**Requirements:**
+- Human narration (NOT text-to-speech)
+- Length: minimum 8-10 minutes for better monetization
+- Clear content warnings at beginning
+- Educational context throughout
 
-**KONKRETNE REKOMENDACJE:**
-- Tytuł: "Literatura a współczesność: co 'Tramwaj zwany pożądaniem' mówi o toksycznej męskości"
-- Age-restrict automatycznie dla treści o przemocy płciowej
-- Thumbnail: książka + grafika edukacyjna (NIE dramatyczne obrazy)
+**SPECIFIC RECOMMENDATIONS:**
+- Title: "Literature and Modernity: What 'A Streetcar Named Desire' Says About Toxic Masculinity"
+- Auto age-restrict for sexual violence content
+- Thumbnail: book + educational graphics (NOT dramatic images)
 
 **Rating: 🟡 GOOD WITH PRECAUTIONS**
 
-### 📱 TIKTOK - ŚREDNIE RYZYKO
+### 📱 TIKTOK - MEDIUM RISK
 
 **Challenges:**
-- Tylko wideo 1+ minuta dla monetization
-- Młoda audience może nie rozumieć kontekstu historycznego
-- Ryzyko flag za "violent content"
+- Only 1+ minute videos for monetization
+- Young audience may not understand historical context
+- Risk of flags for "violent content"
 
 **Opportunities:**
-- Gen Z interested w mental health topics
+- Gen Z interested in mental health topics
 - BookTok community appreciates classics
-- Short-form może być good dla key lessons
+- Short-form may be good for key lessons
 
-**REKOMENDACJE:**
-- Focus na life lessons i contemporary relevance
-- Używać trending audio gdzie możliwe
-- Hook w pierwszych 3 sekundach: "Jak 77-letnia sztuka przewidziała toxic relationships"
-- Series format: każdy odcinek = jedna lekcja życiowa
+**RECOMMENDATIONS:**
+- Focus on life lessons and contemporary relevance
+- Use trending audio where possible
+- Hook in first 3 seconds: "How a 77-year-old play predicted toxic relationships"
+- Series format: each episode = one life lesson
 
 **Rating: 🟡 GOOD FOR RIGHT APPROACH**
 
-### 🎵 SPOTIFY - NAJNIŻSZE RYZYKO
+### 🎵 SPOTIFY - LOWEST RISK
 
-**Dlaczego najlepsze:**
-- Audio format jest najmniej controversial
-- Platforma creator-friendly
-- Możliwość szczegółowej dyskusji bez wizualnych triggers
-- Excellent dla educational podcasting
+**Why it's best:**
+- Audio format is least controversial
+- Creator-friendly platform
+- Possibility for detailed discussion without visual triggers
+- Excellent for educational podcasting
 
-**REKOMENDACJE:**
-- Podcast format: "Klasyki a współczesność"
-- Odcinki 25-45 minut
-- Intro warning o mature themes
-- Resources w description
+**RECOMMENDATIONS:**
+- Podcast format: "Classics and Modernity"
+- Episodes 25-45 minutes
+- Intro warning about mature themes
+- Resources in description
 
 **Rating: 🟢 HIGHLY RECOMMENDED**
 
-### 📺 KICK - NAJWYŻSZE MOŻLIWOŚCI
+### 📺 KICK - HIGHEST POSSIBILITIES
 
-**Zalety:**
-- Najbardziej liberalne zasady content
+**Advantages:**
+- Most liberal content policies
 - 95/5 revenue split
 - Creator-first approach
-- Możliwość interactive discussion
+- Possibility for interactive discussion
 
 **Considerations:**
 - Smaller audience
-- Może przyciągnąć controversial crowd
-- Wymaga live streaming skills
+- May attract controversial crowd
+- Requires live streaming skills
 
-**REKOMENDACJE:**
+**RECOMMENDATIONS:**
 - Live literary discussion format
-- Interactive Q&A z audience
-- Możliwość deep dive w kontrowersyjne tematy
-- Educational framing nadal zalecane
+- Interactive Q&A with audience
+- Possibility for deep dive into controversial topics
+- Educational framing still recommended
 
 **Rating: 🟢 EXCELLENT FOR BRAVE CREATORS**
 
 ---
 
-## KLASYFIKACJA WIEKOWA
+## AGE CLASSIFICATION
 
-### 13+ TREŚCI (Bezpieczne, podstawowe)
-- Podstawowe informacje o autorze
-- Plot summary bez szczegółów przemocy
-- Historyczny kontekst Ameryki lat 40.
-- Teatralne nagrody i uznanie
-- Wpływ na kulturę popularną (memy, quotes)
+### 13+ CONTENT (Safe, basic)
+- Basic author information
+- Plot summary without violence details
+- Historical context of 1940s America
+- Theater awards and recognition
+- Impact on popular culture (memes, quotes)
 
-### 16+ TREŚCI (Standardowe dla większości platform)
-- Analiza postaci i ich motywacji
-- Dyskusja o relacjach międzyludzkich
-- Symbolika i tematy literackie
-- Adaptacje filmowe i teatralne
-- Współczesne interpretacje
+### 16+ CONTENT (Standard for most platforms)
+- Character analysis and motivations
+- Discussion of interpersonal relationships
+- Symbolism and literary themes
+- Film and theater adaptations
+- Contemporary interpretations
 
-### 18+ TREŚCI (Wymaga age restriction)
-- Szczegółowa analiza przemocy płciowej
-- Dyskusja o problemach zdrowia psychicznego
-- Tematyka LGBTQ+ w kontekście historycznym
-- Problemy alkoholowe i uzależnienia
-- Głębokie analizy toksycznej męskości
+### 18+ CONTENT (Requires age restriction)
+- Detailed analysis of sexual violence
+- Discussion of mental health problems
+- LGBTQ+ themes in historical context
+- Alcohol problems and addiction
+- Deep analyses of toxic masculinity
 
 ---
 
 ## CONTENT WARNINGS - CHECKLIST
 
-### ⚠️ WYMAGANE WARNINGS:
+### ⚠️ REQUIRED WARNINGS:
 - [ ] "Mature themes including domestic violence"
-- [ ] "Discussion of sexual assault" 
+- [ ] "Discussion of sexual assault"
 - [ ] "Mental health crisis and hospitalization"
 - [ ] "Historical homophobia and suicide"
 - [ ] "Alcohol abuse and addiction"
 - [ ] "Strong language and mature relationships"
 
-### 📝 PRZYKŁAD COMPREHENSIVE WARNING:
+### 📝 EXAMPLE COMPREHENSIVE WARNING:
 
-*"Ta analiza 'Tramwaju zwanego pożądaniem' zawiera dyskusję o tematach dla dorosłych, w tym przemocy domowej, napaści seksualnej, kryzysu zdrowia psychicznego i historycznej homofobii. Treści przedstawiane są w kontekście edukacyjnym i literackim. Jeśli potrzebujesz pomocy w zakresie przemocy domowej, skontaktuj się z [local resources]. Dla wsparcia zdrowia psychicznego: [resources]."*
+*"This analysis of 'A Streetcar Named Desire' contains discussion of mature themes including domestic violence, sexual assault, mental health crisis, and historical homophobia. Content is presented in educational and literary context. If you need help with domestic violence, contact [local resources]. For mental health support: [resources]."*
 
 ---
 
 ## PLATFORM-SPECIFIC STRATEGIES
 
-### 🎓 EDUCATIONAL FRAMING (Wszystkie platformy)
+### 🎓 EDUCATIONAL FRAMING (All platforms)
 
-**Skuteczne phrases:**
-- "Literary analysis pokazuje..."
-- "Z perspektywy historycznej..."
-- "Współczesne badania sugerują..."
-- "Williams krytykował, nie gloryfikował..."
+**Effective phrases:**
+- "Literary analysis shows..."
+- "From historical perspective..."
+- "Contemporary research suggests..."
+- "Williams criticized, not glorified..."
 
-**Unikać:**
-- Sensacyjnych descriptions
+**Avoid:**
+- Sensational descriptions
 - Graphic details
 - Judgmental language
-- Modern politics bez historycznego kontekstu
+- Modern politics without historical context
 
 ### 🤝 COMMUNITY ENGAGEMENT
 
 **Safe discussion topics:**
-- Symbolism i literary techniques
-- Historical context i social change
-- Comparisons z contemporary issues (carefully)
+- Symbolism and literary techniques
+- Historical context and social change
+- Comparisons with contemporary issues (carefully)
 - Author's biographical influences
-- Cultural impact i adaptations
+- Cultural impact and adaptations
 
 **Risky discussion topics:**
 - Political interpretations
-- Religious perspectives na moralność
+- Religious perspectives on morality
 - Graphic violence descriptions
-- Personal trauma sharing w comments
+- Personal trauma sharing in comments
 
 ---
 
@@ -291,32 +291,32 @@
 ### 💰 REVENUE-FRIENDLY APPROACHES:
 
 **YouTube:**
-- 10+ minute videos z good retention
+- 10+ minute videos with good retention
 - Educational category
 - Appropriate age restrictions
 - Strong community engagement
 
 **TikTok:**
-- 1+ minute dla Creator Fund
-- Series format dla consistent views
+- 1+ minute for Creator Fund
+- Series format for consistent views
 - Educational hashtags
-- Cross-promote na innych platforms
+- Cross-promote on other platforms
 
 **Spotify:**
-- Podcast series z regular episodes
+- Podcast series with regular episodes
 - Educational category
-- Clear branding i consistent format
+- Clear branding and consistent format
 - Cross-platform promotion
 
 **Kick:**
 - Regular streaming schedule
-- Interactive format z donations/subs
+- Interactive format with donations/subs
 - Educational gaming-style presentations
 - Community building
 
 ### ❌ MONETIZATION KILLERS:
-- Age restriction na YouTube (partially)
-- Violence flags na TikTok
+- Age restriction on YouTube (partially)
+- Violence flags on TikTok
 - Copyright strikes (music, film clips)
 - Community guideline violations
 
@@ -326,33 +326,33 @@
 
 ### 📚 SAFER ALTERNATIVE APPROACHES:
 
-#### 1. **Focus na Literary Innovation**
+#### 1. **Focus on Literary Innovation**
 - Williams' writing techniques
-- Impact na American theatre
-- Comparison z other playwrights
+- Impact on American theatre
+- Comparison with other playwrights
 - Technical analysis of symbolism
 
 #### 2. **Cultural Impact Stories**
 - Broadway success story
-- Film adaptation significance  
+- Film adaptation significance
 - International productions
-- Contemporary relevance w education
+- Contemporary relevance in education
 
 #### 3. **Author Biography Angle**
 - Tennessee Williams' life (carefully)
 - Historical context of writing
 - Other works comparison
-- Legacy w American literature
+- Legacy in American literature
 
 #### 4. **Comparative Literature**
-- Similar themes w other classics
+- Similar themes in other classics
 - Evolution of American drama
 - International reception
 - Modern adaptations analysis
 
 ---
 
-## RED FLAGS DO UNIKANIA
+## RED FLAGS TO AVOID
 
 ### 🚫 CONTENT THAT WILL GET FLAGGED:
 
@@ -360,18 +360,18 @@
 - Graphic descriptions of violence
 - Detailed sexual content discussion
 - Inflammatory political connections
-- Personal attacks na characters or real people
+- Personal attacks on characters or real people
 - Glorification of unhealthy behaviors
 
 **Visual content to avoid:**
-- Graphic scenes z film adaptations
+- Graphic scenes from film adaptations
 - Triggering imagery related to violence
 - Sexualized thumbnails
 - Provocative clickbait graphics
 
 **Topics to skip entirely:**
-- Personal opinions o controversial social issues
-- Modern political parallels bez careful framing
+- Personal opinions on controversial social issues
+- Modern political parallels without careful framing
 - Graphic re-enactments
 - Detailed description of traumatic scenes
 
@@ -381,55 +381,55 @@
 
 ### 🎯 QUICK WINS:
 
-1. **Start z Spotify** - safest platform dla comprehensive analysis
-2. **Create educational series** rather than one-off content  
-3. **Always lead z literary value** before social commentary
+1. **Start with Spotify** - safest platform for comprehensive analysis
+2. **Create educational series** rather than one-off content
+3. **Always lead with literary value** before social commentary
 4. **Build community** before tackling controversial aspects
-5. **Cross-reference z successful educational creators** w similar spaces
+5. **Cross-reference with successful educational creators** in similar spaces
 
 ### 📈 GROWTH STRATEGIES:
 
-1. **Collaborate z Book influencers** who handle classics
-2. **Partner z educational institutions** dla credibility
-3. **Create study guides** jako lead magnets
-4. **Develop signature style** dla consistent branding
-5. **Build email list** dla platform-independent communication
+1. **Collaborate with Book influencers** who handle classics
+2. **Partner with educational institutions** for credibility
+3. **Create study guides** as lead magnets
+4. **Develop signature style** for consistent branding
+5. **Build email list** for platform-independent communication
 
 ### 🛡️ PROTECTION STRATEGIES:
 
-1. **Document everything** - save all content jako backup
+1. **Document everything** - save all content as backup
 2. **Multiple platform presence** - don't depend on one
-3. **Community guidelines expertise** - stay current z changes
+3. **Community guidelines expertise** - stay current with changes
 4. **Legal consultation** if content becomes very successful
-5. **Crisis management plan** dla potential controversies
+5. **Crisis management plan** for potential controversies
 
 ---
 
-## KOŃCOWA OCENA
+## FINAL ASSESSMENT
 
-"Tramwaj zwany pożądaniem" jest **wykonalny jako treść edukacyjna** na większości platform, ale wymaga **bardzo przemyślanego podejścia**. Kluczem jest:
+"A Streetcar Named Desire" is **feasible as educational content** on most platforms, but requires **very thoughtful approach**. The key is:
 
-### ✅ ZALECENIA FINALNE:
+### ✅ FINAL RECOMMENDATIONS:
 
-**Najlepsza strategia:** Rozpocznij od **Spotify podcast series** jako główna platforma, następnie adaptuj content dla **YouTube** (z age restrictions), i ostrożnie testuj **TikTok** z educational angle. **Unikaj Meta platforms** (Facebook/Instagram) w 2025 roku ze względu na zmiany w zasadach.
+**Best strategy:** Start with **Spotify podcast series** as main platform, then adapt content for **YouTube** (with age restrictions), and carefully test **TikTok** with educational angle. **Avoid Meta platforms** (Facebook/Instagram) in 2025 due to policy changes.
 
 **Content hierarchy:**
-1. **Spotify:** Full analysis z wszystkimi tematami
-2. **YouTube:** Educational focus z appropriate warnings  
-3. **TikTok:** Life lessons i contemporary relevance
-4. **Kick:** Interactive deep dives dla engaged audience
-5. **Meta platforms:** Tylko basic literary analysis (jeśli w ogóle)
+1. **Spotify:** Full analysis with all themes
+2. **YouTube:** Educational focus with appropriate warnings
+3. **TikTok:** Life lessons and contemporary relevance
+4. **Kick:** Interactive deep dives for engaged audience
+5. **Meta platforms:** Only basic literary analysis (if at all)
 
 **Success metrics:**
-- Educational value ponad controversy
-- Community building ponad viral content
-- Long-term audience growth ponad quick wins
-- Platform compliance ponad complete creative freedom
+- Educational value over controversy
+- Community building over viral content
+- Long-term audience growth over quick wins
+- Platform compliance over complete creative freedom
 
 **Final rating: 🟡 MEDIUM COMPLEXITY - DOABLE WITH EXPERT APPROACH**
 
-Williams'a "Streetcar" może być powerful educational content, ale wymaga content creator z experience w handling sensitive topics i strong understanding platform policies. Nie jest to projekt dla beginning creators, ale przy proper strategy może być bardzo successful i impactful.
+Williams' "Streetcar" can be powerful educational content, but requires a content creator with experience in handling sensitive topics and strong understanding of platform policies. This is not a project for beginning creators, but with proper strategy can be very successful and impactful.
 
 ---
 
-*Analiza przygotowana 4 września 2025 na podstawie aktualnych wytycznych platform i comprehensive research analysis.*
+*Analysis prepared September 20, 2025 based on current platform guidelines and comprehensive research analysis.*

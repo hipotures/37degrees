@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "USS Princeton Radar Detection of Anomalous Aerial Vehicles"
+  setting:
+    time: "November 10, 2004, afternoon"
+    location: "USS Princeton (CG-59) Combat Information Center, Pacific Ocean southwest of San Diego, California"
+    weather: "Clear conditions at sea"
+  characters:
+    - appearance: "Military personnel, various ages and builds, professional demeanor"
+      clothing: "Khaki uniforms for officers, blue coveralls for enlisted crew, headsets and communication gear"
+      position: "Standing and seated at radar control stations throughout the CIC"
+      action: "Monitoring AN/SPY-1B radar displays showing multiple anomalous contacts descending from high altitude"
+  scene:
+    mainElements: "Dark control room with multiple radar displays, AEGIS combat system workstations, AN/SPY-1B radar controls, tracking screens showing contacts"
+    details: "AN/SPY-1B phased array radar system aboard USS Princeton, AEGIS combat system component, capable of tracking multiple aerial contacts simultaneously, green-tinted display screens showing radar returns. Multiple radar screens show bright contacts dropping from 80,000+ feet to sea level in impossible timeframes. Radar operators point at screens displaying unprecedented descent rates. Electronic equipment hums throughout the darkened compartment."
+    background: "Ship's Combat Information Center with additional radar and communications equipment, rows of monitoring stations, overhead lighting casting technical workspace ambiance"
+    atmosphere: "Tense technical environment focused on unexplained radar contacts, confusion and heightened alert among crew as impossible aerial phenomena appear on multiple tracking systems"
+  composition:
+    cameraAngle: "Medium wide shot from behind radar operators looking toward main display screens"
+    focus: "Green-tinted radar displays showing multiple anomalous contacts descending at impossible speeds"
+    depth: "Foreground: radar operators at stations, middle ground: main tracking displays, background: additional CIC equipment and personnel, no text or letters visible"

@@ -1,430 +1,430 @@
-# Analiza symboliki i ukrytych znaczeń - "W poszukiwaniu straconego czasu"
+# Analysis of Symbolism and Hidden Meanings - "In Search of Lost Time"
 
-## Podstawowe informacje o dziele
-- **Tytuł oryginalny**: "À la recherche du temps perdu" 
-- **Tytuł polski**: "W poszukiwaniu straconego czasu"
-- **Autor**: Marcel Proust
-- **Rok publikacji**: 1913-1927
-- **Gatunek**: Powieść modernistyczna
-
----
-
-## 1. Symbol magdalenki - rewolucja w pojmowaniu pamięci
-
-### Interpretacja klasyczna
-Słynna scena z magdalenką zanurzoną w herbacie to jeden z najbardziej rozpoznawalnych symboli literatury światowej. Magdalenka staje się kluczem otwierającym zamknięte skarbce pamięci mimowolnej.
-
-### Interpretacja psychologiczna
-Współczesna neuronuka potwierdza intuicje Prousta - zapach i smak rzeczywiście mają najsilniejszy związek z pamięcią długotrwałą. "Fenomen Prousta" stał się terminem naukowym opisującym mimowolne przywołanie wspomnień przez bodźce sensoryczne.
-
-### Interpretacja kulturowa francuska
-Magdalenka to symbol dzieciństwa francuskiej burżuazji. W kulturze francuskiej ten drobny ciastko reprezentuje intymność rodzinnego domu, niedzielne poranki, bezpieczeństwo świata dziecka.
-
-### Interpretacja fenomenologiczna
-Symbol magnetlenki wykracza poza konkretne doświadczenie - staje się metaforą rozpuszczania się granic między przeszłością a teraźniejszością. Jak kostka cukru rozpuszcza się w herbacie, tak tożsamość narratora rozpuszcza się w strumieniu czasu.
-
-### Interpretacja psychoanalityczna
-Magdalenka może być czytana jako symbol łona matczynego - ciepłego, bezpiecznego miejsca, do którego narrator pragnie powrócić. Herbata jako płyn amniotyczny, w którym zanurza się symbol dzieciństwa.
+## Basic Information About the Work
+- **Original Title**: "À la recherche du temps perdu"
+- **English Title**: "In Search of Lost Time"
+- **Author**: Marcel Proust
+- **Publication Year**: 1913-1927
+- **Genre**: Modernist Novel
 
 ---
 
-## 2. Czas jako główny protagonista dzieła
+## 1. The Madeleine Symbol - Revolution in Understanding Memory
 
-### Czas linearny vs czas psychologiczny
-Proust rewolucjonizuje pojmowanie czasu w literaturze. Czas nie jest już prostą sekwencją wydarzeń, ale złożoną strukturą nakładających się warstw doświadczenia.
+### Classical Interpretation
+The famous scene with the madeleine dipped in tea is one of the most recognizable symbols in world literature. The madeleine becomes the key that opens locked treasuries of involuntary memory.
 
-### Interpretacja bergsonowska
-Wpływ filozofii Henri Bergsona jest wyraźny - Proust realizuje literacko koncepcję "trwania" jako subiektywnego doświadczenia czasu przeciwstawionego mechanicznemu czasowi zegarów.
+### Psychological Interpretation
+Contemporary neuroscience confirms Proust's intuitions - smell and taste indeed have the strongest connection to long-term memory. The "Proust Phenomenon" has become a scientific term describing involuntary recall of memories through sensory stimuli.
 
-### Interpretacja modernistyczna
-Czas u Prousta to nie tło akcji, ale główny bohater. Proustowski czas jest jednocześnie destruktorem (niszczy młodość, miłość) i odkupicielem (pozwala na odzyskanie przeszłości przez sztukę).
+### French Cultural Interpretation
+The madeleine is a symbol of French bourgeois childhood. In French culture, this small cake represents the intimacy of the family home, Sunday mornings, the security of a child's world.
 
-### Interpretacja postmodernistyczna
-Współcześni teoretycy widzą w Proustowskim czasie zapowiedź postmodernistycznego pojmowania rzeczywistości jako konstruktu językowego i psychicznego, pozbawionego stabilnych punktów odniesienia.
+### Phenomenological Interpretation
+The madeleine symbol transcends concrete experience - it becomes a metaphor for the dissolution of boundaries between past and present. Just as a sugar cube dissolves in tea, the narrator's identity dissolves in the stream of time.
 
----
-
-## 3. Symbolika kwiatowa - głóg i bzy
-
-### Głóg różowy i biały
-Obsesja narratora na punkcie różowego głogu ujawnia estetyczny snobizm - różowy jest "lepszy" niż biały, bo rzadszy i droższy. Symbol klasowej hierarchii wśród rzeczy pozornie naturalnych.
-
-### Interpretacja społeczna
-Kwiaty głogu rosną przy "drodze Swanna" - symbolizują świat dziecięcej niewinności, który zostanie bezpowrotnie utracony. Ich aromat to zapach utraconego raju.
-
-### Interpretacja psychoanalityczna
-Kwiaty mogą symbolizować przebudzenie seksualności - narrator po raz pierwszy doświadcza estetycznej ekstazy, która ma wyraźnie erotyczny podtekst.
-
-### Interpretacja czasowa
-Kwitnący głóg to symbol przemijania - kwitnie krótko, intensywnie, potem opada. Metafora ludzkiej młodości i piękna.
+### Psychoanalytic Interpretation
+The madeleine can be read as a symbol of the maternal womb - a warm, safe place to which the narrator longs to return. Tea as amniotic fluid in which the symbol of childhood is immersed.
 
 ---
 
-## 4. Symbolika muzyczna - sonata Vinteuila
+## 2. Time as the Main Protagonist of the Work
 
-### Muzyka jako język niewysłowiony
-Sonata Vinteuila to symbol sztuki zdolnej wyrazić to, czego słowa nie potrafią opisać. "Mała fraza" sonaty staje się "hymnem narodowym" miłości Swanna i Odyty.
+### Linear Time vs Psychological Time
+Proust revolutionizes the understanding of time in literature. Time is no longer a simple sequence of events, but a complex structure of overlapping layers of experience.
 
-### Interpretacja społeczna
-Vinteuil to nieznany, prowincjonalny kompozytor, który dopiero po śmierci zyskuje uznanie. Symbol niepocenionego artysty i krytyka francuskiego establishment-u artystycznego.
+### Bergsonian Interpretation
+The influence of Henri Bergson's philosophy is clear - Proust realizes literarily the concept of "duration" as subjective time experience opposed to mechanical clock time.
 
-### Interpretacja psychologiczna
-Muzyka działa na bohaterów jak narkotyk - wywołuje stan ekstazy, ale też zależność. Swann staje się uzależniony od sonaty tak, jak od Odyty.
+### Modernist Interpretation
+Time in Proust is not the background of action, but the main character. Proustian time is simultaneously destroyer (destroys youth, love) and redeemer (allows recovery of the past through art).
 
-### Interpretacja metafizyczna
-Sonata jest "prawdą" Vinteuila - tym, co zostanie po nim na zawsze. Symbol nieśmiertelności przez sztukę, jedynej prawdziwej form przezwyciężenia śmierci.
-
----
-
-## 5. Malarstwo - Elstir jako symbol twórczej transformacji
-
-### Artysta jako wizjoner
-Elstir to alter ego Prousta-artysty. Jego malarstwo przekształca rzeczywistość, pokazuje to, czego inni nie widzą - morze jak góry, ziemię jak wodę.
-
-### Interpretacja impresjonistyczna
-Elstir łączy cechy Moneta, Degasa, Turnera. Symbol francuskiego impresjonizmu jako rewolucji w postrzeganiu rzeczywistości.
-
-### Interpretacja społeczna
-Studia Elstira to miejsce, gdzie narrator przemienia się z obserwatora w artystę. Symbol inicjacji artystycznej i społecznej.
-
-### Interpretacja epistemologiczna
-Elstir uczy narratora nowego sposobu patrzenia. Jego sztuka to metafora literatury Prousta - pokazuje świat na nowo, odkrywa ukryte piękno w codzienności.
+### Postmodernist Interpretation
+Contemporary theorists see in Proustian time an anticipation of postmodern understanding of reality as linguistic and psychological construct, devoid of stable reference points.
 
 ---
 
-## 6. Geografia społeczna - Balbec, Combray, Paryż
+## 3. Floral Symbolism - Hawthorn and Lilacs
 
-### Combray jako utracony raj
-Combray to symbol dzieciństwa, niewinności, tradycyjnego porządku społecznego. Jego odzyskanie przez pamięć ma charakter religijny.
+### Pink and White Hawthorn
+The narrator's obsession with pink hawthorn reveals aesthetic snobbery - pink is "better" than white because it's rarer and more expensive. Symbol of class hierarchy among seemingly natural things.
 
-### Balbec jako miejsce inicjacji
-Nadmorski Balbec to przestrzeń dorastania, pierwszych fascynacji erotycznych, odkrywania sztuki. Symbol przejścia między dzieciństwem a dorosłością.
+### Social Interpretation
+Hawthorn flowers grow along "Swann's Way" - they symbolize the world of childhood innocence that will be irretrievably lost. Their fragrance is the scent of lost paradise.
 
-### Paryż jako teatr społeczny
-Paryskie salony to scena, na której rozgrywa się dramat francuskiego społeczeństwa belle époque. Symbol sztuczności, snobizmu, ale też wyrafinowania kulturowego.
+### Psychoanalytic Interpretation
+Flowers may symbolize the awakening of sexuality - the narrator experiences aesthetic ecstasy for the first time, which has a clearly erotic undertone.
 
----
-
-## 7. Symbolika snu i jawy
-
-### Przebudzenie jako metafora epistemologiczna
-Słynny początek powieści z przebudzeniem narratora to nie tylko opis fizycznego aktu, ale metafora poznawania rzeczywistości, która stale wymyka się jednoznacznej interpretacji.
-
-### Interpretacja psychoanalityczna
-Stany przejściowe między snem a jawą to obszar, w którym ujawnia się prawdziwa natura rzeczy. Freudowskie "to, co nieświadome" ujawnia się w półśnie.
-
-### Interpretacja fenomenologiczna
-Stan półsnu to metafora kondycji ludzkiej - nigdy nie jesteśmy do końca świadomi tego, co rzeczywiste, a co wyobrażone.
+### Temporal Interpretation
+Blooming hawthorn is a symbol of transience - it blooms briefly, intensely, then falls. Metaphor for human youth and beauty.
 
 ---
 
-## 8. Homoseksualizm jako symbol marginalności
+## 4. Musical Symbolism - Vinteuil's Sonata
 
-### "Rasa inwertytów"
-Proust opisuje homoseksualistów jako ukrytą "rasę" żyjącą w społeczeństwie, ale na jego marginesie. Symbol każdej mniejszości zmuszonej do ukrywania się.
+### Music as Unspoken Language
+Vinteuil's sonata is a symbol of art capable of expressing what words cannot describe. The "little phrase" of the sonata becomes the "national anthem" of Swann and Odette's love.
 
-### Baron de Charlus jako symbol
-Charlus to tragiczna figura homoseksualisty, który nie może żyć otwarcie. Symbol represji seksualnej i społecznej francuskiego fin de siècle.
+### Social Interpretation
+Vinteuil is an unknown, provincial composer who gains recognition only after death. Symbol of the unappreciated artist and critique of the French artistic establishment.
 
-### Interpretacja queer theory
-Współczesne interpretacje widzą w Proustowskim przedstawieniu homoseksualizmu prekursorski opis "performatywności" płci i seksualności.
+### Psychological Interpretation
+Music acts on the characters like a drug - it induces ecstasy but also addiction. Swann becomes addicted to the sonata just as he is to Odette.
 
-### Interpretacja postkolonialna
-Porównanie homoseksualistów do Żydów u Prousta można czytać jako opis podwójnej marginalizacji - seksualnej i etnicznej.
-
----
-
-## 9. Miłość jako obsesja i zniewolenie
-
-### Swann i Odyta - miłość jako choroba
-Relacja Swanna z Odytą to kliniczna analiza obsesji erotycznej. Miłość staje się chorobą, która niszczy rozum i godność.
-
-### Narrator i Albertyna - miłość jako więzienie
-Historia z Albertyną to opowieść o próbie "posiadania" drugiej osoby. Miłość staje się formą zniewolenia obu stron.
-
-### Interpretacja feministyczna
-Kobiety u Prousta to często obiekty męskich fantazji i lęków. Współczesne interpretacje krytykują mizoginiczne aspekty tej prozy.
-
-### Interpretacja psychoanalityczna
-Miłość u Prousta to zawsze miłość do obrazu stworzonego przez kochającego, nie do rzeczywistej osoby. Symbol narcyzmu i projekcji.
+### Metaphysical Interpretation
+The sonata is Vinteuil's "truth" - what will remain of him forever. Symbol of immortality through art, the only true form of overcoming death.
 
 ---
 
-## 10. Zazdrość jako epistemologia
+## 5. Painting - Elstir as Symbol of Creative Transformation
 
-### Zazdrość jako sposób poznania
-Zazdrość u Prousta to nie tylko uczucie, ale metoda poznawcza - przez cierpienie kochanek poznaje prawdę o ukochanej i o sobie.
+### Artist as Visionary
+Elstir is Proust's alter ego as artist. His painting transforms reality, shows what others cannot see - sea like mountains, earth like water.
 
-### Interpretacja społeczna
-Zazdrość o lesbijskie związki Odyty i Albertyny pokazuje męski lęk przed kobiecą seksualnością, która wymyka się kontroli.
+### Impressionist Interpretation
+Elstir combines features of Monet, Degas, Turner. Symbol of French Impressionism as revolution in perceiving reality.
 
-### Interpretacja filozoficzna
-Zazdrość ujawnia podstawowy epistemologiczny problem - niemożność poznania drugiej osoby. "Inny" zawsze pozostaje tajemnicą.
+### Social Interpretation
+Elstir's studio is the place where the narrator transforms from observer to artist. Symbol of artistic and social initiation.
 
----
-
-## 11. Architektura jako metafora pamięci
-
-### Katedra jako struktura dzieła
-Proust porównywał swoją powieść do katedry gotyckiej - monumentalnej struktury budowanej latami, złożonej z licznych elementów tworzących jedność.
-
-### Wenecja jako symbol sztuki
-Wenecja to miasto-dzieło sztuki, gdzie architektura i natura tworzą harmonijną całość. Symbol idealnej syntezy artystycznej.
-
-### Interpretacja duchowa
-Kościoły i katedry w powieści to nie tylko zabytki, ale symbole transcendencji, miejsc, gdzie doczesność styka się z wiecznością.
+### Epistemological Interpretation
+Elstir teaches the narrator a new way of seeing. His art is a metaphor for Proust's literature - it shows the world anew, discovers hidden beauty in everyday life.
 
 ---
 
-## 12. Symbolika społeczna - salony i arystokracja
+## 6. Social Geography - Balbec, Combray, Paris
 
-### Salon Verdurins jako parodia kultury
-"Mały klika" Verdurins to parodia prawdziwego życia intelektualnego. Symbol burżuazyjnych pretensji kulturalnych.
+### Combray as Lost Paradise
+Combray is a symbol of childhood, innocence, traditional social order. Its recovery through memory has a religious character.
 
-### Arystokracja Guermantów jako teatr
-Rodzina Guermantów to teatr społeczny, gdzie liczy się tylko pozór. Symbol końca starego porządku społecznego.
+### Balbec as Place of Initiation
+Seaside Balbec is the space of growing up, first erotic fascinations, discovering art. Symbol of transition between childhood and adulthood.
 
-### Interpretacja marksistowska
-Proustowskie salony to analiza klasowego charakteru kultury - sztuka i kultura służą reprodukcji społecznych podziałów.
-
----
-
-## 13. Nazwa jako więzienie i wyzwolenie
-
-### Imiona jako zaklęcia
-Imiona miejscowości i osób mają u Prousta magiczną moc - wywołują określone uczucia i skojarzenia niezależnie od rzeczywistości.
-
-### "Guermantes" jako symbol
-Nazwa "Guermantes" przez lata fascynuje narratora, ale kiedy poznaje rzeczywistość, okazuje się rozczarowująca. Symbol iluzji i odkrywania prawdy.
-
-### Interpretacja językoznawcza
-Proust pokazuje, jak język tworzy rzeczywistość - słowa poprzedzają doświadczenie i je kształtują.
+### Paris as Social Theater
+Parisian salons are the stage where the drama of belle époque French society unfolds. Symbol of artificiality, snobbery, but also cultural refinement.
 
 ---
 
-## 14. Interpretacje gender studies
+## 7. Symbolism of Sleep and Waking
 
-### Męskość w kryzysie
-Męscy bohaterowie Prousta to często figury słabe, neurotyczne, zależne od kobiet. Symbol kryzysu tradycyjnej męskości w modernizmie.
+### Awakening as Epistemological Metaphor
+The famous beginning of the novel with the narrator's awakening is not only a description of a physical act, but a metaphor for knowing reality that constantly eludes unambiguous interpretation.
 
-### Kobiecość jako zagadka
-Kobiety są u Prousta enigmatyczne, niedostępne poznaniu. Symbol "Innego" w sensie filozoficznym i psychoanalitycznym.
+### Psychoanalytic Interpretation
+Transitional states between sleep and waking are the area where the true nature of things is revealed. Freudian "unconscious" manifests itself in half-sleep.
 
-### Interpretacja queer
-Fluidność ról płciowych u Prousta (Charlus, Saint-Loup, sam narrator) zapowiada współczesne ujęcia płci jako performatywnej.
-
----
-
-## 15. Symbolika żydowska
-
-### Żydzi jako "inni"
-Żydzi w powieści (Bloch, Swann częściowo) to figury outsiderów, którzy próbują się asymilować z francuskim społeczeństwem.
-
-### Afera Dreyfusa jako linia podziału
-Sprawa Dreyfusa dzieli społeczeństwo i ujawnia ukryty antysemityzm francuskiej elity.
-
-### Interpretacja postkolonialna
-Żydzi u Prousta to przykład mniejszości etnicznej borykającej się z dyskryminacją w sercu europejskiej cywilizacji.
+### Phenomenological Interpretation
+The state of half-sleep is a metaphor for the human condition - we are never fully aware of what is real and what is imagined.
 
 ---
 
-## 16. Sztuka jako jedyna forma nieśmiertelności
+## 8. Homosexuality as Symbol of Marginality
 
-### Literatura jako odkupienie
-Ostatni tom powieści ujawnia, że celem narratora było napisanie książki, którą czytamy. Sztuka staje się jedyną formą przezwyciężenia czasu.
+### "Race of Inverts"
+Proust describes homosexuals as a hidden "race" living in society but on its margins. Symbol of every minority forced to hide.
 
-### Artysta jako kapłan
-Artysta ma u Prousta misję quasi-religijną - odkrywa prawdy niedostępne zwykłym ludziom i przekazuje je w dziele sztuki.
+### Baron de Charlus as Symbol
+Charlus is a tragic figure of a homosexual who cannot live openly. Symbol of sexual and social repression of the French fin de siècle.
 
-### Interpretacja modernistyczna
-Sztuka dla sztuki - jedyną wartością jest piękno artystyczne, wszystko inne (polityka, społeczeństwo, moralność) jest drugoplanowe.
+### Queer Theory Interpretation
+Contemporary interpretations see in Proust's presentation of homosexuality a precursory description of gender and sexuality "performativity."
 
----
-
-## 17. Nowoczesne interpretacje psychoanalityczne
-
-### Teoria relacji obiektowych
-Współczesna psychoanaliza widzi w Proustowskich opisach związków prekursorski opis "relacji obiektowych" - sposobu, w jaki tworzymy wewnętrzne reprezentacje innych ludzi.
-
-### Interpretacja lacanowska
-Przejście od "wyobrażeniowego" do "symbolicznego" u Lacana znajduje odbicie w drodze narratora od fascynacji nazwami do poznania rzeczywistości.
-
-### Trauma i pamięć
-Proustowska pamięć mimowolna to w istocie opis traumy i jej przepracowania - terapeutycznego procesu przez sztukę.
+### Postcolonial Interpretation
+The comparison of homosexuals to Jews in Proust can be read as a description of double marginalization - sexual and ethnic.
 
 ---
 
-## 18. Interpretacje postmodernistyczne
+## 9. Love as Obsession and Enslavement
 
-### Fragmentaryczność doświadczenia
-Proustowska struktura narracyjna zapowiada postmodernistyczne pojmowanie rzeczywistości jako fragmentarycznej i niespójnej.
+### Swann and Odette - Love as Disease
+Swann's relationship with Odette is a clinical analysis of erotic obsession. Love becomes a disease that destroys reason and dignity.
 
-### Intertekstualność
-Liczne odniesienia do innych dzieł sztuki w powieści to przedsionek postmodernistycznej intertekstualności.
+### Narrator and Albertine - Love as Prison
+The story with Albertine is a tale of attempting to "possess" another person. Love becomes a form of enslavement for both parties.
 
-### Kryzys podmiotu
-Narrator Prousta to podmiot niestabilny, zmieniający się, co zapowiada postmodernistyczny kryzys tożsamości.
+### Feminist Interpretation
+Women in Proust are often objects of male fantasies and fears. Contemporary interpretations criticize the misogynistic aspects of this prose.
 
----
-
-## 19. Interpretacje feministyczne
-
-### Krytyka patriarchatu
-Współczesne feministki widzą w powieści Prousta krytykę patriarchalnych struktur społeczeństwa fin de siècle.
-
-### Kobiety jako ofiary męskich projekcji
-Odyta i Albertyna to ofiary męskich fantazji - nigdy nie są pokazane jako pełne osoby, tylko jako obiekty męskich pragnień.
-
-### Matka jako figura centralna
-Matka narratora to jedna z niewielu pozytywnych figur kobiecych - symbol bezwarunkowej miłości i bezpieczeństwa.
+### Psychoanalytic Interpretation
+Love in Proust is always love for an image created by the lover, not for the real person. Symbol of narcissism and projection.
 
 ---
 
-## 20. Recepcja polska i interpretacje narodowe
+## 10. Jealousy as Epistemology
 
-### Przekład jako interpretacja
-Polski przekład Boya-Żeleńskiego "normalizował" strukturę powieści, co zmieniało jej znaczenie. Nowy przekład Rodowskiej przywraca oryginalną formę.
+### Jealousy as Method of Knowledge
+Jealousy in Proust is not only a feeling but a cognitive method - through suffering, the lover learns the truth about the beloved and about himself.
 
-### "Utracony" vs "stracony" czas
-Dyskusja o polskim tłumaczeniu tytułu ujawnia różnice w pojmowaniu czasu - "utracony" sugeruje możliwość odzyskania, "stracony" - definitywną stratę.
+### Social Interpretation
+Jealousy over the lesbian relationships of Odette and Albertine shows male fear of female sexuality that escapes control.
 
-### Polska recepcja psychoanalityczna
-Polscy krytycy wcześnie zauważyli związki między Proustem a psychoanalizą, mimo że autor nie znał prac Freuda.
-
----
-
-## 21. Symbolika kulinarna
-
-### Herbata jako napój inicjacji
-Herbata to nie tylko tło dla magdalenki, ale symbol cywilizowanych rytuałów, które łączą pokolenia.
-
-### Asparagus jako symbol klasowy
-Opis szparagów u cioci Leonie to mistrzowski przykład literatury, która nadaje znaczenie najdrobniejszym szczegółom codzienności.
-
-### Interpretacja antropologiczna
-Jedzenie u Prousta to kod kulturowy - każda potrawa niesie informacje o klasie społecznej i statusie.
+### Philosophical Interpretation
+Jealousy reveals the basic epistemological problem - the impossibility of knowing another person. The "Other" always remains a mystery.
 
 ---
 
-## 22. Symbolika mody i ubioru
+## 11. Architecture as Metaphor of Memory
 
-### Strój jako maska społeczna
-Opisy strojów bohaterów to nie ozdoba, ale analiza społecznych ról i ambicji.
+### Cathedral as Structure of the Work
+Proust compared his novel to a Gothic cathedral - a monumental structure built over years, composed of numerous elements creating unity.
 
-### Odyta jako ikona mody
-Przeobrażenia Odyty z kokoty w damę salonu odzwierciedlają się w zmianach jej stroju - moda jako narzędzie społecznej metamorfozy.
+### Venice as Symbol of Art
+Venice is a city-artwork where architecture and nature create a harmonious whole. Symbol of ideal artistic synthesis.
 
-### Interpretacja semiotyczna
-Ubiór to u Prousta system znaków do odczytania przez wtajemniczonych - społeczna semiologia avant la lettre.
-
----
-
-## 23. Technologia i nowoczesność
-
-### Telefon jako symbol
-Pierwsze telefony w powieści to symbole nowoczesności, ale też zagrożenia dla tradycyjnych form komunikacji.
-
-### Samochód jako metafora
-Podróże samochodem zmieniają sposób postrzegania krajobrazu - symbol przyspieszenia czasu historycznego.
-
-### Interpretacja medioznawcza
-Proust intuicyjnie przewiduje wpływ nowych mediów na ludzką percepcję rzeczywistości.
+### Spiritual Interpretation
+Churches and cathedrals in the novel are not only monuments but symbols of transcendence, places where temporality meets eternity.
 
 ---
 
-## 24. Symbolika teatru i przedstawienia
+## 12. Social Symbolism - Salons and Aristocracy
 
-### Berma jako symbol prawdziwej sztuki
-Gra aktorki Bermy to dla narratora objawienie autentycznej sztuki przeciwstawionej towarzyskiemu teatrowi salonów.
+### Verdurins' Salon as Parody of Culture
+The Verdurins' "little clan" is a parody of true intellectual life. Symbol of bourgeois cultural pretensions.
 
-### Życie jako przedstawienie
-Wszyscy bohaterowie "grają" swoje role społeczne - życie staje się teatrem, a tożsamość performansem.
+### Guermantes Aristocracy as Theater
+The Guermantes family is a social theater where only appearance matters. Symbol of the end of the old social order.
 
-### Interpretacja dramaturgiczna
-Proustowska analiza społeczeństwa zapowiada socjologię Ervinga Goffmana i jego teorię "prezentacji siebie".
-
----
-
-## 25. Symbolika podróży
-
-### "Droga Swanna" vs "strona Guermantów"
-Dwie drogi spacerów w Combray to metafory dwóch sposobów życia - burżuazyjnego i arystokratycznego.
-
-### Wenecja jako cel podróży
-Wenecja to nie tylko miasto, ale symbol artystycznego pielgrzymstwa - miejsce, gdzie sztuka i życie się jednoczą.
-
-### Interpretacja filozoficzna
-Podróż u Prousta to zawsze podróż wewnętrzna - geograficzne przemieszczenie jest pretekstem do eksploracji psychiki.
+### Marxist Interpretation
+Proustian salons are an analysis of the class character of culture - art and culture serve to reproduce social divisions.
 
 ---
 
-## 26. Współczesne adaptacje i reinterpretacje
+## 13. Names as Prison and Liberation
 
-### Film i telewizja
-Adaptacje filmowe Prousta zawsze stoją przed problemem przełożenia introspektywnej narracji na język wizualny.
+### Names as Spells
+Names of places and people have magical power in Proust - they evoke specific feelings and associations regardless of reality.
 
-### Interpretacje queer
-Współczesne odczytania eksponują homoerotyczne wątki i widzą w Prouście prekursora queer theory.
+### "Guermantes" as Symbol
+The name "Guermantes" fascinates the narrator for years, but when he learns the reality, it proves disappointing. Symbol of illusion and discovering truth.
 
-### Interpretacje postkolonialne
-Analiza francuskości u Prousta przez pryzmat kolonializmu ujawnia ukryte struktury władzy w belle époque.
-
----
-
-## 27. Symbolika religii i transcendencji
-
-### Kościoły jako punkty orientacyjne
-Kościoły w Combray i innych miejscowościach to nie tylko zabytki, ale symbole continuity kulturowej i duchowej.
-
-### Sztuka jako religia
-Dla narratora sztuka zastępuje tradycyjną religię - staje się źródłem transcendentnych doświadczeń.
-
-### Interpretacja teologiczna
-Proustowska koncepcja czasu zawiera elementy mistyki - czas wieczny przeciwstawiony czasowi chronologicznemu.
+### Linguistic Interpretation
+Proust shows how language creates reality - words precede experience and shape it.
 
 ---
 
-## 28. Symbolika śmierci
+## 14. Gender Studies Interpretations
 
-### Babka jako figura śmierci
-Śmierć babki to pierwszy prawdziwy kontakt narratora ze śmiertelnością - koniec dziecięcej niewinności.
+### Masculinity in Crisis
+Male heroes in Proust are often weak, neurotic figures dependent on women. Symbol of the crisis of traditional masculinity in modernism.
 
-### Bergotte i Elstir
-Śmierć artystów pokazuje, że tylko sztuka przetrwa - artyści umierają, ale ich dzieła osiągają nieśmiertelność.
+### Femininity as Enigma
+Women in Proust are enigmatic, inaccessible to knowledge. Symbol of the "Other" in philosophical and psychoanalytic sense.
 
-### Interpretacja thanatologiczna
-Cała powieść to w istocie próba przezwyciężenia śmierci przez sztukę - nekromancja literacka.
-
----
-
-## 29. Interpretacje ekokrytyczne
-
-### Natura jako refugium
-Ogrody i parki to miejsca, gdzie można uciec od społecznych konwencji i odnaleźć autentyczność.
-
-### Morze w Balbec
-Morze to symbol nieskończoności i przemijania - natura jako przeciwwaga dla sztuczności społeczeństwa.
-
-### Interpretacja środowiskowa
-Proustowskie opisy natury zawierają proto-ekologiczną świadomość zagrożenia środowiska przez industrializację.
+### Queer Interpretation
+The fluidity of gender roles in Proust (Charlus, Saint-Loup, the narrator himself) anticipates contemporary understandings of gender as performative.
 
 ---
 
-## 30. Symbolika światła i cienia
+## 15. Jewish Symbolism
 
-### Światło jako metafora poznania
-Gra światła i cienia w opisach Prousta to nie tylko efekty malarskie, ale metafory poznawczych olśnień i zaślepień.
+### Jews as "Others"
+Jews in the novel (Bloch, Swann partially) are figures of outsiders trying to assimilate into French society.
 
-### Latarnia magiczna
-Dziecięca latarnia magiczna to symbol sztuki jako iluzji, ale też jako medium odkrywania prawdy.
+### Dreyfus Affair as Line of Division
+The Dreyfus case divides society and reveals the hidden anti-Semitism of the French elite.
 
-### Interpretacja fenomenologiczna
-Proustowskie opisy światła zapowiadają fenomenologiczne analizy percepcji i doświadczenia świata.
+### Postcolonial Interpretation
+Jews in Proust are an example of an ethnic minority struggling with discrimination in the heart of European civilization.
 
 ---
 
-## Podsumowanie
+## 16. Art as the Only Form of Immortality
 
-"W poszukiwaniu straconego czasu" to dzieło o niewyczerpanych pokładach symbolicznych. Każde pokolenie czytelników odkrywa w nim nowe warstwy znaczeń - od klasycznych interpretacji modernistycznych, przez psychoanalityczne, aż po współczesne queer, feministyczne i postkolonialne. Trwałość tej prozy polega na jej zdolności do ciągłej reinterpretacji - jak magdalenka w herbacie, książka Prousta rozpuszcza granice między epokami i kulturami, otwierając ciągle nowe pokłady znaczeń.
+### Literature as Redemption
+The last volume of the novel reveals that the narrator's goal was to write the book we are reading. Art becomes the only form of overcoming time.
 
-Proust stworzył dzieło, które nie tylko opisuje poszukiwanie straconego czasu, ale samo staje się narzędziem tego poszukiwania dla kolejnych pokoleń czytelników. W tym sensie powieść osiągnęła cel, jaki stawiał sobie jej narrator - stała się sztuką, która przezwycięża czas i śmierć.
+### Artist as Priest
+The artist has a quasi-religious mission in Proust - discovers truths inaccessible to ordinary people and transmits them in artwork.
+
+### Modernist Interpretation
+Art for art's sake - the only value is artistic beauty, everything else (politics, society, morality) is secondary.
+
+---
+
+## 17. Modern Psychoanalytic Interpretations
+
+### Object Relations Theory
+Contemporary psychoanalysis sees in Proust's descriptions of relationships a precursory description of "object relations" - the way we create internal representations of other people.
+
+### Lacanian Interpretation
+The transition from "imaginary" to "symbolic" in Lacan finds reflection in the narrator's journey from fascination with names to knowledge of reality.
+
+### Trauma and Memory
+Proustian involuntary memory is essentially a description of trauma and its working-through - a therapeutic process through art.
+
+---
+
+## 18. Postmodernist Interpretations
+
+### Fragmentary Experience
+Proust's narrative structure anticipates postmodern understanding of reality as fragmentary and incoherent.
+
+### Intertextuality
+Numerous references to other artworks in the novel are a vestibule to postmodern intertextuality.
+
+### Crisis of Subject
+Proust's narrator is an unstable, changing subject, which anticipates the postmodern identity crisis.
+
+---
+
+## 19. Feminist Interpretations
+
+### Critique of Patriarchy
+Contemporary feminists see in Proust's novel a critique of patriarchal structures of fin de siècle society.
+
+### Women as Victims of Male Projections
+Odette and Albertine are victims of male fantasies - they are never shown as complete persons, only as objects of male desires.
+
+### Mother as Central Figure
+The narrator's mother is one of the few positive female figures - symbol of unconditional love and security.
+
+---
+
+## 20. Polish Reception and National Interpretations
+
+### Translation as Interpretation
+Boy-Żeleński's Polish translation "normalized" the novel's structure, which changed its meaning. Rodowska's new translation restores the original form.
+
+### "Lost" vs "Wasted" Time
+Discussion about the Polish translation of the title reveals differences in understanding time - "lost" suggests possibility of recovery, "wasted" - definitive loss.
+
+### Polish Psychoanalytic Reception
+Polish critics early noticed connections between Proust and psychoanalysis, despite the author not knowing Freud's works.
+
+---
+
+## 21. Culinary Symbolism
+
+### Tea as Initiation Drink
+Tea is not only background for the madeleine but a symbol of civilized rituals that connect generations.
+
+### Asparagus as Class Symbol
+The description of asparagus at Aunt Léonie's is a masterful example of literature that gives meaning to the smallest details of everyday life.
+
+### Anthropological Interpretation
+Food in Proust is a cultural code - each dish carries information about social class and status.
+
+---
+
+## 22. Symbolism of Fashion and Dress
+
+### Dress as Social Mask
+Descriptions of characters' attire are not decoration but analysis of social roles and ambitions.
+
+### Odette as Fashion Icon
+Odette's transformations from courtesan to salon lady are reflected in changes to her dress - fashion as tool of social metamorphosis.
+
+### Semiotic Interpretation
+Clothing is a system of signs to be read by the initiated in Proust - social semiology avant la lettre.
+
+---
+
+## 23. Technology and Modernity
+
+### Telephone as Symbol
+The first telephones in the novel are symbols of modernity but also threat to traditional forms of communication.
+
+### Automobile as Metaphor
+Car journeys change the way of perceiving landscape - symbol of acceleration of historical time.
+
+### Media Studies Interpretation
+Proust intuitively predicts the impact of new media on human perception of reality.
+
+---
+
+## 24. Symbolism of Theater and Performance
+
+### Berma as Symbol of True Art
+The actress Berma's performance is for the narrator a revelation of authentic art opposed to the social theater of salons.
+
+### Life as Performance
+All characters "play" their social roles - life becomes theater, and identity becomes performance.
+
+### Dramaturgical Interpretation
+Proust's analysis of society anticipates Erving Goffman's sociology and his theory of "presentation of self."
+
+---
+
+## 25. Symbolism of Travel
+
+### "Swann's Way" vs "Guermantes Side"
+The two paths of walks in Combray are metaphors for two ways of life - bourgeois and aristocratic.
+
+### Venice as Travel Destination
+Venice is not only a city but a symbol of artistic pilgrimage - a place where art and life unite.
+
+### Philosophical Interpretation
+Travel in Proust is always inner travel - geographical movement is a pretext for exploring the psyche.
+
+---
+
+## 26. Contemporary Adaptations and Reinterpretations
+
+### Film and Television
+Film adaptations of Proust always face the problem of translating introspective narrative into visual language.
+
+### Queer Interpretations
+Contemporary readings expose homoerotic threads and see Proust as a precursor to queer theory.
+
+### Postcolonial Interpretations
+Analysis of Frenchness in Proust through the lens of colonialism reveals hidden power structures in the belle époque.
+
+---
+
+## 27. Symbolism of Religion and Transcendence
+
+### Churches as Orientation Points
+Churches in Combray and other towns are not only monuments but symbols of cultural and spiritual continuity.
+
+### Art as Religion
+For the narrator, art replaces traditional religion - becomes a source of transcendent experiences.
+
+### Theological Interpretation
+Proust's conception of time contains elements of mysticism - eternal time opposed to chronological time.
+
+---
+
+## 28. Symbolism of Death
+
+### Grandmother as Figure of Death
+The grandmother's death is the narrator's first real contact with mortality - the end of childhood innocence.
+
+### Bergotte and Elstir
+The death of artists shows that only art will survive - artists die, but their works achieve immortality.
+
+### Thanatological Interpretation
+The entire novel is essentially an attempt to overcome death through art - literary necromancy.
+
+---
+
+## 29. Ecocritical Interpretations
+
+### Nature as Refuge
+Gardens and parks are places where one can escape social conventions and find authenticity.
+
+### Sea in Balbec
+The sea is a symbol of infinity and transience - nature as counterweight to society's artificiality.
+
+### Environmental Interpretation
+Proust's descriptions of nature contain proto-ecological awareness of environmental threats from industrialization.
+
+---
+
+## 30. Symbolism of Light and Shadow
+
+### Light as Metaphor of Knowledge
+The play of light and shadow in Proust's descriptions is not only painterly effects but metaphors for cognitive illuminations and blindnesses.
+
+### Magic Lantern
+The childhood magic lantern is a symbol of art as illusion but also as medium for discovering truth.
+
+### Phenomenological Interpretation
+Proust's descriptions of light anticipate phenomenological analyses of perception and world experience.
+
+---
+
+## Summary
+
+"In Search of Lost Time" is a work of inexhaustible symbolic deposits. Each generation of readers discovers new layers of meaning in it - from classical modernist interpretations, through psychoanalytic, to contemporary queer, feminist, and postcolonial ones. The durability of this prose lies in its ability for continuous reinterpretation - like the madeleine in tea, Proust's book dissolves boundaries between epochs and cultures, constantly opening new deposits of meaning.
+
+Proust created a work that not only describes the search for lost time but itself becomes a tool of that search for successive generations of readers. In this sense, the novel achieved the goal set by its narrator - it became art that overcomes time and death.

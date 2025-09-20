@@ -1,147 +1,147 @@
-# Lokalny kontekst kulturowy: "Manifest komunistyczny" w Polsce
+# Local Cultural Context: "The Communist Manifesto" in Poland
 
-## Wprowadzenie
+## Introduction
 
-"Manifest Partii Komunistycznej" Karla Marksa i Friedricha Engelsa, napisany na przełomie lat 1847-1848 i opublikowany w lutym 1848 w Londynie, zajmuje szczególne miejsce w polskiej historii intelektualnej i kulturowej. Dzieło to, które rozpoczyna się słynnymi słowami "Widmo krąży po Europie - widmo komunizmu", ma głębokie korzenie w polskim kontekście kulturowym i edukacyjnym.
+"The Communist Manifesto" by Karl Marx and Friedrich Engels, written between 1847-1848 and published in February 1848 in London, holds a special place in Polish intellectual and cultural history. This work, which begins with the famous words "A spectre is haunting Europe — the spectre of communism," has deep roots in Polish cultural and educational context.
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze polskie wydania
-- **1892-1896**: Manifest został wydany jako tomik pierwszy "Biblioteki Polityczno-Społecznej" socjalistycznego "Przedświtu" w Londynie
-- **Pismo "Przedświt"**: Ukazywało się z przerwami od 1881 roku, a od lipca 1891 w Londynie
-- **Okres PRL**: Wielokrotne wydania przez wydawnictwa państwowe, szczególnie Książka i Wiedza w ramach serii "Biblioteki Klasyków Marksizmu-Leninizmu"
-- **Współczesność**: Ostatnie polskie wydanie z 2006 roku nakładem wydawnictwa Jirafa Roja
+### First Polish Editions
+- **1892-1896**: The Manifesto was published as volume one of "Political-Social Library" by the socialist "Przedświt" in London
+- **"Przedświt" Magazine**: Published intermittently from 1881, and from July 1891 in London
+- **Communist Era (PRL)**: Multiple editions by state publishers, especially Książka i Wiedza in the "Classics of Marxism-Leninism Library" series
+- **Contemporary**: Last Polish edition from 2006 by Jirafa Roja publishing house
 
-### Znaczenie dla Polski w tekście
-Engels w wstępie do polskiego wydania pisał: **"Odrodzenie niepodległej, silnej Polski jest sprawą, która obchodzi nie tylko Polaków, ale nas wszystkich"**. Według niego niepodległość Polski mogła wywalczyć tylko proletariat, ponieważ szlachta nie potrafiła ani utrzymać ani odzyskać niepodległości, a burżuazji sprawa ta była obojętna.
+### Poland's Significance in the Text
+Engels wrote in the preface to the Polish edition: **"The revival of an independent, strong Poland is a matter that concerns not only Poles, but all of us"**. According to him, Poland's independence could only be won by the proletariat, since the nobility could neither maintain nor regain independence, and the bourgeoisie was indifferent to this cause.
 
-## Polscy tłumacze i interpretatorzy
+## Polish Translators and Interpreters
 
 ### Edward Lipiński (1888-1986)
-- **Tło**: Ekonomista, profesor SGH i SGPiS, działacz PPS od 1906 roku
-- **Wkład**: Doskonałe współtłumaczenia pierwszego i trzeciego tomu "Kapitału" Marksa
-- **Ewolucja poglądów**: Początkowo propagator idei komunistycznych i marksista, wykluczony z PZPR w 1966, od 1977 członek KOR
-- **Znaczenie**: Nazywany "żywą legendą polskiego ruchu socjalistycznego i polskiego marksizmu"
+- **Background**: Economist, professor at SGH and SGPiS, PPS activist from 1906
+- **Contribution**: Excellent co-translations of the first and third volumes of Marx's "Capital"
+- **Evolution of Views**: Initially a propagator of communist ideas and Marxist, expelled from PZPR in 1966, member of KOR from 1977
+- **Significance**: Called "a living legend of the Polish socialist movement and Polish Marxism"
 
 ### Julian Marchlewski (1866-1925)
-- **Pseudonimy**: Karski, Kujawiak
-- **Działalność**: Polski polityk komunistyczny, rewolucyjny działacz i publicysta
-- **Pozycja**: Przewodniczący Tymczasowego Polskiego Komitetu Rewolucyjnego
-- **Wkład**: Znaczący wpływ na propagowanie marksizmu w Polsce
+- **Pseudonyms**: Karski, Kujawiak
+- **Activity**: Polish communist politician, revolutionary activist and journalist
+- **Position**: Chairman of the Provisional Polish Revolutionary Committee
+- **Contribution**: Significant influence on promoting Marxism in Poland
 
-## Kontekst edukacyjny w Polsce
+## Educational Context in Poland
 
-### Okres PRL
-- **Lektura obowiązkowa**: Manifest był częścią programu nauczania w szkołach średnich
-- **Wydania szkolne**: Publikowano w specjalnych wydaniach dla młodzieży
-- **Hasło przewodnie**: "Proletariusze wszystkich krajów, łączcie się!" pojawiało się w tytułach "Trybuny Ludu" i "Robotnika"
+### Communist Era (PRL)
+- **Required Reading**: The Manifesto was part of high school curriculum
+- **School Editions**: Published in special editions for youth
+- **Guiding Slogan**: "Proletarians of all countries, unite!" appeared in titles of "Trybuna Ludu" and "Robotnik"
 
-### Współczesna recepcja w edukacji
-- **Studenci nauk politycznych**: Nadal podstawowa lektura na kierunkach politologicznych
-- **Historia myśli społecznej**: Uznawany za kluczowy tekst w badaniach nad historią idei
-- **Krytyczne podejście**: Współczesna młodzież często podchodzi krytycznie do radykalnych tez Manifestu
+### Contemporary Reception in Education
+- **Political Science Students**: Still basic reading in political science programs
+- **History of Social Thought**: Recognized as a key text in the study of history of ideas
+- **Critical Approach**: Contemporary youth often approach the Manifesto's radical theses critically
 
-## Problemy z tłumaczeniem i różnice kulturowe
+## Translation Problems and Cultural Differences
 
-### Słynne tłumaczenie otwarcia
-- **Niemiecki oryginał**: "Ein Gespenst geht um in Europa – das Gespenst des Kommunismus"
-- **Polskie tłumaczenie**: "Widmo krąży po Europie – widmo komunizmu"
-- **Znaczenie**: Słowo "Gespenst" przetłumaczone jako "widmo" stało się ikoniczne w polskiej kulturze
+### Famous Opening Translation
+- **German Original**: "Ein Gespenst geht um in Europa – das Gespenst des Kommunismus"
+- **Polish Translation**: "Widmo krąży po Europie – widmo komunizmu"
+- **Significance**: The word "Gespenst" translated as "widmo" (spectre) became iconic in Polish culture
 
-### Problemy językowe
-- **Terminologia marksistowska**: Konieczność tworzenia polskiej terminologii filozoficzno-ekonomicznej
-- **Kontekst historyczny**: Dostosowywanie uniwersalnych tez do specyfiki polskiej historii i kultury
-- **Metafory**: Przekład metafor i obrazów literackich wymagał znajomości obu kultur
+### Linguistic Problems
+- **Marxist Terminology**: Need to create Polish philosophical-economic terminology
+- **Historical Context**: Adapting universal theses to the specificity of Polish history and culture
+- **Metaphors**: Translation of metaphors and literary images required knowledge of both cultures
 
-## Polskie adaptacje kulturowe
+## Polish Cultural Adaptations
 
-### Literatura i muzyka
-- **Luigi Nono**: Kompozycja "Po świecie krąży widmo" (1971) bezpośrednio nawiązująca do Manifestu
-- **Literatura**: Częste cytowanie i nawiązywanie w polskiej literaturze politycznej i społecznej
+### Literature and Music
+- **Luigi Nono**: Composition "Po świecie krąży widmo" (1971) directly referencing the Manifesto
+- **Literature**: Frequent quotations and references in Polish political and social literature
 
-### Współczesne nawiązania
-- **Publicystyka**: Tytuły artykułów jak "Widmo krąży po Europie - widmo komunizmu 2.0"
-- **Memy internetowe**: Fraza "widmo komunizmu" często używana w internetowej kulturze memów
-- **Komentarze polityczne**: Stała obecność w polskim dyskursie politycznym
+### Contemporary References
+- **Journalism**: Article titles like "A spectre is haunting Europe - the spectre of communism 2.0"
+- **Internet Memes**: The phrase "spectre of communism" often used in internet meme culture
+- **Political Commentary**: Constant presence in Polish political discourse
 
-## Akademickie interpretacje polskich badaczy
+## Academic Interpretations by Polish Scholars
 
 ### Leszek Kołakowski (1927-2009)
-- **Ocena**: Nazwał Manifest **"arcydziełem politycznej literatury propagandowej"**
-- **Analiza**: "Od momentu Manifestu komunistycznego teoria Marksa o zjawiskach społecznych wraz z zasadami walki praktycznej była już gotowa w postaci dobrze ukształtowanego szkieletu"
-- **Ewolucja**: Przeszedł drogę od marksisty do jednego z głównych krytyków marksizmu
+- **Assessment**: Called the Manifesto **"a masterpiece of political propaganda literature"**
+- **Analysis**: "From the moment of the Communist Manifesto, Marx's theory of social phenomena along with principles of practical struggle was already ready in the form of a well-shaped skeleton"
+- **Evolution**: Progressed from Marxist to one of the main critics of Marxism
 
 ### Adam Schaff (1913-2006)
-- **Rola**: Promotor prac magisterskiej i kandydackiej Kołakowskiego
-- **Podejście**: Próbował reformować marksizm wzbogacając ideologię filozofią humanistyczną
-- **Znaczenie**: Kluczowa postać w polskim marksizmie okresu powojennego
+- **Role**: Promoter of Kołakowski's master's and doctoral theses
+- **Approach**: Tried to reform Marxism by enriching ideology with humanistic philosophy
+- **Significance**: Key figure in Polish post-war Marxism
 
 ### Jerzy Szacki (1929-2016)
-- **Wkład**: Autor fundamentalnej "Historii myśli socjologicznej"
-- **Perspektywa**: Badacz umieszczający marksizm w szerokim kontekście rozwoju myśli społecznej
+- **Contribution**: Author of the fundamental "History of Sociological Thought"
+- **Perspective**: Researcher placing Marxism in the broad context of social thought development
 
-## Fan community i specyfika polska
+## Fan Community and Polish Specificity
 
-### Współczesne organizacje
-- **Stowarzyszenie Marksistów Polskich**: Aktywnie propaguje znajomość klasycznych tekstów marksistowskich
-- **Grupy akademickie**: Studenckie koła naukowe zajmujące się myślą marksistowską
-- **Portal Marxists.org**: Polskojęzyczna sekcja z pełnym tekstem Manifestu
+### Contemporary Organizations
+- **Association of Polish Marxists**: Actively promotes knowledge of classical Marxist texts
+- **Academic Groups**: Student research circles dealing with Marxist thought
+- **Marxists.org Portal**: Polish-language section with full text of the Manifesto
 
-### Krytyczne podejście
-- **Młodzież**: Często krytyczny stosunek do przedstawienia relacji burżuazja-proletariat
-- **Oceny**: "Radykalny, bezkompromisowy, w kwestii diagnoz niestety przerażająco aktualny, w kwestii zaleceń - niepoprawnie optymistyczny i utopijny"
+### Critical Approach
+- **Youth**: Often critical attitude toward the presentation of bourgeoisie-proletariat relations
+- **Assessments**: "Radical, uncompromising, terrifyingly current in terms of diagnoses, incorrectly optimistic and utopian in terms of recommendations"
 
-## Lokalne nawiązania i easter eggi
+## Local References and Easter Eggs
 
-### W mediach
-- **TVP**: Program "Dobry tytuł - Widmo komunizmu" nawiązujący do słynnego otwarcia
-- **Prasa**: Stałe wykorzystywanie frazy w nagłówkach i artykułach politycznych
-- **Internet**: Memy i ironiczne nawiązania do "widma krążącego po Polsce"
+### In Media
+- **TVP**: Program "Good Title - The Spectre of Communism" referencing the famous opening
+- **Press**: Constant use of the phrase in headlines and political articles
+- **Internet**: Memes and ironic references to "the spectre haunting Poland"
 
-### W życiu codziennym
-- **Żarty polityczne**: Fraza "widmo X krąży po Polsce" jako szablon dla różnych komentarzy społecznych
-- **Graffiti**: Sporadyczne pojawianie się cytatów z Manifestu na murach
-- **Happeningi**: Performanse artystyczne nawiązujące do symboliki komunistycznej
+### In Daily Life
+- **Political Jokes**: The phrase "the spectre of X is haunting Poland" as a template for various social commentaries
+- **Graffiti**: Sporadic appearance of Manifesto quotes on walls
+- **Happenings**: Artistic performances referencing communist symbolism
 
-## Kontrowersje i różnice interpretacyjne
+## Controversies and Interpretative Differences
 
-### Okres transformacji
-- **1989-1999**: Manifest stał się symbolem minionej epoki
-- **Reinterpretacja**: Próby odczytywania jako dokumentu historycznego, nie programu politycznego
-- **Edukacja**: Debaty o miejscu w programie nauczania historii
+### Transformation Period
+- **1989-1999**: The Manifesto became a symbol of the bygone era
+- **Reinterpretation**: Attempts to read it as a historical document, not a political program
+- **Education**: Debates about its place in history curriculum
 
-### Współczesne dyskusje
-- **Releawntność**: Czy diagnozy Manifestu są nadal aktualne w XXI wieku?
-- **Globalizacja**: Fragment o globalnym charakterze gospodarki kapitalistycznej często cytowany
-- **Krytyka**: "To co się historycznie działo przy wprowadzaniu tego totalitarnego bestialstwa, nie było wynikiem wypaczeń teoretycznych założeń"
+### Contemporary Discussions
+- **Relevance**: Are the Manifesto's diagnoses still current in the 21st century?
+- **Globalization**: Fragment about the global nature of capitalist economy often quoted
+- **Criticism**: "What historically happened when introducing this totalitarian bestiality was not the result of distortions of theoretical assumptions"
 
-## Ciekawostki dla polskich słuchaczy
+## Interesting Facts for Polish Listeners
 
-1. **Londyński kontekst**: Manifest został wydany w Londynie, gdzie później działało pismo "Przedświt"
+1. **London Context**: The Manifesto was published in London, where the "Przedświt" magazine later operated
 
-2. **Wpływ na powstanie styczniowe**: Engels nawiązywał do powstania styczniowego jako przykładu nieskuteczności szlachty
+2. **Influence on January Uprising**: Engels referred to the January Uprising as an example of the nobility's ineffectiveness
 
-3. **Bestseller**: Francis Wheel zauważył, że "nawet Karol Marks nie przypuszczałby, że pod koniec tysiąclecia jego nieduży traktat wciąż będzie bestsellerem"
+3. **Bestseller**: Francis Wheel noted that "even Karl Marx would not have supposed that at the end of the millennium his small treatise would still be a bestseller"
 
-4. **Krakowskie ślady**: W krakowskich księgarniach studenckich Manifest był jedną z najczęściej kupowanych książek w latach 60. i 70.
+4. **Krakow Traces**: In Krakow student bookstores, the Manifesto was one of the most frequently bought books in the 1960s and 1970s
 
-5. **Przekłady**: Istnieje dziewięć różnych angielskich wydań, co pokazuje międzynarodową popularność
+5. **Translations**: There are nine different English editions, showing international popularity
 
-6. **Cenzura**: W Polsce międzywojennej Manifest krążył jako literatura zakazana
+6. **Censorship**: In interwar Poland, the Manifesto circulated as forbidden literature
 
-7. **Współczesność**: Ostatnie wydanie z 2006 roku nadal znajduje czytelników wśród studentów
+7. **Contemporary**: The last 2006 edition still finds readers among students
 
-8. **Marxists.org**: Pełny tekst dostępny online w polskiej sekcji tej międzynarodowej strony
+8. **Marxists.org**: Full text available online in the Polish section of this international site
 
-9. **Terminologia**: Polskie terminy jak "proletariat" czy "burżuazja" weszły do języka potocznego głównie dzięki tłumaczeniom marksistowskim
+9. **Terminology**: Polish terms like "proletariat" or "bourgeoisie" entered colloquial language mainly thanks to Marxist translations
 
-10. **Ironia historii**: Książka krytykująca kapitalizm stała się produktem komercyjnym wydawanym przez prywatne wydawnictwa
+10. **Historical Irony**: A book criticizing capitalism became a commercial product published by private publishers
 
-## Znaczenie dla współczesnej Polski
+## Significance for Contemporary Poland
 
-Manifest komunistyczny pozostaje w Polsce dokumentem o szczególnym znaczeniu historycznym i kulturowym. Niezależnie od politycznych poglądów, jest uznawany za kluczowy tekst dla zrozumienia europejskiej historii XIX i XX wieku. Jego wpływ na polską myśl społeczną, od socjalistów przez komunistów po współczesnych krytyków marksizmu, czyni go nieodzownym elementem polskiego dziedzictwa intelektualnego.
+The Communist Manifesto remains a document of special historical and cultural significance in Poland. Regardless of political views, it is recognized as a key text for understanding European history of the 19th and 20th centuries. Its influence on Polish social thought, from socialists through communists to contemporary critics of Marxism, makes it an indispensable element of Polish intellectual heritage.
 
-Współcześnie Manifest funkcjonuje bardziej jako dokument historyczny niż program polityczny, ale jego diagnozy dotyczące kapitalizmu wciąż wywołują dyskusje wśród akademików, studentów i komentatorów społecznych w Polsce.
+Today, the Manifesto functions more as a historical document than a political program, but its diagnoses concerning capitalism still provoke discussions among academics, students, and social commentators in Poland.
 
 ---
-*Opracowano na podstawie dostępnych źródeł historycznych, akademickich i kulturowych dotyczących recepcji "Manifestu komunistycznego" w Polsce.*
+*Compiled based on available historical, academic, and cultural sources regarding the reception of "The Communist Manifesto" in Poland.*

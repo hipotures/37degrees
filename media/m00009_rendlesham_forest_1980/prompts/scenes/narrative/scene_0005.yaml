@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Night Investigation Begins - December 28, 1980"
+  setting:
+    time: "December 28, 1980, 01:00 AM"
+    location: "Dense managed pine forest interior, Rendlesham Forest, Suffolk, England - Scots and Corsican pine stands"
+    weather: "Cold winter night, possible light fog, near freezing temperatures"
+  characters:
+    - appearance: "Caucasian man, 41 years old, military bearing, authoritative presence, determined expression"
+      clothing: "U.S. Air Force winter field uniform - OG-107 cotton sateen or early BDU woodland camouflage, M-65 field jacket, thermal underwear, field cap, black military boots, subdued rank insignia on collar"
+      position: "Standing with confident military posture, often holding handheld cassette recorder"
+      action: "Leading investigation, documenting events on tape recorder, directing team members"
+    - appearance: "Caucasian man, military age, technical specialist demeanor, concentrated expression"
+      clothing: "U.S. Air Force winter field uniform - woodland camouflage BDU or OG-107, M-65 field jacket, thermal underwear, field cap, combat boots, Disaster Preparedness specialist insignia"
+      position: "Crouched or standing while operating technical equipment"
+      action: "Operating AN/PDR-27 radiation survey meter, taking measurements, monitoring Geiger counter readings"
+  scene:
+    mainElements: "Tall pine trees creating dark canopy, sandy soil covered with pine needles, ferns and heather undergrowth, forestry roads, small clearings. Investigation team moving through forest with technical equipment, taking systematic measurements."
+    details: "Dense forest environment with investigation team conducting methodical scientific examination. Portable military radiation detector - metal rectangular device (13x28x20 cm) with carrying handle, analog meter display with needle gauge, detection probe on retractable cord, clicking sound mechanism for radiation detection being operated actively. Handheld cassette tape recorder with red recording light, used for documenting investigation, metal and plastic construction typical of 1980 portable recording devices recording continuous commentary. Standard U.S. Air Force issued flashlight with metal body, powerful beam for cutting through forest darkness, typical 1980 military specifications illuminating forest floor."
+    background: "Deep forest with vertical pine trunks creating shadowed corridors, mysterious dark depths beyond flashlight reach"
+    atmosphere: "Dark, dense forest with flashlight beams cutting through darkness, natural film noir lighting, fog diffusing distant lights. Scientific investigation atmosphere with electronic equipment sounds and measured documentation procedures, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot following investigation team through forest"
+    focus: "Technical specialist operating radiation detector while commander records observations"
+    depth: "Foreground: Geiger counter and recording equipment. Middle: investigation team moving through trees. Background: dark forest depths with mysterious shadows"

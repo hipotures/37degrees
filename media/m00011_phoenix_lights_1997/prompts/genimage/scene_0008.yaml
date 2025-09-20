@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: March 13, 1997, 10:15 PM MST, night
+    location: Sierra Estrella mountain range southwest of Phoenix, Arizona
+    weather: Clear night sky with excellent visibility
+  characters:
+  - appearance: Adult resident, 30s-40s, focused expression holding camera equipment
+    clothing: Casual evening clothing, light sweater or shirt
+    position: Standing in elevated position with clear mountain view
+    action: Operating video camera to record lights descent, steadying camera for extended filming
+  scene:
+    mainElements: Rocky desert mountain ridgeline silhouetted against evening sky
+    details: LUU-2B/B illumination flares, extremely bright magnesium-based light source, deployed on parachutes, creating
+      steady golden-amber glow against night sky, 2 million candlepower intensity slowly descending toward mountain ridgeline,
+      lights appearing to sink behind Sierra Estrella peaks one by one, witness with video camera documenting the gradual
+      disappearance, each light maintaining brilliant intensity until vanishing behind mountain silhouette, thermal updrafts
+      and parachute systems causing slow controlled descent, desert landscape silhouetted in foreground, no text or letters
+      visible
+    background: Dramatic mountain backdrop, clear visibility, desert landscape
+    atmosphere: Climactic conclusion to evening's aerial phenomena as lights gradually vanish behind natural barriers
+  composition:
+    cameraAngle: Medium wide shot emphasizing relationship between descending lights and mountain ridgeline
+    focus: Descending lights approaching mountain silhouette with documenting witness
+    depth: Foreground shows witness with recording equipment, middle ground captures desert terrain approaching mountains,
+      background dominated by lights descending behind ridgeline
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

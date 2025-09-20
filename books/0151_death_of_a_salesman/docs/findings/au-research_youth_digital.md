@@ -1,104 +1,104 @@
-# Młodzieżowe Połączenia Cyfrowe: "Śmierć komiwojażera" w Erze Gen Z
+# Youth Digital Connections: "Death of a Salesman" in the Gen Z Era
 
-## Wprowadzenie
-Arthur Miller's "Death of a Salesman" (1949) znajduje zaskakująco żywe echo w cyfrowej kulturze młodzieżowej 2023-2024. Choć sztuka nie stała się viralem na TikToku, jej tematy rezonują głęboko z doświadczeniami Gen Z i millenialsów w erze social media.
+## Introduction
+Arthur Miller's "Death of a Salesman" (1949) finds surprisingly vibrant echoes in youth digital culture of 2023-2024. While the play hasn't become a TikTok viral sensation, its themes resonate deeply with Gen Z and millennial experiences in the social media era.
 
-## 🔍 Social Media jako Lustro Willy'ego Lomana
+## 🔍 Social Media as Willy Loman's Mirror
 
-### LinkedIn i Professional Branding (2024)
-- **"Death of a Salesman: Could social selling have saved Willy Loman?"** - artykuł LinkedIn Business z 2024
-- Willy's obsesja na punkcie bycia "well-liked" = współczesne LinkedIn networking
-- Focus na sprzedawanie siebie zamiast produktu = personal branding culture
-- Paranoja o likability = metrics obsession (likes, connections, endorsements)
+### LinkedIn and Professional Branding (2024)
+- **"Death of a Salesman: Could social selling have saved Willy Loman?"** - LinkedIn Business article from 2024
+- Willy's obsession with being "well-liked" = contemporary LinkedIn networking
+- Focus on selling yourself instead of the product = personal branding culture
+- Paranoia about likability = metrics obsession (likes, connections, endorsements)
 
-### Facebook i Instagram Reality Curation
+### Facebook and Instagram Reality Curation
 - **"To Be 'Well Liked' on Facebook? The Willy Loman in All of Us"** (Intimate Excellent, 2024)
-- Ludzie stają się wersjami Willy'ego, forever online sprzedając swoje życie
-- Advertizing każdego posiłku, podróży, doświadczenia = Willy's sales mentality
-- Vestiges of Willy's tormenting self-doubt w potrzebie advertisingu każdej chwili życia
-- Endless Facebook updates mają vanquish inner voice mówiący, że życie jest built on sand
+- People become versions of Willy, forever online selling their lives
+- Advertising every meal, trip, experience = Willy's sales mentality
+- Vestiges of Willy's tormenting self-doubt in the need to advertise every moment of life
+- Endless Facebook updates attempting to vanquish the inner voice saying life is built on sand
 
-## 💭 Mental Health Connections dla Gen Z
+## 💭 Mental Health Connections for Gen Z
 
-### Tematyka Zdrowia Psychicznego (2023-2024)
-- **Depresja i izolacja**: Willy's sinking into depression resonuje z mental health crisis młodzieży
+### Mental Health Themes (2023-2024)
+- **Depression and isolation**: Willy's sinking into depression resonates with youth mental health crisis
 - **Suicidal ideation**: "all these accidents in the last year---weren't---weren't accidents" = modern suicide awareness campaigns
-- **Reality vs. illusion**: Willy's psychotic episodes = mental health destigmatization w social media
-- **Talking to himself**: "Something's – happening to him. He – talks to himself" = self-care i therapy normalization
+- **Reality vs. illusion**: Willy's psychotic episodes = mental health destigmatization on social media
+- **Talking to himself**: "Something's – happening to him. He – talks to himself" = self-care and therapy normalization
 
-### Bipolar Reading Contemporary
-- Analiza z 2024: Willy pokazuje "agitated side of mania, or else mixed episode before suicide"
-- Gen Z awareness o bipolar disorder = nowe interpretacje klasyki
+### Contemporary Bipolar Reading
+- 2024 analysis: Willy shows "agitated side of mania, or else mixed episode before suicide"
+- Gen Z awareness of bipolar disorder = new interpretations of classics
 - "Full range of the disorder, and all its blessings and curses" = mental health literacy
 
-## 📚 BookTok i Klasyka (2023-2024)
+## 📚 BookTok and Classics (2023-2024)
 
 ### BookTok Trends Reality
-- Brak konkretnych trendów #DeathOfASalesman na TikToku w 2023-2024
-- **Ale**: classic literature ma miejsce w BookTok ecosystem
+- No specific #DeathOfASalesman trends on TikTok in 2023-2024
+- **But**: classic literature has a place in the BookTok ecosystem
 - **Dark Academia aesthetic** romanticizes higher education, art, literature
-- Winners TikTok Book Awards 2023: classics like 1984, Never Let Me Go alongside new reads
+- TikTok Book Awards 2023 winners: classics like 1984, Never Let Me Go alongside new reads
 
 ### Educational TikTok Content
 - **"Death of A Salesman A Level Revision"** - TikTok educational content exists
-- **"Using Death of A Salesman for Ap Lit Exam"** - study help format
-- 62% TikTok users z USA przeczytało co najmniej jedną książkę based on BookTok recommendations
-- 60% młodzieży 16-25 lat mówi, że BookTok helped discover passion for reading
+- **"Using Death of A Salesman for AP Lit Exam"** - study help format
+- 62% of TikTok users in the US have read at least one book based on BookTok recommendations
+- 60% of youth aged 16-25 say BookTok helped them discover a passion for reading
 
 ## 🎮 Gaming Culture Parallels
 
-### Brak Direct Gaming Adaptations
-- **Zero video game adaptations** "Death of a Salesman" w 2023-2024
-- Sztuka pozostaje primarily w theatrical i film/TV formats
-- **No evidence** gaming industry interest w tym tytule
+### No Direct Gaming Adaptations
+- **Zero video game adaptations** of "Death of a Salesman" in 2023-2024
+- The play remains primarily in theatrical and film/TV formats
+- **No evidence** of gaming industry interest in this title
 
 ### Potential Gaming Connections
-- **Salesmanship mechanics** w grach (reputation systems, NPC interactions)
+- **Salesmanship mechanics** in games (reputation systems, NPC interactions)
 - **Reality vs. illusion** themes = modern VR/AR gaming narratives
-- **Achievement culture** w grach = Willy's success obsession
-- **Social metrics** w online gaming = being "well-liked" parallel
+- **Achievement culture** in games = Willy's success obsession
+- **Social metrics** in online gaming = being "well-liked" parallel
 
-## 💡 Tech Culture i American Dream Critique
+## 💡 Tech Culture and American Dream Critique
 
 ### Capitalism Critique Relevance (2024)
 - **"Dehumanization of people"** = tech worker burnout, hustle culture
-- **"Capitalist hegemony breaks family relations"** = work-life balance w remote work era
-- **Class struggle i exploitation** = gig economy, startup culture pressure
+- **"Capitalist hegemony breaks family relations"** = work-life balance in remote work era
+- **Class struggle and exploitation** = gig economy, startup culture pressure
 - **American Dream as bait for working class** = tech bro mythology, entrepreneur worship
 
 ### Social Media Success Theatre
-- **Curated success narratives** = Willy's illusions o success
+- **Curated success narratives** = Willy's illusions about success
 - **"Pursuit of the illusion, not reality"** of American Dream = Instagram lifestyle content
 - **Perfection as unachievable part** of dream = influencer culture pressure
 - **Material wealth redefinition** = crypto culture, NFT speculation, get-rich-quick schemes
 
-## 🎭 Contemporary Adaptations dla Młodzieży (2023-2024)
+## 🎭 Contemporary Adaptations for Youth (2023-2024)
 
 ### Recent Productions
-- **Anthony LaPaglia** w Australian production (Melbourne 2023, Sydney 2024)
+- **Anthony LaPaglia** in Australian production (Melbourne 2023, Sydney 2024)
 - **"Wife of a Salesman"** (Eleanor Burgess, 2022) - Writers Theatre world premiere
 - **"Salesman in China"** (Leanna Brodie, Jovanni Sy) - Stratford Festival 2024
 
 ### Educational Theater Programs
-- **Arthur Miller Foundation**: 50% NYC Public Schools theater teachers wsparcie
+- **Arthur Miller Foundation**: 50% of NYC Public Schools theater teachers supported
 - **National Theatre Connections**: 31st year youth theatre festival UK
-- **Percentage NYC Public Schools z certified theater teacher**: wzrost z 10% do 21% od 2015
+- **Percentage of NYC Public Schools with certified theater teacher**: increased from 10% to 21% since 2015
 
-## 📱 Viral Content i Memes
+## 📱 Viral Content and Memes
 
 ### Limited Meme Presence
-- **"Avocado Death of a Salesman"** meme z 2017 (Millennials Know Your Meme)
+- **"Avocado Death of a Salesman"** meme from 2017 (Millennials Know Your Meme)
 - **Dating Site Murderer** meme template referencing Arthur Miller
 - **Facebook page "Death of a Salesman Memes"** - 47 likes (niche community)
-- **Brak major viral trends** w 2023-2024 na Instagram, Twitter, Reddit, TikTok
+- **No major viral trends** in 2023-2024 on Instagram, Twitter, Reddit, TikTok
 
 ### American Dream Meme Content
 - **TikTok "American Dream" memes**: 1.6M posts
 - **American dream as "American nightmare"** content
-- **Satirical takes** na American Dream themes = relevant do play's critique
-- Themes remain relevant w broader social media discourse, ale not concentrated viral format
+- **Satirical takes** on American Dream themes = relevant to play's critique
+- Themes remain relevant in broader social media discourse, but not in concentrated viral format
 
-## 🧠 Psychological i Terapeutyczne Interpretacje
+## 🧠 Psychological and Therapeutic Interpretations
 
 ### Modern Mental Health Lens
 - **"Biochemical abnormality" vs. tragic flaw** debate = clinical vs. dramatic perspective
@@ -106,27 +106,27 @@ Arthur Miller's "Death of a Salesman" (1949) znajduje zaskakująco żywe echo w 
 - **Need for mental health awareness** = play's contemporary relevance
 - **Redefining success beyond material wealth** = therapy culture, mindfulness movement
 
-### Reality vs. Illusion w Digital Age
+### Reality vs. Illusion in Digital Age
 - **Social media curation** = Willy's self-deception
 - **Influence of illusion on reality** = filter culture, deepfakes, virtual influencers
 - **Inability to face harsh realities** = echo chambers, confirmation bias online
 - **Cycle of delusion and failure** = social media addiction, comparison culture
 
-## 🌍 Gen Z Reception i Broadway Curiosity (2024)
+## 🌍 Gen Z Reception and Broadway Curiosity (2024)
 
 ### Theater Interest Statistics
-- **67% Gen Z i Millennials są "Broadway Curious"**
+- **67% of Gen Z and Millennials are "Broadway Curious"**
 - **73% agree social media could help Broadway take off**
 - **71% learn about "pretty much everything" through social media**
-- **Ale 37% don't think they've seen anything about Broadway w feeds**
+- **But 37% don't think they've seen anything about Broadway in their feeds**
 
 ### Social Media Platform Usage
-- **89% Gen Z na Instagram**
-- **84% na YouTube**
-- **82% na TikTok**
+- **89% of Gen Z on Instagram**
+- **84% on YouTube**
+- **82% on TikTok**
 - **TikTok = favorite channel for product discovery**
 
-### Paradox Preference
+### Preference Paradox
 - **"Gen Z & Millennials Don't Want Broadway TikTok-ified"**
 - Young people see Broadway as **social media escape**
 - Desire for authentic experience vs. digital saturation
@@ -142,37 +142,37 @@ Arthur Miller's "Death of a Salesman" (1949) znajduje zaskakująco żywe echo w 
 ### Remote Work Parallels
 - **Traveling salesman isolation** = remote work loneliness 2024
 - **Home/work boundary blur** = Willy's domestic/professional space confusion
-- **Performance anxiety** w virtual meetings = Willy's confidence crisis
+- **Performance anxiety** in virtual meetings = Willy's confidence crisis
 - **Professional identity crisis** = career pivots, industry disruption
 
-## 🔮 Future Implications dla Młodzieży
+## 🔮 Future Implications for Youth
 
 ### Ongoing Relevance Themes
 1. **Social media authenticity vs. performance**
-2. **Mental health awareness i destigmatization**
-3. **Economic inequality i limited opportunities**
-4. **Professional identity w changing job market**
+2. **Mental health awareness and destigmatization**
+3. **Economic inequality and limited opportunities**
+4. **Professional identity in changing job market**
 5. **Family relationships under economic pressure**
 6. **Success redefinition beyond material wealth**
-7. **Reality vs. illusion w digital information age**
+7. **Reality vs. illusion in digital information age**
 
 ### Educational Opportunities
-- **Classic literature przez mental health lens**
+- **Classic literature through mental health lens**
 - **Social media literacy through literary analysis**
-- **Economic critique relevance w current events**
-- **Theater as social media escape i authentic experience**
-- **Professional development lessons z tragic character study**
+- **Economic critique relevance in current events**
+- **Theater as social media escape and authentic experience**
+- **Professional development lessons from tragic character study**
 
-## Podsumowanie
+## Summary
 
-"Death of a Salesman" może nie być TikTok sensation, ale jego tematy głęboko rezonują z digital native generation. Willy Loman's struggle z reality vs. illusion, obsession na being well-liked, i mental health deterioration pod economic pressure speak directly do Gen Z i millennial experiences w 2023-2024. 
+"Death of a Salesman" may not be a TikTok sensation, but its themes deeply resonate with the digital native generation. Willy Loman's struggle with reality vs. illusion, obsession with being well-liked, and mental health deterioration under economic pressure speak directly to Gen Z and millennial experiences in 2023-2024.
 
-Sztuka służy jako powerful mirror dla social media culture, professional branding anxiety, i mental health crisis affecting młodzież dzisiaj. While gaming adaptations nie existują, i viral memes są limited, core themes remain strikingly relevant do contemporary digital culture struggles.
+The play serves as a powerful mirror for social media culture, professional branding anxiety, and the mental health crisis affecting youth today. While gaming adaptations don't exist, and viral memes are limited, the core themes remain strikingly relevant to contemporary digital culture struggles.
 
-Biggest opportunity leży w educational content creation i therapeutic interpretation dla młodzieży navigating similar pressures w digital age. Play's enduring power comes from its unflinching examination themes that transcend technological changes - ludzka potrzeba connection, validation, i authentic success w world obsessed powierzchownością.
+The biggest opportunity lies in educational content creation and therapeutic interpretation for youth navigating similar pressures in the digital age. The play's enduring power comes from its unflinching examination of themes that transcend technological changes - the human need for connection, validation, and authentic success in a world obsessed with surface appearances.
 
 ---
 
-*Badania przeprowadzone: wrzesień 2024*  
-*Źródła: social media research, academic analysis, contemporary theater productions*  
-*Focus: trendy z ostatnich 24 miesięcy z aktualną popularnością*
+*Research conducted: September 2024*
+*Sources: social media research, academic analysis, contemporary theater productions*
+*Focus: trends from the last 24 months with current popularity*

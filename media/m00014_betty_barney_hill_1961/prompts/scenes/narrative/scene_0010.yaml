@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Examination of physical evidence from the encounter"
+  setting:
+    time: "September 1961, days following the incident"
+    location: "Domestic interior, family home in Portsmouth, New Hampshire"
+    weather: "Indoor environment, daylight filtering through windows"
+  characters:
+    - appearance: "White woman, 41 years old, dark hair styled in early 1960s fashion, average height, social worker build"
+      clothing: "Blue dress with light coat, practical travel shoes suitable for 1960s era"
+      position: "Seated at table examining damaged clothing and artifacts"
+      action: "Carefully inspecting torn fabric and mysterious stains on dress, documenting physical evidence"
+    - appearance: "African American man, 39 years old, well-groomed professional appearance, wearing eyeglasses, average height"
+      clothing: "Business casual travel attire consisting of dark slacks, dress shirt, light jacket typical of early 1960s"
+      position: "Standing beside table holding broken binocular strap"
+      action: "Examining military-style field glasses with leather strap now broken and frayed from incident"
+  scene:
+    mainElements: "Blue dress with tears and stains from unidentified pink powder substance, showing physical evidence of unexplained encounter, military-style field glasses with leather strap now broken and frayed from incident, domestic table setting for evidence examination"
+    details: "Torn fabric showing clear damage patterns, pink powder residue visible on dress material, broken binocular strap with frayed leather ends, stopped wristwatch showing time discrepancy, domestic interior furnishings typical of early 1960s New Hampshire home, natural daylight illuminating evidence examination, magnifying glass for detail inspection, no text or letters visible"
+    background: "Typical 1960s American home interior with period-appropriate furniture, wallpaper, and domestic accessories"
+    atmosphere: "Quiet domestic setting transformed into crime scene investigation, mixture of scientific curiosity and personal violation"
+  composition:
+    cameraAngle: "Close-up shot focusing on damaged artifacts and evidence details"
+    focus: "Physical evidence including torn dress, broken binocular strap, and other anomalous artifacts"
+    depth: "Foreground shows detailed evidence examination, middle ground features the investigators, background displays domestic interior setting"

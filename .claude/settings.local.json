@@ -43,7 +43,8 @@
       "mcp__playwright-cdp__browser_hover",
       "Bash(python scripts/afa/afa-prompt-generator.py:*)",
       "mcp__playwright-cdp__browser_wait_for",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Read(//mnt/1/TT/**)"
     ],
     "deny": [],
     "additionalDirectories": [

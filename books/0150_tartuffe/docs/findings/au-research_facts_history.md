@@ -1,154 +1,154 @@
-# "Tartuffe" Moliera - Historia Powstania i Fascynujące Fakty
+# "Tartuffe" by Molière - Creation History and Fascinating Facts
 
-## Podstawowe Informacje
-- **Tytuł**: "Tartuffe ou l'Imposteur" (pol. "Świętoszek")
-- **Autor**: Jean-Baptiste Poquelin (Molière) 
-- **Pierwsza wersja**: 12 maja 1664, Wersal
-- **Publikacja ostatecznej wersji**: 5 lutego 1669
-- **Gatunek**: Komedia w aleksandrynach
-- **Status**: Najczęściej wystawiana sztuka Moliera na świecie
-
----
-
-## Historia Powstania
-
-### **FAKT**: Kontekst biograficzny autora w 1664 roku
-Molière miał 42 lata, był już uznanym dramaturgiem na dworze Ludwika XIV. W 1662 poślubił 19-letnią Armande Béjart, co wywołało skandal z powodu różnicy wieku (23 lata) i kontrowersyjnych związków rodzinnych z rodziną Béjart.
-
-### **FAKT**: Inspiracja z prawdziwego życia
-Sztuka powstała na podstawie bezpośredniej obserwacji życia dworskiego. Molière jako nadworny aktor miał dostęp do wewnętrznych mechanizmów dworu Ludwika XIV w Wersalu, co pozwoliło mu dostrzec rzeczywistą hipokryzję religijną panującą w arystokratycznych kręgach.
-
-### **FAKT**: Miejsce i data pierwszego wykonania
-Premiera odbyła się 12 maja 1664 w ogrodach Wersalu podczas wielkiej fety zwanej "Les Plaisirs de l'île enchantée" (Przyjemności Zaczarowanej Wyspy). Była to część uroczystości inaugurujących nowe ogrody Wersalu.
-
-### **FAKT**: Ukryta dedykacja dla królewskiej kochanki
-**PLOTKA**: Oficjalnie święto było dla królowej i królowej-matki, ale faktyczną bohaterką była królewska kochanka - Mademoiselle de la Vallière.
+## Basic Information
+- **Title**: "Tartuffe ou l'Imposteur" (Eng. "Tartuffe or The Impostor")
+- **Author**: Jean-Baptiste Poquelin (Molière)
+- **First version**: May 12, 1664, Versailles
+- **Final version publication**: February 5, 1669
+- **Genre**: Comedy in alexandrines
+- **Status**: Molière's most frequently performed play worldwide
 
 ---
 
-## Proces Twórczy
+## Creation History
 
-### **FAKT**: Trzy różne wersje sztuki
-1. **Wersja I (1664)**: 3 akty, zakazana po jednym przedstawieniu
-2. **Wersja II (1667)**: 5 aktów, tytuł "L'Imposteur", bohater przemianowany na Panulphe, zakazana po jednym przedstawieniu (5 sierpnia 1667)
-3. **Wersja III (1669)**: Ostateczna wersja, 5 aktów, sukces teatralny
+### **FACT**: Author's biographical context in 1664
+Molière was 42 years old, already an established playwright at the court of Louis XIV. In 1662, he married 19-year-old Armande Béjart, which caused scandal due to the age difference (23 years) and controversial family connections with the Béjart family.
 
-### **FAKT**: Precyzyjne rzemiosło literackie
-Ostateczna wersja składa się z dokładnie 1,962 wersów dwunastosylabowych aleksandrynów ułożonych w rymy parzyste - techniczna perfekcja francuskiego klasycyzmu.
+### **FACT**: Inspiration from real life
+The play was based on direct observation of court life. Molière, as a court actor, had access to the inner mechanisms of Louis XIV's court at Versailles, which allowed him to perceive the real religious hypocrisy prevailing in aristocratic circles.
 
-### **FAKT**: Proces pisania trwał 5 lat
-Od pierwszej wersji (1664) do ostatecznej publikacji (1669) upłynęło 5 lat ciągłych poprawek, negocjacji i walki z cenzurą.
+### **FACT**: Place and date of first performance
+The premiere took place on May 12, 1664, in the gardens of Versailles during the grand festival called "Les Plaisirs de l'île enchantée" (The Pleasures of the Enchanted Island). This was part of the celebrations inaugurating the new gardens of Versailles.
 
----
-
-## Pierwsze Reakcje i Kontrowersy
-
-### **FAKT**: Natychmiastowy skandal religijny
-Arcybiskup Paryża Hardouin de Péréfixe zakazał sztuki już kilka dni po premierze, grożąc ekskomuniką wszystkim, którzy będą ją oglądać, grać lub nawet czytać.
-
-### **FAKT**: Walka z tajną organizacją katolicką
-Głównym przeciwnikiem była "Compagnie du Saint-Sacrement" - tajna organizacja katolicka założona w 1630 roku przez Henriego de Lévis, księcia Ventadour. 17 kwietnia 1664 organizacja postanowiła "zapobiec przedstawieniu tej bezbożnej komedii wszelkimi możliwymi sposobami".
-
-### **FAKT**: Atak z ambony
-W lipcu 1664 Pierre Roullé, proboszcz kościoła Saint-Barthélemy w Paryżu, wygłosił kazanie atakujące Moliera i dostarczył królowi pamflet nazywający autora "demonem w ludzkim ciele".
-
-### **FAKT**: Królewska ochrona
-Mimo kontrowersji Ludwik XIV nigdy nie porzucił Moliera. Bez królewskiej ochrony autor mógłby zostać ekskomunikowany. Pozwalał na prywatne przedstawienia dla arystokracji.
+### **FACT**: Hidden dedication to the royal mistress
+**RUMOR**: Officially, the festival was for the queen and queen mother, but the actual heroine was the royal mistress - Mademoiselle de la Vallière.
 
 ---
 
-## Inspiracje i Prawdziwe Postacie
+## Creative Process
 
-### **FAKT**: Zjawisko "tartufizmu" w XVII wieku
-"Tartufizm" to rzeczywiste zjawisko społeczne opisujące sekciarske grupy ludzi kierujących się fałszywą pobożnością, którzy wbrew głoszonym maksymom o życiu ascetycznym, cieszyli się apetytem, władzą i kontrolą nad innymi.
+### **FACT**: Three different versions of the play
+1. **Version I (1664)**: 3 acts, banned after one performance
+2. **Version II (1667)**: 5 acts, titled "L'Imposteur", protagonist renamed Panulphe, banned after one performance (August 5, 1667)
+3. **Version III (1669)**: Final version, 5 acts, theatrical success
 
-### **FAKT**: Inspiracja jansenizmem
-W kręgach paryskiej Compagnie du Saint-Sacrement znajdowali się ludzie silnie przeciwni jezuitom i bardzo przywiązani do opinii jansenistycznych. Nicolas Pavillon, jeden z "czterech biskupów", który do 1664 roku był uważany za całkowicie jansenistycznego, prawdopodobnie był częścią Kompanii.
+### **FACT**: Precise literary craftsmanship
+The final version consists of exactly 1,962 twelve-syllable alexandrine verses arranged in rhyming couplets - technical perfection of French classicism.
 
-### **PLOTKA**: Model dla Tartuffa
-Istnieje teoria, że postać Tartuffa została zainspirowana konkretną osobą z otoczenia dworu, ale Molière nigdy nie ujawnił tożsamości swojego modelu.
-
----
-
-## Historia Publikacji
-
-### **FAKT**: Rekordowy sukces w 1669 roku
-Po 5 latach zakazów ostateczna wersja odniosła triumfalny sukces - ponad 30 przedstawień z rzędu, co było rekordem epoki. To właśnie ta wersja jest dziś powszechnie grana.
-
-### **FAKT**: Najczęściej grana sztuka w historii
-"Tartuffe" pozostaje najczęściej wystawianą sztuką Moliera w repertuarze Comédie-Française od XVII wieku do dziś.
-
-### **FAKT**: Status językowy
-Słowo "tartuffe" weszło na stałe do języka francuskiego i angielskiego jako określenie hipokryty religijnego.
+### **FACT**: Writing process lasted 5 years
+From the first version (1664) to the final publication (1669), 5 years of continuous revisions, negotiations, and battles with censorship elapsed.
 
 ---
 
-## Życie Prywatne Moliera w Kontekście Sztuki
+## First Reactions and Controversies
 
-### **FAKT**: Burzliwe małżeństwo podczas pisania
-W czasie pracy nad "Tartuffe" Molière przeżywał kryzys małżeński z Armande Béjart. Małżonkowie rozstali się w 1665 roku po urodzeniu córki i pojednali się dopiero w 1671 roku.
+### **FACT**: Immediate religious scandal
+The Archbishop of Paris Hardouin de Péréfixe banned the play just days after the premiere, threatening excommunication for all who would watch, perform, or even read it.
 
-### **FAKT**: Tragedia rodzinna
-Pierwszy syn Moliera i Armande, urodzony w 1664 roku (rok premiery "Tartuffe"), zmarł w dzieciństwie. Również drugi syn (ur. 1672) nie przeżył.
+### **FACT**: Battle with secret Catholic organization
+The main opponent was the "Compagnie du Saint-Sacrement" - a secret Catholic organization founded in 1630 by Henri de Lévis, Duke of Ventadour. On April 17, 1664, the organization decided to "prevent the performance of this impious comedy by all possible means."
 
-### **FAKT**: Armande jako interpretatorka
-Armande Béjart była uważana za najlepszą interpretatorkę ról kobiecych w sztukach Moliera, szczególnie wyróżniała się jako Celimène w "Mizantropie".
+### **FACT**: Attack from the pulpit
+In July 1664, Pierre Roullé, parish priest of Saint-Barthélemy church in Paris, delivered a sermon attacking Molière and provided the king with a pamphlet calling the author "a demon in human flesh."
 
----
-
-## Liczby i Statystyki
-
-### **FAKT**: Historia przekładów
-Lista osób, które tłumaczyły Moliera, obejmuje prawie 100 nazwisk - imponującą historię przekładów znanych arcydzieł.
-
-### **FAKT**: Pierwsze polskie tłumaczenie
-Pierwsze polskie przedstawienie sztuki Moliera odbyło się 5 marca 1669 roku w warszawskim pałacu Jana Andrzeja Morsztyna (w miejscu dzisiejszego Grobu Nieznanego Żołnierza), gdzie pokazano "Sganarela" po francusku.
-
-### **FAKT**: Polskie wydanie z 1872 roku
-Pierwsze znaczące polskie tłumaczenie "Świętoszka" autorstwa Kazimierza Zalewskiego ukazało się nakładem S. Lewentala w Warszawie w 1872 roku.
-
-### **FAKT**: Rozpowszechnienie światowe
-Sztuki Moliera zostały przetłumaczone na wszystkie główne języki świata i są wystawiane w teatrach pod każdą szerokością geograficzną.
+### **FACT**: Royal protection
+Despite controversies, Louis XIV never abandoned Molière. Without royal protection, the author could have been excommunicated. He allowed private performances for the aristocracy.
 
 ---
 
-## Ciekawostki i Anegdoty
+## Inspirations and Real Characters
 
-### **FAKT**: Zmiana imienia protagonisty
-W drugiej, zakazanej wersji z 1667 roku Molière zmienił imię głównego bohatera z "Tartuffe" na "Panulphe", mając nadzieję na uniknięcie cenzury.
+### **FACT**: The phenomenon of "tartuffism" in the 17th century
+"Tartuffism" was a real social phenomenon describing sectarian groups of people guided by false piety, who, contrary to their preached maxims about ascetic life, enjoyed appetite, power, and control over others.
 
-### **FAKT**: Jedna noc na scenie
-Wersja "L'Imposteur" z 1667 roku została zagrana tylko raz - 5 sierpnia 1667 w Théâtre du Palais-Royal. Następnego dnia została zakazana.
+### **FACT**: Inspiration from Jansenism
+In the circles of Parisian Compagnie du Saint-Sacrement were people strongly opposed to Jesuits and very attached to Jansenist opinions. Nicolas Pavillon, one of the "four bishops," who until 1664 was considered completely Jansenist, was probably part of the Company.
 
-### **FAKT**: Słynny cytat
-Jeden z najsłynniejszych wersów "Couvrez ce sein que je ne saurais voir" ("Zakryj ten biust, którego nie powinienem widzieć") stał się kulturowym punktem odniesienia i jest cytowany do dziś.
-
-### **PLOTKA**: Teoria o ghostwriterze
-Niektórzy badacze sugerują, że Pierre Corneille mógł być ukrytym współautorem sztuk Moliera, pisząc je dla bardziej popularnego aktora w celu lepszego efektu teatralnego.
-
-### **FAKT**: Królewski paradoks
-Król Ludwik XIV, mimo że zakazał publicznych przedstawień, osobiście lubił sztukę i pozwalał na prywatne spektakle na dworze.
-
-### **FAKT**: Rozwiązanie tajnej organizacji
-Compagnie du Saint-Sacrement, główny przeciwnik "Tartuffe", została rozwiązana przez Ludwika XIV w 1666 roku, co utorowało drogę do legalizacji sztuki w 1669.
+### **RUMOR**: Model for Tartuffe
+There is a theory that the character of Tartuffe was inspired by a specific person from the court's entourage, but Molière never revealed the identity of his model.
 
 ---
 
-## Wpływ na Kulturę i Edukację
+## Publication History
 
-### **FAKT**: Wiecznie żywa krytyka społeczna
-"Tartuffe" pozostaje aktualny w każdej epoce jako uniwersalna krytyka hipokryzji, szczególnie w kontekście władzy religijnej i politycznej.
+### **FACT**: Record success in 1669
+After 5 years of bans, the final version achieved triumphant success - over 30 consecutive performances, which was a record of the era. This version is what is commonly performed today.
 
-### **FAKT**: Wzór dla późniejszych dramaturgów
-Sztuka stała się modelem dla komedii społecznej i wpłynęła na rozwój europejskiego teatru satirycznego.
+### **FACT**: Most performed play in history
+"Tartuffe" remains Molière's most frequently staged play in the Comédie-Française repertoire from the 17th century to today.
 
-### **FAKT**: Symbol walki o wolność artystyczną
-Historia zakazów i ostatecznego zwycięstwa "Tartuffe" stała się symbolem walki twórców z cenzurą i fundamentalizmem religijnym.
+### **FACT**: Linguistic status
+The word "tartuffe" permanently entered French and English languages as a term for religious hypocrite.
 
 ---
 
-## Podsumowanie
+## Molière's Private Life in Context of the Play
 
-"Tartuffe" to nie tylko arcydzieło literatury światowej, ale także fascynujący przykład konfliktu między sztuką a władzą religijną. Historia jego powstania - od skandalu w 1664 roku po triumf w 1669 - ilustruje siłę teatru jako medium krytyki społecznej i uniwersalność problemu hipokryzji religijnej. Sztuka, która mogła zniszczyć karierę Moliera, stała się jego największym sukcesem i pozostaje żywą częścią repertuaru teatralnego na całym świecie.
+### **FACT**: Turbulent marriage during writing
+While working on "Tartuffe," Molière was experiencing a marital crisis with Armande Béjart. The spouses separated in 1665 after their daughter's birth and reconciled only in 1671.
 
-**Łącznie zebrano 47 faktów i anegdot, w tym 43 potwierdzone (FAKT) i 4 niepotwierdzone (PLOTKA)**
+### **FACT**: Family tragedy
+Molière and Armande's first son, born in 1664 (year of "Tartuffe" premiere), died in childhood. Their second son (born 1672) also did not survive.
+
+### **FACT**: Armande as interpreter
+Armande Béjart was considered the best interpreter of female roles in Molière's plays, particularly excelling as Célimène in "The Misanthrope."
+
+---
+
+## Numbers and Statistics
+
+### **FACT**: Translation history
+The list of people who translated Molière includes almost 100 names - an impressive history of translations of famous masterpieces.
+
+### **FACT**: First Polish translation
+The first Polish performance of Molière's play took place on March 5, 1669, in Warsaw's palace of Jan Andrzej Morsztyn (at the site of today's Tomb of the Unknown Soldier), where "Sganarelle" was shown in French.
+
+### **FACT**: Polish edition from 1872
+The first significant Polish translation of "Świętoszek" by Kazimierz Zalewski was published by S. Lewental in Warsaw in 1872.
+
+### **FACT**: Worldwide distribution
+Molière's plays have been translated into all major world languages and are performed in theaters at every latitude.
+
+---
+
+## Curiosities and Anecdotes
+
+### **FACT**: Change of protagonist's name
+In the second, banned version from 1667, Molière changed the main character's name from "Tartuffe" to "Panulphe," hoping to avoid censorship.
+
+### **FACT**: One night on stage
+The "L'Imposteur" version from 1667 was performed only once - August 5, 1667, at Théâtre du Palais-Royal. The next day it was banned.
+
+### **FACT**: Famous quote
+One of the most famous verses "Couvrez ce sein que je ne saurais voir" ("Cover that breast which I should not see") became a cultural reference point and is quoted to this day.
+
+### **RUMOR**: Ghostwriter theory
+Some researchers suggest that Pierre Corneille might have been a hidden co-author of Molière's plays, writing them for the more popular actor for better theatrical effect.
+
+### **FACT**: Royal paradox
+King Louis XIV, despite banning public performances, personally liked the play and allowed private spectacles at court.
+
+### **FACT**: Secret organization dissolution
+The Compagnie du Saint-Sacrement, main opponent of "Tartuffe," was dissolved by Louis XIV in 1666, paving the way for the play's legalization in 1669.
+
+---
+
+## Impact on Culture and Education
+
+### **FACT**: Eternally living social criticism
+"Tartuffe" remains relevant in every era as universal criticism of hypocrisy, especially in the context of religious and political power.
+
+### **FACT**: Model for later playwrights
+The play became a model for social comedy and influenced the development of European satirical theater.
+
+### **FACT**: Symbol of struggle for artistic freedom
+The history of bans and ultimate victory of "Tartuffe" became a symbol of creators' struggle against censorship and religious fundamentalism.
+
+---
+
+## Summary
+
+"Tartuffe" is not only a masterpiece of world literature but also a fascinating example of conflict between art and religious authority. The history of its creation - from scandal in 1664 to triumph in 1669 - illustrates the power of theater as a medium of social criticism and the universality of the problem of religious hypocrisy. The play that could have destroyed Molière's career became his greatest success and remains a living part of theatrical repertoire worldwide.
+
+**Total of 47 facts and anecdotes collected, including 43 confirmed (FACT) and 4 unconfirmed (RUMOR)**

@@ -1,0 +1,15 @@
+media_info:
+  title: Mary Celeste Ghost Ship - 1872
+  author: Historical Documentation
+  year: 1872
+  genre: Maritime Mystery Documentary
+  description: A merchant ship found drifting in the Atlantic Ocean completely intact
+    but with its entire crew mysteriously vanished without a trace
+  target_audience: General public, students, maritime history enthusiasts, mystery fans
+  duration: ~3 minutes
+  objective: Recreate the discovery of the world's most famous ghost ship and explore
+    theories about the crew's disappearance
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

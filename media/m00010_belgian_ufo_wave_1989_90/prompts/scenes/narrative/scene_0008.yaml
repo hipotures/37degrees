@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "F-16 Cockpit View - Pursuing Unknown Target"
+  setting:
+    time: "March 30, 1990, 23:30 hours"
+    location: "F-16 cockpit over Belgian airspace"
+    weather: "Night flight with cloud cover affecting visibility"
+  characters:
+    - appearance: "NATO fighter pilot, 25-35 years old, focused expression"
+      clothing: "NATO standard green Nomex flight suit, G-suit for high-performance maneuvers, HGU-55 flight helmet with oxygen mask, squadron patches on shoulders"
+      position: "Seated in F-16 cockpit, hands on flight controls"
+      action: "Operating aircraft controls and targeting systems during intercept attempt"
+  scene:
+    mainElements: "F-16 fighter jet cockpit interior with advanced avionics and heads-up display"
+    details: "Complex cockpit instrumentation typical of F-16A Fighting Falcon with analog gauges, radar display screens, communication equipment, and targeting systems. Pilot scanning instruments and radio communications while attempting to visually acquire unidentified target. Green glow from instrument panels illuminating pilot's face through helmet visor."
+    background: "Dark night sky visible through cockpit canopy with scattered clouds below"
+    atmosphere: "High-intensity military intercept mission with pilot focused on elusive target"
+  composition:
+    cameraAngle: "Interior cockpit view from behind pilot looking forward"
+    focus: "Pilot's intense concentration while operating sophisticated aircraft systems"
+    depth: "Foreground: cockpit instruments and controls, middle ground: pilot in seat, background: night sky through canopy, no text or letters visible"

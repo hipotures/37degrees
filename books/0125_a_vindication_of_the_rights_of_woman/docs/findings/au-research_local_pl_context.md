@@ -1,168 +1,168 @@
-# Lokalny kontekst kulturowy: "Wołanie o prawa kobiety" Mary Wollstonecraft w Polsce
+# Local Cultural Context: "A Vindication of the Rights of Woman" by Mary Wollstonecraft in Poland
 
-## Informacje podstawowe
-**Tytuł oryginału**: A Vindication of the Rights of Woman (1792)  
-**Tytuł polski**: Wołanie o prawa kobiety  
-**Autorka**: Mary Wollstonecraft (1759-1797)  
-**Data badania**: 2025-09-02
+## Basic Information
+**Original Title**: A Vindication of the Rights of Woman (1792)
+**Polish Title**: Wołanie o prawa kobiety
+**Author**: Mary Wollstonecraft (1759-1797)
+**Research Date**: September 2, 2025
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Nowoczesne wydanie polskie (2011)
-- **Wydawca**: Wydawnictwo Mamania, Warszawa
-- **Data wydania**: 8 marca 2011 (Dzień Kobiet)
-- **Charakterystyka**: 364 strony, format 13,5x20,0 cm, okładka miękka z klapkami
+### Modern Polish Edition (2011)
+- **Publisher**: Wydawnictwo Mamania, Warsaw
+- **Publication Date**: March 8, 2011 (International Women's Day)
+- **Specifications**: 364 pages, 13.5x20.0 cm format, soft cover with flaps
 - **ISBN**: 9788362829002
-- **Zawartość**: Kompletne wydanie zawiera zarówno "Wołanie o prawa kobiety" (1792) jak i "Wołanie o prawa człowieka" (1790)
+- **Content**: Complete edition contains both "A Vindication of the Rights of Woman" (1792) and "A Vindication of the Rights of Men" (1790)
 
-### Zespół tłumaczy
-- **"Wołanie o prawa kobiety"**: Ewa Bodal i zespół
-- **"Wołanie o prawa człowieka"**: Hanna Morusiewicz, Anna Sprzęczka, Anna Maria Strycharz
-- **Model pracy**: Wolontariusze pracujący bez wynagrodzenia w ramach projektu niekomercyjnego
+### Translation Team
+- **"A Vindication of the Rights of Woman"**: Ewa Bodal and team
+- **"A Vindication of the Rights of Men"**: Hanna Morusiewicz, Anna Sprzęczka, Anna Maria Strycharz
+- **Working Model**: Volunteers working without compensation as part of a non-commercial project
 
-### Seria "Prababki feminizmu"
-- **Cel**: Wprowadzenie klasycznych pozycji dotyczących praw kobiet na polski rynek wydawniczy
-- **Innowacyjny model**: Po dwóch latach sprzedaży tłumaczenie zostanie uwolnione do domeny publicznej
-- **Wersja elektroniczna**: Będzie dostępna bezpłatnie - pierwszy eksperyment tego typu na polskim rynku książki
-- **Wstęp**: Dr Zefiryna Żegnałek, badaczka twórczości Mary Wollstonecraft
+### "Prababki feminizmu" (Feminist Ancestors) Series
+- **Goal**: Introducing classic works on women's rights to the Polish publishing market
+- **Innovative Model**: After two years of sales, the translation will be released into the public domain
+- **Electronic Version**: Will be available for free - the first experiment of this kind in the Polish book market
+- **Introduction**: Dr. Zefiryna Żegnałek, researcher of Mary Wollstonecraft's work
 
-## Polscy badacze i interpretacje akademickie
+## Polish Scholars and Academic Interpretations
 
-### Uniwersytet Wrocławski
-- **Instytut**: Zakład Historii Edukacji Instytutu Pedagogiki
-- **Badania**: Polemika Mary Wollstonecraft z poglądami Jean-Jacques'a Rousseau na temat wychowania i edukacji kobiet
-- **Tematyka**: Argumenty za równościowym modelem edukacji i krytyka edukacji różnicującej ze względu na płeć
+### University of Wrocław
+- **Institute**: Department of Educational History, Institute of Pedagogy
+- **Research**: Mary Wollstonecraft's polemic with Jean-Jacques Rousseau's views on women's upbringing and education
+- **Themes**: Arguments for an egalitarian education model and criticism of gender-differentiating education
 
-### Uniwersytet Ekonomiczny w Krakowie
-- **Dostępność**: Dzieło znajduje się w katalogu bibliotecznym uczelni
-- **Status**: Pozycja referencyjna dla studentów ekonomii i nauk społecznych
+### Cracow University of Economics
+- **Availability**: The work is included in the university's library catalog
+- **Status**: Reference position for economics and social sciences students
 
-### Kluczowi polscy badacze
-- **Dr Zefiryna Żegnałek**: Autorka wstępu do polskiego wydania, badaczka twórczości Wollstonecraft
-- **Cytat**: "Największą wartością jej tekstów jest ich nieprzemijająca aktualność - także dziś możemy się w nich jak w lustrze przejrzeć"
+### Key Polish Researchers
+- **Dr. Zefiryna Żegnałek**: Author of the introduction to the Polish edition, researcher of Wollstonecraft's work
+- **Quote**: "The greatest value of her texts is their enduring relevance - even today we can see ourselves reflected in them as in a mirror"
 
-## Recepcja w polskim kontekście edukacyjnym
+## Reception in Polish Educational Context
 
-### Filozofia edukacyjna Wollstonecraft
-- **Główna teza**: Kobiety nie są z natury gorsze od mężczyzn, tylko wydają się takie z powodu braku edukacji
-- **Postulat**: Konieczność koedukacji - szkoły powinny być wspólne dla obu płci
-- **Rozdział 12**: "O edukacji narodowej" - wszystkie dzieci powinny chodzić do "szkół dziennych"
+### Wollstonecraft's Educational Philosophy
+- **Main Thesis**: Women are not naturally inferior to men, they only appear so due to lack of education
+- **Postulate**: The necessity of coeducation - schools should be common for both sexes
+- **Chapter 12**: "On National Education" - all children should attend "day schools"
 
-### Doświadczenie pedagogiczne autorki
-- **1783**: Mary wraz z dwiema siostrami i Fanny Blood założyła szkołę w Islington
-- **Przeniesienie**: Po kilku miesiącach szkołę przeniesiono do Newington Green
-- **Praca**: Była guwernatką (nauczycielką domową) i tłumaczką dla Josepha Johnsona
+### Author's Pedagogical Experience
+- **1783**: Mary, along with her two sisters and Fanny Blood, founded a school in Islington
+- **Relocation**: After several months, the school was moved to Newington Green
+- **Work**: She worked as a governess (private tutor) and translator for Joseph Johnson
 
-## Wpływ na polski ruch feministyczny
+## Influence on Polish Feminist Movement
 
-### Historyczne znaczenie
-- **Status**: "Wołanie o prawa kobiety" uznawane za pierwszy tekst teoretyczny feminizmu
-- **Data**: Traktat z 1792 roku stał się podstawą myśli feministycznej
-- **Wpływ**: Dzieło inspirowało polski ruch kobiecy XIX i XX wieku
+### Historical Significance
+- **Status**: "A Vindication of the Rights of Woman" is recognized as the first theoretical feminist text
+- **Date**: The 1792 treatise became the foundation of feminist thought
+- **Influence**: The work inspired the Polish women's movement of the 19th and 20th centuries
 
-### Rozwój feminizmu w Polsce
-- **1819**: Klementyna z Tańskich Hoffmanowa napisała "Pamiątkę po dobrej matce" - zapowiedź programu ruchu kobiecego
-- **1891**: Pierwszy nieoficjalny zjazd kobiecy w Warszawie
-- **1905**: Pierwszy Zjazd Związku Kobiet Polskich w Warszawie (19 października)
-- **1905-1907**: Związek Polski Równouprawnienia Kobiet - pierwsza organizacja feministyczna na ziemiach polskich
+### Development of Feminism in Poland
+- **1819**: Klementyna z Tańskich Hoffmanowa wrote "Pamiątka po dobrej matce" - an announcement of the women's movement program
+- **1891**: First unofficial women's congress in Warsaw
+- **1905**: First Congress of the Union of Polish Women in Warsaw (October 19)
+- **1905-1907**: Polish Women's Equal Rights Union - the first feminist organization in Polish territories
 
-### Konstytucyjne równouprawnienie
-- **1921**: Konstytucja marcowa gwarantowała równouprawnienie płci
-- **Znaczenie**: Polki uzyskały prawa wyborcze jako jedne z pierwszych w Europie
+### Constitutional Equal Rights
+- **1921**: The March Constitution guaranteed gender equality
+- **Significance**: Polish women gained voting rights as among the first in Europe
 
-## Problemy tłumaczeniowe i kulturowe różnice
+## Translation Problems and Cultural Differences
 
-### Kluczowe terminy
-- **"Vindication"** → **"Wołanie"**: Polskie tłumaczenie podkreśla aspekt apelu, prośby
-- **"Rights"** → **"Prawa"**: Bezpośrednie tłumaczenie bez utracenia znaczenia prawnego
-- **"Woman"** (liczba pojedyncza) → **"Kobiety"**: Polski tytuł używa liczby mnogiej, uniwersalizując przesłanie
+### Key Terms
+- **"Vindication"** → **"Wołanie"**: Polish translation emphasizes the aspect of appeal, plea
+- **"Rights"** → **"Prawa"**: Direct translation without losing legal meaning
+- **"Woman"** (singular) → **"Kobiety"** (plural): Polish title uses plural form, universalizing the message
 
-### Kontekst kulturowy XVIII wieku vs. współczesność
-- **Oryginalny kontekst**: Kobiety "pozbawione wszelkich praw: obywatelskich, politycznych i majątkowych"
-- **Oskarżenia Wollstonecraft**: Społeczeństwo czyni z kobiet "kokieteryjne niewolnice"
-- **Małżeństwa aranżowane**: Nazywała je "legalną prostytucją"
+### 18th Century Cultural Context vs. Modernity
+- **Original Context**: Women "deprived of all rights: civil, political, and property"
+- **Wollstonecraft's Accusations**: Society makes women "coquettish slaves"
+- **Arranged Marriages**: She called them "legal prostitution"
 
-## Adaptacje i nawiązania kulturowe
+## Cultural Adaptations and References
 
-### Brak bezpośrednich adaptacji teatralnych/filmowych
-- **Status**: Nie znaleziono polskich adaptacji teatralnych lub filmowych dzieła
-- **Przyczyny**: Charakter traktatu filozoficznego utrudnia dramatyzację
-- **Alternatywy**: Dzieło funkcjonuje głównie w dyskursie akademickim i publicystycznym
+### Lack of Direct Theatrical/Film Adaptations
+- **Status**: No Polish theatrical or film adaptations of the work have been found
+- **Reasons**: The philosophical treatise character makes dramatization difficult
+- **Alternatives**: The work functions mainly in academic and publicist discourse
 
-### Obecność w kulturze popularnej
-- **Recenzje**: Pozytywne omówienia w czasopismach kulturalnych ("Polityka")
-- **Blogi czytelnicze**: Aktywna dyskusja wśród polskich czytelniczek
-- **Portale książkowe**: Oceny i komentarze na Lubimyczytac.pl
+### Presence in Popular Culture
+- **Reviews**: Positive coverage in cultural magazines ("Polityka")
+- **Reading Blogs**: Active discussion among Polish female readers
+- **Book Portals**: Ratings and comments on Lubimyczytac.pl
 
-## Specyfika polska vs. międzynarodowa recepcja
+## Polish vs. International Reception Specifics
 
-### Opóźniona recepcja
-- **XVIII-XIX wiek**: Brak polskiego tłumaczenia w okresie pierwszego odbioru międzynarodowego
-- **Przyczyny**: Zabory, brak niepodległości, konserwatyzm społeczny
-- **XX wiek**: Dzieło znane głównie w kręgach akademickich
+### Delayed Reception
+- **18th-19th Century**: No Polish translation during the period of first international reception
+- **Causes**: Partitions, lack of independence, social conservatism
+- **20th Century**: Work known mainly in academic circles
 
-### Współczesna aktualność
-- **Cytat z recenzji**: "Pionierka feminizmu, naprawdę warto polecić, bo jej tezy ani trochę się nie zestarzały"
-- **Kontekst**: "Choć napisane w 1792, przerażająco aktualne"
-- **Społeczne znaczenie**: Dzieło rezonuje z dyskusjami o prawach kobiet w Polsce XXI wieku
+### Contemporary Relevance
+- **Review Quote**: "Pioneer of feminism, really worth recommending because her theses haven't aged a bit"
+- **Context**: "Though written in 1792, terrifyingly current"
+- **Social Significance**: The work resonates with discussions about women's rights in 21st century Poland
 
-## Fan community i społeczności czytelnicze
+## Fan Community and Reading Communities
 
-### Profile czytelników
-- **Główna grupa**: Kobiety w wieku 25-45 lat zainteresowane feminizmem
-- **Wykształcenie**: Przeważnie osoby z wyższym wykształceniem humanistycznym
-- **Motywacja**: Poszukiwanie korzeni myśli feministycznej
+### Reader Profiles
+- **Main Group**: Women aged 25-45 interested in feminism
+- **Education**: Predominantly people with higher humanities education
+- **Motivation**: Seeking the roots of feminist thought
 
-### Platformy dyskusji
-- **Lubimyczytac.pl**: Oceny i recenzje polskich czytelników
-- **Blogi czytelnicze**: Szczegółowe omówienia i interpretacje
-- **Media społecznościowe**: Cytaty i inspiracje z dzieła
+### Discussion Platforms
+- **Lubimyczytac.pl**: Ratings and reviews by Polish readers
+- **Reading Blogs**: Detailed discussions and interpretations
+- **Social Media**: Quotes and inspirations from the work
 
-### Charakterystyka polskiej recepcji
-- **Mniejsza popularność**: W porównaniu do innych krajów zachodnich
-- **Ograniczenie**: "Mało znana, chyba że jesteś feministką"
-- **Potencjał**: Rosnące zainteresowanie tematyką równościową
+### Polish Reception Characteristics
+- **Lower Popularity**: Compared to other Western countries
+- **Limitation**: "Little known, unless you're a feminist"
+- **Potential**: Growing interest in equality themes
 
-## Lokalne nawiązania i easter eggi
+## Local References and Easter Eggs
 
-### Kraków i Małopolska
-- **Biblioteka UEK**: Dzieło dostępne w katalogu Uniwersytetu Ekonomicznego
-- **Kontekst regionalny**: Brak specyficznych nawiązań lokalnych
-- **Potencjał edukacyjny**: Możliwość wykorzystania w programach gender studies
+### Kraków and Lesser Poland
+- **UEK Library**: Work available in the Cracow University of Economics catalog
+- **Regional Context**: No specific local references
+- **Educational Potential**: Possibility of use in gender studies programs
 
-### Polskie konteksty historyczne
-- **Paralele**: Wollstonecraft pisała w okresie rewolucji - podobnie jak polscy pisarze okresu romantyzmu
-- **Różnice**: Brak polskiego odpowiednika tak radykalnego traktatu w XVIII wieku
-- **Inspiracje**: Wpływ na późniejsze pokolenia polskich aktywistek
+### Polish Historical Contexts
+- **Parallels**: Wollstonecraft wrote during the revolutionary period - similar to Polish writers of the Romantic period
+- **Differences**: No Polish equivalent of such a radical treatise in the 18th century
+- **Inspirations**: Influence on later generations of Polish activists
 
-## Współczesna edukacja polska
+## Contemporary Polish Education
 
-### Obecność w programach nauczania
-- **Brak formalnej obecności**: Nie jest lekturą obowiązkową w szkołach średnich
-- **Studia wyższe**: Pojawia się na kierunkach humanistycznych, szczególnie filozofii i kulturoznawstwie
-- **Programy gender studies**: Pozycja kanoniczna w studiach nad płcią
+### Presence in Curricula
+- **No Formal Presence**: Not a mandatory reading in secondary schools
+- **Higher Education**: Appears in humanities courses, especially philosophy and cultural studies
+- **Gender Studies Programs**: Canonical position in gender studies
 
-### Metody nauczania
-- **Kontekst historyczny**: Nauczanie w ramach historii filozofii i myśli politycznej
-- **Porównania**: Zestawienia z innymi tekstami oświeceniowymi
-- **Dyskusje**: Analiza aktualności postulatów w kontekście współczesnej Polski
+### Teaching Methods
+- **Historical Context**: Teaching within the framework of history of philosophy and political thought
+- **Comparisons**: Juxtapositions with other Enlightenment texts
+- **Discussions**: Analysis of the relevance of postulates in the context of contemporary Poland
 
-## Wnioski dla polskiego odbiorcy
+## Conclusions for Polish Audiences
 
-### Znaczenie historyczne
-- **Pionierska pozycja**: Pierwszy systematyczny tekst filozoficzny o prawach kobiet
-- **Wpływ długofalowy**: Inspiracja dla pokoleń aktywistek i myślicielek
-- **Uniwersalność**: Przesłanie aktualne mimo upływu ponad 230 lat
+### Historical Significance
+- **Pioneering Position**: First systematic philosophical text on women's rights
+- **Long-term Influence**: Inspiration for generations of activists and thinkers
+- **Universality**: Message relevant despite more than 230 years having passed
 
-### Rekomendacje dla polskich czytelników
-- **Grupa docelowa**: Osoby zainteresowane historią feminizmu i filozofią polityczną
-- **Kontekst lektury**: Warto czytać wraz z komentarzami historycznymi
-- **Współczesna aplikacja**: Tekst inspiruje do refleksji nad współczesną sytuacją kobiet w Polsce
+### Recommendations for Polish Readers
+- **Target Group**: People interested in the history of feminism and political philosophy
+- **Reading Context**: Worth reading along with historical commentaries
+- **Contemporary Application**: Text inspires reflection on the contemporary situation of women in Poland
 
-### Potencjał rozwoju
-- **Zapotrzebowanie**: Rosnące zainteresowanie tematyką równościową w Polsce
-- **Możliwości**: Potencjał dla adaptacji edukacyjnych i popularyzatorskich
-- **Znaczenie**: Dzieło może służyć jako mostek między historią a współczesnością w dyskusjach o prawach kobiet
+### Development Potential
+- **Demand**: Growing interest in equality themes in Poland
+- **Opportunities**: Potential for educational and popularizing adaptations
+- **Significance**: The work can serve as a bridge between history and modernity in discussions about women's rights
 
 ---
-*Opracowanie powstało na podstawie badań przeprowadzonych 2 września 2025 roku, uwzględniających dostępne źródła polskie i międzynarodowe dotyczące recepcji dzieła Mary Wollstonecraft w Polsce.*
+*This analysis was prepared based on research conducted on September 2, 2025, considering available Polish and international sources regarding the reception of Mary Wollstonecraft's work in Poland.*

@@ -1,281 +1,281 @@
-# Wpływ kulturowy "Wołania o prawa kobiety" Mary Wollstonecraft
+# Cultural Impact of "A Vindication of the Rights of Woman" by Mary Wollstonecraft
 
-## Podstawowe informacje o dziele
-- **Tytuł oryginalny**: "A Vindication of the Rights of Woman" (1792)
-- **Tytuł polski**: "Wołanie o prawa kobiety"
-- **Autorka**: Mary Wollstonecraft (1759-1797)
-- **Status**: Pierwsze teoretyczne dzieło feminizmu, przełomowa praca filozofii feministycznej
+## Basic Information About the Work
+- **Original Title**: "A Vindication of the Rights of Woman" (1792)
+- **Polish Title**: "Wołanie o prawa kobiety"
+- **Author**: Mary Wollstonecraft (1759-1797)
+- **Status**: First theoretical work of feminism, groundbreaking work of feminist philosophy
 
-## 1. Adaptacje medialne i teatralne
+## 1. Media and Theater Adaptations
 
-### Filmy biograficzne
-1. **"If Love Should Die"** (2025, planowany)
-   - Reżyseria: Mia Hansen-Løve (francuska reżyserka)
-   - Pierwszy film kinowy poświęcony życiu Mary Wollstonecraft
-   - Zdjęcia w Wielkiej Brytanii, Francji, Skandynawii i Portugalii
-   - Hansen-Løve: "Moja ambicja to uchwycenie tej kluczowej epoki i życia kobiety, której kino nigdy wcześniej nie pokazało"
+### Biographical Films
+1. **"If Love Should Die"** (2025, planned)
+   - Director: Mia Hansen-Løve (French director)
+   - First feature film dedicated to Mary Wollstonecraft's life
+   - Filming in Great Britain, France, Scandinavia and Portugal
+   - Hansen-Løve: "My ambition is to capture this key era and the life of a woman that cinema has never shown before"
 
 2. **"Mary Shelley" (2017)**
-   - Film o córce Mary Wollstonecraft
-   - Pokazuje Mary Wollstonecraft jako postać, opisaną jako "zmarła matka Mary Godwin, autorka 'Wołania o prawa kobiety'"
-   - Reżyseria: Haifaa Al-Mansour
+   - Film about Mary Wollstonecraft's daughter
+   - Shows Mary Wollstonecraft as a character, described as "Mary Godwin's deceased mother, author of 'A Vindication of the Rights of Woman'"
+   - Director: Haifaa Al-Mansour
 
-### Produkcje teatralne
+### Theater Productions
 3. **"Mary and the Hyenas"** - Pilot Theatre
-   - Inspirujący musicl o życiu Mary Wollstonecraft
-   - Muzyka: Billy Nomates
-   - Scenariusz: Maureen Lennon, reżyseria: Esther Richardson
-   - Całkowicie żeńska obsada
+   - Inspiring musical about Mary Wollstonecraft's life
+   - Music: Billy Nomates
+   - Script: Maureen Lennon, direction: Esther Richardson
+   - All-female cast
 
-4. **"Wollstonecraft Live!"** - produkcja multimedialna
-   - Spektakl site-specific o kampanii na rzecz pomnika Mary Wollstonecraft w Londynie
-   - Zawiera krótki film "VINDICATION" nakręcony w Newington Green
-   - Zamówiony przez Fragments & Monuments (2005)
+4. **"Wollstonecraft Live!"** - multimedia production
+   - Site-specific performance about the campaign for Mary Wollstonecraft's monument in London
+   - Includes short film "VINDICATION" shot in Newington Green
+   - Commissioned by Fragments & Monuments (2005)
 
 5. **"An Amazon Stept Out"**
-   - Spektakl wystawiany w Newington Green Meeting House z okazji urodzin Wollstonecraft
-   - Przedstawienia historyczne sięgające 1922 roku
+   - Performance staged at Newington Green Meeting House on Wollstonecraft's birthday
+   - Historical performances dating back to 1922
 
-### Uwaga o "Pandaemonium" (2000)
-- Film **NIE** dotyczy Mary Wollstonecraft, lecz poetów romantycznych Coleridge'a i Wordswortha
-- Czasem mylnie kojarzony z Wollstonecraft
+### Note on "Pandaemonium" (2000)
+- This film does **NOT** concern Mary Wollstonecraft, but the Romantic poets Coleridge and Wordsworth
+- Sometimes mistakenly associated with Wollstonecraft
 
-## 2. Wpływ na twórców i artystów
+## 2. Influence on Creators and Artists
 
-### Pisarki i aktywistki inspirowane dziełem
+### Writers and Activists Inspired by the Work
 6. **Ayaan Hirsi Ali**
-   - Cytuje "Wołanie o prawa kobiety" w autobiografii "Infidel"
-   - "Byłam inspirowana przez Mary Wollstonecraft, pionierską myślicielkę feministyczną"
+   - Quotes "A Vindication of the Rights of Woman" in her autobiography "Infidel"
+   - "I was inspired by Mary Wollstonecraft, a pioneering feminist thinker"
 
 7. **Miriam Schneir**
-   - Umieściła dzieło w antologii "Feminism: The Essential Historical Writings"
-   - Określiła jako jedno z fundamentalnych dzieł feministycznych
+   - Included the work in the anthology "Feminism: The Essential Historical Writings"
+   - Defined it as one of the fundamental feminist works
 
 8. **Gabrielle Warnock**
-   - W powieści "The Silk Weaver" (1998) narrator bezpośrednio odwołuje się do "Wołania o prawa kobiety"
-   - Tematem jest teoria Wollstonecraft o ekonomicznych podstawach małżeństwa
+   - In the novel "The Silk Weaver" (1998) the narrator directly references "A Vindication of the Rights of Woman"
+   - The theme is Wollstonecraft's theory about the economic foundations of marriage
 
-### Pionierki praw kobiet w USA
+### Women's Rights Pioneers in the USA
 9. **Elizabeth Cady Stanton**
-   - Bezpośrednio inspirowana przez "Wołanie o prawa kobiety"
-   - Organizatorka Konwencji w Seneca Falls (1848)
+   - Directly inspired by "A Vindication of the Rights of Woman"
+   - Organizer of the Seneca Falls Convention (1848)
 
 10. **Susan B. Anthony**
-    - Powiesiła portret Wollstonecraft w swoim domu
-    - Publikowała dzieło w odcinkach w swojej gazecie sufrażystek w latach 70. XIX wieku
-    - Posiadała podpisane wydanie z 1792 roku
+    - Hung Wollstonecraft's portrait in her home
+    - Published the work in installments in her suffragette newspaper in the 1870s
+    - Owned a signed 1792 edition
 
 11. **Margaret Fuller**
-    - Pionierka praw kobiet, inspirowana przez "Wołanie o prawa kobiety"
-    - Autorka "Woman in the Nineteenth Century" (1845)
+    - Women's rights pioneer inspired by "A Vindication of the Rights of Woman"
+    - Author of "Woman in the Nineteenth Century" (1845)
 
 12. **Lucretia Mott**
-    - Amerykańska aktywistka inspirowana przez Wollstonecraft
-    - Współorganizatorka Konwencji w Seneca Falls
+    - American activist inspired by Wollstonecraft
+    - Co-organizer of the Seneca Falls Convention
 
-### Wpływ na XX-wiecznych intelektualistów
+### Influence on 20th Century Intellectuals
 13. **Virginia Woolf**
-    - Opisała Wollstonecraft w 1929 jako "nieśmiertelną"
-    - "Ona żyje i działa, argumentuje i eksperymentuje, słyszymy jej głos nawet teraz"
-    - Używała życia Wollstonecraft jako inspiracji do nowych "eksperymentów w życiu"
+    - Described Wollstonecraft in 1929 as "immortal"
+    - "She lives and works, argues and experiments, we hear her voice even now"
+    - Used Wollstonecraft's life as inspiration for new "experiments in living"
 
 14. **Emma Goldman**
-    - Anarchistka i feministka inspirowana historią życia Wollstonecraft
-    - Politycznie różna od Woolf, ale równie zafascynowana postacią
+    - Anarchist and feminist inspired by Wollstonecraft's life story
+    - Politically different from Woolf, but equally fascinated by the figure
 
-## 3. Fenomen społeczny i zmiana kultury
+## 3. Social Phenomenon and Cultural Change
 
-### Wpływ na ruch sufrażystek
+### Influence on the Suffrage Movement
 15. **Millicent Garrett Fawcett**
-    - Napisała wstęp do wydania stulecia "Wołania o prawa kobiety" (1892)
-    - Oczyściła pamięć o Wollstonecraft, nazywając ją "pramatką walki o głos"
+    - Wrote the preface to the centenary edition of "A Vindication of the Rights of Woman" (1892)
+    - Cleared Wollstonecraft's memory, calling her "the grandmother of the struggle for the vote"
 
-16. **Konwencja w Seneca Falls (1848)**
-    - Dzieło miało znaczący wpływ na Deklarację Praw opracowaną podczas konwencji
-    - Położyło podstawy pod cele ruchu sufrażystek w USA
+16. **Seneca Falls Convention (1848)**
+    - The work had significant influence on the Declaration of Rights drafted during the convention
+    - Laid the foundation for the goals of the suffrage movement in the USA
 
-### Odrodzenie w XIX wieku
-17. **Ruch kobiecy lat 40. XIX wieku**
-    - Od lat 40. XIX wieku członkinie rodzących się europejskich i amerykańskich ruchów kobiecych wskrzeszały zasady książki
-    - Mimo że publikacja nie przyniosła natychmiastowych reform, stała się fundamentem przyszłych zmian
+### 19th Century Revival
+17. **Women's Movement of the 1840s**
+    - From the 1840s onwards, members of emerging European and American women's movements revived the book's principles
+    - Although the publication did not bring immediate reforms, it became the foundation for future changes
 
-18. **Wydanie stuletnie (1892)**
-    - Wydanie z 1892 roku oczyściło reputację Wollstonecraft
-    - Uznało ją za prekursorkę walki o prawo głosu
+18. **Centenary Edition (1892)**
+    - The 1892 edition cleared Wollstonecraft's reputation
+    - Recognized her as a precursor to the fight for voting rights
 
-## 4. Społeczności fanów i kultura fandom
+## 4. Fan Communities and Fandom Culture
 
-### Kampanie pamięci
+### Memory Campaigns
 19. **"Mary on the Green" (2010-2020)**
-    - 10-letnia kampania na rzecz pomnika Wollstonecraft
-    - Zebrała 143,300 funtów na rzeźbę w Newington Green
-    - Społeczność aktywistów i miłośników jej dziedzictwa
+    - 10-year campaign for a Wollstonecraft monument
+    - Raised £143,300 for a sculpture in Newington Green
+    - Community of activists and lovers of her heritage
 
 20. **The Wollstonecraft Society**
-    - Organizacja promująca dziedzictwo Mary Wollstonecraft
-    - Aktywna w organizacji wydarzeń i zachowywaniu pamięci
+    - Organization promoting Mary Wollstonecraft's heritage
+    - Active in organizing events and preserving memory
 
-### Społeczności edukacyjne
-21. **Studia feministyczne na uniwersytetach**
-    - "Wołanie o prawa kobiety" jest tekstem obowiązkowym w kursach studiów kobiecych na całym świecie
-    - Przedmiot pierwszej pracy doktorskiej o feminizmie (1898)
+### Educational Communities
+21. **Feminist Studies at Universities**
+    - "A Vindication of the Rights of Woman" is a required text in women's studies courses worldwide
+    - Subject of the first doctoral thesis on feminism (1898)
 
-## 5. Komercjalizacja i branded content
+## 5. Commercialization and Branded Content
 
-### Pomnik w Newington Green (2020)
+### Monument in Newington Green (2020)
 22. **"A Sculpture for Mary Wollstonecraft"** - Maggi Hambling
-    - Odsłonięty 10 listopada 2020 roku
-    - Kosztował 143,300 funtów zebranych społecznie
-    - Napis na cokole: "Nie życzę sobie, by kobiety miały władzę nad mężczyznami, ale nad sobą"
-    - Kontrowersyjna srebrna rzeźba przedstawiająca nagą kobietę
+    - Unveiled November 10, 2020
+    - Cost £143,300 raised through crowdfunding
+    - Inscription on the base: "I do not wish women to have power over men, but over themselves"
+    - Controversial silver sculpture depicting a naked woman
 
-### Wydania komercyjne
-23. **Polskie wydanie "Wołanie o prawa kobiety"**
+### Commercial Editions
+23. **Polish Edition "Wołanie o prawa kobiety"**
     - ISBN: 978-83-62829-00-2
-    - Dostępne w wersji elektronicznej i papierowej
+    - Available in electronic and paper versions
 
-24. **Wydania rocznicowe i kolekcjonerskie**
-    - Projekt Gutenberg - bezpłatna wersja elektroniczna
-    - Liczne wydania akademickie i popularne
+24. **Anniversary and Collector's Editions**
+    - Project Gutenberg - free electronic version
+    - Numerous academic and popular editions
 
-## 6. Miejsca związane z książką
+## 6. Places Associated with the Book
 
-### Newington Green, Londyn
-25. **Dom Mary Wollstonecraft**
-    - Mieszkała naprzeciwko Newington Green
-    - Założyła tutaj szkołę dla dziewcząt w 1784 roku
+### Newington Green, London
+25. **Mary Wollstonecraft's Home**
+    - She lived opposite Newington Green
+    - Founded a school for girls here in 1784
 
 26. **Newington Green Unitarian Church**
-    - Kościół, do którego uczęszczała Wollstonecraft
-    - Naprzeciwko stoi jej pomnik
+    - Church where Wollstonecraft attended
+    - Her monument stands opposite
 
 27. **Newington Green Primary School**
-    - Na tym miejscu od 1784 roku działała szkoła
-    - Tablica pamiątkowa: "Mary Wollstonecraft założyła tu szkołę dla dziewcząt ze swoją siostrą Eliza"
+    - A school has operated on this site since 1784
+    - Memorial plaque: "Mary Wollstonecraft founded a school for girls here with her sister Eliza"
 
-### Miejsca edukacyjne
-28. **Uniwersytety na całym świecie**
-    - Dzieło wykładane w ramach studiów feministycznych
-    - Kluczowy tekst w kursach filozofii politycznej
+### Educational Places
+28. **Universities Worldwide**
+    - The work is taught as part of feminist studies
+    - Key text in political philosophy courses
 
-## 7. Cytaty i nawiązania w innych dziełach
+## 7. Quotes and References in Other Works
 
-### Najsłynniejsze cytaty używane do dziś
-29. **"Nie życzę sobie, by kobiety miały władzę nad mężczyznami, ale nad sobą"**
-    - Najczęściej cytowany fragment
-    - Wyryty na pomniku w Newington Green
+### Most Famous Quotes Used Today
+29. **"I do not wish women to have power over men, but over themselves"**
+    - Most frequently quoted passage
+    - Engraved on the monument in Newington Green
 
-30. **"Uczone od niemowlęctwa, że piękno to berło kobiety"**
-    - Często cytowane w kontekście krytyki kultury urody
+30. **"Taught from infancy that beauty is woman's scepter"**
+    - Often quoted in the context of critiquing beauty culture
 
-31. **"Daremnie jest oczekiwać cnoty od kobiet, dopóki nie będą do pewnego stopnia niezależne od mężczyzn"**
-    - Kluczowy cytat o niezależności ekonomicznej kobiet
+31. **"It is vain to expect virtue from women till they are in some degree independent of men"**
+    - Key quote about women's economic independence
 
-### Nawiązania w literaturze
-32. **Antologie feministyczne**
-    - Włączone do "Feminism: The Essential Historical Writings" Miriam Schneir
-    - Standardowy tekst w zbiorach klasyki feministycznej
+### References in Literature
+32. **Feminist Anthologies**
+    - Included in "Feminism: The Essential Historical Writings" by Miriam Schneir
+    - Standard text in feminist classics collections
 
-33. **Literatura historyczna**
-    - Bezpośrednie odniesienia w "The Silk Weaver" Gabrielle Warnock
-    - Nawiązania w powieściach historycznych XVIII wieku
+33. **Historical Literature**
+    - Direct references in "The Silk Weaver" by Gabrielle Warnock
+    - References in 18th-century historical novels
 
-## 8. Parodie, hołdy i reimaginacje
+## 8. Parodies, Tributes and Reimaginings
 
-### Krytyka i satyryczne odpowiedzi (XVIII/XIX wiek)
+### Criticism and Satirical Responses (18th/19th Century)
 34. **The Anti-Jacobin Review and Magazine**
-    - Konserwatywny magazyn atakujący idee Wollstonecraft
-    - Część większej reakcji konserwatywnej przeciwko jej argumentom feministycznym
+    - Conservative magazine attacking Wollstonecraft's ideas
+    - Part of a larger conservative reaction against her feminist arguments
 
-35. **Satyry skupione na życiu prywatnym**
-    - Po śmierci Wollstonecraft jej mąż William Godwin opublikował pamiętniki ujawniające szczegóły życia prywatnego
-    - Krytycy używali tych informacji do dyskredytacji jej poglądów politycznych
+35. **Satires Focused on Private Life**
+    - After Wollstonecraft's death, her husband William Godwin published memoirs revealing details of her private life
+    - Critics used this information to discredit her political views
 
-### Współczesne hołdy artystyczne
+### Contemporary Artistic Tributes
 36. **Judy Chicago - "The Dinner Party"**
-    - Artystka stworzyła studium do "Mary Wollstonecraft runner" dla "The Dinner Party"
-    - Technika mieszana na papierze, część ikonicznej instalacji feministycznej
+    - Artist created a study for "Mary Wollstonecraft runner" for "The Dinner Party"
+    - Mixed media on paper, part of the iconic feminist installation
 
-37. **Nowoczesne adaptacje teatralne**
-    - Współczesne interpretacje jej życia i poglądów w teatrze alternatywnym
-    - Spektakle feministyczne nawiązujące do jej dziedzictwa
+37. **Modern Theater Adaptations**
+    - Contemporary interpretations of her life and views in alternative theater
+    - Feminist performances referencing her heritage
 
-## 9. Wpływ na edukację i curricula
+## 9. Impact on Education and Curricula
 
-### Systemy edukacyjne
-38. **Filozofia edukacji Wollstonecraft**
-    - Opowiadała się za koedukacyjnymi szkołami dziennymi
-    - Lekcje prowadzone metodami konwersacyjnymi
-    - Dużo ćwiczeń fizycznych
+### Educational Systems
+38. **Wollstonecraft's Educational Philosophy**
+    - Advocated for coeducational day schools
+    - Lessons conducted through conversational methods
+    - Plenty of physical exercise
 
-39. **Wpływ na reformy edukacyjne**
-    - Stopniowe otwieranie uniwersytetów dla kobiet
-    - Rozszerzenie programów nauczania o przedmioty tradycyjnie zarezerwowane dla mężczyzn
+39. **Impact on Educational Reforms**
+    - Gradual opening of universities to women
+    - Expansion of curricula to include subjects traditionally reserved for men
 
-40. **Współczesne curricula**
-    - Obowiązkowy tekst w studiach feministycznych
-    - Wykładany w ramach filozofii politycznej i historii idei
+40. **Contemporary Curricula**
+    - Required text in feminist studies
+    - Taught as part of political philosophy and history of ideas
 
-## 10. Kontrowersje i debaty
+## 10. Controversies and Debates
 
-### Pierwotna recepcja (1792)
-41. **Pozytywne przyjęcie początkowo**
-    - Wbrew powszechnym przekonaniom, dzieło zostało dobrze przyjęte po publikacji
-    - Stało się bestsellerem i otrzymało przychylne recenzje
+### Original Reception (1792)
+41. **Initially Positive Reception**
+    - Contrary to popular belief, the work was well received upon publication
+    - Became a bestseller and received favorable reviews
 
-42. **Tłumaczenie na francuski**
-    - Natychmiast wysłane do USA i przetłumaczone na francuski
-    - Szerokie rozpowszechnienie w Europie
+42. **French Translation**
+    - Immediately sent to the USA and translated into French
+    - Wide distribution in Europe
 
-### Współczesne kontrowersje
-43. **Debata wokół pomnika (2020)**
-    - Rzeźba Maggi Hambling wywołała ożywioną debatę
-    - Krytycy kwestionowali nagą reprezentację postaci feministycznej
-    - Zwolennicy argumentowali, że reprezentuje uniwersalne tematy
+### Contemporary Controversies
+43. **Monument Debate (2020)**
+    - Maggi Hambling's sculpture sparked lively debate
+    - Critics questioned the naked representation of a feminist figure
+    - Supporters argued it represented universal themes
 
-44. **"Everywoman" vs portret**
-    - Artysta argumentował, że rzeźba nie ma być portretem Wollstonecraft
-    - Ma reprezentować "Everywomana" - każdą kobietę
+44. **"Everywoman" vs Portrait**
+    - Artist argued the sculpture was not meant to be a portrait of Wollstonecraft
+    - It was meant to represent "Everywoman" - every woman
 
-## 11. Międzynarodowy wpływ
+## 11. International Impact
 
-### Ruch feministyczny na świecie
-45. **Wpływ na feminizm pierwszej fali**
-    - Szczególnie aktywny w krajach anglosaskich (Wielka Brytania, USA)
-    - Obecny także w innych krajach, w tym w Polsce
+### Feminist Movement Worldwide
+45. **Impact on First-Wave Feminism**
+    - Particularly active in English-speaking countries (Britain, USA)
+    - Also present in other countries, including Poland
 
-46. **Polski feminizm**
-    - "Wołanie o prawa kobiety" uznawane za pierwszy tekst teoretyczny feminizmu
-    - Wpływ na polski ruch kobiecy XIX wieku
+46. **Polish Feminism**
+    - "A Vindication of the Rights of Woman" recognized as the first theoretical text of feminism
+    - Impact on the 19th-century Polish women's movement
 
-### Tłumaczenia i adaptacje językowe
-47. **Przekłady na języki obce**
-    - Dostępne w wielu językach świata
-    - Każdy przekład niesie specyficzne kulturowe znaczenia
+### Translations and Linguistic Adaptations
+47. **Translations into Foreign Languages**
+    - Available in many languages worldwide
+    - Each translation carries specific cultural meanings
 
-## 12. Współczesna relevancja
+## 12. Contemporary Relevance
 
-### Aktualne ruchy społeczne
-48. **Ruch #MeToo**
-    - Idee Wollstonecraft o autonomii kobiet rezonują z współczesnymi debatami
-    - Kwestie niezależności ekonomicznej pozostają aktualne
+### Current Social Movements
+48. **#MeToo Movement**
+    - Wollstonecraft's ideas about women's autonomy resonate with contemporary debates
+    - Issues of economic independence remain current
 
-49. **Edukacja dziewcząt na świecie**
-    - Argumenty o prawie do edukacji nadal aktualne w wielu krajach
-    - Aktywistki jak Malala Yousafzai nawiązują do tradycji zapoczątkowanej przez Wollstonecraft
+49. **Girls' Education Worldwide**
+    - Arguments about the right to education still relevant in many countries
+    - Activists like Malala Yousafzai reference the tradition started by Wollstonecraft
 
-50. **Współczesne debaty o równouprawnieniu**
-    - Tekst nadal cytowany w debatach o prawach reprodukcyjnych
-    - Argumenty o racjonalności kobiet używane w dyskusjach o przywództwie
+50. **Contemporary Equality Debates**
+    - Text still quoted in debates about reproductive rights
+    - Arguments about women's rationality used in discussions about leadership
 
-## Podsumowanie wpływu kulturowego
+## Summary of Cultural Impact
 
-"Wołanie o prawa kobiety" Mary Wollstonecraft pozostaje jednym z najbardziej wpływowych tekstów w historii feminizmu. Przez ponad 230 lat od publikacji dzieło to:
+"A Vindication of the Rights of Woman" by Mary Wollstonecraft remains one of the most influential texts in the history of feminism. For over 230 years since publication, this work has:
 
-- **Zainspirowaało pokolenia aktywistek** od Elizabeth Cady Stanton po Ayaan Hirsi Ali
-- **Wpłynęło na reformy edukacyjne** na całym świecie, przyczyniając się do otwarcia edukacji dla kobiet
-- **Stało się fundamentem** pierwszej fali feminizmu i ruchu sufrażystek
-- **Doczekało się licznych adaptacji artystycznych** od teatru po rzeźbę publiczną
-- **Pozostaje żywym tekstem** cytowanym w współczesnych debatach o prawach kobiet
+- **Inspired generations of activists** from Elizabeth Cady Stanton to Ayaan Hirsi Ali
+- **Influenced educational reforms** worldwide, contributing to opening education to women
+- **Become the foundation** of first-wave feminism and the suffrage movement
+- **Received numerous artistic adaptations** from theater to public sculpture
+- **Remained a living text** quoted in contemporary debates about women's rights
 
-Najważniejszym dowodem trwałości wpływu kulturowego tego dzieła jest fakt, że argumenty Wollstonecraft - o prawie kobiet do edukacji, niezależności ekonomicznej i równego traktowania - nadal rezonują w XXI wieku, inspirując nowe pokolenia do walki o równouprawnienie.
+The most important proof of the lasting cultural impact of this work is the fact that Wollstonecraft's arguments - about women's right to education, economic independence and equal treatment - still resonate in the 21st century, inspiring new generations to fight for equality.

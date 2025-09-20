@@ -1,121 +1,121 @@
-# Lokalny kontekst kulturowy - "Ficciones" (Fikcje) Jorge Luisa Borgesa
+# Local Cultural Context - "Ficciones" by Jorge Luis Borges
 
-## Podstawowe informacje o książce
-- **Tytuł oryginalny**: "Ficciones" (1944)
-- **Tytuł polski**: "Fikcje"
-- **Autor**: Jorge Luis Borges
-- **Rok wydania**: 1944
-- **Gatunek**: Opowiadania, metafikcja
+## Basic Book Information
+- **Original Title**: "Ficciones" (1944)
+- **Polish Title**: "Fikcje"
+- **Author**: Jorge Luis Borges
+- **Year of Publication**: 1944
+- **Genre**: Short stories, metafiction
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze wydania polskie
-1. **1972** - Pierwsze polskie wydanie "Fikcji" ukazało się w Warszawie
-2. **1972** - Równolegle wydano "Alef" w Warszawie
-3. **1974** - "Antologia osobista" w Krakowie
-4. **1975** - "Raport Brodiego" w Krakowie
-5. **2019** - Wydanie PIW (Państwowy Instytut Wydawniczy) w twardej oprawie, 256 stron
+### First Polish Editions
+1. **1972** - First Polish edition of "Ficciones" published in Warsaw
+2. **1972** - Simultaneously published "The Aleph" in Warsaw
+3. **1974** - "Personal Anthology" published in Krakow
+4. **1975** - "Dr. Brodie's Report" published in Krakow
+5. **2019** - PIW (State Publishing Institute) hardcover edition, 256 pages
 
-### Kluczowi polscy tłumacze
-- **Andrzej Sobol-Jurczykowski** (1941-2020) - główny tłumacz, poświęcił całe życie Borgesowi
-- **Stanisław Zembrzuski** - współtłumacz pierwszych wydań
-- Pierwszy przekład Borgesa autorstwa Sobola-Jurczykowskiego ukazał się już w **1966 roku**
+### Key Polish Translators
+- **Andrzej Sobol-Jurczykowski** (1941-2020) - main translator, devoted his entire life to Borges
+- **Stanisław Zembrzuski** - co-translator of early editions
+- First translation of Borges by Sobol-Jurczykowski appeared as early as **1966**
 
-## Recepcja w Polsce
+## Reception in Poland
 
-### Wpływ na polską literaturę i krytykę
-1. **Witold Gombrowicz** - Borges był inspiracją dla Gombrowicza, choć ich osobiste relacje w Argentynie były skomplikowane
-2. **Termin "borgesowski"** - w kręgach niezwiązanych z literaturą zaczęto używać tego określenia (konkurując z terminem "kafkowski") dla opisania percepcji egzystencji jako nieskończonego labiryntu bez wyjścia
-3. **Umberto Eco** - również inspirował się twórczością Borgesa
+### Influence on Polish Literature and Criticism
+1. **Witold Gombrowicz** - Borges was an inspiration for Gombrowicz, though their personal relations in Argentina were complicated
+2. **Term "Borgesian"** - circles unrelated to literature began using this term (competing with "Kafkaesque") to describe the perception of existence as an infinite labyrinth without exit
+3. **Umberto Eco** - also drew inspiration from Borges' work
 
-### Recepcja akademicka
-- Polskie wydania zostały wzbogacone o przypisy i komentarze zawarte w dwóch posłowiach:
+### Academic Reception
+- Polish editions were enriched with footnotes and commentaries contained in two afterwords:
   - **Jan Gondowicz**
-  - **Grzegorz Jankowicz** - według niego "Jeśli błąkamy się między nadzieją a wątpliwością, to znaczy, że jeszcze żyjemy"
+  - **Grzegorz Jankowicz** - according to him "If we wander between hope and doubt, it means we are still alive"
 
-## Kontekst edukacyjny
+## Educational Context
 
-### Lektura szkolna
-- "Fikcje" pojawiają się w materiałach edukacyjnych dla szkół średnich
-- Uznawane za dzieło o wysokim progu wejścia, ale warto przy nim pozostać
-- Opowiadania Borgesa są zanurzone w filozofii klasycznej i prowadzą dialog z tą filozofią
-- Wykorzystywane w zaawansowanych studiach literackich na poziomie liceum
+### School Reading
+- "Ficciones" appears in educational materials for secondary schools
+- Considered a work with a high entry threshold, but worth persisting with
+- Borges' stories are immersed in classical philosophy and engage in dialogue with that philosophy
+- Used in advanced literary studies at high school level
 
-### Tematyka w polskiej edukacji
-- **Labirynt jako symbol** - w twórczości Borgesa symbolizuje świat, ludzką psychikę lub życie
-- **Nieskończony labirynt** - nie prowadzi do celu, sugeruje, że światu nie jest właściwy porządek
-- Świat nie jest poznawalny skończonym ludzkim rozumem
+### Themes in Polish Education
+- **Labyrinth as symbol** - in Borges' work symbolizes the world, human psyche, or life
+- **Infinite labyrinth** - does not lead to a goal, suggests that order is not inherent to the world
+- The world is not knowable by finite human reason
 
-## Adaptacje i nawiązania kulturowe
+## Cultural Adaptations and References
 
-### Festiwal literacki
-- **"Labirynt Borges"** - festiwal literacki organizowany wczesną jesienią
-- Związany z PIW (Państwowy Instytut Wydawniczy)
-- Podseria Borgesowska w ramach serii "Proza światowa"
+### Literary Festival
+- **"Labyrinth Borges"** - literary festival organized in early autumn
+- Connected with PIW (State Publishing Institute)
+- Borgesian subseries within the "World Prose" series
 
-### Wpływ na kulturę cyfrową
-- **Biblioteka Babel** - obecnie metafora Internetu jako ogromnego, niemożliwego do ogarnięcia hipertekstu
-- **Ogród rozwidlających się ścieżek** - używany jako metafora dla powieści hipertekstowych
-- **Aleph** - wygodna krytyka autorów literatury elektronicznej, którzy chcieli widzieć hipertekst jako dzieło niewyczerpalne
+### Influence on Digital Culture
+- **Library of Babel** - now a metaphor for the Internet as a vast, incomprehensible hypertext
+- **Garden of Forking Paths** - used as a metaphor for hypertextual novels
+- **Aleph** - convenient criticism of electronic literature authors who wanted to see hypertext as inexhaustible work
 
-## Kluczowe dzieła w polskim tłumaczeniu
+## Key Works in Polish Translation
 
-### "Fikcje" (Ficciones, 1944)
-- Najważniejszy i najbardziej znany zbiór Borgesa
-- Składa się z dwóch części i siedemnastu epizodów
-- Połączenie zbioru "Ogród rozwidlających się ścieżek" (1941, 8 utworów) z nową częścią "Sztuczki" (6 utworów)
+### "Ficciones" (Ficciones, 1944)
+- Borges' most important and best-known collection
+- Consists of two parts and seventeen episodes
+- Combination of "The Garden of Forking Paths" collection (1941, 8 works) with new part "Artifices" (6 works)
 
-### "Alef" (El Aleph)
-- Drugi główny zbiór opowiadań po "Fikcjach"
-- Pierwszy raz w całości przetłumaczony przez kogoś, kto poświęcił całe życie Borgesowi
+### "The Aleph" (El Aleph)
+- Second major story collection after "Ficciones"
+- First completely translated by someone who devoted his entire life to Borges
 
-### "Biblioteka Babel" (La biblioteca de Babel)
-- Opowiadanie z 1941 roku opisujące wszechświat jako ogromną bibliotekę
-- Pierwotnie opublikowane jako część zbioru "Ogród o rozwidlających się ścieżkach"
+### "The Library of Babel" (La biblioteca de Babel)
+- 1941 story describing the universe as an enormous library
+- Originally published as part of "The Garden of Forking Paths" collection
 
-## Specyfika polska
+## Polish Specificity
 
-### Kontekst historyczno-kulturowy
-- Borges zyskał światową sławę opowiadaniami wyróżniającymi się mistrzowskim opanowaniem języka i eksperymentowaniem z konwencjami literackimi
-- Teoria literatury fantastycznej Borgesa oraz jego koncepcja czasu, przestrzeni, języka i roli czytelnika w dziele literackim służyły jako inspiracja dla twórców eksperymentalnej prozy iberoamerykańskiej
+### Historical-Cultural Context
+- Borges gained worldwide fame with stories distinguished by masterful command of language and experimentation with literary conventions
+- Borges' theory of fantastic literature and his concepts of time, space, language, and the reader's role in literary work served as inspiration for creators of experimental Ibero-American prose
 
-### Terminologia krytycznoliteracka
-- **"Boom" iberoamerykański** - Borges uformował podstawy tego zjawiska
-- **Literatura współtworzona** - według Borgesowej koncepcji literatura to współpraca autora i czytelnika
-- **Metafikcja** - polska krytyka szczególnie docenia borgesowskie eksperymenty z konwencjami narracyjnymi
+### Critical-Literary Terminology
+- **Ibero-American "Boom"** - Borges formed the foundations of this phenomenon
+- **Co-created literature** - according to Borges' concept, literature is collaboration between author and reader
+- **Metafiction** - Polish criticism particularly appreciates Borgesian experiments with narrative conventions
 
-## Wpływ na współczesną polską literaturę
+## Influence on Contemporary Polish Literature
 
-### Tematy inspirowane Borgesem
-1. **Labirynty** - jako struktura narracyjna i metafora egzystencjalna
-2. **Biblioteki i księgi** - symbole wiedzy i jej granic
-3. **Czas i wieczność** - nielinearne koncepcje temporalności
-4. **Tożsamość i sobowtóry** - problematyka podwójności
-5. **Rzeczywistość i fikcja** - granice między prawdą a zmyśleniem
+### Themes Inspired by Borges
+1. **Labyrinths** - as narrative structure and existential metaphor
+2. **Libraries and books** - symbols of knowledge and its limits
+3. **Time and eternity** - non-linear concepts of temporality
+4. **Identity and doubles** - problematic of duality
+5. **Reality and fiction** - boundaries between truth and invention
 
-### Współczesne nawiązania
-- Polska literatura elektroniczna często odwołuje się do motywów borgesowskich
-- Autorzy hipertekstów wykorzystują metaforę "ogrodu rozwidlających się ścieżek"
-- Stuart Moulthrop próbował hipertekstowej adaptacji "Ogrodu rozwidlających się ścieżek" w programie Storyspace
+### Contemporary References
+- Polish electronic literature often refers to Borgesian motifs
+- Hypertext authors utilize the metaphor of "garden of forking paths"
+- Stuart Moulthrop attempted a hypertextual adaptation of "The Garden of Forking Paths" in Storyspace software
 
-## Ciekawostki dla polskich czytelników
+## Curiosities for Polish Readers
 
-### Związki z Argentyną
-- Gombrowicz spędził w Argentynie dziesięć lat w ubóstwie, gdzie miał kontakt z Borgesem
-- Borges "czuł się urażony stylem bycia" Gombrowicza
-- Gombrowicz należał do kręgu "mniej lub bardziej utalentowanych nieudaczników"
+### Connections with Argentina
+- Gombrowicz spent ten years in poverty in Argentina, where he had contact with Borges
+- Borges "felt offended by Gombrowicz's style of being"
+- Gombrowicz belonged to a circle of "more or less talented failures"
 
-### Współczesne interpretacje
-- **Interpretacja kwantowa** - "Ogród rozwidlających się ścieżek" antycypuje wieloświatową interpretację mechaniki kwantowej
-- **Hipertekst** - Borges i jego dzieła pojawiają się w pracach klasyków hipertekstu jako najczęstsza referencja intertekstualna
+### Contemporary Interpretations
+- **Quantum interpretation** - "The Garden of Forking Paths" anticipates many-worlds interpretation of quantum mechanics
+- **Hypertext** - Borges and his works appear in classic hypertext studies as the most frequent intertextual reference
 
-### Wydania kolekcjonerskie
-- Wydanie PIW z 2019 roku zawiera obszerne komentarze Jana Gondowicza i Grzegorza Jankowicza
-- Dostępne wydania elektroniczne w formatach epub i mobi
-- Liczne wydania antykwaryczne z serii "Biblioteka Klasyki Polskiej i Obcej" z 1978 roku
+### Collector's Editions
+- 2019 PIW edition contains extensive commentaries by Jan Gondowicz and Grzegorz Jankowicz
+- Available electronic editions in epub and mobi formats
+- Numerous antiquarian editions from "Library of Polish and Foreign Classics" series from 1978
 
-## Podsumowanie dla polskich słuchaczy
+## Summary for Polish Listeners
 
-"Fikcje" Jorge Luisa Borgesa to dzieło, które od ponad 50 lat fascynuje polskich czytelników i krytyków. Od pierwszego wydania w 1972 roku książka wywarła trwały wpływ na polską literaturę, inspirując tak różnych twórców jak Witold Gombrowicz czy współczesnych autorów literatury elektronicznej. Polscy tłumacze, zwłaszcza Andrzej Sobol-Jurczykowski, stworzyli przekłady, które nie tylko oddają genius loci oryginału, ale także wzbogacają polską tradycję literacką o nowe sposoby myślenia o rzeczywistości, czasie i tożsamości.
+"Ficciones" by Jorge Luis Borges is a work that has fascinated Polish readers and critics for over 50 years. Since its first edition in 1972, the book has had a lasting impact on Polish literature, inspiring such diverse creators as Witold Gombrowicz and contemporary electronic literature authors. Polish translators, especially Andrzej Sobol-Jurczykowski, created translations that not only capture the genius loci of the original but also enrich Polish literary tradition with new ways of thinking about reality, time, and identity.
 
-Dla współczesnych polskich czytelników Borges pozostaje pisarzem niezwykle aktualnym - jego wizje nieskończonych bibliotek i rozwidlających się ścieżek doskonale opisują doświadczenie cyfrowego świata, w którym żyjemy. Termin "borgesowski" wszedł do polskiego słownika kulturowego jako synonim świata-labiryntu, w którym nie ma jednej prawdy, a rzeczywistość składa się z nieskończonych możliwości interpretacji.
+For contemporary Polish readers, Borges remains an extremely relevant writer - his visions of infinite libraries and forking paths perfectly describe the experience of the digital world we live in. The term "Borgesian" has entered the Polish cultural vocabulary as a synonym for a labyrinthine world where there is no single truth, and reality consists of infinite possibilities of interpretation.

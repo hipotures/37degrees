@@ -1,127 +1,127 @@
-# Badania Historyczne: "Obcy" Alberta Camusa (1942)
+# Historical Research: "The Stranger" by Albert Camus (1942)
 
-## Historia Powstania i Proces Twórczy
+## Creation History and Creative Process
 
-**FAKT**: Camus ukończył wstępną wersję manuskryptu do maja 1941 roku, gdy miał zaledwie 28 lat.
+**FACT**: Camus completed the initial manuscript version by May 1941, when he was only 28 years old.
 
-**FAKT**: Książka została napisana w trudnych warunkach osobistych - Camus chorował na gruźlicę i przebywał w Oranie (Algieria), gdzie uczył historii i geografii w prywatnej szkole, aby utrzymać się finansowo.
+**FACT**: The book was written under difficult personal circumstances - Camus was suffering from tuberculosis and living in Oran, Algeria, where he taught history and geography at a private school to support himself financially.
 
-**FAKT**: André Malraux, Jean Paulhan i Raymond Queneau zasugerowali rewizje manuskryptu, które Camus uwzględnił w końcowej wersji.
+**FACT**: André Malraux, Jean Paulhan, and Raymond Queneau suggested revisions to the manuscript, which Camus incorporated into the final version.
 
-**FAKT**: W maju 1941 roku Camus został poinformowany o zmianach sugerowanych przez André Malraux po przeczytaniu manuskryptu. Malraux uznał, że minimalistyczna struktura składniowa była zbyt powtarzalna.
+**FACT**: In May 1941, Camus was informed about changes suggested by André Malraux after reading the manuscript. Malraux believed the minimalist syntactic structure was too repetitive.
 
-**PLOTKA**: Niektóre sceny (morderstwo, rozmowa z kapelanem) były wielokrotnie przepisywane na polecenie redaktorów.
+**RUMOR**: Some scenes (the murder, conversation with the chaplain) were rewritten multiple times at the editors' request.
 
-**FAKT**: Pascal Pia został największym obrońcą "Obcego" i to on doprowadził do przekazania manuskryptu André Malraux na Wybrzeżu Lazurowym.
+**FACT**: Pascal Pia became the greatest defender of "The Stranger" and was the one who arranged for the manuscript to be passed to André Malraux on the French Riviera.
 
-**FAKT**: Malraux pokazał Camusowi, jak może wprowadzić więcej "gorąca i słońca" do sceny morderstwa - kluczowej części powieści.
+**FACT**: Malraux showed Camus how to introduce more "heat and sun" into the murder scene - a crucial part of the novel.
 
-## Inspiracje i Kontekst Biograficzny
+## Inspirations and Biographical Context
 
-**FAKT**: Główna inspiracja dla sceny morderstwa pochodzi z prawdziwego zdarzenia z lata 1939 roku na plaży Bouisseville pod Oranem, gdy znajomy Camusa, Raoul Bensoussan, miał starcie z dwoma Arabami.
+**FACT**: The main inspiration for the murder scene came from a real event in summer 1939 on Bouisseville beach near Oran, when Camus's acquaintance, Raoul Bensoussan, had a confrontation with two Arabs.
 
-**FAKT**: Gruźlica Camusa miała kluczowy wpływ na opis sceny morderstwa - uczucie "cymbałów słońca uderzających w czoło" odzwierciedla fizyczne odczucia podczas gorączki gruźliczej.
+**FACT**: Camus's tuberculosis had a key influence on the description of the murder scene - the feeling of "cymbals of sun striking the forehead" reflects physical sensations during tubercular fever.
 
-**FAKT**: Camus nazywał Oran "stolicą nudy" i nie lubił tego miasta, mimo że tam napisał swoje najsłynniejsze dzieło.
+**FACT**: Camus called Oran "the capital of boredom" and disliked the city, despite writing his most famous work there.
 
-**FAKT**: Powieść była częścią większego projektu filozoficznego Camusa - "cyklu absurdu" obejmującego "Obcego", "Mit Syzyfa" i "Kaligulę".
+**FACT**: The novel was part of Camus's larger philosophical project - the "cycle of the absurd" encompassing "The Stranger," "The Myth of Sisyphus," and "Caligula."
 
-**FAKT**: W 1930 roku, w wieku 17 lat, Camus został zdiagnozowany z gruźlicą, co zakończyło jego obiecującą karierę piłkarską jako bramkarza.
+**FACT**: In 1930, at age 17, Camus was diagnosed with tuberculosis, which ended his promising soccer career as a goalkeeper.
 
-**PLOTKA**: Camus przeniósł się do mieszkania swojego wuja Gustave'a Acault, rzeźnika, który wpłynął na młodego pisarza podczas choroby.
+**RUMOR**: Camus moved to live with his uncle Gustave Acault, a butcher, who influenced the young writer during his illness.
 
-## Drama Publikacji
+## Publication Drama
 
-**FAKT**: Pierwsze wydanie francuskie ukazało się 19 maja 1942 roku nakładem zaledwie 4400 egzemplarzy w cenie 25 franków.
+**FACT**: The first French edition was published on May 19, 1942, with only 4,400 copies at a price of 25 francs.
 
-**FAKT**: Publikacja miała miejsce podczas niemieckiej okupacji Francji, ale nie podlegała cenzurze nazistowskiej.
+**FACT**: Publication took place during the German occupation of France, but was not subject to Nazi censorship.
 
-**FAKT**: Gerhard Heller, szef niemieckiego Propaganda-Staffel, przeczytał manuskrypt przez całą noc i natychmiast go zaaprobował, uznając książkę za "aspołeczną" i "apolityczną".
+**FACT**: Gerhard Heller, head of the German Propaganda-Staffel, read the manuscript through the entire night and immediately approved it, considering the book "antisocial" and "apolitical."
 
-**FAKT**: Jean Grenier, mentor akademicki Camusa, odrzucił manuskrypt, uważając go za zbyt podobny do Kafki i przewidywalny w stylu.
+**FACT**: Jean Grenier, Camus's academic mentor, rejected the manuscript, considering it too similar to Kafka and predictable in style.
 
-**FAKT**: Grenier skrytykował również książkę za zbyt dużą liczbę "freudowskich piersi"!
+**FACT**: Grenier also criticized the book for having too many "Freudian breasts"!
 
-**FAKT**: Camus nie mógł podróżować do Francji z powodu nawrotu gruźlicy i nie był obecny podczas premiery - nie mógł nawet przeczytać pierwszych recenzji.
+**FACT**: Camus could not travel to France due to a tuberculosis relapse and was not present during the premiere - he couldn't even read the first reviews.
 
-**FAKT**: Z 20 egzemplarzy wysłanych do Camusa do Algierii, żaden nie dotarł - pierwszy egzemplarz otrzymał dopiero 17 czerwca 1942 roku.
+**FACT**: Of the 20 copies sent to Camus in Algeria, none arrived - he received his first copy only on June 17, 1942.
 
-## Pierwsze Reakcje Krytyczne
+## First Critical Reactions
 
-**FAKT**: Marcel Arland opublikował pierwszą znaczącą recenzję w "Comoedia" 11 lipca 1942 roku.
+**FACT**: Marcel Arland published the first significant review in "Comoedia" on July 11, 1942.
 
-**FAKT**: Do 1943 roku tylko pięć innych artykułów poświęcono "Obcemu" - początkowa recepcja była chłodna.
+**FACT**: By 1943, only five other articles were devoted to "The Stranger" - the initial reception was lukewarm.
 
-**FAKT**: Jean Paulhan w listopadzie 1941 roku napisał o manuskrypcie: "To powieść wielkiej klasy, która zaczyna się jak Sartre, a kończy jak Ponson du Terrail. Brać bez wahania."
+**FACT**: Jean Paulhan wrote about the manuscript in November 1941: "This is a high-class novel that begins like Sartre and ends like Ponson du Terrail. Take it without hesitation."
 
-**FAKT**: Jean-Paul Sartre napisał wpływową analizę "Obcego" w 1943 roku (opublikowaną ponownie w "Sytuacjach" w 1947), która znacząco wpłynęła na popularność książki w kołach antynazistowskich.
+**FACT**: Jean-Paul Sartre wrote an influential analysis of "The Stranger" in 1943 (republished in "Situations" in 1947), which significantly influenced the book's popularity in anti-Nazi circles.
 
-**FAKT**: Sartre opisał dzieło jako "klasyczne dzieło, dzieło porządku, skomponowane o absurdzie i przeciwko absurdowi".
+**FACT**: Sartre described the work as "a classical work, a work of order, composed about the absurd and against the absurd."
 
-**FAKT**: Camus ocenił wczesne recenzje sceptycznie, pisząc 6 września 1942: "Mierne krytyki w strefie wolnej, doskonałe w Paryżu".
+**FACT**: Camus evaluated early reviews skeptically, writing on September 6, 1942: "Mediocre criticism in the free zone, excellent in Paris."
 
-## Tłumaczenia i Sukces Międzynarodowy
+## Translations and International Success
 
-**FAKT**: Pierwszego tłumaczenia na język angielski dokonał Stuart Gilbert w 1946 roku, publikując je jednocześnie jako "The Outsider" w Londynie i "The Stranger" w Nowym Jorku.
+**FACT**: The first English translation was done by Stuart Gilbert in 1946, publishing it simultaneously as "The Outsider" in London and "The Stranger" in New York.
 
-**FAKT**: Alfred A. Knopf już złożył manuskrypt używając oryginalnego tytułu Gilberta, gdy poinformowano ich o zmianie nazwy - różnica między tytułami brytyjskim i amerykańskim utrzymała się w kolejnych wydaniach.
+**FACT**: Alfred A. Knopf had already typeset the manuscript using Gilbert's original title when they were informed of the name change - the difference between British and American titles persisted in subsequent editions.
 
-**FAKT**: Do 1985 roku tłumaczenie Gilberta sprzedało się w ponad 3 milionach egzemplarzy.
+**FACT**: By 1985, Gilbert's translation had sold over 3 million copies.
 
-**FAKT**: Przez 30 lat wersja Gilberta była standardowym tłumaczeniem angielskim.
+**FACT**: For 30 years, Gilbert's version was the standard English translation.
 
-**PLOTKA**: Niektórzy uczeni, włączając Helen Sebba i Jamesa Campbella, zauważyli nieprecyzyjności w tłumaczeniu Gilberta, które zniekształcały ton oryginału francuskiego.
+**RUMOR**: Some scholars, including Helen Sebba and James Campbell, noted inaccuracies in Gilbert's translation that distorted the tone of the French original.
 
-## Nagroda Nobla i Uznanie
+## Nobel Prize and Recognition
 
-**FAKT**: Albert Camus otrzymał Nagrodę Nobla w dziedzinie literatury w 1957 roku w wieku 44 lat, stając się drugim najmłodszym laureatem w historii (po Rudyardzie Kiplingu, który wygrał w wieku 41 lat).
+**FACT**: Albert Camus received the Nobel Prize in Literature in 1957 at age 44, becoming the second youngest laureate in history (after Rudyard Kipling, who won at age 41).
 
-**FAKT**: Nagroda została przyznana "za ważną twórczość literacką, która z jasnowidczą powagą oświetla problemy ludzkiego sumienia w naszych czasach".
+**FACT**: The prize was awarded "for his important literary production, which with clear-sighted earnestness illuminates the problems of the human conscience in our times."
 
-**FAKT**: Camus był zszokowany wiadomością o otrzymaniu Nagrody Nobla i powiedział skromnie: "Żałuję, że Malraux nie dostał tej nagrody. Zasługiwał na nią bardziej niż ja".
+**FACT**: Camus was shocked by the news of receiving the Nobel Prize and said modestly: "I regret that Malraux did not get this prize. He deserved it more than I did."
 
-## Tragiczny Finał i Odkrycie Manuskryptu
+## Tragic End and Manuscript Discovery
 
-**FAKT**: Albert Camus zginął 4 stycznia 1960 roku w wieku 46 lat w wypadku samochodowym w pobliżu Sens, w miejscowości Villeblevin.
+**FACT**: Albert Camus died on January 4, 1960, at age 46 in a car accident near Sens, in the town of Villeblevin.
 
-**FAKT**: Podróżował jako pasażer luksusowego Facel Vega prowadzonego przez swojego przyjaciela Michela Gallimarda, bratanka wydawcy.
+**FACT**: He was traveling as a passenger in a luxury Facel Vega driven by his friend Michel Gallimard, nephew of the publisher.
 
-**FAKT**: W samochodzie znajdowało się 144 strony ręcznie pisanego manuskryptu - pierwsza część planowanej autobiograficznej epickiej powieści "Pierwszy człowiek".
+**FACT**: In the car was a 144-page handwritten manuscript - the first part of a planned autobiographical epic novel "The First Man."
 
-**FAKT**: Manuskrypt został odnaleziony w błocie na miejscu wypadku w zabłoconej teczce.
+**FACT**: The manuscript was found in the mud at the accident site in a muddy briefcase.
 
-**FAKT**: Camus przewidywał, że "Pierwszy człowiek" będzie jego najlepszym dziełem.
+**FACT**: Camus predicted that "The First Man" would be his best work.
 
-**FAKT**: Manuskrypt był redagowany i opublikowany jako "Pierwszy człowiek" w 1995 roku przez córkę Camusa, Catherine, która przez trzy lata odszyfrowywała pismo ojca.
+**FACT**: The manuscript was edited and published as "The First Man" in 1995 by Camus's daughter, Catherine, who spent three years deciphering her father's handwriting.
 
-## Statystyki i Rekordy
+## Statistics and Records
 
-**FAKT**: "Obcy" został przetłumaczony na 60-75 języków (źródła podają różne liczby).
+**FACT**: "The Stranger" has been translated into 60-75 languages (sources give different numbers).
 
-**FAKT**: Sprzedano ponad 6 milionów egzemplarzy na całym świecie od publikacji w 1942 roku.
+**FACT**: Over 6 million copies have been sold worldwide since publication in 1942.
 
-**FAKT**: To jeden z najczęściej czytanych powieści XX wieku.
+**FACT**: It is one of the most widely read novels of the 20th century.
 
-**FAKT**: Książka jest nazywana "rytuałem przejścia dla czytelników na całym świecie".
+**FACT**: The book is called "a rite of passage for readers around the world."
 
-**FAKT**: To "rzadka powieść, którą tak samo prawdopodobnie znajdzie się w plecaku nastolatka, jak na seminarium filozofii dla absolwentów".
+**FACT**: It is "a rare novel equally likely to be found in a teenager's backpack as in a graduate philosophy seminar."
 
-## Ciekawostki i Anegdoty
+## Curiosities and Anecdotes
 
-**PLOTKA**: Niektóre źródła sugerują, że Camus mógł wrócić do Paryża pociągiem (miał już bilet kolejowy), ale zdecydował się podróżować samochodem z Gallimardem - ta decyzja kosztowała go życie.
+**RUMOR**: Some sources suggest that Camus could have returned to Paris by train (he already had a train ticket), but decided to travel by car with Gallimard - this decision cost him his life.
 
-**FAKT**: "Obcy" ma tylko około 100 stron, ale jest uważany za jedną z najbardziej wpływowych powieści w historii literatury.
+**FACT**: "The Stranger" is only about 100 pages long, but is considered one of the most influential novels in literary history.
 
-**FAKT**: Powieść została opisana jako "wszechobecna" - jeśli XX wiek wyprodukował powieść, którą można nazwać uniwersalną, to jest to "Obcy".
+**FACT**: The novel has been described as "ubiquitous" - if the 20th century produced a novel that can be called universal, it is "The Stranger."
 
-**FAKT**: Mimo skromnego początku (4400 egzemplarzy), "Obcy" stał się jedną z najważniejszych książek francuskiej literatury współczesnej.
+**FACT**: Despite its modest beginning (4,400 copies), "The Stranger" became one of the most important books of contemporary French literature.
 
-**PLOTKA**: Podczas pisania "Obcego" Camus miał trudności finansowe i musiał pracować jako nauczyciel part-time, aby utrzymać siebie i żonę Francine Faure, pianistkę i nauczycielkę matematyki z Oranu.
+**RUMOR**: While writing "The Stranger," Camus had financial difficulties and had to work as a part-time teacher to support himself and his wife Francine Faure, a pianist and mathematics teacher from Oran.
 
-**FAKT**: Książka była publikowana podczas II wojny światowej, co wpłynęło na jej odbiór - absurd egzystencjalny rezonował z doświadczeniem wojny i okupacji.
+**FACT**: The book was published during World War II, which influenced its reception - existential absurd resonated with the experience of war and occupation.
 
-**FAKT**: "Obcy" był instrumentalny w przyznaniu Camusowi Nagrody Nobla, chociaż komitet docenił całą jego twórczość literacką.
+**FACT**: "The Stranger" was instrumental in awarding Camus the Nobel Prize, although the committee recognized his entire literary output.
 
 ---
 
-*Badania przeprowadzone na podstawie źródeł historycznych, biograficznych i krytycznych. Oznaczenia: **FAKT** = potwierdzone źródła, **PLOTKA** = niepotwierdzone lub kontrowersyjne informacje.*
+*Research conducted based on historical, biographical and critical sources. Designations: **FACT** = confirmed sources, **RUMOR** = unconfirmed or controversial information.*

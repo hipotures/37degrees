@@ -1,324 +1,324 @@
-# Oresteja - Analiza Symboliczna i Ukrytych Znaczeń
+# The Oresteia - Symbolic Analysis and Hidden Meanings
 
-## Podstawowe Informacje o Dziele
-- **Tytuł**: Oresteja (Oresteia)
-- **Autor**: Eschylos (Aeschylus)
-- **Rok**: 458 r. p.n.e.
-- **Gatunek**: Tragedia grecka, trylogia teatralna
-
----
-
-## I. GŁÓWNE SYMBOLE I ICH INTERPRETACJE
-
-### 1. Czerwony Dywan - Symbol Pychy i Zguby
-**Klasyczna interpretacja:** Dywan, po którym kroczy Agamemnon, tradycyjnie zarezerwowany dla bogów, symbolizuje pychę króla i przewrotnie zapowiada jego upadek.
-
-**Interpretacja psychoanalityczna:** Reprezentuje granicę między światem ludzi a bogów - przekroczenie tej granicy prowadzi do psychicznej dezintegracji bohatera.
-
-**Współczesne odczytanie:** Symbol nadmiernych przywilejów władzy i konsekwencji przekraczania społecznych norm równości.
-
-### 2. Sieć Klitemnestry - Pułapka i Uwięzienie
-**Symbol tradycyjny:** Sieć, w którą Klitemestra oplata Agamemnona podczas morderstwa, oznacza podstęp i zemstę kobiecą.
-
-**Interpretacja feministyczna:** Reprezentuje jedyną dostępną kobietom formę władzy w patriarchalnym społeczeństwie - działanie poprzez spisek i manipulację.
-
-**Analiza strukturalna:** Sieć jako metafora systemu rodzinnych powiązań, które więzią jednostkę w cyklu zemsty.
-
-### 3. Wąż - Transformacja i Regeneracja
-**Symbolika starożytna:** Wąż reprezentuje przemianę systemu sprawiedliwości z zemsty rodzinnej na prawo państwowe.
-
-**Interpretacja biblijno-chrześcijańska:** Symbol zepsucia raju pierwotnego (rodzina) przez siły zła (morderstwo i zemsta).
-
-**Perspektywa jungowska:** Archetyp cienia - reprezentuje ukryte, destrukcyjne aspekty ludzkiej natury, które muszą zostać zintegrowane.
-
-### 4. Światło i Ciemność - Oświecenie i Ignorancja
-**Symbolika podstawowa:** Przejście od ciemności do światła oznacza ewolucję od prymitywnej zemsty do cywilizowanego prawa.
-
-**Interpretacja gnostycka:** Walka między siłami wiedzy (sophia) a ignorancją, gdzie prawdziwe poznanie przynosi wyzwolenie.
-
-**Czytanie polityczne:** Metafora przejścia Aten od tyranii do demokracji, od prawa silniejszego do równości przed prawem.
-
-### 5. Krew - Dziedziczenie i Przekleństwo
-**Znaczenie dosłowne:** Krew jako symbol więzów rodzinnych i dziedzicznej winy w rodzie Atrydów.
-
-**Interpretacja antropologiczna:** Reprezentuje pierwotne systemy sprawiedliwości oparte na pokrewieństwie i zemście krwi.
-
-**Współczesne rozumienie:** Symbol międzypokoleniowego dziedziczenia traum i przemocy.
+## Basic Work Information
+- **Title**: The Oresteia
+- **Author**: Aeschylus
+- **Year**: 458 BC
+- **Genre**: Greek tragedy, theatrical trilogy
 
 ---
 
-## II. ARCHETYPY I MOTYWY UNIWERSALNE
+## I. MAIN SYMBOLS AND THEIR INTERPRETATIONS
 
-### 6. Archetyp Wielkiej Matki - Klitemestra
-**Analiza jungowska:** Klitemestra ucieleśnia archetyp Wielkiej Matki w jej niszczącej postaci - matka która zjada własne dzieci.
+### 1. Red Carpet - Symbol of Pride and Downfall
+**Classical interpretation:** The carpet on which Agamemnon walks, traditionally reserved for gods, symbolizes the king's pride and ironically foreshadows his downfall.
 
-**Interpretacja feministyczna:** Przedstawienie strachu patriarchatu przed kobiecą władzą i autonomią.
+**Psychoanalytic interpretation:** Represents the boundary between the world of humans and gods - crossing this boundary leads to the hero's psychological disintegration.
 
-**Perspektywa mitologiczna:** Echa kultu Wielkiej Bogini i matriarchalnych struktur społecznych.
+**Contemporary reading:** Symbol of excessive power privileges and consequences of transgressing social norms of equality.
 
-### 7. Motyw Syna-Mściciela - Orestes
-**Wzorzec heroiczny:** Orestes jako bohater mityczny musi pokonać potwora (matkę-zabójczynię) aby przywrócić porządek.
+### 2. Clytemnestra's Net - Trap and Imprisonment
+**Traditional symbol:** The net in which Clytemnestra entangles Agamemnon during the murder signifies deceit and feminine revenge.
 
-**Interpretacja psychoanalityczna:** Reprezentuje fazę separacji od matki w rozwoju psychicznym, konieczną dla dojrzałości.
+**Feminist interpretation:** Represents the only form of power available to women in patriarchal society - action through conspiracy and manipulation.
 
-**Znaczenie społeczne:** Symbol młodego pokolenia, które musi przewartościować tradycyjne systemy wartości.
+**Structural analysis:** The net as a metaphor for the system of family connections that bind the individual in a cycle of revenge.
 
-### 8. Archetyp Mądrości - Atena
-**Symbolika klasyczna:** Atena jako bogini mądrości reprezentuje rozum przeważający nad emocjami.
+### 3. Snake - Transformation and Regeneration
+**Ancient symbolism:** The snake represents the transformation of the justice system from family revenge to state law.
 
-**Interpretacja polityczna:** Symbol nowego ładu demokratycznego, gdzie decyzje podejmuje zbiorowość, nie jednostka.
+**Biblical-Christian interpretation:** Symbol of the corruption of the original paradise (family) by forces of evil (murder and revenge).
 
-**Analiza feministyczna:** Paradoksalnie, bezmatczyna bogini sankcjonuje patriarchalny porządek poprzez odrzucenie praw matczynych.
+**Jungian perspective:** Shadow archetype - represents hidden, destructive aspects of human nature that must be integrated.
 
-### 9. Erynie - Sumienie i Sprawiedliwość Pierwotna
-**Znaczenie mitologiczne:** Stare boginie reprezentują pierwotny system sprawiedliwości oparty na zemście i krwi.
+### 4. Light and Darkness - Enlightenment and Ignorance
+**Basic symbolism:** The transition from darkness to light signifies evolution from primitive revenge to civilized law.
 
-**Interpretacja psychologiczna:** Symbol wyrzutów sumienia i nieuchronności kary za zbrodnię.
+**Gnostic interpretation:** The struggle between forces of knowledge (sophia) and ignorance, where true knowledge brings liberation.
 
-**Transformacja w Eumenidy:** Przemiana w łaskawe boginie oznacza integrację pierwotnych instynktów w cywilizowany porządek.
+**Political reading:** Metaphor for Athens' transition from tyranny to democracy, from the law of the stronger to equality before the law.
 
----
+### 5. Blood - Inheritance and Curse
+**Literal meaning:** Blood as a symbol of family bonds and hereditary guilt in the House of Atreus.
 
-## III. INTERPRETACJE KULTUROWE I SPOŁECZNE
+**Anthropological interpretation:** Represents primitive justice systems based on kinship and blood revenge.
 
-### 10. Przejście od Matriarchatu do Patriarchatu
-**Teoria Bachofena:** Oresteja dokumentuje historyczne przejście od społeczeństwa matriarchalnego do patriarchalnego.
-
-**Krytyka współczesna:** Współcześni uczeni kwestionują istnienie historycznego matriarchatu, interpretując to jako mit uzasadniający męską dominację.
-
-**Perspektywa antropologiczna:** Reprezentuje konflikt między różnymi systemami pokrewieństwa i dziedziczenia.
-
-### 11. Narodziny Demokracji Ateńskiej
-**Interpretacja polityczna:** Trylogia celebruje wprowadzenie sądu przysięgłych i demokratycznych procedur prawnych.
-
-**Analiza historyczna:** Odzwierciedla rzeczywiste reformy polityczne w Atenach V wieku p.n.e.
-
-**Znaczenie cywilizacyjne:** Reprezentuje przejście od prawa prywatnego do publicznego, od vendetta do państwa prawa.
-
-### 12. Gender i Sprawiedliwość
-**Problem płci w prawie:** Spór między Apollo a Eriniami o rolę matki w prokreacji odzwierciedla antyczne debaty o naturze płci.
-
-**Interpretacja feministyczna:** Trylogia uzasadnia podporządkowanie kobiet przez negację ich biologicznej roli w rodzicielstwie.
-
-**Analiza queer:** Bezmatczyne narodziny Ateny można interpretować jako zakwestionowanie binarnego myślenia o płci.
+**Contemporary understanding:** Symbol of intergenerational inheritance of trauma and violence.
 
 ---
 
-## IV. WSPÓŁCZESNE REINTERPRETACJE
+## II. ARCHETYPES AND UNIVERSAL MOTIFS
 
-### 13. Interpretacja Postkolonialna - Afrykańska Oresteja Pasoliniego
-**Wizja Pasoliniego:** Film "Appunti per un'Orestiade africana" (1970) interpretuje trylogię jako metaforę dekolonizacji Afryki.
+### 6. Great Mother Archetype - Clytemnestra
+**Jungian analysis:** Clytemnestra embodies the Great Mother archetype in its destructive form - the mother who devours her own children.
 
-**Symbolika transformacji:** Przejście od tradycyjnych struktur plemiennych do nowoczesnych państw narodowych.
+**Feminist interpretation:** Representation of patriarchy's fear of feminine power and autonomy.
 
-**Krytyka europocentryczna:** Pasolini próbuje znaleźć uniwersalny sens mitu poza zachodnią kulturą.
+**Mythological perspective:** Echoes of Great Goddess worship and matriarchal social structures.
 
-### 14. Adaptacje Feministyczne
-**Martha Graham:** Choreografka w balecie "Clytemnestra" (1958) przedstawiła feministyczną perspektywę na mit.
+### 7. Son-Avenger Motif - Orestes
+**Heroic pattern:** Orestes as mythical hero must defeat the monster (killer-mother) to restore order.
 
-**Joyce Carol Oates:** Powieść "Angel of Light" przenosi motyw Orestei do współczesnej Ameryki, koncentrując się na doświadczeniu kobiet.
+**Psychoanalytic interpretation:** Represents the phase of separation from mother in psychological development, necessary for maturity.
 
-**Współczesne teatry:** Liczne inscenizacje podkreślają trauma kobiecego doświadczenia w patriarchalnym świecie.
+**Social meaning:** Symbol of the young generation that must revalue traditional value systems.
 
-### 15. Czytanie Psychoterapeutyczne
-**Terapia rodzinna:** Oresteja jako studium przypadku dysfuncjonalnej rodziny i międzypokoleniowego przekazywania traum.
+### 8. Wisdom Archetype - Athena
+**Classical symbolism:** Athena as goddess of wisdom represents reason prevailing over emotions.
 
-**Analiza systemowa:** Cykl przemocy jako wzorzec patologiczny, który można przerwać jedynie poprzez zewnętrzną interwencję.
+**Political interpretation:** Symbol of new democratic order, where decisions are made by the collective, not the individual.
 
-**Podejście narracyjne:** Historia jako przykład "przepisywania" rodzinnej narracji z destrukcyjnej na uzdrawiającą.
+**Feminist analysis:** Paradoxically, the motherless goddess sanctions patriarchal order through rejection of maternal rights.
 
----
+### 9. Furies - Conscience and Primitive Justice
+**Mythological meaning:** Old goddesses represent the primitive justice system based on revenge and blood.
 
-## V. UKRYTE ZNACZENIA I SUBTEKST
+**Psychological interpretation:** Symbol of guilt and the inevitability of punishment for crime.
 
-### 16. Krytyka Religii Olimpijskiej
-**Subwersywny element:** Eschylos subtlnie krytykuje tradycyjnych bogów, pokazując ich jako stronniczych i niesprawiedliwych.
-
-**Apollo vs Erynie:** Konflikt reprezentuje starcie między nowymi a starymi formami religijności.
-
-**Rola Zeusa:** Najwyższy bóg pozostaje w cieniu, sugerując ograniczenia tradycyjnej teologii.
-
-### 17. Ekonomia i Własność
-**Ukryty motyw ekonomiczny:** Spór o dziedzictwo i własność pałacu stanowi tło dla konfliktu rodzinnego.
-
-**Analiza marksistowska:** Przemoc jako konsekwencja walk o kontrolę nad środkami produkcji (ziemią, bogactwem).
-
-**Interpretacja socjologiczna:** Przejście od gospodarki rodowej do państwowej kontroli nad własnością.
-
-### 18. Seksualność i Władza
-**Subtelny erotyzm:** Seksualność jako narzędzie władzy - Klitemestra wykorzystuje swoją atrakcyjność do manipulacji.
-
-**Homoerotyczne podteksty:** Relacja Orestesr-Pylades interpretowana przez niektórych jako związek homoerotyczny.
-
-**Kastracja symboliczna:** Morderstwo Agamemnona jako symboliczne pozbawienie go męskości.
+**Transformation into Eumenides:** Transformation into benevolent goddesses signifies integration of primitive instincts into civilized order.
 
 ---
 
-## VI. SYMBOLIKA PRZESTRZENI I MIEJSCA
+## III. CULTURAL AND SOCIAL INTERPRETATIONS
 
-### 19. Pałac jako Mikrokosmos
-**Architektura władzy:** Pałac reprezentuje porządek polityczny i społeczny, którego naruszenie prowadzi do chaosu.
+### 10. Transition from Matriarchy to Patriarchy
+**Bachofen's theory:** The Oresteia documents the historical transition from matriarchal to patriarchal society.
 
-**Przestrzeń kobiety:** Wnętrze pałacu jako tradycyjnie kobieca sfera, w której kobieta może wykonywać władzę.
+**Contemporary criticism:** Modern scholars question the existence of historical matriarchy, interpreting it as a myth justifying male dominance.
 
-**Symbolika drzwi:** Przekraczanie progów jako metafora transformacji i przekraczania granic.
+**Anthropological perspective:** Represents conflict between different kinship and inheritance systems.
 
-### 20. Areopag - Świątynia Sprawiedliwości
-**Geograficzna świętość:** Wzgórze Areopagu jako realne miejsce w Atenach, nadające credibilitas mitowi.
+### 11. Birth of Athenian Democracy
+**Political interpretation:** The trilogy celebrates the introduction of jury trials and democratic legal procedures.
 
-**Architektura demokratyczna:** Okrągły kształt miejsca zgromadzeń jako symbol równości uczestników.
+**Historical analysis:** Reflects actual political reforms in 5th century BC Athens.
 
-**Transformacja przestrzeni:** Przemiana miejsca zemsty w miejsce sprawiedliwości.
+**Civilizational significance:** Represents transition from private to public law, from vendetta to rule of law.
 
-### 21. Droga - Podróż Inicjacyjna
-**Podróż Orestesr:** Wędrówka bohatera od Trojan przez Delphi do Aten jako symboliczna inicjacja.
+### 12. Gender and Justice
+**Gender problem in law:** The dispute between Apollo and the Furies about the mother's role in procreation reflects ancient debates about the nature of gender.
 
-**Geografia duchowa:** Każde miejsce reprezentuje inny aspekt rozwoju duchowego i moralnego.
+**Feminist interpretation:** The trilogy justifies women's subordination by negating their biological role in parenthood.
 
-**Axis mundi:** Delphi jako centrum świata, gdzie spotykają się wymiary ludzki i boski.
-
----
-
-## VII. INTERPRETACJE JĘZYKOWE I POETYCKIE
-
-### 22. Metajęzyk Tragiczny
-**Ironija tragiczna:** Postacie wypowiadają słowa, których pełnego znaczenia nie rozumieją.
-
-**Profetyzm:** Kasandra jako figura poety tragicznego - widzi prawdę, której nikt nie chce słuchać.
-
-**Jęzak władzy:** Różne style mowy reprezentują różne formy autorytetu (królewska, kapłańska, sądowa).
-
-### 23. Symbolika Imion
-**Onomastyką znacząca:** "Orestês" oznaczający "góra" sugeruje duchowe wzniesienie bohatera.
-
-**"Klitemnestra":** "Sławna w planach" - imię proroczo zapowiadające jej rolę jako intryganki.
-
-**"Agamemnon":** "Bardzo wytrwały" - ironia wobec jego szybkiej śmierci.
-
-### 24. Rytm i Metr jako Symbolb
-**Metryczna ewolucja:** Przejście od chaotycznych rytmów do regularnych jako metafora uporządkowania.
-
-**Choralne interludi:** Chór reprezentuje zbiorową mądrość, która komentuje i interpretuje wydarzenia.
-
-**Stichiomychia:** Szybka wymiana kwestii jako symbol narastającego konfliktu.
+**Queer analysis:** Athena's motherless birth can be interpreted as questioning binary thinking about gender.
 
 ---
 
-## VIII. INTERPRETACJE FILOZOFICZNE
+## IV. CONTEMPORARY REINTERPRETATIONS
 
-### 25. Problem Wolnej Woli
-**Determinizm vs. Autonomia:** Czy postacie działają z własnej woli, czy są skazane przez los i przekleństwo?
+### 13. Postcolonial Interpretation - Pasolini's African Oresteia
+**Pasolini's vision:** The film "Notes for an African Oresteia" (1970) interprets the trilogy as a metaphor for African decolonization.
 
-**Sartre'owska interpretacja:** Orestes jako egzystencjalna figura, która musi wybierać swoją tożsamość poprzez czyn.
+**Transformation symbolism:** Transition from traditional tribal structures to modern nation-states.
 
-**Fatalizm grecki:** Napięcie między boskim przeznaczeniem a ludzką odpowiedzialnością.
+**Eurocentric criticism:** Pasolini attempts to find universal meaning in myth beyond Western culture.
 
-### 26. Natura Sprawiedliwości
-**Platon i sprawiedliwość:** Oresteja jako ilustracja przejścia od sprawiedliwości retrybutywnej do restytucyjnej.
+### 14. Feminist Adaptations
+**Martha Graham:** The choreographer in the ballet "Clytemnestra" (1958) presented a feminist perspective on the myth.
 
-**Etyka cnót:** Atena reprezentuje phronesis (praktyczną mądrość) przeważającą nad namiętnościami.
+**Joyce Carol Oates:** The novel "Angel of Light" transports the Oresteia motif to contemporary America, focusing on women's experience.
 
-**Utylitaryzm:** Rozwiązanie trylogii maksymalizuje dobro ogólne kosztem indywidualnej zemsty.
+**Contemporary theaters:** Numerous productions emphasize the trauma of feminine experience in a patriarchal world.
 
-### 27. Teodyceja - Problem Zła
-**Sprawiedliwość bogów:** Czy bogowie są moralnie lepsi od ludzi, czy tylko potężniejsi?
+### 15. Psychotherapeutic Reading
+**Family therapy:** The Oresteia as a case study of a dysfunctional family and intergenerational transmission of trauma.
 
-**Problem niewinności:** Cierpienie niewinnych (Ifigenia) jako wyzwanie dla boskiej sprawiedliwości.
+**Systems analysis:** The cycle of violence as a pathological pattern that can only be broken through external intervention.
 
-**Gnostyką interpretacja:** Świat jako miejsce walki między dobrem a złem, gdzie zło może czasowo dominować.
-
----
-
-## IX. PSYCHOANALITYCZNE GŁĘBOKIE ZNACZENIA
-
-### 28. Kompleks Elektry
-**Freudowska interpretacja:** Elektra jako przykład żeńskiego odpowiednika kompleksu Edypa.
-
-**Jungowska krytyka:** Redukcjonistyczne podejście Freuda nie uwzględnia duchowego wymiaru mitu.
-
-**Lacanowska analiza:** Elektra jako podmiot rozdartego między Realnym a Symbolicznym.
-
-### 29. Macierzyństwo i Męskość
-**Lęk przed macierzyństwem:** Apollo kwestionuje biologiczną rolę matki, co odzwierciedla patriarchalny lęk.
-
-**Kryzys męskości:** Agamemnon jako słaby mężczyzna, któremu kobiety odbierają władzę.
-
-**Inicjacja męska:** Orestes musi symbolicznie zabić matkę, aby stać się mężczyzną.
-
-### 30. Trauma i Dziedzictwo
-**Epigenetyka mitu:** Współczesne rozumienie dziedziczenia traum przez pokolenia.
-
-**PTSD starożytnych:** Agamemnon jako weteran wojenny cierpiący na zespół stresu pourazowego.
-
-**Terapia poprzez narrację:** Opowiadanie historii jako sposób na przepracowanie traumy rodzinnej.
+**Narrative approach:** The story as an example of "rewriting" family narrative from destructive to healing.
 
 ---
 
-## X. UKRYTE POLITYCZNE PRZESŁANIA
+## V. HIDDEN MEANINGS AND SUBTEXT
 
-### 31. Krytyka Imperializmu
-**Wojna trojańska:** Jako metafora współczesnych kampanii wojekkich Aten i ich moralnych kosztów.
+### 16. Criticism of Olympian Religion
+**Subversive element:** Aeschylus subtly criticizes traditional gods, showing them as biased and unjust.
 
-**Agamemnon-imperialista:** Król jako figura odpowiedzialna za zbędne cierpienie w imię chwały.
+**Apollo vs Furies:** The conflict represents a clash between new and old forms of religiosity.
 
-**Anty-wojenna wymowa:** Subtlna krytyka kultury militarnego heroizmu.
+**Zeus's role:** The supreme god remains in the shadows, suggesting limitations of traditional theology.
 
-### 32. Reformy Periklesea
-**Sąd przysięgłych:** Trylogia jako propaganda na rzecz demokratycznych reform sądownictwa.
+### 17. Economy and Property
+**Hidden economic motif:** The dispute over inheritance and palace ownership forms the background for family conflict.
 
-**Areopag:** Zachowanie godności starych instytucji w nowym porządku demokratycznym.
+**Marxist analysis:** Violence as a consequence of struggles for control over means of production (land, wealth).
 
-**Kompromis klasowy:** Pogodzenie arystokracji z demokratią poprzez wspólne instytucje.
+**Sociological interpretation:** Transition from clan economy to state control over property.
 
----
+### 18. Sexuality and Power
+**Subtle eroticism:** Sexuality as a tool of power - Clytemnestra uses her attractiveness for manipulation.
 
-## XI. ZNACZENIE RYTUALNO-RELIGIJNE
+**Homoerotic subtexts:** The Orestes-Pylades relationship interpreted by some as homoerotic.
 
-### 33. Elementy Mistyczne
-**Dionizyjskie tło:** Tragedia jako część kultu Dionizosa - boga przemian i odrodzenia.
-
-**Katarzys:** Oczyszczenie widzów przez przeżycie lęku i litości.
-
-**Hieros gamos:** Mistyczne małżeństwo przeciwieństw jako ostateczne rozwiązanie konfliktu.
-
-### 34. Eschatologia
-**Przemiana Erynia:** Jako symbol możliwości transformacji i zbawienia.
-
-**Nowa religijność:** Synteza między starymi kultami a nowymi formami pobożności.
-
-**Apokalipsa i regeneracja:** Zniszczenie starego porządku jako warunek narodzin nowego.
+**Symbolic castration:** Agamemnon's murder as symbolic deprivation of his masculinity.
 
 ---
 
-## XII. WSPÓŁCZESNA RECEPCJA I REINTERPRETACJE
+## VI. SYMBOLISM OF SPACE AND PLACE
 
-### 35. Interpretacja w Kontekście #MeToo
-**Przemoc wobec kobiet:** Klitemestra jako ofiara przemocy domowej, która broni się jedynym dostępnym sposobem.
+### 19. Palace as Microcosm
+**Architecture of power:** The palace represents political and social order, whose violation leads to chaos.
 
-**Victim blaming:** Społeczeństwo, które wini ofiary przemocy za ich reakcje.
+**Woman's space:** The palace interior as traditionally feminine sphere, where women can exercise power.
 
-**Sprawiedliwość restoratywna:** Potrzeba nowych form rozwiązywania konfliktów związanych z przemocą płciową.
+**Door symbolism:** Crossing thresholds as metaphor for transformation and boundary crossing.
 
-### 36. Ekologiczne Czytanie
-**Przekleństwo ziemi:** Dom Atrydów jako metafora degradacji środowiska przez ludzką chciwość.
+### 20. Areopagus - Temple of Justice
+**Geographic sanctity:** Areopagus hill as real place in Athens, lending credibility to the myth.
 
-**Harmonia z naturą:** Erynie reprezentują pierwotne siły natury, które muszą zostać uszanowane.
+**Democratic architecture:** Circular shape of assembly place as symbol of participants' equality.
 
-**Zrównoważony rozwój:** Przemiana Erynia w Eumenidy jako model ekologicznego myślenia.
+**Space transformation:** Transformation of a place of revenge into a place of justice.
 
-### 37. Globalizacja i Kultura
-**Uniwersalność vs. Partykularność:** Oresteja jako mit uniwersalny adaptowalny do różnych kultur.
+### 21. Road - Initiatory Journey
+**Orestes' journey:** The hero's wandering from Troy through Delphi to Athens as symbolic initiation.
 
-**Neo-kolonializm:** Niebezpieczeństwo narzucania zachodnich interpretacji innym kulturom.
+**Spiritual geography:** Each place represents a different aspect of spiritual and moral development.
 
-**Hybrydyzacja kulturowa:** Możliwość tworzenia nowych znaczeń poprzez kulturowe mieszanie.
+**Axis mundi:** Delphi as center of the world, where human and divine dimensions meet.
 
 ---
 
-## Wnioski
+## VII. LINGUISTIC AND POETIC INTERPRETATIONS
 
-Oresteja Eschylosa to dzieło o nieograniczonym potencjale interpretacyjnym, które przez tysiąclecia inspiruje kolejne pokolenia czytelników i twórców. Jej symbole i motywy rezonują z uniwersalnymi dylematami ludzkiej egzystencji: sprawiedliwości, przemocy, rodziny, władzy i transformacji społecznej.
+### 22. Tragic Metalanguage
+**Tragic irony:** Characters speak words whose full meaning they do not understand.
 
-Współczesne interpretacje pokazują, że starożytny mit zachowuje swoją aktualność, oferując narzędzia do zrozumienia dzisiejszych problemów - od przemocy domowej po kryzys demokracji, od traum międzypokoleniowych po konflikty kulturowe. Oresteja pozostaje żywym tekstem, który każda epoka może na nowo odczytywać i reinterpretować zgodnie z własnymi potrzebami i wyzwaniami.
+**Prophecy:** Cassandra as figure of tragic poet - sees truth that no one wants to hear.
 
-*Dokument opracowany na podstawie analizy wielu źródeł akademickich i współczesnych interpretacji, przedstawiając wielowarstwową naturę jednego z najważniejszych dzieł literatury światowej.*
+**Language of power:** Different speech styles represent different forms of authority (royal, priestly, judicial).
+
+### 23. Symbolism of Names
+**Significant onomastics:** "Orestes" meaning "mountain" suggests the hero's spiritual elevation.
+
+**"Clytemnestra":** "Famous in plans" - a name prophetically announcing her role as schemer.
+
+**"Agamemnon":** "Very persistent" - irony regarding his quick death.
+
+### 24. Rhythm and Meter as Symbol
+**Metrical evolution:** Transition from chaotic rhythms to regular ones as metaphor for ordering.
+
+**Choral interludes:** Chorus represents collective wisdom that comments and interprets events.
+
+**Stichomythia:** Rapid exchange of lines as symbol of escalating conflict.
+
+---
+
+## VIII. PHILOSOPHICAL INTERPRETATIONS
+
+### 25. Problem of Free Will
+**Determinism vs. Autonomy:** Do characters act of their own will, or are they doomed by fate and curse?
+
+**Sartrean interpretation:** Orestes as existential figure who must choose his identity through action.
+
+**Greek fatalism:** Tension between divine destiny and human responsibility.
+
+### 26. Nature of Justice
+**Plato and justice:** The Oresteia as illustration of transition from retributive to restorative justice.
+
+**Virtue ethics:** Athena represents phronesis (practical wisdom) prevailing over passions.
+
+**Utilitarianism:** The trilogy's solution maximizes general good at the cost of individual revenge.
+
+### 27. Theodicy - Problem of Evil
+**Divine justice:** Are gods morally better than humans, or just more powerful?
+
+**Problem of innocence:** Suffering of innocents (Iphigenia) as challenge to divine justice.
+
+**Gnostic interpretation:** The world as place of struggle between good and evil, where evil may temporarily dominate.
+
+---
+
+## IX. PSYCHOANALYTIC DEEP MEANINGS
+
+### 28. Electra Complex
+**Freudian interpretation:** Electra as example of feminine counterpart to Oedipus complex.
+
+**Jungian criticism:** Freud's reductionist approach doesn't account for the spiritual dimension of myth.
+
+**Lacanian analysis:** Electra as subject torn between Real and Symbolic.
+
+### 29. Motherhood and Masculinity
+**Fear of motherhood:** Apollo questions the biological role of mother, reflecting patriarchal anxiety.
+
+**Crisis of masculinity:** Agamemnon as weak man from whom women take away power.
+
+**Male initiation:** Orestes must symbolically kill mother to become a man.
+
+### 30. Trauma and Heritage
+**Epigenetics of myth:** Contemporary understanding of trauma inheritance through generations.
+
+**Ancient PTSD:** Agamemnon as war veteran suffering from post-traumatic stress disorder.
+
+**Therapy through narrative:** Telling the story as way to process family trauma.
+
+---
+
+## X. HIDDEN POLITICAL MESSAGES
+
+### 31. Criticism of Imperialism
+**Trojan War:** As metaphor for contemporary Athenian military campaigns and their moral costs.
+
+**Agamemnon-imperialist:** King as figure responsible for unnecessary suffering in the name of glory.
+
+**Anti-war message:** Subtle criticism of military heroism culture.
+
+### 32. Pericles' Reforms
+**Jury trials:** Trilogy as propaganda for democratic judicial reforms.
+
+**Areopagus:** Preserving dignity of old institutions in new democratic order.
+
+**Class compromise:** Reconciling aristocracy with democracy through common institutions.
+
+---
+
+## XI. RITUAL-RELIGIOUS SIGNIFICANCE
+
+### 33. Mystical Elements
+**Dionysiac background:** Tragedy as part of Dionysus cult - god of transformation and rebirth.
+
+**Catharsis:** Purification of viewers through experiencing fear and pity.
+
+**Hieros gamos:** Mystical marriage of opposites as ultimate conflict resolution.
+
+### 34. Eschatology
+**Furies' transformation:** As symbol of possibility of transformation and salvation.
+
+**New religiosity:** Synthesis between old cults and new forms of piety.
+
+**Apocalypse and regeneration:** Destruction of old order as condition for birth of new.
+
+---
+
+## XII. CONTEMPORARY RECEPTION AND REINTERPRETATIONS
+
+### 35. Interpretation in #MeToo Context
+**Violence against women:** Clytemnestra as victim of domestic violence who defends herself in the only available way.
+
+**Victim blaming:** Society that blames violence victims for their reactions.
+
+**Restorative justice:** Need for new forms of resolving conflicts related to sexual violence.
+
+### 36. Ecological Reading
+**Curse of the earth:** House of Atreus as metaphor for environmental degradation through human greed.
+
+**Harmony with nature:** Furies represent primordial forces of nature that must be respected.
+
+**Sustainable development:** Transformation of Furies into Eumenides as model of ecological thinking.
+
+### 37. Globalization and Culture
+**Universality vs. Particularity:** The Oresteia as universal myth adaptable to different cultures.
+
+**Neo-colonialism:** Danger of imposing Western interpretations on other cultures.
+
+**Cultural hybridization:** Possibility of creating new meanings through cultural mixing.
+
+---
+
+## Conclusions
+
+Aeschylus's Oresteia is a work of unlimited interpretive potential that has inspired successive generations of readers and creators for millennia. Its symbols and motifs resonate with universal dilemmas of human existence: justice, violence, family, power, and social transformation.
+
+Contemporary interpretations show that the ancient myth retains its relevance, offering tools for understanding today's problems - from domestic violence to the crisis of democracy, from intergenerational trauma to cultural conflicts. The Oresteia remains a living text that each era can reread and reinterpret according to its own needs and challenges.
+
+*Document prepared based on analysis of many academic sources and contemporary interpretations, presenting the multi-layered nature of one of the most important works of world literature.*

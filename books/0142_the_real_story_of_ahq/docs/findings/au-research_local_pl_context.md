@@ -1,161 +1,161 @@
-# Lokalny kontekst kulturowy: "Prawdziwa historia Ah-Q" Lu Xuna w Polsce
+# Local Cultural Context: "The Real Story of Ah-Q" by Lu Xun in Poland
 
-## Podstawowe informacje o dziele
-- **Tytuł oryginalny**: 阿Q正传 (Ā Q zhèngzhuàn)
-- **Tytuł polski**: "Prawdziwa historia Ah-Q" 
-- **Autor**: Lu Xun (Zhou Shuren, 1881-1936)
-- **Rok powstania**: 1921
-- **Gatunek**: nowela, satyra społeczna
+## Basic Information About the Work
+- **Original Title**: 阿Q正传 (Ā Q zhèngzhuàn)
+- **Polish Title**: "Prawdziwa historia Ah-Q"
+- **Author**: Lu Xun (Zhou Shuren, 1881-1936)
+- **Year of Creation**: 1921
+- **Genre**: novella, social satire
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Wczesne tłumaczenia w PRL (lata 50.)
-1. **Pierwsze polskie wydania (1951)**
-   - "Nasza wieś" - tłumacz. M. Witwińska, Nasza Księgarnia, Warszawa
-   - "Opowiadania" - tłumacz. Olgierd Wojtasiewicz i Wanda Kindler, Czytelnik, Warszawa 1953
+### Early Translations in Communist Poland (1950s)
+1. **First Polish Editions (1951)**
+   - "Nasza wieś" - translator M. Witwińska, Nasza Księgarnia, Warsaw
+   - "Opowiadania" - translators Olgierd Wojtasiewicz and Wanda Kindler, Czytelnik, Warsaw 1953
 
-2. **Kontekst polityczny lat 50.**
-   - Wydania w ramach propagandy kulturalnej PRL
-   - Współpraca polsko-chińska na szczeblu państwowym
-   - Wizyty wysokich urzędników (Zhou Enlai w Polsce 1954, 1957)
-   - Bolesław Bierut i Edward Ochab w Chinach (1954, 1956)
+2. **Political Context of the 1950s**
+   - Publications within the framework of Communist Poland's cultural propaganda
+   - Polish-Chinese cooperation at the state level
+   - High-level official visits (Zhou Enlai to Poland 1954, 1957)
+   - Bolesław Bierut and Edward Ochab to China (1954, 1956)
 
-### Współczesne wydania
-3. **Akademickie Wydawnictwo Dialog**
-   - "Opowiadania" - tłumacz. Katarzyna Sarek (2015)
-   - "Prawdziwa historia A Q" - tłumacz. Katarzyna Sarek (2017)
-   - Wydanie dwujęzyczne chińsko-polskie
+### Contemporary Editions
+3. **Academic Publisher Dialog**
+   - "Opowiadania" - translator Katarzyna Sarek (2015)
+   - "Prawdziwa historia A Q" - translator Katarzyna Sarek (2017)
+   - Chinese-Polish bilingual edition
 
-4. **Inne współczesne wydania**
-   - Wydawnictwo PWN (wersja elektroniczna)
-   - TaniaKsiazka.pl, Empik (dystrybucja)
+4. **Other Contemporary Publications**
+   - PWN Publishing House (electronic version)
+   - TaniaKsiazka.pl, Empik (distribution)
 
-## Polscy tłumacze i sinolodzy
+## Polish Translators and Sinologists
 
-### Katarzyna Sarek - główna współczesna tłumaczka
-- **Wykształcenie**: absolwentka Zakładu Sinologii UW i Instytutu Archeologii UW
-- **Doktorat**: "Symbolika nefrytu w języku i kulturze chińskiej" (2014)
-- **Afiliacja**: dr w Instytucie Orientalistyki Uniwersytetu Jagiellońskiego (Kraków)
-- **Specjalizacja**: współczesna literatura chińska, translatologia, komparatystyka
-- **Członkostwo**: Stowarzyszenie Tłumaczy Literatury
-- **Popularyzacja**: felietonistka Kultury Liberalnej (2011-2021)
+### Katarzyna Sarek - Main Contemporary Translator
+- **Education**: graduate of Sinology Department at University of Warsaw and Institute of Archaeology at University of Warsaw
+- **PhD**: "Symbolism of jade in Chinese language and culture" (2014)
+- **Affiliation**: Dr at Institute of Oriental Studies, Jagiellonian University (Krakow)
+- **Specialization**: contemporary Chinese literature, translation studies, comparative literature
+- **Membership**: Association of Literary Translators
+- **Popularization**: columnist for Kultura Liberalna (2011-2021)
 
-### Inne tłumacze historyczni
-- **M. Witwińska** - pierwsza tłumaczka (1951)
-- **Olgierd Wojtasiewicz** - współtłumacz (1953)
-- **Wanda Kindler** - współtłumaczka (1953)
+### Other Historical Translators
+- **M. Witwińska** - first translator (1951)
+- **Olgierd Wojtasiewicz** - co-translator (1953)
+- **Wanda Kindler** - co-translator (1953)
 
-## Kontekst edukacyjny
+## Educational Context
 
-### Szkolnictwo wyższe
-1. **Uniwersytet Mikołaja Kopernika**
-   - Kurs "Współczesna literatura chińska" 
-   - Lu Xun jako główny punkt programu studiów sinologicznych
+### Higher Education
+1. **Nicolaus Copernicus University**
+   - Course "Contemporary Chinese Literature"
+   - Lu Xun as main focus of sinological studies program
 
-2. **Uniwersytet Jagielloński (Kraków)**
-   - Aktywny ośrodek badań sinologicznych
-   - Dr Katarzyna Sarek jako ekspert od Lu Xuna
+2. **Jagiellonian University (Krakow)**
+   - Active center for sinological research
+   - Dr Katarzyna Sarek as Lu Xun expert
 
-3. **Uniwersytet Warszawski**
-   - Zakład Sinologii - historyczne centrum badań
+3. **University of Warsaw**
+   - Sinology Department - historical research center
 
-### Szkolnictwo podstawowe i średnie
-- Brak obecności w podstawowych programach nauczania
-- Dzieła Lu Xuna głównie na poziomie uniwersyteckim
-- Brak w lekturach szkolnych (w przeciwieństwie do klasyki europejskiej)
+### Primary and Secondary Education
+- Absence from basic educational curricula
+- Lu Xun's works mainly at university level
+- Not included in school reading lists (unlike European classics)
 
-## Adaptacje kulturowe
+## Cultural Adaptations
 
-### Teatr i film
-- **Brak polskich adaptacji teatralnych** "Prawdziwej historii Ah-Q"
-- **Brak polskich adaptacji filmowych**
-- Dzieło pozostaje głównie w obiegu literackim i akademickim
+### Theater and Film
+- **No Polish theatrical adaptations** of "The Real Story of Ah-Q"
+- **No Polish film adaptations**
+- Work remains primarily in literary and academic circulation
 
-### Media i popularyzacja
-- **Kultura Liberalna** - felietony Katarzyny Sarek o kulturze chińskiej
-- **Wydawnictwa akademickie** - Dialog, PWN jako główni wydawcy
-- **Brak w kulturze popularnej** - nie dotarło do szerokiej publiczności
+### Media and Popularization
+- **Kultura Liberalna** - Katarzyna Sarek's columns on Chinese culture
+- **Academic publishers** - Dialog, PWN as main publishers
+- **Absence from popular culture** - has not reached broad audiences
 
-## Specyfika polska w interpretacji
+## Polish Specificity in Interpretation
 
-### Problemy tłumaczeniowe
-1. **Kulturowe nawiązania chińskie**
-   - Trudność w przenoszeniu realiów chińskich na grunt polski
-   - Problem z tłumaczeniem ironii i satyry społecznej
+### Translation Problems
+1. **Chinese Cultural References**
+   - Difficulty transferring Chinese realities to Polish context
+   - Problem translating irony and social satire
 
-2. **Kontekst historyczny**
-   - Rewolucja Xinhai (1911) - mało znana polskim czytelnikom
-   - Społeczna krytyka systemu mandaryńskiego
+2. **Historical Context**
+   - Xinhai Revolution (1911) - little known to Polish readers
+   - Social criticism of the mandarin system
 
-### Paralele polsko-chińskie
-1. **Doświadczenia kolonialne**
-   - Polska pod zaborami vs Chiny pod wpływami zachodnimi
-   - Krytyka mentalności narodowej (Ah-Q vs polskie kompleksy)
+### Polish-Chinese Parallels
+1. **Colonial Experiences**
+   - Poland under partitions vs China under Western influence
+   - Criticism of national mentality (Ah-Q vs Polish complexes)
 
-2. **Literatura krytyki społecznej**
-   - Tradycja polskiej satyry (Fredro, Kraszewski)
-   - Krytyka mieszczaństwa i drobnomieszczańskości
+2. **Literature of Social Criticism**
+   - Polish satirical tradition (Fredro, Kraszewski)
+   - Criticism of bourgeoisie and petty bourgeoisie
 
-## Recepcja w regionie krakowskim
+## Reception in the Krakow Region
 
-### Uniwersytet Jagielloński
-- **Dr Katarzyna Sarek** jako lokalna ekspertka
-- Aktywny ośrodek badań nad literaturą chińską
-- Związek z tłumaczeniem i interpretacją dzieł Lu Xuna
+### Jagiellonian University
+- **Dr Katarzyna Sarek** as local expert
+- Active center for Chinese literature research
+- Connection to translation and interpretation of Lu Xun's works
 
-### Wydarzenia kulturalne
-- **Brak dedykowanych wydarzeń** poświęconych Lu Xunowi
-- **Karnet Kraków** - brak stałych wydarzeń sinologicznych
-- **Kalendarz kulturalny** - sporadyczne wydarzenia o tematyce chińskiej
+### Cultural Events
+- **No dedicated events** devoted to Lu Xun
+- **Krakow Cultural Calendar** - lack of regular sinological events
+- **Cultural calendar** - sporadic Chinese-themed events
 
-## Znaczenie w polskiej sinologii
+## Significance in Polish Sinology
 
-### Pozycja Lu Xuna
-1. **Ojciec współczesnej literatury chińskiej**
-   - Uznawany za najważniejszego pisarza chińskiego XX wieku
-   - Symbol modernizacji literatury chińskiej
+### Lu Xun's Position
+1. **Father of Modern Chinese Literature**
+   - Recognized as the most important Chinese writer of the 20th century
+   - Symbol of Chinese literary modernization
 
-2. **Reformator językowy**
-   - Propagator języka potocznego (báihuà)
-   - Odejście od języka klasycznego
+2. **Language Reformer**
+   - Promoter of vernacular language (báihuà)
+   - Departure from classical language
 
-3. **Krytyk społeczny**
-   - Analiza mentalności narodowej
-   - Krytyka feudalizmu i zacofania
+3. **Social Critic**
+   - Analysis of national mentality
+   - Criticism of feudalism and backwardness
 
-### Wpływ na polską sinologię
-- **Akademickie badania** - podstawowy autor w programach sinologicznych
-- **Tłumaczenia** - wzorzec dla tłumaczy literatury chińskiej
-- **Metodologia** - przykład analizy krytyki społecznej w literaturze wschodu
+### Influence on Polish Sinology
+- **Academic research** - fundamental author in sinological programs
+- **Translations** - model for Chinese literature translators
+- **Methodology** - example of analyzing social criticism in Eastern literature
 
-## Bariery kulturowe
+## Cultural Barriers
 
-### Przeszkody w popularyzacji
-1. **Egzotyczność realiów**
-   - Odległość kulturowa dla przeciętnego czytelnika
-   - Skomplikowany kontekst historyczny
+### Obstacles to Popularization
+1. **Exotic Realities**
+   - Cultural distance for average readers
+   - Complicated historical context
 
-2. **Brak adaptacji**
-   - Nie ma polskich wersji teatralnych czy filmowych
-   - Dzieło pozostaje w obiegu akademickim
+2. **Lack of Adaptations**
+   - No Polish theatrical or film versions
+   - Work remains in academic circulation
 
-3. **Konkurencja z literaturą zachodnią**
-   - Polscy czytelnicy preferują literaturę europejską
-   - Ograniczona znajomość kultury chińskiej
+3. **Competition with Western Literature**
+   - Polish readers prefer European literature
+   - Limited knowledge of Chinese culture
 
-### Możliwości rozwoju
-1. **Rosnące zainteresowanie Chinami**
-   - Wzrost znaczenia gospodarczego Chin
-   - Rozwój studiów sinologicznych
+### Development Possibilities
+1. **Growing Interest in China**
+   - Rise in China's economic importance
+   - Development of sinological studies
 
-2. **Młode pokolenie**
-   - Otwartość na kultury obce
-   - Zainteresowanie azjatycką kulturą popularną
+2. **Young Generation**
+   - Openness to foreign cultures
+   - Interest in Asian popular culture
 
-## Podsumowanie lokalnego kontekstu
+## Summary of Local Context
 
-"Prawdziwa historia Ah-Q" w Polsce funkcjonuje głównie w środowisku akademickim i sinologicznym. Dzieło nie przeniknęło do szerokiej kultury popularnej, nie doczekało się adaptacji teatralnych czy filmowych. Główną propagatorką twórczości Lu Xuna jest obecnie dr Katarzyna Sarek z Uniwersytetu Jagiellońskiego w Krakowie, która dokonała najnowszych tłumaczeń i popularyzuje literaturę chińską.
+"The Real Story of Ah-Q" in Poland functions mainly in academic and sinological environments. The work has not penetrated broad popular culture, has not seen theatrical or film adaptations. The main promoter of Lu Xun's work is currently Dr Katarzyna Sarek from Jagiellonian University in Krakow, who has made the latest translations and popularizes Chinese literature.
 
-Specyfika polska polega na odczytywaniu dzieła przez pryzmat doświadczeń historycznych - zarówno okresu zaborów, jak i PRL-u, gdy pierwsze tłumaczenia powstały w kontekście propagandy kulturalnej. Współczesna recepcja jest bardziej akademicka i analityczna, choć dzieło pozostaje niszowe i nieznane szerszej publiczności polskiej.
+Polish specificity lies in reading the work through the lens of historical experiences - both the partition period and Communist Poland, when the first translations emerged in the context of cultural propaganda. Contemporary reception is more academic and analytical, though the work remains niche and unknown to broader Polish audiences.
 
-Kraków, jako ważny ośrodek sinologiczny z Uniwersytetem Jagiellońskim, stanowi główne centrum polskich badań nad Lu Xunem, ale brakuje wydarzeń kulturalnych czy popularyzatorskich, które przybliżyłyby tę twórczość szerszemu gronu odbiorców.
+Krakow, as an important sinological center with Jagiellonian University, constitutes the main center of Polish research on Lu Xun, but lacks cultural events or popularization efforts that would bring this work closer to broader audiences.

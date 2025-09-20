@@ -1,0 +1,15 @@
+media_info:
+  title: Hat Man Shadow Figure Phenomenon - Modern Era
+  author: Paranormal Documentation
+  year: 2000
+  genre: Paranormal Phenomena Documentary
+  description: Contemporary reports of a shadowy figure wearing a hat appearing in
+    people's bedrooms at night, witnessed globally by thousands
+  target_audience: General public, students, paranormal enthusiasts, sleep phenomena researchers
+  duration: ~3 minutes
+  objective: Explore the modern shadow person phenomenon that has spread across
+    cultures and examine psychological and paranormal explanations
+  scene_count: 10
+  graphics_style: film-noir-1950s-melodrama
+  scene_generator: narrative
+  nb_audio_format: brief

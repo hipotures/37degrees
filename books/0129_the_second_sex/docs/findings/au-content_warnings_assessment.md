@@ -1,271 +1,272 @@
-# Ocena Zgodności z Zasadami Platform: "Druga płeć" Simone de Beauvoir
+# Platform Compliance Assessment: "The Second Sex" by Simone de Beauvoir
 
-## Informacje podstawowe
-- **Tytuł**: "The Second Sex" / "Druga płeć"
-- **Autor**: Simone de Beauvoir
-- **Rok publikacji**: 1949
-- **Gatunek**: Filozofia feministyczna, Non-fiction
-- **Data oceny**: 3 września 2025
+## Basic Information
+- **Title**: "The Second Sex" / "Druga płeć"
+- **Author**: Simone de Beauvoir
+- **Publication Year**: 1949
+- **Genre**: Feminist philosophy, Non-fiction
+- **Assessment Date**: September 19, 2025
 
-## Executive Summary - Ocena Ryzyka
+## Executive Summary - Risk Assessment
 
-| Platforma | Poziom Ryzyka | Główne Zagrożenia | Rekomendacja |
-|-----------|---------------|-------------------|--------------|
-| **Facebook/Meta** | 🔴 **WYSOKIE** | Kontrowersyjne tematy płci, skandale seksualne | AGE-RESTRICT 18+ |
-| **Instagram** | 🔴 **WYSOKIE** | Jak Facebook + ToS o AI training | AGE-RESTRICT 18+ |
-| **YouTube** | 🟡 **ŚREDNIE** | Wymaga ludzkiej narracji | OK z modyfikacjami |
-| **TikTok** | 🟡 **ŚREDNIE** | Wymaga content 1+ min, original | OK z modyfikacjami |
-| **Spotify** | 🟢 **NISKIE** | Najbardziej przyjazna platforma | OK |
-| **Kick** | 🟢 **NISKIE** | Najprzyjazniejsza dla edukacji | OK |
+| Platform | Risk Level | Main Threats | Recommendation |
+|----------|------------|--------------|----------------|
+| **Facebook/Meta** | 🔴 **HIGH** | Gender controversies, sexual scandals | AGE-RESTRICT 18+ |
+| **Instagram** | 🔴 **HIGH** | Same as Facebook + AI training ToS | AGE-RESTRICT 18+ |
+| **YouTube** | 🟡 **MEDIUM** | Requires human narration | OK with modifications |
+| **TikTok** | 🟡 **MEDIUM** | Requires 1+ min original content | OK with modifications |
+| **Spotify** | 🟢 **LOW** | Most platform-friendly | OK |
+| **Kick** | 🟢 **LOW** | Most educational-friendly | OK |
 
-## Analiza Problematycznych Treści
+## Analysis of Problematic Content
 
-### 1. 🚨 TREŚCI WYSOKIEGO RYZYKA
+### 1. 🚨 HIGH RISK CONTENT
 
-#### A) Seksualne Skandale (au-research_dark_drama.md)
-**Problematyczne elementy:**
-- Szczegółowe opisy seksualnych kontaktów de Beauvoir z małoletnimi uczennicami
-- Zarzuty o "stręczycielstwo" dla Sartre'a
-- Wulgarny język w listach do Sartre'a o młodych kobiętach
-- Petycja o legalizację pedofilii (1977)
+#### A) Sexual Scandals (au-research_dark_drama.md)
+**Problematic elements:**
+- Detailed descriptions of de Beauvoir's sexual contacts with underage students
+- "Procuring" accusations for Sartre
+- Vulgar language in letters to Sartre about young women
+- Petition for pedophilia legalization (1977)
 
-**Impact na platformy:**
-- **Facebook/Instagram**: WYSOKIE RYZYKO - nowe liberalne zasady hate speech mogą być nieprzewidywalne
-- **YouTube**: ŚREDNIE RYZYKO - wymaga educational framing
-- **TikTok**: WYSOKIE RYZYKO - strict moderation
-- **Spotify**: NISKIE RYZYKO - educational context accepted
-- **Kick**: NISKIE RYZYKO - context-based moderation
+**Platform impact:**
+- **Facebook/Instagram**: HIGH RISK - new liberal hate speech rules may be unpredictable
+- **YouTube**: MEDIUM RISK - requires educational framing
+- **TikTok**: HIGH RISK - strict moderation
+- **Spotify**: LOW RISK - educational context accepted
+- **Kick**: LOW RISK - context-based moderation
 
-#### B) Kontrowersyjne Poglądy na Płeć (wszystkie źródła)
-**Problematyczne elementy:**
-- Krytyka "naturalnej kobiecości" może być interpretowana jako hate speech
-- Dyskusja o tożsamości płciowej (aktualne w kontekście Meta policies 2025)
-- Radykalne poglądy na macierzyństwo
+#### B) Controversial Gender Views (all sources)
+**Problematic elements:**
+- Criticism of "natural femininity" may be interpreted as hate speech
+- Gender identity discussions (relevant in Meta policies 2025 context)
+- Radical views on motherhood
 
 **Meta Risk Analysis:**
-- **KRYTYCZNE**: Nowe zasady Meta pozwalają na określanie osób trans jako "it"
-- **PARADOKS**: De Beauvoir krytykuje patriarchat, ale może zostać uznana za hate speech pod nowymi zasadami
+- **CRITICAL**: New Meta rules allow calling trans people "it"
+- **PARADOX**: De Beauvoir criticizes patriarchy but may be flagged for hate speech under new rules
 
-#### C) Religijne Kontrowersje
-**Problematyczne elementy:**
-- Krytyka katolickiego postrzegania kobiet
-- Analiza biblijnych symbolizmów (Ewa jako "nadliczbowa kość")
-- Zakaz Watykanu (1956-1966)
+#### C) Religious Controversies
+**Problematic elements:**
+- Criticism of Catholic perception of women
+- Analysis of Biblical symbolisms (Eve as "supernumerary bone")
+- Vatican ban (1956-1966)
 
-### 2. 🟡 TREŚCI ŚREDNIEGO RYZYKA
+### 2. 🟡 MEDIUM RISK CONTENT
 
-#### A) Filozoficzne Dyskusje o Płci
-**Elementy wymagające ostrożności:**
-- "Kobietą się nie rodzi, staje się nią" - może być kontrowersyjne w niektórych kontekstach
-- Krytyka ról tradycyjnych
-- Analiza patriarchalnych struktur
+#### A) Philosophical Gender Discussions
+**Elements requiring caution:**
+- "One is not born, but rather becomes, a woman" - may be controversial in some contexts
+- Criticism of traditional roles
+- Analysis of patriarchal structures
 
-#### B) Historyczne Konteksty
-**Potencjalne problemy:**
-- Dyskusje o równości płci w kontekście historycznym
-- Analiza opresji kobiet przez wieki
-- Porównania międzykulturowe
+#### B) Historical Contexts
+**Potential problems:**
+- Gender equality discussions in historical context
+- Analysis of women's oppression through centuries
+- Cross-cultural comparisons
 
-### 3. ✅ TREŚCI NISKIEGO RYZYKA
+### 3. ✅ LOW RISK CONTENT
 
-#### A) Edukacyjne Aspekty
-**Bezpieczne elementy:**
-- Analiza literacka i filozoficzna
-- Historia feminizmu
-- Wpływ na kulturę i literaturę
-- Innowacje pisarskie
+#### A) Educational Aspects
+**Safe elements:**
+- Literary and philosophical analysis
+- History of feminism
+- Impact on culture and literature
+- Writing innovations
 
-## Matrix Zgodności z Platformami
+## Platform Compliance Matrix
 
-### Facebook/Meta (🔴 WYSOKIE RYZYKO)
+### Facebook/Meta (🔴 HIGH RISK)
 
-**Główne zagrożenia:**
-- **Hateful Conduct Policy 2025**: Nowe liberalne definicje mogą być nieprzewidywalne
-- **Community Notes System**: Brak kontroli nad fact-checkingiem
-- **Gender Identity**: Dyskusje o płci kulturowej mogą być problematyczne
+**Main threats:**
+- **Hateful Conduct Policy 2025**: New liberal definitions may be unpredictable
+- **Community Notes System**: No control over fact-checking
+- **Gender Identity**: Cultural gender discussions may be problematic
 
-**Rekomendacje:**
-- **AGE-RESTRICT**: Tylko content 18+
-- **EDUCATIONAL FRAMING**: Wyraźne oznaczenie jako treść edukacyjna
-- **AVOID CONTROVERSIES**: Pominąć skandale seksualne de Beauvoir
-- **FOCUS ON LITERATURE**: Skupić się na aspektach literackich
+**Recommendations:**
+- **AGE-RESTRICT**: Only 18+ content
+- **EDUCATIONAL FRAMING**: Clear marking as educational content
+- **AVOID CONTROVERSIES**: Omit de Beauvoir's sexual scandals
+- **FOCUS ON LITERATURE**: Concentrate on literary aspects
 
-### Instagram (🔴 WYSOKIE RYZYKO)
+### Instagram (🔴 HIGH RISK)
 
-**Dodatkowe ryzyka vs Facebook:**
-- **Content Licensing**: Nowe ToS mogą wpływać na monetyzację
-- **AI Training**: Treści mogą być używane do trenowania AI models
+**Additional risks vs Facebook:**
+- **Content Licensing**: New ToS may affect monetization
+- **AI Training**: Content may be used for AI model training
 
-**Rekomendacje:**
-- **Identyczne jak Facebook**
-- **VISUAL STRATEGY**: Używać cytatów literackich, nie kontrowersji
-- **BOOK AESTHETIC**: Skupić się na aspektach kulturowych
+**Recommendations:**
+- **Same as Facebook**
+- **VISUAL STRATEGY**: Use literary quotes, not controversies
+- **BOOK AESTHETIC**: Focus on cultural aspects
 
-### YouTube (🟡 ŚREDNIE RYZYKO)
+### YouTube (🟡 MEDIUM RISK)
 
-**Wymagania specjalne:**
-- **Human Narration**: Obowiązkowa ludzka narracja (nie text-to-speech)
-- **Original Commentary**: Dodawanie własnych komentarzy do cytatów
-- **Educational Context**: Wyraźne educational framing
+**Special requirements:**
+- **Human Narration**: Mandatory human narration (not text-to-speech)
+- **Original Commentary**: Adding own comments to quotes
+- **Educational Context**: Clear educational framing
 
-**Rekomendacje:**
-- **OK z modyfikacjami**: Można publikować z odpowiednim podejściem
-- **STORYTELLING**: Używać storytelling approach zamiast suchych faktów
-- **AVOID AI**: Nie używać AI-generated voice czy content
-- **1+ MINUTE**: Videos powyżej minuty dla lepszej monetizacji
+**Recommendations:**
+- **OK with modifications**: Can publish with appropriate approach
+- **STORYTELLING**: Use storytelling approach instead of dry facts
+- **AVOID AI**: Don't use AI-generated voice or content
+- **1+ MINUTE**: Videos over one minute for better monetization
 
-### TikTok (🟡 ŚREDNIE RYZYKO)
+### TikTok (🟡 MEDIUM RISK)
 
-**Specjalne wymagania:**
-- **1+ Minute Original**: Tylko oryginalne video ponad 1 minutę mogą się monetyzować
-- **No Duets/Stitches**: Wykluczone z Creator Rewards Program
-- **Original Commentary**: Wymagany własny komentarz
+**Special requirements:**
+- **1+ Minute Original**: Only original videos over 1 minute can monetize
+- **No Duets/Stitches**: Excluded from Creator Rewards Program
+- **Original Commentary**: Required own commentary
 
-**Rekomendacje:**
-- **LONG-FORM EDUCATIONAL**: Skupić się na edukacyjnym long-form content
-- **PERSONAL STORYTELLING**: Osobiste podejście do omawiania książki
-- **AVOID THIRD-PARTY**: Nie używać fragmentów z innych źródeł
+**Recommendations:**
+- **LONG-FORM EDUCATIONAL**: Focus on educational long-form content
+- **PERSONAL STORYTELLING**: Personal approach to discussing the book
+- **AVOID THIRD-PARTY**: Don't use fragments from other sources
 
-### Spotify (🟢 NISKIE RYZYKO)
+### Spotify (🟢 LOW RISK)
 
-**Przyjazne środowisko:**
-- **Educational Content**: Szeroka akceptacja dla treści edukacyjnych
-- **Copyright Awareness**: Dobry system alertów
-- **Video Priority**: Bonus za video content
+**Friendly environment:**
+- **Educational Content**: Wide acceptance for educational content
+- **Copyright Awareness**: Good alert system
+- **Video Priority**: Bonus for video content
 
-**Rekomendacje:**
-- **OPTIMAL PLATFORM**: Najlepszy wybór dla książkowego content
-- **VIDEO FORMAT**: Używać video podcasts dla wyższych zarobków
-- **ORIGINAL COMMENTARY**: Własne analizy, nie długie cytaty
-- **EDUCATIONAL SERIES**: Episodyczne podejście do omawiania dzieła
+**Recommendations:**
+- **OPTIMAL PLATFORM**: Best choice for book content
+- **VIDEO FORMAT**: Use video podcasts for higher earnings
+- **ORIGINAL COMMENTARY**: Own analyses, not long quotes
+- **EDUCATIONAL SERIES**: Episodic approach to discussing the work
 
-### Kick (🟢 NISKIE RYZYKO)
+### Kick (🟢 LOW RISK)
 
-**Najkorzystniejsza platforma:**
+**Most favorable platform:**
 - **Creator-Friendly**: 95/5 revenue split
-- **Context-Based Moderation**: Fair approach do kontrowersyjnych tematów
-- **Educational Support**: Wspiera edukacyjny content
+- **Context-Based Moderation**: Fair approach to controversial topics
+- **Educational Support**: Supports educational content
 
-**Rekomendacje:**
-- **IDEAL PLATFORM**: Najlepszy wybór dla kontrowersyjnych tematów
-- **INTERACTIVE DISCUSSIONS**: Live book discussions z community
-- **EDUCATIONAL FRAMING**: Oznaczać jako educational content
-- **COMMUNITY BUILDING**: Skupić się na budowaniu community wokół literatury
+**Recommendations:**
+- **IDEAL PLATFORM**: Best choice for controversial topics
+- **INTERACTIVE DISCUSSIONS**: Live book discussions with community
+- **EDUCATIONAL FRAMING**: Mark as educational content
+- **COMMUNITY BUILDING**: Focus on building literature community
 
-## Klasyfikacja Wiekowa
+## Age Classification
 
-### 13+ Content (Bezpieczne)
-- Historia feminizmu jako ruchu społecznego
-- Wpływ na literaturę i kulturę
-- Innowacje pisarskie de Beauvoir
-- Cytaty filozoficzne (wybrane)
+### 13+ Content (Safe)
+- History of feminism as social movement
+- Impact on literature and culture
+- De Beauvoir's writing innovations
+- Philosophical quotes (selected)
 
-### 16+ Content (Wymaga Oznaczenia)
-- Dyskusje o tożsamości płciowej
-- Krytyka tradycyjnych ról społecznych
-- Filozoficzne aspekty egzystencjalizmu
-- Analiza patriarchalnych struktur
+### 16+ Content (Requires Marking)
+- Gender identity discussions
+- Criticism of traditional social roles
+- Philosophical aspects of existentialism
+- Analysis of patriarchal structures
 
-### 18+ Content (Tylko Dorośli)
-- Szczegóły skandali seksualnych
-- Kontrowersyjne petycje polityczne
-- Wulgarne fragmenty korespondencji
-- Szczegółowa analiza seksualności
+### 18+ Content (Adults Only)
+- Details of sexual scandals
+- Controversial political petitions
+- Vulgar correspondence fragments
+- Detailed sexuality analysis
 
-## Content Warnings dla Słuchaczy
+## Content Warnings for Listeners
 
-### ⚠️ Obowiązkowe Ostrzeżenia
+### ⚠️ Mandatory Warnings
 
-**Na początku każdego materiału:**
+**At the beginning of each material:**
 ```
-CONTENT WARNING: 
-Ten materiał zawiera dyskusje o tematach dla dorosłych, 
-w tym o tożsamości płciowej, seksualności i kontrowersyjnych 
-aspektach życia Simone de Beauvoir. Materiał ma charakter 
-edukacyjny i historyczny. Zalecane dla odbiorców 16+/18+.
+CONTENT WARNING:
+This material contains discussions of adult topics,
+including gender identity, sexuality, and controversial
+aspects of Simone de Beauvoir's life. The material is
+educational and historical in nature. Recommended for
+audiences 16+/18+.
 ```
 
-**Specyficzne ostrzeżenia:**
-- **Skandale seksualne**: "Materiał zawiera odniesienia do kontrowersyjnych aspektów życia osobistego autorki"
-- **Dyskusje o płci**: "Omawiamy historyczne i filozoficzne perspektywy na tożsamość płciową"
-- **Krytyka religijna**: "Zawiera analizę krytyczną wobec tradycyjnych poglądów religijnych"
+**Specific warnings:**
+- **Sexual scandals**: "Material contains references to controversial aspects of the author's personal life"
+- **Gender discussions**: "We discuss historical and philosophical perspectives on gender identity"
+- **Religious criticism**: "Contains critical analysis of traditional religious views"
 
-## Education-Friendly Podejścia
+## Education-Friendly Approaches
 
-### 1. Kontekstualizacja Historyczna
-- Zawsze podkreślać rok publikacji (1949)
-- Umieszczać w kontekście swojej epoki
-- Wyjaśniać ewolucję poglądów feministycznych
+### 1. Historical Contextualization
+- Always emphasize publication year (1949)
+- Place in context of its era
+- Explain evolution of feminist thought
 
 ### 2. Academic Framing
-- Używać terminologii akademickiej
-- Powoływać się na badania i źródła
-- Mantainować objectywny ton
+- Use academic terminology
+- Reference research and sources
+- Maintain objective tone
 
 ### 3. Multiple Perspectives
-- Przedstawiać różne interpretacje dzieła
-- Pokazywać krytykę i obrony
-- Nie narzucać jedynej "słusznej" interpretacji
+- Present different interpretations of the work
+- Show criticism and defense
+- Don't impose single "correct" interpretation
 
 ### 4. Focus on Literature
-- Skupiać się na aspektach literackich i filozoficznych
-- Minimalizować skandale biograficzne
-- Podkreślać wpływ na kulturę i literaturę
+- Concentrate on literary and philosophical aspects
+- Minimize biographical scandals
+- Emphasize cultural and literary impact
 
-## Rekomendacje Platformowe
+## Platform Recommendations
 
-### Strategia Multi-Platform
+### Multi-Platform Strategy
 
-**Tier 1 (Bezpieczne) - Spotify, Kick:**
-- Pełny zakres tematów z appropriate warnings
-- Educational series o różnych aspektach dzieła
-- Interactive discussions z community
+**Tier 1 (Safe) - Spotify, Kick:**
+- Full range of topics with appropriate warnings
+- Educational series on different aspects of work
+- Interactive discussions with community
 
-**Tier 2 (Ostrożne) - YouTube, TikTok:**
-- Skupienie na literackich i kulturowych aspektach
-- Unikanie skandali biograficznych
+**Tier 2 (Cautious) - YouTube, TikTok:**
+- Focus on literary and cultural aspects
+- Avoid biographical scandals
 - Strong educational framing
 
-**Tier 3 (Wysokie Ryzyko) - Meta Platforms:**
-- Tylko podstawowe informacje o dziele
+**Tier 3 (High Risk) - Meta Platforms:**
+- Only basic information about work
 - Age-restricted content
-- Focus na pozytywne aspekty wpływu kulturowego
+- Focus on positive aspects of cultural impact
 
 ### Content Calendar Strategy
 
-**Tydzień 1**: Historia powstania książki (SAFE)
-**Tydzień 2**: Główne tezy filozoficzne (16+)
-**Tydzień 3**: Wpływ na feminizm (16+)
-**Tydzień 4**: Kontrowersje i krytyki (18+)
+**Week 1**: History of book creation (SAFE)
+**Week 2**: Main philosophical theses (16+)
+**Week 3**: Impact on feminism (16+)
+**Week 4**: Controversies and criticisms (18+)
 
 ## Final Compliance Checklist
 
 ### ✅ Universal Requirements
-- [ ] Educational framing dla wszystkich tematów
-- [ ] Age-appropriate warnings gdzie potrzebne
-- [ ] Original commentary dominuje nad cytatami
-- [ ] Proper attribution dla wszystkich źródeł
-- [ ] Context historyczny zawsze podany
+- [ ] Educational framing for all topics
+- [ ] Age-appropriate warnings where needed
+- [ ] Original commentary dominates over quotes
+- [ ] Proper attribution for all sources
+- [ ] Historical context always provided
 
 ### ✅ Platform-Specific
-- [ ] **Meta**: Extreme caution z gender topics
+- [ ] **Meta**: Extreme caution with gender topics
 - [ ] **YouTube**: Human narration, no AI voices
 - [ ] **TikTok**: 1+ minute original content only
 - [ ] **Spotify**: Video format preferred
 - [ ] **Kick**: Interactive community building
 
 ### ✅ Risk Mitigation
-- [ ] Multiple versions content dla różnych platform
-- [ ] Progressive disclosure (od safe do controversial)
+- [ ] Multiple content versions for different platforms
+- [ ] Progressive disclosure (from safe to controversial)
 - [ ] Clear educational value statement
 - [ ] Age verification systems where possible
 - [ ] Regular monitoring of platform policy changes
 
-## Podsumowanie Wykonalne
+## Executive Summary
 
-**"Druga płeć" to skomplikowane dzieło wymagające different strategies dla każdej platformy. Główne zagrożenia dotyczą skandali biograficznych autorki oraz kontrowersyjnych dyskusji o płci w kontekście nowych zasad Meta 2025. Spotify i Kick oferują najbezpieczniejsze środowisko dla comprehensive coverage, podczas gdy Meta platforms wymagają extreme caution i age-restrictions.**
+**"The Second Sex" is a complex work requiring different strategies for each platform. Main threats concern the author's biographical scandals and controversial gender discussions in the context of new Meta 2025 rules. Spotify and Kick offer the safest environment for comprehensive coverage, while Meta platforms require extreme caution and age-restrictions.**
 
-**Kluczem do sukcesu jest strong educational framing, appropriate age targeting, i willingness to modify content dla każdej platformy według jej specific requirements i risk tolerance.**
+**The key to success is strong educational framing, appropriate age targeting, and willingness to modify content for each platform according to its specific requirements and risk tolerance.**
 
 ---
-*Ocena przeprowadzona na podstawie aktualnych wytycznych platform społecznościowych na wrzesień 2025 oraz kompleksowej analizy materiałów researchu o "Drugiej płci" Simone de Beauvoir.*
+*Assessment conducted based on current social media platform guidelines for September 2025 and comprehensive analysis of research materials about "The Second Sex" by Simone de Beauvoir.*

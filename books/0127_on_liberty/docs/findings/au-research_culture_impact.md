@@ -1,173 +1,173 @@
-# Wpływ kulturowy "O wolności" Johna Stuarta Milla
+# Cultural Impact of John Stuart Mill's "On Liberty"
 
-Badanie wpływu kultury popularnej i społeczeństwa
+Research on Popular Culture and Social Influence
 
-## Wprowadzenie
+## Introduction
 
-"O wolności" (On Liberty) Johna Stuarta Milla z 1859 roku to jedno z najbardziej wpływowych dzieł filozofii politycznej w historii. Chociaż nigdy nie doczekało się hollywoodzkich adaptacji filmowych, jego wpływ na kulturę popularną, politykę i myśl społeczną jest ogromny i trwa do dziś.
+"On Liberty" by John Stuart Mill from 1859 is one of the most influential works of political philosophy in history. While it has never received major Hollywood film adaptations, its impact on popular culture, politics, and social thought is enormous and continues to this day.
 
-## 1. Adaptacje medialne i reprezentacje kulturowe
+## 1. Media Adaptations and Cultural Representations
 
-### 1.1 Filmy i telewizja
-- **"The First Black Britons" (BBC, 2005)** - Mill pojawił się jako postać historyczna w wykonaniu Tima Stanmore'a w tym dokumencie BBC o Czarnych Brytyjczykach
-- **"Dead Poets Society" (1989)** - Film Petera Weira zawiera uderzające filozoficzne paralele z "O wolności", szczególnie w zakresie indywidualności i nonkonformizmu. Postać Mr. Keatinga odzwierciedla millowskie idee o kultywowaniu indywidualności
-- **Brak wielkich hollywoodzkich adaptacji** - mimo fundamentalnego znaczenia książki, nigdy nie powstał wielki film bezpośrednio adaptujący dzieło Milla
+### 1.1 Film and Television
+- **"The First Black Britons" (BBC, 2005)** - Mill appeared as a historical character portrayed by Tim Stanmore in this BBC documentary about Black Britons
+- **"Dead Poets Society" (1989)** - Peter Weir's film contains striking philosophical parallels with "On Liberty," particularly regarding individuality and nonconformity. Mr. Keating's character reflects Millian ideas about cultivating individuality
+- **Lack of major Hollywood adaptations** - despite the book's fundamental significance, no major film directly adapting Mill's work has ever been produced
 
-### 1.2 Obecność w mediach cyfrowych
-- **TikTok**: @lu.beccassino stworzył film o utylitaryzmie Milla i rozróżnieniu na przyjemności wyższe i niższe
-- **YouTube**: Philosophy Tube (Abigail Thorn, 1,7M subskrybentów) i inne kanały filozoficzne omawiają idee Milla
-- **Netflix "The Social Dilemma"** - dokument analizowany przez pryzmat millowskiej zasady krzywdy w kontekście mediów społecznościowych
+### 1.2 Digital Media Presence
+- **TikTok**: @lu.beccassino created a video about Mill's utilitarianism and the distinction between higher and lower pleasures
+- **YouTube**: Philosophy Tube (Abigail Thorn, 1.7M subscribers) and other philosophy channels discuss Mill's ideas
+- **Netflix "The Social Dilemma"** - documentary analyzed through the lens of Mill's harm principle in the context of social media
 
-## 2. Wpływ na twórców i artystów
+## 2. Influence on Creators and Artists
 
-### 2.1 Literatura i filozofia
-- **Betty Friedan** - pionierka feminizmu drugiej fali, która była pod wpływem "Zniewolenia kobiet" Milla, co łączy się z ideami z "O wolności"
-- **Współczesni filozofowie** - Jason Stanley w "What Mill Got Wrong about Freedom of Speech" (Boston Review) krytykuje niektóre aspekty teorii Milla
+### 2.1 Literature and Philosophy
+- **Betty Friedan** - pioneer of second-wave feminism who was influenced by Mill's "The Subjection of Women," which connects to ideas from "On Liberty"
+- **Contemporary philosophers** - Jason Stanley in "What Mill Got Wrong about Freedom of Speech" (Boston Review) critiques certain aspects of Mill's theory
 
-### 2.2 Artyści konceptualni
-- **Ewa Partum (Polska, 1971)** - "Legalność przestrzeni" na Placu Wolności w Łodzi - instalacja znakowanych przestrzeni publicznych nawiązująca do idei wolności
+### 2.2 Conceptual Artists
+- **Ewa Partum (Poland, 1971)** - "Legality of Space" at Freedom Square in Łódź - installation of marked public spaces referencing ideas of liberty
 
-### 2.3 Wpływ na edukatorów
-- Nauczyciele filozofii na uniwersytetach używają "O wolności" jako podstawowego tekstu do dyskusji o wolności słowa
-- "Nauka Milla stała się ekscytująca po raz pierwszy w karierze zawodowej" - współcześni wykładowcy
+### 2.3 Influence on Educators
+- Philosophy teachers at universities use "On Liberty" as a fundamental text for discussions about free speech
+- "Mill's teaching became exciting for the first time in my professional career" - contemporary lecturers
 
-## 3. Fenomen społeczny i kulturowy
+## 3. Social and Cultural Phenomenon
 
-### 3.1 Fundamenty demokracji liberalnej
-- **Konstytucyjna podstawa**: Idee Milla stanowią filozoficzne uzasadnienie dla zarządzania w liberalnych demokracjach kapitalistycznych
-- **Pierwsza Poprawka (USA)**: Koncepcja "marketplace of ideas" bezpośrednio wywodzi się od Milla
-- **Nieustanny druk**: Książka pozostaje w druku od pierwszej publikacji w 1859 roku
+### 3.1 Foundations of Liberal Democracy
+- **Constitutional basis**: Mill's ideas provide philosophical justification for governance in liberal capitalist democracies
+- **First Amendment (USA)**: The concept of "marketplace of ideas" derives directly from Mill
+- **Continuous printing**: The book has remained in print since its first publication in 1859
 
-### 3.2 Ruch na rzecz praw kobiet
-- **Ruch sufrażystek**: Mill był pierwszym prezydentem National Society for Women's Suffrage
-- **Pierwsza petycja**: Złożył w 1866 roku pierwszą masową petycję o prawa wyborcze kobiet do Parlamentu
-- **Millicent Fawcett**: Liderka ruchu sufrażystek przypisywała rozwój ruchu "dożywotniemu wsparciu i przewodnictwu" Milla
+### 3.2 Women's Rights Movement
+- **Suffragette movement**: Mill was the first president of the National Society for Women's Suffrage
+- **First petition**: He submitted the first mass petition for women's voting rights to Parliament in 1866
+- **Millicent Fawcett**: Leader of the suffragette movement attributed the movement's development to Mill's "lifelong support and leadership"
 
-### 3.3 Ruchy na rzecz praw obywatelskich
-- **Ochrona mniejszości**: Millowska koncepcja "tyranii większości" stała się fundamentalna dla dyskursu o wolnościach obywatelskich
-- **Współczesne ruchy**: Liberałowie walczyli o równość płci, małżeńską i rasową, inspirując się ramami teoretycznymi Milla
+### 3.3 Civil Rights Movements
+- **Minority protection**: Mill's concept of "tyranny of the majority" became fundamental to civil liberties discourse
+- **Contemporary movements**: Liberals fighting for gender, marriage, and racial equality draw inspiration from Mill's theoretical frameworks
 
-## 4. Społeczności fanów i kultura fandom
+## 4. Fan Communities and Fandom Culture
 
-### 4.1 Społeczności akademickie
-- **Libertarianizm.org**: "Introduction to John Stuart Mill's On Liberty" - regularne analizy i dyskusje
-- **Students For Liberty**: "J.S. Mill and The Social Dilemma" - organizacja studencka analizująca relevantność Milla
+### 4.1 Academic Communities
+- **Libertarianism.org**: "Introduction to John Stuart Mill's On Liberty" - regular analyses and discussions
+- **Students For Liberty**: "J.S. Mill and The Social Dilemma" - student organization analyzing Mill's relevance
 
-### 4.2 Społeczności online
-- **Reddit filozoficzny**: Regularne dyskusje o "harm principle" i jej zastosowaniach
-- **Goodreads quotes**: Zbiory cytatów Milla z tysiącami obserwujących
-- **Course Hero**: Study guides i analizy dzieła dla studentów
+### 4.2 Online Communities
+- **Philosophical Reddit**: Regular discussions about the "harm principle" and its applications
+- **Goodreads quotes**: Collections of Mill quotes with thousands of followers
+- **Course Hero**: Study guides and analyses of the work for students
 
-### 4.3 Konferencje i wydarzenia
-- **Konferencje filozoficzne**: Regularne sympozja poświęcone myśli Milla
-- **Debaty kampusowe**: "O wolności" jako główny punkt odniesienia w sporach o free speech na uniwersytetach
+### 4.3 Conferences and Events
+- **Philosophy conferences**: Regular symposiums dedicated to Mill's thought
+- **Campus debates**: "On Liberty" as the main reference point in free speech disputes at universities
 
-## 5. Komercjalizacja i branded content
+## 5. Commercialization and Branded Content
 
-### 5.1 Wydania edukacyjne
-- **Penguin Classics**: Ciągłe wznowienia w różnych edycjach
-- **SparkNotes**: Popularne streszczenia i analizy dla studentów
-- **Project Gutenberg**: Darmowe wydania cyfrowe
+### 5.1 Educational Editions
+- **Penguin Classics**: Continuous reprints in various editions
+- **SparkNotes**: Popular summaries and analyses for students
+- **Project Gutenberg**: Free digital editions
 
-### 5.2 Gadżety i merchandise
-- **Cytaty na kubkach**: "The only purpose for which power can be rightfully exercised..."
-- **T-shirty filozoficzne**: Z portretem Milla i jego słynnymi cytatami
-- **Plakaty motivacyjne**: "Individuality is one of the elements of well-being"
+### 5.2 Gadgets and Merchandise
+- **Quote mugs**: "The only purpose for which power can be rightfully exercised..."
+- **Philosophy t-shirts**: With Mill's portrait and his famous quotes
+- **Motivational posters**: "Individuality is one of the elements of well-being"
 
-### 5.3 Kursy online
-- **Coursera**: "Introduction to Political Philosophy" z modułami o Millu
-- **Khan Academy**: Lekcje o liberalizmie klasycznym
-- **MasterClass potencjał**: Brak jeszcze kursu, ale potencjał na kurs o filozofii politycznej
+### 5.3 Online Courses
+- **Coursera**: "Introduction to Political Philosophy" with modules on Mill
+- **Khan Academy**: Lessons on classical liberalism
+- **MasterClass potential**: No course yet, but potential for a political philosophy course
 
-## 6. Miejsca związane z książką
+## 6. Places Related to the Book
 
-### 6.1 Brak fizycznych lokacji
-- **Bez muzeów**: Nie ma dedykowanych muzeów "O wolności"
-- **Bez parków tematycznych**: Koncepty filozoficzne nie przekładają się na atrakcje fizyczne
-- **Statua Liberty**: Pomimo nazwy, nie jest związana z dziełem Milla, a z francuskim darem dla USA
+### 6.1 Lack of Physical Locations
+- **No museums**: There are no dedicated museums for "On Liberty"
+- **No theme parks**: Philosophical concepts don't translate to physical attractions
+- **Statue of Liberty**: Despite the name, it's not related to Mill's work but is a French gift to the USA
 
-### 6.2 Lokacje edukacyjne
-- **Biblioteki uniwersyteckie**: Specjalne kolekcje poświęcone filozofii liberalnej
-- **Sale wykładowe**: Uniwersytety nazywają sale imieniem Milla
-- **Centra badawcze**: Liberty Fund i inne instytucje dedykowane liberalizmowi klasycznemu
+### 6.2 Educational Locations
+- **University libraries**: Special collections dedicated to liberal philosophy
+- **Lecture halls**: Universities naming halls after Mill
+- **Research centers**: Liberty Fund and other institutions dedicated to classical liberalism
 
-## 7. Cytaty i nawiązania w innych dziełach
+## 7. Quotes and References in Other Works
 
-### 7.1 Słynne cytaty w kulturze popularnej
-- **"Tyranny of the majority"** - używane w filmach, serialach i debacie politycznej
-- **"Harm principle"** - "The freedom of my fist ends at the tip of your nose" (potoczna wersja)
+### 7.1 Famous Quotes in Popular Culture
+- **"Tyranny of the majority"** - used in films, TV series, and political debate
+- **"Harm principle"** - "The freedom of my fist ends at the tip of your nose" (popular version)
 - **Ray Bradbury "Fahrenheit 451"** - "The terrible tyranny of the majority"
 
-### 7.2 Nawiązania prawnicze
-- **Abrams v. United States (1919)** - Sędzia Holmes: "free trade in ideas"
-- **Matal v. Tam (2017)** - Przywołanie marketplace of ideas
-- **Setki orzeczeń**: "Marketplace of ideas" przywołane w tysiącach przypadków sądowych
+### 7.2 Legal References
+- **Abrams v. United States (1919)** - Judge Holmes: "free trade in ideas"
+- **Matal v. Tam (2017)** - Invocation of marketplace of ideas
+- **Hundreds of rulings**: "Marketplace of ideas" cited in thousands of court cases
 
-### 7.3 Nawiązania polityczne
-- **Debaty prezydenckie**: Regularne cytowanie millowskich zasad
-- **Mowy kongresowe**: Principle of liberty jako argument
-- **Międzynarodowe**: Cytowane w debatach o wolności słowa na całym świecie
+### 7.3 Political References
+- **Presidential debates**: Regular citing of Millian principles
+- **Congressional speeches**: Principle of liberty as argument
+- **International**: Cited in free speech debates worldwide
 
-## 8. Parodie, hołdy i reimaginacje
+## 8. Parodies, Tributes, and Reimaginings
 
-### 8.1 Satyra polityczna
-- **Saturday Night Live**: Sketche parodiujące "marketplace of ideas"
-- **The Daily Show**: Ironiczne używanie "tyranny of the majority" w kontekście politycznym
-- **South Park**: Epizody o campus speech zawierające millowskie motywy
+### 8.1 Political Satire
+- **Saturday Night Live**: Sketches parodying "marketplace of ideas"
+- **The Daily Show**: Ironic use of "tyranny of the majority" in political context
+- **South Park**: Episodes about campus speech containing Millian motifs
 
-### 8.2 Współczesne reimaginacje
-- **"Problems with Mill's Masterpiece" (Quillette, 2022)** - krytyczna analiza słabości argumentów Milla
-- **"What John Stuart Mill Got Wrong" (Boston Review)** - współczesna krytyka teorii free speech
-- **"Mill on Social Media"** - blogi analizujące relevantność w erze cyfrowej
+### 8.2 Contemporary Reimaginings
+- **"Problems with Mill's Masterpiece" (Quillette, 2022)** - critical analysis of weaknesses in Mill's arguments
+- **"What John Stuart Mill Got Wrong" (Boston Review)** - contemporary critique of free speech theory
+- **"Mill on Social Media"** - blogs analyzing relevance in the digital era
 
-### 8.3 Artystyczne interpretacje
-- **Performance art**: Działania artystyczne na temat wolności ekspresji
-- **Street art**: Graffiti z cytatami Milla o indywidualności
-- **Digital art**: Memy i grafiki z millowskimi konceptami
+### 8.3 Artistic Interpretations
+- **Performance art**: Artistic actions about freedom of expression
+- **Street art**: Graffiti with Mill quotes about individuality
+- **Digital art**: Memes and graphics with Millian concepts
 
-## 9. Wpływ kontrowersyjny
+## 9. Controversial Impact
 
-### 9.1 Krytyka współczesna
-- **"Cancel culture" debates**: Mill używany przez obie strony sporu
-- **Platform moderation**: Twitter, Facebook używają harm principle jako uzasadnienie
-- **Campus controversies**: "O wolności" w centrum sporów o free speech (2020-2024)
+### 9.1 Contemporary Criticism
+- **"Cancel culture" debates**: Mill used by both sides of the dispute
+- **Platform moderation**: Twitter, Facebook use harm principle as justification
+- **Campus controversies**: "On Liberty" at the center of free speech disputes (2020-2024)
 
-### 9.2 Problematyczne aspekty
-- **Interpretacje skrajne**: Libertarianie używają Milla do uzasadnienia braku regulacji
-- **Fake news debates**: Czy millowska teoria sprawdza się wobec dezinformacji?
-- **Hate speech**: Trudności z aplikacją harm principle do współczesnych problemów
+### 9.2 Problematic Aspects
+- **Extreme interpretations**: Libertarians use Mill to justify lack of regulation
+- **Fake news debates**: Does Mill's theory hold up against disinformation?
+- **Hate speech**: Difficulties applying harm principle to contemporary problems
 
-### 9.3 Międzynarodowe kontrowersje
-- **Rosja Imperium**: Millowskie ostrzeżenia o stagnacji znalazły oddźwięk u rosyjskich intelektualistów
-- **Europa Wschodnia**: Tłumaczenia w czasach komunizmu jako subwersywna literatura
-- **Autorytarne reżimy**: Zakazy i cenzura "O wolności" w różnych krajach
+### 9.3 International Controversies
+- **Russian Empire**: Mill's warnings about stagnation resonated with Russian intellectuals
+- **Eastern Europe**: Translations during communist times as subversive literature
+- **Authoritarian regimes**: Bans and censorship of "On Liberty" in various countries
 
-## 10. Współczesna relevantność i przyszły wpływ
+## 10. Contemporary Relevance and Future Impact
 
-### 10.1 Era cyfrowa
-- **Content moderation**: Tech companies stosują millowskie principles
-- **Algorithm bias**: Czy algorytmy naruszają marketplace of ideas?
-- **Echo chambers**: Millowskie obawy o conformity w erze social media
+### 10.1 Digital Era
+- **Content moderation**: Tech companies apply Millian principles
+- **Algorithm bias**: Do algorithms violate the marketplace of ideas?
+- **Echo chambers**: Mill's concerns about conformity in the social media era
 
-### 10.2 Nowe interpretacje
-- **AI i free speech**: Jak zasady Milla mają się do AI-generowanych treści?
-- **Global digital rights**: Millowskie principles w międzynarodowych regulacjach
-- **Future of democracy**: Czy millowskie ostrzeżenia przed tyrannią większości są aktualne?
+### 10.2 New Interpretations
+- **AI and free speech**: How do Mill's principles apply to AI-generated content?
+- **Global digital rights**: Millian principles in international regulations
+- **Future of democracy**: Are Mill's warnings against tyranny of the majority still relevant?
 
-### 10.3 Edukacyjna przyszłość
-- **VR education**: Potencjalne immersive experience'y millowskiej filozofii
-- **Gamification**: Gry edukacyjne o filozofii politycznej
-- **AI tutors**: Personalizowane nauczanie millowskich concepts
+### 10.3 Educational Future
+- **VR education**: Potential immersive experiences of Mill's philosophy
+- **Gamification**: Educational games about political philosophy
+- **AI tutors**: Personalized teaching of Millian concepts
 
-## Podsumowanie wpływu kulturowego
+## Summary of Cultural Impact
 
-"O wolności" Johna Stuarta Milla pozostaje jedną z najbardziej wpływowych książek w historii myśli zachodniej. Chociaż nie ma wielkich filmowych adaptacji, jej wpływ przenika każdy aspekt współczesnej kultury - od konstytucyjnego prawa przez ruchy społeczne po debaty o social media. 
+John Stuart Mill's "On Liberty" remains one of the most influential books in the history of Western thought. While it lacks major film adaptations, its impact permeates every aspect of contemporary culture - from constitutional law through social movements to social media debates.
 
-Millowskie koncepty jak "harm principle", "tyranny of the majority" i "marketplace of ideas" stały się fundamentalnymi elementami dyskursu publicznego. Książka inspirowała ruchy sufrażystek, była cytowana w setkach orzeczeń Sądu Najwyższego USA, a jej idee są przedmiotem żywych debat w erze Tiktoka i Twittera.
+Millian concepts like "harm principle," "tyranny of the majority," and "marketplace of ideas" have become fundamental elements of public discourse. The book inspired suffragette movements, was cited in hundreds of US Supreme Court rulings, and its ideas are the subject of lively debates in the era of TikTok and Twitter.
 
-Paradoks tej książki polega na tym, że chociaż została napisana ponad 160 lat temu, jej relevantność tylko rośnie w miarę jak społeczeństwa mierzą się z nowymi wyzwaniami wolności słowa, praw mniejszości i granic władzy - czy to rządowej, czy korporacyjnej. Mill pozostaje przewodnikiem dla tych, którzy szukają równowagi między wolnością indywidualną a dobrem społecznym.
+The paradox of this book is that although it was written over 160 years ago, its relevance only grows as societies grapple with new challenges of free speech, minority rights, and limits of power - whether governmental or corporate. Mill remains a guide for those seeking balance between individual freedom and social good.
 
 ---
-*Badanie przeprowadzone: 2025-01-02*  
-*Liczba przykładów wpływu kulturowego: 57*  
-*Źródła: Analiza web search, akademickie bazy danych, współczesne media*
+*Research conducted: 2025-01-02*
+*Number of cultural impact examples: 57*
+*Sources: Web search analysis, academic databases, contemporary media*

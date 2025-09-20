@@ -1,0 +1,15 @@
+media_info:
+  title: Malaysia Airlines Flight MH370 - March 8, 2014
+  author: Aviation Documentation
+  year: 2014
+  genre: Modern Aviation Mystery Documentary
+  description: A Boeing 777 with 239 people aboard vanished during flight from Kuala
+    Lumpur to Beijing, becoming aviation's greatest unsolved mystery
+  target_audience: General public, students, aviation enthusiasts, modern mystery fans
+  duration: ~3 minutes
+  objective: Examine the disappearance that sparked the largest search in aviation
+    history and explore theories about what happened to the missing aircraft
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

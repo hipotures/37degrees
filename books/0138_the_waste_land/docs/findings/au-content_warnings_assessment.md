@@ -1,127 +1,127 @@
-# Ocena Zgodności z Zasadami Platform Społecznościowych: "The Waste Land" T.S. Eliota
+# Social Media Platform Compliance Assessment: "The Waste Land" by T.S. Eliot
 
-## Meta-informacje dokumentu
-- **Utworzony**: 2025-01-12
-- **Książka**: "The Waste Land" (1922) - T.S. Eliot
-- **Źródło analizy**: 8 dokumentów researchu od agentów specjalistycznych
-- **Platformy**: Facebook, YouTube, Instagram, TikTok, Spotify, Kick
-- **Wytyczne**: Aktualne zasady platform dla 2025 roku
+## Document Meta-Information
+- **Created**: 2025-01-12
+- **Book**: "The Waste Land" (1922) - T.S. Eliot
+- **Analysis Source**: 8 specialist agent research documents
+- **Platforms**: Facebook, YouTube, Instagram, TikTok, Spotify, Kick
+- **Guidelines**: Current 2025 platform policies
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-**GŁÓWNE RYZYKO: ANTYSEMITYZM I KONTROWERSJE BIOGRAFICZNE**
+**MAIN RISK: ANTISEMITISM AND BIOGRAPHICAL CONTROVERSIES**
 
-"The Waste Land" jako dzieło literackie ma niskie ryzyko naruszenia zasad platform, jednak **biografia T.S. Eliota zawiera wysokie ryzyko treści** ze względu na udokumentowany antysemityzm i problematyczne powiązania. **Kluczowe jest rozdzielenie dzieła od biografii autora** w content strategy.
+"The Waste Land" as a literary work has low risk of violating platform policies, however **T.S. Eliot's biography contains high-risk content** due to documented antisemitism and problematic associations. **Key is separating the work from author biography** in content strategy.
 
 ### Platform Risk Assessment:
-- **🔴 META (Facebook/Instagram)**: WYSOKIE RYZYKO - liberalizacja hate speech policies może nie objąć historycznego antysemityzmu
-- **🟡 YouTube**: ŚREDNIE RYZYKO - wymaga human narration i educational framing
-- **🟡 TikTok**: ŚREDNIE RYZYKO - tylko content 1+ min się monetizuje
-- **🟢 Spotify**: NISKIE RYZYKO - najbardziej creator-friendly
-- **🟢 Kick**: NAJNIŻSZE RYZYKO - najbardziej tolerancyjna platforma
+- **🔴 META (Facebook/Instagram)**: HIGH RISK - liberalized hate speech policies may not cover historical antisemitism
+- **🟡 YouTube**: MEDIUM RISK - requires human narration and educational framing
+- **🟡 TikTok**: MEDIUM RISK - only 1+ minute content monetizes
+- **🟢 Spotify**: LOW RISK - most creator-friendly
+- **🟢 Kick**: LOWEST RISK - most tolerant platform
 
 ---
 
-## ANALIZA MATERIAŁÓW RESEARCHU
+## RESEARCH MATERIALS ANALYSIS
 
-### 1. DARK DRAMA RESEARCH - NAJWYŻSZE RYZYKO ⚠️
+### 1. DARK DRAMA RESEARCH - HIGHEST RISK ⚠️
 
-**Źródło**: au-research_dark_drama.md
+**Source**: au-research_dark_drama.md
 
-#### Krytyczne problematyczne treści:
-1. **Antysemityzm Eliota**:
+#### Critical Problematic Content:
+1. **Eliot's Antisemitism**:
    - "The jew squats on window sill" ("Gerontion")
    - "The jew is underneath the lot. Money in furs" ("Burbank with a Baedeker")
-   - **SKANDAL**: Przedrukował antysemickie wiersze PO Holokauście (1948)
-   - Nagroda Nobla 1948 przyznana mimo znanego antysemityzmu
+   - **SCANDAL**: Reprinted antisemitic poems AFTER Holocaust (1948)
+   - Nobel Prize 1948 awarded despite known antisemitism
 
-2. **Mizogynia i przemoc wobec kobiet**:
-   - Porzucenie żony w 1932 - wyjechał obiecując wrócić i nigdy nie wrócił
-   - Vivienne przymusowo umieszczona w szpitalu psychiatrycznym
-   - "Kobiety jako przedmioty domowe lub własność"
+2. **Misogyny and Violence Against Women**:
+   - Abandoned wife in 1932 - left promising to return and never did
+   - Vivienne forcibly committed to psychiatric hospital
+   - "Women as household objects or property"
 
-3. **Problematyczne powiązania**:
-   - Ezra Pound jako kolaborant faszystów
-   - Pound nadawał antysemickie audycje w radiu włoskim 1941-1943
+3. **Problematic Associations**:
+   - Ezra Pound as fascist collaborator
+   - Pound broadcast antisemitic radio programs 1941-1943
 
 #### Platform Risk Assessment:
-- **Facebook/Instagram**: 🔴 WYSOKIE RYZYKO - nowe zasady Meta mogą nie chronić przed historycznym antysemityzmem
-- **YouTube**: 🟡 WYMAGA educational framing
+- **Facebook/Instagram**: 🔴 HIGH RISK - new Meta rules may not protect against historical antisemitism
+- **YouTube**: 🟡 REQUIRES educational framing
 - **TikTok**: 🟡 Misinformation concerns
 - **Spotify/Kick**: 🟢 Educational context likely acceptable
 
-### 2. CULTURE IMPACT - ŚREDNIE RYZYKO 🟡
+### 2. CULTURE IMPACT - MEDIUM RISK 🟡
 
-**Źródło**: au-research_culture_impact.md
+**Source**: au-research_culture_impact.md
 
-#### Potencjalne problemy:
-1. **Adaptacje filmowe** - copyright concerns
-2. **Bob Dylan connections** - może generować flag z powodu muzyki
-3. **#MeToo reinterpretacje** - przemoc seksualna w tekście
-4. **Commerzialization concerns** - muzyka bez licencji
+#### Potential Issues:
+1. **Film adaptations** - copyright concerns
+2. **Bob Dylan connections** - may generate flags due to music
+3. **#MeToo reinterpretations** - sexual violence in text
+4. **Commercialization concerns** - unlicensed music
 
-#### Pozytywne aspekty:
-- Silne connections z Gen Z (liminal spaces, mental health)
-- TikTok organic interest w modernist poetry
+#### Positive Aspects:
+- Strong connections with Gen Z (liminal spaces, mental health)
+- TikTok organic interest in modernist poetry
 - Educational value widely recognized
 
 #### Platform Compatibility:
-- **Wszystkie platformy**: 🟢 NISKIE RYZYKO przy educational approach
+- **All platforms**: 🟢 LOW RISK with educational approach
 
-### 3. FACTS HISTORY - NISKIE RYZYKO ✅
+### 3. FACTS HISTORY - LOW RISK ✅
 
-**Źródło**: au-research_facts_history.md
+**Source**: au-research_facts_history.md
 
 #### Content Assessment:
-- Czysto historyczne fakty o powstaniu dzieła
-- Bez kontrowersyjnych interpretacji
-- Fokus na literary process i collaboration z Pound
+- Purely historical facts about work's creation
+- No controversial interpretations
+- Focus on literary process and collaboration with Pound
 - Academic tone throughout
 
 #### Platform Compatibility:
-- **Wszystkie platformy**: 🟢 BARDZO BEZPIECZNE
+- **All platforms**: 🟢 VERY SAFE
 
-### 4. LOCAL CONTEXT (POLAND) - NISKIE RYZYKO ✅
+### 4. LOCAL CONTEXT (POLAND) - LOW RISK ✅
 
-**Źródło**: au-research_local_context.md
+**Source**: au-research_local_pl_context.md
 
 #### Content Assessment:
-- Polska recepcja i tłumaczenia
-- Czesław Miłosz jako positive authority figure
+- Polish reception and translations
+- Czesław Miłosz as positive authority figure
 - Academic interpretations
-- Theatre adaptations w Polsce
+- Theater adaptations in Poland
 
 #### Special Considerations:
-- Strong educational credentials w Polish context
+- Strong educational credentials in Polish context
 - Nobel Prize winner (Miłosz) endorsement
 - Academic respectability
 
 #### Platform Compatibility:
-- **Wszystkie platformy**: 🟢 BARDZO BEZPIECZNE
+- **All platforms**: 🟢 VERY SAFE
 
-### 5. SYMBOLS MEANINGS - NISKIE RYZYKO ✅
+### 5. SYMBOLS MEANINGS - LOW RISK ✅
 
-**Źródło**: au-research_symbols_meanings.md
+**Source**: au-research_symbols_meanings.md
 
 #### Content Assessment:
-- Literary analysis i symbolic interpretation
-- Academic approach do complex themes
-- Contemporary reinterpretations są balanced
-- Educational value wysokie
+- Literary analysis and symbolic interpretation
+- Academic approach to complex themes
+- Contemporary reinterpretations are balanced
+- High educational value
 
 #### Minor Concerns:
-- Religious syncretism może trigger niektórych viewers
-- Queer interpretations mogą być controversial na Meta platforms
+- Religious syncretism may trigger some viewers
+- Queer interpretations may be controversial on Meta platforms
 
 #### Platform Compatibility:
 - **Meta**: 🟡 Avoid explicitly queer interpretations
-- **Inne**: 🟢 BEZPIECZNE
+- **Others**: 🟢 SAFE
 
-### 6. REALITY WISDOM - NISKIE RYZYKO ✅
+### 6. REALITY WISDOM - LOW RISK ✅
 
-**Źródło**: au-research_reality_wisdom.md
+**Source**: au-research_reality_wisdom.md
 
 #### Content Assessment:
 - Practical life lessons
@@ -130,43 +130,43 @@
 - Generational advice
 
 #### Strong Educational Value:
-- Mental health parallels bardzo relevant dla Gen Z
+- Mental health parallels very relevant for Gen Z
 - Social media criticism constructive
 - Relationship advice practical
 
 #### Platform Compatibility:
-- **Wszystkie platformy**: 🟢 BARDZO BEZPIECZNE i ENGAGING
+- **All platforms**: 🟢 VERY SAFE and ENGAGING
 
-### 7. WRITING INNOVATION - NISKIE RYZYKO ✅
+### 7. WRITING INNOVATION - LOW RISK ✅
 
-**Źródło**: au-research_writing_innovation.md
+**Source**: au-research_writing_innovation.md
 
 #### Content Assessment:
 - Technical literary analysis
 - Historical literary context
 - Academic scholarly approach
-- Innovation focus pozytywny
+- Positive innovation focus
 
 #### Platform Compatibility:
-- **Wszystkie platformy**: 🟢 BARDZO BEZPIECZNE
+- **All platforms**: 🟢 VERY SAFE
 
-### 8. YOUTH DIGITAL - ŚREDNIE RYZYKO 🟡
+### 8. YOUTH DIGITAL - MEDIUM RISK 🟡
 
-**Źródło**: au-research_youth_digital.md
+**Source**: au-research_youth_digital.md
 
 #### Potential Concerns:
-1. **Mental health content**: Over 83% mental health advice na TikTok jest misleading
-2. **AI poetry discussions** mogą trigger copyright concerns
+1. **Mental health content**: Over 83% mental health advice on TikTok is misleading
+2. **AI poetry discussions** may trigger copyright concerns
 3. **Gaming culture references** (Fallout) - violence associations
 
 #### Positive Aspects:
 - Strong Gen Z relevance
 - Mental health awareness
-- Technology criticism resonuje z młodszą audience
+- Technology criticism resonates with younger audience
 
 #### Platform Compatibility:
-- **TikTok**: 🟡 Careful z mental health advice
-- **Inne**: 🟢 BEZPIECZNE
+- **TikTok**: 🟡 Careful with mental health advice
+- **Others**: 🟢 SAFE
 
 ---
 
@@ -175,13 +175,13 @@
 ### 🔴 META PLATFORMS (Facebook/Instagram) - HIGH CAUTION
 
 #### ❌ AVOID ENTIRELY:
-1. **Biografia Eliota** - antysemitism, mizogynia
+1. **Eliot's biography** - antisemitism, misogyny
 2. **Ezra Pound connections** - fascist collaborator
 3. **Personal scandals** - wife abandonment
 4. **Controversial political interpretations**
 
 #### ✅ SAFE CONTENT:
-1. **Symbolika i znaczenia** - literary analysis only
+1. **Symbolism and meanings** - literary analysis only
 2. **Polish context** - academic respectability
 3. **Modern connections** - mental health, technology
 4. **Writing innovations** - technical aspects
@@ -189,61 +189,61 @@
 #### 📝 CONTENT WARNINGS REQUIRED:
 - Age restrict any historical biographical content
 - Educational context disclaimers
-- Focus na literary value, nie personal life
+- Focus on literary value, not personal life
 
 ### 🟡 YOUTUBE - MEDIUM RISK WITH PRECAUTIONS
 
 #### Requirements for Monetization:
 1. **Human narration** - NO text-to-speech
 2. **Original commentary** dominates quoted material
-3. **Educational framing** dla sensitive topics
-4. **Value-added content** - nie tylko reading
+3. **Educational framing** for sensitive topics
+4. **Value-added content** - not just reading
 
 #### Safe Content Approach:
-- Focus na literary analysis i symbolism
+- Focus on literary analysis and symbolism
 - Contemporary relevance (Gen Z mental health)
-- Writing innovation i influence
+- Writing innovation and influence
 - Polish academic tradition
 
 #### ⚠️ Handle Carefully:
-- Biographical controversies - tylko z historical context
-- Antysemitism - scholarly approach, kondemnacja required
-- Use jako example przeciw prejudice
+- Biographical controversies - only with historical context
+- Antisemitism - scholarly approach, condemnation required
+- Use as example against prejudice
 
 ### 🟡 TIKTOK - LENGTH & ORIGINALITY FOCUS
 
 #### Monetization Requirements:
 1. **1+ minute videos ONLY**
-2. **Original content** - no duets/stitches dla Creator Rewards
-3. **No third-party elements** bez permissions
+2. **Original content** - no duets/stitches for Creator Rewards
+3. **No third-party elements** without permissions
 4. **Educational framing** preferred
 
 #### Best Content Strategy:
-- Mental health parallels z Gen Z experience
+- Mental health parallels with Gen Z experience
 - Liminal spaces aesthetic connections
-- Technology criticism relevant do social media
+- Technology criticism relevant to social media
 - Academic "literature girl" aesthetic
 
 #### ❌ Avoid:
-- Biographical controversies - too complex dla short format
+- Biographical controversies - too complex for short format
 - Dense literary analysis - doesn't match platform
 
 ### 🟢 SPOTIFY - CREATOR FRIENDLY
 
 #### Advantages:
-- Most tolerant dla educational content
-- Video format preferred dla higher revenue
+- Most tolerant for educational content
+- Video format preferred for higher revenue
 - Original commentary encouraged
 - Academic discussions welcomed
 
 #### Safe Content Areas:
-- ALL researched topics acceptable z proper educational framing
-- Even controversial biography z scholarly approach
-- Focus na learning outcomes
+- ALL researched topics acceptable with proper educational framing
+- Even controversial biography with scholarly approach
+- Focus on learning outcomes
 
 #### Requirements:
 - Original audio commentary
-- No copyrighted music bez licenses
+- No copyrighted music without licenses
 - Educational value dominates
 
 ### 🟢 KICK - LOWEST RISK
@@ -255,7 +255,7 @@
 - Context-based moderation
 
 #### Content Freedom:
-- Can discuss biographical controversies z educational context
+- Can discuss biographical controversies with educational context
 - Academic freedom respected
 - Interactive discussions encouraged
 
@@ -265,11 +265,11 @@
 
 ### 13+ CONTENT (Safe All Platforms):
 ✅ **Approved Topics:**
-- Literary analysis i symbolism
-- Writing techniques i innovations  
+- Literary analysis and symbolism
+- Writing techniques and innovations
 - Contemporary connections (mental health, technology)
 - Polish academic context
-- Cultural impact i influence
+- Cultural impact and influence
 
 ### 16+ CONTENT (Age Restrict Recommended):
 ⚠️ **Requires Warnings:**
@@ -280,8 +280,8 @@
 
 ### 18+ CONTENT (Adult Audience Only):
 🔴 **Adult Supervision Required:**
-- Eliot's antysemitic writings (scholarly analysis only)
-- Biographical scandals i personal problems
+- Eliot's antisemitic writings (scholarly analysis only)
+- Biographical scandals and personal problems
 - Complex political interpretations
 - Detailed historical controversy analysis
 
@@ -302,16 +302,16 @@
 3. **Contemporary reinterpretations** - balanced presentation
 
 ### 🔴 HIGH RISK - EXPERT HANDLING REQUIRED:
-1. **Antysemitic writings** - only w advanced academic context
+1. **Antisemitic writings** - only in advanced academic context
 2. **Personal scandals** - historical analysis only
 3. **Political associations** - scholarly research context only
 
 ### PLATFORM PRIORITY RANKING:
-1. **KICK** - Najbezpieczniejsza, najlepsza monetization
+1. **KICK** - Safest, best monetization
 2. **Spotify** - Video format, educational friendly
-3. **YouTube** - Wymaga human narration, educational value
-4. **TikTok** - Tylko long-form, educational framing
-5. **Instagram/Facebook** - NAJWYŻSZE RYZYKO, extreme caution
+3. **YouTube** - Requires human narration, educational value
+4. **TikTok** - Only long-form, educational framing
+5. **Instagram/Facebook** - HIGHEST RISK, extreme caution
 
 ---
 
@@ -319,24 +319,24 @@
 
 ### Universal Requirements:
 - [ ] Original commentary dominates quoted material
-- [ ] Educational framing dla wszystkich sensitive topics
+- [ ] Educational framing for all sensitive topics
 - [ ] No copyright violations (music, audiobook clips)
 - [ ] Age-appropriate content labeling
 - [ ] Fact-checking controversial historical claims
 
 ### Platform-Specific:
-- [ ] **Meta**: UNIKAJ biographical controversies entirely
+- [ ] **Meta**: AVOID biographical controversies entirely
 - [ ] **YouTube**: Human narration, educational value-add required
 - [ ] **TikTok**: 1+ minute original content only, educational approach
 - [ ] **Spotify**: Video format, proper audio licensing
 - [ ] **Kick**: Interactive format, community building approach
 
 ### Content Creator Safety:
-- [ ] Separate dzieło literackie od biografii autora
-- [ ] Scholarly sources dla wszystkich historical claims
+- [ ] Separate literary work from author biography
+- [ ] Scholarly sources for all historical claims
 - [ ] Educational outcomes clearly stated
 - [ ] Contemporary relevance emphasized over historical controversy
-- [ ] Mental health content balanced i supportive
+- [ ] Mental health content balanced and supportive
 
 ---
 

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "A-10 Aircraft Formation Landing at Davis-Monthan"
+  setting:
+    time: "March 13, 1997, 8:45 PM MST, night"
+    location: "Davis-Monthan Air Force Base, Tucson, Arizona"
+    weather: "Clear night conditions"
+  characters:
+    - appearance: "Military pilot, 30s, fit build, focused expression"
+      clothing: "Standard olive drab flight suit with patches, flight helmet with oxygen mask, full gear"
+      position: "In cockpit of A-10 aircraft on final approach"
+      action: "Professional pilot stance, hands on controls or checking instruments"
+  scene:
+    mainElements: "Military airfield with runways, hangars, control tower, aircraft parking areas"
+    details: "Formation of five Fairchild Republic A-10 Thunderbolt II aircraft approaching runway for landing, aircraft display grey camouflage paint scheme with Maryland ANG 175th Wing markings and MD tail codes, twin engines mounted above fuselage clearly visible, straight wing design showing distinctive silhouette, formation lights still active from night operations, military airfield illuminated with runway lighting and taxiway markers, control tower and hangars visible in background, professional military flight operations in progress, no text or letters visible"
+    background: "Professional military environment, well-lit facility, organized aircraft operations"
+    atmosphere: "Routine military aviation operations concluding night training exercise"
+  composition:
+    cameraAngle: "Low angle from airfield showing aircraft formation on final approach"
+    focus: "A-10 aircraft formation with lead aircraft and pilot clearly visible"
+    depth: "Foreground shows runway approach area, middle ground captures formation aircraft, background features airbase facilities and control tower"

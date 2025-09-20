@@ -1,135 +1,135 @@
-# Historia Powstania i Fascynujące Fakty - Gitanjali (1910)
+# Creation History and Fascinating Facts - Gitanjali (1910)
 
-## Podstawowe informacje
-- **Tytuł oryginalny**: Gitanjali (bengalski), Gitanjali: Song Offerings (angielski)
-- **Autor**: Rabindranath Tagore
-- **Data publikacji**: 4 sierpnia 1910 (bengalski), listopad 1912 (angielski)
-- **Liczba wierszy**: 157 (bengalski), 103 (angielski)
+## Basic Information
+- **Original Title**: Gitanjali (Bengali), Gitanjali: Song Offerings (English)
+- **Author**: Rabindranath Tagore
+- **Publication Date**: August 4, 1910 (Bengali), November 1912 (English)
+- **Number of Poems**: 157 (Bengali), 103 (English)
 
-## Tragiczne Inspiracje i Kontekst Tworzenia
+## Tragic Inspirations and Creation Context
 
-**FAKT**: Gitanjali powstało w okresie najcięższych osobistych tragedii Tagore'a - między 1902-1907 stracił żonę i dwoje dzieci oraz ojca.
+**FACT**: Gitanjali was created during the heaviest period of personal tragedies for Tagore - between 1902-1907 he lost his wife, two children, and father.
 
-**FAKT**: Mrinalini Devi, żona Tagore'a, zmarła 23 listopada 1902 roku w wieku 29 lat w Santiniketan.
+**FACT**: Mrinalini Devi, Tagore's wife, died on November 23, 1902 at the age of 29 in Santiniketan.
 
-**FAKT**: Córka Renuka zmarła we wrześniu 1903 roku, mając zaledwie 13 lat.
+**FACT**: His daughter Renuka died in September 1903, only 13 years old.
 
-**FAKT**: Najmłodszy syn Samindranath zmarł nagle na cholerę w 1907 roku w wieku 13 lat.
+**FACT**: His youngest son Samindranath died suddenly of cholera in 1907 at the age of 13.
 
-**FAKT**: Ojciec Tagore'a, Debendranath Tagore zwany "Maha Rishi", zmarł w 1905 roku.
+**FACT**: Tagore's father, Debendranath Tagore known as "Maha Rishi," died in 1905.
 
-**FAKT**: Według świadka cytowanego przez W.B. Yeatsa, Tagore codziennie o godzinie 3:00 rano zasiadał do dwugodzinnej nieruchomej kontemplacji nad naturą Boga - praktykę tę obserwowano bezpośrednio.
+**FACT**: According to a witness quoted by W.B. Yeats, Tagore would sit daily at 3:00 AM for two hours of motionless contemplation on the nature of God - this practice was directly observed.
 
-**FAKT**: Ojciec Tagore'a podczas podróży łodzią wpadł w kontemplację z powodu piękna krajobrazu, a wioślarze czekali 8 godzin, zanim mogli kontynuować podróż.
+**FACT**: Tagore's father once fell into contemplation during a boat journey due to the beauty of the landscape, and the rowers waited 8 hours before they could continue their journey.
 
-## Proces Twórczy i Komponowanie
+## Creative Process and Composition
 
-**FAKT**: W ciągu dwóch lat pisania wierszy Tagore skomponował także muzykę do większości z nich.
+**FACT**: During the two years of writing the poems, Tagore also composed music for most of them.
 
-**FAKT**: Słowo "gitanjali" składa się z "git" (pieśń) i "anjali" (ofiara), oznaczając "ofiarę z pieśni".
+**FACT**: The word "gitanjali" consists of "git" (song) and "anjali" (offering), meaning "offering of songs."
 
-**FAKT**: Motto zbioru to "I am here to sing thee songs" (wiersz XV) - "Jestem tu, by śpiewać Ci pieśni".
+**FACT**: The motto of the collection is "I am here to sing thee songs" (poem XV).
 
-**FAKT**: Tagore nigdy nie chodził do świątyń ani nie modlił się w tradycyjny rytualny sposób, wyjaśniając: "Nigdy nie czytałem pism świętych; właściwie ich unikam, ponieważ mam własne doświadczenie boskości".
+**FACT**: Tagore never went to temples nor prayed in traditional ritualistic ways, explaining: "I never read the scriptures; actually I avoid them, because I have my own experience of divinity."
 
-## Słynna Historia Zgubionego Rękopisu
+## The Famous Story of the Lost Manuscript
 
-**FAKT**: W maju 1912 roku w Londynie Tagore zgubił aktówkę z jedynym rękopisem angielskich tłumaczeń Gitanjali na stacji metra Baker Street.
+**FACT**: In May 1912 in London, Tagore lost his briefcase containing the only manuscript of English translations of Gitanjali at Baker Street underground station.
 
-**FAKT**: Syn Tagore'a, Rathindranath, odnalazł aktówkę następnego dnia w biurze rzeczy znalezionych London Underground.
+**FACT**: Tagore's son, Rathindranath, found the briefcase the next day at the London Underground lost property office.
 
-**FAKT**: 16 czerwca 1912 roku, przed planowanym spotkaniem z Williamem Rothensteinem, Tagore zdał sobie sprawę ze zguby i po bezskutecznych poszukiwaniach wysłał syna do biura rzeczy znalezionych.
+**FACT**: On June 16, 1912, before a planned meeting with William Rothenstein, Tagore realized the loss and after unsuccessful searches sent his son to the lost property office.
 
-**FAKT**: Gdyby rękopis nie został odnaleziony, świat mógłby nigdy nie poznać anglojęzycznej wersji Gitanjali, która przyniosła Tagore'owi Nagrodę Nobla.
+**FACT**: If the manuscript had not been found, the world might never have known the English version of Gitanjali, which brought Tagore the Nobel Prize.
 
-## Podróż i Tłumaczenie
+## Journey and Translation
 
-**FAKT**: Tagore tłumaczył swoje wiersze na pokładzie statku "City of Glasgow" w drodze do Anglii w 1912 roku, spędzając większość czasu na pokładzie.
+**FACT**: Tagore translated his poems aboard the ship "City of Glasgow" on his way to England in 1912, spending most of his time on deck.
 
-**FAKT**: Wypełnił dwa zeszyty ćwiczeń tłumaczeniami wierszy z różnych opublikowanych wcześniej książek bengalskich.
+**FACT**: He filled two exercise books with translations of poems from various previously published Bengali books.
 
-**FAKT**: W liście do siostrzanicy Indiry Devi wyjaśnił motywację: "Poczułem potrzebę, by poprzez medium innego języka odzyskać uczucia i sentymenty, które stworzyły taką ucztę radości we mnie".
+**FACT**: In a letter to his niece Indira Devi he explained his motivation: "I felt the need to regain through the medium of another language the feelings and sentiments that created such a feast of joy in me."
 
-## Fenomenalny Sukces Wydawniczy
+## Phenomenal Publishing Success
 
-**FAKT**: Pierwszy nakład wydania India Society wynosił tylko 750 egzemplarzy.
+**FACT**: The first print run of the India Society edition was only 750 copies.
 
-**FAKT**: Książka została wznowiona dziesięć razy do listopada 1913 roku, kiedy ogłoszono przyznanie Nagrody Nobla.
+**FACT**: The book was reprinted ten times by November 1913, when the Nobel Prize was announced.
 
-**FAKT**: Macmillan Publishing wydał pierwszą komercyjną edycję w twardej oprawie po zauważeniu potencjału dzieła.
+**FACT**: Macmillan Publishing issued the first commercial hardcover edition after noticing the work's potential.
 
-**FAKT**: Prasa nazywała Tagore'a "twórcą nowej ery w literaturze".
+**FACT**: The press called Tagore "the creator of a new era in literature."
 
-## Nagroda Nobla - Przełomowe Znaczenie
+## Nobel Prize - Groundbreaking Significance
 
-**FAKT**: Tagore otrzymał Nagrodę Nobla w dziedzinie literatury w 1913 roku wraz z nagrodą pieniężną 8000 euro.
+**FACT**: Tagore received the Nobel Prize in Literature in 1913 along with a monetary prize of 8000 euros.
 
-**FAKT**: Był pierwszym nie-Europejczykiem, pierwszym Azjatą i jedynym Hindusem, który otrzymał tę nagrodę.
+**FACT**: He was the first non-European, first Asian, and only Hindu to receive this prize.
 
-**FAKT**: Był pierwszym lirykiem, który otrzymał Nagrodę Nobla w dziedzinie literatury.
+**FACT**: He was the first lyric poet to receive the Nobel Prize in Literature.
 
-**FAKT**: Komitet szwedzki docenił "głęboko wrażliwą, świeżą i piękną poezję, dzięki której z mistrzowską umiejętnością uczynił swoją myśl poetycką, wyrażoną własnymi słowami angielskimi, częścią literatury Zachodu".
+**FACT**: The Swedish committee praised his "profoundly sensitive, fresh and beautiful verse, by which, with consummate skill, he has made his poetic thought, expressed in his own English words, a part of the literature of the West."
 
-## Recepcja Literacka i Reakcje Współczesnych
+## Literary Reception and Contemporary Reactions
 
-**FAKT**: W.B. Yeats napisał we wstępie: "Nosiłem rękopis tych tłumaczeń ze sobą przez dni, czytając w pociągach, na górnych pokładach omnibusów i w restauracjach, często musiałem go zamykać, żeby jakiś nieznajomy nie zobaczył, jak bardzo mnie porusza".
+**FACT**: W.B. Yeats wrote in the introduction: "I have carried the manuscript of these translations about with me for days, reading it in railway trains, or on the top of omnibuses and in restaurants, and I have often had to close it lest some stranger would see how much it moved me."
 
-**FAKT**: Ezra Pound początkowo porównywał Tagore'a do Dantego, nazywając Gitanjali "serią duchowych liryków".
+**FACT**: Ezra Pound initially compared Tagore to Dante, calling Gitanjali "a series of spiritual lyrics."
 
-**FAKT**: Pound szybko zmienił zdanie - już 22 kwietnia 1913 pisał: "Filozofia Tagore'a niewiele ma do zaoferowania człowiekowi, który 'odczuł cierpienia' i był nękany przez cywilizację zachodnią".
+**FACT**: Pound quickly changed his mind - as early as April 22, 1913 he wrote: "Tagore's philosophy has little to offer the man who has 'felt the pangs' and been tormented by western civilization."
 
-**FAKT**: Thomas Sturge Moore z powodzeniem zaproponował dzieło Komitetowi Noblowskiemu.
+**FACT**: Thomas Sturge Moore successfully proposed the work to the Nobel Committee.
 
-**FAKT**: Do 1937 roku Graham Greene stwierdził: "Nie mogę uwierzyć, że ktokolwiek oprócz pana Yeatsa może nadal traktować jego wiersze poważnie".
+**FACT**: By 1937 Graham Greene stated: "I cannot believe that anyone but Mr. Yeats can still take his verse seriously."
 
-## Unikalne Szczegóły Tłumaczenia
+## Unique Translation Details
 
-**FAKT**: Angielska wersja zawiera tylko 53 wiersze z oryginalnych 157 bengalskich Gitanjali.
+**FACT**: The English version contains only 53 poems from the original 157 Bengali Gitanjali.
 
-**FAKT**: Pozostałe 50 wierszy w angielskiej wersji pochodzi z innych dzieł Tagore'a: Achalayatan, Naibedya, Gitimalya i Kheya.
+**FACT**: The remaining 50 poems in the English version come from other works by Tagore: Achalayatan, Naibedya, Gitimalya, and Kheya.
 
-**FAKT**: Angielska Gitanjali nie jest bliskim odpowiednikiem oryginalnej bengalskiej i stanowi twórcze tłumaczenie w formie prozy poetyckiej.
+**FACT**: The English Gitanjali is not a close equivalent of the original Bengali and constitutes a creative translation in the form of poetic prose.
 
-**FAKT**: Tłumaczenia były często radykalne, pomijając lub zmieniając duże fragmenty wiersza, a w jednym przypadku łącząc dwa oddzielne wiersze.
+**FACT**: The translations were often radical, omitting or changing large fragments of poems, and in one case combining two separate poems.
 
-## Dziedzictwo Kulturowe
+## Cultural Heritage
 
-**FAKT**: Tagore skomponował i napisał hymny narodowe zarówno Indii jak i Bangladeszu.
+**FACT**: Tagore composed and wrote the national anthems of both India and Bangladesh.
 
-**FAKT**: Wiele wierszy zostało przekształconych w pieśni znane jako Rabindra Sangeet.
+**FACT**: Many poems were transformed into songs known as Rabindra Sangeet.
 
-**FAKT**: Gitanjali jest częścią UNESCO Collection of Representative Works.
+**FACT**: Gitanjali is part of the UNESCO Collection of Representative Works.
 
-**FAKT**: Tagore otrzymał tytuł szlachecki w 1915 roku, ale oddał go w 1919 w proteście przeciwko masakrze w Amritsar.
+**FACT**: Tagore received a knighthood in 1915, but returned it in 1919 in protest against the Amritsar massacre.
 
-## Wpływ na Literaturę Światową
+## Impact on World Literature
 
-**FAKT**: Dzieło po raz pierwszy przedstawiło zachodnią publiczność duchową poezję wschodnią.
+**FACT**: The work first introduced Western audiences to Eastern spiritual poetry.
 
-**FAKT**: Gitanjali ustanowiło Tagore'a jako międzynarodowo uznaną postać literacką w okresie kolonialnym w Indiach.
+**FACT**: Gitanjali established Tagore as an internationally recognized literary figure during the colonial period in India.
 
-**FAKT**: "Odkrycie" Tagore'a przez Rothensteina, Yeatsa i Pounda w 1912-13 było wczesnym przykładem natychmiastowego zarządzania sławą literacką.
+**FACT**: The "discovery" of Tagore by Rothenstein, Yeats and Pound in 1912-13 was an early example of instant literary fame management.
 
-**FAKT**: Entuzjazm, z jakim jego dzieło zostało powitane był niezwykły, chociaż później w dużej mierze zniknął ze świadomości zachodnich czytelników.
+**FACT**: The enthusiasm with which his work was received was extraordinary, although it later largely disappeared from Western readers' consciousness.
 
-## Ciekawostki i Anegdoty
+## Curiosities and Anecdotes
 
-**FAKT**: Tagore zadedykował anglojęzyczne "Song Offerings" Williamowi Rothensteinowi jako wyraz wdzięczności za nawiązane kontakty, a nie W.B. Yeatsowi.
+**FACT**: Tagore dedicated the English "Song Offerings" to William Rothenstein as an expression of gratitude for the contacts made, not to W.B. Yeats.
 
-**FAKT**: Rothenstein zorganizował spotkanie 7 lipca 1912 roku, zapraszając postaci literackie, w tym W.B. Yeatsa, do swojego domu, aby zaprezentować poezję Tagore'a.
+**FACT**: Rothenstein organized a meeting on July 7, 1912, inviting literary figures including W.B. Yeats to his home to present Tagore's poetry.
 
-**FAKT**: Pound początkowo powiedział: "Bengali przynosi nam obietnicę spokoju, którego bardzo potrzebujemy w wieku stali i mechaniki".
+**FACT**: Pound initially said: "Bengali brings us the promise of peace which we greatly need in an age of steel and mechanics."
 
-**FAKT**: Tagore opisywał swoje podejście do kompozycji: "Nie mam nic więcej do zaoferowania. Jestem równie ubogi jak ptak lub równie bogaty jak ptak. Mogę każdego ranka śpiewać świeżą i nową pieśń w wdzięczności".
+**FACT**: Tagore described his approach to composition: "I have nothing more to offer. I am as poor as a bird or as rich as a bird. I can sing a fresh and new song every morning in gratitude."
 
-**PLOTKA**: Niektóre źródła sugerują, że Tagore podczas kontemplacji nad pięknem krajobrazów wpadał w trans tak głęboko, że otoczenie musiało godzinami czekać na jego powrót do rzeczywistości.
+**RUMOR**: Some sources suggest that Tagore would fall into such deep trances during contemplation of beautiful landscapes that those around him had to wait for hours for his return to reality.
 
-## Znaczenie dla Literatury Polskiej i Światowej
+## Significance for Polish and World Literature
 
-**FAKT**: Gitanjali było pierwszym dziełem literatury azjatyckiej, które otrzymało Nagrodę Nobla, otwierając drogę dla uznania literatury pozaeuropejskiej.
+**FACT**: Gitanjali was the first work of Asian literature to receive the Nobel Prize, opening the way for recognition of non-European literature.
 
-**FAKT**: Dzieło wprowadzało mistycyzm wschodni do kanonu literatury światowej w przystępnej dla czytelników zachodnich formie.
+**FACT**: The work introduced Eastern mysticism to the canon of world literature in a form accessible to Western readers.
 
-**FAKT**: Sukces Gitanjali zademonstrował możliwość przekraczania barier kulturowych przez literaturę o uniwersalnych wartościach duchowych.
+**FACT**: The success of Gitanjali demonstrated the possibility of transcending cultural barriers through literature with universal spiritual values.
 
-Te fakty i anegdoty pokazują, jak osobista tragedia Tagore'a została przemieniona w dzieło o uniwersalnym przesłaniu duchowym, które weszło do historii literatury światowej jako pierwszy azjatycki laureAt Nagrody Nobla w dziedzinie literatury.
+These facts and anecdotes show how Tagore's personal tragedy was transformed into a work with a universal spiritual message that entered the history of world literature as the first Asian laureate of the Nobel Prize in Literature.

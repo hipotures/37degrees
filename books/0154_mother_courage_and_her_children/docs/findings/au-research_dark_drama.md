@@ -1,171 +1,171 @@
-# DARK SIDE RESEARCH: "Matka Courage i jej dzieci" - Bertolt Brecht (1939)
+# DARK SIDE RESEARCH: "Mother Courage and Her Children" - Bertolt Brecht (1939)
 
-## CONSPIRACY THEORIES I DARK INTERPRETATIONS
+## CONSPIRACY THEORIES AND DARK INTERPRETATIONS
 
-### 1. **FAKT**: Brecht był pod stałą obserwacją FBI przez 6 lat w USA (1941-1947)
-FBI prowadziło inwigilację z użyciem podsłuchów, początkowo jako "wróg państwa" z powodu niemieckiego obywatelstwa, później jako podejrzany komunista i potencjalny szpieg.
+### 1. **FACT**: Brecht was under constant FBI surveillance for 6 years in the USA (1941-1947)
+The FBI conducted surveillance using wiretaps, initially as an "enemy of the state" due to German citizenship, later as a suspected communist and potential spy.
 
-### 2. **ZARZUT**: Ukrywał prawdziwą tożsamość komunistyczną przed HUAC
-30 października 1947 zeznawał przed Komisją ds. Działalności Antyamerykańskiej, zaprzeczając członkostwu w partii komunistycznej, ale następnego dnia uciekł z USA na zawsze.
+### 2. **ACCUSATION**: He concealed his true communist identity before HUAC
+On October 30, 1947, he testified before the House Committee on Un-American Activities, denying Communist Party membership, but fled the USA forever the next day.
 
-### 3. **PLOTKA**: "Mother Courage" zawiera zakodowane przesłania rewolucyjne
-Niektórzy interpretatorzy widzą w sztuce nie tylko antywojenną wymowę, ale ukryte wezwanie do obalenia systemu kapitalistycznego poprzez pokazanie, jak wojna służy tylko bogaceniu się elit.
+### 3. **RUMOR**: "Mother Courage" contains coded revolutionary messages
+Some interpreters see in the play not only anti-war sentiment, but hidden calls to overthrow the capitalist system by showing how war only serves to enrich elites.
 
-### 4. **FAKT**: Brecht otrzymał Nagrodę Stalina w 1954 roku
-Mimo publicznego dystansowania się od stalinizmu, przyjął najwyższe sowieckie odznaczenie kulturalne, co wywołało kontrowersje wśród zachodniej inteligencji.
+### 4. **FACT**: Brecht received the Stalin Prize in 1954
+Despite publicly distancing himself from Stalinism, he accepted the highest Soviet cultural decoration, causing controversy among Western intellectuals.
 
-### 5. **ZARZUT**: Ukryte wiersze antystalinowskie odkryte po śmierci
-Badania ujawniły trzy niepublikowane wiersze o Stalinie, nazywające go "Führerem", "carem" i "czczonym mordercą ludu" - całkowite przeciwieństwo publicznej postawy.
+### 5. **ACCUSATION**: Hidden anti-Stalinist poems discovered after death
+Research revealed three unpublished poems about Stalin, calling him "Führer," "tsar," and "worshipped murderer of the people" - the complete opposite of his public stance.
 
-### 6. **FAKT**: Sztuka była początkowo źle interpretowana przez publiczność
-Brecht był wściekły, gdy widzowie sympatyzowali z Mother Courage zamiast potępić ją jako wojenną profiterkę - musiał przepisać fragmenty po II wojnie światowej.
+### 6. **FACT**: The play was initially misinterpreted by audiences
+Brecht was furious when audiences sympathized with Mother Courage instead of condemning her as a war profiteer - he had to rewrite fragments after World War II.
 
-### 7. **PLOTKA**: Alienation Effect jako technika kontroli umysłu
-Niektórzy krytycy sugerują, że "efekt wyobcowania" nie służył tylko krytycznemu myśleniu, ale był formą manipulacji psychologicznej mającej na celu wpajanie marksistowskiej ideologii.
+### 7. **RUMOR**: Alienation Effect as mind control technique
+Some critics suggest that the "alienation effect" served not just critical thinking, but was a form of psychological manipulation aimed at instilling Marxist ideology.
 
-### 8. **FAKT**: Brecht utrzymywał szwajcarskie konto i austriackie obywatelstwo w NRD
-Mimo życia w komunistycznym państwie, zachował kapitalistyczne zabezpieczenia finansowe, otrzymując twarde waluty z zagranicy.
+### 8. **FACT**: Brecht maintained Swiss accounts and Austrian citizenship in East Germany
+Despite living in a communist state, he kept capitalist financial safeguards, receiving hard currencies from abroad.
 
-## SKANDALE I KONTROWERSJE AUTORA
+## AUTHOR SCANDALS AND CONTROVERSIES
 
-### 9. **ZARZUT**: Systematyczny plagiat od francuskich poetów symbolistycznych
-W sztuce "W gąszczu miast" (1927) używał bez przypisania fragmentów Verlaine'a i Rimbauda, gdy został skonfrontowany, przyznał się do "rozluźnienia w kwestiach własności intelektualnej".
+### 9. **ACCUSATION**: Systematic plagiarism from French symbolist poets
+In the play "In the Jungle of Cities" (1927) he used fragments from Verlaine and Rimbaud without attribution; when confronted, he admitted to "looseness in matters of intellectual property."
 
-### 10. **FAKT**: John Fuegi oskarżył go o kradzież 80% prac kobiet-współpracownic
-Biografia z 1994 twierdziła, że Elisabeth Hauptmann, Grete Steffin i Ruth Berlau pisały większość jego najsłynniejszych dzieł, a Brecht wykorzystywał je seksualnie i finansowo.
+### 10. **FACT**: John Fuegi accused him of stealing 80% of his female collaborators' work
+The 1994 biography claimed that Elisabeth Hauptmann, Grete Steffin, and Ruth Berlau wrote most of his most famous works, while Brecht exploited them sexually and financially.
 
-### 11. **ZARZUT**: "Sex for text" - wyzysk kobiet-współpracownic
-Fuegi przedstawił Brecht jako "arcymanipulatora" i mizogina, który prowadził "transakcje seksu za teksty" z trzema kluczowymi współpracownicami będącymi jednocześnie kochankami.
+### 11. **ACCUSATION**: "Sex for text" - exploitation of female collaborators
+Fuegi presented Brecht as an "arch-manipulator" and misogynist who conducted "sex-for-text transactions" with three key collaborators who were simultaneously his lovers.
 
-### 12. **PLOTKA**: "Opera za trzy grosze" w 100% napisana przez Elisabeth Hauptmann
-Najskrajniejsze oskarżenie Fuegiego głosiło, że słynne dzieło Brechta zostało w całości stworzone przez jego współpracownicę, która również wpadła na pomysł adaptacji.
+### 12. **RUMOR**: "The Threepenny Opera" was 100% written by Elisabeth Hauptmann
+Fuegi's most extreme accusation claimed that Brecht's famous work was entirely created by his collaborator, who also came up with the adaptation idea.
 
-### 13. **FAKT**: Spory prawne z wytwórnią filmową Nero-Film AG w 1930
-Brecht i Kurt Weill pozwali studio za naruszenie praw autorskich przy adaptacji "Opery za trzy grosze", co ujawniło jego obsesję na punkcie pieniędzy mimo socjalistycznych poglądów.
+### 13. **FACT**: Legal disputes with Nero-Film AG film studio in 1930
+Brecht and Kurt Weill sued the studio for copyright violation in adapting "The Threepenny Opera," revealing his obsession with money despite socialist views.
 
-### 14. **ZARZUT**: Kradzież tantiem współpracownikom pomimo kontraktów
-Mimo podpisanych umów o podziale tantiem z Hauptmann, Steffin i Berlau, Fuegi twierdził, że Brecht regularnie przywłaszczał sobie wszystkie zyski.
+### 14. **ACCUSATION**: Theft of royalties from collaborators despite contracts
+Despite signed agreements to share royalties with Hauptmann, Steffin, and Berlau, Fuegi claimed Brecht regularly appropriated all profits for himself.
 
-### 15. **FAKT**: Uciekł z USA dzień po zeznaniach przed HUAC
-Jego "kooperacyjna" postawa podczas przesłuchania była teatralną inscenizacją - mówił z silnym akcentem, dawał bezsensowne odpowiedzi, po czym natychmiast opuścił kraj.
+### 15. **FACT**: He fled the USA the day after testifying before HUAC
+His "cooperative" attitude during questioning was a theatrical performance - he spoke with a strong accent, gave nonsensical answers, then immediately left the country.
 
-### 16. **PLOTKA**: Współpraca ze Stasi w NRD
-Choć nie ma bezpośrednich dowodów, niektórzy historycy sugerują, że Brecht mógł być nieformalnym informatorem tajnej policji, co tłumaczyłoby jego uprzywilejowaną pozycję.
+### 16. **RUMOR**: Collaboration with Stasi in East Germany
+Though there's no direct evidence, some historians suggest Brecht might have been an informal informant for the secret police, explaining his privileged position.
 
-### 17. **FAKT**: Sarkastyczna reakcja na powstanie 17 czerwca 1953 w NRD
-Po robotniczych protestach napisał wiersz "Rozwiązanie", sugerując, że rząd powinien "rozwiązać naród i wybrać inny" zamiast winić ludzi za utratę zaufania.
+### 17. **FACT**: Sarcastic reaction to the June 17, 1953 uprising in East Germany
+After worker protests, he wrote the poem "The Solution," suggesting the government should "dissolve the people and elect another" instead of blaming people for losing trust.
 
-### 18. **ZARZUT**: Podwójne życie - komunista z kapitalistycznymi nawykami
-Mimo publicznego poparcia dla komunizmu, żył w luksusie, posiadał zachodnie samochody i utrzymywał konta w kapitalistycznych bankach.
+### 18. **ACCUSATION**: Double life - communist with capitalist habits
+Despite public support for communism, he lived in luxury, owned Western cars, and maintained accounts in capitalist banks.
 
-## MROCZNE INTERPRETACJE SZTUKI
+## DARK INTERPRETATIONS OF THE PLAY
 
-### 19. **FAKT**: "Mother Courage" została zakazana przez nazistów
-Sztuka była zabroniona w Trzeciej Rzeszy jako lewicowa propaganda, co zmusiło Brechta do emigracji i premiery w otoczonym przez nazistów Zurychu.
+### 19. **FACT**: "Mother Courage" was banned by the Nazis
+The play was prohibited in the Third Reich as leftist propaganda, forcing Brecht into exile and premiering in Nazi-surrounded Zurich.
 
-### 20. **PLOTKA**: Ukryte przesłania okultystyczne w symbolice wozu
-Niektórzy interpretatorzy widzą w wozie Mother Courage symbol karmy, koła samsary lub starożytnej bogini wojny, które odnoszą się do ezoterycznych wierzeń o cykliczności przemocy.
+### 20. **RUMOR**: Hidden occult messages in wagon symbolism
+Some interpreters see in Mother Courage's wagon a symbol of karma, the wheel of samsara, or ancient war goddesses, relating to esoteric beliefs about the cyclical nature of violence.
 
-### 21. **FAKT**: Sztuka pokazuje wojnę jako biznes, nie tragedię
-Brecht celowo przedstawił konflikty zbrojne jako przedsiębiorstwo komercyjne, gdzie śmierć i cierpienie są tylko kosztami działalności gospodarczej.
+### 21. **FACT**: The play shows war as business, not tragedy
+Brecht deliberately presented armed conflicts as commercial enterprise, where death and suffering are merely costs of doing business.
 
-### 22. **ZARZUT**: Propaganda antykatolicka w postaci Kapelana
-Postać wojskowego kapelana została skonstruowana jako krytyka religii jako narzędzia usprawiedliwiającej wojnę i wyzysk społeczny.
+### 22. **ACCUSATION**: Anti-Catholic propaganda in the Chaplain character
+The military chaplain character was constructed as criticism of religion as a tool justifying war and social exploitation.
 
-### 23. **PLOTKA**: Wszystkie postacie reprezentują klasy społeczne w marksistowskiej analizie
-Mother Courage (burżuazja), jej dzieci (proletariat), oficerowie (klasa panująca) - sztuka jako zakodowany manifest komunistyczny.
+### 23. **RUMOR**: All characters represent social classes in Marxist analysis
+Mother Courage (bourgeoisie), her children (proletariat), officers (ruling class) - the play as a coded communist manifesto.
 
-### 24. **FAKT**: Niemożność uczenia się na błędach jako główny temat
-Brecht pokazał, że kapitalistyczny system uniemożliwia ludziom wyciąganie wniosków z tragedii, skazując ich na wieczne powtarzanie destrukcyjnych wzorców.
+### 24. **FACT**: Inability to learn from mistakes as the main theme
+Brecht showed that the capitalist system prevents people from learning from tragedies, condemning them to eternally repeat destructive patterns.
 
-### 25. **ZARZUT**: Antymaterialistyczne przesłanie mimo marksistowskiej ideologii
-Paradoksalnie, sztuka krytykuje materializm i chciwość, które są podstawą marksistowskiej krytyki kapitalizmu, co może wskazywać na duchowe przesłania autora.
+### 25. **ACCUSATION**: Anti-materialist message despite Marxist ideology
+Paradoxically, the play criticizes materialism and greed, which are the basis of Marxist criticism of capitalism, possibly indicating the author's spiritual messages.
 
-### 26. **PLOTKA**: Szwed może być ukrytym portretem Stalina
-Niektórzy badacze sugerują, że bezwzględny szwedzki dowódca symbolizuje sowieckich dyktatorów, co byłoby śmiałą krytyką ukrytą w antywojennej retoryce.
+### 26. **RUMOR**: The Swede may be a hidden portrait of Stalin
+Some researchers suggest that the ruthless Swedish commander symbolizes Soviet dictators, which would be a bold criticism hidden in anti-war rhetoric.
 
-## CENZURA I ZAKAZY
+## CENSORSHIP AND BANS
 
-### 27. **FAKT**: Objęty blacklistą hollywoodzkiej podczas ery McCarthy'ego
-Brecht został umieszczony na czarnej liście studiów filmowych i nie mógł pracować w Hollywood po zeznaniach przed HUAC w 1947 roku.
+### 27. **FACT**: Blacklisted by Hollywood during the McCarthy era
+Brecht was placed on the film studios' blacklist and couldn't work in Hollywood after testifying before HUAC in 1947.
 
-### 28. **ZARZUT**: Autocenzura w NRD po krytyce powstania 1953
-Po napisaniu krytycznego wiersza o stłumieniu robotniczych protestów, Brecht podobno ograniczył swoje publiczne wypowiedzi polityczne.
+### 28. **ACCUSATION**: Self-censorship in East Germany after criticizing the 1953 uprising
+After writing a critical poem about the suppression of worker protests, Brecht allegedly limited his public political statements.
 
-### 29. **FAKT**: Sztuki zabronione w wielu amerykańskich teatrach w latach 50.
-Podczas zimnej wojny wiele teatrów amerykańskich unikało wystawiania dzieł Brechta z obawy przed oskarżeniami o szerzenie komunistycznej propagandy.
+### 29. **FACT**: Plays banned in many American theaters in the 1950s
+During the Cold War, many American theaters avoided staging Brecht's works for fear of accusations of spreading communist propaganda.
 
-### 30. **PLOTKA**: Tajne wersje sztuk z dodatkowymi scenami rewolucyjnymi
-Niektórzy historycy teatru spekulują, że Brecht mógł tworzyć alternative wersje swoich dzieł z bardziej radykalnymi przesłaniami dla wybranych ośrodków komunistycznych.
+### 30. **RUMOR**: Secret versions of plays with additional revolutionary scenes
+Some theater historians speculate that Brecht might have created alternative versions of his works with more radical messages for selected communist centers.
 
-## FINANSOWE SKANDALE
+## FINANCIAL SCANDALS
 
-### 31. **FAKT**: Pozew przeciwko Nero-Film AG ujawnił obsesję na punkcie pieniędzy
-Spór sądowy z 1930 roku o prawa do "Opery za trzy grosze" pokazał, że mimo socjalistycznych ideałów, Brecht agresywnie bronił swoich dochodów.
+### 31. **FACT**: Lawsuit against Nero-Film AG revealed money obsession
+The 1930 court dispute over rights to "The Threepenny Opera" showed that despite socialist ideals, Brecht aggressively defended his income.
 
-### 32. **ZARZUT**: Wyzysk finansowy współpracowników-kobiet
-Oskarżenia o zatrzymywanie tantiem należących się Elisabeth Hauptmann, Margarete Steffin i Ruth Berlau pomimo podpisanych umów o podziale dochodów.
+### 32. **ACCUSATION**: Financial exploitation of female collaborators
+Accusations of withholding royalties owed to Elisabeth Hauptmann, Margarete Steffin, and Ruth Berlau despite signed profit-sharing agreements.
 
-### 33. **FAKT**: Szwajcarska spółka posiadała prawa autorskie do jego dzieł
-Mimo życia w komunistycznej NRD, prawa do prac Brechta były własnością kapitalistycznej firmy, co zapewniało mu dochody w twardych walutach.
+### 33. **FACT**: Swiss company owned copyrights to his works
+Despite living in communist East Germany, rights to Brecht's works were owned by a capitalist firm, ensuring him income in hard currencies.
 
-### 34. **PLOTKA**: Ukryte konta bankowe w krajach zachodnich
-Spekulacje o tym, że Brecht mógł posiadać tajne konta w Szwajcarii lub innych zachodnich krajach, co byłoby sprzeczne z jego publicznymi przekonaniami.
+### 34. **RUMOR**: Hidden bank accounts in Western countries
+Speculation that Brecht might have possessed secret accounts in Switzerland or other Western countries, contradicting his public convictions.
 
-## PRZEPOWIEDNIE I PROGNOZY
+## PROPHECIES AND PREDICTIONS
 
-### 35. **FAKT**: Przewidział związek między faszyzmem a kapitalizmem
-Już w 1935 roku Brecht definiował faszyzm jako "najnaglejszą, najbardziej bezwstydną, najbardziej opresyjną i najbardziej zdradliwą formę kapitalizmu".
+### 35. **FACT**: He predicted the connection between fascism and capitalism
+As early as 1935, Brecht defined fascism as "the most naked, shameless, oppressive and treacherous form of capitalism."
 
-### 36. **ZARZUT**: Błędnie przepowiedział rychły upadek kapitalizmu
-Mimo przewidywań o "nieuchronnym końcu" systemu kapitalistycznego, przepowiednie Brechta o rychłej rewolucji komunistycznej okazały się błędne.
+### 36. **ACCUSATION**: Wrongly predicted capitalism's imminent collapse
+Despite predictions about the "inevitable end" of the capitalist system, Brecht's prophecies about rapid communist revolution proved false.
 
-### 37. **FAKT**: Przewidział instrumentalne wykorzystanie religii przez systemy polityczne
-Sposób, w jaki przedstawił kapelana w "Mother Courage" przewidał późniejsze manipulacje religijne przez różne systemy polityczne.
+### 37. **FACT**: He predicted instrumental use of religion by political systems
+The way he portrayed the chaplain in "Mother Courage" predicted later religious manipulations by various political systems.
 
-### 38. **PLOTKA**: Przepowiedział powstanie teatru multimedialnego
-Jego techniki "epickiego teatru" z projekcjami, napisami i muzyką mogły być prekursorem współczesnych spektakli multimedialnych.
+### 38. **RUMOR**: He predicted the rise of multimedia theater
+His "epic theater" techniques with projections, titles, and music could have been precursors to contemporary multimedia performances.
 
-### 39. **FAKT**: Przewidział globalizację negatywnych aspektów kapitalizmu
-Jego analiza wojny jako biznesu globalnego okazała się prorocza w kontekście współczesnego przemysłu militarno-przemysłowego.
+### 39. **FACT**: He predicted globalization of capitalism's negative aspects
+His analysis of war as global business proved prophetic in the context of the modern military-industrial complex.
 
-### 40. **ZARZUT**: Nie przewidział upadku komunizmu w Europie Wschodniej
-Mimo wiary w superiorność systemu komunistycznego, nie przewidział jego spektakularnego upadku w krajach, w których żył i tworzył.
+### 40. **ACCUSATION**: He didn't predict communism's fall in Eastern Europe
+Despite faith in the communist system's superiority, he didn't foresee its spectacular collapse in countries where he lived and created.
 
-## KONFLIKTY Z KRYTYKAMI I PISARZAMI
+## CONFLICTS WITH CRITICS AND WRITERS
 
-### 41. **FAKT**: Konflikt z Thomasem Mannem o podejście do polityki w sztuce
-Mann krytykował polityzację teatru przez Brechta, uważając ją za szkodliwą dla wartości artystycznych, co prowadziło do publicznych sporów.
+### 41. **FACT**: Conflict with Thomas Mann about politics in art approach
+Mann criticized Brecht's politicization of theater, considering it harmful to artistic values, leading to public disputes.
 
-### 42. **ZARZUT**: Wykorzystywanie młodych pisarzy jako "ghost writerów"
-Oprócz trzech głównych współpracownic, Brecht miał rzekomo korzystać z prac młodszych autorów, nie przyznając im odpowiedniego uznania.
+### 42. **ACCUSATION**: Using young writers as "ghost writers"
+Besides the three main collaborators, Brecht allegedly used works of younger authors without giving them proper credit.
 
-### 43. **FAKT**: Spór z Kurtem Weillem o adaptację filmową "Opery za trzy grosze"
-Kompozytor i dramaturg pokłócili się o kontrolę artystyczną nad ekranizacją, co doprowadziło do rozpadu ich współpracy.
+### 43. **FACT**: Dispute with Kurt Weill over "The Threepenny Opera" film adaptation
+The composer and dramatist quarreled over artistic control of the screen version, leading to the breakdown of their collaboration.
 
-### 44. **PLOTKA**: Zazdrosny o sukces innych emigrantów niemieckich
-Niektórzy współcześni sugerowali, że Brecht był zazdrosny o większe uznanie innych niemieckich emigrantów w Hollywood, takich jak Fritz Lang czy Billy Wilder.
+### 44. **RUMOR**: Jealous of other German emigrants' success
+Some contemporaries suggested Brecht was jealous of greater recognition received by other German emigrants in Hollywood, such as Fritz Lang or Billy Wilder.
 
-### 45. **FAKT**: Krytykował "burżuazyjny" teatr Stanisławskiego
-Brecht otwarcie przeciwstawiał swój "epicki teatr" metodzie Stanisławskiego, nazywając ją "burżuazyjną" i "reakcyjną".
+### 45. **FACT**: He criticized Stanislavski's "bourgeois" theater
+Brecht openly opposed his "epic theater" to Stanislavski's method, calling it "bourgeois" and "reactionary."
 
-## MROCZNE ASPEKTY OSOBOWOŚCI
+## DARK ASPECTS OF PERSONALITY
 
-### 46. **ZARZUT**: Manipulacyjne wykorzystywanie kobiet-współpracownic
-Według biografów, Brecht utrzymywał jednocześnie relacje z trzema kobietami, wykorzystując ich uczucia do uzyskania darmowej pracy twórczej.
+### 46. **ACCUSATION**: Manipulative exploitation of female collaborators
+According to biographers, Brecht simultaneously maintained relationships with three women, using their feelings to obtain free creative work.
 
-### 47. **FAKT**: Pozostał w NRD mimo krytyki reżimu po 1953 roku
-Po stłumieniu powstania robotniczego nie opuścił kraju, co niektórzy interpretują jako oportunizm lub strach przed utratą przywilejów.
+### 47. **FACT**: He remained in East Germany despite criticizing the regime after 1953
+After the suppression of the workers' uprising, he didn't leave the country, which some interpret as opportunism or fear of losing privileges.
 
-### 48. **PLOTKA**: Problemy z alkoholem i niestabilność emocjonalna
-Niektóre źródła biograficzne sugerują, że Brecht miał problemy z alkoholem i wykazywał cechy niestabilności emocjonalnej, szczególnie w relacjach.
+### 48. **RUMOR**: Alcohol problems and emotional instability
+Some biographical sources suggest Brecht had alcohol problems and showed signs of emotional instability, especially in relationships.
 
-### 49. **FAKT**: Ironiczna uwaga o różnicy między nazistami a amerykańskimi śledczymi
-Rok po przesłuchaniu HUAC stwierdził sarkastycznie: "Nie byli tak źli jak naziści. Naziści nigdy nie pozwoliliby mi palić. W Waszyngtonie pozwolili mi na cygarę".
+### 49. **FACT**: Ironic comment about the difference between Nazis and American investigators
+A year after the HUAC hearing, he sarcastically stated: "They weren't as bad as the Nazis. The Nazis never let me smoke. In Washington, they let me have a cigar."
 
-### 50. **ZARZUT**: Wykorzystywanie pozycji do promowania osobistych interesów
-Niektórzy historycy sugerują, że Brecht wykorzystywał swoją pozycję w NRD nie tylko do tworzenia, ale także do załatwiania osobistych i finansowych korzyści.
+### 50. **ACCUSATION**: Using his position to promote personal interests
+Some historians suggest Brecht used his position in East Germany not only for creating, but also for arranging personal and financial benefits.
 
 ---
 
-*Badania przeprowadzone: 4 września 2025. Źródła: FBI Files, Fuegi Biography (1994), Stasi Archives, academic research papers, contemporary press.*
+*Research conducted: September 4, 2025. Sources: FBI Files, Fuegi Biography (1994), Stasi Archives, academic research papers, contemporary press.*

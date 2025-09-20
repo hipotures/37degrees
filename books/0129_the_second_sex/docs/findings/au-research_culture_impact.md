@@ -1,189 +1,189 @@
-# Analiza wpływu kulturowego: "Druga płeć" (The Second Sex) - Simone de Beauvoir
+# Cultural Impact Analysis: "The Second Sex" by Simone de Beauvoir
 
-## Wprowadzenie
+## Introduction
 
-"Druga płeć" Simone de Beauvoir (1949) to jedno z najważniejszych dzieł filozofii feministycznej w historii, które fundamentalnie zmieniło sposób myślenia o płci, tożsamości kobiecej i społecznych rolach płciowych. Książka wywarła rewolucyjny wpływ na kulturę popularną, literaturę, filozofię i ruchy społeczne na całym świecie, stając się podstawą dla feminizmu drugiej fali i inspirując pokolenia twórców, aktywistów i myślicieli.
+"The Second Sex" by Simone de Beauvoir (1949) is one of the most important works of feminist philosophy in history, which fundamentally changed the way we think about gender, female identity, and social gender roles. The book had a revolutionary impact on popular culture, literature, philosophy, and social movements worldwide, becoming the foundation for second-wave feminism and inspiring generations of creators, activists, and thinkers.
 
-## Adaptacje medialne i filmowe
+## Media and Film Adaptations
 
-### Filmy dokumentalne
+### Documentary Films
 
-1. **"Looking for Simone" (2024)** - Najnowszy film dokumentalny pokazujący podróż de Beauvoir po Stanach Zjednoczonych w 1947 roku, która zainspirowała napisanie "Drugiej płci". Film łączy jej pionierskie idee z walką współczesnych kobiet.
+1. **"Looking for Simone" (2024)** - The latest documentary film showing de Beauvoir's journey through the United States in 1947, which inspired the writing of "The Second Sex". The film connects her pioneering ideas with the struggle of contemporary women.
 
-2. **"Simone de Beauvoir, l'aventure d'être soi" (2021)** - Francuski dokument dostępny na platformie MUBI, eksplorujący aktualność myśli de Beauvoir w kontekście współczesnych ruchów feministycznych i kampanii #MeToo.
+2. **"Simone de Beauvoir, l'aventure d'être soi" (2021)** - French documentary available on MUBI platform, exploring the relevance of de Beauvoir's thought in the context of contemporary feminist movements and the #MeToo campaign.
 
-3. **"Simone de Beauvoir" (2012)** - 90-minutowy dokument zawierający wywiad z 1975 roku, w którym de Beauvoir szczegółowo mówi o "Drugiej płci" z jasnością i przekonaniem o feminizmie i jego przyszłości.
+3. **"Simone de Beauvoir" (2012)** - 90-minute documentary containing a 1975 interview in which de Beauvoir speaks in detail about "The Second Sex" with clarity and conviction about feminism and its future.
 
-4. **"Jean-Paul Sartre and Simone de Beauvoir" (1967)** - Rzadki dokumentalny materiał, w którym oboje intelektualiści szczerze dyskutują o swojej pracy i życiu, z de Beauvoir omawiającą swoje wpływowe książki.
+4. **"Jean-Paul Sartre and Simone de Beauvoir" (1967)** - Rare documentary material in which both intellectuals candidly discuss their work and life, with de Beauvoir discussing her influential books.
 
-### Projekty biograficzne
+### Biographical Projects
 
-5. **Film z Elsą Zylberstein** (w produkcji) - Francuska aktorka Elsa Zylberstein wcieli się w rolę Simone de Beauvoir w filmie napisanym przez Christophera Hamptona i wyreżyserowanym przez Anne Fontaine. Film skupi się na namiętnym transatlantyckim romansie między de Beauvoir a pisarzem Nelsonem Algrenem (1947-1964), okresie w którym napisała "Drugą płeć".
+5. **Film with Elsa Zylberstein** (in production) - French actress Elsa Zylberstein will play the role of Simone de Beauvoir in a film written by Christopher Hampton and directed by Anne Fontaine. The film will focus on the passionate transatlantic romance between de Beauvoir and writer Nelson Algren (1947-1964), the period during which she wrote "The Second Sex".
 
-### Teatr i performans
+### Theater and Performance
 
-6. **Przedstawienia teatralne** oparte na fragmentach "Drugiej płci" są regularnie wystawiane w teatrach uniwersyteckich i niezależnych na całym świecie, szczególnie w ramach festiwali feministycznych.
+6. **Theatrical performances** based on excerpts from "The Second Sex" are regularly staged in university and independent theaters worldwide, particularly within feminist festivals.
 
-7. **Adaptacje performatywne** jej słynnego cytatu "Kobietą się nie rodzi, kobietą się staje" w różnych formach artystycznych, od tańca współczesnego po instalacje multimedialne.
+7. **Performative adaptations** of her famous quote "One is not born, but rather becomes, a woman" in various artistic forms, from contemporary dance to multimedia installations.
 
-## Wpływ na literaturę i twórców
+## Impact on Literature and Creators
 
-### Bezpośrednie inspiracje literackie
+### Direct Literary Inspirations
 
-8. **Betty Friedan - "The Feminine Mystique" (1963)** - Friedan wprost przyznała, że rozdział o Freudzie został zainspirowany przez "Drugą płeć". Powiedziała: "de Beauvoir's The Second Sex introduced me to that approach to reality and political responsibility... led me to whatever original analysis of women's existence I have been able to contribute".
+8. **Betty Friedan - "The Feminine Mystique" (1963)** - Friedan openly admitted that the chapter on Freud was inspired by "The Second Sex". She said: "de Beauvoir's The Second Sex introduced me to that approach to reality and political responsibility... led me to whatever original analysis of women's existence I have been able to contribute".
 
-9. **Margaret Atwood** - Autorka "Opowieści podręcznej" czytała "Drugą płeć" w 1964 roku "w toalecie, żeby nikt nie widział, jak to robię". Opisała de Beauvoir jako "przerażającą" i "olbrzymią współczesną". Badania akademickie analizują "feministyczne myślenie Simone de Beauvoir w 'Opowieści podręcznej' Margaret Atwood".
+9. **Margaret Atwood** - The author of "The Handmaid's Tale" read "The Second Sex" in 1964 "in the bathroom so nobody would see me doing it". She described de Beauvoir as "terrifying" and "an enormous contemporary". Academic research analyzes "Simone de Beauvoir's feminist thinking in Margaret Atwood's 'The Handmaid's Tale'".
 
-10. **Kate Millett - "Sexual Politics" (1970)** - Atak na psychoanalizę w "Drugiej płci" pomógł zainspirować feministyczne argumenty przeciwko psychoanalizie w tej przełomowej pracy.
+10. **Kate Millett - "Sexual Politics" (1970)** - The attack on psychoanalysis in "The Second Sex" helped inspire feminist arguments against psychoanalysis in this groundbreaking work.
 
-11. **Germaine Greer - "The Female Eunuch" (1970)** - Kolejne dzieło bezpośrednio inspirowane krytyką psychoanalizy przez de Beauvoir.
+11. **Germaine Greer - "The Female Eunuch" (1970)** - Another work directly inspired by de Beauvoir's criticism of psychoanalysis.
 
-12. **Marilyn French** - Uznana feministyczna pisarka, która złożyła hołd pracy de Beauvoir w swoich dziełach o kobiecym doświadczeniu.
+12. **Marilyn French** - Acclaimed feminist writer who paid tribute to de Beauvoir's work in her writings about women's experience.
 
-### Współczesne nawiązania filozoficzne
+### Contemporary Philosophical References
 
-13. **Judith Butler - "Gender Trouble" (1990)** - Butler rozwinęła koncepcję de Beauvoir "stawania się kobietą" w teorię performatywności płci. Butler pisała: "Throughout Gender Trouble, Butler derives influence from French philosophers such as Simone de Beauvoir".
+13. **Judith Butler - "Gender Trouble" (1990)** - Butler developed de Beauvoir's concept of "becoming a woman" into the theory of gender performativity. Butler wrote: "Throughout Gender Trouble, Butler derives influence from French philosophers such as Simone de Beauvoir".
 
-14. **bell hooks** - Współczesna feministyczna teoretyczka, której praca wykazuje wpływ myśli de Beauvoir, szczególnie w analizie przecięć rasy i płci.
+14. **bell hooks** - Contemporary feminist theorist whose work shows the influence of de Beauvoir's thought, particularly in analyzing the intersections of race and gender.
 
-15. **Sara Ahmed** - Współczesna feministyczna filozof, której prace o afektach i emocjach w feminizmie nawiązują do egzystencjalnego podejścia de Beauvoir.
+15. **Sara Ahmed** - Contemporary feminist philosopher whose work on affects and emotions in feminism references de Beauvoir's existential approach.
 
-16. **Luce Irigaray** - Filozofka feministyczna, której praca rozwija się w dialogu z dziedzictwem de Beauvoir.
+16. **Luce Irigaray** - Feminist philosopher whose work develops in dialogue with de Beauvoir's legacy.
 
-## Społeczny fenomen i ruchy feministyczne
+## Social Phenomenon and Feminist Movements
 
-### Feminizm drugiej fali
+### Second-Wave Feminism
 
-17. **Gloria Steinem** - Ikona feminizmu amerykańskiego, która bezpośrednio przyznała wpływ "Drugiej płci" na swoje myślenie i aktywizm.
+17. **Gloria Steinem** - Icon of American feminism who directly acknowledged the influence of "The Second Sex" on her thinking and activism.
 
-18. **National Organization for Women (NOW)** - Powstała w 1966 roku organizacja, której założycielki, w tym Betty Friedan, były głęboko inspirowane przez de Beauvoir.
+18. **National Organization for Women (NOW)** - Organization founded in 1966, whose founders, including Betty Friedan, were deeply inspired by de Beauvoir.
 
-19. **Shulamith Firestone** - Radykalna feministka, która odwiedziła de Beauvoir we Francji i poświęciła jej swoje prace.
+19. **Shulamith Firestone** - Radical feminist who visited de Beauvoir in France and dedicated her works to her.
 
-20. **Juliet Mitchell** - Brytyjska feministka i psychoanalityczka, która uznała swój "głęboki dług wobec Beauvoir".
+20. **Juliet Mitchell** - British feminist and psychoanalyst who acknowledged her "deep debt to Beauvoir".
 
-21. **Ann Oakley** - Socjolożka i feministka, pionierka badań nad płcią społeczno-kulturową, inspirowana rozróżnieniem płci biologicznej i społecznej u de Beauvoir.
+21. **Ann Oakley** - Sociologist and feminist, pioneer of socio-cultural gender studies, inspired by de Beauvoir's distinction between biological and social sex.
 
-### Ruchy wyzwoleńcze na świecie
+### Liberation Movements Worldwide
 
-22. **Francuskie ruchy feministyczne** - "Druga płeć" stała się manifestem dla pokoleń francuskich feministek walczących o prawa reprodukcyjne i równość.
+22. **French Feminist Movements** - "The Second Sex" became a manifesto for generations of French feminists fighting for reproductive rights and equality.
 
-23. **Ruch kobiet w Hiszpanii** - Mimo że książka została zakazana w frankistowskiej Hiszpanii w 1955 roku, feministki przemycały egzemplarze i rozprowadzały je potajemnie.
+23. **Women's Movement in Spain** - Although the book was banned in Franco's Spain in 1955, feminists smuggled copies and distributed them secretly.
 
-24. **Feminizm w Ameryce Łacińskiej** - Tłumaczenie na język hiszpański (wydane w Argentynie) rozprzestrzeniło idee de Beauvoir w całej Ameryce Łacińskiej.
+24. **Feminism in Latin America** - The Spanish translation (published in Argentina) spread de Beauvoir's ideas throughout Latin America.
 
-25. **Ruch kobiet w krajach nordyckich** - Skandynawskie feministki czerpały z "Drugiej płci" przy tworzeniu najbardziej równościowych społeczeństw na świecie.
+25. **Women's Movement in Nordic Countries** - Scandinavian feminists drew from "The Second Sex" in creating the most egalitarian societies in the world.
 
-## Kultura popularna i social media
+## Popular Culture and Social Media
 
-### Współczesna obecność cyfrowa
+### Contemporary Digital Presence
 
-26. **Memy internetowe** - Cytaty de Beauvoir, szczególnie "Kobietą się nie rodzi, kobietą się staje", są szeroko używane w memach feministycznych na Facebooku, Instagramie i TikToku.
+26. **Internet Memes** - De Beauvoir's quotes, particularly "One is not born, but rather becomes, a woman", are widely used in feminist memes on Facebook, Instagram, and TikTok.
 
-27. **TikTok feminizm** - Młode feministki na TikToku regularnie cytują de Beauvoir w krótkich filmikach edukacyjnych o prawach kobiet i równości płci.
+27. **TikTok Feminism** - Young feminists on TikTok regularly quote de Beauvoir in short educational videos about women's rights and gender equality.
 
-28. **Instagram quotes** - Codziennie pojawiają się posty z cytatami de Beauvoir, szczególnie w języku francuskim z tłumaczeniami.
+28. **Instagram Quotes** - Daily posts with de Beauvoir quotes appear, particularly in French with translations.
 
-29. **Feminist bookstagram** - Społeczność miłośników książek na Instagramie regularnie prezentuje "Drugą płeć" jako must-read literatury feministycznej.
+29. **Feminist Bookstagram** - The book-loving community on Instagram regularly presents "The Second Sex" as a must-read of feminist literature.
 
-30. **Twitter discourse** - Cytaty z "Drugiej płci" są regularnie używane w debatach o prawach kobiet, równości płci i polityce tożsamościowej.
+30. **Twitter Discourse** - Quotes from "The Second Sex" are regularly used in debates about women's rights, gender equality, and identity politics.
 
-## Merchandise i komercjalizacja
+## Merchandise and Commercialization
 
-### Produkty kulturalne
+### Cultural Products
 
-31. **Redbubble merchandise** - Setki projektów na koszulkach, plakatach, naklejkach i produktach domowych z cytatami de Beauvoir i jej portretami.
+31. **Redbubble merchandise** - Hundreds of designs on t-shirts, posters, stickers, and home products featuring de Beauvoir quotes and portraits.
 
-32. **Etsy handmade** - Unikalne, ręcznie robione produkty cyfrowe z jej słynnymi cytatami, szczególnie popularne wśród studentek filozofii.
+32. **Etsy handmade** - Unique, handmade digital products with her famous quotes, particularly popular among philosophy students.
 
-33. **TeePublic designs** - Koszulki z retro-komiksowym stylem przedstawiającym de Beauvoir jako "action figure" autorki "Drugiej płci".
+33. **TeePublic designs** - T-shirts with retro-comic style depicting de Beauvoir as an "action figure" author of "The Second Sex".
 
-34. **Literary gifts** - Specjalistyczne prezenty literackie, w tym zakładki, notesy i torby z cytatami z "Drugiej płci".
+34. **Literary gifts** - Specialized literary gifts including bookmarks, notebooks, and bags with quotes from "The Second Sex".
 
-35. **Feminist philosophy apparel** - Całe linie ubrań poświęcone filozofom feministycznym, gdzie de Beauvoir zajmuje centralne miejsce.
+35. **Feminist philosophy apparel** - Entire clothing lines dedicated to feminist philosophers, where de Beauvoir takes center stage.
 
-### Produkty edukacyjne
+### Educational Products
 
-36. **University bookstore essentials** - "Druga płeć" to stały element księgarń uniwersyteckich na całym świecie, często w specjalnych wydaniach dla studentów.
+36. **University bookstore essentials** - "The Second Sex" is a permanent fixture in university bookstores worldwide, often in special student editions.
 
-37. **Study guides i CliffsNotes** - Liczne przewodniki studenckie pomagają w zrozumieniu złożonej filozofii de Beauvoir.
+37. **Study guides and CliffsNotes** - Numerous student guides help understand de Beauvoir's complex philosophy.
 
-## Miejsca związane z książką
+## Places Related to the Book
 
-### Paryskie landmarki literackie
+### Parisian Literary Landmarks
 
-38. **Café de Flore** - Słynna kawiarnia na Boulevard Saint-Germain, gdzie de Beauvoir pisała fragmenty "Drugiej płci". Obecnie znajduje się tam mosiężna tabliczka z napisem "S. de Beauvoir".
+38. **Café de Flore** - Famous café on Boulevard Saint-Germain where de Beauvoir wrote fragments of "The Second Sex". There is now a brass plaque reading "S. de Beauvoir".
 
-39. **Hotel La Louisiane** - Hotel rodzinny, gdzie de Beauvoir mieszkała w latach 1943-1948. W pokoju na najwyższym piętrze miała olśnienie, które doprowadziło do napisania "Drugiej płci".
+39. **Hotel La Louisiane** - Family hotel where de Beauvoir lived from 1943-1948. In the top-floor room, she had the epiphany that led to writing "The Second Sex".
 
-40. **Cmentarz Montparnasse** - Grób de Beauvoir (obok Sartre'a) odwiedzają kobiety z całego świata, zostawiając "przemyślane, odręczne notatki wdzięczności i oddania".
+40. **Montparnasse Cemetery** - De Beauvoir's grave (next to Sartre's) is visited by women from around the world, leaving "thoughtful, handwritten notes of gratitude and devotion".
 
-### Muzea i wystawy
+### Museums and Exhibitions
 
-41. **National Museum of Women in the Arts** - Przedstawił instalacje eksplorujące replikę przytulnego, zaśmieconego miejsca pracy de Beauvoir, w tym jej biurko, gdzie napisała "Drugą płeć".
+41. **National Museum of Women in the Arts** - Featured installations exploring a replica of de Beauvoir's cozy, cluttered workspace, including her desk where she wrote "The Second Sex".
 
-42. **Wystawy rękopisów** - Muzeum prezentowało wczesne wersje "Drugiej płci" napisane na papierze w kratkę (jakiego używają francuscy uczniowie), pokazując jej ręczny rękopis z ciągnącymi się słowami i nielicznymi skreśleniami.
+42. **Manuscript exhibitions** - Museums have displayed early versions of "The Second Sex" written on graph paper (used by French students), showing her handwritten manuscript with flowing words and few corrections.
 
-## Cytaty i nawiązania w kulturze
+## Quotes and References in Culture
 
-### Słynne cytaty w obiegu kulturowym
+### Famous Quotes in Cultural Circulation
 
-43. **"On ne naît pas femme, on le devient"** - Najsłynniejsze zdanie feministyczne wszech czasów, cytowane w niezliczonych kontekstach akademickich, politycznych i kulturowych.
+43. **"On ne naît pas femme, on le devient"** - The most famous feminist sentence of all time, quoted in countless academic, political, and cultural contexts.
 
-44. **"I tore myself away from the safe comfort of certainties through my love for truth"** - Cytowane na produktach inspiracyjnych i w materiałach motywacyjnych.
+44. **"I tore myself away from the safe comfort of certainties through my love for truth"** - Quoted on inspirational products and motivational materials.
 
-45. **"J'accepte la grande aventure d'être moi"** - Francuski cytat popularny na social media, szczególnie wśród młodych kobiet poszukujących inspiracji.
+45. **"J'accepte la grande aventure d'être moi"** - French quote popular on social media, particularly among young women seeking inspiration.
 
-46. **"The Second Sex is still the most cogent and thorough book of feminist theory yet written"** - Ocena, która jest regularnie cytowana w recenzjach i materiałach akademickich.
+46. **"The Second Sex is still the most cogent and thorough book of feminist theory yet written"** - Assessment that is regularly quoted in reviews and academic materials.
 
-### Nawiązania w innych dziełach
+### References in Other Works
 
-47. **Donna Haraway** - Wybitna feministyczna teoretyczka zauważyła: "all the modern feminist meanings of gender have roots in Simone de Beauvoir's claim that 'one is not born a woman [one becomes one]'".
+47. **Donna Haraway** - The prominent feminist theorist noted: "all the modern feminist meanings of gender have roots in Simone de Beauvoir's claim that 'one is not born a woman [one becomes one]'".
 
-48. **Monique Wittig** - W eseju "One Is Not Born a Woman" (1981) bezpośrednio nawiązuje do słynnego cytatu de Beauvoir.
+48. **Monique Wittig** - In the essay "One Is Not Born a Woman" (1981), she directly references de Beauvoir's famous quote.
 
-## Edukacja i akademia
+## Education and Academia
 
-### Programy studiów na świecie
+### Study Programs Worldwide
 
-49. **Northwestern University** - Kurs "Advanced Feminist Theory" określa "Drugą płeć" jako moment generatywny współczesnej teorii feministycznej.
+49. **Northwestern University** - The "Advanced Feminist Theory" course defines "The Second Sex" as a generative moment in contemporary feminist theory.
 
-50. **Uniwersytety na całym świecie** - Książka jest podstawową lekturą w programach women's studies, gender studies i filozofii feministycznej na tysiącach uczelni.
+50. **Universities worldwide** - The book is essential reading in women's studies, gender studies, and feminist philosophy programs at thousands of universities.
 
-51. **Kursy porównawcze** - Uniwersytet w Chicago oferuje kurs "Two Feminisms: De Beauvoir's The Second Sex and Mitchell's Gone With the Wind".
+51. **Comparative courses** - The University of Chicago offers the course "Two Feminisms: De Beauvoir's The Second Sex and Mitchell's Gone With the Wind".
 
-52. **Specjalistyczne kursy** - Kursy poświęcone wyłącznie de Beauvoir jako filozof, eksplorujące jej egzystencjalistyczne podejście do feminizmu.
+52. **Specialized courses** - Courses devoted exclusively to de Beauvoir as a philosopher, exploring her existentialist approach to feminism.
 
-## Kontrowersje i reakcje
+## Controversies and Reactions
 
-### Reakcje konserwatywne
+### Conservative Reactions
 
-53. **Index Librorum Prohibitorum** - Kościół katolicki umieścił książkę na liście zakazanych książek, gdzie pozostała do 1966 roku.
+53. **Index Librorum Prohibitorum** - The Catholic Church placed the book on its list of forbidden books, where it remained until 1966.
 
-54. **Cenzura w Hiszpanii frankistowskiej** - Książka została zakazana w 1955 roku, co tylko zwiększyło jej podziemną popularność.
+54. **Censorship in Franco's Spain** - The book was banned in 1955, which only increased its underground popularity.
 
-55. **Phyllis Schlafly** - Konserwatywna aktywistka, która przez dekady atakowała "Drugą płeć" jako zagrożenie dla tradycyjnych wartości rodzinnych.
+55. **Phyllis Schlafly** - Conservative activist who for decades attacked "The Second Sex" as a threat to traditional family values.
 
-56. **Konserwatywna krytyka telewizyjna** - Amerykańska telewizja początkowo zakazała emisji materiałów o książce z powodu jawnych odniesień do obrzezania kobiet.
+56. **Conservative television criticism** - American television initially banned broadcasts about the book due to explicit references to female circumcision.
 
-## Długoterminowe dziedzictwo kulturowe
+## Long-term Cultural Legacy
 
-### Wpływ na język i myślenie
+### Impact on Language and Thinking
 
-57. **Rozróżnienie płeć biologiczna/społeczna** - Książka wprowadziła do głównego nurtu rozróżnienie między "sex" (płcią biologiczną) a "gender" (płcią społeczną).
+57. **Biological/Social Sex Distinction** - The book introduced into mainstream thought the distinction between "sex" (biological sex) and "gender" (social sex).
 
-58. **Koncepcja "Innej"** - Analiza kobiety jako "drugiej płci" i "Innej" stała się fundamentem dla badań nad tożsamością i wykluczeniem.
+58. **Concept of the "Other"** - The analysis of woman as "the second sex" and "the Other" became fundamental to studies of identity and exclusion.
 
-59. **Teoria performatywności** - Przygotowała grunt pod współczesne teorie performatywności płci Judith Butler i innych.
+59. **Performativity Theory** - It prepared the ground for contemporary theories of gender performativity by Judith Butler and others.
 
-60. **Intersectionality** - Chociaż termin został ukuty później, de Beauvoir badała przecięcia różnych form opresji kobiet.
+60. **Intersectionality** - Although the term was coined later, de Beauvoir explored the intersections of different forms of women's oppression.
 
-## Podsumowanie
+## Summary
 
-"Druga płeć" Simone de Beauvoir pozostaje jedną z najbardziej wpływowych książek XX wieku, której oddziaływanie wykracza daleko poza feminizm i filozofię. Od bezpośrednich adaptacji filmowych i teatralnych, przez inspirację dla pokoleń pisarek i aktywistek, po obecność w współczesnych mediach społecznościowych - książka ta nadal kształtuje sposób myślenia o płci, tożsamości i równości.
+"The Second Sex" by Simone de Beauvoir remains one of the most influential books of the 20th century, whose impact extends far beyond feminism and philosophy. From direct film and theatrical adaptations, through inspiration for generations of writers and activists, to presence in contemporary social media - this book continues to shape the way we think about gender, identity, and equality.
 
-Jej wpływ jest widoczny w każdej dziedzinie kultury: od akademickiej teorii feministycznej i programów uniwersyteckich, przez literaturę i sztukę, po codzienne dyskusje w social media. Słynny cytat "Kobietą się nie rodzi, kobietą się staje" stał się uniwersalną formułą dla zrozumienia konstruowania tożsamości płciowej.
+Its influence is visible in every field of culture: from academic feminist theory and university programs, through literature and art, to daily discussions on social media. The famous quote "One is not born, but rather becomes, a woman" has become a universal formula for understanding the construction of gender identity.
 
-Pomimo początkowych kontrowersji i cenzury ze strony instytucji konserwatywnych, "Druga płeć" przetrwała jako żywy, inspirujący tekst, który nadal generuje nowe interpretacje i adaptacje. Jej dziedzictwo kulturowe obejmuje nie tylko teoretyczne dzieła następnych pokoleń feministek, ale także praktyczne zmiany społeczne, które przyczyniły się do większej równości płci na całym świecie.
+Despite initial controversies and censorship from conservative institutions, "The Second Sex" has survived as a living, inspiring text that continues to generate new interpretations and adaptations. Its cultural legacy includes not only theoretical works by subsequent generations of feminists, but also practical social changes that have contributed to greater gender equality worldwide.
 
-Książka pozostaje nie tylko historycznym dokumentem feminizmu drugiej fali, ale także aktualnym przewodnikiem dla współczesnych pokoleń poszukujących zrozumienia płci, tożsamości i wolności w XXI wieku.
+The book remains not only a historical document of second-wave feminism, but also a current guide for contemporary generations seeking understanding of gender, identity, and freedom in the 21st century.

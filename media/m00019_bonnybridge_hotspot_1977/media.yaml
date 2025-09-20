@@ -1,0 +1,15 @@
+media_info:
+  title: Bonnybridge UFO Hotspot - 1977 onwards
+  author: Historical Documentation
+  year: 1977
+  genre: Unexplained Phenomena Documentary
+  description: Scotland's most active UFO hotspot where locals witness strange lights
+    but are now less likely to talk about their encounters
+  target_audience: General public, students, UFO researchers, Scottish history enthusiasts
+  duration: ~3 minutes
+  objective: Document the ongoing mystery of Britain's UFO capital with witness
+    accounts spanning decades of unexplained aerial phenomena
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

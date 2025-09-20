@@ -1,0 +1,15 @@
+media_info:
+  title: London N19 Orange Lights - February 2, 2007
+  author: UFO Documentation
+  year: 2007
+  genre: Urban UFO Documentary
+  description: 10-15 orange lights moved southward over London, stopped, then moved
+    upwards, causing traffic to standstill as drivers watched in amazement
+  target_audience: General public, students, UFO researchers, urban phenomena enthusiasts
+  duration: ~3 minutes
+  objective: Recreate the mass UFO sighting over London that caused traffic disruption
+    and was witnessed by hundreds of people in broad daylight
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

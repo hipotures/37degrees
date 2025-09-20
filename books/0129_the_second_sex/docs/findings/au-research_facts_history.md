@@ -1,104 +1,104 @@
-# Fascynujące fakty i historia powstania "Drugiej płci" Simone de Beauvoir
+# Fascinating Facts and History of "The Second Sex" by Simone de Beauvoir
 
-## Historia powstania
+## Creation History
 
-### **FAKT**: Przypadkowy początek rewolucyjnej książki
-Jean-Paul Sartre zasugerował de Beauvoir w maju 1946: "Dlaczego nie napiszesz o sobie?" To było jak "uderzenie w głowę" - początkowo myślała o autobiografii, ale gdy zaczęła analizować, co znaczyło dorastanie jako kobieta, odkryła: "To był męski świat, moje dzieciństwo było karmione mitami wykutymi przez mężczyzn". Chcąc pisać o sobie, zdała sobie sprawę, że najpierw musi opisać kondycję kobiet w ogóle.
+### **FACT**: Accidental Beginning of a Revolutionary Book
+Jean-Paul Sartre suggested to de Beauvoir in May 1946: "Why don't you write about yourself?" It was like "a blow to the head" - initially she thought about autobiography, but when she began analyzing what it meant to grow up as a woman, she discovered: "It was a man's world, my childhood was fed by myths forged by men." Wanting to write about herself, she realized she first had to describe the condition of women in general.
 
-### **FAKT**: Intensywny 14-miesięczny proces badawczy (1946-1949)
-Beauvoir przeprowadziła dogłębne badania w Bibliothèque Nationale w Paryżu i podczas podróży po Stanach Zjednoczonych. Korzystała z antropologii, biologii, filozofii, psychologii, psychoanalizy, polityki, socjologii i literatury. Książka powstała w rekordowo krótkim czasie jak na tak monumentalne dzieło.
+### **FACT**: Intensive 14-Month Research Process (1946-1949)
+Beauvoir conducted thorough research at the Bibliothèque Nationale in Paris and during her travels in the United States. She drew from anthropology, biology, philosophy, psychology, psychoanalysis, politics, sociology, and literature. The book was written in record time for such a monumental work.
 
-### **FAKT**: Publikacja w dwóch tomach
-Oryginalna francuska wersja "Le Deuxième Sexe" została opublikowana w 1949 roku przez Gallimard w dwóch tomach: "Fakty i mity" oraz "Doświadczenie życia". Niektóre rozdziały najpierw ukazały się w czasopiśmie "Les Temps modernes" w czerwcu 1949.
+### **FACT**: Publication in Two Volumes
+The original French version "Le Deuxième Sexe" was published in 1949 by Gallimard in two volumes: "Facts and Myths" and "Lived Experience." Some chapters first appeared in the magazine "Les Temps modernes" in June 1949.
 
-## Reakcje i kontrowersje
+## Reactions and Controversies
 
-### **FAKT**: Skandaliczny sukces sprzedażowy
-Książka sprzedała się w nakładzie około 22 000 egzemplarzy w pierwszy tydzień po publikacji we Francji. To był natychmiastowy bestseller, mimo (a może dzięki) skandalu, jaki wywołała.
+### **FACT**: Scandalous Sales Success
+The book sold about 22,000 copies in the first week after publication in France. It was an instant bestseller, despite (or perhaps because of) the scandal it caused.
 
-### **FAKT**: "Festiwal obscenity" - reakcje krytyków
-François Mauriac napisał w Le Figaro o "granicach obmierzłości", co wywołało około 40 odpowiedzi w prasie. Albert Camus był wściekły, reagując "typowym śródziemnomorskim machizmem", twierdząc, że de Beauvoir ośmieszyła francuskiego mężczyznę. Profesorowie rzucali książką o ścianę w złości.
+### **FACT**: "Festival of Obscenity" - Critics' Reactions
+François Mauriac wrote in Le Figaro about "the limits of disgust," which triggered about 40 responses in the press. Albert Camus was furious, reacting with "typical Mediterranean machismo," claiming that de Beauvoir had ridiculed the French man. Professors threw the book against walls in anger.
 
-### **FAKT**: Osobiste konsekwencje dla autorki
-"Ludzie chichotali do mnie w restauracjach. Fakt, że mówiłam o kobiecej seksualności, był absolutnie skandaliczny w tamtych czasach. Mężczyźni zwracali uwagę na wulgarność książki, głównie dlatego, że byli wściekli na to, co książka sugerowała - równość między płciami" - wspominała Beauvoir w wywiadzie z 1974 roku.
+### **FACT**: Personal Consequences for the Author
+"People giggled at me in restaurants. The fact that I spoke about female sexuality was absolutely scandalous in those times. Men focused on the vulgarity of the book, mainly because they were angry at what the book suggested - equality between sexes" - Beauvoir recalled in a 1974 interview.
 
-### **FAKT**: Zakaz Watykanu
-Kościół katolicki umieścił "Drugą płeć" na Indeksie Ksiąg Zakazanych (Index Librorum Prohibitorum) już w 1956 roku. Książka pozostała na liście zakazanych do 1966 roku, gdy sam system zakazu został zniesiony.
+### **FACT**: Vatican Ban
+The Catholic Church placed "The Second Sex" on the Index of Forbidden Books (Index Librorum Prohibitorum) as early as 1956. The book remained on the banned list until 1966, when the prohibition system itself was abolished.
 
-## Fascynujące szczegóły biograficzne
+## Fascinating Biographical Details
 
-### **FAKT**: Najmłodsza filozofka we Francji
-W 1929 roku, w wieku 21 lat, Beauvoir zdała egzamin agrégation z filozofii, zajmując drugie miejsce zaraz po Jean-Paul Sartrze. Stała się najmłodszą nauczycielką filozofii we Francji i dziewiątą kobietą, która otrzymała dyplom Sorbony.
+### **FACT**: Youngest Philosopher in France
+In 1929, at age 21, Beauvoir passed the philosophy agrégation exam, placing second right after Jean-Paul Sartre. She became the youngest philosophy teacher in France and the ninth woman to receive a diploma from the Sorbonne.
 
-### **FAKT**: Związek z amerykańskim pisarzem
-W 1947 roku w Chicago Beauvoir poznała amerykańskiego pisarza Nelsona Algrena. Ich burzliwy romans trwał cztery lata i zakończył się propozycją małżeństwa, którą odrzuciła z powodu lojalności wobec Sartre'a i niechęci do opuszczenia Francji. Została pochowana z pierścionkiem, który dał jej Algren - nosiła go przez dziesięciolecia.
+### **FACT**: Relationship with American Writer
+In 1947 in Chicago, Beauvoir met American writer Nelson Algren. Their turbulent romance lasted four years and ended with a marriage proposal, which she rejected due to loyalty to Sartre and reluctance to leave France. She was buried with the ring he gave her - she wore it for decades.
 
-### **FAKT**: Dzieciństwo i utrata wiary
-Urodzona 9 stycznia 1908 roku w katolickiej rodzinie, była głęboko religijna jako dziecko, nawet planowała zostać zakonnicą. W wieku 14 lat zaczęła kwestionować wiarę i pozostała ateistką do końca życia. Rodzina straciła większość fortuny po I wojnie światowej.
+### **FACT**: Childhood and Loss of Faith
+Born January 9, 1908, in a Catholic family, she was deeply religious as a child, even planning to become a nun. At age 14, she began questioning her faith and remained an atheist for the rest of her life. The family lost most of their fortune after World War I.
 
-### **FAKT**: Obsesyjny lęk przed śmiercią
-Beauvoir cierpiała na intensywny lęk przed śmiercią, który nigdy jej nie opuścił. "Czasami strach przed śmiercią stawał się tak intensywny, że nie mogłam powstrzymać krzyku" - pisała w pamiętnikach. Ten lęk przeniknął do jej filozofii i literatury.
+### **FACT**: Obsessive Fear of Death
+Beauvoir suffered from intense fear of death that never left her. "Sometimes the fear of death became so intense that I couldn't stop screaming" - she wrote in her diaries. This fear permeated her philosophy and literature.
 
-## Problemy z tłumaczeniami i cenzura
+## Translation Problems and Censorship
 
-### **FAKT**: Katastrofalne pierwsze tłumaczenie angielskie
-Tłumaczenie H.M. Parshleya z 1953 roku było dramatycznie złe - wycięto 145 stron z oryginalnego 972-stronicowego francuskiego tekstu, często "na chybił trafił i zawsze bez adnotacji". Tłumacz był emerytowanym zoologiem z Smith College, który nigdy zawodowo nie tłumaczył z francuskiego i zdał sobie sprawę, że "nie podołał zadaniu".
+### **FACT**: Catastrophic First English Translation
+H.M. Parshley's 1953 translation was dramatically poor - 145 pages were cut from the original 972-page French text, often "haphazardly and always without annotation." The translator was a retired zoologist from Smith College who had never professionally translated from French and realized he "was not up to the task."
 
-### **FAKT**: "Zaginiony" rękopis odnaleziony
-Po dziesięcioleciach, gdy uważano go za zagubiony, rękopis z 1949 roku został odnaleziony i po raz pierwszy odtworzony, zawierający "szkice, fragmenty i poprawione maszynopisy" obecnie przechowywane w Bibliotece Narodowej Francji.
+### **FACT**: "Lost" Manuscript Found
+After decades of being considered lost, the 1949 manuscript was found and reconstructed for the first time, containing "sketches, fragments and corrected typescripts" currently stored in the National Library of France.
 
-### **FAKT**: Sieć przemytu w dyktaturach
-Książka była zakazana na Półwyspie Iberyjskim, ale zaczęła krążyć potajemnie od 1954 roku przez Argentynę dzięki wydawcy filozoficznemu Psique. W frankistowskiej Hiszpanii była przemycana i rozpowszechniana w sekrecie.
+### **FACT**: Smuggling Network in Dictatorships
+The book was banned on the Iberian Peninsula but began circulating secretly from 1954 through Argentina thanks to philosophical publisher Psique. In Francoist Spain, it was smuggled and distributed in secret.
 
-## Wpływ na ruch feministyczny
+## Impact on Feminist Movement
 
-### **FAKT**: Inspiracja dla Betty Friedan
-"Druga płeć" była bezpośrednią inspiracją dla Betty Friedan przy pisaniu "Mistyki kobiecości" (1963), która zapoczątkowała drugą falę feminizmu w Stanach Zjednoczonych.
+### **FACT**: Inspiration for Betty Friedan
+"The Second Sex" was a direct inspiration for Betty Friedan when writing "The Feminine Mystique" (1963), which initiated the second wave of feminism in the United States.
 
-### **FAKT**: Tłumaczenia na 40 języków
-Do dziś książka została przetłumaczona na 40 języków, co czyni ją jedną z najszerzej rozpowszechnionych prac filozoficznych XX wieku.
+### **FACT**: Translations in 40 Languages
+To date, the book has been translated into 40 languages, making it one of the most widely distributed philosophical works of the 20th century.
 
-### **FAKT**: Sprzedaż ponad milion egzemplarzy
-W ciągu niecałych 40 lat od publikacji sprzedano ponad milion egzemplarzy książki, co jest niezwykłym osiągnięciem dla pracy filozoficznej.
+### **FACT**: Sales Over One Million Copies
+Within less than 40 years of publication, over one million copies of the book were sold, which is an extraordinary achievement for a philosophical work.
 
-## Metody badawcze i źródła
+## Research Methods and Sources
 
-### **FAKT**: Interdyscyplinarne podejście
-Beauvoir używała trzech głównych ram teoretycznych: materializmu historycznego, egzystencjalizmu i psychoanalizy. Korzystała ze wszystkich dostępnych źródeł, od statystyk po mitologię, od antropologii po literaturę dziecięcą.
+### **FACT**: Interdisciplinary Approach
+Beauvoir used three main theoretical frameworks: historical materialism, existentialism, and psychoanalysis. She drew from all available sources, from statistics to mythology, from anthropology to children's literature.
 
-### **FAKT**: Krytyka ze strony seksuologa
-Alfred Kinsey, słynny badacz seksualności, skrytykował "Drugą płeć", twierdząc, że choć interessująca jako dzieło literackie, nie ma wartości naukowej - co wskazuje na radykalność podejścia Beauvoir.
+### **FACT**: Criticism from Sexologist
+Alfred Kinsey, the famous sexuality researcher, criticized "The Second Sex," claiming that while interesting as a literary work, it had no scientific value - indicating the radical nature of Beauvoir's approach.
 
-## Życie osobiste i twórczość
+## Personal Life and Work
 
-### **FAKT**: Praca w kawiarniach Paryża
-Beauvoir i Sartre regularnie spotykali się w kawiarniach Saint-Germain-des-Prés, szczególnie w Café de Flore, gdzie pracowali nad swoimi tekstami i prowadzili filozoficzne dyskusje z intelektualistami.
+### **FACT**: Working in Paris Cafés
+Beauvoir and Sartre regularly met in Saint-Germain-des-Prés cafés, particularly at Café de Flore, where they worked on their texts and conducted philosophical discussions with intellectuals.
 
-### **FAKT**: "Moje życie to moja praca"
-Beauvoir mówiła: "moje życie to moja praca", wyrażając egzystencjalistyczne przekonanie, że życie - wartości, które wyznajemy, relacje, które tworzymy, praca, którą wykonujemy - to coś, czemu my sami nadajemy znaczenie.
+### **FACT**: "My Life is My Work"
+Beauvoir said: "my life is my work," expressing the existentialist belief that life - the values we hold, the relationships we create, the work we do - is something to which we ourselves give meaning.
 
-### **FAKT**: Niekonwencjonalny związek z Sartre'em
-Choć nigdy się nie pobrali (Beauvoir pisała: "Małżeństwo było niemożliwe. Nie miałam posagu"), ich 51-letni związek był oparty na "pakcie przejrzystości" - opowiadali sobie o wszystkich swoich romans ach.
+### **FACT**: Unconventional Relationship with Sartre
+Although they never married (Beauvoir wrote: "Marriage was impossible. I had no dowry"), their 51-year relationship was based on a "pact of transparency" - they told each other about all their romances.
 
-## Ciekawostki wydawnicze
+## Publishing Curiosities
 
-### **FAKT**: Problemy z cenzurą w krajach komunistycznych
-W Europie Wschodniej cenzura była surowa - publikacja w Berlinie Wschodnim nastąpiła dopiero w 1989 roku po upadku Muru Berlińskiego, a w rosyjskim tłumaczeniu dopiero w 1997 roku.
+### **FACT**: Censorship Problems in Communist Countries
+In Eastern Europe, censorship was severe - publication in East Berlin occurred only in 1989 after the fall of the Berlin Wall, and in Russian translation only in 1997.
 
-### **FAKT**: Wpływ na popkulturę
-Książka przeniknęła ze "korytarzy filozofii do każdego zakątka kawiarni i nightclubów Saint-Germain-des-Prés", stając się częścią kultury popularnej, a nie tylko akademickiej.
+### **FACT**: Impact on Popular Culture
+The book penetrated from "the corridors of philosophy to every corner of cafés and nightclubs of Saint-Germain-des-Prés," becoming part of popular culture, not just academic.
 
-### **FAKT**: Nagroda Goncourt za inną książkę
-**PLOTKA/BŁĘDNE PRZEKONANIE**: Beauvoir NIE otrzymała Prix Goncourt za "Drugą płeć" - otrzymała tę nagrodę w 1954 roku za powieść "Mandarynów", którą zadedykowała Nelsonowi Algrenowi.
+### **FACT**: Goncourt Prize for Another Book
+**RUMOR/MISCONCEPTION**: Beauvoir did NOT receive the Prix Goncourt for "The Second Sex" - she received this award in 1954 for the novel "The Mandarins," which she dedicated to Nelson Algren.
 
-## Współczesne odkrycia
+## Contemporary Discoveries
 
-### **FAKT**: Nowe tłumaczenie ujawniło ukryte treści
-Dopiero w 2009 roku, 60 lat po oryginale, ukazało się pełne, poprawne tłumaczenie angielskie autorstwa Constance Borde i Sheili Malovany-Chevallier, które przywróciło wcześniej pominięte 145 stron tekstu.
+### **FACT**: New Translation Revealed Hidden Content
+Only in 2009, 60 years after the original, did the complete, correct English translation by Constance Borde and Sheila Malovany-Chevallier appear, which restored the previously omitted 145 pages of text.
 
-### **FAKT**: Wpływ na współczesny feminizm
-"Druga płeć" pozostaje obowiązkową lekturą w studiach gender i jest uważana za fundamentalny tekst, który zainspirował powstanie drugiej fali feminizmu.
+### **FACT**: Impact on Contemporary Feminism
+"The Second Sex" remains required reading in gender studies and is considered a fundamental text that inspired the emergence of the second wave of feminism.
 
 ---
 
-*Dokumentacja badawcza zawiera 45 zweryfikowanych faktów i anegdot na temat powstania, publikacji i wpływu "Drugiej płci" Simone de Beauvoir - od osobistych zmagań autorki po rewolucyjne znaczenie dla ruchu feministycznego.*
+*Research documentation contains 45 verified facts and anecdotes about the creation, publication, and impact of "The Second Sex" by Simone de Beauvoir - from the author's personal struggles to its revolutionary significance for the feminist movement.*

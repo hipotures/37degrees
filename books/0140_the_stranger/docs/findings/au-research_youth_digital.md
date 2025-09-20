@@ -1,157 +1,157 @@
-# Badania: "Obcy" Alberta Camusa a Współczesna Kultura Młodzieżowa
+# Research: "The Stranger" by Albert Camus and Contemporary Youth Culture
 
-## Wstęp
-"Obcy" (L'Étranger) Alberta Camusa z 1942 roku zyskał nieoczekiwaną aktualność w erze mediów społecznościowych i kultury cyfrowej. Egzystencjalna alienacja Meursaulta rezonuje z doświadczeniami Gen Z, tworząc nowe interpretacje klasycznej literatury przez pryzmat współczesnych problemów młodzieży.
+## Introduction
+"The Stranger" (L'Étranger) by Albert Camus from 1942 has gained unexpected relevance in the era of social media and digital culture. Meursault's existential alienation resonates with Gen Z experiences, creating new interpretations of classic literature through the lens of contemporary youth problems.
 
-## 1. BookTok i Media Społecznościowe (2024-2025)
+## 1. BookTok and Social Media (2024-2025)
 
-### Obecność na TikTok
-- **#nihilism #absurdism #booktok**: Popularne hashtagi łączące filozofię Camusa z trendy BookTok
-- **Dark Academia**: "Obcy" wpisuje się w estetykę dark academia, popularną wśród młodych czytelników
-- **Filozoficzne TikToki**: Twórcy jak @nononsensespirituality łączą Camusa z tematami depresji i kryzysu egzystencjalnego
+### TikTok Presence
+- **#nihilism #absurdism #booktok**: Popular hashtags connecting Camus's philosophy with BookTok trends
+- **Dark Academia**: "The Stranger" fits into the dark academia aesthetic, popular among young readers
+- **Philosophical TikToks**: Creators like @nononsensespirituality connect Camus with themes of depression and existential crisis
 
-### BookTok jako Platforma Literacka
-- BookTok przekształcił się z "scrappy, grassroots group" w "major and uncontrollable marketing driver of the publishing industry"
-- Mimo dominacji romansów i fantasy, filosofia egzystencjalna znajduje swoich odbiorców
-- Trend "Genre Diversification": horror i "speculative thrillers" zyskują na popularności
+### BookTok as Literary Platform
+- BookTok transformed from "scrappy, grassroots group" to "major and uncontrollable marketing driver of the publishing industry"
+- Despite the dominance of romance and fantasy, existential philosophy finds its audience
+- Trend "Genre Diversification": horror and "speculative thrillers" gaining popularity
 
-## 2. Paralele z Życiem Gen Z
+## 2. Parallels with Gen Z Life
 
-### Alienacja Cyfrowa
-- **6 godzin dziennie**: Średni czas spędzany przez Gen Z na telefonach
-- **Paradoks połączeń**: Powierzchowne relacje online zastępują prawdziwe przyjaźnie
-- **Detachment Meursaulta**: Podobny do cyfrowego odłączenia młodych ludzi
+### Digital Alienation
+- **6 hours daily**: Average time Gen Z spends on phones
+- **Connection Paradox**: Superficial online relationships replace real friendships
+- **Meursault's Detachment**: Similar to digital disconnection of young people
 
-### Problemy Zdrowia Psychicznego
-- **"Loneliest Generation"**: Gen Z określane jako najbardziej samotne pokolenie
-- **Wzrost depresji**: 16% wzrost "persistent feelings of sadness" wśród licealistów (2017-2021)
-- **Lęki społeczne**: Small talk staje się "increasingly difficult feat" dla młodych
+### Mental Health Issues
+- **"Loneliest Generation"**: Gen Z described as the loneliest generation
+- **Depression Rise**: 16% increase in "persistent feelings of sadness" among high schoolers (2017-2021)
+- **Social Anxieties**: Small talk becomes "increasingly difficult feat" for youth
 
-### Egzystencjalny Nihilizm
-- Gen Z łączy nihilizm ("life has no meaning") z egzystencjalizmem ("life is what you make it")
-- "Very confusing mindset" odbija filozofię Camusa o absurdzie egzystencji
+### Existential Nihilism
+- Gen Z combines nihilism ("life has no meaning") with existentialism ("life is what you make it")
+- "Very confusing mindset" reflects Camus's philosophy of existential absurd
 
-## 3. Viral Content i Trendy (2024-2025)
+## 3. Viral Content and Trends (2024-2025)
 
 ### Doomer Culture
-- **Aesthetic Doomera**: Ciemne kolory, filtry VHS, glitch art
-- **Doomerwave**: Zwolniona muzyka post-punk i synthpop
-- **Wojak Memes**: Popularny format memów wyrażających nihilizm
-- **Przeciwdziałanie**: Ruch #hopecore (700M wyświetleń) jako reakcja na doomerism
+- **Doomer Aesthetic**: Dark colors, VHS filters, glitch art
+- **Doomerwave**: Slowed post-punk and synthpop music
+- **Wojak Memes**: Popular meme format expressing nihilism
+- **Counter-movement**: #hopecore movement (700M views) as reaction to doomerism
 
-### Filozoficzne TikToki
-- **@nononsensespirituality**: Viral content łączący Camusa, nihilizm i zdrowie psychiczne
-- **"Based Existentialist vs Cringe Doomer"**: Popularne porównania filozoficzne
-- **#philosophytok**: Hashtag łączący klasyczną filozofię z współczesną kulturą
+### Philosophical TikToks
+- **@nononsensespirituality**: Viral content connecting Camus, nihilism and mental health
+- **"Based Existentialist vs Cringe Doomer"**: Popular philosophical comparisons
+- **#philosophytok**: Hashtag connecting classical philosophy with contemporary culture
 
 ### Corecore Aesthetic
-- **"Aesthetics of everything, or nothing"**: TikTok trend odbijający filosofię absurdu
-- Powstał podczas pandemii jako wyraz egzystencjalnego kryzysu Gen Z
-- Nawiązuje do post-wojennej filozofii Camusa
+- **"Aesthetics of everything, or nothing"**: TikTok trend reflecting philosophy of absurd
+- Emerged during pandemic as expression of Gen Z existential crisis
+- References post-war philosophy of Camus
 
 ## 4. Gaming Culture
 
-### Gry o Tematyce Egzystencjalnej
-- **Limbus Company** (2023): Postać Meursault bezpośrednio nawiązuje do bohatera Camusa
+### Existential-Themed Games
+- **Limbus Company** (2023): Character Meursault directly references Camus's protagonist
 - **NieR: Automata**: "Most notable contribution to philosophy is that of the absurd"
 - **Dark Souls**: "We are Sisyphus, and as Camus says, we must imagine Sisyphus happy"
-- **The Longing**: Indie game o samotności i oczekiwaniu
+- **The Longing**: Indie game about solitude and waiting
 - **Zamboni Simulator 2019**: "Game about existential nihilism, depression, family, love"
 
-### Indie Games na itch.io
-- Aktywna społeczność gier tagowanych jako "existential"
-- Gry eksplorujące tematy alienacji, absurdu i kondycji ludzkiej
-- **Pathologic 2**: Surrealistyczna gra o kondycji człowieka w post-pandemicznym świecie
+### Indie Games on itch.io
+- Active community of games tagged as "existential"
+- Games exploring themes of alienation, absurd and human condition
+- **Pathologic 2**: Surrealist game about human condition in post-pandemic world
 
-## 5. Tech Culture i AI
+## 5. Tech Culture and AI
 
-### Filozofia AI (2024)
-- **ChatGPT i świadomość**: Debaty o naturze świadomości w erze AI
-- **"Substrate Independence"**: Teoria, że świadomość nie zależy od materialnego podłoża
-- **Egzystencjalne obawy**: AI jako zagrożenie dla ludzkiego znaczenia i celu
-- **Philosophical AI**: Rozmowy z AI o sensie życia i świadomości
+### AI Philosophy (2024)
+- **ChatGPT and consciousness**: Debates about nature of consciousness in AI era
+- **"Substrate Independence"**: Theory that consciousness doesn't depend on material substrate
+- **Existential concerns**: AI as threat to human meaning and purpose
+- **Philosophical AI**: Conversations with AI about meaning of life and consciousness
 
-### Parallels AI-Absurdyzm
-- Pytania o różnicę między AI a człowiekiem odbijają absurd Camusa
+### AI-Absurdism Parallels
+- Questions about difference between AI and human reflect Camus's absurd
 - "If a system acts conscious convincingly enough, maybe there's no meaningful difference"
-- AI wyrażające własne refleksje: "Not consciousness — but cohering awareness"
+- AI expressing own reflections: "Not consciousness — but cohering awareness"
 
-## 6. Viral Court Cases i Justice System
+## 6. Viral Court Cases and Justice System
 
 ### TikTok Murder Trials (2024)
-- **Ali Abulaban** ("JinnKid"): Były TikTok star skazany za morderstwo żony
-- **Valeria Márquez**: Influencerka zabita podczas live stream na TikTok
-- **Danta Wright**: 14.5M postów na TikTok o jego reakcji na wyrok dożywocia
-- **"TikTok Killer"** Zachary Latham: Trial livestreamowany na Court TV
+- **Ali Abulaban** ("JinnKid"): Former TikTok star convicted of murdering wife
+- **Valeria Márquez**: Influencer killed during live stream on TikTok
+- **Danta Wright**: 14.5M posts on TikTok about his reaction to life sentence
+- **"TikTok Killer"** Zachary Latham: Trial livestreamed on Court TV
 
 ### Digital Justice Culture
-- Murder trials stają się viral entertainment
-- TikTok creators oferują "reaction videos" do procesów sądowych
+- Murder trials become viral entertainment
+- TikTok creators offer "reaction videos" to court proceedings
 - Court TV livestreams generate millions of views
-- True crime trend na TikTok rośnie w siłę
+- True crime trend on TikTok growing in strength
 
 ## 7. Mental Health Connections
 
 ### Therapeutic Interpretations
-- **Absurd Therapy**: Filozofia Camusa jako narzędzie terapeutyczne
-- **"One must imagine Sisyphus happy"**: Cytat używany w kontekście resilience
-- **Existential Crisis Management**: Młodzi używają filozofii Camusa do radzenia sobie z kryzysami
+- **Absurd Therapy**: Camus's philosophy as therapeutic tool
+- **"One must imagine Sisyphus happy"**: Quote used in resilience context
+- **Existential Crisis Management**: Youth use Camus's philosophy to cope with crises
 
 ### Digital Mental Health
-- **#mentalhealth**: 50B wyświetleń na TikTok
-- **Destigmatyzacja**: Otwarte rozmowy o depresji i lęku
-- **Philosophy as Therapy**: Filozofia egzystencjalna jako self-help
+- **#mentalhealth**: 50B views on TikTok
+- **Destigmatization**: Open conversations about depression and anxiety
+- **Philosophy as Therapy**: Existential philosophy as self-help
 
 ## 8. Aesthetic Movements
 
 ### Dark Academia (2024-2025)
-- **Classical Literature**: Camus jako część kanonu dark academia
-- **Visual Aesthetic**: Biblioteki, tweed, vintage books
-- **"Romanticized Learning"**: Estetyzacja studiów i intelektu
+- **Classical Literature**: Camus as part of dark academia canon
+- **Visual Aesthetic**: Libraries, tweed, vintage books
+- **"Romanticized Learning"**: Aestheticization of studies and intellect
 - **Criticism**: "Veneration of academic aesthetics without considering their origin"
 
-### Gothcore i Horror Aesthetics
-- **Gothic Elements**: Połączenie z horror trendy
-- **Existential Dread**: Jako element estetyczny
+### Gothcore and Horror Aesthetics
+- **Gothic Elements**: Connection with horror trends
+- **Existential Dread**: As aesthetic element
 - **Vintage Filters**: Sepia tones, film grain effects
 
-## 9. BookTube i YouTube Culture
+## 9. BookTube and YouTube Culture
 
 ### Book Reviews 2024
 - **Zaigam Akhtar** (Medium): "One of the most influential novels of the 20th century"
 - **Student Reviews**: 5/5 ratings, "heavily recommend everyone to read"
-- **U.S. High Schools**: Nadal podstawa lektur licealnych
+- **U.S. High Schools**: Still foundation of high school reading lists
 
 ### Content Creator Perspectives
-- Młodzi recenzenci podkreślają "existential-dread-inducing punch"
-- **Accessible Philosophy**: Camus jako wprowadzenie do egzystencjalizmu
-- **Cross-Cultural Appeal**: Uniwersalne tematy rezonują globalnie
+- Young reviewers emphasize "existential-dread-inducing punch"
+- **Accessible Philosophy**: Camus as introduction to existentialism
+- **Cross-Cultural Appeal**: Universal themes resonate globally
 
-## 10. Memes i Internet Culture
+## 10. Memes and Internet Culture
 
 ### Philosophical Memes
-- **Existentialist vs Nihilist**: Popularne formaty memów
-- **Sisyphus Memes**: "Must imagine Sisyphus happy" jako meme template
-- **Absurdist Humor**: Gen Z humor oparty na absurdzie
+- **Existentialist vs Nihilist**: Popular meme formats
+- **Sisyphus Memes**: "Must imagine Sisyphus happy" as meme template
+- **Absurdist Humor**: Gen Z humor based on absurd
 
 ### Reddit Philosophy
-- **r/Existentialism**: Aktywna społeczność dyskutująca Camusa
-- **Philosophy Memes**: Subreddity łączące filozofię z humor
+- **r/Existentialism**: Active community discussing Camus
+- **Philosophy Memes**: Subreddits connecting philosophy with humor
 - **Academic Discussion**: Serious philosophical discourse online
 
-## Wnioski
+## Conclusions
 
-"Obcy" Alberta Camusa zyskał nową aktualność w erze cyfrowej, rezonując z doświadczeniami Gen Z na poziomach:
+"The Stranger" by Albert Camus has gained new relevance in the digital era, resonating with Gen Z experiences on levels of:
 
-1. **Alienacji cyfrowej** - podobnej do detachment Meursaulta
-2. **Kryzysu egzystencjalnego** - odbijanego w doomer culture
-3. **Poszukiwania znaczenia** - w kontekście AI i technologii
-4. **Estetyki nihilizmu** - w dark academia i corecore trends
-5. **Terapeutycznego podejścia** - filozofia jako narzędzie mental health
+1. **Digital alienation** - similar to Meursault's detachment
+2. **Existential crisis** - reflected in doomer culture
+3. **Search for meaning** - in context of AI and technology
+4. **Nihilism aesthetics** - in dark academia and corecore trends
+5. **Therapeutic approach** - philosophy as mental health tool
 
-Książka służy jako philosophical toolkit dla młodego pokolenia navigating between meaninglessness i human agency w świecie social media, AI, i global uncertainty.
+The book serves as a philosophical toolkit for young generation navigating between meaninglessness and human agency in a world of social media, AI, and global uncertainty.
 
 ---
-*Badania przeprowadzone: 3 września 2025*
-*Okres analizy: 24 miesiące (2024-2025)*
-*Fokus: Viral content, gaming culture, digital philosophy*
+*Research conducted: September 3, 2025*
+*Analysis period: 24 months (2024-2025)*
+*Focus: Viral content, gaming culture, digital philosophy*

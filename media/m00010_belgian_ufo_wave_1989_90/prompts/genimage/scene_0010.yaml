@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: March 31, 1990, 01:30 hours
+    location: Wavre, Belgium - police patrol area
+    weather: Clear early morning, quiet conditions
+  characters:
+  - appearance: Belgian police officer, 30s-40s, Caucasian man
+    clothing: 1990 Belgian Gendarmerie uniform - dark blue jacket and trousers, light blue shirt and tie, standard police
+      equipment belt, patrol cap with badge
+    position: Standing outside patrol car looking upward at formation
+    action: Alert professional stance, often pointing at sky or using radio
+  scene:
+    mainElements: Belgian police patrol area with typical municipal infrastructure
+    details: 1990 Belgian police vehicle, transitioning from white with red stripe to new livery, VW Golf GTI or VW Transporter
+      van, blue and red emergency lights, police markings stopped on street. Officer observing four lights arranged in perfect
+      square formation moving silently overhead. Faint engine sound audible as formation moves across early morning sky.
+    background: Wavre town buildings and streets in early morning darkness
+    atmosphere: Quiet early morning police patrol witnessing extraordinary aerial phenomenon
+  composition:
+    cameraAngle: Medium shot showing officer observing four-light formation
+    focus: Police officer witnessing classic UFO formation pattern
+    depth: 'Foreground: police officer and patrol vehicle, middle ground: town street and buildings, background: dark sky
+      with four lights in square formation, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

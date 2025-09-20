@@ -1,0 +1,129 @@
+canon:
+  characters:
+    - id: "character_ID"
+      name: "Character ID"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, mid-20s, average build, serious expression, short dark hair"
+            clothing: "1950s Soviet winter gear - thick wool sweater, padded jacket, fur hat with earflaps, heavy mittens, felt boots"
+            posture: "Confident leader stance, often pointing or gesturing directions"
+    - id: "character_ZK"
+      name: "Character ZK"
+      description_block: |
+        characters:
+          - appearance: "Caucasian woman, early 20s, slender build, determined expression, medium brown hair in braids"
+            clothing: "1950s Soviet winter gear - wool coat over sweater, thick scarf, padded pants, fur hat, sturdy winter boots"
+            posture: "Alert and observant, often checking compass or map"
+    - id: "character_LD"
+      name: "Character LD"
+      description_block: |
+        characters:
+          - appearance: "Caucasian woman, early 20s, athletic build, cheerful expression, blonde hair in ponytail"
+            clothing: "1950s Soviet winter gear - heavy wool jacket, thick pants, winter cap, insulated gloves, hiking boots"
+            posture: "Energetic movement, often carrying equipment or supplies"
+    - id: "character_AK"
+      name: "Character AK"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, mid-20s, tall slender build, intellectual appearance, wire-rimmed glasses"
+            clothing: "1950s Soviet winter gear - long wool coat, thick sweater, winter cap, heavy gloves, padded boots"
+            posture: "Thoughtful stance, often examining scientific instruments or taking notes"
+    - id: "character_RS"
+      name: "Character RS"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, early 20s, stocky build, friendly face, curly dark hair"
+            clothing: "1950s Soviet winter gear - padded jacket, wool pants, fur hat, thick mittens, felt boots"
+            posture: "Relaxed demeanor, often helping others with equipment"
+    - id: "character_YK"
+      name: "Character YK"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, mid-20s, tall athletic build, confident expression, short blonde hair"
+            clothing: "1950s Soviet winter gear - heavy winter coat, padded pants, ushanka hat, insulated gloves, snow boots"
+            posture: "Strong stance, often carrying heavy equipment or tools"
+    - id: "character_YD"
+      name: "Character YD"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, early 20s, medium build, studious appearance, dark hair combed back"
+            clothing: "1950s Soviet winter gear - wool jacket, thick sweater, winter cap, heavy gloves, hiking boots"
+            posture: "Careful movements, often handling delicate equipment or cameras"
+    - id: "character_NT"
+      name: "Character NT"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, early 20s, lean build, focused expression, short brown hair"
+            clothing: "1950s Soviet winter gear - padded coat, wool pants, fur hat, thick mittens, winter boots"
+            posture: "Alert stance, often surveying terrain or checking routes"
+    - id: "character_SZ"
+      name: "Character SZ"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, late 30s, robust build, weathered face, graying hair, military bearing"
+            clothing: "1950s Soviet winter gear - army-style winter coat, padded pants, military-style hat, leather gloves, combat boots"
+            posture: "Authoritative stance, often checking equipment or giving guidance"
+
+  locations:
+    - id: "main_location_1"
+      name: "Kholat Syakhl Mountain Slope"
+      description_block: |
+        setting:
+          location: "Eastern slope of Kholat Syakhl mountain, Northern Ural Mountains, Soviet Union"
+        mainElements: "Gentle snow-covered slope above tree line, exposed mountainside terrain"
+        atmosphere: "Harsh sub-arctic environment, windswept and desolate, extreme cold conditions"
+
+    - id: "main_location_2"
+      name: "Cedar Tree at Forest Edge"
+      description_block: |
+        setting:
+          location: "Large Siberian cedar tree at edge of taiga forest, 1.5 km downslope from mountain"
+        mainElements: "Massive cedar tree with broken branches up to 5 meters high, sparse forest beginning"
+        atmosphere: "Dark forest threshold, shelter from mountain winds, mysterious and foreboding"
+
+    - id: "main_location_3"
+      name: "Mountain Ravine"
+      description_block: |
+        setting:
+          location: "Natural ravine 75 meters into forest from cedar tree, 4-meter deep depression"
+        mainElements: "Snow-filled ravine with running water underneath, natural cave-like formation"
+        atmosphere: "Hidden and secluded, deeper snow accumulation, sounds of flowing water beneath ice"
+
+    - id: "main_location_4"
+      name: "Vizhay Starting Point"
+      description_block: |
+        setting:
+          location: "Small Soviet town of Vizhay, Northern Urals, departure point for expedition"
+        mainElements: "Rural Soviet settlement with wooden buildings, train station, supply depot"
+        atmosphere: "Last outpost of civilization before wilderness, bustling with expedition preparations"
+
+  items:
+    - id: "key_item_1"
+      name: "Canvas Expedition Tent"
+      description_block: |
+        details: "Large self-made canvas tent designed for 10 people, military-style construction, reinforced with rope and metal stakes"
+
+    - id: "key_item_2"
+      name: "Wood Stove Components"
+      description_block: |
+        details: "Disassembled portable wood stove with metal chimney pipe sections, designed for tent heating"
+
+    - id: "key_item_3"
+      name: "Soviet Camera Equipment"
+      description_block: |
+        details: "1950s Soviet cameras with undeveloped film canisters, leather cases, multiple camera bodies"
+
+    - id: "key_item_4"
+      name: "Winter Survival Gear"
+      description_block: |
+        details: "Axes, knives, compasses, maps, rope, flashlights, food supplies in canvas bags"
+
+    - id: "key_item_5"
+      name: "Personal Documents"
+      description_block: |
+        details: "Soviet student identification cards, notebooks, diaries, mandolin, shared group notebook"
+
+    - id: "key_item_6"
+      name: "Ski Equipment"
+      description_block: |
+        details: "Wooden skis with leather bindings, ski poles, used as tent anchors and transportation"

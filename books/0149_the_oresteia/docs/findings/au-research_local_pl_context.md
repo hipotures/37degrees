@@ -1,193 +1,193 @@
-# Badanie Lokalnego Kontekstu Kulturowego: "Oresteja" Ajschylosa w Polsce
+# Local Cultural Context Research: Aeschylus' "The Oresteia" in Poland
 
-## Wprowadzenie
+## Introduction
 
-"Oresteja" Ajschylosa (458 p.n.e.) - jedyna w pełni zachowana starożytna grecka trylogia tragiczna - zajmuje wyjątkowe miejsce w polskiej kulturze literackiej i teatralnej. To opowieść o morderstwie króla Agamemnona przez żonę Klitajmestrę, następnie o zemście Orestesa na matce oraz o zakończeniu klątwy ciążącej nad rodem Atrydów.
+"The Oresteia" by Aeschylus (458 BCE) - the only fully preserved ancient Greek tragic trilogy - holds a unique place in Polish literary and theatrical culture. This is the story of King Agamemnon's murder by his wife Clytemnestra, followed by Orestes' revenge on his mother and the ending of the curse weighing on the house of Atreus.
 
-## Historia Publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze Polskie Wydania
+### First Polish Editions
 
-1. **Tłumaczenie Jana Kasprowicza (1925)**
-   - Wydane przez Instytut Wydawniczy "Biblioteka Polska" w Warszawie
-   - Kasprowicz, jako samouk, opanował klasyczną łacinę i grekę
-   - Tłumaczył również innych klasyków: Eurypidesa i Szekspira
-   - Wersja dostępna obecnie na platformie Wolne Lektury
+1. **Jan Kasprowicz Translation (1925)**
+   - Published by "Biblioteka Polska" Publishing Institute in Warsaw
+   - Kasprowicz, as a self-taught scholar, mastered classical Latin and Greek
+   - Also translated other classics: Euripides and Shakespeare
+   - Version currently available on the Wolne Lektury platform
 
-2. **Współczesne Wydania**
-   - Dostępne w serii lektur szkolnych z opracowaniem (Wydawnictwo Greg)
-   - Wydania akademickie z komentarzami dla studentów filologii klasycznej
-   - Elektroniczne wersje w formatach ePub, PDF, mobi
+2. **Contemporary Editions**
+   - Available in school reading series with commentary (Greg Publishing)
+   - Academic editions with commentary for classical philology students
+   - Electronic versions in ePub, PDF, mobi formats
 
-## Polscy Tłumacze i Ich Interpretacje
+## Polish Translators and Their Interpretations
 
-### Stefan Srebrny (1890-1962) - "Najwspanialszy Przekład"
+### Stefan Srebrny (1890-1962) - "The Most Magnificent Translation"
 
-- **Osiągnięcia**: Wybitny filolog klasyczny, profesor uniwersytetów w Lublinie, Wilnie i Toruniu
-- **Spektakl**: Premiera 30 kwietnia 1938 r. w Teatrze na Pohulance w Wilnie
-- **Ocena krytyczna**: Nazwany "wielką rewelacją" i "prawdziwie poetyckim tekstem"
-- **Charakterystyka**: "Tak bogaty i piękny język polski, jakiego nie słyszeliśmy w teatrze od dawna"
-- **Znaczenie**: Uznany za "największy wkład artystyczny w przedstawienie Orestei"
+- **Achievements**: Outstanding classical philologist, professor at universities in Lublin, Vilnius, and Torun
+- **Performance**: Premiered April 30, 1938, at the Pohulanka Theater in Vilnius
+- **Critical assessment**: Called "a great revelation" and "truly poetic text"
+- **Characteristics**: "Such rich and beautiful Polish language as we haven't heard in theater for a long time"
+- **Significance**: Recognized as "the greatest artistic contribution to the presentation of the Oresteia"
 
-### Jan Kasprowicz - Pionier Polskich Przekładów
+### Jan Kasprowicz - Pioneer of Polish Translations
 
-- **Kompetencje**: Znał łacinę, grekę, angielski i francuski
-- **Podejście**: Jako autodydakta opanował języki klasyczne
-- **Wydanie**: 1925 rok - jedno z pierwszych polskich wydań
+- **Competencies**: Knew Latin, Greek, English, and French
+- **Approach**: As an autodidact, mastered classical languages
+- **Publication**: 1925 - one of the first Polish editions
 
-### Robert R. Chodkowski - Współczesny Akademik
+### Robert R. Chodkowski - Contemporary Academic
 
-- **Wydanie**: 2016, Towarzystwo Naukowe KUL
-- **Charakterystyka**: Przekład z komentarzem naukowym
-- **Seria**: Część większego projektu tłumaczenia wszystkich tragedii Ajschylosa
-- **Tom 2**: "Oresteja: Agamemnon, Ofiarnice, Boginie łaskawe"
+- **Publication**: 2016, Scientific Society of KUL
+- **Characteristics**: Translation with scholarly commentary
+- **Series**: Part of a larger project translating all of Aeschylus' tragedies
+- **Volume 2**: "Oresteia: Agamemnon, The Libation Bearers, The Eumenides"
 
-### Maciej Słomczyński - Teatralny Tłumacz
+### Maciej Słomczyński - Theatrical Translator
 
-- **Zastosowanie**: Używany w spektaklu Teatru Narodowego (2012)
-- **Reżyser**: Maja Kleczewska
-- **Podejście**: Przystosowany do potrzeb współczesnej sceny teatralnej
+- **Application**: Used in the National Theater production (2012)
+- **Director**: Maja Kleczewska
+- **Approach**: Adapted for contemporary stage needs
 
-## Edukacyjny Kontekst w Polsce
+## Educational Context in Poland
 
-### Lektura Szkolna
+### School Reading
 
-- **Status**: "Oresteja" należy do kanonu lektur szkolnych
-- **Matura**: Może pojawić się na egzaminie maturalnym
-- **Materiały**: Dostępne opracowania z "pewniakowymi" pytaniami testowymi
-- **Antologia**: Część "Antologii tragedii greckiej" obowiązkowej dla licealistów
+- **Status**: "The Oresteia" belongs to the canon of school readings
+- **Matura**: May appear on the secondary school final exam
+- **Materials**: Available study guides with "sure-bet" test questions
+- **Anthology**: Part of the "Anthology of Greek Tragedy" mandatory for high school students
 
-### Pomoce Edukacyjne
+### Educational Aids
 
-- **Streszczenia**: Szczegółowe omówienia fabuły i skrócone wersje
-- **Analizy**: Pogłębione wyjaśnienia tematów i postaci
-- **Dostępność**: Wolne Lektury (finansowane przez Ministerstwo Kultury)
+- **Summaries**: Detailed plot discussions and condensed versions
+- **Analyses**: In-depth explanations of themes and characters
+- **Availability**: Wolne Lektury (funded by the Ministry of Culture)
 
-## Adaptacje Teatralne w Polsce
+## Theatrical Adaptations in Poland
 
-### Era PRL - Klasyczne Spektakle
+### Communist Era - Classical Performances
 
-1. **Stary Teatr w Krakowie (1982)**
-   - **Reżyser**: Zygmunt Hübner
-   - **Premiera**: 19 czerwca 1982
-   - **Scenografia**: Lidia Minticz i Jerzy Skarżyński
-   - **Tłumacz**: Maciej Słomczyński
+1. **Stary Theater in Krakow (1982)**
+   - **Director**: Zygmunt Hübner
+   - **Premiere**: June 19, 1982
+   - **Set design**: Lidia Minticz and Jerzy Skarżyński
+   - **Translator**: Maciej Słomczyński
 
-2. **Państwowy Teatr Polski** 
-   - **Reżyser**: A. Szyfman
-   - **Znaczenie**: Reprezentował "największe ambicje repertuarowe" epoki
-   - **Odbiór**: Odpowiadał "głębszej potrzebie epoki" w nawiązaniu do myśli starożytnych
+2. **State Polish Theater**
+   - **Director**: A. Szyfman
+   - **Significance**: Represented the "greatest repertoire ambitions" of the era
+   - **Reception**: Responded to the "deeper need of the epoch" in reference to ancient thought
 
-### Współczesne Spektakle
+### Contemporary Performances
 
-1. **Stary Teatr w Krakowie (2007)**
-   - **Reżyser**: Jan Klata
-   - **Premiera**: 25 lutego 2007
-   - **Tematyka**: "Zdegradowana współczesna cywilizacja, fałszywa demokracja"
-   - **Interpretacja**: Poszukiwanie wolności wyboru w obliczu przeznaczenia
+1. **Stary Theater in Krakow (2007)**
+   - **Director**: Jan Klata
+   - **Premiere**: February 25, 2007
+   - **Theme**: "Degraded contemporary civilization, false democracy"
+   - **Interpretation**: Search for freedom of choice in the face of destiny
 
-2. **Teatr Narodowy w Warszawie (2012)**
-   - **Reżyser**: Maja Kleczewska
-   - **Premiera**: 14 kwietnia 2012
-   - **Koprodukcja**: Z Teatrem Wielkim - Operą Narodową
-   - **Nowatorstwo**: Trylogia Ajschylosa skonfrontowana z utworami XX-wiecznymi
-   - **Muzyka**: Partytura operowa Agaty Zubel
-   - **Obsada**: Danuta Stenka, Kamilla Baar, Mirosław Konarowski
+2. **National Theater in Warsaw (2012)**
+   - **Director**: Maja Kleczewska
+   - **Premiere**: April 14, 2012
+   - **Co-production**: With the Grand Theater - National Opera
+   - **Innovation**: Aeschylus' trilogy confronted with 20th-century works
+   - **Music**: Opera score by Agata Zubel
+   - **Cast**: Danuta Stenka, Kamilla Baar, Mirosław Konarowski
 
-3. **Akademia Sztuk Teatralnych w Krakowie**
-   - **Reżyser**: Michał Zadara
-   - **Charakterystyka**: "Równocześnie bardzo wierny oryginałowi i radykalnie współczesny"
-   - **Ocena**: "Ajschylos brzmi aktualnie i ponadczasowo"
+3. **Academy of Dramatic Arts in Krakow**
+   - **Director**: Michał Zadara
+   - **Characteristics**: "Simultaneously very faithful to the original and radically contemporary"
+   - **Assessment**: "Aeschylus sounds current and timeless"
 
-## Problemy z Tłumaczeniem i Kulturowe Różnice
+## Translation Problems and Cultural Differences
 
-### Wyzwania Językowe
+### Linguistic Challenges
 
-1. **Archaizmy**
-   - Ajschylos pisał "w podniośle archaizującym stylu"
-   - Problem zachowania archaicznej godności oryginału w polszczyźnie
-   - Użycie archaizmów dla wzmocnienia ekspresji i stylizacji
+1. **Archaisms**
+   - Aeschylus wrote "in a sublimely archaizing style"
+   - Problem of preserving the original's archaic dignity in Polish
+   - Use of archaisms to strengthen expression and stylization
 
-2. **Chór Antyczny**
-   - **Specyfika**: "Naśladowczy i gadatliwy, śpiewany i tańczony"
-   - **Funkcja**: Jednocześnie postać dramatu i interpretator filozoficznego sensu
-   - **Problem sceniczny**: Współczesne teatry używają "małego chóru, oszczędnego w ruchu"
-   - **Rozwiązanie**: Głosy indywidualne członków chóru oraz zbiorowy komentator
+2. **Ancient Chorus**
+   - **Specificity**: "Imitative and talkative, sung and danced"
+   - **Function**: Simultaneously a character in the drama and interpreter of philosophical meaning
+   - **Stage problem**: Contemporary theaters use a "small chorus, economical in movement"
+   - **Solution**: Individual voices of chorus members plus collective commentator
 
-### Kulturowe Adaptacje
+### Cultural Adaptations
 
-1. **Polski Kontekst Historyczny**
-   - Zainteresowanie tematyką helleńską wynikało z "pokrewnego stosunku do zła i cierpienia"
-   - Związek z polskim doświadczeniem "tragiczności i zagadnień moralnych"
-   - W epoce PRL spektakle klasyczne miały głębszy wydźwięk polityczny
+1. **Polish Historical Context**
+   - Interest in Hellenic themes arose from a "kindred relationship to evil and suffering"
+   - Connection with Polish experience of "tragedy and moral issues"
+   - In the Communist era, classical performances had deeper political resonance
 
-2. **Religijno-Filozoficzny Wymiar**
-   - "Tragedia Ajschylosa to tragedia o zbrodni, karze i pokucie"
-   - Rezonans z katolicką tradycją polską
-   - "Świadomość, że jesteśmy u źródeł artystycznego ustawodawstwa moralnego"
+2. **Religious-Philosophical Dimension**
+   - "Aeschylus' tragedy is a tragedy about crime, punishment, and penance"
+   - Resonance with Polish Catholic tradition
+   - "Awareness that we are at the sources of artistic moral legislation"
 
-## Lokalne Nawiązania i Polskie Interpretacje
+## Local References and Polish Interpretations
 
-### Krakowski Kontekst Teatralny
+### Krakow Theatrical Context
 
-- **Tradycja**: "Krakowski teatr ostatnio klasycyzuje i antyką nowoczesność"
-- **Ocena**: "Chwalebne zjawisko" adaptacji antyku dla współczesności
-- **Centrum**: Stary Teatr jako główne miejsce spektakli klasycznych
+- **Tradition**: "Krakow theater lately classicizes and modernizes antiquity"
+- **Assessment**: "Praiseworthy phenomenon" of adapting antiquity for contemporary times
+- **Center**: Stary Theater as the main venue for classical performances
 
-### Połączenia z Polską Historią
+### Connections with Polish History
 
-1. **Romantyczne Nawiązania**
-   - Motyw zemsty i sprawiedliwości znany z literatury romantycznej
-   - Paralela z polskimi dramatami narodowymi o klątwie ciążącej nad rodem
+1. **Romantic References**
+   - The motif of revenge and justice known from Romantic literature
+   - Parallel with Polish national dramas about curses weighing on families
 
-2. **Współczesne Interpretacje**
-   - Spektakle Jana Klaty odnosiły się do polskiej demokracji po 1989 roku
-   - Problem degradacji wartości w kapitalizmie
+2. **Contemporary Interpretations**
+   - Jan Klata's performances referred to Polish democracy after 1989
+   - Problem of value degradation in capitalism
 
-## Akademickie Interpretacje Polskich Badaczy
+## Academic Interpretations by Polish Scholars
 
-### Badania Naukowe
+### Scientific Research
 
-1. **Barbara Bibik** - "Projekcje inscenizacyjne wybranych polskich tłumaczy «Orestei» Ajschylosa" (2016)
+1. **Barbara Bibik** - "Staging projections of selected Polish translators of Aeschylus' 'Oresteia'" (2016)
 
-2. **Grażyna Golik-Szarawarska** - "Wartości formalne antycznego dramatu i teatru greckiego" (badania nad Srebrnym)
+2. **Grażyna Golik-Szarawarska** - "Formal values of ancient drama and Greek theater" (research on Srebrny)
 
-3. **Stefan Stabryła** - Współautor wstępu do antologii wraz ze Srebrnym
+3. **Stefan Stabryła** - Co-author of the anthology introduction with Srebrny
 
-### Konferencje Naukowe
+### Academic Conferences
 
-- **2012**: Konferencja "Wartości formalne antycznego dramatu i teatru greckiego" (50. rocznica śmierci Srebrnego)
-- **Miejsce**: Uniwersytet Śląski w Katowicach
-- **Uczestnicy**: Teatrolodzy i filolodzy klasyczni
+- **2012**: Conference "Formal values of ancient drama and Greek theater" (50th anniversary of Srebrny's death)
+- **Location**: University of Silesia in Katowice
+- **Participants**: Theater scholars and classical philologists
 
-## Znaczenie dla Polskiej Kultury
+## Significance for Polish Culture
 
-### Kanon Literacki
+### Literary Canon
 
-- "Oresteja" jako "arcydzieło literatury światowej"
-- Jedyna zachowana trylogia tragiczna - unikatowy materiał
-- Wpływ na polskie rozumienie dramatu i teatru
+- "The Oresteia" as a "masterpiece of world literature"
+- The only preserved tragic trilogy - unique material
+- Influence on Polish understanding of drama and theater
 
-### Wpływ na Polską Twórczość
+### Impact on Polish Creativity
 
-1. **Teatr**: Wzór dla polskich dramaturgów w konstrukcji trylogii
-2. **Literatura**: Inspiracja dla motywów zemsty w literaturze polskiej
-3. **Filozofia**: Wpływ na polską myśl o sprawiedliwości i karze
+1. **Theater**: Model for Polish playwrights in trilogy construction
+2. **Literature**: Inspiration for revenge motifs in Polish literature
+3. **Philosophy**: Influence on Polish thought about justice and punishment
 
-### Współczesna Recepcja
+### Contemporary Reception
 
-- **Universitas**: Krakowskie środowisko akademickie jako centrum badań
-- **Media**: TVP Kultura jako platforma promocji klasyki greckiej
-- **Edukacja**: Obowiązkowa znajomość dla maturzystów i studentów filologii
+- **Universitas**: Krakow academic environment as center of research
+- **Media**: TVP Kultura as platform for promoting Greek classics
+- **Education**: Mandatory knowledge for high school graduates and philology students
 
-## Wnioski
+## Conclusions
 
-"Oresteja" Ajschylosa znalazła w Polsce wyjątkowo podatny grunt kulturowy. Polska recepcja tego dzieła charakteryzuje się:
+Aeschylus' "The Oresteia" found exceptionally fertile cultural ground in Poland. Polish reception of this work is characterized by:
 
-1. **Wysokiej klasy tłumaczeniami** - od pionierskiego Kasprowicza po akademickie wydania KUL-u
-2. **Bogatą tradycją teatralną** - spektakle w najważniejszych teatrach polskich
-3. **Głębokim rezonansem kulturowym** - związek z polskim doświadczeniem historycznym
-4. **Akademicką eksplorację** - gruntowne badania naukowe nad przekładami
-5. **Edukacyjną obecnością** - trwałe miejsce w kanonie szkolnym
+1. **High-quality translations** - from Kasprowicz's pioneering work to KUL's academic editions
+2. **Rich theatrical tradition** - performances in Poland's most important theaters
+3. **Deep cultural resonance** - connection with Polish historical experience
+4. **Academic exploration** - thorough scholarly research on translations
+5. **Educational presence** - permanent place in the school canon
 
-Dzieło to pozostaje żywym elementem polskiej kultury, stale reinterpretowanym przez kolejne pokolenia tłumaczy, reżyserów i badaczy, co potwierdza uniwersalność jego przesłania o sprawiedliwości, zemście i odkupieniu.
+This work remains a living element of Polish culture, constantly reinterpreted by successive generations of translators, directors, and scholars, confirming the universality of its message about justice, revenge, and redemption.

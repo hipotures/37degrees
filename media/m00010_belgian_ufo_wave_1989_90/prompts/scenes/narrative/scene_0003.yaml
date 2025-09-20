@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "SOBEPS Investigation Team Organizing"
+  setting:
+    time: "December 1989, afternoon"
+    location: "SOBEPS office, Brussels, Belgium"
+    weather: "Overcast winter day"
+  characters:
+    - appearance: "Academic researcher, 40s-50s, physics professor appearance, serious expression"
+      clothing: "Business casual attire typical of academics - dress shirt, slacks, sometimes lab coat or jacket"
+      position: "Seated at desk examining documents and photographs"
+      action: "Taking notes, examining documents, carrying notebooks and recording equipment"
+  scene:
+    mainElements: "Academic office environment with investigation materials spread across tables"
+    details: "Comprehensive witness reports, technical radar data analysis, maps of Belgium with sighting location pins, photographs, investigative notebooks, recording equipment spread across desk and walls. Multiple filing cabinets containing witness testimonies, charts tracking sighting patterns, and communication equipment for field investigations."
+    background: "Bookshelves with scientific publications, office windows showing Brussels cityscape"
+    atmosphere: "Serious academic investigation environment with methodical documentation of unexplained phenomena"
+  composition:
+    cameraAngle: "Medium shot focusing on researcher and investigation materials"
+    focus: "SOBEPS researcher analyzing witness reports and evidence"
+    depth: "Foreground: researcher and desk with documents, middle ground: office furniture and materials, background: bookshelves and windows, no text or letters visible"

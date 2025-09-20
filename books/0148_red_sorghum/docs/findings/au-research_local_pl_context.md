@@ -1,146 +1,146 @@
-# Lokalny kontekst kulturowy: "Czerwone sorgo" Mo Yana w Polsce
+# Local Cultural Context: Mo Yan's "Red Sorghum" in Poland
 
-## Wprowadzenie
+## Introduction
 
-"Czerwone sorgo" (Red Sorghum) Mo Yana, wydane w 1986 roku, to przełomowe dzieło chińskiej literatury współczesnej, które znalazło swoje miejsce w polskiej kulturze poprzez przekłady, adaptacje filmowe i studia akademickie. Ta analiza koncentruje się na recepcji, interpretacji i znaczeniu tego dzieła w polskim kontekście kulturowym.
+"Red Sorghum" by Mo Yan, published in 1986, is a groundbreaking work of contemporary Chinese literature that has found its place in Polish culture through translations, film adaptations, and academic studies. This analysis focuses on the reception, interpretation, and significance of this work in the Polish cultural context.
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Przekłady i wydania
-- Mo Yan należy do grona chińskich pisarzy tłumaczonych na język polski
-- "Czerwone sorgo" dostępne jest w polskim tłumaczeniu jako część szerszego zjawiska wzrostu bezpośrednich tłumaczeń chińskiej literatury współczesnej na polski w ostatnich dwudziestu latach
-- Wydawnictwo W.A.B. zostało zidentyfikowane jako jeden z wydawców dzieł Mo Yana w Polsce
-- Polska Księgarnia Internetowa oferuje różne dzieła Mo Yana, w tym jego autobiograficzne dzieło "Zmiany"
+### Translations and Editions
+- Mo Yan belongs to the group of Chinese writers translated into Polish
+- "Red Sorghum" is available in Polish translation as part of a broader phenomenon of increased direct translations from contemporary Chinese literature into Polish over the past twenty years
+- W.A.B. Publishing has been identified as one of the publishers of Mo Yan's works in Poland
+- Polish Online Bookstore offers various works by Mo Yan, including his autobiographical work "Changes"
 
-### Kontekst filmowy
-- Film "Czerwone sorgo" (1987) Zhang Yimou, oparty na powieści Mo Yana, zdobył Złotego Niedźwiedzia na Festiwalu Filmowym w Berlinie
-- Polskie tytuły potwierdzają znajomość dzieła: "Czerwone sorgo" jako oficjalny polski tytuł filmu
-- Film jest dostępny z polskimi napisami, co wskazuje na zainteresowanie polskiej publiczności
+### Film Context
+- The film "Red Sorghum" (1987) by Zhang Yimou, based on Mo Yan's novel, won the Golden Bear at the Berlin Film Festival
+- Polish titles confirm familiarity with the work: "Czerwone sorgo" as the official Polish title of the film
+- The film is available with Polish subtitles, indicating interest from Polish audiences
 
-## Tłumacze i interpretatorzy polscy
+## Polish Translators and Interpreters
 
-### Środowisko sinologiczne
-- Pełne studia sinologiczne w Polsce rozpoczęły się w 1933 roku z utworzeniem Katedry Sinologii w Instytucie Studiów Orientalnych
-- Współczesna generacja polskich sinologów-tłumaczy obejmuje:
+### Sinological Environment
+- Full sinological studies in Poland began in 1933 with the establishment of the Department of Sinology at the Institute of Oriental Studies
+- The contemporary generation of Polish sinologist-translators includes:
   - Joanna Krenz
-  - Katarzyna Kulpa  
+  - Katarzyna Kulpa
   - Katarzyna Sarek
   - Agnieszka Walulik
-- Te nazwiska reprezentują nową generację polskich tłumaczy literatury chińskiej
+- These names represent the new generation of Polish translators of Chinese literature
 
-### Programy studiów translatorycznych
-- Uniwersytet Jagielloński oferuje studia "Literary and Cultural Translation Studies" z kursami obejmującymi teorię przekładu i praktyczne warsztaty
-- Uniwersytet Warszawski prowadzi Interdyscyplinarne Podyplomowe Centrum Studiów nad Przekładem
+### Translation Studies Programs
+- Jagiellonian University offers "Literary and Cultural Translation Studies" with courses covering translation theory and practical workshops
+- University of Warsaw runs the Interdisciplinary Postgraduate Center for Translation Studies
 
-## Znaczenie edukacyjne
+## Educational Significance
 
-### Kontekst uniwersytecki
-- Dzieła Mo Yana, w tym "Czerwone sorgo", są przedmiotem studiów w ramach sinologii polskiej
-- Chińskie studia w Polsce mają długą tradycję i obecnie obejmują analizę literatury współczesnej
-- Uniwersytet Kansas utrzymuje przewodnik tematyczny poświęcony laureatom Nagrody Nobla Gao Xingjian (2000) i Mo Yan (2012)
+### University Context
+- Mo Yan's works, including "Red Sorghum," are subjects of study within Polish sinology
+- Chinese studies in Poland have a long tradition and currently include analysis of contemporary literature
+- University of Kansas maintains a thematic guide dedicated to Nobel Prize laureates Gao Xingjian (2000) and Mo Yan (2012)
 
-### Warość pedagogiczna
-- Mo Yan wykorzystuje tradycje chińskiej literatury klasycznej i tradycji ustnych jako punkt wyjścia, łącząc je ze współczesnymi problemami społecznymi
-- To czyni jego dzieła szczególnie wartościowymi dla celów edukacyjnych, tworząc pomost między tradycyjną a współczesną literaturą chińską
+### Pedagogical Value
+- Mo Yan uses traditions of classical Chinese literature and oral traditions as a starting point, combining them with contemporary social issues
+- This makes his works particularly valuable for educational purposes, creating a bridge between traditional and contemporary Chinese literature
 
-## Adaptacje i wpływ kulturowy
+## Adaptations and Cultural Impact
 
-### Film Zhang Yimou
-- "Czerwone sorgo" (1987) to debiut reżyserski Zhang Yimou, który przyniósł mu międzynarodowe uznanie
-- Złoty Niedźwiedź na Berlinale w 1988 roku uczynił film znanym polskiej publiczności kinowej
-- Film jest analizowany w kontekście recepcji twórczości Zhang Yimou w kulturze europejskiej
+### Zhang Yimou's Film
+- "Red Sorghum" (1987) was Zhang Yimou's directorial debut, which brought him international recognition
+- The Golden Bear at Berlinale in 1988 made the film known to Polish cinema audiences
+- The film is analyzed in the context of Zhang Yimou's reception in European culture
 
-### Teatr i sztuka
-- Brak konkretnych danych o polskich adaptacjach teatralnych "Czerwonego sorga"
-- Dzieło wpływa na polskie studia sinologiczne i badania nad literaturą światową
+### Theater and Art
+- No specific data on Polish theatrical adaptations of "Red Sorghum"
+- The work influences Polish sinological studies and research on world literature
 
-## Lokalne nawiązania i easter eggi dla polskich czytelników
+## Local References and Easter Eggs for Polish Readers
 
-### Historyczne paralele
-- Temat oporu przeciwko japońskiej okupacji w "Czerwonym sorgu" może rezonować z polskimi doświadczeniami II wojny światowej
-- Oba narody doświadczyły okupacji i rozwinęły kultury oporu literackiego
-- Tradycje ustnego przekazu w obu kulturach odgrywały ważną rolę w zachowaniu pamięci kulturowej
+### Historical Parallels
+- The theme of resistance against Japanese occupation in "Red Sorghum" may resonate with Polish experiences of World War II
+- Both nations experienced occupation and developed cultures of literary resistance
+- Oral tradition in both cultures played an important role in preserving cultural memory
 
-### Memoria kulturowa
-- Polska literatura okresu II wojny światowej koncentrowała się na zachowaniu kultury podczas okupacji niemieckiej
-- Mo Yan wykorzystuje podobne strategie w opisie chińskiego oporu przeciwko Japonii
-- Oba konteksty pokazują literaturę jako narzędzie zachowania tożsamości narodowej
+### Cultural Memory
+- Polish literature of the World War II period focused on preserving culture during German occupation
+- Mo Yan uses similar strategies in describing Chinese resistance against Japan
+- Both contexts show literature as a tool for preserving national identity
 
-### Tradycja ustna
-- Polska tradycja ustna, choć w dużej mierze utracona przez wczesną chrystianizację, podobnie jak w Chinach służyła przekazywaniu historii lokalnych
-- Mo Yan czerpał inspirację z ustnych opowieści: "Słyszałem wiele historii, które były ustnie przekazywane w mojej dzielnicy"
-- Polscy badacze coraz częściej wykorzystują źródła ustne w badaniach historycznych współczesnych
+### Oral Tradition
+- Polish oral tradition, though largely lost through early Christianization, like in China served to transmit local histories
+- Mo Yan drew inspiration from oral stories: "I heard many stories that were orally transmitted in my district"
+- Polish researchers increasingly use oral sources in contemporary historical research
 
-## Polski fan community
+## Polish Fan Community
 
-### Społeczność akademicka
-- Środowisko polskich sinologów tworzy specjalistyczną społeczność czytelników Mo Yana
-- Programy studiów przekładoznawczych na uniwersytetach polskich włączają analizy dzieł Mo Yana
-- Badania porównawcze między polską a chińską literaturą wojenną
+### Academic Community
+- The community of Polish sinologists creates a specialized readership for Mo Yan
+- Translation studies programs at Polish universities include analyses of Mo Yan's works
+- Comparative research between Polish and Chinese war literature
 
-### Recepcja krytyków
-- Polscy badacze analizują twórczość Zhang Yimou, w tym adaptację "Czerwonego sorga"
-- Studia nad pamięcią kulturową łączą doświadczenia polskie i chińskie
-- Badania nad "folklorem i globalną komunikacją międzykulturową w świecie komunistycznym: Polska i Chiny w latach 50."
+### Critical Reception
+- Polish researchers analyze Zhang Yimou's work, including the adaptation of "Red Sorghum"
+- Cultural memory studies connect Polish and Chinese experiences
+- Research on "folklore and global intercultural communication in the communist world: Poland and China in the 1950s"
 
-## Problemy translatorskie i różnice kulturowe
+## Translation Problems and Cultural Differences
 
-### Wyzwania językowe
-- Przekład "realizmu halucynacyjnego" Mo Yana na język polski wymaga szczególnych umiejętności
-- Łączenie ludowych opowieści, historii i współczesności stanowi wyzwanie translatorskie
-- Specifika chińskich tradycji ustnych i ich polska adaptacja
+### Linguistic Challenges
+- Translating Mo Yan's "hallucinatory realism" into Polish requires special skills
+- Combining folk tales, history, and modernity poses translation challenges
+- Specificity of Chinese oral traditions and their Polish adaptation
 
-### Kontekst kulturowy
-- Symbolika czerwonego sorga jako metafory witalności narodu chińskiego wymaga kulturowego wyjaśnienia dla polskich czytelników
-- Różnice w postrzeganiu historii wojennej między Chinami a Polską
-- Adaptacja magicznego realizmu do polskiej tradycji literackiej
+### Cultural Context
+- The symbolism of red sorghum as a metaphor for Chinese national vitality requires cultural explanation for Polish readers
+- Differences in perception of war history between China and Poland
+- Adaptation of magical realism to Polish literary tradition
 
-### Rola tłumacza
-- Howard Goldblatt jako główny tłumacz Mo Yana na angielski wpłynął na międzynarodową recepcję
-- Polscy tłumacze pracują z tekstami źródłowymi i pośrednimi przekładami
-- Dyskusje o tym, czy Nagroda Nobla Mo Yana należy się również jego tłumaczom
+### Role of the Translator
+- Howard Goldblatt as Mo Yan's main translator into English influenced international reception
+- Polish translators work with source texts and intermediate translations
+- Discussions about whether Mo Yan's Nobel Prize should also belong to his translators
 
-## Akademickie interpretacje polskich badaczy
+## Academic Interpretations by Polish Scholars
 
-### Studia porównawcze
-- Badania nad polsko-chińskimi wymianami kulturowymi w latach 50.
-- Analizy pamięci kulturowej i polityki historycznej w obu krajach
-- Studia nad literaturą oporu i traumą wojenną
+### Comparative Studies
+- Research on Polish-Chinese cultural exchanges in the 1950s
+- Analysis of cultural memory and historical politics in both countries
+- Studies on resistance literature and war trauma
 
-### Badania nad przekładem
-- Analiza strategii przekładu dzieł Mo Yana na języki europejskie, w tym polski
-- Badania nad recepcją literatury chińskiej w Europie Środkowo-Wschodniej
-- Studia nad wpływem polityki kulturowej na wybór dzieł do przekładu
+### Translation Research
+- Analysis of translation strategies for Mo Yan's works into European languages, including Polish
+- Research on reception of Chinese literature in Central and Eastern Europe
+- Studies on the influence of cultural policy on selection of works for translation
 
-### Metodologie badawcze
-- Wykorzystanie teorii pamięci kulturowej do analizy dzieł Mo Yana
-- Badania interdyscyplinarne łączące literaturoznawstwo z historią
-- Analiza wpływu Nagrody Nobla na recepcję literatury chińskiej w Polsce
+### Research Methodologies
+- Use of cultural memory theory to analyze Mo Yan's works
+- Interdisciplinary research combining literary studies with history
+- Analysis of the Nobel Prize's impact on reception of Chinese literature in Poland
 
-## Międzynarodowy kontekst
+## International Context
 
-### Nagroda Nobla 2012
-- Mo Yan jako pierwszy mieszkaniec Chin kontynentalnych laureat Nagrody Nobla w dziedzinie literatury
-- Wzrost zainteresowania jego twórczością w Polsce po 2012 roku
-- Dyskusje o włączeniu dzieł Mo Yana do chińskich programów nauczania na poziomie licealnym
+### 2012 Nobel Prize
+- Mo Yan as the first mainland China resident to win the Nobel Prize in Literature
+- Increased interest in his work in Poland after 2012
+- Discussions about including Mo Yan's works in Chinese high school curricula
 
-### Globalny wpływ
-- "Czerwone sorgo" przetłumaczone na ponad 50 języków, w tym polski
-- Międzynarodowe uznanie Zhang Yimou za adaptację filmową
-- Wpływ na postrzeganie chińskiej literatury współczesnej na świecie
+### Global Impact
+- "Red Sorghum" translated into over 50 languages, including Polish
+- International recognition for Zhang Yimou's film adaptation
+- Impact on perception of contemporary Chinese literature worldwide
 
-## Współczesne znaczenie
+## Contemporary Significance
 
-### Aktualność tematów
-- Tematy wojny, oporu i pamięci historycznej pozostają aktualne w polskim kontekście
-- Dyskusje o polityce pamięci w Polsce i Chinach
-- Rola literatury w kształtowaniu tożsamości narodowej
+### Relevance of Themes
+- Themes of war, resistance, and historical memory remain relevant in Polish context
+- Discussions about memory politics in Poland and China
+- Role of literature in shaping national identity
 
-### Przyszłe perspektywy
-- Rosnące zainteresowanie literaturą chińską w Polsce
-- Rozwój studiów sinologicznych i przekładoznawczych
-- Potencjalne nowe tłumaczenia i adaptacje dzieł Mo Yana
+### Future Perspectives
+- Growing interest in Chinese literature in Poland
+- Development of sinological and translation studies
+- Potential new translations and adaptations of Mo Yan's works
 
 ---
 
-*Analiza oparta na badaniach przeprowadzonych w wrześniu 2025, wykorzystująca źródła akademickie, wydawnicze i kulturalne dotyczące recepcji Mo Yana i "Czerwonego sorga" w Polsce.*
+*Analysis based on research conducted in September 2025, using academic, publishing, and cultural sources regarding the reception of Mo Yan and "Red Sorghum" in Poland.*

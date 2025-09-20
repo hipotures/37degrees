@@ -1,82 +1,82 @@
-# Lokalny kontekst kulturowy: "Przygody Hucka Finna" w Polsce
+# Local Cultural Context: "Adventures of Huckleberry Finn" in Poland
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pionierskie wydanie (1898)
-1. **Pierwsze polskie wydanie** ukazało się już w 1898 roku, zaledwie 13-14 lat po publikacji oryginału (1884-1885)
-2. **Teresa Prażmowska** była pierwszą tłumaczką, która przełożyła dzieło Twaina dla polskich czytelników
-3. **Historyczny kontekst**: Książka dotarła do Polski w okresie zaborów, gdy literatura amerykańska była egzotyczną nowością
-4. **Architektoniczny styl językowy** pierwszego wydania z 1898 roku zachował klimat epoki i jest dostępny do dziś w Polskiej Bibliotece Internetowej
+### Pioneer Edition (1898)
+1. **First Polish edition** appeared as early as 1898, only 13-14 years after the original publication (1884-1885)
+2. **Teresa Prażmowska** was the first translator who brought Twain's work to Polish readers
+3. **Historical context**: The book reached Poland during the partitions period, when American literature was an exotic novelty
+4. **Archaic linguistic style** of the 1898 first edition preserved the period's atmosphere and is still available today in the Polish Internet Library
 
-### Ewolucja tłumaczeń
-5. **Sześć głównych polskich tłumaczeń** na przestrzeni ponad wieku: Teresa Prażmowska (1898), Marceli Tarnowski (1934), Krystyna Tarnowska (1955), Jolanta Konsztowicz (1997), Zbigniew Batko (2003), Magdalena Machay (2008)
-6. **Zbigniew Batko** (2003) - jego przekład uznawany jest za jeden z najlepszych współczesnych, publikowany przez wydawnictwo Sara w ramach "Eposu rzeki Missisipi"
-7. **Współczesne standardy językowe**: Modern editions zastąpiły słowo "Murzyn" określeniem "Czarny", dostosowując klasykę do dzisiejszych norm
+### Evolution of Translations
+5. **Six major Polish translations** over more than a century: Teresa Prażmowska (1898), Marceli Tarnowski (1934), Krystyna Tarnowska (1955), Jolanta Konsztowicz (1997), Zbigniew Batko (2003), Magdalena Machay (2008)
+6. **Zbigniew Batko** (2003) - his translation is considered one of the best contemporary ones, published by Sara Publishing as part of "The Mississippi River Epic"
+7. **Contemporary linguistic standards**: Modern editions replaced the word "Murzyn" with "Czarny" (Black), adapting the classic to today's norms
 
-## Polscy tłumacze i ich interpretacje
+## Polish Translators and Their Interpretations
 
 ### Zbigniew Batko (1940-2007)
-8. **Uznany tłumacz** prozaik i scenarzysta z Łodzi, który rozpoczął karierę translatorską w 1979 roku
-9. **Specjalizacja w literaturze amerykańskiej** - od 1990 roku poświęcił się wyłącznie pracy literackiej i tłumaczeniowej
-10. **Publikacje w "Literaturze na Świecie"** - jego tłumaczenia z angielskiego regularnie ukazywały się w tym prestiżowym miesięczniku
-11. **"Epopeja rzeki Missisipi"** - jego przekłady Twaina są wznawiane w serii podkreślającej rangę dzieł pisarza
+8. **Renowned translator** prose writer and screenwriter from Lodz, who began his translation career in 1979
+9. **Specialization in American literature** - from 1990 he devoted himself exclusively to literary and translation work
+10. **Publications in "Literatura na Świecie"** - his English translations regularly appeared in this prestigious monthly
+11. **"Mississippi River Epic"** - his Twain translations are reprinted in a series emphasizing the writer's importance
 
-## Kontekst edukacyjny w Polsce
+## Educational Context in Poland
 
-### Lektura szkolna
-12. **Pozycja w programie nauczania**: "Przygody Hucka Finna" znajduje się na liście lektur sugerowanych przez podstawę programową dla szkół podstawowych
-13. **Materiały pomocnicze**: Wydawnictwa przygotowują specjalne edycje z opracowaniami zawierającymi szczegółowe streszczenia, charakterystyki bohaterów i analizy problematyki
-14. **"Pewniak na teście"** - wydania szkolne zawierają odpowiedzi na najczęściej pojawiające się pytania egzaminacyjne
-15. **Wartości edukacyjne**: Książka służy do omawiania tematów rasizmu, niewolnictwa i przyjaźni międzyrasowej w kontekście historycznym
+### School Reading
+12. **Position in curriculum**: "Adventures of Huckleberry Finn" is on the list of readings suggested by the core curriculum for elementary schools
+13. **Educational materials**: Publishers prepare special editions with studies containing detailed summaries, character analyses, and thematic discussions
+14. **"Sure thing on tests"** - school editions contain answers to the most frequently appearing exam questions
+15. **Educational values**: The book serves to discuss themes of racism, slavery, and interracial friendship in historical context
 
-### Recepcja akademicka
-16. **Badania translatorskie**: Akademickie analizy porównujące różne polskie przekłady, szczególnie w kontekście przekładu dialektu amerykańskiego Południa
-17. **Praca "Nad wielką Missisipi"**: Polskie badania koncentrują się na "spotkaniu kultur i języków w przekładzie" - analizując trudności renderowania dialektów i kulturowo wrażliwych treści
+### Academic Reception
+16. **Translation studies**: Academic analyses comparing different Polish translations, particularly in the context of translating American Southern dialect
+17. **Work "Over the Great Mississippi"**: Polish research focuses on "meeting of cultures and languages in translation" - analyzing difficulties in rendering dialects and culturally sensitive content
 
-## Polskie adaptacje kulturowe
+## Polish Cultural Adaptations
 
-### Teatr
-18. **"Przygody Hucka Finna, czyli O czym dziś napisałby Mark Twain"** - adaptacja teatralna w Teatrze Polskim we Wrocławiu autorstwa Romana Kołakowskiego
-19. **Musical kolorowy** w reżyserii Jana Szurmieja z rozbudowaną obsadą, w tym Konradem Imielą i Michałem Chorosińskim na zmianę w roli Hucka
-20. **Polski akcent w adaptacji**: W przedstawieniu pojawia się polska postać - były powstaniec i reporter, łączący amerykańską historię z polskim kontekstem historycznym
+### Theater
+18. **"Adventures of Huck Finn, or What Mark Twain Would Write Today"** - theatrical adaptation at the Polish Theater in Wrocław by Roman Kołakowski
+19. **Colorful musical** directed by Jan Szurmiej with an extensive cast, including Konrad Imieła and Michał Chorosiński alternating in the role of Huck
+20. **Polish accent in adaptation**: The performance features a Polish character - a former insurgent and reporter, connecting American history with Polish historical context
 
-### Media i film
-21. **Anime z lat 90.**: Japoński serial animowany "Huckleberry Finn Monogatari" (1991) był emitowany w Polsce na TVP2, Polsat 2 i kanale Smyk
-22. **Film Disneya**: Amerykańska adaptacja z 1993 roku miała polską premierę telewizyjną 21 stycznia 2012 na TVP1
+### Media and Film
+21. **1990s anime**: Japanese animated series "Huckleberry Finn Monogatari" (1991) was broadcast in Poland on TVP2, Polsat 2, and Smyk channel
+22. **Disney film**: The 1993 American adaptation had its Polish television premiere on January 21, 2012, on TVP1
 
-## Lokalne podobieństwa i nawiązania
+## Local Similarities and References
 
-### Wisła jako "polska Mississippi"
-23. **Kulturowe porównanie rzek**: Mississippi pełni tę samą rolę w kulturze amerykańskiej co Wisła dla Polaków - obie rzeki przyczyniły się do budowania potęgi swoich narodów
-24. **Literackie paralele**: Czytelnicy "Wisły. Biografii rzeki" Andrzeja Chwalby wprost porównują swoje doświadczenie lektury z podróżą po Mississippi z Tomkiem Sawyerem
-25. **Simbolika narodowa**: Obie rzeki służą jako symbole wolności, tożsamości narodowej i naturalnego piękna w swoich kulturach
+### Vistula as "Polish Mississippi"
+23. **Cultural river comparison**: The Mississippi plays the same role in American culture as the Vistula does for Poles - both rivers contributed to building their nations' power
+24. **Literary parallels**: Readers of "Vistula. Biography of a River" by Andrzej Chwalba directly compare their reading experience with traveling down the Mississippi with Tom Sawyer
+25. **National symbolism**: Both rivers serve as symbols of freedom, national identity, and natural beauty in their respective cultures
 
-### Geograficzne i historyczne analogie
-26. **Transportowe znaczenie**: Jak Mississippi w USA, tak Wisła była główną arterią transportową służącą do eksportu zboża z Rzeczypospolitej przez Gdańsk
-27. **Kulturowa personifikacja**: W polskiej sztuce, literaturze i mitologii Wisła jest postrzegana jako kobieta, podobnie jak Mississippi w kulturze amerykańskiej
+### Geographic and Historical Analogies
+26. **Transportation significance**: Like the Mississippi in the USA, the Vistula was the main transport artery for exporting grain from the Polish-Lithuanian Commonwealth through Gdansk
+27. **Cultural personification**: In Polish art, literature, and mythology, the Vistula is perceived as a woman, similar to the Mississippi in American culture
 
-## Recepcja wśród polskich czytelników
+## Reception Among Polish Readers
 
-### Opinie na Lubimyczytać.pl
-28. **Pozytywna recepcja**: Polscy czytelnicy opisują książkę jako "jedną z tych szczególnych książek, które zawsze wspomina się z uśmiechem"
-29. **Dojrzałość literacka**: Uznanie, że to "bardziej dojrzała powieść niż Przygody Tomka Sawyera, ale wciąż lekka, opisująca ludzi znad Missisipi sprzed wojny secesyjnej"
-30. **Wartości uniwersalne**: Polscy czytelnicy doceniają relację Hucka z Jimem jako "niezwykłą przyjaźń" oraz walory antyrasistowskie dzieła
+### Opinions on Lubimyczytać.pl
+28. **Positive reception**: Polish readers describe the book as "one of those special books that are always remembered with a smile"
+29. **Literary maturity**: Recognition that it's "a more mature novel than The Adventures of Tom Sawyer, but still light, describing people from the Mississippi before the Civil War"
+30. **Universal values**: Polish readers appreciate Huck's relationship with Jim as an "extraordinary friendship" and the anti-racist values of the work
 
-### Wyzwania czytelnicze
-31. **Kontekst historyczny**: Niektórzy polscy czytelnicy mają trudności z "nieco staroświeckim językiem i obyczajami", nie zawsze rozróżniając czy wynika to z tłumaczenia czy wieku powieści
-32. **Edukacyjna wartość**: Uznanie książki jako idealnej dla młodych czytelników "szukających czegoś więcej niż tylko zwykła przygoda"
+### Reading Challenges
+31. **Historical context**: Some Polish readers have difficulties with "somewhat old-fashioned language and customs," not always distinguishing whether this stems from translation or the novel's age
+32. **Educational value**: Recognition of the book as ideal for young readers "seeking something more than just an ordinary adventure"
 
-## Problemy tłumaczeniowe i kulturowe różnice
+## Translation Problems and Cultural Differences
 
-### Dialekt amerykańskiego Południa
-33. **Wielość prób translatorskich**: Sześć różnych tłumaczeń świadczy o ciągłych wyzwaniach w oddaniu lokalnego dialektu Południowych Stanów
-34. **Językowe mistrzostwo**: Polskie badania potwierdzają, że "językowe mistrzostwo autora może być oddane w polskim przekładzie" mimo trudności
-35. **Kultura niewolnicza**: Szczególne wyzwanie stanowi przekład terminologii związanej z niewolnictwem i rasizmem w sposób zrozumiały dla polskiego czytelnika
+### American Southern Dialect
+33. **Multiple translation attempts**: Six different translations testify to ongoing challenges in rendering the local dialect of the Southern States
+34. **Linguistic mastery**: Polish research confirms that "the author's linguistic mastery can be rendered in Polish translation" despite difficulties
+35. **Slave culture**: A particular challenge is translating terminology related to slavery and racism in a way understandable to Polish readers
 
-### Adaptacja kulturowa
-36. **Współczesne standardy**: Zmiana terminologii rasowej w nowszych wydaniach pokazuje troskę o kulturową wrażliwość polskich wydawców
-37. **Kontekst amerykańskiej wojny secesyjnej**: Polscy czytelnicy muszą zostać wprowadzeni w realia historyczne, które nie są częścią polskiego doświadczenia historycznego
+### Cultural Adaptation
+36. **Contemporary standards**: Changes in racial terminology in newer editions show concern for cultural sensitivity among Polish publishers
+37. **American Civil War context**: Polish readers must be introduced to historical realities that are not part of Polish historical experience
 
 ---
 
-*Badania przeprowadzone w oparciu o źródła internetowe, akademickie publikacje, opinie czytelników oraz materiały edukacyjne dostępne w Polsce. Kontekst regionalny uwzględnia specyfikę Krakowa i Małopolski jako centrum kulturalnego i edukacyjnego.*
+*Research conducted based on internet sources, academic publications, reader opinions, and educational materials available in Poland. Regional context considers the specifics of Krakow and Lesser Poland as a cultural and educational center.*

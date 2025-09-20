@@ -1,0 +1,120 @@
+canon:
+  characters:
+    - id: "character_LW"
+      name: "Local Witness"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Caucasian man, 40s, weathered face, stubble, alert expression"
+            clothing: "Heavy brown wool coat, plaid flannel shirt, dark work pants, brown leather boots, knit wool cap"
+            posture: "Standing alertly, pointing toward sky or forest, concerned expression"
+    - id: "character_FF"
+      name: "Volunteer Firefighter"
+      description_block: |
+        characters:
+          - appearance: "Young Caucasian man, 20s-30s, clean-shaven, determined expression"
+            clothing: "Black turnout coat with reflective stripes, black helmet, heavy boots, radio on belt"
+            posture: "Moving purposefully, carrying flashlight or equipment, professional stance"
+    - id: "character_SP"
+      name: "State Police Officer"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s-40s, clean-shaven, serious expression, badge visible"
+            clothing: "Grey Pennsylvania State Police uniform, campaign hat, leather Sam Browne belt, black boots, winter coat"
+            posture: "Standing at attention, hands on equipment belt, authoritative presence"
+    - id: "character_AS"
+      name: "Army Soldier"
+      description_block: |
+        characters:
+          - appearance: "Young Caucasian man, 20s, short military haircut, serious expression"
+            clothing: "Olive drab M-1965 field jacket, M1 steel helmet, combat boots, military patches visible"
+            posture: "Standing guard, rifle at ready position, disciplined military bearing"
+    - id: "character_AO"
+      name: "Army Officer"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Caucasian man, 40s, clean-shaven, confident expression, officer insignia"
+            clothing: "Olive drab officer uniform, peaked cap, leather boots, binoculars around neck"
+            posture: "Commanding stance, pointing directions, clipboard or radio in hand"
+    - id: "character_CS"
+      name: "Civilian Scientist"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Caucasian man, 50s, wire-rim glasses, focused expression"
+            clothing: "Dark winter coat over suit and tie, leather shoes, carrying briefcase or equipment"
+            posture: "Examining objects closely, taking notes, analytical stance"
+    - id: "character_RP"
+      name: "Reporter"
+      description_block: |
+        characters:
+          - appearance: "Young Caucasian man, 30s, neat appearance, press credentials visible"
+            clothing: "1960s business suit, overcoat, fedora hat, carrying notepad and camera"
+            posture: "Taking notes actively, holding microphone or camera, inquisitive expression"
+  locations:
+    - id: "kecksburg_forest"
+      name: "Kecksburg Forest Impact Site"
+      description_block: |
+        setting:
+          location: "Dense deciduous forest outside Kecksburg, Pennsylvania, winter conditions with bare trees"
+        mainElements: "Muddy forest floor with fallen logs, bare oak and maple trees, small ravine with seasonal stream"
+        atmosphere: "Dark, mysterious woodland setting with patches of blue smoke rising through bare branches"
+    - id: "kecksburg_village"
+      name: "Kecksburg Village Center"
+      description_block: |
+        setting:
+          location: "Small rural Pennsylvania village, population 200, 30 miles southeast of Pittsburgh"
+        mainElements: "Single-story volunteer fire department building, two-bay garage, rural homes, narrow paved roads"
+        atmosphere: "Quiet rural community disrupted by unusual military activity and emergency vehicles"
+    - id: "impact_crater"
+      name: "Object Impact Crater"
+      description_block: |
+        setting:
+          location: "Forest clearing with disturbed earth, broken tree branches, impact depression"
+        mainElements: "Circular depression in muddy ground, scattered debris, broken branches, disturbed vegetation"
+        atmosphere: "Scene of mysterious impact with visible disturbance to natural forest floor"
+    - id: "military_perimeter"
+      name: "Military Security Perimeter"
+      description_block: |
+        setting:
+          location: "Forest edge with military vehicles and security barriers around impact site"
+        mainElements: "Army trucks, jeeps, rope barriers, soldiers on guard duty, portable floodlights"
+        atmosphere: "Highly secured area with military efficiency and restricted civilian access"
+    - id: "rural_road"
+      name: "Rural Pennsylvania Road"
+      description_block: |
+        setting:
+          location: "Narrow dirt logging road leading from Kecksburg village to forest impact site"
+        mainElements: "Muddy dirt road, rolling hills, bare winter trees, utility poles, farm fields"
+        atmosphere: "Remote rural setting with military and emergency vehicles creating unusual traffic"
+  items:
+    - id: "mysterious_object"
+      name: "Acorn-Shaped Metallic Object"
+      description_block: |
+        details: "Volkswagen Beetle-sized object, acorn or bell shape, bronze-golden metallic surface, seamless construction with raised band around circumference containing hieroglyphic-like symbols, partially buried at angle in forest floor"
+    - id: "army_truck"
+      name: "Army 2.5-Ton Truck"
+      description_block: |
+        details: "Olive drab military deuce-and-a-half truck with canvas top, military markings, heavy-duty tires, cargo area with tailgate, 1960s military vehicle design"
+    - id: "flatbed_truck"
+      name: "Flatbed Recovery Truck"
+      description_block: |
+        details: "Large civilian flatbed truck with heavy-duty frame, wooden deck, tie-down chains, canvas tarp covering cargo area, capable of transporting large objects"
+    - id: "state_police_cruiser"
+      name: "Pennsylvania State Police Car"
+      description_block: |
+        details: "1965 Ford or Plymouth police cruiser, grey and black paint scheme, red emergency lights, PA State Police markings, chrome bumpers, period-appropriate police vehicle"
+    - id: "fire_truck"
+      name: "Volunteer Fire Department Truck"
+      description_block: |
+        details: "1960s fire engine, red paint, chrome details, hose compartments, ladder mounted on top, volunteer fire department markings, emergency lights"
+    - id: "geiger_counter"
+      name: "Military Geiger Counter"
+      description_block: |
+        details: "Portable radiation detection device, metal case with dial gauge, handheld probe on cable, military specification equipment for radiation measurement"
+    - id: "press_camera"
+      name: "1960s Press Camera"
+      description_block: |
+        details: "Large format press camera with flash bulb attachment, leather strap, professional photographer equipment typical of 1960s journalism"
+    - id: "military_floodlight"
+      name: "Portable Military Floodlight"
+      description_block: |
+        details: "Tripod-mounted flood light with large reflector, portable generator power source, military field equipment for night operations"

@@ -1,251 +1,251 @@
-# Historia i Fakty: "Long Day's Journey into Night" Eugene'a O'Neilla
+# History and Facts: "Long Day's Journey into Night" by Eugene O'Neill
 
-*Badania historyczne dotyczące procesu twórczego i okoliczności powstania jednego z największych arcydzieł teatru amerykańskiego XX wieku*
-
----
-
-## OKOLICZNOŚCI POWSTANIA KSIĄŻKI
-
-### Miejsca i Daty Tworzenia
-
-**FAKT**: O'Neill pisał sztukę w latach 1939-1941 w Tao House w Kalifornii, domu inspirowanym taoizmem, który był w dużej mierze dziełem jego żony Carlotty.
-
-**FAKT**: Manuskrypt został ukończony w ostatecznej wersji w marcu 1941 roku.
-
-**FAKT**: 22 lipca 1941 roku O'Neill zadedykował ukończone dzieło swojej żonie z okazji 12. rocznicy ślubu: "For Carlotta, on Our 12th Wedding Anniversary".
-
-**FAKT**: Proces pisania trwał około 2 lat - O'Neill dosłownie "przeżywał ponownie" swoją bolesną przeszłość podczas tworzenia sztuki.
-
-### Autobiograficzna Natura Dzieła
-
-**FAKT**: Sztuka jest otwarcie autobiograficzna - przedstawia jeden długi letni dzień w życiu fikcyjnej rodziny Tyrone, opartej na bezpośredniej rodzinie O'Neilla.
-
-**FAKT**: Akcja rozgrywa się konkretnie w sierpniu 1912 roku - wszystkie wieku postaci odpowiadają rzeczywistym wekom członków rodziny O'Neill z tego okresu.
-
-**FAKT**: Lokalizacja - letni dom w Connecticut - odpowiada rodzinnemu domowi Monte Cristo Cottage w New London, Connecticut.
-
-**FAKT**: O'Neill zmienił tylko trzy imiona: nazwisko rodzinne "O'Neill" na "Tyrone" (nawiązanie do hrabstwa Tyrone nadanego Connowi O'Neillowi przez Henryka VIII), zamienił miejscami imiona drugiego i trzeciego syna "Eugene" z "Edmund".
+*Historical research on the creative process and circumstances surrounding the creation of one of the greatest masterpieces of 20th-century American theater*
 
 ---
 
-## INSPIRACJE I PRAWDZIWE WYDARZENIA
+## CIRCUMSTANCES OF THE BOOK'S CREATION
 
-### Wydarzenia z 1912 Roku
+### Places and Dates of Writing
 
-**FAKT**: W 1912 roku Eugene O'Neill zachorował na gruźlicę - to był rok przełomowy w jego życiu.
+**FACT**: O'Neill wrote the play between 1939-1941 at Tao House in California, a home inspired by Taoism that was largely his wife Carlotta's creation.
 
-**FAKT**: Został przyjęty do sanatorium w latach 1912-13, gdzie zaczął pisać swoje pierwsze utwory.
+**FACT**: The manuscript was completed in its final version in March 1941.
 
-**FAKT**: Monte Cristo Cottage, gdzie rozgrywa się akcja sztuki, został zarejestrowany jako National Historic Landmark w 1971 roku.
+**FACT**: On July 22, 1941, O'Neill dedicated the finished work to his wife on their 12th wedding anniversary: "For Carlotta, on Our 12th Wedding Anniversary".
 
-### Paralele Rodzinne
+**FACT**: The writing process took about 2 years - O'Neill literally "relived" his painful past while creating the play.
 
-**FAKT**: James Tyrone w sztuce to bezpośrednia reprezentacja ojca O'Neilla - Jamesa O'Neilla, aktora znanego głównie z roli Edmonda Dantèsa w "Monte Cristo".
+### Autobiographical Nature of the Work
 
-**FAKT**: James O'Neill zagrał tytułową rolę w "Monte Cristo" około 6000 razy, co przyniosło mu sukces komercyjny, ale krytykę za "sprzedanie się" kosztem wartości artystycznych.
+**FACT**: The play is openly autobiographical - it depicts one long summer day in the life of the fictional Tyrone family, based directly on O'Neill's own family.
 
-**FAKT**: Mary Tyrone w sztuce reprezentuje matkę O'Neilla - Mary Ellen "Ella" Quinlan, która zmagała się z uzależnieniem od morfiny.
+**FACT**: The action takes place specifically in August 1912 - all character ages correspond to the actual ages of O'Neill family members from that period.
 
-**FAKT**: Jamie Tyrone to starszy brat O'Neilla - Jamie, który był alkoholikiem.
+**FACT**: The setting - a summer home in Connecticut - corresponds to the family home Monte Cristo Cottage in New London, Connecticut.
 
----
-
-## PROCES TWÓRCZY I PROBLEMY
-
-### Zmagania Zdrowotne Podczas Pisania
-
-**FAKT**: O'Neill cierpiał na drżenie rąk podobne do choroby Parkinsona, które utrudniało mu pisanie już od wczesnych lat 40. XX wieku.
-
-**FAKT**: Pisał wyłącznie ręcznie, co przy drżeniu rąk było niezwykle bolesne i trudne.
-
-**FAKT**: W ostatnich 10 latach życia drżenie uniemożliwiło mu całkowicie pisanie - próbował dyktować, ale uznał tę metodę za niemożliwą do kompozycji.
-
-**FAKT**: Pośmiertne badania wykazały, że O'Neill zmarł na zanik kory mózżeczku, rzadką formę degeneracji mózgu niezwiązaną z alkoholizmem ani chorobą Parkinsona.
-
-### Motywacja Twórcza
-
-**FAKT**: O'Neill napisał w epigrafe: "Mam to na myśli jako hołd dla twojej miłości i czułości, która dała mi wiarę w miłość, która pozwoliła mi wreszcie stawić czoła moim zmarłym i napisać tę sztukę".
-
-**FAKT**: Sztuka miała pokazać światu, jaka była jego rodzina i w jakim środowisku został wychowany, ale w sposób wybaczający, bez stronniczości wobec żadnej z postaci.
+**FACT**: O'Neill changed only three names: the family surname "O'Neill" to "Tyrone" (referencing the County Tyrone granted to Conn O'Neill by Henry VIII), and swapped the names of the second and third sons "Eugene" with "Edmund".
 
 ---
 
-## HISTORIA PUBLIKACJI
+## INSPIRATIONS AND TRUE EVENTS
 
-### Instrukcje Autora vs. Rzeczywistość
+### Events from 1912
 
-**FAKT**: O'Neill wyraźnie zażądał, aby sztuka nie została opublikowana przez 25 lat po jego śmierci (czyli do 1978 roku) i nigdy nie była wystawiana na scenie.
+**FACT**: In 1912, Eugene O'Neill contracted tuberculosis - this was a pivotal year in his life.
 
-**FAKT**: Po śmierci O'Neilla w listopadzie 1953 roku, jego wdowa Carlotta Monterey początkowo potwierdziła w dzienniku, że chroni jego "25-letnie pudło" z osobistymi dokumentami.
+**FACT**: He was admitted to a sanatorium in 1912-13, where he began writing his first works.
 
-**FAKT**: Mniej niż rok po śmierci O'Neilla, Carlotta zwróciła się do Random House z żądaniem publikacji sztuki wbrew wyraźnej woli męża.
+**FACT**: Monte Cristo Cottage, where the play's action takes place, was registered as a National Historic Landmark in 1971.
 
-**FAKT**: Wydawca Bennett Cerf napisał w swoich pamiętnikach: "Oczywiście odmówiliśmy, ale potem z przerażeniem dowiedzieliśmy się, że prawnie wszystkie karty były w jej rękach".
+### Family Parallels
 
-### Yale University Press i Publikacja 1956
+**FACT**: James Tyrone in the play is a direct representation of O'Neill's father - James O'Neill, an actor known primarily for his role as Edmond Dantès in "The Count of Monte Cristo".
 
-**FAKT**: Carlotta wydała sztukę przez Yale University Press w lutym 1956 roku, a większość dochodów przeznaczyła na Eugene O'Neill Collection w Yale i stypendia w szkole dramatycznej.
+**FACT**: James O'Neill played the title role in "The Count of Monte Cristo" approximately 6,000 times, which brought him commercial success but criticism for "selling out" at the expense of artistic values.
 
-**FAKT**: Nie jest jasne, dlaczego Monterey zdecydowała się złamać instrukcje męża - dochody z północnoamerykańskiej publikacji trafiły do Yale University, a tantiemy z pierwszej szwedzkiej produkcji zostały przekazane obsadzie teatru sztokholmskiego.
+**FACT**: Mary Tyrone in the play represents O'Neill's mother - Mary Ellen "Ella" Quinlan, who struggled with morphine addiction.
 
----
-
-## PIERWSZE REAKCJE I SUKCESY
-
-### Premiery Światowe
-
-**FAKT**: Pierwsza prezentacja sztuki odbyła się 2 lutego 1956 roku w Royal Dramatic Theatre w Sztokholmie.
-
-**FAKT**: Premiera amerykańska miała miejsce w Boston's Wilbur Theatre przed debiutem na Broadwayu.
-
-**FAKT**: Premiera Broadway odbyła się 7 listopada 1956 roku w Helen Hayes Theatre, reżyserii José Quintero.
-
-### Obsada Premiery Broadway 1956
-
-**FAKT**: Fredric March (James Tyrone) - wygrał Tony Award za najlepszego aktora w roli głównej.
-
-**FAKT**: Florence Eldridge (Mary Tyrone) - żona Marcha w prawdziwym życiu, nominowana do Tony Award.
-
-**FAKT**: Jason Robards Jr. ("Jamie" Tyrone) - nominowany do Tony Award, jedyny aktor z oryginalnej obsady Broadway, który powtórzył rolę w filmie z 1962 roku.
-
-**FAKT**: Bradford Dillman (Edmund) i Katherine Ross (Cathleen) uzupełniali obsadę.
-
-**FAKT**: Spektakl był wystawiany od 7 listopada 1956 do 29 marca 1958 roku.
+**FACT**: Jamie Tyrone represents O'Neill's older brother - Jamie, who was an alcoholic.
 
 ---
 
-## NAGRODY I UZNANIE
+## CREATIVE PROCESS AND PROBLEMS
 
-### Najważniejsze Wyróżnienia
+### Health Struggles During Writing
 
-**FAKT**: O'Neill otrzymał pośmiertnie Nagrodę Pulitzera za dramat w 1957 roku za "Long Day's Journey into Night".
+**FACT**: O'Neill suffered from hand tremors similar to Parkinson's disease, which made writing difficult for him from the early 1940s.
 
-**FAKT**: Sztuka zwyciężyła w Tony Award dla najlepszej sztuki w 1957 roku.
+**FACT**: He wrote exclusively by hand, which with the tremors was extremely painful and difficult.
 
-**FAKT**: Otrzymała New York Drama Critics' Circle Award jako najlepsza sztuka sezonu.
+**FACT**: In the last 10 years of his life, the tremors completely prevented him from writing - he tried dictation but found this method impossible for composition.
 
-**FAKT**: To była czwarta Nagroda Pulitzera dla O'Neilla - jedynego dramaturga, który wygrał cztery Pulitzery za dramat.
+**FACT**: Posthumous examinations revealed that O'Neill died from cerebellar cortical atrophy, a rare form of brain degeneration unrelated to alcoholism or Parkinson's disease.
 
-### Status w Historii Teatru
+### Creative Motivation
 
-**FAKT**: Sztuka jest powszechnie uważana za magnum opus O'Neilla i jedną z największych sztuk amerykańskich XX wieku.
+**FACT**: O'Neill wrote in the epigraph: "I mean it as a tribute to your love and tenderness which gave me the faith in love that enabled me at last to face my dead and write this play".
 
-**FAKT**: Często pojawia się na listach najlepszych amerykańskich sztuk XX wieku obok "A Streetcar Named Desire" Tennessee'ego Williamsa i "Death of a Salesman" Arthura Millera.
-
----
-
-## ADAPTACJE FILMOWE
-
-### Film z 1962 Roku
-
-**FAKT**: Reżyseria: Sidney Lumet, obsada: Katharine Hepburn, Ralph Richardson, Jason Robards, Dean Stockwell.
-
-**FAKT**: Film został nakręcony za 435,000 dolarów przez 37 dni (dwa dni ponad harmonogram) w Chelsea Studios w Nowym Jorku.
-
-**FAKT**: Lumet napisał później, że całkowity budżet wyniósł 490,000 dolarów.
-
-**FAKT**: Jason Robards był jedynym aktorem z wersji scenicznej, który zagrał również w filmie.
-
-**FAKT**: Katharine Hepburn wyszła z trzyletniego "emerytury" aby zagrać trudną rolę Mary Tyrone.
-
-**FAKT**: Film wygrał nagrody dla najlepszego aktora (Richardson, Robards, Stockwell) i najlepszej aktorki (Hepburn) na Festiwalu w Cannes.
-
-**FAKT**: Hepburn otrzymała nominacje do Oscara i Złotego Globu za najlepszą aktorkę.
+**FACT**: The play was meant to show the world what his family was like and the environment in which he was raised, but in a forgiving way, without bias toward any of the characters.
 
 ---
 
-## STATYSTYKI I REKORDY
+## PUBLICATION HISTORY
 
-### Liczby i Dane
+### Author's Instructions vs. Reality
 
-**FAKT**: Sztuka trwa ponad 3,5 godziny.
+**FACT**: O'Neill explicitly demanded that the play not be published for 25 years after his death (until 1978) and never be performed on stage.
 
-**FAKT**: Akcja obejmuje jeden dzień od około 8:30 rano do północy w sierpniu 1912 roku.
+**FACT**: After O'Neill's death in November 1953, his widow Carlotta Monterey initially confirmed in her diary that she was protecting his "25-year box" with personal documents.
 
-**FAKT**: Od pierwszej publikacji sprzedała się w ponad milionie egzemplarzy.
+**FACT**: Less than a year after O'Neill's death, Carlotta approached Random House demanding publication of the play against her husband's explicit wishes.
 
-**FAKT**: O'Neill był jedynym amerykańskim dramaturgiem, który otrzymał Nagrodę Nobla w dziedzinie literatury (1936).
+**FACT**: Publisher Bennett Cerf wrote in his memoirs: "Of course we refused, but then we learned with horror that legally all the cards were in her hands".
 
-**FAKT**: Sezon wiosenny 2016 był pierwszym od 1988 roku, kiedy dwie sztuki O'Neilla były jednocześnie wystawiane na Broadwayu.
+### Yale University Press and 1956 Publication
 
-### Międzynarodowe Oddziaływanie
+**FACT**: Carlotta published the play through Yale University Press in February 1956, with most proceeds going to the Eugene O'Neill Collection at Yale and drama school scholarships.
 
-**FAKT**: Sztuka była adaptowana na film ponownie w 1996 roku przez Davida Wellingtona.
-
-**FAKT**: Zainicjowała renesans O'Neilla w latach 50., 60. i 70. XX wieku.
-
-**FAKT**: Nadal jest regularnie wystawiana na całym świecie i uważana za niezbędną pozycję w teatrze amerykańskim.
+**FACT**: It's unclear why Monterey decided to break her husband's instructions - proceeds from North American publication went to Yale University, and royalties from the first Swedish production were given to the Stockholm theater cast.
 
 ---
 
-## KONTEKST NOBLA I CYKLU SZTUK
+## FIRST REACTIONS AND SUCCESSES
+
+### World Premieres
+
+**FACT**: The first presentation of the play took place on February 2, 1956, at the Royal Dramatic Theatre in Stockholm.
+
+**FACT**: The American premiere was held at Boston's Wilbur Theatre before the Broadway debut.
+
+**FACT**: The Broadway premiere took place on November 7, 1956, at the Helen Hayes Theatre, directed by José Quintero.
+
+### Broadway 1956 Premiere Cast
+
+**FACT**: Fredric March (James Tyrone) - won the Tony Award for Best Actor in a Leading Role.
+
+**FACT**: Florence Eldridge (Mary Tyrone) - March's real-life wife, nominated for a Tony Award.
+
+**FACT**: Jason Robards Jr. ("Jamie" Tyrone) - nominated for a Tony Award, the only actor from the original Broadway cast who reprised his role in the 1962 film.
+
+**FACT**: Bradford Dillman (Edmund) and Katherine Ross (Cathleen) completed the cast.
+
+**FACT**: The show ran from November 7, 1956, to March 29, 1958.
+
+---
+
+## AWARDS AND RECOGNITION
+
+### Major Honors
+
+**FACT**: O'Neill posthumously received the Pulitzer Prize for Drama in 1957 for "Long Day's Journey into Night".
+
+**FACT**: The play won the Tony Award for Best Play in 1957.
+
+**FACT**: It received the New York Drama Critics' Circle Award as the best play of the season.
+
+**FACT**: This was O'Neill's fourth Pulitzer Prize - making him the only playwright to win four Pulitzers for drama.
+
+### Status in Theater History
+
+**FACT**: The play is widely considered O'Neill's magnum opus and one of the greatest American plays of the 20th century.
+
+**FACT**: It frequently appears on lists of the best American plays of the 20th century alongside Tennessee Williams' "A Streetcar Named Desire" and Arthur Miller's "Death of a Salesman".
+
+---
+
+## FILM ADAPTATIONS
+
+### 1962 Film
+
+**FACT**: Directed by Sidney Lumet, starring Katharine Hepburn, Ralph Richardson, Jason Robards, and Dean Stockwell.
+
+**FACT**: The film was shot for $435,000 over 37 days (two days over schedule) at Chelsea Studios in New York.
+
+**FACT**: Lumet later wrote that the total budget was $490,000.
+
+**FACT**: Jason Robards was the only actor from the stage version who also performed in the film.
+
+**FACT**: Katharine Hepburn came out of a three-year "retirement" to play the difficult role of Mary Tyrone.
+
+**FACT**: The film won awards for Best Actor (Richardson, Robards, Stockwell) and Best Actress (Hepburn) at the Cannes Film Festival.
+
+**FACT**: Hepburn received Oscar and Golden Globe nominations for Best Actress.
+
+---
+
+## STATISTICS AND RECORDS
+
+### Numbers and Data
+
+**FACT**: The play runs over 3.5 hours.
+
+**FACT**: The action spans one day from about 8:30 AM to midnight in August 1912.
+
+**FACT**: Since its first publication, it has sold over one million copies.
+
+**FACT**: O'Neill was the only American playwright to receive the Nobel Prize in Literature (1936).
+
+**FACT**: The spring 2016 season was the first since 1988 when two O'Neill plays were simultaneously running on Broadway.
+
+### International Impact
+
+**FACT**: The play was adapted for film again in 1996 by David Wellington.
+
+**FACT**: It initiated an O'Neill renaissance in the 1950s, 60s, and 70s.
+
+**FACT**: It continues to be regularly performed worldwide and is considered essential in American theater.
+
+---
+
+## NOBEL CONTEXT AND PLAY CYCLE
 
 ### Nobel Prize 1936
 
-**FAKT**: O'Neill otrzymał Nagrodę Nobla w dziedzinie literatury w 1936 roku "za siłę, uczciwość i głęboko odczuwane emocje swoich dzieł dramatycznych, które ucieleśniają oryginalne pojęcie tragedii".
+**FACT**: O'Neill received the Nobel Prize in Literature in 1936 "for the power, honesty and deep-felt emotions of his dramatic works, which embody an original concept of tragedy".
 
-**FAKT**: Był drugim Amerykaninem, który otrzymał literacką nagrodę Nobla po Sinclairie Lewisie w 1930 roku.
+**FACT**: He was the second American to receive the Nobel Prize in Literature after Sinclair Lewis in 1930.
 
-**FAKT**: "Long Day's Journey into Night" została napisana w 1941 roku, lata po tym, jak O'Neill już wygrał Nobla.
+**FACT**: "Long Day's Journey into Night" was written in 1941, years after O'Neill had already won the Nobel.
 
-### Cykl "A Tale of Possessors Self-Dispossessed"
+### "A Tale of Possessors Self-Dispossessed" Cycle
 
-**FAKT**: Od 1935 do 1939 roku O'Neill poświęcił prawie całą swoją twórczą energię na rozległy cykl sztuk mających prześledzić historię amerykańskiej rodziny przez kilka pokoleń.
+**FACT**: From 1935 to 1939, O'Neill devoted almost all his creative energy to an extensive cycle of plays meant to trace the history of an American family through several generations.
 
-**FAKT**: Cykl miał być historią amerykańskiego postępu przemysłowego od wczesnych osadnictw w 1755 roku do powstania przemysłu samochodowego w 1932 roku.
+**FACT**: The cycle was to be a history of American industrial progress from early settlements in 1755 to the rise of the automobile industry in 1932.
 
-**FAKT**: Cykl rozpoczął się jako pojedyncza sztuka o klipera, osadzona w latach 1857-1858, ale rozszerzył się do jedenastu sztuk sięgających do 1754 lub 1755 roku.
+**FACT**: The cycle began as a single play about clippers, set in 1857-1858, but expanded to eleven plays reaching back to 1754 or 1755.
 
-**FAKT**: O'Neill celowo spalił większość manuskryptów cyklu, ocalały tylko fragmenty przekazane do Beinecke Rare Book and Manuscript Library Uniwersytetu Yale przez wdowę O'Neilla.
+**FACT**: O'Neill deliberately burned most of the cycle manuscripts; only fragments survived, donated to Yale's Beinecke Rare Book and Manuscript Library by O'Neill's widow.
 
-### Przejście do Autobiografii
+### Transition to Autobiography
 
-**FAKT**: Gdy jego stan zdrowia się pogarszał, O'Neill stracił inspirację do projektu cyklu i napisał trzy w dużej mierze autobiograficzne sztuki: "The Iceman Cometh", "Long Day's Journey into Night" i "A Moon for the Misbegotten".
+**FACT**: As his health deteriorated, O'Neill lost inspiration for the cycle project and wrote three largely autobiographical plays: "The Iceman Cometh", "Long Day's Journey into Night", and "A Moon for the Misbegotten".
 
-**FAKT**: "Long Day's Journey into Night" reprezentowała przejście od ambitnego historycznego projektu cyklu do głęboko osobistych, autobiograficznych dzieł.
-
----
-
-## CIEKAWOSTKI I ANEGDOTY
-
-### Ukryte Szczegóły Twórcze
-
-**PLOTKA**: O'Neill miał obsesję na punkcie liczby 13 - jego dom Tao House miał 13 pokoi, a on często pisał przy stole o 13 szufladach.
-
-**FAKT**: Dzienniki Carlotty umożliwiają obserwację dzień po dzień, jak powstawała sztuka, i książka argumentuje, że sztuka wywodzi się równie mocno z momentu jej tworzenia (1939-1941), jak z rodzinnej historii z 1912 roku, którą przedstawia.
-
-**FAKT**: O'Neill napisał sztukę jako sposób na "stawienie czoła swoim zmarłym" - forma terapii przez pisanie.
-
-**FAKT**: Pomimo głęboko osobistej natury sztuki, O'Neill starał się nie być stronniczym wobec żadnej z postaci - chciał pokazać wszystkich z "głębokim współczuciem i zrozumieniem".
-
-### Kontrowersje Publikacyjne
-
-**FAKT**: Zdrada Carlotty wobec nakazu męża była "sordid drama behind the drama" (sordyną dramatem za dramatem), ale niewielu dziś kwestionuje fakt, że dla amerykańskiej historii teatru Monterey podjęła niewątpliwie właściwą decyzję.
-
-**FAKT**: Wydawca Dwight MacDonald z magazynu Esquire napisał: "W swojej ekranowej wersji 'Long Day's Journey Into Night' Eugene'a O'Neilla, Sidney Lumet dał nam wspaniały kinowy przekład jedynej amerykańskiej sztuki, do której bardzo nadużywany przymiotnik 'wielka' może być poważnie zastosowany".
+**FACT**: "Long Day's Journey into Night" represented a transition from the ambitious historical cycle project to deeply personal, autobiographical works.
 
 ---
 
-## WPŁYW I DZIEDZICTWO
+## CURIOSITIES AND ANECDOTES
 
-### Długoterminowe Oddziaływanie
+### Hidden Creative Details
 
-**FAKT**: Sztuka stała się katalizatorem dla odnowy zainteresowania twórczością O'Neilla po jego śmierci.
+**RUMOR**: O'Neill had an obsession with the number 13 - his Tao House had 13 rooms, and he often wrote at a desk with 13 drawers.
 
-**FAKT**: Establishowała nowy standard dla amerykańskiego teatru autobiograficznego.
+**FACT**: Carlotta's diaries allow day-by-day observation of how the play was created, and scholars argue that the play derives as much from the moment of its creation (1939-1941) as from the 1912 family history it depicts.
 
-**FAKT**: Wpłynęła na całe pokolenia dramaturgów amerykańskich piszących o rodzinie i traumach.
+**FACT**: O'Neill wrote the play as a way to "face his dead" - a form of therapy through writing.
 
-**FAKT**: Pozostaje najczęściej wystawianą sztuką O'Neilla na całym świecie.
+**FACT**: Despite the deeply personal nature of the play, O'Neill tried not to be biased toward any of the characters - he wanted to show everyone with "deep compassion and understanding".
 
-### Edukacyjne Znaczenie
+### Publication Controversies
 
-**FAKT**: Jest obowiązkową lekturą w większości amerykańskich programów studiów nad teatrem i literaturą.
+**FACT**: Carlotta's betrayal of her husband's wishes was a "sordid drama behind the drama", but few today question that for American theater history, Monterey undoubtedly made the right decision.
 
-**FAKT**: Monte Cristo Cottage jest obecnie muzeum i miejscem pielgrzymek dla miłośników teatru.
-
-**FAKT**: Eugene O'Neill National Historic Site zawiera rozległe zasoby edukacyjne poświęcone sztuce.
+**FACT**: Publisher Dwight MacDonald of Esquire magazine wrote: "In his screen version of Eugene O'Neill's 'Long Day's Journey Into Night', Sidney Lumet has given us a magnificent cinematic translation of the only American play to which the much overworked adjective 'great' can be seriously applied".
 
 ---
 
-*Dokument zawiera 47 faktów potwierdzonych przez źródła historyczne oraz 1 plotkę wymagającą dalszej weryfikacji. Wszystkie informacje zostały zebrane z wiarygodnych źródeł akademickich, bibliotecznych i teatralnych.*
+## INFLUENCE AND LEGACY
+
+### Long-term Impact
+
+**FACT**: The play became a catalyst for renewed interest in O'Neill's work after his death.
+
+**FACT**: It established a new standard for American autobiographical theater.
+
+**FACT**: It influenced entire generations of American playwrights writing about family and trauma.
+
+**FACT**: It remains O'Neill's most frequently performed play worldwide.
+
+### Educational Significance
+
+**FACT**: It is required reading in most American theater and literature study programs.
+
+**FACT**: Monte Cristo Cottage is now a museum and pilgrimage site for theater lovers.
+
+**FACT**: The Eugene O'Neill National Historic Site contains extensive educational resources dedicated to the play.
+
+---
+
+*This document contains 47 facts confirmed by historical sources and 1 rumor requiring further verification. All information has been gathered from reliable academic, library, and theatrical sources.*

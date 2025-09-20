@@ -1,0 +1,15 @@
+media_info:
+  title: Stonehenge Construction Mystery - 3000-2000 BCE
+  author: Archaeological Documentation
+  year: -3000
+  genre: Ancient Mystery Documentary
+  description: A prehistoric monument in England whose exact purpose and construction
+    method remain unexplained despite modern archaeological investigations
+  target_audience: General public, students, archaeology enthusiasts, ancient history fans
+  duration: ~3 minutes
+  objective: Explore how massive stones were transported 220 miles and erected with
+    precision using Bronze Age technology
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

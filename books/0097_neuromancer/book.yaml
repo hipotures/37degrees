@@ -4,3 +4,174 @@ book_info:
   author: "William Gibson"
   year: 1984
   genre: "Cyberpunk,Science fiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-19T20:47:00Z"
+
+  scores:
+    controversy: 5
+    philosophical_depth: 9
+    cultural_phenomenon: 10
+    contemporary_reception: 8
+    relevance: 10
+    innovation: 10
+    structural_complexity: 7
+    social_roles: 6
+    total: 65
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.0
+      category: "high"
+    heat:
+      value: 7.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "cyberspace_definition"
+        type: "FACT"
+        credibility: 0.95
+        content: "Gibson coined 'cyberspace' and created foundational cyberpunk terminology that became standard"
+        source: "writing_innovation"
+      - id: "corporate_dystopia"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Zaibatsu dominance predicting modern tech giants and surveillance capitalism"
+        source: "dark_drama"
+      - id: "technology_addiction"
+        type: "FACT"
+        credibility: 0.95
+        content: "Case's cyberspace addiction mirrors modern digital dependency and social media addiction"
+        source: "reality_wisdom"
+      - id: "ai_consciousness"
+        type: "THEORY"
+        credibility: 0.75
+        content: "Wintermute/Neuromancer as early exploration of AI rights and machine consciousness"
+        source: "symbols_meanings"
+      - id: "posthuman_identity"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Body as 'meat' vs digital transcendence - foundational posthumanist themes"
+        source: "symbols_meanings"
+      - id: "prophetic_accuracy"
+        type: "FACT"
+        credibility: 0.90
+        content: "Predicted internet culture, surveillance capitalism, VR with extraordinary accuracy"
+        source: "reality_wisdom"
+      - id: "genre_foundation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created cyberpunk movement and directly inspired Matrix, anime, gaming culture"
+        source: "culture_impact"
+      - id: "orientalism_critique"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Japanese cultural appropriation accusations vs. legitimate influence acknowledgment"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western literature, direct Matrix inspiration"
+        key_editions: ["Penguin Galaxy edition", "Academic study guides"]
+        reception_notes: "Underground hit becoming academic staple"
+        educational_status: "University cyberpunk and postmodern literature courses"
+        local_themes: ["Techno-orientalism", "Corporate power critique"]
+      pl:
+        cultural_impact: "Delayed but deep cultural embedding, cyberpunk gaming connection"
+        key_editions: ["Książnica editions", "MAG trilogy"]
+        reception_notes: "Translation challenges but growing appreciation"
+        educational_status: "Supplementary reading for digital culture understanding"
+        local_themes: ["CD Projekt RED influence", "Post-communist tech themes"]
+      de:
+        cultural_impact: "Strong media theory engagement, Kittler's critical analysis"
+        key_editions: ["Klett-Cotta editions", "ARD radio drama"]
+        reception_notes: "Philosophical reception in academic circles"
+        educational_status: "Media theory and cybersecurity curricula"
+        local_themes: ["Human-machine symbiosis", "Technological sublime"]
+      fr:
+        cultural_impact: "Baudrillard parallels, Moebius visual influence feedback"
+        key_editions: ["J'ai Lu science fiction collection"]
+        reception_notes: "Postmodern theory alignment"
+        educational_status: "Literature and media theory courses"
+        local_themes: ["Simulacra and simulation", "Visual culture influence"]
+      es:
+        cultural_impact: "Multiple translation attempts, Latin American cyberpunk development"
+        key_editions: ["Minotauro editions", "David Tejera translation"]
+        reception_notes: "Translation quality concerns but sustained interest"
+        educational_status: "Science fiction and technological literature"
+        local_themes: ["Corporate power critique", "Technological ambivalence"]
+      pt:
+        cultural_impact: "Expert translation by Fábio Fernandes, Brazilian cyberpunk catalyst"
+        key_editions: ["Editora Aleph luxury editions"]
+        reception_notes: "High-quality translation enabling deep engagement"
+        educational_status: "University literature and communication courses"
+        local_themes: ["Digital inequality", "Urban dystopia parallels"]
+      ja:
+        cultural_impact: "Cultural feedback loop, terminology creation, manga/anime influence"
+        key_editions: ["Hayakawa Shobo SF series"]
+        reception_notes: "Complex reception as outsider's vision of Japan"
+        educational_status: "Cyberpunk and cross-cultural literature studies"
+        local_themes: ["Techno-orientalism", "East-West cultural exchange"]
+      ko:
+        cultural_impact: "Academic posthuman research, gaming culture connections"
+        key_editions: ["Hwang-geum-gaji Fantasy Literature"]
+        reception_notes: "Translation problems hindering wider appreciation"
+        educational_status: "English literature and posthuman consciousness courses"
+        local_themes: ["Cyborg citizenship", "Technology-human fusion ethics"]
+      hi:
+        cultural_impact: "Academic circulation, postcolonial cyberpunk potential"
+        key_editions: ["English language only"]
+        reception_notes: "Limited to English-speaking academic circles"
+        educational_status: "University science fiction and postcolonial literature"
+        local_themes: ["Technology and cultural identity", "Digital divide critique"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "Professor analyzing cyberpunk literature with scholarly depth"
+        host_b: "Graduate student asking for clarification and examples"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "Genre Genesis"
+          lead: "host_a"
+          description: "How Gibson created cyberpunk and coined 'cyberspace'"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "Prophetic Accuracy"
+          lead: "host_b"
+          description: "Examining predictions about internet, AI, and surveillance"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "Philosophical Frameworks"
+          lead: "host_a"
+          description: "Postmodern, posthumanist, and gnostic interpretations"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "Cultural Impact Analysis"
+          lead: "host_b"
+          description: "Matrix influence, academic canonization, global reception"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "Contemporary Relevance"
+          lead: "host_a"
+          description: "Digital addiction, corporate power, AI consciousness debates"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing Neuromancer with scholarly depth. Discuss structure, symbolism, literary techniques, and theoretical frameworks. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility for general listeners."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["technology addiction themes", "corporate manipulation", "cyberpunk violence", "digital consciousness"]
+    educational_elements: ["Cyberpunk genre characteristics", "Historical context of 1984", "Postmodern literary analysis", "Technology ethics"]
+    production_notes:
+      intro_style: "Cyberpunk atmospheric with academic gravitas"
+      transitions: "Subtle electronic bridges between segments"
+      outro_style: "Contemplative fade with digital undertones"
+
+  overall_confidence: 0.9

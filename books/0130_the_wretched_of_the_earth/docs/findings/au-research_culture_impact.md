@@ -1,346 +1,346 @@
-# Wpływ Kulturowy "Wyklętego ludu ziemi" Frantza Fanona
+# Cultural Impact of "The Wretched of the Earth" by Frantz Fanon
 
-## Wprowadzenie
+## Introduction
 
-"Wyklęty lud ziemi" (Les Damnés de la Terre, 1961) autorstwa Frantza Fanona to jedno z najbardziej wpływowych dzieł dekolonizacji XX wieku, które nadal odgrywa kluczową rolę w kształtowaniu współczesnej kultury popularnej i ruchów społecznych. Ta książka wykroczyła daleko poza ramy akademickie, stając się źródłem inspiracji dla artystów, muzyków, filmowców, aktywistów i twórców na całym świecie.
+"The Wretched of the Earth" (Les Damnés de la Terre, 1961) by Frantz Fanon is one of the most influential decolonization works of the 20th century, which continues to play a crucial role in shaping contemporary popular culture and social movements. This book went far beyond academic frameworks, becoming a source of inspiration for artists, musicians, filmmakers, activists, and creators worldwide.
 
-## I. ADAPTACJE FILMOWE I TELEWIZYJNE
+## I. FILM AND TELEVISION ADAPTATIONS
 
-### Filmy bezpośrednio inspirowane dziełem Fanona
+### Films directly inspired by Fanon's work
 
 **1. "The Battle of Algiers" (1966) - Gillo Pontecorvo**
-- Nazywany przez Pauline Kael filmem o "luksusowym, ekstatycznym eposie opowiedzianym z neo-marksistowskiej, fanonowskiej perspektywy"
-- Jeden z najbardziej radykalnych, rewolucyjnych filmów w historii kina
-- Bezpośrednio adaptuje teorie Fanona o przemocy jako sile wyzwoleńczej
+- Called by Pauline Kael a film about "a luxurious, ecstatic epic told from a neo-Marxist, Fanonian perspective"
+- One of the most radical, revolutionary films in cinema history
+- Directly adapts Fanon's theories about violence as a liberating force
 
 **2. "The Spook Who Sat by the Door" (1973) - Ivan Dixon**
-- Eksplozywna adaptacja powieści Sama Greenlee
-- Dixon przedstawia "amerykańskie getto jako fanonowską strefę wojenną"
-- Film został wycofany z kin w ciągu kilku dni od premiery ze względu na radykalność przesłania
+- Explosive adaptation of Sam Greenlee's novel
+- Dixon presents "the American ghetto as a Fanonian war zone"
+- Film was pulled from theaters within days of release due to the radical nature of its message
 
 **3. "Concerning Violence" (2014) - Göran Hugo Olsson**
-- Pierwszy znaczący film od czasów dokumentu Isaac'a Julien'a (1995) poruszający dzieło Fanona
-- Narowany przez Lauryn Hill, używa archiwalnych materiałów do eksploracji tematów kolonializmu
-- Podzielony na dziewięć rozdziałów zatytułowanych "Nine Scenes from the Anti-Imperialistic Self-Defense"
+- First significant film since Isaac Julien's documentary (1995) addressing Fanon's work
+- Narrated by Lauryn Hill, uses archival materials to explore themes of colonialism
+- Divided into nine chapters titled "Nine Scenes from the Anti-Imperialistic Self-Defense"
 
 **4. "Frantz Fanon: Black Skin, White Mask" (1995) - Isaac Julien**
-- Biograficzny dokument eksplorujący życie i dzieło Fanona
-- Pierwszy znaczący filmowy hołd dla myśli Fanona
-- Przygląda się teoriom tożsamości i rasy
+- Biographical documentary exploring Fanon's life and work
+- First significant cinematic tribute to Fanon's thought
+- Examines theories of identity and race
 
-### Filmy pośrednio wpływane przez Fanona
+### Films indirectly influenced by Fanon
 
 **5. "Black Panther" (2018) - Ryan Coogler**
-- Killmonger jako postać bezpośrednio czerpie z ducha Fanona
-- Film przedstawia filozoficzny podział między izolacjonizmem T'Challi a rewolucyjnym internacjonalizmem Killmongera
-- Wakanda jako nieistniejąca w rzeczywistości "dekolonialna afrykańska utopia"
+- Killmonger as a character directly draws from Fanon's spirit
+- Film presents a philosophical divide between T'Challa's isolationism and Killmonger's revolutionary internationalism
+- Wakanda as a non-existent "decolonial African utopia"
 
-### Reżyserzy inspirowani Fanonem
+### Directors inspired by Fanon
 
-**Międzynarodowi twórcy pod wpływem Fanona:**
+**International creators influenced by Fanon:**
 - **Ousmane Sembène** (Senegal)
-- **Claude Lanzmann** (Francja)
-- **Glauber Rocha** (Brazylia)
-- **Claire Denis** (Francja)
-- **Med Hondo** (Mauretania/Francja)
+- **Claude Lanzmann** (France)
+- **Glauber Rocha** (Brazil)
+- **Claire Denis** (France)
+- **Med Hondo** (Mauritania/France)
 - **Sarah Maldoror** (Guadeloupe)
 
-## II. WPŁYW NA MUZYKĘ I KULTURĘ HIP-HOPOWĄ
+## II. INFLUENCE ON MUSIC AND HIP-HOP CULTURE
 
-### Bezpośredni wpływ na rap i hip-hop
+### Direct influence on rap and hip-hop
 
 **6. Public Enemy**
-- Chuck D czerpał z rewolucyjnych tekstów, w tym dzieł Fanona
-- Ich muzyka służyła jako forma edukacji politycznej zgodnej z ideami Fanona o świadomości i wyzwoleniu
-- Podejście do krytyki amerykańskiego społeczeństwa i doświadczenia Czarnych
+- Chuck D drew from revolutionary texts, including Fanon's works
+- Their music served as a form of political education consistent with Fanon's ideas about consciousness and liberation
+- Approach to criticizing American society and Black experience
 
 **7. Tupac Shakur**
-- Był znany z inspirowania się rewolucyjnymi tekstami, w tym pracami Fanona
-- Jego teksty często odzwierciedlały antykolonialną i rewolucyjną świadomość postulowaną przez "Wyklętego ludu ziemi"
-- Podejście do przemocy policyjnej i systemowego rasizmu nawiązywało do analiz Fanona
+- Was known for drawing inspiration from revolutionary texts, including Fanon's works
+- His lyrics often reflected the anti-colonial and revolutionary consciousness advocated by "The Wretched of the Earth"
+- Approach to police violence and systemic racism referenced Fanon's analyses
 
 **8. Kendrick Lamar**
-- W wywiadach i muzyce odnosi się do konceptów Fanona
-- Jego twórczość eksploruje tematy systemowego ucisku i potrzeby podnoszenia świadomości marginalizowanych społeczności
-- Album "To Pimp a Butterfly" (2015) zawiera motywy dekolonizacji umysłu
+- In interviews and music refers to Fanon's concepts
+- His work explores themes of systemic oppression and the need to raise awareness in marginalized communities
+- Album "To Pimp a Butterfly" (2015) contains themes of decolonizing the mind
 
-### Teoretyczne związki z hip-hopem
+### Theoretical connections with hip-hop
 
-**9. Analiza przemocy systemowej vs. rewolucyjnej**
-- Hip-hop jako medium artykułowania krytyki systemu kolonialnego/rasistowskiego
-- Artyści używają platform do adresowania psychologicznych i społecznych skutków opresji analizowanych przez Fanona
+**9. Analysis of systemic vs. revolutionary violence**
+- Hip-hop as a medium for articulating criticism of the colonial/racist system
+- Artists use platforms to address psychological and social effects of oppression analyzed by Fanon
 
-## III. SZTUKI WIZUALNE I POSTKOLONIALNE
+## III. VISUAL ARTS AND POSTCOLONIAL
 
-### Współcześni artyści pod wpływem Fanona
+### Contemporary artists influenced by Fanon
 
 **10. Kara Walker**
-- Jej prace głęboko zakorzenione w kontekstach historycznych i kulturowych
-- Czerpie z dziedzictwa niewolnictwa, wojny domowej i ery Jim Crow
-- Subwertuje tradycyjne narracje historyczne, przedstawiając kontr-narrację
-- Używa techniki sylwetki do demaskowania konstrukcji rasy
+- Her works deeply rooted in historical and cultural contexts
+- Draws from the legacy of slavery, civil war, and Jim Crow era
+- Subverts traditional historical narratives, presenting counter-narratives
+- Uses silhouette technique to unmask constructions of race
 
 **11. Kehinde Wiley**
-- Znany z naturalistycznych portretów Czarnych osób odnoszących się do dzieł Starych Mistrzów
-- "Wiele z przesłania Kehinde'a polega na asertywnym przedstawieniu czarnej obecności w w dużej mierze białej, męskiej historii sztuki zachodniej"
-- Należy do współczesnych artystów dążących do zmiany równowagi rasowej władzy poprzez sztukę
+- Known for naturalistic portraits of Black people referencing Old Masters' works
+- "Much of Kehinde's message lies in assertively presenting black presence in largely white, male Western art history"
+- Belongs to contemporary artists striving to change racial power balance through art
 
-**12. Teoretyczne ramy wizualne**
-- Fanon opisywał kolonializm jako zjawisko złożone w dużej mierze z doświadczeń wizualnych
-- Jego koncepcja "spojrzenia kolonialnego" szczególnie wpływowa dla artystów wizualnych
-- Artyści używają jego teorii do demaskowania konstruowania tożsamości rasowej
+**12. Visual theoretical frameworks**
+- Fanon described colonialism as a complex phenomenon largely composed of visual experiences
+- His concept of "colonial gaze" particularly influential for visual artists
+- Artists use his theories to unmask the construction of racial identity
 
-## IV. RUCH BLACK LIVES MATTER I AKTYWIZM
+## IV. BLACK LIVES MATTER MOVEMENT AND ACTIVISM
 
-### Bezpośredni wpływ na Black Panther Party
+### Direct influence on Black Panther Party
 
-**13. Obowiązkowa lektura**
-- "Wyklęty lud ziemi" była obowiązkową lekturą dla każdego nowego członka BPP
-- Książka stała się niemal ich "biblią polityczną"
-- Eldridge Cleaver nazwał ją "Czarną Biblią" rewolucji
+**13. Required reading**
+- "The Wretched of the Earth" was required reading for every new BPP member
+- The book became almost their "political bible"
+- Eldridge Cleaver called it the "Black Bible" of revolution
 
-**14. Filozofia Black Panthers**
-- Filozofia BPP była inspirowana przemówieniami Malcolma X, naukami Mao Tse-tunga i antykolonialną książką Fanona
-- Huey P. Newton otrzymał od Bobby'ego Seale'a kopię "Wyklętego ludu ziemi" podczas jednego z pierwszych spotkań
+**14. Black Panthers philosophy**
+- BPP philosophy was inspired by Malcolm X's speeches, Mao Tse-tung's teachings, and Fanon's anti-colonial book
+- Huey P. Newton received a copy of "The Wretched of the Earth" from Bobby Seale during one of their first meetings
 
-### Współczesny aktywizm
+### Contemporary activism
 
 **15. Black Lives Matter**
-- W 2020 roku książka Fanona znalazła nowych czytelników w następstwie protestów Black Lives Matter
-- Dzieło pozostaje "ciągłą inspiracją dla ruchów od Black Lives Matter po dekolonizację"
+- In 2020, Fanon's book found new readers following Black Lives Matter protests
+- The work remains "continuous inspiration for movements from Black Lives Matter to decolonization"
 
 **16. Hashtag activism**
-- "#decolonizeyourmind" używany obok hashtagów jak #blacklivesmatter, #socialjustice, #antiracism
-- Setek tysięcy hashtagów "decolonize" używanych na platformach społecznościowych
+- "#decolonizeyourmind" used alongside hashtags like #blacklivesmatter, #socialjustice, #antiracism
+- Hundreds of thousands of "decolonize" hashtags used on social media platforms
 
-## V. EDUKACJA I AKADEMIA
+## V. EDUCATION AND ACADEMIA
 
-### Uniwersytety na świecie
+### Universities worldwide
 
-**17. Curricula uniwersyteckie**
-- Włączane do programów studiów jako sposób nauczania o Black Lives Matter i ruchach dekolonizacyjnych
-- Postrzegane jako "mistrzowska i ponadczasowa interrogacja rasy, kolonializmu, traumy psychologicznej i walki rewolucyjnej"
+**17. University curricula**
+- Included in study programs as a way to teach about Black Lives Matter and decolonization movements
+- Perceived as "masterful and timeless interrogation of race, colonialism, psychological trauma, and revolutionary struggle"
 
-**18. Zasoby pedagogiczne**
-- "Fanon and Education: Thinking Through Pedagogical Possibilities" jako ważny zasób edukacyjny
-- Używane do nauki o współczesnych dyskusjach postkolonialnych w walkach o wyzwolenie
+**18. Pedagogical resources**
+- "Fanon and Education: Thinking Through Pedagogical Possibilities" as important educational resource
+- Used to teach about contemporary postcolonial discussions in liberation struggles
 
-### W Polsce
+### In Poland
 
-**19. Polskie tłumaczenie**
-- Tytuł: "Wyklęty lud ziemi", tłumaczenie: Hanna Tygielska
-- Wydane w 1985 przez Państwowy Instytut Wydawniczy w Warszawie
-- Wznowione w 2012 przez Maoistowski Projekt Dokumentacyjny
-- Obecne w katalogach bibliotek uniwersyteckich (np. Uniwersytet w Bielsku-Białej)
+**19. Polish translation**
+- Title: "Wyklęty lud ziemi", translation: Hanna Tygielska
+- Published in 1985 by Państwowy Instytut Wydawniczy in Warsaw
+- Reissued in 2012 by Maoist Documentation Project
+- Present in university library catalogs (e.g., University of Bielsko-Biała)
 
-**20. Polskie publikacje akademickie**
-- Artykuł "«Nostalgieria»: Derrida przed i po Frantzu Fanonie" (Ethics in Progress, 2016)
-- Uznawane za niezwykle aktualne w kontekście współczesnej "globalnej rywalizacji o strefy wpływów, ludobójstw, grabieży zasobów i polityki rasistowskiej"
+**20. Polish academic publications**
+- Article "«Nostalgieria»: Derrida before and after Frantz Fanon" (Ethics in Progress, 2016)
+- Recognized as extremely relevant in the context of contemporary "global competition for spheres of influence, genocides, resource grabbing, and racist politics"
 
-## VI. PSYCHOLOGIA I TERAPIA
+## VI. PSYCHOLOGY AND THERAPY
 
-### Ruch dekolonizacji terapii
+### Therapy decolonization movement
 
-**21. "Black Skin, White Masks" w terapii**
-- Stało się podstawowym tekstem teorii postkolonialnej
-- Używane do zrozumienia, jak tożsamość, szczególnie Czarność, jest konstruowana w kontekście kolonizacji
+**21. "Black Skin, White Masks" in therapy**
+- Became a foundational text for postcolonial theory
+- Used to understand how identity, particularly Blackness, is constructed in the context of colonization
 
-**22. Współczesne podejścia terapeutyczne**
-- Dekolonizacja praktyki terapeutycznej poprzez integrację doświadczeń spoza "dominującej kultury zachodniego białego Brytyjczyka"
-- Terapeuci implementują podejścia dekolonizacyjne, uznając dynamikę władzy
+**22. Contemporary therapeutic approaches**
+- Decolonization of therapeutic practice through integration of experiences outside "dominant white British Western culture"
+- Therapists implement decolonization approaches, recognizing power dynamics
 
-**23. Krytyka zachodniej psychologii**
-- Fanon wskazywał na "znaczące trudności w próbie zastosowania teorii Freuda, Adlera i Junga do studiów nad Murzynami"
-- Jego praca nadal wpływa na współczesne ruchy ku tworzeniu bardziej responsywnych kulturowo praktyk terapeutycznych
+**23. Critique of Western psychology**
+- Fanon pointed to "significant difficulties in trying to apply theories of Freud, Adler, and Jung to studies of Negroes"
+- His work still influences contemporary movements toward creating more culturally responsive therapeutic practices
 
-## VII. TEATR I SZTUKI PERFORMATYWNE
+## VII. THEATER AND PERFORMING ARTS
 
-### Adaptacje teatralne
+### Theater adaptations
 
-**24. Performance improwizowane**
-- Performance wykorzystujące eseje czarnoskórych intelektualistów, w tym Fanona
-- Opisywane jako "ponadczasowy, transkontinentalny spacer od Konga Lumumby po Alabamę, od kopalń Johannesburga po Lagos"
+**24. Improvised performances**
+- Performances utilizing essays by Black intellectuals, including Fanon
+- Described as "timeless, transcontinental walk from Lumumba's Congo to Alabama, from Johannesburg mines to Lagos"
 
-**25. Dekolonizacja teatru afrykańskiego**
-- Fanon używany jako teoretyczna podstawa do "odczytywania i komentowania teatru afrykańskiego"
-- Teatr w koloniach musi opierać się na tym, co polityczne i pedagogiczne
+**25. Decolonization of African theater**
+- Fanon used as theoretical foundation for "reading and commenting on African theater"
+- Theater in colonies must be based on the political and pedagogical
 
-**26. Film adaptacja (1969)**
-- "The Wretched of the Earth" w reżyserii Valentino Orsini
-- Z Frank Wolff, Marilù Tolo, Serigne Ndiaye Gonzales
+**26. Film adaptation (1969)**
+- "The Wretched of the Earth" directed by Valentino Orsini
+- Starring Frank Wolff, Marilù Tolo, Serigne Ndiaye Gonzales
 
-## VIII. MERCHANDISE I KOMERCJALIZACJA
+## VIII. MERCHANDISE AND COMMERCIALIZATION
 
-### Moda i streetwear
+### Fashion and streetwear
 
-**27. T-shirty z motywami Fanona**
-- "The Wretched of the Earth T-Shirt" łączące "głębię intelektualną ze stylem gotowym na ulicę"
-- Marketowane dla "uczonych, aktywistów i miłośników myśli radykalnej"
-- Idealne "na wykład, protest, lub po prostu wyrażanie swoich wartości w codziennym życiu"
+**27. T-shirts with Fanon motifs**
+- "The Wretched of the Earth T-Shirt" combining "intellectual depth with street-ready style"
+- Marketed for "scholars, activists, and lovers of radical thought"
+- Perfect "for lectures, protests, or simply expressing your values in daily life"
 
 ### Protest signs
 
 **28. Wretched of the Earth Coalition**
-- Koalicja grup sprawiedliwości klimatycznej prowadzona przez ludność rdzenną i kolorowych w Wielkiej Brytanii
-- Nazwa organizacji oparta na książce Fanona
-- Transparenty głoszące społeczności rdzenne i globalnego południa jako "Wretched of the Earth"
+- Coalition of climate justice groups led by indigenous people and people of color in Great Britain
+- Organization name based on Fanon's book
+- Banners proclaiming indigenous communities and global south as "Wretched of the Earth"
 
-**29. Kontrowersje z transparentami**
-- Podczas People's Climate March w Londynie żądano usunięcia transparentów głoszących "British Imperialism causes climate injustice"
-- Grupa odpowiedziała listem otwartym wyrażającym ból z powodu zmuszenia do usuwania transparentów
+**29. Banner controversies**
+- During People's Climate March in London, demands to remove banners stating "British Imperialism causes climate injustice"
+- Group responded with open letter expressing pain over being forced to remove banners
 
-## IX. CYFROWE MEDIA I MEMY
+## IX. DIGITAL MEDIA AND MEMES
 
 ### Social media activism
 
-**30. Hashtagi dekolonizacyjne**
-- "#decolonizeyourmind" powszechnie używany obok hashtagów aktywistycznych
-- Setki tysięcy hashtagów "decolonize" na różnych platformach
-- Połączone z #indigenous, #blacklivesmatter, #socialjustice
+**30. Decolonization hashtags**
+- "#decolonizeyourmind" commonly used alongside activist hashtags
+- Hundreds of thousands of "decolonize" hashtags on various platforms
+- Connected with #indigenous, #blacklivesmatter, #socialjustice
 
-**31. Black Twitter i aktywizm**
-- Twitter stał się ważną platformą dla historycznie marginalizowanych grup
-- Hashtagi służą do promocji kontr-narracji i wyprzedzania politycznego spinu
+**31. Black Twitter and activism**
+- Twitter became an important platform for historically marginalized groups
+- Hashtags serve to promote counter-narratives and preempt political spin
 
-## X. NAUKOWA FANTASTYKA I GRY
+## X. SCIENCE FICTION AND GAMES
 
-### Tematy cyberpunk i postkolonialne
+### Cyberpunk and postcolonial themes
 
-**32. Wpływ na literaturę sci-fi**
-- Koncepcje kolonizacji umysłu w cyberpunku
-- Tematy oporu wobec systemów kontroli
-- Analiza władzy korporacyjnej jako nowej formy kolonializmu
+**32. Influence on sci-fi literature**
+- Concepts of mind colonization in cyberpunk
+- Themes of resistance to control systems
+- Analysis of corporate power as new form of colonialism
 
-## XI. KONTROWERSJE I KRYTYKA
+## XI. CONTROVERSIES AND CRITICISM
 
-### Nadużywanie cytatów o przemocy
+### Misuse of violence quotes
 
-**33. Błędne tłumaczenia**
-- Słynny cytat "violence is a cleansing force" to mistranslation
-- Fanon faktycznie pisał, że przemoc "dis-intoxicates" - usuwa otumanienie podporządkowania porządkowi kolonijnemu
+**33. Mistranslations**
+- Famous quote "violence is a cleansing force" is a mistranslation
+- Fanon actually wrote that violence "dis-intoxicates" - removes the stupor of subordination to colonial order
 
-**34. Wyrywanie z kontekstu**
-- Najbardziej kontrowersyjne uwagi Fanona o katartycznych efektach przemocy są często wyrywane z kontekstu
-- Fanon nie był orędownikiem przemocy bezinteresownej
+**34. Taking out of context**
+- Fanon's most controversial remarks about cathartic effects of violence are often taken out of context
+- Fanon was not an advocate of disinterested violence
 
-**35. Nadużycia polityczne**
-- Poglądy Fanona były ekstrapolowane dla usprawiedliwienia siły militarnej przy każdej okazji
-- Administracja Busha postrzegała przemoc jako sposób przywrócenia porządku dekolonizowanym miejscom
-- Putin mówił w kategoriach "oczyszczających" o Ukrainie
+**35. Political misuse**
+- Fanon's views were extrapolated to justify military force at every opportunity
+- Bush administration saw violence as way to restore order to decolonized places
+- Putin spoke in "cleansing" terms about Ukraine
 
-## XII. MIEJSCA PAMIĘCI I MUZEA
+## XII. MEMORIAL SITES AND MUSEUMS
 
-### Szpital psychiatryczny Blida-Joinville
+### Blida-Joinville psychiatric hospital
 
-**36. Historyczne znaczenie**
-- Fanon pracował jako chef de service w największym szpitalu psychiatrycznym w Algierii (1953-1957)
-- Miejsce, gdzie zrozumiał, że "kolonizacja była głównym producentem szaleństwa"
-- Rewolucjonizował główne praktyki psychiatryczne
+**36. Historical significance**
+- Fanon worked as chef de service at the largest psychiatric hospital in Algeria (1953-1957)
+- Place where he understood that "colonization was the main producer of madness"
+- Revolutionized main psychiatric practices
 
-**37. Stan obecny**
-- Szpital psychiatryczny Blida-Joinville obecnie reprezentuje rozpadającą się psychiatryczną opiekę stacjonarną
-- Opisywany jako "ruiny medyczne" będące produktami reżimów postkolonialnych
+**37. Current state**
+- Blida-Joinville psychiatric hospital currently represents decaying inpatient psychiatric care
+- Described as "medical ruins" being products of postcolonial regimes
 
-### Klinika jako mikrokosmos wojny
+### Clinic as microcosm of war
 
-**38. Leczenie podczas rewolucji algierskiej**
-- Po rozpoczęciu rewolucji algierskiej w 1954, Fanon leczył bojowników i ludność cywilną z obu stron konfliktu
-- Ostatecznie został wydalony z Algierii za udzielanie schronienia i leczenia rebeliantom FLN
+**38. Treatment during Algerian revolution**
+- After the start of Algerian revolution in 1954, Fanon treated fighters and civilians from both sides of conflict
+- Eventually expelled from Algeria for providing shelter and treatment to FLN rebels
 
-## XIII. GLOBALNE DZIEDZICTWO
+## XIII. GLOBAL LEGACY
 
-### Wpływ na ruchy wyzwolenia
+### Influence on liberation movements
 
-**39. Ameryka Południowa**
-- Wpływ na Ernesto Che Guevarę na Kubie
-- Inspiracja dla lewicowych ruchów w całej Ameryce Łacińskiej
+**39. South America**
+- Influence on Ernesto Che Guevara in Cuba
+- Inspiration for leftist movements throughout Latin America
 
-**40. Afryka**
-- Wpływ na Steve Biko w Afryce Południowej
-- Inspiracja dla przywódców niepodległości w całej Afryce
+**40. Africa**
+- Influence on Steve Biko in South Africa
+- Inspiration for independence leaders throughout Africa
 
-**41. Azja**
-- Ali Shariati w Iranie
-- Wpływ na ruchy antykolonialne w Azji
+**41. Asia**
+- Ali Shariati in Iran
+- Influence on anti-colonial movements in Asia
 
-### Współczesne aplikacje
+### Contemporary applications
 
-**42. Ruchy klimatyczne**
-- Wretched of the Earth Coalition w działaniach na rzecz sprawiedliwości klimatycznej
-- Łączenie kwestii kolonialnych z kryzysem klimatycznym
+**42. Climate movements**
+- Wretched of the Earth Coalition in climate justice actions
+- Connecting colonial issues with climate crisis
 
-**43. Ruchy #MeToo i feminizm**
-- Aplikacja teorii dekolonizacji do kwestii genderowych
-- Analiza patriarchatu jako formy kolonizacji
+**43. #MeToo movements and feminism**
+- Application of decolonization theory to gender issues
+- Analysis of patriarchy as form of colonization
 
-## XIV. WPŁYW NA SZTUKĘ WSPÓŁCZESNĄ
+## XIV. INFLUENCE ON CONTEMPORARY ART
 
-### Instalacje i performance art
+### Installations and performance art
 
-**44. Artyści queer pod wpływem Fanona**
-- Kara Walker w kontekście teorii queer
-- Badanie perspektywy Fanona na naturę czarnej homoseksualności i męskości
+**44. Queer artists influenced by Fanon**
+- Kara Walker in queer theory context
+- Exploring Fanon's perspective on nature of black homosexuality and masculinity
 
-**45. Sztuka video**
-- Artyści używający archiwów kolonijalnych w stylu "Concerning Violence"
-- Dekonstrukcja obrazów kolonialnych poprzez sztukę video
+**45. Video art**
+- Artists using colonial archives in style of "Concerning Violence"
+- Deconstruction of colonial images through video art
 
-## XV. LITERATURA I POEZJA
+## XV. LITERATURE AND POETRY
 
-### Wpływ na pisarzy postkolonialnych
+### Influence on postcolonial writers
 
-**46. Afrykańscy pisarze**
-- Ngugi wa Thiong'o i kwestie językowe w literaturze
-- Chinua Achebe i reprezentacja Afryki
+**46. African writers**
+- Ngugi wa Thiong'o and language issues in literature
+- Chinua Achebe and representation of Africa
 
-**47. Poezja karaibska i afrykańska**
-- Wpływ na ruch Négritude
-- Aimé Césaire i poetyckie wyrażenie dekolonizacji
+**47. Caribbean and African poetry**
+- Influence on Négritude movement
+- Aimé Césaire and poetic expression of decolonization
 
-## XVI. FEMINIZM I STUDIA GENDEROWE
+## XVI. FEMINISM AND GENDER STUDIES
 
-### Krytyczne ujęcia gender
+### Critical gender approaches
 
-**48. Feministyczne interpretacje Fanona**
-- Sylvia Wynter i rozwój teorii czarnej krytycznej
-- Zakkiyah Iman Jackson i analizy anty-Czarności
+**48. Feminist interpretations of Fanon**
+- Sylvia Wynter and development of black critical theory
+- Zakkiyah Iman Jackson and analyses of anti-Blackness
 
-**49. Krytyka maskulinistycznego podejścia**
-- Debaty o przedstawieniu kobiet w "Wyklętym ludu ziemi"
-- Współczesne feministyczne reinterpretacje dzieła
+**49. Critique of masculinist approach**
+- Debates about representation of women in "The Wretched of the Earth"
+- Contemporary feminist reinterpretations of the work
 
-## XVII. TECHNOLOGIA I NOWE MEDIA
+## XVII. TECHNOLOGY AND NEW MEDIA
 
-### Dekolonizacja cyfrowa
+### Digital decolonization
 
 **50. Algorithmic bias**
-- Aplikacja teorii kolonialnej do algorytmów sztucznej inteligencji
-- Badania nad tym, jak technologia utrwala nierówności rasowe
+- Application of colonial theory to artificial intelligence algorithms
+- Research on how technology perpetuates racial inequalities
 
 **51. Digital divide**
-- Analizy dostępu do technologii przez pryzmat teorii postkolonialnej
-- Fanon jako rama teoretyczna dla zrozumienia wykluczenia cyfrowego
+- Analyses of technology access through postcolonial theory lens
+- Fanon as theoretical framework for understanding digital exclusion
 
-## XVIII. WPŁYW NA PEDAGOGIKĘ KRYTYCZNĄ
+## XVIII. INFLUENCE ON CRITICAL PEDAGOGY
 
-### Paulo Freire i Fanon
+### Paulo Freire and Fanon
 
-**52. Pedagogika uciśnionych**
-- Połączenie idei Fanona z pedagogiką krytyczną Freire'a
-- Edukacja jako praktyka wolności
+**52. Pedagogy of the oppressed**
+- Combining Fanon's ideas with Freire's critical pedagogy
+- Education as practice of freedom
 
-**53. Dekolonizacja curriculum**
-- Ruch "decolonise the curriculum" na uniwersytetach
-- Fanon jako teoretyczna podstawa reformy edukacyjnej
+**53. Curriculum decolonization**
+- "Decolonise the curriculum" movement at universities
+- Fanon as theoretical foundation for educational reform
 
-## Podsumowanie
+## Summary
 
-"Wyklęty lud ziemi" Frantza Fanona przekroczył granice zwykłej książki akademickiej, stając się żywym, inspirującym źródłem dla niezliczonych twórców, aktywistów i myślicieli na przestrzeni ponad sześciu dekad. Od bezpośrednich adaptacji filmowych po streetwearowe t-shirty, od obowiązkowej lektury Black Panthers po hashtagi współczesnego aktywizmu, wpływ tej książki jest wszechobecny i trwały.
+"The Wretched of the Earth" by Frantz Fanon transcended the boundaries of ordinary academic books, becoming a living, inspiring source for countless creators, activists, and thinkers over more than six decades. From direct film adaptations to streetwear t-shirts, from Black Panthers' required reading to contemporary activism hashtags, the influence of this book is omnipresent and enduring.
 
-Szczególnie znaczące jest to, że dzieło Fanona nie tylko zachowało swoją aktualność, ale wciąż ewoluuje, znajdując nowe zastosowania w erze mediów społecznościowych, ruchów klimatycznych i debat o sztucznej inteligencji. Jego teoretyczne ramy zostały zaadoptowane przez najróżniejsze ruchy - od Black Lives Matter po #MeToo, od dekolonizacji therapii po reformy uniwersyteckie.
+Particularly significant is that Fanon's work not only maintained its relevance but continues to evolve, finding new applications in the era of social media, climate movements, and artificial intelligence debates. His theoretical frameworks have been adopted by the most diverse movements - from Black Lives Matter to #MeToo, from therapy decolonization to university reforms.
 
-Jednocześnie książka pozostaje źródłem kontrowersji, szczególnie w kwestii interpretacji roli przemocy w procesach wyzwolenia. Pokazuje to żywotność i złożoność myśli Fanona - dzieła, które nadal prowokuje, inspiruje i zmusza do myślenia o fundamentalnych kwestiach władzy, tożsamości i ludzkiej godności we współczesnym świecie.
+At the same time, the book remains a source of controversy, particularly regarding interpretation of violence's role in liberation processes. This shows the vitality and complexity of Fanon's thought - a work that still provokes, inspires, and compels thinking about fundamental questions of power, identity, and human dignity in the contemporary world.
 
 ---
 
-*Dokument został opracowany na podstawie badań przeprowadzonych w 2025 roku, wykorzystujących źródła internetowe, publikacje akademickie oraz materiały kultury popularnej dotyczące wpływu "Wyklętego ludu ziemi" na współczesną kulturę.*
+*This document was prepared based on research conducted in 2025, utilizing internet sources, academic publications, and popular culture materials regarding the influence of "The Wretched of the Earth" on contemporary culture.*

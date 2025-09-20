@@ -1,336 +1,336 @@
-# Dark Drama Research: Oresteja Ajschylosa - Skandale, Kontrowersje i Mroczne Interpretacje
+# Dark Drama Research: The Oresteia by Aeschylus - Scandals, Controversies and Dark Interpretations
 
-## Wprowadzenie
-Oresteja (458 p.n.e.) Ajschylosa to jedyna zachowana w całości trylogia grecka, ale za jej majestatyczną fasadą kryją się liczne kontrowersje, mroczne interpretacje i skandale związane z autorem. To badanie odkrywa „dark side" największego dzieła dramatu antycznego.
+## Introduction
+The Oresteia (458 BC) by Aeschylus is the only complete Greek trilogy that has survived, but behind its majestic facade lie numerous controversies, dark interpretations and scandals related to the author. This research uncovers the "dark side" of ancient drama's greatest work.
 
 ---
 
 ## I. CONSPIRACY THEORIES & DARK INTERPRETATIONS
 
-### 1. Okultystyczne Powiązania z Misteriami Eleuzyńskimi
-**FAKT**: Ajschylos urodził się w Eleusis, centrum słynnych misteriów eleuzyńskich, a jego ojciec był prawdopodobnie kapłanem tych kultów.
+### 1. Occult Connections to the Eleusinian Mysteries
+**FACT**: Aeschylus was born in Eleusis, the center of the famous Eleusinian Mysteries, and his father was probably a priest of these cults.
 
-**TEORIA**: Oresteja zawiera zaszyfrowane odniesienia do tajnych rytualów misteryjnych. Symbolika ofiary, krwi i przemiany duchowej w trylogii może być bezpośrednim odzwierciedleniem ezoterycznych praktyk.
+**THEORY**: The Oresteia contains encrypted references to secret mystery rituals. The symbolism of sacrifice, blood and spiritual transformation in the trilogy may be a direct reflection of esoteric practices.
 
-**FAKT**: Ajschylos został oficjalnie oskarżony o ujawnienie sekretów Misteriów Eleuzyńskich na scenie teatralnej - zarzut grożący karą śmierci.
+**FACT**: Aeschylus was officially accused of revealing the secrets of the Eleusinian Mysteries on the theatrical stage - a charge punishable by death.
 
-**TEORIA SPISKOWA**: Niektóre źródła sugerują, że proces przeciwko Ajschylosowi był w rzeczywistości politycznym atakiem arystokracji na jego demokratyczne poglądy, wykorzystującym pretekst religijny.
+**CONSPIRACY THEORY**: Some sources suggest that the trial against Aeschylus was actually a political attack by the aristocracy on his democratic views, using religious pretexts.
 
-### 2. Krwawe Rytuały i Symbolika Okultystyczna
-**FAKT**: Oresteja zawiera najbardziej intensywną symbolikę krwi, ofiary i rytualnego zabijania w całej literaturze greckiej.
+### 2. Bloody Rituals and Occult Symbolism
+**FACT**: The Oresteia contains the most intense symbolism of blood, sacrifice and ritual killing in all Greek literature.
 
-**MROCZNA INTERPRETACJA**: Cykl zemsty w Orestei może być literackim odzwierciedleniem rzeczywistych rytualnych morderstw praktykowanych przez greckie elity. Scena zabicia Agamemnona przez Klitajmestrę została opisana z wykorzystaniem imagerii libacji - krew ofiary jako napój dla bogów.
+**DARK INTERPRETATION**: The cycle of revenge in the Oresteia may be a literary reflection of actual ritual murders practiced by Greek elites. The scene of Agamemnon's murder by Clytemnestra was described using libation imagery - the victim's blood as a drink for the gods.
 
-**TEORIA**: Obrazy sieci i pułapek w trylogii mogą nawiązywać do praktyk magicznych - "łapanie" wroga w metafizycznych sieciach zaklęć.
+**THEORY**: The images of nets and traps in the trilogy may refer to magical practices - "catching" the enemy in metaphysical spell nets.
 
-### 3. Propagandystyczne Znaczenie Polityczne
-**FAKT**: Oresteja została napisana zaledwie 8 lat po bitwie pod Salaminą, w której Ajschylos walczył przeciwko Persom.
+### 3. Propagandistic Political Significance
+**FACT**: The Oresteia was written only 8 years after the Battle of Salamis, in which Aeschylus fought against the Persians.
 
-**ZARZUT**: Trylogia była wyrafinowaną propagandą ateńskiej demokracji i antyperskich nastrojów. Ajschylos wykorzystał swoją sławę jako weterana wojennego do manipulowania opinią publiczną.
+**ACCUSATION**: The trilogy was sophisticated propaganda for Athenian democracy and anti-Persian sentiment. Aeschylus used his fame as a war veteran to manipulate public opinion.
 
-**MROCZNA INTERPRETACJA**: Transformacja od prawa krwi do sądownictwa w Eumenidach to zakamuflowana apologia imperializmu ateńskiego - "cywilizowanie" oznaczało podporządkowanie.
-
----
-
-## II. SKANDALE I KONTROWERSJE AUTORA
-
-### 4. Proces o Bezbożność - Sprawa Misteriów
-**FAKT**: Ajschylos został postawiony przed sądem za ujawnienie tajemnic Misteriów Eleuzyńskich w jednym ze swoich dramatów.
-
-**SKANDAL**: Według Heraklidesa z Pontu, rozzłoszczony tłum próbował ukamienować Ajschylosa na miejscu. Dramaturg musiał schronić się przy ołtarzu w Theatre of Dionysus.
-
-**KONTROWERSJA**: W czasie procesu Ajschylos bronił się twierdząc, że nie był wtajemniczony i dlatego nie mógł ujawnić sekretów, których nie znał - ale czy to prawda?
-
-**ZARZUT**: Niektórzy historycy sugerują, że Ajschylos celowo ujawnił sekrety jako akt buntu przeciwko religijnemu establishmentowi.
-
-### 5. Militarystyczna Propaganda
-**FAKT**: Ajschylos walczył w bitwach pod Maratonem (490 p.n.e.) i Salaminą (480 p.n.e.).
-
-**SKANDAL**: W swoim dramacie "Persowie" przedstawił Persów jako rozwiązłych, emocjonalnych i skłonnych do luksusów - rasistowska karykatura wroga.
-
-**KONTROWERSJA**: Epitafium Ajschylosa wspomina tylko jego służbę wojskową, całkowicie ignorując osiągnięcia literackie - czy to wskazuje na priorytet propagandy nad sztuką?
-
-### 6. Mizoginistyczna Postawa
-**FAKT**: Atena w Eumenidach głosuje za uniewinnieniem Orestesa, mówiąc: "Jestem za mężczyzną we wszystkim, żadna matka mnie nie urodziła".
-
-**SKANDAL**: Ta kluczowa kwestia jest jawnie mizoginistyczna i usprawiedliwia męską dominację poprzez boską sankcję.
-
-**ZARZUT**: Klitajmestra, jedna z najpotężniejszych postaci kobiecych w literaturze, została przedstawiona jako potworność właśnie dlatego, że ośmieliła się działać jak mężczyzna.
+**DARK INTERPRETATION**: The transformation from blood law to judiciary in the Eumenides is a camouflaged apology for Athenian imperialism - "civilizing" meant subordination.
 
 ---
 
-## III. TAJEMNICZA ŚMIERĆ - MURDER CONSPIRACY
+## II. AUTHOR SCANDALS AND CONTROVERSIES
 
-### 7. Oficjalna Wersja vs. Teoria Spiskowa
-**FAKT OFICJALNY**: Ajschylos zmarł w 456/455 p.n.e. na Sycylii, rzekomo po tym, jak orzeł upuścił żółwia na jego łysą głowę, myląc ją z kamieniem.
+### 4. Trial for Impiety - The Mysteries Case
+**FACT**: Aeschylus was put on trial for revealing the secrets of the Eleusinian Mysteries in one of his dramas.
 
-**TEORIA SPISKOWA**: Współczesni badacze kwestionują tę wersję jako "zbyt dziwną, by była prawdziwa". Orły mają doskonały wzrok - jak mogły pomylić ruchomą głowę z kamieniem?
+**SCANDAL**: According to Heraclides of Pontus, the enraged crowd tried to stone Aeschylus on the spot. The playwright had to take refuge at the altar in the Theatre of Dionysus.
 
-**ZARZUT POLITYCZNY**: Ajschylos czynił cyniczne uwagi na temat arystokratycznych rządów w Eumenidach. Czy arystokracja pozbyła się go z powodów politycznych, tworząc absurdalną historię przykrywkę?
+**CONTROVERSY**: During the trial, Aeschylus defended himself by claiming he was not initiated and therefore could not reveal secrets he didn't know - but is this true?
 
-**TEORIA RELIGIJNA**: Gorliwi zwolennicy Misteriów Eleuzyńskich mogli dokonać zemsty za wcześniejsze ujawnienie sekretów. "Śmierć przez żółwia" mogła być kodem na misję zabójczą.
+**ACCUSATION**: Some historians suggest that Aeschylus deliberately revealed secrets as an act of rebellion against the religious establishment.
 
-### 8. Ostatnie Lata na Sycylii
-**PODEJRZENIE**: Dlaczego Ajschylos opuścił Ateny na szczytcie kariery i wyjechał na Sycylię? Czy był to przymusowy exil?
+### 5. Militaristic Propaganda
+**FACT**: Aeschylus fought in the battles of Marathon (490 BC) and Salamis (480 BC).
 
-**TEORIA**: Jego krytyka władzy w późnych dziełach mogła uczynić go persona non grata w ateńskim establishmencie.
+**SCANDAL**: In his drama "The Persians" he portrayed Persians as dissolute, emotional and inclined to luxury - a racist caricature of the enemy.
+
+**CONTROVERSY**: Aeschylus's epitaph mentions only his military service, completely ignoring literary achievements - does this indicate priority of propaganda over art?
+
+### 6. Misogynistic Attitude
+**FACT**: Athena in the Eumenides votes for Orestes' acquittal, saying: "I am for the male in all things, no mother bore me."
+
+**SCANDAL**: This key statement is overtly misogynistic and justifies male dominance through divine sanction.
+
+**ACCUSATION**: Clytemnestra, one of the most powerful female characters in literature, was portrayed as a monstrosity precisely because she dared to act like a man.
+
+---
+
+## III. MYSTERIOUS DEATH - MURDER CONSPIRACY
+
+### 7. Official Version vs. Conspiracy Theory
+**OFFICIAL FACT**: Aeschylus died in 456/455 BC in Sicily, allegedly after an eagle dropped a turtle on his bald head, mistaking it for a stone.
+
+**CONSPIRACY THEORY**: Contemporary scholars question this version as "too strange to be true." Eagles have excellent eyesight - how could they mistake a moving head for a stone?
+
+**POLITICAL ACCUSATION**: Aeschylus made cynical remarks about aristocratic rule in the Eumenides. Did the aristocracy dispose of him for political reasons, creating an absurd cover story?
+
+**RELIGIOUS THEORY**: Zealous supporters of the Eleusinian Mysteries could have enacted revenge for earlier revelation of secrets. "Death by turtle" could have been code for an assassination mission.
+
+### 8. Final Years in Sicily
+**SUSPICION**: Why did Aeschylus leave Athens at the height of his career and go to Sicily? Was this forced exile?
+
+**THEORY**: His criticism of power in late works may have made him persona non grata in the Athenian establishment.
 
 ---
 
 ## IV. FINANCIAL SCANDALS & MONEY DRAMA
 
-### 9. System Patronów i Korupcja
-**FAKT**: Perykles finansował jako choregia wystawienie "Persów" Ajschylosa w 472 p.n.e.
+### 9. Patron System and Corruption
+**FACT**: Pericles financed as choregia the staging of Aeschylus's "The Persians" in 472 BC.
 
-**ZARZUT**: Czy Ajschylos pisał na zamówienie polityczne? Związek z Peryklesem sugeruje, że jego dramaty mogły być płatnymi działaniami propagandowymi.
+**ACCUSATION**: Did Aeschylus write on political commission? The connection with Pericles suggests his dramas may have been paid propaganda activities.
 
-**KONTROWERSJA**: Bogaty patronat od prominentnych polityków rodzi pytania o niezależność artystyczną - czy Ajschylos sprzedał swoją sztukę władzy?
+**CONTROVERSY**: Wealthy patronage from prominent politicians raises questions about artistic independence - did Aeschylus sell his art to power?
 
-### 10. Konkurencja i Zazdrość
-**SKANDAL**: Gdy młody Sofokles pokonał Ajschylosa w pierwszym konkursie dramatycznym w 468 p.n.e., starszy dramaturg nie mógł tego znieść.
+### 10. Competition and Jealousy
+**SCANDAL**: When young Sophocles defeated Aeschylus in his first dramatic competition in 468 BC, the older playwright couldn't bear it.
 
-**PLOTKA**: Niektóre źródła sugerują, że Ajschylos opuścił Ateny z powodu upokorzenia porażką, a nie dla chwały.
+**RUMOR**: Some sources suggest that Aeschylus left Athens because of the humiliation of defeat, not for glory.
 
-**FAKT**: Sofokles wygrał około 24 razy, Ajschylos tylko 13 - może jego ego nie mogło znieść bycia numerem dwa.
+**FACT**: Sophocles won about 24 times, Aeschylus only 13 - maybe his ego couldn't bear being number two.
 
 ---
 
 ## V. GOVERNMENT CENSORSHIP & POLITICAL OPPRESSION
 
-### 11. Użycie przez Nazistów
-**SKANDAL HISTORYCZNY**: W 1936 roku naziści wykorzystali Oresteje Lothara Müthela jako narzędzie propagandy podczas Igrzysk Olimpijskich w Berlinie.
+### 11. Use by Nazis
+**HISTORICAL SCANDAL**: In 1936, the Nazis used Lothar Müthel's Oresteia as a propaganda tool during the Olympic Games in Berlin.
 
-**MROCZNE INTERPRETACJE**: Naziści reinterpretowali Atenę jako germańską bogini i przedstawili ewolucję od chaosu do "nowego, lepszego społeczeństwa" jako uzasadnienie swojego reżimu.
+**DARK INTERPRETATIONS**: The Nazis reinterpreted Athena as a Germanic goddess and presented the evolution from chaos to "new, better society" as justification for their regime.
 
-**KONTROWERSJA**: Jak dzieło o demokracji mogło zostać przekształcone w propagandę faszystowską? To pokazuje manipulacyjną moc klasycznych tekstów.
+**CONTROVERSY**: How could a work about democracy be transformed into fascist propaganda? This shows the manipulative power of classical texts.
 
-### 12. Cenzura w Różnych Epokach
-**FAKT**: Podczas gdy sama Oresteja rzadko była oficjalnie zakazana, jej polityczne interpretacje często prowadziły do kontrowersji.
+### 12. Censorship in Various Epochs
+**FACT**: While the Oresteia itself was rarely officially banned, its political interpretations often led to controversy.
 
-**PRZYKŁAD**: Współczesne feministyczne adaptacje są atakowane za "wypaczanie" klasyki, podczas gdy konserwatywne produkcje są krytykowane za ignorowanie mizoginii.
+**EXAMPLE**: Contemporary feminist adaptations are attacked for "distorting" the classics, while conservative productions are criticized for ignoring misogyny.
 
-### 13. Akademicka Autocenzura
-**ZARZUT**: Współczesne środowiska akademickie często unikają omawiania najbardziej problematycznych aspektów Orestei, szczególnie jej mizoginistycznych i rasistowskich elementów.
+### 13. Academic Self-Censorship
+**ACCUSATION**: Contemporary academic environments often avoid discussing the most problematic aspects of the Oresteia, especially its misogynistic and racist elements.
 
-**KONTROWERSJA**: Kult "nietykalnych klasycznych dzieł" utrudnia krytyczną analizę ich ciemnych stron.
+**CONTROVERSY**: The cult of "untouchable classical works" hinders critical analysis of their dark sides.
 
 ---
 
 ## VI. RIVALRIES & INDUSTRY DRAMA
 
-### 14. Wojna z Młodszymi Rywalami
-**FAKT**: Ajschylos reprezentował starą generację wobec Sofoklesa i Eurypidesa, którzy wprowadzali radykalne innowacje.
+### 14. War with Younger Rivals
+**FACT**: Aeschylus represented the old generation against Sophocles and Euripides, who introduced radical innovations.
 
-**KONFLIKT**: Eurypides był szczególnie krytyczny wobec religijnych i patriotycznych elementów u Ajschylosa, nazywając jego bohaterów "nierealistycznymi".
+**CONFLICT**: Euripides was particularly critical of religious and patriotic elements in Aeschylus, calling his heroes "unrealistic."
 
-**SKANDAL**: W "Żabach" Arystofanesa (405 p.n.e.) Eurypides kwestionuje pozycję Ajschylosa jako "najlepszego poety tragicznego" - literacki pojedynek w zaświatach.
+**SCANDAL**: In Aristophanes' "The Frogs" (405 BC), Euripides challenges Aeschylus's position as "best tragic poet" - a literary duel in the afterlife.
 
-### 15. Problematics Innovations
-**KONTROWERSJA**: Ajschylos wprowadził drugiego aktora, ale czy to rzeczywiście było innowacją, czy plagiatem nieznanych wcześniejszych dramaturgów?
+### 15. Problematic Innovations
+**CONTROVERSY**: Aeschylus introduced the second actor, but was this really an innovation, or plagiarism from previously unknown playwrights?
 
-**ZARZUT**: Tradycja przypisująca mu kluczowe innowacje teatralne mogła być późniejszą mitologizacją jego osoby.
+**ACCUSATION**: The tradition attributing key theatrical innovations to him may have been later mythologization of his person.
 
 ---
 
-## VII. PROPHECY CHECK - CO SIĘ SPRAWDZIŁO
+## VII. PROPHECY CHECK - WHAT CAME TRUE
 
-### 16. Polityczne Przepowiednie
-**SPRAWDZIŁO SIĘ**: Przejście od prawa krwi (vendetta) do systemu sądowego rzeczywiście nastąpiło w rozwoju cywilizacji zachodniej.
+### 16. Political Prophecies
+**CAME TRUE**: The transition from blood law (vendetta) to judicial system actually occurred in the development of Western civilization.
 
-**SPRAWDZIŁO SIĘ**: Oresteja przewidziała, że demokracja ateńska (reprezentowana przez Areopag) przetrwa i będzie modelem dla przyszłości.
+**CAME TRUE**: The Oresteia predicted that Athenian democracy (represented by the Areopagus) would survive and be a model for the future.
 
-**CZĘŚCIOWO SIĘ SPRAWDZIŁO**: Konflikt między starym porządkiem (Furie) a nowym (bogowie olimpijscy) rzeczywiście odzwierciedla napięcie między tradycją a postępem w rozwoju społeczeństw.
+**PARTIALLY CAME TRUE**: The conflict between old order (Furies) and new (Olympian gods) actually reflects the tension between tradition and progress in social development.
 
-### 17. Społeczne Prognozy
-**NIE SPRAWDZIŁO SIĘ**: Ajschylos wierzył, że religia państwowa (kult Ateny) zapewni stabilność społeczną - nie przewidział upadku religii greckiej.
+### 17. Social Predictions
+**DIDN'T COME TRUE**: Aeschylus believed that state religion (cult of Athena) would ensure social stability - he didn't foresee the fall of Greek religion.
 
-**SPRAWDZIŁO SIĘ CZĘŚCIOWO**: Rola instytucji prawnych w rozwiązywaniu konfliktów społecznych rzeczywiście stała się fundamentalna w cywilizacji zachodniej.
+**PARTIALLY CAME TRUE**: The role of legal institutions in resolving social conflicts actually became fundamental in Western civilization.
 
-**NIE SPRAWDZIŁO SIĘ**: Męska dominacja przedstawiona jako "naturalna" i "bosko usankcjonowana" zostałą zakwestionowana przez ruchy feministyczne.
+**DIDN'T COME TRUE**: Male dominance presented as "natural" and "divinely sanctioned" was challenged by feminist movements.
 
 ---
 
 ## VIII. CULTURAL IMPACT & MODERN CONTROVERSIES
 
-### 18. Problematyczne Adaptacje
-**KONTROWERSJA**: Współczesne reżyserki feministyczne, jak Yaël Farber (MoLoRa, 2007), próbują "naprawić" mizoginię Orestei, ale czy to nie jest falsyfikowanie klasyki?
+### 18. Problematic Adaptations
+**CONTROVERSY**: Contemporary feminist directors like Yaël Farber (MoLoRa, 2007) try to "fix" the Oresteia's misogyny, but isn't this falsifying the classics?
 
-**SKANDAL**: Robert Icke's adaptation (2015) był wyprzedany i przeniesiony do West Endu, ale krytycy zarzucali mu "modernizowanie" antycznego tekstu.
+**SCANDAL**: Robert Icke's adaptation (2015) was sold out and transferred to the West End, but critics accused him of "modernizing" the ancient text.
 
 ### 19. Academic Conspiracy
-**ZARZUT**: Klasycy akademiccy chronią reputację Ajschylosa, minimalizując jego problematyczne aspekty i przedstawiając go jako "ojca tragedii" pomimo oczywistych wad.
+**ACCUSATION**: Academic classicists protect Aeschylus's reputation, minimizing his problematic aspects and presenting him as "father of tragedy" despite obvious flaws.
 
-**TEORIA**: Establishment klasyczny ma vested interest w utrzymaniu mitu o "wielkości" antycznej literatury, ignorując jej ciemne strony.
+**THEORY**: The classical establishment has a vested interest in maintaining the myth of "greatness" of ancient literature, ignoring its dark sides.
 
 ---
 
 ## IX. RELIGIOUS & OCCULT CONNECTIONS
 
-### 20. Misteria Eleuzyńskie - Ezoteryczna Wiedza
-**FAKT**: Misteria Eleuzyńskie były jednym z najbardziej wpływowych kultów tajnych w starożytności, obiecującym wtajemniczonym życie pozagrobowe.
+### 20. Eleusinian Mysteries - Esoteric Knowledge
+**FACT**: The Eleusinian Mysteries were one of the most influential secret cults in antiquity, promising initiates an afterlife.
 
-**TEORIA OKULTYSTYCZNA**: Transformacja Orestesa może odzwierciedlać rzeczywiste rytuały inicjacyjne - symboliczną śmierć starego "ja" i odrodzenie.
+**OCCULT THEORY**: Orestes' transformation may reflect actual initiatory rituals - symbolic death of the old "self" and rebirth.
 
-**PODEJRZENIE**: Czy Ajschylos nie ujawnił sekretów przypadkiem, ale celowo - jako rodzaj ezoterycznego przekazu dla wtajemniczonych?
+**SUSPICION**: Did Aeschylus not reveal secrets accidentally, but deliberately - as a kind of esoteric message for initiates?
 
-### 21. Alchemiczne Interpretacje
-**TEORIA**: Przemiany w trylogii (krew → sprawiedliwość, chaos → porządek, zemsta → prawo) przypominają procesy alchemiczne.
+### 21. Alchemical Interpretations
+**THEORY**: The transformations in the trilogy (blood → justice, chaos → order, revenge → law) resemble alchemical processes.
 
-**MROCZNE ZNACZENIE**: Czerwona tapeta/sieć, w którą Klitajmestra owinęła Agamemnona, może symbolizować alchemiczną "czerwoną pracę" - fazę transformacji poprzez krew i śmierć.
+**DARK MEANING**: The red tapestry/net in which Clytemnestra wrapped Agamemnon may symbolize the alchemical "red work" - the phase of transformation through blood and death.
 
 ---
 
 ## X. MODERN PSYCHOLOGICAL INTERPRETATIONS
 
-### 22. Freudowskie Analizy
-**TEORIA**: Orestes cierpi na kompleks Edypa na opak - zamiast zabić ojca i poślubić matkę, zabija matkę, by pomścić ojca.
+### 22. Freudian Analyses
+**THEORY**: Orestes suffers from an inverted Oedipus complex - instead of killing his father and marrying his mother, he kills his mother to avenge his father.
 
-**KONTROWERSJA**: Furie ścigające Orestesa można interpretować jako psychotyczne halucynacje wywołane poczuciem winy - pierwsza literacka reprezentacja schizofrenii?
+**CONTROVERSY**: The Furies pursuing Orestes can be interpreted as psychotic hallucinations caused by guilt - the first literary representation of schizophrenia?
 
-### 23. Trauma Wojenna
-**FAKT**: Ajschylos jako weteran wojen perskich prawdopodobnie cierpiał na to, co dziś nazywamy PTSD.
+### 23. War Trauma
+**FACT**: Aeschylus as a veteran of the Persian wars probably suffered from what we now call PTSD.
 
-**TEORIA**: Przemoc w Orestei może odzwierciedlać traumatyczne doświadczenia autora z pola bitwy - projekcja własnych demonów na scenę.
+**THEORY**: The violence in the Oresteia may reflect the author's traumatic battlefield experiences - projection of his own demons onto the stage.
 
 ---
 
 ## XI. GENDER & SEXUALITY SCANDALS
 
-### 24. Homoerotyczne Podteksty
-**TEORIA**: Relacja między Orestesem a Pyladesem może mieć homoerotyczny charakter - Pylades to jedyny męski towarzysz, który pozostaje wierny Orestesowi przez całą trylogię.
+### 24. Homoerotic Subtexts
+**THEORY**: The relationship between Orestes and Pylades may have a homoerotic character - Pylades is the only male companion who remains faithful to Orestes throughout the trilogy.
 
-**KONTROWERSJA**: W społeczeństwie ateńskim pederastia była akceptowana, ale czy Ajschylos świadomie kodował takie relacje w swoim dziele?
+**CONTROVERSY**: In Athenian society pederasty was accepted, but did Aeschylus consciously encode such relationships in his work?
 
-### 25. Kastracijska Symbolika
-**MROCZNA INTERPRETACJA**: Okaleczenie Urana przez Kronosa (wzmiankowane w tle mitologii) i późniejsze odcięcie głowy Medusie (wzmiankowane przez Atenę) może reprezentować lęk przed kastracją jako podstawowy element patriarchatu.
+### 25. Castration Symbolism
+**DARK INTERPRETATION**: The mutilation of Uranus by Kronos (mentioned in mythological background) and later beheading of Medusa (mentioned by Athena) may represent castration anxiety as a fundamental element of patriarchy.
 
 ---
 
 ## XII. HISTORICAL REVISIONISM
 
-### 26. Mit Ateńskiej Demokracji
-**ZARZUT**: Ajschylos idealizował ateńską demokrację, ignorując fakt, że była to demokracja tylko dla męskich obywateli - kobiety, niewolnicy i metojkowie byli wykluczeni.
+### 26. Myth of Athenian Democracy
+**ACCUSATION**: Aeschylus idealized Athenian democracy, ignoring the fact that it was democracy only for male citizens - women, slaves and metics were excluded.
 
-**KONTROWERSJA**: Czy gloryfikacja Areopagu w Eumenidach była rzeczywiście pro-demokratyczna, czy elitystyczna? Areopag był sądem arystokratycznym.
+**CONTROVERSY**: Was the glorification of the Areopagus in the Eumenides actually pro-democratic or elitist? The Areopagus was an aristocratic court.
 
-### 27. Falsyfikowanie Historii Perskiej
-**SKANDAL**: "Persowie" przedstawiają zdeformowany obraz imperium perskiego, ignorując jego tolerancję religijną i kulturową różnorodność.
+### 27. Falsifying Persian History
+**SCANDAL**: "The Persians" presents a distorted image of the Persian empire, ignoring its religious tolerance and cultural diversity.
 
-**ZARZUT**: Ajschylos uczestniczył w tworzeniu anty-perskiej propagandy, która trwa do dziś w zachodniej percepcji Iranu.
+**ACCUSATION**: Aeschylus participated in creating anti-Persian propaganda that persists today in Western perception of Iran.
 
 ---
 
 ## XIII. TECHNICAL & ARTISTIC CONTROVERSIES
 
-### 28. Plagiaty i Zapożyczenia
-**PODEJRZENIE**: Czy wszystkie innowacje przypisywane Ajschylosowi (drugi aktor, scenografia, ekkyklema) były rzeczywiście jego pomysłem?
+### 28. Plagiarism and Borrowings
+**SUSPICION**: Were all innovations attributed to Aeschylus (second actor, scenography, ekkyklema) really his ideas?
 
-**TEORIA**: Mogł przejąć techniki od nieznanych wcześniejszych dramaturgów, których dzieła się nie zachowały.
+**THEORY**: He may have taken techniques from unknown earlier playwrights whose works haven't survived.
 
-### 29. Nadprodukcja i Spektakularność
-**KRYTYKA**: Już Arystofanes zarzucał Ajschylosowi nadmierną spektakularność kosztem głębi psychologicznej postaci.
+### 29. Overproduction and Spectacle
+**CRITICISM**: Already Aristophanes accused Aeschylus of excessive spectacle at the expense of psychological depth of characters.
 
-**ZARZUT**: Czy Ajschylos był prawdziwym artystą, czy showmanem grającym na emocjach tłumu?
+**ACCUSATION**: Was Aeschylus a true artist or a showman playing on crowd emotions?
 
 ---
 
 ## XIV. POSTHUMOUS SCANDALS
 
-### 30. Kultura vs. Realność
-**KONTROWERSJA**: Epitafium Ajschylosa wspomina tylko służbę wojskową, ignorując całkowicie osiągnięcia literackie - czy on sam uważał swoją sztukę za mniej ważną od patriotyzmu?
+### 30. Culture vs. Reality
+**CONTROVERSY**: Aeschylus's epitaph mentions only military service, completely ignoring literary achievements - did he himself consider his art less important than patriotism?
 
-**TEORIA**: Może Ajschylos traktował teatr jako narzędzie polityczne, a nie prawdziwą sztukę?
+**THEORY**: Maybe Aeschylus treated theater as a political tool, not true art?
 
-### 31. Mitologizacja vs. Rzeczywistość
-**ZARZUT**: Większość "faktów" o życiu Ajschylosa pochodzi z późniejszych źródeł i może być legendarna - czy w ogóle wiemy, kim naprawdę był?
+### 31. Mythologization vs. Reality
+**ACCUSATION**: Most "facts" about Aeschylus's life come from later sources and may be legendary - do we even know who he really was?
 
-**SKANDAL**: Historia z żółwiem może być wymysłem mającym na celu ukrycie rzeczywistych okoliczności śmierci.
+**SCANDAL**: The turtle story may be an invention designed to hide the real circumstances of death.
 
 ---
 
 ## XV. CONTEMPORARY POLITICAL USES
 
 ### 32. Right-Wing Appropriations
-**KONTROWERSJA**: Konserwatywni politycy często cytują Oresteje jako przykład "tradycyjnych wartości" i "naturalnego porządku", ignorując jej demokratyczne przesłanie.
+**CONTROVERSY**: Conservative politicians often quote the Oresteia as an example of "traditional values" and "natural order," ignoring its democratic message.
 
-**ZARZUT**: Alt-right używa symboliki "oczyszczenia przez krew" z trylogii jako usprawiedliwienie dla rasizmu i nacjonalizmu.
+**ACCUSATION**: Alt-right uses the "purification through blood" symbolism from the trilogy as justification for racism and nationalism.
 
 ### 33. Academic Gatekeeping
-**TEORIA SPISKOWA**: Establishment akademicki celowo utrudnia dostęp do najbardziej kontrowersyjnych interpretacji Orestei, aby zachować jej "kanoniczny" status.
+**CONSPIRACY THEORY**: The academic establishment deliberately makes access to the most controversial interpretations of the Oresteia difficult to preserve its "canonical" status.
 
-**ZARZUT**: Studenci nie są informowani o mrocznych aspektach klasyki, tworząc pokolenie, które bezkrytycznie adoruje problematyczne teksty.
+**ACCUSATION**: Students are not informed about the dark aspects of classics, creating a generation that uncritically adores problematic texts.
 
 ---
 
 ## XVI. ECONOMIC EXPLOITATION
 
 ### 34. Ancient Theater Economy
-**FAKT**: System choregia umożliwiał bogatym obywatelom finansowanie teatru w zamian za zwolnienia podatkowe - czy to nie była forma korupcji?
+**FACT**: The choregia system allowed wealthy citizens to finance theater in exchange for tax exemptions - wasn't this a form of corruption?
 
-**TEORIA**: Ajschylos mógł być częścią systemu "prania brudnych pieniędzy" dla ateńskich elit, legitymizując ich status przez sztukę.
+**THEORY**: Aeschylus may have been part of a "money laundering" system for Athenian elites, legitimizing their status through art.
 
 ### 35. Modern Commercialization
-**KONTROWERSJA**: Współczesne produkcje Orestei są często sponsorowane przez korporacje, które wykorzystują prestiż klasyki do swojego PR-u.
+**CONTROVERSY**: Contemporary productions of the Oresteia are often sponsored by corporations that exploit the prestige of classics for their PR.
 
-**ZARZUT**: Czy komercjalizacja antycznej tragedii nie jest formą kulturowej prostytucji?
+**ACCUSATION**: Isn't the commercialization of ancient tragedy a form of cultural prostitution?
 
 ---
 
 ## XVII. TECHNOLOGICAL CONSPIRACY THEORIES
 
-### 36. Psychoakustyka i Manipulacja
-**TEORIA**: Orkiestra w amfiteatrach greckich tworzyła specyficzne efekty akustyczne, które mogły wpływać na stany świadomości widowni.
+### 36. Psychoacoustics and Manipulation
+**THEORY**: The orchestra in Greek amphitheaters created specific acoustic effects that could influence audience consciousness states.
 
-**SPEKULACJA**: Czy Ajschylos wykorzystywał znajomość psychoakustyki (uzyskaną z Misteriów?) do manipulowania emocjami publiczności?
+**SPECULATION**: Did Aeschylus use knowledge of psychoacoustics (obtained from the Mysteries?) to manipulate audience emotions?
 
-### 37. Architektura jako Indoktrynacja
-**TEORIA**: Układ amfiteatrów greckich (koncentryczne koła z centralnym punktem) może naśladować struktury używane w praktykach hipnotycznych i rytualnych.
+### 37. Architecture as Indoctrination
+**THEORY**: The layout of Greek amphitheaters (concentric circles with central point) may mimic structures used in hypnotic and ritual practices.
 
 ---
 
 ## XVIII. ENVIRONMENTAL & HEALTH CONSPIRACY
 
-### 38. Leadning Theory - Death by Lead Poisoning
-**ALTERNATYWNA TEORIA ŚMIERCI**: W starożytnej Grecji powszechnie używano ołowiu w naczyniach i kosmetykach. Czy Ajschylos zmarł z powodu zatrucia ołowiem, a historia z żółwiem to przykrywka?
+### 38. Lead Theory - Death by Lead Poisoning
+**ALTERNATIVE DEATH THEORY**: In ancient Greece, lead was commonly used in vessels and cosmetics. Did Aeschylus die from lead poisoning, with the turtle story as a cover-up?
 
-**PODEJRZENIE**: Symptomy zatrucia ołowiem (demencja, paranoja, problemy motoryczne) mogłyby wyjaśnić dziwne zachowanie Ajschylosa w ostatnich latach życia.
+**SUSPICION**: Symptoms of lead poisoning (dementia, paranoia, motor problems) could explain Aeschylus's strange behavior in his final years.
 
 ---
 
 ## XIX. RELIGIOUS FUNDAMENTALISM
 
 ### 39. Anti-Christian Interpretations
-**KONTROWERSJA**: Wczesnochrześcijańscy ojcowie Kościoła potępiali Oresteje za gloryfikację zemsty krwi i "pogańskie" bogów.
+**CONTROVERSY**: Early Christian Church Fathers condemned the Oresteia for glorifying blood revenge and "pagan" gods.
 
-**TEORIA**: Kościół próbował zniszczyć kopie trylogii, ale władze bizantyjskie chroniły je jako część greckiego dziedzictwa.
+**THEORY**: The Church tried to destroy copies of the trilogy, but Byzantine authorities protected them as part of Greek heritage.
 
 ### 40. Islamic Perspective
-**PLOTKA**: Niektórzy muzułmańscy uczeni uważają, że historia Orestei jest wypaczeniem biblijnej historii o Kainie i Ablu, świadomie zmienioną przez Greków, aby uzasadnić swoje pogańskie praktyki.
+**RUMOR**: Some Muslim scholars believe that the Oresteia story is a distortion of the biblical story of Cain and Abel, deliberately changed by Greeks to justify their pagan practices.
 
 ---
 
 ## XX. FINAL CONSPIRACY: THE TRUTH ABOUT AUTHORSHIP
 
 ### 41. Multiple Author Theory
-**RADYKALNA TEORIA**: Czy "Ajschylos" był w rzeczywistości pseudonimem kolektywnym używanym przez grupę autorów związanych z Misteriami Eleuzyńskimi?
+**RADICAL THEORY**: Was "Aeschylus" actually a collective pseudonym used by a group of authors connected to the Eleusinian Mysteries?
 
-**ARGUMENT**: Różnice stylistyczne między wczesnymi a późnymi dziełami mogą wskazywać na różnych autorów pracujących pod tym samym nazwiskiem.
+**ARGUMENT**: Stylistic differences between early and late works may indicate different authors working under the same name.
 
 ### 42. State Propaganda Machine
-**OSTATECZNA TEORIA SPISKOWA**: Czy cały "kanon" klasyki greckiej nie był operacją propagandową państwa ateńskiego, mającą na celu stworzenie kulturowej legitymacji dla imperializmu?
+**ULTIMATE CONSPIRACY THEORY**: Wasn't the entire "canon" of Greek classics a propaganda operation by the Athenian state, aimed at creating cultural legitimacy for imperialism?
 
-**ZARZUT**: "Wielcy poeci" jak Ajschylos mogą być w rzeczywistości wytworem państwowej machiny propagandowej, podobnie jak "wielcy pisarze" w państwach totalitarnych.
-
----
-
-## PODSUMOWANIE
-
-Oresteja Ajschylosa to dzieło, które mimo swojej literackiej wielkości niesie ze sobą bagaż kontrowersji, skandali i mrocznych interpretacji. Od oskarżeń o ujawnienie tajemnic religijnych, przez propagandę militarną i mizoginię, po współczesne teorie spiskowe - trylogia pozostaje tekstem głęboko problematycznym.
-
-Czy Ajschylos był genialnym artystą, czy manipulatorem służącym władzy? Czy jego śmierć była przypadkiem, czy wyniku spisku? Czy Oresteja to arcydzieło literatury, czy wyrafinowana propaganda? Te pytania pozostają bez definitywnych odpowiedzi, czyniąc z tej antycznej trylogii jeden z najbardziej kontrowersyjnych tekstów w historii literatury.
-
-**OSTATNIE OSTRZEŻENIE**: Przedstawione teorie i zarzuty należy traktować jako materiał edukacyjny ilustrujący, jak klasyczne dzieła mogą być różnie interpretowane i wykorzystywane. Nie wszystkie przedstawione "fakty" są naukowo potwierdzone - część to spekulacje, plotki i teorie spiskowe, które jednak składają się na kulturowy "dark lore" związany z Oresteją.
+**ACCUSATION**: "Great poets" like Aeschylus may actually be products of a state propaganda machine, similar to "great writers" in totalitarian states.
 
 ---
 
-*Dokument przygotowany dla projektu 37degrees - edukacyjnej analizy kontrowersyjnych aspektów literatury klasycznej. Wszystkie informacje przedstawione wyłącznie w celach badawczych i edukacyjnych.*
+## SUMMARY
+
+The Oresteia by Aeschylus is a work that, despite its literary greatness, carries a baggage of controversies, scandals and dark interpretations. From accusations of revealing religious secrets, through military propaganda and misogyny, to contemporary conspiracy theories - the trilogy remains a deeply problematic text.
+
+Was Aeschylus a brilliant artist or a manipulator serving power? Was his death an accident or the result of conspiracy? Is the Oresteia a literary masterpiece or sophisticated propaganda? These questions remain without definitive answers, making this ancient trilogy one of the most controversial texts in literary history.
+
+**FINAL WARNING**: The presented theories and accusations should be treated as educational material illustrating how classical works can be differently interpreted and used. Not all presented "facts" are scientifically confirmed - some are speculations, rumors and conspiracy theories, which however contribute to the cultural "dark lore" associated with the Oresteia.
+
+---
+
+*Document prepared for the 37degrees project - educational analysis of controversial aspects of classical literature. All information presented solely for research and educational purposes.*

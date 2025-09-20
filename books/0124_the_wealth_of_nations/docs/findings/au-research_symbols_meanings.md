@@ -1,548 +1,548 @@
-# Analiza symboliki i ukrytych znaczeń w "Bogactwie narodów" Adama Smitha
+# Analysis of Symbolism and Hidden Meanings in Adam Smith's "The Wealth of Nations"
 
-## Wprowadzenie
+## Introduction
 
-"Bogactwo narodów" (1776) Adama Smitha to znacznie więcej niż podręcznik ekonomii - to wielowarstwowe dzieło pełne symboli, metafor i ukrytych znaczeń, które różne kultury interpretują w zupełnie odmienny sposób. Niniejsza analiza odkrywa 37 kluczowych interpretacji symbolicznych, pokazując jak XVIII-wieczny tekst stał się areną współczesnych sporów ideologicznych.
+"The Wealth of Nations" (1776) by Adam Smith is far more than an economics textbook - it is a multi-layered work full of symbols, metaphors, and hidden meanings that different cultures interpret in completely different ways. This analysis reveals 37 key symbolic interpretations, showing how an 18th-century text became an arena for contemporary ideological disputes.
 
-## 1. Niewidzialna ręka - najważniejszy symbol ekonomii
+## 1. The Invisible Hand - The Most Important Symbol in Economics
 
-### Klasyczne interpretacje
-Metafora "niewidzialnej ręki" pojawia się w całym dziele Smitha zaledwie raz, ale stała się najsłynniejszym symbolem w historii myśli ekonomicznej. Smith pisał o kupcu, który jest "prowadzony przez niewidzialną rękę do wspierania celu, który nie był częścią jego intencji".
+### Classical Interpretations
+The "invisible hand" metaphor appears in Smith's entire work only once, but it became the most famous symbol in the history of economic thought. Smith wrote about a merchant who is "led by an invisible hand to promote an end which was no part of his intention."
 
-### Interpretacje mistyczne i religijne
-Niektórzy badacze widzą w tym symbolu dosłowną sugestię boskiej interwencji w ekonomię. Ta interpretacja łączy "niewidzialnę rękę" Smitha z "krwawą i niewidzialną ręką" z "Makbeta" Szekspira czy "niewidzialną ręką" z "Edypa" Woltera, sugerując mistyczny wymiar ekonomii.
+### Mystical and Religious Interpretations
+Some scholars see in this symbol a literal suggestion of divine intervention in economics. This interpretation connects Smith's "invisible hand" with the "bloody and invisible hand" from Shakespeare's "Macbeth" or the "invisible hand" from Voltaire's "Oedipus," suggesting a mystical dimension of economics.
 
-### Neoklasyczna reinterpretacja
-Współczesni ekonomiści neoklasyczni interpretują ten symbol jako mechanizm przyczynowy leżący u podstaw wniosku, że perfekcyjnie racjonalni agenci na doskonale konkurencyjnych rynkach dostarczają doskonały wynik uniwersalnej optymalizacji. To znacznie szersze użycie niż zamierzał Smith.
+### Neoclassical Reinterpretation
+Contemporary neoclassical economists interpret this symbol as a causal mechanism underlying the conclusion that perfectly rational agents in perfectly competitive markets provide perfect universal optimization outcomes. This is a much broader use than Smith intended.
 
-### Krytyka socjalistyczna
-Krytycy rynku odrzucają ideę, że dobre rezultaty mogłyby pochodzić z niezliczonych rozłącznych indywidualnych decyzji kierowanych przez jakąś mistyczną metaforę. Argumentują, że "ręka" jest skażona chciwością i wyzyskiem, prowadzi do nierówności i niebezpiecznej władzy korporacyjnej.
+### Socialist Criticism
+Market critics reject the idea that good results could come from countless disconnected individual decisions guided by some mystical metaphor. They argue that the "hand" is tainted by greed and exploitation, leading to inequality and dangerous corporate power.
 
-### Współczesne nieporozumienia
-Historyczna rzeczywistość jest taka, że "niewidzialna ręka" pozostawała niezauważona przez co najmniej stulecie po tym, jak Smith napisał te słowa. To była dobrze znana metafora literacka XVIII wieku, a Smith nie nadał jej żadnej roli w swojej teorii konkurencyjnych rynków.
+### Contemporary Misunderstandings
+The historical reality is that the "invisible hand" remained unnoticed for at least a century after Smith wrote these words. It was a well-known literary metaphor of the 18th century, and Smith gave it no role in his theory of competitive markets.
 
-## 2. Fabryka szpilek - symbol podziału pracy
+## 2. The Pin Factory - Symbol of Division of Labor
 
-### Podstawowa symbolika
-Fabryka szpilek to pierwszy i najsłynniejszy przykład w historii myśli ekonomicznej ilustrujący podział pracy. Smith opisuje, jak 10 osób może wyprodukować 48 000 szpilek dziennie dzięki specjalizacji, podczas gdy każda z osobna stworzyłaby zaledwie jedną szpilkę.
+### Basic Symbolism
+The pin factory is the first and most famous example in the history of economic thought illustrating the division of labor. Smith describes how 10 people can produce 48,000 pins daily through specialization, while each individually would create only one pin.
 
-### Symbol industrializacji
-Fabryka reprezentuje transformację od rzemiosła artystycznego do produkcji masowej. Ten symbol pokazuje, jak społeczeństwa rozwijają różne struktury ekonomiczne i dlaczego te o najbardziej złożonych ekonomiach są zazwyczaj najbogatsze.
+### Symbol of Industrialization
+The factory represents transformation from artistic craftsmanship to mass production. This symbol shows how societies develop different economic structures and why those with the most complex economies are usually the wealthiest.
 
-### Krytyka humanistyczna
-John Clapham krytykował Smitha za użycie tego, co sam Smith uznał za "bardzo błahą wytwórczość". Jednak lekcja fabryki szpilek nie polega na doskonałej dokładności przykładu, ale na zrozumieniu fundamentalnej zasady podziału pracy.
+### Humanistic Criticism
+John Clapham criticized Smith for using what Smith himself admitted was "a very trifling manufacture." However, the lesson of the pin factory is not about perfect accuracy of the example, but about understanding the fundamental principle of division of labor.
 
-### Metafora produktywności eksponencjalnej
-Fabryka pokazuje, że wzrost produktywności dzięki specjalizacji jest eksponencjalny, nie liniowy: 10 osób pracujących razem z odpowiednim sprzętem jest nie 10 razy, ale tysiące razy bardziej produktywnych niż pojedynczy rzemieślnik.
+### Metaphor of Exponential Productivity
+The factory shows that productivity growth through specialization is exponential, not linear: 10 people working together with appropriate equipment are not 10 times, but thousands of times more productive than a single craftsman.
 
-### Symbol nowoczesnej alienacji
-Współcześni krytycy widzą w fabryce szpilek symbol alienacji pracownika, który traci połączenie z całością procesu produkcyjnego, wykonując jedynie małą, powtarzalną czynność.
+### Symbol of Modern Alienation
+Contemporary critics see in the pin factory a symbol of worker alienation, who loses connection with the entirety of the production process, performing only a small, repetitive task.
 
-## 3. Sympolia - fundament moralności ekonomicznej
+## 3. Sympathy - Foundation of Economic Morality
 
-### Teoria współczucia Smitha
-W "Teorii uczuć moralnych" Smith definiuje sympatię jako "nasze współodczuwanie z jakąkolwiek pasją". To nie jest współczesna empatia, ale wyobrażeniowy proces rekonstruowania doświadczeń innych.
+### Smith's Theory of Sympathy
+In "The Theory of Moral Sentiments," Smith defines sympathy as "our fellow-feeling with any passion whatever." This is not contemporary empathy, but an imaginative process of reconstructing others' experiences.
 
-### Bezstronny obserwator
-Centralną figurą jest "bezstronny obserwator" - konceptualna postać reprezentująca wewnętrzny kompas moralny, który prowadzi jednostki w ocenie stosowności ich uczuć i działań. Chcemy widzieć siebie tak, jak widzą nas inni.
+### The Impartial Spectator
+The central figure is the "impartial spectator" - a conceptual figure representing the inner moral compass that guides individuals in evaluating the propriety of their feelings and actions. We want to see ourselves as others see us.
 
-### Psychologia społeczna avant la lettre
-Koncepcja sympatii Smitha i jej społeczna funkcja tak silnie przypominają współczesne zastosowania teorii poznania społecznego do procesów samoregulacji, że podobieństwo warte jest zbadania.
+### Social Psychology Avant La Lettre
+Smith's concept of sympathy and its social function so strongly resembles contemporary applications of social cognition theory to self-regulation processes that the similarity is worth investigating.
 
-### Krytyka współczesna
-Niektórzy współcześni badacze argumentują, że sympatia ogranicza znaczenie poprzez interpelację podmiotu w tryb autocenzury, który działa zarówno na nasze "aktywne pasje" - nasze działania w sferze społecznej - jak i nasze "pasywne uczucia".
+### Contemporary Criticism
+Some contemporary scholars argue that sympathy limits significance through interpellation of the subject into an autocensorship mode that operates on both our "active passions" - our actions in the social sphere - and our "passive feelings."
 
-### Symbol harmonii społecznej
-Sympatia, pomimo swojej niepełności, stanowi fundament dla całego porządku społecznego, umożliwiając rodzinom, sąsiadom i przyjaciołom współpracę z minimum zewnętrznej interwencji.
+### Symbol of Social Harmony
+Sympathy, despite its incompleteness, constitutes the foundation for the entire social order, enabling families, neighbors, and friends to cooperate with minimal external intervention.
 
-## 4. Bogactwo narodów - redefinicja dobrobytu
+## 4. The Wealth of Nations - Redefinition of Prosperity
 
-### Rewolucja w definiowaniu bogactwa
-Smith argumentował, że "roczna praca każdego narodu to fundusz, który pierwotnie zaopatruje go we wszystkie potrzeby i udogodnienia życia". To była rewolucyjna definicja przeciwko merkantylizmowi, który utożsamiał bogactwo ze złotem.
+### Revolution in Defining Wealth
+Smith argued that "the annual labour of every nation is the fund which originally supplies it with all the necessaries and conveniencies of life." This was a revolutionary definition against mercantilism, which equated wealth with gold.
 
-### Rozróżnienie między bogactwem a dochodem
-Smith podkreślał, że chociaż pieniądze "w potocznym języku często oznaczają bogactwo", nie były one bogactwem per se. Prawdziwe bogactwo to zdolność do wytwarzania wartości, nie jej akumulacja.
+### Distinction Between Wealth and Income
+Smith emphasized that although money "in common language frequently signifies wealth," it was not wealth per se. True wealth is the ability to produce value, not its accumulation.
 
-### Kulturowa relatywność bogactwa
-Smith rozpoznawał kulturowe różnice w tym, co stanowi bogactwo i dobrobyt. Zauważył, że bogactwo obejmuje "nie tylko towary, które są niezbędnie konieczne do podtrzymania życia, ale cokolwiek zwyczaj kraju czyni nieprzyzwoitym dla szanowanych ludzi".
+### Cultural Relativity of Wealth
+Smith recognized cultural differences in what constitutes wealth and prosperity. He noted that wealth includes "not only those things which are necessary to support life, but whatever the custom of the country renders it indecent for creditable people to be without."
 
-### Symbol współczesnego PKB
-Koncepcja PKB pochodziła z pism Smitha o bogactwie i produktywności. Jego pogląd, że produktywność kraju jest wynikiem jego zdolności do akumulacji kapitału poprzez serię połączonych rynków, silnie wpłynął na późniejszych ekonomistów.
+### Symbol of Contemporary GDP
+The concept of GDP originated from Smith's writings on wealth and productivity. His view that a country's productivity results from its ability to accumulate capital through a series of connected markets strongly influenced later economists.
 
-### Krytyka współczesna wzrostu
-Współcześni krytycy środowiskowi argumentują, że czego Smith nie mógł wiedzieć w swoich czasach, nauczyliśmy się w naszych: istnieją granice ekspansji ekonomicznej. Model ekonomiczny Smitha opiera się na stale rozszerzającym się wzroście, jednak rzeczywisty system światowy działa z ograniczeniami wynikającymi z skończonych zasobów.
+### Contemporary Criticism of Growth
+Contemporary environmental critics argue that what Smith could not know in his times, we have learned in ours: there are limits to economic expansion. Smith's economic model is based on constantly expanding growth, yet the real world system operates with limitations arising from finite resources.
 
-## 5. Interpretacje feministyczne
+## 5. Feminist Interpretations
 
-### Ograniczona rola kobiet
-Feministyczne ekonomistki stwierdziły, że Smith "stracił z oczu podział pracy w rodzinie i wkład ekonomiczny kobiet". Badania wykazały, że Smith miał stosunkowo małe zaufanie do niezależnego osądu kobiet, a więc do ich zdolności do rozumnych decyzji w sprawach ekonomicznych.
+### Limited Role of Women
+Feminist economists stated that Smith "lost sight of the division of labor in the family and women's economic contribution." Research has shown that Smith had relatively little confidence in women's independent judgment, and thus in their ability to make reasonable decisions in economic matters.
 
-### Niewidzialność pracy domowej
-Ekonomia feministyczna zwraca uwagę na znaczenie działalności pozarynkowej, takiej jak opieka nad dziećmi i praca domowa, dla rozwoju ekonomicznego. Kiedy ta praca nie jest uwzględniona w rachunkach ekonomicznych, wiele pracy wykonanej przez kobiety jest ignorowane, dosłownie dewaluując ich wysiłek.
+### Invisibility of Domestic Work
+Feminist economics draws attention to the significance of non-market activities, such as childcare and housework, for economic development. When this work is not included in economic accounts, much of the work done by women is ignored, literally devaluing their effort.
 
-### Smith jako proto-feminista
-Niektórzy badacze argumentują przeciwnie, że Smith był "najbardziej feministycznym mężczyzną w historii", wskazując na jego zainteresowanie sprawiedliwością społeczną i troską o najsłabszych członków społeczeństwa.
+### Smith as Proto-Feminist
+Some scholars argue conversely that Smith was "the most feminist man in history," pointing to his interest in social justice and concern for the weakest members of society.
 
-### Wymiana i współczucie
-Współczesna nauka feministyczna analizuje wąski zakres, jaki ekonomiści neoklasyczni nadali koncepcji wymiany, odwołując się do systemu sympatii Smitha i badając go w kontekście wymiany przez analizę jego idei, że oszustwo jest kluczowe dla zrozumienia procesów wymiany.
+### Exchange and Sympathy
+Contemporary feminist scholarship analyzes the narrow scope that neoclassical economists gave to the concept of exchange, referring to Smith's system of sympathy and examining it in the context of exchange through analysis of his idea that deception is key to understanding exchange processes.
 
-## 6. Perspektywa postkolonialna
+## 6. Postcolonial Perspective
 
-### Pozorna anty-imperialistyczna postawa
-Nowsze badania kwestionują interpretację Smitha jako reprezentanta antykolonialnej myśli liberalnej, argumentując, że sprzeciw Smitha wobec rządów kolonialnych wynikał w dużej mierze z ich wpływu na metropolię, a nie na podbite i skolonizowane terytoria.
+### Apparent Anti-Imperialist Stance
+Recent research questions the interpretation of Smith as a representative of anti-colonial liberal thought, arguing that Smith's opposition to colonial rule arose largely from their impact on the metropolis, not on conquered and colonized territories.
 
-### Koszty kolonializmu
-Smith rozpoznawał koszty dla skolonizowanych wynikające z europejskiej ekspansji (niewolnictwo, głód i różne niesprawiedliwości), ale to koszty dla mocarstw europejskich naprawdę go angażowały, włączając koszty militarne obrony kolonii, koszty ekonomiczne związane z merkantylną kontrolą handlu kolonialnego.
+### Costs of Colonialism
+Smith recognized the costs for the colonized resulting from European expansion (slavery, famine, and various injustices), but it was the costs for European powers that truly engaged him, including military costs of defending colonies, economic costs associated with mercantile control of colonial trade.
 
-### Kolonizacja osadnicza jako wyjątek
-Niedawne badania argumentują, że kolonizacja osadnicza w Ameryce Północnej reprezentowała ważny wyjątek i ograniczenie antyimperialnych zobowiązań Smitha, ponieważ Smith oszczędził agrarne kolonie osadnicze od swojej inwektywy przeciwko innym praktykom imperialnym.
+### Settler Colonization as Exception
+Recent research argues that settler colonization in North America represented an important exception and limitation to Smith's anti-imperial commitments, because Smith spared agrarian settler colonies from his invective against other imperial practices.
 
-### Uznanie różnorodności kulturowej
-Smith odrzucał pogląd, że inne kultury, takie jak Chiny i Indie, były kulturowo i rozwojowo gorsze od Europy. Chociaż faworyzował "społeczeństwo komercyjne", nie popierał radykalnych zmian społecznych i narzucania społeczeństwa komercyjnego innym społecznościom.
+### Recognition of Cultural Diversity
+Smith rejected the view that other cultures, such as China and India, were culturally and developmentally inferior to Europe. Although he favored "commercial society," he did not support radical social changes and imposing commercial society on other societies.
 
-## 7. Interpretacje środowiskowe
+## 7. Environmental Interpretations
 
-### Krytyka neoliberalnego kapitalizmu
-W obliczu eskalującego globalnego kryzysu ekologicznego, coraz częściej spotyka się uzasadnioną krytykę neoliberalnego kapitalizmu, który Smith jest popularnie uważany za popierającego, ze strony uczonych zainteresowanych środowiskiem.
+### Criticism of Neoliberal Capitalism
+In the face of escalating global ecological crisis, increasingly justified criticism of neoliberal capitalism, which Smith is popularly considered to support, is met from scholars interested in the environment.
 
-### Ograniczenia wzrostu
-Współcześni krytycy środowiskowi argumentują, że czego Smith nie mógł wiedzieć w swoich czasach, nauczyliśmy się w naszych: istnieją granice ekspansji ekonomicznej. System świata rzeczywistego działa z ograniczeniami wynikającymi ze skończonych zasobów i skończonych zdolności absorpcji odpadów.
+### Growth Limitations
+Contemporary environmental critics argue that what Smith could not know in his times, we have learned in ours: there are limits to economic expansion. The real world system operates with limitations arising from finite resources and finite waste absorption capacities.
 
-### Potencjał środowiskowy u Smitha
-Jednak niektórzy uczeni znajdują potencjał środowiskowy w pracy Smitha. Smith zapewnia "rygorystyczne podstawy dla wyrafinowanej środowiskowej etyki cnót; bardzo potrzebny środek między teoretykami wartości wewnętrznych a środowiskowymi pragmatykami".
+### Environmental Potential in Smith
+However, some scholars find environmental potential in Smith's work. Smith provides "rigorous foundations for a sophisticated environmental virtue ethics; a much-needed middle ground between intrinsic value theorists and environmental pragmatists."
 
-### Ekologia społeczna
-Frederik Jonsson argumentuje, że pogląd Smitha, że siły rynkowe wystarczały do "poprawy" porządku naturalnego, reprezentował jedną z dwóch "rywalizujących ekologii" w politycznej ekonomii końca XVIII wieku.
+### Social Ecology
+Frederik Jonsson argues that Smith's view that market forces were sufficient to "improve" the natural order represented one of two "competing ecologies" in late 18th-century political economy.
 
-### Współczesne konsekwencje
-Niektórzy uczeni argumentują, że biorąc pod uwagę to, co Smith mówi o etyce w Teorii uczuć moralnych, Smith byłby "przerażony spektakularnym 'sukcesem' globalnego kapitalizmu, który dziś jest czczony w jego imieniu", ponieważ dzisiejsze konsumpcyjne ekscesy i reperkusje środowiskowe naruszyłyby jego XVIII-wieczne zasady moralne.
+### Contemporary Consequences
+Some scholars argue that given what Smith says about ethics in The Theory of Moral Sentiments, Smith would be "horrified by the spectacular 'success' of global capitalism that is today celebrated in his name," because today's consumptive excesses and environmental repercussions would violate his 18th-century moral principles.
 
-## 8. Symbol rynku jako mechanizmu społecznego
+## 8. The Market as Social Mechanism Symbol
 
-### Rynek jako system komunikacji
-Dla Smitha rynek to nie tylko mechanizm wymiany, ale złożony system komunikacji społecznej. Ceny działają jako sygnały, które koordynują działania milionów ludzi bez centralnego planowania.
+### Market as Communication System
+For Smith, the market is not just an exchange mechanism, but a complex system of social communication. Prices act as signals that coordinate the actions of millions of people without central planning.
 
-### Metafora społecznej harmonii
-System rynkowy symbolizuje dla Smitha naturalną harmonię interesów. Ludzie dążący do własnych celów nieintencjonalnie służą dobru wspólnemu - to głęboka metafora społecznego porządku emergentnego.
+### Metaphor of Social Harmony
+The market system symbolizes for Smith the natural harmony of interests. People pursuing their own goals unintentionally serve the common good - this is a profound metaphor of emergent social order.
 
-### Krytyka mechanicystyczna
-Współcześni krytycy widzą w tej metaforze niebezpeczne uproszczenie złożoności społecznej. Rynek może prowadzić do patologii, nierówności i kryzysów, które Smith słabo przewidywał.
+### Mechanistic Criticism
+Contemporary critics see in this metaphor a dangerous simplification of social complexity. The market can lead to pathologies, inequalities, and crises that Smith poorly predicted.
 
-### Symbol spontanicznego porządku
-Austriacka szkoła ekonomii rozwinęła smithowską ideę rynku jako przykład spontanicznego porządku - systemu, który powstaje bez świadomego projektowania, ale wytwarza uporządkowane wzorce.
+### Symbol of Spontaneous Order
+The Austrian school of economics developed the Smithian idea of the market as an example of spontaneous order - a system that emerges without conscious design but produces ordered patterns.
 
-## 9. Praca jako miernik wartości
+## 9. Labor as Value Measure
 
-### Teoria pracy jako symbol
-Smithowska teoria wartości oparta na pracy - "Praca... jest rzeczywistą miarą wartości wymiennej wszystkich towarów" - stanowi symboliczny fundament dla alternatywnej wizji ekonomii.
+### Labor Theory as Symbol
+Smith's labor-based value theory - "Labour... is the real measure of the exchangeable value of all commodities" - constitutes a symbolic foundation for an alternative vision of economics.
 
-### Krytyka pieniądza jako miary
-Smith odrzucał ideę, że pieniądz lub złoto determinuje wartość. Zamiast tego, ludzki wysiłek jest prawdziwym fundamentem wyceny i tworzenia wartości - koncepcja nadal dyskutowana w ekonomii.
+### Criticism of Money as Measure
+Smith rejected the idea that money or gold determines value. Instead, human effort is the true foundation of valuation and value creation - a concept still debated in economics.
 
-### Wyzysk a sprawiedliwość
-Marks rozwinął smithowską teorię pracy w kierunku krytyki wyzysku kapitalistycznego. To pokazuje, jak ten sam symbol może służyć przeciwstawnym ideologiom.
+### Exploitation vs Justice
+Marx developed Smith's labor theory toward criticism of capitalist exploitation. This shows how the same symbol can serve opposing ideologies.
 
-### Współczesne reinterpretacje
-Współcześni ekonomiści heterodoksyjni wykorzystują smithowską teorię wartości pracy do krytyki finansjalizacji i spekulacji, argumentując za powrotem do "rzeczywistej" ekonomii produkcyjnej.
+### Contemporary Reinterpretations
+Contemporary heterodox economists use Smith's labor theory of value to critique financialization and speculation, arguing for a return to "real" productive economics.
 
-## 10. Edukacja jako inwestycja społeczna
+## 10. Education as Social Investment
 
-### Symbol rozwoju kapitału ludzkiego
-Smith argumentował za publicznym finansowaniem edukacji, widząc w niej inwestycję w kapitał ludzki społeczeństwa. To była rewolucyjna idea w czasach, gdy edukacja była przywilejem elit.
+### Symbol of Human Capital Development
+Smith argued for public financing of education, seeing it as an investment in society's human capital. This was a revolutionary idea in times when education was a privilege of elites.
 
-### Przeciwwaga dla podziału pracy
-Smith rozpoznawał, że podział pracy może prowadzić do intelektualnego zubożenia pracowników. Edukacja miała być antidotum na te negatywne skutki specjalizacji.
+### Counterbalance to Division of Labor
+Smith recognized that division of labor could lead to intellectual impoverishment of workers. Education was to be an antidote to these negative effects of specialization.
 
-### Symbol społecznej mobilności
-Edukacja symbolizuje u Smitha możliwość społecznego awansu i przełamywania barier klasowych. To egalitarna wizja społeczeństwa opartego na zasługach.
+### Symbol of Social Mobility
+Education symbolizes for Smith the possibility of social advancement and breaking class barriers. This is an egalitarian vision of a merit-based society.
 
-### Współczesne interpretacje
-Współcześni libertarianie często ignorują smithowskie argumenty za publiczną edukacją, podczas gdy progresyści widzą w nich poparcie dla państwa opiekuńczego.
+### Contemporary Interpretations
+Contemporary libertarians often ignore Smith's arguments for public education, while progressives see in them support for the welfare state.
 
-## 11. Podatki jako symbol sprawiedliwości społecznej
+## 11. Taxes as Symbol of Social Justice
 
-### Zasady sprawiedliwego opodatkowania
-Smith sformułował cztery zasady opodatkowania: proporcjonalność do zdolności płatniczej, określoność, wygoda płacenia i ekonomiczność poboru. Te zasady stały się fundamentem nowoczesnych systemów podatkowych.
+### Principles of Just Taxation
+Smith formulated four principles of taxation: proportionality to ability to pay, certainty, convenience of payment, and economy of collection. These principles became the foundation of modern tax systems.
 
-### Progresywność podatkowa
-Smith argumentował, że bogaci powinni płacić proporcjonalnie więcej, nie tylko w wartości bezwzględnej. To była rewolucyjna idea sprawiedliwości dystrybutywnej.
+### Tax Progressivity
+Smith argued that the rich should pay proportionally more, not just in absolute value. This was a revolutionary idea of distributive justice.
 
-### Symbol odpowiedzialności społecznej
-Podatki reprezentują u Smitha społeczną odpowiedzialność tych, którzy najbardziej skorzystali z ochrony państwa i infrastruktury społecznej.
+### Symbol of Social Responsibility
+Taxes represent for Smith the social responsibility of those who have most benefited from state protection and social infrastructure.
 
-### Współczesne kontrowersje
-Libertarianie często przywołują Smitha w obronie niskich podatków, ignorując jego argumenty za progresywnością i społeczną odpowiedzialnością.
+### Contemporary Controversies
+Libertarians often invoke Smith in defense of low taxes, ignoring his arguments for progressivity and social responsibility.
 
-## 12. Państwo jako strażnik sprawiedliwości
+## 12. The State as Guardian of Justice
 
-### Minimalne państwo czy aktywne państwo?
-Smith widział dla państwa trzy główne funkcje: obronę, wymiar sprawiedliwości i pewne roboty publiczne. Jednak jego interpretacja "robót publicznych" była dość szeroka.
+### Minimal State or Active State?
+Smith saw three main functions for the state: defense, administration of justice, and certain public works. However, his interpretation of "public works" was quite broad.
 
-### Symbol równowagi między wolnością a porządkiem
-Państwo u Smitha to strażnik, który zapewnia podstawowe warunki dla funkcjonowania rynku, ale nie ingeruje w prywatne decyzje gospodarcze.
+### Symbol of Balance Between Freedom and Order
+The state for Smith is a guardian that ensures basic conditions for market functioning, but does not interfere in private economic decisions.
 
-### Krytyka privilege'u
-Smith ostro krytykował wykorzystywanie państwa do ochrony przywilejów. "Rząd cywilny, o ile jest ustanowiony dla bezpieczeństwa własności, jest w rzeczywistości ustanowiony dla obrony bogatych przeciwko biednym".
+### Criticism of Privilege
+Smith sharply criticized the use of the state to protect privileges. "Civil government, so far as it is instituted for the security of property, is in reality instituted for the defence of the rich against the poor."
 
-### Współczesne interpretacje
-Neoliberałowie często przywołują Smitha dla uzasadnienia deregulacji, podczas gdy socjaldemokraci podkreślają jego uznanie dla roli państwa w zapewnianiu sprawiedliwości społecznej.
+### Contemporary Interpretations
+Neoliberals often invoke Smith to justify deregulation, while social democrats emphasize his recognition of the state's role in ensuring social justice.
 
-## 13. Handel międzynarodowy jako symbol pokoju
+## 13. International Trade as Symbol of Peace
 
-### Teoria przewag komparatywnych
-Smith argumentował, że handel międzynarodowy przynosi korzyści wszystkim stronom, nawet jeśli jeden kraj ma przewagę absolutną we wszystkich dziedzinach.
+### Theory of Comparative Advantages
+Smith argued that international trade benefits all parties, even if one country has absolute advantage in all areas.
 
-### Symbol cywilizacji
-Handel reprezentował dla Smitha siłę cywilizującą, która łagodzi obyczaje i promuje pokojowe rozwiązywanie konfliktów między narodami.
+### Symbol of Civilization
+Trade represented for Smith a civilizing force that softens customs and promotes peaceful conflict resolution between nations.
 
-### Krytyka merkantylizmu
-Smith ostro krytykował merkantylną ideę, że handel to gra o sumie zerowej. Argumentował, że bogactwo jednego kraju nie musi oznaczać ubóstwa drugiego.
+### Criticism of Mercantilism
+Smith sharply criticized the mercantilist idea that trade is a zero-sum game. He argued that one country's wealth need not mean another's poverty.
 
-### Współczesne kontrowersje
-Globaliści przywołują Smitha w obronie wolnego handlu, podczas gdy krytycy globalizacji wskazują na jego ostrzeżenia przed wykorzystywaniem handlu dla interesów wąskich elit.
+### Contemporary Controversies
+Globalists invoke Smith in defense of free trade, while critics of globalization point to his warnings against using trade for narrow elite interests.
 
-## 14. Luksus a konieczność - relatywność potrzeb
+## 14. Luxury vs Necessity - Relativity of Needs
 
-### Kulturowa definicja podstawowych potrzeb
-Smith zauważył, że to, co uważamy za podstawowe potrzeby, zmienia się w zależności od kultury i czasu. Lniana koszula była luksusem dla starożytnych Greków, ale koniecznością dla XVIII-wiecznego angielskiego robotnika.
+### Cultural Definition of Basic Needs
+Smith noted that what we consider basic needs changes depending on culture and time. A linen shirt was a luxury for ancient Greeks, but a necessity for an 18th-century English worker.
 
-### Symbol społecznej godności
-Luksus staje się koniecznością, gdy jego brak oznacza społeczną degradację. Smith rozumiał psychologiczny i społeczny wymiar ubóstwa.
+### Symbol of Social Dignity
+Luxury becomes necessity when its absence means social degradation. Smith understood the psychological and social dimension of poverty.
 
-### Krytyka konsumpcjonizmu
-Współcześni krytycy widzą w smithowskiej analizie luksus-konieczność wczesną diagnozę konsumpcjonizmu i presji społecznej na nabywanie dóbr statusowych.
+### Criticism of Consumerism
+Contemporary critics see in Smith's luxury-necessity analysis an early diagnosis of consumerism and social pressure to acquire status goods.
 
-### Symbol inflacji społecznych oczekiwań
-Smithowska analiza pokazuje, jak oczekiwania społeczne stale rosną, tworząc "bieżnię hedonistyczną" - ludzie muszą stale więcej nabywać, by utrzymać względną pozycję społeczną.
+### Symbol of Social Expectations Inflation
+Smith's analysis shows how social expectations constantly rise, creating a "hedonic treadmill" - people must constantly buy more to maintain relative social position.
 
-## 15. Konkurencja jako symbol dynamizmu społecznego
+## 15. Competition as Symbol of Social Dynamism
 
-### Konkurencja a monopol
-Smith widział konkurencję jako motor innowacji i efektywności, podczas gdy monopol reprezentował stagnację i wyzysk.
+### Competition vs Monopoly
+Smith saw competition as the engine of innovation and efficiency, while monopoly represented stagnation and exploitation.
 
-### Symbol meritokracji
-Konkurencja rynkowa miała promować talenty i karać niekompetencję, tworząc społeczeństwo oparte na zasługach.
+### Symbol of Meritocracy
+Market competition was to promote talents and punish incompetence, creating a merit-based society.
 
-### Granice konkurencji
-Smith rozpoznawał, że niektóre obszary - jak edukacja czy infrastruktura - mogą wymagać innej logiki niż konkurencyjna.
+### Limits of Competition
+Smith recognized that some areas - like education or infrastructure - might require different logic than competitive.
 
-### Współczesne interpretacje
-Chicago School intensyfikowała smithowską wiarę w konkurencję, podczas gdy krytycy wskazują na destrukcyjne aspekty bezgranicznej konkurencji.
+### Contemporary Interpretations
+The Chicago School intensified Smith's faith in competition, while critics point to destructive aspects of boundless competition.
 
-## 16. Społeczna natura człowieka
+## 16. Social Nature of Humans
 
-### Człowiek jako istota społeczna
-Smith odrzucał hobbesian obraz człowieka jako naturalnie egoistycznego. Ludzie są naturalnie społeczni i potrzebują uznania innych.
+### Human as Social Being
+Smith rejected the Hobbesian image of humans as naturally selfish. People are naturally social and need recognition from others.
 
-### Symbol współzależności
-Smithowski człowiek jest zależny od innych nie tylko materialnie, ale i emocjonalnie. Potrzebujemy sympatii innych dla naszego psychicznego dobrostanu.
+### Symbol of Interdependence
+Smith's human is dependent on others not only materially, but emotionally. We need others' sympathy for our psychological well-being.
 
-### Krytyka atomistycznego indywidualizmu
-Współcześni komunityryści przywołują Smitha przeciwko atomistycznemu indywidualizmowi, podkreślając społeczną konstytucję człowieka.
+### Criticism of Atomistic Individualism
+Contemporary communitarians invoke Smith against atomistic individualism, emphasizing the social constitution of humans.
 
-### Ewolucyjna interpretacja
-Współczesna psychologia ewolucyjna znajduje w Smithowskiej analizie sympathy wczesne rozpoznanie ewolucyjnych podstaw altruizmu i współpracy.
+### Evolutionary Interpretation
+Contemporary evolutionary psychology finds in Smith's analysis of sympathy early recognition of evolutionary foundations of altruism and cooperation.
 
-## 17. Klasy społeczne jako siły dynamiczne
+## 17. Social Classes as Dynamic Forces
 
-### Triada klas społecznych
-Smith wyróżniał właścicieli ziemi, kapitalistów i robotników jako trzy główne klasy społeczne z różnymi interesami ekonomicznymi.
+### Triad of Social Classes
+Smith distinguished landowners, capitalists, and workers as three main social classes with different economic interests.
 
-### Konflikt interesów
-Smith rozpoznawał, że interesy tych klas często się wykluczają, co może prowadzić do konfliktów społecznych.
+### Conflict of Interests
+Smith recognized that these classes' interests often conflict, which can lead to social conflicts.
 
-### Symbol społecznej dynamiki
-Interakcje między klasami napędzają rozwój ekonomiczny i społeczną zmianę w smithowskiej wizji historii.
+### Symbol of Social Dynamics
+Interactions between classes drive economic development and social change in Smith's vision of history.
 
-### Marks a Smith
-Marks rozwinął smithowską analizę klas w kierunku teorii walki klas i rewolucji społecznej.
+### Marx and Smith
+Marx developed Smith's class analysis toward the theory of class struggle and social revolution.
 
-## 18. Religia jako stabilizator społeczny
+## 18. Religion as Social Stabilizer
 
-### Religia a porządek moralny
-Smith widział religię jako ważny element systemu moralnego społeczeństwa, chociaż nie był ortodoksyjnie religijny.
+### Religion and Moral Order
+Smith saw religion as an important element of society's moral system, although he was not orthodoxly religious.
 
-### Symbol społecznej kohezji
-Wspólne wierzenia religijne pomagają utrzymać społeczną solidarność i wspólne standardy moralne.
+### Symbol of Social Cohesion
+Common religious beliefs help maintain social solidarity and common moral standards.
 
-### Krytyka fanatyzmu
-Smith krytykował religijny fanatyzm i uprzedzenia, opowiadając się za tolerancją religijną.
+### Criticism of Fanaticism
+Smith criticized religious fanaticism and prejudices, advocating for religious tolerance.
 
-### Sekularyzacja moralności
-Smith próbował stworzyć system moralny oparty na naturalnych uczuciach, nie na religijnym objawieniu.
+### Secularization of Morality
+Smith tried to create a moral system based on natural feelings, not religious revelation.
 
-## 19. Technologia jako siła postępu
+## 19. Technology as Force of Progress
 
-### Innowacje technologiczne
-Smith dostrzegał w postępie technicznym główną siłę napędową wzrostu ekonomicznego i poprawy warunków życia.
+### Technological Innovations
+Smith saw technical progress as the main driving force of economic growth and improvement of living conditions.
 
-### Symbol ludzkiej kreatywności
-Technologia reprezentuje dla Smitha nieskończoną zdolność człowieka do rozwiązywania problemów i przekształcania środowiska.
+### Symbol of Human Creativity
+Technology represents for Smith the infinite human capacity to solve problems and transform the environment.
 
-### Podział pracy a innowacje
-Specjalizacja prowadzi do innowacji technologicznych, ponieważ specjaliści lepiej rozumieją swoje dziedziny i mogą je doskonalić.
+### Division of Labor and Innovation
+Specialization leads to technological innovations because specialists better understand their fields and can perfect them.
 
-### Współczesne interpretacje
-Współcześni teoretycy wzrostu endogenicznego rozwijają smithowskie intuicje o związku między podziałem pracy a innowacjami technologicznymi.
+### Contemporary Interpretations
+Contemporary endogenous growth theorists develop Smith's intuitions about the relationship between division of labor and technological innovations.
 
-## 20. Język ekonomiczny jako narzędzie władzy
+## 20. Economic Language as Tool of Power
 
-### Metafory językowe
-Smith świadomie używał języka i metafor do kształtowania sposobu myślenia o ekonomii. "Niewidzialna ręka" to przykład potężnej metafory kształtującej wyobraźnię.
+### Linguistic Metaphors
+Smith consciously used language and metaphors to shape ways of thinking about economics. The "invisible hand" is an example of a powerful metaphor shaping imagination.
 
-### Symbol retorycznej władzy
-Sposób, w jaki opisujemy procesy ekonomiczne, wpływa na to, jak je rozumiemy i jak na nie reagujemy.
+### Symbol of Rhetorical Power
+The way we describe economic processes influences how we understand them and how we react to them.
 
-### Naturalizacja procesów społecznych
-Smithowskie metafory organiczne i mechaniczne sprawiają, że procesy społeczne wydają się naturalne i nieuniknione.
+### Naturalization of Social Processes
+Smith's organic and mechanical metaphors make social processes seem natural and inevitable.
 
-### Krytyka językowa
-Współcześni krytycy analizują, jak ekonomiczny język kształtuje rzeczywistość społeczną i legitimizuje określone układy władzy.
+### Linguistic Criticism
+Contemporary critics analyze how economic language shapes social reality and legitimizes certain power arrangements.
 
-## 21. Czas jako zasób ekonomiczny
+## 21. Time as Economic Resource
 
-### Czas a produktywność
-Smith rozumiał, że oszczędność czasu dzięki podziałowi pracy jest kluczowym źródłem wzrostu produktywności.
+### Time and Productivity
+Smith understood that time savings through division of labor is a key source of productivity growth.
 
-### Symbol nowożytnej racjonalności
-Kalkulacja czasowa reprezentuje nowożytne podejście do efektywności i racjonalizacji procesów społecznych.
+### Symbol of Modern Rationality
+Time calculation represents the modern approach to efficiency and rationalization of social processes.
 
-### Alienacja czasowa
-Krytyczne interpretacje widzą w smithowskiej analizie czasu początki nowożytnej alienacji, gdzie czas staje się towarem.
+### Temporal Alienation
+Critical interpretations see in Smith's time analysis the beginnings of modern alienation, where time becomes a commodity.
 
-### Współczesna ekonomia czasu
-Współczesna ekonomia behawioralna rozwija smithowskie intuicje o znaczeniu czasu w decyzjach ekonomicznych.
+### Contemporary Time Economics
+Contemporary behavioral economics develops Smith's intuitions about the significance of time in economic decisions.
 
-## 22. Pieniądz jako medium społeczne
+## 22. Money as Social Medium
 
-### Pieniądz a wymiana
-Smith analizował przejście od barterowej do pieniężnej gospodarki jako kluczowy moment rozwoju cywilizacyjnego.
+### Money and Exchange
+Smith analyzed the transition from barter to monetary economy as a key moment of civilizational development.
 
-### Symbol społecznego zaufania
-Pieniądz reprezentuje społeczne zaufanie i konwencje, które umożliwiają współpracę między obcymi.
+### Symbol of Social Trust
+Money represents social trust and conventions that enable cooperation between strangers.
 
-### Fetysz towarowy
-Smithowska analiza pieniądza zawiera zalążki marksoowskiej teorii fetyszyzmu towarowego.
+### Commodity Fetishism
+Smith's analysis of money contains the seeds of Marx's theory of commodity fetishism.
 
-### Współczesne interpretacje
-Współcześni teoretycy pieniądza rozwijają smithowskie intuicje o społecznej naturze pieniądza i jego roli w kształtowaniu relacji społecznych.
+### Contemporary Interpretations
+Contemporary monetary theorists develop Smith's intuitions about the social nature of money and its role in shaping social relations.
 
-## 23. Równowaga jako idealny stan
+## 23. Equilibrium as Ideal State
 
-### Naturalny porządek
-Smith wierzył w istnienie naturalnej równowagi ekonomicznej, która powstaje spontanicznie dzięki działaniu sił rynkowych.
+### Natural Order
+Smith believed in the existence of natural economic equilibrium that emerges spontaneously through market forces.
 
-### Symbol harmonii kosmicznej
-Idea równowagi łączy smithowską ekonomię z oświeceniową wiarą w racjonalny porządek wszechświata.
+### Symbol of Cosmic Harmony
+The idea of equilibrium connects Smith's economics with Enlightenment faith in the rational order of the universe.
 
-### Krytyka statyczności
-Współcześni krytycy argumentują, że prawdziwa ekonomia charakteryzuje się stałą nierównowagą i nieprzewidywalnością.
+### Criticism of Stasis
+Contemporary critics argue that real economics is characterized by constant disequilibrium and unpredictability.
 
-### Złożoność emergentna
-Współczesne teorie złożoności rozwijają smithowskie intuicje o emergentnych właściwościach systemów społecznych.
+### Emergent Complexity
+Contemporary complexity theories develop Smith's intuitions about emergent properties of social systems.
 
-## 24. Historia jako postęp
+## 24. History as Progress
 
-### Stadiale rozwoju społecznego
-Smith wyróżniał cztery stadia rozwoju społecznego: łowiecko-zbierackie, pasterskie, rolnicze i komercyjne.
+### Stages of Social Development
+Smith distinguished four stages of social development: hunter-gatherer, pastoral, agricultural, and commercial.
 
-### Symbol teleologicznego rozwoju
-Ta wizja historii implikuje kierunkowy postęp od prostszych do bardziej złożonych form organizacji społecznej.
+### Symbol of Teleological Development
+This vision of history implies directional progress from simpler to more complex forms of social organization.
 
-### Krytyka europocentryzmu
-Współcześni krytycy postkolonialni widzą w tej teorii uzasadnienie europejskiej dominacji nad "mniej rozwiniętymi" społecznościami.
+### Criticism of Eurocentrism
+Contemporary postcolonial critics see in this theory a justification of European dominance over "less developed" societies.
 
-### Alternatywne historie
-Współcześni historycy gospodarczy kwestionują liniowość i uniwersalność smithowskiego modelu rozwoju.
+### Alternative Histories
+Contemporary economic historians question the linearity and universality of Smith's development model.
 
-## 25. Sprawiedliwość jako fundament społeczeństwa
+## 25. Justice as Foundation of Society
 
-### Sprawiedliwość kommutatywna i dystrybutywna
-Smith rozróżniał sprawiedliwość negatywną (nie szkodzenie innym) od pozytywnej (pomaganie innym).
+### Commutative and Distributive Justice
+Smith distinguished negative justice (not harming others) from positive justice (helping others).
 
-### Symbol społecznego kontraktu
-Sprawiedliwość stanowi fundament, na którym opiera się cała struktura społeczna.
+### Symbol of Social Contract
+Justice constitutes the foundation on which the entire social structure rests.
 
-### Granice rynku
-Smith rozpoznawał, że niektóre aspekty sprawiedliwości nie mogą być pozostawione mechanizmom rynkowym.
+### Market Limits
+Smith recognized that some aspects of justice cannot be left to market mechanisms.
 
-### Współczesne teorie sprawiedliwości
-Rawlsowska teoria sprawiedliwości rozwija niektóre smithowskie intuicje o społecznym charakterze moralności.
+### Contemporary Theories of Justice
+Rawlsian theory of justice develops some Smith's intuitions about the social character of morality.
 
-## 26. Szczęście jako cel ekonomiczny
+## 26. Happiness as Economic Goal
 
-### Eudajmonistyczna ekonomia
-Smith łączył ekonomię z filozofią moralną, argumentując, że celem gospodarki powinno być ludzkie szczęście.
+### Eudaimonistic Economics
+Smith connected economics with moral philosophy, arguing that the goal of economy should be human happiness.
 
-### Symbol humanistycznej ekonomii
-Ta perspektywa przeciwstawia się czysto mechanistycznym ujęciom ekonomii jako nauki o alokacji zasobów.
+### Symbol of Humanistic Economics
+This perspective opposes purely mechanistic approaches to economics as a science of resource allocation.
 
-### Paradoks szczęścia
-Smith rozpoznawał, że bogactwo materialne nie zawsze prowadzi do szczęścia i może wytwarzać nowe formy nieszczęścia.
+### Happiness Paradox
+Smith recognized that material wealth does not always lead to happiness and can produce new forms of unhappiness.
 
-### Współczesna ekonomia szczęścia
-Współczesne badania nad szczęściem i dobrostanem rozwijają smithowskie intuicje o złożoności ludzkiej motywacji.
+### Contemporary Economics of Happiness
+Contemporary research on happiness and well-being develops Smith's intuitions about the complexity of human motivation.
 
-## 27. Natura jako model organizacji
+## 27. Nature as Organizational Model
 
-### Organiczność systemów społecznych
-Smith często używał metafor biologicznych do opisania procesów ekonomicznych, sugerując naturalność porządku rynkowego.
+### Organicity of Social Systems
+Smith often used biological metaphors to describe economic processes, suggesting the naturalness of market order.
 
-### Symbol ekoharmonii
-Ta perspektywa implikuje możliwość harmonii między gospodarką a środowiskiem naturalnym.
+### Symbol of Ecoharmony
+This perspective implies the possibility of harmony between economy and natural environment.
 
-### Krytyka naturalizacji
-Współcześni krytycy argumentują, że naturalizacja procesów społecznych służy legitimizacji istniejących stosunków władzy.
+### Criticism of Naturalization
+Contemporary critics argue that naturalization of social processes serves to legitimize existing power relations.
 
-### Ekonomia ekologiczna
-Współczesna ekonomia ekologiczna czasem przywołuje smithowskie metafory organiczne w krytyce mechanicystycznej ekonomii.
+### Ecological Economics
+Contemporary ecological economics sometimes invokes Smith's organic metaphors in criticism of mechanistic economics.
 
-## 28. Wiedza jako capital społeczny
+## 28. Knowledge as Social Capital
 
-### Rozproszona wiedza
-Smith rozumiał, że wiedza ekonomiczna jest rozproszona wśród uczestników rynku i nie może być scentralizowana.
+### Dispersed Knowledge
+Smith understood that economic knowledge is dispersed among market participants and cannot be centralized.
 
-### Symbol społecznego uczenia się
-Rynek funkcjonuje jako mechanizm społecznego uczenia się, gdzie błędy są szybko korygowane przez konkurencję.
+### Symbol of Social Learning
+The market functions as a mechanism of social learning, where errors are quickly corrected by competition.
 
-### Ograniczenia racjonalności
-Smith rozpoznawał ograniczenia ludzkiej racjonalności i znaczenie rutyn i przyzwyczajeń w podejmowaniu decyzji.
+### Limitations of Rationality
+Smith recognized limitations of human rationality and the significance of routines and habits in decision-making.
 
-### Austriacka szkoła
-Austriaccy ekonomiści rozwinęli smithowskie intuicje o roli wiedzy i informacji w procesach rynkowych.
+### Austrian School
+Austrian economists developed Smith's intuitions about the role of knowledge and information in market processes.
 
-## 29. Kultura jako kontekst ekonomiczny
+## 29. Culture as Economic Context
 
-### Kulturowa osadzenia gospodarki
-Smith rozumiał, że procesy ekonomiczne są zawsze osadzone w określonym kontekście kulturowym.
+### Cultural Embeddedness of Economy
+Smith understood that economic processes are always embedded in a specific cultural context.
 
-### Symbol różnorodności
-Ta perspektywa przeciwstawia się uniwersalizującym tendencjom w ekonomii neoklasycznej.
+### Symbol of Diversity
+This perspective opposes universalizing tendencies in neoclassical economics.
 
-### Relatywizm kulturowy
-Smith argumentował przeciwko narzucaniu europejskich standardów innym kulturom.
+### Cultural Relativism
+Smith argued against imposing European standards on other cultures.
 
-### Ekonomia instytucjonalna
-Współczesna ekonomia instytucjonalna rozwija smithowskie intuicje o znaczeniu kontekstu kulturowego dla procesów gospodarczych.
+### Institutional Economics
+Contemporary institutional economics develops Smith's intuitions about the significance of cultural context for economic processes.
 
-## 30. Przyszłość jako horyzont planowania
+## 30. Future as Planning Horizon
 
-### Długoterminowe myślenie
-Smith podkreślał znaczenie długoterminowego myślenia w planowaniu ekonomicznym i społecznym.
+### Long-term Thinking
+Smith emphasized the significance of long-term thinking in economic and social planning.
 
-### Symbol odpowiedzialności międzypokoleniowej
-Ta perspektywa implikuje odpowiedzialność obecnych pokoleń za przyszłe.
+### Symbol of Intergenerational Responsibility
+This perspective implies the responsibility of present generations for future ones.
 
-### Niepewność przyszłości
-Smith rozpoznawał fundamentalną niepewność co do przyszłości i znaczenie elastyczności w planowaniu.
+### Uncertainty of the Future
+Smith recognized fundamental uncertainty about the future and the significance of flexibility in planning.
 
-### Ekonomia zrównoważona
-Współczesne teorie zrównoważonego rozwoju rozwijają smithowskie intuicje o długoterminowym myśleniu.
+### Sustainable Economics
+Contemporary theories of sustainable development develop Smith's intuitions about long-term thinking.
 
-## 31. Dobro wspólne jako emergentna właściwość
+## 31. Common Good as Emergent Property
 
-### Nieintencjonalne konsekwencje
-Smith pokazywał, jak indywidualne działania mogą prowadzić do niezamierzonych konsekwencji społecznych.
+### Unintentional Consequences
+Smith showed how individual actions can lead to unintended social consequences.
 
-### Symbol społecznej emergencji
-Ta perspektywa sugeruje, że właściwości społeczne nie są redukowalne do właściwości indywidualnych.
+### Symbol of Social Emergence
+This perspective suggests that social properties are not reducible to individual properties.
 
-### Granice intencjonalności
-Smith rozpoznawał ograniczenia świadomego planowania społecznego.
+### Limits of Intentionality
+Smith recognized limitations of conscious social planning.
 
-### Teorie złożoności
-Współczesne teorie systemów złożonych rozwijają smithowskie intuicje o emergentnych właściwościach systemów społecznych.
+### Complexity Theories
+Contemporary complex systems theories develop Smith's intuitions about emergent properties of social systems.
 
-## 32. Etyka gospodarcza jako niezbędny element
+## 32. Economic Ethics as Necessary Element
 
-### Moralne podstawy gospodarki
-Smith argumentował, że gospodarka nie może funkcjonować bez moralnych podstaw.
+### Moral Foundations of Economy
+Smith argued that economy cannot function without moral foundations.
 
-### Symbol społecznego zaufania
-Etyka gospodarcza jest fundamentem zaufania, które umożliwia funkcjonowanie rynków.
+### Symbol of Social Trust
+Economic ethics is the foundation of trust that enables market functioning.
 
-### Krytyka amoralności
-Smith krytykował próby oddzielenia ekonomii od moralności.
+### Criticism of Amorality
+Smith criticized attempts to separate economics from morality.
 
-### Etyka biznesu
-Współczesna etyka biznesu rozwija smithowskie intuicje o znaczeniu moralności w gospodarce.
+### Business Ethics
+Contemporary business ethics develops Smith's intuitions about the significance of morality in economy.
 
-## 33. Władza jako korupcja sprawiedliwości
+## 33. Power as Corruption of Justice
 
-### Krytyka privilege'u
-Smith ostro krytykował wykorzystywanie władzy politycznej dla celów ekonomicznych.
+### Criticism of Privilege
+Smith sharply criticized the use of political power for economic purposes.
 
-### Symbol korupcji
-Władza tenduje do korupcji sprawiedliwości i efektywności ekonomicznej.
+### Symbol of Corruption
+Power tends to corrupt justice and economic efficiency.
 
-### Podział władzy
-Smith opowiadał się za podziałem władzy jako sposobem ograniczenia jej nadużyć.
+### Division of Power
+Smith advocated for division of power as a way to limit its abuses.
 
-### Ekonomia polityczna
-Współczesna ekonomia polityczna rozwija smithowskie analizy związków między władzą a gospodarką.
+### Political Economy
+Contemporary political economy develops Smith's analyses of relationships between power and economy.
 
-## 34. Tradycja jako stabilizator społeczny
+## 34. Tradition as Social Stabilizer
 
-### Znaczenie zwyczajów
-Smith rozumiał znaczenie tradycji i zwyczajów w utrzymywaniu społecznej stabilności.
+### Significance of Customs
+Smith understood the significance of tradition and customs in maintaining social stability.
 
-### Symbol ciągłości
-Tradycja reprezentuje ciągłość kulturową i społeczną stabilność.
+### Symbol of Continuity
+Tradition represents cultural continuity and social stability.
 
-### Zmiana a tradycja
-Smith analizował napięcie między potrzebą zmiany a znaczeniem tradycji.
+### Change vs Tradition
+Smith analyzed the tension between the need for change and the significance of tradition.
 
-### Konserwatywne interpretacje
-Współcześni konserwatyści często przywołują smithowskie uznanie dla tradycji.
+### Conservative Interpretations
+Contemporary conservatives often invoke Smith's recognition of tradition.
 
-## 35. Indywidualizm jako motor postępu
+## 35. Individualism as Engine of Progress
 
-### Indywidualny interes
-Smith argumentował, że indywidualny interes może służyć dobru wspólnemu.
+### Individual Interest
+Smith argued that individual interest can serve the common good.
 
-### Symbol przedsiębiorczości
-Indywidualizm reprezentuje motor innowacji i postępu ekonomicznego.
+### Symbol of Entrepreneurship
+Individualism represents the engine of innovation and economic progress.
 
-### Granice indywidualizmu
-Smith rozpoznawał, że indywidualizm musi być równoważony przez społeczną odpowiedzialność.
+### Limits of Individualism
+Smith recognized that individualism must be balanced by social responsibility.
 
-### Współczesne kontrowersje
-Libertarianie przywołują smithowski indywidualizm, podczas gdy komunityryści podkreślają jego społeczne ograniczenia.
+### Contemporary Controversies
+Libertarians invoke Smith's individualism, while communitarians emphasize its social limitations.
 
-## 36. Uniwersalność jako horyzont moralny
+## 36. Universality as Moral Horizon
 
-### Uniwersalne zasady moralne
-Smith wierzył w istnienie uniwersalnych zasad moralnych przekraczających różnice kulturowe.
+### Universal Moral Principles
+Smith believed in the existence of universal moral principles transcending cultural differences.
 
-### Symbol ludzkiej jedności
-Ta perspektywa sugeruje fundamentalną jedność ludzkiej natury.
+### Symbol of Human Unity
+This perspective suggests fundamental unity of human nature.
 
-### Partykularność kulturowa
-Jednocześnie Smith rozpoznawał znaczenie różnic kulturowych.
+### Cultural Particularity
+At the same time, Smith recognized the significance of cultural differences.
 
-### Współczesne dylematy
-Współczesne debaty o uniwersalności praw człowieka rozwijają smithowskie intuicje.
+### Contemporary Dilemmas
+Contemporary debates about universality of human rights develop Smith's intuitions.
 
-## 37. Nadzieja jako motor działania
+## 37. Hope as Engine of Action
 
-### Optymizm co do przyszłości
-Smith wykazywał umiarkowany optymizm co do możliwości postępu społecznego.
+### Optimism About the Future
+Smith showed moderate optimism about the possibilities of social progress.
 
-### Symbol ludzkiej sprawczości
-Nadzieja reprezentuje wiarę w ludzką zdolność do poprawy własnego losu.
+### Symbol of Human Agency
+Hope represents faith in human ability to improve one's fate.
 
-### Realizm vs optymizm
-Smith łączył optymizm z realizmem co do trudności społecznych.
+### Realism vs Optimism
+Smith combined optimism with realism about social difficulties.
 
-### Współczesna relevantność
-Smithowska nadzieja pozostaje relevantna w obliczu współczesnych wyzwań globalnych.
+### Contemporary Relevance
+Smith's hope remains relevant in the face of contemporary global challenges.
 
-## Wnioski: Żywy tekst we współczesnym świecie
+## Conclusions: Living Text in the Contemporary World
 
-"Bogactwo narodów" pozostaje żywym tekstem, który różne kultury i epoki interpretują na swój sposób. Symbole stworzone przez Smitha - niewidzialna ręka, fabryka szpilek, sympatia - stały się częścią naszej zbiorowej wyobraźni i nadal kształtują sposób, w jaki myślimy o ekonomii, moralności i społeczeństwie.
+"The Wealth of Nations" remains a living text that different cultures and epochs interpret in their own way. The symbols created by Smith - the invisible hand, pin factory, sympathy - became part of our collective imagination and continue to shape how we think about economics, morality, and society.
 
-Analizy feministyczne, postkolonialne, środowiskowe i inne pokazują bogactwo interpretacyjne tekstu, ale także jego ograniczenia i ślepe punkty. Smith pisał jako człowiek XVIII wieku i jego perspektywa była nieuchronnie ograniczona przez epokę i kulturę.
+Feminist, postcolonial, environmental, and other analyses show the interpretive richness of the text, but also its limitations and blind spots. Smith wrote as an 18th-century man and his perspective was inevitably limited by his epoch and culture.
 
-Jednocześnie jego fundamentalne intuicje o społecznej naturze człowieka, znaczeniu instytucji, związku między gospodarką a moralnością pozostają relevantne i inspirujące. "Bogactwo narodów" to nie tylko traktat ekonomiczny, ale filozoficzne dziło o naturze ludzkiej i społecznej, które nadal może wzbogacać nasze rozumienie współczesnego świata.
+At the same time, his fundamental intuitions about the social nature of humans, the significance of institutions, the relationship between economy and morality remain relevant and inspiring. "The Wealth of Nations" is not only an economic treatise, but a philosophical work about human and social nature that can still enrich our understanding of the contemporary world.
 
-Kluczem do zrozumienia tego tekstu jest unikanie zarówno bezkrytycznego utożsamiania Smitha z współczesnym neoliberalizmem, jak i odrzucania jego wkładu w całości. Smith pozostaje myślicielem złożonym, pełnym napięć i paradoksów, co czyni jego dzieło nadal fascynującym i wartym studiowania.
+The key to understanding this text is avoiding both uncritical identification of Smith with contemporary neoliberalism and rejecting his contribution entirely. Smith remains a complex thinker, full of tensions and paradoxes, which makes his work still fascinating and worth studying.

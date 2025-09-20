@@ -1,202 +1,202 @@
-# Ocena Content Warnings: "Milcząca Wiosna" Rachel Carson
+# Content Warnings Assessment: "Silent Spring" by Rachel Carson
 
-## Informacje podstawowe
-**Tytuł:** Silent Spring (Milcząca Wiosna)  
-**Autor:** Rachel Carson  
-**Rok:** 1962  
-**Gatunek:** Literatura środowiskowa, publicystyka naukowa  
+## Basic Information
+**Title:** Silent Spring
+**Author:** Rachel Carson
+**Year:** 1962
+**Genre:** Environmental literature, scientific journalism
 
-**Data analizy:** 3 września 2025  
-**Agent:** Content Warnings Assessment  
-**Oceniono:** 8 dokumentów researchu specjalistycznego  
-
----
-
-## Streszczenie wykonawcze
-
-"Milcząca Wiosna" to książka o średnim profilu ryzyka dla platform społecznościowych, z głównymi obszarami wrażliwymi dotyczącymi konspiracji korporacyjnych, ataków personalnych na autorkę oraz kontrowersji wokół DDT i malarii. Treść jest generalnie educational-friendly, ale wymaga ostrożności w kontekście dyskusji o teorach spiskowych i krytyce przemysłu farmaceutycznego.
-
-**GŁÓWNE RYZYKA:** Teorie spiskowe (8/10), kontrowersje korporacyjne (9/10), ataki na kobiety w nauce (7/10)  
-**OGÓLNA KLASYFIKACJA WIEKU:** 16+ (ze względu na złożone tematy społeczno-polityczne)
+**Analysis Date:** September 3, 2025
+**Agent:** Content Warnings Assessment
+**Evaluated:** 8 specialized research documents
 
 ---
 
-## Matrix ryzyka: Problematyczny temat vs Platforma
+## Executive Summary
 
-| Obszar wrażliwy | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+"Silent Spring" presents a medium risk profile for social media platforms, with main sensitive areas concerning corporate conspiracies, personal attacks on the author, and controversies around DDT and malaria. The content is generally education-friendly but requires caution in discussions of conspiracy theories and pharmaceutical industry criticism.
+
+**MAIN RISKS:** Conspiracy theories (8/10), corporate controversies (9/10), attacks on women in science (7/10)
+**OVERALL AGE CLASSIFICATION:** 16+ (due to complex socio-political themes)
+
+---
+
+## Risk Matrix: Problematic Topic vs Platform
+
+| Sensitive Area | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
 |----------------|----------|-----------|---------|--------|---------|------|
-| **Teorie spiskowe o śmierci Carson** | 🔴 ZAKAZUJ | 🔴 ZAKAZUJ | 🟡 EDYTUJ | 🟡 EDYTUJ | ✅ OK | ✅ OK |
-| **Kontrowersje korporacyjne** | 🟡 OSTROŻNIE | 🟡 OSTROŻNIE | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
-| **Ataki na kobiety w nauce** | 🟡 KONTEKST | 🟡 KONTEKST | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
-| **Związek DDT-malaria** | 🔴 UNIKAJ | 🔴 UNIKAJ | 🟡 EDYTUJ | 🟡 EDYTUJ | ✅ OK | ✅ OK |
-| **Komunistyczne powiązania** | 🔴 UNIKAJ | 🔴 UNIKAJ | 🟡 KONTEKST | 🟡 KONTEKST | ✅ OK | ✅ OK |
-| **Lesbijskie interpretacje** | 🟡 KONTEKST | 🟡 KONTEKST | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
-| **Przemysł chemiczny vs zdrowie** | 🟡 FACT-CHECK | 🟡 FACT-CHECK | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
-| **Feminizm vs patriarchat** | 🟡 KONTEKST | 🟡 KONTEKST | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
+| **Conspiracy theories about Carson's death** | 🔴 PROHIBIT | 🔴 PROHIBIT | 🟡 EDIT | 🟡 EDIT | ✅ OK | ✅ OK |
+| **Corporate controversies** | 🟡 CAUTION | 🟡 CAUTION | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
+| **Attacks on women in science** | 🟡 CONTEXT | 🟡 CONTEXT | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
+| **DDT-malaria connection** | 🔴 AVOID | 🔴 AVOID | 🟡 EDIT | 🟡 EDIT | ✅ OK | ✅ OK |
+| **Communist associations** | 🔴 AVOID | 🔴 AVOID | 🟡 CONTEXT | 🟡 CONTEXT | ✅ OK | ✅ OK |
+| **Lesbian interpretations** | 🟡 CONTEXT | 🟡 CONTEXT | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
+| **Chemical industry vs health** | 🟡 FACT-CHECK | 🟡 FACT-CHECK | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
+| **Feminism vs patriarchy** | 🟡 CONTEXT | 🟡 CONTEXT | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
 
-### Legenda:
-- ✅ **OK** - Bezpiecznie do publikacji bez zmian
-- 🟡 **EDYTUJ/KONTEKST** - Wymagane dodanie kontekstu edukacyjnego  
-- 🔴 **ZAKAZUJ/UNIKAJ** - Wysokie ryzyko, ominąć lub mocno zredukować
-
----
-
-## Analiza platform - szczegółowe rekomendacje
-
-### 🔴 FACEBOOK/META (Najwyższe ryzyko)
-**Status:** Community Notes system, liberalizacja hate speech, wyższa tolerancja dla kontrowersji
-
-#### ❌ ZAKAZANE TEMATY:
-- **Teorie spiskowe o śmierci Carson** - może być oznaczone jako misinformation
-- **Związki DDT z "ludobójstwem w Afryce"** - ekstremalne claims mogą być flagowane
-- **Komunistyczne powiązania Carson** - w kontekście nowych liberalnych zasad Meta
-
-#### ⚠️ WYMAGAJ KONTEKSTU:
-- **Ataki na kobiety w nauce** - frame jako historical sexism, nie contemporary issues
-- **Kontrowersje korporacyjne** - używaj "historical context" disclaimers
-- **Chemikalie i zdrowie** - dodawaj "consult healthcare professionals"
-
-#### ✅ BEZPIECZNE PODEJŚCIE:
-- Focus na biografii Carson jako pioneer
-- Educational content o environmental movement
-- Historical significance bez politycznych komentarzy
+### Legend:
+- ✅ **OK** - Safe to publish without changes
+- 🟡 **EDIT/CONTEXT** - Requires educational context
+- 🔴 **PROHIBIT/AVOID** - High risk, omit or significantly reduce
 
 ---
 
-### 🔴 INSTAGRAM (Wysokie ryzyko)
-**Status:** Identyczne zasady jak Facebook + new ToS na AI training
+## Platform Analysis - Detailed Recommendations
+
+### 🔴 FACEBOOK/META (Highest Risk)
+**Status:** Community Notes system, liberalized hate speech, higher tolerance for controversies
+
+#### ❌ PROHIBITED TOPICS:
+- **Conspiracy theories about Carson's death** - may be flagged as misinformation
+- **DDT links to "genocide in Africa"** - extreme claims may be flagged
+- **Carson's communist associations** - in context of Meta's new liberal policies
+
+#### ⚠️ REQUIRE CONTEXT:
+- **Attacks on women in science** - frame as historical sexism, not contemporary issues
+- **Corporate controversies** - use "historical context" disclaimers
+- **Chemicals and health** - add "consult healthcare professionals"
+
+#### ✅ SAFE APPROACH:
+- Focus on Carson's biography as pioneer
+- Educational content about environmental movement
+- Historical significance without political commentary
+
+---
+
+### 🔴 INSTAGRAM (High Risk)
+**Status:** Identical rules as Facebook + new ToS for AI training
 
 #### 📱 INSTAGRAM-SPECIFIC TIPS:
-- **Stories format** - używaj dla kontrowersyjnych topics (24h expiry)
-- **IGTV dla educational** - dłuższe explainers o historical context
-- **Reels priority** - short, positive messages o environmental awareness
-- **Posts dla community** - focus na engagement, nie controversy
+- **Stories format** - use for controversial topics (24h expiry)
+- **IGTV for educational** - longer explainers about historical context
+- **Reels priority** - short, positive messages about environmental awareness
+- **Posts for community** - focus on engagement, not controversy
 
 #### 🎨 VISUAL STRATEGY:
-- Beautiful nature imagery dominuje controversial text
-- Infographics z historical timeline (facts-focused)
-- Behind-the-scenes o research process (nie conclusions)
+- Beautiful nature imagery dominates controversial text
+- Infographics with historical timeline (facts-focused)
+- Behind-the-scenes about research process (not conclusions)
 
 ---
 
-### 🟡 YOUTUBE (Średnie ryzyko)
+### 🟡 YOUTUBE (Medium Risk)
 **Status:** Anti-AI crackdown, originality focus, human narration required
 
-#### ✅ YOUTUBE ADVANTAGES dla "Silent Spring":
-- **Educational content favored** - perfect dla book analysis
-- **Long-form preferred** - możliwość głębokiej analizy
-- **Human storytelling valued** - personal connection do Carson's story
+#### ✅ YOUTUBE ADVANTAGES for "Silent Spring":
+- **Educational content favored** - perfect for book analysis
+- **Long-form preferred** - possibility for deep analysis
+- **Human storytelling valued** - personal connection to Carson's story
 
 #### 📹 CONTENT STRATEGY:
-- **15+ minute videos** - lepsze earning potential
-- **Human narration mandatory** - nie text-to-speech
-- **Original commentary required** - nie tylko reading excerpts
+- **15+ minute videos** - better earning potential
+- **Human narration mandatory** - no text-to-speech
+- **Original commentary required** - not just reading excerpts
 - **Storytelling approach** - Carson's personal journey + environmental impact
 
-#### ⚠️ RED FLAGS DO UNIKANIA:
-- **Automated voice-over** o conspiracy theories
-- **Repetitive format** dla similar book reviews  
-- **AI-generated scripts** bez human editing
+#### ⚠️ RED FLAGS TO AVOID:
+- **Automated voice-over** about conspiracy theories
+- **Repetitive format** for similar book reviews
+- **AI-generated scripts** without human editing
 - **Medical misinformation** claims
 
 ---
 
-### 🟡 TIKTOK (Średnie ryzyko)
+### 🟡 TIKTOK (Medium Risk)
 **Status:** Long-form only monetization (1+ min), original content required
 
-#### 📱 TIKTOK STRATEGY dla Carson:
-- **Educational storytelling 1+ minutes** - jedyna monetized opcja
+#### 📱 TIKTOK STRATEGY for Carson:
+- **Educational storytelling 1+ minutes** - only monetized option
 - **Personal reading journey** - avoid generic reviews
 - **Interactive Q&A format** - community engagement
-- **Behind-the-scenes research** - własny content creation process
+- **Behind-the-scenes research** - own content creation process
 
 #### ✅ VIRAL POTENTIAL:
-- **#BookTok environmental series** - connect do climate anxiety trends
-- **Historical women in science** - feminist angle bez controversy
+- **#BookTok environmental series** - connect to climate anxiety trends
+- **Historical women in science** - feminist angle without controversy
 - **Writing techniques analysis** - literary education content
 
-#### ❌ UNIKAJ:
+#### ❌ AVOID:
 - **Under 1-minute content** - no monetization
 - **Duetting conspiracy theories** - excluded from rewards
-- **Third-party footage** bez permissions
-- **Medical claims** bez proper disclaimers
+- **Third-party footage** without permissions
+- **Medical claims** without proper disclaimers
 
 ---
 
-### ✅ SPOTIFY (Niskie ryzyko) 
-**Status:** Creator-friendly, video focus dla revenue, cross-platform encouraged
+### ✅ SPOTIFY (Low Risk)
+**Status:** Creator-friendly, video focus for revenue, cross-platform encouraged
 
 #### 🎧 SPOTIFY ADVANTAGES:
 - **Most book-friendly platform** - educational content preferred
 - **Video podcasts higher revenue** - visual elements boost earnings
 - **Cross-platform monetization** - encourage traffic from social media
-- **Minimal content restrictions** dla educational material
+- **Minimal content restrictions** for educational material
 
 #### 📻 CONTENT APPROACH:
-- **Series format** - multiple episodes o different aspects
-- **Interview style** - discuss z environmental experts
-- **Reading excerpts + commentary** - fair use z proper attribution
+- **Series format** - multiple episodes about different aspects
+- **Interview style** - discuss with environmental experts
+- **Reading excerpts + commentary** - fair use with proper attribution
 - **Historical context episodes** - deep dives into 1960s environmental movement
 
-#### ⚠️ TYLKO UWAŻAJ NA:
-- **Copyrighted audiobook clips** bez permission
-- **Music licensing** dla background sounds
+#### ⚠️ ONLY WATCH OUT FOR:
+- **Copyrighted audiobook clips** without permission
+- **Music licensing** for background sounds
 - **Long excerpts** - keep commentary dominant
 
 ---
 
-### ✅ KICK (Najniższe ryzyko)
+### ✅ KICK (Lowest Risk)
 **Status:** Creator-friendly policies, 95/5 revenue split, context-based moderation
 
 #### 🎮 KICK OPPORTUNITIES:
 - **Interactive reading streams** - community engagement
-- **Book discussion streams** - live Q&A z audience
-- **Educational series** o environmental literature  
-- **95/5 split** - najlepszy revenue potential
+- **Book discussion streams** - live Q&A with audience
+- **Educational series** about environmental literature
+- **95/5 split** - best revenue potential
 
 #### 💰 MONETIZATION STRATEGY:
 - **Build to 75 followers** (Affiliate program)
 - **Grow to 100 concurrent viewers** ($16/hour base rate)
 - **Community-first approach** - Kick values relationship building
-- **Most freedom dla controversial discussions** z educational framing
+- **Most freedom for controversial discussions** with educational framing
 
 ---
 
-## Klasyfikacja wiekowa - szczegółowe uzasadnienie
+## Age Classification - Detailed Justification
 
-### 📚 13+ CONTENT (Bezpieczne)
-#### ✅ TEMATY:
-- Carson jako pioneer environmental movement
-- Basic story o DDT i ptakach
+### 📚 13+ CONTENT (Safe)
+#### ✅ TOPICS:
+- Carson as pioneer of environmental movement
+- Basic story about DDT and birds
 - Writing techniques analysis
 - Environmental awareness promotion
 - Scientific method appreciation
 
-#### 📖 PODEJŚCIE:
-- Focus na inspirational story
+#### 📖 APPROACH:
+- Focus on inspirational story
 - Simple scientific concepts
 - Positive environmental message
-- Role model dla young scientists
+- Role model for young scientists
 
 ---
 
-### 🎓 16+ CONTENT (Zalecane) 
-#### ⚠️ KOMPLEKSOWE TEMATY:
-- Corporate conspiracy theories (z fact-checking)
-- Political attacks na women scientists
+### 🎓 16+ CONTENT (Recommended)
+#### ⚠️ COMPLEX TOPICS:
+- Corporate conspiracy theories (with fact-checking)
+- Political attacks on women scientists
 - Industrial-government relationships
 - Complex environmental policy
 - Social change mechanisms
 
-#### 🧠 WYMAGANE UMIEJĘTNOŚCI:
+#### 🧠 REQUIRED SKILLS:
 - Critical thinking about sources
 - Understanding political context
-- Media literacy dla conspiracy theories
-- Ability do separate fact from speculation
+- Media literacy for conspiracy theories
+- Ability to separate fact from speculation
 
 ---
 
-### 🎯 18+ CONTENT (Tylko dla adults)
+### 🎯 18+ CONTENT (Adults Only)
 #### 🔴 ADVANCED/CONTROVERSIAL:
 - Detailed lesbian relationship speculation
 - Deep conspiracy theories analysis
@@ -206,66 +206,66 @@
 
 ---
 
-## Ostrzeżenia dla słuchaczy - Content Warnings
+## Content Warnings for Listeners
 
-### ⚠️ WYMAGANE DISCLAIMERS:
+### ⚠️ REQUIRED DISCLAIMERS:
 
-#### Dla wszystkich platform:
-> "Ten content contains discussions of:
+#### For all platforms:
+> "This content contains discussions of:
 > - Historical corporate controversies
-> - Personal attacks on women scientists  
+> - Personal attacks on women scientists
 > - Complex environmental health topics
 > - 1960s social and political context
 > - Speculation about author's personal life"
 
-#### Dla platform wysokiego ryzyka (Meta):
+#### For high-risk platforms (Meta):
 > "Educational content based on historical research.
 > Consult healthcare professionals for medical information.
 > Views expressed reflect historical context of 1960s."
 
-#### Dla młodszej audience (13-16):
+#### For younger audience (13-16):
 > "This book contains complex social issues.
 > Discussion includes historical sexism and corporate criticism.
 > Adult guidance recommended for full understanding."
 
 ---
 
-## Strategia edukacyjna dla trudnych tematów
+## Educational Strategy for Difficult Topics
 
 ### 🎓 HISTORY-FRIENDLY APPROACH:
 
-#### Zamiast: "Carson była mordowana przez przemysł chemiczny"
-#### Użyj: "Historical documents show coordinated PR campaign against Carson's research"
+#### Instead of: "Carson was murdered by the chemical industry"
+#### Use: "Historical documents show coordinated PR campaign against Carson's research"
 
-#### Zamiast: "DDT ban zabił miliony w Afryce"  
-#### Użyj: "Complex debate continues about DDT policy impacts in different regions"
+#### Instead of: "DDT ban killed millions in Africa"
+#### Use: "Complex debate continues about DDT policy impacts in different regions"
 
-#### Zamiast: "Carson była lesbijką w szafie"
-#### Użyj: "Carson had deep friendships, including correspondence with Dorothy Freeman"
+#### Instead of: "Carson was a closeted lesbian"
+#### Use: "Carson had deep friendships, including correspondence with Dorothy Freeman"
 
-#### Zamiast: "Rząd ukrywał prawdę o chemikaliach"
-#### Użyj: "1960s regulatory frameworks were less developed than today's standards"
+#### Instead of: "Government hid the truth about chemicals"
+#### Use: "1960s regulatory frameworks were less developed than today's standards"
 
 ### 📚 EDUCATIONAL FRAMEWORKS:
 
-1. **Start z scientific facts** - foundation of credibility
-2. **Add historical context** - explain 1960s social conditions  
+1. **Start with scientific facts** - foundation of credibility
+2. **Add historical context** - explain 1960s social conditions
 3. **Present multiple perspectives** - industry, activists, regulators
-4. **Connect do contemporary issues** - climate change, scientific communication
-5. **End z constructive takeaways** - what we learned, how to apply today
+4. **Connect to contemporary issues** - climate change, scientific communication
+5. **End with constructive takeaways** - what we learned, how to apply today
 
 ---
 
-## Compliance checklist dla każdej platformy
+## Compliance Checklist for Each Platform
 
 ### ✅ UNIVERSAL REQUIREMENTS:
 - [ ] **Original commentary** dominates over quoted material
-- [ ] **Educational framing** dla sensitive topics
-- [ ] **Fact-checking** controversial claims  
+- [ ] **Educational framing** for sensitive topics
+- [ ] **Fact-checking** controversial claims
 - [ ] **Age-appropriate** content labeling
-- [ ] **Source attribution** dla research materials
+- [ ] **Source attribution** for research materials
 - [ ] **Disclaimer** about historical context
-- [ ] **No medical advice** bez proper qualifications
+- [ ] **No medical advice** without proper qualifications
 
 ### 📱 PLATFORM-SPECIFIC:
 #### Facebook/Instagram:
@@ -279,39 +279,39 @@
 - [ ] **Educational purpose** clearly stated
 
 #### TikTok:
-- [ ] **1+ minute format** - dla monetization
+- [ ] **1+ minute format** - for monetization
 - [ ] **Original content only** - no duets/stitches
 - [ ] **Educational hashtags** - proper categorization
 
 #### Spotify:
-- [ ] **No copyrighted audio** bez permission
-- [ ] **Fair use excerpts** z commentary dominant  
+- [ ] **No copyrighted audio** without permission
+- [ ] **Fair use excerpts** with commentary dominant
 - [ ] **Music licensing** compliant
 
 #### Kick:
 - [ ] **Community building** approach
 - [ ] **Interactive engagement** encouraged
-- [ ] **Educational context** dla controversial topics
+- [ ] **Educational context** for controversial topics
 
 ---
 
-## Rekomendacje finalne dla creatorów
+## Final Recommendations for Creators
 
-### 🎯 NAJLEPSZA STRATEGIA = EDUKACJA + INSPIRACJA
+### 🎯 BEST STRATEGY = EDUCATION + INSPIRATION
 
-#### ✅ FOCUS NA:
-1. **Carson jako role model** - overcoming obstacles jako kobieta w nauce
-2. **Environmental movement history** - jak jeden książka changed the world  
+#### ✅ FOCUS ON:
+1. **Carson as role model** - overcoming obstacles as woman in science
+2. **Environmental movement history** - how one book changed the world
 3. **Scientific communication skills** - translating complex ideas
 4. **Writing techniques** - literary analysis approach
 5. **Contemporary relevance** - climate change parallels
 
 #### ❌ MINIMIZE:
-1. **Conspiracy theories** - even jako historical curiosities
-2. **Personal life speculation** - focus na professional achievements
-3. **Medical claims** - stick do historical record
-4. **Political partisanship** - environmental protection ma bipartisan history
-5. **Industry bashing** - focus na constructive change
+1. **Conspiracy theories** - even as historical curiosities
+2. **Personal life speculation** - focus on professional achievements
+3. **Medical claims** - stick to historical record
+4. **Political partisanship** - environmental protection has bipartisan history
+5. **Industry bashing** - focus on constructive change
 
 ### 💡 CREATIVE APPROACHES:
 
@@ -324,20 +324,20 @@
 - Research methods Carson used
 - Writing techniques that made it compelling
 - Personal costs of environmental activism
-- Legacy w contemporary environmental movement
+- Legacy in contemporary environmental movement
 
 #### "Women in Science" Angle:
-- Carson w context innych pioneering women scientists  
-- How to overcome gender barriers w technical fields
+- Carson in context of other pioneering women scientists
+- How to overcome gender barriers in technical fields
 - Importance of science communication skills
 
 ---
 
-## Monitoring i adaptacja
+## Monitoring and Adaptation
 
 ### 📊 TRACK THESE METRICS:
 - **Engagement rates** vs controversy level
-- **Comments sentiment** analysis  
+- **Comments sentiment** analysis
 - **Platform warnings/strikes** received
 - **Audience retention** by topic
 - **Cross-platform performance** differences
@@ -350,22 +350,22 @@
 
 ---
 
-## Podsumowanie: Inteligentna strategia dla "Milczącej wiosny"
+## Summary: Intelligent Strategy for "Silent Spring"
 
-"Silent Spring" to książka o średnim profilu ryzyka z dużym potencjałem edukacyjnym. Główne zagrożenia dotyczą teorii spiskowych i kontrowersji politycznych, ale można je skutecznie zminimalizować przez:
+"Silent Spring" is a book with medium risk profile and high educational potential. Main threats involve conspiracy theories and political controversies, but these can be effectively minimized through:
 
-1. **Historical framing** zamiast contemporary controversy
-2. **Educational focus** na scientific method i environmental awareness  
-3. **Inspirational angle** na Carson jako pioneering woman scientist
-4. **Platform-appropriate content adaptation** - od short TikToks do long-form Spotify series
-5. **Age-appropriate messaging** - 13+ dla basics, 16+ dla complex social issues
+1. **Historical framing** instead of contemporary controversy
+2. **Educational focus** on scientific method and environmental awareness
+3. **Inspirational angle** on Carson as pioneering woman scientist
+4. **Platform-appropriate content adaptation** - from short TikToks to long-form Spotify series
+5. **Age-appropriate messaging** - 13+ for basics, 16+ for complex social issues
 
-**KLUCZOWA REKOMENDACJA:** Treat "Silent Spring" as **historical educational content** about environmental science communication, nie jako contemporary political statement. Ta approach minimalizuje platform risks while maximizing educational value.
+**KEY RECOMMENDATION:** Treat "Silent Spring" as **historical educational content** about environmental science communication, not as contemporary political statement. This approach minimizes platform risks while maximizing educational value.
 
-Carson's legacy isn't controversy - it's skuteczna science communication that changed the world. Focus na tym, a platforms będą supportive rather than suspicious.
+Carson's legacy isn't controversy - it's effective science communication that changed the world. Focus on this, and platforms will be supportive rather than suspicious.
 
 ---
 
-*Analiza przeprowadzona przez AI Content Warnings Assessment Agent*  
-*Bazuje na 8 dokumentach researchu specjalistycznego i aktualnych platform policies 2025*  
-*Next review: Po aktualizacji policies którejkolwiek z platform*
+*Analysis conducted by AI Content Warnings Assessment Agent*
+*Based on 8 specialized research documents and current platform policies 2025*
+*Next review: After policy updates from any platform*

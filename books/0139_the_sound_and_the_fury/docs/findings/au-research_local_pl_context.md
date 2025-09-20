@@ -1,195 +1,195 @@
-# Lokalny kontekst kulturowy: "Wściekłość i wrzask" Williama Faulknera w Polsce
+# Local Cultural Context: "The Sound and the Fury" by William Faulkner in Poland
 
-## Wprowadzenie
+## Introduction
 
-William Faulkner's "The Sound and the Fury" (1929), znany w Polsce jako "Wściekłość i wrzask", to jedna z najważniejszych powieści modernistycznych XX wieku. Ten dokument przedstawia kompleksowe badanie lokalnego kontekstu kulturowego tej książki w Polsce, ze szczególnym uwzględnieniem jej recepcji, tłumaczeń i wpływu na polską kulturę literacką.
+William Faulkner's "The Sound and the Fury" (1929), known in Poland as "Wściekłość i wrzask", is one of the most important modernist novels of the 20th century. This document presents a comprehensive study of the local cultural context of this book in Poland, with particular emphasis on its reception, translations, and impact on Polish literary culture.
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze wydanie polskie (1971)
-- **Tłumaczka**: Anna Przedpełska-Trzeciakowska
-- **Wydawnictwo**: Czytelnik
-- **Kontekst historyczny**: Tłumaczenie powstało w okresie PRL, kiedy dostęp do literatury zachodniej był ograniczony
-- **Znaczenie**: Pierwsze polskie wydanie pozwoliło czytelnikom w Polsce poznać jedno z najważniejszych dzieł amerykańskiego modernizmu
+### First Polish Edition (1971)
+- **Translator**: Anna Przedpełska-Trzeciakowska
+- **Publisher**: Czytelnik
+- **Historical Context**: The translation was created during the Polish People's Republic era, when access to Western literature was limited
+- **Significance**: The first Polish edition allowed readers in Poland to discover one of the most important works of American modernism
 
-### Współczesne wydania
-- **2020**: Nowe wydanie W.A.B. (388 stron)
-- **Dostępność**: Książka jest szeroko dostępna w polskich księgarniach online i stacjonarnych
-- **Status**: Oznaczona jako "lektura dla szkół średnich"
+### Contemporary Editions
+- **2020**: New W.A.B. edition (388 pages)
+- **Availability**: The book is widely available in Polish online and physical bookstores
+- **Status**: Marked as "required reading for high schools"
 
-## Anna Przedpełska-Trzeciakowska - pionierka tłumaczeń Faulknera
+## Anna Przedpełska-Trzeciakowska - Pioneer of Faulkner Translations
 
-### Profil tłumaczki
-- **Wiek podczas pracy**: 42 lata w 1970 roku
-- **Doświadczenie**: Znana tłumaczka Jane Austen, Charlesa Dickensa i George Eliot
-- **Specjalizacja**: Literatura anglosaska
+### Translator Profile
+- **Age during work**: 42 years old in 1970
+- **Experience**: Known translator of Jane Austen, Charles Dickens, and George Eliot
+- **Specialization**: Anglo-Saxon literature
 
-### Proces tłumaczenia "Wściekłości i wrzasku"
-1. **Czas pracy**: Ponad dwa lata intensywnej pracy nad przekładem
-2. **Stypendium**: W 1970 roku otrzymała stypendium od Związku Literatów Polskich
-3. **Trudności**: Porównała fragmenty strumienia świadomości do trudności tłumaczenia "Ulissesa"
-4. **Badania**: Przeprowadziła rozległe studia nad twórczością Faulknera
+### Translation Process of "The Sound and the Fury"
+1. **Work Duration**: Over two years of intensive work on the translation
+2. **Scholarship**: In 1970, she received a scholarship from the Polish Writers' Union
+3. **Difficulties**: Compared stream of consciousness fragments to the difficulty of translating "Ulysses"
+4. **Research**: Conducted extensive studies on Faulkner's work
 
-### Historia tytułu "Wściekłość i wrzask"
-- **Miejsce**: Dom twórczości w Oborach, lato 1970
-- **Konsultacja**: Zbigniew Herbert uczestniczył w wyborze tytułu
-- **Proces decyzyjny**: Tłumaczka konsultowała różne polskie przekłady "Makbeta"
-- **Cel**: Zmieścić maksimum emocji w zaledwie dwóch słowach
-- **Uzasadnienie**: Wierność polskim tłumaczeniom Szekspira była drugorzędna wobec oddania gniewu
+### History of the Title "Wściekłość i wrzask"
+- **Location**: Creative house in Obory, summer 1970
+- **Consultation**: Zbigniew Herbert participated in choosing the title
+- **Decision Process**: The translator consulted various Polish translations of "Macbeth"
+- **Goal**: To fit maximum emotion into just two words
+- **Justification**: Fidelity to Polish translations of Shakespeare was secondary to conveying anger
 
-## Wyzwania translatorskie
+## Translation Challenges
 
-### Problemy językowe
-1. **Dialekty amerykańskie**: Transfer języka Afroamerykanów na polski grunt
-2. **Zróżnicowanie społeczne**: Oznaczenie różnych dialektów (włoski imigrant, redneck z Mississippi)
-3. **Strumień świadomości**: Najważniejszy problem techniczny w tłumaczeniu
+### Linguistic Problems
+1. **American Dialects**: Transferring African American language to Polish ground
+2. **Social Differentiation**: Marking different dialects (Italian immigrant, Mississippi redneck)
+3. **Stream of Consciousness**: The most important technical problem in translation
 
-### Współczesne podejścia do tłumaczenia
-- **Jędrzej Polak**: Używał eklektycznej mowy regionalnej, błędów gramatycznych i nietypowej ortografii
-- **Efekt ludowości**: Tworzenie wrażenia "chłopskiej mowy" przez specyficzne słownictwo
-- **Krytyczna ocena**: Współcześnie tłumacze podchodzą z rezerwą do wcześniejszych rozwiązań
+### Contemporary Translation Approaches
+- **Jędrzej Polak**: Used eclectic regional speech, grammatical errors, and atypical spelling
+- **Folk Effect**: Creating the impression of "peasant speech" through specific vocabulary
+- **Critical Assessment**: Contemporary translators approach earlier solutions with reservation
 
-### Akademicka analiza tłumaczenia
-- **Badanie UJ**: "The Polish Faulkner" - analiza komparatystyczna trzech powieści
-- **Wnioski**: Tłumaczenia zachowują styl oryginału, ale są bardziej standardowe językowo
-- **Dialekt vs. narracja**: Dialekt okazał się mniej przekładalny niż skomplikowane metody narracyjne
+### Academic Translation Analysis
+- **UJ Study**: "The Polish Faulkner" - comparative analysis of three novels
+- **Conclusions**: Translations preserve the style of the original but are more linguistically standard
+- **Dialect vs. Narration**: Dialect proved less translatable than complex narrative methods
 
-## Kontekst edukacyjny
+## Educational Context
 
-### Status jako lektury szkolnej
-- **Poziom**: Lektura dla szkół średnich
-- **Trudność**: Wysoki poziom wejścia, wymaga ogromnej koncentracji
-- **Wyzwanie pedagogiczne**: Technika strumienia świadomości utrudnia zrozumienie dla młodych czytelników
+### Status as School Reading
+- **Level**: Required reading for high schools
+- **Difficulty**: High entry level, requires enormous concentration
+- **Pedagogical Challenge**: Stream of consciousness technique makes understanding difficult for young readers
 
-### Charakterystyka dla uczniów
-- **Tematyka**: Stopniowy rozkład arystokratycznej rodziny Compsonów
-- **Style narracyjne**: Cztery różne sposoby opowiadania
-- **Bohaterowie**: Piękna i buntownicza Caddy, niepełnosprawny Benjy, udręczony Quentin
-- **Centrum**: Powieść o braku miłości i rozpadzie rodziny
+### Characteristics for Students
+- **Theme**: Gradual decay of the aristocratic Compson family
+- **Narrative Styles**: Four different ways of storytelling
+- **Characters**: Beautiful and rebellious Caddy, disabled Benjy, tormented Quentin
+- **Center**: A novel about lack of love and family breakdown
 
-## Recepcja filmowa w Polsce
+## Film Reception in Poland
 
-### Adaptacja z 2014 roku
-- **Reżyser**: James Franco
-- **Tytuł polski**: "Wściekłość i wrzask"
-- **Platforma**: Dostępna na Filmweb.pl z recenzjami
+### 2014 Adaptation
+- **Director**: James Franco
+- **Polish Title**: "Wściekłość i wrzask"
+- **Platform**: Available on Filmweb.pl with reviews
 
-### Krytyka polska
-- **Ocena**: Franco nie znajduje u Faulknera nic nowego, jedynie przepisuje
-- **Podejście**: Mechaniczny, szkolny sposób adaptacji
-- **Wyzwanie**: Trudność przełożenia strumienia świadomości na język filmu
-- **Kontekst**: Literatura strumienia świadomości zawdzięcza wiele kinu
+### Polish Criticism
+- **Assessment**: Franco finds nothing new in Faulkner, merely transcribes
+- **Approach**: Mechanical, scholarly way of adaptation
+- **Challenge**: Difficulty translating stream of consciousness into film language
+- **Context**: Stream of consciousness literature owes much to cinema
 
-## Modernizm i strumień świadomości w Polsce
+## Modernism and Stream of Consciousness in Poland
 
-### Teoretyczne fundamenty
-- **Definicja**: Specyficzna forma monologu wewnętrznego
-- **Pionierzy światowi**: James Joyce, Virginia Woolf, William Faulkner, Hermann Broch
-- **Status**: Kluczowa technika modernizmu XX wieku
+### Theoretical Foundations
+- **Definition**: Specific form of internal monologue
+- **World Pioneers**: James Joyce, Virginia Woolf, William Faulkner, Hermann Broch
+- **Status**: Key technique of 20th-century modernism
 
-### Polscy przedstawiciele techniki
-- **Autorzy**: Zofia Nałkowska, Juliusz Kaden-Bandrowski, Tadeusz Breza
-- **Współcześni**: Witold Gombrowicz ("Trans-Atlantyk"), Jerzy Andrzejewski
-- **Charakterystyka**: Swoboda skojarzeń, luźne związki składniowe
+### Polish Representatives of the Technique
+- **Authors**: Zofia Nałkowska, Juliusz Kaden-Bandrowski, Tadeusz Breza
+- **Contemporary**: Witold Gombrowicz ("Trans-Atlantyk"), Jerzy Andrzejewski
+- **Characteristics**: Freedom of associations, loose syntactic connections
 
-### Znaczenie dla polskiej literatury
-- **Wpływ**: Wprowadzenie nowoczesnych technik narracyjnych
-- **Rozwój**: Inspiracja dla polskich pisarzy modernistycznych
-- **Tradycja**: Kontynuacja europejskiej awangardy literackiej
+### Significance for Polish Literature
+- **Influence**: Introduction of modern narrative techniques
+- **Development**: Inspiration for Polish modernist writers
+- **Tradition**: Continuation of European literary avant-garde
 
-## Środowisko czytelnicze i fanowskie
+## Reading and Fan Community
 
-### Główne platformy
-- **Lubimyczytać.pl**: Ponad 3 miliony użytkowników miesięcznie
-- **Status**: "Fenomenalna społeczność czytelnicza" o zasięgu europejskim
-- **Wzrost**: 110,549 nowych członków w 2024 roku
+### Main Platforms
+- **Lubimyczytać.pl**: Over 3 million monthly users
+- **Status**: "Phenomenal reading community" with European reach
+- **Growth**: 110,549 new members in 2024
 
-### Charakterystyka polskiego czytelnictwa Faulknera
-- **Opis**: Autor stawiający "wysokie wymagania czytelnikowi"
-- **Uznanie**: Jeden z najważniejszych pisarzy amerykańskich
-- **Ocena**: Dzieła o wielkiej głębi emocjonalnej i rozwiniętym świecie psychologicznym
+### Characteristics of Polish Faulkner Readership
+- **Description**: Author who places "high demands on the reader"
+- **Recognition**: One of the most important American writers
+- **Assessment**: Works of great emotional depth and developed psychological world
 
-### Polski renesans Faulknera
-- **Nowe tłumaczenia**: Maciej Płaza, Piotr Tarczyński
-- **Cel**: Pomóc polskim czytelnikom poczuć "wyrafinowaną, na przemian niezrozumiałą retorykę"
-- **Uznanie**: "Wielki rewolucjonista współczesnej formy powieściowej"
+### Polish Faulkner Renaissance
+- **New Translations**: Maciej Płaza, Piotr Tarczyński
+- **Goal**: Help Polish readers feel "refined, alternately incomprehensible rhetoric"
+- **Recognition**: "Great revolutionary of contemporary novel form"
 
-## Badania akademickie w Polsce
+## Academic Research in Poland
 
-### Uniwersytet Jagielloński
-- **Dysertacja**: "The Polish Faulkner: A Comparative Analysis"
-- **Zakres**: Analiza trzech powieści w polskich tłumaczeniach
-- **Metodologia**: Badanie dialektu literackiego i stylu narracyjnego
+### Jagiellonian University
+- **Dissertation**: "The Polish Faulkner: A Comparative Analysis"
+- **Scope**: Analysis of three novels in Polish translations
+- **Methodology**: Study of literary dialect and narrative style
 
-### Ośrodki badawcze
-- **Uniwersytet Warszawski**: Zespoły interdyscyplinarne, komparatystyka
-- **SWPS**: Specjaliści od literatury amerykańskiej (prof. Jerzy Sobieraj)
-- **Uniwersytet Śląski**: Szkoła doktorska nauk humanistycznych
+### Research Centers
+- **University of Warsaw**: Interdisciplinary teams, comparative studies
+- **SWPS**: American literature specialists (Prof. Jerzy Sobieraj)
+- **University of Silesia**: Doctoral school of humanities
 
-### Kierunki badań
-- **Literatura amerykańska**: Umiejscowienie Faulknera w kontekście modernizmu
-- **Teoria przekładu**: Analiza strategii tłumaczeniowych
-- **Komparatystyka**: Porównanie z europejskimi modernistami
+### Research Directions
+- **American Literature**: Placing Faulkner in the context of modernism
+- **Translation Theory**: Analysis of translation strategies
+- **Comparative Studies**: Comparison with European modernists
 
-## Kulturowe różnice interpretacyjne
+## Cultural Interpretive Differences
 
-### Specyfika polska
-1. **Historyczny kontekst**: Odczytanie przez pryzmat polskich doświadczeń historycznych
-2. **Tradycja rodzinna**: Rozumienie rozpadu rodziny Compsonów w kontekście polskiej kultury
-3. **Język poetycki**: Adaptacja metaforycznego języka do polskiej tradycji literackiej
+### Polish Specificity
+1. **Historical Context**: Reading through the prism of Polish historical experiences
+2. **Family Tradition**: Understanding the Compson family breakdown in the context of Polish culture
+3. **Poetic Language**: Adaptation of metaphorical language to Polish literary tradition
 
-### Wyzwania kulturowe
-- **Południe USA**: Przekład realiów amerykańskiego Południa na grunt polski
-- **Rasa i klasa**: Interpretacja problemów rasowych w kontekście polskim
-- **Religia**: Protestancki kontekst vs. katolicki polski czytelnik
+### Cultural Challenges
+- **American South**: Translation of American South realities to Polish ground
+- **Race and Class**: Interpretation of racial problems in Polish context
+- **Religion**: Protestant context vs. Catholic Polish reader
 
-## Lokalne nawiązania i easter eggi
+## Local References and Easter Eggs
 
-### Literackie paralele
-1. **Gombrowicz**: Podobne eksperymenty z formą narracyjną
-2. **Schulz**: Strumień świadomości w polskiej literaturze międzywojennej
-3. **Nałkowska**: Psychologizm i analiza rodziny
+### Literary Parallels
+1. **Gombrowicz**: Similar experiments with narrative form
+2. **Schulz**: Stream of consciousness in Polish interwar literature
+3. **Nałkowska**: Psychologism and family analysis
 
-### Krakowskie połączenia
-- **Uniwersytet Jagielloński**: Centrum badań nad Faulknerem
-- **Środowisko literackie**: Tłumacze i krytycy związani z Krakowem
-- **Tradycja akademicka**: Długa historia badań amerykanistycznych
+### Krakow Connections
+- **Jagiellonian University**: Center of Faulkner research
+- **Literary Environment**: Translators and critics associated with Krakow
+- **Academic Tradition**: Long history of American studies
 
-## Podsumowanie - 30 kluczowych faktów
+## Summary - 30 Key Facts
 
-1. **"Wściekłość i wrzask"** to pierwszy polski tytuł powieści, wybrany w 1970 roku z udziałem Zbigniew Herberta
-2. **Anna Przedpełska-Trzeciakowska** pracowała nad tłumaczeniem ponad dwa lata, porównując trudność do "Ulissesa"
-3. **1971 rok** - data pierwszego polskiego wydania przez wydawnictwo Czytelnik
-4. **Lektura szkolna** - książka jest zalecana dla uczniów szkół średnich w Polsce
-5. **Strumień świadomości** to technika także stosowana przez polskich pisarzy: Nałkowską, Andrzejewskiego, Gombrowicza
-6. **Uniwersytet Jagielloński** przeprowadził szczegółową analizę porównawczą polskich tłumaczeń Faulknera
-7. **Problem dialektów** - największe wyzwanie to przekład języka Afroamerykanów na polski
-8. **James Franco** wyreżyserował adaptację filmową dostępną w Polsce w 2014 roku
-9. **Lubimyczytać.pl** - główna polska platforma czytelnicza z 3 milionami użytkowników miesięcznie
-10. **2020 rok** - nowe wydanie W.A.B. z 388 stronami
-11. **Modernizm polski** - Faulkner inspirował polskich pisarzy modernistycznych
-12. **Tłumacz Jędrzej Polak** używał regionalnej mowy i błędów gramatycznych dla oddania dialektów
-13. **Dom twórczości w Oborach** - miejsce, gdzie ustalono polski tytuł książki w 1970 roku
-14. **Wysokie wymagania** - książka uznawana za wymagającą ogromnej koncentracji
-15. **Technika filmowa** - strumień świadomości zawdzięcza wiele rozwojowi kina
-16. **Stypendium ZLP** - Anna Przedpełska-Trzeciakowska otrzymała wsparcie na dokończenie tłumaczenia
-17. **Cztery style narracji** - każda część książki napisana inną techniką
-18. **Polski renesans** - nowe tłumaczenia Maciej Płaza i Piotr Tarczyński
-19. **Rodzina Compsonów** - uniwersalne tematy rozpadu rodziny w polskim kontekście
-20. **Nobel 1949** - Faulkner laureat Nagrody Nobla, co podnosi prestiż w Polsce
-21. **Akademickie badania** - polska amerikanistyka intensywnie bada twórczość Faulknera
-22. **SWPS profesor Sobieraj** - czołowy polski ekspert literatury amerykańskiej
-23. **Księgarnie online** - szeroka dostępność w TaniaKsiazka.pl, Empik, Znak
-24. **Krytyka "mechaniczna"** - polscy krytycy oceniali adaptację Franco jako szkolną
-25. **Komparatystyka literacka** - porównania z Joyce'em, Woolf, Proustem w polskich badaniach
-26. **Tradycja przekładu** - kontynuacja tłumaczenia wielkiej literatury amerykańskiej
-27. **Wyzwania pedagogiczne** - nauczyciele muszą przygotować uczniów na trudność tekstu
-28. **Kultura czytelnicza** - Faulkner symbol wysokiej literatury w Polsce
-29. **Interdyscyplinarność** - badania łączą literaturoznawstwo, kulturoznawstwo, translatorykę
-30. **Krakowskie środowisko** - Uniwersytet Jagielloński jako centrum badań nad amerykańskim modernizmem
+1. **"Wściekłość i wrzask"** is the first Polish title of the novel, chosen in 1970 with Zbigniew Herbert's participation
+2. **Anna Przedpełska-Trzeciakowska** worked on the translation for over two years, comparing the difficulty to "Ulysses"
+3. **1971** - date of the first Polish edition by Czytelnik publishing house
+4. **School reading** - the book is recommended for high school students in Poland
+5. **Stream of consciousness** is a technique also used by Polish writers: Nałkowska, Andrzejewski, Gombrowicz
+6. **Jagiellonian University** conducted a detailed comparative analysis of Polish Faulkner translations
+7. **Dialect problem** - the biggest challenge is translating African American language into Polish
+8. **James Franco** directed a film adaptation available in Poland in 2014
+9. **Lubimyczytać.pl** - main Polish reading platform with 3 million monthly users
+10. **2020** - new W.A.B. edition with 388 pages
+11. **Polish modernism** - Faulkner inspired Polish modernist writers
+12. **Translator Jędrzej Polak** used regional speech and grammatical errors to render dialects
+13. **Creative house in Obory** - place where the Polish title was established in 1970
+14. **High demands** - book considered to require enormous concentration
+15. **Film technique** - stream of consciousness owes much to cinema development
+16. **ZLP scholarship** - Anna Przedpełska-Trzeciakowska received support to complete the translation
+17. **Four narrative styles** - each part of the book written with different technique
+18. **Polish renaissance** - new translations by Maciej Płaza and Piotr Tarczyński
+19. **Compson family** - universal themes of family breakdown in Polish context
+20. **Nobel 1949** - Faulkner Nobel Prize winner, which raises prestige in Poland
+21. **Academic research** - Polish American studies intensively study Faulkner's work
+22. **SWPS Professor Sobieraj** - leading Polish expert on American literature
+23. **Online bookstores** - wide availability at TaniaKsiazka.pl, Empik, Znak
+24. **"Mechanical" criticism** - Polish critics evaluated Franco's adaptation as scholarly
+25. **Literary comparative studies** - comparisons with Joyce, Woolf, Proust in Polish research
+26. **Translation tradition** - continuation of translating great American literature
+27. **Pedagogical challenges** - teachers must prepare students for text difficulty
+28. **Reading culture** - Faulkner symbol of high literature in Poland
+29. **Interdisciplinarity** - research combines literary studies, cultural studies, translation studies
+30. **Krakow environment** - Jagiellonian University as center of American modernism research
 
-## Znaczenie dla polskich słuchaczy
+## Significance for Polish Listeners
 
-"Wściekłość i wrzask" w polskim kontekście kulturowym reprezentuje spotkanie dwóch tradycji literackich - amerykańskiego modernizmu i polskiej kultury czytelniczej. Książka pokazuje, jak uniwersalne tematy rozpadu rodziny, utraty niewinności i poszukiwania tożsamości rezonują z polskimi doświadczeniami historycznymi i społecznymi. Dla młodych polskich czytelników stanowi wyzwanie intelektualne, ale także wprowadzenie do nowoczesnych technik narracyjnych, które wpłynęły na rozwój światowej literatury XX wieku.
+"The Sound and the Fury" in Polish cultural context represents a meeting of two literary traditions - American modernism and Polish reading culture. The book shows how universal themes of family breakdown, loss of innocence, and search for identity resonate with Polish historical and social experiences. For young Polish readers, it constitutes an intellectual challenge, but also an introduction to modern narrative techniques that influenced the development of 20th-century world literature.
 
-Dzieło Faulknera w Polsce to nie tylko przekład, ale także kulturowa adaptacja - pokazuje, jak wielka literatura przekracza granice językowe i kulturowe, znajdując nowych czytelników i interpretacje w różnych kontekstach narodowych.
+Faulkner's work in Poland is not just a translation, but also a cultural adaptation - it shows how great literature transcends linguistic and cultural boundaries, finding new readers and interpretations in different national contexts.

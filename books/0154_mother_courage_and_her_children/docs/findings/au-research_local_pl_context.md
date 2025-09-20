@@ -1,218 +1,218 @@
-# Lokalny kontekst kulturowy: "Matka Courage i jej dzieci" Bertolta Brechta
+# Local Cultural Context: "Mother Courage and Her Children" by Bertolt Brecht
 
-## Wprowadzenie
+## Introduction
 
-"Matka Courage i jej dzieci" (niem. "Mutter Courage und ihre Kinder") Bertolta Brechta z 1939 roku to jeden z najważniejszych dramatów antywojennych w historii teatru. W Polsce utwór ten zyskał szczególne znaczenie, będąc interpretowanym przez pryzmat polskich doświadczeń wojennych i społeczno-politycznych realiów PRL-u.
+"Mother Courage and Her Children" (German: "Mutter Courage und ihre Kinder") by Bertolt Brecht from 1939 is one of the most important anti-war dramas in theater history. In Poland, this work gained special significance, being interpreted through the lens of Polish wartime experiences and the socio-political realities of the People's Republic of Poland.
 
-## Historia publikacji i tłumaczeń w Polsce
+## Publication History and Translations in Poland
 
-### Pierwsze kontakty z twórczością Brechta
-1. **1953** - Bertolt Brecht wraz z berlińskim Berliner Ensemble odbył tournée po Polsce, prezentując trzy spektakle, w tym "Matkę Courage i jej dzieci", co wzbudziło entuzjastyczną reakcję publiczności i ożywione dyskusje w prasie teatralnej.
+### First Contacts with Brecht's Work
+1. **1953** - Bertolt Brecht with the Berlin Berliner Ensemble toured Poland, presenting three plays including "Mother Courage and Her Children," which aroused enthusiastic audience reaction and lively discussions in theater press.
 
-2. **1957** - Pierwsza polska inscenizacja odbyła się w Teatrze Żydowskim im. Ester Rachel Kamińskiej w Warszawie (11 lipca), w reżyserii i z udziałem Idy Kamińskiej, spektakl był grany w języku jidysz.
+2. **1957** - The first Polish staging took place at the Ester Rachel Kamińska Jewish Theater in Warsaw (July 11), directed by and starring Ida Kamińska, performed in Yiddish.
 
-3. **1962** - Pierwsza inscenizacja w języku polskim w Teatrze Narodowym (15 lutego) w przekładzie Stanisława Jerzego Leca, w reżyserii Zbigniewa Sawana, z Ireną Eichlerówną w roli tytułowej.
+3. **1962** - First staging in Polish at the National Theater (February 15) in translation by Stanisław Jerzy Lec, directed by Zbigniew Sawan, with Irena Eichlerówna in the title role.
 
-### Kluczowi polscy tłumacze
-1. **Stanisław Jerzy Lec** - Twórca klasycznego polskiego tłumaczenia, wykorzystywanego w teatrach od lat 60. XX wieku. Jego przekład został opublikowany m.in. przez Wydawnictwo Literackie w Krakowie w 1965 roku.
+### Key Polish Translators
+1. **Stanisław Jerzy Lec** - Creator of the classic Polish translation, used in theaters since the 1960s. His translation was published by Wydawnictwo Literackie in Krakow in 1965.
 
-2. **Jacek Stanisław Buras** - Autor nowszego tłumaczenia, użytego w spektaklu Michała Zadary w Teatrze Narodowym (premiera: 26 listopada 2016).
+2. **Jacek Stanisław Buras** - Author of a newer translation used in Michał Zadara's production at the National Theater (premiere: November 26, 2016).
 
-3. **Ida Kamińska** - Sama przetłumaczyła sztukę na jidysz dla swojej inscenizacji z 1957 roku.
+3. **Ida Kamińska** - Translated the play into Yiddish for her 1957 production.
 
-## Kontekst edukacyjny - szkoła i Matura
+## Educational Context - School and Matriculation Exam
 
-### Pozycja w polskim szkolnictwie
-1. "Matka Courage i jej dzieci" figuruje jako **lektura szkolna** w programie języka polskiego na poziom licealnym.
+### Position in Polish Education
+1. "Mother Courage and Her Children" features as **mandatory school reading** in the high school Polish language curriculum.
 
-2. Utwór jest uwzględniony w materiałach **maturalnych** z języka polskiego, szczególnie w kontekście analizy dramatu epickiego.
+2. The work is included in **matriculation exam** materials for Polish language, particularly in the context of epic drama analysis.
 
-3. Ministerstwo Edukacji udostępnia bezpłatne **e-podręczniki** z analizą utworu, w tym audiobooki edukacyjne pt. "Jak czytać dramaty? Dramat epicki: Bertolt Brecht, Matka Courage i jej dzieci" (części 1 i 2).
+3. The Ministry of Education provides free **e-textbooks** with work analysis, including educational audiobooks titled "How to Read Dramas? Epic Drama: Bertolt Brecht, Mother Courage and Her Children" (parts 1 and 2).
 
-### Problematyka szkolna
-1. **Teatr epicki** - uczniowie poznają teorię Brechtowskiego teatru epickiego i efektu obcości (Verfremdungseffekt).
+### School Themes
+1. **Epic Theater** - Students learn about Brechtian epic theater theory and the alienation effect (Verfremdungseffekt).
 
-2. **Problematyka antyvojenna** - analiza uniwersalnego przesłania antywojenny na tle wojny trzydziestoletniej (1618-1648).
+2. **Anti-war Themes** - Analysis of universal anti-war message against the backdrop of the Thirty Years' War (1618-1648).
 
-3. **Krytyka kapitalizmu** - interpretacja krytyki systemu, w którym wojna staje się źródłem zysku.
+3. **Critique of Capitalism** - Interpretation of critique of a system where war becomes a source of profit.
 
-## Polskie adaptacje teatralne i filmowe
+## Polish Theatrical and Film Adaptations
 
-### Znaczące inscenizacje teatralne
+### Significant Theatrical Productions
 
-#### Inscenizacja Idy Kamińskiej (1957)
-- **Miejsce**: Teatr Żydowski w Warszawie
-- **Znaczenie**: Pierwsza polska inscenizacja, interpretowana przez pryzmat doświadczeń Holokaustu
-- **Obsada**: Ida Kamińska (Matka Courage), Ruth Kamińska (Kattrin), Chewel Buzgan, Marian Melman, Karol Latowicz
-- **Interpretacja**: Jan Kott pisał: "Była żydowską matką czasu zagłady. Była wszystkimi żydowskimi matkami czasu Zagłady"
+#### Ida Kamińska's Production (1957)
+- **Venue**: Jewish Theater in Warsaw
+- **Significance**: First Polish staging, interpreted through Holocaust experiences
+- **Cast**: Ida Kamińska (Mother Courage), Ruth Kamińska (Kattrin), Chewel Buzgan, Marian Melman, Karol Latowicz
+- **Interpretation**: Jan Kott wrote: "She was a Jewish mother during the Holocaust. She was all Jewish mothers during the Holocaust"
 
-#### Inscenizacja Zbigniewa Sawana (1962)
-- **Miejsce**: Teatr Narodowy w Warszawie
-- **Przekład**: Stanisław Jerzy Lec
-- **Znaczenie**: Pierwsza inscenizacja w języku polskim na głównej scenie kraju
-- **Obsada**: Irena Eichlerówna w roli tytułowej
+#### Zbigniew Sawan's Production (1962)
+- **Venue**: National Theater in Warsaw
+- **Translation**: Stanisław Jerzy Lec
+- **Significance**: First staging in Polish on the country's main stage
+- **Cast**: Irena Eichlerówna in the title role
 
-#### Inscenizacja Kazimierza Brauna (1976)
-- **Miejsce**: Teatr Współczesny we Wrocławiu (premiera: 20 października)
-- **Przekład**: Stanisław Jerzy Lec
-- **Kontekst**: Realizowana w okresie późnego PRL-u
+#### Kazimierz Braun's Production (1976)
+- **Venue**: Contemporary Theater in Wrocław (premiere: October 20)
+- **Translation**: Stanisław Jerzy Lec
+- **Context**: Realized during the late People's Republic period
 
-#### Inscenizacja Michała Zadary (2016)
-- **Miejsce**: Teatr Narodowy w Warszawie
-- **Przekład**: Jacek St. Buras
-- **Interpretacja**: Współczesne odczytanie w kontekście kryzysu Unii Europejskiej
-- **Cytat reżysera**: "Historia umieszczona w kontekście upadającej Unii Europejskiej o matce, która chce chronić swoje dzieci przed wojną"
+#### Michał Zadara's Production (2016)
+- **Venue**: National Theater in Warsaw
+- **Translation**: Jacek St. Buras
+- **Interpretation**: Contemporary reading in the context of European Union crisis
+- **Director's Quote**: "A story placed in the context of the collapsing European Union about a mother who wants to protect her children from war"
 
-### Inne znaczące produkcje
-1. **1963** - Teatr Śląski w Katowicach
-2. **1965** - Teatr Współczesny w Szczecinie  
-3. **1967** - Ponownie w Teatrze Żydowskim w Warszawie
-4. **Teatr Telewizji** - Adaptacja telewizyjna
+### Other Significant Productions
+1. **1963** - Silesian Theater in Katowice
+2. **1965** - Contemporary Theater in Szczecin
+3. **1967** - Again at the Jewish Theater in Warsaw
+4. **Television Theater** - Television adaptation
 
-## Lokalne nawiązania i interpretacje
+## Local References and Interpretations
 
-### Perspektywa Holokaustu (1957)
-Inscenizacja Idy Kamińskiej stała się punktem odniesienia dla interpretacji dramatu Brechta przez pryzmat żydowskich doświadczeń wojny:
-- Ida Kamińska kreowała postać żydowskiej matki tracącej dzieci podczas wojny
-- Spektakl wpisywał się w traumę Holokaustu jako zjawisko kształtujące polski teatr powojenny
-- Jan Kott interpretował występ jako "tragedię odgrywaną na tekście Brechta, ale zupełnie inną i znacznie bardziej współczesną"
+### Holocaust Perspective (1957)
+Ida Kamińska's staging became a reference point for interpreting Brecht's drama through Jewish wartime experiences:
+- Ida Kamińska created the character of a Jewish mother losing children during war
+- The performance fit into Holocaust trauma as a phenomenon shaping post-war Polish theater
+- Jan Kott interpreted the performance as "a tragedy performed on Brecht's text, but completely different and much more contemporary"
 
-### Kontekst PRL-owski
-1. **Recepcja marksistowska** - Postać Matki Courage powracała w esejach Jana Kotta, stanowiąc wkład do historii recepcji teatru Brechta w Polsce po 1945 roku.
+### People's Republic Context
+1. **Marxist Reception** - Mother Courage's character recurred in Jan Kott's essays, contributing to the history of Brecht theater reception in Poland after 1945.
 
-2. **Krytyka systemu** - Teatr epicki Brechta pozostawał atrakcyjny dzięki "namiętności atakowania kapitalizmu i imperializmu, których pochodnymi są niesprawiedliwość społeczna, bieda i wojna".
+2. **System Critique** - Brecht's epic theater remained attractive due to "passion for attacking capitalism and imperialism, whose derivatives are social injustice, poverty and war."
 
-3. **Interpretacja cenzuralna** - W realiach PRL-u dramat mógł być interpretowany jako krytyka zachodniego kapitalizmu, co ułatwiało jego wystawianie.
+3. **Censorship Interpretation** - In People's Republic realities, the drama could be interpreted as criticism of Western capitalism, facilitating its staging.
 
-### Współczesne odczytania
-Michał Zadara w inscenizacji z 2016 roku:
-- Umieścił akcję w kontekście współczesnej Europy i kryzysu Unii Europejskiej
-- Zachował historyczny kostium XVII-wieczny, ale dodał współczesne komentarze
-- Podkreślił uniwersalność przesłania antywojenny Brechta
+### Contemporary Readings
+Michał Zadara in his 2016 production:
+- Placed action in the context of contemporary Europe and European Union crisis
+- Maintained historical 17th-century costume but added contemporary commentary
+- Emphasized the universality of Brecht's anti-war message
 
-## Specyfika polska vs. globalna recepcja
+## Polish vs. Global Reception Specifics
 
-### Różnice w interpretacji
+### Differences in Interpretation
 
-#### Perspektywa żydowska (specyfika polska)
-- Inscenizacja Idy Kamińskiej czytana przez pryzmat Holokaustu
-- Matka Courage jako symbol żydowskich matek tracących dzieci w czasie wojny
-- Odejście od Brechtowskiego efektu obcości na rzecz emocjonalnego zaangażowania
+#### Jewish Perspective (Polish Specificity)
+- Ida Kamińska's staging read through Holocaust lens
+- Mother Courage as symbol of Jewish mothers losing children during war
+- Departure from Brechtian alienation effect toward emotional engagement
 
-#### Perspektywa uniwersalna (globalna)
-- Matka Courage jako uniwersalny symbol ofiary wojny
-- Nacisk na Brechtowski efekt obcości i teatr epicki
-- Krytyka systemu kapitalistycznego jako źródła wojen
+#### Universal Perspective (Global)
+- Mother Courage as universal symbol of war victim
+- Emphasis on Brechtian alienation effect and epic theater
+- Critique of capitalist system as source of wars
 
-### Polski kontekst historyczny
-1. **Wojna trzydziestoletnia** - Polscy odbiorcy mogli łączyć ją z własnymi doświadczeniami wojen (potop szwedzki, wojny z XVII wieku).
+### Polish Historical Context
+1. **Thirty Years' War** - Polish audiences could connect it with their own war experiences (Swedish Deluge, 17th-century wars).
 
-2. **II wojna światowa** - Najbardziej oczywiste skojarzenie dla polskiej publiczności powojennej.
+2. **World War II** - Most obvious association for post-war Polish audiences.
 
-3. **Doświadczenie PRL-u** - Interpretacja w kontekście życia w systemie socjalistycznym.
+3. **People's Republic Experience** - Interpretation in the context of life in the socialist system.
 
-## Polscy badacze i interpretacje akademickie
+## Polish Researchers and Academic Interpretations
 
-### Kluczowi krytycy i badacze
+### Key Critics and Researchers
 
 #### Jan Kott (1914-2001)
-- Najważniejszy polski krytyk interpretujący "Matkę Courage"
-- Autor esejów o recepcji Brechta w Polsce
-- Interpretował spektakl Idy Kamińskiej jako odejście od ortodoksyjnego brechtyzmu
-- Cytat: "Ida Kamińska grała wielką tragedię. Ale to nie była tragedia marki towarzyczącej wojsku z wojny trzydziestoletniej"
+- Most important Polish critic interpreting "Mother Courage"
+- Author of essays on Brecht reception in Poland
+- Interpreted Ida Kamińska's performance as departure from orthodox Brechtianism
+- Quote: "Ida Kamińska played great tragedy. But it wasn't the tragedy of a camp follower from the Thirty Years' War"
 
 #### Stefan Treugutt
-- Krytyk teatralny interpretujący spektakl przez pryzmat żydowskiego losu w czasie II wojny światowej
-- Współtwórca polskiej recepcji dramatu w kontekście Holokaustu
+- Theater critic interpreting the performance through Jewish fate during WWII
+- Co-creator of Polish reception of drama in Holocaust context
 
 #### Eleonora Udalska
-- Autorka analizy opublikowanej przez Państwowe Zakłady Wydawnictw Szkolnych (1973)
-- Analiza edukacyjna dla potrzeb szkolnictwa polskiego
+- Author of analysis published by State Educational Publishing House (1973)
+- Educational analysis for Polish education needs
 
-### Teoretycy teatru
-1. **Tadeusz Łomnicki** - O teatrze Brechta: "Ten teatr antypsychologiczny, w którym prawda charakterów zamieniona na prawdę działań stworzyła fascynującą wyobraźnię epickość, zawsze mnie elektryzował"
+### Theater Theorists
+1. **Tadeusz Łomnicki** - On Brecht's theater: "This anti-psychological theater, where character truth replaced action truth created fascinating epic imagination, always electrified me"
 
-2. **Lena Szurmiej** - Reżyser spektaklu "Niebo zawiedzionych" (1984), uznawany za początek renesansu Brechta w Polsce.
+2. **Lena Szurmiej** - Director of "Sky of the Disappointed" (1984), considered the beginning of Brecht's renaissance in Poland.
 
-## Fan community i współczesna recepcja
+## Fan Community and Contemporary Reception
 
-### Środowisko teatralne
-1. **Aktorzy i reżyserzy** - "Matka Courage" pozostaje jedną z najczęściej wystawianych sztuk Brechta w polskich teatrach.
+### Theater Environment
+1. **Actors and Directors** - "Mother Courage" remains one of Brecht's most frequently staged plays in Polish theaters.
 
-2. **Studenci teatrologii** - Utwór jest obowiązkową lekturą na kierunkach teatrologicznych.
+2. **Theater Students** - The work is mandatory reading in theater studies programs.
 
-3. **Krytycy teatralni** - Regularne powroty do interpretacji różnych inscenizacji.
+3. **Theater Critics** - Regular returns to interpreting various productions.
 
-### Odbiór młodszego pokolenia
-1. **TikTok i media społecznościowe** - Fragmenty spektakli, szczególnie pieśni Brechta, zyskują popularność w mediach społecznościowych.
+### Younger Generation Reception
+1. **TikTok and Social Media** - Performance fragments, especially Brecht's songs, gain popularity on social media.
 
-2. **Memy teatralne** - "Matka Courage" jako źródło memów o "matce, która wszystko przeżyje".
+2. **Theater Memes** - "Mother Courage" as source of memes about "mother who survives everything."
 
-3. **Interpretacje feministyczne** - Młodsze pokolenie czyta postać przez pryzmat współczesnych dyskusji o kobietach w czasach wojny.
+3. **Feminist Interpretations** - Younger generation reads the character through contemporary discussions about women in wartime.
 
-## Problemy z tłumaczeniem i różnice kulturowe
+## Translation Problems and Cultural Differences
 
-### Wyzwania translatorskie
+### Translation Challenges
 
-#### Pieśni Brechta
-- **Problem rytmu** - Polscy tłumacze musieli zachować rytm niemieckich songów przy zachowaniu sensu
-- **Przekład z 1962** - Songi przetłumaczyły Joanna Walterówna i Krystyna Wolińska
-- **Rym vs. sens** - Klasyczny dylemat tłumaczenia poezji teatralnej
+#### Brecht's Songs
+- **Rhythm Problem** - Polish translators had to maintain German song rhythm while preserving meaning
+- **1962 Translation** - Songs translated by Joanna Walterówna and Krystyna Wolińska
+- **Rhyme vs. Meaning** - Classic dilemma of theatrical poetry translation
 
-#### Dialekty i sociolekty
-- **Język żołnierzy** - Przekład mowy żołnierskiej z XVII wieku na polski
-- **Język handlarzy** - Specjalistyczna terminologia handlowa z epoki
+#### Dialects and Sociolects
+- **Soldiers' Language** - Translation of 17th-century military speech into Polish
+- **Merchants' Language** - Specialized trade terminology from the era
 
-#### Tytuł i imiona
-- **"Mutter Courage"** vs. **"Matka Courage"** - Zachowanie niemieckiej formy imienia w polskim tytule
-- **Anna Fierling** - Pozostawienie niemieckiej formy imienia i nazwiska głównej bohaterki
+#### Title and Names
+- **"Mutter Courage"** vs. **"Matka Courage"** - Maintaining German name form in Polish title
+- **Anna Fierling** - Keeping German form of protagonist's first and last name
 
-### Różnice kulturowe w odbiorze
+### Cultural Differences in Reception
 
-#### Postrzeganie wojny
-- **Niemiecka perspektywa** - Wojna jako abstrakcyjny mechanizm społeczno-ekonomiczny
-- **Polska perspektywa** - Wojna jako konkretne, traumatyczne doświadczenie historyczne
+#### War Perception
+- **German Perspective** - War as abstract socio-economic mechanism
+- **Polish Perspective** - War as concrete, traumatic historical experience
 
-#### Rola kobiety
-- **Niemiecki kontekst** - Kobieta jako aktywny uczestnik ekonomii wojennej
-- **Polski kontekst** - Kobieta jako ofiara i obrończyni rodziny
+#### Women's Role
+- **German Context** - Woman as active participant in war economy
+- **Polish Context** - Woman as victim and family defender
 
-#### Religia
-- **Protestancki kontekst** - Wojna trzydziestoletnia jako konflikt religijny
-- **Katolicki kontekst** - Polski odbiorca czyta przez pryzmat katolickiego światopoglądu
+#### Religion
+- **Protestant Context** - Thirty Years' War as religious conflict
+- **Catholic Context** - Polish audience reads through Catholic worldview lens
 
-## Wpływ na polską kulturę popularną
+## Impact on Polish Popular Culture
 
-### Cytaty i nawiązania
-1. **"Wojna nas żywi"** - Popularne polskie powiedzenie pochodzące z dramatu
-2. **"Matka Courage"** - Określenie używane na wytrwałe kobiety w trudnych sytuacjach
-3. **Motyw matki traciącej dzieci** - Topos obecny w polskiej literaturze i filmie
+### Quotes and References
+1. **"War feeds us"** - Popular Polish saying originating from the drama
+2. **"Mother Courage"** - Term used for resilient women in difficult situations
+3. **Mother losing children motif** - Topos present in Polish literature and film
 
-### Adaptacje i parafrazy
-1. **Literatura** - Nawiązania w polskiej prozie współczesnej
-2. **Film** - Motywy "Matki Courage" w polskim kinie wojennym
-3. **Muzyka** - Pieśni Brechta w interpretacjach polskich wykonawców
+### Adaptations and Paraphrases
+1. **Literature** - References in contemporary Polish prose
+2. **Film** - "Mother Courage" motifs in Polish war cinema
+3. **Music** - Brecht's songs in Polish performers' interpretations
 
-## Regionalne perspektywy - Kraków i Małopolska
+## Regional Perspectives - Krakow and Lesser Poland
 
-### Kraków jako centrum recepcji
-1. **Wydawnictwo Literackie** - Publikacja przekładu Stanisława Jerzego Leca (1965)
-2. **Uniwersytet Jagielloński** - Badania nad teatrem Brechta w Instytucie Filologii Germańskiej
-3. **Krakowskie teatry** - Inscenizacje w teatrach krakowskich
+### Krakow as Reception Center
+1. **Wydawnictwo Literackie** - Publication of Stanisław Jerzy Lec's translation (1965)
+2. **Jagiellonian University** - Brecht theater research at the Germanic Philology Institute
+3. **Krakow Theaters** - Productions in Krakow theaters
 
-### Małopolska tradycja teatralna
-1. **Teatr Ludowy** - Nawiązania do tradycji teatru ludowego w interpretacji dramatu
-2. **Tradycja maryjogórska** - Specyficzne odczytanie motywu matki w kontekście polskiej religijności
-3. **Doświadczenie wojenne** - Szczególnie traumatyczne doświadczenia Małopolski w czasie II wojny światowej
+### Lesser Poland Theatrical Tradition
+1. **Folk Theater** - References to folk theater tradition in drama interpretation
+2. **Marian Tradition** - Specific reading of mother motif in Polish religiosity context
+3. **War Experience** - Particularly traumatic Lesser Poland experiences during WWII
 
-## Podsumowanie: Lokalna tożsamość utworu
+## Summary: Local Identity of the Work
 
-"Matka Courage i jej dzieci" Bertolta Brechta zyskała w Polsce unikalną interpretację, różniącą się od recepcji globalnej. Kluczowe elementy polskiej specyfiki to:
+"Mother Courage and Her Children" by Bertolt Brecht gained a unique interpretation in Poland, differing from global reception. Key elements of Polish specificity include:
 
-1. **Perspektywa holokaustu** - Inscenizacja Idy Kamińskiej jako moment przełomowy
-2. **Kontekst PRL-owski** - Interpretacja w realiach socjalistycznych  
-3. **Trauma wojenna** - Odczytanie przez pryzmat polskich doświadczeń wojennych
-4. **Tradycja teatralna** - Wpisanie w polską tradycję teatru zaangażowanego społecznie
-5. **Edukacyjny kontekst** - Pozycja jako lektura szkolna kształtująca świadomość młodzieży
+1. **Holocaust Perspective** - Ida Kamińska's staging as breakthrough moment
+2. **People's Republic Context** - Interpretation in socialist realities
+3. **War Trauma** - Reading through Polish wartime experiences lens
+4. **Theatrical Tradition** - Integration into Polish socially engaged theater tradition
+5. **Educational Context** - Position as school reading shaping youth consciousness
 
-Utwór pozostaje żywy w polskiej kulturze, ciągle reinterpretowany przez kolejne pokolenia artystów i odbiorców, zachowując swoje uniwersalne przesłanie antyvojenne przy jednoczesnym lokalnym zakorzenieniu w polskich doświadczeniach historycznych i kulturowych.
+The work remains alive in Polish culture, constantly reinterpreted by successive generations of artists and audiences, maintaining its universal anti-war message while simultaneously being locally rooted in Polish historical and cultural experiences.

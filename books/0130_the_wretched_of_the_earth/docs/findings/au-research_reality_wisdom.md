@@ -1,193 +1,193 @@
-# Frantz Fanon "Wyklęty lud ziemi" (1961): Trafność przewidywań i uniwersalne lekcje dla współczesnych
+# Frantz Fanon "The Wretched of the Earth" (1961): Prediction Accuracy and Universal Lessons for Contemporary Readers
 
-## Wprowadzenie
+## Introduction
 
-"Wyklęty lud ziemi" Frantza Fanona, opublikowana w 1961 roku, to jedna z najprorokezych książek XX wieku. Psychiatra i rewolucjonista z Martyniki, który zmarł zaledwie rok po publikacji, stworzył dzieło które z niesamowitą dokładnością przewidziało rozwój procesów dekolonizacyjnych i ich konsekwencje. 63 lata później, jego analizy pozostają szokująco aktualne.
+"The Wretched of the Earth" by Frantz Fanon, published in 1961, is one of the most prophetic books of the 20th century. The psychiatrist and revolutionary from Martinique, who died just one year after publication, created a work that predicted the development of decolonization processes and their consequences with incredible accuracy. 63 years later, his analyses remain shockingly relevant.
 
-## Część I: CO SIĘ SPRAWDZIŁO - Genialność przewidywań Fanona
+## Part I: WHAT CAME TRUE - The Genius of Fanon's Predictions
 
-### 1. Neocolonialism - Perfecta Prophecia
+### 1. Neocolonialism - Perfect Prophecy
 
-**Przewidywanie Fanona (1961):**
-> Burżuazja narodowa stanie się "linią transmisyjną między narodem a kapitalizmem, który dziś przybiera maskę neokolonializmu"
+**Fanon's Prediction (1961):**
+> The national bourgeoisie will become a "transmission line between the nation and capitalism, which today wears the mask of neocolonialism"
 
-**Współczesna rzeczywistość (2024):**
-- **Afryka**: Raport Oxfam 2024 potwierdza, że korporacje międzynarodowe utrzymują "kolonialny model ekstraktywny" z gospodarkami "uwięzionymi w eksporcie surowców"
-- **Ameryka Łacińska**: 88% meksykańskiego box office to filmy amerykańskie (2017), demonstrując kulturowy wymiar neokolonializmu  
-- **Azja**: Chińskie inwestycje w Afryce potwierdzają Fanona - "firmy istnieją głównie dla korzyści gospodarek macierzystych, nie lokalnego rozwoju"
+**Contemporary Reality (2024):**
+- **Africa**: Oxfam 2024 report confirms that international corporations maintain a "colonial extractive model" with economies "trapped in raw material exports"
+- **Latin America**: 88% of Mexican box office consists of American films (2017), demonstrating the cultural dimension of neocolonialism
+- **Asia**: Chinese investments in Africa confirm Fanon - "companies exist mainly for the benefit of home economies, not local development"
 
-**Verdict**: ✅ SPRAWDZIŁ SIĘ W 95%
+**Verdict**: ✅ CAME TRUE 95%
 
-### 2. Kompradorska burżuazja - Dead on Target
+### 2. Comprador Bourgeoisie - Dead on Target
 
-**Przewidywanie Fanona:**
-Lokalne elity będą współpracować z byłymi kolonizatorami, nie będąc zobowiązanymi do narodowych interesów
+**Fanon's Prediction:**
+Local elites will collaborate with former colonizers, not being committed to national interests
 
-**Współczesna rzeczywistość:**
-- Strukturalne programy dostosowawcze MFW wymagające prywatyzacji i otwarcia na zagraniczny kapitał
-- Zachodni neokołonialiści współpracują z lokalną burżuazją dla perpetuowania wyzysku
-- Większość lokalnych kolaborantów nie jest zobowiązana do interesu narodowego
+**Contemporary Reality:**
+- IMF structural adjustment programs requiring privatization and opening to foreign capital
+- Western neocolonialists collaborate with local bourgeoisie to perpetuate exploitation
+- Most local collaborators are not committed to national interest
 
-**Verdict**: ✅ SPRAWDZIŁ SIĘ W 90%
+**Verdict**: ✅ CAME TRUE 90%
 
-### 3. Pułapki świadomości narodowej - Spot On
+### 3. Traps of National Consciousness - Spot On
 
-**Przewidywanie Fanona:**
-> "Od nacjonalizmu przeszliśmy do ultranacjonalizmu, do szowinizmu, a wreszcie do rasizmu"
+**Fanon's Prediction:**
+> "From nationalism we have passed to ultra-nationalism, to chauvinism, and finally to racism"
 
-**Współczesna rzeczywistość:**
-- **Ruanda 1994**: Ludobójstwo Tutsi przez Hutu - dokładnie jak przewidział Fanon
-- **Współczesna Europa**: Wzrost populizmu i ksenofobii
-- **USA**: Identity politics i polaryzacja rasowa
-- **Brexit**: Nacjonalizm prowadzący do izolacji gospodarczej
+**Contemporary Reality:**
+- **Rwanda 1994**: Tutsi genocide by Hutus - exactly as Fanon predicted
+- **Contemporary Europe**: Rise of populism and xenophobia
+- **USA**: Identity politics and racial polarization
+- **Brexit**: Nationalism leading to economic isolation
 
-**Verdict**: ✅ SPRAWDZIŁ SIĘ W 85%
+**Verdict**: ✅ CAME TRUE 85%
 
-### 4. Psychologiczne skutki kolonializmu - Ahead of His Time
+### 4. Psychological Effects of Colonialism - Ahead of His Time
 
-**Przewidywanie Fanona (jako psychiatra):**
-Doświadczenie dyskryminacji rasowej w środowisku kolonialnym może prowokować choroby psychiczne
+**Fanon's Prediction (as a psychiatrist):**
+Experience of racial discrimination in colonial environment can provoke mental illness
 
-**Współczesna nauka (2024):**
-- Badania PTSD potwierdzają związek między opresją systemową a traumą psychiczną
-- Catherine Malabou łączy teorię traumy kolonialnej Fanona z współczesną diagnostyką PTSD
-- "Rasizm systemowy wpływa na życie pacjentów" - współczesna psychiatria potwierdza Fanona
-- Badania nad "rasowym traumą" w społecznościach afroamerykańskich
+**Contemporary Science (2024):**
+- PTSD research confirms the link between systemic oppression and psychological trauma
+- Catherine Malabou connects Fanon's colonial trauma theory with contemporary PTSD diagnosis
+- "Systemic racism affects patients' lives" - contemporary psychiatry confirms Fanon
+- Research on "racial trauma" in African American communities
 
-**Verdict**: ✅ SPRAWDZIŁ SIĘ W 100% - Fanon wyprzedził naukę o 50 lat
+**Verdict**: ✅ CAME TRUE 100% - Fanon was 50 years ahead of science
 
-### 5. Przemoc rewolucyjna i ruchy oporu - Prescient Analysis
+### 5. Revolutionary Violence and Resistance Movements - Prescient Analysis
 
-**Przewidywanie Fanona:**
-Przemoc kolonialnych systemów wymusza przemoc rewolucyjną jako odpowiedź
+**Fanon's Prediction:**
+Violence of colonial systems forces revolutionary violence as a response
 
-**Współczesne potwierdzenia:**
-- **Arabska Wiosna (2011)**: "Idee Fanona okazały się tak trafne jak zawsze" - badacze łączą jego teorię z wydarzeniami 2011
-- **Black Lives Matter**: "Ruch BLM przekształcił codzienną przemoc przeciw Czarnym Amerykanom w potężny ruch oporu"
-- **Globalne protesty**: Od Chile po Hongkong - wzorce opisane przez Fanona
+**Contemporary Confirmations:**
+- **Arab Spring (2011)**: "Fanon's ideas proved as relevant as ever" - researchers connect his theory with 2011 events
+- **Black Lives Matter**: "BLM movement transformed daily violence against Black Americans into a powerful resistance movement"
+- **Global Protests**: From Chile to Hong Kong - patterns described by Fanon
 
-**Verdict**: ✅ SPRAWDZIŁ SIĘ W 80%
+**Verdict**: ✅ CAME TRUE 80%
 
-## Część II: CO SIĘ NIE SPRAWDZIŁO - Błędne założenia
+## Part II: WHAT DIDN'T COME TRUE - Incorrect Assumptions
 
-### 1. Rola intelektualistów - Partial Miss
+### 1. Role of Intellectuals - Partial Miss
 
-**Przewidywanie Fanona:**
-Klasy wykształcone będą główną przeszkodą w dekolonizacji
+**Fanon's Prediction:**
+Educated classes will be the main obstacle in decolonization
 
-**Współczesna rzeczywistość:**
-- Wielu intelektualistów stało się liderami ruchów społecznych
-- Paulo Freire przepisał "Pedagogię uciśnionych" pod wpływem Fanona
-- Akademicy często prowadzą badania dekolonizacyjne
+**Contemporary Reality:**
+- Many intellectuals became leaders of social movements
+- Paulo Freire rewrote "Pedagogy of the Oppressed" influenced by Fanon
+- Academics often lead decolonization research
 
-**Verdict**: ❌ SPRAWDZIŁ SIĘ W 40% - Fanon nie docenił potencjału edukacji
+**Verdict**: ❌ CAME TRUE 40% - Fanon underestimated education's potential
 
-### 2. Jedność klasowa - Oversimplified
+### 2. Class Unity - Oversimplified
 
-**Przewidywanie Fanona:**
-Klasa robotnicza będzie jednolitą siłą rewolucyjną
+**Fanon's Prediction:**
+Working class will be a unified revolutionary force
 
-**Współczesna rzeczywistość:**
-- Intersectional identity politics pokazują złożoność tożsamości
-- Rasa, płeć, orientacja seksualna tworzą różne doświadczenia opresji
-- "Identity politics" vs "redukcjonizm klasowy" - debata której Fanon nie przewidział
+**Contemporary Reality:**
+- Intersectional identity politics show complexity of identity
+- Race, gender, sexual orientation create different experiences of oppression
+- "Identity politics" vs "class reductionism" - debate Fanon didn't foresee
 
-**Verdict**: ❌ SPRAWDZIŁ SIĘ W 35%
+**Verdict**: ❌ CAME TRUE 35%
 
-### 3. Rola kobiet - Major Blindspot
+### 3. Role of Women - Major Blindspot
 
-**Przewidywanie Fanona:**
-Skupienie głównie na męskim doświadczeniu kolonializmu
+**Fanon's Prediction:**
+Focus mainly on male experience of colonialism
 
-**Współczesna krytyka:**
-- Brak analizy specyficznych doświadczeń kobiet pod kolonializmem
-- Współczesne ruchy feministyczne w krajach postkolonialnych pokazują inne wzorce
-- Intersectional feminism wypełnia luki w analizie Fanona
+**Contemporary Critique:**
+- Lack of analysis of women's specific experiences under colonialism
+- Contemporary feminist movements in postcolonial countries show different patterns
+- Intersectional feminism fills gaps in Fanon's analysis
 
-**Verdict**: ❌ SPRAWDZIŁ SIĘ W 25% - Główna słabość teorii
+**Verdict**: ❌ CAME TRUE 25% - Major weakness of the theory
 
-## Część III: UNIWERSALNE PRAWDY - Co nie zmienia się przez dekady
+## Part III: UNIVERSAL TRUTHS - What Doesn't Change Through Decades
 
-### 1. Natura systemowej opresji
-**Fanon 1961**: "Kolonializm to przemoc w swoim naturalnym stanie"
-**Uniwersalna prawda**: Systemy opresji używają przemocy jako fundamentu kontroli
-**Współczesne przykłady**: Police brutality, autorytarne reżimy, dyskryminacja systemowa
+### 1. Nature of Systemic Oppression
+**Fanon 1961**: "Colonialism is violence in its natural state"
+**Universal Truth**: Systems of oppression use violence as the foundation of control
+**Contemporary Examples**: Police brutality, authoritarian regimes, systemic discrimination
 
-### 2. Internalizacja opresji
-**Fanon 1961**: Uciskani internalizują kompleks niższości
-**Uniwersalna prawda**: Victims often blame themselves for systemic failures
-**Współczesne przykłady**: Victim-blaming, impostor syndrome, self-sabotage
+### 2. Internalization of Oppression
+**Fanon 1961**: The oppressed internalize an inferiority complex
+**Universal Truth**: Victims often blame themselves for systemic failures
+**Contemporary Examples**: Victim-blaming, impostor syndrome, self-sabotage
 
-### 3. Potrzeba świadomej transformacji
-**Fanon 1961**: "Musimy rozwijać ich mózgi, wypełniać ideami, zmieniać ich"
-**Uniwersalna prawda**: Lasting change requires consciousness transformation
-**Współczesne przykłady**: Critical pedagogy, consciousness-raising, media literacy
+### 3. Need for Conscious Transformation
+**Fanon 1961**: "We must develop their brains, fill them with ideas, change them"
+**Universal Truth**: Lasting change requires consciousness transformation
+**Contemporary Examples**: Critical pedagogy, consciousness-raising, media literacy
 
-### 4. Pułapki powierzchownej zmiany
-**Fanon 1961**: Rewolucje mogą zdradzić tych, którzy je stworzyli
-**Uniwersalna prawda**: Superficial reforms often preserve underlying systems
-**Współczesne przykłady**: Corporate diversity programs, greenwashing, performative activism
+### 4. Traps of Superficial Change
+**Fanon 1961**: Revolutions can betray those who created them
+**Universal Truth**: Superficial reforms often preserve underlying systems
+**Contemporary Examples**: Corporate diversity programs, greenwashing, performative activism
 
-## Część IV: PRAKTYCZNE LEKCJE DLA MŁODZIEŻY 2024
+## Part IV: PRACTICAL LESSONS FOR YOUTH 2024
 
-### Lekcje z kategorii "Relationship Red Flags" 🚩
+### Lessons from "Relationship Red Flags" Category 🚩
 
 #### 1. Toxic Leadership Patterns
-**Fanon's Insight**: "Przywileje się mnożą, a korupcja triumfuje"
-**Modern Application**: Rozpoznawaj liderów którzy:
-- Obiecują szybkie rozwiązania systemowych problemów
-- Koncentrują się na własnych korzyściach
-- Używają populistycznej retoryki bez konkretnych planów
+**Fanon's Insight**: "Privileges multiply, and corruption triumphs"
+**Modern Application**: Recognize leaders who:
+- Promise quick solutions to systemic problems
+- Focus on their own benefits
+- Use populist rhetoric without concrete plans
 - **Red Flag**: Politicians who blame all problems on "outsiders"
 
 #### 2. False Consciousness in Relationships
-**Fanon's Insight**: Uciskani internalizują poglądy uciskających
+**Fanon's Insight**: The oppressed internalize the views of their oppressors
 **Modern Dating Wisdom**:
-- Partner który sprawia, że czujesz się "niewystarczająco dobry/a"
-- Związki gdzie musisz "udawać kogoś innego"
+- Partner who makes you feel "not good enough"
+- Relationships where you must "pretend to be someone else"
 - **Red Flag**: Anyone who makes you feel ashamed of your culture/background
 
 #### 3. Neocolonial Romance Patterns
-**Fanon's Insight**: Dominacja przez pozorną "pomoc"
+**Fanon's Insight**: Domination through apparent "help"
 **Modern Application**:
-- Partner który "ratuje" cię ale kontroluje decyzje
+- Partner who "saves" you but controls decisions
 - Love-bombing followed by emotional manipulation
 - **Red Flag**: "I'm teaching you how to be better" mentality
 
-### Lekcje z kategorii "Life Hacks for Gen Z" 🎯
+### Lessons from "Life Hacks for Gen Z" Category 🎯
 
 #### 1. Consciousness Check Framework
-**Fanon's Method**: "Ludzie muszą wiedzieć dokąd idą i dlaczego"
+**Fanon's Method**: "People must know where they're going and why"
 **Gen Z Application**:
 - Before joining any movement: What's the end goal?
 - Before sharing content: Who benefits from this narrative?
 - Before making major decisions: Am I acting from consciousness or conditioning?
 
 #### 2. The Authenticity Test
-**Fanon's Warning**: "Puste formy bez treści"
+**Fanon's Warning**: "Empty forms without content"
 **Modern Hack**:
 - Does this activism create real change or just social media clout?
 - Is this "self-improvement" solving problems or avoiding them?
 - **Apply to**: Career choices, activism, relationships, social media presence
 
 #### 3. Revolutionary Patience
-**Fanon's Insight**: "Transformacja mentalna i fizyczna musi trwać po wyrzuceniu kolonizatorów"
+**Fanon's Insight**: "Mental and physical transformation must continue after throwing out the colonizers"
 **Gen Z Translation**:
 - Real change takes time - beware of instant gratification promises
 - Work on internal transformation while fighting external battles
 - **Key Skill**: Distinguishing between urgent and important
 
-### Lekcje z kategorii "Universal Human Wisdom" 💎
+### Lessons from "Universal Human Wisdom" Category 💎
 
 #### 1. The Dehumanization Detection System
-**Fanon's Core Insight**: Systemy opresji działają poprzez dehumanizację
+**Fanon's Core Insight**: Systems of oppression work through dehumanization
 **Universal Application**:
 - Any system that treats people as statistics
 - Rhetoric that reduces complex humans to single characteristics
 - **Watch for**: Language that makes certain groups seem "less than"
 
 #### 2. The False Binary Trap
-**Fanon's Analysis**: "Świat kolonialny to świat podzielony na dwie części"
+**Fanon's Analysis**: "The colonial world is a world divided into two parts"
 **Modern Wisdom**:
 - Beware of "us vs them" thinking in politics, relationships, social media
 - Most complex problems require nuanced solutions
@@ -200,127 +200,127 @@ Skupienie głównie na męskim doświadczeniu kolonializmu
 - Real allies amplify your voice, not speak for you
 - **Apply to**: Mentors, partners, politicians, movements
 
-## Część V: EVOLUTION OF THINKING - Jak zmieniło się myślenie
+## Part V: EVOLUTION OF THINKING - How Thinking Has Changed
 
 ### 1. From Class to Intersectionality
 
-**1961 Fanon**: Klasa jako główna kategoria analizy
-**2024 Reality**: Intersectional analysis race + class + gender + sexuality
-**Evolution**: Bardziej złożone, ale czasem fragmentaryczne
+**1961 Fanon**: Class as the main category of analysis
+**2024 Reality**: Intersectional analysis of race + class + gender + sexuality
+**Evolution**: More complex, but sometimes fragmentary
 
 ### 2. From Violence to Strategic Nonviolence
 
-**1961 Fanon**: Przemoc jako konieczna odpowiedź na kolonialną przemoc
+**1961 Fanon**: Violence as necessary response to colonial violence
 **2024 Reality**: Gene Sharp, strategic nonviolence, color revolutions
-**Evolution**: Więcej narzędzi oporu, ale czasem kooptowanych przez establishment
+**Evolution**: More tools of resistance, but sometimes co-opted by establishment
 
 ### 3. From National Liberation to Global Justice
 
-**1961 Fanon**: Fokus na wyzwolenie narodowe
+**1961 Fanon**: Focus on national liberation
 **2024 Reality**: Climate justice, global solidarity, transnational movements
-**Evolution**: Bardziej globalny, ale czasem mniej zakorzeniony lokalnie
+**Evolution**: More global, but sometimes less locally rooted
 
 ### 4. From Masculine Revolution to Inclusive Liberation
 
-**1961 Fanon**: Męsko-centryczne wizje rewolucji
-**2024 Reality**: Feminist leadership w ruchach, queer liberation
-**Evolution**: Bardziej inclusive, ale czasem rozproszone
+**1961 Fanon**: Male-centric visions of revolution
+**2024 Reality**: Feminist leadership in movements, queer liberation
+**Evolution**: More inclusive, but sometimes dispersed
 
-## Część VI: SOCIAL NORMS EVOLUTION - Co się zmieniło vs co zostało
+## Part VI: SOCIAL NORMS EVOLUTION - What Changed vs What Remained
 
-### Co się zmieniło radykalnie:
+### What Changed Radically:
 
 #### 1. Gender Roles and Expectations
-**1961**: Sztywne role płciowe, męska dominacja w polityce
+**1961**: Rigid gender roles, male dominance in politics
 **2024**: Gender fluidity, women leaders, #MeToo movement
-**Fanon's Blindspot**: Nie przewidział siły ruchów kobiecych
+**Fanon's Blindspot**: Didn't foresee the strength of women's movements
 
 #### 2. Technology and Consciousness
-**1961**: Mass media kontrolowane przez elity
+**1961**: Mass media controlled by elites
 **2024**: Social media, decentralized information, viral movements
-**Fanon Would Be Amazed**: TikTok jako narzędzie consciousness-raising
+**Fanon Would Be Amazed**: TikTok as a consciousness-raising tool
 
 #### 3. Environmental Consciousness
-**1961**: Brak świadomości ekologicznej w analizach dekolonizacyjnych
-**2024**: Climate justice jako centralna kwestia równości
+**1961**: Lack of ecological awareness in decolonization analyses
+**2024**: Climate justice as central equality issue
 **New Connection**: Extractive colonialism = climate destruction
 
-### Co zostało niemal identyczne:
+### What Remained Almost Identical:
 
 #### 1. Economic Extraction Patterns
-**1961**: "Gospodarki uwięzione w eksporcie surowców"
+**1961**: "Economies trapped in raw material exports"
 **2024**: Identical pattern - coffee, copper, cobalt from Global South
-**Fanon's Accuracy**: 95% - tylko players się zmienili (Chiny dołączyły do USA/Europe)
+**Fanon's Accuracy**: 95% - only players changed (China joined USA/Europe)
 
 #### 2. Elite Collaboration Patterns
-**1961**: "Lokalna burżuazja jako agenci zachodniego kapitału"
+**1961**: "Local bourgeoisie as agents of Western capital"
 **2024**: Identical - local elites educated in Western universities, serve foreign interests
-**Fanon's Accuracy**: 90% - wzorzec pozostał identyczny
+**Fanon's Accuracy**: 90% - pattern remained identical
 
 #### 3. Psychological Manipulation
-**1961**: "Internalizacja kompleksu niższości"
+**1961**: "Internalization of inferiority complex"
 **2024**: Consumer culture, social media validation, impostor syndrome
-**Fanon's Accuracy**: 100% - mechanizmy te same, tylko nośniki inne
+**Fanon's Accuracy**: 100% - same mechanisms, different carriers
 
-## Część VII: TIMELESS WISDOM FOR DECISION-MAKING
+## Part VII: TIMELESS WISDOM FOR DECISION-MAKING
 
 ### The Fanon Decision Framework for Young People:
 
 #### Step 1: The Consciousness Check ✅
-- **Question**: "Czy działam ze świadomości czy z kondycjonowania?"
+- **Question**: "Am I acting from consciousness or conditioning?"
 - **Apply to**: Career choices, relationships, political views, consumer decisions
 - **Fanon's insight**: "Consciousness must be perfect, not elementary and cloudy"
 
 #### Step 2: The Power Analysis 🔍
-- **Question**: "Kto korzysta z tej sytuacji/decyzji?"
+- **Question**: "Who benefits from this situation/decision?"
 - **Apply to**: Social media algorithms, political promises, job offers, relationships
 - **Fanon's insight**: "The colonizer benefits from native confusion"
 
 #### Step 3: The Authenticity Test 💯
-- **Question**: "Czy to prawdziwa zmiana czy powierzchowna reforma?"
+- **Question**: "Is this real change or superficial reform?"
 - **Apply to**: Company diversity initiatives, political promises, personal growth trends
 - **Fanon's insight**: "Empty shells and fragile travesties in the hands of the unprepared"
 
 #### Step 4: The Long-term Vision 🎯
-- **Question**: "Dokąd to prowadzi i czy tego chcę?"
+- **Question**: "Where does this lead and is that what I want?"
 - **Apply to**: Social media habits, relationship patterns, career paths
 - **Fanon's insight**: "Each generation must discover its mission and fight for it"
 
-## Część VIII: GENERATIONAL DIVIDE - Co młodzież może nauczyć starszych
+## Part VIII: GENERATIONAL DIVIDE - What Youth Can Teach Elders
 
 ### 1. Digital Native Advantages
 
-**Fanon's Limitation**: Nie przewidział internetu jako narzędzia consciousness-raising
-**Gen Z Superpower**: Zdolność do viralization ważnych idei
-**Lesson for Elders**: TikTok activism nie jest powierzchowny - to ewolucja form oporu
+**Fanon's Limitation**: Didn't foresee the internet as consciousness-raising tool
+**Gen Z Superpower**: Ability to viralize important ideas
+**Lesson for Elders**: TikTok activism isn't superficial - it's evolution of resistance forms
 
 ### 2. Intersectional Fluency
 
-**Fanon's Gap**: Analiza skupiona głównie na rasie i klasie
-**Gen Z Innovation**: Zrozumienie jak opresja działa przez multiple identities
-**Lesson for Elders**: "One-issue activism" jest niewystarczający w 2024
+**Fanon's Gap**: Analysis focused mainly on race and class
+**Gen Z Innovation**: Understanding how oppression works through multiple identities
+**Lesson for Elders**: "One-issue activism" is insufficient in 2024
 
 ### 3. Global Solidarity Skills
 
-**Fanon's Context**: Nazionale liberation movements
-**Gen Z Reality**: #FreeP Palestine, climate justice, global connections
-**Innovation**: Lokalne zrootowanie + globalna świadomość
+**Fanon's Context**: National liberation movements
+**Gen Z Reality**: #FreePalestine, climate justice, global connections
+**Innovation**: Local rootedness + global consciousness
 
 ### 4. Mental Health Literacy
 
-**Fanon's Pioneering**: Pierwszy łączył politykę z psychologią
+**Fanon's Pioneering**: First to connect politics with psychology
 **Gen Z Evolution**: Therapy culture, trauma-informed activism
-**Advancement**: Większe zrozumienie jak opresja wpływa na psychikę
+**Advancement**: Greater understanding of how oppression affects psyche
 
-## Część IX: PRACTICAL TOOLS FOR 2024
+## Part IX: PRACTICAL TOOLS FOR 2024
 
 ### The Fanon Bullsh*t Detector™
 
 #### For Politicians:
 - ❌ **Red Flag**: "I'll solve all your problems quickly"
-- ❌ **Red Flag**: Blaming outsiders for systemic issues  
+- ❌ **Red Flag**: Blaming outsiders for systemic issues
 - ❌ **Red Flag**: "Trust me, I know what's best"
-- ✅ **Green Flag**: Konkretne plany z timeline'ami
+- ✅ **Green Flag**: Concrete plans with timelines
 - ✅ **Green Flag**: "This will be hard work requiring collective effort"
 
 #### For Relationships:
@@ -350,29 +350,29 @@ Skupienie głównie na męskim doświadczeniu kolonializmu
 3. **Monthly**: Vision alignment - are my actions moving toward my goals?
 4. **Yearly**: Mission check - what is my generation's task?
 
-## PODSUMOWANIE: Wieczne lekcje Fanona
+## SUMMARY: Eternal Lessons from Fanon
 
-Frantz Fanon zmarł w wieku 36 lat, ale jego diagnoza ludzkiej natury i systemów opresji pozostaje niezwykle trafna. Jego główne przesłanie dla młodego pokolenia 2024:
+Frantz Fanon died at age 36, but his diagnosis of human nature and systems of oppression remains incredibly accurate. His main message for the young generation of 2024:
 
 ### 1. **Consciousness First**
-Prawdziwa zmiana zaczyna się od świadomości. Nie możesz walczyć z systemem, którego nie rozumiesz.
+Real change begins with consciousness. You can't fight a system you don't understand.
 
-### 2. **Beware False Solutions**  
-Systemy opresji bardzo dobrze adaptują się, oferując powierzchowne reformy zamiast fundamentalnych zmian.
+### 2. **Beware False Solutions**
+Systems of oppression adapt very well, offering superficial reforms instead of fundamental changes.
 
 ### 3. **Transformation is Internal AND External**
-Musisz zmieniać siebie I system jednocześnie. Jedna bez drugiej nie działa.
+You must change yourself AND the system simultaneously. One without the other doesn't work.
 
 ### 4. **Question Everything, Especially "Help"**
-Najbardziej niebezpieczna dominacja przybiera formę paternalistycznej "pomocy".
+The most dangerous domination takes the form of paternalistic "help."
 
 ### 5. **Your Generation Has a Mission**
-Każde pokolenie ma zadanie. Twoje zadanie to odkrycie czym ono jest i walka o nie.
+Every generation has a task. Your task is to discover what it is and fight for it.
 
-**Final Fanonian Wisdom**: "Każde pokolenie musi odnaleźć swoją misję i realizować ją lub ją zdradzić."
+**Final Fanonian Wisdom**: "Each generation must find its mission and fulfill it or betray it."
 
-Pytanie dla czytelników 2024: Jaka jest misja twojego pokolenia? I czy jesteś gotowy/gotowa ją realizować?
+Question for 2024 readers: What is your generation's mission? And are you ready to fulfill it?
 
 ---
 
-*"The Wretched of the Earth" 63 lata później pozostaje przewodnikiem po świecie, gdzie białej supremacji na Zachodzie towarzyszy moralne i intelektualne porażki 'ciemniejszych narodów'. Fanon nie żył, by zobaczyć spełnienie swoich najczarniejszych przepowiedni, ale jego analiza pozostaje narzędziem do ich zrozumienia.*
+*"The Wretched of the Earth" 63 years later remains a guide to a world where white supremacy in the West is accompanied by the moral and intellectual failures of the 'darker nations'. Fanon didn't live to see the fulfillment of his darkest prophecies, but his analysis remains a tool for understanding them.*

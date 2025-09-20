@@ -1,0 +1,61 @@
+styleName: Gothic Ink Autumn Etching Style
+description: Central symmetric castle framing with bold black outlines, variable line weight, dense crosshatching and stippling. Muted autumn colors with visible paper texture and light halftone dots like old comic prints.
+aiPrompts:
+  basePrompt: gothic castle front view, autumn park, bold black ink outlines, variable line weight, crosshatching and stippling, muted fall palette, coarse paper texture, vintage halftone, slight two-point perspective, overcast lighting, leaf-litter foreground, framed by trees
+  negativePrompt: bright neon colors, smooth gradients, glossy finish, modern glass, high-saturation sky, perfectly clean vectors, hard cast shadows, photographic realism
+  styleKeywords:
+  - gothic ink
+  - autumn etching
+  - crosshatch
+  - vintage halftone
+  - comic print
+  - variable line weight
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'  # black ink
+    - '#C6B288'  # muted beige/ochre walls
+    - '#A4B089'  # sage green background
+    secondary:
+    - '#D18A3A'  # burnt orange leaves
+    - '#6B5A3C'  # umber shadows
+    - '#8C7F61'  # greyish khaki fills
+    background: warm gray-beige paper
+    usageNotes: Limited autumn palette, muted and faded colors
+    saturation: low
+    contrast: medium-low
+  lineArt:
+    style: brush-pen and dip-nib with variable weight
+    weight: variable with sharp corners and frayed tails
+    color: black ink
+    texture: crosshatching in shadow masses, stippling for sky and mortar
+    edgeTreatment: broken contour to imply age and wear, slight trapping leaving hairline light gaps
+  lighting:
+    type: overcast afternoon lighting
+    direction: soft diffused light
+    intensity: low key-to-fill ratio
+    shadows:
+      style: soft overcast, pooled in recesses
+      color: umber and khaki tones
+      opacity: medium through crosshatching
+    highlights: restrained, mostly line-preserved edges
+  rendering:
+    technique: ink crosshatch with sparse flat fills
+    texture: coarse visible paper fiber, irregular small halftone dots, subtle ink bleed
+    detailLevel: medium-high line density
+    finish: matte with visible grain and speckle
+  perspective: slight two-point perspective, low horizon, centered composition
+  mood:
+    overall: nostalgic, handcrafted, autumn melancholy
+    emotion: contemplative, aged, weathered
+    tempo: steady, methodical
+    keywords:
+    - nostalgic
+    - weathered
+    - handcrafted
+    - autumn
+    - vintage
+  stylePrecedents:
+  - vintage comic book printing
+  - india ink illustrations
+  - risograph printing with tan plate

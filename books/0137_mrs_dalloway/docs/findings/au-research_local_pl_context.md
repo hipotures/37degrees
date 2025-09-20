@@ -1,191 +1,191 @@
-# Lokalny kontekst kulturowy: "Pani Dalloway" Virginia Woolf w Polsce
+# Local Cultural Context: "Mrs Dalloway" by Virginia Woolf in Poland
 
-## Wprowadzenie
-"Pani Dalloway" Virginia Woolf, opublikowana w 1925 roku, to jedna z najważniejszych powieści modernizmu światowego. Niniejsze badanie przedstawia lokalny kontekst kulturowy tej książki w Polsce, ze szczególnym uwzględnieniem problemów tłumaczenia, recepcji akademickiej i adaptacji teatralnych.
+## Introduction
+"Mrs Dalloway" by Virginia Woolf, published in 1925, is one of the most important novels of world modernism. This research presents the local cultural context of this book in Poland, with particular emphasis on translation problems, academic reception, and theatrical adaptations.
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Polscy tłumacze i ich interpretacje
+### Polish Translators and Their Interpretations
 
 **Krystyna Tarnowska (1961)**
-- Pierwsza polska tłumaczka "Mrs Dalloway"
-- Jej przekład był dostępny przez ponad 60 lat
-- Wydawany przez PIW (Państwowy Instytut Wydawniczy) w Warszawie
-- Znany z wydania w serii "Kieszonkowa PIW" z 1997 roku
-- Charakterystyczny sposób formatowania dialogów - kontynuowanie myśli postaci w tej samej linii, oddzielone myślnikiem
+- First Polish translator of "Mrs Dalloway"
+- Her translation was available for over 60 years
+- Published by PIW (State Publishing Institute) in Warsaw
+- Known from the edition in the "Pocket PIW" series from 1997
+- Characteristic way of formatting dialogues - continuing characters' thoughts in the same line, separated by a dash
 
 **Magda Heydel (2023)**
-- Nowe tłumaczenie opublikowane w wydawnictwie Znak
-- Współczesna interpretacja modernistycznej prozy
-- Lepsze rozwiązania techniczne dla strumienia świadomości
-- Rozpoczyna refleksje postaci nowym akapitem, co znacznie ułatwia nawigację przez tekst
-- Definiuje powieść jako "nowoczesną książkę o kobietach"
+- New translation published by Znak publishing house
+- Contemporary interpretation of modernist prose
+- Better technical solutions for stream of consciousness
+- Starts character reflections with a new paragraph, which significantly facilitates navigation through the text
+- Defines the novel as "a modern book about women"
 
-### Różnice między przekładami
+### Differences Between Translations
 
-**Techniczne rozwiązania narracyjne:**
-- Tarnowska: myśli postaci w tej samej linii co dialog, oddzielone myślnikiem
-- Heydel: refleksje wewnętrzne rozpoczynane nowym akapitem
-- Nowy przekład zachowuje pełną ekspresję języka, ułatwiając jednocześnie lekturę
+**Technical Narrative Solutions:**
+- Tarnowska: characters' thoughts in the same line as dialogue, separated by a dash
+- Heydel: internal reflections started with a new paragraph
+- New translation preserves full language expression while making reading easier
 
-**Filozofia przekładu:**
-- Heydel podkreśla: "Nowe tłumaczenia są cenne nie dlatego, że stare były złe, ale dlatego, że nowe tłumaczenie to także nowa interpretacja"
-- Język się zmienił, wrażliwość i świadomość historyczno-społeczna wydają się pełniejsze niż pół wieku temu
+**Translation Philosophy:**
+- Heydel emphasizes: "New translations are valuable not because the old ones were bad, but because a new translation is also a new interpretation"
+- Language has changed, sensitivity and historical-social awareness seem fuller than half a century ago
 
-## Kontekst edukacyjny w Polsce
+## Educational Context in Poland
 
-### "Pani Dalloway" jako lektura szkolna
+### "Mrs Dalloway" as School Reading
 
-**Poziom nauczania:**
-- Lektura szkolna na poziomie liceum i technikum
-- Wykorzystywana w przygotowaniach do matury 2025
-- Kategorizowana jako literatura modernistyczna w kanonie szkolnym
+**Teaching Level:**
+- School reading at high school and technical school level
+- Used in preparations for the 2025 graduation exam
+- Categorized as modernist literature in the school canon
 
-**Wyzwania dydaktyczne:**
-- Wymaga dojrzałości literackiej od uczniów
-- Komentarz dla nauczycieli: "Jest to ten typ literatury, do której trzeba dojrzeć"
-- Potrzeba czasu na zapoznanie się z dziełem mimo niewielkiej objętości
+**Didactic Challenges:**
+- Requires literary maturity from students
+- Commentary for teachers: "This is the type of literature one needs to mature into"
+- Needs time to familiarize oneself with the work despite its small volume
 
-**Materiały pomocnicze:**
-- Dostępne analizy i interpretacje tekstu na uniwersyteckich platformach (Studocu)
-- Wersja dwujęzyczna z podręcznym słownikiem angielsko-polskim (poziom B1/B2)
+**Supporting Materials:**
+- Available analyses and text interpretations on university platforms (Studocu)
+- Bilingual version with handy English-Polish dictionary (B1/B2 level)
 
-## Polskie adaptacje teatralne
+## Polish Theatrical Adaptations
 
-### Spektakl w Teatrze Dramatycznym w Warszawie
+### Performance at the Dramatic Theatre in Warsaw
 
-**Szczegóły produkcji (2020-2021):**
-- Reżyseria i adaptacja: Magdalena Miklasz
-- Pierwsza w Polsce adaptacja sceniczna powieści Virginii Woolf
-- Premiera online: 11 grudnia 2020 r.
-- Premiera na żywo: 26 lutego 2021 r. na Małej Scenie
+**Production Details (2020-2021):**
+- Direction and adaptation: Magdalena Miklasz
+- First stage adaptation of Virginia Woolf's novel in Poland
+- Online premiere: December 11, 2020
+- Live premiere: February 26, 2021 on the Small Stage
 
-**Obsada:**
+**Cast:**
 - Anna Stela (Virginia Woolf)
-- Agnieszka Roszkowska (Klarysa Dalloway)
-- Waldemar Barwiński (Piotr Walsh)
+- Agnieszka Roszkowska (Clarissa Dalloway)
+- Waldemar Barwiński (Peter Walsh)
 - Anna Gorajska (Sally Seton)
-- Marcin Sztabiński (Ryszard Dalloway)
+- Marcin Sztabiński (Richard Dalloway)
 
-**Koncepcja artystyczna:**
-- Postać pisarki wprowadzona do przedstawienia jako narratorka
-- Virginia prowokuje sytuacje między postaciami, podpuszcza je, bawi się emocjami
-- Ironiczne spojrzenie na wady bohaterów pełne czułości i poczucia humoru
+**Artistic Concept:**
+- Writer's character introduced to the performance as narrator
+- Virginia provokes situations between characters, eggs them on, plays with emotions
+- Ironic look at characters' flaws full of tenderness and sense of humor
 
-**Dostępność:**
-- Spektakl transmitowany online podczas 40. Warszawskich Spotkań Teatralnych
-- Dostępny dla widzów z całej Polski
+**Availability:**
+- Performance broadcast online during the 40th Warsaw Theatre Meetings
+- Available to viewers from all over Poland
 
-## Problemy tłumaczenia i kulturowe różnice
+## Translation Problems and Cultural Differences
 
-### Wyzwania dla polskiego czytelnika
+### Challenges for Polish Readers
 
-**Kontekst społeczno-historyczny:**
-- Akcja w Londynie w czerwcu 1923 roku - świat londyńskiego high society
-- Krytyka londyńskiego społeczeństwa: pozorów, statusu społecznego, władzy
-- Atmosfera powojennego Londynu - "nowoczesna stolica świata, która optymistycznie szła naprzód"
+**Socio-Historical Context:**
+- Action in London in June 1923 - world of London high society
+- Criticism of London society: appearances, social status, power
+- Post-war London atmosphere - "modern capital of the world that optimistically moved forward"
 
-**Problemy kulturowe:**
-- Realia brytyjskiej klasy wyższej z lat 20. XX wieku
-- Specyfika londyńskiej topografii (Westminster, Big Ben)
-- Kontekst I wojny światowej i zespołu stresu pourazowego (shell shock)
+**Cultural Problems:**
+- Realities of British upper class from the 1920s
+- Specificity of London topography (Westminster, Big Ben)
+- Context of World War I and post-traumatic stress syndrome (shell shock)
 
-**Trudności techniczne:**
-- Strumień świadomości jako innowacyjna technika narracyjna
-- "Bardzo skomplikowana sytuacja z powodu niewłaściwego użycia znaków interpunkcyjnych przez niektórych zdezorientowanych tłumaczy"
-- Konieczność zachowania rytmu narracji "do rytmu godzin bijacej Big Ben"
+**Technical Difficulties:**
+- Stream of consciousness as innovative narrative technique
+- "Very complicated situation due to improper use of punctuation marks by some confused translators"
+- Necessity to maintain narrative rhythm "to the rhythm of Big Ben's striking hours"
 
-### Specyfika dla polskiego czytelnika
+### Specificity for Polish Readers
 
-**Kontekst modernizmu w Polsce:**
-- Technika strumienia świadomości analizowana w polskiej krytyce literackiej
-- Zbigniew Lewicki: "Czas w prozie strumienia świadomości" (Warszawa 1975)
-- Piotr Prachnio: "Strumień świadomości i monolog wewnętrzny w prozie polskiej w latach 1956-1980"
+**Context of Modernism in Poland:**
+- Stream of consciousness technique analyzed in Polish literary criticism
+- Zbigniew Lewicki: "Time in Stream of Consciousness Prose" (Warsaw 1975)
+- Piotr Prachnio: "Stream of Consciousness and Internal Monologue in Polish Prose 1956-1980"
 
-## Akademicka recepcja w Polsce
+## Academic Reception in Poland
 
-### Badania naukowe i analiza literacka
+### Scientific Research and Literary Analysis
 
-**Status akademicki:**
-- Uważana za "arcydzieło literatury modernistycznej"
-- "Powieść nie tylko zwiastuje nadejście nowoczesnej literatury, lecz staje się niemal jej emblematem"
-- "Bardziej należy do świata muzyki i filozofii niż do tradycyjnego kontinuum prozy epickiej"
+**Academic Status:**
+- Considered a "masterpiece of modernist literature"
+- "The novel not only heralds the arrival of modern literature but becomes almost its emblem"
+- "Belongs more to the world of music and philosophy than to the traditional continuum of epic prose"
 
-**Analiza uniwersytecka:**
-- Dostępne materiały na Uniwersytecie Jagiellońskim (Studocu)
-- Badania nad strategiami narracyjnymi i schematami dotyczącymi obrazu Klarysy Dalloway
-- "W bogatej twórczości literackiej Virginii Woolf, powieść 'Pani Dalloway' z 1925 roku nadal wzbudza największe zainteresowanie wśród literaturoznawców"
+**University Analysis:**
+- Materials available at Jagiellonian University (Studocu)
+- Research on narrative strategies and schemas concerning Clarissa Dalloway's image
+- "In Virginia Woolf's rich literary output, the 1925 novel 'Mrs Dalloway' still arouses the greatest interest among literary scholars"
 
-### Współczesna percepcja
+### Contemporary Perception
 
-**Aktualność dla polskiego czytelnika:**
-- "Książka napisana niemal sto lat temu wydaje się dzisiaj wyjątkowo współczesna"
-- Definiowana jako "nowoczesna powieść o kobietach"
-- Szczególnie relewantna dla współczesnych polskich czytelników mimo dystansu kulturowego i czasowego
+**Relevance for Polish Readers:**
+- "A book written almost a hundred years ago seems exceptionally contemporary today"
+- Defined as "a modern novel about women"
+- Particularly relevant for contemporary Polish readers despite cultural and temporal distance
 
-## Wpływ na polską literaturę
+## Influence on Polish Literature
 
-### Technika strumienia świadomości w Polsce
+### Stream of Consciousness Technique in Poland
 
-**Polscy pisarze inspirowani techniką:**
+**Polish Writers Inspired by the Technique:**
 - Jerzy Andrzejewski
 - Maria Kuncewiczowa
 - Zofia Nałkowska
 
-**Badania polskich literaturoznawców:**
-- Analiza wpływu na konstrukcję postaci i recepcję
-- Różnice między strumieniem świadomości a monologiem wewnętrznym
-- Wykorzystanie w polskiej prozie drugiej połowy XX wieku
+**Research by Polish Literary Scholars:**
+- Analysis of influence on character construction and reception
+- Differences between stream of consciousness and internal monologue
+- Use in Polish prose of the second half of the 20th century
 
-## Lokalne nawiązania i easter eggi
+## Local References and Easter Eggs
 
-### Krakowskie połączenia
+### Krakow Connections
 
-**Spotkania z tłumaczką w Krakowie:**
-- Wydarzenia literackie z Magdą Heydel w Karnet Kraków
-- "Pani Dalloway Virginii Woolf – spotkanie z tłumaczką Magdaleną Heydel"
-- Bilety dostępne przez KBF: BILETY | Wydarzenia w Krakowie
+**Meetings with Translator in Krakow:**
+- Literary events with Magda Heydel in Karnet Kraków
+- "Mrs Dalloway by Virginia Woolf - meeting with translator Magdalena Heydel"
+- Tickets available through KBF: TICKETS | Events in Krakow
 
-**Akademickie zainteresowanie:**
-- Krakowska publiczność szczególnie zainteresowana nowymi przekładami
-- Połączenia z krakowskim środowiskiem akademickim i literackim
+**Academic Interest:**
+- Krakow audience particularly interested in new translations
+- Connections with Krakow academic and literary environment
 
-### Polskie media i kultura popularna
+### Polish Media and Popular Culture
 
-**Podcasty i radio:**
-- "Magda Heydel o 'Pani Dalloway' Virginii Woolf - Książka na ucho - Radio dla Ciebie"
-- "Bitwa o literaturę. Kwiaty pani Dalloway / Magda Heydel / PJM - Teatr Stary w Lublinie"
+**Podcasts and Radio:**
+- "Magda Heydel about 'Mrs Dalloway' by Virginia Woolf - Book on the Ear - Radio for You"
+- "Battle for Literature. Mrs Dalloway's Flowers / Magda Heydel / PJM - Old Theatre in Lublin"
 
-## Współczesne znaczenie dla polskiego czytelnika
+## Contemporary Meaning for Polish Readers
 
-### Uniwersalność tematów
+### Universality of Themes
 
-**Tematy rezonujące z polskim czytelnikiem:**
-- Krytyka społeczeństwa pozorów i statusu
-- Trauma wojenna i jej psychologiczne skutki
-- Kondycja kobiety w społeczeństwie
-- Londyńska atmosfera jako symbol nowoczesnej metropolii
+**Themes Resonating with Polish Readers:**
+- Criticism of society of appearances and status
+- War trauma and its psychological effects
+- Women's condition in society
+- London atmosphere as symbol of modern metropolis
 
-### Wyzwania interpretacyjne
+### Interpretive Challenges
 
-**Dla współczesnego polskiego czytelnika:**
-- Potrzeba znajomości kontekstu historycznego I wojny światowej
-- Zrozumienie specyfiki brytyjskiego systemu klasowego
-- Docenianie innowacji technik narracyjnych modernizmu
+**For Contemporary Polish Readers:**
+- Need to know the historical context of World War I
+- Understanding the specificity of the British class system
+- Appreciating innovations in modernist narrative techniques
 
-## Podsumowanie
+## Summary
 
-"Pani Dalloway" w Polsce to historia stopniowego oswajania modernistycznej prozy przez polskiego czytelnika. Od pierwszego przekładu Krystyny Tarnowskiej w 1961 roku, przez współczesne tłumaczenie Magdy Heydel, aż po teatralną adaptację Magdaleny Miklasz - powieść Woolf znalazła swoje stałe miejsce w polskim kanonie literackim.
+"Mrs Dalloway" in Poland is a story of gradual familiarization of Polish readers with modernist prose. From Krystyna Tarnowska's first translation in 1961, through Magda Heydel's contemporary translation, to Magdalena Miklasz's theatrical adaptation - Woolf's novel has found its permanent place in the Polish literary canon.
 
-Szczególnie ważne dla polskiego kontekstu są:
-1. **Problemy tłumaczenia** strumienia świadomości na język polski
-2. **Akademicka recepcja** jako przykładu literatury modernistycznej
-3. **Teatralna adaptacja** w Teatrze Dramatycznym jako pierwsza w Polsce
-4. **Edukacyjne wykorzystanie** na poziomie licealnym i uniwersyteckim
-5. **Wpływ na polską literaturę** poprzez technikę narracyjną
+Particularly important for the Polish context are:
+1. **Translation problems** of stream of consciousness into Polish
+2. **Academic reception** as an example of modernist literature
+3. **Theatrical adaptation** at the Dramatic Theatre as the first in Poland
+4. **Educational use** at high school and university level
+5. **Influence on Polish literature** through narrative technique
 
-Książka pozostaje wyzwaniem dla polskiego czytelnika, ale jednocześnie oferuje nagrodę w postaci "subtelnego piękna" modernistycznej prozy, która mimo dystansu kulturowego i czasowego zachowuje swoją uniwersalną aktualność.
+The book remains a challenge for Polish readers, but at the same time offers a reward in the form of "subtle beauty" of modernist prose, which despite cultural and temporal distance maintains its universal relevance.
 
 ---
 
-*Badanie przeprowadzone w oparciu o źródła internetowe, artykuły prasowe, materiały akademickie i informacje o polskich wydaniach książki (stan na grudzień 2024).*
+*Research conducted based on internet sources, press articles, academic materials and information about Polish editions of the book (as of December 2024).*

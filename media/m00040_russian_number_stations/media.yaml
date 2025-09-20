@@ -1,0 +1,15 @@
+media_info:
+  title: Russian Number Stations - Cold War Era
+  author: Intelligence Documentation
+  year: 1950
+  genre: Cold War Mystery Documentary
+  description: Mysterious radio signals broadcasting from Russia with unknown purpose,
+    called "number stations" that continue transmitting decades after the Cold War
+  target_audience: General public, students, Cold War history enthusiasts, radio mystery fans
+  duration: ~3 minutes
+  objective: Explore the enigmatic radio transmissions that have puzzled listeners
+    for decades and examine theories about their military and intelligence purposes
+  scene_count: 10
+  graphics_style: film-noir-1950s-melodrama
+  scene_generator: narrative
+  nb_audio_format: brief

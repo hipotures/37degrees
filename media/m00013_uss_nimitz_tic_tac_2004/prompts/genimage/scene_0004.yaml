@@ -1,0 +1,105 @@
+sceneDescription:
+  setting:
+    time: November 14, 2004, approximately 12:30 PM
+    location: Pacific Ocean southwest of San Diego, California, specific area of anomalous water activity
+    weather: Clear, sunny day with calm seas except for the mysterious disturbance area
+  characters:
+  - appearance: Caucasian man, 40s, athletic build, focused expression, military bearing
+    clothing: Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name
+      tags
+    position: In lead F/A-18F cockpit, looking down at ocean disturbance
+    action: Banking aircraft to get better view of anomalous water pattern below
+  - appearance: Caucasian woman, 30s, slender build, determined expression, professional demeanor
+    clothing: Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name
+      tags
+    position: In wingman F/A-18F cockpit, following lead aircraft
+    action: Observing unusual ocean phenomenon and maintaining formation
+  scene:
+    mainElements: Circular area of churning whitewater approximately 50-100 feet diameter, described as boiling or frothing
+      water pattern, contrasting with surrounding calm seas
+    details: Boeing F/A-18F Super Hornet in tactical grey paint scheme, VFA-41 Black Aces squadron markings, Bureau Number
+      on fuselage, AIM-9X Sidewinder training missiles, twin-engine multirole fighter aircraft flying over disturbed water.
+      Ocean disturbance creates visible white foam and turbulence in otherwise calm blue Pacific waters. Bright sunlight illuminates
+      the contrast between normal ocean surface and the mysterious churning area.
+    background: Pacific Ocean southwest of San Diego, California, approximately 100 miles offshore, water depth 13,000 feet
+      extending to horizon with no other vessels or land visible
+    atmosphere: Vast blue ocean expanse, bright sunlight creating glare off water surface, isolated military training environment.
+      Growing sense of mystery as pilots encounter unexplained phenomenon in routine training area
+  composition:
+    cameraAngle: Aerial view from pilot's perspective looking down at ocean disturbance
+    focus: Circular churning whitewater disturbance contrasting sharply with surrounding calm blue ocean
+    depth: 'Foreground: aircraft cockpit elements, middle ground: mysterious ocean disturbance, background: endless Pacific
+      Ocean, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

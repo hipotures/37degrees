@@ -7,9 +7,9 @@ media_info:
     missing time experience on a New Hampshire highway
   target_audience: General public, students, UFO researchers, psychology enthusiasts
   duration: ~3 minutes
-  objective: Recreate the encounter that defined modern abduction narratives through
+  objective: Recreate the encounter that defined modern abduction narrative-prompt-generators through
     hypnotic regression revelations
   scene_count: 10
-  graphics_style: noir-psychological-thriller
+  graphics_style: feature-animation-2d-classical
   scene_generator: narrative
   nb_audio_format: brief

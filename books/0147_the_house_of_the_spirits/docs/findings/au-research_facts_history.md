@@ -1,129 +1,129 @@
-# Historia powstania "Dom duchów" - Isabel Allende (1982)
+# The Creation History of "The House of the Spirits" - Isabel Allende (1982)
 
-## Okoliczności powstania książki
+## Circumstances of Book Creation
 
-### **FAKT**: Data rozpoczęcia pisania - 8 stycznia 1981
-Isabel Allende rozpoczęła pisanie "Domu duchów" dokładnie 8 stycznia 1981 roku, gdy przebywała na wygnaniu w Wenezueli. Ta data stała się później jej rytuałem - zaczyna wszystkie swoje książki tego dnia.
+### **FACT**: Writing start date - January 8, 1981
+Isabel Allende began writing "The House of the Spirits" exactly on January 8, 1981, while in exile in Venezuela. This date later became her ritual - she starts all her books on this day.
 
-### **FAKT**: Duchowy list do umierającego dziadka
-Książka powstała jako "duchowy list" do 99-letniego dziadka Allende, który umierał w Chile. Autorka nie mogła wrócić do kraju z powodu statusu politycznego uchodźcy po zamachu stanu Pinocheta w 1973 roku.
+### **FACT**: Spiritual letter to dying grandfather
+The book originated as a "spiritual letter" to Allende's 99-year-old grandfather who was dying in Chile. The author could not return to the country due to her political refugee status after Pinochet's coup in 1973.
 
-### **FAKT**: Słynne pierwsze zdanie napisane w transie
-Pierwsze zdanie "Barrabás przybył do nas morzem" zostało napisane w stanie transu. Allende wspomina: "Napisałam pierwsze zdanie w transie, jakby ktoś inny pisał to przeze mnie. To pierwsze zdanie zazwyczaj determinuje całą książkę."
+### **FACT**: Famous first sentence written in trance
+The first sentence "Barrabás came to us by sea" was written in a trance state. Allende recalls: "I wrote the first sentence in a trance, as if someone else was writing it through me. That first sentence usually determines the entire book."
 
-### **FAKT**: Pisanie do świtu w maniakalnm pędzie
-Allende opisuje proces twórczy pierwszej nocy: "Pisałam jak szalona aż do świtu, gdy zmęczenie mnie pokonało i czołgałam się do łóżka." Nie wiedziała, kim był Barrabás ani dlaczego przybył morzem.
+### **FACT**: Writing until dawn in manic rush
+Allende describes the creative process of the first night: "I wrote like crazy until dawn, when exhaustion overcame me and I crawled to bed." She didn't know who Barrabás was or why he came by sea.
 
-## Kontekst biograficzny autorki
+## Author's Biographical Context
 
-### **FAKT**: 13-letnie wygnanie w Wenezueli (1975-1988)
-Isabel Allende uciekła do Wenezueli w 1975 roku po zamachu stanu Pinocheta. Była kuzynką prezydenta Salvadora Allende, który zginął podczas puczu 11 września 1973 roku.
+### **FACT**: 13-year exile in Venezuela (1975-1988)
+Isabel Allende fled to Venezuela in 1975 after Pinochet's coup. She was the cousin of President Salvador Allende, who died during the coup on September 11, 1973.
 
-### **FAKT**: Praca jako dziennikarka i administratorka w szkole
-W Caracas Allende pracowała jako dziennikarka w gazecie "El Nacional" (1976-1983) oraz jako administratorka w szkole Marrocco (1979-1983).
+### **FACT**: Work as journalist and school administrator
+In Caracas, Allende worked as a journalist for the newspaper "El Nacional" (1976-1983) and as an administrator at Marrocco school (1979-1983).
 
-### **FAKT**: Wiek 39 lat podczas pisania
-Isabel miała 39 lat, gdy rozpoczęła pisanie swojej pierwszej powieści. Była już dojrzałą dziennikarką z doświadczeniem życiowym.
+### **FACT**: Age 39 during writing
+Isabel was 39 years old when she began writing her first novel. She was already a mature journalist with life experience.
 
-### **FAKT**: Wpływ wygnania na karierę pisarską
-Allende przyznaje: "Nie sądzę, że zostałabym pisarką, gdybym została w Chile. Zostałabym uwięziona w obowiązkach domowych, rodzinnych, w osobie, jaką ludzie oczekiwali, że będę."
+### **FACT**: Exile's influence on writing career
+Allende admits: "I don't think I would have become a writer if I had stayed in Chile. I would have been trapped in domestic duties, family obligations, in the person people expected me to be."
 
-## Inspiracje i wpływy
+## Inspirations and Influences
 
-### **FAKT**: Dzieciństwo z babcią-jasnowidką w Santiago
-Allende wychowywała się w domu dziadków w Santiago, gdzie babcia była wróżbitką i astrologiem, opowiadającą cudowne historie. To ona stała się modelem dla Clary del Valle.
+### **FACT**: Childhood with clairvoyant grandmother in Santiago
+Allende grew up in her grandparents' house in Santiago, where her grandmother was a fortune teller and astrologer who told wonderful stories. She became the model for Clara del Valle.
 
-### **FAKT**: Dom pełen dzikich zwierząt i duchów
-Autorka opisuje: "Dom moich dziadków, gdzie spędziłam dzieciństwo, zamieszkiwały dzikie zwierzęta, dziwni ludzie i życzliwe duchy."
+### **FACT**: House full of wild animals and spirits
+The author describes: "My grandparents' house, where I spent my childhood, was inhabited by wild animals, strange people, and benevolent spirits."
 
-### **FAKT**: Dziadek żył 100 lat i czytał Biblię oraz Encyklopedię Britannicę
-Dziadek Isabel, "twardy Bask uparty i silny jak muł", dożył 100 lat. W ostatnich latach życia przeczytał Biblię wiele razy od deski do deski oraz Encyklopedię Britannicę od A do Z.
+### **FACT**: Grandfather lived 100 years and read the Bible and Encyclopedia Britannica
+Isabel's grandfather, "a tough Basque stubborn and strong as a mule," lived to 100 years. In his final years, he read the Bible many times from cover to cover and the Encyclopedia Britannica from A to Z.
 
-### **FAKT**: Wpływ García Márqueza - "Sto lat samotności"
-Allende otwarcie przyznaje wpływ "Stu lat samotności": "García Márquez wpłynął na mnie, jak wpłynął na prawie wszystkich pisarzy mojego pokolenia."
+### **FACT**: García Márquez influence - "One Hundred Years of Solitude"
+Allende openly acknowledges the influence of "One Hundred Years of Solitude": "García Márquez influenced me, as he influenced almost all writers of my generation."
 
-## Proces publikacji
+## Publication Process
 
-### **FAKT**: Odrzucenie przez kilku wydawców
-Manuskrypt liczący 500 stron został odrzucony przez kilku hiszpańskojęzycznych wydawców. Powody: długość tekstu, nieznana autorka i płeć żeńska.
+### **FACT**: Rejection by several publishers
+The 500-page manuscript was rejected by several Spanish-speaking publishers. Reasons: text length, unknown author, and female gender.
 
-### **FAKT**: Sekretarka wydawcy: "Nikt pani nie zna, to za długie, jest pani kobietą"
-Jedna z sekretarek wydawcy doradziła Allende: "Nikt pani nie zna, to za długie, jest pani kobietą" i zasugerowała znalezienie agenta.
+### **FACT**: Publisher's secretary: "Nobody knows you, it's too long, you're a woman"
+One publisher's secretary advised Allende: "Nobody knows you, it's too long, you're a woman" and suggested finding an agent.
 
-### **FAKT**: Sukces u Plaza y Janés w Barcelonie w 1982 roku
-Ostatecznie książka została przyjęta przez wydawnictwo Plaza y Janés w Barcelonie w 1982 roku i natychmiast odniosła sukces.
+### **FACT**: Success at Plaza y Janés in Barcelona in 1982
+The book was eventually accepted by Plaza y Janés publishing house in Barcelona in 1982 and immediately became successful.
 
-### **FAKT**: Natychmiastowy bestseller
-Książka stała się natychmiastowym bestsellerem, została uznana za najlepszą powieść roku w Chile w 1982 roku, a Allende otrzymała nagrodę Panorama Literario.
+### **FACT**: Instant bestseller
+The book became an instant bestseller, was recognized as the best novel of the year in Chile in 1982, and Allende received the Panorama Literario award.
 
-## Liczby i statystyki
+## Numbers and Statistics
 
-### **FAKT**: Ponad 20 języków tłumaczeń
-"Dom duchów" został przetłumaczony na ponad 20 języków, stając się jedną z najszerzej tłumaczonych książek literatury latynoamerykańskiej.
+### **FACT**: Over 20 language translations
+"The House of the Spirits" has been translated into over 20 languages, becoming one of the most widely translated books in Latin American literature.
 
-### **FAKT**: 556 000 egzemplarzy w samych Niemczech
-Niemieckie tłumaczenie sprzedało się w nakładzie 556 000 egzemplarzy, co czyni je bestsellerem wśród czterech głównych pisarzy hispanoamerykańskich.
+### **FACT**: 556,000 copies in Germany alone
+The German translation sold 556,000 copies, making it a bestseller among the four major Hispanic-American writers.
 
-### **FAKT**: 14 dodruki w pierwszych latach
-W pierwszych latach po publikacji wydano 14 dodruki, a łącznie ukazało się ponad 24 wydania w języku hiszpańskim.
+### **FACT**: 14 reprints in first years
+In the first years after publication, 14 reprints were issued, and over 24 editions appeared in Spanish.
 
-### **FAKT**: Sprzedaż 77-80 milionów książek Isabel Allende
-Allende sprzedała łącznie 77-80 milionów egzemplarzy wszystkich swoich książek, stając się najczęściej czytaną pisarką hiszpańskojęzyczną na świecie.
+### **FACT**: Isabel Allende sold 77-80 million books
+Allende has sold a total of 77-80 million copies of all her books, becoming the most widely read Spanish-speaking female writer in the world.
 
-## Adaptacje i kontrowersje
+## Adaptations and Controversies
 
-### **FAKT**: Film z 1993 roku z Meryl Streep i Jeremy Ironsem
-W 1993 roku powstała adaptacja filmowa w reżyserii Bille Augusta z gwiazdorską obsadą: Meryl Streep, Jeremy Irons, Glenn Close, Antonio Banderas, Winona Ryder i Vanessa Redgrave.
+### **FACT**: 1993 film with Meryl Streep and Jeremy Irons
+In 1993, a film adaptation was made directed by Bille August with a star cast: Meryl Streep, Jeremy Irons, Glenn Close, Antonio Banderas, Winona Ryder, and Vanessa Redgrave.
 
-### **FAKT**: Kontrowersja rasowa przy castingu
-Film wywołał kontrowersje z powodu obsadzenia przeważnie białych aktorów anglojęzycznych w latynoamerykańskim dramacie historycznym. Premiera w USA spotkała się z protestami aktorów latynoskich.
+### **FACT**: Racial controversy in casting
+The film caused controversy for casting predominantly white English-speaking actors in a Latin American historical drama. The US premiere met with protests from Latino actors.
 
-### **FAKT**: Porażka finansowa filmu
-Pomimo budżetu 40 milionów dolarów film odzyskał jedynie 6,2 miliona, stając się komercjalną porażką.
+### **FACT**: Film's financial failure
+Despite a $40 million budget, the film only recovered $6.2 million, becoming a commercial failure.
 
-### **PLOTKA**: Oskarżenia o plagiatorstwo García Márqueza
-Krytycy oskarżali Allende o "epigonizm niemal plagiatowy" w stosunku do "Stu lat samotności", choć większość zgadza się, że to unikalne dzieło z feministycznym przekazem.
+### **RUMOR**: Accusations of plagiarizing García Márquez
+Critics accused Allende of "almost plagiaristic epigonism" in relation to "One Hundred Years of Solitude," though most agree it's a unique work with a feminist message.
 
-## Anegdoty i ciekawostki
+## Anecdotes and Curiosities
 
-### **FAKT**: Rytuał pisarki - zawsze 8 stycznia
-Od sukcesu "Domu duchów" Allende rozpoczyna pisanie każdej nowej książki 8 stycznia, nazywając to "szczęśliwą datą" i ceremonialnym rozpoczęciem.
+### **FACT**: Writer's ritual - always January 8th
+Since the success of "The House of the Spirits," Allende begins writing each new book on January 8th, calling it a "lucky date" and ceremonial beginning.
 
-### **FAKT**: Telefon o umierającym dziadku w Caracas
-Allende otrzymała telefon o stanie dziadka, mieszkając w niewielkim mieszkaniu w Caracas, pracując jako administratorka szkoły.
+### **FACT**: Phone call about dying grandfather in Caracas
+Allende received the phone call about her grandfather's condition while living in a small apartment in Caracas, working as a school administrator.
 
-### **FAKT**: Manuskrypt jako "duchowy list"
-Autorka zamierzała napisać list, aby dziadek "mógł odejść w spokoju, bo pamiętam wszystko, co mi kiedykolwiek opowiedział, jego życie, moich szalonych krewnych i wiele więcej."
+### **FACT**: Manuscript as "spiritual letter"
+The author intended to write a letter so her grandfather "could leave in peace, because I remember everything he ever told me, his life, my crazy relatives, and much more."
 
-### **FAKT**: Dziadek zmarł przed przeczytaniem listu
-Dziadek zmarł, zanim zdążył przeczytać "list", który przekształcił się w 500-stronicową powieść.
+### **FACT**: Grandfather died before reading the letter
+The grandfather died before he could read the "letter" that transformed into a 500-page novel.
 
-### **FAKT**: Pierwszy agent znaleziony w Hiszpanii
-Po znalezieniu hiszpańskiego agenta książka została opublikowana w 1982 roku, rozpoczynając międzynarodową karierę Allende.
+### **FACT**: First agent found in Spain
+After finding a Spanish agent, the book was published in 1982, launching Allende's international career.
 
-### **FAKT**: Tłumaczenie na angielski w 1985 roku
-Kiedy angielskie tłumaczenie ukazało się w 1985 roku, Allende stała się natychmiastowym międzynarodowym sukcesem.
+### **FACT**: English translation in 1985
+When the English translation appeared in 1985, Allende became an instant international success.
 
-### **FAKT**: Książka w programach szkolnych na całym świecie
-"Dom duchów" jest nauczany w znacznej liczbie programów szkolnych na całym świecie, szczególnie jako przykład realizmu magicznego.
+### **FACT**: Book in school programs worldwide
+"The House of the Spirits" is taught in numerous school programs worldwide, particularly as an example of magical realism.
 
-### **FAKT**: Uznanie przez Międzynarodową Maturę
-Książka została uznana przez organizacje edukacyjne, takie jak International Baccalaureate, jako dzieło literatury światowej do studiowania.
+### **FACT**: Recognition by International Baccalaureate
+The book has been recognized by educational organizations such as the International Baccalaureate as a work of world literature for study.
 
-## Wpływ na literaturę
+## Impact on Literature
 
-### **FAKT**: Otwarcie drogi dla pisarek latynoamerykańskich
-Sukces "Domu duchów" otworzył drogę dla wielu pisarek latynoamerykańskich na międzynarodowym rynku wydawniczym.
+### **FACT**: Opening path for Latin American female writers
+The success of "The House of the Spirits" opened the path for many Latin American female writers in the international publishing market.
 
-### **FAKT**: Feministyczna perspektywa realizmu magicznego
-Krytycy opisują książkę jako "feministyczne spojrzenie na Sto lat samotności García Márqueza".
+### **FACT**: Feminist perspective on magical realism
+Critics describe the book as "a feminist take on García Márquez's One Hundred Years of Solitude."
 
-### **FAKT**: Model dla kolejnych pokoleń
-Allende stała się wzorem dla pisarzy używających osobistych i rodzinnych historii jako materiału literackiego.
+### **FACT**: Model for subsequent generations
+Allende became a model for writers using personal and family histories as literary material.
 
-### **FAKT**: Pamięć jako surowy materiał
-Autorka podkreśla: "Pamięć to surowy materiał dla wszystkich moich pism" - filozofia, która wpłynęła na wielu współczesnych autorów.
+### **FACT**: Memory as raw material
+The author emphasizes: "Memory is the raw material for all my writings" - a philosophy that has influenced many contemporary authors.
 
 ---
 
-*Zebrane na podstawie źródeł internetowych, biografii i wywiadów z Isabel Allende. Data: 2025-09-04*
+*Compiled from internet sources, biographies, and interviews with Isabel Allende. Date: 2025-09-20*

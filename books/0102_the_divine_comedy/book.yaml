@@ -4,3 +4,180 @@ book_info:
   author: "Dante Alighieri"
   year: c. 1320
   genre: "Epic,Poetry"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-19T00:00:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 10
+    structural_complexity: 9
+    social_roles: 10
+    total: 73
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.5
+      category: "high"
+    heat:
+      value: 8.8
+      category: "high"
+
+  themes:
+    universal:
+      - id: "four_level_interpretation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Literal, allegorical, moral, anagogical levels of interpretation system"
+        source: "symbols_meanings"
+      - id: "italian_language_creation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created modern Italian language, 80% of vocabulary from Dante"
+        source: "writing_innovation"
+      - id: "universal_soul_journey"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Universal archetype of soul's journey from sin through penance to salvation"
+        source: "symbols_meanings"
+      - id: "literary_revolution"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary techniques: terza rima invention, psychological realism"
+        source: "writing_innovation"
+      - id: "corruption_predictions"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Political corruption patterns identical to contemporary scandals"
+        source: "reality_wisdom"
+      - id: "cultural_foundation"
+        type: "FACT"
+        credibility: 0.95
+        content: "57+ adaptations across all media spanning 700 years"
+        source: "culture_impact"
+      - id: "numerological_architecture"
+        type: "FACT"
+        credibility: 0.90
+        content: "Precise mathematical structure based on Trinity and sacred numbers"
+        source: "symbols_meanings"
+      - id: "digital_resonance"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "603.8K TikTok posts, modern parallels with social media as Hell"
+        source: "youth_digital"
+
+    localized:
+      en:
+        cultural_impact: "Foundational to Western literature, extensive academic tradition"
+        key_editions: ["Longfellow translation", "Academic critical editions"]
+        reception_notes: "Canonical status in English-speaking world"
+        educational_status: "Standard in university literature curricula"
+        local_themes: ["Epic tradition", "Classical influence"]
+      pl:
+        cultural_impact: "Strong academic reception and translation tradition"
+        key_editions: ["PIW translations", "Academic editions"]
+        reception_notes: "Philosophical and theological interpretation emphasis"
+        educational_status: "University literature and philosophy programs"
+        local_themes: ["Catholic interpretation", "Literary innovation"]
+      de:
+        cultural_impact: "Strong German scholarly tradition and interpretation"
+        key_editions: ["German academic editions"]
+        reception_notes: "Philosophical and theological analysis tradition"
+        educational_status: "University medieval studies programs"
+        local_themes: ["Philosophical analysis", "Medieval studies"]
+      fr:
+        cultural_impact: "French literary reception through comparative literature"
+        key_editions: ["French scholarly editions"]
+        reception_notes: "Structuralist and post-structuralist analysis"
+        educational_status: "Comparative literature programs"
+        local_themes: ["Literary theory", "Medieval studies"]
+      es:
+        cultural_impact: "Spanish-language reception and Iberian medieval studies"
+        key_editions: ["Spanish translations"]
+        reception_notes: "Medieval Iberian literature comparisons"
+        educational_status: "Hispanic medieval literature"
+        local_themes: ["Medieval poetry", "Religious literature"]
+      pt:
+        cultural_impact: "Portuguese-language medieval literature studies"
+        key_editions: ["Portuguese translations"]
+        reception_notes: "Comparative medieval literature"
+        educational_status: "University medieval studies"
+        local_themes: ["Epic tradition", "Religious poetry"]
+      ja:
+        cultural_impact: "Japanese reception through comparative literature"
+        key_editions: ["Japanese translations"]
+        reception_notes: "Buddhist-Christian comparison studies"
+        educational_status: "Comparative literature and religion"
+        local_themes: ["Spiritual journey", "Religious syncretism"]
+      ko:
+        cultural_impact: "Korean reception through world literature studies"
+        key_editions: ["Korean translations"]
+        reception_notes: "East-West literary comparison"
+        educational_status: "World literature programs"
+        local_themes: ["Cultural exchange", "Literary influence"]
+      hi:
+        cultural_impact: "Hindi reception in post-colonial literary studies"
+        key_editions: ["Hindi translations"]
+        reception_notes: "Colonial and post-colonial literary analysis"
+        educational_status: "English and comparative literature"
+        local_themes: ["Cross-cultural influence", "Epic tradition"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "foundational_importance"
+          lead: "host_a"
+          description: "Why Dante created modern literature: first vernacular masterpiece, Italian language"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "structural_innovation"
+          lead: "host_b"
+          description: "Four levels of interpretation: literal, allegorical, moral, anagogical analysis"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "symbolic_architecture"
+          lead: "host_a"
+          description: "Numerological design: Trinity structure, terza rima, mathematical precision"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "philosophical_depth"
+          lead: "host_b"
+          description: "Synthesis of classical, Christian, Islamic thought; universal human journey"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "enduring_influence"
+          lead: "host_a"
+          description: "700-year impact: literature, language, psychology, contemporary relevance"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'The Divine Comedy' with scholarly depth. Explain the four levels of interpretation, revolutionary literary techniques, and philosophical synthesis. Make complex concepts accessible while maintaining academic rigor."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification on complex concepts, request examples of the four interpretive levels, connect to literary theories, and help make Dante's innovations understandable to modern audiences."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["religious controversies", "medieval violence descriptions", "complex theological themes", "political accusations"]
+    educational_elements:
+      - "Medieval literature characteristics"
+      - "Four levels of literary interpretation"
+      - "History of Italian language development"
+      - "Medieval cosmology and philosophy"
+      - "Numerological symbolism in literature"
+      - "Contrapasso and symbolic justice"
+    production_notes:
+      intro_style: "scholarly introduction to foundational masterpiece of world literature"
+      transitions: "subtle musical bridges between analytical segments"
+      outro_style: "reflective conclusion on enduring influence and relevance"
+
+  overall_confidence: 0.925

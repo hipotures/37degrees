@@ -1,0 +1,15 @@
+media_info:
+  title: Grimsby Alien Abduction - March 2000
+  author: UFO Documentation
+  year: 2000
+  genre: Alien Abduction Documentary
+  description: An alleged alien abduction case with reported vivisection of a human,
+    one of the most extreme close encounter claims from the UK
+  target_audience: General public, UFO researchers, alien encounter enthusiasts
+  duration: ~3 minutes
+  objective: Examine one of Britain's most disturbing alien abduction claims while
+    maintaining scientific objectivity about extraordinary testimonies
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

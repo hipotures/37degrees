@@ -1,212 +1,212 @@
-# Wpływ Kulturowy: "Tako rzecze Zaratustra" Friedricha Nietzschego
+# Cultural Impact: "Thus Spoke Zarathustra" by Friedrich Nietzsche
 
-*Badanie przeprowadzone w ramach projektu 37degrees*
+*Research conducted as part of the 37degrees project*
 
-## Wprowadzenie
+## Introduction
 
-"Tako rzecze Zaratustra" (1883-1885) Friedricha Nietzschego to jedno z najbardziej wpływowych dzieł filozoficznych w historii, które głęboko odcisnęło się na kulturze popularnej XX i XXI wieku. Książka, będąca jednocześnie traktatem filozoficznym, poezją prozą i alegorią, przedstawia koncepcje nadczłowieka (Übermensch), śmierci Boga, wiecznego powrotu i woli mocy. Jej wpływ na kulturę jest ogromny i wieloaspektowy.
+"Thus Spoke Zarathustra" (1883-1885) by Friedrich Nietzsche is one of the most influential philosophical works in history, which has deeply impacted popular culture of the 20th and 21st centuries. The book, being simultaneously a philosophical treatise, prose poetry, and allegory, presents the concepts of the superman (Übermensch), the death of God, eternal recurrence, and will to power. Its influence on culture is enormous and multifaceted.
 
-## 1. ADAPTACJE MUZYCZNE
+## 1. MUSICAL ADAPTATIONS
 
 ### Richard Strauss - "Also sprach Zarathustra" (1896)
-**Najsłynniejsza adaptacja muzyczna** - Poemat symfoniczny Richarda Straussa, inspirowany dziełem Nietzschego, składający się z dziewięciu części odpowiadających tytułom rozdziałów książki:
-- **"Wschód słońca"** (Sonnenaufgang) - najbardziej rozpoznawalna część
-- Wykorzystanie w filmie Stanley'a Kubricka **"2001: Odyseja kosmiczna"** (1968) uczyniło tę muzykę ikoniczną
-- Nagranie z 1959 roku przez Filharmonię Wiedeńską pod dyrekcją Herberta von Karajana
+**Most famous musical adaptation** - Symphonic poem by Richard Strauss, inspired by Nietzsche's work, consisting of nine parts corresponding to chapter titles from the book:
+- **"Sunrise"** (Sonnenaufgang) - the most recognizable part
+- Use in Stanley Kubrick's film **"2001: A Space Odyssey"** (1968) made this music iconic
+- 1959 recording by Vienna Philharmonic under Herbert von Karajan
 
-### Inne kompozycje muzyczne
-1. **Frederick Delius** - "Mass of Life" (1905), dzieło chóralne oparte na tekstach z Zaratustry
-2. **Gustav Mahler** - wykorzystanie koncepcji Nietzschego w III Symfonii, włączenie "pieśni Zaratustry"
-3. **Lukas Foss** - "Time Cycle" (1959-60), utwór na sopran i orkiestrę z fragmentami tekstu
-4. **Carl Orff** - młodzieńcze kompozycje oparte na fragmentach tekstu (niepublikowane)
+### Other musical compositions
+1. **Frederick Delius** - "Mass of Life" (1905), choral work based on texts from Zarathustra
+2. **Gustav Mahler** - use of Nietzsche's concepts in Symphony No. 3, inclusion of "Zarathustra's song"
+3. **Lukas Foss** - "Time Cycle" (1959-60), piece for soprano and orchestra with text fragments
+4. **Carl Orff** - youthful compositions based on text fragments (unpublished)
 
-## 2. FILM I TELEWIZJA
+## 2. FILM AND TELEVISION
 
-### Wykorzystanie muzyki Straussa w filmach
-**Fanfara "Wschodu słońca"** stała się synonimem monumentalnych momentów w kinie:
+### Use of Strauss music in films
+**The "Sunrise" fanfare** became synonymous with monumental moments in cinema:
 
-1. **"2001: Odyseja kosmiczna"** (1968) - Stanley Kubrick
-   - Używana w scenie tytułowej (Słońce, Ziemia, Księżyc)
-   - Moment, gdy małpa po raz pierwszy używa narzędzia
-   - Transformacja Bowmana w Gwiezdne Dziecko
-   - **Motyw ewolucyjnych przemian** - od małpy do człowieka, od człowieka do nadczłowieka
+1. **"2001: A Space Odyssey"** (1968) - Stanley Kubrick
+   - Used in title sequence (Sun, Earth, Moon)
+   - Moment when ape first uses a tool
+   - Bowman's transformation into Star Child
+   - **Evolutionary transformation motif** - from ape to human, from human to superman
 
-2. **"Moonraker"** (1979) - w scenie polowania w posiadłości Hugo Draxa
-3. **"Charlie i Fabryka Czekolady"** (2005) - nawiązanie do monolitu z "2001"
-4. **"WALL-E"** (2008) - moment, gdy kapitan statku staje na własnych nogach
-5. **"Zoolander"** (2001) - parodia sceny komputerowej z "2001"
-6. **"The Big Bus"** (1976) - rzadki film, którego sława opiera się głównie na użyciu tej muzyki
-7. **"Barbie"** (2023) - parodia otwarcia "2001: Odyseja kosmiczna"
+2. **"Moonraker"** (1979) - in hunting scene at Hugo Drax's estate
+3. **"Charlie and the Chocolate Factory"** (2005) - reference to monolith from "2001"
+4. **"WALL-E"** (2008) - moment when ship's captain stands on his own feet
+5. **"Zoolander"** (2001) - parody of computer scene from "2001"
+6. **"The Big Bus"** (1976) - rare film whose fame relies mainly on use of this music
+7. **"Barbie"** (2023) - parody of "2001: A Space Odyssey" opening
 
-### Filozoficzne wpływy na filmy
-**15 filmów uznanych za filozoficznie nietzscheańskie**, w tym:
-- **"Źródło"** (The Fountain, 2006) - skupia się na koncepcji wiecznego powrotu
-- **"Dzień świstaka"** (Groundhog Day, 1993) - demonstracja wiecznego powrotu i amor fati
+### Philosophical influences on films
+**15 films considered philosophically Nietzschean**, including:
+- **"The Fountain"** (2006) - focuses on concept of eternal recurrence
+- **"Groundhog Day"** (1993) - demonstration of eternal recurrence and amor fati
 
-## 3. LITERATURA I FILOZOFIA
+## 3. LITERATURE AND PHILOSOPHY
 
-### Wpływ na wielkich pisarzy
-**Bezpośredni wpływ na twórczość literacką**:
+### Influence on great writers
+**Direct impact on literary creation**:
 
-1. **Thomas Mann** - wielokrotnie pisał o Nietzschem, jego bohaterowie walczą z definiowaniem idei w świecie, gdzie stare filozofie upadają
-2. **Hermann Hesse** - eksplorował konieczność przezwyciężenia społecznego treningu w "Wilku stepowym" i "Grze w klasy"
-3. **André Gide, André Malraux, Knut Hamsun** - znaczący wpływ na twórczość
-4. **Jack London** - napisał, że był bardziej stymulowany przez Nietzschego niż jakiegokolwiek innego pisarza
-5. **Rainer Maria Rilke** - odrzucił tradycyjny chrześcijański dualizm pod wpływem filozofii Nietzschego
+1. **Thomas Mann** - repeatedly wrote about Nietzsche, his characters struggle with defining ideas in a world where old philosophies collapse
+2. **Hermann Hesse** - explored the necessity of overcoming social conditioning in "Steppenwolf" and "The Glass Bead Game"
+3. **André Gide, André Malraux, Knut Hamsun** - significant influence on their work
+4. **Jack London** - wrote that he was more stimulated by Nietzsche than any other writer
+5. **Rainer Maria Rilke** - rejected traditional Christian dualism under influence of Nietzsche's philosophy
 
-### Poeci Beat Generation
-- **Allen Ginsberg i Gary Snyder** - przyciągnięci witalistycznymi, anty-dualistycznymi tematami
-- **August Strindberg, Robinson Jeffers, Pío Baroja, D.H. Lawrence** - wszyscy znajdowali się pod wpływem myśli Nietzschego
+### Beat Generation poets
+- **Allen Ginsberg and Gary Snyder** - attracted to vitalistic, anti-dualistic themes
+- **August Strindberg, Robinson Jeffers, Pío Baroja, D.H. Lawrence** - all influenced by Nietzsche's thought
 
-### Współczesna literatura
-**Giannina Braschi** - napisała powieść filozoficzną "United States of Banana" opartą na tłumaczeniu Waltera Kaufmana "Tako rzecze Zaratustra"
+### Contemporary literature
+**Giannina Braschi** - wrote philosophical novel "United States of Banana" based on Walter Kaufman's translation of "Thus Spoke Zarathustra"
 
-## 4. KONCEPCJA NADCZŁOWIEKA I SUPERMAN
+## 4. SUPERMAN CONCEPT AND ÜBERMENSCH
 
 ### Superman vs Übermensch
-**Kontrowersyjna relacja** między koncepcją Nietzschego a komiksowym Supermanem:
+**Controversial relationship** between Nietzsche's concept and comic book Superman:
 
-1. **Pochodzenie nazwy** - angielski termin "Superman" po raz pierwszy pojawił się w 1903 roku w sztuce George'a Bernarda Shawa "Man and Superman"
-2. **Jerry Siegel i Joe Shuster** (1934/1938) - twórcy Supermana, żydowscy licealiści z Cleveland
-3. **Wczesna krytyka** - od 1938 roku krytycy wskazywali na Nietzschego jako dowód, że komiksy to ideologiczne narzędzia europejskiego faszyzmu
-4. **Fredric Wertham** (1954) - słynny psychiatra dziecięcy nazwał Supermana "Nietzsche w żłobku"
+1. **Origin of name** - English term "Superman" first appeared in 1903 in George Bernard Shaw's play "Man and Superman"
+2. **Jerry Siegel and Joe Shuster** (1934/1938) - Superman creators, Jewish high school students from Cleveland
+3. **Early criticism** - from 1938, critics pointed to Nietzsche as proof that comics were ideological tools of European fascism
+4. **Fredric Wertham** (1954) - famous child psychiatrist called Superman "Nietzsche for the nursery"
 
-### Rzeczywista intencja twórców
-**Superman jako antyteza nazistowskiej interpretacji**:
-- Znany wcześnie jako "Champion of the Oppressed" (Obrońca Uciśnionych)
-- **Siegel i Shuster stworzyli antytezę nazistowskiego ideału**
-- Udało im się tak skutecznie wywrócić koncepcję "nadczłowieka", że termin zaczął kojarzyć się z ich bohaterem
+### Actual creators' intention
+**Superman as antithesis of Nazi interpretation**:
+- Known early as "Champion of the Oppressed"
+- **Siegel and Shuster created antithesis of Nazi ideal**
+- They successfully subverted the "superman" concept so that the term became associated with their hero
 
-### Wpływ na komiksy superbohaterskie
-**Współczesne komiksy** wykazują rosnące wyrafinowanie intelektualne w podejściu do idei nietzscheańskich:
-- **Alan Moore i Dave Gibbons** - "Watchmen" przenosi uwagę na diagnozę nihilizmu i śmierć Boga
-- **Nietzscheańska analiza** okazuje się potężnym narzędziem w analizowaniu komiksów superbohaterskich
+### Influence on superhero comics
+**Contemporary comics** show growing intellectual sophistication in approaching Nietzschean ideas:
+- **Alan Moore and Dave Gibbons** - "Watchmen" shifts focus to diagnosis of nihilism and death of God
+- **Nietzschean analysis** proves to be powerful tool in analyzing superhero comics
 
-## 5. "BÓG UMARŁ" W KULTURZE POPULARNEJ
+## 5. "GOD IS DEAD" IN POPULAR CULTURE
 
-### Oryginalny kontekst filozoficzny
-**Słynne stwierdzenie** z "Wesołej Nauki" (1882) i "Tako rzecze Zaratustra":
-- Nie oznacza, że Bóg faktycznie umarł, ale że nasze wyobrażenie o Nim przestało pełnić funkcję
-- **Sekularyzacja myśli zachodniej** doprowadziła do "zabicia Boga" rewolucją naukową
+### Original philosophical context
+**Famous statement** from "The Gay Science" (1882) and "Thus Spoke Zarathustra":
+- Doesn't mean God actually died, but that our conception of Him ceased to function
+- **Secularization of Western thought** led to "killing God" through scientific revolution
 
-### Memy internetowe i kultura cyfrowa
-**Masowa memeifikacja** cytatu:
+### Internet memes and digital culture
+**Mass memeification** of the quote:
 
-1. **TikTok** - liczne nagrania z hashtagami #godisdead, #philosophy
-2. **Twitter/X** - ironiczne przeróbki, np. "uwu speak": "God wemains dead. And we have kiwwed him. UwU"
-3. **Memy gamingowe** - "Bóg umarł i zrobiliśmy mu 360 no scope z drugiej strony mapy w 1v1 na Rust"
-4. **Know Your Meme** - oficjalna dokumentacja memu "God is dead and we killed him" w formacie Doge
+1. **TikTok** - numerous recordings with hashtags #godisdead, #philosophy
+2. **Twitter/X** - ironic parodies, e.g., "uwu speak": "God wemains dead. And we have kiwwed him. UwU"
+3. **Gaming memes** - "God is dead and we 360 no-scoped him from across the map in 1v1 on Rust"
+4. **Know Your Meme** - official documentation of "God is dead and we killed him" meme in Doge format
 
-### Kultura młodzieżowa
-**Merchandising i symbole**:
-- Naklejki z cytatem sprzedawane z tagami "tik tok meme", "sigma male", "intellectual"
-- **Używane jako symbol** egzystencjalnej udręki, intelektualnego pozowania lub internetowego humoru
+### Youth culture
+**Merchandising and symbols**:
+- Stickers with the quote sold with tags "tik tok meme", "sigma male", "intellectual"
+- **Used as symbol** of existential anguish, intellectual posturing, or internet humor
 
-## 6. GRY WIDEO I ANIME
+## 6. VIDEO GAMES AND ANIME
 
-### Metal Gear Solid - głęboki wpływ filozoficzny
-**Seria Metal Gear** jako przykład nietzscheańskich wpływów w grach:
+### Metal Gear Solid - deep philosophical influence
+**Metal Gear series** as example of Nietzschean influences in games:
 
-1. **Metal Gear Solid 3: Snake Eater** - według przewodnika Piggyback, "Wieczność Tego Samego" Nietzschego była głównym wpływem na całą serię
-2. **Übermensch i Big Boss** - idea nadczłowieka odgrywa ogromną rolę w opowieści o Big Boss i Solid Snake
-3. **Konkretne cytaty**:
-   - Metal Gear Solid V: "Nie ma faktów. Są tylko interpretacje"
-   - Metal Gear Rising: achievement "Whatever Doesn't Kill You..." za sparowanie 10 ataków
-4. **Metal Gear Solid 2** - porównywane do filozofii Hobbesa, Nietzschego i Hegla w kontekście Ery Informacji
+1. **Metal Gear Solid 3: Snake Eater** - according to Piggyback guide, Nietzsche's "Eternal Recurrence" was main influence on entire series
+2. **Übermensch and Big Boss** - superman idea plays huge role in story of Big Boss and Solid Snake
+3. **Specific quotes**:
+   - Metal Gear Solid V: "There are no facts. Only interpretations"
+   - Metal Gear Rising: achievement "Whatever Doesn't Kill You..." for parrying 10 attacks
+4. **Metal Gear Solid 2** - compared to philosophy of Hobbes, Nietzsche and Hegel in context of Information Age
 
 ### Xenosaga
-**Trilogy nawiązująca bezpośrednio**:
-- Xenosaga Episode III: "Also Sprach Zarathustra" - podtytuł wzięty z dzieła Nietzschego
-- Seria wykorzystuje biblijne obrazy i elementy prac Carla Junga oraz Nietzschego
+**Trilogy directly referencing**:
+- Xenosaga Episode III: "Also Sprach Zarathustra" - subtitle taken from Nietzsche's work
+- Series uses biblical imagery and elements from works of Carl Jung and Nietzsche
 
-### Manga i anime
-**Adaptacja w formie mangi** - "Also sprach Zarathustra (Manga de dokuha)" dostępna na Amazon, pokazująca próbę udostępnienia filozofii młodszej publiczności przez komiksy
+### Manga and anime
+**Manga adaptation** - "Also sprach Zarathustra (Manga de dokuha)" available on Amazon, showing attempt to make philosophy accessible to younger audience through comics
 
-## 7. WPŁYW NA KULTURĘ MOTYWACYJNĄ I SELF-HELP
+## 7. INFLUENCE ON MOTIVATIONAL CULTURE AND SELF-HELP
 
-### "Wola mocy" w kulturze hustle
-**Zniekształcone interpretacje** w kulturze produktywności:
-- Influencerzy mediów społecznościowych głoszący "hustle harder"
-- Bestsellery self-help obiecujące sukces przez "wolę mocy"
-- **Krytyka**: współczesna kultura hustle reprezentuje to, co Nietzsche nazywał "moralnością stadną"
+### "Will to power" in hustle culture
+**Distorted interpretations** in productivity culture:
+- Social media influencers preaching "hustle harder"
+- Self-help bestsellers promising success through "will to power"
+- **Criticism**: contemporary hustle culture represents what Nietzsche called "herd morality"
 
-### Popularne cytaty i ich kontekst
-**181 cytatów z "Woli mocy"** krąży w Internecie, często używanych motywacyjnie:
-- **"To, co nas nie zabija, czyni nas silniejszymi"** - epigrafa filmu "Conan Barbarzyńca"
-- Cytaty używane poza kontekstem filozoficznym, redukujące złożone idee do prostych mantry produktywności
+### Popular quotes and their context
+**181 quotes from "Will to Power"** circulate on Internet, often used motivationally:
+- **"What does not kill me makes me stronger"** - epigraph for "Conan the Barbarian" film
+- Quotes used outside philosophical context, reducing complex ideas to simple productivity mantras
 
-### Wpływ na psychologię
-**Alfred Adler** - zaczerpnął z Nietzschego do opracowania psychologii indywidualnej, kontrastującej z "wolą przyjemności" Freuda
+### Influence on psychology
+**Alfred Adler** - drew from Nietzsche to develop individual psychology, contrasting with Freud's "will to pleasure"
 
-## 8. PARODIE I SATYRA
+## 8. PARODIES AND SATIRE
 
-### Akademicka analiza parodii
-**Badacze uznali**, że Nietzsche instruował czytelników, by myśleli o "Tako rzecze Zaratustra" jako o rodzaju parodii:
-- Wykorzystanie gatunków parodii literackiej i muzycznej do wynalezienia nowej formy krytyki filozoficznej
-- **Nawiązanie do satyry menippejskiej** Lucjana z Samosaty
-- Zaratustra parodiuje Chrystusowy opis siebie jako "rybaka ludzi"
+### Academic analysis of parody
+**Scholars recognized** that Nietzsche instructed readers to think of "Thus Spoke Zarathustra" as kind of parody:
+- Use of literary and musical parody genres to invent new form of philosophical criticism
+- **Reference to Menippean satire** of Lucian of Samosata
+- Zarathustra parodies Christ's description of himself as "fisher of men"
 
-### Współczesne parodie filmowe
-**Większość współczesnych użyć** muzyki Straussa w filmach ma charakter komediowy:
-- Parodiują pracę Kubricka i ikoniczną scenę z "2001"
-- **Komediowy potencjał** fanfary "Wschodu słońca" w kontekstach absurdalnych
+### Contemporary film parodies
+**Most contemporary uses** of Strauss music in films are comedic:
+- Parodying Kubrick's work and iconic scene from "2001"
+- **Comedic potential** of "Sunrise" fanfare in absurd contexts
 
-## 9. SPORT I KULTURA POPULARNA
+## 9. SPORTS AND POPULAR CULTURE
 
-### Wrestling i muzyka
-**Ric Flair** - słynny wrestler używał różnych wersji fanfary jako motywu wejściowego przez większość swojej 50-letniej kariery
+### Wrestling and music
+**Ric Flair** - famous wrestler used various versions of fanfare as entrance theme throughout most of his 50-year career
 
-### Muzyka rockowa
-1. **Blink-182** - długo używał tematu jako openera koncertów
-2. **Phish** - wykonał ten temat 266 razy od 1993 roku
-3. **BBC** - używało w relacjach telewizyjnych z misji Apollo
+### Rock music
+1. **Blink-182** - long used theme as concert opener
+2. **Phish** - performed this theme 266 times since 1993
+3. **BBC** - used in television coverage of Apollo missions
 
-## 10. KULTURA AKADEMICKA I EDUKACJA
+## 10. ACADEMIC CULTURE AND EDUCATION
 
-### Polskie tłumaczenia
-**"Tako rzecze Zaratustra"** - pierwsze polskie tłumaczenie Wacława Berenta (1905):
-- Analiza stylistyczna wyróżnia archaizmy, neologizmy i wzmocnienie walorów dźwiękowych
-- **Nowsze tłumaczenia** pojawiły się w 1999 roku
-- Dostępne w polskich bibliotekach cyfrowych dla celów edukacyjnych
+### Polish translations
+**"Thus Spoke Zarathustra"** - first Polish translation by Wacław Berent (1905):
+- Stylistic analysis highlights archaisms, neologisms and enhancement of sound values
+- **Newer translations** appeared in 1999
+- Available in Polish digital libraries for educational purposes
 
-### Wpływ na teologię
-**Paradoksalnie**, Nietzsche wpłynął na niektórych teologów:
-- **Paul Tillich** - rozwinął egzystencjalistyczną teologię humanistyczną
-- **Martin Buber** - tłumaczył część "Tako rzecze Zaratustra" na język polski
+### Influence on theology
+**Paradoxically**, Nietzsche influenced some theologians:
+- **Paul Tillich** - developed existentialist humanistic theology
+- **Martin Buber** - translated part of "Thus Spoke Zarathustra" into Polish
 
-## 11. WSPÓŁCZESNE MEDIA I STREAMING
+## 11. CONTEMPORARY MEDIA AND STREAMING
 
-### Netflix i telewizja
-**"Dark"** (Netflix) - serial luźno oparty na "Tako rzecze Zaratustra" i jego temacie wiecznego powrotu
+### Netflix and television
+**"Dark"** (Netflix) - series loosely based on "Thus Spoke Zarathustra" and its theme of eternal recurrence
 
-### Literatura współczesna
-**Ciągły wpływ** na:
-- Psychoanalizę, teorię społeczną, teologię
-- Spirytualność New Age, poezję, literaturę i sztukę
-- Teoretyków kosmologii spekulatywnej i teorii ewolucji
+### Contemporary literature
+**Continuing influence** on:
+- Psychoanalysis, social theory, theology
+- New Age spirituality, poetry, literature and art
+- Speculative cosmology theorists and evolution theory
 
-## 12. KONTROWERSJE I NIEPOROZUMIENIA
+## 12. CONTROVERSIES AND MISUNDERSTANDINGS
 
-### Nazistowskie nadużycia
-**Podczas II wojny światowej**:
-- Wydanie "Tako rzecze Zaratustra" dla młodych Niemców jako inspiracja w okopach
-- **Kooptacja** przez nazistów koncepcji nadczłowieka do budowania ferwyru żołnierzy
+### Nazi abuses
+**During World War II**:
+- Edition of "Thus Spoke Zarathustra" for young Germans as inspiration in trenches
+- **Co-optation** by Nazis of superman concept to build soldier fervor
 
-### Współczesne interpretacje
-**Superman jako odpowiedź** na faszystowskie interpretacje:
-- Jerry Siegel i Joe Shuster stworzyli antytezę nazistowskiego ideału
-- **Udana subwersja** koncepcji "nadczłowieka"
+### Contemporary interpretations
+**Superman as response** to fascist interpretations:
+- Jerry Siegel and Joe Shuster created antithesis of Nazi ideal
+- **Successful subversion** of "superman" concept
 
-## Podsumowanie
+## Summary
 
-"Tako rzecze Zaratustra" Nietzschego pozostaje jednym z najbardziej wpływowych dzieł filozoficznych w kulturze popularnej. Jego wpływ przejawia się w:
+Nietzsche's "Thus Spoke Zarathustra" remains one of the most influential philosophical works in popular culture. Its influence manifests in:
 
-- **50+ konkretnych adaptacji i nawiązań** w filmie, muzyce i literaturze
-- **Masowej memeifikacji** kluczowych cytatów w kulturze internetowej
-- **Fundamentalnym wpływie na komiksy superbohaterskie** i kulturę gier wideo
-- **Kontrowersyjnych interpretacjach** od nazizmu po kulturę motywacyjną
-- **Ciągłej obecności** w akademii, teologii i psychologii
+- **50+ concrete adaptations and references** in film, music and literature
+- **Mass memeification** of key quotes in internet culture
+- **Fundamental influence on superhero comics** and video game culture
+- **Controversial interpretations** from Nazism to motivational culture
+- **Continuous presence** in academia, theology and psychology
 
-Dzieło Nietzschego pokazuje, jak głębokie idee filozoficzne mogą być jednocześnie trywializowane i popularyzowane w kulturze cyfrowej, tracąc pierwotne znaczenie, ale zyskując nową siłę kulturową jako symbole egzystencjalnej udręki, intelektualnego pozowania lub po prostu internetowego humoru.
+Nietzsche's work shows how deep philosophical ideas can be simultaneously trivialized and popularized in digital culture, losing original meaning but gaining new cultural power as symbols of existential anguish, intellectual posturing, or simply internet humor.
 
-Wpływ ten dowodzi nieśmiertelności idei filozoficznych - nawet jeśli "Bóg umarł", Nietzsche z pewnością żyje w każdym memie, filmie i piosence, które wykorzystują jego myśli do wyrażenia współczesnych lęków i aspiracji.
+This influence proves the immortality of philosophical ideas - even if "God is dead," Nietzsche certainly lives in every meme, film and song that uses his thoughts to express contemporary fears and aspirations.

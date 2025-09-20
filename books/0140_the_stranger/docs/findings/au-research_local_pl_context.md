@@ -1,172 +1,172 @@
-# Badanie lokalnego kontekstu kulturowego: "Obcy" Alberta Camusa
+# Local Cultural Context Research: "The Stranger" by Albert Camus
 
-## Wprowadzenie
+## Introduction
 
-"Obcy" (fr. "L'Étranger") Alberta Camusa, opublikowany w 1942 roku, to jedna z najważniejszych powieści egzystencjalistycznych XX wieku. W Polsce książka zyskała szczególne znaczenie kulturowe, stając się symbolem alienacji i absurdu w literaturze światowej. Niniejsze badanie przedstawia lokalny polski kontekst recepcji, interpretacji i adaptacji tego klasycznego dzieła.
+"The Stranger" (French: "L'Étranger") by Albert Camus, published in 1942, is one of the most important existentialist novels of the 20th century. In Poland, the book has gained special cultural significance, becoming a symbol of alienation and absurdity in world literature. This research presents the local Polish context of reception, interpretation, and adaptation of this classic work.
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze wydania polskie
-- **1958**: Pierwsze polskie wydanie "Obcego" - 16 lat po publikacji francuskiej
-- **Przekład**: Maria Zenowicz jako główna tłumaczka dzieł Camusa na język polski
-- **Wydania kolejne**: 
-  - A. Camus, "Obcy", przeł. M. Zenowicz, Warszawa 1985
-  - A. Camus, "Obcy", tłum. M. Zenowicz-Brandys, z posłowiem U. Klatki, Kraków 2003
+### First Polish Editions
+- **1958**: First Polish edition of "The Stranger" - 16 years after French publication
+- **Translation**: Maria Zenowicz as the main translator of Camus's works into Polish
+- **Subsequent editions**:
+  - A. Camus, "Obcy", trans. M. Zenowicz, Warsaw 1985
+  - A. Camus, "Obcy", trans. M. Zenowicz-Brandys, with afterword by U. Klatka, Krakow 2003
 
-### Współczesna dostępność
-- Książka jest "w ciągłym obiegu czytelniczym" - nieustannie czytana, przemyśliwana i interpretowana
-- Liczne wydania elektroniczne i audiobooki
-- Regularne przedruki różnych wydawnictw polskich
+### Contemporary Availability
+- The book is "in continuous readership circulation" - constantly read, contemplated, and interpreted
+- Numerous electronic editions and audiobooks
+- Regular reprints by various Polish publishers
 
-## Polscy tłumacze i ich interpretacje
+## Polish Translators and Their Interpretations
 
-### Maria Zenowicz - główna tłumaczka
-- **Wkład**: Tłumaczenie nie tylko "Obcego", ale także "Dżumy" i "Upadku" Camusa
-- **Podejście**: Zachowanie filozoficznego charakteru dzieła przy adaptacji do polskiego kontekstu językowego
-- **Spadkobierczyni**: Maria Zenowicz-Brandys kontynuowała dzieło tłumaczeniowe
+### Maria Zenowicz - Main Translator
+- **Contribution**: Translation not only of "The Stranger", but also "The Plague" and "The Fall" by Camus
+- **Approach**: Preserving the philosophical character of the work while adapting to Polish linguistic context
+- **Successor**: Maria Zenowicz-Brandys continued the translation legacy
 
-### Problemy tłumaczeniowe
-- **Francuskie "vous" i "tu"**: Tłumacz musi oddać niuanse dystansu i emocji między postaciami
-- **Melodia zdania**: Camus przykładał wagę do rytmu i stylu epoki - wyzwanie dla polszczyzny
-- **Filozofia absurdu**: Konieczność oddania specyfiki egzystencjalistycznego języka
+### Translation Challenges
+- **French "vous" and "tu"**: Translator must convey nuances of distance and emotion between characters
+- **Sentence melody**: Camus emphasized rhythm and style of the era - a challenge for Polish language
+- **Philosophy of absurd**: Necessity to render the specificity of existentialist language
 
-## "Obcy" w polskim systemie edukacyjnym
+## "The Stranger" in Polish Educational System
 
-### Status lektury szkolnej
-- **Poziom**: Liceum - lektura obowiązkowa lub uzupełniająca
-- **Ocena pedagogiczna**: "Niełatwy i wciąż aktualny tekst" idealny do przygotowań maturalnych
-- **Trudność**: "Nie jest to lektura prosta, ale zwykle najwięcej satysfakcji dostarczają dzieła najbardziej ambitne"
+### School Reading Status
+- **Level**: High school - mandatory or supplementary reading
+- **Pedagogical assessment**: "Difficult and still relevant text" ideal for high school exam preparation
+- **Difficulty**: "This is not simple reading, but usually the most ambitious works provide the most satisfaction"
 
-### Tematy maturalne z "Obcym"
-1. **Samotność i wyobcowanie człowieka w świecie** - analiza nihilistycznej postawy Meursaulta
-2. **Człowiek i Bóg w literaturze** - przedstawienie ateistycznego bohatera
-3. **Bohaterowie wyklęci przez społeczeństwo** - przyczyny wykluczenia głównej postaci
-4. **Zbrodnia bez motywu** - analiza sceny zabójstwa na plaży
+### High School Exam Topics with "The Stranger"
+1. **Human loneliness and alienation in the world** - analysis of Meursault's nihilistic attitude
+2. **Man and God in literature** - presentation of atheistic protagonist
+3. **Heroes cursed by society** - reasons for main character's exclusion
+4. **Crime without motive** - analysis of the murder scene on the beach
 
-### Filozoficzne aspekty w nauczaniu
-- **Egzystencjalizm**: Wprowadzenie uczniów w filozofię Sartre'a i Camusa
-- **Absurdyzm**: Pogląd uznający rzeczywistość za absurdalną
-- **Nihilizm egzystencjalny**: Brak celu, sensu, znaczenia i wartości życia
-- **Determinizm**: Analiza wpływu okoliczności na ludzkie wybory
+### Philosophical Aspects in Teaching
+- **Existentialism**: Introduction of students to Sartre's and Camus's philosophy
+- **Absurdism**: View recognizing reality as absurd
+- **Existential nihilism**: Lack of purpose, meaning, significance, and life values
+- **Determinism**: Analysis of circumstances' influence on human choices
 
-## Polskie adaptacje teatralne
+## Polish Theatrical Adaptations
 
-### Teatr im. Juliusza Słowackiego w Krakowie (2012)
-- **Premiera**: 27 kwietnia 2012 roku - polska prapremiera teatralna "Obcego"
-- **Zespół twórczy**:
-  - Tłumaczenie: Maria Zenowicz
-  - Adaptacja sceniczna: Tomasz Śpiewak i Anna Smolar
-  - Reżyseria: Anna Smolar
-  - Scenografia i kostiumy: Anna Met
-  - Muzyka: Jan Duszyński
+### Juliusz Slowacki Theatre in Krakow (2012)
+- **Premiere**: April 27, 2012 - Polish theatrical premiere of "The Stranger"
+- **Creative team**:
+  - Translation: Maria Zenowicz
+  - Stage adaptation: Tomasz Spiewak and Anna Smolar
+  - Direction: Anna Smolar
+  - Set design and costumes: Anna Met
+  - Music: Jan Duszynski
 
-- **Obsada główna**:
+- **Main cast**:
   - Meursault: Grzegorz Mielczarek
-  - Adwokat: Agnieszka Judycka
-  - Prokurator: Radosław Krzyżowski
+  - Lawyer: Agnieszka Judycka
+  - Prosecutor: Radoslaw Krzyzowski
 
-- **Koncepcja artystyczna**: Przedstawienie w sali sądowej, gdzie przesłuchiwany jest "M. spod Algieru" zamiast filozoficznego Meursaulta
+- **Artistic concept**: Performance in courtroom setting, where "M. from Algiers" is interrogated instead of philosophical Meursault
 
-### Inne formy adaptacji
-- **Radio**: Polskie Radio - "Dramat w Teatrze Wyobraźni" z "Obcym" Alberta Camusa
-- **Krakowskie wydarzenia kulturalne**: Klub Książki Psa Salamano organizujący dyskusje o "Obcym"
+### Other Forms of Adaptation
+- **Radio**: Polish Radio - "Drama in Theatre of Imagination" featuring Camus's "The Stranger"
+- **Krakow cultural events**: Salamano's Dog Book Club organizing discussions about "The Stranger"
 
-## Adaptacje filmowe w Polsce
+## Film Adaptations in Poland
 
-### Film Luchino Viscontiego (1967)
-- **Tytuł**: "Lo straniero" (włoska produkcja)
-- **Dystrybucja w Polsce**: Film dostępny w polskich kinach i telewizji
-- **Główna rola**: Marcello Mastroianni jako Meursault
-- **Znaczenie**: Pierwsza i najważniejsza ekranizacja powieści Camusa
+### Luchino Visconti's Film (1967)
+- **Title**: "Lo straniero" (Italian production)
+- **Distribution in Poland**: Film available in Polish cinemas and television
+- **Leading role**: Marcello Mastroianni as Meursault
+- **Significance**: First and most important screen adaptation of Camus's novel
 
-## Lokalne nawiązania i kulturowe różnice
+## Local References and Cultural Differences
 
-### Polski kontekst historyczny
-- **Recepcja powojenna**: Książka dotarła do Polski w okresie stalinowskim (1958)
-- **Rezonans społeczny**: Tematyka wyobcowania szczególnie aktualna w PRL
-- **Pokolenie '68**: "Obcy" stał się lekturą młodzieży kontestującej system
+### Polish Historical Context
+- **Post-war reception**: Book reached Poland during Stalinist period (1958)
+- **Social resonance**: Alienation themes particularly relevant in Communist Poland
+- **'68 Generation**: "The Stranger" became reading material for youth contesting the system
 
-### Specyfika polskiej interpretacji
-- **Bunt egzystencjalny**: Podobieństwa do polskich "przeklętych poetów" jak Zbigniew Herbert
-- **Tradycja katolicka**: Ateizm Meursaulta kontrastował z polską religijnością
-- **Filozofia absurdu**: Rezonowała z doświadczeniem totalitaryzmu
+### Specificity of Polish Interpretation
+- **Existential rebellion**: Similarities to Polish "cursed poets" like Zbigniew Herbert
+- **Catholic tradition**: Meursault's atheism contrasted with Polish religiosity
+- **Philosophy of absurd**: Resonated with experience of totalitarianism
 
-## Polscy badacze i interpretacje akademickie
+## Polish Scholars and Academic Interpretations
 
-### Główni polscy interpretatorzy
-- **Anna Grzegorczyk**: Kulturoznawczyni, autorka ważnej monografii o Camusie
-- **Janusz Stanisław Pasierb**: Historyk sztuki opisujący koncepcję buntu w "Buntowniku"
-- **Józef Czapski**: Malarz i pisarz, pisał o "Dżumie" w tomie "Czytając"
+### Main Polish Interpreters
+- **Anna Grzegorczyk**: Cultural studies scholar, author of important monograph on Camus
+- **Janusz Stanislaw Pasierb**: Art historian describing concept of rebellion in "The Rebel"
+- **Jozef Czapski**: Painter and writer, wrote about "The Plague" in volume "Reading"
 
-### Uniwersyteckie badania
-- **Uniwersytet Wrocławski**: Izabela Bryja - analiza porównawcza "Obcego" z "Dochodzeniem Meursaulta" Kamela Daouda
-- **Katolicki Uniwersytet Lubelski**: Publikacje o absurdzie i egzystencjalizmie
-- **Uniwersytet Jagielloński**: Dokumenty studenckie i analiza filozoficzna
+### University Research
+- **University of Wroclaw**: Izabela Bryja - comparative analysis of "The Stranger" with "The Meursault Investigation" by Kamel Daoud
+- **Catholic University of Lublin**: Publications on absurd and existentialism
+- **Jagiellonian University**: Student documents and philosophical analysis
 
-### Kierunki badań
-1. **Wpływ na polską literaturę lat 60. i 70.**: Forma "monologu mówionego" w dziele Iwaszkiewicza "Wzlot" (1957)
-2. **Postkolonialna lektura**: Analiza algerskiego kontekstu przez polskich badaczy
-3. **Związki z poezją Herberta**: Inscenizacja buntu w nurcie nieortodoksyjnego egzystencjalizmu
+### Research Directions
+1. **Influence on Polish literature of 1960s and 1970s**: Form of "spoken monologue" in Iwaszkiewicz's work "Ascent" (1957)
+2. **Postcolonial reading**: Analysis of Algerian context by Polish researchers
+3. **Connections with Herbert's poetry**: Staging rebellion in unorthodox existentialism stream
 
-## Fan community i kultura internetowa
+## Fan Community and Internet Culture
 
-### "Dzisiaj umarła mama" w kulturze Gen Z
-- **Rozpoznawalność**: Słynne pierwsze zdanie należy do kanonu cytatów literackich
-- **Memy internetowe**: Wykorzystanie w kulturze TikTok i mediów społecznościowych
-- **Młodzieżowy internet**: "Pokłady kreatywności" młodych na TikToku przy interpretacji klasyki
+### "Today, mother died" in Gen Z Culture
+- **Recognition**: Famous first sentence belongs to canon of literary quotations
+- **Internet memes**: Use in TikTok culture and social media
+- **Youth internet**: "Creative depths" of young people on TikTok interpreting classics
 
-### Cyfrowe życie "Obcego"
-- **Lubimyczytac.pl**: Aktywna społeczność czytelników, oceny i dyskusje
-- **Cytaty**: Zbiór cytatów z "Obcego" jako inspiracja dla młodych czytelników
-- **StudoCu**: Materiały studenckie i notatki dla studentów filologii
+### Digital Life of "The Stranger"
+- **Lubimyczytac.pl**: Active reader community, ratings and discussions
+- **Quotes**: Collection of quotes from "The Stranger" as inspiration for young readers
+- **StudoCu**: Student materials and notes for philology students
 
-## Problemy z tłumaczeniem i kulturowe różnice
+## Translation Problems and Cultural Differences
 
-### Wyzwania językowe
-1. **Absurd w języku polskim**: Oddanie filozoficznej precyzji francuskiego oryginału
-2. **Emocjonalny dystans**: Meursault jako postać "bez emocji" w polskiej kulturze ekspresyjnej
-3. **Kontekst śródziemnomorski**: Algieria vs. polskie realia geograficzne i klimatyczne
+### Linguistic Challenges
+1. **Absurd in Polish language**: Rendering philosophical precision of French original
+2. **Emotional distance**: Meursault as character "without emotions" in expressive Polish culture
+3. **Mediterranean context**: Algeria vs. Polish geographical and climatic realities
 
-### Różnice kulturowe w odbiorze
-- **Stosunek do śmierci**: Polski katolicyzm vs. francuski laicyzm
-- **Struktura rodzinna**: Relacja matka-syn w kontekście polskich tradycji
-- **Sprawiedliwość**: Francuski system prawny vs. polski kontekst sądowy
+### Cultural Differences in Reception
+- **Attitude toward death**: Polish Catholicism vs. French laicism
+- **Family structure**: Mother-son relationship in context of Polish traditions
+- **Justice**: French legal system vs. Polish judicial context
 
-### Współczesne problemy interpretacyjne
-- **Postkolonializm**: Młodzi polscy czytelnicy dostrzegają problematykę kolonialną
-- **Feminizm**: Krytyka męskiego spojrzenia na kobiety w powieści
-- **Nihilizm**: Recepcja w dobie kryzysu wartości XXI wieku
+### Contemporary Interpretative Problems
+- **Postcolonialism**: Young Polish readers notice colonial issues
+- **Feminism**: Criticism of male perspective on women in the novel
+- **Nihilism**: Reception in era of 21st century value crisis
 
-## Regionalne nawiązania krakowskie
+## Regional Krakow References
 
-### Teatr Słowackiego
-- Jedyna polska prapremiera teatralna "Obcego" (2012)
-- Tradycja adaptacji literatury francuskiej w Krakowie
-- Związki z Instytutem Francuskim w Krakowie
+### Slowacki Theatre
+- Only Polish theatrical premiere of "The Stranger" (2012)
+- Tradition of French literature adaptations in Krakow
+- Connections with French Institute in Krakow
 
-### Środowisko akademickie Krakowa
-- **Uniwersytet Jagielloński**: Regularne seminaria o literaturze francuskiej
-- **Studenci filologii francuskiej**: "Obcy" jako lektura obowiązkowa
-- **Karnet Kraków**: Kulturalne wydarzenia wokół dzieł Camusa
+### Krakow Academic Environment
+- **Jagiellonian University**: Regular seminars on French literature
+- **French philology students**: "The Stranger" as mandatory reading
+- **Krakow Cultural Card**: Cultural events around Camus's works
 
-### Małopolskie konteksty
-- **Festiwale literackie**: "Obcy" w programach wydarzeń kulturalnych
-- **Księgarnie**: Regularna dostępność w księgarniach akademickich
-- **Biblioteki**: Wysoka pozycja wypożyczeń w bibliotekach miejskich
+### Lesser Poland Contexts
+- **Literary festivals**: "The Stranger" in cultural event programs
+- **Bookstores**: Regular availability in academic bookstores
+- **Libraries**: High borrowing position in city libraries
 
-## Wnioski
+## Conclusions
 
-"Obcy" Alberta Camusa zajmuje wyjątkowe miejsce w polskiej kulturze literackiej. Od pierwszego polskiego wydania w 1958 roku książka przeszła długą drogę od dzieła filozoficznego do ikony kulturowej rozpoznawalnej przez kolejne pokolenia Polaków. 
+"The Stranger" by Albert Camus occupies a unique place in Polish literary culture. Since the first Polish edition in 1958, the book has traveled a long path from philosophical work to cultural icon recognizable by successive generations of Poles.
 
-Polska recepcja "Obcego" charakteryzuje się:
+Polish reception of "The Stranger" is characterized by:
 
-1. **Głębokim zakotwiczeniem w systemie edukacyjnym**: Książka kształci filozoficzne myślenie młodzieży
-2. **Ciągłą reinterpretacją**: Od kontekstu PRL-owskiego po współczesną kulturę internetową
-3. **Lokalną adaptacją**: Polskie teatr i badania naukowe tworzą własną tradycję interpretacyjną
-4. **Międzypokoleniową transmisją**: Od Maria Zenowicz po Gen Z na TikToku
+1. **Deep anchoring in educational system**: Book shapes philosophical thinking of youth
+2. **Continuous reinterpretation**: From Communist Poland context to contemporary internet culture
+3. **Local adaptation**: Polish theatre and scientific research create own interpretative tradition
+4. **Intergenerational transmission**: From Maria Zenowicz to Gen Z on TikTok
 
-Dla polskich czytelników "Obcy" pozostaje nie tylko klasykiem światowej literatury, ale także zwierciadłem własnych doświadczeń alienacji, buntu i poszukiwania sensu w świecie pozbawionym jednoznacznych odpowiedzi.
+For Polish readers, "The Stranger" remains not only a classic of world literature, but also a mirror of their own experiences of alienation, rebellion, and search for meaning in a world devoid of unambiguous answers.
 
 ---
 
-*Badanie przeprowadzone dla projektu 37degrees (@37stopni) - popularyzacji klasyki literatury światowej wśród polskiej młodzieży.*
+*Research conducted for 37degrees project (@37stopni) - popularization of world literature classics among Polish youth.*

@@ -1,127 +1,127 @@
 # Long Day's Journey Into Night - Dark Drama Research
 
-## 🎭 Podstawowe Informacje
-- **Tytuł**: Long Day's Journey Into Night
-- **Tytuł polski**: Długa podróż dnia ku nocy  
-- **Autor**: Eugene O'Neill
-- **Rok wydania**: 1956
-- **Gatunek**: Dramat autobiograficzny
+## 🎭 Basic Information
+- **Title**: Long Day's Journey Into Night
+- **Polish Title**: Długa podróż dnia ku nocy
+- **Author**: Eugene O'Neill
+- **Publication Year**: 1956
+- **Genre**: Autobiographical Drama
 
 ---
 
-## 🔴 SKANDALE I KONTROWERSJE AUTORA
+## 🔴 AUTHOR SCANDALS AND CONTROVERSIES
 
-### Próby samobójcze i uzależnienia
-1. **FAKT**: O'Neill podjął próbę samobójstwa w 1912 roku w pensjonacie Jimmy-the-Priest's w Nowym Jorku
-2. **FAKT**: Cierpiał na ciężką depresję i alkoholizm w młodości, często pijąc się do nieprzytomności
-3. **FAKT**: Jego ojciec James O'Neill był alkoholikiem, a matka Mary Ellen Quinlan uzależniona od morfiny
-4. **FAKT**: O'Neill w wieku 40 lat przestał pić po ostrzeżeniu lekarza o impotencji i utracie zdolności pisania
+### Suicide Attempts and Addictions
+1. **FACT**: O'Neill attempted suicide in 1912 at the Jimmy-the-Priest's boarding house in New York
+2. **FACT**: He suffered from severe depression and alcoholism in his youth, often drinking himself into unconsciousness
+3. **FACT**: His father James O'Neill was an alcoholic, and his mother Mary Ellen Quinlan was addicted to morphine
+4. **FACT**: O'Neill stopped drinking at age 40 after a doctor warned him about impotence and loss of writing ability
 
-### Rodzinne dramaty i skandale
-5. **FAKT**: Wydziedziczył córkę Oonę w 1943 roku za małżeństwo z Charlie Chaplinem (ona 18 lat, on 54 lata)
-6. **FAKT**: Nigdy więcej nie widział córki Oony po jej ślubie z Chaplinem
-7. **FAKT**: Jego najstarszy syn Eugene O'Neill Jr. popełnił samobójstwo w 1950 roku w wieku 40 lat
-8. **FAKT**: Syn Shane stał się narkomanem heroiny i również popełnił samobójstwo, wyskakując z okna
-9. **FAKT**: Był żonaty trzy razy i miał trójkę dzieci, ale nigdy nie był blisko żadnego z nich
+### Family Dramas and Scandals
+5. **FACT**: He disowned his daughter Oona in 1943 for marrying Charlie Chaplin (she was 18, he was 54)
+6. **FACT**: He never saw his daughter Oona again after her marriage to Chaplin
+7. **FACT**: His eldest son Eugene O'Neill Jr. committed suicide in 1950 at age 40
+8. **FACT**: His son Shane became a heroin addict and also committed suicide by jumping from a window
+9. **FACT**: He was married three times and had three children but was never close to any of them
 
-### Problematyczne zachowania
-10. **FAKT**: Kariera w Princeton zakończyła się wykluczeniem za "picie i kobieciarstwo" oraz słabe wyniki
-11. **FAKT**: Miał romans z żoną prominentnego komunistycznego dziennikarza śledczego
-12. **ZARZUT**: Była żona Agnes Boulton opisywała jego "nagłe i dość straszne wybuchy przemocy oraz gorycz i złośliwość, gdy wydawał się bardziej jak szaleniec"
+### Problematic Behaviors
+10. **FACT**: His Princeton career ended in expulsion for "drinking and womanizing" and poor grades
+11. **FACT**: He had an affair with the wife of a prominent communist investigative journalist
+12. **ACCUSATION**: His ex-wife Agnes Boulton described his "sudden and rather frightening outbursts of violence and bitterness and malice when he seemed more like a madman"
 
-### Późniejsze problemy zdrowotne
-13. **FAKT**: Przez ostatnie 8 lat życia w ogóle nie pił alkoholu
-14. **PLOTKA**: Uważał, że cierpi na uszkodzenie mózgu spowodowane latami alkoholizmu
-15. **FAKT**: Badania z 2000 roku wykazały, że zmarł na zanikowe zwyrodnienie kory móżdżku, rzadkie schorzenie neurologiczne niezwiązane z alkoholem
-16. **FAKT**: Mimo całkowitego odstawienia alkoholu, ręce nadal mu się trzęsły niekontrolowanie i stracił koordynację
-
----
-
-## 🌟 UKRYTE ZNACZENIA I OCCULT SYMBOLISM
-
-### Symbolika mgły i światła
-17. **FAKT**: Mgła reprezentuje zapomnienie i samooszukiwanie się, symbolizuje stopniowe niszczenie rodziny Tyrone
-18. **FAKT**: Mgła symbolizuje mieszankę upojenia i zaprzeczania, gdy postacie próbują unikać swoich problemów
-19. **FAKT**: Syrena przeciwmgłowa symbolizuje alarm dla spokojnych umysłów, przypominając o grzechach i wywołując poczucie winy
-20. **FAKT**: Zarówno Mary jak Edmund nienawidzą syreny, bo przypomina im o ich błędach
-
-### Ukryte znaczenia tytułu
-21. **FAKT**: Tytuł symbolizuje jak działa życie - zaczynając od "długiego dnia", który zmierza ku śmierci, "nocy"
-22. **FAKT**: Cykliczny ruch czasu od dnia do nocy reprezentuje jeden z centralnych symboli - rodzina Tyrone uwięziona w podobnym destrukcyjnym cyklu
-
-### Symbolika substancji
-23. **FAKT**: Alkohol i morfina funkcjonują jako symbole ucieczki - nikt w rodzinie nie ma dokąd pójść dosłownie ani metaforycznie
-24. **FAKT**: "Trucizna" wskazuje na unikalną negatywność postaci - James Tyrone często używa tego słowa opisując narkotyki żony
+### Later Health Problems
+13. **FACT**: For the last 8 years of his life he didn't drink alcohol at all
+14. **RUMOR**: He believed he suffered from brain damage caused by years of alcoholism
+15. **FACT**: Research from 2000 showed he died from cortical cerebellar atrophy, a rare neurological disorder unrelated to alcohol
+16. **FACT**: Despite complete abstinence from alcohol, his hands continued to shake uncontrollably and he lost coordination
 
 ---
 
-## 🎪 CONSPIRACY THEORIES I MROCZNE INTERPRETACJE
+## 🌟 HIDDEN MEANINGS AND OCCULT SYMBOLISM
 
-### Autobiograficzna natura skandalu
-25. **FAKT**: Sztuka jest tak autobiograficzna i mroczna, że O'Neill chciał, aby pozostała niepublikowana przez 25 lat po jego śmierci
-26. **FAKT**: O'Neill nazwał ją "sztuką starego smutku, napisaną we łzach i krwi"
-27. **FAKT**: Dał wyraźne instrukcje, że sztuka nie ma być publikowana przez 25 lat po jego śmierci i nigdy nie ma być wystawiana na scenie
+### Fog and Light Symbolism
+17. **FACT**: Fog represents forgetfulness and self-deception, symbolizing the gradual destruction of the Tyrone family
+18. **FACT**: Fog symbolizes a mixture of intoxication and denial as characters try to avoid their problems
+19. **FACT**: The foghorn symbolizes an alarm for peaceful minds, reminding of sins and evoking guilt
+20. **FACT**: Both Mary and Edmund hate the foghorn because it reminds them of their mistakes
 
-### Psychologiczna analiza rodzinnej destrukcji
-28. **FAKT**: Sztuka przedstawia rodzinę, w której wszyscy członkowie obwiniają i nienawidzą się nawzajem
-29. **FAKT**: Gorycz i zazdrość służą jako zastępstwo dla ostatecznie nieudanych prób czułości i współczucia
-30. **FAKT**: Rodzice i synowie obwiniają okoliczności lub siebie nawzajem, odmawiając przyjęcia odpowiedzialności
+### Hidden Meanings of the Title
+21. **FACT**: The title symbolizes how life works - starting from a "long day" that moves toward death, "night"
+22. **FACT**: The cyclical movement of time from day to night represents one of the central symbols - the Tyrone family trapped in a similar destructive cycle
 
-### Prorocze elementy współczesnego kryzysu
-31. **FAKT**: Uzależnienie Mary od morfiny rozpoczęło się od przepisanych środków przeciwbólowych po porodzie - wzorzec odzwierciedlający początki dzisiejszego kryzysu opioidowego
-32. **FAKT**: Sztuka pokazuje głębokie zaprzeczanie nadużywaniu substancji i przedstawia jednostki "niezdolne do radzenia sobie z rzeczywistością"
-33. **FAKT**: Przedstawia cykle traumy i obwiniania, które są uniwersalne dla dysfunkcyjnych rodzin
+### Substance Symbolism
+23. **FACT**: Alcohol and morphine function as symbols of escape - no one in the family has anywhere to go literally or metaphorically
+24. **FACT**: "Poison" indicates the unique negativity of the characters - James Tyrone often uses this word describing his wife's drugs
 
 ---
 
-## 💰 FINANCIAL SCANDALS I MONEY DRAMA
+## 🎪 CONSPIRACY THEORIES AND DARK INTERPRETATIONS
 
-### Skandal wydawniczy z Carlotta Monterey
-34. **FAKT**: Wkrótce po śmierci O'Neilla jego wdowa Carlotta Monterey zażądała od Random House opublikowania sztuki wbrew wyraźnym życzeniom pisarza
-35. **FAKT**: "Odmówiliśmy oczywiście" - napisał wydawca Bennett Cerf w swoich wspomnieniach, "ale potem byliśmy przerażeni, gdy dowiedzieliśmy się, że prawnie wszystkie karty były w jej rękach"
-36. **FAKT**: Random House początkowo odmówił z szacunku dla życzeń O'Neilla, ale Monterey w furii zabrała manuskrypt do Yale University Press
+### Autobiographical Nature of the Scandal
+25. **FACT**: The play is so autobiographical and dark that O'Neill wanted it to remain unpublished for 25 years after his death
+26. **FACT**: O'Neill called it "a play of old sorrow, written in tears and blood"
+27. **FACT**: He gave explicit instructions that the play should not be published for 25 years after his death and never be performed on stage
 
-### Batalie prawne o spadek
-37. **FAKT**: W testamencie O'Neill przyznał żonie Carlotta prawa do swoich prywatnych papierów i własności literackiej
-38. **PLOTKA**: Najprawdopodobniejsze wyjaśnienie jej działań to proaktywne zapobieganie możliwym alternatywnym roszczeniom do praw, szczególnie od drugiej żony Agnes Boulton
+### Psychological Analysis of Family Destruction
+28. **FACT**: The play presents a family where all members blame and hate each other
+29. **FACT**: Bitterness and jealousy serve as substitutes for ultimately failed attempts at tenderness and compassion
+30. **FACT**: Parents and sons blame circumstances or each other, refusing to accept responsibility
 
-### Dystrybucja dochodów
-39. **FAKT**: Monterey kazała opublikować sztukę Yale University Press w 1956, z większością dochodów przeznaczonych na Kolekcję Eugene'a O'Neilla w Yale i stypendia w szkole dramatycznej
-40. **FAKT**: Tantiemy ze sprzedaży finansują stypendia dla studentów Szkoły Dramatycznej i wspierają Program Pisarstwa Dramatycznego O'Neilla na Yale do dziś
-41. **FAKT**: Tantiemy z pierwszej szwedzkiej produkcji zostały przekazane obsadzie teatru sztokholmskiego
+### Prophetic Elements of Modern Crisis
+31. **FACT**: Mary's morphine addiction began with prescribed painkillers after childbirth - a pattern reflecting the beginnings of today's opioid crisis
+32. **FACT**: The play shows deep denial of substance abuse and presents individuals "unable to cope with reality"
+33. **FACT**: It portrays cycles of trauma and blame that are universal to dysfunctional families
+
+---
+
+## 💰 FINANCIAL SCANDALS AND MONEY DRAMA
+
+### Publishing Scandal with Carlotta Monterey
+34. **FACT**: Shortly after O'Neill's death, his widow Carlotta Monterey demanded Random House publish the play against the writer's explicit wishes
+35. **FACT**: "We refused of course" - wrote publisher Bennett Cerf in his memoirs, "but then we were horrified when we learned that legally all the cards were in her hands"
+36. **FACT**: Random House initially refused out of respect for O'Neill's wishes, but Monterey angrily took the manuscript to Yale University Press
+
+### Legal Battles over the Estate
+37. **FACT**: In his will, O'Neill granted his wife Carlotta rights to his private papers and literary property
+38. **RUMOR**: The most likely explanation for her actions was proactively preventing possible alternative claims to the rights, especially from his second wife Agnes Boulton
+
+### Income Distribution
+39. **FACT**: Monterey had the play published by Yale University Press in 1956, with most proceeds designated for the Eugene O'Neill Collection at Yale and drama school scholarships
+40. **FACT**: Royalties from sales fund scholarships for Drama School students and support the O'Neill Playwriting Program at Yale to this day
+41. **FACT**: Royalties from the first Swedish production were given to the Stockholm theater cast
 
 ---
 
 ## 🏛️ GOVERNMENT CENSORSHIP THEORIES
 
-### Brak zewnętrznej cenzury rządowej
-42. **FAKT**: Nie znaleziono dowodów na cenzurę rządową lub religijną sprzeciwy wobec sztuki
-43. **FAKT**: Ograniczenia były osobistymi życzeniami O'Neilla, nie zewnętrzną cenzurą
-44. **FAKT**: Sztuka została dobrze przyjęta krytycznie i zdobyła główne nagrody po wydaniu
+### Absence of External Government Censorship
+42. **FACT**: No evidence was found of government censorship or religious opposition to the play
+43. **FACT**: The restrictions were O'Neill's personal wishes, not external censorship
+44. **FACT**: The play was well received by critics and won major awards after publication
 
-### Sukces krytyczny mimo kontrowersji
-45. **FAKT**: Sztuka miała premierę 2 lutego 1956 roku w Royal Dramatic Theatre w Sztokholmie
-46. **FAKT**: Otworzyła się na Broadwayu w listopadzie 1956 roku, zdobywając nagrodę Tony dla najlepszej sztuki
-47. **FAKT**: Jest często umieszczana obok "A Streetcar Named Desire" Tennessee Williamsa i "Death of a Salesman" Arthura Millera na listach najlepszych amerykańskich sztuk XX wieku
+### Critical Success Despite Controversy
+45. **FACT**: The play premiered on February 2, 1956, at the Royal Dramatic Theatre in Stockholm
+46. **FACT**: It opened on Broadway in November 1956, winning the Tony Award for Best Play
+47. **FACT**: It is often placed alongside Tennessee Williams' "A Streetcar Named Desire" and Arthur Miller's "Death of a Salesman" on lists of the best American plays of the 20th century
 
 ---
 
-## 🔮 PROPHECY CHECK - CO SIĘ SPRAWDZIŁO
+## 🔮 PROPHECY CHECK - WHAT CAME TRUE
 
-### Przepowiednie o kryzysie uzależnień
-48. **FAKT**: Przedstawienie uzależnienia od morfiny Mary zaczęte od przepisanych leków okazało się prorocze wobec współczesnego kryzysu opioidowego
-49. **FAKT**: Cykle zaprzeczania, obwiniania i dysfunkcji rodzinnej przedstawione w sztuce przewidziały wzorce współczesnych problemów rodzinnych
-50. **FAKT**: Sztuka jako "współczesna tragedia" sugeruje, że czytelnicy mogą "łatwo ponieść podobne konsekwencje, jeśli nie stawią czoła swojej przeszłości"
+### Predictions about Addiction Crisis
+48. **FACT**: The portrayal of Mary's morphine addiction starting with prescribed medication proved prophetic regarding the contemporary opioid crisis
+49. **FACT**: The cycles of denial, blame, and family dysfunction presented in the play predicted patterns of contemporary family problems
+50. **FACT**: The play as a "modern tragedy" suggests that readers can "easily suffer similar consequences if they don't face their past"
 
 ---
 
 ## 📚 BIBLIOGRAPHY DRAMA
 
-### Dokumenty i manuskrypty
-- **FAKT**: Agnes Boulton posiadała wczesny manuskrypt wstępnego szkicu O'Neilla napisanego prawie 30 lat wcześniej
-- **FAKT**: Istnieje "Umowa między Carlotta Monterey O'Neill a Uniwersytetem Yale dotycząca Long Day's Journey Into Night"
-- **FAKT**: Korespondencja między Tennessee Williams a Eugene O'Neillem została odkryta przez profesora University of Kentucky
+### Documents and Manuscripts
+- **FACT**: Agnes Boulton possessed an early manuscript of O'Neill's preliminary draft written almost 30 years earlier
+- **FACT**: There exists an "Agreement between Carlotta Monterey O'Neill and Yale University regarding Long Day's Journey Into Night"
+- **FACT**: Correspondence between Tennessee Williams and Eugene O'Neill was discovered by a University of Kentucky professor
 
 ---
 
-*Ten dokument przedstawia badania nad mrocznymi aspektami "Long Day's Journey Into Night" w celach edukacyjnych i analitycznych. Wszystkie informacje zostały zweryfikowane przez dostępne źródła historyczne i literackie.*
+*This document presents research on the dark aspects of "Long Day's Journey Into Night" for educational and analytical purposes. All information has been verified through available historical and literary sources.*

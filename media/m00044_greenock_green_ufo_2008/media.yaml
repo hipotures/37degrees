@@ -1,0 +1,15 @@
+media_info:
+  title: Greenock Green UFO - May 1, 2008
+  author: UFO Documentation
+  year: 2008
+  genre: Contemporary UFO Documentary
+  description: A solid green glowing UFO with an orange trail crossed the sky silently
+    over this Scottish port town, witnessed by multiple observers
+  target_audience: General public, students, UFO researchers, Scottish UFO enthusiasts
+  duration: ~3 minutes
+  objective: Document a modern UFO sighting with distinctive green coloration that
+    defied conventional aircraft explanation
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

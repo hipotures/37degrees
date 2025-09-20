@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "U.S. Army and Air Force personnel establish security perimeter"
+  setting:
+    time: "December 9, 1965, 7:00 PM, night"
+    location: "Forest edge with military vehicles and security barriers around impact site"
+    weather: "Cold December night, frost forming on equipment"
+  characters:
+    - appearance: "Young Caucasian man, 20s, short military haircut, serious expression"
+      clothing: "Olive drab M-1965 field jacket, M1 steel helmet, combat boots, military patches visible"
+      position: "Standing guard at rope barrier, rifle at ready"
+      action: "Standing guard, rifle at ready position, disciplined military bearing"
+    - appearance: "Middle-aged Caucasian man, 40s, clean-shaven, confident expression, officer insignia"
+      clothing: "Olive drab officer uniform, peaked cap, leather boots, binoculars around neck"
+      position: "Near command tent, coordinating operations"
+      action: "Commanding stance, pointing directions, clipboard or radio in hand"
+    - appearance: "Young Caucasian man, 20s, short military haircut, serious expression"
+      clothing: "Olive drab M-1965 field jacket, M1 steel helmet, combat boots, military patches visible"
+      position: "Patrolling perimeter with another soldier"
+      action: "Walking patrol route, checking security barriers, maintaining alert posture"
+  scene:
+    mainElements: "Army trucks, jeeps, rope barriers, soldiers on guard duty, portable floodlights"
+    details: "Olive drab military deuce-and-a-half truck with canvas top, military markings, heavy-duty tires, cargo area with tailgate, 1960s military vehicle design, soldiers establishing secure perimeter with rope barriers, tripod-mounted flood light with large reflector, portable generator power source, military field equipment for night operations, officers with radio equipment, no text or letters visible"
+    background: "Highly secured area with military efficiency and restricted civilian access"
+    atmosphere: "Professional military operation with complete control of impact site, sense of high-level security and classified importance"
+  composition:
+    cameraAngle: "Wide shot showing military perimeter and multiple vehicles"
+    focus: "Military personnel and vehicles establishing comprehensive security perimeter"
+    depth: "Guard posts and barriers in foreground, military vehicles and command area in middle ground, dark forest with impact site in background"

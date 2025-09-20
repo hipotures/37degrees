@@ -1,330 +1,330 @@
-# Mary Wollstonecraft: Przewidywania vs Rzeczywistość - Analiza Trafności i Mądrość dla Gen Z
+# Mary Wollstonecraft: Predictions vs Reality - Accuracy Analysis and Wisdom for Gen Z
 
-## Wprowadzenie
+## Introduction
 
-Mary Wollstonecraft w 1792 roku opublikowała "Wołanie o prawa kobiety" - jeden z najwcześniejszych traktatów feministycznych w historii. Jej rewolucyjne przewidywania o edukacji kobiet, równości płci i prawach politycznych były tak radykalne, że większość społeczeństwa potrzebowała ponad 200 lat, aby je zrealizować. Dzisiaj, w 2024 roku, możemy ocenić, które z jej wizji się sprawdziły, a które wciąż czekają na urzeczywistnienie.
+Mary Wollstonecraft published "A Vindication of the Rights of Woman" in 1792 - one of the earliest feminist treatises in history. Her revolutionary predictions about women's education, gender equality, and political rights were so radical that most of society needed over 200 years to realize them. Today, in 2024, we can evaluate which of her visions came true and which are still waiting to be fulfilled.
 
-## Część I: Przewidywania Które Się Sprawdziły 
+## Part I: Predictions That Came True
 
-### 1. Edukacja Kobiet - TRAFNE ✅
+### 1. Women's Education - ACCURATE ✅
 
-**Przewidywanie Wollstonecraft (1792):**
-> "Kobiety powinny otrzymać edukację proporcjonalną do ich pozycji w społeczeństwie. Mężczyźni i kobiety powinni być 'kształceni według tego samego modelu'."
+**Wollstonecraft's Prediction (1792):**
+> "Women should receive education proportional to their position in society. Men and women should be 'educated according to the same model'."
 
-**Rzeczywistość 2024:**
-- Kobiety stanowią 60% absolwentów uczelni wyższych w Polsce
-- W wielu krajach dziewczęta przewyższają chłopców w wynikach edukacyjnych
-- Koedukacja stała się standardem w większości krajów rozwiniętych
+**Reality 2024:**
+- Women constitute 60% of university graduates in Poland
+- In many countries, girls outperform boys in educational outcomes
+- Coeducation became the standard in most developed countries
 
-**Czas realizacji:** ~100-150 lat (masowo od połowy XX wieku)
+**Time to realization:** ~100-150 years (mass implementation from mid-20th century)
 
-### 2. Prawa Wyborcze - TRAFNE ✅
+### 2. Voting Rights - ACCURATE ✅
 
-**Przewidywanie Wollstonecraft (1792):**
-> "Naprawdę uważam, że kobiety powinny mieć przedstawicieli, zamiast być arbitralnie rządzone bez bezpośredniego udziału w obradach rządu."
+**Wollstonecraft's Prediction (1792):**
+> "I really think that women should have representatives, instead of being arbitrarily governed without direct participation in governmental deliberations."
 
-**Rzeczywistość 2024:**
-- Kobiety mają prawo głosu we wszystkich krajach demokratycznych
-- Pierwsze prawa wyborcze dla kobiet: Nowa Zelandia 1893, Polska 1918
-- Obecnie kobiety stanowią większość wyborców w wielu krajach
+**Reality 2024:**
+- Women have voting rights in all democratic countries
+- First women's voting rights: New Zealand 1893, Poland 1918
+- Currently women constitute the majority of voters in many countries
 
-**Czas realizacji:** ~125 lat (masowo w pierwszej połowie XX wieku)
+**Time to realization:** ~125 years (mass implementation in first half of 20th century)
 
-### 3. Zawodowa Równość - CZĘŚCIOWO TRAFNE ⚠️
+### 3. Professional Equality - PARTIALLY ACCURATE ⚠️
 
-**Przewidywanie Wollstonecraft (1792):**
-> "Kobiety powinny mieć wolność rozpoczynania biznesu, kontynuowania kariery zawodowej."
+**Wollstonecraft's Prediction (1792):**
+> "Women should have the freedom to start businesses, continue professional careers."
 
-**Rzeczywistość 2024:**
-- ✅ Kobiety mogą pracować we wszystkich zawodach
-- ✅ Liczne kobiety CEO, liderki polityczne
-- ❌ Wciąż istnieje luka płacowa (średnio 15-20% w krajach OECD)
-- ❌ "Szklany sufit" w wielu branżach
+**Reality 2024:**
+- ✅ Women can work in all professions
+- ✅ Numerous women CEOs, political leaders
+- ❌ Pay gap still exists (average 15-20% in OECD countries)
+- ❌ "Glass ceiling" in many industries
 
-**Czas realizacji:** W trakcie - rozpoczął się w XX wieku, wciąż trwa
+**Time to realization:** Ongoing - started in 20th century, still in progress
 
-### 4. Małżeństwo jako Partnerstwo - TRAFNE ✅
+### 4. Marriage as Partnership - ACCURATE ✅
 
-**Przewidywanie Wollstonecraft (1792):**
-> "Małżeństwo powinno opierać się na przyjaźni, równości i wzajemnym szacunku, nie na finansach czy wyglądzie."
+**Wollstonecraft's Prediction (1792):**
+> "Marriage should be based on friendship, equality and mutual respect, not on finances or appearance."
 
-**Rzeczywistość 2024:**
-- Małżeństwa z miłości stały się normą w krajach zachodnich
-- Kobiety mogą inicjować rozwód
-- Współczesne pary coraz częściej dzielą obowiązki domowe i wychowawcze
-- Koncepcja "romantic partnership" jest standardem
+**Reality 2024:**
+- Love marriages became the norm in Western countries
+- Women can initiate divorce
+- Contemporary couples increasingly share domestic and child-rearing duties
+- The concept of "romantic partnership" is standard
 
-**Czas realizacji:** ~150-200 lat (masowo od drugiej połowy XX wieku)
+**Time to realization:** ~150-200 years (mass implementation from second half of 20th century)
 
-## Część II: Przewidywania Które Się NIE Sprawdziły
+## Part II: Predictions That Did NOT Come True
 
-### 1. Koniec Romansu i Namiętności - NIETRAFNE ❌
+### 1. End of Romance and Passion - INACCURATE ❌
 
-**Przewidywanie Wollstonecraft (1792):**
-> "Precz z romansem. Aby wyzwolić kobiety i mężczyzn, małżeństwo powinno być pozbawione namiętności. Namiętny romans tworzy nierówności władzy."
+**Wollstonecraft's Prediction (1792):**
+> "Away with romance. To liberate women and men, marriage should be devoid of passion. Passionate romance creates power inequalities."
 
-**Rzeczywistość 2024:**
-- Miłość romantyczna jest nadal podstawą związków
-- Kultura popularna gloryfikuje namiętność
-- Gen Z wciąż szuka "prawdziwej miłości" mimo krytyki wobec aplikacji randkowych
-- Namiętność nie została wyeliminowana, ale przekształciła się w bardziej równościowe formy
+**Reality 2024:**
+- Romantic love is still the foundation of relationships
+- Popular culture glorifies passion
+- Gen Z still seeks "true love" despite criticism of dating apps
+- Passion wasn't eliminated, but transformed into more egalitarian forms
 
-### 2. Uniwersalny Racjonalizm - CZĘŚCIOWO NIETRAFNE ❌
+### 2. Universal Rationalism - PARTIALLY INACCURATE ❌
 
-**Przewidywanie Wollstonecraft (1792):**
-> "Cnota nigdy nie zapanuje w społeczeństwie, dopóki cnoty obu płci nie zostaną oparte na rozumie."
+**Wollstonecraft's Prediction (1792):**
+> "Virtue will never prevail in society until the virtues of both sexes are founded on reason."
 
-**Rzeczywistość 2024:**
-- Społeczeństwo wciąż kieruje się emocjami, tradycjami, instynktami
-- Media społecznościowe często promują populizm nad racjonalność
-- Gen Z paradoksalnie łączy wysokie wykształcenie z decyzjami opartymi na "vibes"
+**Reality 2024:**
+- Society still driven by emotions, traditions, instincts
+- Social media often promotes populism over rationality
+- Gen Z paradoxically combines high education with decisions based on "vibes"
 
-### 3. Szybka Transformacja Społeczna - NIETRAFNE ❌
+### 3. Rapid Social Transformation - INACCURATE ❌
 
-**Przewidywanie Wollstonecraft (1792):**
-Spodziewała się szybkich zmian po wprowadzeniu równej edukacji.
+**Wollstonecraft's Prediction (1792):**
+She expected rapid changes after introducing equal education.
 
-**Rzeczywistość 2024:**
-- Zmiany społeczne trwały ponad 200 lat
-- Wciąż istnieją znaczne różnice kulturowe między krajami
-- Niektóre społeczeństwa wycofują się z równości płci
+**Reality 2024:**
+- Social changes took over 200 years
+- Still significant cultural differences between countries
+- Some societies are retreating from gender equality
 
-## Część III: Analiza Związków - Red Flags Wczoraj vs Dziś
+## Part III: Relationship Analysis - Red Flags Yesterday vs Today
 
-### Toksyczne Wzorce - Niezmiennie Aktualne
+### Toxic Patterns - Consistently Relevant
 
-**XVIII wiek według Wollstonecraft:**
-- Kontrola finansowa przez męża
-- Izolacja od rodziny i przyjaciół
-- Traktowanie żony jako własności
-- Przemoc domowa (legalna do XIX wieku)
-- Brak głosu w decyzjach rodzinnych
+**18th Century According to Wollstonecraft:**
+- Financial control by husband
+- Isolation from family and friends
+- Treating wife as property
+- Domestic violence (legal until 19th century)
+- No voice in family decisions
 
-**2024 - Te Same Czerwone Flagi:**
-- Kontrolowanie wydatków partnera
-- Izolowanie od bliskich
-- Szantaż emocjonalny i manipulacja
-- Przemoc psychiczna i fizyczna
-- Dominacja w relacji
+**2024 - Same Red Flags:**
+- Controlling partner's spending
+- Isolating from loved ones
+- Emotional blackmail and manipulation
+- Psychological and physical violence
+- Dominance in relationship
 
-**Uniwersalna Mądrość:** Znaki toksycznego związku pozostają niezmienne przez wieki. Wollstonecraft miała rację - podstawą zdrowego związku jest równość, szacunek i wzajemna autonomia.
+**Universal Wisdom:** Signs of toxic relationships remain unchanged through centuries. Wollstonecraft was right - the foundation of healthy relationships is equality, respect, and mutual autonomy.
 
-### Nowe Red Flags Epoki Cyfrowej
+### New Red Flags of the Digital Era
 
-**Współczesne Zagrożenia, Których Wollstonecraft Nie Przewidziała:**
+**Contemporary Threats Wollstonecraft Didn't Predict:**
 
-1. **Digital Stalking:** Sprawdzanie aktywności w mediach społecznościowych
-2. **Love Bombing w Aplikacjach:** Nadmierne komplementy na początku znajomości
-3. **Breadcrumbing:** Sporadyczne wiadomości bez rzeczywistego zaangażowania
-4. **Ghosting:** Nagłe znikanie bez wyjaśnienia
-5. **Catfishing:** Fałszywe profile i oszukiwanie tożsamości
+1. **Digital Stalking:** Checking social media activity
+2. **Love Bombing in Apps:** Excessive compliments at the beginning of acquaintance
+3. **Breadcrumbing:** Sporadic messages without real engagement
+4. **Ghosting:** Sudden disappearance without explanation
+5. **Catfishing:** False profiles and identity deception
 
-## Część IV: Ewolucja Ról Płciowych - Co Się Zmieniło vs Co Pozostało
+## Part IV: Evolution of Gender Roles - What Changed vs What Remained
 
-### Zmiany Rewolucyjne
+### Revolutionary Changes
 
-| Aspekt | XVIII wiek | 2024 |
-|--------|------------|------|
-| **Edukacja** | Kobiety uczą się tylko "kobiecych sztuk" | Kobiety przeważają na uniwersytetach |
-| **Praca** | Tylko domowa lub służba | Wszystkie zawody otwarte |
-| **Polityka** | Kompletny zakaz uczestnictwa | Pełne prawa polityczne |
-| **Małżeństwo** | Rodzice decydują, brak rozwodu | Wybór partnera, łatwość rozwodu |
-| **Przemoc** | Legalna przemoc domowa | Prawne zakazy i ochrona |
+| Aspect | 18th Century | 2024 |
+|--------|-------------|------|
+| **Education** | Women learn only "feminine arts" | Women predominate at universities |
+| **Work** | Only domestic or service | All professions open |
+| **Politics** | Complete ban on participation | Full political rights |
+| **Marriage** | Parents decide, no divorce | Partner choice, easy divorce |
+| **Violence** | Legal domestic violence | Legal prohibitions and protection |
 
-### Co Pozostało Niezmienione - Universal Truths
+### What Remained Unchanged - Universal Truths
 
-1. **Presja na Wygląd:** Kobiety wciąż oceniane przez pryzmat urody
-2. **Podwójne Standardy:** Różne oczekiwania wobec zachowań mężczyzn i kobiet
-3. **Caregiving Burden:** Kobiety wciąż ponoszą główną odpowiedzialność za dom/dzieci
-4. **Stereotypy:** "Męskie" i "kobiece" cechy nadal kategoryzowane
-5. **Economic Inequality:** Luki płacowe i mniejszy majątek kobiet
+1. **Appearance Pressure:** Women still judged through beauty standards
+2. **Double Standards:** Different expectations for men's and women's behavior
+3. **Caregiving Burden:** Women still bear main responsibility for home/children
+4. **Stereotypes:** "Male" and "female" traits still categorized
+5. **Economic Inequality:** Pay gaps and women's lesser wealth
 
-## Część V: Generational Divide - Gen Z vs Poprzednie Pokolenia
+## Part V: Generational Divide - Gen Z vs Previous Generations
 
-### Paradoks Gen Z - Najbardziej Podzielone Pokolenie
+### Gen Z Paradox - Most Divided Generation
 
-**Szokujące Statystyki 2024:**
-- 53% kobiet Gen Z identyfikuje się jako feministki vs 32% mężczyzn Gen Z
-- Największy podział płciowy w historii na temat równości
-- 36% mężczyzn Gen Z uważa, że równość płci już została osiągnięta
-- 61% kobiet Gen Z doświadcza dyskryminacji w pracy
+**Shocking 2024 Statistics:**
+- 53% of Gen Z women identify as feminists vs 32% of Gen Z men
+- Largest gender divide in history on equality issues
+- 36% of Gen Z men believe gender equality has already been achieved
+- 61% of Gen Z women experience workplace discrimination
 
-### Media Społecznościowe - Narzędzie Wyzwolenia czy Podziału?
+### Social Media - Tool of Liberation or Division?
 
-**Pozytywne Aspekty:**
-- Platformy edukacyjne o prawach kobiet
-- Globalna świadomość nierówności
-- Łatwiejsze organizowanie protestów
+**Positive Aspects:**
+- Educational platforms about women's rights
+- Global awareness of inequalities
+- Easier protest organization
 
-**Negatywne Skutki:**
-- Algorytmiczne "bańki" pogłębiające podziały
-- Różne platformy dla różnych płci (Reddit/YouTube dla mężczyzn, TikTok/Instagram dla kobiet)
-- Radykalizacja poglądów w izolowanych społecznościach
+**Negative Effects:**
+- Algorithmic "bubbles" deepening divisions
+- Different platforms for different genders (Reddit/YouTube for men, TikTok/Instagram for women)
+- Radicalization of views in isolated communities
 
-### Dating w Erze Cyfrowej - Powrót do Tradycji?
+### Dating in the Digital Era - Return to Tradition?
 
-**Trend 2024:** Gen Z rezygnuje z aplikacji randkowych
-- 78% Gen Z doświadczyło "dating app burnout"
-- Powrót do spotkań "w realu"
-- Większy nacisk na wartości i kompatybilność polityczną
+**2024 Trend:** Gen Z abandoning dating apps
+- 78% of Gen Z experienced "dating app burnout"
+- Return to "real life" meetings
+- Greater emphasis on values and political compatibility
 
-**Ironia:** Pokolenie najbardziej technologiczne wraca do metod, które poleciłaby Wollstonecraft - poznawanie się przez wspólne zainteresowania i wartości.
+**Irony:** The most technological generation returns to methods Wollstonecraft would recommend - getting to know each other through shared interests and values.
 
-## Część VI: Practical Wisdom dla Współczesnej Młodzieży
+## Part VI: Practical Wisdom for Contemporary Youth
 
-### Timeless Lessons od Mary Wollstonecraft
+### Timeless Lessons from Mary Wollstonecraft
 
-#### 1. W Związkach
-✅ **Szukaj Partnera, Nie Zbawcy**
-- Zdrowy związek to partnerstwo równych, nie uzależnienie
-- Czerwona flaga: Partner próbuje "cię naprawić" lub kontrolować
+#### 1. In Relationships
+✅ **Seek a Partner, Not a Savior**
+- Healthy relationship is partnership of equals, not dependency
+- Red flag: Partner tries to "fix" or control you
 
-✅ **Ekonomiczna Niezależność to Podstawa**
-- Zawsze miej własne źródło dochodu
-- Nie oddawaj kontroli nad finansami
+✅ **Economic Independence is Foundation**
+- Always have your own income source
+- Don't give up financial control
 
 ✅ **Friendship-Based Love**
-- Najlepsze związki opierają się na przyjaźni i szacunku
-- Namiętność przemija, wzajemny szacunek zostaje
+- Best relationships are based on friendship and respect
+- Passion fades, mutual respect remains
 
-#### 2. W Karierze
+#### 2. In Career
 ✅ **Education Never Stops**
-- Ciągłe uczenie się to klucz do niezależności
-- Nie ograniczaj się tradycyjnymi "kobiecymi" czy "męskimi" obszarami
+- Continuous learning is key to independence
+- Don't limit yourself to traditional "female" or "male" areas
 
 ✅ **Negotiate Fearlessly**
-- Wollstonecraft walczyła o równe traktowanie - ty też możesz
-- Luka płacowa nie zniknie sama - trzeba o nią walczyć
+- Wollstonecraft fought for equal treatment - you can too
+- Pay gap won't disappear by itself - you must fight for it
 
-#### 3. W Życiu Społecznym
+#### 3. In Social Life
 ✅ **Question Everything**
-- Nie przyjmuj społecznych oczekiwań bez krytycznego myślenia
-- "To zawsze tak było" to nie argument
+- Don't accept social expectations without critical thinking
+- "It's always been this way" is not an argument
 
 ✅ **Sisterhood and Alliance Building**
-- Buduj sojusze ponad podziałami
-- Mężczyźni mogą być sprzymierzeńcami w walce o równość
+- Build alliances across divisions
+- Men can be allies in the fight for equality
 
-### Gen Z Life Hacks Inspirowane Wollstonecraft
+### Gen Z Life Hacks Inspired by Wollstonecraft
 
 #### Digital Era Wisdom
 
 1. **Social Media Sanity:**
-   - Śledź różnorodne perspektywy, unikaj echo chambers
-   - Pamiętaj: algorytmy chcą cię zradykalizować dla engagement
+   - Follow diverse perspectives, avoid echo chambers
+   - Remember: algorithms want to radicalize you for engagement
 
 2. **Dating App Strategy:**
-   - Traktuj je jako narzędzie, nie jedyne źródło randek
-   - Profile filterable by values > powierzchowność
+   - Treat them as tools, not sole source of dates
+   - Profile filterable by values > superficiality
 
 3. **Career Navigation:**
-   - Document everything (luka płacowa, dyskryminacja)
+   - Document everything (pay gap, discrimination)
    - Negotiate salaries based on value, not gender norms
 
 4. **Financial Independence:**
-   - Learn investing early (compound interest jest feminist issue)
+   - Learn investing early (compound interest is a feminist issue)
    - Never depend financially on romantic partner completely
 
 #### Relationship Red Flags Update
 
 **Classic (Wollstonecraft Era) + Modern:**
-- 🚩 Kontrolowanie finansów → Kontrolowanie social media/lokalizacji
-- 🚩 Izolacja od rodziny → Izolacja od przyjaciół online
-- 🚩 Przemoc fizyczna → Przemoc cyfrowa (revenge porn, hacking)
-- 🚩 Traktowanie jak własność → Possessive behavior online
+- 🚩 Financial control → Social media/location control
+- 🚩 Family isolation → Online friend isolation
+- 🚩 Physical violence → Digital violence (revenge porn, hacking)
+- 🚩 Treating as property → Possessive behavior online
 
-## Część VII: What Wollstonecraft Got Wrong - i Dlaczego to Ważne
+## Part VII: What Wollstonecraft Got Wrong - and Why It Matters
 
-### 1. Przeceniła Siłę Rozumu
-Wollstonecraft wierzyła, że logika i edukacja rozwiążą wszystkie problemy. Gen Z pokazuje, że nawet najlepiej wykształcone pokolenie w historii podejmuje irracjonalne decyzje.
+### 1. Overestimated Power of Reason
+Wollstonecraft believed logic and education would solve all problems. Gen Z shows that even the best-educated generation in history makes irrational decisions.
 
-**Lekcja:** Emocje i intuicja też mają wartość. Nie ignoruj "gut feelings."
+**Lesson:** Emotions and intuition also have value. Don't ignore "gut feelings."
 
-### 2. Nie Przewidziała Siły Tradycji
-Myślała, że równa edukacja szybko zniesie stereotypy płciowe. Po 200 latach wciąż się z nimi zmagamy.
+### 2. Didn't Predict Strength of Tradition
+She thought equal education would quickly eliminate gender stereotypes. After 200 years we still struggle with them.
 
-**Lekcja:** Zmiany społeczne wymagają pokoleń, nie lat. Bądź cierpliwy ale stanowczy.
+**Lesson:** Social changes require generations, not years. Be patient but persistent.
 
-### 3. Zbyt Idealistyczny Pogląd na Naturę Ludzką
-Wierzyła, że ludzie naturalnie wybiorą równość i sprawiedliwość.
+### 3. Too Idealistic View of Human Nature
+She believed people would naturally choose equality and justice.
 
-**Lekcja:** Nierówności trzeba aktywnie zwalczać - nie znikną same.
+**Lesson:** Inequalities must be actively fought - they won't disappear on their own.
 
-## Część VIII: Timeline Reality Check - Jak Długo Zajęły Zmiany
+## Part VIII: Timeline Reality Check - How Long Changes Actually Took
 
-### Najważniejsze Przewidywania vs Rzeczywistość
+### Major Predictions vs Reality
 
-| Przewidywanie | Przewidziany czas | Rzeczywisty czas realizacji | Status 2024 |
-|---------------|-------------------|---------------------------|--------------|
-| Równa edukacja | "Kilka pokoleń" | ~150 lat | ✅ Osiągnięte |
-| Prawo wyborcze | Nie podała | ~125 lat | ✅ Osiągnięte |
-| Równość w pracy | "Naturalny rezultat edukacji" | 200+ lat | ⚠️ W trakcie |
-| Koniec przemocy domowej | "Z edukacją" | 200+ lat | ⚠️ W trakcie |
-| Małżeństwo jako partnerstwo | "Kilka pokoleń" | ~200 lat | ✅ W większości osiągnięte |
-| Koniec stereotypów płciowych | "Z równą edukacją" | Nie osiągnięte | ❌ Wciąż aktualny problem |
+| Prediction | Predicted Time | Actual Implementation Time | 2024 Status |
+|------------|----------------|---------------------------|-------------|
+| Equal education | "Few generations" | ~150 years | ✅ Achieved |
+| Voting rights | Not specified | ~125 years | ✅ Achieved |
+| Workplace equality | "Natural result of education" | 200+ years | ⚠️ In progress |
+| End of domestic violence | "With education" | 200+ years | ⚠️ In progress |
+| Marriage as partnership | "Few generations" | ~200 years | ✅ Mostly achieved |
+| End of gender stereotypes | "With equal education" | Not achieved | ❌ Still current problem |
 
-### Co To Oznacza dla Gen Z
+### What This Means for Gen Z
 
-**Przesłanie:** Nawet najbardziej rewolucyjne idee potrzebują czasu. Twoja frustracja z tempem zmian jest uzasadniona - poprzednie pokolenia też czekały dekadami na podstawowe prawa.
+**Message:** Even the most revolutionary ideas need time. Your frustration with the pace of change is justified - previous generations also waited decades for basic rights.
 
-## Część IX: Universal Human Truths - Co Nie Zmienia Się Przez Wieki
+## Part IX: Universal Human Truths - What Doesn't Change Through Centuries
 
 ### 1. Power Dynamics in Relationships
-Niezależnie od epoki, niezdrowe związki charakteryzują się:
-- Nierównowagą władzy
-- Kontrolą i manipulacją
-- Izolacją od wsparcia
+Regardless of era, unhealthy relationships are characterized by:
+- Power imbalance
+- Control and manipulation
+- Isolation from support
 - Economic coercion
 
 ### 2. Education as Liberation
-We wszystkich kulturach i epokach:
-- Wiedza daje wolność wyboru
-- Ograniczanie dostępu do edukacji to narzędzie opresji
-- Self-improvement jest formą rebelii
+In all cultures and eras:
+- Knowledge gives freedom of choice
+- Restricting access to education is a tool of oppression
+- Self-improvement is a form of rebellion
 
 ### 3. Economic Independence = Personal Freedom
-Od XVIII wieku do dziś:
-- Kto kontroluje pieniądze, kontroluje relacje
-- Financial literacy to survival skill
-- Economic vulnerability lead to exploitation
+From 18th century to today:
+- Who controls money, controls relationships
+- Financial literacy is a survival skill
+- Economic vulnerability leads to exploitation
 
 ### 4. Societal Change is Painfully Slow
-Wzór powtarzający się przez historię:
-- Jedna generacja ma wizję
-- Druga ją rozwija teoretycznie  
-- Trzecia zaczyna implementować
-- Czwarta widzi rzeczywiste rezultaty
+Pattern repeating through history:
+- One generation has vision
+- Second develops it theoretically
+- Third begins implementation
+- Fourth sees real results
 
-**Praktyczna Mądrość:** Nie oczekuj radykalnych zmian w swojej generacji. Pracuj dla przyszłych pokoleń.
+**Practical Wisdom:** Don't expect radical changes in your generation. Work for future generations.
 
-## Część X: Actionable Takeaways dla Gen Z
+## Part X: Actionable Takeaways for Gen Z
 
-### Immediate Actions (następne 6 miesięcy)
+### Immediate Actions (next 6 months)
 
 1. **Financial Literacy Bootcamp**
-   - Naucz się podstaw inwestowania
-   - Stwórz emergency fund
+   - Learn investment basics
+   - Create emergency fund
    - Negotiate your first salary/raise
 
 2. **Relationship Audit**
-   - Zidentyfikuj toxic patterns w obecnych związkach
-   - Naucz się komunikować granice (boundaries)
+   - Identify toxic patterns in current relationships
+   - Learn to communicate boundaries
    - Practice saying "no" without justification
 
 3. **Education Strategy**
-   - Identify skills gaps in twojej branży
+   - Identify skills gaps in your industry
    - Start learning something completely new
    - Find mentors who achieved what you want
 
-### Medium-term Goals (1-3 lata)
+### Medium-term Goals (1-3 years)
 
 1. **Career Development**
-   - Document wszystkie achievements for salary negotiations
+   - Document all achievements for salary negotiations
    - Build network beyond your immediate circle
    - Take calculated risks in career moves
 
 2. **Personal Philosophy**
-   - Define your core values (nie tylko follow trends)
+   - Define your core values (not just follow trends)
    - Learn to disagree respectfully
    - Develop critical thinking about social media content
 
@@ -333,7 +333,7 @@ Wzór powtarzający się przez historię:
    - Support causes with time/money, not just posts
    - Learn about issues from primary sources
 
-### Long-term Vision (5+ lat)
+### Long-term Vision (5+ years)
 
 1. **Legacy Thinking**
    - What changes do you want to see for the next generation?
@@ -345,32 +345,32 @@ Wzór powtarzający się przez historię:
    - Mentor younger people in your field
    - Bridge divides instead of deepening them
 
-## Wnioski: Dlaczego Mary Wollstonecraft Wciąż Ma Rację
+## Conclusions: Why Mary Wollstonecraft is Still Right
 
-Po 232 latach od publikacji "Wołania o prawa kobiety", najważniejsze przesłanie Mary Wollstonecraft pozostaje aktualne: **prawdziwa równość wymaga ciągłej pracy, edukacji i odwagi, by kwestionować status quo**.
+After 232 years since the publication of "A Vindication of the Rights of Woman," Mary Wollstonecraft's most important message remains relevant: **true equality requires continuous work, education, and courage to question the status quo**.
 
-### Jej Największe Sukcesy Przewidywawcze:
-1. **Edukacja jako klucz do wyzwolenia** - sprawdzona
-2. **Małżeństwo powinno być partnerstwem** - osiągnięte w większości
-3. **Kobiety potrzebują praw politycznych** - zrealizowane
-4. **Ekonomiczna niezależność jest fundamentalna** - wciąż aktualnie
+### Her Greatest Predictive Successes:
+1. **Education as key to liberation** - verified
+2. **Marriage should be partnership** - achieved in majority
+3. **Women need political rights** - realized
+4. **Economic independence is fundamental** - still relevant
 
-### Jej "Porażki" Były Tak Naprawdę Sukcesami:
-- Nie przewidziała, jak długo zajmą zmiany - ale to pokazuje, że walka była jeszcze trudniejsza niż myślała
-- Przeceniła rolę rozumu - ale to dlatego, że nie mogła przewidzieć manipulacji przez media i algoritmy
+### Her "Failures" Were Actually Successes:
+- She didn't predict how long changes would take - but this shows the struggle was even harder than she thought
+- She overestimated the role of reason - but that's because she couldn't predict manipulation by media and algorithms
 
-### Timeless Wisdom dla Gen Z:
+### Timeless Wisdom for Gen Z:
 
-1. **Change is slow but inevitable** - Twoja frustracja jest uzasadniona, ale nie rezygnuj
-2. **Education and economic independence remain the keys to freedom** - Inwestuj w siebie
-3. **Healthy relationships require equality** - Nie akceptuj mniej niż pełny szacunek
-4. **Question everything, especially "tradition"** - "Zawsze tak było" to nie argument
-5. **Build bridges, not walls** - Największe zmiany wymagają szerokich koalicji
+1. **Change is slow but inevitable** - Your frustration is justified, but don't give up
+2. **Education and economic independence remain keys to freedom** - Invest in yourself
+3. **Healthy relationships require equality** - Don't accept less than full respect
+4. **Question everything, especially "tradition"** - "It's always been this way" is not an argument
+5. **Build bridges, not walls** - Greatest changes require broad coalitions
 
-Mary Wollstonecraft była pierwszą osobą, która powiedziała na głos to, o czym kobiety myślały przez wieki. Dzisiaj Gen Z ma narzędzia, których ona nie miała - globalną komunikację, prawną ochronę, economic opportunities. 
+Mary Wollstonecraft was the first person to say out loud what women had been thinking for centuries. Today Gen Z has tools she didn't have - global communication, legal protection, economic opportunities.
 
-Jej przesłanie na 2024: **Używajcie tych narzędzi mądrze. Historia pokazuje, że postęp nie jest gwarantowany - wymaga ciągłej pracy każdego pokolenia.**
+Her message for 2024: **Use these tools wisely. History shows that progress is not guaranteed - it requires continuous work from every generation.**
 
 ---
 
-*Dokument przygotowany w ramach projektu 37degrees - badania nad aktualnością klasyki literatury dla młodzieży w Polsce, 2024.*
+*Document prepared as part of the 37degrees project - research on the relevance of classic literature for youth in Poland, 2024.*

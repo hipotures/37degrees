@@ -1,225 +1,225 @@
-# Mroczne Interpretacje i Kontrowersje: "Ojciec Goriot" i Honoré de Balzac
+# Dark Interpretations and Controversies: "Père Goriot" and Honoré de Balzac
 
-*Badania nad dark side literatury klasycznej - 37degrees Research Project*
+*Research on the dark side of classic literature - 37degrees Research Project*
 
-## 🌑 CONSPIRACY THEORIES I MROCZNE INTERPRETACJE
+## 🌑 CONSPIRACY THEORIES AND DARK INTERPRETATIONS
 
-### Ukryte Znaczenia w "Ojcu Goriot"
+### Hidden Meanings in "Père Goriot"
 
-**1. TEORIA SPISKOWA: Alegoría Louis XVI i Marie Antoinette**
-- **FAKT**: Narratywa o bolesnych relacjach Goriota z córkami interpretowana jest jako "tragikomiczna parabola upadku Ludwika XVI"
-- **FAKT**: W kluczowym momencie Vautrin śpiewa "O Richard, O mon roi" - royalistyczny hymn, który sprowokował Wydarzenia Październikowe 1789 i ostateczny upadek Ludwika XVI
-- **PLOTKA**: Podobnie jak Louis XVI ze swoimi poddanymi, Goriot poświęca wszystko dla niewdzięcznych dzieci, które ostatecznie go opuszczają
+**1. CONSPIRACY THEORY: Allegory of Louis XVI and Marie Antoinette**
+- **FACT**: The narrative about Goriot's painful relationships with his daughters is interpreted as a "tragicomic parable of Louis XVI's downfall"
+- **FACT**: At a key moment, Vautrin sings "O Richard, O mon roi" - a royalist hymn that provoked the October Events of 1789 and Louis XVI's ultimate downfall
+- **RUMOR**: Like Louis XVI with his subjects, Goriot sacrifices everything for ungrateful children who ultimately abandon him
 
-**2. TEORIA: Paranoiczna Prognoza Kapitalizmu**
-- **FAKT**: Balzac pisał: "Le secret des grandes fortunes sans cause apparente est un crime oublié" (Sekret wielkich fortun bez widocznej przyczyny to zbrodnia zapomniana)
-- **FAKT**: Thomas Piketty używa dzieł Balzaca do ilustracji zasad ekonomicznych, twierdząc że "powracamy do patrimonialnego kapitalizmu nakreślonego w powieści"
-- **ZARZUT**: Balzac przewidział niestabilność finansową i crashes giełdowe poprzez swoje obserwacje spekulacyjnej natury wczesnego kapitalizmu
+**2. THEORY: Paranoid Capitalism Prognosis**
+- **FACT**: Balzac wrote: "Le secret des grandes fortunes sans cause apparente est un crime oublié" (The secret of great fortunes without apparent cause is a forgotten crime)
+- **FACT**: Thomas Piketty uses Balzac's works to illustrate economic principles, claiming "we are returning to the patrimonial capitalism outlined in the novel"
+- **ACCUSATION**: Balzac predicted financial instability and stock market crashes through his observations of early capitalism's speculative nature
 
-**3. TEORIA SPISKOWA: Tajne Społeczeństwa i Okultyzm**
-- **FAKT**: Badania akademickie Anne-Marie Baron wykazują "znaczenie okultyzmu i tajnych społeczeństw w światopoglądzie Balzaca, jego życiu i powieściach"
-- **FAKT**: Wolnomularstwo "ukształtowało i zainspirowało własne zaabsorbowanie Balzaca tajnymi stowarzyszeniami"
-- **FAKT**: Balzac miał kontakt z ideami Galla (frenologia), Lavatera (fizjonomia) i Mesmera (magnetyzm zwierzęcy)
+**3. CONSPIRACY THEORY: Secret Societies and Occultism**
+- **FACT**: Academic research by Anne-Marie Baron demonstrates "the significance of occultism and secret societies in Balzac's worldview, his life and novels"
+- **FACT**: Freemasonry "shaped and inspired Balzac's own absorption with secret associations"
+- **FACT**: Balzac had contact with ideas from Gall (phrenology), Lavater (physiognomy), and Mesmer (animal magnetism)
 
-**4. SYMBOLIKA ALCHEMICZNA**
-- **FAKT**: Baron udowadnia że "powieść balzacowska jest z istoty inicjacyjna" - protagonist przechodzi symboliczną śmierć i zostaje przez nią przemieniony
-- **FAKT**: Alchemia symboliczna traktowała wszystkie poziomy rzeczywistości, od fizjologicznego przez kosmiczny po ewangeliczny
-- **ZARZUT**: "L'Histoire des Treize" i "L'Envers de l'histoire contemporaine" to powieści najwyraźniej poświęcone tajnym społecznościom
+**4. ALCHEMICAL SYMBOLISM**
+- **FACT**: Baron proves that "Balzacian novel is essentially initiatory" - the protagonist undergoes symbolic death and is transformed by it
+- **FACT**: Symbolic alchemy treated all levels of reality, from physiological through cosmic to evangelical
+- **ACCUSATION**: "L'Histoire des Treize" and "L'Envers de l'histoire contemporaine" are novels most obviously devoted to secret societies
 
 ### Political Subversion and Censorship
 
-**5. TEORIA: Ukryta Krytyka Restauracji Burbonów**
-- **FAKT**: Powieść osadzona w 1819 roku podczas Restauracji Burbonów przedstawia "narastające napięcie między arystokracją a burżuazją"
-- **FAKT**: Karta z 1814 roku ustanowiła "kraj prawny", pozwalając głosować tylko najbogatszym, co Balzac bezlitośnie krytykował
-- **ZARZUT**: Balzac użył fikcji do podważania podstaw porewolucyjnego porządku społecznego
+**5. THEORY: Hidden Critique of Bourbon Restoration**
+- **FACT**: The novel set in 1819 during the Bourbon Restoration presents "mounting tension between aristocracy and bourgeoisie"
+- **FACT**: The Charter of 1814 established a "legal country," allowing only the wealthiest to vote, which Balzac ruthlessly criticized
+- **ACCUSATION**: Balzac used fiction to undermine the foundations of post-revolutionary social order
 
-**6. BRAK CENZURY - PODEJRZANE?**
-- **PLOTKA**: Dziwne, że władze nie zakazały książki mimo ostrej krytyki społecznej - czy Balzac miał ochronę w wysokich sferach?
-- **FAKT**: Mimo "przedstawień korupcji i chciwości" potępianych przez krytyków, book nie był cenzurowany
+**6. LACK OF CENSORSHIP - SUSPICIOUS?**
+- **RUMOR**: Strange that authorities didn't ban the book despite sharp social criticism - did Balzac have protection in high circles?
+- **FACT**: Despite "representations of corruption and greed" condemned by critics, the book was not censored
 
-## 💀 SKANDALE OSOBISTE BALZACA
+## 💀 BALZAC'S PERSONAL SCANDALS
 
-### Finansowe Dramaty i Oszustwa
+### Financial Dramas and Frauds
 
-**7. SKANDAL FINANSOWY: Ogromne Długi**
-- **FAKT**: W 1828 roku Balzac ledwie uniknął bankructwa z długami przekraczającymi 60,000 franków
-- **FAKT**: W pewnym momencie jego zobowiązania osiągnęły 113,000 franków
-- **FAKT**: Ukrywał się pod fałszywym nazwiskiem "Monsieur de Breugnol" przed wierzycielami
+**7. FINANCIAL SCANDAL: Enormous Debts**
+- **FACT**: In 1828, Balzac barely avoided bankruptcy with debts exceeding 60,000 francs
+- **FACT**: At one point his obligations reached 113,000 francs
+- **FACT**: He hid under the false name "Monsieur de Breugnol" from creditors
 
-**8. SKANDAL: Nieuczciwe Praktyki Biznesowe**
-- **FAKT**: Balzac był "w podstawie nieuczciwy w miłości i biznesie"
-- **FAKT**: "Uważał długi i kontrakty za niewiele więcej niż niedogodności, dopóki nie groziło mu więzienie"
-- **ZARZUT**: Próby biznesowe obejmowały plan importu 60,000 dębów z Polski teoretycznie wart 1,2 miliona franków
+**8. SCANDAL: Dishonest Business Practices**
+- **FACT**: Balzac was "fundamentally dishonest in love and business"
+- **FACT**: "He considered debts and contracts as little more than inconveniences, until prison threatened him"
+- **ACCUSATION**: Business attempts included a plan to import 60,000 oak trees from Poland theoretically worth 1.2 million francs
 
-**9. OSZUSTWO SZLACHECKOŚCI**
-- **FAKT**: Balzac "przywłaszczył dla własnego użytku herby starożytnej szlacheckiej rodziny, z którą nie miał żadnego związku"
-- **FAKT**: Przyjął honorowy przyrostek "de" bez żadnych praw do niego
+**9. NOBILITY FRAUD**
+- **FACT**: Balzac "appropriated for his own use the coat of arms of an ancient noble family, with whom he had no connection"
+- **FACT**: He adopted the honorary prefix "de" without any rights to it
 
-### Seksualne Skandale i Afery
+### Sexual Scandals and Affairs
 
-**10. AFERA: Nieślubne Dziecko**
-- **FAKT**: W 1833 roku miał aferę z pisarką Maria Du Fresnay (24 lata, zamężna ze starszym mężczyzną)
-- **FAKT**: Zaszła w ciążę i urodziła jego córkę Marie-Caroline Du Fresnay w 1834 roku
+**10. AFFAIR: Illegitimate Child**
+- **FACT**: In 1833 he had an affair with writer Maria Du Fresnay (24 years old, married to an older man)
+- **FACT**: She became pregnant and gave birth to his daughter Marie-Caroline Du Fresnay in 1834
 
-**11. PODEJRZENIE HOMOSEKSUALIZMU**
-- **ZARZUT**: Balzac był podejrzany o atrakcję do mężczyzn
-- **FAKT**: Gdy ujawniono oficjalne rejestry homoseksualistów prowadzone przez paryską policję, jego nazwisko znaleziono na liście
+**11. SUSPICION OF HOMOSEXUALITY**
+- **ACCUSATION**: Balzac was suspected of attraction to men
+- **FACT**: When official registers of homosexuals kept by Parisian police were revealed, his name was found on the list
 
-**12. WIELOKROTNE ZDRADA**
-- **FAKT**: Mimo oddania Madame Hanska, "pozwalał sobie na pocieszenie z kilkoma innymi kobietami"
-- **FAKT**: Miał aferę z hrabiną Guidoboni-Visconti jednocześnie korespondując z Hanską, twierdząc o nieśmiertelnej wierności
+**12. MULTIPLE BETRAYALS**
+- **FACT**: Despite devotion to Madame Hanska, "he allowed himself comfort with several other women"
+- **FACT**: He had an affair with Countess Guidoboni-Visconti while simultaneously corresponding with Hanska, claiming immortal fidelity
 
-## 🥊 LITERARY WARS I WROGOWIE
+## 🥊 LITERARY WARS AND ENEMIES
 
-### Wojna z Sainte-Beuve
+### War with Sainte-Beuve
 
-**13. LITERACKA VENDETTA**
-- **FAKT**: Balzac miał "najgorszego literackiego wroga: Sainte-Beuve"
-- **FAKT**: Gdy Sainte-Beuve napisał niepochlebny artykuł o "La Recherche de l'absolu", Balzac wściekle rzucił magazynem mówiąc: "On za to zapłaci; przepuścę pióro przez jego ciało"
+**13. LITERARY VENDETTA**
+- **FACT**: Balzac had "his worst literary enemy: Sainte-Beuve"
+- **FACT**: When Sainte-Beuve wrote an unfavorable article about "La Recherche de l'absolu," Balzac furiously threw the magazine saying: "He will pay for this; I will pass my pen through his body"
 
-**14. OSOBISTE ATAKI W FIKCJI**
-- **FAKT**: W noweli "Un Prince de la bohême" (1840) Balzac kazał postaci powiedzieć o Sainte-Beuve: "mówię w tej chwili Sainte-Beuve, nowy język francuski"
-- **FAKT**: Krytykował pisarstwo Sainte-Beuve jako "zbyt fałszywe, gdzie myśl jest w stanie zarodkowym"
+**14. PERSONAL ATTACKS IN FICTION**
+- **FACT**: In the novella "Un Prince de la bohême" (1840), Balzac had a character say about Sainte-Beuve: "I say at this moment Sainte-Beuve, new French language"
+- **FACT**: He criticized Sainte-Beuve's writing as "too false, where thought is in embryonic state"
 
-**15. POGRZEB WROGA**
-- **FAKT**: Mimo wrogości, na pogrzebie Balzaca Sainte-Beuve służył jako jeden z żałobników obok Victor Hugo i Alexandre Dumas
+**15. ENEMY'S FUNERAL**
+- **FACT**: Despite hostility, at Balzac's funeral Sainte-Beuve served as one of the mourners alongside Victor Hugo and Alexandre Dumas
 
-## ☠️ MROCZNE TEORIE O ŚMIERCI
+## ☠️ DARK THEORIES ABOUT DEATH
 
-### Kontrwersyjne Okoliczności Zgonu
+### Controversial Circumstances of Death
 
-**16. TEORIA: Zatrucie Kofeiną**
-- **ZARZUT**: Powszechnie twierdzi się że Balzac umarł z powodu "zatrucia kofeiną" pijąc do 300 filiżanek dziennie
-- **FAKT**: Nowoczesni badacze kwestionują tę teorię - "nie umarł faktycznie z powodu 'zatrucia' kofeiną"
+**16. THEORY: Caffeine Poisoning**
+- **ACCUSATION**: It is commonly claimed that Balzac died from "caffeine poisoning" drinking up to 300 cups daily
+- **FACT**: Modern researchers question this theory - "he didn't actually die from caffeine 'poisoning'"
 
-**17. MEDYCZNA KONTROWERSJA**
-- **FAKT**: Umarł z powodu gangreny związanej z niewydolnością serca w wieku 51 lat
-- **FAKT**: Gangrena była spowodowana pionierską próbą leczenia - użyciem trokaru do drenażu obrzęku nóg
-- **ZARZUT**: Brak adekwatnych środków dezynfekcji i antybiotyków doprowadził do infekcji bakteryjnej
+**17. MEDICAL CONTROVERSY**
+- **FACT**: He died from gangrene related to heart failure at age 51
+- **FACT**: The gangrene was caused by a pioneering treatment attempt - using a trocar to drain leg swelling
+- **ACCUSATION**: Lack of adequate disinfection and antibiotics led to bacterial infection
 
-**18. BRAK TEORII MORDERSTWA**
-- **PLOTKA**: Mimo szukania, nie znaleziono wiarygodnych teorii o zamordowaniu lub otruciu przez czynniki zewnętrzne
-- **FAKT**: Konsensus medyczny wskazuje na komplikacje stylu życia i leczenia, nie na tajemnicze okoliczności
+**18. LACK OF MURDER THEORIES**
+- **RUMOR**: Despite searching, no credible theories of murder or poisoning by external factors were found
+- **FACT**: Medical consensus points to lifestyle and treatment complications, not mysterious circumstances
 
-## 🎭 MANIACKIE ZACHOWANIA I UZALEŻNIENIA
+## 🎭 MANIC BEHAVIORS AND ADDICTIONS
 
-### Ekstremalne Nawyki Pisarskie
+### Extreme Writing Habits
 
-**19. OBSESJA KOFEINOWA: Niebezpieczne Metody**
-- **FAKT**: Gdy normalna dawka nie stymulowała, Balzac zaczynał jeść proszek z kawy na pusty żołądek - "okropna, raczej brutalna metoda"
-- **FAKT**: Używał "straszliwej i okrutnej" metody parzenia tureckiej kawy z najmniejszą ilością wody
+**19. CAFFEINE OBSESSION: Dangerous Methods**
+- **FACT**: When normal dosage didn't stimulate, Balzac began eating coffee powder on empty stomach - "horrible, rather brutal method"
+- **FACT**: He used "terrible and cruel" method of brewing Turkish coffee with minimal water
 
-**20. PARANOIDALNE OBJAWY**
-- **FAKT**: Kawa "z pewnością sprawiała, że Balzac majaczył i przynosiła mu ból przy wielu okazjach"
-- **FAKT**: "Cierpiał na napady urojeniowe pod koniec życia"
-- **FAKT**: Pisał o osiągnięciu punktów, gdzie wiedział, że kontynuowanie picia kawy "zabiłoby go"
+**20. PARANOID SYMPTOMS**
+- **FACT**: Coffee "certainly made Balzac delirious and brought him pain on many occasions"
+- **FACT**: "He suffered from delusional fits at the end of his life"
+- **FACT**: He wrote about reaching points where he knew continuing to drink coffee "would kill him"
 
-**21. EKSTREMALNY TRYB PRACY**
-- **FAKT**: Ubrany w biały habit mnicha dominikanina, rozpoczynał dzień pisarski o 2:00 rano
-- **FAKT**: Pracował 12-15 godzin dziennie, twierdził że pisał przez 48 godzin w jednym podejściu
-- **FAKT**: "Wyprodukował" 85 powieści w 20 lat i zmarł w wieku 51 lat
+**21. EXTREME WORK SCHEDULE**
+- **FACT**: Dressed in a white Dominican monk's habit, he began his writing day at 2:00 AM
+- **FACT**: He worked 12-15 hours daily, claimed to write for 48 hours in one session
+- **FACT**: "Produced" 85 novels in 20 years and died at age 51
 
-### Psychiczne Problemy Zdrowotne
+### Mental Health Problems
 
 **22. DELUSIONAL FITS**
-- **FAKT**: "Cierpiał na problemy trawienne i nieregularne bicie serca, które eksperci przypisują nadmiernemu spożyciu kawy"
-- **FAKT**: Ostrzegał kawoszy przed "prawie śmiertelnym potencjałem" napoju, opisując własne doświadczenie: "wpadniesz w okropne poty, będziesz cierpiał na osłabienie nerwów"
+- **FACT**: "He suffered from digestive problems and irregular heartbeat, which experts attribute to excessive coffee consumption"
+- **FACT**: He warned coffee drinkers about the "almost lethal potential" of the drink, describing his own experience: "you will fall into horrible sweats, you will suffer from nervous weakness"
 
-**23. PARANOIA PRZED WIERZYCIELAMI**
-- **FAKT**: Tragikomiczny Balzac "udawał martwego", gdy ktoś dzwonił do drzwi, w obawie że odwiedzający może być wierzycielem
+**23. PARANOIA ABOUT CREDITORS**
+- **FACT**: Tragicomic Balzac "played dead" when someone rang the doorbell, fearing the visitor might be a creditor
 
-## 🔮 PROPHECY CHECK: Co się Sprawdziło
+## 🔮 PROPHECY CHECK: What Came True
 
-### Ekonomiczne Przewidywania
+### Economic Predictions
 
-**24. PRZEWIDYWANIE: Koncentracja Bogactwa**
-- **FAKT**: Prawo Piketty'ego potwierdza obserwacje Balzaca o tendencji bogactwa do koncentracji
-- **FAKT**: "Ekonomia znajduje się gdzieś między Balzakiem a West Wing, ale porusza się w wyraźnie XIX-wiecznym kierunku"
+**24. PREDICTION: Wealth Concentration**
+- **FACT**: Piketty's law confirms Balzac's observations about wealth's tendency to concentrate
+- **FACT**: "Economics finds itself somewhere between Balzac and West Wing, but moves in a distinctly 19th-century direction"
 
-**25. FINANSOWA NIESTABILNOŚĆ**
-- **FAKT**: Balzac przewidział inherentną niestabilność spekulacyjnej natury wczesnego społeczeństwa kapitalistycznego
-- **FAKT**: Jego obserwacje o "kontyngentnym" bogactwie okazały się prorocze w kontekście kryzysów finansowych
+**25. FINANCIAL INSTABILITY**
+- **FACT**: Balzac predicted the inherent instability of early capitalist society's speculative nature
+- **FACT**: His observations about "contingent" wealth proved prophetic in the context of financial crises
 
-### Społeczne Prognozy
+### Social Prognoses
 
-**26. SPOŁECZNY DARWINIZM**
-- **FAKT**: Przez postać Madame de Beauséant Balzac przewidział bezwzględność społeczeństwa: "Im bardziej zimnokrwiste twoje kalkulacje, tym dalej zajdziesz"
+**26. SOCIAL DARWINISM**
+- **FACT**: Through Madame de Beauséant's character, Balzac predicted society's ruthlessness: "The more cold-blooded your calculations, the further you will go"
 
-**27. WŁADZA PIENIĄDZA**
-- **FAKT**: Przepowiednia o społeczeństwie "pozbawionym wszelkiej miłości oprócz miłości do pieniędzy" okazała się niezwykle trafna
+**27. POWER OF MONEY**
+- **FACT**: The prophecy about society "devoid of all love except love of money" proved remarkably accurate
 
-## 🕵️ GOVERNMENT SURVEILLANCE I POLITYCZNE TEORIE
+## 🕵️ GOVERNMENT SURVEILLANCE AND POLITICAL THEORIES
 
-### Brak Represji - Podejrzane Milczenie
+### Lack of Repression - Suspicious Silence
 
-**28. TEORIA: Ochrona w Wysokich Sferach?**
-- **PLOTKA**: Czy brak cenzury "Ojca Goriot" mimo ostrej krytyki władzy wskazuje na tajne porozumienia?
-- **ZARZUT**: Możliwe powiązania z tajnymi społeczeństwami mogły zapewnić ochronę przed represjami
+**28. THEORY: Protection in High Circles?**
+- **RUMOR**: Does the lack of censorship of "Père Goriot" despite sharp criticism of power indicate secret agreements?
+- **ACCUSATION**: Possible connections with secret societies could have provided protection from repression
 
-### Wpływ na Opinię Publiczną
+### Influence on Public Opinion
 
-**29. TEORIA: Podkopywanie Autorytetu Monarchii**
-- **FAKT**: Powieść systematycznie dekonstruowała legitymizację władzy poprzez paralele z Ludwikiem XVI
-- **FAKT**: Krytyka "kraju prawnego" i ograniczonej demokracji była subwersywna dla reżimu
+**29. THEORY: Undermining Monarchy's Authority**
+- **FACT**: The novel systematically deconstructed power's legitimacy through parallels with Louis XVI
+- **FACT**: Criticism of the "legal country" and limited democracy was subversive to the regime
 
-## 🌟 DODATKOWE MROCZNE FAKTY
+## 🌟 ADDITIONAL DARK FACTS
 
 ### Industry Drama
 
-**30. PLAGIAT I INSPIRACJE**
-- **ZARZUT**: "Illusions perdues" zawiera elementy mogące być plagiatem z wcześniejszych prac o światku dziennikarskim
+**30. PLAGIARISM AND INSPIRATIONS**
+- **ACCUSATION**: "Illusions perdues" contains elements that may be plagiarized from earlier works about the journalistic world
 
-**31. WYDAWCY I PIENIĄDZE**
-- **FAKT**: Chroniczne problemy z wydawcami z powodu nieterminowych dostaw rękopisów i żądań zaliczek
+**31. PUBLISHERS AND MONEY**
+- **FACT**: Chronic problems with publishers due to late manuscript deliveries and advance demands
 
 ### Occult Connections
 
 **32. BROTHERHOOD OF CONSOLATION**
-- **FAKT**: "L'Histoire des Treize" przedstawia grupę znaną jako Trzynastu, "którzy wyznają okultową formę wolnomularstwa"
+- **FACT**: "L'Histoire des Treize" presents a group known as the Thirteen, "who profess an occult form of Freemasonry"
 
-**33. INICJACYJNY CHARAKTER DZIEŁ**
-- **FAKT**: Według Baron, "powieść balzacowska jest z istoty inicjacyjna" - bohater przechodzi symboliczną śmierć
+**33. INITIATORY CHARACTER OF WORKS**
+- **FACT**: According to Baron, "the Balzacian novel is essentially initiatory" - the hero undergoes symbolic death
 
-### Przewidywania Polityczne
+### Political Predictions
 
 **34. JULY MONARCHY**
-- **FAKT**: Gdy rewolucja lipcowa obaliła Karola X w 1830, Balzac ogłosił się legitimistą, ale uważał nową monarchię lipcową za "zdezorganizowaną i pozbawioną zasad"
+- **FACT**: When the July Revolution overthrew Charles X in 1830, Balzac declared himself a legitimist, but considered the new July Monarchy "disorganized and without principles"
 
-### Medyczne Kontrowersje
+### Medical Controversies
 
-**35. KAFFEINESM MEDYCZNY**
-- **FAKT**: Balzac może być "pierwszym odnotowanym przypadkiem zatrucia kofeiną" w literaturze medycznej
+**35. MEDICAL CAFFEINEISM**
+- **FACT**: Balzac may be "the first recorded case of caffeine poisoning" in medical literature
 
-### Rodzinne Dramaty
+### Family Dramas
 
-**36. MATKA TYRAN**
-- **PLOTKA**: Relacje z matką były skomplikowane - finansowała go, ale kontrolowała poprzez długi
+**36. TYRANNICAL MOTHER**
+- **RUMOR**: Relations with his mother were complicated - she financed him but controlled him through debt
 
-### Społeczne Ostracism
+### Social Ostracism
 
-**37. ARYSTOKRACJA VS. BURŻUAZJA**
-- **FAKT**: Sam doświadczał napięć, które opisywał - jako burżua próbujący dostać się do arystokracji
+**37. ARISTOCRACY VS. BOURGEOISIE**
+- **FACT**: He himself experienced the tensions he described - as a bourgeois trying to enter aristocracy
 
-## 🎬 ADAPTACJE I CENZURA
+## 🎬 ADAPTATIONS AND CENSORSHIP
 
-### Filmowe Kontrowersje
+### Film Controversies
 
 **38. ADAPTATION CHALLENGES**
-- **FAKT**: Mroczne tematy w "Ojcu Goriot" sprawiały trudności w adaptacjach filmowych
+- **FACT**: Dark themes in "Père Goriot" caused difficulties in film adaptations
 
-### Współczesne Interpretacje
+### Contemporary Interpretations
 
 **39. FEMINIST READINGS**
-- **ZARZUT**: Współczesne odczytania feministyczne krytykują przedstawienie kobiet jako materialistycznych i manipulujących
+- **ACCUSATION**: Contemporary feminist readings criticize the portrayal of women as materialistic and manipulative
 
 ### Educational Controversies
 
-**40. MŁODZIEŻ I CYNIZM**
-- **ZARZUT**: Niektórzy pedagodzy argumentują, że powieść może być zbyt cyniczna dla młodych czytelników
+**40. YOUTH AND CYNICISM**
+- **ACCUSATION**: Some educators argue the novel may be too cynical for young readers
 
 ---
 
-**PODSUMOWANIE**: Research ujawnił fascynującą mieszankę potwierdzonych skandali, wiarygodnych teorii i spekulacji wokół Balzaca i "Ojca Goriot". Podczas gdy niektóre "conspiracy theories" mają podstawy w faktach (związki z okultyzmem, alegoryczne znaczenia), inne są bardziej spekulacyjne. Balzac sam siebie uczynił kontrowersyjną figurą przez swój ekstremalny styl życia, finansowe dramaty i literackie walki.
+**SUMMARY**: Research revealed a fascinating mixture of confirmed scandals, credible theories, and speculation around Balzac and "Père Goriot." While some conspiracy theories have factual foundations (connections with occultism, allegorical meanings), others are more speculative. Balzac made himself a controversial figure through his extreme lifestyle, financial dramas, and literary battles.
 
 *37degrees Research Project - Dark Literature Investigation*
 *Completed: September 2025*

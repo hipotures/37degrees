@@ -1,159 +1,159 @@
-# "Tramwaj zwany pożądaniem" - Lokalny kontekst kulturowy w Polsce
+# "A Streetcar Named Desire" - Local Cultural Context in Poland
 
-## Historia publikacji i tłumaczeń
+## Publication History and Translations
 
-### Pierwsze polskie wydania
-- **1958**: Pierwsza polska premiera teatralna - 4 czerwca w Teatrze Polskim w Poznaniu (reż. Ryszard Sobolewski)
-- **1959**: Przedstawienie w Teatrze Ateneum w Warszawie (reż. Aleksander Bardini, 12 stycznia)
-- Sztuka Tennessee'go Williamsa trafiła do Polski zaledwie 11 lat po prapremiererze na Broadwayu
+### First Polish Editions
+- **1958**: First Polish theatrical premiere - June 4 at the Polish Theatre in Poznan (dir. Ryszard Sobolewski)
+- **1959**: Production at the Ateneum Theatre in Warsaw (dir. Aleksander Bardini, January 12)
+- Tennessee Williams' play reached Poland just 11 years after its Broadway premiere
 
-### Współczesne tłumaczenie
-- **Jacek Poniedziałek** - aktor, reżyser i tłumacz, autor najnowszego przekładu
-- Poniedziałek przetłumaczył również "Anioły w Ameryce" Tony'ego Kushnera
-- Jego tłumaczenie uznane za "niecenzuralne" i świeże podejście do dzieła Williamsa
-- Według Krystyny Jandy, dzięki tłumaczeniom Poniedziałka "dramaty Williamsa mają triumfalnie powrócić na polskie sceny"
+### Contemporary Translation
+- **Jacek Poniedziałek** - actor, director and translator, author of the newest translation
+- Poniedziałek also translated Tony Kushner's "Angels in America"
+- His translation is recognized as "uncensored" and a fresh approach to Williams' work
+- According to Krystyna Janda, thanks to Poniedziałek's translations "Williams' dramas are set to triumphantly return to Polish stages"
 
-## Najważniejsze polskie produkcje teatralne
+## Major Polish Theatrical Productions
 
-### Historyczne przedstawienia
-- **1958**: Teatr Polski w Poznaniu (reż. Ryszard Sobolewski) - pierwsza polska inscenizacja
-- **1959**: Teatr Ateneum w Warszawie (reż. Aleksander Bardini)
-- Przez lata PRL-u sztuka była regularnie wystawiana w polskich teatrach
+### Historical Productions
+- **1958**: Polish Theatre in Poznan (dir. Ryszard Sobolewski) - first Polish staging
+- **1959**: Ateneum Theatre in Warsaw (dir. Aleksander Bardini)
+- During the Communist era, the play was regularly staged in Polish theatres
 
-### Współczesne produkcje teatralne
+### Contemporary Theatrical Productions
 
-#### Teatr Ateneum (2014)
-- **Reżyser**: Bogusław Linda
-- **Premiera**: 27 lutego 2014
-- **Obsada**: Julia Kijowska (Blanche), Tomasz Schuchardt (Stanley), Paulina Gałązka (Stella)
-- **Recenzje**: Spektakl otrzymał zróżnicowane oceny - od entuzjastycznych pochwał za kreacje aktorskie po krytykę braku interakcji między postaciami
-- **Kreacja Kijowskiej**: Jeden z krytyków napisał: "to najważniejszy debiut teatralny od czasu Krystyny Jandy"
+#### Ateneum Theatre (2014)
+- **Director**: Bogusław Linda
+- **Premiere**: February 27, 2014
+- **Cast**: Julia Kijowska (Blanche), Tomasz Schuchardt (Stanley), Paulina Gałązka (Stella)
+- **Reviews**: The production received mixed reviews - from enthusiastic praise for acting performances to criticism of lack of interaction between characters
+- **Kijowska's Performance**: One critic wrote: "this is the most important theatrical debut since Krystyna Janda"
 
-#### Teatr Ochoty (2021)
-- **Reżyser**: Małgorzata Bogajewska
-- **Premiera**: 11 września 2021
-- **Obsada**: Malwina Laska-Eichmann, Irmina Liszkowska, Paweł Janyst, Michał Pawlik, Krzysztof Oleksyn
-- **Interpretacja**: Spektakl skupiony na ludziach uwięzionych w stereotypach płciowych
-- **Staging**: Niezwykle intymny spektakl, w którym "znika czwarta ściana" i widzowie stają się uczestnikami
+#### Ochota Theatre (2021)
+- **Director**: Małgorzata Bogajewska
+- **Premiere**: September 11, 2021
+- **Cast**: Malwina Laska-Eichmann, Irmina Liszkowska, Paweł Janyst, Michał Pawlik, Krzysztof Oleksyn
+- **Interpretation**: Production focused on people trapped in gender stereotypes
+- **Staging**: Extremely intimate performance where "the fourth wall disappears" and audiences become participants
 
-### Inne polskie teatry (wybrane produkcje)
+### Other Polish Theatres (Selected Productions)
 - **Bielsko-Biała** (2003)
 - **Bydgoszcz** (2006)
 - **Kraków** (2009)
 - **Gdynia** (2009)
-- **Warszawa** (2010, 2014, 2021)
+- **Warsaw** (2010, 2014, 2021)
 
-## Recepcja filmowa w Polsce
+## Film Reception in Poland
 
-### Film Elii Kazana (1951)
-- **Polski tytuł**: "Tramwaj zwany pożądaniem"
-- **Nagrody**: Film otrzymał 4 Oscary, w tym dla Vivien Leigh (najlepsza aktorka pierwszoplanowa)
-- **Recepcja**: Początkowo postrzegany jako "niemoralny, dekadencki, wulgarny"
-- **Współczesna ocena**: "Wybitny film Elii Kazana" - uznany za wzorcową adaptację sztuki
+### Elia Kazan's Film (1951)
+- **Polish Title**: "Tramwaj zwany pożądaniem"
+- **Awards**: Film received 4 Oscars, including for Vivien Leigh (Best Actress)
+- **Reception**: Initially viewed as "immoral, decadent, vulgar"
+- **Contemporary Assessment**: "Outstanding film by Elia Kazan" - recognized as an exemplary adaptation of the play
 
-### Kulturowy wpływ Marlona Brando
-- Kreacja Stanley'ego Kowalskiego stała się ikoniczna w polskim kinie
-- Polski blog filmowy opisuje: "reżyserowi udało się znakomicie uchwycić duszny, klaustrofobiczny klimat sztuki Williamsa"
-- Film nadal jest pokazywany w polskich kinach studyjnych i centrach kultury
+### Cultural Impact of Marlon Brando
+- Stanley Kowalski's performance became iconic in Polish cinema
+- Polish film blog describes: "the director managed to excellently capture the sultry, claustrophobic atmosphere of Williams' play"
+- Film is still shown in Polish art cinemas and cultural centers
 
-## Kontekst edukacyjny
+## Educational Context
 
-### W szkołach polskich
-- Sztuka nie jest formalną lekturą obowiązkową w polskim systemie edukacji
-- Wykorzystywana w studiach teatralnych i literaturoznawstwie
-- Dostępna w polskich księgarniach jako "lektura szkolna" na wyższym poziomie
-- Materiały edukacyjne podkreślają psychologiczną złożoność postaci
+### In Polish Schools
+- The play is not formally required reading in the Polish education system
+- Used in theatrical studies and literary studies
+- Available in Polish bookstores as "school reading" at advanced level
+- Educational materials emphasize the psychological complexity of characters
 
-### Analiza akademicka
-- Tennessee Williams opisywany jako "jeden z najwybitniejszych dramatopisarzy XX wieku"
-- Polscy badacze podkreślają aktualność problemów poruszanych w sztuce
-- Studia nad adaptacjami filmowymi: "Między stłumieniem a ekscesem – Tennessee Williams w amerykańskim kinie lat 50." (Patrycja Włodek, 2014)
+### Academic Analysis
+- Tennessee Williams described as "one of the most outstanding playwrights of the 20th century"
+- Polish researchers emphasize the relevance of issues raised in the play
+- Studies on film adaptations: "Between Repression and Excess – Tennessee Williams in American Cinema of the 1950s" (Patrycja Włodek, 2014)
 
-## Polskie interpretacje kulturowe
+## Polish Cultural Interpretations
 
-### Stanley Kowalski jako "Polaczek"
-- W sztuce Blanche pogardliwie nazywa Stanley'ego "Polaczkiem"
-- Polski kontekst: postać przedstawiona jako "prymitywny i spocony mężczyzna, który łatwo wybucha gniewem"
-- Stereotyp polsko-amerykańskiego robotnika lat 40./50.
-- Polscy krytycy analizują tę postać w kontekście stereotypów etnicznych
+### Stanley Kowalski as "Polaczek"
+- In the play, Blanche contemptuously calls Stanley "Polack"
+- Polish context: character presented as a "primitive and sweaty man who easily explodes with anger"
+- Stereotype of Polish-American worker of the 1940s/50s
+- Polish critics analyze this character in the context of ethnic stereotypes
 
-### Blanche DuBois w polskim odbiorze
-- Opisywana jako "delikatna, wzruszająca i przesadnie teatralna"
-- Kontrast z brutalnym Stanley'm szczególnie mocno rezonuje z polską publicznością
-- Postać rozumiana jako reprezentacja upadającej arystokracji Południa USA
+### Blanche DuBois in Polish Reception
+- Described as "delicate, touching and overly theatrical"
+- Contrast with brutal Stanley particularly strongly resonates with Polish audiences
+- Character understood as representing the declining Southern US aristocracy
 
-## Współczesne reinterpretacje
+## Contemporary Reinterpretations
 
-### Spektakl Małgorzaty Bogajewskiej (2021)
-- **Współczesna interpretacja**: "To nie jest sztuka o pożądaniu, to prawdopodobnie też nie o miłości. Pokazuje brutalną rzeczywistość, którą rządzi ekonomia"
-- **Relevancja**: Reżyser podkreśla, że sztuka "bardzo dobrze rezonuje z tym, co się dzieje teraz"
-- **Stereotypy płciowe**: Produkcja skupia się na "rolach kobiecych i męskich" oraz problemach ekonomicznych
+### Małgorzata Bogajewska's Production (2021)
+- **Contemporary Interpretation**: "This is not a play about desire, it's probably not about love either. It shows brutal reality ruled by economics"
+- **Relevance**: Director emphasizes that the play "resonates very well with what's happening now"
+- **Gender Stereotypes**: Production focuses on "female and male roles" and economic problems
 
-### Krytyka teatralna
-- Polscy krytycy doceniają "mocną i wnikliwą analizę ludzkich słabości i popędów"
-- Podkreślana jest uniwersalność problemów poruszanych przez Williamsa
-- Współczesne produkcje akcentują ekonomiczne aspekty konfliktu
+### Theatre Criticism
+- Polish critics appreciate the "strong and insightful analysis of human weaknesses and drives"
+- The universality of problems raised by Williams is emphasized
+- Contemporary productions accent economic aspects of the conflict
 
-## Kulturowe nawiązania i easter eggi
+## Cultural References and Easter Eggs
 
-### Polski kontekst historyczny
-- Sztuka trafiła do Polski w okresie odwilży po 1956 roku
-- Tematyka brutalności i przemocy rezonowała z doświadczeniami PRL-u
-- Motyw utraty majątku rodzinnego znajdował odbicie w polskich realiach powojennych
+### Polish Historical Context
+- The play reached Poland during the thaw period after 1956
+- Themes of brutality and violence resonated with Communist-era experiences
+- Motif of family estate loss found reflection in Polish post-war realities
 
-### W kulturze popularnej
-- Film z Marlonem Brando nadal wyświetlany w ramach cykli "kultowe filmy"
-- Gdyńskie Centrum Filmowe regularnie pokazuje film w programie "Kultowe w Centrum"
-- Postać Stanley'ego Kowalskiego stała się synonimem męskiej brutalności w polskim dyskursie kulturowym
+### In Popular Culture
+- Film with Marlon Brando still shown in "cult films" cycles
+- Gdynia Film Center regularly shows the film in "Cult at the Center" program
+- Stanley Kowalski's character became synonymous with male brutality in Polish cultural discourse
 
-## Polscy artyści i twórcy związani z dziełem
+## Polish Artists and Creators Associated with the Work
 
-### Tłumacze
-- **Jacek Poniedziałek** - współczesny tłumacz, aktor i reżyser
-- Jego przekład opisywany jako przełomowy dla recepcji Williamsa w Polsce
+### Translators
+- **Jacek Poniedziałek** - contemporary translator, actor and director
+- His translation described as groundbreaking for Williams' reception in Poland
 
-### Reżyserzy
-- **Bogusław Linda** - reżyser spektaklu w Teatrze Ateneum (2014)
-- **Małgorzata Bogajewska** - reżyser spektaklu w Teatrze Ochoty (2021)
-- **Aleksander Bardini** - reżyser pierwszej warszawskiej inscenizacji (1959)
+### Directors
+- **Bogusław Linda** - director of Ateneum Theatre production (2014)
+- **Małgorzata Bogajewska** - director of Ochota Theatre production (2021)
+- **Aleksander Bardini** - director of first Warsaw staging (1959)
 
-### Polscy aktorzy w głównych rolach
-- **Julia Kijowska** - Blanche (Teatr Ateneum, 2014)
-- **Tomasz Schuchardt** - Stanley (Teatr Ateneum, 2014)
-- **Malwina Laska-Eichmann** - współczesna interpretacja roli Blanche (Teatr Ochoty, 2021)
+### Polish Actors in Lead Roles
+- **Julia Kijowska** - Blanche (Ateneum Theatre, 2014)
+- **Tomasz Schuchardt** - Stanley (Ateneum Theatre, 2014)
+- **Malwina Laska-Eichmann** - contemporary interpretation of Blanche (Ochota Theatre, 2021)
 
-## Specyfika polskiego odbioru
+## Specificity of Polish Reception
 
-### Różnice kulturowe w interpretacji
-- Polski odbiór akcentuje aspekty ekonomiczne konfliktu
-- Mniejszy nacisk na aspekty rasowe (mniej istotne w polskim kontekście)
-- Większe zrozumienie dla problemów mieszkaniowych i ekonomicznych
-- Stereotyp polsko-amerykańskiego imigranta jako element analizy
+### Cultural Differences in Interpretation
+- Polish reception emphasizes economic aspects of conflict
+- Less emphasis on racial aspects (less relevant in Polish context)
+- Greater understanding of housing and economic problems
+- Polish-American immigrant stereotype as element of analysis
 
-### Tematyka aktualna dla polskich widzów
-- **Problemy mieszkaniowe**: Życie w małych przestrzeniach
-- **Konflikty społeczne**: Zderzenie różnych klas społecznych
-- **Stereotypy płciowe**: Szczególnie istotne w kontekście współczesnych debat
-- **Przemoc domowa**: Temat bardzo aktualny w polskim dyskursie społecznym
+### Themes Relevant to Polish Audiences
+- **Housing Problems**: Living in small spaces
+- **Social Conflicts**: Clash of different social classes
+- **Gender Stereotypes**: Particularly relevant in context of contemporary debates
+- **Domestic Violence**: Very current topic in Polish social discourse
 
-## Miejsca pamięci teatralnej
+## Theatrical Memory Sites
 
-### Teatry z długą tradycją wystawiania sztuki
-- **Teatr Ateneum im. Stefana Jaracza** - wielokrotne inscenizacje
-- **Teatr Ochoty im. Haliny i Jana Machulskich** - najnowsza produkcja
-- **Teatr Polski w Poznaniu** - pierwsza polska inscenizacja
+### Theatres with Long Tradition of Staging the Play
+- **Stefan Jaracz Ateneum Theatre** - multiple stagings
+- **Halina and Jan Machulski Ochota Theatre** - newest production
+- **Polish Theatre in Poznan** - first Polish staging
 
-### Publikacje i wydawnictwa
-- **Wydawnictwo Znak** - wydawca zbioru "Tramwaj zwany pożądaniem i inne dramaty"
-- Liczne wydania w polskich księgarniach teatralnych
-- Dostępność w bibliotekach uniwersyteckich i teatralnych
+### Publications and Publishers
+- **Znak Publishing House** - publisher of "A Streetcar Named Desire and Other Dramas" collection
+- Numerous editions in Polish theatrical bookstores
+- Availability in university and theatrical libraries
 
-## Wpływ na polską scenę teatralną
+## Impact on Polish Theatre Scene
 
-Tennessee Williams i "Tramwaj zwany pożądaniem" wywarły znaczący wpływ na rozwój polskiego teatru psychologicznego. Sztuka przyczyniła się do rozwoju:
-- Teatru psychologicznego w Polsce
-- Metody pracy z tekstem dramatycznym
-- Rozumienia współczesnego dramatu amerykańskiego
-- Technik aktorskich opartych na metodzie Stanisławskiego
+Tennessee Williams and "A Streetcar Named Desire" significantly influenced the development of Polish psychological theatre. The play contributed to the development of:
+- Psychological theatre in Poland
+- Methods of working with dramatic text
+- Understanding of contemporary American drama
+- Acting techniques based on Stanislavski method
 
-Dzieło Williamsa pozostaje żywą częścią polskiego repertuaru teatralnego, regularnie powracając na sceny w nowych interpretacjach, które odnajdują współczesne znaczenia w klasycznym tekście.
+Williams' work remains a living part of Polish theatrical repertoire, regularly returning to stages in new interpretations that find contemporary meanings in the classic text.

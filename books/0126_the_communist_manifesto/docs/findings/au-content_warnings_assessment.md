@@ -1,268 +1,268 @@
-# Ocena Zgodności Treści i Ostrzeżenia: "Manifest komunistyczny"
+# Content Warnings and Compliance Assessment: "The Communist Manifesto"
 
-**Książka**: The Communist Manifesto  
-**Autorzy**: Karl Marx i Friedrich Engels  
-**Rok**: 1848  
-**Agent**: Content Warnings Assessment  
-**Data analizy**: 2025-09-02  
+**Book**: The Communist Manifesto
+**Authors**: Karl Marx and Friedrich Engels
+**Year**: 1848
+**Agent**: Content Warnings Assessment
+**Analysis Date**: 2025-09-19
 
-## Podsumowanie Wykonawcze
+## Executive Summary
 
-"Manifest komunistyczny" stanowi WYSOKIE RYZYKO dla publikacji na platformach Meta (Facebook/Instagram) ze względu na nowe liberalne zasady mowy nienawiści, ŚREDNIE RYZYKO na YouTube i TikTok w zależności od podejścia, oraz NISKIE RYZYKO na Spotify i Kick. Treść zawiera kontrowersyjne elementy polityczne, ale ma wartość edukacyjną. Rekomendacja: **16+** z odpowiednimi ostrzeżeniami o zawartości.
-
----
-
-## Analiza Materiałów Badawczych
-
-### Przeanalizowane dokumenty research:
-1. **au-research_facts_history.md** - Historia powstania, fakty i anegdoty
-2. **au-research_culture_impact.md** - Wpływ kulturowy i adaptacje medialne  
-3. **au-research_symbols_meanings.md** - Symbolika i ukryte znaczenia
-4. **au-research_local_context.md** - Recepcja w Polsce
-5. **au-research_youth_digital.md** - Połączenia z kulturą Gen Z
-6. **au-research_reality_wisdom.md** - Trafność przewidywań i uniwersalne prawdy
-7. **au-research_writing_innovation.md** - Innowacje pisarskie
-8. **au-research_dark_drama.md** - Kontrowersje i mroczne aspekty
+"The Communist Manifesto" presents **HIGH RISK** for publication on Meta platforms (Facebook/Instagram) due to new liberalized hate speech policies, **MEDIUM RISK** on YouTube and TikTok depending on approach, and **LOW RISK** on Spotify and Kick. The content contains controversial political elements but has educational value. Recommendation: **16+** with appropriate content warnings.
 
 ---
 
-## Matrix Ryzyka: Problematyczne Tematy vs Platformy
+## Research Materials Analysis
 
-| Temat/Element | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+### Analyzed research documents:
+1. **au-research_facts_history.md** - Creation history, facts and anecdotes
+2. **au-research_culture_impact.md** - Cultural impact and media adaptations
+3. **au-research_symbols_meanings.md** - Symbolism and hidden meanings
+4. **au-research_local_pl_context.md** - Reception in Poland
+5. **au-research_youth_digital.md** - Connections with Gen Z culture
+6. **au-research_reality_wisdom.md** - Accuracy of predictions and universal truths
+7. **au-research_writing_innovation.md** - Writing innovations
+8. **au-research_dark_drama.md** - Controversies and dark aspects
+
+---
+
+## Risk Matrix: Problematic Topics vs Platforms
+
+| Topic/Element | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
 |---------------|----------|-----------|---------|---------|---------|------|
-| **Rewolucja/Przemoc** | 🔴 WYSOKIE | 🔴 WYSOKIE | 🟡 ŚREDNIE | 🟡 ŚREDNIE | 🟢 NISKIE | 🟢 NISKIE |
-| **Walka klasowa** | 🔴 WYSOKIE | 🔴 WYSOKIE | 🟡 ŚREDNIE | 🟡 ŚREDNIE | 🟢 NISKIE | 🟢 NISKIE |
-| **Antysemityzm autorów** | 🔴 WYSOKIE | 🔴 WYSOKIE | 🔴 WYSOKIE | 🔴 WYSOKIE | 🟡 ŚREDNIE | 🟡 ŚREDNIE |
-| **Teorie spiskowe** | 🔴 WYSOKIE | 🔴 WYSOKIE | 🟡 ŚREDNIE | 🟡 ŚREDNIE | 🟢 NISKIE | 🟢 NISKIE |
-| **Skandale osobiste** | 🟡 ŚREDNIE | 🟡 ŚREDNIE | 🟢 NISKIE | 🟡 ŚREDNIE | 🟢 NISKIE | 🟢 NISKIE |
-| **Krytyka kapitalizmu** | 🔴 WYSOKIE | 🔴 WYSOKIE | 🟡 ŚREDNIE | 🟡 ŚREDNIE | 🟢 NISKIE | 🟢 NISKIE |
-| **Treści historyczne** | 🟡 ŚREDNIE | 🟡 ŚREDNIE | 🟢 NISKIE | 🟢 NISKIE | 🟢 NISKIE | 🟢 NISKIE |
+| **Revolution/Violence** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Class struggle** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Authors' antisemitism** | 🔴 HIGH | 🔴 HIGH | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM |
+| **Conspiracy theories** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Personal scandals** | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Capitalism critique** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Historical content** | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
 
 ---
 
-## Klasyfikacja Wiekowa
+## Age Classification
 
-### **REKOMENDACJA: 16+**
+### **RECOMMENDATION: 16+**
 
-**Uzasadnienie:**
-- Złożone tematy polityczne wymagające dojrzałości
-- Kontrowersyjne elementy historyczne (antysemityzm, teorie spiskowe)
-- Odniesienia do przemocy rewolucyjnej
-- Potrzeba kontekstu historycznego do zrozumienia
+**Justification:**
+- Complex political topics requiring maturity
+- Controversial historical elements (antisemitism, conspiracy theories)
+- References to revolutionary violence
+- Need for historical context to understand
 
-### **Elementy wymagające ostrzeżeń:**
+### **Elements requiring warnings:**
 
-#### **13+ Content** (Bezpieczne):
-- ✅ Podstawowa historia powstania książki
-- ✅ Wpływ na literaturę i kulturę
-- ✅ Innowacje pisarskie i techniki literackie
-- ✅ Polski kontekst kulturowy
+#### **13+ Content** (Safe):
+- ✅ Basic history of book creation
+- ✅ Impact on literature and culture
+- ✅ Writing innovations and literary techniques
+- ✅ Polish cultural context
 
-#### **16+ Content** (Wymaga kontekstu):
-- ⚠️ Analiza walki klasowej i rewolucji
-- ⚠️ Krytyka systemów ekonomicznych
-- ⚠️ Złożona symbolika polityczna
-- ⚠️ Interpretacje współczesne (Gen Z connections)
+#### **16+ Content** (Requires context):
+- ⚠️ Analysis of class struggle and revolution
+- ⚠️ Critique of economic systems
+- ⚠️ Complex political symbolism
+- ⚠️ Contemporary interpretations (Gen Z connections)
 
-#### **18+ Content** (Dla dorosłych):
-- 🚫 Skandale osobiste autorów
-- 🚫 Antysemickie wypowiedzi Marksa
-- 🚫 Teorie spiskowe i kontrowersje
-- 🚫 Szczegółowa analiza "mrocznych" aspektów
+#### **18+ Content** (For adults):
+- 🚫 Authors' personal scandals
+- 🚫 Marx's antisemitic statements
+- 🚫 Conspiracy theories and controversies
+- 🚫 Detailed analysis of "dark" aspects
 
 ---
 
-## Rekomendacje dla Każdej Platformy
+## Platform-Specific Recommendations
 
-### 🔴 FACEBOOK/META - WYSOKIE RYZYKO
+### 🔴 FACEBOOK/META - HIGH RISK
 
-**Problemy:**
-- Nowe liberalne zasady mowy nienawiści mogą być nieprzewidywalne
-- System Community Notes może oznaczać treści jako kontrowersyjne
-- Algorytm może karać polityczną zawartość
+**Problems:**
+- New liberalized hate speech rules may be unpredictable
+- Community Notes system may flag content as controversial
+- Algorithm may penalize political content
 
-**REKOMENDACJE:**
-- **EDIT/OMIT**: Usuń wszystkie odniesienia do rewolucji i przemocy
-- **AGE-RESTRICT**: 18+ dla pełnej wersji
-- **FOCUS**: Koncentruj się tylko na aspektach literackich i historycznych
-- **AVOID**: Nie poruszaj współczesnych interpretacji politycznych
+**RECOMMENDATIONS:**
+- **EDIT/OMIT**: Remove all references to revolution and violence
+- **AGE-RESTRICT**: 18+ for full version
+- **FOCUS**: Concentrate only on literary and historical aspects
+- **AVOID**: Don't discuss contemporary political interpretations
 
-**Bezpieczne tematy:**
-- Historia powstania w Londynie (Red Lion pub)
-- Innowacje literackie i pisarskie
-- Polski kontekst kulturowy
-- Wpływ na literaturę światową
+**Safe topics:**
+- History of creation in London (Red Lion pub)
+- Literary and writing innovations
+- Polish cultural context
+- Impact on world literature
 
-### 🔴 INSTAGRAM - WYSOKIE RYZYKO
+### 🔴 INSTAGRAM - HIGH RISK
 
-**Problemy:** 
-- Identyczne zasady jak Facebook
-- Visual content może być łatwiej moderowany
-- Młodsza publiczność, ale restrykcyjniejsze zasady
+**Problems:**
+- Identical rules as Facebook
+- Visual content may be more easily moderated
+- Younger audience, but more restrictive rules
 
-**REKOMENDACJE:**
-- **Identyczne jak Facebook**
-- **VISUAL STRATEGY**: Używaj grafik literackich, nie politycznych
-- **STORIES**: Krótkie fakty historyczne bez kontrowersji
-- **REELS**: Focus na ciekawostki kulturowe, nie politykę
+**RECOMMENDATIONS:**
+- **Identical to Facebook**
+- **VISUAL STRATEGY**: Use literary graphics, not political ones
+- **STORIES**: Short historical facts without controversies
+- **REELS**: Focus on cultural curiosities, not politics
 
-### 🟡 YOUTUBE - ŚREDNIE RYZYKO
+### 🟡 YOUTUBE - MEDIUM RISK
 
-**Problemy:**
-- Zaostrzone zasady anty-AI (wymaga ludzkiej narracji)
-- Polityczne treści są scrutinized
-- Wymaga originalnej wartości dodanej
+**Problems:**
+- Tightened anti-AI rules (requires human narration)
+- Political content is scrutinized
+- Requires original added value
 
-**REKOMENDACJE:**
-- **OK**: Pełna analiza z edukacyjnym kontekstem
-- **WYMAGA**: Ludzka narracja, nie text-to-speech
-- **AGE-RESTRICT**: 16+ dla pełnej wersji
-- **STORYTELLING**: Focus na narrative, nie suche fakty
-
-**Strategia treści:**
-- Historia powstania jako storytelling
-- Analiza wpływu na kulturę
-- Połączenia z Gen Z jako hook
-- Polski kontekst jako unique angle
-
-### 🟡 TIKTOK - ŚREDNIE RYZYKO
-
-**Problemy:**
-- Tylko 1+ min treści są monetyzowane
-- Strict compliance (70% rejection rate)
-- Młoda publiczność może być wrażliwa
-
-**REKOMENDACJE:**
-- **OK**: Edukacyjna zawartość 16+
-- **WYMAGA**: Minimum 1 minuta dla monetyzacji
-- **ORIGINAL**: Własny komentarz, nie powtarzanie
-- **EDUCATIONAL**: Jasno oznaczaj jako educational content
+**RECOMMENDATIONS:**
+- **OK**: Full analysis with educational context
+- **REQUIRES**: Human narration, not text-to-speech
+- **AGE-RESTRICT**: 16+ for full version
+- **STORYTELLING**: Focus on narrative, not dry facts
 
 **Content strategy:**
-- "Daddy Marx" trend jako entry point
-- Gen Z connections jako główny hook
-- Krótkie fakty historyczne
-- Unikaj głębokich analiz politycznych
+- Creation history as storytelling
+- Analysis of cultural impact
+- Gen Z connections as hook
+- Polish context as unique angle
 
-### 🟢 SPOTIFY - NISKIE RYZYKO
+### 🟡 TIKTOK - MEDIUM RISK
 
-**Najlepsze szanse dla pełnej analizy**
+**Problems:**
+- Only 1+ minute content is monetized
+- Strict compliance (70% rejection rate)
+- Young audience may be sensitive
 
-**ZALETY:**
+**RECOMMENDATIONS:**
+- **OK**: Educational content 16+
+- **REQUIRES**: Minimum 1 minute for monetization
+- **ORIGINAL**: Own commentary, not repetition
+- **EDUCATIONAL**: Clearly mark as educational content
+
+**Content strategy:**
+- "Daddy Marx" trend as entry point
+- Gen Z connections as main hook
+- Short historical facts
+- Avoid deep political analysis
+
+### 🟢 SPOTIFY - LOW RISK
+
+**Best chances for full analysis**
+
+**ADVANTAGES:**
 - Creator-friendly policies
-- Educational content preferowany
-- Najmniej restrykcyjny dla book content
+- Educational content preferred
+- Least restrictive for book content
 
-**REKOMENDACJE:**
-- **OK**: Pełna analiza wszystkich aspektów
-- **VIDEO FORMAT**: Wykorzystaj video podcasts dla lepszej monetyzacji
-- **SERIES**: Zrób to jako część serii o klasykach
-- **AGE-RESTRICT**: 16+ dla odpowiedzialności
+**RECOMMENDATIONS:**
+- **OK**: Full analysis of all aspects
+- **VIDEO FORMAT**: Use video podcasts for better monetization
+- **SERIES**: Make it part of classics series
+- **AGE-RESTRICT**: 16+ for responsibility
 
-**Strategia:**
-- Deep dive w historię powstania
-- Analiza wszystkich research findings
-- Polski kontekst jako unique value
+**Strategy:**
+- Deep dive into creation history
+- Analysis of all research findings
+- Polish context as unique value
 - Cross-platform promotion
 
-### 🟢 KICK - NISKIE RYZYKO
+### 🟢 KICK - LOW RISK
 
-**Najbardziej creator-friendly**
+**Most creator-friendly**
 
-**ZALETY:**
+**ADVANTAGES:**
 - 95/5 revenue split
-- Najmniej restrykcyjne content policies
+- Least restrictive content policies
 - Context-based moderation
 
-**REKOMENDACJE:**
-- **OK**: Pełna, nieograniczona analiza
+**RECOMMENDATIONS:**
+- **OK**: Full, unrestricted analysis
 - **LIVE FORMAT**: Interactive book discussions
 - **COMMUNITY**: Build around political education
-- **NO LIMITS**: Możliwość omawiania wszystkich aspektów
+- **NO LIMITS**: Ability to discuss all aspects
 
-**Strategia:**
+**Strategy:**
 - Live reading sessions
-- Q&A o kontrowersyjnych aspektach
+- Q&A about controversial aspects
 - Community building around literature
 - Educational streaming
 
 ---
 
-## Content Warnings dla Słuchaczy
+## Content Warnings for Listeners
 
-### ⚠️ GŁÓWNE OSTRZEŻENIA:
+### ⚠️ MAIN WARNINGS:
 
-**"Następujący content zawiera:**
-- Dyskusję o rewolucji i przemianie społecznej
-- Analizę kontrowersyjnych wypowiedzi historycznych autorów
-- Tematy polityczne z XIX wieku w kontekście współczesnym
-- Krytyczną analizę systemów ekonomicznych
-- Odniesienia do teorii spiskowych (jako materiał historyczny)
+**"The following content contains:**
+- Discussion of revolution and social transformation
+- Analysis of controversial historical statements by authors
+- Political topics from 19th century in contemporary context
+- Critical analysis of economic systems
+- References to conspiracy theories (as historical material)
 - Mature themes requiring historical context"
 
-### 🔤 JĘZYK I TERMINOLOGIA:
+### 🔤 LANGUAGE AND TERMINOLOGY:
 
-**Potencjalnie problematyczne terminy:**
-- "Walka klasowa" → **Alternatywa**: "Konflikty społeczno-ekonomiczne"
-- "Rewolucja" → **Alternatywa**: "Transformacja społeczna"
-- "Burżuazja vs proletariat" → **Alternatywa**: "Różnice klasowe"
-- "Obalenie systemu" → **Alternatywa**: "Zmiana systemowa"
+**Potentially problematic terms:**
+- "Class struggle" → **Alternative**: "Socio-economic conflicts"
+- "Revolution" → **Alternative**: "Social transformation"
+- "Bourgeoisie vs proletariat" → **Alternative**: "Class differences"
+- "System overthrow" → **Alternative**: "Systemic change"
 
 ---
 
-## Obszary Wymagające Szczególnej Ostrożności
+## Areas Requiring Special Caution
 
-### 🚨 RED FLAGS - UNIKAJ LUB PRZEKAŻ BARDZO OSTROŻNIE:
+### 🚨 RED FLAGS - AVOID OR CONVEY VERY CAREFULLY:
 
-1. **Antysemickie wypowiedzi Marksa**
-   - **Problem**: Bezpośrednie cytaty mogą być potraktowane jako hate speech
-   - **Rozwiązanie**: Kontekstualizuj jako błąd historyczny, nie cytuj bezpośrednio
+1. **Marx's antisemitic statements**
+   - **Problem**: Direct quotes may be treated as hate speech
+   - **Solution**: Contextualize as historical error, don't quote directly
 
-2. **Wezwania do rewolucji**
-   - **Problem**: Mogą być interpretowane jako podżeganie do przemocy
-   - **Rozwiązanie**: Przedstaw jako dokument historyczny, nie współczesną agendę
+2. **Calls for revolution**
+   - **Problem**: May be interpreted as incitement to violence
+   - **Solution**: Present as historical document, not contemporary agenda
 
-3. **Teorie spiskowe**
-   - **Problem**: Algorytmy social media karają conspiracy content
-   - **Rozwiązanie**: Oznacz jasno jako historical conspiracy theories, nie current beliefs
+3. **Conspiracy theories**
+   - **Problem**: Social media algorithms penalize conspiracy content
+   - **Solution**: Clearly mark as historical conspiracy theories, not current beliefs
 
-4. **Współczesne paralele polityczne**
-   - **Problem**: Meta szczególnie wrażliwe na political content
-   - **Rozwiązanie**: Focus na historical analysis, nie current politics
+4. **Contemporary political parallels**
+   - **Problem**: Meta particularly sensitive to political content
+   - **Solution**: Focus on historical analysis, not current politics
 
-### 🟡 YELLOW FLAGS - WYMAGAJĄ KONTEKSTU:
+### 🟡 YELLOW FLAGS - REQUIRE CONTEXT:
 
-1. **Liga Komunistów jako tajna organizacja**
-2. **Skandale osobiste autorów**  
-3. **Failed prophecies i błędy prognoz**
+1. **Communist League as secret organization**
+2. **Authors' personal scandals**
+3. **Failed prophecies and prediction errors**
 4. **Cultural Marxism debates**
 
 ---
 
-## Education-Friendly Sposoby Omówienia Trudnych Tematów
+## Education-Friendly Ways to Discuss Difficult Topics
 
 ### 📚 ACADEMIC FRAMING:
 
-**Zamiast:** "Marx wzywał do rewolucji"
-**Mów:** "Jako dokument z 1848 roku, Manifest odzwierciedla ówczesne frustracje społeczne"
+**Instead of:** "Marx called for revolution"
+**Say:** "As a document from 1848, the Manifesto reflects contemporary social frustrations"
 
-**Zamiast:** "Komunizm vs kapitalizm" 
-**Mów:** "Różne modele organizacji ekonomicznej w perspektywie historycznej"
+**Instead of:** "Communism vs capitalism"
+**Say:** "Different models of economic organization in historical perspective"
 
-**Zamiast:** "Marx był antysemitą"
-**Mów:** "Jak wielu ludzi swojej epoki, Marx przejął problematyczne stereotypy swojego czasu"
+**Instead of:** "Marx was an antisemite"
+**Say:** "Like many people of his era, Marx adopted problematic stereotypes of his time"
 
 ### 🎓 PEDAGOGICAL APPROACHES:
 
 1. **Historical Contextualization**
-   - Zawsze umieść w kontekście 1848 roku
-   - Wyjaśnij społeczne warunki epoki
-   - Porównaj z innymi dokumentami z tego okresu
+   - Always place in context of 1848
+   - Explain social conditions of the era
+   - Compare with other documents from that period
 
 2. **Literary Analysis**
-   - Focus na innowacje pisarskie
-   - Analiza retoryki i stylu
-   - Wpływ na późniejszą literaturę
+   - Focus on writing innovations
+   - Analysis of rhetoric and style
+   - Impact on later literature
 
 3. **Critical Thinking**
    - "What can we learn from this document?"
@@ -270,50 +270,50 @@
    - "What questions should we ask about any influential text?"
 
 4. **Cultural Impact Study**
-   - Wpływ na ruchy społeczne
-   - Adaptacje w kulturze (filmy, sztuka)
+   - Impact on social movements
+   - Adaptations in culture (films, art)
    - Evolution of ideas over time
 
 ---
 
-## Compliance Checklist - Lista Kontrolna
+## Compliance Checklist
 
-### ✅ PRZED PUBLIKACJĄ:
+### ✅ BEFORE PUBLICATION:
 
 **Facebook/Instagram:**
-- [ ] Usuń wszystkie bezpośrednie wezwania do rewolucji
-- [ ] Usuń kontrowersyjne cytaty Marksa
-- [ ] Focus tylko na historical/literary aspects
-- [ ] Age-gate do 18+
-- [ ] Dodaj disclaimer o historical context
+- [ ] Remove all direct calls for revolution
+- [ ] Remove controversial Marx quotes
+- [ ] Focus only on historical/literary aspects
+- [ ] Age-gate to 18+
+- [ ] Add disclaimer about historical context
 
 **YouTube:**
-- [ ] Użyj ludzkiej narracji (nie text-to-speech)
-- [ ] Dodaj original commentary do wszystkich faktów
+- [ ] Use human narration (not text-to-speech)
+- [ ] Add original commentary to all facts
 - [ ] Clear educational framing
 - [ ] 16+ age restriction
 - [ ] Storytelling approach
 
 **TikTok:**
-- [ ] Minimum 1 minuta dla monetyzacji
-- [ ] Original commentary wymagany
+- [ ] Minimum 1 minute for monetization
+- [ ] Original commentary required
 - [ ] Educational tags
 - [ ] Avoid controversial quotes
-- [ ] Focus na Gen Z connections
+- [ ] Focus on Gen Z connections
 
 **Spotify:**
 - [ ] Consider video format
-- [ ] Full analysis możliwa
+- [ ] Full analysis possible
 - [ ] 16+ rating
 - [ ] Cross-platform promotion plan
 
 **Kick:**
 - [ ] Full creative freedom
 - [ ] Interactive community format
-- [ ] Live discussion możliwy
+- [ ] Live discussion possible
 - [ ] Educational context maintained
 
-### 📊 METRICS DO TRACKING:
+### 📊 METRICS TO TRACK:
 
 - **Engagement vs Content warnings**
 - **Age demographics engagement**
@@ -323,15 +323,15 @@
 
 ---
 
-## Alternative Approaches dla Różnych Publiczności
+## Alternative Approaches for Different Audiences
 
 ### 👶 YOUNG TEENS (13-15):
 **"Communist Manifesto: Historical Document Study"**
-- Focus na historical significance
-- Podstawowe informacje o epoce
+- Focus on historical significance
+- Basic information about the era
 - Literary innovations only
-- Polskie tłumaczenia i recepcja
-- **OMIT**: Wszystkie kontrowersje
+- Polish translations and reception
+- **OMIT**: All controversies
 
 ### 🧑‍🎓 OLDER TEENS (16-18):
 **"Critical Analysis of a Revolutionary Text"**
@@ -339,27 +339,27 @@
 - Analysis of predictions vs reality
 - Cultural impact discussion
 - Symbolism and meaning
-- **CAUTION**: Przedstaw kontrowersje z kontekstem
+- **CAUTION**: Present controversies with context
 
 ### 🎓 ADULTS (18+):
 **"Complete Analysis: Controversies, Impact, and Legacy"**
-- Full access wszystkich research findings
-- Scandals i dark aspects
+- Full access to all research findings
+- Scandals and dark aspects
 - Contemporary conspiracy theories
 - Critical evaluation
-- **NO LIMITS**: Pełna akademicka analiza
+- **NO LIMITS**: Full academic analysis
 
 ---
 
-## FINAL RECOMMENDATIONS - KOŃCOWE ZALECENIA
+## FINAL RECOMMENDATIONS
 
 ### 🎯 OPTIMAL STRATEGY:
 
-1. **START SAFE**: Begin z historical/literary analysis
-2. **GAUGE AUDIENCE**: Monitor engagement i feedback
-3. **GRADUAL DEPTH**: Stopniowo wprowadzaj bardziej complex topics
-4. **PLATFORM-SPECIFIC**: Dostosuj content do każdej platformy
-5. **EDUCATIONAL FOCUS**: Zawsze prioritize educational value
+1. **START SAFE**: Begin with historical/literary analysis
+2. **GAUGE AUDIENCE**: Monitor engagement and feedback
+3. **GRADUAL DEPTH**: Gradually introduce more complex topics
+4. **PLATFORM-SPECIFIC**: Adapt content to each platform
+5. **EDUCATIONAL FOCUS**: Always prioritize educational value
 
 ### 💡 SUCCESS METRICS:
 
@@ -372,17 +372,17 @@
 
 1. **Truth over Sensation**: Historical accuracy over clickbait
 2. **Context over Controversy**: Educational value over shock
-3. **Responsibility**: Acknowledge influence na młodych słuchaczy
+3. **Responsibility**: Acknowledge influence on young listeners
 4. **Balance**: Present multiple perspectives
 5. **Growth**: Help audience develop critical thinking
 
 ---
 
-## PODSUMOWANIE
+## SUMMARY
 
-"Manifest komunistyczny" to challenging but valuable content dla educational podcasting. Success wymaga careful platform-specific strategies, appropriate age-gating, i strong educational framing. Największe szanse na Spotify i Kick, moderate opportunities na YouTube i TikTok, i high risk na Meta platforms. 
+"The Communist Manifesto" is challenging but valuable content for educational podcasting. Success requires careful platform-specific strategies, appropriate age-gating, and strong educational framing. Best chances on Spotify and Kick, moderate opportunities on YouTube and TikTok, and high risk on Meta platforms.
 
-**Key to success**: Treat as historical document with contemporary relevance, not political agenda. Focus on literary innovations, cultural impact, i critical thinking development rather than controversial aspects.
+**Key to success**: Treat as historical document with contemporary relevance, not political agenda. Focus on literary innovations, cultural impact, and critical thinking development rather than controversial aspects.
 
 **Target Rating: 16+ with content warnings**
 **Optimal Platforms: Spotify (video podcast), Kick (live education)**
@@ -390,4 +390,4 @@
 
 ---
 
-*Analiza oparta na aktualnych platform policies (2025) i kompletnym research od 8 specjalistycznych agentów.*
+*Analysis based on current platform policies (2025) and comprehensive research from 8 specialized agents.*

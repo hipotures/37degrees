@@ -1,187 +1,187 @@
-# Lokalny kontekst kulturowy - "Ojciec Goriot" Honoré de Balzaca
+# Local Cultural Context - "Father Goriot" by Honoré de Balzac
 
-## Polskie tłumaczenia i ich historia
+## Polish Translations and Their History
 
-### Pierwsze polskie wydania (1834-1838)
-- **F.S. Dmochowski** był pierwszym tłumaczem Balzaca na język polski
-- W latach 1834-1838 przetłumaczył kilkanaście dzieł, w tym wczesne przekłady z "Komedii Ludzkiej"
-- Po tym okresie nastąpiła 40-letnia przerwa w publikacjach Balzaca w Polsce (1838-1880)
-- Pierwszy zbiorowy "Wybór dzieł" ukazał się dopiero w latach 1880-1884 w "Bibliotece Najcelniejszych Utworów Literatury Europejskiej"
+### First Polish Editions (1834-1838)
+- **F.S. Dmochowski** was the first translator of Balzac into Polish
+- Between 1834-1838 he translated several dozen works, including early translations from "The Human Comedy"
+- After this period there was a 40-year break in Balzac publications in Poland (1838-1880)
+- The first collective "Selected Works" appeared only in 1880-1884 in "Library of the Most Excellent Works of European Literature"
 
-### Epokowe tłumaczenie Tadeusza Boya-Żeleńskiego
-- **Najważniejsze polskie tłumaczenie "Ojca Goriota"** pochodzi od Tadeusza Boya-Żeleńskiego
-- Pierwszy raz wydane w 1919 przez Gebethnera z wprowadzeniem samego Boya
-- Boy przełożył całą "Komedię Ludzką" - ponad 100 tomów w ramach "Biblioteki Boya"
-- Za tłumaczenia literatury francuskiej otrzymał Krzyż Kawalerski Legii Honorowej (1922)
-- Francja uhonorowała go Orderem Palm Akademickich już w 1914 roku
+### Epoch-making Translation by Tadeusz Boy-Żeleński
+- **The most important Polish translation of "Father Goriot"** comes from Tadeusz Boy-Żeleński
+- First published in 1919 by Gebethner with an introduction by Boy himself
+- Boy translated the entire "Human Comedy" - over 100 volumes as part of "Boy's Library"
+- For translations of French literature he received the Knight's Cross of the Legion of Honor (1922)
+- France honored him with the Order of Academic Palms already in 1914
 
-### Specyfika tłumaczeń Boya
-- Boy poznał powieści Balzaca podczas studiów medycznych w Paryżu
-- Jego podejście: "tworzyć sobie zastępstwo Francji" poprzez tłumaczenia
-- Styl charakteryzowany jako "piękny", "fascynujący wyrafinowaniem" i pełen erudycji
-- Przekłady uznane za "genialne" i stanowiące kanon polskich tłumaczeń literatury francuskiej
+### Specifics of Boy's Translations
+- Boy became acquainted with Balzac's novels during medical studies in Paris
+- His approach: "to create a substitute for France" through translations
+- Style characterized as "beautiful," "fascinating with refinement" and full of erudition
+- Translations recognized as "brilliant" and constituting the canon of Polish translations of French literature
 
-## Związki z Krakowem i Małopolską
+## Connections with Krakow and Lesser Poland
 
-### Balzac w Krakowie - historyczne pobyty
-- **1847 (9-10 września)** - pierwszy pobyt w Krakowie
-- **1848 (luty i wrzesień)** - dwa kolejne pobyty
-- **1850 (4-5 maja)** - ostatni pobyt, już jako mąż Eweliny Hańskiej
-- Kraków był przystankiem w podróżach z Francji do Wierzchowni na Ukrainie
+### Balzac in Krakow - Historical Visits
+- **1847 (September 9-10)** - first stay in Krakow
+- **1848 (February and September)** - two more stays
+- **1850 (May 4-5)** - last stay, already as husband of Ewelina Hańska
+- Krakow was a stopover on journeys from France to Wierzchownia in Ukraine
 
-### Balzacowskie spojrzenie na Kraków
-Balzac szczegółowo opisał miasto w "Podróży do Polski":
-> "kościół krakowski wart jest, aby jechać do Krakowa; pełen jest kaplic z grobowcami, gdzie nagromadzone bogactwa nie mają nic równego, chyba w Rzymie lub niektórych kościołach belgijskich"
+### Balzac's View of Krakow
+Balzac described the city in detail in "Journey to Poland":
+> "the Krakow church is worth traveling to Krakow for; it is full of chapels with tombs, where accumulated riches have nothing equal, except in Rome or some Belgian churches"
 
-Szczególnie zachwycała go **Katedra Wawelska** z:
-- Srebrnymi rzeźbionymi trumnami z batalijnymi scenami
-- Posągami liczącymi po 800 figur ludzi i koni
-- Bogatymi ołtarzami i świętymi naczyniami
-- Grobowcami Batorych, Korybutów i Jagiellonów
+He was particularly enchanted by **Wawel Cathedral** with:
+- Silver carved coffins with battle scenes
+- Statues counting 800 figures of people and horses
+- Rich altars and sacred vessels
+- Tombs of the Batorys, Korybutowicz and Jagiellonians
 
-### Kontrowersyjna tablica przy Hotelu Pod Różą
-- Na ścianie hotelu Pod Różą (ul. Floriańska 14) znajduje się **błędna tablica**: "Tu mieszkał Balzac 4-5 maja 1850"
-- **Prawda**: Balzac nigdy nie mieszkał w tym hotelu
-- Rzeczywiście zatrzymał się w **Hotelu Pod Białą Różą** przy ul. Stradomskiej 13
-- Hotel Pod Różą nosił wówczas nazwę "Hotel de Russie" (Rosyjski)
+### Controversial Plaque at Hotel Pod Różą
+- On the wall of Hotel Pod Różą (Floriańska Street 14) there is an **incorrect plaque**: "Balzac lived here May 4-5, 1850"
+- **Truth**: Balzac never lived in this hotel
+- He actually stayed at **Hotel Pod Białą Różą** at Stradomska Street 13
+- Hotel Pod Różą was then called "Hotel de Russie" (Russian Hotel)
 
-### Boy-Żeleński i krakowska bohema
-- Współtwórca kabaretu **"Zielony Balonik"** (1905-1912) w Jama Michalikowej
-- Miejsce: ul. Floriańska w Krakowie, wstęp tylko za zaproszeniami
-- Boy pisał teksty satyryczne krytykujące konserwatywne władze miasta
-- Autor "Słówek" - kolekcji wierszy i kupletów dla krakowskiego kabaretu
-- Krytykował "dwulicową moralność mieszczan" oraz stylistykę Młodej Polski
+### Boy-Żeleński and Krakow Bohemia
+- Co-creator of the **"Green Balloon"** cabaret (1905-1912) in Jama Michalikowa
+- Location: Floriańska Street in Krakow, admission only by invitation
+- Boy wrote satirical texts criticizing the conservative city authorities
+- Author of "Słówka" - collection of verses and couplets for the Krakow cabaret
+- Criticized "hypocritical morality of burghers" and Young Poland stylistics
 
-## Recepcja w polskim szkolnictwie
+## Reception in Polish Education
 
-### Status lektury szkolnej
-- "Ojciec Goriot" **nie jest lekturą obowiązkową** w polskich szkołach podstawowych i średnich
-- Dzieło wykorzystywane jako **przykład realizmu francuskiego** w programach literatury światowej
-- Dostępne zasoby edukacyjne na Zintegrowanej Platformie Edukacyjnej (zpe.gov.pl)
+### Status as School Reading
+- "Father Goriot" **is not mandatory reading** in Polish elementary and secondary schools
+- The work is used as **an example of French realism** in world literature programs
+- Educational resources available on the Integrated Educational Platform (zpe.gov.pl)
 
-### Dydaktyczne podejście do realizmu
-Polscy nauczyciele prezentują powieść jako:
-- **Studium społeczeństwa francuskiego okresu Restauracji** (1815-1830)
-- Przykład "wielkiego realizmu" z kategorią mimesis (naśladownictwa)
-- Analizę "nowoczesnego społeczeństwa, jego wad, upadku moralności"
-- Uniwersalną opowieść o "destrukcji więzi międzyludzkich"
+### Didactic Approach to Realism
+Polish teachers present the novel as:
+- **Study of French society during the Restoration period** (1815-1830)
+- Example of "great realism" with the category of mimesis (imitation)
+- Analysis of "modern society, its flaws, moral decline"
+- Universal story about "destruction of interpersonal bonds"
 
-### Znaczenie dla francuskiego kontekstu kulturowego
-- Cytowane polskim uczniom słowa Féliciena Marceau: **"Wszyscy jesteśmy dziećmi Ojca Goriota"**
-- Prezentowany jako dzieło, które "święciło triumfy w Europie w okolicach połowy XIX wieku"
+### Significance for French Cultural Context
+- Words of Félicien Marceau quoted to Polish students: **"We are all children of Father Goriot"**
+- Presented as a work that "triumphed in Europe around the mid-19th century"
 
-## Polskie adaptacje teatralne i radiowe
+## Polish Theater and Radio Adaptations
 
-### Teatr Polskiego Radia
-**Adaptacja z 1986 roku:**
-- Premiera: 2 marca 1986
-- Tłumaczenie: Tadeusz Boy-Żeleński
-- Adaptacja: Zofia Orszulska
-- Reżyseria: Janusz Kukuła
-- Obsada: Bronisław Pawlik (Ojciec Goriot), Krzysztof Kolberger (Eugeniusz Rastignac), Franciszek Pieczka (Vautrin)
+### Polish Radio Theater
+**1986 Adaptation:**
+- Premiere: March 2, 1986
+- Translation: Tadeusz Boy-Żeleński
+- Adaptation: Zofia Orszulska
+- Direction: Janusz Kukuła
+- Cast: Bronisław Pawlik (Father Goriot), Krzysztof Kolberger (Eugène Rastignac), Franciszek Pieczka (Vautrin)
 
-**Adaptacja z 2000 roku:**
-- Premiera: 16 października 2000
-- Tłumaczenie: Aniela Bortnowska
-- Adaptacja: Anna Borkowska
-- Reżyseria: Wojciech Markiewicz
-- Obsada: Jan Englert, Mariusz Bonaszewski, Andrzej Ferenc
+**2000 Adaptation:**
+- Premiere: October 16, 2000
+- Translation: Aniela Bortnowska
+- Adaptation: Anna Borkowska
+- Direction: Wojciech Markiewicz
+- Cast: Jan Englert, Mariusz Bonaszewski, Andrzej Ferenc
 
-### Inne adaptacje
-- Spektakl telewizyjny według powieści Balzaca (szczegóły w bazie polskiego filmu)
-- Film międzynarodowy z 2004 roku "Le père Goriot" kręcony w Bukareszcie
+### Other Adaptations
+- Television spectacle based on Balzac's novel (details in Polish film database)
+- International film from 2004 "Le père Goriot" filmed in Bucharest
 
-## Współczesne wydania i wydawnictwa
+## Contemporary Editions and Publishers
 
-### Główni polscy wydawcy
-- **Wydawnictwo Greg** - liczne wydania z opracowaniami (2003, 2005, 2007, 2014, 2016, 2017, 2018, 2022)
-- **Wydawnictwo SBM** - seria klasyki literatury w tłumaczeniu Amelii Bortnowskiej
-- **Wolne Lektury** - bezpłatny dostęp cyfrowy do tekstu
-- **Kanon Lektur** - wydanie w serii klasyki literatury
+### Main Polish Publishers
+- **Greg Publishing House** - numerous editions with studies (2003, 2005, 2007, 2014, 2016, 2017, 2018, 2022)
+- **SBM Publishing House** - classics series in Amelia Bortnowska's translation
+- **Wolne Lektury** - free digital access to the text
+- **Canon Lektur** - edition in the literature classics series
 
-### Akademickie opracowania
-- Akademia Humanistyczno-Ekonomiczna w Łodzi - szczegółowe streszczenia
-- Knowunity - notatki i materiały studenckie online
-- Zintegrowana Platforma Edukacyjna - zasoby dla nauczycieli
+### Academic Studies
+- Academy of Humanities and Economics in Łódź - detailed summaries
+- Knowunity - online student notes and materials
+- Integrated Educational Platform - resources for teachers
 
-## Młodzieżowa kultura i media społecznościowe
+## Youth Culture and Social Media
 
-### TikTok i kultura uczniowska
-- Aktywne strony TikToka poświęcone "Ojcu Goriot" z dyskusjami o kartkowkach i sprawdzianach
-- Platforma Knowunity używana przez polskich uczniów do dzielenia się notatkami
-- Materiały przygotowawcze do egzaminów dostępne online
+### TikTok and Student Culture
+- Active TikTok pages dedicated to "Father Goriot" with discussions about quizzes and tests
+- Knowunity platform used by Polish students to share notes
+- Exam preparation materials available online
 
-### Bohater rezonujący z młodzieżą
-- **Eugeniusz de Rastignac** jako postać szczególnie bliska współczesnej polskiej młodzieży
-- "Ambitny student prawa" symbolizujący dążenia do awansu społecznego
-- Dylemat moralny między uczciwością a pragnieniem sukcesu w skorumpowanym świecie
+### Hero Resonating with Youth
+- **Eugène de Rastignac** as a character particularly close to contemporary Polish youth
+- "Ambitious law student" symbolizing aspirations for social advancement
+- Moral dilemma between honesty and desire for success in a corrupt world
 
-### Współczesne interpretacje
-- Tematy powieści wciąż aktualne dla młodych Polaków
-- Problemy społeczne "poruszane także przez współczesnych pisarzy i socjologów"
-- Transfer klasycznej literatury do cyfrowej kultury młodzieżowej
+### Contemporary Interpretations
+- Novel themes still relevant for young Poles
+- Social problems "also addressed by contemporary writers and sociologists"
+- Transfer of classical literature to digital youth culture
 
-## XIX-wieczna krytyka literacka w Polsce
+## 19th Century Literary Criticism in Poland
 
-### Kontekst recepcji francuskiej literatury
-- **Michał Grabowski** w artykułach "Literatura francuska" (1837) i "O nowej literaturze francuskiej nazwanej literaturą szaloną" (1838) - przeciwnik dominacji literatury francuskiej
-- **Seweryna Pruszakowa** w "Nowy zwrot w literaturze francuskiej" (1854) - inna perspektywa
-- **Leonard Rettel** w "Obecne pisarstwo francuskie" (1859) - kolejne stanowisko
+### Context of French Literature Reception
+- **Michał Grabowski** in articles "French Literature" (1837) and "On New French Literature Called Mad Literature" (1838) - opponent of French literature dominance
+- **Seweryna Pruszakowa** in "New Turn in French Literature" (1854) - different perspective
+- **Leonard Rettel** in "Current French Writing" (1859) - another position
 
-### Wpływ na polską literaturę
-Polskie badania literackie śledziły wpływ Balzaca na:
-- **J.I. Kraszewskiego**
-- **Bolesława Prusa**
-- **J. Korzeniowskiego**
-- **Juliusza Słowackiego** (polemika 1897-1901 o wpływ "La Grande Bretèche" na "Mazepe")
+### Influence on Polish Literature
+Polish literary studies traced Balzac's influence on:
+- **J.I. Kraszewski**
+- **Bolesław Prus**
+- **J. Korzeniowski**
+- **Juliusz Słowacki** (1897-1901 polemic about the influence of "La Grande Bretèche" on "Mazeppa")
 
-## Uniwersytet Jagielloński i literaturoznawstwo
+## Jagiellonian University and Literary Studies
 
-### Akademickie badania nad Balzakiem
-- UJ posiada **kategorię naukową A w dziedzinie literaturoznawstwa**
-- Rada Dyscypliny Literaturoznawstwo UJ (kadencja 2025-2028)
-- Wydawnictwo Uniwersytetu Jagiellońskiego publikuje prace z zakresu literatury francuskiej
+### Academic Research on Balzac
+- UJ has **category A in literary studies**
+- Council of Literary Studies Discipline UJ (2025-2028 term)
+- Jagiellonian University Press publishes works on French literature
 
-### Kraków jako miasto literatury
-- **Kraków Miasto Literatury UNESCO** - oficjalny status
-- "Kolebka języka polskiego i polskiej literatury"
-- XI-wieczne skryptoria i pierwsze polskie druki
-- Tradycja badań nad literaturą francuską i komparatystyką
+### Krakow as a City of Literature
+- **Krakow UNESCO City of Literature** - official status
+- "Cradle of Polish language and Polish literature"
+- 11th-century scriptoriums and first Polish prints
+- Tradition of research on French literature and comparative studies
 
-## Współczesne badania i publikacje
+## Contemporary Research and Publications
 
-### Polscy badacze współcześni
-- Badania nad recepcją literatury światowej w kontekście pamięci kulturowej
-- Prace nad wpływem powieści francuskiej na polską w XIX wieku
-- Studia nad tłumaczeniami i przekładoznawstwem
+### Contemporary Polish Researchers
+- Research on world literature reception in the context of cultural memory
+- Works on the influence of French novels on Polish ones in the 19th century
+- Studies on translations and translation studies
 
-### Instytucjonalne wsparcie
-- "Polska krytyka literacka w XIX i XX wieku" - prace zbiorowe
-- Uniwersytet Warszawski - Instytut Kultury Polskiej
-- Adam Mickiewicz University - repozytoria prac doktorskich
+### Institutional Support
+- "Polish Literary Criticism in the 19th and 20th Centuries" - collective works
+- University of Warsaw - Institute of Polish Culture
+- Adam Mickiewicz University - doctoral dissertation repositories
 
-## Ciekawostki lokalne
+## Local Curiosities
 
-### Boy-Żeleński - słynny cytat o Balzacu
-> "Nie mógłbym żyć w społeczeństwie, które nie zna Balzaka. Musiałbym się wyemigrować."
+### Boy-Żeleński - Famous Quote about Balzac
+> "I could not live in a society that does not know Balzac. I would have to emigrate."
 
-### Kolekcjonerstwo i bibliofilstwo
-- Kompletne wydania "Komedii Ludzkiej" w 24 tomach poszukiwane przez kolekcjonerów
-- Wydania z Biblioteki Boya cenione na rynku antykwarycznym
-- Pierwsze wydania tłumaczeń Dmochowskiego jako rarytasy
+### Collecting and Bibliophilia
+- Complete editions of "The Human Comedy" in 24 volumes sought by collectors
+- Editions from Boy's Library valued in the antiquarian market
+- First editions of Dmochowski's translations as rarities
 
-### Miejsca pamięci w Krakowie
-- **Hotel Pod Białą Różą** (ul. Stradomska 13) - rzeczywiste miejsce pobytu Balzaca
-- **Jama Michalikowa** (ul. Floriańska) - miejsce działania Zielonego Balonika
-- **Uniwersytet Jagielloński** - tradycje badań nad literaturą francuską
-- **Wawel** - miejsce opisane przez Balzaca w jego relacjach z podróży
+### Memorial Places in Krakow
+- **Hotel Pod Białą Różą** (Stradomska Street 13) - actual place of Balzac's stay
+- **Jama Michalikowa** (Floriańska Street) - place of Green Balloon activity
+- **Jagiellonian University** - traditions of French literature research
+- **Wawel** - place described by Balzac in his travel accounts
 
-### Wpływ na polską kulturę
-- Terminy z "Ojca Goriota" w polszczyźnie literackiej
-- Rastignac jako symbol ambitnego młodzieńca w polskiej krytyce
-- "Komedia Ludzka" jako wzorzec dla polskich cykli powieściowych
-- Balzacowski realizm jako punkt odniesienia dla polskiego pozytywizmu
+### Influence on Polish Culture
+- Terms from "Father Goriot" in literary Polish
+- Rastignac as a symbol of ambitious young man in Polish criticism
+- "The Human Comedy" as a model for Polish novel cycles
+- Balzacian realism as a reference point for Polish positivism
 
 ---
 
-*Lokalny kontekst kulturowy pokazuje głębokie zakorzenienie "Ojca Goriota" w polskiej tradycji literackiej, od pionierskich przekładów XIX-wiecznych, przez epokowe tłumaczenia Boya-Żeleńskiego związanego z krakowską bohemą, po współczesną obecność w edukacji i kulturze młodzieżowej.*
+*The local cultural context shows the deep rooting of "Father Goriot" in Polish literary tradition, from pioneering 19th-century translations, through epoch-making translations by Boy-Żeleński associated with Krakow bohemia, to contemporary presence in education and youth culture.*

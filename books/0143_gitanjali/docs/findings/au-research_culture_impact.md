@@ -1,134 +1,134 @@
-# Gitanjali - Wpływ na kulturę popularną i społeczeństwo
+# Gitanjali - Cultural Impact and Influence on Society
 
-## Informacje podstawowe
-- **Tytuł**: Gitanjali (Pieśni ofiarne)
-- **Autor**: Rabindranath Tagore
-- **Rok publikacji**: 1910 (oryginał bengalski), 1912 (tłumaczenie angielskie)
-- **Nagroda Nobla**: 1913 - pierwszy nie-Europejczyk i Azjata uhonorowany tym wyróżnieniem
+## Basic Information
+- **Title**: Gitanjali (Song Offerings)
+- **Author**: Rabindranath Tagore
+- **Publication Year**: 1910 (original Bengali), 1912 (English translation)
+- **Nobel Prize**: 1913 - first non-European and Asian to receive this honor
 
-## Najważniejsze adaptacje filmowe i teatralne
+## Major Film and Theater Adaptations
 
-### Filmy Satyajita Raya inspirowane Tagorem
-1. **"Rabindranath Tagore" (1961)** - film dokumentalny na stulecie urodzin poety, stworzony na zlecenie premiera Nehru
-2. **"Teen Kanya/Tin Kanya" (1961)** - trylogia filmów opartych na opowiadaniach Tagora o trzech młodych kobietach
-3. **"Charulata" (1964)** - adaptacja opowiadania "Nastanirh", uznawana za najlepsze dzieło Raya
-4. **"Ghare Baire" (1984)** - adaptacja powieści Tagora o konflikcie między tradycją a nowoczesnością
+### Satyajit Ray Films Inspired by Tagore
+1. **"Rabindranath Tagore" (1961)** - documentary film for the poet's centenary, commissioned by Prime Minister Nehru
+2. **"Teen Kanya/Tin Kanya" (1961)** - trilogy of films based on Tagore's stories about three young women
+3. **"Charulata" (1964)** - adaptation of the story "Nastanirh", considered Ray's finest work
+4. **"Ghare Baire" (1984)** - adaptation of Tagore's novel about the conflict between tradition and modernity
 
-### Inne znaczące adaptacje filmowe
-5. **"Kabuliwala" (1957)** - film Tapana Sinhy z Chhabi Biswasmem, wielki sukces kasowy
-6. **"Kabuliwala" (1961)** - wersja hindi Bimala Roya z Balrajem Sahnim
-7. **"Chitrangada" Rituparno Ghosha** - współczesna interpretacja poruszająca kwestie tożsamości queer i płynności płciowej
-8. **"Chokher Bali" (1938)** - wczesna adaptacja Satu Sena
+### Other Significant Film Adaptations
+5. **"Kabuliwala" (1957)** - Tapan Sinha's film with Chhabi Biswas, major box office success
+6. **"Kabuliwala" (1961)** - Hindi version by Bimal Roy starring Balraj Sahni
+7. **"Chitrangada" by Rituparno Ghosh** - contemporary interpretation addressing queer identity and gender fluidity
+8. **"Chokher Bali" (1938)** - early adaptation by Satu Sen
 
-## Wpływ na twórców i artystów
+## Influence on Creators and Artists
 
-### Pisarze latynoamerykańscy
-9. **Pablo Neruda** - "In My Sky at Twilight" oparte na "Tumi sandhar meghamala" Tagora
-10. **Pablo Neruda** - "Come With Me, I Said, And No One Knew" inspirowane "Jodi tor daakshune' keu na aashe'…ekla cholo re"
-11. **Octavio Paz** - meksykański poeta laureat Nobla, głęboko inspirowany Tagorem
-12. **Gabriela Mistral** - chilijska poetka, także laureatka Nobla, pozostawała pod wpływem Tagora
+### Latin American Writers
+9. **Pablo Neruda** - "In My Sky at Twilight" based on Tagore's "Tumi sandhar meghamala"
+10. **Pablo Neruda** - "Come With Me, I Said, And No One Knew" inspired by "Jodi tor daakshune' keu na aashe'…ekla cholo re"
+11. **Octavio Paz** - Mexican Nobel laureate poet, deeply inspired by Tagore
+12. **Gabriela Mistral** - Chilean poet, also Nobel laureate, influenced by Tagore
 
-### Pisarze europejscy
-13. **Juan Ramón Jiménez** - laureat Nobla 1956, wraz z żoną Zenobią Camprubi tłumaczył Gitanjali od 1913
-14. **José Ortega y Gasset** - hiszpański filozof, inspirowany filozofią Tagora
-15. **André Gide** - francuski laureat Nobla, tłumacz dzieł Tagora
-16. **Anna Achmatowa** - rosyjska poetka, tłumaczyła Tagora na rosyjski
+### European Writers
+13. **Juan Ramón Jiménez** - Nobel laureate 1956, translated Gitanjali with his wife Zenobia Camprubi from 1913
+14. **José Ortega y Gasset** - Spanish philosopher, inspired by Tagore's philosophy
+15. **André Gide** - French Nobel laureate, translator of Tagore's works
+16. **Anna Akhmatova** - Russian poet, translated Tagore into Russian
 
-### Pisarze anglojęzyczni
-17. **W.B. Yeats** - napisał wstęp do angielskiego wydania Gitanjali, nazywał Tagora "wielkim poetą"
-18. **Ezra Pound** - modernistyczny poeta, fascynował się twórczością Tagora
-19. **Robert Frost** - amerykański poeta, zainteresowany mistycyzmem Tagora
-20. **Ernest Rhys** - walijski pisarz i wydawca, promował dzieła Tagora w Wielkiej Brytanii
+### English-Language Writers
+17. **W.B. Yeats** - wrote the introduction to the English edition of Gitanjali, called Tagore "a great poet"
+18. **Ezra Pound** - modernist poet, fascinated by Tagore's work
+19. **Robert Frost** - American poet, interested in Tagore's mysticism
+20. **Ernest Rhys** - Welsh writer and publisher, promoted Tagore's works in Britain
 
-### Pisarze azjatyccy
-21. **Yasunari Kawabata** - japoński laureat Nobla 1968, inspirowany liryczną prozą Tagora
-22. **Xu Zhimo** - chiński poeta, Tagore jest najczęściej tłumaczonym zagranicznym pisarzem w Chinach po Shakespeare'ie
+### Asian Writers
+21. **Yasunari Kawabata** - Japanese Nobel laureate 1968, inspired by Tagore's lyrical prose
+22. **Xu Zhimo** - Chinese poet, Tagore is the most translated foreign writer in China after Shakespeare
 
-### Pisarze indyjscy innych języków
-23. **D.R. Bendre** - poeta kannada, głęboko inspirowany dialogowymi poematami Tagora
-24. **Umashankar Joshi** - laureat nagrody Jnanpith 1967, gujarati poeta inspirowany Tagorem
-25. **A.N. Krishna Rao** - powieściopisarz kannada, pozostający pod wpływem Tagora
+### Indian Writers of Other Languages
+23. **D.R. Bendre** - Kannada poet, deeply inspired by Tagore's dialogue poems
+24. **Umashankar Joshi** - Jnanpith Award winner 1967, Gujarati poet inspired by Tagore
+25. **A.N. Krishna Rao** - Kannada novelist, influenced by Tagore
 
-## Fenomen społeczny i wpływ na kulturę
+## Social Phenomenon and Cultural Impact
 
-### Muzyka - Rabindra Sangeet
-26. **2232 kompozycje** - Tagore skomponował tę liczbę piosenek, znanych jako Rabindra Sangeet
-27. **"Gitabitan"** - "Ogród pieśni", zbiór wszystkich 2233 piosenek napisanych przez Tagora
-28. **Sześć głównych kategorii**: Puja (cześć), Prem (miłość), Prakriti (pory roku), Swadesh (patriotyzm), Aanushthanik (okolicznościowe), Bichitro (różne)
+### Music - Rabindra Sangeet
+26. **2232 compositions** - Tagore composed this number of songs, known as Rabindra Sangeet
+27. **"Gitabitan"** - "Garden of Songs", collection of all 2233 songs written by Tagore
+28. **Six main categories**: Puja (devotion), Prem (love), Prakriti (seasons), Swadesh (patriotism), Aanushthanik (occasional), Bichitro (miscellaneous)
 
-### Hymny narodowe i państwowe
-29. **"Jana Gana Mana"** - hymn narodowy Indii, napisany przez Tagora
-30. **"Amar Shonar Bangla"** - hymn narodowy Bangladeszu, także autorstwa Tagora
-31. **Hymn Sri Lanki** - inspirowany twórczością Tagora
-32. **"Banglar Mati Banglar Jol"** - hymn stanu Bengal Zachodni w Indiach
+### National and State Anthems
+29. **"Jana Gana Mana"** - national anthem of India, written by Tagore
+30. **"Amar Shonar Bangla"** - national anthem of Bangladesh, also by Tagore
+31. **Sri Lankan anthem** - inspired by Tagore's work
+32. **"Banglar Mati Banglar Jol"** - anthem of West Bengal state in India
 
-### Wpływ na tożsamość bengalską
-33. **Modern Review 1913**: "W Bengalu nie ma wykształconego domu, gdzie nie śpiewa się pieśni Rabindranatha... Nawet analfabeci wieśniacy śpiewają jego pieśni"
-34. **Zakaz w Pakistanie** - lata 60. XX wieku, Pakistan Zachodni zakazał Tagora próbując stłumić bengalski nacjonalizm kulturowy
-35. **Symbol oporu** - w Bangladeszu Tagore stał się symbolem walki o tożsamość kulturową
+### Impact on Bengali Identity
+33. **Modern Review 1913**: "In Bengal there is no educated home where Rabindranath's songs are not sung... Even illiterate villagers sing his songs"
+34. **Ban in Pakistan** - 1960s, West Pakistan banned Tagore trying to suppress Bengali cultural nationalism
+35. **Symbol of resistance** - in Bangladesh, Tagore became a symbol of the fight for cultural identity
 
-## Współczesne adaptacje muzyczne
+## Contemporary Musical Adaptations
 
-### Artyści XXI wieku
-36. **Garry Schyman - "Praan" (2008)** - adaptacja wiersza #69 z Gitanjali, wykonywana przez Palbasha Siddique
-37. **Matt Harding "Dancing 2008"** - wiralowy film używający "Praan", przyniósł Schymanowi nagrodę Hollywood Music Awards
-38. **Top-10 Amazon** - "Praan" dostało się do pierwszej dziesiątki najpopularniejszych ścieżek dźwiękowych
+### 21st Century Artists
+36. **Garry Schyman - "Praan" (2008)** - adaptation of poem #69 from Gitanjali, performed by Palbasha Siddique
+37. **Matt Harding "Dancing 2008"** - viral video using "Praan", brought Schyman a Hollywood Music Award
+38. **Top-10 Amazon** - "Praan" reached the top ten most popular soundtracks
 
-### Współcześni wykonawcy Rabindra Sangeet
-39. **Iman Chakraborty** - narodowa nagroda za śpiew bengalski, znana z autentycznych interpretacji
-40. **Samantak Sinha** - niezależny kompozytor, popularne interpretacje dla wszystkich pokoleń
-41. **Soumita Saha** - mostka między tradycyjnym stylem a nowoczesną prezentacją
-42. **Lopamudra Mitra** - kalkucka piosenkarka, autorka tekstów inspirowanych Tagorem
-43. **Kamalini Mukherji** - jedna z najpopularniejszych twarzy młodego pokolenia wykonawców Rabindra Sangeet
+### Contemporary Rabindra Sangeet Performers
+39. **Iman Chakraborty** - national award for Bengali singing, known for authentic interpretations
+40. **Samantak Sinha** - independent composer, popular interpretations for all generations
+41. **Soumita Saha** - bridge between traditional style and modern presentation
+42. **Lopamudra Mitra** - Kolkata singer, lyricist inspired by Tagore
+43. **Kamalini Mukherji** - one of the most popular faces of the young generation of Rabindra Sangeet performers
 
-## Miejsca i instytucje związane z Gitanjali
+## Places and Institutions Related to Gitanjali
 
-### Uniwersytet i edukacja
-44. **Visva-Bharati University (1921)** - założony przez Tagora w Santiniketan, Bengal Zachodni
-45. **Philosophia globalna** - połączenie tradycyjnej nauki indyjskiej z nowoczesną wiedzą naukową i artystyczną
+### University and Education
+44. **Visva-Bharati University (1921)** - founded by Tagore in Santiniketan, West Bengal
+45. **Global philosophy** - combination of traditional Indian learning with modern scientific and artistic knowledge
 
-### Galerie i muzea
-46. **Gallery Gitanjali, Goa** - współczesna galeria sztuki inspirowana nazwą dzieła Tagora
-47. **Tagore House, Kolkata** - dom-muzeum poety, miejsce pielgrzymek miłośników literatury
+### Galleries and Museums
+46. **Gallery Gitanjali, Goa** - contemporary art gallery inspired by the name of Tagore's work
+47. **Tagore House, Kolkata** - poet's house-museum, pilgrimage site for literature lovers
 
-## Nawiązania w innych dziełach kultury
+## References in Other Cultural Works
 
-### Literatura współczesna
-48. **Postkolonialna krytyka** - Michael Collins "Empire, Nationalism and the Postcolonial World" (2011) o Tagorem
-49. **Nowe tłumaczenia** - Prasenjit Gupta i inni współcześni tłumacze tworzą nowe interpretacje dla XXI wieku
+### Contemporary Literature
+48. **Postcolonial criticism** - Michael Collins "Empire, Nationalism and the Postcolonial World" (2011) about Tagore
+49. **New translations** - Prasenjit Gupta and other contemporary translators create new interpretations for the 21st century
 
-### Sztuki wizualne
-50. **Anagh Banerjee** - brooklyński artysta, stworzył drzeworyty dla nowego wydania Gitanjali przez Folio Society
-51. **Mark W. McGinnis** - amerykański malarz inspirowany estetyką Tagora i indyjskim stylem Kangra
+### Visual Arts
+50. **Anagh Banerjee** - Brooklyn artist, created woodcuts for new edition of Gitanjali by Folio Society
+51. **Mark W. McGinnis** - American painter inspired by Tagore's aesthetics and Indian Kangra style
 
-## Kontrowersje i współczesne debaty
+## Controversies and Contemporary Debates
 
-### Krytyka nacjonalizmu
-52. **"Nationalism" (1917)** - kontrowersyjna książka Tagora krytykująca ideologię nacjonalizmu
-53. **Współczesne debaty** - jego poglądy wykorzystywane przez różne opcje polityczne w Indiach
-54. **Cytowane przez polityków** - fragmenty o wolności umysłu regularnie przywoływane w przemówieniach
+### Criticism of Nationalism
+52. **"Nationalism" (1917)** - Tagore's controversial book criticizing the ideology of nationalism
+53. **Contemporary debates** - his views used by various political options in India
+54. **Quoted by politicians** - passages about freedom of mind regularly invoked in speeches
 
-### Postkolonialna krytyka
-55. **Ahmed Sharif** - marksistowski uczony krytykujący Tagora jako "tyranicznego zamindara"
-56. **Orientalizm** - debaty o tym, czy Tagore podtrzymywał orientalistyczne stereotypy o Azji
-57. **Apropriacja** - różne ideologie próbują przywłaszczyć sobie spuściznę Tagora
+### Postcolonial Criticism
+55. **Ahmed Sharif** - Marxist scholar criticizing Tagore as a "tyrannical zamindar"
+56. **Orientalism** - debates about whether Tagore perpetuated orientalist stereotypes about Asia
+57. **Appropriation** - various ideologies try to appropriate Tagore's legacy
 
-## Wpływ na edukację i filozofię
+## Impact on Education and Philosophy
 
-### Systemy edukacyjne
-58. **Holistic education** - model edukacji Tagora wpłynął na alternatywne systemy nauczania na świecie
-59. **Waldorf schools** - niektóre szkoły Waldorfa inspirowane filozofią edukacyjną Tagora
+### Educational Systems
+58. **Holistic education** - Tagore's educational model influenced alternative teaching systems worldwide
+59. **Waldorf schools** - some Waldorf schools inspired by Tagore's educational philosophy
 
-### Filozofia i duchowość
-60. **New Age spirituality** - elementy filozofii Gitanjali adoptowane przez ruch New Age na Zachodzie
-61. **Mindfulness movement** - koncepcje medytacyjne z Gitanjali wpływają na współczesną praktykę mindfulness
+### Philosophy and Spirituality
+60. **New Age spirituality** - elements of Gitanjali philosophy adopted by the New Age movement in the West
+61. **Mindfulness movement** - meditative concepts from Gitanjali influence contemporary mindfulness practice
 
-## Podsumowanie wpływu kulturowego
+## Summary of Cultural Impact
 
-Gitanjali Rabindranatha Tagora pozostaje jednym z najbardziej wpływowych dzieł literatury światowej XX wieku. Jego wpływ wykracza daleko poza literaturę, obejmując muzykę, film, edukację, politykę i duchowość. Od hymnów narodowych dwóch krajów po współczesne viralne adaptacje, od filozofii edukacyjnej po debaty postkolonialne - dzieło to nadal kształtuje kulturę globalną.
+Rabindranath Tagore's Gitanjali remains one of the most influential works of world literature of the 20th century. Its impact extends far beyond literature, encompassing music, film, education, politics, and spirituality. From national anthems of two countries to contemporary viral adaptations, from educational philosophy to postcolonial debates - this work continues to shape global culture.
 
-Szczególnie znaczący jest fakt, że mimo upływu ponad stu lat od publikacji, Gitanjali znajduje nowe interpretacje i adaptacje, dowodząc uniwersalności przesłania Tagora o jedności duchowej, miłości i transcendencji granic kulturowych. Kontrowersje wokół poglądów Tagora na nacjonalizm pokazują, jak żywe pozostaje jego dziedzictwo w czasach rosnących nacjonalizmów i konfliktów.
+Particularly significant is the fact that despite more than a hundred years since publication, Gitanjali finds new interpretations and adaptations, proving the universality of Tagore's message about spiritual unity, love, and transcending cultural boundaries. Controversies around Tagore's views on nationalism show how alive his legacy remains in times of rising nationalisms and conflicts.
 
 ---
-*Badania przeprowadzone: 3 września 2025*
+*Research conducted: September 3, 2025*
 *Agent: au-research_culture_impact*

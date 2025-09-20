@@ -1,196 +1,196 @@
-# Badanie Lokalnego Kontekstu Kulturowego: "Czekając na Godota" w Polsce
+# Local Cultural Context Research: "Waiting for Godot" in Poland
 
-## Wprowadzenie
-"Czekając na Godota" Samuela Becketta to jeden z najbardziej znaczących dramatów XX wieku, który w Polsce ma wyjątkowo bogatą historię recepcji, interpretacji i adaptacji. Sztuka ta, reprezentująca teatr absurdu, znalazła w polskiej kulturze szczególne miejsce, stając się nie tylko lekturą szkolną, ale także źródłem inspiracji dla wielu pokoleń artystów.
+## Introduction
+"Waiting for Godot" by Samuel Beckett is one of the most significant dramas of the 20th century, which has a particularly rich history of reception, interpretation and adaptation in Poland. This play, representing the theatre of the absurd, found a special place in Polish culture, becoming not only a school reading but also a source of inspiration for many generations of artists.
 
 ---
 
-## Historia Publikacji i Premiery w Polsce
+## Publication History and Premiere in Poland
 
-### 1. Pierwsza premiera w Bloku Wschodnim
-- **Data premiery**: 25 stycznia 1957 roku
-- **Miejsce**: Teatr Współczesny w Warszawie
-- **Reżyseria**: Jerzy Kreczmar
-- **Scenografia**: Władysław Daszewski
-- **Znaczenie**: Piąta realizacja na świecie, pierwsza w Bloku Wschodnim, pierwsza sztuka Becketta wystawiona w Polsce
+### 1. First premiere in the Eastern Bloc
+- **Premiere date**: January 25, 1957
+- **Location**: Contemporary Theatre in Warsaw
+- **Direction**: Jerzy Kreczmar
+- **Set design**: Władysław Daszewski
+- **Significance**: Fifth production worldwide, first in the Eastern Bloc, first Beckett play staged in Poland
 
-### 2. Obsada historycznej premiery
+### 2. Cast of the historic premiere
 - **Estragon (Gogo)**: Tadeusz Fijewski
 - **Vladimir (Didi)**: Józef Kondrat
 - **Lucky**: Adam Mularczyk
 - **Pozzo**: Jan Koecher
-- **Charakterystyka**: Wszystkie postacie oprócz chłopca ubrane w kostiumy klaunów cyrkowych
+- **Characteristics**: All characters except the boy dressed in circus clown costumes
 
 ---
 
-## Polscy Tłumacze i Interpretacje
+## Polish Translators and Interpretations
 
-### 3. Julian Rogoziński - pierwszy tłumacz (1957)
-- Autor pierwszego polskiego przekładu dla premiery w 1957 roku
-- Tłumaczenie oparte wyłącznie na oryginale francuskim
-- Używał bardziej przestarzałej polszczyzny i struktur językowych
-- Czasami mniej precyzyjny i zrozumiały od późniejszego przekładu Libery
+### 3. Julian Rogoziński - first translator (1957)
+- Author of the first Polish translation for the 1957 premiere
+- Translation based exclusively on the French original
+- Used more archaic Polish language and linguistic structures
+- Sometimes less precise and understandable than Libera's later translation
 
-### 4. Antoni Libera - współczesny interpretator i tłumacz
-- **Kim jest**: Wybitny znawca twórczości Becketta, tłumacz i akademik
-- **Metoda**: Bazował na zaleceniu Becketta, by przekłady opierać na wersjach francuskiej i angielskiej
-- **Filozofia tłumaczenia**: Dostarczył oświecających komentarzy rzucających światło na różnice między wersjami Becketta
-- **Interpretacja symboliczna**: Kamień = przyroda nieożywiona, drzewo = przyroda żywa, droga = ślad ludzkiego działania
+### 4. Antoni Libera - contemporary interpreter and translator
+- **Who he is**: Outstanding expert on Beckett's work, translator and academic
+- **Method**: Based on Beckett's recommendation that translations should be based on both French and English versions
+- **Translation philosophy**: Provided enlightening commentaries shedding light on differences between Beckett's versions
+- **Symbolic interpretation**: Stone = inanimate nature, tree = living nature, road = trace of human action
 
-### 5. Libera o uniwersalnym przesłaniu sztuki
-- *"Ta sztuka wyraziła bolączkę naszych czasów - kryzys wiary w wartości i idee"*
-- Według Libery sztuka nie jest nihilistyczna, ale stanowi zapytanie o trwałość cywilizacji
-- Wskazuje na kryzys wiary w wartości wyznawane przez setki i tysiące lat
-
----
-
-## Kontekst Edukacyjny w Polsce
-
-### 6. Status w polskim systemie edukacji
-- **Poziom**: Lektura obowiązkowa dla liceum i technikum (poziom podstawowy)
-- **Charakterystyka**: Dramat daleki od klasycznej wersji, reprezentujący teatr absurdu
-- **Dla uczniów**: Opisywana jako "lektura dla odważnych", wymagająca gotowości zmierzenia się z pytaniami bez odpowiedzi
-
-### 7. Filozoficzne aspekty nauczania
-- Beckett pokazuje tragizm życia człowieka i rozdarcie wewnętrzne
-- Estragon i Vladimir uzupełniają się, a ich kłótnie uosabiają walkę każdego człowieka z samym sobą
-- Człowiek nigdy nie jest szczęśliwy, zawsze samotny i wyobcowany
-- Często wykorzystywana w przygotowaniach maturalnych jako przykład teatru absurdu
+### 5. Libera on the universal message of the play
+- *"This play expressed the ailment of our times - the crisis of faith in values and ideas"*
+- According to Libera, the play is not nihilistic but poses a question about the permanence of civilization
+- Points to a crisis of faith in values professed for hundreds and thousands of years
 
 ---
 
-## Polskie Adaptacje Teatralne i Medialne
+## Educational Context in Poland
 
-### 8. Adaptacja Teatru Telewizji (1971)
-- **Data**: 4 kwietnia 1971 roku
-- **Reżyseria**: Maciej Prus
-- **Obsada**: Wiesław Michnikowski (Estragon), Zbigniew Zapasiewicz (Vladimir), Roman Wilhelmi (Pozzo), Marian Kociniak (Lucky), Krzysztof Wakuliński (Chłopiec)
-- **Realizacja telewizyjna**: Joanna Wiśniewska
+### 6. Status in the Polish education system
+- **Level**: Mandatory reading for high school and technical school (basic level)
+- **Characteristics**: Drama far from the classical version, representing theatre of the absurd
+- **For students**: Described as "reading for the brave", requiring readiness to face questions without answers
 
-### 9. Teatr Ateneum (1971)
-- Teatralna premiera 19 kwietnia 1971 roku w Teatrze Ateneum im. Stefana Jaracza
-- Również w reżyserii Macieja Prusa, tuż po adaptacji telewizyjnej
-
-### 10. Współczesne realizacje
-- **Teatr Narodowy (2023)**: Reżyseria Piotra Cieplaka, premiera 9 grudnia 2023
-- **Obsada**: Mariusz Benoit i Jerzy Radziwiłowicz (laureaci Nagrody im. Jacka Woszczerowicza za te role)
-- **Inne teatry**: Stary Teatr w Krakowie również miał tę sztukę w swoim repertuarze
+### 7. Philosophical aspects of teaching
+- Beckett shows the tragic nature of human life and internal conflict
+- Estragon and Vladimir complement each other, and their quarrels embody every person's struggle with themselves
+- Humans are never happy, always lonely and alienated
+- Often used in high school graduation preparations as an example of theatre of the absurd
 
 ---
 
-## Problemy Tłumaczeniowe i Kulturowe Różnice
+## Polish Theatrical and Media Adaptations
 
-### 11. Badania akademickie nad przekładem
-- **Aniela Pilarska**: "Egzystencjalizm w przekładzie: Czekając na Godota w polskich tłumaczeniach" (2014)
-- **Problemy**: Tłumaczenie kategorii wynikających z estetyki tragikomedii, przekład teatru absurdu
-- **Metodologia**: Podejścia hermeneutyczne Gadamera i Ricoeura, teoria przekładu Kollera
+### 8. Television Theatre adaptation (1971)
+- **Date**: April 4, 1971
+- **Direction**: Maciej Prus
+- **Cast**: Wiesław Michnikowski (Estragon), Zbigniew Zapasiewicz (Vladimir), Roman Wilhelmi (Pozzo), Marian Kociniak (Lucky), Krzysztof Wakuliński (Boy)
+- **Television production**: Joanna Wiśniewska
 
-### 12. Specyfika kulturowa
-- Sztuka głęboko zakorzeniona w tradycji kultury i filozofii europejskiej
-- Wymaga znajomości szerszego kontekstu teatralnego i historyczno-kulturowego
-- Reprezentuje dyskurs filozofii egzystencjalizmu
+### 9. Ateneum Theatre (1971)
+- Theatrical premiere April 19, 1971 at the Stefan Jaracz Ateneum Theatre
+- Also directed by Maciej Prus, just after the television adaptation
 
----
-
-## Akademickie Interpretacje Polskich Badaczy
-
-### 13. Ośrodek badawczy w Gdańsku
-- **Lider**: Dr hab. Tomasz Wiśniewski, Uniwersytet Gdański
-- **Grupa Badawcza Becketta**: Afiliowana przy Katedrze Sztuk Teatralnych
-- **Publikacje**: "Samuel Beckett. Tradycja-awangarda", "Back to the Beckett Text", "Beckett w XXI wieku. Rozpoznanie" (2017)
-
-### 14. Jan Kott - wpływowy krytyk teatralny
-- Wpływowy polski krytyk teatralny okresu powojennej awangardy
-- Recenzował pierwszą paryską produkcję "Czekając na Godota" dla polskiej prasy
-- Zainspirował polskie tłumaczenie i warszawską produkcję w 1957 roku
+### 10. Contemporary productions
+- **National Theatre (2023)**: Directed by Piotr Cieplak, premiered December 9, 2023
+- **Cast**: Mariusz Benoit and Jerzy Radziwiłowicz (winners of the Jacek Woszczerowicz Award for these roles)
+- **Other theatres**: The Old Theatre in Krakow also had this play in its repertoire
 
 ---
 
-## Recepcja Krytyczna w Polsce
+## Translation Problems and Cultural Differences
 
-### 15. Pierwsze reakcje (1957)
-- Polska recepcja budziła silne emocje krytyki
-- Określana jako "arealistyczny snobizm" czy "terapia wstrząsowa"
-- Kontrowersyjna natura sztuki - jedna z realizacji została zdjęta po trzech pokazach
+### 11. Academic research on translation
+- **Aniela Pilarska**: "Existentialism in translation: Waiting for Godot in Polish translations" (2014)
+- **Problems**: Translation of categories arising from tragicomedy aesthetics, translation of theatre of the absurd
+- **Methodology**: Gadamer's and Ricoeur's hermeneutic approaches, Koller's translation theory
 
-### 16. Popularność na polskich scenach
-- Wystawiana w Polsce około 30 razy
-- Świadczy o trwałej popularności i znaczeniu kulturowym
-- Realizowana przez wiele teatrów: Białystok (1972), Łódź (1973), Warszawa (1982, 1991, 1996)
-
----
-
-## Lokalne Nawiązania i Kontekst Krakowski
-
-### 17. Kraków i Małopolska
-- **Stary Teatr im. Heleny Modrzejewskiej**: Miał "Czekając na Godota" w swoim repertuarze
-- **Regionalne znaczenie**: Kraków jako ważny ośrodek teatralny dla recepcji awangardowych dzieł
-- **Tradycja teatralna**: Małopolska jako region o bogatej tradycji teatralnej i otwartości na eksperyment
+### 12. Cultural specificity
+- Play deeply rooted in European culture and philosophy tradition
+- Requires knowledge of broader theatrical and historical-cultural context
+- Represents the discourse of existentialist philosophy
 
 ---
 
-## Kultura Popularna i Młodzież
+## Academic Interpretations by Polish Scholars
 
-### 18. Wpływ na współczesną kulturę
-- Fraza "czekać na godota" (czekać na coś, co nigdy się nie wydarzy) weszła do języka potocznego
-- Beckettowska wizja absurdu rezonuje z kulturą mediów społecznościowych
+### 13. Research center in Gdansk
+- **Leader**: Dr hab. Tomasz Wiśniewski, University of Gdansk
+- **Beckett Research Group**: Affiliated with the Department of Theatre Arts
+- **Publications**: "Samuel Beckett. Tradition-avant-garde", "Back to the Beckett Text", "Beckett in the 21st century. Recognition" (2017)
 
-### 19. Relevantność dla pokolenia Z
-- Krótkie, absurdalne sceny przypominają wirusowe filmy - pozornie bezsensowne, ale tworzące nową jakość
-- Beckett przewidział epokę, gdzie przeszłość staje się memem, teraźniejszość powtórzeniem, przyszłość pustą obietnicą
-- Antycypował potrzebę ciągłej stymulacji i lęk przed ciszą - cechy charakterystyczne dla kultury TikTok
-
----
-
-## Specyficzne Polskie Interpretacje
-
-### 20. Kontekst historyczny PRL-u
-- Premiera w 1957 roku (okres odwilży) miała szczególne znaczenie
-- Sztuka o czekaniu i frustracji rezonowała z doświadczeniami Polaków w systemie komunistycznym
-- Uniwersalne tematy egzystencjalne nabierały dodatkowego, politycznego wymiaru
-
-### 21. Współczesne znaczenie
-- W dzisiejszej Polsce sztuka interpretowana przez pryzmat współczesnych frustracji społecznych
-- Czekanie na "Godota" jako metafora niespełnionych obietnic politycznych i społecznych
-- Trwała aktualność w kontekście polskich przemian ustrojowych
+### 14. Jan Kott - influential theatre critic
+- Influential Polish theatre critic of the post-war avant-garde period
+- Reviewed the first Parisian production of "Waiting for Godot" for the Polish press
+- Inspired the Polish translation and Warsaw production in 1957
 
 ---
 
-## Fan Community i Społeczność
+## Critical Reception in Poland
 
-### 22. Towarzystwo Beckettowskie
-- Aktywna organizacja strzegąca praw do dzieł Becketta
-- Interweniowała w przypadku kontrowersyjnych realizacji
-- Świadczy o żywej społeczności miłośników twórczości Becketta w Polsce
+### 15. First reactions (1957)
+- Polish reception aroused strong emotions from critics
+- Described as "arealistic snobbery" or "shock therapy"
+- Controversial nature of the play - one production was taken down after three performances
 
----
-
-## Wpływ na Polskie Teatr i Kulturę
-
-### 23. Pionierska rola w teatrze absurdu
-- "Czekając na Godota" otworzyła polską scenę na teatr absurdu i awangardę
-- Wpłynęła na rozwój eksperymentalnych form teatralnych w Polsce
-- Inspirowała kolejne pokolenia polskich dramaturgów i reżyserów
+### 16. Popularity on Polish stages
+- Staged in Poland approximately 30 times
+- Testifies to lasting popularity and cultural significance
+- Produced by many theatres: Bialystok (1972), Lodz (1973), Warsaw (1982, 1991, 1996)
 
 ---
 
-## Wyzwania Translatorskie Specyficzne dla Polski
+## Local References and Krakow Context
 
-### 24. Językowe trudności
-- Przekład gier słownych i wieloznaczności z francuskiego na polski
-- Zachowanie rytmu i muzyczności dialogów
-- Kulturowe konotacje wymagające adaptacji dla polskiego odbiorcy
-
----
-
-## Dziedzictwo i Przyszłość
-
-### 25. Trwała obecność w kulturze polskiej
-- "Czekając na Godota" pozostaje żywym elementem polskiej kultury teatralnej
-- Nowe pokolenia reżyserów znajdują w sztuce nowe znaczenia i interpretacje
-- Dzieło Becketta nadal stawia fundamentalne pytania egzystencjalne, które rezonują z polskim doświadczeniem
+### 17. Krakow and Lesser Poland
+- **Helena Modrzejewska Old Theatre**: Had "Waiting for Godot" in its repertoire
+- **Regional significance**: Krakow as an important theatrical center for the reception of avant-garde works
+- **Theatrical tradition**: Lesser Poland as a region with rich theatrical tradition and openness to experiment
 
 ---
 
-## Podsumowanie
-"Czekając na Godota" w Polsce to znacznie więcej niż adaptacja zagranicznej sztuki. To dzieło, które na przestrzeni ponad 60 lat stało się integralną częścią polskiej kultury teatralnej, edukacyjnej i intelektualnej. Od pionierskiej premiery w 1957 roku, przez akademickie badania nad przekładem, po współczesne realizacje i interpretacje - sztuka Becketta nieustannie prowokuje, inspiruje i stawia pytania o kondycję człowieka, które w polskim kontekście nabierają szczególnej głębi i aktualności.
+## Popular Culture and Youth
+
+### 18. Impact on contemporary culture
+- The phrase "waiting for Godot" (waiting for something that will never happen) entered colloquial language
+- Beckett's vision of the absurd resonates with social media culture
+
+### 19. Relevance for Generation Z
+- Short, absurd scenes resemble viral videos - seemingly senseless but creating new quality
+- Beckett anticipated an era where the past becomes a meme, the present repetition, the future an empty promise
+- Anticipated the need for constant stimulation and fear of silence - characteristics of TikTok culture
+
+---
+
+## Specific Polish Interpretations
+
+### 20. Historical context of the Polish People's Republic
+- The 1957 premiere (during the thaw period) had special significance
+- A play about waiting and frustration resonated with Poles' experiences in the communist system
+- Universal existential themes took on additional, political dimensions
+
+### 21. Contemporary significance
+- In today's Poland, the play is interpreted through the prism of contemporary social frustrations
+- Waiting for "Godot" as a metaphor for unfulfilled political and social promises
+- Lasting relevance in the context of Polish systemic transformations
+
+---
+
+## Fan Community and Society
+
+### 22. Beckett Society
+- Active organization protecting rights to Beckett's works
+- Intervened in cases of controversial productions
+- Testifies to a living community of Beckett enthusiasts in Poland
+
+---
+
+## Impact on Polish Theatre and Culture
+
+### 23. Pioneer role in theatre of the absurd
+- "Waiting for Godot" opened the Polish stage to theatre of the absurd and avant-garde
+- Influenced the development of experimental theatrical forms in Poland
+- Inspired subsequent generations of Polish playwrights and directors
+
+---
+
+## Translation Challenges Specific to Poland
+
+### 24. Linguistic difficulties
+- Translation of wordplay and ambiguities from French to Polish
+- Preserving rhythm and musicality of dialogues
+- Cultural connotations requiring adaptation for Polish audiences
+
+---
+
+## Legacy and Future
+
+### 25. Lasting presence in Polish culture
+- "Waiting for Godot" remains a living element of Polish theatrical culture
+- New generations of directors find new meanings and interpretations in the play
+- Beckett's work continues to pose fundamental existential questions that resonate with Polish experience
+
+---
+
+## Summary
+"Waiting for Godot" in Poland is much more than an adaptation of a foreign play. It is a work that over more than 60 years has become an integral part of Polish theatrical, educational and intellectual culture. From the pioneering premiere in 1957, through academic research on translation, to contemporary productions and interpretations - Beckett's play constantly provokes, inspires and asks questions about the human condition, which in the Polish context take on particular depth and relevance.

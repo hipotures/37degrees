@@ -1,165 +1,165 @@
-# Historia powstania "Adventures of Huckleberry Finn" - Badania faktów i anegdot
+# Creation History of "Adventures of Huckleberry Finn" - Facts and Anecdotes Research
 
-## Podstawowe informacje o książce
-- **Tytuł**: Adventures of Huckleberry Finn
-- **Autor**: Mark Twain (Samuel Clemens)
-- **Rok wydania**: 1884 (UK), 1885 (USA)
-- **Czas powstania**: 1876-1883 (7 lat przerywanemu pisaniu)
+## Basic Book Information
+- **Title**: Adventures of Huckleberry Finn
+- **Author**: Mark Twain (Samuel Clemens)
+- **Publication Year**: 1884 (UK), 1885 (USA)
+- **Writing Period**: 1876-1883 (7 years of interrupted writing)
 
-## Okoliczności powstania książki
+## Circumstances of Book Creation
 
-### **FAKT** - Długotrwały i przerwany proces twórczy
-Mark Twain pisał "Huckleberry Finn" w dwóch głównych fazach z przerwą na kilka lat:
-- **Faza 1 (1876)**: Napisał 400 stron zaraz po wydaniu "Tom Sawyer", ale stwierdził, że "podoba mi się tylko średnio" i rozważał spalenie manuskryptu
-- **Przerwa**: Porzucił rękopis na kilka lat, stracił zainteresowanie
-- **Faza 2 (1882-1883)**: Powrócił po podróży po Missisipi w 1882 roku i napisał 800-900 stron w zaledwie kilka dni w sierpniu 1883 roku
+### **FACT** - Long and Interrupted Creative Process
+Mark Twain wrote "Huckleberry Finn" in two main phases with a break of several years:
+- **Phase 1 (1876)**: Wrote 400 pages right after publishing "Tom Sawyer", but stated "I like it only moderately" and considered burning the manuscript
+- **Break**: Abandoned the manuscript for several years, lost interest
+- **Phase 2 (1882-1883)**: Returned after a Mississippi River trip in 1882 and wrote 800-900 pages in just a few days in August 1883
 
-### **FAKT** - Inspirująca podróż po Missisipi
-W 1882 roku Twain odbył podróż parostatkiem po Missisipi z Nowego Orleanu do Minnesoty, zatrzymując się w Hannibal w Missouri - jego rodzinnym mieście. Ta podróż była kluczowym momentem, który zainspirował go do dokończenia książki.
+### **FACT** - Inspiring Mississippi River Journey
+In 1882, Twain took a steamboat trip on the Mississippi from New Orleans to Minnesota, stopping in Hannibal, Missouri - his hometown. This journey was a crucial moment that inspired him to complete the book.
 
-### **FAKT** - Oryginalny tytuł i plan
-Twain pierwotnie zatytułował manuskrypt "Huckleberry Finn's Autobiography" i planował prześledzenie rozwoju Hucka do dorosłości, co ostatecznie porzucił.
+### **FACT** - Original Title and Plan
+Twain originally titled the manuscript "Huckleberry Finn's Autobiography" and planned to trace Huck's development into adulthood, which he ultimately abandoned.
 
-### **FAKT** - Pisanie piórem na papierze notatkowym
-Cała książka została napisana piórem na papierze notatkowym między 1876 a 1883 rokiem - była to jedna z pierwszych maszynopisów dostarczonych do drukarni.
+### **FACT** - Writing with Pen on Notebook Paper
+The entire book was written with a pen on notebook paper between 1876 and 1883 - it was one of the first typewritten manuscripts delivered to the printer.
 
-## Inspiracje i prawdziwi ludzie
+## Inspirations and Real People
 
-### **FAKT** - Tom Blankenship jako pierwowzór Hucka
-Postać Huckleberry Finna była oparta na Tomie Blankenship, synu robotnika tartacznego i czasami pijaka Woodsona Blankenship, który mieszkał w "rozpadającej się" chacie nad rzeką Missisipi za domem, w którym dorastał Mark Twain w Hannibal, Missouri.
+### **FACT** - Tom Blankenship as Huck's Model
+The character of Huckleberry Finn was based on Tom Blankenship, son of sawmill worker and occasional drunk Woodson Blankenship, who lived in a "dilapidated" cabin by the Mississippi River behind the house where Mark Twain grew up in Hannibal, Missouri.
 
-### **FAKT** - George Griffin jako inspiracja dla Jima
-Postać Jima mogła być oparta na George Griffinie, byłym niewolniku, którego Twain zatrudnił jako lokaja i traktował jako powiernika. Griffin był opisywany jako "sprytny, mądry, uprzejmy, zawsze dobroduszny".
+### **FACT** - George Griffin as Inspiration for Jim
+The character of Jim may have been based on George Griffin, a former slave whom Twain employed as a valet and treated as a confidant. Griffin was described as "clever, wise, courteous, always good-natured."
 
-### **FAKT** - Tom Sawyer jako kompilacja trzech chłopców
-Sam Twain stwierdził w swojej autobiografii: "Tom Sawyer też [był oparty na prawdziwych osobach], ale nie na jednej osobie - jest kombinacją charakterów trzech chłopców, których znałem".
+### **FACT** - Tom Sawyer as Compilation of Three Boys
+Twain himself stated in his autobiography: "Tom Sawyer too [was based on real people], but not on one person - he is a combination of the characteristics of three boys whom I knew."
 
-### **FAKT** - Własne doświadczenia z niewolnictwem
-Rodzice Twaina posiadali niewolników, ale rodzina jego żony była zdecydowanie abolicjonistyczna. Te sprzeczne doświadczenia wpłynęły na jego podejście do tematu niewolnictwa w książce.
+### **FACT** - Personal Experiences with Slavery
+Twain's parents owned slaves, but his wife's family was decidedly abolitionist. These conflicting experiences influenced his approach to the slavery theme in the book.
 
-## Proces twórczy i problemy
+## Creative Process and Problems
 
-### **FAKT** - Niemal spalony manuskrypt
-Twain dwukrotnie zatrzymał kompozycję Huckleberry Finn i nawet rozważał spalenie manuskryptu, zanim powrócił do pracy nad nim z odnowioną energią latem 1883 roku.
+### **FACT** - Nearly Burned Manuscript
+Twain stopped composing Huckleberry Finn twice and even considered burning the manuscript before returning to work on it with renewed energy in the summer of 1883.
 
-### **FAKT** - Gwałtowny finał pisania
-W sierpniu 1883 roku Twain napisał do przyjaciela: "Napisałem osiem lub dziewięćset stron manuskryptu w tak krótkim czasie, że nie mogę podać liczby dni. Sam bym w to nie uwierzył, a oczywiście nie mógłbym oczekiwać, że ty w to uwierzysz."
+### **FACT** - Rapid Final Writing
+In August 1883, Twain wrote to a friend: "I wrote eight or nine hundred pages of manuscript in such a short time that I cannot give the number of days. I wouldn't believe it myself, and of course I couldn't expect you to believe it."
 
-### **FAKT** - Usunięte 54 strony walki
-Podczas rewizji Twain usunął 54 strony opisujące scenę walki na tratwie, a także dodatkowych 15 stron, w których Jim opowiada duchowe historie Huckowi.
+### **FACT** - Deleted 54 Pages of Raft Fight
+During revision, Twain deleted 54 pages describing a fight scene on the raft, as well as an additional 15 pages in which Jim tells spiritual stories to Huck.
 
-### **FAKT** - Ewolucja pierwszego zdania
-Twain początkowo napisał "You will not know about me", potem zmienił na "You do not know about me", zanim ustalił ostateczną wersję: "You don't know about me, without you have read a book by the name of 'The Adventures of Tom Sawyer'; but that ain't no matter."
+### **FACT** - Evolution of the First Sentence
+Twain initially wrote "You will not know about me", then changed to "You do not know about me", before settling on the final version: "You don't know about me, without you have read a book by the name of 'The Adventures of Tom Sawyer'; but that ain't no matter."
 
-## Historia publikacji
+## Publication History
 
-### **FAKT** - Pierwsze wydanie w UK przed USA
-Książka została wydana najpierw w Wielkiej Brytanii w grudniu 1884 roku, a w USA dopiero w lutym 1885 roku przez Charles L. Webster and Company.
+### **FACT** - First Published in UK Before USA
+The book was first published in Britain in December 1884, and in the USA only in February 1885 by Charles L. Webster and Company.
 
-### **FAKT** - Skandal z ilustracją na stronie 283
-Nieznany żartowniś zmienił płytę drukową ilustracji na stronie 283, pokazując wujka Silasa w nieprzyzwoitym stanie. Mark Twain był wściekły i wycofał prawie wszystkie egzemplarze, zastępując strony poprawioną wersją.
+### **FACT** - Scandal with Illustration on Page 283
+An unknown prankster altered the printing plate of the illustration on page 283, showing Uncle Silas in an indecent state. Mark Twain was furious and recalled almost all copies, replacing the pages with a corrected version.
 
-### **FAKT** - Pierwszy nakład 30 000 egzemplarzy
-Pierwszy nakład wynosił 30 000 egzemplarzy, ale do kwietnia 1885 roku sprzedano już 51 000 kopii.
+### **FACT** - First Print Run of 30,000 Copies
+The first print run was 30,000 copies, but by April 1885, 51,000 copies had already been sold.
 
-### **FAKT** - Natychmiastowy ban w Concord, Massachusetts
-Zaledwie miesiąc po publikacji, bibliotekarze w Concord, Massachusetts uznali książkę za "śmieci" i "odpowiednią tylko dla slumsów". To był pierwszy ban książki w Stanach Zjednoczonych.
+### **FACT** - Immediate Ban in Concord, Massachusetts
+Just a month after publication, librarians in Concord, Massachusetts deemed the book "trash" and "suitable only for the slums." This was the first ban of the book in the United States.
 
-## Reakcje i kontrowersje
+## Reactions and Controversies
 
-### **FAKT** - Twain wykorzystał ban jako marketing
-Gdy Twain usłyszał o zakazie w bibliotece publicznej Concord, sprytnie wykorzystał to jako okazję reklamową, pisząc: "komitet biblioteki publicznej waszego miasta potępił i wykluczył moją ostatnią książkę i podwoił jej sprzedaż".
+### **FACT** - Twain Used Ban as Marketing
+When Twain heard about the ban at Concord Public Library, he cleverly used it as an advertising opportunity, writing: "the committee of your public library has condemned and excluded my latest book and doubled its sales."
 
-### **FAKT** - Książka banowana co roku od publikacji
-Artykuł z 1907 roku w Library Journal donosi, że "Adventures of Huckleberry Finn" była banowana gdzieś co roku od momentu publikacji.
+### **FACT** - Book Banned Every Year Since Publication
+An 1907 article in Library Journal reports that "Adventures of Huckleberry Finn" was banned somewhere every year since its publication.
 
-### **FAKT** - Przełomowe znaczenie dla literatury amerykańskiej
-Książka była jedną z pierwszych w głównej literaturze amerykańskiej napisaną w całości w języku potocznym, charakteryzującym się regionalnym kolorytem.
+### **FACT** - Groundbreaking Significance for American Literature
+The book was one of the first in mainstream American literature written entirely in vernacular language, characterized by regional color.
 
-## Kontekst biograficzny Marka Twaina
+## Mark Twain's Biographical Context
 
-### **FAKT** - Problemy finansowe podczas pisania
-Mark Twain robił złe inwestycje i podejmował złe decyzje finansowe. W 1891 roku znalazł się w wyniszczających długach. Między 1881 a 1894 rokiem stracił 200 000 dolarów, co zmusiło go do ogłoszenia bankructwa w kwietniu 1894.
+### **FACT** - Financial Problems During Writing
+Mark Twain made bad investments and poor financial decisions. In 1891, he found himself in devastating debt. Between 1881 and 1894, he lost $200,000, forcing him to declare bankruptcy in April 1894.
 
-### **FAKT** - Koszt maszyny do składu tekstu
-Jedna z jego inwestycyjnych katastrof, dotycząca automatycznej maszyny do składu tekstu, kosztowała go prawie 200 000 dolarów, co było ogromną sumą, biorąc pod uwagę, że w 1890 roku większość amerykańskich rodzin zarabiała mniej niż 1200 dolarów rocznie.
+### **FACT** - Cost of Typesetting Machine
+One of his investment disasters, involving an automatic typesetting machine, cost him nearly $200,000, which was an enormous sum considering that in 1890 most American families earned less than $1,200 annually.
 
-### **FAKT** - Hartford jako miejsce twórczości
-Przez 17 lat (1874-1891) Twain mieszkał ze swoją rodziną w wielkim domu w Hartford, Connecticut, gdzie napisał wiele swoich klasycznych powieści, często znajdując letnie schronienie na farmie swojej szwagierki w Elmira, Nowy Jork.
+### **FACT** - Hartford as Place of Creativity
+For 17 years (1874-1891), Twain lived with his family in a large house in Hartford, Connecticut, where he wrote many of his classic novels, often finding summer refuge at his sister-in-law's farm in Elmira, New York.
 
-### **FAKT** - Tragedie rodzinne
-Twain i jego żona Olivia stracili swojego pierwszego syna po zaledwie dziewiętnastu miesiącach. W 1872 roku urodziła się ich pierwsza córka Susy, ale syn Langdon zmarł w wieku dwóch lat na błonicę.
+### **FACT** - Family Tragedies
+Twain and his wife Olivia lost their first son after only nineteen months. In 1872, their first daughter Susy was born, but son Langdon died at age two from diphtheria.
 
-## Rękopis i jego losy
+## Manuscript and Its Fate
 
-### **FAKT** - Zagubiona połowa manuskryptu przez 105 lat
-Biblioteka Buffalo otrzymała około połowę manuskryptu (487 kartek) w 1885 roku. Losy pierwszej połowy pozostawały tajemnicą przez ponad stulecie, aż do zdumiewającego odkrycia w październiku 1990 roku w Hollywood, Kalifornia, gdzie znaleziono ją w kufrze podróżnym na strychu wnuczki Gluck.
+### **FACT** - Lost Half of Manuscript for 105 Years
+The Buffalo Library received about half of the manuscript (487 pages) in 1885. The fate of the first half remained a mystery for over a century, until an amazing discovery in October 1990 in Hollywood, California, where it was found in a travel trunk in the attic of Gluck's granddaughter.
 
-### **FAKT** - Łączna liczba stron manuskryptu
-Kompletny manuskrypt składał się z około 1152 kartek (stron) po ostatecznym złożeniu.
+### **FACT** - Total Number of Manuscript Pages
+The complete manuscript consisted of approximately 1,152 sheets (pages) after final assembly.
 
-### **FAKT** - Pierwszy maszynopis dostarczony do drukarni
-Późniejsza wersja była pierwszym maszynopisem dostarczonym do drukarni, co było innowacją w tamtym czasie.
+### **FACT** - First Typescript Delivered to Printer
+The later version was the first typescript delivered to the printer, which was an innovation at the time.
 
-## Długoterminowy sukces i wpływ
+## Long-term Success and Impact
 
-### **FAKT** - 20 milionów sprzedanych egzemplarzy
-Scholar Twaina Walter Blair szacuje, że na całym świecie sprzedano około dwudziestu milionów egzemplarzy, przy ciągle silnej sprzedaży.
+### **FACT** - 20 Million Copies Sold
+Twain scholar Walter Blair estimates that about twenty million copies have been sold worldwide, with sales remaining strong.
 
-### **FAKT** - Tłumaczenia na 65 języków
-Od 2019 roku "Huck Finn" można usłyszeć rozmawiającego z Jimem w 65 językach, w tym 22 językach o ograniczonych zasobach, takich jak asamski, baskijski, bengalski, birmański i jidysz.
+### **FACT** - Translations into 65 Languages
+As of 2019, "Huck Finn" can be heard talking to Jim in 65 languages, including 22 lesser-resourced languages such as Assamese, Basque, Bengali, Burmese, and Yiddish.
 
-### **FAKT** - Pierwsze tłumaczenie na chiński w 1942
-Pierwsze chińskie tłumaczenie zostało wykonane przez Zhang Duo-shenga w 1942 roku.
+### **FACT** - First Chinese Translation in 1942
+The first Chinese translation was done by Zhang Duo-sheng in 1942.
 
-### **FAKT** - Pozycja 14 na liście najczęściej banowanych książek
-Obecnie książka zajmuje 14. pozycję na liście 100 najczęściej banowanych/kontestowanych książek w Ameryce.
+### **FACT** - Position 14 on Most Banned Books List
+Currently, the book ranks 14th on the list of 100 most banned/challenged books in America.
 
-## Ciekawostki i anegdoty
+## Curiosities and Anecdotes
 
-### **FAKT** - Biały garnitur jako znak rozpoznawczy
-Twain nosił biały garnitur nawet zimą, co stało się jego znakiem rozpoznawczym (jak przypadek, gdy założył biały letni garnitur na przesłuchanie w Kongresie podczas zimy).
+### **FACT** - White Suit as Trademark
+Twain wore a white suit even in winter, which became his trademark (like when he wore a white summer suit to a Congressional hearing during winter).
 
-### **FAKT** - Dyktowanie autobiografii
-Większość autobiografii Twaina została podyktowana, a nie napisana bezpośrednio - był opisywany jako mający "sekretarza podążającego za nim i zapisującego każdą przemijającą myśl".
+### **FACT** - Dictating Autobiography
+Most of Twain's autobiography was dictated rather than written directly - he was described as having "a secretary following him and recording every passing thought."
 
-### **FAKT** - Składanie całych akapitów w głowie
-Redaktorzy byli zdumieni, że Twain potrafił komponować całe akapity w głowie podczas dyktowania, mówiąc: "Nie mogli uwierzyć, że ktoś może dyktować w ten sposób."
+### **FACT** - Composing Entire Paragraphs in His Head
+Editors were amazed that Twain could compose entire paragraphs in his head while dictating, saying: "They couldn't believe that someone could dictate this way."
 
-### **FAKT** - 100-letnie embargo na autobiografię jako chwyt marketingowy
-Twain wiedział, jak sprzedać książkę, tworząc pozorne 100-letnie embargo na swoją autobiografię: "Jeśli powiesz: oto fragment autobiografii, ale nie możesz zobaczyć całości przez sto lat, sprzedasz książkę."
+### **FACT** - 100-Year Embargo on Autobiography as Marketing Ploy
+Twain knew how to sell a book, creating an apparent 100-year embargo on his autobiography: "If you say: here's a fragment of autobiography, but you can't see the whole thing for a hundred years, you'll sell the book."
 
-### **PLOTKA** - Rozważał różne tytuły
-Chociaż wiadomo, że oryginalnie zatytułował manuskrypt "Huckleberry Finn's Autobiography", nie ma jasnych dowodów na inne rozważane tytuły.
+### **RUMOR** - Considered Various Titles
+While it's known that he originally titled the manuscript "Huckleberry Finn's Autobiography," there's no clear evidence of other titles considered.
 
-## Statystyki sprzedaży i wartości
+## Sales Statistics and Values
 
-### **FAKT** - Zamówienia przed publikacją
-Webster's figures pokazują, że miał 9000 zamówień do 2 września 1884 roku i ponad 40 000 do kwietnia 1885 roku.
+### **FACT** - Pre-Publication Orders
+Webster's figures show he had 9,000 orders by September 2, 1884, and over 40,000 by April 1885.
 
-### **FAKT** - Dzisiejsza wartość pierwszego wydania
-Pierwsze amerykańskie wydania są dziś bardzo cenne:
-- Sotheby's sprzedało egzemplarz w 2024 roku za 5760 dolarów
-- Heritage Auctions sprzedało kopię w 2024 za 1312 dolarów
-- Britannic Auctions sprzedało w 2019 za 1792 dolary
+### **FACT** - Today's Value of First Edition
+First American editions are very valuable today:
+- Sotheby's sold a copy in 2024 for $5,760
+- Heritage Auctions sold a copy in 2024 for $1,312
+- Britannic Auctions sold one in 2019 for $1,792
 
-### **FAKT** - Różne wersje okładek
-Pierwsze amerykańskie wydanie miało ciemnozieloną okładkę płócienną z kreskówkowym podobizną Finna stojącego przed płotem. Była też rzadka niebieska okładka płócienna, która została wycofana po spadku sprzedaży na Południu z powodu podobieństwa do kolorów munduru Unii.
+### **FACT** - Different Cover Versions
+The first American edition had a dark green cloth cover with a cartoon-like depiction of Finn standing in front of a fence. There was also a rare blue cloth cover that was withdrawn after sales declined in the South due to its resemblance to Union uniform colors.
 
-### **FAKT** - Sukces pierwszego nakładu
-Do 6 maja 1885 Twain notował: "Sprzedałem już 51 000 egzemplarzy Hucka", przekraczając planowany nakład 50 000 egzemplarzy.
+### **FACT** - Success of First Print Run
+By May 6, 1885, Twain noted: "I have already sold 51,000 copies of Huck," exceeding the planned print run of 50,000 copies.
 
-## Wpływ na literaturę światową
+## Impact on World Literature
 
-### **FAKT** - Wpływ na literaturę światową
-Klasyk literatury amerykańskiej miał ogromny wpływ nie tylko na literaturę amerykańską, ale także na literaturę światową.
+### **FACT** - Impact on World Literature
+This American literary classic had enormous influence not only on American literature but also on world literature.
 
-### **FAKT** - Badania akademickie nad tłumaczeniami
-Historia tłumaczeń została przedmiotem znaczących badań akademickich, łącząc dziedziny Literary Studies, Translation Studies i Transnational American Studies.
+### **FACT** - Academic Research on Translations
+The translation history has become the subject of significant academic research, combining the fields of Literary Studies, Translation Studies, and Transnational American Studies.
 
-### **FAKT** - Wyzwania tłumaczeniowe
-Powieść przedstawia unikalne wyzwania tłumaczeniowe z powodu charakterystycznego użycia dialektu i potocznej mowy, które różni tłumacze rozwiązywali na różne sposoby.
+### **FACT** - Translation Challenges
+The novel presents unique translation challenges due to its distinctive use of dialect and colloquial speech, which different translators have solved in various ways.
 
 ---
 
-**Podsumowanie**: "Adventures of Huckleberry Finn" powstała w wyniku 7-letniego, przerwanego procesu twórczego (1876-1883), inspirowana prawdziwymi ludźmi z dzieciństwa Twaina i jego doświadczeniami z niewolnictwem. Książka od momentu publikacji budziła kontrowersje, była banowana, ale stała się jedną z najważniejszych pozycji literatury światowej, sprzedana w 20 milionach egzemplarzy i przetłumaczona na 65 języków. Twain sprytnie wykorzystywał kontrowersje do marketingu, a jego innowacyjne użycie języka potocznego na stałe zmieniło literaturę amerykańską.
+**Summary**: "Adventures of Huckleberry Finn" was created through a 7-year interrupted creative process (1876-1883), inspired by real people from Twain's childhood and his experiences with slavery. The book sparked controversy from the moment of publication, was banned, but became one of the most important works in world literature, selling 20 million copies and translated into 65 languages. Twain cleverly used controversies for marketing, and his innovative use of vernacular language permanently changed American literature.

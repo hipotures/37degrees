@@ -1,7 +1,7 @@
-# Badanie wpływu kulturowego: "Dom duchów" Isabel Allende
+# Cultural Impact Research: "The House of the Spirits" by Isabel Allende
 
-## Wprowadzenie
-"Dom duchów" (La casa de los espíritus, 1982) Isabel Allende to przełomowe dzieło, które nie tylko zapoczątkowało karierę jednej z najpopularniejszych współczesnych pisarek, ale również wywarło ogromny wpływ na kulturę światową. Książka sprzedała się w nakładzie ponad 74 milionów egzemplarzy na całym świecie i została przetłumaczona na 42 języki.
+## Introduction
+"The House of the Spirits" (La casa de los espíritus, 1982) by Isabel Allende is a groundbreaking work that not only launched the career of one of the most popular contemporary writers, but also had an enormous impact on world culture. The book has sold over 74 million copies worldwide and has been translated into 42 languages.
 
 ## 1. ADAPTACJE MEDIALNE
 
@@ -118,84 +118,84 @@
 - Eseje i prace magisterskie analizujące tematy feministyczne i polityczne
 - Przewodniki dla klubów książki z pytaniami do dyskusji
 
-## 8. PARODIE, HOŁDY I REINTERPRETACJE
+## 8. PARODIES, TRIBUTES AND REINTERPRETATIONS
 
-### Akademickie analizy parodii
-**"Parody or Piracy":** Debata w Latin American Literary Review o relacji do "Stu lat samotności"  
-**Tradycja pikareska:** Studia nad parodyjnym pisarstwem we współczesnej literaturze latynoamerykańskiej
+### Academic Parody Analyses
+**"Parody or Piracy":** Debate in Latin American Literary Review about relationship to "One Hundred Years of Solitude"
+**Picaresque Tradition:** Studies on parodic writing in contemporary Latin American literature
 
-### Wpływ satiryczny
-- Allende wcześniej pisała satyryczne kolumny (na poradę Pablo Nerudy)
-- Elementy satiryczne w przedstawieniu patriarchalnego społeczeństwa
-- Ironia jako narzędzie krytyki społecznej
+### Satirical Influence
+- Allende previously wrote satirical columns (on Pablo Neruda's advice)
+- Satirical elements in portrayal of patriarchal society
+- Irony as a tool for social criticism
 
-### Reinterpretacje kulturowe
-- Adaptacje teatralne w różnych krajach z lokalnymi kontekstami
-- Tłumaczenia dostosowujące kulturowe realia do różnych społeczeństw
-- Feministyczne reinterpretacje w kontekście współczesnych ruchów społecznych
+### Cultural Reinterpretations
+- Theater adaptations in different countries with local contexts
+- Translations adapting cultural realities to different societies
+- Feminist reinterpretations in the context of contemporary social movements
 
-## 9. KONTROWERSJE I CENZURA
+## 9. CONTROVERSIES AND CENSORSHIP
 
-### Próby zakazów w szkołach (USA)
-**Karolina Północna (2013):** Skargi rodziców na "nieprzyzwoitą treść" w licealnym programie nauczania  
-**Odpowiedź Allende:** "Zakazywanie książek to powszechna praktyka w państwach policyjnych jak Kuba czy Korea Północna"  
-**Wynik:** Książka pozostała w programie po trzech apelacjach
+### School Ban Attempts (USA)
+**North Carolina (2013):** Parent complaints about "inappropriate content" in high school curriculum
+**Allende's Response:** "Banning books is a common practice in police states like Cuba or North Korea"
+**Result:** Book remained in curriculum after three appeals
 
-**Virginia (1997):** Rodzic rozprowadzał "pakiety cytatów" z książki z pytaniem "Czy pozwolilibyście swojej 16-letniej córce czytać ten materiał?"
+**Virginia (1997):** Parent distributed "quote packets" from the book asking "Would you let your 16-year-old daughter read this material?"
 
-**Maryland, Kalifornia (1999-2000):** Zakwestionowana za "antychrześcijańskie poglądy" i "pornograficzne przedstawienia"
+**Maryland, California (1999-2000):** Challenged for "anti-Christian views" and "pornographic depictions"
 
-### Obrona przez organizacje
-**National Coalition Against Censorship:** Kampania "Keep 'House of the Spirits' On Curriculum"  
-**People For the American Way:** Wsparcie dla zachowania książki w programach
+### Defense by Organizations
+**National Coalition Against Censorship:** "Keep 'House of the Spirits' On Curriculum" campaign
+**People For the American Way:** Support for keeping the book in curricula
 
-## 10. NAGRODY I UZNANIE MIĘDZYNARODOWE
+## 10. AWARDS AND INTERNATIONAL RECOGNITION
 
-### Główne nagrody
-- **Najlepsza Powieść Roku** (Chile, 1983)
-- **Autor Roku** (Niemcy, 1984)
-- **Książka Roku** (Niemcy, 1984)
-- **Grand Prix D'Evasion** (Francja, 1984)
-- **Najlepsza Powieść** (Meksyk, 1985)
-- **XV Premio Internazionale I Migliori Dell'Anno** (Włochy, 1987)
+### Major Awards
+- **Best Novel of the Year** (Chile, 1983)
+- **Author of the Year** (Germany, 1984)
+- **Book of the Year** (Germany, 1984)
+- **Grand Prix D'Evasion** (France, 1984)
+- **Best Novel** (Mexico, 1985)
+- **XV Premio Internazionale I Migliori Dell'Anno** (Italy, 1987)
 - **Books to Remember Award** American Library Association (USA, 1996)
 
-### Uznanie historyczne
-**The Times (Londyn, 2009):** Jedna z 60 najlepszych książek ostatnich 60 lat
+### Historical Recognition
+**The Times (London, 2009):** One of the 60 best books of the last 60 years
 
-## 11. WPŁYW NA WSPÓŁCZESNĄ KULTURĘ DIGITALNĄ
+## 11. IMPACT ON CONTEMPORARY DIGITAL CULTURE
 
-### Platformy społecznościowe
-**BookTok na TikTok:** Nowa generacja odkrywa książkę przez rekomendacje  
-**Instagram:** #houseofthespirits - zdjęcia książek, cytaty, fan art  
-**Twitter/X:** Dyskusje o feminizmie, magicznym realizmie, polityce
+### Social Media Platforms
+**BookTok on TikTok:** New generation discovers the book through recommendations
+**Instagram:** #houseofthespirits - book photos, quotes, fan art
+**Twitter/X:** Discussions about feminism, magical realism, politics
 
-### Cyfrowe społeczności
-**Goodreads:** Aktywne dyskusje w grupach czytelniczych  
-**Reddit:** Subreddity poświęcone literaturze latynoamerykańskiej  
-**Discord:** Serwery klubów książki omawiające twórczość Allende
+### Digital Communities
+**Goodreads:** Active discussions in reading groups
+**Reddit:** Subreddits dedicated to Latin American literature
+**Discord:** Book club servers discussing Allende's work
 
-## 12. DZIEDZICTWO I WPŁYW DŁUGOTERMINOWY
+## 12. LEGACY AND LONG-TERM IMPACT
 
-### Wpływ na kolejne pokolenia pisarzy
-- Inspiracja dla pisarek latynoamerykańskich
-- Wzór dla łączenia historii osobistej z historią polityczną
-- Model dla przedstawiania silnych kobiecych postaci w literaturze
+### Impact on Next Generation Writers
+- Inspiration for Latin American women writers
+- Model for combining personal history with political history
+- Template for portraying strong female characters in literature
 
-### Edukacyjny wpływ globalny
-- Nauczana w szkołach średnich na 6 kontynentach
-- Część programów International Baccalaureate
-- Wprowadzenie do studiów latynoamerykańskich na uniwersytetach
+### Global Educational Impact
+- Taught in high schools on 6 continents
+- Part of International Baccalaureate programs
+- Introduction to Latin American studies at universities
 
-### Wpływ na tożsamość kulturową
-**Chile:** Pomoc w przepracowaniu traumy dyktatury Pinocheta  
-**Społeczności latynoskie w USA:** Wzmocnienie tożsamości kulturowej  
-**Globalne czytelnictwo:** Zrozumienie historii i kultury Ameryki Łacińskiej
+### Impact on Cultural Identity
+**Chile:** Help in processing trauma of Pinochet dictatorship
+**Latino Communities in USA:** Strengthening cultural identity
+**Global Readership:** Understanding Latin American history and culture
 
-## Podsumowanie
+## Summary
 
-"Dom duchów" Isabel Allende wykroczył daleko poza ramy pojedynczej książki, stając się zjawiskiem kulturowym o globalnym zasięgu. Od przełomowego wpływu na magiczny realizm, przez adaptacje filmowe i teatralne, po współczesne dyskusje w mediach społecznościowych - książka nadal inspiruje, prowokuje i edukuje. 
+"The House of the Spirits" by Isabel Allende has gone far beyond the framework of a single book, becoming a cultural phenomenon of global reach. From its groundbreaking influence on magical realism, through film and theater adaptations, to contemporary discussions on social media - the book continues to inspire, provoke and educate.
 
-Jej wpływ na feminizm, zrozumienie historii Ameryki Łacińskiej i rozwój literatury światowej jest niezaprzeczalny. Pomimo kontrowersji i prób cenzury, "Dom duchów" pozostaje jednym z najważniejszych dzieł literatury XX wieku, które nadal kształtuje sposób, w jaki rozumiemy literaturę, historię i walkę o prawa kobiet.
+Its impact on feminism, understanding of Latin American history, and development of world literature is undeniable. Despite controversies and censorship attempts, "The House of the Spirits" remains one of the most important works of 20th century literature that continues to shape the way we understand literature, history, and the struggle for women's rights.
 
-Fenomen tej książki pokazuje, jak literatura może przekraczać granice kulturowe i językowe, stając się mostem między różnymi społecznościami i pokoleniami, od pierwszych czytelników w 1982 roku po dzisiejszą generację odkrywającą ją na TikToku.
+The phenomenon of this book shows how literature can transcend cultural and linguistic boundaries, becoming a bridge between different communities and generations, from the first readers in 1982 to today's generation discovering it on TikTok.

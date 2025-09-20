@@ -1,0 +1,103 @@
+sceneDescription:
+  setting:
+    time: September 1961, days following the incident
+    location: Domestic interior, family home in Portsmouth, New Hampshire
+    weather: Indoor environment, daylight filtering through windows
+  characters:
+  - appearance: White woman, 41 years old, dark hair styled in early 1960s fashion, average height, social worker build
+    clothing: Blue dress with light coat, practical travel shoes suitable for 1960s era
+    position: Seated at table examining damaged clothing and artifacts
+    action: Carefully inspecting torn fabric and mysterious stains on dress, documenting physical evidence
+  - appearance: African American man, 39 years old, well-groomed professional appearance, wearing eyeglasses, average height
+    clothing: Business casual travel attire consisting of dark slacks, dress shirt, light jacket typical of early 1960s
+    position: Standing beside table holding broken binocular strap
+    action: Examining military-style field glasses with leather strap now broken and frayed from incident
+  scene:
+    mainElements: Blue dress with tears and stains from unidentified pink powder substance, showing physical evidence of unexplained
+      encounter, military-style field glasses with leather strap now broken and frayed from incident, domestic table setting
+      for evidence examination
+    details: Torn fabric showing clear damage patterns, pink powder residue visible on dress material, broken binocular strap
+      with frayed leather ends, stopped wristwatch showing time discrepancy, domestic interior furnishings typical of early
+      1960s New Hampshire home, natural daylight illuminating evidence examination, magnifying glass for detail inspection,
+      no text or letters visible
+    background: Typical 1960s American home interior with period-appropriate furniture, wallpaper, and domestic accessories
+    atmosphere: Quiet domestic setting transformed into crime scene investigation, mixture of scientific curiosity and personal
+      violation
+  composition:
+    cameraAngle: Close-up shot focusing on damaged artifacts and evidence details
+    focus: Physical evidence including torn dress, broken binocular strap, and other anomalous artifacts
+    depth: Foreground shows detailed evidence examination, middle ground features the investigators, background displays domestic
+      interior setting
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

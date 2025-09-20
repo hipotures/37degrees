@@ -1,369 +1,369 @@
-# Analiza Symboli i Znaczeń: "Druga płeć" Simone de Beauvoir
+# Symbolic Analysis and Hidden Meanings: "The Second Sex" by Simone de Beauvoir
 
-## Wprowadzenie
+## Introduction
 
-"Druga płeć" (Le Deuxième Sexe, 1949) Simone de Beauvoir to fundament współczesnego feminizmu i jedno z najważniejszych dzieł filozofii egzystencjalnej XX wieku. Ta monumentalna analiza kondycji kobiety zawiera bogactwo symboli, motywów i ukrytych znaczeń, które rezonują na różnych poziomach interpretacyjnych - od filozoficznego i psychoanalitycznego po kulturowy i polityczny.
+"The Second Sex" (Le Deuxième Sexe, 1949) by Simone de Beauvoir is the foundation of contemporary feminism and one of the most important works of 20th-century existential philosophy. This monumental analysis of women's condition contains a wealth of symbols, motifs, and hidden meanings that resonate at different interpretative levels - from philosophical and psychoanalytic to cultural and political.
 
-## Główne Symbole i Ich Interpretacje
+## Main Symbols and Their Interpretations
 
-### 1. Kobieta jako "Inna" (L'Autre)
+### 1. Woman as "The Other" (L'Autre)
 
-**Symbol centralny:** Koncepcja kobiety jako "Innej" stanowi serce filozofii de Beauvoir.
+**Central symbol:** The concept of woman as "The Other" stands at the heart of de Beauvoir's philosophy.
 
-**Interpretacje wielowarstwowe:**
-- **Filozoficzna:** Mężczyzna definiuje siebie jako "Jeden" (podmiot), kobieta staje się "Inną" (przedmiot)
-- **Egzystencjalna:** Odzwierciedla fundamentalną kategorię myśli ludzkiej - dialektykę Ja i Innego
-- **Kulturowa:** Mechanizm konstruowania tożsamości męskiej poprzez wykluczenie żeńskiego
-- **Psychoanalityczna:** Projekcja męskich lęków i pragnień na figurę kobiety
+**Multilayered interpretations:**
+- **Philosophical:** Man defines himself as "One" (subject), woman becomes "The Other" (object)
+- **Existential:** Reflects fundamental category of human thought - the dialectic of Self and Other
+- **Cultural:** Mechanism of constructing masculine identity through feminine exclusion
+- **Psychoanalytic:** Projection of masculine fears and desires onto the figure of woman
 
-**Współczesne odczytania:**
-- **Postkolonialne:** Paralelizm między Inną-kobietą a Innym-kolonizowanym
-- **Queer:** Rozszerzenie na wszystkie marginalizowane tożsamości płciowe
-- **Intersektionalne:** Wielowarstwowość wykluczenia (rasa, klasa, orientacja seksualna)
+**Contemporary readings:**
+- **Postcolonial:** Parallelism between the Other-woman and the Other-colonized
+- **Queer:** Extension to all marginalized gender identities
+- **Intersectional:** Multi-layered exclusion (race, class, sexual orientation)
 
-### 2. Mit "Wiecznej Kobiecości" (L'Éternel Féminin)
+### 2. The Myth of "Eternal Femininity" (L'Éternel Féminin)
 
-**Symbol mitologiczny:** Zbiór archetypów ograniczających kobietę do ról biologicznych.
+**Mythological symbol:** Collection of archetypes limiting woman to biological roles.
 
-**Komponenty mityczne:**
-- **Matka Ziemia:** Symbol płodności i życiodajności
-- **Dziewica:** Symbol czystości i nieskalaności
-- **Prostytutka:** Symbol grzechu i upadku
-- **Madonna:** Symbol poświęcenia i duchowości
+**Mythical components:**
+- **Earth Mother:** Symbol of fertility and life-giving force
+- **Virgin:** Symbol of purity and unspoiled nature
+- **Prostitute:** Symbol of sin and fall
+- **Madonna:** Symbol of sacrifice and spirituality
 
-**Interpretacje analityczne:**
-- **Jungowska:** Archetypy jako uniwersalne wzorce nieświadomości zbiorowej
-- **Feministyczna:** Narzędzia patriarchalnej kontroli nad kobiecym doświadczeniem
-- **Antropologiczna:** Oddzielenie kobiet od indywidualności poprzez mitologizację
+**Analytical interpretations:**
+- **Jungian:** Archetypes as universal patterns of collective unconscious
+- **Feminist:** Tools of patriarchal control over feminine experience
+- **Anthropological:** Separation of women from individuality through mythologization
 
-### 3. Dialektyka Immanencji i Transcendencji
+### 3. Dialectic of Immanence and Transcendence
 
-**Symbol egzystencjalny:** Podstawowy podział kondycji ludzkiej w filozofii de Beauvoir.
+**Existential symbol:** Basic division of human condition in de Beauvoir's philosophy.
 
-**Znaczenia symboliczne:**
-- **Immanencja:** Uwięzienie w ciele, powtarzalność, naturalne procesy
-- **Transcendencja:** Przekraczanie siebie, twórczość, wolność wyboru
-- **Asymetria:** Mężczyźni - sfera transcendencji, kobiety - sfera immanencji
+**Symbolic meanings:**
+- **Immanence:** Imprisonment in body, repetition, natural processes
+- **Transcendence:** Self-transcendence, creativity, freedom of choice
+- **Asymmetry:** Men - sphere of transcendence, women - sphere of immanence
 
-**Współczesne interpretacje:**
-- **Feministyczne:** Krytyka binarnego podziału jako patriarchalnego konstruktu
-- **Queer:** Kwestionowanie sztywnych kategorii płciowych
-- **Postmodernistyczne:** Dekonstrukcja hierarchii wartości
+**Contemporary interpretations:**
+- **Feminist:** Critique of binary division as patriarchal construct
+- **Queer:** Questioning rigid gender categories
+- **Postmodernist:** Deconstruction of value hierarchies
 
-### 4. Menstruacja jako Symbol Immanencji
+### 4. Menstruation as Symbol of Immanence
 
-**Symbol cielesny:** Miesięczne przypomnienie o uwięzieniu w funkcjach biologicznych.
+**Bodily symbol:** Monthly reminder of imprisonment in biological functions.
 
-**Warstwy znaczeniowe:**
-- **Biologiczna:** Znak służby wobec gatunku przez reprodukcję
-- **Kulturowa:** Źródło tabu i wykluczenia społecznego
-- **Symboliczna:** Przypomnienie o "naturalności" kobiety w opozycji do męskiej "kultury"
+**Layers of meaning:**
+- **Biological:** Sign of servitude to species through reproduction
+- **Cultural:** Source of taboo and social exclusion
+- **Symbolic:** Reminder of woman's "naturalness" in opposition to masculine "culture"
 
-**Reinterpretacje współczesne:**
-- **Feministyczne trzeciej fali:** Afirmacja cielesności jako źródła siły
-- **Ekofeminizm:** Połączenie z cyklami natury jako pozytywna wartość
-- **Postkolonialne:** Różnice kulturowe w podejściu do cielesności kobiecej
+**Contemporary reinterpretations:**
+- **Third-wave feminism:** Affirmation of corporeality as source of strength
+- **Ecofeminism:** Connection with natural cycles as positive value
+- **Postcolonial:** Cultural differences in approaches to feminine corporeality
 
-### 5. Fallus jako Symbol Dominacji
+### 5. Phallus as Symbol of Domination
 
-**Symbol psychoanalityczny:** Reprezentacja męskiej superiorności i władzy.
+**Psychoanalytic symbol:** Representation of masculine superiority and power.
 
-**Interpretacje Freudowskie:**
-- **"Zawiść penisa":** Kobiecy brak jako źródło kompleksu niższości
-- **Aktywność seksualna:** Różnica w ról seksualnych jako hierarchia
+**Freudian interpretations:**
+- **"Penis envy":** Feminine lack as source of inferiority complex
+- **Sexual activity:** Difference in sexual roles as hierarchy
 
-**Krytyka de Beauvoir:**
-- **Redukcjonizm:** Sprowadzenie kobiecego doświadczenia do biologii
-- **Projekcja:** Męskie lęki rzutowane na kobiecą seksualność
-- **Społeczne uwarunkowania:** Ignorowanie kulturowych aspektów dominacji
+**De Beauvoir's critique:**
+- **Reductionism:** Reducing feminine experience to biology
+- **Projection:** Masculine fears projected onto feminine sexuality
+- **Social conditioning:** Ignoring cultural aspects of domination
 
-### 6. Natura jako Symbol Ambiwalentny
+### 6. Nature as Ambivalent Symbol
 
-**Symbol kulturowy:** Kobieta utożsamiana z naturą w opozycji do męskiej kultury.
+**Cultural symbol:** Woman identified with nature in opposition to masculine culture.
 
-**Dualność interpretacyjna:**
-- **Pozytywna:** Życiodajność, płodność, harmonia z naturalnymi cyklami
-- **Negatywna:** Pierwotność, irracjonalność, zagrożenie dla cywilizacji
+**Interpretative duality:**
+- **Positive:** Life-giving force, fertility, harmony with natural cycles
+- **Negative:** Primitiveness, irrationality, threat to civilization
 
-**Współczesne odczytania:**
-- **Ekofeminizm:** Pozytywne przewartościowanie związku kobieta-natura
-- **Posthumanizm:** Kwestionowanie podziału natura-kultura
-- **Dekolonializacja:** Krytyka zachodniego dualizmu jako narzędzia opresji
+**Contemporary readings:**
+- **Ecofeminism:** Positive revaluation of woman-nature connection
+- **Posthumanism:** Questioning nature-culture divide
+- **Decolonization:** Critique of Western dualism as tool of oppression
 
-## Archetypy Uniwersalne
+## Universal Archetypes
 
-### 1. Wielka Bogini (Great Goddess)
+### 1. The Great Goddess
 
-**Interpretacja historyczna:** Ewolucja od matriarchalnych kultur do patriarchalnej dominacji.
+**Historical interpretation:** Evolution from matriarchal cultures to patriarchal domination.
 
-**Symbole archeologiczne:**
-- **Statua z Suzy:** Ślady pierwotnego kultu kobiecego bóstwa
-- **Mitologie antyczne:** Przejście od aktywnych bogiń do pasywnych odbiorczyń
+**Archaeological symbols:**
+- **Statue from Susa:** Traces of original feminine deity worship
+- **Ancient mythologies:** Transition from active goddesses to passive recipients
 
-**Znaczenia współczesne:**
-- **Duchowość feministyczna:** Powrót do przedpatriarchalnych form religijności
-- **Psychologia głębi:** Archetyp Wielkiej Matki jako źródło siły kobiecej
+**Contemporary meanings:**
+- **Feminist spirituality:** Return to pre-patriarchal forms of religiosity
+- **Depth psychology:** Great Mother archetype as source of feminine power
 
-### 2. Archetyp Kochanki
+### 2. The Lover Archetype
 
-**Trzy typy inautentyczności:**
-- **Narcystka:** Ucieczka w samozachwyt i powierzchowność
-- **Zakochana:** Zatracenie się w obiekcie miłości
-- **Mistyczka:** Rozpłynięcie się w transcendencji duchowej
+**Three types of inauthenticity:**
+- **Narcissist:** Escape into self-admiration and superficiality
+- **Woman in love:** Self-loss in object of love
+- **Mystic:** Dissolution in spiritual transcendence
 
-**Interpretacje psychoanalityczne:**
-- **Mechanizmy obronne:** Sposoby unikania odpowiedzialności za własną wolność
-- **Złej wiary (mauvaise foi):** Zaprzeczanie własnej podmiotowości
+**Psychoanalytic interpretations:**
+- **Defense mechanisms:** Ways of avoiding responsibility for one's freedom
+- **Bad faith (mauvaise foi):** Denial of one's own subjectivity
 
-### 3. Archetyp Niezależnej Kobiety
+### 3. The Independent Woman Archetype
 
-**Symbol przyszłości:** Wizja kobiety świadomej swojej wolności i odpowiedzialności.
+**Symbol of future:** Vision of woman conscious of her freedom and responsibility.
 
-**Charakterystyki:**
-- **Autentyczność:** Świadome przyjęcie własnej wolności
-- **Transcendencja:** Zaangażowanie w projekty przekraczające immanencję
-- **Solidarność:** Uznanie wolności innych jako warunek własnej wolności
+**Characteristics:**
+- **Authenticity:** Conscious acceptance of one's freedom
+- **Transcendence:** Engagement in projects transcending immanence
+- **Solidarity:** Recognition of others' freedom as condition of one's own freedom
 
-## Interpretacje Kulturowe
+## Cultural Interpretations
 
-### 1. Recepcja w Kulturze Polskiej
+### 1. Reception in Polish Culture
 
-**Opóźniona recepcja:** Tłumaczenie pojawiło się w 2003 roku, 54 lata po oryginale.
+**Delayed reception:** Translation appeared in 2003, 54 years after the original.
 
-**Specyfika kulturowa:**
-- **Katolicyzm:** Napięcie między feminizmem a tradycyjnymi rolami kobiecymi
-- **Macierzyństwo sakralizowane:** Konflikt z wizją kobiety jako jednostki
-- **Tożsamość narodowa:** Kobieta-matka jako filar narodu
+**Cultural specificity:**
+- **Catholicism:** Tension between feminism and traditional feminine roles
+- **Sacralized motherhood:** Conflict with vision of woman as individual
+- **National identity:** Woman-mother as pillar of nation
 
-**Interpretacje współczesne:**
-- **Feminizm akademicki:** Przyjęcie jako tekstu kanonicznego
-- **Ruchy kobiece:** Inspiracja dla walki o prawa reprodukcyjne
-- **Konserwatywna krytyka:** Odrzucenie jako zagrożenia dla rodziny
+**Contemporary interpretations:**
+- **Academic feminism:** Acceptance as canonical text
+- **Women's movements:** Inspiration for reproductive rights struggle
+- **Conservative critique:** Rejection as threat to family
 
-### 2. Perspektywy Postkolonialne
+### 2. Postcolonial Perspectives
 
-**Ograniczenia eurocentryczne:** Krytyka za ignorowanie doświadczeń pozaeuropejskich.
+**Eurocentric limitations:** Critique for ignoring non-European experiences.
 
-**Nowe odczytania:**
-- **Wojna algierska:** De Beauvoir wobec kwestii kolonialnej
-- **Orientalizm:** Problematyczne przedstawienia kultur azjatyckich
-- **Intersektionalność:** Potrzeba uwzględnienia rasy i klasy
+**New readings:**
+- **Algerian War:** De Beauvoir on colonial question
+- **Orientalism:** Problematic representations of Asian cultures
+- **Intersectionality:** Need to include race and class
 
-### 3. Interpretacje LGBTQ+
+### 3. LGBTQ+ Interpretations
 
-**Prekursorski charakter:** Rozdzielenie płci biologicznej od kulturowej.
+**Precursory character:** Separation of biological sex from cultural gender.
 
-**Wpływ na teorię gender:**
-- **Performatywność:** Judith Butler o stawaniu się kobietą jako procesie
-- **Fluidność tożsamości:** Kwestionowanie binarnych kategorii
-- **Teoria queer:** Rozszerzenie na wszystkie nieheteronormatywne tożsamości
+**Influence on gender theory:**
+- **Performativity:** Judith Butler on becoming woman as process
+- **Identity fluidity:** Questioning binary categories
+- **Queer theory:** Extension to all non-heteronormative identities
 
-## Symbole Ukryte i Przeoczyane
+## Hidden and Overlooked Symbols
 
-### 1. Czasowość Kobieca
+### 1. Feminine Temporality
 
-**Symbol cykliczny:** Miesięczne rytmy versus liniowy czas męski.
+**Cyclical symbol:** Monthly rhythms versus linear masculine time.
 
-**Interpretacje:**
-- **Fenomenologiczna:** Różne doświadczenie temporalności
-- **Mistyczna:** Związek z kosmicznymi cyklami
-- **Społeczna:** Wykluczenie z historycznego czasu "wielkiej polityki"
+**Interpretations:**
+- **Phenomenological:** Different experience of temporality
+- **Mystical:** Connection with cosmic cycles
+- **Social:** Exclusion from historical time of "grand politics"
 
-### 2. Spojrzenie i Bycie Oglądaną
+### 2. Gaze and Being Looked At
 
-**Symbol voyeuryzmu:** Kobieta jako obiekt męskiego spojrzenia.
+**Symbol of voyeurism:** Woman as object of masculine gaze.
 
-**Warstwy znaczeniowe:**
-- **Laura Mulvey:** Męskie spojrzenie (male gaze) w kulturze
-- **Sartre'owska ontologia:** Spojrzenie Innego jako uprzedmiotowienie
-- **Fenomenologia:** Doświadczenie bycia-dla-innych
+**Layers of meaning:**
+- **Laura Mulvey:** Male gaze in culture
+- **Sartrean ontology:** Other's gaze as objectification
+- **Phenomenology:** Experience of being-for-others
 
-### 3. Przestrzeń Domowa vs. Publiczna
+### 3. Domestic vs. Public Space
 
-**Symbol topograficzny:** Podział sfer jako narzędzie dominacji.
+**Topographical symbol:** Division of spheres as tool of domination.
 
-**Interpretacje:**
-- **Architektura:** Dom jako więzienie i schronienie
-- **Urbanistyka:** Miasto jako przestrzeń męska
-- **Cyfrowa:** Nowe podziały w erze internetu
+**Interpretations:**
+- **Architecture:** Home as prison and shelter
+- **Urban planning:** City as masculine space
+- **Digital:** New divisions in internet era
 
-### 4. Język i Milczenie
+### 4. Language and Silence
 
-**Symbol komunikacyjny:** Kobiecy język jako język Innej.
+**Communicative symbol:** Feminine language as language of the Other.
 
-**Znaczenia:**
-- **Hélène Cixous:** Écriture féminine jako alternatywny język
-- **Julia Kristeva:** Semiotic vs symbolic w języku
-- **Poststrukturalizm:** Dekonstrukcja patriarchalnego logosu
+**Meanings:**
+- **Hélène Cixous:** Écriture féminine as alternative language
+- **Julia Kristeva:** Semiotic vs symbolic in language
+- **Poststructuralism:** Deconstruction of patriarchal logos
 
-## Psychologiczne Aspekty Uniwersalne
+## Universal Psychological Aspects
 
-### 1. Kompleks Kastacji
+### 1. Castration Complex
 
-**Krytyka Freuda:** De Beauvoir odrzuca biologiczny determinizm.
+**Freud's critique:** De Beauvoir rejects biological determinism.
 
-**Reinterpretacja:**
-- **Społeczna:** "Kastacja" jako społeczne ograniczenie możliwości
-- **Symboliczna:** Brak dostępu do symboli władzy i prestiżu
-- **Ekonomiczna:** Wykluczenie z produkcji wartości kulturowej
+**Reinterpretation:**
+- **Social:** "Castration" as social limitation of possibilities
+- **Symbolic:** Lack of access to symbols of power and prestige
+- **Economic:** Exclusion from production of cultural value
 
-### 2. Mechanizmy Identyfikacji
+### 2. Identification Mechanisms
 
-**Proces stawania się kobietą:**
-- **Modelowanie:** Naśladownictwo wzorców kobiecości
-- **Sankcjonowanie:** Kary za odstępstwa od normy
-- **Internalizacja:** Przyjęcie ograniczeń za własne
+**Process of becoming woman:**
+- **Modeling:** Imitation of femininity patterns
+- **Sanctioning:** Punishment for deviations from norm
+- **Internalization:** Accepting limitations as one's own
 
-### 3. Traumy Rozwojowe
+### 3. Developmental Traumas
 
-**Kluczowe momenty:**
-- **Pierwsza menstruacja:** Świadomość cielesności
-- **Inicjacja seksualna:** Doświadczenie asymetrii
-- **Macierzyństwo:** Konflikt między jednostkowością a rolą społeczną
+**Key moments:**
+- **First menstruation:** Awareness of corporeality
+- **Sexual initiation:** Experience of asymmetry
+- **Motherhood:** Conflict between individuality and social role
 
-## Współczesne Reinterpretacje
+## Contemporary Reinterpretations
 
-### 1. Feminizm Trzeciej Fali
+### 1. Third Wave Feminism
 
-**Krytyka esencjalizmu:** Kwestionowanie uniwersalności doświadczenia kobiecego.
+**Critique of essentialism:** Questioning universality of feminine experience.
 
-**Nowe perspektywy:**
-- **Różnorodność:** Uwzględnienie różnic między kobietami
-- **Seksualność:** Afirmacja jako źródła siły, nie słabości
-- **Technologia:** Nowe możliwości przekraczania ograniczeń
+**New perspectives:**
+- **Diversity:** Considering differences between women
+- **Sexuality:** Affirmation as source of strength, not weakness
+- **Technology:** New possibilities for transcending limitations
 
-### 2. Posthumanizm
+### 2. Posthumanism
 
-**Przekroczenie dualizmu:** Kwestionowanie podziałów natura-kultura, ciało-umysł.
+**Transcending dualism:** Questioning nature-culture, body-mind divisions.
 
-**Reinterpretacje:**
-- **Cyberfeminizm:** Technologia jako narzędzie wyzwolenia
-- **Transhumanizm:** Przekraczanie ograniczeń biologicznych
-- **Ekologia:** Nowa relacja z naturą
+**Reinterpretations:**
+- **Cyberfeminism:** Technology as tool of liberation
+- **Transhumanism:** Transcending biological limitations
+- **Ecology:** New relationship with nature
 
-### 3. Nowy Materializm
+### 3. New Materialism
 
-**Powrót do materii:** Rewaloryzacja cielesności i materialności.
+**Return to matter:** Revalorization of corporeality and materiality.
 
-**Znaczenia:**
-- **Karen Barad:** Sprawczość materii (agency of matter)
-- **Donna Haraway:** Myślenie z naturą, nie przeciw niej
-- **Jane Bennett:** Żywotność rzeczy (vitality of matter)
+**Meanings:**
+- **Karen Barad:** Agency of matter
+- **Donna Haraway:** Thinking with nature, not against it
+- **Jane Bennett:** Vitality of matter
 
-## Ewolucja Interpretacji
+## Evolution of Interpretations
 
-### Lata 50-60: Odrzucenie i Marginalizacja
+### 1950s-60s: Rejection and Marginalization
 
-**Reakcje konserwatywne:**
-- **Krytyka religijna:** Zagrożenie dla rodziny chrześcijańskiej
-- **Psychoanalityczne:** Odrzucenie jako "kompleks" autorki
-- **Akademickie:** Ignorowanie jako "publicystyki"
+**Conservative reactions:**
+- **Religious critique:** Threat to Christian family
+- **Psychoanalytic:** Rejection as author's "complex"
+- **Academic:** Ignored as "journalism"
 
-### Lata 70-80: Kanonizacja Feministyczna
+### 1970s-80s: Feminist Canonization
 
-**Druga fala feminizmu:**
-- **Manifest:** Teksty kanonicznej dla ruchu kobiecego
-- **Uniwersytety:** Wprowadzenie do programów women's studies
-- **Aktywizm:** Inspiracja dla walk o równouprawnienie
+**Second wave feminism:**
+- **Manifesto:** Canonical text for women's movement
+- **Universities:** Introduction to women's studies programs
+- **Activism:** Inspiration for equality struggles
 
-### Lata 90-2000: Krytyczna Rewizja
+### 1990s-2000s: Critical Revision
 
-**Postmodernistyczna dekonstrukcja:**
-- **Uniwersalizm:** Krytyka za eurocentryzm i klasowość
-- **Esencjalizm:** Kwestionowanie kategorii "kobieta"
-- **Heteronormatywność:** Ignorowanie różnorodności seksualnej
+**Postmodernist deconstruction:**
+- **Universalism:** Critique for Eurocentrism and class bias
+- **Essentialism:** Questioning "woman" category
+- **Heteronormativity:** Ignoring sexual diversity
 
-### 2000-obecnie: Kompleksowe Przewartościowanie
+### 2000s-Present: Complex Revaluation
 
-**Intersektionalna synteza:**
-- **Kontekstualność:** Uwzględnienie różnorodności doświadczeń
-- **Historyczność:** Analiza ewolucji myśli de Beauvoir
-- **Interdyscyplinarność:** Połączenie filozofii, socjologii, psychologii
+**Intersectional synthesis:**
+- **Contextuality:** Considering diversity of experiences
+- **Historicity:** Analysis of de Beauvoir's thought evolution
+- **Interdisciplinarity:** Combining philosophy, sociology, psychology
 
-## Połączenia z Innymi Dziełami Kultury
+## Connections with Other Cultural Works
 
-### 1. Literatura
+### 1. Literature
 
-**Virginia Woolf:** "Własny pokój" - paralelne analizy wykluczenia.
-**Doris Lessing:** "Złoty notes" - eksploracja kobiecego doświadczenia.
-**Margaret Atwood:** "Opowieść podręcznej" - dystopijne rozwinięcie tez de Beauvoir.
+**Virginia Woolf:** "A Room of One's Own" - parallel analyses of exclusion.
+**Doris Lessing:** "The Golden Notebook" - exploration of feminine experience.
+**Margaret Atwood:** "The Handmaid's Tale" - dystopian development of de Beauvoir's theses.
 
-### 2. Film i Sztuka
+### 2. Film and Art
 
-**Laura Mulvey:** "Przyjemność wizualna i kino narracyjne" - wpływ na teorię filmu.
-**Cindy Sherman:** Fotografie dekonstruujące stereotypy kobiecości.
-**Marina Abramović:** Performance art eksplorujący granice ciała kobiecego.
+**Laura Mulvey:** "Visual Pleasure and Narrative Cinema" - influence on film theory.
+**Cindy Sherman:** Photographs deconstructing femininity stereotypes.
+**Marina Abramović:** Performance art exploring boundaries of feminine body.
 
-### 3. Filozofia
+### 3. Philosophy
 
-**Jean-Paul Sartre:** "Byt i nicość" - filozoficzne podstawy.
-**Michel Foucault:** "Historia seksualności" - analiza mechanizmów władzy.
-**Judith Butler:** "Uwikłania płci" - rozwinięcie teorii performatywności.
+**Jean-Paul Sartre:** "Being and Nothingness" - philosophical foundations.
+**Michel Foucault:** "History of Sexuality" - analysis of power mechanisms.
+**Judith Butler:** "Gender Trouble" - development of performativity theory.
 
-### 4. Nauki Społeczne
+### 4. Social Sciences
 
-**Betty Friedan:** "Mistyka kobiecości" - aplikacja w kontekście amerykańskim.
-**Germaine Greer:** "Eunuch kobiecy" - radykalne rozwinięcie tez.
-**Bell hooks:** "Wszystko o miłości" - intersektionale rozszerzenie.
+**Betty Friedan:** "The Feminine Mystique" - application in American context.
+**Germaine Greer:** "The Female Eunuch" - radical development of theses.
+**Bell hooks:** "All About Love" - intersectional extension.
 
-## Symbolika dla Współczesnych Czytelników
+## Symbolism for Contemporary Readers
 
-### 1. Media Społecznościowe
+### 1. Social Media
 
-**Nowe formy spojrzenia:** Instagram, TikTok jako przestrzenie kontroli obrazu.
-**Influencerki:** Ambiwalencja między sprawczością a uprzedmiotowieniem.
-**Body positive:** Ruch afirmacji różnorodności ciał.
+**New forms of gaze:** Instagram, TikTok as spaces of image control.
+**Influencers:** Ambivalence between agency and objectification.
+**Body positive:** Movement affirming body diversity.
 
-### 2. Technologie Reprodukcyjne
+### 2. Reproductive Technologies
 
-**In vitro:** Przekraczanie "naturalnych" ograniczeń macierzyństwa.
-**Surogatki:** Nowe formy eksploatacji kobiecego ciała.
-**Genetyka:** Możliwości manipulacji płciowej tożsamości.
+**In vitro:** Transcending "natural" limitations of motherhood.
+**Surrogacy:** New forms of feminine body exploitation.
+**Genetics:** Possibilities of gender identity manipulation.
 
-### 3. Miejsca Pracy
+### 3. Workplaces
 
-**Glass ceiling:** Niewidzialne bariery w karierze.
-**#MeToo:** Ujawnienie mechanizmów seksualnej dominacji.
-**Work-life balance:** Renegocjacja relacji praca-rodzina.
+**Glass ceiling:** Invisible barriers in career advancement.
+**#MeToo:** Revealing mechanisms of sexual domination.
+**Work-life balance:** Renegotiating work-family relations.
 
-### 4. Globalizacja
+### 4. Globalization
 
-**Trafficking:** Międzynarodowy handel kobietami.
-**Migracja:** Kobiety jako siła robocza w gospodarce globalnej.
-**Fundamentalizmy:** Reakcje przeciw emancypacji kobiet.
+**Trafficking:** International trade in women.
+**Migration:** Women as labor force in global economy.
+**Fundamentalisms:** Reactions against women's emancipation.
 
-## Interpretacje Wielopoziomowe
+## Multi-level Interpretations
 
-### Poziom Osobisty
+### Personal Level
 
-**Autobiograficzny:** Własne doświadczenia de Beauvoir jako źródło analiz.
-**Terapeutyczny:** Tekst jako narzędzie samorozumienia dla czytelniczek.
-**Duchowy:** Poszukiwanie transcendencji poza tradycyjnymi rolami.
+**Autobiographical:** De Beauvoir's own experiences as source of analyses.
+**Therapeutic:** Text as tool of self-understanding for female readers.
+**Spiritual:** Search for transcendence beyond traditional roles.
 
-### Poziom Społeczny
+### Social Level
 
-**Socjologiczny:** Analiza struktur patriarchalnych.
-**Polityczny:** Program wyzwolenia kobiet.
-**Ekonomiczny:** Krytyka kapitalistycznej eksploatacji.
+**Sociological:** Analysis of patriarchal structures.
+**Political:** Program for women's liberation.
+**Economic:** Critique of capitalist exploitation.
 
-### Poziom Kulturowy
+### Cultural Level
 
-**Antropologiczny:** Porównanie różnych kultur i ich traktowania kobiet.
-**Historyczny:** Ewolucja statusu kobiety w cywilizacji zachodniej.
-**Komparatywny:** Uniwersalność vs. partykularyzm doświadczenia kobiecego.
+**Anthropological:** Comparison of different cultures and their treatment of women.
+**Historical:** Evolution of women's status in Western civilization.
+**Comparative:** Universality vs. particularity of feminine experience.
 
-### Poziom Metafizyczny
+### Metaphysical Level
 
-**Ontologiczny:** Pytanie o naturę bytu kobiecego.
-**Egzystencjalny:** Kondycja ludzka w perspektywie płciowej.
-**Etyczny:** Imperatywy działania dla wyzwolenia.
+**Ontological:** Question about nature of feminine being.
+**Existential:** Human condition in gender perspective.
+**Ethical:** Action imperatives for liberation.
 
-## Wnioski
+## Conclusions
 
-"Druga płeć" Simone de Beauvoir pozostaje jednym z najbogatszych symbolicznie dzieł XX wieku. Jego wielowarstwowość interpretacyjna wynika z połączenia rygorystycznej analizy filozoficznej z głęboką intuicją psychologiczną i społeczną. Współczesne odczytania pokazują, że dzieło to zachowuje swoją aktualność, jednocześnie poddając się krytycznej rewizji i reinterpretacji.
+"The Second Sex" by Simone de Beauvoir remains one of the most symbolically rich works of the 20th century. Its interpretative multi-layeredness results from combining rigorous philosophical analysis with deep psychological and social intuition. Contemporary readings show that this work maintains its relevance while undergoing critical revision and reinterpretation.
 
-Symbole zawarte w tekście - od centralnej koncepcji Kobiety jako Innej, przez archetypy mitologiczne, po subtelne znaczenia związane z czasowością, przestrzenią i cielesnością - tworzą kompleksową mapę kobiecego doświadczenia w kulturze patriarchalnej. Jednocześnie otwierają przestrzeń dla myślenia o możliwościach transcendencji i wyzwolenia.
+The symbols contained in the text - from the central concept of Woman as Other, through mythological archetypes, to subtle meanings related to temporality, space, and corporeality - create a complex map of feminine experience in patriarchal culture. Simultaneously, they open space for thinking about possibilities of transcendence and liberation.
 
-Ewolucja interpretacji dzieła odzwierciedla zmiany w samej teorii feministycznej - od uniwersalistycznych ambicji lat 70. poprzez postmodernistyczną dekonstrukcję lat 90. do intersektorialnej kompleksowości współczesności. Ta dynamika interpretacyjna świadczy o żywotności i ciągłej produktywności myśli de Beauvoir.
+The evolution of the work's interpretation reflects changes in feminist theory itself - from universalist ambitions of the 1970s through postmodernist deconstruction of the 1990s to intersectional complexity of contemporaneity. This interpretative dynamism testifies to the vitality and continuing productivity of de Beauvoir's thought.
 
-Dla współczesnych czytelników "Druga płeć" oferuje nie tylko historyczną analizę opresji kobiet, ale również narzędzia do rozumienia współczesnych form wykluczenia i dominacji. W erze mediów społecznościowych, nowych technologii i globalnych przemian, podstawowe pytania stawiane przez de Beauvoir - o naturę wolności, autentyczności i możliwości samotranscendencji - pozostają równie aktualne co siedemdziesiąt lat temu.
+For contemporary readers, "The Second Sex" offers not only historical analysis of women's oppression but also tools for understanding contemporary forms of exclusion and domination. In the era of social media, new technologies, and global transformations, the fundamental questions posed by de Beauvoir - about the nature of freedom, authenticity, and possibilities of self-transcendence - remain as relevant as they were seventy years ago.

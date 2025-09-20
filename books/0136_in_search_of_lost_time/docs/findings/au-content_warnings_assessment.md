@@ -1,80 +1,80 @@
-# Ocena zgodności z platform społecznościowych - "W poszukiwaniu straconego czasu"
+# Social Media Platform Compliance Assessment - "In Search of Lost Time"
 
-**Książka**: In Search of Lost Time / W poszukiwaniu straconego czasu  
-**Autor**: Marcel Proust  
-**Rok**: 1913-1927  
-**Data oceny**: 2025-09-03  
-**Status**: KOMPLETNA ANALIZA BEZPIECZEŃSTWA TREŚCI
+**Book**: In Search of Lost Time / W poszukiwaniu straconego czasu
+**Author**: Marcel Proust
+**Year**: 1913-1927
+**Assessment Date**: 2025-09-20
+**Status**: COMPLETE CONTENT SAFETY ANALYSIS
 
 ---
 
-## EXECUTIVE SUMMARY - KLUCZOWE USTALENIA
+## EXECUTIVE SUMMARY - KEY FINDINGS
 
-### Ogólna klasyfikacja wiekowa: **16+ Z OSTRZEŻENIAMI TREŚCI**
+### Overall Age Classification: **16+ WITH CONTENT WARNINGS**
 
 ### Risk Level per Platform:
-- **Facebook/Instagram**: 🔴 **WYSOKIE RYZYKO** (liberalizacja hate speech policies 2025)
-- **YouTube**: 🟡 **ŚREDNIE RYZYKO** (wymaga human narration + educational framing)
-- **TikTok**: 🟡 **ŚREDNIE RYZYKO** (tylko content 1+ min, educational approach)
-- **Spotify**: 🟢 **NISKIE RYZYKO** (creator-friendly, educational content)
-- **Kick**: 🟢 **NISKIE RYZYKO** (najwolniejsze zasady content policy)
+- **Facebook/Instagram**: 🔴 **HIGH RISK** (liberalized hate speech policies 2025)
+- **YouTube**: 🟡 **MODERATE RISK** (requires human narration + educational framing)
+- **TikTok**: 🟡 **MODERATE RISK** (only 1+ min content, educational approach)
+- **Spotify**: 🟢 **LOW RISK** (creator-friendly, educational content)
+- **Kick**: 🟢 **LOW RISK** (most permissive content policy rules)
 
-### NAJWIĘKSZE ZAGROŻENIA:
-1. **Męska prostytucja i burdelowe sceny** - problematyczne na wszystkich platformach
-2. **Homoseksualność Belle Époque** - ryzykowne w kontekście nowych zasad Meta 2025
-3. **Antysemityzm historyczny** - możliwe triggery w Era Dreyfusa content
-4. **Uzależnienia i narkotyki** - szczegóły o uzależnieniu Prousta
-5. **Voyeurism i sexual obsession** - problematyczne relacje Swann-Odette
+### MAJOR CONTENT RISKS:
+1. **Male prostitution and brothel scenes** - problematic on all platforms
+2. **Belle Époque homosexuality** - risky under new Meta 2025 policies
+3. **Historical antisemitism** - potential triggers in Dreyfus Era content
+4. **Addiction and drugs** - details about Proust's substance abuse
+5. **Voyeurism and sexual obsession** - problematic Swann-Odette dynamics
 
 ---
 
-## ANALIZA SZCZEGÓŁOWA PROBLEMOWYCH TREŚCI
+## DETAILED ANALYSIS OF PROBLEMATIC CONTENT
 
-### 🚨 KATEGORIA 1: TREŚCI SEKSUALNE (18+ CONTENT)
+### 🚨 CATEGORY 1: SEXUAL CONTENT (18+ CONTENT)
 
-#### Problematyczne elementy z researchu:
-1. **Męskie burdele i prostytucja** (au-research_dark_drama.md):
-   - Hotel Marigny: raport policyjny 1918, Proust przyłapany w męskim burdelu
-   - Albert Le Cuziat: financowanie burdelu przez Prousta
-   - Voyeurism: organizowane sesje szpiegowania klientów
-   
-2. **Obsesyjna seksualność** (au-research_symbols_meanings.md):
-   - Swann-Odette dynamic jako "toxic relationship blueprint"
-   - Sexual surveillance i jealousy patterns
-   - "Autotortura przez wyobraźnię" - unhealthy obsessions
+#### Problematic elements from research:
+1. **Male brothels and prostitution** (au-research_dark_drama.md):
+   - Hotel Marigny: 1918 police report, Proust caught in male brothel
+   - Albert Le Cuziat: Proust's financing of brothel operations
+   - Voyeurism: organized client surveillance sessions
+
+2. **Obsessive sexuality** (au-research_symbols_meanings.md):
+   - Swann-Odette dynamic as "toxic relationship blueprint"
+   - Sexual surveillance and jealousy patterns
+   - "Self-torture through imagination" - unhealthy obsessions
 
 #### Platform Assessment:
 - **Meta (FB/IG)**: ❌ **BAN PROBABLE** - sexual services, prostitution content
-- **YouTube**: ⚠️ **DEMONETIZATION RISK** - educational framing wymagany
+- **YouTube**: ⚠️ **DEMONETIZATION RISK** - educational framing required
 - **TikTok**: ❌ **COMMUNITY VIOLATIONS** - sexual content policy
 - **Spotify**: ✅ **ACCEPTABLE** - educational, literary context
 - **Kick**: ✅ **ACCEPTABLE** - most permissive policies
 
-#### Content Warnings wymagane:
+#### Required Content Warnings:
 - 🔞 "Mature content: historical references to prostitution"
 - 🔞 "Sexual themes and adult relationships"
 - 🔞 "Content unsuitable for minors"
 
 ---
 
-### 🏳️‍🌈 KATEGORIA 2: TREŚCI LGBTQ+ (NOWE REGUŁY META 2025)
+### 🏳️‍🌈 CATEGORY 2: LGBTQ+ CONTENT (NEW META 2025 RULES)
 
-#### Problematyczne elementy:
-1. **Homoseksualizm jako "choroba"** (au-research_symbols_meanings.md):
-   - "Rasa inwertytów" - Proust's language problematyczny
-   - Baron de Charlus jako "tragiczna figura" 
-   - Gide vs. Proust debate o "depresyjnych aspektach inwersji"
+#### Problematic elements:
+1. **Homosexuality as "disease"** (au-research_symbols_meanings.md):
+   - "Race of inverts" - Proust's language problematic
+   - Baron de Charlus as "tragic figure"
+   - Gide vs. Proust debate about "depressive aspects of inversion"
 
-2. **Ukryte tożsamości seksualne** (au-research_dark_drama.md):
-   - Proust nigdy nie wyszedł z szafy
-   - Transpozycja homoseksualnych doświadczeń na postacie kobiece
+2. **Hidden sexual identities** (au-research_dark_drama.md):
+   - Proust never came out of the closet
+   - Transposition of homosexual experiences onto female characters
 
-#### META POLICY CHANGES 2025 - KRYTYCZNE:
-✅ **DOZWOLONE od stycznia 2025**:
-- Określanie osób transpłciowych jako "it"  
-- Zarzuty o "chorobie psychicznej" based on sexual orientation
+#### META POLICY CHANGES 2025 - CRITICAL:
+✅ **ALLOWED since January 2025**:
+- Referring to transgender people as "it"
+- Allegations of "mental illness" based on sexual orientation
 
-❌ **NASZE RYZYKO**: Historical context może być interpretowany jako hate speech
+❌ **OUR RISK**: Historical context may be interpreted as hate speech
 
 #### Platform Assessment:
 - **Meta (FB/IG)**: 🔴 **WYSOKIE RYZYKO** - unpredictable moderation, new ToS

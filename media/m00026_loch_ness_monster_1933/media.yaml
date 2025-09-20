@@ -1,0 +1,15 @@
+media_info:
+  title: Loch Ness Monster First Sighting - 1933
+  author: Historical Documentation
+  year: 1933
+  genre: Cryptozoology Documentary
+  description: The first documented sighting of a mysterious creature described as
+    "long and thin with a snakelike head and green in color" in Scottish loch
+  target_audience: General public, students, cryptozoology enthusiasts, Scottish culture fans
+  duration: ~3 minutes
+  objective: Recreate the original Nessie sighting that launched decades of searches
+    and investigations into Scotland's most famous lake monster
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

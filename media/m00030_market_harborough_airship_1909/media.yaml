@@ -1,0 +1,15 @@
+media_info:
+  title: Market Harborough Mystery Airship - May 1909
+  author: Historical Documentation
+  year: 1909
+  genre: Early Aviation Mystery Documentary
+  description: A thirty-meter long thin scareship of unknown origin passed over the
+    town late at night during the Great Airship Wave of 1909
+  target_audience: General public, students, early aviation enthusiasts, UFO researchers
+  duration: ~3 minutes
+  objective: Explore the pre-Wright Brothers mystery aircraft that appeared across
+    Britain before powered flight was common
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

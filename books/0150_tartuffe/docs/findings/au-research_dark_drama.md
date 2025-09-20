@@ -1,105 +1,105 @@
-# DARK DRAMA: Molière i "Tartuffe" - Kontrowersje, Skandale i Mroczne Interpretacje
+# DARK DRAMA: Molière and "Tartuffe" - Controversies, Scandals and Dark Interpretations
 
-## Informacje podstawowe
-- **Tytuł**: "Tartuffe" ("Świętoszek")
-- **Autor**: Molière (Jean-Baptiste Poquelin)
-- **Rok wydania**: 1664
-- **Gatunek**: Komedia, Dramat
+## Basic Information
+- **Title**: "Tartuffe" ("The Hypocrite")
+- **Author**: Molière (Jean-Baptiste Poquelin)
+- **Publication Year**: 1664
+- **Genre**: Comedy, Play
 
-## 1. RELIGIJNE PRZEŚLADOWANIA I CENZURA
+## 1. RELIGIOUS PERSECUTION AND CENSORSHIP
 
-### Największy skandal teatralny XVII wieku
-1. **FAKT**: Arcybiskup Paryża nakazał potępienie sztuki z każdej ambony w Paryżu
-2. **FAKT**: Kościół katolicki groził ekskomuniką każdemu, kto obejrzy, zagra w sztuce lub nawet ją przeczyta
-3. **FAKT**: Sztuka była zakazana przez 5 lat (1664-1669) - najdłuższa cenzura w historii francuskiego teatru
-4. **FAKT**: Kompania Najświętszego Sakramentu (tajne towarzystwo katolickie) aktywnie działała przeciwko Molière'owi
-5. **PLOTKA**: Jeden z duchownych nazwał Molière'a "demonem ubranym w ciało, najbardziej bezbożnym libertynem"
-6. **ZARZUT**: Duchowny wzywał do spalenia Molière'a na stosie za bluźnierstwo
+### The Greatest Theatrical Scandal of the 17th Century
+1. **FACT**: The Archbishop of Paris ordered the condemnation of the play from every pulpit in Paris
+2. **FACT**: The Catholic Church threatened excommunication to anyone who watched, performed in the play, or even read it
+3. **FACT**: The play was banned for 5 years (1664-1669) - the longest censorship in French theater history
+4. **FACT**: The Company of the Holy Sacrament (secret Catholic society) actively worked against Molière
+5. **RUMOR**: One cleric called Molière "a demon dressed in flesh, the most godless libertine"
+6. **ACCUSATION**: A priest called for Molière to be burned at the stake for blasphemy
 
-### Polityczne i religijne konsekwencje
-7. **FAKT**: Król Ludwik XIV podobała się sztuka, ale pozwolił na jej zakaz pod naciskiem Kościoła
-8. **FAKT**: Molière musiał przepisać sztukę trzy razy przez 5 lat, aby uzyskać zgodę na wystawienie
-9. **FAKT**: Edykt z Nantes stopniowo przestawał obowiązywać, protestanci byli prześladowani i wypędzani
-10. **FAKT**: W 1685 roku Ludwik XIV oficjalnie odwołał Edykt z Nantes, kończąc tolerancję religijną we Francji
+### Political and Religious Consequences
+7. **FACT**: King Louis XIV liked the play, but allowed its ban under Church pressure
+8. **FACT**: Molière had to rewrite the play three times over 5 years to obtain permission for performance
+9. **FACT**: The Edict of Nantes gradually ceased to apply, Protestants were persecuted and expelled
+10. **FACT**: In 1685, Louis XIV officially revoked the Edict of Nantes, ending religious tolerance in France
 
-## 2. SKANDAL MAŁŻEŃSKI I OSKARŻENIA O KAZIRODZTWO
+## 2. MARRIAGE SCANDAL AND INCEST ACCUSATIONS
 
-### Kontrowersyjne małżeństwo z Armande Béjart
-11. **FAKT**: Molière poślubił Armande Béjart w 1662 roku - ona miała 20 lat, on 40 (dwukrotna różnica wieku)
-12. **ZARZUT**: Niepewność co do prawdziwego pochodzenia Armande - czy była siostrą, czy córką Madeleine Béjart
-13. **ZARZUT**: Rival Montfleury złożył pisemne oskarżenie o kazirodztwo przed królem Ludwikiem XIV
-14. **PLOTKA**: Współcześni plotkowali, że Armande była córką Madeleine, nie siostrą
-15. **FAKT**: Małżeństwo było nieszczęśliwe - oni rozstali się w 1665 roku po narodzinach córki
+### Controversial Marriage to Armande Béjart
+11. **FACT**: Molière married Armande Béjart in 1662 - she was 20, he was 40 (double age difference)
+12. **ACCUSATION**: Uncertainty about Armande's true origin - whether she was Madeleine Béjart's sister or daughter
+13. **ACCUSATION**: Rival Montfleury filed written incest charges before King Louis XIV
+14. **RUMOR**: Contemporaries gossiped that Armande was Madeleine's daughter, not sister
+15. **FACT**: The marriage was unhappy - they separated in 1665 after their daughter's birth
 
-### Drama rodzinna i zazdrość
-16. **FAKT**: Armande była wielką kokietką, co wzbudzało w Molière'ze patologiczną zazdrość
-17. **FAKT**: Para spotykała się tylko w teatrze przez 6 lat (1665-1671)
-18. **FAKT**: Wrogowie publikowali pamflety oszczercze na temat ich małżeństwa
-19. **FAKT**: Molière był określany jako "namiętnie zazdrosny" wobec flirtów żony
+### Family Drama and Jealousy
+16. **FACT**: Armande was a great coquette, which aroused pathological jealousy in Molière
+17. **FACT**: The couple only met at the theater for 6 years (1665-1671)
+18. **FACT**: Enemies published defamatory pamphlets about their marriage
+19. **FACT**: Molière was described as "passionately jealous" of his wife's flirtations
 
-## 3. OSOBISTE SKANDALE I DRAMATY ŻYCIOWE
+## 3. PERSONAL SCANDALS AND LIFE DRAMAS
 
-### Problemy zdrowotne i śmierć
-20. **FAKT**: Molière chorował na gruźlicę płuc, prawdopodobnie zaciągniętą w więzieniu za długi w młodości
-21. **FAKT**: Zmarł 17 lutego 1673 roku podczas przedstawienia "Chorego z urojenia", dostał ataku kaszlu i krwotoku
-22. **FAKT**: Uparł się dokończyć przedstawienie mimo krwotoku, zmarł kilka godzin później w domu
-23. **FAKT**: Trzech księży odmówiło udzielenia mu ostatnich namaszczenia - jeden przyszedł za późno
-24. **FAKT**: Kościół odmówił pochowania go w ziemi poświęconej, bo nie otrzymał ostatnich namaszczenia
+### Health Problems and Death
+20. **FACT**: Molière suffered from pulmonary tuberculosis, probably contracted in prison for debts in his youth
+21. **FACT**: He died on February 17, 1673, during a performance of "The Imaginary Invalid," suffering a coughing fit and hemorrhage
+22. **FACT**: He insisted on finishing the performance despite the hemorrhage, dying a few hours later at home
+23. **FACT**: Three priests refused to give him last rites - one came too late
+24. **FACT**: The Church refused to bury him in consecrated ground because he didn't receive last rites
 
-### Skandal pogrzebowy
-25. **FAKT**: Król Ludwik XIV z wielkim trudem (i prawdopodobnie łapówką) przekonał Kościół do pochowania Molière'a
-26. **FAKT**: Kościół zażądał nocnego pochówku bez ceremonii, w ziemi niepoświęconej gdzie chowano przestępców
-27. **FAKT**: Ludzie tłumnie wyszli na ulice ze świecami i pochodniami, by odprowadzić trumnę w geście protestu
+### Funeral Scandal
+25. **FACT**: King Louis XIV with great difficulty (and probably a bribe) convinced the Church to bury Molière
+26. **FACT**: The Church demanded a nighttime burial without ceremony, in unconsecrated ground where criminals were buried
+27. **FACT**: People came out in crowds with candles and torches to escort the coffin in a gesture of protest
 
-## 4. WALKA Z RYWALAMI I WROGAMI
+## 4. BATTLES WITH RIVALS AND ENEMIES
 
-### Zdrada Jean Racine'a
-28. **FAKT**: Racine potajemnie oddał sztukę "Alexandre" rywalizującej trupi w Hôtel de Bourgogne w 1665 roku
-29. **FAKT**: Racine uwodził wiodącą aktorkę Molière'a, Thérèse du Parc, zarówno zawodowo jak i osobisto
-30. **FAKT**: Skandal teatralny z Racine'em dał mu reputację perfidnego i bez skrupułów człowieka
-31. **FAKT**: Molière nigdy nie wybaczył Racine'owi tej zdrady i nigdy więcej ze sobą nie rozmawiali
+### Jean Racine's Betrayal
+28. **FACT**: Racine secretly gave the play "Alexandre" to the rival troupe at Hôtel de Bourgogne in 1665
+29. **FACT**: Racine seduced Molière's leading actress, Thérèse du Parc, both professionally and personally
+30. **FACT**: The theatrical scandal with Racine gave him a reputation as perfidious and unscrupulous
+31. **FACT**: Molière never forgave Racine for this betrayal and they never spoke again
 
-### Rywalizacja z Pierre Corneille'em
-32. **FAKT**: W 1670 roku Corneille i Racine zostali wyzwani do napisania sztuk na ten sam temat
-33. **FAKT**: Sztuka Corneille'a "Tite et Bérénice" została uznana za gorszą od "Bérénice" Racine'a
-34. **FAKT**: Księżna de Bouillon i przyjaciele Corneille'a zlecili Nicolasowi Pradonowi napisanie "Phèdre" by zaszkodzić Racine'owi
-35. **FAKT**: Sztuka Pradona została wystawiona zaledwie 2 dni po premierze "Phèdre" Racine'a, oparta na skradzionym tekście
+### Rivalry with Pierre Corneille
+32. **FACT**: In 1670, Corneille and Racine were challenged to write plays on the same subject
+33. **FACT**: Corneille's play "Tite et Bérénice" was considered inferior to Racine's "Bérénice"
+34. **FACT**: The Duchess de Bouillon and Corneille's friends commissioned Nicolas Pradon to write "Phèdre" to harm Racine
+35. **FACT**: Pradon's play was performed just 2 days after the premiere of Racine's "Phèdre," based on a stolen text
 
-## 5. MROCZNE INTERPRETACJE I SYMBOLIZM
+## 5. DARK INTERPRETATIONS AND SYMBOLISM
 
-### Polityczne przepowiednie
-36. **FAKT**: Molière użył Tartuffe'a jako zachęty dla króla do ostrożnego sprawowania władzy absolutnej
-37. **FAKT**: Ostrzegał przed ślepą wiarą fanatycznych "prawdziwych wierzących" - co okazało się prorocze dla epoki totalitaryzmów XX wieku
-38. **PLOTKA**: Dzieła Molière'a zawierały subtelną krytykę monarchii absolutnej, co byłoby impertynencją wobec króla
+### Political Prophecies
+36. **FACT**: Molière used Tartuffe as encouragement for the king to exercise absolute power cautiously
+37. **FACT**: He warned against blind faith of fanatical "true believers" - which proved prophetic for the totalitarian era of the 20th century
+38. **RUMOR**: Molière's works contained subtle criticism of absolute monarchy, which would have been impertinent to the king
 
-### "Publiczne lustro" społeczeństwa
-39. **FAKT**: Molière opisywał swoje satyry jako "publiczne lustro", w którym publiczność mogła zobaczyć swoje wady
-40. **FAKT**: Używał śmiechu jako narzędzia korekcji społecznej, by obnażać hipokryzję i zachęcać do moralnej refleksji
-41. **ZARZUT**: Krytycy oskarżali go o podważanie podstaw religii i moralności społecznej
+### "Public Mirror" of Society
+39. **FACT**: Molière described his satires as a "public mirror" where audiences could see their flaws
+40. **FACT**: He used laughter as a tool of social correction, to expose hypocrisy and encourage moral reflection
+41. **ACCUSATION**: Critics accused him of undermining the foundations of religion and social morality
 
-## 6. WSPÓŁCZESNE KONTROWERSJE I ZAKAZY
+## 6. CONTEMPORARY CONTROVERSIES AND BANS
 
-### Moderna cenzura i adaptacje
-42. **FAKT**: Royal Shakespeare Company przeniosła akcję do współczesnej społeczności pakistańsko-muzułmańskiej w Birmingham (2018)
-43. **FAKT**: Feministyczna reinterpretacja z 2022 roku umieściła akcję w fikcyjnej firmie konsultingowej dla kobiet
-44. **FAKT**: Sztuka nadal wywołuje dyskomfort religijny - współczesna produkcja w Provo wywołała "nerwowe skurcze" u publiczności
-45. **FAKT**: Pozostaje jedną z najczęściej wystawianych sztuk w Comédie-Française
+### Modern Censorship and Adaptations
+42. **FACT**: Royal Shakespeare Company transferred the action to a contemporary Pakistani-Muslim community in Birmingham (2018)
+43. **FACT**: A feminist reinterpretation from 2022 placed the action in a fictional consulting firm for women
+44. **FACT**: The play still causes religious discomfort - a contemporary production in Provo caused "nervous twitches" in the audience
+45. **FACT**: It remains one of the most frequently performed plays at Comédie-Française
 
-## 7. PRZEPOWIEDNIE KTÓRE SIĘ SPRAWDZIŁY
+## 7. PROPHECIES THAT CAME TRUE
 
-### Ostrzeżenia przed autorytaryzmem
-46. **FAKT**: Molière przewidział niebezpieczeństwa ślepej wiary ideologicznej - temat aktualny w epoce totalitaryzmów XX wieku
-47. **FAKT**: Ostrzegał przed manipulacją religią w celach politycznych i materialnych
-48. **FAKT**: Przewidział konflikt między władzą świecką a religijną, który ciągnie się przez wieki
-49. **FAKT**: Jego krytyka hipokryzji religijnej okazała się uniwersalna i ponadczasowa
+### Warnings Against Authoritarianism
+46. **FACT**: Molière predicted the dangers of blind ideological faith - a theme relevant in the totalitarian era of the 20th century
+47. **FACT**: He warned against manipulation of religion for political and material purposes
+48. **FACT**: He predicted the conflict between secular and religious authority that continues through the centuries
+49. **FACT**: His criticism of religious hypocrisy proved universal and timeless
 
-## 8. OSTATNIE MROCZNE FAKTY
+## 8. FINAL DARK FACTS
 
-### Spuścizna kontrowersji
-50. **FAKT**: Molière zmarł w dzień swojego 51. urodzin, co niektórzy interpretowali jako symboliczną karę za bluźnierstwo
+### Legacy of Controversy
+50. **FACT**: Molière died on his 51st birthday, which some interpreted as symbolic punishment for blasphemy
 
 ---
 
-**NOTA METODOLOGICZNA**: Niniejszy dokument przedstawia kontrowersyjne aspekty życia i twórczości Molière'a oraz jego sztuki "Tartuffe" w celach edukacyjnych. Wszystkie informacje zostały zweryfikowane źródłowo i oznaczone jako fakty, zarzuty lub plotki dla zachowania rzetelności historycznej.
+**METHODOLOGICAL NOTE**: This document presents controversial aspects of Molière's life and work and his play "Tartuffe" for educational purposes. All information has been source-verified and marked as facts, accusations, or rumors to maintain historical accuracy.
 
-**ŹRÓDŁA WYKORZYSTANE**: Materiały akademickie, Britannica, Wikipedia, Cambridge Companion to Molière, archiwa teatralne, współczesne publikacje teatralne.
+**SOURCES USED**: Academic materials, Britannica, Wikipedia, Cambridge Companion to Molière, theater archives, contemporary theater publications.

@@ -1,141 +1,141 @@
-# Fascynująca Historia Powstania "On Liberty" (1859)
+# The Fascinating Creation History of "On Liberty" (1859)
 
-## Fakty o Autorze i Okolicznościach Powstania
+## Facts About the Author and Circumstances of Creation
 
-### Dzieciństwo i Edukacja Johna Stuarta Milla
+### John Stuart Mill's Childhood and Education
 
-**FAKT**: Mill zaczął naukę greckiego w wieku 3 lat pod surowym okiem ojca, Jamesa Milla. W wieku 8 lat znał już łacinę i przeczytał Herodota, Ksenofonta i sześć dialogów Platona.
+**FACT**: Mill began learning Greek at age 3 under his father James Mill's stern supervision. By age 8, he already knew Latin and had read Herodotus, Xenophon, and six dialogues of Plato.
 
-**FAKT**: Do 8 roku życia Mill przeczytał Ezopa, "Anabazę" Ksenofonta, całego Herodota i poznał dzieła Lukiana, Diogenesa Laertiosa, Isokratesa.
+**FACT**: By age 8, Mill had read Aesop, Xenophon's "Anabasis," all of Herodotus, and was familiar with works by Lucian, Diogenes Laertius, and Isocrates.
 
-**FAKT**: Mill był celowo izolowany od rówieśników - ojciec pozwalał mu jedynie na kontakt z rodzeństwem, tworząc go jako "ludzką świnkę doświadczalną" dla teorii edukacyjnych Benthama.
+**FACT**: Mill was deliberately isolated from peers - his father only allowed contact with siblings, creating him as a "human guinea pig" for Bentham's educational theories.
 
-**FAKT**: Ojciec Mill zapisał w dzienniku zaledwie 7 tygodni po narodzinach syna: "który z nas za dwadzieścia lat będzie mógł zaprezentować najbardziej wykształconego i cnotliwego młodzieńca."
+**FACT**: Father Mill wrote in his diary just 7 weeks after his son's birth: "which of us will be able to present the most educated and virtuous young man in twenty years."
 
-### Kryzys Psychiczny i Odkrycie Poezji
+### Mental Crisis and Discovery of Poetry
 
-**FAKT**: W wieku 20 lat (1826) Mill przeżył załamanie nerwowe, opisując siebie jako "Benthamowską maszynę do myślenia", która straciła wszelki duch życia.
+**FACT**: At age 20 (1826), Mill suffered a nervous breakdown, describing himself as a "Benthamite thinking machine" that had lost all spirit of life.
 
-**FAKT**: Przez 3 lata depresji Mill funkcjonował "mechanicznie, siłą przyzwyczajenia", wykonując swoje obowiązki bez jakiejkolwiek radości życia.
+**FACT**: For 3 years of depression, Mill functioned "mechanically, by force of habit," performing his duties without any joy in life.
 
-**FAKT**: Poezja Wordswortha stała się "lekarstwem dla jego stanu umysłu" jesienią 1828 roku - Mill odkrył ją przypadkowo, "z ciekawości, bez oczekiwania ulgi psychicznej".
+**FACT**: Wordsworth's poetry became "medicine for his mental state" in autumn 1828 - Mill discovered it accidentally, "out of curiosity, without expecting psychological relief."
 
-**PLOTKA**: Mill twierdził, że kryzys był spowodowany lękiem, że nawet gdyby społeczeństwo stało się doskonałe, on sam nie odczułby szczęścia i radości.
+**RUMOR**: Mill claimed the crisis was caused by anxiety that even if society became perfect, he himself would not feel happiness and joy.
 
-### Kariera w Kompanii Wschodnioindyjskiej
+### Career at the East India Company
 
-**FAKT**: Mill pracował dla Kompanii Wschodnioindyjskiej przez 35 lat (1823-1858), awansując na stanowisko Głównego Egzaminatora Korespondencji - pozycję równą Podsekretarzowi Stanu.
+**FACT**: Mill worked for the East India Company for 35 years (1823-1858), advancing to the position of Chief Examiner of Correspondence - equivalent to Under Secretary of State.
 
-**FAKT**: Podczas pracy dla Kompanii Mill napisał ponad 1,700 depesz do Brytyjskich Indii, kształtując politykę kolonialną Imperium.
+**FACT**: During his work for the Company, Mill wrote over 1,700 dispatches to British India, shaping the Empire's colonial policy.
 
-**FAKT**: Mill opowiadał się za "życzliwym despotyzmem" w administracji kolonii zamorskich, uważając miejsca takie jak Indie za "barbarzyńskie narody" potrzebujące brytyjskiego przewodnictwa.
+**FACT**: Mill advocated for "benevolent despotism" in overseas colonial administration, considering places like India as "barbarous nations" needing British guidance.
 
-## Historia Współpracy z Harriet Taylor Mill
+## History of Collaboration with Harriet Taylor Mill
 
-### Niezwykła Intelektualna Współpraca
+### Extraordinary Intellectual Partnership
 
-**FAKT**: Mill w swojej autobiografii napisał: "'O wolności' było bardziej dosłownie i bezpośrednio naszą wspólną produkcją niż cokolwiek innego, co nosi moje nazwisko."
+**FACT**: Mill wrote in his autobiography: "'On Liberty' was more directly and literally our joint production than anything else which bears my name."
 
-**FAKT**: Według Milla "każde zdanie było przez nas wielokrotnie przeglądane, rozważane na różne sposoby i starannie oczyszczane z wszelkich błędów myśli lub wyrażenia."
+**FACT**: According to Mill, "every sentence was gone through by us together, turned over in many ways, and carefully weeded of any faults, either in thought or expression."
 
-**FAKT**: Mill stwierdził: "Co do myśli, trudno zidentyfikować jakąkolwiek część jako bardziej jej niż wszystkich pozostałych. Cały sposób myślenia, którego książka była wyrazem, był zdecydowanie jej."
+**FACT**: Mill stated: "As to the thoughts, it is difficult to identify any particular part as being more hers than all the rest. The whole mode of thinking of which the book was the expression, was emphatically hers."
 
-**FAKT**: Najnowsze badania stylometryczne z Karlsruhe Institute of Technology (2022) potwierdziły naukowo, że "z dużą dozą pewności 'O wolności' nie zostało napisane wyłącznie przez niego."
+**FACT**: Recent stylometric research from Karlsruhe Institute of Technology (2022) scientifically confirmed that "with high confidence 'On Liberty' was not written by him alone."
 
-**FAKT**: Analiza komputerowa wykazała, że "rozdział 3 'O wolności' został najprawdopodobniej napisany przez innego autora. Cały rozdział wydaje się autorstwa Harriet Taylor Mill."
+**FACT**: Computer analysis showed that "Chapter 3 of 'On Liberty' was most likely written by another author. The entire chapter appears to be the work of Harriet Taylor Mill."
 
-### Dramatyczne Okoliczności Publikacji
+### Dramatic Circumstances of Publication
 
-**FAKT**: Harriet Taylor Mill zmarła nagle 3 listopada 1858 roku w hotelu d'Europe w Avignonie we Francji, z powodu ostrego zapalenia płuc.
+**FACT**: Harriet Taylor Mill died suddenly on November 3, 1858, at the Hotel d'Europe in Avignon, France, from acute pneumonia.
 
-**FAKT**: Mill i Harriet przeprowadzili się do południowej Francji w 1858 roku ze względów zdrowotnych - jej stan jednak się pogorszył podczas relokacji.
+**FACT**: Mill and Harriet moved to southern France in 1858 for health reasons - but her condition worsened during the relocation.
 
-**FAKT**: Ostateczna rewizja książki miała zostać wykonana zimą 1858-59, ale śmierć Harriet przerwała ten proces.
+**FACT**: The final revision of the book was to be completed in winter 1858-59, but Harriet's death interrupted this process.
 
-**FAKT**: Mill napisał, że jednym z jego pierwszych działań po jej śmierci było opublikowanie książki i "poświęcenie jej jej pamięci."
+**FACT**: Mill wrote that one of his first actions after her death was to publish the book and "dedicate it to her memory."
 
-## Dedykacja i Hołd dla Żony
+## Dedication and Tribute to His Wife
 
-**FAKT**: W dedykacji Mill nazwał swoją zmarłą żonę "przyjaciółką i żoną, której wzniosłe poczucie prawdy i sprawiedliwości było moją najsilniejszą zachętą."
+**FACT**: In the dedication, Mill called his deceased wife "the friend and wife whose exalted sense of truth and right was my strongest incitement."
 
-**FAKT**: Mill napisał jeden z najbardziej niezwykłych panegiryków kobiety, jaki kiedykolwiek napisał filozof: "Gdybym był zdolny zinterpretować światu połowę wielkich myśli i szlachetnych uczuć pochowanych w jej grobie, byłbym pośrednikiem większego dobrodziejstwa niż to, co może wyniknąć z czegokolwiek, co mogę napisać bez jej niezrównanej mądrości."
+**FACT**: Mill wrote one of the most extraordinary panegyrics to a woman ever written by a philosopher: "Were I but capable of interpreting to the world one half the great thoughts and noble feelings which are buried in her grave, I should be the medium of a greater benefit than is ever likely to arise from anything that I can write, unprompted and unassisted by her all but unrivaled wisdom."
 
-## Publikacja i Pierwsze Reakcje
+## Publication and First Reactions
 
-### Szczegóły Pierwszego Wydania
+### Details of the First Edition
 
-**FAKT**: "O wolności" zostało opublikowane w 1859 roku przez wydawnictwo John W. Parker and Son, West Strand, London.
+**FACT**: "On Liberty" was published in 1859 by John W. Parker and Son, West Strand, London.
 
-**FAKT**: Pierwsze wydanie miało 207 stron plus jedną stronę kolofonu, w formacie 8vo, z 8-16 stronami reklam wydawcy na końcu.
+**FACT**: The first edition had 207 pages plus one colophon page, in 8vo format, with 8-16 pages of publisher advertisements at the end.
 
-**FAKT**: Książka zawiera około 24,250 słów i została opisana jako "jedna z najrzadszych pierwszych edycji Milla i ta, która pozostaje jego najczytanejszą książką."
+**FACT**: The book contains approximately 24,250 words and was described as "one of Mill's rarest first editions and the one that remains his most read book."
 
-**FAKT**: Mill przewidział trwałe znaczenie dzieła, pisząc: "'O wolności' prawdopodobnie przetrwa dłużej niż cokolwiek innego, co napisałem... ponieważ połączenie jej umysłu z moim uczyniło z tego rodzaj filozoficznego podręcznika jednej prawdy."
+**FACT**: Mill predicted the work's lasting significance, writing: "'On Liberty' is likely to survive longer than anything else that I have written... because the union of her mind with mine has rendered it a kind of philosophic textbook of a single truth."
 
-### Kontrowersyjne Reakcje Wiktoriańskie
+### Controversial Victorian Reactions
 
-**FAKT**: Dla czytelników wiktoriańskich "O wolności" było dziełem radykalnym, opowiadającym się za moralną i ekonomiczną wolnością jednostek od państwa.
+**FACT**: For Victorian readers, "On Liberty" was a radical work, advocating for moral and economic freedom of individuals from the state.
 
-**FAKT**: Matthew Arnold, Thomas Carlyle i James Fitzjames Stephen należeli do głównych krytyków, uważając że koncepcja wolności Milla "otwiera drzwi dla barbarzyństwa."
+**FACT**: Matthew Arnold, Thomas Carlyle, and James Fitzjames Stephen were among the main critics, believing Mill's concept of liberty "opens the door to barbarism."
 
-**FAKT**: James Fitzjames Stephen napisał w 1874 roku całą książkę "Liberty, Equality, Fraternity" jako odpowiedź na dzieło Milla, argumentując że ludzkość jest "samolubna, zmysłowa, frywolna, leniwa."
+**FACT**: James Fitzjames Stephen wrote an entire book in 1874, "Liberty, Equality, Fraternity," as a response to Mill's work, arguing that humanity is "selfish, sensual, frivolous, idle."
 
-**PLOTKA**: Stephen twierdził, że Mill "sformował zbyt przychylną ocenę ludzkiej natury" i że nieograniczona wolność prowadzi do gnuśności i nędzy.
+**RUMOR**: Stephen claimed that Mill "formed too favorable an estimate of human nature" and that unlimited freedom leads to indolence and misery.
 
-## Intelektualne Inspiracje i Kontekst
+## Intellectual Inspirations and Context
 
-### Filosoczne Fundamenty
+### Philosophical Foundations
 
-**FAKT**: Mill opracował słynną "zasadę krzywdy": "jedynym celem, dla którego władza może być słusznie sprawowana nad jakimkolwiek członkiem cywilizowanej społeczności, wbrew jego woli, jest zapobieganie krzywdzie innych."
+**FACT**: Mill developed the famous "harm principle": "the only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others."
 
-**FAKT**: Mill ostrzegał przed "tyranią większości" - twierdził, że społeczna tyrania jest "bardziej groźna niż wiele rodzajów politycznego ucisku, ponieważ przenika głębiej w życie i zniewala samą duszę."
+**FACT**: Mill warned against the "tyranny of the majority" - arguing that social tyranny is "more formidable than many kinds of political oppression, since it penetrates more deeply into life and enslaves the very soul."
 
-**FAKT**: Mill wyróżnił trzy podstawowe wolności: wolność myśli i emocji, wolność dążenia do upodobań (o ile nie szkodzą innym) i wolność zjednoczenia się dorosłych ludzi.
+**FACT**: Mill distinguished three basic liberties: freedom of thought and emotion, freedom to pursue tastes (as long as they don't harm others), and freedom of association among adults.
 
-### Historyczny Kontekst Społeczny
+### Historical Social Context
 
-**FAKT**: "O wolności" zostało napisane w czasie, gdy społeczeństwo XIX wieku przechodziło transformację od form arystokratycznych do coraz bardziej demokratycznych.
+**FACT**: "On Liberty" was written at a time when 19th-century society was undergoing transformation from aristocratic forms to increasingly democratic ones.
 
-**FAKT**: Mill obawiał się, że dominacja większości prezentuje nowe zagrożenia tyranii nad jednostką przez "masę społeczną bardziej potężną, jednolitą i wszechobecną niż władcy poprzednich epok."
+**FACT**: Mill feared that majority dominance presented new threats of tyranny over the individual by "social mass more powerful, uniform, and omnipresent than rulers of previous eras."
 
-## Ciekawostki i Anegdoty
+## Curiosities and Anecdotes
 
-### Nieznane Fakty o Procesie Twórczym
+### Unknown Facts About the Creative Process
 
-**FAKT**: Dzieło zostało po raz pierwszy pomyślane jako krótki esej w 1854 roku, ale w miarę rozwijania idei rozrastało się i było wielokrotnie przepisywane.
+**FACT**: The work was first conceived as a short essay in 1854, but as ideas developed, it grew and was repeatedly rewritten.
 
-**FAKT**: Mill i Harriet trzymali rękopis przy sobie, "wyciągając go od czasu do czasu i przechodzą przez niego de novo, czytając, ważąc i krytykując każde zdanie."
+**FACT**: Mill and Harriet kept the manuscript with them, "taking it out from time to time and going through it de novo, reading, weighing, and criticizing every sentence."
 
-**PLOTKA**: Mill twierdził, że nie dokonał żadnych zmian w tekście po śmierci żony, publikując go dokładnie w wersji, nad którą pracowali razem.
+**RUMOR**: Mill claimed he made no changes to the text after his wife's death, publishing it exactly in the version they had worked on together.
 
-### Wpływ na Kulturę Polityczną
+### Impact on Political Culture
 
-**FAKT**: Egzemplarz "O wolności" jest przekazywany prezydentowi Brytyjskiej Partii Liberalnych Demokratów jako symbol urzędu, demonstrując ciągłe polityczne znaczenie dzieła.
+**FACT**: A copy of "On Liberty" is passed to the president of the British Liberal Democrats as a symbol of office, demonstrating the work's continuing political significance.
 
-**FAKT**: Książka pozostaje w druku od momentu pierwszej publikacji w 1859 roku, co czyni ją jednym z najbardziej trwałych dzieł filozofii politycznej.
+**FACT**: The book has remained in print since its first publication in 1859, making it one of the most enduring works of political philosophy.
 
-**FAKT**: Mill miał rację przewidując długowieczność dzieła - zostało przetłumaczone na dziesiątki języków i pozostaje podstawą współczesnej myśli politycznej o wolności jednostki.
+**FACT**: Mill was right in predicting the work's longevity - it has been translated into dozens of languages and remains foundational to contemporary political thought about individual liberty.
 
-## Statystyki i Rekordy
+## Statistics and Records
 
-### Liczby i Dane
+### Numbers and Data
 
-**FAKT**: Mill rozpoczął naukę w wieku 3 lat i do 14 roku życia przeczytał więcej klasycznych tekstów niż większość wykształconych dorosłych jego epoki.
+**FACT**: Mill began learning at age 3 and by age 14 had read more classical texts than most educated adults of his era.
 
-**FAKT**: 35-letnia kariera w Kompanii Wschodnioindyjskiej zapewniła Millowi stabilność finansową umożliwiającą filozoficzne zajęcia.
+**FACT**: His 35-year career at the East India Company provided Mill with financial stability enabling philosophical pursuits.
 
-**FAKT**: Książka liczy 207 stron i około 24,250 słów w oryginalnym wydaniu.
+**FACT**: The book comprises 207 pages and approximately 24,250 words in the original edition.
 
-**PLOTKA**: Choć brak konkretnych danych, "O wolności" zostało opisane jako "jedna z najrzadszych pierwszych edycji Milla," sugerując relatywnie niewielki nakład pierwszego wydania.
+**RUMOR**: Although specific data is lacking, "On Liberty" was described as "one of Mill's rarest first editions," suggesting a relatively small first print run.
 
-### Wpływ na Edukację i Myśl Społeczną
+### Impact on Education and Social Thought
 
-**FAKT**: Dzieło Mill'a stało się "rodzajem filozoficznego podręcznika jednej prawdy" o granicach władzy społeczeństwa nad jednostką.
+**FACT**: Mill's work became "a kind of philosophic textbook of a single truth" about the limits of society's power over the individual.
 
-**FAKT**: Koncepcje przedstawione w książce zostały opisane jako "niezwykle praktyczne i głęboko wpłynęły na to, jak myślimy i działamy dziś."
+**FACT**: The concepts presented in the book were described as "remarkably practical and have profoundly influenced how we think and act today."
 
-**PLOTKA**: Niektóre źródła sugerują, że Mill i Harriet wierzyli, że "O wolności" to coś, z czego przyszli myśliciele będą mogli skorzystać, nie koniecznie spodziewając się uznania w swoich czasach.
+**RUMOR**: Some sources suggest that Mill and Harriet believed "On Liberty" was something future thinkers could benefit from, not necessarily expecting recognition in their own time.
 
 ---
 
-*Opracowanie na podstawie badań historycznych przeprowadzonych w 2025 roku. Fakty oznaczone jako "FAKT" zostały potwierdzone przez wiarygodne źródła historyczne. Elementy oznaczone jako "PLOTKA" wymagają dalszej weryfikacji, ale pochodzą z dokumentowanych źródeł.*
+*Research compiled based on historical studies conducted in 2025. Facts marked as "FACT" have been confirmed by reliable historical sources. Elements marked as "RUMOR" require further verification but come from documented sources.*

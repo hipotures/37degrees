@@ -15,8 +15,8 @@
 # - Pozostaw puste aby przetworzyć wszystkie media
 # - Ustaw liczby aby ograniczyć zakres (np. od 1 do 7)
 
-MEDIA_START_RANGE="1"      # Początek zakresu (np. 1 dla m00001_xxx)
-MEDIA_END_RANGE="7"        # Koniec zakresu (np. 7 dla m00007_xxx)
+MEDIA_START_RANGE="2"      # Początek zakresu (np. 1 dla m00001_xxx)
+MEDIA_END_RANGE="16"        # Koniec zakresu (np. 7 dla m00007_xxx)
 
 # =============================================================================
 # ŁADOWANIE BIBLIOTEKI I INICJALIZACJA
@@ -46,7 +46,7 @@ fi
 show_media_directories_info
 
 # Plik z komendą/promptem dla modelu Claude.
-COMMAND_FILE="/home/xai/DEV/37degrees/.claude/commands/37d-m4-download-image.md"
+COMMAND_FILE="/home/xai/DEV/37degrees/.claude/agents/37d-m4-download-image.md"
 
 # Plik konfiguracyjny MCP.
 MCP_CONFIG="/home/xai/DEV/37degrees/.mcp.json-one_stop_workflow"

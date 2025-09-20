@@ -1,157 +1,157 @@
-# Lokalny kontekst kulturowy: "Druga płeć" Simone de Beauvoir w Polsce
+# Local Cultural Context: "The Second Sex" by Simone de Beauvoir in Poland
 
-## Wprowadzenie
-"Druga płeć" (1949) Simone de Beauvoir to jedno z najważniejszych dzieł filozofii feministycznej, które wywarło ogromny wpływ na rozwój feminizmu drugiej fali na całym świecie, w tym w Polsce. To fundamentalne dzieło egzystencjalizmu feministycznego pozostaje kluczowym punktem odniesienia w polskich dyskusjach o równości płci i prawach kobiet.
+## Introduction
+"The Second Sex" (1949) by Simone de Beauvoir is one of the most important works of feminist philosophy, which had an enormous impact on the development of second-wave feminism worldwide, including in Poland. This fundamental work of feminist existentialism remains a key reference point in Polish discussions about gender equality and women's rights.
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze wydanie polskie
-- **Data publikacji**: 1972 rok
-- **Wydawnictwo**: Wydawnictwo Literackie w Krakowie
-- **Kontekst**: Polskie wydanie ukazało się 23 lata po oryginale (1949), w okresie PRL
-- **Znaczenie historyczne**: Publikacja w 1972 roku zbiegła się z "wielką rewolucją kulturową lat 60. i 70.", którą książka pomogła zainspirować
+### First Polish Edition
+- **Publication date**: 1972
+- **Publisher**: Wydawnictwo Literackie in Krakow
+- **Context**: The Polish edition appeared 23 years after the original (1949), during the PRL period
+- **Historical significance**: The 1972 publication coincided with the "great cultural revolution of the 60s and 70s," which the book helped inspire
 
-### Współczesne wydania
-- **Wydawnictwo Czarna Owca**: Wydanie z 2024 roku w serii "Feminizm"
-- **Wydawnictwo Znak**: Wydanie 2024 w serii "Biblioteka Kongresu Kobiet"
-- **Tłumaczki**: Gabriela Mycielska i Maria Leśniewska (wydania współczesne)
+### Contemporary Editions
+- **Czarna Owca Publishing**: 2024 edition in the "Feminism" series
+- **Znak Publishing**: 2024 edition in the "Women's Congress Library" series
+- **Translators**: Gabriela Mycielska and Maria Leśniewska (contemporary editions)
 
-## Polscy tłumacze i interpretacje
+## Polish Translators and Interpretations
 
-### Kluczowi tłumacze
-- **Gabriela Mycielska i Maria Leśniewska** - autorki współczesnego przekładu dostępnego w wydaniach Czarna Owca i innych
-- Historia tłumaczeń: Różne wydania na przestrzeni dekad wskazują na ciągłe zainteresowanie dziełem
+### Key Translators
+- **Gabriela Mycielska and Maria Leśniewska** - authors of the contemporary translation available in Czarna Owca and other editions
+- Translation history: Various editions over decades indicate continued interest in the work
 
-### Problemy przekładu
-- **Słynny cytat**: "Nie rodzimy się kobietami, stajemy się nimi" - stał się jednym z najważniejszych haseł polskiego feminizmu
-- **Terminologia**: Adaptacja francuskiej terminologii filozoficznej na grunt polski
-- **Kontekst kulturowy**: Przekład musiał uwzględnić różnice między francuską a polską kulturą i historią
+### Translation Challenges
+- **Famous quote**: "One is not born, but rather becomes, a woman" - became one of the most important slogans of Polish feminism
+- **Terminology**: Adaptation of French philosophical terminology to Polish ground
+- **Cultural context**: Translation had to account for differences between French and Polish culture and history
 
-## Kontekst edukacyjny
+## Educational Context
 
-### Status w edukacji
-- **Pozycja akademicka**: Uznawana za "podręcznik" i studium przyczyn feminizmu, nie tylko manifest
-- **Kierunki studiów**: Szczególnie ważna w gender studies, kulturoznawstwie, filozofii i socjologii
-- **Programy podyplomowe**: Wykorzystywana w Gender Studies na Instytucie Badań Literackich PAN
-- **Badania naukowe**: Przedmiot prac doktorskich na Uniwersytecie Warszawskim i Uniwersytecie Jagiellońskim
+### Academic Status
+- **Academic position**: Recognized as a "textbook" and study of the causes of feminism, not just a manifesto
+- **Fields of study**: Particularly important in gender studies, cultural studies, philosophy, and sociology
+- **Graduate programs**: Used in Gender Studies at the Institute of Literary Research, Polish Academy of Sciences
+- **Scientific research**: Subject of doctoral dissertations at University of Warsaw and Jagiellonian University
 
-### Sposób nauczania
-- **Kontekstualizacja**: Nauczyciele podkreślają konieczność uwzględnienia kontekstu roku 1949
-- **Analiza krytyczna**: Studenci uczą się rozróżniać między aspektami wciąż aktualnymi a przestarzałymi
-- **Interdyscyplinarność**: Dzieło analizowane z perspektywy filozofii, socjologii, psychologii i historii
+### Teaching Methods
+- **Contextualization**: Teachers emphasize the necessity of considering the 1949 context
+- **Critical analysis**: Students learn to distinguish between aspects that remain current and those that are outdated
+- **Interdisciplinarity**: The work is analyzed from perspectives of philosophy, sociology, psychology, and history
 
-## Polskie adaptacje kulturowe
+## Polish Cultural Adaptations
 
-### Adaptacje teatralne i telewizyjne
-- **"Kobieta zawiedziona"** (1995) - adaptacja telewizyjna w Teatrze Telewizji
-  - Reżyseria: Andrzej Barański
-  - Tłumaczenie: Ewa Gryczko
-  - Gwiazda: **Krystyna Janda** w roli głównej
-  - Obsada: Krzysztof Kolberger, Anna Chodakowska, Magdalena Zawadzka, Aleksander Bardini
+### Theatrical and Television Adaptations
+- **"The Disappointed Woman"** (1995) - television adaptation in Television Theatre
+  - Direction: Andrzej Barański
+  - Translation: Ewa Gryczko
+  - Star: **Krystyna Janda** in the main role
+  - Cast: Krzysztof Kolberger, Anna Chodakowska, Magdalena Zawadzka, Aleksander Bardini
 
-- **Teatr Powszechny w Warszawie** - wersja sceniczna "Kobiety zawiedzonej"
-  - Monodramt z Krystyną Jandą
-  - Adaptacja i reżyseria: Magda Umer
-  - Forma: Opowieść z elementami muzycznymi
+- **Powszechny Theatre in Warsaw** - stage version of "The Disappointed Woman"
+  - Monodrama with Krystyna Janda
+  - Adaptation and direction: Magda Umer
+  - Form: Story with musical elements
 
-### Współczesne inspiracje teatralne
-- **"TAKARAZUKA camp"** (2010) - Krakowski Teatr Tańca
-  - Nawiązanie do tezy: "nie rodzimy się kobietami – stajemy się nimi"
-  - Eksploracja performatywności płci
-  - Kontekst: Różnice kulturowe Europa-Daleki Wschód
+### Contemporary Theatrical Inspirations
+- **"TAKARAZUKA camp"** (2010) - Krakow Dance Theatre
+  - Reference to the thesis: "one is not born, but rather becomes, a woman"
+  - Exploration of gender performativity
+  - Context: Cultural differences Europe-Far East
 
-## Wpływ na polską kulturę feministyczną
+## Impact on Polish Feminist Culture
 
-### Cytaty w kulturze popularnej
-- **Najsłynniejszy**: "Nie rodzimy się kobietami, stajemy się nimi"
-- **Inne popularne cytaty**:
-  - "Nikt nie jest bardziej arogancki wobec kobiet niż mężczyzna niepewny swej męskości"
-  - "Łatwiej poddać się ślepo niewoli, niż pracować nad wyzwoleniem"
+### Quotes in Popular Culture
+- **Most famous**: "One is not born, but rather becomes, a woman"
+- **Other popular quotes**:
+  - "No one is more arrogant toward women than a man insecure about his masculinity"
+  - "It is easier to submit blindly to slavery than to work for liberation"
 
-### Recepcja akademicka
-- **Pozycja w kanonie**: "Jedno z głównych dzieł feminizmu drugiej fali"
-- **Badania**: "Feminizm Simone de Beauvoir jako obraz feminizmu drugiej fali" - tytuł polskiej pracy naukowej
-- **Uniwersytety**: Badania na UW (filozofia), UJ, UMK w Toruniu
+### Academic Reception
+- **Position in canon**: "One of the main works of second-wave feminism"
+- **Research**: "Simone de Beauvoir's Feminism as an Image of Second-Wave Feminism" - title of Polish academic work
+- **Universities**: Research at UW (philosophy), UJ, UMK in Toruń
 
-## Specyfika polska - różnice kulturowe
+## Polish Specificity - Cultural Differences
 
-### Kontekst PRL i transformacja
-- **Lata 70.**: Publikacja w czasach PRL, gdy oficjalnie głoszono równość płci
-- **Lata 90.**: Transformacja ustrojowa i "rozproszenie" działań feministycznych
-- **XXI wiek**: Odrodzenie zainteresowania w kontekście gender studies
+### PRL Context and Transformation
+- **1970s**: Publication during PRL times when gender equality was officially proclaimed
+- **1990s**: Political transformation and "dispersion" of feminist activities
+- **21st century**: Revival of interest in the context of gender studies
 
-### Lokalne nawiązania
-- **Krystyna Janda** jako ikona interpretacji dzieł de Beauvoir w Polsce
-- **Wydawnictwa feministyczne**: Czarna Owca jako główny popularyzator literatury feministycznej
-- **Biblioteka Kongresu Kobiet**: Seria wydawnicza Znaku dedykowana literaturze kobiecej
+### Local References
+- **Krystyna Janda** as an icon of interpretation of de Beauvoir's works in Poland
+- **Feminist publishers**: Czarna Owca as the main popularizer of feminist literature
+- **Women's Congress Library**: Znak's publishing series dedicated to women's literature
 
-## Współczesna recepcja czytelnicza
+## Contemporary Reader Reception
 
-### Opinie polskich czytelników (Lubimyczytac.pl)
-- **Uznanie historyczne**: "Wybitna książka na swoje czasy i ważna w dzisiejszej literaturze feministycznej"
-- **Świadomość wieku dzieła**: Czytelnicy rozumieją, że nie wszystko "dobrze się zestarzało"
-- **Podejście krytyczne**: "Nie zgadzam się ze wszystkim, co mówi de Beauvoir, zwłaszcza gdy opiera się na psychoanalizie Freuda"
-- **Uniwersalizm**: Pomimo upływu lat, dzieło nie straciło na aktualności
+### Polish Readers' Opinions (Lubimyczytac.pl)
+- **Historical recognition**: "Outstanding book for its time and important in today's feminist literature"
+- **Age awareness**: Readers understand that not everything "aged well"
+- **Critical approach**: "I don't agree with everything de Beauvoir says, especially when she relies on Freud's psychoanalysis"
+- **Universalism**: Despite the passage of years, the work has not lost its relevance
 
-### Wyzwania dla współczesnych czytelników
-- **Wymagające podejście**: "Trzeba zrozumieć sposób myślenia Simone, żeby przebrnąć przez to bez krzywienia się"
-- **Inspiracja**: "Niesamowicie inspirująca książka, dogłębnie analizująca 'kobietę' jako produkt społeczeństwa"
-- **Kontekst**: Konieczność otwarcia się na perspektywę z 1949 roku
+### Challenges for Contemporary Readers
+- **Demanding approach**: "You need to understand Simone's way of thinking to get through this without grimacing"
+- **Inspiration**: "Incredibly inspiring book, thoroughly analyzing 'woman' as a product of society"
+- **Context**: Need to open up to a 1949 perspective
 
-## Polskie badaczki i badacze
+## Polish Researchers
 
-### Współczesni badacze
-- **Badania doktorskie**: Prace na UW (Wydział Filozofii) i UJ
-- **Specjalizacje**: Filozofia feministyczna, etyka, gender studies, polityka antydyskryminacyjna
-- **Publikacje**: Analiza "heterogeniczności macierzyństwa w teorii Simone de Beauvoir"
+### Contemporary Researchers
+- **Doctoral research**: Works at UW (Faculty of Philosophy) and UJ
+- **Specializations**: Feminist philosophy, ethics, gender studies, anti-discrimination policy
+- **Publications**: Analysis of "heterogeneity of motherhood in Simone de Beauvoir's theory"
 
-### Kierunki badań
-- **Filozofia zaangażowana**: Związek między postawą aktywistyczną a myślą filozoficzną
-- **Krytyka patriarchatu**: Analiza złożonej krytyki patriarchalnego macierzyństwa
-- **Antyesencjalizm**: Demistyfikacja instynktu macierzyńskiego
+### Research Directions
+- **Engaged philosophy**: Connection between activist stance and philosophical thought
+- **Critique of patriarchy**: Analysis of complex critique of patriarchal motherhood
+- **Anti-essentialism**: Demystification of maternal instinct
 
-## Wpływ na polskie gender studies
+## Impact on Polish Gender Studies
 
-### Programy akademickie
-- **IBL PAN**: Studia podyplomowe Gender Studies (XIX edycja od października 2025)
-- **Uniwersytety**: Obecność w programach filozofii, socjologii, kulturoznawstwa
-- **Badania**: Aktywne wykorzystanie w pracach magisterskich i doktorskich
+### Academic Programs
+- **IBL PAN**: Gender Studies postgraduate program (19th edition from October 2025)
+- **Universities**: Presence in philosophy, sociology, cultural studies programs
+- **Research**: Active use in master's and doctoral theses
 
-### Teoretyczne znaczenie
-- **Podstawy**: Fundamentalne znaczenie dla współczesnych teorii gender
-- **Definicja płci kulturowej**: Korzenie nowoczesnych znaczeń gender w twierdzeniach de Beauvoir
-- **Wpływ interdyscyplinarny**: Od krytyki literackiej przez historię po psychoterapię
+### Theoretical Significance
+- **Foundations**: Fundamental importance for contemporary gender theories
+- **Cultural gender definition**: Roots of modern gender meanings in de Beauvoir's statements
+- **Interdisciplinary influence**: From literary criticism through history to psychotherapy
 
-## Kontrowersje i debaty
+## Controversies and Debates
 
-### Dyskusje akademickie
-- **Radio Jedynka**: Debaty na temat "ideologii gender i dzisiejszej roli kobiet"
-- **Przestarzałe elementy**: Krytyka opierania się na wiedzy z 1949 roku (psychoanaliza, historia)
-- **Aktualność**: Dyskusje o tym, które aspekty pozostają aktualne
+### Academic Discussions
+- **Radio Jedynka**: Debates on "gender ideology and today's role of women"
+- **Outdated elements**: Criticism of relying on 1949 knowledge (psychoanalysis, history)
+- **Relevance**: Discussions about which aspects remain current
 
-### Społeczne oddziaływanie
-- **Google Doodle**: Uhonorowanie cytatu "Nie rodzimy się kobietami - stajemy się nimi"
-- **Media**: Regularne powroty do dzieła w kontekście debat o prawach kobiet
-- **Pokoleniowe różnice**: Różne interpretacje między starszymi a młodszymi czytelnikami
+### Social Impact
+- **Google Doodle**: Honoring the quote "One is not born, but rather becomes, a woman"
+- **Media**: Regular returns to the work in the context of women's rights debates
+- **Generational differences**: Different interpretations between older and younger readers
 
-## Rekomendacje dla polskich czytelników
+## Recommendations for Polish Readers
 
-### Podejście do lektury
-- **Kontekst historyczny**: Konieczność uwzględnienia roku publikacji (1949)
-- **Otwartość umysłu**: Unikanie gniewu na "głupi feminizm" lub uwięzienia w nowoczesnym feminizmie
-- **Analiza krytyczna**: Rozróżnianie między tym, co wciąż aktualne, a tym, co przestarzałe
+### Approach to Reading
+- **Historical context**: Need to consider the publication year (1949)
+- **Open mind**: Avoiding anger at "stupid feminism" or imprisonment in modern feminism
+- **Critical analysis**: Distinguishing between what is still current and what is outdated
 
-### Znaczenie dla współczesności
-- **Uniwersalność**: Dzieło charakteryzuje się "znaczną uniwersalnością"
-- **Inspiracja**: Podstawa dla dalszego rozwoju ruchu feministycznego
-- **Edukacja**: Nieocenione źródło wiedzy dla studentów humanistyki
+### Significance for Contemporary Times
+- **Universality**: The work is characterized by "significant universality"
+- **Inspiration**: Foundation for further development of the feminist movement
+- **Education**: Invaluable source of knowledge for humanities students
 
-## Podsumowanie
+## Summary
 
-"Druga płeć" Simone de Beauvoir pozostaje w Polsce jednym z najważniejszych tekstów filozofii feministycznej, który przez ponad pół wieku wywiera wpływ na polską myśl akademicką, kulturę i społeczne dyskusje o równości płci. Dzieło, które pierwotnie ukazało się po polsku w 1972 roku, przeszło przez różne okresy recepcji - od czasów PRL, przez transformację ustrojową lat 90., po współczesne odrodzenie zainteresowania w ramach gender studies.
+"The Second Sex" by Simone de Beauvoir remains one of the most important texts of feminist philosophy in Poland, which for over half a century has influenced Polish academic thought, culture, and social discussions about gender equality. The work, which originally appeared in Polish in 1972, went through various periods of reception - from PRL times, through the political transformation of the 90s, to the contemporary revival of interest within gender studies.
 
-Kluczową rolę w popularyzacji dzieła odegrała Krystyna Janda, która nie tylko zagrała w adaptacjach teatralnych i telewizyjnych, ale stała się symbolem polskiej interpretacji myśli de Beauvoir. Współczesne wydania, szczególnie te z wydawnictwa Czarna Owca i Znak, utrzymują żywe zainteresowanie dziełem wśród nowych pokoleń czytelników.
+A key role in popularizing the work was played by Krystyna Janda, who not only starred in theatrical and television adaptations but became a symbol of Polish interpretation of de Beauvoir's thought. Contemporary editions, especially those from Czarna Owca and Znak publishers, maintain lively interest in the work among new generations of readers.
 
-Polscy czytelnicy podchodzą do "Drugiej płci" z świadomością jej historycznego kontekstu, jednocześnie doceniając uniwersalność przesłania. Cytaty takie jak "Nie rodzimy się kobietami, stajemy się nimi" stały się trwałą częścią polskiego dyskursu feministycznego, a samo dzieło pozostaje fundamentalnym punktem odniesienia w akademickich badaniach nad gender studies, filozofią feministyczną i równością płci.
+Polish readers approach "The Second Sex" with awareness of its historical context, while appreciating the universality of its message. Quotes such as "One is not born, but rather becomes, a woman" have become a permanent part of Polish feminist discourse, and the work itself remains a fundamental reference point in academic research on gender studies, feminist philosophy, and gender equality.
 
-Znaczenie "Drugiej płci" dla polskiej kultury wykracza poza ramy czysto akademickie - dzieło to nadal inspiruje debaty społeczne, wpływa na współczesne rozumienie ról płciowych i pozostaje aktualnym głosem w dyskusjach o prawach kobiet w Polsce XXI wieku.
+The significance of "The Second Sex" for Polish culture extends beyond purely academic frameworks - this work continues to inspire social debates, influences contemporary understanding of gender roles, and remains a current voice in discussions about women's rights in 21st century Poland.

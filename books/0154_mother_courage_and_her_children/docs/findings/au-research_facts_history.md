@@ -1,162 +1,162 @@
-# Matka Courage i jej dzieci - Historia Powstania i Fakty
-## Badania agenta: au-research_facts_history
+# Mother Courage and Her Children - Creation History and Facts
+## Agent Research: au-research_facts_history
 
-### Okoliczności Powstania Książki
+### Circumstances of the Book's Creation
 
-**FAKT**: Sztuka została napisana w 1939 roku przez Bertolta Brechta w odpowiedzi na inwazję Polski przez armie Adolfa Hitlera. Brecht napisał "Matkę Courage" w "białym żarze" - w nieco ponad miesiąc.
+**FACT**: The play was written in 1939 by Bertolt Brecht in response to Adolf Hitler's invasion of Poland. Brecht wrote "Mother Courage" in "white heat" - in just over a month.
 
-**FAKT**: Według przedmowy: "Matka Courage, z jej tematem niszczących skutków europejskiej wojny i ślepoty każdego, kto ma nadzieję na zysku z niej, została podobno napisana w miesiąc; sądząc po prawie całkowitym braku szkiców lub jakichkolwiek innych dowodów wstępnych studiów, musiała to być wyjątkowo bezpośrednia inspiracja."
+**FACT**: According to the foreword: "Mother Courage, with its theme of the devastating effects of European war and the blindness of anyone who hopes to profit from it, was reportedly written in a month; judging by the almost complete lack of sketches or any other evidence of preliminary studies, it must have been an exceptionally direct inspiration."
 
-**FAKT**: Sztuka została napisana głównie od września do listopada 1939 roku w Sztokholmie, podczas gdy Brecht znajdował się na wygnaniu w Szwecji.
+**FACT**: The play was written mainly from September to November 1939 in Stockholm, while Brecht was in exile in Sweden.
 
-**FAKT**: Działanie sztuki rozgrywa się w okresie 1624-1635, ale paralele z 1939 rokiem, kiedy Brecht pisał sztukę, są oczywiste. Na przykład w scenie 3, Matka Courage mówi ironicznie, że Polacy nie powinni byli "wtrącać się w swoje własne sprawy", gdy ich kraj został zaatakowany.
+**FACT**: The play's action takes place during 1624-1635, but the parallels with 1939, when Brecht was writing the play, are obvious. For example, in scene 3, Mother Courage ironically says that the Poles should not have "interfered in their own affairs" when their country was attacked.
 
-**FAKT**: Sztuka ma podtytuł "Eine Chronik aus dem Dreißigjährigen Krieg" ("Kronika z Wojny Trzydziestoletniej"). Wojna Trzydziestoletnia (1618-48) zaczęła się jako wojna religijna między katolikami a protestantami, ale stopniowo przekształciła się w walkę terytorialną między narodami Europy.
+**FACT**: The play has the subtitle "Eine Chronik aus dem Dreißigjährigen Krieg" ("A Chronicle from the Thirty Years' War"). The Thirty Years' War (1618-48) began as a religious war between Catholics and Protestants, but gradually transformed into a territorial struggle between European nations.
 
-### Współpraca Twórcza z Margarete Steffin
+### Creative Collaboration with Margarete Steffin
 
-**FAKT**: Matka Courage i jej dzieci została napisana w 1939 roku przez Bertolta Brechta ze znaczącym wkładem Margarete Steffin. Aktorka, tłumaczka i pisarka Margarete Steffin - która była również sekretarką i kochanką Brechta - wniosła duży wkład w scenariusz.
+**FACT**: Mother Courage and Her Children was written in 1939 by Bertolt Brecht with significant contribution from Margarete Steffin. Actress, translator, and writer Margarete Steffin - who was also Brecht's secretary and lover - made a major contribution to the screenplay.
 
-**FAKT**: Chociaż niemożliwe jest dokładne stwierdzenie, jak dużą część stanowiła jej praca, wielu badaczy XXI wieku twierdzi, że powinna być wymieniona obok Brechta jako współautorka.
+**FACT**: Although it's impossible to state exactly how much of the work was hers, many 21st-century scholars argue that she should be listed alongside Brecht as co-author.
 
-**FAKT**: W ciągu dziewięciu i pół roku współpracy oboje ukończyli 10 sztuk, w tym Galilei, Der gute Mensch von Sezuan, Puntila i Der aufhaltsame Aufstieg des Arturo Ui. "Mała nauczycielka" Brechta również pracowała nad Mutter Courage.
+**FACT**: During nine and a half years of collaboration, both completed 10 plays, including Galilei, Der gute Mensch von Sezuan, Puntila, and Der aufhaltsame Aufstieg des Arturo Ui. Brecht's "little teacher" also worked on Mutter Courage.
 
-**FAKT**: Margarete Steffin (1908-1941) była niemiecką aktorką i pisarką, jedną z najbliższych współpracowniczek Bertolta Brechta, a także płodną tłumaczką z języków rosyjskiego i skandynawskich.
+**FACT**: Margarete Steffin (1908-1941) was a German actress and writer, one of Bertolt Brecht's closest collaborators, and also a prolific translator from Russian and Scandinavian languages.
 
-**PLOTKA**: Niektórzy uczeni sugerują, że wkład Steffin w dzieła Brechta był większy niż oficjalnie uznawano, ale dokładny zakres jej autorstwa pozostaje przedmiotem debaty akademickiej.
+**RUMOR**: Some scholars suggest that Steffin's contribution to Brecht's works was greater than officially recognized, but the exact extent of her authorship remains a subject of academic debate.
 
-### Wygnanie i Warunki Życia
+### Exile and Living Conditions
 
-**FAKT**: W 1933 roku Brecht i Weigel udali się na wygnanie do Danii. Mimo że wkrótce zastąpiona jako kochanka Brechta przez Ruth Berlau, Steffin zawarła umowne małżeństwo z duńskim obywatelem, aby zostać jako sekretarka Brechta.
+**FACT**: In 1933, Brecht and Weigel went into exile to Denmark. Although soon replaced as Brecht's lover by Ruth Berlau, Steffin entered into a contractual marriage with a Danish citizen to remain as Brecht's secretary.
 
-**FAKT**: Między 1933 a 1939 rokiem małe towarzystwo niemieckojęzycznych, wygnanych Mitarbeiter (współpracowników) stworzyło sobie dom w Danii. Grupa ta obejmowała Brechta, Benjamina, Weigel i niemiecką dramaturg Margarete Steffin.
+**FACT**: Between 1933 and 1939, a small company of German-speaking, exiled Mitarbeiter (collaborators) created a home for themselves in Denmark. This group included Brecht, Benjamin, Weigel, and German dramaturg Margarete Steffin.
 
-**FAKT**: Kiedy wojna wydawała się nieuchronna w kwietniu 1939 roku, Brecht przeniósł się do Sztokholmu, gdzie pozostał przez rok. Po tym, jak Niemcy najechały Norwegię i Danię, Brecht opuścił Szwecję i udał się do Helsinek w Finlandii.
+**FACT**: When war seemed inevitable in April 1939, Brecht moved to Stockholm, where he remained for a year. After Germany invaded Norway and Denmark, Brecht left Sweden and went to Helsinki, Finland.
 
-**FAKT**: Uciekając przed Hitlerem, Margarete Steffin, kochanka, współpracowniczka i bliski towarzysz Brechta, znajdowała się na wygnaniu z Brechtem i jego rodziną w Danii, Szwecji, Finlandii i Związku Radzieckim.
+**FACT**: Fleeing from Hitler, Margarete Steffin, Brecht's lover, collaborator, and close companion, was in exile with Brecht and his family in Denmark, Sweden, Finland, and the Soviet Union.
 
-**FAKT**: Zbyt chora, aby kontynuować z nimi podróż do bezpiecznych Stanów Zjednoczonych, Steffin zmarła na gruźlicę w moskiewskiej klinice 4 czerwca 1941 roku, mając zaledwie 33 lata.
+**FACT**: Too ill to continue the journey with them to the safe United States, Steffin died of tuberculosis in a Moscow clinic on June 4, 1941, at only 33 years old.
 
-### Inspiracje Literackie
+### Literary Inspirations
 
-**FAKT**: Główna bohaterka, Mutter Courage, jest inspirowana główną postacią, Courasche, z książki Hansa Jacoba Grimmelshausena, opublikowanej w 1670 roku. Ta kobieta również podróżowała z wojskami w wojnie trzydziestoletniej.
+**FACT**: The main character, Mutter Courage, is inspired by the main character, Courasche, from Hans Jakob Grimmelshausen's book, published in 1670. This woman also traveled with troops in the Thirty Years' War.
 
-**FAKT**: Sztuka opiera się na dwóch dziełach Hansa Jacoba Christoffela von Grimmelshausena: jego powieści z 1669 roku, Simplicissimus i jego sztuce z 1670 roku, Courage: An Adventuress.
+**FACT**: The play is based on two works by Hans Jakob Christoffel von Grimmelshausen: his 1669 novel, Simplicissimus, and his 1670 play, Courage: An Adventuress.
 
-**FAKT**: Heroina Brechta została nazwana na cześć Courasche Grimmelshausena (oryginalny tytuł: Trutz Simplex; około 1669), krótkiej powieści o kobiecie, która zostaje żoną żołnierza i prostytutką, ale te dwa teksty są bardzo różne.
+**FACT**: Brecht's heroine was named after Grimmelshausen's Courasche (original title: Trutz Simplex; circa 1669), a short novel about a woman who becomes a soldier's wife and prostitute, but these two texts are very different.
 
-### Pierwsza Premiera w Zurychu (1941)
+### First Premiere in Zurich (1941)
 
-**FAKT**: Sztuka została pierwotnie wyprodukowana w Schauspielhaus Zürich, wyprodukowana przez Leopolda Lindtberga w 1941 roku, konkretnie 19 kwietnia 1941 roku.
+**FACT**: The play was originally produced at Schauspielhaus Zürich, produced by Leopold Lindtberg in 1941, specifically on April 19, 1941.
 
-**FAKT**: Therese Giehse, znana aktorka tamtych czasów, przyjęła główną rolę i była pierwszą, która zagrała Matkę Courage w światowej premierze sztuki Bertolta Brechta.
+**FACT**: Therese Giehse, a well-known actress of the time, took the lead role and was the first to play Mother Courage in the world premiere of Bertolt Brecht's play.
 
-**FAKT**: Większość partytur składała się z oryginalnych kompozycji szwajcarskiego kompozytora Paula Burkharda; reszta została przez niego zaaranżowana. Muzycy zostali umieszczeni w widoku publiczności, aby można ich było zobaczyć, jedna z wielu technik Brechta w teatrze epickim.
+**FACT**: Most of the scores consisted of original compositions by Swiss composer Paul Burkhard; the rest were arranged by him. Musicians were placed in view of the audience so they could be seen, one of many of Brecht's techniques in epic theater.
 
-**FAKT**: Początkowa recepcja była mieszana i problematyczna z perspektywy Brechta. Po przedstawieniach z 1941 roku w Szwajcarii, Brecht uważał, że krytycy źle zrozumieli sztukę.
+**FACT**: The initial reception was mixed and problematic from Brecht's perspective. After the 1941 performances in Switzerland, Brecht believed that critics had misunderstood the play.
 
-**FAKT**: Podczas gdy wielu sympatyzowało z Courage, celem Brechta było pokazanie, że Matka Courage myliła się, nie rozumiejąc okoliczności, w których znajdowali się ona i jej dzieci.
+**FACT**: While many sympathized with Courage, Brecht's goal was to show that Mother Courage was wrong, not understanding the circumstances in which she and her children found themselves.
 
-**FAKT**: Jeden ze widzów scharakteryzował Courage Giehse jako "bez łez i nieheroiczną", dokładnie tak, jak zamierzał Brecht. Widz zauważył, że "nie była piękna i była zbudowana jak kluska z twarzą baseta", co było zgodne z wizją Brechta o nieserymentalnej, realistycznej postaci.
+**FACT**: One audience member characterized Giehse's Courage as "without tears and unheroic," exactly as Brecht intended. The viewer noted that "she was not beautiful and was built like a dumpling with a basset hound's face," which was consistent with Brecht's vision of an unsentimental, realistic character.
 
-### Produkcja Berliner Ensemble (1949)
+### Berliner Ensemble Production (1949)
 
-**FAKT**: Helene Weigel, żona Brechta, wraz z mężem założyła grupę teatralną Berliner Ensemble w Berlinie Wschodnim w 1949 roku i wystąpiła w głównej roli w niemieckiej premierze "Matki Courage i jej dzieci" Brechta.
+**FACT**: Helene Weigel, Brecht's wife, along with her husband founded the Berliner Ensemble theater group in East Berlin in 1949 and starred in the lead role in the German premiere of Brecht's "Mother Courage and Her Children."
 
-**FAKT**: Druga produkcja Matki Courage miała miejsce w Berlinie Wschodnim w 1949 roku, z Helene Weigel, żoną Brechta, jako Matką Courage. Paul Dessau dostarczył nową partyturę, skomponowaną w ścisłej współpracy z samym Brechtem.
+**FACT**: The second production of Mother Courage took place in East Berlin in 1949, with Helene Weigel, Brecht's wife, as Mother Courage. Paul Dessau provided a new score, composed in close collaboration with Brecht himself.
 
-**FAKT**: Helene Weigel dała pierwszą niemiecką interpretację Matki Courage w Deutsches Theater w Berlinie w 1949 roku, a po ponad pięćdziesięciu latach jej portret zaradnej handlarki pozostaje definitywny.
+**FACT**: Helene Weigel gave the first German interpretation of Mother Courage at the Deutsches Theater in Berlin in 1949, and after more than fifty years, her portrait of the resourceful trader remains definitive.
 
-**FAKT**: Berlińska inscenizacja zapewniła pięćdziesiątjednoletniemu Brechtowi pierwszy wielki sukces jako dramaturga reżyserującego własne dzieło.
+**FACT**: The Berlin staging provided fifty-one-year-old Brecht with his first major success as a playwright directing his own work.
 
-**FAKT**: Słynny "niemy krzyk" Weigel w Matce Courage, ruch inspirowany fotografią matki opłakującej śmierć dziecka po japońskim ataku na Singapur, był przykładem jej stylu.
+**FACT**: Weigel's famous "silent scream" in Mother Courage, a movement inspired by a photograph of a mother mourning her child's death after the Japanese attack on Singapore, was an example of her style.
 
-**FAKT**: Brecht miał berlińską produkcję w pełni udokumentowaną jako model Courage, który miałby następnie służyć jako obowiązkowy szablon dla wszystkich innych przedstawień.
+**FACT**: Brecht had the Berlin production fully documented as a Courage model, which would then serve as a mandatory template for all other performances.
 
-### Techniki Teatru Epickiego
+### Epic Theater Techniques
 
-**FAKT**: Efekt alienacji był kluczowy dla teorii dramatycznej Brechta, obejmując "użycie technik mających na celu zdystansowanie publiczności od emocjonalnego zaangażowania w sztukę poprzez gwałtowne przypomnienia o sztuczności przedstawienia teatralnego."
+**FACT**: The alienation effect was crucial to Brecht's dramatic theory, involving "the use of techniques designed to distance the audience from emotional engagement with the play through violent reminders of the artificiality of theatrical performance."
 
-**FAKT**: Verfremdungseffekt "miał na celu zapobieżenie temu, by publiczność stała się emocjonalnie zanurzona w akcji sztuki, zamiast tego utrzymywać krytyczny dystans i analizować społeczno-polityczne przekazy w grze."
+**FACT**: Verfremdungseffekt "was designed to prevent the audience from becoming emotionally immersed in the play's action, instead maintaining critical distance and analyzing the socio-political messages in the play."
 
-**FAKT**: Matka Courage demonstruje Verfremdungseffekt Brechta poprzez "użycie plakatów, które ujawniają wydarzenia każdej sceny, zestawienie, aktorów zmieniających postacie i kostiumy na scenie, użycie narracji, prostych rekwizytów i scenerii."
+**FACT**: Mother Courage demonstrates Brecht's Verfremdungseffekt through "the use of posters that reveal the events of each scene, juxtaposition, actors changing characters and costumes on stage, the use of narration, simple props and scenery."
 
-**FAKT**: Zamiast integrować się z dramatyczną iluzją, "muzyka w teatrze Brechta przyjmuje niezależną rzeczywistość" z "pomocnikami sceny opuszczającymi muzyczny emblemat, kiedy pojawiała się piosenka, która pozostawała oddzielona od akcji."
+**FACT**: Instead of integrating with dramatic illusion, "music in Brecht's theater assumes an independent reality" with "stage assistants dropping musical emblems when a song appeared, which remained separate from the action."
 
-### Recepcja i Wpływ Kulturowy
+### Reception and Cultural Impact
 
-**FAKT**: Matka Courage i jej dzieci jest szeroko uznawana za najlepsze dzieło Brechta, kamień milowy teatralny i jedną z najsilniejszych sztuk antywojennych w historii.
+**FACT**: Mother Courage and Her Children is widely recognized as Brecht's best work, a theatrical milestone, and one of the strongest anti-war plays in history.
 
-**FAKT**: Niektórzy uważają sztukę za "największą sztukę XX wieku" i "być może również największą sztukę antywojenną wszech czasów."
+**FACT**: Some consider the play "the greatest play of the 20th century" and "perhaps also the greatest anti-war play of all time."
 
-**FAKT**: Matka Courage była inspiracją dla zwycięskiej sztuki Pulitzera Lynn Nottage "Ruined", napisanej po tym, jak Nottage spędziła czas z Kongijskimi kobietami w ugandyjskich obozach dla uchodźców.
+**FACT**: Mother Courage was the inspiration for Lynn Nottage's Pulitzer Prize-winning play "Ruined," written after Nottage spent time with Congolese women in Ugandan refugee camps.
 
-**FAKT**: Sztuka została przetłumaczona przez znanych tłumaczy, w tym Hoffmana Reynoldsa Haysa (1904-1980) w 1941, Erica Bentleya w 1955 i 1965, Ralpha Manheima w 1972, Johna Willetta w 1980 i Tony'ego Kushnera w 2006.
+**FACT**: The play has been translated by renowned translators, including Hoffman Reynolds Hays (1904-1980) in 1941, Eric Bentley in 1955 and 1965, Ralph Manheim in 1972, John Willett in 1980, and Tony Kushner in 2006.
 
-### Statystyki i Liczby
+### Statistics and Numbers
 
-**FAKT**: Akcja sztuki rozgrywa się w ciągu 12 lat (1624 do 1636), przedstawiona w 12 scenach, co nie daje widzom czasu na rozwinięcie sentymentalnych uczuć i empatię z którąkolwiek z postaci.
+**FACT**: The play's action takes place over 12 years (1624 to 1636), presented in 12 scenes, giving viewers no time to develop sentimental feelings and empathy with any of the characters.
 
-**FAKT**: Produkcja z 1963 roku na Broadwayu w Martin Beck Theatre, wyreżyserowana przez Jerome'a Robbinsa, z Anne Bancroft w roli głównej, trwała 52 przedstawienia i była nominowana do czterech nagród Tony.
+**FACT**: The 1963 Broadway production at the Martin Beck Theatre, directed by Jerome Robbins, starring Anne Bancroft in the lead role, ran for 52 performances and was nominated for four Tony Awards.
 
-**FAKT**: Cztery produkcje teatralne zostały wyprodukowane w Szwajcarii i Niemczech od 1941 do 1952 roku.
+**FACT**: Four theatrical productions were produced in Switzerland and Germany from 1941 to 1952.
 
-**FAKT**: Znacząca produkcja z 2006 roku w The Public Theater w Nowym Jorku przedstawiała Meryl Streep jako Matkę Courage, z nowym tłumaczeniem Tony'ego Kushnera.
+**FACT**: A significant 2006 production at The Public Theater in New York featured Meryl Streep as Mother Courage, with a new translation by Tony Kushner.
 
-### Polskie Tłumaczenia i Produkcje
+### Polish Translations and Productions
 
-**FAKT**: Najbardziej znacząca polska produkcja została wyreżyserowana przez Michała Zadarę w Teatrze Narodowym w Warszawie, która miała premierę 26 listopada 2016 roku.
+**FACT**: The most significant Polish production was directed by Michał Zadara at the National Theatre in Warsaw, which premiered on November 26, 2016.
 
-**FAKT**: Zadara uaktualnił ustawienia XVIII-wiecznej Wojny Trzydziestoletniej Brechta do wojny w 2025 roku, osadzonej w zniszczonej wojną Warszawie.
+**FACT**: Zadara updated Brecht's 18th-century Thirty Years' War setting to a war in 2025, set in war-torn Warsaw.
 
-**FAKT**: Sztuka została przetłumaczona przez Jacka St. Burasa i zawierała muzykę Paula Dessau. Danuta Stenka grała główną rolę Matki Courage (Anna Fierling).
+**FACT**: The play was translated by Jacek St. Buras and featured music by Paul Dessau. Danuta Stenka played the lead role of Mother Courage (Anna Fierling).
 
-**FAKT**: Polska produkcja trwała 3 godziny i 15 minut z jedną przerwą i otrzymała mieszane recenzje od krytyków.
+**FACT**: The Polish production lasted 3 hours and 15 minutes with one intermission and received mixed reviews from critics.
 
-**FAKT**: Była również adaptacja telewizyjna z 1997 roku wyreżyserowana przez Laco Adamika z Anną Polony i Magdaleną Cielecką oraz wcześniejsza produkcja Teatru Narodowego z Ireną Eichlerówną jako Matką Courage.
+**FACT**: There was also a 1997 television adaptation directed by Laco Adamik with Anna Polony and Magdalena Cielecka, and an earlier National Theatre production with Irena Eichlerówna as Mother Courage.
 
-### Osobiste Nawyki Brechta
+### Brecht's Personal Habits
 
-**FAKT**: Brecht był słynnie fotografowany "noszący płaską czapkę robotniczą i paląc grube kubańskie cygaro", co "wydaje się uchwycić coś z jego paradoksalnej osobowości - Brecht, burżuazyjny bolszewik."
+**FACT**: Brecht was famously photographed "wearing a flat worker's cap and smoking thick Cuban cigars," which "seems to capture something of his paradoxical personality - Brecht, the bourgeois Bolshevik."
 
-**FAKT**: Stacje jego wygnania, podczas którego zmieniał kraje częściej niż buty (jak kiedyś to ujął), to Czechosłowacja, Austria, Szwajcaria, Francja, Dania, Szwecja, Finlandia i Stany Zjednoczone.
+**FACT**: The stations of his exile, during which he changed countries more often than shoes (as he once put it), were Czechoslovakia, Austria, Switzerland, France, Denmark, Sweden, Finland, and the United States.
 
-**FAKT**: W Finlandii "współpisał sztukę Pan Puntila i jego człowiek Matti (Herr Puntila und sein Knecht Matti) z Hellą Wuolijoki, z którą mieszkał w dworze Marlebäck w Iitti."
+**FACT**: In Finland "he co-wrote the play Mr. Puntila and His Man Matti (Herr Puntila und sein Knecht Matti) with Hella Wuolijoki, with whom he lived at the Marlebäck manor in Iitti."
 
-**FAKT**: Brecht przepracowywał sztuki wielokrotnie - istnieje pięć wersji Baala w sumie. Takie przepracowania w świetle rozwoju historycznego stały się charakterystyczne dla jego nawyków jako dramaturga.
+**FACT**: Brecht reworked plays multiple times - there are five versions of Baal in total. Such reworkings in light of historical development became characteristic of his habits as a playwright.
 
-### Współpracownicy i Relacje
+### Collaborators and Relationships
 
-**FAKT**: Praca Brechta była fundamentalnie kolaboratywna, a nie indywidualna, reprezentująca to, co uczeni nazywają "Brecht" - "zbiorowy podmiot, który z pewnością wydawał się mieć charakterystyczny styl (ten, który nazywamy teraz 'brechtowskim'), ale nie był już osobisty w sensie burżuazyjnym lub indywidualistycznym."
+**FACT**: Brecht's work was fundamentally collaborative, not individual, representing what scholars call "Brecht" - "a collective subject that certainly seemed to have a distinctive style (the one we now call 'Brechtian'), but was no longer personal in a bourgeois or individualistic sense."
 
-**FAKT**: Elisabeth Hauptmann, Margarete Steffin, Emil Burri, Ruth Berlau i inni pracowali z Brechtem i wyprodukowali wiele sztuk dydaktycznych (Lehrstücke). Kobiety w jego życiu były ważne dla jego kariery pisarskiej.
+**FACT**: Elisabeth Hauptmann, Margarete Steffin, Emil Burri, Ruth Berlau, and others worked with Brecht and produced many didactic plays (Lehrstücke). The women in his life were important to his writing career.
 
-**FAKT**: Ruth Berlau urodziła mu krótko żyjące, trzecie nieślubne dziecko w 1944 roku. Duńka Ruth Berlau-Lund stała się ulubioną kochanką Brechta w 1935 roku.
+**FACT**: Ruth Berlau bore him a short-lived, third illegitimate child in 1944. The Dane Ruth Berlau-Lund became Brecht's favorite lover in 1935.
 
-**FAKT**: Ta sama osoba, która pomagała Brechtowi napisać "Dobrą kobietę z Seczuanu" i "Matkę Courage i jej dzieci" - Margarete Steffin - nauczyła się sama i uczyniła się niezbędną dla Brechta w jego europejskim wygnaniu poprzez swoje usługi jako sekretarka, krytyczny redaktor, agent literacki, organizator generalny i tłumacz.
+**FACT**: The same person who helped Brecht write "The Good Woman of Sezuan" and "Mother Courage and Her Children" - Margarete Steffin - taught herself and made herself indispensable to Brecht in his European exile through her services as secretary, critical editor, literary agent, general organizer, and translator.
 
-### Znaczenie Polityczne
+### Political Significance
 
-**FAKT**: Matka Courage to jedna z dziewięciu sztuk, które Brecht napisał w oporze wobec powstania faszyzmu i nazizmu.
+**FACT**: Mother Courage is one of nine plays that Brecht wrote in resistance to the rise of fascism and Nazism.
 
-**FAKT**: Mając na celu przedstawienie społeczeństwa jako zdolnego do zmiany, osadził dzieło podczas Wojny Trzydziestoletniej w Europie jako krzyk bólu w odpowiedzi na nazistowską inwazję na Polskę i zbliżający się wybuch wrogości na całym kontynencie.
+**FACT**: Aiming to present society as capable of change, he set the work during the Thirty Years' War in Europe as a cry of pain in response to the Nazi invasion of Poland and the approaching outbreak of hostilities across the continent.
 
-**FAKT**: Brecht pozostawał aktywny i produktywny na wygnaniu. Podróżował na konferencje pisarzy i emigrantów, brał udział w demonstracjach antyfaszystowskich, współpracował przy czasopismach emigracyjnych, pisał wiersze i satyry dla niemieckiej stacji radiowej w Moskwie.
+**FACT**: Brecht remained active and productive in exile. He traveled to writers' and emigrants' conferences, participated in anti-fascist demonstrations, collaborated on emigrant journals, wrote poems and satires for the German radio station in Moscow.
 
-### Ciekawostki i Anegdoty
+### Trivia and Anecdotes
 
-**PLOTKA**: Oryginalną sztuką Brechta napisaną "na wygnaniu na tej samej duńskiej wyspie, gdzie Niels Bohr pracował nad swoją rozprawą doktorską", podkreślając jego oddanie pisaniu nawet w trudnych okolicznościach.
+**RUMOR**: Brecht's original play was written "in exile on the same Danish island where Niels Bohr worked on his doctoral dissertation," highlighting his dedication to writing even in difficult circumstances.
 
-**FAKT**: Po powrocie do Niemiec Wschodnich "jeździł po Berlinie Wschodnim przedwojennym samochodem DKW - rzadkim luksusem w surowej podzielonej stolicy".
+**FACT**: After returning to East Germany "he drove around East Berlin in a pre-war DKW car - a rare luxury in the austere divided capital."
 
-**FAKT**: "Chociaż Brecht mieszkał w Niemczech Wschodnich, prawa autorskie do jego pism były w posiadaniu szwajcarskiej firmy i otrzymywał cenne przekazy w twardej walucie."
+**FACT**: "Although Brecht lived in East Germany, the copyrights to his writings were held by a Swiss company and he received valuable transfers in hard currency."
 
-**FAKT**: Jeden ze świadków pierwotnej wersji zuryskiej to Thornton Wilder, co wskazuje, że produkcja przyciągnęła znaczące postacie literackie.
+**FACT**: One witness to the original Zurich version was Thornton Wilder, indicating that the production attracted significant literary figures.
 
-**FAKT**: W 1972 roku Henry Jayasena zaadaptował sztukę na język syngaleski, pod tytułem Diriya Mawa Saha Agey Daruwo (Odważna Matka i jej Dzieci).
+**FACT**: In 1972, Henry Jayasena adapted the play into Sinhalese, under the title Diriya Mawa Saha Agey Daruwo (Brave Mother and Her Children).
 
-**FAKT**: Triumfalna inscenizacja miała miejsce w Ugandzie, podkreślając nową pilność sztuki w świetle współczesnych konfliktów.
+**FACT**: A triumphant staging took place in Uganda, highlighting the play's new urgency in light of contemporary conflicts.
 
 ---
 
-**Podsumowanie**: "Matka Courage i jej dzieci" to dzieło powstałe w dramatycznych okolicznościach wygnania w odpowiedzi na rozpoczęcie II wojny światowej. Napisana w "białym żarze" w ciągu miesiąca, sztuka łączy historyczne tło z pilnością polityczną współczesności. Jej powstanie było wynikiem kolaboratywnego procesu twórczego, szczególnie z Margarete Steffin, a jej wpływ na teatr światowy pozostaje niezrównany do dziś.
+**Summary**: "Mother Courage and Her Children" is a work created under dramatic circumstances of exile in response to the outbreak of World War II. Written in "white heat" over the course of a month, the play combines historical background with the political urgency of the present. Its creation was the result of a collaborative creative process, particularly with Margarete Steffin, and its impact on world theater remains unparalleled to this day.

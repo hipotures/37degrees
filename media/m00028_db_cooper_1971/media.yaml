@@ -1,0 +1,15 @@
+media_info:
+  title: D.B. Cooper Hijacking - November 24, 1971
+  author: Historical Documentation
+  year: 1971
+  genre: True Crime Mystery Documentary
+  description: A hijacker demanded $200,000 and parachutes, then jumped from a Boeing
+    727 and vanished into thin air, becoming America's greatest unsolved case
+  target_audience: General public, students, true crime enthusiasts, aviation history fans
+  duration: ~3 minutes
+  objective: Recreate the only unsolved air piracy case in American history and the
+    legendary escape that captivated the nation
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Tic Tac Object Vanishes and Reappears at CAP Point"
+  setting:
+    time: "November 14, 2004, approximately 1:15 PM"
+    location: "Pacific Ocean southwest of San Diego, California, original intercept area now empty"
+    weather: "Clear, sunny day with bright sunlight and unlimited visibility"
+  characters:
+    - appearance: "Caucasian man, 40s, athletic build, focused expression, military bearing"
+      clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
+      position: "In F/A-18F cockpit searching empty airspace where object disappeared"
+      action: "Scanning surrounding airspace and communicating object's disappearance to control"
+    - appearance: "Caucasian woman, 30s, slender build, determined expression, professional demeanor"
+      clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
+      position: "In wingman F/A-18F also searching empty sky"
+      action: "Looking for vanished object and maintaining formation during search pattern"
+  scene:
+    mainElements: "Two-seat tandem configuration with multi-function color displays (DDIs, MPCD), head-up display (HUD) with targeting information, cramped space filled with switches and controls"
+    details: "HGU-68/P flight helmet with MBU-20/P oxygen mask, visor reflecting sunlight, communication equipment integrated, protective headgear for high-performance flight operations worn by confused pilots. Empty airspace where Tic Tac object just vanished without trace. F/A-18F instruments showing normal flight parameters but no target contact. Cockpit displays unable to track disappeared object. Pacific Ocean surface now calm with no disturbance visible."
+    background: "Pacific Ocean southwest of San Diego, California, approximately 100 miles offshore, water depth 13,000 feet with completely empty airspace and calm blue ocean"
+    atmosphere: "Bewilderment and disbelief as pilots search empty sky where extraordinary object just disappeared, radio communications reporting impossible instantaneous relocation 60 miles away, sense of encountering technology beyond understanding"
+  composition:
+    cameraAngle: "Close-up shot from inside cockpit showing pilot's helmet and empty sky ahead"
+    focus: "Pilot searching through canopy at empty airspace where Tic Tac object just vanished"
+    depth: "Foreground: pilot in helmet and oxygen mask, middle ground: empty cockpit canopy view, background: vacant Pacific sky, no text or letters visible"

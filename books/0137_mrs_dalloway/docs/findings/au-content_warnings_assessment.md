@@ -1,243 +1,243 @@
-# Ocena Zgodności z Zasadami Platform Społecznościowych - "Mrs Dalloway" Virginia Woolf
+# Social Media Platform Compliance Assessment - "Mrs Dalloway" by Virginia Woolf
 
-**Data oceny:** 2025-09-03  
-**Book ID:** 0137_mrs_dalloway  
-**Tytuł:** "Mrs Dalloway" / "Pani Dalloway"  
-**Autor:** Virginia Woolf  
-**Rok:** 1925  
-**Status:** Klasyczna literatura modernistyczna
-
----
-
-## Podsumowanie Wykonawcze
-
-Po przeanalizowaniu wszystkich 8 dokumentów researchu dotyczących "Mrs Dalloway" Virginia Woolf oraz aktualnych zasad platform społecznościowych na 2025 rok, stwierdzam, że **większość treści związanych z tą książką może być bezpiecznie publikowana na wszystkich głównych platformach** z zastosowaniem odpowiednich środków ostrożności dla kwestii wrażliwych.
-
-**Główne obszary wymagające szczególnej uwagi:**
-- Autobiograficzne elementy rasistowskie/antysemickie autorki
-- Przedstawienia traumy wojennej i samobójstwa
-- Tematy zdrowia psychicznego
-- Konteksty LGBTQ+ w interpretacjach
+**Assessment Date:** 2025-09-03
+**Book ID:** 0137_mrs_dalloway
+**Title:** "Mrs Dalloway"
+**Author:** Virginia Woolf
+**Year:** 1925
+**Status:** Classic modernist literature
 
 ---
 
-## Matrix Ryzyka: Problematyczne Tematy vs Platformy
+## Executive Summary
 
-| Temat/Platforma | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
-|-----------------|----------|-----------|---------|--------|---------|------|
-| **Historia/biografia książki** | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
-| **Analiza literacka/symbolika** | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
-| **Techniki pisarskie** | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
-| **Zdrowie psychiczne/PTSD** | 🟡 EDIT | 🟡 EDIT | ✅ OK | 🟡 EDIT | ✅ OK | ✅ OK |
-| **Samobójstwo Septimusa** | 🔴 AGE-RESTRICT | 🔴 AGE-RESTRICT | 🟡 EDIT | 🔴 AGE-RESTRICT | ✅ OK | ✅ OK |
-| **Tematy LGBTQ+ (Clarissa-Sally)** | 🔴 OMIT | 🔴 OMIT | 🟡 EDIT | 🟡 EDIT | ✅ OK | ✅ OK |
-| **Rasizm/antysemityzm autorki** | 🔴 OMIT | 🔴 OMIT | 🟡 EDIT | 🟡 EDIT | 🟡 EDIT | 🟡 EDIT |
-| **Skandale biograficzne** | 🔴 OMIT | 🔴 OMIT | 🟡 EDIT | 🔴 OMIT | 🟡 EDIT | ✅ OK |
-| **Kultura młodzieżowa/BookTok** | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
+After analyzing all 8 research documents regarding "Mrs Dalloway" by Virginia Woolf and current social media platform guidelines for 2025, I conclude that **most content related to this book can be safely published on all major platforms** with appropriate precautions for sensitive issues.
 
-**Legenda:**  
-- ✅ **OK** - Bezpieczne do publikacji bez ograniczeń  
-- 🟡 **EDIT** - Wymaga edytorskich dostosowań lub ostrzeżeń  
-- 🔴 **AGE-RESTRICT** - Wymaga ograniczenia wiekowego lub całkowitego omięcia  
-- 🔴 **OMIT** - Zalecane całkowite pominięcie tematu na tej platformie
+**Main areas requiring special attention:**
+- Author's autobiographical racist/antisemitic elements
+- Representations of war trauma and suicide
+- Mental health themes
+- LGBTQ+ contexts in interpretations
 
 ---
 
-## Analiza Ryzyka dla Każdej Platformy
+## Risk Matrix: Problematic Topics vs Platforms
 
-### 🔴 FACEBOOK/META (WYSOKIE RYZYKO)
-**Status:** Zunifikowane Community Standards, nowe liberalne zasady hate speech
+| Topic/Platform | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+|----------------|----------|-----------|---------|--------|---------|------|
+| **Book history/biography** | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
+| **Literary analysis/symbolism** | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
+| **Writing techniques** | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
+| **Mental health/PTSD** | 🟡 EDIT | 🟡 EDIT | ✅ OK | 🟡 EDIT | ✅ OK | ✅ OK |
+| **Septimus's suicide** | 🔴 AGE-RESTRICT | 🔴 AGE-RESTRICT | 🟡 EDIT | 🔴 AGE-RESTRICT | ✅ OK | ✅ OK |
+| **LGBTQ+ themes (Clarissa-Sally)** | 🔴 OMIT | 🔴 OMIT | 🟡 EDIT | 🟡 EDIT | ✅ OK | ✅ OK |
+| **Author's racism/antisemitism** | 🔴 OMIT | 🔴 OMIT | 🟡 EDIT | 🟡 EDIT | 🟡 EDIT | 🟡 EDIT |
+| **Biographical scandals** | 🔴 OMIT | 🔴 OMIT | 🟡 EDIT | 🔴 OMIT | 🟡 EDIT | ✅ OK |
+| **Youth culture/BookTok** | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
 
-**REKOMENDACJE:**
-- **UNIKAJ:** Dyskusji o rasistowskich aspektach biografii Woolf
-- **UNIKAJ:** Szczegółów dotyczących samobójstwa postaci
-- **UNIKAJ:** Interpretacji LGBTQ+ (ze względu na nowe kontrowersyjne zasady Meta)
-- **BEZPIECZNE:** Analiza literacka, techniki narracyjne, znaczenie kulturowe
-- **OSTRZEŻENIE:** Nieprzewidywalna moderacja w 2025 roku
-
-### 🔴 INSTAGRAM (WYSOKIE RYZYKO)
-**Status:** Identyczne zasady z Facebookiem + nowe ToS
-
-**REKOMENDACJE:**
-- **PODOBNIE DO FACEBOOK** - te same ograniczenia
-- **BEZPIECZNE:** Estetyka dark academia, cytaty literackie, BookTok content
-- **UNIKAJ:** Kontrowersyjnych aspektów biografii autorki
-- **MONETYZACJA:** Koncentracja na pozytywnych aspektach książki
-
-### 🟡 YOUTUBE (ŚREDNIE RYZYKO)
-**Status:** Zaostrzone zasady AI content, focus na oryginalność
-
-**REKOMENDACJE:**
-- **UŻYWAJ:** Własnej narracji (nie text-to-speech)
-- **DODAWAJ:** Oryginalny komentarz do wszystkich omawianych tematów
-- **EDUCATIONAL FRAMING:** Kontekst edukacyjny dla wrażliwych tematów
-- **DŁUGOŚĆ:** 1+ minuta dla monetyzacji
-- **STORYTELLING:** Podejście narracyjne, nie suche fakty
-- **UNIKAJ:** Masowej produkcji podobnego contentu
-
-### 🟡 TIKTOK (ŚREDNIE RYZYKO)
-**Status:** Tylko long-form (1+ min) monetization, striktne compliance
-
-**REKOMENDACJE:**
-- **MINIMUM 1 MINUTA** dla monetyzacji
-- **ORYGINALNA TREŚĆ** - nie duets/stitches
-- **EDUCATIONAL APPROACH:** Ramowanie edukacyjne
-- **UNIKAJ:** Szczegółów samobójstwa bez proper context
-- **BEZPIECZNE:** BookTok trends, analiza literacka, młodzieżowe połączenia
-
-### ✅ SPOTIFY (NISKIE RYZYKO)
-**Status:** Najbardziej creator-friendly dla educational content
-
-**REKOMENDACJE:**
-- **VIDEO FORMAT:** Preferowany dla wyższych zarobków
-- **UNIKAJ:** Długich cytatów z audiobook bez licencji
-- **EDUCATIONAL SERIES:** Format episodyczny o książce
-- **WŁASNY KOMENTARZ:** Dominujący nad materiałem źródłowym
-- **BEZPIECZNE:** Praktycznie wszystkie tematy z proper framing
-
-### ✅ KICK (NAJNIŻSZE RYZYKO)
-**Status:** Najbardziej liberalne zasady, creator-friendly revenue
-
-**REKOMENDACJE:**
-- **NAJWŁAŚCIWSZA PLATFORMA** dla controversial topics
-- **EDUCATIONAL CONTEXT:** Nawet trudne tematy OK z właściwym framingiem  
-- **INTERACTIVE FORMAT:** Dyskusje na żywo z community
-- **95/5 SPLIT:** Najlepsze warunki monetyzacji
-- **WSZYSTKIE TEMATY:** Możliwe z odpowiedzialnością edukacyjną
+**Legend:**
+- ✅ **OK** - Safe for publication without restrictions
+- 🟡 **EDIT** - Requires editorial adjustments or warnings
+- 🔴 **AGE-RESTRICT** - Requires age restriction or complete omission
+- 🔴 **OMIT** - Complete topic omission recommended for this platform
 
 ---
 
-## Klasyfikacja Wiekowa - Rekomendacje
+## Risk Analysis for Each Platform
+
+### 🔴 FACEBOOK/META (HIGH RISK)
+**Status:** Unified Community Standards, new liberal hate speech policies
+
+**RECOMMENDATIONS:**
+- **AVOID:** Discussions of Woolf's racist biographical aspects
+- **AVOID:** Details about character suicide
+- **AVOID:** LGBTQ+ interpretations (due to Meta's new controversial policies)
+- **SAFE:** Literary analysis, narrative techniques, cultural significance
+- **WARNING:** Unpredictable moderation in 2025
+
+### 🔴 INSTAGRAM (HIGH RISK)
+**Status:** Identical policies with Facebook + new ToS
+
+**RECOMMENDATIONS:**
+- **SIMILAR TO FACEBOOK** - same restrictions apply
+- **SAFE:** Dark academia aesthetics, literary quotes, BookTok content
+- **AVOID:** Controversial aspects of author's biography
+- **MONETIZATION:** Focus on positive aspects of the book
+
+### 🟡 YOUTUBE (MEDIUM RISK)
+**Status:** Tightened AI content policies, focus on originality
+
+**RECOMMENDATIONS:**
+- **USE:** Own narration (not text-to-speech)
+- **ADD:** Original commentary to all discussed topics
+- **EDUCATIONAL FRAMING:** Educational context for sensitive topics
+- **LENGTH:** 1+ minute for monetization
+- **STORYTELLING:** Narrative approach, not dry facts
+- **AVOID:** Mass production of similar content
+
+### 🟡 TIKTOK (MEDIUM RISK)
+**Status:** Only long-form (1+ min) monetization, strict compliance
+
+**RECOMMENDATIONS:**
+- **MINIMUM 1 MINUTE** for monetization
+- **ORIGINAL CONTENT** - no duets/stitches
+- **EDUCATIONAL APPROACH:** Educational framing
+- **AVOID:** Suicide details without proper context
+- **SAFE:** BookTok trends, literary analysis, youth connections
+
+### ✅ SPOTIFY (LOW RISK)
+**Status:** Most creator-friendly for educational content
+
+**RECOMMENDATIONS:**
+- **VIDEO FORMAT:** Preferred for higher earnings
+- **AVOID:** Long audiobook quotes without licensing
+- **EDUCATIONAL SERIES:** Episodic format about the book
+- **OWN COMMENTARY:** Dominant over source material
+- **SAFE:** Practically all topics with proper framing
+
+### ✅ KICK (LOWEST RISK)
+**Status:** Most liberal policies, creator-friendly revenue
+
+**RECOMMENDATIONS:**
+- **MOST SUITABLE PLATFORM** for controversial topics
+- **EDUCATIONAL CONTEXT:** Even difficult topics OK with proper framing
+- **INTERACTIVE FORMAT:** Live discussions with community
+- **95/5 SPLIT:** Best monetization conditions
+- **ALL TOPICS:** Possible with educational responsibility
+
+---
+
+## Age Classification - Recommendations
 
 ### 13+ CONTENT (Safe for All)
-- **Historia powstania książki**
-- **Znaczenie kulturowe i wpływ na literaturę**
-- **Techniki pisarskie (stream of consciousness)**
-- **BookTok trendy i młodzieżowe połączenia**
-- **Analiza symboliki (kwiaty, czas, miasto)**
-- **Adaptacje filmowe i teatralne**
+- **Book creation history**
+- **Cultural significance and influence on literature**
+- **Writing techniques (stream of consciousness)**
+- **BookTok trends and youth connections**
+- **Symbolism analysis (flowers, time, city)**
+- **Film and theater adaptations**
 
-### 16+ CONTENT (Age Restriction Recommended)  
-- **Trauma wojenna i shell shock/PTSD**
-- **Problemy zdrowia psychicznego**
-- **Krytyka społeczna i systemu klasowego**
-- **Złożoność relacji międzyludzkich**
-- **Modernistyczna krytyka społeczeństwa**
+### 16+ CONTENT (Age Restriction Recommended)
+- **War trauma and shell shock/PTSD**
+- **Mental health issues**
+- **Social criticism and class system**
+- **Complexity of human relationships**
+- **Modernist critique of society**
 
 ### 18+ CONTENT (Adult Audiences Only)
-- **Szczegóły samobójstwa Septimusa Smitha**
-- **Rasistowskie i antysemickie aspekty biografii Woolf**
-- **Skandale osobiste autorki (molestowanie, blackface)**
-- **Kontrowersyjne interpretacje i teorie spiskowe**
-- **Problematyczne aspekty Bloomsbury Group**
+- **Details of Septimus Smith's suicide**
+- **Racist and antisemitic aspects of Woolf's biography**
+- **Author's personal scandals (molestation, blackface)**
+- **Controversial interpretations and conspiracy theories**
+- **Problematic aspects of Bloomsbury Group**
 
 ---
 
-## Content Warnings dla Słuchaczy
+## Content Warnings for Listeners
 
-### ⚠️ OSTRZEŻENIA WYMAGANE:
-1. **"Ta treść zawiera dyskusje o zdrowiu psychicznym i traumie wojennej"**
-2. **"Omawiamy historyczne konteksty, które mogą zawierać nieaktualne poglądy"**  
-3. **"Treść przeznaczona dla dojrzałych odbiorców ze względu na złożoną tematykę"**
-4. **"Zawiera odniesienia do samobójstwa - jeśli potrzebujesz pomocy, skontaktuj się z [lokalny numer pomocy]"**
+### ⚠️ REQUIRED WARNINGS:
+1. **"This content contains discussions of mental health and war trauma"**
+2. **"We discuss historical contexts that may contain outdated views"**
+3. **"Content intended for mature audiences due to complex themes"**
+4. **"Contains references to suicide - if you need help, contact [local helpline number]"**
 
 ### 🎯 ALTERNATIVE FRAMINGS:
-- **Zamiast:** "Woolf była rasistką"
-- **Lepiej:** "Woolf, jak wielu autorów jej epoki, reprezentowała problematyczne poglądy które dziś odrzucamy"
+- **Instead of:** "Woolf was racist"
+- **Better:** "Woolf, like many authors of her era, held problematic views that we reject today"
 
-- **Zamiast:** "Septimus popełnia samobójstwo"  
-- **Lepiej:** "Septimus, cierpiący na traumę wojenną, podejmuje tragiczną decyzję"
+- **Instead of:** "Septimus commits suicide"
+- **Better:** "Septimus, suffering from war trauma, makes a tragic decision"
 
 ---
 
-## Obszary Wymagające Szczególnej Ostrożności w Audio
+## Areas Requiring Special Caution in Audio
 
 ### 🚨 RED FLAGS:
-1. **Szczegółowe opisy samobójstwa** - wymagają clinical/educational framing
-2. **Cytaty rasistowskie Woolf** - konieczny kontekst historyczny i potępienie  
-3. **Romantyzacja chorób psychicznych** - balance między empatią a glorifikacją
-4. **Scandalous details** bez educational purpose
+1. **Detailed suicide descriptions** - require clinical/educational framing
+2. **Racist quotes from Woolf** - need historical context and condemnation
+3. **Romanticizing mental illness** - balance between empathy and glorification
+4. **Scandalous details** without educational purpose
 
-### ✅ BEZPIECZNE PODEJŚCIE:
-1. **"Książka eksploruje tematy zdrowia psychicznego z perspektywy 1925 roku"**
-2. **"Woolf pioniersko przedstawiła traumę wojenną, choć jej osobiste poglądy były produktem swojej epoki"**
-3. **"Dzieło pozostaje wartościowe mimo problemów związanych z autorką"**
-4. **"Analiza literacka pozwala nam zrozumieć zarówno geniusz, jak i ograniczenia epoki"**
-
----
-
-## Education-Friendly Sposoby Omówienia Trudnych Tematów
-
-### 💡 STRATEGIE EDUCATIONAL:
-
-#### ZDROWIE PSYCHICZNE:
-- **KONTEKST:** "1925 rok to początek nowoczesnego rozumienia traumy"
-- **POŁĄCZENIE:** "Septimus jako pierwszy literacki opis PTSD"  
-- **AKTUALIZACJA:** "Dziś mamy lepsze narzędzia pomocy"
-- **RESOURCES:** Link do organizacji pomocowych
-
-#### PROBLEMATYCZNE ASPEKTY AUTORKI:
-- **SEPARATION:** "Możemy doceniać dzieło krytykując autora"
-- **KONTEKST HISTORYCZNY:** "Produkty swojej epoki wymagają krytycznego podejścia"  
-- **LEARNING OPPORTUNITY:** "Co możemy się nauczyć z tych błędów?"
-
-#### SAMOBÓJSTWO W LITERATURZE:
-- **LITERARY ANALYSIS:** "Funkcja narracyjna vs gloryfikacja"
-- **HISTORICAL CONTEXT:** "Reprezentacja społecznych problemów epoki"
-- **PREVENTION FOCUS:** "Literatura jako przestrzeń do rozmowy o problemach"
+### ✅ SAFE APPROACH:
+1. **"The book explores mental health themes from a 1925 perspective"**
+2. **"Woolf pioneered war trauma representation, though her personal views were products of her era"**
+3. **"The work remains valuable despite problems related to the author"**
+4. **"Literary analysis allows us to understand both genius and limitations of the era"**
 
 ---
 
-## Checklistа Compliance dla Creatora
+## Education-Friendly Ways to Discuss Difficult Topics
+
+### 💡 EDUCATIONAL STRATEGIES:
+
+#### MENTAL HEALTH:
+- **CONTEXT:** "1925 was the beginning of modern trauma understanding"
+- **CONNECTION:** "Septimus as the first literary description of PTSD"
+- **UPDATE:** "Today we have better help tools"
+- **RESOURCES:** Link to support organizations
+
+#### PROBLEMATIC AUTHOR ASPECTS:
+- **SEPARATION:** "We can appreciate the work while criticizing the author"
+- **HISTORICAL CONTEXT:** "Products of their era require critical approach"
+- **LEARNING OPPORTUNITY:** "What can we learn from these mistakes?"
+
+#### SUICIDE IN LITERATURE:
+- **LITERARY ANALYSIS:** "Narrative function vs glorification"
+- **HISTORICAL CONTEXT:** "Representation of social problems of the era"
+- **PREVENTION FOCUS:** "Literature as space for discussing problems"
+
+---
+
+## Compliance Checklist for Creator
 
 ### PRE-PRODUCTION:
-- [ ] **Określ target audience** (13+/16+/18+)
-- [ ] **Wybierz właściwe platformy** dla specific content  
-- [ ] **Przygotuj alternative versions** dla różnych platform
-- [ ] **Sprawdź najnowsze platform policies** (aktualizowane co 3-6 miesięcy)
+- [ ] **Determine target audience** (13+/16+/18+)
+- [ ] **Choose appropriate platforms** for specific content
+- [ ] **Prepare alternative versions** for different platforms
+- [ ] **Check latest platform policies** (updated every 3-6 months)
 
 ### DURING PRODUCTION:
-- [ ] **Użyj content warnings** na początku
-- [ ] **Zbalansuj krytykę z edukacją** 
-- [ ] **Podaj resources** dla wrażliwych tematów
-- [ ] **Vlastna narracja** (nie automated)
-- [ ] **Educational framing** dla wszystkich controversial topics
+- [ ] **Use content warnings** at the beginning
+- [ ] **Balance criticism with education**
+- [ ] **Provide resources** for sensitive topics
+- [ ] **Own narration** (not automated)
+- [ ] **Educational framing** for all controversial topics
 
 ### POST-PRODUCTION:
-- [ ] **Age-appropriate thumbnails** i tytuły
-- [ ] **Description zawiera warnings** i context
-- [ ] **Hashtagi odpowiednie** do content ratings  
-- [ ] **Community guidelines check** przed publikacją
-- [ ] **Backup plans** gdyby treść została flagged
+- [ ] **Age-appropriate thumbnails** and titles
+- [ ] **Description contains warnings** and context
+- [ ] **Appropriate hashtags** for content ratings
+- [ ] **Community guidelines check** before publication
+- [ ] **Backup plans** if content gets flagged
 
 ---
 
-## Wnioski i Recomendacje Końcowe
+## Final Conclusions and Recommendations
 
-### ✅ GŁÓWNE ZALECENIA:
+### ✅ MAIN RECOMMENDATIONS:
 
-1. **"Mrs Dalloway" to względnie BEZPIECZNA książka** dla educational content na wszystkich platformach
+1. **"Mrs Dalloway" is relatively SAFE book** for educational content on all platforms
 
-2. **SPOTIFY i KICK** oferują najlepszą kombinację creative freedom + monetization potential
+2. **SPOTIFY and KICK** offer the best combination of creative freedom + monetization potential
 
-3. **FACEBOOK/INSTAGRAM** wymagają największej ostrożności ze względu na unpredictable moderation
+3. **FACEBOOK/INSTAGRAM** require the most caution due to unpredictable moderation
 
-4. **YOUTUBE i TIKTOK** są wykonalne z proper educational framing i original human narration
+4. **YOUTUBE and TIKTOK** are feasible with proper educational framing and original human narration
 
-5. **FOKUS na LITERACKĄ WARTOŚĆ** zamiast biographical controversies zapewnia najlepsze wyniki
+5. **FOCUS on LITERARY VALUE** instead of biographical controversies ensures best results
 
 ### 🎯 SUCCESS STRATEGY:
-- **Pozycjonuj jako CLASSIC LITERATURE education**
-- **Utilizz MODERNIST TECHNIQUES jako hook dla younger audiences**  
-- **Connect z BOOKTOK/DARK ACADEMIA trends**
-- **Maintain EDUCATIONAL INTEGRITY** przy interesting storytelling
-- **Provide VALUE** poprzez literary analysis i historical context
+- **Position as CLASSIC LITERATURE education**
+- **Utilize MODERNIST TECHNIQUES as hook for younger audiences**
+- **Connect with BOOKTOK/DARK ACADEMIA trends**
+- **Maintain EDUCATIONAL INTEGRITY** while providing interesting storytelling
+- **Provide VALUE** through literary analysis and historical context
 
-**BOTTOM LINE:** "Mrs Dalloway" ma ogromny potencjał edukacyjny i można z niej stworzyć engaging content na wszystkich platformach, pod warunkiem odpowiedniego approach do sensitive topics i compliance z platform-specific guidelines.
+**BOTTOM LINE:** "Mrs Dalloway" has enormous educational potential and can be used to create engaging content on all platforms, provided there's an appropriate approach to sensitive topics and compliance with platform-specific guidelines.
 
 ---
 
-**Dokument przygotowany w ramach projektu 37degrees**  
-**Agent:** Content Warnings Assessment  
-**Status:** KOMPLETNA OCENA  
-**Next Steps:** Ready for production z platform-specific adaptations
+**Document prepared as part of the 37degrees project**
+**Agent:** Content Warnings Assessment
+**Status:** COMPLETE ASSESSMENT
+**Next Steps:** Ready for production with platform-specific adaptations

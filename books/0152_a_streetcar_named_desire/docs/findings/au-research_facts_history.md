@@ -1,172 +1,172 @@
-# Historyczne Fakty i Okoliczności Powstania: "Tramwaj zwany pożądaniem" (1947)
+# Historical Facts and Creation Circumstances: "A Streetcar Named Desire" (1947)
 
-## 📋 Informacje podstawowe
-- **Tytuł oryginalny**: "A Streetcar Named Desire"
-- **Autor**: Tennessee Williams
-- **Rok wydania**: 1947
-- **Premiera**: 3 grudnia 1947, Ethel Barrymore Theatre, Broadway
-
----
-
-## 🎭 Historia Powstania Sztuki
-
-### **FAKT**: Początkowy tytuł brzmiał "The Poker Night"
-Williams pierwotnie nazwał swój manuskrypt "The Poker Night" i ukończył go 16 marca 1946 roku. Jego agent literacka Audrey Wood uznała, że tytuł brzmi zbyt jak tytuł powieści western i przekonała go do zmiany.
-
-### **FAKT**: Sztuka pisana była w Nowym Orleanie przy 632½ Saint Peter Street
-Williams mieszkał w apartamencie w Dzielnicy Francuskiej w Nowym Orleanie, gdy pisał "Tramwaj zwany pożądaniem" w latach 1946-1947. Mieszkał dokładnie pod adresem 632½ Saint Peter Street, w pobliżu Katedry św. Ludwika.
-
-### **FAKT**: Maszynopis powstał na maszynie do pisania, którą Williams podarował przyjaciółce w 1951
-Tennessee Williams podarował swoją maszynę do pisania bliskiej przyjaciółce Marii Britnevej (późniejszej Lady St. Just) w 1951 roku. Według St. Just, to była ta sama maszyna, na której napisał "Tramwaj zwany pożądaniem".
-
-### **FAKT**: Pierwotna wersja dotyczyła włoskiej rodziny
-Sztuka, rozpoczęta w 1945 roku, przeszła przez kilka zmian przed osiągnięciem ostatecznej formy. Początkowo scenariusz dotyczył włoskiej rodziny, do której później dodano irlandzkiego szwagra. Williams zmienił postacie na dwie południowoamerykańskie belle i Polaka-Amerykanina, aby podkreślić zderzenie kultur i klas.
+## 📋 Basic Information
+- **Original Title**: "A Streetcar Named Desire"
+- **Author**: Tennessee Williams
+- **Publication Year**: 1947
+- **Premiere**: December 3, 1947, Ethel Barrymore Theatre, Broadway
 
 ---
 
-## 🏠 Inspiracje Autobiograficzne
+## 🎭 History of the Play's Creation
 
-### **FAKT**: Rose Williams - siostra jako główna inspiracja dla Blanche DuBois
-Starsza siostra Tennessee'a Williamsa, Rose Isabel Williams (1909-1996), była zdiagnozowana ze schizofrenią jako młoda kobieta. 14 stycznia 1943 roku została poddana lobotomii i spędziła resztę życia - ponad pięć dekad - w instytucjach psychiatrycznych.
+### **FACT**: Original title was "The Poker Night"
+Williams originally titled his manuscript "The Poker Night" and completed it on March 16, 1946. His literary agent Audrey Wood felt the title sounded too much like a western novel title and convinced him to change it.
 
-### **FAKT**: Williams nigdy nie wybaczył sobie, że nie powstrzymał lobotomii siostry
-Tragiczne skutki leczenia Rose mogły przyczynić się do alkoholizmu Williamsa i jego uzależnienia od różnych kombinacji amfetamin i barbituranów. Williams bał się, że tak jak jego siostra Rose, popadnie w szaleństwo.
+### **FACT**: The play was written in New Orleans at 632½ Saint Peter Street
+Williams lived in an apartment in the French Quarter of New Orleans when he wrote "A Streetcar Named Desire" in 1946-1947. He lived precisely at 632½ Saint Peter Street, near St. Louis Cathedral.
 
-### **FAKT**: Pancho Rodriguez y Gonzales - burzliwy związek jako inspiracja
-Podczas pisania sztuki, Williams mieszkał z kochankiem Pancho Rodriguezem y Gonzalesem pod adresem 632½ Saint Peter Street. Ich związek był burzliwy i często wybuchały gwałtowne kłótnie słowne. Pancho później oskarżył Williamsa o celowe prowokowanie go, jakby badał jego zachowanie dla inspiracji.
+### **FACT**: The manuscript was typed on a typewriter Williams gave to a friend in 1951
+Tennessee Williams gave his typewriter to close friend Maria Britneva (later Lady St. Just) in 1951. According to St. Just, this was the same typewriter on which he wrote "A Streetcar Named Desire."
 
-### **FAKT**: Fabryczny współpracownik inspiracją dla Stanley'a Kowalskiego
-Wspomnienia z okresu pracy Williamsa w fabryce i konkretnego współpracownika przyczyniły się do stworzenia postaci Stanley'a Kowalskiego.
-
-### **FAKT**: Niechęć ojca do manier matki jako inspiracja
-Wstręt Stanley'a do uprzejmej i właściwej postawy Blanche prawdopodobnie został zainspirowany awersją ojca Williamsa do południowych manier jego matki.
+### **FACT**: The original version concerned an Italian family
+The play, begun in 1945, went through several changes before reaching its final form. Initially the script concerned an Italian family, to which an Irish brother-in-law was later added. Williams changed the characters to two Southern American belles and a Polish-American to emphasize the clash of cultures and classes.
 
 ---
 
-## 🎬 Produkcja Broadwayowska 1947
+## 🏠 Autobiographical Inspirations
 
-### **FAKT**: Marlon Brando miał 23 lata podczas castingu i podróżował autostopem
-Reżyser Elia Kazan dał Marlon Brando 20 dolarów na podróż do Provincetown na przesłuchanie u Williamsa. Zamiast zapłacić za transport, Brando ze swoją dziewczyną podróżowali autostopem. Aktor przybył kilka dni później, naprawił awarię hydrauliczną dla Williamsa, a następnie zachwycił dramaturga swoim czytaniem.
+### **FACT**: Rose Williams - sister as main inspiration for Blanche DuBois
+Tennessee Williams' older sister, Rose Isabel Williams (1909-1996), was diagnosed with schizophrenia as a young woman. On January 14, 1943, she underwent a lobotomy and spent the rest of her life - over five decades - in psychiatric institutions.
 
-### **FAKT**: Williams napisał o Brando: "Najlepsze czytanie, jakie kiedykolwiek słyszałem"
-Williams napisał do swojego agenta Wood: "Nowa wartość wyszła z czytania Brando, które było zdecydowanie najlepszym czytaniem, jakie kiedykolwiek słyszałem. Wydawało się, że już stworzył wymiarową postać, takiej jakiej wojna wprowadziła wśród młodych weteranów."
+### **FACT**: Williams never forgave himself for not preventing his sister's lobotomy
+The tragic consequences of Rose's treatment may have contributed to Williams' alcoholism and his addiction to various combinations of amphetamines and barbiturates. Williams feared that like his sister Rose, he would fall into madness.
 
-### **FAKT**: Jessica Tandy początkowo narzekała na przytłaczającą obecność Brando na scenie
-Obecność Brando na scenie była tak przytłaczająca, że niektórzy z jego kolegów z obsady narzekali, w tym Jessica Tandy, pierwsza Blanche. Na szczęście Kazan zignorował te skargi i pozwolił Brando robić swoje.
+### **FACT**: Pancho Rodriguez y Gonzales - turbulent relationship as inspiration
+While writing the play, Williams lived with his lover Pancho Rodriguez y Gonzales at 632½ Saint Peter Street. Their relationship was turbulent and violent verbal arguments often erupted. Pancho later accused Williams of deliberately provoking him, as if studying his behavior for inspiration.
 
-### **FAKT**: Williams wysłał Brando telegram w premierową noc
-W premierową noc Tennessee Williams wysłał Marlon Brando telegram, który brzmiał: "RIDE OUT BOY AND SEND IT SOLID."
+### **FACT**: Factory coworker as inspiration for Stanley Kowalski
+Memories from Williams' factory work period and a specific coworker contributed to the creation of Stanley Kowalski's character.
 
-### **FAKT**: 7-minutowa owacja na stojąco w premierę
-"Tramwaj zwany pożądaniem" miał premierę na Broadwayu 3 grudnia 1947 roku, otrzymując 7-minutową owację na stojąco. Kiedy kurtyna opadła w premierową noc, nastąpił moment oszołomionej ciszy, zanim tłum wybuchnął rundą oklasków, która trwała 30 minut.
-
----
-
-## 🚋 Prawdziwy Tramwaj "Desire"
-
-### **FAKT**: Linia tramwajowa Desire działała w latach 1920-1948
-Tytuł pochodzi od prawdziwej linii tramwajowej w Nowym Orleanie, która już nie istnieje. Linia Desire działała od 1920 do 1948 roku, w szczytowym okresie użytkowania tramwajów w Nowym Orleanie, biegnąc Royal Street przez Dzielnicę Francuską do Desire Street w dzielnicy Bywater.
-
-### **FAKT**: Williams słyszał ciągły huk tramwajów tylko pół kwartała od swojego mieszkania
-Williams słyszałby ciągły huk i brzęczenie elektrycznych wagonów kolejowych poruszających się w górę iw dół starej linii tramwajowej Desire, zaledwie pół kwartała od miejsca, ale w ciągu kilku krótkich lat między napisaniem sztuki a wydaniem filmu, linia tramwajowa Desire została zamknięta - autobusy zastąpiły tramwaje w 1948 roku.
-
-### **FAKT**: Tramwaj #922 użyty w filmie nadal jeździ
-Jeden z wagonów "Desire" został wycofany z emerytury przez ówczesnego burmistrza Morrisona dla kręcenia sceny otwierającej na stacji L&N u podnóża Canal Street. Do sceny otwierającej wybrano tramwaj #922 jako tramwaj, który wysadził Blanche, i od 2022 roku ten tramwaj nadal obsługuje linię tramwajową St. Charles.
+### **FACT**: Father's dislike of mother's manners as inspiration
+Stanley's disgust with Blanche's polite and proper attitude was probably inspired by Williams' father's aversion to his mother's Southern manners.
 
 ---
 
-## 🏆 Rekordy i Statystyki
+## 🎬 Broadway Production 1947
 
-### **FAKT**: 855 przedstawień na Broadwayu - najdłużej grająca sztuka Williamsa
-Oryginalna produkcja broadwayowska trwała przez 855 przedstawień i zamknęła się w 1949 roku, czyniąc ją najdłużej graną produkcją spośród wszystkich wielu sztuk Williamsa.
+### **FACT**: Marlon Brando was 23 during casting and hitchhiked to the audition
+Director Elia Kazan gave Marlon Brando $20 for travel to Provincetown for an audition with Williams. Instead of paying for transport, Brando and his girlfriend hitchhiked. The actor arrived a few days later, fixed a plumbing problem for Williams, and then enchanted the playwright with his reading.
 
-### **FAKT**: Film zarobił 4,25 miliona dolarów w 1951 roku
-Film z 1951 roku zarobił szacunkowo 4 250 000 dolarów w amerykańskich i kanadyjskich kinach, co czyniło go piątym największym hitem roku.
+### **FACT**: Williams wrote about Brando: "The best reading I have ever heard"
+Williams wrote to his agent Wood: "A new value came out of Brando's reading which was by far the best reading I have ever heard. He seemed to have already created a dimensional character, of the sort that the war has produced among young veterans."
 
-### **FAKT**: 12 nominacji do Oscara - rekord w kategorii aktorskiej
-Film otrzymał nominacje do Oscara w dziesięciu innych kategoriach (w tym Najlepszy Film, Najlepszy Reżyser i Najlepszy Scenariusz Adaptowany), z łącznie 12 nominacjami do Oscara. Wygrał w kategorii Najlepszy Aktor Drugoplanowy (Malden), Najlepsza Aktorka Drugoplanowa (Hunter) i Najlepsza Scenografia, stając się pierwszym filmem, który wygrał w trzech kategoriach aktorskich.
+### **FACT**: Jessica Tandy initially complained about Brando's overwhelming stage presence
+Brando's presence on stage was so overwhelming that some of his cast colleagues complained, including Jessica Tandy, the first Blanche. Fortunately, Kazan ignored these complaints and let Brando do his thing.
 
-### **FAKT**: Wznowienia 8 razy na Broadwayu
-Sztuka była wznawiana osiem razy na Broadwayu, ostatnio w 2012 roku. Jej popularność trwa na scenach społecznych i regionalnych w całym kraju.
+### **FACT**: Williams sent Brando a telegram on opening night
+On opening night, Tennessee Williams sent Marlon Brando a telegram that read: "RIDE OUT BOY AND SEND IT SOLID."
 
----
-
-## 🌍 Międzynarodowy Wpływ
-
-### **FAKT**: Pierwsze międzynarodowe produkcje już w 1948 roku
-Produkcje w Brazylii, Kubie i Meksyku zostały natychmiast wystawione w 1948 roku, a w ciągu 10 lat ważne produkcje pojawiły się w Grecji, Włoszech, Londynie, Paryżu, Szwecji, Japonii i Korei, a tłumaczenia na farsi i arabski zostały opublikowane.
-
-### **FAKT**: Pierwsza produkcja w Związku Radzieckim w 1970, w Chinach w 1988
-Pierwsza główna produkcja sowiecka miała premierę w 1970 roku, a 1988 rok przyniósł pierwsze przedstawienie sztuki w Chinach kontynentalnych.
-
-### **FAKT**: 97% rating na Rotten Tomatoes po 75 latach
-W 75 lat od swojej premiery, "Tramwaj zwany pożądaniem" pozostał częścią kulturalnej rozmowy z tłumaczeniami, adaptacjami lub oryginalnym tekstem wykonywanym na całym świecie. Film ma 97% rating na Rotten Tomatoes na podstawie 62 recenzji.
+### **FACT**: 7-minute standing ovation on opening night
+"A Streetcar Named Desire" premiered on Broadway on December 3, 1947, receiving a 7-minute standing ovation. When the curtain fell on opening night, there was a moment of stunned silence before the crowd erupted in a round of applause that lasted 30 minutes.
 
 ---
 
-## ⚖️ Cenzura i Kontrowersje
+## 🚋 The Real "Desire" Streetcar
 
-### **FAKT**: Trzy główne problemy cenzorskie w adaptacji filmowej
-Gdy Jack Warner zwrócił się o film w 1950 roku, cenzor przemysłowy Joseph Breen nakreślił trzy główne problemy w tłumaczeniu sztuki Williamsa na film: homoseksualizm Allana Graya, byłego męża Blanche; postrzegana nimfomania Blanche; oraz scena gwałtu na końcu sztuki.
+### **FACT**: The Desire streetcar line operated from 1920-1948
+The title comes from a real streetcar line in New Orleans that no longer exists. The Desire line operated from 1920 to 1948, during the heyday of streetcar use in New Orleans, running down Royal Street through the French Quarter to Desire Street in the Bywater neighborhood.
 
-### **FAKT**: Dodano scenę na końcu filmu z powodu cenzury
-Kiedy sztuka została zaadaptowana na film, perspektywa, że zakończenie zobaczy Stanley'a Kowalskiego bez żadnej kary za popełnioną zbrodnię, była zbyt surowa dla cenzorów filmowych. W związku z tym dodano krótką scenę na samym końcu filmu, w której Stella, złamana na widok siostry wywożonej, chwyta swoje nowo narodzone dziecko i mówi "nigdy nie wrócimy" - wskazując, że opuściłaby Stanley'a.
+### **FACT**: Williams heard the constant rumble of streetcars just half a block from his apartment
+Williams would have heard the constant rumble and clatter of electric streetcars moving up and down the old Desire streetcar line, just half a block away from his location, but within a few short years between writing the play and releasing the film, the Desire streetcar line was closed - buses replaced streetcars in 1948.
 
----
-
-## 🎨 Literackie Inspiracje
-
-### **FAKT**: Epigraf z wiersza Harta Crane'a "The Broken Tower"
-Epigraf do "Tramwaju zwanego pożądaniem" został zaczerpnięty z wiersza Harta Crane'a zatytułowanego "The Broken Tower". Crane był jedną z ikon Williamsa.
-
-### **FAKT**: Blanche Marvin jako inspiracja dla imienia głównej bohaterki
-Krytyczka teatralna i była aktorka Blanche Marvin, przyjaciółka Williamsa, twierdzi, że dramaturg użył jej imienia dla postaci Blanche DuBois, nazwał siostrę postaci Stella na cześć jej byłego nazwiska Zohar (które oznacza Gwiazda) i zaczerpnął z niej słynne zdanie sztuki "Zawsze polegałem na życzliwości obcych".
-
-### **FAKT**: Kwestia "I've always depended on the kindness of strangers" ma osobiste źródło
-Słynna końcowa kwestia Blanche została zainspirowana rzeczywistymi słowami, które Blanche Marvin powiedziała do Williamsa.
+### **FACT**: Streetcar #922 used in the film still operates today
+One of the "Desire" cars was brought out of retirement by then-Mayor Morrison for filming the opening scene at the L&N station at the foot of Canal Street. Streetcar #922 was chosen for the opening scene as the streetcar that dropped off Blanche, and as of 2022, that streetcar still operates on the St. Charles streetcar line.
 
 ---
 
-## 🎵 Zespół Produkcyjny
+## 🏆 Records and Statistics
 
-### **FAKT**: "Dream team" teatralny
-Produkcja przedstawiała teatralny "dream team", który obejmował reżysera Elię Kazana, scenografę Jo Mielzinera, kostiumy Lucindy Ballard i jazzową ścieżkę dźwiękową Alexa Northa.
+### **FACT**: 855 performances on Broadway - Williams' longest-running play
+The original Broadway production ran for 855 performances and closed in 1949, making it the longest-running production of all of Williams' many plays.
 
-### **FAKT**: Jessica Tandy otrzymała Tony Award w 1948
-Tandy otrzymała nagrodę Tony za najlepszą aktorkę w sztuce w 1948 roku, dzieląc honor z Judith Anderson i Katharine Cornell.
+### **FACT**: The film earned $4.25 million in 1951
+The 1951 film earned an estimated $4,250,000 in American and Canadian theaters, making it the fifth biggest hit of the year.
 
-### **FAKT**: Irene Mayer Selznick jako producentka
-Producentką była Irene Mayer Selznick - córka magnata filmowego Louisa B. Mayera i wkrótce była żona producenta Davida O. Selznicka. Selznick udowodniła się nie tylko inwestując własne pieniądze, ale także przekonując Elię Kazana, najbardziej pożądanego reżysera broadwayowskiego w tym czasie, do podjęcia się projektu.
+### **FACT**: 12 Oscar nominations - record in acting categories
+The film received Oscar nominations in ten other categories (including Best Picture, Best Director, and Best Adapted Screenplay), with a total of 12 Oscar nominations. It won for Best Supporting Actor (Malden), Best Supporting Actress (Hunter), and Best Art Direction, becoming the first film to win in three acting categories.
 
----
-
-## 🏅 Nagrody i Uznanie
-
-### **FAKT**: Podwójne zwycięstwo - Pulitzer i Critics' Circle Award
-Sztuka zdobyła Nagrodę Pulitzera za dramat w 1948 roku oraz nagrodę New York Drama Critics' Circle Award za najlepszą sztukę.
-
-### **FAKT**: AFI umieściło film na 47. miejscu najlepszych filmów wszech czasów
-American Film Institute (AFI) umieszcza ścieżkę dźwiękową Tramwaju na 19. miejscu na liście najlepszych ścieżek dźwiękowych filmowych wszech czasów, a sam film AFI umieszcza na 47. miejscu na liście 100 najlepszych filmów wszech czasów.
-
-### **FAKT**: Wybrano do National Film Registry w 1999
-W 1999 roku "Tramwaj zwany pożądaniem" został wybrany do zachowania w United States National Film Registry przez Library of Congress jako "znaczący kulturowo, historycznie lub estetycznie".
+### **FACT**: Revived 8 times on Broadway
+The play has been revived eight times on Broadway, most recently in 2012. Its popularity continues on community and regional stages across the country.
 
 ---
 
-## 📚 Ciekawostki i Anegdoty
+## 🌍 International Impact
 
-### **PLOTKA**: Pablo Gonzales wzorowany na Pancho Rodriguezze
-Niektórzy badacze podejrzewają, że postać Pablo Gonzalesa (jednego z kolegów Stanley'a Kowalskiego w pokerze) została wzorowana na Pancho, podczas gdy inni widzą ślady Pancho w samym Stanleyu.
+### **FACT**: First international productions already in 1948
+Productions in Brazil, Cuba, and Mexico were immediately staged in 1948, and within 10 years major productions appeared in Greece, Italy, London, Paris, Sweden, Japan, and Korea, with translations into Farsi and Arabic published.
 
-### **FAKT**: Alegoryczna podróż tramwajami przez Nowy Orlean
-Trasa Blanche w sztuce - "Powiedzieli mi, żebym wsiadła do tramwaju zwanego Desire, przesiadła się do jednego zwanego Cemeteries i jechała sześć bloków i wysiadła na - Elysian Fields!" - jest alegoryczna, wykorzystując kolorowe nazwy ulic Nowego Orleanu.
+### **FACT**: First production in Soviet Union in 1970, in China in 1988
+The first major Soviet production premiered in 1970, and 1988 brought the first performance of the play in mainland China.
 
-### **FAKT**: Williams nazywał Nowy Orlean swoim "duchowym domem"
-Williams nazywał Nowy Orlean swoim "duchowym domem" i wynajął apartament przy 632 St. Peter Street w Dzielnicy Francuskiej, którego lokalizacja w pobliżu Katedry św. Ludwika i linii tramwajowej Desire została wpleciona w sztukę.
-
-### **FAKT**: Film otworzył drzwi dla adaptacji literackich w Hollywood
-Adaptacja filmowa wykazała, że istnieje rynek na filmy literackie o tematyce dla dorosłych, otwierając drzwi dla wielu najbardziej znaczących produkcji następnych dwóch dekad, w tym adaptacji prac scenicznych nie tylko Williamsa, ale także Sama Sheparda, Arthura Millera, Williama Inge'a, Neila Simona, Edwarda Albee i innych.
+### **FACT**: 97% rating on Rotten Tomatoes after 75 years
+75 years after its premiere, "A Streetcar Named Desire" has remained part of cultural conversation with translations, adaptations, or the original text performed worldwide. The film has a 97% rating on Rotten Tomatoes based on 62 reviews.
 
 ---
 
-*Dokument przygotowany na podstawie badań historycznych i biograficznych - łączna liczba faktów: 47*
+## ⚖️ Censorship and Controversies
+
+### **FACT**: Three major censorship problems in film adaptation
+When Jack Warner approached for a film in 1950, industry censor Joseph Breen outlined three major problems in translating Williams' play to film: the homosexuality of Allan Gray, Blanche's former husband; Blanche's perceived nymphomania; and the rape scene at the end of the play.
+
+### **FACT**: A scene was added at the end of the film due to censorship
+When the play was adapted for film, the prospect of the ending seeing Stanley Kowalski without any punishment for his crime was too harsh for film censors. Therefore, a short scene was added at the very end of the film in which Stella, broken at the sight of her sister being taken away, grabs her newborn child and says "we're never going back" - indicating she would leave Stanley.
+
+---
+
+## 🎨 Literary Inspirations
+
+### **FACT**: Epigraph from Hart Crane's poem "The Broken Tower"
+The epigraph to "A Streetcar Named Desire" was taken from Hart Crane's poem titled "The Broken Tower". Crane was one of Williams' icons.
+
+### **FACT**: Blanche Marvin as inspiration for the main character's name
+Theatre critic and former actress Blanche Marvin, a friend of Williams, claims that the playwright used her name for the character Blanche DuBois, named the character's sister Stella in honor of her former surname Zohar (which means Star) and borrowed from her the play's famous line "I have always depended on the kindness of strangers."
+
+### **FACT**: The line "I've always depended on the kindness of strangers" has a personal source
+Blanche's famous final line was inspired by actual words that Blanche Marvin said to Williams.
+
+---
+
+## 🎵 Production Team
+
+### **FACT**: Theatrical "dream team"
+The production featured a theatrical "dream team" that included director Elia Kazan, set designer Jo Mielziner, costumes by Lucinda Ballard, and jazz soundtrack by Alex North.
+
+### **FACT**: Jessica Tandy received Tony Award in 1948
+Tandy received the Tony Award for Best Actress in a Play in 1948, sharing the honor with Judith Anderson and Katharine Cornell.
+
+### **FACT**: Irene Mayer Selznick as producer
+The producer was Irene Mayer Selznick - daughter of film mogul Louis B. Mayer and soon-to-be former wife of producer David O. Selznick. Selznick proved herself not only by investing her own money, but also by convincing Elia Kazan, the most sought-after Broadway director at the time, to take on the project.
+
+---
+
+## 🏅 Awards and Recognition
+
+### **FACT**: Double victory - Pulitzer and Critics' Circle Award
+The play won the Pulitzer Prize for Drama in 1948 and the New York Drama Critics' Circle Award for Best Play.
+
+### **FACT**: AFI placed the film at 47th place among the best films of all time
+The American Film Institute (AFI) places Streetcar's soundtrack at 19th place on the list of the best film soundtracks of all time, while AFI places the film itself at 47th place on the list of the 100 best films of all time.
+
+### **FACT**: Selected for National Film Registry in 1999
+In 1999, "A Streetcar Named Desire" was selected for preservation in the United States National Film Registry by the Library of Congress as "culturally, historically, or aesthetically significant."
+
+---
+
+## 📚 Trivia and Anecdotes
+
+### **RUMOR**: Pablo Gonzales modeled on Pancho Rodriguez
+Some scholars suspect that the character of Pablo Gonzales (one of Stanley Kowalski's poker colleagues) was modeled on Pancho, while others see traces of Pancho in Stanley himself.
+
+### **FACT**: Allegorical streetcar journey through New Orleans
+Blanche's route in the play - "They told me to take a streetcar named Desire, and transfer to one called Cemeteries and ride six blocks and get off at - Elysian Fields!" - is allegorical, using the colorful street names of New Orleans.
+
+### **FACT**: Williams called New Orleans his "spiritual home"
+Williams called New Orleans his "spiritual home" and rented an apartment at 632 St. Peter Street in the French Quarter, whose location near St. Louis Cathedral and the Desire streetcar line was woven into the play.
+
+### **FACT**: The film opened doors for literary adaptations in Hollywood
+The film adaptation demonstrated that there was a market for adult-themed literary films, opening doors for many of the most significant productions of the next two decades, including adaptations of stage works not only by Williams, but also Sam Shepard, Arthur Miller, William Inge, Neil Simon, Edward Albee and others.
+
+---
+
+*Document prepared based on historical and biographical research - total number of facts: 47*

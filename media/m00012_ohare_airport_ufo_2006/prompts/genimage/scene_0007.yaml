@@ -1,0 +1,103 @@
+sceneDescription:
+  setting:
+    time: November 7, 2006, 4:21 PM CST, late afternoon
+    location: Gate C-17 area, Chicago O'Hare International Airport, view of sky above
+    weather: Overcast, solid grey cloud layer at 1,900 feet with perfect circular opening
+  characters:
+  - appearance: Male worker, 20s-30s, medium build, focused expression
+    clothing: Grey or navy work uniform, United Airlines patches, high-visibility safety vest, work boots, tool belt
+    position: Standing on tarmac, head tilted back
+    action: Staring in amazement at circular hole in clouds above
+  - appearance: Male mechanic, 40s, stocky build, experienced look
+    clothing: Work coveralls with UA maintenance division patches, tool belt with various instruments, safety shoes
+    position: Next to ground equipment, tools forgotten
+    action: Pointing at cloud opening while speaking to colleague
+  scene:
+    mainElements: Perfect circular hole in uniform grey cloud layer at 1,900 feet altitude, approximately 20-30 feet diameter
+      opening revealing blue sky above, clearly defined edges with no ragged tears
+    details: Hole appears precisely cut through solid overcast layer, edges sharp and geometric, contrast between grey clouds
+      and blue sky visible through opening, no object visible in clear space above clouds, opening beginning to show slight
+      movement as edges start gradual closure process
+    background: Uniform grey cloud ceiling extending in all directions except for perfect circular breach, Terminal 3 building
+      and other airport infrastructure below, aircraft and equipment providing scale reference for cloud height
+    atmosphere: Aftermath of impossible event, physical evidence of object's passage through clouds, witnesses observing proof
+      of extraordinary phenomenon, eerie precision of circular opening defying natural cloud formation, no text or letters
+      visible
+  composition:
+    cameraAngle: Wide shot from ground level looking up at cloud layer
+    focus: Perfect circular hole in grey cloud layer with blue sky visible through opening
+    depth: 'Foreground: ground crew and equipment, middle ground: airport infrastructure, background: cloud layer with circular
+      breach'
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

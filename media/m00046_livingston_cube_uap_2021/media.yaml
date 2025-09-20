@@ -1,0 +1,15 @@
+media_info:
+  title: Livingston Cube UAP - October 5, 2021
+  author: UAP Documentation
+  year: 2021
+  genre: Modern UAP Documentary
+  description: A UAP with cube-like shape and "arm light" appendages spotted over
+    Edinburgh flight path, representing new generation of unidentified phenomena
+  target_audience: General public, students, UAP researchers, aviation safety enthusiasts
+  duration: ~3 minutes
+  objective: Examine recent UAP encounters that use modern terminology and represent
+    the evolution from UFO to UAP reporting
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

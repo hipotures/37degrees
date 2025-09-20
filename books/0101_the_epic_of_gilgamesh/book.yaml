@@ -4,3 +4,182 @@ book_info:
   author: "Anonymous"
   year: c. 18th century BC
   genre: "Epic,Poetry"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-19T12:30:00+02:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 10
+    structural_complexity: 7
+    social_roles: 8
+    total: 69
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.0
+      category: high
+    heat:
+      value: 8.2
+      category: high
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Archaeological scandals: $1.7M stolen Gilgamesh tablet recovered in 2021, international antiquities trafficking with forged documents"
+        source: "dark_drama"
+      - id: "dark_drama_1"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Conspiracy theories link Gilgamesh to Anunnaki aliens, Nephilim DNA, and claims of digital resurrection through AI"
+        source: "dark_drama"
+      - id: "symbols_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "35+ interpretive layers: Jungian shadow integration, archetypal patterns, ecological consciousness, existential themes"
+        source: "symbols_meanings"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Water symbolism represents psychological transformation and collective unconscious processes"
+        source: "symbols_meanings"
+      - id: "culture_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "50+ adaptations across media: opera, anime (Fate series), films, theater, video games spanning 4000 years"
+        source: "culture_impact"
+      - id: "youth_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Gaming culture gateway: Fate/Grand Order with millions of players introduces ancient literature to Gen Z"
+        source: "youth_digital"
+      - id: "reality_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Prophetic accuracy: transhumanism obsession, toxic masculinity crisis, ecological catastrophe predictions"
+        source: "reality_wisdom"
+      - id: "innovation_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Literary firsts: dual protagonism, frame narrative, psychological character development, buddy story prototype"
+        source: "writing_innovation"
+
+    localized:
+      en:
+        cultural_impact: "Foundational influence on English epic tradition, from Homer to Tolkien's fantasy literature"
+        key_editions: ["Oxford University Press (Andrew George)", "Norton Critical Edition", "Penguin Classics (Sandars)"]
+        reception_notes: "Academic centerpiece at Yale, Oxford, Harvard with extensive scholarly tradition"
+        educational_status: "Staple of American world literature curricula, widely taught in universities"
+        local_themes: ["Epic literature foundation", "Fantasy archetype prototype", "Mortality discourse"]
+
+      pl:
+        cultural_impact: "Present in Polish education as world literature canon, translations by Antoni Lange and Robert Stiller"
+        key_editions: ["PIW editions", "Academic translations", "School curriculum versions"]
+        reception_notes: "Integrated into Polish literary education system"
+        educational_status: "Part of comparative literature studies in Polish schools"
+        local_themes: ["Universal human condition", "Ancient wisdom relevance", "Mythological foundations"]
+
+      de:
+        cultural_impact: "German archaeological tradition crucial to discovery and interpretation of cuneiform tablets"
+        key_editions: ["German scholarly editions", "Assyriological research publications"]
+        reception_notes: "Strong academic tradition in Mesopotamian studies"
+        educational_status: "Taught in classical studies and ancient literature programs"
+        local_themes: ["Archaeological heritage", "Philological analysis", "Comparative mythology"]
+
+      fr:
+        cultural_impact: "French scholarly contributions to Mesopotamian studies and literary analysis"
+        key_editions: ["French academic translations", "Critical scholarly editions"]
+        reception_notes: "Part of comparative literature studies in French universities"
+        educational_status: "Included in world literature and ancient studies curricula"
+        local_themes: ["Literary evolution", "Anthropological perspectives", "Cultural archaeology"]
+
+      es:
+        cultural_impact: "Spanish translations and scholarly works contribute to Iberian understanding of ancient literature"
+        key_editions: ["Spanish academic translations", "Educational editions"]
+        reception_notes: "Integrated into Spanish university world literature programs"
+        educational_status: "Part of classical studies and comparative literature"
+        local_themes: ["Universal epic traditions", "Ancient cultural wisdom", "Literary archetypes"]
+
+      pt:
+        cultural_impact: "Portuguese academic interest in ancient Mesopotamian literature and world epic traditions"
+        key_editions: ["Portuguese translations", "Academic study editions"]
+        reception_notes: "Part of world literature studies in Portuguese universities"
+        educational_status: "Included in classical and comparative literature programs"
+        local_themes: ["Global literary heritage", "Ancient narrative techniques", "Universal themes"]
+
+      ja:
+        cultural_impact: "Massive cultural influence through anime and manga, particularly Fate series adaptations"
+        key_editions: ["Japanese scholarly translations", "Popular culture adaptations"]
+        reception_notes: "Major presence in otaku culture and gaming through Fate/Grand Order"
+        educational_status: "Studied in comparative literature and cultural studies"
+        local_themes: ["Manga/anime adaptations", "Gaming culture integration", "Ancient hero archetypes"]
+
+      ko:
+        cultural_impact: "Korean interest in ancient literature and connections to gaming culture through global franchises"
+        key_editions: ["Korean translations", "Academic study materials"]
+        reception_notes: "Growing interest through global gaming and pop culture"
+        educational_status: "Part of world literature and ancient studies programs"
+        local_themes: ["Global cultural heritage", "Gaming culture connections", "Ancient wisdom traditions"]
+
+      hi:
+        cultural_impact: "Connections to Indian epic traditions (Mahabharata, Ramayana) in comparative literature studies"
+        key_editions: ["Hindi translations", "Comparative epic studies"]
+        reception_notes: "Studied alongside Indian epic literature for comparative analysis"
+        educational_status: "Part of comparative literature and ancient studies"
+        local_themes: ["Epic literature parallels", "Ancient wisdom traditions", "Cross-cultural mythology"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "thesis"
+          lead: "host_a"
+          description: "Archaeological scandals: $1.7M stolen Gilgamesh tablet recovered in 2021, international antiquities trafficking"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "analysis"
+          lead: "host_b"
+          description: "35+ interpretive layers: Jungian shadow integration, archetypal patterns, ecological consciousness"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "examples"
+          lead: "host_a"
+          description: "Water symbolism represents psychological transformation and collective unconscious processes"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "synthesis"
+          lead: "host_b"
+          description: "50+ adaptations across media: opera, anime (Fate series), films, theater spanning 4000 years"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "synthesis"
+          lead: "host_a"
+          description: "Literary firsts: dual protagonism, frame narrative, psychological character development"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'The Epic of Gilgamesh' with scholarly depth. Discuss structure, symbolism, literary techniques. Academic but accessible. Focus on: Archaeological scandals worth millions of dollars, 35+ interpretive layers including Jungian psychology, and its status as world's first epic literature with foundational innovations."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility. Help explain how this 4000-year-old work predicted modern crises and continues influencing everything from anime to transhumanism debates."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "sexual content references", "colonial/racist content discussion"]
+    educational_elements: ["Epic,Poetry genre characteristics", "Historical context of c. 18th century BC", "Archaeological scandals worth millions of dollars", "35+ interpretive layers including Jungian psychology", "50+ cultural adaptations across 4000 years"]
+    production_notes:
+      intro_style: "Epic scope opening with ancient cuneiform tablet discovery"
+      transitions: "subtle musical bridges"
+      outro_style: "Academic conclusion emphasizing literary legacy"
+
+  overall_confidence: 0.93

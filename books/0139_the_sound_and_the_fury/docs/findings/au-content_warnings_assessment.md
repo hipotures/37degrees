@@ -1,261 +1,261 @@
-# Ocena Zgodności z Zasadami Platform: "Wściekłość i wrzask" (The Sound and the Fury)
+# Platform Compliance Assessment: "The Sound and the Fury"
 
-## Podstawowe Informacje
-- **Tytuł**: The Sound and the Fury / Wściekłość i wrzask
-- **Autor**: William Faulkner  
-- **Rok publikacji**: 1929
-- **Status**: Arcydzieło literatury modernistycznej
-- **Data oceny**: 2025-09-03
+## Basic Information
+- **Title**: The Sound and the Fury
+- **Author**: William Faulkner
+- **Publication Year**: 1929
+- **Status**: Modernist literary masterpiece
+- **Assessment Date**: 2025-09-20
 
 ## Executive Summary
 
-Na podstawie analizy 8 dokumentów researchu specjalistycznego i aktualnych wytycznych platform społecznościowych na 2025 rok, "Wściekłość i wrzask" wymaga **ŚREDNIEGO do WYSOKIEGO poziomu ostrożności** przy tworzeniu treści audio. Główne obszary ryzyka obejmują reprezentację niepełnosprawności, problemy zdrowia psychicznego oraz kontrowersyjne poglądy autora na kwestie rasowe.
+Based on analysis of 8 specialist research documents and current social media platform guidelines for 2025, "The Sound and the Fury" requires **MEDIUM to HIGH caution level** when creating audio content. Primary risk areas include disability representation, mental health issues, and the author's controversial racial views.
 
-## Matrix Problematycznych Tematów vs Platformy
+## Problematic Topics vs Platform Matrix
 
 | Problem Content | Facebook | YouTube | Instagram | TikTok | Spotify | Kick |
 |-----------------|----------|---------|-----------|---------|---------|------|
-| **Reprezentacja niepełnosprawności** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Problemy zdrowia psychicznego** | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Kontrowersyjne poglądy rasowe autora** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW |
-| **Samobójstwo (Quentin)** | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM |
-| **Skandale osobiste autora** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW |
-| **Dysfunkcja rodzinna** | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
-| **Trudność lektury** | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Disability representation** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Mental health issues** | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Author's controversial racial views** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW |
+| **Suicide (Quentin)** | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM |
+| **Author's personal scandals** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW |
+| **Family dysfunction** | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
+| **Reading difficulty** | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
 
-## Szczegółowa Analiza Problemowych Treści
+## Detailed Analysis of Problematic Content
 
-### 1. Reprezentacja Niepełnosprawności - 🔴 WYSOKIE RYZYKO
+### 1. Disability Representation - 🔴 HIGH RISK
 
-**Problematyczne elementy:**
-- Benjy nazywany "idiotą" i "świrem" w tekście
-- Przestarzałe i obraźliwe określenia z 1929 roku
-- Potencjalne naruszenie policies dotyczących hate speech
+**Problematic elements:**
+- Benjy referred to as "idiot" and "simpleton" in the text
+- Outdated and offensive terminology from 1929
+- Potential violation of hate speech policies
 
-**Specyfika platform:**
-- **Facebook/Instagram**: Nowe liberalne zasady hate speech mogą być nieprzewidywalne
-- **YouTube**: Wymaga edukacyjnego kontekstu i content warnings
-- **TikTok**: Może zostać usunięte bez wyjaśnienia
-- **Spotify/Kick**: Większa tolerancja z odpowiednim framingiem
+**Platform specifics:**
+- **Facebook/Instagram**: New liberalized hate speech rules may be unpredictable
+- **YouTube**: Requires educational context and content warnings
+- **TikTok**: May be removed without explanation
+- **Spotify/Kick**: Greater tolerance with appropriate framing
 
 **Mitigation strategies:**
-- Użycie współczesnej terminologii (neurodivergencja, spektrum autyzmu)
-- Kontekst historyczny i ewolucja świadomości
-- Podkreślenie humanizacji postaci mimo przestarzałego języka
+- Use contemporary terminology (neurodivergence, autism spectrum)
+- Historical context and awareness evolution
+- Emphasize character humanization despite outdated language
 
-### 2. Problemy Zdrowia Psychicznego - 🟡 ŚREDNIE RYZYKO
+### 2. Mental Health Issues - 🟡 MEDIUM RISK
 
-**Potencjalne problemy:**
-- Depresja i myśli samobójcze Quentina
-- Alkoholizm w rodzinie Faulknerów
-- Reprezentacja chorób umysłowych z 1929 roku
+**Potential problems:**
+- Quentin's depression and suicidal thoughts
+- Alcoholism in the Faulkner family
+- 1929-era representation of mental illness
 
-**Bezpieczne podejścia:**
-- Edukacyjny kontekst mental health awareness
-- Współczesne rozumienie depresji i traumy
-- Resource sharing dla osób potrzebujących pomocy
+**Safe approaches:**
+- Educational context for mental health awareness
+- Contemporary understanding of depression and trauma
+- Resource sharing for those needing help
 
-### 3. Kontrowersje Rasowe i Poglądy Autora - 🔴 WYSOKIE RYZYKO
+### 3. Racial Controversies and Author's Views - 🔴 HIGH RISK
 
-**Problematyczne elementy z researchu:**
-- Faulkner używał obraźliwego słowa "n*gger" w wypowiedziach
-- Podejście "idźcie powoli" do integracji rasowej
-- Problematyczna prognoza "wybielania się rasy"
+**Problematic elements from research:**
+- Faulkner used the offensive n-word in statements
+- "Go slow" approach to racial integration
+- Problematic prediction of race "whitening"
 
 **Platform-specific risks:**
-- **Meta platforms**: Nowe zasady hate speech są nieprzewidywalne
-- **YouTube**: Wymaga bardzo ostrożnego educational framingu
-- **TikTok**: Wysokie ryzyko usunięcia bez ostrzeżenia
+- **Meta platforms**: New hate speech rules are unpredictable
+- **YouTube**: Requires very careful educational framing
+- **TikTok**: High risk of removal without warning
 
 **Recommended approach:**
-- Fokus na dziele literackim, nie biografii autora
-- Kontekst historyczny epoki
-- Oddzielenie wartości artystycznej od poglądów autora
+- Focus on literary work, not author biography
+- Historical context of the era
+- Separate artistic value from author's views
 
-### 4. Skandale Osobiste Autora - 🟡-🔴 ŚREDNIE DO WYSOKIEGO RYZYKO
+### 4. Author's Personal Scandals - 🟡-🔴 MEDIUM TO HIGH RISK
 
-**Problematyczne aspekty:**
-- Alkoholizm i incydenty dyplomatyczne
-- Pozamałżeńskie romanse
-- Problematyczne wypowiedzi publiczne
+**Problematic aspects:**
+- Alcoholism and diplomatic incidents
+- Extramarital affairs
+- Problematic public statements
 
 **Platform strategy:**
-- Skupienie na dziele, nie na skandalach
+- Focus on work, not scandals
 - Minimal biographical coverage
 - Educational focus on literary techniques
 
 ## Age Classification Recommendations
 
-### 13+ Content (SAFE dla młodszej publiczności)
-✅ **Można bezpiecznie omawiać:**
-- Techniki literackie (strumień świadomości)
-- Strukturę narracyjną i innowacje
-- Wpływ na literaturę światową
-- Podstawowe info o fabule
-- Znaczenie w kanonie literatury
+### 13+ Content (SAFE for younger audiences)
+✅ **Can safely discuss:**
+- Literary techniques (stream of consciousness)
+- Narrative structure and innovations
+- Impact on world literature
+- Basic plot information
+- Significance in literary canon
 
-### 16+ Content (AGE-RESTRICT zalecane)
-⚠️ **Wymaga ostrożności:**
-- Szczegóły dotyczące problemów psychicznych postaci
-- Dysfunkcja rodzinna i jej wpływ na dzieci
-- Kontekst historyczny Amerykańskiego Południa
-- Trudności interpretacyjne i znaczenia symboliczne
+### 16+ Content (AGE-RESTRICT recommended)
+⚠️ **Requires caution:**
+- Details about characters' mental health issues
+- Family dysfunction and its impact on children
+- Historical context of the American South
+- Interpretive difficulties and symbolic meanings
 
 ### 18+ Content (ADULT-ONLY)
-🔴 **Tylko dla dorosłej publiczności:**
-- Szczegółowy kontekst skandali Faulknera
-- Problematyczne wypowiedzi rasowe autora
-- Głębokie analizy reprezentacji niepełnosprawności
-- Kontrowersyjne aspekty biograficzne
+🔴 **Adult audiences only:**
+- Detailed context of Faulkner's scandals
+- Author's problematic racial statements
+- Deep analysis of disability representation
+- Controversial biographical aspects
 
 ## Platform-Specific Recommendations
 
 ### Facebook/Meta Platforms (🔴 HIGH RISK)
 **AVOID:**
-- Jakiekolwiek cytaty zawierające przestarzałe określenia niepełnosprawności
-- Biograficzne detale o skandalach Faulknera
-- Kontrowersyjne wypowiedzi rasowe
+- Any quotes containing outdated disability terms
+- Biographical details about Faulkner's scandals
+- Controversial racial statements
 
 **RECOMMENDED:**
-- Fokus na wartości edukacyjnej dzieła
-- Współczesne interpretacje psychologiczne
-- Pozytywne aspekty wpływu kulturowego
+- Focus on educational value of the work
+- Contemporary psychological interpretations
+- Positive aspects of cultural impact
 
 ### YouTube (🟡 MEDIUM RISK)
 **REQUIRED:**
-- Human narration (nie text-to-speech)
-- Educational framing dla wszystkich treści
-- Content warnings na początku
-- Dodanie wartości przez komentarz i analizę
+- Human narration (not text-to-speech)
+- Educational framing for all content
+- Content warnings at the beginning
+- Adding value through commentary and analysis
 
 **SAFE TOPICS:**
-- Analiza technik narracyjnych
-- Wpływ na innych pisarzy
-- Znaczenie w literaturze światowej
+- Analysis of narrative techniques
+- Influence on other writers
+- Significance in world literature
 
 ### Instagram (🔴 HIGH RISK)
 **STRATEGY:**
-- Visual storytelling o pozytywnych aspektach
-- Stories z educational content
-- Unikanie kontrowersyjnych tematów biograficznych
-- Focus on creativity i artistic innovation
+- Visual storytelling about positive aspects
+- Stories with educational content
+- Avoid controversial biographical topics
+- Focus on creativity and artistic innovation
 
 ### TikTok (🟡 MEDIUM RISK)
 **REQUIREMENTS:**
-- Minimum 1 minuta dla monetizacji
-- Original commentary wymagane
-- Educational framing obowiązkowe
+- Minimum 1 minute for monetization
+- Original commentary required
+- Educational framing mandatory
 - Avoid controversial author details
 
 **SAFE CONTENT:**
-- "Literatura hacks" - jak czytać trudne księgi
+- "Literature hacks" - how to read difficult books
 - Modernist techniques explained
 - Cultural impact stories
 
 ### Spotify (🟢 LOW RISK)
 **ADVANTAGES:**
-- Największa tolerancja dla educational content
-- Możliwość głębszej analizy w audio format
-- Educational framing naturalnie akceptowany
+- Greatest tolerance for educational content
+- Ability for deeper analysis in audio format
+- Educational framing naturally accepted
 
 **RECOMMENDATIONS:**
-- Video podcast format dla lepszej monetizacji
+- Video podcast format for better monetization
 - No copyrighted audiobook clips
-- Original analysis i commentary
+- Original analysis and commentary
 
 ### Kick (🟢 LOW RISK)
 **BEST PLATFORM FOR COMPLEX TOPICS:**
-- Największa swoboda wypowiedzi
+- Greatest freedom of speech
 - 95/5 revenue split
-- Community-driven discussions możliwe
-- Educational streams akceptowane
+- Community-driven discussions possible
+- Educational streams accepted
 
-## Content Warnings dla Słuchaczy
+## Content Warnings for Listeners
 
 ### Standard Disclaimer Template:
-> "Dzisiejszy odcinek omawia klasyczne dzieło literatury z 1929 roku. Książka powstała w innej epoce i zawiera przestarzałe określenia dotyczące niepełnosprawności oraz problematyczne przedstawienia niektórych grup. Omawiamy je w kontekście edukacyjnym i historycznym."
+> "Today's episode discusses a classic work of literature from 1929. The book was written in a different era and contains outdated terms regarding disability and problematic representations of certain groups. We discuss them in educational and historical context."
 
 ### Specific Warnings:
 
 **Mental Health Warning:**
-> "Omawiamy tematy depresji, myśli samobójczych i problemów zdrowia psychicznego. Jeśli potrzebujesz pomocy, znajdziesz linki do organizacji wsparcia w opisie."
+> "We discuss themes of depression, suicidal thoughts, and mental health issues. If you need help, you'll find links to support organizations in the description."
 
 **Historical Context Warning:**
-> "Autor miał kontrowersyjne poglądy typowe dla swojej epoki. Omawiamy dzieło jako dokument historyczny i przykład ewolucji świadomości społecznej."
+> "The author held controversial views typical of his era. We discuss the work as a historical document and example of evolving social consciousness."
 
 **Complexity Warning:**
-> "To jedna z najtrudniejszych książek w literaturze światowej. Nie martw się, jeśli nie wszystko zrozumiesz - to normalne!"
+> "This is one of the most difficult books in world literature. Don't worry if you don't understand everything - that's normal!"
 
-## Education-Friendly Approaches dla Trudnych Tematów
+## Education-Friendly Approaches for Difficult Topics
 
-### 1. Reprezentacja Niepełnosprawności
-**Problematyczne:** "Benjy to idiota"
-**Education-friendly:** "Benjy to postać neurodivergentna, której Faulkner nadał głos narracyjny - rewolucyjne podejście na 1929 rok, choć używał ówczesnej, dziś nieakceptowalnej terminologii"
+### 1. Disability Representation
+**Problematic:** "Benjy is an idiot"
+**Education-friendly:** "Benjy is a neurodivergent character whom Faulkner gave a narrative voice - a revolutionary approach for 1929, though he used terminology that is unacceptable today"
 
-### 2. Kwestie Rasowe
-**Problematyczne:** Cytowanie rasistowskich wypowiedzi
-**Education-friendly:** "Faulkner, mimo problemów z własnymi uprzedzeniami, stworzył w Dilsey jedną z najszlachetniejszych postaci amerykańskiej literatury"
+### 2. Racial Issues
+**Problematic:** Quoting racist statements
+**Education-friendly:** "Faulkner, despite problems with his own prejudices, created in Dilsey one of the most noble characters in American literature"
 
-### 3. Problemy Psychiczne
-**Problematyczne:** Stygmatyzująca terminologia
-**Education-friendly:** "Quentin boryka się z tym, co dziś rozumiemy jako depresję i zaburzenia obsesyjno-kompulsywne - Faulkner wyprzedził swoją epokę w reprezentacji chorób psychicznych"
+### 3. Mental Health Issues
+**Problematic:** Stigmatizing terminology
+**Education-friendly:** "Quentin struggles with what we now understand as depression and obsessive-compulsive disorders - Faulkner was ahead of his time in representing mental illness"
 
-### 4. Trudność Lektury
-**Problematyczne:** "Książka jest niezrozumiała"
-**Education-friendly:** "Faulkner celowo używa trudnych technik, żeby pokazać, jak działają różne typy świadomości - to jak literatura puzzle"
+### 4. Reading Difficulty
+**Problematic:** "The book is incomprehensible"
+**Education-friendly:** "Faulkner deliberately uses difficult techniques to show how different types of consciousness work - it's like a literary puzzle"
 
 ## Platform Compliance Checklist
 
 ### Pre-Publication Check:
-- [ ] **Content warnings** na początku każdego materiału
-- [ ] **Educational framing** dla wszystkich kontrowersyjnych tematów
-- [ ] **No direct quotes** zawierające obraźliwe określenia
-- [ ] **Mental health resources** w opisach/linkach
-- [ ] **Historical context** dla problematycznych elementów
+- [ ] **Content warnings** at the beginning of each material
+- [ ] **Educational framing** for all controversial topics
+- [ ] **No direct quotes** containing offensive terms
+- [ ] **Mental health resources** in descriptions/links
+- [ ] **Historical context** for problematic elements
 - [ ] **Focus on literary value** over biographical controversies
-- [ ] **Age-appropriate language** dla target audience
-- [ ] **Original commentary** dominuje nad source material
+- [ ] **Age-appropriate language** for target audience
+- [ ] **Original commentary** dominates over source material
 
 ### During Production:
-- [ ] Używaj współczesnej, inclusive terminologii
-- [ ] Podkreślaj educational value
-- [ ] Dodawaj contemporary perspectives
+- [ ] Use contemporary, inclusive terminology
+- [ ] Emphasize educational value
+- [ ] Add contemporary perspectives
 - [ ] Include diverse viewpoints
 - [ ] Avoid sensationalizing controversies
 - [ ] Focus on universal themes
 
 ### Post-Production:
-- [ ] Review dla potentially problematic statements
-- [ ] Check compliance z platform-specific rules
+- [ ] Review for potentially problematic statements
+- [ ] Check compliance with platform-specific rules
 - [ ] Add appropriate hashtags/categories
 - [ ] Include resource links
-- [ ] Monitor comments dla hate speech
+- [ ] Monitor comments for hate speech
 - [ ] Be prepared to address concerns
 
 ## Final Risk Assessment
 
 ### Overall Risk Level: 🟡 MEDIUM-HIGH
-**Główne zagrożenia:**
-1. Nieprzewidywalna moderacja Meta platforms
+**Main threats:**
+1. Unpredictable Meta platform moderation
 2. Sensitivity around disability representation
 3. Historical racism controversies
 
 ### Mitigation Success Probability: 85%
-**Z appropriate strategies:**
+**With appropriate strategies:**
 - Educational framing: ✅ Highly effective
-- Content warnings: ✅ Platform compliant  
+- Content warnings: ✅ Platform compliant
 - Historical context: ✅ Academically sound
 - Focus on literary value: ✅ Safe approach
 
-## Recommendations dla Creator
+## Recommendations for Creator
 
 ### Best Practices:
-1. **Start with educational value** - podkreśl znaczenie literackie
-2. **Use contemporary language** - nawet gdy omawiasz historical terms
-3. **Provide context** - zawsze wyjaśnij historical background  
+1. **Start with educational value** - emphasize literary significance
+2. **Use contemporary language** - even when discussing historical terms
+3. **Provide context** - always explain historical background
 4. **Include resources** - mental health, educational links
 5. **Monitor engagement** - be ready to address concerns
-6. **Platform adaptation** - dostosuj tone do każdej platformy
+6. **Platform adaptation** - adjust tone for each platform
 
 ### Content Strategy:
 - **70% technical/literary analysis** (safest content)
@@ -265,8 +265,8 @@ Na podstawie analizy 8 dokumentów researchu specjalistycznego i aktualnych wyty
 ### Red Lines - NEVER:
 - Quote offensive historical terms without context
 - Sensationalize author's personal problems
-- Present problematic views without criticism  
+- Present problematic views without criticism
 - Ignore mental health implications
 - Skip content warnings for sensitive material
 
-**FINAL VERDICT:** Content o "The Sound and the Fury" może być bezpiecznie publikowany na wszystkich platformach przy zachowaniu odpowiednich środków ostrożności, szczególnie w kontekście educational framing i comprehensive content warnings.
+**FINAL VERDICT:** Content about "The Sound and the Fury" can be safely published on all platforms while maintaining appropriate precautions, especially regarding educational framing and comprehensive content warnings.

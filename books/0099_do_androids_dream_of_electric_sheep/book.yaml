@@ -4,3 +4,174 @@ book_info:
   author: "Philip K. Dick"
   year: 1968
   genre: "Science fiction,Noir"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-19T21:45:00Z"
+
+  scores:
+    controversy: 5
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 8
+    relevance: 10
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 6
+    total: 63
+    percentile: 92
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 7.0
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "empathy_humanity_test"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Voight-Kampff test measures what makes us human vs artificial through empathy assessment"
+        source: "symbols_meanings"
+      - id: "ai_consciousness_emergence"
+        type: "FACT"
+        credibility: 0.95
+        content: "52% of Gen Z believes AI is conscious, fulfilling Dick's prophetic vision of android consciousness"
+        source: "youth_digital"
+      - id: "cyberpunk_genre_creation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Dick created template for cyberpunk genre before it officially existed through this foundational work"
+        source: "writing_innovation"
+      - id: "surveillance_state_prediction"
+        type: "FACT"
+        credibility: 0.95
+        content: "Accurately predicted modern surveillance capitalism, AI monitoring, and government data collection"
+        source: "reality_wisdom"
+      - id: "reality_vs_simulation"
+        type: "THEORY"
+        credibility: 0.85
+        content: "Electric sheep represent fundamental questions about authentic vs artificial experience"
+        source: "symbols_meanings"
+      - id: "noir_sf_fusion"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Revolutionary genre combination of film noir and science fiction that influenced generations"
+        source: "writing_innovation"
+      - id: "posthuman_ethics"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Explores what rights artificial beings deserve and blurred boundaries of consciousness"
+        source: "symbols_meanings"
+      - id: "technology_addiction"
+        type: "FACT"
+        credibility: 0.90
+        content: "Mood organs and empathy boxes predict modern emotional regulation through technology"
+        source: "reality_wisdom"
+
+    localized:
+      en:
+        cultural_impact: "Foundation text for cyberpunk and AI consciousness studies in academia"
+        key_editions: ["Library of America edition", "Blade Runner tie-in editions"]
+        reception_notes: "Canonical status in science fiction and philosophy curricula"
+        educational_status: "Standard in university AI ethics, literature, and philosophy courses"
+        local_themes: ["American cyberpunk origins", "Technology anxiety"]
+      pl:
+        cultural_impact: "Growing recognition as foundational cyberpunk text with gaming culture connections"
+        key_editions: ["Rebis multiple editions", "Blade Runner promotional editions"]
+        reception_notes: "Strong connection to Cyberpunk 2077 and CD Projekt RED cultural influence"
+        educational_status: "Emerging in university science fiction and digital culture courses"
+        local_themes: ["Gaming culture influence", "Artificial consciousness debates"]
+      de:
+        cultural_impact: "Academic engagement with consciousness studies and technological philosophy"
+        key_editions: ["Klett-Cotta editions", "Academic study collections"]
+        reception_notes: "Serious philosophical treatment in German academia"
+        educational_status: "Philosophy, AI ethics, and literature curricula"
+        local_themes: ["Consciousness philosophy", "Technology-human relationship ethics"]
+      fr:
+        cultural_impact: "Postmodern theory alignment, influence on French cyberpunk and philosophy"
+        key_editions: ["J'ai Lu science fiction", "Academic editions"]
+        reception_notes: "Intellectual engagement with simulation and reality theories"
+        educational_status: "Philosophy and literature courses on consciousness and simulation"
+        local_themes: ["Simulation theory", "Posthuman consciousness studies"]
+      es:
+        cultural_impact: "Growing influence in Latin American cyberpunk and AI consciousness discussions"
+        key_editions: ["Minotauro science fiction collection"]
+        reception_notes: "Academic interest in consciousness and technology ethics"
+        educational_status: "Science fiction and technology ethics courses"
+        local_themes: ["Technology consciousness", "Artificial being rights"]
+      pt:
+        cultural_impact: "Academic interest in consciousness studies and cyberpunk foundations"
+        key_editions: ["Brazilian science fiction collections"]
+        reception_notes: "Growing recognition as foundational cyberpunk text"
+        educational_status: "Literature and philosophy courses on consciousness"
+        local_themes: ["Consciousness philosophy", "Technology-human boundaries"]
+      ja:
+        cultural_impact: "Complex reception given robot culture parallels and technology themes"
+        key_editions: ["Hayakawa Shobo SF series"]
+        reception_notes: "Cultural parallels with Japanese robot companionship acceptance"
+        educational_status: "Cross-cultural technology studies and consciousness research"
+        local_themes: ["Robot companion culture", "Technology consciousness integration"]
+      ko:
+        cultural_impact: "Academic engagement with AI consciousness and posthuman studies"
+        key_editions: ["Academic translations", "Gaming culture editions"]
+        reception_notes: "Connection to gaming culture and AI technology development"
+        educational_status: "AI ethics and posthuman consciousness studies"
+        local_themes: ["Gaming culture consciousness", "AI companion acceptance"]
+      hi:
+        cultural_impact: "Academic interest in consciousness studies and technology ethics"
+        key_editions: ["English language academic circulation"]
+        reception_notes: "Limited to English-speaking academic circles"
+        educational_status: "University consciousness studies and technology ethics"
+        local_themes: ["Technology consciousness debates", "Artificial being ethics"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "Professor specializing in science fiction literature and AI ethics"
+        host_b: "Graduate student focusing on posthuman consciousness studies"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "Literary Innovation"
+          lead: "host_a"
+          description: "How Dick created cyberpunk and philosophical SF template"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "Empathy vs Intelligence"
+          lead: "host_b"
+          description: "Voight-Kampff test and contemporary AI consciousness debates"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "Prophetic Accuracy"
+          lead: "host_a"
+          description: "Predictions about surveillance, AI relationships, technology addiction"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "Multimodal Interpretations"
+          lead: "host_b"
+          description: "Feminist, postcolonial, queer theory, and posthumanist readings"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "Contemporary Significance"
+          lead: "host_a"
+          description: "ChatGPT era relevance, Blade Runner legacy, academic canonization"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing Do Androids Dream of Electric Sheep with scholarly depth. Discuss its literary innovation, philosophical frameworks, and foundational role in cyberpunk. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification about complex theories, connect to contemporary AI debates, explore posthuman consciousness studies, ensure accessibility."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["AI consciousness themes", "existential questions about humanity", "author's biographical challenges", "philosophical complexity"]
+    educational_elements: ["Cyberpunk genre foundations", "AI consciousness studies", "Philosophical SF analysis", "Contemporary technology ethics"]
+    production_notes:
+      intro_style: "Academic gravitas with contemporary AI relevance"
+      transitions: "Thoughtful bridges between complex philosophical concepts"
+      outro_style: "Forward-looking conclusion about AI consciousness future"
+
+  overall_confidence: 0.9

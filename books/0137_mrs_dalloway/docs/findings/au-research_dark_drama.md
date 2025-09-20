@@ -1,341 +1,341 @@
-# Virginia Woolf i "Mrs Dalloway" - Mroczne Sekrety i Kontrowersje
+# Virginia Woolf and "Mrs. Dalloway" - Dark Secrets and Controversies
 
-## Wstęp
-Virginia Woolf, autorka "Mrs Dalloway" (1925), była jedną z najważniejszych postaci modernizmu literackiego, ale jej życie i dzieło skrywają mroczne sekrety, skandale i kontrowersyjne aspekty, które rzucają nowe światło na jej spuściznę.
+## Introduction
+Virginia Woolf, author of "Mrs. Dalloway" (1925), was one of the most important figures of literary modernism, but her life and work hide dark secrets, scandals, and controversial aspects that cast new light on her legacy.
 
 ---
 
-## 🔍 Conspiracy Theories i Dark Interpretations
+## 🔍 Conspiracy Theories and Dark Interpretations
 
-### 1. Teorie o Ukrytych Znaczeniach w "Mrs Dalloway"
-**TEORIA**: Książka zawiera zakodowane przesłania przeciwko chrześcijaństwu
-- Badacze argumentują, że Woolf wykorzystuje symbolikę religijną do wyrażenia anty-religijnych poglądów
-- Postać Septimusa Smitha ma nawiązania chrystusowe, ale jego samobójstwo kwestionuje chrześcijańską nadzieję
-- Imagery wody i morza symbolizuje życie poza tradycyjnymi strukturami religijnymi
+### 1. Theories About Hidden Meanings in "Mrs. Dalloway"
+**THEORY**: The book contains coded anti-Christian messages
+- Scholars argue that Woolf uses religious symbolism to express anti-religious views
+- The character Septimus Smith has Christ-like references, but his suicide questions Christian hope
+- Water and sea imagery symbolizes life beyond traditional religious structures
 
 ### 2. Occult Symbolism
-**TEORIA**: Woolf włączała elementy okultyzmu do swoich dzieł
-- Używała języka mistycznego w opisach duszy jako "sacred space"  
-- Referencje do transcendentnych doświadczeń świadomości
-- Wpływ teorii Carla Junga o "androgynicznych umysłach" w koncepcjach twórczych
+**THEORY**: Woolf incorporated elements of occultism into her works
+- She used mystical language in descriptions of the soul as "sacred space"
+- References to transcendent experiences of consciousness
+- Influence of Carl Jung's theories about "androgynous minds" in creative concepts
 
 ### 3. Dark Interpretation of Mental Illness
-**TEORIA**: "Mrs Dalloway" gloryfikuje samobójstwo jako formę komunikacji
-- Tekst przedstawia śmierć Septimusa jako "próbę komunikacji" z otoczeniem
-- **FAKT**: Woolf sama popełniła samobójstwo 16 lat po publikacji książki
-- Krytycy twierdzą, że romanticyzacja śmierci w powieści może wpływać destrukcyjnie na czytelników
+**THEORY**: "Mrs. Dalloway" glorifies suicide as a form of communication
+- The text presents Septimus's death as an "attempt at communication" with his surroundings
+- **FACT**: Woolf herself committed suicide 16 years after the book's publication
+- Critics claim that the romanticization of death in the novel may have destructive effects on readers
 
 ---
 
-## 💥 Skandale i Drama Autorki
+## 💥 Author Scandals and Drama
 
-### 4. Childhood Sexual Abuse - Traumatyczne Dzieciństwo
-**FAKT**: Virginia była molestowana przez przyrodnych braci przez 9 lat
-- Gerald Duckworth molestował ją od 6. roku życia
-- Po śmierci ojca w 1904, George Duckworth kontynuował przemoc przez 5 lat
-- **ZARZUT**: Niektórzy biografowie sugerują, że Woolf wymyśliła te historie z powodu "szaleństwa"
+### 4. Childhood Sexual Abuse - Traumatic Childhood
+**FACT**: Virginia was molested by her half-brothers for 9 years
+- Gerald Duckworth molested her from age 6
+- After her father's death in 1904, George Duckworth continued the abuse for 5 years
+- **ACCUSATION**: Some biographers suggest Woolf invented these stories due to "madness"
 
-### 5. Rasizm i Antysemityzm
-**FAKT**: Woolf była głęboko rasistką i antysemitką
-- Pisała w dzienniku: "I do not like the Jewish voice"
-- Nazywała Isaiah Berlin "Portuguese Jew by the look of him"
-- Opisywała Sir Philip Sassoon jako "underbred Whitechapel Jew"
-- **FAKT**: W powieści "The Years" (1937) scharakteryzowała "The Jew" Abrahamson jako pozostawiającego "line of grease round the bath"
+### 5. Racism and Antisemitism
+**FACT**: Woolf was deeply racist and antisemitic
+- She wrote in her diary: "I do not like the Jewish voice"
+- Called Isaiah Berlin "Portuguese Jew by the look of him"
+- Described Sir Philip Sassoon as "underbred Whitechapel Jew"
+- **FACT**: In the novel "The Years" (1937) she characterized "The Jew" Abrahamson as leaving a "line of grease round the bath"
 
-### 6. Skandal Dreadnought Hoax (1910)
-**FAKT**: Woolf uczestniczyła w rasistowskim oszustwie przeciwko Royal Navy
-- Przebierała się za abisyńskiego księcia używając blackface
-- Wraz z przyjaciółmi okłamała marynarkę wojenną w celu dostania się na HMS Dreadnought
-- **FAKT**: Blackface był powszechny w teatrze edwardiańskim, ale obecne standardy uznają to za głęboko rasistowskie
-- Skandal wywołał międzynarodowe kontrowersje i debaty w parlamencie
+### 6. Dreadnought Hoax Scandal (1910)
+**FACT**: Woolf participated in a racist hoax against the Royal Navy
+- She disguised herself as an Abyssinian prince using blackface
+- Along with friends, she deceived the navy to gain access to HMS Dreadnought
+- **FACT**: Blackface was common in Edwardian theater, but current standards recognize it as deeply racist
+- The scandal caused international controversies and parliamentary debates
 
-### 7. Bipolar Disorder i Psychiatryczne Tortury
-**FAKT**: Od 13. roku życia cierpiała na chorobę dwubiegunową
-- Hospitalizowana, zachowania samobójcze, poważne upośledzenie funkcjonowania
-- **FAKT**: Jako "leczenie" wyrwano jej kilka zębów - popularna teoria medyczna lat 20. łączyła choroby psychiczne z infekcjami dentystycznymi
-- Próba samobójstwa w 1913 przedawkowaniem Veronalu
+### 7. Bipolar Disorder and Psychiatric Torture
+**FACT**: She suffered from bipolar disorder from age 13
+- Hospitalized, suicidal behaviors, serious functional impairment
+- **FACT**: As "treatment" several teeth were extracted - a popular medical theory of the 1920s linked mental illness to dental infections
+- Suicide attempt in 1913 by overdosing on Veronal
 
-### 8. Kontrolujący Mąż Leonard
-**ZARZUT**: Leonard Woolf był manipulacyjny i kontrolujący
-- Virginia skarżyła się w 1912: "Leonard made me into a comatose invalid"
-- Monitorował jej jedzenie, wagę, nastroje i cykle menstruacyjne
-- **PLOTKA**: Niektórzy feministyczni badacze sugerują, że Leonard przepisał historię ich związku, minimalizując nadużycia
+### 8. Controlling Husband Leonard
+**ACCUSATION**: Leonard Woolf was manipulative and controlling
+- Virginia complained in 1912: "Leonard made me into a comatose invalid"
+- He monitored her eating, weight, moods, and menstrual cycles
+- **RUMOR**: Some feminist scholars suggest Leonard rewrote the history of their relationship, minimizing abuse
 
 ---
 
-## 📚 Literary Drama i Plagiat Accusations
+## 📚 Literary Drama and Plagiarism Accusations
 
-### 9. Rivalry z James Joyce
-**ZARZUT**: "Mrs Dalloway" to odpowiedź na "Ulysses" Joyce'a
-- **FAKT**: Woolf czytała "Ulysses" podczas pisania swojej książki
-- Wybrała 13 czerwca 1923 w Londynie vs 16 czerwca 1904 w Dublinie u Joyce'a
-- Krytykowała Joyce'a jako "callow board schoolboy... self-conscious and egotistical"
-- **FAKT**: Hogarth Press (wydawnictwo Woolfów) musiało odrzucić publikację "Ulysses" w 1919 z powodu prawa o obscenie
+### 9. Rivalry with James Joyce
+**ACCUSATION**: "Mrs. Dalloway" is a response to Joyce's "Ulysses"
+- **FACT**: Woolf read "Ulysses" while writing her book
+- She chose June 13, 1923 in London vs Joyce's June 16, 1904 in Dublin
+- She criticized Joyce as a "callow board schoolboy... self-conscious and egotistical"
+- **FACT**: Hogarth Press (the Woolfs' publishing house) had to reject publication of "Ulysses" in 1919 due to obscenity laws
 
 ### 10. Stream of Consciousness Controversy
-**ZARZUT**: Woolf skopiowała technikę stream of consciousness od Joyce'a
-- **FAKT**: Oba dzieła używają tej samej techniki narracyjnej
-- **OBRONA**: Woolf rozwinęła subtelniejszą formę, łączącą monolog wewnętrzny z free indirect speech
+**ACCUSATION**: Woolf copied the stream of consciousness technique from Joyce
+- **FACT**: Both works use the same narrative technique
+- **DEFENSE**: Woolf developed a more subtle form, combining interior monologue with free indirect speech
 
 ---
 
-## 🏛️ Government Censorship i Political Theories
+## 🏛️ Government Censorship and Political Contexts
 
-### 11. Brak Systematycznej Cenzury
-**FAKT**: "Mrs Dalloway" nie była szeroko cenzurowana przez władze
-- Mimo kontrowersyjnych tematów (samobójstwo, krytyka religii), książka nie była zakazana
-- W 2021 weszła do domeny publicznej w USA
-- TIME Magazine włączył ją do listy 100 najlepszych powieści anglojęzycznych
+### 11. Lack of Systematic Censorship
+**FACT**: "Mrs. Dalloway" was not widely censored by authorities
+- Despite controversial themes (suicide, religious criticism), the book was not banned
+- It entered public domain in the US in 2021
+- TIME Magazine included it in the list of 100 best English-language novels
 
 ### 12. Anti-Fascist Prophecy
-**FAKT**: Woolf łączyła feminizm z antyfaszyzmem już w "A Room of One's Own"
-- W "Three Guineas" (1938) potępiła faszyzm i patriarchalne społeczeństwa
-- **PRZEPOWIEDNIA SPRAWDZONA**: Przewidywała związki między uciskiem kobiet a autorytaryzmem
+**FACT**: Woolf connected feminism with anti-fascism already in "A Room of One's Own"
+- In "Three Guineas" (1938) she condemned fascism and patriarchal societies
+- **PROPHECY FULFILLED**: She predicted connections between women's oppression and authoritarianism
 
 ---
 
-## 🔮 Prophecy Check - Co się Sprawdziło?
+## 🔮 Prophecy Check - What Came True?
 
-### 13. Ekonomiczna Niezależność Kobiet
-**PRZEPOWIEDNIA SPRAWDZONA**: "A woman must have money and a room of her own if she is to write fiction"
-- Współczesne kobiety mają znacznie większe możliwości ekonomiczne
-- Dostęp do wyższego wykształcenia został powszechny
+### 13. Women's Economic Independence
+**PROPHECY FULFILLED**: "A woman must have money and a room of her own if she is to write fiction"
+- Contemporary women have significantly greater economic opportunities
+- Access to higher education has become widespread
 
-### 14. "Shakespeare's Sister" - Kobieta Poeta
-**PRZEPOWIEDNIA SPRAWDZONA**: Przewidywała pojawienie się kobiety-poety dorównującej Shakespeare'owi
-- Kobiety-pisarki zyskały ogromne uznanie literackie
-- Dzieła Woolf przełożono na ponad 50 języków
+### 14. "Shakespeare's Sister" - The Female Poet
+**PROPHECY FULFILLED**: She predicted the emergence of a female poet equal to Shakespeare
+- Women writers have gained enormous literary recognition
+- Woolf's works have been translated into over 50 languages
 
 ### 15. Androgynous Mind Concept
-**PRZEPOWIEDNIA CZĘŚCIOWO SPRAWDZONA**: Concept "androgynous creative mind"
-- Płynność płci jest obecnie szerzej uznawana
-- Uniwersalna androgynous creativity pozostaje aspiracyjna
+**PROPHECY PARTIALLY FULFILLED**: The concept of "androgynous creative mind"
+- Gender fluidity is now more widely recognized
+- Universal androgynous creativity remains aspirational
 
-### 16. Co się Nie Sprawdziło
-**PRZEPOWIEDNIA NIESPRAWDZONA**: Pełna równość płci
-- Mimo znacznego postępu, kompletna parytetu płci nie została osiągnięta
-- "Perfect gender equilibrium" Woolf pozostaje nierealne
+### 16. What Didn't Come True
+**PROPHECY UNFULFILLED**: Complete gender equality
+- Despite significant progress, complete gender parity has not been achieved
+- Woolf's "perfect gender equilibrium" remains unrealistic
 
 ---
 
-## 💰 Financial Scandals i Money Drama
+## 💰 Financial Scandals and Money Drama
 
 ### 17. Hogarth Press Business Drama
-**FAKT**: Virginia i Leonard współtworzyli Hogarth Press
-- Virginia składała tekst, Leonard obsługiwał maszyny
-- **KONTRWERSJA**: Czy Leonard wykorzystywał pozycję wydawcy do kontrolowania kariery Virginia?
+**FACT**: Virginia and Leonard co-created Hogarth Press
+- Virginia set type, Leonard operated machines
+- **CONTROVERSY**: Did Leonard exploit his publisher position to control Virginia's career?
 
 ### 18. Bloomsbury Group Elitism
-**ZARZUT**: Bloomsbury Group był elitarnym kołem snobbery
-- David Daiches, Brenda Silver i inni krytycy postkolonialni odrzucają ją jako uprzywilejowaną, elitarną, klasową, rasistową i antysemicką
-- W eseju "Am I a Snob?" (1936) sama przyznała się do snobizmu
+**ACCUSATION**: The Bloomsbury Group was an elitist circle of snobbery
+- David Daiches, Brenda Silver and other postcolonial critics reject her as privileged, elitist, classist, racist and antisemitic
+- In the essay "Am I a Snob?" (1936) she admitted to snobbery herself
 
 ---
 
 ## 🎭 Bloomsbury Group Scandals
 
-### 19. Sexual Promiscuity w Bloomsbury
-**FAKT**: Większość członków Bloomsbury Group była homoseksualna lub biseksualna
-- Virginia miała romans z Vita Sackville-West
-- Leonard akceptował romans żony z Vitą
-- **SKANDAL**: Grupa odrzucała wiktoriańską moralność seksualną
+### 19. Sexual Promiscuity in Bloomsbury
+**FACT**: Most Bloomsbury Group members were homosexual or bisexual
+- Virginia had an affair with Vita Sackville-West
+- Leonard accepted his wife's affair with Vita
+- **SCANDAL**: The group rejected Victorian sexual morality
 
-### 20. Casual Antisemitism w Bloomsbury
-**FAKT**: Woolf, Keynes i Lytton Strachey byli zdolni do "appalling examples of casual antisemitism"
-- Leonard Woolf (Żyd) był nazywany "Jew" przez przyjaciół, często w jego obecności
-- Keynes powiedział Vanessie Bell: "Virginia was there but no Jew"
+### 20. Casual Antisemitism in Bloomsbury
+**FACT**: Woolf, Keynes and Lytton Strachey were capable of "appalling examples of casual antisemitism"
+- Leonard Woolf (Jewish) was called "Jew" by friends, often in his presence
+- Keynes told Vanessa Bell: "Virginia was there but no Jew"
 
 ---
 
 ## 🧠 Mental Health Conspiracy Theories
 
-### 21. Psychiatryczna Tortura jako "Leczenie"
-**FAKT**: Woolf była poddawana eksperymentalnym "leczeniom"
-- Wyrywanie zębów jako terapia chorób psychicznych
-- Darkened room therapy jako remedium na objawy
-- **TEORIA**: Czy Leonard wykorzystywał jej chorobę do kontrolowania jej życia?
+### 21. Psychiatric Torture as "Treatment"
+**FACT**: Woolf was subjected to experimental "treatments"
+- Tooth extraction as therapy for mental illness
+- Darkened room therapy as remedy for symptoms
+- **THEORY**: Did Leonard exploit her illness to control her life?
 
-### 22. Samobójstwo - Murder Theory
-**PLOTKA**: Niektórzy spekulują, czy śmierć Virginia była naprawdę samobójstwem
-- **FAKT**: Jedna próba samobójcza tydzień wcześniej - wróciła do domu przemoczona
-- **FAKT**: Wypełniła kieszenie płaszcza kamieniami i weszła do rzeki Ouse
+### 22. Suicide - Murder Theory
+**RUMOR**: Some speculate whether Virginia's death was really suicide
+- **FACT**: One suicide attempt a week earlier - she returned home soaked
+- **FACT**: She filled her coat pockets with stones and walked into the River Ouse
 
 ---
 
 ## 🏫 Educational Controversies
 
 ### 23. Cambridge Exclusion Drama
-**FAKT**: Jako kobieta nie mogła uczęszczać na Cambridge University
-- Ojciec Leslie Stephen był związany z Cambrigde, ale córka została wykluczona z powodu płci
-- To doświadczenie zainspirowało jej feminizm i krytykę systemu edukacyjnego
+**FACT**: As a woman she could not attend Cambridge University
+- Her father Leslie Stephen was affiliated with Cambridge, but his daughter was excluded because of gender
+- This experience inspired her feminism and criticism of the educational system
 
 ### 24. Three Guineas - Education Scandal
-**FAKT**: W "Three Guineas" atakowała system edukacji jako narzędzie patriarchatu
-- Argumentowała, że uniwersytety perpetuują męską dominację
-- **KONTROWERSJA**: Czy jej krytyka była sprawiedliwa wobec instytucji, które w końcu zmieniły się?
+**FACT**: In "Three Guineas" she attacked the education system as a tool of patriarchy
+- She argued that universities perpetuate male dominance
+- **CONTROVERSY**: Was her criticism fair to institutions that eventually changed?
 
 ---
 
 ## 📖 Publishing Industry Drama
 
 ### 25. Rejection of Ulysses
-**FAKT**: Hogarth Press odrzuciło "Ulysses" Joyce'a
-- Powody: obscenity law in England i praktyczne problemy z publikacją tak obszernego tekstu
-- **TEORIA**: Czy to była prawdziwa przyczyna, czy rivalry między Woolf a Joyce?
+**FACT**: Hogarth Press rejected Joyce's "Ulysses"
+- Reasons: obscenity law in England and practical problems with publishing such an extensive text
+- **THEORY**: Was this the real reason, or rivalry between Woolf and Joyce?
 
 ### 26. Self-Publishing Controversy
-**ZARZUT**: Czy Woolf unikała mainstream publishers z powodu braku talentu?
-- **OBRONA**: Hogarth Press publikował również innych autorów
-- **FAKT**: "Mrs Dalloway" odniosło komercyjny sukces
+**ACCUSATION**: Did Woolf avoid mainstream publishers due to lack of talent?
+- **DEFENSE**: Hogarth Press also published other authors
+- **FACT**: "Mrs. Dalloway" was a commercial success
 
 ---
 
 ## 🔬 Scientific Accuracy vs Fantasy
 
 ### 27. Stream of Consciousness - Pseudoscience?
-**TEORIA**: Czy technique stream of consciousness ma naukowe podstawy?
-- **FAKT**: Inspirowane teoriami psychologicznymi Carla Junga
-- **ZARZUT**: Krytycy twierdzą, że to literacka fantazja, nie przedstawienie rzeczywistej świadomości
+**THEORY**: Does the stream of consciousness technique have scientific basis?
+- **FACT**: Inspired by Carl Jung's psychological theories
+- **ACCUSATION**: Critics claim it's literary fantasy, not representation of actual consciousness
 
 ### 28. Mental Illness Romanticization
-**ZARZUT**: Woolf romanticyzowała choroby psychiczne w literaturze
-- **FAKT**: Jej przedstawienia "madness" były poetyckie raczej niż medycznie dokładne
-- **KONTROWERSJA**: Czy to szkodzi zrozumieniu rzeczywistych chorób psychicznych?
+**ACCUSATION**: Woolf romanticized mental illness in literature
+- **FACT**: Her representations of "madness" were poetic rather than medically accurate
+- **CONTROVERSY**: Does this harm understanding of real mental illness?
 
 ---
 
 ## 👑 Imperial and Colonial Controversies
 
-### 29. Colonial Attitude w Dziełach
-**FAKT**: Woolf wyrażała kolonialne postawy w swoich pismach
-- Pisała pogardliwie o Afrykańczykach w swoim dzienniku
-- Notowała "degradation stamped on him" przez kolor skóry
-- **FAKT**: Mimo anti-imperial sentiment, utrzymywała rasistowskie stereotypy
+### 29. Colonial Attitudes in Works
+**FACT**: Woolf expressed colonial attitudes in her writings
+- She wrote disparagingly about Africans in her diary
+- Noted "degradation stamped on him" by skin color
+- **FACT**: Despite anti-imperial sentiment, she maintained racist stereotypes
 
 ### 30. Empire Criticism vs Personal Racism
-**PARADOX**: Woolf krytykowała British Empire ale była rasistką
-- **TEORIA**: Czy jej anty-imperialne poglądy były szczere, czy tylko intelektualna poza?
+**PARADOX**: Woolf criticized the British Empire but was racist
+- **THEORY**: Were her anti-imperial views sincere, or just an intellectual pose?
 
 ---
 
 ## 🎪 Cultural Appropriation Accusations
 
-### 31. Orientalism w "Orlando"
-**ZARZUT**: "Orlando" zawiera orientalistyczne stereotypy
-- **FAKT**: Książka przedstawia egzotyczne kultury przez Western lens
-- **TEORIA**: Czy Woolf perpetuowała kolonialne narracje mimo feminizmu?
+### 31. Orientalism in "Orlando"
+**ACCUSATION**: "Orlando" contains orientalist stereotypes
+- **FACT**: The book presents exotic cultures through a Western lens
+- **THEORY**: Did Woolf perpetuate colonial narratives despite feminism?
 
 ### 32. Class Appropriation
-**ZARZUT**: Czy Woolf appropriated working-class experiences?
-- **FAKT**: Pisała o klasie robotniczej z pozycji upper-class privilege
-- **TEORIA**: Czy jej social criticism była authentic czy performative?
+**ACCUSATION**: Did Woolf appropriate working-class experiences?
+- **FACT**: She wrote about the working class from an upper-class privileged position
+- **THEORY**: Was her social criticism authentic or performative?
 
 ---
 
 ## 🏥 Medical Controversies
 
 ### 33. Bipolar Disorder - Misdiagnosis Theory
-**TEORIA**: Czy Virginia została błędnie zdiagnozowana?
-- **FAKT**: Współczesna medycyna mogłaby oferować lepsze leczenie
-- **ZARZUT**: Czy Leonard wykorzystywał psychiatric labels do kontrolowania jej?
+**THEORY**: Was Virginia misdiagnosed?
+- **FACT**: Contemporary medicine could have offered better treatment
+- **ACCUSATION**: Did Leonard use psychiatric labels to control her?
 
 ### 34. Victorian Medicine Horrors
-**FAKT**: Poddawana eksperymentalnym "cure" dla mental illness
-- Tooth extraction jako psychiatric treatment
-- Rest cure therapy w darkened rooms
-- **TEORIA**: Te "terapie" mogły pogorszyć jej stan
+**FACT**: She was subjected to experimental "cures" for mental illness
+- Tooth extraction as psychiatric treatment
+- Rest cure therapy in darkened rooms
+- **THEORY**: These "therapies" may have worsened her condition
 
 ---
 
 ## 🎨 Artistic Integrity Questions
 
 ### 35. Ghostwriting Allegations
-**PLOTKA**: Czy Leonard Woolf współpisał niektóre dzieła Virginia?
-- **FAKT**: Leonard był jej pierwszym czytelnikiem i edytorem
-- **TEORIA**: Jak daleko sięgała jego ingerencja w teksty?
+**RUMOR**: Did Leonard Woolf co-write some of Virginia's works?
+- **FACT**: Leonard was her first reader and editor
+- **THEORY**: How far did his interference in texts extend?
 
 ### 36. Posthumous Manipulation
-**ZARZUT**: Leonard shaped Virginia's legacy po jej śmierci
-- **FAKT**: Kontrolował publikację jej dzienników i listów
-- **TEORIA**: Czy przedstawił prawdziwy obraz ich małżeństwa?
+**ACCUSATION**: Leonard shaped Virginia's legacy after her death
+- **FACT**: He controlled publication of her diaries and letters
+- **THEORY**: Did he present a true picture of their marriage?
 
 ---
 
 ## 🌍 International Scandals
 
 ### 37. Nazi Connections Rumors
-**PLOTKA**: Bloomsbury Group miało connections z pre-war Germany
-- **FAKT**: Keynes miał kontakty ekonomiczne z Niemcami
-- **BRAK DOWODÓW**: Żadne concrete evidence Nazi sympathies
+**RUMOR**: The Bloomsbury Group had connections with pre-war Germany
+- **FACT**: Keynes had economic contacts with Germany
+- **NO EVIDENCE**: No concrete evidence of Nazi sympathies
 
 ### 38. Soviet Spy Theories
-**PLOTKA**: Czy ktoś z Bloomsbury Group był Soviet agent?
-- **TEORIA**: Anthony Blunt (związany z grupą) był później exposed jako spy
-- **BRAK DOWODÓW**: Żadne direct evidence przeciwko Woolf
+**RUMOR**: Was someone from the Bloomsbury Group a Soviet agent?
+- **THEORY**: Anthony Blunt (associated with the group) was later exposed as a spy
+- **NO EVIDENCE**: No direct evidence against Woolf
 
 ---
 
 ## 📺 Modern Media Manipulation
 
 ### 39. Feminist Icon Fabrication
-**TEORIA**: Czy Virginia została posthumously transformed w feminist icon?
-- **FAKT**: Miała contradictory feelings about identifying as feminist
-- **ZARZUT**: Modern feminists may have overstated her progressive credentials
+**THEORY**: Was Virginia posthumously transformed into a feminist icon?
+- **FACT**: She had contradictory feelings about identifying as feminist
+- **ACCUSATION**: Modern feminists may have overstated her progressive credentials
 
 ### 40. Literary Canon Conspiracy
-**TEORIA**: Czy Woolf została included w canon z political reasons?
-- **ZARZUT**: Niektórzy twierdzą, że jej inclusion była tokenistic
-- **OBRONA**: Jej technical innovations były genuinely revolutionary
+**THEORY**: Was Woolf included in the canon for political reasons?
+- **ACCUSATION**: Some claim her inclusion was tokenistic
+- **DEFENSE**: Her technical innovations were genuinely revolutionary
 
 ---
 
 ## 🎬 Media Adaptations Controversies
 
 ### 41. Hollywood Whitewashing
-**ZARZUT**: Film adaptations ignore her problematic aspects
-- **FAKT**: "The Hours" (2002) focused on mental illness, not racism
-- **TEORIA**: Czy Hollywood deliberately sanitizes her image?
+**ACCUSATION**: Film adaptations ignore her problematic aspects
+- **FACT**: "The Hours" (2002) focused on mental illness, not racism
+- **THEORY**: Does Hollywood deliberately sanitize her image?
 
 ### 42. Academic Censorship
-**ZARZUT**: Czy universities downplay her controversial aspects?
-- **FAKT**: Curriculum często ignoruje Dreadnought hoax i antisemitism
-- **TEORIA**: Self-censorship w academic institutions?
+**ACCUSATION**: Do universities downplay her controversial aspects?
+- **FACT**: Curriculum often ignores the Dreadnought hoax and antisemitism
+- **THEORY**: Self-censorship in academic institutions?
 
 ---
 
 ## 🔚 Legacy Questions
 
 ### 43. Should We Still Read Woolf?
-**DEBATA**: Czy można separować art from artist?
-- **ARGUMENT ZA**: Jej technical innovations były revolutionary
-- **ARGUMENT PRZECIW**: Racist i antisemitic elements są nie do zaakceptowania
+**DEBATE**: Can we separate art from artist?
+- **ARGUMENT FOR**: Her technical innovations were revolutionary
+- **ARGUMENT AGAINST**: Racist and antisemitic elements are unacceptable
 
 ### 44. Posthumous Profit Controversy
-**FAKT**: Virginia Woolf Estate continues to generate millions
-- **TEORIA**: Czy Leonard's heirs profit z work of problematic artist?
-- **ETYKA**: Responsibilities of beneficiaries wobec controversial legacy
+**FACT**: Virginia Woolf Estate continues to generate millions
+- **THEORY**: Do Leonard's heirs profit from the work of a problematic artist?
+- **ETHICS**: Responsibilities of beneficiaries regarding controversial legacy
 
 ---
 
 ## 🏁 Final Assessment
 
 ### 45. The Ultimate Paradox
-**FAKT**: Virginia Woolf pozostaje jednocześnie:
-- Pioneering feminist i casualną antisemitką
-- Mental health advocate i mental illness romanticizer  
-- Anti-imperialist i cultural appropriator
-- Literary genius i deeply troubled individual
+**FACT**: Virginia Woolf remains simultaneously:
+- Pioneering feminist and casual antisemite
+- Mental health advocate and mental illness romanticizer
+- Anti-imperialist and cultural appropriator
+- Literary genius and deeply troubled individual
 
 ### 46. What We Can Learn
-**WNIOSEK**: Case Virginia Woolf pokazuje complexity ludzkiej natury
-- **LEKCJA**: Great art może pochodzić from flawed individuals
-- **OSTRZEŻENIE**: Nie powinniśmy idealizować historical figures
-- **BALANS**: Możemy doceniać artystyczne achievements przy jednoczesnym recognition problematic aspects
+**CONCLUSION**: The Virginia Woolf case shows the complexity of human nature
+- **LESSON**: Great art can come from flawed individuals
+- **WARNING**: We should not idealize historical figures
+- **BALANCE**: We can appreciate artistic achievements while recognizing problematic aspects
 
 ---
 
-## 📚 Źródła i Bibliografia
+## 📚 Sources and Bibliography
 
-**Uwaga metodologiczna**: Ten dokument przedstawia mix faktów udokumentowanych, zarzutów wymaga dalszej weryfikacji oraz plotek i teorii spiskowych. Każda informacja została oznaczona odpowiednio jako **FAKT** / **ZARZUT** / **PLOTKA** / **TEORIA** w celach edukacyjnych.
+**Methodological note**: This document presents a mix of documented facts, accusations requiring further verification, and rumors and conspiracy theories. Each piece of information has been appropriately marked as **FACT** / **ACCUSATION** / **RUMOR** / **THEORY** for educational purposes.
 
-*Dokument utworzony dla projektu 37degrees w ramach research dark drama aspektów literatury klasycznej.*
+*Document created for the 37degrees project as part of research into dark drama aspects of classic literature.*

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Interracial couple traveling through New Hampshire mountains"
+  setting:
+    time: "September 19, 1961, 10:30 PM"
+    location: "Interior of 1957 Chevrolet Bel Air traveling on U.S. Route 3 through White Mountains, New Hampshire"
+    weather: "Clear night outside vehicle windows"
+  characters:
+    - appearance: "White woman, 41 years old, dark hair styled in early 1960s fashion, average height, social worker build"
+      clothing: "Blue dress with light coat, practical travel shoes suitable for 1960s era"
+      position: "Seated in passenger seat of car, looking out side window"
+      action: "Observing night sky and mountain scenery while traveling"
+    - appearance: "African American man, 39 years old, well-groomed professional appearance, wearing eyeglasses, average height"
+      clothing: "Business casual travel attire consisting of dark slacks, dress shirt, light jacket typical of early 1960s"
+      position: "Behind steering wheel of automobile"
+      action: "Driving carefully through winding mountain highway, occasionally glancing at sky"
+  scene:
+    mainElements: "Interior view of classic 1950s American sedan with two-tone blue and white paint, chrome bumpers and trim, whitewall tires, bench seats, column shifter, interior dome light, AM radio, showing couple during nighttime mountain travel"
+    details: "Dashboard illuminated by green instrument lights, windshield reflects occasional passing headlights, side windows show dark forest rushing past, rearview mirror catches interior lighting, leather bench seat shows wear patterns typical of 1957 vehicle, column-mounted gear shifter visible, no text or letters visible"
+    background: "Dark mountain landscape visible through car windows with silhouetted trees and occasional clearings"
+    atmosphere: "Intimate domestic scene during peaceful nighttime journey, comfortable relationship between interracial couple in era of civil rights movement"
+  composition:
+    cameraAngle: "Interior shot from rear seat perspective looking forward"
+    focus: "The two travelers and their interaction within the vehicle cabin"
+    depth: "Foreground shows car interior details, middle ground features the couple, background displays mountain landscape through windows"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Next Morning Media Coverage and Witness Interviews"
+  setting:
+    time: "March 14, 1997, morning, bright daylight"
+    location: "Phoenix residential area, outdoor interview location"
+    weather: "Clear sunny Arizona morning"
+  characters:
+    - appearance: "Professional reporter, 30s-40s, well-groomed appearance"
+      clothing: "Business attire suitable for TV, blazer or dress shirt, holding microphone"
+      position: "Standing facing camera with residential background"
+      action: "Confident reporting stance, facing camera or interviewing witnesses"
+    - appearance: "Family group of 3-4 people, mixed ages from children to adults, suburban residents"
+      clothing: "Casual daytime attire, comfortable clothing for morning interview"
+      position: "Standing together as interview subjects"
+      action: "Speaking to reporter, gesturing toward sky, recounting previous evening's experience"
+  scene:
+    mainElements: "Official podium with microphones, state seal, formal government setting"
+    details: "Local news reporter conducting outdoor interview with witness family in residential neighborhood, professional camera crew with broadcast equipment recording testimony, family members pointing toward areas where they observed formations the previous evening, residential background showing typical Phoenix suburban setting, reporter holding microphone and taking notes, broadcast van or news vehicle visible, morning sunlight illuminating interview setup, witnesses animated in describing their experience, no text or letters visible"
+    background: "Phoenix suburban residential area with desert landscape and mountain ranges visible in distance, clear morning sky"
+    atmosphere: "Media attention and public interest growing as remarkable night-time event gains widespread coverage"
+  composition:
+    cameraAngle: "Medium shot capturing reporter and witness family in interview setting"
+    focus: "News interview in progress with family recounting previous evening's sighting"
+    depth: "Foreground shows interviewer and subjects, middle ground captures residential setting, background features desert landscape and mountain ranges"

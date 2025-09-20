@@ -1,121 +1,121 @@
-# Ocena Content Warnings: "Adventures of Huckleberry Finn" (1884)
+# Content Warnings Assessment: "Adventures of Huckleberry Finn" (1884)
 **Platform Compliance Analysis & Age Rating Assessment**
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-**Książka**: Adventures of Huckleberry Finn - Mark Twain (1884)  
-**Status bezpieczeństwa**: 🔴 **WYSOKO RYZYKOWNA** dla większości platform społecznościowych  
-**Główne zagrożenie**: Rasistowski język (słowo "nigger" użyte 213 razy)  
-**Zalecana klasyfikacja wiekowa**: **16+** z ostrzeżeniami treści  
+**Book**: Adventures of Huckleberry Finn - Mark Twain (1884)
+**Safety Status**: 🔴 **HIGH RISK** for most social media platforms
+**Primary Threat**: Racist language (word "nigger" used 213 times)
+**Recommended Age Classification**: **16+** with content warnings
 
-**PILNE UWAGI**:
-- Meta platforms (Facebook/Instagram): 🚨 **EKSTREMALNIE RYZYKOWNE** ze względu na nowe liberalne zasady mowy nienawiści
-- YouTube: ⚠️ **ŚREDNIE RYZYKO** przy odpowiednim educational framing
-- TikTok: ⚠️ **ŚREDNIE RYZYKO** dla content 1+ minuta z educational context
-- Spotify: ✅ **NISKIE RYZYKO** przy original commentary
-- Kick: ✅ **NAJNIŻSZE RYZYKO** ze wszystkich platform
-
----
-
-## ANALIZA MATERIAŁÓW RESEARCHU
-
-### Przeanalizowane dokumenty:
-1. **Dark Drama & Kontrowersje** - 40 kontrowersyjnych faktów i teorii
-2. **Wpływ Kulturowy** - Adaptacje i kulturowe nawiązania
-3. **Lokalny Kontekst** - Recepcja w Polsce i tłumaczenia
-4. **Historia Powstania** - Fakty o tworzeniu książki
-5. **Reality vs Wisdom** - Przewidywania Twaina a współczesność
-6. **Symbolika i Znaczenia** - Interpretacje literackie
-7. **Innowacje Pisarskie** - Rewolucyjne techniki literackie
-8. **Kultura Cyfrowa** - Połączenia z Gen Z i social media
+**URGENT NOTES**:
+- Meta platforms (Facebook/Instagram): 🚨 **EXTREMELY RISKY** due to new liberal hate speech policies
+- YouTube: ⚠️ **MEDIUM RISK** with appropriate educational framing
+- TikTok: ⚠️ **MEDIUM RISK** for 1+ minute content with educational context
+- Spotify: ✅ **LOW RISK** with original commentary
+- Kick: ✅ **LOWEST RISK** of all platforms
 
 ---
 
-## MATRIX PROBLEMOWYCH TREŚCI vs PLATFORMY
+## RESEARCH MATERIALS ANALYSIS
 
-| Problematyczna Treść | Facebook/Instagram | YouTube | TikTok | Spotify | Kick |
+### Analyzed Documents:
+1. **Dark Drama & Controversies** - 40 controversial facts and theories
+2. **Cultural Impact** - Adaptations and cultural references
+3. **Local Context** - Reception in Poland and translations
+4. **Historical Facts** - Facts about the book's creation
+5. **Reality vs Wisdom** - Twain's predictions vs contemporary reality
+6. **Symbolism and Meanings** - Literary interpretations
+7. **Writing Innovations** - Revolutionary literary techniques
+8. **Digital Culture** - Connections with Gen Z and social media
+
+---
+
+## PROBLEMATIC CONTENT vs PLATFORMS MATRIX
+
+| Problematic Content | Facebook/Instagram | YouTube | TikTok | Spotify | Kick |
 |---------------------|-------------------|---------|--------|---------|------|
-| **Rasistowski język (213x "nigger")** | 🚨 WYSOKIE | ⚠️ ŚREDNIE | ⚠️ ŚREDNIE | ✅ NISKIE | ✅ NISKIE |
-| **Przemoc domowa (Pap vs Huck)** | 🔴 WYSOKIE | ⚠️ ŚREDNIE | ⚠️ ŚREDNIE | ✅ NISKIE | ✅ NISKIE |
-| **Tematyka niewolnictwa** | 🔴 WYSOKIE | ⚠️ ŚREDNIE | ⚠️ ŚREDNIE | ✅ NISKIE | ✅ NISKIE |
-| **Krytyka religii/społeczeństwa** | 🔴 WYSOKIE | ⚠️ ŚREDNIE | ⚠️ ŚREDNIE | ✅ NISKIE | ✅ NISKIE |
-| **Przemoc młodzieżowa (feud)** | ⚠️ ŚREDNIE | ⚠️ ŚREDNIE | ⚠️ ŚREDNIE | ✅ NISKIE | ✅ NISKIE |
-| **Oszustwa i kłamstwa** | ⚠️ ŚREDNIE | ✅ NISKIE | ✅ NISKIE | ✅ NISKIE | ✅ NISKIE |
-| **Kontrowersje autora (bankructwo)** | ⚠️ ŚREDNIE | ✅ NISKIE | ✅ NISKIE | ✅ NISKIE | ✅ NISKIE |
-| **Historyczne konteksty** | ⚠️ ŚREDNIE | ✅ NISKIE | ✅ NISKIE | ✅ NISKIE | ✅ NISKIE |
+| **Racist language (213x "nigger")** | 🚨 HIGH | ⚠️ MEDIUM | ⚠️ MEDIUM | ✅ LOW | ✅ LOW |
+| **Domestic violence (Pap vs Huck)** | 🔴 HIGH | ⚠️ MEDIUM | ⚠️ MEDIUM | ✅ LOW | ✅ LOW |
+| **Slavery themes** | 🔴 HIGH | ⚠️ MEDIUM | ⚠️ MEDIUM | ✅ LOW | ✅ LOW |
+| **Religion/society criticism** | 🔴 HIGH | ⚠️ MEDIUM | ⚠️ MEDIUM | ✅ LOW | ✅ LOW |
+| **Youth violence (feud)** | ⚠️ MEDIUM | ⚠️ MEDIUM | ⚠️ MEDIUM | ✅ LOW | ✅ LOW |
+| **Fraud and lies** | ⚠️ MEDIUM | ✅ LOW | ✅ LOW | ✅ LOW | ✅ LOW |
+| **Author controversies (bankruptcy)** | ⚠️ MEDIUM | ✅ LOW | ✅ LOW | ✅ LOW | ✅ LOW |
+| **Historical contexts** | ⚠️ MEDIUM | ✅ LOW | ✅ LOW | ✅ LOW | ✅ LOW |
 
 ---
 
-## SZCZEGÓŁOWA OCENA PLATFORM
+## DETAILED PLATFORM ASSESSMENT
 
-### 🚨 FACEBOOK/INSTAGRAM (Meta) - EKSTREMALNIE RYZYKOWNE
+### 🚨 FACEBOOK/INSTAGRAM (Meta) - EXTREMELY RISKY
 
-#### Powody wysokiego ryzyka:
-- **Nowe zasady mowy nienawiści (styczeń 2025)**: Dozwolone nazywanie kobiet "przedmiotami domowymi", osób trans "to"
-- **Brak fact-checkingu**: Community Notes system jest nieprzewidywalny
-- **Przewaga algorytmów**: Educational content często źle kategoryzowany
-- **Hipersensitywność**: Nawet edukacyjne omówienie rasistowskiego języka może być flagowane
+#### Reasons for high risk:
+- **New hate speech policies (January 2025)**: Allowed calling women "household objects", trans people "it"
+- **No fact-checking**: Community Notes system is unpredictable
+- **Algorithm dominance**: Educational content often miscategorized
+- **Hypersensitivity**: Even educational discussion of racist language may be flagged
 
-#### Rekomendacje:
-- **🚫 NIE ZALECANE**: Publikowanie content o tej książce bez ekstremnych środków ostrożności
-- **Jeśli musisz**: Używaj eufemizmów ("n-word"), podkreślaj educational context, dodawaj content warnings
+#### Recommendations:
+- **🚫 NOT RECOMMENDED**: Publishing content about this book without extreme precautions
+- **If you must**: Use euphemisms ("n-word"), emphasize educational context, add content warnings
 
-### ⚠️ YOUTUBE - ŚREDNIE RYZYKO
+### ⚠️ YOUTUBE - MEDIUM RISK
 
-#### Zasady 2025:
-- **Anti-AI content**: Wymaga human narration i original commentary
-- **Educational exception**: Kontrowersyjne treści dozwolone w kontekście edukacyjnym
-- **Advertiser-friendly**: Limited monetization przy rasistowskim języku
+#### 2025 Rules:
+- **Anti-AI content**: Requires human narration and original commentary
+- **Educational exception**: Controversial content allowed in educational context
+- **Advertiser-friendly**: Limited monetization with racist language
 
-#### Rekomendacje:
-- **✅ ZALECANE z ostrożnością**: 
-  - Używaj human voice-over (NIE text-to-speech)
-  - Dodaj educational disclaimers na początku
-  - Contextualizuj historyczne tło
-  - Podkreślaj antyrasistowski message książki
-  - Minimalizuj bezpośrednie cytaty z n-word
+#### Recommendations:
+- **✅ RECOMMENDED with caution**:
+  - Use human voice-over (NOT text-to-speech)
+  - Add educational disclaimers at beginning
+  - Contextualize historical background
+  - Emphasize the book's anti-racist message
+  - Minimize direct quotes with n-word
 
-### ⚠️ TIKTOK - ŚREDNIE RYZYKO
+### ⚠️ TIKTOK - MEDIUM RISK
 
-#### Nowe zasady 2025:
-- **Tylko 1+ minuta content** kwalifikuje się do monetyzacji
-- **Original content only**: Bez remixów czy stitches innych creators
-- **Educational framing preferred**: Algorytm faworyzuje educational content
+#### New 2025 Rules:
+- **Only 1+ minute content** qualifies for monetization
+- **Original content only**: No remixes or stitches of other creators
+- **Educational framing preferred**: Algorithm favors educational content
 
-#### Rekomendacje:
-- **✅ MOŻLIWE z proper framing**:
-  - Minimum 1 minuta dla monetyzacji
-  - Educational hook w pierwszych sekundach
-  - Visual storytelling zamiast direct quotes
-  - Focus na przyjaźń Huck-Jim, nie na język
-  - Content warnings w description
+#### Recommendations:
+- **✅ POSSIBLE with proper framing**:
+  - Minimum 1 minute for monetization
+  - Educational hook in first seconds
+  - Visual storytelling instead of direct quotes
+  - Focus on Huck-Jim friendship, not language
+  - Content warnings in description
 
-### ✅ SPOTIFY - NISKIE RYZYKO
+### ✅ SPOTIFY - LOW RISK
 
-#### Zalety platform audio:
+#### Audio platform advantages:
 - **Creator-friendly policies**: 50/50 revenue split
-- **Educational content support**: Oryginalne komentarze chronione
-- **Video format prioritized**: Wyższe zarobki za video podcasts
+- **Educational content support**: Original commentary protected
+- **Video format prioritized**: Higher earnings for video podcasts
 
-#### Rekomendacje:
-- **✅ ZALECANE**:
+#### Recommendations:
+- **✅ RECOMMENDED**:
   - Video podcast format
-  - Original analysis dominuje nad quotes
+  - Original analysis dominates over quotes
   - Properly licensed background music only
   - Educational framing throughout
   - Clear disclaimers about historical language
 
-### ✅ KICK - NAJNIŻSZE RYZYKO
+### ✅ KICK - LOWEST RISK
 
-#### Najbardziej creator-friendly:
-- **95/5 revenue split**: Najlepszy w branży
-- **Context-based moderation**: Uwzględniają educational intent
-- **Creator-first approach**: Mniej restrykcyjne policies
+#### Most creator-friendly:
+- **95/5 revenue split**: Best in industry
+- **Context-based moderation**: Considers educational intent
+- **Creator-first approach**: Less restrictive policies
 
-#### Rekomendacje:
-- **✅ NAJBEZPIECZNIEJSZA OPCJA**:
+#### Recommendations:
+- **✅ SAFEST OPTION**:
   - Live discussion format ideal
   - Interactive community building
   - Educational context clearly established
@@ -123,99 +123,99 @@
 
 ---
 
-## KLASYFIKACJA WIEKOWA
+## AGE CLASSIFICATION
 
-### 13+ CONTENT (z supervision):
-- ✅ Podstawowe tematy przyjaźni
-- ✅ Przygodowe aspekty podróży
-- ✅ Moralne dylematy (uproszczone)
-- ⚠️ **WYMAGA**: Adult guidance dla kontekstu historycznego
+### 13+ CONTENT (with supervision):
+- ✅ Basic friendship themes
+- ✅ Adventure aspects of journey
+- ✅ Moral dilemmas (simplified)
+- ⚠️ **REQUIRES**: Adult guidance for historical context
 
 ### 16+ CONTENT (PRIMARY TARGET):
-- ✅ Pełne omówienie rasizmu historycznego
-- ✅ Przemoc domowa (Pap Finn)
-- ✅ Feud między rodzinami
-- ✅ Krytyka społeczna i religijna
-- ✅ Kontrowersje wokół autora
+- ✅ Full discussion of historical racism
+- ✅ Domestic violence (Pap Finn)
+- ✅ Feud between families
+- ✅ Social and religious criticism
+- ✅ Author controversies
 
 ### 18+ CONTENT (college level):
-- ✅ Zaawansowane analizy rasowe
-- ✅ Kontrowersje masońskie i conspiracy theories
-- ✅ Homoerotyczne interpretacje
-- ✅ Finansowe skandale autora
+- ✅ Advanced racial analyses
+- ✅ Masonic and conspiracy theory controversies
+- ✅ Homoerotic interpretations
+- ✅ Author's financial scandals
 
 ---
 
-## CONTENT WARNINGS DLA SŁUCHACZY
+## CONTENT WARNINGS FOR LISTENERS
 
-### ⚠️ OBLIGATORYJNE OSTRZEŻENIA:
-1. **Rasistowski język**: "Ta książka zawiera historyczny rasistowski język, w tym 213 użyć słowa 'nigger'. Język ten odzwierciedla postawy epoki i jest omawiany w kontekście edukacyjnym."
+### ⚠️ MANDATORY WARNINGS:
+1. **Racist language**: "This book contains historical racist language, including 213 uses of the word 'nigger'. This language reflects attitudes of the era and is discussed in educational context."
 
-2. **Przemoc domowa**: "Zawiera opisy przemocy wobec dziecka przez alkoholicznego ojca i rodzinnej zemsty."
+2. **Domestic violence**: "Contains descriptions of violence against a child by an alcoholic father and family vengeance."
 
-3. **Tematyka niewolnictwa**: "Omawia realia niewolnictwa w USA przed wojną secesyjną, w tym ucieczki niewolników i systemy ich łapania."
+3. **Slavery themes**: "Discusses realities of slavery in pre-Civil War USA, including slave escapes and capture systems."
 
-4. **Kontrowersje społeczne**: "Prezentuje krytykę religii, hipokryzję społeczną i konflikty rasowe XIX wieku."
+4. **Social controversies**: "Presents criticism of religion, social hypocrisy, and 19th century racial conflicts."
 
-### 🔍 DODATKOWE CONTEXT WARNINGS:
-- "Interpretacje przedstawione bazują na badaniach historycznych i literackich"
-- "Różne perspektywy akademickie mogą różnić się w ocenie dzieła"
-- "Materiał przeznaczony dla dojrzałych słuchaczy zainteresowanych literaturą klasyczną"
+### 🔍 ADDITIONAL CONTEXT WARNINGS:
+- "Interpretations presented are based on historical and literary research"
+- "Different academic perspectives may vary in their evaluation of the work"
+- "Material intended for mature listeners interested in classic literature"
 
 ---
 
-## EDUCATION-FRIENDLY STRATEGIE
+## EDUCATION-FRIENDLY STRATEGIES
 
 ### 1. Sandwich Method:
-- **Wprowadzenie**: Kontekst historyczny i educational purpose
-- **Treść**: Careful handling problematycznych fragmentów
-- **Podsumowanie**: Modern lessons i społeczne przesłanie
+- **Introduction**: Historical context and educational purpose
+- **Content**: Careful handling of problematic passages
+- **Conclusion**: Modern lessons and social message
 
 ### 2. Comparative Approach:
-- Porównanie z współczesną literaturą YA
-- "Percival Everett's James" (2024) jako modern retelling
+- Comparison with contemporary YA literature
+- "Percival Everett's James" (2024) as modern retelling
 - Evolution of racial representation in literature
 
 ### 3. Interactive Elements:
-- Poll questions o moralnych dylematach
-- Discussion prompts dla młodych listeners
+- Poll questions about moral dilemmas
+- Discussion prompts for young listeners
 - Connection to current social justice issues
 
 ### 4. Cultural Sensitivity:
-- Współpracuj z education consultants
+- Collaborate with education consultants
 - Include diverse perspectives in analysis
 - Acknowledge problematic aspects while preserving educational value
 
 ---
 
-## OBSZARY SZCZEGÓLNEJ OSTROŻNOŚCI
+## AREAS OF SPECIAL CAUTION
 
-### 🚨 NAJWYŻSZY POZIOM RYZYKA:
-1. **Direct quotes with n-word**: Minimalizuj lub używaj "n-word" placeholder
+### 🚨 HIGHEST RISK LEVEL:
+1. **Direct quotes with n-word**: Minimize or use "n-word" placeholder
 2. **Pap Finn abuse scenes**: Content warning + educational context
-3. **Religious satire**: Może trigger religious communities
-4. **Conspiracy theories o autorze**: Clearly separate fact from speculation
+3. **Religious satire**: May trigger religious communities
+4. **Author conspiracy theories**: Clearly separate fact from speculation
 
-### ⚠️ ŚREDNIE RYZYKO:
-1. **Feud scenes**: Violence może być flagowane jako promoting conflict
-2. **Oszustwa King & Duke**: Avoid detailed "how-to" descriptions
+### ⚠️ MEDIUM RISK:
+1. **Feud scenes**: Violence may be flagged as promoting conflict
+2. **King & Duke frauds**: Avoid detailed "how-to" descriptions
 3. **Homoerotic interpretations**: Controversial academic theories
 4. **Financial scandals**: Don't glorify scam methods
 
-### ✅ BEZPIECZNE OBSZARY:
-1. **Friendship themes**: Universal appeal bez controversy
+### ✅ SAFE AREAS:
+1. **Friendship themes**: Universal appeal without controversy
 2. **Literary innovations**: Technical writing aspects
-3. **Cultural impact**: Adaptations i influence on other works
+3. **Cultural impact**: Adaptations and influence on other works
 4. **Educational value**: Classic literature importance
 
 ---
 
-## KOŃCOWA COMPLIANCE CHECKLIST
+## FINAL COMPLIANCE CHECKLIST
 
 ### Universal Requirements:
 - [ ] **Educational framing** established from start
 - [ ] **Content warnings** clearly posted
-- [ ] **Historical context** provided dla problematic content
+- [ ] **Historical context** provided for problematic content
 - [ ] **Original commentary** dominates over direct quotes
 - [ ] **Age-appropriate** labeling applied
 
@@ -229,18 +229,18 @@
 ### Additional Safeguards:
 - [ ] **Review current ToS** before publishing
 - [ ] **Monitor comments** for inappropriate responses
-- [ ] **Have appeal strategy** ready dla automated flagging
-- [ ] **Consider limited state publishing** jako test
+- [ ] **Have appeal strategy** ready for automated flagging
+- [ ] **Consider limited state publishing** as test
 
 ---
 
 ## ALTERNATIVE CONTENT STRATEGIES
 
-### Jeśli content zbyt ryzykowny:
-1. **Focus na adaptacje**: Omówienie filmów i teatralnych wersji
+### If content too risky:
+1. **Focus on adaptations**: Discussion of films and theatrical versions
 2. **Modern reimaginings**: "James" by Percival Everett analysis
 3. **Literary influence**: Impact on other authors
-4. **Cultural discussions**: BookTok trends i young reader perspectives
+4. **Cultural discussions**: BookTok trends and young reader perspectives
 
 ### Low-risk content ideas:
 1. **"Why Gen Z should read classics"** angle
@@ -250,25 +250,25 @@
 
 ---
 
-## PODSUMOWANIE I REKOMENDACJE
+## SUMMARY AND RECOMMENDATIONS
 
-**Adventures of Huckleberry Finn** to book rich w educational value, ale extremely challenging dla content creators ze względu na:
+**Adventures of Huckleberry Finn** is a book rich in educational value, but extremely challenging for content creators due to:
 
-- **213 uses rasistowskiego języka** w oryginalnym tekście
-- **Meta platforms nowe liberalne hate speech policies** creating unpredictable moderation
-- **Complex historical context** wymagający sophisticated handling
+- **213 uses of racist language** in original text
+- **Meta platforms' new liberal hate speech policies** creating unpredictable moderation
+- **Complex historical context** requiring sophisticated handling
 - **Ongoing academic controversies** about book's legacy
 
-### KOŃCOWE REKOMENDACJE:
+### FINAL RECOMMENDATIONS:
 
-🥇 **NAJLEPSZY WYBÓR**: Spotify video podcast z educational framing
-🥈 **DRUGA OPCJA**: Kick streaming z interactive community discussion  
-🥉 **OSTROŻNIE**: YouTube z extensive disclaimers i human narration
+🥇 **BEST CHOICE**: Spotify video podcast with educational framing
+🥈 **SECOND OPTION**: Kick streaming with interactive community discussion
+🥉 **CAUTIOUSLY**: YouTube with extensive disclaimers and human narration
 ⚠️ **AVOID**: Meta platforms unless absolutely necessary
-🚫 **DON'T**: TikTok content pod 1 minutę (no monetization anyway)
+🚫 **DON'T**: TikTok content under 1 minute (no monetization anyway)
 
-**Remember**: Educational value pozostaje high, ale platform risks są significant. Choose your platform strategy wisely i always lead with educational purpose i historical context.
+**Remember**: Educational value remains high, but platform risks are significant. Choose your platform strategy wisely and always lead with educational purpose and historical context.
 
 ---
 
-*Ocena przeprowadzona na podstawie analizy 8 dokumentów researchu oraz aktualnych platform policies stan na wrzesień 2025.*
+*Assessment conducted based on analysis of 8 research documents and current platform policies as of September 2025.*

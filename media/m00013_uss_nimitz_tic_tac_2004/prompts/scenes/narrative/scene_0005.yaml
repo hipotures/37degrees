@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Close Encounter - Tic Tac Object Hovering Above Ocean Disturbance"
+  setting:
+    time: "November 14, 2004, approximately 12:45 PM"
+    location: "Pacific Ocean southwest of San Diego, California, directly above churning water disturbance"
+    weather: "Clear, sunny day with excellent visibility, bright sunlight creating glare off ocean surface"
+  characters:
+    - appearance: "Caucasian man, 40s, athletic build, focused expression, military bearing"
+      clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
+      position: "In F/A-18F cockpit at close range to unknown object"
+      action: "Maneuvering aircraft to approach and observe the mysterious white object"
+    - appearance: "Caucasian woman, 30s, slender build, determined expression, professional demeanor"
+      clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
+      position: "In wingman F/A-18F maintaining formation nearby"
+      action: "Observing encounter and maintaining tactical position relative to lead aircraft"
+  scene:
+    mainElements: "Bright white, smooth-surfaced oblong object approximately 40 feet long, resembling commercial airliner fuselage shape, no visible wings, rotors, or propulsion systems, no exhaust plume or heat signature, surface appears to shimmer or shift, demonstrates instantaneous acceleration and hover capability"
+    details: "Boeing F/A-18F Super Hornet in tactical grey paint scheme, VFA-41 Black Aces squadron markings, Bureau Number on fuselage, AIM-9X Sidewinder training missiles, twin-engine multirole fighter aircraft approaching unknown craft. Tic Tac object hovers motionless above churning whitewater with no visible means of propulsion. Object's white surface contrasts dramatically against deep blue ocean background. Pilots observe unprecedented aerial phenomenon at close range."
+    background: "Vast Pacific Ocean extends to horizon, churning whitewater circle approximately 50-100 feet diameter directly below object, calm seas surrounding the disturbance area"
+    atmosphere: "Moment of extraordinary encounter between military aircraft and unknown technology, tension and fascination as pilots witness capabilities beyond known aircraft, bright daylight providing clear visibility of unprecedented aerial phenomenon"
+  composition:
+    cameraAngle: "Medium shot from F/A-18F pilot's perspective showing Tic Tac object in relation to ocean"
+    focus: "White oblong Tic Tac object hovering above churning ocean water with F/A-18F approaching"
+    depth: "Foreground: cockpit elements and aircraft wing, middle ground: Tic Tac object above disturbance, background: endless Pacific Ocean, no text or letters visible"

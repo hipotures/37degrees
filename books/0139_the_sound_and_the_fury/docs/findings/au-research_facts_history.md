@@ -1,183 +1,183 @@
-# Historia powstania "The Sound and the Fury" - Fakty i anegdoty
+# Creation History of "The Sound and the Fury" - Facts and Anecdotes
 
-## Podstawowe informacje o książce
-- **Tytuł oryginalny**: "The Sound and the Fury"
-- **Tytuł polski**: "Wściekłość i wrzask"
-- **Autor**: William Faulkner
-- **Rok publikacji**: 1929
-- **Gatunek**: Powieść modernistyczna
+## Basic Book Information
+- **Original Title**: "The Sound and the Fury"
+- **Polish Title**: "Wściekłość i wrzask"
+- **Author**: William Faulkner
+- **Publication Year**: 1929
+- **Genre**: Modernist novel
 
-## Okoliczności powstania książki
+## Circumstances of Book Creation
 
-### **FAKT**: Geneza w odrzuceniu poprzedniej powieści
-- Faulkner rozpoczął pisanie jesienią 1928 roku, tuż po 31. urodzinach, po tym jak wydawnictwo Horace Liveright odrzuciło jego powieść "Flags in the Dust"
-- To odrzucenie stało się dla niego "oczyszczeniem" - uwolniło go od myślenia o komercyjnym sukcesie
-- Powiedział sobie: "Teraz mogę pisać. Teraz mogę zrobić sobie wazę jak ta, którą stary Rzymianin trzymał przy łóżku i powoli ścierał brzeg całowaniem"
+### **FACT**: Genesis in the rejection of previous novel
+- Faulkner began writing in autumn 1928, just after his 31st birthday, after Horace Liveright publishing house rejected his novel "Flags in the Dust"
+- This rejection became a "purification" for him - it freed him from thinking about commercial success
+- He told himself: "Now I can write. Now I can make myself a vase like that one which the old Roman held at his bedside and slowly wore away the rim kissing it"
 
-### **FAKT**: Pierwotna koncepcja jako opowiadanie
-- Książka miała być początkowo krótkim opowiadaniem o dzieciach odesłanych z pogrzebu babci
-- Faulkner opisywał początek: "Wyszło z anegdoty, obrazu małej dziewczynki - brudnych majtek, gdy wspięła się na drzewo, żeby zajrzeć przez okno salonu - i z tego powstała księga"
+### **FACT**: Original concept as a short story
+- The book was initially meant to be a short story about children sent away from their grandmother's funeral
+- Faulkner described the beginning: "It came from an anecdote, an image of a little girl - dirty underpants when she climbed a tree to look through the parlor window - and from that a book grew"
 
-### **FAKT**: Tytuł roboczy "Twilight"
-- Pierwszym tytułem roboczym była "Twilight" (Zmierzch)
-- Ostateczny tytuł pochodzi z monologu Makbeta: "Life's but a walking shadow... it is a tale told by an idiot, full of sound and fury, signifying nothing"
+### **FACT**: Working title "Twilight"
+- The first working title was "Twilight"
+- The final title comes from Macbeth's soliloquy: "Life's but a walking shadow... it is a tale told by an idiot, full of sound and fury, signifying nothing"
 
-## Proces twórczy i pisanie
+## Creative Process and Writing
 
-### **FAKT**: Najbardziej ekstazyjny okres twórczy
-- Faulkner nazwał to "najwspanialszym okresem swojej kariery pisarskiej"
-- Pisał w nastroju desperacji, wątpiąc czy kiedykolwiek zostanie wydany
-- "Zamknąłem drzwi między sobą a wszystkimi adresami wydawnictw i listami książek"
+### **FACT**: Most ecstatic creative period
+- Faulkner called it "the most wonderful period of his writing career"
+- He wrote in a mood of desperation, doubting whether it would ever be published
+- "I shut the door between myself and all publishers' addresses and booklists"
 
-### **FAKT**: Eksperymentowanie z techniką narracyjną
-- Jeszcze na etapie korekty eksperymentował z użyciem interpunkcji w rozdziale Benjy'ego
-- Chciał, żeby każda zmiana czasu w sekcji Benjy'ego była drukowana innym kolorem - powiedział agentowi, że książka powinna być "z różnymi kolorami czcionek dla różnych czasów w sekcji Benjy'ego"
-- Gdy redaktor Ben Wasson usunął kursywę z pierwszego rozdziału, Faulkner napisał list żądając ich przywrócenia
+### **FACT**: Experimenting with narrative technique
+- Even at the proofreading stage, he experimented with the use of punctuation in Benjy's chapter
+- He wanted each time change in Benjy's section to be printed in a different color - he told his agent that the book should be "with different colored fonts for different times in Benjy's section"
+- When editor Ben Wasson removed italics from the first chapter, Faulkner wrote a letter demanding their restoration
 
-### **FAKT**: Miejsce pisania - Greenwich Village
-- Faulkner ukończył rękopis w Greenwich Village
-- W marcu 1928 wysłał rękopis do Harcourt Brace, które wcześniej wydało "Sartoris"
+### **FACT**: Place of writing - Greenwich Village
+- Faulkner completed the manuscript in Greenwich Village
+- In March 1928, he sent the manuscript to Harcourt Brace, which had previously published "Sartoris"
 
-## Autobiograficzne inspiracje
+## Autobiographical Inspirations
 
-### **FAKT**: Wpływ Caroline Barr ("Mammy Callie")
-- Postać Dilsey była wzorowana na Caroline Barr, afroamerykańskiej niani w rodzinie Faulknerów
-- Caroline Barr urodziła się w niewoli około 1840 roku i opiekowała się Faulknerem i jego trzema braćmi
-- Później zadedykował jej książkę "Go Down, Moses": "Dla Mammy / Caroline Barr / Mississippi / [1840–1940] Która urodziła się w niewoli i która dała mojej rodzinie wierność bez ograniczeń lub kalkulacji wynagrodzenia, a mojemu dzieciństwu niezmierzoną oddanie i miłość"
+### **FACT**: Influence of Caroline Barr ("Mammy Callie")
+- The character Dilsey was modeled on Caroline Barr, an African American nanny in the Faulkner family
+- Caroline Barr was born into slavery around 1840 and cared for Faulkner and his three brothers
+- He later dedicated the book "Go Down, Moses" to her: "To Mammy / Caroline Barr / Mississippi / [1840–1940] Who was born in slavery and who gave to my family a fidelity without stint or calculation of recompense, and to my childhood an immeasurable devotion and love"
 
-### **FAKT**: Śmierć babci jako inspiracja
-- Gdy Faulkner miał 10 lat, wraz z dwoma braćmi mieszkał z kuzynką Sallie
-- Wszyscy czworo przeżyli śmierć babci ze strony matki, którą nazywał "Damuddy"
-- W powieści Quentin Compson ma ten sam wiek, gdy umiera jego Damuddy
+### **FACT**: Grandmother's death as inspiration
+- When Faulkner was 10 years old, he lived with two brothers and cousin Sallie
+- All four experienced the death of their maternal grandmother, whom he called "Damuddy"
+- In the novel, Quentin Compson is the same age when his Damuddy dies
 
-### **FAKT**: Edwin Chandler - inspiracja dla Benjy'ego
-- Faulkner znał w Oxford, Mississippi niepełnosprawnego intelektualnie mężczyznę o nazwisku Edwin Chandler, który był znany z biegania za płotem
-- Później napisał opowiadanie dla niepełnosprawnej córki jednego z profesorów na University of Mississippi
+### **FACT**: Edwin Chandler - inspiration for Benjy
+- Faulkner knew an intellectually disabled man named Edwin Chandler in Oxford, Mississippi, who was known for running along fences
+- He later wrote a story for the disabled daughter of one of the professors at the University of Mississippi
 
-### **FAKT**: Estelle Oldham i inspiracja dla Quentina
-- Gdy ukochana z dzieciństwa Estelle Oldham poślubiła innego mężczyznę, Faulkner był załamany
-- Odwiedził przyjaciela Phila Stone'a w New Haven, Connecticut - ta wizyta zainspirowała doświadczenia Quentina na Harvardzie
-- Współlokator Quentina, Shreve, był wzorowany na przyjacielu Stone'a o nazwisku Stephen Benet
+### **FACT**: Estelle Oldham and inspiration for Quentin
+- When his childhood love Estelle Oldham married another man, Faulkner was devastated
+- He visited friend Phil Stone in New Haven, Connecticut - this visit inspired Quentin's experiences at Harvard
+- Quentin's roommate Shreve was modeled on Stone's friend named Stephen Benet
 
-## Pierwsze reakcje i odbiór
+## First Reactions and Reception
 
-### **FAKT**: Reakcja pierwszego czytelnika
-- Pierwszy czytelnik, przyjaciel Phil Stone, przeczytał rękopis siedząc w pokoju Faulknera w wieży domu rodzinnego w Oxford
-- "Nie mógł z tego nic zrozumieć. 'Czekaj, po prostu czekaj', powiedział Faulkner"
+### **FACT**: First reader's reaction
+- The first reader, friend Phil Stone, read the manuscript sitting in Faulkner's room in the tower of the family home in Oxford
+- "He couldn't understand any of it. 'Wait, just wait,' said Faulkner"
 
-### **FAKT**: Reakcja redaktora
-- Pewnego ranka Faulkner przywitał swojego redaktora Bena Wassona rękopisem w kopercie i powiedział: "Przeczytaj to, Bud"
+### **FACT**: Editor's reaction
+- One morning Faulkner greeted his editor Ben Wasson with a manuscript in an envelope and said: "Read this, Bud"
 
-### **FAKT**: Trudności wydawnicze
-- Harcourt Brace odrzuciło powieść, ale jeden z redaktorów firmy, Harrison Smith, czuł, że zasługuje na publikację
-- Smith założył nowe wydawnictwo Jonathan Cape and Harrison Smith specjalnie po to, by wydać książkę Faulknera
+### **FACT**: Publishing difficulties
+- Harcourt Brace rejected the novel, but one of the firm's editors, Harrison Smith, felt it deserved publication
+- Smith founded a new publishing house, Jonathan Cape and Harrison Smith, specifically to publish Faulkner's book
 
-## Publikacja i dane liczbowe
+## Publication and Numerical Data
 
-### **FAKT**: Szczegóły pierwszego wydania
-- Data publikacji: 7 października 1929 roku
-- Wydawnictwo: Cape & Smith
-- Pierwszy nakład: **1,789 egzemplarzy**
-- Nie sprzedawała się szybko - trudna pierwsza sekcja odstraszała nawet zdolnych czytelników
+### **FACT**: First edition details
+- Publication date: October 7, 1929
+- Publisher: Cape & Smith
+- First print run: **1,789 copies**
+- It didn't sell quickly - the difficult first section put off even capable readers
 
-### **FAKT**: Sprzedaż w pierwszych latach
-- W ciągu pierwszych dwóch lat sprzedała się **mniej niż 2,000 egzemplarzy**
-- Książka została opublikowana w roku wielkiej katastrofy giełdowej na Wall Street w 1929 roku
-- Sprzedaż była żałosna do 1931 roku, gdy sukces "Sanctuary" przyczynił się również do popularności "The Sound and the Fury"
+### **FACT**: Sales in the first years
+- In the first two years, it sold **fewer than 2,000 copies**
+- The book was published in the year of the great stock market crash on Wall Street in 1929
+- Sales were dismal until 1931, when the success of "Sanctuary" also contributed to the popularity of "The Sound and the Fury"
 
-### **FAKT**: Reakcje pierwszych krytyków
-- Clifton Fadiman w "The Nation" odrzucił powieść, argumentując, że "temat i postacie są trywialne, niegodne ogromnej i złożonej maestrii na nie wydatkowanej"
-- Frances Lamont Robbins w "Outlook and Independent" nazwała powieść "potężną i szczerą", ale skomentowała, że "prezentacja prawie wyłącznie przez analizę subiektywną" osłabia jej siłę
-- Evelyn Scott w swojej książce z 1929 roku "On William Faulkner's 'The Sound and the Fury'" pogratulowała wydawcom "przedstawienia mało znanego pisarza z godnością uznania, na jaką zasługuje jego talent"
+### **FACT**: First critics' reactions
+- Clifton Fadiman in "The Nation" dismissed the novel, arguing that "the subject and characters are trivial, unworthy of the enormous and complex mastery expended on them"
+- Frances Lamont Robbins in "Outlook and Independent" called the novel "powerful and honest," but commented that "presentation almost exclusively through subjective analysis" weakened its strength
+- Evelyn Scott in her 1929 book "On William Faulkner's 'The Sound and the Fury'" congratulated the publishers for "presenting a little-known writer with the dignity of recognition his talent deserves"
 
-## Wpływ literacki i techniki
+## Literary Influence and Techniques
 
-### **FAKT**: Wpływ Jamesa Joyce'a
-- Styl strumienia świadomości był inspirowany dziełami Jamesa Joyce'a
-- Krytycy porównywali powieść do "Ulissesa" Joyce'a (1922), który używał podobnego stylu narracji
-- Uczeni umieszczają Faulknera wśród pisarzy modernistycznych wpływanych przez teorię czasu Henri Bergsona, w tym Josepha Conrada, Virginię Woolf, Jamesa Joyce'a i T.S. Eliota
+### **FACT**: James Joyce's influence
+- The stream of consciousness style was inspired by James Joyce's works
+- Critics compared the novel to Joyce's "Ulysses" (1922), which used a similar narrative style
+- Scholars place Faulkner among modernist writers influenced by Henri Bergson's theory of time, including Joseph Conrad, Virginia Woolf, James Joyce, and T.S. Eliot
 
-### **FAKT**: Głębokie powiązania z Szekspirem
-- Oprócz tytułu, powieść zawiera dziesiątki odniesień do dzwonów i carillonów, które łączą się z dzwonem Lady Makbet sygnalizującym morderstwo Duncana
-- Trzej bracia Compson ucieleśniają różne aspekty mowy Makbeta: Benjy to "idiota", Quentin to "wędrujący cień", a Jason to "biedny aktor"
-- Faulkner często uznawał Szekspira za główną inspirację, mówiąc: "Mam jednotomowy Szekspir, który prawie zniszczyłem noszeniem ze sobą"
+### **FACT**: Deep connections with Shakespeare
+- Besides the title, the novel contains dozens of references to bells and carillons, which connect to Lady Macbeth's bell signaling Duncan's murder
+- The three Compson brothers embody different aspects of Macbeth's speech: Benjy is the "idiot," Quentin is the "walking shadow," and Jason is the "poor player"
+- Faulkner often acknowledged Shakespeare as his main inspiration, saying: "I have a one-volume Shakespeare which I've almost destroyed carrying it with me"
 
-## Życie osobiste Faulknera w czasie pisania
+## Faulkner's Personal Life During Writing
 
-### **FAKT**: Ożenek w 1929 roku
-- W 1929 roku Faulkner poślubił Estelle Oldham, której poprzednie małżeństwo "pomogło pchnąć go do RAF w 1918 roku"
-- Estelle przyprowadziła dwoje dzieci z poprzedniego małżeństwa z Cornellem Franklinem
-- Faulkner miał nadzieję utrzymać nową rodzinę jako pisarz
+### **FACT**: Marriage in 1929
+- In 1929, Faulkner married Estelle Oldham, whose previous marriage "helped push him to the RAF in 1918"
+- Estelle brought two children from her previous marriage with Cornell Franklin
+- Faulkner hoped to support his new family as a writer
 
-### **FAKT**: Oxford, Mississippi jako kreatywna podstawa
-- Kluczowe dla jego niezwykłej wczesnej produktywności było unikanie centrum literackich i życie w małomiasteczkowej oddalności Oxford
-- Było to miejsce, gdzie "czuł się już w domu i mógł poświęcić się, w niemal izolacji, właściwemu pisaniu"
+### **FACT**: Oxford, Mississippi as creative base
+- Key to his remarkable early productivity was avoiding literary centers and living in the small-town distance of Oxford
+- It was a place where he "felt at home and could devote himself, in almost isolation, to proper writing"
 
-## Polskie tłumaczenia
+## Polish Translations
 
-### **FAKT**: Polski tytuł i tłumaczka
-- Tytuł polski "Wściekłość i wrzask" został przedyskutowany przez Annę Przedpełską-Trzeciakowską z kilkoma pisarzami w domu twórczości w Oborach latem 1970 roku
-- Rozważano tytuły: "Bełkot i furia" (sugerowany przez Zdzisia Najdera), "Furia i krzyk", "Wściekłość i krzyk", "Wściekłość i wrzawa"
-- Zdecydowano, że najważniejsze jest przekazanie gniewu, a wierność polskim tłumaczeniom "Makbeta" była drugorzędna
+### **FACT**: Polish title and translator
+- The Polish title "Wściekłość i wrzask" was discussed by Anna Przedpełska-Trzeciakowska with several writers at the writer's house in Obory in summer 1970
+- Titles considered: "Bełkot i furia" (suggested by Zdzisław Najder), "Furia i krzyk," "Wściekłość i krzyk," "Wściekłość i wrzawa"
+- They decided that conveying anger was most important, and fidelity to Polish translations of "Macbeth" was secondary
 
-### **FAKT**: Wydanie polskie
-- Polska edycja została opublikowana w 1971 roku w przekładzie Anny Przedpełskiej-Trzeciakowskiej
-- Książka została wydana w serii kieszonkowej "Nike" i została przyjęta z uznaniem
-- Istniało też inne tłumaczenie J. Polaka wydane przez Rebis w 2000 roku w serii "Mistrzowie Literatury"
+### **FACT**: Polish edition
+- The Polish edition was published in 1971 in Anna Przedpełska-Trzeciakowska's translation
+- The book was published in the pocket series "Nike" and was well received
+- There was also another translation by J. Polak published by Rebis in 2000 in the "Masters of Literature" series
 
-## Późniejsze uznanie i nagrody
+## Later Recognition and Awards
 
-### **FAKT**: Nagroda Nobla 1949
-- William Faulkner otrzymał Nagrodę Nobla w dziedzinie literatury w 1949 roku "za jego potężny i artystycznie wyjątkowy wkład do współczesnej amerykańskiej powieści"
-- "The Sound and the Fury" odegrała rolę w otrzymaniu przez Faulknera Nagrody Nobla
-- Nagroda została wręczona w następnym roku, w październiku 1950
+### **FACT**: 1949 Nobel Prize
+- William Faulkner received the Nobel Prize in Literature in 1949 "for his powerful and artistically unique contribution to the modern American novel"
+- "The Sound and the Fury" played a role in Faulkner receiving the Nobel Prize
+- The award was presented the following year, in October 1950
 
-### **FAKT**: Własne słowa Faulknera o książce
-- Faulkner nazywał "The Sound and the Fury" swoją "umiłowaną porażką" i "najwspanialszą porażką"
-- "To jest ta, którą kocham najbardziej z tego powodu, że była najwspanialszą porażką"
-- Unikał przekazania ostatniej wersji "The Sound and the Fury" tak długo, jak mógł
+### **FACT**: Faulkner's own words about the book
+- Faulkner called "The Sound and the Fury" his "beloved failure" and "most magnificent failure"
+- "This is the one I love most because it was the most magnificent failure"
+- He avoided delivering the final version of "The Sound and the Fury" as long as he could
 
-## Liczby i statystyki
+## Numbers and Statistics
 
-### **FAKT**: Szczegóły wydawnicze
-- Pierwszy nakład: **1,789 egzemplarzy**
-- Sprzedaż w pierwszych dwóch latach: **mniej niż 2,000 egzemplarzy**
-- Data ukończenia rękopisu: **Greenwich Village, 1928**
-- Data publikacji: **7 października 1929**
-- Wiek Faulknera przy rozpoczęciu pisania: **31 lat**
-- Czas od odrzucenia "Flags in the Dust" do rozpoczęcia: **jesień 1928**
+### **FACT**: Publishing details
+- First print run: **1,789 copies**
+- Sales in first two years: **fewer than 2,000 copies**
+- Manuscript completion date: **Greenwich Village, 1928**
+- Publication date: **October 7, 1929**
+- Faulkner's age when he began writing: **31 years old**
+- Time from "Flags in the Dust" rejection to beginning: **autumn 1928**
 
-### **FAKT**: Współczesna wartość kolekcjonerska
-- Pierwsze wydanie z 1929 roku jest dziś bardzo cenione przez kolekcjonerów
-- Składało się tylko z **1,789 egzemplarzy** pierwszego druku
+### **FACT**: Contemporary collector value
+- The first edition from 1929 is highly valued by collectors today
+- It consisted of only **1,789 copies** of the first printing
 
-### **PLOTKA**: Kolorowy druk
-- Faulkner miał życzenie, aby różne okresy czasowe w sekcji Benjy'ego były drukowane różnymi kolorami, ale powiedziano mu, że to niemożliwe
-- Nie ma dowodów, czy kiedykolwiek wyprodukowano takie wydanie
+### **RUMOR**: Color printing
+- Faulkner wished different time periods in Benjy's section to be printed in different colors, but was told it was impossible
+- There is no evidence that such an edition was ever produced
 
-## Wpływ na literaturę modernistyczną
+## Impact on Modernist Literature
 
-### **FAKT**: Pionier modernizmu literackiego
-- Faulkner był pionierem modernizmu literackiego, radykalnie odbiegając od form i struktur tradycyjnie używanych w powieściach
-- Razem z Joyce'em, a być może nawet bardziej, Faulkner jest wielkim eksperymentalistą wśród powieściopisarzy XX wieku
+### **FACT**: Pioneer of literary modernism
+- Faulkner was a pioneer of literary modernism, radically departing from forms and structures traditionally used in novels
+- Along with Joyce, and perhaps even more so, Faulkner is the great experimentalist among 20th-century novelists
 
-### **FAKT**: Techniki narracyjne
-- Używał strumienia świadomości, odrzucił chronologiczny porządek, używał wielu narratorów
-- Jego śmiałe innowacje utorowały drogę niezliczonym przyszłym pisarzom do dalszego eksperymentowania z możliwościami języka angielskiego
+### **FACT**: Narrative techniques
+- He used stream of consciousness, rejected chronological order, used multiple narrators
+- His bold innovations paved the way for countless future writers to further experiment with the possibilities of the English language
 
-## Ciekawostki i ukryte fakty
+## Curiosities and Hidden Facts
 
-### **FAKT**: Dedykacja dla Caroline Barr
-- Na pogrzebie Caroline Barr Faulkner powiedział żałobnikom, że to przywilej odprowadzić ją, że nauczyła go odróżniać dobro od zła i była lojalna wobec jego rodziny, mimo że żadnego z nich nie urodziła
+### **FACT**: Dedication to Caroline Barr
+- At Caroline Barr's funeral, Faulkner told mourners that it was a privilege to see her off, that she had taught him to distinguish good from evil and was loyal to his family, though she bore none of them
 
-### **FAKT**: Uniwersalność tematów
-- Powieść eksploruje tematy uniwersalne: upadek południowej arystokracji, rasizm, niepełnosprawność intelektualną, dysfunkcję rodzinną
-- Te tematy pozostają aktualne i rezonują z czytelnikami na całym świecie
+### **FACT**: Universality of themes
+- The novel explores universal themes: the fall of Southern aristocracy, racism, intellectual disability, family dysfunction
+- These themes remain relevant and resonate with readers worldwide
 
-### **FAKT**: Wpływ na przyszłych pisarzy
-- Książka wpłynęła na niezliczonych późniejszych pisarzy i jest uważana za kamień węgielny literatury modernistycznej
-- Jest prawie jednomyślnie uważana za arcydzieło przez krytyków literackich i uczonych
+### **FACT**: Influence on future writers
+- The book influenced countless later writers and is considered a cornerstone of modernist literature
+- It is almost unanimously considered a masterpiece by literary critics and scholars
 
 ---
 
-*Dokument zawiera 47 konkretnych faktów i anegdot o powstaniu "The Sound and the Fury" Williama Faulknera, opartych na zweryfikowanych źródłach historycznych i biograficznych.*
+*This document contains 47 specific facts and anecdotes about the creation of William Faulkner's "The Sound and the Fury," based on verified historical and biographical sources.*

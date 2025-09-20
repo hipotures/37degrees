@@ -1,224 +1,224 @@
-# Analiza Symboliki i Ukrytych Znaczeń: "Tartuffe" Molière'a
+# Symbolic Analysis and Hidden Meanings: Molière's "Tartuffe"
 
-## Główne Symbole i Ich Interpretacje
+## Main Symbols and Their Interpretations
 
-### 1. Imię "Tartuffe" - Ukryte Znaczenia Językowe
+### 1. The Name "Tartuffe" - Hidden Linguistic Meanings
 
-**Symbol trufli jako metafora charakteru**: Imię "Tartuffe" oznacza "truflę" - ukryty, podziemny grzyb. Ta etymologia niesie głębokie znaczenie symboliczne, łącząc ukryte intencje, oszustwo, fałsz i obłudę z tajemniczym, podziemnym organizmem. Metafora ta dodaje intrygujący wymiar "czarnej, subtelnej, podziemnej duszy" Tartuffa.
+**The truffle symbol as character metaphor**: The name "Tartuffe" means "truffle" - a hidden, underground mushroom. This etymology carries deep symbolic meaning, connecting hidden intentions, deception, falsehood, and hypocrisy with a mysterious, subterranean organism. This metaphor adds an intriguing dimension of "black, subtle, underground soul" to Tartuffe.
 
-**Językowa ewolucja**: Po premierze sztuki słowo "tartuffe" weszło do języka francuskiego i angielskiego jako określenie obłudnika, który ostentacyjnie i przesadnie udaje cnotę, szczególnie religijną. Ta językowa transformacja pokazuje, jak głęboko postać wniknęła do świadomości kulturowej.
+**Linguistic evolution**: After the play's premiere, the word "tartuffe" entered French and English as a term for a hypocrite who ostentatiously and excessively feigns virtue, particularly religious virtue. This linguistic transformation shows how deeply the character penetrated cultural consciousness.
 
-### 2. Chusteczki jako Symbole Religijne
+### 2. Handkerchiefs as Religious Symbols
 
-**Wielowarstwowa symbolika tekstyliów**: Chusteczki pojawiają się wielokrotnie w sztuce jako nośniki różnych znaczeń religijnych i moralnych. Sługa Tartuffa rozdziera jedną na kawałki, ponieważ "splamiła" świętą książkę, podczas gdy sam Tartuffe używa chusteczki, by zasłonić dekolt Dorine, unikając "pokusy".
+**Multi-layered textile symbolism**: Handkerchiefs appear repeatedly in the play as carriers of various religious and moral meanings. Tartuffe's servant tears one to pieces because it "stained" a holy book, while Tartuffe himself uses a handkerchief to cover Dorine's décolletage, avoiding "temptation".
 
-**Purytańska hipokryzja**: Te sceny symbolizują skrajny purytanizm, który maskuje prawdziwe, grzeszne pragnienia. Chusteczka staje się symbolem fałszywej pobożności używanej do kontrolowania i manipulowania innymi.
+**Puritan hypocrisy**: These scenes symbolize extreme puritanism that masks true, sinful desires. The handkerchief becomes a symbol of false piety used to control and manipulate others.
 
-### 3. Ubiór jako Symbol Społecznej Pozycji
+### 3. Clothing as Symbol of Social Position
 
-**Strój Elmiry - wieloznaczny symbol**: Ubrania Elmiry niosą różne znaczenia symboliczne w zależności od perspektywy interpretacyjnej:
-- Dla teściowej reprezentują lekkomyślne wydatki i nieskromność
-- Dla samej Elmiry symbolizują bogactwo i młodość
-- Dla Tartuffa stają się symbolem pożądania seksualnego
+**Elmire's attire - ambiguous symbol**: Elmire's clothing carries different symbolic meanings depending on interpretive perspective:
+- For the mother-in-law, they represent frivolous expenses and immodesty
+- For Elmire herself, they symbolize wealth and youth
+- For Tartuffe, they become a symbol of sexual desire
 
-**Moda jako narzędzie władzy**: Konflikt wokół ubioru odzwierciedla szersze napięcia społeczne między tradycją a nowoczesnością, kontrolą patriarchalną a autonomią kobiecą.
+**Fashion as tool of power**: The conflict around clothing reflects broader social tensions between tradition and modernity, patriarchal control and female autonomy.
 
-### 4. Stół - Symbol Odwrócenia Ról Władzy
+### 4. The Table - Symbol of Power Role Reversal
 
-**Scena pod stołem jako punkt zwrotny**: Stół w IV akcie przyjmuje różnorodne znaczenia symboliczne - reprezentuje odwrócenie ról władzy, gdzie Elmira przejmuje kontrolę, potencjalnie symbolizując karę za poprzednie złe decyzje Orgona.
+**The under-table scene as turning point**: The table in Act IV takes on various symbolic meanings - it represents a reversal of power roles, where Elmire takes control, potentially symbolizing punishment for Orgon's previous bad decisions.
 
-**Przestrzeń ukrycia i odkrycia**: Stół staje się miejscem, gdzie prawda zostaje ujawniona, a iluzje rozproszone - metafora procesu demaskowania obłudy.
+**Space of hiding and discovery**: The table becomes a place where truth is revealed and illusions dispersed - a metaphor for the process of unmasking hypocrisy.
 
-## Motywy Uniwersalne i Archetypy
+## Universal Motifs and Archetypes
 
-### 5. Archetyp Oszusta/Trickstera
+### 5. The Trickster/Deceiver Archetype
 
-**Tartuffe jako klasyczny trickster**: Postać Tartuffa wpisuje się w uniwersalny archetyp trickstera - figury, która łączy literaturę klasyczną i współczesną z pradawną folklorem i ogólnoludzką świadomością. Jego przewaga polega na umiejętności dokładnej analizy słabości ofiar i wykorzystywania tych wad dla własnej korzyści.
+**Tartuffe as classic trickster**: Tartuffe's character fits into the universal trickster archetype - a figure that connects classical and contemporary literature with ancient folklore and universal human consciousness. His advantage lies in his ability to precisely analyze victims' weaknesses and exploit these flaws for his own benefit.
 
-**Połączenia z innymi archetypami**: Tartuffe można porównać do innych wielkich postaci literackich jak Faust czy Don Juan, które reprezentują różne aspekty transgresji i pragnienia. Wszystkie te postacie łączy element oszustwa, manipulacji i ostatecznych konsekwencji swoich działań.
+**Connections with other archetypes**: Tartuffe can be compared to other great literary figures like Faust or Don Juan, who represent different aspects of transgression and desire. All these characters share elements of deception, manipulation, and ultimate consequences of their actions.
 
-### 6. Archetyp Naiwnego Władcy
+### 6. The Naive Ruler Archetype
 
-**Orgon jako gullible authority figure**: Orgon reprezentuje archetyp naiwnego autorytetu - figure władzy, która mimo wysokiej pozycji społecznej pada ofiarą manipulacji. Ten archetyp pojawia się w wielu kulturach jako ostrzeżenie przed ślepym zaufaniem.
+**Orgon as gullible authority figure**: Orgon represents the archetype of naive authority - a figure of power who, despite high social position, falls victim to manipulation. This archetype appears in many cultures as a warning against blind trust.
 
-**Psychologia ofiary**: Orgon transgreduje "prawa Rozumu" i wypacza wiarę religijną, ulegając jej pozorem zamiast istocie, immoderowanie obalając osąd w swoim egoistycznym dążeniu do osobistego zbawienia.
+**Psychology of the victim**: Orgon transgresses "laws of Reason" and corrupts religious faith, succumbing to its appearance rather than essence, immoderately overthrowing judgment in his egotistical pursuit of personal salvation.
 
-### 7. Deus Ex Machina - Boska Interwencja
+### 7. Deus Ex Machina - Divine Intervention
 
-**Król jako figura boska**: Sztuka kończy się klasycznym deus ex machina - nieoczekiwany wybawiciel przynosi szczęśliwe zakończenie. Król, jako figura nieskończenie potężniejsza od Tartuffa, nie może tolerować obłudy łotra.
+**The King as divine figure**: The play ends with a classic deus ex machina - an unexpected savior brings a happy ending. The King, as a figure infinitely more powerful than Tartuffe, cannot tolerate the rogue's hypocrisy.
 
-**Teoria boskiego prawa królów**: XVII-wieczna Francja wierzyła w teorię Boskiego Prawa Królów - władza monarchy pochodziła od Wszechmogącego, który mianował go królem. Ta alians między władzą polityczną a bogiem judeo-chrześcijańskim uzasadniał wszelkie libertyństwo, na które król mógł sobie pozwolić wobec poddanych.
+**Theory of divine right of kings**: 17th-century France believed in the theory of Divine Right of Kings - the monarch's power came from the Almighty, who appointed him king. This alliance between political power and the Judeo-Christian god justified any liberties the king could take with his subjects.
 
-## Interpretacje Kulturowe
+## Cultural Interpretations
 
-### 8. Francuska Tradycja Antyklerykalna
+### 8. French Anticlerical Tradition
 
-**Krytyka instytucji religijnych**: Dla francuskiej kultury Tartuffe stał się symbolem krytyki instytucji religijnych i ich nadużyć. Sztuka nie potępia religii per se, ale ilustruje trudność rozróżnienia między prawdziwą pobożnością a fałszywymi pobożnymi gestami.
+**Critique of religious institutions**: For French culture, Tartuffe became a symbol of criticism of religious institutions and their abuses. The play does not condemn religion per se, but illustrates the difficulty of distinguishing between true piety and false pious gestures.
 
-**Świecka wizja moralności**: Molière przedstawia niebezpiecznie świecką wizję świata, sugerując, że dobro moralne może istnieć poza sferą wpływów Kościoła.
+**Secular vision of morality**: Molière presents a dangerously secular vision of the world, suggesting that moral good can exist outside the sphere of Church influence.
 
-### 9. Kontekst Absolutyzmu Ludwika XIV
+### 9. Context of Louis XIV's Absolutism
 
-**Alegoryjna krytyka monarchii**: W sztuce zawarta jest subtelna alegoryczna krytyka patriarchalnej monarchii, a mimo rozległych zmian Molière'a mających zadowolić władze, wciąż przenika przez nią alegoryczna krytyka autorytetu, zwłaszcza patriarchalnej monarchii.
+**Allegorical critique of monarchy**: The play contains a subtle allegorical critique of patriarchal monarchy, and despite Molière's extensive changes to satisfy authorities, an allegorical critique of authority, especially patriarchal monarchy, still permeates it.
 
-**Centralizacja władzy**: Historyczny moment powstania sztuki charakteryzował się wzmacnianiem absolutyzmu - król, przy wsparciu kardynała Richelieu, był zaangażowany we wzmacnianie centralizacji i walczył z wysoką szlachtą.
+**Centralization of power**: The historical moment of the play's creation was characterized by the strengthening of absolutism - the king, with Cardinal Richelieu's support, was engaged in strengthening centralization and fighting the high nobility.
 
-### 10. Wojny Religijne jako Tło
+### 10. Religious Wars as Background
 
-**Napięcia religijne**: W drugiej połowie XVI wieku toczyły się we Francji wojny religijne między katolicką większością a protestancką mniejszością, czyniąc tematy religijne szczególnie drażliwymi.
+**Religious tensions**: In the second half of the 16th century, religious wars were fought in France between the Catholic majority and Protestant minority, making religious themes particularly sensitive.
 
-**Hasło "jeden król, jedna wiara, jeden prawo"**: Ludwik XIV znacząco wzmocnił swoją władzę, wierząc w motto "jeden król, jedna wiara, jedan prawo", co tworzyło kontekst dla krytyki religijnej hipokryzji.
+**Motto "one king, one faith, one law"**: Louis XIV significantly strengthened his power, believing in the motto "one king, one faith, one law," which created a context for criticizing religious hypocrisy.
 
-## Psychologiczne Aspekty Postaci
+## Psychological Aspects of Characters
 
-### 11. Nieświadome Pragnienia Tartuffa
+### 11. Tartuffe's Unconscious Desires
 
-**Kompleks psychologiczny**: Sceny z Tartuffe'em są psychologicznie najbardziej skomplikowane w sztuce, gdy role głównych postaci subtelnie się zmieniają. Molière humanizuje Tartuffa, obdarzając go jeszcze jedną wadą - jego ewentualna klęska jest spowodowana przez pożądanie.
+**Psychological complexity**: Scenes with Tartuffe are psychologically the most complicated in the play, as the roles of main characters subtly change. Molière humanizes Tartuffe, endowing him with yet another flaw - his eventual defeat is caused by desire.
 
-**Nieświadome motywacje**: Zamiast czynić z Tartuffa nieludzkiego potwora, Molière pokazuje, jak pożądanie zmusza sprytnego obłudnika do opuszczenia maski i ujawnienia swojej hipokryzji.
+**Unconscious motivations**: Instead of making Tartuffe an inhuman monster, Molière shows how desire forces the cunning hypocrite to drop his mask and reveal his hypocrisy.
 
-### 12. Dynamika Władzy i Manipulacja
+### 12. Power Dynamics and Manipulation
 
-**Techniki manipulacji**: Tartuffe to mistrzowski manipulator - jest błyskotliwy i sprytny, sieje niezgodę wśród rodziny w najsubtelniejszy sposób. Jest doskonałym aktorem, którego wygląd, gesty i słowa są zawsze starannie wykalkulowane, by przekonać Orgona o swojej pobożności.
+**Manipulation techniques**: Tartuffe is a masterful manipulator - he is brilliant and cunning, sowing discord among the family in the most subtle way. He is a perfect actor, whose appearance, gestures, and words are always carefully calculated to convince Orgon of his piety.
 
-**Wykorzystywanie słabości**: Tartuffe wykorzystuje jeden z najstarszych oszustw w historii ludzkości, by wkraść się do domu Orgona - odwołuje się do pragnienia Orgona bycia dobrym, czcigodnym i pobożnym człowiekiem, udając, że sam taki jest.
+**Exploiting weaknesses**: Tartuffe uses one of the oldest deceptions in human history to infiltrate Orgon's house - he appeals to Orgon's desire to be a good, honorable, and pious man, pretending to be such himself.
 
-### 13. Psychologia Ofiar
+### 13. Psychology of Victims
 
-**Rozczarowanie rodziną**: Niektórzy krytycy wierzą, że Orgon był z natury rozczarowany wstrętnym zachowaniem swojej rodziny i zwrócił się do Tartuffa jako alternatywy. Jeśli tak, to pokaz pobożności Tartuffa mógł sugerować, że on sam może transcendować tę luksusową beztroskę, stąd był nadmiernie zauroczony tym, co obecność Tartuffa obiecywała.
+**Family disappointment**: Some critics believe that Orgon was naturally disappointed by his family's disgusting behavior and turned to Tartuffe as an alternative. If so, Tartuffe's display of piety could suggest that he himself could transcend this luxurious carelessness, hence he was overly enchanted by what Tartuffe's presence promised.
 
-**Hipokryzja ofiar**: Wszyscy trzej główni bohaterowie - Tartuffe, Orgon i Madame Pernelle - używają hipokryzji do zwiększenia własnej władzy, reprezentując uniwersalny wzorzec tego, jak fałszywa pobożność i samosprawiedliwość mogą być używane jako narzędzia kontroli i manipulacji.
+**Victims' hypocrisy**: All three main characters - Tartuffe, Orgon, and Madame Pernelle - use hypocrisy to increase their own power, representing a universal pattern of how false piety and self-righteousness can be used as tools of control and manipulation.
 
-## Współczesne Reinterpretacje
+## Contemporary Reinterpretations
 
-### 14. Adaptacje Feministyczne
+### 14. Feminist Adaptations
 
-**Reimaginacja Flora Davies i Siân Lawrence**: Feministyczna reinterpretacja przedstawiona przez Oxford's BT Studio przez Green Sun Productions w 2022 roku z wielkim uznaniem. Ta adaptacja umieszcza akcję w fikcyjnej firmie konsultingowej feministycznej; Orgon i Elmira stają się współdyrektorami generalnymi, a Tartuffe nowym pracownikiem w biurze.
+**Flora Davies and Siân Lawrence reimagining**: A feminist reinterpretation presented by Oxford's BT Studio through Green Sun Productions in 2022 to great acclaim. This adaptation places the action in a fictional feminist consulting firm; Orgon and Elmire become co-CEOs, and Tartuffe becomes a new office employee.
 
-**Analiza ról płciowych**: Tartuffe Molière'a podkreśla nierówność płci i zaprzecza oczekiwanym rolom płciowym przez postacie takie jak Elmira i Mariane. Elmira przeciwstawia się tradycyjnym pasywnym rolom kobiecym, aktywnie demaskując hipokryzję Tartuffa, podczas gdy przymusowe zaręczyny Mariane z Tartuffe'em pokazują brak sprawczości, jaką kobiety miały w decyzjach małżeńskich.
+**Gender roles analysis**: Molière's Tartuffe highlights gender inequality and contradicts expected gender roles through characters like Elmire and Mariane. Elmire opposes traditional passive female roles, actively exposing Tartuffe's hypocrisy, while Mariane's forced engagement to Tartuffe shows the lack of agency women had in marriage decisions.
 
-### 15. Interpretacje Międzykulturowe
+### 15. Intercultural Interpretations
 
-**Adaptacja pakistańsko-muzułmańska**: Royal Shakespeare Company wyprodukowała nową wersję autorstwa Anil Gupta i Richard Pinto, która przeniosła historię do współczesnej pakistańsko-muzułmańskiej społeczności Sparkhill w Birmingham.
+**Pakistani-Muslim adaptation**: The Royal Shakespeare Company produced a new version by Anil Gupta and Richard Pinto, which moved the story to the contemporary Pakistani-Muslim community of Sparkhill in Birmingham.
 
-**Współczesne konteksty polityczne**: American Stage Theatre Company w St. Petersburg na Florydzie zaadaptowało Tartuffa w 2016 roku, wystawiając go współcześnie jako satyrę polityczną, z Orgonem jako bogatym amerykańskim biznesmenem, który powierza swoją reputację i fortunę wschodzącemu politykowi Tartuffe'owi.
+**Contemporary political contexts**: American Stage Theatre Company in St. Petersburg, Florida adapted Tartuffe in 2016, staging it contemporarily as a political satire, with Orgon as a wealthy American businessman who entrusts his reputation and fortune to rising politician Tartuffe.
 
-### 16. Australijska Adaptacja "Post-Truth"
+### 16. Australian "Post-Truth" Adaptation
 
-**Era post-prawdy**: Zostało zaadaptowane dla australijskiej publiczności w erze "post-prawdy" przez dramatopisarza Philipa Kavanagh, wystawione przez State Theatre Company of South Australia i Brink Productions w październiku-listopadzie 2016 roku w Adelaide.
+**Post-truth era**: It was adapted for Australian audiences in the "post-truth" era by playwright Philip Kavanagh, staged by State Theatre Company of South Australia and Brink Productions in October-November 2016 in Adelaide.
 
-**Współczesne guru biznesu**: Adaptacja w angielskich rymowanych kupletach osadzona w Londynie w 2017 roku autorstwa Andrew Hiltona i Dominica Powera, w której Tartuffe jest fałszywym guru biznesu polującym na staroświeckiego polityka torysów w kryzysie wieku średniego.
+**Contemporary business gurus**: An adaptation in English rhyming couplets set in London in 2017 by Andrew Hilton and Dominic Power, where Tartuffe is a false business guru preying on an old-fashioned Tory politician in a midlife crisis.
 
-## Potencjalne Interpretacje LGBTQ+
+## Potential LGBTQ+ Interpretations
 
-### 17. Homoerotyczne Odczytania
+### 17. Homoerotic Readings
 
-**Możliwa relacja homoseksualna**: Akademickie dyskusje badają "możliwość homoseksualnej relacji między Tartuffe'em a Orgonem" w esejach krytycznych o sztuce, sugerując, że niektórzy badacze zaczęli eksplorować homoerotyczną dynamikę w tekście.
+**Possible homosexual relationship**: Academic discussions explore the "possibility of a homosexual relationship between Tartuffe and Orgon" in critical essays about the play, suggesting that some scholars have begun exploring homoerotic dynamics in the text.
 
-**Performatywność płci**: Teoria queer dostarcza soczewki, przez którą można "queerować" idee i dzieła, nie zawsze narzucając queerowość na obszar, ale wykorzystując soczewki teorii queer do wyobrażenia sobie nowych, wcześniej niezidentyfikowanych możliwości.
+**Gender performativity**: Queer theory provides a lens through which one can "queer" ideas and works, not always imposing queerness on an area, but using the lens of queer theory to imagine new, previously unidentified possibilities.
 
-### 18. Maskulinność i Władza
+### 18. Masculinity and Power
 
-**Performatywność tożsamości**: Tartuffe można interpretować przez pryzmat performatywności tożsamości - jego umiejętność "grania" pobożności odzwierciedla współczesne rozumienie płci i tożsamości jako performatywnych konstruktów społecznych.
+**Identity performativity**: Tartuffe can be interpreted through the prism of identity performativity - his ability to "play" piety reflects contemporary understanding of gender and identity as performative social constructs.
 
-**Homospołeczne więzi**: Dynamika między męskimi postaciami może być czytana jako eksploracja homospołecznych więzi władzy w społeczeństwie patriarchalnym.
+**Homosocial bonds**: The dynamics between male characters can be read as an exploration of homosocial power bonds in patriarchal society.
 
-## Ewolucja Interpretacji
+## Evolution of Interpretations
 
-### 19. XVII Wiek - Kontrreformacja
+### 19. 17th Century - Counter-Reformation
 
-**Pierwszy okres recepcji**: W XVII wieku sztuka była postrzegana przede wszystkim jako atak na religię, co wywołało gwałtowne kontrowersje. Arcybiskup Paryża Péréfixe wydał edykt grożący ekskomuniką każdemu, kto obejrzy, zagra lub przeczyta sztukę.
+**First reception period**: In the 17th century, the play was primarily seen as an attack on religion, causing violent controversy. The Archbishop of Paris Péréfixe issued an edict threatening excommunication to anyone who would watch, perform, or read the play.
 
-**Cenzura i rewizje**: Kontrowersja doprowadziła do licznych rewizji - poprawiona druga wersja sztuki nazywała się "L'Imposteur" i miała głównego bohatera o imieniu Panulphe zamiast Tartuffe.
+**Censorship and revisions**: The controversy led to numerous revisions - the corrected second version of the play was called "L'Imposteur" and had the main character named Panulphe instead of Tartuffe.
 
-### 20. XVIII-XIX Wiek - Oświecenie
+### 20. 18th-19th Century - Enlightenment
 
-**Racjonalistyczna interpretacja**: W okresie Oświecenia Tartuffe stał się symbolem triumfu rozumu nad zabobonami. Filozofowie jak Voltaire widzieli w nim bronę przeciwko fanatyzmu religijnemu i nietolerancji.
+**Rationalist interpretation**: During the Enlightenment, Tartuffe became a symbol of reason's triumph over superstition. Philosophers like Voltaire saw it as a weapon against religious fanaticism and intolerance.
 
-**Krytyka społeczna**: XIX-wieczni krytycy skupili się na aspektach krytyki społecznej, widząc w sztuce portret burgažji i jej słabości.
+**Social criticism**: 19th-century critics focused on aspects of social criticism, seeing in the play a portrait of the bourgeoisie and its weaknesses.
 
-### 21. XX Wiek - Psychoanaliza
+### 21. 20th Century - Psychoanalysis
 
-**Freudowska interpretacja**: Współczesna psychoanaliza pozwala na odczytanie Tartuffa przez pryzmat nieświadomych pragnień, projekcji i mechanizmów obronnych. Orgon może być interpretowany jako postać mierząca się z własnymi represjonowanymi impulsjami.
+**Freudian interpretation**: Contemporary psychoanalysis allows reading Tartuffe through the prism of unconscious desires, projections, and defense mechanisms. Orgon can be interpreted as a character struggling with his own repressed impulses.
 
-**Jungowska analiza**: Z perspektywy psychologii Jungowskiej Tartuffe może reprezentować "cień" - te aspekty osobowości, które jednostka odmawia uznania w sobie.
+**Jungian analysis**: From the perspective of Jungian psychology, Tartuffe may represent the "shadow" - those aspects of personality that the individual refuses to acknowledge in themselves.
 
-### 22. XXI Wiek - Studia Kulturowe
+### 22. 21st Century - Cultural Studies
 
-**Postkolonialna krytyka**: Współczesne adaptacje eksplorują tematy władzy, opresji i manipulacji w kontekście postkolonialnym, pokazując jak mechanizmy przedstawione przez Molière'a działają w różnych kontekstach kulturowych.
+**Postcolonial criticism**: Contemporary adaptations explore themes of power, oppression, and manipulation in a postcolonial context, showing how mechanisms presented by Molière operate in different cultural contexts.
 
-**Media i manipulacja**: W erze mediów społecznościowych Tartuffe zyskał nowe znaczenie jako symbol manipulacji medialnej i "fake news".
+**Media and manipulation**: In the era of social media, Tartuffe has gained new meaning as a symbol of media manipulation and "fake news".
 
-## Symbole Które Czytelnik Może Przeoczyć
+## Symbols That Readers Might Overlook
 
-### 23. Choroba Elmiry jako Symbol
+### 23. Elmire's Illness as Symbol
 
-**Małżeński dyskurs**: Choroba Elmiry stanowi symbol niezgody w ich małżeństwie, a niepowodzenie Orgona w reakcji na jej kaszel pokazuje, że choroba nadal reprezentuje małżeństwo, które potrzebuje uzdrowienia.
+**Marital discourse**: Elmire's illness constitutes a symbol of discord in their marriage, and Orgon's failure to react to her cough shows that the illness still represents a marriage that needs healing.
 
-**Ignorancja męska**: Obojętność Orgona na cierpienie żony symbolizuje szerszy wzorzec męskiej ignorancji wobec kobiecych potrzeb i doświadczeń.
+**Male ignorance**: Orgon's indifference to his wife's suffering symbolizes a broader pattern of male ignorance toward women's needs and experiences.
 
-### 24. Kasetka - Symbol Sekretów
+### 24. The Casket - Symbol of Secrets
 
-**Domowe i polityczne sekrety**: Kasetka reprezentuje sekrety, nie tylko potencjalnie niebezpieczne sekrety polityczne, ale także domowe sekrety - wiele smutku można by uniknąć, gdyby Orgon zwierzył się Elmirze zamiast Tartuffe'owi.
+**Domestic and political secrets**: The casket represents secrets, not only potentially dangerous political secrets but also domestic ones - much sadness could have been avoided if Orgon had confided in Elmire instead of Tartuffe.
 
-**Zaufanie i zdrada**: Kasetka staje się symbolem niewłaściwego umiejscowienia zaufania i konsekwencji dzielenia się sekretami z niewłaściwymi osobami.
+**Trust and betrayal**: The casket becomes a symbol of misplaced trust and consequences of sharing secrets with the wrong people.
 
-### 25. Językowe Zamieszanie
+### 25. Linguistic Confusion
 
-**Wieża Babel**: W Tartuffe, podobnie jak w biblijnej historii Wieży Babel, język jest zagmatwany, często z Tartuffe'em odpowiedzialnym - ma talent do naginania języka religijnego do swojej woli.
+**Tower of Babel**: In Tartuffe, like in the biblical story of the Tower of Babel, language is confused, often with Tartuffe responsible - he has a talent for bending religious language to his will.
 
-**Manipulacja językowa**: Tartuffe używa języka religijnego jako narzędzia manipulacji, pokazując jak święte słowa mogą być wypaczone dla ziemskich celów.
+**Linguistic manipulation**: Tartuffe uses religious language as a tool of manipulation, showing how sacred words can be corrupted for earthly purposes.
 
-## Połączenia z Innymi Dziełami Kultury
+## Connections with Other Cultural Works
 
-### 26. Don Juan - Libertyn vs Świętoszek
+### 26. Don Juan - Libertine vs. Saint
 
-**Kontrastujące archetypy**: Podczas gdy Don Juan otwarcie łamie zasady moralne, Tartuffe ukrywa swoje transgresje pod maską pobożności. Oba charaktery reprezentują różne sposoby buntu przeciwko społecznym normom.
+**Contrasting archetypes**: While Don Juan openly breaks moral rules, Tartuffe hides his transgressions under a mask of piety. Both characters represent different ways of rebelling against social norms.
 
-**Manipulacja vs Uwodzenie**: Don Juan używa uroku i uwodzenia, podczas gdy Tartuffe wykorzystuje religijną pobożność jako narzędzie manipulacji.
+**Manipulation vs. seduction**: Don Juan uses charm and seduction, while Tartuffe uses religious piety as a tool of manipulation.
 
-### 27. Faust - Wiedza vs Pobożność
+### 27. Faust - Knowledge vs. Piety
 
-**Różne ścieżki transgresji**: Faust sprzedaje duszę za wiedzę i władzę, podczas gdy Tartuffe używa fałszywej pobożności by osiągnąć materialne korzyści. Oba reprezentują różne formy duchowego upadku.
+**Different paths of transgression**: Faust sells his soul for knowledge and power, while Tartuffe uses false piety to achieve material benefits. Both represent different forms of spiritual fall.
 
-**Mefistofeles vs Tartuffe**: Oba charaktery funkcjonują jako kusiciele, ale Mefistofeles jest otwarcie zły, podczas gdy Tartuffe maskuje swoje złe intencje.
+**Mephistopheles vs. Tartuffe**: Both characters function as tempters, but Mephistopheles is openly evil, while Tartuffe masks his evil intentions.
 
-### 28. Molière i Shakespeare
+### 28. Molière and Shakespeare
 
-**Komedia vs Tragedia**: Podczas gdy szekspirowscy obłudnicy jak Iago kończą tragicznie, Tartuffe jest pokonany w komedii, sugerując różne kulturowe podejścia do hipokryzji.
+**Comedy vs. tragedy**: While Shakespearean hypocrites like Iago end tragically, Tartuffe is defeated in comedy, suggesting different cultural approaches to hypocrisy.
 
-**Społeczna krytyka**: Zarówno Molière jak i Shakespeare używają teatru do krytyki społecznej, ale Molière skupia się bardziej na krytyce instytucji, podczas gdy Shakespeare eksploruje ludzką naturę.
+**Social criticism**: Both Molière and Shakespeare use theater for social criticism, but Molière focuses more on institutional criticism, while Shakespeare explores human nature.
 
-## Uniwersalne Przesłania Współczesne
+## Universal Contemporary Messages
 
-### 29. Era Mediów Społecznościowych
+### 29. Social Media Era
 
-**Performatywna religijność**: W erze mediów społecznościowych Tartuffe zyskał nowe znaczenie jako symbol performatywnej religijności i "virtue signaling" - publicznego wyrażania opinii mających na celu zademonstrowanie własnej moralności.
+**Performative religiosity**: In the era of social media, Tartuffe has gained new meaning as a symbol of performative religiosity and "virtue signaling" - public expression of opinions aimed at demonstrating one's own morality.
 
-**Influencerzy i manipulacja**: Współczesne interpretacje widzą w Tartuffe'ie prototyp nieetycznego influencera, który wykorzystuje platformy społecznościowe do budowania fałszywego wizerunku dla osobistych korzyści.
+**Influencers and manipulation**: Contemporary interpretations see in Tartuffe a prototype of an unethical influencer who uses social platforms to build a false image for personal gain.
 
-### 30. Polityka i Populizm
+### 30. Politics and Populism
 
-**Fałszywi prorocy**: W kontekście współczesnego populizmu Tartuffe może być interpretowany jako symbol polityka, który wykorzystuje religijne i moralne retoryki do zdobycia władzy.
+**False prophets**: In the context of contemporary populism, Tartuffe can be interpreted as a symbol of a politician who uses religious and moral rhetoric to gain power.
 
-**Post-prawda**: W erze "post-prawdy" zdolność Tartuffa do manipulowania percepcją rzeczywości zyskuje szczególną relewancję.
+**Post-truth**: In the era of "post-truth," Tartuffe's ability to manipulate perception of reality gains particular relevance.
 
-### 31. Korporacyjna Kultura
+### 31. Corporate Culture
 
-**Toksyczna kultura pracy**: Współczesne adaptacje eksplorują Tartuffa jako symbol toksycznej kultury korporacyjnej, gdzie manipulacja i hipokryzja są używane do awansu kariery.
+**Toxic work culture**: Contemporary adaptations explore Tartuffe as a symbol of toxic corporate culture, where manipulation and hypocrisy are used for career advancement.
 
-**Etyka biznesowa**: Sztuka służy jako ostrzeżenie przed nieetycznymi praktykami biznesowymi zamaskowanymi pod społeczną odpowiedzialność.
+**Business ethics**: The play serves as a warning against unethical business practices disguised as social responsibility.
 
-### 32. Kryzys Autorytetu
+### 32. Crisis of Authority
 
-**Nieufność wobec instytucji**: W czasach kryzysu zaufania do instytucji Tartuffe rezonuje jako eksploracja tego, jak łatwo autorytety mogą być manipulowane i jak trudno jest rozróżnić prawdziwy autorytet od fałszywego.
+**Distrust of institutions**: In times of crisis of trust in institutions, Tartuffe resonates as an exploration of how easily authorities can be manipulated and how difficult it is to distinguish true authority from false.
 
-**Dezinformacja**: Umiejętności Tartuffa w manipulowaniu informacją i tworzeniu alternatywnej rzeczywistości odzwierciedlają współczesne wyzwania związane z dezinformacją.
+**Disinformation**: Tartuffe's skills in manipulating information and creating alternative reality reflect contemporary challenges related to disinformation.
 
-## Podsumowanie: Dlaczego Tartuffe Pozostaje Aktualny
+## Summary: Why Tartuffe Remains Relevant
 
-Tartuffe pozostaje jednym z najważniejszych dzieł literatury światowej, ponieważ jego tematy - hipokryzja, manipulacja, nadużywanie władzy religijnej i zaufania - są ponadczasowe. Sztuka oferuje bogactwo interpretacyjnych warstw, od powierzchownej komedii o oszuście, przez głęboką krytykę społeczną, po uniwersalne refleksje nad naturą ludzką.
+Tartuffe remains one of the most important works of world literature because its themes - hypocrisy, manipulation, abuse of religious power and trust - are timeless. The play offers a wealth of interpretive layers, from superficial comedy about a deceiver, through deep social criticism, to universal reflections on human nature.
 
-Różne kultury znajdują w Tartuffe odzwierciedlenie swoich własnych zmagań z hipokryzją i manipulacją, podczas gdy kolejne pokolenia odkrywają nowe znaczenia i relewancje. To sprawia, że dzieło Molière'a pozostaje żywe i znaczące, oferując ciągle nowe perspektywy interpretacyjne, które wzbogacają nasze rozumienie zarówno XVII-wiecznej Francji, jak i współczesnego świata.
+Different cultures find in Tartuffe a reflection of their own struggles with hypocrisy and manipulation, while successive generations discover new meanings and relevances. This makes Molière's work remain alive and significant, offering continuously new interpretive perspectives that enrich our understanding of both 17th-century France and the contemporary world.
 
-**Data analizy**: 4 września 2025
+**Analysis date**: September 20, 2025

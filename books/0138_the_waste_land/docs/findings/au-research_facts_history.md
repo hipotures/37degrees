@@ -1,157 +1,157 @@
-# Badania historyczne: T.S. Eliot - "The Waste Land" (1922)
+# Historical Research: T.S. Eliot - "The Waste Land" (1922)
 
-## Okoliczności powstania
+## Circumstances of Creation
 
-**FAKT** T.S. Eliot rozpoczął pracę nad "The Waste Land" już w 1914 roku, ale intensywną pracę nad poematem podjął dopiero w końcu stycznia lub na początku lutego 1921 roku, początkowo nazywając utwór "He Do the Police in Different Voices".
+**FACT** T.S. Eliot began work on "The Waste Land" as early as 1914, but intensive work on the poem was undertaken only in late January or early February 1921, initially calling the work "He Do the Police in Different Voices".
 
-**FAKT** Poemat został ukończony podczas leczenia nerwicy w szwajcarskiej klinice psychiatrycznej w Lozannie w listopadzie 1921 roku. Eliot przebywał tam po załamaniu nerwowym spowodowanym stresem w pracy w Lloyd's Bank i problemami małżeńskimi.
+**FACT** The poem was completed during treatment for nervous breakdown at a Swiss psychiatric clinic in Lausanne in November 1921. Eliot was there after a nervous breakdown caused by stress at work at Lloyd's Bank and marital problems.
 
-**FAKT** Pierwotny manuskrypt miał około 800 wierszy (niektóre źródła mówią o ponad 1000 wierszach), ale został skrócony do 433 wierszy na sugestię Ezra Pounda, który usunął prawie połowę tekstu.
+**FACT** The original manuscript was about 800 lines (some sources say over 1000 lines), but was reduced to 433 lines at Ezra Pound's suggestion, who removed almost half of the text.
 
-**FAKT** Eliot ukończył poemat podczas powrotu ze Szwajcarii do Paryża na początku stycznia 1922 roku, niosąc ze sobą 19-stronicowy rękopis utworu.
+**FACT** Eliot completed the poem during his return from Switzerland to Paris in early January 1922, carrying with him a 19-page manuscript of the work.
 
-## Współpraca z Ezrą Poundem
+## Collaboration with Ezra Pound
 
-**FAKT** Ezra Pound dokonał tak radykalnych cięć w manuskrypcie, że Eliot zadedykował mu poemat słowami "For Ezra Pound: il miglior fabbro" (lepszy rzemieślnik), cytatem z Dantego odnoszącym się do prowansalskiego trubadura Arnaut Daniel.
+**FACT** Ezra Pound made such radical cuts to the manuscript that Eliot dedicated the poem to him with the words "For Ezra Pound: il miglior fabbro" (the better craftsman), a quote from Dante referring to the Provençal troubadour Arnaut Daniel.
 
-**FAKT** Na oryginalnym manuskrypcie Pound robił bezlitosne notatki, w tym słynne "verse not interesting enough as verse to warrant so much of it" (wiersze niewystarczająco interesujące jako poezja, aby usprawiedliwić ich tak dużą ilość).
+**FACT** On the original manuscript, Pound made ruthless notes, including the famous "verse not interesting enough as verse to warrant so much of it".
 
-**FAKT** Pound natychmiast rozpoznał geniusz poematu i usunął wszystkie "purpurowe fragmenty", zachowując tylko te części, w których słyszał charakterystyczny głos Eliota oraz fragmenty zapożyczone z tekstów obcojęzycznych.
+**FACT** Pound immediately recognized the genius of the poem and removed all the "purple passages", keeping only those parts where he heard Eliot's characteristic voice and fragments borrowed from foreign language texts.
 
-**PLOTKA** Podobno Eliot był tak zdezorientowany długością i chaosem swojego poematu, że w desperacji przekazał go Poundowi, który "natychmiast rozpoznał jego geniusz".
+**RUMOR** Allegedly, Eliot was so disoriented by the length and chaos of his poem that in desperation he handed it to Pound, who "immediately recognized its genius".
 
-## Historia publikacji
+## Publication History
 
-**FAKT** "The Waste Land" został opublikowany jednocześnie w październiku 1922 roku w Wielkiej Brytanii w pierwszym numerze magazynu Eliota "The Criterion" (16 października) i w USA w listopadowym numerze "The Dial" (faktycznie wydanym około 20 października).
+**FACT** "The Waste Land" was published simultaneously in October 1922 in Britain in the first issue of Eliot's magazine "The Criterion" (October 16) and in the USA in the November issue of "The Dial" (actually released around October 20).
 
-**FAKT** The Dial zapłaciło Eliotowi 150 dolarów za poemat plus doroczną nagrodę 2000 dolarów (równowartość około 37 500 dolarów dzisiaj) za "zasługi dla literatury".
+**FACT** The Dial paid Eliot $150 for the poem plus an annual award of $2000 (equivalent to about $37,500 today) for "services to literature".
 
-**FAKT** Negocjacje z The Dial były burzliwe - Eliot wysłał telegram do redaktora Scofield Thayera brzmiący po prostu "cannot accept under 856 pounds", co Thayer mógł "odebrać tylko jako obelgę".
+**FACT** Negotiations with The Dial were stormy - Eliot sent a telegram to editor Scofield Thayer reading simply "cannot accept under 856 pounds", which Thayer could "only take as an insult".
 
-**FAKT** Sprzedaż The Dial wzrosła dramatycznie do 4500 egzemplarzy w numerze listopadowym z "The Waste Land", a w grudniu do 6200 - prawie dwukrotnie powyżej miesięcznej średniej.
+**FACT** The Dial's sales rose dramatically to 4,500 copies in the November issue with "The Waste Land", and in December to 6,200 - almost double the monthly average.
 
-**FAKT** Wydawnictwo Liveright zgłosiło dwa miesiące po publikacji sprzedaż "1000 egzemplarzy do tej pory", ale biograf wydawcy szacuje, że liczba była bliższa 5000 egzemplarzy.
+**FACT** Liveright publishing reported two months after publication sales of "1000 copies so far", but the publisher's biographer estimates the number was closer to 5,000 copies.
 
-## Pierwsze reakcje i kontrowersje
+## First Reactions and Controversies
 
-**FAKT** Poemat otrzymał ponad 50 recenzji w USA, równomiernie podzielone między entuzjastyczne i nieprzychylne.
+**FACT** The poem received over 50 reviews in the USA, evenly divided between enthusiastic and unfavorable.
 
-**FAKT** Pierwszy numer magazynu "Time" zawierał osławioną sugestię w kolumnie "Shantih, Shantih, Shantih: Has the Reader Any Rights before the Bar of Literature?", stwierdzając: "Krążą plotki, że The Waste Land został napisany jako żart".
+**FACT** The first issue of "Time" magazine contained the infamous suggestion in the column "Shantih, Shantih, Shantih: Has the Reader Any Rights before the Bar of Literature?", stating: "There are rumors that The Waste Land was written as a joke".
 
-**FAKT** Burton Rascoe w swojej cotygodniowej kolumnie literackiej w New York Tribune nazwał "The Waste Land" "być może najlepszym poematem tego pokolenia".
+**FACT** Burton Rascoe in his weekly literary column in the New York Tribune called "The Waste Land" "perhaps the finest poem of this generation".
 
-**FAKT** Louis Untermeyer skrytykował "kalejdoskopowy ruch poematu, w którym jasnokolorowe kawałki nie rekompensują braku zintegrowanego wzoru".
+**FACT** Louis Untermeyer criticized the "kaleidoscopic movement of the poem, in which bright-colored pieces do not compensate for the lack of an integrated pattern".
 
-**FAKT** Wielu krytyków podejrzewało, że jeśli to nie żart, to "The Waste Land" był rezultatem "nieuczciwej kabały, która wmawia niedogotowane dania łatwowiernemu społeczeństwu".
+**FACT** Many critics suspected that if not a joke, "The Waste Land" was the result of "a dishonest cabal that foists half-baked dishes on a credulous society".
 
-## Inspiracje i ukryte znaczenia
+## Inspirations and Hidden Meanings
 
-**FAKT** Eliot bezpośrednio przyznał w przypisach, że "nie tylko tytuł, ale plan i znaczna część przypadkowej symboliki poematu zostały zasugerowane przez książkę panny Jessie L. Weston o legendzie Graala: 'From Ritual to Romance'".
+**FACT** Eliot directly acknowledged in his notes that "not only the title, but the plan and a considerable portion of the incidental symbolism of the poem were suggested by Miss Jessie L. Weston's book on the Grail legend: 'From Ritual to Romance'".
 
-**FAKT** Drugim głównym źródłem była monumentalna praca antropologiczna Jamesa Frazera "The Golden Bough", szczególnie dwa tomy "Adonis, Attis, Osiris", które głęboko wpłynęły na całe pokolenie.
+**FACT** The second major source was James Frazer's monumental anthropological work "The Golden Bough", particularly the two volumes "Adonis, Attis, Osiris", which deeply influenced an entire generation.
 
-**FAKT** Słynne otwarcie "April is the cruellest month" jest subwersją pierwszych wierszy Prologu Generalnego "Opowieści Kanterberyjskich" Chaucera, który malował kwiecień jako miesiąc odnowicielskiej mocy.
+**FACT** The famous opening "April is the cruellest month" is a subversion of the first lines of the General Prologue of Chaucer's "Canterbury Tales", which painted April as a month of regenerative power.
 
-**FAKT** W 2020 roku pojawiły się dramatyczne nowe odkrycia pokazujące, że za maską bezosobowej teorii poezji Eliota kryła się znacznie bardziej osobista historia w "The Waste Land".
+**FACT** In 2020, dramatic new discoveries emerged showing that behind Eliot's mask of impersonal theory of poetry lay a much more personal story in "The Waste Land".
 
-## Ukryta historia miłości i straty
+## Hidden History of Love and Loss
 
-**FAKT** Jean Jules Verdenal, francuski przyjaciel Eliota z Sorbony (1910-1911), został zabity 2 maja 1915 roku podczas I wojny światowej w Gallipoli, próbując leczyć rannego żołnierza.
+**FACT** Jean Jules Verdenal, Eliot's French friend from the Sorbonne (1910-1911), was killed on May 2, 1915 during World War I at Gallipoli while trying to treat a wounded soldier.
 
-**FAKT** Eliot powiedział, że został poinformowany, iż jego przyjaciel zachowywał się heroicznie, "stojąc w wodzie po pas, pomagając ewakuować rannych drogą morską", ale został zabity.
+**FACT** Eliot said he was informed that his friend behaved heroically, "standing waist-deep in water, helping to evacuate the wounded by sea", but was killed.
 
-**FAKT** Eliot przyznał się do "sentymentalnego" zachodu słońca: "pamięć przyjaciela przechodzącego przez Ogrody Luksemburskie późnym popołudniem, machającego gałązką bzu, przyjaciela, który później miał zostać zmieszany z błotem Gallipoli".
+**FACT** Eliot confessed to a "sentimental" sunset: "the memory of a friend coming across the Luxembourg Gardens in the late afternoon, waving a branch of lilac, a friend who was later (so to speak) to be mixed with the mud of Gallipoli".
 
-**PLOTKA** Badacze sugerują, że "Hyacinth Girl" z pierwszej części poematu może być echem Verdenala, a hiacynt może być interpretowany jako męski symbol - w oryginalnym greckim micie Hiacynt był męskim kochankiem boga Apollina.
+**RUMOR** Scholars suggest that the "Hyacinth Girl" from the first part of the poem may be an echo of Verdenal, and the hyacinth may be interpreted as a masculine symbol - in the original Greek myth, Hyacinth was the male lover of the god Apollo.
 
-**PLOTKA** Phlebas Fenicjanin, utopiony marynarz z poematu, może być aluzją do Jeana Verdenala. Oficer medyczny, podobnie jak Phlebas, był "dwa tygodnie martwy", gdy Eliot w odbiciu ożenił się z Vivienne.
+**RUMOR** Phlebas the Phoenician, the drowned sailor from the poem, may be an allusion to Jean Verdenal. The medical officer, like Phlebas, was "a fortnight dead" when Eliot in reflection married Vivienne.
 
-**FAKT** W 1917 roku Eliot zadedykował swój pierwszy tom poezji "Prufrock and Other Observations" Verdenalowi z dedykacją "For Jean Verdenal, 1889–1915 mort aux Dardanelles" wraz z cytatem z "Czyśćca" Dantego o "ilości miłości".
+**FACT** In 1917, Eliot dedicated his first volume of poetry "Prufrock and Other Observations" to Verdenal with the dedication "For Jean Verdenal, 1889–1915 mort aux Dardanelles" along with a quote from Dante's "Purgatorio" about "the amount of love".
 
-## Życie prywatne i małżeństwo
+## Private Life and Marriage
 
-**FAKT** Eliot ożenił się z Vivienne Haigh-Wood w 1915 roku, po zapoznaniu ich przez Scofield Thayera. Ona miała historię chorób psychicznych, a nie jest jasne, na ile Eliot wiedział o tym przed ślubem.
+**FACT** Eliot married Vivienne Haigh-Wood in 1915, after being introduced by Scofield Thayer. She had a history of mental illness, and it's unclear how much Eliot knew about this before marriage.
 
-**FAKT** Małżeństwo miało chwiejny start - Eliot wydawał się mieć pewne nerwice dotyczące seksu i seksualności, a istnieją spekulacje, że dwoje nie było seksualnie kompatybilnych.
+**FACT** The marriage had a shaky start - Eliot seemed to have certain neuroses about sex and sexuality, and there's speculation that the two were not sexually compatible.
 
-**FAKT** W prywatnym piśmie napisanym w wieku sześćdziesięciu lat Eliot przyznał: "Przekonałem siebie, że jestem zakochany w Vivienne tylko dlatego, że chciałem spalić mosty i zobowiązać się do pozostania w Anglii. A ona przekonała siebie, że uratuje poetę, utrzymując go w Anglii. Małżeństwo nie przyniosło jej szczęścia. Mnie przyniosło stan umysłu, z którego powstała 'Ziemia jałowa'".
+**FACT** In a private letter written at age sixty, Eliot admitted: "I convinced myself that I was in love with Vivienne simply because I wanted to burn my boats and commit myself to staying in England. And she convinced herself that she would save the poet by keeping him in England. The marriage brought her no happiness. To me it brought the state of mind out of which came 'The Waste Land'".
 
-**FAKT** Eliot później opisał poemat jako "ulgę osobistej i całkowicie nieistotnej skargi przeciwko życiu... po prostu kawałek rytmicznego narzekania".
+**FACT** Eliot later described the poem as "a personal and wholly insignificant grouse against life... just a piece of rhythmical grumbling".
 
-## Leczenie psychiatryczne i przełom
+## Psychiatric Treatment and Breakthrough
 
-**FAKT** Eliot przeszedł rewolucyjne leczenie metodą "kontroli mózgu" u doktora Vittoza w sanatorium koło Lozanny, które składało się z prostych ruchów fizycznych, ćwiczeń wizualizacyjnych i rozwijania wrażliwości na dotyk, dźwięk i wzrok.
+**FACT** Eliot underwent revolutionary treatment using the "brain control" method with Dr. Vittoz at a sanatorium near Lausanne, which consisted of simple physical movements, visualization exercises, and developing sensitivity to touch, sound, and sight.
 
-**FAKT** Te miesiące odpoczynku, najpierw w Margate, a potem w Szwajcarii, były warunkami, w których Eliot stworzył niezwykły poemat, opublikowany 100 lat temu w październiku 1922 roku.
+**FACT** These months of rest, first in Margate and then in Switzerland, were the conditions under which Eliot created the extraordinary poem, published 100 years ago in October 1922.
 
-**FAKT** W końcu 1921 roku wyczerpany Eliot został zwolniony z pracy w Lloyd's Bank na trzy miesiące całkowitego odpoczynku i spędził kilka tygodni w nadmorskim mieście Margate z żoną Vivien.
+**FACT** At the end of 1921, the exhausted Eliot was given three months' complete rest from his job at Lloyd's Bank and spent several weeks in the seaside town of Margate with his wife Vivien.
 
-## Struktura i techniki literackie
+## Structure and Literary Techniques
 
-**FAKT** "The Waste Land" nie podąża za jedną narracją ani nie prezentuje spójnego stylu czy struktury. Poemat przechodzi między głosami satyry i proroctwa, z nagłymi i niezapowiedzianymi zmianami narratora, miejsca i czasu.
+**FACT** "The Waste Land" does not follow a single narrative nor present a coherent style or structure. The poem moves between voices of satire and prophecy, with sudden and unannounced changes of narrator, place, and time.
 
-**FAKT** Poemat jest tkany z wielu źródeł, a Eliot używa skomplikowanej ironii w sposób, w jaki używa przypisów do wyjaśniania swoich odniesień - strzałka awangardowa rzecz w 1922 roku.
+**FACT** The poem is woven from many sources, and Eliot uses sophisticated irony in the way he uses footnotes to explain his references - an avant-garde thing in 1922.
 
-**FAKT** Eliot skrystalizował technikę kolażu w 1922 roku, tworząc to, co badacze opisują jako "antymonument w pewien sposób. Jest pęknięty i fragmentaryczny".
+**FACT** Eliot crystallized the collage technique in 1922, creating what scholars describe as "an anti-monument in a way. It is cracked and fragmentary".
 
-**FAKT** 433-wersowy, pięcioczęściowy poemat zawiera nagłe i niezapowiadane zmiany narratora, lokalizacji i czasu, przywołując rozległy i dysonansowy zakres kultur i literatur.
+**FACT** The 433-line, five-part poem contains sudden and unannounced changes of narrator, location, and time, invoking a vast and dissonant range of cultures and literatures.
 
-## Wpływ kulturowy i międzynarodowy
+## Cultural and International Impact
 
-**FAKT** "The Waste Land" jest powszechnie uważany za jeden z najważniejszych anglojęzycznych poematów XX wieku i centralne dzieło poezji modernistycznej.
+**FACT** "The Waste Land" is widely considered one of the most important English-language poems of the 20th century and a central work of modernist poetry.
 
-**FAKT** Do czasu, gdy wszedł w domenę publiczną w Stanach Zjednoczonych w 1998 roku, był podstawą szkolnictwa wyższego przez pół wieku. Żadna antologia podręcznikowa nie mogła sobie pozwolić na jego pominięcie.
+**FACT** By the time it entered the public domain in the United States in 1998, it had been a mainstay of higher education for half a century. No textbook anthology could afford to omit it.
 
-**FAKT** Tłumaczenia na wiele języków rozprzestrzeniły jego wpływ daleko poza zwykłe kontury literatury anglo-amerykańskiej.
+**FACT** Translations into many languages spread its influence far beyond the usual contours of Anglo-American literature.
 
-**FAKT** Archetyp "ziemi jałowej" stał się dominujący w literaturze XX wieku, stanowiąc tło dla "Czekając na Godota" Samuela Becketta (1954).
+**FACT** The "wasteland" archetype became dominant in 20th-century literature, providing the backdrop for Samuel Beckett's "Waiting for Godot" (1954).
 
-**FAKT** Poemat bezpośrednio czerpie z kilku tysięcy lat starych Upaniszad, szczególnie z Brihadaranyaka ("Wielki Las") Upaniszad - Eliot zatytułował piąty rozdział "The Waste Land" tak samo jak piąty rozdział Upaniszad ("What The Thunder Said").
+**FACT** The poem directly draws from several thousand-year-old Upanishads, particularly the Brihadaranyaka ("Great Forest") Upanishad - Eliot titled the fifth section of "The Waste Land" the same as the fifth section of the Upanishad ("What The Thunder Said").
 
-## Ciekawostki i anegdoty
+## Curiosities and Anecdotes
 
-**FAKT** Wpływowy krytyk Clive Bell opisał poezję Eliota jako w dużej mierze "produkt ruchu jazzowego" i widział "The Waste Land" jako część "literatury ragtime'owej".
+**FACT** Influential critic Clive Bell described Eliot's poetry as largely "a product of the jazz movement" and saw "The Waste Land" as part of "ragtime literature".
 
-**FAKT** Synkopowane rytmy poematu można postrzegać jako włączenie kultury popularnej do nowego kanonu, który wymazuje granice między wysoką a niską kulturą.
+**FACT** The syncopated rhythms of the poem can be seen as incorporating popular culture into a new canon that erases the boundaries between high and low culture.
 
-**FAKT** Ezra Pound napisał krótko po publikacji: "Ziemia jałowa Eliota to moim zdaniem usprawiedliwienie 'ruchu', naszego współczesnego eksperymentu od 1900 roku".
+**FACT** Ezra Pound wrote shortly after publication: "Eliot's Waste Land is I think the justification of the 'movement', of our modern experiment, since 1900".
 
-**FAKT** Jedna kopia manuskryptu poematu, z adnotacjami Ezra Pounda i Vivienne Eliot przed debiutem publikacji w 1922 roku w "The Criterion" i "The Dial", została zagubiona, a później odnaleziona i dodana do kolekcji Henry'ego W. i Alberta A. Berg w New York Public Library.
+**FACT** One copy of the poem's manuscript, with annotations by Ezra Pound and Vivienne Eliot before its publication debut in 1922 in "The Criterion" and "The Dial", was lost and later found and added to the Henry W. and Albert A. Berg Collection at the New York Public Library.
 
-**FAKT** W 1971 roku opublikowano faksymile oryginalnych szkiców zawierające adnotacje Pounda, redagowane przez Valerie Eliot, ujawniając proces współpracy między poetami.
+**FACT** In 1971, a facsimile of the original drafts containing Pound's annotations was published, edited by Valerie Eliot, revealing the collaborative process between the poets.
 
-**FAKT** Manuskrypt składał się z mieszanki 64 stron maszynopisów i rękopisów na różnych rodzajach papieru, napisanych między 1919 a 1922 rokiem.
+**FACT** The manuscript consisted of a mixture of 64 pages of typescripts and manuscripts on different types of paper, written between 1919 and 1922.
 
-**FAKT** Siedem stron przypisów Eliota do poematu było prawdopodobnie albo celowym zmyleniem mającym zamaskować osobisty charakter poematu, albo po prostu wypełniaczem wymaganym przez wydawcę, aby tekst był nieco dłuższy.
+**FACT** Eliot's seven pages of notes to the poem were probably either deliberate misdirection intended to mask the personal nature of the poem, or simply filler required by the publisher to make the text somewhat longer.
 
-**PLOTKA** Książka pojawia się w filmie "Apocalypse Now" wśród tych trzymanych przez postać Kurtza, wraz z "The Golden Bough" - to dwie książki, które Eliot wymienił jako główne inspiracje dla "The Waste Land".
+**RUMOR** The book appears in the film "Apocalypse Now" among those held by Kurtz's character, along with "The Golden Bough" - these are the two books Eliot cited as major inspirations for "The Waste Land".
 
-**FAKT** "Praktycznie z dnia na dzień The Waste Land stał się punktem centralnym i okrzykiem bojowym wojen kulturowych swoich czasów i przyniósł Eliotowi sławę i status ikony, z którym nigdy się nie uporał".
+**FACT** "Practically overnight, The Waste Land became the focal point and battle cry of the culture wars of its time and brought Eliot fame and iconic status that he never came to terms with".
 
-**FAKT** Poemat ustanowił skrót myślowy dla "inteligentnego rozczarowania modernizmu literackiego, jego twórczego przeznaczenia zepsutych fragmentów zepsutej cywilizacji".
+**FACT** The poem established a mental shortcut for "the intelligent disappointment of literary modernism, its creative destiny of corrupted fragments of corrupted civilization".
 
-**FAKT** Eliot aktywnie zniechęcał przez dekady do biograficznych interpretacji swojej pracy, rozwijając "bezosobową teorię" poezji, w której życie prywatne poety uważano za nieistotne.
+**FACT** Eliot actively discouraged biographical interpretations of his work for decades, developing an "impersonal theory" of poetry in which the poet's private life was considered irrelevant.
 
-**FAKT** Bez zamiaru, Eliot "nadał prawa nieortodoksyjnym", i z pewnością było nieortodoksyjne dla kobiet o bardzo intelektualnym temperamencie i wykształceniu pisanie poematów książkowych.
+**FACT** Unintentionally, Eliot "gave rights to the unorthodox", and it was certainly unorthodox for women of very intellectual temperament and education to write book-length poems.
 
-## Statystyki i rekordy
+## Statistics and Records
 
-**FAKT** Oryginalny manuskrypt miał około 800-1000 wierszy, skróconych do 433 wierszy w wersji opublikowanej.
+**FACT** The original manuscript was about 800-1000 lines, reduced to 433 lines in the published version.
 
-**FAKT** Poemat składa się z pięciu części i 433 wierszy, z siedmioma stronami przypisów Eliota.
+**FACT** The poem consists of five parts and 433 lines, with seven pages of Eliot's notes.
 
-**FAKT** The Dial zapłaciło 150 dolarów za poemat plus 2000 dolarów nagrody (łącznie około 40 000 dolarów dzisiejszej wartości).
+**FACT** The Dial paid $150 for the poem plus $2000 prize money (totaling about $40,000 in today's value).
 
-**FAKT** Sprzedaż The Dial wzrosła z około 2200-2300 średnio miesięcznie do 4500 w numerze z "The Waste Land", a następnie do 6200 w grudniu.
+**FACT** The Dial's sales rose from about 2200-2300 monthly average to 4500 in the issue with "The Waste Land", then to 6200 in December.
 
-**FAKT** Wydanie książkowe sprzedało około 5000 egzemplarzy w pierwszych miesiącach po publikacji w grudniu 1922 roku.
+**FACT** The book edition sold about 5000 copies in the first months after publication in December 1922.
 
-**FAKT** Poemat otrzymał ponad 50 recenzji tylko w Stanach Zjednoczonych w pierwszym roku po publikacji.
+**FACT** The poem received over 50 reviews in the United States alone in the first year after publication.
 
-**FAKT** Jean Verdenal został zabity 2 maja 1915 roku w wieku 25 lat, siedem lat przed publikacją poematu.
+**FACT** Jean Verdenal was killed on May 2, 1915 at age 25, seven years before the poem's publication.
 
-**FAKT** Eliot miał 34 lata, gdy opublikował "The Waste Land" w 1922 roku.
+**FACT** Eliot was 34 years old when he published "The Waste Land" in 1922.
 
-**FAKT** Poemat wszedł w domenę publiczną w USA w 1998 roku, 76 lat po pierwszej publikacji.
+**FACT** The poem entered the public domain in the USA in 1998, 76 years after first publication.
 
-**FAKT** Do 1998 roku "The Waste Land" był podstawą programów studiów wyższych przez pół wieku w krajach anglojęzycznych.
+**FACT** Until 1998, "The Waste Land" was a cornerstone of higher education curricula for half a century in English-speaking countries.

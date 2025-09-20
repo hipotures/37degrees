@@ -1,134 +1,134 @@
-# Historia i Fakty: "Oresteja" Ajschylosa (458 p.n.e.)
+# History and Facts: "The Oresteia" by Aeschylus (458 BC)
 
-## Kontekst Powstania
+## Creation Context
 
-**FAKT** - Oresteja została po raz pierwszy wystawiona podczas Wielkiej Dionizji w Atenach w 458 p.n.e., rok naznaczony wysokimi napięciami między zwolennikami oligarchii a demokracji.
+**FACT** - The Oresteia was first performed during the Great Dionysia in Athens in 458 BC, a year marked by high tensions between supporters of oligarchy and democracy.
 
-**FAKT** - To było ostatnie dzieło Ajschylosa - napisał je mając około 67 lat, tuż przed śmiercią w 456 p.n.e. w Geli na Sycylii.
+**FACT** - This was Aeschylus's last work - he wrote it at about 67 years old, just before his death in 456 BC in Gela, Sicily.
 
-**FAKT** - Trylogia wygrała pierwszą nagrodę na festiwalu - była to trzynasta i ostatnia nagroda w czterdziestoletniej karierze Ajschylosa jako tragediopisarza.
+**FACT** - The trilogy won first prize at the festival - it was the thirteenth and final award in Aeschylus's forty-year career as a tragedian.
 
-**FAKT** - Oresteja to jedyna kompletna trylogia starogreckiego teatru, która przetrwała do naszych czasów - ze wszystkich greckich dramaturgów mamy tylko ten jeden kompletny cykl trzech powiązanych sztuk.
+**FACT** - The Oresteia is the only complete trilogy of ancient Greek theater that has survived to our times - from all Greek dramatists we have only this one complete cycle of three connected plays.
 
-## Biografia Autora i Kontekst Osobisty
+## Author Biography and Personal Context
 
-**FAKT** - Ajschylos (ok. 525-456 p.n.e.) urodził się w Eleusis, około 27 km od Aten, w zamożnej arystokratycznej rodzinie, gdzie pisanie tragedii było tradycyjnym rzemiosłem.
+**FACT** - Aeschylus (c. 525-456 BC) was born in Eleusis, about 27 km from Athens, into a wealthy aristocratic family where writing tragedies was a traditional craft.
 
-**FAKT** - W wieku 35 lat (490 p.n.e.) walczył jako hoplita w bitwie pod Maratonem przeciwko Persom - był jednym z słynnych "Mężów z Maratonu".
+**FACT** - At age 35 (490 BC) he fought as a hoplite in the Battle of Marathon against the Persians - he was one of the famous "Men of Marathon."
 
-**FAKT** - Dziesięć lat później uczestniczył w bitwie morskiej pod Salaminą i innych działaniach wojennych przeciwko drugiej inwazji perskiej.
+**FACT** - Ten years later he participated in the naval battle at Salamis and other military actions against the second Persian invasion.
 
-**FAKT** - Jego nagrobek w Geli wspominał jedynie udział w zwycięstwie pod Maratonem, nie wspominając ani słowem o sukcesach dramaturgicznych - pokazuje to, jak wielkie znaczenie miała dla niego i Greków wojna z Persją.
+**FACT** - His tombstone in Gela mentioned only his participation in the victory at Marathon, not saying a word about his dramatic successes - this shows how great significance the war with Persia had for him and the Greeks.
 
-**PLOTKA/LEGENDA** - Według starożytnych kronikarzył, Ajschylos zginął w Geli w 456 p.n.e. od żółwia zrzuconego przez orła, który pomylił jego łysą głowę ze skałą nadającą się do rozbicia pancerza - jednak ta groteskowa historia została prawdopodobnie wymyślona przez późniejszego komediopisarza.
+**RUMOR** - According to ancient chroniclers, Aeschylus died in Gela in 456 BC from a tortoise dropped by an eagle that mistook his bald head for a rock suitable for breaking the shell - however, this grotesque story was probably invented by a later comedy writer.
 
-**FAKT** - Miał dwóch synów, Euforiona i Biona, którzy kontynuowali rodzinną tradycję pisania tragedii.
+**FACT** - He had two sons, Euphorion and Bion, who continued the family tradition of writing tragedies.
 
-**FAKT** - Napisał około 70-90 sztuk, z których tylko siedem przetrwało w kompletnej formie.
+**FACT** - He wrote about 70-90 plays, of which only seven survived in complete form.
 
-## Proces Twórczy i Innowacje
+## Creative Process and Innovations
 
-**FAKT** - Pierwszy spektakl Ajschylosa odbył się podczas festiwalu dramatycznego w 499 p.n.e., ale pierwszą nagrodę zdobył dopiero w 485 p.n.e.
+**FACT** - Aeschylus's first performance took place during a dramatic festival in 499 BC, but he won his first prize only in 485 BC.
 
-**FAKT** - Według Arystotelesa, Ajschylos wprowadził drugiego aktora do teatru, umożliwiając po raz pierwszy prawdziwy dialog dramatyczny - wcześniej był tylko jeden aktor i chór.
+**FACT** - According to Aristotle, Aeschylus introduced the second actor to theater, enabling true dramatic dialogue for the first time - previously there was only one actor and the chorus.
 
-**FAKT** - W Orestei prawdopodobnie po raz pierwszy w historii teatru greckiego użył trzeciego aktora - szczególnie widoczne w scenie z Kasandrą w "Agamemnonie", która zaskakuje publiczność, gdy nagle przemawia po długim milczeniu.
+**FACT** - In the Oresteia he probably used a third actor for the first time in Greek theater history - particularly visible in the scene with Cassandra in "Agamemnon," who surprises the audience when she suddenly speaks after long silence.
 
-**FAKT** - Zmniejszył liczebność chóru z tradycyjnych 50 osób do zaledwie 12, czyniąc go bardziej zarządzalnym i pozwalając na bardziej aktywną rolę w narracji.
+**FACT** - He reduced the chorus size from the traditional 50 people to just 12, making it more manageable and allowing for a more active role in narration.
 
-**FAKT** - Wprowadził bardziej wymyślne kostiumy i kazał aktorom nosić koturnusy (buty na platformie), aby były lepiej widoczne dla publiczności.
+**FACT** - He introduced more elaborate costumes and made actors wear cothurni (platform shoes) to be better visible to the audience.
 
-**FAKT** - Szeroko wykorzystywał efekty sceniczne i maszynerie teatralne - niektóre z jego dzieł były znane ze spektakularnych efektów wizualnych.
+**FACT** - He extensively used stage effects and theatrical machinery - some of his works were known for spectacular visual effects.
 
-## Kontekst Polityczny i Społeczny
+## Political and Social Context
 
-**FAKT** - Oresteja została napisana i wystawiona zaledwie dwa lata po zamordowaniu demokratycznego reformatora Efialesa w 462 p.n.e., który odebrał Areopagowi większość uprawnień, zostawiając mu tylko sprawy religijne i sądzenie morderstw.
+**FACT** - The Oresteia was written and performed just two years after the murder of democratic reformer Ephialtes in 462 BC, who stripped the Areopagus of most of its powers, leaving it only religious matters and murder trials.
 
-**FAKT** - W "Eumenidach" Ajschylos przedstawia Areopag jako sąd rozstrzygający sprawę Orestesa, sugerując, że jurysdykcja nad sprawami morderstw była pierwotną i słuszną funkcją tego ciała - co interpretuje się jako poparcie dla reform Efialesa.
+**FACT** - In "The Eumenides" Aeschylus presents the Areopagus as the court deciding Orestes' case, suggesting that jurisdiction over murder cases was the original and proper function of this body - interpreted as support for Ephialtes' reforms.
 
-**FAKT** - Starcie między "słusznym a słusznym" w Orestei ma bezpośrednie odniesienie do współczesnej ateńskiej sceny politycznej po zabójstwie Efialesa w 462 p.n.e.
+**FACT** - The clash between "right versus right" in the Oresteia has direct reference to the contemporary Athenian political scene after Ephialtes' assassination in 462 BC.
 
-**FAKT** - Trylogia została wystawiona w teatrze Dionizosa, który mógł pomieścić 15 000 widzów - ogromna publiczność dla tamtych czasów.
+**FACT** - The trilogy was performed in the Theater of Dionysus, which could accommodate 15,000 spectators - a huge audience for those times.
 
-## Szczegóły Produkcji i Efekty Teatralne
+## Production Details and Theatrical Effects
 
-**FAKT** - Według późniejszych relacji, chór Erynii (Furii) w pierwszym przedstawieniu "Eumenid" był tak przerażający, że dzieci mdlały, starcy tracili kontrolę nad pęcherzem, a kobiety w ciąży rodzły przedwcześnie.
+**FACT** - According to later accounts, the chorus of Erinyes (Furies) in the first performance of "The Eumenides" was so terrifying that children fainted, old men lost bladder control, and pregnant women gave birth prematurely.
 
-**FAKT** - Maski były przeprowadzane z przesadnymi cechami, aby publiczność w dużych teatrach na otwartym powietrzu mogła widzieć wyrażane emocje - szczególnie maski Furii były projektowane, aby wzbudzać horror i wstręt.
+**FACT** - Masks were made with exaggerated features so audiences in large outdoor theaters could see expressed emotions - particularly Fury masks were designed to inspire horror and disgust.
 
-**FAKT** - Maksymalna liczba aktorów wymaganych w jakiejkolwiek tragedii greckiej to trzech - nigdy nie było więcej niż trzech mówiących postaci na scenie w tym samym czasie.
+**FACT** - The maximum number of actors required in any Greek tragedy was three - there were never more than three speaking characters on stage at the same time.
 
-**FAKT** - Scena dywanów purpurowych w "Agamemnonie" była kluczowym momentem demonstrującym hubris - Agamemnon stąpając po purpurowych tkaninach przekracza granice między śmiertelnym a boskim, zapowiadając swoją zagładę.
+**FACT** - The purple carpet scene in "Agamemnon" was a key moment demonstrating hubris - Agamemnon stepping on purple fabrics crosses the boundaries between mortal and divine, foreshadowing his doom.
 
-## Unikatowe Aspekty Dzieła
+## Unique Aspects of the Work
 
-**FAKT** - Oresteja składa się z trzech sztuk: "Agamemnon", "Ofiarnice" (Choephori) i "Eumenidy", plus zagubiona sztuka satyrowa "Proteus".
+**FACT** - The Oresteia consists of three plays: "Agamemnon," "The Libation Bearers" (Choephori), and "The Eumenides," plus the lost satyr play "Proteus."
 
-**FAKT** - Sztuka satyrowa "Proteus", która pierwotnie kończyła tetralogię, jest utracona z wyjątkiem dwuwersowego fragmentu zachowanego przez Ateneusza - prawdopodobnie opowiadała historię z IV księgi "Odysei" Homera o Menelaosie uwięzionym na wyspie u wybrzeży Egiptu.
+**FACT** - The satyr play "Proteus," which originally ended the tetralogy, is lost except for a two-line fragment preserved by Athenaeus - it probably told the story from Book IV of Homer's "Odyssey" about Menelaus trapped on an island off the coast of Egypt.
 
-**FAKT** - "Proteus" opowiadał o objażdżce Menelaosa przez Egipt w drodze powrotnej z wojny trojańskiej - była to komiczna konkluzja poważnej trylogii.
+**FACT** - "Proteus" told of Menelaus's journey through Egypt on his way home from the Trojan War - it was a comic conclusion to the serious trilogy.
 
-**FAKT** - Trylogia kończy się przemianą Erynii (Furii) w Eumenidy ("Życzliwe") - reprezentuje to przejście od pierwotnego prawa krwawej zemsty do cywilizowanego porządku prawnego.
+**FACT** - The trilogy ends with the transformation of the Erinyes (Furies) into Eumenides ("The Kindly Ones") - this represents the transition from primitive blood vengeance law to civilized legal order.
 
-## Wpływ na Współczesnych i Potomność
+## Influence on Contemporaries and Posterity
 
-**FAKT** - W publiczności na pierwszym przedstawieniu był prawdopodobnie młody Eurypides (ok. 485-406 p.n.e.), trzeci z wielkich ateńskich dramaturgów tragicznych, którego późniejsza sztuka "Orestes" (408 p.n.e.) była mocno wpływnięta przez Oresteję.
+**FACT** - In the audience at the first performance was probably young Euripides (c. 485-406 BC), the third of the great Athenian tragic dramatists, whose later play "Orestes" (408 BC) was heavily influenced by the Oresteia.
 
-**FAKT** - Popularność Ajschylosa jest widoczna w pochwalach, jakie komediopisarz Arystofanes daje mu w "Żabach", wystawionej około 50 lat po śmierci Ajschylosa.
+**FACT** - Aeschylus's popularity is visible in the praise comedy writer Aristophanes gives him in "The Frogs," performed about 50 years after Aeschylus's death.
 
-**FAKT** - W "Żabach" Arystofanes pokazuje Ajschylosa jako postać, która twierdzi w wersie 1022, że jego "Siedmiu przeciw Tebom" "sprawiło, że każdy, kto to widział, pokochał wojnę".
+**FACT** - In "The Frogs" Aristophanes shows Aeschylus as a character who claims in verse 1022 that his "Seven Against Thebes" "made everyone who saw it love war."
 
-## Tradycja Manuskryptów i Przetrwanie
+## Manuscript Tradition and Survival
 
-**FAKT** - Żaden z manuskryptów Ajschylosa nie jest starszy niż 1200 rok n.e., kilka pochodzi z XIII wieku, a większość z XIV-XVI wieku.
+**FACT** - None of Aeschylus's manuscripts is older than 1200 AD, some date from the 13th century, and most from the 14th-16th centuries.
 
-**FAKT** - Prawdopodobnie w III wieku n.e. dokonano selekcji siedmiu sztuk do użytku szkolnego z oddzielnymi komentarzami - to są jedyne sztuki, które do nas dotarły.
+**FACT** - Probably in the 3rd century AD a selection of seven plays was made for school use with separate commentaries - these are the only plays that have come down to us.
 
-**FAKT** - Podczas wczesnego okresu bizantyńskiego dokonano dalszej selekcji trzech sztuk - tak zwanej "triady bizantyńskiej", składającej się z "Prometeusza", "Siedmiu przeciw Tebom" i "Persów".
+**FACT** - During the early Byzantine period a further selection was made of three plays - the so-called "Byzantine triad," consisting of "Prometheus," "Seven Against Thebes," and "The Persians."
 
-**FAKT** - Fragmenty papirusów odzyskane z piasków Egiptu datują się głównie od II wieku n.e., kiedy Ajschylos nie był w modzie - jednak znaczna liczba fragmentów sztuk satyrowych została odzyskana.
+**FACT** - Papyrus fragments recovered from Egyptian sands date mainly from the 2nd century AD, when Aeschylus was not in fashion - however, a significant number of fragments of satyr plays have been recovered.
 
-## Statystyki i Rekordy
+## Statistics and Records
 
-**FAKT** - Ajschylos zdobył trzynaście zwycięstw na festiwalach dramatycznych w czterdziestoletniej karierze.
+**FACT** - Aeschylus won thirteen victories at dramatic festivals in his forty-year career.
 
-**FAKT** - Z szacunkowych 70-90 sztuk Ajschylosa, tylko siedem przetrwało w pełnej formie.
+**FACT** - Of Aeschylus's estimated 70-90 plays, only seven survived in full form.
 
-**FAKT** - Oresteja to jedyna kompletna trylogia ze wszystkich greckich dramaturgów - żaden inny autor nie ma zachowanego kompletnego cyklu trzech powiązanych sztuk.
+**FACT** - The Oresteia is the only complete trilogy from all Greek dramatists - no other author has a preserved complete cycle of three connected plays.
 
-**FAKT** - Teatr Dionizosa w Atenach, gdzie wystawiono Oresteję, mógł pomieścić 15 000 widzów.
+**FACT** - The Theater of Dionysus in Athens, where the Oresteia was performed, could accommodate 15,000 spectators.
 
-**FAKT** - Oprócz kilku brakujących wersów, Oresteja z 458 p.n.e. to jedyna kompletna trylogia sztuk greckich jakiegokolwiek dramatopisarza, jaka przetrwała.
+**FACT** - Apart from a few missing lines, the Oresteia from 458 BC is the only complete trilogy of Greek plays by any dramatist that has survived.
 
-## Ciekawostki Językowe i Artystyczne
+## Linguistic and Artistic Curiosities
 
-**FAKT** - Ajschylos był znany z "wielkich słów i majestatycznego stylu" - jego język był uznawany za szczególnie podniosły i uroczysty nawet jak na standardy tragedii greckiej.
+**FACT** - Aeschylus was known for "great words and majestic style" - his language was considered particularly elevated and solemn even by Greek tragedy standards.
 
-**FAKT** - Wprowadził nowe słowa do języka greckiego - był słynny z neologizmów i złożonych epitetów.
+**FACT** - He introduced new words to the Greek language - he was famous for neologisms and complex epithets.
 
-**FAKT** - Symbolika kolorów w Orestei, szczególnie purpury i krwi, była niezwykle wyrafinowana - purpurowe dywany w "Agamemnonie" wizualnie przypominają strumień świeżej krwi płynący do wnętrza domu.
+**FACT** - The color symbolism in the Oresteia, particularly purple and blood, was extremely sophisticated - the purple carpets in "Agamemnon" visually resemble a stream of fresh blood flowing into the house.
 
-**FAKT** - Scena rozpoznania w "Ofiarnicach", gdzie Elektra rozpoznaje Orestesa po kosmyku włosów i śladach stóp przy grobie, stała się klasycznym wzorcem scen rozpoznania w literaturze światowej.
+**FACT** - The recognition scene in "The Libation Bearers," where Electra recognizes Orestes by a lock of hair and footprints at the grave, became a classic pattern for recognition scenes in world literature.
 
-## Znaczenie Religijne i Mitologiczne
+## Religious and Mythological Significance
 
-**FAKT** - Oresteja ustanowiła później powszechnie potwierdzoną identyfikację Furii z Semnai, ateńskimi "czcigodnymi boginiami" - jeśli to prawda, sugeruje to, że Oresteja znalazła szeroką, wdzięczną i długotrwałą publiczność.
+**FACT** - The Oresteia established the later widely confirmed identification of the Furies with the Semnai, Athenian "venerable goddesses" - if true, this suggests that the Oresteia found a broad, grateful, and long-lasting audience.
 
-**FAKT** - Przemiana Furii z pierwotnych chtonicznych bóstw zemsty w opiekuńcze bóstwa Aten reprezentuje integrację archaicznych sił zemsty w cywilizowany porządek prawny, a nie ich zniszczenie.
+**FACT** - The transformation of the Furies from primitive chthonic deities of vengeance into protective deities of Athens represents the integration of archaic vengeful forces into civilized legal order, not their destruction.
 
-**FAKT** - Trylogia przedstawia przejście od prywatnej wendety do zorganizowanego procesu sądowego - zostało to opisane jako "akt założycielski prawa w całości".
+**FACT** - The trilogy presents the transition from private vendetta to organized judicial process - this has been described as "the founding act of law in its entirety."
 
-## Współczesne Odkrycia i Interpretacje
+## Contemporary Discoveries and Interpretations
 
-**FAKT** - Współczesne badania geologiczne w Delfach potwierdziły, że lekkie, słodko pachnące gazy (etylen, metan) mogły ulatywać się z pęknięcia ziemi pod adyton, wywołując trans Pytii - szczegół, który Ajschylos mógł znać z obserwacji.
+**FACT** - Modern geological research at Delphi confirmed that light, sweet-smelling gases (ethylene, methane) could escape from earth cracks under the adyton, inducing the Pythia's trance - a detail Aeschylus might have known from observation.
 
-**FAKT** - Scena sądu w "Eumenidach" rozgrywa się na Areopagu - nagim wzgórzu wapiennym z prostymi kamiennymi ławami wyciętymi ze skały, bez żadnych dekoracji czy monumentalnych konstrukcji, co podkreśla fundamentalny charakter ustanawianego prawa.
+**FACT** - The trial scene in "The Eumenides" takes place on the Areopagus - a bare limestone hill with simple stone benches cut from rock, without any decorations or monumental constructions, emphasizing the fundamental character of the law being established.
 
-**FAKT** - Trylogia kończy się nie doskonałą równowagą winy krwi, ale raczej przez pojednanie i rządy prawa ustanowione przez Atenę i ateńskie sądy sprawiedliwości - rewolucyjny pomysł jak na tamte czasy.
+**FACT** - The trilogy ends not with perfect balance of blood guilt, but rather through reconciliation and rule of law established by Athena and Athenian courts of justice - a revolutionary idea for those times.
 
-To dzieło stanowi nie tylko magnifickie osiągnięcie artystyczne, ale także wyrafinowany komentarz polityczny do reform demokratycznych czasów Ajschylosa, używając przemiany od zemsty krwi do sprawiedliwości instytucjonalnej jako metafory ewolucji ateńskiej demokracji.
+This work represents not only a magnificent artistic achievement but also a sophisticated political commentary on the democratic reforms of Aeschylus's time, using the transformation from blood vengeance to institutional justice as a metaphor for the evolution of Athenian democracy.
 
 ---
 
-*Badania przeprowadzone: 4 września 2025*
-*Źródła: Materiały historyczne, akademickie publikacje, manuskrypty starożytne*
+*Research conducted: September 4, 2025*
+*Sources: Historical materials, academic publications, ancient manuscripts*

@@ -1,269 +1,269 @@
-# Rabindranath Tagore: Rewolucjonista Warsztatu Literackiego
+# Rabindranath Tagore: Revolutionary of Literary Craft
 
-## Wprowadzenie: Poeta Który Zmienił Reguły
+## Introduction: The Poet Who Changed the Rules
 
-Rabindranath Tagore (1861-1941) to postać wyjątkowa w historii literatury światowej - pierwszy nieeuropejski pisarz uhonorowany Nagrodą Nobla w dziedzinie literatury (1913), który nie tylko zrewolucjonizował literaturę bengalską, ale wprowadził innowacje, które wpłynęły na rozwój literatury światowej na całe dekady.
+Rabindranath Tagore (1861-1941) is an exceptional figure in world literature history - the first non-European writer honored with the Nobel Prize in Literature (1913), who not only revolutionized Bengali literature but introduced innovations that influenced the development of world literature for decades.
 
-Jego zbiór "Gitanjali" (Pieśni ofiarne) z 1910 roku (wersja bengalska) i 1912 roku (wersja angielska) to kamień milowy w ewolucji technik literackich - dzieło, które połączyło tradycyjną duchowość Wschodu z modernistycznymi technikami pisarskimi Zachodu.
+His collection "Gitanjali" (Song Offerings) from 1910 (Bengali version) and 1912 (English version) is a milestone in the evolution of literary techniques - a work that connected traditional Eastern spirituality with modernist Western writing techniques.
 
-## 1. FUNDAMENTALNE INNOWACJE JĘZYKOWE I STYLISTYCZNE
+## 1. FUNDAMENTAL LINGUISTIC AND STYLISTIC INNOVATIONS
 
-### 1.1 Rewolucja Języka Potocznego w Literaturze Bengalskiej
+### 1.1 Revolution of Colloquial Language in Bengali Literature
 
-**Technika:** Wprowadzenie colloquial Bengali (calit bhasa) do literatury wysokiej
-- **Przełom:** Porzucenie sztywnych form opartych na klasycznej sanskrycie
-- **Impact:** Demokratyzacja literatury bengalskiej - stała się dostępna dla zwykłego czytelnika
-- **Wpływ na innych:** Kazi Nazrul Islam stwierdził, że Tagore "całkowicie przekształcił język bengalski"
+**Technique:** Introduction of colloquial Bengali (calit bhasa) into high literature
+- **Breakthrough:** Abandoning rigid forms based on classical Sanskrit
+- **Impact:** Democratization of Bengali literature - it became accessible to ordinary readers
+- **Influence on others:** Kazi Nazrul Islam stated that Tagore "completely transformed the Bengali language"
 
-### 1.2 Pionierska Poezja Prozą (Prose Poetry)
+### 1.2 Pioneering Prose Poetry
 
-**Technika:** Stworzenie hybrydowej formy łączącej rytm poezji z swobodą prozy
-- **Innowacja:** W angielskiej wersji "Gitanjali" zrezygnował z rymu i metrum na rzecz rytmicznej prozy
-- **Wpływ:** Ta technika okazała się kluczowa dla sukcesu na Zachodzie
-- **Dziedzictwo:** Wpłynęła na rozwój modernistycznej poezji prozą
+**Technique:** Creation of a hybrid form combining the rhythm of poetry with the freedom of prose
+- **Innovation:** In the English version of "Gitanjali" he abandoned rhyme and meter in favor of rhythmic prose
+- **Impact:** This technique proved crucial for success in the West
+- **Legacy:** Influenced the development of modernist prose poetry
 
-### 1.3 Synteza Tradycji i Modernizmu
+### 1.3 Synthesis of Tradition and Modernism
 
-**Technika:** Łączenie tradycyjnych form duchowych z nowoczesnymi środkami wyrazu
-- **Element tradycyjny:** Nawiązanie do poezji Bhakti i tradycji Baulów
-- **Element modernistyczny:** Wolny vers i eksperymentalna struktura
-- **Rezultat:** Uniwersalny język duchowy zrozumiały dla czytelnika wschodniego i zachodniego
+**Technique:** Combining traditional spiritual forms with modern means of expression
+- **Traditional element:** Reference to Bhakti poetry and Baul tradition
+- **Modernist element:** Free verse and experimental structure
+- **Result:** Universal spiritual language understandable to both Eastern and Western readers
 
-## 2. REWOLUCYJNE TECHNIKI NARRACYJNE I STRUKTURALNE
+## 2. REVOLUTIONARY NARRATIVE AND STRUCTURAL TECHNIQUES
 
-### 2.1 Dekonstrukcja Linearnej Narracji
+### 2.1 Deconstruction of Linear Narrative
 
-**Technika:** Fragmentaryczna, medytacyjna struktura zamiast tradycyjnej narracji
-- **Mechanizm:** Każdy wiersz w "Gitanjali" to autonomiczna jednostka duchowa
-- **Innowacja:** Brak tradycyjnej fabularnej progresji - zamiast tego spiralna eksploracja tematów
-- **Wpływ:** Antycypował techniki stream of consciousness
+**Technique:** Fragmentary, meditative structure instead of traditional narrative
+- **Mechanism:** Each poem in "Gitanjali" is an autonomous spiritual unit
+- **Innovation:** Lack of traditional plot progression - instead, spiral exploration of themes
+- **Impact:** Anticipated stream of consciousness techniques
 
 ### 2.2 Technique of Spiritual Autobiography
 
-**Technika:** Połączenie osobistego doświadczenia z uniwersalnym przesłaniem duchowym
-- **Mechanizm:** Autor staje się "everyman" poszukującym kontaktu z Absolutem
-- **Innowacja:** Intymność bez narcyzmu - "ja" staje się przezroczyste dla uniwersalnego doświadczenia
-- **Wpływ na innych:** Wpłynął na rozwój literatury autobiograficznej XX wieku
+**Technique:** Combining personal experience with universal spiritual message
+- **Mechanism:** Author becomes "everyman" seeking contact with the Absolute
+- **Innovation:** Intimacy without narcissism - "I" becomes transparent to universal experience
+- **Influence on others:** Influenced the development of 20th-century autobiographical literature
 
-### 2.3 Muzyczna Organizacja Tekstu
+### 2.3 Musical Organization of Text
 
-**Technika:** Struktura oparta na zasadach kompozycji muzycznej
-- **Oryginalność:** "Gitanjali" to pierwotnie zbiór pieśni (Rabindrasangeet)
-- **Transfer do prozy:** Zachowanie rytmiczności i melodyjności w prozatorskich tłumaczeniach
-- **Innowacja:** Literatura jako "całkowite dzieło sztuki" (Gesamtkunstwerk)
+**Technique:** Structure based on principles of musical composition
+- **Originality:** "Gitanjali" is originally a collection of songs (Rabindrasangeet)
+- **Transfer to prose:** Maintaining rhythmicity and melodiousness in prose translations
+- **Innovation:** Literature as "total work of art" (Gesamtkunstwerk)
 
-## 3. PIONIERSKIE TECHNIKI CHARAKTERYZACJI I GŁOSU NARRACYJNEGO
+## 3. PIONEERING CHARACTERIZATION AND NARRATIVE VOICE TECHNIQUES
 
 ### 3.1 Technique of Divine Dialogue
 
-**Technika:** Bezpośrednia konwersacja z Bogiem jako bliskim, osobistym "Ty"
-- **Przełom:** Odejście od dystansowanej, hieratycznej poezji religijnej
-- **Mechanizm:** Bóg przedstawiony jako przyjaciel, kochanek, nauczyciel
-- **Wpływ:** Wpłynął na poezję religijną XX wieku w różnych tradycjach
+**Technique:** Direct conversation with God as a close, personal "You"
+- **Breakthrough:** Departure from distanced, hieratic religious poetry
+- **Mechanism:** God presented as friend, lover, teacher
+- **Impact:** Influenced 20th-century religious poetry in various traditions
 
 ### 3.2 Fluid Narrative Voice
 
-**Technika:** Płynne przechodzenie między różnymi poziomami świadomości
-- **Mechanizm:** Głos narratora oscyluje między ja-empirycznym a ja-transcendentnym
-- **Innowacja:** Dekonstrukcja stabilnej tożsamości narracyjnej
-- **Anticipacja:** Zapowiedź technik modernistycznych (Joyce, Woolf)
+**Technique:** Smooth transition between different levels of consciousness
+- **Mechanism:** Narrator's voice oscillates between empirical-I and transcendent-I
+- **Innovation:** Deconstruction of stable narrative identity
+- **Anticipation:** Forecast of modernist techniques (Joyce, Woolf)
 
 ### 3.3 Technique of Universal Particularity
 
-**Technika:** Przekształcenie osobistego doświadczenia w uniwersalną prawdę
-- **Mechanizm:** Konkretne, zmysłowe obrazy służą wyrażeniu abstrakcyjnych prawd duchowych
-- **Przykład:** "Gdzie umysł jest bez strachu / I głowa uniesiona wysoko..."
-- **Wpływ:** Wpłynął na poetykę symbolistyczną i modernistyczną
+**Technique:** Transforming personal experience into universal truth
+- **Mechanism:** Concrete, sensory images serve to express abstract spiritual truths
+- **Example:** "Where the mind is without fear / And the head is held high..."
+- **Impact:** Influenced symbolist and modernist poetics
 
-## 4. INNOWACYJNE TECHNIKI BUDOWANIA NAPIĘCIA I KONTROLI TEMPA
+## 4. INNOVATIVE TECHNIQUES FOR BUILDING TENSION AND CONTROLLING PACE
 
-### 4.1 Spiralny Rozwój Tematyczny
+### 4.1 Spiral Thematic Development
 
-**Technika:** Powracanie do tych samych tematów z coraz większą głębią
-- **Mechanizm:** Tematy jak samotność, poszukiwanie, jedność rozwijane są koncentrycznie
-- **Efekt:** Narastanie intensywności duchowej bez tradycyjnego climaxu
-- **Innowacja:** Alternatywa dla arystotelesowskiej dramaturgii
+**Technique:** Returning to the same themes with increasing depth
+- **Mechanism:** Themes like solitude, searching, unity are developed concentrically
+- **Effect:** Growing spiritual intensity without traditional climax
+- **Innovation:** Alternative to Aristotelian dramaturgy
 
 ### 4.2 Technique of Mystical Crescendo
 
-**Technika:** Stopniowe narastanie intensywności duchowej
-- **Mechanizm:** Od osobistego cierpienia przez poszukiwanie do transcendentnej jedności
-- **Struktura:** Mikrocresenda w poszczególnych wierszach, makrocrescendo w całym cyklu
-- **Wpływ:** Wpłynął na techniki budowania napięcia w literaturze duchowej
+**Technique:** Gradual increase in spiritual intensity
+- **Mechanism:** From personal suffering through searching to transcendent unity
+- **Structure:** Micro-crescendos in individual poems, macro-crescendo in the entire cycle
+- **Impact:** Influenced tension-building techniques in spiritual literature
 
-### 4.3 Rytmiczna Kontrola Oddechu Czytelniczego
+### 4.3 Rhythmic Control of Reader's Breath
 
-**Technika:** Świadome kształtowanie tempa lektury poprzez strukturę zdaniową
-- **Mechanizm:** Długie, meandrujące zdania przeplatane krótkimi, medytacyjnymi frazami
-- **Efekt:** Naturalny rytm oddechowy imitujący medytację
-- **Innowacja:** Literatura jako praktyka duchowa, nie tylko jej opisanie
+**Technique:** Conscious shaping of reading pace through sentence structure
+- **Mechanism:** Long, meandering sentences interspersed with short, meditative phrases
+- **Effect:** Natural breathing rhythm imitating meditation
+- **Innovation:** Literature as spiritual practice, not just its description
 
-## 5. WPŁYW NA KONKRETNYCH PISARZY I SZKOŁY LITERACKIE
+## 5. INFLUENCE ON SPECIFIC WRITERS AND LITERARY SCHOOLS
 
-### 5.1 Bezpośredni Wpływ na Modernistów Zachodnich
+### 5.1 Direct Influence on Western Modernists
 
 **W.B. Yeats:**
-- **Świadectwo:** "Nosiłem rękopis tych tłumaczeń ze sobą przez dni..."
-- **Wpływ techniczny:** Adaptacja technik medytacyjnych w późnej poezji Yeatsa
-- **Przykład:** Cykl "Byzantium" pokazuje podobną spiralną strukturę duchową
+- **Testimony:** "I carried the manuscript of these translations with me for days..."
+- **Technical influence:** Adaptation of meditative techniques in Yeats's late poetry
+- **Example:** "Byzantium" cycle shows similar spiral spiritual structure
 
 **Ezra Pound:**
-- **Rola:** Promował Tagore'a w czasopiśmie "Poetry"
-- **Ocena:** Porównał "Gitanjali" do "Paradiso" Dantego
-- **Wpływ:** Pound przejął technikę łączenia osobistego z universalnym w "Cantach"
+- **Role:** Promoted Tagore in "Poetry" magazine
+- **Assessment:** Compared "Gitanjali" to Dante's "Paradiso"
+- **Impact:** Pound adopted the technique of connecting personal with universal in "Cantos"
 
 **T.S. Eliot:**
-- **Pośredni wpływ:** Poprzez Poundowe promowanie technik orientalnych
-- **Podobieństwa:** "Four Quartets" wykazuje podobne techniki spiralnej progresji duchowej
+- **Indirect influence:** Through Pound's promotion of Oriental techniques
+- **Similarities:** "Four Quartets" shows similar techniques of spiral spiritual progression
 
-### 5.2 Wpływ na Poezję Latynoamerykańską
+### 5.2 Influence on Latin American Poetry
 
 **Pablo Neruda:**
-- **Bezpośrednie inspiracje:** "In My Sky at Twilight" bazuje na "Tumi sandhar meghamala" Tagore'a
-- **Technika przejęta:** Łączenie zmysłowej konkretności z abstrakcją duchową
-- **"Come With Me, I Said"** bazuje na "Ekla cholo re" Tagore'a
+- **Direct inspirations:** "In My Sky at Twilight" based on Tagore's "Tumi sandhar meghamala"
+- **Adopted technique:** Connecting sensory concreteness with spiritual abstraction
+- **"Come With Me, I Said"** based on Tagore's "Ekla cholo re"
 
 **Juan Ramón Jiménez:**
-- **Konkretne działanie:** Tłumaczenie "Gitanjali" na hiszpański (1913)
-- **Wpływ na twórczość:** Przejęcie techniki "czystej poezji" od Tagore'a
+- **Concrete action:** Translation of "Gitanjali" into Spanish (1913)
+- **Impact on work:** Adoption of "pure poetry" technique from Tagore
 
-### 5.3 Transformacja Literatury Indyjskiej
+### 5.3 Transformation of Indian Literature
 
-**R. Bendre (kannada):**
-- **Wpływ:** Adaptacja technik colloquial language do literatury kannada
-- **Innowacja:** Wprowadzenie demokratycznej poetyki do literatury południowoindyjskiej
+**R. Bendre (Kannada):**
+- **Impact:** Adaptation of colloquial language techniques to Kannada literature
+- **Innovation:** Introduction of democratic poetics to South Indian literature
 
-**Umashankar Joshi (gudżarati):**
-- **Bezpośrednia inspiracja:** "Prachina" i "Mahaprasthan" napisane w stylu dialogue poems Tagore'a
-- **Technika:** Przejęcie dramatycznej struktury wewnętrznej
+**Umashankar Joshi (Gujarati):**
+- **Direct inspiration:** "Prachina" and "Mahaprasthan" written in Tagore's dialogue poems style
+- **Technique:** Adoption of dramatic internal structure
 
-## 6. STWORZENIE NOWYCH GATUNKÓW I PODGATUNKÓW
+## 6. CREATION OF NEW GENRES AND SUBGENRES
 
-### 6.1 Spiritual Song-Cycle w Literaturze
+### 6.1 Spiritual Song-Cycle in Literature
 
-**Innowacja:** Stworzenie nowego gatunku łączącego cechy:
-- Cyklu poetyckiego
-- Kompozycji muzycznej  
-- Autobiografii duchowej
-- Traktatu filozoficznego
+**Innovation:** Creation of a new genre combining features of:
+- Poetic cycle
+- Musical composition
+- Spiritual autobiography
+- Philosophical treatise
 
-**Wpływ:** Ten format został przejęty przez poetów duchowych XX wieku
+**Impact:** This format was adopted by 20th-century spiritual poets
 
 ### 6.2 Cross-Cultural Devotional Poetry
 
-**Przełom:** Stworzenie poetyki religijnej zrozumiałej dla różnych tradycji duchowych
-- **Mechanizm:** Uniwersalne archetypy duchowe zamiast specyficznej doktryny
-- **Wpływ:** Wpłynął na rozwój poezji inter-religijnej
+**Breakthrough:** Creation of religious poetics understandable to different spiritual traditions
+- **Mechanism:** Universal spiritual archetypes instead of specific doctrine
+- **Impact:** Influenced the development of inter-religious poetry
 
-### 6.3 Literary Self-Translation jako Creative Act
+### 6.3 Literary Self-Translation as Creative Act
 
-**Innowacja:** Tłumaczenie własnych dzieł jako akt twórczy, nie odtwórczy
-- **Technika:** 53 z 103 wierszy angielskiego "Gitanjali" to tłumaczenia, 50 to kompozycje z różnych zbiorów
-- **Wpływ:** Wpłynął na praktykę samoprzetłumaczeń (Beckett, Nabokov)
+**Innovation:** Translation of one's own works as a creative, not reproductive act
+- **Technique:** 53 of 103 poems in English "Gitanjali" are translations, 50 are compositions from various collections
+- **Impact:** Influenced the practice of self-translations (Beckett, Nabokov)
 
-## 7. TECHNIKI KTÓRE PRZESZŁY DO KANONU PISARSKIEGO
+## 7. TECHNIQUES THAT ENTERED THE WRITING CANON
 
 ### 7.1 Technique of Transparent Ego
 
-**Definicja:** Ja-empiryczne staje się przezroczyste dla doświadczenia uniwersalnego
-- **Mechanizm:** Redukcja osobowości narratora do funkcji świadka
-- **Zastosowanie:** Idealne dla literatury duchowej i filozoficznej
-- **Współczesne użycie:** Wykorzystywane w mindfulness literature
+**Definition:** Empirical-I becomes transparent to universal experience
+- **Mechanism:** Reduction of narrator's personality to witness function
+- **Application:** Ideal for spiritual and philosophical literature
+- **Contemporary use:** Used in mindfulness literature
 
 ### 7.2 Rhythmic Prose Organization
 
-**Definicja:** Organizacja prozy według zasad rytmu muzycznego
-- **Technika:** Świadome kształtowanie długości zdań i fraz
-- **Efekt:** Naturalny flow czytelniczy imitujący oddech
-- **Współczesne zastosowanie:** Popularne w creative nonfiction
+**Definition:** Organization of prose according to principles of musical rhythm
+- **Technique:** Conscious shaping of sentence and phrase length
+- **Effect:** Natural reader flow imitating breath
+- **Contemporary application:** Popular in creative nonfiction
 
 ### 7.3 Concentric Theme Development
 
-**Definicja:** Rozwój tematów w spiralach o zwiększającym się promieniu
-- **Alternatywa:** Dla linearnej progresji fabularnej
-- **Zalety:** Pozwala na pogłębianie bez redundancji
-- **Współczesne użycie:** W literaturze medytacyjnej i filozoficznej
+**Definition:** Development of themes in spirals with increasing radius
+- **Alternative:** To linear plot progression
+- **Advantages:** Allows deepening without redundancy
+- **Contemporary use:** In meditative and philosophical literature
 
 ### 7.4 Technique of Sacred Colloquialism
 
-**Definicja:** Wykorzystanie języka potocznego do wyrażania treści sakralnych
-- **Przełom:** Przeciwstawienie się diktat języka hieratycznego w poezji religijnej
-- **Mechanizm:** "Uziemienie" doświadczenia mistycznego
-- **Współczesny wpływ:** Podstawa nowoczesnej poezji duchowej
+**Definition:** Use of colloquial language to express sacred content
+- **Breakthrough:** Opposition to the dictate of hieratic language in religious poetry
+- **Mechanism:** "Grounding" mystical experience
+- **Contemporary impact:** Foundation of modern spiritual poetry
 
-## 8. DLACZEGO TE TECHNIKI BYŁY REWOLUCYJNE
+## 8. WHY THESE TECHNIQUES WERE REVOLUTIONARY
 
-### 8.1 Przełamanie Barier Kulturowych
+### 8.1 Breaking Cultural Barriers
 
-**Problem epoki:** Literatura była zamknięta w narodowych i kulturowych gettach
-**Rozwiązanie Tagore'a:** Stworzenie uniwersalnego języka duchowego
-**Rezultat:** Pierwszy "global bestseller" w literaturze wysokiej
+**Problem of the era:** Literature was closed in national and cultural ghettos
+**Tagore's solution:** Creation of universal spiritual language
+**Result:** First "global bestseller" in high literature
 
-### 8.2 Demokratyzacja Literackich Środków Wyrazu
+### 8.2 Democratization of Literary Means of Expression
 
-**Problem:** Elitaryzm literacki opary na klasycznych formach
-**Innowacja:** Połączenie prostoty z głębią
-**Wpływ:** Otwarcie literatury wysokiej dla szerszego grona odbiorców
+**Problem:** Literary elitism based on classical forms
+**Innovation:** Combination of simplicity with depth
+**Impact:** Opening high literature to a broader audience
 
-### 8.3 Synteza Wschodu i Zachodu
+### 8.3 Synthesis of East and West
 
-**Historyczny kontekst:** Epoka kolonialnej dominacji kulturowej Zachodu
-**Osiągnięcie Tagore'a:** Udowodnienie równowartości tradycji wschodnich
-**Długofalowy wpływ:** Otwarcie literatury zachodniej na wpływy orientalne
+**Historical context:** Era of Western colonial cultural dominance
+**Tagore's achievement:** Proving the equivalence of Eastern traditions
+**Long-term impact:** Opening Western literature to Oriental influences
 
-## 9. PRAKTYCZNE INSIGHTS DLA WSPÓŁCZESNEGO PISANIA
+## 9. PRACTICAL INSIGHTS FOR CONTEMPORARY WRITING
 
-### 9.1 Lekcje w Zakresie Struktury
+### 9.1 Lessons in Structure
 
-- **Spiralna organizacja** zamiast linearnej może pogłębić impact emocjonalny
-- **Rytmiczna proza** zwiększa zaangażowanie czytelnika
-- **Koncentryczne powroty** do tematów budują rezonans
+- **Spiral organization** instead of linear can deepen emotional impact
+- **Rhythmic prose** increases reader engagement
+- **Concentric returns** to themes build resonance
 
-### 9.2 Lekcje w Zakresie Głosu
+### 9.2 Lessons in Voice
 
-- **Transparent ego** pozwala na wyrażenie uniwersalnych prawd
-- **Fluid voice** umożliwia eksplorację różnych poziomów doświadczenia
-- **Sacred colloquialism** czyni dostępnymi głębokie treści
+- **Transparent ego** allows expression of universal truths
+- **Fluid voice** enables exploration of different levels of experience
+- **Sacred colloquialism** makes deep content accessible
 
-### 9.3 Lekcje w Zakresie Cross-Cultural Writing
+### 9.3 Lessons in Cross-Cultural Writing
 
-- **Uniwersalne archetypy** przekraczają bariery kulturowe
-- **Lokalne detale** nadają autentyczność universalnym prawdom
-- **Self-translation** jako creative act, nie mechaniczne odtwarzanie
+- **Universal archetypes** transcend cultural barriers
+- **Local details** give authenticity to universal truths
+- **Self-translation** as creative act, not mechanical reproduction
 
-## 10. WSPÓŁCZESNA AKTUALNOŚĆ TECHNIK TAGORE'A
+## 10. CONTEMPORARY RELEVANCE OF TAGORE'S TECHNIQUES
 
-### 10.1 W Literaturze Mindfulness
+### 10.1 In Mindfulness Literature
 
-Techniki Tagore'a wykorzystywane są w współczesnej literaturze mindfulness i rozwoju osobistego:
-- Rhythmic organization wspomaga praktyki medytacyjne
-- Transparent ego technique wykorzystywana w spiritual memoirs
-- Concentric theme development w self-help literature
+Tagore's techniques are used in contemporary mindfulness and personal development literature:
+- Rhythmic organization supports meditative practices
+- Transparent ego technique used in spiritual memoirs
+- Concentric theme development in self-help literature
 
-### 10.2 W Cross-Cultural Fiction
+### 10.2 In Cross-Cultural Fiction
 
-- Technique of universal particularity w literaturze emigracyjnej
-- Sacred colloquialism w religious fiction
-- Musical organization w ethnic literature
+- Technique of universal particularity in emigrant literature
+- Sacred colloquialism in religious fiction
+- Musical organization in ethnic literature
 
-### 10.3 W Digital Storytelling
+### 10.3 In Digital Storytelling
 
-- Spiralny rozwój tematyczny w interactive narratives
-- Fluid voice w social media storytelling
-- Rhythmic prose w audio content
+- Spiral thematic development in interactive narratives
+- Fluid voice in social media storytelling
+- Rhythmic prose in audio content
 
-## Podsumowanie: Dziedzictwo Żywego Mistrza
+## Summary: Legacy of a Living Master
 
-Rabindranath Tagore nie był tylko poetą, ale architektem nowych możliwości literackich. Jego innowacje w "Gitanjali" i innych dziełach stworzyły:
+Rabindranath Tagore was not just a poet, but an architect of new literary possibilities. His innovations in "Gitanjali" and other works created:
 
-1. **Nową poetykę duchową** - uniwersalną, ale ukorzenioną kulturowo
-2. **Rewolucyjne techniki narracyjne** - spiralne, muzyczne, medytacyjne
-3. **Demokratyczne podejście do języka** - wysokie treści w dostępnej formie
-4. **Model cross-cultural writing** - lokalny w szczególe, uniwersalny w przesłaniu
-5. **Integrację różnych sztuk** - literatura jako total art experience
+1. **New spiritual poetics** - universal yet culturally rooted
+2. **Revolutionary narrative techniques** - spiral, musical, meditative
+3. **Democratic approach to language** - high content in accessible form
+4. **Model of cross-cultural writing** - local in detail, universal in message
+5. **Integration of different arts** - literature as total art experience
 
-Te osiągnięcia sprawiły, że Tagore stał się nie tylko pierwszym nieeuropejskim noblistą, ale prawdziwym nauczycielem warsztatu pisarskiego dla pokoleń twórców na całym świecie. Jego techniki, powstałe ponad sto lat temu, pozostają żywe i inspirujące dla współczesnych pisarzy poszukujących autentycznego głosu w zglobalizowanym świecie.
+These achievements made Tagore not only the first non-European Nobel laureate, but a true teacher of writing craft for generations of creators worldwide. His techniques, created over a hundred years ago, remain alive and inspiring for contemporary writers seeking an authentic voice in a globalized world.
 
 ---
 
-*Badanie przeprowadzone na podstawie analizy źródeł historycznych, literaturoznawczych oraz współczesnych studiów nad wpływem Tagore'a na literaturę światową.*
+*Research conducted based on analysis of historical sources, literary studies, and contemporary studies on Tagore's influence on world literature.*

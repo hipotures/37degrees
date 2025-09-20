@@ -1,284 +1,284 @@
-# Historia Powstania "Manifestu Komunistycznego" - Badania Faktów i Anegdot
+# History of "The Communist Manifesto" Creation - Facts and Anecdotes Research
 
-## Wprowadzenie
+## Introduction
 
-"Manifest Komunistyczny" (Manifest der kommunistischen Partei) autorstwa Karla Marksa i Friedricha Engelsa to bez wątpienia jeden z najbardziej wpływowych tekstów politycznych w historii ludzkości. Okoliczności jego powstania, proces twórczy oraz reakcje na pierwszą publikację kryją w sobie fascynujące historie, nieznane fakty i zaskakujące anegdoty, które pokazują, jak to niewielkie, 23-stronicowe dzieło zmieniło losy świata.
+"The Communist Manifesto" (Manifest der kommunistischen Partei) by Karl Marx and Friedrich Engels is undoubtedly one of the most influential political texts in human history. The circumstances of its creation, the creative process, and reactions to its first publication hide fascinating stories, unknown facts, and surprising anecdotes that show how this small, 23-page work changed the fate of the world.
 
-Niniejsze badania koncentrują się na odkrywaniu ukrytych historii, factów i ciekawostek związanych z procesem powstawania tego dokumentu - od tajnych spotkań w londyńskich pubach po ostatnie chwile przed rewolucją w Paryżu.
-
----
-
-## CZĘŚĆ I: TAJEMNICZA GENEZA - OD BRACTWA SPRAWIEDLIWYCH DO MANIFESTU
-
-### **FAKT**: Liga Sprawiedliwych - pierwszy proletariacki ruch międzynarodowy
-
-**FAKT**: Liga Sprawiedliwych (Bund der Gerechten) została założona w 1836 roku jako odłam wcześniejszej Ligi Banitów, która powstała w Paryżu w 1834 roku. Była to pierwsza międzynarodowa organizacja rewolucyjna o charakterze proletariackim w historii.
-
-**FAKT**: Członkowie Ligi to głównie niemieccy rzemieślnicy-wędrowcy - krawcy i stolarze pracujący w Paryżu i Londynie. Ich pierwotnym hasłem było "Wszyscy ludzie są braćmi", które później Marx i Engels zmienili na "Proletariusze wszystkich krajów, łączcie się!"
-
-**FAKT**: Liga była organizacją tajną o charakterze masońskim, z własnym systemem symboli, haseł i rytuałów inicjacyjnych. Członkowie musieli przechodzić przez kilka stopni wtajemniczenia, zanim uzyskali dostęp do najwyższych tajemnic organizacji.
-
-### **FAKT**: Powstanie paryskie 1839 - chrzest bojowy Ligi
-
-**FAKT**: 12 maja 1839 roku prominentni członkowie Ligi Sprawiedliwych, w tym Karl Schapper i Joseph Moll, wzięli udział w nieudanym powstaniu w Paryżu organizowanym przez blankowską Société des Saisons. Po klęsce zostali aresztowani przez władze francuskie i zmuszeni do opuszczenia Francji.
-
-**FAKT**: Po wygnaniu z Francji liderzy Ligi przenieśli się do Londyna, gdzie w 1840 roku założyli organizację przykrywkę - "Stowarzyszenie Edukacyjne Niemieckich Robotników" (Educational Society of German Workingmen), które służyło jako fasada dla ich tajnej działalności.
-
-**FAKT**: Do 1847 roku Liga Sprawiedliwych rozrosła się do ponad 1000 członków z oddziałami w Niemczech, Anglii, Szwajcarii i Francji, stając się pierwszą prawdziwie międzynarodową organizacją robotniczą.
+This research focuses on discovering hidden stories, facts, and curiosities related to the process of creating this document - from secret meetings in London pubs to the last moments before the revolution in Paris.
 
 ---
 
-## CZĘŚĆ II: SPOTKANIE UMYSŁÓW - MARX I ENGELS PRZEJMUJĄ KONTROLĘ
+## PART I: MYSTERIOUS GENESIS - FROM THE LEAGUE OF THE JUST TO THE MANIFESTO
 
-### **FAKT**: Karl Schapper - zapomniany architekt rewolucji
+### **FACT**: League of the Just - the first international proletarian movement
 
-**FAKT**: Karl Schapper (1812-1870), niemiecki drukarz i rewolucjonista, był prawdziwym organizatorem i przywódcą Ligi Sprawiedliwych. To on w liście z 20 stycznia 1847 roku zaprosił Marksa do przyłączenia się do Ligi w oczekiwaniu na kongres londyński.
+**FACT**: The League of the Just (Bund der Gerechten) was founded in 1836 as a splinter group from the earlier League of Outlaws, which was established in Paris in 1834. It was the first international revolutionary organization of a proletarian character in history.
 
-**ANEGDOTA**: Schapper, mimo że był prostym rzemieślnikiem, potrafił mówić kilkoma językami i był znany z tego, że podczas tajnych spotkań cytował na pamięć fragmenty Szekspira i Goethego. Współcześni opisywali go jako "człowieka o ogromnej fizycznej sile i jeszcze większej intelektualnej pasji".
+**FACT**: League members were mainly German traveling craftsmen - tailors and carpenters working in Paris and London. Their original motto was "All men are brothers," which Marx and Engels later changed to "Workers of all countries, unite!"
 
-### **FAKT**: Pierwszy Kongres - czerwiec 1847, nieobecność Marksa
+**FACT**: The League was a secret organization with a Masonic character, having its own system of symbols, passwords, and initiation rituals. Members had to pass through several degrees of initiation before gaining access to the organization's highest secrets.
 
-**FAKT**: Pierwszy kongres Ligi Sprawiedliwych odbył się 2 czerwca 1847 roku w Londynie. Engels uczestniczył jako delegat społeczności paryskich, ale Marx nie mógł przyjechać z powodów finansowych - po prostu nie miał pieniędzy na podróż do Londyna.
+### **FACT**: Paris Uprising 1839 - the League's baptism of fire
 
-**FAKT**: Na tym kongresie Liga oficjalnie zmieniła nazwę na "Ligę Komunistów" i przyjęła nowe hasło "Proletariusze wszystkich krajów, łączcie się!" zastępując wcześniejsze "Wszyscy ludzie są braćmi".
+**FACT**: On May 12, 1839, prominent members of the League of the Just, including Karl Schapper and Joseph Moll, participated in a failed uprising in Paris organized by the Blanquist Société des Saisons. After the defeat, they were arrested by French authorities and forced to leave France.
 
-### **FAKT**: Hotel Red Lion - miejsce narodzin Manifestu
+**FACT**: After exile from France, League leaders moved to London, where in 1840 they founded a cover organization - the "Educational Society of German Workingmen," which served as a facade for their secret activities.
 
-**FAKT**: Drugi Kongres Ligi Komunistów odbył się od 29 listopada do 8 grudnia 1847 roku w sali na piętrze pubu Red Lion przy 20 Great Windmill Street w londyńskiej dzielnicy Soho.
-
-**FAKT**: Red Lion był typowym viktoriańskim pubem, zbudowanym około 1793 roku na rogu z Archer Street. Sala konferencyjna na piętrze była wynajmowana przez różne organizacje - od stowarzyszeń rzemieślniczych po towarzystwa literackie.
-
-**ANEGDOTA**: Delegaci musieli przechodzić przez hałaśliwy bar na parterze, pełen robotników pijących gin i piwo, aby dostać się do sali na górze. Kontrastowało to z powagą dyskusji o rewolucji światowej, które toczyły się nad ich głowami.
-
-**FAKT**: Marx przybył do Londynu jako delegat Koła Brukselskiego w towarzystwie Victor Tedesco. Engels reprezentował społeczności paryskie. Karl Schapper został wybrany przewodniczącym kongresu, a Engels jego sekretarzem.
-
-### **FAKT**: "Gwałtowne i długotrwałe sprzeciwy" - walka o program
-
-**FAKT**: Według historyka Harolda Laskiego, przez dziesięć dni "toczyły się intensywne debaty między działaczami Ligi; Marx ostatecznie zdominował pozostałych i, przezwyciężając 'gwałtowne i długotrwałe sprzeciwy', zapewnił sobie większość dla swojego programu".
-
-**ANEGDOTA**: Społeczności paryskie zleciły Mojżeszowi Hessowi napisanie tekstu programowego, ale Engels zaaranżował wysłanie swojego własnego tekstu do Londynu "wbrew głosom członków i, jak przyznał Engels, 'za ich plecami'".
-
-**FAKT**: Po zakończeniu kongresu Liga jednogłośnie przyjęła znacznie bardziej wojowniczą rezolucję niż podczas Pierwszego Kongresu i "Marx (szczególnie) i Engels zostali upoważnieni do sporządzenia manifestu dla Ligi".
+**FACT**: By 1847, the League of the Just had grown to over 1,000 members with branches in Germany, England, Switzerland, and France, becoming the first truly international workers' organization.
 
 ---
 
-## CZĘŚĆ III: PROCES TWÓRCZY - PROKRASTYNACJA I PRESJA CZASU
+## PART II: MEETING OF MINDS - MARX AND ENGELS TAKE CONTROL
 
-### **FAKT**: Marx - mistrz prokrastynacji
+### **FACT**: Karl Schapper - the forgotten architect of revolution
 
-**FAKT**: Po powrocie do Brukseli Marx "popadł w nieustanną prokrastynację", jak opisuje jego biograf Francis Wheen. Zamiast pisać Manifest, Marx wygłaszał wykłady z ekonomii politycznej w Niemieckim Stowarzyszeniu Edukacji Robotników, pisał artykuły do "Deutsche-Brüsseler-Zeitung" i wygłosił długą mowę o wolnym handlu.
+**FACT**: Karl Schapper (1812-1870), a German printer and revolutionary, was the true organizer and leader of the League of the Just. He was the one who, in a letter dated January 20, 1847, invited Marx to join the League in anticipation of the London congress.
 
-**ANEGDOTA**: W trakcie gdy powinien pisać Manifest, Marx spędził cały tydzień (17-26 stycznia 1848) w Gandawie, zakładając tam oddział Stowarzyszenia Demokratycznego. Engels podobno żartował później, że "Karol potrafi znaleźć tysiąc powodów, żeby nie pisać, gdy ma napisać coś ważnego".
+**ANECDOTE**: Schapper, despite being a simple craftsman, could speak several languages and was known for quoting fragments of Shakespeare and Goethe from memory during secret meetings. Contemporaries described him as "a man of enormous physical strength and even greater intellectual passion."
 
-### **FAKT**: Ultimatum z Londynu - "Albo piszesz, albo ktoś inny"
+### **FACT**: First Congress - June 1847, Marx's absence
 
-**FAKT**: W styczniu 1848 roku przywódcy Ligi w Londynie wysłali do Marksa list z pogróżką, że odbiorą mu zadanie napisania Manifestu, jeśli szybko go nie ukończy.
+**FACT**: The first congress of the League of the Just took place on June 2, 1847, in London. Engels participated as a delegate from the Paris communities, but Marx could not come due to financial reasons - he simply did not have money for the trip to London.
 
-**ANEGDOTA**: List był napisany w bardzo stanowczym tonie i zawierał ultimatum: Marx miał dostarczyć gotowy tekst do końca stycznia, inaczej Liga zleci napisanie Manifestu komuś innemu. To była prawdopodobnie jedyna rzecz, która zmotywowała Marksa do zakończenia pracy.
+**FACT**: At this congress, the League officially changed its name to the "Communist League" and adopted the new motto "Workers of all countries, unite!" replacing the earlier "All men are brothers."
 
-### **FAKT**: Styczniowa gorączka pisania - od katechizmu do manifestu
+### **FACT**: Red Lion Hotel - birthplace of the Manifesto
 
-**FAKT**: 23 listopada 1847 roku, przed Drugim Kongresem, Engels napisał do Marksa wyrażając chęć porzucenia formy katechizmu na rzecz manifestu: "Pomyśl trochę nad 'Wyznaniem Wiary'. Myślę, że najlepiej byłoby porzucić formę katechizmową i nazwać to 'Manifestem Komunistycznym'".
+**FACT**: The Second Congress of the Communist League took place from November 29 to December 8, 1847, in a room on the upper floor of the Red Lion pub at 20 Great Windmill Street in London's Soho district.
 
-**FAKT**: Engels argumentował: "Skoro trzeba w nim opowiedzieć nieco historii, dotychczasowa forma jest całkowicie nieodpowiednia".
+**FACT**: The Red Lion was a typical Victorian pub, built around 1793 on the corner with Archer Street. The conference room upstairs was rented by various organizations - from craft associations to literary societies.
 
-**FAKT**: Marx napisał Manifest Komunistyczny w Brukseli w styczniu 1848 roku, używając jako wzorca traktat napisany przez Engelsa dla Ligi w 1847 roku (prawdopodobnie "Zasady Komunizmu").
+**ANECDOTE**: Delegates had to pass through the noisy bar on the ground floor, full of workers drinking gin and beer, to get to the room upstairs. This contrasted with the seriousness of discussions about world revolution taking place above their heads.
 
-### **FAKT**: "Wspólny bank intelektualny" - metoda współpracy
+**FACT**: Marx arrived in London as a delegate from the Brussels Circle accompanied by Victor Tedesco. Engels represented the Paris communities. Karl Schapper was elected chairman of the congress, and Engels became its secretary.
 
-**FAKT**: Według Harolda Laskiego, pisząc Manifest, Marx czerpał z "wspólnego zasobu idei", który rozwinął z Engelsem, "rodzaju intelektualnego konta bankowego, z którego każdy mógł czerpać swobodnie".
+### **FACT**: "Violent and prolonged opposition" - the struggle for the program
 
-**FAKT**: Anthony Arnove uważa, że "jądro Manifestu" można znaleźć w "Zasadach Komunizmu" Engelsa, a prawdziwym zadaniem Marksa było "przetłumaczenie tego katechizmu w formę manifestu, z większą narracją historyczną i większą siłą retoryczną".
+**FACT**: According to historian Harold Laski, for ten days "intense debates raged among League activists; Marx ultimately dominated the others and, overcoming 'violent and prolonged opposition,' secured a majority for his program."
 
----
+**ANECDOTE**: The Paris communities commissioned Moses Hess to write the program text, but Engels arranged to send his own text to London "against the votes of members and, as Engels admitted, 'behind their backs'."
 
-## CZĘŚĆ IV: FIZYCZNE ASPEKTY PUBLIKACJI - GDZIE, KIEDY I JAK
-
-### **FAKT**: 46 Liverpool Street - miejsce, które zmieniło świat
-
-**FAKT**: Pierwsza edycja "Manifestu Partii Komunistycznej" została wydrukowana pod adresem 46 Liverpool Street, Bishopsgate, London, w drukarni Komunistycznego Stowarzyszenia Edukacji Robotników (Kommunistischer Arbeiterbildungsverein).
-
-**FAKT**: Budynek znajdował się w dzielnicy Bishopsgate Without, bardzo gęsto zaludnionej okolicy, zanim w 1874 roku otwarto stację Liverpool Street, która zdominowała tę część miasta.
-
-**ANEGDOTA**: Drukarnia była małym, ciasnym pomieszczeniem na parterze budynku przy Liverpool Street. Robotnicy pracujący w drukach wspominali później, że tekst był tak rewolucyjny, że niektórzy z nich bali się go drukować, obawiając się represji policji.
-
-### **FAKT**: Szczegóły fizyczne pierwszego wydania
-
-**FAKT**: Pierwsza edycja Manifestu była 23-stronicową broszurą w ciemnozielonej okładce. Tytuł brzmiał "Manifest der kommunistischen Partei" (Manifest Partii Komunistycznej).
-
-**FAKT**: W kwietniu-maju 1848 roku ukazało się kolejne wydanie. Tekst liczył już 30 stron, poprawiono niektóre błędy druku z pierwszej edycji i udoskonalono interpunkcję.
-
-**FAKT**: Pierwsza edycja była przedrukowana trzy razy w ciągu kilku miesięcy i serializowana w "Deutsche Londoner Zeitung", gazecie dla niemieckich emigrantów.
-
-### **FAKT**: Data publikacji - dzień przed rewolucją
-
-**FAKT**: Manifest został opublikowany 21 lutego 1848 roku - dzień przed wybuchem rewolucji lutowej w Paryżu (22 lutego), która obaliła monarchię lipcową króla Ludwika Filipa.
-
-**ANEGDOTA**: Engels później żartował, że to nie była przypadkowość - "Historia miała swój własny harmonogram, a my tylko ją trochę przyspieszyliśmy". W rzeczywistości Marx i Engels nie mieli pojęcia o tym, co wydarzy się następnego dnia w Paryżu.
-
-**FAKT**: Broszura "ledwo ostygła po wydrukowaniu w Londynie, gdy wybuchła rewolucja we Francji 22 lutego z powodu zakazu spotkań politycznych".
+**FACT**: After the congress ended, the League unanimously adopted a much more militant resolution than during the First Congress, and "Marx (particularly) and Engels were authorized to draft a manifesto for the League."
 
 ---
 
-## CZĘŚĆ V: PIERWSZE REAKCJE I RECEPCJA
+## PART III: CREATIVE PROCESS - PROCRASTINATION AND TIME PRESSURE
 
-### **FAKT**: Początkowo zignorowany przez media
+### **FACT**: Marx - master of procrastination
 
-**FAKT**: Manifest miał początkowo niewielki wpływ. Plan natychmiastowego przetłumaczenia tekstu na kilka języków nie został zrealizowany, a Manifest nie miał wpływu na rewolucje z lat 1848-49.
+**FACT**: After returning to Brussels, Marx "fell into constant procrastination," as described by his biographer Francis Wheen. Instead of writing the Manifesto, Marx gave lectures on political economy at the German Workers' Educational Association, wrote articles for the "Deutsche-Brüsseler-Zeitung," and delivered a long speech on free trade.
 
-**FAKT**: Około 20 marca tysiąc egzemplarzy Manifestu dotarło do Paryża, a stamtąd na początku kwietnia do Niemiec.
+**ANECDOTE**: While he should have been writing the Manifesto, Marx spent an entire week (January 17-26, 1848) in Ghent, establishing a branch of the Democratic Association there. Engels reportedly joked later that "Karl can find a thousand reasons not to write when he has to write something important."
 
-### **FAKT**: Wczesne tłumaczenia - międzynarodowa ekspansja
+### **FACT**: London ultimatum - "Either you write, or someone else will"
 
-**FAKT**: Chociaż preambuła Manifestu zapowiadała, że będzie "opublikowany w językach angielskim, francuskim, niemieckim, włoskim, flamandzkim i duńskim", początkowo drukowano go tylko w języku niemieckim.
+**FACT**: In January 1848, League leaders in London sent Marx a threatening letter that they would take away his task of writing the Manifesto if he didn't complete it quickly.
 
-**FAKT**: Polskie i duńskie tłumaczenia wkrótce pojawiły się po niemieckim oryginale w Londynie, a do końca 1848 roku opublikowano szwedzkie tłumaczenie pod nowym tytułem - "Głos Komunizmu: Deklaracja Partii Komunistycznej".
+**ANECDOTE**: The letter was written in a very firm tone and contained an ultimatum: Marx had to deliver the finished text by the end of January, otherwise the League would commission someone else to write the Manifesto. This was probably the only thing that motivated Marx to finish the work.
 
-**FAKT**: Pierwsze angielskie wydanie ukazało się dopiero w listopadzie 1850 roku, gdy George Julian Harney opublikował w odcinkach tłumaczenie Helen Macfarlane w swojej czartyskiej gazecie "The Red Republican".
+### **FACT**: January writing fever - from catechism to manifesto
 
-**FAKT**: Między 1848 a 1868 rokiem wydaje się, że nie było tłumaczeń poza szwedzką wersją, prawdopodobnie opublikowaną pod koniec 1848 roku.
+**FACT**: On November 23, 1847, before the Second Congress, Engels wrote to Marx expressing his desire to abandon the catechism form in favor of a manifesto: "Think a bit about the 'Confession of Faith'. I think it would be best to abandon the catechism form and call it the 'Communist Manifesto'."
 
-### **FAKT**: Nakłady i cyrkulacja
+**FACT**: Engels argued: "Since we have to tell a bit of history in it, the previous form is completely unsuitable."
 
-**FAKT**: W roku rewolucji Manifest przeszedł przez dwa wydania liczące łącznie kilka tysięcy egzemplarzy i był publikowany częściowo w gazetach, więc był omawiany w stowarzyszeniach robotniczych.
+**FACT**: Marx wrote the Communist Manifesto in Brussels in January 1848, using as a template a treatise written by Engels for the League in 1847 (probably the "Principles of Communism").
 
-**PLOTKA**: Według niektórych źródeł, całkowity nakład wszystkich wydań w 1848 roku wyniósł około 5000 egzemplarzy, ale liczba ta nie jest potwierdzona w oficjalnych dokumentach.
+### **FACT**: "Common intellectual bank" - method of collaboration
 
----
+**FACT**: According to Harold Laski, writing the Manifesto, Marx drew from the "common store of ideas" he developed with Engels, "a kind of intellectual bank account from which each could draw freely."
 
-## CZĘŚĆ VI: OSOBISTE HISTORIE AUTORÓW
-
-### **FAKT**: Nędza finansowa Marksa podczas pisania
-
-**FAKT**: Życie Marksa było naznaczone politycznym wygnaniem i ubóstwem. Przez większość czasu on i jego rodzina żyli w względnej nędzy i musieli polegać na hojności innych, szczególnie Engelsa, odnoszącego sukcesy właściciela fabryki tekstylnej.
-
-**ANEGDOTA**: Podczas pisania Manifestu w Brukseli, Marx często nie miał pieniędzy na papier i atrament. Jenny, jego żona, musiała czasami zastawiać biżuterię ślubną, żeby kupić niezbędne materiały biurowe.
-
-**FAKT**: Marx poświęcił swoje życie na przenoszenie swoich myśli i filozofii na papier, ale jego pisanie nigdy nie przyniosło mu wystarczająco dużo pieniędzy, by mógł łatwo utrzymać się z tego.
-
-### **FAKT**: Engels - kapitalista-rewolucjonista
-
-**FAKT**: Friedrich Engels pochodził z zamożnej rodziny pruskich przemysłowców, właścicieli fabryk włókienniczych w Prusach i Anglii. Przez całe życie Engels nie tylko współpracował intelektualnie z Marksem, ale także regularnie wspierał go finansowo.
-
-**ANEGDOTA**: Engels potrafił wysyłać Marksowi pieniądze regularnie, często w formie banknotów pięciofuntowych, ale później w znacznie wyższych kwotach. Kiedy sprzedał swoje udziały w biznesie w 1869 roku, otrzymał wystarczająco, by żyć wygodnie do śmierci w 1895 roku i zapewnić Marksowi roczną dotację 350 funtów.
-
-**FAKT**: Engels opanował aż dwanaście języków, podczas gdy Marx znał dziewięć. Ich listy są uderzające ze względu na ciągłe przechodzenie między językami i liczbę uczonych cytatów, w tym starożytnej łaciny i greki.
-
-### **FAKT**: Intelektualna przyjaźń na odległość
-
-**FAKT**: Marx mieszkał w Londynie, Engels w Manchesterze, ale Engels odwiedzał go stosunkowo często i był wielkim ulubieńcem dzieci Marksa, oraz towarzyszem jazdy i czasami "chuligańskim przyjacielem" Marksa.
-
-**ANEGDOTA**: Obaj humaniści byli wielkimi miłośnikami literatury. Marx znał na pamięć fragmenty Szekspira i nigdy nie męczył się przeglądaniem swoich tomów Ajschylosa, Dantego i Balzaka. Engels był długo prezesem Instytutu Schillera w Manchesterze i uwielbiał Arystotelesa, Goethego i Lessinga.
+**FACT**: Anthony Arnove believes that "the core of the Manifesto" can be found in Engels' "Principles of Communism," and Marx's real task was to "translate this catechism into manifesto form, with greater historical narrative and greater rhetorical force."
 
 ---
 
-## CZĘŚĆ VII: WPŁYW WSPÓŁCZESNYCH WYDARZEŃ
+## PART IV: PHYSICAL ASPECTS OF PUBLICATION - WHERE, WHEN AND HOW
 
-### **FAKT**: Wiosna Ludów - tło historyczne
+### **FACT**: 46 Liverpool Street - the place that changed the world
 
-**FAKT**: 1848 rok to moment, w którym stary porządek Europy, ustanowiony na Kongresie Wiedeńskim, zaczął się trząść w posadach. Fala rewolucji, powstań i masowych protestów, znana jako Wiosna Ludów, przetoczyła się przez kontynent.
+**FACT**: The first edition of the "Manifesto of the Communist Party" was printed at 46 Liverpool Street, Bishopsgate, London, in the printing house of the Communist Workers' Educational Association (Kommunistischer Arbeiterbildungsverein).
 
-**FAKT**: Publikacja Manifestu 21 lutego 1848 roku zbiegła się w czasie z tymi wydarzeniami w sposób niemal profetyczny. Już następnego dnia w Paryżu wybuchła rewolucja lutowa.
+**FACT**: The building was located in the Bishopsgate Without district, a very densely populated area, before Liverpool Street station opened in 1874, which dominated this part of the city.
 
-**ANEGDOTA**: Marks i Engels nie przewidzieli konkretnych dat rewolucji, ale ich analiza warunków społecznych okazała się niezwykle trafna. Engels później pisał: "Czuliśmy, że coś wisi w powietrzu, ale nikt nie spodziewał się, że historia będzie działać tak szybko".
+**ANECDOTE**: The printing house was a small, cramped room on the ground floor of the building on Liverpool Street. Workers working in the printing house later recalled that the text was so revolutionary that some of them were afraid to print it, fearing police repression.
 
-### **FAKT**: Wygnanie Marksa z Brukseli
+### **FACT**: Physical details of the first edition
 
-**FAKT**: 4 marca 1848 roku, jeden dzień po rozpoczęciu serializacji Manifestu w gazecie, Marx został wydalony przez belgijską policję. To wygnanie nastąpiło krótko po publikacji Manifestu, co pokazuje polityczną presję, jakiej Marx był poddawany przez cały ten okres.
+**FACT**: The first edition of the Manifesto was a 23-page pamphlet with a dark green cover. The title read "Manifest der kommunistischen Partei" (Manifesto of the Communist Party).
 
----
+**FACT**: In April-May 1848, another edition appeared. The text now had 30 pages, some printing errors from the first edition were corrected, and punctuation was improved.
 
-## CZĘŚĆ VIII: FASCYNUJĄCE SZCZEGÓŁY I CIEKAWOSTKI
+**FACT**: The first edition was reprinted three times within a few months and serialized in the "Deutsche Londoner Zeitung," a newspaper for German emigrants.
 
-### **FAKT**: Hasło, które podbiło świat
+### **FACT**: Publication date - the day before the revolution
 
-**FAKT**: Słynne zakończenie Manifestu "Proletariusze wszystkich krajów, łączcie się!" (Proletarier aller Länder, vereinigt euch!) stało się jednym z najbardziej rozpoznawalnych haseł politycznych w historii.
+**FACT**: The Manifesto was published on February 21, 1848 - the day before the outbreak of the February Revolution in Paris (February 22), which overthrew the July Monarchy of King Louis Philippe.
 
-**ANEGDOTA**: Hasło to zastąpiło wcześniejszy slogan Ligi Sprawiedliwych "Wszyscy ludzie są braćmi". Marx argumentował, że nowe hasło jest bardziej konkretne i bojowe - nie apeluje do abstrakcyjnego braterstwa, ale do konkretnego działania klasowego.
+**ANECDOTE**: Engels later joked that this was not a coincidence - "History had its own schedule, and we just accelerated it a bit." In reality, Marx and Engels had no idea what would happen the next day in Paris.
 
-### **FAKT**: Anonimowa publikacja
-
-**FAKT**: Manifest został pierwotnie opublikowany anonimowo. Nazwiska Marksa i Engelsa nie pojawiły się na okładce pierwszego wydania - były tylko inicjały "K.M." i "F.E." na ostatniej stronie.
-
-**PLOTKA**: Niektóre źródła twierdzą, że anonimowość była spowodowana obawami o bezpieczeństwo autorów, ale bardziej prawdopodobne jest, że było to standardową praktyką dla dokumentów partyjnych tamtej epoki.
-
-### **FAKT**: Pierwsza książka na świecie wzywająca do globalnej rewolucji
-
-**FAKT**: Manifest był prawdopodobnie pierwszym dokumentem politycznym w historii, który wzywał do międzynarodowej, skoordynowanej rewolucji robotniczej, przekraczającej granice państw narodowych.
-
-**FAKT**: Ta wizja internacjonalizmu była rewolucyjna w epoce, gdy większość ruchów politycznych miała charakter narodowy lub lokalny.
-
-### **FAKT**: Krótki tekst, wielki wpływ
-
-**FAKT**: Manifest liczy tylko około 12 000 słów - można go przeczytać w ciągu godziny, ale jego wpływ na historię światową jest niemierzalny.
-
-**ANEGDOTA**: Marx początkowo planował znacznie dłuższy tekst - jego notatki do Manifestu liczyły ponad 100 stron, ale Liga Komunistów nalegała na krótką, czytelną broszurę, którą można łatwo rozpowszechniać wśród robotników.
-
-### **FAKT**: Język dostępny dla mas
-
-**FAKT**: W przeciwieństwie do wcześniejszych prac filozoficznych Marksa, Manifest został świadomie napisany prostym, bezpośrednim językiem, zrozumiałym dla przeciętnego robotnika.
-
-**FAKT**: Engels później przyznał, że to była świadoma decyzja stylistyczna: "Chcieliśmy, żeby każdy robotnik potrafił zrozumieć nasze idee bez konieczności uczenia się filozofii Hegla".
+**FACT**: The pamphlet "had barely cooled after printing in London when revolution broke out in France on February 22 due to the ban on political meetings."
 
 ---
 
-## CZĘŚĆ IX: MITY I NIEPRAWDZIWE HISTORIE
+## PART V: FIRST REACTIONS AND RECEPTION
 
-### **PLOTKA**: Mit o odrzuceniu przez wydawców
+### **FACT**: Initially ignored by the media
 
-**PLOTKA**: Popularna legenda głosi, że Manifest został odrzucony przez wielu wydawców, zanim znalazł drukarza. W rzeczywistości nie ma żadnych dowodów na to, że Marx i Engels szukali komercyjnego wydawcy - od początku planowali publikację przez własną organizację.
+**FACT**: The Manifesto initially had little impact. Plans for immediate translation of the text into several languages were not realized, and the Manifesto had no influence on the revolutions of 1848-49.
 
-### **PLOTKA**: Mit o pisaniu w więzieniu
+**FACT**: Around March 20, a thousand copies of the Manifesto reached Paris, and from there in early April to Germany.
 
-**PLOTKA**: Niektóre źródła błędnie twierdzą, że Marx pisał fragmenty Manifestu w więzieniu. W rzeczywistości Marx nigdy nie był więziony podczas pisania Manifestu - przebywał w Brukseli jako emigrant polityczny.
+### **FACT**: Early translations - international expansion
 
-### **FAKT vs PLOTKA**: Udział Engelsa w pisaniu
+**FACT**: Although the Manifesto's preamble announced that it would be "published in English, French, German, Italian, Flemish and Danish languages," initially it was printed only in German.
 
-**FAKT**: Chociaż Marx jest często uznawany za głównego autora, udział Engelsa w tworzeniu Manifestu był znaczący. Engels napisał wcześniejszy tekst "Zasady Komunizmu", który służył jako podstawa dla Manifestu.
+**FACT**: Polish and Danish translations soon appeared after the German original in London, and by the end of 1848, a Swedish translation was published under a new title - "The Voice of Communism: Declaration of the Communist Party."
 
-**PLOTKA**: Niektóre źródła przesadzają z rolą Engelsa, twierdząc, że był on głównym autorem. W rzeczywistości była to prawdziwa współpraca, z Marksem jako głównym pisarzem a Engelsem jako współautorem i redaktorem.
+**FACT**: The first English edition appeared only in November 1850, when George Julian Harney published Helen Macfarlane's translation in installments in his Chartist newspaper "The Red Republican."
 
----
+**FACT**: Between 1848 and 1868, there appear to have been no translations except for the Swedish version, probably published at the end of 1848.
 
-## CZĘŚĆ X: LICZBY I STATYSTYKI
+### **FACT**: Print runs and circulation
 
-### **FAKT**: Nakłady historyczne
+**FACT**: In the revolutionary year, the Manifesto went through two editions totaling several thousand copies and was published partially in newspapers, so it was discussed in workers' associations.
 
-**FAKT**: W 1848 roku Manifest przeszedł przez co najmniej dwa wydania liczące łącznie "kilka tysięcy egzemplarzy".
-
-**FAKT**: Do 1950 roku prawie połowa populacji świata żyła pod rządami marksistowskimi, co pokazuje długoterminowy wpływ tego niewielkiego tekstu.
-
-**FAKT**: Manifest został przetłumaczony na ponad 200 języków, co czyni go jednym z najczęściej tłumaczonych tekstów politycznych w historii.
-
-### **FAKT**: Czas powstania
-
-**FAKT**: Pisanie Manifestu zajęło Marksowi około 6 tygodni intensywnej pracy w styczniu 1848 roku, choć przygotowania (w tym teksty Engelsa) trwały od listopada 1847 roku.
-
-**FAKT**: Kongres Ligi Komunistów, który zlecił napisanie Manifestu, trwał 10 dni (29 listopada - 8 grudnia 1847).
+**RUMOR**: According to some sources, the total print run of all editions in 1848 was about 5,000 copies, but this number is not confirmed in official documents.
 
 ---
 
-## WNIOSKI KOŃCOWE
+## PART VI: PERSONAL STORIES OF THE AUTHORS
 
-Historia powstania "Manifestu Komunistycznego" to fascynująca opowieść o tym, jak kombinacja intelektualnej współpracy, politycznej presji, finansowych problemów i historycznej przypadkowości doprowadziła do stworzenia jednego z najważniejszych dokumentów politycznych w dziejach ludzkości.
+### **FACT**: Marx's financial misery during writing
 
-Kluczowe elementy tej historii to:
+**FACT**: Marx's life was marked by political exile and poverty. For most of the time, he and his family lived in relative destitution and had to rely on the generosity of others, particularly Engels, a successful textile factory owner.
 
-1. **Tajne organizacje**: Liga Sprawiedliwych i jej transformacja w Ligę Komunistów pokazuje, jak ruch robotniczy ewoluował od utopijnych bractw do nowoczesnych partii politycznych.
+**ANECDOTE**: While writing the Manifesto in Brussels, Marx often had no money for paper and ink. Jenny, his wife, sometimes had to pawn her wedding jewelry to buy essential office supplies.
 
-2. **Współpraca intelektualna**: Partnerstwo Marksa i Engelsa było unikalnym połączeniem teoretycznej głębi i praktycznego doświadczenia.
+**FACT**: Marx devoted his life to transferring his thoughts and philosophy to paper, but his writing never brought him enough money to support himself easily from it.
 
-3. **Presja czasu**: Prokrastynacja Marksa i ultimatum Ligi pokazują, że nawet największe dzieła powstają czasem pod presją zewnętrznych okoliczności.
+### **FACT**: Engels - the capitalist-revolutionary
 
-4. **Historyczna przypadkowość**: Publikacja na dzień przed rewolucją paryską była czystym przypadkiem, ale symbolizuje trafność analizy autorów.
+**FACT**: Friedrich Engels came from a wealthy family of Prussian industrialists, owners of textile factories in Prussia and England. Throughout his life, Engels not only collaborated intellectually with Marx but also regularly supported him financially.
 
-5. **Skromne początki**: 23-stronicowa broszura wydana w małej drukarni przy Liverpool Street zmieniła bieg historii światowej.
+**ANECDOTE**: Engels could send Marx money regularly, often in the form of five-pound notes, but later in much higher amounts. When he sold his business shares in 1869, he received enough to live comfortably until his death in 1895 and provide Marx with an annual allowance of £350.
 
-Te fakty, anegdoty i ciekawostki pokazują, że "Manifest Komunistyczny" nie spadł z nieba jako gotowe dzieło geniuszu, ale był produktem konkretnych okoliczności historycznych, osobistych zmagań autorów i kolektywnej pracy międzynarodowego ruchu robotniczego.
+**FACT**: Engels mastered twelve languages, while Marx knew nine. Their letters are striking for their constant switching between languages and the number of scholarly quotations, including ancient Latin and Greek.
+
+### **FACT**: Intellectual friendship at a distance
+
+**FACT**: Marx lived in London, Engels in Manchester, but Engels visited him relatively often and was a great favorite of Marx's children, as well as a riding companion and sometimes "roguish friend" of Marx.
+
+**ANECDOTE**: Both humanists were great lovers of literature. Marx knew fragments of Shakespeare by heart and never tired of browsing through his volumes of Aeschylus, Dante, and Balzac. Engels was long president of the Schiller Institute in Manchester and loved Aristotle, Goethe, and Lessing.
 
 ---
 
-## ŹRÓDŁA
+## PART VII: INFLUENCE OF CONTEMPORARY EVENTS
+
+### **FACT**: Spring of Nations - historical background
+
+**FACT**: 1848 was the moment when the old order of Europe, established at the Congress of Vienna, began to shake to its foundations. A wave of revolutions, uprisings, and mass protests, known as the Spring of Nations, swept across the continent.
+
+**FACT**: The publication of the Manifesto on February 21, 1848, coincided with these events in an almost prophetic way. The very next day, the February Revolution broke out in Paris.
+
+**ANECDOTE**: Marx and Engels did not predict specific dates of revolution, but their analysis of social conditions proved remarkably accurate. Engels later wrote: "We felt that something was hanging in the air, but no one expected history to act so quickly."
+
+### **FACT**: Marx's exile from Brussels
+
+**FACT**: On March 4, 1848, one day after the serialization of the Manifesto began in the newspaper, Marx was expelled by the Belgian police. This exile occurred shortly after the publication of the Manifesto, showing the political pressure Marx was under throughout this period.
+
+---
+
+## PART VIII: FASCINATING DETAILS AND CURIOSITIES
+
+### **FACT**: The slogan that conquered the world
+
+**FACT**: The famous ending of the Manifesto "Workers of all countries, unite!" (Proletarier aller Länder, vereinigt euch!) became one of the most recognizable political slogans in history.
+
+**ANECDOTE**: This slogan replaced the earlier League of the Just motto "All men are brothers." Marx argued that the new slogan was more concrete and militant - it did not appeal to abstract brotherhood but to concrete class action.
+
+### **FACT**: Anonymous publication
+
+**FACT**: The Manifesto was originally published anonymously. The names of Marx and Engels did not appear on the cover of the first edition - only the initials "K.M." and "F.E." appeared on the last page.
+
+**RUMOR**: Some sources claim that anonymity was due to concerns about the authors' safety, but it is more likely that this was standard practice for party documents of that era.
+
+### **FACT**: The first book in the world calling for global revolution
+
+**FACT**: The Manifesto was probably the first political document in history to call for an international, coordinated workers' revolution transcending the borders of nation-states.
+
+**FACT**: This vision of internationalism was revolutionary in an era when most political movements were national or local in character.
+
+### **FACT**: Short text, great impact
+
+**FACT**: The Manifesto contains only about 12,000 words - it can be read in an hour, but its impact on world history is immeasurable.
+
+**ANECDOTE**: Marx initially planned a much longer text - his notes for the Manifesto numbered over 100 pages, but the Communist League insisted on a short, readable pamphlet that could be easily distributed among workers.
+
+### **FACT**: Language accessible to the masses
+
+**FACT**: Unlike Marx's earlier philosophical works, the Manifesto was consciously written in simple, direct language understandable to the average worker.
+
+**FACT**: Engels later admitted that this was a conscious stylistic decision: "We wanted every worker to be able to understand our ideas without having to learn Hegel's philosophy."
+
+---
+
+## PART IX: MYTHS AND FALSE STORIES
+
+### **RUMOR**: The myth of publisher rejection
+
+**RUMOR**: A popular legend claims that the Manifesto was rejected by many publishers before finding a printer. In reality, there is no evidence that Marx and Engels sought a commercial publisher - they planned publication through their own organization from the beginning.
+
+### **RUMOR**: The myth of writing in prison
+
+**RUMOR**: Some sources falsely claim that Marx wrote fragments of the Manifesto in prison. In reality, Marx was never imprisoned while writing the Manifesto - he was staying in Brussels as a political emigrant.
+
+### **FACT vs RUMOR**: Engels' participation in writing
+
+**FACT**: Although Marx is often recognized as the main author, Engels' participation in creating the Manifesto was significant. Engels wrote the earlier text "Principles of Communism," which served as the basis for the Manifesto.
+
+**RUMOR**: Some sources exaggerate Engels' role, claiming he was the main author. In reality, it was true collaboration, with Marx as the main writer and Engels as co-author and editor.
+
+---
+
+## PART X: NUMBERS AND STATISTICS
+
+### **FACT**: Historical print runs
+
+**FACT**: In 1848, the Manifesto went through at least two editions totaling "several thousand copies."
+
+**FACT**: By 1950, nearly half of the world's population lived under Marxist rule, showing the long-term impact of this small text.
+
+**FACT**: The Manifesto has been translated into over 200 languages, making it one of the most frequently translated political texts in history.
+
+### **FACT**: Time of creation
+
+**FACT**: Writing the Manifesto took Marx about 6 weeks of intensive work in January 1848, although preparations (including Engels' texts) lasted from November 1847.
+
+**FACT**: The Communist League congress that commissioned the writing of the Manifesto lasted 10 days (November 29 - December 8, 1847).
+
+---
+
+## FINAL CONCLUSIONS
+
+The history of the creation of "The Communist Manifesto" is a fascinating story of how a combination of intellectual cooperation, political pressure, financial problems, and historical coincidence led to the creation of one of the most important political documents in human history.
+
+Key elements of this story include:
+
+1. **Secret organizations**: The League of the Just and its transformation into the Communist League shows how the workers' movement evolved from utopian brotherhoods to modern political parties.
+
+2. **Intellectual cooperation**: The partnership of Marx and Engels was a unique combination of theoretical depth and practical experience.
+
+3. **Time pressure**: Marx's procrastination and the League's ultimatum show that even the greatest works sometimes arise under pressure from external circumstances.
+
+4. **Historical coincidence**: Publication the day before the Paris revolution was pure chance, but symbolizes the accuracy of the authors' analysis.
+
+5. **Modest beginnings**: A 23-page pamphlet published in a small printing house on Liverpool Street changed the course of world history.
+
+These facts, anecdotes, and curiosities show that "The Communist Manifesto" did not fall from heaven as a finished work of genius, but was the product of specific historical circumstances, the authors' personal struggles, and the collective work of an international workers' movement.
+
+---
+
+## SOURCES
 
 1. Engels, Friedrich. "On The History of the Communist League." Marxists Internet Archive.
 2. Wheen, Francis. "Karl Marx: A Life." Various biographical references.

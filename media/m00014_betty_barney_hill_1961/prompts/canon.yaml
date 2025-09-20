@@ -1,0 +1,80 @@
+canon:
+  characters:
+    - id: "character_BH"
+      name: "Character BH"
+      description_block: |
+        characters:
+          - appearance: "White woman, 41 years old, dark hair styled in early 1960s fashion, average height, social worker build"
+            clothing: "Blue dress with light coat, practical travel shoes suitable for 1960s era"
+            posture: "Alert and observant, often looking upward or scanning surroundings"
+    - id: "character_BAH"
+      name: "Character BAH"
+      description_block: |
+        characters:
+          - appearance: "African American man, 39 years old, well-groomed professional appearance, wearing eyeglasses, average height"
+            clothing: "Business casual travel attire consisting of dark slacks, dress shirt, light jacket typical of early 1960s"
+            posture: "Cautious and protective, often positioned defensively or looking through binoculars"
+    - id: "character_BS"
+      name: "Character BS"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged white man, professional psychiatrist appearance, authoritative bearing"
+            clothing: "Dark business suit with tie, professional medical practitioner attire of 1960s Boston"
+            posture: "Seated behind desk or standing with clinical observation stance during sessions"
+    - id: "alien_beings"
+      name: "Alien Beings"
+      description_block: |
+        characters:
+          - appearance: "Small humanoid figures, 5 to 5.5 feet tall, grey skin tone, large wraparound slanted eyes, small nose, slit-like mouth"
+            clothing: "Dark form-fitting uniforms without visible seams or fasteners"
+            posture: "Standing upright with clinical, detached movements around examination equipment"
+  locations:
+    - id: "route_3_highway"
+      name: "U.S. Route 3 through White Mountains"
+      description_block: |
+        setting:
+          location: "Two-lane asphalt highway winding through White Mountains, New Hampshire, south of Lancaster near Franconia Notch State Park"
+        mainElements: "Dark mountain highway with minimal lighting, dense forest on both sides with occasional clearings"
+        atmosphere: "Isolated, mountainous terrain under clear night sky with excellent visibility for star observation"
+    - id: "indian_head_area"
+      name: "Indian Head observation point"
+      description_block: |
+        setting:
+          location: "Roadside area near Indian Head rock formation, White Mountains, New Hampshire"
+        mainElements: "Pull-off area beside mountain highway with forest clearing, rocky outcroppings visible"
+        atmosphere: "Remote mountain location with clear night sky, minimal ambient light allowing celestial observation"
+    - id: "alien_craft_interior"
+      name: "Alien craft examination room"
+      description_block: |
+        setting:
+          location: "Interior chamber of disc-shaped craft with curved corridors and examination room"
+        mainElements: "Grey-white seamless walls, examination table in center, various unidentifiable instruments and equipment"
+        atmosphere: "Sterile, clinical environment with soft diffuse lighting without visible source, no shadows or harsh contrasts"
+    - id: "hypnosis_office"
+      name: "Dr. Simon's office in Boston"
+      description_block: |
+        setting:
+          location: "Professional psychiatrist office in Boston, Massachusetts, 1960s medical building"
+        mainElements: "Medical office with desk, chairs, recording equipment, professional diplomas on walls"
+        atmosphere: "Clinical but comfortable medical environment with professional furnishings typical of 1960s psychiatry practice"
+  items:
+    - id: "chevrolet_bel_air"
+      name: "1957 Chevrolet Bel Air"
+      description_block: |
+        details: "Classic 1950s American sedan with two-tone blue and white paint, chrome bumpers and trim, whitewall tires, bench seats, column shifter, interior dome light, AM radio"
+    - id: "military_binoculars"
+      name: "Military-style field binoculars"
+      description_block: |
+        details: "Military-style field glasses with leather strap, used for observation, strap found torn and broken after incident"
+    - id: "damaged_blue_dress"
+      name: "Betty's torn blue dress"
+      description_block: |
+        details: "Blue dress with tears and stains from unidentified pink powder substance, showing physical evidence of unexplained encounter"
+    - id: "alien_disc_craft"
+      name: "Disc-shaped alien craft"
+      description_block: |
+        details: "Metallic disc-shaped object with double row of windows, red lights on tips, steady white glow, seamless construction, landed or hovering in forest clearing"
+    - id: "star_map_drawing"
+      name: "Betty's star map"
+      description_block: |
+        details: "Hand-drawn map showing connected points representing star systems, drawn under hypnosis, featuring lines connecting various stellar positions"

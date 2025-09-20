@@ -1,245 +1,245 @@
-# Wpływ "Orestei" na Kulturę Popularną i Społeczeństwo
+# Cultural Impact of "The Oresteia" on Popular Culture and Society
 
-## Podsumowanie Wykonawcze
+## Executive Summary
 
-**Oresteja** Ajschylosa (458 p.n.e.) pozostaje jedną z najbardziej wpływowych trylogii w historii teatru i literatury, która przez ponad 2500 lat inspiruje twórców we wszystkich dziedzinach kultury. Ta jedyna kompletna trylogia greckiej tragedii, która przetrwała do naszych czasów, przedstawia historię rodu Atrydów i ewolucję sprawiedliwości - od zemsty osobistej do sprawiedliwości instytucjonalnej.
+**The Oresteia** by Aeschylus (458 BC) remains one of the most influential trilogies in the history of theater and literature, inspiring creators across all cultural domains for over 2,500 years. This only complete trilogy of Greek tragedy that has survived to our times presents the story of the House of Atreus and the evolution of justice - from personal revenge to institutional justice.
 
-**Kluczowe tematy**: zemsta, sprawiedliwość, przemoc, transformacja społeczna, rola kobiet, prawo a moralność
+**Key themes**: revenge, justice, violence, social transformation, role of women, law vs. morality
 
 ---
 
-## 1. Adaptacje Filmowe i Telewizyjne
+## 1. Film and Television Adaptations
 
-### Znaczące Adaptacje Kinowe
+### Significant Cinematic Adaptations
 
-**1. "Wędrujący Aktorzy" (1975) - Theo Angelopoulos**
-- Najważniejsza filmowa adaptacja Orestei
-- Przenosi akcję do XX-wiecznej Grecji
-- Historia politycznych przewrotów przez pryzmat tragedii Ajschylosa
-- 4-godzinny epos o greckiej historii narodu
-- Złota Palma w Cannes 1975
-- Używa Orestei do "zamaskowania" kontekstu politycznego
+**1. "The Travelling Players" (1975) - Theo Angelopoulos**
+- Most important film adaptation of the Oresteia
+- Transposes action to 20th-century Greece
+- History of political upheavals through the lens of Aeschylus' tragedy
+- 4-hour epic about Greek national history
+- Palme d'Or at Cannes 1975
+- Uses Oresteia to "mask" political context
 
 **2. "Il pistolero dell'Ave Maria" (1969) - Ferdinando Baldi**
-- Spaghetti western oparty na micie Orestei
-- Akcja przeniesiona do Meksyku
-- Reżyser był jednocześnie profesorem literatury klasycznej specjalizującym się w tragedii greckiej
-- Unikalny przykład przeniesienia greckiej tragedii do gatunku westernowego
+- Spaghetti western based on the Oresteia myth
+- Action transposed to Mexico
+- Director was simultaneously a classical literature professor specializing in Greek tragedy
+- Unique example of transferring Greek tragedy to the western genre
 
-### Adaptacje Telewizyjne
+### Television Adaptations
 
-**3. "Oresteia" BBC (1983) - adaptacja Tony'ego Harrisona**
-- Produkcja National Theatre z 1981
-- Reżyseria: Peter Hall
-- Ocena IMDB: 8.7/10
-- Jedna z najbardziej uznanych telewizyjnych adaptacji
+**3. "Oresteia" BBC (1983) - Tony Harrison adaptation**
+- National Theatre production from 1981
+- Direction: Peter Hall
+- IMDB rating: 8.7/10
+- One of the most acclaimed television adaptations
 
 ---
 
-## 2. Teatr i Adaptacje Sceniczne
+## 2. Theater and Stage Adaptations
 
-### Współczesne Produkcje Teatralne
+### Contemporary Theater Productions
 
-**4. Ellen McLaughlin - współczesna adaptacja (2023)**
+**4. Ellen McLaughlin - contemporary adaptation (2023)**
 - Washington University production
-- Eksploruje "cykle przemocy, ironię zemsty i często splątane poszukiwanie sprawiedliwości"
-- Inspirowana komisjami prawdy i pojednania w Afryce Południowej
-- Rozpoczęta w 2016 podczas kryzysu instytucjonalnego w USA
+- Explores "cycles of violence, the irony of revenge and the often tangled pursuit of justice"
+- Inspired by truth and reconciliation commissions in South Africa
+- Begun in 2016 during institutional crisis in USA
 
-**5. Robert Icke - adaptacja dla Gesher Theater (Izrael)**
-- Przenosi historię do współczesności
-- Tłumaczy tekst na język współczesny
-- Nowoczesna interpretacja dla izraelskiej publiczności
+**5. Robert Icke - adaptation for Gesher Theater (Israel)**
+- Transposes story to contemporary times
+- Translates text into contemporary language
+- Modern interpretation for Israeli audience
 
-### Historyczne Adaptacje o Trwałym Wpływie
+### Historic Adaptations with Lasting Impact
 
 **6. Eugene O'Neill - "Mourning Becomes Electra" (1931)**
-- Trylogia składająca się z trzech sztuk
-- Akcja przeniesiona na okres po amerykańskiej wojnie secesyjnej
-- Tematy odpowiadają trylogii Ajschylosa
-- Jedna z najważniejszych amerykańskich adaptacji
+- Trilogy consisting of three plays
+- Action transposed to period after American Civil War
+- Themes correspond to Aeschylus' trilogy
+- One of the most important American adaptations
 
-**7. Jean-Paul Sartre - "Muchy" (1943)**
-- Ściśle oparta na Orestei
-- Odtwarza prześladowania Orestesa przez Furie
-- Transformacja przez filozofię egzystencjalną Sartre'a
-- Reakcja na okupację niemiecką Francji
+**7. Jean-Paul Sartre - "The Flies" (1943)**
+- Closely based on the Oresteia
+- Recreates Orestes' persecution by the Furies
+- Transformation through Sartre's existential philosophy
+- Reaction to German occupation of France
 
 **8. Yaël Farber - "MoLoRa (Ashes)" (2007)**
-- Adaptacja południowoafrykańska
-- Osadzona w kontekście Komisji Prawdy i Pojednania
+- South African adaptation
+- Set in context of Truth and Reconciliation Commission
 - Post-apartheid interpretation
-- Tematyka zemsty vs. przebaczenie
+- Theme of revenge vs. forgiveness
 
-### Polskie Adaptacje Teatralne
+### Polish Theater Adaptations
 
-**9. Teatr Narodowy w Warszawie (2012)**
-- Reżyseria: Maja Kleczewska
-- Premiera: 14 kwietnia 2012
-- Tłumaczenie: Maciej Słomczyński i Stefan Srebrny
-- Koprodukcja z Teatrem Wielkim - Polską Operą Narodową
+**9. National Theater in Warsaw (2012)**
+- Direction: Maja Kleczewska
+- Premiere: April 14, 2012
+- Translation: Maciej Słomczyński and Stefan Srebrny
+- Co-production with Teatr Wielki - Polish National Opera
 
-**10. "Dramopera" Agaty Zubel (2012)**
-- Kompozytorka: Agata Zubel
+**10. "Dramopera" by Agata Zubel (2012)**
+- Composer: Agata Zubel
 - Libretto: Maja Kleczewska
-- Komisja Teatru Wielkiego – Polskiej Opery Narodowej
-- Aktorka Danuta Stenka w rolach Klitajmestry i Orestesa
-- Nowa interpretacja poprzez podwójną rolę
+- Commission of Teatr Wielki – Polish National Opera
+- Actress Danuta Stenka in roles of Clytemnestra and Orestes
+- New interpretation through dual role
 
 ---
 
-## 3. Literatura Współczesna
+## 3. Contemporary Literature
 
-### Powieści i Opowiadania
+### Novels and Short Stories
 
 **11. Joyce Carol Oates - "Angel of Light" (1981)**
-- Akcja w współczesnym Waszyngtonie
-- Klasa wyższa jako tło dla adaptacji mitu
-- Eksploracja władzy i korupcji
+- Action in contemporary Washington
+- Upper class as backdrop for myth adaptation
+- Exploration of power and corruption
 
 **12. Marina Carr - "Ariel" (2002)**
-- Irlandzka dramatopisarka
-- Luźno oparta na pierwszych dwóch częściach Orestei
-- Współczesne irlandzkie środowisko wiejskie
+- Irish playwright
+- Loosely based on first two parts of Oresteia
+- Contemporary Irish rural setting
 
-### Literatura Młodzieżowa i Popularna
+### Young Adult and Popular Literature
 
 **13. J.K. Rowling - "Harry Potter and the Deathly Hallows"**
-- Cytuje fragment z "Ofiarnic" w przedmowie
-- Wpływ na jedną z najpopularniejszych serii młodzieżowych
+- Quotes fragment from "The Libation Bearers" in epigraph
+- Influence on one of the most popular young adult series
 
 **14. Edith Wharton - "The House of Mirth"**
-- Furie metaforycznie prześladują bohaterów
-- Wykorzystanie mitologii w literaturze realistycznej
+- Furies metaphorically pursue characters
+- Use of mythology in realistic literature
 
 **15. George Eliot - "Daniel Deronda"**
-- Podobne wykorzystanie motywów Furii
-- Wiktoriańska literatura z greckim podtekstem
+- Similar use of Fury motifs
+- Victorian literature with Greek subtext
 
 ---
 
-## 4. Muzyka i Kultura Popularna
+## 4. Music and Popular Culture
 
-### Współczesna Muzyka
+### Contemporary Music
 
 **16. A Perfect Circle - "Mer de Noms" (2000)**
-- Debiutancki album zawiera utwór "Orestes"
-- Teksty rozpoznawalne jako nawiązania do starożytnej historii
-- Alternative rock z mitologicznymi odniesieniami
+- Debut album contains track "Orestes"
+- Lyrics recognizable as references to ancient history
+- Alternative rock with mythological references
 
-**17. Virgin Steele - dwa albumy koncepcyjne**
-- Kompletne albumy oparte na Orestei
-- Power metal z tematyką mitologiczną
-- Fanbase w środowisku metalowym
+**17. Virgin Steele - two concept albums**
+- Complete albums based on Oresteia
+- Power metal with mythological themes
+- Fanbase in metal community
 
-**18. The Cranes - adaptacja muzyczna "Much"**
-- Brytyjski zespół
-- Adaptacja muzyczna "Much" Sartre'a
-- Eksperymentalne podejście do klasycznego tekstu
+**18. The Cranes - musical adaptation "Much"**
+- British band
+- Musical adaptation of Sartre's "Much"
+- Experimental approach to classical text
 
 ---
 
-## 5. Gry Wideo i Media Interaktywne
+## 5. Video Games and Interactive Media
 
-### Współczesne Gry
+### Contemporary Games
 
 **19. Assassin's Creed Odyssey (2018)**
-- Obejmuje lokacje z greckich opowieści
-- Itaka Odyseusza, Labirynt Messary, grób Agamemnona
-- Gracz może odwiedzić pałac Odyseusza po Całun Penelopy
-- Subwersja tropów greckiej tragedii - gracz może uniknąć tragicznych zakończeń
-- Mitologiczne stwory: Cyklop, Minotaur, Meduza, Sfinks
+- Includes locations from Greek stories
+- Odysseus' Ithaca, Messara Labyrinth, Agamemnon's tomb
+- Player can visit Odysseus' palace after Penelope's Shroud
+- Subversion of Greek tragedy tropes - player can avoid tragic endings
+- Mythological creatures: Cyclops, Minotaur, Medusa, Sphinx
 
 **20. Hades (Supergiant Games, 2020)**
-- Indie roguelike z grecką mitologią
-- Furie jako postacie w grze
-- Nowoczesna interpretacja starożytnych bogów
+- Indie roguelike with Greek mythology
+- Furies as characters in game
+- Modern interpretation of ancient gods
 
 ---
 
-## 6. Sztuki Wizualne i Design
+## 6. Visual Arts and Design
 
-### Współczesne Sztuki Wizualne
+### Contemporary Visual Arts
 
-**21. Anselm Kiefer - serie obrazów inspirowane Orestęją**
-- Niemiecka neoekspresja
-- Monumentalne płótna z mitologicznymi motywami
-- Galerie na całym świecie
+**21. Anselm Kiefer - series of paintings inspired by Oresteia**
+- German neo-expressionism
+- Monumental canvases with mythological motifs
+- Galleries worldwide
 
-**22. Bill Viola - instalacje wideo**
-- Współczesny artysta wideo
-- Tematy zemsty i przebaczenia w kontekście cyfrowym
-- Muzealne instalacje inspirowane tragedią
+**22. Bill Viola - video installations**
+- Contemporary video artist
+- Themes of revenge and forgiveness in digital context
+- Museum installations inspired by tragedy
 
-### Grafika i Ilustracja
+### Graphics and Illustration
 
-**23. Dave McKean - ilustracje do wydań klasycznych**
-- Brytyjski artysta graficzny
-- Nowoczesne interpretacje wizualne starożytnych tekstów
-- Wpływ na komiksy i graphic novels
+**23. Dave McKean - illustrations for classical editions**
+- British graphic artist
+- Modern visual interpretations of ancient texts
+- Influence on comics and graphic novels
 
 ---
 
-## 7. Merchandising i Komercjalizacja
+## 7. Merchandising and Commercialization
 
-### Edukacyjne i Kulturalne
+### Educational and Cultural
 
-**24. Penguin Classics - liczne wydania**
-- Różne tłumaczenia i adaptacje wizualne
-- Globalny zasięg czytelniczy
-- Okładki projektowane przez uznanych artystów
+**24. Penguin Classics - numerous editions**
+- Various translations and visual adaptations
+- Global readership reach
+- Covers designed by renowned artists
 
 **25. Royal Shakespeare Company - merchandise**
-- T-shirty, plakaty, programy teatralne
-- Eduacyjne materiały dla szkół
-- Online courses i workshops
+- T-shirts, posters, theater programs
+- Educational materials for schools
+- Online courses and workshops
 
-**26. Metropolitan Museum of Art - kolekcja**
-- Repliki greckich amfor z scenami z Orestei
-- Jubilerstwo inspirowane antykiem
-- Książki artystyczne i katalogi wystaw
+**26. Metropolitan Museum of Art - collection**
+- Replicas of Greek amphoras with scenes from Oresteia
+- Jewelry inspired by antiquity
+- Art books and exhibition catalogs
 
 ---
 
-## 8. Miejsca Tematyczne i Turystyka Kulturalna
+## 8. Thematic Places and Cultural Tourism
 
-### Greckie Miejsca Historyczne
+### Greek Historic Places
 
-**27. Teatr w Epidauros**
-- Coroczne przedstawienia Orestei
-- Festival Epidaurus od 1955
-- Międzynarodowi artyści i reżyserzy
+**27. Theater at Epidaurus**
+- Annual Oresteia performances
+- Epidaurus Festival since 1955
+- International artists and directors
 
-**28. Akropol - Muzeum Akropolu**
-- Ekspozycje poświęcone dramaturgii Ajschylosa
-- Interaktywne wystawy o greckim teatrze
-- Coroczne wydarzenia kulturalne
+**28. Acropolis - Acropolis Museum**
+- Exhibitions devoted to Aeschylus' dramaturgy
+- Interactive exhibits on Greek theater
+- Annual cultural events
 
-### Współczesne Centra Kultury
+### Contemporary Cultural Centers
 
 **29. National Theatre London**
-- Regularne adaptacje greckich tragedii
-- Educational programmes dla szkół
-- Digital platforms z archiwalnymi nagraniami
+- Regular adaptations of Greek tragedies
+- Educational programmes for schools
+- Digital platforms with archival recordings
 
-**30. Stratford Festival (Kanada)**
-- Coroczne produkcje klasyczne
+**30. Stratford Festival (Canada)**
+- Annual classical productions
 - Shakespeare and Beyond programming
 - International recognition
 
 ---
 
-## 9. Wpływ na Inne Dzieła Kultury
+## 9. Influence on Other Cultural Works
 
-### Film i Telewizja - Nawiązania
+### Film and Television - References
 
-**31. "The Sopranos" - struktura narracyjna**
-- Rodzinne przekleństwa i cykle przemocy
-- Tony Soprano jako współczesny Orestes
+**31. "The Sopranos" - narrative structure**
+- Family curses and cycles of violence
+- Tony Soprano as contemporary Orestes
 - HBO's prestige television model
 
 **32. "Game of Thrones" - House Stark**
-- Ned Stark jako Agamemnon figure
+- Ned Stark as Agamemnon figure
 - Family honor and vengeance cycles
 - Medieval setting with classical themes
 
@@ -248,162 +248,162 @@
 - Loki as trickster figure disrupting order
 - Norse mythology through Greek tragedy lens
 
-### Literatura Fantasy i Science Fiction
+### Fantasy and Science Fiction Literature
 
-**34. Frank Herbert - "Duna"**
-- Rody szlacheckie i polityczne intrygi
-- Paul Atreides jako figure tragiczny bohater
+**34. Frank Herbert - "Dune"**
+- Noble houses and political intrigue
+- Paul Atreides as tragic hero figure
 - Prophecies and family curses
 
-**35. George R.R. Martin - "Pieśń Lodu i Ognia"**
-- Cykle zemsty między rodzinami
+**35. George R.R. Martin - "A Song of Ice and Fire"**
+- Cycles of revenge between families
 - Stark family as modern Atreid house
 - Justice vs. vengeance themes
 
 ---
 
-## 10. Społeczności Fanów i Fandom Culture
+## 10. Fan Communities and Fandom Culture
 
 ### Online Communities
 
 **36. Reddit r/GreekMythology**
-- 180,000+ członków
-- Regularne dyskusje o adaptacjach Orestei
-- Fan art i creative content
+- 180,000+ members
+- Regular discussions about Oresteia adaptations
+- Fan art and creative content
 
 **37. TikTok #greekmythology**
-- 33.3M postów
-- Gen Z engagement z klasycznymi tekstami
+- 33.3M posts
+- Gen Z engagement with classical texts
 - Educational content creators
 
 **38. Instagram @greekmemeology**
-- Memy o mitologii greckiej
-- Młoda audience zaangażowana w klasyki
+- Memes about Greek mythology
+- Young audience engaged with classics
 - Visual storytelling approach
 
 ### Academic and Educational Fandom
 
 **39. Cambridge Greek Play**
 - Triennially performed Greek tragedies
-- Student productions z międzynarodową publicznością
+- Student productions with international audience
 - Academic rigor meets theatrical passion
 
 **40. Perseus Digital Library**
-- Online resource dla tekstów klasycznych
-- Global community badaczy i studentów
-- Interactive tools dla studying ancient texts
+- Online resource for classical texts
+- Global community of researchers and students
+- Interactive tools for studying ancient texts
 
 ---
 
-## 11. Wpływ na Feminizm i Gender Studies
+## 11. Impact on Feminism and Gender Studies
 
-### Współczesne Interpretacje Feministyczne
+### Contemporary Feminist Interpretations
 
 **41. Judith Butler - "Gender Trouble"**
-- Analiza Klitajmestry jako transgressive female figure
-- Wpływ na gender theory i feminist criticism
-- Academic discourse o władzy kobiet w starożytności
+- Analysis of Clytemnestra as transgressive female figure
+- Impact on gender theory and feminist criticism
+- Academic discourse on women's power in antiquity
 
 **42. Helen Cixous - "The Laugh of the Medusa"**
 - French feminist criticism
-- Wykorzystanie greckich mitów dla teorii feminizmu
+- Use of Greek myths for feminist theory
 - Influence on écriture féminine movement
 
-### Współczesne Adaptacje Feministyczne
+### Contemporary Feminist Adaptations
 
-**43. Caryl Churchill - teatralne eksperymenty**
-- Adaptacje klasycznych tekstów z perspektywy feminizmu
+**43. Caryl Churchill - theatrical experiments**
+- Adaptations of classical texts from feminist perspective
 - Royal Court Theatre productions
-- Impact na contemporary British theatre
+- Impact on contemporary British theatre
 
 ---
 
-## 12. Psychologia i Psychoanaliza
+## 12. Psychology and Psychoanalysis
 
-### Freudowskie Interpretacje
+### Freudian Interpretations
 
-**44. Sigmund Freud - kompleks Elektry**
-- Psychoanalityczna interpretacja relacji Elektry
-- Wpływ na development psychology
+**44. Sigmund Freud - Electra complex**
+- Psychoanalytic interpretation of Electra's relationship
+- Impact on developmental psychology
 - Clinical psychology applications
 
-**45. Carl Jung - archetypy**
-- Mother archetype w postaci Klitajmestry
-- Hero's journey w historii Orestesa
+**45. Carl Jung - archetypes**
+- Mother archetype in Clytemnestra figure
+- Hero's journey in Orestes' story
 - Collective unconscious theory
 
 ---
 
-## 13. Prawo i Sprawiedliwość
+## 13. Law and Justice
 
-### Wpływ na Systemy Prawne
+### Impact on Legal Systems
 
-**46. Komisje Prawdy i Pojednania**
-- Model sądów w Eumenidach inspiruje współczesne rozwiązania
-- Afryka Południowa, Chile, Rwanda
+**46. Truth and Reconciliation Commissions**
+- Model of courts in Eumenides inspires contemporary solutions
+- South Africa, Chile, Rwanda
 - Restorative vs. retributive justice
 
 **47. International Criminal Court**
-- Procedury sądowe nawiązujące do Aeropagu
+- Legal procedures referencing Areopagus
 - Transition from vengeance to institutional justice
-- Legal philosophy roots w Greek tragedy
+- Legal philosophy roots in Greek tragedy
 
 ---
 
-## 14. Kontrowersje i Krytyka
+## 14. Controversies and Criticism
 
-### Problematyczne Interpretacje
+### Problematic Interpretations
 
-**48. Wykorzystanie przez Nazistów (1936)**
-- Berlin stage production podczas III Rzeszy
-- Manipulacja klasycznych tekstów dla propagandy
-- Historical lesson o neutral interpretation classics
+**48. Nazi use (1936)**
+- Berlin stage production during Third Reich
+- Manipulation of classical texts for propaganda
+- Historical lesson on neutral interpretation of classics
 
-**49. Sowiecka Moskwa - przeciwstawna interpretacja**
-- Post-soviet interpretations jako democratic transition
+**49. Soviet Moscow - opposite interpretation**
+- Post-soviet interpretations as democratic transition
 - Same text, opposite political message
 - Ideological flexibility of classical works
 
 ---
 
-## 15. Edukacja i Pedagogika
+## 15. Education and Pedagogy
 
-### Programy Nauczania
+### Curriculum Programs
 
 **50. Common Core Standards (USA)**
-- Oresteja jako required reading w AP Literature
-- High school engagement z classical texts
-- Standardized testing impact na cultural literacy
+- Oresteia as required reading in AP Literature
+- High school engagement with classical texts
+- Standardized testing impact on cultural literacy
 
 **51. International Baccalaureate Programme**
 - World Literature component
-- Global perspective na Greek tragedy
+- Global perspective on Greek tragedy
 - Cross-cultural interpretation projects
 
 ---
 
-## Wnioski
+## Conclusions
 
-**Oresteja** Ajschylosa to prawdziwy kulturowy "DNA" współczesnej cywilizacji zachodniej. Przez 2500 lat ta trylogia:
+**The Oresteia** by Aeschylus is truly the cultural "DNA" of contemporary Western civilization. For 2,500 years this trilogy has:
 
-1. **Inspiruje twórców** we wszystkich mediach - od teatru przez film po gry wideo
-2. **Wpływa na systemy prawne** - od starożytnego Aeropagu po współczesne komisje prawdy
-3. **Kształtuje narracje popularne** - struktura rodzinnego przekleństwa w "Grze o Tron", "Sopranos", Marvel
-4. **Angażuje młode pokolenia** - TikTok, memy, gaming culture
-5. **Pozostaje uniwersalną metaforą** dla transformacji od chaosu do porządku
+1. **Inspired creators** across all media - from theater through film to video games
+2. **Influenced legal systems** - from ancient Areopagus to contemporary truth commissions
+3. **Shaped popular narratives** - family curse structure in "Game of Thrones," "Sopranos," Marvel
+4. **Engaged young generations** - TikTok, memes, gaming culture
+5. **Remained a universal metaphor** for transformation from chaos to order
 
-Siła Orestei leży w jej **adaptacyjności** - ta sama historia może służyć jako:
-- Propaganda nazistowska (Berlin 1936)
-- Manifest demokratyczny (Moskwa post-sowiecka)
-- Krytyka apartheidu (Afryka Południowa)
-- Refleksja nad 11 września (współczesne USA)
+The power of the Oresteia lies in its **adaptability** - the same story can serve as:
+- Nazi propaganda (Berlin 1936)
+- Democratic manifesto (post-Soviet Moscow)
+- Apartheid criticism (South Africa)
+- Reflection on 9/11 (contemporary USA)
 
-**Dla Gen Z i młodych odbiorców** Oresteja oferuje:
-- **Uniwersalne tematy**: sprawiedliwość vs. zemsta, która rezonuje w erze social justice
-- **Silne kobiety**: Klitajmestra jako complex anti-hero, nie victim
-- **Systemic change**: transformacja instytucjonalna, nie tylko personal growth
-- **Mental health**: cykle przemocy i breaking toxic patterns
+**For Gen Z and young audiences** the Oresteia offers:
+- **Universal themes**: justice vs. revenge, which resonates in the era of social justice
+- **Strong women**: Clytemnestra as complex anti-hero, not victim
+- **Systemic change**: institutional transformation, not just personal growth
+- **Mental health**: cycles of violence and breaking toxic patterns
 
-**Dlaczego nadal ma znaczenie**: W erze gdzie młodzi ludzie borykają się z kryzysem klimatycznym, nierównościami systemowymi i polityczną polarizacją, Oresteja oferuje model **jak sociedades can transform** od cykli destrukcji do konstruktywnych rozwiązań institutional.
+**Why it still matters**: In an era where young people struggle with climate crisis, systemic inequalities and political polarization, the Oresteia offers a model for **how societies can transform** from cycles of destruction to constructive institutional solutions.
 
-To nie jest po prostu "stary tekst" - to **instrukcja obsługi cywilizacji**.
+This is not simply an "old text" - it's **civilization's operating manual**.

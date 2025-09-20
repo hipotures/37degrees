@@ -1,232 +1,232 @@
-# Ocena Zgodności Treści i Ostrzeżenia: "Long Day's Journey into Night"
+# Content Compliance and Warnings Assessment: "Long Day's Journey into Night"
 
-*Kompleksowa analiza zgodności z zasadami platform społecznościowych i klasyfikacja wiekowa*  
-*Data oceny: 2025-09-04*
-
----
-
-## Podsumowanie Wykonawcze
-
-"Long Day's Journey into Night" Eugene'a O'Neilla to autobiograficzne arcydzieło teatralne z 1956 roku, które przedstawia jeden dzień z życia dysfunkcyjnej rodziny irlandzko-amerykańskiej w 1912 roku. Pomimo swojej literackiej wartości, dzieło zawiera liczne elementy problematyczne dla platform społecznościowych, szczególnie w kontekście nowych zasad z 2025 roku.
-
-**GŁÓWNE ZAGROŻENIA:**
-- Uzależnienia (morfina, alkohol) jako tematy centralne
-- Dysfunkcje rodzinne i toksyczne relacje
-- Tematy zdrowia psychicznego bez współczesnej perspektywy
-- Historyczne konteksty społeczne mogące być źle interpretowane
+*Comprehensive analysis of social media platform compliance and age classification*
+*Assessment date: 2025-09-20*
 
 ---
 
-## Analiza Platformowa - Macierz Zgodności
+## Executive Summary
 
-### 🔴 FACEBOOK/INSTAGRAM - WYSOKIE RYZYKO
+Eugene O'Neill's "Long Day's Journey into Night" is an autobiographical theatrical masterpiece from 1956 depicting one day in the life of a dysfunctional Irish-American family in 1912. Despite its literary value, the work contains numerous elements problematic for social media platforms, particularly under the new 2025 guidelines.
 
-**Status zgodności: 3/10** - Bardzo problematyczne
-
-#### Kluczowe zagrożenia:
-1. **Liberalizacja zasad dotyczących hate speech (2025)** - możliwe nieprzewidywalne reakcje moderacji
-2. **Community Notes system** - brak fact-checkingu może prowadzić do dezinformacji o uzależnieniach
-3. **Treści o uzależnieniach** - algorytm może uznać za promocję używek
-
-#### Problematyczne elementy z researchu:
-- **Mary Tyrone's morfina addiction** - może być oznaczane jako treści o narkotykach
-- **Rodzinne przemoc emocjonalna** - Jamie sabotujący Edmunda
-- **Dysfunkcje rodzinne** - mogą zostać zgłoszone jako "harmful content"
-- **Irlandzko-amerykańska tematyka** - w kontekście nowych zasad o grupach etnicznych
-
-#### Rekomendacje dla Facebook/Instagram:
-- **UNIKAJ** bezpośrednich cytatów o morfinie i alkoholu
-- **SKUP SIĘ** na aspektach literackich i historycznych
-- **UŻYWAJ** educational framing dla wszystkich wrażliwych tematów
-- **DODAJ** content warnings do każdego posta
-- **WIEK: 18+** - ze względu na nieprzewidywalną moderację
+**MAIN RISKS:**
+- Addiction themes (morphine, alcohol) as central topics
+- Family dysfunction and toxic relationships
+- Mental health themes without contemporary perspective
+- Historical social contexts that may be misinterpreted
 
 ---
 
-### 🟡 YOUTUBE - ŚREDNIE RYZYKO
+## Platform Compliance Analysis - Risk Matrix
 
-**Status zgodności: 6/10** - Możliwe z ostrożnością
+### 🔴 FACEBOOK/INSTAGRAM - HIGH RISK
 
-#### Zmiany 2025 wpływające na zgodność:
-- **Anti-AI crackdown** - wymaga ludzkiej narracji (OK dla naszego podejścia)
-- **Educational content liberalization** - korzystne dla literary analysis
-- **Monetyzacja educational content** - możliwa przy proper framing
+**Compliance status: 3/10** - Very problematic
 
-#### Korzystne elementy:
-- **Literatura klasyczna** = niskie ryzyko według guidelines
-- **Educational approach** = chroniony content
-- **Human narration requirement** = spełnione przez design projektu
+#### Key threats:
+1. **Liberalized hate speech policies (2025)** - unpredictable moderation reactions
+2. **Community Notes system** - lack of fact-checking may lead to misinformation about addictions
+3. **Addiction content** - algorithm may flag as substance promotion
 
-#### Ostrzeżenia:
-- **Addiction content** - wymaga educational context
-- **Family dysfunction** - może wymagać age restrictions
-- **Historical sensitive content** - ostrożne przedstawienie
+#### Problematic elements from research:
+- **Mary Tyrone's morphine addiction** - may be flagged as drug content
+- **Family emotional abuse** - Jamie sabotaging Edmund
+- **Family dysfunction** - may be reported as "harmful content"
+- **Irish-American themes** - in context of new 2025 ethnic group policies
 
-#### Rekomendacje dla YouTube:
-- **UŻYWAJ** human narration (nie text-to-speech)
-- **DODAJ** educational context do każdego wrażliwego tematu
-- **UNIKAJ** graphic descriptions uzależnień
-- **SKUP SIĘ** na literary analysis i historical importance
-- **WIEK: 16+** - z age restriction dla pełnej ochrony
+#### Recommendations for Facebook/Instagram:
+- **AVOID** direct quotes about morphine and alcohol
+- **FOCUS** on literary and historical aspects
+- **USE** educational framing for all sensitive topics
+- **ADD** content warnings to every post
+- **AGE: 18+** - due to unpredictable moderation
 
 ---
 
-### 🟡 TIKTOK - ŚREDNIE RYZYKO
+### 🟡 YOUTUBE - MEDIUM RISK
 
-**Status zgodności: 5/10** - Wymagana specjalna strategia
+**Compliance status: 6/10** - Possible with caution
 
-#### Nowe wymagania 2025:
-- **Tylko 1+ minutowe video** dla monetyzacji - PROBLEM dla TikTok format
-- **Original content only** - korzystne dla educational approach
+#### 2025 changes affecting compliance:
+- **Anti-AI crackdown** - requires human narration (OK for our approach)
+- **Educational content liberalization** - favorable for literary analysis
+- **Educational content monetization** - possible with proper framing
+
+#### Favorable elements:
+- **Classic literature** = low risk according to guidelines
+- **Educational approach** = protected content
+- **Human narration requirement** = met by project design
+
+#### Warnings:
+- **Addiction content** - requires educational context
+- **Family dysfunction** - may require age restrictions
+- **Historical sensitive content** - careful presentation needed
+
+#### Recommendations for YouTube:
+- **USE** human narration (not text-to-speech)
+- **ADD** educational context to every sensitive topic
+- **AVOID** graphic descriptions of addictions
+- **FOCUS** on literary analysis and historical importance
+- **AGE: 16+** - with age restriction for full protection
+
+---
+
+### 🟡 TIKTOK - MEDIUM RISK
+
+**Compliance status: 5/10** - Requires special strategy
+
+#### New 2025 requirements:
+- **Only 1+ minute videos** for monetization - PROBLEM for TikTok format
+- **Original content only** - favorable for educational approach
 - **Stricter compliance** - 70% rejection rate
 
-#### Specyficzne wyzwania:
-- **Uzależnienia content** - bardzo ryzykowne na TikTok
-- **Family trauma** - może być uznane za triggering
-- **Long-form requirement** - konflikt z tradycyjnym TikTok format
+#### Specific challenges:
+- **Addiction content** - very risky on TikTok
+- **Family trauma** - may be considered triggering
+- **Long-form requirement** - conflicts with traditional TikTok format
 
-#### Możliwości:
-- **Mental health education trend** - może pomóc w promocji
-- **Generational trauma discussions** - aktualny trend (#GenerationalTrauma: 45M views)
-- **Dark academia aesthetic** - potencjalna niche
+#### Opportunities:
+- **Mental health education trend** - may help promotion
+- **Generational trauma discussions** - current trend (#GenerationalTrauma: 45M views)
+- **Dark academia aesthetic** - potential niche
 
-#### Rekomendacje dla TikTok:
-- **MINIMUM 1 minuta** dla monetization eligibility
+#### Recommendations for TikTok:
+- **MINIMUM 1 minute** for monetization eligibility
 - **EDUCATIONAL FRAMING** - "What 1912 teaches about modern therapy"
-- **UNIKAJ** graphic addiction content
-- **UŻYWAJ** trending mental health hashtags
-- **WIEK: 16+** - ze względu na mature themes
+- **AVOID** graphic addiction content
+- **USE** trending mental health hashtags
+- **AGE: 16+** - due to mature themes
 
 ---
 
-### 🟢 SPOTIFY - NISKIE RYZYKO
+### 🟢 SPOTIFY - LOW RISK
 
-**Status zgodności: 8/10** - Najlepsze możliwości
+**Compliance status: 8/10** - Best opportunities
 
-#### Korzystne trendy 2025:
-- **Creator-friendly policies** - najmniej restrykcyjne guidelines
-- **Educational content support** - korzystne dla literary discussions
-- **Video podcast priority** - wyższe earning potential
+#### Favorable 2025 trends:
+- **Creator-friendly policies** - least restrictive guidelines
+- **Educational content support** - favorable for literary discussions
+- **Video podcast priority** - higher earning potential
 
-#### Minimalne zagrożenia:
-- **Copyright issues** - UNIKAJ długich cytatów z audiobook
-- **Hate speech** - bardzo liberalne interpretation
-- **Addiction discussion** - OK z educational context
+#### Minimal threats:
+- **Copyright issues** - AVOID long audiobook quotes
+- **Hate speech** - very liberal interpretation
+- **Addiction discussion** - OK with educational context
 
-#### Idealne elementy:
-- **Literary analysis** = bezpieczne
-- **Historical education** = mile widziane
-- **Original commentary** = chronione content
+#### Ideal elements:
+- **Literary analysis** = safe
+- **Historical education** = welcome
+- **Original commentary** = protected content
 
-#### Rekomendacje dla Spotify:
-- **UŻYWAJ** video format dla maksymalnej monetyzacji
-- **ROZWIJAJ** series approach - episodic content o różnych aspektach
-- **DODAJ** expert interviews dla credibility
-- **UNIKAJ** copyrighted audiobook clips
-- **WIEK: 13+** - możliwe z educational framing
+#### Recommendations for Spotify:
+- **USE** video format for maximum monetization
+- **DEVELOP** series approach - episodic content on different aspects
+- **ADD** expert interviews for credibility
+- **AVOID** copyrighted audiobook clips
+- **AGE: 13+** - possible with educational framing
 
 ---
 
-### 🟢 KICK - NAJMNIEJSZE RYZYKO
+### 🟢 KICK - LOWEST RISK
 
-**Status zgodności: 9/10** - Najlepsze warunki
+**Compliance status: 9/10** - Best conditions
 
-#### Przewagi Kick 2025:
+#### 2025 Kick advantages:
 - **95/5 revenue split** - industry leading
-- **Creator-first approach** - najmniej cenzury
-- **Educational content support** - aktywne wsparcie
+- **Creator-first approach** - least censorship
+- **Educational content support** - active support
 - **Context-based moderation** - fair assessment
 
-#### Praktycznie brak ograniczeń dla:
+#### Practically no restrictions for:
 - **Literary education content**
 - **Historical discussions**
 - **Mental health education**
 - **Family dynamics analysis**
 
-#### Rekomendacje dla Kick:
-- **MAKSYMALNA SWOBODA** w educational approach
-- **INTERACTIVE FORMAT** - community discussion podczas stream
+#### Recommendations for Kick:
+- **MAXIMUM FREEDOM** in educational approach
+- **INTERACTIVE FORMAT** - community discussion during stream
 - **LIVE ANALYSIS** - real-time literary analysis
 - **Q&A SESSIONS** - audience engagement
-- **WIEK: 13+** - z educational supervision
+- **AGE: 13+** - with educational supervision
 
 ---
 
-## Tematyczna Matryca Ryzyka
+## Thematic Risk Matrix
 
-### 🔴 WYSOKIE RYZYKO - Wszystkie platformy
+### 🔴 HIGH RISK - All platforms
 
-#### 1. **Morfina Mary Tyrone**
-- **Facebook/Instagram:** Może być auto-flagged jako drug content
-- **YouTube:** Wymaga educational context i age restriction
-- **TikTok:** Bardzo wysokie ryzyko - unikaj graphic descriptions
-- **Spotify:** OK z educational framing
+#### 1. **Mary Tyrone's Morphine**
+- **Facebook/Instagram:** May be auto-flagged as drug content
+- **YouTube:** Requires educational context and age restriction
+- **TikTok:** Very high risk - avoid graphic descriptions
+- **Spotify:** OK with educational framing
 - **Kick:** OK
 
-**MITIGATION:** Zawsze w kontekście historycznym i edukacyjnym, z nawiązaniem do współczesnego kryzysu opioidowego
+**MITIGATION:** Always in historical and educational context, with reference to contemporary opioid crisis
 
-#### 2. **Alkoholizm rodzinny**
-- **Facebook/Instagram:** Ryzyko algorithms flagging
+#### 2. **Family Alcoholism**
+- **Facebook/Instagram:** Risk of algorithm flagging
 - **YouTube:** Educational OK, avoid promotion
-- **TikTok:** Moderate risk z educational context
+- **TikTok:** Moderate risk with educational context
 - **Spotify:** Low risk
 - **Kick:** Minimal risk
 
-**MITIGATION:** Przedstaw jako problem zdrowotny, nie choice lifestyle
+**MITIGATION:** Present as health problem, not lifestyle choice
 
-#### 3. **Przemoc emocjonalna i toksyczne relacje**
-- **Facebook/Instagram:** High risk - może być seen jako harmful content
-- **YouTube:** OK z educational perspective
-- **TikTok:** Risk - może trigger sensitive users
+#### 3. **Emotional Abuse and Toxic Relationships**
+- **Facebook/Instagram:** High risk - may be seen as harmful content
+- **YouTube:** OK with educational perspective
+- **TikTok:** Risk - may trigger sensitive users
 - **Spotify:** Low risk
 - **Kick:** Low risk
 
-**MITIGATION:** Zawsze z modern psychological perspective i resources
+**MITIGATION:** Always with modern psychological perspective and resources
 
-### 🟡 ŚREDNIE RYZYKO - Platform dependent
+### 🟡 MEDIUM RISK - Platform dependent
 
-#### 4. **Dysfunkcje rodzinne**
+#### 4. **Family Dysfunction**
 - **Facebook/Instagram:** Moderate risk - sensitive algorithm
-- **YouTube:** Low risk z educational approach
-- **TikTok:** Trending topic ale requires sensitivity
+- **YouTube:** Low risk with educational approach
+- **TikTok:** Trending topic but requires sensitivity
 - **Spotify:** Low risk
 - **Kick:** Minimal risk
 
-#### 5. **Choroba psychiczna (gruźlica jako metafora)**
+#### 5. **Mental Illness (tuberculosis as metaphor)**
 - **Facebook/Instagram:** Moderate risk - health misinformation concerns
-- **YouTube:** OK z historical context
-- **TikTok:** OK z proper education framing
+- **YouTube:** OK with historical context
+- **TikTok:** OK with proper education framing
 - **Spotify:** Low risk
 - **Kick:** Low risk
 
-#### 6. **Tożsamość irlandzko-amerykańska**
-- **Facebook/Instagram:** HIGH RISK w kontekście nowych zasad 2025
+#### 6. **Irish-American Identity**
+- **Facebook/Instagram:** HIGH RISK in context of new 2025 policies
 - **YouTube:** Low risk
 - **TikTok:** Low risk
 - **Spotify:** Minimal risk
 - **Kick:** Minimal risk
 
-### ✅ NISKIE RYZYKO - Bezpieczne tematy
+### ✅ LOW RISK - Safe topics
 
-#### 7. **Literary analysis i technique**
-- **Wszystkie platformy:** Safe content
-- **Focus:** Symbolism, charakteryzacja, struktura dramatyczna
+#### 7. **Literary analysis and technique**
+- **All platforms:** Safe content
+- **Focus:** Symbolism, characterization, dramatic structure
 
-#### 8. **Historical context i cultural importance**
-- **Wszystkie platformy:** Protected educational content
-- **Focus:** Miejsce w kanonie amerykańskiej literatury
+#### 8. **Historical context and cultural importance**
+- **All platforms:** Protected educational content
+- **Focus:** Place in American literature canon
 
 #### 9. **Theatrical innovations**
-- **Wszystkie platformy:** Safe, educational
-- **Focus:** Wpływ na teatr i literaturę
+- **All platforms:** Safe, educational
+- **Focus:** Impact on theater and literature
 
 ---
 
-## Klasyfikacja Wiekowa - Szczegółowe Rekomendacje
+## Age Classification - Detailed Recommendations
 
 ### **13+ CONTENT (General Audience)**
 - **Focus:** Literary techniques, historical importance, theatrical innovations
-- **Approach:** Academic analysis bez graphic details
+- **Approach:** Academic analysis without graphic details
 - **Platforms:** Spotify, Kick
 - **Content Examples:**
   - "Why Long Day's Journey changed American theater"
@@ -236,7 +236,7 @@
 ### **16+ CONTENT (Mature Teen Audience)**
 - **Focus:** Family dynamics, basic addiction discussion, historical context
 - **Approach:** Educational with modern psychological perspective
-- **Platforms:** YouTube, TikTok (z age restriction)
+- **Platforms:** YouTube, TikTok (with age restriction)
 - **Content Examples:**
   - "Family trauma in classic literature"
   - "How addiction was viewed in 1912 vs today"
@@ -245,7 +245,7 @@
 ### **18+ CONTENT (Adult Only)**
 - **Focus:** Detailed addiction analysis, family abuse dynamics, complex psychological themes
 - **Approach:** Full academic treatment with resources
-- **Platforms:** Facebook/Instagram (jeśli w ogóle), YouTube (age-restricted)
+- **Platforms:** Facebook/Instagram (if at all), YouTube (age-restricted)
 - **Content Examples:**
   - "Morphine addiction in O'Neill - parallels to opioid crisis"
   - "Toxic masculinity in Long Day's Journey"
@@ -261,9 +261,9 @@
 
 ---
 
-## Content Warnings - Standardowe Ostrzeżenia
+## Content Warnings - Standard Warnings
 
-### **UNIWERSALNE WARNING (wszystkie platformy):**
+### **UNIVERSAL WARNING (all platforms):**
 ```
 ⚠️ CONTENT WARNING: This content discusses family dysfunction, addiction, and mental health issues from a 1912 perspective. Modern resources and professional help are available. This is educational content about classic literature.
 ```
@@ -297,21 +297,21 @@ Educational stream analyzing classic American drama. Open discussion about diffi
 
 ---
 
-## Strategiczne Rekomendacje Adaptacyjne
+## Strategic Adaptive Recommendations
 
 ### **"EDUCATION-FIRST" APPROACH**
 
-#### 1. **Zawsze rozpoczynaj od kontekstu edukacyjnego**
+#### 1. **Always start with educational context**
 - "Today we're analyzing one of the most important American plays..."
 - "This 1956 masterpiece helps us understand..."
 - "From a literary perspective..."
 
-#### 2. **Łącz z współczesnymi zasobami**
-- Mental health resources w opisach
-- Links do professional help
-- Modern understanding addiction science
+#### 2. **Connect to contemporary resources**
+- Mental health resources in descriptions
+- Links to professional help
+- Modern understanding of addiction science
 
-#### 3. **Użyj "historical lens" framing**
+#### 3. **Use "historical lens" framing**
 - "In 1912, addiction was misunderstood as..."
 - "Unlike today's treatment options..."
 - "This reflects 1912 attitudes, which we now know..."
@@ -319,43 +319,43 @@ Educational stream analyzing classic American drama. Open discussion about diffi
 ### **PLATFORM-SPECIFIC CONTENT ADAPTATION**
 
 #### Facebook/Instagram Strategy:
-- **KRÓTKIE POSTY** z linkami do full content elsewhere
-- **VISUAL QUOTES** z literary analysis
-- **HISTORICAL PHOTOS** z educational context
+- **SHORT POSTS** with links to full content elsewhere
+- **VISUAL QUOTES** with literary analysis
+- **HISTORICAL PHOTOS** with educational context
 - **MINIMAL CONTROVERSIAL CONTENT**
 
 #### YouTube Strategy:
-- **DŁUGIE ANALIZY** z educational framework
-- **EXPERT INTERVIEWS** dla credibility
-- **MODERN PARALLELS** z historical context
-- **COMPREHENSIVE RESOURCES** w descriptions
+- **LONG ANALYSES** with educational framework
+- **EXPERT INTERVIEWS** for credibility
+- **MODERN PARALLELS** with historical context
+- **COMPREHENSIVE RESOURCES** in descriptions
 
 #### TikTok Strategy:
 - **1+ MINUTE EDUCATIONAL VIDEOS**
 - **TRENDING MENTAL HEALTH HASHTAGS**
-- **MODERN CONNECTIONS** do Gen Z experiences
+- **MODERN CONNECTIONS** to Gen Z experiences
 - **HOPEFUL ENDINGS** - breaking cycles
 
 #### Spotify Strategy:
 - **SERIES FORMAT** - episodic deep dives
 - **EXPERT GUESTS** - literature professors, therapists
-- **COMPREHENSIVE ANALYSIS** bez platform limitations
-- **VIDEO ENHANCEMENT** dla better monetization
+- **COMPREHENSIVE ANALYSIS** without platform limitations
+- **VIDEO ENHANCEMENT** for better monetization
 
 #### Kick Strategy:
 - **LIVE EDUCATIONAL STREAMS**
-- **COMMUNITY DISCUSSION** durante analysis
-- **INTERACTIVE LEARNING** z audience participation
-- **FULL ACADEMIC FREEDOM** w discussions
+- **COMMUNITY DISCUSSION** during analysis
+- **INTERACTIVE LEARNING** with audience participation
+- **FULL ACADEMIC FREEDOM** in discussions
 
 ---
 
-## Crisis Mitigation - Jeśli Content zostanie Flagged
+## Crisis Mitigation - If Content Gets Flagged
 
 ### **IMMEDIATE RESPONSE PLAN:**
 
 #### 1. **Don't Panic - Educational Defense**
-- Gather documentation o educational purpose
+- Gather documentation of educational purpose
 - Highlight academic and historical value
 - Reference similar approved educational content
 
@@ -367,25 +367,25 @@ Educational stream analyzing classic American drama. Open discussion about diffi
 - **Kick:** Community guidelines educational focus
 
 #### 3. **Content Modification Options**
-- Dodaj więcej content warnings
-- Zwiększ educational framing
-- Dodaj modern context i resources
-- Skonsultuj z mental health professionals
+- Add more content warnings
+- Increase educational framing
+- Add modern context and resources
+- Consult with mental health professionals
 
 #### 4. **Alternative Hosting Plan**
-- **Primary:** Spotify (najmniejsze ryzyko)
-- **Secondary:** Kick (najbardziej creator-friendly)
-- **Backup:** YouTube z full age restrictions
-- **Last Resort:** Website hosting z social media promotion
+- **Primary:** Spotify (lowest risk)
+- **Secondary:** Kick (most creator-friendly)
+- **Backup:** YouTube with full age restrictions
+- **Last Resort:** Website hosting with social media promotion
 
 ---
 
-## Checklist Compliance - Przed Publikacją
+## Pre-Publication Compliance Checklist
 
 ### **PRE-PUBLICATION CHECKLIST:**
 
 #### Content Review:
-- [ ] Educational context established w pierwszych 30 sekundach
+- [ ] Educational context established in first 30 seconds
 - [ ] Modern resources provided
 - [ ] Historical perspective clearly stated
 - [ ] No graphic addiction descriptions
@@ -432,7 +432,7 @@ Educational stream analyzing classic American drama. Open discussion about diffi
 #### **Primary Platform: Spotify + Kick**
 - **Spotify:** Comprehensive educational podcast series
 - **Kick:** Live interactive educational streams
-- **Cross-promotion:** Use other platforms dla discovery, pełny content na primary platforms
+- **Cross-promotion:** Use other platforms for discovery, full content on primary platforms
 
 #### **Content Tiering Strategy:**
 - **Tier 1 (All platforms):** Literary analysis, historical importance, writing techniques
@@ -442,13 +442,13 @@ Educational stream analyzing classic American drama. Open discussion about diffi
 #### **Ultimate Success Formula:**
 1. **Start educational, stay educational**
 2. **Modern context always**
-3. **Resources always provided**  
+3. **Resources always provided**
 4. **Platform-specific optimization**
 5. **Crisis response plan ready**
 
-**Long Day's Journey into Night** pozostaje niezwykle wartościową pozycją edukacyjną, ale wymaga szczególnie ostrożnego podejścia w erze platform społecznościowych 2025. Z proper strategy i educational framing, może służyć jako potężne narzędzie dla discusses o zdrowiu psychicznym, uzależnieniach i family dynamics - ale tylko przy zachowaniu najwyższych standardów compliance i content warnings.
+**Long Day's Journey into Night** remains an extremely valuable educational work, but requires particularly careful approach in the 2025 social media era. With proper strategy and educational framing, it can serve as a powerful tool for discussions about mental health, addiction, and family dynamics - but only while maintaining the highest compliance standards and content warnings.
 
 ---
 
-*Dokument stworzony przez agenta oceny zgodności treści - 37degrees content warnings assessment system*  
-*Następna aktualizacja rekomendowana: Po zmianach w platform policies lub significant regulatory changes*
+*Document created by content compliance assessment agent - 37degrees content warnings assessment system*
+*Next update recommended: After platform policy changes or significant regulatory changes*

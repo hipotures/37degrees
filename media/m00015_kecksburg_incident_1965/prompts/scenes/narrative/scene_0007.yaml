@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Military personnel and scientists examine the acorn-shaped object"
+  setting:
+    time: "December 9, 1965, 8:00 PM, night"
+    location: "Forest clearing with disturbed earth, broken tree branches, impact depression"
+    weather: "Cold December night, frost and fog in forest"
+  characters:
+    - appearance: "Middle-aged Caucasian man, 50s, wire-rim glasses, focused expression"
+      clothing: "Dark winter coat over suit and tie, leather shoes, carrying briefcase or equipment"
+      position: "Kneeling beside object in crater, taking measurements"
+      action: "Examining objects closely, taking notes, analytical stance"
+    - appearance: "Middle-aged Caucasian man, 40s, clean-shaven, confident expression, officer insignia"
+      clothing: "Olive drab officer uniform, peaked cap, leather boots, binoculars around neck"
+      position: "Standing at crater edge, supervising examination"
+      action: "Observing examination process, holding radio, maintaining security oversight"
+    - appearance: "Young Caucasian man, 20s, short military haircut, serious expression"
+      clothing: "Olive drab M-1965 field jacket, M1 steel helmet, combat boots, military patches visible"
+      position: "Standing guard with equipment, holding geiger counter"
+      action: "Operating radiation detection equipment, monitoring for safety hazards"
+  scene:
+    mainElements: "Circular depression in muddy ground, scattered debris, broken branches, disturbed vegetation"
+    details: "Volkswagen Beetle-sized object, acorn or bell shape, bronze-golden metallic surface, seamless construction with raised band around circumference containing hieroglyphic-like symbols, partially buried at angle in forest floor, portable radiation detection device, metal case with dial gauge, handheld probe on cable, military specification equipment for radiation measurement, flood lights illuminating examination area, photographer documenting with large format press camera, no text or letters visible"
+    background: "Dark, mysterious woodland setting with patches of blue smoke rising through bare branches"
+    atmosphere: "Intense scientific and military examination of unknown object, serious professional investigation with classified importance"
+  composition:
+    cameraAngle: "Medium shot looking into crater during examination"
+    focus: "Scientists and military personnel examining mysterious acorn-shaped object"
+    depth: "Military guards in foreground, examination team and object in crater in middle ground, illuminated forest clearing in background"

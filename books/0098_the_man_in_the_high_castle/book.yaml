@@ -4,3 +4,169 @@ book_info:
   author: "Philip K. Dick"
   year: 1962
   genre: "Alternate history,Science fiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-19T21:15:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 8
+    cultural_phenomenon: 7
+    contemporary_reception: 6
+    relevance: 9
+    innovation: 9
+    structural_complexity: 8
+    social_roles: 7
+    total: 61
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 6.8
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "ching_composition"
+        type: "FACT"
+        credibility: 0.95
+        content: "Dick used I Ching to write the novel, creating revolutionary metafictional composition technique"
+        source: "writing_innovation"
+      - id: "alternative_facts"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Prophetic predictions about post-truth society and narrative control of reality"
+        source: "reality_wisdom"
+      - id: "fascist_power"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Deep examination of authoritarian control mechanisms and racial hierarchies"
+        source: "dark_drama"
+      - id: "identity_falsification"
+        type: "THEORY"
+        credibility: 0.75
+        content: "Characters hiding true identities mirror broader themes about authenticity vs survival"
+        source: "symbols_meanings"
+      - id: "racial_hierarchies"
+        type: "FACT"
+        credibility: 0.90
+        content: "Detailed analysis of racist social structures under totalitarian occupation"
+        source: "culture_impact"
+      - id: "metafictional_structure"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Book-within-book technique questioning nature of reality and historical truth"
+        source: "writing_innovation"
+      - id: "surveillance_predictions"
+        type: "FACT"
+        credibility: 0.95
+        content: "Prophetic accuracy about modern surveillance state and corporate information control"
+        source: "reality_wisdom"
+      - id: "cultural_resistance"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Art and creativity as forms of resistance to totalitarian cultural domination"
+        source: "culture_impact"
+
+    localized:
+      en:
+        cultural_impact: "Hugo Award winner establishing legitimacy of alternate history genre"
+        key_editions: ["Penguin Modern Classics", "Gollancz hardback editions"]
+        reception_notes: "Academic recognition across multiple university disciplines"
+        educational_status: "Standard in science fiction, history, and political science curricula"
+        local_themes: ["Cold War anxieties", "American exceptionalism critique"]
+      pl:
+        cultural_impact: "Published 1981 during Solidarity movement, resonating with occupation experience"
+        key_editions: ["Czytelnik 1981", "Rebis multiple reprints"]
+        reception_notes: "Special sensitivity to German occupation themes in Polish context"
+        educational_status: "Reading lists for secondary schools, World War II context"
+        local_themes: ["Historical occupation memory", "Resistance through culture"]
+      de:
+        cultural_impact: "Complex reception given German perspective on Nazi alternate history"
+        key_editions: ["Klett-Cotta editions", "Academic study editions"]
+        reception_notes: "Serious academic engagement with fascism representation"
+        educational_status: "Used in history and literature education about totalitarianism"
+        local_themes: ["Historical responsibility", "Memory and guilt processing"]
+      fr:
+        cultural_impact: "Postmodern theory alignment, Baudrillard simulation parallels"
+        key_editions: ["J'ai Lu science fiction series"]
+        reception_notes: "Intellectual engagement with reality/simulation themes"
+        educational_status: "Philosophy and literature courses on postmodernity"
+        local_themes: ["Reality simulation", "Resistance narrative importance"]
+      es:
+        cultural_impact: "Resonance with Franco dictatorship memory and Latin American military regimes"
+        key_editions: ["Minotauro science fiction collection"]
+        reception_notes: "Connection to lived experience of authoritarian rule"
+        educational_status: "Historical memory and resistance literature"
+        local_themes: ["Dictatorship resistance", "Cultural memory preservation"]
+      pt:
+        cultural_impact: "Military dictatorship parallels, resistance through art themes"
+        key_editions: ["Brazilian and Portuguese academic editions"]
+        reception_notes: "Strong connection to recent authoritarian history"
+        educational_status: "Literature and history courses on twentieth century totalitarianism"
+        local_themes: ["Military regime resistance", "Cultural preservation under oppression"]
+      ja:
+        cultural_impact: "Complex reception as occupying power in alternate history scenario"
+        key_editions: ["Hayakawa Shobo SF series"]
+        reception_notes: "Critical engagement with Western perceptions of Japanese culture"
+        educational_status: "Cross-cultural studies and postwar identity courses"
+        local_themes: ["Cultural appropriation critique", "Imperial history reflection"]
+      ko:
+        cultural_impact: "Occupation experience parallels, academic engagement with resistance themes"
+        key_editions: ["Academic and literary translations"]
+        reception_notes: "Connection to Japanese occupation historical memory"
+        educational_status: "History and literature courses on occupation and resistance"
+        local_themes: ["Colonial occupation resistance", "Cultural identity preservation"]
+      hi:
+        cultural_impact: "Postcolonial reading potential, resistance narrative relevance"
+        key_editions: ["English language academic circulation"]
+        reception_notes: "Limited to English-speaking intellectual circles"
+        educational_status: "Postcolonial literature and science fiction courses"
+        local_themes: ["Colonial resistance narratives", "Cultural authenticity under domination"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "Social historian analyzing fascist power structures"
+        host_b: "Contemporary critic examining modern parallels"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "Historical Context"
+          lead: "host_a"
+          description: "1962 Cold War setting and alternative history premise"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "Power Dynamics"
+          lead: "host_b"
+          description: "Racial hierarchies, occupation psychology, collaboration vs resistance"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "Contemporary Parallels"
+          lead: "host_a"
+          description: "Surveillance state predictions, alternative facts, corporate power"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "Future Implications"
+          lead: "host_b"
+          description: "Lessons for modern democracy, resistance strategies, media literacy"
+      prompts:
+        host_a: "You are Professor {male_name}, a social historian. Analyze The Man in the High Castle through lens of power, gender, class, and historical context from 1962."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates, surveillance capitalism, and modern interpretations of fascism and resistance."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["Nazi themes and symbols", "racial hierarchies and discrimination", "surveillance state concepts", "totalitarian oppression"]
+    educational_elements: ["Alternate history genre characteristics", "Cold War historical context", "Social resistance strategies", "Media literacy and truth verification"]
+    production_notes:
+      intro_style: "Serious documentary tone with historical gravitas"
+      transitions: "Thoughtful pauses between complex social analysis segments"
+      outro_style: "Contemplative conclusion emphasizing ongoing relevance"
+
+  overall_confidence: 0.9

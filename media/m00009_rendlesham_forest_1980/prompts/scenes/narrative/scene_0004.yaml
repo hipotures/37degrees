@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Deputy Base Commander Assembles Investigation Team - December 28, 1980"
+  setting:
+    time: "December 28, 1980, early morning"
+    location: "RAF Woodbridge base operations area, Suffolk, England"
+    weather: "Cold winter morning, clear skies"
+  characters:
+    - appearance: "Caucasian man, 41 years old, military bearing, authoritative presence, determined expression"
+      clothing: "U.S. Air Force winter field uniform - OG-107 cotton sateen or early BDU woodland camouflage, M-65 field jacket, thermal underwear, field cap, black military boots, subdued rank insignia on collar"
+      position: "Standing with confident military posture, often holding handheld cassette recorder"
+      action: "Leading investigation, documenting events on tape recorder, directing team members"
+    - appearance: "Caucasian man, military age, technical specialist demeanor, concentrated expression"
+      clothing: "U.S. Air Force winter field uniform - woodland camouflage BDU or OG-107, M-65 field jacket, thermal underwear, field cap, combat boots, Disaster Preparedness specialist insignia"
+      position: "Standing while checking technical equipment"
+      action: "Preparing AN/PDR-27 radiation survey meter for field use, conducting equipment checks"
+    - appearance: "Caucasian man, military age, alert expression, focused demeanor"
+      clothing: "U.S. Air Force Security Police winter gear - woodland camouflage BDU or OG-107 uniform, M-65 field jacket, thermal layers, field cap, combat boots, subdued Security Police patches"
+      position: "Standing at attention awaiting orders"
+      action: "Receiving briefing for return investigation to forest site"
+  scene:
+    mainElements: "Military base operations area with concrete buildings, personnel gathering for special investigation mission. Team of three airmen preparing technical equipment for forest investigation."
+    details: "Concrete military buildings typical of 1980 U.S. Air Force base construction. Portable military radiation detector - metal rectangular device (13x28x20 cm) with carrying handle, analog meter display with needle gauge, detection probe on retractable cord, clicking sound mechanism for radiation detection being prepared for use. Handheld cassette tape recorder with red recording light, used for documenting investigation, metal and plastic construction typical of 1980 portable recording devices held by commanding officer. Standard U.S. Air Force issued flashlight with metal body, powerful beam for cutting through forest darkness, typical 1980 military specifications carried by team members."
+    background: "RAF Woodbridge base facilities with control tower and aircraft hangars visible in distance"
+    atmosphere: "Professional military preparation for unusual investigation, sense of serious official inquiry into unexplained phenomena, cold morning air with visible breath, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing base facilities and assembled investigation team"
+    focus: "Deputy Base Commander briefing team with technical equipment prominent"
+    depth: "Foreground: investigation team with equipment. Middle: base operations buildings. Background: airfield facilities and distant hangars"

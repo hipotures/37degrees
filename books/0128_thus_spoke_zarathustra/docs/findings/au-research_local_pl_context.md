@@ -1,178 +1,178 @@
-# Tako rzecze Zaratustra - Lokalny kontekst kulturowy w Polsce
+# Thus Spoke Zarathustra - Local Cultural Context in Poland
 
-## Wprowadzenie
-Friedrich Nietzsche "Tako rzecze Zaratustra" (1883-1885) to najczęściej czytana i tłumaczona praca tego niemieckiego filozofa. Dzieło ma wyjątkowe miejsce w polskiej kulturze intelektualnej - z jednej strony jako tekst filozoficzny, z drugiej jako fenomen literacki o dużych walorach artystycznych.
+## Introduction
+Friedrich Nietzsche's "Thus Spoke Zarathustra" (1883-1885) is the most frequently read and translated work by this German philosopher. The work holds a unique place in Polish intellectual culture - on one hand as a philosophical text, on the other as a literary phenomenon with significant artistic value.
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze wydania
-1. **1906** - Pierwsze polskie tłumaczenie autorstwa Wacława Berenta pt. "Tako rzecze Zaratustra: książka dla wszystkich i dla nikogo", wydane przez Jakuba Mortkowicza w Warszawie w 1905-1906
-2. **1999** - Tłumaczenie Sławy Lisieckiej i Zdzisława Jaskuły pt. "To rzekł Zaratustra: książka dla wszystkich i dla nikogo"
-3. **2005** - Wydanie pt. "Tak mówił Zaratustra: książka dla wszystkich i dla nikogo"
-4. **Obecnie** - Dzieło dostępne w domenie publicznej na platformie Wolne Lektury w formatie PDF
+### First Editions
+1. **1906** - First Polish translation by Wacław Berent titled "Tako rzecze Zaratustra: książka dla wszystkich i dla nikogo" (Thus Spoke Zarathustra: A Book for All and None), published by Jakub Mortkowicz in Warsaw in 1905-1906
+2. **1999** - Translation by Sława Lisiecka and Zdzisław Jaskuła titled "To rzekł Zaratustra: książka dla wszystkich i dla nikogo"
+3. **2005** - Edition titled "Tak mówił Zaratustra: książka dla wszystkich i dla nikogo"
+4. **Currently** - The work is available in the public domain on the Wolne Lektury platform in PDF format
 
-### Specyfika recepcji
-- Dzieło stało się popularne poza środowiskiem akademickim dzięki wysokim walorom literackim
-- W zamierzeniu autora miało być dziełem popularnym, pozwalającym dotrzeć do szerokiego kręgu odbiorców
-- Język poetycki, pełen alegorii i wyszukanej symboliki sprawił, że przypomina bardziej traktat teologiczny niż filozoficzny
+### Reception Specifics
+- The work became popular beyond academic circles thanks to its high literary value
+- In the author's intention, it was meant to be a popular work, allowing it to reach a wide circle of readers
+- The poetic language, full of allegories and sophisticated symbolism, made it resemble a theological rather than philosophical treatise
 
-## Polscy tłumacze i ich interpretacje
+## Polish Translators and Their Interpretations
 
 ### Wacław Berent (1873-1940)
-- **Rola**: Pierwszy polski tłumacz dzieła (1906)
-- **Podejście**: Używał trzech kodów językowo-literackich:
-  - Styl Młodej Polski
-  - Własny idiolekt poetycki  
-  - Język staropolskiej Biblii jako model archaiczny
-- **Innowacje**: Konsekwentnie oddawał tytułowe zdanie czasownikiem "rzec" w czasie teraźniejszym
-- **Ocena**: Mimo negatywnych ocen niektórych krytyków, tłumaczenie Berenta cieszyło się uznaniem i stało się podstawowym polskim przekładem
-- **Charakterystyka**: Akcent na archaizację i wartości brzmieniowe pozwalają dostrzec w tekście Berenta cechy symbolistycznego modelu przekładu
+- **Role**: First Polish translator of the work (1906)
+- **Approach**: Used three linguistic-literary codes:
+  - Young Poland style
+  - His own poetic idiolect
+  - Old Polish Bible language as an archaic model
+- **Innovations**: Consistently rendered the titular sentence with the verb "rzec" (to speak) in present tense
+- **Assessment**: Despite negative reviews from some critics, Berent's translation enjoyed recognition and became the basic Polish translation
+- **Characteristics**: Emphasis on archaization and sound values allow us to see features of the symbolist translation model in Berent's text
 
-### Wyzwania tłumaczeniowe
-- Oryginalny styl i język Nietzschego
-- Bogata i niejasna symbolika
-- Forma otwarta na bardzo różne interpretacje
-- Konieczność zachowania poetyckiego charakteru dzieła
+### Translation Challenges
+- Nietzsche's original style and language
+- Rich and unclear symbolism
+- Form open to very different interpretations
+- Need to preserve the poetic character of the work
 
-## Kontekst edukacyjny w Polsce
+## Educational Context in Poland
 
-### Status w szkołach polskich
-- **Rzadko jako lektura obowiązkowa** - z powodu swojej nietypowości i literackości rzadziej czytana na akademickich kursach filozofii
-- **Lektura uzupełniająca** w ramach przedmiotu filozofii lub wiedzy o kulturze na poziomie liceum
-- **Materiał analityczny** w kontekście filozofii XIX wieku i historii myśli europejskiej
+### Status in Polish Schools
+- **Rarely as mandatory reading** - due to its atypical nature and literariness, less frequently read in academic philosophy courses
+- **Supplementary reading** within philosophy or cultural knowledge subjects at high school level
+- **Analytical material** in the context of 19th-century philosophy and European intellectual history
 
-### Kluczowe tematy omawiane
-- "Bóg umarł" - najbardziej znane hasło dzieła
-- Koncepcja nadczłowieka jako ideału indywidualnej osobowości
-- Wola mocy i wieczny powrót
-- Krytyka chrześcijańsko-humanistycznego konfliktu dobra ze złem
+### Key Topics Discussed
+- "God is dead" - the most famous slogan of the work
+- The concept of Übermensch as an ideal of individual personality
+- Will to power and eternal recurrence
+- Critique of the Christian-humanistic conflict between good and evil
 
-### Wyzwania interpretacyjne w edukacji
-- Możliwość bardzo różnych interpretacji ze względu na formę literacką
-- Konieczność odróżnienia między błędnymi interpretacjami popularnymi a rzeczywistym znaczeniem filozoficznym
-- Problem stereotypowych skojarzeń z nazizmem (wbrew rzeczywistym poglądom Nietzschego)
+### Interpretive Challenges in Education
+- Possibility of very different interpretations due to literary form
+- Need to distinguish between erroneous popular interpretations and actual philosophical meaning
+- Problem of stereotypical associations with Nazism (contrary to Nietzsche's actual views)
 
-## Adaptacje kulturowe w Polsce
+## Cultural Adaptations in Poland
 
-### Muzyka klasyczna
-- **Richard Strauss**: Poemat symfoniczny "Tako rzecze Zaratustra" (1896) regularnie wykonywany przez polskie orkiestry:
-  - NFM Filharmonia Wrocławska
-  - Filharmonia Pomorska (z dyrygentem Eugene Tzigane)
-- **Popularność**: Dodatkową sławę dzieło zyskało dzięki użyciu fragmentu w filmie Stanley'a Kubricka "2001: Odyseja kosmiczna" (1968)
-- **Edukacja**: Wykorzystywane w programach edukacyjnych o muzyce klasycznej (Muzykoteka Szkolna, Polskie Radio)
+### Classical Music
+- **Richard Strauss**: Symphonic poem "Thus Spoke Zarathustra" (1896) regularly performed by Polish orchestras:
+  - NFM Wrocław Philharmonic
+  - Pomeranian Philharmonic (with conductor Eugene Tzigane)
+- **Popularity**: The work gained additional fame thanks to its use in Stanley Kubrick's film "2001: A Space Odyssey" (1968)
+- **Education**: Used in classical music education programs (School Music Library, Polish Radio)
 
-### Teatr i film
-- Brak konkretnych polskich adaptacji teatralnych lub filmowych bezpośrednio opartych na dziele
-- Wpływy nietzscheańskie widoczne pośrednio w twórczości polskich reżyserów i dramaturgów
+### Theater and Film
+- No specific Polish theatrical or film adaptations directly based on the work
+- Nietzschean influences visible indirectly in the work of Polish directors and playwrights
 
-## Recepcja w polskiej literaturze
+## Reception in Polish Literature
 
-### Młoda Polska (1890-1918)
-- Znaczący wpływ na pisarzy tego okresu
-- Recepcja Nietzschego charakteryzowała się fascynacją koncepcją nadczłowieka
-- Wykorzystywanie motywów nietzscheańskich w twórczości poetyckiej
+### Young Poland (1890-1918)
+- Significant influence on writers of this period
+- Reception of Nietzsche was characterized by fascination with the concept of Übermensch
+- Use of Nietzschean motifs in poetic creation
 
-### Dwudziestolecie międzywojenne
-- **Skamandryci** (Jan Lechoń, Julian Tuwim, Antoni Słonimski): Dystans wobec systematycznych podejść filozoficznych do literatury
-- **Witold Gombrowicz**: Fascynacja filozofią Nietzschego przez całe życie twórcze
-  - Performatywne przezwyciężenie nietzscheańskiej krytyki podmiotowości
-  - "Gdybym miał wyznaczyć godnego następcę Wesołej nauki nietzscheańskiej krytyki i poezji w literaturze XX wieku, odpowiedziałbym: Gombrowicz w swoim Dzienniku"
+### Interwar Period
+- **Skamander poets** (Jan Lechoń, Julian Tuwim, Antoni Słonimski): Distance from systematic philosophical approaches to literature
+- **Witold Gombrowicz**: Fascination with Nietzsche's philosophy throughout his creative life
+  - Performative overcoming of Nietzschean critique of subjectivity
+  - "If I had to designate a worthy successor to Nietzschean cheerful science of criticism and poetry in 20th-century literature, I would answer: Gombrowicz in his Diary"
 
-### Okres PRL-u
-- Ograniczony dostęp do dzieł Nietzschego z powodów ideologicznych
-- Krytyka komunistycznej propagandy wykorzystującej termin "faszyzm" w kontekście niemieckiej filozofii
+### PRL Period
+- Limited access to Nietzsche's works for ideological reasons
+- Criticism of communist propaganda using the term "fascism" in the context of German philosophy
 
-## Akademickie interpretacje polskich badaczy
+## Academic Interpretations by Polish Scholars
 
-### Uniwersytety
-- **Uniwersytet Śląski**: Badania nad tłumaczeniem Berenta, analizy stylów językowych
-- **Uniwersytet Gdański**: Prace z zakresu teorii przekładu i literaturoznawstwa porównawczego
-- **Uniwersytet Warszawski**: Publikacje w "Przeglądzie Filozoficznym"
-- **Uniwersytet Łódzki**: "Acta Universitatis Lodziensis. Folia Philosophica" - artykuły o "woli mocy" i "wiecznym powrocie"
+### Universities
+- **University of Silesia**: Research on Berent's translation, analysis of linguistic styles
+- **University of Gdańsk**: Works in translation theory and comparative literature
+- **University of Warsaw**: Publications in "Philosophical Review"
+- **University of Łódź**: "Acta Universitatis Lodziensis. Folia Philosophica" - articles on "will to power" and "eternal recurrence"
 
-### Seminarium Nietzscheańskie
-- **Założyciele**: Cezary Wodziński, Bogdan Banasiak, Paweł Pieniążek
-- **Działalność**: Coroczne konferencje filozoficzne polskich badaczy Nietzschego
-- **Publikacje**: Specjalistyczne artykuły i monografie
+### Nietzschean Seminar
+- **Founders**: Cezary Wodziński, Bogdan Banasiak, Paweł Pieniążek
+- **Activity**: Annual philosophical conferences of Polish Nietzsche researchers
+- **Publications**: Specialized articles and monographs
 
-### Kluczowi polscy badacze
-- **Janusz Margański**: "Filozof Gombrowicz" - związki Gombrowicza z filozofią Nietzschego
-- **Marta Kopij**: "Recepcja Nietzschego w Młodej Polsce"
-- **Jerzy Luty**: "Fryderyk Nietzsche: ku estetyce artysty"
-- **Günther Wohlfart**: "Wola mocy i wieczny powrót"
+### Key Polish Researchers
+- **Janusz Margański**: "Philosopher Gombrowicz" - connections between Gombrowicz and Nietzsche's philosophy
+- **Marta Kopij**: "Reception of Nietzsche in Young Poland"
+- **Jerzy Luty**: "Friedrich Nietzsche: toward the aesthetics of the artist"
+- **Günther Wohlfart**: "Will to power and eternal recurrence"
 
-## Problemy z tłumaczeniem i różnice kulturowe
+## Translation Problems and Cultural Differences
 
-### Kluczowe koncepty
-- **"Übermensch"** = "nadczłowiek" (nie "superman" jak w tłumaczeniach anglosaskich)
-- **"Ewige Wiederkehr"** = "wieczny powrót"
-- **"Wille zur Macht"** = "wola mocy"
+### Key Concepts
+- **"Übermensch"** = "nadczłowiek" (not "superman" as in Anglo-Saxon translations)
+- **"Ewige Wiederkehr"** = "wieczny powrót" (eternal recurrence)
+- **"Wille zur Macht"** = "wola mocy" (will to power)
 
-### Błędne interpretacje w kulturze popularnej
-- Fałszywe skojarzenia z nazizmem i faszyzmem
-- Uproszczenie "woli mocy" do dążenia do politycznej dominacji
-- Niewłaściwe utożsamienie z brutalnym indywidualizmem
+### Erroneous Interpretations in Popular Culture
+- False associations with Nazism and fascism
+- Simplification of "will to power" to pursuit of political domination
+- Inappropriate identification with brutal individualism
 
-### Wyzwania kulturowe
-- Różnice w tradycji filozoficznej między kulturą niemiecką a polską
-- Konieczność uwzględnienia polskiego kontekstu religijnego (katolicyzm vs protestantyzm)
-- Adaptacja koncepcji w polskim kontekście historycznym (doświadczenia zaborów, II wojna światowa)
+### Cultural Challenges
+- Differences in philosophical tradition between German and Polish culture
+- Need to consider Polish religious context (Catholicism vs. Protestantism)
+- Adaptation of concepts in Polish historical context (experiences of partitions, World War II)
 
-## Wpływ na współczesną kulturę młodzieżową
+## Influence on Contemporary Youth Culture
 
-### Social media i internet
-- **TikTok**: Konta takie jak "@slowamajamoc.cytaty" publikują cytaty z Nietzschego
-- **Platformy cytatowe**: Popularne cytaty z "Tako rzecze Zaratustra" na stronach Cytatyo.pl, LubimyCzytac.pl
-- **Memy internetowe**: Koncepcja "nadczłowieka" w kulturze internetowej związana z memem "Gigachad"
+### Social Media and Internet
+- **TikTok**: Accounts like "@slowamajamoc.cytaty" publish quotes from Nietzsche
+- **Quote platforms**: Popular quotes from "Thus Spoke Zarathustra" on sites like Cytatyo.pl, LubimyCzytac.pl
+- **Internet memes**: The concept of "Übermensch" in internet culture related to the "Gigachad" meme
 
-### Generacja Z i milenialsi
-- **30% respondentów 18-24 lat** wskazuje social media jako najważniejsze źródło informacji
-- **TikTok**: 11,5 mln dorosłych użytkowników w Polsce (2024)
-- **Filozofia na TikToku**: Młodzi użytkownicy wykorzystują platformę do dzielenia się poglądami filozoficznymi
+### Generation Z and Millennials
+- **30% of respondents aged 18-24** indicate social media as the most important source of information
+- **TikTok**: 11.5 million adult users in Poland (2024)
+- **Philosophy on TikTok**: Young users use the platform to share philosophical views
 
-### Popularne cytaty w polskim internecie
-- "Co nas nie zabije, to nas wzmocni"
-- "Bóg jest martwy"
-- "Człowiek jest czymś, co pokonanym być powinno"
-- Test wiecznego powrotu: "Wyobraź sobie, że wszystko będzie się wiecznie powtarzać"
+### Popular Quotes in Polish Internet
+- "What does not kill us makes us stronger"
+- "God is dead"
+- "Man is something that must be overcome"
+- Eternal recurrence test: "Imagine that everything will repeat eternally"
 
-## Lokalne nawiązania i easter eggi
+## Local References and Easter Eggs
 
-### Krakowskie konteksty
-- **Muzeum Narodowe w Krakowie**: Wystawa poświęcona Stanley'emu Kubrickowi z odniesieniami do "Tako rzecze Zaratustra"
-- **Uniwersytet Jagielloński**: Seminaria poświęcone związkom literatury z filozofią przełomu XIX/XX wieku
+### Krakow Contexts
+- **National Museum in Krakow**: Exhibition dedicated to Stanley Kubrick with references to "Thus Spoke Zarathustra"
+- **Jagiellonian University**: Seminars dedicated to connections between literature and philosophy at the turn of 19th/20th century
 
-### Małopolskie i krakowskie interpretacje
-- Tradycja romantyczna vs nietzscheańska krytyka romantyzmu
-- Kontekst katolicki vs nietzscheańska krytyka chrześcijaństwa
-- Lokalny dyskurs intelektualny w kawiarniach i klubach studenckich
+### Lesser Poland and Krakow Interpretations
+- Romantic tradition vs. Nietzschean critique of romanticism
+- Catholic context vs. Nietzschean critique of Christianity
+- Local intellectual discourse in cafés and student clubs
 
-### Współczesne nawiązania w Krakowie
-- Spotkania w księgarniach filozoficznych
-- Dyskusje studenckie na temat interpretacji nadczłowieka
-- Wykłady otwarte o filozofii Nietzschego
+### Contemporary References in Krakow
+- Meetings in philosophical bookstores
+- Student discussions about interpretations of Übermensch
+- Open lectures on Nietzsche's philosophy
 
-## Fan community i specyfika polska
+## Fan Community and Polish Specifics
 
-### Charakterystyka polskiej społeczności fanów
-- **Akademicki charakter**: Skupienie się na rzetelnej interpretacji filozoficznej
-- **Dystans wobec popularnych uproszczeń**: Krytyczne podejście do memów i stereotypów
-- **Literackie zainteresowanie**: Docenianie walorów artystycznych dzieła
+### Characteristics of Polish Fan Community
+- **Academic character**: Focus on reliable philosophical interpretation
+- **Distance from popular simplifications**: Critical approach to memes and stereotypes
+- **Literary interest**: Appreciation of the work's artistic values
 
-### Platformy dyskusji
-- Fora internetowe poświęcone filozofii
-- Grupy na Facebooku dyskutujące klasykę filozofii
-- Kanały YouTube z popularyzacją filozofii (często z krytyką błędnych interpretacji)
+### Discussion Platforms
+- Internet forums dedicated to philosophy
+- Facebook groups discussing philosophical classics
+- YouTube channels popularizing philosophy (often with criticism of erroneous interpretations)
 
-### Specyfika polska vs międzynarodowa
-- Większy nacisk na kontekst literacki niż w krajach anglosaskich
-- Silniejsza tradycja analityczna dzięki polskiej szkole filozoficznej
-- Ostrożność wobec ideologizacji filozofii (doświadczenia historyczne)
+### Polish vs. International Specifics
+- Greater emphasis on literary context than in Anglo-Saxon countries
+- Stronger analytical tradition thanks to Polish philosophical school
+- Caution toward ideologization of philosophy (historical experiences)
 
-## Konkluzja
+## Conclusion
 
-"Tako rzecze Zaratustra" w polskim kontekście kulturowym jest dziełem o wyjątkowo złożonej recepcji. Z jednej strony cieszy się statusem klasyki filozofii dostępnej szerokiej publiczności, z drugiej pozostaje przedmiotem zaawansowanych badań akademickich. 
+"Thus Spoke Zarathustra" in Polish cultural context is a work with exceptionally complex reception. On one hand, it enjoys the status of a philosophical classic accessible to the general public, on the other, it remains the subject of advanced academic research.
 
-Polscy czytelnicy mają możliwość poznania dzieła dzięki klasycznemu tłumaczeniu Wacława Berenta oraz nowszym przekładom, a także dzięki dostępności w domenie publicznej. Współczesna młodzież odkrywa Nietzschego poprzez social media, choć często w uproszczonej formie memów i cytatów.
+Polish readers have the opportunity to know the work thanks to Wacław Berent's classic translation as well as newer translations, and also thanks to its availability in the public domain. Contemporary youth discover Nietzsche through social media, though often in simplified form of memes and quotes.
 
-Kluczowym wyzwaniem pozostaje oddzielenie rzetelnej interpretacji filozoficznej od popularnych stereotypów i błędnych skojarzeń z totalitaryzmami XX wieku. Polska tradycja akademicka dostarcza solidnych narzędzi do tej analizy, a rosnące zainteresowanie młodzieży filozofią przez platformy cyfrowe może prowadzić do odnowienia zainteresowania tym klasycznym dziełem.
+The key challenge remains separating reliable philosophical interpretation from popular stereotypes and erroneous associations with 20th-century totalitarianisms. Polish academic tradition provides solid tools for this analysis, and growing youth interest in philosophy through digital platforms may lead to renewed interest in this classical work.

@@ -1,0 +1,15 @@
+media_info:
+  title: Zodiac Killer Ciphers - 1968-1974
+  author: Historical Documentation
+  year: 1968
+  genre: True Crime Mystery Documentary
+  description: A serial killer who claimed responsibility for 37 murders and sent
+    cryptographic letters to newspapers, never caught despite decades of investigation
+  target_audience: General public, students, true crime enthusiasts, cryptography fans
+  duration: ~3 minutes
+  objective: Examine the mysterious ciphers and letters that made Zodiac one of
+    America's most infamous unsolved serial killer cases
+  scene_count: 10
+  graphics_style: film-noir-1950s-melodrama
+  scene_generator: narrative
+  nb_audio_format: brief

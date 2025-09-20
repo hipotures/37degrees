@@ -1,194 +1,194 @@
-# Trylogia Kairska w Polskim Kontekście Kulturowym
+# The Cairo Trilogy in Polish Cultural Context
 
-## Wprowadzenie
-Trylogia Kairska Nadżiba Mahfuza, laureata Nagrody Nobla z 1988 roku, stanowi monumentalne dzieło literatury arabskiej, które znalazło swoje miejsce w polskim krajobrazie kulturowym. Niniejszy dokument analizuje lokalny kontekst recepcji, tłumaczeń i interpretacji tego arcydzieła w Polsce.
+## Introduction
+The Cairo Trilogy by Naguib Mahfouz, Nobel Prize winner in 1988, is a monumental work of Arabic literature that has found its place in the Polish cultural landscape. This document analyzes the local context of reception, translations, and interpretations of this masterpiece in Poland.
 
-## 1. Historia Publikacji w Polsce
+## 1. Publication History in Poland
 
-### 1.1 Pierwsze Wydania
-- **1989**: Pierwszy tom trylogii "Opowieści starego Kairu" (oryg. "Bayna al-Qasrayn") wydany przez PIW (Państwowy Instytut Wydawniczy)
-- **Tłumaczenie**: Jolanta Kozłowska - bezpośrednio z języka arabskiego
-- **Seria**: "80 Światów" - prestiżowa seria PIW prezentująca literaturę światową
-- **Objętość**: 504 strony, ISBN 83-06-02956-9
+### 1.1 First Editions
+- **1989**: First volume of the trilogy "Tales of Old Cairo" (orig. "Bayna al-Qasrayn") published by PIW (State Publishing Institute)
+- **Translation**: Jolanta Kozłowska - directly from Arabic
+- **Series**: "80 Worlds" - prestigious PIW series presenting world literature
+- **Volume**: 504 pages, ISBN 83-06-02956-9
 
-### 1.2 Stan Tłumaczeń
-- **Tom I**: "Opowieści starego Kairu" - dostępny w polskim tłumaczeniu
-- **Tom II**: "Kamal. Opowieści starego Kairu" - istnieją obawy co do jakości drugiego tomu
-- **Tom III**: "As-Sukkariyya" (Cukrowa uliczka) - **nie został przetłumaczony na język polski**
+### 1.2 Translation Status
+- **Volume I**: "Tales of Old Cairo" - available in Polish translation
+- **Volume II**: "Kamal. Tales of Old Cairo" - concerns about the quality of the second volume
+- **Volume III**: "As-Sukkariyya" (Sugar Street) - **never translated into Polish**
 
-### 1.3 Problemy Wydawnicze
-Pełna trylogia nigdy nie została wydana w Polsce w komplecie, co stanowi znaczącą lukę w polskim rynku wydawniczym literatury światowej.
+### 1.3 Publishing Problems
+The complete trilogy has never been published in Poland as a complete set, which represents a significant gap in the Polish publishing market for world literature.
 
-## 2. Polscy Tłumacze i Orientaliści
+## 2. Polish Translators and Orientalists
 
-### 2.1 Jolanta Kozłowska - Pierwsza Tłumaczka
-- **Profil**: Wykładowca akademicki, emerytowany pracownik Katedry Arabistyki i Islamistyki UW
-- **Doświadczenie kairskie**: Dwukrotnie przebywała w Kairze przez kilka miesięcy, dokładnie poznając starą dzielnicę będącą tłem powieści Mahfuza
-- **Pierwsza praca**: "Opowieści starego Kairu" były jednym z jej dwóch pierwszych tłumaczeń z arabskiego (obok "Hamidy z zaułka Midakk")
-- **Motywacja**: Uważała literaturę arabską za bardzo dobrą i potrzebującą popularyzacji w Polsce
+### 2.1 Jolanta Kozłowska - First Translator
+- **Profile**: Academic lecturer, retired employee of the Department of Arabic and Islamic Studies at University of Warsaw
+- **Cairo experience**: Stayed in Cairo twice for several months, thoroughly familiarizing herself with the old district that serves as the background for Mahfouz's novel
+- **First work**: "Tales of Old Cairo" was one of her first two translations from Arabic (alongside "Midaq Alley")
+- **Motivation**: Considered Arabic literature very good and needing popularization in Poland
 
-### 2.2 Wyzwania Tłumaczeniowe
-- **Język arabski jako "trudny orientalny"**: W latach 80. PRL tłumacze otrzymywali wyższą stawkę za tłumaczenia z arabskiego
-- **Specyfika religijna**: Literatura arabska pełna jest aluzji religijnych i tradycji islamskich
-- **Frazeologia**: Język przesycony zwrotami religijnymi używanymi w codziennym życiu
+### 2.2 Translation Challenges
+- **Arabic as "difficult oriental language"**: In the 1980s PRL, translators received higher rates for translations from Arabic
+- **Religious specificity**: Arabic literature is full of religious allusions and Islamic traditions
+- **Phraseology**: Language saturated with religious expressions used in daily life
 
-### 2.3 Tradycja Polskiej Arabistyki
-- **Józef Bielawski (1910-1997)**: "Najwybitniejszy polski znawca islamu i tłumacz arabski"
-  - Twórca pierwszych stacjonarnych studiów islamistycznych w Polsce
-  - Pierwszy tłumacz Koranu z oryginału arabskiego
-  - Budowniczy największego polskiego ośrodka arabistycznego na UW
-- **Dziedzictwo**: Kilkudziesięciu doktorów i kilkudziesięciu magistrów jako jego uczniowie
+### 2.3 Polish Arabist Tradition
+- **Józef Bielawski (1910-1997)**: "The most outstanding Polish expert on Islam and Arabic translator"
+  - Creator of the first stationary Islamic studies in Poland
+  - First translator of the Quran from the Arabic original
+  - Builder of the largest Polish Arabic studies center at University of Warsaw
+- **Legacy**: Several dozen doctors and several dozen masters as his students
 
-## 3. Kontekst Akademicki i Edukacyjny
+## 3. Academic and Educational Context
 
-### 3.1 Uniwersytet Warszawski
-- **Wydział Orientalistyczny**: Prawie 90 lat doświadczenia w nauczaniu kultur Orientu/Afryki
-- **Katedra Arabistyki**: Główny ośrodek badań nad literaturą arabską w Polsce
-- **Mahfouz w programie**: Opowiadania Mahfuza włączone do kursów języka arabskiego
+### 3.1 University of Warsaw
+- **Oriental Faculty**: Nearly 90 years of experience in teaching Oriental/African cultures
+- **Department of Arabic Studies**: Main center for Arabic literature research in Poland
+- **Mahfouz in curriculum**: Mahfouz's short stories included in Arabic language courses
 
-### 3.2 Uniwersytet Jagielloński (Kraków)
-- **Historia**: Nauczanie arabskiego od drugiej dekady XIX wieku
-- **Program**: Współczesny standardowy arabski i dialekty
-- **Specjalizacje**: Literatura klasyczna i współczesna krajów arabskich
-- **Kariera**: Absolwenci pracują jako tłumacze, redaktorzy, dziennikarze
+### 3.2 Jagiellonian University (Krakow)
+- **History**: Teaching Arabic since the second decade of the 19th century
+- **Program**: Modern Standard Arabic and dialects
+- **Specializations**: Classical and contemporary literature of Arab countries
+- **Career**: Graduates work as translators, editors, journalists
 
-### 3.3 Status w Szkolnictwie Podstawowym i Średnim
-- **Lektury szkolne**: Mahfouz **nie jest** uwzględniony w obowiązkowym kanonie lektur MEN
-- **Skupienie**: Polskie lektury koncentrują się na literaturze europejskiej i klasycznej
-- **Ograniczenia**: Brak szerszego dostępu młodzieży do literatury arabskiej
+### 3.3 Status in Primary and Secondary Education
+- **School reading lists**: Mahfouz is **not** included in the mandatory reading canon of the Ministry of Education
+- **Focus**: Polish reading lists concentrate on European and classical literature
+- **Limitations**: Lack of broader youth access to Arabic literature
 
-## 4. Recepcja i Interpretacje Kulturowe
+## 4. Cultural Reception and Interpretations
 
-### 4.1 Kontekst Historyczny PRL
-- **Lata 80.**: Okres wydania "Opowieści starego Kairu" zbiegał się z końcem PRL
-- **Socjalizm arabski**: Nasserowska rewolucja w Egipcie (1952-1970) była znana polskim czytelnikom
-- **Wspólny kontekst**: Przemiany społeczne i polityczne rezonowały z polskimi doświadczeniami
+### 4.1 PRL Historical Context
+- **1980s**: The period of "Tales of Old Cairo" publication coincided with the end of PRL
+- **Arab socialism**: Nasser's revolution in Egypt (1952-1970) was known to Polish readers
+- **Common context**: Social and political transformations resonated with Polish experiences
 
-### 4.2 Kulturowe Paralele
-- **Tradycja rodzinna**: Patriarchalne struktury rodzinne rozpoznawalne dla polskiego czytelnika
-- **Zmiany społeczne**: Modernizacja i konflikty międzypokoleniowe jako uniwersalny temat
-- **Tło religijne**: Podobieństwa między znaczeniem religii w kulturze polskiej i arabskiej
+### 4.2 Cultural Parallels
+- **Family tradition**: Patriarchal family structures recognizable to Polish readers
+- **Social changes**: Modernization and intergenerational conflicts as universal themes
+- **Religious background**: Similarities between the significance of religion in Polish and Arabic culture
 
-### 4.3 Recepcja Krytyczna
-- **Pozytywne oceny**: "Fantastycznie przedstawiony Kair i jego mieszkańcy z ich specyficzną mentalnością"
-- **Wartość poznawcza**: "Materiał o ogromnej wartości poznawczej" przekazujący nastrój Kairu
-- **Ograniczenia**: "Książka nie jest równa, są nudniejsze momenty"
+### 4.3 Critical Reception
+- **Positive reviews**: "Fantastically presented Cairo and its inhabitants with their specific mentality"
+- **Educational value**: "Material of enormous educational value" conveying the atmosphere of Cairo
+- **Limitations**: "The book is not even, there are more boring moments"
 
-## 5. Współczesny Kontekst Młodzieżowy
+## 5. Contemporary Youth Context
 
-### 5.1 Generacja Z w Polsce
-- **Profil**: Urodzeni po 1995 roku, "cyfrowi tubylcy 2.0"
-- **Media**: Kreatorzy treści internetowych, użytkownicy TikTok i Instagrama
-- **Zainteresowania**: Problemy klimatyczne, kryzys demokracji, kwestie genderowe i etniczne
+### 5.1 Generation Z in Poland
+- **Profile**: Born after 1995, "digital natives 2.0"
+- **Media**: Internet content creators, TikTok and Instagram users
+- **Interests**: Climate issues, democracy crisis, gender and ethnic questions
 
-### 5.2 BookTok i Literatura
-- **Trend**: "TikTokowa" odpowiedź na Instagram'owego bookstagrama
-- **Format**: Filmy o książkach zamiast zdjęć
-- **Wpływ**: Trendsetterzy w świecie literatury, promocja czytelnictwa wśród nastolatków
-- **Gatunki**: Szczególne zainteresowanie literaturą Young Adult
+### 5.2 BookTok and Literature
+- **Trend**: "TikTok" response to Instagram bookstagram
+- **Format**: Videos about books instead of photos
+- **Influence**: Trendsetters in the literature world, promoting reading among teenagers
+- **Genres**: Particular interest in Young Adult literature
 
-### 5.3 Potencjał dla Mahfuza
-- **Brak obecności**: Trylogia Kairska nieobecna w polskim BookToku
-- **Możliwości**: Tematyka rodziny, tradycji i modernizacji mogłaby trafić do młodych czytelników
-- **Wyzwania**: Brak pełnego tłumaczenia i ograniczona dostępność
+### 5.3 Potential for Mahfouz
+- **Lack of presence**: The Cairo Trilogy absent from Polish BookTok
+- **Possibilities**: Themes of family, tradition and modernization could appeal to young readers
+- **Challenges**: Lack of complete translation and limited availability
 
-## 6. Lokalne Nawiązania i Konteksty
+## 6. Local References and Contexts
 
-### 6.1 Kraków i Małopolska
-- **UJ**: Tradycyjna arabistyka krakowska od XIX wieku
-- **Maria Kowalska**: Profesor UJ (1919-2005), specjalistka od literatury arabskiej
-- **Lokalny potencjał**: Silny ośrodek akademicki w regionie użytkownika
+### 6.1 Krakow and Lesser Poland
+- **UJ**: Traditional Krakow Arabic studies since the 19th century
+- **Maria Kowalska**: UJ Professor (1919-2005), specialist in Arabic literature
+- **Local potential**: Strong academic center in the user's region
 
-### 6.2 Polskie Konteksty Interpretacyjne
-- **Galicja**: Doświadczenie wielokulturowości i wieloreligijności
-- **Okres zaborów**: Zrozumienie dla walk o niepodległość (rewolucja 1919 w Egipcie)
-- **Patriarchat**: Tradycyjne struktury rodzinne do lat 80. XX wieku
+### 6.2 Polish Interpretive Contexts
+- **Galicia**: Experience of multiculturalism and multi-religiosity
+- **Partition period**: Understanding of independence struggles (1919 revolution in Egypt)
+- **Patriarchy**: Traditional family structures until the 1980s
 
-### 6.3 Bariery Kulturowe
-- **Orientalizm**: Stereotypowe postrzeganie kultury arabskiej
-- **Brak kontekstu**: Ograniczona znajomość realiów Bliskiego Wschodu
-- **Język**: Trudności w przekładzie pojęć kulturowych i religijnych
+### 6.3 Cultural Barriers
+- **Orientalism**: Stereotypical perception of Arabic culture
+- **Lack of context**: Limited knowledge of Middle Eastern realities
+- **Language**: Difficulties in translating cultural and religious concepts
 
-## 7. Adaptacje i Inspiracje Kulturowe
+## 7. Cultural Adaptations and Inspirations
 
-### 7.1 Stan Polskich Adaptacji
-- **Teatr**: Brak znanych adaptacji teatralnych Trylogii Kairskiej w Polsce
-- **Film**: Brak polskich adaptacji filmowych
-- **TV**: Brak adaptacji telewizyjnych
+### 7.1 State of Polish Adaptations
+- **Theater**: No known theatrical adaptations of The Cairo Trilogy in Poland
+- **Film**: No Polish film adaptations
+- **TV**: No television adaptations
 
-### 7.2 Potencjał Adaptacyjny
-- **Uniwersalność**: Tematy rodzinne i międzypokoleniowe jako uniwersalne
-- **Kostiumowość**: Bogactwo realiów historycznych Kairu
-- **Dramat**: Silna struktura dramaturgiczna trylogii
+### 7.2 Adaptation Potential
+- **Universality**: Family and intergenerational themes as universal
+- **Period detail**: Richness of historical Cairo realities
+- **Drama**: Strong dramaturgical structure of the trilogy
 
-### 7.3 Konkurencja Kulturowa
-- **Literatura europejska**: Dominacja adaptacji literatury zachodniej
-- **Kanon**: Skupienie na polskiej klasyce literackiej
-- **Komercyjność**: Preferencja dla rozpoznawalnych tytułów
+### 7.3 Cultural Competition
+- **European literature**: Dominance of Western literature adaptations
+- **Canon**: Focus on Polish literary classics
+- **Commerciality**: Preference for recognizable titles
 
-## 8. Współczesne Możliwości Promocji
+## 8. Contemporary Promotion Opportunities
 
-### 8.1 Cyfrowe Platformy
-- **TikTok**: Krótkie filmy o "tajemniczym świecie Kairu"
-- **Instagram**: Wizualne przedstawienie scenerii i kostiumów
-- **YouTube**: Długie formy edukacyjne o kulturze arabskiej
+### 8.1 Digital Platforms
+- **TikTok**: Short videos about "the mysterious world of Cairo"
+- **Instagram**: Visual representation of scenery and costumes
+- **YouTube**: Long educational forms about Arabic culture
 
-### 8.2 Edukacja
-- **Studia arabskie**: Promocja w ramach kierunków orientalistycznych
-- **Szkoły średnie**: Jako literatura uzupełniająca w ramach WOS
-- **Biblioteki**: Programy edukacyjne o literaturze światowej
+### 8.2 Education
+- **Arabic studies**: Promotion within orientalist fields
+- **High schools**: As supplementary literature in Social Studies
+- **Libraries**: Educational programs about world literature
 
-### 8.3 Partnerstwa Kulturowe
-- **Instytut Kultury Arabskiej**: Współpraca przy promocji
-- **Ambasada Egiptu**: Events kulturalne
-- **Festiwale**: Uczestnictwo w festiwalach literatury światowej
+### 8.3 Cultural Partnerships
+- **Institute of Arabic Culture**: Cooperation in promotion
+- **Egyptian Embassy**: Cultural events
+- **Festivals**: Participation in world literature festivals
 
-## 9. Szczegółowe Fakty dla Polskich Słuchaczy
+## 9. Detailed Facts for Polish Listeners
 
-### 9.1 Daty i Liczby
-1. **1989** - pierwszy tom w Polsce, 35 lat po arabskim oryginale
-2. **504 strony** - objętość polskiego wydania PIW
-3. **2 z 3 tomów** - niepełny stan polskich tłumaczeń
-4. **1988** - rok przyznania Nagrody Nobla Mahfuzowi
-5. **1919-2019** - 100 lat arabistyki krakowskiej (UJ)
+### 9.1 Dates and Numbers
+1. **1989** - first volume in Poland, 35 years after the Arabic original
+2. **504 pages** - volume of the Polish PIW edition
+3. **2 out of 3 volumes** - incomplete state of Polish translations
+4. **1988** - year Mahfouz was awarded the Nobel Prize
+5. **1919-2019** - 100 years of Krakow Arabic studies (UJ)
 
-### 9.2 Osoby do Zapamiętania
-6. **Jolanta Kozłowska** - pierwsza polska tłumaczka Mahfuza
-7. **Józef Bielawski** - "Balzac arabistyki polskiej"
-8. **Maria Kowalska** - krakowska arabistka (UJ)
-9. **PIW** - pierwsze polskie wydawnictwo Mahfuza
-10. **Seria "80 Światów"** - prestiżowy kontekst wydawniczy
+### 9.2 People to Remember
+6. **Jolanta Kozłowska** - first Polish translator of Mahfouz
+7. **Józef Bielawski** - "Balzac of Polish Arabic studies"
+8. **Maria Kowalska** - Krakow Arabist (UJ)
+9. **PIW** - first Polish publisher of Mahfouz
+10. **"80 Worlds" Series** - prestigious publishing context
 
-### 9.3 Miejsca i Instytucje
-11. **Wydział Orientalistyczny UW** - główny ośrodek arabistyki
-12. **Instytut Orientalistyki UJ** - krakowski ośrodek (od XIX wieku)
-13. **Katedra Arabistyki UW** - gdzie pracowała Kozłowska
-14. **PIW** - Państwowy Instytut Wydawniczy (wydawca)
-15. **Seria "80 Światów"** - kontekst edytorski
+### 9.3 Places and Institutions
+11. **Oriental Faculty UW** - main center of Arabic studies
+12. **Institute of Oriental Studies UJ** - Krakow center (since 19th century)
+13. **Department of Arabic Studies UW** - where Kozłowska worked
+14. **PIW** - State Publishing Institute (publisher)
+15. **"80 Worlds" Series** - editorial context
 
-### 9.4 Wyzwania i Ograniczenia
-16. **Brak tomu III** - "As-Sukkariyya" nigdy nie przetłumaczono
-17. **Trudności językowe** - arabski jako "trudny orientalny"
-18. **Kontekst religijny** - problemy z aluzjami islamskimi
-19. **Brak w lekturach** - nieobecność w kanonie szkolnym
-20. **Ograniczona dostępność** - trudno dostępne wydania
+### 9.4 Challenges and Limitations
+16. **Missing Volume III** - "As-Sukkariyya" never translated
+17. **Language difficulties** - Arabic as "difficult oriental"
+18. **Religious context** - problems with Islamic allusions
+19. **Absent from reading lists** - not in school canon
+20. **Limited availability** - hard-to-find editions
 
-### 9.5 Możliwości i Potencjał
-21. **BookTok** - niewykorzystany potencjał promocji dla Gen Z
-22. **Uniwersalność tematów** - rodzina, tradycja, modernizacja
-23. **Paralele historyczne** - zmiany społeczne jak w Polsce
-24. **Krakowski ośrodek** - silna tradycja akademicka w regionie
-25. **Kompletne wydanie** - potrzeba nowego pełnego tłumaczenia
+### 9.5 Opportunities and Potential
+21. **BookTok** - untapped promotion potential for Gen Z
+22. **Universal themes** - family, tradition, modernization
+23. **Historical parallels** - social changes like in Poland
+24. **Krakow center** - strong academic tradition in the region
+25. **Complete edition** - need for new complete translation
 
-## 10. Wnioski
+## 10. Conclusions
 
-Trylogia Kairska Nadżiba Mahfuza zajmuje w polskim kontekście kulturowym pozycję dzieła znaczącego, ale niekompletnie dostępnego. Pierwszoplanową rolę w jej recepcji odegrała tłumaczka Jolanta Kozłowska oraz tradycja polskiej arabistyki zapoczątkowana przez Józefa Bielawskiego. 
+The Cairo Trilogy by Naguib Mahfouz occupies a position in Polish cultural context as a significant but incompletely accessible work. A primary role in its reception was played by translator Jolanta Kozłowska and the tradition of Polish Arabic studies initiated by Józef Bielawski.
 
-Główne problemy to niekompletność tłumaczenia (brak III tomu), ograniczona dostępność oraz nieobecność w głównych nurtach edukacji kulturalnej. Jednocześnie istnieje znaczący potencjał dla nowego odkrycia tego dzieła przez współczesne pokolenie Polaków, szczególnie poprzez platformy cyfrowe i w kontekście rosnącego zainteresowania różnorodnością kulturową.
+Main problems include incomplete translation (missing Volume III), limited availability, and absence from mainstream cultural education. At the same time, there is significant potential for rediscovery of this work by contemporary generations of Poles, particularly through digital platforms and in the context of growing interest in cultural diversity.
 
-Dla polskich słuchaczy z regionu Krakowa szczególnie interesujące jest dziedzictwo krakowskiej arabistyki (UJ) oraz lokalne tradycje studiów orientalistycznych, które mogą stanowić punkt odniesienia dla głębszego zrozumienia znaczenia Trylogii Kairskiej w światowym kontekście literackim.
+For Polish listeners from the Krakow region, particularly interesting is the heritage of Krakow Arabic studies (UJ) and local traditions of Oriental studies, which can serve as a reference point for deeper understanding of the significance of The Cairo Trilogy in the global literary context.
 
 ---
-*Opracowanie: Badanie lokalnego kontekstu kulturowego Trylogii Kairskiej dla polskich odbiorców*
-*Data: 2024-09-04*
-*Źródła: Analiza internetowa, źródła akademickie, wydawnictwa polskie*
+*Study: Research on local cultural context of The Cairo Trilogy for Polish audiences*
+*Date: 2024-09-04*
+*Sources: Internet analysis, academic sources, Polish publishers*

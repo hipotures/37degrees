@@ -1,244 +1,244 @@
-# Ocena treści i ostrzeżenia: "Wyklęty lud ziemi" Frantza Fanona
+# Content Warnings Assessment: "The Wretched of the Earth" by Frantz Fanon
 
-## Informacje podstawowe
-- **Tytuł**: "The Wretched of the Earth" / "Wyklęty lud ziemi" 
-- **Autor**: Frantz Fanon
-- **Rok**: 1961
-- **Gatunek**: Filozofia postkolonialna, teoria polityczna, psychiatria społeczna
-- **Data oceny**: 2025-09-03
+## Basic Information
+- **Title**: "The Wretched of the Earth" / "Wyklęty lud ziemi"
+- **Author**: Frantz Fanon
+- **Year**: 1961
+- **Genre**: Postcolonial philosophy, political theory, social psychiatry
+- **Assessment Date**: 2025-09-19
 
 ## Executive Summary
 
-"Wyklęty lud ziemi" to jedno z najważniejszych i najkontrowersyjnych dzieł teorii postkolonialnej XX wieku. Książka zawiera treści wysokiego ryzyka dla większości platform społecznościowych ze względu na szczegółowe omówienie przemocy rewolucyjnej, teorii dekolonizacji i krytykę systemów kolonialnych. Wymaga ostrzeżeń dotyczących treści oraz strategi dostosowanych do poszczególnych platform.
+"The Wretched of the Earth" is one of the most important and controversial works of 20th century postcolonial theory. The book contains high-risk content for most social media platforms due to detailed discussions of revolutionary violence, decolonization theory, and critique of colonial systems. It requires content warnings and platform-specific adaptation strategies.
 
-## MATRIX ZGODNOŚCI PLATFORM
+## PLATFORM COMPLIANCE MATRIX
 
-### 🔴 FACEBOOK/META/INSTAGRAM - WYSOKIE RYZYKO
-**Problematyczne tematy:**
-- Szczegółowe opisy przemocy kolonialnej i rewolucyjnej
-- Teorie o "konieczności przemocy" w procesach wyzwolenia
-- Krytyka zachodnich struktur władzy
-- Dyskusje o traumie psychologicznej i psychiatrii kolonialnej
+### 🔴 FACEBOOK/META/INSTAGRAM - HIGH RISK
+**Problematic Topics:**
+- Detailed descriptions of colonial and revolutionary violence
+- Theories about "necessity of violence" in liberation processes
+- Critique of Western power structures
+- Discussions of psychological trauma and colonial psychiatry
 
-**Rekomendacja**: AGE-RESTRICT 18+ lub EDIT/OMIT
-- Nowe zasady Meta (2025) zwiększają tolerancję kontrowersji, ale przemoc pozostaje problemem
-- Community Notes system może być nieprzewidywalny
-- Wysokie ryzyko demonetyzacji i ograniczeń reach
+**Recommendation**: AGE-RESTRICT 18+ or EDIT/OMIT
+- New Meta rules (2025) increase tolerance for controversy, but violence remains problematic
+- Community Notes system can be unpredictable
+- High risk of demonetization and reach limitations
 
-### 🟡 YOUTUBE - ŚREDNIE RYZYKO  
-**Problematyczne tematy:**
-- Przemoc w kontekście historycznym może być dopuszczona z educational framing
-- Antykolonialne teorie mogą być interpretowane jako political content
-- Studia przypadków psychiatrycznych z traumy kolonialnej
+### 🟡 YOUTUBE - MEDIUM RISK
+**Problematic Topics:**
+- Violence in historical context may be permitted with educational framing
+- Anti-colonial theories may be interpreted as political content
+- Psychiatric case studies of colonial trauma
 
-**Rekomendacja**: OK z modyfikacjami
-- Wymagana LUDZKA NARRACJA (nie text-to-speech)
-- Educational context obowiązkowy
-- Unikanie graficznych opisów przemocy
-- Focus na historical analysis, nie contemporary applications
+**Recommendation**: OK with modifications
+- Human narration required (not text-to-speech)
+- Educational context mandatory
+- Avoid graphic descriptions of violence
+- Focus on historical analysis, not contemporary applications
 
-### 🟡 TIKTOK - ŚREDNIE RYZYKO
-**Problematyczne tematy:**  
-- Przemoc rewolucyjna może być flagowana jako hate speech
-- Teorie dekolonizacyjne mogą być interpretowane jako political extremism
-- Content o traumie kolonialnej wymaga content warnings
+### 🟡 TIKTOK - MEDIUM RISK
+**Problematic Topics:**
+- Revolutionary violence may be flagged as hate speech
+- Decolonization theories may be interpreted as political extremism
+- Content about colonial trauma requires content warnings
 
-**Rekomendacja**: OK z educational framing
-- Minimum 1+ minuta dla monetyzacji
-- Wymagane content warnings dla trauma content
-- Educational context obowiązkowy
-- Unikanie militant rhetoric
+**Recommendation**: OK with educational framing
+- Minimum 1+ minute for monetization
+- Content warnings required for trauma content
+- Educational context mandatory
+- Avoid militant rhetoric
 
-### 🟢 SPOTIFY - NISKIE RYZYKO
-**Bezproblemowe tematy:**
-- Academic discussion o kolonializmie
-- Historical analysis procesów dekolonizacyjnych  
-- Educational content o teorii postkolonialnej
+### 🟢 SPOTIFY - LOW RISK
+**Safe Topics:**
+- Academic discussion of colonialism
+- Historical analysis of decolonization processes
+- Educational content on postcolonial theory
 
-**Rekomendacja**: OK z podstawowymi ostrzeżeniami
-- Video format preferowany dla lepszej monetyzacji
-- Content warnings dla sensitive topics
-- Educational framing zachowany
+**Recommendation**: OK with basic warnings
+- Video format preferred for better monetization
+- Content warnings for sensitive topics
+- Educational framing maintained
 
-### 🟢 KICK - NAJNIŻSZE RYZYKO
-**Platformie przyjazne tematy:**
-- Większość treści dopuszczalna w educational context
-- Creator-friendly policies wspierają controversial discussions
-- Możliwość głębszej analizy tematów
+### 🟢 KICK - LOWEST RISK
+**Platform-Friendly Topics:**
+- Most content acceptable in educational context
+- Creator-friendly policies support controversial discussions
+- Opportunity for deeper topic analysis
 
-**Rekomendacja**: OK z minimal restrictions
-- Interactive discussion format idealny
-- Możliwość live Q&A sessions  
+**Recommendation**: OK with minimal restrictions
+- Interactive discussion format ideal
+- Opportunity for live Q&A sessions
 - Community building around academic topics
 
-## SZCZEGÓŁOWA ANALIZA WRAŻLIWYCH TREŚCI
+## DETAILED ANALYSIS OF SENSITIVE CONTENT
 
-### 1. PRZEMOC I TEORIA REWOLUCYJNA
-**Najbardziej problematyczny element książki**
+### 1. VIOLENCE AND REVOLUTIONARY THEORY
+**Most problematic element of the book**
 
-**Cytaty wymagające ostrożności:**
+**Quotes requiring caution:**
 > "Colonialism is violence in its natural state, and it will only yield when confronted with greater violence"
 
-> "Violence is a cleansing force" (błędne tłumaczenie - faktycznie "dis-intoxicates")
+> "Violence is a cleansing force" (mistranslation - actually "dis-intoxicates")
 
 **Platform-specific approach:**
-- **Facebook/Instagram**: UNIKAĆ bezpośrednich cytatów o przemocy
-- **YouTube**: Kontekstualizować historycznie, unikać contemporary parallels  
-- **TikTok**: Content warning obowiązkowy
-- **Spotify**: Academic analysis dopuszczalny
-- **Kick**: Full discussion możliwy z educational framing
+- **Facebook/Instagram**: AVOID direct quotes about violence
+- **YouTube**: Contextualize historically, avoid contemporary parallels
+- **TikTok**: Content warning mandatory
+- **Spotify**: Academic analysis acceptable
+- **Kick**: Full discussion possible with educational framing
 
-### 2. PSYCHIATRIA KOLONIALNA I TRAUMA
-**Średnie ryzyko - wymaga content warnings**
+### 2. COLONIAL PSYCHIATRY AND TRAUMA
+**Medium risk - requires content warnings**
 
-**Problematyczne obszary:**
-- Opisy PTSD u ofiar kolonializmu
-- Studia przypadków francuskiej przemocy w Algierii
-- Internalizacja opresji i kompleks niższości
-- "Zaburzenia reaktywne" u kolonizowanych ludów
+**Problematic Areas:**
+- Descriptions of PTSD in victims of colonialism
+- Case studies of French violence in Algeria
+- Internalization of oppression and inferiority complex
+- "Reactive disorders" in colonized peoples
 
-**Zalecane ostrzeżenia:**
-- "Treści dotyczące traumy historycznej"
-- "Omówienie przemocy kolonialnej" 
-- "Analiza zdrowia psychicznego w kontekście politycznym"
+**Recommended Warnings:**
+- "Content dealing with historical trauma"
+- "Discussion of colonial violence"
+- "Analysis of mental health in political context"
 
-### 3. KRYTYKA ZACHODNICH SYSTEMÓW
-**Niskie-średnie ryzyko zależnie od platformy**
+### 3. CRITIQUE OF WESTERN SYSTEMS
+**Low-medium risk depending on platform**
 
-**Potencjalnie problematyczne:**
-- Krytyka francuskiego kolonializmu
-- Analiza neokolonializmu gospodarczego
-- Koncepcje "burżuazji kompradorkiej"
+**Potentially Problematic:**
+- Critique of French colonialism
+- Analysis of economic neocolonialism
+- Concepts of "comprador bourgeoisie"
 
-**Platform considerations:**
-- Meta platforms: Ostrożność z political content
-- YouTube: Educational framing chroni
-- TikTok: Unikać contemporary political parallels
+**Platform Considerations:**
+- Meta platforms: Caution with political content
+- YouTube: Educational framing provides protection
+- TikTok: Avoid contemporary political parallels
 - Spotify/Kick: Minimal restrictions
 
-### 4. TEORIA DEKOLONIZACJI KULTUROWEJ  
-**Niskie ryzyko - głównie academic content**
+### 4. CULTURAL DECOLONIZATION THEORY
+**Low risk - mainly academic content**
 
-**Bezproblemowe tematy:**
-- Analiza tożsamości kulturowej
-- Krytyka asymilacji kolonialnej
-- Koncepcja "nowego człowieka" po dekolonizacji
+**Safe Topics:**
+- Analysis of cultural identity
+- Critique of colonial assimilation
+- Concept of "new man" after decolonization
 
-## KLASYFIKACJA WIEKOWA
+## AGE CLASSIFICATION
 
-### 13+ Content (Safe dla wszystkich platform):
-- Biografia autora i kontekst historyczny
-- Podstawowe koncepcje dekolonizacji kulturowej  
-- Wpływ na późniejsze ruchy społeczne
-- Analiza literacka i znaczenie historyczne
+### 13+ Content (Safe for all platforms):
+- Author biography and historical context
+- Basic concepts of cultural decolonization
+- Impact on later social movements
+- Literary analysis and historical significance
 
 ### 16+ Content (Age-restrict recommended):
-- Szczegóły wojny algierskiej i przemocy kolonialnej
-- Studia przypadków psychiatrycznych z traumy
-- Teoretyczne omówienie przemocy rewolucyjnej
-- Krytyka systemów politycznych i gospodarczych
+- Details of Algerian War and colonial violence
+- Psychiatric case studies of trauma
+- Theoretical discussion of revolutionary violence
+- Critique of political and economic systems
 
 ### 18+ Content (Adult audience only):
-- Graficzne opisy przemocy kolonialnej
-- Bezpośrednie cytaty o "konieczności przemocy"
-- Szczegółowe studia przypadków tortur  
-- Radykalne teorie polityczne bez kontekstu akademickiego
+- Graphic descriptions of colonial violence
+- Direct quotes about "necessity of violence"
+- Detailed case studies of torture
+- Radical political theories without academic context
 
-### Platform Risk (Wysoce ryzykowne):
-- Contemporary applications teorii przemocy
-- Direct calls to action inspirowane książką
+### Platform Risk (Highly risky):
+- Contemporary applications of violence theory
+- Direct calls to action inspired by the book
 - Uncritical glorification of revolutionary violence
 - Political extremism masked as book analysis
 
-## CONTENT WARNINGS DLA SŁUCHACZY
+## CONTENT WARNINGS FOR LISTENERS
 
-### Obowiązkowe ostrzeżenia:
-- **Przemoc historyczna**: Szczegółowe omówienie przemocy kolonialnej w Algierii
-- **Trauma i PTSD**: Analizy skutków psychologicznych kolonializmu
-- **Political content**: Radykalne teorie dekolonizacyjne i rewolucyjne
-- **Historical atrocities**: Opisy tortur i represji francuskiego kolonializmu
-- **Mature themes**: Złożone kwestie rasy, tożsamości i opresji systemowej
+### Mandatory Warnings:
+- **Historical Violence**: Detailed discussion of colonial violence in Algeria
+- **Trauma and PTSD**: Analysis of psychological effects of colonialism
+- **Political Content**: Radical decolonization and revolutionary theories
+- **Historical Atrocities**: Descriptions of torture and repression by French colonialism
+- **Mature Themes**: Complex issues of race, identity, and systemic oppression
 
-### Zalecane prefiksy:
-"Ten odcinek zawiera omówienie przemocy historycznej, traumy kolonialnej oraz radykalnych teorii politycznych. Materiał ma charakter akademicki i edukacyjny. Zalecamy dyskusję w kontekście historycznym."
+### Recommended Prefixes:
+"This episode contains discussion of historical violence, colonial trauma, and radical political theories. The material is academic and educational in nature. We recommend discussion within historical context."
 
 ## EDUCATION-FRIENDLY APPROACHES
 
-### Dla młodszej widowni (13-16):
-- **Focus na kontekst historyczny** wojny algierskiej
-- **Biografia Fanona** jako psychiatra i myśliciel
-- **Wpływ na kulturę** i późniejsze ruchy społeczne
-- **Literackie znaczenie** jako przełomowe dzieło teorii postkolonialnej
+### For Younger Audiences (13-16):
+- **Focus on historical context** of Algerian War
+- **Fanon's biography** as psychiatrist and thinker
+- **Cultural impact** and influence on later social movements
+- **Literary significance** as groundbreaking work of postcolonial theory
 
-### Dla starszej widowni (16+):
-- **Analiza teoretyczna** koncepcji dekolonizacji
-- **Kontekstualizacja historyczna** przemocy kolonialnej  
-- **Krytyczne omówienie** kontrowersyjnych aspektów
-- **Connections** z współczesnymi ruchami społecznymi
+### For Older Audiences (16+):
+- **Theoretical analysis** of decolonization concepts
+- **Historical contextualization** of colonial violence
+- **Critical discussion** of controversial aspects
+- **Connections** with contemporary social movements
 
-### Academic approach (18+):
-- **Pełna analiza** wszystkich aspektów dzieła
-- **Krytyczna dyskusja** o przemocy rewolucyjnej
-- **Scholarly context** w ramach studiów postkolonialnych
-- **Contemporary relevance** dla współczesnej teorii krytycznej
+### Academic Approach (18+):
+- **Full analysis** of all aspects of the work
+- **Critical discussion** of revolutionary violence
+- **Scholarly context** within postcolonial studies
+- **Contemporary relevance** for modern critical theory
 
-## STRATEGIA OMÓWIENIA TRUDNYCH TEMATÓW
+## STRATEGY FOR DISCUSSING DIFFICULT TOPICS
 
-### 1. Przemoc rewolucyjna
-**Approach**: Historical contextualisation
-- "Fanon pisał w kontekście brutalnej wojny kolonialnej"
-- "Jego teorie należy rozumieć jako odpowiedź na systemową przemoc"
-- "Współczesne ruchy pokojowe oferują alternatywne drogi"
+### 1. Revolutionary Violence
+**Approach**: Historical contextualization
+- "Fanon wrote in the context of brutal colonial war"
+- "His theories must be understood as response to systemic violence"
+- "Contemporary peace movements offer alternative paths"
 
-### 2. Traumatyczne treści
+### 2. Traumatic Content
 **Approach**: Educational discussion with warnings
-- Preface episodes z content warnings
-- Focus na healing i recovery, nie tylko traumę
-- Connect z contemporary mental health awareness
+- Preface episodes with content warnings
+- Focus on healing and recovery, not just trauma
+- Connect with contemporary mental health awareness
 
-### 3. Radykalne teorie polityczne  
+### 3. Radical Political Theories
 **Approach**: Academic analysis
-- "Historyczne znaczenie w rozwoju teorii postkolonialnej"
-- "Wpływ na myśl społeczną XX wieku"
-- "Ewolucja tych idei w współczesnym dyskursie"
+- "Historical significance in development of postcolonial theory"
+- "Impact on 20th century social thought"
+- "Evolution of these ideas in contemporary discourse"
 
-### 4. Kolonializm i rasizm
-**Approach**: Educational z historical context
-- Clear historical timeline i context
-- Focus na systemic issues, nie individual blame
-- Connections z contemporary social justice movements
+### 4. Colonialism and Racism
+**Approach**: Educational with historical context
+- Clear historical timeline and context
+- Focus on systemic issues, not individual blame
+- Connections with contemporary social justice movements
 
 ## COMPLIANCE CHECKLIST
 
 ### Universal Requirements:
-- [ ] **Original commentary** dominuje nad cytowanym materiałem
-- [ ] **Educational framing** dla wszystkich sensitive topics
-- [ ] **Age-appropriate** content labeling i warnings
-- [ ] **Fact-checking** kontrowersyjnych twierdzeń
-- [ ] **Historical context** dla wszystkich dyskusji o przemocy
+- [ ] **Original commentary** dominates over quoted material
+- [ ] **Educational framing** for all sensitive topics
+- [ ] **Age-appropriate** content labeling and warnings
+- [ ] **Fact-checking** of controversial claims
+- [ ] **Historical context** for all discussions of violence
 
 ### Platform-Specific Compliance:
 
 #### Facebook/Meta:
-- [ ] **Extreme caution** z content o przemocy
-- [ ] **No direct quotes** o "konieczności przemocy"  
-- [ ] **Historical context** obowiązkowy
-- [ ] **Educational disclaimer** w każdym poście
+- [ ] **Extreme caution** with violence content
+- [ ] **No direct quotes** about "necessity of violence"
+- [ ] **Historical context** mandatory
+- [ ] **Educational disclaimer** in every post
 
 #### YouTube:
-- [ ] **Human narration** (nie text-to-speech)
-- [ ] **Original analysis** z academic sources
-- [ ] **No graphic descriptions** przemocy
-- [ ] **Educational context** zachowany przez całość
+- [ ] **Human narration** (not text-to-speech)
+- [ ] **Original analysis** with academic sources
+- [ ] **No graphic descriptions** of violence
+- [ ] **Educational context** maintained throughout
 
-#### TikTok:  
-- [ ] **Minimum 1+ minute** dla monetyzacji
-- [ ] **Content warnings** dla sensitive topics
+#### TikTok:
+- [ ] **Minimum 1+ minute** for monetization
+- [ ] **Content warnings** for sensitive topics
 - [ ] **No contemporary political applications**
 - [ ] **Educational focus** maintained
 
 #### Spotify:
-- [ ] **Content warnings** na początku episodes
+- [ ] **Content warnings** at beginning of episodes
 - [ ] **Academic discussion** format
 - [ ] **No promotional** violent content
 - [ ] **Educational value** clearly established
@@ -247,37 +247,37 @@
 - [ ] **Community guidelines** respected
 - [ ] **Educational context** maintained
 - [ ] **Interactive discussion** encouraged
-- [ ] **Balanced presentation** różnych perspektyw
+- [ ] **Balanced presentation** of different perspectives
 
-## OPPORTUNITIES I ZALECENIA
+## OPPORTUNITIES AND RECOMMENDATIONS
 
-### Najlepsze podejścia dla książki:
-1. **Academic lecture series** - szczegółowa analiza w educational context
-2. **Historical documentary** approach - focus na kontekst wojny algierskiej  
-3. **Book club discussion** - interactive analysis z multiple perspectives
-4. **Biographical focus** - życie Fanona jako psychiatra i myśliciel
-5. **Cultural impact** series - wpływ na późniejsze ruchy społeczne
+### Best Approaches for This Book:
+1. **Academic lecture series** - detailed analysis in educational context
+2. **Historical documentary** approach - focus on Algerian War context
+3. **Book club discussion** - interactive analysis with multiple perspectives
+4. **Biographical focus** - Fanon's life as psychiatrist and thinker
+5. **Cultural impact** series - influence on later social movements
 
-### Cross-platform strategy:
-- **Spotify/Kick**: Pełna academic discussion  
+### Cross-Platform Strategy:
+- **Spotify/Kick**: Full academic discussion
 - **YouTube**: Educational documentary approach
-- **TikTok**: Short educational snippets z warnings
+- **TikTok**: Short educational snippets with warnings
 - **Meta platforms**: Historical biography focus
 
-### Revenue optimization:
-- **Spotify**: Video podcast format dla maximum earnings
+### Revenue Optimization:
+- **Spotify**: Video podcast format for maximum earnings
 - **YouTube**: Long-form educational content
 - **Kick**: Interactive community building
 - **TikTok**: 1+ minute educational series
 
-## KOŃCOWA REKOMENDACJA
+## FINAL RECOMMENDATION
 
-"Wyklęty lud ziemi" to fascynujące ale wysoce problematyczne dzieło dla platform społecznościowych. **Zalecamy educational approach** z mocnymi content warnings i historical contextualization. 
+"The Wretched of the Earth" is a fascinating but highly problematic work for social media platforms. **We recommend an educational approach** with strong content warnings and historical contextualization.
 
-**Best platforms**: Spotify i Kick dla pełnej dyskusji
-**Moderate platforms**: YouTube z careful educational framing  
-**High-risk platforms**: Facebook/Instagram wymagają extensive editing
+**Best platforms**: Spotify and Kick for full discussion
+**Moderate platforms**: YouTube with careful educational framing
+**High-risk platforms**: Facebook/Instagram require extensive editing
 
-Książka oferuje bogaty materiał dla thoughtful academic discussion, ale wymaga experckiego podejścia do navigation platform policies i audience sensitivity.
+The book offers rich material for thoughtful academic discussion, but requires expert approach to navigate platform policies and audience sensitivity.
 
-**Bottom Line**: Możliwe do adaptation ze appropriate warnings i educational context, ale wymaga careful strategy dla każdej platformy.
+**Bottom Line**: Possible to adapt with appropriate warnings and educational context, but requires careful strategy for each platform.

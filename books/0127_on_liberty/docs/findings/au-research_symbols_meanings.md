@@ -1,164 +1,164 @@
-# Symbolika i ukryte znaczenia w "O wolności" Johna Stuarta Milla
+# Symbolism and Hidden Meanings in John Stuart Mill's "On Liberty"
 
-## 1. Podstawowe symbole i metafory
+## 1. Basic Symbols and Metaphors
 
-### Tyrania większości jako centralny symbol społeczny
-Mill stworzył jeden z najpotężniejszych symboli w filozofii politycznej - "tyranię większości". To pojęcie, zapożyczone od Tocqueville'a, reprezentuje sposób, w jaki demokratyczne społeczeństwa mogą stać się opresyjne poprzez społeczną konformizm, a nie siłę polityczną. Mill opisuje tę społeczną tyranię jako "bardziej groźną niż wiele rodzajów politycznego ucisku", ponieważ "penetruje znacznie głębiej szczegóły życia i zniewala samą duszę".
+### Tyranny of the Majority as Central Social Symbol
+Mill created one of the most powerful symbols in political philosophy - the "tyranny of the majority." This concept, borrowed from Tocqueville, represents the way democratic societies can become oppressive through social conformism rather than political force. Mill describes this social tyranny as "more formidable than many kinds of political oppression" because it "penetrates much more deeply into the details of life and enslaves the soul itself."
 
-### Metafora głębokiego snu intelektualnego
-Mill używa metafory snu do opisania intelektualnej samozadowolenia: "Zarówno nauczyciele, jak i uczniowie zasypiają na swoich posterunkach, gdy tylko nie ma wroga w polu", nazywając to "głębokim snem zdecydowanej opinii". Symbol ten reprezentuje sposób, w jaki nieskonfrontowane przekonania tracą swoją żywotność i znaczenie.
+### Metaphor of Deep Intellectual Sleep
+Mill uses the metaphor of sleep to describe intellectual complacency: "Both teachers and learners go to sleep at their post as soon as there is no enemy in the field," calling this the "deep slumber of a decided opinion." This symbol represents how unchallenged beliefs lose their vitality and meaning.
 
-### Pole bitwy idei jako metafora intelektualnego dyskursu
-Mill wykorzystuje metafory militarne, opisując dyskurs intelektualny jako "szorstki proces walki między bojownikami walczącymi pod wrogimi sztandarami". Symbolizuje to niezbędny konflikt między przeciwnymi poglądami, który utrzymuje prawdę żywą i znaczącą.
+### Battlefield of Ideas as Metaphor for Intellectual Discourse
+Mill employs military metaphors, describing intellectual discourse as the "rough process of struggle between combatants fighting under hostile banners." This symbolizes the necessary conflict between opposing views that keeps truth alive and meaningful.
 
-### Maszyna społeczna jako symbol autorytarnego państwa
-Mill używa metaforycznego języka społeczeństwa jako "dobrze naoliwionej maszyny", opisując sposób, w jaki autorytarne państwo może działać bardziej płynnie, jeśli pozbawi obywateli naturalnych wolności, choć nie osiągnie niczego wielkiego w tym procesie.
+### Social Machine as Symbol of Authoritarian State
+Mill uses metaphorical language of society as a "well-oiled machine," describing how an authoritarian state might operate more smoothly if it deprives citizens of natural freedoms, though it would achieve nothing great in the process.
 
-## 2. Ukryte filozoficzne znaczenia
+## 2. Hidden Philosophical Meanings
 
-### Zasada szkody jako granica moralna
-Słynna zasada Milla, że "jedynym celem, dla którego ludzkość ma prawo, indywidualnie lub zbiorowo, ingerować w wolność działania któregokolwiek ze swoich członków, jest samoobrona" i że władza może być sprawowana tylko w celu "zapobiegania szkodzie innym", funkcjonuje symbolicznie jako moralna granica między indywidualną suwerennością a zbiorowym autorytetem.
+### Harm Principle as Moral Boundary
+Mill's famous principle that "the only purpose for which mankind are warranted, individually or collectively, in interfering with the liberty of action of any of their number, is self-protection" and that power can only be exercised to "prevent harm to others" functions symbolically as a moral boundary between individual sovereignty and collective authority.
 
-### Suwerenność jednostki nad sobą jako fundament godności ludzkiej
-Koncepcja, że "nad sobą samym, nad swoim ciałem i umysłem, jednostka jest suwerenna", reprezentuje głębsze filozoficzne zobowiązanie Milla wobec świętości autonomii indywidualnej jako fundamentu ludzkiej godności.
+### Individual Sovereignty Over Self as Foundation of Human Dignity
+The concept that "over himself, over his own body and mind, the individual is sovereign" represents Mill's deeper philosophical commitment to the sanctity of individual autonomy as the foundation of human dignity.
 
-### Fallibilizm i ludzka niedoskonałość
-Sceptyczne podejście Milla - "Nigdy nie możemy być pewni, że opinia, którą staramy się zdusić, jest fałszywą opinią" - symbolizuje fundamentalną pokorn epistemologiczną wymaganą dla wolnego społeczeństwa. Używa historycznych przykładów prześladowań, aby pokazać, jak "każda epoka wyznawała wiele opinii, które następne epoki uznały nie tylko za fałszywe, ale za absurdalne".
+### Fallibilism and Human Imperfection
+Mill's skeptical approach - "We can never be sure that the opinion we are endeavoring to stifle is a false opinion" - symbolizes the fundamental epistemological humility required for a free society. He uses historical examples of persecution to show how "every age has held many opinions which subsequent ages have deemed not only false but absurd."
 
-### Zwyczaj jako fałszywa natura
-Mill opisuje zwyczaj jako "drugą naturę, ale jest ciągle mylony z pierwszą", symbolizując sposób, w jaki społeczne uwarunkowania maskują się jako prawo naturalne, zapobiegając krytycznemu badaniu społecznych zasad.
+### Custom as False Nature
+Mill describes custom as "second nature, but continually mistaken for the first," symbolizing how social conditioning masks itself as natural law, preventing critical examination of social principles.
 
-## 3. Interpretacje kulturowe i różnice międzykulturowe
+## 3. Cultural Interpretations and Cross-Cultural Differences
 
-### Różnorodność kulturowa jako motor rozwoju
-Mill uznał wagę różnorodności kulturowej w rozwoju ludzkim. Warunki tła, które różnią się w zależności od kultury, odgrywają równie ważną rolę w kształtowaniu ludzkiego charakteru. Podkreślał, że "różnorodność charakteru i kultury" zapewnia motor produktywnego napięcia, które popycha naród do przodu, jednocześnie ostrzegając przed "chińskim statycznością".
+### Cultural Diversity as Engine of Development
+Mill recognized the importance of cultural diversity in human development. Background conditions that differ across cultures play an equally important role in shaping human character. He emphasized that "diversity of character and culture" provides the motor of productive tension that drives a nation forward, while warning against "Chinese stationariness."
 
-### "Eksperymenty życia" jako symbol kulturowej różnorodności
-Mill uważał za korzystne posiadanie bogatej różnorodności "eksperymentów życia" wystawionych w dowolnym społeczeństwie, aby umożliwić jednostkom inspirowanie się szeroką gamą możliwych form życia. Postrzegał "despotyzm zwyczaju" jako "wszędzie trwałą przeszkodę dla postępu ludzkiego".
+### "Experiments of Living" as Symbol of Cultural Diversity
+Mill considered it beneficial to have a rich diversity of "experiments of living" exhibited in any society, to enable individuals to be inspired by a wide range of possible life forms. He saw the "despotism of custom" as "everywhere the standing hindrance to human advancement."
 
-### Chińska cywilizacja jako ostrzeżenie przed konformizmem
-Mill konkretnie "obawia się, że cywilizacja zachodnia zbliża się do tej dobrze zamierzonej konformizmu z pochwalebnych maksym charakteryzowanych przez cywilizację chińską". Ten symbol reprezentuje zagrożenie społecznej stagnacji przez nadmierną harmonię i jednorodność.
+### Chinese Civilization as Warning Against Conformism
+Mill specifically "fears that Western civilization is approaching that well-intentioned conformity of laudable maxims characterized by Chinese civilization." This symbol represents the threat of social stagnation through excessive harmony and uniformity.
 
-## 4. Współczesne interpretacje i nowe perspektywy
+## 4. Contemporary Interpretations and New Perspectives
 
-### Interpretacje feministyczne i wkład Harriet Taylor Mill
-Mill uznał znaczący wkład swojej żony, Harriet Taylor Mill, stwierdzając, że "O wolności" "było bardziej bezpośrednio i dosłownie naszą wspólną produkcją niż cokolwiek innego, co nosi moje nazwisko". Feministyczne interpretacje podkreślają, że Harriet Taylor Mill "miała największy wpływ na przekształcenie uwagi Milla na ideały postępowe, w tym socjalizm, prawa kobiet, wolność jednostki i przede wszystkim 'utopijny' pogląd na możliwość poprawy ludzkości".
+### Feminist Interpretations and Harriet Taylor Mill's Contribution
+Mill acknowledged the significant contribution of his wife, Harriet Taylor Mill, stating that "On Liberty" "was more directly and literally our joint production than anything else which bears my name." Feminist interpretations emphasize that Harriet Taylor Mill "had the greatest influence in transforming Mill's attention to progressive ideals, including socialism, women's rights, individual freedom, and above all the 'utopian' view of the possibility of human improvement."
 
-### Interpretacje postkolonialne i krytyka imperializmu
-Współczesna analiza postkolonialna ujawnia sprzeczności w myśleniu Milla. Jennifer Pitts pokazuje, że podczas gdy wcześniejsi myśliciele krytykowali europejskie imperia jako niesprawiedliwe, "do połowy XIX wieku najbardziej wybitni brytyjscy i francuscy myśliciele liberalni, w tym John Stuart Mill i Alexis de Tocqueville, energicznie popierali podbój ludów pozaeuropejskich". Mill kiedyś argumentował, że skolonizowani ludzie byli, jak dzieci, niezdolni do rządzenia sobą, więc "despotyzm to uprawniona forma rządu w kontaktach z barbarzyńcami, pod warunkiem że celem jest ich poprawa, a środki są usprawiedliwione przez faktyczne osiągnięcie tego celu".
+### Postcolonial Interpretations and Critique of Imperialism
+Contemporary postcolonial analysis reveals contradictions in Mill's thinking. Jennifer Pitts shows that while earlier thinkers criticized European empires as unjust, "by the mid-nineteenth century the most prominent British and French liberal thinkers, including John Stuart Mill and Alexis de Tocqueville, energetically supported the conquest of non-European peoples." Mill once argued that colonized peoples were, like children, incapable of governing themselves, so "despotism is a legitimate mode of government in dealing with barbarians, provided the end be their improvement, and the means justified by actually effecting that end."
 
-### Interpretacje psychologiczne i rozwój jednostki
-Wgląd psychologiczny Milla jest fundamentalny dla jego filozofii politycznej. Charakter umysłu jednostki, utrzymuje Mill, jest funkcją wyłącznie doświadczeń, które ta jednostka przeszła. To staje się przekształcone w charakterystycznie dziewiętnastowieczne twierdzenie, że sama natura ludzka jest plastyczna.
+### Psychological Interpretations and Individual Development
+Mill's psychological insight is fundamental to his political philosophy. The character of an individual's mind, Mill maintains, is a function exclusively of the experiences that individual has undergone. This becomes transformed into a characteristically nineteenth-century claim that human nature itself is plastic.
 
-### Interpretacja Jungowska i indywiduacja
-Indywiduacja, według Carla Junga, to trwający całe życie proces psychologiczny stawania się prawdziwym, autentycznym sobą, co silnie rezonuje z naciskiem Milla na indywidualny rozwój. "Najbardziej istotny popęd w każdej istocie, popęd do samo-realizacji, to siła motywacyjna stojąca za procesem indywiduacji", co jest zgodne z przekonaniem Milla, że centralną cechą dobrego życia jest to, że jest to życie wybrane dla siebie.
+### Jungian Interpretation and Individualization
+Individuation, according to Carl Jung, is a lifelong psychological process of becoming one's true, authentic self, which strongly resonates with Mill's emphasis on individual development. "The most essential urge in every being, the urge for self-realization, is the motivational force behind the individuation process," which aligns with Mill's belief that the central feature of a good life is that it is a life chosen for oneself.
 
-## 5. Symbole społecznej kontroli w kontekście wiktoriańskim
+## 5. Symbols of Social Control in Victorian Context
 
-### Nadzór społeczny jako mechanizm dyscyplinarny
-Mill był głęboko zaniepokojony "przymusem i kontrolą, czy to środkami używanymi są siły fizycznej w postaci kar prawnych, czy moralnym przymusem opinii publicznej. Nieformalne mechanizmy społecznej presji i oczekiwań mogły, w masowych społeczeństwach demokratycznych, być wszechkontrolujące. Mill martwił się, że sprawowanie takich władz prowadziłoby do dławiącego konformizmu w myśleniu, charakterze i działaniu".
+### Social Surveillance as Disciplinary Mechanism
+Mill was deeply concerned with "coercion and control, whether the means used be physical force in the form of legal penalties, or the moral coercion of public opinion." Informal mechanisms of social pressure and expectations could, in mass democratic societies, be all-controlling. Mill worried that exercising such powers would lead to stifling conformity in thought, character, and action.
 
-### Chrześcijaństwo jako symbol represji
-Mill martwił się "nie tylko tym, że chrześcijaństwo stało się zwiędłym i wyczerpanym moralizmem w szanowanej wiktoriańskiej Anglii, ale że zawsze było tym pruderyją i represyjną wiarą pod pewnymi względami, reaktancyjną ideologią dla ofiar pogańskiej solidności".
+### Christianity as Symbol of Repression
+Mill worried "not only that Christianity had become a withered and exhausted moralism in respectable Victorian England, but that it had always been in certain respects a prudish and repressive faith, a reactionary ideology for the victims of pagan robustness."
 
-### Wiktoriańska przyzwoitość jako społeczna kontrola
-Mill "czuł na własnej skórze dławiący wpływ wiktoriańskiego potępienia i opresyjnych norm przyzwoitości - temat, który później podjął w 'O wolności'". "Społeczeństwo wydało tyle samo wysiłku w próbę (zgodnie ze swoimi światłami) zmuszania ludzi do dostosowania się do swoich pojęć osobistej, jak społecznej doskonałości".
+### Victorian Respectability as Social Control
+Mill "felt firsthand the stifling influence of Victorian condemnation and oppressive norms of respectability - a theme he would later take up in 'On Liberty'." "Society has expended fully as much effort in the attempt (according to its lights) to compel people to conform to its notions of personal, as of social, excellence."
 
-## 6. Uniwersalne tematy i archetypy
+## 6. Universal Themes and Archetypes
 
-### Archetyp jednostki przeciwko masie
-Mill przedstawia odwieczny archetyp jednostki stojącej przeciwko presji społecznej masy. Ten motyw znajduje się w wielu kulturach i mitologiach, reprezentując fundamentalne napięcie między indywidualnością a społeczną spójnością.
+### Archetype of Individual Against the Mass
+Mill presents the eternal archetype of the individual standing against the pressure of the social mass. This motif is found in many cultures and mythologies, representing the fundamental tension between individuality and social cohesion.
 
-### Mit o Prometeuszu i indywidualnym oświeceniu
-Nacisk Milla na indywidualną prawdę i oświecenie echa mit o Prometeuszu, który ukradł ogień bogów dla ludzkości. Jednostka, która odważnie kwestionuje ortodoksję społeczną, jest współczesnym Prometeuszem.
+### Myth of Prometheus and Individual Enlightenment
+Mill's emphasis on individual truth and enlightenment echoes the myth of Prometheus, who stole fire from the gods for humanity. The individual who boldly questions social orthodoxy is a modern Prometheus.
 
-### Archetyp mędrca lub filozofa-króla
-Mill przedstawia wizję oświeconej jednostki, która przewodzi społeczeństwo poprzez przykład i mądrość, nawiązując do platońskiego archetypu filozofa-króla.
+### Archetype of the Sage or Philosopher-King
+Mill presents a vision of the enlightened individual who leads society through example and wisdom, referencing the Platonic archetype of the philosopher-king.
 
-## 7. Psychologiczne aspekty i analiza charakteru
+## 7. Psychological Aspects and Character Analysis
 
-### Formowanie charakteru i środowisko
-Mill był głęboko zainteresowany psychologią rozwoju, widoczne w jego koncepcji "etologii". "Systematyczna nauka zajmująca się tematem tego, jak wychowanie i środowisko wpływają na formację jednostek, Mill nazywa 'etologią'... Taka nauka, która wykorzystywałaby zasady psychologii, aby umożliwić nam określenie warunków najbardziej sprzyjających lub szkodliwych dla produkcji charakterów, które uważamy za pożądane, 'wciąż ma być stworzona'".
+### Character Formation and Environment
+Mill was deeply interested in the psychology of development, evident in his concept of "ethology." "The systematic science dealing with the subject of how education and environment affect the formation of individuals, Mill calls 'ethology'... Such a science, which would use the principles of psychology to enable us to determine the conditions most favorable or harmful to the production of characters we consider desirable, 'still remains to be created'."
 
-### Walka między autentycznym ja a społeczną conformizmem
-Mill antycypuje wgląd psychologiczne o społecznym konformizmie i walkę jednostki o autentyczne wyrażenie siebie, temy centralne zarówno dla teorii indywiduacji Jungowskiej, jak i niektórych aspektów psychologii freudowskiej dotyczących napięcia między indywidualnymi pragnieniami a społecznymi ograniczeniami.
+### Struggle Between Authentic Self and Social Conformism
+Mill anticipates psychological insights about social conformism and the individual's struggle for authentic self-expression, themes central to both Jungian individuation theory and certain aspects of Freudian psychology regarding the tension between individual desires and social constraints.
 
-### Wyższe i niższe przyjemności jako hierarchia rozwoju psychicznego
-Mill's rozróżnienie między wyższymi i niższymi przyjemnościami reprezentuje psychologiczną hierarchię rozwoju, gdzie jednostka ewoluuje od podstawowych potrzeb do wyrafinowanych form samoaktualizacji.
+### Higher and Lower Pleasures as Hierarchy of Psychological Development
+Mill's distinction between higher and lower pleasures represents a psychological hierarchy of development, where the individual evolves from basic needs to refined forms of self-actualization.
 
-## 8. Ewolucja interpretacji na przestrzeni lat
+## 8. Evolution of Interpretations Over the Years
 
-### Od liberalizmu klasycznego do libertarianizmu
-Pierwotne interpretacje traktowały Mill jako klasycznego liberała, ale współczesne odczytania często przedstawiają go jako protolibertarianina, szczególnie w kontekście jego zasady szkody.
+### From Classical Liberalism to Libertarianism
+Original interpretations treated Mill as a classical liberal, but contemporary readings often present him as a proto-libertarian, particularly in the context of his harm principle.
 
-### Od indywidualizmu do komunitaryzmu
-Wcześniejsze interpretacje podkreślały radykalny indywidualizm Milla, ale współczesna analiza ujawnia jego głęboką troskę o społeczność i społeczne warunki indywidualnego rozwoju.
+### From Individualism to Communitarianism
+Earlier interpretations emphasized Mill's radical individualism, but contemporary analysis reveals his deep concern for community and the social conditions of individual development.
 
-### Od filozofii politycznej do psychologii społecznej
-Współczesne interpretacje coraz bardziej czytają Milla przez pryzmat psychologii społecznej i nauki o zachowaniu, szczególnie w kontekście mechanizmów społecznej presji i konformizmu.
+### From Political Philosophy to Social Psychology
+Contemporary interpretations increasingly read Mill through the lens of social psychology and behavioral science, particularly in the context of mechanisms of social pressure and conformism.
 
-## 9. Relevance dla epoki cyfrowej i współczesnych wyzwań
+## 9. Relevance to the Digital Age and Contemporary Challenges
 
-### Media społecznościowe jako nowa "tyrania większości"
-Pojęcie "tyranii większości" Milla nabiera nowego znaczenia w erze mediów społecznościowych, gdzie mechanizmy społecznej presji i ostracyzmu mogą być wzmocnione i przyspieszone przez technologię cyfrową.
+### Social Media as New "Tyranny of the Majority"
+Mill's concept of "tyranny of the majority" takes on new meaning in the era of social media, where mechanisms of social pressure and ostracism can be amplified and accelerated by digital technology.
 
-### Algorytmy jako nowoczesne "despotyzm zwyczaju"
-Algorytmy mediów społecznościowych, które promują podobne treści i wzmacniają istniejące przekonania, można interpretować jako cyfrową wersję "despotyzmu zwyczaju" Milla.
+### Algorithms as Modern "Despotism of Custom"
+Social media algorithms that promote similar content and reinforce existing beliefs can be interpreted as a digital version of Mill's "despotism of custom."
 
-### Kultura anulowania jako współczesne zastosowanie społecznej tyranii
-Fenomen "kultury anulowania" może być rozumiany przez pryzm analiz Milla dotyczących społecznych mechanizmów karania za naruszanie zwyczajów lub opinii większości.
+### Cancel Culture as Contemporary Application of Social Tyranny
+The phenomenon of "cancel culture" can be understood through the lens of Mill's analyses regarding social mechanisms of punishment for violating customs or majority opinions.
 
-## 10. Symbole które czytelnik może przeoczyć
+## 10. Symbols That Readers Might Overlook
 
-### Metafora ognia i tłumienia
-Mill używa metafor ognia i tłumienia - "Postęp - nawet progresja herezji - zawsze będzie płonąć dalej, ale może zostać utrudniony, jeśli władza spróbuje go 'zdusić'". Ta metafora reprezentuje niezniszczalność prawdy i niebezpieczeństwo cenzury.
+### Metaphor of Fire and Suppression
+Mill uses metaphors of fire and suppression - "Progress - even the progression of heresy - will always burn on, but may be hindered if power tries to 'smother' it." This metaphor represents the indestructibility of truth and the danger of censorship.
 
-### Metaphora snu i czuwania
-"Zarówno nauczyciele, jak i uczniowie zasypiają na swoich posterunkach, gdy tylko nie ma wroga w polu" - ta metafora reprezentuje sposób, w jaki umysły stają się leniwwe bez intelektualnego wyzwania.
+### Metaphor of Sleep and Wakefulness
+"Both teachers and learners go to sleep at their post as soon as there is no enemy in the field" - this metaphor represents how minds become lazy without intellectual challenge.
 
-### Symbolika zwierząt drapieżnych
-Mill porównuje władców z bronią i zwierzętami drapieżnymi: "Mill używa swojego porównania, aby porównać władcę z bronią i, poprzez metaforę, do zwierzęcia drapieżnego, które może chronić 'słabszych' obywateli od 'niezliczonych sępów', chociaż każde takie zwierzę drapieżne może również obrócić się przeciwko słabszej ludności, którą zostało ustanowione do ochrony".
+### Symbolism of Predatory Animals
+Mill compares rulers to weapons and predatory animals: "Mill uses his comparison to compare the ruler to a weapon and, by metaphor, to a predatory animal that can protect 'weaker' citizens from 'countless vultures,' though any such predatory animal may also turn against the weaker population it was established to protect."
 
-## 11. Połączenia z innymi dziełami kultury
+## 11. Connections with Other Cultural Works
 
-### Platońska Jaskinia i społeczne złudzenia
-Obawa Milla o społeczny konformizm i iluzję prawdy echa Platońską alegorię jaskini, gdzie więźniowie przyjmują cienie za rzeczywistość.
+### Platonic Cave and Social Illusions
+Mill's concern about social conformism and the illusion of truth echoes Plato's allegory of the cave, where prisoners mistake shadows for reality.
 
-### Orwellowska "1984" i społeczna kontrola
-Antycypacja Milla mechanizmów społecznej kontroli przez opinię publiczną przewiduje tematy w "1984" Orwella dotyczące nadzoru i kontroli myśli.
+### Orwellian "1984" and Social Control
+Mill's anticipation of mechanisms of social control through public opinion anticipates themes in Orwell's "1984" regarding surveillance and thought control.
 
-### Tocqueville'owska analiza demokracji
-Mill rozwija obserwacje Tocqueville'a o zagrożeniach demokracji, szczególnie tendencji do konformizmu i mediokracji.
+### Tocqueville's Analysis of Democracy
+Mill develops Tocqueville's observations about the dangers of democracy, particularly the tendency toward conformism and mediocracy.
 
-### Nietzscheański nacisk na indywidualność
-Mill's nacisk na indywidualną doskonałość i niebezpieczeństwa mass-society anticipuje Nietzscheańską krytykę "mentalności stada".
+### Nietzschean Emphasis on Individuality
+Mill's emphasis on individual excellence and the dangers of mass society anticipates Nietzschean critique of "herd mentality."
 
-## 12. Międzynarodowe różnice interpretacyjne
+## 12. International Interpretive Differences
 
-### Interpretacja anglosaska vs. kontynentalna
-Anglosaska tradycja interpretuje Milla głównie przez pryzmat liberalizmu politycznego, podczas gdy tradycja kontynentalna często podkreśla jego aspekty socjalistyczne i społeczne.
+### Anglo-Saxon vs. Continental Interpretation
+The Anglo-Saxon tradition interprets Mill mainly through the lens of political liberalism, while the continental tradition often emphasizes his socialist and social aspects.
 
-### Interpretacje w krajach postkomunistycznych
-W krajach Europy Wschodniej, Mill jest często interpretowany przez pryzmat doświadczeń totalitarnych, z szczególnym naciskiem na jego ostrzeżenia o społecznej tyranii.
+### Interpretations in Post-Communist Countries
+In Eastern European countries, Mill is often interpreted through the lens of totalitarian experiences, with particular emphasis on his warnings about social tyranny.
 
-### Interpretacje w krajach rozwijających się
-W kontekstach postkolonialnych, Mill jest często krytykowany za jego poparcie dla imperializmu, co prowadzi do bardziej krytycznych interpretacji jego liberalizmu.
+### Interpretations in Developing Countries
+In postcolonial contexts, Mill is often criticized for his support of imperialism, leading to more critical interpretations of his liberalism.
 
-## 13. Znaczenia filozoficzne często pomijane
+## 13. Often Overlooked Philosophical Meanings
 
-### Mill jako prekursor egzystencjalizmu
-Nacisk Milla na autentyczność i samo-tworzenie życia anticipuje tematy egzystencjalistyczne dotyczące wolności i odpowiedzialności.
+### Mill as Precursor to Existentialism
+Mill's emphasis on authenticity and self-creation of life anticipates existentialist themes regarding freedom and responsibility.
 
-### Mill jako krytyk nowoczesności
-Chociaż często postrzegany jako obrońca nowoczesności, Mill faktycznie oferuje wyrafinowaną krytykę pewnych aspektów społeczeństwa nowoczesnego, szczególnie jego tendencji do uniformizacji.
+### Mill as Critic of Modernity
+Although often seen as a defender of modernity, Mill actually offers a sophisticated critique of certain aspects of modern society, particularly its tendency toward uniformization.
 
-### Mill jako psycholog społeczny
-Analiza Milla mechanizmów społecznej presji i konformizmu czyni go prekursorem współczesnej psychologii społecznej.
+### Mill as Social Psychologist
+Mill's analysis of mechanisms of social pressure and conformism makes him a precursor to contemporary social psychology.
 
-## Podsumowanie
+## Summary
 
-"O wolności" Johna Stuarta Milla to znacznie więcej niż tylko traktat polityczny - to wielowarstwowe dzieło pełne symboli, metafor i ukrytych znaczeń, które nadal rezonują we współczesnym świecie. Od centralnej metafory "tyranii większości" po subtelne analizy psychologii społecznej, Mill oferuje wgląd w fundamentalne napięcia między jednostką a społeczeństwem, które transcendują jego wiktoriański kontekst.
+John Stuart Mill's "On Liberty" is much more than just a political treatise - it is a multi-layered work full of symbols, metaphors, and hidden meanings that still resonate in the contemporary world. From the central metaphor of "tyranny of the majority" to subtle analyses of social psychology, Mill offers insight into fundamental tensions between the individual and society that transcend his Victorian context.
 
-Dzieło może być czytane na wielu poziomach: jako manifesto liberalny, jako analiza psychologiczna, jako krytyka społeczna, a nawet jako przedegzystencjalistyczna medytacja na temat autentyczności i wolności. Jego symbole i metafory oferują bogaty materiał dla interpretacji przez różne soczewki krytyczne, od feministycznych po postkolonialne, od psychoanalitycznych po archetypalnych.
+The work can be read on many levels: as a liberal manifesto, as psychological analysis, as social critique, and even as a pre-existentialist meditation on authenticity and freedom. Its symbols and metaphors offer rich material for interpretation through different critical lenses, from feminist to postcolonial, from psychoanalytic to archetypal.
 
-Być może największym ukrytym znaczeniem "O wolności" jest jego antycypacja współczesnych dylematów dotyczących równowagi między wolnością a bezpieczeństwem, między indywidualnością a społeczną spójnością, między prawdą a harmonią społeczną. W erze mediów społecznościowych i polaryzacji politycznej, ostrzeżenia Milla o "tyranii większości" i "despotyzmie zwyczaju" nabierają nowej aktualności i pilności.
+Perhaps the greatest hidden meaning of "On Liberty" is its anticipation of contemporary dilemmas regarding the balance between freedom and security, between individuality and social cohesion, between truth and social harmony. In an era of social media and political polarization, Mill's warnings about "tyranny of the majority" and "despotism of custom" take on new relevance and urgency.

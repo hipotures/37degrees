@@ -1,183 +1,183 @@
-# Lokalny kontekst kulturowy: "Objaśnianie marzeń sennych" w Polsce
+# Local Cultural Context: "The Interpretation of Dreams" in Poland
 
-## Wprowadzenie
+## Introduction
 
-"Objaśnianie marzeń sennych" (1899) Sigmunda Freuda to fundamentalne dzieło psychoanalizy, które w Polsce zyskało szczególną recepcję na przestrzeni ponad stu lat. Niniejszy dokument przedstawia lokalny polski kontekst tej rewolucyjnej książki.
+"The Interpretation of Dreams" (1899) by Sigmund Freud is a fundamental work of psychoanalysis that has gained particular reception in Poland over more than a century. This document presents the local Polish context of this revolutionary book.
 
-## Historia publikacji i tłumaczeń w Polsce
+## Publication History and Translations in Poland
 
-### Kluczowe polskie wydania
+### Key Polish Editions
 
-1. **Pierwsze polskie wydanie** - Robert Reszke (1964-2012) jako główny tłumacz
-   - Wydawnictwo KR, Warszawa 1996
-   - Tom 1 z serii Dzieł Zebranych Freuda
-   - Uznawane za pierwszą pełną edycję w języku polskim
+1. **First Polish Edition** - Robert Reszke (1964-2012) as the main translator
+   - KR Publishing House, Warsaw 1996
+   - Volume 1 of Freud's Collected Works series
+   - Considered the first complete edition in Polish
 
-2. **Robert Reszke - główny polski tłumacz Freuda**
-   - Tłumacz z języka niemieckiego i angielskiego
-   - Laureat nagród Stowarzyszenia Tłumaczy Polskich (1993)
-   - Wyróżniony za tłumaczenie "Żartów i ich stosunek do nieświadomości"
-   - Otrzymał nagrodę Literatura na Świecie (2000)
-   - Nagrodzony przez Polski PEN Club (2006)
+2. **Robert Reszke - Main Polish Freud Translator**
+   - Translator from German and English
+   - Winner of Polish Translators Association awards (1993)
+   - Distinguished for translating "Jokes and Their Relation to the Unconscious"
+   - Received Literature in the World award (2000)
+   - Awarded by Polish PEN Club (2006)
 
-3. **Znaczenie tłumaczenia**
-   - Pierwsza pełna edycja "Objaśniania marzeń sennych" w polszczyźnie
-   - Część szerokiego projektu wydawniczego dzieł Freuda w Polsce
+3. **Translation Significance**
+   - First complete edition of "The Interpretation of Dreams" in Polish
+   - Part of a broader publishing project of Freud's works in Poland
 
-## Polscy pionierzy psychoanalizy
+## Polish Pioneers of Psychoanalysis
 
 ### Kazimierz Dąbrowski (1902-1980)
-- Twórca teorii dezintegracji pozytywnej
-- Dyrektor Instytutu Higieny Psychicznej (1935-1949)
-- Nawiązywał do pedagogiki Janusza Korczaka
-- Reprezentował polską szkołę myślenia o psychologii człowieka
+- Creator of the theory of positive disintegration
+- Director of the Institute of Mental Hygiene (1935-1949)
+- Referenced the pedagogy of Janusz Korczak
+- Represented the Polish school of thinking about human psychology
 
-### Antoni Kępiński (1918-1972) - "legendarna postać polskiej psychiatrii"
-- **Nazywany przez Józefa Tischnera**: "Ten wie o człowieku więcej niż Freud, Heidegger, Lévinas"
-- Twórca koncepcji metabolizmu informacyjnego
-- Pionier psychoterapii rozmową w Polsce
-- Początkowo inspirowany podejściem Carla Junga
-- Founder nowej psychiatrii w Polsce
+### Antoni Kępiński (1918-1972) - "Legendary Figure of Polish Psychiatry"
+- **Called by Józef Tischner**: "He knows more about humans than Freud, Heidegger, Lévinas"
+- Creator of the concept of information metabolism
+- Pioneer of conversation psychotherapy in Poland
+- Initially inspired by Carl Jung's approach
+- Founder of new psychiatry in Poland
 
 ### Janusz Korczak (1878-1942)
-- Studiował medycynę na Uniwersytecie Warszawskim (1898-1904)
-- Stażował w Berlinie (1907) i Paryżu (1909) - kontakt z nowoczesnymi teoriami psychologicznymi
-- Jego pedagogiczne podejście do dziecka wpłynęło na polską interpretację psychoanalitycznych koncepcji rozwoju
+- Studied medicine at Warsaw University (1898-1904)
+- Interned in Berlin (1907) and Paris (1909) - contact with modern psychological theories
+- His pedagogical approach to children influenced Polish interpretation of psychoanalytic development concepts
 
-## Teatr i kultura sceniczna
+## Theater and Scenic Culture
 
-### Klasyczne adaptacje teatralne
+### Classic Theater Adaptations
 
-1. **"Freuda teoria snów" (1937)**
-   - Antoni Cwojdziński - najbardziej znaną "komedia naukowa"
-   - Psychoanaliza jako główny bohater sztuki
-   - Wersja telewizyjna TVP z 1991 roku
+1. **"Freud's Dream Theory" (1937)**
+   - Antoni Cwojdziński - the most famous "scientific comedy"
+   - Psychoanalysis as the main character of the play
+   - TVP television version from 1991
 
-2. **"Psychoterapia czyli sex w życiu człowieka"**
-   - Komedia Jacka Chmielnika
-   - Teatr Komedia we Wrocławiu
-   - Stereotypowe przedstawienie psychoanalityka freudowskiego
+2. **"Psychotherapy or Sex in Human Life"**
+   - Comedy by Jacek Chmielnik
+   - Komedia Theater in Wrocław
+   - Stereotypical portrayal of a Freudian psychoanalyst
 
-3. **"Hans, Dora i Wilk" - Teatr Polski we Wrocławiu**
-   - Reżyseria: Michał Borczuch
-   - Oparte na przypadku "Człowieka-Wilka"
-   - Eksploracja pasywności, homoseksualnych tendencji
-   - Współczesna interpretacja klasycznych przypadków Freuda
+3. **"Hans, Dora and the Wolf" - Polish Theater in Wrocław**
+   - Directed by: Michał Borczuch
+   - Based on the "Wolf Man" case
+   - Exploration of passivity, homosexual tendencies
+   - Contemporary interpretation of Freud's classic cases
 
-## System edukacyjny
+## Educational System
 
-### Wiedza o Społeczeństwie (WOS)
-- **Obecność w podstawie programowej**: Psychoanaliza jako teoria psychopatologii
-- **Zakres nauczania**: Od późnych klas szkoły podstawowej
-- **Rozszerzony program w liceum**: Socjologia, politologia, psychologia
-- **Kontekst maturalny**: WOS jako przepustka na studia humanistyczne
+### Social Studies (WOS)
+- **Presence in core curriculum**: Psychoanalysis as a theory of psychopathology
+- **Teaching scope**: From late elementary school classes
+- **Extended high school program**: Sociology, political science, psychology
+- **Graduation context**: WOS as a gateway to humanities studies
 
-### Ewolucja programu
-- 2022: Historia i teraźniejszość zastąpiła WOS w zakresie podstawowym
-- 2025: Nowa formuła egzaminów maturalnych
-- Psychoanaliza w kontekście nauk społecznych i kulturoznawstwa
+### Program Evolution
+- 2022: History and Present Time replaced WOS in basic scope
+- 2025: New formula for graduation exams
+- Psychoanalysis in the context of social sciences and cultural studies
 
-## Polscy badacze i interpretatorzy
+## Polish Researchers and Interpreters
 
-### Pionierzy akademiccy
+### Academic Pioneers
 
 1. **Maria Żebrowska (1900-1978)**
-   - Pierwsza dziekan Wydziału Pedagogicznego UW (1953)
-   - Staż w Wiedniu u Charlotte Bühler (1931)
-   - Psychologia wychowawcza z elementami psychoanalizy
+   - First Dean of the Pedagogical Faculty at UW (1953)
+   - Internship in Vienna with Charlotte Bühler (1931)
+   - Educational psychology with psychoanalytic elements
 
 2. **Helena Radlińska**
-   - Współpraca z Janem Władysławem Dawidem
-   - Pedagogika społeczna z wpływami psychoanalitycznymi
-   - Redakcja "Ruchu Pedagogicznego"
+   - Collaboration with Jan Władysław Dawid
+   - Social pedagogy with psychoanalytic influences
+   - Editor of "Pedagogical Movement"
 
-3. **Zbigniew Sokolik (ur. 1928)**
-   - Jeden z pierwszych polskich psychoanalityków po II wojnie
-   - Trzy szkolenia psychoanalityczne w Pradze
-   - Licencjonowany psychoanalityk trzech szkół: Freuda, Junga, Lacana
+3. **Zbigniew Sokolik (born 1928)**
+   - One of the first Polish psychoanalysts after WWII
+   - Three psychoanalytic trainings in Prague
+   - Licensed psychoanalyst of three schools: Freud, Jung, Lacan
 
-### Współczesne instytucje
-- **Polskie Towarzystwo Psychoanalityczne** - kontynuacja tradycji
-- **Uniwersytet Warszawski - Wydział Psychologii** - katedra historii psychologii
-- **Instytut Studiów Psychoanalitycznych im. Hanny Segal**
+### Contemporary Institutions
+- **Polish Psychoanalytic Society** - continuation of tradition
+- **University of Warsaw - Faculty of Psychology** - chair of psychology history
+- **Institute of Psychoanalytic Studies named after Hanna Segal**
 
-## Współczesna recepcja i kultura popularna
+## Contemporary Reception and Popular Culture
 
-### Internet i memy
-1. **Platforma KWEJK.pl** - regularnie publikowane memes z tagiem #Freud
-2. **Filozofuj.eu** - "Memy filozoficzne" z Zygmuntem Freudem
-3. **Popularne skojarzenia**: "Mommy issues", kompleks Edypa w kontekście popkultury
+### Internet and Memes
+1. **KWEJK.pl Platform** - regularly published memes with #Freud tag
+2. **Filozofuj.eu** - "Philosophical Memes" featuring Sigmund Freud
+3. **Popular Associations**: "Mommy issues", Oedipus complex in pop culture context
 
-### Charakterystyczne polskie interpretacje
-- **Freud vs Jung**: "prowadzą nas w psychologię głębi, my pytamy o psychologię wysokości"
-- **Krytyka panseksualizmu**: Typowe polskie zastrzeżenia wobec teorii Freuda
-- **Podejście humanistyczne**: Wpływ katolickiej tradycji na interpretację
+### Characteristic Polish Interpretations
+- **Freud vs Jung**: "They lead us into depth psychology, we ask about height psychology"
+- **Critique of Pansexualism**: Typical Polish reservations about Freud's theory
+- **Humanistic Approach**: Influence of Catholic tradition on interpretation
 
-## Specyfika polska w odbiorze
+## Polish Specificity in Reception
 
-### Różnice kulturowe w interpretacji
+### Cultural Differences in Interpretation
 
-1. **Tradycja katolicka vs materializm psychoanalityczny**
-   - Napięcie między wiarą a nauką
-   - Polskie adaptacje teorii z uwzględnieniem wartości religijnych
+1. **Catholic Tradition vs Psychoanalytic Materialism**
+   - Tension between faith and science
+   - Polish adaptations of theory considering religious values
 
-2. **Kolektywizm vs indywidualizm**
-   - Polskie doświadczenie komunizmu
-   - Psychoanaliza w kontekście społeczeństwa postkomunistycznego
+2. **Collectivism vs Individualism**
+   - Polish experience of communism
+   - Psychoanalysis in the context of post-communist society
 
-3. **Trauma historyczna**
-   - II wojna światowa i Holocaust w kontekście teorii traumy
-   - Specyficzne polskie doświadczenia zbiorowe
+3. **Historical Trauma**
+   - WWII and Holocaust in the context of trauma theory
+   - Specific Polish collective experiences
 
-### Lokalne nawiązania
+### Local References
 
-1. **Literatura polska**
-   - Wpływ na twórczość Witolda Gombrowicza
-   - Stanisław Ignacy Witkiewicz i psychoanalityczne interpretacje
+1. **Polish Literature**
+   - Influence on Witold Gombrowicz's work
+   - Stanisław Ignacy Witkiewicz and psychoanalytic interpretations
 
-2. **Krakowska szkoła psychiatryczna**
-   - Tradycja akademicka Uniwersytetu Jagiellońskiego
-   - Lokalne badania nad psychoanalizą
+2. **Kraków School of Psychiatry**
+   - Academic tradition of Jagiellonian University
+   - Local research on psychoanalysis
 
-3. **Wrocławskie środowisko teatralne**
-   - Specjalizacja w spektaklach psychoanalitycznych
-   - Michał Borczuch jako interpretator Freuda
+3. **Wrocław Theater Environment**
+   - Specialization in psychoanalytic performances
+   - Michał Borczuch as interpreter of Freud
 
-## Problemy tłumaczeniowe
+## Translation Problems
 
-### Specyficzne wyzwania językowe
+### Specific Linguistic Challenges
 
-1. **Terminologia psychoanalityczna**
-   - Adaptacja niemieckich terminów do polszczyzny
-   - "Es", "Ich", "Über-Ich" - polskie odpowiedniki
+1. **Psychoanalytic Terminology**
+   - Adaptation of German terms to Polish
+   - "Es", "Ich", "Über-Ich" - Polish equivalents
 
-2. **Gra słów i kalambury**
-   - Robert Reszke wskazywał na odniesienia do Heinricha Heinego
-   - Trudności w przekładzie niemieckich gier językowych
+2. **Wordplay and Puns**
+   - Robert Reszke pointed to references to Heinrich Heine
+   - Difficulties in translating German linguistic games
 
-3. **Kontekst kulturowy**
-   - Wiedeńska kultura przełomu wieków
-   - Adaptacja do polskich realiów kulturowych
+3. **Cultural Context**
+   - Viennese culture at the turn of the century
+   - Adaptation to Polish cultural realities
 
-## Współczesne znaczenie
+## Contemporary Significance
 
-### Aktualna recepcja akademicka
-- **Uznanie ciągłej inspiracji**: "Nadal bardzo inspirująca dla współczesnej humanistyki"
-- **Krytyka i ewolucja**: Zachowanie wartości przy jednoczesnej krytyce
-- **Interdyscyplinarność**: Wpływ na literaturoznawstwo, antropologię, socjologię
+### Current Academic Reception
+- **Recognition of Continued Inspiration**: "Still very inspiring for contemporary humanities"
+- **Criticism and Evolution**: Preserving value while maintaining criticism
+- **Interdisciplinarity**: Influence on literary studies, anthropology, sociology
 
-### Fan community i społeczność
-- **Grupy na portalach społecznościowych** poświęcone psychoanalizie
-- **Blogi i fora dyskusyjne** o tematyce psychoanalitycznej
-- **Popularyzacja przez memy** - dostępność dla młodego pokolenia
+### Fan Community and Society
+- **Social media groups** dedicated to psychoanalysis
+- **Blogs and discussion forums** on psychoanalytic topics
+- **Popularization through memes** - accessibility for the young generation
 
-## Wnioski dla polskich słuchaczy
+## Conclusions for Polish Listeners
 
-"Objaśnianie marzeń sennych" w Polsce to nie tylko przekład fundamentalnego dzieła, ale żywa tradycja interpretacji, która:
+"The Interpretation of Dreams" in Poland is not just a translation of a fundamental work, but a living tradition of interpretation that:
 
-1. **Łączy tradycję z nowoczesnością** - od pionierskich tłumaczeń po internetowe memy
-2. **Odzwierciedla polską specyfikę kulturową** - wpływ katolicyzmu, doświadczenia historyczne
-3. **Pozostaje aktualną inspiracją** - w teatrze, edukacji, psychologii klinicznej
-4. **Evolucjonuje z czasem** - od ortodoksyjnej psychoanalizy po współczesne interpretacje
+1. **Connects tradition with modernity** - from pioneering translations to internet memes
+2. **Reflects Polish cultural specificity** - influence of Catholicism, historical experiences
+3. **Remains current inspiration** - in theater, education, clinical psychology
+4. **Evolves with time** - from orthodox psychoanalysis to contemporary interpretations
 
-Polscy słuchacze mogą odnaleźć w tej książce nie tylko uniwersalne prawdy o ludzkiej psychice, ale także ślady własnej, lokalnej tradycji myślenia o człowieku - od Korczaka przez Kępińskiego po współczesnych psychoanalityków.
+Polish listeners can find in this book not only universal truths about the human psyche, but also traces of their own, local tradition of thinking about humans - from Korczak through Kępiński to contemporary psychoanalysts.

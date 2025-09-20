@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Beauvechain Air Base - F-16s on Alert"
+  setting:
+    time: "March 1990, late afternoon"
+    location: "Belgian Air Force base, Beauvechain, central Belgium"
+    weather: "Partly cloudy spring day"
+  characters:
+    - appearance: "NATO fighter pilot, 25-35 years old, focused expression"
+      clothing: "NATO standard green Nomex flight suit, G-suit for high-performance maneuvers, HGU-55 flight helmet with oxygen mask, squadron patches on shoulders"
+      position: "Standing beside F-16 fighter jet during pre-flight inspection"
+      action: "Seated in cockpit or standing by aircraft, professional military bearing"
+  scene:
+    mainElements: "Standard NATO military facility with concrete runways, aircraft hangars, operational buildings, control tower"
+    details: "General Dynamics F-16A Fighting Falcon, early Block 10/15 versions, European grey camouflage scheme, Belgian roundels and tail codes, armed with AIM-9 Sidewinder missiles, standard NATO navigation lights parked on tarmac. Ground crew performing maintenance checks, fuel trucks and support equipment nearby. Alert status indicators and communication equipment visible."
+    background: "Active military installation with F-16 fighter jets, ground crews, security perimeter"
+    atmosphere: "Active military installation with F-16 fighter jets, ground crews, security perimeter"
+  composition:
+    cameraAngle: "Low angle shot emphasizing the power of military aircraft"
+    focus: "F-16 fighter jet and pilot preparing for potential intercept mission"
+    depth: "Foreground: pilot and aircraft, middle ground: airbase facilities and equipment, background: hangars and control tower, no text or letters visible"

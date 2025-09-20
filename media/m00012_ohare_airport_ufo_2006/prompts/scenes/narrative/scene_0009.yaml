@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "FAA Control Tower Receives UFO Report Call"
+  setting:
+    time: "November 7, 2006, 4:27 PM CST, late afternoon"
+    location: "Air traffic control tower, Chicago O'Hare International Airport"
+    weather: "Overcast, solid grey cloud layer, circular hole nearly closed"
+  characters:
+    - appearance: "Male controller, 30s-40s, focused, professional demeanor"
+      clothing: "Business casual civilian attire, white dress shirt, dark pants"
+      position: "Seated at control station with headset"
+      action: "Receiving phone call while scanning radar screens showing no unusual contacts"
+    - appearance: "Second FAA controller, male, 40s, experienced appearance"
+      clothing: "Casual button-down shirt, khaki pants, official FAA credentials"
+      position: "Standing behind primary controller, observing"
+      action: "Looking out tower windows toward Gate C-17 area while colleague takes call"
+  scene:
+    mainElements: "Air traffic control tower cab with 360-degree glass windows, multiple radar screens displaying normal aircraft traffic, control stations with communication equipment, clear view of Gate C-17 from elevated position"
+    details: "Professional aviation control environment with radar displays showing no anomalous contacts, controllers maintaining standard operations while receiving unusual report, panoramic view of airport through tower windows, communication equipment recording conversations, closing cloud hole barely visible in distance"
+    background: "Tall concrete control tower structure providing comprehensive airport oversight, O'Hare runways and terminals visible below, normal aircraft operations continuing across airport, late afternoon lighting"
+    atmosphere: "Professional skepticism meeting extraordinary claim, disconnect between radar data and witness reports, official aviation authority dealing with unexplained aerial phenomenon report, no text or letters visible"
+  composition:
+    cameraAngle: "Interior shot of control tower showing both controllers and view outside"
+    focus: "FAA controller receiving phone call while monitoring radar screens"
+    depth: "Foreground: control equipment and displays, middle ground: controllers at stations, background: panoramic airport view through tower windows"

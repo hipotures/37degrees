@@ -1,0 +1,15 @@
+media_info:
+  title: Clonmacnoise Flying Ship - Medieval Era
+  author: Historical Documentation
+  year: 900
+  genre: Medieval Mystery Documentary
+  description: A flying ship with an anchor dropped during church mass at an Irish
+    monastery, with a mysterious sailor retrieved from the sky by the congregation
+  target_audience: General public, students, medieval history enthusiasts, Irish folklore fans
+  duration: ~3 minutes
+  objective: Explore one of the earliest recorded aerial phenomena from medieval
+    Ireland that predates modern UFO accounts by over a millennium
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

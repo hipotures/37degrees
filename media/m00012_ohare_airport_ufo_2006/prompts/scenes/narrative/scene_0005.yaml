@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Terminal Passengers and Staff Witness from Windows"
+  setting:
+    time: "November 7, 2006, 4:18 PM CST, late afternoon"
+    location: "Terminal 3 Concourse C interior, Chicago O'Hare International Airport"
+    weather: "Overcast, solid grey cloud layer at 1,900 feet, cool November temperature"
+  characters:
+    - appearance: "Mixed group of airline passengers, various ages and ethnicities"
+      clothing: "Typical 2006 travel attire, business suits, casual wear, winter coats"
+      position: "Pressed against large terminal windows facing Gate C-17"
+      action: "Pointing excitedly at hovering object, taking photos with early digital cameras and flip phones"
+    - appearance: "United Airlines gate agents and terminal staff, mixed gender"
+      clothing: "UA uniform shirts, professional attire, company ID badges"
+      position: "Behind passenger seating area, some approaching windows"
+      action: "Observing phenomenon while attempting to maintain professional composure"
+  scene:
+    mainElements: "Large terminal windows providing clear view of hovering disc object above Gate C-17, crowd of passengers and staff gathered at glass, pointing and gesturing toward anomaly outside"
+    details: "Terminal interior with commercial carpet and seating areas, fluorescent lighting creating reflections on glass, mixture of amazement and confusion on faces, some passengers attempting photography despite no visible results, gate area normally focused on boarding now completely distracted by aerial phenomenon"
+    background: "Long Terminal 3 concourse stretching in both directions, other gates with normal operations, dark grey metallic disc clearly visible through glass hovering above aircraft outside"
+    atmosphere: "Indoor witnessing of outdoor phenomenon, contrast between controlled terminal environment and unexplained event beyond the glass, collective amazement breaking normal airport routine, no text or letters visible"
+  composition:
+    cameraAngle: "Interior shot from behind crowd looking through terminal windows"
+    focus: "Gathered crowd at windows pointing at hovering object visible outside"
+    depth: "Foreground: terminal interior and crowd, middle ground: large windows, background: tarmac scene with hovering disc"

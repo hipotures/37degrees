@@ -1,106 +1,106 @@
-# Lokalny Kontekst Kulturowy: "O wolności" Johna Stuarta Milla w Polsce
+# Local Cultural Context: "On Liberty" by John Stuart Mill in Poland
 
-## Podstawowe informacje o dziele
-- **Tytuł**: "On Liberty" (1859) / "O wolności" (tłumaczenia polskie)
-- **Autor**: John Stuart Mill (1806-1873)
-- **Gatunek**: Filozofia polityczna, liberalizm
-- **Status**: Klasyczne dzieło filozofii liberalnej
+## Basic information about the work
+- **Title**: "On Liberty" (1859) / "O wolności" (Polish translations)
+- **Author**: John Stuart Mill (1806-1873)
+- **Genre**: Political philosophy, liberalism
+- **Status**: Classic work of liberal philosophy
 
-## Historia polskich tłumaczeń i wydań
+## History of Polish translations and editions
 
-### Pierwsze tłumaczenia (XIX wiek)
-1. **Pionierskie wydanie z 1871**: Pierwszym polskim tłumaczeniem "Utylitaryzmu" Milla była publikacja z początku lat 70. XIX wieku, która stała się ideologiczną podstawą programu "młodych" - pokolenia poinsurekcyjnego.
+### First translations (19th century)
+1. **Pioneer edition from 1871**: The first Polish translation of Mill's "Utilitarianism" was published in the early 1870s, which became the ideological foundation for the program of the "young ones" - the post-insurrection generation.
 
-2. **Edycja z 1879**: Polskie wydanie skrócone "Systemu Logiki" ukazało się w 1879 roku, a pełne wydanie w tomach 1-2 dopiero w 1962 roku.
+2. **Edition from 1879**: A shortened Polish edition of "System of Logic" appeared in 1879, while the complete edition in volumes 1-2 was only published in 1962.
 
-3. **Historyczne wydania cyfrowe**: Najstarsze polskie wydania "O wolności" z 1864 i 1868 roku są dostępne w zbiorach cyfrowych Polony i Śląskiej Biblioteki Cyfrowej.
+3. **Historical digital editions**: The oldest Polish editions of "On Liberty" from 1864 and 1868 are available in the digital collections of Polona and the Silesian Digital Library.
 
-### Współczesne wydania
-4. **Wydawnictwo PWN**: Obecnie "O wolności" ukazuje się w ramach serii "Biblioteka Klasyków Filozofii" w połączeniu z "Utylitaryzmem".
+### Contemporary editions
+4. **PWN Publishing**: Currently "On Liberty" is published as part of the "Library of Philosophy Classics" series in combination with "Utilitarianism".
 
-5. **Tłumaczenie A. Kurlandzkiej**: Specjalne polskie tłumaczenie autorstwa A. Kurlandzkiej zostało wydane przez Wydawnictwo Akme w Warszawie w 2002 roku.
+5. **Translation by A. Kurlandzka**: A special Polish translation by A. Kurlandzka was published by Akme Publishing in Warsaw in 2002.
 
-6. **Dostępność współczesna**: Dzieło jest dostępne w polskich księgarniach jako książka, ebook i audiobook przez takich wydawców jak Onepress, Znak, PWN i Sensus.
+6. **Contemporary availability**: The work is available in Polish bookstores as a book, ebook and audiobook through publishers like Onepress, Znak, PWN and Sensus.
 
-## Recepcja w polskim środowisku intelektualnym
+## Reception in Polish intellectual circles
 
-### Wpływ na pozytywizm polski
-7. **Fundament ideologiczny**: Filozofia Milla, łącząca wolność z utylitaryzmem, była wielką inspiracją dla polskich intelektualistów i pisarzy okresu pozytywistycznego.
+### Influence on Polish positivism
+7. **Ideological foundation**: Mill's philosophy, combining freedom with utilitarianism, was a great inspiration for Polish intellectuals and writers of the positivist period.
 
-8. **Pokolenie "młodych"**: Mill był tłumaczony, czytany i komentowany przez pokolenie poinsurekcyjne, które szukało nowych dróg rozwoju społecznego po powstaniu styczniowym.
+8. **Generation of the "young ones"**: Mill was translated, read and commented on by the post-insurrection generation, which sought new paths of social development after the January Uprising.
 
-9. **Dominacja w filozofii polskiej**: Filozofia Milla, sprzymierzona z poglądami Comte'a, przez wiele lat dominowała w Europie, a jej znaczenie było ogromne zwłaszcza wśród najszerszych kręgów inteligencji.
+9. **Dominance in Polish philosophy**: Mill's philosophy, allied with Comte's views, dominated Europe for many years, and its significance was enormous especially among the broadest circles of the intelligentsia.
 
-### Szkoła Lwowsko-Warszawska i filozofia analityczna
-10. **Metoda analityczna**: Chociaż nie ma bezpośrednich cytatów, Szkoła Lwowsko-Warszawska (założona przez Kazimierza Twardowskiego w 1895) reprezentowała podobne dążenie do jasności i precyzji myślenia, które charakteryzowało również Milla.
+### Lviv-Warsaw School and analytical philosophy
+10. **Analytical method**: Although there are no direct quotations, the Lviv-Warsaw School (founded by Kazimierz Twardowski in 1895) represented a similar pursuit of clarity and precision in thinking that also characterized Mill.
 
-11. **Antyirracjonalizm**: Programowy antyirracjonalizm i dążenie do precyzji w myśleniu i wyrażaniu myśli w Szkole Lwowsko-Warszawskiej korespondowało z metodologicznym podejściem Milla.
+11. **Anti-irrationalism**: The programmatic anti-irrationalism and pursuit of precision in thinking and expressing thoughts in the Lviv-Warsaw School corresponded with Mill's methodological approach.
 
-## Kontekst edukacyjny w Polsce
+## Educational context in Poland
 
-### Nauczanie w szkołach średnich
-12. **Lektura maturalna**: "O wolności" Milla jest wykorzystywana w przygotowaniu do matury z WOS-u (Wiedza o Społeczeństwie) jako przykład klasycznej dyskusji o wolności jednostki.
+### Teaching in secondary schools
+12. **Matura reading**: Mill's "On Liberty" is used in preparation for the matura exam in WOS (Knowledge about Society) as an example of classical discussion about individual freedom.
 
-13. **Materiały MaturaMinds**: Platforma MaturaMinds oferuje szczegółowe lekcje i materiały interaktywne o filozofii Milla w ramach kursu filozofii, pomagające uczniom w przygotowaniu do egzaminu maturalnego.
+13. **MaturaMinds materials**: The MaturaMinds platform offers detailed lessons and interactive materials about Mill's philosophy as part of the philosophy course, helping students prepare for the matura exam.
 
-14. **Gimnazjum we Wrocławiu**: LO XIII we Wrocławiu udostępnia tekst "O wolności" jako materiał dydaktyczny dla uczniów studiujących filozofię.
+14. **Gymnasium in Wrocław**: High School XIII in Wrocław provides the text of "On Liberty" as teaching material for students studying philosophy.
 
-### Studia uniwersyteckie
-15. **Lektura akademicka**: Książka jest polecana studentom i wykładowcom filozofii, socjologii, prawa i politologii na polskich uczelniach.
+### University studies
+15. **Academic reading**: The book is recommended to students and lecturers of philosophy, sociology, law and political science at Polish universities.
 
-16. **Wymogi studenckie**: Zadania uniwersyteckie wymagają esejów (1800-2400 znaków) zawierających co najmniej jeden krótki cytat z tekstu Milla z dokładnym przypisem.
+16. **Student requirements**: University assignments require essays (1800-2400 characters) containing at least one short quote from Mill's text with accurate citation.
 
-17. **Studocu**: Na platformie Studocu dostępne są polskie notatki studenckie z Uniwersytetu Jagiellońskiego dotyczące "Utylitaryzmu" i "O wolności".
+17. **Studocu**: Polish student notes from the Jagiellonian University regarding "Utilitarianism" and "On Liberty" are available on the Studocu platform.
 
-## Adaptacje teatralne i kulturowe
+## Theatrical and cultural adaptations
 
-### Teatr Komuna Warszawa
-18. **"Mill/Maslow"**: Jedyną znaczącą polską adaptacją teatralną związaną z Millem był spektakl "Mill/Maslow" Teatru Komuna Warszawa w reżyserii Grzegorza Laszuka.
+### Komuna Theatre Warsaw
+18. **"Mill/Maslow"**: The only significant Polish theatrical adaptation related to Mill was the play "Mill/Maslow" by Komuna Theatre Warsaw directed by Grzegorz Laszuk.
 
-19. **Koncepcja spektaklu**: Przedstawienie bazowało na autobiografii J.S. Milla i konfrontowało jego biografię z hierarchią potrzeb Abrahama Maslowa, badając prawdę o przeznaczeniu w ludzkim życiu.
+19. **Concept of the play**: The performance was based on J.S. Mill's autobiography and confronted his biography with Abraham Maslow's hierarchy of needs, examining the truth about destiny in human life.
 
-20. **Portret filozofa**: Mill był przedstawiony jako "święty racjonalizmu" - dobry człowiek, uczciwy polityk, komunikatywny autor i bezkompromisowy liberał.
+20. **Portrait of the philosopher**: Mill was presented as a "saint of rationalism" - a good man, honest politician, communicative author and uncompromising liberal.
 
-## Współczesne interpretacje i znaczenie
+## Contemporary interpretations and significance
 
-### Filozofia współczesna
-21. **Relevancja dla nowoczesności**: Poglądy Milla zachowały swoją aktualność, można stwierdzić, że kultura polityczna każdego kraju pozostaje wyraźnie zależna od znajomości pism tego filozofa.
+### Contemporary philosophy
+21. **Relevance for modernity**: Mill's views have retained their relevance; it can be stated that the political culture of every country remains clearly dependent on knowledge of this philosopher's writings.
 
-22. **Połączenie z polskim modernizmem**: W kontekście Młodej Polski (polskiego modernizmu), Mill reprezentował dążenie do wolności indywidualnej, które rezonowało z modernistycznymi poszukiwaniami nowych dróg w sztuce.
+22. **Connection with Polish modernism**: In the context of Young Poland (Polish modernism), Mill represented the pursuit of individual freedom that resonated with modernist searches for new paths in art.
 
-23. **Współczesna filozofia wolności**: Mill's koncepcja wolności znajduje odbicie we współczesnym polskim dyskursie filozoficznym, szczególnie w dyskusjach o granicach władzy państwa i relacji jednostka-społeczeństwo.
+23. **Contemporary philosophy of freedom**: Mill's concept of freedom finds reflection in contemporary Polish philosophical discourse, particularly in discussions about the limits of state power and individual-society relations.
 
-## Kluczowe cytaty i interpretacje
+## Key quotes and interpretations
 
-### Podstawowe tezy Milla w polskim kontekście
-24. **Zasada szkody**: Mill wyznacza sferę aktywności stanowiącą bezwzględną domenę ludzkiej wolności, w tym wolność sumienia, opinii, gustów i zawodów, wybór własnego planu życiowego według własnej woli.
+### Mill's basic theses in Polish context
+24. **Harm principle**: Mill defines a sphere of activity that constitutes the absolute domain of human freedom, including freedom of conscience, opinion, tastes and professions, choosing one's own life plan according to one's own will.
 
-25. **Granice wolności**: "Ludzka wolność ograniczona jest tylko wolnością drugiego człowieka" - ta teza Milla była szczególnie istotna w polskim kontekście walki o niepodległość.
+25. **Limits of freedom**: "Human freedom is limited only by another person's freedom" - this thesis of Mill was particularly important in the Polish context of the struggle for independence.
 
-26. **Tyrania większości**: Mill ostrzegał przed "społeczną tyranią" praktykowaną przez większość społeczeństwa - temat szczególnie aktualny w polskich debatach o demokracji.
+26. **Tyranny of the majority**: Mill warned against "social tyranny" practiced by the majority of society - a topic particularly relevant in Polish debates about democracy.
 
-## Wpływ na polską myśl polityczną
+## Influence on Polish political thought
 
-### Liberalizm polski
-27. **Tradycja liberalna**: Mill przyczynił się do kształtowania polskiej tradycji liberalnej, która znalazła kontynuację w pismach ekonomistów i filozofów politycznych XX wieku.
+### Polish liberalism
+27. **Liberal tradition**: Mill contributed to shaping the Polish liberal tradition, which found continuation in the writings of economists and political philosophers of the 20th century.
 
-28. **Centrum im. Adama Smitha**: Współczesne polskie instytucje liberalne, jak Centrum im. Adama Smitha, odwołują się do tradycji Milla jako "demokratycznego liberała".
+28. **Adam Smith Center**: Contemporary Polish liberal institutions, such as the Adam Smith Center, refer to Mill's tradition as a "democratic liberal".
 
-## Specyfika polska recepcji
+## Polish specificity of reception
 
-### Kontekst historyczny
-29. **Okres zaborów**: Mill's myśl o wolności jednostki miała szczególne znaczenie w kontekście polskich zaborów, gdzie wolność narodowa i indywidualna były ściśle powiązane.
+### Historical context
+29. **Period of partitions**: Mill's thought about individual freedom had special significance in the context of Polish partitions, where national and individual freedom were closely linked.
 
-30. **Transformacja ustrojowa**: Po 1989 roku dzieła Milla nabrały nowego znaczenia jako podstawa teoretyczna dla budowy demokratycznego państwa prawa w Polsce.
+30. **System transformation**: After 1989, Mill's works gained new meaning as a theoretical foundation for building a democratic state of law in Poland.
 
-## Bibliografia źródeł polskich
+## Bibliography of Polish sources
 
-- Encyklopedia PWN - hasło "Mill John Stuart, O wolności"
-- Materiały dydaktyczne zpe.gov.pl o filozofii XIX wieku
-- Publikacje akademickie o Szkole Lwowsko-Warszawskiej
-- Spektakl "Mill/Maslow" - Teatr Komuna Warszawa
-- MaturaMinds - materiały o utylitaryzmie i wolności Milla
+- PWN Encyclopedia - entry "Mill John Stuart, On Liberty"
+- Teaching materials from zpe.gov.pl about 19th century philosophy
+- Academic publications about the Lviv-Warsaw School
+- Play "Mill/Maslow" - Komuna Theatre Warsaw
+- MaturaMinds - materials about Mill's utilitarianism and freedom
 
 ---
 
-**Nota kulturowa**: Mill's "O wolności" zajmuje szczególne miejsce w polskiej tradycji intelektualnej jako dzieło, które łączy uniwersalne wartości liberalne z polskim doświadczeniem walki o wolność narodową i indywidualną. Jego recepcja w Polsce pokazuje, jak klasyczne idee filozoficzne adaptują się do lokalnych kontekstów historycznych i kulturowych.
+**Cultural note**: Mill's "On Liberty" occupies a special place in Polish intellectual tradition as a work that combines universal liberal values with Polish experience of struggle for national and individual freedom. Its reception in Poland shows how classical philosophical ideas adapt to local historical and cultural contexts.

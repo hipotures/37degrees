@@ -1,0 +1,15 @@
+media_info:
+  title: Aveley Alien Abduction - October 27, 1974
+  author: Historical Documentation
+  year: 1974
+  genre: Unexplained Phenomena Documentary
+  description: A family of four was abducted by a blue UFO with occupants described
+    as "four foot high hairy beings, with large eyes and pointed ears"
+  target_audience: General public, students, UFO researchers, alien encounter enthusiasts
+  duration: ~3 minutes
+  objective: Recreate one of Britain's most detailed alien abduction cases with
+    witness testimonies and the mysterious missing time experience
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

@@ -1,180 +1,180 @@
-# Tako rzecze Zaratustra - Historia powstania i fascynujące fakty
+# Thus Spoke Zarathustra - Creation History and Fascinating Facts
 
-## Informacje podstawowe
-- **Tytuł oryginalny**: Also sprach Zarathustra: Ein Buch für Alle und Keinen
-- **Autor**: Friedrich Nietzsche
-- **Rok wydania**: 1883-1885
-- **Gatunek**: Filozofia, fikcja filozoficzna
+## Basic Information
+- **Original Title**: Also sprach Zarathustra: Ein Buch für Alle und Keinen
+- **Author**: Friedrich Nietzsche
+- **Publication Year**: 1883-1885
+- **Genre**: Philosophy, philosophical fiction
 
-## 1. OKOLICZNOŚCI POWSTANIA KSIĄŻKI
+## 1. CIRCUMSTANCES OF BOOK CREATION
 
-### **FAKT** - Niezwykła szybkość pisania
-Nietzsche napisał każdą z pierwszych trzech części książki w zaledwie **10 dni**. To oznacza, że powstała ona w zaledwie 30 dni roboczych, rozłożonych na kilka lat.
+### **FACT** - Extraordinary writing speed
+Nietzsche wrote each of the first three parts of the book in just **10 days**. This means it was created in only 30 working days, spread over several years.
 
-### **FAKT** - Pisanie w chorobie i nędzy
-Pierwszą część napisał zimą 1882-83 w małej gospodzie niedaleko Rapallo we Włoszech, gdzie był tak blisko wody, że hałas morza budził go w nocy. Cierpiał wówczas na grypę, migreny i problemy żołądkowe.
+### **FACT** - Writing in illness and poverty
+He wrote the first part during winter 1882-83 in a small inn near Rapallo in Italy, where he was so close to the water that the noise of the sea woke him at night. He was suffering from flu, migraines, and stomach problems at the time.
 
-### **FAKT** - Inspiracja podczas spaceru
-Całą pierwszą część "wymyślił podczas forsownych wędrówek" po "wspaniałej drodze do Zoagli" we Włoszech. Twierdził, że każde zdanie "było mu wykrzykiwane" podczas chodzenia.
+### **FACT** - Inspiration during walks
+He "conceived" the entire first part during "vigorous hikes" along the "magnificent road to Zoagli" in Italy. He claimed that every sentence was "shouted to him" while walking.
 
-### **FAKT** - Wizja przy piramidalnalnej skale
-W lipcu 1881 roku podczas spaceru nad jeziorem Silvaplana w Sils-Maria w Szwajcarii, przy potężnej piramidalnej skale niedaleko Surlei, Nietzsche miał wizję wiecznego powrotu - podstawowej koncepcji swojego dzieła.
+### **FACT** - Vision at the pyramidal rock
+In July 1881, during a walk by Lake Silvaplana in Sils-Maria, Switzerland, near a massive pyramidal rock near Surlei, Nietzsche had a vision of eternal recurrence - the fundamental concept of his work.
 
-### **FAKT** - Najcięższy okres życia
-Nietzsche opisywał zimę 1882-83, kiedy pisał pierwszą część, jako "najcięższą i najchorsza pod względem zdrowotnym, jaką kiedykolwiek przeżył".
+### **FACT** - The most difficult period of his life
+Nietzsche described the winter of 1882-83, when he wrote the first part, as "the heaviest and worst in terms of health that he had ever experienced."
 
-## 2. KONTEKST BIOGRAFICZNY AUTORA
+## 2. AUTHOR'S BIOGRAPHICAL CONTEXT
 
-### **FAKT** - Złamane serce Lou Salomé
-W 1882 roku Nietzsche przeżył największe romantyczne rozczarowanie swojego życia, gdy stało się jasne, że nigdy nie poślubi Lou Salomé. Pisanie Zaratustry było częścią procesu przebolewaienia tego zawodu.
+### **FACT** - Broken heart over Lou Salomé
+In 1882, Nietzsche experienced the greatest romantic disappointment of his life when it became clear that he would never marry Lou Salomé. Writing Zarathustra was part of his process of overcoming this heartbreak.
 
-### **FAKT** - Rezygnacja ze stanowiska z powodu zdrowia
-W 1879 roku Nietzsche musiał zrezygnować ze stanowiska profesora filologii klasycznej na Uniwersytecie w Bazylei z powodu problemów zdrowotnych i przeszedł na emeryturę.
+### **FACT** - Resignation from position due to health
+In 1879, Nietzsche had to resign from his position as professor of classical philology at the University of Basel due to health problems and went into retirement.
 
-### **FAKT** - Migreny od dzieciństwa
-Nietzsche cierpiał na migreny od 9. roku życia. Ataki stawały się coraz częstsze i czasami trwały do 6 dni (status migrainosus), pozwalając mu myśleć tylko kilka godzin dziennie.
+### **FACT** - Migraines since childhood
+Nietzsche suffered from migraines from age 9. The attacks became increasingly frequent and sometimes lasted up to 6 days (status migrainosus), allowing him to think clearly only a few hours per day.
 
-### **FAKT** - Prawie całkowita ślepota
-Do 1878 roku Nietzsche był prawie całkowicie ślepy, a prawe oko było już wcześniej niewidzące. Problemy ze wzrokiem rozpoczęły się w wieku 12 lat.
+### **FACT** - Nearly complete blindness
+By 1878, Nietzsche was almost completely blind, and his right eye had been non-functioning earlier. Vision problems began at age 12.
 
-### **FAKT** - Trójkąt miłosny z Lou Salomé i Paulem Rée
-Nietzsche poznał Lou Salomé przez swojego przyjaciela Paula Rée w Rzymie w kwietniu 1882. Obaj mężczyźni się w niej zakochali. Salomé odrzuciła oświadczyny obu, ale zaproponowała życie we trójkę jako "brat i siostra" dla celów naukowych.
+### **FACT** - Love triangle with Lou Salomé and Paul Rée
+Nietzsche met Lou Salomé through his friend Paul Rée in Rome in April 1882. Both men fell in love with her. Salomé rejected proposals from both but suggested living together as "brother and sister" for scholarly purposes.
 
-## 3. PROCES TWÓRCZY
+## 3. CREATIVE PROCESS
 
-### **FAKT** - "Absolutna pewność" podczas tworzenia
-Nietzsche opisywał swój proces twórczy: "Bezwiedność postaci i porównań jest najzamykającniejsza; człowiek traci wszelkie poczucie tego, co stanowi postać, a co porównanie."
+### **FACT** - "Absolute certainty" during creation
+Nietzsche described his creative process: "The involuntariness of figure and parable is the most remarkable; one loses all sense of what constitutes figure and what parable."
 
-### **FAKT** - "Święte miejsce" w górach
-Nietzsche nazywał Sils-Maria "świętym miejscem", gdzie "znalazł" drugą i trzecią część Zaratustry podczas letnich pobytów w 1883 i 1884 roku.
+### **FACT** - "Sacred place" in the mountains
+Nietzsche called Sils-Maria his "sacred place," where he "found" the second and third parts of Zarathustra during summer stays in 1883 and 1884.
 
-### **FAKT** - 10 godzin dziennie chodzenia
-W wieku około 35 lat Nietzsche uprawiał "10 godzin dziennie pustelniczych spacerów" w górach szwajcarskich. To była jego "złota dekada" pisania.
+### **FACT** - 10 hours of daily walking
+Around age 35, Nietzsche practiced "10 hours daily of hermit walks" in the Swiss mountains. This was his "golden decade" of writing.
 
-### **FAKT** - Wpływ chorób na styl
-Uczeni sugerują, że choroba Nietzschego mogła wpłynąć na jego styl filozoficzny, szczególnie użycie aforyzmów, które pisał w krótkich okienkach między napadami migren.
+### **FACT** - Influence of illness on style
+Scholars suggest that Nietzsche's illness may have influenced his philosophical style, particularly his use of aphorisms, which he wrote during brief windows between migraine attacks.
 
-## 4. DROGA DO PUBLIKACJI
+## 4. PATH TO PUBLICATION
 
-### **FAKT** - Komercjalna porażka za życia
-"Tako rzecze Zaratustra" było komercjalną porażką za życia Nietzschego. Jego książki "pozostały w dużej mierze niesprzedane", a rynek przyjmował je "tylko w stopniu wymaganym przez uprzejmość".
+### **FACT** - Commercial failure during his lifetime
+"Thus Spoke Zarathustra" was a commercial failure during Nietzsche's lifetime. His books "remained largely unsold," and the market accepted them "only to the extent required by courtesy."
 
-### **FAKT** - Zerwanie z wydawcą antysemica
-Nietzsche zerwał z wydawcą Ernstem Schmeitznerem w 1886 roku z powodu antysemickickich poglądów wydawcy i opóźnień w publikacji Zaratustry spowodowanych zaangażowaniem politycznym Schmeitzera w Antyżydowski Sojusz.
+### **FACT** - Break with anti-Semitic publisher
+Nietzsche broke with publisher Ernst Schmeitzner in 1886 due to the publisher's anti-Semitic views and delays in publishing Zarathustra caused by Schmeitzner's political involvement in the Anti-Jewish League.
 
-### **FAKT** - Czwarta część - tylko 40 kopii
-W 1885 roku Nietzsche wydrukował tylko 40 egzemplarzy czwartej części na własny koszt. Z tych 40 kopii rozdał tylko 7 osobom, które uznał za "godne" otrzymania dzieła.
+### **FACT** - Fourth part - only 40 copies
+In 1885, Nietzsche printed only 40 copies of the fourth part at his own expense. Of these 40 copies, he distributed only 7 to people he deemed "worthy" of receiving the work.
 
-### **FAKT** - Instrukcja do siostry o utrzymywaniu tajemnicy
-W maju 1885 roku Nietzsche napisał do siostry Elisabeth: "Wysyłam również 2 egzemplarze czwartej części, dla Ciebie i dr Förstera, z wyraźną prośbą, aby ta czwarta część była wszędzie trzymana w tajemnicy, jakby nie istniała".
+### **FACT** - Instructions to sister about maintaining secrecy
+In May 1885, Nietzsche wrote to his sister Elisabeth: "I am also sending 2 copies of the fourth part, for you and Dr. Förster, with the express request that this fourth part be kept secret everywhere, as if it didn't exist."
 
-### **FAKT** - Pierwsze wydanie zbiorowe w 1887
-Pierwsze trzy części zostały po raz pierwszy opublikowane razem w jednym tomie w 1887 roku.
+### **FACT** - First collected edition in 1887
+The first three parts were first published together in one volume in 1887.
 
-## 5. INSPIRACJE I WPŁYWY
+## 5. INSPIRATIONS AND INFLUENCES
 
-### **FAKT** - Wybór Zaratustry jako rewanż
-Nietzsche wybrał postać Zaratustry/Zoroastra, ponieważ uważał perskiego proroka za twórcę pierwszego systemu moralnego, który rozwinął się w moralność judeochrześcijańską. Czuł, że fikcyjny Zaratustra powinien być tym, który zburzy system moralny stworzony przez prawdziwego Zaratustrę.
+### **FACT** - Choice of Zarathustra as revenge
+Nietzsche chose the figure of Zarathustra/Zoroaster because he considered the Persian prophet the creator of the first moral system that developed into Judeo-Christian morality. He felt that the fictional Zarathustra should be the one to destroy the moral system created by the real Zarathustra.
 
-### **FAKT** - Czytał dzieła o zoroastryzmie
-Nietzsche wielokrotnie czytał "Symbolik und Mythologie der alten Volker" (1812) Georga Friedricha Creuzera, które zawierało rozdziały o "religii aryjskiej" i zoroastryjskiej "demonologii, kosmogonii i eschatologii".
+### **FACT** - Read works on Zoroastrianism
+Nietzsche repeatedly read "Symbolik und Mythologie der alten Volker" (1812) by Georg Friedrich Creuzer, which contained chapters on "Aryan religion" and Zoroastrian "demonology, cosmogony, and eschatology."
 
-### **FAKT** - Wpływ Ralpha Waldo Emersona
-Nietzsche głęboko podziwiał Ralpha Waldo Emersona, którego uważał za swoją "bratnią duszę". Emerson w swoich dziełach intensywnie czerpał z źródeł perskich.
+### **FACT** - Influence of Ralph Waldo Emerson
+Nietzsche deeply admired Ralph Waldo Emerson, whom he considered his "kindred spirit." Emerson drew intensively from Persian sources in his works.
 
-### **FAKT** - Perskie cnoty prawdy
-Nietzsche podkreślał perskie cnoty: "Mówić prawdę i celować prosto: to pierwsza perska cnota" oraz "Mówić prawdę i dobrze strzelać z łuku, to jest perska cnota".
+### **FACT** - Persian virtues of truth
+Nietzsche emphasized Persian virtues: "To speak the truth and aim straight: that is the first Persian virtue" and "To speak the truth and shoot well with the bow, that is the Persian virtue."
 
-### **FAKT** - Tylko jedno pośrednie nawiązanie do Persów
-W całym tekście "Tako rzecze Zaratustra" jest tylko "jedno pośrednie nawiązanie do Persów i ich wierzeń", podczas gdy obfituje w odniesienia biblijne.
+### **FACT** - Only one indirect reference to Persians
+In the entire text of "Thus Spoke Zarathustra" there is only "one indirect reference to Persians and their beliefs," while it abounds in biblical references.
 
-## 6. ZERWANIE Z WAGNEREM
+## 6. BREAK WITH WAGNER
 
-### **FAKT** - Koniec przyjaźni przez książkę
-Gdy Nietzsche wysłał Richardowi Wagnerowi swoją książkę "Ludzkie, arcyludzkie" na początku 1878 roku, skutecznie zakończyło to ich przyjaźń. Nietzsche później napisał, że jego książka i libretto Parsifala Wagnera "skrzyżowały się w poczcie, jakby dwa miecze się skrzyżowały".
+### **FACT** - End of friendship through a book
+When Nietzsche sent Richard Wagner his book "Human, All Too Human" in early 1878, it effectively ended their friendship. Nietzsche later wrote that his book and Wagner's Parsifal libretto "crossed in the mail, like two swords crossing."
 
-### **FAKT** - Wagner wprowadził Nietzschego w antysemityzm
-W Tribschen w Szwajcarii Richard i Cosima Wagner wprowadzili Nietzschego w proto-antysemicką ideologię. Wagner opublikował "Das Judenthum in der Musik" w 1850, potępiając Żydów.
+### **FACT** - Wagner introduced Nietzsche to anti-Semitism
+At Tribschen in Switzerland, Richard and Cosima Wagner introduced Nietzsche to proto-anti-Semitic ideology. Wagner published "Das Judenthum in der Musik" in 1850, condemning Jews.
 
-### **FAKT** - Nietzsche przezwyciężył antysemityzm
-Po zerwaniu z Wagnerem w 1876 roku Nietzsche rozwinął postawę "anty-antysemityzmu" i często śmiał się i jednoznacznie potępiał niemieckie antysemickie ruchy polityczne.
+### **FACT** - Nietzsche overcame anti-Semitism
+After breaking with Wagner in 1876, Nietzsche developed an "anti-anti-Semitic" stance and often laughed at and unequivocally condemned German anti-Semitic political movements.
 
-### **FAKT** - Elisabeth i antysemicki mąż
-Elisabeth i Friedrich rozeszli się w 1885, gdy poślubiła Bernharda Förstera, prominentnego niemieckiego nacjonalistę i antysemitę. Nietzsche eksplodował z wściekłości, dowiadując się o zainteresowaniu siostry Försterem.
+### **FACT** - Elisabeth and anti-Semitic husband
+Elisabeth and Friedrich fell out in 1885 when she married Bernhard Förster, a prominent German nationalist and anti-Semite. Nietzsche exploded with rage upon learning of his sister's interest in Förster.
 
-## 7. ANEGDOTY I CIEKAWOSTKI
+## 7. ANECDOTES AND CURIOSITIES
 
-### **FAKT** - Myśl samobójcza po odrzuceniu
-W grudniu 1882 roku, po odrzuceniu przez Lou Salomé, Nietzsche napisał w szkicu listu: "Dziś wieczorem wezmę tyle opium, że stracę wszelki rozsądek".
+### **FACT** - Suicidal thoughts after rejection
+In December 1882, after being rejected by Lou Salomé, Nietzsche wrote in a draft letter: "Tonight I will take so much opium that I will lose all reason."
 
-### **FAKT** - Żadnej rewizji tekstu
-Nietzsche napisał dzieło "w dziesięciodniowych przypływach inspiracji i jasne jest, że nie rewidował swojej pracy bardzo starannie".
+### **FACT** - No revision of text
+Nietzsche wrote the work "in ten-day bursts of inspiration and it is clear that he did not revise his work very carefully."
 
-### **FAKT** - Pisanie mimo ślepoty
-Pomimo prawie całkowitej ślepoty, Nietzsche kontynuował pisanie, co czyni jego osiągnięcie jeszcze bardziej niezwykłym.
+### **FACT** - Writing despite blindness
+Despite being almost completely blind, Nietzsche continued writing, which makes his achievement even more remarkable.
 
-### **PLOTKA** - Teoria CADASIL
-Współczesne badania medyczne sugerują, że Nietzsche mógł cierpieć na CADASIL (mózgową autosomalną dominującą arteriopatię), a nie na syfilis, jak wcześniej sądzono. Jego ojciec miał podobne objawy i zmarł w wieku 46 lat.
+### **RUMOR** - CADASIL theory
+Contemporary medical research suggests that Nietzsche may have suffered from CADASIL (cerebral autosomal dominant arteriopathy), not syphilis as previously thought. His father had similar symptoms and died at age 46.
 
-### **FAKT** - Godność w cierpieniu
-Nietzsche stawił wielki nacisk na "zdrowie" i szczególnie na rodzaj zdrowia, które przezwycięża chorobę i cierpienie, co odzwierciedlało jego osobiste doświadczenia.
+### **FACT** - Dignity in suffering
+Nietzsche placed great emphasis on "health" and particularly on the kind of health that overcomes illness and suffering, which reflected his personal experiences.
 
-## 8. WPŁYW KULTUROWY
+## 8. CULTURAL IMPACT
 
-### **FAKT** - Richard Strauss napisał poemat symfoniczny
-W 1896 roku Richard Strauss skomponował poemat symfoniczny "Also sprach Zarathustra, Op. 30", inspirowany dziełem Nietzschego.
+### **FACT** - Richard Strauss wrote symphonic poem
+In 1896, Richard Strauss composed the symphonic poem "Also sprach Zarathustra, Op. 30," inspired by Nietzsche's work.
 
-### **FAKT** - Użycie w "2001: Odysea kosmiczna"
-Początkowa fanfara z kompozycji Straussa stała się powszechnie znana po jej użyciu w filmie Stanley'a Kubricka "2001: Odysea kosmiczna" z 1968 roku.
+### **FACT** - Use in "2001: A Space Odyssey"
+The opening fanfare from Strauss's composition became widely known after its use in Stanley Kubrick's 1968 film "2001: A Space Odyssey."
 
-### **FAKT** - Motyw w muzyce filmowej
-Kompozytorzy tacy jak Aaron Copland (w "Fanfare for the Common Man") i John Williams (w utworze otwierającym "Superman March") oddali hołd temu motywowi.
+### **FACT** - Motif in film music
+Composers such as Aaron Copland (in "Fanfare for the Common Man") and John Williams (in the opening "Superman March") paid homage to this motif.
 
-### **FAKT** - Grammy za jazz-funkową wersję
-Eumir Deodato's jazz-funkowa wersja utworu Straussa wygrała Grammy w 1974 roku za najlepsze wykonanie instrumentalne pop.
+### **FACT** - Grammy for jazz-funk version
+Eumir Deodato's jazz-funk version of Strauss's piece won a Grammy in 1974 for Best Pop Instrumental Performance.
 
-### **FAKT** - Użycie w filmie "Barbie"
-W 2023 roku utwór został użyty dwukrotnie w filmie Grety Gerwig "Barbie", w scenie otwierającej parodiującej sekwencję "Świt człowieka" z "2001: Odysea kosmiczna".
+### **FACT** - Use in "Barbie" film
+In 2023, the piece was used twice in Greta Gerwig's film "Barbie," in the opening scene parodying the "Dawn of Man" sequence from "2001: A Space Odyssey."
 
-## 9. LICZBY I STATYSTYKI
+## 9. NUMBERS AND STATISTICS
 
-### **FAKT** - 4 części, 3 lata publikacji
-Dzieło zostało opublikowane w czterech tomach między 1883 a 1885 rokiem.
+### **FACT** - 4 parts, 3 years of publication
+The work was published in four volumes between 1883 and 1885.
 
-### **FAKT** - Każda część w 10 dni
-Nietzsche napisał każdą z pierwszych trzech części w okresie zaledwie 10 dni.
+### **FACT** - Each part in 10 days
+Nietzsche wrote each of the first three parts in a period of just 10 days.
 
-### **FAKT** - 40 egzemplarzy czwartej części
-Tylko 40 kopii czwartej części zostało wydrukowanegoych na koszt autora w 1885 roku.
+### **FACT** - 40 copies of fourth part
+Only 40 copies of the fourth part were printed at the author's expense in 1885.
 
-### **FAKT** - 7 z 40 kopii rozdanych
-Z 40 wydrukowanych kopii czwartej części Nietzsche rozdał tylko 7.
+### **FACT** - 7 out of 40 copies distributed
+Of the 40 printed copies of the fourth part, Nietzsche distributed only 7.
 
-### **FAKT** - 6000 stóp nad poziomem morza
-Nietzsche opisał swoje doświadczenie w Sils-Maria jako przebywanie "6000 stóp ponad człowiekiem i czasem".
+### **FACT** - 6000 feet above sea level
+Nietzsche described his experience in Sils-Maria as being "6000 feet above man and time."
 
-### **FAKT** - Migreny od 9. roku życia
-Nietzsche cierpiał na migreny od wieku 9 lat, czyli przez około 46 lat swojego życia.
+### **FACT** - Migraines from age 9
+Nietzsche suffered from migraines from age 9, meaning for about 46 years of his life.
 
-### **FAKT** - 10 godzin spacerów dziennie
-W okresie swojej największej kreatywności Nietzsche uprawiał 10 godzin "pustelniczych spacerów" dziennie.
+### **FACT** - 10 hours of walks daily
+During his period of greatest creativity, Nietzsche practiced 10 hours of "hermit walks" daily.
 
-## 10. FAKTY O WYDANIACH I TŁUMACZENIACH
+## 10. FACTS ABOUT EDITIONS AND TRANSLATIONS
 
-### **FAKT** - Pierwsze tłumaczenie angielskie w 1896
-Pierwszego angielskiego tłumaczenia dokonał Alexander Tille w 1896 roku.
+### **FACT** - First English translation in 1896
+The first English translation was made by Alexander Tille in 1896.
 
-### **FAKT** - Problematyczne wydania Elisabeth
-Po śmierci Nietzschego jego siostra Elisabeth nadzorowała pierwsze wydania jego pism, ale jej antysemickie przekonania miały wpływ redakcyjny na dzieło.
+### **FACT** - Problematic editions by Elisabeth
+After Nietzsche's death, his sister Elisabeth supervised the first editions of his writings, but her anti-Semitic convictions had editorial influence on the work.
 
-### **FAKT** - Wydanie Cambridge z 2006
-W 2006 roku Cambridge University Press opublikowało tłumaczenie Adriana Del Caro (redagowane przez Del Caro i Roberta Pippina).
+### **FACT** - Cambridge edition from 2006
+In 2006, Cambridge University Press published a translation by Adrian Del Caro (edited by Del Caro and Robert Pippin).
 
-### **FAKT** - Błędne skojarzenia z faszyzmem
-Przez wydania publikowane dzieło Nietzschego zostało skojarzone z faszyzmem i nazizmem, przeciwko czemu protestowali XX-wieczni uczeni jak Walter Kaufmann i R.J. Hollingdale.
+### **FACT** - False associations with fascism
+Through published editions, Nietzsche's work became associated with fascism and Nazism, which was protested by 20th-century scholars like Walter Kaufmann and R.J. Hollingdale.
 
-## PODSUMOWANIE
+## SUMMARY
 
-"Tako rzecze Zaratustra" powstało w niezwykłych okolicznościach - w okresie choroby, samotności i osobistych tragedii Nietzschego. Paradoksalnie, te trudne warunki stworzyły idealne środowisko dla powstania jednego z najważniejszych dzieł filozofii zachodniej. Historia jego powstania to opowieść o triumfie ducha twórczego nad przeciwnościami losu, która sama w sobie stała się legendą równie fascynującą jak treść samej książki.
+"Thus Spoke Zarathustra" was created under extraordinary circumstances - during a period of illness, loneliness, and personal tragedies in Nietzsche's life. Paradoxically, these difficult conditions created the perfect environment for the creation of one of the most important works of Western philosophy. The story of its creation is a tale of creative spirit triumphing over life's adversities, which itself became a legend as fascinating as the content of the book itself.
 
-Dzieło, które za życia autora było komercjalną porażką, stało się jedną z najbardziej wpływowych książek w historii myśli zachodniej, inspirując kompozytorów, reżyserów filmowych i myślicieli na całym świecie. Jego podtytuł "Książka dla wszystkich i dla nikogo" okazał się proroczy - książka rzeczywiście dotarła do wszystkich, choć za życia Nietzschego wydawało się, że nie jest dla nikogo.
+The work, which was a commercial failure during the author's lifetime, became one of the most influential books in the history of Western thought, inspiring composers, filmmakers, and thinkers around the world. Its subtitle "A Book for All and None" proved prophetic - the book indeed reached everyone, though during Nietzsche's lifetime it seemed to be for no one.

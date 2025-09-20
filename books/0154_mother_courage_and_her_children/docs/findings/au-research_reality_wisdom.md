@@ -1,119 +1,119 @@
-# Reality Check: Co się sprawdziło, a co nie - "Matka Courage i jej dzieci" 
+# Reality Check: What Came True and What Didn't - "Mother Courage and Her Children"
 
-## 📊 Podstawowe informacje
+## 📊 Basic Information
 
-**Autor:** Bertolt Brecht  
-**Rok napisania:** 1939  
-**Kontekst:** Napisane tuż przed wybuchem II wojny światowej jako ostrzeżenie przed faszyzmem  
-**Gatunek:** Dramat epickie teatru, antywojena satira polityczna  
+**Author:** Bertolt Brecht
+**Year Written:** 1939
+**Context:** Written just before the outbreak of WWII as a warning against fascism
+**Genre:** Epic theater drama, anti-war political satire
 
 ---
 
-## 🎯 Predictions vs Reality: Co się sprawdziło
+## 🎯 Predictions vs Reality: What Came True
 
-### ✅ SPOT ON - Przewidywania które się sprawdziły (1939 → 2025)
+### ✅ SPOT ON - Predictions That Came True (1939 → 2025)
 
-#### **1. Kapitalizm wojenny i profity z konfliktu**
-- **Przewidywanie Brechta (1939):** Wojna to kontynuacja biznesu innymi środkami
-- **Reality check (2025):** Kompleksy wojskowo-przemysłowe, prywatne firmy ochroniarskie, handel bronią
-- **Modern wisdom:** "Follow the money" - zawsze sprawdź kto zarabia na konflikcie
+#### **1. War Capitalism and Conflict Profits**
+- **Brecht's Prediction (1939):** War is business by other means
+- **Reality Check (2025):** Military-industrial complexes, private security firms, arms trade
+- **Modern Wisdom:** "Follow the money" - always check who profits from conflict
 
-#### **2. Neutralne kraje czerpią profity z wojny**
-- **Przewidywanie:** Kraje "neutralne" będą zarabiać na wojnie innych
-- **Reality:** Szwajcaria w II WŚ, współczesne raje podatkowe, "neutralni" pośrednicy w handlu
-- **Lesson:** Prawdziwa neutralność nie istnieje - każdy ma swój interes
+#### **2. Neutral Countries Profit from War**
+- **Prediction:** "Neutral" countries will profit from others' wars
+- **Reality:** Switzerland in WWII, modern tax havens, "neutral" intermediaries in trade
+- **Lesson:** True neutrality doesn't exist - everyone has their interests
 
-#### **3. Zwykli ludzie płacą najwyższą cenę**
-- **1939:** Matka Courage traci dzieci, ale wojna toczy się dalej
-- **2025:** Ukraina, Gaza, Afganistan - cywile giną, politycy negocjują
-- **Universal truth:** Elite planują, ludzie umierają
+#### **3. Ordinary People Pay the Highest Price**
+- **1939:** Mother Courage loses children, but war continues
+- **2025:** Ukraine, Gaza, Afghanistan - civilians die, politicians negotiate
+- **Universal Truth:** Elites plan, people die
 
-#### **4. Propaganda i manipulacja społeczna**
-- **Brecht's insight:** "Efekt alienacji" - ludzie nie widzą prawdy
-- **Modern reality:** Social media echo chambers, fake news, deepfakes
-- **Contemporary relevance:** Potrzeba krytycznego myślenia ważniejsza niż kiedyś
+#### **4. Propaganda and Social Manipulation**
+- **Brecht's Insight:** "Alienation effect" - people don't see the truth
+- **Modern Reality:** Social media echo chambers, fake news, deepfakes
+- **Contemporary Relevance:** Critical thinking more important than ever
 
-#### **5. Ekonomiczna zależność niszczy rodziny**
-- **1939:** Courage wybiera biznes nad dzieci
+#### **5. Economic Dependency Destroys Families**
+- **1939:** Courage chooses business over children
 - **2025:** Hustle culture, workaholic parents, broken families
-- **Pattern:** Capitalism korumpuje podstawowe więzi ludzkie
+- **Pattern:** Capitalism corrupts basic human bonds
 
-#### **6. Religia wykorzystywana do usprawiedliwienia wojny**
-- **Historical context:** Wojna Trzydziestoletnia jako "święta wojna"
-- **Modern parallels:** "War on terror", konflikty religijne na Bliskim Wschodzie
-- **Timeless pattern:** Bóg zawsze jest "po naszej stronie"
+#### **6. Religion Used to Justify War**
+- **Historical Context:** Thirty Years' War as "holy war"
+- **Modern Parallels:** "War on terror", religious conflicts in Middle East
+- **Timeless Pattern:** God is always "on our side"
 
-### ❌ MISSED THE MARK - Co się nie sprawdziło
+### ❌ MISSED THE MARK - What Didn't Come True
 
-#### **1. Teatr jako narzędzie rewolucji**
-- **Brecht's dream:** Teatr epickie zmieni społeczeństwo
-- **Reality:** Netflix i TikTok wygrały z teatrem politycznym
-- **Lesson:** Media masowe bardziej wpływowe niż high art
+#### **1. Theater as Revolutionary Tool**
+- **Brecht's Dream:** Epic theater will change society
+- **Reality:** Netflix and TikTok won over political theater
+- **Lesson:** Mass media more influential than high art
 
-#### **2. Proletariat się zjednoczy**
-- **Marxist prediction:** Klasa robotnicza przejmie władzę
-- **2025 reality:** Gig economy, influencer culture, individual branding
-- **Modern twist:** Każdy chce być CEO, nie robotnikiem
+#### **2. Proletariat Will Unite**
+- **Marxist Prediction:** Working class will seize power
+- **2025 Reality:** Gig economy, influencer culture, individual branding
+- **Modern Twist:** Everyone wants to be CEO, not worker
 
-#### **3. Ludzie nauczą się z historii**
-- **Optimistic assumption:** Pokolenia wyciągną wnioski z wojen
-- **Harsh reality:** Putin, Xi, autorytaryzm 2.0
-- **Uncomfortable truth:** Ludzie powtarzają te same błędy
+#### **3. People Will Learn from History**
+- **Optimistic Assumption:** Generations will learn from wars
+- **Harsh Reality:** Putin, Xi, authoritarianism 2.0
+- **Uncomfortable Truth:** People repeat the same mistakes
 
 ---
 
 ## 💔 Relationship Patterns: Toxic vs Healthy
 
-### 🚨 RED FLAGS z 1939 nadal aktualne w 2025
+### 🚨 RED FLAGS from 1939 Still Relevant in 2025
 
-#### **Matka Courage jako toxic mother archetype:**
+#### **Mother Courage as Toxic Mother Archetype:**
 
-1. **Emotional blackmail:** "Robię to dla was" (ale naprawdę dla siebie)
-   - **Modern dating:** Partner kontroluje przez "troskę"
-   - **Family patterns:** Toxic parents justifying abuse "for your good"
+1. **Emotional Blackmail:** "I do this for you" (but really for herself)
+   - **Modern Dating:** Partner controls through "care"
+   - **Family Patterns:** Toxic parents justifying abuse "for your good"
 
-2. **Transactional love:** Miłość uzależniona od korzyści ekonomicznych
-   - **Dating red flag:** "What can you do for me?"
-   - **Marriage warning:** Prenups as emotional weapons
+2. **Transactional Love:** Love dependent on economic benefits
+   - **Dating Red Flag:** "What can you do for me?"
+   - **Marriage Warning:** Prenups as emotional weapons
 
-3. **Denial patterns:** Courage nie widzi swojej roli w tragedii
-   - **Relationship equivalent:** Gaslighting, nie branie odpowiedzialności
-   - **Modern therapy:** "It's always someone else's fault"
+3. **Denial Patterns:** Courage doesn't see her role in tragedy
+   - **Relationship Equivalent:** Gaslighting, not taking responsibility
+   - **Modern Therapy:** "It's always someone else's fault"
 
-4. **Survival over solidarity:** Każdy dla siebie
-   - **Dating:** "I'm not ready to commit" (po 3 latach)
+4. **Survival Over Solidarity:** Everyone for themselves
+   - **Dating:** "I'm not ready to commit" (after 3 years)
    - **Family:** Siblings competing instead of supporting
 
 ### 💚 Timeless Healthy Patterns
 
-#### **Co uniwersalnego pozytywnego możemy wyciągnąć:**
+#### **Universal Positive Lessons We Can Extract:**
 
-1. **Authentic communication:** Brecht's direct style
-   - **Dating wisdom:** Say what you mean, mean what you say
-   - **Family value:** Honest conversations over polite lies
+1. **Authentic Communication:** Brecht's direct style
+   - **Dating Wisdom:** Say what you mean, mean what you say
+   - **Family Value:** Honest conversations over polite lies
 
-2. **Critical thinking:** Nie łykaj propagandy
-   - **Relationship skill:** Question narratives, zejść patterns
-   - **Modern need:** Fact-check social media influence on relationships
+2. **Critical Thinking:** Don't swallow propaganda
+   - **Relationship Skill:** Question narratives, see patterns
+   - **Modern Need:** Fact-check social media influence on relationships
 
-3. **Community support:** Gdy system zawodzi, ludzie muszą się wspierać
+3. **Community Support:** When system fails, people must support each other
    - **Dating:** Build support network, not codependency
-   - **Modern family:** Chosen family often stronger than blood
+   - **Modern Family:** Chosen family often stronger than blood
 
 ---
 
-## 🌍 Generational Evolution: Co się zmieniło vs uniwersalne
+## 🌍 Generational Evolution: What Changed vs Universal
 
 ### 📈 CHANGED: Social Norms Evolution (1939 → 2025)
 
 #### **Gender Roles Revolution**
-- **1939:** Kobiety jako ofiary lub współwinnne wojny
-- **2025:** Women as leaders, pero still fighting for equality
+- **1939:** Women as victims or accomplices of war
+- **2025:** Women as leaders, but still fighting for equality
 - **Evolution:** From survival to thriving, but work-life balance still struggle
 
 #### **Authority Relationships**
 - **Then:** Blind obedience to church/state/family
-- **Now:** Question everything, pero conspiracy theories epidemic
+- **Now:** Question everything, but conspiracy theories epidemic
 - **Growth:** Healthy skepticism vs paranoid thinking
 
 #### **Economic Independence**
@@ -134,49 +134,49 @@
 - **Pattern:** Different fears, same paralysis
 
 #### **Love vs Pragmatism Tension**
-- **Courage's dilemma:** Love children vs feed them
-- **Modern parent:** Quality time vs working overtime for their future
-- **Eternal struggle:** Heart vs head decisions
+- **Courage's Dilemma:** Love children vs feed them
+- **Modern Parent:** Quality time vs working overtime for their future
+- **Eternal Struggle:** Heart vs head decisions
 
 ---
 
-## 📚 Practical Wisdom dla współczesnej młodzieży
+## 📚 Practical Wisdom for Contemporary Youth
 
 ### 🔍 Life Lessons from Epic Theatre
 
 #### **1. Develop Critical Media Literacy**
-- **Brecht's tool:** Alienation effect - nie wczuwaj się, analizuj
-- **Modern application:** 
+- **Brecht's Tool:** Alienation effect - don't empathize, analyze
+- **Modern Application:**
   - Question every TikTok trend
   - Follow the money in news sources
   - Recognize emotional manipulation in advertising
-- **Dating wisdom:** If it feels too good to be true, analyze before you fall
+- **Dating Wisdom:** If it feels too good to be true, analyze before you fall
 
 #### **2. Economics Education is Survival Skill**
-- **Courage's mistake:** Didn't understand war economy
-- **2025 necessity:** Understand capitalism, crypto, inflation, passive income
-- **Practical step:** Track where your money goes, understand sistem nie just participate
+- **Courage's Mistake:** Didn't understand war economy
+- **2025 Necessity:** Understand capitalism, crypto, inflation, passive income
+- **Practical Step:** Track where your money goes, understand system not just participate
 
 #### **3. Build Anti-Fragile Relationships**
-- **Brecht's insight:** External pressures destroy weak bonds
-- **Modern strategy:**
+- **Brecht's Insight:** External pressures destroy weak bonds
+- **Modern Strategy:**
   - Create relationships that thrive under stress
   - Support network independent of romantic partner
   - Communication skills over conflict avoidance
-- **Red flag alert:** Partners who isolate you from friends/family
+- **Red Flag Alert:** Partners who isolate you from friends/family
 
 #### **4. Recognize Propaganda in Real Time**
-- **Epic theatre skill:** See the machine behind the message
-- **Contemporary application:**
+- **Epic Theatre Skill:** See the machine behind the message
+- **Contemporary Application:**
   - Influencer marketing awareness
   - Political manipulation recognition
   - Social pressure resistance
-- **Relationship benefit:** Spot love-bombing, emotional manipulation
+- **Relationship Benefit:** Spot love-bombing, emotional manipulation
 
 #### **5. Balance Individual Success with Community Good**
-- **Courage's failing:** Pure individualism destroyed her family
-- **Gen Z opportunity:** Collective action + personal growth
-- **Practical wisdom:** Success shouldn't come at expense of relationships
+- **Courage's Failing:** Pure individualism destroyed her family
+- **Gen Z Opportunity:** Collective action + personal growth
+- **Practical Wisdom:** Success shouldn't come at expense of relationships
 
 ### 🎭 Dating Red Flags Inspired by Brecht's Characters
 
@@ -185,31 +185,31 @@
 - Uses emotional manipulation: "I sacrifice so much for us"
 - Makes unilateral decisions "for the good of the relationship"
 - Never takes responsibility for relationship problems
-- **Escape strategy:** Document patterns, build support network, exit gradually
+- **Escape Strategy:** Document patterns, build support network, exit gradually
 
 #### **The "War Profiteer" Date:**
 - Gains from others' misfortune
 - Talks about "opportunities" in crises
 - Lacks empathy for systemically disadvantaged
 - Values networking over authentic connection
-- **Avoidance strategy:** Watch how they treat service workers, talk about social issues
+- **Avoidance Strategy:** Watch how they treat service workers, talk about social issues
 
-### 🧠 Mental Models para Modern Life
+### 🧠 Mental Models for Modern Life
 
 #### **1. "Who Profits?" Analysis**
 - **Application:** Career decisions, political choices, relationship dynamics
 - **Question:** When situation benefits me, who pays the cost?
-- **Long-term thinking:** Sustainable success vs exploitation
+- **Long-term Thinking:** Sustainable success vs exploitation
 
 #### **2. "Historical Parallels" Framework**
-- **Brecht's method:** Use history to understand present
-- **Modern usage:** 
+- **Brecht's Method:** Use history to understand present
+- **Modern Usage:**
   - Study generational patterns in your family
   - Learn from past relationship mistakes (yours and others')
   - Recognize historical cycles in society/economy
 
 #### **3. "Systemic Thinking" vs Individual Blame**
-- **Epic theatre lesson:** Problems are often structural, not personal
+- **Epic Theatre Lesson:** Problems are often structural, not personal
 - **Applications:**
   - Don't blame yourself for systemic inequality
   - Don't blame partner for capitalist stress affecting relationship
@@ -282,20 +282,20 @@
 
 1. **Media literacy for digital age**
 2. **Global economic understanding**
-3. **Mental health awareness (Brecht lacked psychological insight)**
+3. **Mental health awareness** (Brecht lacked psychological insight)
 4. **Environmental consciousness** (not in 1939 worldview)
 5. **Identity complexity** (beyond class, race, nation)
 
 ### 🎬 BOTTOM LINE for Gen Z:
 
-Brecht był right about structural problems but wrong about solutions. His **diagnostic skills** remain brilliant - jego **prescriptive solutions** need major updates. 
+Brecht was right about structural problems but wrong about solutions. His **diagnostic skills** remain brilliant - his **prescriptive solutions** need major updates.
 
-**Key takeaway:** Use his analytical framework (follow the money, question authority, see systemic patterns) but develop your own solutions appropriate for digital, global, climate-conscious era.
+**Key Takeaway:** Use his analytical framework (follow the money, question authority, see systemic patterns) but develop your own solutions appropriate for digital, global, climate-conscious era.
 
-**Relationship wisdom:** Don't be Mother Courage - choose love over profit, community over pure individualism, but also don't be naive about power dynamics and economic realities.
+**Relationship Wisdom:** Don't be Mother Courage - choose love over profit, community over pure individualism, but also don't be naive about power dynamics and economic realities.
 
-**Life strategy:** Be kritically engaged, economically literate, emotionally intelligent, and systemically aware. Theater polityczne was Brecht's tool - find yours.
+**Life Strategy:** Be critically engaged, economically literate, emotionally intelligent, and systemically aware. Political theater was Brecht's tool - find yours.
 
 ---
 
-*Dokument opracowany w oparciu o analizę dzieła Bertolt Brecht "Matka Courage i jej dzieci" (1939) w kontekście współczesnych realiów społecznych, ekonomicznych i międzyludzkich.*
+*Document prepared based on analysis of Bertolt Brecht's "Mother Courage and Her Children" (1939) in the context of contemporary social, economic and interpersonal realities.*

@@ -100,7 +100,7 @@ canon:
 - Read media/[MEDIA_FOLDER]/media.yaml
 - Extract the following critical fields:
   - scene_count: Number of scenes to generate (e.g., 10)
-  - scene_generator: Generator type (e.g., "narrative")
+  - scene_generator: Generator type (e.g., "narrative" (narrative-prompt-generator))
   - graphics_style: Style to apply (e.g., "film-noir-1950s-melodrama")
 
 These values will be used throughout the generation process.
@@ -136,6 +136,13 @@ Wykonaj te 3 polecenia:
 
 These files contain all necessary media analysis and insights
 Extract themes, characters, historical context, and key discoveries from file
+
+**IMPORTANT:** If you encounter uncertainty or need additional information about the media topic (historical events, dates, locations, people involved), you can use WebSearch and WebFetch tools to gather accurate information. This is especially useful for:
+- Verifying historical dates and timelines
+- Finding specific location details
+- Confirming character names and roles
+- Understanding cultural or historical context
+- Resolving any ambiguities in the review file
 
 ### 4. Check Existing Files and Generate Scene Set
 

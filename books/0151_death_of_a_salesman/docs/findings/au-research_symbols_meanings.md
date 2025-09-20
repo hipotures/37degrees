@@ -1,290 +1,290 @@
-# Analiza Symboliki i Ukrytych Znaczeń: "Śmierć Komiwojażera" Arthura Millera
+# Analysis of Symbolism and Hidden Meanings: Arthur Miller's "Death of a Salesman"
 
-## Wprowadzenie
+## Introduction
 
-"Śmierć Komiwojażera" (1949) Arthura Millera to arcydzieło amerykańskiej dramaturgii, które poprzez bogatą symbolikę i wielowarstwowe znaczenia przedstawia krytykę amerykańskiego snu i kapitalistycznego społeczeństwa. Niniejsza analiza odkrywa ukryte wymiary dzieła, które mogą umknąć powierzchownemu odbiorcy.
+"Death of a Salesman" (1949) by Arthur Miller is a masterpiece of American drama that presents a critique of the American Dream and capitalist society through rich symbolism and multi-layered meanings. This analysis uncovers the hidden dimensions of the work that may escape casual readers.
 
-## 1. GŁÓWNE SYMBOLE I ICH INTERPRETACJE
+## 1. MAIN SYMBOLS AND THEIR INTERPRETATIONS
 
-### Nasiona - Symbol Nadziei i Frustracji
-**Interpretacja klasyczna:** Nasiona, które Willy desperacko próbuje zasadzić w swoim ogrodzie, reprezentują jego pragnienie pozostawienia po sobie śladu, jakiejś spuścizny dla rodziny.
+### Seeds - Symbol of Hope and Frustration
+**Classical interpretation:** The seeds that Willy desperately tries to plant in his garden represent his desire to leave behind some trace, some legacy for his family.
 
-**Interpretacja psychoanalityczna:** Symbolizują męską potrzebę płodności i kreacji w świecie, gdzie Willy czuje się bezpłodny zawodowo i emocjonalnie.
+**Psychoanalytic interpretation:** They symbolize the male need for fertility and creation in a world where Willy feels professionally and emotionally sterile.
 
-**Interpretacja ekofeministyczna:** Reprezentują autentyczną relację z naturą, którą nowoczesne społeczeństwo kapitalistyczne niszczy poprzez urbanizację.
+**Ecofeminist interpretation:** They represent authentic relationship with nature, which modern capitalist society destroys through urbanization.
 
-**Współczesne odczytanie:** W dobie kryzysu klimatycznego nasiona stają się symbolem naszej utraczonej więzi z naturą i desperackich prób jej odbudowy.
+**Contemporary reading:** In the era of climate crisis, seeds become a symbol of our lost connection with nature and desperate attempts to rebuild it.
 
-### Gumowa Rurka - Symbol Desperacji i Śmierci
-**Interpretacja freudowska:** Rurka ukryta za skrzynką bezpieczników symbolizuje Tanatos - popęd śmierci, który konkuruje z Eros w psychice Willy'ego.
+### Rubber Hose - Symbol of Desperation and Death
+**Freudian interpretation:** The hose hidden behind the fuse box symbolizes Thanatos - the death drive that competes with Eros in Willy's psyche.
 
-**Interpretacja feministyczna:** Reprezentuje męską słabość, którą Linda musi w ukryciu naprawiać, podobnie jak łata swoje pończochy.
+**Feminist interpretation:** It represents male weakness that Linda must secretly repair, just as she patches her stockings.
 
-**Interpretacja społeczna:** Symbol systemowego niepowodzenia - gdy społeczeństwo nie oferuje wsparcia psychicznego, ludzie szukają drastycznych rozwiązań.
+**Social interpretation:** Symbol of systemic failure - when society doesn't offer psychological support, people seek drastic solutions.
 
-**Odczytanie LGBTQ+:** Może reprezentować ukrywane aspekty tożsamości, które nie pasują do heteronormatywnych oczekiwań społecznych.
+**LGBTQ+ reading:** May represent hidden aspects of identity that don't fit heteronormative social expectations.
 
-### Pończochy - Symbol Zdrady i Zaniedbania
-**Interpretacja tradycyjna:** Reprezentują zdradę małżeńską Willy'ego - podczas gdy Linda łata stare pończochy, on kupuje nowe dla kochanki.
+### Stockings - Symbol of Betrayal and Neglect
+**Traditional interpretation:** They represent Willy's marital betrayal - while Linda patches old stockings, he buys new ones for his mistress.
 
-**Interpretacja feministyczna:** Symbol ekonomicznej zależności kobiet i ich poświęceń dla rodziny - Linda oszczędza, żeby Willy mógł utrzymywać romans.
+**Feminist interpretation:** Symbol of women's economic dependence and their sacrifices for family - Linda saves money so Willy can maintain an affair.
 
-**Interpretacja klasowa:** Różnica między łataniem a kupowaniem nowych pończoch pokazuje przepaść między marzeniami o bogactwie a rzeczywistością klasy średniej.
+**Class interpretation:** The difference between patching and buying new stockings shows the gap between dreams of wealth and middle-class reality.
 
-**Współczesne znaczenie:** W kulturze fast fashion symbolizują konsumpcjonizm vs. zrównoważone podejście do życia.
+**Contemporary meaning:** In fast fashion culture, they symbolize consumerism vs. sustainable approach to life.
 
-### Diamenty - Materialny Sukces i Iluzje
-**Interpretacja kapitalistyczna:** Reprezentują namacalny sukces w przeciwieństwie do niematerialnej pracy sprzedawcy.
+### Diamonds - Material Success and Illusions
+**Capitalist interpretation:** They represent tangible success as opposed to the intangible work of a salesman.
 
-**Interpretacja postkolonialna:** Ben zdobywa diamenty w Afryce, co symbolizuje eksploatację kolonialną i grabież zasobów.
+**Postcolonial interpretation:** Ben obtains diamonds in Africa, symbolizing colonial exploitation and resource grabbing.
 
-**Interpretacja psychologiczna:** Diamenty to projekcja marzeń o łatwym bogactwie, ucieczka od ciężkiej pracy.
+**Psychological interpretation:** Diamonds are projections of dreams about easy wealth, escape from hard work.
 
-**Współczesna interpretacja:** W dobie krypto-walut i szybkiego bogacenia się, diamenty Ben'a przypominają współczesne "get rich quick" schemes.
+**Contemporary interpretation:** In the era of cryptocurrencies and quick wealth schemes, Ben's diamonds recall modern "get rich quick" schemes.
 
-### Muzyka Fletu - Więź z Przeszłością i Naturą
-**Interpretacja nostalgiczna:** Flet łączy Willy'ego z ojcem-pionierem, który reprezentował autentyczną męskość i niezależność.
+### Flute Music - Connection to Past and Nature
+**Nostalgic interpretation:** The flute connects Willy to his pioneer father, who represented authentic masculinity and independence.
 
-**Interpretacja jungowska:** Muzyka fletu to głos anima - kobiecego aspektu psychiki Willy'ego, który został stłumiony przez toksyczną męskość.
+**Jungian interpretation:** Flute music is the voice of anima - the feminine aspect of Willy's psyche, suppressed by toxic masculinity.
 
-**Interpretacja kulturowa:** Flet to symbol kultury ludowej vs. komercjalizacja, autentyczności vs. sztuczności nowoczesnego życia.
+**Cultural interpretation:** The flute is a symbol of folk culture vs. commercialization, authenticity vs. artificiality of modern life.
 
-**Interpretacja LGBTQ+:** Może reprezentować tłumione, "miękkie" aspekty męskości, które nie pasują do społecznych oczekiwań.
+**LGBTQ+ interpretation:** May represent suppressed, "soft" aspects of masculinity that don't fit social expectations.
 
-## 2. ARCHETYPY I MOTYWY UNIWERSALNE
+## 2. ARCHETYPES AND UNIVERSAL MOTIFS
 
-### Willy jako Współczesny Antyheros
-**Mit Syzyfów:** Willy jest skazany na wieczne dążenie do nieosiągalnego celu, podobnie jak Syzyf toczący kamień pod górę.
+### Willy as Contemporary Antihero
+**Myth of Sisyphus:** Willy is condemned to eternal pursuit of an unattainable goal, like Sisyphus rolling a stone uphill.
 
-**Archetyp Błazna:** W tradycji szekspirowskiej, Willy jest tragicznym błaznem, którego iluzje obnażają prawdę o społeczeństwie.
+**Fool Archetype:** In Shakespearean tradition, Willy is a tragic fool whose illusions expose the truth about society.
 
-**Mit o Ikrusie:** Jego pragnienie wzniesienia się ponad swój status społeczny prowadzi do upadku.
+**Myth of Icarus:** His desire to rise above his social status leads to downfall.
 
-**Ojciec Nieudacznik:** Archetyp ojca, który nie może zapewnić rodzinie bezpieczeństwa ani być wzorem dla synów.
+**Failed Father:** Archetype of a father who cannot provide family security or be a role model for sons.
 
-### Biff jako Syn Zbuntowany
-**Archetyp Syna Marnotrawnego:** Biff odrzuca wartości ojca, ale w przeciwieństwie do biblijnego wzorca, nie wraca do domu w pełni skruszony.
+### Biff as Rebellious Son
+**Prodigal Son Archetype:** Biff rejects his father's values, but unlike the biblical model, doesn't return home fully repentant.
 
-**Mit Edypa:** Konflikt z ojcem ma podteksty edypalne - Biff "zabija" ojcowski autorytet poprzez odkrycie jego słabości.
+**Oedipus Myth:** The conflict with his father has oedipal undertones - Biff "kills" paternal authority by discovering his weakness.
 
-**Archetyp Poszukiwacza Prawdy:** Biff jest jedyną postacią, która dąży do samopoznania i prawdy o sobie.
+**Truth Seeker Archetype:** Biff is the only character who strives for self-knowledge and truth about himself.
 
-### Linda jako Cierpliwa Żona
-**Archetyp Penelopy:** Czeka i zachowuje wierność mimo trudności, ale w wersji tragicznej.
+### Linda as Patient Wife
+**Penelope Archetype:** She waits and remains faithful despite difficulties, but in a tragic version.
 
-**Matka Ziemia:** Reprezentuje stabilność, opiekę, ale też stagnację.
+**Mother Earth:** Represents stability, care, but also stagnation.
 
-**Współczesna Interpretacja:** Linda to nie tylko ofiara, ale też współuczestniczka w utrzymywaniu destrukcyjnych iluzji Willy'ego.
+**Contemporary Interpretation:** Linda is not only a victim but also a participant in maintaining Willy's destructive illusions.
 
-## 3. INTERPRETACJE KULTUROWE
+## 3. CULTURAL INTERPRETATIONS
 
-### Perspektywa Amerykańska
-**American Dream jako Mit Założycielski:** Miller dekonstruuje mit amerykańskiego snu, pokazując jego destrukcyjne skutki dla zwykłych ludzi.
+### American Perspective
+**American Dream as Founding Myth:** Miller deconstructs the myth of the American Dream, showing its destructive effects on ordinary people.
 
-**Krytyka Kapitalizmu:** Sztuka to ostrzeżenie przed społeczeństwem, które mierzy wartość człowieka tylko sukcesem materialnym.
+**Critique of Capitalism:** The play is a warning against a society that measures human worth only by material success.
 
-**Era McCarthyzmu:** W kontekście lat 50. sztuka to krytyka konformizmu i presji społecznej.
+**McCarthy Era:** In the context of the 1950s, the play critiques conformism and social pressure.
 
-### Perspektywa Europejska
-**Wpływ Bertolta Brechta:** Miller wykorzystuje techniki teatru epickiego do pokazania społecznych mechanizmów.
+### European Perspective
+**Bertolt Brecht Influence:** Miller uses epic theater techniques to show social mechanisms.
 
-**Tradycja Naturalizmu:** Wpływ Ibsena widać w sposobie przedstawiania rodziny jako mikrokosmosu społeczeństwa.
+**Naturalism Tradition:** Ibsen's influence is visible in the way family is presented as a microcosm of society.
 
-**Egzystencjalizm:** Willy'ego można odczytać jako przykład "bad faith" Sartre'a - ucieczki od autentycznego życia w społeczne role.
+**Existentialism:** Willy can be read as an example of Sartre's "bad faith" - escape from authentic life into social roles.
 
-### Perspektywa Azjatycka
-**Konfucjańskie Wartości Rodzinne:** W kulturach azjatyckich akcent pada na konflikt między obowiązkiem wobec rodziny a indywidualnymi marzeniami.
+### Asian Perspective
+**Confucian Family Values:** In Asian cultures, emphasis falls on conflict between family duty and individual dreams.
 
-**Buddyjska Koncepcja Cierpienia:** Willy cierpienie wynika z przywiązania do iluzorycznych pragnień.
+**Buddhist Concept of Suffering:** Willy's suffering stems from attachment to illusory desires.
 
-**Chińska Produkcja (1983):** Miller sam reżyserował sztukę w Pekinie, gdzie publiczność rozumiała ją jako krytykę modernizacji kosztem tradycji.
+**Chinese Production (1983):** Miller himself directed the play in Beijing, where the audience understood it as a critique of modernization at the expense of tradition.
 
-### Perspektywa Bliskowschodnia
-**Adaptacja Asghara Farhadiego:** Irański film "Sprzedawca" (2016) przenosi tematy Millera na grunt współczesnego Iranu, pokazując konflikt między tradycją a nowoczesnością.
+### Middle Eastern Perspective
+**Asghar Farhadi Adaptation:** The Iranian film "The Salesman" (2016) transfers Miller's themes to contemporary Iran, showing conflict between tradition and modernity.
 
-**Krytyka Patriarchatu:** W kulturach silnie patriarchalnych sztuka rzuca światło na destrukcyjność toksycznej męskości.
+**Critique of Patriarchy:** In strongly patriarchal cultures, the play sheds light on the destructiveness of toxic masculinity.
 
-## 4. WSPÓŁCZESNE REINTERPRETACJE
+## 4. CONTEMPORARY REINTERPRETATIONS
 
-### Interpretacja Feministyczna
-**Linda jako Współczesna Kobieta:** Nie tylko ofiara, ale również osoba podtrzymująca destrukcyjny system przez swoją bierność.
+### Feminist Interpretation
+**Linda as Contemporary Woman:** Not only a victim but also a person who maintains the destructive system through her passivity.
 
-**Krytyka Toksycznej Męskości:** Mężczyźni w sztuce są więźniami społecznych oczekiwań dotyczących sukcesu i siły.
+**Critique of Toxic Masculinity:** Men in the play are prisoners of social expectations regarding success and strength.
 
-**Ekonomiczne Uzależnienie:** Linda reprezentuje kobiety uwięzione w małżeństwach przez brak ekonomicznej niezależności.
+**Economic Dependence:** Linda represents women trapped in marriages by lack of economic independence.
 
-### Interpretacja LGBTQ+
-**Biff jako Figura Queer:** Jego niemożność spełnienia ojcowskich oczekiwań może reprezentować ukrytą tożsamość seksualną.
+### LGBTQ+ Interpretation
+**Biff as Queer Figure:** His inability to meet paternal expectations may represent hidden sexual identity.
 
-**Performatywność Męskości:** Willy desperacko odgrywa rolę "prawdziwego mężczyzny", co może odzwierciedlać doświadczenia osób LGBTQ+.
+**Performativity of Masculinity:** Willy desperately performs the role of "real man," which may reflect LGBTQ+ experiences.
 
-**Recent Broadway Productions:** Afrykańsko-amerykańska obsada z trzema aktorami LGBTQ+ wniosła nowe znaczenia dotyczące tożsamości i przynależności.
+**Recent Broadway Productions:** African-American cast with three LGBTQ+ actors brought new meanings regarding identity and belonging.
 
-### Interpretacja Postkolonialna
-**Ben jako Kolonizator:** Jego bogactwo z Afryki reprezentuje eksploatację kolonialną i grabież zasobów krajów trzeciego świata.
+### Postcolonial Interpretation
+**Ben as Colonizer:** His wealth from Africa represents colonial exploitation and looting of third world countries' resources.
 
-**American Dream jako Imperializm:** Eksport amerykańskiego stylu życia jako forma kulturowego kolonializmu.
+**American Dream as Imperialism:** Export of American lifestyle as a form of cultural colonialism.
 
-**Adaptacje w Krajach Rozwijających się:** Sztuka rezonuje w społeczeństwach przechodzących gwałtowną modernizację.
+**Adaptations in Developing Countries:** The play resonates in societies undergoing rapid modernization.
 
-### Interpretacja Ekokrytyczna
-**Zniszczenie Natury:** Miejski krajobraz pochłaniający dom Lomanów symbolizuje destrukcję środowiska naturalnego.
+### Ecocritical Interpretation
+**Destruction of Nature:** Urban landscape swallowing the Loman house symbolizes environmental destruction.
 
-**Alienacja od Natury:** Nasiona Willy'ego reprezentują utracona więź człowieka z naturalnymi cyklami życia.
+**Alienation from Nature:** Willy's seeds represent lost human connection to natural life cycles.
 
-**Krytyka Konsumpcjonizmu:** Sztuka antycypuje współczesny kryzys klimatyczny wywołany konsumpcjonizmem.
+**Critique of Consumerism:** The play anticipates contemporary climate crisis caused by consumerism.
 
-## 5. PSYCHOLOGIA POSTACI
+## 5. CHARACTER PSYCHOLOGY
 
-### Analiza Psychoanalityczna Willy'ego
-**Struktura Osobowości:**
-- **Id:** Podstawowe pragnienia sukcesu i uznania
-- **Ego:** Słabe, niepotrafiące pogodzić rzeczywistości z marzeniami
-- **Superego:** Społeczne oczekiwania dotyczące sukcesu
+### Psychoanalytic Analysis of Willy
+**Personality Structure:**
+- **Id:** Basic desires for success and recognition
+- **Ego:** Weak, unable to reconcile reality with dreams
+- **Superego:** Social expectations regarding success
 
-**Narcyzm:** Willy wykazuje cechy narcystycznego zaburzenia osobowości - grandiozyjne fantazje, brak empatii, potrzeba adoracji.
+**Narcissism:** Willy shows traits of narcissistic personality disorder - grandiose fantasies, lack of empathy, need for adoration.
 
-**Trauma Porzucenia:** Opuszczenie przez ojca w wieku trzech lat kształtuje całą jego psychikę i relacje z innymi.
+**Abandonment Trauma:** Being abandoned by his father at age three shapes his entire psyche and relationships with others.
 
-### Ben jako Projekcja Nieświadomości
-**Animus Willy'ego:** Ben reprezentuje męski ideał, którym Willy nigdy nie będzie.
+### Ben as Unconscious Projection
+**Willy's Animus:** Ben represents the male ideal that Willy will never be.
 
-**Thanatos:** Postać Ben'a coraz bardziej kojarzy się ze śmiercią - jego rada o "ciemności pełnej diamentów".
+**Thanatos:** Ben's figure increasingly associates with death - his advice about "darkness full of diamonds."
 
-**Superego Skorumpowane:** Ben reprezentuje zniekształcone wartości moralne, gdzie sukces usprawiedliwia wszystkie środki.
+**Corrupted Superego:** Ben represents distorted moral values where success justifies all means.
 
-### Linda jako Codependent
-**Współuzależnienie:** Linda nieświadomie podtrzymuje destrukcyjne wzorce Willy'ego poprzez zaprzeczanie rzeczywistości.
+### Linda as Codependent
+**Codependency:** Linda unconsciously maintains Willy's destructive patterns by denying reality.
 
-**Matka Opiekuńcza:** Traktuje Willy'ego jak dziecko, co dodatkowo go infantylizuje.
+**Nurturing Mother:** She treats Willy like a child, which further infantilizes him.
 
-**Siła w Słabości:** Jej pozorna słabość jest formą kontroli nad rodziną.
+**Strength in Weakness:** Her apparent weakness is a form of family control.
 
-## 6. EWOLUCJA INTERPRETACJI NA PRZESTRZENI LAT
+## 6. EVOLUTION OF INTERPRETATIONS OVER TIME
 
-### Lata 50. - Krytyka Społeczna
-- Pierwotnie odczytywana jako krytyka amerykańskiego kapitalizmu
-- Willy postrzegany jako ofiara systemu ekonomicznego
-- Akcent na aspekty społeczno-polityczne
+### 1950s - Social Critique
+- Originally read as critique of American capitalism
+- Willy seen as victim of economic system
+- Emphasis on socio-political aspects
 
-### Lata 60. - Psychologizacja
-- Wpływ psychoanalizy na interpretację
-- Większy nacisk na rodzinne traumy i relacje interpersonalne
-- Willy jako studium przypadku frustracji mieszczańskiej
+### 1960s - Psychologization
+- Influence of psychoanalysis on interpretation
+- Greater emphasis on family trauma and interpersonal relationships
+- Willy as case study of bourgeois frustration
 
-### Lata 80. - Feminizm i Gender Studies
-- Krytyka patriarchalnych struktur
-- Linda przestaje być postrzegana tylko jako ofiara
-- Analiza toksycznej męskości
+### 1980s - Feminism and Gender Studies
+- Critique of patriarchal structures
+- Linda stops being seen only as victim
+- Analysis of toxic masculinity
 
-### Lata 2000. - Globalizacja i Postkolonializm
-- Ben jako symbol imperializmu
-- Uniwersalizacja tematów poza kontekst amerykański
-- Krytyka neoliberalizmu
+### 2000s - Globalization and Postcolonialism
+- Ben as symbol of imperialism
+- Universalization of themes beyond American context
+- Critique of neoliberalism
 
-### Współczesność - Intersectionality i Diversität
-- Produkcje z obsadą afroamerykańską i LGBTQ+
-- Interpretacje przez pryzmat rasowy i tożsamościowy
-- Połączenie z tematami mental health i toxic masculinity
+### Contemporary - Intersectionality and Diversity
+- Productions with African-American and LGBTQ+ cast
+- Interpretations through racial and identity lens
+- Connection with mental health and toxic masculinity themes
 
-## 7. UKRYTE ZNACZENIA I POMIJANE SYMBOLE
+## 7. HIDDEN MEANINGS AND OVERLOOKED SYMBOLS
 
-### Samochód jako Symbol Klasy Społecznej
-**Chevrolet Willy'ego:** Stary, psujący się samochód reprezentuje jego upadający status społeczny.
+### Car as Symbol of Social Class
+**Willy's Chevrolet:** Old, breaking car represents his declining social status.
 
-**Symbolika Mobilności:** Samochód to obietnica amerykańskiej mobilności społecznej, która dla Willy'ego okazuje się iluzją.
+**Mobility Symbolism:** Car is promise of American social mobility, which proves illusory for Willy.
 
-**Męska Tożsamość:** Problemy z samochodem odbijają problemy z męskością i kompetencjami.
+**Male Identity:** Car problems reflect problems with masculinity and competence.
 
-### Dom jako Więzienie i Schronienie
-**Architektura jako Metafora:** Dom otoczony przez wieżowce symbolizuje duszenie się klasy średniej przez kapitalizm.
+### House as Prison and Shelter
+**Architecture as Metaphor:** House surrounded by skyscrapers symbolizes middle class suffocation by capitalism.
 
-**Przestrzeń Prywatna vs. Publiczna:** Dom to ostatnia przestrzeń, gdzie Willy może kontrolować narrację o sobie.
+**Private vs. Public Space:** Home is the last space where Willy can control the narrative about himself.
 
-**Hipoteka jako Symbol Zobowiązań:** Długotrwała spłata hipoteki reprezentuje uwięzienie w systemie kapitalistycznym.
+**Mortgage as Symbol of Obligations:** Long-term mortgage payment represents imprisonment in capitalist system.
 
-### Zawód Sprzedawcy jako Metafora Życia
-**Sprzedawanie Siebie:** Willy nie sprzedaje produktów, ale siebie - swoją osobowość, urok, wizerunek.
+### Salesman Profession as Life Metaphor
+**Selling Oneself:** Willy doesn't sell products but himself - his personality, charm, image.
 
-**Nienamacalność Pracy:** W przeciwieństwie do ojca, który wytwarzał flety, Willy nie ma nic namacalnego do pokazania.
+**Work Intangibility:** Unlike his father who made flutes, Willy has nothing tangible to show.
 
-**Obsolescencja:** Willy staje się przestarzały jak produkt, który nie sprzedaje się na rynku.
+**Obsolescence:** Willy becomes outdated like a product that doesn't sell in the market.
 
-### Liczby i Statystyki jako Fałszywa Pewność
-**Wiek i Czas:** Obsesja na punkcie wieku (60 lat) reprezentuje lęk przed śmiertelnością.
+### Numbers and Statistics as False Certainty
+**Age and Time:** Obsession with age (60 years) represents fear of mortality.
 
-**Pieniądze i Sumy:** Konkretne kwoty (20 000 dolarów polisy) to jedyne "prawdziwe" wartości w świecie Willy'ego.
+**Money and Amounts:** Concrete sums ($20,000 insurance policy) are the only "real" values in Willy's world.
 
-**Geografia jako Ucieczka:** Odległe miejsca (Alaska, Afryka) reprezentują nieosiągalne alternatywy życiowe.
+**Geography as Escape:** Distant places (Alaska, Africa) represent unattainable life alternatives.
 
-## 8. KAPCSOLANIA Z INNYMI DZIEŁAMI KULTURY
+## 8. CONNECTIONS WITH OTHER CULTURAL WORKS
 
-### Literatura Amerykańska
-**"Wielki Gatsby" F.S. Fitzgeralda:** Podobna krytyka amerykańskiego snu, ale z perspektywy różnych klas społecznych.
+### American Literature
+**"The Great Gatsby" by F.S. Fitzgerald:** Similar critique of American Dream, but from different social class perspectives.
 
-**"Grona Gniewu" Steinbecka:** Oba dzieła pokazują destrukcyjne skutki kapitalizmu na amerykańskie rodziny.
+**"The Grapes of Wrath" by Steinbeck:** Both works show destructive effects of capitalism on American families.
 
-**Tennessee Williams:** "Tramwaj zwany pożądaniem" - podobne motywy upadku, iluzji i toksycznych relacji rodzinnych.
+**Tennessee Williams:** "A Streetcar Named Desire" - similar motifs of decline, illusion, and toxic family relationships.
 
-### Dramaturgia Światowa
-**Henrik Ibsen - "Dom lalki":** Podobna analiza destrukcyjnych ról społecznych i rodzinnych.
+### World Drama
+**Henrik Ibsen - "A Doll's House":** Similar analysis of destructive social and family roles.
 
-**Anton Czechow - "Wiśniowy sad":** Tematy przemijania, zmiany społecznej i nostalgii za przeszłością.
+**Anton Chekhov - "The Cherry Orchard":** Themes of passing time, social change, and nostalgia for the past.
 
-**Eugene O'Neill - "Podróż w dzień":** Amerykańska rodzinna tragedia z elementami psychoanalitycznymi.
+**Eugene O'Neill - "Long Day's Journey into Night":** American family tragedy with psychoanalytic elements.
 
-### Film i Kultura Popularna
-**"American Beauty":** Współczesna wersja krytyki amerykańskiej klasy średniej.
+### Film and Popular Culture
+**"American Beauty":** Contemporary version of American middle-class critique.
 
-**"Mad Men":** Serialowa eksploracja świata sprzedaży i męskiej tożsamości w latach 60.
+**"Mad Men":** Serial exploration of sales world and male identity in the 1960s.
 
-**"Glengarry Glen Ross":** Współczesny obraz bezwzględnego świata sprzedaży.
+**"Glengarry Glen Ross":** Contemporary image of ruthless sales world.
 
-### Muzyka i Sztuka
-**Bruce Springsteen:** Piosenki o upadających miastach i nieszczęśliwych rodzinach robotniczych.
+### Music and Art
+**Bruce Springsteen:** Songs about declining cities and unhappy working-class families.
 
-**Edward Hopper:** Malarstwo przedstawiające urban alienation i samotność.
+**Edward Hopper:** Paintings depicting urban alienation and loneliness.
 
-**Social Realism:** Nurt w sztuce krytykujący społeczeństwo kapitalistyczne.
+**Social Realism:** Artistic movement critiquing capitalist society.
 
-## 9. ZNACZENIA DLA WSPÓŁCZESNYCH SŁUCHACZY
+## 9. MEANINGS FOR CONTEMPORARY LISTENERS
 
 ### Mental Health Awareness
-**Depresja i Samobójstwo:** Willy'ego można dziś interpretować przez pryzmat zaburzeń psychicznych i braku wsparcia.
+**Depression and Suicide:** Willy can now be interpreted through the lens of mental disorders and lack of support.
 
-**Toxic Masculinity:** Sztuka antycypuje współczesne dyskusje o destrukcyjnych wzorcach męskości.
+**Toxic Masculinity:** The play anticipates contemporary discussions about destructive masculinity patterns.
 
-**Family Trauma:** Tematyka traum rodzinnych i ich międzypokoleniowego przekazywania.
+**Family Trauma:** Themes of family trauma and its intergenerational transmission.
 
-### Ekonomiczne Realia
-**Gig Economy:** Willy jako prekursor współczesnych freelancerów bez stabilności zatrudnienia.
+### Economic Realities
+**Gig Economy:** Willy as precursor to contemporary freelancers without employment stability.
 
-**Student Debt Crisis:** Happy i Biff jako pokolenie uwięzione przez nierealistyczne oczekiwania finansowe.
+**Student Debt Crisis:** Happy and Biff as generation trapped by unrealistic financial expectations.
 
-**Housing Crisis:** Dom Lomanów jako symbol niedostępnego amerykańskiego snu.
+**Housing Crisis:** Loman house as symbol of unattainable American Dream.
 
-### Tożsamość i Przynależność
-**Impostor Syndrome:** Willy jako przykład osoby, która nie czuje się autentyczna w swojej roli społecznej.
+### Identity and Belonging
+**Impostor Syndrome:** Willy as example of person who doesn't feel authentic in their social role.
 
-**Midlife Crisis:** Uniwersalne doświadczenie kwestionowania swoich wyborów życiowych.
+**Midlife Crisis:** Universal experience of questioning life choices.
 
-**Intergenerational Conflict:** Konflikt między rodzicielskimi oczekiwaniami a młodzieżowymi aspiracjami.
+**Intergenerational Conflict:** Conflict between parental expectations and youth aspirations.
 
-## 10. PYTANIA DO DALSZEJ REFLEKSJI
+## 10. QUESTIONS FOR FURTHER REFLECTION
 
-1. **Czy współczesny American Dream różni się od tego z 1949 roku?**
-2. **Jak media społecznościowe wpływają na presję społeczną podobną do tej, której doświadcza Willy?**
-3. **Czy Linda jest współczesną feministką uwięzioną w tradycyjnej roli, czy raczej współuczestniczką patriarchalnego systemu?**
-4. **W jaki sposób globalizacja zmienia interpretację postaci Ben'a?**
-5. **Czy Biff reprezentuje współczesne pokolenie millenialsów odrzucających wartości poprzedników?**
-6. **Jak sztuka przemawia do społeczeństw przechodzących transformację ekonomiczną?**
-7. **Czy tragedy of the common man jest nadal aktualna w dobie social media i influencer culture?**
-8. **Jakie nowe symbole dodałby Miller, gdyby pisał sztukę dziś?**
+1. **Does contemporary American Dream differ from that of 1949?**
+2. **How do social media influence social pressure similar to what Willy experiences?**
+3. **Is Linda a contemporary feminist trapped in traditional role, or rather a participant in patriarchal system?**
+4. **How does globalization change interpretation of Ben's character?**
+5. **Does Biff represent contemporary millennial generation rejecting predecessors' values?**
+6. **How does the play speak to societies undergoing economic transformation?**
+7. **Is tragedy of the common man still relevant in the era of social media and influencer culture?**
+8. **What new symbols would Miller add if he wrote the play today?**
 
-## Podsumowanie
+## Summary
 
-"Śmierć Komiwojażera" pozostaje żywym, wieloznacznym tekstem, który każde pokolenie interpretuje na nowo. Symbol Willy'ego Lomana ewoluował od krytyki kapitalizmu przez analizę psychologiczną po współczesne interpretacje dotyczące tożsamości, mental health i toxic masculinity. Bogactwo symboliczne dzieła - od nasion przez pończochy po muzykę fletu - pozwala na wielopoziomową lekturę, która rezonuje z różnymi kulturami i epokami.
+"Death of a Salesman" remains a living, multifaceted text that each generation interprets anew. The symbol of Willy Loman has evolved from capitalism critique through psychological analysis to contemporary interpretations concerning identity, mental health, and toxic masculinity. The symbolic richness of the work - from seeds through stockings to flute music - allows for multi-level reading that resonates with different cultures and epochs.
 
-Ukryta głębia sztuki tkwi nie tylko w oczywistych symbolach, ale też w pomijanych detalach: architekturze domu, znaczeniu samochodu, czy geografii marzeń. Miller stworzył dzieło, które funkcjonuje jednocześnie jako amerykańska tragedia narodowa, uniwersalna opowieść o rodzinie i osobista historia o cenie konformizmu.
+The hidden depth of the play lies not only in obvious symbols but also in overlooked details: house architecture, car significance, or geography of dreams. Miller created a work that functions simultaneously as American national tragedy, universal family story, and personal tale about the price of conformism.
 
-Współczesne interpretacje - feministyczne, LGBTQ+, postkolonialne, ekokrytyczne - pokazują, że "Śmierć Komiwojażera" pozostaje tekstem otwartym, który każda epoka może czytać na swój sposób, znajdując w nim refleksje własnych lęków, nadziei i społecznych problemów.
+Contemporary interpretations - feminist, LGBTQ+, postcolonial, ecocritical - show that "Death of a Salesman" remains an open text that each era can read in its own way, finding in it reflections of its own fears, hopes, and social problems.

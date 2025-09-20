@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Pennsylvania State Police officers arrive to secure crash site"
+  setting:
+    time: "December 9, 1965, 6:00 PM, full darkness"
+    location: "Narrow dirt logging road leading from Kecksburg village to forest impact site"
+    weather: "Cold December night, temperature around 35 degrees"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, clean-shaven, serious expression, badge visible"
+      clothing: "Grey Pennsylvania State Police uniform, campaign hat, leather Sam Browne belt, black boots, winter coat"
+      position: "Standing beside police cruiser, examining area with flashlight"
+      action: "Standing at attention, hands on equipment belt, authoritative presence"
+    - appearance: "Caucasian man, 30s-40s, clean-shaven, serious expression, badge visible"
+      clothing: "Grey Pennsylvania State Police uniform, campaign hat, leather Sam Browne belt, black boots, winter coat"
+      position: "Near forest edge, blocking civilian access"
+      action: "Directing civilians away from impact site, establishing perimeter control"
+  scene:
+    mainElements: "Muddy dirt road, rolling hills, bare winter trees, utility poles, farm fields"
+    details: "1965 Ford or Plymouth police cruiser, grey and black paint scheme, red emergency lights, PA State Police markings, chrome bumpers, period-appropriate police vehicle, state troopers setting up barriers, flashlight beams cutting through darkness, frost on vehicle windshields, muddy road conditions, no text or letters visible"
+    background: "Remote rural setting with military and emergency vehicles creating unusual traffic"
+    atmosphere: "Professional law enforcement response with growing sense of official control and restricted access"
+  composition:
+    cameraAngle: "Medium shot showing police officers and cruiser at forest access point"
+    focus: "State police officers establishing security perimeter at forest entrance"
+    depth: "Police officers in foreground, police cruiser in middle ground, dark forest road extending into background"

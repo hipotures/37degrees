@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Empty highway during missing time period"
+  setting:
+    time: "September 20, 1961, 1:00-3:00 AM"
+    location: "U.S. Route 3 through White Mountains, New Hampshire, section where couple lost consciousness"
+    weather: "Clear night continuing, starlight illuminating empty roadway"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Completely empty two-lane mountain highway stretching through forest landscape, yellow center line disappearing into darkness, no traffic or human presence visible anywhere"
+    details: "Asphalt road surface reflecting starlight, yellow painted center line marking empty lanes, scattered reflective road markers glinting in ambient light, dense pine and deciduous forest walls on both sides, occasional guardrails along curves, complete absence of any vehicles or signs of recent passage, no text or letters visible"
+    background: "White Mountains landscape with rolling peaks silhouetted against star-filled sky, forest canopy creating dark borders along roadway, natural celestial backdrop"
+    atmosphere: "Eerie emptiness and temporal suspension, sense of time having stopped or skipped forward, mysterious gap in normal causality"
+  composition:
+    cameraAngle: "Low perspective shot down center of empty highway"
+    focus: "Vanishing point where road disappears into darkness, emphasizing emptiness and absence"
+    depth: "Foreground shows immediate road surface with center line, middle ground features empty asphalt stretching into distance, background displays mountain silhouettes"

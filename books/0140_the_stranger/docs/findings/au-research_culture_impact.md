@@ -1,340 +1,340 @@
-# Wpływ kulturowy "Obcego" Alberta Camusa
+# Cultural Impact of "The Stranger" by Albert Camus
 
-## Wprowadzenie
+## Introduction
 
-"Obcy" (L'Étranger) Alberta Camusa z 1942 roku to jedno z najbardziej wpływowych dzieł literatury XX wieku, które wykroczyło daleko poza granice literatury, stając się fenomenem kulturowym o globalnym zasięgu. Powieść nie tylko zmieniła historię nowoczesnej literatury, ale również głęboko wpłynęła na filozofię, muzykę, film, teatr i współczesną kulturę popularną.
+"The Stranger" (L'Étranger) by Albert Camus from 1942 is one of the most influential works of 20th-century literature that has extended far beyond the boundaries of literature, becoming a cultural phenomenon with global reach. The novel not only changed the history of modern literature but also deeply influenced philosophy, music, film, theater, and contemporary popular culture.
 
-## Adaptacje filmowe i teatralne
+## Film and Theater Adaptations
 
-### Wielkie adaptacje kinowe
+### Major Film Adaptations
 
 **1. "Lo Straniero" (1967) - Luchino Visconti**
-- Reżyseria: Luchino Visconti, produkcja: Paramount Pictures
-- W roli głównej: Marcello Mastroianni jako Meursault
-- Anna Karina jako Marie Cardona
-- Pierwotnie planowany Alain Delon w roli głównej
-- Film zbyt wiernie podążał za książką, tracąc część filozoficznej głębi
-- Visconti zdołał przekazać absurdyzm i niepokojący charakter dzieła
-- Problemy z prawami autorskimi - córka Camusa nie lubiła filmu
-- Nigdy nie wydany na VHS ani DVD, rzadko pokazywany w kinach
+- Director: Luchino Visconti, Production: Paramount Pictures
+- Starring: Marcello Mastroianni as Meursault
+- Anna Karina as Marie Cardona
+- Originally planned Alain Delon for the lead role
+- Film too faithfully followed the book, losing some philosophical depth
+- Visconti managed to convey the absurdism and disturbing nature of the work
+- Copyright issues - Camus's daughter disliked the film
+- Never released on VHS or DVD, rarely shown in theaters
 
 **2. "Yazgı" (2001) - Zeki Demirkubuz**
-- Turecka adaptacja inspirowana powieścią
-- Wolna adaptacja, nie bezpośrednie przeniesienie
-- Demirkubuz skorygował błędy Viscontiego, pokazując protagonistę jako wyraźnie antyspołecznego
+- Turkish adaptation inspired by the novel
+- Loose adaptation, not direct translation
+- Demirkubuz corrected Visconti's mistakes, showing protagonist as clearly antisocial
 
 **3. "L'Étranger" (2025) - François Ozon**
-- Najnowsza francuska adaptacja z Benjaminem Voisinem w roli głównej
-- Rebecca Marder, Pierre Lottin, Swann Arlaud i Denis Lavant w obsadzie
-- Światowa premiera na 82. Festiwalu Filmowym w Wenecji (2 września 2025)
-- Nominacja do Złotego Lwa
-- Ozon wprowadza postkolonialną perspektywę, dając Algierczykom głos
-- Podkreśla erotyczną i cielesną stronę opowieści
-- Komentuje obojętność Francuzów wobec sytuacji kolonialnej
+- Latest French adaptation with Benjamin Voisin in the lead role
+- Rebecca Marder, Pierre Lottin, Swann Arlaud and Denis Lavant in the cast
+- World premiere at the 82nd Venice Film Festival (September 2, 2025)
+- Golden Lion nomination
+- Ozon introduces postcolonial perspective, giving Algerians a voice
+- Emphasizes erotic and carnal aspects of the story
+- Comments on French indifference toward colonial situation
 
-### Adaptacje komiksowe
+### Comic Book Adaptations
 
 **4. Jacques Ferrandez (2013)**
-- Adaptacja komiksowa na 100. rocznicę urodzin Camusa
-- Wydana z okazji setnej rocznicy urodzin pisarza
+- Comic book adaptation for Camus's 100th birthday anniversary
+- Published on the centenary of the writer's birth
 
-## Wpływ na twórców i artystów
+## Influence on Creators and Artists
 
-### Literatura
+### Literature
 
 **1. Craig Nova**
-- Amerykański pisarz: "Mogę powiedzieć bez wahania, że pisarzem, który najbardziej mnie wpłynął, jest Albert Camus"
+- American writer: "I can say without hesitation that the writer who has influenced me most is Albert Camus"
 
 **2. Kamel Daoud - "The Meursault Investigation" (2015)**
-- Powieść opowiedziana z perspektywy brata zamordowanego Araba
-- Nadaje imię ofierze - Musa
-- Przedstawia go jako prawdziwą osobę, która była opłakiwana
+- Novel told from the perspective of the murdered Arab's brother
+- Gives the victim a name - Musa
+- Presents him as a real person who was mourned
 - New York Times Notable Book 2015
-- Kontrapunkt dla wersji Camusa z perspektywy postkolonialnej
+- Counterpoint to Camus's version from postcolonial perspective
 
-**3. Wpływ na współczesną literaturę**
-- Literatura XX wieku głęboko wpłynięta egzystencjalizmem
-- Skupienie na świadomości postaci zamiast tradycyjnego rozwijania fabuły
-- Psychologia jednostki jako centrum współczesnej literatury
-- Eksploracja tematów: absurd, śmiertelność, wolność
+**3. Influence on Contemporary Literature**
+- 20th-century literature deeply influenced by existentialism
+- Focus on character consciousness instead of traditional plot development
+- Psychology of the individual as center of contemporary literature
+- Exploration of themes: absurd, mortality, freedom
 
-### Muzyka
+### Music
 
 **4. The Cure - "Killing an Arab" (1978)**
-- Debiutancki singiel zespołu
-- Robert Smith: "krótka poetycka próba skondensowania moich wrażeń z kluczowych momentów w 'L'étranger'"
-- Jedna z najbardziej znanych referencji muzycznych do powieści
+- Band's debut single
+- Robert Smith: "a short poetic attempt to condense my impressions of the key moments in 'L'étranger'"
+- One of the most famous musical references to the novel
 
-**5. L'Étranger - kanadyjski zespół punkrockowy**
-- Nazwany od tytułu powieści
-- Założony przez polityków NDP i muzyków Charlie'ego Angusa i Andrew Casha
+**5. L'Étranger - Canadian punk rock band**
+- Named after the novel's title
+- Founded by NDP politicians and musicians Charlie Angus and Andrew Cash
 
 **6. Eric Andersen - "The Stranger (Song of Revenge)" (2014)**
-- Z EP "The Shadow and Light of Albert Camus"
-- Jeden z czterech utworów opartych na dziełach Camusa
+- From EP "The Shadow and Light of Albert Camus"
+- One of four songs based on Camus's works
 
 **7. Avenged Sevenfold - "Nobody"**
-- Pierwszy singiel z "Life Is But a Dream..."
-- Inspirowany "Obcym"
+- First single from "Life Is But a Dream..."
+- Inspired by "The Stranger"
 
 **8. Tuxedomoon - "The Stranger"/"L'étranger (Gigue existentielle)"**
-- Singiel dostępny w wersji angielskiej i francuskiej
+- Single available in English and French versions
 
 **9. Billy Woods - "Versailles"**
-- Bezpośrednie odniesienia do zabójstwa z powieści
+- Direct references to the murder from the novel
 
-**10. Feridun Düzağaç - "Yabancı" (Turek)**
-- Turecka pioska rockowa dedykowana powieści Camusa
-- Teksty odzwierciedlają alienację protagonisty
+**10. Feridun Düzağaç - "Yabancı" (Turkish)**
+- Turkish rock song dedicated to Camus's novel
+- Lyrics reflect the protagonist's alienation
 
 **11. Protest The Hero**
-- Wokalista ma tatuaż "It is better to burn than to disappear"
+- Vocalist has tattoo "It is better to burn than to disappear"
 
 **12. The Lawrence Arms**
-- Czytanie fragmentów powieści podczas "Asa Phelps Is Dead"
+- Reading novel excerpts during "Asa Phelps Is Dead"
 
-## Fenomen społeczny i kulturowy
+## Social and Cultural Phenomenon
 
-### Rankingi i uznanie
+### Rankings and Recognition
 
-**13. Le Monde - 100 Książek XX wieku**
-- "Obcy" na pierwszym miejscu
-- Najważniejsza książka stulecia według francuskiego dziennika
+**13. Le Monde - 100 Books of the 20th Century**
+- "The Stranger" in first place
+- Most important book of the century according to French newspaper
 
 **14. Le Temps**
-- Trzecia najlepsza książka napisana po francusku w XX i XXI wieku
-- Jury 50 znawców literatury
+- Third best book written in French in 20th and 21st centuries
+- Jury of 50 literature experts
 
-**15. Wpływ na współczesnych czytelników**
-- Czytelnicy francuscy widzieli w Meursaulcie odbicie swojej bezsensownej egzystencji
-- Europejska publiczność identyfikowała się z wizją irracjonalnego i amoralnego świata
-- Egzystencjalizm i filozofia absurdu jako odpowiedź na utratę sensu życia
+**15. Impact on Contemporary Readers**
+- French readers saw in Meursault reflection of their senseless existence
+- European public identified with vision of irrational and amoral world
+- Existentialism and philosophy of absurd as response to loss of life's meaning
 
-### Edukacja i nauczanie
+### Education and Teaching
 
-**16. Podstawa programowa szkół średnich**
-- Powieść powszechnie nauczana w amerykańskich liceach
-- Materiały edukacyjne dostępne przez Teachers Pay Teachers
-- 16-stronicowe pakiety do nauczania powieści
-- 90-stronicowe plany jednostek zgodne z Common Core
+**16. High School Core Curriculum**
+- Novel commonly taught in American high schools
+- Educational materials available through Teachers Pay Teachers
+- 16-page novel teaching packages
+- 90-page unit plans aligned with Common Core
 
-**17. Program Matury Międzynarodowej (IB)**
-- Nauczana w IB Literature i IB Language and Literature
-- Studiowana razem z zaawansowaną teorią literatury
+**17. International Baccalaureate (IB) Program**
+- Taught in IB Literature and IB Language and Literature
+- Studied alongside advanced literary theory
 
-**18. Kontekst filozoficzny w edukacji**
-- Wprowadzenie do egzystencjalizmu przed lekturą
-- Działania przedczytaniowe obejmujące kolonizację francuską w Algierii
-- Biografię Camusa, kontekst II wojny światowej
-- Prawa dotyczące kary śmierci, filozofię egzystencjalną
+**18. Philosophical Context in Education**
+- Introduction to existentialism before reading
+- Pre-reading activities covering French colonization in Algeria
+- Camus's biography, World War II context
+- Death penalty laws, existential philosophy
 
-## Kultura fanów i społeczności
+## Fan Culture and Communities
 
-### TikTok i BookTok
+### TikTok and BookTok
 
-**19. Kultura memów na TikTok**
-- Popularne hashtagi: #booktok, #albertcamus, #thestranger, #nihilism, #absurdism
-- Żarty o Meursaulcie: "nudzi się na pogrzebie własnej matki"
-- Memy o "złych rzeczach dzieje się, bo nie radzi sobie ze słońcem"
+**19. Meme Culture on TikTok**
+- Popular hashtags: #booktok, #albertcamus, #thestranger, #nihilism, #absurdism
+- Jokes about Meursault: "bored at his own mother's funeral"
+- Memes about "bad things happen because he can't deal with the sun"
 - Format "rip albert camus. you would have hated this"
 
-**20. BookTok integration**
-- Młodzi czytelnicy dzielą się przemyśleniami o klasycznej literaturze
-- Hashtagi: #darkacademia, #existentialism, #currentlyreading
-- Integracja z kulturą młodych czytelników
+**20. BookTok Integration**
+- Young readers sharing thoughts on classic literature
+- Hashtags: #darkacademia, #existentialism, #currentlyreading
+- Integration with young readers' culture
 
-### Tatuaże i kultura wizualna
+### Tattoos and Visual Culture
 
-**21. Tatuaże inspirowane Camusem**
-- Popularne na Pintereście i mediach społecznościowych
-- Kolekcje "literary tattoos" z cytatami z Camusa
-- Projekty tatuaży dotyczące absurdyzmu i "Obcego"
+**21. Camus-Inspired Tattoos**
+- Popular on Pinterest and social media
+- "Literary tattoos" collections with Camus quotes
+- Tattoo designs about absurdism and "The Stranger"
 
-**22. Kultura memów i humorystyczne podejścia**
-- Ironiczne komentarze do działań Meursaulta
-- Żarty o intensywności słońca jako przyczynie tragedii
-- Negatywne oceny książki jako forma humoru internetowego
+**22. Meme Culture and Humorous Approaches**
+- Ironic comments on Meursault's actions
+- Jokes about sun intensity as cause of tragedy
+- Negative book reviews as form of internet humor
 
-## Merchandising i komercjalizacja
+## Merchandising and Commercialization
 
-### Wydania kolekcjonerskie i specjalne
+### Collector's and Special Editions
 
-**23. Liczne tłumaczenia angielskie**
-- Stuart Gilbert (1946) - pierwszy standard przez 30 lat
-- Joseph Laredo (1982) - wydanie Hamish Hamilton/Penguin 2000
-- Matthew Ward (1988) - wierniejsze oryginalnemu tonowi
-- Sandra Smith (2012) - wydanie Penguin jako "The Outsider"
+**23. Numerous English Translations**
+- Stuart Gilbert (1946) - first standard for 30 years
+- Joseph Laredo (1982) - Hamish Hamilton/Penguin 2000 edition
+- Matthew Ward (1988) - more faithful to original tone
+- Sandra Smith (2012) - Penguin edition as "The Outsider"
 
-**24. Przewodniki i materiały edukacyjne**
+**24. Guides and Educational Materials**
 - "Study Guide to The Stranger and Other Works" - Intelligent Education
 - LitCharts Study Guide
-- Kompleksowe materiały dla nauczycieli
+- Comprehensive teacher materials
 
-**25. Branded content i merchandising**
-- Koszulki i gadżety z cytatami z powieści
-- Plakaty z filozoficznymi fragmentami
-- Akcesoria bookowe z motywami absurdystycznymi
+**25. Branded Content and Merchandising**
+- T-shirts and gadgets with novel quotes
+- Posters with philosophical excerpts
+- Book accessories with absurdist motifs
 
-## Miejsca związane z książką
+## Places Related to the Book
 
-### Algieria - ograniczone uznanie
+### Algeria - Limited Recognition
 
-**26. Tipaza - najważniejsze miejsce literackie**
-- Ruiny rzymskie nad morzem i górą Chenoua
-- Stela z 1961 roku z frazą z "Zaślubin": "Rozumiem tu to, co nazywa się chwałą: prawo do kochania bez miary"
-- Miejsce, gdzie czuje się najbliżej Camusa
+**26. Tipaza - Most Important Literary Place**
+- Roman ruins by the sea and Mount Chenoua
+- 1961 stele with phrase from "Nuptials": "I understand here what is called glory: the right to love without measure"
+- Place where one feels closest to Camus
 
-**27. Algier - miejsce akcji**
-- Brak dedykowanych muzeów Camusa
-- Miasto, gdzie Meursault zabił nienazwanego Araba
-- Świadome "narodowe zapomnienie" największego pisarza kraju
+**27. Algiers - Setting Location**
+- No dedicated Camus museums
+- City where Meursault killed the unnamed Arab
+- Conscious "national forgetting" of the country's greatest writer
 
-### Francja - liczne miejsca literackie
+### France - Numerous Literary Places
 
 **28. Hotel du Poirier, Montmartre (16 rue Ravignan)**
-- Miejsce, gdzie Camus ukończył pierwszy szkic powieści
-- Samotny pokój hotelowy z czystszym powietrzem dla chorego na gruźlicę
-- Dziś można wynająć apartament w tym hotelu
+- Place where Camus completed the novel's first draft
+- Lonely hotel room with cleaner air for tuberculosis patient
+- Today you can rent an apartment in this hotel
 
 **29. Le Hoggar (67 rue Monsieur le Prince)**
-- Ulubiona restauracja Camusa na kuskus
-- Otwarta w latach 30. przez zwolennika niepodległości Algierii
-- Obecnie kino "Trois Luxembourgs" - pierwsze multiplex w Paryżu
+- Camus's favorite restaurant for couscous
+- Opened in the 1930s by Algeria independence supporter
+- Now "Trois Luxembourgs" cinema - first multiplex in Paris
 
 **30. Hôtel Montalembert**
-- Taras do picia w pobliżu miejsca publikacji jego dzieł
+- Drinking terrace near where his works were published
 
-## Cytaty i nawiązania w innych dziełach
+## Quotes and References in Other Works
 
-### Telewizja i film
+### Television and Film
 
 **31. Gossip Girl**
-- Dan Humphrey otrzymuje egzemplarz od Louisa Grimaldiego
-- Cytat: "Camus powiedział, że życie to suma naszych wyborów"
-- Symbolizuje status "outsidera" protagonisty
+- Dan Humphrey receives copy from Louis Grimaldi
+- Quote: "Camus said that life is the sum of our choices"
+- Symbolizes protagonist's "outsider" status
 
-**32. Seinfeld - finałowy odcinek**
-- Porównywany do "Obcego" za komiczno-ponury ton
-- Myśl Camusa używana do wyjaśnienia odcinków Simpsonów
+**32. Seinfeld - Final Episode**
+- Compared to "The Stranger" for comic-grim tone
+- Camus's thought used to explain Simpsons episodes
 
 **33. Life of Pi**
-- Główny bohater pokazany czytający powieść
-- Krótkie pojawienie się w filmie
+- Main character shown reading the novel
+- Brief appearance in the film
 
-### Literatura i krytyka
+### Literature and Criticism
 
 **34. Edward Said - "Culture and Imperialism"**
-- Przywrócił uwagę na francuski algierski kontekst powieści
-- Postkolonialna recepcja klasyka Camusa
+- Restored attention to French Algerian context of novel
+- Postcolonial reception of Camus classic
 
 **35. Jean-Paul Sartre - "Explication de L'Étranger" (1947)**
-- Artykuł, który zwiększył popularność wśród kół antynazistowskich
-- Fundamentalny dla recepcji powieści
+- Article that increased popularity among anti-Nazi circles
+- Fundamental for novel's reception
 
-## Parodie, hołdy i reimaginacje
+## Parodies, Tributes and Reimaginings
 
-### Współczesne reimaginacje
+### Contemporary Reimaginings
 
 **36. "The Meursault Investigation" - Kamel Daoud**
-- Przewrócenie narracji Camusa
-- Perspektywa brata zamordowanego Araba
-- Krytyka nieobecności arabskiego punktu widzenia w oryginale
+- Reversal of Camus's narrative
+- Perspective of murdered Arab's brother
+- Critique of absence of Arab viewpoint in original
 
-**37. Komiks Jacques'a Ferrandeza (2013)**
-- Adaptacja na 100. rocznicę urodzin Camusa
-- Wizualne ujęcie klasycznej narracji
+**37. Jacques Ferrandez Comic (2013)**
+- Adaptation for Camus's 100th birthday
+- Visual take on classic narrative
 
-### Postkolonialna krytyka
+### Postcolonial Criticism
 
-**38. Współczesne odczytania**
-- Odrzucenie kolonializmu przez nowe pokolenia
-- Inteligentne aktualizacje dla współczesnych odbiorców
-- Adresowanie kolonialnego kontekstu nieobecnego w oryginale
+**38. Contemporary Readings**
+- Rejection of colonialism by new generations
+- Intelligent updates for contemporary audiences
+- Addressing colonial context absent in original
 
-**39. Algierska debata o Camusie**
-- Kamel Daoud: "Musimy go nie tylko czytać, uczyć w naszych szkołach, ale także się go domagać"
-- "Jedna z postaci naszej zranionej historii, będąc jednocześnie częścią rany"
+**39. Algerian Debate about Camus**
+- Kamel Daoud: "We must not only read him, teach him in our schools, but also demand him"
+- "One of the figures of our wounded history, while being part of the wound"
 
-### Kontrowersje i debaty
+### Controversies and Debates
 
-**40. Postrzeganie jako kolonialisty**
-- W algierskich szkołach uważany za kolonialistę
-- Brak oficjalnych uczczenie nawet w setną rocznicę
-- Celowe "narodowe zapomnienie" największego pisarza kraju
+**40. Perception as Colonialist**
+- In Algerian schools considered a colonialist
+- No official commemoration even on centenary
+- Intentional "national forgetting" of country's greatest writer
 
-**41. Debata we Francji**
-- Stanowisko Camusa wobec Algierii nadal wywołuje debaty
-- NPR: "W setną rocznicę urodzin więzi algierskie Camusa nadal kontrowersyjne"
+**41. Debate in France**
+- Camus's position toward Algeria still sparks debates
+- NPR: "On centenary, Camus's Algerian ties still controversial"
 
-## Wpływ na filozofię i myśl współczesną
+## Impact on Philosophy and Contemporary Thought
 
-### Egzystencjalizm i absurdyzm
+### Existentialism and Absurdism
 
-**42. Pojęcie absurdu w kulturze popularnej**
-- Przez Camusa absurd stał się częścią nie tylko literatury światowej i filozofii XX wieku
-- Również współczesnej kultury popularnej
-- Sitcomowi scenarzyści i stand-uperzy rozumieją znaczenie absurdu
+**42. Concept of Absurd in Popular Culture**
+- Through Camus, absurd became part not only of world literature and 20th-century philosophy
+- Also contemporary popular culture
+- Sitcom writers and stand-up comedians understand meaning of absurd
 
-**43. Filozoficzny wpływ**
-- Camus jako ekspozytor, anatom i poeta-apostoł absurdu
-- Wpływ na sposób myślenia o alienacji, znaczeniu i prawdzie
-- Lustro dla naszego własnego związku z sensem, społeczeństwem i prawdą
+**43. Philosophical Impact**
+- Camus as expositor, anatomist and poet-apostle of absurd
+- Impact on thinking about alienation, meaning and truth
+- Mirror for our own relationship with sense, society and truth
 
-### Psychologia i socjologia
+### Psychology and Sociology
 
-**44. Meursault jako typ społeczny**
-- Człowiek, który nie podąża za zdefiniowanymi regułami dobra i zła
-- Nie pasuje do kategorii społecznych
-- Odmawia zachowania się tak, jakby był sens tam, gdzie go nie ma
-- Społeczeństwo czuje się zagrożone i "odcina głowę Meursaultowi"
+**44. Meursault as Social Type**
+- Man who doesn't follow defined rules of good and evil
+- Doesn't fit social categories
+- Refuses to behave as if there's meaning where there isn't
+- Society feels threatened and "cuts off Meursault's head"
 
-## Międzynarodowy wpływ i tłumaczenia
+## International Impact and Translations
 
-### Globalna recepcja
+### Global Reception
 
-**45. Wpływ na miliony amerykańskich czytelników**
-- Od pierwszego angielskiego wydania w 1946 roku
-- Podstawa kursów literatury w amerykańskich liceach
-- Głęboki wpływ na amerykańskich czytelników
+**45. Impact on Millions of American Readers**
+- Since first English edition in 1946
+- Foundation of literature courses in American high schools
+- Deep impact on American readers
 
-**46. Międzynarodowe tłumaczenia**
-- Tłumaczenia na dziesiątki języków
-- Każde tłumaczenie wnosi nową perspektywę interpretacyjną
-- Różne tytuły: "The Stranger" (USA), "The Outsider" (UK)
+**46. International Translations**
+- Translations into dozens of languages
+- Each translation brings new interpretive perspective
+- Different titles: "The Stranger" (USA), "The Outsider" (UK)
 
-**47. Literatura światowa**
-- Kwalifikuje się jako literatura światowa przez uniwersalne tematy
-- Przekracza granice narodowe
-- Kontynuujący wpływ na globalny dyskurs literacki
+**47. World Literature**
+- Qualifies as world literature through universal themes
+- Transcends national boundaries
+- Continuing impact on global literary discourse
 
-### Współczesne znaczenie
+### Contemporary Significance
 
-**48. Trwająca fascynacja**
-- Nie tylko jedna z najszerzej czytanych powieści XX wieku
-- Prawdopodobnie przetrwa stulecie
-- Trwała popularność przez ujawnienie lęków swojej epoki
+**48. Continuing Fascination**
+- Not only one of most widely read novels of 20th century
+- Likely to survive the century
+- Lasting popularity through revealing anxieties of its era
 
-**49. Niepokoje współczesne**
-- Alienacja, strach przed anonimowością, wątpliwości duchowe
-- Tematyka i światopogląd jako przykłady egzystencjalizmu
-- Treść eksploruje różne szkoły filozoficzne: absurdyzm, determinizm, nihilizm
+**49. Contemporary Anxieties**
+- Alienation, fear of anonymity, spiritual doubts
+- Themes and worldview as examples of existentialism
+- Content explores various philosophical schools: absurdism, determinism, nihilism
 
-**50. Dziedzictwo i wpływ**
-- Zmiana historii nowoczesnej literatury
-- Uproszczenie ekspresji i pogłębienie celu gatunku powieściowego
-- "Transfuzja krwi" dla gatunku powieści
-- Fundamentalny tekst dla zrozumienia nowoczesnej literatury
+**50. Legacy and Impact**
+- Changed history of modern literature
+- Simplified expression and deepened purpose of novel genre
+- "Blood transfusion" for novel genre
+- Fundamental text for understanding modern literature
 
-## Podsumowanie
+## Summary
 
-"Obcy" Alberta Camusa przekroczył granice literatury, stając się fenomenem kulturowym o globalnym zasięgu. Od wpływu na wielkich twórców jak Craig Nova po inspirację dla zespołów rockowych jak The Cure, od adaptacji filmowych Viscontiego po współczesne reimaginacje Kamela Daouda - powieść nadal kształtuje kulturę popularną i intelektualną debatę.
+"The Stranger" by Albert Camus has transcended the boundaries of literature, becoming a cultural phenomenon of global reach. From influencing great creators like Craig Nova to inspiring rock bands like The Cure, from Visconti's film adaptations to contemporary reimaginings by Kamel Daoud - the novel continues to shape popular culture and intellectual debate.
 
-Jej wpływ widoczny jest w:
-- **Kinematografii**: od klasycznych adaptacji po współczesne reimaginacje
-- **Muzyce**: od punku po rock alternatywny
-- **Literaturze**: inspiracja dla kolejnych pokoleń pisarzy
-- **Edukacji**: podstawa programów nauczania filozofii i literatury
-- **Kulturze młodzieżowej**: memy, TikTok, BookTok
-- **Filozofii**: kształtowanie rozumienia absurdu i egzystencjalizmu
+Its impact is visible in:
+- **Cinema**: from classic adaptations to contemporary reimaginings
+- **Music**: from punk to alternative rock
+- **Literature**: inspiration for subsequent generations of writers
+- **Education**: foundation of philosophy and literature teaching programs
+- **Youth Culture**: memes, TikTok, BookTok
+- **Philosophy**: shaping understanding of absurd and existentialism
 
-"Obcy" pozostaje dzisiaj tak samo istotny jak w 1942 roku, oferując lustro dla naszego własnego związku z sensem, społeczeństwem i prawdą w erze mediów społecznościowych i globalnej kultury.
+"The Stranger" remains as relevant today as in 1942, offering a mirror for our own relationship with meaning, society and truth in the era of social media and global culture.

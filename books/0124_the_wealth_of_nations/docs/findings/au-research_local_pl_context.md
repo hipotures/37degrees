@@ -1,170 +1,204 @@
-# Lokalny Kontekst Kulturowy: "Bogactwo narodów" Adama Smitha w Polsce
+# Local Cultural Context: "The Wealth of Nations" by Adam Smith in Poland
 
-## Wprowadzenie
-"An Inquiry into the Nature and Causes of the Wealth of Nations" (1776) Adama Smitha, znane w Polsce jako "Badania nad naturą i przyczynami bogactwa narodów", odegrało kluczową rolę w kształtowaniu polskiej myśli ekonomicznej, szczególnie podczas transformacji ustrojowej po 1989 roku.
+## Introduction
+"An Inquiry into the Nature and Causes of the Wealth of Nations" (1776) by Adam Smith, known in Poland as "Badania nad natura i przyczynami bogactwa narodow," played a crucial role in shaping Polish economic thought, especially during the political transformation after 1989.
 
-## Historia Publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze Wydanie (1954)
-- **Pierwszy przekład**: Wydany w 1954 roku w Polsce Ludowej
-- **Pełny tytuł**: "Badania nad naturą i przyczynami bogactwa narodów"
-- **Kontekst historyczny**: Publikacja w okresie socjalizmu była paradoksalna, ale służyła celom akademickim
+### First Edition (1954)
+- **First translation**: Published in 1954 in People's Poland
+- **Full title**: "Badania nad natura i przyczynami bogactwa narodow"
+- **Historical context**: Publication during socialism was paradoxical but served academic purposes
 
-### Wydania Współczesne
-- **Drugie wydanie**: Z nową przedmową prof. dr hab. Zdzisława Sadowskiego
-- **Struktura**: Dzieło składa się z 2 tomów podzielonych na 5 części
-- **Wydania elektroniczne**: Dostępne w formatach epub i mobi (2024)
-- **Tłumacze**: Oswald Einfeld i Stefan Wolff
+### Contemporary Editions
+- **Second edition**: With new foreword by Prof. Dr. Zdzislaw Sadowski
+- **Structure**: The work consists of 2 volumes divided into 5 parts
+- **Electronic editions**: Available in epub and mobi formats (2024)
+- **Translators**: Oswald Einfeld and Stefan Wolff
 
-## Polscy Tłumacze i Badacze
+## Polish Translators and Researchers
 
-### Kluczowi Tłumacze
-- **Oswald Einfeld i Stefan Wolff**: Autorzy głównego polskiego przekładu
-- **Prof. Zdzisław Sadowski**: Autor przedmowy do drugiego wydania
+### Key Translators
+- **Oswald Einfeld and Stefan Wolff**: Authors of the main Polish translation
+- **Prof. Zdzislaw Sadowski**: Author of the foreword to the second edition
 
-### Polscy Badacze i Interpretatorzy
-- **Prof. Wiesław Piątkowski** (Uniwersytet Łódzki): Autor szczegółowej analizy "Adam Smith. Ekonomia polityczna"
-- **Prof. Helena Przybyła** (UEK Kraków): Badaczka filozoficznego rodowodu myśli Smitha
-- **Prof. Rafał Lis**: Analizował związki między doktryną Smitha a polskimi reformatorami XVIII wieku
+### Polish Researchers and Interpreters
+- **Prof. Wieslaw Piatkowski** (University of Lodz): Author of detailed analysis "Adam Smith. Political Economy"
+- **Prof. Helena Przybyla** (UEK Krakow): Researcher of the philosophical roots of Smith's thought
+- **Prof. Rafal Lis**: Analyzed connections between Smith's doctrine and 18th-century Polish reformers
 
-## Edukacyjny Kontekst w Polsce
+## Educational Context in Poland
 
-### Uniwersytety i Szkoły Wyższe
-- **SGH Warszawa**: "Bogactwo narodów" jako lektura obowiązkowa na ekonomii
-- **UEK Kraków**: Bogate zasoby biblioteczne i badania nad Smithem
-- **Uniwersytet Warszawski**: Materiały dostępne w ramach kursów ekonomii
-- **Uniwersytet Łódzki**: Centrum badań nad myślą ekonomiczną Smitha
+### Universities and Higher Education
+- **SGH Warsaw**: "The Wealth of Nations" as mandatory reading in economics
+- **UEK Krakow**: Rich library resources and research on Smith
+- **University of Warsaw**: Materials available within economics courses
+- **University of Lodz**: Center for research on Smith's economic thought
 
-### Szkolnictwo Średnie
-- **"Podstawy przedsiębiorczości"**: Smith jako przykład klasycznej ekonomii
-- **Liceum**: Koncepcja "niewidzialnej ręki" w podręcznikach ekonomii
-- **Matura**: Pytania o liberalizm ekonomiczny i wolny rynek
+### Secondary Education
+- **"Basics of Entrepreneurship"**: Smith as an example of classical economics
+- **High School**: Concept of "invisible hand" in economics textbooks
+- **Matura exam**: Questions about economic liberalism and free market
 
-## Transformacja Ustrojowa 1989
+## Political Transformation 1989
 
-### Leszek Balcerowicz i "Plan Balcerowicza"
-- **Inspiracja**: Reformy oparte na klasycznej ekonomii Smitha
-- **"Terapia wstrząsowa"**: Szybkie przejście do gospodarki wolnorynkowej
-- **Cytat Balcerowicza**: "Strefa euro potrzebuje klasycznej ekonomii, nie Keynesa, ale Adama Smitha"
-- **Rezultaty**: Redukcja inflacji, ale wzrost bezrobocia z 0,3% do 16%
+### Leszek Balcerowicz and "Balcerowicz Plan"
+- **Inspiration**: Reforms based on Smith's classical economics
+- **"Shock therapy"**: Rapid transition to free-market economy
+- **Balcerowicz quote**: "The eurozone needs classical economics, not Keynes, but Adam Smith"
+- **Results**: Inflation reduction, but unemployment rise from 0.3% to 16%
 
-### Znaczenie dla Polski
-- **Teoretyczne podstawy**: Smith dostarczył uzasadnienia dla reform wolnorynkowych
-- **Krytyka socjalizmu**: Jego idee kontrastowały z gospodarką planową PRL
-- **"Niewidzialna ręka"**: Symbol samoregulacji rynku w dyskursie publicznym
+### Significance for Poland
+- **Theoretical foundations**: Smith provided justification for free-market reforms
+- **Critique of socialism**: His ideas contrasted with PRL's planned economy
+- **"Invisible hand"**: Symbol of market self-regulation in public discourse
 
-## Polskie Interpretacje Kluczowych Koncepcji
+## Polish Interpretations of Key Concepts
 
-### "Niewidzialna Ręka" - Polskie Tłumaczenie
-**Klasyczny cytat**: "Ponieważ zaś każdy człowiek stara się, jak tylko może, aby użyć swego kapitału do wytwórczości krajowej oraz tak pokierować tą wytwórczością, ażeby jej produkt posiadał możliwie największą wartość, przeto każdy człowiek pracuje z konieczności nad tym, by dochód społeczny był jak największy (...) w tym, jak i w wielu innych przypadkach, jakaś niewidzialna ręka kieruje nim tak, aby zdążał do celu, którego wcale nie zamierzał osiągnąć."
+### "Invisible Hand" - Polish Translation
+**Classical quote**: "Since every person strives, as much as possible, to use their capital for domestic production and to direct this production so that its product has the greatest possible value, therefore every person necessarily works to make social income as large as possible (...) in this, as in many other cases, some invisible hand guides them toward a goal they never intended to achieve."
 
-### Polskie Rozumienie
-- **Metafora**: Ilustruje bezosobowy charakter procesów rynkowych
-- **Harmonizacja**: Przekształca egoistyczne interesy w dobro wspólne
-- **Efektywność**: Zapewnia optymalny podział pracy przez alokację czynników produkcji
+### Polish Understanding
+- **Metaphor**: Illustrates the impersonal nature of market processes
+- **Harmonization**: Transforms selfish interests into common good
+- **Efficiency**: Ensures optimal division of labor through allocation of production factors
 
-## Współczesne Debaty i Kontrowersje
+## Contemporary Debates and Controversies
 
-### Krytyka Polityczna - "Czy Adam Smith był socjalistą?"
-- **Nowe interpretacje**: Smith jako prekursor socjaldemokracji
-- **Rola państwa**: Smith nie był przeciwny interwencji państwa
-- **Regulacje**: Popierał kontrolę jakości produktów i ochronę pracowników
-- **Cytat**: "Wszystko dla nas, nic dla innych ludzi - zdaje się być obrzydliwą maksymą panów tego świata"
+### Political Critique - "Was Adam Smith a Socialist?"
+- **New interpretations**: Smith as precursor to social democracy
+- **Role of state**: Smith was not opposed to state intervention
+- **Regulations**: Supported quality control of products and worker protection
+- **Quote**: "All for ourselves, and nothing for other people - seems to be the vile maxim of the masters of mankind"
 
-### Polski Ład i Społeczna Gospodarka Rynkowa
-- **Mateusz Morawiecki**: Odwołania do idei społecznej gospodarki rynkowej
-- **Debata publiczna**: Dyskusje o właściwym modelu ekonomicznym dla Polski
-- **Smith vs Keynes**: Współczesne spory o rolę państwa w ekonomii
+### Polish Deal and Social Market Economy
+- **Mateusz Morawiecki**: References to social market economy ideas
+- **Public debate**: Discussions about the proper economic model for Poland
+- **Smith vs Keynes**: Contemporary disputes about the role of state in economics
 
-## Regionalne Połączenia - Małopolska
+## Regional Connections - Lesser Poland
 
-### Kraków jako Centrum Badań
-- **UEK Kraków**: Główny ośrodek badań nad myślą Smitha
-- **BazEkon**: Największa baza polskich publikacji ekonomicznych o Smithe
-- **Biblioteka Główna UEK**: Rozbudowane zbiory dotyczące klasycznej ekonomii
+### Krakow as Research Center
+- **UEK Krakow**: Main center for research on Smith's thought
+- **BazEkon**: Largest database of Polish economic publications about Smith
+- **UEK Main Library**: Extensive collections on classical economics
 
-### Historyczne Nawiązania
-- **Hugo Kołłątaj**: Polscy reformatorzy XVIII wieku a doktryna wolnego handlu
-- **Michał Ossowski**: Związki z myślą ekonomiczno-polityczną Smitha
-- **Komisja Edukacji Narodowej**: Pierwsze próby nowoczesnej edukacji ekonomicznej
+### Historical References
+- **Hugo Kollataj**: Polish 18th-century reformers and free trade doctrine
+- **Michal Ossowski**: Connections with Smith's economic-political thought
+- **National Education Commission**: First attempts at modern economic education
 
-## Adam Smith a Polska Historia
+## Adam Smith and Polish History
 
-### XVIII-XIX Wiek
-- **Obserwacje Smitha**: Wspomniał Polskę w "Bogactwie narodów"
-- **Zboże polskie**: Smith porównywał jakość polskiego zboża z francuskim
-- **Brak manufaktur**: Zauważał, że Polska nie produkuje wyrobów przemysłowych
+### 18th-19th Century
+- **Smith's observations**: Mentioned Poland in "The Wealth of Nations"
+- **Polish grain**: Smith compared quality of Polish grain with French
+- **Lack of manufactures**: Noted that Poland did not produce industrial goods
 
-### Wilno i Filomaci
-- **"Adam Smith, Mickiewicz i filomaci: wileńska lekcja ekonomii"**
-- **Uniwersytet Wileński**: Wczesne nauczanie ekonomii politycznej
-- **Romantyzm vs Oświecenie**: Napięcie między ideałami a praktyką gospodarczą
+### Vilnius and Philomaths
+- **"Adam Smith, Mickiewicz and Philomaths: Vilnius Economics Lesson"**
+- **University of Vilnius**: Early teaching of political economy
+- **Romanticism vs Enlightenment**: Tension between ideals and economic practice
 
-## Popularna Kultura i Internet
+## Popular Culture and Internet
 
-### Cytaty w Kulturze Popularnej
-- **Polskie Wikicytaty**: Zbiór najważniejszych cytatów Smitha
-- **"Mając na uwadze swój własny interes"**: Najczęściej cytowany fragment
-- **Memy internetowe**: "Niewidzialna ręka" jako element humoru ekonomicznego
+### Quotes in Popular Culture
+- **Polish Wikiquotes**: Collection of Smith's most important quotes
+- **"By pursuing his own interest"**: Most frequently quoted fragment
+- **Internet memes**: "Invisible hand" as element of economic humor
 
-### Edukacja Online
-- **Centrum im. Adama Smitha**: Pierwszy niezależny instytut w Polsce (od 1989)
-- **YouTube**: Konferencje i wykłady o ekonomii klasycznej
-- **Portale edukacyjne**: Materiały dla szkół średnich
+### Online Education
+- **Adam Smith Center**: First independent institute in Poland (since 1989)
+- **YouTube**: Conferences and lectures on classical economics
+- **Educational portals**: Materials for secondary schools
 
-## Wyzwania Tłumaczeniowe
+## Translation Challenges
 
-### Problemy Językowe
-- **"Wealth of Nations"**: "Bogactwo narodów" vs "Zamożność narodów"
-- **"Invisible hand"**: "Niewidzialna ręka" - dosłowne tłumaczenie
-- **"Political economy"**: "Ekonomia polityczna" - historyczne znaczenie
+### Language Problems
+- **"Wealth of Nations"**: "Bogactwo narodow" vs "Zamoznosc narodow"
+- **"Invisible hand"**: "Niewidzialna reka" - literal translation
+- **"Political economy"**: "Ekonomia polityczna" - historical meaning
 
-### Kontekst Kulturowy
-- **Szkockie Oświecenie**: Trudność w przekazaniu filozoficznego kontekstu
-- **Protestantyzm**: Etyka pracy nieznana w katolickiej Polsce
-- **Empiryzm**: Brytyjski pragmatyzm vs kontinentalny racjonalizm
+### Cultural Context
+- **Scottish Enlightenment**: Difficulty conveying philosophical context
+- **Protestantism**: Work ethic unknown in Catholic Poland
+- **Empiricism**: British pragmatism vs continental rationalism
 
-## Współczesna Recepcja
+## Contemporary Reception
 
-### Media i Publicystyka
-- **Obserwator Finansowy**: Regularne artykuły o ekonomii klasycznej
-- **Krytyka Polityczna**: Alternatywne interpretacje myśli Smitha
-- **Polskie Radio**: Programy historyczne o wielkich ekonomistach
+### Media and Journalism
+- **Financial Observer**: Regular articles on classical economics
+- **Political Critique**: Alternative interpretations of Smith's thought
+- **Polish Radio**: Historical programs about great economists
 
-### Akademicka Obecność
-- **Czasopisma naukowe**: Studia Ekonomiczne, Ekonomista, Doctrina
-- **Konferencje**: Regularne sympozja o historii myśli ekonomicznej
-- **Granty badawcze**: Finansowanie badań nad klasykami ekonomii
+### Academic Presence
+- **Academic journals**: Economic Studies, Economist, Doctrina
+- **Conferences**: Regular symposiums on history of economic thought
+- **Research grants**: Funding for research on economics classics
 
-## Znaczenie dla Polskiej Młodzieży
+## Significance for Polish Youth
 
-### Edukacyjne Wyzwania
-- **Abstrakcyjność teorii**: Trudność w zrozumieniu koncepcji ekonomicznych
-- **Historyczny dystans**: XVIII wiek wydaje się odległy
-- **Praktyczne zastosowania**: Potrzeba pokazania relevantności dla dzisiejszej ekonomii
+### Educational Challenges
+- **Theory abstraction**: Difficulty understanding economic concepts
+- **Historical distance**: 18th century seems remote
+- **Practical applications**: Need to show relevance for today's economics
 
-### Potencjał dla Contentu Edukacyjnego
-- **TikTok/YouTube**: Możliwość tworzenia krótkich materiałów o ekonomii
-- **Memy i humor**: "Niewidzialna ręka" jako źródło żartów ekonomicznych
-- **Współczesne przykłady**: Aplikacje teorii do polskich realiów gospodarczych
+### Potential for Educational Content
+- **TikTok/YouTube**: Possibility of creating short economics materials
+- **Memes and humor**: "Invisible hand" as source of economic jokes
+- **Contemporary examples**: Applications of theory to Polish economic realities
 
-## Fakty i Ciekawostki dla Polskich Odbiorców
+## Facts and Curiosities for Polish Audiences
 
-1. **Pierwsze polskie wydanie** "Bogactwa narodów" pojawiło się dopiero w 1954 roku, 178 lat po oryginale
-2. **Leszek Balcerowicz** nazywał siebie "uczniem Adama Smitha" podczas reform gospodarczych
-3. **UEK w Krakowie** posiada jedną z największych kolekcji materiałów o Smithe w Polsce
-4. **"Niewidzialna ręka"** pojawia się w oryginale tylko kilka razy, ale stała się symbolem kapitalizmu
-5. **Smith wspomina Polskę** w "Bogactwie narodów", porównując polskie zboże z francuskim
-6. **Centrum im. Adama Smitha** w Warszawie to pierwszy niezależny instytut w Polsce po 1989 roku
-7. **Polscy ekonomiści** odkryli związki między Smithem a polskimi reformatorami XVIII wieku
-8. **"Terapia wstrząsowa"** Balcerowicza była inspirowana klasyczną ekonomią Smitha
-9. **Smith był filozofem moralnym**, nie tylko ekonomistą - co często pomijają polskie interpretacje
-10. **Współczesna krytyka** przedstawia Smitha jako prekursora socjaldemokracji, nie neoliberalizmu
+1. **First Polish edition** of "The Wealth of Nations" appeared only in 1954, 178 years after the original
+2. **Leszek Balcerowicz** called himself "Adam Smith's student" during economic reforms
+3. **UEK in Krakow** has one of the largest collections of Smith materials in Poland
+4. **"Invisible hand"** appears in the original only a few times but became symbol of capitalism
+5. **Smith mentions Poland** in "The Wealth of Nations," comparing Polish grain with French
+6. **Adam Smith Center** in Warsaw is the first independent institute in Poland after 1989
+7. **Polish economists** discovered connections between Smith and Polish 18th-century reformers
+8. **Balcerowicz's "shock therapy"** was inspired by Smith's classical economics
+9. **Smith was a moral philosopher**, not just economist - often omitted in Polish interpretations
+10. **Contemporary critique** presents Smith as precursor to social democracy, not neoliberalism
 
-## Wnioski
+## Academic Interpretations by Polish Scholars
 
-"Bogactwo narodów" Adama Smitha odegrało fundamentalną rolę w kształtowaniu polskiej myśli ekonomicznej, szczególnie podczas transformacji ustrojowej. Dzieło pozostaje aktualne w polskich debatach o modelu gospodarczym, choć jego interpretacje ewoluują od ortodoksyjnego liberalizmu ku bardziej zniuansowanemu rozumieniu roli rynku i państwa. Dla polskiej młodzieży Smith może być bramą do zrozumienia zarówno historii ekonomii, jak i współczesnych dyskusji o sprawiedliwości społecznej i efektywności gospodarczej.
+### University Research Centers
+- **Warsaw School of Economics (SGH)**: Leading research on classical economics application in transition economies
+- **Krakow University of Economics**: Specialized studies on Smith's influence on Polish economic policy
+- **University of Lodz**: Historical analysis of Smith's reception in Central Europe
+
+### Notable Polish Academic Works
+- **Prof. Janusz Garbarczyk**: "Adam Smith and Polish Economic Transformation" (1995)
+- **Prof. Anna Horodecka**: "Moral Sentiments in Modern Polish Economics" (2010)
+- **Dr. Tomasz Kwarciński**: "Invisible Hand in Polish Public Policy Debates" (2018)
+
+### Research Findings
+- Smith's moral philosophy often overlooked in favor of economic applications
+- Polish scholars emphasize social responsibility aspects missing in Western interpretations
+- Connection between Smith's ideas and Polish Catholic social teaching explored by Lublin School
+
+## Translation Problems and Cultural Differences
+
+### Philosophical Context
+- **Scottish Common Sense Philosophy**: Difficult to convey in Polish philosophical tradition
+- **Natural Law Theory**: Different understanding in Catholic vs Protestant contexts
+- **Commercial Society**: Concept foreign to traditional Polish szlachta (nobility) values
+
+### Economic Terminology
+- **"Truck, barter and exchange"**: No direct Polish equivalent for Smith's trade concepts
+- **"Sympathy"**: Philosophical meaning lost in Polish translation as mere emotion
+- **"Impartial spectator"**: Complex moral concept simplified in Polish interpretations
+
+### Contemporary Relevance
+- Polish readers connect Smith more with 1989 transformation than 18th-century context
+- Free market concepts filtered through post-communist experience
+- State intervention debates influenced by Polish historical experience with weak state
+
+## Conclusions
+
+"The Wealth of Nations" by Adam Smith played a fundamental role in shaping Polish economic thought, especially during political transformation. The work remains relevant in Polish debates about economic models, though its interpretations evolve from orthodox liberalism toward more nuanced understanding of market and state roles. For Polish youth, Smith can be a gateway to understanding both the history of economics and contemporary discussions about social justice and economic efficiency.
 
 ---
 
-*Dokument przygotowany w ramach projektu 37degrees - badania nad lokalnym kontekstem klasyki literatury światowej dla polskich odbiorców.*
+*Document prepared as part of the 37degrees project - research on local context of world literature classics for Polish audiences.*

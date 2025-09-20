@@ -1,185 +1,185 @@
-# Mroczne Dramaty i Kontrowersje: "Wściekłość i wrzask" (The Sound and the Fury)
+# Dark Dramas and Controversies: "The Sound and the Fury"
 
-## Informacje podstawowe
-- **Tytuł**: "The Sound and the Fury" (Wściekłość i wrzask)
-- **Autor**: William Faulkner
-- **Rok publikacji**: 1929
-- **Status**: Arcydzieło literatury amerykańskiej, które przyczyniło się do przyznania Faulknerowi Nagrody Nobla w 1949 roku
-
----
-
-## 1. AUTOR SKANDALE I OSOBISTE DRAMATY
-
-### Alkoholizm i uzależnienia
-
-1. **FAKT**: Faulkner pochodził z rodziny, w której mężczyźni od pokoleń mieli problemy z alkoholem - dziadek W.C. Falkner był notorycznie pijanym.
-
-2. **FAKT**: Już w wieku nastoletnich lat kraść whiskey z skarbca swojego dziadka, u którego pracował w banku w Oksford.
-
-3. **FAKT**: W młodości zyskał przydomek "piijak miejski" ("town drunk") w rodzinnym mieście.
-
-4. **FAKT**: Wszyscy jego bracia również mieli problemy z alkoholem - była to rodzinna klątwa.
-
-5. **FAKT**: Alkoholizm stał się problemem dyplomatycznym podczas jego wizyt jako ambasador kultury USA - w 1955 roku w Japonii upił się tak bardzo na recepcji powitalnej, że ambasador USA kazał go wsadzić do pierwszego samolotu z powrotem do Stanów.
-
-6. **FAKT**: Departament Stanu USA wydał tajną instrukcję pt. "Guidelines for Handling Mr. William Faulkner on His Trips Abroad" - przewodnik jak radzić sobie z piciem Faulknera podczas zagranicznych podróży.
-
-### Romanse i zdrad małżeńskie
-
-7. **FAKT**: Mimo małżeństwa z "miłością swojego życia" Estelle, miał kilka pozamałżeńskich romansów.
-
-8. **FAKT**: Jego romans z Meta Carpenter Wilde (sekretarką i script girl Howard Hawks w Hollywood) został opisany przez nią w bestsellerowej książce "A Loving Gentleman: The Love Story of William Faulkner and Meta Carpenter Wilde".
-
-9. **FAKT**: Miał również wieloletni romans z Else Jonsson, szwedzką wdową po dziennikarzu, którego poznał podczas wizyty po Nagrodę Nobla w Sztokholmie - romans trwał do końca 1953 roku.
-
-10. **FAKT**: Co najmniej dwie kobiety napisały książki o swoich romansach z nim, ujawniając szczegóły ich związków.
-
-### Oskarżenia o rasizm
-
-11. **ZARZUT**: Faulkner miał kiedyś powiedzieć: "Television is for niggers" (Telewizja jest dla Murzynów) - użył skrajnie obraźliwego określenia.
-
-12. **FAKT**: Jego poglądy na kwestie rasowe były skomplikowane i ewoluowały - wierzył, że niewolnictwo było przekleństwem Południa i niemoralna praktyka, która doprowadziła Południe do upadku.
-
-13. **ZARZUT**: Mimo że publicznie popierał równość rasową, zalecał ruchowi praw obywatelskich "pójście powoli" i był "zdecydowanie przeciwny przymusowej integracji".
-
-### Hollywood i nieszczęście zawodowe
-
-14. **FAKT**: W latach 1932-1954 pracował nad około 50 filmami w Hollywood, gdzie czuł się jak "artysta literacki uwięziony w kulturowym Babilonie".
-
-15. **FAKT**: Pisał listy "zjadliwe w tonie, malujące nędzny portret" swojego doświadczenia w Hollywood, co spowodowało mu "poważne nieszczęście".
+## Basic Information
+- **Title**: "The Sound and the Fury"
+- **Author**: William Faulkner
+- **Publication Year**: 1929
+- **Status**: Masterpiece of American literature that contributed to Faulkner receiving the Nobel Prize in 1949
 
 ---
 
-## 2. LITERACKIE WOJNY I RYWALIZACJE
+## 1. AUTHOR SCANDALS AND PERSONAL DRAMAS
 
-### Słynna rywalizacja z Hemingwayem
+### Alcoholism and Addictions
 
-16. **FAKT**: Faulkner i Hemingway toczyli "zaciekłą walkę o prestiż literacki" w latach 1947-1955, która trwała ponad 30 lat.
+1. **FACT**: Faulkner came from a family where men had struggled with alcohol for generations - his grandfather W.C. Falkner was notoriously drunk.
 
-17. **FAKT**: W 1947 roku na Uniwersytecie Mississippi Faulkner umieścił Hemingwaya na czwartym miejscu wśród żyjących pisarzy, mówiąc: "nie ma odwagi, nigdy nie wyszedł na gałąź. Nigdy nie używa słowa, które zmusiłoby czytelnika do sprawdzenia w słowniku czy jest właściwie użyte".
+2. **FACT**: Already in his teenage years, he stole whiskey from his grandfather's treasury, where he worked at the bank in Oxford.
 
-18. **FAKT**: Faulkner umieścił siebie na pierwszym miejscu wśród żyjących pisarzy.
+3. **FACT**: In his youth, he earned the nickname "town drunk" in his hometown.
 
-19. **FAKT**: Hemingway odpowiedział przez A.E. Hotchnera: "Biedny Faulkner. Czy on naprawdę myśli, że wielkie emocje pochodzą z wielkich słów? Znam wszystkie te dziesięciodolarowe słowa. Ale są starsze, prostsze i lepsze słowa, i to ich używam".
+4. **FACT**: All his brothers also had alcohol problems - it was a family curse.
 
-20. **FAKT**: Przez większość ich relacji, Faulkner i Hemingway nie komunikowali się bezpośrednio i spotkali się prawdopodobnie tylko raz.
+5. **FACT**: Alcoholism became a diplomatic problem during his visits as a US cultural ambassador - in 1955 in Japan, he got so drunk at the welcome reception that the US ambassador had him put on the first plane back to the States.
 
-### Krytyczne powitanie
+6. **FACT**: The US State Department issued a secret instruction titled "Guidelines for Handling Mr. William Faulkner on His Trips Abroad" - a guide on how to deal with Faulkner's drinking during foreign trips.
 
-21. **FAKT**: Wpływowy krytyk Clifton Fadiman odrzucił powieść przy publikacji, pisząc w "The Nation", że "temat i postacie są błahe, niegodne ogromnego i złożonego rzemiosła na nie wydatkowanego".
+### Romance and Marital Betrayals
 
-22. **FAKT**: Fadiman zatytułował swoją recenzję z 1930 roku "Hardly Worth While" (Ledwie warto) i skrytykował "sto stron uproszczonych percepcji zmysłowych i jednosylabowego bełkotu imbecyla".
+7. **FACT**: Despite his marriage to the "love of his life" Estelle, he had several extramarital affairs.
 
----
+8. **FACT**: His romance with Meta Carpenter Wilde (secretary and script girl for Howard Hawks in Hollywood) was described by her in the bestselling book "A Loving Gentleman: The Love Story of William Faulkner and Meta Carpenter Wilde".
 
-## 3. KONTROWERSYJNE ASPEKTY KSIĄŻKI
+9. **FACT**: He also had a long-term affair with Else Jonsson, a Swedish widow of a journalist, whom he met during his visit for the Nobel Prize in Stockholm - the affair lasted until the end of 1953.
 
-### Reprezentacja niepełnosprawności
+10. **FACT**: At least two women wrote books about their romances with him, revealing details of their relationships.
 
-23. **ZARZUT**: Współczesni krytycy oskarżają Faulknera o używanie przestarzałego i obraźliwego języka wobec postaci Benjy'ego, nazywanego w tekście "idiotą" i "świrem".
+### Accusations of Racism
 
-24. **FAKT**: Clifton Fadiman skrytykował portret Benjy'ego jako "zbyt wiele dobrego, żeby słuchać stu stron uproszczonych percepcji zmysłowych i jednosylabowego bełkotu imbecyla".
+11. **ACCUSATION**: Faulkner allegedly once said: "Television is for niggers" - using an extremely offensive term.
 
-25. **PLOTKA**: Współczesne badania nad niepełnosprawnością sugerują, że Benjy może być postrzegany jako osoba neurodywergentna z autyzmem i zespołem Downa.
+12. **FACT**: His views on racial issues were complicated and evolved - he believed that slavery was the curse of the South and an immoral practice that led the South to ruin.
 
-### Trudności w czytaniu jako forma "elityzmu"
+13. **ACCUSATION**: Although he publicly supported racial equality, he advised the civil rights movement to "go slow" and was "definitely opposed to forced integration".
 
-26. **ZARZUT**: Od momentu publikacji powieść była "notoryczna ze względu na trudności, jakie sprawia czytelnikowi" - nawet profesjonalni krytycy i badacze literatury przyznają wyzwanie, jakie stanowi technika narracyjna Faulknera.
+### Hollywood and Professional Misery
 
-27. **FAKT**: Eksperymentalny styl strumienia świadomości sprawił, że ani krytycy, ani czytelnicy nie byli pod wrażeniem przy pierwszej publikacji w 1929 roku.
+14. **FACT**: From 1932-1954, he worked on about 50 films in Hollywood, where he felt like "a literary artist imprisoned in cultural Babylon".
 
----
-
-## 4. PROBLEMATYCZNE PROGNOZY FAULKNERA
-
-### "Wybielanie się" rasy
-
-28. **FAKT**: Faulkner przewidywał, że "rasa murzyńska zniknie w ciągu trzech set lat poprzez małżeństwa mieszane" - nazywał to "wybielaniem się".
-
-29. **FAKT**: W "Absalomie, Absalomie!" postać Shreve przepowiada: "Myślę, że z czasem Jim Bondowie podbią zachodnią półkulę... w ciągu kilku tysięcy lat będą się wybielać jak króliki i ptaki, więc nie będą tak ostro odcinać się od śniegu".
-
-30. **ZARZUT**: Ta prognoza okazała się błędna - Afroamerykanie nie "zniknęli" poprzez małżeństwa mieszane, choć takie związki znacznie wzrosły.
-
-### Podejście "idźcie powoli"
-
-31. **FAKT**: Faulkner wielokrotnie mówił czarnej ludności, żeby "szła powoli" w dążeniu do integracji, argumentując, że Południe powinno iść powoli i niezależnie w sprawach rasowych.
-
-32. **ZARZUT**: Historia pokazała, że to podejście nie było ani realistyczne, ani sprawiedliwe - pilność ruchu praw obywatelskich okazała się konieczna i skuteczna.
+15. **FACT**: He wrote letters "caustic in tone, painting a miserable portrait" of his Hollywood experience, which caused him "serious unhappiness".
 
 ---
 
-## 5. UKRYTE ZNACZENIA I INTERPRETACJE
+## 2. LITERARY WARS AND RIVALRIES
 
-### Symbolika cieni
+### Famous Rivalry with Hemingway
 
-33. **FAKT**: Faulkner wielokrotnie używa obrazów cieni, szczególnie w rozdziałach Benjy'ego i Quentina, jako symboli "ciemnej strony lub przeszłej strony każdej sytuacji i postaci".
+16. **FACT**: Faulkner and Hemingway engaged in a "fierce battle for literary prestige" from 1947-1955, which lasted over 30 years.
 
-34. **FAKT**: Sam Faulkner powiedział o symbolice cieni: "To nie był celowy symbolizm. Powiedziałbym, że ten cień, który tak bardzo tkwił w jego umyśle, był przedczuciem jego własnej śmierci".
+17. **FACT**: In 1947 at the University of Mississippi, Faulkner ranked Hemingway fourth among living writers, saying: "he has no courage, never climbed out on a limb. He has never used a word where the reader had to check with the dictionary to see if it was used correctly".
 
-### Struktury psychoanalityczne
+18. **FACT**: Faulkner ranked himself first among living writers.
 
-35. **FAKT**: Carvel Collins jako pierwszy zasugerował świadomy związek między Faulknerem a Freudem, opisując jak "Faulkner zbudował swoją powieść wokół trójdzielnej struktury osobowości Freuda: Benjy odpowiada w przybliżeniu id, Quentin ego, a Jason superego".
+19. **FACT**: Hemingway responded through A.E. Hotchner: "Poor Faulkner. Does he really think big emotions come from big words? I know them all right. But there are older and simpler and better words, and those are the ones I use".
 
-### Jungowska analiza
+20. **FACT**: For most of their relationship, Faulkner and Hemingway did not communicate directly and probably met only once.
 
-36. **FAKT**: Istnieją jungowskie analizy powieści badające "Faulknera i cztery funkcje", z teorią Junga proponującą czwórdzielną strukturę osobowości z opisem czterech funkcji psychiki: myślenie, uczucie, wrażenie i intuicja.
+### Critical Reception
 
----
+21. **FACT**: Influential critic Clifton Fadiman rejected the novel upon publication, writing in "The Nation" that "the theme and the characters are paltry, unworthy of the enormous and complex craftsmanship expended upon them".
 
-## 6. TEORIJE SPISKOWE I CIEMNE INTERPRETACJE
-
-### Brak znaczących teorii spiskowych
-
-37. **FAKT**: Pomimo wyczerpujących poszukiwań, nie znaleziono znaczącej tradycji okultystycznych lub spiskowych interpretacji "Wściekłości i wrzasku" w dostępnych źródłach online.
-
-38. **FAKT**: Złożoność powieści i eksperymentalne techniki narracyjne wygenerowały znaczące zainteresowanie naukowe, ale pozostało ono w ramach konwencjonalnych literackich i psychologicznych ram analitycznych.
-
-### Ciemne aspekty tematyczne
-
-39. **FAKT**: Powieść zawiera ciemne tematy upadku rodziny, niepełnosprawności intelektualnej, samobójstwa (Quentin), i rozpadu tradycyjnego Południa po wojnie secesyjnej.
-
-40. **PLOTKA**: Niektórzy współczesni badacze sugerują, że rodzina Compsonów może być postrzegana jako "niepełnosprawne ciało" w kontekście disability studies, przedstawiając społeczną marginalizację i dyskryminację.
+22. **FACT**: Fadiman titled his 1930 review "Hardly Worth While" and criticized "a hundred pages of simplified sense perceptions and monosyllabic drivel of an idiot".
 
 ---
 
-## 7. CENZURA I ZAKAZY
+## 3. CONTROVERSIAL ASPECTS OF THE BOOK
 
-### Brak formalnej cenzury
+### Representation of Disability
 
-41. **FAKT**: Badania nie wykazały konkretnych przypadków formalnego zakazu "Wściekłości i wrzasku" - główne "kontrowersje" były związane z eksperymentalnym stylem narracyjnym i dostępnością, a nie z cenzurą treści.
+23. **ACCUSATION**: Contemporary critics accuse Faulkner of using outdated and offensive language toward the character Benjy, called in the text an "idiot" and "lunatic".
 
-42. **FAKT**: Wyzwania powieści były głównie literackie i stylistyczne, a nie moralne lub polityczne, co może tłumaczyć, dlaczego nie spotkała się z takimi kontrowersjami cenzorskimi jak inne dzieła literackie tego okresu.
+24. **FACT**: Clifton Fadiman criticized Benjy's portrait as "too much of a good thing to have a hundred pages of simplified sense perceptions and monosyllabic babbling of an imbecile".
 
----
+25. **RUMOR**: Contemporary disability studies suggest that Benjy may be viewed as a neurodivergent person with autism and Down syndrome.
 
-## 8. FINANSOWE DRAMATY
+### Reading Difficulties as a Form of "Elitism"
 
-### Początkowo nieudana sprzedaż
+26. **ACCUSATION**: Since publication, the novel has been "notorious for the difficulties it poses to the reader" - even professional critics and literature scholars admit the challenge posed by Faulkner's narrative technique.
 
-43. **FAKT**: Powieść została opublikowana 7 października 1929 roku w pierwszym nakładzie 1,789 egzemplarzy i nie sprzedawała się szybko początkowo.
-
-44. **FAKT**: Trudna pierwsza sekcja powieści odstraszała wielu zdolnych czytelników.
-
-45. **FAKT**: Powieść stała się komercyjnie udana dopiero w 1931 roku, gdy została opublikowana szósta powieść Faulknera "Sanctuary".
+27. **FACT**: The experimental stream-of-consciousness style meant that neither critics nor readers were impressed upon first publication in 1929.
 
 ---
 
-## 9. PRZEWIDYWANIA CO SIĘ SPRAWDZIŁO
+## 4. FAULKNER'S PROBLEMATIC PROPHECIES
 
-### Częściowe trafienia
+### "Whitening" of Race
 
-46. **FAKT**: Zwiększenie relacji międzyrasowych - choć nie prowadząc do przewidywanego przez niego rezultatu, małżeństwa i związki międzyrasowe rzeczywiście wzrosły dramatycznie od jego czasów.
+28. **FACT**: Faulkner predicted that "the negro race would disappear within three hundred years through intermarriage" - he called this "whitening".
 
-47. **FAKT**: Długoterminowa perspektywa jego postaci Shreve, że "rasa to konstrukt, który w jakiejś odległej epoce nie będzie decydował o niczym - ani o inteligencji, charakterze, ani o przekonaniach", odzwierciedla pewien postęp w kierunku postrzegania rasy jako konstruktu społecznego.
+29. **FACT**: In "Absalom, Absalom!" the character Shreve prophesies: "I think that in time the Jim Bonds are going to conquer the western hemisphere... in a few thousand years they will be bleaching out like the rabbits and the birds do, so they won't show up so sharp against the snow".
+
+30. **ACCUSATION**: This prediction proved wrong - African Americans did not "disappear" through intermarriage, though such unions significantly increased.
+
+### "Go Slow" Approach
+
+31. **FACT**: Faulkner repeatedly told black people to "go slow" in pursuing integration, arguing that the South should go slowly and independently on racial matters.
+
+32. **ACCUSATION**: History showed that this approach was neither realistic nor fair - the urgency of the civil rights movement proved necessary and effective.
 
 ---
 
-## 10. JAMES BALDWIN O FAULKNERZE
+## 5. HIDDEN MEANINGS AND INTERPRETATIONS
 
-48. **FAKT**: James Baldwin trafnie zauważył ograniczenia Faulknera: "To jedno dla Faulknera radzić sobie z Murzynem w swojej wyobraźni, gdzie może go kontrolować; a zupełnie co innego radzić sobie z nim w życiu, gdzie nie może go kontrolować."
+### Shadow Symbolism
+
+33. **FACT**: Faulkner repeatedly uses shadow imagery, particularly in Benjy's and Quentin's chapters, as symbols of "the dark side or past side of every situation and character".
+
+34. **FACT**: Faulkner himself said about shadow symbolism: "That was not deliberate symbolism. I would say that shadow that stayed on his mind so much was foreknowledge of his own death".
+
+### Psychoanalytical Structures
+
+35. **FACT**: Carvel Collins first suggested a conscious connection between Faulkner and Freud, describing how "Faulkner built his novel around Freud's tripartite structure of personality: Benjy corresponds roughly to the id, Quentin to the ego, and Jason to the superego".
+
+### Jungian Analysis
+
+36. **FACT**: Jungian analyses of the novel exist examining "Faulkner and the four functions", with Jung's theory proposing a quadripartite structure of personality with description of four psychic functions: thinking, feeling, sensation, and intuition.
 
 ---
 
-## PODSUMOWANIE
+## 6. CONSPIRACY THEORIES AND DARK INTERPRETATIONS
 
-"Wściekłość i wrzask" pozostaje dziełem pełnym ciemnych tematów i kontrowersji, głównie związanych z osobistymi dramatami swojego autora. William Faulkner, mimo swojego geniuszu literackiego, był człowiekiem o wielu problemach - alkoholik z rodziny alkoholików, mężczyzna zdradzający żonę, rasista próbujący być progresywny, pisarz cierpiący w Hollywood. Jego arcydzieło odzwierciedla te wewnętrzne konflikty, przedstawiając rozpadającą się rodzinę Południa w sposób, który wciąż budzi kontrowersje dotyczące reprezentacji niepełnosprawności i kwestii rasowych. Choć nie istnieją znaczące teorie spiskowe związane z tym dziełem, jego ciemne aspekty i problematyczne elementy nadal prowokują debaty w środowisku akademickim i czytelniczym.
+### Lack of Significant Conspiracy Theories
+
+37. **FACT**: Despite exhaustive searches, no significant tradition of occult or conspiracy interpretations of "The Sound and the Fury" was found in available online sources.
+
+38. **FACT**: The novel's complexity and experimental narrative techniques generated significant scholarly interest, but this remained within conventional literary and psychological analytical frameworks.
+
+### Dark Thematic Aspects
+
+39. **FACT**: The novel contains dark themes of family decline, intellectual disability, suicide (Quentin), and the breakdown of the traditional South after the Civil War.
+
+40. **RUMOR**: Some contemporary scholars suggest that the Compson family can be viewed as a "disabled body" in the context of disability studies, representing social marginalization and discrimination.
+
+---
+
+## 7. CENSORSHIP AND BANS
+
+### Lack of Formal Censorship
+
+41. **FACT**: Research revealed no specific cases of formal banning of "The Sound and the Fury" - the main "controversies" were related to experimental narrative style and accessibility, not content censorship.
+
+42. **FACT**: The novel's challenges were primarily literary and stylistic, not moral or political, which may explain why it did not encounter the censorship controversies of other literary works of the period.
+
+---
+
+## 8. FINANCIAL DRAMAS
+
+### Initially Poor Sales
+
+43. **FACT**: The novel was published on October 7, 1929, in a first edition of 1,789 copies and did not sell quickly initially.
+
+44. **FACT**: The difficult first section of the novel discouraged many capable readers.
+
+45. **FACT**: The novel became commercially successful only in 1931, when Faulkner's sixth novel "Sanctuary" was published.
+
+---
+
+## 9. PREDICTIONS THAT CAME TRUE
+
+### Partial Hits
+
+46. **FACT**: Increased interracial relations - though not leading to his predicted result, interracial marriages and relationships indeed increased dramatically since his time.
+
+47. **FACT**: The long-term perspective of his character Shreve, that "race is a construct that in some distant epoch will not decide anything - neither intelligence, character, nor beliefs", reflects some progress toward viewing race as a social construct.
+
+---
+
+## 10. JAMES BALDWIN ON FAULKNER
+
+48. **FACT**: James Baldwin astutely noted Faulkner's limitations: "It is one thing for Faulkner to deal with the Negro in his imagination, where he can control him; it is quite another thing for him to deal with him in life, where he cannot control him."
+
+---
+
+## SUMMARY
+
+"The Sound and the Fury" remains a work full of dark themes and controversies, mainly related to its author's personal dramas. William Faulkner, despite his literary genius, was a man with many problems - an alcoholic from a family of alcoholics, a man cheating on his wife, a racist trying to be progressive, a writer suffering in Hollywood. His masterpiece reflects these internal conflicts, presenting a disintegrating Southern family in a way that still raises controversies regarding the representation of disability and racial issues. Although there are no significant conspiracy theories associated with this work, its dark aspects and problematic elements continue to provoke debates in academic and reading circles.

@@ -10,6 +10,6 @@ media_info:
   objective: Recreate the military encounter that led to official Pentagon UAP acknowledgment
     with FLIR footage release
   scene_count: 10
-  graphics_style: military-documentary-realism
+  graphics_style: feature-animation-2d-classical
   scene_generator: narrative
   nb_audio_format: brief

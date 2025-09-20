@@ -1,348 +1,348 @@
-# Wpływ kulturowy "Prawdziwej historii Ah-Q" Lu Xuna
+# Cultural Impact of "The Real Story of Ah-Q" by Lu Xun
 
-## Wprowadzenie
+## Introduction
 
-"Prawdziwa historia Ah-Q" (1921) Lu Xuna to nie tylko jedno z najważniejszych dzieł współczesnej literatury chińskiej, ale również utwór o ogromnym wpływie kulturowym, który przez ponad 100 lat kształtuje sposób myślenia o psychologii narodowej, mechanizmach obronnych i społecznej krytyce. Nowela stworzyła postać, która stała się uniwersalnym symbolem samozakłamania i racjonalizacji porażek.
+"The Real Story of Ah-Q" (1921) by Lu Xun is not only one of the most important works of modern Chinese literature, but also a work of enormous cultural impact that has shaped thinking about national psychology, defense mechanisms, and social criticism for over 100 years. The novella created a character that became a universal symbol of self-deception and rationalization of failures.
 
-## Adaptacje medialne i teatralne
+## Media and Theater Adaptations
 
-### Adaptacje filmowe
+### Film Adaptations
 
-1. **"Prawdziwa historia Ah-Q" (1981) - reż. Cen Fan**
-   - Pierwszy wielki filmowy portret postaci Lu Xuna
-   - Zaprezentowany na Festiwalu Filmowym w Cannes 1982
-   - Symboliczne powrót chińskiego kina na międzynarodowe festiwale po Rewolucji Kulturalnej
-   - Dramat społeczny osadzony w czasie rewolucji 1911 roku
-   - Film otrzymał międzynarodowe uznanie jako adaptacja klasyki literatury
+1. **"The Real Story of Ah-Q" (1981) - dir. Cen Fan**
+   - First major cinematic portrayal of Lu Xun's character
+   - Presented at the Cannes Film Festival 1982
+   - Symbolic return of Chinese cinema to international festivals after the Cultural Revolution
+   - Social drama set during the 1911 revolution
+   - Film received international recognition as a literary classic adaptation
 
-2. **Adaptacje anime**
-   - Istnieje adaptacja anime, która "oddaje esencję satyrycznego geniuszu Lu Xuna"
-   - Portretuje tragikomiczne życie Ah-Q z mieszanką czarnego humoru i poruszającego komentarza społecznego
-   - Dowodzi uniwersalności postaci przekraczającej granice kulturowe
+2. **Anime Adaptations**
+   - An anime adaptation exists that "captures the essence of Lu Xun's satirical genius"
+   - Portrays Ah-Q's tragicomic life with a mixture of dark humor and moving social commentary
+   - Demonstrates the character's universality transcending cultural boundaries
 
-### Teatr europejski
+### European Theater
 
-3. **"Die wahre Geschichte des Ah Q" (1983) - Christoph Hein (Niemcy)**
-   - Adaptacja niemiecka, która przekształca Ah-Q w problematycznego nihilistę
-   - Interpretuje postać przez pryzmat europejskiej tradycji intelektualnej anarchizmu
-   - Tworzy transkulturową przestrzeń nieistniejącą ani w Chinach, ani całkowicie w Niemczech
+3. **"Die wahre Geschichte des Ah Q" (1983) - Christoph Hein (Germany)**
+   - German adaptation that transforms Ah-Q into a problematic nihilist
+   - Interprets the character through the lens of European intellectual anarchist tradition
+   - Creates a transcultural space existing neither fully in China nor in Germany
 
-4. **"La storia di Qu" (1989/2011) - Dario Fo (Włochy)**
-   - Adaptacja laureata Nagrody Nobla Dario Fo
-   - Przekształca Ah-Q w rewolucyjnego chińskiego Arlekina
-   - Łączy tradycję commedia dell'arte z chińską satyrą społeczną
-   - Demonstruje międzynarodową elastyczność interpretacyjną postaci
+4. **"La storia di Qu" (1989/2011) - Dario Fo (Italy)**
+   - Adaptation by Nobel Prize winner Dario Fo
+   - Transforms Ah-Q into a revolutionary Chinese Harlequin
+   - Combines commedia dell'arte tradition with Chinese social satire
+   - Demonstrates the character's international interpretive flexibility
 
-5. **"The True Story of Ah Q" - NEW YOUTH GROUP (Niemcy)**
-   - Wielomedialna adaptacja w Theater und Orchester Heidelberg
-   - Reżyseria Li Jianjun, spektakl w języku chińskim z niemieckimi napisami
-   - Rozpoczyna akcję tam, gdzie kończy się nowela
-   - Przykład współczesnej międzynarodowej recepcji dzieła
+5. **"The True Story of Ah Q" - NEW YOUTH GROUP (Germany)**
+   - Multimedia adaptation at Theater und Orchester Heidelberg
+   - Directed by Li Jianjun, performed in Chinese with German subtitles
+   - Begins action where the novella ends
+   - Example of contemporary international reception of the work
 
-## Wpływ na twórców i artystów
+## Influence on Creators and Artists
 
-### Literatura międzynarodowa
+### International Literature
 
-6. **Wpływ na pisarzy chińskich współczesnych**
-   - Inspiracja dla pisarzy "Ruchu Poszukiwania Korzeni" lat 80. XX wieku
-   - Widoczny wpływ na pokolenia chińskich intelektualistów i pisarzy
-   - Kontynuacja tradycji krytyki społecznej Lu Xuna
+6. **Influence on Contemporary Chinese Writers**
+   - Inspiration for writers of the "Root-Seeking Movement" of the 1980s
+   - Visible influence on generations of Chinese intellectuals and writers
+   - Continuation of Lu Xun's tradition of social criticism
 
-7. **Uznanie międzynarodowe**
-   - Haruki Murakami wymienia Lu Xuna wśród swoich inspiracji
-   - Fredric Jameson (1986) cytuje "Pamiętnik szaleńca" Lu Xuna jako "najlepszy przykład" formy "alegorii narodowej"
-   - Romain Rolland docenił uniwersalny charakter postaci Ah-Q
+7. **International Recognition**
+   - Haruki Murakami lists Lu Xun among his inspirations
+   - Fredric Jameson (1986) cites Lu Xun's "Diary of a Madman" as the "best example" of "national allegory" form
+   - Romain Rolland appreciated the universal character of Ah-Q
 
-8. **Wpływ na techniki literackie**
-   - Nowatorskie wykorzystanie narratora jako uczestnika i obserwatora
-   - Wzorzec dla satirycznej krytyki społecznej w literaturze krótkiej formy
-   - Model dla portretowania psychologii narodowej
+8. **Influence on Literary Techniques**
+   - Innovative use of narrator as both participant and observer
+   - Model for satirical social criticism in short-form literature
+   - Template for portraying national psychology
 
-## Fenomen społeczny i kulturowy
+## Social and Cultural Phenomenon
 
-### Terminologia językowa
+### Linguistic Terminology
 
-9. **"Ah-Q-izm" (阿Q精神, Ā Q jīngshén)**
-   - Wszedł na stałe do współczesnego języka chińskiego od 1921 roku
-   - Używany jako termin drwiący z osoby, która nie chce stawić czoła rzeczywistości
-   - Opisuje narcystycznego człowieka racjonalizującego porażki jako psychiczne triumfy
+9. **"Ah-Q-ism" (阿Q精神, Ā Q jīngshén)**
+   - Permanently entered contemporary Chinese language since 1921
+   - Used as a mocking term for someone who refuses to face reality
+   - Describes a narcissistic person rationalizing failures as psychological triumphs
 
-10. **"Duchowe zwycięstwo" (jingshen shengli fa)**
-    - Termin psychologiczny opisujący mechanizm obronny przegranych
-    - Ludzie w Chinach nadal używają terminu do kpin z porażek lub autoironii
-    - Fraza "zrób sobie przerwę" (阿Q一下; Ā Q yí xià) powstała z tej koncepcji
+10. **"Spiritual Victory" (jingshen shengli fa)**
+    - Psychological term describing defense mechanism of losers
+    - People in China still use the term to mock failures or for self-irony
+    - The phrase "take an Ah-Q break" (阿Q一下; Ā Q yí xià) arose from this concept
 
-11. **"Rodzina Zhao" (赵家人; Zhàojiārén)**
-    - Pochodzące od postaci Pana Zhao pejoratywne określenie elity rządzącej Chin
-    - Stało się memem internetowym szeroko używanym przez opozycyjnych internautów
-    - Dowodzi żywotności symboliki Lu Xuna w erze mediów społecznościowych
+11. **"Zhao Family" (赵家人; Zhàojiārén)**
+    - Pejorative term for China's ruling elite, derived from Mr. Zhao character
+    - Became an internet meme widely used by opposition netizens
+    - Demonstrates the vitality of Lu Xun's symbolism in the social media era
 
-### Psychologia społeczna
+### Social Psychology
 
-12. **Metoda duchowego zwycięstwa jako mechanizm psychologiczny**
-    - Technika odzyskiwania poczucia własnej wartości przez samohipnozę
-    - Opisuje osoby, które poniosły straty, ale szukają pocieszenia duchowego
-    - Uniwersalny ludzki mechanizm obronny rozpoznawalny międzykulturowo
+12. **Spiritual Victory Method as Psychological Mechanism**
+    - Technique for regaining self-worth through self-hypnosis
+    - Describes people who suffered losses but seek spiritual consolation
+    - Universal human defense mechanism recognizable across cultures
 
-## Edukacja i curriculum
+## Education and Curriculum
 
-### System edukacji chiński
+### Chinese Education System
 
-13. **Obecność w podręcznikach szkolnych**
-    - Dzieła Lu Xuna są częścią obowiązkowego programu szkół podstawowych i średnich w Chinach
-    - Teksty pojawiają się w podręcznikach szkolnych w Chinach i Japonii
-    - 99% mieszkańców Chin kontynentalnych czytało historię Ah-Q
+13. **Presence in School Textbooks**
+    - Lu Xun's works are part of mandatory curriculum in Chinese primary and secondary schools
+    - Texts appear in textbooks in China and Japan
+    - 99% of mainland Chinese residents have read Ah-Q's story
 
-14. **Kontrowersje edukacyjne (2007)**
-    - Niektóre ponursze dzieła Lu Xuna usunięto z podręczników szkolnych
-    - Julia Lovell spekulowała, że była to próba zniechęcenia młodzieży do "niewygodnie dociekliwych nawyków" Lu Xuna
-    - Społeczność literacka nazwała to "Wielkim Odwrotem Lu Xuna"
+14. **Educational Controversies (2007)**
+    - Some of Lu Xun's darker works were removed from school textbooks
+    - Julia Lovell speculated this was an attempt to discourage youth from Lu Xun's "inconveniently probing habits"
+    - The literary community called it "Lu Xun's Great Retreat"
 
-15. **Oficjalne wyjaśnienia zmian**
-    - Główny redaktor Jiangsu Education Publishing Company tłumaczył usunięcie długością i złożonością tekstów
-    - Argument, że różne pokolenia wymagają różnych podręczników
+15. **Official Explanations for Changes**
+    - Chief editor of Jiangsu Education Publishing Company explained removal due to text length and complexity
+    - Argument that different generations require different textbooks
 
-## Społeczności fanów i kultura fandomu
+## Fan Communities and Fandom Culture
 
-### Przemysł Lu Xuna
+### Lu Xun Industry
 
-16. **Komercjalizacja postaci**
-    - Całkowity "przemysł Lu Xuna" w Chinach kontynentalnych: muzea, gipsowe popiersia, książki spin-off, czasopisma tematyczne
-    - Adaptacje teatralne, telewizyjne, marki alkoholi
-    - Przedsiębiorcy stworzyli park rozrywki oferujący "doświadczenie Lu Xuna"
+16. **Character Commercialization**
+    - Complete "Lu Xun industry" in mainland China: museums, plaster busts, spin-off books, thematic magazines
+    - Theater and TV adaptations, alcohol brands
+    - Entrepreneurs created an amusement park offering "Lu Xun experience"
 
-17. **Park tematyczny Lu Town (Shaoxing, 2003)**
-    - Rekreacja fikcyjnego miasteczka będącego amalgamatem miejsc z opowiadań Lu Xuna
-    - Komercyjnie napędzana nostalgiczna reprezentacja małomiasteczkowego życia Jiangnan
-    - Kontrastuje z ironiczną i sarkastyczną postawą Lu Xuna wobec tych miejsc
-    - Turyści mogą spotkać aktorów grających najsłynniejsze postacie Lu Xuna (Ah-Q, Kong Yiji)
+17. **Lu Town Theme Park (Shaoxing, 2003)**
+    - Recreation of fictional town amalgamating places from Lu Xun's stories
+    - Commercially driven nostalgic representation of Jiangnan small-town life
+    - Contrasts with Lu Xun's ironic and sarcastic attitude toward these places
+    - Tourists can meet actors playing Lu Xun's most famous characters (Ah-Q, Kong Yiji)
 
-### Turystyka literacka
+### Literary Tourism
 
-18. **Muzeum Lu Xuna w Pekinie (1956)**
-    - Małe podwórzowe mieszkanie, gdzie mieszkał przez trzy lata od 1924
-    - Miejsce, gdzie był świadkiem masakry studentów 18 marca 1926
-    - Zawiera zdjęcia, pisma i przedmioty osobiste
+18. **Lu Xun Museum in Beijing (1956)**
+    - Small courtyard house where he lived for three years from 1924
+    - Place where he witnessed the March 18, 1926 student massacre
+    - Contains photographs, writings, and personal belongings
 
-19. **Park Pamięci Lu Xuna w Szanghaju**
-    - Szczątki Lu Xuna pochowane w parku w 1956 roku
-    - Grób z inskrypcją kaligrafii Mao Zedonga
-    - Sala Pamięci Lu Xuna ze zbiorem osobistych rzeczy, papierów i publikacji
-    - Funkcjonuje jako miejsce literackich pielgrzymek
+19. **Lu Xun Memorial Park in Shanghai**
+    - Lu Xun's remains buried in the park in 1956
+    - Grave with inscription in Mao Zedong's calligraphy
+    - Lu Xun Memorial Hall with collection of personal items, papers, and publications
+    - Functions as a site for literary pilgrimages
 
-20. **Dawna rezydencja Lu Xuna w Shaoxing**
-    - Duży kompleks zabytkowych budynków z memoriałem Lu Xuna
-    - Ogrody i dom, gdzie mieszkał Lu Xun
-    - Bezpłatny wstęp z dokumentem tożsamości
+20. **Former Lu Xun Residence in Shaoxing**
+    - Large complex of historic buildings with Lu Xun memorial
+    - Gardens and house where Lu Xun lived
+    - Free admission with ID document
 
-## Merchandising i branded content
+## Merchandising and Branded Content
 
-21. **Marki komercyjne**
-    - Marki alkoholi wykorzystujące nazwisko Lu Xuna
-    - Pamiątki turystyczne w muzeach i parkach tematycznych
-    - Gipsowe popiersia jako przedmioty kolekcjonerskie
+21. **Commercial Brands**
+    - Alcohol brands using Lu Xun's name
+    - Tourist souvenirs in museums and theme parks
+    - Plaster busts as collectible items
 
-22. **Publikacje spin-off**
-    - Czasopisma poświęcone Lu Xunowi
-    - Książki analizujące jego twórczość
-    - Przewodniki turystyczne po miejscach związanych z pisarzem
+22. **Spin-off Publications**
+    - Magazines dedicated to Lu Xun
+    - Books analyzing his work
+    - Tourist guides to places associated with the writer
 
-## Cytaty i nawiązania w kulturze popularnej
+## Quotes and References in Popular Culture
 
-### Media społecznościowe i internet
+### Social Media and Internet
 
-23. **Memy internetowe**
-    - "Rodzina Zhao" jako popularny mem w chińskim internecie
-    - Używany przez opozycyjnych internautów do krytyki władzy
-    - Liczne warianty i adaptacje oryginalnego terminu
+23. **Internet Memes**
+    - "Zhao Family" as popular meme in Chinese internet
+    - Used by opposition netizens to criticize authorities
+    - Numerous variants and adaptations of the original term
 
-24. **Użycie w dyskursie publicznym**
-    - Politycy i komentatorzy używają terminów Lu Xuna w debatach publicznych
-    - "Ah-Q-izm" jako skrót myślowy dla wad narodowego charakteru
-    - Regularne nawiązania w mediach chińskich
+24. **Use in Public Discourse**
+    - Politicians and commentators use Lu Xun's terms in public debates
+    - "Ah-Q-ism" as mental shortcut for national character flaws
+    - Regular references in Chinese media
 
-### Literatura światowa
+### World Literature
 
-25. **Wpływ na teorię literatury**
-    - Jameson używa dzieł Lu Xuna jako przykładów "alegorii narodowej"
-    - Model dla literatury Trzeciego Świata
-    - Wpływ na postkolonialne studia literackie
+25. **Influence on Literary Theory**
+    - Jameson uses Lu Xun's works as examples of "national allegory"
+    - Model for Third World literature
+    - Influence on postcolonial literary studies
 
-## Parodie, hołdy i reimaginacje
+## Parodies, Tributes, and Reimaginings
 
-### Współczesne adaptacje
+### Contemporary Adaptations
 
-26. **Współczesne teatry w Chinach**
-    - Regularne wystawienia "Prawdziwej historii Ah-Q" w teatrach chińskich
-    - Modernizacje akcji do współczesnych czasów
-    - Adaptacje w lokalnych dialektach (jak proponował sam Lu Xun w 1934)
+26. **Contemporary Theaters in China**
+    - Regular performances of "The Real Story of Ah-Q" in Chinese theaters
+    - Modernizations of action to contemporary times
+    - Adaptations in local dialects (as Lu Xun himself proposed in 1934)
 
-27. **Wpływ na komiks i animację**
-    - Inspiracja dla chińskich komiksów (manhua)
-    - Elementy postaci Ah-Q w współczesnych chińskich animacjach
-    - Wykorzystanie w edukacyjnych mediach dla dzieci
+27. **Influence on Comics and Animation**
+    - Inspiration for Chinese comics (manhua)
+    - Elements of Ah-Q character in contemporary Chinese animations
+    - Use in educational media for children
 
-### Reimaginacje międzynarodowe
+### International Reimaginings
 
-28. **Interpretacje polityczne**
-    - Za czasów Mao Zedonga próby reinterpretacji Ah-Q jako symbolu rewolucyjnego potencjału chłopstwa
-    - Chińska partia komunistyczna adoptowała Lu Xuna jako wzór realizmu socjalistycznego
-    - Różne interpretacje polityczne w różnych krajach
+28. **Political Interpretations**
+    - During Mao Zedong's era, attempts to reinterpret Ah-Q as symbol of peasantry's revolutionary potential
+    - Chinese Communist Party adopted Lu Xun as model of socialist realism
+    - Different political interpretations in different countries
 
-## Miejsca związane z książką
+## Places Related to the Book
 
-### Instytucje kulturalne
+### Cultural Institutions
 
-29. **Muzeum Lu Xuna w Szanghaju (1951)**
-    - Zawiera listy, rękopisy, fotografie i inne pamiątki
-    - Jedno z pierwszych muzeów poświęconych nowożytnemu pisarzowi chińskiemu
-    - Ważny punkt na mapie turystyki literackiej
+29. **Lu Xun Museum in Shanghai (1951)**
+    - Contains letters, manuscripts, photographs, and other memorabilia
+    - One of the first museums dedicated to a modern Chinese writer
+    - Important point on the literary tourism map
 
-30. **Lu Xun Park w Qingdao**
-    - Park tematyczny nad morzem
-    - Łączy rekreację z edukacją o pisarzu
-    - Atrakcja turystyczna w prowincji Shandong
+30. **Lu Xun Park in Qingdao**
+    - Seaside theme park
+    - Combines recreation with education about the writer
+    - Tourist attraction in Shandong Province
 
-31. **Ścieżka Lu Xuna w Shaoxing**
-    - Trasa turystyczna łącząca miejsca związane z życiem pisarza
-    - Dom rodzinny, szkoły, ulice ze wspomnień
-    - Przewodnicy opowiadający historie z życia Lu Xuna
+31. **Lu Xun Trail in Shaoxing**
+    - Tourist route connecting places associated with the writer's life
+    - Family home, schools, streets from memories
+    - Guides telling stories from Lu Xun's life
 
-## Wpływ kontrowersyjny
+## Controversial Impact
 
-### Krytyka polityczna
+### Political Criticism
 
-32. **Wykorzystanie propagandowe**
-    - Rząd chiński używał Lu Xuna do promowania oficjalnej ideologii
-    - Selektywne cytowanie dla celów politycznych
-    - Tension między pierwotną intencją krytyczną a oficjalną adopcją
+32. **Propaganda Use**
+    - Chinese government used Lu Xun to promote official ideology
+    - Selective quoting for political purposes
+    - Tension between original critical intention and official adoption
 
-33. **Cenzura i manipulacja**
-    - Usuwanie "niewygodnych" dzieł z programów szkolnych
-    - Reinterpretacje zgodne z aktualną linią partii
-    - Debaty o autentycznej interpretacji dziedzictwa Lu Xuna
+33. **Censorship and Manipulation**
+    - Removal of "inconvenient" works from school curricula
+    - Reinterpretations aligned with current party line
+    - Debates about authentic interpretation of Lu Xun's legacy
 
-### Narodowa autorefleksja
+### National Self-reflection
 
-34. **Krytyka "charakteru narodowego"**
-    - Ah-Q jako negatywny symbol narodowy - przestroga przed biernością
-    - Dyskusje o słabościach mentalności chińskiej
-    - Wpływ na narodową autodebatę i introspekcję
+34. **Criticism of "National Character"**
+    - Ah-Q as negative national symbol - warning against passivity
+    - Discussions about weaknesses in Chinese mentality
+    - Influence on national self-debate and introspection
 
-## Międzynarodowe wpływy
+## International Influences
 
-### Przekłady i adaptacje kulturowe
+### Translations and Cultural Adaptations
 
-35. **Przekład Leung's (pierwszy angielski)**
-    - Historyczne znaczenie pierwszego przekładu na język angielski
-    - Pomógł zdobyć Lu Xunowi wczesną międzynarodową sławę literacką
-    - Zachęcił do dalszych przekładów na inne języki
+35. **Leung's Translation (First English)**
+    - Historic significance of first English translation
+    - Helped Lu Xun gain early international literary fame
+    - Encouraged further translations into other languages
 
-36. **Wydania Penguin Classics**
-    - Tłumaczenie Julii Lovell dało Lu Xunowi szansę na szerszą międzynarodową publiczność
-    - Dostępność w anglojęzycznych księgarniach na całym świecie
-    - Włączenie do kanonu literatury światowej
+36. **Penguin Classics Editions**
+    - Julia Lovell's translation gave Lu Xun chance for broader international audience
+    - Availability in English-language bookstores worldwide
+    - Inclusion in world literature canon
 
-37. **Studia akademickie międzynarodowe**
-    - Przedmiot badań na uniwersytetach na całym świecie
-    - Kursy literatury chińskiej zawierające dzieła Lu Xuna
-    - Prace doktorskie i badania komparatywne
+37. **International Academic Studies**
+    - Subject of research at universities worldwide
+    - Chinese literature courses containing Lu Xun's works
+    - Doctoral dissertations and comparative research
 
-### Wpływ na literatury narodowe
+### Influence on National Literatures
 
-38. **Model dla literatury postkolonialnej**
-    - Inspiracja dla pisarzy krajów rozwijających się
-    - Techniki krytyki społecznej adoptowane przez autorów z Afryki, Azji i Ameryki Łacińskiej
-    - Wzorzec dla "literatury zaangażowanej"
+38. **Model for Postcolonial Literature**
+    - Inspiration for writers from developing countries
+    - Social criticism techniques adopted by authors from Africa, Asia, and Latin America
+    - Template for "engaged literature"
 
-## Fenomeny TikTok i mediów społecznościowych
+## TikTok and Social Media Phenomena
 
-### Współczesne media
+### Contemporary Media
 
-39. **Ah-Q w chińskich mediach społecznościowych**
-    - Używanie postaci jako memów na platformach takich jak Weibo
-    - Młodzież używa "Ah-Q-izmu" do komentowania zachowań społecznych
-    - Viralowe treści nawiązujące do "duchowego zwycięstwa"
+39. **Ah-Q in Chinese Social Media**
+    - Using character as memes on platforms like Weibo
+    - Youth use "Ah-Q-ism" to comment on social behaviors
+    - Viral content referencing "spiritual victory"
 
-40. **Edukatywne treści na TikTok**
-    - Krótkie filmy wyjaśniające postać Ah-Q młodszemu pokoleniu
-    - TikTok edukacyjne o Lu Xunie i jego dziedzictwie
-    - Memy łączące klasyczną literaturę z współczesną kulturą
+40. **Educational Content on TikTok**
+    - Short videos explaining Ah-Q character to younger generation
+    - Educational TikToks about Lu Xun and his legacy
+    - Memes connecting classical literature with contemporary culture
 
-### Globalna recepcja cyfrowa
+### Global Digital Reception
 
-41. **Międzynarodowe społeczności internetowe**
-    - Dyskusje o Ah-Q na forach literackich na całym świecie
-    - Analiza postaci w kontekście współczesnej psychologii
-    - Porównania do postaci z innych literatur narodowych
+41. **International Online Communities**
+    - Discussions about Ah-Q on literary forums worldwide
+    - Character analysis in context of contemporary psychology
+    - Comparisons to characters from other national literatures
 
-## Adaptacje w różnych mediach
+## Adaptations in Various Media
 
-### Media audiowizualne
+### Audiovisual Media
 
-42. **Chińska telewizja edukacyjna**
-    - Programy dokumentalne o Lu Xunie
-    - Dramatyzacje dla celów edukacyjnych
-    - Wywiady z badaczami i krytykami literackimi
+42. **Chinese Educational Television**
+    - Documentary programs about Lu Xun
+    - Dramatizations for educational purposes
+    - Interviews with researchers and literary critics
 
-43. **Radio i podcasty**
-    - Audycje poświęcone analizie postaci Ah-Q
-    - Słuchowiska radiowe oparte na noweli
-    - Podcasty literackie omawiające wpływ Lu Xuna
+43. **Radio and Podcasts**
+    - Programs dedicated to analyzing Ah-Q character
+    - Radio dramas based on the novella
+    - Literary podcasts discussing Lu Xun's influence
 
-### Sztuki wizualne
+### Visual Arts
 
-44. **Ilustracje i komiksy**
-    - Współczesne ilustracje postaci Ah-Q
-    - Graphic novel adaptacje klasycznej noweli
-    - Wystawy artystyczne inspirowane twórczością Lu Xuna
+44. **Illustrations and Comics**
+    - Contemporary illustrations of Ah-Q character
+    - Graphic novel adaptations of the classic novella
+    - Art exhibitions inspired by Lu Xun's work
 
-## Wpływ na badania naukowe
+## Impact on Scientific Research
 
-### Psychologia społeczna
+### Social Psychology
 
-45. **Badania nad mechanikami obronnymi**
-    - "Metoda duchowego zwycięstwa" jako przedmiot badań psychologicznych
-    - Studia nad samozakłamaniem i racjonalizacją
-    - Porównania międzykulturowe podobnych mechanizmów
+45. **Research on Defense Mechanisms**
+    - "Spiritual victory method" as subject of psychological research
+    - Studies on self-deception and rationalization
+    - Cross-cultural comparisons of similar mechanisms
 
-46. **Socjologia literatury**
-    - Badania nad wpływem literatury na świadomość społeczną
-    - Analiza recepcji klasyki literackiej w różnych kontekstach historycznych
-    - Studia nad konstruowaniem tożsamości narodowej przez literaturę
+46. **Sociology of Literature**
+    - Research on literature's influence on social consciousness
+    - Analysis of literary classics reception in different historical contexts
+    - Studies on constructing national identity through literature
 
-### Studia kulturowe
+### Cultural Studies
 
-47. **Badania nad pamięcią kulturową**
-    - Ah-Q jako element chińskiej pamięci zbiorowej
-    - Analiza sposobów upamiętniania i reinterpretacji klasyki
-    - Studia nad turystyką literacką i jej wpływem na dziedzictwo kulturowe
+47. **Research on Cultural Memory**
+    - Ah-Q as element of Chinese collective memory
+    - Analysis of ways to commemorate and reinterpret classics
+    - Studies on literary tourism and its impact on cultural heritage
 
-## Krytyka i debaty
+## Criticism and Debates
 
-### Akademickie kontrowersje
+### Academic Controversies
 
-48. **Debaty o uniwersalności vs. specyfice kulturowej**
-    - Czy Ah-Q to uniwersalny typ ludzki, czy specyficznie chiński fenomen?
-    - Dyskusje o możliwości przekładu kulturowego
-    - Krytyka orientalistycznych interpretacji na Zachodzie
+48. **Debates on Universality vs. Cultural Specificity**
+    - Is Ah-Q a universal human type or specifically Chinese phenomenon?
+    - Discussions about possibilities of cultural translation
+    - Criticism of orientalist interpretations in the West
 
-49. **Feminist i postkolonialne odczytania**
-    - Analiza przedstawienia kobiet w noweli
-    - Krytyka patriarchalnych struktur w społeczeństwie przedstawionym
-    - Postkolonialne interpretacje krytyki "charakteru narodowego"
+49. **Feminist and Postcolonial Readings**
+    - Analysis of women's representation in the novella
+    - Criticism of patriarchal structures in depicted society
+    - Postcolonial interpretations of "national character" criticism
 
-### Współczesne interpretacje
+### Contemporary Interpretations
 
-50. **Relevancja w XXI wieku**
-    - Czy mechanizmy psychologiczne Ah-Q są nadal aktualne?
-    - Analogie do współczesnych fenomenów społecznych i politycznych
-    - Wpływ na zrozumienie współczesnej kultury chińskiej
+50. **Relevance in the 21st Century**
+    - Are Ah-Q's psychological mechanisms still current?
+    - Analogies to contemporary social and political phenomena
+    - Impact on understanding contemporary Chinese culture
 
-## Podsumowanie długofalowego wpływu
+## Summary of Long-term Impact
 
-"Prawdziwa historia Ah-Q" Lu Xuna wywarła niezrównany wpływ na kulturę światową, przekraczając granice literackie i stając się fenomenem społecznym. Postać Ah-Q stała się uniwersalnym symbolem mechanizmów obronnych ludzkiej psychiki, inspirującym artystów, badaczy i krytyków społecznych na całym świecie. 
+"The Real Story of Ah-Q" by Lu Xun has exerted an unparalleled influence on world culture, transcending literary boundaries and becoming a social phenomenon. The character of Ah-Q has become a universal symbol of human psyche's defense mechanisms, inspiring artists, researchers, and social critics worldwide.
 
-Utwór nie tylko zrewolucjonizował chińską literaturę, wprowadzając język potoczny i nową formę krytyki społecznej, ale także stworzył trwałe kategorie myślowe - "Ah-Q-izm" i "duchowe zwycięstwo" - które do dziś funkcjonują w języku codziennym i dyskursie akademickim. 
+The work not only revolutionized Chinese literature by introducing colloquial language and new forms of social criticism, but also created lasting mental categories - "Ah-Q-ism" and "spiritual victory" - that continue to function in everyday language and academic discourse.
 
-Mnogość adaptacji - od europejskiego teatru po chińskie parki tematyczne, od filmu na Festiwalu w Cannes po memy w mediach społecznościowych - dowodzi nieustającej aktualności diagnozy społecznej Lu Xuna. Ah-Q pozostaje żywą postacią kulturową, stale reinterpretowaną i odkrywaną na nowo przez kolejne pokolenia czytelników, widzów i twórców na całym świecie.
+The multitude of adaptations - from European theater to Chinese theme parks, from Cannes Festival films to social media memes - demonstrates the enduring relevance of Lu Xun's social diagnosis. Ah-Q remains a living cultural character, constantly reinterpreted and rediscovered by successive generations of readers, viewers, and creators worldwide.

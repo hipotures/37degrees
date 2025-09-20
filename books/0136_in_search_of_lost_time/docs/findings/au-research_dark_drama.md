@@ -1,131 +1,131 @@
-# Marcel Proust: Mroczne Sekrety i Skandale - Dark Drama Research
+# Marcel Proust: Dark Secrets and Scandals - Dark Drama Research
 
-**Książka**: W poszukiwaniu straconego czasu (In Search of Lost Time)  
-**Autor**: Marcel Proust  
-**Rok**: 1913  
-**Badanie**: Kontrowersje, skandale i mroczne interpretacje
-
----
-
-## 🕵️ CONSPIRACY THEORIES I DARK INTERPRETATIONS
-
-### Okultyzm i Ezoteryka
-1. **PLOTKA**: Dzieło Prousta interpretowano jako współczesną wersję quest o Świętym Gralu - narrator jak Parsifal poszukuje wyższej boskości przez cierpienie
-2. **PLOTKA**: Niektórzy badacze dopatrują się masońskich nawiązań w opisach sekretnych społeczności homoseksualistów działających "jak wolnomularze" w społeczeństwie
-3. **PLOTKA**: Julia Kristeva sugeruje "talmudyczne doświadczenia" w strukturze dzieła - ukryte żydowskie interpretacje
-4. **FAKT**: Brak szeroko rozpowszechnionych teorii spiskowych dotyczących dzieła - głównie konwencjonalne interpretacje literackie
-
-### Ukryte Znaczenia
-5. **FAKT**: Proust używał techniki transpozycji - wszystkie homoseksualne wspomnienia przeniesione na postacie kobiece, pozostawiając tylko groteskowe szczegóły dla postaci homoseksualnych
-6. **PLOTKA**: Dzieło zawiera zakodowane mapy paryskiego podziemia homoseksualnego Belle Époque
-7. **FAKT**: Narrator to zawodowy podsłuchiwacz i voyeur - ukryty komentarz o metodach twórczych samego Prousta
+**Book**: In Search of Lost Time
+**Author**: Marcel Proust
+**Year**: 1913
+**Research**: Controversies, scandals and dark interpretations
 
 ---
 
-## 🔥 AUTHOR SCANDALS - OSOBISTE SKANDALE
+## 🕵️ CONSPIRACY THEORIES AND DARK INTERPRETATIONS
 
-### Skandal z Męskim Burdelem
-8. **FAKT**: 11 stycznia 1918 Proust został zidentyfikowany przez policję podczas nalotu na męski burdel prowadzony przez Alberta Le Cuziata
-9. **FAKT**: Raport policyjny z 2005 roku potwierdza obecność "Proust, Marcel, 46 ans, rentier, 102, boulevard Haussmann" podczas nalotu
-10. **FAKT**: Hotel Marigny (11, rue de l'Arcade) był znany komisarzowi jako "miejsce spotkań pederastów, nieletnich i dorosłych"
-11. **FAKT**: Podczas nalotu policja znalazła Prousta z dwoma młodymi żołnierzami i Albertem Le Cuziatem, na stole stał szampan
-12. **FAKT**: Proust finansował zakup hotelu przez Le Cuziata w 1913 roku na przekształcenie w burdel
-13. **FAKT**: Meble rodzinne Prousta z boulevard Haussmann trafiły do pokojów w burdelu
+### Occultism and Esotericism
+1. **RUMOR**: Proust's work has been interpreted as a contemporary version of the Holy Grail quest - the narrator like Parsifal seeking higher divinity through suffering
+2. **RUMOR**: Some researchers see Masonic references in descriptions of secret homosexual societies operating "like freemasons" in society
+3. **RUMOR**: Julia Kristeva suggests "Talmudic experiences" in the work's structure - hidden Jewish interpretations
+4. **FACT**: Lack of widely spread conspiracy theories about the work - mainly conventional literary interpretations
 
-### Voyeuryzm i Obserwacje
-14. **FAKT**: Le Cuziat organizował dla Prousta sesje voyeuryzmu w hotelu, pozwalając mu szpiegować klientów
-15. **FAKT**: Proust był opisywany jako "voyeur odwiedzający hotele wokół Les Halles i rue Réaumur, gdzie marynarze i żołnierze sprzedawali swoje usługi"
-16. **FAKT**: Le Cuziat, przezywany przez Prousta "moim żywym Gotha", dostarczał mu skandaliczne historie, które trafiały do powieści
-
-### Pojedynek o Honor
-17. **FAKT**: Proust nigdy nie wyszedł z szafy i raz stoczył nieznaczący pojedynek z dziennikarzem, który próbował go zdemaskować
-18. **FAKT**: Jean Lorrain aluzyjnie nawiązał do homoseksualności Prousta w druku, co doprowadziło do pojedynku
-
-### Problematyczne Relacje Seksualne
-19. **FAKT**: William C. Carter opisuje "katastrofalną wizytę Prousta w burdelu mającą wyleczyć homoseksualne skłonności"
-20. **FAKT**: Carter szczegółowo opisuje "dziwną tożsamość seksualną Prousta - od intensywnych i często histerycznych relacji z męskimi przyjaciółmi po quasi-patologiczne przywiązanie do matki po dziwaczne fetysze seksualne w wizytach w paryskich burdelach"
+### Hidden Meanings
+5. **FACT**: Proust used the technique of transposition - all homosexual memories transferred to female characters, leaving only grotesque details for homosexual characters
+6. **RUMOR**: The work contains coded maps of the Parisian homosexual underground of Belle Époque
+7. **FACT**: The narrator is a professional eavesdropper and voyeur - hidden commentary on Proust's own creative methods
 
 ---
 
-## 💰 FINANCIAL SCANDALS - DRAMATY FINANSOWE
+## 🔥 AUTHOR SCANDALS - PERSONAL SCANDALS
 
-### Roztrwonienie Fortuny
-21. **FAKT**: Mimo odziedziczenia około 4,5 miliona euro (w dzisiejszych pieniądzach) Proust zbankrutował przez złe zarządzanie finansami
-22. **FAKT**: Proust wydawał rozrzutnie, dawał "ogromne napiwki" i stawiał "duże sumy na stołach kasynowych"
-23. **FAKT**: Był opętany "demonem spekulacji" i fascynował go rynek terminowy "bardziej niż bakarat"
-24. **FAKT**: Miał licznych doradców finansowych, ale "przeciwstawiał ich sobie nawzajem", co skutkowało wysokoryzykownymi transakcjami giełdowymi
+### Male Brothel Scandal
+8. **FACT**: On January 11, 1918, Proust was identified by police during a raid on a male brothel run by Albert Le Cuziat
+9. **FACT**: A 2005 police report confirms the presence of "Proust, Marcel, 46 years, rentier, 102, boulevard Haussmann" during the raid
+10. **FACT**: Hotel Marigny (11, rue de l'Arcade) was known to the commissioner as "a meeting place for pederasts, minors and adults"
+11. **FACT**: During the raid, police found Proust with two young soldiers and Albert Le Cuziat, with champagne on the table
+12. **FACT**: Proust financed the purchase of the hotel by Le Cuziat in 1913 to convert it into a brothel
+13. **FACT**: Proust's family furniture from boulevard Haussmann ended up in the brothel rooms
 
-### Katastrofa Finansowa 1914
-25. **FAKT**: W przededniu I wojny światowej zawarł katastrofalne transakcje na paryskiej giełdzie i "zadłużył się w Crédit Industriel"
-26. **FAKT**: Po śmierci kochanka Alfreda Agostinellego "wykonał serię operacji giełdowych, które zrujnowały jego finanse"
-27. **FAKT**: W powieści narrator mówi o ryzykownych inwestycjach "żeby mieć więcej pieniędzy do wydania z Albertyną" - odzwierciedlenie rzeczywistej sytuacji Prousta
+### Voyeurism and Observations
+14. **FACT**: Le Cuziat organized voyeurism sessions for Proust at the hotel, allowing him to spy on clients
+15. **FACT**: Proust was described as "a voyeur visiting hotels around Les Halles and rue Réaumur, where sailors and soldiers sold their services"
+16. **FACT**: Le Cuziat, nicknamed by Proust "my living Gotha", provided him with scandalous stories that found their way into the novel
 
-### Rodzinne Konflikty Finansowe
-28. **FAKT**: Rodzice Prousta "martwili się o jego zdolność do zarządzania finansami"
-29. **FAKT**: Ojciec był rozczarowany, że "słabowity, leniwy syn Marcel" żył z dziedzictwa i nigdy nie podjął regularnej pracy
-30. **FAKT**: Uzyskał wolontariat w Bibliothèque Mazarine w 1896, ale natychmiast wziął zwolnienie lekarskie przedłużające się latami
+### Honor Duel
+17. **FACT**: Proust never came out of the closet and once fought an insignificant duel with a journalist who tried to expose him
+18. **FACT**: Jean Lorrain allusively referred to Proust's homosexuality in print, which led to a duel
+
+### Problematic Sexual Relations
+19. **FACT**: William C. Carter describes "Proust's catastrophic visit to a brothel intended to cure homosexual inclinations"
+20. **FACT**: Carter details "Proust's strange sexual identity - from intense and often hysterical relationships with male friends to quasi-pathological attachment to his mother to bizarre sexual fetishes in visits to Parisian brothels"
 
 ---
 
-## 📚 PUBLISHING DRAMA - KONFLIKTY WYDAWNICZE
+## 💰 FINANCIAL SCANDALS - FINANCIAL DRAMAS
 
-### Słynne Odrzucenie Przez Gide'a
-31. **FAKT**: Pierwszy tom "W poszukiwaniu straconego czasu" został odrzucony przez wydawnictwo Gallimard na radę André Gide'a
-32. **FAKT**: Powieść była początkowo odrzucona przez kilku wydawców: Fasquelle, Ollendorff i Nouvelle Revue Française (NRF)
-33. **FAKT**: Ostatecznie książka została opublikowana na koszt autora przez Grasseta, a Proust płacił krytykom za przychylne recenzje
-34. **FAKT**: Gide później przeprosił Prousta za udział w odrzuceniu, nazywając to "jednym z najpoważniejszych błędów swojego życia"
+### Fortune Squandering
+21. **FACT**: Despite inheriting about 4.5 million euros (in today's money), Proust went bankrupt through poor financial management
+22. **FACT**: Proust spent lavishly, gave "enormous tips" and placed "large sums on casino tables"
+23. **FACT**: He was obsessed with the "demon of speculation" and was more fascinated by the futures market "than baccarat"
+24. **FACT**: He had numerous financial advisors but "turned them against each other", resulting in high-risk stock transactions
 
-### Konflikt o Homoseksualność w Literaturze
-35. **FAKT**: Gide był rozdrażniony, że "Proust nigdy nie uznał swojej homoseksualności ani nigdy nie przedstawił homoseksualnych skłonności w atrakcyjnym świetle"
-36. **FAKT**: André Gide oskarżył Prousta o "dramatyzowanie tylko depresyjnych aspektów inwersji i żadnych z jej radości"
-37. **ZARZUT**: Gdy wydano "Sodomę i Gomorę", André Gide oburzył się na "brzydki obraz... homoseksualistów" Prousta
+### Financial Catastrophe of 1914
+25. **FACT**: On the eve of World War I, he made catastrophic transactions on the Paris stock exchange and "went into debt at Crédit Industriel"
+26. **FACT**: After the death of his lover Alfred Agostinelli, he "executed a series of stock operations that ruined his finances"
+27. **FACT**: In the novel, the narrator speaks of risky investments "to have more money to spend with Albertine" - reflecting Proust's real situation
+
+### Family Financial Conflicts
+28. **FACT**: Proust's parents "worried about his ability to manage finances"
+29. **FACT**: His father was disappointed that "weak, lazy son Marcel" lived off inheritance and never took regular work
+30. **FACT**: He obtained a volunteer position at Bibliothèque Mazarine in 1896 but immediately took medical leave extending for years
+
+---
+
+## 📚 PUBLISHING DRAMA - PUBLISHING CONFLICTS
+
+### Famous Rejection by Gide
+31. **FACT**: The first volume of "In Search of Lost Time" was rejected by Gallimard publishing house on André Gide's advice
+32. **FACT**: The novel was initially rejected by several publishers: Fasquelle, Ollendorff and Nouvelle Revue Française (NRF)
+33. **FACT**: Ultimately the book was published at the author's expense by Grasset, and Proust paid critics for favorable reviews
+34. **FACT**: Gide later apologized to Proust for participating in the rejection, calling it "one of the most serious mistakes of his life"
+
+### Conflict over Homosexuality in Literature
+35. **FACT**: Gide was irritated that "Proust never acknowledged his homosexuality nor ever presented homosexual inclinations in an attractive light"
+36. **FACT**: André Gide accused Proust of "dramatizing only the depressive aspects of inversion and none of its joys"
+37. **ACCUSATION**: When "Sodom and Gomorrah" was published, André Gide was outraged by Proust's "ugly picture... of homosexuals"
 
 ---
 
 ## ⚕️ HEALTH & ADDICTION DRAMA
 
-### Uzależnienie od Narkotyków
-38. **FAKT**: Proust spożywał "przerażający koktajl psychotropów" w poszukiwaniu snu, w tym opium w postaci Pantoponu, w połączeniu z silnymi dawkami Veronalu i Dialu
-39. **FAKT**: Konsumował także morfinę i heroinę, choć według badacza Dominique'a Mabina nie do tego stopnia, aby uzależnić się
-40. **FAKT**: W styczniu 1896 Edmond de Goncourt opisał spotkanie z młodym mężczyzną, którego "wzrok był wciąż zamglony przez opium" - identyfikowanym jako "młody Proust, syn profesora higieny publicznej"
+### Drug Addiction
+38. **FACT**: Proust consumed a "terrifying cocktail of psychotropics" in search of sleep, including opium in the form of Pantopon, combined with strong doses of Veronal and Dial
+39. **FACT**: He also consumed morphine and heroin, though according to researcher Dominique Mabin, not to the extent of becoming addicted
+40. **FACT**: In January 1896, Edmond de Goncourt described meeting a young man whose "gaze was still clouded by opium" - identified as "young Proust, son of the professor of public hygiene"
 
-### Melkarium Opium
-41. **FAKT**: Proust czasami odwiedzał melkarium opium w pobliżu dworca Saint-Lazare
-42. **FAKT**: Jego bezsenność skłoniła go do eksperymentowania z rzekomo nasennymi lekami, ale niektóre z tych leków były uzależniające
-43. **FAKT**: Lekarz zdiagnozował jego dolegliwość jako związaną z lękiem i zalecił leczenie podobne do stosowanego u narkomanów
+### Opium Den
+41. **FACT**: Proust sometimes visited an opium den near Saint-Lazare station
+42. **FACT**: His insomnia led him to experiment with supposedly sleep-inducing drugs, but some of these drugs were addictive
+43. **FACT**: A doctor diagnosed his condition as anxiety-related and recommended treatment similar to that used for drug addicts
 
 ---
 
 ## 🏛️ GOVERNMENT CENSORSHIP & BANS
 
-### Cenzura Nazistowska
-44. **FAKT**: Dzieła Prousta były wśród spalanych podczas nazistowskich podpaleń książek w latach 30., gdzie niszczono "zdegenerowane" dzieła, szczególnie napisane przez żydowskich autorów
-45. **FAKT**: Mimo że Proust był wychowywany w wierze katolickiej, później stał się ateistą, ale jego żydowskie pochodzenie matki czyniło go celem nazistów
+### Nazi Censorship
+44. **FACT**: Proust's works were among those burned during Nazi book burnings in the 1930s, where "degenerate" works were destroyed, especially those written by Jewish authors
+45. **FACT**: Although Proust was raised Catholic and later became an atheist, his mother's Jewish heritage made him a Nazi target
 
-### Współczesna Cenzura
-46. **FAKT**: Prawie 700 książek, w tym klasyczne dzieła Prousta, zostały usunięte z klas w Orange County na Florydzie z powodu obaw, że naruszają nowe prawa stanu zakazujące materiałów z "treścią seksualną" w szkołach
-47. **PLOTKA**: Różne interpretacje przyczyn cenzury na przestrzeni dziejów - od prześladowań na tle religijnym po współczesne obawy o treść seksualną
-
----
-
-## 🔮 PROPHECY CHECK - CO SIĘ SPRAWDZIŁO
-
-### Przepowiednie Społeczne
-48. **FAKT**: Proust proroczo uchwycił "ogromne zmiany, szczególnie upadek arystokracji i wzrost klas średnich, które nastąpiły we Francji podczas III Republiki i fin de siècle"
-49. **FAKT**: Przewidział "dyslokację spowodowaną nadejściem nowej technologii" w niezapomnianych fragmentach dotyczących "telefonu, samochodu i samolotu"
-50. **FAKT**: Antycypował, że społeczne wstrząsy jego czasów spowodują "całkowicie nowy styl literatury", gdy francuscy intelektualiści odeszli od XIX-wiecznego realizmu społecznego ku "trzeźwemu badaniu działania umysłu"
+### Contemporary Censorship
+46. **FACT**: Nearly 700 books, including Proust's classic works, were removed from classes in Orange County, Florida due to concerns they violated new state laws prohibiting materials with "sexual content" in schools
+47. **RUMOR**: Various interpretations of censorship reasons throughout history - from religious persecution to contemporary concerns about sexual content
 
 ---
 
-## 🎭 CHARAKTERYSTYKA BADANIA
+## 🔮 PROPHECY CHECK - WHAT CAME TRUE
 
-**Uwaga**: To badanie koncentruje się na kontrowersyjnych i mrocznych aspektach życia i dzieła Marcela Prousta w celach edukacyjnych. Większość informacji pochodzi z udokumentowanych źródeł historycznych i biograficznych, choć niektóre interpretacje pozostają przedmiotem debaty akademickiej.
+### Social Prophecies
+48. **FACT**: Proust prophetically captured "enormous changes, particularly the decline of aristocracy and rise of middle classes, that occurred in France during the Third Republic and fin de siècle"
+49. **FACT**: He predicted "dislocation caused by the advent of new technology" in memorable passages about "telephone, automobile and airplane"
+50. **FACT**: He anticipated that the social upheavals of his time would cause "an entirely new style of literature", as French intellectuals moved away from 19th-century social realism toward "sober examination of mind's workings"
 
-**Metoda**: Wykorzystano wyszukiwania internetowe, analizę źródeł historycznych i dokumentów biograficznych w celu odkrycia mniej znanych i kontrowersyjnych aspektów życia i twórczości autora.
+---
 
-**Legenda**: 
-- **FAKT** = potwierdzone informacje historyczne
-- **ZARZUT** = oskarżenia lub kontrowersje bez pełnego potwierdzenia  
-- **PLOTKA** = teorie, spekulacje lub niepotwierzone informacje
+## 🎭 RESEARCH CHARACTERISTICS
 
-Badanie wykonane: wrzesień 2025
+**Note**: This research focuses on controversial and dark aspects of Marcel Proust's life and work for educational purposes. Most information comes from documented historical and biographical sources, though some interpretations remain subject to academic debate.
+
+**Method**: Internet searches, analysis of historical sources and biographical documents were used to uncover lesser-known and controversial aspects of the author's life and work.
+
+**Legend**:
+- **FACT** = confirmed historical information
+- **ACCUSATION** = allegations or controversies without full confirmation
+- **RUMOR** = theories, speculations or unconfirmed information
+
+Research completed: September 2025

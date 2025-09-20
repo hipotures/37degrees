@@ -1,155 +1,155 @@
-# Badania historyczne: "Wyklęty lud ziemi" - Frantz Fanon (1961)
+# Historical Research: "The Wretched of the Earth" - Frantz Fanon (1961)
 
-## Okoliczności powstania książki
+## Circumstances of Book Creation
 
-### **FAKT**: Napisana w 10 tygodni podczas umierania na białaczkę
-Frantz Fanon podyktował większość swojej ostatniej książki "Les Damnés de la Terre" w 1961 roku z materaca na podłodze mieszkania w Tunisie. Miał 36 lat i umierał na białaczkę. Choroba niedawno oślepiła go na kilka tygodni, ale zdołał ukończyć książkę w dziesięć tygodni w wyścigu ze śmiercią.
+### **FACT**: Written in 10 weeks while dying of leukemia
+Frantz Fanon dictated most of his final book "Les Damnés de la Terre" in 1961 from a mattress on the floor of an apartment in Tunisia. He was 36 years old and dying of leukemia. The disease had recently blinded him for several weeks, but he managed to complete the book in ten weeks in a race against death.
 
-### **FAKT**: Książka była dyktowana, nie pisana
-Fanon nigdy nie lubił fizycznie pisać swoich dzieł. Zamiast tego dyktował żonie Josie, która przepisywała wszystko na maszynie. "Les Damnés de la Terre" składa się z materiału podyktowanego żonie wiosną i latem 1961 roku podczas 10-tygodniowego okresu.
+### **FACT**: The book was dictated, not written
+Fanon never liked physically writing his works. Instead, he dictated to his wife Josie, who typed everything. "Les Damnés de la Terre" consists of material dictated to his wife during the spring and summer of 1961 over a 10-week period.
 
-### **FAKT**: Poczucie naglenia przenika całą książkę
-Bliski przyjaciel opisał proces pisania: "Wyklęty lud ziemi powinien być czytany jak naglącą wiadomość, dostarczoną w surowym stanie, niepoprawioną - nie śmieliśmy kwestionować niektórych fragmentów wobec człowieka, który odczytywał swój tekst bliskim przyjaciołom, spacerując po swoim pokoju w Tunisie, chory i świadomy, że jest skazany, pragnąc z całą siłą, w wspaniałym języku, powiedzieć to, co miał do powiedzenia."
+### **FACT**: Sense of urgency permeates the entire book
+A close friend described the writing process: "The Wretched of the Earth should be read as an urgent message, delivered in raw state, uncorrected - we dared not question certain passages in the face of a man who read his text to close friends, pacing around his room in Tunisia, sick and aware that he was doomed, wanting with all his strength, in magnificent language, to say what he had to say."
 
-### **FAKT**: Nie zawiera wielu odniesień ani cytatów
-Książka nie została napisana, lecz podyktowana przez Fanona, co widać w stylu tekstu. Nie zawiera wielu odniesień ani cytatów. To tylko surowa mowa umierającego człowieka, który jest zdesperowany, wściekły i chce zostawić na piśmie coś o rzeczach, które go naprawdę niepokojły.
+### **FACT**: Contains few references or citations
+The book was not written but dictated by Fanon, which is evident in the style of the text. It contains few references or citations. It's just the raw speech of a dying man who is desperate, angry, and wants to leave in writing something about the things that truly troubled him.
 
-## Biografia autora w kontekście książki
+## Author Biography in Context of the Book
 
-### **FAKT**: Urodzony w średniej klasie na Martynice w 1925 roku
-Frantz Omar Fanon urodził się 20 lipca 1925 w Fort-de-France na Martynice, która była wówczas częścią francuskiego imperium kolonialnego. Jego ojciec, Félix Casimir Fanon, pracował jako urzędnik celny, a matka, Eléanore Médélice, pochodzenia afro-karaibskiego i alzackiego, była właścicielką sklepu.
+### **FACT**: Born into middle class in Martinique in 1925
+Frantz Omar Fanon was born on July 20, 1925, in Fort-de-France, Martinique, which was then part of the French colonial empire. His father, Félix Casimir Fanon, worked as a customs officer, and his mother, Eléanore Médélice, of Afro-Caribbean and Alsatian origin, owned a shop.
 
-### **FAKT**: Uczęszczał do najbardziej prestiżowej szkoły średniej na Martynice
-Jako przedstawiciel klasy średniej, jego rodzina mogła sobie pozwolić na wysłanie Fanona do Lycée Victor Schœlcher, najbardziej prestiżowej szkoły średniej na Martynice, gdzie Fanon podziwiał jednego ze swoich nauczycieli, Aimé Césaire.
+### **FACT**: Attended the most prestigious high school in Martinique
+As a representative of the middle class, his family could afford to send Fanon to Lycée Victor Schœlcher, the most prestigious high school in Martinique, where Fanon admired one of his teachers, Aimé Césaire.
 
-### **FAKT**: Studiował psychiatrię w Lyonie pod wpływem François Tosquellesa
-Po ukończeniu matury Fanon wrócił do Francji, gdzie zamierzał studiować medycynę i psychiatrię. Kształcił się na Uniwersytecie w Lyonie, gdzie studiował także literaturę, dramat i filozofię, czasami uczestnicząc w wykładach Merleau-Ponty'ego. Po uzyskaniu kwalifikacji psychiatry w 1951 roku odbył rezydencję psychiatryczną w Saint-Alban-sur-Limagnole pod kierunkiem radykalnego katalońskiego psychiatry François Tosquellesa.
+### **FACT**: Studied psychiatry in Lyon under François Tosquelles' influence
+After completing high school, Fanon returned to France, where he intended to study medicine and psychiatry. He was educated at the University of Lyon, where he also studied literature, drama, and philosophy, sometimes attending Merleau-Ponty's lectures. After qualifying as a psychiatrist in 1951, he completed his psychiatric residency at Saint-Alban-sur-Limagnole under the radical Catalan psychiatrist François Tosquelles.
 
-### **FAKT**: Przeżył szczęśliwe dzieciństwo izolowane od dyskryminacji
-Według biografki Alice Cherki, stażystki, która później pracowała z Fanonem w szpitalu psychiatrycznym w Algierii, Fanon wydawał się być względnie odizolowany od realiów dyskryminacji i miał "wszechstronnie szczęśliwe dzieciństwo" na Martynice.
+### **FACT**: Experienced happy childhood isolated from discrimination
+According to biographer Alice Cherki, an intern who later worked with Fanon at the psychiatric hospital in Algeria, Fanon appeared to be relatively isolated from the realities of discrimination and had an "all-around happy childhood" in Martinique.
 
-### **FAKT**: Szef oddziału psychiatrycznego w największym szpitalu Afryki Północnej
-Fanon został szefem personelu oddziału psychiatrycznego w szpitalu Blida-Joinville w Algierii w 1953 roku, który był największym szpitalem psychiatrycznym w Afryce Północnej, leczącym ponad 2000 pacjentów w tamtym czasie.
+### **FACT**: Head of psychiatric department at North Africa's largest hospital
+Fanon became head of staff of the psychiatric department at Blida-Joinville Hospital in Algeria in 1953, which was the largest psychiatric hospital in North Africa, treating over 2,000 patients at that time.
 
-### **FAKT**: Leczył zarówno francuskich żołnierzy, jak i algierskich ofiary tortur
-Pracując we francuskim szpitalu w Algierii, Fanon stał się odpowiedzialny za leczenie zarówno stresu psychologicznego francuskich żołnierzy i oficerów, którzy stosowali tortury w celu stłumienia oporu antykolonialnego, jak i algierskich ofiar tortur.
+### **FACT**: Treated both French soldiers and Algerian torture victims
+Working at a French hospital in Algeria, Fanon became responsible for treating both the psychological stress of French soldiers and officers who used torture to suppress anti-colonial resistance, and Algerian victims of torture.
 
-### **FAKT**: Tworzył innowacyjne metody terapii kulturowej
-Pracując z muzułmańskimi pielęgniarzami, stworzył café maure (tradycyjną mauretańską kawiarnię), gdzie mężczyźni mogli pić kawę i grać w karty, a później "orientalny salon" dla muzułmańskich pacjentek. Występowali muzułmańscy muzycy i gawędziarze, świętowano muzułmańskie festiwale, a mufti z Blidy odwiedzał szpital podczas Ramadanu.
+### **FACT**: Created innovative cultural therapy methods
+Working with Muslim nurses, he created a café maure (traditional Moorish café) where men could drink coffee and play cards, and later an "oriental salon" for Muslim female patients. Muslim musicians and storytellers performed, Muslim festivals were celebrated, and the mufti of Blida visited the hospital during Ramadan.
 
-### **FAKT**: Tajnie wspierał algierskich rewolucjonistów w szpitalu
-W Blidzie Fanon i algierscy pielęgniarze potajemnie leczyli bojowników Frontu Wyzwolenia Narodowego (FLN) i ukrywali członków partyzantki w murach szpitala. Personel szpitala utworzył militarny kolektyw opieki zdrowotnej, który kwestionował przymusowe podejścia do psychiatrii.
+### **FACT**: Secretly supported Algerian revolutionaries in the hospital
+In Blida, Fanon and Algerian nurses secretly treated National Liberation Front (FLN) fighters and hid guerrilla members within the hospital walls. The hospital staff formed a military healthcare collective that challenged coercive approaches to psychiatry.
 
-### **FAKT**: Zrezygnował z pracy w proteście przeciwko kolonializmowi francuskiemu
-Sfrustrowany francuskką okupacją i obawiając się aresztowania za potajemne pomaganie FLN, Fanon zrezygnował z Blida-Joinville w 1956 roku, stwierdzając w liście rezygnacyjnym: "Decyzja, do której doszedłem, jest taka, że nie mogę dalej ponosić odpowiedzialności bez względu na koszt, pod fałszywym pretekstem, że nie ma nic innego do zrobienia."
+### **FACT**: Resigned from job in protest against French colonialism
+Frustrated by the French occupation and fearing arrest for secretly helping the FLN, Fanon resigned from Blida-Joinville in 1956, stating in his resignation letter: "The decision I have reached is that I can no longer bear responsibility regardless of cost, under the false pretext that there is nothing else to do."
 
-### **FAKT**: Został ambasadorem tymczasowego rządu algierskiego w Ghanie
-W tym samym roku objął stanowisko dyplomatyczne w tymczasowym rządzie algierskim jako ambasador w Ghanie i wykorzystał wpływy tego stanowiska do pomocy w otwarciu szlaków zaopatrzeniowych dla armii algierskiej.
+### **FACT**: Became ambassador of provisional Algerian government in Ghana
+That same year, he took a diplomatic position in the provisional Algerian government as ambassador to Ghana and used the influence of this position to help open supply routes for the Algerian army.
 
-### **FAKT**: Misja otwarcia Trzeciego Frontu przez pustynię Sahara
-Celem jego misji rozpoznawczej było nawiązanie kontaktu z plemionami pustynni i otwarcie południowego frontu na granicy Algierii z Mali, tak aby broń i amunicja mogły być przemieszczane ze stolicy Mali, Bamako, przez Saharę do rebeliantów FLN. Po powrocie do Tunisu, po wyczerpującej podróży przez Saharę w celu otwarcia Trzeciego Frontu, u Fanona zdiagnozowano białaczkę.
+### **FACT**: Mission to open Third Front through Sahara Desert
+The purpose of his reconnaissance mission was to make contact with desert tribes and open a southern front on Algeria's border with Mali, so that weapons and ammunition could be moved from Mali's capital, Bamako, through the Sahara to FLN rebels. Upon returning to Tunisia after an exhausting journey through the Sahara to open the Third Front, Fanon was diagnosed with leukemia.
 
-## Historia publikacji
+## Publication History
 
-### **FAKT**: Opublikowana kilka dni przed śmiercią autora
-"Les Damnés de la terre" to ostatnia książka Frantza Fanona, opublikowana kilka dni przed jego śmiercią w wydawnictwie Maspero w 1961 roku. Książka ukazała się w październiku 1961 roku w Éditions François Maspero, gdy Frantz Fanon umierał.
+### **FACT**: Published days before author's death
+"Les Damnés de la terre" is Frantz Fanon's last book, published days before his death by Maspero publishers in 1961. The book appeared in October 1961 at Éditions François Maspero, as Frantz Fanon was dying.
 
-### **FAKT**: Natychmiastowa konfiskata we Francji
-Opublikowana w 1961 roku, w okresie, gdy przemoc kolonialna szalała podczas wojny algierskiej, książka była wielokrotnie konfiskowana przy publikacji w Éditions François Maspero, co wskazuje na jej kontrowersyjny i wpływowy charakter.
+### **FACT**: Immediate confiscation in France
+Published in 1961, during a period when colonial violence raged during the Algerian War, the book was repeatedly confiscated upon publication at Éditions François Maspero, indicating its controversial and influential character.
 
-### **FAKT**: Słynny i kontrowersyjny wstęp Jean-Paul Sartre'a
-Jean-Paul Sartre napisał wprowadzenie do pierwszego wydania, gdy książka została opublikowana po francusku w 1961 roku. W swojej przedmowie do wydania z 1961 roku Sartre poparł Fanona w zakresie przemocy ludów skolonizowanych przeciwko kolonizatorowi, jako koniecznej dla ich zdrowia psychicznego i wyzwolenia politycznego.
+### **FACT**: Famous and controversial preface by Jean-Paul Sartre
+Jean-Paul Sartre wrote the introduction to the first edition when the book was published in French in 1961. In his preface to the 1961 edition, Sartre endorsed Fanon regarding the violence of colonized peoples against the colonizer, as necessary for their mental health and political liberation.
 
-### **FAKT**: Usunięcie przedmowy Sartre'a przez wdowę Fanona
-Po 1967 roku, w następstwie poparcia Sartre'a dla Izraela w wojnie sześciodniowej, przedmowa Sartre'a została usunięta z nowych wydań przez wdowę Fanona. Gdy w 1978 roku była wywiadowana na Uniwersytecie Howarda, powiedziała, że gdy Izrael wypowiedział wojnę krajom arabskim, Sartre wziął udział w ruchu prozjonistycznym, podpisywał petycje popierające Izrael, i czuła, że "jego postawy prozjonistyczne były niezgodne z pracą Fanona."
+### **FACT**: Removal of Sartre's preface by Fanon's widow
+After 1967, following Sartre's support for Israel in the Six-Day War, Sartre's preface was removed from new editions by Fanon's widow. When interviewed at Howard University in 1978, she said that when Israel declared war on Arab countries, Sartre participated in the pro-Zionist movement, signed petitions supporting Israel, and she felt that "his pro-Zionist attitudes were incompatible with Fanon's work."
 
-### **FAKT**: Pierwsza edycja amerykańska w 1963 roku
-Pierwsza edycja amerykańska została wydana przez Grove Press w 1963 roku, jak świadczy "The Wretched of the Earth Frantz Fanon Grove Press First Edition, First Printing 1963".
+### **FACT**: First American edition in 1963
+The first American edition was published by Grove Press in 1963, as evidenced by "The Wretched of the Earth Frantz Fanon Grove Press First Edition, First Printing 1963."
 
-### **FAKT**: Przetłumaczona na 15 języków
-Książka została przetłumaczona na 15 języków i ma wyjątkowe przeznaczenie, służąc jako inspiracja dla pokoleń militantów antykolonialnych.
+### **FACT**: Translated into 15 languages
+The book has been translated into 15 languages and has a unique destiny, serving as inspiration for generations of anti-colonial militants.
 
-## Wpływ i znaczenie
+## Impact and Significance
 
-### **FAKT**: "Biblia czarnego ruchu rewolucyjnego" według Eldridge'a Cleavera
-Eldridge Cleaver nazwał "Wyklęty lud ziemi" Fanona Biblią czarnego ruchu rewolucyjnego. To pokazuje głęboki wpływ, jaki praca Fanona miała na ideologię rewolucyjną Cleavera i szerszy ruch wyzwolenia Czarnych.
+### **FACT**: "Bible of the black revolutionary movement" according to Eldridge Cleaver
+Eldridge Cleaver called Fanon's "The Wretched of the Earth" the Bible of the black revolutionary movement. This shows the profound impact that Fanon's work had on Cleaver's revolutionary ideology and the broader Black liberation movement.
 
-### **FAKT**: Fundamentalna lektura dla założycieli Czarnych Panter
-Napisane przez jednego z założycieli Czarnych Panter, to sprawozdanie opisuje, jak założyciele obsesyjnie czytali dzieła Frantza Fanona dla inspiracji. Konkretnie, "Wyklęty lud ziemi" Fanona, którą Seale przedstawił Huey Newtonowi, stała się częścią filozoficznych i ideologicznych podstaw partii wraz z "Małą Czerwoną Książeczką" Mao.
+### **FACT**: Fundamental reading for Black Panther founders
+Written by one of the founders of the Black Panthers, this account describes how the founders obsessively read Frantz Fanon's works for inspiration. Specifically, Fanon's "The Wretched of the Earth," which Seale introduced to Huey Newton, became part of the party's philosophical and ideological foundations along with Mao's "Little Red Book."
 
-### **FAKT**: Inspiracja dla pisarzy i aktywistów lat 60.
-Pisarze lat sześćdziesiątych inspirowani "Wyklętym ludem ziemi" - afrykańscy powieściopisarze Nadine Gordimer, Ayi Kwei Armah i Ngugi wa Thiong'o, karaibski poeta Édouard Glissant, gujański krytyk Walter Rodney - widzieli w książce nie podżeganie do zabijania białych ludzi, ale mrożąco dokładną diagnozę stanu postkolonialnego.
+### **FACT**: Inspiration for writers and activists of the 1960s
+Writers of the sixties inspired by "The Wretched of the Earth" - African novelists Nadine Gordimer, Ayi Kwei Armah and Ngugi wa Thiong'o, Caribbean poet Édouard Glissant, Guyanese critic Walter Rodney - saw in the book not incitement to kill white people, but a chillingly accurate diagnosis of the postcolonial condition.
 
-### **FAKT**: Oficjalne cytowanie przez Czarne Pantery w manifestach
-Założyciele ruchu Black Power i Czarnych Panter bezpośrednio cytowali "WYKLĘTY LUD ZIEMI" w oficjalnych publikacjach i manifestach.
+### **FACT**: Official citation by Black Panthers in manifestos
+The founders of the Black Power movement and Black Panthers directly quoted "THE WRETCHED OF THE EARTH" in official publications and manifestos.
 
-### **FAKT**: Nowa czytelność podczas protestów Black Lives Matter
-W 2020 roku książka znalazła nową czytelność w następstwie protestów Black Lives Matter, co pokazuje jej trwałe znaczenie.
+### **FACT**: New readership during Black Lives Matter protests
+In 2020, the book found new readership following Black Lives Matter protests, showing its enduring relevance.
 
-### **FAKT**: Krytyka Hannah Arendt i jej wpływ na uniwersytety
-Filozof Hannah Arendt atakowała książkę, argumentując przeciwko przemocy, a według Homi Bhabhy "atak Hannah Arendt na książkę pod koniec lat sześćdziesiątych był próbą zatamowania ognia, który rozprzestrzenił się po kampusach uniwersyteckich, jednocześnie chętnie przyznając, że to rzeczywiście przedmowa Sartre'a gloryfikowała przemoc ponad słowa czy życzenia Fanona."
+### **FACT**: Hannah Arendt's criticism and its impact on universities
+Philosopher Hannah Arendt attacked the book, arguing against violence, and according to Homi Bhabha, "Hannah Arendt's attack on the book in the late sixties was an attempt to stem the fire that spread across university campuses, while readily admitting that it was indeed Sartre's preface that glorified violence over Fanon's words or wishes."
 
-## Anegdoty i ciekawostki
+## Anecdotes and Curiosities
 
-### **FAKT**: Leczenie przez CIA w ostatnich dniach życia
-W październiku 1961 roku Fanon został sprowadzony do Stanów Zjednoczonych przez agenta CIA, aby mógł otrzymać leczenie w placówce National Institutes of Health w Bethesda w stanie Maryland. Po przyjeździe do USA, Central Intelligence Agency (CIA) przetrzymywała go przez dziesięć dni bez leczenia.
+### **FACT**: Treatment by CIA in final days of life
+In October 1961, Fanon was brought to the United States by a CIA agent so he could receive treatment at the National Institutes of Health facility in Bethesda, Maryland. Upon arrival in the USA, the Central Intelligence Agency (CIA) held him for ten days without treatment.
 
-### **FAKT**: Podejrzenia wobec personelu medycznego w USA
-Nie ufał personelowi medycznemu i nalegał, gdy leżał umierający, że "przepuścili mnie przez pralkę zeszłej nocy." Zmarł na podwójne zapalenie płuc 6 grudnia 1961 roku w Bethesda w stanie Maryland.
+### **FACT**: Suspicions about medical staff in USA
+He did not trust the medical staff and insisted, as he lay dying, that "they put me through the wringer last night." He died of double pneumonia on December 6, 1961, in Bethesda, Maryland.
 
-### **FAKT**: Przyjęty pod fałszywym nazwiskiem libijskim
-Został przyjęty pod nazwiskiem Ibrahim Omar Fanon, libijskim nom de guerre, które przyjął. Po śmierci jego ciało zostało zabrane do Algierii po wystawieniu w Tunezji.
+### **FACT**: Admitted under false Libyan name
+He was admitted under the name Ibrahim Omar Fanon, a Libyan nom de guerre he had adopted. After his death, his body was taken to Algeria after being displayed in Tunisia.
 
-### **FAKT**: Żona Josie jako współpracownica i tłumaczka
-Fanon nigdy nie nauczył się pisać na maszynie, a jedną z pierwszych współprac pary było pisanie przez Josie pierwszych szkiców "Czarnej skóry, białych masek" na maszynie. Przez resztę życia Fanona Josie była jego towarzyszką i współpracowniczką.
+### **FACT**: Wife Josie as collaborator and translator
+Fanon never learned to type, and one of the couple's first collaborations was Josie typing the first drafts of "Black Skin, White Masks." For the rest of Fanon's life, Josie was his companion and collaborator.
 
-### **FAKT**: Samobójstwo żony Josie w 1989 roku
-Po śmierci Fanona Josie pozostała w Algierii aż do samobójstwa w 1989 roku i odgrywała aktywną rolę w zarządzaniu jego literackim dziedzictwem.
+### **FACT**: Wife Josie's suicide in 1989
+After Fanon's death, Josie remained in Algeria until her suicide in 1989 and played an active role in managing his literary legacy.
 
-### **FAKT**: Wpływ na twórcę "The Boondocks"
-Nowe tłumaczenie klasycznego dzieła teorii rewolucyjnej, które wpłynęło na wszystkich, od Czarnych Panter po Aarona McGrudera z "The Boondocks".
+### **FACT**: Influence on creator of "The Boondocks"
+New translation of the classic work of revolutionary theory that influenced everyone from the Black Panthers to Aaron McGruder of "The Boondocks."
 
-### **FAKT**: Książka pozostaje żywym przewodnikiem po 60 latach
-Jedną z miar jasnowidztwa Fanona - i lodowatego tempa postępu - jest to, że w swój sześćdziesiąty rok "Wyklęty lud ziemi" pozostaje żywym przewodnikiem zarówno po uporczywości białej supremacji na Zachodzie, jak i po moralnych i intelektualnych porażkach "ciemniejszych narodów".
+### **FACT**: Book remains living guide after 60 years
+One measure of Fanon's prescience - and the glacial pace of progress - is that in its sixtieth year, "The Wretched of the Earth" remains a living guide to both the persistence of white supremacy in the West and the moral and intellectual failures of the "darker nations."
 
-### **FAKT**: Różne tłumaczenia angielskie na przestrzeni lat
-Książka miała różne angielskie tłumaczenia na przestrzeni lat, z tłumaczeniem Richarda Philcoxa będącym jednym z godnych uwagi obok wcześniejszych tłumaczeń Constance Farrington.
+### **FACT**: Various English translations over the years
+The book has had various English translations over the years, with Richard Philcox's translation being one of note alongside earlier translations by Constance Farrington.
 
-### **PLOTKA**: Jego śmierć mogła być spowodowana przez okoliczności leczenia
-Istnieją kontrowersje dotyczące okoliczności jego leczenia i śmierci. Lewis R. Gordon wskazuje: "To, co stało się ortodoksją, to jednak to, że był przetrzymywany w hotelu bez leczenia przez kilka dni, aż zachorował na zapalenie płuc."
+### **RUMOR**: His death may have been caused by treatment circumstances
+There are controversies surrounding the circumstances of his treatment and death. Lewis R. Gordon points out: "What has become orthodoxy, however, is that he was held in a hotel without treatment for several days until he contracted pneumonia."
 
-### **FAKT**: Pierwsze tłumaczenie perskie w dwóch częściach
-Pierwsze tłumaczenie "Wyklętego ludu ziemi" zostało ukończone pod tytułem "Duzakhiyan ruye zamin" przez Abolhasana Banisadra. Tłumaczenie zostało pierwotnie opublikowane w dwóch częściach przez Mosaddeq Press. Według Banisadra, pierwsza część została opublikowana w 1966-7 roku, a druga w styczniu 1969 roku.
+### **FACT**: First Persian translation in two parts
+The first translation of "The Wretched of the Earth" was completed under the title "Duzakhiyan ruye zamin" by Abolhasan Banisadr. The translation was originally published in two parts by Mosaddeq Press. According to Banisadr, the first part was published in 1966-7, and the second in January 1969.
 
-### **FAKT**: Wydania jubileuszowe z nowymi wstępami
-Książka miała wiele wydań jubileuszowych, w tym wydanie z okazji sześćdziesiątej rocznicy z potężnym nowym wprowadzeniem Cornela Westa, co pokazuje jej trwałe znaczenie i ciągłą rentowność komercyjną.
+### **FACT**: Anniversary editions with new prefaces
+The book has had many anniversary editions, including a sixtieth anniversary edition with a powerful new introduction by Cornel West, showing its enduring significance and continued commercial viability.
 
-### **FAKT**: 50 lat później nadal kluczowy tekst w radykalnych kręgach
-Pięćdziesiąt lat później pozostaje kluczowym tekstem w radykalnych kręgach w Afryce Południowej, gdzie jest regularnie cytowany przez bojowników ruchów oddolnych.
+### **FACT**: 50 years later still key text in radical circles
+Fifty years later, it remains a key text in radical circles in South Africa, where it is regularly quoted by grassroots movement militants.
 
-### **FAKT**: Wiek 36 lat w momencie śmierci
-Fanon miał tylko 36 lat, gdy zmarł, ukończywszy swoje najbardziej wpływowe dzieło podczas walki z terminalną chorobą w ostatnim roku życia.
+### **FACT**: Age 36 at time of death
+Fanon was only 36 years old when he died, having completed his most influential work while battling terminal illness in the last year of his life.
 
-## Liczby i statystyki
+## Numbers and Statistics
 
-### **FAKT**: 10 tygodni na napisanie
-Książka została ukończona w ciągu zaledwie 10 tygodni podczas umierania autora na białaczkę.
+### **FACT**: 10 weeks to write
+The book was completed in just 10 weeks while the author was dying of leukemia.
 
-### **FAKT**: 2000+ pacjentów w szpitalu Blida-Joinville
-Fanon był szefem personelu oddziału psychiatrycznego w szpitalu Blida-Joinville w Algierii, który był największym szpitalem psychiatrycznym w Afryce Północnej, leczącym ponad 2000 pacjentów.
+### **FACT**: 2000+ patients at Blida-Joinville Hospital
+Fanon was head of staff of the psychiatric department at Blida-Joinville Hospital in Algeria, which was the largest psychiatric hospital in North Africa, treating over 2,000 patients.
 
-### **FAKT**: 15 języków tłumaczeń
-Książka została przetłumaczona na 15 języków, pokazując jej globalny zasięg i wpływ.
+### **FACT**: 15 language translations
+The book has been translated into 15 languages, showing its global reach and impact.
 
-### **FAKT**: Opublikowana w 1961 roku, pierwsza edycja amerykańska w 1963
-Książka została opublikowana we francuskim oryginale w 1961 roku, a pierwsza edycja amerykańska ukazała się w 1963 roku.
+### **FACT**: Published in 1961, first American edition in 1963
+The book was published in French original in 1961, and the first American edition appeared in 1963.
 
-### **FAKT**: 60 lat ciągłego wpływu
-W 2021 roku książka obchodziła swoje 60. urodziny, pozostając wpływowym tekstem dla ruchów społecznych i studiów postkolonialnych.
+### **FACT**: 60 years of continued influence
+In 2021, the book celebrated its 60th birthday, remaining an influential text for social movements and postcolonial studies.
 
-### **FAKT**: 7 lat wojny algierskiej jako kontekst
-Wojna o narodowe wyzwolenie prowadzona przez lud algierski przez ostatnie siedem lat stała się sprzyjającym gruntem dla zaburzeń psychicznych, ponieważ w odniesieniu do Algierczyków była to wojna totalna.
+### **FACT**: 7 years of Algerian War as context
+The war of national liberation waged by the Algerian people for the past seven years became fertile ground for mental disorders, because in relation to Algerians it was a total war.
 
 ---
 
-*Opracowano na podstawie źródeł internetowych: Wikipedia, Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy, archiwów uniwersyteckich i publikacji naukowych. Wszystkie fakty zostały zweryfikowane z wieloma źródłami.*
+*Compiled based on internet sources: Wikipedia, Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy, university archives and academic publications. All facts have been verified with multiple sources.*

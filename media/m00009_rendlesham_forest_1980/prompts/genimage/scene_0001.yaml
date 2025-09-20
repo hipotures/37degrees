@@ -1,0 +1,107 @@
+sceneDescription:
+  setting:
+    time: December 26, 1980, 03:00 AM
+    location: RAF Woodbridge East Gate, Suffolk, England - chain-link fence gate with guard post leading directly to Rendlesham
+      Forest
+    weather: Clear winter night, near freezing temperature, calm conditions
+  characters:
+  - appearance: Caucasian man, military age, alert expression, focused demeanor
+    clothing: U.S. Air Force Security Police winter gear - woodland camouflage BDU or OG-107 uniform, M-65 field jacket, thermal
+      layers, field cap, combat boots, subdued Security Police patches
+    position: Alert patrol stance, often with flashlight in hand
+    action: Conducting security patrol, investigating anomalous lights, maintaining vigilant watch
+  - appearance: Caucasian man, military age, serious expression, focused attention
+    clothing: U.S. Air Force Security Police winter gear - woodland camouflage BDU or OG-107 uniform, M-65 field jacket, thermal
+      layers, field cap, combat boots, subdued Security Police patches
+    position: Alert military stance, often scanning surroundings with flashlight
+    action: Security patrol duties, investigating unusual phenomena, documenting observations
+  scene:
+    mainElements: Simple military gate structure with guard booth, chain-link fencing, security lighting. Two airmen on patrol
+      duty pointing toward forest where strange lights are descending through trees.
+    details: Guard booth illuminated by overhead security lights, chain-link fence extending into darkness, forest treeline
+      visible beyond gate. Late 1970s American sedan, likely Dodge Aspen, blue paint with U.S. Air Force markings and Security
+      Police identification, standard military patrol vehicle configuration parked nearby. Standard U.S. Air Force issued
+      flashlight with metal body, powerful beam for cutting through forest darkness, typical 1980 military specifications
+      held by guards.
+    background: Dense Rendlesham Forest silhouette against night sky, distant glow emanating from forest interior creating
+      mystery
+    atmosphere: Cold War military installation security checkpoint, winter night atmosphere with visible breath in freezing
+      air. Tension and alertness as unusual phenomena disrupt routine patrol, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from outside gate looking toward guards and forest
+    focus: Two security personnel pointing toward anomalous lights in forest
+    depth: 'Foreground: patrol vehicle and gate structure. Middle: guards in alert positions. Background: dark forest with
+      mysterious light source'
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

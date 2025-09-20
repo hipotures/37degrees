@@ -1,171 +1,171 @@
-# Red Sorghum (Czerwone sorgo) - Historia powstania i fascynujące fakty
+# Red Sorghum - Creation History and Fascinating Facts
 
-## Podstawowe informacje o książce
-- **Tytuł**: Red Sorghum (Czerwone sorgo)
-- **Autor**: Mo Yan (prawdziwe nazwisko: Guan Moye)
-- **Rok publikacji**: 1986-1987
-- **Gatunek**: Proza historyczna, saga rodzinna
+## Basic Book Information
+- **Title**: Red Sorghum
+- **Author**: Mo Yan (real name: Guan Moye)
+- **Publication Year**: 1986-1987
+- **Genre**: Historical fiction, family saga
 
-## Autor: Kim był Mo Yan pisząc "Red Sorghum"
+## The Author: Who Was Mo Yan When Writing "Red Sorghum"
 
-### Prawdziwe imię i znaczenie pseudonimu
-**FAKT**: Prawdziwe nazwisko Mo Yana to Guan Moye (管谟业). Pseudonim "Mo Yan" oznacza po chińsku "nie mów" - wywodzi się z ostrzeżeń rodziców, by nie wypowiadał swoich myśli publicznie ze względu na trudną sytuację polityczną w Chinach lat 50. XX wieku.
+### Real Name and Meaning of Pseudonym
+**FACT**: Mo Yan's real name is Guan Moye (管谟业). The pseudonym "Mo Yan" means "don't speak" in Chinese - it derives from his parents' warnings not to voice his thoughts publicly due to the difficult political situation in China during the 1950s.
 
-**FAKT**: Mo Yan urodził się 5 marca 1955 roku (niektóre źródła podają luty 1955) w wiosce Ping'an, w gminie Gaomi, w północno-wschodniej części prowincji Shandong, jako najmłodsze z czwórki dzieci w rodzinie chłopskiej.
+**FACT**: Mo Yan was born on March 5, 1955 (some sources state February 1955) in Ping'an village, Gaomi County, northeastern Shandong Province, as the youngest of four children in a peasant family.
 
-**FAKT**: Pisząc "Red Sorghum" w 1984-1986, Mo Yan miał około 29-31 lat i był żołnierzem Armii Ludowo-Wyzwoleńczej (PLA), studiującym na Akademii Sztuki PLA w Pekinie.
+**FACT**: While writing "Red Sorghum" in 1984-1986, Mo Yan was around 29-31 years old and was a soldier in the People's Liberation Army (PLA), studying at the PLA Academy of Arts in Beijing.
 
-### Traumatyczne dzieciństwo jako fundament twórczości
-**FAKT**: Dzieciństwo Mo Yana naznaczone było skrajną biedą i podczas Wielkiego Głodu (1959-1961) niemal śmiercią głodową. Jego najwcześniejszy czas formowania wspomnień przypadł na najtrudniejszy okres w historii Chin.
+### Traumatic Childhood as Foundation of Creativity
+**FACT**: Mo Yan's childhood was marked by extreme poverty, and during the Great Famine (1959-1961), he nearly died of starvation. His earliest formative memories coincided with the most difficult period in Chinese history.
 
-**FAKT**: Mo Yan wspominał: "Ilekroć myślę o swoim dzieciństwie, nie mogę uniknąć scen głodu; są wyryte w mojej pamięci". Pamiętał dzieci z wioski, które zimą siadały przy murze, by wygrzewać się w słońcu - wszystkie miały podarte ubrania, wzdęte brzuchy z powodu niedożywienia oraz chude ręce i nogi.
+**FACT**: Mo Yan recalled: "Whenever I think about my childhood, I cannot avoid scenes of hunger; they are etched in my memory." He remembered village children who would sit by walls in winter to warm themselves in the sun - all had torn clothes, swollen bellies from malnutrition, and thin arms and legs.
 
-**FAKT**: Jego najjaśniejszym wspomnieniem było upuszczenie jedynej termosu rodziny, idąc po wodę pitną do publicznej stołówki. Osłabiony głodem upuścił termos i rozbił go. Przestraszony ukrywał się cały dzień w stogu siana.
+**FACT**: His brightest memory was dropping the family's only thermos while going to fetch drinking water from the public canteen. Weakened by hunger, he dropped and broke the thermos. Frightened, he hid in a haystack all day.
 
-**FAKT**: W wieku 11 lat, podczas Rewolucji Kulturalnej (1966), Mo Yan musiał porzucić szkołę i pracować jako rolnik. Nigdy nie ukończył szkoły podstawowej, przerywając naukę w piątej klasie.
+**FACT**: At age 11, during the Cultural Revolution (1966), Mo Yan had to abandon school and work as a farmer. He never completed elementary school, interrupting his education in fifth grade.
 
-## Okoliczności powstania "Red Sorghum"
+## Circumstances of "Red Sorghum's" Creation
 
-### Okres studiów w Akademii Sztuki PLA (1984-1986)
-**FAKT**: Jesienią 1984 roku Mo Yan został przyjęty do Wydziału Literatury Akademii Sztuki Armii Ludowo-Wyzwoleńczej w Pekinie, gdzie pod opieką swojego czczonego mentora, znanego pisarza Xu Huaizhonga, napisał serię opowiadań i nowel, w tym "Red Sorghum".
+### Studies at PLA Academy of Arts (1984-1986)
+**FACT**: In autumn 1984, Mo Yan was admitted to the Literature Department of the People's Liberation Army Academy of Arts in Beijing, where under the guidance of his revered mentor, renowned writer Xu Huaizhong, he wrote a series of stories and novellas, including "Red Sorghum."
 
-**FAKT**: Przewodniczący wydziału, Xu Huaizhong, był tak pod wrażeniem prac Mo Yana, że powiedział doradcy grupy, że nawet gdyby Mo Yan oblał egzamin z wiedzy kulturalnej, wydział i tak by go przyjął.
+**FACT**: Department chairman Xu Huaizhong was so impressed with Mo Yan's work that he told the group advisor that even if Mo Yan failed the cultural knowledge exam, the department would still accept him.
 
-**FAKT**: Xu Huaizhong sprowadził uznanych na skalę krajową profesorów, pisarzy, krytyków i artystów jako doradców warsztatów, w tym autorów Wu Zuxiang, Ding Ling, Wang Meng, Liu Zaifu i Zhang Chengzhi.
+**FACT**: Xu Huaizhong brought nationally recognized professors, writers, critics, and artists as workshop advisors, including authors Wu Zuxiang, Ding Ling, Wang Meng, Liu Zaifu, and Zhang Chengzhi.
 
-**FAKT**: Mo Yan ukończył studia na Wydziale Literatury Akademii Sztuki PLA w 1986 roku, a w tym samym roku publikacja "Red Sorghum" wywołała wielkie poruszenie w świecie literackim.
+**FACT**: Mo Yan graduated from the Literature Department of PLA Academy of Arts in 1986, and in the same year, the publication of "Red Sorghum" caused a great stir in the literary world.
 
-### Inspiracje i źródła twórcze
-**FAKT**: Mo Yan podjął kluczową decyzję, by pisać o miejscu, w którym się wychował - powiecie Gaomi - ponieważ "miał głębokie zrozumienie jego historii, obyczajów i zwyczajów", co czyniło powieść "autentyczną" w odzwierciedlaniu postaw i działań chińskiej wsi.
+### Inspirations and Creative Sources
+**FACT**: Mo Yan made the crucial decision to write about the place where he grew up - Gaomi County - because he "had a deep understanding of its history, customs, and traditions," which made the novel "authentic" in reflecting the attitudes and actions of Chinese rural life.
 
-**FAKT**: Kluczową inspiracją były ustne opowieści, które Mo Yan słyszał w swojej okolicy: "Gdy chłopi robili sobie przerwy od pracy w polach, starsi ludzie siadali na kamieniu i zaczynali opowiadać historie. Ktoś mógł powiedzieć, że w 1937 roku, w tym właśnie miejscu, Japończycy zabili kogoś, albo że ktoś został zabity kulą, która przeszła przez jego brzuch, robiąc w nim wielką dziurę."
+**FACT**: Key inspiration came from oral stories Mo Yan heard in his locality: "When peasants took breaks from working in the fields, elderly people would sit on stones and begin telling stories. Someone might say that in 1937, right in this place, the Japanese killed someone, or that someone was killed by a bullet that went through his stomach, making a big hole in it."
 
-**FAKT**: Mo Yan opisywał proces ewolucji tych opowieści: "Następnego dnia inna osoba mogła opowiedzieć tę samą historię inaczej, i tak dalej. Za każdym razem, gdy historia była opowiadana, coś było dodawane. Im więcej razy była opowiadana, tym bogatsza się stawała. Obrazy stawały się coraz bardziej kolorowe. Stopniowo historia stawała się mitem."
+**FACT**: Mo Yan described the evolution process of these stories: "The next day another person might tell the same story differently, and so on. Each time the story was told, something was added. The more times it was told, the richer it became. The images became more and more colorful. Gradually the story became a myth."
 
-**FAKT**: Z tej tradycji ustnego opowiadania narodził się chiński rodzaj "magicznego realizmu" Mo Yana, przypominający twórczość Gabriela Garcíi Márqueza.
+**FACT**: From this tradition of oral storytelling was born Mo Yan's Chinese version of "magical realism," reminiscent of Gabriel García Márquez's work.
 
-## Proces publikacji w 1986 roku
+## Publication Process in 1986
 
-### Serializacja w czasopismach literackich
-**FAKT**: Pięć części "Red Sorghum" zostało opublikowanych w różnych czasopismach w 1986 roku, a następnie wydanych razem jako jedna powieść w 1987 roku.
+### Serialization in Literary Magazines
+**FACT**: Five parts of "Red Sorghum" were published in different magazines in 1986, then issued together as one novel in 1987.
 
-**FAKT**: Dokładne daty publikacji pięciu nowel:
-- "Red Sorghum" - "Literatura Ludowa" (numer 3, 1986)
-- "Dog Ways" - czasopismo "Październik" (kwiecień 1986)  
-- "Sorghum Wine" - "Sztuka PLA" (lipiec 1986)
-- "Sorghum Funeral" - "Beijing Wenxue" (sierpień 1986)
-- "Strange Death" - czasopismo "Kunlun" (listopad-grudzień 1986)
+**FACT**: Exact publication dates of the five novellas:
+- "Red Sorghum" - "People's Literature" (issue 3, 1986)
+- "Dog Ways" - "October" magazine (April 1986)
+- "Sorghum Wine" - "PLA Arts" (July 1986)
+- "Sorghum Funeral" - "Beijing Wenxue" (August 1986)
+- "Strange Death" - "Kunlun" magazine (November-December 1986)
 
-**FAKT**: Była to pierwsza powieść Mo Yana i do dziś pozostaje jedną z jego najbardziej znanych prac.
+**FACT**: This was Mo Yan's first novel and remains one of his best-known works to this day.
 
-**FAKT**: Po ukończeniu studiów Mo Yan opublikował serię nowel w tym, co krytycy nazwali literackim "bombardowaniem dywanowym", jego praca burząc "skostniałą koncepcję literacką, która krępowała chińskich pisarzy przez dziesięciolecia."
+**FACT**: After completing his studies, Mo Yan published a series of novellas in what critics called a literary "carpet bombing," his work shattering "the ossified literary concept that had constrained Chinese writers for decades."
 
-### Natychmiastowy sukces i reakcje
-**FAKT**: "Red Sorghum" wywindowało Mo Yana z skromnej sławy do rozgłosu krajowego, a następnie międzynarodowego.
+### Immediate Success and Reactions
+**FACT**: "Red Sorghum" propelled Mo Yan from modest fame to national, then international prominence.
 
-**FAKT**: W powieści Mo Yan przedstawił "brutalne realia wojny, które wcześniej nie były portretowane", nie oszczędzając czytelnikom "żadnych brutalności wojny, które inni pisarze oczyścili ze swoich dzieł, aby pokazać rewolucyjne ideały sprawiedliwej wojny."
+**FACT**: In the novel, Mo Yan presented "brutal realities of war that had not been portrayed before," sparing readers "none of the brutalities of war that other writers had cleaned from their works to show revolutionary ideals of just war."
 
-## Adaptacja filmowa i międzynarodowy przełom
+## Film Adaptation and International Breakthrough
 
-### Film Zhang Yimou z 1987 roku
-**FAKT**: Powieść została przeczytana przez reżysera Zhang Yimou, który zaproponował Mo Yanowi zrobienie filmu z dwóch sekcji ("Red Sorghum" i "Sorghum Wine").
+### Zhang Yimou's 1987 Film
+**FACT**: The novel was read by director Zhang Yimou, who proposed to Mo Yan making a film from two sections ("Red Sorghum" and "Sorghum Wine").
 
-**FAKT**: 23 lutego 1988 roku chiński film "Red Sorghum" w reżyserii Zhang Yimou pokonał filmy z 21 krajów i zdobył nagrodę Złotego Niedźwiedzia na Międzynarodowym Festiwalu Filmowym w Berlinie - był to pierwszy raz, gdy chiński film (i azjatycki) wygrał nagrodę na Festiwalu Filmowym w Berlinie.
+**FACT**: On February 23, 1988, the Chinese film "Red Sorghum" directed by Zhang Yimou defeated films from 21 countries and won the Golden Bear award at the Berlin International Film Festival - it was the first time a Chinese film (and Asian film) won an award at the Berlin Film Festival.
 
-**FAKT**: Film oznaczał debiut reżyserski międzynarodowo uznanego później filmowca Zhang Yimou i debiut aktorski gwiazdy filmowej Gong Li.
+**FACT**: The film marked the directorial debut of internationally acclaimed filmmaker Zhang Yimou and the acting debut of film star Gong Li.
 
-**FAKT**: Sukces krytyczny i finansowy książki, połączony z szerokim uznaniem dla współczesnej adaptacji filmowej, ugruntował reputację Mo Yana jako ważnego autora.
+**FACT**: The critical and financial success of the book, combined with widespread acclaim for the contemporary film adaptation, established Mo Yan's reputation as an important author.
 
-### Wpływ na chińską kinematografię
-**FAKT**: "Red Sorghum" to jeden z definiujących filmów, które oznaczyły powstanie reżyserów Piątej Generacji - tych, którzy ukończyli Akademię Filmową w Pekinie w 1982 roku.
+### Impact on Chinese Cinema
+**FACT**: "Red Sorghum" is one of the defining films that marked the emergence of Fifth Generation directors - those who graduated from the Beijing Film Academy in 1982.
 
-**FAKT**: Od premiery 15 lutego film "Red Sorghum" cieszył się wielką popularnością wśród widzów, stając się najchętniej oglądanym i najczęściej omawianym filmem festiwalu.
+**FACT**: From its February 15 premiere, the film "Red Sorghum" enjoyed great popularity among viewers, becoming the most watched and most discussed film of the festival.
 
-## Tłumaczenie i recepcja zachodnia
+## Translation and Western Reception
 
-### Praca Howarda Goldblatta
-**FAKT**: Howard Goldblatt przełożył "Red Sorghum" Mo Yana z chińskiego w 1993 roku jako "Red Sorghum: A Novel of China", wydane przez Viking Press.
+### Howard Goldblatt's Work
+**FACT**: Howard Goldblatt translated Mo Yan's "Red Sorghum" from Chinese in 1993 as "Red Sorghum: A Novel of China," published by Viking Press.
 
-**FAKT**: Goldblatt jest opisywany jako najważniejszy tłumacz nowoczesnej i współczesnej literatury chińskiej na Zachodzie, a jego tłumaczenie było częściowo finansowane grantem z National Endowment for the Arts.
+**FACT**: Goldblatt is described as the most important translator of modern and contemporary Chinese literature in the West, and his translation was partially funded by a grant from the National Endowment for the Arts.
 
-**FAKT**: Tłumaczenie zostało oparte na wydaniu chińskim z 1988 roku z Tajpej (Hong-fan Book Co.) "Hung kao liang chia tsu", które przywróciło cięcia dokonane w wydaniu z chińskiego kontynentu z 1987 roku, na specjalne życzenie Mo Yana.
+**FACT**: The translation was based on the 1988 Chinese edition from Taipei (Hong-fan Book Co.) "Hung kao liang chia tsu," which restored cuts made in the 1987 mainland Chinese edition, at Mo Yan's special request.
 
-**FAKT**: Krytycy zachodni chwalili dzieło za "żywy styl, na przemian między lirycznymi fragmentami a dziwnie konwersacyjnym tonem" i zauważali, że "Ta historyczna opowieść ma niezwykłe poczucie bezpośredniości i imponujący zakres."
+**FACT**: Western critics praised the work for its "vivid style, alternating between lyrical passages and strangely conversational tone" and noted that "This historical tale has an unusual sense of immediacy and impressive scope."
 
-**FAKT**: Jeden recenzent skomentował: "Przeczytawszy Red Sorghum, wierzę, że Mo Yan zasługuje na miejsce w literaturze światowej."
+**FACT**: One reviewer commented: "Having read Red Sorghum, I believe Mo Yan deserves a place in world literature."
 
-## Biografia autora w kontekście tworzenia dzieła
+## Author's Biography in Context of Creating the Work
 
-### Pochodzenie społeczne i formacja
-**FAKT**: Rodzina Mo Yana należała do klasy średnich chłopów, a jego rodzice byli rolnikami. Był najmłodszy z czwórki dzieci - miał dwóch starszych braci i starszą siostrę.
+### Social Background and Formation
+**FACT**: Mo Yan's family belonged to the middle peasant class, and his parents were farmers. He was the youngest of four children - he had two older brothers and an older sister.
 
-**FAKT**: Zainteresowanie opowiadaniem rozwinęło się pod wpływem chińskich bajek ludowych, które słyszał od dziadka ze strony ojca i stryjecznego wuja.
+**FACT**: His interest in storytelling developed under the influence of Chinese folk tales he heard from his paternal grandfather and great-uncle.
 
-**FAKT**: W czasie młodości jego dostęp do literatury był w dużej mierze ograniczony do powieści w stylu realizmu socjalistycznego pod rządami Mao Zedonga, które koncentrowały się na tematach walki klasowej i konfliktów.
+**FACT**: During his youth, his access to literature was largely limited to socialist realist novels under Mao Zedong's rule, which focused on themes of class struggle and conflict.
 
-### Droga do pisarstwa
-**FAKT**: Mo Yan wstąpił do Armii Ludowo-Wyzwoleńczej (PLA) w 1976 roku i rozpoczął pisanie, będąc jeszcze żołnierzem.
+### Path to Writing
+**FACT**: Mo Yan joined the People's Liberation Army (PLA) in 1976 and began writing while still a soldier.
 
-**FAKT**: Po raz pierwszy przyjął pseudonim Mo Yan w 1984 roku, gdy rozpoczął studia w Akademii Sztuki PLA w latach 1984-1986.
+**FACT**: He first adopted the pseudonym Mo Yan in 1984 when he began studies at the PLA Academy of Arts from 1984-1986.
 
-**FAKT**: Jego pierwsze opublikowane opowiadanie "Rainy Spring Night" ukazało się w 1981 roku w czasopiśmie literackim Lily Pond.
+**FACT**: His first published short story "Rainy Spring Night" appeared in 1981 in the literary magazine Lily Pond.
 
-**FAKT**: W 1973 roku rozpoczął pracę w fabryce oleju bawełnianego przed wstąpieniem do wojska.
+**FACT**: In 1973, he began working in a cotton oil factory before joining the army.
 
-## Inspiracje literackie i wpływy
+## Literary Inspirations and Influences
 
-### Międzynarodowe oddziaływania
-**FAKT**: Mo Yan przyznał, że był "bardzo inspirowany przez amerykańskiego powieściopisarza Williama Faulknera i Kolumbijczyka Gabriela Garcíę Márqueza" w tworzeniu swojej literackiej domeny Północno-Wschodniego Powiatu Gaomi.
+### International Influences
+**FACT**: Mo Yan acknowledged being "deeply inspired by American novelist William Faulkner and Colombian Gabriel García Márquez" in creating his literary domain of Northeast Gaomi County.
 
-**FAKT**: Choć "nie czytał szeroko żadnego z nich", został "zachęcony przez śmiały, nieskrępowany sposób, w jaki tworzyli nowe terytorium w pisarstwie" i nauczył się, że "pisarz musi mieć miejsce, które należy tylko do niego."
+**FACT**: Though he "had not read widely of either," he was "encouraged by the bold, uninhibited way they created new territory in writing" and learned that "a writer must have a place that belongs only to him."
 
-**FAKT**: Z tych literackich wpływów i tradycji ustnego opowiadania narodził się chiński rodzaj "magicznego realizmu" Mo Yana.
+**FACT**: From these literary influences and oral storytelling traditions was born Mo Yan's Chinese version of "magical realism."
 
-## Znaczenie historyczne i literackie
+## Historical and Literary Significance
 
-### Przełom w literaturze chińskiej
-**FAKT**: "Red Sorghum" charakteryzują "nielinearna struktura, groteskowa przemoc i mieszanie chińskiej historii z elementami narracyjnymi zaczerpniętymi z mitów i folkloru" - cechy charakterystyczne dla pracy Mo Yana.
+### Breakthrough in Chinese Literature
+**FACT**: "Red Sorghum" is characterized by "nonlinear structure, grotesque violence, and mixing of Chinese history with narrative elements drawn from myths and folklore" - features characteristic of Mo Yan's work.
 
-**FAKT**: Dzieło służy jako przykład misji Mo Yana wywołania "przyziemnego poczucia historii opartego na zwykłych życiach, a nie nacjonalistycznej ideologii."
+**FACT**: The work serves as an example of Mo Yan's mission to evoke "an earthy sense of history based on ordinary lives, rather than nationalist ideology."
 
-**FAKT**: Powieść reprezentuje przełom Mo Yana jako pisarza, łącząc jego głębokie osobiste związki z rodzinną okolicą, bogate tradycje ustnego opowiadania chińskiej wsi, wpływy literackie międzynarodowych magicznych realistów i jego innowacyjne podejście do przedstawiania chińskiej historii i wojny.
+**FACT**: The novel represents Mo Yan's breakthrough as a writer, combining his deep personal connections to his family locality, rich traditions of Chinese rural oral storytelling, influences from international magical realists, and his innovative approach to presenting Chinese history and war.
 
-### Kontekst Nagrody Nobla
-**FAKT**: Mo Yan otrzymał Nagrodę Nobla w dziedzinie literatury w 2012 roku za pracę jako pisarz "który z halucynacyjnym realizmem łączy bajki ludowe, historię i współczesność."
+### Nobel Prize Context
+**FACT**: Mo Yan received the Nobel Prize in Literature in 2012 for his work as a writer "who with hallucinatory realism merges folk tales, history and the contemporary."
 
-**FAKT**: Wśród dzieł wyróżnionych przez sędziów Nobla znalazły się Red Sorghum (1987), Big Breasts & Wide Hips (2004) i The Garlic Ballads.
+**FACT**: Among the works highlighted by Nobel judges were Red Sorghum (1987), Big Breasts & Wide Hips (2004), and The Garlic Ballads.
 
-**FAKT**: Mo Yan jest opisywany jako autor dziesięciu powieści, dziesiątek nowel i setek opowiadań. Wygrał praktycznie każdą chińską nagrodę literacką, w tym nagrodę Mao Dun w 2011 roku (najważniejszą chińską nagrodę literacką).
+**FACT**: Mo Yan is described as the author of ten novels, dozens of novellas, and hundreds of short stories. He has won virtually every Chinese literary award, including the Mao Dun Prize in 2011 (the most important Chinese literary award).
 
-**FAKT**: Jest najbardziej uznanym przez krytyków chińskim pisarzem swojego pokolenia, zarówno w Chinach, jak i na całym świecie.
+**FACT**: He is the most critically acclaimed Chinese writer of his generation, both in China and worldwide.
 
-## Statystyki i rekordy
+## Statistics and Records
 
-**FAKT**: "Red Sorghum" było pierwszą powieścią Mo Yana i pozostaje jednym z jego najlepiej znanych dzieł.
+**FACT**: "Red Sorghum" was Mo Yan's first novel and remains one of his best-known works.
 
-**FAKT**: Powieść została opisana jako "legenda w Chinach, gdzie zdobyła główne nagrody literackie i zainspirowała nominowany do Oskara film w reżyserii Zhang Yimou."
+**FACT**: The novel was described as "a legend in China, where it won major literary awards and inspired an Oscar-nominated film directed by Zhang Yimou."
 
-**FAKT**: W 1988 roku adaptacja filmowa zdobyła Złotego Niedźwiedzia na Festiwalu Filmowym w Berlinie.
+**FACT**: In 1988, the film adaptation won the Golden Bear at the Berlin Film Festival.
 
-**FAKT**: Książka została po raz pierwszy opublikowana w 1987 roku przez Liberation Army Literature and Art Publishing House, a po raz pierwszy opublikowana po angielsku w 1992 roku przez Heinemann w tłumaczeniu Howarda Goldblatta.
+**FACT**: The book was first published in 1987 by Liberation Army Literature and Art Publishing House, and first published in English in 1992 by Heinemann in Howard Goldblatt's translation.
 
-**FAKT**: Film "Red Sorghum" ma ocenę 85% na stronie agregatora recenzji Rotten Tomatoes, opartą na 13 recenzjach, ze średnią oceną 8,1/10.
+**FACT**: The film "Red Sorghum" has an 85% rating on review aggregator Rotten Tomatoes, based on 13 reviews, with an average rating of 8.1/10.
 
-**FAKT**: Praca tłumaczeniowa Goldblatta jest uznawana za odegrającą ważną rolę w późniejszej Nagrodzie Nobla Mo Yana, podkreślając znaczenie jego tłumaczenia w wprowadzeniu literatury chińskiej do odbiorców zachodnich.
+**FACT**: Goldblatt's translation work is recognized as playing an important role in Mo Yan's later Nobel Prize, highlighting the significance of his translation in introducing Chinese literature to Western audiences.
 
-## Ciekawostki i mało znane fakty
+## Curiosities and Lesser-Known Facts
 
-**PLOTKA**: Mo Yan miał problemы z cenzurą podczas publikacji - niektóre fragmenty zostały wycięte z kontynentalnego wydania chińskiego z 1987 roku, ale przywrócone w tajwańskim wydaniu z 1988 roku.
+**RUMOR**: Mo Yan had censorship problems during publication - some passages were cut from the 1987 mainland Chinese edition but restored in the 1988 Taiwanese edition.
 
-**FAKT**: Sorgo czerwone, jako główna uprawa północno-wschodniego powiatu Gaomi (rodzinnej miejscowości autora), tworzy ramy narracyjne jako symbol obojętności i witalności w powieści.
+**FACT**: Red sorghum, as the main crop of northeast Gaomi County (the author's hometown), creates the narrative framework as a symbol of indifference and vitality in the novel.
 
-**FAKT**: Mo Yan pisał "Red Sorghum" nie jako opowieść wojenną o wojnie z Japonią, ale jako dzieło o folklorze i legendach opowiadanych przez jego krewnych, a także o tęsknocie za zadowoleniem z miłości i życiem w wolności.
+**FACT**: Mo Yan wrote "Red Sorghum" not as a war story about the war with Japan, but as a work about folklore and legends told by his relatives, and about longing for satisfaction from love and life in freedom.
 
-**FAKT**: Northeast Gaomi Township stał się literackim królestwem Mo Yana - wspomnienia z dzieciństwa i ludzie z jego rodzinnej miejscowości stali się materiałem dla jego prozy.
+**FACT**: Northeast Gaomi Township became Mo Yan's literary kingdom - childhood memories and people from his hometown became material for his prose.
 
-**FAKT**: Doświadczenia, które przeżył w dzieciństwie, były kluczowe dla jego pisarstwa. Gdyby nie przeszedł przez to bolesne doświadczenie jako dziecko, prawdopodobnie nie zostałby pisarzem. Gdyby został, z pewnością stałby się innym rodzajem pisarza.
+**FACT**: The experiences he went through in childhood were crucial to his writing. If he hadn't gone through that painful experience as a child, he probably wouldn't have become a writer. If he had, he certainly would have become a different kind of writer.
 
-**FAKT**: Powieść zawiera elementy autobiograficzne - jest osadzona w Northeast Gaomi Township, opartym na Dalan Township, powiecie Gaomi w Shandong, rodzinnej miejscowości Mo Yana.
+**FACT**: The novel contains autobiographical elements - it is set in Northeast Gaomi Township, based on Dalan Township, Gaomi County in Shandong, Mo Yan's hometown.
 
 ---
-*Dokument przygotowany na podstawie kompleksowych badań źródeł internetowych - wszystkie fakty oznaczone jako FAKT zostały potwierdzone w wiarygodnych źródłach, informacje oznaczone jako PLOTKA wymagają dodatkowej weryfikacji.*
+*Document prepared based on comprehensive research of online sources - all facts marked as FACT have been confirmed in reliable sources, information marked as RUMOR requires additional verification.*

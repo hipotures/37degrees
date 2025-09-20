@@ -1,89 +1,89 @@
-# W poszukiwaniu straconego czasu - Lokalny kontekst kulturowy w Polsce
+# In Search of Lost Time - Local Cultural Context in Poland
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-**Opóźnione dotarcie do Polski**: Pierwsze polskie tłumaczenie "W poszukiwaniu straconego czasu" ukazało się z dziesięcioletnim opóźnieniem po zakończeniu publikacji we Francji. Był to znaczący czas oczekiwania na tak monumentalne dzieło.
+**Delayed Arrival to Poland**: The first Polish translation of "In Search of Lost Time" appeared with a ten-year delay after the completion of its publication in France. This was a significant waiting period for such a monumental work.
 
-**Pierwszy tłumacz**: Tadeusz Boy-Żeleński był pionierem przekładu dzieła Prousta na język polski. Przetłumaczył pięć pierwszych tomów cyklu: "W stronę Swanna", "W cieniu zakwitających dziewcząt", "Strona Guermantes", "Sodoma i Gomora" oraz "Uwięziona".
+**First Translator**: Tadeusz Boy-Żeleński was the pioneer of translating Proust's work into Polish. He translated the first five volumes of the cycle: "Swann's Way," "In the Shadow of Young Girls in Flower," "The Guermantes Way," "Sodom and Gomorrah," and "The Prisoner."
 
-**Kompletacja przekładu**: Kolejne tomy przetłumaczyli Maciej Żurowski (tom 6 i nowe tłumaczenie tomu 7) oraz Julian Rogoziński (tom 7).
+**Translation Completion**: Subsequent volumes were translated by Maciej Żurowski (volume 6 and new translation of volume 7) and Julian Rogoziński (volume 7).
 
-**Ograniczenia polityczne**: W Polsce powojennej polityka państwa i przepisy prawnoautorskie ograniczały dostęp do literatury zagranicznej, włączając dzieła Prousta, które uznawano za ideologicznie niekompatybilne z systemem socjalistycznym.
+**Political Restrictions**: In post-war Poland, state policy and copyright regulations limited access to foreign literature, including Proust's works, which were considered ideologically incompatible with the socialist system.
 
-## Polscy tłumacze i ich interpretacje
+## Polish Translators and Their Interpretations
 
-**Tadeusz Boy-Żeleński - wirtuoz przekładu**: Uznawany za niekwestionowany autorytet w dziedzinie tłumaczenia literatury francuskiej. Dla co najmniej dwóch-trzech pokoleń polskich czytelników nieznających języka oryginału był przez wiele lat jedynym i niezastępowalnym pośrednikiem wprowadzającym w świat unikalnej prozy Prousta.
+**Tadeusz Boy-Żeleński - Translation Virtuoso**: Recognized as an unquestionable authority in translating French literature. For at least two to three generations of Polish readers unfamiliar with the original language, he was for many years the sole and irreplaceable mediator introducing them to the unique world of Proust's prose.
 
-**Filozofia tłumaczenia Boy'a**: Boy zwiększył liczbę akapitów, wyodrębnił dialogi, aby "W poszukiwaniu straconego czasu" stało się bardziej przejrzyste dla polskich czytelników. Nie uważał, że sprzeciwiał się tym intencjom Prousta, który wielokrotnie wyrażał w korespondencji gorące pragnienie bycia czytanym.
+**Boy's Translation Philosophy**: Boy increased the number of paragraphs and separated dialogues to make "In Search of Lost Time" more transparent for Polish readers. He did not believe this contradicted Proust's intentions, who repeatedly expressed in correspondence his fervent desire to be read.
 
-**Problemy językowe**: Język polski nie pozwala na nieograniczone mnożenie zdań podrzędnych i nizanie ich w nieskończenie długie łańcuchy. Często trzeba było rozbić zdanie i ułożyć je na nowo, często - dla uzyskania większej jasności - trzeba było podzielić je na części.
+**Linguistic Problems**: The Polish language does not allow unlimited multiplication of subordinate clauses and stringing them into infinitely long chains. Often sentences had to be broken up and rearranged, frequently divided into parts to achieve greater clarity.
 
-**Współczesne próby retranslacji**: Kilka lat temu jedna z oficyn wydawniczych planowała nowe tłumaczenie "W poszukiwaniu straconego czasu". Ciekawostką nowego przekładu jest to, że każdy tom tłumaczy kto inny, co budzi kontrowersje wśród krytyków.
+**Contemporary Retranslation Attempts**: Several years ago, one publishing house planned a new translation of "In Search of Lost Time." The curiosity of the new translation is that each volume is translated by someone different, which raises controversy among critics.
 
-## Nauczanie w polskich szkołach
+## Teaching in Polish Schools
 
-**Materiał maturalny**: "W poszukiwaniu straconego czasu" jest dostępne jako materiał do przygotowania matury z języka polskiego, z wyspecjalizowanymi zasobami edukacyjnymi.
+**Exam Material**: "In Search of Lost Time" is available as material for Polish language exam preparation, with specialized educational resources.
 
-**Charakterystyka utworu**: Dzieło klasyfikowane jako powieść psychologiczna, koncentrująca się na wewnętrznych przeżyciach protagonisty, emocjach i odczuciach, mająca na celu wyjaśnienie motywów, które kierują bohaterem w życiu.
+**Work Characteristics**: The work is classified as a psychological novel, focusing on the protagonist's inner experiences, emotions, and feelings, aimed at explaining the motives that guide the character in life.
 
-**Innowacyjność literacka**: Proust całkowicie zmienił oblicze powieści, otwierając przed czytelnikami nowe perspektywy poza tymi, które oferowali wielcy realiści i epiccy pisarze.
+**Literary Innovation**: Proust completely changed the face of the novel, opening new perspectives for readers beyond those offered by great realists and epic writers.
 
-**Główny temat**: Czasem i możliwością jego "odzyskania" poprzez pamięć - nie przez świadomy rozwój intelektualny, ale przez poddanie się pamięci mimowolnej (legendarny efekt magdalenki namoczonej w herbacie).
+**Main Theme**: Time and the possibility of its "recovery" through memory - not through conscious intellectual development, but by surrendering to involuntary memory (the legendary effect of the madeleine dipped in tea).
 
-## Polskie adaptacje teatralne i kulturowe
+## Polish Theatrical and Cultural Adaptations
 
-**"Francuzi" - Krzysztof Warlikowski (2015)**: Najważniejsza polska adaptacja teatralna w reżyserii Krzysztofa Warlikowskiego w Nowym Teatrze w Warszawie. Spektakl zawierał fragmenty z "W poszukiwaniu straconego czasu" w przekładach Tadeusza Boy-Żeleńskiego, Macieja Żurowskiego i Juliana Rogozińskiego.
+**"The French" - Krzysztof Warlikowski (2015)**: The most important Polish theatrical adaptation directed by Krzysztof Warlikowski at the New Theatre in Warsaw. The performance contained fragments from "In Search of Lost Time" in translations by Tadeusz Boy-Żeleński, Maciej Żurowski, and Julian Rogoziński.
 
-**Inne adaptacje teatralne**:
-- "Ach, Combray..." (premiera: 6 kwietnia 1991) w reżyserii Waldemara Matuszewskiego
-- "W poszukiwaniu straconego czasu" (premiera: 19 sierpnia 1992) w reżyserii Haliny Kwiatkowskiej dla Teatru Telewizji
-- "Strona zakwitających dziewcząt" (premiera: 5 września 2000) w reżyserii Igora Gorzkowskiego
-- "Czas odnaleziony" (premiera: 18 października 2003) w reżyserii Andrzeja Domalika
+**Other Theatrical Adaptations**:
+- "Ah, Combray..." (premiere: April 6, 1991) directed by Waldemar Matuszewski
+- "In Search of Lost Time" (premiere: August 19, 1992) directed by Halina Kwiatkowska for Television Theatre
+- "In a Budding Grove" (premiere: September 5, 2000) directed by Igor Gorzkowski
+- "Time Regained" (premiere: October 18, 2003) directed by Andrzej Domalik
 
-**Nagrody**: "Francuzi" Warlikowskiego otrzymali wielokrotne nagrody na 8. Międzynarodowym Festiwalu Teatralnym "Boska Komedia" w Krakowie 2015.
+**Awards**: Warlikowski's "The French" received multiple awards at the 8th International Theatre Festival "Divine Comedy" in Krakow 2015.
 
-## Lokalne nawiązania kulturowe
+## Local Cultural References
 
-**Pierwsi polscy entuzjaści**: Tadeusz Boy-Żeleński i Zofia Nałkowska należeli do pierwszych polskich entuzjastów Prousta, znających jego powieść w oryginale.
+**First Polish Enthusiasts**: Tadeusz Boy-Żeleński and Zofia Nałkowska were among the first Polish enthusiasts of Proust, familiar with his novel in the original.
 
-**Wpływ na polską kulturę**: Dzieło Prousta przypisywano walory takie jak "patos autentyczności" i "kult prawdziwych zdarzeń" w kontekście polskim.
+**Impact on Polish Culture**: Proust's work was attributed values such as "pathos of authenticity" and "cult of true events" in the Polish context.
 
-**Dostępność cyfrowa**: "W poszukiwaniu straconego czasu" jest dostępne w Wolnych Lekturach, co czyni je łatwo dostępnym dla polskich czytelników.
+**Digital Availability**: "In Search of Lost Time" is available in Free Readings (Wolne Lektury), making it easily accessible to Polish readers.
 
-## Akademickie interpretacje polskich badaczy
+## Academic Interpretations by Polish Scholars
 
-**Julia Kristeva - "Czas odczuwalny"**: Bułgarsko-francuska filozofka wydała w Polsce w 2024 roku pracę "Czas odczuwalny. Proust i doświadczenie literackie" (Wydawnictwo Eperons-Ostrogi), będącą znaczącym wkładem w polskie badania proustowskie.
+**Julia Kristeva - "Sensible Time"**: The Bulgarian-French philosopher published in Poland in 2024 the work "Sensible Time. Proust and Literary Experience" (Eperons-Ostrogi Publishing), being a significant contribution to Polish Proustian studies.
 
-**Teoria intertekstualności**: Kristeva wprowadziła termin "intertekstualność" do teorii literatury w latach 70., zmieniając perspektywę interpretacji dzieł literackich.
+**Theory of Intertextuality**: Kristeva introduced the term "intertextuality" to literary theory in the 1970s, changing the perspective of interpreting literary works.
 
-**Badania nad recepcją**: Istnieją współczesne polskie badania nad recepcją literacką w kontekście literatury światowej oraz pamięci kulturowej, uwzględniające dzieło Prousta.
+**Reception Studies**: There are contemporary Polish studies on literary reception in the context of world literature and cultural memory, including Proust's work.
 
-**Publikacje naukowe**: W bazie BazHum dostępne są artykuły naukowe poświęcone Proustowi, w tym kompleksowe studium "Marcel Proust w Polsce: 'W poszukiwaniu straconego czasu'".
+**Academic Publications**: The BazHum database contains scholarly articles devoted to Proust, including a comprehensive study "Marcel Proust in Poland: 'In Search of Lost Time'."
 
-## Problemy z tłumaczeniem i różnice kulturowe
+## Translation Problems and Cultural Differences
 
-**Składnia niemiecka vs. polska**: Boy-Żeleński musiał radzić sobie z proustowskimi zdaniami opartymi na niemieckiej szkole składni (podobnie jak u Goethego czy Tomasza Manna), których język polski nie mógł bezpośrednio odwzorować.
+**German vs. Polish Syntax**: Boy-Żeleński had to deal with Proustian sentences based on the German school of syntax (similar to Goethe or Thomas Mann), which the Polish language could not directly reproduce.
 
-**Uproszczenie stylistyczne**: Boy znacznie uprościł skomplikowany język Prousta, co budziło kontrowersje - niektórzy krytycy zarzucali mu nielojalność wobec oryginału.
+**Stylistic Simplification**: Boy significantly simplified Proust's complicated language, which caused controversy - some critics accused him of disloyalty to the original.
 
-**Typograficzne zmiany**: Tłumacz zwiększył liczbę akapitów i wyodrębniał dialogi, co niewątpliwie przyczynia się do czytelności książki dla polskiego odbiorcy.
+**Typographical Changes**: The translator increased the number of paragraphs and separated dialogues, which undoubtedly contributes to the book's readability for Polish readers.
 
-**Współczesne dylematy**: Próba nowego tłumaczenia przez siedmiu różnych tłumaczy jest krytykowana jako potencjalne "masakrowanie oryginału" ze względu na niemożność oddania przez różnych tłumaczy tak wyrafinowanej stylistyki.
+**Contemporary Dilemmas**: The attempt at a new translation by seven different translators is criticized as potential "massacring of the original" due to the impossibility of different translators rendering such refined stylistics.
 
-## Polski kontekst edukacyjny i naukowy
+## Polish Educational and Academic Context
 
-**Nauka języka francuskiego**: Proust jest uważany za jednego z największych pisarzy XX wieku, a jego dzieło stanowi nieoceniony materiał dla uczących się francuskiego. Styl Prousta stanowi prawdziwe wyzwanie: długie, wielokrotnie złożone zdania, bogata frazeologia.
+**French Language Learning**: Proust is considered one of the greatest writers of the 20th century, and his work constitutes invaluable material for French learners. Proust's style presents a real challenge: long, multiply complex sentences, rich phraseology.
 
-**Modernizm w Polsce**: Dzieło Prousta jest klasyfikowane w kontekście polskiego modernizmu, obok innych wielkich dzieł epoki.
+**Modernism in Poland**: Proust's work is classified in the context of Polish modernism, alongside other great works of the era.
 
-**Dostępność online**: Dzieła Prousta są dostępne w polskich księgarniach internetowych, na platformach e-bookowych i w bibliotekach cyfrowych.
+**Online Availability**: Proust's works are available in Polish online bookstores, e-book platforms, and digital libraries.
 
-## Współczesna recepcja i znaczenie
+## Contemporary Reception and Significance
 
-**Uznanie krytyczne**: Dziś nikt nie ma wątpliwości, że jest to jedna z najważniejszych dat w historii literatury. Cykl Prousta - suma refleksji filozoficznych i estetycznych, powieść o tworzeniu powieści.
+**Critical Recognition**: Today no one doubts that this is one of the most important dates in literary history. Proust's cycle - a sum of philosophical and aesthetic reflections, a novel about creating a novel.
 
-**Wpływ na literaturę światową**: Wraz z "Ulissesem" Joyce'a, w którym najpełniej zastosowano formę "strumienia świadomości", analizy Prousta stanów na granicy jawy i snu zostały uznane za najwnikliwsze badania zbieżne z psychoanalizą Z. Freuda.
+**Impact on World Literature**: Along with Joyce's "Ulysses," in which the form of "stream of consciousness" was most fully applied, Proust's analyses of states on the border between waking and sleep were recognized as the most penetrating studies convergent with Freud's psychoanalysis.
 
-**Współczesne strategie badawcze**: Współczesne strategie badania literatury i pola literackiego koncentrują się na tym, jak współczesna literatura wchodzi w złożone związki z mediami tradycyjnymi i nowymi technologiami.
+**Contemporary Research Strategies**: Contemporary strategies for studying literature and the literary field focus on how contemporary literature enters into complex relationships with traditional media and new technologies.
 
-**Ciągłość recepcji**: Dzieło Prousta pozostaje żywe w polskiej kulturze, o czym świadczą ciągłe reedycje, adaptacje teatralne i badania naukowe podejmowane przez polskich akademików i krytyków literackich.
+**Continuity of Reception**: Proust's work remains alive in Polish culture, as evidenced by continuous re-editions, theatrical adaptations, and scholarly research undertaken by Polish academics and literary critics.

@@ -1,149 +1,149 @@
-# Wpływ Kulturowy "Ojca Goriot" Honoré de Balzaca
+# Cultural Impact of "Père Goriot" by Honoré de Balzac
 
-## Wprowadzenie
+## Introduction
 
-"Ojciec Goriot" (Le Père Goriot, 1835) Honoré de Balzaca to dzieło, które nie tylko zdefiniowało realizm literacki, ale również wywarło niezwykły wpływ na kulturę światową. Powieść o ambitnym studencie Rastignacku i tragicznym ojcu Goriocie stała się matrycą dla niezliczonych dzieł o wspinaczce społecznej, korupcji władzy i cenie ambicji. Ten raport przedstawia 58 konkretnych przykładów wpływu kulturowego tej monumentalnej powieści na przestrzeni niemal dwóch stuleci.
+"Père Goriot" (Le Père Goriot, 1835) by Honoré de Balzac is a work that not only defined literary realism but also exerted extraordinary influence on world culture. The novel about ambitious student Rastignac and tragic father Goriot became a template for countless works about social climbing, corruption of power, and the price of ambition. This report presents 58 specific examples of the cultural impact of this monumental novel over nearly two centuries.
 
-## 1. Adaptacje Filmowe i Telewizyjne
+## 1. Film and Television Adaptations
 
-### Historyczne Adaptacje Filmowe
+### Historical Film Adaptations
 
-1. **Pierwszy film niemy** - Dwie adaptacje z okresu filmu niemego przed 1945 rokiem
-2. **"Le père Goriot" (1945)** - Francuski film historyczny w reżyserii Roberta Vernaya z Pierre Renoir w roli głównej
-3. **Trzecia wersja filmu** - 1945 rok oznaczał trzecią kinową adaptację klasyka Balzaca
+1. **First silent film** - Two adaptations from the silent film era before 1945
+2. **"Le père Goriot" (1945)** - French historical film directed by Robert Vernay with Pierre Renoir in the lead role
+3. **Third film version** - 1945 marked the third cinematic adaptation of Balzac's classic
 
-### Adaptacje Telewizyjne
+### Television Adaptations
 
-4. **Seria BBC (1968)** - Jedyna brytyjska adaptacja telewizyjna z Michaelem Goodliffe w roli tytułowej
-5. **"Vautrin" TF1 (1957)** - Trzyczęściowa seria Jeana Vertexa odtwarzająca fragmenty powieści
-6. **Sześć adaptacji francuskich** - Od 1957 roku powstało co najmniej sześć adaptacji telewizyjnych we Francji
-7. **Współczesna produkcja teatralna** - Théâtre des Gémeaux Parisiens z adaptacją Davida Goldzahla
+4. **BBC series (1968)** - The only British television adaptation with Michael Goodliffe in the title role
+5. **"Vautrin" TF1 (1957)** - Three-part series by Jean Vertex recreating fragments of the novel
+6. **Six French adaptations** - Since 1957, at least six television adaptations have been produced in France
+7. **Contemporary theatrical production** - Théâtre des Gémeaux Parisiens with adaptation by David Goldzahl
 
-## 2. Wpływ na Wielkich Pisarzy
+## 2. Influence on Great Writers
 
-### Bezpośrednie Inspiracje Literackie
+### Direct Literary Inspirations
 
-8. **Marcel Proust** - Balzac wpłynął na techniki narracyjne autora "W poszukiwaniu straconego czasu"
-9. **Émile Zola** - Nazywał Balzaca "ojcem naturalistycznej powieści"
-10. **Charles Dickens** - Przejął od Balzaca techniken społecznych panoram miejskich
-11. **Gustave Flaubert** - Rozwinął realizm krytyczny zapoczątkowany przez Balzaca
-12. **Henry James** - Nazywał Balzaca "prawdziwie ojcem nas wszystkich"
-13. **Jack Kerouac** - Wykorzystał balzacowskie techniki obserwacji społecznej
+8. **Marcel Proust** - Balzac influenced the narrative techniques of the author of "In Search of Lost Time"
+9. **Émile Zola** - Called Balzac "the father of the naturalistic novel"
+10. **Charles Dickens** - Adopted Balzac's technique of social urban panoramas
+11. **Gustave Flaubert** - Developed critical realism initiated by Balzac
+12. **Henry James** - Called Balzac "truly the father of us all"
+13. **Jack Kerouac** - Used Balzacian techniques of social observation
 
-### Filozofowie i Myśliciele
+### Philosophers and Thinkers
 
-14. **Friedrich Engels** - Analizował "Ojca Goriot" jako przykład krytyki kapitalizmu
-15. **Thomas Piketty** - W "Kapitale w XXI wieku" używa powieści do ilustracji nierówności ekonomicznych
-16. **Félicien Marceau** - Stwierdził: "Wszyscy jesteśmy dziećmi Ojca Goriot"
+14. **Friedrich Engels** - Analyzed "Père Goriot" as an example of capitalism critique
+15. **Thomas Piketty** - In "Capital in the Twenty-First Century" uses the novel to illustrate economic inequality
+16. **Félicien Marceau** - Stated: "We are all children of Père Goriot"
 
-## 3. Nowoczesna Literatura Inspirowana
+## 3. Modern Inspired Literature
 
-### Amerykańscy Klasycy
+### American Classics
 
-17. **"Wielki Gatsby" F. Scott Fitzgeralda** - Kontynuacja tematu wspinaczki społecznej i zderzenia starego/nowego pieniądza
-18. **"Ognisko próżności" Toma Wolfe'a** - Bezpośrednio inspirowane Balzakiem jako "powieść o mieście"
-19. **"Ojciec chrzestny" Mario Puzo** - Słynny cytat "Złożę mu ofertę, której nie będzie mógł odmówić" wywodzi się z "Ojca Goriot"
+17. **"The Great Gatsby" by F. Scott Fitzgerald** - Continuation of the theme of social climbing and clash of old/new money
+18. **"The Bonfire of the Vanities" by Tom Wolfe** - Directly inspired by Balzac as a "novel of the city"
+19. **"The Godfather" by Mario Puzo** - The famous quote "I'll make him an offer he can't refuse" derives from "Père Goriot"
 
-### Współczesne Narracje
+### Contemporary Narratives
 
-20. **Literatura realizmu krytycznego** - "Ojciec Goriot" jako kamień węgielny europejskiego realizmu
-21. **Tradycja bildungsromanu** - Rastignac jako archetyp młodzieńca uczącego się zasad świata
-22. **Powieści o korupcji** - Template dla niezliczonych dzieł o moralnym upadku elit
+20. **Critical realism literature** - "Père Goriot" as the cornerstone of European realism
+21. **Bildungsroman tradition** - Rastignac as the archetype of a young man learning the rules of the world
+22. **Corruption novels** - Template for countless works about the moral decline of elites
 
-## 4. Wpływ na Kulturę Popularną
+## 4. Impact on Popular Culture
 
-### Język i Wyrażenia
+### Language and Expressions
 
-23. **"Rastignac" w języku francuskim** - Imię stało się synonimem bezwzględnego karierowicza
-24. **Słownik Larousse** - "Rastignac" jako oficjalne określenie społecznego wspinacza
-25. **Francuskie szkoły średnie** - Lektura obowiązkowa w programie narodowym
+23. **"Rastignac" in French language** - The name became synonymous with a ruthless careerist
+24. **Larousse Dictionary** - "Rastignac" as the official term for a social climber
+25. **French high schools** - Required reading in the national curriculum
 
-### Współczesne Serie Telewizyjne
+### Contemporary Television Series
 
-26. **"Succession" (HBO)** - Washington Post wymienia Balzaca wśród głównych inspiracji literackich
-27. **"Downton Abbey"** - Tematy dynastycznej transmisji bogactwa i przywilejów
-28. **Dramaty o sukcesji rodzinnej** - Wzorzec dla prestiżowych seriali telewizyjnych
+26. **"Succession" (HBO)** - The Washington Post lists Balzac among the main literary inspirations
+27. **"Downton Abbey"** - Themes of dynastic transmission of wealth and privilege
+28. **Family succession dramas** - Pattern for prestigious television series
 
-## 5. Adaptacje Teatralne i Operowe
+## 5. Theatrical and Operatic Adaptations
 
-### Historyczne Produkcje Sceniczne
+### Historical Stage Productions
 
-29. **Dwie adaptacje teatralne (1835)** - Powstały kilka miesięcy po publikacji książki
-30. **Tradycja adaptacji scenicznych** - Powieść "często adaptowana na scenę" przez dziesięciolecia
+29. **Two theatrical adaptations (1835)** - Created several months after the book's publication
+30. **Tradition of stage adaptations** - Novel "frequently adapted for the stage" for decades
 
-### Współczesne Produkcje
+### Contemporary Productions
 
-31. **Théâtre des Gémeaux Parisiens** - Adaptacja Davida Goldzahla z Jean-Benoît Souilh
-32. **Duncan Talhouët** - Jako Rastignac w współczesnej produkcji
-33. **Delphine Depardieu** - Gra córki Goriota w najnowszej adaptacji
+31. **Théâtre des Gémeaux Parisiens** - Adaptation by David Goldzahl with Jean-Benoît Souilh
+32. **Duncan Talhouët** - As Rastignac in contemporary production
+33. **Delphine Depardieu** - Plays Goriot's daughter in the latest adaptation
 
-## 6. Wpływ Akademicki i Edukacyjny
+## 6. Academic and Educational Impact
 
-### Pozycja w Edukacji
+### Position in Education
 
-34. **Francuski program szkolny** - Nadal część obowiązkowego curriculum szkół średnich
-35. **Cambridge University Press** - Akademickie wydania krytyczne
-36. **Critical Guides to French Texts** - Seria akademickich przewodników krytycznych
-37. **Grant & Cutler** - Wydania dla studentów literatury francuskiej
+34. **French school curriculum** - Still part of the mandatory high school curriculum
+35. **Cambridge University Press** - Academic critical editions
+36. **Critical Guides to French Texts** - Series of academic critical guides
+37. **Grant & Cutler** - Editions for French literature students
 
-### Zasoby Edukacyjne
+### Educational Resources
 
-38. **LitCharts** - Kompleksowe przewodniki studenckie online
-39. **GradeSaver** - Materiały analityczne dla studentów
-40. **SparkNotes** - Popularne streszczenia i analizy
+38. **LitCharts** - Comprehensive online student guides
+39. **GradeSaver** - Analytical materials for students
+40. **SparkNotes** - Popular summaries and analyses
 
-## 7. Ekonomia i Teoria Społeczna
+## 7. Economics and Social Theory
 
-### Analiza Kapitalizmu
+### Capitalism Analysis
 
-41. **Thomas Piketty** - "Dziedziczone bogactwo jest tak samo decydujące na początku XXI wieku jak w czasach Ojca Goriot"
-42. **Model ekonomiczny r > g** - Ilustracja tezy, że stopa zwrotu z kapitału przewyższa wzrost gospodarczy
-43. **Krytyka patrimonialnego kapitalizmu** - Powieść jako diagnoza współczesnej nierówności
+41. **Thomas Piketty** - "Inherited wealth is as decisive at the beginning of the 21st century as it was in the time of Père Goriot"
+42. **Economic model r > g** - Illustration of the thesis that the rate of return on capital exceeds economic growth
+43. **Critique of patrimonial capitalism** - Novel as a diagnosis of contemporary inequality
 
-### Kontrowersje Interpretacyjne
+### Interpretive Controversies
 
-44. **Krytycy Piketty'ego** - Argumenty, że powieść pokazuje "kruchość bogactwa", nie jego trwałość
-45. **Debata o kapitalizmie** - Różne interpretacje ekonomicznego przekazu Balzaca
+44. **Piketty's critics** - Arguments that the novel shows "wealth fragility," not its permanence
+45. **Capitalism debate** - Different interpretations of Balzac's economic message
 
-## 8. Referencje w Kulturze Internetowej
+## 8. References in Internet Culture
 
-### Ograniczona Obecność Online
+### Limited Online Presence
 
-46. **Brak popularnych memów** - Mimo klasycznego statusu, ograniczona obecność w kulturze memów
-47. **Niszowe referencje** - Akademickie i literackie odniesienia w mediach społecznościowych
-48. **Francuskojęzyczne społeczności** - Większa obecność w francuskiej internetowej kulturze
+46. **Lack of popular memes** - Despite classic status, limited presence in meme culture
+47. **Niche references** - Academic and literary references in social media
+48. **French-speaking communities** - Greater presence in French internet culture
 
-## 9. Międzynarodowy Wpływ Kulturowy
+## 9. International Cultural Impact
 
-### Tłumaczenia i Adaptacje
+### Translations and Adaptations
 
-49. **Wielojęzyczne tłumaczenia** - "Przetłumaczona wielokrotnie na wiele języków"
-50. **Literatura porównawcza** - Używana w kursach literatury światowej
-51. **Studia kulturowe** - Analiza procesów społecznej mobilności
+49. **Multilingual translations** - "Translated multiple times into many languages"
+50. **Comparative literature** - Used in world literature courses
+51. **Cultural studies** - Analysis of social mobility processes
 
-### Wpływ na Filmowców
+### Impact on Filmmakers
 
-52. **François Truffaut** - Uważał Balzaca i Prousta za największych francuskich pisarzy
-53. **Jacques Rivette** - Inspiracje balzacowskimi technikami narracyjnymi
-54. **Kino autorskie** - Wpływ na francuską Nową Falę
+52. **François Truffaut** - Considered Balzac and Proust the greatest French writers
+53. **Jacques Rivette** - Inspirations from Balzacian narrative techniques
+54. **Auteur cinema** - Influence on the French New Wave
 
-## 10. Dziedzictwo i Trwałość
+## 10. Legacy and Permanence
 
-### Fundamenty Literatury Nowoczesnej
+### Foundations of Modern Literature
 
-55. **"Kamień węgielny Komedii ludzkiej"** - Martin Kanes o centralnej pozycji powieści
-56. **Technika powracających postaci** - Innowacja wpływająca na nowoczesną literaturę
-57. **Realizm krytyczny** - Wzorzec dla europejskiej literatury społecznej
-58. **Peter Brooks** - "Serial telewizyjny to nic innego jak balzacowska forma, której by się cieszył"
+55. **"Cornerstone of the Human Comedy"** - Martin Kanes on the novel's central position
+56. **Recurring character technique** - Innovation influencing modern literature
+57. **Critical realism** - Model for European social literature
+58. **Peter Brooks** - "The television series is nothing but a Balzacian form that he would have enjoyed"
 
-## Wnioski
+## Conclusions
 
-"Ojciec Goriot" pozostaje jedną z najbardziej wpływowych powieści w historii literatury światowej. Od bezpośrednich adaptacji filmowych i teatralnych, przez inspiracje dla wielkich pisarzy jak Henry James i Tom Wolfe, aż po wykorzystanie przez współczesnych ekonomistów jak Thomas Piketty - dzieło Balzaca wciąż kształtuje sposób, w jaki rozumiemy ambicję, korupcję i społeczną mobilność.
+"Père Goriot" remains one of the most influential novels in the history of world literature. From direct film and theatrical adaptations, through inspirations for great writers like Henry James and Tom Wolfe, to use by contemporary economists like Thomas Piketty - Balzac's work continues to shape how we understand ambition, corruption, and social mobility.
 
-Archetyp Rastignaca - bezwzględnego karierowicza - stał się tak uniwersalny, że jego imię weszło do słowników jako określenie społecznego wspinacza. Współczesne seriale prestiżowe jak "Succession" czy "Downton Abbey" kontynuują balzacowską tradycję analizy dynastii władzy i bogactwa.
+The archetype of Rastignac - the ruthless careerist - became so universal that his name entered dictionaries as a term for a social climber. Contemporary prestige series like "Succession" and "Downton Abbey" continue the Balzacian tradition of analyzing dynasties of power and wealth.
 
-Choć powieść ma ograniczoną obecność w popularnej kulturze internetowej, jej wpływ na "wysoką kulturę" - literaturę, film, teatr, ekonomię i edukację - pozostaje niezaprzeczalny. "Ojciec Goriot" to nie tylko klasyk literatury, ale żywy organizm kulturowy, który wciąż inspiruje twórców do eksploracji uniwersalnych tematów ludzkiej ambicji i jej konsekwencji.
+Although the novel has limited presence in popular internet culture, its impact on "high culture" - literature, film, theater, economics, and education - remains undeniable. "Père Goriot" is not only a literary classic but a living cultural organism that continues to inspire creators to explore universal themes of human ambition and its consequences.
 
 ---
 
-*Raport przygotowany na podstawie badań internetowych i analizy dostępnych źródeł akademickich, krytycznych i kulturowych. Data: 2025-09-03*
+*Report prepared based on internet research and analysis of available academic, critical, and cultural sources. Date: 2025-09-20*

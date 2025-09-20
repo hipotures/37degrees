@@ -1,342 +1,342 @@
-# Warsztat Pisarski i Innowacje Literackie: "Long Day's Journey into Night" Eugene'a O'Neilla
+# Writing Craft and Literary Innovations: "Long Day's Journey into Night" by Eugene O'Neill
 
-## Wstęp: Rewolucja Amerykańskiego Teatru
+## Introduction: The Revolution of American Theater
 
-Eugene O'Neill, nazywany "Ojcem Amerykańskiego Teatru", stworzył w "Long Day's Journey into Night" dzieło, które nie tylko zdefiniowało amerykański dramat, ale wprowadziło szereg rewolucyjnych technik pisarskich, które wpłynęły na całe pokolenia dramaturgów i pisarzy. To autobiograficzne arcydzieło z 1941 roku (opublikowane w 1956) stanowi kulminację innowacyjnego podejścia O'Neilla do teatru jako poważnej formy artystycznej.
+Eugene O'Neill, called the "Father of American Theater," created in "Long Day's Journey into Night" a work that not only defined American drama but introduced a series of revolutionary writing techniques that influenced entire generations of playwrights and writers. This autobiographical masterpiece from 1941 (published in 1956) represents the culmination of O'Neill's innovative approach to theater as a serious art form.
 
-## I. REWOLUCYJNE TECHNIKI NARRACYJNE
+## I. REVOLUTIONARY NARRATIVE TECHNIQUES
 
-### 1. Klasyczna Jedność z Nowoczesną Psychologią
+### 1. Classical Unity with Modern Psychology
 
-**Innowacja**: O'Neill połączył klasyczne jedności dramatyczne z nowoczesną analizą psychologiczną:
-- **Jedność czasu**: Akcja rozgrywa się w ciągu jednego dnia (sierpień 1912, od 8:00 do północy)
-- **Jedność miejsca**: Cała sztuka w jednym pomieszczeniu (salon rodzinnego domu)
-- **Jedność akcji**: Stopniowe odsłanianie rodzinnych sekretów
+**Innovation**: O'Neill combined classical dramatic unities with modern psychological analysis:
+- **Unity of time**: Action takes place over one day (August 1912, from 8:00 AM to midnight)
+- **Unity of place**: Entire play in one room (family home's living room)
+- **Unity of action**: Gradual revelation of family secrets
 
-**Dlaczego rewolucyjne**: Pierwsza amerykańska sztuka łącząca klasyczną strukturę z współczesną psychoanalizą
+**Why revolutionary**: First American play combining classical structure with contemporary psychoanalysis
 
-### 2. Struktura Czterech Aktów jako Progresja Czasowa
+### 2. Four-Act Structure as Temporal Progression
 
-**Technika**: Każdy akt odpowiada porze dnia i posiłkowi:
-- **Akt I**: Śniadanie (poranek, słońce przez okna)
-- **Akt II**: Lunch (południe)  
-- **Akt III**: Obiad (wieczór)
-- **Akt IV**: Późna noc (mgła pochłania dom)
+**Technique**: Each act corresponds to time of day and meal:
+- **Act I**: Breakfast (morning, sunlight through windows)
+- **Act II**: Lunch (noon)
+- **Act III**: Dinner (evening)
+- **Act IV**: Late night (fog engulfs the house)
 
-**Innowacyjność**: Wizualne i symboliczne wykorzystanie światła naturalnego jako elementu narracyjnego
+**Innovation**: Visual and symbolic use of natural light as narrative element
 
-### 3. System Parowania Postaci
+### 3. Character Pairing System
 
-**Metoda**: W każdym akcie inne pary postaci prowadzą kluczowe rozmowy:
-- Akt I: Mary i Tyrone
-- Akt II: Tyrone i Jamie, Edmund i Mary
-- Akt III: Mary i Jamie
-- Akt IV: Tyrone i Edmund, Edmund i Jamie
+**Method**: Different character pairs lead key conversations in each act:
+- Act I: Mary and Tyrone
+- Act II: Tyrone and Jamie, Edmund and Mary
+- Act III: Mary and Jamie
+- Act IV: Tyrone and Edmund, Edmund and Jamie
 
-**Wpływ**: Technika przejęta przez Arthura Millera w "Death of a Salesman"
+**Influence**: Technique adopted by Arthur Miller in "Death of a Salesman"
 
-## II. INNOWACJE STRUKTURALNE I KOMPOZYCYJNE
+## II. STRUCTURAL AND COMPOSITIONAL INNOVATIONS
 
-### 4. Didaskalia jako Literatura
+### 4. Stage Directions as Literature
 
-**Przełom**: O'Neill wprowadził niezwykle szczegółowe didaskalia:
-- Opisy psychologiczne postaci
-- Symboliczne znaczenia przedmiotów na scenie
-- Narratorskie komentarze do stanów emocjonalnych
+**Breakthrough**: O'Neill introduced extraordinarily detailed stage directions:
+- Psychological descriptions of characters
+- Symbolic meanings of stage objects
+- Narrative commentary on emotional states
 
-**Cytat kluczowy**: "Didaskalia i notatki sceniczne stanowią ogromną część sztuki i są niezwykle ważne dla jej sukcesu jako dzieła literatury i dramatu"
+**Key quote**: "Stage directions and scenic notes constitute a huge part of the play and are extremely important for its success as a work of literature and drama"
 
-### 5. Atmosfera jako Postać
+### 5. Atmosphere as Character
 
-**Technika**: Mgła jako metaforyczny i dosłowny element dramatyczny:
-- Rozpoczyna słońcem porannym
-- Kończy się mglą pochłaniającą dom
-- Mgła symbolizuje izolację i zatratę rodziny
+**Technique**: Fog as metaphorical and literal dramatic element:
+- Begins with morning sunshine
+- Ends with fog engulfing the house
+- Fog symbolizes family isolation and loss
 
-**Innowacyjność**: Pierwszy amerykański dramaturg używający elementów pogodowych jako współgrających postaci
+**Innovation**: First American playwright using weather elements as participating characters
 
-### 6. Mikrorealizm w Szczegółach
+### 6. Microrealism in Details
 
-**Metoda**: Każdy element scenografii ma znaczenie psychologiczne:
-- Książki na półkach odzwierciedlają charakter postaci
-- Rozmieszczenie mebli pokazuje relacje rodzinne
-- Drobne rekwizyty ujawniają ukryte prawdy
+**Method**: Every scenic element has psychological significance:
+- Books on shelves reflect character personalities
+- Furniture arrangement shows family relationships
+- Small props reveal hidden truths
 
-## III. WPŁYW NA WARSZTAT INNYCH PISARZY
+## III. INFLUENCE ON OTHER WRITERS' CRAFT
 
-### 7. Tennessee Williams - Bezpośredni Spadkobierca
+### 7. Tennessee Williams - Direct Heir
 
-**Inspirowane techniki**:
-- Autobiograficzne postacie w "The Glass Menagerie"
-- Symboliczne użycie światła i atmosfery
-- Psychologiczne portrety skonfliktowanych rodzin
+**Inspired techniques**:
+- Autobiographical characters in "The Glass Menagerie"
+- Symbolic use of light and atmosphere
+- Psychological portraits of conflicted families
 
-**Cytat Williamsa**: "O'Neill dał życie amerykańskiemu teatrowi i umarł dla niego"
+**Williams quote**: "O'Neill gave life to American theater and died for it"
 
-### 8. Arthur Miller - Rozwój Realizmu Psychologicznego
+### 8. Arthur Miller - Development of Psychological Realism
 
-**Przejęte elementy**:
-- Struktura jednego dnia w "Death of a Salesman"
-- Retrospektywy wbudowane w teraźniejszość
-- Rodzinne sekrety jako motor dramatyczny
+**Adopted elements**:
+- Single-day structure in "Death of a Salesman"
+- Flashbacks built into present action
+- Family secrets as dramatic engine
 
-### 9. Edward Albee - Kontynuacja Eksperymentów
+### 9. Edward Albee - Continuation of Experiments
 
-**Wykorzystane innowacje**:
-- Brutalna szczerość w dialogach rodzinnych
-- Długie monologi odkrywające prawdę
-- Teatr jako przestrzeń psychoanalizy
+**Utilized innovations**:
+- Brutal honesty in family dialogues
+- Long monologues revealing truth
+- Theater as space for psychoanalysis
 
-### 10. David Mamet - Ewolucja Językowa
+### 10. David Mamet - Linguistic Evolution
 
-**Dziedzictwo O'Neilla**:
-- Amerykańska mowa potoczna w teatrze poważnym
-- Rytm naturalnej konwersacji
-- Autentyczność językowa postaci
+**O'Neill's legacy**:
+- American vernacular in serious theater
+- Rhythm of natural conversation
+- Linguistic authenticity of characters
 
-## IV. CHARAKTERYSTYCZNE ELEMENTY STYLU I JĘZYKA
+## IV. CHARACTERISTIC STYLE AND LANGUAGE ELEMENTS
 
-### 11. Amerykański Wernakularny w Teatrze
+### 11. American Vernacular in Theater
 
-**Przełom**: Pierwszy dramaturg używający autentycznego amerykańskiego języka potocznego w poważnym teatrze
-- Slang robotniczy i marynarzy
-- Regionalne dialekty
-- Język społecznych wykluczonych
+**Breakthrough**: First playwright using authentic American colloquial language in serious theater
+- Working-class and sailor slang
+- Regional dialects
+- Language of social outcasts
 
-### 12. Naturalistyczne Dialogi
+### 12. Naturalistic Dialogues
 
-**Technika**: Rozmowy naśladujące rzeczywiste konwersacje:
-- Przerywanie sobie nawzajem
-- Niedokończone zdania
-- Powtórzenia i wahania
+**Technique**: Conversations mimicking real-life talk:
+- Interrupting each other
+- Unfinished sentences
+- Repetitions and hesitations
 
-**Wpływ**: Podstawa dla całego ruchu realizmu dramatycznego
+**Influence**: Foundation for entire dramatic realism movement
 
-### 13. Rytm Emocjonalny Dialogu
+### 13. Emotional Rhythm of Dialogue
 
-**Innowacja**: Dialogi odzwierciedlają stany emocjonalne poprzez:
-- Tempo wymowy
-- Długość kwestii
-- Pauzę między replikami
+**Innovation**: Dialogues reflect emotional states through:
+- Speech tempo
+- Length of speeches
+- Pauses between lines
 
-## V. STWORZENIE NOWEGO GATUNKU
+## V. CREATION OF NEW GENRE
 
-### 14. Autobiograficzny Dramat Familijny
+### 14. Autobiographical Family Drama
 
-**Nowy podgatunek**: O'Neill stworzył szablon dla:
-- Autobiograficznych sztuk teatralnych
-- Rodzinnych dramatów psychologicznych
-- Terapeutycznego teatru osobistego
+**New subgenre**: O'Neill created template for:
+- Autobiographical theatrical plays
+- Family psychological dramas
+- Therapeutic personal theater
 
-### 15. Teatr jako Psychoanaliza
+### 15. Theater as Psychoanalysis
 
-**Koncepcja**: Sztuka jako sesja terapeutyczna:
-- Stopniowe odsłanianie traumy
-- Konfrontacja z przeszłością
-- Katharsis przez prawdę
+**Concept**: Play as therapy session:
+- Gradual revelation of trauma
+- Confrontation with the past
+- Catharsis through truth
 
-## VI. TECHNIKI CHARAKTERYZACJI I BUDOWANIA POSTACI
+## VI. CHARACTERIZATION AND CHARACTER BUILDING TECHNIQUES
 
-### 16. Wielowarstwowość Psychologiczna
+### 16. Psychological Multilayering
 
-**Metoda**: Każda postać ma:
-- Publiczną maskę
-- Prywatne demony
-- Nieświadome motywacje
-- Historię ukształtowaną przez traumę
+**Method**: Each character has:
+- Public mask
+- Private demons
+- Unconscious motivations
+- History shaped by trauma
 
-### 17. Addykcja jako Element Charakteryzacyjny
+### 17. Addiction as Characterization Element
 
-**Innowacja**: Pierwszy dramaturg przedstawiający:
-- Uzależnienie od morfiny (Mary)
-- Alkoholizm (cała rodzina męska)
-- Choroby jako kształtujące osobowość
+**Innovation**: First playwright presenting:
+- Morphine addiction (Mary)
+- Alcoholism (all male family members)
+- Illness as personality-shaping force
 
-### 18. Pokoleniowy Konflikt jako Struktura
+### 18. Generational Conflict as Structure
 
-**Technika**: Napięcie między:
-- Starymi wartościami (James)
-- Nowoczesnymi ideałami (Edmund)
-- Cynizmem pośrednim (Jamie)
+**Technique**: Tension between:
+- Old values (James)
+- Modern ideals (Edmund)
+- Intermediate cynicism (Jamie)
 
-## VII. BUDOWANIE NAPIĘCIA I KONTROLA TEMPA
+## VII. BUILDING TENSION AND PACE CONTROL
 
-### 19. Gradualna Eskalacja Prawdy
+### 19. Gradual Truth Escalation
 
-**Metoda**: Stopniowe odsłanianie sekretów:
-- Akt I: Podejrzenia
-- Akt II: Potwierdzenia
-- Akt III: Konfrontacje
-- Akt IV: Ostateczne prawdy
+**Method**: Gradual revelation of secrets:
+- Act I: Suspicions
+- Act II: Confirmations
+- Act III: Confrontations
+- Act IV: Final truths
 
-### 20. Napięcie przez Przemilczenia
+### 20. Tension Through Silences
 
-**Technika**: To, co niewyjaśnione, tworzy napięcie:
-- Choroba Mary
-- Przeszłość Jamesa
-- Kondycja Edmunda
+**Technique**: What remains unexplained creates tension:
+- Mary's illness
+- James's past
+- Edmund's condition
 
-### 21. Rytm Naturalny vs. Dramatyczny
+### 21. Natural vs. Dramatic Rhythm
 
-**Balans**: O'Neill połączył:
-- Naturalne tempo rozmowy
-- Teatralną intensywność emocji
-- Muzyczny rytm kwestii
+**Balance**: O'Neill combined:
+- Natural conversation pace
+- Theatrical emotional intensity
+- Musical rhythm of speeches
 
-## VIII. WPŁYW NA EWOLUCJĘ LITERATURY
+## VIII. INFLUENCE ON LITERATURE EVOLUTION
 
-### 22. Demokratyzacja Teatru
+### 22. Theater Democratization
 
-**Rewolucja**: O'Neill wprowadził na scenę:
-- Klasy robotnicze jako protagonistów
-- Problemy społeczne jako tematy główne
-- Amerykańskie realia bez idealizacji
+**Revolution**: O'Neill brought to stage:
+- Working classes as protagonists
+- Social problems as main themes
+- American realities without idealization
 
-### 23. Teatr jako Literatura
+### 23. Theater as Literature
 
-**Koncepcja**: Pierwszy amerykański dramaturg traktujący:
-- Sztuki jako dzieła literackie
-- Teatr jako równy prozie i poezji
-- Dramat jako poważną formę artystyczną
+**Concept**: First American playwright treating:
+- Plays as literary works
+- Theater as equal to prose and poetry
+- Drama as serious art form
 
-### 24. Wpływ na Prozę Autobiograficzną
+### 24. Influence on Autobiographical Prose
 
-**Techniki przeniesione do prozy**:
-- Struktury dramatyczne w powieściach
-- Dialogowe odkrywanie prawdy
-- Koncentracja czasowa narracji
+**Techniques transferred to prose**:
+- Dramatic structures in novels
+- Dialogic truth revelation
+- Temporal narrative concentration
 
-## IX. TECHNIKI PRZESZŁE DO KANONU PISARSKIEGO
+## IX. TECHNIQUES PASSED INTO WRITING CANON
 
-### 25. "Show Don't Tell" w Praktyce
+### 25. "Show Don't Tell" in Practice
 
-**Mistrzostwo**: O'Neill pokazuje poprzez:
-- Gesty i zachowania postaci
-- Reakcje na niewypowiedziane słowa
-- Symboliczne działania
+**Mastery**: O'Neill shows through:
+- Character gestures and behaviors
+- Reactions to unspoken words
+- Symbolic actions
 
-### 26. Subtelność w Budowaniu Konfliktu
+### 26. Subtlety in Conflict Building
 
-**Technika**: Konflikty rozwijają się przez:
-- Drobne drażnienia
-- Niewypowiedziane żale
-- Akumulację napięć
+**Technique**: Conflicts develop through:
+- Minor irritations
+- Unspoken grievances
+- Tension accumulation
 
-### 27. Autobiografia Przekształcona w Uniwersum
+### 27. Autobiography Transformed into Universe
 
-**Metoda**: Osobiste doświadczenia stają się uniwersalnymi przez:
-- Archeologię emocji rodzinnych
-- Symbolizację osobistej traumy
-- Dystans artystyczny do własnego życia
+**Method**: Personal experiences become universal through:
+- Archaeology of family emotions
+- Symbolization of personal trauma
+- Artistic distance from one's own life
 
-## X. NOWOCZESNE TECHNIKI DRAMATYCZNE
+## X. MODERN DRAMATIC TECHNIQUES
 
-### 28. Monologi Wewnętrzne na Scenie
+### 28. Internal Monologues on Stage
 
-**Innowacja**: O'Neill wprowadził:
-- Solilokwa psychoanalityczne
-- Strumień świadomości w dialogu
-- Wewnętrzne konflikty jako zewnętrzne akcje
+**Innovation**: O'Neill introduced:
+- Psychoanalytic soliloquies
+- Stream of consciousness in dialogue
+- Internal conflicts as external actions
 
-### 29. Użycie Ciszy i Pauz
+### 29. Use of Silence and Pauses
 
-**Technika**: Strategiczne wykorzystanie:
-- Milczenia znaczącego więcej niż słowa
-- Pauz budujących napięcie
-- Rytmu oddechowego w dialogu
+**Technique**: Strategic use of:
+- Silences meaning more than words
+- Pauses building tension
+- Breathing rhythm in dialogue
 
-### 30. Czasowość jako Temat i Technika
+### 30. Temporality as Theme and Technique
 
-**Podwójne użycie czasu**:
-- Czas rzeczywisty akcji (jeden dzień)
-- Czas pamięci (całe życie rodziny)
-- Czas symboliczny (podróż ku nocy)
+**Dual use of time**:
+- Real time of action (one day)
+- Memory time (family's entire life)
+- Symbolic time (journey into night)
 
-## XI. DŁUGOFALOWY WPŁYW NA LITERATURĘ
+## XI. LONG-TERM IMPACT ON LITERATURE
 
-### 31. Wpływ na Literaturę Światową
+### 31. Influence on World Literature
 
-**Globalny zasięg**: Po Szekspirze i Shaw'ie, O'Neill stał się:
-- Najczęściej tłumaczonym dramaturgiem amerykańskim
-- Wzorem dla teatru autobiograficznego
-- Inspiracją dla pisarzy na całym świecie
+**Global reach**: After Shakespeare and Shaw, O'Neill became:
+- Most translated American playwright
+- Model for autobiographical theater
+- Inspiration for writers worldwide
 
-### 32. Tradycja Krytyki Amerykańskiego Marzenia
+### 32. Tradition of American Dream Criticism
 
-**Odziedziczona przez**:
-- Arthura Millera ("Death of a Salesman")
-- Tennessee Williamsa ("A Streetcar Named Desire")
-- Współczesnych dramaturgów społecznych
+**Inherited by**:
+- Arthur Miller ("Death of a Salesman")
+- Tennessee Williams ("A Streetcar Named Desire")
+- Contemporary social playwrights
 
-### 33. Psychoanalityczny Teatr jako Gatunek
+### 33. Psychoanalytic Theater as Genre
 
-**Dziedzictwo**: Stworzył podstawy dla:
-- Teatru terapeutycznego
-- Dramatów konfrontujących traumę
-- Autobiograficznych przedstawień
+**Legacy**: Created foundations for:
+- Therapeutic theater
+- Trauma-confronting dramas
+- Autobiographical performances
 
-### 34. Realizm Emocjonalny w Dramacie
+### 34. Emotional Realism in Drama
 
-**Standard**: O'Neill ustalił:
-- Pierwszeństwo emocji nad intelektem
-- Prawdę psychologiczną nad fabularną
-- Autentyczność nad konwencją teatralną
+**Standard**: O'Neill established:
+- Emotion priority over intellect
+- Psychological truth over plot truth
+- Authenticity over theatrical convention
 
-## XII. KONKRETNE PRZYKŁADY ZASTOSOWANIA TECHNIK
+## XII. CONCRETE EXAMPLES OF TECHNIQUE APPLICATION
 
-### 35. Technika "Jednego Pokoju"
+### 35. "Single Room" Technique
 
-**Aplikacja współczesna**:
-- "12 Angry Men" Reginalda Rose'a
-- "Who's Afraid of Virginia Woolf?" Albee
-- Filmy kameralne typu "Carnage"
+**Contemporary application**:
+- "12 Angry Men" by Reginald Rose
+- "Who's Afraid of Virginia Woolf?" by Albee
+- Chamber films like "Carnage"
 
-### 36. Struktura "Jednego Dnia"
+### 36. "Single Day" Structure
 
-**Kontynuatorzy**:
+**Continuators**:
 - "Death of a Salesman" - Arthur Miller
-- "The Iceman Cometh" - sam O'Neill
+- "The Iceman Cometh" - O'Neill himself
 - "Glengarry Glen Ross" - David Mamet
 
-### 37. Autobiografia jako Fikcja
+### 37. Autobiography as Fiction
 
-**Współcześni naśladowcy**:
+**Contemporary followers**:
 - "The Glass Menagerie" - Tennessee Williams
 - "Brighton Beach Memoirs" - Neil Simon
 - "August: Osage County" - Tracy Letts
 
-## XIII. ZNACZENIE HISTORYCZNE I KULTUROWE
+## XIII. HISTORICAL AND CULTURAL SIGNIFICANCE
 
-### 38. Przełamanie Purytańskich Tabu
+### 38. Breaking Puritan Taboos
 
-**Pierwsze przedstawienie na scenie**:
-- Uzależnienia od narkotyków
-- Alkoholizmu jako choroby rodzinnej
-- Seksualności bez moralizatorstwa
-- Chorób psychicznych bez stygmatyzacji
+**First stage presentation of**:
+- Drug addiction
+- Alcoholism as family disease
+- Sexuality without moralization
+- Mental illness without stigmatization
 
-### 39. Demokratyzacja Języka Teatralnego
+### 39. Democratization of Theatrical Language
 
-**Rewolucja językowa**:
-- Odejście od teatralnej sztuczności
-- Wprowadzenie autentycznego amerykańskiego dialektu
-- Legitimizacja języka ulicy w wysokiej sztuce
+**Linguistic revolution**:
+- Departure from theatrical artificiality
+- Introduction of authentic American dialect
+- Legitimization of street language in high art
 
-### 40. Wpływ na Edukację Teatralną
+### 40. Influence on Theatrical Education
 
-**Pedagogiczne dziedzictwo**:
-- Nauczanie aktorstwa metodą Stanisławskiego w Ameryce
-- Warsztat dramatopisarski w szkołach teatralnych
-- Analiza tekstu jako literatura w programach uniwersyteckich
+**Pedagogical legacy**:
+- Teaching Stanislavski method acting in America
+- Playwriting workshops in theater schools
+- Text analysis as literature in university programs
 
-## Podsumowanie: Trwałe Dziedzictwo Innowacji
+## Summary: Lasting Legacy of Innovation
 
-"Long Day's Journey into Night" to nie tylko autobiograficzne arcydzieło, ale podręcznik technik dramatopisarskich, które ukształtowały amerykańską literaturę. O'Neill stworzył nowy język teatru - szczery, psychologicznie złożony, strukturalnie innowacyjny. Jego wpływ jest widoczny w dziełach wszystkich znaczących amerykańskich dramaturgów XX wieku.
+"Long Day's Journey into Night" is not only an autobiographical masterpiece but a handbook of dramatic techniques that shaped American literature. O'Neill created a new language of theater - honest, psychologically complex, structurally innovative. His influence is visible in works of all significant American playwrights of the 20th century.
 
-Najważniejszym odkryciem O'Neilla było połączenie klasycznej formy z nowoczesną psychologią, autobiografii z uniwersalną prawdą, oraz amerykańskiego języka potocznego z poetycką głębią. Te innowacje nie tylko zrewolucjonizowały teatr, ale wpłynęły na całą literaturę, czyniąc z osobistego bólu uniwersalną sztukę.
+O'Neill's most important discovery was combining classical form with modern psychology, autobiography with universal truth, and American colloquial language with poetic depth. These innovations not only revolutionized theater but influenced all literature, transforming personal pain into universal art.
 
-Eugene O'Neill nie tylko "dał życie amerykańskiemu teatrowi" - stworzył nowy sposób myślenia o dramacie jako o narzędziu poznania ludzkiej natury. Jego techniki pozostają żywe i inspirujące dla współczesnych twórców, czyniąc z "Long Day's Journey into Night" nie tylko klasyk literatury, ale warsztat mistrzowski dla każdego, kto chce zrozumieć moc dramatopisarstwa.
+Eugene O'Neill didn't just "give life to American theater" - he created a new way of thinking about drama as a tool for understanding human nature. His techniques remain alive and inspiring for contemporary creators, making "Long Day's Journey into Night" not only a literary classic but a masterclass workshop for anyone wanting to understand the power of dramatic writing.
 
 ---
 
-*Dokument stworzony w ramach analizy warsztatu pisarskiego i innowacji literackich dla projektu 37degrees (@37stopni) - "gorączka czytania"*
+*Document created as part of writing craft and literary innovation analysis for the 37degrees project (@37stopni) - "reading fever"*
