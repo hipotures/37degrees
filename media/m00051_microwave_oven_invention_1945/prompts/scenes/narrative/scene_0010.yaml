@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Modern kitchen showing microwave oven's ubiquitous presence"
+  setting:
+    time: "Present day, morning"
+    location: "Contemporary American kitchen"
+    weather: "Bright morning sunlight through windows"
+  characters:
+    - appearance: "Woman, 30s, casual modern attire, friendly expression"
+      clothing: "Light sweater, jeans, comfortable home footwear"
+      position: "Standing at kitchen counter near microwave"
+      action: "Using compact countertop microwave for quick breakfast preparation, pressing digital controls"
+  scene:
+    mainElements: "Compact countertop appliance with stainless steel and black plastic construction, digital display showing time and settings, touch controls, transparent door window"
+    details: "Modern microwave oven seamlessly integrated into contemporary kitchen design. Granite countertops reflect morning sunlight. Stainless steel appliances including refrigerator, dishwasher, and range create cohesive modern aesthetic. Ceramic tile flooring, modern cabinetry with clean lines. Food items being heated visible through microwave window."
+    background: "Full modern kitchen with efficient design, breakfast items on counter, natural light from windows, contemporary home environment"
+    atmosphere: "Peaceful modern domestic life enabled by the scientist's invention, transformation from massive industrial equipment to essential household appliance, legacy of scientific curiosity in everyday convenience, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing integration of microwave in modern kitchen"
+    focus: "Compact modern microwave demonstrating evolution from the scientist's discovery"
+    depth: "Foreground shows detailed modern microwave operation, middle ground features woman using appliance, background reveals complete contemporary kitchen environment"

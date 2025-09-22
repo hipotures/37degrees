@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: August 3, 1962, 12:05 PM
+    location: Oklahoma City Zoo elephant enclosure, outdoor paddock area, Oklahoma, USA
+    weather: Harsh midday summer heat with bright overhead sun
+  characters:
+  - appearance: 14-year-old male Indian elephant, medium-sized for species, dark gray skin, intelligent eyes, standing initially
+      then collapsing
+    clothing: No clothing - natural elephant appearance
+    position: Falling to ground in center of enclosure, legs stiffening
+    action: Trumpeting once loudly then collapsing with convulsive movements and labored breathing
+  - appearance: Caucasian man, 40s, medium build, receding dark hair, serious expression, wire-rimmed glasses
+    clothing: 1960s white lab coat over dark suit and tie, or gray flannel suit with narrow tie
+    position: Standing at barrier holding stopwatch, looking alarmed
+    action: Timing the reaction while showing visible concern at rapid deterioration
+  - appearance: African American man, 30s, stocky build, kind face, concerned expression
+    clothing: 1960s white lab coat over dark sweater vest and tie, or tan suit jacket
+    position: Moving quickly toward enclosure with medical equipment
+    action: Rushing to assess situation with stethoscope and medical supplies
+  - appearance: Mixed group of men and women, 20s-50s, varying builds, concerned expressions
+    clothing: 1960s zoo uniforms - khaki shirts and pants, some with caps
+    position: Standing at distance near zoo pathways
+    action: Standing at distance, some covering mouths in shock, others pointing
+  scene:
+    mainElements: 14-year-old male Indian elephant, medium-sized for species, dark gray skin, intelligent eyes, standing initially
+      then collapsing, now lying on ground showing severe distress and convulsions
+    details: Large concrete and dirt enclosure with metal barriers, viewing area for public, elephant collapsed on dusty ground
+      with legs extended stiffly, visible signs of severe distress including labored breathing and convulsive movements, dust
+      clouds where elephant fell, emergency medical equipment being rushed forward, stopwatch showing elapsed time, bright
+      harsh sunlight creating stark shadows around fallen elephant, no text or letters visible
+    background: Oklahoma zoo environment with alarmed visitors backing away from viewing barriers, other zoo staff running
+      toward scene, clear summer sky contrasting with tragic scene below
+    atmosphere: Shock and alarm as experiment goes drastically wrong, harsh midday lighting emphasizing severity of situation,
+      emergency atmosphere replacing clinical observation
+  composition:
+    cameraAngle: Medium high angle shot showing collapsed elephant and surrounding emergency response
+    focus: The elephant's distressed condition and the immediate alarm of observers
+    depth: Foreground shows collapsed elephant in detail, middle ground features panicked research team response, background
+      displays broader zoo emergency reaction
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -4,3 +4,190 @@ book_info:
   author: "Marcel Proust"
   year: 1913
   genre: "Modernist,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T15:42:00"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 10
+    structural_complexity: 10
+    social_roles: 8
+    total: 70
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.8
+      category: "high"
+    heat:
+      value: 7.8
+      category: "high"
+
+  themes:
+    universal:
+      - id: "memory_revolution"
+        type: "FACT"
+        credibility: 0.95
+        content: "Invented involuntary memory concept, scientifically confirmed as 'Proust Effect' in neurobiology"
+        source: "symbols_meanings"
+      - id: "modernist_pioneer"
+        type: "FACT"
+        credibility: 1.0
+        content: "Stream of consciousness pioneer, revolutionized narrative alongside Joyce and Woolf"
+        source: "writing_innovation"
+      - id: "social_prophecy"
+        type: "ANALYSIS"
+        credibility: 0.9
+        content: "Predicted social media dynamics: salons = Instagram, surveillance = digital stalking"
+        source: "reality_wisdom"
+      - id: "brothel_scandal"
+        type: "BOMBSHELL"
+        credibility: 0.9
+        content: "Police raid evidence: Proust caught in male brothel, financed operations, voyeurism sessions"
+        source: "dark_drama"
+      - id: "time_philosophy"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "21 interpretive layers: phenomenology, psychoanalysis, Buddhism, structural complexity"
+        source: "symbols_meanings"
+      - id: "toxic_love_blueprint"
+        type: "ANALYSIS"
+        credibility: 0.9
+        content: "Clinical analysis of obsessive relationships, predicted modern dating app behaviors"
+        source: "reality_wisdom"
+      - id: "cultural_phenomenon"
+        type: "FACT"
+        credibility: 0.95
+        content: "50+ adaptations across all media, Harold Pinter screenplay, TikTok viral content"
+        source: "culture_impact"
+      - id: "censorship_target"
+        type: "FACT"
+        credibility: 0.9
+        content: "Nazi book burnings, Florida school bans, homosexuality censorship across eras"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "Foundational modernist text in English-speaking academia, C.K. Scott Moncrieff translation legacy"
+        key_editions: ["Penguin Classics", "Modern Library", "Yale Centennial"]
+        reception_notes: "Harold Bloom: 'major novel of 20th century', canonical status established"
+        educational_status: "Core modernism curriculum at Oxford, Cambridge, Yale universities"
+        local_themes: ["Stream of consciousness influence", "Bloomsbury Group connections", "Virginia Woolf parallels"]
+
+      pl:
+        cultural_impact: "Boy-Żeleński translation shaped Polish reception, Warlikowski's 'The French' theatrical success"
+        key_editions: ["PIW editions", "Wolne Lektury digital", "Minumsa complete translation"]
+        reception_notes: "Kristeva's 'Sensible Time' published in Poland 2024, academic prominence"
+        educational_status: "Exam material for Polish language studies, modernism standard"
+        local_themes: ["Translation challenges", "Warlikowski adaptations", "Academic research focus"]
+
+      de:
+        cultural_impact: "Walter Benjamin translation collaboration, Frankfurt School philosophical influence"
+        key_editions: ["Suhrkamp definitive", "Reclam accessibility", "Eva Rechel-Mertens standard"]
+        reception_notes: "Benjamin's materialist aesthetics theory, critical theory foundation"
+        educational_status: "Marcel Proust Society founded 1982, university canon"
+        local_themes: ["Benjamin philosophy", "Frankfurt School theory", "Translation studies"]
+
+      fr:
+        cultural_impact: "Original French masterpiece, Pléiade authoritative edition, national treasure status"
+        key_editions: ["Gallimard Pléiade", "Grasset original", "NRF editions"]
+        reception_notes: "Prix Goncourt 1919, Gide acknowledgment of rejection error"
+        educational_status: "Core French literature curriculum, ENS research center"
+        local_themes: ["National literary pride", "Structuralist analysis", "Cultural export"]
+
+      es:
+        cultural_impact: "Pedro Salinas poetic translation, magical realism influence on Latin American boom"
+        key_editions: ["Alianza Editorial", "Alfaguara 2024", "Santiago Rueda Argentine"]
+        reception_notes: "García Márquez and Cortázar acknowledged debt to Proust techniques"
+        educational_status: "Advanced French literature programs, comparative studies"
+        local_themes: ["Magical realism influence", "Latin American adaptation", "Translation evolution"]
+
+      pt:
+        cultural_impact: "Major Brazilian modernist influence through Clarice Lispector, Pedro Tamen Portuguese translation"
+        key_editions: ["Nova Fronteira Brazil", "Relógio d'Água Portugal", "Fernando Py translation"]
+        reception_notes: "Connected to Machado de Assis literary lineage, modernist bridge"
+        educational_status: "USP doctoral research, UFRJ graduate programs, Brépols project"
+        local_themes: ["Lispector connection", "Genetic criticism", "Lusophone scholarship"]
+
+      ja:
+        cultural_impact: "Early translation success, visual novel inspiration, manga adaptations"
+        key_editions: ["Iwanami 14-volume", "Shincho condensed", "Yoshikawa translation"]
+        reception_notes: "Tale of Genji comparative studies, Buddhist philosophical parallels"
+        educational_status: "University modernism courses, translation studies programs"
+        local_themes: ["Genji comparisons", "Buddhist interpretation", "Visual culture adaptation"]
+
+      ko:
+        cultural_impact: "Kim Hee-young specialist translation, digital humanities teaching approaches"
+        key_editions: ["Minumsa 13-volume", "Penguin Classics Korea", "Pléiade source accuracy"]
+        reception_notes: "Proust Effect recognition, academic digital analysis tools"
+        educational_status: "French literature programs, big data analysis methods"
+        local_themes: ["Digital humanities", "Translation scholarship", "Memory studies"]
+
+      hi:
+        cultural_impact: "English distribution through Penguin India, Ashk comparison as 'India's Proust'"
+        key_editions: ["Penguin Random House India", "Oxford academic works", "Amazon distribution"]
+        reception_notes: "Upendranath Ashk parallel recognition, stream of consciousness adoption"
+        educational_status: "Comparative literature programs, modernist studies"
+        local_themes: ["Ashk parallels", "Colonial influence", "Modernist technique adoption"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "modernist_revolution"
+          lead: "host_a"
+          description: "Proust's invention of stream of consciousness and involuntary memory techniques"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "philosophical_frameworks"
+          lead: "host_b"
+          description: "21 interpretive layers: phenomenology, psychoanalysis, Buddhism, structural analysis"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "narrative_architecture"
+          lead: "host_a"
+          description: "Seven-volume circular structure, non-linear time, memory as organizing principle"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "scientific_validation"
+          lead: "host_b"
+          description: "Neurobiology confirms 'Proust Effect', involuntary memory research breakthrough"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "literary_legacy"
+          lead: "host_a"
+          description: "Influence on modernism: Joyce, Woolf, contemporary writers, canonical status"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'In Search of Lost Time' with scholarly depth. Discuss Proust's revolutionary modernist techniques: stream of consciousness, involuntary memory (the Proust Effect), seven-volume circular narrative structure, and influence on Joyce/Woolf. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification on complex concepts, request examples of Proust's techniques, connect to contemporary neuroscience research on memory, and ensure accessibility for listeners new to modernist literature."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "mature themes: adult relationships and sexuality"
+      - "historical references to male prostitution"
+      - "complex psychological themes involving obsession"
+      - "some content may be challenging for younger audiences"
+    educational_elements:
+      - "modernist literary techniques and innovations"
+      - "historical context of Belle Époque France"
+      - "neuroscience of memory and consciousness"
+      - "influence on 20th century literature development"
+    production_notes:
+      intro_style: "contemplative and scholarly"
+      transitions: "subtle classical music bridges"
+      outro_style: "reflective synthesis of themes"
+
+  overall_confidence: 0.94

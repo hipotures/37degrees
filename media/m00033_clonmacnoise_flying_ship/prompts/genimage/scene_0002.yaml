@@ -1,0 +1,104 @@
+sceneDescription:
+  setting:
+    time: 748 CE, Sunday morning before Mass
+    location: Principal Church within Clonmacnoise complex
+    weather: Clear morning, peaceful atmosphere
+  characters:
+  - appearance: Middle-aged cleric, 50s, weathered face from Irish climate, authoritative bearing
+    clothing: Fine woolen robes in ecclesiastical colors, ornate bronze Celtic cross, episcopal ring, leather boots
+    position: Standing with raised hand in protective gesture
+    action: Intervening to protect the aerial sailor from congregation's grasp
+  - appearance: Young to middle-aged monk, ink-stained fingers, keen observational eyes
+    clothing: Brown woolen habit, writing materials pouch, quill and ink horn
+    position: Seated at writing desk or standing with writing materials
+    action: Carefully recording events in manuscript or observing phenomenon
+  scene:
+    mainElements: Stone church within Clonmacnoise complex with arched doorway. Stone arch over main entrance, bishop's throne,
+      altar, wooden benches, decorated Celtic crosses. Sacred space filled with incense, candlelight, chanted prayers, reverent
+      silence.
+    details: Interior of principal church showing preparation for Sunday Mass. Stone altar draped with ceremonial cloth. Bishop's
+      ornate throne positioned prominently. Wooden benches arranged for congregation. Celtic crosses and religious artifacts
+      adorning walls. Candles being lit at altar. Incense burner releasing fragrant smoke. Morning light filtering through
+      narrow windows illuminating sacred space.
+    background: Stone walls with carved Celtic religious motifs, arched doorway leading to monastery grounds, additional religious
+      furnishings and sacred vessels
+    atmosphere: Solemn reverence and anticipation before important Sunday Mass, quiet murmur of preparation, sacred stillness
+      broken only by soft footsteps and whispered prayers, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from inside church looking toward altar and entrance
+    focus: The sacred preparation and religious atmosphere before the miraculous event
+    depth: Foreground shows altar preparations, middle ground reveals bishop and monks, background displays church architecture
+      and entrance arch
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

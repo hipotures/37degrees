@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Parliamentary Debate on Window Tax Proposal"
+  setting:
+    time: "1696, late afternoon"
+    location: "House of Commons chamber, Palace of Westminster, London, England"
+    weather: "Overcast autumn day"
+  characters:
+    - appearance: "Caucasian man, 50s, thin build, sharp features, calculating eyes, stern expression"
+      clothing: "Black wool coat, white powdered wig, leather satchel, quill pen tucked behind ear"
+      position: "Standing at central podium addressing seated members"
+      action: "Gesturing toward large parchment document while speaking to assembly"
+    - appearance: "Multiple Caucasian men, 30s-60s, varied builds, attentive expressions"
+      clothing: "Dark wool coats, white powdered wigs, formal parliamentary attire"
+      position: "Seated on wooden benches arranged in opposing rows"
+      action: "Listening intently to speaker, some taking notes with quill pens"
+  scene:
+    mainElements: "Wooden benches arranged in opposing rows, ornate carved speaker's chair, royal coat of arms mounted on wall"
+    details: "Tall Gothic windows casting gray light into chamber, oil lamps providing additional illumination, formal parchment documents scattered on benches, ornate wooden paneling with royal insignia, heavy wooden doors with iron hardware, stone floor with decorative patterns"
+    background: "Gothic stone architecture with high arched ceiling, royal portraits in gilt frames, ceremonial banners hanging from walls"
+    atmosphere: "Formal governmental setting with heavy wooden panels and ceremonial atmosphere, serious political discussion underway, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot from gallery perspective"
+    focus: "Central speaker at podium holding tax proposal document"
+    depth: "Speaker in foreground, seated parliamentarians in middle ground, royal insignia and Gothic architecture in background"

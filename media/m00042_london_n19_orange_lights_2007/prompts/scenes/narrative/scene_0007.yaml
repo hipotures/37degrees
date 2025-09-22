@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Emergency Calls to Police"
+  setting:
+    time: "January 31, 2007, 17:33-17:36 (5:33-5:36 PM), evening"
+    location: "Various locations across N19 area, Archway"
+    weather: "Overcast conditions, cold January evening, no precipitation"
+  characters:
+    - appearance: "Woman, 34 years old, practical build typical of working-class market trader, alert and observant"
+      clothing: "Dark winter coat suitable for late January evening, practical footwear for collecting child from nursery, scarf and gloves"
+      position: "Standing on street with mobile phone pressed to ear"
+      action: "Making urgent phone call to emergency services, speaking rapidly with concerned expression"
+  scene:
+    mainElements: "Mobile phone used by witnesses to contact emergency services, multiple calls within minutes of sighting"
+    details: "Character holding mobile phone to ear with urgent expression, speaking rapidly to emergency services, other witnesses in background also making phone calls, sense of alarm and need to report unusual event, multiple people reaching for phones simultaneously"
+    background: "Victorian terraced houses with bay windows, local shops with illuminated signs, orange lights still visible in evening sky"
+    atmosphere: "Sense of alarm and urgency, multiple witnesses reporting same phenomenon, community response to unexplained event, collective concern requiring official response"
+  composition:
+    cameraAngle: "Close-up shot focusing on emergency phone call"
+    focus: "Character AM making urgent 999 call with concerned expression"
+    depth: "Foreground shows character with phone, middle ground features other concerned witnesses, background shows orange lights still visible against London evening sky, no text or letters visible"

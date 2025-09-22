@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Bridge Construction - Spanning Tacoma Narrows"
+  setting:
+    time: "1939, summer"
+    location: "Tacoma Narrows construction site during bridge building"
+    weather: "Clear Pacific Northwest summer day"
+  characters:
+    - appearance: "American man, 30s, construction worker build, weathered hands, experienced expression"
+      clothing: "1940s work clothes with hard hat, tool belt, sturdy boots"
+      position: "Working on bridge construction high above water"
+      action: "Industrial worker stance, installing suspension cables and deck sections"
+  scene:
+    mainElements: "Suspension bridge under construction spanning deep waters with towers and cables being installed"
+    details: "Massive steel suspension cables being strung between towers, narrow bridge deck sections being installed, construction equipment and scaffolding, workers high above Puget Sound waters, construction cranes and machinery, bridge taking elegant slender shape"
+    background: "Deep blue waters of Puget Sound with forested shores on both sides, Pacific Northwest mountains in distance, dramatic maritime geography"
+    atmosphere: "Pacific Northwest maritime environment with engineering marvel taking shape, ambitious construction project in dramatic natural setting, pride in innovative design, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing bridge construction in natural setting"
+    focus: "Elegant suspension bridge construction over dramatic waterway"
+    depth: "Bridge construction in foreground, Puget Sound waters in middle ground, forested Pacific Northwest landscape in background"

@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: 1386, late afternoon
+    location: Stone courtroom chamber, Falaise castle, Normandy, France
+    weather: Dim afternoon light with approaching evening
+  characters:
+  - appearance: Middle-aged man, 50s, stern expression, graying beard, authoritative presence
+    clothing: Black judicial robes with white collar, medieval cap of office, ceremonial chain
+    position: Standing at elevated wooden judge's bench, facing the court
+    action: Raising heavy wooden mallet high above head, mouth open pronouncing sentence
+  - appearance: Large domestic sow, approximately 3 years old, brown and pink coloring, heavy build around 300 pounds, intelligent
+      but wary eyes
+    clothing: No clothing, natural pig appearance
+    position: Standing in wooden defendant's enclosure, facing judge
+    action: Looking up at judge with alert expression, ears forward, unaware of sentence meaning
+  - appearance: Young man, 30s, scholarly appearance, intelligent eyes, clean-shaven
+    clothing: Brown scholar's robes, leather belt, ink-stained fingers from writing
+    position: Standing at defense table, head bowed in defeat
+    action: Accepting verdict with resignation, hands clasped before him, looking down
+  - appearance: Mixed group of men, women, children, various ages, curious and horrified expressions
+    clothing: Simple peasant clothes, brown and gray tunics, head coverings, work boots
+    position: Seated in gallery, leaning forward with anticipation
+    action: Reacting with gasps and murmurs, some covering mouths in shock, others nodding approval
+  scene:
+    mainElements: High stone walls with arched windows, wooden judge's bench elevated on platform, defendant's area with wooden
+      barrier
+    details: Heavy wooden mallet held high in judge's hand, parchment scrolls with official seals on bench, bronze bell gleaming
+      in candlelight, wooden crucifix casting long shadow, iron braziers flickering with dramatic lighting, stone floor with
+      scattered rushes, evidence table still displaying bloody cradle remnants
+    background: Arched stone windows with fading afternoon light, tapestries with heraldic symbols on walls, gallery packed
+      with villagers witnessing historic verdict
+    atmosphere: Climactic moment of medieval justice, formal pronouncement of death sentence on animal, mixture of legal solemnity
+      and extraordinary circumstances, dramatic lighting from braziers and failing daylight, historic precedent being set,
+      no text or letters visible
+  composition:
+    cameraAngle: Low angle shot emphasizing judge's authority and raised gavel
+    focus: Judge's dramatic gesture of pronouncing sentence, pig's innocent unawareness
+    depth: Foreground shows judge's commanding presence, middle ground captures pig defendant's oblivious stance, background
+      reveals shocked crowd reaction
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,17 @@
+sceneDescription:
+  title: "The Night UVB-76 Disappeared - Povarovo Evacuation"
+  setting:
+    time: "October 2010, foggy autumn night"
+    location: "Abandoned military complex northwest of Moscow, overgrown with vegetation"
+    weather: "Dense fog reducing visibility to mere meters, cold autumn air"
+  characters:
+    No characters present in this scene
+  scene:
+    mainElements: "Rusted radio equipment, empty guard posts, concrete structures"
+    details: "Military vehicles departed hastily leaving tire tracks in mud, abandoned radio equipment covered in rust and corrosion, empty guard towers with broken windows, concrete transmission buildings with doors left ajar, scattered technical manuals and equipment parts, power cables disconnected and coiled on ground"
+    background: "Dense forest surrounding abandoned facility, transmission towers silhouetted against foggy sky, access road showing recent heavy vehicle traffic, security fencing with gates left open"
+    atmosphere: "Foggy autumn night in 2010, sudden military evacuation, eerie silence, mysterious abandonment after decades of operation, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle wide shot emphasizing abandonment and desolation"
+    focus: "Empty transmission facility with evidence of hasty evacuation"
+    depth: "Foreground shows abandoned equipment and tire tracks, middle ground reveals empty buildings, background displays transmission towers disappearing into fog"

@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Laser Pulse System Calibration"
+  setting:
+    time: "2024, afternoon"
+    location: "Specialized dark chamber for ultrafast imaging demonstrations within INRS facility"
+  characters:
+    - appearance: "Asian-Canadian man, 40s, focused expression, dark hair, wire-rim glasses"
+      clothing: "White lab coat over dark shirt, or casual dark suit with no tie"
+      position: "Standing at laser control panel, wearing safety glasses"
+      action: "Fine-tuning laser pulse parameters while monitoring beam characteristics"
+    - appearance: "South Asian man, 28s, enthusiastic expression, black hair, slight beard"
+      clothing: "Dark sweater or button-down shirt under lab coat"
+      position: "Seated at computer terminal with spectral analysis equipment"
+      action: "Analyzing spectral data and pulse timing characteristics on multiple displays"
+  scene:
+    mainElements: "Advanced laser system generating chirped ultrashort pulses that sweep through wavelengths from red to violet, enabling femtosecond time resolution imaging"
+    details: "Sophisticated laser pulse generation system featuring femtosecond laser source, pulse shaping optics, beam expansion and collimation systems, wavelength tuning mechanisms, and precision timing electronics. Multiple beam monitoring devices display pulse characteristics while spectral analysis equipment shows the chirped pulse structure sweeping from red through orange, yellow, green, blue to violet wavelengths."
+    background: "Enclosed testing environment with laser pulse generation equipment and target materials, safety interlocks and beam dumps"
+    atmosphere: "Controlled, dimly lit scientific testing environment with precise measurement capabilities, illuminated primarily by equipment displays and laser safety indicators, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing the laser system and operators"
+    focus: "The advanced laser pulse generation system and calibration process"
+    depth: "Foreground displays laser controls and monitoring equipment, middle ground shows researchers operating systems, background reveals additional safety and measurement devices"

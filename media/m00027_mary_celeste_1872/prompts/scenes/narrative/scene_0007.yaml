@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Captain's Cabin Investigation - Missing Navigation Equipment"
+  setting:
+    time: "December 5, 1872, afternoon investigation"
+    location: "Captain's private cabin aboard Mary Celeste with navigation table and personal quarters"
+    weather: "Cold December Atlantic with ship gently rolling in moderate seas"
+  characters:
+    - appearance: "Experienced sailor in his 30s, strong build necessary for boarding operations, practical seaman's attire"
+      clothing: "Heavy wool peacoat, waterproof oilskins, sturdy sea boots, knit cap, equipped with maritime tools"
+      position: "Standing in captain's cabin examining navigation table and storage areas"
+      action: "Systematically searching for missing navigation equipment and ship's papers while noting disturbing absences"
+  scene:
+    mainElements: "Captain's cabin with empty navigation table showing obvious gaps where chronometer and sextant should be, ship's log book left open but other official documents missing, personal belongings undisturbed but essential maritime equipment gone"
+    details: "Empty wooden case where ship's chronometer should be stored, navigation table with compass rose markings but missing precision timepiece, ship's log open to November 25 entry but certificate of registry and cargo manifest missing, captain's personal effects including clothing and toiletries left undisturbed, child's toys including wooden doll abandoned in corner, family photographs and personal items suggesting hasty but planned departure"
+    background: "Small cabin with wooden paneling typical of merchant vessel captain's quarters, porthole showing view of Atlantic Ocean, oil lamp hanging from ceiling beam, nautical charts rolled and stored on shelves, captain's bunk with personal belongings"
+    atmosphere: "Growing mystery as evidence suggests orderly departure rather than emergency abandonment, sense of interrupted family life with personal belongings left behind, professional concern about missing navigation equipment essential for ocean travel"
+  composition:
+    cameraAngle: "Medium shot from cabin doorway showing investigator examining navigation equipment"
+    focus: "Empty chronometer case and missing navigation equipment as central focal points"
+    depth: "Foreground shows detailed view of navigation table with obvious gaps, middle ground captures investigating crew member, background reveals personal family belongings and cabin interior, no text or letters visible"

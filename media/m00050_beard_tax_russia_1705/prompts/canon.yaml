@@ -1,0 +1,101 @@
+canon:
+  characters:
+    - id: "character_PG"
+      name: "Character PG"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, early 30s, tall imposing build, clean-shaven face, intense dark eyes, prominent nose"
+            clothing: "European-style navy blue military uniform with gold epaulettes and buttons, or formal Western coat with white cravat"
+            posture: "Commanding presence, often gesturing authoritatively or holding documents"
+    - id: "character_boyar_elder"
+      name: "Character Boyar Elder"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 50s, stocky build, full long gray beard, weathered face, dignified bearing"
+            clothing: "Traditional Russian long kaftan in dark colors, fur-trimmed cap or hat"
+            posture: "Proud but defensive stance, often stroking beard or holding traditional items"
+    - id: "character_noble_young"
+      name: "Character Noble Young"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, late 20s, lean build, recently shaved or partially bearded, nervous expression"
+            clothing: "Mix of European and Russian clothing - Western jacket with traditional Russian elements"
+            posture: "Uncertain, often touching face or looking between traditional and modern influences"
+    - id: "character_merchant"
+      name: "Character Merchant"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, round build, thick brown beard, calculating eyes"
+            clothing: "Rich merchant robes with fur trim, ornate belt with coin purse"
+            posture: "Counting coins or examining goods, often with hands on valuables"
+    - id: "character_peasant"
+      name: "Character Peasant"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s, wiry build, unkempt beard, simple weathered face"
+            clothing: "Rough woolen shirt, leather vest, simple trousers and boots"
+            posture: "Humble, often bowing or working with hands, carrying simple tools"
+    - id: "character_orthodox_priest"
+      name: "Character Orthodox Priest"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 60s, tall thin build, long flowing black beard, solemn expression"
+            clothing: "Black Orthodox robes with ornate crosses, tall black hat"
+            posture: "Dignified, often blessing or holding religious items, protective of traditions"
+  locations:
+    - id: "kremlin_court"
+      name: "Kremlin Court"
+      description_block: |
+        setting:
+          location: "Grand hall within Moscow Kremlin, ornate Russian palace interior with high vaulted ceilings"
+        mainElements: "Massive wooden throne, decorative pillars, Russian Orthodox icons on walls"
+        atmosphere: "Formal, tense, seat of imperial power with traditional Russian grandeur"
+    - id: "moscow_street"
+      name: "Moscow Street"
+      description_block: |
+        setting:
+          location: "Cobblestone street in early 18th century Moscow with wooden houses and onion-domed churches"
+        mainElements: "Traditional Russian wooden buildings, church spires, market stalls, snow-covered ground"
+        atmosphere: "Bustling but traditional, representing old Russian way of life before modernization"
+    - id: "barbershop"
+      name: "Barbershop"
+      description_block: |
+        setting:
+          location: "Small wooden shop interior with European-style furnishings and barbering tools"
+        mainElements: "Wooden chair, sharp razors on table, mirror, basin for washing, Western-style decor"
+        atmosphere: "Modern European influence, site of cultural transformation and conflict"
+    - id: "orthodox_church"
+      name: "Orthodox Church"
+      description_block: |
+        setting:
+          location: "Interior of Russian Orthodox church with golden iconostasis and religious paintings"
+        mainElements: "Ornate golden altar screen, religious icons, candles, incense burners"
+        atmosphere: "Sacred, traditional, representing spiritual resistance to change"
+    - id: "merchant_market"
+      name: "Merchant Market"
+      description_block: |
+        setting:
+          location: "Outdoor marketplace in Moscow with wooden stalls and trading goods"
+        mainElements: "Wooden vendor stalls, various goods, scales for weighing, money pouches"
+        atmosphere: "Commercial, bustling with trade and economic concerns about new taxes"
+  items:
+    - id: "beard_token"
+      name: "Beard Token"
+      description_block: |
+        details: "Small metal coin or medallion with imperial markings, proof of beard tax payment"
+    - id: "razor"
+      name: "Razor"
+      description_block: |
+        details: "Sharp metal blade with wooden handle, symbol of forced modernization"
+    - id: "imperial_decree"
+      name: "Imperial Decree"
+      description_block: |
+        details: "Formal parchment document with imperial seals announcing beard tax policy"
+    - id: "traditional_kaftan"
+      name: "Traditional Kaftan"
+      description_block: |
+        details: "Long Russian coat with ornate patterns and fur trim, symbol of old traditions"
+    - id: "european_jacket"
+      name: "European Jacket"
+      description_block: |
+        details: "Western-style formal coat with buttons and fitted cut, representing modernization"

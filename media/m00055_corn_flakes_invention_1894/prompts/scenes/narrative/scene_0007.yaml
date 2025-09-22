@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The crucial moment - rolling dried dough into flakes"
+  setting:
+    time: "1894, mid-morning"
+    location: "Large institutional kitchen inside Battle Creek Sanitarium, Michigan"
+    weather: "Bright clear morning with strong natural light"
+  characters:
+    - appearance: "Caucasian man, 40s, tall and lean build, intense dark eyes, full dark beard, stern expression"
+      clothing: "1890s white medical coat over dark suit, or formal black suit with white shirt and bow tie"
+      position: "Operating the large mechanical roller device"
+      action: "Feeding the dried wheat-berry dough through the rolling machine, watching intently as unexpected flakes emerge"
+    - appearance: "Caucasian man, 30s, shorter than his brother, clean-shaven, practical demeanor, focused expression"
+      clothing: "1890s dark business suit with vest, white shirt, simple necktie, sometimes wearing work apron"
+      position: "Standing beside the rolling machine, catching the output"
+      action: "Collecting the individual wheat flakes as they emerge from the roller, examining them with amazement"
+  scene:
+    mainElements: "Large mechanical roller device made of metal and wood, used for flattening grain dough into sheets, work table with emerging wheat flakes"
+    details: "Thin, crispy flakes of wheat scattered on metal tray, golden-brown color, each flake individual and delicate, rolling machine in operation, brothers working together in discovery moment, no text or letters visible"
+    background: "Kitchen equipment and storage areas, morning light creating dramatic shadows"
+    atmosphere: "Moment of breakthrough discovery, excitement and surprise at unexpected results, sense of witnessing history in the making"
+  composition:
+    cameraAngle: "Medium shot capturing both the machine and operators"
+    focus: "The rolling machine producing the first wheat flakes with both brothers reacting"
+    depth: "Foreground shows emerging flakes, middle ground shows both characters and machine, background shows kitchen setting"

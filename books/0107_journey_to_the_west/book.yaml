@@ -4,3 +4,182 @@ book_info:
   author: "Wu Cheng'en"
   year: 16th century
   genre: "Novel,Mythology"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T12:00:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 10
+    contemporary_reception: 9
+    relevance: 8
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 66
+    percentile: 92
+
+  composite_scores:
+    depth:
+      value: 8.2
+      category: "high"
+    heat:
+      value: 8.2
+      category: "high"
+
+  themes:
+    universal:
+      - id: "taoist_alchemy"
+        type: "FACT"
+        credibility: 0.95
+        content: "Hidden recipes for Golden Pill of Immortality - secret practices of Taoist internal alchemy from Song dynasty"
+        source: "dark_drama"
+      - id: "religious_syncretism"
+        type: "FACT"
+        credibility: 0.95
+        content: "Deliberately uses mutually interpretative terms allowing different interpretations as Buddhism, Taoism, Confucianism allegories"
+        source: "dark_drama"
+      - id: "archetypal_development"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Sun Wukong represents archetypal image in collective unconscious, ego-Self connection in analytical psychology"
+        source: "symbols_meanings"
+      - id: "political_rebellion"
+        type: "FACT"
+        credibility: 0.95
+        content: "Sun Wukong's rebellion against Heaven represents powerful symbol of resistance against authority and oppression"
+        source: "dark_drama"
+      - id: "cultural_empowerment"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Contemporary scholars utilize reception aesthetics and Cultural Empowerment Theory analyzing adaptations"
+        source: "symbols_meanings"
+      - id: "vernacular_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary writing in colloquial Chinese rather than classical literary Chinese, democratizing literature"
+        source: "writing_innovation"
+      - id: "gaming_renaissance"
+        type: "FACT"
+        credibility: 0.95
+        content: "Black Myth Wukong 20 million copies sold in first month, 2.2 million concurrent Steam players, 2024 phenomenon"
+        source: "youth_digital"
+      - id: "relationship_wisdom"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Tang Sanzang vs Sun Wukong patterns reveal toxic control dynamics, modern red flags in relationships"
+        source: "reality_wisdom"
+
+    localized:
+      en:
+        cultural_impact: "Influential English translations by Arthur Waley (1942) and Anthony C. Yu (1977-2012), university curriculum integration across Columbia, Yale, Harvard, Princeton"
+        key_editions: ["Waley's 'Monkey' (1942)", "Yu's Complete Translation (4 volumes)", "Julia Lovell Contemporary Translation (2021)"]
+        reception_notes: "Strong academic presence despite absence from Western canon, influenced English-language writers like Maxine Hong Kingston"
+        educational_status: "Required reading in East Asian Studies programs at major universities"
+        local_themes: ["Cross-cultural comparative literature", "Asian-American identity exploration", "Archetypal analysis"]
+
+      pl:
+        cultural_impact: "Limited reception through Prof. Tadeusz Żbikowski translations (1976-1984), strong sinological tradition at University of Warsaw"
+        key_editions: ["Małpi bunt (1976)", "Wędrówka na Zachód (1984)", "Czytelnik editions"]
+        reception_notes: "Contemporary renaissance through Black Myth Wukong game, Dragon Ball anime popularity"
+        educational_status: "Required reading in sinological programs, absent from secondary school canon"
+        local_themes: ["Cultural differences in authority perception", "Gaming community engagement", "Academic sinology tradition"]
+
+      de:
+        cultural_impact: "Strong academic tradition in German sinology, philosophical interpretations through Romantic movement influence"
+        key_editions: ["Reclam editions", "Scholarly editions with extensive commentary"]
+        reception_notes: "Emphasis on philosophical and psychoanalytic readings, academic discourse focus"
+        educational_status: "Integrated in Oriental Studies and Comparative Literature programs"
+        local_themes: ["Philosophical interpretations", "Psychoanalytic readings", "Romantic movement connections"]
+
+      fr:
+        cultural_impact: "French sinological tradition, integration with postcolonial studies and structuralist analysis"
+        key_editions: ["Academic French translations", "University press editions"]
+        reception_notes: "Strong theoretical framework analysis, connection to French literary theory"
+        educational_status: "Part of Oriental Studies and Comparative Literature curricula"
+        local_themes: ["Postcolonial analysis", "Structuralist interpretation", "French literary theory application"]
+
+      es:
+        cultural_impact: "Growing interest through gaming culture and Latin American magical realism connections"
+        key_editions: ["Spanish academic translations", "Popular culture adaptations"]
+        reception_notes: "Connection to magical realism traditions, youth engagement through gaming"
+        educational_status: "Emerging presence in comparative literature programs"
+        local_themes: ["Magical realism parallels", "Gaming culture influence", "Hispanic fantasy traditions"]
+
+      pt:
+        cultural_impact: "Academic reception in Portuguese universities, connections to Brazilian comparative literature"
+        key_editions: ["Portuguese academic editions", "Brazilian university texts"]
+        reception_notes: "Integration with comparative mythology studies"
+        educational_status: "Specialized academic programs focus"
+        local_themes: ["Comparative mythology", "Academic literary analysis", "Cross-cultural studies"]
+
+      ja:
+        cultural_impact: "Massive cultural influence through anime/manga, particularly Dragon Ball adaptation by Toriyama"
+        key_editions: ["Multiple Japanese adaptations", "Anime/manga derivatives", "Academic editions"]
+        reception_notes: "Cultural transformation from Chinese classic to Japanese pop culture icon"
+        educational_status: "Both academic study and popular culture phenomenon"
+        local_themes: ["Anime/manga adaptation", "Cultural transformation", "Pop culture integration"]
+
+      ko:
+        cultural_impact: "Contemporary reinterpretations like 'A Korean Odyssey' (2017), manhwa adaptations"
+        key_editions: ["Korean translations", "Manhwa adaptations", "K-drama versions"]
+        reception_notes: "Modern context adaptations combining traditional motifs with contemporary issues"
+        educational_status: "Part of East Asian literature studies"
+        local_themes: ["Contemporary Korean adaptations", "Modern issue integration", "K-culture transformation"]
+
+      hi:
+        cultural_impact: "Growing recognition through global gaming culture, connections to Hindu mythology (Hanuman parallels)"
+        key_editions: ["Hindi academic translations", "Comparative mythology texts"]
+        reception_notes: "Interest in comparative mythology and archetypal analysis"
+        educational_status: "Emerging in comparative literature and mythology studies"
+        local_themes: ["Hanuman mythology parallels", "Comparative religious studies", "Archetypal connections"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "taoist_esoteric_foundations"
+          lead: "host_a"
+          description: "Hidden alchemy practices and secret spiritual manual encoding"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "archetypal_psychological_analysis"
+          lead: "host_b"
+          description: "Jungian interpretation and collective unconscious manifestation"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "literary_innovation_impact"
+          lead: "host_a"
+          description: "Vernacular revolution and archetypal character development"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "religious_philosophical_synthesis"
+          lead: "host_b"
+          description: "Three Teachings integration and syncretistic approach"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "contemporary_scholarly_relevance"
+          lead: "host_a"
+          description: "Modern interpretations and ongoing academic significance"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing Journey to the West with scholarly depth. Discuss archetypal significance, religious syncretism, literary innovation. Focus on how Wu Cheng'en created revolutionary vernacular literature encoding profound esoteric teachings through Buddhist-Taoist-Confucian synthesis."
+        host_b: "You are {female_name}, a graduate student in comparative literature. Ask for clarification on complex concepts, request examples of Jungian archetypes, connect to contemporary literary theory. Help make scholarly analysis accessible while maintaining intellectual rigor."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["political interpretations", "religious syncretism", "historical violence references"]
+    educational_elements: ["Novel,Mythology genre characteristics", "Historical context of 16th century Ming Dynasty", "Buddhist-Taoist philosophical integration", "Archetypal literary analysis"]
+    production_notes:
+      intro_style: "scholarly yet accessible, establishing academic credibility"
+      transitions: "subtle musical bridges with East Asian instrumental elements"
+      outro_style: "synthesis of complex themes with contemporary relevance"
+
+  overall_confidence: 0.92

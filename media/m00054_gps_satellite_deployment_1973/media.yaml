@@ -1,0 +1,11 @@
+media_info:
+  title: GPS Satellite System Deployment - 1973-2000
+  genre: Science & Technology Documentary
+  description: Military navigation system becomes available to civilians after being developed for nuclear submarine tracking
+  target_audience: General public, students, technology enthusiasts, military history buffs
+  duration: ~3 minutes
+  objective: Recreate the development and civilian release of GPS technology that revolutionized navigation
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

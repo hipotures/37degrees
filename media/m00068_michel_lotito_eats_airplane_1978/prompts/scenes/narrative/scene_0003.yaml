@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Challenge Presented - Discovering the Cessna 150"
+  setting:
+    time: "1978, morning"
+    location: "Large aircraft hangar containing disassembled Cessna 150 aircraft"
+    weather: "Clear morning light filtering through hangar windows"
+  characters:
+    - appearance: "French man, 30s, medium build, distinctive intense dark eyes, average height, concentrated expression when eating unusual objects"
+      clothing: "Simple 1970s casual wear - button-down shirts, dark trousers, sometimes white lab coat during medical examinations"
+      position: "Standing beside the aircraft, hands on hips"
+      action: "Carefully examining the airplane, walking around it with thoughtful concentration"
+  scene:
+    mainElements: "Concrete floor, high ceiling with metal beams, aircraft parts arranged on tables and floor"
+    details: "Small single-engine aircraft, white and blue paint scheme, partially disassembled into components - wings, fuselage sections, engine parts, landing gear scattered around hangar floor, work tables with airplane parts, metal framework visible in ceiling"
+    background: "Industrial hangar setting with high metal beam ceiling, large sliding doors, tool storage areas"
+    atmosphere: "Spacious industrial environment, echoing sounds, organized chaos of airplane components"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position"
+    focus: "Man examining the complete Cessna 150 aircraft"
+    depth: "Foreground: character and immediate airplane parts, middle ground: complete aircraft, background: hangar structure and distant equipment, no text or letters visible"

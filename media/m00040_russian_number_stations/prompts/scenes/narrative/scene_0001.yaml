@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Cold War Era Radio Intelligence Birth"
+  setting:
+    time: "1950s, evening twilight"
+    location: "Underground military facility near Saint Petersburg, Russia, surrounded by forest"
+    weather: "Clear cold evening with frost forming on equipment"
+  characters:
+    - appearance: "Mid-30s military bearing man, short dark hair, pale complexion from underground work"
+      clothing: "Soviet-era military uniform with radio operator insignia, headphones around neck"
+      position: "Seated at radio transmission console in underground bunker"
+      action: "Adjusting dials and switches on massive radio equipment, preparing for transmission"
+  scene:
+    mainElements: "Massive radio towers, concrete bunkers, restricted military zone signs"
+    details: "Banks of vacuum tube equipment glowing warmly, analog meters flickering, thick cables running across concrete floors, multiple shortwave radios tuned to different frequencies, stacks of coded message sheets on metal desk, large frequency charts mounted on walls"
+    background: "Steel reinforced concrete walls, fluorescent lighting casting harsh shadows, sound dampening materials, emergency exit signs, ventilation ducts"
+    atmosphere: "Cold, sterile, constant electrical humming, guards patrol perimeter, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from bunker entrance"
+    focus: "Radio operator at transmission console surrounded by glowing equipment"
+    depth: "Foreground shows entrance security door, middle ground reveals operator at work, background displays massive radio transmission equipment"

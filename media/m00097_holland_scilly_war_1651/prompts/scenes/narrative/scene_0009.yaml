@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Historical Discovery - 1985"
+  setting:
+    time: "1985, afternoon"
+    location: "Isles of Scilly Council building with historical research"
+    weather: "Overcast day typical of British Isles"
+  characters:
+    - appearance: "English man, 60s, local historian appearance, gray hair, wire-rimmed spectacles"
+      clothing: "1980s formal suit with tie, carrying briefcase and historical documents"
+      position: "Sitting at desk surrounded by historical archives"
+      action: "Academic bearing, examining documents and making discovery about forgotten war"
+  scene:
+    mainElements: "Local government meeting room with historical documents and maps on walls"
+    details: "17th century maritime records, war declarations, diplomatic correspondence in archive boxes spread across desk, official letters and documents, maps of Scilly from different periods, research books and files, desk lamp illuminating historical papers, telephone for contacting Dutch Embassy"
+    background: "Council chamber walls with historical maps and local government materials, windows showing Scilly landscape outside"
+    atmosphere: "Small island administration dealing with unique historical discovery, academic research uncovering bureaucratic oversight, moment of historical detective work, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing historian with archives"
+    focus: "Historical research uncovering forgotten diplomatic oversight"
+    depth: "Historian and documents in foreground, council chamber in middle ground, island views through windows in background"

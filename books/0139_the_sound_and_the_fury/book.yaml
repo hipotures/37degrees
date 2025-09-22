@@ -4,3 +4,182 @@ book_info:
   author: "William Faulkner"
   year: 1929
   genre: "Modernist,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T14:35:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 10
+    cultural_phenomenon: 7
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 10
+    structural_complexity: 10
+    social_roles: 9
+    total: 67
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 9.8
+      category: "high"
+    heat:
+      value: 7.0
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "temporal_fragmentation"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Revolutionary non-linear narrative structure with four-part symphony organization, mixing chronological order and psychological time"
+        source: "writing_innovation"
+      - id: "stream_consciousness"
+        type: "FACT"
+        credibility: 0.98
+        content: "Pioneered stream of consciousness technique in American literature with three distinct narrative voices representing different mental states"
+        source: "writing_innovation"
+      - id: "family_dysfunction"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Compson family breakdown mirrors contemporary mental health crisis, communication fragmentation, and generational trauma patterns"
+        source: "reality_wisdom"
+      - id: "modernist_revolution"
+        type: "FACT"
+        credibility: 0.95
+        content: "Rejected linear storytelling to create fragmentary narrative reflecting modern consciousness and subjective reality"
+        source: "symbols_meanings"
+      - id: "disability_representation"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Revolutionary portrayal of neurodivergent character Benjy, giving narrative voice to intellectual disability despite problematic 1929 terminology"
+        source: "dark_drama"
+      - id: "social_decay"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Depicts collapse of Southern aristocracy as microcosm of broader American social transformation after Civil War"
+        source: "culture_impact"
+      - id: "time_obsession"
+        type: "FACT"
+        credibility: 0.92
+        content: "Quentin's broken watch symbolizes modern anxiety about time, paralleling digital age concerns about temporal fragmentation"
+        source: "youth_digital"
+      - id: "biblical_structure"
+        type: "ANALYSIS"
+        credibility: 0.88
+        content: "Four chapters mirror four gospels while title references Macbeth, creating complex religious and literary symbolism"
+        source: "symbols_meanings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical American modernist text, Nobel Prize influence, university curricula standard"
+        key_editions: ["Norton Critical Edition", "Modern Library", "Random House Vintage"]
+        reception_notes: "Initially difficult but now recognized as masterpiece, academic home since 1940s"
+        educational_status: "Essential reading for American literature courses"
+        local_themes: ["American South decline", "Modernist techniques", "Regional consciousness"]
+
+      pl:
+        cultural_impact: "Pioneering modernist translation by Anna Przedpełska-Trzeciakowska, high school required reading"
+        key_editions: ["Czytelnik 1971", "W.A.B. 2020", "Nike pocket series"]
+        reception_notes: "Compared to Ulysses difficulty, symbol of high literature in Poland"
+        educational_status: "Liceum reading requirement, enormous concentration needed"
+        local_themes: ["Family breakdown universality", "Stream consciousness technique", "Translation challenges"]
+
+      de:
+        cultural_impact: "Exceptional translation by Frank Heibert praised as 'quantum leap' by German critics"
+        key_editions: ["Rowohlt 2014", "Diogenes Verlag editions"]
+        reception_notes: "Compared to James Joyce, Vienna Festival theatrical adaptation 2009"
+        educational_status: "University American Studies programs, comparative literature"
+        local_themes: ["Modernist innovation", "Consciousness studies", "Frankfurt School resonance"]
+
+      fr:
+        cultural_impact: "Early enthusiastic European reception in 1930s, existentialist influence on Sartre and Camus"
+        key_editions: ["Gallimard translations", "Academic editions"]
+        reception_notes: "Better understood in Europe than initial US reception"
+        educational_status: "Comparative literature programs, modernist studies"
+        local_themes: ["Existential absurd", "Narrative authenticity", "Temporal philosophy"]
+
+      es:
+        cultural_impact: "Influenced Gabriel García Márquez and magical realism development"
+        key_editions: ["Spanish translations", "Latin American editions"]
+        reception_notes: "Bridge to Latin American boom literature"
+        educational_status: "University literature programs"
+        local_themes: ["Magical realism influence", "Narrative techniques", "Regional literature"]
+
+      pt:
+        cultural_impact: "Brazilian modernist reception, influence on experimental Portuguese writing"
+        key_editions: ["Brazilian translations", "Portuguese editions"]
+        reception_notes: "Modernist techniques adoption"
+        educational_status: "University comparative literature"
+        local_themes: ["Brazilian modernism", "Stream consciousness", "Social commentary"]
+
+      ja:
+        cultural_impact: "Buddhist interpretation of time and suffering, mono no aware concept application"
+        key_editions: ["Japanese translations", "Academic editions"]
+        reception_notes: "Zen understanding of transience and psychological time"
+        educational_status: "American literature studies"
+        local_themes: ["Temporal transience", "Buddhist suffering", "Modern alienation"]
+
+      ko:
+        cultural_impact: "Modern Korean literature influence, narrative technique adoption"
+        key_editions: ["Korean translations"]
+        reception_notes: "Modernist technique influence on Korean writers"
+        educational_status: "University American studies"
+        local_themes: ["Modern consciousness", "Family dynamics", "Social change"]
+
+      hi:
+        cultural_impact: "English-language reception in Indian academia, postcolonial readings"
+        key_editions: ["Indian reprints", "Academic editions"]
+        reception_notes: "Postcolonial modernist interpretation"
+        educational_status: "English literature programs"
+        local_themes: ["Colonial discourse", "Modern identity", "Narrative innovation"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions and seeking details"
+        host_b: "eyewitness to the story describing scenes and emotional impact"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "mystery_setup"
+          lead: "host_a"
+          description: "Introducing the fragmented Compson family story as a puzzle to be solved"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "evidence_gathering"
+          lead: "host_b"
+          description: "Piecing together Benjy's sensory memories and the April 1928 weekend"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "flashback_investigation"
+          lead: "host_a"
+          description: "Uncovering Quentin's 1910 Harvard crisis and family honor obsession"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "present_revelations"
+          lead: "host_b"
+          description: "Jason's financial manipulation and Caddy's daughter's escape discovered"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "truth_assembly"
+          lead: "host_a"
+          description: "How Dilsey's Easter perspective reveals the complete family tragedy"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter piecing together the complex story of 'The Sound and the Fury'. Ask probing questions about the fragmented narrative structure, seek details about each character's perspective, and help listeners understand how Faulkner deliberately obscures then reveals truth. Focus on uncovering the hidden timeline and family secrets."
+        host_b: "You are {female_name}, an eyewitness bringing the Compson family story to life. Describe the vivid scenes from each brother's perspective, share the emotional weight of their memories, and help listeners experience the sensory details that make this modernist masterpiece so powerful. Paint the decay of the old South through intimate family moments."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical disability terminology", "mental health themes", "family trauma", "suicide discussion"]
+    educational_elements: ["stream of consciousness technique", "modernist narrative structure", "psychological realism", "Southern Gothic tradition"]
+    production_notes:
+      intro_style: "mysterious and fragmented, reflecting the book's puzzle-like structure"
+      transitions: "temporal shifts with subtle audio cues"
+      outro_style: "contemplative resolution emphasizing enduring human themes"
+
+  overall_confidence: 0.91

@@ -1,0 +1,129 @@
+canon:
+  characters:
+    - id: "character_JD"
+      name: "Character JD"
+      description_block: |
+        characters:
+          - appearance: "32-year-old man, average build, dark hair, serious expression, concerned father"
+            clothing: "1970s casual attire - dark sweater or jacket, trousers, practical footwear"
+            posture: "Initially calm and protective, becomes increasingly anxious and confused"
+    - id: "character_ED"
+      name: "Character ED"
+      description_block: |
+        characters:
+          - appearance: "28-year-old woman, slender build, shoulder-length hair, concerned maternal expression"
+            clothing: "1970s casual wear - blouse or dress, cardigan, comfortable shoes"
+            posture: "Protective of children, supportive but cautious demeanor"
+    - id: "character_KD"
+      name: "Character KD"
+      description_block: |
+        characters:
+          - appearance: "10-year-old boy, alert expression, observant child"
+            clothing: "1970s school-age casual wear - jumper, trousers, trainers"
+            posture: "Attentive and curious, typical active child stance"
+    - id: "character_KAD"
+      name: "Character KAD"
+      description_block: |
+        characters:
+          - appearance: "11-year-old girl, typical pre-teen of the 1970s"
+            clothing: "Girl's casual wear appropriate for family outing - dress or skirt with jumper"
+            posture: "Quiet observer, somewhat reserved posture"
+    - id: "character_SD"
+      name: "Character SD"
+      description_block: |
+        characters:
+          - appearance: "7-year-old boy, small for age, sleepy expression"
+            clothing: "Child's comfortable clothing for car journey - sweater and trousers"
+            posture: "Often sleepy or drowsy, youngest family member"
+    - id: "character_AC"
+      name: "Character AC"
+      description_block: |
+        characters:
+          - appearance: "British UFO investigator, serious researcher demeanor, professional bearing"
+            clothing: "1970s professional attire - suit or blazer, formal investigative appearance"
+            posture: "Methodical and thorough, confident investigative stance"
+    - id: "character_LW"
+      name: "Character LW"
+      description_block: |
+        characters:
+          - appearance: "Medical professional, dental surgeon and hypnotist, authoritative bearing"
+            clothing: "Medical professional attire, formal and reassuring white coat or suit"
+            posture: "Clinical and careful, experienced professional demeanor"
+    - id: "tall_beings"
+      name: "Tall Extraterrestrial Beings"
+      description_block: |
+        characters:
+          - appearance: "Tall humanoid figures, peaceful demeanor, distinctive pink eyes, smooth features"
+            clothing: "One-piece colorless suits resembling surgical garments with hoods"
+            posture: "Calm and peaceful, non-threatening stance, communicating through gestures"
+    - id: "small_being"
+      name: "Small Creature Entity"
+      description_block: |
+        characters:
+          - appearance: "Small stature figure, fur-like covering, large prominent eyes, distinctive mouth"
+            clothing: "No clothing, natural fur covering body"
+            posture: "Observational role, making chirping sounds, curious but cautious"
+  locations:
+    - id: "hacton_lane"
+      name: "Hacton Lane near Hornchurch"
+      description_block: |
+        setting:
+          location: "Quiet country lane in Essex, England, surrounded by fields and hedgerows"
+        mainElements: "Narrow tarmac road, grass verges, trees creating natural tunnel effect, minimal street lighting"
+        atmosphere: "Dark October evening, rural silence, growing sense of isolation"
+    - id: "green_mist_zone"
+      name: "Green Mist Phenomenon Area"
+      description_block: |
+        setting:
+          location: "Supernatural atmospheric disturbance covering entire road width on Hacton Lane"
+        mainElements: "Dense green fog bank, 8-9 feet high, completely opaque, unnaturally luminous interior"
+        atmosphere: "Cold temperature, eerie supernatural lighting, complete silence, otherworldly presence"
+    - id: "examination_room"
+      name: "Alien Spacecraft Interior"
+      description_block: |
+        setting:
+          location: "Large room with curved walls inside alleged extraterrestrial craft"
+        mainElements: "Examination tables, advanced scanning technology, curved architecture, bright lighting"
+        atmosphere: "Clinical environment, peaceful but alien, technological ambiance, controlled illumination"
+    - id: "family_home_aveley"
+      name: "Family Residence in Aveley"
+      description_block: |
+        setting:
+          location: "Typical 1970s family home in Aveley, Essex suburb"
+        mainElements: "Modest house exterior, family furnishings visible through windows, domestic environment"
+        atmosphere: "Initially safe family space, later scene of reported paranormal disturbances"
+    - id: "harold_hill_location"
+      name: "Harold Hill Departure Point"
+      description_block: |
+        setting:
+          location: "Suburban area in Harold Hill, Essex, England, evening departure location"
+        mainElements: "Residential streets, 1970s housing estates, family car parked outside friend's house"
+        atmosphere: "Pleasant family visit conclusion, normal suburban evening, start of journey home"
+    - id: "hypnosis_room"
+      name: "Medical Hypnosis Session Room"
+      description_block: |
+        setting:
+          location: "Professional medical consultation room for hypnotic regression sessions"
+        mainElements: "Medical chairs, recording equipment, clinical furniture, professional medical setting"
+        atmosphere: "Serious therapeutic environment, controlled clinical lighting, investigative atmosphere"
+  items:
+    - id: "family_car_1974"
+      name: "1970s Family Vehicle"
+      description_block: |
+        details: "Standard 1970s British family car, practical design, typical sedan or estate configuration"
+    - id: "damaged_radio"
+      name: "Malfunctioning Car Radio"
+      description_block: |
+        details: "1970s car radio system crackling violently, smoking, with external wires pulled out"
+    - id: "green_mist_phenomenon"
+      name: "Mysterious Green Fog"
+      description_block: |
+        details: "Dense green fog bank covering entire road width, 8-9 feet high, luminous and supernatural"
+    - id: "examination_instruments"
+      name: "Alien Medical Scanning Equipment"
+      description_block: |
+        details: "Bar-like scanning instruments, advanced technology beyond 1970s human capability"
+    - id: "star_chart_reference"
+      name: "Celestial Navigation Display"
+      description_block: |
+        details: "Advanced star map or celestial reference system mentioning Mars moon Phobos"

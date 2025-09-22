@@ -1,0 +1,12 @@
+media_info:
+  title: Vasa Warship Immediate Sinking - 1628
+  year: 1628
+  genre: Maritime History Documentary
+  description: Swedish royal warship sinks minutes after launch due to poor design and top-heavy construction
+  target_audience: General public, students, maritime history enthusiasts, engineering students
+  duration: ~3 minutes
+  objective: Recreate the catastrophic maiden voyage of Sweden's most expensive warship that sank in Stockholm harbor
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

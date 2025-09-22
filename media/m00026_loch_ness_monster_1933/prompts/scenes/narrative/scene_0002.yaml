@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The First Sighting - April 1933"
+  setting:
+    time: "April 1933, afternoon"
+    location: "Newly constructed road running along loch's northern shore, early 1930s"
+    weather: "Clear spring afternoon with good visibility"
+  characters:
+    - appearance: "Middle-aged Scottish woman, practical build, weather-worn face from Highland life"
+      clothing: "1930s brown wool coat, practical shoes, headscarf typical of Highland hotel proprietress"
+      position: "Standing beside parked automobile on A82 road"
+      action: "Pointing toward loch with urgent expression, speaking to companion"
+  scene:
+    mainElements: "Gravel road surface, stone walls, passing places, dramatic loch views to south"
+    details: "1930s touring automobile parked at roadside pull-off, woman gesturing excitedly toward water where large disturbance creates ripples and wake patterns across previously calm surface, stone mile markers along roadway, newly laid gravel surface with tire tracks"
+    background: "Dark loch waters with mysterious movement creating concentric ripples, highland slopes rising steeply"
+    atmosphere: "Increased traffic bringing visitors to previously remote Highland location"
+  composition:
+    cameraAngle: "Medium shot from road level capturing both witness and loch"
+    focus: "Woman's animated gesture directing attention to unusual water disturbance"
+    depth: "Foreground shows parked car and witness, middle ground captures pointing gesture toward loch, background reveals water disturbance and highland landscape, no text or letters visible"

@@ -1,0 +1,12 @@
+media_info:
+  title: Roy Sullivan Lightning Survival Record - 1942-1977
+  year: 1942
+  genre: Human Interest Documentary
+  description: Virginia park ranger survives being struck by lightning 7 times over 35 years
+  target_audience: General public, students, survival enthusiasts, weather phenomenon buffs
+  duration: ~3 minutes
+  objective: Recreate the extraordinary story of the world's most lightning-struck person who lived to tell about it
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

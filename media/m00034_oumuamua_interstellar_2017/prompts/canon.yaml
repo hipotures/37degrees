@@ -1,0 +1,77 @@
+canon:
+  characters:
+    - id: "character_RW"
+      name: "Character RW"
+      description_block: |
+        characters:
+          - appearance: "Mid-30s Caucasian male postdoctoral researcher, medium build, focused demeanor typical of dedicated astronomer"
+            clothing: "Casual academic attire - button-down shirt, khakis, often wearing observatory safety equipment"
+            position: "At telescope control station or computer workstation"
+            action: "Reviewing telescope data and astronomical images with methodical attention to detail"
+    - id: "character_AL"
+      name: "Character AL"
+      description_block: |
+        characters:
+          - appearance: "Distinguished male professor in his 60s, gray hair, thoughtful expression, medium height"
+            clothing: "Professional academic attire - dark suits for formal occasions, casual blazers for interviews"
+            position: "At lecture podium or in academic office setting"
+            action: "Presenting theories with confident articulation, willing to challenge scientific orthodoxy"
+    - id: "character_JB"
+      name: "Character JB"
+      description_block: |
+        characters:
+          - appearance: "Mid-30s female astronomer, professional appearance, focused and analytical expression"
+            clothing: "Academic professional attire - blouses, blazers, practical clothing for laboratory work"
+            position: "At research desk with computers and scientific instruments"
+            action: "Analyzing data methodically, focused on natural explanations for astronomical phenomena"
+    - id: "character_DS"
+      name: "Character DS"
+      description_block: |
+        characters:
+          - appearance: "Young male astronomer in his 30s, earnest expression, academic appearance"
+            clothing: "Casual academic wear - sweaters, button-down shirts, university-branded clothing"
+            position: "In collaborative research environment or conference setting"
+            action: "Enthusiastically discussing scientific puzzles and collaborative research findings"
+  locations:
+    - id: "haleakala_observatory"
+      name: "Haleakalā Observatory, Hawaii"
+      description_block: |
+        setting:
+          location: "High-altitude observatory on dormant volcano summit at 10,023 feet elevation, Haleakalā, Hawaii"
+        mainElements: "White dome-shaped buildings housing telescopes, Pan-STARRS1 telescope facility, clear mountain air"
+        atmosphere: "Crisp, thin air with exceptional visibility, star-filled night sky, isolated scientific outpost feel"
+    - id: "deep_space_trajectory"
+      name: "Interstellar Space Trajectory"
+      description_block: |
+        setting:
+          location: "The vast emptiness between star systems, cold and radiation-filled vacuum of space"
+        mainElements: "Invisible gravitational fields, cosmic radiation, stellar background, solar system boundary"
+        atmosphere: "Absolute vacuum, extreme cold approaching absolute zero, faint starlight from distant stars"
+    - id: "inner_solar_system"
+      name: "Inner Solar System Transit Zone"
+      description_block: |
+        setting:
+          location: "Region between Venus and Earth orbits where object made closest approaches, 0.16-0.25 AU from Sun"
+        mainElements: "Intense solar radiation, planetary gravitational fields, asteroid belt vicinity"
+        atmosphere: "Solar wind, electromagnetic fields, increasing temperature and radiation pressure"
+  items:
+    - id: "oumuamua_object"
+      name: "Oumuamua Object"
+      description_block: |
+        details: "Extremely elongated cigar-shaped object, 100-1000 meters long, 35-167 meters wide, dark reddish color, highly reflective surface, tumbling rotation every 7.3 hours, no visible tail or coma"
+    - id: "pan_starrs_telescope"
+      name: "Pan-STARRS1 Telescope"
+      description_block: |
+        details: "1.8-meter diameter reflecting telescope housed in white protective dome, designed for wide-field sky surveys and asteroid detection, remotely operated astronomical instrument"
+    - id: "discovery_images"
+      name: "Discovery Images"
+      description_block: |
+        details: "Digital astronomical images showing faint streak against star field background from 45-second exposure, tracking images revealing trajectory and movement pattern"
+    - id: "trajectory_data"
+      name: "Orbital Trajectory Data"
+      description_block: |
+        details: "Mathematical models and computer simulations showing hyperbolic escape trajectory, confirmed interstellar origin, anomalous non-gravitational acceleration component"
+    - id: "spectroscopic_data"
+      name: "Spectral Analysis Results"
+      description_block: |
+        details: "Digital spectrograms showing light wavelength analysis from multiple telescopes, revealing reddish coloration, high reflectivity, lack of water vapor or dust signatures"

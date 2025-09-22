@@ -1,0 +1,11 @@
+media_info:
+  title: Rapatronic Camera Nuclear Tests - 1950s
+  genre: Science & Technology Documentary
+  description: Ultra-high-speed camera achieves 15 million frames per second to document first microseconds of nuclear explosions
+  target_audience: General public, students, photography enthusiasts, nuclear history buffs
+  duration: ~3 minutes
+  objective: Recreate the development of revolutionary high-speed photography that captured atomic explosions
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

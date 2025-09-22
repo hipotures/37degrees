@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Morning Testimony at Pegasus Avenue Home"
+  setting:
+    time: "August 12, 1983, morning after encounter"
+    location: "49 Pegasus Avenue, Aldershot, modest working-class home interior"
+    weather: "Morning light filtering through windows, clear day following clear night"
+  characters:
+    - appearance: "77-year-old man, medium build, weathered face with military bearing, graying hair, now appearing visibly shaken"
+      clothing: "Dark woolen coat and wellington boots, flat cap removed, showing effects of extraordinary night"
+      position: "Seated at kitchen table in family home"
+      action: "Recounting extraordinary encounter to wife, speaking with conviction despite knowing how unbelievable it sounds"
+    - appearance: "Elderly woman, concerned expression, domestic attire of 1980s"
+      clothing: "Simple house dress, cardigan, representative of working-class wife of the era"
+      position: "Seated across from husband at kitchen table"
+      action: "Listening with growing concern to husband's account, observing his genuinely shaken state"
+    - appearance: "Small dog, breed unspecified, now calmed but showing residual stress"
+      clothing: "Natural fur coat, collar visible"
+      position: "Lying on kitchen floor near family members"
+      action: "Resting near family but still occasionally looking toward door with nervous energy"
+  scene:
+    mainElements: "Working-class kitchen with practical furniture, tea service on table, family photographs on walls, character AB sharing testimony with character MB"
+    details: "Modest 1980s domestic interior with comfortable but simple decor, evidence of military family lifestyle visible in precise organization. Character AB appearing genuinely disturbed by experience, character MB showing protective concern for husband's reputation while recognizing his distressed state. Tea cups on table, morning light illuminating kitchen where incredible account is being shared"
+    background: "Residential street visible through windows, neighboring houses, quiet military town neighborhood, normal morning activity outside"
+    atmosphere: "Domestic tranquility contrasting with extraordinary account being shared, wife's concern for husband's wellbeing and reputation, genuine distress visible in witness despite military composure, beginning of story that would persist unchanged for three years until witness's death, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from kitchen showing intimate family conversation"
+    focus: "Character AB sharing account with concerned character MB at kitchen table"
+    depth: "Family conversation in foreground, domestic kitchen details in middle ground, normal neighborhood visible through windows in background"

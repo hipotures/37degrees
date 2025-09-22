@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: December 11, 1752, 4:00 PM, during the fireball event
+    location: Glasgow city center, Scotland, December 1752
+    weather: Clear visibility with extraordinary atmospheric phenomenon overhead
+  characters:
+  - appearance: Middle-aged Scottish gentleman, likely educated based on detailed observation skills, 40s, intelligent countenance,
+      careful grooming reflecting professional status
+    clothing: Dark wool coat with brass buttons, white linen shirt with cravat, knee-length breeches, white stockings, buckled
+      shoes - typical 1750s Scottish urban dress
+    position: Among crowd of citizens all looking skyward
+    action: Continuing methodical observation while others react with various degrees of wonder and concern
+  scene:
+    mainElements: Multiple Glasgow citizens in 18th-century dress gathered in streets, all pointing and looking upward at
+      the continuing fireball phenomenon
+    details: The crowd grows as more citizens emerge from buildings and shops to witness the unprecedented celestial event.
+      Men in period coats and breeches, women in long dresses and cloaks, all crane their necks skyward. Some cross themselves,
+      others point excitedly, while the educated observer continues his systematic documentation. The scene captures the moment
+      when individual wonder becomes collective experience, as Glasgow's population unites in witnessing history, no text
+      or letters visible
+    background: Glasgow buildings and cathedral spires frame the gathering crowd beneath the ongoing fireball display
+    atmosphere: Growing excitement and tension as more citizens join the collective witnessing of this extraordinary event
+  composition:
+    cameraAngle: Wide shot showing the crowd gathering in response to the phenomenon
+    focus: The collective human response to the extraordinary celestial event
+    depth: Foreground shows individual citizens reacting, middle ground captures the growing crowd, background features Glasgow
+      architecture and the continuing fireball overhead
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

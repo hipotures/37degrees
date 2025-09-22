@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Emotional Breakdown Under Psychological Humiliation"
+  setting:
+    time: "August 16, 1971, evening"
+    location: "Converted basement of Stanford University psychology building, Jordan Hall, California"
+    weather: "Interior basement environment, artificially lit"
+  characters:
+    - appearance: "Caucasian man, early 20s, thin build, distressed expression, tears visible"
+      clothing: "Ill-fitting white prison smock, stocking cap, chain around ankle, wrinkled and disheveled"
+      position: "Curled up in corner of cell with head in hands"
+      action: "Curled up, head in hands, or pressed against wall, body language showing emotional collapse"
+    - appearance: "Caucasian man, early 20s, tall, athletic build, stern expression"
+      clothing: "Khaki military-style uniform, reflective mirrored sunglasses, black boots, carrying whistle and billy club"
+      position: "Standing outside cell watching prisoner breakdown"
+      action: "Rigid military bearing, hands behind back or holding equipment, dominating stance"
+    - appearance: "Caucasian man, early 20s, medium build, uncertain expression when alone"
+      clothing: "Khaki military-style uniform, reflective mirrored sunglasses, black boots, carrying whistle"
+      position: "Standing behind lead guard looking uncomfortable"
+      action: "Following lead of others, more hesitant body language, looking to authority"
+  scene:
+    mainElements: "Prisoner experiencing severe emotional breakdown in cell corner while guards observe psychological deterioration without intervention in harsh institutional environment"
+    details: "Prisoner with visible tears pressed against cold concrete wall, wrinkled and disheveled prison smock, stocking cap askew, chain around ankle creating metallic sounds against floor, guards maintaining cold observational distance, institutional fluorescent lighting creating stark shadows, cell bars casting geometric patterns"
+    background: "Basement prison environment with concrete walls, metal cell bars, harsh lighting, institutional corridor, guard observation area with monitoring equipment"
+    atmosphere: "Intense psychological distress and emotional breakdown under institutional pressure, harsh fluorescent lighting emphasizing isolation and suffering, oppressive environment where human dignity deteriorates"
+  composition:
+    cameraAngle: "Close medium shot emphasizing prisoner distress and guard observation"
+    focus: "Prisoner's emotional collapse contrasted with guard indifference and institutional authority"
+    depth: "Foreground shows prisoner in breakdown against concrete wall, middle ground focuses on observing guards, background reveals institutional prison environment, no text or letters visible"

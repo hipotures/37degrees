@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Mission control detecting critical system failure in Inertial Reference System"
+  setting:
+    time: "June 4, 1996, 9:34:07 AM (T+37 seconds)"
+    location: "Jupiter Control Room, Centre Spatial Guyanais, Kourou, French Guiana"
+    weather: "Clear indoor environment with emergency lighting activating"
+  characters:
+    - appearance: "European woman, 30s, medium build, blonde hair in professional bun, alert green eyes"
+      clothing: "1990s white technical blouse with ESA patches, dark navy skirt, headset around neck"
+      position: "Seated at navigation systems console, leaning forward with tension"
+      action: "Staring in alarm at computer screen showing error messages, rapidly typing diagnostic commands"
+    - appearance: "European man, 50s, average build, concerned expression, wire-rimmed glasses, receding brown hair"
+      clothing: "1990s gray business suit with blue tie, ESA identification badge"
+      position: "Rushing toward navigation console from across control room"
+      action: "Pointing urgently at error displays, shouting commands to technical team"
+    - appearance: "European man, 40s, lean build, intense dark eyes, short gray hair, sharp features"
+      clothing: "1990s dark blue ESA engineer jacket over white shirt with ESA logo, black trousers"
+      position: "At adjacent systems monitoring station"
+      action: "Frantically checking backup system status, reaching for emergency procedures manual"
+  scene:
+    mainElements: "Mission control room in crisis mode with computer screens displaying red error messages and system failure warnings, technicians responding urgently to critical alerts, large wall displays showing rocket telemetry with abnormal readings"
+    details: "Computer monitors flashing red error codes and system diagnostic messages, amber warning lights activating throughout control room, printed emergency procedure checklists being consulted rapidly, communication headsets active with urgent radio traffic, mission timeline displays showing deviation from planned sequence, multiple workstations with controllers responding to cascade of system failures, no text or letters visible"
+    background: "Additional control stations with technicians responding to emergency, large mission displays showing rocket status, communication equipment with red warning indicators"
+    atmosphere: "Sudden transition from confident control to urgent crisis response, growing tension as controllers realize something catastrophic is happening to navigation systems"
+  composition:
+    cameraAngle: "Medium shot focusing on navigation systems console with multiple controllers responding"
+    focus: "Primary navigation controller detecting system failure with supervisors rushing to respond"
+    depth: "Foreground shows critical error displays and controller reactions, middle ground captures team coordination in crisis, background reveals broader control room emergency response"

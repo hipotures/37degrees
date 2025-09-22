@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Underwater Alexandria - Submerged Royal Quarter"
+  setting:
+    time: "1996, midday underwater exploration"
+    location: "Submerged ancient royal quarter, 16+ feet underwater in Mediterranean"
+    weather: "Clear surface conditions, underwater visibility limited"
+  characters:
+    - appearance: "French marine archaeologist, 60s, graying hair, weather-beaten face from years underwater"
+      clothing: "Full diving suit with modern underwater exploration equipment"
+      position: "Swimming near submerged ancient structures"
+      action: "Operating underwater exploration equipment, examining ancient ruins with focused attention"
+  scene:
+    mainElements: "Submerged palace foundations, columns, statues, Antirhodos island ruins, ancient harbor structures"
+    details: "Yellow submarine-like device with cameras, lights, mechanical arms floating nearby, ancient marble columns covered in marine growth, scattered royal artifacts partially buried in sand, schools of Mediterranean fish swimming between ruins, underwater lighting equipment illuminating ancient carvings"
+    background: "Murky underwater environment with limited visibility, more submerged structures fading into blue-green depths"
+    atmosphere: "Mysterious underwater archaeological site, sense of discovering lost civilization, ethereal quality from filtered sunlight, marine life inhabiting ancient ruins"
+  composition:
+    cameraAngle: "Wide underwater shot capturing scale of submerged city"
+    focus: "Character FG exploring among ancient ruins with modern diving technology"
+    depth: "Diver and ROV in foreground, ancient structures in middle ground, murky depths in background, no text or letters visible"

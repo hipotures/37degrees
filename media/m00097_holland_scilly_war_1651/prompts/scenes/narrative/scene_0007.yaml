@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Dutch Fleet Departure - Forgotten War Begins"
+  setting:
+    time: "June 1651, evening"
+    location: "Scilly waters as Dutch fleet withdraws"
+    weather: "Clear evening with golden sunset light"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Dutch warships sailing away from Scilly as Parliamentary victory makes intervention unnecessary"
+    details: "17th century Dutch warships with three masts and square-rigged sails departing Scilly waters, Dutch naval flags still flying, Parliamentary fleet now controlling harbor, peaceful evening scene with no combat, ships silhouetted against sunset, calm seas after storm of conflict"
+    background: "Isles of Scilly now under Parliamentary control, White stone lighthouse tower beacon beginning to shine, peaceful Atlantic waters"
+    atmosphere: "Dutch mission accomplished without firing shot, forgotten technical state of war beginning, bureaucratic oversight that will last centuries, peaceful departure after resolved crisis, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing Dutch fleet departing into sunset"
+    focus: "Dutch withdrawal marking beginning of forgotten war"
+    depth: "Departing Dutch ships in foreground, Scilly islands in middle ground, sunset horizon in background"

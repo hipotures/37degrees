@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Discovery - White Powder Revealed"
+  setting:
+    time: "April 6, 1938, early afternoon"
+    location: "Main laboratory workbench, DuPont Jackson Laboratory"
+    weather: "Bright afternoon sunlight illuminating the dramatic discovery"
+  characters:
+    - appearance: "Caucasian man, early 30s, slender build, intelligent dark eyes, carefully combed dark hair"
+      clothing: "1930s white lab coat over dress shirt and tie, or casual suit with vest"
+      position: "Leaning over opened cylinder examining the interior"
+      action: "Carefully observing and examining the unexpected white powder coating inside the cut cylinder"
+    - appearance: "Caucasian man, 30s, medium build, alert expression, short brown hair"
+      clothing: "1930s white lab coat over dress shirt, or work clothes with suspenders"
+      position: "Standing close beside the opened cylinder"
+      action: "Studying the white substance with scientific interest and taking detailed observations"
+  scene:
+    mainElements: "Wooden laboratory bench with glass apparatus, measurement tools, chemical containers"
+    details: "Opened metal cylinder revealing interior coated with white, waxy powder substance, cutting tools positioned nearby showing how cylinder was opened, white powder appearing slippery and smooth coating the inner walls of steel cylinder, both characters showing expressions of amazement and scientific curiosity, laboratory instruments arranged for immediate analysis, measurement tools ready for testing the new substance, glass containers prepared for sample collection, laboratory notebooks positioned for recording this unexpected discovery, no text or letters visible"
+    background: "Laboratory equipment and shelving, chemical analysis apparatus visible and ready for use, natural lighting creating clear visibility of the discovery"
+    atmosphere: "Active research workspace with good lighting, organized tools and equipment"
+  composition:
+    cameraAngle: "Close-up shot highlighting the dramatic moment of discovery and the white substance"
+    focus: "Opened cylinder with visible white powder and characters' expressions of scientific wonder"
+    depth: "Foreground shows detailed view of white powder in opened cylinder, middle ground features both characters examining discovery, background reveals laboratory analysis equipment ready for use, no text or letters visible"

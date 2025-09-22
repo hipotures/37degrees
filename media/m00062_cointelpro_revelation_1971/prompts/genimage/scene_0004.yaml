@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1971 February, evening
+    location: Suburban home living room, Pennsylvania area
+    weather: Cold winter evening, snow visible through windows
+  characters:
+  - appearance: Caucasian man, 30s, average height, brown hair, determined expression
+    clothing: Dark casual clothing, black gloves, carrying small tools
+    position: Leaning over coffee table examining building plans
+    action: Pointing at floor plan and discussing entry strategies
+  - appearance: Woman, 30s, shoulder-length brown hair, focused expression
+    clothing: Dark coat, practical shoes, carrying radio or communication device
+    position: Seated in armchair holding street map
+    action: Reviewing escape routes and timing coordination
+  - appearance: Man, 40s, glasses, slightly disheveled hair, analytical expression
+    clothing: Casual suit, loosened tie, shirt sleeves sometimes rolled up
+    position: Standing by window keeping watch
+    action: Monitoring street for any suspicious activity
+  scene:
+    mainElements: Coffee table with maps and documents, comfortable chairs, table lamps providing warm light, domestic living
+      room setting
+    details: Blueprints spread on table, small tools and equipment, coffee cups, notepad, radio equipment, curtains drawn
+      for privacy, family photographs on mantel
+    background: Suburban home interior with fireplace, bookshelves, typical 1970s furniture and decor
+    atmosphere: Quiet domestic setting used for clandestine planning with tension and determination, no text or letters visible
+  composition:
+    cameraAngle: Wide shot from corner of room showing all participants
+    focus: Group huddled around planning materials on coffee table
+    depth: Foreground shows planning documents, middle ground captures conspirators, background reveals domestic setting
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

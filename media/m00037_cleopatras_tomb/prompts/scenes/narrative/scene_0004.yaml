@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ancient Historian's Account - Scholar's Documentation"
+  setting:
+    time: "75 CE, evening by candlelight"
+    location: "Ancient Greek library with scrolls and writing materials"
+    weather: "Indoor setting, calm evening"
+  characters:
+    - appearance: "Elderly Greek scholar, beard, thoughtful expression, scroll in hand"
+      clothing: "Classical Greek philosopher's himation (cloak), simple sandals"
+      position: "Seated at writing desk with papyrus and scrolls"
+      action: "Writing with stylus on papyrus, contemplating historical events with intense concentration"
+  scene:
+    mainElements: "Ancient library setting with wooden shelves lined with papyrus scrolls, writing desk with oil lamps, various historical documents and maps spread around"
+    details: "Flickering oil lamps casting warm light on parchments, rolled and unrolled scrolls scattered across desk, inkwell and writing stylus, ancient Greek pottery vessels, wooden shelves packed with historical documents, maps of Mediterranean region"
+    background: "Library shelves extending into shadows, architectural columns typical of ancient Greek buildings"
+    atmosphere: "Scholarly concentration, warm candlelight creating intimate studying environment, sense of preserving important historical knowledge for future generations"
+  composition:
+    cameraAngle: "Medium close-up from slightly elevated angle"
+    focus: "Character PL at work documenting historical events with ancient writing materials"
+    depth: "Character and desk in foreground, library shelves in middle ground, shadowy columns in background, no text or letters visible"

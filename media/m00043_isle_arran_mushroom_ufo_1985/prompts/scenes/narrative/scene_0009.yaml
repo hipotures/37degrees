@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "The Object Departs"
+  setting:
+    time: "February 5, 1985, late evening"
+    location: "Open viewing area, Isle of Arran, Scotland"
+    weather: "Clear winter night, cold and crisp"
+  characters:
+    - appearance: "Scottish man, 40s, average build, weathered face from island life"
+      clothing: "1985 winter clothing - thick wool sweater, heavy jacket, practical trousers, warm hat"
+      position: "Standing with arm extended, tracking object's movement"
+      action: "Following the object's departure path with pointing gesture, expression of awe and loss"
+    - appearance: "Scottish woman, 30s-40s, medium build, concerned expression"
+      clothing: "1985 winter clothing - warm coat, wool scarf, sensible boots, knitted hat"
+      position: "Standing beside husband, both hands raised to shade eyes"
+      action: "Straining to maintain visual contact as object moves away or disappears"
+    - appearance: "Scottish girl, 8-12 years old, curious expression, bright eyes"
+      clothing: "Child's 1985 winter wear - colorful jacket, warm mittens, winter boots, knitted hat"
+      position: "Standing between parents, reaching up toward the departing object"
+      action: "Waving or reaching toward the object as it moves away, expression of wonder and sadness"
+    - appearance: "Scottish girl, 6-10 years old, wide-eyed wonder, smaller than sister"
+      clothing: "Child's 1985 winter wear - bright winter coat, warm gloves, small boots, wool hat"
+      position: "Close to mother, looking up with disappointment"
+      action: "Watching the object fade or move away, tugging on mother's coat"
+  scene:
+    mainElements: "Mushroom-shaped object now distant or fading, blue glow diminishing as it moves away or disappears from view, family tracking its departure path across winter sky"
+    details: "Object's distinctive mushroom shape and blue underside glow becoming smaller or fainter as it departs, family maintaining visual contact as long as possible, sense of extraordinary experience coming to an end, cold winter air and starry sky providing dramatic backdrop for departure"
+    background: "Vast winter sky over Isle of Arran, mountain silhouettes against stars, infinite darkness where object is disappearing"
+    atmosphere: "Mixture of awe, loss, and completion as extraordinary encounter ends, family bonded by shared witness to something unexplainable, peaceful Scottish night returning to normal"
+  composition:
+    cameraAngle: "Wide shot emphasizing the vast sky and departing object"
+    focus: "Family's tracking gestures toward the diminishing or departing UFO"
+    depth: "Foreground: family reaching toward sky, middle: clear night air, background: departing object against starry Arran sky, no text or letters visible"

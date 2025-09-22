@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Memorial and Legacy Recognition"
+  setting:
+    time: "1990s, afternoon"
+    location: "Small rural cemetery in Macon County, Alabama"
+  characters:
+    - appearance: "African American woman, 40s-50s, worried expression, protective stance"
+      clothing: "1950s-1970s modest dress, apron, simple shoes"
+      position: "Standing beside grave marker, flowers in hand"
+      action: "Placing flowers on grave, bowing head in remembrance"
+    - appearance: "White man, late 20s, clean-shaven, earnest expression, medium build"
+      clothing: "1970s casual business attire, brown suit, tie, dress shoes"
+      position: "Standing respectfully at distance"
+      action: "Observing memorial moment, hat removed, head bowed"
+  scene:
+    mainElements: "Simple headstones, rural landscape, scattered graves, modest markers"
+    details: "Simple granite headstone, fresh flowers placed carefully, other weathered grave markers nearby, rural Alabama landscape, old oak trees providing shade, iron fence boundary, gravel paths"
+    background: "Rolling hills of Alabama countryside, distant farmhouses, peaceful rural setting"
+    atmosphere: "Somber, peaceful, reflecting the human cost of the study, memorial recognition, quiet dignity, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle emphasizing memorial respect"
+    focus: "The human remembrance and dignity of those who suffered"
+    depth: "Foreground shows grave marker and flowers, middle ground has mourning figures, background reveals peaceful rural landscape where it all began"

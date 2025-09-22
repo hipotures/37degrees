@@ -4,3 +4,182 @@ book_info:
   author: "Mary Wollstonecraft"
   year: 1792
   genre: "Feminist philosophy,Political philosophy"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T16:30:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 7
+    contemporary_reception: 2
+    relevance: 9
+    innovation: 10
+    structural_complexity: 7
+    social_roles: 10
+    total: 64
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 9.0
+      category: "high"
+    heat:
+      value: 7.0
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Tragic death after childbirth due to medical ignorance, scandalous affairs, two suicide attempts"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Complex symbolism: slavery metaphors, horticultural metaphors, prison architecture as social critique"
+        source: "symbols_meanings"
+      - id: "culture_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "First theoretical feminist text, influenced global suffrage movements, 15+ adaptations"
+        source: "culture_impact"
+      - id: "youth_1"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Not viral on social media but themes echo in BimboTok, AI bias discussions, Gen Z feminism"
+        source: "youth_digital"
+      - id: "wisdom_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Predicted AI bias, gender gaps, digital harassment with uncanny accuracy"
+        source: "reality_wisdom"
+      - id: "innovation_1"
+        type: "FACT"
+        credibility: 1.0
+        content: "Created feminist philosophical essay genre, revolutionary cyclical argumentation structure"
+        source: "writing_innovation"
+      - id: "history_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Written in 6 weeks in 1792, immediate international success, founded modern feminism"
+        source: "facts_history"
+      - id: "warnings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Content warnings: criticism of traditional institutions, complex philosophical themes"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western literature, foundational to feminist studies"
+        key_editions: ["Norton Critical Edition", "Penguin Classics", "Oxford University Press"]
+        reception_notes: "Well received initially, scandalized posthumously, rehabilitated by suffragettes"
+        educational_status: "Mainstay in university courses on women's history and political science"
+        local_themes: ["British Enlightenment critique", "Influence on Jane Austen", "Virginia Woolf connection"]
+
+      pl:
+        cultural_impact: "First Polish edition 2011, recognized as pioneering feminist text"
+        key_editions: ["Wydawnictwo Mamania 2011", "Electronic version planned for public domain"]
+        reception_notes: "Delayed reception due to partitions, growing interest in equality themes"
+        educational_status: "Appears in humanities courses, especially philosophy and cultural studies"
+        local_themes: ["Parallel to Polish Romantic writers", "Influence on 19th-20th century activists"]
+
+      de:
+        cultural_impact: "Swift German translation 1793, influenced German Idealism foundations"
+        key_editions: ["Salzmann translation 1793-94", "Modern academic editions"]
+        reception_notes: "Extraordinary early reception, influenced major German feminist thinkers"
+        educational_status: "Standard reference in German gender studies and political philosophy"
+        local_themes: ["Kantian parallels", "Influence on Hedwig Dohm", "Educational reform impact"]
+
+      fr:
+        cultural_impact: "Immediate 1792 French translation, influenced Revolutionary debates"
+        key_editions: ["Gallimard Folio excerpts", "Original Félicité Brissot translation"]
+        reception_notes: "Complex Revolutionary reception, inspired Simone de Beauvoir"
+        educational_status: "Featured in lycée philosophy curriculum as Enlightenment text"
+        local_themes: ["Parallel to Olympe de Gouges", "French feminist theory evolution"]
+
+      es:
+        cultural_impact: "First Spanish translation 1977, strong Latin American academic presence"
+        key_editions: ["Editorial Cátedra", "Multiple contemporary publishers"]
+        reception_notes: "Late but enthusiastic reception, student activism integration"
+        educational_status: "Fundamental to gender studies across Spanish-speaking universities"
+        local_themes: ["Connection to Celia Amorós", "Latin American equality feminism"]
+
+      pt:
+        cultural_impact: "Recent translations: Brazil 2016, Portugal 2017"
+        key_editions: ["Boitempo Editorial Brazil", "Antígona Portugal"]
+        reception_notes: "Very late recognition as political theorist in Portuguese-speaking world"
+        educational_status: "Growing integration in Brazilian universities and high school curriculum"
+        local_themes: ["Connection to Nísia Floresta", "Contemporary political relevance"]
+
+      ja:
+        cultural_impact: "Influenced Seitō Bluestocking movement indirectly"
+        key_editions: ["Iwanami Bunko prestigious series"]
+        reception_notes: "Delayed direct reception but influenced early Japanese feminists"
+        educational_status: "Available through major academic publisher"
+        local_themes: ["Connection to Hiratsuka Raichō", "Meiji era modernization parallels"]
+
+      ko:
+        cultural_impact: "Multiple Korean editions, influenced liberal feminism movement"
+        key_editions: ["Yeonam Publishing 2014", "Chaeksesang 2018"]
+        reception_notes: "Academic engagement through women's studies programs"
+        educational_status: "Studied in gender studies at major universities"
+        local_themes: ["Confucian philosophy intersection", "2015+ feminist movement revival"]
+
+      hi:
+        cultural_impact: "Influenced 19th-century Indian social reformers indirectly"
+        key_editions: ["Available through National Digital Library of India"]
+        reception_notes: "Strong historical influence through British colonial education"
+        educational_status: "Relevant to contemporary Indian educational policy discussions"
+        local_themes: ["Connection to Ram Mohan Roy", "Educational reform parallels"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "philosophical_foundations"
+          lead: "host_a"
+          description: "Foundational feminist philosophy and Enlightenment context"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "systematic_analysis"
+          lead: "host_b"
+          description: "Analysis of Wollstonecraft's systematic argumentation"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "historical_scandals"
+          lead: "host_a"
+          description: "Dark drama and posthumous reputation destruction"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "literary_innovation"
+          lead: "host_b"
+          description: "Revolutionary writing techniques and genre creation"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Modern predictions and ongoing influence on feminism"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'A Vindication of the Rights of Woman' with scholarly depth. Discuss structure, symbolism, philosophical techniques. Present complex concepts about Enlightenment feminism, rational argumentation, and revolutionary literary innovation. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to contemporary feminist theory, ensure accessibility. Help explain how Wollstonecraft's systematic approach created modern feminist philosophy."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["discussions about women's rights and gender equality", "criticism of 18th-century social systems", "historical context of revolutionary period", "biographical elements concerning unconventional relationships"]
+    educational_elements: ["Enlightenment philosophy characteristics", "Historical context of 1792", "Literary innovation analysis", "Feminist theory foundations"]
+    production_notes:
+      intro_style: "scholarly_authority"
+      transitions: "subtle musical bridges"
+      outro_style: "academic_synthesis"
+
+  overall_confidence: 0.94

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Anonymous Witness in Greenock Residential Area"
+  setting:
+    time: "May 1, 2008, evening"
+    location: "Residential area on higher ground in Greenock, overlooking Firth of Clyde"
+    weather: "Clear evening conditions with good visibility"
+  characters:
+    - appearance: "Scottish civilian, adult, observant person capable of detailed descriptions"
+      clothing: "2008 casual evening wear appropriate for Scottish spring weather"
+      position: "Standing outside residential building, looking upward at sky"
+      action: "Alert, looking upward at sky, tracking moving object"
+  scene:
+    mainElements: "Residential Scottish housing on hillside overlooking port town, clear view toward sky and water"
+    details: "Typical Greenock residential neighborhood with modest houses climbing the hillside, witness positioned with clear sight lines to observe sky over the Clyde estuary, evening lighting creating good visibility conditions for sky observation"
+    background: "Greenock port facilities visible below, Firth of Clyde stretching eastward, clear evening sky"
+    atmosphere: "Quiet residential evening in Scottish port town, perfect conditions for unusual aerial observation"
+  composition:
+    cameraAngle: "Medium shot from nearby position"
+    focus: "Witness positioned to observe sky, residential setting establishing local context"
+    depth: "Witness and immediate residential area in foreground, port town below in middle ground, sky and water in background, no text or letters visible"

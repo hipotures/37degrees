@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: July 1996, afternoon
+    location: ESA investigation facility, European technical center
+    weather: Clear indoor environment with conference room lighting
+  characters:
+  - appearance: European man, 50s, average build, concerned expression, wire-rimmed glasses, receding brown hair
+    clothing: 1990s gray business suit with blue tie, ESA identification badge
+    position: Seated at head of conference table with investigation documents
+    action: Reviewing technical failure analysis reports, pointing to specific code sections in printed documentation
+  - appearance: European man, 40s, lean build, intense dark eyes, short gray hair, sharp features
+    clothing: 1990s dark blue ESA engineer jacket over white shirt with ESA logo, black trousers
+    position: Standing beside projection screen showing software diagrams
+    action: Explaining integer overflow failure mechanism to investigation committee using technical diagrams
+  - appearance: European woman, 30s, medium build, blonde hair in professional bun, alert green eyes
+    clothing: 1990s white technical blouse with ESA patches, dark navy skirt, headset around neck
+    position: Seated at conference table taking detailed notes
+    action: Recording investigation findings and recommendations in official report documentation
+  scene:
+    mainElements: Formal investigation conference room with long table, technical documents and printed code listings spread
+      across surface, projection screen showing software architecture diagrams, investigation committee members reviewing
+      failure analysis
+    details: Thick printed reports and technical documentation covering conference table, computer printouts of software code
+      with highlighted error sections, projection screen displaying flowcharts and system diagrams, coffee cups and notepads
+      scattered around table, formal investigation atmosphere with official ESA documentation, wall displays showing rocket
+      telemetry data from disaster, no text or letters visible
+    background: Professional conference room with ESA logos and technical charts on walls, additional investigation materials
+      organized on side tables, large windows showing European landscape
+    atmosphere: Serious technical investigation seeking to understand how software reuse and inadequate testing led to catastrophic
+      failure, determination to prevent similar disasters in future space missions
+  composition:
+    cameraAngle: Medium wide shot of investigation conference room
+    focus: Investigation team analyzing technical failure documentation with software diagrams visible
+    depth: Foreground shows detailed investigation materials, middle ground captures team analyzing failure, background reveals
+      formal investigation environment
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

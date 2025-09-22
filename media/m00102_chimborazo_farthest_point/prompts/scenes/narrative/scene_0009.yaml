@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Scientific Publication of Discovery"
+  setting:
+    time: "2001, afternoon"
+    location: "Scientific research station near equator in Ecuador"
+    weather: "Clear afternoon with mountain views"
+  characters:
+    - appearance: "Caucasian man, 40s, scholarly build, wire-rimmed glasses, thoughtful expression"
+      clothing: "Khaki field research clothes, hiking boots, backpack with scientific equipment"
+      position: "Sitting at desk reviewing final research documents"
+      action: "Preparing scientific publication documenting the discovery"
+  scene:
+    mainElements: "Modern scientific equipment, computers, measurement devices, topographical maps with finalized research results"
+    details: "Research station with completed GPS calculations, detailed geographical maps showing elevation contours, mountain ranges, coordinate systems organized for publication, measurement instruments showing verified results, scientific documentation prepared for academic review, no text or letters visible"
+    background: "Windows showing Chimborazo mountain in distance, research certificates and academic materials on walls"
+    atmosphere: "Technical research environment focused on geographical measurements with sense of scientific achievement"
+  composition:
+    cameraAngle: "Medium shot showing scientist with completed research"
+    focus: "Organized research materials demonstrating scientific discovery"
+    depth: "Research documents in foreground, scientist in middle ground, Chimborazo view in background"

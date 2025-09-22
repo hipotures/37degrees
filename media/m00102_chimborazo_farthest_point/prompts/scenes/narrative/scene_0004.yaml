@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Chimborazo First Glimpse"
+  setting:
+    time: "Modern day, afternoon"
+    location: "Mount Chimborazo summit, Ecuador, snow-covered volcanic peak at 6,263 meters"
+    weather: "Clear Andean mountain weather"
+  characters:
+    - appearance: "Indigenous Ecuadorian man, 40s, strong build adapted to high altitude, wise expression"
+      clothing: "Traditional Andean wool clothing mixed with modern outdoor gear"
+      position: "Standing on rocky outcrop pointing toward summit"
+      action: "Guiding expedition and indicating the true peak of Chimborazo"
+  scene:
+    mainElements: "Snow-covered rocky peak, glacial ice formations, thin atmosphere, Andean mountain range stretching to horizon"
+    details: "Volcanic mountain with distinctive snow-covered summit, glacial formations visible on upper slopes, modern GPS devices, satellite communication equipment, precise measurement instruments being set up by expedition team, no text or letters visible"
+    background: "Ecuadorian Andes mountains extending in all directions, high altitude landscape"
+    atmosphere: "Majestic, challenging high-altitude environment with stunning mountain vistas and sense of discovery"
+  composition:
+    cameraAngle: "Low angle shot emphasizing mountain majesty"
+    focus: "Guide pointing toward Chimborazo's distinctive summit"
+    depth: "Guide in foreground, mountain slope in middle ground, peak and sky in background"

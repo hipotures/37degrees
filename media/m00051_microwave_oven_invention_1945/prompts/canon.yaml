@@ -1,0 +1,92 @@
+canon:
+  characters:
+    - id: "character_PS"
+      name: "Character PS"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 50s, lean build, receding brown hair, intelligent dark eyes behind wire-rimmed glasses"
+            clothing: "White lab coat over dark suit jacket, white dress shirt, narrow dark tie, dress shoes"
+            posture: "Focused and methodical, often leaning forward while examining equipment, hands steady and precise"
+    - id: "character_colleague_1"
+      name: "Lab Colleague 1"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, stocky build, dark hair, serious expression"
+            clothing: "White lab coat over brown suit, light shirt, tie"
+            posture: "Standing attentively, clipboard in hand, observing experiments"
+    - id: "character_colleague_2"
+      name: "Lab Colleague 2"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s, average height, blonde hair, curious expression"
+            clothing: "White lab coat over gray suit, white shirt"
+            posture: "Leaning in to observe, taking notes, engaged in the process"
+  locations:
+    - id: "raytheon_laboratory"
+      name: "Raytheon Laboratory"
+      description_block: |
+        setting:
+          location: "Industrial research laboratory at Raytheon Company, Cambridge, Massachusetts"
+        mainElements: "Large workbenches with electronic equipment, magnetron tubes on stands, oscilloscopes, measurement instruments, fluorescent overhead lighting, concrete floors, industrial windows"
+        atmosphere: "Serious scientific research environment with hum of electronic equipment and focused concentration"
+    - id: "magnetron_test_area"
+      name: "Magnetron Test Area"
+      description_block: |
+        setting:
+          location: "Specialized testing section within Raytheon laboratory"
+        mainElements: "Active magnetron mounted on stand, metal waveguides, measurement equipment, warning signs about radiation, metal table surfaces, electrical cables"
+        atmosphere: "High-tech precision testing environment with subtle electromagnetic energy presence"
+    - id: "office_workspace"
+      name: "Office Workspace"
+      description_block: |
+        setting:
+          location: "Engineering office within Raytheon facility"
+        mainElements: "Wooden desk with technical drawings, mechanical pencils, slide rule, reference books, desk lamp, window with venetian blinds, filing cabinets"
+        atmosphere: "Organized engineering workspace with methodical precision and technical focus"
+    - id: "early_kitchen_setting"
+      name: "Early Kitchen Setting"
+      description_block: |
+        setting:
+          location: "1940s American kitchen with early appliances"
+        mainElements: "White enamel refrigerator, gas stove, wooden cabinets, linoleum flooring, checkered curtains, ceramic dishes on shelves"
+        atmosphere: "Clean, functional mid-century kitchen with traditional cooking methods"
+    - id: "modern_kitchen"
+      name: "Modern Kitchen"
+      description_block: |
+        setting:
+          location: "Contemporary American kitchen"
+        mainElements: "Stainless steel appliances, granite countertops, microwave oven prominently displayed, modern cabinetry, ceramic tile flooring"
+        atmosphere: "Efficient modern cooking environment showcasing technological advancement"
+  items:
+    - id: "magnetron_tube"
+      name: "Magnetron Tube"
+      description_block: |
+        details: "Cylindrical metal tube with copper segments, approximately 6 inches long, multiple antenna connections, mounted on metal stand with electrical connections"
+    - id: "chocolate_bar"
+      name: "Chocolate Bar"
+      description_block: |
+        details: "Brown wrapper with 'PAYDAY' text, containing peanuts and caramel, partially melted and deformed from heat, sticky coating visible"
+    - id: "popcorn_kernels"
+      name: "Popcorn Kernels"
+      description_block: |
+        details: "Small yellow corn kernels in metal container, some popped into white fluffy pieces, scattered on laboratory table surface"
+    - id: "raw_egg"
+      name: "Raw Egg"
+      description_block: |
+        details: "White chicken egg in metal bowl, smooth oval shell surface, positioned near magnetron for testing"
+    - id: "technical_drawings"
+      name: "Technical Drawings"
+      description_block: |
+        details: "Blueprint-style diagrams on white paper showing microwave oven schematics, precise measurements, component layouts, drawn with mechanical pencil"
+    - id: "early_microwave_prototype"
+      name: "Early Microwave Prototype"
+      description_block: |
+        details: "Large metal box approximately 5 feet tall, industrial appearance, magnetron mounted on top, heavy construction, electrical controls on front panel"
+    - id: "radarange_commercial"
+      name: "Radarange Commercial Unit"
+      description_block: |
+        details: "Large white metal cabinet, 'RADARANGE' nameplate, control dials on front, approximately 6 feet tall, industrial kitchen appearance"
+    - id: "modern_microwave"
+      name: "Modern Microwave"
+      description_block: |
+        details: "Compact countertop appliance, stainless steel and black plastic construction, digital display, touch controls, transparent door window"

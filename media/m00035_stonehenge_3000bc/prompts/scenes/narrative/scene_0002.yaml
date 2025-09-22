@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Initial Earthwork Construction at Sacred Site"
+  setting:
+    time: "3100 BCE, midday in late spring"
+    location: "Circular arrangement of massive trilithons on Salisbury Plain, Wiltshire, England, precisely aligned earthwork platform"
+    weather: "Clear skies for astronomical observations, typical Neolithic climate conditions"
+  characters:
+    - appearance: "Middle-aged man, weathered face from outdoor work, calloused hands, keen observational eyes, lean build from physical labor"
+      clothing: "Leather tunic with bone fastenings, woolen cloak for cold mornings, leather boots, bronze tools hanging from hide belt"
+      position: "Standing with confident posture, frequently gesturing toward horizon or stones"
+      action: "Directing construction work with purposeful hand movements, studying celestial positions, making careful calculations"
+  scene:
+    mainElements: "Teams of workers digging circular ditch using antler picks and wooden spades, earth being piled to form internal bank, precise 100-meter diameter being marked with wooden stakes and rope"
+    details: "Red deer antlers used as quarrying and earth-moving tools, worn tines from heavy use, radiocarbon dated to specific construction phases, wear patterns indicating intensive labor, some carved with worker marks. Workers moving in coordinated groups, chalk rubble creating white spoil heaps, wooden measuring rods for maintaining perfect circle. Fresh chalk cuts contrasting with darker topsoil, rope lines stretched between marker posts"
+    background: "Rolling chalk downland of Salisbury Plain, distant horizon visible in all directions, ceremonial avenue extending northeast"
+    atmosphere: "Sacred silence broken only by wind through stones, dramatic shadows changing with sun position, sense of ancient purpose and astronomical precision. Sound of antler on chalk, coordinated work songs, sense of sacred undertaking"
+  composition:
+    cameraAngle: "Elevated view showing circular earthwork taking shape"
+    focus: "Central area where future monument will stand, currently being precisely measured"
+    depth: "Foreground shows detailed earth-moving work and tools, middle ground reveals emerging circular pattern, background shows plain extending to horizon, no text or letters visible"

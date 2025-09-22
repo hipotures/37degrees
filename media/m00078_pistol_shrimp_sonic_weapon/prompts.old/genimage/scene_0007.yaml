@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Mid-morning, tropical waters with strong sunlight penetration
+    location: Open water column above reef substrate, clear tropical ocean water with good visibility
+    weather: Calm underwater conditions with gentle water movement
+  characters: No characters present in this scene
+  scene:
+    mainElements: Spectacular formation and expansion of cavitation bubble created by high-velocity water jet
+    details: Transparent spherical water bubble with visible internal pressure dynamics, approximately 1-2 millimeters diameter,
+      slight optical distortion effects around edges. Newly formed cavitation bubble expanding rapidly from point of water
+      jet impact, showing perfectly spherical shape with ultra-thin membrane walls. Internal vacuum conditions creating optical
+      refraction effects that bend light passing through bubble structure. Surrounding water shows pressure depression zone
+      around bubble perimeter with particle movement indicating suction effects. Bubble surface tension creates mirror-like
+      reflective properties while maintaining transparency. Expansion rate captured at moment of maximum diameter before inevitable
+      collapse. Water molecules surrounding bubble show alignment patterns due to extreme pressure differentials.
+    background: Dynamic underwater environment with natural water movement and filtered sunlight from above
+    atmosphere: Scientific marvel of fluid dynamics and physics in action, incredible forces concentrated in microscopic sphere,
+      no text or letters visible
+  composition:
+    cameraAngle: Extreme macro close-up focusing entirely on cavitation bubble structure
+    focus: Cavitation bubble at moment of maximum expansion with emphasis on optical and pressure effects
+    depth: Ultra-sharp focus on bubble surface and internal dynamics, immediate surrounding water in focus, background completely
+      soft
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,105 @@
+canon:
+  characters:
+    - id: "medieval_bishop"
+      name: "Bishop of Clonmacnoise"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged cleric, 50s, weathered face from Irish climate, authoritative bearing"
+            clothing: "Fine woolen robes in ecclesiastical colors, ornate bronze Celtic cross, episcopal ring, leather boots"
+            position: "Standing with raised hand in protective gesture"
+            action: "Intervening to protect the aerial sailor from congregation's grasp"
+
+    - id: "sky_sailor"
+      name: "The Aerial Mariner"
+      description_block: |
+        characters:
+          - appearance: "Adult male, strong swimmer's build, appears to be struggling in thick air"
+            clothing: "Sailor's tunic and breeches, possibly different material than earthly clothing, barefoot"
+            position: "Suspended in air or struggling on ground"
+            action: "Swimming through air or desperately trying to return to ship above"
+
+    - id: "monastic_chronicler"
+      name: "Anonymous Annalist"
+      description_block: |
+        characters:
+          - appearance: "Young to middle-aged monk, ink-stained fingers, keen observational eyes"
+            clothing: "Brown woolen habit, writing materials pouch, quill and ink horn"
+            position: "Seated at writing desk or standing with writing materials"
+            action: "Carefully recording events in manuscript or observing phenomenon"
+
+    - id: "congregation_members"
+      name: "Clonmacnoise Faithful"
+      description_block: |
+        characters:
+          - appearance: "Mixed group of monks and lay people, various ages, Irish medieval population"
+            clothing: "Monks in brown habits, lay people in woolen tunics and cloaks, earth-tone colors"
+            position: "Gathered outside church, some pointing upward, others reaching"
+            action: "Looking skyward in wonder and fear, some trying to grasp the sailor"
+
+    - id: "ship_crew"
+      name: "Aerial Ship Crew"
+      description_block: |
+        characters:
+          - appearance: "Multiple sailors visible on ship deck, medieval seafaring appearance"
+            clothing: "Traditional sailor garments, tunics and breeches in earth tones"
+            position: "Standing on deck of floating ship above"
+            action: "Working ship rigging, preparing to cut anchor rope, assisting returning sailor"
+
+  locations:
+    - id: "clonmacnoise_monastery"
+      name: "Clonmacnoise Monastic City"
+      description_block: |
+        setting:
+          location: "Strategic location on River Shannon, central Ireland plains, County Offaly"
+        mainElements: "17 churches, round towers, high crosses, scriptorium, workshops, defensive walls, river jetty"
+        atmosphere: "Bustling medieval city, sounds of craftsmen, bells calling to prayer, River Shannon flowing nearby"
+
+    - id: "church_of_ciaran"
+      name: "Principal Church of Saint Ciarán"
+      description_block: |
+        setting:
+          location: "Stone church within Clonmacnoise complex with arched doorway"
+        mainElements: "Stone arch over main entrance, bishop's throne, altar, wooden benches, decorated Celtic crosses"
+        atmosphere: "Sacred space filled with incense, candlelight, chanted prayers, reverent silence"
+
+    - id: "irish_countryside_748"
+      name: "8th Century Irish Landscape"
+      description_block: |
+        setting:
+          location: "Central Ireland, Shannon River valley, rolling green hills"
+        mainElements: "Thatched farmsteads, field boundaries, cattle grazing, ancient earthworks, oak groves"
+        atmosphere: "Misty mornings, clean air, sounds of livestock and flowing water"
+
+    - id: "sky_realm"
+      name: "The Upper Air Sea"
+      description_block: |
+        setting:
+          location: "Aerial realm above Clonmacnoise, described as navigable like the sea"
+        mainElements: "Dense air that supports vessels, different atmospheric properties, floating ships"
+        atmosphere: "Otherworldly silence, different light quality, sense of multiple reality layers"
+
+  items:
+    - id: "bronze_anchor"
+      name: "The Sky Ship's Anchor"
+      description_block: |
+        details: "Traditional Celtic anchor design, bronze construction, one fluke caught in stone church arch, weathered surface with foreign metalwork techniques"
+
+    - id: "anchor_rope"
+      name: "The Ship's Cable"
+      description_block: |
+        details: "Thick rope of unusual material, different fiber than earthly hemp, strong enough to support ship's weight, clean cut where severed by crew"
+
+    - id: "aerial_vessel"
+      name: "Sky Ship of Clonmacnoise"
+      description_block: |
+        details: "Traditional medieval ship design capable of aerial navigation, full crew visible on deck, floating in upper air as if on water, fully operational with masts and rigging"
+
+    - id: "church_stone_arch"
+      name: "Clonmacnoise Church Doorway"
+      description_block: |
+        details: "Romanesque stone arch over main church entrance, carved Celtic details, strong enough to catch anchor, shows wear from age and weather"
+
+    - id: "annals_manuscripts"
+      name: "Irish Chronicle Entries"
+      description_block: |
+        details: "Vellum pages with iron gall ink, Latin and Old Irish text, brief entries across Ulster and other annals, contemporary documentation of aerial sighting"

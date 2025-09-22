@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Eternal Mystery - 90 Years Later"
+  setting:
+    time: "2023, golden hour sunset"
+    location: "Scotland's second-largest freshwater loch - 23 miles long, 1 mile wide, 754 feet deep maximum depth"
+    weather: "Dramatic sunset with low clouds creating atmospheric lighting"
+  characters:
+    - appearance: "Contemporary visitors of various ages with modern cameras and smartphones"
+      clothing: "Modern outdoor gear, hiking boots, waterproof jackets, tourist attire"
+      position: "Scattered along shoreline and viewpoints"
+      action: "Taking photographs, scanning water surface, continuing the search"
+  scene:
+    mainElements: "Same dark peaty waters that launched the legend, unchanged highland landscape, modern visitors drawn by enduring mystery"
+    details: "Smartphone cameras and digital equipment replacing box cameras, thermal imaging devices, modern camping and observation gear, tourist infrastructure now permanent part of landscape, memorial plaques and information boards, mixture of believers and skeptics"
+    background: "Timeless loch surface still capable of surprising observers, highland peaks unchanged by decades of investigation"
+    atmosphere: "Enduring fascination with unexplained, ancient landscape hosting modern curiosity, mystery persisting despite technological advancement"
+  composition:
+    cameraAngle: "Wide establishing shot mirroring opening scene but with modern elements"
+    focus: "Continuity between past wonder and present curiosity about same waters"
+    depth: "Foreground shows modern observers with equipment, middle ground captures eternal loch surface, background reveals unchanged highland vista, no text or letters visible"

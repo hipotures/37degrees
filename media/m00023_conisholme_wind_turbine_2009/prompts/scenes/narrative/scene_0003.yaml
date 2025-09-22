@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Character JH at Window Observing Wind Farm"
+  setting:
+    time: "January 3, 2009, 22:00-23:00, late evening"
+    location: "Saltfleetby village, Character JH's house with upstairs landing window facing wind farm, clear sightlines across flat countryside"
+    weather: "Clear January night sky, distant turbine lights visible, minimal wind"
+  characters:
+    - appearance: "Middle-aged local resident, weathered features typical of Lincolnshire farmer, concerned expression"
+      clothing: "Winter coat, practical rural attire suitable for cold January weather"
+      position: "Standing at upstairs landing window, looking out toward wind farm"
+      action: "Observing unusual lights over Conisholme wind farm, leaning forward against window frame"
+  scene:
+    mainElements: "Upstairs window view across flat Lincolnshire countryside toward wind farm, normal turbine warning lights visible, character JH silhouetted against interior lighting"
+    details: "Window frame dividing view into sections, frost patterns on glass edges, interior staircase visible behind character, distant wind turbines marked by standard aviation lights, clear night allowing good visibility across agricultural landscape"
+    background: "Flat countryside extending to wind farm horizon, scattered farmhouse lights, normal turbine warning beacons blinking"
+    atmosphere: "Quiet rural evening observation, growing concern about unusual sighting, witness beginning to document something extraordinary"
+  composition:
+    cameraAngle: "Medium shot from interior, showing character at window"
+    focus: "Character JH observing through window toward distant wind farm"
+    depth: "Foreground interior staircase and character, middle ground window view, background distant wind farm lights, no text or letters visible"

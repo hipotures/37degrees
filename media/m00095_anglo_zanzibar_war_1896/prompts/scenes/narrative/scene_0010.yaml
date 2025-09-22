@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "New Order - British Victory"
+  setting:
+    time: "August 27, 1896, afternoon"
+    location: "Stone Town waterfront and palace ruins, Zanzibar"
+    weather: "Clear tropical afternoon, smoke cleared"
+  characters:
+    - appearance: "British man, 45, tan complexion, military mustache, tall lean frame, alert eyes"
+      clothing: "Zanzibar army uniform with British military insignia, tropical sun helmet"
+      position: "Standing in palace courtyard surveying damage"
+      action: "Officer bearing, directing cleanup operations and establishing new authority"
+  scene:
+    mainElements: "Four-story white coral stone building with clock tower and ornate verandas, House of Wonders now serving as temporary headquarters"
+    details: "British soldiers and local officials establishing new administration, palace ruins being cleared, House of Wonders undamaged and flying British flag, new guards posted at entrances, local population watching cautiously from distance, traditional dhows returning to normal harbor operations"
+    background: "British warships still anchored in harbor as show of force, Stone Town resuming daily activities, tropical vegetation unchanged by brief conflict"
+    atmosphere: "Impressive ceremonial architecture representing new British authority, rapid transition from war to occupation, imperial control established, tropical paradise under new management, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing new British administration taking control"
+    focus: "House of Wonders as symbol of continuing British power"
+    depth: "British officials in foreground, House of Wonders in middle ground, harbor with fleet in background"

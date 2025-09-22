@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Congressional Committee Investigates CIA Activities"
+  setting:
+    time: "1975, afternoon"
+    location: "US Senate Committee hearing room, Russell Senate Office Building, Washington DC"
+    weather: "Clear day, indoor setting"
+  characters:
+    - appearance: "Caucasian man, 60s, tall, dignified bearing, silver-gray hair, serious expression, weathered face"
+      clothing: "1975 dark blue business suit with white dress shirt and conservative tie"
+      position: "Seated at elevated committee chairman position"
+      action: "Presiding over hearing while reviewing documents and questioning witnesses"
+    - appearance: "Caucasian man, 40s-60s, formal bearing, gray or dark hair, serious expression"
+      clothing: "1975 business suit with white shirt and conservative tie"
+      position: "Seated at witness table facing committee"
+      action: "Answering questions while consulting prepared statements and documents"
+    - appearance: "Various individuals, 30s-60s, formal government bearing, serious expressions"
+      clothing: "1970s business suits, formal congressional attire"
+      position: "Seated at curved committee desk and in gallery seating"
+      action: "Listening intently, taking notes, and following hearing proceedings"
+  scene:
+    mainElements: "Curved wooden committee desk elevated on platform, witness table below, rows of gallery seating, American flag, formal government architecture"
+    details: "Committee hearing room with mahogany paneling and formal government decor. Microphones at witness table and committee positions. Photographers and press gallery visible. Stacks of documents and evidence materials on tables. Gallery filled with observers and media representatives. Overhead lighting creating dramatic atmosphere."
+    background: "Formal congressional architecture with marble columns, government seals, and institutional corridors visible through open doors"
+    atmosphere: "Formal, tense, historically significant governmental proceeding with dramatic lighting and sense of major constitutional investigation, no text or letters visible"
+  composition:
+    cameraAngle: "Wide angle from press gallery"
+    focus: "Congressional committee questioning witness about CIA activities"
+    depth: "Committee members in foreground, witness at table in middle ground, formal government architecture in background"

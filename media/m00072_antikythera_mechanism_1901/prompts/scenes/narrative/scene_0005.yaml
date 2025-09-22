@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Museum Arrival - Ancient Artifacts Enter Modern Study"
+  setting:
+    time: "1902, morning"
+    location: "National Archaeological Museum of Athens, Greece, early 1900s exhibition hall"
+    weather: "Bright morning light streaming through tall museum windows"
+  characters:
+    - appearance: "Greek man, 50s, mustached, scholarly demeanor, keen observant eyes"
+      clothing: "Early 20th century formal suit with vest, or museum curator attire"
+      position: "Standing beside display table examining artifacts with magnifying glass"
+      action: "Carefully studying corroded bronze mechanism with scholarly attention"
+  scene:
+    mainElements: "Grand neoclassical museum interior with marble columns, display cases, and archaeological artifacts"
+    details: "Classical museum hall with high ceilings, marble columns, and natural light from tall windows. Wooden display tables covered with Antikythera artifacts including the bronze mechanism, pottery fragments, and other recovered items. Ancient bronze mechanical device, 34cm x 18cm x 9cm, complex system of 30+ interlocking gears, corroded green patina, inscribed with Greek text, fragmented into multiple pieces, world's first analog computer. Museum cataloging equipment, measuring tools, and documentation materials nearby."
+    background: "Museum galleries with classical Greek artifacts in display cases, marble statuary, and academic atmosphere"
+    atmosphere: "Scholarly academic environment with natural light from tall windows illuminating ancient Greek treasures. Sense of important scientific discovery beginning to unfold."
+  composition:
+    cameraAngle: "Medium shot showing scholar examining the mechanism"
+    focus: "Museum curator studying the mysterious bronze device with scientific precision"
+    depth: "Foreground: scholar and mechanism, middle ground: display tables with artifacts, background: classical museum architecture, no text or letters visible"

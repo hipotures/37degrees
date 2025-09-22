@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Midway Progress - The Engine Components Challenge"
+  setting:
+    time: "1979, late afternoon"
+    location: "Industrial workshop space with metal cutting tools and workbenches"
+    weather: "Autumn light filtering through workshop windows"
+  characters:
+    - appearance: "French man, 30s, medium build, distinctive intense dark eyes, average height, concentrated expression when eating unusual objects"
+      clothing: "Simple 1970s casual wear - button-down shirts, dark trousers, sometimes white lab coat during medical examinations"
+      position: "Seated at workbench, examining aircraft engine parts"
+      action: "Carefully preparing heavier engine components, determining cutting strategy for complex metal pieces"
+  scene:
+    mainElements: "Heavy wooden workbench, electric power saw, metal cutting tools, safety equipment"
+    details: "Aircraft engine parts partially disassembled, complex metal components with intricate shapes, small bite-sized pieces of aircraft metal already prepared and arranged on plates, clear glass bottle containing mineral oil for consumption, more sophisticated cutting tools for engine work"
+    background: "Workshop now showing accumulated airplane parts, progress charts on wall, storage areas with completed sections"
+    atmosphere: "Mid-project intensity, workshop showing signs of long-term project, focused determination"
+  composition:
+    cameraAngle: "Close-up shot of detailed work process"
+    focus: "Character examining complex engine parts, planning next phase of consumption"
+    depth: "Foreground: engine components being examined, middle ground: character and detailed work setup, background: workshop showing project progression, no text or letters visible"

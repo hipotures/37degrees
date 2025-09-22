@@ -1,0 +1,12 @@
+media_info:
+  title: American Pig War Incident - 1859
+  year: 1859
+  genre: Historical Documentary
+  description: US-British near-war triggered by American farmer shooting British pig over potato field invasion
+  target_audience: General public, students, history enthusiasts, diplomatic history buffs
+  duration: ~3 minutes
+  objective: Recreate the bizarre diplomatic crisis that nearly caused war between America and Britain over a pig
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

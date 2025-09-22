@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Carving the wooden head of the mechanical monk"
+  setting:
+    time: "1563, afternoon"
+    location: "Stone-walled Renaissance workshop in Toledo, Spain, with vaulted ceiling and tall windows"
+    weather: "Overcast with soft diffused light through windows"
+  characters:
+    - appearance: "Italian man, 50s, graying beard, intense focused eyes, calloused hands from metalwork"
+      clothing: "Renaissance brown leather apron over white linen shirt, dark wool hose, leather boots"
+      position: "Seated at workbench under good light from window"
+      action: "Delicately carving facial features into wooden monk's head with fine chisels"
+  scene:
+    mainElements: "Wooden workbenches covered with clockwork mechanisms, brass gears, springs, and precision tools surround the central carving work"
+    details: "Half-carved wooden head showing serene monastic features takes shape under skilled hands. Precision instruments including tiny hammers, files, calipers, brass measuring devices, magnifying lenses, gear-cutting tools, springs and clockwork components are arranged nearby. Wood shavings curl around the workspace. Fine carving tools create detailed facial expressions of peaceful devotion. The emerging head shows tonsured crown and gentle, holy expression"
+    background: "Workshop shelves display various mechanical curiosities while tall windows provide natural light for detailed work"
+    atmosphere: "Quiet reverence as sacred features emerge from wood, the craftsman channeling spiritual devotion through artistic skill and mechanical precision"
+  composition:
+    cameraAngle: "Close-up shot focusing on the hands carving the wooden head"
+    focus: "The emerging facial features of the mechanical monk under careful craftsmanship"
+    depth: "Foreground: carving tools and wood shavings; middle: the wooden head and working hands; background: workshop equipment and windows, no text or letters visible"

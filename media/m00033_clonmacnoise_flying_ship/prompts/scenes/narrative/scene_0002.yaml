@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Sunday Morning Mass Preparation at Principal Church"
+  setting:
+    time: "748 CE, Sunday morning before Mass"
+    location: "Principal Church within Clonmacnoise complex"
+    weather: "Clear morning, peaceful atmosphere"
+  characters:
+    - appearance: "Middle-aged cleric, 50s, weathered face from Irish climate, authoritative bearing"
+      clothing: "Fine woolen robes in ecclesiastical colors, ornate bronze Celtic cross, episcopal ring, leather boots"
+      position: "Standing with raised hand in protective gesture"
+      action: "Intervening to protect the aerial sailor from congregation's grasp"
+    - appearance: "Young to middle-aged monk, ink-stained fingers, keen observational eyes"
+      clothing: "Brown woolen habit, writing materials pouch, quill and ink horn"
+      position: "Seated at writing desk or standing with writing materials"
+      action: "Carefully recording events in manuscript or observing phenomenon"
+  scene:
+    mainElements: "Stone church within Clonmacnoise complex with arched doorway. Stone arch over main entrance, bishop's throne, altar, wooden benches, decorated Celtic crosses. Sacred space filled with incense, candlelight, chanted prayers, reverent silence."
+    details: "Interior of principal church showing preparation for Sunday Mass. Stone altar draped with ceremonial cloth. Bishop's ornate throne positioned prominently. Wooden benches arranged for congregation. Celtic crosses and religious artifacts adorning walls. Candles being lit at altar. Incense burner releasing fragrant smoke. Morning light filtering through narrow windows illuminating sacred space."
+    background: "Stone walls with carved Celtic religious motifs, arched doorway leading to monastery grounds, additional religious furnishings and sacred vessels"
+    atmosphere: "Solemn reverence and anticipation before important Sunday Mass, quiet murmur of preparation, sacred stillness broken only by soft footsteps and whispered prayers, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from inside church looking toward altar and entrance"
+    focus: "The sacred preparation and religious atmosphere before the miraculous event"
+    depth: "Foreground shows altar preparations, middle ground reveals bishop and monks, background displays church architecture and entrance arch"

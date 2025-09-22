@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1961, afternoon
+    location: Control room with shock generator machine, Yale University laboratory
+    weather: Indoor laboratory environment
+  characters:
+  - appearance: Caucasian man, 30s, stern facial expression, authoritative bearing, clean-shaven
+    clothing: Gray laboratory coat over dark suit, white shirt, professional appearance
+    position: Standing beside shock generator console in position of authority
+    action: Demonstrating operation of shock generator switches and explaining experimental procedures
+  - appearance: Caucasian man, 30s-40s, average build, anxious expression, increasingly distressed
+    clothing: 1960s business casual attire, dress shirt with rolled sleeves, dark trousers
+    position: Standing attentively beside experimenter receiving instructions
+    action: Listening carefully to procedural explanations and observing shock generator demonstration
+  scene:
+    mainElements: Tense, clinical environment with imposing scientific equipment and harsh lighting. Large metal shock generator
+      console with 30 switches positioned prominently between experimenter and participant.
+    details: 'Large metal console with 30 horizontal lever switches, voltage markings from 15 to 450 volts, warning labels
+      including ''Danger: Severe Shock'' and ''XXX'', professional industrial appearance. Institutional laboratory furniture
+      arranged for scientific observation. Clipboard with experimental protocols and timing sheets visible on nearby table.'
+    background: Tense, clinical environment with imposing scientific equipment and harsh lighting
+    atmosphere: Professional scientific demonstration creating sense of legitimate research methodology. Growing tension as
+      participant realizes scope of electrical equipment involved.
+  composition:
+    cameraAngle: Medium shot showing experimenter-participant interaction
+    focus: 'Large metal console with 30 horizontal lever switches, voltage markings from 15 to 450 volts, warning labels including
+      ''Danger: Severe Shock'' and ''XXX'', professional industrial appearance'
+    depth: Foreground emphasizes shock generator controls, middle ground shows experimenter demonstration, background reveals
+      laboratory monitoring equipment, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

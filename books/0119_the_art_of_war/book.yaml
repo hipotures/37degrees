@@ -4,3 +4,177 @@ book_info:
   author: "Sun Tzu"
   year: 5th century BC
   genre: "Military treatise,Strategy"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T10:30:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 9
+    relevance: 9
+    innovation: 9
+    structural_complexity: 5
+    social_roles: 7
+    total: 64
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 8.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Exploited by dictators, terrorists, corporate raiders - most controversial ancient text"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Multi-layered water metaphor system organizing entire strategic philosophy"
+        source: "symbols_meanings"
+      - id: "reality_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Predicted cyber warfare, AI dominance, information warfare 2500 years ago"
+        source: "reality_wisdom"
+      - id: "culture_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created entire business literature genre through strategic principles"
+        source: "culture_impact"
+      - id: "youth_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "4M TikTok posts prove viral contemporary relevance across generations"
+        source: "youth_digital"
+      - id: "innovation_5"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Revolutionary modular knowledge architecture - first practical philosophy"
+        source: "writing_innovation"
+      - id: "history_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Influenced major military leaders from Mao to MacArthur across centuries"
+        source: "facts_history"
+      - id: "warnings_7"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Requires content warnings due to extremist exploitation and manipulation themes"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Wall Street icon since Gordon Gekko quote - defines business strategy culture"
+        key_editions: ["Lionel Giles 1910", "Samuel B. Griffith 1963", "Roger Ames scholarly"]
+        reception_notes: "Business schools standard, West Point required reading"
+        educational_status: "Military academy mandatory text, MBA curriculum staple"
+        local_themes: ["Silicon Valley disruption", "Corporate strategy", "Military doctrine"]
+
+      pl:
+        cultural_impact: "Transformation-era business bible - defined Polish capitalism emergence"
+        key_editions: ["Jarosław Zawadzki 2009 direct Chinese", "Helion business editions"]
+        reception_notes: "Mandatory manager reading 1990s-2000s transformation period"
+        educational_status: "Jagiellonian University research focus, Warsaw sinology center"
+        local_themes: ["Round Table negotiations", "Business competition metaphors", "Strategic flexibility"]
+
+      de:
+        cultural_impact: "Complements Clausewitz tradition - military-business bridge"
+        key_editions: ["Harro von Senger Reclam", "Suhrkamp archaeological edition"]
+        reception_notes: "Blitzkrieg influence acknowledged, project management applications"
+        educational_status: "Business schools integration, military academy comparative studies"
+        local_themes: ["Clausewitz dialogue", "Neutral diplomacy", "Swiss jurisprudence"]
+
+      fr:
+        cultural_impact: "First European translation 1772 - philosophical integration tradition"
+        key_editions: ["Jesuit Amiot 1772", "Modern scholarly French editions"]
+        reception_notes: "Intellectual discourse integration, business application secondary"
+        educational_status: "Philosophy departments study, strategic studies programs"
+        local_themes: ["Intellectual tradition", "Diplomatic strategy", "Cultural philosophy"]
+
+      es:
+        cultural_impact: "Latin American business expansion guide - strategic planning standard"
+        key_editions: ["Business-focused Spanish translations", "Academic editions"]
+        reception_notes: "Startup culture adoption, entrepreneurship applications"
+        educational_status: "Business schools requirement, strategic management courses"
+        local_themes: ["Entrepreneurship", "Latin American markets", "Strategic expansion"]
+
+      pt:
+        cultural_impact: "Brazilian business culture integration - strategic thinking standard"
+        key_editions: ["Portuguese business translations", "Brazilian academic editions"]
+        reception_notes: "Corporate training programs, leadership development focus"
+        educational_status: "Business administration programs, executive education"
+        local_themes: ["Brazilian market strategy", "Corporate leadership", "Business adaptation"]
+
+      ja:
+        cultural_impact: "Ancient integration since 8th century - corporate culture foundation"
+        key_editions: ["Historical Japanese translations", "Corporate training editions"]
+        reception_notes: "Kaizen philosophy integration, management standard practice"
+        educational_status: "Mandatory corporate reading, business culture foundation"
+        local_themes: ["Fūrinkazan samurai", "Corporate kaizen", "Long-term planning"]
+
+      ko:
+        cultural_impact: "Strategic planning standard - business education requirement"
+        key_editions: ["Korean academic translations", "Business application editions"]
+        reception_notes: "Chaebol management philosophy, strategic thinking foundation"
+        educational_status: "Business schools standard, strategic management requirement"
+        local_themes: ["Chaebol strategy", "Korean business culture", "Strategic adaptation"]
+
+      hi:
+        cultural_impact: "Strategic thinking emergence - business development guide"
+        key_editions: ["Hindi business translations", "Academic Hindi editions"]
+        reception_notes: "IT industry adoption, startup culture integration"
+        educational_status: "Business schools emerging, strategic management courses"
+        local_themes: ["IT strategy", "Startup culture", "Business development"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Ancient Chinese warring states context and creation circumstances"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Strategic manipulation and exploitation by modern power structures"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Cyber warfare predictions and information dominance reality"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "social_impact"
+          lead: "host_b"
+          description: "Business culture transformation and strategic discourse influence"
+      prompts:
+        host_a: "You are {male_name}, a social historian analyzing 'The Art of War' through lens of power, influence, and strategic thinking across civilizations. Historical context: 5th century BC warring states to modern information warfare."
+        host_b: "You are {female_name}, examining contemporary power dynamics in 'The Art of War'. Connect to current social debates about corporate manipulation, digital warfare, and strategic influence in modern society."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["strategic manipulation discussion", "historical violence references", "extremist exploitation context"]
+    educational_elements: ["Strategic thinking principles", "Historical military context", "Business leadership concepts", "Information warfare evolution"]
+    production_notes:
+      intro_style: "Ancient wisdom meets modern power dynamics"
+      transitions: "Strategic pause with subtle tension"
+      outro_style: "Timeless influence across civilizations"
+
+  overall_confidence: 0.88

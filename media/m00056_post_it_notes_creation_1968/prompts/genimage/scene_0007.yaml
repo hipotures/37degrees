@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1974, weekday afternoon
+    location: 3M Research Laboratory, St. Paul, Minnesota, 1970s
+    weather: Overcast afternoon with fluorescent laboratory lighting
+  characters:
+  - appearance: Caucasian man, mid 40s, medium build, receding hairline with dark hair, warm expression with gentle eyes,
+      friendly demeanor
+    clothing: 1970s business casual attire - dress shirt with tie, sometimes cardigan sweater
+    position: Standing at laboratory bench alongside colleague
+    action: Explaining bookmark problem with animated gestures, demonstrating how bookmarks fall from hymnal, showing enthusiasm
+      for potential solution
+  - appearance: Caucasian man, early 30s, average height, dark brown hair neatly parted, intelligent brown eyes behind thick-rimmed
+      glasses, clean-shaven with serious expression
+    clothing: 1970s business casual attire - dress shirt with tie
+    position: Standing at laboratory bench, leaning over adhesive samples
+    action: Showing adhesive properties with paper samples, demonstrating how weak adhesive allows repositioning, explaining
+      technical aspects while listening intently to bookmark application idea
+  scene:
+    mainElements: Modern corporate laboratory with white walls, fluorescent lighting, stainless steel work benches, chemical
+      equipment, test tubes, beakers, microscopes. Small glass vial containing clear, slightly viscous liquid adhesive with
+      unique spherical molecular structure, labeled with handwritten research notes.
+    details: Laboratory workspace with adhesive samples and testing materials, paper pieces with experimental adhesive applications,
+      prototype bookmark designs scattered on work surface, technical drawings and notes about bookmark requirements, both
+      characters showing excitement about connecting problem with solution.
+    background: Laboratory environment with other researchers working at adjacent stations, shelves with chemical supplies
+      and equipment, large windows providing natural light supplement to fluorescent lighting, corporate research atmosphere
+    atmosphere: Excitement of collaboration and breakthrough thinking, sense of two minds connecting separate discoveries,
+      energy of problem-solving and innovation, professional research environment where ideas come together, anticipation
+      of potential success, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from slight angle showing both characters interacting at work bench
+    focus: Both characters engaged in animated discussion while examining adhesive samples and bookmark prototypes
+    depth: Both characters and laboratory materials in foreground, laboratory equipment and workspace in middle ground, other
+      researchers and laboratory background in soft focus
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

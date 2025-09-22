@@ -4,3 +4,174 @@ book_info:
   author: "Valmiki"
   year: c. 5th century BC
   genre: "Epic,Poetry"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T15:45:00Z"
+
+  scores:
+    controversy: 8.0
+    philosophical_depth: 9.0
+    cultural_phenomenon: 10.0
+    contemporary_reception: 5.0
+    relevance: 8.0
+    innovation: 10.0
+    structural_complexity: 7.0
+    social_roles: 8.0
+    total: 65.0
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 7.8
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Rama killed Sambuka, an ascetic from the Sudra caste, for performing penance in violation of dharma, causing death of a Brahmin's son"
+        source: "dark_drama"
+      - id: "dark_drama_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Sita was forced to undergo trial by fire (Agni Pariksha) after being freed from Ravana's captivity to prove her purity"
+        source: "dark_drama"
+      - id: "symbols_meanings_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Rama represents the archetypal Self - integrated personality seeking its anima (feminine side) embodied in Sita"
+        source: "symbols_meanings"
+      - id: "culture_impact_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Ramayana TV series (1987-88) was watched by over 650 million people, setting world record viewership"
+        source: "culture_impact"
+      - id: "youth_digital_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Ramayana narratives used in trauma-informed therapy for contemporary mental health treatment"
+        source: "youth_digital"
+      - id: "reality_wisdom_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Rama's public banishment of Sita represents toxic relationship pattern of partner controlling reputation over trust"
+        source: "reality_wisdom"
+      - id: "writing_innovation_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Valmiki created the sloka meter - first regular versification system in world literature from spontaneous emotional response"
+        source: "writing_innovation"
+      - id: "facts_history_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "There are about 300 different versions of Ramayana worldwide - record among literary works for cultural adaptation"
+        source: "facts_history"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text for postcolonial literary theory and comparative mythology in Western academia"
+        key_editions: ["Penguin Classics by R.K. Narayan", "Princeton University Press critical edition by Robert Goldman"]
+        reception_notes: "Central to world literature curricula and postcolonial studies programs"
+        educational_status: "Required reading in comparative literature and religious studies"
+        local_themes: ["Hero's journey archetypal analysis", "Orientalism and colonial discourse"]
+      pl:
+        cultural_impact: "Studied as example of Eastern wisdom tradition and comparative epic literature"
+        key_editions: ["Academic translations in Polish literary studies"]
+        reception_notes: "Limited mainstream awareness but strong academic interest"
+        educational_status: "Part of world literature courses in universities"
+        local_themes: ["Epic tradition comparisons", "East-West cultural dialogue"]
+      de:
+        cultural_impact: "Significant influence on German Romantic movement and philosophical interpretations"
+        key_editions: ["German scholarly editions and Reclam series"]
+        reception_notes: "Strong tradition of psychoanalytic and philosophical readings"
+        educational_status: "Integrated in comparative literature and philosophy programs"
+        local_themes: ["Jungian psychological interpretations", "Romantic mythology studies"]
+      fr:
+        cultural_impact: "Embraced in French literary theory and structural analysis traditions"
+        key_editions: ["French academic translations and critical editions"]
+        reception_notes: "Studied through lens of structuralism and literary theory"
+        educational_status: "Part of comparative literature and cultural studies"
+        local_themes: ["Structural narrative analysis", "Postcolonial literary theory"]
+      es:
+        cultural_impact: "Growing interest in Hispanic world through comparative epic studies"
+        key_editions: ["Spanish translations for academic and general audiences"]
+        reception_notes: "Increasing academic attention in Latin American universities"
+        educational_status: "Emerging in world literature programs"
+        local_themes: ["Epic tradition parallels", "Cultural synthesis studies"]
+      pt:
+        cultural_impact: "Studied in Portuguese-speaking academia as world literature classic"
+        key_editions: ["Portuguese academic translations"]
+        reception_notes: "Academic interest primarily in comparative literature"
+        educational_status: "Part of world literature and cultural studies"
+        local_themes: ["Cross-cultural epic analysis", "Literary universalism"]
+      ja:
+        cultural_impact: "Deep cultural resonance through anime adaptations and Buddhist interpretations"
+        key_editions: ["Japanese versions: Hobutsushu and Sambo-Ekotoba"]
+        reception_notes: "Strong connection through Japanese-Indian anime collaboration"
+        educational_status: "Studied in religious studies and Asian literature"
+        local_themes: ["Buddhist philosophical readings", "Anime cultural adaptations"]
+      ko:
+        cultural_impact: "Academic study in Korean universities focusing on Asian epic traditions"
+        key_editions: ["Korean academic translations and study materials"]
+        reception_notes: "Growing interest in comparative Asian literature"
+        educational_status: "Part of Asian studies and world literature programs"
+        local_themes: ["Pan-Asian cultural studies", "Comparative epic analysis"]
+      hi:
+        cultural_impact: "Foundational cultural text with contemporary political and social significance"
+        key_editions: ["Multiple Hindi adaptations and Ramcharitmanas by Tulsidas"]
+        reception_notes: "Central to cultural identity and ongoing political discourse"
+        educational_status: "Core curriculum in Hindi literature and cultural studies"
+        local_themes: ["Cultural nationalism debates", "Feminist reinterpretations"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-02:48"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Rama killed Sambuka, an ascetic from the Sudra caste, for performing penance in violation of dharma, causing death of a Brahmin's son"
+        - segment: 2
+          time_range: "02:48-05:36"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Sita was forced to undergo trial by fire (Agni Pariksha) after being freed from Ravana's captivity to prove her purity"
+        - segment: 3
+          time_range: "05:36-08:24"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Rama represents the archetypal Self - integrated personality seeking its anima (feminine side) embodied in Sita"
+        - segment: 4
+          time_range: "08:24-11:12"
+          topic: "future"
+          lead: "host_b"
+          description: "Ramayana TV series (1987-88) was watched by over 650 million people, setting world record viewership"
+        - segment: 5
+          time_range: "11:12-14:00"
+          topic: "synthesis"
+          lead: "host_a"
+          description: "Ramayana narratives used in trauma-informed therapy for contemporary mental health treatment"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'Ramayana' through lens of power, gender, class. Historical context: c. 5th century BC."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates, modern interpretations."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "caste discrimination discussion", "patriarchal content analysis"]
+    educational_elements: ["Epic genre characteristics", "Historical context of 5th century BC", "Cross-cultural narrative analysis"]
+    production_notes:
+      intro_style: "epic musical theme with traditional Indian instruments"
+      transitions: "subtle musical bridges"
+      outro_style: "contemplative fade with discussion summary"
+
+  overall_confidence: 0.9

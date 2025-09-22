@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Moscow Before the Change - Traditional Russian Life"
+  setting:
+    time: "1705, early morning"
+    location: "Cobblestone street in early 18th century Moscow with wooden houses and onion-domed churches"
+    weather: "Light snow falling on cobblestones"
+  characters:
+    - appearance: "Caucasian man, 50s, stocky build, full long gray beard, weathered face, dignified bearing"
+      clothing: "Traditional Russian long kaftan in dark colors, fur-trimmed cap or hat"
+      position: "Walking proudly down the street center"
+      action: "Stroking his long beard while surveying his neighborhood with satisfaction"
+    - appearance: "Caucasian man, 40s, round build, thick brown beard, calculating eyes"
+      clothing: "Rich merchant robes with fur trim, ornate belt with coin purse"
+      position: "Standing beside market stall"
+      action: "Examining goods while adjusting his full beard in the cold air"
+  scene:
+    mainElements: "Traditional Russian wooden buildings, church spires, market stalls, snow-covered ground"
+    details: "Orthodox church bells ring in distance, wooden houses with carved window frames, traditional Russian architecture dominates the scene, merchants and citizens all sporting full beards as symbols of piety and tradition, steam from breath visible in cold air, icicles hanging from building eaves"
+    background: "Towering onion domes of Orthodox churches pierce the gray winter sky, smoke rising from chimneys of wooden houses"
+    atmosphere: "Peaceful traditional Russian morning, strong sense of cultural identity and religious devotion, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position"
+    focus: "Traditional bearded Russian men representing the old way of life"
+    depth: "Bearded figures in foreground, traditional buildings in middle ground, church domes in background"

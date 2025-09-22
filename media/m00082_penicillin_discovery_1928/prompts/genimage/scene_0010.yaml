@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1928 late September, evening
+    location: St Mary's Hospital Bacteriology Laboratory, Paddington, London
+    weather: Clear autumn evening with golden hour lighting
+  characters:
+  - appearance: Scottish man, 47 years old, average height, lean build, receding dark hair, thoughtful brown eyes, clean-shaven
+    clothing: 1920s white laboratory coat over dark suit with vest and tie, or dark wool suit with waistcoat
+    position: Standing at laboratory bench writing in research notebook
+    action: Recording final observations and preparing research publication notes
+  scene:
+    mainElements: Laboratory bench with original contaminated culture plate preserved, research documentation, scientific
+      equipment used in discovery
+    details: Original contaminated petri dish carefully preserved under glass cover, laboratory notebook open with detailed
+      observations and sketches, brass microscope positioned for continued study, glass flasks containing mold cultures for
+      further research, chemical bottles and extraction equipment, evening sunlight creating warm glow through laboratory
+      windows, sense of momentous scientific achievement, no text or letters visible
+    background: Laboratory shelves with scientific equipment, institutional hospital setting, view of London through windows
+      transitioning to evening light
+    atmosphere: Quiet satisfaction of scientific discovery, anticipation of future medical breakthroughs, recognition of potential
+      to save countless lives
+  composition:
+    cameraAngle: Medium shot showing Character AF with his groundbreaking discovery in context
+    focus: Character AF documenting his discovery with original contaminated culture visible
+    depth: Foreground shows preserved contaminated culture and research documentation, middle ground captures character AF's
+      methodical work, background reveals laboratory setting with evening light creating sense of historical significance
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First tasting of the wheat flakes"
+  setting:
+    time: "1894, late morning"
+    location: "Large institutional kitchen inside Battle Creek Sanitarium, Michigan"
+    weather: "Bright morning continuing with clear skies"
+  characters:
+    - appearance: "Caucasian man, 40s, tall and lean build, intense dark eyes, full dark beard, stern expression"
+      clothing: "1890s white medical coat over dark suit, or formal black suit with white shirt and bow tie"
+      position: "Seated at small kitchen table, tasting the newly created flakes"
+      action: "Carefully sampling the crispy wheat flakes, evaluating their taste and texture"
+    - appearance: "Caucasian man, 30s, shorter than his brother, clean-shaven, practical demeanor, focused expression"
+      clothing: "1890s dark business suit with vest, white shirt, simple necktie, sometimes wearing work apron"
+      position: "Seated across from his brother, also sampling the flakes"
+      action: "Taking notes about the taste and discussing potential applications for the new food"
+  scene:
+    mainElements: "Small wooden table with plates of wheat flakes, simple bowls, spoons, note-taking materials"
+    details: "Thin, crispy flakes of wheat scattered on metal tray, golden-brown color, each flake individual and delicate, samples on plates for tasting, pencil and paper for recording observations, simple kitchen furniture, no text or letters visible"
+    background: "Kitchen work area with rolling machine still visible, other food preparation continuing"
+    atmosphere: "Excitement of discovery combined with scientific evaluation, sense of realizing the commercial potential of accident"
+  composition:
+    cameraAngle: "Medium close-up shot of the tasting session"
+    focus: "Both brothers sampling and discussing the wheat flakes"
+    depth: "Foreground shows plates with flakes, middle ground shows both characters tasting, background shows kitchen equipment used in discovery"

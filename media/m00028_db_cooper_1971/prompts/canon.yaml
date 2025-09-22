@@ -1,0 +1,94 @@
+canon:
+  characters:
+    - id: "character_DC"
+      name: "Character DC"
+      description_block: |
+        characters:
+          - appearance: "White man, mid-40s, 6 feet tall, 180 pounds, olive complexion with Latin appearance, dark hair with marcel waves, brown eyes"
+            clothing: "Black business suit, white dress shirt, thin black clip-on tie from J.C. Penney with imitation pearl tie pin, black raincoat, brown leather shoes"
+            posture: "Calm and polite demeanor, businesslike but never gruff, soft-spoken, smoking Raleigh cigarettes with left hand, disinterested expression"
+    - id: "character_FS"
+      name: "Character FS"
+      description_block: |
+        characters:
+          - appearance: "23-year-old woman, attractive brunette, petite build"
+            clothing: "Northwest Orient flight attendant uniform - navy blue dress with white collar and cuffs, small hat, company pin"
+            posture: "Professional stance, initially dismissive then serious and cooperative"
+    - id: "character_TM"
+      name: "Character TM"
+      description_block: |
+        characters:
+          - appearance: "Young woman, flight attendant"
+            clothing: "Northwest Orient flight attendant uniform - navy blue dress with white collar and cuffs"
+            posture: "Calm and professional, remembered hijacker as thoughtful and never cruel"
+    - id: "character_WS"
+      name: "Character WS"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged experienced airline pilot"
+            clothing: "Standard pilot uniform with captain's stripes and cap"
+            posture: "Professional demeanor, concerned for passenger safety, following instructions precisely"
+    - id: "character_BI"
+      name: "Character BI"
+      description_block: |
+        characters:
+          - appearance: "8-year-old boy, curious and energetic"
+            clothing: "Casual camping clothes appropriate for February weather"
+            posture: "Child-like curiosity while exploring riverbank with family"
+  locations:
+    - id: "portland_airport_1971"
+      name: "Portland International Airport 1971"
+      description_block: |
+        setting:
+          location: "Portland International Airport terminal, Oregon, November 24, 1971"
+        mainElements: "1970s commercial airport terminal with Northwest Orient ticket counter, departure gates, waiting areas with period-appropriate seating and decor, less security than modern airports"
+        atmosphere: "Busy Thanksgiving Eve travel day with relaxed security allowing easy cash ticket purchases and boarding without ID checks"
+    - id: "boeing_727_cabin"
+      name: "Boeing 727 Flight 305 Cabin"
+      description_block: |
+        setting:
+          location: "Interior of Northwest Orient Flight 305, Boeing 727 aircraft in flight over Washington State"
+        mainElements: "1970s commercial aircraft interior with narrow-body jet, 3-2 seating configuration, seat 18C, aft galley area, rear stairs mechanism, overhead bins, blue and gray period interior"
+        atmosphere: "Initially normal flight atmosphere becoming tense after bomb threat, then eerily calm during polite demands"
+    - id: "seattle_airport_1971"
+      name: "Seattle-Tacoma International Airport 1971"
+      description_block: |
+        setting:
+          location: "Seattle-Tacoma International Airport tarmac, Washington, November 24, 1971"
+        mainElements: "Major Pacific Northwest airport hub with tarmac area, FBI staging zone, bank representatives, parachute suppliers, Northwest Orient ground crew"
+        atmosphere: "High tension as FBI and airline officials scramble to meet demands while keeping operation secret"
+    - id: "pacific_northwest_wilderness"
+      name: "Southwestern Washington Wilderness"
+      description_block: |
+        setting:
+          location: "Dense Pacific Northwest forest terrain, southwestern Washington, November 24, 1971 night"
+        mainElements: "Old-growth Douglas fir and cedar trees, steep ridges, deep valleys, thick canopy coverage, rocky outcroppings, fast-flowing streams"
+        atmosphere: "Dark stormy night with heavy rain, temperatures below freezing at altitude, winds exceeding 100 mph"
+    - id: "tina_bar_columbia_river"
+      name: "Tina Bar Columbia River"
+      description_block: |
+        setting:
+          location: "Tina Bar sandy riverbank, Columbia River, 9 miles downstream from Vancouver, Washington, February 1980"
+        mainElements: "Sandy beach area used for camping, shoreline with driftwood, slow-moving river section, peaceful family camping spot"
+        atmosphere: "Cold but clear February weather, peaceful family camping environment"
+  items:
+    - id: "ransom_money_bundles"
+      name: "Cooper's Ransom Money"
+      description_block: |
+        details: "$200,000 in twenty-dollar bills bundled with rubber bands, serial numbers recorded by FBI, bills dated no later than 1969"
+    - id: "black_tie_evidence"
+      name: "Black Clip-on Tie"
+      description_block: |
+        details: "Black polyester clip-on tie from J.C. Penney with imitation pearl tie pin, left behind on aircraft"
+    - id: "bomb_briefcase"
+      name: "Briefcase with Alleged Bomb"
+      description_block: |
+        details: "Standard business briefcase containing what appeared to be dynamite - red cylindrical objects with wires and battery"
+    - id: "military_parachutes"
+      name: "Military Surplus Parachutes"
+      description_block: |
+        details: "Four parachutes total: two main and two reserve chutes, including military surplus Navy backpack parachute and training chute sewn shut"
+    - id: "flight_ticket"
+      name: "Northwest Orient Flight 305 Ticket"
+      description_block: |
+        details: "One-way ticket purchased with cash, name listed as Dan Cooper, no ID required in 1971"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Pacific Ocean Expedition Preparation - January 1960"
+  setting:
+    time: "January 23, 1960, early morning"
+    location: "Pacific Ocean surface above Mariana Trench, 200 miles southwest of Guam"
+    weather: "Overcast skies with moderate swells, cool Pacific morning air"
+  characters:
+    - appearance: "Mixed group of men, 20s-50s, various builds, serious expressions"
+      clothing: "1960s naval uniforms, heavy weather jackets, safety gear during operations"
+      position: "Positioned around deck equipment and monitoring stations"
+      action: "Conducting final equipment checks and coordinating preparation activities"
+  scene:
+    mainElements: "Vast deep blue Pacific Ocean stretching to horizon, USS Wandank support vessel with visible communication arrays and crane equipment, Trieste bathyscaphe secured on deck with Swiss-designed cylindrical float tanks containing gasoline and spherical crew cabin suspended below"
+    details: "Thick metal construction of submersible visible with small porthole windows and external lights, analog pressure gauges and depth meters being calibrated by crew, primitive sonar equipment and manual controls with large dials and switches, brass fittings gleaming in morning light, warning lights being tested systematically"
+    background: "Empty Pacific horizon extending endlessly, other support vessels barely visible as distant specks, choppy ocean surface indicating the tremendous depth beneath"
+    atmosphere: "Organized military efficiency mixed with scientific anticipation, tension building for historic deep dive operations, sense of international cooperation between Swiss and American teams, remote isolation emphasizing the magnitude of the undertaking, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position showing full scope of operation"
+    focus: "Trieste bathyscaphe as centerpiece with surrounding preparation activities"
+    depth: "Foreground shows detailed deck operations, middle shows complete vessel and submersible, background shows endless Pacific Ocean"

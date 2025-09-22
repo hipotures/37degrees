@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Unknown Scribe Creates the World's Most Mysterious Book"
+  setting:
+    time: "1420, late afternoon"
+    location: "15th-century monastery scriptorium, Central Europe, unknown exact location"
+    weather: "Overcast winter day, soft gray light through Gothic windows"
+  characters:
+    - appearance: "Medieval monastic figure, estimated 30-50 years old, focused scholarly demeanor, meticulous attention to detail"
+      clothing: "Dark brown Franciscan or Dominican habit with hood, rope belt, simple leather sandals"
+      position: "Seated at wooden writing desk with slanted surface"
+      action: "Carefully drawing strange botanical illustrations with delicate brush strokes"
+  scene:
+    mainElements: "Wooden writing desks with slanted surfaces, vellum preparation area, ink-making equipment, illumination materials and pigments"
+    details: "Open manuscript showing mysterious script and colorful plant drawings, glass bottles of colored inks arranged precisely, quill pens of different sizes, compass and ruler for geometric diagrams, sheets of prepared vellum waiting for illumination, mortar and pestle for grinding pigments, wooden shelves lined with reference texts, no text or letters visible"
+    background: "Quiet scholarly work environment, natural light from large Gothic windows, scent of fresh parchment and iron gall ink"
+    atmosphere: "Intense concentration and mystery, the sense that something unprecedented is being created in secrecy, scholarly dedication to an unknown purpose"
+  composition:
+    cameraAngle: "Medium shot from slightly above, looking down at the monk's work"
+    focus: "The manuscript pages showing unidentifiable script and strange plant illustrations"
+    depth: "Foreground shows detailed manuscript and ink work, middle ground captures the monk's concentrated expression, background reveals the scriptorium's Gothic architecture"

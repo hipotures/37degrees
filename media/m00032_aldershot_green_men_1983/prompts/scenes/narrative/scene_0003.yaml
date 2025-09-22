@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Setting Up Night Fishing Equipment"
+  setting:
+    time: "August 12, 1983, 1:15 AM"
+    location: "Basingstoke Canal near Government Bridge, established fishing spot on towpath"
+    weather: "Clear night, no precipitation, mild August temperature"
+  characters:
+    - appearance: "77-year-old man, medium build, weathered face with military bearing, graying hair, wearing practical fishing attire"
+      clothing: "Dark woolen coat, wellington boots, flat cap, carrying fishing equipment and thermos flask"
+      position: "Seated by canal with fishing rod prepared, positioned for optimal casting"
+      action: "Pouring tea from thermos flask into metal cup, arranging fishing equipment methodically around spot"
+    - appearance: "Small dog, breed unspecified, now settled and relaxed"
+      clothing: "Natural fur coat, collar visible"
+      position: "Lying on towpath beside fishing spot"
+      action: "Resting calmly near master, occasionally watching water surface"
+  scene:
+    mainElements: "Rod, tackle box, bait, folding chair, thermos flask and metal cup, practical equipment for night fishing arranged around spot, character AB settled into fishing routine"
+    details: "Fishing rod cast into still canal water, tackle box open with organized equipment, thermos flask with steaming tea poured into metal cup, folding chair positioned for comfort, typical 1980s angling gear arranged with military precision. Canal water reflecting distant military installation lights, peaceful fishing environment established"
+    background: "Government Bridge structure above, military fence lines in distance, dark treeline along canal, lights from Aldershot military district"
+    atmosphere: "Established peaceful fishing session, routine night angling activity, calm before extraordinary events, sense of familiar military town tranquility, warm tea providing comfort in cool night air, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from slight elevation showing organized fishing setup"
+    focus: "Character AB drinking tea and fishing equipment arranged around canal spot"
+    depth: "Fishing setup and character in foreground, still canal water in middle ground, bridge and military installations in background"

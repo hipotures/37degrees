@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Investigation Questions - The Evidence Gap Mystery"
+  setting:
+    time: "2007-2008, daytime"
+    location: "Ministry of Defence UFO desk, Whitehall, London, England"
+    weather: "Overcast London day, government building interior"
+  characters:
+    - appearance: "Middle-aged British official, authoritative presence, professional demeanor, experienced investigator"
+      clothing: "Government official suit and tie, formal business attire, identification badge"
+      position: "Standing at wall map, examining Liverpool area with magnifying glass"
+      action: "Studying UFO hotspot locations, comparing reported incidents with official records"
+  scene:
+    mainElements: "Government investigator examining discrepancies between reported massive UFO sighting and lack of corroborating evidence, wall map showing UFO hotspots across UK with special attention to Liverpool area"
+    details: "Large wall map of United Kingdom with colored pins marking confirmed UFO sightings, magnifying glass focused on Liverpool area, desk covered with folders labeled with different case numbers, filing cabinets containing hundreds of UFO reports, telephone for receiving witness calls, official letterhead documents, folders specifically marked for Liverpool area investigations, comparison charts showing verified versus unverified sightings, January 2008 Liverpool red spheres case file visible for comparison"
+    background: "Government office environment, windows showing London, additional investigators at other desks, corridor with more filing cabinets visible through doorway"
+    atmosphere: "Professional skepticism and thorough investigation, emphasis on evidence verification, official questioning of extraordinary claims, bureaucratic documentation and cross-checking, no text or letters visible"
+  composition:
+    cameraAngle: "Over-the-shoulder view from behind investigator looking at wall map and case files"
+    focus: "The contrast between reported massive sighting and limited official documentation"
+    depth: "Foreground shows detailed case files and documentation, middle ground shows investigator examining evidence, background shows official government investigation environment"

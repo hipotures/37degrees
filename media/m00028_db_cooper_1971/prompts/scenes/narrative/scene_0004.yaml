@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "FBI agents and bank officials gather ransom money at Seattle airport"
+  setting:
+    time: "November 24, 1971, 4:30 PM"
+    location: "Seattle-Tacoma International Airport tarmac, Washington"
+    weather: "Overcast late afternoon with typical November Pacific Northwest conditions"
+  characters:
+    - appearance: "Several men in their 30s and 40s, clean-cut government agents"
+      clothing: "Dark suits, white shirts, narrow ties typical of early 1970s FBI agents, overcoats"
+      position: "Standing around table set up on airport tarmac near aircraft"
+      action: "Counting and organizing stacks of twenty-dollar bills while communicating with radio equipment"
+    - appearance: "Bank officials, middle-aged men in business attire"
+      clothing: "Conservative business suits appropriate for bank executives in 1971"
+      position: "Positioned near armored vehicle and money transport cases"
+      action: "Supervising money transfer and documentation while maintaining official protocols"
+  scene:
+    mainElements: "Major Pacific Northwest airport hub with tarmac area, FBI staging zone, bank representatives, parachute suppliers, Northwest Orient ground crew"
+    details: "Canvas bag being filled with bundled twenty-dollar bills, serial numbers being recorded, four parachutes laid out for inspection, radio equipment for communication with aircraft, armored bank vehicle nearby"
+    background: "Airport tarmac with aircraft, ground support vehicles, airport personnel maintaining security perimeter, terminal building in distance"
+    atmosphere: "High tension and urgency as officials work methodically to meet hijacker's demands while maintaining operational secrecy, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing full scope of ground operation with multiple personnel"
+    focus: "Coordinated effort to gather ransom materials under time pressure"
+    depth: "Foreground shows money counting operation, middle ground displays parachute preparation, background reveals airport infrastructure and security measures"

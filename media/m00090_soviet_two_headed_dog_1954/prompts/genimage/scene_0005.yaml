@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: February 1954, afternoon
+    location: Sterile surgical operating room, Moscow Institute of Surgery
+    weather: Indoor controlled sterile environment
+  characters:
+  - appearance: Caucasian man, 38 years old, dark hair slicked back, intense focused eyes behind wire-rim glasses, scholarly
+      demeanor
+    clothing: White laboratory coat over dark suit vest and white shirt, medical gloves, professional surgical attire
+    position: Positioned at operating table working with surgical instruments
+    action: Performing precise surgical procedure with intense concentration and methodical movements
+  - appearance: Caucasian woman, 35 years old, brown hair pinned back, attentive expression, medical professional
+    clothing: White nursing uniform, medical cap, practical flat shoes, sterile gloves
+    position: Standing beside surgeon at operating table
+    action: Assisting with surgical procedure, monitoring patient status and providing required instruments
+  - appearance: Caucasian man, 45 years old, graying temples, serious expression, medical professional bearing
+    clothing: White laboratory coat, dark trousers, medical cap, sterile surgical mask around neck
+    position: Operating monitoring equipment at side of room
+    action: Carefully monitoring vital signs and medical readings during ongoing procedure
+  scene:
+    mainElements: Active surgical procedure taking place on operating table under bright surgical lighting, medical team working
+      with focused precision
+    details: Bright overhead surgical lamps with adjustable positioning arms providing intense focused illumination, early
+      medical monitoring devices including basic heart rate monitors, temperature gauges, and pressure measurement tools displaying
+      vital information, precise steel surgical instruments in active use on sterile metal tray
+    background: White tiled surgical theater walls, medical equipment cabinets, observation window with additional medical
+      staff visible
+    atmosphere: Intense medical procedure atmosphere with focused concentration, clinical sterile environment, serious scientific
+      undertaking with careful precision
+  composition:
+    cameraAngle: Medium shot focusing on surgical team during active procedure
+    focus: Medical professionals performing surgical procedure with precision instruments under surgical lighting
+    depth: Operating table and surgical team in foreground, monitoring equipment in middle ground, surgical theater environment
+      in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Discovery of Surviving MKUltra Documents"
+  setting:
+    time: "1977, morning"
+    location: "CIA financial records storage facility, Virginia"
+    weather: "Bright morning, indoor fluorescent lighting"
+  characters:
+    - appearance: "Caucasian man, 30s, medium build, dark hair, focused expression, wearing glasses"
+      clothing: "1977 casual shirt and slacks, government employee identification badge"
+      position: "Kneeling beside opened filing cabinets and storage boxes"
+      action: "Carefully examining and sorting through stacks of discovered documents"
+    - appearance: "Caucasian woman, 40s, professional appearance, serious expression"
+      clothing: "1977 business suit with blouse, government employee attire"
+      position: "Standing nearby with clipboard and inventory sheets"
+      action: "Recording document discoveries and coordinating with legal investigators"
+  scene:
+    mainElements: "Government storage facility with rows of filing cabinets, cardboard storage boxes, fluorescent lighting, concrete floors, institutional metal shelving"
+    details: "Storage facility filled with filing cabinets and document boxes stretching into distance. Opened cardboard boxes revealing manila folders and classified documents. Some folders marked with security classifications visible on edges. Document cart loaded with recovered files. Evidence tags and inventory sheets attached to boxes. Dust particles visible in fluorescent lighting."
+    background: "Institutional storage warehouse with concrete walls, overhead lighting fixtures, emergency exits, and endless rows of government filing systems"
+    atmosphere: "Discovery of crucial hidden evidence in sterile government facility, sense of breakthrough and historical significance, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from aisle perspective"
+    focus: "Government employees discovering and cataloging surviving classified documents"
+    depth: "Document boxes in foreground, investigators in middle ground, storage facility extending into background"

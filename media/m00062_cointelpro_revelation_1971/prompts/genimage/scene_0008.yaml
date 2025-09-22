@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: March 12, 1971, morning
+    location: Major newspaper newsroom, downtown Washington DC
+    weather: Bright spring morning, sunlight streaming through tall windows
+  characters:
+  - appearance: Man, 40s, glasses, slightly disheveled hair, analytical expression
+    clothing: Casual suit, loosened tie, shirt sleeves sometimes rolled up
+    position: Seated at desk examining documents with magnifying glass
+    action: Carefully studying FBI surveillance photographs and classified papers
+  - appearance: Man, 40s, glasses, slightly disheveled hair, analytical expression
+    clothing: Casual suit, loosened tie, shirt sleeves sometimes rolled up
+    position: Standing at desk holding phone to ear
+    action: Making urgent phone calls to verify authenticity of documents
+  scene:
+    mainElements: Rows of desks with typewriters, ringing phones, stacks of papers, manila envelope marked as evidence, busy
+      newsroom environment
+    details: Manila folders marked 'CLASSIFIED' and 'COINTELPRO', typed pages with FBI letterhead scattered across desk, surveillance
+      photographs of civil rights leaders, coffee cups, cigarette smoke, press credentials hanging from lamp
+    background: Newsroom with fluorescent lighting, city view through windows, other journalists typing and working phones
+    atmosphere: Busy journalism environment with urgency of breaking major story and historic revelation, no text or letters
+      visible
+  composition:
+    cameraAngle: Medium shot across newsroom desk showing document examination
+    focus: Journalist studying classified FBI documents at desk
+    depth: Foreground shows documents, middle ground captures journalist, background reveals newsroom activity
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

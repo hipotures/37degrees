@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Lake Herman Road - First Attack Scene"
+  setting:
+    time: "December 20, 1968, 22:30"
+    location: "Isolated rural road overlooking Suisun Bay, Solano County, California, popular lovers' lane spot"
+    weather: "Clear cold December night"
+  characters:
+    - appearance: "17-year-old Caucasian male, average height and build, clean-cut high school student appearance, dark hair"
+      clothing: "1960s casual teenager attire, dark jacket and pants appropriate for cold December evening"
+      position: "Standing beside parked car on isolated road turnout"
+      action: "Looking around nervously as shadowy figure approaches from darkness"
+    - appearance: "16-year-old Caucasian female, petite build, blonde hair, typical 1960s teenage girl"
+      clothing: "1960s teenage fashion, dress or skirt with blouse, warm coat for cold December night"
+      position: "Standing near passenger side of car, partially hidden behind open door"
+      action: "Appearing frightened and confused by approaching stranger"
+    - appearance: "Shadowy male figure, face obscured, medium to large build, threatening presence"
+      clothing: "Dark clothing, features not clearly visible in darkness"
+      position: "Approaching from shadows beyond car headlights"
+      action: "Moving deliberately toward the young couple with predatory intent"
+  scene:
+    mainElements: "Two teenagers' car parked on curved rural road turnout, isolated location with rolling hills surrounding them, minimal lighting from car headlights cutting through darkness"
+    details: "Late 1960s automobile parked on gravel turnout area, curved roadway visible, sparse house lights in far distance, cold December atmosphere, ominous silence broken only by approaching footsteps, car doors open suggesting hasty exit"
+    background: "Rolling California hills covered in darkness, distant lights of Benicia, Suisun Bay barely visible, sparse rural development, star-filled winter sky"
+    atmosphere: "Tension and fear escalating, peaceful teenage date turning into nightmare, isolated vulnerability, cold December night air, sense of impending violence"
+  composition:
+    cameraAngle: "Medium shot from slight elevation showing car and figures"
+    focus: "Young couple's terrified faces illuminated by car headlights as dark figure approaches"
+    depth: "Couple in foreground by car, approaching figure in middle ground, dark hills in background"

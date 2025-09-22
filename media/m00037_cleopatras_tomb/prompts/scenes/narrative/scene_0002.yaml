@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Final Mausoleum - Royal Last Refuge"
+  setting:
+    time: "August 12, 30 BCE, afternoon"
+    location: "Unfinished tomb complex within Alexandria, upper portions incomplete"
+    weather: "Hot Mediterranean summer day"
+  characters:
+    - appearance: "Woman age 39, medium height, olive-skinned, classical Greek-Egyptian features, intelligent dark eyes, aquiline nose"
+      clothing: "Royal Egyptian regalia with golden uraeus crown, fine linen pleated dress, elaborate jewelry including pearl earrings and golden bracelets"
+      position: "Seated on ornate chair within the shadowy mausoleum chamber"
+      action: "Contemplating with solemn dignity, hands clasped, accepting her fate"
+    - appearance: "Middle-aged Roman general, muscular build, weathered face, graying hair, battle scars"
+      clothing: "Simple tunic, no longer wearing armor from his final days"
+      position: "Lying on stone platform, appearing lifeless"
+      action: "Motionless form representing his final moments"
+  scene:
+    mainElements: "Stone chambers filled with royal treasures, golden artifacts, precious stones, spices, multiple rooms"
+    details: "Oil lamps casting flickering shadows on stone walls, ornate golden vessels and jewelry scattered around chamber, chests overflowing with precious stones, bundles of frankincense and cinnamon, unfinished stonework visible in upper sections"
+    background: "Carved stone walls with Egyptian hieroglyphs, partially completed architectural elements"
+    atmosphere: "Shadowy interior lit by oil lamps, scent of frankincense and cinnamon, sounds of siege outside, solemn and tragic mood"
+  composition:
+    cameraAngle: "Medium shot from chamber entrance looking inward"
+    focus: "Character CV in contemplation with Character MA's still form nearby"
+    depth: "Characters in foreground, treasure-filled chamber in middle ground, shadowy stone walls in background, no text or letters visible"

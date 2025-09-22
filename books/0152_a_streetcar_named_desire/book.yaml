@@ -4,3 +4,169 @@ book_info:
   author: "Tennessee Williams"
   year: 1947
   genre: "Drama,Play"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-13T18:45:00"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 9
+    total: 67
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 8.2
+      category: "high"
+
+  themes:
+    universal:
+      - id: "revolutionary_theatre"
+        type: "FACT"
+        credibility: 0.95
+        content: "Williams invented 'plastic theatre' - using all scenic elements symbolically to show inner psychological states"
+        source: "writing_innovation"
+      - id: "domestic_violence"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Stanley's rape of Blanche represents ultimate patriarchal violence, normalized by society accepting his version"
+        source: "dark_drama"
+      - id: "mental_health"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Blanche's breakdown reflects trauma from witnessing Allan's suicide and subsequent sexual compulsions"
+        source: "symbols_meanings"
+      - id: "toxic_masculinity"
+        type: "FACT"
+        credibility: 0.95
+        content: "Stanley embodies aggressive male dominance - 'richly feathered bird among hens' destroying feminine sensitivity"
+        source: "reality_wisdom"
+      - id: "illusion_reality"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Central conflict between Blanche's desperate illusions and Stanley's brutal reality-testing"
+        source: "symbols_meanings"
+      - id: "class_destruction"
+        type: "FACT"
+        credibility: 0.95
+        content: "Belle Reve plantation represents dying aristocratic South crushed by industrial working class"
+        source: "facts_history"
+      - id: "queer_subtext"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Allan Grey's homosexuality and suicide creates Blanche's sexual trauma - reflects Williams' own experience"
+        source: "dark_drama"
+      - id: "censorship_battle"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "1951 film forced to remove homosexual references and change ending to appease moral censors"
+        source: "culture_impact"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in American literature, influenced Method acting revolution"
+        key_editions: ["New Directions Publishing", "Broadway productions", "Penguin Classics"]
+        reception_notes: "Continual reinterpretation through feminist and queer theory lens"
+        educational_status: "Standard curriculum in high schools and universities"
+        local_themes: ["Southern Gothic tradition", "Post-war American masculinity", "Broadway theater revolution"]
+      pl:
+        cultural_impact: "Strong reception in Polish intellectual theater tradition"
+        key_editions: ["PIW editions", "Contemporary Polish translations"]
+        reception_notes: "Resonates with experiences of authoritarian oppression"
+        educational_status: "Studied in advanced literature programs"
+        local_themes: ["Totalitarian society parallels", "Gender roles under socialism", "Theater as resistance"]
+      de:
+        cultural_impact: "Connected to German Expressionist theater movements"
+        key_editions: ["Suhrkamp publications", "German theater productions"]
+        reception_notes: "Analyzed through psychological and philosophical frameworks"
+        educational_status: "Required reading in Germanistik programs"
+        local_themes: ["Psychological realism", "Expressionist techniques", "Freudian analysis"]
+      fr:
+        cultural_impact: "Appreciated for literary sophistication and theatrical innovation"
+        key_editions: ["French boulevard theater adaptations", "Literary translations"]
+        reception_notes: "Viewed as American contribution to world literature"
+        educational_status: "Studied in comparative literature courses"
+        local_themes: ["American barbarism vs European civilization", "Literary psychological portraiture"]
+      es:
+        cultural_impact: "Strong resonance with machismo culture critique"
+        key_editions: ["Spanish and Latin American productions", "Educational editions"]
+        reception_notes: "Used to examine patriarchal violence in Hispanic societies"
+        educational_status: "Popular in gender studies programs"
+        local_themes: ["Machismo deconstruction", "Family honor concepts", "Gender violence awareness"]
+      pt:
+        cultural_impact: "Received through Brazilian intellectual theater movement"
+        key_editions: ["Brazilian Portuguese translations", "University theater"]
+        reception_notes: "Connected to social class transformation themes"
+        educational_status: "Studied in literature and theater programs"
+        local_themes: ["Social class mobility", "Urban vs rural tensions", "Modern family breakdown"]
+      ja:
+        cultural_impact: "Adapted to Japanese aesthetic sensibilities and honor concepts"
+        key_editions: ["Japanese theater adaptations", "Academic translations"]
+        reception_notes: "Resonates with concepts of shame and social face"
+        educational_status: "Studied in American literature courses"
+        local_themes: ["Honor and shame dynamics", "Traditional vs modern values", "Theatrical minimalism"]
+      ko:
+        cultural_impact: "Influences contemporary Korean drama and gender discourse"
+        key_editions: ["Korean translations", "University productions"]
+        reception_notes: "Connected to modern gender hierarchy critiques"
+        educational_status: "Popular in comparative literature studies"
+        local_themes: ["Confucian family dynamics", "Gender hierarchy critique", "Social modernization"]
+      hi:
+        cultural_impact: "Resonates with traditional family structure tensions"
+        key_editions: ["Hindi translations", "Indian theater adaptations"]
+        reception_notes: "Examined through lens of social transformation"
+        educational_status: "Studied in English literature programs"
+        local_themes: ["Joint family breakdown", "Women's liberation themes", "Traditional vs modern tensions"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:45"
+          topic: "setup"
+          lead: "host_a"
+          description: "Investigation begins: Who was Blanche DuBois and why did she arrive at Elysian Fields?"
+        - segment: 2
+          time_range: "03:45-07:30"
+          topic: "key_events"
+          lead: "host_b"
+          description: "Reconstructing the poker night violence and growing tensions in the Kowalski apartment"
+        - segment: 3
+          time_range: "07:30-11:15"
+          topic: "revelations"
+          lead: "host_a"
+          description: "Uncovering the truth about Belle Reve, Allan Grey, and Blanche's traumatic past"
+        - segment: 4
+          time_range: "11:15-15:00"
+          topic: "impact"
+          lead: "host_b"
+          description: "The final confrontation and its lasting impact on American theater and culture"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter examining 'A Streetcar Named Desire'. Ask probing questions about the destruction of Blanche, uncover hidden meanings behind Williams' plastic theatre techniques. Focus on: Revolutionary theater innovations that changed American drama forever."
+        host_b: "You are {female_name}, an eyewitness to the story. Describe scenes vividly from the claustrophobic New Orleans apartment, bring the psychological warfare between characters to life."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["sexual violence discussion", "mental health crisis", "domestic violence themes", "suicide references"]
+    educational_elements: ["Revolutionary theater techniques", "1940s American social context", "Gender studies perspectives", "Psychological realism in drama"]
+    production_notes:
+      intro_style: "Noir detective atmosphere with jazz undertones"
+      transitions: "Subtle New Orleans street sounds and jazz bridges"
+      outro_style: "Reflective with focus on lasting cultural impact"
+
+  overall_confidence: 0.91

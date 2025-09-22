@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1905, cosmic timeframe spanning years
+    location: Split view showing both Earth cottage and deep space vehicle
+    weather: Earth shows seasonal changes, space remains constant starfield
+  characters:
+  - appearance: Young man, 25 years old, identical to character_T1, athletic build, short brown hair, clean-shaven
+    clothing: 'Early 20th century casual wear: white cotton shirt, dark vest, wool trousers, leather shoes'
+    position: Left side - cottage interior, aged appearance with graying hair and lined face
+    action: Working at desk with accumulated papers, checking wall clock showing advanced time
+  - appearance: Young man, 25 years old, athletic build, short brown hair, clean-shaven, determined expression
+    clothing: 'Early 20th century traveler''s outfit: brown leather jacket, wool pants, sturdy boots, aviator goggles'
+    position: Right side - spacecraft cockpit, unchanged youthful appearance
+    action: Operating controls with same energy, chronometer showing less elapsed time
+  scene:
+    mainElements: Divided frame showing cottage and spacecraft, contrasting clocks, seasonal progression on Earth
+    details: The cottage side shows accumulated scientific papers, a wall clock with hands advanced significantly, seasonal
+      changes visible through windows - bare winter trees. The spacecraft side maintains consistent appearance with gleaming
+      instruments and starlight. The chronometer in space shows markedly less time elapsed. Mechanical clock mechanisms are
+      visible in detail on both sides.
+    background: Earth side shows landscape changed by seasons and time, space side shows unchanging cosmic vista
+    atmosphere: Dramatic demonstration of relative time passage, scientific wonder mixed with temporal displacement, no text
+      or letters visible
+  composition:
+    cameraAngle: Split screen composition with symmetrical framing
+    focus: The visual contrast between aged and youthful appearances, different clock readings
+    depth: Each side maintains its own depth perspective while creating overall comparative composition
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

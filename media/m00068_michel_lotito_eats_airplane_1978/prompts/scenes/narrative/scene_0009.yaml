@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Official Recognition - Record Achievement Ceremony"
+  setting:
+    time: "1980, afternoon"
+    location: "Formal presentation venue with official podium and ceremonial backdrop"
+    weather: "Indoor ceremony, professional lighting setup"
+  characters:
+    - appearance: "French man, 30s, medium build, distinctive intense dark eyes, average height, concentrated expression when eating unusual objects"
+      clothing: "Simple 1970s casual wear - button-down shirts, dark trousers, sometimes white lab coat during medical examinations"
+      position: "Standing at podium receiving official recognition"
+      action: "Accepting record achievement recognition, modest but proud demeanor"
+    - appearance: "Formal officials in business attire, serious professional expressions"
+      clothing: "1980s business suits, formal presentation attire"
+      position: "At official presentation podium"
+      action: "Presenting official recognition for unprecedented achievement"
+  scene:
+    mainElements: "Formal podium setup, ceremonial backdrop, professional presentation area"
+    details: "Official document recognizing unusual eating achievements, formal presentation format, professional photography equipment, ceremonial presentation setup, microphones for official announcement"
+    background: "Formal venue with institutional backdrop, professional lighting for documentation"
+    atmosphere: "Official recognition ceremony, formal achievement documentation, historic record moment"
+  composition:
+    cameraAngle: "Formal presentation shot from audience perspective"
+    focus: "Official recognition ceremony in progress"
+    depth: "Foreground: ceremony participants, middle ground: presentation podium and officials, background: formal venue setting, no text or letters visible"

@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "London Street Showing Widespread Bricked-Up Windows"
+  setting:
+    time: "1700, late afternoon"
+    location: "Cobblestone street, central London, England"
+    weather: "Partly cloudy autumn day"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Rows of brick buildings, horse-drawn carriages, period street vendors, cobblestone roadway"
+    details: "Multiple buildings showing systematic bricked-up windows creating patchwork facades, original window frames still visible beneath brick infill, varying brick colors showing different construction periods, iron window boxes left hanging on sealed windows, decorative shutters now useless beside bricked openings, horse-drawn cart loaded with household goods, street vendors with wooden carts, pedestrians in period clothing walking past modified buildings"
+    background: "Bustling urban environment with period architecture showing widespread architectural modification, church spire visible in distance, smoke rising from chimneys"
+    atmosphere: "Transformed London streetscape showing systematic response to taxation, visual evidence of policy impact on urban architecture, active daily life continuing despite modified buildings, golden afternoon light emphasizing architectural details, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from street level"
+    focus: "Dramatic visual impact of multiple bricked-up windows across building facades"
+    depth: "Cobblestone street and carriages in foreground, modified building facades in middle ground, London skyline with church spires in background"

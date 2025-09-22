@@ -1,0 +1,99 @@
+sceneDescription:
+  setting:
+    time: 9600 BCE, late afternoon
+    location: Central temple covered in gold and silver, royal palace, harbors filled with triremes
+    weather: Perfect temperate day with gentle trade winds
+  characters:
+  - appearance: Tall, bronze-skinned man in royal attire, athletic build, commanding presence
+    clothing: Flowing robes decorated with gold thread, crown with precious stones, sandals with silver buckles
+    position: Standing on palace balcony overlooking the harbor
+    action: Surveying the vast fleet and pointing toward distant horizons
+  - appearance: Various citizens in flowing robes and tunics, different ages and builds
+    clothing: Fine fabrics in vibrant colors, jewelry indicating prosperity, practical work clothes for laborers
+    position: Moving through markets, harbors, and temple courtyards
+    action: Trading exotic goods, loading ships, performing religious ceremonies
+  scene:
+    mainElements: Central temple covered in gold and silver, royal palace, harbors filled with triremes
+    details: Hundreds of bronze-ramming warships lined up in perfect formation. Merchants unloading ivory, spices, and precious
+      metals. Temple walls gleaming with gold and silver plates. Advanced engineering visible in aqueducts and fountains.
+      Flags and banners streaming in the wind. Markets overflowing with goods from distant lands.
+    background: Prosperous and bustling, fountains of hot and cold water, sounds of maritime commerce
+    atmosphere: Height of power and prosperity, sense of naval supremacy and cultural sophistication
+  composition:
+    cameraAngle: Wide establishing shot from palace height showing the full scope of the civilization
+    focus: The magnificent harbor filled with warships and the golden temple complex
+    depth: 'Foreground: palace balcony with royal figure, middle ground: bustling harbors and markets, background: temple
+      complex and outer sea, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

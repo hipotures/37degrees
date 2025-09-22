@@ -1,0 +1,19 @@
+sceneDescription:
+  title: "Presidential Executive Order Banning Political Assassinations"
+  setting:
+    time: "February 1976, afternoon"
+    location: "Oval Office, White House, Washington DC"
+  characters:
+    - appearance: "Caucasian man, 60s, balding with gray hair, serious presidential demeanor, wire-rimmed glasses"
+      clothing: "1970s presidential dark suit with American flag pin, white dress shirt, conservative tie"
+      position: "Seated at Resolute Desk in Oval Office"
+      action: "Signing executive order prohibiting government employees from political assassination"
+  scene:
+    mainElements: "Presidential desk, American flag, presidential seal, formal seating area for signing executive order prohibiting assassinations"
+    details: "Historic presidential action banning political assassination by US government employees, formal Oval Office setting with traditional decor emphasizing executive authority, signing ceremony for executive order following congressional committee revelations, presidential seal prominently displayed, American flag backdrop reinforcing constitutional authority, formal government documents on presidential desk, natural lighting from Oval Office windows, security personnel maintaining discreet presence, no text or letters visible"
+    background: "Traditional Oval Office decor with presidential authority symbols and formal governmental atmosphere"
+    atmosphere: "Solemn presidential response to intelligence community assassination revelations establishing new constitutional boundaries"
+  composition:
+    cameraAngle: "Medium shot of presidential signing ceremony"
+    focus: "Presidential action banning political assassinations following congressional revelations"
+    depth: "Foreground shows presidential desk and signing action, middle ground captures Oval Office setting, background reveals formal governmental authority symbols"

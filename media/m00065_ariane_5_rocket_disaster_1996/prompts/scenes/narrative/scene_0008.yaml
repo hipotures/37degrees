@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Ariane 5 rocket beginning catastrophic trajectory deviation"
+  setting:
+    time: "June 4, 1996, 9:34:10 AM (T+40 seconds)"
+    location: "3700 meters altitude above French Guiana, rocket beginning erratic flight path"
+    weather: "Clear blue sky with rocket leaving normal trajectory"
+  characters:
+    - appearance: "European man, 45s, stocky build, mustache, serious expression, short dark hair"
+      clothing: "1990s ESA launch director uniform with multiple badges and radio equipment"
+      position: "Standing at observation window in mission control bunker"
+      action: "Watching in horror through binoculars as rocket veers off course, speaking urgent commands into radio"
+    - appearance: "European woman, 30s, medium build, blonde hair in professional bun, alert green eyes"
+      clothing: "1990s white technical blouse with ESA patches, dark navy skirt, headset around neck"
+      position: "At flight tracking console, monitoring radar displays"
+      action: "Calling out trajectory deviation readings, trying to reestablish communication with rocket guidance systems"
+  scene:
+    mainElements: "Ariane 5 rocket visibly tilting from vertical trajectory, beginning dangerous horizontal drift, exhaust plume creating irregular pattern against blue sky, rocket attitude clearly wrong for normal flight"
+    details: "White rocket with twin solid boosters now angled significantly from vertical, creating curved exhaust trail instead of straight ascent path, rocket appearing to flip and rotate unnaturally, aerodynamic forces beginning to stress rocket structure, disturbed airflow patterns around rocket body, irregular exhaust flame pattern indicating loss of control, altitude approximately 4 kilometers with dangerous angle of attack, no text or letters visible"
+    background: "French Guiana jungle and coastline far below, clear blue sky with scattered clouds, vast sky emphasizing rocket's wrong trajectory"
+    atmosphere: "Growing catastrophe as Europe's most expensive rocket begins uncontrolled flight, sense of impending disaster and helplessness as ground control loses ability to correct the situation"
+  composition:
+    cameraAngle: "Wide shot showing rocket's deviated flight path against sky"
+    focus: "Ariane 5 rocket in wrong attitude with mission control tracking the crisis"
+    depth: "Foreground shows mission control emergency response, middle ground captures rocket's dangerous trajectory, background reveals scale against Earth below"

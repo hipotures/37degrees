@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Military radar operators notice aircraft deviation and transponder loss"
+  setting:
+    time: "March 8, 2014, 01:21-02:22 MYT - transponder failure and course deviation"
+    location: "Darkened military radar monitoring facility with multiple screens and displays, classified location in Malaysia"
+    weather: "Indoor controlled environment"
+  characters:
+    - appearance: "Malaysian military radar operator, concerned expression, wearing military uniform"
+      clothing: "Malaysian military fatigues or duty uniform with rank insignia and identification"
+      position: "Seated at radar console studying anomalous track"
+      action: "Pointing at radar screen showing unusual aircraft movement, consulting with supervisor about track deviation"
+    - appearance: "Senior military radar supervisor, alert and focused demeanor"
+      clothing: "Malaysian military officer uniform with higher rank insignia"
+      position: "Standing behind radar operator examining display"
+      action: "Analyzing radar data and making phone calls to report anomalous aircraft behavior"
+  scene:
+    mainElements: "Large radar screens showing aircraft positions as moving dots, communication equipment, aviation charts and maps on walls"
+    details: "Multiple radar displays showing aircraft tracks with one track deviating westward, operators comparing current position with expected flight path, communication equipment active with personnel making urgent calls, wall displays showing regional airspace maps, backup systems monitoring other aircraft"
+    background: "Military facility with security features, multiple workstations with other operators, status monitoring boards, emergency communication systems"
+    atmosphere: "Quiet overnight military watch with dim lighting from screens, serious professional environment"
+  composition:
+    cameraAngle: "Wide shot showing multiple radar operators working at different stations"
+    focus: "Central radar display showing anomalous aircraft track deviating from normal course"
+    depth: "Foreground shows primary radar console with operators, middle ground shows additional workstations, background shows facility infrastructure and wall displays, no text or letters visible"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Peaceful Family Life Before Tragedy"
+  setting:
+    time: "1386, afternoon"
+    location: "Small single-room cottage, Falaise village outskirts"
+    weather: "Clear winter day with pale sunlight"
+  characters:
+    - appearance: "Woman, 20s, tear-streaked face, exhausted appearance, trembling hands"
+      clothing: "Dark woolen dress, white head covering, simple wooden cross necklace"
+      position: "Kneeling beside wooden cradle, gently rocking it"
+      action: "Tenderly caring for infant, humming softly while adjusting baby's blankets"
+    - appearance: "Man, 30s, grief-stricken face, hollow eyes, thin from sorrow"
+      clothing: "Simple brown peasant tunic, leather belt, worn boots, cap in hands"
+      position: "Standing near cottage doorway, looking outward"
+      action: "Watching for returning livestock, hands clasped behind back in contemplative pose"
+  scene:
+    mainElements: "Stone walls, thatched roof, single wooden door, small window with wooden shutters"
+    details: "Wooden baby cradle with rockers in center of room, simple wooden furniture including table and stools, cooking pot hanging over small hearth, bundles of dried herbs hanging from rafters, earthenware bowls and cups on rough wooden shelves, straw scattered on floor for warmth"
+    background: "Village animal pens visible through open doorway, other cottages with smoke rising from chimneys, bare winter trees lining village boundary"
+    atmosphere: "Warm domestic tranquility, loving family care, humble but content peasant life, soft afternoon light filtering through small window, sense of security and routine before impending tragedy, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from cottage interior looking toward doorway"
+    focus: "Mother with baby cradle as emotional center, father silhouetted in doorway"
+    depth: "Foreground shows cradle and interior details, middle ground captures both parents, background reveals village life through doorway"

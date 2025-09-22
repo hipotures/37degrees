@@ -4,3 +4,182 @@ book_info:
   author: "Adam Smith"
   year: 1776
   genre: "Economics,Political economy"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T13:45:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 7
+    relevance: 8
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 8
+    total: 62
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.2
+      category: "high"
+    heat:
+      value: 7.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "invisible_hand_mechanism"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "The invisible hand metaphor appears only once in WN but became symbol of self-regulating markets"
+        source: "symbols_meanings"
+      - id: "division_labor_productivity"
+        type: "FACT"
+        credibility: 0.95
+        content: "Pin factory example shows 10 workers produce 48,000 pins daily vs individual producing 20"
+        source: "dark_drama"
+      - id: "ayr_bank_scandal"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Smith involved in 1772 banking catastrophe that delayed WN publication by several years"
+        source: "dark_drama"
+      - id: "plagiarism_accusations"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Contemporary accused Smith of being incorrigible plagiarist stealing from mentors"
+        source: "dark_drama"
+      - id: "mental_health_issues"
+        type: "FACT"
+        credibility: 0.95
+        content: "Smith suffered nervous breakdown at Oxford, known for absent-mindedness and strange behaviors"
+        source: "facts_history"
+      - id: "religious_concealment"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Smith concealed religious skepticism throughout life due to very religious mother"
+        source: "dark_drama"
+      - id: "contemporary_digital_resonance"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "TikTok algorithm compared to invisible hand, #FinTok 4.7B views teaching economics"
+        source: "youth_digital"
+      - id: "gig_economy_parallels"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Modern specialization in TikTok content creation mirrors Smith's division of labor theory"
+        source: "youth_digital"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text of modern capitalism, influenced Victorian literature and continues shaping economic discourse"
+        key_editions: ["Penguin Classics multi-volume", "Oxford World's Classics Selected Edition", "Edwin Cannan scholarly compilation"]
+        reception_notes: "Canonical status in Western literature, often misinterpreted by politicians and libertarians"
+        educational_status: "Core text in economics curricula at Oxford, Cambridge, Harvard, Yale"
+        local_themes: ["Colonial discourse critique", "Influence on American Founding Fathers", "Victorian social novel responses"]
+
+      pl:
+        cultural_impact: "Crucial for 1989 transformation, theoretical foundation for Balcerowicz Plan shock therapy"
+        key_editions: ["1954 first Polish translation", "Contemporary PIW editions with Sadowski foreword"]
+        reception_notes: "Strong connection to economic transformation, contemporary reinterpretation as social democrat"
+        educational_status: "Mandatory reading at SGH Warsaw, UEK Krakow, taught in entrepreneurship classes"
+        local_themes: ["Post-communist economic transition", "Shock therapy economic reforms", "Connection to 18th century Polish reformers"]
+
+      de:
+        cultural_impact: "Sophisticated philosophical reception through German Idealism, influenced Austrian School economics"
+        key_editions: ["Max Stirner 1846-47 translation", "DTV 2018 modern edition", "Anaconda Verlag current edition"]
+        reception_notes: "Integrated into Abitur curriculum, strong university tradition in economics programs"
+        educational_status: "Taught as father of classical economics in Gymnasium, essential for Abitur examinations"
+        local_themes: ["Kantian moral skepticism interpretation", "Austrian School intellectual lineage", "Frankfurt School critical engagement"]
+
+      fr:
+        cultural_impact: "Met French physiocrats during formative journey, influenced by Quesnay and Turgot"
+        key_editions: ["Early French translations influenced by physiocrat debates"]
+        reception_notes: "Academic reception through economic history programs"
+        educational_status: "Studied in French economics faculties as classical foundation"
+        local_themes: ["Physiocrat intellectual exchange", "French economic liberalism tradition"]
+
+      es:
+        cultural_impact: "Spanish Inquisition banned French translation, but complete Spanish version published by José Alonso Ortiz"
+        key_editions: ["José Alonso Ortiz Spanish translation with self-censored usury passages"]
+        reception_notes: "Historical censorship followed by modern academic acceptance"
+        educational_status: "Studied in Spanish universities as foundation of liberal economics"
+        local_themes: ["Religious censorship history", "Liberal economic thought development"]
+
+      pt:
+        cultural_impact: "Received through broader European economic thought transmission"
+        key_editions: ["Modern Portuguese translations available"]
+        reception_notes: "Academic study in Portuguese and Brazilian universities"
+        educational_status: "Part of economics curriculum in Portuguese-speaking countries"
+        local_themes: ["European liberalism influence", "Colonial economic theory applications"]
+
+      ja:
+        cultural_impact: "Studied as Western economic foundation during Meiji modernization"
+        key_editions: ["Japanese translations for academic study"]
+        reception_notes: "Important for understanding Western economic development model"
+        educational_status: "Studied in Japanese economics programs"
+        local_themes: ["Meiji economic modernization", "Western development model analysis"]
+
+      ko:
+        cultural_impact: "Relevant to South Korean economic development debates"
+        key_editions: ["Korean translations for academic study"]
+        reception_notes: "Studied in context of rapid economic development"
+        educational_status: "Part of Korean economics curriculum"
+        local_themes: ["Rapid development economics", "Market liberalization debates"]
+
+      hi:
+        cultural_impact: "Studied in context of colonial economic theory and post-independence development"
+        key_editions: ["English editions used in Indian universities"]
+        reception_notes: "Critical examination of colonial economic implications"
+        educational_status: "Studied in Indian economics programs with postcolonial perspective"
+        local_themes: ["Colonial economic critique", "Post-independence development theory"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "foundational_economics"
+          lead: "host_a"
+          description: "Introduction to Smith as father of modern economics and revolutionary inquiry methodology"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "division_labor_analysis"
+          lead: "host_b"
+          description: "Pin factory example and exponential productivity gains through specialization"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "invisible_hand_theory"
+          lead: "host_a"
+          description: "Analysis of market self-regulation mechanism and contemporary misinterpretations"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "contemporary_relevance"
+          lead: "host_b"
+          description: "Modern applications to gig economy, algorithms, and digital platforms"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "scholarly_synthesis"
+          lead: "host_a"
+          description: "Academic legacy and continued influence on economic thought"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'The Wealth of Nations' with scholarly depth. Discuss structure, economic theory, and systematic methodology. Academic but accessible. Focus on Smith's revolutionary inquiry approach and creation of modern economics as discipline."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to contemporary economic theories, ensure accessibility. Help bridge 18th-century concepts with modern understanding."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical financial scandals", "discussion of mental health in historical context", "various political interpretations of economic theories"]
+    educational_elements: ["Economics genre characteristics", "Historical context of 1776", "Division of labor theory", "Market mechanism analysis", "Classical economic foundation"]
+    production_notes:
+      intro_style: "scholarly_historical"
+      transitions: "subtle musical bridges"
+      outro_style: "academic_synthesis"
+
+  overall_confidence: 0.87

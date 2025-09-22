@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Surgical Theater Setup - Operating Room Preparation"
+  setting:
+    time: "February 1954, midday"
+    location: "Sterile surgical operating room, Moscow Institute of Surgery"
+    weather: "Indoor controlled sterile environment"
+  characters:
+    - appearance: "Caucasian woman, 35 years old, brown hair pinned back, attentive expression, medical professional"
+      clothing: "White nursing uniform, medical cap, practical flat shoes, sterile gloves"
+      position: "Standing beside operating table adjusting equipment"
+      action: "Positioning surgical lighting system and checking monitoring equipment readiness"
+    - appearance: "Caucasian man, 45 years old, graying temples, serious expression, medical professional bearing"
+      clothing: "White laboratory coat, dark trousers, medical cap, sterile surgical mask around neck"
+      position: "Near equipment cabinet organizing surgical supplies"
+      action: "Arranging monitoring devices and ensuring all medical equipment is properly calibrated"
+  scene:
+    mainElements: "White tiled walls, bright overhead surgical lamps, metal operating table, medical equipment cabinets, sterile surgical environment"
+    details: "Bright overhead surgical lamps with adjustable positioning arms, providing intense focused illumination for medical procedures, early medical monitoring devices including basic heart rate monitors, temperature gauges, and pressure measurement tools typical of 1950s Soviet medical technology, sterile metal operating table prepared for procedure"
+    background: "Medical equipment cabinets lining walls, observation window visible, sterilization equipment and medical supplies storage"
+    atmosphere: "Clinical sterile environment with intense focused lighting, serious medical atmosphere, methodical preparation for important procedure"
+  composition:
+    cameraAngle: "Wide shot of surgical theater showing complete setup"
+    focus: "Operating table with surgical lighting system as central element, medical team preparing equipment"
+    depth: "Operating table in foreground, medical staff preparing in middle ground, equipment cabinets and walls in background, no text or letters visible"

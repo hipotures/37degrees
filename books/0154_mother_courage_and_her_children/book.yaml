@@ -4,3 +4,182 @@ book_info:
   author: "Bertolt Brecht"
   year: 1939
   genre: "Drama,Play"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T15:45:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 2
+    relevance: 9
+    innovation: 10
+    structural_complexity: 8
+    social_roles: 9
+    total: 63
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 9.0
+      category: "high"
+    heat:
+      value: 6.8
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_1"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "FBI surveillance for 6 years, plagiarism accusations from John Fuegi claiming 80% of works stolen from female collaborators"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Archetypal mother-provider transformed by capitalist conditions, cart as home and burden symbol"
+        source: "symbols_meanings"
+      - id: "innovation_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created entirely new form - epic theater with alienation effect, revolutionary anti-Aristotelian dramaturgy"
+        source: "writing_innovation"
+      - id: "culture_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Inspired Lynn Nottage's Pulitzer Prize-winning 'Ruined', multiple Broadway and international adaptations"
+        source: "culture_impact"
+      - id: "reality_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "War capitalism critique perfectly aligns with Gen Z anti-hustle culture movement and economic anxiety"
+        source: "reality_wisdom"
+      - id: "youth_1"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Absent from BookTok trends despite thematic relevance to #TherapyTok and #AntiHustleCulture movements"
+        source: "youth_digital"
+      - id: "facts_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Written in 'white heat' in 1939 as direct response to Hitler's invasion of Poland, collaboration with Margarete Steffin"
+        source: "facts_history"
+      - id: "content_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Content warnings needed for war violence, maternal trauma, political themes, author biographical controversies"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in English-speaking theatre, influential translations by Tony Kushner and John Willett"
+        key_editions: ["Penguin Classics", "Methuen Drama Bilingual", "Cambridge Companion"]
+        reception_notes: "Mixed reception, from early academic resistance to recognition as greatest 20th century play"
+        educational_status: "Required reading in university drama and literature programs"
+        local_themes: ["Epic theater techniques", "Anti-war literature", "Gender and power dynamics"]
+
+      pl:
+        cultural_impact: "Special significance through Holocaust lens via Ida Kaminska's 1957 staging, school curriculum staple"
+        key_editions: ["Stanisław Jerzy Lec translation", "Jacek St. Buras translation", "Educational audiobooks"]
+        reception_notes: "Strong educational presence, interpreted through Polish wartime experiences"
+        educational_status: "Mandatory school reading, matriculation exam material"
+        local_themes: ["Holocaust interpretations", "Post-war trauma", "Marxist reception"]
+
+      de:
+        cultural_impact: "Foundational work of German Epic Theater, Berliner Ensemble legacy, definitive cultural monument"
+        key_editions: ["Reclam study guides", "Suhrkamp editions", "Academic critical editions"]
+        reception_notes: "Central to German theater education, Frankfurt School critique, ongoing productions"
+        educational_status: "Essential Abitur preparation text, Epic Theater paradigm"
+        local_themes: ["Verfremdungseffekt techniques", "Anti-fascist resistance", "Marxist analysis"]
+
+      fr:
+        cultural_impact: "Significant influence on French political theater and intellectual discourse"
+        key_editions: ["French academic translations", "Theater study materials"]
+        reception_notes: "Philosophical engagement with Brechtian theories"
+        educational_status: "University level theater studies"
+        local_themes: ["Political theater evolution", "Anti-capitalist critique"]
+
+      es:
+        cultural_impact: "Important in Latin American political theater movements and social discourse"
+        key_editions: ["Spanish translations", "University editions"]
+        reception_notes: "Resonance with social justice movements"
+        educational_status: "Advanced literature and theater programs"
+        local_themes: ["Social liberation themes", "Anti-imperialist readings"]
+
+      pt:
+        cultural_impact: "Influence on Brazilian and Portuguese political theater traditions"
+        key_editions: ["Portuguese translations", "Academic materials"]
+        reception_notes: "Connection to liberation theology and social movements"
+        educational_status: "University theater and literature studies"
+        local_themes: ["Social justice theater", "Anti-colonial interpretations"]
+
+      ja:
+        cultural_impact: "Adaptation in Japanese theater context, academic study of epic theater techniques"
+        key_editions: ["Japanese translations", "Theater study guides"]
+        reception_notes: "Academic interest in theatrical innovation"
+        educational_status: "Graduate level theater studies"
+        local_themes: ["Theater technique analysis", "Anti-war themes"]
+
+      ko:
+        cultural_impact: "Scholarly interest in political theater and dramatic techniques"
+        key_editions: ["Korean translations", "Academic editions"]
+        reception_notes: "Focus on theatrical innovation and political themes"
+        educational_status: "University drama programs"
+        local_themes: ["Political resistance themes", "Theater as social tool"]
+
+      hi:
+        cultural_impact: "Connection to Indian political theater and social reform movements"
+        key_editions: ["Hindi translations", "Educational materials"]
+        reception_notes: "Relevance to social justice and resistance themes"
+        educational_status: "Advanced literature studies"
+        local_themes: ["Social reform theater", "Anti-colonial readings"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "epic_theater_revolution"
+          lead: "host_a"
+          description: "Revolutionary theatrical form created entirely new dramatic approach with alienation effect"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "philosophical_depth"
+          lead: "host_b"
+          description: "Archetypal mother-provider transformed by capitalist conditions, complex symbolic system"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Written in response to Hitler's invasion of Poland, collaboration with Margarete Steffin"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "contemporary_relevance"
+          lead: "host_b"
+          description: "War capitalism critique aligns with Gen Z anti-hustle culture and economic anxiety"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "cultural_legacy"
+          lead: "host_a"
+          description: "Canonical status inspiring works like Pulitzer Prize-winning 'Ruined' and ongoing global influence"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'Mother Courage and Her Children' with scholarly depth. Discuss Brecht's revolutionary epic theater techniques, the alienation effect, and how this work fundamentally changed dramatic literature. Focus on the play's innovative structure, anti-Aristotelian dramaturgy, and complex symbolic system. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification about epic theater techniques, request examples of the alienation effect in practice, connect Brecht's innovations to contemporary theater, and ensure accessibility for listeners unfamiliar with dramatic theory."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["war violence", "maternal trauma", "political themes", "author controversies"]
+    educational_elements: ["Epic theater techniques", "Dramatic innovation", "Historical context of WWII", "Marxist literary analysis"]
+    production_notes:
+      intro_style: "scholarly_introduction"
+      transitions: "subtle academic bridges"
+      outro_style: "synthesis_conclusion"
+
+  overall_confidence: 0.905

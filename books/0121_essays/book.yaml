@@ -4,3 +4,182 @@ book_info:
   author: "Michel de Montaigne"
   year: 1580
   genre: "Essays,Philosophy"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T13:45:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 10
+    structural_complexity: 8
+    social_roles: 8
+    total: 70
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.2
+      category: "high"
+    heat:
+      value: 8.2
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Banned by Catholic Church on Index of Forbidden Books for nearly 200 years due to religious skepticism and dangerous ideas"
+        source: "dark_drama"
+      - id: "symbols_meanings_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created the essay as new literary genre, first systematic intellectual self-portrait in literary history"
+        source: "symbols_meanings"
+      - id: "culture_impact_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Direct influence on Shakespeare, 130+ documented adaptations and influences across 4 centuries"
+        source: "culture_impact"
+      - id: "youth_digital_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Philosophy DNA in Gen Z authenticity revolution - 'belonging to oneself' as viral social media motto"
+        source: "youth_digital"
+      - id: "reality_wisdom_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "Prophetically predicted cognitive bias, cultural relativism, and modern psychology 400 years early"
+        source: "reality_wisdom"
+      - id: "writing_innovation_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Invented stream of consciousness technique, pioneered personal narrative and introspective literature"
+        source: "writing_innovation"
+      - id: "facts_history_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Mathematical precision in essay structure hidden beneath apparent spontaneity, 1300+ handwritten corrections"
+        source: "facts_history"
+      - id: "content_warnings_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Contains controversial religious skepticism, gender views, and sexual content requiring content warnings"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Foundational to English literary education via John Florio's 1603 translation, direct influence on Shakespeare"
+        key_editions: ["Penguin Classics by M.A. Screech", "Oxford World's Classics", "Donald Frame Complete Works"]
+        reception_notes: "Canonical status in Western literature, continuous study across UK, US, Canada, Australia"
+        educational_status: "Featured in university curricula as originator of English essay tradition"
+        local_themes: ["Shakespeare connection", "Empiricism foundations", "Liberal individualism precursor"]
+
+      pl:
+        cultural_impact: "Limited early reception, only complete translation by Tadeusz Boy-Żeleński (1957) still used today"
+        key_editions: ["Boy-Żeleński translation (PIW 1957)", "Wolne Lektury digital edition", "Luxury Kurtiak i Ley editions"]
+        reception_notes: "Mandatory high school reading, strong embedding in essay genre education"
+        educational_status: "Required reading in liceum and technikum as example of essay genre creation"
+        local_themes: ["Polish essay tradition development", "Moralist continuation", "Neo-Confucian self-reflection parallels"]
+
+      de:
+        cultural_impact: "Profound influence on German philosophy via Nietzsche's admiration and Frankfurt School engagement"
+        key_editions: ["Hans Stilett complete translation (dtv 1998)", "Manesse Verlag selection", "Academic editions"]
+        reception_notes: "Strong philosophical reception, connection to critical theory and hermeneutics"
+        educational_status: "Central to German philosophical education on Renaissance humanism"
+        local_themes: ["Nietzsche connection", "Frankfurt School skepticism", "Stefan Zweig wartime interpretation"]
+
+      fr:
+        cultural_impact: "Core of French literary canon, foundational work of French philosophy until Enlightenment"
+        key_editions: ["Gallimard Pléiade 2007 critical edition", "Marie de Gournay 1595 posthumous edition"]
+        reception_notes: "Presidential recognition, central to French baccalauréat curriculum"
+        educational_status: "Essential French classical literature, taught alongside tolerance and experimentation themes"
+        local_themes: ["French intellectual tradition foundation", "Enlightenment precursor", "Republican humanist values"]
+
+      es:
+        cultural_impact: "Strong influence on Latin American essay tradition through Alfonso Reyes and Octavio Paz"
+        key_editions: ["Constantino Román Salamero (1912)", "Ediciones Cátedra", "Galaxia Gutenberg bilingual (2021)"]
+        reception_notes: "Academic integration in Spanish universities, foundation for Hispanic American essay tradition"
+        educational_status: "Included in Bachillerato Literatura Universal curriculum"
+        local_themes: ["Latin American essay development", "Cultural identity exploration", "Anti-colonial discourse foundation"]
+
+      pt:
+        cultural_impact: "Pioneered by Brazil with 60+ year advantage over Portugal, influenced Anthropophagic Manifesto"
+        key_editions: ["Sérgio Milliet translation (Brazil 1961)", "Hugo Barros translation (Portugal 2022)", "Companhia das Letras"]
+        reception_notes: "Influenced Brazilian Modernism and Tropicália movement, recent Portuguese renaissance"
+        educational_status: "Featured in Brazilian ENEM exams and Portuguese philosophy curriculum"
+        local_themes: ["Brazilian multiculturalism alignment", "Tropicália philosophical foundation", "Postcolonial literature influence"]
+
+      ja:
+        cultural_impact: "Multiple translations available, bridging Western Renaissance humanism and Japanese philosophy"
+        key_editions: ["Iwanami Bunko 6-volume series by Hara Jiro", "Shinchosha 2-volume edition by Sekine Hideo"]
+        reception_notes: "Academic reception connecting skepticism to Buddhist thought and Zen questioning"
+        educational_status: "Studied in French literature programs and comparative philosophy courses"
+        local_themes: ["Buddhist-Zen philosophical parallels", "Kyoto School connections", "East-West thought synthesis"]
+
+      ko:
+        cultural_impact: "Complex translation history, recent complete translation (2022) marking cultural renaissance"
+        key_editions: ["Son Woo-seong translation (1965)", "Minumsa complete edition (2022, 1,988 pages)"]
+        reception_notes: "Academic focus on translation theory and cultural adaptation challenges"
+        educational_status: "Advanced French literature courses and comparative philosophy programs"
+        local_themes: ["Neo-Confucian self-reflection parallels", "Digital age authenticity debates", "Cultural translation challenges"]
+
+      hi:
+        cultural_impact: "English-medium reception in Indian universities, connecting to philosophical traditions"
+        key_editions: ["Penguin India editions", "Oxford University Press academic texts", "Stanford Frame edition"]
+        reception_notes: "Comparative philosophy engagement, influence on Indian English literature"
+        educational_status: "Philosophy departments covering Classical Western and Indian philosophy"
+        local_themes: ["Skeptical philosophy parallels", "Advaita Vedanta connections", "Postcolonial literary discourse influence"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "genre_creation"
+          lead: "host_a"
+          description: "How Montaigne invented the essay genre and created literary introspection"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "philosophical_foundations"
+          lead: "host_b"
+          description: "Skeptical philosophy, 'Que sais-je?' and the tower as intellectual space"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "structural_innovation"
+          lead: "host_a"
+          description: "Stream of consciousness avant la lettre, digressive technique as method"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "cultural_impact"
+          lead: "host_b"
+          description: "Influence on Shakespeare, Enlightenment, and modern authenticity culture"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Prophetic insights into cognitive bias, cultural relativism, and digital age authenticity"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'Essays' with scholarly depth. Discuss how Montaigne created the essay genre, pioneered stream of consciousness, and established philosophical skepticism as literary method. Explain his revolutionary 'Que sais-je?' philosophy and the architectural symbolism of his tower library. Academic but accessible - make complex innovations understandable."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification about Montaigne's innovations, request examples of his influence on later writers, connect his skeptical method to modern concepts. Help make his 16th-century philosophy accessible to contemporary listeners by drawing parallels to current issues like social media authenticity and cultural relativism."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical religious skepticism", "16th century gender perspectives", "mature philosophical themes"]
+    educational_elements: ["Essay genre characteristics", "Renaissance skeptical philosophy", "Literary innovation techniques", "Cultural relativism foundations"]
+    production_notes:
+      intro_style: "scholarly but accessible"
+      transitions: "philosophical musical bridges"
+      outro_style: "reflective academic conclusion"
+
+  overall_confidence: 0.91

@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "First Glimpse of Something Unusual"
+  setting:
+    time: "February 5, 1985, early evening"
+    location: "Open area near cottage, Isle of Arran, with clear view of sky"
+    weather: "Clear winter evening, excellent visibility"
+  characters:
+    - appearance: "Scottish man, 40s, average build, weathered face from island life"
+      clothing: "1985 winter clothing - thick wool sweater, heavy jacket, practical trousers, warm hat"
+      position: "Standing with arm extended, pointing toward specific area of sky"
+      action: "Calling family's attention to something unusual in the sky, expression of amazement"
+    - appearance: "Scottish woman, 30s-40s, medium build, concerned expression"
+      clothing: "1985 winter clothing - warm coat, wool scarf, sensible boots, knitted hat"
+      position: "Moving closer to husband, following his gaze"
+      action: "Straining to see what he's pointing at, hand raised to shade eyes"
+    - appearance: "Scottish girl, 8-12 years old, curious expression, bright eyes"
+      clothing: "Child's 1985 winter wear - colorful jacket, warm mittens, winter boots, knitted hat"
+      position: "Between parents, looking up eagerly"
+      action: "Pointing in same direction as father, excitement building"
+    - appearance: "Scottish girl, 6-10 years old, wide-eyed wonder, smaller than sister"
+      clothing: "Child's 1985 winter wear - bright winter coat, warm gloves, small boots, wool hat"
+      position: "Close to mother, staying warm against the cold"
+      action: "Looking up with growing amazement, beginning to see something unusual"
+  scene:
+    mainElements: "Family group standing in open area with unobstructed view of darkening sky, all four figures focused on same point in sky above"
+    details: "Stone cottage visible in background, stone walls and bare trees framing the scene, family's body language showing transition from casual observation to focused attention, clear winter air providing perfect visibility, sense of something extraordinary beginning"
+    background: "Arran's mountainous landscape, clear winter sky beginning to show stars, distant cottage lights"
+    atmosphere: "Moment of discovery and shared wonder, peaceful Scottish island evening about to become unforgettable, family unity in witnessing something extraordinary"
+  composition:
+    cameraAngle: "Low angle shot emphasizing upward gaze and sky"
+    focus: "Family's unified attention toward sky, with pointing gestures leading eye upward"
+    depth: "Foreground: family figures in winter clothing, middle: cottage and stone walls, background: Arran landscape and expansive sky, no text or letters visible"

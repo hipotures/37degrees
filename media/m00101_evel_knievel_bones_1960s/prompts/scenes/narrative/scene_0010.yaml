@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Legacy of the Bone-Breaking Daredevil"
+  setting:
+    time: "1975, sunset"
+    location: "Motorcycle repair garage with tools and equipment"
+    weather: "Indoor setting with golden hour light streaming through windows"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns"
+      clothing: "Red, white and blue leather jumpsuit with stars and stripes, white helmet with eagle emblem, white leather boots"
+      position: "Sitting on workbench, looking at collection of medical X-rays"
+      action: "Reflecting on career while examining X-rays showing numerous healed bone fractures"
+  scene:
+    mainElements: "Motorcycles, tool benches, spare parts, oil stains on concrete floor with golden sunset light illuminating workspace"
+    details: "Garage workshop with multiple X-ray films spread across workbench showing fractured bones, collection of medical casts and braces on shelves, motorcycle helmets and protective gear, tools organized on pegboards, no text or letters visible"
+    background: "Classic Harley Davidson motorcycle, chrome exhaust pipes, custom paint job, high handlebars, powerful engine parked in background, garage doors open to evening sky"
+    atmosphere: "Working environment, mechanical preparation, focused activity with reflective mood of accomplished but costly career"
+  composition:
+    cameraAngle: "Medium shot from slight high angle"
+    focus: "Character EK contemplating X-rays showing his 433 broken bones"
+    depth: "X-rays and medical equipment in foreground, character in middle ground, motorcycle and garage in background"

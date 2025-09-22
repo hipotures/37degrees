@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Citizens Commission Planning Meeting"
+  setting:
+    time: "1971 February, evening"
+    location: "Suburban home living room, Pennsylvania area"
+    weather: "Cold winter evening, snow visible through windows"
+  characters:
+    - appearance: "Caucasian man, 30s, average height, brown hair, determined expression"
+      clothing: "Dark casual clothing, black gloves, carrying small tools"
+      position: "Leaning over coffee table examining building plans"
+      action: "Pointing at floor plan and discussing entry strategies"
+    - appearance: "Woman, 30s, shoulder-length brown hair, focused expression"
+      clothing: "Dark coat, practical shoes, carrying radio or communication device"
+      position: "Seated in armchair holding street map"
+      action: "Reviewing escape routes and timing coordination"
+    - appearance: "Man, 40s, glasses, slightly disheveled hair, analytical expression"
+      clothing: "Casual suit, loosened tie, shirt sleeves sometimes rolled up"
+      position: "Standing by window keeping watch"
+      action: "Monitoring street for any suspicious activity"
+  scene:
+    mainElements: "Coffee table with maps and documents, comfortable chairs, table lamps providing warm light, domestic living room setting"
+    details: "Blueprints spread on table, small tools and equipment, coffee cups, notepad, radio equipment, curtains drawn for privacy, family photographs on mantel"
+    background: "Suburban home interior with fireplace, bookshelves, typical 1970s furniture and decor"
+    atmosphere: "Quiet domestic setting used for clandestine planning with tension and determination, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from corner of room showing all participants"
+    focus: "Group huddled around planning materials on coffee table"
+    depth: "Foreground shows planning documents, middle ground captures conspirators, background reveals domestic setting"

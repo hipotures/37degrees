@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Modern Digital Age Monitoring Revolution"
+  setting:
+    time: "December 2024, evening"
+    location: "Cluttered home office filled with radio equipment and antennas"
+    weather: "Clear winter evening with excellent radio propagation"
+  characters:
+    - appearance: "50s bearded man, thick glasses, weathered hands from years of radio equipment handling"
+      clothing: "Worn flannel shirt, headphones, notebook always in hand"
+      position: "Monitoring multiple digital displays showing real-time number station activity"
+      action: "Recording unprecedented 24 messages in single day while updating digital logs and sharing data with global monitoring network"
+  scene:
+    mainElements: "Multiple shortwave radios, computer screens, frequency charts, logbooks"
+    details: "Modern digital spectrum analyzers displaying UVB-76 transmissions, computer screens showing real-time monitoring software, internet-connected logging systems, social media feeds from global monitoring community, traditional handwritten logbooks alongside digital records, multiple radio receivers scanning automatically"
+    background: "Wall displays showing transmission statistics and frequency plots, multiple antennas visible through window, modern computer workstation integrated with vintage radio equipment"
+    atmosphere: "Dim lighting, constant static and beeping, walls covered with QSL cards, excitement of documenting record-breaking transmission activity, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing evolution from analog to digital monitoring"
+    focus: "Operator documenting historic high-volume transmission day using both traditional and modern methods"
+    depth: "Foreground shows digital monitoring equipment, middle ground reveals operator recording historic activity, background displays traditional radio setup with modern additions"

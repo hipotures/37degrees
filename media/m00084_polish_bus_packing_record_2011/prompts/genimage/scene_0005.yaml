@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: June 1, 2011, 10:45 AM
+    location: Interior of standard single-decker public transport bus, unmodified
+    weather: Sunny day with natural light entering through bus windows
+  characters:
+  - appearance: Young Caucasian man, early 20s, athletic build, determined expression
+    clothing: Casual university attire - jeans, university sweatshirt, sneakers
+    position: Among first participants entering and finding positions inside bus
+    action: Ready to participate, enthusiastic body language
+  - appearance: Young Caucasian woman, early 20s, medium height, focused expression
+    clothing: Casual student outfit - dark pants, light top, comfortable shoes
+    position: Carefully positioning herself among other participants in bus interior
+    action: Cooperative and eager, following instructions carefully
+  - appearance: Caucasian man, 40s, experienced look, calm expression, sturdy build
+    clothing: Official bus driver uniform - dark blue jacket, cap, professional appearance
+    position: Remaining seated at driver controls
+    action: Seated at driver controls, maintaining professional composure
+  scene:
+    mainElements: Standard bus seating, handholds, windows, driver compartment, typical public transport interior layout
+    details: First wave of participants systematically entering the bus and finding strategic positions, standard public transport
+      seating being occupied, handholds and interior features being utilized for support, natural coordination as students
+      work together to maximize space usage, driver maintaining position at controls throughout the packing process
+    background: Bus windows showing campus courtyard outside, university buildings visible through glass
+    atmosphere: Crowded, cramped conditions with determined participants packed tightly together, cooperative spirit and determination,
+      no text or letters visible
+  composition:
+    cameraAngle: Interior view from bus entrance looking toward back
+    focus: Students systematically filling available space inside the bus
+    depth: Foreground shows entrance area with entering participants, middle ground displays seating areas being filled, background
+      reveals driver area and rear of bus
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Initial SCARF Camera System Assembly"
+  setting:
+    time: "2024, afternoon"
+    location: "INRS Énergie Matériaux Télécommunications Research Centre, advanced optics laboratory, Montreal, Canada"
+  characters:
+    - appearance: "Caucasian man, 30s, analytical expression, short brown hair, clean-shaven"
+      clothing: "INRS research center polo shirt or lab coat with safety glasses"
+      position: "Crouched beside optical bench, adjusting equipment"
+      action: "Carefully aligning precision optical components with micrometer adjustments"
+    - appearance: "Caucasian woman, 35s, determined expression, shoulder-length blonde hair"
+      clothing: "Professional blouse under lab coat or dark business casual attire"
+      position: "Standing at computer workstation"
+      action: "Monitoring system parameters and calibration data on multiple screens"
+  scene:
+    mainElements: "Revolutionary ultrafast camera system featuring swept-coded aperture design, precision optical components, laser pulse generation system, and computational processing unit capable of 156.3 trillion frames per second"
+    details: "Early assembly phase of the SCARF camera system showing precision-mounted optical components on vibration-isolated table, advanced laser pulse generation equipment with beam steering mirrors, specialized swept-coded aperture mechanism, high-speed data acquisition electronics, and fiber optic connections linking various system modules. Multiple computer monitors display real-time system diagnostics and alignment parameters."
+    background: "Additional optical benches with supporting equipment, laser safety systems, and environmental monitoring devices"
+    atmosphere: "Precise technical environment requiring extreme accuracy, with controlled lighting to prevent interference with sensitive optical measurements, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot emphasizing the intricate optical system assembly"
+    focus: "The sophisticated SCARF camera components and precise assembly process"
+    depth: "Foreground shows detailed optical components, middle ground features researchers working, background reveals supporting laboratory infrastructure"

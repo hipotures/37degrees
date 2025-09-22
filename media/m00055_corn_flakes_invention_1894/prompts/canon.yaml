@@ -1,0 +1,76 @@
+canon:
+  characters:
+    - id: "character_JHK"
+      name: "Character JHK"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, tall and lean build, intense dark eyes, full dark beard, stern expression"
+            clothing: "1890s white medical coat over dark suit, or formal black suit with white shirt and bow tie"
+            posture: "Upright, authoritative stance, often with hands clasped behind back or gesturing emphatically"
+    - id: "character_WKK"
+      name: "Character WKK"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s, shorter than his brother, clean-shaven, practical demeanor, focused expression"
+            clothing: "1890s dark business suit with vest, white shirt, simple necktie, sometimes wearing work apron"
+            posture: "Alert, active stance, often leaning forward examining something or taking notes"
+    - id: "sanitarium_patient"
+      name: "Sanitarium Patient"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged person, pale complexion, thin build, wearing simple light-colored clothing"
+            clothing: "Plain white or light gray loose-fitting garments typical of health institution patients"
+            posture: "Seated at dining table, looking expectantly at the meal being served"
+    - id: "kitchen_worker"
+      name: "Kitchen Worker"
+      description_block: |
+        characters:
+          - appearance: "Young adult, rolled-up sleeves, flour-dusted hands, concentrated expression"
+            clothing: "White apron over dark work clothes, simple cap or hair covering"
+            posture: "Bent over work surface, hands busy with food preparation tasks"
+  locations:
+    - id: "battle_creek_sanitarium"
+      name: "Battle Creek Sanitarium"
+      description_block: |
+        setting:
+          location: "Battle Creek Sanitarium, Michigan, multi-story brick building with Victorian architecture"
+        mainElements: "Large institutional building with multiple wings, well-maintained grounds, trees surrounding the property"
+        atmosphere: "Professional medical facility atmosphere, clean and orderly, representing progressive health treatment"
+    - id: "sanitarium_kitchen"
+      name: "Sanitarium Kitchen"
+      description_block: |
+        setting:
+          location: "Large institutional kitchen inside Battle Creek Sanitarium, Michigan"
+        mainElements: "Industrial-sized cooking equipment, large wooden work tables, metal pots and pans, gas stoves, storage shelves"
+        atmosphere: "Busy professional kitchen environment with focus on health-conscious food preparation"
+    - id: "sanitarium_dining_hall"
+      name: "Sanitarium Dining Hall"
+      description_block: |
+        setting:
+          location: "Dining hall at Battle Creek Sanitarium, Michigan, large room with multiple tables"
+        mainElements: "Long wooden tables with chairs, white tablecloths, large windows providing natural light"
+        atmosphere: "Quiet, orderly meal service atmosphere focused on healthy eating principles"
+    - id: "medical_office"
+      name: "Medical Office"
+      description_block: |
+        setting:
+          location: "Doctor's office inside Battle Creek Sanitarium, Michigan"
+        mainElements: "Wooden desk with papers, medical books on shelves, examination table, gas lamp lighting"
+        atmosphere: "Professional medical consultation space with emphasis on dietary health theories"
+  items:
+    - id: "wheat_dough"
+      name: "Wheat Dough"
+      description_block: |
+        details: "Bowl of prepared wheat-berry dough, thick consistency, left sitting on wooden work surface overnight"
+    - id: "rolling_machine"
+      name: "Rolling Machine"
+      description_block: |
+        details: "Large mechanical roller device made of metal and wood, used for flattening grain dough into sheets"
+    - id: "wheat_flakes"
+      name: "Wheat Flakes"
+      description_block: |
+        details: "Thin, crispy flakes of wheat scattered on metal tray, golden-brown color, each flake individual and delicate"
+    - id: "patent_document"
+      name: "Patent Document"
+      description_block: |
+        details: "Official patent papers on desk, formal typewritten text, official government seals and stamps visible"

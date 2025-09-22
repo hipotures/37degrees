@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Sudden Hailstorm Follows Fireball Explosion"
+  setting:
+    time: "December 11, 1752, immediately after 4:00 PM fireball explosion"
+    location: "Glasgow city center, Scotland, December 1752"
+    weather: "Sudden massive hailstorm immediately following the fireball fragmentation"
+  characters:
+    - appearance: "Middle-aged Scottish gentleman, likely educated based on detailed observation skills, 40s, intelligent countenance, careful grooming reflecting professional status"
+      clothing: "Dark wool coat with brass buttons, white linen shirt with cravat, knee-length breeches, white stockings, buckled shoes - typical 1750s Scottish urban dress"
+      position: "Taking shelter under building overhang while continuing to observe"
+      action: "Protecting himself from hail while maintaining his methodical documentation of this unprecedented atmospheric sequence"
+  scene:
+    mainElements: "Sudden hailfall immediately following fireball fragmentation, unusual weather phenomenon suggesting atmospheric disturbance caused by fireball passage"
+    details: "Large hailstones fall dramatically across Glasgow's cobblestone streets as citizens scramble for shelter under shop awnings and building overhangs. The sudden weather change immediately follows the fireball's explosive fragmentation, creating an eerie connection between celestial and terrestrial phenomena. Shop signs sway in the wind while people hurry to avoid the pelting ice. The educated observer continues documenting this remarkable sequence that would become part of historical record, no text or letters visible"
+    background: "Glasgow architecture provides shelter as citizens seek protection from the sudden atmospheric phenomenon"
+    atmosphere: "Dramatic weather change creating mystery about the connection between fireball and sudden hailstorm"
+  composition:
+    cameraAngle: "Medium shot showing people taking shelter during the sudden hailstorm"
+    focus: "The immediate aftermath weather phenomenon and human response"
+    depth: "Foreground shows hail hitting cobblestones, middle ground captures people seeking shelter, background features Glasgow buildings during the sudden weather event"

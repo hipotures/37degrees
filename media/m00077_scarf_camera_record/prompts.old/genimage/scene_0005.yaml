@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 2024, evening
+    location: Specialized dark chamber for ultrafast imaging demonstrations within INRS facility
+  characters:
+  - appearance: Asian-Canadian man, 40s, focused expression, dark hair, wire-rim glasses
+    clothing: White lab coat over dark shirt, or casual dark suit with no tie
+    position: Standing behind SCARF camera system, hand on control interface
+    action: Initiating the record-breaking capture sequence with intense concentration
+  - appearance: Caucasian woman, 35s, determined expression, shoulder-length blonde hair
+    clothing: Professional blouse under lab coat or dark business casual attire
+    position: Seated at monitoring station with multiple displays
+    action: Watching real-time data streams showing femtosecond-scale measurements
+  scene:
+    mainElements: Revolutionary ultrafast camera system featuring swept-coded aperture design, precision optical components,
+      laser pulse generation system, and computational processing unit capable of 156.3 trillion frames per second
+    details: SCARF camera system in full operation capturing ultrafast phenomena at 156.3 trillion frames per second. The
+      swept-coded aperture mechanism precisely controls light admission while the chirped laser pulse illuminates test samples.
+      High-speed electronics record data at unprecedented temporal resolution as computational algorithms begin processing
+      the time-staggered optical signals into reconstructed images of femtosecond events.
+    background: Enclosed testing environment with laser pulse generation equipment and target materials, environmental monitoring
+      systems
+    atmosphere: Tense excitement as breakthrough technology achieves its first successful demonstration, illuminated by equipment
+      displays and laser indicators, no text or letters visible
+  composition:
+    cameraAngle: Dynamic shot capturing the moment of breakthrough achievement
+    focus: The SCARF camera system during its record-breaking performance
+    depth: Foreground emphasizes camera controls and interface, middle ground shows researchers monitoring the test, background
+      reveals supporting measurement and safety equipment
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

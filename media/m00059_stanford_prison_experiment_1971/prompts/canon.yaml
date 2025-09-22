@@ -1,0 +1,115 @@
+canon:
+  characters:
+    - id: "character_PZ"
+      name: "Character PZ"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, late 30s, beard, dark hair, intense gaze, intellectual appearance"
+            clothing: "1970s casual academic attire, button-down shirt, dark slacks, sometimes white lab coat"
+            posture: "Authoritative, often standing with clipboard or observing, commanding presence"
+    - id: "guard_leader"
+      name: "Lead Guard"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, early 20s, tall, athletic build, stern expression"
+            clothing: "Khaki military-style uniform, reflective mirrored sunglasses, black boots, carrying whistle and billy club"
+            posture: "Rigid military bearing, hands behind back or holding equipment, dominating stance"
+    - id: "guard_follower"
+      name: "Following Guard"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, early 20s, medium build, uncertain expression when alone"
+            clothing: "Khaki military-style uniform, reflective mirrored sunglasses, black boots, carrying whistle"
+            posture: "Following lead of others, more hesitant body language, looking to authority"
+    - id: "prisoner_819"
+      name: "Prisoner #819"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, early 20s, medium build, defiant expression, growing desperation"
+            clothing: "Ill-fitting white prison smock, stocking cap, chain around ankle, number 819 visible on chest"
+            posture: "Initially rebellious stance, later hunched and withdrawn, arms crossed defensively"
+    - id: "prisoner_breakdown"
+      name: "Distressed Prisoner"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, early 20s, thin build, distressed expression, tears visible"
+            clothing: "Ill-fitting white prison smock, stocking cap, chain around ankle, wrinkled and disheveled"
+            posture: "Curled up, head in hands, or pressed against wall, body language showing emotional collapse"
+    - id: "prisoner_compliant"
+      name: "Compliant Prisoner"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, early 20s, average build, submissive expression, downcast eyes"
+            clothing: "Ill-fitting white prison smock, stocking cap, chain around ankle, kept neat"
+            posture: "Shoulders slumped, hands at sides, head down, avoiding eye contact"
+    - id: "character_CM"
+      name: "Character CM"
+      description_block: |
+        characters:
+          - appearance: "Woman, late 20s, dark hair, concerned expression, professional appearance"
+            clothing: "1970s professional attire, blouse and skirt, carrying notebook"
+            posture: "Alert and observant, taking notes, showing visible concern for participants"
+    - id: "police_officer"
+      name: "Palo Alto Police Officer"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s, uniformed police officer, serious professional demeanor"
+            clothing: "1970s police uniform, badge, utility belt with handcuffs, police cap"
+            posture: "Professional law enforcement stance, hand near equipment, authoritative"
+  locations:
+    - id: "stanford_basement_prison"
+      name: "Stanford Psychology Building Basement Prison"
+      description_block: |
+        setting:
+          location: "Converted basement of Stanford University psychology building, Jordan Hall, California"
+        mainElements: "Three small prison cells with barred doors, narrow corridor, observation area, guard station"
+        atmosphere: "Claustrophobic institutional environment with fluorescent lighting, concrete walls, and oppressive confined feeling"
+    - id: "stanford_lab_office"
+      name: "Stanford Psychology Laboratory Office"
+      description_block: |
+        setting:
+          location: "Stanford University psychology department office, Jordan Hall, California"
+        mainElements: "Academic office with desk, chairs, filing cabinets, research materials, observation equipment"
+        atmosphere: "Clinical academic environment with fluorescent lighting, institutional furniture, research atmosphere"
+    - id: "suburban_home"
+      name: "Suburban Palo Alto Home"
+      description_block: |
+        setting:
+          location: "Middle-class suburban home, Palo Alto, California"
+        mainElements: "1970s residential interior with living room furniture, family photos, period decor"
+        atmosphere: "Comfortable domestic setting with warm lighting, family environment before disruption"
+    - id: "police_station"
+      name: "Palo Alto Police Station"
+      description_block: |
+        setting:
+          location: "Palo Alto Police Department booking area, California"
+        mainElements: "Police booking desk, fingerprinting station, holding area, institutional furniture"
+        atmosphere: "Official law enforcement environment with harsh lighting, formal procedures, intimidating authority"
+    - id: "solitary_cell"
+      name: "Solitary Confinement Closet"
+      description_block: |
+        setting:
+          location: "Converted closet in Stanford psychology building basement, California"
+        mainElements: "Extremely small dark space, single chair, barely enough room to stand"
+        atmosphere: "Claustrophobic isolation chamber with minimal lighting, oppressive confinement feeling"
+  items:
+    - id: "guard_equipment"
+      name: "Guard Authority Equipment"
+      description_block: |
+        details: "Khaki uniform with military-style shirt and pants, reflective mirrored sunglasses, black police-style billy club, metal whistle on lanyard, black leather boots"
+    - id: "prisoner_uniform"
+      name: "Prisoner Uniform and Restraints"
+      description_block: |
+        details: "Ill-fitting white cotton smock without underwear, knitted stocking cap, metal chain around ankle, identification number sewn on chest"
+    - id: "psychological_equipment"
+      name: "Research and Observation Equipment"
+      description_block: |
+        details: "Clipboard with papers, pen, observation forms, research notes, measuring instruments, psychological assessment materials"
+    - id: "prison_cell_setup"
+      name: "Makeshift Prison Cell Components"
+      description_block: |
+        details: "Metal bars attached to laboratory doors, thin mattresses on floor, basic metal toilet, concrete walls painted institutional colors"
+    - id: "arrest_materials"
+      name: "Mock Arrest Equipment"
+      description_block: |
+        details: "Police handcuffs, booking paperwork, fingerprinting materials, blindfold for transport, official police procedures documentation"

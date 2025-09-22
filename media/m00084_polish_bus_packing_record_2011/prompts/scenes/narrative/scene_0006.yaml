@@ -1,0 +1,25 @@
+sceneDescription:
+  title: "Maximum Capacity Challenge"
+  setting:
+    time: "June 1, 2011, 11:00 AM"
+    location: "Interior of standard single-decker public transport bus, unmodified"
+    weather: "Bright sunlight filtering through packed bus windows"
+  characters:
+    - appearance: "Young Caucasian man, early 20s, athletic build, determined expression"
+      clothing: "Casual university attire - jeans, university sweatshirt, sneakers"
+      position: "Tightly packed among other participants in bus interior"
+      action: "Ready to participate, enthusiastic body language"
+    - appearance: "Young Caucasian woman, early 20s, medium height, focused expression"
+      clothing: "Casual student outfit - dark pants, light top, comfortable shoes"
+      position: "Compressed into available space with other students"
+      action: "Cooperative and eager, following instructions carefully"
+  characters: "No characters visible due to extreme density of 229 people packed inside bus"
+  scene:
+    mainElements: "Standard bus seating, handholds, windows, driver compartment, typical public transport interior layout completely filled with maximum human capacity"
+    details: "Bus interior at absolute maximum capacity with 229 participants filling every available space, people standing in aisles, sitting on laps, utilizing every inch of available room, handholds supporting multiple people, windows providing only source of natural light, extreme density requiring careful coordination and cooperation among all participants"
+    background: "Bus windows showing glimpses of campus courtyard outside, university setting visible through gaps between packed participants"
+    atmosphere: "Crowded, cramped conditions with determined participants packed tightly together, intense physical challenge with spirit of cooperation and shared achievement, no text or letters visible"
+  composition:
+    cameraAngle: "Wide interior shot showing complete bus capacity"
+    focus: "Extreme density of human participants filling entire bus interior"
+    depth: "Foreground shows immediate dense packing, middle ground displays seating areas completely occupied, background reveals driver area and maximum utilization of space"

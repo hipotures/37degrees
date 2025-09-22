@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Bishop Intervenes to Save Drowning Sailor from Congregation"
+  setting:
+    time: "748 CE, Sunday morning during Mass"
+    location: "Church grounds at Clonmacnoise near caught anchor"
+    weather: "Clear morning, sailor struggling to breathe in thick earthly air"
+  characters:
+    - appearance: "Middle-aged cleric, 50s, weathered face from Irish climate, authoritative bearing"
+      clothing: "Fine woolen robes in ecclesiastical colors, ornate bronze Celtic cross, episcopal ring, leather boots"
+      position: "Standing with raised hand in protective gesture"
+      action: "Intervening to protect the aerial sailor from congregation's grasp"
+    - appearance: "Adult male, strong swimmer's build, appears to be struggling in thick air"
+      clothing: "Sailor's tunic and breeches, possibly different material than earthly clothing, barefoot"
+      position: "Suspended in air or struggling on ground"
+      action: "Swimming through air or desperately trying to return to ship above"
+    - appearance: "Mixed group of monks and lay people, various ages, Irish medieval population"
+      clothing: "Monks in brown habits, lay people in woolen tunics and cloaks, earth-tone colors"
+      position: "Gathered outside church, some pointing upward, others reaching"
+      action: "Looking skyward in wonder and fear, some trying to grasp the sailor"
+  scene:
+    mainElements: "Stone church within Clonmacnoise complex with arched doorway. Stone arch over main entrance, bishop's throne, altar, wooden benches, decorated Celtic crosses. Sacred space filled with incense, candlelight, chanted prayers, reverent silence."
+    details: "Bishop standing with raised hand commanding congregation to step back from struggling sailor. Sailor on ground gasping for breath, appearing to drown in thick earthly atmosphere. Congregation members reaching toward sailor but being restrained by bishop's authority. Bishop's ornate bronze Celtic cross gleaming in morning light. Sailor's foreign clothing clearly different from local garments. Some congregation members backing away in fear, others still trying to approach. Church archway with caught anchor visible in background."
+    background: "Clonmacnoise church entrance with bronze anchor still lodged in stone arch, monastery buildings beyond, rope extending upward to unseen ship"
+    atmosphere: "Tension between wonder and fear, bishop's wisdom preventing potential tragedy, sailor's desperate struggle to survive in alien atmosphere, authority of church protecting otherworldly visitor, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing bishop, sailor, and congregation interaction"
+    focus: "The bishop's protective intervention and sailor's desperate struggle"
+    depth: "Foreground shows struggling sailor, middle ground reveals protective bishop, background displays church and caught anchor"

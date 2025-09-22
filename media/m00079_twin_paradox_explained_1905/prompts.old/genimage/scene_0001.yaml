@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1905, afternoon
+    location: Bern Patent Office physics laboratory, Switzerland, early 20th century
+    weather: Clear day with bright sunlight streaming through tall windows
+  characters:
+  - appearance: Caucasian man, 26 years old, dark curly hair, intense brown eyes, prominent mustache
+    clothing: 1905 dark wool suit with vest, white dress shirt, black bow tie, pocket watch chain
+    position: Standing at blackboard in center of laboratory
+    action: Writing mathematical equations with chalk, pausing thoughtfully between calculations
+  scene:
+    mainElements: Large wooden desk with papers and calculations, blackboard with mathematical equations, mechanical clocks
+      on shelves
+    details: The blackboard shows time dilation formulas and velocity calculations in white chalk. Multiple precision clocks
+      line the shelves, each showing slightly different times. Scattered papers cover the desk with geometric diagrams and
+      mathematical notes. Sunlight creates geometric patterns through the large windows, illuminating chalk dust in the air.
+      Gas lamps provide additional warm lighting.
+    background: Tall windows overlooking Swiss mountains, wooden bookshelves filled with physics texts, scientific instruments
+      on side tables
+    atmosphere: Scholarly, focused environment with warm gaslight illumination, filled with intellectual energy and the excitement
+      of scientific discovery, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from slight angle, capturing both the scientist and blackboard
+    focus: The chalk equations on the blackboard and the scientist's intense concentration
+    depth: Foreground shows chalk dust and hand, middle ground captures scientist and blackboard, background reveals laboratory
+      setting
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

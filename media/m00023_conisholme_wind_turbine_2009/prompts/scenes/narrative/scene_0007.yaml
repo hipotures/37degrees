@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Catastrophic Turbine Damage Discovery at Dawn"
+  setting:
+    time: "January 4, 2009, early morning discovery"
+    location: "Isolated turbine within Conisholme Wind Farm array, emergency vehicles and investigators present"
+    weather: "Cold January morning, frost on grass, clear visibility"
+  characters:
+    - appearance: "Wind farm maintenance workers and officials, various ages, concerned expressions"
+      clothing: "High-visibility safety vests, hard hats, winter work gear, steel-toed boots"
+      position: "Standing around damaged turbine, some examining debris"
+      action: "Documenting damage, taking measurements, pointing at twisted blade and debris field"
+  scene:
+    mainElements: "Turbine with one missing blade, one twisted blade still attached, debris field below, 66-foot blade lying on ground"
+    details: "Emergency vehicles with flashing lights, investigation tape barriers, officials examining wreckage, photographers documenting damage, twisted metal and fiberglass debris scattered on frost-covered ground, one blade completely severed at hub connection"
+    background: "Other functioning wind turbines continuing to operate normally, flat Lincolnshire countryside, emergency response vehicles on access roads"
+    atmosphere: "Scene of investigation, serious technical failure requiring explanation, contrast between damaged unit and normally functioning turbines"
+  composition:
+    cameraAngle: "Wide shot showing full scope of damage and investigation"
+    focus: "Damaged turbine with missing and twisted blades"
+    depth: "Foreground investigators and debris, middle ground damaged turbine structure, background functioning turbines and countryside, no text or letters visible"

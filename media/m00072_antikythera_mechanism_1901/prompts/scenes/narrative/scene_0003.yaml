@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Deep Sea Discovery - First Glimpse of Ancient Wreckage"
+  setting:
+    time: "1900, midday"
+    location: "Mediterranean underwater archaeological site, 45 meters deep off Point Glyphadia, Antikythera island, Greece"
+    weather: "Underwater scene with filtered sunlight penetrating to seabed"
+  characters:
+    - appearance: "Greek man, 40s, weathered skin from sea work, dark hair and beard, strong build"
+      clothing: "1900 Mediterranean diving gear with bronze helmet, or traditional Greek seafaring attire"
+      position: "Swimming near seabed examining scattered artifacts"
+      action: "Reaching toward corroded bronze object partially buried in sand"
+  scene:
+    mainElements: "Ancient Roman shipwreck remains scattered across rocky seabed with bronze artifacts and amphorae"
+    details: "Ancient Roman cargo ship wreckage spread across Mediterranean seabed at 45-meter depth. Corroded bronze artifacts, broken amphorae, ship's timber remains, and mysterious bronze mechanism partially visible among debris. Marine growth covering ancient objects, schools of fish swimming through wreck site. Heavy bronze diving helmet with glass viewing ports, air hose connection, polished metal surface reflecting Mediterranean sunlight, used for deep-sea sponge diving and artifact recovery."
+    background: "Rocky Mediterranean seabed with patches of sand, filtered sunlight creating dramatic underwater lighting effects"
+    atmosphere: "Mysterious underwater archaeological scene with filtered sunlight illuminating ancient treasures. Sense of discovering something extraordinary from the ancient world."
+  composition:
+    cameraAngle: "Underwater perspective showing diver and wreck site"
+    focus: "Diver discovering bronze mechanism among ancient wreckage"
+    depth: "Foreground: diver reaching for artifact, middle ground: scattered wreck debris, background: murky underwater depths, no text or letters visible"

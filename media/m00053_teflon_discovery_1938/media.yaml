@@ -1,0 +1,12 @@
+media_info:
+  title: Teflon Discovery - 1938
+  year: 1938
+  genre: Science & Technology Documentary
+  description: Roy Plunkett accidentally creates non-stick coating while researching refrigerants
+  target_audience: General public, students, science enthusiasts, inventors
+  duration: ~3 minutes
+  objective: Recreate the laboratory accident that led to the discovery of Teflon non-stick coating
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

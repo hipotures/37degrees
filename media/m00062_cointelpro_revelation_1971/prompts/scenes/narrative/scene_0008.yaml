@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Journalist Receives COINTELPRO Documents"
+  setting:
+    time: "March 12, 1971, morning"
+    location: "Major newspaper newsroom, downtown Washington DC"
+    weather: "Bright spring morning, sunlight streaming through tall windows"
+  characters:
+    - appearance: "Man, 40s, glasses, slightly disheveled hair, analytical expression"
+      clothing: "Casual suit, loosened tie, shirt sleeves sometimes rolled up"
+      position: "Seated at desk examining documents with magnifying glass"
+      action: "Carefully studying FBI surveillance photographs and classified papers"
+    - appearance: "Man, 40s, glasses, slightly disheveled hair, analytical expression"
+      clothing: "Casual suit, loosened tie, shirt sleeves sometimes rolled up"
+      position: "Standing at desk holding phone to ear"
+      action: "Making urgent phone calls to verify authenticity of documents"
+  scene:
+    mainElements: "Rows of desks with typewriters, ringing phones, stacks of papers, manila envelope marked as evidence, busy newsroom environment"
+    details: "Manila folders marked 'CLASSIFIED' and 'COINTELPRO', typed pages with FBI letterhead scattered across desk, surveillance photographs of civil rights leaders, coffee cups, cigarette smoke, press credentials hanging from lamp"
+    background: "Newsroom with fluorescent lighting, city view through windows, other journalists typing and working phones"
+    atmosphere: "Busy journalism environment with urgency of breaking major story and historic revelation, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot across newsroom desk showing document examination"
+    focus: "Journalist studying classified FBI documents at desk"
+    depth: "Foreground shows documents, middle ground captures journalist, background reveals newsroom activity"

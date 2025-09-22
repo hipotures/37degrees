@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 2010s, afternoon
+    location: North Yungas Road narrow cliff section, Bolivia - 3-meter wide dirt road carved into mountainside
+    weather: Partly cloudy with dramatic lighting through mountain gaps
+  characters:
+  - appearance: Young backpacker, 20s, athletic build, eager expression, wearing bike helmet
+    clothing: Modern cycling gear - padded shorts, moisture-wicking shirt, protective gear
+    position: On mountain bike navigating narrow cliff road
+    action: Carefully controlling speed while descending, gripping brakes tightly, eyes focused on treacherous path ahead
+  - appearance: Tourist cyclist, 30s, adventure seeker, protective gear, determined expression
+    clothing: Full protective mountain biking gear - armor, helmet, gloves
+    position: Following behind lead cyclist
+    action: Maintaining safe distance while navigating same dangerous terrain
+  scene:
+    mainElements: Extremely narrow mountain road carved into cliff face, sheer drop on one side, rock wall on other
+    details: Multiple cyclists in single file on narrow road, modern safety equipment, support vehicle following at distance,
+      dramatic 3,500-meter descent visible, lush vegetation changing from mountain to tropical
+    background: Amazon basin visible thousands of feet below, mist rising from tropical valley
+    atmosphere: Controlled danger, adventure tourism at its most extreme, breathtaking scenery
+  composition:
+    cameraAngle: Dynamic side view showing cyclists on cliff edge
+    focus: Adventure cyclists experiencing the transformed Death Road
+    depth: Cyclists in foreground, narrow road in middle ground, dramatic valley drop in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

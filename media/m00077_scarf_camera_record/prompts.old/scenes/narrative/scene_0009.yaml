@@ -1,0 +1,27 @@
+sceneDescription:
+  title: "Research Presentation and Future Applications"
+  setting:
+    time: "2024, next day morning"
+    location: "Conference room at INRS research facility for presenting findings"
+  characters:
+    - appearance: "Asian-Canadian man, 40s, focused expression, dark hair, wire-rim glasses"
+      clothing: "White lab coat over dark shirt, or casual dark suit with no tie"
+      position: "Standing at presentation area with projection screen"
+      action: "Presenting the breakthrough findings to colleagues and administrators"
+    - appearance: "Caucasian woman, 35s, determined expression, shoulder-length blonde hair"
+      clothing: "Professional blouse under lab coat or dark business casual attire"
+      position: "Seated at conference table with laptop open"
+      action: "Operating presentation slides and technical demonstrations"
+    - appearance: "South Asian man, 28s, enthusiastic expression, black hair, slight beard"
+      clothing: "Dark sweater or button-down shirt under lab coat"
+      position: "Standing beside demonstration equipment"
+      action: "Explaining potential applications in medical and pharmaceutical research"
+  scene:
+    mainElements: "Scientific presentation of SCARF camera breakthrough with projection displays and demonstration equipment"
+    details: "Professional research presentation showcasing the 156.3 trillion frames per second achievement. Large projection screens display technical specifications, sample femtosecond imaging results, and potential applications in medical research, pharmaceutical development, and materials science. The SCARF camera system components are arranged for demonstration while presentation materials highlight the revolutionary capabilities and commercial potential."
+    background: "Modern conference room with projection equipment and presentation displays, additional research personnel attending"
+    atmosphere: "Professional academic setting for sharing scientific breakthroughs, bright conference room lighting with excited anticipation for future applications, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot capturing the presentation and audience engagement"
+    focus: "The research presentation and demonstration of breakthrough applications"
+    depth: "Foreground shows presenter and demonstration equipment, middle ground features engaged audience, background displays projection screens and conference room setup"

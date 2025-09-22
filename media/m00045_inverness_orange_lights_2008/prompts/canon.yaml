@@ -1,0 +1,74 @@
+canon:
+  characters:
+    - id: "witness_primary"
+      name: "Primary Witness"
+      description_block: |
+        characters:
+          - appearance: "Adult resident of Inverness, Highland Scotland, alert and observant"
+            clothing: "Late evening attire suitable for Highland summer weather in June 2008"
+            position: "Standing outdoors in Inverness, observing night sky"
+            action: "Watching and documenting orange lights moving across Highland capital skyline"
+
+    - id: "witness_secondary"
+      name: "Secondary Witness"
+      description_block: |
+        characters:
+          - appearance: "Local Highland resident, capable of detailed observation"
+            clothing: "Evening wear appropriate for Highland Scotland summer night"
+            position: "Positioned to observe upward light beam phenomenon"
+            action: "Witnessing vertical beam accompanying circular orange lights"
+
+    - id: "character_DC"
+      name: "Character DC"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged academic researcher, professional demeanor"
+            clothing: "Academic attire suited for media appearances and official documentation"
+            position: "At desk or in official setting reviewing documents"
+            action: "Supervising Ministry of Defence UFO file releases and documentation"
+
+  locations:
+    - id: "inverness_city"
+      name: "Inverness Highland Capital"
+      description_block: |
+        setting:
+          location: "Inverness city center, Highland Scotland, positioned along Great Glen rift valley"
+        mainElements: "River Ness flowing through city center, surrounding Highland hills and lochs, medieval Inverness Castle, modern urban infrastructure mixed with historic architecture"
+        atmosphere: "Late June evening around 23:45, clear Highland night sky with excellent visibility, minimal light pollution from Highland capital allowing clear astronomical observation"
+
+    - id: "highland_terrain"
+      name: "Scottish Highland Region"
+      description_block: |
+        setting:
+          location: "Vast mountainous Highland region of northwestern Scotland covering 10,000 square miles"
+        mainElements: "Rocky barren summits shaped by glacial activity, steep-sided glens, narrow Highland lochs, purple heather-covered slopes, sparse population density"
+        atmosphere: "Wild picturesque landscape with minimal light pollution, ideal conditions for unexplained aerial phenomena observation"
+
+    - id: "observation_corridor"
+      name: "East-West Flight Path"
+      description_block: |
+        setting:
+          location: "Aerial corridor spanning east to west across Inverness skyline and Highland capital"
+        mainElements: "Clear sight lines across Highland city center, minimal obstruction from buildings, flight path crossing populated area"
+        atmosphere: "High visibility conditions at 23:45-23:55 timeframe allowing detailed observation of moving light formations"
+
+  items:
+    - id: "orange_lights_single"
+      name: "Single Brilliant Orange Light"
+      description_block: |
+        details: "Single brilliant orange light with intense luminosity visible against clear Highland night sky, first manifestation preceding formation of additional lights"
+
+    - id: "orange_lights_formation"
+      name: "Six Orange Light Formation"
+      description_block: |
+        details: "Formation of six orange lights moving in coordinated pattern from east to west, maintaining consistent spacing and silent movement at low altitude over Highland capital"
+
+    - id: "vertical_beam"
+      name: "Upward Light Beam"
+      description_block: |
+        details: "Beam of light projecting vertically upward into Highland night sky, accompanying circular orange lights during 23:55 observation period"
+
+    - id: "mod_documentation"
+      name: "Official UFO Report"
+      description_block: |
+        details: "Ministry of Defence official documentation with precise timestamps and location coordinates, filed as part of systematic UFO reporting during 2008 transparency initiative"

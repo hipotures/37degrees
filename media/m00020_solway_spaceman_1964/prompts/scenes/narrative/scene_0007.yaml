@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "International Media Sensation Erupts"
+  setting:
+    time: "June 16-30, 1964, daytime"
+    location: "Cumberland News newspaper office and printing facility, Carlisle, Cumberland, England"
+    weather: "Indoor working environment with busy atmosphere"
+  characters:
+    - appearance: "Middle-aged newspaper editor, authoritative bearing, excited expression"
+      clothing: "Professional business attire with rolled-up sleeves indicating urgency"
+      position: "Standing over desk covered with photographs and story layouts"
+      action: "Coordinating front-page coverage of mysterious photograph, directing staff activity"
+    - appearance: "Young female journalist, eager and focused demeanor"
+      clothing: "Professional 1960s office attire appropriate for female reporter"
+      position: "Seated at typewriter preparing story copy"
+      action: "Typing rapidly while examining the photograph, crafting compelling narrative"
+    - appearance: "Photographer technician, professional appearance, careful attention to detail"
+      clothing: "Work attire suitable for photography reproduction"
+      position: "Operating printing equipment for newspaper reproduction"
+      action: "Preparing photographic plates for mass reproduction and distribution"
+  scene:
+    mainElements: "Local newspaper from 1964 with front page coverage, headline text not readable, but clearly showing the photograph prominently displayed being prepared for printing"
+    details: "Busy newspaper office with typewriters clicking, photographs being examined under bright lights, printing presses preparing for mass distribution, sense of urgency and excitement about major story, telephone ringing with international inquiries, no text or letters visible"
+    background: "1960s newspaper office environment with period-appropriate equipment and furnishing"
+    atmosphere: "Electric excitement of major news story breaking, sense of local newspaper suddenly thrust into international spotlight"
+  composition:
+    cameraAngle: "Wide shot showing entire newsroom in action"
+    focus: "The collaborative effort to break the story of the mysterious photograph"
+    depth: "Foreground shows detailed newspaper preparation, middle ground captures coordinated staff activity, background displays busy newsroom environment"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "High-Speed Photography Laboratory Development"
+  setting:
+    time: "1949, late evening"
+    location: "Massachusetts Institute of Technology laboratory, Cambridge, Massachusetts"
+    weather: "Cool autumn evening"
+  characters:
+    - appearance: "Caucasian man, 50s, medium build, intelligent eyes behind wire-rimmed glasses, receding hairline with graying hair"
+      clothing: "1950s white lab coat over dark suit, or casual work clothes with rolled sleeves"
+      position: "Seated at workbench examining optical components under magnifying lamp"
+      action: "Carefully adjusting precise optical alignment of experimental high-speed camera prototype"
+  scene:
+    mainElements: "Large laboratory space with high ceilings, concrete floors, multiple workbenches"
+    details: "Workbenches covered with optical equipment, precision measuring instruments, glass components, electrical circuits with vacuum tubes, technical diagrams pinned to walls, multiple camera prototypes in various stages of assembly, magnifying lamps providing focused lighting, no text or letters visible"
+    background: "Laboratory walls lined with equipment cabinets, shelving with optical components, blackboards with technical drawings"
+    atmosphere: "Scientific precision and innovation, bright fluorescent lighting, organized chaos of experimental equipment"
+  composition:
+    cameraAngle: "Medium shot from slight angle showing both character and equipment"
+    focus: "Character HE working intently on optical components with tools and equipment"
+    depth: "Character and immediate work area in foreground, laboratory equipment in middle ground, wall displays in background"

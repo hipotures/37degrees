@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Enforcement - Forced Shaving Begins"
+  setting:
+    time: "1705, morning"
+    location: "Small wooden shop interior with European-style furnishings and barbering tools"
+    weather: "Cold morning, frost on windows"
+  characters:
+    - appearance: "Caucasian man, late 20s, lean build, recently shaved or partially bearded, nervous expression"
+      clothing: "Mix of European and Russian clothing - Western jacket with traditional Russian elements"
+      position: "Sitting reluctantly in wooden barbering chair"
+      action: "Touching his partially shaved face with trembling hand, looking uncertain and distressed"
+    - appearance: "Caucasian man, early 30s, tall imposing build, clean-shaven face, intense dark eyes, prominent nose"
+      clothing: "European-style navy blue military uniform with gold epaulettes and buttons, or formal Western coat with white cravat"
+      position: "Standing behind chair, supervising"
+      action: "Watching intently to ensure compliance with new regulations"
+  scene:
+    mainElements: "Wooden chair, sharp razors on table, mirror, basin for washing, Western-style decor"
+    details: "Sharp metal blade with wooden handle on small table, ceramic washing basin filled with warm water, small mirror reflecting the reluctant customer's transformed appearance, cut hair scattered on wooden floor, European-style furniture contrasting with traditional Russian elements, steam rising from warm water"
+    background: "Wooden walls with European-style furnishings and barbering implements, frost patterns on small windows"
+    atmosphere: "Tense transformation scene, cultural conflict between tradition and modernization, reluctance and enforcement, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up focusing on the cultural transformation taking place"
+    focus: "The contrast between the partially shaved man and the authority figure ensuring compliance"
+    depth: "Nervous young man in chair in foreground, authority figure in middle ground, barbering tools and mirror in background"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Preparation for first test recording of ultrafast demagnetization"
+  setting:
+    time: "March 2024, 10:00 AM"
+    location: "State-of-the-art ultrafast optics laboratory within INRS Énergie Matériaux Télécommunications Research Centre, Montreal area"
+    weather: "Indoor controlled laboratory environment, independent of external weather"
+  characters:
+    - appearance: "Asian male, approximately 40-45 years old, medium build, dark hair, wearing safety glasses"
+      clothing: "White laboratory coat over dark business casual attire, safety goggles when operating laser equipment"
+      position: "Standing at optical equipment or seated at computer workstation"
+      action: "Adjusting optical equipment with precision, monitoring experimental parameters"
+    - appearance: "Male, approximately 30-35 years old, medium height, dark hair, clean-shaven"
+      clothing: "Laboratory attire including white coat, safety glasses, protective equipment when handling lasers"
+      position: "Working alongside optical tables or analyzing data at computer terminals"
+      action: "Taking notes, collaborating closely with equipment setup, monitoring experimental data"
+  scene:
+    mainElements: "Optical tables with vibration isolation, laser systems, CCD cameras, coded aperture arrays, computer workstations with multiple monitors"
+    details: "Small metallic sample with precise composition designed for magnetic property studies, exhibits ultrafast demagnetization when subjected to femtosecond laser pulses. Sample positioned precisely in the experimental setup with positioning equipment. Research team making final adjustments to ensure perfect alignment between laser, sample, and detection systems."
+    background: "Laboratory walls with diagnostic equipment and measurement tools ready for the breakthrough experiment"
+    atmosphere: "Controlled environment with precise temperature and humidity, low lighting optimized for optical work, quiet hum of sophisticated equipment"
+  composition:
+    cameraAngle: "Medium shot showing sample preparation and positioning"
+    focus: "Metal test sample and precise positioning equipment with researchers preparing experiment"
+    depth: "Foreground displays test sample and positioning apparatus, middle ground shows researchers making final preparations, background features laboratory monitoring systems, no text or letters visible"

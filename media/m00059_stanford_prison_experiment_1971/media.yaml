@@ -1,0 +1,12 @@
+media_info:
+  title: Stanford Prison Experiment - 1971
+  year: 1971
+  genre: Psychology Documentary
+  description: Philip Zimbardo's simulated prison study showing how quickly good people become cruel in toxic situations
+  target_audience: General public, students, psychology enthusiasts, ethics researchers
+  duration: ~3 minutes
+  objective: Recreate the infamous psychological experiment that demonstrated the power of situational influence on behavior
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

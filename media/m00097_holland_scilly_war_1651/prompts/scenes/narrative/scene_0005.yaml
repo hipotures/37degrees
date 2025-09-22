@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Declaration of War - Diplomatic Ultimatum"
+  setting:
+    time: "March 30, 1651, afternoon"
+    location: "Harbor meeting between Dutch and Royalist representatives"
+    weather: "Tense atmosphere with gathering storm clouds"
+  characters:
+    - appearance: "Dutch man, 50s, weathered sea captain face, gray beard, commanding naval bearing"
+      clothing: "17th century Dutch naval uniform with gold braid, tricorn hat, ceremonial sword"
+      position: "Standing on small boat approaching Scilly harbor"
+      action: "Delivering formal diplomatic demands with stern authority"
+    - appearance: "English man, 40s, aristocratic bearing, dark hair, royalist manner, stern expression"
+      clothing: "17th century Royalist military attire with ornate jacket, feathered hat, ceremonial sash"
+      position: "Standing on harbor quay representing Royalist interests"
+      action: "Defiant aristocratic stance, refusing Dutch demands with stubborn resolve"
+  scene:
+    mainElements: "Formal diplomatic confrontation in harbor setting with opposing representatives"
+    details: "Small diplomatic boat flying Dutch flag approaching stone quay, formal documents being presented, Royalist officials on harbor wall, Dutch warships visible in background maintaining threatening positions, harbor workers watching tense exchange"
+    background: "Scilly fortress walls rising behind harbor, Dutch fleet anchored in deeper waters, storm clouds gathering over Atlantic"
+    atmosphere: "Diplomatic crisis escalating to war declaration, formal international protocol in remote island setting, historic moment of conflict beginning, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing diplomatic confrontation"
+    focus: "Moment of war declaration between Dutch and Royalist representatives"
+    depth: "Diplomatic meeting in foreground, harbor and fortress in middle ground, Dutch fleet in background"

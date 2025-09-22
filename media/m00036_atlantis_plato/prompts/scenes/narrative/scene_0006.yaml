@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Daily life in Atlantean society - markets, fountains, and prosperity"
+  setting:
+    time: "9600 BCE, morning"
+    location: "Central temple covered in gold and silver, royal palace, harbors filled with triremes"
+    weather: "Clear morning with warm sun and cooling fountains"
+  characters:
+    - appearance: "Atlantean merchant, middle-aged man with olive skin, muscular from handling cargo"
+      clothing: "Practical tunic with leather belt, bronze arm bands, sturdy sandals"
+      position: "Standing behind market stall displaying exotic wares"
+      action: "Arranging precious stones and rare spices while negotiating with customers"
+    - appearance: "Atlantean family - mother, father, two children, all with bronze skin and healthy appearance"
+      clothing: "Flowing robes in bright colors, simple jewelry, children in shorter tunics"
+      position: "Walking through the market plaza near central fountains"
+      action: "Parents selecting goods while children play near the fountains"
+    - appearance: "Temple attendants, various ages, solemn expressions"
+      clothing: "White ceremonial robes with gold trim, simple sandals"
+      position: "Tending to the temple grounds and fountains"
+      action: "Carrying offerings and maintaining the sacred fires"
+  scene:
+    mainElements: "Central temple covered in gold and silver, royal palace, harbors filled with triremes"
+    details: "Hot and cold water fountains flowing throughout the plaza. Market stalls displaying ivory, precious metals, exotic spices, and rare fabrics. Children playing in the fountain spray. Sacred fires burning outside the golden temple. Advanced aqueduct system visible in stone channels. Fruit trees providing shade over gathering areas."
+    background: "Prosperous and bustling, fountains of hot and cold water, sounds of maritime commerce"
+    atmosphere: "Peaceful prosperity and social harmony, sense of advanced civilization with strong community bonds"
+  composition:
+    cameraAngle: "Eye-level medium shot capturing daily interactions"
+    focus: "The market life and fountain area showing prosperous society"
+    depth: "Foreground: market stalls and families, middle ground: fountains and plaza activities, background: golden temple and palace complex, no text or letters visible"

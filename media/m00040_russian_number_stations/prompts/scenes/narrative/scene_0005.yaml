@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Cuban Spy Cell Intelligence Operation"
+  setting:
+    time: "2001, evening"
+    location: "Federal courthouse, Miami, Florida"
+    weather: "Humid Florida evening with bright courtroom lighting"
+  characters:
+    - appearance: "40s professional woman during active period, unremarkable appearance"
+      clothing: "Business attire appropriate for Pentagon analyst position"
+      position: "Seated at defendant's table in federal courtroom"
+      action: "Listening calmly as prosecutor presents evidence while maintaining composed demeanor"
+  scene:
+    mainElements: "Court documents showing decoded messages, Toshiba laptop used for decoding, special floppy disk containing keys"
+    details: "Federal courtroom with wood paneling and American flag, evidence table displaying laptop computer and storage disks, prosecutor holding decoded message printouts, court stenographer recording proceedings, armed federal marshals positioned near exits"
+    background: "Judge's bench elevated above courtroom, jury box filled with attentive citizens, gallery packed with reporters and observers, security cameras mounted in corners"
+    atmosphere: "Tense legal proceedings revealing decades of espionage, bright fluorescent lighting creating stark contrast with serious subject matter, no text or letters visible"
+  composition:
+    cameraAngle: "Wide courtroom shot from gallery perspective"
+    focus: "Defendant at table with evidence of number station communications displayed prominently"
+    depth: "Foreground shows gallery observers, middle ground reveals defendant and legal teams, background displays judge's bench and American flag"

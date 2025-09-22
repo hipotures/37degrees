@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Mid-morning, tropical waters with strong sunlight penetration
+    location: Sandy bottom area adjacent to coral reef, fine grain sediment with scattered shell fragments
+    weather: Calm underwater conditions with gentle water movement
+  characters:
+  - appearance: Small translucent marine crustacean, 3-5 centimeters long, pale orange-pink coloration with darker orange
+      stripes
+    clothing: Natural exoskeleton with segmented body plates, no artificial coverings
+    position: Positioned near coral reef burrow entrance or within sandy substrate tunnel
+    action: Alert stance with large snapping claw extended, antennae actively sensing environment
+  scene:
+    mainElements: Extreme close-up of claw opening motion with water flowing into internal chamber mechanism
+    details: Asymmetrical enlarged claw with complex internal chamber system, orange-pink coloration with darker joints, articulated
+      plunger mechanism visible when opened. Claw captured in moment of opening with clear visualization of water entering
+      the internal socket chamber. Plunger section pulled back revealing the curved socket cavity as water rushes in to fill
+      the space. Small streams and currents visible as water flows around the plunger edges into the chamber. Muscle tension
+      evident in the extended position as claw maintains open stance. Water particle movement shows directional flow patterns
+      entering the biological mechanism. Socket walls smooth and precisely shaped for optimal water displacement when closed.
+    background: Soft focus underwater environment with gentle particle movement in water column
+    atmosphere: Scientific demonstration of biological mechanics in action, precise natural engineering preparing for explosive
+      release, no text or letters visible
+  composition:
+    cameraAngle: Extreme macro close-up from side angle showing internal chamber detail
+    focus: Water flow patterns entering claw chamber with emphasis on mechanical precision
+    depth: Ultra-sharp focus on claw mechanism, background completely soft to emphasize water movement
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

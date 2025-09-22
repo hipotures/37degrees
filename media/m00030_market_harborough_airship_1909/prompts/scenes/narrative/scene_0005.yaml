@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Market Harborough Airship Encounter"
+  setting:
+    time: "May 5, 1909, night"
+    location: "Kelmarsh village road, Northamptonshire countryside"
+    weather: "Clear night with excellent visibility"
+  characters:
+    - appearance: "Well-dressed gentleman, approximately 30-40 years old, clean-shaven with side-parted hair"
+      clothing: "Edwardian driving coat, wool cap, leather gloves, suitable for motor car travel in 1909"
+      position: "Seated in early motor car with companions"
+      action: "Looking upward with surprise and concern, pointing toward sky"
+  scene:
+    mainElements: "Stone cottages, Norman church silhouette, narrow country lanes, early motor car on dirt road"
+    details: "Dark, oblong shaped craft approximately 100 feet long overhead, lights visible at front and rear, visible crew platform beneath, distinctive 'tock-tock-tock' engine sound echoing through countryside. Motor car stopped on dirt road with three passengers staring upward in amazement. Mysterious airship moving steadily across starlit sky. Engine sounds from above mixing with puttering motor car engine below. Shadows cast by airship lights on countryside below, no text or letters visible"
+    background: "Dark countryside night with no electric lighting, sounds of night wildlife, clear starlit sky, remote and peaceful"
+    atmosphere: "Extraordinary encounter between mundane motor car journey and mysterious advanced aircraft. Sense of witnessing something impossible yet undeniably real"
+  composition:
+    cameraAngle: "Wide dramatic shot showing both motor car below and airship above"
+    focus: "The dramatic encounter between ground-based witnesses and mysterious aerial craft"
+    depth: "Foreground: Stopped motor car with amazed passengers, middle ground: Countryside landscape, background: Mysterious airship crossing night sky"

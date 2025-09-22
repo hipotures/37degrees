@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Experimental Results Confirm Relativity Predictions"
+  setting:
+    time: "October 1971, evening"
+    location: "US Naval Observatory laboratory, Washington DC"
+    weather: "Clear evening, controlled laboratory environment for precise measurements"
+  characters:
+    - appearance: "Middle-aged American physicist, professional appearance, serious demeanor"
+      clothing: "1970s academic attire - tweed jacket, tie, conservative professional dress"
+      position: "Standing beside experimental equipment in aircraft"
+      action: "Monitoring atomic clock measurements during flight"
+    - appearance: "Contemporary of character JH, professional astronomer appearance"
+      clothing: "1970s professional academic dress, practical for travel and experimental work"
+      position: "Operating scientific instruments in experimental setting"
+      action: "Recording precise timing measurements"
+  scene:
+    mainElements: "Laboratory tables with atomic clocks showing measurable time differences, comparison charts, scientific documentation"
+    details: "Four portable cesium beam atomic clocks, each about suitcase-sized, precise to nanoseconds, weighing approximately 35 pounds each, silver and black metal casings, digital readouts, careful shock-mounting for air travel. Scientists examining the clocks after round-the-world flight, measuring the predicted time differences. Laboratory equipment confirming that moving clocks ran slower than stationary reference clocks, proving the 66-year-old relativity theory with direct experimental evidence, no text or letters visible"
+    background: "Professional laboratory with precision measurement equipment, charts and monitoring devices"
+    atmosphere: "Excitement of scientific breakthrough, validation of theoretical physics through direct measurement, historic moment in experimental science"
+  composition:
+    cameraAngle: "Close-up shot showing atomic clocks displaying different times"
+    focus: "Time differences on atomic clocks proving relativistic effects"
+    depth: "Foreground: atomic clocks showing measured differences, middle ground: scientists verifying results, background: laboratory equipment and documentation"

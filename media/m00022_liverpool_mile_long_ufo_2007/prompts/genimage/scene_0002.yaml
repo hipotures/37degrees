@@ -1,0 +1,106 @@
+sceneDescription:
+  setting:
+    time: July 25, 2007, early evening
+    location: Anfield residential area, Liverpool, Merseyside, England
+    weather: Clear summer evening, warm temperature
+  characters:
+  - appearance: British man, middle-aged, civilian witness, alert expression, local Liverpool resident
+    clothing: Summer casual clothing 2007, polo shirt or t-shirt, comfortable trousers
+    position: Standing in front garden of terraced house, checking evening mail
+    action: Sorting through letters and newspapers, glancing occasionally at neighbors and sky
+  - appearance: British woman, adult, family member, attentive expression, concerned demeanor
+    clothing: Summer casual dress or blouse and skirt, 2007 fashion, comfortable outdoor attire
+    position: Near front door of house, watering small garden plants
+    action: Tending to flowers in window boxes, engaging in quiet conversation with family
+  - appearance: Elderly British woman, 60s-70s, grandmother figure, wise expression
+    clothing: Conservative summer dress, cardigan, sensible shoes, handbag
+    position: Sitting on front step of terraced house, observing neighborhood
+    action: Watching evening activity on street, occasionally pointing out interesting sights
+  scene:
+    mainElements: Victorian red brick terraced houses lining both sides of street, small front gardens with iron gates, traditional
+      British residential architecture
+    details: Anfield Football Club stadium visible in background distance, other neighbors visible in adjacent gardens and
+      doorways, parked cars along narrow street, street lamps beginning to illuminate, net curtains visible in house windows,
+      flower boxes under ground floor windows, children's bicycles leaning against garden walls
+    background: Row of identical terraced houses extending down street, urban Liverpool skyline visible beyond rooftops, evening
+      sky beginning to deepen
+    atmosphere: Peaceful domestic evening in working-class Liverpool neighborhood, sense of community and family life, routine
+      activities before extraordinary sighting, no text or letters visible
+  composition:
+    cameraAngle: Eye-level street view from across the road, showing family and their house
+    focus: The three family members engaged in ordinary evening activities outside their home
+    depth: Foreground shows street and pavement, middle ground shows family and their house, background shows neighboring
+      houses and distant stadium
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: January 23, 1960, late afternoon after 4 hours 48 minutes descent
+    location: Trieste bathyscaphe nearing Challenger Deep bottom, 35,000+ feet depth
+    weather: Absolute darkness and maximum pressure of deepest ocean point
+  characters:
+  - appearance: Swiss man, 40s, tall and lean build, intelligent dark eyes, wavy dark hair
+    clothing: 1960s thick woolen sweater over collared shirt, heavy winter jacket during surface operations
+    position: Intensely focused on depth instruments and pressure readings
+    action: Making final depth calculations and preparing for seafloor contact
+  - appearance: American man, 30s, military bearing, short-cropped hair, alert expression
+    clothing: US Navy uniform with lieutenant insignia, or heavy weather gear during operations
+    position: Operating external lights and bottom detection systems
+    action: Scanning for seafloor approach through external observation equipment
+  scene:
+    mainElements: Depth meters showing record-breaking readings approaching 35,814 feet, pressure gauges at maximum extreme
+      measurements, external lights beginning to illuminate seafloor sediment, historic moment of deepest human descent
+    details: Analog depth meters showing unprecedented readings over 35,000 feet, pressure gauges indicating over 1,000 times
+      surface pressure, temperature sensors recording near-freezing deep ocean conditions, external lights revealing fine
+      diatomaceous ooze sediment beginning to appear below, mechanical systems stressed to design limits but functioning properly
+    background: First glimpses of Challenger Deep seafloor through porthole windows, complete darkness beyond external light
+      range, sense of reaching Earth's most remote location
+    atmosphere: Historic achievement tension mixed with scientific wonder, realization of reaching deepest accessible point
+      on Earth, mechanical sounds of bathyscaphe systems performing at extreme limits, anticipation of seafloor contact and
+      discovery, no text or letters visible
+  composition:
+    cameraAngle: Dramatic interior shot emphasizing record-breaking depth readings
+    focus: Depth instruments showing historic maximum readings and seafloor approach
+    depth: Foreground shows extreme depth measurements, middle shows crew concentration, background shows first seafloor illumination
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

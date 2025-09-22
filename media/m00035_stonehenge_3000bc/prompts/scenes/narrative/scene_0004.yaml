@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Bluestone Extraction in Welsh Preseli Hills"
+  setting:
+    time: "2900 BCE, various times of day for quarrying work"
+    location: "Rocky outcrops in Preseli Hills, Pembrokeshire, Wales, specifically Carn Goedog and Craig Rhos-y-felin sites"
+    weather: "Windy hilltop conditions, frequent mist, changeable Welsh weather"
+  characters:
+    - appearance: "Muscular build from stone work, scarred forearms, dark hair, determined expression, strong shoulders"
+      clothing: "Rough-woven tunic, leather apron for protection, hide wrappings on legs, stone-working tools of antler and bronze"
+      position: "Crouched beside stone surfaces or standing at quarry face"
+      action: "Striking stone with methodical hammer blows, examining stone grain patterns, working with quiet concentration"
+  scene:
+    mainElements: "Vertical dolerite rock faces, scattered extraction debris, antler picks embedded in cracks, stone-working platforms, ancient trackways leading downhill"
+    details: "Blue-grey dolerite stone with distinctive coloring when wet, natural fracture lines exploited for extraction, fire-setting evidence, rope anchor points. Welsh dolerite stones weighing 2-4 tons each, distinctive blue-grey color when wet, some with natural acoustic properties, evidence of careful selection, variety of rock types from single Welsh region, musical resonance when struck. Workers using controlled fires to heat and crack stone, water being poured to create thermal shock, precise placement of antler wedges"
+    background: "Heather moorland extending to horizon, distant ocean views, rocky tors rising from grassland"
+    atmosphere: "Windy hilltops with constant air movement, misty conditions reducing visibility, sound of stone-on-stone impacts, smell of crushed rock and smoke"
+  composition:
+    cameraAngle: "Close view of quarrying operation showing technique and effort"
+    focus: "Moment of stone breaking free from quarry face"
+    depth: "Foreground shows detailed extraction work and tools, middle ground reveals prepared stones ready for transport, background shows wild Welsh landscape, no text or letters visible"

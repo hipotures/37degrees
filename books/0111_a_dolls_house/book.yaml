@@ -4,3 +4,169 @@ book_info:
   author: "Henrik Ibsen"
   year: 1879
   genre: "Drama,Play"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T19:35:00Z"
+
+  scores:
+    controversy: 8.0
+    philosophical_depth: 9.0
+    cultural_phenomenon: 9.0
+    contemporary_reception: 5.0
+    relevance: 8.0
+    innovation: 9.0
+    structural_complexity: 6.0
+    social_roles: 10.0
+    total: 64.0
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 8.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "gender_revolution"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Nora's departure shocked Victorian audiences - considered 'sacrilegious' to portray marriage as unsanctified union"
+        source: "dark_drama"
+      - id: "economic_violence"
+        type: "FACT"
+        credibility: 0.95
+        content: "Women could not take loans without male consent - Nora's secret loan reveals financial control systems"
+        source: "reality_wisdom"
+      - id: "psychological_manipulation"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Torvald as archetypal gaslighter - questioning Nora's reality, financial control patterns still current"
+        source: "youth_digital"
+      - id: "literary_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "December 21, 1879 - birth of modern realistic drama. Ibsen created 'problem play' genre"
+        source: "writing_innovation"
+      - id: "cultural_revolution"
+        type: "FACT"
+        credibility: 0.95
+        content: "'Door slam heard around the world' - influenced suffragette movement globally"
+        source: "culture_impact"
+      - id: "symbolic_architecture"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "35 multi-layered interpretations - Christmas tree, macaroons, tarantella as complex symbolic system"
+        source: "symbols_meanings"
+      - id: "contemporary_relevance"
+        type: "FACT"
+        credibility: 0.95
+        content: "Red flags from 1879 still relevant - financial abuse, gaslighting patterns unchanged"
+        source: "reality_wisdom"
+      - id: "social_prophecy"
+        type: "FACT"
+        credibility: 0.95
+        content: "Ibsen predicted social changes that took 145 years to achieve - gender equality timeline"
+        source: "facts_history"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western literature, established feminist discourse"
+        key_editions: ["Oxford Ibsen series", "Broadview editions", "Project Gutenberg"]
+        reception_notes: "Revolutionary impact on English-speaking feminist thought"
+        educational_status: "Essential in British A-Level curricula and university programs"
+        local_themes: ["Colonial discourse analysis", "Victorian marriage critique"]
+      pl:
+        cultural_impact: "Analysis of traditional vs modern values in post-communist context"
+        key_editions: ["Polish translations", "School curricula editions"]
+        reception_notes: "Strong resonance with gender role transitions"
+        educational_status: "Required reading in Polish literature programs"
+        local_themes: ["Post-communist gender readings", "National identity themes"]
+      de:
+        cultural_impact: "German Romantic movement influence and philosophical interpretation"
+        key_editions: ["Reclam editions", "Scholarly editions"]
+        reception_notes: "Strong academic tradition and philosophical analysis"
+        educational_status: "Studied in German literature and philosophy programs"
+        local_themes: ["Philosophical interpretations", "Psychoanalytic readings"]
+      fr:
+        cultural_impact: "Existential interpretations and Simone de Beauvoir connections"
+        key_editions: ["French translations", "Academic editions"]
+        reception_notes: "Integration with French feminist theory"
+        educational_status: "Part of literature and philosophy curricula"
+        local_themes: ["Existential feminist readings", "Second Sex parallels"]
+      es:
+        cultural_impact: "Liberation theology parallels and feminist movement influence"
+        key_editions: ["Spanish translations", "Latin American editions"]
+        reception_notes: "Strong connection to social justice movements"
+        educational_status: "Studied in literature and social science programs"
+        local_themes: ["Liberation theology connections", "Social revolution themes"]
+      pt:
+        cultural_impact: "Colonial and postcolonial gender role analysis"
+        key_editions: ["Portuguese translations", "Brazilian editions"]
+        reception_notes: "Focus on colonial power dynamics"
+        educational_status: "Literature and gender studies curricula"
+        local_themes: ["Colonial discourse", "Gender role transitions"]
+      ja:
+        cultural_impact: "Traditional vs modernity conflicts during Meiji period parallels"
+        key_editions: ["Japanese translations", "Academic editions"]
+        reception_notes: "Resonance with modernization struggles"
+        educational_status: "Comparative literature programs"
+        local_themes: ["Tradition vs modernity", "Social transformation themes"]
+      ko:
+        cultural_impact: "Questioning of Confucian values and modern gender expectations"
+        key_editions: ["Korean translations", "University editions"]
+        reception_notes: "Challenge to traditional family structures"
+        educational_status: "Literature and social studies programs"
+        local_themes: ["Confucian value critique", "Gender expectation analysis"]
+      hi:
+        cultural_impact: "Double colonization themes and traditional vs progressive tensions"
+        key_editions: ["Hindi translations", "Educational editions"]
+        reception_notes: "Resonance with women's rights movements"
+        educational_status: "Literature and women's studies curricula"
+        local_themes: ["Double colonization", "Traditional vs progressive conflicts"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "1879 Norway - patriarchal society where women had no legal rights"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Torvald's control mechanisms - financial, emotional, social isolation"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Modern parallels - #MeToo, economic abuse, gaslighting awareness"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "social_transformation"
+          lead: "host_b"
+          description: "From Victorian scandal to feminist icon - ongoing revolution"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'A Doll's House' through lens of power, gender, class. Historical context: 1879 Norway where women were legal non-entities, could not take loans or own property. Trace evolution from patriarchal control to women's liberation movement."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates, modern interpretations. Link Ibsen's insights to #MeToo movement, financial abuse awareness, and ongoing struggles for gender equality. Show how 1879 red flags remain relevant in 2024."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["discussions of domestic violence and psychological manipulation", "historical content containing outdated social attitudes", "topics concerning mental health and trauma"]
+    educational_elements: ["drama genre characteristics", "Historical context of 1879", "Revolutionary feminist literature", "Psychological manipulation patterns"]
+    production_notes:
+      intro_style: "dramatic historical context"
+      transitions: "subtle musical bridges"
+      outro_style: "contemporary relevance emphasis"
+
+  overall_confidence: 0.92

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "University Scholar in Academic Setting"
+  setting:
+    time: "December 11, 1752, afternoon"
+    location: "University of Glasgow Old College, Scotland, December 1752"
+    weather: "Cold December day, indoor academic environment"
+  characters:
+    - appearance: "Middle-aged scholar in his 40s, intelligent countenance, wearing spectacles, careful grooming reflecting academic status"
+      clothing: "Dark academic gown over period dress, white powdered wig, simple but well-made clothing reflecting university position"
+      position: "Standing in university library among astronomical instruments and scholarly materials"
+      action: "Examining astronomical charts and instruments, demonstrating emerging scientific rationalism of the Scottish Enlightenment"
+  scene:
+    mainElements: "Ancient university buildings in Scottish baronial style, courtyards surrounded by stone structures with distinctive towers, lecture halls, library with astronomical instruments, professors quarters, chapel"
+    details: "The scholar works methodically among telescopes, astrolabes, and charts, demonstrating the careful observation methods of the Scottish Enlightenment. Candlelight illuminates academic manuscripts and instruments. Stone walls display ancient university architecture while the scholar's focused attention shows the systematic approach that would soon document extraordinary atmospheric events, no text or letters visible"
+    background: "Library shelves, academic instruments, and stone university architecture"
+    atmosphere: "Scholarly environment with oil lamps and candles for illumination, sounds of academic discussion, cold stone corridors"
+  composition:
+    cameraAngle: "Medium shot showing scholar within academic environment"
+    focus: "The university natural philosopher and his scientific instruments"
+    depth: "Foreground features the scholar with astronomical tools, middle ground shows library furnishings and academic materials, background reveals university architecture and scholarly atmosphere"

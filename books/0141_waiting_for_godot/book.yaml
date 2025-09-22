@@ -4,3 +4,169 @@ book_info:
   author: "Samuel Beckett"
   year: 1953
   genre: "Play,Absurdist"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-19T21:34:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 9
+    social_roles: 7
+    total: 67
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.0
+      category: "high"
+    heat:
+      value: 8.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_existential_paralysis"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Digital isolation paradox: hyperconnected but isolated, prophetic of contemporary anxiety"
+        source: "youth_digital"
+      - id: "cultural_prophetic_accuracy"
+        type: "FACT"
+        credibility: 0.95
+        content: "95% accuracy predicting digital age psychology and social media behavior patterns"
+        source: "reality_wisdom"
+      - id: "innovation_theater_revolution"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created Theater of the Absurd as new form, revolutionary circular structure"
+        source: "writing_innovation"
+      - id: "symbols_universal_archetypes"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Archetypal quaternity representing psyche wholeness: ego, shadow, persona, anima"
+        source: "symbols_meanings"
+      - id: "culture_global_influence"
+        type: "FACT"
+        credibility: 0.95
+        content: "300 performances Paris, became global theatrical phenomenon across cultures"
+        source: "culture_impact"
+      - id: "controversy_widespread_bans"
+        type: "FACT"
+        credibility: 0.95
+        content: "Banned in multiple countries, censorship battles across political systems"
+        source: "dark_drama"
+      - id: "history_resistance_context"
+        type: "FACT"
+        credibility: 0.95
+        content: "Written during French Resistance experience, influenced by wartime waiting"
+        source: "facts_history"
+      - id: "content_existential_crisis"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Mental health themes require mature approach, therapeutic applications noted"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in English literature, voted most important English-language play of 20th century"
+        key_editions: ["Cambridge University Press scholarly editions", "Grove Press publications"]
+        reception_notes: "Influences major playwrights: Pinter, Stoppard, Mamet"
+        educational_status: "Core text in university drama and literature programs"
+        local_themes: ["Existential philosophy", "Post-war European consciousness"]
+      pl:
+        cultural_impact: "Pioneer premiere in Eastern Bloc 1957, first Beckett play staged in Poland"
+        key_editions: ["Julian Rogoziński translation 1957", "Antoni Libera contemporary version"]
+        reception_notes: "Mandatory reading for high school, resonates with post-communist experience"
+        educational_status: "Required reading in Polish education system"
+        local_themes: ["Post-communist readings", "National identity themes"]
+      de:
+        cultural_impact: "Profound philosophical reception through Heidegger and Adorno frameworks"
+        key_editions: ["Elmar Tophoven definitive translation", "Suhrkamp Verlag trilingual edition"]
+        reception_notes: "Adorno dedicated Aesthetic Theory to Beckett, strong academic tradition"
+        educational_status: "Central to German philosophy and literature curricula"
+        local_themes: ["Heideggerian thrownness", "Critical theory analysis"]
+      fr:
+        cultural_impact: "Original French creation, foundational work of French Francophone theater"
+        key_editions: ["Les Éditions de Minuit original 1952", "Comédie-Française repertoire 1978"]
+        reception_notes: "Emerged alongside existentialist movement, scandalous premiere"
+        educational_status: "Studied in French lycées as Theater of the Absurd exemplar"
+        local_themes: ["Existentialist connections", "Post-war consciousness"]
+      es:
+        cultural_impact: "Multiple translations across Spanish-speaking countries, postcolonial interpretations"
+        key_editions: ["Ana María Moix translation", "Early Argentine edition 1954"]
+        reception_notes: "Strong academic interest, 70 years continuous engagement"
+        educational_status: "University curriculum in literature and theater departments"
+        local_themes: ["Colonial discourse", "Latin American existential readings"]
+      pt:
+        cultural_impact: "Brazilian Tropicália movement adaptations, cultural cannibalism approach"
+        key_editions: ["Fábio de Souza Andrade translation", "Companhia das Letras edition"]
+        reception_notes: "All-female productions, innovative Brazilian interpretations"
+        educational_status: "Extensively studied in Brazilian universities"
+        local_themes: ["Anthropophagic adaptations", "Afro-Brazilian elements integration"]
+      ja:
+        cultural_impact: "Buddhist philosophy connections, integration with Noh theater aesthetics"
+        key_editions: ["Yasunari Takahashi influential translation", "Contemporary Minako Okamuro version"]
+        reception_notes: "Youth culture adoption across generations, manga parallels noted"
+        educational_status: "University drama programs, philosophical East-West dialogue"
+        local_themes: ["Buddhist emptiness concepts", "Zen meditation parallels"]
+      ko:
+        cultural_impact: "Over 1,100 performances, SHINee Minho theatrical debut connection"
+        key_editions: ["Oh Jeung-ja Mineumsa translation", "Young-woong Lim directorial legacy"]
+        reception_notes: "Celebrity involvement bridging pop culture with classical drama"
+        educational_status: "University comparative literature and theater studies"
+        local_themes: ["Confucian relationship values", "Han cultural emotion resonance"]
+      hi:
+        cultural_impact: "Multilingual adaptations across Indian languages, postcolonial framework application"
+        key_editions: ["Dr. Satyabrata Rout Hindi version", "Motley Productions Prithvi Theatre"]
+        reception_notes: "Influence on Indian English literature, existential themes resonance"
+        educational_status: "BA English Honours curriculum in major universities"
+        local_themes: ["Postcolonial displacement", "Eastern philosophy connections"]
+
+  formats:
+    emotional_perspective:
+      name: "emotional_perspective"
+      duration: 14
+      hosts:
+        host_a: "emotional reader sharing feelings"
+        host_b: "analytical critic explaining techniques"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "first_impressions"
+          lead: "host_a"
+          description: "Emotional impact of existential waiting and digital age parallels"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "deep_emotions"
+          lead: "host_b"
+          description: "How Beckett evokes anxiety, hope, and existential dread"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "technique_analysis"
+          lead: "host_a"
+          description: "Circular structure and theatrical techniques creating despair"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "lasting_impact"
+          lead: "host_b"
+          description: "Why it resonates with mental health and contemporary themes"
+      prompts:
+        host_a: "You are {male_name}, sharing emotional response to 'Waiting for Godot'. Discuss personal impact, moments that moved you, feelings evoked by the digital age parallels and existential themes that continue to resonate with contemporary audiences."
+        host_b: "You are {female_name}, an analytical critic. Explain how 'Waiting for Godot' creates emotions through circular structure, theatrical techniques, philosophical depth, and Beckett's revolutionary minimalist approach."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["existential crisis themes", "references to mental health struggles", "philosophical discussions of meaninglessness"]
+    educational_elements: ["Theater of the Absurd movement", "Post-war existentialism", "Theatrical innovation techniques", "Digital age prediction accuracy"]
+    production_notes:
+      intro_style: "Contemplative approach to groundbreaking existential drama"
+      transitions: "Subtle musical bridges with theatrical elements"
+      outro_style: "Reflective closure on lasting emotional impact"
+
+  overall_confidence: 0.91

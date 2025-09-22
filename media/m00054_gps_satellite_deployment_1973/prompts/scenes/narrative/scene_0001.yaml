@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Pentagon DNSS Planning Meeting - September 1973"
+  setting:
+    time: "September 1973, late afternoon"
+    location: "Pentagon conference room, Washington DC, secure military facility"
+    weather: "Clear autumn day outside tall windows"
+  characters:
+    - appearance: "Caucasian man, 40s, military bearing, short dark hair, clean-shaven, intelligent eyes"
+      clothing: "US Air Force colonel uniform with wings insignia, or technical civilian clothes with tie"
+      position: "Standing at head of conference table, pointing at technical diagrams"
+      action: "Presenting satellite navigation concept to assembled military officers"
+    - appearance: "Group of 12 military officers, mixed services, 35-55 years old, attentive expressions"
+      clothing: "Various military dress uniforms - Army, Navy, Air Force with rank insignia and ribbons"
+      position: "Seated around large oval conference table with notebooks and coffee cups"
+      action: "Listening intently, taking notes, studying technical documentation spread on table"
+  scene:
+    mainElements: "Large oval table with military officials, maps and technical diagrams on walls, detailed satellite orbit charts spread across table surface, projected images on wall screen showing orbital mechanics"
+    details: "Pentagon seal on wall, classified document stamps visible on papers, coffee service on side table, multiple ashtrays with cigarette smoke, fluorescent lighting creating formal government atmosphere, security badges on lapels, no text or letters visible"
+    background: "Wood-paneled walls with official military photographs and world maps, American flag in corner, tall windows showing Washington DC skyline"
+    atmosphere: "Serious, classified military planning environment with fluorescent lighting, tension of important decision-making, formal military protocol evident in postures and interactions"
+  composition:
+    cameraAngle: "Medium wide shot from side of conference room"
+    focus: "Central figure presenting at head of table with satellite diagrams"
+    depth: "Presenter in foreground, seated officers in middle ground, Pentagon institutional backdrop"

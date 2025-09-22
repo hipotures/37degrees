@@ -1,0 +1,110 @@
+sceneDescription:
+  setting:
+    time: 1974, late afternoon
+    location: Police department evidence room, San Francisco
+    weather: Overcast winter day
+  characters:
+  - appearance: Middle-aged Caucasian male detective, professional appearance, distinctive 1970s style, showing years of frustration
+    clothing: Police department suits, shoulder holster, professional law enforcement attire, slightly worn from long investigation
+    position: Standing before wall of evidence boxes and files
+    action: Reviewing case files one final time, preparing to close active investigation
+  - appearance: Police evidence clerk, middle-aged professional
+    clothing: Administrative attire appropriate for evidence room work
+    position: Standing beside filing cabinets containing case materials
+    action: Organizing case files and evidence for long-term storage
+  scene:
+    mainElements: Evidence room filled with boxes labeled with case numbers, walls lined with filing cabinets, unsolved case
+      materials organized for storage
+    details: Boxes containing crime scene evidence, photographs, witness statements, cipher materials, fingerprint cards,
+      bloodstained shirt fragment preserved in evidence bags, stacks of suspect files, 340-character cipher still unsolved
+    background: Institutional police evidence storage facility, fluorescent lighting, metal shelving units, other unsolved
+      case files, sense of bureaucratic finality
+    atmosphere: Resignation and frustration, case transitioning from active investigation to cold case status, sense of killer
+      having escaped justice, institutional acknowledgment of failure
+  composition:
+    cameraAngle: Wide shot showing scale of accumulated evidence and investigation materials
+    focus: Detective and evidence clerk surrounded by years of investigation work going into storage
+    depth: Detective and clerk in foreground, evidence boxes and files in middle ground, institutional storage facility in
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Cyanoacrylate Synthesis Attempt"
+  setting:
+    time: "1942, evening"
+    location: "Chemical preparation area in Eastman Kodak laboratory"
+    weather: "Dark evening outside, laboratory brightly lit by overhead fluorescent lights"
+  characters:
+    - appearance: "Caucasian man, 25 years old, dark brown hair, medium build, focused expression, intelligent eyes behind wire-rimmed glasses"
+      clothing: "1940s white laboratory coat over dark suit and tie, black leather shoes"
+      position: "Hunched over laboratory bench, closely observing chemical reaction"
+      action: "Stirring cyanoacrylate monomers in glass beaker while monitoring temperature and consistency changes"
+  scene:
+    mainElements: "Laboratory bench with glass beakers containing clear viscous liquid, heating element with controlled temperature, stirring equipment, and ventilation hood actively drawing fumes"
+    details: "Clear liquid chemical compound in glass test tube showing viscous consistency, steam rising from heated mixture, graduated cylinders with precise measurements, thermometer showing controlled temperature, chemical reaction producing unexpected adhesive properties, droplets of compound beginning to stick to glass stirring rod"
+    background: "Evening darkness visible through laboratory windows, other workstations dimly lit in background, chemical storage area with organized bottles"
+    atmosphere: "Intense concentration on chemical synthesis, growing awareness that something unexpected is occurring with the compound, scientific curiosity mixed with wartime urgency, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up overhead view"
+    focus: "Glass beaker with cyanoacrylate compound and stirring rod showing first signs of extreme adhesive properties"
+    depth: "Foreground shows chemical reaction in sharp detail, middle ground displays character's hands and equipment, background reveals laboratory environment in soft focus"

@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: July 29, 2015 - first debris discovery
+    location: Tropical beach with black volcanic sand and powerful waves at Réunion Island, French overseas territory
+    weather: Tropical conditions with strong ocean waves and humid air
+  characters:
+  - appearance: French aviation investigator, professional demeanor, wearing protective gear
+    clothing: Technical investigation clothing with French aviation authority identification, protective gloves
+    position: Kneeling beside aircraft debris on beach examining wing component
+    action: Carefully examining and documenting wing flaperon debris with measurement tools and camera
+  - appearance: Local beach resident who discovered debris, curious but respectful expression
+    clothing: Casual tropical clothing suitable for beach walking
+    position: Standing nearby watching investigation process
+    action: Observing investigation while explaining discovery circumstances to authorities
+  scene:
+    mainElements: Triangular wing control surface approximately 2 meters long, weathered aluminum with marine growth barnacles,
+      structural damage from ocean impact and salt water corrosion
+    details: Large piece of aircraft wing structure washed up on black volcanic sand beach, barnacles and marine growth indicating
+      extended time in ocean, investigation team documenting and measuring debris, coastal vegetation and palm trees in background,
+      ocean waves continuing to wash debris ashore
+    background: Rocky coastline, coconut palm trees, scattered marine debris, investigation teams with equipment
+    atmosphere: Remote tropical setting with sound of crashing waves, humid ocean air, sense of discovery
+  composition:
+    cameraAngle: Ground level view showing scale of debris piece relative to investigators
+    focus: Aircraft wing flaperon debris being examined by investigation team on beach
+    depth: Foreground shows debris and investigators, middle ground shows beach and ocean waves, background shows tropical
+      coastline and vegetation, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

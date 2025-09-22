@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Recovery and More Broken Bones"
+  setting:
+    time: "1968, late evening"
+    location: "1970s hospital room with medical equipment"
+    weather: "Indoor setting"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns"
+      clothing: "Hospital gown, extensive bandages covering multiple body parts"
+      position: "Lying in hospital bed, heavily bandaged and in traction"
+      action: "Looking at X-ray films being held up by doctor"
+    - appearance: "Various medical professionals, men and women, 30s-50s, focused expressions"
+      clothing: "White medical coats, surgical scrubs, stethoscopes around necks"
+      position: "Standing beside bed holding X-ray films"
+      action: "Explaining extent of injuries and showing bone fractures on X-rays"
+  scene:
+    mainElements: "Hospital bed, IV stands, medical monitors, white walls, fluorescent lighting with multiple medical devices and traction equipment"
+    details: "White plaster medical casts on arms and legs, bandages, medical tape, hospital blankets, complex traction apparatus with pulleys and weights, X-ray viewing box on wall, medicine bottles crowding bedside table, no text or letters visible"
+    background: "Hospital room with specialized orthopedic equipment, multiple IV drips, monitoring devices"
+    atmosphere: "Clinical, sterile, concerned medical environment showing accumulating toll of dangerous stunts"
+  composition:
+    cameraAngle: "Medium shot from bedside angle"
+    focus: "Character EK's expression of determination despite extensive injuries"
+    depth: "Medical equipment in foreground, patient in middle ground, hospital room apparatus in background"

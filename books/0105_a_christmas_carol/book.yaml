@@ -4,3 +4,182 @@ book_info:
   author: "Charles Dickens"
   year: 1843
   genre: "Novella,Christmas"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-20T15:42:00Z"
+
+  scores:
+    controversy: 7.0
+    philosophical_depth: 9.0
+    cultural_phenomenon: 10.0
+    contemporary_reception: 8.0
+    relevance: 9.0
+    innovation: 9.0
+    structural_complexity: 7.0
+    social_roles: 9.0
+    total: 68.0
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 8.5
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Ellen Ternan affair, domestic violence toward Catherine, antisemitic stereotypes in other works"
+        source: "dark_drama"
+      - id: "symbols_meanings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Light/darkness symbolism, fire/cold metaphors, complex archetypal characters"
+        source: "symbols_meanings"
+      - id: "culture_impact_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "272+ film/TV adaptations, transformed Christmas traditions, global cultural phenomenon"
+        source: "culture_impact"
+      - id: "youth_digital_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "2 million TikTok posts, viral BookTok content, redemption arc memes"
+        source: "youth_digital"
+      - id: "reality_wisdom_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "Predicted worker rights movement, social safety nets, child labor reform"
+        source: "reality_wisdom"
+      - id: "writing_innovation_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "White heat technique, psychological realism before modernism, social fiction activism"
+        source: "writing_innovation"
+      - id: "facts_history_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Written in 6 weeks, immediate social impact, 15,000 copies first year"
+        source: "facts_history"
+      - id: "content_warnings_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Historical violence discussion, colonial content references, complex author biography"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western literature, BBC productions, Broadway success"
+        key_editions: ["Oxford World's Classics", "Penguin Classics", "Norton Critical Edition"]
+        reception_notes: "Secure canonical status, continuous academic study"
+        educational_status: "GCSE literature curricula, university Victorian Studies"
+        local_themes: ["Christmas tradition revival", "Social reform literature"]
+
+      pl:
+        cultural_impact: "Required reading grade VII-VIII, theatrical adaptations at Teatr Polski"
+        key_editions: ["Wydawnictwo Skrzat", "Znak publishing", "Wolne Lektury platform"]
+        reception_notes: "Integration with Polish Christmas Eve traditions"
+        educational_status: "Required reading since 2017 eighth-grade exam"
+        local_themes: ["Victorian vs Polish Christmas customs", "Social solidarity themes"]
+
+      de:
+        cultural_impact: "German Romantic movement influence, philosophical interpretations"
+        key_editions: ["Reclam editions", "Scholarly editions"]
+        reception_notes: "Strong academic tradition, psychoanalytic readings"
+        educational_status: "University literature courses"
+        local_themes: ["Philosophical interpretations", "Psychoanalytic readings"]
+
+      fr:
+        cultural_impact: "Focus on social solidarity and welfare state parallels"
+        key_editions: ["French scholarly editions"]
+        reception_notes: "Emphasis on social democracy themes"
+        educational_status: "Literature and social studies programs"
+        local_themes: ["Social solidarity", "Welfare state models"]
+
+      es:
+        cultural_impact: "Latin American magical realism connections"
+        key_editions: ["Spanish translations", "Educational editions"]
+        reception_notes: "Resonance with social justice themes"
+        educational_status: "Secondary literature curricula"
+        local_themes: ["Social justice", "Economic inequality critique"]
+
+      pt:
+        cultural_impact: "Portuguese and Brazilian educational importance"
+        key_editions: ["Portuguese translations", "Brazilian editions"]
+        reception_notes: "Social transformation narratives"
+        educational_status: "Literature programs"
+        local_themes: ["Social transformation", "Economic justice"]
+
+      ja:
+        cultural_impact: "Confucian social harmony interpretations"
+        key_editions: ["Japanese translations", "Manga adaptations"]
+        reception_notes: "Buddhist enlightenment parallels"
+        educational_status: "Comparative literature studies"
+        local_themes: ["Social harmony restoration", "Buddhist enlightenment"]
+
+      ko:
+        cultural_impact: "Korean social development narratives"
+        key_editions: ["Korean translations"]
+        reception_notes: "Post-war reconstruction themes"
+        educational_status: "Modern literature courses"
+        local_themes: ["Social development", "Cultural transformation"]
+
+      hi:
+        cultural_impact: "Indian philosophical and spiritual interpretations"
+        key_editions: ["Hindi translations", "Educational editions"]
+        reception_notes: "Karma and dharma connections"
+        educational_status: "English literature programs"
+        local_themes: ["Karma and transformation", "Social dharma"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-02:48"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Industrial Revolution setting, class struggles, Hungry Forties social conditions"
+        - segment: 2
+          time_range: "02:48-05:36"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Scrooge as capitalist exploiter, Bob Cratchit as oppressed worker, economic hierarchy"
+        - segment: 3
+          time_range: "05:36-08:24"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Modern parallels with inequality, worker rights, social safety nets"
+        - segment: 4
+          time_range: "08:24-11:12"
+          topic: "social_transformation"
+          lead: "host_b"
+          description: "Individual vs systemic change, charity vs justice, reform potential"
+        - segment: 5
+          time_range: "11:12-14:00"
+          topic: "lasting_impact"
+          lead: "host_a"
+          description: "Influence on social movements, worker rights, Christmas as social unity"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'A Christmas Carol' through lens of power, gender, class. Historical context: 1843 Industrial Revolution, Hungry Forties, worker exploitation."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates, modern interpretations of inequality, systemic vs individual change."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical social issues", "complex author biography", "colonial content discussion"]
+    educational_elements: ["Industrial Revolution context", "Social reform literature", "Worker rights history", "Christmas tradition evolution"]
+    production_notes:
+      intro_style: "social documentary"
+      transitions: "subtle musical bridges"
+      outro_style: "reflective social commentary"
+
+  overall_confidence: 0.91

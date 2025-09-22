@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Codebreakers Solve First Cipher"
+  setting:
+    time: "August 8, 1969, evening"
+    location: "Suburban home study room, San Francisco Bay Area, California, domestic setting"
+    weather: "Clear summer evening"
+  characters:
+    - appearance: "Middle-aged Caucasian male schoolteacher, professional appearance, wearing glasses"
+      clothing: "1960s educator attire, conservative styling, academic appearance"
+      position: "Seated at kitchen table covered with cipher worksheets and reference materials"
+      action: "Writing out decoded message with intense concentration, breakthrough moment"
+    - appearance: "Middle-aged woman, schoolteacher's wife, supportive presence"
+      clothing: "1960s housewife attire, conservative dress"
+      position: "Standing beside husband, looking over his shoulder"
+      action: "Watching anxiously as cipher solution emerges, bringing coffee and encouragement"
+  scene:
+    mainElements: "Kitchen table covered with cipher worksheets, reference books, pencils and papers scattered across surface showing days of work"
+    details: "Three-part cryptogram with 408 symbols spread across table, multiple worksheets showing trial substitutions, frequency analysis charts, alphabet grids, decoded partial solutions, kitchen setting with coffee cups and plates, home lighting"
+    background: "1960s suburban home interior, kitchen appliances, family photographs on walls, comfortable domestic setting contrasting with sinister subject matter"
+    atmosphere: "Breakthrough excitement mixed with growing horror as message content becomes clear, scholarly determination, domestic tranquility disrupted by evil communication"
+  composition:
+    cameraAngle: "Close-up shot focusing on cipher solution being written"
+    focus: "Decoded message emerging on paper with codebreaker's concentrated expression"
+    depth: "Cipher worksheets in foreground, codebreaker couple in middle ground, home interior in background"

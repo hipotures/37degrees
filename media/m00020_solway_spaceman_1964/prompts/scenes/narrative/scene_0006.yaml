@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Professional Laboratory Authentication"
+  setting:
+    time: "June 1-15, 1964, daytime"
+    location: "Professional Kodak photographic processing laboratory, United Kingdom, 1960s technology"
+    weather: "Indoor controlled environment"
+  characters:
+    - appearance: "Middle-aged professional technician, clean-shaven, focused expression"
+      clothing: "White laboratory coat over professional attire"
+      position: "Hunched over examination station with powerful magnification equipment"
+      action: "Carefully analyzing film negative with scientific precision and thoroughness"
+    - appearance: "Senior laboratory supervisor, authoritative bearing, experienced"
+      clothing: "Business suit with company identification badge"
+      position: "Standing beside examination station reviewing findings"
+      action: "Observing analysis process, preparing to make official company statement"
+  scene:
+    mainElements: "Darkrooms, chemical processing equipment, examination stations, professional lighting systems for detailed photographic analysis"
+    details: "Standard color film negative from 1964, new technology for amateur photographers, no signs of tampering or manipulation under intense scientific scrutiny, sophisticated 1960s analysis equipment, clinical atmosphere of professional investigation, no text or letters visible"
+    background: "Clinical, scientific environment with controlled lighting and temperature, banks of processing equipment"
+    atmosphere: "Serious professional investigation with mounting confirmation that the photograph defies explanation"
+  composition:
+    cameraAngle: "Medium shot showing technical analysis in progress"
+    focus: "The detailed examination of the mysterious photograph using professional equipment"
+    depth: "Foreground shows precise technical analysis, middle ground captures professional consultation, background displays sophisticated laboratory environment"

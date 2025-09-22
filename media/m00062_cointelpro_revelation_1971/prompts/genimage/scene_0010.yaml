@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: March 20, 1971, evening
+    location: Church basement or community center, urban America
+    weather: Clear spring evening, warm light through basement windows
+  characters:
+  - appearance: African American man, 40s, medium build, mustache, kind but determined eyes
+    clothing: Dark suit, white dress shirt, thin tie, occasionally clerical collar
+    position: Standing at podium addressing packed audience
+    action: Speaking about government surveillance revelations to concerned citizens
+  - appearance: Mixed group of adults, various ages and backgrounds
+    clothing: 1970s casual and formal attire, winter coats removed
+    position: Seated in folding chairs throughout room
+    action: Listening intently and discussing implications among themselves
+  scene:
+    mainElements: Folding chairs in rows packed with concerned citizens, small stage or podium, community posters on walls,
+      standing room only crowd
+    details: Collection basket on table, pamphlets about civil rights on chairs, coffee pot on side table, wall clock showing
+      evening hour, winter coats hung on hooks, overflow crowd standing along walls
+    background: Basement windows showing street level with evening light, concrete block walls, simple cross or community
+      banner
+    atmosphere: Charged community gathering with sense of vindication and renewed determination for civil rights, no text
+      or letters visible
+  composition:
+    cameraAngle: Wide shot from back of room showing full audience and speaker
+    focus: Character MLK addressing packed room about surveillance revelations
+    depth: Foreground shows audience members, middle ground captures speaker, background reveals community setting
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "SCARF technology opens new frontiers in scientific research"
+  setting:
+    time: "March 2024, late afternoon"
+    location: "Modern research campus in Montérégie region near Montreal, Quebec"
+    weather: "Clear spring afternoon with moderate temperatures"
+  characters:
+    - appearance: "Asian male, approximately 40-45 years old, medium build, dark hair, wearing safety glasses"
+      clothing: "White laboratory coat over dark business casual attire, safety goggles when operating laser equipment"
+      position: "Standing at optical equipment or seated at computer workstation"
+      action: "Adjusting optical equipment with precision, monitoring experimental parameters"
+    - appearance: "Male, approximately 30-35 years old, medium height, dark hair, clean-shaven"
+      clothing: "Laboratory attire including white coat, safety glasses, protective equipment when handling lasers"
+      position: "Working alongside optical tables or analyzing data at computer terminals"
+      action: "Taking notes, collaborating closely with equipment setup, monitoring experimental data"
+    - appearance: "Male, approximately 50-55 years old, graying hair, professional appearance"
+      clothing: "Business attire or laboratory coat depending on setting, institutional identification badge"
+      position: "Observing experiments or reviewing results with team"
+      action: "Providing strategic oversight, reviewing experimental data, representing institutional leadership"
+  scene:
+    mainElements: "Contemporary buildings housing energy and materials research, parking areas, landscaped grounds, institutional signage"
+    details: "Research team outside INRS campus after completing breakthrough achievement. SCARF technology achievement opening doors to studying femtosecond laser ablation, shock-wave interactions with living cells, optical chaos, and previously unobservable quantum phenomena. Campus environment with modern research facilities and institutional buildings. Research facilities in background supporting advanced scientific discoveries."
+    background: "INRS Varennes campus buildings and grounds providing institutional support for breakthrough research"
+    atmosphere: "Academic research environment, moderate foot traffic of researchers and students, professional campus setting"
+  composition:
+    cameraAngle: "Wide establishing shot showing research team and campus context"
+    focus: "Research team contemplating the revolutionary impact of their SCARF technology breakthrough"
+    depth: "Foreground features the breakthrough research team, middle ground shows campus pathways and landscaping, background displays modern research buildings that supported this historic achievement, no text or letters visible"

@@ -1,0 +1,12 @@
+media_info:
+  title: Window Tax Introduction - 1696
+  year: 1696
+  genre: Historical Documentary
+  description: England imposes "tax on light and air" leading citizens to brick up windows, causing health disasters
+  target_audience: General public, students, history enthusiasts, economics students
+  duration: ~3 minutes
+  objective: Recreate the implementation of England's notorious window tax and its devastating social consequences
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

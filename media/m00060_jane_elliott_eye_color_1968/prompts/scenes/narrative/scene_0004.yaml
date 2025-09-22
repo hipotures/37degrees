@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Blue-Eyed Children Face Classroom Restrictions"
+  setting:
+    time: "April 5, 1968, midday"
+    location: "School cafeteria, Riceville Community Elementary School"
+    weather: "Clear spring day, natural lighting through cafeteria windows"
+  characters:
+    - appearance: "Caucasian woman, early 30s, average height, dark brown hair styled in 1960s bouffant, determined expression, warm but authoritative demeanor"
+      clothing: "Late 1960s teacher attire - modest knee-length dress or skirt with blouse, low heels, simple jewelry"
+      position: "Standing at front of classroom or moving between student desks"
+      action: "Teaching, explaining rules, observing student behavior, taking notes"
+    - appearance: "Group of 8-year-old Caucasian children with blue eyes, various heights, mix of boys and girls, expressions ranging from confused to distressed to defiant"
+      clothing: "Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with blouses, some wearing paper collars around necks when designated as inferior"
+      position: "Seated at wooden school desks or standing in designated areas"
+      action: "Following restrictive rules, showing signs of stress or rebellion, interacting cautiously"
+    - appearance: "Group of 8-year-old Caucasian children with brown eyes, various heights, mix of boys and girls, expressions showing confidence when privileged or dejection when discriminated against"
+      clothing: "Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with blouses, some wearing paper collars around necks when designated as inferior"
+      position: "Seated at wooden school desks or standing in privileged areas"
+      action: "Enjoying privileges or enduring restrictions depending on the day, showing learned superiority or inferiority"
+  scene:
+    mainElements: "Long tables with attached benches, serving line with lunch ladies, water fountain, windows overlooking playground"
+    details: "Blue-eyed children wearing brown paper collars wait in separate lunch line while brown-eyed children receive second helpings and preferred seating, blue-eyed children must use paper cups at water fountain while brown-eyed children use regular glasses, visible segregation and differential treatment creating emotional distress, no text or letters visible"
+    background: "Cafeteria windows, kitchen area, other school staff observing"
+    atmosphere: "Communal eating space that becomes divided during the experiment"
+  composition:
+    cameraAngle: "Wide shot showing segregated lunch arrangements"
+    focus: "Contrast between treatment of blue-eyed versus brown-eyed children"
+    depth: "Blue-eyed children with restricted privileges in foreground, brown-eyed children enjoying advantages in middle ground, supervising adults in background"

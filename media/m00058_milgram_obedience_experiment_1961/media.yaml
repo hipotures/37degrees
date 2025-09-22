@@ -1,0 +1,12 @@
+media_info:
+  title: Milgram Obedience Experiment - 1961
+  year: 1961
+  genre: Psychology Documentary
+  description: Stanley Milgram discovers 65% of ordinary people will administer potentially lethal electric shocks under authority pressure
+  target_audience: General public, students, psychology enthusiasts, ethics researchers
+  duration: ~3 minutes
+  objective: Recreate the groundbreaking experiment that revealed disturbing truths about human obedience to authority
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

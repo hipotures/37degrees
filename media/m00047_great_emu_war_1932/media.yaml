@@ -1,0 +1,12 @@
+media_info:
+  title: Great Emu War - 1932
+  year: 1932
+  genre: Historical Documentary
+  description: Australian army formally declares war on emu birds and loses despite military equipment and 10,000 rounds of ammunition
+  target_audience: General public, students, history enthusiasts, military history buffs
+  duration: ~3 minutes
+  objective: Recreate the absurd military campaign where Australian forces were defeated by flightless birds in Western Australia
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

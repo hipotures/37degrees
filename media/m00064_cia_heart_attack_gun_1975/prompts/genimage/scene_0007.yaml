@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: September 17, 1975, 2:00 PM
+    location: US Senate Caucus Room 318, Russell Senate Office Building, Washington DC
+  characters:
+  - appearance: Caucasian man, 50s, thinning brown hair, intellectual appearance with wire-rimmed glasses
+    clothing: 1970s conservative dark suit, white dress shirt, understated tie
+    position: Seated at witness table consulting classified documents
+    action: Reading from official CIA assassination target documentation
+  - appearance: Caucasian man, 50s, distinguished bearing, graying hair combed back, serious expression with deep-set eyes
+    clothing: 1970s dark blue suit with thin lapels, white dress shirt, conservative patterned tie
+    position: At committee dais listening to testimony with grave expression
+    action: Absorbing shocking revelations about CIA assassination programs
+  scene:
+    mainElements: Official CIA assassination program documentation spread across witness table revealing scope of covert operations
+    details: Classified documents detailing international assassination targets, committee members react with visible shock
+      to scope of CIA operations, press gallery erupts with activity as historic revelations unfold, manila folders with top
+      secret classifications, overhead lighting creates dramatic atmosphere, security personnel maintain heightened vigilance,
+      gallery packed beyond capacity with media and observers, no text or letters visible
+    background: Tense committee chamber atmosphere with packed press gallery documenting revelations
+    atmosphere: Historic moment as scope of CIA assassination capabilities becomes public knowledge for first time
+  composition:
+    cameraAngle: Wide shot capturing full scope of committee reaction
+    focus: Dramatic revelation of assassination program scope and committee response
+    depth: Foreground shows classified documents, middle ground captures testifying figure, background reveals shocked committee
+      and gallery
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

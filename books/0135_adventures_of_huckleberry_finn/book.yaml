@@ -4,3 +4,191 @@ book_info:
   author: "Mark Twain"
   year: 1884
   genre: "Picaresque,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T15:30:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 8
+    cultural_phenomenon: 7
+    contemporary_reception: 6
+    relevance: 9
+    innovation: 10
+    structural_complexity: 7
+    social_roles: 9
+    total: 65
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 7.8
+      category: "high"
+
+  themes:
+    universal:
+      - id: "vernacular_revolution"
+        type: "FACT"
+        credibility: 0.95
+        content: "First American novel written entirely in vernacular English, revolutionizing literary language"
+        source: "writing_innovation"
+      - id: "moral_courage"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Huck's decision to 'go to hell' for Jim represents individual conscience over social conformity"
+        source: "symbols_meanings"
+      - id: "structural_racism"
+        type: "FACT"
+        credibility: 0.95
+        content: "Uses n-word 213 times but presents powerful anti-racist message through Jim's humanity"
+        source: "dark_drama"
+      - id: "literary_foundation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Hemingway declared all modern American literature comes from this book"
+        source: "culture_impact"
+      - id: "prophetic_vision"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Predicted internet technology in 1898 with remarkable accuracy"
+        source: "reality_wisdom"
+      - id: "educational_controversy"
+        type: "FACT"
+        credibility: 0.95
+        content: "Fourth most frequently banned book in USA despite anti-racist message"
+        source: "dark_drama"
+      - id: "friendship_transcendence"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Huck and Jim's bond transcends racial barriers through shared humanity"
+        source: "symbols_meanings"
+      - id: "contemporary_relevance"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Gen Z connects with themes via BookTok revival and social justice parallels"
+        source: "youth_digital"
+
+    localized:
+      en:
+        cultural_impact: "Foundation of American literature, most taught American novel"
+        key_editions: ["Norton Critical Edition", "Penguin Classics", "Oxford World's Classics"]
+        reception_notes: "Hemingway declared all modern American literature comes from this book"
+        educational_status: "Required reading in American high schools and colleges"
+        local_themes: ["American identity formation", "Regional dialect preservation", "Civil rights education"]
+
+      pl:
+        cultural_impact: "Six major Polish translations since 1898, educational curriculum standard"
+        key_editions: ["Zbigniew Batko translation (2003)", "Sara Publishing Mississippi Epic series"]
+        reception_notes: "Compared to Vistula River as Polish Mississippi cultural parallel"
+        educational_status: "Suggested reading in Polish elementary schools core curriculum"
+        local_themes: ["Vistula-Mississippi river parallels", "Translation challenges", "American-Polish historical connections"]
+
+      de:
+        cultural_impact: "Strong academic tradition in German scholarship"
+        key_editions: ["Reclam Universal-Bibliothek", "Scholarly critical editions"]
+        reception_notes: "Influential in German American Studies programs"
+        educational_status: "University literature courses"
+        local_themes: ["Philosophical interpretations", "Bildungsroman traditions", "Moral development themes"]
+
+      fr:
+        cultural_impact: "Part of French American literature curriculum"
+        key_editions: ["Gallimard editions", "French scholarly translations"]
+        reception_notes: "Studied in context of transatlantic literature"
+        educational_status: "Higher education American studies"
+        local_themes: ["Colonial discourse analysis", "Enlightenment values", "Republican ideals critique"]
+
+      es:
+        cultural_impact: "Important in Latin American literary studies"
+        key_editions: ["Cátedra editions", "Alianza Editorial"]
+        reception_notes: "Connected to postcolonial American narratives"
+        educational_status: "University American literature courses"
+        local_themes: ["Colonial oppression parallels", "Indigenous rights", "Social justice movements"]
+
+      pt:
+        cultural_impact: "Studied in Brazilian American literature programs"
+        key_editions: ["Brazilian scholarly editions", "Portuguese translations"]
+        reception_notes: "Racial themes resonate with Brazilian history"
+        educational_status: "University comparative literature"
+        local_themes: ["Slavery abolition parallels", "Racial democracy myths", "Social hierarchy critique"]
+
+      ja:
+        cultural_impact: "Two anime adaptations (1976, 1994) and ongoing academic interest"
+        key_editions: ["Japanese anime series", "Academic translations"]
+        reception_notes: "Cultural bridge through visual media"
+        educational_status: "American literature studies in universities"
+        local_themes: ["East-West cultural exchange", "Moral education concepts", "Social conformity vs individualism"]
+
+      ko:
+        cultural_impact: "Growing interest in American classics education"
+        key_editions: ["Korean educational editions", "Contemporary translations"]
+        reception_notes: "Moral courage themes resonate with Korean values"
+        educational_status: "English literature programs"
+        local_themes: ["Confucian ethics vs individual conscience", "Social hierarchy challenges", "Coming-of-age narratives"]
+
+      hi:
+        cultural_impact: "Part of postcolonial literature studies"
+        key_editions: ["Indian educational editions", "Academic translations"]
+        reception_notes: "Colonial critique themes find resonance"
+        educational_status: "University English literature courses"
+        local_themes: ["Caste system parallels", "British colonial legacy", "Social reform movements"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts about Huckleberry Finn's literary significance"
+        host_b: "student/assistant asking for clarification and connecting to contemporary relevance"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "thesis_introduction"
+          lead: "host_a"
+          description: "Hemingway's declaration and foundational importance in American literature"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "vernacular_revolution"
+          lead: "host_b"
+          description: "Revolutionary use of dialect and authentic American voice"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "moral_complexity"
+          lead: "host_a"
+          description: "Huck's ethical development and internal conflict analysis"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "structural_analysis"
+          lead: "host_b"
+          description: "Picaresque structure, symbolism, and narrative techniques"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "synthesis_legacy"
+          lead: "host_a"
+          description: "Contemporary relevance and continuing influence on literature"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'Adventures of Huckleberry Finn' with scholarly depth. Discuss structure, symbolism, literary techniques. Reference Hemingway's declaration, revolutionary vernacular narration, and moral complexity. Academic but accessible for young audiences."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility. Help bridge academic concepts to contemporary understanding and social media generation."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "historical racist language (213 uses of n-word)"
+      - "slavery themes and racial oppression"
+      - "domestic violence and child abuse"
+      - "social and religious criticism"
+    educational_elements:
+      - "American literary realism and regionalism"
+      - "Historical context of pre-Civil War America"
+      - "Vernacular narration and dialect techniques"
+      - "Moral development and ethical decision-making"
+      - "Racism and social justice themes"
+    production_notes:
+      intro_style: "Academic introduction with historical context"
+      transitions: "Scholarly analysis bridges between themes"
+      outro_style: "Contemporary relevance and literary legacy"
+
+  overall_confidence: 0.89

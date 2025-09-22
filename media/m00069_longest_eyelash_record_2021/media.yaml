@@ -1,0 +1,12 @@
+media_info:
+  title: World's Longest Eyelash Record - 2021
+  year: 2021
+  genre: Record Breaking Documentary
+  description: Chinese woman You Jianxia grows 205cm eyelash, claiming it's "gift from Buddha"
+  target_audience: General public, students, record enthusiasts, curious minds
+  duration: ~3 minutes
+  objective: Recreate the story behind the world's most extraordinary eyelash and its spiritual significance
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

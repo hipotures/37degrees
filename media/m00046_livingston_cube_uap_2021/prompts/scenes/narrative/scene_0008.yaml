@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Post-Incident Witness Reporting and Documentation"
+  setting:
+    time: "October 6, 2021, day following incident - Initial reporting period"
+    location: "Indoor interview setting for witness testimony collection"
+    weather: "Standard indoor environment for professional documentation"
+  characters:
+    - appearance: "Professional researcher, 35-50s, methodical appearance, contemporary dress, carrying recording equipment"
+      clothing: "Business casual attire suitable for field work - practical jacket, comfortable shoes, equipped with recording devices"
+      position: "Seated across from witnesses during interviews, taking notes, in professional meeting setting"
+      action: "Conducting witness interviews, taking detailed notes, operating recording equipment, asking methodical questions"
+    - appearance: "Adult civilian, 30s-40s, local Scottish resident, alert expression, experienced sky observer"
+      clothing: "Evening casual wear appropriate for October weather in Scotland - warm jacket or sweater, practical outdoor attire"
+      position: "Seated during formal interview, gesturing while describing experience"
+      action: "Providing detailed testimony about UAP sighting, describing cube shape and light appendages, answering researcher questions"
+  scene:
+    mainElements: "Professional interview environment with researcher collecting detailed witness testimony about extraordinary UAP encounter"
+    details: "Formal documentation process with recording equipment, note-taking materials, professional atmosphere for collecting scientific data about extraordinary sighting, witness providing detailed account of cube-shaped object with distinctive appendages, methodical approach to UAP investigation using modern scientific equipment and procedures"
+    background: "Office or meeting room environment with professional furnishings, research materials, documentation equipment"
+    atmosphere: "Serious scientific approach to documenting extraordinary phenomenon, credible witness testimony being recorded for official UAP research database"
+  composition:
+    cameraAngle: "Medium shot of formal interview documentation process"
+    focus: "Professional UAP investigation methodology with credible witness providing detailed testimony"
+    depth: "Foreground showing interview participants, middle ground with recording equipment and documentation materials, background with professional office environment, no text or letters visible"

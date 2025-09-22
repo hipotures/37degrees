@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Mid-morning, tropical waters with strong sunlight penetration
+    location: Open water column above reef substrate, clear tropical ocean water with good visibility
+    weather: Calm underwater conditions with gentle water movement
+  characters: No characters present in this scene
+  scene:
+    mainElements: Explosive collapse of cavitation bubble creating shockwave patterns and brilliant sonoluminescence flash
+    details: Brief intense point of light emission from collapsing cavitation bubble, bright white-blue illumination lasting
+      microseconds, approximately 1 millimeter focal point. Circular pressure wave patterns radiating outward from bubble
+      collapse point, visible through water distortion and particle displacement effects. Moment captured at instant of bubble
+      implosion with spectacular light emission at collapse center. Concentric shockwave rings expanding rapidly through surrounding
+      water medium with diminishing intensity. Particle acceleration patterns show explosive force distribution in all directions
+      from collapse point. Temperature spike at implosion center creating localized water heating effects. Pressure differential
+      zones visible as optical distortions in water column around collapse epicenter.
+    background: Open blue water space with scattered plankton and small marine organisms drifting past
+    atmosphere: Explosive release of tremendous energy from microscopic collapse, nature's most powerful acoustic weapon in
+      action, no text or letters visible
+  composition:
+    cameraAngle: Extreme macro close-up centered on bubble collapse point and light emission
+    focus: Sonoluminescence flash and radiating shockwave patterns with emphasis on energy visualization
+    depth: Sharp focus on collapse center and immediate shockwave effects, expanding rings visible into middle distance
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

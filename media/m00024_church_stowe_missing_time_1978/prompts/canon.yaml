@@ -1,0 +1,87 @@
+canon:
+  characters:
+    - id: "character_EO"
+      name: "Character EO"
+      description_block: |
+        characters:
+          - appearance: "50-year-old Caucasian woman, medium build, professional demeanor, well-groomed with typical late 1970s styling"
+            clothing: "Professional work attire - wool coat over business dress, sensible shoes, appropriate for November evening"
+            posture: "Composed bearing, articulate manner, shows genuine puzzlement and sincerity"
+    - id: "character_JR"
+      name: "Character JR"
+      description_block: |
+        characters:
+          - appearance: "Young Caucasian woman in late 20s, professional appearance, confident bearing, methodical demeanor"
+            clothing: "1980s investigator attire - practical clothing suitable for fieldwork, carries notebook and recording equipment"
+            posture: "Scientific approach, genuinely curious, non-judgmental stance"
+    - id: "character_MK"
+      name: "Character MK"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Caucasian man, professional demeanor, experienced in clinical techniques"
+            clothing: "Conservative 1980s attire suitable for professional consultation - dress shirt, tie, jacket"
+            posture: "Clinical approach, focused concentration, somewhat frustrated expression"
+    - id: "preston_witnesses"
+      name: "Preston Capes Witnesses"
+      description_block: |
+        characters:
+          - appearance: "Four women of varying ages, typical late 1970s styling, concerned expressions"
+            clothing: "Evening attire appropriate for November 1978 - coats, scarves, practical shoes"
+            posture: "Grouped together, pointing upward, showing signs of anxiety and confusion"
+  locations:
+    - id: "a5_road_church_stowe"
+      name: "A5 Road Near Church Stowe"
+      description_block: |
+        setting:
+          location: "Major dual carriageway A5 cutting through rural Northamptonshire countryside, England"
+        mainElements: "Wide asphalt road with grass verges, scattered mature trees, rolling hills, minimal street lighting"
+        atmosphere: "November 1978 evening, growing dusk around 5:20 PM, cool air, normal traffic flow, quiet rural setting"
+    - id: "church_stowe_village"
+      name: "Church Stowe Village, Northamptonshire"
+      description_block: |
+        setting:
+          location: "Small rural English village in Northamptonshire, traditional stone buildings"
+        mainElements: "Historic church, scattered houses, narrow lanes, agricultural surroundings, domestic lighting"
+        atmosphere: "Quiet November evening, peaceful rural ambiance, domestic lights beginning to appear in windows"
+    - id: "weedon_bec_office"
+      name: "Weedon Bec Office Area"
+      description_block: |
+        setting:
+          location: "Small town office district in Weedon Bec, Northamptonshire, England"
+        mainElements: "1970s office buildings, car park areas, streetlights, professional district"
+        atmosphere: "End of working day, November 1978, people leaving offices, transition from day to evening"
+    - id: "preston_capes_village"
+      name: "Preston Capes Village, Northamptonshire"
+      description_block: |
+        setting:
+          location: "Small village approximately 4 miles from Church Stowe, rural Northamptonshire"
+        mainElements: "Traditional English village buildings, narrow country roads, rural surroundings"
+        atmosphere: "Same November 1978 evening, similar lighting conditions, quiet rural setting"
+    - id: "visualization_site"
+      name: "Creative Visualization Site"
+      description_block: |
+        setting:
+          location: "Original A5 sighting location returned to for memory recovery session"
+        mainElements: "Same roadside location as original incident, daylight conditions for safety"
+        atmosphere: "Calm investigative setting, scientific approach, controlled environment for research"
+  items:
+    - id: "dumbbell_ufo"
+      name: "Dumbbell-Shaped UFO"
+      description_block: |
+        details: "Large gray object with dumbbell or barbell shape, hovering 100-150 feet above road, red light on left side, green light on right side, no visible openings or windows, soft plastic-like appearance"
+    - id: "oakensen_car"
+      name: "Late 1970s British Car"
+      description_block: |
+        details: "Typical late 1970s British automobile, well-maintained condition, recently serviced, normally reliable, experiences unexplained power loss during incident"
+    - id: "white_light_beam"
+      name: "Brilliant White Light Beam"
+      description_block: |
+        details: "Intense white beam of light illuminating road ahead, accompanied by sudden darkness of sky, marks beginning of missing time period"
+    - id: "investigative_equipment"
+      name: "BUFORA Investigation Equipment"
+      description_block: |
+        details: "1980s research equipment including notebooks, recording devices, interview materials, scientific documentation tools"
+    - id: "visualization_materials"
+      name: "Creative Visualization Materials"
+      description_block: |
+        details: "Materials used for memory recovery session - comfortable seating, recording equipment, note-taking supplies, safe outdoor research setup"

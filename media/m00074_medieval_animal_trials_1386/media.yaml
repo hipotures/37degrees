@@ -1,0 +1,12 @@
+media_info:
+  title: Medieval Animal Trials - 1386
+  year: 1386
+  genre: Historical Legal Documentary
+  description: Courts in medieval Europe formally tried and executed animals for crimes, including pig hanged for murder
+  target_audience: General public, students, legal history enthusiasts, medieval history buffs
+  duration: ~3 minutes
+  objective: Recreate the bizarre medieval practice of putting animals on trial for human crimes
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

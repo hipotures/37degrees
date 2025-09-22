@@ -1,0 +1,17 @@
+sceneDescription:
+  title: "British Intelligence Operation at Bletchley Park"
+  setting:
+    time: "1960s, early morning"
+    location: "Historic WWII codebreaking facility, now operating modern transmitters"
+    weather: "Misty dawn with low clouds over countryside"
+  characters:
+    No characters present in this scene
+  scene:
+    mainElements: "Period buildings, modern antenna arrays, security fencing"
+    details: "Massive transmission towers rising above historical Bletchley Park buildings, combination of vintage WWII architecture and modern radio equipment, high security fencing with warning signs, multiple directional antennas pointing toward different compass headings, equipment housing buildings scattered across grounds"
+    background: "English countryside visible beyond security perimeter, mature trees surrounding facility, access roads with vehicle checkpoints, administrative buildings from wartime era"
+    atmosphere: "Mixture of historical significance and modern secrecy, misty morning light revealing both past and present intelligence operations, no text or letters visible"
+  composition:
+    cameraAngle: "Aerial establishing shot from elevated position"
+    focus: "Contrast between historical buildings and modern transmission equipment"
+    depth: "Foreground shows modern antenna arrays, middle ground reveals Bletchley Park buildings, background displays surrounding English countryside"

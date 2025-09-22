@@ -1,0 +1,90 @@
+canon:
+  characters:
+    - id: "character_EM"
+      name: "Character EM"
+      description_block: |
+        characters:
+          - appearance: "Young African male, 13-17 years old, slender build, curious dark eyes, short dark hair"
+            clothing: "1960s Tanzanian school uniform - white short-sleeved shirt, dark shorts, simple brown leather shoes"
+            posture: "Alert and inquisitive, often leaning forward when observing, hands frequently gesturing when explaining"
+    - id: "character_DO"
+      name: "Character DO"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, medium build, graying hair, kind eyes behind wire-rimmed glasses"
+            clothing: "1960s academic attire - light colored shirt, dark tie, khaki trousers, leather shoes"
+            posture: "Thoughtful and patient, often with hands clasped behind back or adjusting glasses"
+    - id: "character_teacher"
+      name: "Physics Teacher"
+      description_block: |
+        characters:
+          - appearance: "African man, 30s, average build, serious expression, neat appearance"
+            clothing: "1960s teacher attire - white long-sleeved shirt, dark tie, dark trousers, polished black shoes"
+            posture: "Authoritative, often standing with arms crossed or pointing at blackboard"
+    - id: "character_students"
+      name: "Classmates"
+      description_block: |
+        characters:
+          - appearance: "Group of African teenagers, mixed ages 13-16, various builds and heights"
+            clothing: "1960s Tanzanian school uniforms - white shirts, dark shorts/skirts, simple shoes"
+            posture: "Typical teenage behavior - some attentive, others distracted, whispering among themselves"
+  locations:
+    - id: "magamba_secondary_school"
+      name: "Magamba Secondary School"
+      description_block: |
+        setting:
+          location: "Magamba Secondary School, Tanganyika (now Tanzania), East Africa"
+        mainElements: "Single-story colonial-era school building with corrugated metal roof, concrete walls painted white"
+        atmosphere: "Tropical educational environment with bright sunlight, warm temperatures"
+    - id: "school_kitchen_classroom"
+      name: "School Kitchen/Cookery Classroom"
+      description_block: |
+        setting:
+          location: "School kitchen classroom, Magamba Secondary School, Tanzania"
+        mainElements: "Basic cooking facilities with gas burners, metal pots, wooden work tables, shared refrigerator"
+        atmosphere: "Warm, bustling cooking classroom with steam and food aromas"
+    - id: "physics_classroom"
+      name: "Physics Classroom"
+      description_block: |
+        setting:
+          location: "Physics classroom, Magamba Secondary School, Tanzania"
+        mainElements: "Simple classroom with wooden desks, blackboard, basic physics equipment on shelves"
+        atmosphere: "Academic setting with chalk dust and afternoon sunlight through windows"
+    - id: "mkwawa_secondary_school"
+      name: "Mkwawa Secondary School"
+      description_block: |
+        setting:
+          location: "Mkwawa Secondary School, Iringa, Tanzania"
+        mainElements: "Larger brick building with multiple classrooms, assembly hall for lectures"
+        atmosphere: "More formal educational environment, prestigious secondary school setting"
+    - id: "university_college_dar_salaam"
+      name: "University College Dar es Salaam"
+      description_block: |
+        setting:
+          location: "University College, Dar es Salaam, Tanzania"
+        mainElements: "Modern 1960s university buildings, well-equipped physics laboratory with scientific instruments"
+        atmosphere: "Professional academic environment with advanced equipment and research facilities"
+    - id: "laboratory_room"
+      name: "Physics Laboratory"
+      description_block: |
+        setting:
+          location: "Physics laboratory, University College Dar es Salaam"
+        mainElements: "Scientific workbenches, thermometers, containers, freezing equipment, measurement tools"
+        atmosphere: "Controlled scientific environment with precise instruments and careful observations"
+  items:
+    - id: "ice_cream_mixture"
+      name: "Ice Cream Mixture"
+      description_block: |
+        details: "Metal pot containing hot boiling milk mixed with sugar for ice cream making"
+    - id: "thermometers"
+      name: "Scientific Thermometers"
+      description_block: |
+        details: "Glass thermometers with mercury for precise temperature measurement in laboratory experiments"
+    - id: "water_containers"
+      name: "Water Containers"
+      description_block: |
+        details: "Identical clear glass or metal containers for holding water at different temperatures during experiments"
+    - id: "notebook"
+      name: "Scientific Notebook"
+      description_block: |
+        details: "Bound notebook with lined pages for recording experimental observations and data"

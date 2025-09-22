@@ -1,0 +1,11 @@
+media_info:
+  title: Jack the Baboon Railway Worker - 1881-1890
+  genre: Historical Curiosity Documentary
+  description: South African Railway employs baboon as signalman for 9 years without single error, paid in beer
+  target_audience: General public, students, animal behavior enthusiasts, railway history buffs
+  duration: ~3 minutes
+  objective: Recreate the extraordinary story of the only non-human railway employee in history
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

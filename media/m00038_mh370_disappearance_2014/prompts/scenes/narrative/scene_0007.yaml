@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Deep ocean search operations in Southern Indian Ocean"
+  setting:
+    time: "2014-2018 - underwater search phase"
+    location: "Remote ocean region with rough seas in Southern Indian Ocean, no land visible for hundreds of kilometers"
+    weather: "Challenging maritime conditions with variable weather and rough seas"
+  characters:
+    - appearance: "Ocean search vessel captain, weathered marine professional, focused determination"
+      clothing: "Maritime safety jacket over naval uniform, waterproof gear, captain's insignia"
+      position: "On bridge of search vessel overlooking operations"
+      action: "Directing underwater search operations while monitoring sonar displays and weather conditions"
+    - appearance: "Deep sea search technician, specialized equipment operator"
+      clothing: "Technical work clothes with safety equipment, marine survey company uniform"
+      position: "At sonar and underwater vehicle control station"
+      action: "Operating underwater search equipment and analyzing sonar data for debris patterns"
+  scene:
+    mainElements: "Deep blue waters with white foam caps, search vessels with equipment, underwater exploration sonar devices"
+    details: "Multiple search vessels deployed across vast ocean area, specialized underwater search equipment being deployed, sonar arrays scanning ocean floor, crew members operating sophisticated detection equipment, rough seas creating challenging conditions for precise operations"
+    background: "Endless ocean horizon in all directions, other search vessels visible at distance, aircraft conducting aerial search patterns"
+    atmosphere: "Isolated challenging maritime environment with unpredictable weather and endless ocean horizon"
+  composition:
+    cameraAngle: "Aerial view showing scale of search operation across vast ocean area"
+    focus: "Primary search vessel with underwater equipment deployment in rough seas"
+    depth: "Foreground shows vessel with search equipment, middle ground shows ocean surface with search pattern, background shows distant horizon and other search assets, no text or letters visible"

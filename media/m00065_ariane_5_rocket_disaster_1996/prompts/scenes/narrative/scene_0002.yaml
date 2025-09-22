@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Ariane 5 rocket assembly at Kourou launch complex"
+  setting:
+    time: "June 3, 1996, morning"
+    location: "European Space Agency launch complex ELA-3, Kourou, French Guiana"
+    weather: "Tropical morning with scattered clouds, high humidity"
+  characters:
+    - appearance: "European man, 45s, stocky build, mustache, serious expression, short dark hair"
+      clothing: "1990s ESA launch director uniform with multiple badges and radio equipment"
+      position: "Standing on elevated platform overlooking launch pad"
+      action: "Coordinating final assembly procedures through radio headset, pointing toward rocket"
+    - appearance: "European woman, 30s, medium build, blonde hair in professional bun, alert green eyes"
+      clothing: "1990s white technical blouse with ESA patches, dark navy skirt, headset around neck"
+      position: "At mobile control station near launch pad base"
+      action: "Monitoring assembly progress on tablet computer, communicating with ground crew"
+  scene:
+    mainElements: "Massive concrete launch pad with steel support structures, pristine white Ariane 5 rocket being assembled on launch table, mobile service tower positioned alongside rocket, umbilical connection arms, flame deflector systems"
+    details: "Towering white rocket with distinctive conical nose cone and twin solid boosters, European space agency markings visible on rocket body, complex network of fuel lines and electrical connections, mobile crane positioning payload fairing, scattered technical equipment and safety barriers around pad perimeter, tropical vegetation visible in distance, no text or letters visible"
+    background: "French Guiana jungle landscape with palm trees, additional launch infrastructure, control buildings in distance, Atlantic Ocean horizon"
+    atmosphere: "Impressive scale and technological achievement of European space engineering, sense of precision and careful preparation for historic maiden flight"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated perspective"
+    focus: "Magnificent Ariane 5 rocket dominating the scene with human figures providing scale reference"
+    depth: "Foreground shows launch director and technical staff, middle ground captures complete rocket assembly, background reveals tropical launch complex environment"

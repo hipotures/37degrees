@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Final radio contact with Malaysian air traffic control"
+  setting:
+    time: "March 8, 2014, 01:19 MYT - moment of last communication"
+    location: "Malaysian air traffic control facility with radar screens and communication equipment"
+    weather: "Clear night conditions for radio communication"
+  characters:
+    - appearance: "Malaysian aviation professional, focused concentration, headset worn, alert expression"
+      clothing: "Standard ATC uniform or civilian professional attire with identification badge"
+      position: "Seated at air traffic control console with radar screen"
+      action: "Speaking into headset microphone while monitoring radar display showing aircraft positions"
+  scene:
+    mainElements: "Large radar screens showing aircraft positions as moving dots, communication equipment, aviation charts and maps on walls"
+    details: "Air traffic controller wearing headset speaking into microphone, radar screen displaying multiple aircraft blips including MH370's position, communication logs being recorded, coffee cup on desk indicating overnight shift, wall clocks showing different time zones, backup controllers monitoring other sectors"
+    background: "Darkened control room with multiple radar stations, other controllers at their positions, status boards and emergency procedures posted on walls"
+    atmosphere: "Quiet overnight military watch with dim lighting from screens, serious professional environment"
+  composition:
+    cameraAngle: "Over-shoulder view from behind air traffic controller looking at radar screen"
+    focus: "Air traffic controller's headset and the radar screen showing aircraft positions"
+    depth: "Foreground shows controller's workspace and hands, middle ground shows radar display with aircraft positions, background shows other controllers and equipment, no text or letters visible"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Independent Operation - the baboon Works Solo at Signal Box"
+  setting:
+    time: "1884, midday"
+    location: "Two-story wooden signal box overlooking railway tracks at Uitenhage station"
+    weather: "Bright sunny day with clear visibility"
+  characters:
+    - appearance: "White male, 40s, sturdy build, determined expression, double leg amputee below the knee"
+      clothing: "1880s railway uniform - dark blue wool jacket with brass buttons, white shirt, black tie, dark trousers"
+      position: "Seated at corner desk working on paperwork"
+      action: "Focused on administrative tasks while the baboon handles signal operations independently"
+    - appearance: "Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build"
+      clothing: "Miniature railway signalman uniform - dark blue cap, small brass buttons on vest"
+      position: "Standing at lever frame, reaching for specific numbered lever"
+      action: "Listening intently to train whistle signals and pulling correct levers with precision and confidence"
+  scene:
+    mainElements: "Mechanical lever frame with numbered signal levers, large windows showing approaching steam locomotive, divided workspace showing both administrative and operational areas"
+    details: "Tall brass and iron mechanical levers numbered 1-10 arranged in precise row, approaching Victorian-era steam locomotive with black iron body and brass fittings, signal charts on walls, oil lamps, telegraph equipment with brass keys"
+    background: "Multiple railway tracks below with steam locomotives and passenger cars, Victorian railway station platform with passengers, colonial buildings of Uitenhage in distance"
+    atmosphere: "Professional railway operation with the baboon demonstrating complete mastery of complex signaling system, industrial efficiency, steam and mechanical sounds, confidence in established routine"
+  composition:
+    cameraAngle: "Wide shot from inside signal box showing both work areas"
+    focus: "the baboon operating signals independently while character JW works on other tasks"
+    depth: "Foreground: signal box interior with characters at work, middle ground: lever frame and windows, background: railway activity and station, no text or letters visible"

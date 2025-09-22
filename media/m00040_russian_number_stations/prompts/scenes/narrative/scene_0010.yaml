@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Enduring Mystery Continues Into 2025"
+  setting:
+    time: "2025, present day, dawn"
+    location: "Underground military facility near Saint Petersburg, Russia, surrounded by forest"
+    weather: "Cold clear dawn with frost crystallizing on transmission equipment"
+  characters:
+    - appearance: "Mid-30s military bearing man, short dark hair, pale complexion from underground work"
+      clothing: "Soviet-era military uniform with radio operator insignia, headphones around neck"
+      position: "Continuing routine transmission operations as mystery endures into new decade"
+      action: "Methodically operating transmission equipment while maintaining decades-old protocols despite changing world"
+  scene:
+    mainElements: "Massive radio towers, concrete bunkers, restricted military zone signs"
+    details: "Banks of vacuum tube equipment continuing steady operation despite technological advances, analog meters maintaining consistent readings, coded message sheets reflecting ongoing intelligence needs, transmission equipment showing wear from decades of use but still functional, monitoring equipment detecting global listening audience"
+    background: "Steel reinforced concrete walls weathered by decades of operation, equipment showing mixture of Soviet-era and modern components, facility adapted for continued relevance in digital age"
+    atmosphere: "Cold, sterile, constant electrical humming, guards patrol perimeter, mysterious persistence of analog communications in digital world, cyclical return to opening scene, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot echoing opening scene but showing passage of time"
+    focus: "Radio operator maintaining mysterious transmissions as global audience continues listening"
+    depth: "Foreground shows transmission equipment showing decades of use, middle ground reveals operator following eternal protocols, background displays towers continuing to broadcast into uncertain future"

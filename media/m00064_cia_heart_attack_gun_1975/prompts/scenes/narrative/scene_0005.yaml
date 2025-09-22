@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Technical Demonstration of Dart Firing Mechanism"
+  setting:
+    time: "September 17, 1975, 11:30 AM"
+    location: "US Senate Caucus Room 318, Russell Senate Office Building, Washington DC"
+  characters:
+    - appearance: "Caucasian man, 50s, thinning brown hair, intellectual appearance with wire-rimmed glasses"
+      clothing: "1970s conservative dark suit, white dress shirt, understated tie"
+      position: "Standing beside witness table demonstrating weapon operation"
+      action: "Explaining firing mechanism while pointing to specific weapon components"
+    - appearance: "Caucasian man, 50s, distinguished bearing, graying hair combed back, serious expression with deep-set eyes"
+      clothing: "1970s dark blue suit with thin lapels, white dress shirt, conservative patterned tie"
+      position: "Leaning forward at committee dais observing demonstration"
+      action: "Watching intently as weapon mechanics are explained"
+  scene:
+    mainElements: "Hair-thin frozen projectile, quarter-inch long, containing shellfish toxin that disintegrates on contact leaving no trace displayed alongside weapon components"
+    details: "Technical explanation of assassination technology, microscopic dart demonstration under magnification, electrical firing system components laid out on table, precision engineering of deadly weapon revealed to public, committee members examine dart specifications with magnifying equipment, television cameras capture technical details for broadcast, no text or letters visible"
+    background: "Formal committee chamber with focused attention on technical demonstration"
+    atmosphere: "Clinical examination of assassination technology as deadly precision of CIA weapon becomes clear"
+  composition:
+    cameraAngle: "Close-up of technical demonstration with cutaway to dart details"
+    focus: "Microscopic dart and firing mechanism being demonstrated"
+    depth: "Foreground shows detailed weapon components, middle ground captures explaining figure, background shows attentive committee"

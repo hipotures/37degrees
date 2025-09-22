@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: September 17, 1975, 10:25 AM
+    location: US Senate Caucus Room 318, Russell Senate Office Building, Washington DC
+  characters:
+  - appearance: Caucasian man, 60s, white hair, stern demeanor, weathered face with prominent jawline
+    clothing: 1970s dark gray suit, white dress shirt, solid colored tie, American flag pin on lapel
+    position: Leaning forward at committee table examining the weapon closely
+    action: Carefully inspecting the modified pistol and its unusual attachments
+  scene:
+    mainElements: Modified Colt M1911 pistol with telescopic scope mounted on top, electrical battery attachment, specialized
+      firing mechanism for frozen darts rather than bullets displayed on committee table
+    details: Close examination reveals scope mounting system, electrical connections to battery pack, modified barrel designed
+      for firing frozen projectiles instead of conventional ammunition, precision engineering of assassination technology,
+      committee members handle weapon with mixture of fascination and revulsion, no text or letters visible
+    background: Blurred committee room setting with focused attention on the weapon
+    atmosphere: Intense scrutiny of deadly technology as senators grapple with implications of CIA assassination capabilities
+  composition:
+    cameraAngle: Extreme close-up of the weapon and examining hands
+    focus: Technical details of the heart attack gun's modifications
+    depth: Foreground shows weapon details in sharp focus, background softly blurred committee room environment
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

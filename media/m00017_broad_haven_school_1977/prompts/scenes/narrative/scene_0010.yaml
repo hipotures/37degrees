@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Unwavering Truth - The Witnesses Decades Later"
+  setting:
+    time: "Present day (2020s), afternoon"
+    location: "Same field adjacent to Broad Haven Primary School, now adult witnesses returning to the site"
+    weather: "Clear afternoon with gentle Welsh breeze"
+  characters:
+    - appearance: "Middle-aged man in his 50s, formerly the earnest 10-year-old witness, now with graying hair but same serious expression"
+      clothing: "Casual modern clothing, jacket against Welsh weather"
+      position: "Standing in the field where the craft landed decades ago"
+      action: "Pointing to the exact location, speaking with same conviction as child"
+    - appearance: "Middle-aged man in his 50s, formerly the confident military family child, now mature adult"
+      clothing: "Modern casual attire, standing with confident posture maintained from childhood"
+      position: "Beside the first witness in the field"
+      action: "Nodding in agreement, gesturing to the landing site, maintaining consistent testimony"
+  scene:
+    mainElements: "The same grassy field, now decades later, school building visible in background though possibly changed, mature trees grown larger, hedgerows more established"
+    details: "Two men in their 50s standing in the exact spot where they witnessed the extraordinary event as children. Their faces show the passage of decades but their expressions maintain the same earnest conviction they had as 10-year-olds. The field remains largely unchanged, peaceful Welsh countryside enduring while the witnesses have grown from children to adults, their story unchanged over 45+ years."
+    background: "Broad Haven Primary School visible in distance, Welsh countryside rolling into the horizon, clouds moving across Welsh sky"
+    atmosphere: "Sense of time's passage yet consistency of testimony, peaceful countryside setting where extraordinary events were witnessed, mature witnesses maintaining childhood conviction, quiet dignity of unwavering truth, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing adult witnesses in context of unchanged landscape"
+    focus: "The continuity between child witnesses and adult conviction, emphasizing the consistency of their accounts over decades"
+    depth: "Foreground: adult witnesses in field, middle ground: landing site area, background: school and Welsh countryside spanning decades of consistency"

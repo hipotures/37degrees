@@ -1,0 +1,110 @@
+canon:
+  characters:
+    - id: "character_PCK"
+      name: "Character PCK"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged uniformed police constable, sturdy build, clean-shaven face typical of Edwardian policemen, approximately 40 years old"
+            clothing: "Dark blue police uniform with silver buttons, police helmet, heavy wool cape for night patrol"
+            position: "Standing alert on street patrol"
+            action: "Observing sky with professional attention, taking mental notes for official report"
+    - id: "character_AL"
+      name: "Character AL"
+      description_block: |
+        characters:
+          - appearance: "Well-dressed gentleman, approximately 30-40 years old, clean-shaven with side-parted hair"
+            clothing: "Edwardian driving coat, wool cap, leather gloves, suitable for motor car travel in 1909"
+            position: "Seated in early motor car with companions"
+            action: "Looking upward with surprise and concern, pointing toward sky"
+    - id: "character_CE"
+      name: "Character CE"
+      description_block: |
+        characters:
+          - appearance: "Distinguished elderly gentleman, 50s-60s, well-groomed with Victorian whiskers"
+            clothing: "Formal evening dress, white bow tie, tails, reflecting aristocratic status"
+            position: "Standing on terrace of grand estate"
+            action: "Gazing upward with aristocratic authority and measured concern"
+    - id: "character_FZ"
+      name: "Character FZ"
+      description_block: |
+        characters:
+          - appearance: "Elderly German nobleman, 71 years old, distinctive white mustache, tall and imposing figure"
+            clothing: "German military uniform with decorations, or formal civilian dress with Prussian bearing"
+            position: "Standing in German workshop or office"
+            action: "Examining airship blueprints with confident expertise"
+    - id: "character_JC"
+      name: "Character JC"
+      description_block: |
+        characters:
+          - appearance: "Military officer, approximately 50 years old, trim build, regulation mustache"
+            clothing: "British Army uniform of Royal Engineers, insignia of rank, perfectly pressed"
+            position: "Standing in military facility"
+            action: "Reviewing reports with professional military bearing and evident concern"
+  locations:
+    - id: "market_harborough"
+      name: "Market Harborough Town"
+      description_block: |
+        setting:
+          location: "Market Harborough, Leicestershire, England"
+        mainElements: "Victorian terraced houses, parish church spire, market square, gas street lamps casting yellow light, cobblestone streets"
+        atmosphere: "Quiet provincial English town at night, flickering gas lighting creating shadows, peaceful rural setting with horse-drawn vehicles"
+    - id: "kelmarsh_countryside"
+      name: "Kelmarsh Village Road"
+      description_block: |
+        setting:
+          location: "Kelmarsh village road, Northamptonshire countryside"
+        mainElements: "Stone cottages, Norman church silhouette, narrow country lanes, early motor car on dirt road"
+        atmosphere: "Dark countryside night with no electric lighting, sounds of night wildlife, clear starlit sky, remote and peaceful"
+    - id: "peterborough_streets"
+      name: "Peterborough City Streets"
+      description_block: |
+        setting:
+          location: "Peterborough, Cambridgeshire, cathedral city"
+        mainElements: "Norman cathedral dominating skyline, railway yards, Victorian terraced housing, gas-lit streets"
+        atmosphere: "Urban environment with some industrial smoke, gas-lit streets creating pools of yellow light, night police patrol routes"
+    - id: "farnborough_facility"
+      name: "Royal Balloon Factory"
+      description_block: |
+        setting:
+          location: "Royal Balloon Factory, Farnborough, Hampshire"
+        mainElements: "Military balloon sheds, workshops, experimental aircraft, military barracks, British flags"
+        atmosphere: "Official military environment, disciplined activity, cutting-edge but primitive aviation technology, sense of urgency"
+    - id: "burghley_house"
+      name: "Burghley House Estate"
+      description_block: |
+        setting:
+          location: "Burghley House, Exeter estate grounds"
+        mainElements: "Grand Elizabethan mansion, manicured gardens, stone terraces, ornate architecture"
+        atmosphere: "Aristocratic grandeur, evening shadows across estate grounds, sense of established authority and tradition"
+    - id: "german_workshop"
+      name: "German Airship Facility"
+      description_block: |
+        setting:
+          location: "German airship construction facility"
+        mainElements: "Industrial workshops, airship components, technical blueprints, German engineering equipment"
+        atmosphere: "Advanced technological environment, precision engineering, sense of German industrial superiority"
+  items:
+    - id: "mystery_airship"
+      name: "Mystery Airship"
+      description_block: |
+        details: "Dark, oblong shaped craft approximately 100 feet long, lights visible at front and rear, visible crew platform beneath, distinctive 'tock-tock-tock' engine sound"
+    - id: "british_airship"
+      name: "British Military Airship"
+      description_block: |
+        details: "Semi-rigid airship, 120 feet long, fabric envelope with internal framework, twin propellers, open gondola, British military markings, primitive compared to German designs"
+    - id: "german_zeppelin"
+      name: "German Zeppelin"
+      description_block: |
+        details: "Rigid airship up to 420 feet long, multiple gas cells, enclosed passenger compartments, advanced German engineering, representing superior technology"
+    - id: "motor_car_1909"
+      name: "Edwardian Motor Car"
+      description_block: |
+        details: "Early 1909 motor car with open top, brass fittings, large spoked wheels, hand-crank starter, suitable for country roads"
+    - id: "police_report"
+      name: "Official Police Report"
+      description_block: |
+        details: "Formal police documentation, handwritten in official format, describing aerial phenomena with professional objectivity"
+    - id: "newspaper_headlines"
+      name: "Newspaper Coverage"
+      description_block: |
+        details: "Period newspaper layout with bold headlines about airship sightings, multiple columns, illustration sketches, no readable text visible"

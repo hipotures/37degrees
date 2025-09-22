@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: February 4, 1977, 1:32 PM
+    location: Open grassy field with gentle slope, approximately 100 meters from school playground, bordered by trees and
+      hedgerows typical of Welsh countryside
+    weather: Clear winter afternoon with excellent visibility
+  characters: No characters present in this scene
+  scene:
+    mainElements: Approximately 45 feet long, cigar-shaped with central dome covering middle third, iridescent silver finish,
+      slowly pulsating red light on dome, apparent door opening on side, silent operation
+    details: The silver craft now rests completely on the grass field. A seamless door or hatch has opened on the side of
+      the craft, revealing a dark interior opening. The door appears to slide or iris open without visible hinges or mechanisms.
+      The craft's pulsating red light continues its slow rhythm. The grass around the landing site shows slight compression
+      but no burning or damage. The opening creates a stark black void against the bright silver hull.
+    background: Level grass surface with slight depression where craft has landed, clear sightlines from school visible in
+      distance, natural boundaries of vegetation, trees creating shadows across the field
+    atmosphere: Moment of anticipation and tension, the quiet Welsh countryside about to witness something unprecedented,
+      silence broken only by distant sounds of children's voices, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from side angle showing the opened door clearly
+    focus: The opened door/hatch creating dark contrast against silver hull, emphasizing the moment of potential contact
+    depth: 'Foreground: compressed grass around landing site, middle ground: craft with open door, background: field boundaries
+      and distant school'
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

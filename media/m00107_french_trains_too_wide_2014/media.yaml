@@ -1,0 +1,12 @@
+media_info:
+  title: French Trains Too Wide Mistake - 2014
+  year: 2014
+  genre: Engineering Blunder Documentary
+  description: SNCF orders 2000 trains too wide for 1300 stations, requiring €50 million platform modifications
+  target_audience: General public, students, engineering enthusiasts, transportation buffs
+  duration: ~3 minutes
+  objective: Recreate the expensive oversight that showed the importance of measuring twice before ordering
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

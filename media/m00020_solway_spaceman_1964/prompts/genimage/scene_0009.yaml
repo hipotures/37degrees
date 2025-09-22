@@ -1,0 +1,104 @@
+sceneDescription:
+  setting:
+    time: August-September 1964, daytime
+    location: Remote desert testing facility in South Australia, highly classified military installation
+    weather: Clear desert conditions with harsh sunlight
+  characters:
+  - appearance: Military technician in uniform, focused and professional demeanor
+    clothing: Australian military technical uniform appropriate for missile testing
+    position: Standing at control station monitoring launch preparations
+    action: Observing through binoculars with growing alarm at unexpected figures on range
+  - appearance: Senior launch control officer, authoritative bearing
+    clothing: Military dress uniform with rank insignia
+    position: Positioned at main control console
+    action: Making urgent radio communications to abort missile launch
+  - appearance: Security personnel, alert and ready for action
+    clothing: Military security uniform with equipment
+    position: Stationed around perimeter of control area
+    action: Responding to unexpected breach of secure testing zone
+  scene:
+    mainElements: Launch pads, tracking equipment, control bunkers, restricted access zones in harsh desert environment
+    details: British intermediate-range ballistic missile, white/silver metallic finish, manufactured near Solway Firth area
+      now ready for testing, sophisticated tracking equipment detecting unexplained presences on firing range, emergency abort
+      procedures initiated, no text or letters visible
+    background: Tense, high-security environment during Cold War missile testing with vast desert landscape
+    atmosphere: Military precision disrupted by unexplained security breach, parallel mystery unfolding thousands of miles
+      from original incident
+  composition:
+    cameraAngle: Wide shot showing scale of military installation and missile testing operation
+    focus: The urgent response to mysterious figures disrupting critical missile test
+    depth: Foreground shows detailed military control operations, middle ground features missile launch preparation, background
+      displays vast Australian desert landscape
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

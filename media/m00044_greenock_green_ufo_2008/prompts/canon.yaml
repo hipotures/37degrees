@@ -1,0 +1,33 @@
+canon:
+  characters:
+    - id: "character_AW"
+      name: "Character AW"
+      description_block: |
+        characters:
+          - appearance: "Scottish civilian, adult, observant person capable of detailed descriptions"
+            clothing: "2008 casual evening wear appropriate for Scottish spring weather"
+            posture: "Alert, looking upward at sky, tracking moving object"
+  locations:
+    - id: "greenock_port_town"
+      name: "Greenock Port Town"
+      description_block: |
+        setting:
+          location: "Historic Scottish port town of Greenock on Firth of Clyde, Inverclyde, Scotland, hemmed in by hills, stretching 4 miles along waterfront"
+        mainElements: "Industrial port facilities, shipyards, residential areas on higher ground, clear views over Clyde estuary waters"
+        atmosphere: "Evening Scottish coastal town atmosphere, clear enough for detailed UFO observation, industrial maritime setting"
+    - id: "clyde_estuary_airspace"
+      name: "Clyde Estuary Airspace"
+      description_block: |
+        setting:
+          location: "Open airspace over Firth of Clyde waters and Scottish coastal industrial town"
+        mainElements: "Clear sky corridor over water, away from major air traffic routes, good visibility conditions"
+        atmosphere: "Evening sky conditions allowing clear observation of unusual colored objects"
+  items:
+    - id: "green_ufo_craft"
+      name: "Green Glowing UFO"
+      description_block: |
+        details: "Solid green glowing unidentified flying object, bright luminescent green coloration, size visible from ground but not specified, silent operation, moving eastward trajectory"
+    - id: "orange_energy_trail"
+      name: "Orange Trail"
+      description_block: |
+        details: "Orange-colored energy trail following behind green UFO object, distinct orange coloration contrasting with green main craft, visible length extending behind moving object"

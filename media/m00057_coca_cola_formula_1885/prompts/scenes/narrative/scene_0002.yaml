@@ -1,0 +1,19 @@
+sceneDescription:
+  title: "character_JSP at Work in His Pharmacy"
+  setting:
+    time: "1885 morning, natural daylight streaming through window"
+    location: "Small pharmacy laboratory behind main store, Atlanta Georgia, late 19th century"
+  characters:
+    - appearance: "Caucasian man, mid-50s, average height, graying beard and mustache, intelligent eyes behind wire-rimmed spectacles, slightly receding hairline"
+      clothing: "1880s white pharmacist coat over dark vest and white collared shirt, black trousers, formal boots"
+      position: "Standing at wooden workbench, leaning slightly forward over his work"
+      action: "Carefully measuring powder from glass jar onto brass scales, consulting handwritten notes"
+  scene:
+    mainElements: "Wooden workbench with brass scales, glass beakers, ceramic mortars and pestles, rows of glass medicine bottles with cork stoppers, oil lamp for lighting"
+    details: "Shelves lined with pharmaceutical ingredients in labeled jars, dried herbs hanging from ceiling beams, leather-bound notebook open with handwritten formulas, various measuring spoons and graduated cylinders, sunlight creating geometric patterns through window panes, no text or letters visible"
+    background: "Dim, focused workspace with scientific precision, dusty shelves lined with pharmaceutical ingredients"
+    atmosphere: "Quiet concentration and methodical precision of a dedicated pharmacist and inventor"
+  composition:
+    cameraAngle: "Medium shot from slightly above, looking down at workbench"
+    focus: "character_JSP's careful measurement and attention to detail"
+    depth: "Foreground: brass scales and measuring tools, middle: character working, background: shelved bottles and ingredients"

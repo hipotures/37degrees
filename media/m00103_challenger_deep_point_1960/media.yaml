@@ -1,0 +1,12 @@
+media_info:
+  title: Challenger Deep Deepest Point - 1960/2019
+  year: 1960
+  genre: Ocean Exploration Documentary
+  description: Deepest accessible point on Earth reaches 10,924m below sea level in Mariana Trench
+  target_audience: General public, students, ocean exploration enthusiasts, marine science buffs
+  duration: ~3 minutes
+  objective: Recreate humanity's journey to the deepest point on Earth and the extreme conditions found there
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Aerospace Corporation Technical Development - 1974"
+  setting:
+    time: "1974, morning"
+    location: "Aerospace Corporation facility, El Segundo, California"
+    weather: "Bright California morning with clear skies"
+  characters:
+    - appearance: "Caucasian man, 60s, distinguished appearance, graying hair, thoughtful expression"
+      clothing: "1970s business suit with narrow tie, sometimes white lab coat over dress shirt"
+      position: "Standing beside large satellite mockup, hands behind back"
+      action: "Examining detailed satellite model while discussing technical specifications"
+    - appearance: "Group of 3-4 engineers, mixed ages 30s-50s, focused expressions, wearing safety glasses"
+      clothing: "White lab coats over shirts and ties, some with pocket protectors and technical badges"
+      position: "Clustered around equipment, pointing at diagrams, taking notes on clipboards"
+      action: "Measuring satellite components with precision instruments, consulting technical manuals"
+  scene:
+    mainElements: "Modern 1970s technical facility with computer terminals and satellite mockups, large satellite model in center of room, computer terminals along walls, engineering workbenches with precision tools"
+    details: "IBM computer terminals with green phosphor screens, slide rules on desks, technical drafting tables with blueprints, precision measurement equipment, coffee cups and ashtrays, wall calendars showing 1974, no text or letters visible"
+    background: "Clean white walls with technical charts and orbital diagrams, large windows showing California aerospace district, American flag and corporate logos"
+    atmosphere: "Cutting-edge technology development environment with clean, professional atmosphere, excitement of innovation, concentrated technical work environment"
+  composition:
+    cameraAngle: "Wide shot capturing full development laboratory"
+    focus: "Central satellite mockup with team examining it"
+    depth: "Satellite model in foreground, engineers in middle ground, computer terminals and technical equipment in background"

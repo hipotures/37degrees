@@ -1,0 +1,31 @@
+sceneDescription:
+  title: "Research Team Collaborative Planning"
+  setting:
+    time: "2024, morning"
+    location: "INRS Énergie Matériaux Télécommunications Research Centre, advanced optics laboratory, Montreal, Canada"
+  characters:
+    - appearance: "Asian-Canadian man, 40s, focused expression, dark hair, wire-rim glasses"
+      clothing: "White lab coat over dark shirt, or casual dark suit with no tie"
+      position: "Standing at whiteboard, holding marker"
+      action: "Explaining technical concepts and drawing diagrams for the team"
+    - appearance: "Caucasian man, 30s, analytical expression, short brown hair, clean-shaven"
+      clothing: "INRS research center polo shirt or lab coat with safety glasses"
+      position: "Seated at table with notebook open"
+      action: "Taking detailed notes and asking clarifying questions"
+    - appearance: "Caucasian woman, 35s, determined expression, shoulder-length blonde hair"
+      clothing: "Professional blouse under lab coat or dark business casual attire"
+      position: "Standing beside optical equipment"
+      action: "Examining laser components while listening to discussion"
+    - appearance: "South Asian man, 28s, enthusiastic expression, black hair, slight beard"
+      clothing: "Dark sweater or button-down shirt under lab coat"
+      position: "Seated with laptop open, pointing at screen"
+      action: "Showing computational simulations and data analysis results"
+  scene:
+    mainElements: "Team meeting around optical bench with laser equipment, whiteboard with technical diagrams, laptops and notebooks"
+    details: "Collaborative research planning session featuring whiteboard covered with optical diagrams, precision laser equipment arranged on optical bench, multiple laptops displaying data graphs and simulations, research notebooks with handwritten calculations, and various optical components like mirrors, lenses, and beam splitters organized on the work surface."
+    background: "Additional laboratory equipment, computer workstations, and storage areas for optical components"
+    atmosphere: "Focused collaborative scientific environment with bright overhead lighting, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot capturing the team interaction around the work area"
+    focus: "The team discussion and technical planning around the optical equipment"
+    depth: "Foreground shows team members, middle ground features optical bench and equipment, background displays additional lab infrastructure"

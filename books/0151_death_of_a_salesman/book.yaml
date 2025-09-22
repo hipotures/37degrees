@@ -19,3 +19,169 @@ complexity: "high"
 reading_time_hours: 3
 page_count: 139
 isbn: "978-0140481341"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T15:30:00Z"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 2
+    relevance: 9
+    innovation: 8
+    structural_complexity: 7
+    social_roles: 9
+    total: 61
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.2
+      category: "high"
+    heat:
+      value: 7.0
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "political_persecution"
+        type: "FACT"
+        credibility: 0.95
+        content: "Miller was summoned before HUAC in 1956, refused to 'name names', convicted of contempt of Congress"
+        source: "dark_drama"
+      - id: "american_dream_deconstruction"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Miller's play as potent indictment of American capitalism showing 'false myth' based on materialistic capitalism"
+        source: "symbols_meanings"
+      - id: "revolutionary_theatrical_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Coexistence of past and present technique, tragedy of common man concept, influenced generations of dramatists"
+        source: "writing_innovation"
+      - id: "cross_cultural_global_phenomenon"
+        type: "FACT"
+        credibility: 0.90
+        content: "Five Broadway revivals, adaptations in China (Miller-directed), translations in dozens of languages"
+        source: "culture_impact"
+      - id: "mental_health_prophecy"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Miller predicted mental health crisis in workplace, toxic masculinity impact, depression among middle-aged men"
+        source: "reality_wisdom"
+      - id: "family_dysfunction_patterns"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Toxic father-son relationships, impossible expectations, emotional manipulation, generational trauma transmission"
+        source: "symbols_meanings"
+      - id: "economic_system_critique"
+        type: "FACT"
+        credibility: 0.95
+        content: "Called 'social play' and 'attack upon society and its system of beliefs' by critics, examines capitalism's human cost"
+        source: "culture_impact"
+      - id: "content_warning_complexity"
+        type: "FACT"
+        credibility: 0.90
+        content: "Suicide themes, domestic violence, political controversies require careful handling but educational value high"
+        source: "content_warnings_assessment"
+
+    localized:
+      en:
+        cultural_impact: "Cornerstone of American drama, continuous Broadway presence for 75 years"
+        key_editions: ["Multiple Broadway revivals", "Film adaptations", "Educational curriculum standard"]
+        reception_notes: "Canonical status in Western literature, recognized as 'best American play since Streetcar'"
+        educational_status: "Required reading in high schools and universities worldwide"
+        local_themes: ["Post-war American anxiety", "Suburban middle-class critique"]
+      pl:
+        cultural_impact: "Viewed through lens of systemic transformation from socialism to capitalism"
+        key_editions: ["PIW editions", "Contemporary productions in Warsaw, Kraków, Gdańsk"]
+        reception_notes: "Resonates with Polish experience of economic transformation after 1989"
+        educational_status: "Not mandatory reading but widely studied in American literature courses"
+        local_themes: ["Post-communist economic transformation", "Polish version of American Dream failure"]
+      de:
+        cultural_impact: "Connected to German intellectual traditions of social criticism and psychoanalysis"
+        key_editions: ["S. Fischer Verlag", "Reclam Universal-Bibliothek", "Educational materials by Klett"]
+        reception_notes: "Embraced through Marxist and existentialist analytical frameworks"
+        educational_status: "Standard text in Gymnasium curricula for Abitur preparation"
+        local_themes: ["Marxist capitalism critique", "Brechtian theater influences"]
+      fr:
+        cultural_impact: "Part of Francophone intellectual discourse, connected to existentialist philosophy"
+        key_editions: ["Raymond Gérome translation", "Eric Kahane theatrical adaptation", "Kelly Rivière modern version"]
+        reception_notes: "Praised as 'denunciation of excesses of materialistic society'"
+        educational_status: "Taught in universities as key American drama example"
+        local_themes: ["Existentialist interpretation", "Anti-consumer culture critique"]
+      es:
+        cultural_impact: "Rapid transmission to Spanish theater (1952), resonates across Latin America"
+        key_editions: ["José López Rubio translation", "Multiple Latin American adaptations"]
+        reception_notes: "Early Spanish reception despite Franco dictatorship restrictions"
+        educational_status: "Studied in comparative literature and American studies programs"
+        local_themes: ["Latin American economic struggle", "Family solidarity vs materialism"]
+      pt:
+        cultural_impact: "Significant presence in Brazil and Portugal with contemporary Black cast adaptations"
+        key_editions: ["Flávio Rangel translation", "Editora Abril publications", "Contemporary WB productions"]
+        reception_notes: "Caustic critique of capitalist society with continued relevance to Brazilian social issues"
+        educational_status: "Used to teach American literature and capitalism critique"
+        local_themes: ["Brazilian economic inequality", "Cultural reinterpretation through racial lens"]
+      ja:
+        cultural_impact: "Profound resonance with salaryman culture and corporate pressure"
+        key_editions: ["Takeshi Kurahashi translation (ISBN 9784151400018)", "DARTS theater productions"]
+        reception_notes: "Mirrors Japanese corporate culture and suicide crisis among middle-aged businessmen"
+        educational_status: "Studied in American literature and business culture courses"
+        local_themes: ["Salaryman culture critique", "Japanese loss of face concepts"]
+      ko:
+        cultural_impact: "Aligns with Korean capitalism critique and Confucian family values"
+        key_editions: ["Kang Yu-na translation", "Seoul Center productions", "Bilingual YBM editions"]
+        reception_notes: "Korea ranks #1 in OECD suicide rates, themes remain deeply relevant"
+        educational_status: "Studied in American literature and social science courses"
+        local_themes: ["Confucian capitalism conflicts", "Generational achievement pressure"]
+      hi:
+        cultural_impact: "Adapted as 'Salesman Ramlal' with localized character names for Indian audiences"
+        key_editions: ["Hindi adaptation by Feroz Abbas Khan", "Bengali 'Pheriwalar Mrityu'", "Academic study materials"]
+        reception_notes: "Resonates with Indian middle-class materialism and family duty conflicts"
+        educational_status: "Included in MA English Literature syllabus at Indian universities"
+        local_themes: ["Dharma vs material pursuit", "Indian middle-class consumer culture"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context and economic systems"
+        host_b: "contemporary critic examining power dynamics and modern relevance"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Miller writing in 1949 America - booming economy hiding deep anxieties about economic security"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "How capitalism reduces human relationships to transactions - Willy's tragedy as systemic failure"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_b"
+          description: "Social media authenticity, work-life balance, mental health crisis - Miller's prophecy realized"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "global_perspectives"
+          lead: "host_a"
+          description: "From Polish transformation to Korean capitalism to Indian middle-class - universal human cost"
+      prompts:
+        host_a: "You are {male_name}, a social historian analyzing 'Death of a Salesman' through the lens of power, economics, and historical context. You examine how Miller's 1949 America - with its post-war boom and hidden anxieties - created the perfect conditions for Willy Loman's tragedy. You discuss the systematic pressures of capitalism, the myth of the American Dream, and how economic systems shape family relationships. You connect Miller's insights to broader historical patterns of industrialization and social change. Your expertise covers the political persecution Miller faced during McCarthyism and how this informed his social critique."
+        host_b: "You are {female_name}, examining 'Death of a Salesman' through the lens of contemporary power dynamics and modern social issues. You connect Willy's struggles to current debates about work-life balance, social media authenticity, toxic masculinity, and mental health in the workplace. You analyze how Miller's themes resonate globally - from Korean corporate culture to Indian middle-class pressures. You explore how the play's critique of capitalism remains urgently relevant in our era of economic inequality and social fragmentation. You bring fresh perspective on gender roles, family dysfunction, and the continuing relevance of Miller's social commentary."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["mental health themes", "political content", "family dysfunction", "economic anxiety"]
+    educational_elements: ["American theater history", "Social systems analysis", "Cross-cultural perspectives", "Historical context", "Literary innovation"]
+    production_notes:
+      intro_style: "serious, contemplative"
+      transitions: "subtle musical bridges reflecting melancholy flute theme"
+      outro_style: "thoughtful conclusion emphasizing continuing relevance"
+
+  overall_confidence: 0.91

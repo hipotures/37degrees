@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1651, morning
+    location: Small archipelago off southwest coast of Cornwall, England
+    weather: Stormy Atlantic weather with dramatic clouds
+  characters:
+  - appearance: English man, 40s, aristocratic bearing, dark hair, royalist manner, stern expression
+    clothing: 17th century Royalist military attire with ornate jacket, feathered hat, ceremonial sash
+    position: Standing on fortress walls overlooking harbor
+    action: Defiant aristocratic stance, surveying his island stronghold with determined resolve
+  scene:
+    mainElements: Rocky islands with natural harbors, lighthouse, stone fortifications, coastal cliffs
+    details: Dramatic rocky archipelago rising from Atlantic waters, stone fortress walls built into clifftops, White stone
+      lighthouse tower on rocky outcrop with beacon light, natural harbors protected by stone quays, wild Atlantic seas crashing
+      against rocks, seabirds circling overhead
+    background: Endless Atlantic Ocean stretching to horizon, Cornwall mainland barely visible in distance, storm clouds gathering
+      over rough seas
+    atmosphere: Remote maritime fortress location with dramatic Atlantic seascape and stormy skies, last Royalist stronghold
+      during Civil War, isolated outpost of royal resistance, no text or letters visible
+  composition:
+    cameraAngle: Wide establishing shot showing island fortress in Atlantic setting
+    focus: Strategic island location and its commanding position
+    depth: Fortress and character on cliffs in foreground, harbor with ships in middle ground, vast Atlantic waters in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Flight crew communicates hijacking situation with ground control"
+  setting:
+    time: "November 24, 1971, 3:25 PM"
+    location: "Boeing 727 cockpit, Flight 305 circling over Puget Sound"
+    weather: "Clear skies with good visibility over Pacific Northwest"
+  characters:
+    - appearance: "Middle-aged experienced airline pilot"
+      clothing: "Standard pilot uniform with captain's stripes and cap"
+      position: "Seated in captain's seat at flight controls"
+      action: "Speaking into radio headset while monitoring flight instruments and checking flight plan"
+  scene:
+    mainElements: "1970s aircraft cockpit with analog flight instruments, radio equipment, navigation controls, pilot and co-pilot seats, flight plan documents"
+    details: "Captain's hands on radio controls, concerned expression visible in profile, cockpit windows showing aerial view of Puget Sound below, various switches and gauges illuminated on instrument panel"
+    background: "Co-pilot seat and additional flight controls, view through cockpit windows of Pacific Northwest landscape, radio equipment and navigation systems"
+    atmosphere: "Tense professional communication with ground control while maintaining normal flight operations, focused concentration on unprecedented situation, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from side angle showing captain in profile at controls"
+    focus: "Captain's professional handling of crisis communication while maintaining aircraft control"
+    depth: "Foreground shows captain and flight controls, middle ground displays cockpit instrumentation, background reveals aerial view through windows"

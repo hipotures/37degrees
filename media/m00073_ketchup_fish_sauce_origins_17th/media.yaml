@@ -1,0 +1,11 @@
+media_info:
+  title: Ketchup Fish Sauce Origins - 17th Century
+  genre: Culinary History Documentary
+  description: Modern tomato ketchup evolved from Asian fermented fish sauce "ke-tsiap" brought to Europe by sailors
+  target_audience: General public, students, food history enthusiasts, culinary professionals
+  duration: ~3 minutes
+  objective: Recreate the surprising Asian origins of America's most popular condiment
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

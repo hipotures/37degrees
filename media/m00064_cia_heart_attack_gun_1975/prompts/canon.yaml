@@ -1,0 +1,65 @@
+canon:
+  characters:
+    - id: "character_FC"
+      name: "Character FC"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 50s, distinguished bearing, graying hair combed back, serious expression with deep-set eyes"
+            clothing: "1970s dark blue suit with thin lapels, white dress shirt, conservative patterned tie"
+            posture: "Authoritative, often leaning forward with elbows on table or holding documents"
+    - id: "character_JT"
+      name: "Character JT"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 60s, white hair, stern demeanor, weathered face with prominent jawline"
+            clothing: "1970s dark gray suit, white dress shirt, solid colored tie, American flag pin on lapel"
+            posture: "Formal, sitting upright with hands clasped or reviewing documents"
+    - id: "character_WC"
+      name: "Character WC"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 50s, thinning brown hair, intellectual appearance with wire-rimmed glasses"
+            clothing: "1970s conservative dark suit, white dress shirt, understated tie"
+            posture: "Measured and careful, often adjusting glasses or consulting notes"
+    - id: "character_ME"
+      name: "Character ME"
+      description_block: |
+        characters:
+          - appearance: "Caucasian woman, 30s, shoulder-length brown hair, focused expression, professional demeanor"
+            clothing: "1960s white lab coat over conservative blouse, minimal jewelry"
+            posture: "Precise movements, often handling laboratory equipment or examining specimens"
+  locations:
+    - id: "main_location_1"
+      name: "Senate Committee Hearing Room"
+      description_block: |
+        setting:
+          location: "US Senate Caucus Room 318, Russell Senate Office Building, Washington DC"
+        mainElements: "Curved dais with microphones for senators, witness table in center, tiered gallery seating"
+        atmosphere: "Formal government chamber with dark wood paneling, American flags, serious institutional setting"
+    - id: "main_location_2"
+      name: "CIA Laboratory Facility"
+      description_block: |
+        setting:
+          location: "Classified CIA research laboratory, Langley, Virginia"
+        mainElements: "Sterile white laboratory with chemical apparatus, specimen storage, testing equipment"
+        atmosphere: "Clinical and secretive scientific environment with fluorescent lighting and security protocols"
+    - id: "main_location_3"
+      name: "White House Oval Office"
+      description_block: |
+        setting:
+          location: "Oval Office, White House, Washington DC"
+        mainElements: "Presidential desk, American flag, presidential seal, formal seating area"
+        atmosphere: "Seat of executive power with traditional decor and formal governmental authority"
+  items:
+    - id: "key_item_1"
+      name: "Heart Attack Gun"
+      description_block: |
+        details: "Modified Colt M1911 pistol with telescopic scope mounted on top, electrical battery attachment, specialized firing mechanism for frozen darts rather than bullets"
+    - id: "key_item_2"
+      name: "Saxitoxin Dart"
+      description_block: |
+        details: "Hair-thin frozen projectile, quarter-inch long, containing shellfish toxin that disintegrates on contact leaving no trace"
+    - id: "key_item_3"
+      name: "Congressional Documents"
+      description_block: |
+        details: "Official hearing transcripts, CIA classification stamps, investigative reports in manila folders with government seals"

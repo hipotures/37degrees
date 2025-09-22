@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Investigation of Mary Celeste Cargo Hold - December 5, 1872"
+  setting:
+    time: "December 5, 1872, morning investigation hours"
+    location: "Ship's cargo compartment below deck, wooden construction with low overhead clearance and supporting beams"
+    weather: "Cold December conditions with ship gently rocking in Atlantic swells"
+  characters:
+    - appearance: "Experienced sailor in his 30s, strong build necessary for boarding operations, practical seaman's attire"
+      clothing: "Heavy wool peacoat, waterproof oilskins, sturdy sea boots, knit cap, equipped with maritime tools"
+      position: "Crouched in cargo hold examining broken barrels and water damage"
+      action: "Investigating alcohol barrel damage and measuring water levels with sounding equipment"
+  scene:
+    mainElements: "Rows of 1,701 wooden barrels containing industrial alcohol, 6 barrels with broken seals and leaked contents creating pools on floor, 3.5 feet of seawater in bilge mixing with alcohol, disassembled pump components scattered nearby"
+    details: "Wooden barrels approximately 3 feet high and 2 feet diameter with iron hoops, denatured ethanol valued at $37,000 still mostly intact, 300 gallons leaked creating strong alcohol vapors, mechanical bilge pump with brass and iron components found disassembled and non-functional, ship's supporting beams showing water damage but structural integrity maintained, oil lamp providing flickering light in cramped conditions"
+    background: "Rows of intact barrels extending into darkness of ship's hold, wooden ship construction with curved hull visible, water-stained wooden planking from bilge flooding, ship's ribs and structural supports creating geometric patterns"
+    atmosphere: "Strong alcohol vapors mixing with damp wooden smell and seawater, cramped conditions with poor lighting from deck hatches above, sense of hidden danger from alcohol fumes, growing mystery about why crew abandoned seaworthy vessel with valuable cargo intact"
+  composition:
+    cameraAngle: "Low angle shot from within cargo hold showing investigator examining barrel damage"
+    focus: "Broken alcohol barrels and investigating crew member as central focal points"
+    depth: "Foreground shows detailed barrel damage and leaked alcohol pools, middle ground captures crew member's investigation, background reveals rows of intact barrels extending into ship's hold darkness, no text or letters visible"

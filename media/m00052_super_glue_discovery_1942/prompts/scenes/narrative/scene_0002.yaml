@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Gun Sight Development Project Introduction"
+  setting:
+    time: "1942, afternoon"
+    location: "Specialized optical testing area within Eastman Kodak laboratory"
+    weather: "Overcast afternoon, diffused light through laboratory windows"
+  characters:
+    - appearance: "Caucasian man, 25 years old, dark brown hair, medium build, focused expression, intelligent eyes behind wire-rimmed glasses"
+      clothing: "1940s white laboratory coat over dark suit and tie, black leather shoes"
+      position: "Seated at optical testing workbench, leaning forward with concentration"
+      action: "Examining gun sight prototypes through magnifying equipment and testing transparency of materials"
+    - appearance: "Caucasian man, 30s, light brown hair, tall and lanky, serious demeanor"
+      clothing: "White laboratory coat over brown trousers and light blue shirt, no tie"
+      position: "Standing attentively nearby, holding clipboard or laboratory notes"
+      action: "Taking detailed notes while observing the optical testing procedures"
+  scene:
+    mainElements: "Workbench with optical testing equipment, refractometers, lens grinding tools, glass samples, and clear plastic prototypes"
+    details: "Metal frame gun sight prototypes with clear plastic lens components designed for military aircraft targeting systems, lightweight aluminum construction, various glass and plastic samples arranged for comparison testing, precision measuring instruments, magnifying lenses on adjustable arms"
+    background: "Laboratory shelves lined with optical components and testing materials, charts showing optical specifications, window providing natural light for transparency testing"
+    atmosphere: "Precise and methodical workspace dedicated to transparency and optical clarity experiments, focused scientific collaboration, no text or letters visible"
+  composition:
+    cameraAngle: "Medium close-up from side angle"
+    focus: "Character HC examining gun sight prototype with optical equipment while assistant observes"
+    depth: "Foreground shows hands manipulating optical testing equipment, middle ground displays characters and gun sight prototypes, background reveals laboratory shelving and materials"

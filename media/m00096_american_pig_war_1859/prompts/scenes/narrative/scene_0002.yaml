@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Frontier Homestead - American Settlement"
+  setting:
+    time: "June 1859, midday"
+    location: "Cleared farmland on San Juan Island with vegetable garden"
+    weather: "Sunny day with gentle breeze"
+  characters:
+    - appearance: "American man, 40s, weathered face from frontier life, brown beard, stocky farmer build"
+      clothing: "Rough wool shirt, canvas trousers, wide-brimmed hat, leather boots caked with mud"
+      position: "Working in vegetable garden"
+      action: "Tending potato plants, holding farming tools, checking crop growth"
+  scene:
+    mainElements: "Log cabin, split-rail fences, potato garden, cleared fields from forest"
+    details: "Rustic log cabin with stone chimney, vegetable garden with neat rows of potato plants, split-rail wooden fences marking property boundaries, cleared fields surrounded by Pacific Northwest forest, farming tools leaning against cabin wall, water barrel beside front door"
+    background: "Dense forest of tall Douglas fir and cedar trees, distant view of island coastline, blue sky with scattered clouds"
+    atmosphere: "Isolated frontier homestead carved from wilderness, self-sufficient pioneer life, peaceful agricultural setting before international incident, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing homestead and farming activity"
+    focus: "Pioneer farming life and established homestead"
+    depth: "Farmer and garden in foreground, log cabin in middle ground, forest wilderness in background"

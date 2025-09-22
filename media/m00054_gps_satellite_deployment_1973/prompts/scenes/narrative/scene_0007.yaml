@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "GPS Satellite Constellation in Earth Orbit - 1982"
+  setting:
+    time: "1982, orbital view above Earth"
+    location: "Medium Earth orbit, 12,550 miles above Earth surface"
+    weather: "Space environment with Earth's atmosphere visible below"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Block I GPS satellite with distinctive solar panel arrays, cylindrical body with antennas, gold thermal blankets orbiting above Earth, multiple satellites visible in constellation formation"
+    details: "GPS satellite showing detailed construction with extended solar arrays, navigation antennas, atomic clock housing, thermal protection systems, Earth's curvature visible below with continental outlines, space environment with star field, no text or letters visible"
+    background: "Earth's surface showing North American continent with cloud formations, deep space with distant stars, orbital mechanics demonstrating satellite spacing and coverage patterns"
+    atmosphere: "Vast scale of space with Earth below, technological achievement of precise orbital positioning, silent operation of navigation constellation in space"
+  composition:
+    cameraAngle: "Orbital view from space showing satellite above Earth"
+    focus: "GPS satellite in operational orbit with Earth as backdrop"
+    depth: "Satellite in foreground, Earth's surface in middle ground, space and stars in background"

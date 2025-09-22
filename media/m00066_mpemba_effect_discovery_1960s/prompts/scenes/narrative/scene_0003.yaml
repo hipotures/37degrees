@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Physics Teacher's Dismissal - Impossible Observation"
+  setting:
+    time: "1963, next day morning"
+    location: "Physics classroom, Magamba Secondary School, Tanzania"
+    weather: "Bright morning sunlight"
+  characters:
+    - appearance: "Young African male, 13-17 years old, slender build, curious dark eyes, short dark hair"
+      clothing: "1960s Tanzanian school uniform - white short-sleeved shirt, dark shorts, simple brown leather shoes"
+      position: "Standing beside desk, facing teacher with eager expression"
+      action: "Gesturing enthusiastically while explaining his ice cream observation to the teacher"
+    - appearance: "African man, 30s, average build, serious expression, neat appearance"
+      clothing: "1960s teacher attire - white long-sleeved shirt, dark tie, dark trousers, polished black shoes"
+      position: "Standing behind teacher's desk with arms crossed"
+      action: "Shaking head dismissively, pointing at blackboard with physics formulas about heat transfer"
+    - appearance: "Group of African teenagers, mixed ages 13-16, various builds and heights"
+      clothing: "1960s Tanzanian school uniforms - white shirts, dark shorts/skirts, simple shoes"
+      position: "Seated at wooden desks throughout classroom"
+      action: "Some listening intently, others whispering and giggling at the exchange between student and teacher"
+  scene:
+    mainElements: "Simple classroom with wooden desks, blackboard with physics equations about thermodynamics and heat transfer"
+    details: "Blackboard shows diagrams of heat flow and temperature equations. Physics textbooks and basic equipment visible on shelves. Morning sunlight streams through windows creating geometric patterns on floor. Teacher's expression shows skepticism and authority while student maintains eager curiosity despite dismissal, no text or letters visible"
+    background: "School building interior with concrete walls painted white, simple wooden furniture, tropical setting visible through windows"
+    atmosphere: "Tension between scientific curiosity and academic authority, moment where established knowledge clashes with empirical observation"
+  composition:
+    cameraAngle: "Wide shot from back of classroom"
+    focus: "Student and teacher face-off with blackboard equations between them"
+    depth: "Foreground shows student desks and watching classmates, middle ground captures main interaction, background displays educational materials and windows"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Return to Fishing Spot After Rejection"
+  setting:
+    time: "August 12, 1983, 1:45 AM"
+    location: "Basingstoke Canal fishing spot near Government Bridge"
+    weather: "Clear night, no precipitation, mild August temperature"
+  characters:
+    - appearance: "77-year-old man, medium build, weathered face with military bearing, graying hair, wearing practical fishing attire"
+      clothing: "Dark woolen coat, wellington boots, flat cap, carrying fishing equipment and thermos flask"
+      position: "Returning to fishing spot, approaching abandoned equipment"
+      action: "Walking calmly back to fishing position, picking up cold metal tea cup"
+    - appearance: "Small dog, breed unspecified, now calming down but still alert"
+      clothing: "Natural fur coat, collar visible"
+      position: "Beside fishing spot where equipment was left"
+      action: "Waiting anxiously for master's return, still showing residual agitation from encounter"
+  scene:
+    mainElements: "Fishing equipment exactly as left, rod still in water, tackle box open, thermos flask and cold tea cup, witness returning with calm composure"
+    details: "Character AB returning to his fishing spot after extraordinary encounter, picking up metal tea cup that went cold during his absence aboard craft. Fishing rod still positioned in canal water where he left it, tackle box open with equipment arranged as before. Tiny the dog showing relief at master's return but still nervous from recent events. All fishing gear undisturbed during absence"
+    background: "Basingstoke Canal with still water, Government Bridge structure overhead, military installations visible in distance, craft now departed from towpath"
+    atmosphere: "Return to normalcy after extraordinary experience, mundane fishing scene resumed, cold tea indicating real passage of time during encounter, witness's unshakeable composure despite unprecedented experience, sense of isolation with only dog as companion to unusual events, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing witness returning to normal fishing activity"
+    focus: "Character AB picking up cold tea cup while dog shows relief at his return"
+    depth: "Returning witness and fishing equipment in foreground, calm canal water in middle ground, bridge and military context in background"

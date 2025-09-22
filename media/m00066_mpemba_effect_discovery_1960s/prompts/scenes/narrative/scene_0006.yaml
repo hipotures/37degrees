@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "University Laboratory Investigation Begins"
+  setting:
+    time: "1966, evening"
+    location: "Physics laboratory, University College Dar es Salaam, Tanzania"
+    weather: "Clear evening"
+  characters:
+    - appearance: "Caucasian man, 40s, medium build, graying hair, kind eyes behind wire-rimmed glasses"
+      clothing: "1960s academic attire - light colored shirt, dark tie, khaki trousers, leather shoes"
+      position: "Standing at laboratory workbench with scientific equipment"
+      action: "Carefully setting up experiment with two identical containers and thermometers"
+  scene:
+    mainElements: "Modern 1960s university physics laboratory with well-equipped scientific workbenches and instruments"
+    details: "Scientific workbenches with precise thermometers, identical clear glass containers, measurement tools, and freezing equipment. Laboratory shows advanced instruments compared to school setting. Professor works methodically, preparing to test the student's counterintuitive claim. Glass thermometers with mercury for accurate temperature readings. Professional environment with controlled conditions for proper scientific investigation, no text or letters visible"
+    background: "University laboratory with modern equipment, fluorescent lighting, and scientific charts on walls"
+    atmosphere: "Serious scientific investigation begins, professional academic environment where empirical testing will validate or disprove student observation"
+  composition:
+    cameraAngle: "Medium shot from side of workbench"
+    focus: "Professor's careful preparation of experimental setup with identical containers"
+    depth: "Foreground shows detailed experimental apparatus, middle ground captures scientist's methodical work, background reveals professional laboratory setting"

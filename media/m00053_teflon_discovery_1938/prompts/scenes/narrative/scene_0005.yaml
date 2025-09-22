@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Critical Moment - Gas Valve Opening Attempt"
+  setting:
+    time: "April 6, 1938, mid-morning"
+    location: "Main laboratory workbench, DuPont Jackson Laboratory"
+    weather: "Clear spring morning with steady natural light"
+  characters:
+    - appearance: "Caucasian man, early 30s, slender build, intelligent dark eyes, carefully combed dark hair"
+      clothing: "1930s white lab coat over dress shirt and tie, or casual suit with vest"
+      position: "Leaning over workbench with hand on gas cylinder valve"
+      action: "Attempting to open valve on TFE gas cylinder, showing concentration and slight puzzlement as no gas emerges"
+    - appearance: "Caucasian man, 30s, medium build, alert expression, short brown hair"
+      clothing: "1930s white lab coat over dress shirt, or work clothes with suspenders"
+      position: "Standing close by watching the valve operation"
+      action: "Observing the unexpected lack of gas flow and checking pressure connections"
+  scene:
+    mainElements: "Wooden laboratory bench with glass apparatus, measurement tools, chemical containers"
+    details: "Small metal pressure cylinder positioned on workbench, steel gray color with valve mechanism at top, approximately 12 inches tall, character's hand positioned on valve showing it in open position, gas manifold and reaction apparatus ready to receive gas but showing no flow, pressure gauges indicating zero pressure despite cylinder appearing full by weight, glass apparatus positioned and waiting, laboratory instruments arranged around workspace, no text or letters visible"
+    background: "Laboratory equipment and shelving, other experimental setups visible, windows providing natural lighting"
+    atmosphere: "Active research workspace with good lighting, organized tools and equipment"
+  composition:
+    cameraAngle: "Close-up shot focusing on the crucial moment of valve operation and characters' reactions"
+    focus: "Gas cylinder valve and characters' concentrated expressions as they encounter the unexpected problem"
+    depth: "Foreground shows detailed cylinder and valve mechanism, middle ground features both characters' focused attention, background reveals laboratory setting, no text or letters visible"

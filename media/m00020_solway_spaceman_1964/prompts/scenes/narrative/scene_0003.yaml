@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Family Arrival at the Remote Marshland"
+  setting:
+    time: "May 23, 1964, afternoon"
+    location: "Flat, open marshland overlooking the Solway Firth, near Burgh by Sands, Cumberland, England"
+    weather: "Clear, sunny day with excellent visibility"
+  characters:
+    - appearance: "44 years old, average height and build, thinning brown hair, weathered face typical of outdoor worker, steady hands from firefighting experience"
+      clothing: "Casual weekend attire - light shirt, dark trousers, practical shoes suitable for marsh walking"
+      position: "Walking ahead with camera bag slung over shoulder"
+      action: "Surveying the marshland for ideal photography locations, testing light conditions"
+    - appearance: "35 years old, dark bobbed hair, medium build, 5'4 height"
+      clothing: "Pale blue dress that appears white when overexposed in photographs"
+      position: "Walking alongside daughter, carrying picnic supplies"
+      action: "Supporting family outing, enjoying the peaceful countryside setting"
+    - appearance: "5 years old, blonde hair, small for her age, cheerful expression"
+      clothing: "White or very light colored summer dress with short sleeves"
+      position: "Walking between parents on grassy path"
+      action: "Skipping and exploring the natural environment with childlike wonder"
+  scene:
+    mainElements: "Wide expanse of grass and marsh stretching toward the water, scattered mature trees dotting the landscape, distant rolling hills forming the horizon"
+    details: "Family completely alone in the vast marshland, perfect photography conditions with excellent natural lighting, sense of isolation emphasized by empty landscape, worn footpaths indicating this area sees occasional visitors, no text or letters visible"
+    background: "Clear views across the Solway Firth to Scottish hills in the distance, pristine sky"
+    atmosphere: "Remote, peaceful rural setting with sense of family togetherness and anticipation for photography session"
+  composition:
+    cameraAngle: "Wide shot showing family in the expansive landscape"
+    focus: "The approaching family emphasizing their isolation in the vast marsh"
+    depth: "Foreground shows detailed marsh vegetation, middle ground features the walking family, background displays the dramatic landscape vista"

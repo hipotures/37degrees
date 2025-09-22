@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Arrival at Basingstoke Canal Fishing Spot"
+  setting:
+    time: "August 12, 1983, 1:00 AM"
+    location: "Basingstoke Canal near Government Bridge, Aldershot, Hampshire, England"
+    weather: "Clear night, no precipitation, mild August temperature"
+  characters:
+    - appearance: "77-year-old man, medium build, weathered face with military bearing, graying hair, wearing practical fishing attire"
+      clothing: "Dark woolen coat, wellington boots, flat cap, carrying fishing equipment and thermos flask"
+      position: "Walking along canal towpath toward preferred fishing spot"
+      action: "Checking time against nearby army barracks clock, surveying fishing location with practiced eye"
+    - appearance: "Small dog, breed unspecified, alert and following master"
+      clothing: "Natural fur coat, collar visible"
+      position: "Trotting alongside elderly man on towpath"
+      action: "Following master obediently, occasionally sniffing around canal bank"
+  scene:
+    mainElements: "Quiet canal towpath with still water reflecting distant lights, Government Bridge overhead, fishing equipment being carried, military fence lines nearby, tree-lined waterway"
+    details: "Basingstoke Canal with dark still water, concrete Government Bridge structure spanning canal, military installations visible in distance, towpath suitable for fishing access, canal banks with established fishing spots. Character AB examining his preferred fishing location with military precision, tiny the dog exploring scents along the waterway"
+    background: "Aldershot military district lights, dark treeline along canal, distant military barracks, Hampshire countryside, bridge structure above"
+    atmosphere: "Peaceful early morning darkness, still water, occasional military aircraft noise, isolated fishing spot near Britain's primary military town, sense of routine night fishing expedition, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from canal bank, showing bridge and military context"
+    focus: "Elderly fisherman and dog arriving at fishing location beneath Government Bridge"
+    depth: "Canal and towpath in foreground, bridge structure in middle ground, military installations and lights in background"

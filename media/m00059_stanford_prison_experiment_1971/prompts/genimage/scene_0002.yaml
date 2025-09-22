@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: August 14, 1971, mid-morning
+    location: Middle-class suburban home, Palo Alto, California
+    weather: Sunny California morning with clear skies
+  characters:
+  - appearance: Caucasian man, 30s, uniformed police officer, serious professional demeanor
+    clothing: 1970s police uniform, badge, utility belt with handcuffs, police cap
+    position: Standing at front door of suburban home
+    action: Placing handcuffs on shocked college student while reading rights from official procedure card
+  - appearance: Caucasian man, early 20s, average build, submissive expression, downcast eyes
+    clothing: Casual 1970s civilian clothes, jeans and t-shirt, suddenly looking disheveled
+    position: Standing in doorway with hands behind back being restrained
+    action: Looking confused and startled as handcuffs are applied, neighbors beginning to watch
+  scene:
+    mainElements: Suburban front porch with police officer conducting official arrest procedure on unsuspecting participant
+      while neighbors emerge from nearby houses to observe commotion
+    details: Police handcuffs being applied, official police procedures documentation held by officer, participant's shocked
+      facial expression, front door of middle-class home standing open, mail visible in mailbox, house numbers displayed,
+      police car parked at curb with door open
+    background: Typical 1970s suburban neighborhood with similar houses, driveways, front lawns, curious neighbors beginning
+      to appear in doorways and windows, tree-lined street with morning shadows
+    atmosphere: Sudden disruption of peaceful suburban morning creating shock and confusion, official police authority contrasting
+      with domestic setting, mounting neighborhood curiosity and concern
+  composition:
+    cameraAngle: Medium wide shot capturing both characters and suburban setting
+    focus: Police officer applying handcuffs to participant with house and neighborhood visible behind them
+    depth: Foreground shows arrest procedure with handcuffs and official documents, middle ground focuses on characters at
+      doorway, background reveals suburban neighborhood with emerging onlookers, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

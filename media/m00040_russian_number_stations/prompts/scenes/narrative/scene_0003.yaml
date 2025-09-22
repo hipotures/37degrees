@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Cryptographic Analysis Laboratory"
+  setting:
+    time: "1990s, afternoon"
+    location: "University cryptography research laboratory"
+    weather: "Overcast day with natural light filtering through windows"
+  characters:
+    - appearance: "40s Asian-American woman, precise movements, intense focus"
+      clothing: "Professional academic attire, always carries recording equipment"
+      position: "Standing before whiteboard covered with mathematical equations and cipher analysis"
+      action: "Examining decoded message fragments while holding recording equipment and taking detailed notes"
+  scene:
+    mainElements: "Small notepad with random number sequences, approximately 4x6 inches, pages designed to be torn off after single use, waterproof ink"
+    details: "Whiteboard filled with cryptographic formulas and frequency analysis charts, computer displaying waveform patterns, stacks of academic papers, recording equipment for capturing audio samples, mathematical reference books open to encryption chapters, calculator showing statistical probabilities"
+    background: "University laboratory setting with fluorescent lighting, computer workstations, shelves of technical manuals, academic certificates on walls"
+    atmosphere: "Bright analytical environment focused on mathematical precision and scientific methodology, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from laboratory entrance"
+    focus: "Cryptographer analyzing one-time pad while mathematical equations fill whiteboard behind her"
+    depth: "Foreground shows cryptographic materials on desk, middle ground reveals researcher at work, background displays laboratory equipment and analysis tools"

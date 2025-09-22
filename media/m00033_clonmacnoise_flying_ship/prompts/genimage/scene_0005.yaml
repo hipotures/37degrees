@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: 748 CE, Sunday morning during Mass
+    location: Church entrance archway at Clonmacnoise
+    weather: Clear morning light illuminating stone arch
+  characters: No characters present in this scene
+  scene:
+    mainElements: Romanesque stone arch over main church entrance, carved Celtic details, strong enough to catch anchor, shows
+      wear from age and weather. Traditional Celtic anchor design, bronze construction, one fluke caught in stone church arch,
+      weathered surface with foreign metalwork techniques.
+    details: Bronze anchor firmly lodged in stone archway of church entrance. One fluke wedged securely between carved stones
+      of Romanesque arch. Rope extending upward from anchor, taut under tension from weight above. Celtic carvings on both
+      anchor and stone arch showing different craftsmanship traditions. Anchor's bronze surface gleaming against gray weathered
+      stone. Stone showing stress marks where anchor caught. Foreign metalwork techniques visible in anchor's construction
+      compared to local Irish work.
+    background: Church interior visible through archway, monastery grounds beyond, other buildings of Clonmacnoise complex
+    atmosphere: Moment of supernatural collision between earthly and celestial realms, tension in rope suggesting great weight
+      above, anticipation of what will happen next, no text or letters visible
+  composition:
+    cameraAngle: Close-up shot focused on anchor caught in stone archway
+    focus: The impossible anchor wedged firmly in church entrance with rope extending skyward
+    depth: Foreground shows detailed anchor and stone carving, middle ground reveals taut rope, background displays church
+      interior and grounds
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

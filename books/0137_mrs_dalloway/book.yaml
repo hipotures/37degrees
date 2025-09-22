@@ -4,3 +4,182 @@ book_info:
   author: "Virginia Woolf"
   year: 1925
   genre: "Modernist,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T15:25:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 8
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 8
+    social_roles: 8
+    total: 65
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "stream_consciousness"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Revolutionary stream of consciousness technique with Clarissa and Septimus as psychological doubles"
+        source: "symbols_meanings"
+      - id: "war_trauma"
+        type: "FACT"
+        credibility: 0.95
+        content: "First literary depiction of PTSD through Septimus Warren Smith, criticism of psychiatric treatment"
+        source: "dark_drama"
+      - id: "feminist_critique"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Examination of women's limited roles, marriage constraints, and hidden lesbian relationship with Sally"
+        source: "symbols_meanings"
+      - id: "social_class"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Sharp critique of British establishment and class system through Westminster society"
+        source: "culture_impact"
+      - id: "time_consciousness"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Bergsonian concepts of subjective time versus mechanical Big Ben time"
+        source: "writing_innovation"
+      - id: "mental_health_prophecy"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Predicted modern understanding of trauma therapy and mindfulness decades ahead"
+        source: "reality_wisdom"
+      - id: "modernist_revolution"
+        type: "FACT"
+        credibility: 0.95
+        content: "Alongside Joyce, revolutionized novel form and influenced countless writers"
+        source: "writing_innovation"
+      - id: "death_communication"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Septimus's suicide as attempt at communication and preservation of soul"
+        source: "symbols_meanings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical modernist text with extensive academic tradition, central to English literature curriculum"
+        key_editions: ["Norton Critical Edition", "Oxford World's Classics", "Penguin English Library"]
+        reception_notes: "Widely taught in universities, multiple film adaptations, influenced by and influences contemporary writers"
+        educational_status: "Essential reading in English literature programs"
+        local_themes: ["Modernist innovation", "Post-WWI British society", "Literary canon formation"]
+
+      pl:
+        cultural_impact: "Two major translations spanning 60+ years, first theatrical adaptation in Warsaw Dramatic Theatre"
+        key_editions: ["PIW Tarnowska translation (1961)", "Znak Heydel translation (2023)"]
+        reception_notes: "School reading material, significant translation challenges with stream of consciousness"
+        educational_status: "High school and university literature curriculum"
+        local_themes: ["Translation theory", "Modernist prose in Polish", "European literary modernism"]
+
+      de:
+        cultural_impact: "Early Tauchnitz edition 1929, strong philosophical interpretations through German phenomenology"
+        key_editions: ["S. Fischer Verlag", "Reclam classics series"]
+        reception_notes: "Analyzed through Heidegger, Bergson, and Freudian frameworks, influenced Christa Wolf"
+        educational_status: "Advanced English literature study in Gymnasium"
+        local_themes: ["Phenomenological interpretation", "Trauma psychology", "German modernist influence"]
+
+      fr:
+        cultural_impact: "Part of European modernist canon, significant for Bergson temporal philosophy connections"
+        key_editions: ["French academic editions", "Gallimard collections"]
+        reception_notes: "Studied alongside Proust and Joyce in modernist literature courses"
+        educational_status: "University comparative literature programs"
+        local_themes: ["Bergson duration theory", "European modernism", "Psychological realism"]
+
+      es:
+        cultural_impact: "Global literature studies, stream of consciousness techniques in Spanish modernism"
+        key_editions: ["Academic Spanish translations", "Universidad press editions"]
+        reception_notes: "Comparative literature programs, influence on Latin American writers"
+        educational_status: "University world literature curriculum"
+        local_themes: ["Narrative innovation", "Psychological fiction", "Women's literature"]
+
+      pt:
+        cultural_impact: "Modernist literature studies in Brazil and Portugal, academic translations available"
+        key_editions: ["Brazilian university press", "Portuguese academic editions"]
+        reception_notes: "Comparative modernist studies, influence on Brazilian women writers"
+        educational_status: "Graduate literature programs"
+        local_themes: ["Modernist techniques", "Women's consciousness", "Psychological narrative"]
+
+      ja:
+        cultural_impact: "World literature curriculum, stream of consciousness technique studies"
+        key_editions: ["Japanese academic translations", "University press editions"]
+        reception_notes: "Comparative literature programs, modernist technique analysis"
+        educational_status: "University English and comparative literature"
+        local_themes: ["Narrative innovation", "Western modernism", "Psychological fiction"]
+
+      ko:
+        cultural_impact: "Contemporary interest in modernist literature, university-level literary studies"
+        key_editions: ["Korean academic translations", "University publications"]
+        reception_notes: "Comparative literature and women's studies programs"
+        educational_status: "University literature departments"
+        local_themes: ["Modern narrative forms", "Women's psychology", "Western literary influence"]
+
+      hi:
+        cultural_impact: "English literature curriculum in Indian universities, postcolonial reading contexts"
+        key_editions: ["Indian university press", "Delhi academic editions"]
+        reception_notes: "Colonial literature studies, empire critique through Peter Walsh character"
+        educational_status: "BA and MA English literature programs"
+        local_themes: ["Colonial discourse", "Empire psychology", "Modernist techniques"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "modernist_revolution"
+          lead: "host_a"
+          description: "Virginia Woolf's revolutionary stream of consciousness technique and place in literary modernism"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "psychological_doubles"
+          lead: "host_b"
+          description: "Clarissa and Septimus as psychological twins - parallel consciousness and shared trauma"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "time_philosophy"
+          lead: "host_a"
+          description: "Bergson's durée versus Big Ben's mechanical time - philosophical exploration of temporality"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "trauma_analysis"
+          lead: "host_b"
+          description: "First literary PTSD depiction and critique of 1920s psychiatric treatment through Septimus"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "feminist_framework"
+          lead: "host_a"
+          description: "Social constraints on women, hidden lesbian themes, and critique of patriarchal marriage"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'Mrs Dalloway' with scholarly depth. Discuss Woolf's revolutionary stream of consciousness technique, her philosophical approach to time and consciousness, and the work's feminist underpinnings. Connect to broader modernist movement and academic frameworks. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student in English literature. Ask for clarification on complex concepts, request examples from the text, connect Woolf's innovations to contemporary understanding of trauma and psychology. Ensure accessibility for general audiences while maintaining scholarly rigor."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["war trauma and PTSD", "suicide", "mental health issues", "discussion of historical racism/antisemitism"]
+    educational_elements: ["modernist literature techniques", "stream of consciousness analysis", "WWI historical context", "early feminist theory", "psychological realism"]
+    production_notes:
+      intro_style: "Literary modernism focus with Big Ben chimes"
+      transitions: "Clock chimes and flowing water sounds"
+      outro_style: "Reflective conclusion on lasting influence"
+
+  overall_confidence: 0.9

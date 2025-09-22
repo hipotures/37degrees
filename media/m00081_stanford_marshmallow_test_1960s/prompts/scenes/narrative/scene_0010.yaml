@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Legacy of Discovery - Research that Changed Psychology"
+  setting:
+    time: "1968, late afternoon, natural light"
+    location: "Stanford University campus grounds, California, Spanish mission-style architecture with palm trees"
+    weather: "Clear California evening with golden hour lighting"
+  characters:
+    - appearance: "Caucasian man, 40s, slender build, dark hair, thoughtful eyes, intellectual appearance"
+      clothing: "1960s academic attire: brown tweed jacket with elbow patches, white dress shirt, dark tie, dress pants"
+      position: "Walking across campus with research materials"
+      action: "Carrying completed experimental data and clipboard, reflecting on day's groundbreaking research that will influence psychology for decades"
+    - appearance: "Caucasian man, 30s, medium build, neat appearance, academic colleague"
+      clothing: "1960s professional wear: dark suit jacket, white shirt, thin tie, dress pants"
+      position: "Walking alongside primary researcher"
+      action: "Discussing experimental results, carrying recording equipment and additional research materials from the historic testing sessions"
+  scene:
+    mainElements: "Two researchers departing Stanford campus after conducting experiment that will become legendary in psychology, campus architecture in golden hour light"
+    details: "Research clipboards and materials from completed marshmallow experiments, Spanish mission architecture of Stanford campus, palm trees in warm California light, sense of accomplished groundbreaking work"
+    background: "Stanford University buildings in late afternoon light, other faculty and students on campus, mountains visible in distance, academic environment"
+    atmosphere: "Completion of research that will revolutionize understanding of self-control and predict life success, historic moment in psychology concluding, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing researchers departing in golden hour light"
+    focus: "Two researchers with completed experimental materials, Stanford campus as impressive backdrop"
+    depth: "Foreground: researchers with materials from historic experiment, middle: campus walkway and architecture, background: distant Stanford buildings and California landscape"

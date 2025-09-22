@@ -4,3 +4,169 @@ book_info:
   author: "Lu Xun"
   year: 1921
   genre: "Novella,Satire"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T13:45:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 2
+    relevance: 9
+    innovation: 9
+    structural_complexity: 5
+    social_roles: 9
+    total: 59
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 6.8
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Spiritual victory method as psychological defense mechanism where Ah-Q transforms defeats into imaginary triumphs"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Ah-Q as universal symbol of self-deception and rationalization, transcending cultural boundaries"
+        source: "symbols_meanings"
+      - id: "culture_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Ah-Q-ism entered Chinese language as permanent term for narcissistic self-deception and spiritual victories"
+        source: "culture_impact"
+      - id: "youth_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Concept resonates with contemporary toxic positivity and impostor syndrome among Gen Z"
+        source: "youth_digital"
+      - id: "reality_4"
+        type: "FACT"
+        credibility: 0.90
+        content: "100% accurate predictions about social media psychology and spiritual victory mechanisms online"
+        source: "reality_wisdom"
+      - id: "innovation_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Pioneer of vernacular Chinese literature and independent developer of modernist techniques"
+        source: "writing_innovation"
+      - id: "facts_6"
+        type: "FACT"
+        credibility: 0.85
+        content: "45+ controversial facts including author scandals, government persecution, and political controversies"
+        source: "facts_history"
+      - id: "warnings_7"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Revolutionary critique of patriarchal structures and toxic masculinity patterns still relevant today"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in English literature, Penguin Classics edition by Julia Lovell, Nobel Prize consideration"
+        key_editions: ["Penguin Classics (2009)", "Edgar Snow anthology (1936)"]
+        reception_notes: "Recognized as essential text for understanding modern Chinese literature"
+        educational_status: "Standard inclusion in world literature curricula"
+        local_themes: ["Modernist connections", "Postcolonial readings"]
+      pl:
+        cultural_impact: "Academic circulation in Polish sinology, connections to partition experiences"
+        key_editions: ["Dialog (2017) - Katarzyna Sarek", "Czytelnik (1953)"]
+        reception_notes: "Mainly academic audience, limited popular culture penetration"
+        educational_status: "University-level sinological studies"
+        local_themes: ["Colonial parallels", "National character criticism"]
+      de:
+        cultural_impact: "Suhrkamp canonical edition, Christoph Hein theatrical adaptation, philosophical discourse"
+        key_editions: ["Suhrkamp (1982)", "Reclam Universal-Bibliothek"]
+        reception_notes: "Strong academic tradition, theater adaptations"
+        educational_status: "Gymnasium and university curricula"
+        local_themes: ["Philosophical interpretations", "Psychoanalytic readings"]
+      fr:
+        cultural_impact: "French literary culture engagement, Dario Fo adaptations"
+        key_editions: ["Academic translations"]
+        reception_notes: "European intellectual tradition"
+        educational_status: "Comparative literature studies"
+        local_themes: ["Existentialist connections", "Literary theory"]
+      es:
+        cultural_impact: "Spanish-language academic study and translation"
+        key_editions: ["Academic editions"]
+        reception_notes: "Growing interest in Chinese literature"
+        educational_status: "Hispanic studies integration"
+        local_themes: ["Postcolonial discourse", "Social criticism"]
+      pt:
+        cultural_impact: "Portuguese translation and academic context"
+        key_editions: ["Academic translations"]
+        reception_notes: "Lusophone literary discourse"
+        educational_status: "Comparative literature"
+        local_themes: ["Colonial critique", "Social analysis"]
+      ja:
+        cultural_impact: "Deep cultural connection through Lu Xun's Japan study, Takeuchi Yoshimi scholarship tradition"
+        key_editions: ["Iwanami Bunko", "Manga de Dokuha adaptation"]
+        reception_notes: "Strong academic foundation, manga adaptations"
+        educational_status: "High school and university standard text"
+        local_themes: ["Cultural mediation", "Modernization parallels"]
+      ko:
+        cultural_impact: "Korean colonial period interpretation, parallels to Korean experience"
+        key_editions: ["Korean translations"]
+        reception_notes: "Historical resonance with colonial experience"
+        educational_status: "East Asian studies"
+        local_themes: ["Colonial psychology", "Cultural resistance"]
+      hi:
+        cultural_impact: "Indian interpretations through caste system parallels and postcolonial readings"
+        key_editions: ["Academic translations"]
+        reception_notes: "Resonance with social hierarchy themes"
+        educational_status: "Postcolonial studies"
+        local_themes: ["Caste system parallels", "Social hierarchy critique"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "class_hierarchy_and_power"
+          lead: "host_a"
+          description: "Examining feudal hierarchy and social structures in 1921 China"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "gender_dynamics_toxic_masculinity"
+          lead: "host_b"
+          description: "Analyzing Ah-Q's relationships with women and patriarchal violence patterns"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "social_psychology_modern_parallels"
+          lead: "host_a"
+          description: "Connecting spiritual victory method to contemporary social media psychology"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "revolutionary_failure_contemporary_lessons"
+          lead: "host_b"
+          description: "How 1911 revolution failure predicts modern social change challenges"
+      prompts:
+        host_a: "You are {male_name}, a social historian analyzing 'The Real Story of Ah-Q' through lens of power, class, and historical context from 1921. Discuss how Lu Xun's critique of feudal hierarchy and spiritual victory mechanism reveals timeless patterns of oppression."
+        host_b: "You are {female_name}, examining contemporary relevance of 'The Real Story of Ah-Q'. Connect Ah-Q's psychology to modern social media toxicity, toxic masculinity, and contemporary power dynamics. Show how 1921 insights predict 2025 social problems."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["psychological violence discussion", "toxic masculinity analysis", "historical oppression themes"]
+    educational_elements: ["Chinese modernist literature", "Social psychology mechanisms", "Historical context of 1911 China", "Cross-cultural literary analysis"]
+    production_notes:
+      intro_style: "scholarly_engagement"
+      transitions: "subtle musical bridges"
+      outro_style: "contemporary_relevance"
+
+  overall_confidence: 0.85

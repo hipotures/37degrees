@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Medical Examination - The Painful Discovery"
+  setting:
+    time: "1945, evening"
+    location: "Sparse medical examination room, German military facility, 1945"
+    weather: "Indoor setting"
+  characters:
+    - appearance: "Caucasian man, 25 years old, athletic build, dark brown hair, focused expression"
+      clothing: "German army uniform with medical insignia, or white doctor's coat, dark trousers"
+      position: "Seated on examination table, holding injured ankle"
+      action: "Carefully removing standard military boot, wincing in pain from ankle injury"
+  scene:
+    mainElements: "Simple wooden examination table, medical instruments, basic furniture"
+    details: "Black leather military boot with hard sole, traditional construction, showing wear and discomfort being removed from swollen ankle. Medical equipment on metal tray, simple chair beside table, sparse military medical facility with minimal decoration. Injured ankle showing signs of swelling, standard army boot clearly inadequate for comfort during recovery, harsh lighting from overhead fixture, no text or letters visible"
+    background: "Plain military medical facility walls, single window with blackout curtains, medical cabinet with basic supplies"
+    atmosphere: "Clinical, utilitarian wartime medical setting"
+  composition:
+    cameraAngle: "Medium close-up focusing on examination table and patient"
+    focus: "Injured ankle and problematic military boot being removed"
+    depth: "Foreground shows detailed boot removal, middle ground captures examination table scene, background displays clinical facility setting"

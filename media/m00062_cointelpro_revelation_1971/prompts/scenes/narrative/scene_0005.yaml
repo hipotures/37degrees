@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "March 8 1971 Boxing Match Distraction"
+  setting:
+    time: "March 8, 1971, 9:00 PM"
+    location: "Suburban street outside FBI field office, Media, Pennsylvania"
+    weather: "Clear cold night, streetlights creating shadows"
+  characters:
+    - appearance: "Caucasian man, 30s, average height, brown hair, determined expression"
+      clothing: "Dark casual clothing, black gloves, carrying small tools"
+      position: "Crouched near building entrance with lock picks"
+      action: "Working on door lock while listening for sounds"
+    - appearance: "Woman, 30s, shoulder-length brown hair, focused expression"
+      clothing: "Dark coat, practical shoes, carrying radio or communication device"
+      position: "Standing at street corner as lookout"
+      action: "Watching for police cars or security patrols"
+  scene:
+    mainElements: "Small FBI field office building, parked cars along suburban street, streetlights casting pools of light, radio antenna visible on nearby house"
+    details: "Canvas bag for documents, small crowbar, lock picks, flashlight with red filter, winter bare trees, frost on car windshields, porch light at office entrance"
+    background: "Quiet suburban neighborhood, houses with lights on, distant sound of radio broadcasts from homes"
+    atmosphere: "Tense nighttime burglary with sense of urgency and stealth operation, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot from across street showing burglary in progress"
+    focus: "Lead burglar at building entrance with lookout positioned strategically"
+    depth: "Foreground shows street, middle ground captures burglary, background reveals suburban setting"

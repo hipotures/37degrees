@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Parallel Mystery at Woomera Test Range"
+  setting:
+    time: "August-September 1964, daytime"
+    location: "Remote desert testing facility in South Australia, highly classified military installation"
+    weather: "Clear desert conditions with harsh sunlight"
+  characters:
+    - appearance: "Military technician in uniform, focused and professional demeanor"
+      clothing: "Australian military technical uniform appropriate for missile testing"
+      position: "Standing at control station monitoring launch preparations"
+      action: "Observing through binoculars with growing alarm at unexpected figures on range"
+    - appearance: "Senior launch control officer, authoritative bearing"
+      clothing: "Military dress uniform with rank insignia"
+      position: "Positioned at main control console"
+      action: "Making urgent radio communications to abort missile launch"
+    - appearance: "Security personnel, alert and ready for action"
+      clothing: "Military security uniform with equipment"
+      position: "Stationed around perimeter of control area"
+      action: "Responding to unexpected breach of secure testing zone"
+  scene:
+    mainElements: "Launch pads, tracking equipment, control bunkers, restricted access zones in harsh desert environment"
+    details: "British intermediate-range ballistic missile, white/silver metallic finish, manufactured near Solway Firth area now ready for testing, sophisticated tracking equipment detecting unexplained presences on firing range, emergency abort procedures initiated, no text or letters visible"
+    background: "Tense, high-security environment during Cold War missile testing with vast desert landscape"
+    atmosphere: "Military precision disrupted by unexplained security breach, parallel mystery unfolding thousands of miles from original incident"
+  composition:
+    cameraAngle: "Wide shot showing scale of military installation and missile testing operation"
+    focus: "The urgent response to mysterious figures disrupting critical missile test"
+    depth: "Foreground shows detailed military control operations, middle ground features missile launch preparation, background displays vast Australian desert landscape"

@@ -1,0 +1,167 @@
+{
+  "visualization_data": {
+    "title": "Window Tax Visualization Assets",
+    "description": "Visual elements for recreating the Window Tax story",
+    "scenes": {
+      "financial_crisis_1696": {
+        "setting": "Royal Mint, Tower of London",
+        "characters": ["Isaac Newton", "William Lowndes", "mint_workers"],
+        "objects": ["clipped_silver_coins", "coin_presses", "ledger_books"],
+        "atmosphere": "urgent, industrial, smoky",
+        "lighting": "dim candlelight and furnace glow",
+        "colors": ["dark_greys", "silver", "orange_glow", "brown_leather"]
+      },
+      "parliament_debate_1696": {
+        "setting": "Palace of Westminster, House of Commons",
+        "characters": ["William III", "parliamentarians", "clerks"],
+        "objects": ["parliamentary_papers", "window_tax_bill", "voting_boxes"],
+        "atmosphere": "formal, tense, historic",
+        "lighting": "candlelit evening session",
+        "colors": ["deep_browns", "gold_trim", "white_wigs", "dark_clothing"]
+      },
+      "window_peeper_assessment": {
+        "setting": "London street, Georgian buildings",
+        "characters": ["tax_assessor", "homeowners", "servants"],
+        "objects": ["counting_sheets", "quill_pen", "measuring_tools"],
+        "atmosphere": "methodical, slightly suspicious, public",
+        "lighting": "natural daylight",
+        "colors": ["grey_stone", "dark_windows", "brown_clothing", "white_paper"]
+      },
+      "wealthy_house_blocking": {
+        "setting": "Georgian mansion exterior",
+        "characters": ["wealthy_homeowner", "builders", "servants"],
+        "objects": ["bricks", "mortar", "scaffolding", "elegant_windows"],
+        "atmosphere": "calculated, wealthy but cautious",
+        "lighting": "bright daylight contrasting with dark blocked areas",
+        "colors": ["cream_stone", "red_brick", "black_mortar", "white_window_frames"]
+      },
+      "poor_tenement_suffering": {
+        "setting": "London tenement interior",
+        "characters": ["poor_families", "landlord", "children"],
+        "objects": ["bricked_windows", "candles", "minimal_furniture"],
+        "atmosphere": "dark, stuffy, unhealthy",
+        "lighting": "very dim, single candle",
+        "colors": ["dark_browns", "dirty_whites", "sickly_yellows", "grey_shadows"]
+      },
+      "pitt_triple_assessment": {
+        "setting": "Prime Minister's office",
+        "characters": ["William Pitt the Younger", "advisors", "clerks"],
+        "objects": ["war_maps", "financial_documents", "quill_pens"],
+        "atmosphere": "urgent wartime planning, serious",
+        "lighting": "bright desk lighting, shadows in corners",
+        "colors": ["deep_blues", "gold_accents", "white_papers", "red_war_maps"]
+      },
+      "mass_protest_1797": {
+        "setting": "London streets with Georgian buildings",
+        "characters": ["angry_citizens", "workers", "families"],
+        "objects": ["chalk_graffiti", "protest_signs", "bricked_windows"],
+        "atmosphere": "angry, determined, public uprising",
+        "lighting": "dramatic late afternoon light",
+        "colors": ["angry_reds", "protest_whites", "grey_buildings", "dark_shadows"]
+      },
+      "dickens_writing_campaign": {
+        "setting": "Household Words magazine office",
+        "characters": ["Charles Dickens", "editors", "printing_workers"],
+        "objects": ["manuscripts", "ink_wells", "printing_press", "gas_lamps"],
+        "atmosphere": "intellectual energy, determined reform",
+        "lighting": "warm gas lighting, Victorian interior",
+        "colors": ["warm_yellows", "rich_browns", "white_papers", "black_ink"]
+      },
+      "health_crisis_documentation": {
+        "setting": "Doctor's office and tenement visits",
+        "characters": ["physician", "sick_patients", "concerned_officials"],
+        "objects": ["medical_instruments", "health_reports", "dark_rooms"],
+        "atmosphere": "concerning, medical, documentary",
+        "lighting": "clinical but dim due to blocked windows",
+        "colors": ["medical_whites", "sickly_greens", "dark_interiors", "pale_skin"]
+      },
+      "final_abolition_1851": {
+        "setting": "Parliament and celebrating crowds",
+        "characters": ["parliamentarians", "celebrating_citizens", "Dickens"],
+        "objects": ["abolition_document", "celebration_banners", "open_windows"],
+        "atmosphere": "triumphant, celebratory, historic moment",
+        "lighting": "bright, symbolic sunlight streaming through windows",
+        "colors": ["celebration_golds", "bright_whites", "hopeful_blues", "natural_sunlight"]
+      }
+    },
+    "architectural_elements": {
+      "georgian_windows": {
+        "description": "Large sash windows with multiple panes",
+        "details": "White painted frames, vertical sliding mechanism, decorative glazing bars"
+      },
+      "bricked_windows": {
+        "description": "Windows filled with brick and mortar",
+        "details": "Different colored brick from main wall, visible mortar lines, sometimes painted over"
+      },
+      "tenement_buildings": {
+        "description": "Multi-story housing for the poor",
+        "details": "Narrow frontages, minimal windows, poor construction, overcrowded"
+      },
+      "georgian_mansions": {
+        "description": "Elegant symmetrical townhouses",
+        "details": "Classical proportions, stone facades, iron railings, grand entrance doors"
+      }
+    },
+    "objects_and_artifacts": {
+      "clipped_coins": {
+        "visual_description": "Silver coins with irregular edges, reduced weight",
+        "historical_significance": "Evidence of the crisis that led to the window tax"
+      },
+      "tax_receipts": {
+        "visual_description": "Small paper documents with official stamps and signatures",
+        "historical_significance": "Proof of individual tax burden and bureaucratic process"
+      },
+      "window_counting_tools": {
+        "visual_description": "Leather satchels, counting sheets, quills, small telescope",
+        "historical_significance": "Equipment used by 'window peepers' for assessment"
+      },
+      "protest_graffiti": {
+        "visual_description": "Chalk writing on bricked windows: 'Lighten our darkness we beseech thee, O Pitt!'",
+        "historical_significance": "Public protest against the 1797 rate increases"
+      },
+      "household_words_magazine": {
+        "visual_description": "Victorian periodical with Dickens' anti-window tax articles",
+        "historical_significance": "Key propaganda tool in the abolition campaign"
+      }
+    },
+    "color_palettes": {
+      "financial_crisis": ["#2C1810", "#8B4513", "#C0C0C0", "#FF6600"],
+      "parliamentary_scenes": ["#8B4513", "#FFD700", "#FFFFFF", "#2F4F4F"],
+      "street_scenes": ["#708090", "#DCDCDC", "#8B4513", "#000000"],
+      "wealthy_interiors": ["#F5F5DC", "#B8860B", "#8B0000", "#FFFFFF"],
+      "poor_conditions": ["#2F2F2F", "#696969", "#8B7355", "#FFFFE0"],
+      "protest_scenes": ["#DC143C", "#FFFFFF", "#708090", "#000000"],
+      "health_crisis": ["#F5F5F5", "#9ACD32", "#2F2F2F", "#F0F8FF"],
+      "celebration": ["#FFD700", "#FFFFFF", "#87CEEB", "#FFFFE0"]
+    },
+    "symbolic_elements": {
+      "light_vs_darkness": {
+        "description": "Contrast between well-lit and blocked window areas",
+        "usage": "To show the literal 'daylight robbery' effect"
+      },
+      "coins_and_money": {
+        "description": "Clipped coins, tax receipts, money bags",
+        "usage": "To show the financial motivations and costs"
+      },
+      "architectural_scars": {
+        "description": "Bricked-up windows as permanent reminders",
+        "usage": "To show lasting impact of the tax policy"
+      },
+      "class_contrast": {
+        "description": "Wealthy Georgian mansions vs poor tenements",
+        "usage": "To show unequal impact of the tax"
+      },
+      "health_imagery": {
+        "description": "Sick people, medical instruments, dark rooms",
+        "usage": "To show health consequences of blocked windows"
+      }
+    },
+    "timeline_visual_markers": {
+      "1696": "Introduction - Financial crisis symbols",
+      "1747": "First revision - New rate structure charts",
+      "1797": "Triple assessment - War imagery and mass protest",
+      "1850": "Dickens campaign - Publishing and reform imagery",
+      "1851": "Abolition - Celebration and window unblocking"
+    }
+  }
+}

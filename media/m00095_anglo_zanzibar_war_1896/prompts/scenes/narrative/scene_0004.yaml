@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Artillery Positioning - Palace Defense"
+  setting:
+    time: "August 27, 1896, late morning"
+    location: "Palace grounds facing harbor, Stone Town"
+    weather: "Tropical heat intensifying under cloudless sky"
+  characters:
+    - appearance: "Arab man, 35, dark skin, black beard, muscular build, battle-hardened expression"
+      clothing: "Military uniform with ammunition belt, traditional headwrap, combat boots"
+      position: "Crouched behind artillery piece"
+      action: "Defensive stance, directing gun placement and checking ammunition supplies"
+  scene:
+    mainElements: "Bronze cannons from 17th century mixed with modern field guns, positioned on palace grounds facing harbor"
+    details: "Ancient bronze cannons with decorative engravings alongside modern artillery pieces, sandbags hastily arranged for protection, ammunition stacks, gun crews preparing positions, palm trees providing some cover, coral stone walls of palace behind defensive line"
+    background: "British warships clearly visible in harbor, Stone Town buildings and narrow streets beyond palace walls"
+    atmosphere: "Desperate preparation for unequal battle, mixing old and new weapons, determined last stand against overwhelming odds, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle shot emphasizing artillery and defensive preparations"
+    focus: "Artillery pieces and defenders preparing for battle"
+    depth: "Artillery positions in foreground, palace buildings in middle ground, British fleet visible in background"

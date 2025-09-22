@@ -1,0 +1,163 @@
+canon:
+  characters:
+    - id: "character_DF"
+      name: "Character DF"
+      description_block: |
+        characters:
+          - appearance: "17-year-old Caucasian male, average height and build, clean-cut high school student appearance, dark hair"
+            clothing: "1960s casual teenager attire, dark jacket and pants appropriate for cold December evening"
+            posture: "Relaxed, typical teenager on date night, trusting and unsuspecting"
+
+    - id: "character_BJ"
+      name: "Character BJ"
+      description_block: |
+        characters:
+          - appearance: "16-year-old Caucasian female, petite build, blonde hair, typical 1960s teenage girl"
+            clothing: "1960s teenage fashion, dress or skirt with blouse, warm coat for cold December night"
+            posture: "Young, innocent, on first serious date"
+
+    - id: "character_DF2"
+      name: "Character DF2"
+      description_block: |
+        characters:
+          - appearance: "22-year-old Caucasian female, brown hair, attractive young woman, 1960s styling"
+            clothing: "Summer casual wear appropriate for July 4th evening, blouse and pants or light dress"
+            posture: "Confident, social, experienced with nightlife"
+
+    - id: "character_MM"
+      name: "Character MM"
+      description_block: |
+        characters:
+          - appearance: "19-year-old Caucasian male, dark hair, medium build, bearing visible injuries from gunshot wounds"
+            clothing: "Summer casual clothing, some bloodstains from attack"
+            posture: "Traumatized but determined survivor, cautious and alert"
+
+    - id: "character_BH"
+      name: "Character BH"
+      description_block: |
+        characters:
+          - appearance: "20-year-old Caucasian male, college student build, bearing visible stab wounds"
+            clothing: "Casual outdoor clothing for lakeside sunbathing, torn and bloodstained"
+            posture: "Methodical, detailed in recollections, cooperative survivor"
+
+    - id: "character_CS"
+      name: "Character CS"
+      description_block: |
+        characters:
+          - appearance: "22-year-old Caucasian female, college student, brown hair, attractive"
+            clothing: "Casual lakeside attire, summer clothes appropriate for sunbathing"
+            posture: "Intelligent, brave, showing signs of struggle"
+
+    - id: "character_PS"
+      name: "Character PS"
+      description_block: |
+        characters:
+          - appearance: "29-year-old Caucasian male, professional taxi driver, well-groomed, responsible appearance"
+            clothing: "Taxi company uniform or professional work attire, bloodstained"
+            posture: "Hardworking, trustworthy, unsuspecting professional"
+
+    - id: "character_IT"
+      name: "Character IT"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Caucasian male detective, professional appearance, distinctive 1970s style"
+            clothing: "Police department suits, shoulder holster, professional law enforcement attire"
+            posture: "Dedicated, methodical, showing frustration over unsolved case"
+
+    - id: "character_DH"
+      name: "Character DH"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Caucasian male schoolteacher, professional appearance, wearing glasses"
+            clothing: "1960s educator attire, conservative styling, academic appearance"
+            posture: "Analytical, puzzle-solving mindset, methodical approach"
+
+    - id: "zodiac_figure"
+      name: "Zodiac Figure"
+      description_block: |
+        characters:
+          - appearance: "Shadowy male figure, face obscured, medium to large build, threatening presence"
+            clothing: "Dark clothing, at Lake Berryessa wearing black executioner-style hood with cross-circle symbol"
+            posture: "Menacing, calculated movements, predatory stance"
+
+  locations:
+    - id: "lake_herman_road"
+      name: "Lake Herman Road, Benicia"
+      description_block: |
+        setting:
+          location: "Isolated rural road overlooking Suisun Bay, Solano County, California, popular lovers' lane spot"
+        mainElements: "Curved roadway with turnout area, rolling hills, sparse lighting, few scattered houses"
+        atmosphere: "Dark December night, cold, quiet except for occasional passing car, eerie isolation"
+
+    - id: "blue_rock_springs"
+      name: "Blue Rock Springs Park, Vallejo"
+      description_block: |
+        setting:
+          location: "Public park with large parking lot in Vallejo, California, golf course nearby, suburban setting"
+        mainElements: "Paved parking area, picnic tables, open spaces, minimal lighting, surrounded by suburban development"
+        atmosphere: "Hot July 4th night, celebratory atmosphere earlier, now quiet and dark"
+
+    - id: "lake_berryessa"
+      name: "Lake Berryessa, Napa County"
+      description_block: |
+        setting:
+          location: "Large recreational lake with secluded coves and beaches in Napa County, California"
+        mainElements: "Sandy beach area, clear water, surrounding hills covered in California vegetation, picnic spots"
+        atmosphere: "Warm September afternoon, peaceful, few other visitors, becoming ominous"
+
+    - id: "presidio_heights"
+      name: "Washington and Cherry Streets, Presidio Heights, San Francisco"
+      description_block: |
+        setting:
+          location: "Upscale residential neighborhood intersection in San Francisco with steep hills and Victorian homes"
+        mainElements: "Street intersection with stop sign, well-lit street, nearby Victorian houses, urban setting"
+        atmosphere: "Cool October evening, residential quiet, some pedestrian traffic"
+
+    - id: "chronicle_building"
+      name: "San Francisco Chronicle Building, Downtown San Francisco"
+      description_block: |
+        setting:
+          location: "Downtown San Francisco newspaper headquarters, busy urban office building"
+        mainElements: "Multi-story building, newsroom floors, mail room, printing facilities, bustling activity"
+        atmosphere: "Bustling newspaper environment, constant deadline pressure, 1960s media hub"
+
+  items:
+    - id: "cipher_408"
+      name: "408-Character Cipher"
+      description_block: |
+        details: "Three-part cryptogram with 408 symbols, handwritten on paper, mixed letters, numbers, and symbols including cross-circle Zodiac symbol"
+
+    - id: "cipher_340"
+      name: "340-Character Cipher"
+      description_block: |
+        details: "Grid of 340 cryptographic symbols arranged in 20 rows, more complex than first cipher, 63 different symbols"
+
+    - id: "stine_shirt_piece"
+      name: "Bloodstained Shirt Fragment"
+      description_block: |
+        details: "Torn piece of taxi driver's shirt, bloodstained, distinctive tear pattern, sent as proof of crime"
+
+    - id: "executioner_hood"
+      name: "Executioner Hood"
+      description_block: |
+        details: "Black hood with sewn-on bib, square eyeholes, Zodiac cross-circle symbol on chest, homemade appearance"
+
+    - id: "zodiac_symbol"
+      name: "Cross-Circle Symbol"
+      description_block: |
+        details: "Circle with cross through it, resembling Celtic cross or gun sight, consistently drawn in letters"
+
+    - id: "fingerprints"
+      name: "Partial Fingerprints"
+      description_block: |
+        details: "Two partial fingerprints from right hand on cab interior, clear enough for comparison"
+
+    - id: "stine_taxi"
+      name: "Yellow Taxi Cab"
+      description_block: |
+        details: "Yellow Cab #912, typical 1960s sedan, bloodstained interior, driver seat stained, evidence preserved"
+
+    - id: "hartnell_car"
+      name: "White Volkswagen Beetle"
+      description_block: |
+        details: "White Volkswagen Beetle, popular 1960s compact car, Zodiac symbol and attack details written on car door in black marker"

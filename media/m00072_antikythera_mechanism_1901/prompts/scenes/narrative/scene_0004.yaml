@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Surface Recovery - Hauling Ancient Treasures to Daylight"
+  setting:
+    time: "1901, late afternoon"
+    location: "Traditional Greek sponge diving boat near Antikythera waters, 1900-1901"
+    weather: "Bright afternoon sun with gentle Mediterranean breeze, clear skies"
+  characters:
+    - appearance: "Greek man, 40s, weathered skin from sea work, dark hair and beard, strong build"
+      clothing: "1900 Mediterranean diving gear with bronze helmet, or traditional Greek seafaring attire"
+      position: "Standing on deck examining recovered bronze artifact"
+      action: "Carefully lifting corroded bronze mechanism from collection basket"
+  scene:
+    mainElements: "Wooden Mediterranean fishing vessel with diving equipment, bronze helmet, and recovered artifacts on deck"
+    details: "Boat deck covered with recovered ancient artifacts including corroded bronze objects, broken pottery, and the mysterious mechanism. Ancient bronze mechanical device, 34cm x 18cm x 9cm, complex system of 30+ interlocking gears, corroded green patina, inscribed with Greek text, fragmented into multiple pieces, world's first analog computer. Water dripping from freshly recovered treasures, diving equipment scattered on deck, crew gathered around examining finds."
+    background: "Open Mediterranean Sea with Antikythera island visible in distance, other crew members working on boat"
+    atmosphere: "Maritime adventure atmosphere with sea spray and excitement of archaeological discovery. Triumph of bringing ancient secrets back to the surface after 2000 years."
+  composition:
+    cameraAngle: "Medium shot from deck level showing recovery process"
+    focus: "Diver carefully examining the mysterious bronze mechanism"
+    depth: "Foreground: recovered artifacts and mechanism, middle ground: boat deck and crew, background: Mediterranean seascape, no text or letters visible"

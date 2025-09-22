@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Calibration of chirped ultrashort laser pulse system begins"
+  setting:
+    time: "March 2024, 09:30 AM"
+    location: "State-of-the-art ultrafast optics laboratory within INRS Énergie Matériaux Télécommunications Research Centre, Montreal area"
+    weather: "Indoor controlled laboratory environment, independent of external weather"
+  characters:
+    - appearance: "Asian male, approximately 40-45 years old, medium build, dark hair, wearing safety glasses"
+      clothing: "White laboratory coat over dark business casual attire, safety goggles when operating laser equipment"
+      position: "Standing at optical equipment or seated at computer workstation"
+      action: "Adjusting optical equipment with precision, monitoring experimental parameters"
+    - appearance: "Male, approximately 30-35 years old, medium height, dark hair, clean-shaven"
+      clothing: "Laboratory attire including white coat, safety glasses, protective equipment when handling lasers"
+      position: "Working alongside optical tables or analyzing data at computer terminals"
+      action: "Taking notes, collaborating closely with equipment setup, monitoring experimental data"
+  scene:
+    mainElements: "Optical tables with vibration isolation, laser systems, CCD cameras, coded aperture arrays, computer workstations with multiple monitors"
+    details: "Femtosecond-duration laser pulse system with wavelength sweep, different wavelengths arrive at different times enabling temporal encoding of ultrafast events. Researchers fine-tuning laser parameters on multiple computer displays showing wavelength patterns and pulse characteristics. Precision optical alignment tools and measurement devices positioned around the laser system."
+    background: "Laboratory infrastructure with safety equipment, optical storage cabinets, and additional research apparatus"
+    atmosphere: "Controlled environment with precise temperature and humidity, low lighting optimized for optical work, quiet hum of sophisticated equipment"
+  composition:
+    cameraAngle: "Close-up shot focusing on laser calibration process"
+    focus: "Laser pulse system and researchers performing calibration adjustments"
+    depth: "Foreground features precise optical components and measurement tools, middle ground shows researchers at work, background includes laboratory safety equipment, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Stanford University Campus - The Beginning of Groundbreaking Research"
+  setting:
+    time: "1968, late afternoon, California sunshine"
+    location: "Stanford University campus grounds, California, Spanish mission-style architecture with palm trees"
+    weather: "Clear California day with warm sunlight filtering through palm trees"
+  characters:
+    - appearance: "Caucasian man, 40s, slender build, dark hair, thoughtful eyes, intellectual appearance"
+      clothing: "1960s academic attire: brown tweed jacket with elbow patches, white dress shirt, dark tie, dress pants"
+      position: "Walking across campus courtyard with purposeful stride"
+      action: "Carrying research materials and clipboard, heading toward Bing Nursery School building"
+  scene:
+    mainElements: "Wide view of Stanford campus with Spanish colonial architecture, researcher walking along tree-lined pathway toward low-rise nursery school building"
+    details: "Palm trees casting shadows on walkways, mission-style buildings with red tile roofs, students and faculty in 1960s attire moving across campus, academic atmosphere of prestigious university"
+    background: "Multiple campus buildings visible, clear California sky, mountains in distance, typical late 1960s university setting"
+    atmosphere: "Academic excellence and intellectual pursuit, beginning of revolutionary psychological research that will change understanding of child development, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position"
+    focus: "Researcher walking toward nursery school, Stanford architecture as backdrop"
+    depth: "Foreground: walkway and trees, middle: researcher and immediate campus, background: distant buildings and mountains"

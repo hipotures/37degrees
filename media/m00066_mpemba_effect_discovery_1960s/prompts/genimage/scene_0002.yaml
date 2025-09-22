@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1963, late afternoon
+    location: Magamba Secondary School kitchen classroom near refrigerator, Tanzania
+    weather: Warm tropical afternoon
+  characters:
+  - appearance: Young African male, 13-17 years old, slender build, curious dark eyes, short dark hair
+    clothing: 1960s Tanzanian school uniform - white short-sleeved shirt, dark shorts, simple brown leather shoes
+    position: Crouched in front of open refrigerator door, looking surprised
+    action: Examining ice cream containers, pointing at his own which has frozen solid while others remain liquid
+  - appearance: Group of African teenagers, mixed ages 13-16, various builds and heights
+    clothing: 1960s Tanzanian school uniforms - white shirts, dark shorts/skirts, simple shoes
+    position: Gathered around refrigerator, some looking over his shoulder
+    action: Peering into refrigerator with confused expressions, comparing their unfrozen mixtures to his solid ice cream
+  scene:
+    mainElements: Open refrigerator with multiple metal containers holding ice cream mixtures at different stages of freezing
+    details: Metal pot containing solidly frozen ice cream sits prominently while other containers hold still-liquid mixtures.
+      Refrigerator interior shows ice crystals and frost. Student's face shows amazement and confusion at unexpected result.
+      Cold air visible as slight mist from open refrigerator door, no text or letters visible
+    background: Kitchen classroom with cooking equipment, wooden tables, and afternoon sunlight filtering through windows
+    atmosphere: Moment of scientific discovery with mixture of surprise, curiosity, and bewilderment as expectations are challenged
+  composition:
+    cameraAngle: Close-up shot from behind students looking into refrigerator
+    focus: Frozen ice cream container contrasted with liquid mixtures in other containers
+    depth: Foreground shows surprised faces, middle ground displays contrasting ice cream states, background reveals kitchen
+      setting
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

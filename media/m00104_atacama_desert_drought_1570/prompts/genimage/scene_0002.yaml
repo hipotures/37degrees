@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1600, mid-16th century during early drought period
+    location: Calama region, northern Chile, Atacama Desert settlements
+    weather: Cloudless sky, extreme aridity, no rainfall for 30 years
+  characters:
+  - appearance: Indigenous man, 60s, weathered face from desert exposure, dark sun-hardened skin, wise dark eyes
+    clothing: Traditional woven textiles, layered garments for temperature variation, alpaca wool clothing, practical desert
+      wear
+    position: Standing beside traditional water management system
+    action: Demonstrating ancient water collection and conservation techniques to younger community members
+  scene:
+    mainElements: Traditional indigenous settlements with water management systems, terraced areas, limited agriculture, indigenous
+      water collection and conservation systems with traditional terraces and underground channels
+    details: Carefully managed irrigation systems showing human adaptation to extreme drought, ingenious survival methods
+      including dew collection methods and underground water channels, traditional woven textiles and practical desert clothing,
+      evidence of sustainable agricultural techniques adapted to waterless environment, preserved organic materials due to
+      extreme desiccation
+    background: Atacama Desert landscape stretching endlessly with minimal vegetation adapted to extreme conditions, mountain
+      barriers visible preventing any moisture from reaching settlement
+    atmosphere: Human adaptation to extreme drought through centuries of traditional knowledge, ingenious survival methods
+      passed down through generations, connection to ancient traditions of water conservation, community cooperation in waterless
+      environment, no text or letters visible
+  composition:
+    cameraAngle: Medium shot focusing on traditional water management demonstration
+    focus: Indigenous elder showing water conservation techniques to community
+    depth: Foreground shows detailed water management systems, middle shows community interaction, background shows harsh
+      desert environment
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,65 @@
+canon:
+  characters:
+    - id: "character_SM"
+      name: "Character SM"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s, dark hair, intellectual features, alert expression"
+            clothing: "1960s dark suit, white dress shirt, narrow tie, professional appearance"
+            posture: "Observational, often with notepad or clipboard, positioned to monitor proceedings"
+    - id: "character_experimenter"
+      name: "The Experimenter"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s, stern facial expression, authoritative bearing, clean-shaven"
+            clothing: "Gray laboratory coat over dark suit, white shirt, professional appearance"
+            posture: "Upright, commanding presence, often standing behind or beside shock generator"
+    - id: "character_teacher"
+      name: "The Teacher"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s-40s, average build, anxious expression, increasingly distressed"
+            clothing: "1960s business casual attire, dress shirt with rolled sleeves, dark trousers"
+            posture: "Seated at shock generator, increasingly tense body language, leaning forward"
+    - id: "character_learner"
+      name: "The Learner"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, stocky build, concerned expression when visible"
+            clothing: "White dress shirt, dark trousers, sleeves rolled up for electrode attachment"
+            posture: "Strapped in electric chair, arms secured to chair arms with electrodes attached"
+  locations:
+    - id: "yale_interaction_lab"
+      name: "Yale Interaction Laboratory"
+      description_block: |
+        setting:
+          location: "Yale University Interaction Laboratory, Linsly-Chittenden Hall basement, New Haven, Connecticut"
+        mainElements: "Sterile academic laboratory environment with white walls, fluorescent lighting, institutional furniture"
+        atmosphere: "Clinical, professional, authoritative university setting with scientific credibility"
+    - id: "shock_generator_room"
+      name: "Shock Generator Room"
+      description_block: |
+        setting:
+          location: "Control room with shock generator machine, Yale University laboratory"
+        mainElements: "Large metal shock generator console with 30 switches, voltage labels, control panel, observation window"
+        atmosphere: "Tense, clinical environment with imposing scientific equipment and harsh lighting"
+    - id: "learner_room"
+      name: "Learner's Room"
+      description_block: |
+        setting:
+          location: "Adjacent room with electric chair apparatus, separated by wall"
+        mainElements: "Electric chair with leather straps, electrode equipment, stark institutional walls"
+        atmosphere: "Isolated, intimidating space designed to suggest serious consequences"
+  items:
+    - id: "shock_generator_machine"
+      name: "Shock Generator Machine"
+      description_block: |
+        details: "Large metal console with 30 horizontal lever switches, voltage markings from 15 to 450 volts, warning labels including 'Danger: Severe Shock' and 'XXX', professional industrial appearance"
+    - id: "electric_chair"
+      name: "Electric Chair Apparatus"
+      description_block: |
+        details: "Metal chair with leather arm restraints, electrode wires, intimidating institutional design suggesting real electrical capability"
+    - id: "electrode_equipment"
+      name: "Electrode Equipment"
+      description_block: |
+        details: "Medical-grade electrodes with wires, conductive gel, professional attachment apparatus creating convincing illusion of real shock delivery system"

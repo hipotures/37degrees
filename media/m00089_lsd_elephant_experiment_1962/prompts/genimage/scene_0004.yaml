@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: August 3, 1962, late morning
+    location: Oklahoma City Zoo elephant enclosure, outdoor paddock area, Oklahoma, USA
+    weather: Hot summer day with intense sunshine
+  characters:
+  - appearance: 14-year-old male Indian elephant, medium-sized for species, dark gray skin, intelligent eyes, standing initially
+      then collapsing
+    clothing: No clothing - natural elephant appearance
+    position: Standing peacefully in center of enclosure near water trough
+    action: Eating hay and occasionally spraying dust on his back, moving slowly in the heat
+  scene:
+    mainElements: 14-year-old male Indian elephant, medium-sized for species, dark gray skin, intelligent eyes, standing initially
+      then collapsing, positioned naturally in his familiar environment
+    details: Large concrete and dirt enclosure with metal barriers, viewing area for public, hay scattered on ground, water
+      trough partially visible, dusty dirt surface with elephant footprints, metal feeding buckets, concrete shelter area
+      providing shade, chain-link fencing and metal barriers typical of 1960s zoo construction, no text or letters visible
+    background: Oklahoma summer landscape beyond enclosure, zoo visitors visible at viewing barriers, other zoo facilities
+      in far distance, clear blue sky with bright sunshine
+    atmosphere: Peaceful moment before the experiment, natural elephant behavior on display, hot dusty zoo environment with
+      sense of normalcy that will soon be disrupted
+  composition:
+    cameraAngle: Medium shot at elephant eye level, showing the elephant's full body and immediate enclosure environment
+    focus: The elephant as the central subject, displaying natural elephant behavior and demeanor
+    depth: Foreground shows detailed ground surface and feeding materials, middle ground features the elephant in his natural
+      state, background displays enclosure barriers and zoo context
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Sea god claims Atlantis and founds the divine dynasty"
+  setting:
+    time: "Mythical past, dawn"
+    location: "Pristine island before human settlement, later to become Atlantis"
+    weather: "Calm seas with ethereal morning mist"
+  characters:
+    - appearance: "Imposing deity with flowing dark hair and beard, muscular build, sea-green eyes"
+      clothing: "Draped in flowing robes that seem to move like water, crown of shells and coral"
+      position: "Standing on rocky shore of the island, feet touching the waves"
+      action: "Raising trident toward the sky while reshaping the island with divine power"
+  scene:
+    mainElements: "Three-pronged golden spear, symbol of divine power over seas and earthquakes, gleaming with supernatural light"
+    details: "Three-pronged golden spear, symbol of divine power over seas and earthquakes, gleaming with supernatural light. Waves responding to divine will, creating the first concentric water channels. Sea creatures gathering around the island in reverence. Divine light emanating from the trident causing geometric transformations in the landscape. Ancient trees bending as the earth reshapes itself."
+    background: "Majestic and powerful, carrying trident, commanding presence over sea and earth"
+    atmosphere: "Divine intervention and cosmic power reshaping the natural world, sense of creation and destiny being forged"
+  composition:
+    cameraAngle: "Low angle looking up at the divine figure against dramatic sky"
+    focus: "Character PO wielding the divine trident to create the first rings of Atlantis"
+    depth: "Foreground: churning waters responding to divine command, middle ground: Character PO with raised trident, background: island beginning to transform into circular pattern, no text or letters visible"

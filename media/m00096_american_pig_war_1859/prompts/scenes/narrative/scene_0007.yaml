@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "British Naval Response - Royal Navy Arrives"
+  setting:
+    time: "August 1859, evening"
+    location: "Waters surrounding San Juan Island"
+    weather: "Overcast evening with choppy seas"
+  characters:
+    - appearance: "British man, 45, naval beard, weathered sea captain appearance, commanding presence"
+      clothing: "Royal Navy uniform with gold braid, white naval cap, brass buttons"
+      position: "Standing on warship bridge"
+      action: "Naval authority, studying American positions through telescope, directing fleet positioning"
+  scene:
+    mainElements: "5 British warships anchored in island waters, multiple masts, naval flags flying"
+    details: "Royal Navy fleet positioned strategically around San Juan Island, warships with multiple cannon ports visible, Union Jack flags flying prominently, sailors on deck preparing for potential action, signal flags being hoisted between ships, naval officers studying American positions through telescopes"
+    background: "San Juan Island with American military positions visible on shore, Vancouver Island in distance, dramatic Pacific Northwest seascape"
+    atmosphere: "British naval power responding to American military presence, international naval standoff developing, empire defending territorial claims through show of force, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from sea level showing British naval presence"
+    focus: "Royal Navy fleet surrounding disputed island"
+    depth: "British warships in foreground, San Juan Island in middle ground, surrounding Pacific waters in background"

@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: December 13, 1872, afternoon arrival at Gibraltar port
+    location: Gibraltar harbor with British colonial port authority, Mediterranean entrance to Atlantic
+    weather: Clear December Mediterranean weather with calmer seas than Atlantic crossing
+  characters:
+  - appearance: Experienced sailor in his 30s, strong build necessary for boarding operations, practical seaman's attire
+    clothing: Heavy wool peacoat, waterproof oilskins, sturdy sea boots, knit cap, equipped with maritime tools
+    position: Standing on Mary Celeste deck directing harbor approach
+    action: Guiding abandoned vessel into Gibraltar harbor while preparing for official inspection
+  scene:
+    mainElements: Mary Celeste entering Gibraltar harbor under skeleton crew control, British colonial port with military
+      fortifications visible, harbor pilot boat approaching to guide final docking, official port authority vessels preparing
+      to board for inspection
+    details: Gibraltar's distinctive limestone rock formation dominating skyline, British naval facilities and merchant docking
+      areas, other sailing vessels anchored in protected harbor, Mary Celeste showing signs of difficult Atlantic crossing
+      with damaged rigging and water-stained hull, port authority officials gathering on docks to examine mysterious vessel,
+      signal flags being raised to communicate with harbor control
+    background: Mediterranean Sea entrance with calmer waters than Atlantic crossing, Gibraltar's famous rock formation with
+      British fortifications, Spanish coastline visible across bay, other merchant vessels anchored in international waters
+    atmosphere: Relief at reaching safe harbor after dangerous skeleton crew voyage, growing official concern about mysterious
+      abandoned vessel, sense of impending legal complications as British authorities prepare detailed investigation
+  composition:
+    cameraAngle: Wide shot from harbor showing Mary Celeste approaching Gibraltar with rock formation backdrop
+    focus: Mary Celeste entering harbor with Gibraltar's distinctive skyline as central focal point
+    depth: Foreground shows harbor activity and approaching pilot boats, middle ground captures Mary Celeste making final
+      approach, background reveals Gibraltar's impressive rock formation and Mediterranean coastline, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

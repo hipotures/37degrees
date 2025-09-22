@@ -1,0 +1,12 @@
+media_info:
+  title: Greek-Bulgarian Dog War - October 19, 1925
+  year: 1925
+  genre: Historical Documentary
+  description: Greek soldier chases escaped dog across border, gets shot, triggering international conflict killing 50+ people
+  target_audience: General public, students, history enthusiasts, international relations researchers
+  duration: ~3 minutes
+  objective: Recreate the absurd border incident that escalated from a dog chase to an international armed conflict
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

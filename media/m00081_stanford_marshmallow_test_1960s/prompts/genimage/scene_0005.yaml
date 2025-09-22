@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1968, afternoon, controlled room lighting
+    location: Small, sparse testing room at Stanford University's Bing Nursery School
+    weather: Indoor controlled environment
+  characters:
+  - appearance: Caucasian man, 40s, slender build, dark hair, thoughtful eyes, intellectual appearance
+    clothing: '1960s academic attire: brown tweed jacket with elbow patches, white dress shirt, dark tie, dress pants'
+    position: Crouching beside child's chair at eye level
+    action: 'Explaining the choice: eat one marshmallow now or wait for second marshmallow, demonstrating bell that calls
+      him back'
+  - appearance: 4-year-old child, mixed ethnicity, curious expression, small build typical of preschooler
+    clothing: '1960s children''s clothing: simple dress or shirt and shorts, small shoes'
+    position: Sitting in child-sized chair, looking between researcher and marshmallow
+    action: Listening intently to instructions, eyes moving between marshmallow and researcher's face, beginning to understand
+      the choice
+  scene:
+    mainElements: Critical moment of explanation, researcher and child in close interaction, marshmallow as focal point of
+      decision
+    details: Single white marshmallow on plate directly in front of child, small hand bell within reach, researcher's gentle
+      but clear explanation of rules, child's growing comprehension of the choice
+    background: Sparse room designed to minimize distractions, plain walls, closed door, clinical but non-threatening environment
+    atmosphere: Pivotal moment in psychological research, simple choice that will reveal profound insights about human nature
+      and self-control, no text or letters visible
+  composition:
+    cameraAngle: Close-up shot focusing on interaction
+    focus: Researcher explaining rules to attentive child, marshmallow prominent in frame
+    depth: 'Foreground: marshmallow and child''s hands, middle: researcher and child interaction, background: minimal room
+      details'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

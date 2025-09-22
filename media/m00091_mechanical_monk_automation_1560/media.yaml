@@ -1,0 +1,12 @@
+media_info:
+  title: Mechanical Monk Automation - c. 1560
+  year: 1560
+  genre: Technology History Documentary
+  description: 38cm clockwork monk performs prayer rituals, created for King Philip II after son's miraculous healing
+  target_audience: General public, students, technology historians, religious art enthusiasts
+  duration: ~3 minutes
+  objective: Recreate the creation of one of history's most sophisticated early automatons combining faith and engineering
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

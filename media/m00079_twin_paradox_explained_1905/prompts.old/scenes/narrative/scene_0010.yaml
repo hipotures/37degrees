@@ -1,0 +1,33 @@
+sceneDescription:
+  title: "Relativity Theory Proven Through Time"
+  setting:
+    time: "1908, evening"
+    location: "University of Bern lecture hall, Switzerland, same location as earlier scene"
+    weather: "Clear evening with stars visible through Gothic windows"
+  characters:
+    - appearance: "Caucasian man, 29 years old, dark curly hair, intense brown eyes, fuller mustache"
+      clothing: "1908 dark wool suit with vest, white dress shirt, black bow tie, updated pocket watch chain"
+      position: "Standing behind wooden lectern, gesturing toward blackboard"
+      action: "Explaining the completed experiment results to gathered audience of scientists"
+    - appearance: "Young man, 25 years old, athletic build, short brown hair, clean-shaven, determined expression"
+      clothing: "Early 20th century traveler's outfit: brown leather jacket, wool pants, sturdy boots, aviator goggles"
+      position: "Front row, right side of lecture hall"
+      action: "Standing beside precision chronometer showing his journey time"
+    - appearance: "Middle-aged man, appearing 35 years old, athletic build now slightly heavier, graying hair, lined face"
+      clothing: "Early 20th century formal wear: dark wool coat, updated vest style, walking cane"
+      position: "Front row, left side of lecture hall"
+      action: "Standing beside larger clock showing Earth-elapsed time"
+  characters:
+    - appearance: "Middle-aged man, appearing 35 years old, athletic build now slightly heavier, graying hair, lined face"
+      clothing: "Early 20th century formal wear: dark wool coat, updated vest style, walking cane"
+      position: "Front row, left side of lecture hall"
+      action: "Standing beside larger clock showing Earth-elapsed time"
+  scene:
+    mainElements: "Gothic lecture hall with assembled scientists, two prominent clocks showing different elapsed times, blackboard with proven relativistic equations"
+    details: "The same Gothic lecture hall now filled with distinguished scientists observing the proof. Two prominent timepieces dominate the scene - a small chronometer showing less elapsed time, and a large mantle clock showing significantly more time passage. The blackboard displays the confirmed equations of special relativity. Gas lamps illuminate fascinated faces in the audience. The twins stand as living proof of the theoretical predictions."
+    background: "Gothic architecture unchanged but now filled with scientific observers, starlight visible through leaded windows"
+    atmosphere: "Scientific triumph and validation, historic moment of theoretical physics proven through human experience, sense of revolutionary understanding, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from elevated position showing complete scene"
+    focus: "The three figures demonstrating theory and proof, with contrasting timepieces"
+    depth: "Foreground shows timepieces, middle ground captures the three main figures, background reveals assembled scientific community"

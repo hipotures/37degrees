@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Legacy of the 401-Year Drought"
+  setting:
+    time: "1972, establishing new post-drought era"
+    location: "Atacama Desert, now recognized as site of longest recorded drought"
+    weather: "Occasional precipitation after 401-year drought period ended"
+  characters:
+    - appearance: "Person, 30s-40s, practical appearance, sun protection clothing, scientific equipment visible"
+      clothing: "Modern desert research gear, wide-brimmed hat, UV protection clothing, field equipment vest"
+      position: "Documenting scientific legacy of record-breaking drought"
+      action: "Recording final research data on completed 401-year drought period for historical record"
+  scene:
+    mainElements: "Scientific documentation establishing 401-year drought as longest in recorded human history, research equipment recording final data on unprecedented environmental phenomenon, Atacama Desert now recognized as world record holder for sustained aridity"
+    details: "Research stations documenting completion of 401-year drought period from 1570-1971, scientific equipment measuring residual effects of longest recorded drought in human history, preserved evidence of extreme environmental conditions maintained for over four centuries, geological and meteorological records establishing Atacama as site of most extreme sustained aridity on Earth, ongoing research into ecosystem adaptation and recovery"
+    background: "Atacama landscape forever changed by distinction as site of longest drought in recorded history, mountain barriers that created record-breaking conditions still visible, desert environment beginning gradual adjustment to post-drought conditions"
+    atmosphere: "Scientific achievement in documenting Earth's most extreme drought conditions, historical significance of 401-year environmental phenomenon, legacy of human and ecological adaptation to impossible conditions, recognition of Atacama Desert as unique environmental laboratory, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot establishing scientific and historical significance"
+    focus: "Documentation of completed record-breaking drought period"
+    depth: "Foreground shows final scientific documentation, middle shows researcher completing historical record, background shows landscape that survived 401 years without rain"

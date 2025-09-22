@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Boarding of Abandoned Mary Celeste - December 5, 1872"
+  setting:
+    time: "December 5, 1872, morning hours - first boarding investigation"
+    location: "103-foot brigantine's wooden deck, two masts with rigging, ship's wheel positioned at stern"
+    weather: "Cold December Atlantic conditions with moderate seas"
+  characters:
+    - appearance: "Experienced sailor in his 30s, strong build necessary for boarding operations, practical seaman's attire"
+      clothing: "Heavy wool peacoat, waterproof oilskins, sturdy sea boots, knit cap, equipped with maritime tools"
+      position: "Standing cautiously on abandoned ship's deck near main mast"
+      action: "Investigating ship conditions with careful examination of rigging and deck equipment"
+  scene:
+    mainElements: "Abandoned ship's wheel spinning freely in ocean breeze, loose rigging flapping in wind, water-soaked wooden planking showing signs of recent abandonment, hatch covers partially removed revealing cargo hold below"
+    details: "Empty lifeboat davits showing evidence of hasty but orderly launching, ship taking on 3.5 feet of water in hold but still seaworthy, maritime equipment scattered but not damaged, sails partially set suggesting sudden departure, rope coils and deck fixtures in disarray but no signs of violence or struggle, seawater pooling on deck from recent waves"
+    background: "Dei Gratia visible in distance maintaining position, vast Atlantic Ocean surrounding both vessels, overcast December sky creating somber atmosphere, seabirds circling overhead attracted by unusual activity"
+    atmosphere: "Eerie silence broken only by creaking wood and flapping sails, December Atlantic chill creating sense of urgency, overwhelming mystery of recent but complete abandonment, growing concern about fate of missing crew and passengers"
+  composition:
+    cameraAngle: "Wide shot from deck level showing boarding crew member investigating abandoned vessel"
+    focus: "First mate examining ship's wheel and rigging as central focal point"
+    depth: "Foreground shows detailed deck conditions and abandoned equipment, middle ground captures investigating crew member, background reveals empty ocean horizon with Dei Gratia maintaining watch, no text or letters visible"

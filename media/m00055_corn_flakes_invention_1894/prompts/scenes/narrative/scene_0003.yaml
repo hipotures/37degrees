@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Brothers working together in sanitarium kitchen"
+  setting:
+    time: "1894, mid-morning"
+    location: "Large institutional kitchen inside Battle Creek Sanitarium, Michigan"
+    weather: "Overcast day with soft natural light through kitchen windows"
+  characters:
+    - appearance: "Caucasian man, 40s, tall and lean build, intense dark eyes, full dark beard, stern expression"
+      clothing: "1890s white medical coat over dark suit, or formal black suit with white shirt and bow tie"
+      position: "Standing at large work table, reviewing food preparation procedures"
+      action: "Examining wheat grain samples and discussing dietary experiments with his brother"
+    - appearance: "Caucasian man, 30s, shorter than his brother, clean-shaven, practical demeanor, focused expression"
+      clothing: "1890s dark business suit with vest, white shirt, simple necktie, sometimes wearing work apron"
+      position: "At work table beside his brother, handling grain samples"
+      action: "Taking detailed notes about food preparation methods and measuring grain portions"
+  scene:
+    mainElements: "Industrial-sized cooking equipment, large wooden work tables, metal pots and pans, gas stoves, storage shelves, bowls of various grains"
+    details: "Wheat berries scattered on table surface, measuring cups and scales, written notes and recipe cards, cooking utensils hanging on walls, large mixing bowls, no text or letters visible"
+    background: "Kitchen storage areas with flour sacks, cooking equipment, steam from stoves"
+    atmosphere: "Busy professional kitchen environment with focus on health-conscious food preparation, sense of experimentation and scientific approach to cooking"
+  composition:
+    cameraAngle: "Medium shot from across the work table"
+    focus: "The two brothers collaborating over grain samples and notes"
+    depth: "Foreground shows work table with materials, middle ground shows both characters, background shows kitchen equipment"

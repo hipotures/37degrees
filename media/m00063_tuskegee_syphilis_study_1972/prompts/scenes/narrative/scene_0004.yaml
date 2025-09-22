@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Government Health Office Research Planning"
+  setting:
+    time: "1940s, morning"
+    location: "Government health office building, Atlanta or Washington DC"
+  characters:
+    - appearance: "White man, 50s, graying hair, stern expression, authoritative bearing"
+      clothing: "1940s-1970s white lab coat over formal suit, medical stethoscope"
+      position: "Seated at large desk with multiple documents spread out"
+      action: "Reviewing study data, making notes in official ledger"
+    - appearance: "White man, 40s, intense gaze, determined expression"
+      clothing: "1970s press attire, casual suit, loosened tie, notebook in hand"
+      position: "Standing across from desk, leaning forward"
+      action: "Taking notes, asking questions, pen poised over notepad"
+  scene:
+    mainElements: "Official desks, filing cabinets, government documents, institutional décor"
+    details: "Stacks of manila folders and documents containing patient files, study data spread across desk, official letterhead papers, government stamps and seals, desk lamp, telephone, ink blotter, official calendars"
+    background: "Government office walls with official certificates and portraits, American flag, window overlooking government buildings"
+    atmosphere: "Bureaucratic, formal, sterile government environment, sense of official authority and systematic documentation, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot across office desk"
+    focus: "The formal interaction between government officials and documentation"
+    depth: "Foreground shows scattered documents, middle ground has officials at desk, background reveals institutional government setting"

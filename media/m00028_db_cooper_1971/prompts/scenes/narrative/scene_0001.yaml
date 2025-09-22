@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Man arrives at Portland Airport on Thanksgiving Eve 1971"
+  setting:
+    time: "November 24, 1971, 2:50 PM"
+    location: "Portland International Airport terminal, Oregon"
+    weather: "Overcast November afternoon, typical Pacific Northwest weather"
+  characters:
+    - appearance: "White man, mid-40s, 6 feet tall, 180 pounds, olive complexion with Latin appearance, dark hair with marcel waves, brown eyes"
+      clothing: "Black business suit, white dress shirt, thin black clip-on tie from J.C. Penney with imitation pearl tie pin, black raincoat, brown leather shoes"
+      position: "Standing at Northwest Orient Airlines ticket counter"
+      action: "Purchasing one-way ticket to Seattle with cash, speaking calmly to ticket agent"
+  scene:
+    mainElements: "1970s airport terminal with Northwest Orient ticket counter, waiting areas with period-appropriate orange and brown seating, departure boards, ticket agents in uniforms"
+    details: "Relaxed airport security typical of early 1970s, passengers walking freely without metal detectors, families gathering for Thanksgiving Eve travel, overhead fluorescent lighting creating institutional atmosphere, linoleum floors and wood-paneled walls"
+    background: "Other passengers in period clothing carrying suitcases, airport personnel at various counters, large windows showing aircraft on tarmac"
+    atmosphere: "Busy but orderly Thanksgiving Eve travel day with relaxed security measures and casual passenger interactions, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot at chest level, slightly angled to show both man and ticket counter"
+    focus: "Man's calm demeanor as he conducts routine transaction that will become historic"
+    depth: "Foreground shows man and ticket agent interaction, middle ground reveals other passengers, background displays airport terminal architecture and activity"

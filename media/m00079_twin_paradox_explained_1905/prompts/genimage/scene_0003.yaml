@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: June 30, 1905, afternoon
+    location: Academic publisher's office in Leipzig, Germany, traditional scholarly environment
+    weather: Bright summer afternoon conducive to academic work
+  characters:
+  - appearance: 26 years old, medium build, dark wavy hair, mustache, penetrating dark eyes behind wire-rimmed glasses, high
+      forehead
+    clothing: Simple dark suit typical of early 1900s European professionals, white shirt, dark tie, pocket watch
+    position: Standing at mahogany desk presenting manuscript to editor
+    action: Carefully placing revolutionary physics manuscript on editorial desk
+  scene:
+    mainElements: Mahogany desks, manuscript review tables, shelves lined with physics journals, editorial correspondence
+      files
+    details: 30-page handwritten manuscript on standard academic paper, neat handwriting, mathematical equations interspersed
+      with German text, black ink on white paper, careful mathematical derivations, minimal corrections. Editor examining
+      the groundbreaking submission that will change physics forever. Scholarly atmosphere with afternoon light creating warm
+      illumination on the historic moment, no text or letters visible
+    background: Academic office with shelves of scientific journals and scholarly publications
+    atmosphere: Scholarly atmosphere, afternoon light filtering through tall windows, quiet concentration of editorial review
+  composition:
+    cameraAngle: Medium shot focusing on manuscript exchange at editorial desk
+    focus: Historic manuscript being submitted for publication
+    depth: 'Foreground: manuscript on mahogany desk, middle ground: scientist and editor interaction, background: scholarly
+      office with physics journals'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

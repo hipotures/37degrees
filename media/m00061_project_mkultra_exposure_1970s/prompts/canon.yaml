@@ -1,0 +1,115 @@
+canon:
+  characters:
+    - id: "character_FC"
+      name: "Character FC"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 60s, tall, dignified bearing, silver-gray hair, serious expression, weathered face"
+            clothing: "1975 dark blue business suit with white dress shirt and conservative tie, or casual outdoor jacket"
+            posture: "Authoritative, often leaning forward at hearing table or standing with hands clasped behind back"
+    - id: "character_EK"
+      name: "Character EK"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, stocky build, dark wavy hair, intense eyes, confident demeanor"
+            clothing: "1977 navy blue senatorial suit with striped tie, or casual sweater and slacks"
+            posture: "Assertive, often pointing during questioning or leaning back in senator's chair"
+    - id: "character_RH"
+      name: "Character RH"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 60s, slender build, receding hairline, sharp features, calculating expression"
+            clothing: "CIA director's dark gray suit with white shirt and subdued tie, reading glasses hanging from chain"
+            posture: "Guarded, often with arms folded or hands steepled, sitting rigidly upright"
+    - id: "character_SG"
+      name: "Character SG"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 50s, medium build, balding with mustache, clinical expression, thick-rimmed glasses"
+            clothing: "1950s-1970s white lab coat over shirt and tie, or dark civilian suit"
+            posture: "Methodical, often holding documents or sitting at laboratory desk with scientific equipment"
+    - id: "character_FO"
+      name: "Character FO"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, tall, lean build, dark hair, worried expression, scientific bearing"
+            clothing: "1953 white lab coat over white dress shirt and tie, or casual civilian clothes"
+            posture: "Anxious, often with hand to forehead or looking over shoulder, restless movement"
+    - id: "cia_agent_generic"
+      name: "CIA Agent"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s-40s, average build, short dark hair, serious expression, clean-shaven"
+            clothing: "1950s-1970s dark suit with white shirt and narrow tie, sunglasses optional"
+            posture: "Professional, standing at attention or sitting with notepad, alert and watchful"
+    - id: "test_subject_generic"
+      name: "Test Subject"
+      description_block: |
+        characters:
+          - appearance: "Various individuals, 20s-50s, different ethnicities and builds, confused or distressed expressions"
+            clothing: "1950s-1960s civilian clothes, hospital gowns, or institutional clothing"
+            posture: "Vulnerable, often sitting in chairs, lying on examination tables, or standing uncertainly"
+    - id: "congressional_witness"
+      name: "Congressional Witness"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s-60s, formal bearing, gray or dark hair, serious expression"
+            clothing: "1975-1977 business suit with white shirt and conservative tie"
+            posture: "Formal, sitting at witness table with microphone, occasionally gesturing while speaking"
+  locations:
+    - id: "main_location_1"
+      name: "Senate Hearing Room"
+      description_block: |
+        setting:
+          location: "US Senate Committee hearing room, Russell Senate Office Building, Washington DC"
+        mainElements: "Curved wooden committee desk elevated on platform, witness table below, rows of gallery seating, American flag, formal government architecture"
+        atmosphere: "Formal, tense, historically significant governmental proceeding with dramatic lighting"
+    - id: "main_location_2"
+      name: "CIA Headquarters Langley"
+      description_block: |
+        setting:
+          location: "Central Intelligence Agency headquarters, Langley, Virginia"
+        mainElements: "Modern 1970s government office building, secure entrances, windowed corridors, formal meeting rooms with flags and seals"
+        atmosphere: "Secretive, institutional, sterile government facility with sense of hidden activities"
+    - id: "main_location_3"
+      name: "Laboratory Facility"
+      description_block: |
+        setting:
+          location: "Government research laboratory, 1950s-1960s medical facility"
+        mainElements: "White-tiled rooms, laboratory equipment, examination tables, medicine cabinets, clinical lighting, observation windows"
+        atmosphere: "Clinical, cold, unsettling medical environment with sense of secret experimentation"
+    - id: "main_location_4"
+      name: "Hotel Statler New York"
+      description_block: |
+        setting:
+          location: "Hotel Statler, midtown Manhattan, New York City, 1953"
+        mainElements: "Multi-story hotel building, guest room windows, city street below, 1950s urban architecture"
+        atmosphere: "Urban, dramatic, tragic location with sense of mystery and danger"
+    - id: "main_location_5"
+      name: "Camp Detrick Maryland"
+      description_block: |
+        setting:
+          location: "US Army biological warfare facility, Camp Detrick, Frederick, Maryland"
+        mainElements: "Military research compound, laboratory buildings, security fencing, government vehicles, uniformed personnel"
+        atmosphere: "Secure military research facility, secretive, heavily guarded with sense of dangerous experiments"
+  items:
+    - id: "key_item_1"
+      name: "Classified Documents"
+      description_block: |
+        details: "Manila folders stamped with security classifications, typescript pages, government letterhead, scattered papers on tables"
+    - id: "key_item_2"
+      name: "LSD Vials"
+      description_block: |
+        details: "Small glass laboratory vials containing clear liquid, scientific labels, stored in laboratory refrigeration units"
+    - id: "key_item_3"
+      name: "Congressional Gavel"
+      description_block: |
+        details: "Wooden ceremonial gavel on sound block, symbol of congressional authority during hearings"
+    - id: "key_item_4"
+      name: "Laboratory Equipment"
+      description_block: |
+        details: "1950s-1960s medical and scientific equipment, syringes, monitoring devices, recording equipment, charts and graphs"
+    - id: "key_item_5"
+      name: "Newspaper Headlines"
+      description_block: |
+        details: "1970s newspaper front pages with headlines about CIA investigations, black and white photography, dramatic typography"

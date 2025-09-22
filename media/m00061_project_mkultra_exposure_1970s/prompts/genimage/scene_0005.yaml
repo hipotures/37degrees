@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: December 1974, morning
+    location: News editorial office, Manhattan, New York City
+    weather: Cold winter morning, indoor setting
+  characters:
+  - appearance: Caucasian man, 40s, medium build, dark hair, intense expression, wearing glasses
+    clothing: 1974 casual shirt with rolled-up sleeves, loosened tie, press badge visible
+    position: Sitting at desk covered with documents and photographs
+    action: Examining classified documents and photographs, making notes while speaking on telephone
+  - appearance: Caucasian woman, 30s, professional appearance, dark hair in 1970s style
+    clothing: 1974 business blouse and skirt, professional attire
+    position: Standing beside desk holding additional files
+    action: Pointing to specific documents and photographs, discussing findings with colleague
+  scene:
+    mainElements: News office with multiple desks, typewriters, filing cabinets, bulletin boards covered with photographs
+      and notes, overhead fluorescent lighting
+    details: Desk covered with classified government documents, black and white photographs of facilities and individuals,
+      manila folders with security stamps. Telephone off the hook. Coffee cups and ashtrays. Wall clock showing early morning
+      hour. Press credentials and government sources contact information pinned to bulletin board.
+    background: Busy newsroom with other journalists working at desks, windows overlooking Manhattan street, 1970s office
+      equipment and furniture
+    atmosphere: Intense investigative journalism environment with sense of major story breaking, urgency and determination
+      to expose truth, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from side of desk
+    focus: Investigative journalists examining classified documents and evidence
+    depth: Documents and photographs in foreground, journalists in middle ground, newsroom activity in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

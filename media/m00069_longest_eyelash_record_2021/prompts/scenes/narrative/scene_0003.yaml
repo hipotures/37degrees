@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Medical Consultation Seeking Answers"
+  setting:
+    time: "2015, afternoon"
+    location: "Modern medical measurement facility in Shanghai, China, sterile white examination room with professional equipment"
+    weather: "Indoor fluorescent lighting"
+  characters:
+    - appearance: "Chinese woman, 50s, gentle face with kind eyes, naturally long dark hair, distinctive extremely long eyelash on left upper eyelid measuring over 20 centimeters"
+      clothing: "Simple casual modern Chinese clothing, often light colored blouses or sweaters, comfortable everyday attire"
+      position: "Sitting in medical examination chair"
+      action: "Speaking with concern while doctor examines the unusual eyelash growth"
+    - appearance: "Chinese medical doctor, 40s, professional demeanor, short black hair, white medical coat"
+      clothing: "White medical coat over professional attire"
+      position: "Standing beside examination chair with medical instrument"
+      action: "Carefully examining the long eyelash with magnifying device, looking puzzled"
+  scene:
+    mainElements: "Medical examination chair, measurement tools, overhead lighting, clean white walls"
+    details: "Professional medical rulers and measurement devices used for precise documentation of eyelash length, metal rulers with clear markings, sterile medical environment with bright fluorescent lighting, medical charts on walls"
+    background: "Professional, clean, quiet environment focused on scientific verification"
+    atmosphere: "Clinical curiosity mixed with medical puzzlement, serious attempt to find scientific explanation"
+  composition:
+    cameraAngle: "Medium shot from doctor's perspective"
+    focus: "Doctor's examination of the unusual eyelash with character's concerned expression"
+    depth: "Medical examination in foreground, medical equipment in middle ground, sterile white walls in background, no text or letters visible"

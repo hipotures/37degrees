@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Shocking Discovery During Film Development"
+  setting:
+    time: "May 24-30, 1964, several days later"
+    location: "1960s working-class family home in Carlisle, Cumberland, England"
+    weather: "Indoor setting with natural daylight from windows"
+  characters:
+    - appearance: "44 years old, average height and build, thinning brown hair, weathered face typical of outdoor worker, steady hands from firefighting experience"
+      clothing: "Casual home attire - shirt and trousers"
+      position: "Seated at dining table examining developed photographs"
+      action: "Staring in shock and disbelief at unexpected figure in family photograph"
+    - appearance: "35 years old, dark bobbed hair, medium build, 5'4 height"
+      clothing: "Simple home dress, different from marsh outing outfit"
+      position: "Standing beside husband looking over his shoulder"
+      action: "Pointing at mysterious figure, sharing husband's amazement and concern"
+  scene:
+    mainElements: "Black and white photograph showing 5-year-old child in foreground with mysterious white figure visible in background, clear image quality despite unexplained presence laid out on family dining table"
+    details: "Comfortable family environment, lived-in and welcoming atmosphere with family photographs on mantelpiece, developed film prints scattered on table, magnifying glass nearby for closer examination, expressions of genuine bewilderment and concern, no text or letters visible"
+    background: "Modest living room with family furniture, natural lighting from windows illuminating the shocking discovery"
+    atmosphere: "Tension and mystery replacing earlier family joy, sense of something unexplained disrupting normal life"
+  composition:
+    cameraAngle: "Close-up shot focusing on the photograph and family reactions"
+    focus: "The mysterious photograph that has transformed a happy family memory into something unexplained"
+    depth: "Foreground shows detailed examination of photograph, middle ground captures shocked family reactions, background displays normal home environment now disrupted by mystery"

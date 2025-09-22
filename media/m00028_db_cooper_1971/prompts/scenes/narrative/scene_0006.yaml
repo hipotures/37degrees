@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Man examines ransom money and parachutes during refueling"
+  setting:
+    time: "November 24, 1971, 6:30 PM"
+    location: "Interior of Northwest Orient Flight 305, Boeing 727 aircraft on ground at Seattle airport"
+    weather: "Evening darkness falling over Pacific Northwest airport"
+  characters:
+    - appearance: "White man, mid-40s, 6 feet tall, 180 pounds, olive complexion with Latin appearance, dark hair with marcel waves, brown eyes"
+      clothing: "Black business suit, white dress shirt, thin black clip-on tie from J.C. Penney with imitation pearl tie pin, black raincoat, brown leather shoes"
+      position: "Standing in aircraft aisle examining delivered items"
+      action: "Carefully inspecting canvas bag filled with money bundles and testing parachute straps and equipment"
+    - appearance: "Young woman, flight attendant"
+      clothing: "Northwest Orient flight attendant uniform - navy blue dress with white collar and cuffs"
+      position: "Standing nearby in aircraft cabin"
+      action: "Observing man's examination while maintaining professional composure and following his instructions"
+  scene:
+    mainElements: "$200,000 in twenty-dollar bills bundled with rubber bands, serial numbers recorded by FBI, bills dated no later than 1969"
+    details: "Four parachutes total: two main and two reserve chutes, including military surplus Navy backpack parachute and training chute sewn shut, man testing straps and examining equipment with methodical precision, canvas bag open on aircraft seats"
+    background: "Aircraft cabin interior with empty passenger seats, overhead compartments, galley area, windows showing airport tarmac lights and refueling operations outside"
+    atmosphere: "Focused examination period as man verifies delivered items meet his specifications, professional interaction with crew member, calm preparation for unknown next phase, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing man's methodical inspection of ransom and equipment"
+    focus: "Man's careful verification of delivered items demonstrating his planning and attention to detail"
+    depth: "Foreground shows man examining parachutes and money, middle ground displays flight attendant observation, background reveals aircraft interior and external airport operations"

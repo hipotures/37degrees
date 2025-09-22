@@ -1,0 +1,122 @@
+canon:
+  characters:
+    - id: "character_BSB"
+      name: "Character BSB"
+      description_block: |
+        characters:
+          - appearance: "37-year-old Caucasian man, medium build, dark beard and hair typical of New England mariners, weathered complexion from years at sea, serious demeanor befitting an experienced captain"
+            clothing: "Navy blue captain's uniform with brass buttons, peaked cap with maritime insignia, sturdy leather boots, heavy wool overcoat for Atlantic crossing"
+            position: "Standing at ship's wheel or studying navigation charts"
+            action: "Commanding ship operations with methodical precision"
+
+    - id: "character_SEB"
+      name: "Character SEB"
+      description_block: |
+        characters:
+          - appearance: "30-year-old Caucasian woman, petite frame, brown hair typically worn in period-appropriate chignon, pale complexion, gentle facial features"
+            clothing: "Dark traveling dress with high collar and long sleeves, woolen shawl for warmth, lace-up boots, bonnet for deck exposure"
+            position: "In ship's cabin or sheltered area of deck"
+            action: "Caring for child or reading while staying close to family"
+
+    - id: "character_SMB"
+      name: "Character SMB"
+      description_block: |
+        characters:
+          - appearance: "2-year-old child, blonde curly hair, bright eyes, small for her age but healthy, cherubic features"
+            clothing: "Child's woolen dress with pinafore, tiny leather shoes, warm cap and mittens for cold Atlantic weather"
+            position: "In mother's arms or playing in cabin"
+            action: "Playing with toys or staying close to mother for comfort"
+
+    - id: "character_DRM"
+      name: "Character DRM"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged maritime professional, bearded in naval tradition, alert eyes, substantial build typical of experienced sea captain"
+            clothing: "Standard captain's uniform of British merchant marine, heavy bridge coat, naval cap, practical maritime dress"
+            position: "On bridge of his ship or using telescope"
+            action: "Scanning horizon and making navigation decisions"
+
+    - id: "character_OD"
+      name: "Character OD"
+      description_block: |
+        characters:
+          - appearance: "Experienced sailor in his 30s, strong build necessary for boarding operations, practical seaman's attire"
+            clothing: "Heavy wool peacoat, waterproof oilskins, sturdy sea boots, knit cap, equipped with maritime tools"
+            position: "On deck performing boarding operations"
+            action: "Investigating ship conditions and securing rigging"
+
+    - id: "character_FSF"
+      name: "Character FSF"
+      description_block: |
+        characters:
+          - appearance: "Victorian-era British legal official, formal bearing, precise dress, authoritative presence"
+            clothing: "Black legal robes for court proceedings, formal Victorian business attire, white judicial wig"
+            position: "At judge's bench or reviewing documents"
+            action: "Conducting legal proceedings with suspicious scrutiny"
+
+  locations:
+    - id: "pier_50_new_york"
+      name: "Pier 50, East River, New York"
+      description_block: |
+        setting:
+          location: "Bustling 1872 commercial wharf lined with sailing ships, wooden pier extending into East River, warehouse buildings in background"
+        mainElements: "Cargo loading equipment, horse-drawn carts, stacked barrels of alcohol, maritime workers loading vessels, forest of ship masts"
+        atmosphere: "Industrial harbor environment with smells of tar and salt water, sounds of shouting stevedores and creaking rope, November chill in the air"
+
+    - id: "atlantic_ocean_open"
+      name: "Open Atlantic Ocean"
+      description_block: |
+        setting:
+          location: "Vast Atlantic Ocean between New York and Europe, deep blue waters stretching to horizon in all directions"
+        mainElements: "Two-masted sailing vessel cutting through ocean swells, white sails billowing, seabirds following in wake"
+        atmosphere: "Cold November Atlantic air, salt spray, rhythmic sound of waves against hull, sense of isolation and maritime adventure"
+
+    - id: "mary_celeste_deck"
+      name: "Mary Celeste Main Deck"
+      description_block: |
+        setting:
+          location: "103-foot brigantine's wooden deck, two masts with rigging, ship's wheel positioned at stern"
+        mainElements: "Abandoned ship's wheel spinning freely, loose rigging flapping in wind, water-soaked wooden planking, hatch covers partially removed, empty lifeboat davits"
+        atmosphere: "Eerie silence broken only by creaking wood and flapping sails, December Atlantic chill, overwhelming sense of recent but mysterious abandonment"
+
+    - id: "mary_celeste_cargo_hold"
+      name: "Mary Celeste Cargo Hold"
+      description_block: |
+        setting:
+          location: "Ship's cargo compartment below deck, wooden construction with low overhead clearance and supporting beams"
+        mainElements: "Rows of 1,701 wooden barrels containing industrial alcohol, 6 barrels with broken seals and leaked contents, 3.5 feet of seawater in bilge, disassembled pump components"
+        atmosphere: "Strong alcohol vapors mixing with damp wooden smell, cramped conditions with poor lighting from deck hatches above, sense of hidden danger"
+
+    - id: "gibraltar_court"
+      name: "British Vice Admiralty Court, Gibraltar"
+      description_block: |
+        setting:
+          location: "Victorian-era British colonial courtroom with high ceilings, formal legal proceedings under British maritime authority"
+        mainElements: "Elevated judge's bench, witness stand with microphone, gallery seating for observers, British naval flags, stacks of legal documentation and evidence"
+        atmosphere: "Formal legal tension and skepticism, December 1872 Mediterranean winter climate, atmosphere of suspicion regarding salvage claims and possible conspiracy"
+
+  items:
+    - id: "alcohol_barrels"
+      name: "Industrial Alcohol Cargo"
+      description_block: |
+        details: "1,701 wooden barrels approximately 3 feet high and 2 feet diameter with iron hoops, 6 barrels found opened with leaked contents creating pools on floor, denatured ethanol valued at $37,000"
+
+    - id: "missing_lifeboat"
+      name: "Mary Celeste's Missing Lifeboat"
+      description_block: |
+        details: "Standard merchant vessel lifeboat approximately 20 feet long with wooden construction and canvas cover, missing from empty davits showing evidence of hasty but orderly launching"
+
+    - id: "navigation_equipment"
+      name: "Missing Navigation Equipment"
+      description_block: |
+        details: "Ship's chronometer in wooden case, sextant for celestial navigation, and ship's compass all missing from captain's cabin, suggesting planned departure rather than emergency abandonment"
+
+    - id: "disassembled_pump"
+      name: "Ship's Water Pump"
+      description_block: |
+        details: "Mechanical bilge pump with brass and iron components found scattered and disassembled on deck, possibly clogged with debris preventing accurate water level assessment"
+
+    - id: "ships_papers"
+      name: "Missing Ship's Documents"
+      description_block: |
+        details: "Certificate of registry, cargo manifest, crew articles, and captain's official documentation all missing except ship's log, indicating captain took important papers when abandoning vessel"

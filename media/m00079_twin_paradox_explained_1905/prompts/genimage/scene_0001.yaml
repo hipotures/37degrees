@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: March 1905, early morning
+    location: Third floor of government building in medieval city center, Bern, Switzerland, overlooking Aare River
+    weather: Clear Swiss spring morning with bright natural light
+  characters:
+  - appearance: 26 years old, medium build, dark wavy hair, mustache, penetrating dark eyes behind wire-rimmed glasses, high
+      forehead
+    clothing: Simple dark suit typical of early 1900s European professionals, white shirt, dark tie, pocket watch
+    position: Seated at wooden desk writing mathematical equations
+    action: Concentrating intensely on theoretical physics calculations
+  scene:
+    mainElements: Large wooden desk, inkwell, papers scattered with equations, tall windows with views of red-tiled roofs,
+      gas lighting fixtures
+    details: Mathematical formulations written on blackboards and paper, showing time dilation factor γ = 1/√(1-v²/c²), elegant
+      mathematical expressions revealing how time slows as velocity approaches light speed, fundamental constants c (speed
+      of light). Quill pen in hand, ink blots on paper, revolutionary equations taking shape. Early morning sunlight illuminates
+      the workspace where history is being made, no text or letters visible
+    background: Medieval Bern cityscape with red-tiled roofs, cobblestone streets, and distant Alpine peaks
+    atmosphere: Quiet, contemplative, early morning light streaming through windows, sound of horse-drawn carriages on cobblestones
+      below, smell of ink and paper
+  composition:
+    cameraAngle: Medium shot from slightly elevated angle showing desk and character
+    focus: Character writing revolutionary equations with intense concentration
+    depth: 'Foreground: desk with equations and writing materials, middle ground: concentrated physicist, background: Swiss
+      medieval architecture through windows'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

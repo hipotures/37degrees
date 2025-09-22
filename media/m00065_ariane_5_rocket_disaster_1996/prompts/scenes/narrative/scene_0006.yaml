@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Ariane 5 ascending through atmosphere with nominal flight parameters"
+  setting:
+    time: "June 4, 1996, 9:33:30 AM (T+30 seconds)"
+    location: "3000 meters altitude above Kourou, French Guiana"
+    weather: "Clear blue sky with scattered white clouds below"
+  characters:
+    - appearance: "European woman, 30s, medium build, blonde hair in professional bun, alert green eyes"
+      clothing: "1990s white technical blouse with ESA patches, dark navy skirt, headset around neck"
+      position: "Seated at telemetry monitoring station, focused on flight data"
+      action: "Tracking rocket's ascent on radar display, confirming all systems showing normal parameters"
+    - appearance: "European man, 50s, average build, concerned expression, wire-rimmed glasses, receding brown hair"
+      clothing: "1990s gray business suit with blue tie, ESA identification badge"
+      position: "Standing behind flight controllers, monitoring overall mission status"
+      action: "Observing telemetry readings over controller's shoulder, nodding approvingly at nominal flight data"
+  scene:
+    mainElements: "Ariane 5 rocket climbing steadily through clear blue sky, white exhaust trail streaming behind, rocket appearing smaller against vast sky, ground facilities shrinking far below"
+    details: "White rocket with distinctive conical nose cone ascending at proper trajectory angle, twin solid boosters firing symmetrically, bright exhaust plume creating straight white contrail against blue sky, rocket appearing stable and controlled in flight, French Guiana coastline visible far below with jungle and ocean, scattered white clouds beneath rocket's altitude, no text or letters visible"
+    background: "Vast blue sky extending to horizon, curved Earth surface visible below, Atlantic Ocean and South American coast"
+    atmosphere: "Successful nominal flight progression, sense of achievement as Europe's new rocket performs exactly as designed, confidence in mission control"
+  composition:
+    cameraAngle: "High altitude tracking shot following rocket's ascent"
+    focus: "Ariane 5 rocket climbing steadily with mission control monitoring progress"
+    depth: "Foreground shows mission control telemetry displays, middle ground captures rocket in flight, background reveals Earth's curvature and sky"

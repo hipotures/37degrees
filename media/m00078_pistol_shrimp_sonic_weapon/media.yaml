@@ -1,0 +1,11 @@
+media_info:
+  title: Pistol Shrimp Sonic Weapon
+  genre: Nature Documentary
+  description: Small shrimp generates 210-decibel sound waves through collapsing cavitation bubbles, stunning prey
+  target_audience: General public, students, marine biology enthusiasts, nature lovers
+  duration: ~3 minutes
+  objective: Recreate the incredible hunting mechanism of nature's loudest small predator
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

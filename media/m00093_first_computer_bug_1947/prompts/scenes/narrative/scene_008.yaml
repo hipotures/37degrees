@@ -1,0 +1,27 @@
+sceneDescription:
+  title: "Scene 8 - Computer Bug Legacy"
+  setting:
+    time: "September 9, 1947, 5:00 PM
+5:30 PM"
+    location: "Harvard University Computation Laboratory, Cambridge, Massachusetts"
+    weather: "Late afternoon transitioning to evening"
+  characters:
+    - appearance: "Woman, early 40s, medium height, brown hair styled in 1940s fashion, intelligent keen eyes behind wire-rim glasses"
+      clothing: "Navy uniform with lieutenant rank insignia, dark blue jacket with brass buttons, white collared shirt, knee-length skirt, sensible black shoes"
+      position: "Testing computer restoration"
+      action: "Verifying computer operations have resumed normal function after moth removal"")
+  scene:
+    mainElements: "Harvard Mark II computer running normally with all relay panels functioning
+Team discussion about establishing debugging procedures for future computer problems"
+    details: "All indicator lights showing normal operation, relay panels clicking rhythmically, paper tape output resuming proper calculations
+Laboratory logbook open to moth discovery entry, technical manuals being consulted for new debugging protocols, team planning systematic troubleshooting procedures"
+    background: "Active laboratory environment with continued computer operations, Harvard campus visible through windows, ongoing research atmosphere"
+    atmosphere: "Relief and satisfaction at successful problem resolution, confirmation of systematic troubleshooting effectiveness
+Forward-thinking planning for future computer maintenance, recognition of significance for computing field"
+  composition:
+    cameraAngle: "Wide shot showing computer restored to normal operation
+Close-up on planning session for debugging procedures"
+    focus: "Computer systems running normally after successful debugging
+Team developing systematic debugging methodology"
+    depth: "Computer control panels in foreground, operators in middle ground, functioning equipment in background
+Planning documents in foreground, discussion team in middle ground, computer operations in background, no text or letters visible"

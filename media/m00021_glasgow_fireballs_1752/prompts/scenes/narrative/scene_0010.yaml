@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Observer Documents Event for The Gentleman's Magazine"
+  setting:
+    time: "December 11, 1752, evening after the fireball event"
+    location: "Glasgow study or scholarly room, Scotland, December 1752"
+    weather: "Calm evening after the extraordinary atmospheric events"
+  characters:
+    - appearance: "Middle-aged Scottish gentleman, likely educated based on detailed observation skills, 40s, intelligent countenance, careful grooming reflecting professional status"
+      clothing: "Dark wool coat with brass buttons, white linen shirt with cravat, knee-length breeches, white stockings, buckled shoes - typical 1750s Scottish urban dress"
+      position: "Seated at wooden desk with quill pen and paper"
+      action: "Carefully writing detailed account of the day's extraordinary celestial phenomenon for submission to The Gentleman's Magazine"
+  scene:
+    mainElements: "Printed periodical page with 18th-century typography, quality paper typical of educated readership, containing detailed eyewitness description with specific time, direction, colors, and aftermath"
+    details: "By candlelight, the methodical observer records his precise observations of the day's remarkable events. His desk holds papers, ink, and writing materials typical of the era. The scene captures the moment when eyewitness experience becomes historical documentation, as careful notes about the fireball's colors, trajectory, timing, and the subsequent hailstorm are transformed into the permanent record that would preserve this event for posterity. This is how history is made through careful observation and documentation, no text or letters visible"
+    background: "Scholarly room with books, papers, and writing materials reflecting 18th-century academic environment"
+    atmosphere: "Quiet contemplative evening atmosphere, candlelight illuminating the important work of historical documentation"
+  composition:
+    cameraAngle: "Medium shot showing the observer at work documenting history"
+    focus: "The act of recording extraordinary events for future generations"
+    depth: "Foreground shows writing materials and hands at work, middle ground captures the scholarly figure, background features the academic setting that enables historical preservation"

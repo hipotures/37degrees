@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Success - The Researcher Returns to Waiting Child"
+  setting:
+    time: "1968, afternoon, controlled room lighting"
+    location: "Small, sparse testing room at Stanford University's Bing Nursery School"
+    weather: "Indoor controlled environment"
+  characters:
+    - appearance: "Caucasian man, 40s, slender build, dark hair, thoughtful eyes, intellectual appearance"
+      clothing: "1960s academic attire: brown tweed jacket with elbow patches, white dress shirt, dark tie, dress pants"
+      position: "Entering through door, carrying second marshmallow on plate"
+      action: "Returning after 15-minute wait period, observing that child successfully resisted temptation, preparing to reward delayed gratification"
+    - appearance: "5-year-old child, Caucasian, determined expression, slightly taller than typical 4-year-old"
+      clothing: "1960s children's attire: collared shirt and pants or simple dress, neat appearance"
+      position: "Still sitting in chair, looking up expectantly"
+      action: "Having waited successfully, turning toward returning researcher with anticipation and pride, original marshmallow still untouched"
+  scene:
+    mainElements: "Triumphant moment of successful delayed gratification, researcher returning with promised reward, original marshmallow still on plate"
+    details: "Original white marshmallow still on plate showing successful self-control, researcher carrying second marshmallow as promised reward, child's expression of achievement and anticipation"
+    background: "Same testing room where remarkable display of willpower occurred, door open showing researcher's return, timer having completed 15-minute period"
+    atmosphere: "Victory of self-control and delayed gratification, validation of child's patience, historic moment in understanding human willpower development, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot capturing both researcher and child"
+    focus: "Researcher returning with reward, child's successful wait, untouched marshmallow as proof"
+    depth: "Foreground: child and original marshmallow, middle: researcher with second marshmallow, background: testing room environment"

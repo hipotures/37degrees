@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Public Revelations Surface"
+  setting:
+    time: "December 1974, morning"
+    location: "News editorial office, Manhattan, New York City"
+    weather: "Cold winter morning, indoor setting"
+  characters:
+    - appearance: "Caucasian man, 40s, medium build, dark hair, intense expression, wearing glasses"
+      clothing: "1974 casual shirt with rolled-up sleeves, loosened tie, press badge visible"
+      position: "Sitting at desk covered with documents and photographs"
+      action: "Examining classified documents and photographs, making notes while speaking on telephone"
+    - appearance: "Caucasian woman, 30s, professional appearance, dark hair in 1970s style"
+      clothing: "1974 business blouse and skirt, professional attire"
+      position: "Standing beside desk holding additional files"
+      action: "Pointing to specific documents and photographs, discussing findings with colleague"
+  scene:
+    mainElements: "News office with multiple desks, typewriters, filing cabinets, bulletin boards covered with photographs and notes, overhead fluorescent lighting"
+    details: "Desk covered with classified government documents, black and white photographs of facilities and individuals, manila folders with security stamps. Telephone off the hook. Coffee cups and ashtrays. Wall clock showing early morning hour. Press credentials and government sources contact information pinned to bulletin board."
+    background: "Busy newsroom with other journalists working at desks, windows overlooking Manhattan street, 1970s office equipment and furniture"
+    atmosphere: "Intense investigative journalism environment with sense of major story breaking, urgency and determination to expose truth, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from side of desk"
+    focus: "Investigative journalists examining classified documents and evidence"
+    depth: "Documents and photographs in foreground, journalists in middle ground, newsroom activity in background"

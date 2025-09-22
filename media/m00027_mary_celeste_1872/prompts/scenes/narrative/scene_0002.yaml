@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Mary Celeste Under Full Sail - Atlantic Ocean Journey"
+  setting:
+    time: "Mid-November 1872, midday sailing conditions"
+    location: "Vast Atlantic Ocean between New York and Europe, deep blue waters stretching to horizon in all directions"
+    weather: "Clear skies with moderate Atlantic swells, steady westerly winds"
+  characters:
+    - appearance: "37-year-old Caucasian man, medium build, dark beard and hair typical of New England mariners, weathered complexion from years at sea, serious demeanor befitting an experienced captain"
+      clothing: "Navy blue captain's uniform with brass buttons, peaked cap with maritime insignia, sturdy leather boots, heavy wool overcoat for Atlantic crossing"
+      position: "Standing at ship's wheel commanding vessel navigation"
+      action: "Consulting navigation charts and directing course corrections with methodical precision"
+    - appearance: "30-year-old Caucasian woman, petite frame, brown hair typically worn in period-appropriate chignon, pale complexion, gentle facial features"
+      clothing: "Dark traveling dress with high collar and long sleeves, woolen shawl for warmth, lace-up boots, bonnet for deck exposure"
+      position: "Seated in sheltered area of deck near captain"
+      action: "Reading while keeping watchful eye on toddler playing nearby"
+    - appearance: "2-year-old child, blonde curly hair, bright eyes, small for her age but healthy, cherubic features"
+      clothing: "Child's woolen dress with pinafore, tiny leather shoes, warm cap and mittens for cold Atlantic weather"
+      position: "Playing on deck near mother under careful supervision"
+      action: "Playing with wooden toys while staying close to mother for safety"
+  scene:
+    mainElements: "Two-masted brigantine Mary Celeste cutting through Atlantic swells with white sails billowing, German crew members working rigging and adjusting sail configurations, wooden deck wet with ocean spray"
+    details: "Full complement of sails catching steady wind, crew members climbing rigging to adjust sail trim, wooden barrels secured in cargo hold below, ship's wheel responding smoothly to helmsman commands, seabirds following in vessel's wake, rope coils and maritime equipment properly stowed on deck"
+    background: "Endless Atlantic Ocean horizon with no other vessels visible, scattered white clouds in blue sky, distant water spouts from whales or dolphins, rolling ocean swells extending to all directions"
+    atmosphere: "Peaceful maritime voyage with sense of adventure and family togetherness, cold Atlantic air carrying salt spray, rhythmic sound of waves against hull, sense of isolation but not danger in vast ocean expanse"
+  composition:
+    cameraAngle: "Medium shot from port side showing ship cutting through waves with family visible on deck"
+    focus: "Mary Celeste under full sail with captain and family as central focal points"
+    depth: "Foreground shows detailed ship deck and rigging work, middle ground captures vessel's progress through ocean swells, background reveals endless Atlantic horizon with scattered seabirds, no text or letters visible"

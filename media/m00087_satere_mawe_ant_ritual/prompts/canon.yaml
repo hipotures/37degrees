@@ -1,0 +1,76 @@
+canon:
+  characters:
+    - id: "young_initiate"
+      name: "Young Initiate"
+      description_block: |
+        characters:
+          - appearance: "Indigenous Brazilian boy, 12-15 years old, lean athletic build, bronze skin, straight black hair"
+            clothing: "Traditional Sateré-Mawé attire with colorful feather ornaments, woven cotton bands, minimal body decoration"
+            posture: "Nervous but determined, often standing with shoulders slightly hunched, hands at sides"
+    - id: "tribal_elder"
+      name: "Tribal Elder"
+      description_block: |
+        characters:
+          - appearance: "Elderly Sateré-Mawé man, 60s, weathered bronze skin, white-streaked black hair, wise dark eyes"
+            clothing: "Traditional ceremonial robes with elaborate feather headdress, shell and bead jewelry, painted body markings"
+            posture: "Upright and dignified, often with hands raised in ceremonial gestures or holding ritual items"
+    - id: "ant_collector"
+      name: "Ant Collector"
+      description_block: |
+        characters:
+          - appearance: "Adult Sateré-Mawé man, 30s, muscular build, bronze skin, black hair in traditional style"
+            clothing: "Practical forest attire with woven palm leaf protection, minimal ornaments, natural body paint"
+            posture: "Focused and careful, crouched or kneeling when working with ants, alert stance"
+    - id: "community_members"
+      name: "Community Members"
+      description_block: |
+        characters:
+          - appearance: "Various Sateré-Mawé villagers of different ages, bronze skin, traditional facial features"
+            clothing: "Everyday tribal attire with colorful cotton garments, simple jewelry, body paint patterns"
+            posture: "Supportive and watchful, seated in circles or standing in groups during ceremonies"
+  locations:
+    - id: "amazon_rainforest"
+      name: "Amazon Rainforest"
+      description_block: |
+        setting:
+          location: "Dense Amazon rainforest near Sateré-Mawé territory, Amazonas state, Brazil"
+        mainElements: "Towering Brazil nut trees, thick canopy creating dappled shadows, massive buttress roots, tangled vines"
+        atmosphere: "Humid tropical atmosphere with filtered sunlight, sounds of insects and birds, rich earthy scents"
+    - id: "village_center"
+      name: "Village Center"
+      description_block: |
+        setting:
+          location: "Central gathering area of Sateré-Mawé village in Amazon rainforest"
+        mainElements: "Circular clearing surrounded by traditional thatched-roof houses, fire pit in center, woven palm mats"
+        atmosphere: "Community gathering space with warm firelight, ceremonial significance, tribal unity"
+    - id: "forest_clearing"
+      name: "Forest Clearing"
+      description_block: |
+        setting:
+          location: "Small natural clearing in Amazon rainforest where bullet ants are collected"
+        mainElements: "Open space with fallen logs, exposed tree roots, patches of sunlight through canopy"
+        atmosphere: "Focused work environment surrounded by natural forest sounds and filtered light"
+    - id: "ceremonial_hut"
+      name: "Ceremonial Hut"
+      description_block: |
+        setting:
+          location: "Traditional Sateré-Mawé ceremonial shelter within village"
+        mainElements: "Elevated platform with thatched roof, woven walls, carved wooden posts, ritual objects displayed"
+        atmosphere: "Sacred space with cultural artifacts, smoking herbs, spiritual significance"
+  items:
+    - id: "bullet_ant_gloves"
+      name: "Bullet Ant Gloves"
+      description_block: |
+        details: "Woven cashew leaf gloves with hundreds of live bullet ants sewn inside, stingers pointing inward toward hand opening"
+    - id: "collection_gourds"
+      name: "Collection Gourds"
+      description_block: |
+        details: "Hollowed-out gourd containers with woven palm fiber lids used for collecting and transporting bullet ants"
+    - id: "smoking_herbs"
+      name: "Smoking Herbs"
+      description_block: |
+        details: "Sacred plant materials burned to create ceremonial smoke for blessing ant gloves before ritual"
+    - id: "ceremonial_objects"
+      name: "Ceremonial Objects"
+      description_block: |
+        details: "Traditional Sateré-Mawé ritual items including feathered staffs, carved masks, painted gourds, shell instruments"

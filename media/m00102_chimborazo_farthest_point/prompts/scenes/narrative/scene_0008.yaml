@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Comparative Mountain Heights Demonstration"
+  setting:
+    time: "Educational comparison, modern day"
+    location: "Split screen showing both mountains simultaneously"
+    weather: "Clear conditions at both locations"
+  characters:
+    - appearance: "Person in 30s, athletic build, weathered face from high altitude exposure"
+      clothing: "Modern mountaineering gear, insulated jacket, climbing helmet, oxygen equipment"
+      position: "Standing at Everest summit on left side"
+      action: "Holding surveying equipment while celebrating height achievement"
+    - appearance: "Caucasian man, 40s, scholarly build, wire-rimmed glasses, thoughtful expression"
+      clothing: "Khaki field research clothes, hiking boots, backpack with scientific equipment"
+      position: "Standing at Chimborazo summit on right side"
+      action: "Demonstrating distance measurement from Earth's center"
+  scene:
+    mainElements: "Split composition showing Mount Everest summit on left and Mount Chimborazo summit on right with measurement indicators"
+    details: "Side-by-side comparison showing Everest's higher elevation (8,849m) versus Chimborazo's greater distance from Earth's center, surveying equipment, altimeters, barometric pressure gauges, geological measurement tools at both locations, no text or letters visible"
+    background: "Himalayan peaks on left side, Andean peaks on right side, measurement graphics connecting both"
+    atmosphere: "Educational demonstration of surprising geographical truth challenging conventional understanding"
+  composition:
+    cameraAngle: "Wide split-screen comparison shot"
+    focus: "Visual comparison between the two mountain summits"
+    depth: "Measurement indicators in foreground, climbers and summits in middle ground, mountain ranges in background"

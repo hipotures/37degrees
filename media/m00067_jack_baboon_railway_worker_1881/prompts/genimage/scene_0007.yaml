@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1885, afternoon
+    location: Two-story wooden signal box overlooking railway tracks at Uitenhage station
+    weather: Partly cloudy with good visibility
+  characters:
+  - appearance: White male, 40s, sturdy build, determined expression, double leg amputee below the knee
+    clothing: 1880s railway uniform - dark blue wool jacket with brass buttons, white shirt, black tie, dark trousers
+    position: Seated in corner, watching nervously as officials observe the baboon
+    action: Maintaining respectful distance while supporting the baboon during formal evaluation
+  - appearance: Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build
+    clothing: Miniature railway signalman uniform - dark blue cap, small brass buttons on vest
+    position: Standing confidently at lever frame, focused on his work
+    action: Demonstrating perfect signal operation sequence for arriving train, responding precisely to whistle signals
+  - appearance: Middle-aged white men, 40s-50s, formal bearing, skeptical expressions
+    clothing: Victorian formal suits - black coats, white shirts, bow ties, top hats, pocket watches
+    position: Standing in observation group, taking notes and timing responses
+    action: Carefully documenting the baboon's performance, checking pocket watches, exchanging impressed glances
+  scene:
+    mainElements: Mechanical lever frame with numbered signal levers, arriving steam locomotive requiring precise switching,
+      formal evaluation atmosphere with officials documenting performance
+    details: Tall brass and iron mechanical levers numbered 1-10, Victorian-era steam locomotive approaching station, official
+      evaluation papers and timing devices, signal charts on walls, telegraph equipment, oil lamps
+    background: Multiple railway tracks with various trains awaiting signal clearance, busy railway station platform with
+      passengers, colonial buildings and South African countryside
+    atmosphere: Tense formal evaluation with the baboon proving his exceptional abilities to skeptical authorities, industrial
+      sounds of railway operation, official scrutiny mixed with growing admiration
+  composition:
+    cameraAngle: Medium shot from officials' perspective
+    focus: the baboon performing flawless signal operations while railway officials observe and document his abilities
+    depth: 'Foreground: observing officials, middle ground: the baboon at lever frame, background: approaching trains and
+      station activity, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

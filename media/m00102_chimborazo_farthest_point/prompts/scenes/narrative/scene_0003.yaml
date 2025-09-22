@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Everest Traditional Summit Glory"
+  setting:
+    time: "Modern day, morning"
+    location: "Mount Everest summit, Nepal/Tibet border, highest elevation peak at 8,849 meters"
+    weather: "Clear high-altitude conditions with thin air"
+  characters:
+    - appearance: "Person in 30s, athletic build, weathered face from high altitude exposure"
+      clothing: "Modern mountaineering gear, insulated jacket, climbing helmet, oxygen equipment"
+      position: "Standing at summit marker"
+      action: "Celebrating reaching world's highest elevation point with arms raised in victory"
+  scene:
+    mainElements: "Rocky summit with prayer flags, snow-covered ridges, Himalayan peaks extending endlessly to horizon"
+    details: "Oxygen tanks, climbing ropes, ice axes, insulated sleeping bags, high-altitude survival equipment scattered around summit area, prayer flags fluttering in wind, exhausted but triumphant climber, no text or letters visible"
+    background: "Endless Himalayan mountain range stretching to horizon, dramatic mountain peaks and valleys"
+    atmosphere: "Ultimate mountaineering challenge, world's highest elevation, thin air and extreme conditions"
+  composition:
+    cameraAngle: "Wide shot emphasizing dramatic mountain landscape"
+    focus: "Triumphant mountaineer at world's highest elevation point"
+    depth: "Summit markers in foreground, climber in middle ground, Himalayan peaks in background"

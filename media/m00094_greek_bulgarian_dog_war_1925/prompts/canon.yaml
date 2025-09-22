@@ -1,0 +1,76 @@
+canon:
+  characters:
+    - id: "character_GS"
+      name: "Character GS"
+      description_block: |
+        characters:
+          - appearance: "Greek soldier, 20s, medium build, olive complexion, dark hair, youthful face with serious expression"
+            clothing: "Greek military uniform with khaki tunic, matching trousers, leather boots, military cap with Greek insignia"
+            posture: "Alert military bearing, often crouched or running, showing urgency and concern"
+    - id: "character_BS"
+      name: "Character BS"
+      description_block: |
+        characters:
+          - appearance: "Bulgarian border guard, 30s, stocky build, weathered face, brown hair, stern military demeanor"
+            clothing: "Bulgarian military uniform with dark green tunic, black leather belt, military boots, peaked cap"
+            posture: "Rigid sentry stance, often holding rifle at ready position, vigilant and defensive"
+    - id: "character_GC"
+      name: "Character GC"
+      description_block: |
+        characters:
+          - appearance: "Greek army captain, 35s, tall commanding presence, mustache, confident military bearing"
+            clothing: "Greek officer uniform with olive drab tunic, gold rank insignia, leather Sam Browne belt, polished boots"
+            posture: "Authoritative leadership stance, often gesturing with white flag or pointing directions"
+    - id: "character_TP"
+      name: "Character TP"
+      description_block: |
+        characters:
+          - appearance: "Greek general, 45s, imposing figure, graying temples, stern authoritative expression"
+            clothing: "Formal military dress uniform with multiple medals, gold braiding, peaked cap with eagle insignia"
+            posture: "Commanding presence behind desk or reviewing troops, radiating authority and determination"
+  locations:
+    - id: "main_location_1"
+      name: "Greek-Bulgarian Border at Demir Kapia"
+      description_block: |
+        setting:
+          location: "Border crossing point Demir Kapia, 3km west of Radomir on Belasitsa mountain, Greece-Bulgaria border"
+        mainElements: "Rocky mountain pass with border markers, guard posts, barbed wire fencing, no man's land between positions"
+        atmosphere: "Tense frontier atmosphere with military patrols, sounds of wind through mountain pass, sense of territorial vigilance"
+    - id: "main_location_2"
+      name: "Bulgarian Border Guard Post"
+      description_block: |
+        setting:
+          location: "Bulgarian military outpost overlooking border crossing, Belasitsa mountain region"
+        mainElements: "Small wooden guard house, sandbag fortifications, Bulgarian flag, rifle racks, observation equipment"
+        atmosphere: "Military vigilance with constant border surveillance, sounds of equipment and radio communications"
+    - id: "main_location_3"
+      name: "Town of Petrich"
+      description_block: |
+        setting:
+          location: "Petrich, Bulgaria, small border town near Greek frontier"
+        mainElements: "Traditional Bulgarian architecture, church with bell tower, market square, residential houses, cobblestone streets"
+        atmosphere: "Peaceful civilian town disrupted by military action, sounds of daily life interrupted by conflict"
+    - id: "main_location_4"
+      name: "Greek Military Command"
+      description_block: |
+        setting:
+          location: "Greek military headquarters building, Athens or regional command center"
+        mainElements: "Large wooden desk with maps, telephone equipment, filing cabinets, Greek flags, military charts on walls"
+        atmosphere: "High-stakes military planning environment with urgent decision-making, sounds of typewriters and telephone calls"
+  items:
+    - id: "key_item_1"
+      name: "The Stray Dog"
+      description_block: |
+        details: "Medium-sized brown and white mixed breed dog, alert expression, wearing simple leather collar, running freely across terrain"
+    - id: "key_item_2"
+      name: "White Flag of Truce"
+      description_block: |
+        details: "White cloth attached to wooden stick, standard diplomatic symbol for ceasefire negotiations, carried by military officer"
+    - id: "key_item_3"
+      name: "Border Maps"
+      description_block: |
+        details: "Military topographical maps showing Greek-Bulgarian frontier, marked with positions and territorial boundaries, rolled and tied with ribbon"
+    - id: "key_item_4"
+      name: "League of Nations Documents"
+      description_block: |
+        details: "Official diplomatic papers with seals and ribbons, formal international mediation documents, typed on official letterhead"

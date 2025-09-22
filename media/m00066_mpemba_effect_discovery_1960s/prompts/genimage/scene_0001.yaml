@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1963, afternoon
+    location: Magamba Secondary School kitchen classroom, Tanganyika (Tanzania), East Africa
+    weather: Warm tropical afternoon with bright sunlight
+  characters:
+  - appearance: Young African male, 13-17 years old, slender build, curious dark eyes, short dark hair
+    clothing: 1960s Tanzanian school uniform - white short-sleeved shirt, dark shorts, simple brown leather shoes
+    position: Standing at cooking station near gas burner
+    action: Heating milk in metal pot, stirring sugar into boiling mixture for ice cream
+  - appearance: Group of African teenagers, mixed ages 13-16, various builds and heights
+    clothing: 1960s Tanzanian school uniforms - white shirts, dark shorts/skirts, simple shoes
+    position: Scattered around kitchen at different cooking stations
+    action: Working on their own ice cream mixtures, most waiting for milk to cool before refrigeration
+  scene:
+    mainElements: Basic cooking facilities with gas burners, metal pots, wooden work tables, shared refrigerator
+    details: Steam rises from boiling milk in metal pot as sugar dissolves. Other students work with cooler mixtures at various
+      stages. Kitchen walls painted white with simple shelving holding cooking utensils. Large shared refrigerator stands
+      in corner with limited space. Afternoon sunlight streams through windows illuminating workspace, no text or letters
+      visible
+    background: Single-story colonial-era school building with corrugated metal roof visible through windows, tropical vegetation
+      and acacia trees
+    atmosphere: Warm, bustling cooking classroom with steam and food aromas, educational environment with excited students
+      learning practical skills
+  composition:
+    cameraAngle: Medium shot from side angle
+    focus: Student stirring hot milk mixture while steam rises from pot
+    depth: Foreground shows main character with hot mixture, middle ground displays other students with cooler preparations,
+      background reveals kitchen equipment and windows
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

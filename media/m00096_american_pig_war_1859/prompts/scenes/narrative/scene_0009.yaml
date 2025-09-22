@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Diplomatic Intervention - General Scott's Arrival"
+  setting:
+    time: "October 1859, morning"
+    location: "Neutral meeting ground between American and British camps"
+    weather: "Crisp autumn morning with scattered clouds"
+  characters:
+    - appearance: "American man, 73, distinguished elderly general, white hair, dignified bearing"
+      clothing: "US Army dress uniform with general's insignia, ceremonial sword, formal military hat"
+      position: "Standing between opposing forces"
+      action: "Diplomatic bearing, in discussion pose with both military commanders, reviewing documents"
+    - appearance: "British man, 45, naval beard, weathered sea captain appearance, commanding presence"
+      clothing: "Royal Navy uniform with gold braid, white naval cap, brass buttons"
+      position: "Representing British interests"
+      action: "Naval authority, hands clasped behind back, listening to diplomatic proposals"
+  scene:
+    mainElements: "Formal diplomatic meeting with representatives from both nations, documents and maps spread on field table"
+    details: "Outdoor diplomatic conference with folding table and chairs, military maps showing boundary disputes, formal documents being reviewed, honor guards from both nations standing at attention, peaceful meadow setting chosen for neutrality"
+    background: "San Juan Island landscape with both American and British military positions visible in distance, Pacific Northwest scenery"
+    atmosphere: "Diplomatic solution being sought to military standoff, elder statesmanship preventing war over trivial incident, international negotiation in wilderness setting, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing diplomatic negotiations"
+    focus: "International diplomacy preventing armed conflict"
+    depth: "Negotiating parties in foreground, island landscape in middle ground, military positions of both sides in background"

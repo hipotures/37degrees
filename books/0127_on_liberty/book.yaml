@@ -4,3 +4,182 @@ book_info:
   author: "John Stuart Mill"
   year: 1859
   genre: "Philosophy,Political philosophy"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T16:45:00Z"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 10
+    cultural_phenomenon: 6
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 9
+    total: 63
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 7.0
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "tyranny_majority_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Social tyranny penetrates much deeper into life and enslaves the soul itself"
+        source: "dark_drama"
+      - id: "harm_principle_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "The only purpose for exercising power over any member of civilized community is preventing harm to others"
+        source: "symbols_meanings"
+      - id: "colonial_hypocrisy_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "35 years at East India Company while theorizing about liberty, supported benevolent despotism"
+        source: "dark_drama"
+      - id: "scandal_conformity_3"
+        type: "FACT"
+        credibility: 0.90
+        content: "Scandalous relationship with married Harriet Taylor violated all Victorian norms"
+        source: "dark_drama"
+      - id: "prophetic_relevance_4"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Predicted social media tyranny, cancel culture, and content moderation debates"
+        source: "reality_wisdom"
+      - id: "intellectual_partnership_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Stylometric analysis confirms Harriet Taylor Mill was co-author of On Liberty"
+        source: "facts_history"
+      - id: "writing_innovation_6"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Created new genre of philosophical-political essay combining rigor with accessibility"
+        source: "writing_innovation"
+      - id: "constitutional_influence_7"
+        type: "FACT"
+        credibility: 0.90
+        content: "Mill's ideas profoundly influenced American First Amendment jurisprudence"
+        source: "culture_impact"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text of liberal political philosophy in English-speaking world"
+        key_editions: ["Norton Critical Edition", "Oxford World's Classics", "Project Gutenberg"]
+        reception_notes: "Continuously in print since 1859, influences constitutional law"
+        educational_status: "Required reading in political philosophy courses"
+        local_themes: ["First Amendment influence", "Liberal tradition foundation"]
+
+      pl:
+        cultural_impact: "Influential in Polish positivist period, adapted during communist era"
+        key_editions: ["PWN Publishing", "Akme Publishing translation by A. Kurlandzka"]
+        reception_notes: "Used in matura exam preparation, theatrical adaptation Mill/Maslow"
+        educational_status: "Part of WOS curriculum for secondary schools"
+        local_themes: ["Polish positivism influence", "Freedom during partitions"]
+
+      de:
+        cultural_impact: "Bridge between British liberalism and German idealist tradition"
+        key_editions: ["Reclam Verlag Universal-Bibliothek", "Murmann Verlag collected works"]
+        reception_notes: "Strong academic engagement, John Stuart Mill Institute research"
+        educational_status: "Central to German political philosophy education"
+        local_themes: ["Wilhelm von Humboldt connection", "Frankfurt School engagement"]
+
+      fr:
+        cultural_impact: "Received positively alongside German intellectual tradition"
+        key_editions: ["French translations since 19th century"]
+        reception_notes: "Part of continental liberal philosophy discourse"
+        educational_status: "Studied in French political theory"
+        local_themes: ["Continental philosophy integration", "Liberal democratic theory"]
+
+      es:
+        cultural_impact: "Influence on Spanish-speaking liberal movements"
+        key_editions: ["Spanish translations available"]
+        reception_notes: "Part of liberal political education"
+        educational_status: "Political philosophy curriculum"
+        local_themes: ["Liberal movement influence", "Democratic transition"]
+
+      pt:
+        cultural_impact: "Brazilian and Portuguese liberal thought influence"
+        key_editions: ["Portuguese translations"]
+        reception_notes: "Academic and political discourse"
+        educational_status: "University political theory"
+        local_themes: ["Lusophone liberalism", "Democratic development"]
+
+      ja:
+        cultural_impact: "Western liberal thought introduction to Japanese academia"
+        key_editions: ["Japanese academic translations"]
+        reception_notes: "Comparative political philosophy study"
+        educational_status: "Western philosophy courses"
+        local_themes: ["Modernization thought", "Individual vs society"]
+
+      ko:
+        cultural_impact: "Democratic development and individual rights discourse"
+        key_editions: ["Korean translations"]
+        reception_notes: "Democracy movement context"
+        educational_status: "Political theory education"
+        local_themes: ["Democratic movement", "Individual liberty concepts"]
+
+      hi:
+        cultural_impact: "Colonial critique context and post-independence political thought"
+        key_editions: ["Hindi translations"]
+        reception_notes: "Postcolonial political theory"
+        educational_status: "Political science curriculum"
+        local_themes: ["Colonial critique", "Democratic institution building"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-02:48"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Victorian social constraints and Mill's rebellion against conformity"
+        - segment: 2
+          time_range: "02:48-05:36"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Mill's colonial career vs liberty theories - the imperial contradiction"
+        - segment: 3
+          time_range: "05:36-08:24"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Tyranny of majority in social media and cancel culture"
+        - segment: 4
+          time_range: "08:24-11:12"
+          topic: "social_movements"
+          lead: "host_b"
+          description: "Influence on women's rights, civil rights, and constitutional law"
+        - segment: 5
+          time_range: "11:12-14:00"
+          topic: "future_implications"
+          lead: "host_a"
+          description: "Applying harm principle to digital rights and content moderation"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'On Liberty' through lens of power, gender, class. Historical context: 1859. Connect Victorian social pressures to Mill's arguments about tyranny of the majority."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates, modern interpretations of Mill's harm principle in digital age, content moderation debates."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical racist attitudes", "colonial content discussion", "controversial biographical details"]
+    educational_elements: ["Political philosophy foundations", "Historical context of 1859 Victorian society", "Constitutional law development", "Social movement origins"]
+    production_notes:
+      intro_style: "serious academic with contemporary relevance"
+      transitions: "subtle musical bridges"
+      outro_style: "thoughtful reflection on lasting impact"
+
+  overall_confidence: 0.87

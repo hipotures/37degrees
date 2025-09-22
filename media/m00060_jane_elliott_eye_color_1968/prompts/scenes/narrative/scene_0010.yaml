@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Children Write Their Reflections and Lessons Learned"
+  setting:
+    time: "April 6, 1968, end of school day"
+    location: "Third grade classroom, Riceville Community Elementary School, Riceville, Iowa"
+    weather: "Late afternoon golden light, peaceful spring evening approaching"
+  characters:
+    - appearance: "Caucasian woman, early 30s, average height, dark brown hair styled in 1960s bouffant, determined expression, warm but authoritative demeanor"
+      clothing: "Late 1960s teacher attire - modest knee-length dress or skirt with blouse, low heels, simple jewelry"
+      position: "Standing at front of classroom or moving between student desks"
+      action: "Teaching, explaining rules, observing student behavior, taking notes"
+    - appearance: "Group of 8-year-old Caucasian children with blue eyes, various heights, mix of boys and girls, expressions ranging from confused to distressed to defiant"
+      clothing: "Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with blouses, some wearing paper collars around necks when designated as inferior"
+      position: "Seated at wooden school desks or standing in designated areas"
+      action: "Following restrictive rules, showing signs of stress or rebellion, interacting cautiously"
+    - appearance: "Group of 8-year-old Caucasian children with brown eyes, various heights, mix of boys and girls, expressions showing confidence when privileged or dejection when discriminated against"
+      clothing: "Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with blouses, some wearing paper collars around necks when designated as inferior"
+      position: "Seated at wooden school desks or standing in privileged areas"
+      action: "Enjoying privileges or enduring restrictions depending on the day, showing learned superiority or inferiority"
+  scene:
+    mainElements: "Wooden rulers, pencils, lined paper, textbooks from the era, chalkboard erasers, simple wooden desks with inkwell holes"
+    details: "Children sit peacefully at their desks writing thoughtful reflections about their experience with discrimination, faces showing concentration and newfound understanding, teacher walking quietly between rows offering gentle guidance, classroom atmosphere restored to harmony with all artificial barriers removed, golden afternoon light creating peaceful end to powerful learning experience, no text or letters visible"
+    background: "Peaceful classroom with normal educational atmosphere restored, windows showing serene Iowa landscape"
+    atmosphere: "Reflective calm and deeper understanding following the powerful lesson about prejudice"
+  composition:
+    cameraAngle: "Wide shot showing unified classroom of children writing"
+    focus: "Children thoughtfully composing their reflections about discrimination"
+    depth: "Students writing reflectively in foreground, teacher supervising gently in middle ground, peaceful classroom environment in background"

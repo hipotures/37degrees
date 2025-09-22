@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Emergency Government Meeting About Emu Crisis"
+  setting:
+    time: "1932, late afternoon"
+    location: "Western Australian government office, Perth, 1932"
+    weather: "Indoor setting, late afternoon light filtering through windows"
+  characters:
+    - appearance: "Caucasian man, 50s, sun-weathered face, worried expression, calloused hands"
+      clothing: "1930s farmer attire, worn cotton shirt, dark trousers held by suspenders, wide-brimmed hat, work boots"
+      position: "Standing at attention before government desk"
+      action: "Gesturing emphatically while speaking to government officials, hat in hand"
+    - appearance: "Caucasian man, 60s, well-fed appearance, formal bearing, stern bureaucratic expression"
+      clothing: "1930s government official attire, dark formal suit with vest, white shirt, conservative tie"
+      position: "Seated behind large wooden desk"
+      action: "Listening intently while reviewing documents and maps spread across the desk"
+  scene:
+    mainElements: "Formal office with heavy wooden desk, filing cabinets, maps of Western Australia on walls showing the affected farming regions marked with pins and annotations"
+    details: "Large wall map of Western Australia with red pins marking affected farming areas around Campion district. Stacks of reports and correspondence on the desk. Filing cabinets line the walls with government documents. A telephone sits on the desk corner. Windows show Perth cityscape. Oil portraits of government officials hang on wood-paneled walls. Gas lamp provides additional lighting to the electric fixtures"
+    background: "Wood-paneled government office walls, tall windows overlooking Perth, formal government building interior typical of 1930s Australian bureaucracy"
+    atmosphere: "Serious bureaucratic environment with sense of urgency, formal government response to agricultural crisis, tension between rural needs and official procedures, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing both the pleading farmer and the government official"
+    focus: "The contrast between rural desperation and bureaucratic formality, emphasizing the communication gap"
+    depth: "Foreground shows the farmer's urgent gestures, middle ground centers on the official's desk with maps and documents, background reveals the formal government office setting"

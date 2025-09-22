@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Secret FBI Surveillance Operations Center"
+  setting:
+    time: "1970, evening"
+    location: "FBI field office, Media, Pennsylvania, small suburban building"
+    weather: "Cold winter evening, frost on windows"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, clean-shaven, serious expression, professional appearance"
+      clothing: "Dark suit, white shirt, narrow tie, often wearing fedora hat"
+      position: "Standing at filing cabinet pulling out documents"
+      action: "Organizing classified files and surveillance materials"
+    - appearance: "Caucasian man, 30s-40s, clean-shaven, serious expression, professional appearance"
+      clothing: "Dark suit, white shirt, narrow tie, often wearing fedora hat"
+      position: "Seated at desk with telephone equipment"
+      action: "Monitoring wiretapping equipment and recording devices"
+  scene:
+    mainElements: "Filing cabinets, desks with papers, American flag, FBI seal on wall, surveillance equipment, reel-to-reel tape recorders"
+    details: "Stacks of manila folders, surveillance photographs pinned to bulletin board, rotary phones, desk lamps, typewriter with carbon paper, wall clock showing late hour, coffee cups"
+    background: "Government office fluorescent lighting, venetian blinds on windows, map of local area on wall"
+    atmosphere: "Sterile government office environment with sense of secret operations and surveillance, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot showing entire office space"
+    focus: "FBI agents organizing classified surveillance materials"
+    depth: "Foreground shows desk equipment, middle ground captures agents working, background reveals office environment"

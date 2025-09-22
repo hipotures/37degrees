@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "The Mushroom-Shaped Object Appears"
+  setting:
+    time: "February 5, 1985, early evening"
+    location: "Rural area, Isle of Arran, with clear view of evening sky"
+    weather: "Clear winter evening, perfect visibility"
+  characters:
+    - appearance: "Scottish man, 40s, average build, weathered face from island life"
+      clothing: "1985 winter clothing - thick wool sweater, heavy jacket, practical trousers, warm hat"
+      position: "Standing with arm fully extended, pointing directly at sky object"
+      action: "Gesturing urgently for family to look, expression of disbelief and excitement"
+    - appearance: "Scottish woman, 30s-40s, medium build, concerned expression"
+      clothing: "1985 winter clothing - warm coat, wool scarf, sensible boots, knitted hat"
+      position: "Standing close beside husband, both hands raised to shield eyes"
+      action: "Staring intently at sky object, expression shifting from skepticism to amazement"
+    - appearance: "Scottish girl, 8-12 years old, curious expression, bright eyes"
+      clothing: "Child's 1985 winter wear - colorful jacket, warm mittens, winter boots, knitted hat"
+      position: "Standing between parents, looking up with wide eyes"
+      action: "Pointing excitedly at the same object, jumping slightly with excitement"
+    - appearance: "Scottish girl, 6-10 years old, wide-eyed wonder, smaller than sister"
+      clothing: "Child's 1985 winter wear - bright winter coat, warm gloves, small boots, wool hat"
+      position: "Pressed close to mother for warmth and security"
+      action: "Looking up in pure amazement, mouth slightly open in wonder"
+  scene:
+    mainElements: "Distinctive mushroom or dome-shaped aerial object, bright blue illumination on underside, metallic appearance, hovering high in clear winter sky, maintaining stable mushroom form throughout observation"
+    details: "Object clearly visible against darkening sky, bright blue glow emanating from underneath creating distinctive illumination, mushroom shape well-defined and unlike any conventional aircraft, family all focused on same extraordinary sight, winter landscape of Arran providing dramatic backdrop"
+    background: "Clear winter sky with emerging stars, Arran's mountainous silhouette, distant lights from island settlements"
+    atmosphere: "Moment of collective amazement and disbelief, peaceful Scottish evening transformed into extraordinary encounter, sense of witnessing something unexplainable"
+  composition:
+    cameraAngle: "Medium shot showing both family and sky object"
+    focus: "Split focus between family's amazed reactions and the mushroom-shaped object above"
+    depth: "Foreground: animated family group, middle: clear winter air, background: mushroom UFO against evening sky and Arran landscape, no text or letters visible"

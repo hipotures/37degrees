@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Routine night flight over South China Sea at cruising altitude"
+  setting:
+    time: "March 8, 2014, 01:01 MYT - normal cruising phase"
+    location: "Dark ocean waters of South China Sea 35,000 feet below, night sky with scattered clouds above"
+    weather: "Clear skies with good visibility and normal flying conditions"
+  characters:
+    - appearance: "53-year-old Malaysian man of medium build, graying hair, experienced aviator bearing with alert dark eyes"
+      clothing: "Malaysia Airlines pilot uniform with four gold stripes indicating captain rank, white shirt, black tie, captain wings pin"
+      position: "In left pilot seat monitoring flight instruments"
+      action: "Checking navigation displays and communicating with air traffic control, maintaining professional demeanor"
+    - appearance: "27-year-old young Malaysian aviator, clean-shaven, alert expression with attentive eyes"
+      clothing: "Malaysia Airlines first officer uniform with three gold stripes, completing Boeing 777 transition training"
+      position: "In right pilot seat reviewing flight management system"
+      action: "Cross-checking flight parameters and monitoring automated systems during cruise flight"
+  scene:
+    mainElements: "Vast expanse of dark ocean water, occasional distant lights from ships on surface, aircraft navigation lights"
+    details: "Aircraft flying smoothly at 35,000 feet with all navigation lights functioning, cockpit instruments showing normal parameters, autopilot engaged, communication equipment active, occasional glimpses of ships' lights far below on ocean surface, scattered clouds visible in moonlight"
+    background: "Endless dark ocean horizon stretching in all directions, star-filled sky above clouds, distant weather formations"
+    atmosphere: "Peaceful night flight conditions with clear weather and normal visibility for routine commercial aviation"
+  composition:
+    cameraAngle: "External view from slightly above and behind aircraft showing night flight profile"
+    focus: "Boeing 777 aircraft maintaining steady cruise flight over dark ocean"
+    depth: "Foreground shows aircraft with navigation lights, middle ground shows scattered clouds, background shows vast ocean surface with occasional ship lights, no text or letters visible"

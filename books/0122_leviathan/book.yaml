@@ -4,3 +4,182 @@ book_info:
   author: "Thomas Hobbes"
   year: 1651
   genre: "Political philosophy,Treatise"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T20:15:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 8
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 8
+    total: 65
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Hobbes called 'Monster of Malmesbury', books burned at Oxford 1666, accused of atheism by Parliament"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Leviathan represents fundamental conflict between chaos and order, appearing in mythologies worldwide"
+        source: "symbols_meanings"
+      - id: "culture_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Over 60 cultural adaptations from Orwell's 1984 to contemporary video games and dystopian literature"
+        source: "culture_impact"
+      - id: "innovation_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary geometric method in philosophy, created social contract theory framework"
+        source: "writing_innovation"
+      - id: "reality_4"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Eerily prophetic about surveillance states, COVID restrictions, security vs freedom dilemmas"
+        source: "reality_wisdom"
+      - id: "youth_5"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Gen Z parallels with digital social contract - privacy for connectivity, fear of social isolation"
+        source: "youth_digital"
+      - id: "facts_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Written during English Civil War exile in Paris, response to political chaos and fear of anarchy"
+        source: "facts_history"
+      - id: "warnings_7"
+        type: "FACT"
+        credibility: 0.95
+        content: "Extreme content warnings for atheism accusations, totalitarian interpretations, political absolutism"
+        source: "content_warnings_assessment"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in British academia, foundational to American constitutional theory despite preference for Locke"
+        key_editions: ["Norton Critical Edition", "Penguin Classics", "Cambridge Texts"]
+        reception_notes: "BBC Radio 4 coverage, Cambridge School scholarship, tech industry references"
+        educational_status: "Central to Anglo-American political thought curricula"
+        local_themes: ["Constitutional theory", "Separation of powers debates", "Digital Leviathan metaphors"]
+
+      pl:
+        cultural_impact: "Significant influence in Polish intellectual culture, published by PWN 1954, Czesław Znamierowski translation"
+        key_editions: ["PWN 1954 edition", "Aletheia 2009", "Konfederacja Lewiatan business organization"]
+        reception_notes: "Complex PRL reception - state power resonance vs. tyranny critique"
+        educational_status: "Matura examination material, philosophy and social studies curriculum"
+        local_themes: ["Homo homini lupus in Polish culture", "Historical parallels with partitions", "Democracy vs authoritarianism"]
+
+      de:
+        cultural_impact: "Profound influence via Carl Schmitt's analysis, major German publishers maintain multiple editions"
+        key_editions: ["Suhrkamp definitive translation", "Reclam Universal-Bibliothek", "Akademie Verlag commentary"]
+        reception_notes: "Schmitt's 1938 interpretation shaped global understanding, Leo Strauss German contribution"
+        educational_status: "Gymnasium philosophy courses, university Staatstheorie seminars"
+        local_themes: ["Decisionism and state of exception", "Protection-obedience axiom", "Liberal individualism critique"]
+
+      fr:
+        cultural_impact: "Written in Parisian exile, influenced by French intellectual circle around Mersenne"
+        key_editions: ["French philosophical translations", "Academic editions"]
+        reception_notes: "French intellectuals initially suspicious, later academic adoption"
+        educational_status: "French university political philosophy programs"
+        local_themes: ["Absolutism vs republicanism", "Church-state relations", "Cartesian influence"]
+
+      es:
+        cultural_impact: "Reception in Spanish-speaking academia, focus on colonial power structures"
+        key_editions: ["Spanish university editions", "Academic translations"]
+        reception_notes: "Post-colonial interpretations of sovereign power"
+        educational_status: "Political science curricula in Spain and Latin America"
+        local_themes: ["Colonial discourse analysis", "Imperial power structures", "Democratic transitions"]
+
+      pt:
+        cultural_impact: "Brazilian and Portuguese academic reception, authoritarian regime studies"
+        key_editions: ["Portuguese academic translations", "Brazilian university texts"]
+        reception_notes: "Analysis through experience of authoritarian regimes"
+        educational_status: "Political science and philosophy programs"
+        local_themes: ["Military dictatorship parallels", "Democratic consolidation", "State-society relations"]
+
+      ja:
+        cultural_impact: "Japanese political science reception, focus on order and hierarchy"
+        key_editions: ["Japanese academic translations", "University press editions"]
+        reception_notes: "Interest in state authority and social order concepts"
+        educational_status: "Political philosophy courses in Japanese universities"
+        local_themes: ["Social harmony vs individual rights", "Collective responsibility", "State legitimacy"]
+
+      ko:
+        cultural_impact: "South Korean academic reception, authoritarian regime analysis"
+        key_editions: ["Korean university translations", "Academic press editions"]
+        reception_notes: "Studied in context of democratization and military rule"
+        educational_status: "Political science programs, democratization studies"
+        local_themes: ["Authoritarianism analysis", "Democratic transition", "State-civil society relations"]
+
+      hi:
+        cultural_impact: "Indian political science reception, colonial and post-colonial power analysis"
+        key_editions: ["Indian academic translations", "University press editions"]
+        reception_notes: "Analysis of colonial state structures and post-independence governance"
+        educational_status: "Political science and philosophy departments"
+        local_themes: ["Colonial state legacy", "Democratic governance", "Federalism debates"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "foundational_theory"
+          lead: "host_a"
+          description: "Hobbes' geometric method and mechanistic approach to political philosophy"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "state_of_nature"
+          lead: "host_b"
+          description: "War of all against all and the human condition without government"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "social_contract"
+          lead: "host_a"
+          description: "Creation of Leviathan through collective agreement and transfer of rights"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "absolute_sovereignty"
+          lead: "host_b"
+          description: "Indivisible power and the sovereign's authority over church and state"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "modern_relevance"
+          lead: "host_a"
+          description: "Contemporary applications in surveillance, security, and democratic theory"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'Leviathan' with scholarly depth. Discuss structure, symbolism, political theory. Focus on Hobbes' geometric method, the mechanistic view of state creation, and absolute sovereignty concepts. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples of social contract theory, connect to modern political theories, ensure accessibility for complex philosophical concepts."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence references", "atheism accusations discussion", "authoritarian power analysis"]
+    educational_elements: ["Political philosophy foundations", "Social contract theory", "17th century historical context", "Geometric method in philosophy"]
+    production_notes:
+      intro_style: "scholarly introduction with historical context"
+      transitions: "subtle classical music bridges"
+      outro_style: "academic conclusion linking to contemporary relevance"
+
+  overall_confidence: 0.9

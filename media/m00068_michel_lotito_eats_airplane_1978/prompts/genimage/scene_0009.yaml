@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1980, afternoon
+    location: Formal presentation venue with official podium and ceremonial backdrop
+    weather: Indoor ceremony, professional lighting setup
+  characters:
+  - appearance: French man, 30s, medium build, distinctive intense dark eyes, average height, concentrated expression when
+      eating unusual objects
+    clothing: Simple 1970s casual wear - button-down shirts, dark trousers, sometimes white lab coat during medical examinations
+    position: Standing at podium receiving official recognition
+    action: Accepting record achievement recognition, modest but proud demeanor
+  - appearance: Formal officials in business attire, serious professional expressions
+    clothing: 1980s business suits, formal presentation attire
+    position: At official presentation podium
+    action: Presenting official recognition for unprecedented achievement
+  scene:
+    mainElements: Formal podium setup, ceremonial backdrop, professional presentation area
+    details: Official document recognizing unusual eating achievements, formal presentation format, professional photography
+      equipment, ceremonial presentation setup, microphones for official announcement
+    background: Formal venue with institutional backdrop, professional lighting for documentation
+    atmosphere: Official recognition ceremony, formal achievement documentation, historic record moment
+  composition:
+    cameraAngle: Formal presentation shot from audience perspective
+    focus: Official recognition ceremony in progress
+    depth: 'Foreground: ceremony participants, middle ground: presentation podium and officials, background: formal venue
+      setting, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

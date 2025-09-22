@@ -1,0 +1,77 @@
+canon:
+  characters:
+    - id: "character_JW"
+      name: "Character JW"
+      description_block: |
+        characters:
+          - appearance: "White male, 40s, sturdy build, determined expression, double leg amputee below the knee"
+            clothing: "1880s railway uniform - dark blue wool jacket with brass buttons, white shirt, black tie, dark trousers"
+            posture: "Seated in small wooden trolley or wheelchairs, using strong arm movements, confident despite disability"
+    - id: "character_jack"
+      name: "The Baboon"
+      description_block: |
+        characters:
+          - appearance: "Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build"
+            clothing: "Miniature railway signalman uniform - dark blue cap, small brass buttons on vest"
+            posture: "Upright human-like stance when working, attentive posture, precise hand movements"
+    - id: "railway_officials"
+      name: "Railway Officials"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged white men, 40s-50s, formal bearing, skeptical expressions"
+            clothing: "Victorian formal suits - black coats, white shirts, bow ties, top hats, pocket watches"
+            posture: "Standing with authority, hands behind backs, observing with critical attention"
+  locations:
+    - id: "uitenhage_station"
+      name: "Uitenhage Railway Station"
+      description_block: |
+        setting:
+          location: "Uitenhage railway station, Cape Colony, South Africa"
+        mainElements: "Victorian-era railway station with stone platform, wooden signal box, multiple rail tracks"
+        details: "Signal levers, mechanical switching equipment, telegraph wires, wooden waiting benches"
+        atmosphere: "Busy colonial railway hub with steam and industrial sounds"
+    - id: "signal_box"
+      name: "Railway Signal Box"
+      description_block: |
+        setting:
+          location: "Two-story wooden signal box overlooking railway tracks at Uitenhage station"
+        mainElements: "Mechanical lever frame with numbered signal levers, large windows for track visibility"
+        details: "Brass lever handles, signal charts on walls, oil lamps, wooden stairs, telegraph equipment"
+        atmosphere: "Functional industrial workspace with precise mechanical equipment"
+    - id: "market_square"
+      name: "South African Market Square"
+      description_block: |
+        setting:
+          location: "Bustling market square in 1880s Cape Colony town"
+        mainElements: "Dirt roads, wooden market stalls, ox-drawn wagons, colonial architecture"
+        details: "Fresh produce stalls, livestock, local vendors, Victorian storefronts"
+        atmosphere: "Lively colonial marketplace with mix of European and African cultures"
+    - id: "home_dwelling"
+      name: "Railway Worker's Cottage"
+      description_block: |
+        setting:
+          location: "Simple colonial worker's cottage near Uitenhage railway station"
+        mainElements: "Single-story stone and wood house, small front porch, dirt yard"
+        details: "Oil lamps, simple wooden furniture, railway work tools, domestic items"
+        atmosphere: "Modest working-class home with functional simplicity"
+  items:
+    - id: "wooden_trolley"
+      name: "Personal Transport Trolley"
+      description_block: |
+        details: "Small wooden cart with four wheels, rope handle, designed for one person to push another"
+    - id: "signal_levers"
+      name: "Railway Signal Levers"
+      description_block: |
+        details: "Tall brass and iron mechanical levers numbered 1-10, arranged in precise row, controlling track switches"
+    - id: "beer_bottle"
+      name: "Weekly Beer Payment"
+      description_block: |
+        details: "Brown glass beer bottle, half-full, part of Jack's weekly wages along with coins"
+    - id: "railway_uniform"
+      name: "Miniature Railway Uniform"
+      description_block: |
+        details: "Custom-made dark blue railway cap and vest with brass buttons, sized for baboon"
+    - id: "steam_locomotive"
+      name: "Cape Colony Steam Train"
+      description_block: |
+        details: "Victorian-era steam locomotive, black iron body, large smokestack, brass fittings, passenger cars"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Haleakalā Observatory Under Starlit Skies"
+  setting:
+    time: "October 19, 2017, evening/night"
+    location: "High-altitude observatory on dormant volcano summit at 10,023 feet elevation, Haleakalā, Hawaii"
+    weather: "Clear skies with exceptional atmospheric transparency typical of Haleakalā"
+  characters:
+    - appearance: "Mid-30s Caucasian male postdoctoral researcher, medium build, focused demeanor typical of dedicated astronomer"
+      clothing: "Casual academic attire - button-down shirt, khakis, often wearing observatory safety equipment"
+      position: "At telescope control station or computer workstation"
+      action: "Reviewing telescope data and astronomical images with methodical attention to detail"
+  scene:
+    mainElements: "White dome-shaped buildings housing telescopes, Pan-STARRS1 telescope facility, clear mountain air with 1.8-meter diameter reflecting telescope housed in white protective dome, designed for wide-field sky surveys and asteroid detection, remotely operated astronomical instrument"
+    details: "Crisp, thin air with exceptional visibility, star-filled night sky, isolated scientific outpost feel. Computer monitors displaying astronomical data, digital image processing equipment, and observation logs. The researcher methodically examines a 45-second exposure showing a faint streak against the star field background."
+    background: "Majestic night sky filled with countless stars visible due to high altitude and minimal light pollution, distant volcanic landscape"
+    atmosphere: "Crisp, thin air with exceptional visibility, star-filled night sky, isolated scientific outpost feel with sense of discovery and scientific dedication, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot focusing on researcher at work with telescope dome visible"
+    focus: "The astronomer discovering the faint streak in telescope images"
+    depth: "Foreground shows computer workstation, middle ground shows researcher, background shows dome and starry sky"

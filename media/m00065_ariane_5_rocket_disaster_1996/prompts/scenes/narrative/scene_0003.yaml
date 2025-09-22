@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mission control team conducting pre-launch systems check"
+  setting:
+    time: "June 4, 1996, early morning"
+    location: "Jupiter Control Room, Centre Spatial Guyanais, Kourou, French Guiana"
+    weather: "Clear indoor environment with air conditioning"
+  characters:
+    - appearance: "European woman, 30s, medium build, blonde hair in professional bun, alert green eyes"
+      clothing: "1990s white technical blouse with ESA patches, dark navy skirt, headset around neck"
+      position: "Seated at primary control station in front row"
+      action: "Monitoring telemetry data on multiple computer screens, hands positioned over keyboard and controls"
+    - appearance: "European man, 50s, average build, concerned expression, wire-rimmed glasses, receding brown hair"
+      clothing: "1990s gray business suit with blue tie, ESA identification badge"
+      position: "Standing behind control stations, moving between workstations"
+      action: "Reviewing checklist procedures with control team, pointing at wall displays showing system status"
+  scene:
+    mainElements: "Modern 1990s control room with multiple computer workstations arranged in tiered rows, large wall displays showing telemetry data and system diagrams, rows of technical consoles with CRT monitors, countdown clock display"
+    details: "Computer screens displaying scrolling numerical flight parameters in green and amber text, mission status boards with LED indicators, communication equipment with multiple channels, printed checklists and technical manuals on desks, coffee cups and notepads scattered around workstations, cable management systems under raised floor, no text or letters visible"
+    background: "Additional control stations with more technicians, large mission display screens, glass-walled observation area, equipment racks with blinking status lights"
+    atmosphere: "High-tech environment with blue and green screen lighting, tense concentration and precision as team prepares for historic maiden flight, sense of anticipation and technical excellence"
+  composition:
+    cameraAngle: "Wide shot from rear of control room looking toward main displays"
+    focus: "Control team working at their stations with mission displays prominently visible"
+    depth: "Foreground shows detailed control station setup, middle ground captures team coordination, background reveals scale of mission control operation"

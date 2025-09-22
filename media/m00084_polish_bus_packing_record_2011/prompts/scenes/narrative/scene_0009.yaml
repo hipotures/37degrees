@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Successful Completion and Exit"
+  setting:
+    time: "June 1, 2011, 11:21 AM"
+    location: "Campus courtyard of Faculty of Mechanical Engineering, Krakow University of Technology, Krakow, Poland"
+    weather: "Bright sunny day with celebratory atmosphere"
+  characters:
+    - appearance: "Young Caucasian man, early 20s, athletic build, determined expression"
+      clothing: "Casual university attire - jeans, university sweatshirt, sneakers"
+      position: "Exiting bus after successful record completion"
+      action: "Ready to participate, enthusiastic body language"
+    - appearance: "Young Caucasian woman, early 20s, medium height, focused expression"
+      clothing: "Casual student outfit - dark pants, light top, comfortable shoes"
+      position: "Among participants leaving the bus after record achievement"
+      action: "Cooperative and eager, following instructions carefully"
+    - appearance: "Caucasian man, 40s, experienced look, calm expression, sturdy build"
+      clothing: "Official bus driver uniform - dark blue jacket, cap, professional appearance"
+      position: "Remaining in driver seat as participants exit"
+      action: "Seated at driver controls, maintaining professional composure"
+  scene:
+    mainElements: "Participants systematically exiting the bus after completing the 57-second, 75-meter world record journey"
+    details: "Standard single-decker public transport bus, unmodified, with participants streaming out in organized fashion after successful completion of world record, expressions of accomplishment and relief, systematic exit process ensuring everyone safely leaves the vehicle, natural celebration as the historic achievement is completed"
+    background: "University campus setting with officials and observers witnessing the successful conclusion of the record attempt"
+    atmosphere: "Relief, accomplishment, and celebration as 229 participants successfully complete their world record achievement, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing participants exiting bus after record completion"
+    focus: "Stream of successful participants leaving the record bus"
+    depth: "Foreground shows exiting participants, middle ground displays the record bus, background reveals campus setting with celebrating observers"

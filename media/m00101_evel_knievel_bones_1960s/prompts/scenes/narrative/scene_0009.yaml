@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Snake River Canyon Jump Attempt"
+  setting:
+    time: "September 8, 1974, afternoon"
+    location: "Snake River Canyon, Idaho, vast rocky canyon with winding river below"
+    weather: "Clear afternoon with crosswinds"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns"
+      clothing: "Red, white and blue leather jumpsuit with stars and stripes, white helmet with eagle emblem, white leather boots"
+      position: "Inside rocket cockpit, visible through small window"
+      action: "Piloting steam-powered rocket as it launches across canyon with parachute deploying early"
+  scene:
+    mainElements: "Steep canyon walls, narrow river far below, desert landscape, clear blue sky with massive crowd gathered on canyon rim watching historic jump"
+    details: "White steam-powered rocket vehicle with fins, pointed nose cone, steam vents, experimental design airborne over canyon with parachute deployed, massive crowd of spectators on canyon rim, television cameras and equipment, dust clouds from launch, no text or letters visible"
+    background: "Snake River Canyon stretching into distance, desert landscape, crowd of thousands watching"
+    atmosphere: "Dramatic, dangerous, expansive wilderness setting culminating career-defining moment with mixed success and failure"
+  composition:
+    cameraAngle: "Epic wide shot showing rocket over canyon with crowd"
+    focus: "Steam rocket with deployed parachute crossing canyon"
+    depth: "Canyon depths in foreground, rocket flight path in middle ground, crowd and landscape in background"

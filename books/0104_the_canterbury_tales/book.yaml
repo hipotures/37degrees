@@ -4,3 +4,169 @@ book_info:
   author: "Geoffrey Chaucer"
   year: c. 1400
   genre: "Frame story,Poetry"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-20T16:45:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 64
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "corruption_unchanged"
+        type: "FACT"
+        credibility: 0.95
+        content: "Pardoner and Summoner portrayed as deeply corrupt, greedy, and abusive - patterns identical to modern institutional corruption"
+        source: "dark_drama"
+      - id: "frame_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary structure where pilgrimage serves as frame for collection of tales - first of its kind in English literature"
+        source: "writing_innovation"
+      - id: "proto_feminist"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Wife of Bath gives women voice to express striving for equality and need for power, challenging patriarchal discourse"
+        source: "symbols_meanings"
+      - id: "universal_archetypes"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Jungian archetypes present in collective unconscious appear across cultures - Knight, Lover, Deceiver, Sage remain universal"
+        source: "symbols_meanings"
+      - id: "digital_parallels"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Social media as new pilgrimage where diverse voices share stories, influencers as contemporary pilgrims"
+        source: "youth_digital"
+      - id: "sins_relevance"
+        type: "FACT"
+        credibility: 0.95
+        content: "Pride, greed, lust, envy, gluttony, wrath, sloth manifest identically in social media era and consumer culture"
+        source: "reality_wisdom"
+      - id: "language_revolution"
+        type: "FACT"
+        credibility: 0.95
+        content: "Elevated English vernacular to literary language, proving Middle English capable of expressing complex ideas and humor"
+        source: "writing_innovation"
+      - id: "content_complexity"
+        type: "FACT"
+        credibility: 0.90
+        content: "Contains sexual violence, anti-clerical satire, requires age restriction 16+ on most platforms due to mature medieval content"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Foundational to English literature canon, called 'father of English literature'"
+        key_editions: ["Norton Critical Editions", "Oxford University Press", "Riverside Chaucer"]
+        reception_notes: "Continued adaptation across TV, film, theater demonstrates lasting relevance"
+        educational_status: "Cornerstone of English literature curricula from secondary to graduate"
+        local_themes: ["Establishment of vernacular tradition", "Shakespeare's direct influence"]
+      pl:
+        cultural_impact: "First complete translation only in 2021 - 621 years after original"
+        key_editions: ["Jarek Zawadzki translation 2021", "Helena Pręczkowska 1963 fragments"]
+        reception_notes: "Niche but appreciated, first print run sold out quickly"
+        educational_status: "NOT mandatory reading, supplementary choice"
+        local_themes: ["Translation revolution using contemporary slang", "Cultural heritage gap"]
+      de:
+        cultural_impact: "Strong philological tradition, German scholars dominated Chaucer studies"
+        key_editions: ["Reclam Universal-Bibliothek bilingual edition", "Suhrkamp Insel Verlag"]
+        reception_notes: "Hermeneutical interpretation through reception aesthetics"
+        educational_status: "Featured in university English studies programs"
+        local_themes: ["Philological excellence tradition", "Bildung cultural formation"]
+      fr:
+        cultural_impact: "Recognition of Chaucer's debt to French fabliaux tradition"
+        key_editions: ["French academic translations", "Comparative medieval literature studies"]
+        reception_notes: "Studied as part of medieval European literary movement"
+        educational_status: "Featured in comparative literature programs"
+        local_themes: ["Medieval literary exchange", "Fabliaux influence recognition"]
+      es:
+        cultural_impact: "Interest in Chaucer's frame narrative comparable to Spanish picaresque tradition"
+        key_editions: ["Spanish academic translations", "Medieval literature collections"]
+        reception_notes: "Comparative studies with Spanish medieval works"
+        educational_status: "Included in world literature curricula"
+        local_themes: ["Narrative technique parallels", "Medieval European context"]
+      pt:
+        cultural_impact: "Portuguese literary scholars recognize universal medieval themes"
+        key_editions: ["Portuguese academic translations", "World literature anthologies"]
+        reception_notes: "Studied for cross-cultural medieval perspectives"
+        educational_status: "Part of world literature studies"
+        local_themes: ["Universal medieval experience", "Literary technique analysis"]
+      ja:
+        cultural_impact: "Interest in frame narrative structure and character archetypes"
+        key_editions: ["Japanese translations of selected tales", "Academic studies"]
+        reception_notes: "Appreciated for narrative innovation and social criticism"
+        educational_status: "Featured in Western literature courses"
+        local_themes: ["Narrative structure innovation", "Social hierarchy criticism"]
+      ko:
+        cultural_impact: "Korean scholars interested in social satire and class criticism"
+        key_editions: ["Korean academic translations", "Literary criticism collections"]
+        reception_notes: "Relevance found in social critique and character psychology"
+        educational_status: "Studied in English literature programs"
+        local_themes: ["Social critique relevance", "Character psychology depth"]
+      hi:
+        cultural_impact: "Indian literary tradition finds resonance in pilgrimage narrative structure"
+        key_editions: ["Hindi translations and academic studies", "Comparative literature works"]
+        reception_notes: "Pilgrimage theme resonates with Indian spiritual traditions"
+        educational_status: "Part of world literature and comparative studies"
+        local_themes: ["Pilgrimage spiritual significance", "Narrative diversity appreciation"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:45"
+          topic: "investigation_begins"
+          lead: "host_a"
+          description: "Opening investigation into Chaucer's mysterious life and controversial work"
+        - segment: 2
+          time_range: "03:45-07:30"
+          topic: "medieval_crime_scene"
+          lead: "host_b"
+          description: "Vivid reconstruction of the tavern scene and character gallery"
+        - segment: 3
+          time_range: "07:30-11:15"
+          topic: "uncovering_meanings"
+          lead: "host_a"
+          description: "Investigation into deeper themes of corruption, social criticism, innovation"
+        - segment: 4
+          time_range: "11:15-15:00"
+          topic: "modern_impact"
+          lead: "host_b"
+          description: "Bringing the lasting influence and contemporary relevance to life"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter examining 'The Canterbury Tales.' Ask probing questions about mysteries surrounding this medieval masterpiece. Investigate: Why was Chaucer accused of rape? How did he work as a royal spy? What made his tales so controversial they were banned for centuries? Uncover hidden meanings behind the pilgrimage frame. Your tone is curious, persistent, determined to reveal truth behind the literary legend."
+        host_b: "You are {female_name}, an eyewitness who vividly brings medieval scenes to life. Describe the smoky Tabard Inn with crackling fire, colorful pilgrims in distinctive clothing, dangerous journey to Canterbury. Share emotional impact of Chaucer's revolutionary English vernacular, shock of sexual content, power of social satire. Make listeners feel they're experiencing 14th-century England firsthand through vivid storytelling and emotional connection to timeless characters."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["sexual violence themes in medieval context", "anti-clerical criticism from 1400s", "adult humor and crude medieval references", "historical violence and social conflict"]
+    educational_elements: ["Frame story literary technique", "Historical context of 14th century England", "Development of English vernacular literature", "Medieval social structure and criticism", "Jungian archetypal character analysis"]
+    production_notes:
+      intro_style: "Medieval tavern atmosphere with crackling fire"
+      transitions: "Subtle period music bridges"
+      outro_style: "Contemplative reflection on literary legacy"
+
+  overall_confidence: 0.92

@@ -1,0 +1,12 @@
+media_info:
+  title: Corn Flakes Invention - 1894
+  year: 1894
+  genre: Science & Technology Documentary
+  description: Kellogg brothers accidentally create breakfast cereal when fermented wheat breaks into flakes
+  target_audience: General public, students, food history enthusiasts, inventors
+  duration: ~3 minutes
+  objective: Recreate the accidental discovery that launched the breakfast cereal industry
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

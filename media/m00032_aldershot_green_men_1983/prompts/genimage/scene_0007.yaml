@@ -1,0 +1,109 @@
+sceneDescription:
+  setting:
+    time: August 12, 1983, 1:40 AM
+    location: Interior of disc-shaped craft hovering above Basingstoke Canal towpath
+    weather: Interior environment, sealed from outside conditions
+  characters:
+  - appearance: 77-year-old man, medium build, weathered face with military bearing, graying hair, wearing practical fishing
+      attire
+    clothing: Dark woolen coat, wellington boots, flat cap, carrying fishing equipment and thermos flask
+    position: Standing under amber scanning light in center of octagonal chamber
+    action: Standing calmly while being scanned by amber light, awaiting examination results with military composure
+  - appearance: Approximately 4.5 feet tall, humanoid form, proportionate limbs, face obscured by dark visor
+    clothing: Pale green coveralls from head to foot, molded appearance with no visible fasteners, matching helmet with dark
+      visor
+    position: Operating scanning equipment from chamber wall
+    action: Operating amber scanning light apparatus, preparing to communicate examination results
+  - appearance: Identical height and build to primary being, same humanoid characteristics, face obscured by dark visor
+    clothing: Identical pale green coveralls and helmet with dark visor
+    position: Standing at chamber perimeter observing
+    action: Monitoring examination process, silent observer during medical scanning procedure
+  scene:
+    mainElements: Octagonal chamber with low ceiling requiring stooping, entirely black metallic surfaces, amber scanning
+      light apparatus illuminating witness, seamless molded construction
+    details: Amber-colored beam scanning character AB for medical examination, operated by character GB1 for several minutes
+      to analyze physical condition. Chamber walls with seamless molded surfaces, no visible nuts, bolts, or joints, slight
+      smell of decaying meat, dim lighting except for scanning beam. Clinical sterile environment designed for efficient examination
+      of specimens
+    background: Curved metallic walls extending into shadows, unknown technological equipment integrated into surfaces, octagonal
+      chamber geometry
+    atmosphere: Alien and clinical environment, efficient examination space, impersonal medical scanning facility, slight
+      unpleasant organic smell, technological superiority evident in construction, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from low angle showing chamber interior with scanning procedure
+    focus: Character AB standing under amber light beam with beings operating equipment
+    depth: Witness under scanning light in foreground, operating beings in middle ground, chamber walls and technology in
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

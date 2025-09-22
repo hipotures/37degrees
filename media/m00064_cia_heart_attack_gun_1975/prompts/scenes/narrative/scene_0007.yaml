@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Revelation of CIA Assassination Target List"
+  setting:
+    time: "September 17, 1975, 2:00 PM"
+    location: "US Senate Caucus Room 318, Russell Senate Office Building, Washington DC"
+  characters:
+    - appearance: "Caucasian man, 50s, thinning brown hair, intellectual appearance with wire-rimmed glasses"
+      clothing: "1970s conservative dark suit, white dress shirt, understated tie"
+      position: "Seated at witness table consulting classified documents"
+      action: "Reading from official CIA assassination target documentation"
+    - appearance: "Caucasian man, 50s, distinguished bearing, graying hair combed back, serious expression with deep-set eyes"
+      clothing: "1970s dark blue suit with thin lapels, white dress shirt, conservative patterned tie"
+      position: "At committee dais listening to testimony with grave expression"
+      action: "Absorbing shocking revelations about CIA assassination programs"
+  scene:
+    mainElements: "Official CIA assassination program documentation spread across witness table revealing scope of covert operations"
+    details: "Classified documents detailing international assassination targets, committee members react with visible shock to scope of CIA operations, press gallery erupts with activity as historic revelations unfold, manila folders with top secret classifications, overhead lighting creates dramatic atmosphere, security personnel maintain heightened vigilance, gallery packed beyond capacity with media and observers, no text or letters visible"
+    background: "Tense committee chamber atmosphere with packed press gallery documenting revelations"
+    atmosphere: "Historic moment as scope of CIA assassination capabilities becomes public knowledge for first time"
+  composition:
+    cameraAngle: "Wide shot capturing full scope of committee reaction"
+    focus: "Dramatic revelation of assassination program scope and committee response"
+    depth: "Foreground shows classified documents, middle ground captures testifying figure, background reveals shocked committee and gallery"

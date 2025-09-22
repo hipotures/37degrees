@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Second Campaign - Renewed Military Effort"
+  setting:
+    time: "November 13, 1932, early morning"
+    location: "New tactical position in wheat fields near Campion, Western Australia"
+    weather: "Cool morning with better visibility for military operations"
+  characters:
+    - appearance: "Caucasian man, 40s, military bearing, stern face with mustache, weathered complexion from outdoor service"
+      clothing: "Australian military officer uniform 1930s, khaki tunic with brass buttons, peaked cap with insignia, polished brown leather boots"
+      position: "Standing with field glasses observing emu movements"
+      action: "Coordinating tactical positioning while studying bird behavior patterns"
+    - appearance: "Caucasian man, 30s, sturdy build, alert expression, clean-shaven face"
+      clothing: "Australian military sergeant uniform 1930s, khaki tunic and trousers, military cap, leather belt with ammunition pouches"
+      position: "Operating improved machine gun position with better cover"
+      action: "Methodically tracking targets with more disciplined fire control"
+    - appearance: "Caucasian man, 20s, lean build, young face with determined expression"
+      clothing: "Australian military gunner uniform 1930s, khaki field uniform, military cap, canvas web gear"
+      position: "Managing ammunition supply with greater efficiency"
+      action: "Maintaining steady ammunition feed to prevent weapon malfunctions"
+  scene:
+    mainElements: "Organized military efficiency in remote bushland setting with improved tactical positions and two British Lewis light machine guns, distinctive circular ammunition pans on top, bipod legs, wooden stocks positioned for maximum effectiveness"
+    details: "Better concealed firing positions using natural terrain and wheat field cover. Improved ammunition organization with systematic resupply lines. Communication equipment for coordination between positions. Field fortifications using farm equipment and natural cover. Multiple firing lanes cleared through wheat to prevent gun jams. Backup weapons and repair tools readily available. More disciplined approach with target identification and fire control procedures"
+    background: "Strategic view across wheat fields showing learned lessons from first engagement, with multiple escape route monitoring and improved field of fire"
+    atmosphere: "Professional military determination with hard-earned tactical knowledge, systematic approach replacing initial overconfidence, respect for enemy capabilities developing, no text or letters visible"
+  composition:
+    cameraAngle: "Wide tactical shot showing improved military positioning"
+    focus: "The evolution from amateur to professional military approach against unconventional enemy"
+    depth: "Foreground shows detailed improved equipment setup, middle ground captures coordinated soldier movements, background reveals the strategic terrain advantage"

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1883, early morning
+    location: Dirt road between cottage and Uitenhage railway station
+    weather: Cool morning with golden sunrise
+  characters:
+  - appearance: White male, 40s, sturdy build, determined expression, double leg amputee below the knee
+    clothing: 1880s railway uniform - dark blue wool jacket with brass buttons, white shirt, black tie, dark trousers
+    position: Seated comfortably in wooden trolley, holding work materials
+    action: Carrying signal charts and work tools while enjoying comfortable ride to station
+  - appearance: Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build
+    clothing: Miniature railway signalman uniform - dark blue cap, small brass buttons on vest
+    position: Behind trolley, gripping rope handle with both hands
+    action: Steadily pushing trolley along dirt road with practiced ease and obvious pride in his work
+  scene:
+    mainElements: Small wooden cart with four wheels moving along well-worn dirt path, early morning landscape with golden
+      light
+    details: Railway work tools in trolley including signal charts and brass equipment, dust clouds from wheels, morning shadows
+      from acacia trees, birds in flight, small wildlife along roadside
+    background: Rolling South African countryside, Uitenhage railway station visible in distance with smoke from early trains,
+      colonial cottage behind them, morning mist in valleys
+    atmosphere: Peaceful daily routine showing established partnership, warm morning light, sense of purposeful journey to
+      important work, harmonious relationship between man and baboon
+  composition:
+    cameraAngle: Side tracking shot following their movement
+    focus: the baboon confidently pushing character JW toward their daily railway duties
+    depth: 'Foreground: trolley and characters in motion, middle ground: countryside path and vegetation, background: railway
+      station destination, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

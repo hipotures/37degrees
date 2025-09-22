@@ -42,17 +42,25 @@ def resolve_style_path(style_input, base_dir="/home/xai/DEV/37degrees"):
     """
     if os.path.isfile(style_input):
         return style_input
-    
+
     # Sprawdź czy to nazwa stylu (bez rozszerzenia)
     if not style_input.endswith('.yaml'):
+        # Najpierw spróbuj z suffiksem -style.yaml
+        style_with_suffix = style_input + '-style.yaml'
+        style_path = os.path.join(base_dir, 'config', 'prompt', 'graphics-styles', style_with_suffix)
+
+        if os.path.isfile(style_path):
+            return style_path
+
+        # Jeśli nie znaleziono, spróbuj z samym .yaml
         style_input += '.yaml'
-    
+
     # Szukaj w standardowym katalogu stylów
     style_path = os.path.join(base_dir, 'config', 'prompt', 'graphics-styles', style_input)
-    
+
     if os.path.isfile(style_path):
         return style_path
-    
+
     print(f"Błąd: Nie znaleziono pliku stylu: {style_input}")
     print(f"Sprawdzono: {style_path}")
     sys.exit(1)

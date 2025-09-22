@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The High-Speed Return Journey"
+  setting:
+    time: "1905, space-time during return acceleration"
+    location: "Spacecraft accelerating toward Earth, halfway through return journey"
+    weather: "Cosmic environment with stars appearing to streak due to high velocity"
+  characters:
+    - appearance: "Young man, 25 years old, athletic build, short brown hair, clean-shaven, determined expression"
+      clothing: "Early 20th century traveler's outfit: brown leather jacket, wool pants, sturdy boots, aviator goggles"
+      position: "Secured in pilot seat, pressed back by acceleration forces"
+      action: "Gripping controls while experiencing intense acceleration, monitoring instruments showing increasing velocity"
+  scene:
+    mainElements: "Spacecraft interior during acceleration, stars streaking past observation windows, instruments showing extreme velocity readings"
+    details: "The spacecraft interior shows effects of tremendous acceleration - objects secured against gravitational forces. Through the windows, stars appear as streaking lines of light due to relativistic velocity effects. Brass instruments register extreme readings with needles near maximum positions. The chronometer shows time passage slowing. Emergency restraints hold the traveler in place as cosmic forces affect the vessel."
+    background: "Streaking starfield creating tunnel effect, Earth growing larger as a blue dot in the distance"
+    atmosphere: "Intense physical forces and relativistic effects, dramatic return journey with visible physics in action, no text or letters visible"
+  composition:
+    cameraAngle: "Dynamic angle showing both interior stress and external velocity effects"
+    focus: "The contrast between human scale and cosmic forces, visible effects of extreme speed"
+    depth: "Foreground shows strained traveler, middle ground captures instrument readings, background reveals streaking stars"

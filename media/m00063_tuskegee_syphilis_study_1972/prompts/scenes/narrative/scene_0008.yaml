@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Press Investigation and Story Breaking"
+  setting:
+    time: "1972, morning"
+    location: "Newsroom office, major American newspaper, New York City or Washington DC, 1970s"
+  characters:
+    - appearance: "White man, 40s, intense gaze, determined expression"
+      clothing: "1970s press attire, casual suit, loosened tie, notebook in hand"
+      position: "Standing at desk with phone pressed to ear"
+      action: "Speaking urgently into telephone, taking rapid notes"
+    - appearance: "White man, late 20s, clean-shaven, earnest expression, medium build"
+      clothing: "1970s casual business attire, brown suit, tie, dress shoes"
+      position: "Seated nearby, organizing documents"
+      action: "Arranging evidence files, preparing materials for publication"
+  scene:
+    mainElements: "Typewriters, telephone, stacks of papers, desk lamps, press equipment"
+    details: "Multiple telephones, typewriter with paper loaded, stacks of government documents, press deadline calendars, coffee cups, ashtrays, filing cabinets, news wire machines, editor's desk"
+    background: "Busy newsroom with other journalists, clacking typewriters, editorial desks"
+    atmosphere: "Busy, investigative energy, sense of urgency and discovery, breaking news environment, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot of active newsroom"
+    focus: "The intense journalistic investigation breaking major story"
+    depth: "Foreground shows evidence documents, middle ground has journalists working, background reveals bustling newsroom environment"

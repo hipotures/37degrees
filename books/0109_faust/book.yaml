@@ -4,3 +4,182 @@ book_info:
   author: "Johann Wolfgang von Goethe"
   year: 1808
   genre: "Tragedy,Play"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T15:42:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 10
+    structural_complexity: 9
+    social_roles: 8
+    total: 69
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.5
+      category: "high"
+    heat:
+      value: 7.8
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Goethe member of Illuminati from 1783, Faust accused of promoting Satanism and devil pacts"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Multi-level symbolism operating on personal, social, and cosmic levels, model for symbolist literature"
+        source: "symbols_meanings"
+      - id: "culture_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Inspired 50+ major adaptations: Gounod opera, Murnau film, Liszt symphony, becoming cultural phenomenon"
+        source: "culture_impact"
+      - id: "youth_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Themes resonate with Gen Z through AI ethics, social media manipulation, dark academia aesthetics"
+        source: "youth_digital"
+      - id: "reality_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "Eerily prophetic: Faustian bargains with AI, Silicon Valley culture, technology addiction parallels"
+        source: "reality_wisdom"
+      - id: "innovation_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created entirely new form: closet drama, hybrid genres, revolutionary multi-part structure over 60 years"
+        source: "writing_innovation"
+      - id: "history_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "60 years of creation, inspired by real execution of Susanna Margaretha Brandt for infanticide"
+        source: "facts_history"
+      - id: "warnings_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Complex content warnings: occultism, toxic relationships, suicide themes require age restrictions"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Foundational influence on English literature, Norton Critical Edition standard, Marlowe connection"
+        key_editions: ["Norton Critical Edition", "Oxford University Press David Luke", "Penguin Classics Constantine"]
+        reception_notes: "44 English translations by 1932, called 'most terrifying translation problem in world literature'"
+        educational_status: "Core text in Western literature courses, university curriculum standard"
+        local_themes: ["Marlowe's Doctor Faustus comparison", "English Romantic influence", "Broadway adaptations"]
+
+      pl:
+        cultural_impact: "Rich translation tradition, Polish Pan Twardowski legend parallel, National Theatre productions"
+        key_editions: ["Emil Zegadłowicz translation 1953", "Krzysztof Lipiński translation", "Adam Pomorski 2024"]
+        reception_notes: "23 productions since 1945, controversial reviews, graduation canon inclusion"
+        educational_status: "High school core curriculum, advanced Polish language program, Abitur preparation"
+        local_themes: ["Pan Twardowski parallel", "Krakow historical connections", "Polish Romantic tradition"]
+
+      de:
+        cultural_impact: "Germany's greatest literary work, national drama designation, largest theater audiences"
+        key_editions: ["Reclam standard edition", "Reclam XL educational format", "Abitur preparation materials"]
+        reception_notes: "Central to German cultural identity, most performed German play, classical status"
+        educational_status: "Gymnasium curriculum core grades 10-13, Abitur examination standard"
+        local_themes: ["German Romantic hero interpretation", "National cultural identity", "Theological scholarship"]
+
+      fr:
+        cultural_impact: "Strong influence on French Romanticism, Delacroix artistic interpretations, operatic traditions"
+        key_editions: ["Gérard de Nerval translation 1828", "Modern Gallimard editions", "Pléiade collection"]
+        reception_notes: "Baudelaire and symbolist inspiration, artistic movement influence"
+        educational_status: "University literature programs, comparative literature studies"
+        local_themes: ["Symbolist movement influence", "Artistic inspiration", "Romantic literary connection"]
+
+      es:
+        cultural_impact: "Latin American magical realism connections, philosophical interpretation tradition"
+        key_editions: ["Various Spanish translations", "University press editions", "Educational series"]
+        reception_notes: "Academic focus on philosophical themes, university study emphasis"
+        educational_status: "University literature programs, philosophical study focus"
+        local_themes: ["Philosophical interpretation", "Academic tradition", "University discourse"]
+
+      pt:
+        cultural_impact: "Brazilian and Portuguese academic reception, literary influence studies"
+        key_editions: ["Brazilian university editions", "Portuguese academic translations"]
+        reception_notes: "Scholarly interpretation focus, academic institution emphasis"
+        educational_status: "University comparative literature programs"
+        local_themes: ["Academic interpretation", "Literary influence studies", "Scholarly tradition"]
+
+      ja:
+        cultural_impact: "Japanese philosophical interpretation, academic research tradition"
+        key_editions: ["Japanese academic translations", "University study editions"]
+        reception_notes: "Focus on philosophical and spiritual themes"
+        educational_status: "University comparative literature and philosophy programs"
+        local_themes: ["Philosophical interpretation", "Spiritual themes", "Academic research"]
+
+      ko:
+        cultural_impact: "Korean academic reception, philosophical study emphasis"
+        key_editions: ["Korean university translations", "Academic study materials"]
+        reception_notes: "University-focused interpretation and study"
+        educational_status: "University literature and philosophy programs"
+        local_themes: ["Academic interpretation", "Philosophical study", "University discourse"]
+
+      hi:
+        cultural_impact: "Indian philosophical connections, comparative religious study"
+        key_editions: ["Indian university editions", "Comparative literature translations"]
+        reception_notes: "Focus on spiritual and philosophical parallels"
+        educational_status: "University comparative literature and philosophy programs"
+        local_themes: ["Spiritual parallels", "Philosophical connections", "Comparative religious study"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "mysterious_creation"
+          lead: "host_a"
+          description: "60-year creation mystery: why did Goethe write this over his entire adult life?"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "real_inspirations"
+          lead: "host_b"
+          description: "True crime connections: Susanna Margaretha Brandt execution that inspired Gretchen's tragedy"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "occult_controversies"
+          lead: "host_a"
+          description: "Dark secrets: Illuminati membership, occult symbols, and accusations of Satanism"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "cultural_explosions"
+          lead: "host_b"
+          description: "Cultural phenomenon: from Werther suicide epidemic to modern AI ethics parallels"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "modern_revelations"
+          lead: "host_a"
+          description: "Contemporary significance: why Faustian bargains define our AI and social media age"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter. Ask about key events in 'Faust', seek details about Goethe's 60-year creation process, uncover hidden meanings behind the occult symbols and Illuminati connections, and investigate the real-life inspirations including the execution of Susanna Margaretha Brandt."
+        host_b: "You are {female_name}, an eyewitness to the story. Describe scenes vividly from Faust's creation, share emotional impact of the real tragedies that inspired it, bring the narrative to life through the lens of someone who lived through the cultural phenomenon and can explain how it resonates today."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["occult content discussion", "historical violence", "toxic relationship patterns", "suicide themes"]
+    educational_elements: ["Tragedy genre characteristics", "Historical context of 1808", "Literary innovation techniques", "Philosophical depth analysis", "Cultural impact studies"]
+    production_notes:
+      intro_style: "mysterious and investigative"
+      transitions: "dramatic musical bridges with orchestral elements"
+      outro_style: "reflective conclusion with lasting questions"
+
+  overall_confidence: 0.89

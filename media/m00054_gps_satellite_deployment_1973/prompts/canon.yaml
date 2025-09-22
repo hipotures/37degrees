@@ -1,0 +1,101 @@
+canon:
+  characters:
+    - id: "character_BP"
+      name: "Character BP"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, military bearing, short dark hair, clean-shaven, intelligent eyes"
+            clothing: "US Air Force colonel uniform with wings insignia, or technical civilian clothes with tie"
+            posture: "Confident and authoritative, often pointing at technical diagrams or satellite models"
+    - id: "character_IG"
+      name: "Character IG"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 60s, distinguished appearance, graying hair, thoughtful expression"
+            clothing: "1970s business suit with narrow tie, sometimes white lab coat over dress shirt"
+            posture: "Contemplative, often with hands behind back or examining technical documents"
+    - id: "engineer_team"
+      name: "Engineering Team"
+      description_block: |
+        characters:
+          - appearance: "Group of 3-4 engineers, mixed ages 30s-50s, focused expressions, wearing safety glasses"
+            clothing: "White lab coats over shirts and ties, some with pocket protectors and technical badges"
+            posture: "Clustered around equipment, pointing at diagrams, taking notes on clipboards"
+    - id: "mission_control"
+      name: "Mission Control Staff"
+      description_block: |
+        characters:
+          - appearance: "Team of technicians and operators, 25-45 years old, concentrated expressions"
+            clothing: "1970s business attire, white shirts with narrow ties, some with headsets"
+            posture: "Seated at control consoles, monitoring screens, communicating via headsets"
+    - id: "satellite_technicians"
+      name: "Satellite Technicians"
+      description_block: |
+        characters:
+          - appearance: "Small team of specialists in clean room gear, focused on precision work"
+            clothing: "White clean room suits, gloves, hair covers, protective eyewear"
+            posture: "Carefully handling delicate satellite components, working with precision instruments"
+  locations:
+    - id: "pentagon_meeting_room"
+      name: "Pentagon Conference Room"
+      description_block: |
+        setting:
+          location: "Pentagon conference room, Washington DC, secure military facility"
+        mainElements: "Large oval table with military officials, maps and technical diagrams on walls"
+        atmosphere: "Serious, classified military planning environment with fluorescent lighting"
+    - id: "aerospace_facility"
+      name: "Aerospace Development Facility"
+      description_block: |
+        setting:
+          location: "Aerospace Corporation facility, El Segundo, California"
+        mainElements: "Modern 1970s technical facility with computer terminals and satellite mockups"
+        atmosphere: "Cutting-edge technology development environment with clean, professional atmosphere"
+    - id: "air_force_control_room"
+      name: "Air Force Control Center"
+      description_block: |
+        setting:
+          location: "US Air Force Satellite Control Facility, Colorado Springs, Colorado"
+        mainElements: "Banks of monitoring equipment, large screens showing orbital data, control consoles"
+        atmosphere: "High-tech military command center with dim lighting and glowing displays"
+    - id: "vandenberg_launch_pad"
+      name: "Vandenberg Launch Complex"
+      description_block: |
+        setting:
+          location: "Vandenberg Air Force Base launch pad, California coast"
+        mainElements: "Massive rocket on launch pad with service towers, surrounded by coastal hills"
+        atmosphere: "Dramatic launch facility against Pacific Ocean backdrop with morning fog"
+    - id: "satellite_assembly_facility"
+      name: "Satellite Assembly Clean Room"
+      description_block: |
+        setting:
+          location: "High-tech satellite manufacturing facility, aerospace contractor site"
+        mainElements: "Sterile white clean room with satellite components, precision assembly equipment"
+        atmosphere: "Ultra-clean technical environment with bright white lighting and precision tools"
+    - id: "naval_research_lab"
+      name: "Naval Research Laboratory"
+      description_block: |
+        setting:
+          location: "Naval Research Laboratory, Washington DC area"
+        mainElements: "1970s government research facility with atomic clock equipment and timing instruments"
+        atmosphere: "Scientific research environment with technical equipment and measurement devices"
+  items:
+    - id: "navstar_satellite"
+      name: "NAVSTAR GPS Satellite"
+      description_block: |
+        details: "Block I GPS satellite with distinctive solar panel arrays, cylindrical body with antennas, gold thermal blankets"
+    - id: "atomic_clock"
+      name: "Atomic Clock"
+      description_block: |
+        details: "Precision cesium atomic clock device, metal housing with digital displays and cable connections"
+    - id: "mission_control_console"
+      name: "Mission Control Console"
+      description_block: |
+        details: "1970s computer terminal with CRT monitor, keyboard, status lights, and communication equipment"
+    - id: "technical_diagrams"
+      name: "Technical Documentation"
+      description_block: |
+        details: "Engineering blueprints, orbital mechanics charts, and satellite specification documents spread on tables"
+    - id: "launch_vehicle"
+      name: "Delta Launch Vehicle"
+      description_block: |
+        details: "Multi-stage rocket with GPS satellite payload fairing, white and blue NASA/Air Force markings"

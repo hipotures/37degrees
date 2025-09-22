@@ -1,0 +1,102 @@
+sceneDescription:
+  setting:
+    time: 1992 early evening, dusk hour
+    location: Rural road between Falkirk and Bonnybridge, encounter location
+    weather: Clear evening, excellent visibility conditions
+  characters:
+  - appearance: Middle-aged Scottish businessman, average build, concerned expression, weathered face from years of local
+      travel
+    clothing: 1990s business attire - dark navy suit jacket, white collared shirt, practical tie, suitable for driving
+    position: Standing beside stopped car on rural road, looking upward
+    action: Initially confident, then genuinely startled and confused by unexpected encounter with hovering object blocking
+      his path
+  scene:
+    mainElements: Brightly shining star-shaped craft with luminous white-blue appearance, hovering capability above road level,
+      estimated size larger than conventional aircraft, completely blocking single-lane country road, early 1990s family car
+      forced to stop
+    details: Star-shaped UFO hovering directly above road surface, luminous appearance casting unusual light patterns on surrounding
+      countryside, stone walls and telephone poles illuminated by craft's glow, car stopped in middle of road with headlights
+      still on, rural setting completely quiet except for encounter, object maintaining stationary position before sudden
+      departure, no conventional aircraft characteristics visible, no text or letters visible
+    background: Scottish countryside under evening sky, rolling hills, stone walls, telephone poles, peaceful rural landscape
+      dramatically altered by extraordinary presence
+    atmosphere: First documented Bonnybridge UFO encounter, transition from routine journey to inexplicable phenomenon, mixture
+      of wonder and confusion, establishing credibility of ongoing mystery
+  composition:
+    cameraAngle: Low angle shot emphasizing hovering object above road
+    focus: Star-shaped UFO object hovering above road with stopped car and startled witness below
+    depth: Foreground shows stopped car and witness, middle ground shows hovering UFO, background shows countryside and evening
+      sky
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

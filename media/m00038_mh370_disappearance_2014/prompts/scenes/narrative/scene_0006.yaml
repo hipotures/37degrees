@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "International search coordination center mobilizes massive rescue operation"
+  setting:
+    time: "March 8-15, 2014 - initial search phase mobilization"
+    location: "International search coordination center with maps, communication equipment, and multiple agencies"
+    weather: "Indoor controlled environment with high activity"
+  characters:
+    - appearance: "International aviation safety coordinator, professional demeanor, focused expression"
+      clothing: "Business suit with aviation authority identification badge and lanyard"
+      position: "Standing at large wall map pointing to search areas"
+      action: "Coordinating search efforts with multiple agencies, indicating search zones on regional map"
+    - appearance: "Military search and rescue officer, authoritative bearing"
+      clothing: "Naval or air force uniform with rescue service insignia and rank"
+      position: "At coordination table with communication equipment"
+      action: "Dispatching search vessels and aircraft to designated areas, speaking into radio"
+    - appearance: "Civilian aviation investigator, serious concentrated expression"
+      clothing: "Professional civilian clothing with investigative agency credentials"
+      position: "Reviewing documents and charts at workstation"
+      action: "Analyzing flight data and coordinating with international partners"
+  scene:
+    mainElements: "Large wall maps showing South China Sea region, multiple communication stations, status boards tracking search assets"
+    details: "Command center with regional maps marked with search grids, multiple personnel coordinating different aspects of search, communication equipment connecting to ships and aircraft, status boards showing deployed assets, coffee stations indicating around-the-clock operations"
+    background: "Busy coordination facility with multiple workstations, personnel from different agencies and countries, emergency communication systems"
+    atmosphere: "Urgent but organized search coordination environment with international cooperation and professional efficiency"
+  composition:
+    cameraAngle: "Elevated wide shot showing entire coordination center activity"
+    focus: "Central coordination table with maps and multiple personnel planning search operations"
+    depth: "Foreground shows coordination personnel at work, middle ground shows wall maps and status displays, background shows additional workstations and equipment, no text or letters visible"

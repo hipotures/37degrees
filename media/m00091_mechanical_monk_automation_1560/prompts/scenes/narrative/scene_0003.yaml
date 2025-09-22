@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "King character_PII commissions the clockmaker character_JT"
+  setting:
+    time: "1562, afternoon"
+    location: "Royal audience chamber in Alcázar of Madrid with ornate throne and marble columns"
+    weather: "Partly cloudy with filtered sunlight through stained glass"
+  characters:
+    - appearance: "Spanish king, 40s, pale complexion, dark hair, penetrating gaze, regal bearing"
+      clothing: "Black velvet doublet with gold embroidery, white ruff collar, dark cape with royal insignia"
+      position: "Standing before his throne, gesturing with authority"
+      action: "Speaking earnestly to the clockmaker, pointing toward heaven then making descriptive hand gestures"
+    - appearance: "Italian man, 50s, graying beard, intense focused eyes, calloused hands from metalwork"
+      clothing: "Renaissance brown leather apron over white linen shirt, dark wool hose, leather boots"
+      position: "Bowing respectfully before the king, holding his cap"
+      action: "Listening intently, nodding with understanding, occasionally stroking his beard in contemplation"
+  scene:
+    mainElements: "Ornate throne room with marble columns and rich tapestries, where the king meets with the master clockmaker"
+    details: "Ornate furniture, religious paintings, candelabras, rich carpets, large windows overlooking courtyards create the royal setting. The king's passionate gestures convey his vision of perpetual prayer while the craftsman's weathered hands show years of precision work. Scrolls and architectural drawings suggest the scale of royal commissions. Stained glass windows cast colored light across the marble floor"
+    background: "Gothic arches frame the audience chamber while courtiers and guards maintain respectful distance"
+    atmosphere: "Royal determination meets artisan expertise as sacred vow transforms into mechanical commission, the weight of divine obligation driving unprecedented innovation"
+  composition:
+    cameraAngle: "Medium shot from side angle showing both figures in profile"
+    focus: "The animated conversation between king and clockmaker, emphasizing their contrasting worlds"
+    depth: "Foreground: ornate floor tiles and royal regalia; middle: the king and craftsman in discussion; background: marble columns and stained glass windows, no text or letters visible"

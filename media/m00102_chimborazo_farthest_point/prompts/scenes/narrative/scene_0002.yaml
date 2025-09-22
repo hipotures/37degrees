@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Research Station Discovery"
+  setting:
+    time: "2001, morning"
+    location: "Scientific research station near equator in Ecuador"
+    weather: "Clear morning in Andean foothills"
+  characters:
+    - appearance: "Caucasian man, 40s, scholarly build, wire-rimmed glasses, thoughtful expression"
+      clothing: "Khaki field research clothes, hiking boots, backpack with scientific equipment"
+      position: "Standing at computer workstation analyzing data"
+      action: "Making calculations and comparing geographical measurements on computer screen"
+  scene:
+    mainElements: "Modern scientific equipment, computers, measurement devices, topographical maps spread across research tables"
+    details: "Scientific research station with GPS devices, satellite communication equipment, precise measurement instruments, detailed geographical maps showing elevation contours, mountain ranges, coordinate systems covering desk surfaces, no text or letters visible"
+    background: "Windows showing Ecuadorian Andes mountains in distance, research equipment mounted on walls"
+    atmosphere: "Technical research environment focused on geographical measurements with sense of important discovery"
+  composition:
+    cameraAngle: "Medium shot over scientist's shoulder"
+    focus: "Computer screen and geographical data showing surprising measurements"
+    depth: "Research equipment in foreground, scientist in middle ground, mountain view in background"

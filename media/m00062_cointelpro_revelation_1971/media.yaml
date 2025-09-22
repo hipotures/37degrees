@@ -1,0 +1,12 @@
+media_info:
+  title: COINTELPRO Revelation - 1971
+  year: 1971
+  genre: Intelligence History Documentary
+  description: FBI's illegal surveillance and infiltration program against civil rights activists exposed
+  target_audience: General public, students, civil rights advocates, intelligence history buffs
+  duration: ~3 minutes
+  objective: Recreate the exposure of the FBI's covert operations targeting American civil rights movements
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

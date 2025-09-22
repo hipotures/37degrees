@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Educational comparison, modern day
+    location: Split screen showing both mountains simultaneously
+    weather: Clear conditions at both locations
+  characters:
+  - appearance: Person in 30s, athletic build, weathered face from high altitude exposure
+    clothing: Modern mountaineering gear, insulated jacket, climbing helmet, oxygen equipment
+    position: Standing at Everest summit on left side
+    action: Holding surveying equipment while celebrating height achievement
+  - appearance: Caucasian man, 40s, scholarly build, wire-rimmed glasses, thoughtful expression
+    clothing: Khaki field research clothes, hiking boots, backpack with scientific equipment
+    position: Standing at Chimborazo summit on right side
+    action: Demonstrating distance measurement from Earth's center
+  scene:
+    mainElements: Split composition showing Mount Everest summit on left and Mount Chimborazo summit on right with measurement
+      indicators
+    details: Side-by-side comparison showing Everest's higher elevation (8,849m) versus Chimborazo's greater distance from
+      Earth's center, surveying equipment, altimeters, barometric pressure gauges, geological measurement tools at both locations,
+      no text or letters visible
+    background: Himalayan peaks on left side, Andean peaks on right side, measurement graphics connecting both
+    atmosphere: Educational demonstration of surprising geographical truth challenging conventional understanding
+  composition:
+    cameraAngle: Wide split-screen comparison shot
+    focus: Visual comparison between the two mountain summits
+    depth: Measurement indicators in foreground, climbers and summits in middle ground, mountain ranges in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

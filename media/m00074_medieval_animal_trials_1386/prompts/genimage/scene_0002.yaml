@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1386, afternoon
+    location: Small single-room cottage, Falaise village outskirts
+    weather: Clear winter day with pale sunlight
+  characters:
+  - appearance: Woman, 20s, tear-streaked face, exhausted appearance, trembling hands
+    clothing: Dark woolen dress, white head covering, simple wooden cross necklace
+    position: Kneeling beside wooden cradle, gently rocking it
+    action: Tenderly caring for infant, humming softly while adjusting baby's blankets
+  - appearance: Man, 30s, grief-stricken face, hollow eyes, thin from sorrow
+    clothing: Simple brown peasant tunic, leather belt, worn boots, cap in hands
+    position: Standing near cottage doorway, looking outward
+    action: Watching for returning livestock, hands clasped behind back in contemplative pose
+  scene:
+    mainElements: Stone walls, thatched roof, single wooden door, small window with wooden shutters
+    details: Wooden baby cradle with rockers in center of room, simple wooden furniture including table and stools, cooking
+      pot hanging over small hearth, bundles of dried herbs hanging from rafters, earthenware bowls and cups on rough wooden
+      shelves, straw scattered on floor for warmth
+    background: Village animal pens visible through open doorway, other cottages with smoke rising from chimneys, bare winter
+      trees lining village boundary
+    atmosphere: Warm domestic tranquility, loving family care, humble but content peasant life, soft afternoon light filtering
+      through small window, sense of security and routine before impending tragedy, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from cottage interior looking toward doorway
+    focus: Mother with baby cradle as emotional center, father silhouetted in doorway
+    depth: Foreground shows cradle and interior details, middle ground captures both parents, background reveals village life
+      through doorway
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

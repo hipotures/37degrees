@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Woman Recounting Experience"
+  setting:
+    time: "March 2000, later in day after alleged incident"
+    location: "Living room in cottage near Tetney Lock, Lincolnshire"
+    weather: "March afternoon, clearer conditions"
+  characters:
+    - appearance: "Adult woman, early 30s, average build, shoulder-length brown hair, pale complexion"
+      clothing: "Light blue nightgown during incident, casual sweater and jeans when recounting experience"
+      position: "Lying in bed during alleged abduction, sitting upright when discussing events"
+      action: "Experiencing alleged transport to spacecraft, later speaking earnestly about experience"
+  scene:
+    mainElements: "Woman sitting in armchair recounting her experience, simple cottage interior"
+    details: "Woman in casual sweater and jeans sitting forward in worn armchair, hands gesturing as she speaks earnestly, cottage living room with simple furniture, window showing canal and countryside beyond, late afternoon light streaming through curtains"
+    background: "Cottage interior with modest furnishings, canal lock visible through window, rural Lincolnshire landscape"
+    atmosphere: "Earnest conviction mixed with awareness of skepticism, quiet rural setting, ordinary domestic environment contrasting with extraordinary claims, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from across living room"
+    focus: "Woman speaking earnestly from armchair"
+    depth: "Foreground: coffee table edge, middle: woman in armchair, background: window view of canal and countryside"

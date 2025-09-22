@@ -4,3 +4,191 @@ book_info:
   author: "Simone de Beauvoir"
   year: 1949
   genre: "Feminist philosophy,Nonfiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T15:45:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 8
+    relevance: 9
+    innovation: 10
+    structural_complexity: 7
+    social_roles: 10
+    total: 72
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.0
+      category: "high"
+    heat:
+      value: 9.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "woman_as_other"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Fundamental thesis that man is universal subject, woman is defined as deviation/object"
+        source: "symbols_meanings"
+      - id: "social_construction"
+        type: "FACT"
+        credibility: 0.95
+        content: "One is not born but becomes a woman - gender as cultural creation, not biological destiny"
+        source: "writing_innovation"
+      - id: "patriarchal_oppression"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Comprehensive critique of institutions that maintain women's subordination"
+        source: "culture_impact"
+      - id: "scandals_controversies"
+        type: "FACT"
+        credibility: 0.95
+        content: "Sexual exploitation of students, Vatican ban, pedophilia petition"
+        source: "dark_drama"
+      - id: "writing_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created feminist phenomenology, interdisciplinary methodology"
+        source: "writing_innovation"
+      - id: "digital_relevance"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Gen Z engagement through TikTok feminism, BookTok presence"
+        source: "youth_digital"
+      - id: "immanence_transcendence"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Men relegated to transcendence, women to immanence dialectic"
+        source: "symbols_meanings"
+      - id: "modern_relevance"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Workplace inequality, reproductive rights themes persist"
+        source: "reality_wisdom"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text for second-wave feminism in anglophone world"
+        key_editions: ["Complete 2009 retranslation", "University press editions"]
+        reception_notes: "Academic canonization, influence on Butler and Friedan"
+        educational_status: "Required reading in gender studies programs"
+        local_themes: ["Influence on US feminist movement", "Translation correction issues"]
+
+      pl:
+        cultural_impact: "Delayed reception (1972), interpreted through Catholic resistance"
+        key_editions: ["Czarna Owca feminist series", "Znak Women's Congress Library"]
+        reception_notes: "Krystyna Janda theatrical interpretations, academic legitimization"
+        educational_status: "Essential in gender studies, philosophy departments"
+        local_themes: ["Catholic cultural tension", "Post-communist feminist readings"]
+
+      de:
+        cultural_impact: "Alice Schwarzer as cultural mediator, Bible of feminism status"
+        key_editions: ["Rowohlt Verlag since 1951", "1992 Aumüller-Osterwald translation"]
+        reception_notes: "Integration into existentialist philosophical tradition"
+        educational_status: "Foundation text in Gender Studies at major universities"
+        local_themes: ["Existentialist reception", "Frankfurt School connections"]
+
+      fr:
+        cultural_impact: "Immediate 1949 scandal, intellectual prestige in collection Blanche"
+        key_editions: ["Original Gallimard publication", "Multiple continuing editions"]
+        reception_notes: "Catholic-Communist opposition, poststructuralist critique then renaissance"
+        educational_status: "Lycée philosophy curriculum, baccalauréat integration"
+        local_themes: ["Existentialist origins", "French feminist theory debates"]
+
+      es:
+        cultural_impact: "Franco censorship delayed Spanish publication until 1970"
+        key_editions: ["Editorial Cátedra Feminismos clásicos series"]
+        reception_notes: "Early Latin American circulation through Argentina"
+        educational_status: "University philosophy and gender studies programs"
+        local_themes: ["Dictatorship resistance", "Latin American feminist adoption"]
+
+      pt:
+        cultural_impact: "Unified Sérgio Milliet translation for Brazil and Portugal"
+        key_editions: ["Nova Fronteira 70th anniversary edition"]
+        reception_notes: "ENEM exam inclusion, delayed but significant impact"
+        educational_status: "Vestibular examinations, university research centers"
+        local_themes: ["Brazilian feminist integration", "Educational system adoption"]
+
+      ja:
+        cultural_impact: "1953 translation, Beauvoir-Sartre 1966 visit, feminist icon status"
+        key_editions: ["1997 feminist retranslation group"]
+        reception_notes: "Influence on ūman ribu movement, Ueno Chizuko scholarship"
+        educational_status: "Women's studies foundation, phenomenological analysis model"
+        local_themes: ["Japanese feminist movement influence", "Translation gender issues"]
+
+      ko:
+        cultural_impact: "Reference point for Korean feminist literature development"
+        key_editions: ["Eulyumunhwasa 2-volume translation"]
+        reception_notes: "Complex reception due to Confucian cultural tensions"
+        educational_status: "University philosophy and normative policy analysis"
+        local_themes: ["Confucian tension", "Contemporary feminist wave"]
+
+      hi:
+        cultural_impact: "English-medium reception, upcoming Hindi translation project"
+        key_editions: ["Penguin India", "Monica Singh Hindi translation in progress"]
+        reception_notes: "Nivedita Menon's Indian Second Sex comparison"
+        educational_status: "Certificate Course Feminist Philosophy at University of Delhi"
+        local_themes: ["Academic feminist philosophy", "Translation accessibility"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions about de Beauvoir's revolutionary methodology"
+        host_b: "eyewitness describing the systematic deconstruction and reconstruction of gender theory"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "The mystery: How did one woman dismantle centuries of beliefs about female nature?"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "The systematic demolition: biology, psychoanalysis, historical materialism"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "The reconstruction: analyzing lived experience from childhood to independence"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "dark_secrets"
+          lead: "host_b"
+          description: "The controversies: sexual scandals, Vatican ban, ideological battles"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "lasting_impact"
+          lead: "host_a"
+          description: "The legacy: from second-wave feminism to contemporary TikTok discourse"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter uncovering how Simone de Beauvoir revolutionized thinking about gender. Ask probing questions about her methodology, seek details about her systematic approach to demolishing myths about women, and investigate the scandals that surrounded her work. Approach this as an intellectual detective story."
+        host_b: "You are {female_name}, an eyewitness to de Beauvoir's revolutionary process. Describe vividly how she deconstructed biological, psychological and historical 'explanations' of women's inferiority, then reconstructed understanding through phenomenological analysis of lived experience. Bring to life the two-part structure of her masterwork and its continuing impact."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "discussion of sexual scandals"
+      - "controversial political petitions"
+      - "institutional censorship and bans"
+      - "mature philosophical themes"
+    educational_elements:
+      - "Feminist philosophy genre characteristics"
+      - "Historical context of 1949 post-war France"
+      - "Existentialist philosophical method"
+      - "Phenomenological analysis technique"
+      - "Development of gender studies as academic discipline"
+    production_notes:
+      intro_style: "investigative/mystery opening focusing on revolutionary impact"
+      transitions: "dramatic musical bridges emphasizing reconstruction theme"
+      outro_style: "reflective conclusion on continuing contemporary relevance"
+
+  overall_confidence: 0.91

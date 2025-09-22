@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Colonial Engineering Office Bridge Planning Session"
+  setting:
+    time: "1884, afternoon"
+    location: "Colonial administration building, Yogyakarta, Central Java, Indonesia"
+    weather: "Hot tropical afternoon with monsoon clouds gathering"
+  characters:
+    - appearance: "Dutch engineer, 40s, tall sturdy build, weathered face from tropical climate, brown hair with receding hairline, wire-rim spectacles"
+      clothing: "White colonial linen shirt with rolled sleeves, brown canvas trousers, leather work boots, pith helmet nearby"
+      position: "Seated at large wooden desk leaning over engineering drawings"
+      action: "Drawing bridge arch calculations with ink pen while consulting volcanic load resistance formulas"
+    - appearance: "Dutch colonial administrator, 35s, medium build, pale complexion, blonde mustache, formal bearing"
+      clothing: "White colonial dress uniform with brass buttons, black leather belt, polished black boots, peaked cap"
+      position: "Standing behind desk reviewing progress with hands clasped behind back"
+      action: "Examining bridge plans and discussing budget constraints and construction timeline"
+  scene:
+    mainElements: "Large wooden desk with engineering drawings, surveying instruments, oil lamps, teak furniture, high ceiling with fans"
+    details: "Large sheets of beige paper covered with hand-drawn bridge designs, mathematical calculations in ink, measurements for volcanic load resistance, brass compass and ruler set, inkwell with quill pens, colonial administrative ledgers, tropical hardwood furniture with brass fittings"
+    background: "Humid tropical interior with filtered sunlight through shuttered windows, formal colonial atmosphere, ceiling fans turning slowly, bookshelves with engineering manuals and colonial reports"
+    atmosphere: "Methodical planning session with attention to engineering precision, weight of administrative responsibility, tropical heat making work challenging, pressure to create volcano-resistant infrastructure"
+  composition:
+    cameraAngle: "Medium shot from across desk showing both figures and their work"
+    focus: "Engineering drawings and calculations spread across desk surface"
+    depth: "Detailed bridge plans in foreground, characters working in middle ground, colonial office interior extending to background, no text or letters visible"

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1978, evening
+    location: Small entertainment venue stage with audience seating, spotlight illumination
+    weather: Indoor evening performance, dramatic stage lighting
+  characters:
+  - appearance: French man, 30s, medium build, distinctive intense dark eyes, average height, concentrated expression when
+      eating unusual objects
+    clothing: Simple 1970s casual wear - button-down shirts, dark trousers, sometimes white lab coat during medical examinations
+    position: Center stage at table, holding small metal piece
+    action: Methodically consuming first pieces of airplane metal, drinking from mineral oil bottle
+  - appearance: Various ages and appearances, expressions of amazement, curiosity, and disbelief
+    clothing: 1970s-1980s casual and formal wear depending on venue
+    position: Packed audience area, standing room only
+    action: Leaning forward with intense fascination, photographing and documenting the moment
+  scene:
+    mainElements: Raised wooden platform, microphone stand, table with metal objects displayed, audience chairs
+    details: Small bite-sized pieces of aircraft metal, carefully cut and prepared, arranged on plates or in containers, clear
+      glass bottle containing mineral oil used as lubricant, camera flashes from audience, intense spotlight creating dramatic
+      shadows
+    background: Crowded audience area with standing spectators, stage backdrop, photographic equipment
+    atmosphere: Historic moment atmosphere, intense crowd attention, documentary-style lighting
+  composition:
+    cameraAngle: Close-up shot of consumption moment
+    focus: Character consuming first airplane metal pieces with mineral oil
+    depth: 'Foreground: metal consumption action, middle ground: performer and table setup, background: amazed audience reaction,
+      no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

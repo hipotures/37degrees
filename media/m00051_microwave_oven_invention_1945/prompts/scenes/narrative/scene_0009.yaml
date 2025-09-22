@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First commercial Radarange microwave oven in restaurant kitchen"
+  setting:
+    time: "1947, afternoon"
+    location: "Commercial restaurant kitchen with new technology"
+    weather: "Indoor commercial kitchen environment with industrial lighting"
+  characters:
+    - appearance: "Caucasian man, 40s, stocky build, chef's uniform, serious professional expression"
+      clothing: "White chef's coat, checkered pants, white chef's hat, black kitchen shoes"
+      position: "Standing before large microwave unit, studying control panel"
+      action: "Operating commercial Radarange unit for food preparation, demonstrating new cooking technology"
+    - appearance: "Caucasian man, 30s, lean build, business attire, interested expression"
+      clothing: "Dark business suit, white shirt, tie, dress shoes"
+      position: "Standing beside chef, observing demonstration"
+      action: "Watching microwave cooking process with fascination, taking notes about performance"
+  scene:
+    mainElements: "Large white metal cabinet approximately 6 feet tall with 'RADARANGE' nameplate, control dials on front panel, industrial kitchen appearance, food containers nearby"
+    details: "Massive commercial microwave unit dominates kitchen space, weighing approximately 750 pounds. Industrial stainless steel kitchen surfaces surround unit. Control panel shows multiple dials and switches for precise operation. Food preparation area with commercial-grade equipment visible. Steam rises from food being heated inside unit."
+    background: "Commercial kitchen with stainless steel appliances, large refrigeration units, industrial shelving, commercial food preparation areas"
+    atmosphere: "Revolutionary moment in commercial food service, transformation of cooking technology from laboratory to practical application, professional kitchen efficiency improved by microwave innovation, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing scale of commercial Radarange unit in kitchen setting"
+    focus: "Large commercial Radarange microwave unit demonstrating practical application"
+    depth: "Foreground shows detailed control panel and operation, middle ground features chef and observer, background reveals broader commercial kitchen environment"

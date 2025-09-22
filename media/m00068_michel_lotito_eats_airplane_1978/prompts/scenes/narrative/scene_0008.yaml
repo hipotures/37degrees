@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Final Components - Approaching Completion"
+  setting:
+    time: "1980, morning"
+    location: "Small entertainment venue stage with audience seating, spotlight illumination"
+    weather: "Indoor morning performance, bright stage lighting"
+  characters:
+    - appearance: "French man, 30s, medium build, distinctive intense dark eyes, average height, concentrated expression when eating unusual objects"
+      clothing: "Simple 1970s casual wear - button-down shirts, dark trousers, sometimes white lab coat during medical examinations"
+      position: "Center stage, holding final aircraft landing gear components"
+      action: "Consuming the last major pieces of the Cessna 150, methodical and ceremonial approach"
+    - appearance: "Various ages and appearances, expressions of amazement, curiosity, and disbelief"
+      clothing: "1970s-1980s casual and formal wear depending on venue"
+      position: "Capacity crowd filling all available seating"
+      action: "Witnessing historic completion, many holding cameras to document final moments"
+  scene:
+    mainElements: "Raised wooden platform, microphone stand, table with metal objects displayed, audience chairs"
+    details: "Final aircraft components including landing gear parts, small bite-sized pieces of remaining aircraft metal arranged ceremonially, clear glass bottle containing mineral oil, professional lighting equipment, media photographers present"
+    background: "Packed audience area with documentary crews, stage backdrop showing completion atmosphere"
+    atmosphere: "Historic culmination atmosphere, celebratory yet focused energy, documentation of achievement"
+  composition:
+    cameraAngle: "Dramatic low angle shot emphasizing significance"
+    focus: "Character consuming final major aircraft components"
+    depth: "Foreground: final consumption ceremony, middle ground: performer completing historic feat, background: witnessing crowd and media documentation, no text or letters visible"

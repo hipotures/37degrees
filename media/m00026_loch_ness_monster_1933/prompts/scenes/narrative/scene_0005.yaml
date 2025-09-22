@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Tourist Influx - August 1933"
+  setting:
+    time: "August 1933, busy afternoon"
+    location: "Urquhart Castle viewpoint overlooking deepest part of loch"
+    weather: "Bright summer day with scattered clouds"
+  characters:
+    - appearance: "Mixed group of tourists - families, couples, elderly visitors with cameras and binoculars"
+      clothing: "1930s summer touring attire - lightweight coats, hats, practical walking shoes"
+      position: "Gathered along castle walls and viewpoint areas"
+      action: "Scanning loch surface with binoculars, pointing excitedly, taking photographs"
+  scene:
+    mainElements: "13th-century castle ruins on rocky promontory jutting into loch, stone tower remains, crumbling walls, popular viewpoint"
+    details: "Crowds of visitors with period cameras and field glasses searching water surface, parked automobiles along access road, picnic baskets and touring guides, castle ruins providing elevated observation platform, tourists clustered at best vantage points"
+    background: "Expansive loch surface stretching to distant shores, highland peaks, tourist activity contrasts with ancient stone"
+    atmosphere: "Tourist activity contrasts with ancient stone, prime sighting location with excellent views"
+  composition:
+    cameraAngle: "Wide shot from castle walls showing tourists and loch vista"
+    focus: "Animated tourist groups scanning water with binoculars and cameras"
+    depth: "Foreground shows castle stone walls with tourists, middle ground captures groups with equipment, background reveals vast loch surface, no text or letters visible"

@@ -1,0 +1,90 @@
+canon:
+  characters:
+    - id: "character_PL"
+      name: "Character PL"
+      description_block: |
+        characters:
+          - appearance: "Elderly man in his 60s, broad-shouldered build, intelligent dark eyes, full beard, high forehead"
+            clothing: "Traditional Greek chiton and himation cloak in white linen, leather sandals, possibly wearing philosopher's ring"
+            posture: "Contemplative and authoritative, gestures while speaking, intense gaze when discussing ideas"
+    - id: "character_CR"
+      name: "Character CR"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Athenian aristocrat, well-groomed appearance, patrician features"
+            clothing: "Fine white chiton with purple border indicating high status, gold fibulae, aristocratic bearing"
+            posture: "Confident storyteller, animated when recounting the tale, authoritative voice"
+    - id: "character_SO"
+      name: "Character SO"
+      description_block: |
+        characters:
+          - appearance: "Elderly statesman with weathered face, grey beard, dignified bearing, travel-worn appearance"
+            clothing: "Travel-stained Greek robes, leather belt with scroll case, walking staff"
+            posture: "Wise and inquisitive, careful note-taker, respectful toward foreign knowledge"
+    - id: "character_EP"
+      name: "Character EP"
+      description_block: |
+        characters:
+          - appearance: "Ancient Egyptian priest, shaved head, aged features, ritual scars on arms"
+            clothing: "White linen robes with gold trim, ceremonial collar, priest's headband"
+            posture: "Scholarly and patient, keeper of ancient records, condescending toward Greek historical knowledge"
+    - id: "character_PO"
+      name: "Character PO"
+      description_block: |
+        characters:
+          - appearance: "Imposing deity with flowing dark hair and beard, muscular build, sea-green eyes"
+            clothing: "Draped in flowing robes that seem to move like water, crown of shells and coral"
+            posture: "Majestic and powerful, carrying trident, commanding presence over sea and earth"
+  locations:
+    - id: "academy_athens"
+      name: "Academy Athens"
+      description_block: |
+        setting:
+          location: "Walled grove of olive trees northwest of Athens, with simple stone buildings for teaching"
+        mainElements: "Columned porticos for walking discussions, stone seats, altar to Athena, library scrolls"
+        atmosphere: "Peaceful scholarly environment, afternoon sunlight filtering through olive leaves, sound of philosophical debate"
+    - id: "sais_temple"
+      name: "Sais Temple"
+      description_block: |
+        setting:
+          location: "Ancient Egyptian temple complex in Nile Delta, massive stone pylons and courts"
+        mainElements: "Towering obelisks, hieroglyph-covered walls, sacred lake, library chamber with papyrus scrolls"
+        atmosphere: "Hot, dry air, incense burning, flickering oil lamps illuminating ancient records"
+    - id: "atlantis_capital"
+      name: "Atlantis Capital"
+      description_block: |
+        setting:
+          location: "Circular island city with concentric rings of land and water channels"
+        mainElements: "Central temple of Poseidon covered in gold and silver, royal palace, harbors filled with triremes"
+        atmosphere: "Prosperous and bustling, fountains of hot and cold water, sounds of maritime commerce"
+    - id: "pillars_hercules"
+      name: "Pillars Hercules"
+      description_block: |
+        setting:
+          location: "Narrow strait between Europe and Africa, rocky cliffs on both sides"
+        mainElements: "Rock of Gibraltar, Jebel Musa, turbulent waters, ancient boundary markers"
+        atmosphere: "Windy passage with dangerous currents, misty spray, sense of edge of known world"
+    - id: "ancient_athens"
+      name: "Ancient Athens"
+      description_block: |
+        setting:
+          location: "Classical Greek city-state with acropolis, agora, and surrounding countryside"
+        mainElements: "Marble temples, stone walls, military training grounds, olive groves"
+        atmosphere: "Disciplined and martial, sounds of bronze armor and training, sense of noble purpose"
+  items:
+    - id: "timaeus_scroll"
+      name: "Timaeus Scroll"
+      description_block: |
+        details: "Papyrus scroll approximately 20 feet long, written in ancient Greek letters, contains first mention of Atlantis"
+    - id: "critias_scroll"
+      name: "Critias Scroll"
+      description_block: |
+        details: "Unfinished papyrus scroll, detailed architectural descriptions, abrupt ending mid-sentence"
+    - id: "egyptian_records"
+      name: "Egyptian Records"
+      description_block: |
+        details: "Ancient papyrus scrolls with hieroglyphic writing, stored in temple chambers, claimed to contain Atlantis history"
+    - id: "poseidon_trident"
+      name: "Poseidon Trident"
+      description_block: |
+        details: "Three-pronged golden spear, symbol of divine power over seas and earthquakes, gleaming with supernatural light"

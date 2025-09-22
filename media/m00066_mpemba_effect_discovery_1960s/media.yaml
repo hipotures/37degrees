@@ -1,0 +1,11 @@
+media_info:
+  title: Mpemba Effect Discovery - 1960s
+  genre: Science Discovery Documentary
+  description: Tanzanian student discovers that hot water can freeze faster than cold water under certain conditions
+  target_audience: General public, students, science enthusiasts, physics researchers
+  duration: ~3 minutes
+  objective: Recreate the counterintuitive discovery that challenged conventional understanding of thermodynamics
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

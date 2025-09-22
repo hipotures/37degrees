@@ -1,0 +1,11 @@
+media_info:
+  title: Michel Lotito Eats Airplane - 1978-1980
+  genre: Human Record Documentary
+  description: French performer with rare medical condition consumes entire Cessna 150 aircraft over two years
+  target_audience: General public, students, medical curiosity enthusiasts, record breakers
+  duration: ~3 minutes
+  objective: Recreate the incredible feat of the man who ate metal objects including an entire airplane
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

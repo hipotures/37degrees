@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Boeing 777 takeoff from Kuala Lumpur at night"
+  setting:
+    time: "March 8, 2014, 00:41 MYT takeoff time"
+    location: "Kuala Lumpur International Airport runway 32R and surrounding airfield"
+    weather: "Clear tropical night with excellent visibility"
+  characters:
+    - appearance: "53-year-old Malaysian man of medium build, graying hair, experienced aviator bearing with alert dark eyes"
+      clothing: "Malaysia Airlines pilot uniform with four gold stripes indicating captain rank, white shirt, black tie, captain wings pin"
+      position: "In left pilot seat of aircraft cockpit"
+      action: "Operating aircraft controls during takeoff sequence, hands on throttles and yoke"
+    - appearance: "27-year-old young Malaysian aviator, clean-shaven, alert expression with attentive eyes"
+      clothing: "Malaysia Airlines first officer uniform with three gold stripes, completing Boeing 777 transition training"
+      position: "In right pilot seat of aircraft cockpit"
+      action: "Monitoring instruments and calling out airspeeds during takeoff procedure"
+  scene:
+    mainElements: "Long-range twin-engine wide-body commercial aircraft with white fuselage, red and blue Malaysia Airlines livery, registration number on fuselage, twin engines under wings"
+    details: "Aircraft accelerating down illuminated runway with navigation lights strobing, cockpit instruments glowing in darkness, runway edge lights creating lines of white and red guidance lights, control tower visible in distance with beacon rotating, ground equipment and vehicles positioned safely away from runway"
+    background: "Airport terminal buildings with lit windows, aircraft parking areas with other planes, distant city lights of Kuala Lumpur on horizon"
+    atmosphere: "Professional routine takeoff operation in clear night conditions with all systems functioning normally"
+  composition:
+    cameraAngle: "External view from ground level showing aircraft during takeoff roll"
+    focus: "Boeing 777 aircraft lifting off from runway with landing gear retracting"
+    depth: "Foreground shows runway surface with edge lights, middle ground shows aircraft in takeoff configuration, background shows airport infrastructure and distant city lights, no text or letters visible"

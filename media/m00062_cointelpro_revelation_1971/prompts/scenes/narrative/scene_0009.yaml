@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "FBI Director Learns of Document Leak"
+  setting:
+    time: "March 14, 1971, morning"
+    location: "FBI Headquarters building, federal district, Washington DC"
+    weather: "Overcast morning, gray light through office windows"
+  characters:
+    - appearance: "Caucasian man, 70s, broad face, receding gray hair, intense dark eyes, stern expression"
+      clothing: "Dark formal suit with vest, white dress shirt, conservative tie"
+      position: "Standing behind desk reading newspaper with clenched fists"
+      action: "Examining newspaper headlines about COINTELPRO exposure with visible anger"
+    - appearance: "Caucasian man, 30s-40s, clean-shaven, serious expression, professional appearance"
+      clothing: "Dark suit, white shirt, narrow tie, often wearing fedora hat"
+      position: "Standing in front of desk at attention"
+      action: "Briefing director about scale of document theft and media coverage"
+  scene:
+    mainElements: "Large wooden desk, American flag on stand, official government portraits on walls, newspaper spread on desk surface"
+    details: "Morning newspaper with large headlines, coffee cup, brass nameplate, rotary telephone ringing, leather chair pushed back, filing cabinets visible, desk lamp illuminating papers"
+    background: "Wood-paneled walls with framed certificates, large window showing Washington DC, bookshelf with legal volumes"
+    atmosphere: "Tense government crisis management with authority being challenged and secrets exposed, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from side of office showing both characters"
+    focus: "FBI Director reacting to news of COINTELPRO exposure"
+    depth: "Foreground shows newspaper on desk, middle ground captures characters, background reveals official office"

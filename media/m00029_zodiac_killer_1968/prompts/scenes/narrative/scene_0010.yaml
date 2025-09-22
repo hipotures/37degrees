@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Case Goes Cold - Unsolved Legacy"
+  setting:
+    time: "1974, late afternoon"
+    location: "Police department evidence room, San Francisco"
+    weather: "Overcast winter day"
+  characters:
+    - appearance: "Middle-aged Caucasian male detective, professional appearance, distinctive 1970s style, showing years of frustration"
+      clothing: "Police department suits, shoulder holster, professional law enforcement attire, slightly worn from long investigation"
+      position: "Standing before wall of evidence boxes and files"
+      action: "Reviewing case files one final time, preparing to close active investigation"
+    - appearance: "Police evidence clerk, middle-aged professional"
+      clothing: "Administrative attire appropriate for evidence room work"
+      position: "Standing beside filing cabinets containing case materials"
+      action: "Organizing case files and evidence for long-term storage"
+  scene:
+    mainElements: "Evidence room filled with boxes labeled with case numbers, walls lined with filing cabinets, unsolved case materials organized for storage"
+    details: "Boxes containing crime scene evidence, photographs, witness statements, cipher materials, fingerprint cards, bloodstained shirt fragment preserved in evidence bags, stacks of suspect files, 340-character cipher still unsolved"
+    background: "Institutional police evidence storage facility, fluorescent lighting, metal shelving units, other unsolved case files, sense of bureaucratic finality"
+    atmosphere: "Resignation and frustration, case transitioning from active investigation to cold case status, sense of killer having escaped justice, institutional acknowledgment of failure"
+  composition:
+    cameraAngle: "Wide shot showing scale of accumulated evidence and investigation materials"
+    focus: "Detective and evidence clerk surrounded by years of investigation work going into storage"
+    depth: "Detective and clerk in foreground, evidence boxes and files in middle ground, institutional storage facility in background"

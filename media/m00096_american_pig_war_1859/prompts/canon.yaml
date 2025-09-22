@@ -1,0 +1,87 @@
+canon:
+  characters:
+    - id: "character_LC"
+      name: "Character LC"
+      description_block: |
+        characters:
+          - appearance: "American man, 40s, weathered face from frontier life, brown beard, stocky farmer build"
+            clothing: "Rough wool shirt, canvas trousers, wide-brimmed hat, leather boots caked with mud"
+            posture: "Determined frontier stance, often holding farming tools or rifle"
+    - id: "character_CG"
+      name: "Character CG"
+      description_block: |
+        characters:
+          - appearance: "Irish man, 35, red hair, pale complexion, lean build, concerned expression"
+            clothing: "Hudson's Bay Company wool jacket, dark trousers, tall leather boots"
+            posture: "Defensive posture, often gesturing at damaged property or pointing accusingly"
+    - id: "character_GP"
+      name: "Character GP"
+      description_block: |
+        characters:
+          - appearance: "American man, 34, dark mustache, slender military bearing, intense eyes"
+            clothing: "US Army blue uniform with captain's bars, peaked military cap, black leather belt with sword"
+            posture: "Military precision, often studying maps or directing troop movements"
+    - id: "character_GH"
+      name: "Character GH"
+      description_block: |
+        characters:
+          - appearance: "British man, 45, naval beard, weathered sea captain appearance, commanding presence"
+            clothing: "Royal Navy uniform with gold braid, white naval cap, brass buttons"
+            posture: "Naval authority, hands clasped behind back or pointing at strategic positions"
+    - id: "character_WS"
+      name: "Character WS"
+      description_block: |
+        characters:
+          - appearance: "American man, 73, distinguished elderly general, white hair, dignified bearing"
+            clothing: "US Army dress uniform with general's insignia, ceremonial sword, formal military hat"
+            posture: "Diplomatic bearing, often in discussion pose or reviewing documents"
+  locations:
+    - id: "san_juan_island"
+      name: "San Juan Island"
+      description_block: |
+        setting:
+          location: "San Juan Island between Vancouver Island and Washington Territory"
+        mainElements: "Rolling green hills with scattered oak trees, rocky coastline, pristine waters"
+        atmosphere: "Pacific Northwest maritime environment with dramatic coastal scenery"
+    - id: "american_camp"
+      name: "American Military Camp"
+      description_block: |
+        setting:
+          location: "High windswept meadow on southern end of San Juan Island overlooking Griffin Bay"
+        mainElements: "Military tents arranged in formation, earthwork redoubt, cannons positioned strategically"
+        atmosphere: "Frontier military outpost with commanding view of surrounding waters"
+    - id: "british_camp"
+      name: "British Royal Marine Camp"
+      description_block: |
+        setting:
+          location: "Northern shoreline of San Juan Island for ease of resupply and access"
+        mainElements: "Formal military camp with Union Jack flag, supply tents, marines on patrol"
+        atmosphere: "Disciplined British military presence with direct harbor access"
+    - id: "cutlar_farm"
+      name: "Frontier Farm"
+      description_block: |
+        setting:
+          location: "Cleared farmland on San Juan Island with vegetable garden"
+        mainElements: "Log cabin, split-rail fences, potato garden, cleared fields from forest"
+        atmosphere: "Isolated frontier homestead carved from wilderness"
+  items:
+    - id: "hudson_bay_pig"
+      name: "Hudson's Bay Company Pig"
+      description_block: |
+        details: "Large black pig rooting through vegetable garden, eating potato tubers"
+    - id: "american_cannons"
+      name: "American Artillery"
+      description_block: |
+        details: "14 military cannons positioned in earthwork redoubt, brass and iron construction"
+    - id: "british_warships"
+      name: "Royal Navy Fleet"
+      description_block: |
+        details: "5 British warships anchored in island waters, multiple masts, naval flags flying"
+    - id: "potato_garden"
+      name: "Damaged Potato Garden"
+      description_block: |
+        details: "Vegetable garden with torn earth, uprooted potato plants, pig damage visible"
+    - id: "union_jack"
+      name: "British Flag"
+      description_block: |
+        details: "Union Jack flag flying on tall wooden flagpole at British camp"

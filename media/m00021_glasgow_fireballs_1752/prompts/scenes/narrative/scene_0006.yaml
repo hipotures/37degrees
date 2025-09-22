@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Citizens Gather as Fireball Intensifies"
+  setting:
+    time: "December 11, 1752, 4:00 PM, during the fireball event"
+    location: "Glasgow city center, Scotland, December 1752"
+    weather: "Clear visibility with extraordinary atmospheric phenomenon overhead"
+  characters:
+    - appearance: "Middle-aged Scottish gentleman, likely educated based on detailed observation skills, 40s, intelligent countenance, careful grooming reflecting professional status"
+      clothing: "Dark wool coat with brass buttons, white linen shirt with cravat, knee-length breeches, white stockings, buckled shoes - typical 1750s Scottish urban dress"
+      position: "Among crowd of citizens all looking skyward"
+      action: "Continuing methodical observation while others react with various degrees of wonder and concern"
+  scene:
+    mainElements: "Multiple Glasgow citizens in 18th-century dress gathered in streets, all pointing and looking upward at the continuing fireball phenomenon"
+    details: "The crowd grows as more citizens emerge from buildings and shops to witness the unprecedented celestial event. Men in period coats and breeches, women in long dresses and cloaks, all crane their necks skyward. Some cross themselves, others point excitedly, while the educated observer continues his systematic documentation. The scene captures the moment when individual wonder becomes collective experience, as Glasgow's population unites in witnessing history, no text or letters visible"
+    background: "Glasgow buildings and cathedral spires frame the gathering crowd beneath the ongoing fireball display"
+    atmosphere: "Growing excitement and tension as more citizens join the collective witnessing of this extraordinary event"
+  composition:
+    cameraAngle: "Wide shot showing the crowd gathering in response to the phenomenon"
+    focus: "The collective human response to the extraordinary celestial event"
+    depth: "Foreground shows individual citizens reacting, middle ground captures the growing crowd, background features Glasgow architecture and the continuing fireball overhead"

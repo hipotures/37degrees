@@ -4,3 +4,177 @@ book_info:
   author: "James Joyce"
   year: 1922
   genre: "Modernist,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T15:42:00"
+
+  scores:
+    controversy: 9.0
+    philosophical_depth: 10.0
+    cultural_phenomenon: 9.0
+    contemporary_reception: 7.0
+    relevance: 9.0
+    innovation: 10.0
+    structural_complexity: 10.0
+    social_roles: 9.0
+    total: 73.0
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.8
+      category: "high"
+    heat:
+      value: 8.5
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_01"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Book banned in US and UK for over a decade, government destroyed copies, obscenity trials established literary freedom precedent"
+        source: "dark_drama"
+      - id: "symbols_01"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Revolutionary stream of consciousness technique and mythological parallels created entirely new literary form"
+        source: "symbols_meanings"
+      - id: "culture_01"
+        type: "FACT"
+        credibility: 0.95
+        content: "Over 50 documented adaptations across film, theater, radio, plus international Bloomsday celebrations in 6+ countries"
+        source: "culture_impact"
+      - id: "youth_01"
+        type: "FACT"
+        credibility: 0.95
+        content: "BookTok videos reaching 850K+ views, multiple viral hashtags with 2.3M views, active VR adaptations and streaming content"
+        source: "youth_digital"
+      - id: "reality_01"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Eerily prophetic about stream of consciousness psychology, consumer culture, gender fluidity, and digital-age anxiety patterns"
+        source: "reality_wisdom"
+      - id: "innovation_01"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created 35+ fundamental literary innovations including stream of consciousness, mythical method, and experimental narrative forms"
+        source: "writing_innovation"
+      - id: "history_01"
+        type: "FACT"
+        credibility: 0.95
+        content: "Written over 7 years across 3 cities (Trieste-Zurich-Paris), published on Joyce's 40th birthday by Sylvia Beach"
+        source: "facts_history"
+      - id: "warnings_01"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Contains explicit sexual content, religious blasphemy, antisemitic character statements requiring 18+ age classification"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Landmark legal precedent for literary freedom, cornerstone of modernist studies in universities, global Bloomsday celebrations"
+        key_editions: ["Oxford University Press annotated edition", "Penguin Annotated Student Edition"]
+        reception_notes: "T.S. Eliot called mythical method 'scientific discovery', established modernist canon"
+        educational_status: "Standard in modernist literature courses, over 15,000 academic publications"
+        local_themes: ["Literary freedom", "Modernist revolution", "Stream of consciousness innovation"]
+
+      pl:
+        cultural_impact: "Two major translations (1969 Słomczyński, 2021 Świerkocki), legendary theater adaptations by Hübner and Grzegorzewski"
+        key_editions: ["PIW 1969 edition", "Znak/Officyna 2021 edition"]
+        reception_notes: "40,000 copies sold immediately, black market resales at 15x cover price, symbol of intellectual sophistication"
+        educational_status: "University courses, Bloomsday celebrations in Kraków, liberature movement inspiration"
+        local_themes: ["Intellectual rebellion", "Western modernism access", "Translation innovation"]
+
+      de:
+        cultural_impact: "Hans Wollschläger's legendary 1975 translation achieved cult status, influenced German literary theory"
+        key_editions: ["Suhrkamp Verlag editions", "Commented edition with annotations"]
+        reception_notes: "Major influence on German-language writers since 1930s, reception theory development"
+        educational_status: "Advanced high school to college level, German universities emphasize theoretical analysis"
+        local_themes: ["Philosophical hermeneutics", "Frankfurt School context", "Language experimentation"]
+
+      fr:
+        cultural_impact: "Published first in Paris 1922, foundational to French literary theory from structuralism to poststructuralism"
+        key_editions: ["1929 Morel translation", "2004 Gallimard retranslation directed by Jacques Aubert"]
+        reception_notes: "Influenced Lacan, Derrida, Kristeva; central to poststructuralist theory development"
+        educational_status: "Core text in École Normale Supérieure and Sorbonne, French intellectual movements"
+        local_themes: ["Intertextuality theory", "Écriture féminine", "Language instability"]
+
+      es:
+        cultural_impact: "Five Spanish translations (1945-2017), pioneered by Buenos Aires insurance salesman José Salas Subirat"
+        key_editions: ["Rueda 1945 Buenos Aires", "Cátedra Universidad de Sevilla", "Planeta Barcelona"]
+        reception_notes: "Influenced Latin American magical realism, extensive academic scholarship in Hispanic universities"
+        educational_status: "Spanish James Joyce Society, Papers on Joyce journal, university curricula"
+        local_themes: ["Translation innovation", "Latin American modernism", "Self-censorship strategies"]
+
+      pt:
+        cultural_impact: "Brazil leads Portuguese translation with 4 editions, parallel to 1922 Semana de Arte Moderna"
+        key_editions: ["Houaiss 1966", "Galindo 2012 Penguin-Companhia das Letras"]
+        reception_notes: "Caetano Galindo won major Brazilian awards, anthropophagic cultural digestion"
+        educational_status: "Brazilian university curricula, Santa Maria Bloomsday celebrations since 1994"
+        local_themes: ["Anthropophagic modernism", "Brazilian literary innovation", "Cultural cannibalism"]
+
+      ja:
+        cultural_impact: "First non-European translation 1931-1934, pioneered psychological literature movement in Japan"
+        key_editions: ["Daiichi-shobo 1931-1934", "Iwanami Shoten", "Manga adaptation 2009"]
+        reception_notes: "Early commercial success 20,000 copies in 6 months, influenced interior monologue techniques"
+        educational_status: "Project 22 Ulysses centenary celebration, Joyce Society active academic program"
+        local_themes: ["New psychological literature", "Manga cultural adaptation", "Visual storytelling influence"]
+
+      ko:
+        cultural_impact: "James Joyce Society of Korea founded 1979, complete works translation project"
+        key_editions: ["Chong-Keon Kim 1968", "Lee Jong-il 2023", "Four-volume Korean set"]
+        reception_notes: "Confucian virtue interpretations, influenced Korean modernist writers like Yi Sang"
+        educational_status: "Korea University graduate courses, annual Bloomsday celebrations"
+        local_themes: ["Confucian character analysis", "Korean modernist influence", "Stream of consciousness adaptation"]
+
+      hi:
+        cultural_impact: "Major influence on Salman Rushdie and Arundhati Roy, Upanishadic philosophical connections"
+        key_editions: ["Penguin Modern Classics India", "Rupa Publications", "Annotated Student Edition"]
+        reception_notes: "Direct Upanishad references, consciousness exploration parallels with Hindu philosophy"
+        educational_status: "JNU and DU curricula, postcolonial studies integration"
+        local_themes: ["Postcolonial narrative", "Consciousness philosophy", "Modernist technique adoption"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Dublin 1904 colonial Ireland, Catholic-Protestant tensions, nationalist movements"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Gender revolution through Molly Bloom, male vulnerability, sexual liberation themes"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Modern parallels in anxiety, overthinking, urban alienation, identity crisis"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "social_transformation"
+          lead: "host_b"
+          description: "Revolutionary impact on literature, censorship battles, ongoing cultural influence"
+      prompts:
+        host_a: "You are {male_name}, a social historian analyzing 'Ulysses' in its 1904 Dublin context. Discuss colonial power structures, religious tensions, and Irish nationalism. Connect Joyce's social critique to contemporary power dynamics and cultural transformation."
+        host_b: "You are {female_name}, examining 'Ulysses' through contemporary social justice lens. Analyze gender representation, sexual liberation, and power structures. Connect Joyce's revolutionary portrayal of women and marginalized voices to current social movements."
+
+  metadata:
+    target_audience: "18+"
+    content_warnings: ["explicit sexual content", "religious blasphemy", "antisemitic character statements", "colonial discourse"]
+    educational_elements: ["modernist literary techniques", "stream of consciousness innovation", "historical context 1904 Dublin", "censorship and literary freedom", "gender and sexuality themes"]
+    production_notes:
+      intro_style: "Dublin street sounds with period music"
+      transitions: "literary cafe ambient sounds"
+      outro_style: "contemplative piano with Irish influences"
+
+  overall_confidence: 0.92

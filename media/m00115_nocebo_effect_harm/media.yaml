@@ -1,0 +1,11 @@
+media_info:
+  title: Nocebo Effect Negative Suggestion Harm
+  genre: Medical Science Documentary
+  description: Negative expectations can cause real physical symptoms and health deterioration
+  target_audience: General public, students, medical enthusiasts, psychology buffs
+  duration: ~3 minutes
+  objective: Recreate the dark counterpart to placebo that shows how negative thoughts can harm health
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

@@ -1,0 +1,11 @@
+media_info:
+  title: Oymyakon Extreme Cold
+  genre: Geography Documentary
+  description: Siberian village experiences -712°C temperatures while maintaining permanent human habitation
+  target_audience: General public, students, geography enthusiasts, extreme environment researchers
+  duration: ~3 minutes
+  objective: Recreate life in the coldest permanently inhabited place on Earth where survival requires extraordinary adaptation
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Prisoners Stage Defiant Rebellion Against Authority"
+  setting:
+    time: "August 15, 1971, morning"
+    location: "Converted basement of Stanford University psychology building, Jordan Hall, California"
+    weather: "Interior basement environment, artificially lit"
+  characters:
+    - appearance: "Caucasian man, early 20s, medium build, defiant expression, growing desperation"
+      clothing: "Ill-fitting white prison smock, stocking cap, chain around ankle, number 819 visible on chest"
+      position: "Standing defiantly in front of cell with arms crossed"
+      action: "Leading rebellion by refusing orders and encouraging other prisoners to resist guard authority"
+    - appearance: "Caucasian man, early 20s, average build, submissive expression, downcast eyes"
+      clothing: "Ill-fitting white prison smock, stocking cap, chain around ankle, kept neat"
+      position: "Standing behind rebellious prisoner showing support"
+      action: "Joining rebellion by linking arms with other prisoners and refusing to follow guard commands"
+    - appearance: "Caucasian man, early 20s, tall, athletic build, stern expression"
+      clothing: "Khaki military-style uniform, reflective mirrored sunglasses, black boots, carrying whistle and billy club"
+      position: "Standing in aggressive stance facing prisoners"
+      action: "Blowing whistle loudly and brandishing billy club while attempting to restore order and control"
+  scene:
+    mainElements: "Tense confrontation in narrow prison corridor with prisoners forming unified resistance against guards trying to reassert authority and control"
+    details: "Prisoners linked together in defiant stance, guards with raised billy clubs and whistles, stocking caps pulled off by prisoners in act of rebellion, chains around ankles creating rattling sounds, cell doors standing open, scattered prison smocks on floor, institutional fluorescent lighting casting harsh shadows during confrontation"
+    background: "Basement prison environment with concrete walls, exposed pipes, institutional lighting, guard station area with monitoring equipment, stairs leading to upper levels"
+    atmosphere: "High tension and conflict with rebellious energy challenging authoritarian control, harsh lighting creating dramatic shadows, claustrophobic environment amplifying confrontational intensity"
+  composition:
+    cameraAngle: "Dynamic medium shot capturing confrontation between opposing groups"
+    focus: "Central conflict between defiant prisoners and aggressive guards in narrow corridor setting"
+    depth: "Foreground shows prisoners in rebellious stance, middle ground focuses on guard response with raised equipment, background reveals institutional prison environment, no text or letters visible"

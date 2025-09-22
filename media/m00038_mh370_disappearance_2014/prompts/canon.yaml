@@ -1,0 +1,100 @@
+canon:
+  characters:
+    - id: "character_ZAS"
+      name: "Character ZAS"
+      description_block: |
+        characters:
+          - appearance: "53-year-old Malaysian man of medium build, graying hair, experienced aviator bearing with alert dark eyes"
+            clothing: "Malaysia Airlines pilot uniform with four gold stripes indicating captain rank, white shirt, black tie, captain wings pin"
+            posture: "Professional and calm demeanor, confident hand movements typical of experienced pilot with 33 years flying experience"
+
+    - id: "character_FAH"
+      name: "Character FAH"
+      description_block: |
+        characters:
+          - appearance: "27-year-old young Malaysian aviator, clean-shaven, alert expression with attentive eyes"
+            clothing: "Malaysia Airlines first officer uniform with three gold stripes, completing Boeing 777 transition training"
+            posture: "Attentive trainee pilot posture, serious about learning, respectful toward senior captain"
+
+    - id: "character_ATC"
+      name: "Character ATC"
+      description_block: |
+        characters:
+          - appearance: "Malaysian aviation professional, focused concentration, headset worn, alert expression"
+            clothing: "Standard ATC uniform or civilian professional attire with identification badge"
+            posture: "Alert professional stance, hands on communication equipment, following standard procedures"
+
+    - id: "character_LEY"
+      name: "Character LEY"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Chinese man with grief-stricken but determined expression, worried facial features"
+            clothing: "Simple dark clothing, sometimes holding photographs of missing relatives"
+            posture: "Emotional but resolute stance, demanding answers and transparency from authorities"
+
+  locations:
+    - id: "klia_terminal"
+      name: "Kuala Lumpur International Airport Terminal"
+      description_block: |
+        setting:
+          location: "Modern international airport terminal departure gate area at Kuala Lumpur International Airport, Malaysia"
+        mainElements: "Check-in counters with Malaysia Airlines branding, departure gates, passenger seating areas, large windows overlooking aircraft on tarmac"
+        atmosphere: "Quiet overnight atmosphere with fluorescent lighting, few passengers preparing for early morning flight departure"
+
+    - id: "south_china_sea_airspace"
+      name: "South China Sea Airspace"
+      description_block: |
+        setting:
+          location: "Dark ocean waters of South China Sea 35,000 feet below, night sky with scattered clouds above"
+        mainElements: "Vast expanse of dark ocean water, occasional distant lights from ships on surface, aircraft navigation lights"
+        atmosphere: "Peaceful night flight conditions with clear weather and normal visibility for routine commercial aviation"
+
+    - id: "radar_control_facility"
+      name: "Malaysian Military Radar Control Room"
+      description_block: |
+        setting:
+          location: "Darkened military radar monitoring facility with multiple screens and displays, classified location in Malaysia"
+        mainElements: "Large radar screens showing aircraft positions as moving dots, communication equipment, aviation charts and maps on walls"
+        atmosphere: "Quiet overnight military watch with dim lighting from screens, serious professional environment"
+
+    - id: "indian_ocean_search_zone"
+      name: "Southern Indian Ocean Search Area"
+      description_block: |
+        setting:
+          location: "Remote ocean region with rough seas in Southern Indian Ocean, no land visible for hundreds of kilometers"
+        mainElements: "Deep blue waters with white foam caps, search vessels with equipment, underwater exploration sonar devices"
+        atmosphere: "Isolated challenging maritime environment with unpredictable weather and endless ocean horizon"
+
+    - id: "reunion_island_beach"
+      name: "Réunion Island Beach"
+      description_block: |
+        setting:
+          location: "Tropical beach with black volcanic sand and powerful waves at Réunion Island, French overseas territory"
+        mainElements: "Rocky coastline, coconut palm trees, scattered marine debris washing ashore, investigation teams with equipment"
+        atmosphere: "Remote tropical setting with sound of crashing waves, humid ocean air, sense of discovery"
+
+  items:
+    - id: "boeing_777_aircraft"
+      name: "Boeing 777-2H6ER Aircraft"
+      description_block: |
+        details: "Long-range twin-engine wide-body commercial aircraft with white fuselage, red and blue Malaysia Airlines livery, registration number on fuselage, twin engines under wings"
+
+    - id: "wing_flaperon"
+      name: "Aircraft Wing Flaperon Debris"
+      description_block: |
+        details: "Triangular wing control surface approximately 2 meters long, weathered aluminum with marine growth barnacles, structural damage from ocean impact and salt water corrosion"
+
+    - id: "satellite_equipment"
+      name: "Inmarsat Satellite Communication System"
+      description_block: |
+        details: "Satellite communication terminal with digital displays showing signal data, frequency measurements, technical readouts and communication logs on computer screens"
+
+    - id: "acars_system"
+      name: "Aircraft Communications System Terminal"
+      description_block: |
+        details: "Aircraft monitoring system console with digital displays showing automated status reports, transmission logs, and system status indicators"
+
+    - id: "radar_transponder"
+      name: "Secondary Surveillance Radar Transponder"
+      description_block: |
+        details: "Aircraft identification and altitude reporting system visible on radar screens as digital blip with identification codes and altitude readings"

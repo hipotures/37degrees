@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Scientist conducts first intentional microwave experiment with popcorn"
+  setting:
+    time: "1945, late afternoon"
+    location: "Specialized testing section within Raytheon laboratory"
+    weather: "Indoor laboratory environment with artificial lighting"
+  characters:
+    - appearance: "Caucasian man, 50s, lean build, receding brown hair, intelligent dark eyes behind wire-rimmed glasses"
+      clothing: "White lab coat over dark suit jacket, white dress shirt, narrow dark tie, dress shoes"
+      position: "Standing beside magnetron equipment, holding metal container"
+      action: "Carefully positioning container of popcorn kernels near active magnetron, observing with scientific anticipation"
+    - appearance: "Caucasian man, 40s, stocky build, dark hair, serious expression"
+      clothing: "White lab coat over brown suit, light shirt, tie"
+      position: "Standing behind scientist, clipboard in hand"
+      action: "Observing experiment with professional interest, ready to document results"
+  scene:
+    mainElements: "Small yellow corn kernels in metal container positioned near active magnetron equipment, measurement instruments monitoring electromagnetic output, laboratory table with precise positioning"
+    details: "Cylindrical metal magnetron tube with copper segments emitting invisible microwaves toward popcorn container. Electrical cables connecting equipment to power sources. Warning signs about radiation mounted on laboratory walls. Scientist's concentrated expression shows scientific methodology in action."
+    background: "Additional electronic testing equipment, oscilloscopes displaying waveforms, filing cabinets, industrial windows with venetian blinds"
+    atmosphere: "Moment of deliberate scientific experimentation, transition from accident to intentional discovery, controlled laboratory environment with anticipation of breakthrough results, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from side angle showing both men and equipment"
+    focus: "Popcorn kernels in container positioned strategically near magnetron equipment"
+    depth: "Foreground shows popcorn container and magnetron, middle ground features scientist and colleague observing, background reveals broader laboratory setting"

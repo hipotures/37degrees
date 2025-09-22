@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Bridge Arch Construction and Lava Channel Design"
+  setting:
+    time: "1884, morning"
+    location: "Cholut River valley crossing point, Central Java, Indonesia, with Mount Merapi visible in background"
+    weather: "Clear morning with light volcanic ash haze"
+  characters:
+    - appearance: "Javanese master stonemason, 50s, stocky muscular frame, calloused hands, weathered brown skin, graying black hair"
+      clothing: "Traditional Javanese work shirt, brown sarong-style work pants, bare feet, bamboo hat for sun protection"
+      position: "Working on bridge arch construction directing stone placement"
+      action: "Supervising precise fitting of volcanic stones in arch formation while ensuring proper mortar application"
+    - appearance: "Dutch engineer, 40s, tall sturdy build, weathered face from tropical climate, brown hair with receding hairline, wire-rim spectacles"
+      clothing: "White colonial linen shirt with rolled sleeves, brown canvas trousers, leather work boots, pith helmet nearby"
+      position: "Standing beside bridge construction examining arch progress"
+      action: "Checking arch measurements and explaining lava channel diversion design to workers"
+  scene:
+    mainElements: "Partially completed bridge arch spanning river, wooden scaffolding, construction tools, lava diversion channels being carved into riverbank"
+    details: "Volcanic stone blocks fitted precisely in arch formation, wooden centering support structure, rope and pulley systems, carved channels designed to divert lava flow around bridge supports, construction debris and staging areas"
+    background: "Wide rushing river with rocky banks, dense tropical vegetation, Mount Merapi volcano with steam plume, construction camp with tools and materials"
+    atmosphere: "Major construction milestone with arch taking shape, innovative engineering combining volcanic resistance with traditional bridge building, collaborative effort between local and colonial expertise"
+  composition:
+    cameraAngle: "Wide shot showing bridge construction progress against volcanic landscape"
+    focus: "Partially completed bridge arch with workers demonstrating construction techniques"
+    depth: "Bridge construction in foreground, workers and equipment in middle ground, Mount Merapi volcanic backdrop, no text or letters visible"

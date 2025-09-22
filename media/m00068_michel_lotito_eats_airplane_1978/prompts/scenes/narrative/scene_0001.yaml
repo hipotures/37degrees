@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Medical Examination - Discovering the Unusual Condition"
+  setting:
+    time: "1978, afternoon"
+    location: "Clinical examination room with medical equipment, examination table, charts on walls"
+    weather: "Clear day, bright fluorescent lighting indoors"
+  characters:
+    - appearance: "French man, 30s, medium build, distinctive intense dark eyes, average height, concentrated expression when eating unusual objects"
+      clothing: "Simple 1970s casual wear - button-down shirts, dark trousers, sometimes white lab coat during medical examinations"
+      position: "Sitting on examination table, looking directly at camera"
+      action: "Being examined by medical professional, calm and cooperative demeanor"
+    - appearance: "Middle-aged medical professional, white coat, serious expression, holding medical instruments or clipboard"
+      clothing: "White medical coat over formal shirt and tie, sometimes surgical gloves"
+      position: "Standing beside examination table with clipboard"
+      action: "Taking notes and examining patient with scientific curiosity"
+  scene:
+    mainElements: "Sterile white walls, medical examination table with leather padding, metal medical instruments on rolling cart"
+    details: "X-ray machine, stethoscope, medical chart clipboard, stomach examination tools arranged on metal tray, fluorescent ceiling lights casting clinical shadows, medical diploma on wall, scale for measuring weight"
+    background: "White clinical walls with mounted medical equipment, cabinets with medical supplies, window showing daylight"
+    atmosphere: "Clinical, bright fluorescent lighting, sterile and professional environment"
+  composition:
+    cameraAngle: "Medium shot at eye level"
+    focus: "Patient and doctor interaction, medical examination in progress"
+    depth: "Foreground: patient and doctor, middle ground: medical equipment, background: clinical room setting, no text or letters visible"

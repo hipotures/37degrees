@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Glasgow City Center on December Afternoon 1752"
+  setting:
+    time: "December 11, 1752, 4:00 PM"
+    location: "Glasgow city center, Scotland, December 1752"
+    weather: "Cold December afternoon, grey winter sky"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Cobblestone streets, stone buildings, Glasgow Cathedral dominating skyline, University buildings, merchant houses, market cross, narrow wynds and closes typical of medieval Scottish burghs, River Clyde running through"
+    details: "Smoke rising from chimneys, bustling with merchants and citizens in period dress. Stone architecture reflects Scottish Enlightenment era prosperity. Cathedral spires pierce winter sky while university buildings represent growing intellectual movement. Market cross stands as center of civic life with surrounding merchant establishments. Narrow medieval streets wind between substantial stone structures typical of 18th-century Scottish urban planning, no text or letters visible"
+    background: "Glasgow Cathedral and university buildings frame the cityscape against grey December sky, River Clyde flows through the scene"
+    atmosphere: "Cold December afternoon, grey winter sky, smoke rising from chimneys, bustling with merchants and citizens in period dress"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position"
+    focus: "Glasgow Cathedral spires and university buildings as architectural anchors"
+    depth: "Foreground shows cobblestone streets with period figures, middle ground features merchant houses and market cross, background dominated by cathedral and university against winter sky"

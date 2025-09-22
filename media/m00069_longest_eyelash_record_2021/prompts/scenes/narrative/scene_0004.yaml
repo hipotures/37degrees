@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Guinness World Record Measurement 2016"
+  setting:
+    time: "2016, afternoon"
+    location: "Official setting for record verification, formal indoor space with cameras and documentation"
+    weather: "Bright artificial lighting for documentation"
+  characters:
+    - appearance: "Chinese woman, 50s, gentle face with kind eyes, naturally long dark hair, distinctive extremely long eyelash on left upper eyelid measuring over 20 centimeters"
+      clothing: "Simple casual modern Chinese clothing, often light colored blouses or sweaters, comfortable everyday attire"
+      position: "Seated in verification chair, head tilted for optimal measurement access"
+      action: "Remaining still while official measures her eyelash with professional instruments"
+    - appearance: "Official record verifier, professional appearance, wearing formal business attire"
+      clothing: "Professional business suit with official identification badge"
+      position: "Kneeling beside chair with precision measurement tools"
+      action: "Carefully measuring the eyelash with official ruler, documenting the 12.4 cm length"
+  scene:
+    mainElements: "Recording equipment, documentation tables, official certificates, measurement instruments"
+    details: "Professional medical rulers and measurement devices used for precise documentation of eyelash length, metal rulers with clear markings, cameras for documentation, official verification paperwork on tables, formal indoor setting"
+    background: "Formal but celebratory, focused on achievement recognition and documentation"
+    atmosphere: "Official achievement verification, mixture of scientific precision and celebratory recognition"
+  composition:
+    cameraAngle: "Close-up shot focusing on measurement process"
+    focus: "Precise measurement of the eyelash with ruler showing 12.4 centimeters"
+    depth: "Measurement action in foreground, official documentation in middle ground, formal verification setting in background, no text or letters visible"

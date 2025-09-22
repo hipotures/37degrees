@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Final Log Entry Near Azores - November 25, 1872"
+  setting:
+    time: "November 25, 1872, 08:00 hours - morning log entry"
+    location: "Ship's cabin and deck 6 nautical miles southwest of Santa Maria Island in the Azores"
+    weather: "Rough seas with strong winds, overcast skies threatening storm"
+  characters:
+    - appearance: "37-year-old Caucasian man, medium build, dark beard and hair typical of New England mariners, weathered complexion from years at sea, serious demeanor befitting an experienced captain"
+      clothing: "Navy blue captain's uniform with brass buttons, peaked cap with maritime insignia, sturdy leather boots, heavy wool overcoat for Atlantic crossing"
+      position: "Seated at navigation table in cabin writing in ship's log"
+      action: "Making final log entry while consulting navigation instruments and noting rough weather conditions"
+    - appearance: "30-year-old Caucasian woman, petite frame, brown hair typically worn in period-appropriate chignon, pale complexion, gentle facial features"
+      clothing: "Dark traveling dress with high collar and long sleeves, woolen shawl for warmth, lace-up boots, bonnet for deck exposure"
+      position: "Seated in cabin holding child close during rough weather"
+      action: "Comforting toddler during storm conditions while staying safely below deck"
+    - appearance: "2-year-old child, blonde curly hair, bright eyes, small for her age but healthy, cherubic features"
+      clothing: "Child's woolen dress with pinafore, tiny leather shoes, warm cap and mittens for cold Atlantic weather"
+      position: "In mother's protective embrace in ship's cabin"
+      action: "Clinging to mother for comfort during rough seas and frightening weather"
+  scene:
+    mainElements: "Ship's cabin with navigation table, chronometer, sextant, and ship's log book open for final entry, oil lamp providing warm light against storm darkness, rough seas visible through cabin porthole"
+    details: "Captain's careful handwriting in logbook noting position 6 nautical miles southwest of Santa Maria Island, navigation instruments showing ship's location, compass indicating direction, barometer showing falling pressure, coffee cup sliding on table due to ship's motion, maps and charts secured to prevent damage"
+    background: "View through porthole showing angry gray Atlantic waters and distant outline of Santa Maria Island, storm clouds gathering overhead, ship's rigging creaking under wind stress outside cabin"
+    atmosphere: "Tense but routine maritime navigation during challenging weather, sense of impending danger from storm conditions, captain's methodical recording of ship's progress despite deteriorating conditions, family seeking comfort in secure cabin environment"
+  composition:
+    cameraAngle: "Close-up shot from inside cabin showing captain at navigation table with family nearby"
+    focus: "Captain writing final log entry with navigation instruments as central focal point"
+    depth: "Foreground shows detailed navigation equipment and logbook, middle ground captures captain and family in cabin, background reveals stormy seascape through porthole, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Monastic Chronicler Records the Miraculous Sky Ship Event"
+  setting:
+    time: "748 CE, Sunday afternoon after the aerial phenomenon"
+    location: "Scriptorium at Clonmacnoise monastery"
+    weather: "Calm afternoon following morning's supernatural events"
+  characters:
+    - appearance: "Young to middle-aged monk, ink-stained fingers, keen observational eyes"
+      clothing: "Brown woolen habit, writing materials pouch, quill and ink horn"
+      position: "Seated at writing desk or standing with writing materials"
+      action: "Carefully recording events in manuscript or observing phenomenon"
+  scene:
+    mainElements: "Vellum pages with iron gall ink, Latin and Old Irish text, brief entries across Ulster and other annals, contemporary documentation of aerial sighting."
+    details: "Monk chronicler seated at wooden writing desk in monastery scriptorium. Vellum manuscript open before him with fresh ink entries. Quill pen in hand, ink horn nearby. Writing implements arranged precisely on desk. Careful, deliberate writing capturing the morning's extraordinary events. Manuscripts and scrolls visible on shelves around scriptorium. Stone walls with narrow windows providing natural light for writing. Other monks visible in background working on different manuscripts."
+    background: "Clonmacnoise scriptorium with stone walls, manuscript storage, writing desks, religious texts and chronicles, window showing monastery grounds outside"
+    atmosphere: "Scholarly dedication to preserving truth, weight of recording supernatural event for posterity, quiet concentration of monastic learning, sense of historical significance being captured, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing chronicler at work in scriptorium setting"
+    focus: "The careful act of recording miraculous events for historical preservation"
+    depth: "Foreground shows writing monk and manuscript, middle ground reveals scriptorium workspace, background displays monastery interior and other scholars"

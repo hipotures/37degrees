@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Public Performance - Introducing the Metal Eater"
+  setting:
+    time: "1978, evening"
+    location: "Small entertainment venue stage with audience seating, spotlight illumination"
+    weather: "Indoor evening performance, warm stage lighting"
+  characters:
+    - appearance: "French man, 30s, medium build, distinctive intense dark eyes, average height, concentrated expression when eating unusual objects"
+      clothing: "Simple 1970s casual wear - button-down shirts, dark trousers, sometimes white lab coat during medical examinations"
+      position: "Center stage behind table with metal objects"
+      action: "Methodically examining small pieces of metal before consumption, addressing audience"
+    - appearance: "Various ages and appearances, expressions of amazement, curiosity, and disbelief"
+      clothing: "1970s-1980s casual and formal wear depending on venue"
+      position: "Seated in audience chairs facing stage"
+      action: "Leaning forward with interest, some covering mouths in shock, pointing and whispering to others"
+  scene:
+    mainElements: "Raised wooden platform, microphone stand, table with metal objects displayed, audience chairs"
+    details: "Small bite-sized pieces of aircraft metal, carefully cut and prepared, arranged on plates or in containers, clear glass bottle containing mineral oil, spotlights creating dramatic shadows, vintage microphone on stand"
+    background: "Dark audience area with seated spectators, simple stage backdrop, dim lighting beyond spotlight"
+    atmosphere: "Intimate performance setting, warm stage lighting, anticipatory crowd energy"
+  composition:
+    cameraAngle: "Wide shot from audience perspective"
+    focus: "Performer at center stage with metal objects on table"
+    depth: "Foreground: audience silhouettes, middle ground: performer on stage, background: stage backdrop, no text or letters visible"

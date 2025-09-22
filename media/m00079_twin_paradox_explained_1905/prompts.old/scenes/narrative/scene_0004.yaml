@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Traveling Twin Begins High-Speed Journey"
+  setting:
+    time: "1905, night"
+    location: "Deep space view showing Earth and distant spacecraft trajectory"
+    weather: "Clear cosmic environment with brilliant starfield"
+  characters:
+    - appearance: "Young man, 25 years old, athletic build, short brown hair, clean-shaven, determined expression"
+      clothing: "Early 20th century traveler's outfit: brown leather jacket, wool pants, sturdy boots, aviator goggles"
+      position: "Inside streamlined vehicle cockpit, visible through brass-framed windows"
+      action: "Operating controls and monitoring scientific instruments, checking chronometer"
+  scene:
+    mainElements: "Blue Earth visible as sphere, stars scattered across black space, silvery spacecraft trail"
+    details: "Earth appears as a blue marble below, showing continental outlines and swirling white clouds. The experimental vehicle streaks through space leaving a faint luminous trail. Inside the cockpit, brass instruments glow with warm light. A large chronometer dominates the control panel. Scientific measuring devices line the walls. The craft's streamlined design reflects starlight."
+    background: "Infinite cosmic space filled with distant stars, nebulae, and celestial objects creating depth and wonder"
+    atmosphere: "Vast, silent cosmic perspective with brilliant starlight and deep space darkness, sense of incredible speed and isolation, no text or letters visible"
+  composition:
+    cameraAngle: "External view showing spacecraft against Earth and stars"
+    focus: "The contrast between tiny spacecraft and vast cosmic scale"
+    depth: "Foreground shows spacecraft detail, middle ground captures Earth, background reveals infinite starfield"

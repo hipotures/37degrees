@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Musical Family Home in Podgórze Near Kraków"
+  setting:
+    time: "1882, late afternoon, early spring"
+    location: "Musical family home in Podgórze district near Kraków, modest but cultured middle-class residence"
+    weather: "Mild spring day with gentle sunlight"
+  characters:
+    - appearance: "Polish child, 6 years old, slender build, intense dark eyes, intelligent expression, growing taller"
+      clothing: "Simple day clothes - white shirt, dark knickers, suspenders, comfortable indoor shoes"
+      position: "Seated at family piano practicing scales and exercises"
+      action: "Concentrating intensely on finger exercises, occasionally looking up for father's approval"
+    - appearance: "Polish man, 40s, musician's bearing, mustache, caring paternal expression, composer and conductor"
+      clothing: "Late 19th century casual attire - white shirt with rolled sleeves, dark vest, no jacket"
+      position: "Standing beside piano with sheet music in hand"
+      action: "Guiding his son's practice with gentle corrections, pointing to specific passages on music sheets"
+    - appearance: "Polish woman, 30s, elegant bearing, opera singer, warm maternal expression"
+      clothing: "Late 19th century day dress in deep blue with high collar, hair in period-appropriate style"
+      position: "Seated in nearby chair with embroidery work"
+      action: "Listening to practice session while working, occasionally offering encouraging smiles"
+  scene:
+    mainElements: "Family piano dominating small parlor, sheet music scattered on piano and nearby tables, comfortable middle-class furnishings typical of Austrian Galicia period"
+    details: "Lace curtains filtering afternoon light, family photographs on mantelpiece, musical instruments including violin case in corner, metronome on piano top, oil lamp on side table, Persian-style carpet on wooden floor, no text or letters visible"
+    background: "Modest but well-appointed family home showing musical culture, bookcases with bound volumes, framed musical compositions on walls"
+    atmosphere: "Warm family intimacy filled with musical dedication, nurturing environment where talent is carefully cultivated with love and discipline"
+  composition:
+    cameraAngle: "Medium shot from corner of room, capturing family dynamics"
+    focus: "Young character JH at piano with character KH providing instruction, showing father-son musical bond"
+    depth: "Foreground: piano lesson in progress, middle ground: mother observing supportively, background: cozy family parlor with musical memorabilia, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Fitting the brown Franciscan robes to conceal mechanisms"
+  setting:
+    time: "1563, late afternoon"
+    location: "Stone-walled Renaissance workshop in Toledo, Spain, with vaulted ceiling and tall windows"
+    weather: "Partly cloudy with warm afternoon light"
+  characters:
+    - appearance: "Italian man, 50s, graying beard, intense focused eyes, calloused hands from metalwork"
+      clothing: "Renaissance brown leather apron over white linen shirt, dark wool hose, leather boots"
+      position: "Standing at workbench, holding the nearly complete automaton"
+      action: "Carefully adjusting brown Franciscan robes over the mechanical body, testing arm movements"
+  scene:
+    mainElements: "Nearly complete mechanical monk stands on workbench, brown robes concealing sophisticated clockwork interior"
+    details: "38cm tall clockwork figure with wooden head, brown Franciscan robes, hidden brass mechanisms beneath clothing, small wooden cross and rosary in left hand, wind-up key in back. The robes must fit precisely to allow full range of motion while hiding all mechanical components. Rope belt with knots completes the authentic Franciscan appearance. The wooden head shows serene expression with tonsured crown. Simple sandals complete the humble monastic appearance"
+    background: "Wooden workbenches covered with clockwork mechanisms, brass gears, springs, and precision tools surround the nearly finished masterpiece"
+    atmosphere: "Anticipation builds as sacred form emerges from mechanical complexity, the humble robes transforming engineering marvel into devotional figure"
+  composition:
+    cameraAngle: "Medium shot showing the full figure of the mechanical monk"
+    focus: "The robed automaton in the craftsman's hands, emphasizing the transformation from mechanism to holy figure"
+    depth: "Foreground: completed mechanical monk; middle: the craftsman making final adjustments; background: workshop tools and equipment, no text or letters visible"

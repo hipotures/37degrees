@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Testing with Scientific Samples"
+  setting:
+    time: "2024, late evening"
+    location: "Specialized dark chamber for ultrafast imaging demonstrations within INRS facility"
+  characters:
+    - appearance: "Caucasian woman, 35s, determined expression, shoulder-length blonde hair"
+      clothing: "Professional blouse under lab coat or dark business casual attire"
+      position: "Carefully positioning test samples in the beam path"
+      action: "Arranging metal alloy specimens for demagnetization studies"
+    - appearance: "Asian-Canadian man, 40s, focused expression, dark hair, wire-rim glasses"
+      clothing: "White lab coat over dark shirt, or casual dark suit with no tie"
+      position: "Operating SCARF camera controls at primary workstation"
+      action: "Coordinating capture timing with sample preparation"
+  scene:
+    mainElements: "Various scientific samples including metal alloys for demagnetization studies, semiconductor materials for transient absorption analysis, and biological specimens for shock wave research"
+    details: "Precision-mounted scientific test samples positioned in the ultrafast imaging beam path. Metal alloy specimens prepared for demagnetization studies, semiconductor wafers arranged for transient absorption measurements, and specialized biological samples for shock wave analysis. Each sample is carefully positioned with micrometer precision while the SCARF camera system prepares to capture phenomena occurring at femtosecond timescales."
+    background: "Enclosed testing environment with laser pulse generation equipment and target materials, sample handling and positioning equipment"
+    atmosphere: "Controlled experimental environment with precise sample positioning requirements, illuminated by equipment displays and safety indicators, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot focusing on sample preparation and positioning"
+    focus: "The scientific test samples and precise positioning process"
+    depth: "Foreground emphasizes sample positioning apparatus, middle ground shows researchers coordinating the test, background reveals SCARF camera and supporting equipment"

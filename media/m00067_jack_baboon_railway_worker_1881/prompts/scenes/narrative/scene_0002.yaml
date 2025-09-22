@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Training the Trolley - the baboon Learns to Push Character JW"
+  setting:
+    time: "1881, early morning"
+    location: "Simple colonial worker's cottage near Uitenhage railway station"
+    weather: "Cool morning mist with gentle breeze"
+  characters:
+    - appearance: "White male, 40s, sturdy build, determined expression, double leg amputee below the knee"
+      clothing: "1880s railway uniform - dark blue wool jacket with brass buttons, white shirt, black tie, dark trousers"
+      position: "Seated in small wooden trolley in cottage yard"
+      action: "Demonstrating hand signals and giving encouraging gestures to the baboon during training"
+    - appearance: "Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build"
+      clothing: "No clothing yet, natural baboon appearance"
+      position: "Standing behind wooden trolley, gripping rope handle"
+      action: "Learning to push the trolley smoothly, occasionally looking to character JW for approval"
+  scene:
+    mainElements: "Small wooden cart with four wheels and rope handle, dirt yard outside stone and wood cottage, railway tracks visible in distance"
+    details: "Oil lamps hanging from cottage porch, simple wooden furniture visible through open door, railway work tools leaning against cottage wall, domestic items like water buckets and washing basin, small vegetable garden patch"
+    background: "Single-story stone and wood house with small front porch, Uitenhage railway station visible in distance, rolling South African countryside, morning sun creating long shadows"
+    atmosphere: "Quiet domestic training session with patient teaching atmosphere, warm bond developing between man and baboon, peaceful rural setting with distant industrial railway sounds"
+  composition:
+    cameraAngle: "Medium shot from side angle"
+    focus: "the baboon gripping trolley handle while character JW gestures encouragingly from his seat"
+    depth: "Foreground: trolley and characters, middle ground: cottage and yard details, background: railway station and countryside, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "When the Codebreakers Met Their Match"
+  setting:
+    time: "1967, evening"
+    location: "British military intelligence office, secure government facility"
+    weather: "Foggy London evening, dim artificial lighting"
+  characters:
+    - appearance: "Distinguished older gentleman with military bearing, approximately 70 years old, graying hair"
+      clothing: "Post-WWII civilian clothes, occasionally military dress uniform with medals"
+      position: "Standing before wall-mounted analysis charts, hands behind back"
+      action: "Studying seventeen years of accumulated cryptographic analysis with resignation and professional honesty"
+  scene:
+    mainElements: "Military-grade cryptographic workspace with advanced analysis equipment and security protocols"
+    details: "Wall covered with statistical charts showing letter frequency analysis, early computer printouts with pattern recognition attempts, the Voynich manuscript photographed and mounted for study, cipher wheels and cryptographic tools arranged on metal desk, blackboards covered with mathematical formulas, filing cabinets marked with security classifications, no text or letters visible"
+    background: "Sterile government office environment with fluorescent lighting, maps of global communications networks, portraits of military leaders"
+    atmosphere: "Professional resignation mixed with intellectual respect for an unconquerable puzzle, the humility of experts acknowledging their limitations"
+  composition:
+    cameraAngle: "Wide shot emphasizing the scope of the analytical effort"
+    focus: "The overwhelming accumulation of failed analytical attempts"
+    depth: "Foreground shows detailed charts and analysis tools, middle ground captures the cryptographer's contemplative stance, background reveals the institutional weight of the investigation"

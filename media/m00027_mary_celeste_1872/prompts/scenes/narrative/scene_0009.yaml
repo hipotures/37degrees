@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Arrival of Mary Celeste at Gibraltar Port - December 13, 1872"
+  setting:
+    time: "December 13, 1872, afternoon arrival at Gibraltar port"
+    location: "Gibraltar harbor with British colonial port authority, Mediterranean entrance to Atlantic"
+    weather: "Clear December Mediterranean weather with calmer seas than Atlantic crossing"
+  characters:
+    - appearance: "Experienced sailor in his 30s, strong build necessary for boarding operations, practical seaman's attire"
+      clothing: "Heavy wool peacoat, waterproof oilskins, sturdy sea boots, knit cap, equipped with maritime tools"
+      position: "Standing on Mary Celeste deck directing harbor approach"
+      action: "Guiding abandoned vessel into Gibraltar harbor while preparing for official inspection"
+  scene:
+    mainElements: "Mary Celeste entering Gibraltar harbor under skeleton crew control, British colonial port with military fortifications visible, harbor pilot boat approaching to guide final docking, official port authority vessels preparing to board for inspection"
+    details: "Gibraltar's distinctive limestone rock formation dominating skyline, British naval facilities and merchant docking areas, other sailing vessels anchored in protected harbor, Mary Celeste showing signs of difficult Atlantic crossing with damaged rigging and water-stained hull, port authority officials gathering on docks to examine mysterious vessel, signal flags being raised to communicate with harbor control"
+    background: "Mediterranean Sea entrance with calmer waters than Atlantic crossing, Gibraltar's famous rock formation with British fortifications, Spanish coastline visible across bay, other merchant vessels anchored in international waters"
+    atmosphere: "Relief at reaching safe harbor after dangerous skeleton crew voyage, growing official concern about mysterious abandoned vessel, sense of impending legal complications as British authorities prepare detailed investigation"
+  composition:
+    cameraAngle: "Wide shot from harbor showing Mary Celeste approaching Gibraltar with rock formation backdrop"
+    focus: "Mary Celeste entering harbor with Gibraltar's distinctive skyline as central focal point"
+    depth: "Foreground shows harbor activity and approaching pilot boats, middle ground captures Mary Celeste making final approach, background reveals Gibraltar's impressive rock formation and Mediterranean coastline, no text or letters visible"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Investigation Decision - Weighing the Cylinder"
+  setting:
+    time: "April 6, 1938, late morning"
+    location: "Main laboratory workbench, DuPont Jackson Laboratory"
+    weather: "Bright spring morning with clear natural lighting"
+  characters:
+    - appearance: "Caucasian man, early 30s, slender build, intelligent dark eyes, carefully combed dark hair"
+      clothing: "1930s white lab coat over dress shirt and tie, or casual suit with vest"
+      position: "Holding gas cylinder while examining it carefully"
+      action: "Lifting and assessing the weight of the cylinder, showing puzzlement as it feels full despite no gas emerging"
+    - appearance: "Caucasian man, 30s, medium build, alert expression, short brown hair"
+      clothing: "1930s white lab coat over dress shirt, or work clothes with suspenders"
+      position: "Standing beside workbench observing the investigation"
+      action: "Watching the weight assessment and discussing the unexpected findings with colleague"
+  scene:
+    mainElements: "Wooden laboratory bench with glass apparatus, measurement tools, chemical containers"
+    details: "Small metal pressure cylinder being carefully handled and examined, steel gray color with valve mechanism visible, laboratory balance scale nearby for weight verification, both characters showing expressions of scientific curiosity and puzzlement, various measuring instruments arranged on wooden bench, pressure gauges showing zero flow readings, glass apparatus still positioned for planned experiment, laboratory notebooks open for recording observations, no text or letters visible"
+    background: "Laboratory shelving with additional equipment, other experimental stations visible, natural lighting from tall windows creating clear working conditions"
+    atmosphere: "Active research workspace with good lighting, organized tools and equipment"
+  composition:
+    cameraAngle: "Medium shot capturing both characters and their investigative actions with the cylinder"
+    focus: "Characters examining the mysterious cylinder with emphasis on their scientific methodology"
+    depth: "Foreground shows detailed cylinder handling and measurement tools, middle ground features both characters investigating, background reveals laboratory environment, no text or letters visible"

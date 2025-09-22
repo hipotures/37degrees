@@ -1,0 +1,12 @@
+media_info:
+  title: Atacama Desert 400-year Drought - 1570-1971
+  year: 1570
+  genre: Climate & Geography Documentary
+  description: Chilean desert region experiences no recorded rainfall for 400 years (1570-1971)
+  target_audience: General public, students, climate enthusiasts, geography buffs
+  duration: ~3 minutes
+  objective: Recreate the extreme climate conditions of Earth's driest non-polar desert and its unique ecosystem
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Congressional Committee Shocked Reaction"
+  setting:
+    time: "September 17, 1975, 3:00 PM"
+    location: "US Senate Caucus Room 318, Russell Senate Office Building, Washington DC"
+  characters:
+    - appearance: "Caucasian man, 50s, distinguished bearing, graying hair combed back, serious expression with deep-set eyes"
+      clothing: "1970s dark blue suit with thin lapels, white dress shirt, conservative patterned tie"
+      position: "Standing at committee dais with gavel raised"
+      action: "Calling for order as committee processes shocking revelations"
+    - appearance: "Caucasian man, 60s, white hair, stern demeanor, weathered face with prominent jawline"
+      clothing: "1970s dark gray suit, white dress shirt, solid colored tie, American flag pin on lapel"
+      position: "Leaning back in committee chair with hand to forehead"
+      action: "Absorbing the gravity of CIA assassination program revelations"
+  scene:
+    mainElements: "Committee members in animated discussion following assassination program revelations, press gallery in uproar documenting historic moment"
+    details: "Senators engaged in urgent consultation following testimony, visible shock and concern on faces of committee members, press photographers capturing dramatic reactions, overhead lighting emphasizes tension in chamber, gallery buzzing with reporters documenting constitutional crisis, manila folders scattered across committee table, security personnel maintaining order, American flags providing solemn backdrop, no text or letters visible"
+    background: "Packed hearing room with intense media activity and public gallery reaction"
+    atmosphere: "Constitutional crisis atmosphere as legislative oversight confronts intelligence community assassination capabilities"
+  composition:
+    cameraAngle: "Wide shot capturing full committee reaction and chamber atmosphere"
+    focus: "Committee members processing shocking intelligence revelations"
+    depth: "Foreground shows animated committee discussion, middle ground captures press activity, background reveals packed public gallery"

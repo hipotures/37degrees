@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: January evening, after sunset
+    location: Interior of traditional wooden house in Oymyakon, thick log walls, small windows with multiple panes
+    weather: Outside temperature -65°C, wind creating drafts around windows
+  characters:
+  - appearance: Yakutian man, 40s, weathered face with high cheekbones, dark eyes adapted to snow glare, bronze skin from
+      outdoor work
+    clothing: Traditional reindeer hide parka with fur-lined hood, thick mukluks, woolen mittens, layers of warm undergarments
+    position: Sitting close to wood-burning stove, removing outer layers of clothing
+    action: Adding birch logs to fire, warming hands over heat source
+  - appearance: Yakutian woman, 30s, strong build, dark hair in braids, determined expression, rosy cheeks from cold
+    clothing: Traditional Sakha winter dress with geometric patterns, thick wool coat, fur-lined boots, colorful headscarf
+    position: Standing near stove preparing hot tea
+    action: Stirring steaming pot over stove, organizing dried fish for evening meal
+  - appearance: Young Yakutian boy, 8 years old, bright curious eyes, round face typical of children in extreme cold
+    clothing: Small child's winter parka in bright colors, tiny mukluks, woolen hat with ear flaps
+    position: Sitting on thick rug near parents
+    action: Playing with carved wooden toys while staying close to warmth
+  scene:
+    mainElements: Large central stove with chimney, heavy curtains, multiple layers of rugs, family photographs on walls
+    details: Large iron stove central to home heating, constantly fed with birch and pine logs, chimney extending through
+      roof. Heavy woolen curtains cover small windows to retain heat. Multiple layers of animal skin rugs cover wooden floor.
+      Family photographs and traditional Yakutian decorations hang on log walls. Kerosene lamps provide additional lighting.
+      Storage shelves contain preserved foods and winter supplies.
+    background: Wooden log walls with traditional construction, small frost-covered windows showing darkness outside, shadows
+      cast by flickering firelight
+    atmosphere: Warm refuge from deadly cold outside, sense of family closeness necessitated by survival needs
+  composition:
+    cameraAngle: Medium shot from corner of room capturing family gathering
+    focus: Central wood-burning stove with family arranged around it for warmth
+    depth: Family in foreground around stove, home furnishings in middle ground, log walls and windows in background, no text
+      or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

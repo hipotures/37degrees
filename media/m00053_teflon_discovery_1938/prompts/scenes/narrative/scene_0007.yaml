@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Bold Decision - Cutting Open the Cylinder"
+  setting:
+    time: "April 6, 1938, noon"
+    location: "Main laboratory workbench, DuPont Jackson Laboratory"
+    weather: "Bright midday light flooding the laboratory workspace"
+  characters:
+    - appearance: "Caucasian man, early 30s, slender build, intelligent dark eyes, carefully combed dark hair"
+      clothing: "1930s white lab coat over dress shirt and tie, or casual suit with vest"
+      position: "Positioned at workbench holding cutting implement"
+      action: "Using industrial hacksaw to carefully cut open the sealed pressure cylinder to investigate contents"
+    - appearance: "Caucasian man, 30s, medium build, alert expression, short brown hair"
+      clothing: "1930s white lab coat over dress shirt, or work clothes with suspenders"
+      position: "Standing safely nearby monitoring the cutting operation"
+      action: "Observing the cylinder cutting process and maintaining safety protocols during the investigation"
+  scene:
+    mainElements: "Wooden laboratory bench with glass apparatus, measurement tools, chemical containers"
+    details: "Small metal pressure cylinder secured on workbench for cutting, industrial hacksaw or metal cutting implement in use, metal shavings visible from cutting process, protective equipment and safety measures in place, both characters showing focused concentration on the delicate operation, laboratory equipment arranged around workspace maintaining organization, glass apparatus moved safely aside, measurement tools ready for examining whatever is discovered inside, no text or letters visible"
+    background: "Laboratory shelving with equipment, other workstations visible, safety equipment and ventilation systems, natural lighting providing clear visibility for precise work"
+    atmosphere: "Active research workspace with good lighting, organized tools and equipment"
+  composition:
+    cameraAngle: "Close-up shot emphasizing the precision and care of the cutting operation"
+    focus: "Cutting process and characters' concentrated effort to safely open the mysterious cylinder"
+    depth: "Foreground shows detailed cutting action and cylinder, middle ground features both characters working carefully, background reveals laboratory safety environment, no text or letters visible"

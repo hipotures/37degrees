@@ -1,0 +1,101 @@
+canon:
+  characters:
+    - id: "character_JEH"
+      name: "Character JEH"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 70s, broad face, receding gray hair, intense dark eyes, stern expression"
+            clothing: "Dark formal suit with vest, white dress shirt, conservative tie"
+            posture: "Authoritative, rigid posture, often seated behind large desk or standing with hands clasped"
+    - id: "character_MLK"
+      name: "Character MLK"
+      description_block: |
+        characters:
+          - appearance: "African American man, 40s, medium build, mustache, kind but determined eyes"
+            clothing: "Dark suit, white dress shirt, thin tie, occasionally clerical collar"
+            posture: "Dignified bearing, often gesturing while speaking or in contemplative pose"
+    - id: "burglar_lead"
+      name: "Lead Burglar"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s, average height, brown hair, determined expression"
+            clothing: "Dark casual clothing, black gloves, carrying small tools"
+            posture: "Cautious, alert movements, often crouched or moving stealthily"
+    - id: "burglar_lookout"
+      name: "Lookout Person"
+      description_block: |
+        characters:
+          - appearance: "Woman, 30s, shoulder-length brown hair, focused expression"
+            clothing: "Dark coat, practical shoes, carrying radio or communication device"
+            posture: "Watchful stance, positioned near windows or doorways"
+    - id: "fbi_agent"
+      name: "FBI Agent"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s-40s, clean-shaven, serious expression, professional appearance"
+            clothing: "Dark suit, white shirt, narrow tie, often wearing fedora hat"
+            posture: "Professional bearing, standing at attention or seated at desk reviewing files"
+    - id: "journalist"
+      name: "Journalist"
+      description_block: |
+        characters:
+          - appearance: "Man, 40s, glasses, slightly disheveled hair, analytical expression"
+            clothing: "Casual suit, loosened tie, shirt sleeves sometimes rolled up"
+            posture: "Leaning over documents, typing at typewriter, or holding phone to ear"
+  locations:
+    - id: "fbi_media_office"
+      name: "FBI Media Office"
+      description_block: |
+        setting:
+          location: "FBI field office, Media, Pennsylvania, small suburban building"
+        mainElements: "Filing cabinets, desks with papers, American flag, FBI seal on wall"
+        atmosphere: "Sterile government office environment with fluorescent lighting"
+    - id: "hoover_office"
+      name: "FBI Director Office"
+      description_block: |
+        setting:
+          location: "J. Edgar Hoover Building, FBI Headquarters, Washington DC"
+        mainElements: "Large wooden desk, American flag, official portraits, filing cabinets"
+        atmosphere: "Imposing federal office with formal government decor"
+    - id: "newspaper_newsroom"
+      name: "Newspaper Newsroom"
+      description_block: |
+        setting:
+          location: "Washington Post newsroom, downtown Washington DC"
+        mainElements: "Rows of desks with typewriters, ringing phones, stacks of papers"
+        atmosphere: "Busy journalism environment with cigarette smoke and urgent activity"
+    - id: "civil_rights_meeting"
+      name: "Civil Rights Meeting Hall"
+      description_block: |
+        setting:
+          location: "Church basement or community center, urban America"
+        mainElements: "Folding chairs in rows, small stage or podium, religious or community posters"
+        atmosphere: "Intimate community gathering space with warm lighting"
+    - id: "suburban_planning_house"
+      name: "Planning House"
+      description_block: |
+        setting:
+          location: "Suburban home living room, Pennsylvania area"
+        mainElements: "Coffee table with maps and documents, comfortable chairs, table lamps"
+        atmosphere: "Quiet domestic setting used for clandestine planning"
+  items:
+    - id: "classified_documents"
+      name: "Classified FBI Documents"
+      description_block: |
+        details: "Manila folders marked 'CLASSIFIED' and 'COINTELPRO', typed pages with FBI letterhead"
+    - id: "surveillance_photos"
+      name: "Surveillance Photographs"
+      description_block: |
+        details: "Black and white photographs of civil rights leaders, stamped with dates and FBI case numbers"
+    - id: "burglary_tools"
+      name: "Burglary Tools"
+      description_block: |
+        details: "Small crowbar, lock picks, flashlight, dark gloves, canvas bag for documents"
+    - id: "wiretap_equipment"
+      name: "Wiretapping Equipment"
+      description_block: |
+        details: "1970s electronic surveillance devices, recording equipment, telephone line connectors"
+    - id: "typewriter"
+      name: "IBM Typewriter"
+      description_block: |
+        details: "1970s IBM electric typewriter with paper loaded, used for official correspondence"

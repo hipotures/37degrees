@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Woman Awakens in Bedroom"
+  setting:
+    time: "March 2000, 9:30 AM, early spring morning"
+    location: "Bedroom in cottage near Tetney Lock, Lincolnshire"
+    weather: "Cool March morning, misty conditions, overcast sky"
+  characters:
+    - appearance: "Adult woman, early 30s, average build, shoulder-length brown hair, pale complexion"
+      clothing: "Light blue nightgown during incident, casual sweater and jeans when recounting experience"
+      position: "Lying in bed during alleged abduction, sitting upright when discussing events"
+      action: "Experiencing alleged transport to spacecraft, later speaking earnestly about experience"
+  scene:
+    mainElements: "Simple bedroom with single bed, wooden bedframe, small window overlooking canal"
+    details: "Woman lying in bed wearing light blue nightgown, bedsheets rumpled, bedside table with lamp, wooden floor boards, window showing misty countryside beyond, early morning light filtering through curtains"
+    background: "Canal lock visible through window, agricultural fields in distance, overcast sky"
+    atmosphere: "Ordinary domestic morning setting before extraordinary events, peaceful rural environment, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from bedroom doorway"
+    focus: "Woman in bed with window view of countryside"
+    depth: "Foreground: bedroom interior, middle: woman in bed, background: window view of lock and fields"

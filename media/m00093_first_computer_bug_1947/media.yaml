@@ -1,0 +1,12 @@
+media_info:
+  title: First Computer Bug Discovery - September 9, 1947
+  year: 1947
+  genre: Computer History Documentary
+  description: Grace Hopper finds actual moth trapped in Harvard Mark II relay, coining term "computer bug"
+  target_audience: General public, students, computer scientists, technology historians
+  duration: ~3 minutes
+  objective: Recreate the literal discovery that gave us the term "computer bug" and launched debugging practices
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

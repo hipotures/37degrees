@@ -1,0 +1,127 @@
+canon:
+  characters:
+    - id: "character_NA"
+      name: "Character NA"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man, weathered face from outdoor work, calloused hands, keen observational eyes, lean build from physical labor"
+            clothing: "Leather tunic with bone fastenings, woolen cloak for cold mornings, leather boots, bronze tools hanging from hide belt"
+            position: "Standing with confident posture, frequently gesturing toward horizon or stones"
+            action: "Directing construction work with purposeful hand movements, studying celestial positions, making careful calculations"
+    - id: "character_WQ"
+      name: "Character WQ"
+      description_block: |
+        characters:
+          - appearance: "Muscular build from stone work, scarred forearms, dark hair, determined expression, strong shoulders"
+            clothing: "Rough-woven tunic, leather apron for protection, hide wrappings on legs, stone-working tools of antler and bronze"
+            position: "Crouched beside stone surfaces or standing at quarry face"
+            action: "Striking stone with methodical hammer blows, examining stone grain patterns, working with quiet concentration"
+    - id: "character_SH"
+      name: "Character SH"
+      description_block: |
+        characters:
+          - appearance: "Tall, powerful physique, rope-scarred hands, weather-beaten skin, authoritative bearing"
+            clothing: "Heavy woolen garments for winter transport, leather reinforcements at shoulders and knees, bronze axe for clearing paths"
+            position: "Standing beside massive stones or leading transport teams"
+            action: "Coordinating team movements with shouted commands, calculating loads and distances, demonstrating lifting techniques"
+    - id: "character_AP"
+      name: "Character AP"
+      description_block: |
+        characters:
+          - appearance: "Elderly with white beard, deep-set eyes from night observations, slight build, ceremonial bearing"
+            clothing: "Finest woven robes with astronomical symbols, amber beads indicating high status, feathered headdress for ceremonies"
+            position: "Standing at observation points, often with arms raised toward sky"
+            action: "Pointing toward celestial phenomena, marking positions with carved sticks, maintaining solemn reverence during observations"
+    - id: "character_BN"
+      name: "Character BN"
+      description_block: |
+        characters:
+          - appearance: "Medium build, continental facial features, different hairstyle from locals, bronze ornaments"
+            clothing: "Distinctive bell-shaped pottery vessel, copper daggers, woven textiles with geometric patterns"
+            position: "Standing respectfully at edge of gatherings, observing ceremonies"
+            action: "Watching local customs carefully, offering ritual objects respectfully, seeking to understand monument's purpose"
+  locations:
+    - id: "stonehenge_center"
+      name: "Monument Interior"
+      description_block: |
+        setting:
+          location: "Circular arrangement of massive trilithons on Salisbury Plain, Wiltshire, England, precisely aligned earthwork platform"
+          time: "3000-1600 BCE, various times of day depending on scene"
+          weather: "Clear skies for astronomical observations, typical Neolithic climate conditions"
+        mainElements: "Five towering trilithon horseshoe with tallest stones 24 feet high, outer sarsen circle with continuous lintels, inner bluestone settings, central Altar Stone position"
+        details: "Massive sarsen stones weighing 25-40 tons each, mortise-and-tenon joints connecting lintels, precise astronomical alignments, earthwork bank and ditch surrounding monument"
+        background: "Rolling chalk downland of Salisbury Plain, distant horizon visible in all directions, ceremonial avenue extending northeast"
+        atmosphere: "Sacred silence broken only by wind through stones, dramatic shadows changing with sun position, sense of ancient purpose and astronomical precision"
+    - id: "preseli_quarries"
+      name: "Bluestone Quarries"
+      description_block: |
+        setting:
+          location: "Rocky outcrops in Preseli Hills, Pembrokeshire, Wales, specifically Carn Goedog and Craig Rhos-y-felin sites"
+          time: "2900 BCE, various times of day for quarrying work"
+          weather: "Windy hilltop conditions, frequent mist, changeable Welsh weather"
+        mainElements: "Vertical dolerite rock faces, scattered extraction debris, antler picks embedded in cracks, stone-working platforms, ancient trackways leading downhill"
+        details: "Blue-grey dolerite stone with distinctive coloring when wet, natural fracture lines exploited for extraction, fire-setting evidence, rope anchor points"
+        background: "Heather moorland extending to horizon, distant ocean views, rocky tors rising from grassland"
+        atmosphere: "Windy hilltops with constant air movement, misty conditions reducing visibility, sound of stone-on-stone impacts, smell of crushed rock and smoke"
+    - id: "marlborough_downs"
+      name: "Sarsen Stone Fields"
+      description_block: |
+        setting:
+          location: "Rolling chalk downland with scattered sarsen boulders, West Woods area near Marlborough, Wiltshire, England"
+          time: "2500 BCE, daylight hours for stone selection and preparation"
+          weather: "Typical English woodland conditions, dappled sunlight through canopy"
+        mainElements: "Massive sandstone blocks scattered across landscape, selection and dressing areas cleared of vegetation, timber trackways, rope anchors carved in surviving stones"
+        details: "Sarsen stones varying from 25-40 tons, natural weathering creating distinctive shapes, evidence of careful selection, timber scaffolding and working platforms"
+        background: "Dense ancient beech and oak forest, clearings created for stone work, chalk downs visible through tree gaps"
+        atmosphere: "Ancient woodland with filtered sunlight, sounds of wood-splitting and stone-dressing, sawdust and stone dust in air, bird calls from canopy"
+    - id: "avenue_approach"
+      name: "Ceremonial Avenue"
+      description_block: |
+        setting:
+          location: "2.8km ceremonial pathway from River Avon to Stonehenge monument, Wiltshire, England"
+          time: "2300 BCE onwards, ceremonial procession times"
+          weather: "Clear conditions for ceremonial gatherings, good visibility required"
+        mainElements: "Parallel earthwork banks 12 meters apart marking processional route, river crossing point at eastern terminus, sight-lines to monument"
+        details: "Raised banks with internal ditches, carefully maintained pathway surface, marker stones at intervals, approach views of growing monument"
+        background: "River Avon valley with water meadows, gradual rise toward Salisbury Plain, monument visible in distance"
+        atmosphere: "Building anticipation toward sacred site, distant trilithons growing larger with approach, sound of ceremonial drums and chanting echoing across landscape"
+    - id: "aubrey_holes"
+      name: "Original Sacred Circle"
+      description_block: |
+        setting:
+          location: "Ring of 56 precisely-spaced holes around monument's inner bank, Stonehenge, Wiltshire, England"
+          time: "3000 BCE, earliest phase of monument construction"
+          weather: "Clear conditions for precise surveying and alignment work"
+        mainElements: "Circular pits originally holding wooden posts, cremation deposits, astronomical markers, mathematical precision in spacing"
+        details: "Chalk-cut holes 3 feet deep, evidence of wooden post settings, cremated bone deposits, marker stones for alignments"
+        background: "Original earthwork bank and ditch, open downland before stone construction, clear horizon views for astronomical observations"
+        atmosphere: "Earliest sacred space with connection to ancestral traditions, mathematical precision evident in layout, sense of foundation for greater works to come"
+  items:
+    - id: "sarsen_trilithon"
+      name: "Great Trilithon"
+      description_block: |
+        details: "Three massive sarsen stones forming doorway - two uprights 24 feet high supporting 15-ton lintel, mortise-and-tenon joints, carefully dressed surfaces, tongue-and-groove connections between lintels, weathering patterns from millennia of exposure"
+    - id: "bluestone_circle"
+      name: "Inner Bluestone Ring"
+      description_block: |
+        details: "Welsh dolerite stones weighing 2-4 tons each, distinctive blue-grey color when wet, some with natural acoustic properties, evidence of careful selection, variety of rock types from single Welsh region, musical resonance when struck"
+    - id: "altar_stone"
+      name: "Central Recumbent Stone"
+      description_block: |
+        details: "6-ton greenish sandstone slab, 16 feet long, now horizontal but possibly originally upright, Scottish origin from Orcadian Basin confirmed by 2024 analysis, 700km transport distance, unique mineralogy"
+    - id: "heel_stone"
+      name: "Solar Alignment Marker"
+      description_block: |
+        details: "Massive unworked sarsen boulder weighing 30 tons, positioned outside northeast entrance, natural shape preserved, precise positioning for summer solstice sunrise alignment, weathered surface with lichen growth"
+    - id: "antler_picks"
+      name: "Construction Tools"
+      description_block: |
+        details: "Red deer antlers used as quarrying and earth-moving tools, worn tines from heavy use, radiocarbon dated to specific construction phases, wear patterns indicating intensive labor, some carved with worker marks"
+    - id: "station_stones"
+      name: "Lunar Observatory Markers"
+      description_block: |
+        details: "Four sarsen stones forming precise rectangle outside main circle, aligned with lunar extremes, mathematical precision in placement, alignments to maximum and minimum moonrise and moonset positions"
+    - id: "log_rollers"
+      name: "Stone Transport System"
+      description_block: |
+        details: "Massive oak tree trunks stripped of bark, 2-3 feet diameter, arranged as moving rollers under timber sleds, new-cut timber for reduced friction, rope anchoring systems, leather padding for stone protection"

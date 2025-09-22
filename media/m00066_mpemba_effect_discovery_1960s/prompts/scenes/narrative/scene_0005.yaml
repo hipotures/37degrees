@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Crucial Question - Student Challenges Professor"
+  setting:
+    time: "1966, late afternoon"
+    location: "Mkwawa Secondary School assembly hall after lecture, Iringa, Tanzania"
+    weather: "Late afternoon sunlight"
+  characters:
+    - appearance: "Young African male, 13-17 years old, slender build, curious dark eyes, short dark hair"
+      clothing: "1960s Tanzanian school uniform - white short-sleeved shirt, dark shorts, simple brown leather shoes"
+      position: "Standing near front of hall facing the professor"
+      action: "Speaking earnestly with hands gesturing to illustrate his question about hot and cold water freezing"
+    - appearance: "Caucasian man, 40s, medium build, graying hair, kind eyes behind wire-rimmed glasses"
+      clothing: "1960s academic attire - light colored shirt, dark tie, khaki trousers, leather shoes"
+      position: "Standing near blackboard, turned toward the questioning student"
+      action: "Looking thoughtful and intrigued, adjusting glasses while considering the unexpected question"
+    - appearance: "Group of African teenagers, mixed ages 13-16, various builds and heights"
+      clothing: "1960s Tanzanian school uniforms - white shirts, dark shorts/skirts, simple shoes"
+      position: "Some remaining seated, others standing and moving toward exit"
+      action: "Lingering to listen to the exchange, some looking skeptical, others curious about the unusual question"
+  scene:
+    mainElements: "Assembly hall with students dispersing after lecture, blackboard still showing physics equations"
+    details: "Post-lecture atmosphere with students packing books and preparing to leave. The questioning student stands out with his serious demeanor as he poses his counterintuitive question. Professor shows genuine interest rather than dismissal. Afternoon shadows growing longer through windows. Academic setting maintains formality despite informal post-lecture moment, no text or letters visible"
+    background: "Formal hall architecture with brick walls, institutional furniture, and windows showing late afternoon light"
+    atmosphere: "Pivotal moment where scientific curiosity meets open academic mind, tension of challenging established knowledge with personal observation"
+  composition:
+    cameraAngle: "Medium shot focusing on student-professor interaction"
+    focus: "Face-to-face dialogue between young questioner and experienced scientist"
+    depth: "Foreground captures main interaction, middle ground shows interested onlookers, background reveals departing students and formal setting"

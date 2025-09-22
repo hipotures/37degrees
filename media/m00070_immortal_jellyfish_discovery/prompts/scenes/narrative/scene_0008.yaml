@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "International Scientific Conference Presentation of Discovery"
+  setting:
+    time: "Early 1990s, afternoon"
+    location: "Large international marine biology conference auditorium, major research university"
+    weather: "Indoor conference environment with professional auditorium lighting"
+  characters:
+    - appearance: "Mediterranean man, mid-20s, slender build, dark hair, expressive brown eyes, thoughtful demeanor"
+      clothing: "Formal academic conference attire: dark suit, white dress shirt, conservative tie, polished shoes"
+      position: "Standing at podium with presentation materials, addressing large audience"
+      action: "Delivering keynote presentation about immortal jellyfish discovery to international audience of marine biologists"
+    - appearance: "Caucasian man, mid-20s, athletic build, dark blonde hair, intense curious eyes behind wire-rimmed glasses"
+      clothing: "Professional conference attire: navy blazer, light blue dress shirt, dark trousers"
+      position: "Seated in front row supporting the presentation"
+      action: "Observing audience reaction and preparing to answer scientific questions from international colleagues"
+  scene:
+    mainElements: "Large auditorium filled with international marine biology researchers, projection screen displaying research findings, professional conference podium with microphone system"
+    details: "Packed auditorium with scientists from around the world taking notes and showing intense interest, large projection screen showing microscopy images and transformation sequences, conference banners and professional presentation equipment, academic attendees with notebooks and recording devices, international delegates representing major research institutions"
+    background: "Modern conference facility with tiered seating, professional audio-visual equipment, and university or conference center setting"
+    atmosphere: "Electric atmosphere of scientific breakthrough presentation, international recognition of revolutionary discovery, global marine biology community witnessing paradigm-shifting research, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from mid-auditorium showing presenter, audience, and scale of international interest"
+    focus: "The moment of presenting the immortal jellyfish discovery to the global scientific community"
+    depth: "Foreground: engaged audience of international scientists, middle: presenter at podium with projection, background: large auditorium setting with conference infrastructure"

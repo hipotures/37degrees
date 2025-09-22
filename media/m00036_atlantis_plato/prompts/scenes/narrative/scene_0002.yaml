@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Greek lawmaker learns of Atlantis from Egyptian priests at Sais"
+  setting:
+    time: "590 BCE, evening"
+    location: "Temple of Neith at Sais, Egypt - ancient Egyptian temple complex in Nile Delta"
+    weather: "Hot, dry desert evening with clear skies"
+  characters:
+    - appearance: "Elderly statesman with weathered face, grey beard, dignified bearing, travel-worn appearance"
+      clothing: "Travel-stained Greek robes, leather belt with scroll case, walking staff"
+      position: "Seated cross-legged on stone floor facing the Egyptian priest"
+      action: "Listening intently and taking notes on papyrus while Egyptian priest shares ancient knowledge"
+    - appearance: "Ancient Egyptian priest, shaved head, aged features, ritual scars on arms"
+      clothing: "White linen robes with gold trim, ceremonial collar, priest's headband"
+      position: "Seated opposite the Greek visitor in temple inner chamber"
+      action: "Unrolling ancient papyrus scrolls and pointing to hieroglyphic records"
+  scene:
+    mainElements: "Towering obelisks, hieroglyph-covered walls, sacred lake, library chamber with papyrus scrolls"
+    details: "Ancient papyrus scrolls with hieroglyphic writing, stored in temple chambers, claimed to contain Atlantis history. Flickering oil lamps casting dancing shadows on carved stone walls. Sacred ibis feathers scattered on floor. Ceremonial incense burners releasing aromatic smoke. Rows of sealed ceramic jars containing additional scrolls."
+    background: "Hot, dry air, incense burning, flickering oil lamps illuminating ancient records"
+    atmosphere: "Sacred and mysterious environment where ancient wisdom is preserved, sense of revelation and historical weight"
+  composition:
+    cameraAngle: "Wide shot showing the scale of the temple chamber"
+    focus: "Character SO receiving knowledge from Character EP surrounded by ancient Egyptian records"
+    depth: "Foreground: scrolls and writing materials, middle ground: two figures in discussion, background: temple walls covered in hieroglyphs and shadows, no text or letters visible"

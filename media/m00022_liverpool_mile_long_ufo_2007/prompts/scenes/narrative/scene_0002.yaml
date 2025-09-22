@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Anfield Family Home - Ordinary Evening Routine"
+  setting:
+    time: "July 25, 2007, early evening"
+    location: "Anfield residential area, Liverpool, Merseyside, England"
+    weather: "Clear summer evening, warm temperature"
+  characters:
+    - appearance: "British man, middle-aged, civilian witness, alert expression, local Liverpool resident"
+      clothing: "Summer casual clothing 2007, polo shirt or t-shirt, comfortable trousers"
+      position: "Standing in front garden of terraced house, checking evening mail"
+      action: "Sorting through letters and newspapers, glancing occasionally at neighbors and sky"
+    - appearance: "British woman, adult, family member, attentive expression, concerned demeanor"
+      clothing: "Summer casual dress or blouse and skirt, 2007 fashion, comfortable outdoor attire"
+      position: "Near front door of house, watering small garden plants"
+      action: "Tending to flowers in window boxes, engaging in quiet conversation with family"
+    - appearance: "Elderly British woman, 60s-70s, grandmother figure, wise expression"
+      clothing: "Conservative summer dress, cardigan, sensible shoes, handbag"
+      position: "Sitting on front step of terraced house, observing neighborhood"
+      action: "Watching evening activity on street, occasionally pointing out interesting sights"
+  scene:
+    mainElements: "Victorian red brick terraced houses lining both sides of street, small front gardens with iron gates, traditional British residential architecture"
+    details: "Anfield Football Club stadium visible in background distance, other neighbors visible in adjacent gardens and doorways, parked cars along narrow street, street lamps beginning to illuminate, net curtains visible in house windows, flower boxes under ground floor windows, children's bicycles leaning against garden walls"
+    background: "Row of identical terraced houses extending down street, urban Liverpool skyline visible beyond rooftops, evening sky beginning to deepen"
+    atmosphere: "Peaceful domestic evening in working-class Liverpool neighborhood, sense of community and family life, routine activities before extraordinary sighting, no text or letters visible"
+  composition:
+    cameraAngle: "Eye-level street view from across the road, showing family and their house"
+    focus: "The three family members engaged in ordinary evening activities outside their home"
+    depth: "Foreground shows street and pavement, middle ground shows family and their house, background shows neighboring houses and distant stadium"

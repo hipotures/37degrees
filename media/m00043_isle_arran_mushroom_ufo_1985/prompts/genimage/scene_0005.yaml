@@ -1,0 +1,109 @@
+sceneDescription:
+  setting:
+    time: February 5, 1985, early evening
+    location: Open viewing area, Isle of Arran, Scotland
+    weather: Clear winter night, excellent visibility conditions
+  characters:
+  - appearance: Scottish man, 40s, average build, weathered face from island life
+    clothing: 1985 winter clothing - thick wool sweater, heavy jacket, practical trousers, warm hat
+    position: Standing firmly, hands cupped around eyes like binoculars
+    action: Studying the object intently, trying to make out details and structure
+  - appearance: Scottish woman, 30s-40s, medium build, concerned expression
+    clothing: 1985 winter clothing - warm coat, wool scarf, sensible boots, knitted hat
+    position: Standing slightly behind husband, one hand on his shoulder
+    action: Looking between the object and her husband's face, processing what she's seeing
+  - appearance: Scottish girl, 8-12 years old, curious expression, bright eyes
+    clothing: Child's 1985 winter wear - colorful jacket, warm mittens, winter boots, knitted hat
+    position: Standing at father's side, mimicking his observation pose
+    action: Copying father's hand-cupping gesture, staring intently at the object
+  - appearance: Scottish girl, 6-10 years old, wide-eyed wonder, smaller than sister
+    clothing: Child's 1985 winter wear - bright winter coat, warm gloves, small boots, wool hat
+    position: Holding onto mother's coat, staying close for security
+    action: Looking up with fascination but staying close to family for comfort
+  scene:
+    mainElements: Distinctive mushroom or dome-shaped aerial object, bright blue illumination on underside, metallic appearance,
+      hovering high in clear winter sky, maintaining stable mushroom form throughout observation
+    details: Object's mushroom shape clearly defined against night sky, bright blue glow from underside providing distinctive
+      illumination pattern, no visible propulsion or movement, size appearing substantial but distance making exact dimensions
+      unclear, family grouped together in careful observation
+    background: Star-filled winter sky over Isle of Arran, mountain silhouettes, scattered cottage lights across the island
+    atmosphere: Intense focus and concentration, family united in witnessing something extraordinary, peaceful Scottish island
+      setting providing perfect conditions for prolonged observation
+  composition:
+    cameraAngle: Close-up shot emphasizing family's focused observation
+    focus: Family's concentrated attention and the clearly visible UFO above
+    depth: 'Foreground: family in careful observation poses, middle: clear night air, background: mushroom-shaped object and
+      starry Arran sky, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

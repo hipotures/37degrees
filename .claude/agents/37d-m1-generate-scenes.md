@@ -26,7 +26,7 @@ Number of scenes is determined by scene_count field in media.yaml.
 
 ### 0. Create and Save Canonical Definitions File (MANDATORY First Step)
 
-Before any other action, analyze the media research file (review.md if exists for this media).
+Before any other action, analyze the media research file (research.md if exists for this media).
 
 Identify all major recurring characters, locations, and items.
 
@@ -101,7 +101,7 @@ canon:
 - Extract the following critical fields:
   - scene_count: Number of scenes to generate (e.g., 10)
   - scene_generator: Generator type (e.g., "narrative" (narrative-prompt-generator))
-  - graphics_style: Style to apply (e.g., "film-noir-1950s-melodrama")
+  - graphics_style: Style to apply (e.g., "feature-animation-2d-classical")
 
 These values will be used throughout the generation process.
 
@@ -125,24 +125,27 @@ Study the selected generator thoroughly:
 - Note all instructions and constraints
 - Understand how it differs from other generators
 
-### 3. Analyze Media Review
+### 3. Analyze Media Research
 pwd - should be inside 37degrees/ directory
-Wykonaj te 3 polecenia:
-  1. Read(file_path="media/[MEDIA_FOLDER]/docs/review.txt", offset=1, limit=300)
-  2. Read(file_path="media/[MEDIA_FOLDER]/docs/review.txt", offset=301, limit=300)
-  3. Jeśli odczytałeś 300 w poprzednim wywołaniu, to wykonaj jeszcze to
-       Read(file_path="media/[MEDIA_FOLDER]/docs/review.txt", offset=601, limit=300)
-  4. Jeśli plik nie istnieje, nie wykonuj dalszych poleceń, zakończ działanie
+Execute these commands:
+  1. Read(file_path="media/[MEDIA_FOLDER]/docs/research.md", offset=1, limit=300)
+  2. If you read 300 lines in previous call, execute also:
+       Read(file_path="media/[MEDIA_FOLDER]/docs/research.md", offset=301, limit=300)
+  3. If you read 300 lines in previous call, execute also:
+       Read(file_path="media/[MEDIA_FOLDER]/docs/research.md", offset=601, limit=300)
+  4. If research.md file DOES NOT EXIST:
+     a) Run media-researcher agent with parameter MEDIA_FOLDER=[MEDIA_FOLDER] using Task tool
+     b) Wait for agent completion
+     c) Check if research.md was created
+     d) If research.md still doesn't exist, stop execution and report error
 
 These files contain all necessary media analysis and insights
 Extract themes, characters, historical context, and key discoveries from file
 
-**IMPORTANT:** If you encounter uncertainty or need additional information about the media topic (historical events, dates, locations, people involved), you can use WebSearch and WebFetch tools to gather accurate information. This is especially useful for:
-- Verifying historical dates and timelines
-- Finding specific location details
-- Confirming character names and roles
-- Understanding cultural or historical context
-- Resolving any ambiguities in the review file
+**IMPORTANT:** The research.md file should already contain comprehensive information. If you encounter minor uncertainties, you can use WebSearch and WebFetch tools to verify specific details like:
+- Exact historical dates and timelines
+- Specific location details
+- Character names and roles verification
 
 ### 4. Check Existing Files and Generate Scene Set
 
@@ -231,7 +234,7 @@ Verification must confirm:
 Before location verification, you MUST check that NO real names appear in scenes:
 
 **Character Name Check:**
-- Use grep/search to find ANY real names from review.txt that might have leaked into scenes
+- Use grep/search to find ANY real names from research.md that might have leaked into scenes
 - Search for common name patterns that indicate personal data
 - This is CRITICAL - scenes with real names will FAIL in AI generation
 
@@ -424,7 +427,7 @@ Generate YAML data that will be used as prompts for AI image generation
 - hair color and style
 - build (slender, stocky, athletic, muscular, frail)
 - height indication (tall, average, short)
-- ALL physical details from review.txt EXCEPT the actual name
+- ALL physical details from research.md EXCEPT the actual name
 
 **EMOTIONS & ABSTRACT CONCEPTS:** Use only physical, visible elements
 - Good: "furrowed brow, clenched fists, leaning forward"

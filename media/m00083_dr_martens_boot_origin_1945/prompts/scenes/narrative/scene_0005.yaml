@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Prototype - Creating the Revolutionary Boot"
+  setting:
+    time: "1947, morning"
+    location: "Small workshop or garage space, Germany, late 1940s"
+    weather: "Indoor setting, morning light"
+  characters:
+    - appearance: "Caucasian man, 25 years old, athletic build, dark brown hair, focused expression"
+      clothing: "German army uniform with medical insignia, or white doctor's coat, dark trousers"
+      position: "Seated at workbench focusing on boot assembly"
+      action: "Carefully stitching air-cushioned sole to leather upper using specialized technique"
+    - appearance: "Caucasian man, late 20s, stocky build, light brown hair, engineering background visible in mannerisms"
+      clothing: "Workshop attire, suspenders over white shirt, dark work trousers"
+      position: "Standing beside him holding completed sole component"
+      action: "Assisting with technical assembly, ensuring proper air seal integration"
+  scene:
+    mainElements: "Workbench, tools, automobile tire pieces, experimental materials"
+    details: "Brown leather boot with air-cushioned sole, comfortable design, practical construction taking shape on workbench. Specialized stitching tools, heat-sealing equipment, leather working materials scattered around. The revolutionary two-layer sole system being carefully assembled, with visible air pocket construction. Technical precision meeting medical innovation, partnership creating breakthrough footwear technology, no text or letters visible"
+    background: "Workshop environment with leather working tools, technical drawings, morning sunlight illuminating the innovative work"
+    atmosphere: "Methodical craftsmanship, breakthrough innovation taking physical form"
+  composition:
+    cameraAngle: "Close-up shot focusing on the boot assembly process"
+    focus: "First prototype boot with revolutionary sole being carefully constructed"
+    depth: "Foreground shows detailed assembly work, middle ground captures collaborative effort, background displays workshop craftsmanship environment"

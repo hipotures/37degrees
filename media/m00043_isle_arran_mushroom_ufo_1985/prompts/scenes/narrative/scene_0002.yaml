@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Family Cottage on Arran Winter Evening"
+  setting:
+    time: "February 5, 1985, early evening"
+    location: "Stone cottage area, rural Isle of Arran, Scotland"
+    weather: "Clear, cold February evening"
+  characters:
+    - appearance: "Scottish man, 40s, average build, weathered face from island life"
+      clothing: "1985 winter clothing - thick wool sweater, heavy jacket, practical trousers, warm hat"
+      position: "Standing outside cottage near stone wall"
+      action: "Looking up at clear evening sky, pointing toward horizon"
+    - appearance: "Scottish woman, 30s-40s, medium build, concerned expression"
+      clothing: "1985 winter clothing - warm coat, wool scarf, sensible boots, knitted hat"
+      position: "Standing beside husband near cottage door"
+      action: "Following his gaze upward, hand shielding eyes from cold wind"
+    - appearance: "Scottish girl, 8-12 years old, curious expression, bright eyes"
+      clothing: "Child's 1985 winter wear - colorful jacket, warm mittens, winter boots, knitted hat"
+      position: "Standing close to parents"
+      action: "Looking between parents and sky with growing excitement"
+    - appearance: "Scottish girl, 6-10 years old, wide-eyed wonder, smaller than sister"
+      clothing: "Child's 1985 winter wear - bright winter coat, warm gloves, small boots, wool hat"
+      position: "Slightly behind family, near mother"
+      action: "Tugging on mother's coat while looking up curiously"
+  scene:
+    mainElements: "Traditional Scottish stone cottage with slate roof, stone garden walls, bare winter trees, family gathered outside in winter evening light"
+    details: "Cottage windows glowing warmly from within, smoke rising from chimney, stone walls typical of island construction, family clustered together against cold, father's pointing gesture drawing attention skyward, children's animated expressions showing curiosity"
+    background: "Rolling Arran hills extending toward mountains, darkening winter sky, scattered lights from distant cottages"
+    atmosphere: "Intimate family moment in remote Scottish setting, sense of discovery and shared wonder beginning to emerge, peaceful rural evening about to become extraordinary"
+  composition:
+    cameraAngle: "Medium shot from slight distance"
+    focus: "Family group with father's upward gesture as central element"
+    depth: "Foreground: family figures and cottage details, middle: stone walls and garden, background: Arran landscape and sky, no text or letters visible"

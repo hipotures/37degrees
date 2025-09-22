@@ -1,0 +1,11 @@
+media_info:
+  title: SCARF Camera World Record
+  genre: Science & Technology Documentary
+  description: Fastest camera achieves 1563 trillion frames per second, capable of recording femtosecond phenomena
+  target_audience: General public, students, science enthusiasts, technology researchers
+  duration: ~3 minutes
+  objective: Recreate the breakthrough in ultra-high-speed photography that captures light itself in motion
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Modern GPS Navigation - Relativity Theory in Daily Use"
+  setting:
+    time: "Present day, afternoon"
+    location: "Urban street intersection with multiple GPS-enabled devices"
+    weather: "Clear afternoon allowing optimal satellite reception"
+  characters:
+    - appearance: "Contemporary person, mid-30s, casual modern clothing"
+      clothing: "Modern casual attire - jeans, shirt, sneakers"
+      position: "Walking on city sidewalk holding smartphone"
+      action: "Using GPS navigation while walking through urban environment"
+    - appearance: "Driver in modern vehicle, professional attire"
+      clothing: "Business casual clothing, visible through vehicle window"
+      position: "Seated in driver's seat of modern car"
+      action: "Following GPS directions displayed on dashboard navigation system"
+  scene:
+    mainElements: "Urban intersection with multiple people using GPS devices, modern smartphones, vehicle navigation systems, satellite signals invisible but enabling precise location"
+    details: "Modern city environment where billions of people rely daily on relativistic corrections for accurate navigation. Smartphones, car navigation systems, and delivery vehicles all depending on GPS satellites that require continuous time adjustments based on 1905 physics theory. The invisible connection between theoretical equations and modern convenience, demonstrating how theoretical physics revolutionized daily life, no text or letters visible"
+    background: "Modern urban landscape with buildings, traffic, pedestrians, all navigating with GPS-enabled technology"
+    atmosphere: "Bustling modern life enabled by century-old physics theory, seamless integration of advanced science into everyday activities"
+  composition:
+    cameraAngle: "Wide street-level shot showing multiple GPS users in urban environment"
+    focus: "Modern people using GPS navigation technology in daily life"
+    depth: "Foreground: pedestrians with smartphones, middle ground: vehicles with navigation systems, background: urban environment dependent on satellite navigation"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Atomic Clock Experiment Preparation"
+  setting:
+    time: "1971, morning"
+    location: "US Naval Observatory, Washington DC, scientific laboratory"
+    weather: "Clear morning, optimal conditions for precision scientific work"
+  characters:
+    - appearance: "Middle-aged American physicist, professional appearance, serious demeanor"
+      clothing: "1970s academic attire - tweed jacket, tie, conservative professional dress"
+      position: "Standing beside experimental equipment in aircraft"
+      action: "Monitoring atomic clock measurements during flight"
+    - appearance: "Contemporary of character JH, professional astronomer appearance"
+      clothing: "1970s professional academic dress, practical for travel and experimental work"
+      position: "Operating scientific instruments in experimental setting"
+      action: "Recording precise timing measurements"
+  scene:
+    mainElements: "Scientific laboratory with precision instruments, multiple atomic clocks being synchronized and calibrated"
+    details: "Four portable cesium beam atomic clocks, each about suitcase-sized, precise to nanoseconds, weighing approximately 35 pounds each, silver and black metal casings, digital readouts, careful shock-mounting for air travel. Scientists performing final calibrations before historic round-the-world experiment. Laboratory equipment surrounding the atomic clocks, precision instruments creating controlled environment for scientific breakthrough, no text or letters visible"
+    background: "Professional laboratory setting with government facility atmosphere, scientific equipment and monitoring devices"
+    atmosphere: "Intense scientific preparation, sense of historic experiment about to prove 66-year-old theory, meticulous attention to precision"
+  composition:
+    cameraAngle: "Medium shot showing scientists and atomic clock equipment"
+    focus: "Atomic clocks being prepared for unprecedented time dilation experiment"
+    depth: "Foreground: precision atomic clocks, middle ground: scientists calibrating equipment, background: laboratory setting with scientific instruments"

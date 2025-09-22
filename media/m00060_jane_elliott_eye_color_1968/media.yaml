@@ -1,0 +1,12 @@
+media_info:
+  title: Jane Elliott's Eye Color Experiment - April 5, 1968
+  year: 1968
+  genre: Social Psychology Documentary
+  description: Elementary teacher demonstrates prejudice by dividing class by eye color, showing instant discrimination effects
+  target_audience: General public, students, educators, social justice advocates
+  duration: ~3 minutes
+  objective: Recreate the powerful classroom demonstration that taught children about racism through direct experience
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

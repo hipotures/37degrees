@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Earth-Bound Twin's Peaceful Days"
+  setting:
+    time: "1905, spring morning"
+    location: "Rural European cottage with garden, early 20th century"
+    weather: "Sunny spring day with blooming flowers and fresh green leaves"
+  characters:
+    - appearance: "Young man, 25 years old, identical to character_T1, athletic build, short brown hair, clean-shaven"
+      clothing: "Early 20th century casual wear: white cotton shirt, dark vest, wool trousers, leather shoes"
+      position: "Sitting at wooden desk by cottage window"
+      action: "Reading scientific papers while taking notes, occasionally glancing at mantle clock"
+  scene:
+    mainElements: "Stone cottage with wooden shutters, flower garden, picket fence, large oak tree"
+    details: "The cottage features weathered stone walls and dark wooden shutters. Spring flowers bloom in neat garden beds - tulips, daffodils, and early roses. A white picket fence surrounds the property. The large oak tree shows fresh green leaves. Through the window, a mantle clock is visible showing steady time progression. Scientific journals and papers spread across the wooden desk."
+    background: "Rolling green hills, distant European village with church spire, scattered farmhouses and stone walls"
+    atmosphere: "Peaceful domestic setting with natural lighting and seasonal changes, sense of steady time passage and routine, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot through cottage window showing both interior and garden"
+    focus: "The peaceful contrast between domestic routine and cosmic adventure"
+    depth: "Foreground shows garden flowers, middle ground captures cottage and resident, background reveals pastoral landscape"

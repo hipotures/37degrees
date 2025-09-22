@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Distributing Stolen Documents to Press"
+  setting:
+    time: "March 10, 1971, afternoon"
+    location: "Suburban home living room, Pennsylvania area"
+    weather: "Overcast spring day, soft daylight through windows"
+  characters:
+    - appearance: "Caucasian man, 30s, average height, brown hair, determined expression"
+      clothing: "Dark casual clothing, black gloves, carrying small tools"
+      position: "Seated at dining table sorting through documents"
+      action: "Organizing classified papers into separate manila envelopes"
+    - appearance: "Woman, 30s, shoulder-length brown hair, focused expression"
+      clothing: "Dark coat, practical shoes, carrying radio or communication device"
+      position: "Standing at table sealing envelopes"
+      action: "Preparing packages for mailing to news organizations"
+  scene:
+    mainElements: "Dining table covered with classified documents, manila envelopes, postage stamps, address labels being prepared for journalists"
+    details: "Manila folders marked 'CLASSIFIED' and 'COINTELPRO', typed pages with FBI letterhead spread across table, surveillance photographs of civil rights leaders stamped with dates and FBI case numbers, pen for addressing envelopes, roll of stamps"
+    background: "Quiet domestic setting with curtains drawn, family furniture, coffee pot on kitchen counter"
+    atmosphere: "Careful preparation for historic document release with sense of purpose and urgency, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from side of table showing document preparation"
+    focus: "Classified documents being organized for distribution to press"
+    depth: "Foreground shows documents on table, middle ground captures activists working, background reveals domestic setting"

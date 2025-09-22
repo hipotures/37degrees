@@ -4,3 +4,183 @@ book_info:
   author: "Eugene O'Neill"
   year: 1956
   genre: "Drama,Play"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T12:15:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 8
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 8
+    total: 62
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 7.0
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "O'Neill attempted suicide in 1912 at Jimmy-the-Priest's boarding house in New York, suffered from severe depression and alcoholism"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Fog represents forgetfulness and self-deception, symbolizing gradual destruction of the Tyrone family through intoxication and denial"
+        source: "symbols_meanings"
+      - id: "culture_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "First world performance took place in Stockholm 1956, not USA, with Jason Robards Jr. winning Tony Award for Jamie Tyrone role"
+        source: "culture_impact"
+      - id: "youth_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Gen Z connects through #GenerationalTrauma with 45.1M TikTok posts and family dysfunction discussions trending in mental health discourse"
+        source: "youth_digital"
+      - id: "reality_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Mary's morphine addiction after childbirth proved prophetic regarding contemporary opioid crisis patterns and prescription drug epidemic"
+        source: "reality_wisdom"
+      - id: "innovation_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary dramatic realism combining classical unities with modern psychological analysis, founded autobiographical family drama genre"
+        source: "writing_innovation"
+      - id: "facts_1"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Carlotta Monterey published play against O'Neill's explicit 25-year embargo wishes, creating scandal behind the drama"
+        source: "facts_history"
+      - id: "content_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "High risk content for social media platforms due to addiction themes, family dysfunction, and historical social contexts requiring careful framing"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Cornerstone of American drama, influenced Williams and Miller, canonical status in anglophone literature"
+        key_editions: ["Yale University Press 1956", "Broadway productions 1956-2016"]
+        reception_notes: "Tony Awards across decades, considered greatest American tragedy"
+        educational_status: "Essential reading in American drama courses worldwide"
+        local_themes: ["Father of American Theater", "Psychological realism revolution"]
+      pl:
+        cultural_impact: "Complex reception in Poland, more academic than theatrical, known as 'canonical but unperformed writer'"
+        key_editions: ["Zmierzch długiego dnia (classic)", "Pewnego długiego dnia (2023)"]
+        reception_notes: "Limited theatrical presence, academic focus, translation challenges"
+        educational_status: "Present in university American literature curricula"
+        local_themes: ["Irish-American immigrant experience", "Addiction stigma parallels"]
+      de:
+        cultural_impact: "Strong German theatrical tradition with innovative productions by major state theaters"
+        key_editions: ["Michael Walter translation (1992)", "Reclam educational edition"]
+        reception_notes: "Philosophical approach emphasizing psychological realism and existential themes"
+        educational_status: "Gymnasium and university curriculum standard"
+        local_themes: ["Freudian psychoanalysis", "Germanic concepts of fate and determinism"]
+      fr:
+        cultural_impact: "Limited but scholarly reception, published by prestigious Gallimard"
+        key_editions: ["L'Arche Editeur theater edition", "Academic translations"]
+        reception_notes: "Notable Théâtre National de la Colline production 2011"
+        educational_status: "University American literature programs"
+        local_themes: ["Existentialist philosophy connections", "Autobiographical theater theory"]
+      es:
+        cultural_impact: "Strong Spanish and Argentine theater reception with major star actors"
+        key_editions: ["Editorial Cátedra Letras Universales", "Buenos Aires editions"]
+        reception_notes: "Prestigious theater productions in Madrid and Buenos Aires"
+        educational_status: "Comparative literature curricula in universities"
+        local_themes: ["Social realism parallels", "Family chronicle traditions"]
+      pt:
+        cultural_impact: "Significant reception in Brazil and Portugal with legendary actress interpretations"
+        key_editions: ["Jorge de Sena Portuguese translation", "Brazilian Abril Cultural"]
+        reception_notes: "Cacilda Becker, Ana Lucia Torre acclaimed performances"
+        educational_status: "University American drama studies"
+        local_themes: ["Nelson Rodrigues influence connections", "Autobiographical drama tradition"]
+      ja:
+        cultural_impact: "Regular productions in major Japanese theaters with international directors"
+        key_editions: ["Hakusuisha 1956", "Chikuma Shobo World Literature Series"]
+        reception_notes: "Bunkamura Theatre productions with leading Japanese actors"
+        educational_status: "World literature and modern drama curricula"
+        local_themes: ["Mono no aware aesthetic", "Family duty vs individual suffering"]
+      ko:
+        cultural_impact: "Important work in Korean repertory theater addressing family honor themes"
+        key_editions: ["Kim Yun-cheol translation", "Seoul Arts Center editions"]
+        reception_notes: "Yeh Soo-jung directorial acclaim, major Seoul venues"
+        educational_status: "English Literature and Theater Studies programs"
+        local_themes: ["Confucian family values", "Social shame and chemyeon concepts"]
+      hi:
+        cultural_impact: "Academic presence in Indian English literature studies"
+        key_editions: ["Hindi translation available", "Digital academic repositories"]
+        reception_notes: "Limited theatrical adaptation but university study presence"
+        educational_status: "MA English programs and comparative literature"
+        local_themes: ["Joint family conflict parallels", "Karma and generational consequences"]
+
+  formats:
+    critical_debate:
+      name: "critical_debate"
+      duration: 15
+      hosts:
+        host_a: "passionate advocate defending O'Neill's autobiographical masterpiece"
+        host_b: "critical skeptic questioning the ethics and value of exploiting family trauma"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "opening_positions"
+          lead: "host_a"
+          description: "Defending O'Neill's revolutionary dramatic achievement vs questioning the violation of family privacy"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "main_arguments"
+          lead: "host_b"
+          description: "Publishing scandal ethics - should Carlotta have honored the 25-year embargo?"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "counterarguments"
+          lead: "host_a"
+          description: "Artistic value vs personal trauma - the necessity of honest family portraits"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "evidence_examination"
+          lead: "host_b"
+          description: "Contemporary relevance of addiction themes vs exploitation of real family pain"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "resolution"
+          lead: "host_a"
+          description: "Final arguments on whether the play's universal impact justifies its personal cost"
+      prompts:
+        host_a: "You are {male_name}, passionately defending 'Long Day's Journey into Night' as O'Neill's masterpiece. Address the publishing scandal: argue that Carlotta's decision, though controversial, gave the world one of its greatest dramas. Focus on: the play's prophetic insight into addiction, its revolutionary psychological realism, and its profound influence on American theater. Defend the necessity of autobiographical honesty in art, even when painful."
+        host_b: "You are {female_name}, critically questioning 'Long Day's Journey into Night'. Challenge the ethics of Carlotta breaking O'Neill's 25-year embargo, question whether family trauma should be public entertainment, and examine the problematic aspects of addiction portrayal. Point out the potential harm of exposing family secrets and whether the artistic merit justifies the personal cost. Maintain respectful skepticism while raising serious ethical concerns."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "discussion of addiction and substance abuse"
+      - "family dysfunction and emotional abuse themes"
+      - "suicide references and mental health issues"
+      - "historical context requiring sensitivity"
+    educational_elements:
+      - "Drama genre characteristics and psychological realism"
+      - "Historical context of 1912 American family life"
+      - "Autobiographical theater as literary form"
+      - "Addiction as medical vs moral issue evolution"
+      - "Irish-American immigrant experience analysis"
+    production_notes:
+      intro_style: "Dramatic opening with fog imagery and family tension setup"
+      transitions: "Subtle musical bridges with period atmosphere"
+      outro_style: "Contemplative ending focusing on the ethical questions raised"
+
+  overall_confidence: 0.9

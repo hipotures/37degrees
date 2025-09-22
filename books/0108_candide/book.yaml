@@ -4,3 +4,182 @@ book_info:
   author: "Voltaire"
   year: 1759
   genre: "Satire,Philosophical novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T15:45:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 7
+    relevance: 7
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 62
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "symbols_garden"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Garden as symbol of practical philosophy - famous conclusion 'we must cultivate our garden' represents rejection of abstract theory in favor of practical action"
+        source: "symbols_meanings"
+      - id: "dark_financial"
+        type: "FACT"
+        credibility: 0.95
+        content: "Voltaire invested in slave ship San Jorge, forcibly transporting 284 Africans to Buenos Aires where 251 survivors were sold into slavery"
+        source: "dark_drama"
+      - id: "innovation_genre"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created and perfected the genre of conte philosophique, combining fairy-tale structure with philosophical reflection"
+        source: "writing_innovation"
+      - id: "banned_global"
+        type: "FACT"
+        credibility: 0.95
+        content: "Banned in multiple countries, publicly burned by royal executioner, remained on Catholic Church's banned list for nearly two centuries"
+        source: "dark_drama"
+      - id: "toxic_positivity"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Pangloss as precursor to contemporary conspiracy theorists and toxic positivity culture - persistent optimism despite contrary evidence"
+        source: "youth_digital"
+      - id: "cultural_adaptations"
+        type: "FACT"
+        credibility: 0.90
+        content: "Multiple adaptations including Leonard Bernstein's operetta, BBC television, Broadway productions, and international theater"
+        source: "culture_impact"
+      - id: "reality_predictions"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Accurately predicted dangers of blind optimism, revolutionary extremism, and commercialization of love - relevant to modern contexts"
+        source: "reality_wisdom"
+      - id: "social_critique"
+        type: "FACT"
+        credibility: 0.90
+        content: "Systematic critique of class structures, religious authority, gender roles, and colonial exploitation - influenced democratic revolutions"
+        source: "facts_history"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text in Western canon, taught extensively in universities, Norton Critical Edition preferred academic text"
+        key_editions: ["Norton Critical Editions", "Oxford World's Classics", "Penguin Classics"]
+        reception_notes: "Central position in English-language literary education, influenced black humor tradition"
+        educational_status: "Most widely taught work of French literature worldwide"
+        local_themes: ["Enlightenment rational skepticism", "Anti-authoritarian themes", "Connection to satirical tradition"]
+
+      pl:
+        cultural_impact: "First translation 1780, famous Boy-Żeleński translation 1931, appears on high school reading lists"
+        key_editions: ["PWN editions", "Iskry publishing", "Boy's Library series"]
+        reception_notes: "Influenced Polish Enlightenment, corresponded with Polish kings"
+        educational_status: "Listed on 2025 high school exam reading list"
+        local_themes: ["Criticism of blind optimism", "Historical context of partitions", "Practical wisdom interpretation"]
+
+      de:
+        cultural_impact: "Reclam Verlag multiple editions, Suhrkamp publications, Frankfurt School philosophical interpretation"
+        key_editions: ["Reclam Universal-Bibliothek", "Suhrkamp Insel Verlag"]
+        reception_notes: "Critique of German philosophical optimism, Frankfurt School engagement"
+        educational_status: "Advanced French language courses in German schools"
+        local_themes: ["Counter-narrative to German Idealism", "Leibniz critique", "Dialectical Enlightenment connections"]
+
+      fr:
+        cultural_impact: "Original French publication, foundational French Enlightenment text"
+        key_editions: ["Gallimard editions", "GF Flammarion", "Folio Classique"]
+        reception_notes: "French literary canon, philosophical tradition"
+        educational_status: "Standard French literature curriculum"
+        local_themes: ["French Enlightenment critique", "Anti-clerical tradition", "Satirical literary heritage"]
+
+      es:
+        cultural_impact: "Spanish translations available through major publishers"
+        key_editions: ["Cátedra editions", "Alianza Editorial"]
+        reception_notes: "Translated into Spanish literary tradition"
+        educational_status: "Studied in comparative literature courses"
+        local_themes: ["Colonial critique relevance", "Enlightenment reception", "Philosophical skepticism"]
+
+      pt:
+        cultural_impact: "Portuguese translations for Brazilian and Portuguese markets"
+        key_editions: ["Companhia das Letras", "Penguin Clássicos"]
+        reception_notes: "Part of Portuguese-speaking literary education"
+        educational_status: "University literature programs"
+        local_themes: ["Colonial reflection", "European Enlightenment impact", "Satirical tradition"]
+
+      ja:
+        cultural_impact: "Japanese translations available, studied in comparative literature"
+        key_editions: ["Academic translations", "University press editions"]
+        reception_notes: "Western literature studies in Japanese universities"
+        educational_status: "Comparative literature and philosophy courses"
+        local_themes: ["East-West philosophical dialogue", "Modernization parallels", "Cultural critique methods"]
+
+      ko:
+        cultural_impact: "Korean translations for academic and general audiences"
+        key_editions: ["University press publications", "Literary series"]
+        reception_notes: "Part of Western literature curriculum"
+        educational_status: "Literature and philosophy departments"
+        local_themes: ["Western philosophical influence", "Social criticism parallels", "Educational reform connections"]
+
+      hi:
+        cultural_impact: "Hindi and English translations available in Indian market"
+        key_editions: ["Indian publishers", "Academic editions"]
+        reception_notes: "Colonial and postcolonial literature studies"
+        educational_status: "University English and comparative literature"
+        local_themes: ["Colonial critique resonance", "Religious tolerance themes", "Social reform parallels"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "Hidden symbolic meanings - Garden as integration of conscious self, practical philosophy alternative"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "Voltaire's financial scandals - slave trade investment, lottery scheme exploitation, insider trading"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "Innovation creation - conte philosophique genre, revolutionary ironic narrator distance technique"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "impact"
+          lead: "host_b"
+          description: "Global censorship and bans - publicly burned, Catholic banned list, multiple country prohibitions"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "synthesis"
+          lead: "host_a"
+          description: "Contemporary toxic positivity connections - Pangloss as modern influencer, social media parallels"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter. Ask about key events in 'Candide', seek details about Voltaire's scandals and innovations, uncover hidden meanings in the philosophical journey from castle to garden."
+        host_b: "You are {female_name}, an eyewitness to the story. Describe scenes vividly from Candide's journey, share emotional impact of censorship and persecution, bring the narrative and its contemporary relevance to life."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "sexual content references", "colonial/racist content discussion"]
+    educational_elements: ["Satire genre characteristics", "Historical context of 1759", "Philosophical optimism critique", "Enlightenment intellectual history"]
+    production_notes:
+      intro_style: "philosophical investigation opening"
+      transitions: "subtle musical bridges"
+      outro_style: "practical wisdom conclusion"
+
+  overall_confidence: 0.87

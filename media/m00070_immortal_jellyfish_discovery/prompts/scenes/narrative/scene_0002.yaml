@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Setting Up Laboratory Specimens in Research Facility"
+  setting:
+    time: "Summer 1988, afternoon"
+    location: "1980s marine biology research facility, Liguria coast, Italy"
+    weather: "Bright natural light streaming through laboratory windows"
+  characters:
+    - appearance: "Caucasian man, mid-20s, athletic build, dark blonde hair, intense curious eyes behind wire-rimmed glasses"
+      clothing: "1980s marine biology fieldwork attire: faded navy blue polo shirt, khaki shorts, diving gear when underwater"
+      position: "Leaning over laboratory bench, carefully handling specimen containers"
+      action: "Transferring tiny jellyfish from collection jars into observation containers with precise movements"
+    - appearance: "Mediterranean man, mid-20s, slender build, dark hair, expressive brown eyes, thoughtful demeanor"
+      clothing: "1980s casual academic wear: white cotton shirt, dark slacks, laboratory coat when in lab"
+      position: "Standing beside bench with notebook, observing the setup process"
+      action: "Recording specimen details and initial observations in research logbook"
+  scene:
+    mainElements: "White-tiled laboratory benches with multiple glass specimen jars filled with seawater, containing tiny transparent jellyfish specimens, basic microscopy equipment nearby"
+    details: "Clear glass laboratory jar with metal lid, filled with seawater, containing small marine specimens, laboratory tools including pipettes and fine instruments, research notebooks with hand-written observations, temperature monitoring equipment, seawater circulation systems maintaining specimen health"
+    background: "Clean scientific workspace with natural lighting from large windows overlooking the sea, additional laboratory equipment and reference materials visible on shelves"
+    atmosphere: "Focused scientific methodology and careful specimen preparation, beginning of systematic study that would lead to groundbreaking discovery, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot focusing on laboratory bench and specimen setup process"
+    focus: "The careful transfer and initial setup of the jellyfish specimens in controlled laboratory conditions"
+    depth: "Foreground: hands working with specimen containers and laboratory tools, middle: laboratory bench with organized equipment, background: laboratory interior with windows showing coastal view"

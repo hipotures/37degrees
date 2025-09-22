@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Entering the Trieste Bathyscaphe"
+  setting:
+    time: "January 23, 1960, late morning"
+    location: "Trieste bathyscaphe crew cabin, Pacific Ocean surface"
+    weather: "Stable ocean conditions for dive commencement"
+  characters:
+    - appearance: "Swiss man, 40s, tall and lean build, intelligent dark eyes, wavy dark hair"
+      clothing: "1960s thick woolen sweater over collared shirt, heavy winter jacket during surface operations"
+      position: "Settling into cramped spherical crew cabin"
+      action: "Conducting final instrument checks and system verification with methodical precision"
+    - appearance: "American man, 30s, military bearing, short-cropped hair, alert expression"
+      clothing: "US Navy uniform with lieutenant insignia, or heavy weather gear during operations"
+      position: "Taking position at communication and depth monitoring station"
+      action: "Testing sonar telephone and emergency communication systems"
+  scene:
+    mainElements: "Cramped spherical crew cabin inside Trieste bathyscaphe with round metal walls lined with instruments, small porthole windows providing view of Pacific surface, analog gauges and controls covering every available surface"
+    details: "Analog pressure gauges showing surface readings, depth meters calibrated for extreme depths, temperature sensors and primitive sonar equipment, manual controls with large dials and switches clearly visible, brass fittings and warning lights positioned around confined space, thick metal walls designed to withstand crushing pressure"
+    background: "Through porthole windows, final glimpse of Pacific Ocean surface and support vessels before descent begins"
+    atmosphere: "Confined high-tech environment for 1960s, mixture of excitement and mounting tension, cold metal surfaces reflecting serious nature of undertaking, sense of isolation beginning as surface world becomes distant, no text or letters visible"
+  composition:
+    cameraAngle: "Interior shot showing confined crew cabin environment"
+    focus: "Two crew members making final preparations in cramped quarters"
+    depth: "Foreground shows detailed instrument panels, middle shows crew in confined space, background shows porthole view of surface"

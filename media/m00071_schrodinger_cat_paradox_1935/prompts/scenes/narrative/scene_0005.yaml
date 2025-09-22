@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Inside the Sealed Box - Quantum Superposition State"
+  setting:
+    time: "1935, theoretical timeless moment"
+    location: "Interior of experimental box during quantum superposition"
+    weather: "Controlled laboratory environment inside sealed container"
+  characters:
+    - appearance: "Domestic cat, healthy adult, medium-sized, typical tabby or solid-colored fur"
+      clothing: "Natural cat fur, no artificial clothing or accessories"
+      position: "Positioned in center of box interior, in an ambiguous state between motion and stillness"
+      action: "Sitting in an alert but relaxed posture, ears perked and eyes bright, surrounded by the detection apparatus"
+  scene:
+    mainElements: "Interior of sealed wooden box showing the quantum mechanics apparatus and cat together"
+    details: "1930s Geiger-Müller counter with cylindrical detection tube, electrical wiring, and analog meter display typical of early radiation detection equipment mounted inside box. Small glass laboratory flask with cork stopper, containing liquid, attached to mechanical hammer mechanism for breaking positioned above cat. Small sample of radioactive material in protective lead-lined container, 1930s laboratory standard for physics experiments. Mechanical connections between radiation detector and poison release mechanism."
+    background: "Interior walls of experimental box with mounting brackets for scientific equipment, electrical wiring visible along edges"
+    atmosphere: "Mysterious suspended moment representing quantum superposition, neither fully active nor inactive, emphasizing the paradoxical nature of the thought experiment."
+  composition:
+    cameraAngle: "Interior view as if box is opened from above"
+    focus: "Cat positioned among the quantum detection apparatus inside the sealed space"
+    depth: "Foreground shows interior floor of box with cat, middle ground features detection equipment, background shows interior walls and mounting hardware, no text or letters visible"

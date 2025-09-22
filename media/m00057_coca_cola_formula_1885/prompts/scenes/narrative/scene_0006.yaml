@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Refining the Formula with character_WEV"
+  setting:
+    time: "1886 early evening, lamplight illuminating workspace"
+    location: "Small pharmacy laboratory behind main store, Atlanta Georgia, late 19th century"
+  characters:
+    - appearance: "Caucasian man, mid-50s, average height, graying beard and mustache, intelligent eyes behind wire-rimmed spectacles, slightly receding hairline"
+      clothing: "1880s white pharmacist coat over dark vest and white collared shirt, black trousers, formal boots"
+      position: "Standing at left side of workbench, holding glass beaker up to lamp light"
+      action: "Examining color and consistency of liquid mixture, swirling contents gently"
+    - appearance: "Caucasian man, 50s, stocky build, full mustache, practical demeanor, weathered hands from years of work"
+      clothing: "1880s vest over white shirt with rolled sleeves, dark apron, work boots"
+      position: "Standing across workbench, hands on hips observing the testing"
+      action: "Watching intently as formula is evaluated, occasionally nodding in approval"
+  scene:
+    mainElements: "Wooden workbench with brass scales, glass beakers, ceramic mortars and pestles, rows of glass medicine bottles with cork stoppers, oil lamp for lighting"
+    details: "Multiple glass containers with different versions of the syrup in varying shades of brown, handwritten notes scattered across workbench documenting different attempts, measuring spoons with residue from various tests, oil lamp casting steady golden light, leather-bound notebook open with detailed observations, small tasting spoons laid out for sampling, no text or letters visible"
+    background: "Dim, focused workspace with scientific precision, dusty shelves lined with pharmaceutical ingredients"
+    atmosphere: "Collaborative testing and refinement process, methodical approach to perfecting the formula"
+  composition:
+    cameraAngle: "Medium shot across the workbench showing both men"
+    focus: "The collaborative evaluation of different formula variations"
+    depth: "Foreground: various glass containers with mixtures, middle: both characters examining results, background: shelved pharmaceutical supplies"

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Fateful Photography Session"
+  setting:
+    time: "May 23, 1964, afternoon"
+    location: "Flat, open marshland overlooking the Solway Firth, near Burgh by Sands, Cumberland, England"
+    weather: "Clear, sunny day with perfect photography lighting"
+  characters:
+    - appearance: "44 years old, average height and build, thinning brown hair, weathered face typical of outdoor worker, steady hands from firefighting experience"
+      clothing: "Casual weekend attire - light shirt, dark trousers, practical shoes suitable for marsh walking"
+      position: "Crouched low, holding SLR camera to eye level"
+      action: "Taking photographs of daughter, methodical and careful with camera settings"
+    - appearance: "5 years old, blonde hair, small for her age, cheerful expression"
+      clothing: "White or very light colored summer dress with short sleeves"
+      position: "Standing in grassy marsh area as main subject"
+      action: "Posing for family photographs, playing naturally as child"
+    - appearance: "35 years old, dark bobbed hair, medium build, 5'4 height"
+      clothing: "Pale blue dress that appears white when overexposed in photographs"
+      position: "Moving around photography area, occasionally behind camera position"
+      action: "Supporting family photo session, moving to stay out of frame"
+  scene:
+    mainElements: "Single-lens reflex camera with mechanical operation, 70% viewfinder coverage, typical professional equipment of the era positioned for perfect shot of child in natural marsh setting"
+    details: "Mysterious white figure barely visible in background, appearing helmet-like and suit-wearing but indistinct and ethereal, photographer completely unaware of background presence, family focused on creating happy memories, no text or letters visible"
+    background: "Wide expanse of grass and marsh, scattered trees, sense of complete family isolation despite unexplained background presence"
+    atmosphere: "Normal family photography session with underlying sense of mystery, perfect conditions creating ideal documentation of the unexplained"
+  composition:
+    cameraAngle: "Close-up perspective from photographer's viewpoint"
+    focus: "The photographer concentrating on capturing the perfect family moment"
+    depth: "Foreground shows detailed camera operation, middle ground features posing child, background contains the enigmatic distant figure"

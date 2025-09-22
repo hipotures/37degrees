@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Escalating Voltage and Moral Conflict"
+  setting:
+    time: "1961, late afternoon"
+    location: "Control room with shock generator machine, Yale University laboratory"
+    weather: "Indoor laboratory environment"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, average build, anxious expression, increasingly distressed"
+      clothing: "1960s business casual attire, dress shirt with rolled sleeves, dark trousers"
+      position: "Seated at shock generator, increasingly tense body language, leaning forward"
+      action: "Reluctantly moving to higher voltage switches while showing visible signs of stress and moral conflict"
+    - appearance: "Caucasian man, 30s, stern facial expression, authoritative bearing, clean-shaven"
+      clothing: "Gray laboratory coat over dark suit, white shirt, professional appearance"
+      position: "Standing directly behind participant with commanding presence"
+      action: "Providing firm verbal encouragement to continue experiment despite participant's obvious distress"
+  scene:
+    mainElements: "Tense, clinical environment with imposing scientific equipment and harsh lighting. Participant's hand hovering over increasingly dangerous voltage levels."
+    details: "Large metal console with 30 horizontal lever switches, voltage markings from 15 to 450 volts, warning labels including 'Danger: Severe Shock' and 'XXX', professional industrial appearance. Participant's sweating hands and tense posture indicate growing psychological pressure. Microphone system carrying sounds of distress from adjacent room."
+    background: "Tense, clinical environment with imposing scientific equipment and harsh lighting"
+    atmosphere: "Intense psychological pressure and moral conflict as participant struggles between obedience to authority and personal conscience. Clinical setting amplifies sense of scientific legitimacy."
+  composition:
+    cameraAngle: "Close-up shot emphasizing participant's internal struggle"
+    focus: "Participant's stressed expression and hesitant hand movement toward higher voltage switches"
+    depth: "Foreground shows participant's moral conflict, middle ground emphasizes dangerous voltage levels, background reveals experimenter's authoritative pressure, no text or letters visible"

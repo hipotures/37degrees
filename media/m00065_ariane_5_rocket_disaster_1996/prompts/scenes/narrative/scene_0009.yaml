@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Ariane 5 rocket destruction due to aerodynamic breakup and self-destruct activation"
+  setting:
+    time: "June 4, 1996, 9:34:12 AM (T+42 seconds)"
+    location: "4000 meters altitude above French Guiana jungle"
+    weather: "Clear blue sky with debris field beginning to form"
+  characters:
+    - appearance: "European man, 45s, stocky build, mustache, serious expression, short dark hair"
+      clothing: "1990s ESA launch director uniform with multiple badges and radio equipment"
+      position: "Standing in mission control observation area, turning away from window"
+      action: "Covering face with hands in disbelief, radio headset hanging loose around neck"
+    - appearance: "European woman, 30s, medium build, blonde hair in professional bun, alert green eyes"
+      clothing: "1990s white technical blouse with ESA patches, dark navy skirt, headset around neck"
+      position: "Seated at control station but turned toward destruction scene"
+      action: "Staring in shock at telemetry screens showing complete signal loss, hands frozen over keyboard"
+  scene:
+    mainElements: "Massive explosion in blue sky as Ariane 5 rocket disintegrates, orange fireball expanding rapidly, white and gray debris pieces scattered across wide area, twin solid boosters separating from main stage"
+    details: "Brilliant orange and white explosion consuming rocket structure, scattered metallic debris reflecting sunlight as pieces fall toward jungle below, solid rocket boosters tumbling separately through air trailing smoke, expanding cloud of white vapor and combustion gases, burning fuel creating secondary explosions, debris field spreading across several kilometers of sky, no text or letters visible"
+    background: "French Guiana jungle canopy far below with no inhabited areas in immediate impact zone, clear blue tropical sky emphasizing scale of destruction, Atlantic Ocean visible in distance"
+    atmosphere: "Catastrophic end to Europe's most ambitious space project, profound shock and devastation as years of work and hundreds of millions of dollars vanish in seconds, raw power of uncontrolled rocket destruction"
+  composition:
+    cameraAngle: "Wide dramatic shot capturing full scale of rocket destruction"
+    focus: "Expanding explosion and debris field with mission control team witnessing disaster"
+    depth: "Foreground shows stunned mission control personnel, middle ground captures massive explosion, background reveals uninhabited jungle impact area"

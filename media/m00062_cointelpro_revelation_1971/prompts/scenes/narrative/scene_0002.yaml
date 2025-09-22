@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Civil Rights Leader Under Surveillance"
+  setting:
+    time: "1969, morning"
+    location: "Church basement or community center, urban America"
+    weather: "Overcast winter morning, soft natural light through small windows"
+  characters:
+    - appearance: "African American man, 40s, medium build, mustache, kind but determined eyes"
+      clothing: "Dark suit, white dress shirt, thin tie, occasionally clerical collar"
+      position: "Standing at small podium addressing seated audience"
+      action: "Gesturing while speaking to gathered community members"
+    - appearance: "Caucasian man, 30s-40s, clean-shaven, serious expression, professional appearance"
+      clothing: "Dark suit, white shirt, narrow tie, often wearing fedora hat"
+      position: "Seated in back row, partially concealed behind other attendees"
+      action: "Taking notes in small notebook while observing speaker"
+  scene:
+    mainElements: "Folding chairs in rows, small stage or podium, religious or community posters on walls, diverse audience of adults listening attentively"
+    details: "Worn wooden floor, fluorescent lighting overhead, collection basket on table, pamphlets stacked on chair, coffee pot on side table, winter coats hung on wall hooks"
+    background: "Basement windows near ceiling showing street level, concrete block walls, simple cross or community banner"
+    atmosphere: "Intimate community gathering space with warm lighting and sense of solidarity, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from side of room showing both speaker and audience"
+    focus: "Character MLK at podium with hidden FBI agent in background"
+    depth: "Foreground shows audience members, middle ground captures speaker, background reveals surveillance presence"

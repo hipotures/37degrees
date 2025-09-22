@@ -1,0 +1,76 @@
+canon:
+  characters:
+    - id: "character_LJ"
+      name: "Character LJ"
+      description_block: |
+        characters:
+          - appearance: "British man, middle-aged, civilian witness, alert expression, local Liverpool resident"
+            clothing: "Summer casual clothing 2007, polo shirt or t-shirt, comfortable trousers"
+            posture: "Observant, pointing upward at sky, engaged in animated discussion with family"
+    - id: "character_LJW"
+      name: "Character LJW"
+      description_block: |
+        characters:
+          - appearance: "British woman, adult, family member, attentive expression, concerned demeanor"
+            clothing: "Summer casual dress or blouse and skirt, 2007 fashion, comfortable outdoor attire"
+            posture: "Standing close to family group, looking upward, shielding eyes from sun"
+    - id: "character_LJMIL"
+      name: "Character LJMIL"
+      description_block: |
+        characters:
+          - appearance: "Elderly British woman, 60s-70s, grandmother figure, wise expression"
+            clothing: "Conservative summer dress, cardigan, sensible shoes, handbag"
+            posture: "Steady stance, hand raised to forehead as visor, squinting at sky"
+    - id: "character_NP"
+      name: "Character NP"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged British official, authoritative presence, professional demeanor, experienced investigator"
+            clothing: "Government official suit and tie, formal business attire, identification badge"
+            posture: "Confident, analytical stance, often holding documents or case files"
+  locations:
+    - id: "anfield_liverpool"
+      name: "Anfield Liverpool District"
+      description_block: |
+        setting:
+          location: "Anfield residential area, Liverpool, Merseyside, England"
+        mainElements: "Victorian terraced houses, red brick buildings, Anfield Stadium visible in distance, tree-lined streets, typical British urban neighborhood"
+        atmosphere: "Summer evening 2007, clear visibility for sky observation, urban lighting beginning to illuminate streets"
+    - id: "liverpool_skyline"
+      name: "Liverpool City Skyline"
+      description_block: |
+        setting:
+          location: "Liverpool city center and metropolitan area view, Merseyside, England"
+        mainElements: "Mersey River, Liverpool Cathedral, Albert Dock, modern office buildings, River Mersey waterfront, urban sprawl"
+        atmosphere: "Clear summer evening, good visibility across the city, commercial and residential areas spread below"
+    - id: "uk_airspace_liverpool"
+      name: "Liverpool Regional Airspace"
+      description_block: |
+        setting:
+          location: "Airspace above Liverpool and Merseyside region, England"
+        mainElements: "Commercial flight paths, John Lennon Airport approach routes, clear evening sky, scattered clouds"
+        atmosphere: "Regular air traffic, passenger jets visible for size comparison, typical British summer evening sky"
+    - id: "government_office_london"
+      name: "UK Government UFO Investigation Office"
+      description_block: |
+        setting:
+          location: "Ministry of Defence UFO desk, Whitehall, London, England"
+        mainElements: "Official government building, filing cabinets with UFO reports, maps of UK UFO hotspots, investigation equipment"
+        atmosphere: "Professional government office environment, fluorescent lighting, official documentation atmosphere"
+  items:
+    - id: "alleged_massive_craft"
+      name: "Alleged Mile-Long UFO"
+      description_block: |
+        details: "Enormous saucer-shaped craft, estimated one mile in length, metallic or dark surface, hovering capability, occasionally obscured by passing clouds, dwarfs passenger aircraft in comparison"
+    - id: "passenger_aircraft"
+      name: "Commercial Passenger Jet"
+      description_block: |
+        details: "Standard commercial airliner, approximately 150-250 feet long, white fuselage with airline markings, flying at normal cruising altitude, provides scale reference"
+    - id: "ufo_report_files"
+      name: "Official UFO Investigation Files"
+      description_block: |
+        details: "Government filing folders, typed reports, witness statements, official letterhead documents, maps with marked locations, photographic evidence folders"
+    - id: "binoculars"
+      name: "Civilian Observation Binoculars"
+      description_block: |
+        details: "Standard civilian binoculars, black plastic housing, adjustable eyepieces, neck strap, used for detailed sky observation"

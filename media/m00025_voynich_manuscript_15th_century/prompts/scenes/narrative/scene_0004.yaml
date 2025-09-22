@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Twenty Years of Futile Struggle Against the Sphinx"
+  setting:
+    time: "1639, late evening"
+    location: "Prague alchemist's study, 17th-century scholarly chamber"
+    weather: "Stormy winter night, wind rattling casement windows"
+  characters:
+    - appearance: "Elderly Central European man, long white beard, deeply lined face, scholarly features"
+      clothing: "17th-century alchemist robes, dark academic dress with ornate buttons"
+      position: "Hunched over the open manuscript at wooden desk"
+      action: "Running fingers through his beard in frustration, surrounded by failed attempts at translation"
+  scene:
+    mainElements: "Cluttered scholarly workspace with astronomical instruments, chemical apparatus, and towers of reference books"
+    details: "Open Voynich manuscript showing botanical drawings and mysterious script, scattered papers covered with attempted translations and cipher wheels, magnifying glass abandoned on the pages, burned-out candles evidence of all-night study sessions, astrological charts pinned to walls, glass vials containing various substances, no text or letters visible"
+    background: "Dark study chamber illuminated by flickering firelight, shelves lined with alchemical texts and scientific instruments"
+    atmosphere: "Deep frustration and intellectual defeat, the weight of twenty years wasted on an impossible puzzle, storm winds echoing the scholar's internal turmoil"
+  composition:
+    cameraAngle: "Close-up on the alchemist's weathered hands and the mysterious manuscript"
+    focus: "The contrast between human determination and the manuscript's stubborn secrecy"
+    depth: "Foreground shows the open manuscript and frustrated hands, middle ground captures the scholar's defeated expression, background reveals the accumulation of failed scholarly efforts"

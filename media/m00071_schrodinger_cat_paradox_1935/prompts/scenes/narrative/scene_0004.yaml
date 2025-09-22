@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Conceptualizing the Thought Experiment Setup"
+  setting:
+    time: "1935, evening"
+    location: "Abstract conceptual space for visualizing thought experiments"
+    weather: "Indoor theoretical space, no weather"
+  characters:
+    - appearance: "Austrian physicist, 50s, tall slender build, high forehead, thoughtful dark eyes behind wire-rimmed glasses, salt-and-pepper hair neatly combed"
+      clothing: "1930s dark wool suit with vest, white collared shirt, simple tie, or white laboratory coat over shirt and trousers"
+      position: "Standing beside closed experimental box, gesturing toward it with open hand"
+      action: "Explaining theoretical concept while pointing at sealed box, expression showing deep contemplation of paradox"
+  scene:
+    mainElements: "Clean minimalist environment suitable for visualizing theoretical physics concepts and gedanken experiments"
+    details: "Solid wooden or metal box with hinged lid, approximately 2 feet square, completely opaque, with simple latch mechanism, 1930s construction. 1930s Geiger-Müller counter with cylindrical detection tube, electrical wiring, and analog meter display typical of early radiation detection equipment positioned nearby. Small glass laboratory flask with cork stopper, containing liquid, attached to mechanical hammer mechanism for breaking."
+    background: "Neutral geometric space with subtle grid lines suggesting scientific precision, minimal distracting elements"
+    atmosphere: "Neutral academic space allowing focus on scientific concepts without distracting elements. Contemplative mood emphasizing theoretical nature of the experiment."
+  composition:
+    cameraAngle: "Medium wide shot showing physicist and experimental setup"
+    focus: "Physicist explaining the sealed box and associated apparatus"
+    depth: "Foreground shows experimental box and detection equipment, middle ground features physicist explaining, background shows minimal theoretical space, no text or letters visible"

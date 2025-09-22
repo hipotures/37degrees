@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Bolognese Army Routs and Flees"
+  setting:
+    time: "November 15, 1325, evening"
+    location: "Zappolino battlefield extending toward Bologna city walls"
+    weather: "Cold autumn evening with falling darkness"
+  characters:
+    - appearance: "Italian man, 20s-30s, determined face, muscular build"
+      clothing: "Red tunic with Bologna coat of arms, chainmail, steel helmet"
+      position: "Running in panic across battlefield toward distant city walls"
+      action: "Fleeing in complete disorder, abandoning weapons and formation, looking back in terror"
+    - appearance: "Italian man, 40s, stern weathered face, prominent nose, dark beard"
+      clothing: "Red and gold Bolognese military surcoat over chainmail, steel helmet with plume"
+      position: "On horseback trying to rally retreating troops near battlefield edge"
+      action: "Attempting to organize retreat but being overwhelmed by fleeing soldiers"
+    - appearance: "Italian or German man, 20s-30s, battle-hardened expression"
+      clothing: "Blue tunic with Modena insignia, plate armor pieces, conical helmet"
+      position: "Pursuing fleeing enemies across the field"
+      action: "Chasing defeated Bolognese forces while maintaining military discipline"
+  scene:
+    mainElements: "Battlefield littered with abandoned weapons, fleeing soldiers, and pursuing victors"
+    details: "Thousands of Crossbows, spears, swords, maces typical of 14th century warfare abandoned on muddy ground, Heraldic banners of Bologna (red) displaying city arms dropped and trampled, supply wagons overturned and abandoned, riderless horses wandering battlefield, about 2,000 casualties scattered across the field, victorious Modenese soldiers collecting weapons and prisoners"
+    background: "Bologna's defensive walls visible in distance where defeated army is fleeing, darkening countryside under evening sky"
+    atmosphere: "Complete military disaster, panic and chaos of routed army, sounds of pursuit and defeat"
+  composition:
+    cameraAngle: "Wide shot showing the scale of the military collapse"
+    focus: "The dramatic contrast between fleeing defeated army and disciplined pursuit"
+    depth: "Foreground: abandoned battlefield debris, Middle: fleeing and pursuing soldiers, Background: distant Bologna walls, no text or letters visible"

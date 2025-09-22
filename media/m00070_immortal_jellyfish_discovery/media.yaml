@@ -1,0 +1,11 @@
+media_info:
+  title: Immortal Jellyfish Discovery
+  genre: Marine Biology Documentary
+  description: Turritopsis dohrnii can reverse aging process, returning from adult to juvenile polyp stage indefinitely
+  target_audience: General public, students, marine biology enthusiasts, longevity researchers
+  duration: ~3 minutes
+  objective: Recreate the discovery of the only known biologically immortal animal and its age-reversal mechanism
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

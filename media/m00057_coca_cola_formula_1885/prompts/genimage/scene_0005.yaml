@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1886 spring morning, clear natural daylight
+    location: Small backyard behind character_JSP's pharmacy, Atlanta Georgia
+    weather: Mild spring morning with gentle breeze
+  characters:
+  - appearance: Caucasian man, mid-50s, average height, graying beard and mustache, intelligent eyes behind wire-rimmed spectacles,
+      slightly receding hairline
+    clothing: 1880s white pharmacist coat over dark vest and white collared shirt, black trousers, formal boots
+    position: Kneeling beside small outdoor fire, stirring contents of large brass kettle
+    action: Slowly adding measured ingredients to bubbling mixture while stirring with long wooden spoon
+  scene:
+    mainElements: Medium-sized brass kettle with wooden handle, showing wear from use, used for mixing pharmaceutical compounds
+      in backyard workspace
+    details: Small fire built with wood logs underneath brass kettle, various glass bottles and measuring cups arranged on
+      wooden crate serving as makeshift table, steam rising from kettle creating aromatic vapors, wooden spoon with long handle
+      for stirring, ceramic bowls containing different ingredients waiting to be added, morning sunlight filtering through
+      young spring leaves, no text or letters visible
+    background: Simple backyard with wooden fence, small garden with medicinal herbs, neighboring buildings visible in distance
+    atmosphere: Outdoor experimentation with sense of breakthrough moment, fresh air mixing with aromatic vapors
+  composition:
+    cameraAngle: Medium shot from ground level showing the kettle and character
+    focus: The brass kettle and the careful mixing process
+    depth: 'Foreground: fire and kettle, middle: character stirring mixture, background: backyard setting and fence'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

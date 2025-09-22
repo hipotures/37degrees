@@ -1,0 +1,178 @@
+{
+  "window_tax_timeline": {
+    "title": "Window Tax Introduction and Evolution (1696-1851)",
+    "description": "Complete timeline of England's notorious Window Tax from financial crisis to abolition",
+    "events": [
+      {
+        "date": "1688-1697",
+        "event": "Nine Years' War",
+        "description": "England at war with France, draining royal treasury and requiring constant military funding",
+        "significance": "high",
+        "category": "context"
+      },
+      {
+        "date": "1695",
+        "event": "Coin Clipping Crisis Peak",
+        "description": "Nearly half of silver coins clipped, 10% of currency forged, monetary system near collapse",
+        "significance": "high",
+        "category": "crisis"
+      },
+      {
+        "date": "January 1696",
+        "event": "Act for Remedying the Ill State of the Coin",
+        "description": "Parliament passes emergency legislation to address currency crisis",
+        "significance": "high",
+        "category": "legislation"
+      },
+      {
+        "date": "May 4, 1696",
+        "event": "Clipped Coins Declared Invalid",
+        "description": "Clipped coins officially no longer legal tender",
+        "significance": "high",
+        "category": "monetary"
+      },
+      {
+        "date": "June 24, 1696",
+        "event": "Tax Payment Restriction",
+        "description": "Clipped coins no longer accepted for tax payments",
+        "significance": "medium",
+        "category": "monetary"
+      },
+      {
+        "date": "Mid-1696",
+        "event": "Window Tax Introduction",
+        "description": "Parliament passes Window Tax Act: 2 shillings flat rate, plus 4 shillings (10-20 windows), 8 shillings (20+ windows)",
+        "significance": "high",
+        "category": "legislation"
+      },
+      {
+        "date": "Late 1696",
+        "event": "First Collections Begin",
+        "description": "'Window peepers' begin counting windows from outside buildings, first tax payments collected",
+        "significance": "medium",
+        "category": "implementation"
+      },
+      {
+        "date": "1697-1700",
+        "event": "Early Window Blocking",
+        "description": "First documented cases of windows being bricked up to avoid taxation",
+        "significance": "medium",
+        "category": "evasion"
+      },
+      {
+        "date": "1747",
+        "event": "First Major Tax Revision",
+        "description": "New rates: No tax under 10 windows, 6p (10-14), 9p (15-19), 1s (20+). 20 shilling penalty for reopening blocked windows",
+        "significance": "high",
+        "category": "modification"
+      },
+      {
+        "date": "1748",
+        "event": "Extension to Scotland",
+        "description": "Window Tax implemented in Scotland",
+        "significance": "medium",
+        "category": "expansion"
+      },
+      {
+        "date": "1784",
+        "event": "Pitt's Rate Increase",
+        "description": "Prime Minister William Pitt raises window tax rates to compensate for reduced tea taxes",
+        "significance": "medium",
+        "category": "modification"
+      },
+      {
+        "date": "1797",
+        "event": "Triple Assessment Act",
+        "description": "Pitt triples window tax rates to fund Napoleonic Wars",
+        "significance": "high",
+        "category": "modification"
+      },
+      {
+        "date": "Day after 1797 Act",
+        "event": "Mass Window Blocking",
+        "description": "Citizens block thousands of windows overnight, write 'Lighten our darkness we beseech thee, O Pitt!' in chalk",
+        "significance": "high",
+        "category": "protest"
+      },
+      {
+        "date": "1800-1840",
+        "event": "Health Crisis Documentation",
+        "description": "Medical studies document increased dysentery, gangrene, typhus in poorly ventilated buildings",
+        "significance": "high",
+        "category": "health_impact"
+      },
+      {
+        "date": "1850",
+        "event": "Dickens' Campaign Begins",
+        "description": "Charles Dickens publishes 'Health by Act of Parliament' in Household Words magazine",
+        "significance": "high",
+        "category": "abolition_campaign"
+      },
+      {
+        "date": "April 1850",
+        "event": "First Repeal Attempt Fails",
+        "description": "Parliamentary motion to repeal window tax fails by only three votes",
+        "significance": "high",
+        "category": "abolition_campaign"
+      },
+      {
+        "date": "Winter 1850-1851",
+        "event": "National Abolition Campaign",
+        "description": "Nationwide movement against tax gains momentum, doctors join health arguments",
+        "significance": "high",
+        "category": "abolition_campaign"
+      },
+      {
+        "date": "July 24, 1851",
+        "event": "Window Tax Abolition",
+        "description": "Window Tax officially repealed after 155 years, replaced with inhabited house tax",
+        "significance": "high",
+        "category": "abolition"
+      }
+    ],
+    "key_figures": [
+      {
+        "name": "King William III",
+        "role": "Introduced the tax in 1696",
+        "period": "1696"
+      },
+      {
+        "name": "Isaac Newton",
+        "role": "Warden of Royal Mint, consulted on monetary crisis",
+        "period": "1696"
+      },
+      {
+        "name": "William Lowndes",
+        "role": "Treasury Secretary managing financial crisis",
+        "period": "1696"
+      },
+      {
+        "name": "William Pitt the Younger",
+        "role": "Prime Minister who tripled the tax in 1797",
+        "period": "1784-1797"
+      },
+      {
+        "name": "Charles Dickens",
+        "role": "Author who led abolition campaign",
+        "period": "1850-1851"
+      }
+    ],
+    "statistics": {
+      "duration_years": 155,
+      "cost_of_recoinage": "£2.7 million (half of annual government revenue)",
+      "original_rates": {
+        "flat_rate": "2 shillings per house",
+        "10_to_20_windows": "4 shillings additional",
+        "over_20_windows": "8 shillings additional"
+      },
+      "1747_rates": {
+        "under_10_windows": "0 shillings",
+        "10_to_14_windows": "6 pence per window",
+        "15_to_19_windows": "9 pence per window",
+        "over_20_windows": "1 shilling per window"
+      },
+      "penalty_for_reopening_windows": "20 shillings",
+      "countries_affected": ["England", "Wales", "Scotland (from 1748)"]
+    }
+  }
+}

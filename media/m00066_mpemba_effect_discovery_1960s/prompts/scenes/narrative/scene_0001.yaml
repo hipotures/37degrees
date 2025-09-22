@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Magamba Secondary School Kitchen - Ice Cream Making Day"
+  setting:
+    time: "1963, afternoon"
+    location: "Magamba Secondary School kitchen classroom, Tanganyika (Tanzania), East Africa"
+    weather: "Warm tropical afternoon with bright sunlight"
+  characters:
+    - appearance: "Young African male, 13-17 years old, slender build, curious dark eyes, short dark hair"
+      clothing: "1960s Tanzanian school uniform - white short-sleeved shirt, dark shorts, simple brown leather shoes"
+      position: "Standing at cooking station near gas burner"
+      action: "Heating milk in metal pot, stirring sugar into boiling mixture for ice cream"
+    - appearance: "Group of African teenagers, mixed ages 13-16, various builds and heights"
+      clothing: "1960s Tanzanian school uniforms - white shirts, dark shorts/skirts, simple shoes"
+      position: "Scattered around kitchen at different cooking stations"
+      action: "Working on their own ice cream mixtures, most waiting for milk to cool before refrigeration"
+  scene:
+    mainElements: "Basic cooking facilities with gas burners, metal pots, wooden work tables, shared refrigerator"
+    details: "Steam rises from boiling milk in metal pot as sugar dissolves. Other students work with cooler mixtures at various stages. Kitchen walls painted white with simple shelving holding cooking utensils. Large shared refrigerator stands in corner with limited space. Afternoon sunlight streams through windows illuminating workspace, no text or letters visible"
+    background: "Single-story colonial-era school building with corrugated metal roof visible through windows, tropical vegetation and acacia trees"
+    atmosphere: "Warm, bustling cooking classroom with steam and food aromas, educational environment with excited students learning practical skills"
+  composition:
+    cameraAngle: "Medium shot from side angle"
+    focus: "Student stirring hot milk mixture while steam rises from pot"
+    depth: "Foreground shows main character with hot mixture, middle ground displays other students with cooler preparations, background reveals kitchen equipment and windows"

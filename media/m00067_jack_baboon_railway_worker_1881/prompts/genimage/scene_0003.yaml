@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1881, afternoon
+    location: Two-story wooden signal box overlooking railway tracks at Uitenhage station
+    weather: Bright afternoon with clear visibility
+  characters:
+  - appearance: White male, 40s, sturdy build, determined expression, double leg amputee below the knee
+    clothing: 1880s railway uniform - dark blue wool jacket with brass buttons, white shirt, black tie, dark trousers
+    position: Seated at lever frame, reaching up to operate signal levers
+    action: Demonstrating proper lever sequence while pointing to approaching train and explaining system
+  - appearance: Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build
+    clothing: No clothing yet, natural baboon appearance
+    position: Standing beside character JW, watching intently
+    action: Observing every movement of lever operation, head tilted attentively, occasionally mimicking hand motions
+  scene:
+    mainElements: Mechanical lever frame with numbered signal levers arranged in precise row, large windows providing clear
+      view of multiple railway tracks below
+    details: Tall brass and iron mechanical levers numbered 1-10, signal charts mounted on wooden walls, oil lamps for evening
+      work, telegraph equipment with brass keys, wooden stairs leading to upper level, signal flags and lanterns
+    background: Victorian-era railway station with stone platform below, multiple steam locomotives and passenger cars, wooden
+      waiting benches, telegraph wires stretching across landscape
+    atmosphere: Focused learning environment with industrial precision, mechanical sounds of railway operation, steam and
+      coal smoke drifting from trains below, sense of important responsibility
+  composition:
+    cameraAngle: Close-up shot from inside signal box
+    focus: Character JW operating levers while the baboon watches and learns the precise system
+    depth: 'Foreground: lever frame and characters, middle ground: signal box interior details, background: railway station
+      activity through windows, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: September 5, 1628, afternoon
+    location: Royal court chamber in Stockholm palace
+    weather: Autumn day with somber atmosphere
+  characters:
+  - appearance: Swedish man, 45, naval officer bearing, weathered sea captain face, serious expression
+    clothing: Swedish naval uniform with officer insignia, ceremonial sword, naval hat
+    position: Standing before royal tribunal
+    action: Naval authority, testifying before court about ship's design problems and instability
+  scene:
+    mainElements: Formal royal court session investigating Vasa disaster with officials and witnesses
+    details: Royal tribunal chamber with judges and court officials, witness testimony about ship design flaws and stability
+      problems, detailed shipwright plans and royal specifications being examined as evidence, official court records being
+      taken, formal investigation into engineering failure and royal project management
+    background: Swedish royal court interior with formal judicial setting, royal symbols and official atmosphere, autumn light
+      through palace windows
+    atmosphere: Official investigation finding no individual to blame for disaster, royal authority confronting engineering
+      reality, political pressure and technical expertise in conflict, historical accountability, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing formal court proceedings
+    focus: Official investigation into causes of maritime disaster
+    depth: Court testimony in foreground, royal tribunal in middle ground, formal palace setting in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

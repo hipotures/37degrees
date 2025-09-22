@@ -1,0 +1,12 @@
+media_info:
+  title: Trees Outnumber Milky Way Stars - 2015
+  year: 2015
+  genre: Science & Nature Documentary
+  description: Earth has 304 trillion trees compared to 100-400 billion stars in our galaxy
+  target_audience: General public, students, astronomy enthusiasts, environmental advocates
+  duration: ~3 minutes
+  objective: Recreate the surprising scientific discovery that changed our perspective on Earth's biodiversity
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

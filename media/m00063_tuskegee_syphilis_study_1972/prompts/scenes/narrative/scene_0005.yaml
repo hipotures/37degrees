@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Penicillin Discovery Era - Treatment Withheld"
+  setting:
+    time: "1945, evening"
+    location: "Medical examination room at Tuskegee Institute, Macon County, Alabama"
+  characters:
+    - appearance: "African American man, 50s, strong build, concerned expression"
+      clothing: "1950s-1970s work clothes, cotton shirt, suspenders, work boots"
+      position: "Sitting on examination table, looking expectant for treatment"
+      action: "Waiting for medical attention, hands clasped, hopeful expression"
+    - appearance: "White man, 50s, graying hair, stern expression, authoritative bearing"
+      clothing: "1940s-1970s white lab coat over formal suit, medical stethoscope"
+      position: "Standing with back partially turned, reviewing notes"
+      action: "Deliberately avoiding eye contact, writing in chart, withholding information"
+  scene:
+    mainElements: "Simple medical examination table, basic medical equipment, institutional furniture"
+    details: "Medical cabinet with visible medicine bottles, examination tools on tray, patient chart with extensive notes, stethoscope on hook, basic medical supplies, but notably absent modern treatment options"
+    background: "Clinical institutional walls, medical equipment, window showing late afternoon light"
+    atmosphere: "Clinical but humble, institutional lighting, sense of routine medical care, underlying tension of deception, no text or letters visible"
+  composition:
+    cameraAngle: "Side angle showing both patient and doctor"
+    focus: "The deliberate distance between doctor and patient, suggesting withheld care"
+    depth: "Foreground shows patient waiting, middle ground has doctor avoiding engagement, background reveals clinical setting with available but unused treatments"

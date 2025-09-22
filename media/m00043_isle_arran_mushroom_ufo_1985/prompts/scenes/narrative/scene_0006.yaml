@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Family Discussion About the Sighting"
+  setting:
+    time: "February 5, 1985, early evening"
+    location: "Near cottage, Isle of Arran, with continued view of sky"
+    weather: "Clear winter evening, cold temperatures"
+  characters:
+    - appearance: "Scottish man, 40s, average build, weathered face from island life"
+      clothing: "1985 winter clothing - thick wool sweater, heavy jacket, practical trousers, warm hat"
+      position: "Standing facing family, gesturing animatedly toward sky"
+      action: "Explaining what he's seeing, using hand gestures to describe the object's shape"
+    - appearance: "Scottish woman, 30s-40s, medium build, concerned expression"
+      clothing: "1985 winter clothing - warm coat, wool scarf, sensible boots, knitted hat"
+      position: "Standing close to daughters, arms partially around them"
+      action: "Listening intently to husband while keeping protective watch over children"
+    - appearance: "Scottish girl, 8-12 years old, curious expression, bright eyes"
+      clothing: "Child's 1985 winter wear - colorful jacket, warm mittens, winter boots, knitted hat"
+      position: "Standing beside mother, occasionally glancing skyward"
+      action: "Nodding enthusiastically, clearly seeing the same thing as her parents"
+    - appearance: "Scottish girl, 6-10 years old, wide-eyed wonder, smaller than sister"
+      clothing: "Child's 1985 winter wear - bright winter coat, warm gloves, small boots, wool hat"
+      position: "Pressed against mother's side for warmth"
+      action: "Looking between family members and sky, processing the extraordinary experience"
+  scene:
+    mainElements: "Family gathered in animated discussion while maintaining visual contact with the unusual object, stone cottage providing shelter from wind, winter landscape of Arran surrounding them"
+    details: "Father's expressive gestures describing mushroom shape, mother's protective positioning with children, family's unified focus despite individual reactions, cottage windows glowing warmly behind them, object still visible in sky maintaining its distinctive form"
+    background: "Isle of Arran's mountainous landscape under clear winter sky, scattered cottage lights, the mushroom-shaped object still hovering above"
+    atmosphere: "Intense family discussion mixed with continued wonder, shared experience creating strong bond, peaceful Scottish setting providing safe space for processing extraordinary event"
+  composition:
+    cameraAngle: "Medium group shot capturing family dynamic"
+    focus: "Family's animated discussion with father's descriptive gestures central"
+    depth: "Foreground: family group in discussion, middle: cottage and stone walls, background: Arran landscape with visible UFO in sky, no text or letters visible"

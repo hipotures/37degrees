@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Faithful Gathering for Sunday Mass at Clonmacnoise"
+  setting:
+    time: "748 CE, Sunday morning during Mass"
+    location: "Outside and inside Principal Church, Clonmacnoise"
+    weather: "Clear morning with good visibility"
+  characters:
+    - appearance: "Mixed group of monks and lay people, various ages, Irish medieval population"
+      clothing: "Monks in brown habits, lay people in woolen tunics and cloaks, earth-tone colors"
+      position: "Gathered outside church, some pointing upward, others reaching"
+      action: "Looking skyward in wonder and fear, some trying to grasp the sailor"
+  scene:
+    mainElements: "Stone church within Clonmacnoise complex with arched doorway. Stone arch over main entrance, bishop's throne, altar, wooden benches, decorated Celtic crosses. Sacred space filled with incense, candlelight, chanted prayers, reverent silence."
+    details: "Congregation of monks and lay people assembled for Sunday Mass. Mix of monastic community in brown woolen habits and local Irish families in period clothing. Men in woolen tunics with leather belts, women in long dresses with woolen cloaks. Children staying close to parents. Some congregation members inside church near altar, others gathering outside main entrance. Celtic crosses visible on church walls. Stone archway framing entrance clearly visible."
+    background: "Clonmacnoise monastery complex with additional churches and round towers visible, other buildings of the monastic city, River Shannon in distance"
+    atmosphere: "Peaceful Sunday morning worship gathering transformed by approaching wonder, sense of community devotion, gentle murmur of conversation and prayer, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing both church interior and exterior congregation"
+    focus: "The gathering community just before the miraculous interruption of their worship"
+    depth: "Foreground shows congregation members, middle ground reveals church entrance and arch, background displays monastery complex"

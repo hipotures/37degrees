@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Amateur Radio Enthusiast Discovery"
+  setting:
+    time: "1982, late night"
+    location: "Cluttered home office filled with radio equipment and antennas"
+    weather: "Clear night with good atmospheric conditions for radio propagation"
+  characters:
+    - appearance: "50s bearded man, thick glasses, weathered hands from years of radio equipment handling"
+      clothing: "Worn flannel shirt, headphones, notebook always in hand"
+      position: "Hunched over shortwave radio in dimly lit home office"
+      action: "Turning dial slowly while listening intently through headphones, making notes in logbook"
+  scene:
+    mainElements: "Multiple shortwave radios, computer screens, frequency charts, logbooks"
+    details: "Portable shortwave radio with silver and black casing, LED frequency display showing 4625 kHz, telescoping antenna extended, handwritten notebook with timestamps and frequencies, walls covered with QSL cards from around the world, coffee cup steaming on cluttered desk"
+    background: "Shelves packed with radio manuals and technical books, world map with pins marking stations, oscilloscope showing waveforms, spare radio parts scattered across workbench"
+    atmosphere: "Dim lighting, constant static and beeping, walls covered with QSL cards, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up over shoulder view"
+    focus: "Radio operator's hands adjusting tuning dial while listening to mysterious buzzing pattern"
+    depth: "Foreground shows radio controls and logbook, middle ground reveals operator's concentrated expression, background displays wall of radio equipment"

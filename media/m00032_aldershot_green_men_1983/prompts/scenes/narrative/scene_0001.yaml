@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Night Fishing Preparation at Pegasus Avenue"
+  setting:
+    time: "August 12, 1983, 12:15 AM"
+    location: "49 Pegasus Avenue, Aldershot, modest working-class home exterior"
+    weather: "Clear mild August night, comfortable temperature for outdoor activities"
+  characters:
+    - appearance: "77-year-old man, medium build, weathered face with military bearing, graying hair, wearing practical fishing attire"
+      clothing: "Dark woolen coat, wellington boots, flat cap, carrying fishing equipment and thermos flask"
+      position: "Standing at front door, stepping out into night with fishing gear"
+      action: "Preparing to leave for night fishing, checking equipment, calling small dog to accompany him"
+    - appearance: "Small dog, breed unspecified, alert and eager"
+      clothing: "Natural fur coat, collar visible"
+      position: "Standing beside elderly man, tail wagging"
+      action: "Responding to call, ready to accompany master on fishing expedition"
+  scene:
+    mainElements: "Modest terraced house with small front garden, fishing rod and tackle box, thermos flask, elderly man and dog preparing for departure"
+    details: "Working-class residential street typical of 1980s Aldershot, practical fishing equipment including rod, tackle box, and thermos, small front garden with gate, domestic lighting from house windows, quiet neighborhood atmosphere of military town. Character AB checking his gear methodically with military precision, tiny the dog showing excitement for the outing"
+    background: "Neighboring terraced houses with darkened windows, empty residential street, distant glow from Aldershot military installations, Hampshire countryside beyond"
+    atmosphere: "Peaceful residential night in military town, sense of routine and familiarity, anticipation of quiet fishing session, domestic tranquility before extraordinary events, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from street level, slightly low angle showing house and departing figures"
+    focus: "Elderly fisherman with dog and equipment preparing for night expedition"
+    depth: "House and front garden in foreground, empty street in middle ground, distant military district lights in background"

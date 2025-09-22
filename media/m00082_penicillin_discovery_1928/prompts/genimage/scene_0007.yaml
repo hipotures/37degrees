@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1928 September 3rd, late morning
+    location: St Mary's Hospital Bacteriology Laboratory, Paddington, London
+  characters:
+  - appearance: Scottish man, 47 years old, average height, lean build, receding dark hair, thoughtful brown eyes, clean-shaven
+    clothing: 1920s white laboratory coat over dark suit with vest and tie, or dark wool suit with waistcoat
+    position: Leaning over laboratory bench, examining specific petri dish closely
+    action: Observing contaminated culture plate with intense curiosity and growing excitement
+  scene:
+    mainElements: Glass petri dish with bacterial colonies, central blue-green mold growth with clear zone around it where
+      bacteria have been killed
+    details: Glass petri dish containing staphylococcus culture with distinctive blue-green fuzzy mold growth in center, clear
+      zone surrounding mold where bacterial colonies have been destroyed, normal bacterial growth at distance from contamination,
+      character AF holding dish up to light for better examination, brass microscope nearby for detailed study, laboratory
+      notebook open for observations, other culture plates showing normal growth, morning sunlight providing optimal viewing
+      conditions, no text or letters visible
+    background: Laboratory bench with scientific equipment, other researchers potentially visible in distance, institutional
+      hospital setting
+    atmosphere: Moment of scientific breakthrough, intense curiosity and wonder, recognition that something extraordinary
+      has occurred
+  composition:
+    cameraAngle: Close-up shot emphasizing the critical moment of observation
+    focus: Character AF examining the contaminated petri dish with clear bacterial inhibition zone
+    depth: Foreground shows detailed view of contaminated culture, middle ground captures character AF's intense examination,
+      background provides laboratory context
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

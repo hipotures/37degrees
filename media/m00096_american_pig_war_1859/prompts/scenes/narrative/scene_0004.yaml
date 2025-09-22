@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Pig Incident - June 15, 1859"
+  setting:
+    time: "June 15, 1859, morning"
+    location: "Vegetable garden on frontier farm, San Juan Island"
+    weather: "Clear morning after overnight rain"
+  characters:
+    - appearance: "American man, 40s, weathered face from frontier life, brown beard, stocky farmer build"
+      clothing: "Rough wool shirt, canvas trousers, wide-brimmed hat, leather boots caked with mud"
+      position: "Standing in damaged garden holding rifle"
+      action: "Looking down at shot pig with mix of frustration and regret"
+  scene:
+    mainElements: "Vegetable garden with torn earth, uprooted potato plants, pig damage visible"
+    details: "Vegetable garden showing obvious destruction with dug-up earth, scattered potato tubers, trampled plants, muddy hoofprints throughout garden beds, Large black pig lying still in garden, rifle barrel still smoking, farming tools scattered where dropped in haste"
+    background: "Log cabin and split-rail fences of homestead, forest edge beyond cleared land, peaceful morning sky"
+    atmosphere: "Moment of fatal decision that will escalate into international incident, frontier justice meeting international law, simple property dispute becoming historical catalyst, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot focusing on garden destruction and consequences"
+    focus: "Destroyed garden and the pig that caused international crisis"
+    depth: "Farmer and damaged garden in foreground, homestead buildings in middle ground, island forest in background"

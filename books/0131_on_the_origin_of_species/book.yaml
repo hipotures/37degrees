@@ -4,3 +4,183 @@ book_info:
   author: "Charles Darwin"
   year: 1859
   genre: "Science,Biology"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T15:30:00Z"
+
+  scores:
+    controversy: 10
+    philosophical_depth: 9
+    cultural_phenomenon: 8
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 8
+    total: 67
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 8.2
+      category: "high"
+
+  themes:
+    universal:
+      - id: "scientific_revolution"
+        type: "FACT"
+        credibility: 0.95
+        content: "Darwin revolutionized biology by replacing divine creation with natural selection mechanism"
+        source: "facts_history"
+      - id: "religious_conflict"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Book banned worldwide, sparked religious storms, Darwin 'lived in hell' anticipating reaction"
+        source: "dark_drama"
+      - id: "personal_transformation"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Young gentleman naturalist becomes world's most controversial scientist through 20-year journey"
+        source: "facts_history"
+      - id: "evidence_detective"
+        type: "FACT"
+        credibility: 0.95
+        content: "Galapagos finches, breeding experiments, fossil discoveries build case for evolution"
+        source: "symbols_meanings"
+      - id: "social_upheaval"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Theory misused to justify racism, eugenics, social Darwinism despite Darwin's intent"
+        source: "dark_drama"
+      - id: "writing_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created 'one long argument' structure revolutionizing scientific communication"
+        source: "writing_innovation"
+      - id: "global_impact"
+        type: "FACT"
+        credibility: 0.95
+        content: "Translated into 56 languages, influenced literature, art, philosophy worldwide"
+        source: "culture_impact"
+      - id: "contemporary_relevance"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "AI evolution, social media algorithms, climate adaptation mirror Darwinian principles"
+        source: "youth_digital"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western literature, influenced Hardy, Conrad, Eliot"
+        key_editions: ["Norton Critical Edition", "Oxford World's Classics", "Harvard Annotated"]
+        reception_notes: "Strong support from Huxley and Gray, opposition from Wilberforce"
+        educational_status: "Central to biology curricula across English-speaking world"
+        local_themes: ["Victorian crisis of faith", "Scientific vs religious authority"]
+      pl:
+        cultural_impact: "Early translation in 1873, tragic translator suicide, Museum of Evolution in Warsaw"
+        key_editions: ["Dickstein-Nusbaum translation", "commentary by Prof. Weiner"]
+        reception_notes: "Absence of strong religious opposition due to partition period"
+        educational_status: "Evolution marginalized in recent curricula, scientific protests"
+        local_themes: ["Survival metaphor for Polish resilience", "Warsaw school of biology tradition"]
+      de:
+        cultural_impact: "Ernst Haeckel as 'German Darwin', Monism movement, Jena University center"
+        key_editions: ["Bronn translation with controversial additions", "later Carus editions"]
+        reception_notes: "Integration with Naturphilosophie, Mendel's genetic work"
+        educational_status: "Evolution as framework for all biological phenomena"
+        local_themes: ["Philosophical depth over empiricism", "Romantic nature understanding"]
+      fr:
+        cultural_impact: "Clémence Royer's controversial first translation, Lamarckian precedence"
+        key_editions: ["Multiple translations", "modern scholarly editions by Seuil"]
+        reception_notes: "Academic resistance from Flourens, Bernard; philosophical integration with Bergson"
+        educational_status: "Presented within French transformist tradition"
+        local_themes: ["Lamarckian vs Darwinian mechanisms", "Positivist science philosophy"]
+      es:
+        cultural_impact: "Enrique Godínez translation, Krausist educational reform, institutional support"
+        key_editions: ["Alianza Editorial", "Fondo de Cultura Económica adaptations"]
+        reception_notes: "Liberal-conservative political divisions, Catholic Church evolution"
+        educational_status: "Standard in Spanish and Latin American biology curricula"
+        local_themes: ["Colonial discourse implications", "Educational freedom movement"]
+      pt:
+        cultural_impact: "Delayed 1913 translation from French, modern Brazilian scholarly editions"
+        key_editions: ["Companhia das Letras", "Ubu Editora comprehensive editions"]
+        reception_notes: "Influenced Brazilian racial theory, contemporary educational integration"
+        educational_status: "Mandatory in Brazilian curricula, ENEM examination content"
+        local_themes: ["Racial democracy debates", "Tropical evolution research"]
+      ja:
+        cultural_impact: "Morse lectures 1877, manga adaptations, Imanishi alternative theory"
+        key_editions: ["Yasugi translation", "educational manga by multiple publishers"]
+        reception_notes: "No religious opposition, integration with Buddhist concepts"
+        educational_status: "Standard biology education, innovative accessibility approaches"
+        local_themes: ["Cooperation over competition", "Buddhist impermanence parallels"]
+      ko:
+        cultural_impact: "2012 textbook controversy, creationist campaigns, webtoon adaptations"
+        key_editions: ["Multiple publishers", "Song Cheol-yong and Kim Kwan-seon translations"]
+        reception_notes: "Protestant opposition, Confucian worldview challenges"
+        educational_status: "Controversial but maintained in curricula"
+        local_themes: ["Confucian moralism vs evolution", "Christian-traditional synthesis"]
+      hi:
+        cultural_impact: "Dashavatar evolutionary parallels, J.C. Bose mentorship, recent removal controversies"
+        key_editions: ["Hindi, Bengali, Tamil translations available"]
+        reception_notes: "Hindu philosophical compatibility, anti-colonial appropriation"
+        educational_status: "Recently removed from school curricula, scientific community protests"
+        local_themes: ["Vedantic evolution concepts", "Ancient wisdom vs modern science"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "voyage_setup"
+          lead: "host_a"
+          description: "Young Darwin boards HMS Beagle, leaving England for five-year voyage that would change science"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "galapagos_discovery"
+          lead: "host_b"
+          description: "Mysterious islands reveal finches with different beaks, sparking first doubts about species"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "theory_development"
+          lead: "host_a"
+          description: "Twenty years of secret research at Down House, breeding pigeons and studying variation"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "wallace_crisis"
+          lead: "host_b"
+          description: "Shocking letter from Indonesia threatens to rob Darwin of priority for evolution theory"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "publication_storm"
+          lead: "host_a"
+          description: "Origin published 1859, sells out first day, triggers worldwide controversy and revolution"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter. Ask about key events in Darwin's life and the creation of 'On the Origin of Species', seek details about the voyage, experiments, and publication drama, uncover the hidden story behind the world's most controversial book."
+        host_b: "You are {female_name}, an eyewitness to Darwin's story. Describe scenes vividly from the Beagle voyage, Galapagos discoveries, Down House experiments, and the dramatic publication, share emotional impact and bring the scientific revolution to life."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "historical scientific controversies"
+      - "religious conflict discussions"
+      - "colonial/racist content discussion"
+      - "evolution vs creationism debates"
+    educational_elements:
+      - "Scientific method characteristics"
+      - "Historical context of 1859"
+      - "Natural selection mechanism"
+      - "Science communication evolution"
+      - "Cross-cultural reception patterns"
+    production_notes:
+      intro_style: "epic scientific journey"
+      transitions: "subtle musical bridges"
+      outro_style: "investigative conclusion"
+
+  overall_confidence: 0.85

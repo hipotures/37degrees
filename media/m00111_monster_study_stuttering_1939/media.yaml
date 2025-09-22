@@ -1,0 +1,12 @@
+media_info:
+  title: Monster Study Stuttering Induction - 1939
+  year: 1939
+  genre: Medical Ethics Documentary
+  description: Wendell Johnson intentionally induces speech problems in orphan children through negative reinforcement
+  target_audience: General public, students, medical ethics researchers, psychology enthusiasts
+  duration: ~3 minutes
+  objective: Recreate the unethical experiment that became a cautionary tale about research ethics and child welfare
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Official 2021 Record Measurement in Shanghai"
+  setting:
+    time: "May 20, 2021, afternoon"
+    location: "Modern medical measurement facility in Shanghai, China, sterile white examination room with professional equipment"
+    weather: "Bright artificial lighting for precise documentation"
+  characters:
+    - appearance: "Chinese woman, 50s, gentle face with kind eyes, naturally long dark hair, distinctive extremely long eyelash on left upper eyelid measuring over 20 centimeters"
+      clothing: "Simple casual modern Chinese clothing, often light colored blouses or sweaters, comfortable everyday attire"
+      position: "Seated in examination chair with head positioned for optimal measurement"
+      action: "Remaining perfectly still while official measures the record-breaking 20.5 cm eyelash"
+    - appearance: "Official Guinness World Records adjudicator, professional appearance, formal business attire"
+      clothing: "Professional business suit with official credentials"
+      position: "Carefully positioned beside chair with precision measurement instruments"
+      action: "Documenting the exact 20.5 centimeter measurement with official ruler and recording equipment"
+  scene:
+    mainElements: "Medical examination chair, measurement tools, overhead lighting, clean white walls"
+    details: "Professional medical rulers and measurement devices used for precise documentation of eyelash length, metal rulers with clear markings, cameras for official documentation, sterile medical environment with bright lighting, measurement showing 20.5 centimeters"
+    background: "Professional, clean, quiet environment focused on scientific verification"
+    atmosphere: "Historic moment of record-breaking achievement, scientific precision meeting personal triumph"
+  composition:
+    cameraAngle: "Close-up shot emphasizing measurement process"
+    focus: "Precise ruler measurement showing the extraordinary 20.5 centimeter length"
+    depth: "Measurement action in foreground, official documentation equipment in middle ground, clinical setting in background, no text or letters visible"

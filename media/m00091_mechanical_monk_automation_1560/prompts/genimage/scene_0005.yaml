@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1563, afternoon
+    location: Stone-walled Renaissance workshop in Toledo, Spain, with vaulted ceiling and tall windows
+    weather: Overcast with soft diffused light through windows
+  characters:
+  - appearance: Italian man, 50s, graying beard, intense focused eyes, calloused hands from metalwork
+    clothing: Renaissance brown leather apron over white linen shirt, dark wool hose, leather boots
+    position: Seated at workbench under good light from window
+    action: Delicately carving facial features into wooden monk's head with fine chisels
+  scene:
+    mainElements: Wooden workbenches covered with clockwork mechanisms, brass gears, springs, and precision tools surround
+      the central carving work
+    details: Half-carved wooden head showing serene monastic features takes shape under skilled hands. Precision instruments
+      including tiny hammers, files, calipers, brass measuring devices, magnifying lenses, gear-cutting tools, springs and
+      clockwork components are arranged nearby. Wood shavings curl around the workspace. Fine carving tools create detailed
+      facial expressions of peaceful devotion. The emerging head shows tonsured crown and gentle, holy expression
+    background: Workshop shelves display various mechanical curiosities while tall windows provide natural light for detailed
+      work
+    atmosphere: Quiet reverence as sacred features emerge from wood, the craftsman channeling spiritual devotion through artistic
+      skill and mechanical precision
+  composition:
+    cameraAngle: Close-up shot focusing on the hands carving the wooden head
+    focus: The emerging facial features of the mechanical monk under careful craftsmanship
+    depth: 'Foreground: carving tools and wood shavings; middle: the wooden head and working hands; background: workshop equipment
+      and windows, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

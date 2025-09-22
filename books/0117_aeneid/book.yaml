@@ -4,3 +4,182 @@ book_info:
   author: "Virgil"
   year: 19 BC
   genre: "Epic,Poetry"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T13:45:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 10
+    structural_complexity: 9
+    social_roles: 8
+    total: 71
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.5
+      category: "high"
+    heat:
+      value: 8.2
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_1"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Fascist appropriations: Mussolini used Aeneid for propaganda, presenting himself as new Augustus"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Golden Bough as symbol of spiritual initiation and transformation - Jungian individuation process"
+        source: "symbols_meanings"
+      - id: "innovation_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "First fully literary epic - revolutionized epic writing and created modern psychological novel"
+        source: "writing_innovation"
+      - id: "culture_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Influenced 50+ adaptations from Dante to Star Wars, Battlestar Galactica, and contemporary works"
+        source: "culture_impact"
+      - id: "youth_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "TikTok refugee crisis parallels: digital migration echoes ancient displacement themes"
+        source: "youth_digital"
+      - id: "reality_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Contemporary trauma therapy recognizes PTSD symptoms in Aeneas - ancient psychology meets modern healing"
+        source: "reality_wisdom"
+      - id: "history_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Augustus intervention saved work from destruction - Virgil wanted to burn unfinished manuscript"
+        source: "facts_history"
+      - id: "warnings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Contemporary feminist criticism addresses toxic masculinity and problematic gender representations"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Foundational to English literary tradition from Milton to modern scholarship"
+        key_editions: ["Penguin Classics", "Oxford World's Classics", "Multiple major translations"]
+        reception_notes: "Central to classical education, university curricula, scholarly tradition"
+        educational_status: "Required reading in Latin AP, classical literature courses"
+        local_themes: ["Imperial narratives", "Founding myths", "Christian allegory interpretations"]
+
+      pl:
+        cultural_impact: "Resonates with Polish exile experience, translated by major poets"
+        key_editions: ["Kubiak translation (1987)", "Karyłowski translation (1924)"]
+        reception_notes: "Performed in major opera houses, taught in schools"
+        educational_status: "Mandatory reading in high schools and technical schools"
+        local_themes: ["Exile narratives", "National foundation myths", "Romantic interpretations"]
+
+      de:
+        cultural_impact: "Central to German classical education, philosophical tradition"
+        key_editions: ["Reclam editions", "Binder translation", "Schröder verse translation"]
+        reception_notes: "Strong academic tradition, regular opera performances"
+        educational_status: "Abitur-relevant, cornerstone of gymnasium Latin instruction"
+        local_themes: ["Philosophical interpretations", "Refugee narratives", "Classical heritage"]
+
+      fr:
+        cultural_impact: "Influenced French classical tradition and imperial narratives"
+        key_editions: ["Classical French translations", "Academic editions"]
+        reception_notes: "Part of French literary canon"
+        educational_status: "Classical education component"
+        local_themes: ["Napoleonic parallels", "Imperial civilizing mission", "European integration"]
+
+      es:
+        cultural_impact: "Colonial discourse analysis, postcolonial readings"
+        key_editions: ["Spanish classical translations"]
+        reception_notes: "Academic and cultural analysis"
+        educational_status: "University classical literature"
+        local_themes: ["Colonial criticism", "Imperial narratives", "Latin heritage"]
+
+      pt:
+        cultural_impact: "Connection to Camões' Lusíadas, imperial themes"
+        key_editions: ["Portuguese translations"]
+        reception_notes: "Literary tradition influence"
+        educational_status: "Classical literature studies"
+        local_themes: ["Maritime empire", "Portuguese discoveries", "Cultural transmission"]
+
+      ja:
+        cultural_impact: "Academic reception, translation studies"
+        key_editions: ["Japanese scholarly translations"]
+        reception_notes: "Comparative literature studies"
+        educational_status: "University classical studies"
+        local_themes: ["East-West cultural exchange", "Imperial studies", "Comparative mythology"]
+
+      ko:
+        cultural_impact: "Academic and comparative literature context"
+        key_editions: ["Korean translations"]
+        reception_notes: "Classical studies programs"
+        educational_status: "University level"
+        local_themes: ["Cultural foundation myths", "Academic tradition", "Comparative studies"]
+
+      hi:
+        cultural_impact: "Postcolonial comparative analysis"
+        key_editions: ["Hindi translations"]
+        reception_notes: "Academic postcolonial studies"
+        educational_status: "University comparative literature"
+        local_themes: ["Colonial discourse", "Epic tradition comparison", "Cultural resistance"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "Investigating the mystery: What made this 2000-year-old refugee story so powerful?"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "Reconstructing the fall of Troy and Aeneas's traumatic journey"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "Uncovering the political propaganda and Augustus's intervention"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "hidden_evidence"
+          lead: "host_b"
+          description: "Revealing the psychological complexity and modern parallels"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "impact"
+          lead: "host_a"
+          description: "Connecting ancient trauma to contemporary refugee crises and therapy"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter. Ask probing questions about Aeneid's hidden meanings, political context, and contemporary relevance. Uncover why this ancient text still matters today."
+        host_b: "You are {female_name}, bringing the story to life. Describe scenes vividly, share emotional impact of characters, explain how Virgil's innovations changed literature forever."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "political propaganda discussion", "toxic masculinity themes"]
+    educational_elements: ["Epic genre characteristics", "Historical context of 19 BC", "Literary innovation analysis", "Trauma and psychology themes"]
+    production_notes:
+      intro_style: "mysterious investigation opening"
+      transitions: "subtle musical bridges with classical undertones"
+      outro_style: "reflective conclusion connecting past to present"
+
+  overall_confidence: 0.9

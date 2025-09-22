@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Government Compensation to MKUltra Victims"
+  setting:
+    time: "1977, late afternoon"
+    location: "White House Oval Office, Washington DC"
+    weather: "Sunny day, indoor setting"
+  characters:
+    - appearance: "Caucasian man, 60s, medium height, distinguished bearing, gray hair, formal presidential demeanor"
+      clothing: "1977 presidential dark blue suit with American flag lapel pin, white dress shirt and conservative tie"
+      position: "Standing behind presidential desk with family members"
+      action: "Formally presenting settlement documents and offering apology to grieving family"
+    - appearance: "Caucasian woman, 50s, formal dress, somber expression, widow's bearing"
+      clothing: "1977 formal dark dress suitable for official ceremony, simple jewelry"
+      position: "Standing before presidential desk with family members"
+      action: "Receiving official documents and presidential apology with dignified but pained expression"
+    - appearance: "Various individuals, 20s-50s, family members, formal attire, serious expressions"
+      clothing: "1977 formal suits and dresses appropriate for White House ceremony"
+      position: "Standing respectfully beside primary family members"
+      action: "Witnessing historic acknowledgment of government wrongdoing and compensation"
+  scene:
+    mainElements: "Oval Office with presidential desk, American flag, presidential seal, formal White House decor, official settlement documents"
+    details: "Presidential desk with official settlement papers and government seals. American flag prominently displayed. White House formal furnishings including chairs and ceremonial elements. Official photographers capturing historic moment. Presidential seal visible on carpet and wall. Formal lighting highlighting solemn ceremony."
+    background: "White House Oval Office with traditional decor, windows overlooking White House grounds, formal government architecture"
+    atmosphere: "Solemn, historic, formal governmental acknowledgment of wrongdoing with sense of justice and closure for victims, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from side of presidential desk"
+    focus: "Presidential apology and compensation ceremony for MKUltra victims"
+    depth: "Settlement documents in foreground, president and family in middle ground, formal White House setting in background"

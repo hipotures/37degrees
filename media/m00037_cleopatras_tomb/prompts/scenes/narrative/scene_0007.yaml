@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Underground Tunnel Discovery - Ancient Passage to the Sea"
+  setting:
+    time: "2010, afternoon underground exploration"
+    location: "Underground tunnel complex beneath Taposiris Magna temple"
+    weather: "Underground environment, artificially lit"
+  characters:
+    - appearance: "Middle-aged Latina woman, 5'6\", dark hair, determined expression, wearing practical field clothes"
+      clothing: "Khaki archaeological fieldwork attire with headlamp and safety equipment"
+      position: "Standing in ancient limestone tunnel with measuring equipment"
+      action: "Examining tunnel walls with flashlight, taking measurements and photographs"
+  scene:
+    mainElements: "Limestone tunnel, 4,300 feet long, leading toward Mediterranean, carved passage connecting temple to sea, partially flooded, ancient construction"
+    details: "Ancient carved limestone walls showing tool marks from original construction, pools of water reflecting artificial lighting, wooden support beams installed by modern excavators, archaeological equipment including measuring tape and cameras, ancient pottery sherds embedded in tunnel floor, evidence of flooding and water damage"
+    background: "Tunnel extending into darkness toward the sea, stone archways supporting ancient construction"
+    atmosphere: "Cool underground environment with echo of dripping water, sense of discovering ancient engineering, mysterious passage connecting sacred site to Mediterranean, archaeological excitement mixed with physical challenge"
+  composition:
+    cameraAngle: "Low angle shot down the length of tunnel"
+    focus: "Character KM exploring ancient underground passage with modern archaeological methods"
+    depth: "Character with equipment in foreground, carved tunnel walls in middle ground, dark passage extending to background, no text or letters visible"

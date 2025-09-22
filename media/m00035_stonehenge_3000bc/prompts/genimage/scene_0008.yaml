@@ -1,0 +1,102 @@
+sceneDescription:
+  setting:
+    time: 2480 BCE, dawn during summer solstice - critical for alignment verification
+    location: Circular arrangement of massive trilithons on Salisbury Plain, Wiltshire, England, precisely aligned earthwork
+      platform
+    weather: Clear skies essential for astronomical observations, typical Neolithic climate warmer than today
+  characters:
+  - appearance: Elderly with white beard, deep-set eyes from night observations, slight build, ceremonial bearing
+    clothing: Finest woven robes with astronomical symbols, amber beads indicating high status, feathered headdress for ceremonies
+    position: Standing at observation points, often with arms raised toward sky
+    action: Pointing toward celestial phenomena, marking positions with carved sticks, maintaining solemn reverence during
+      observations
+  scene:
+    mainElements: Massive unworked sarsen boulder weighing 30 tons positioned outside northeast entrance, summer solstice
+      sunrise creating perfect alignment through monument center, dramatic light shaft penetrating trilithon horseshoe
+    details: Massive unworked sarsen boulder, 30 tons, positioned outside northeast entrance, natural shape preserved, precise
+      positioning for summer solstice sunrise alignment, weathered surface with lichen growth. Golden sunlight streaming between
+      uprights, shadows cast by trilithons creating precise geometric patterns, light illuminating central altar area. Astronomer-priest
+      tracking sun's position with carved observation sticks, marking stone positions, ritual calculations using stone markers
+    background: Rolling chalk downland of Salisbury Plain, distant horizon visible in all directions, ceremonial avenue extending
+      northeast
+    atmosphere: Sacred silence broken only by wind through stones, dramatic shadows changing with sun position, sense of ancient
+      purpose and astronomical precision. Moment of cosmic validation, perfect alignment confirming architectural success,
+      spiritual significance of light penetrating sacred space
+  composition:
+    cameraAngle: Positioned to show alignment between Heel Stone, trilithons, and rising sun
+    focus: Shaft of sunlight illuminating monument interior at perfect moment
+    depth: Foreground shows Heel Stone framing sunrise, middle ground reveals light passing through trilithons, background
+      shows monument interior being illuminated, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

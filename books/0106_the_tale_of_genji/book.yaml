@@ -4,3 +4,174 @@ book_info:
   author: "Murasaki Shikibu"
   year: c. 1021
   genre: "Novel,Court literature"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T15:42:00"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 10
+    structural_complexity: 7
+    social_roles: 9
+    total: 66
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 7.8
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Grooming and pedophilia - Genji adopts 10-year-old Murasaki and raises her to later seduce her"
+        source: "dark_drama"
+      - id: "symbols_meanings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Multiple universal interpretations - feminist, postcolonial, psychoanalytic, ecocritical readings"
+        source: "symbols_meanings"
+      - id: "culture_impact_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "58+ specific cultural adaptations from films to video games to fashion collections"
+        source: "culture_impact"
+      - id: "writing_innovation_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "World's first psychological novel - invented free indirect discourse 800 years before Europe"
+        source: "writing_innovation"
+      - id: "reality_wisdom_4"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "75% prediction accuracy after 1000 years - eerily prophetic about women's roles and aesthetic culture"
+        source: "reality_wisdom"
+      - id: "youth_digital_5"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Influences contemporary soft masculinity trends and emotional intelligence in dating culture"
+        source: "youth_digital"
+      - id: "symbols_meanings_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Mono no aware concept - aesthetic of transience that influenced thousand years of Japanese culture"
+        source: "symbols_meanings"
+      - id: "dark_drama_7"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Korean prophecy in novel predicting dynastic fall - historically came true with Minamoto clan"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "Virginia Woolf championed work in 1925, establishing it as foundational modernist text"
+        key_editions: ["Arthur Waley translation (1925-1933)", "Edward Seidensticker (1976)", "Royall Tyler (2001)", "Norton Critical Edition"]
+        reception_notes: "Canonical status in comparative literature, recognized as world's first novel"
+        educational_status: "Required reading in world literature courses at Princeton, Columbia, Pomona"
+        local_themes: ["Modernist literary connections", "Feminist literary canon", "Postcolonial analysis"]
+      pl:
+        cultural_impact: "Academic respect but no complete Polish translation despite 1000+ year history"
+        key_editions: ["Kotanski fragments (1961/2012)", "Matsumi Publishing diary excerpts (2020)"]
+        reception_notes: "Manggha Museum exhibitions, Sakura Festival lectures"
+        educational_status: "Essential reading in Japanese studies programs at Warsaw, Jagiellonian universities"
+        local_themes: ["Translation challenges", "Cultural hermeticism", "Academic reception only"]
+      de:
+        cultural_impact: "German Romantic movement connections through aesthetic philosophy"
+        key_editions: ["Reclam editions", "Academic scholarly editions"]
+        reception_notes: "Strong tradition of philosophical interpretation"
+        educational_status: "Literature and philosophy courses"
+        local_themes: ["Philosophical interpretations", "Psychoanalytic readings", "Aesthetic theory"]
+      fr:
+        cultural_impact: "Appreciated for psychological depth and literary sophistication"
+        key_editions: ["French academic translations", "Comparative literature editions"]
+        reception_notes: "Connected to French psychological novel tradition"
+        educational_status: "World literature surveys"
+        local_themes: ["Psychological realism", "Literary technique analysis", "Cultural comparison"]
+      es:
+        cultural_impact: "Growing interest in Latin American literary circles"
+        key_editions: ["Spanish translations", "Academic editions"]
+        reception_notes: "Connected to magical realism discussions"
+        educational_status: "University literature programs"
+        local_themes: ["Narrative technique", "Cultural translation", "Literary history"]
+      pt:
+        cultural_impact: "Portuguese-speaking world appreciates lyrical qualities"
+        key_editions: ["Portuguese translations", "Brazilian academic editions"]
+        reception_notes: "Connected to lyrical prose traditions"
+        educational_status: "Literature programs in Brazil and Portugal"
+        local_themes: ["Poetic prose", "Cultural adaptation", "Literary influence"]
+      ja:
+        cultural_impact: "Foundational text of Japanese literature, national cultural treasure"
+        key_editions: ["Modern Japanese editions", "School editions", "Popular adaptations"]
+        reception_notes: "Cultural cornerstone, adapted across all media"
+        educational_status: "Core curriculum in Japanese education"
+        local_themes: ["National identity", "Cultural continuity", "Aesthetic tradition"]
+      ko:
+        cultural_impact: "Korean appreciation for court culture parallels and literary sophistication"
+        key_editions: ["Korean translations", "Academic editions"]
+        reception_notes: "Respected as East Asian literary classic"
+        educational_status: "East Asian literature courses"
+        local_themes: ["Cultural parallels", "Court literature", "East Asian tradition"]
+      hi:
+        cultural_impact: "Indian scholars appreciate philosophical depth and spiritual themes"
+        key_editions: ["Hindi translations", "Academic publications"]
+        reception_notes: "Connected to Indian philosophical and aesthetic traditions"
+        educational_status: "Comparative literature and philosophy programs"
+        local_themes: ["Aesthetic philosophy", "Spiritual themes", "Cultural comparison"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "thesis"
+          lead: "host_a"
+          description: "World's first psychological novel - revolutionary literary innovations that preceded European techniques by 800 years"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "analysis"
+          lead: "host_b"
+          description: "Deep symbolism and philosophical layers - mono no aware, seasonal cycles, and universal archetypes"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "examples"
+          lead: "host_a"
+          description: "Cultural phenomenon with 58+ adaptations from Virginia Woolf's modernism to contemporary manga"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "synthesis"
+          lead: "host_b"
+          description: "Contemporary relevance - 75% prediction accuracy about women's roles and aesthetic culture"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "implications"
+          lead: "host_a"
+          description: "Academic legacy - how this 1000-year-old work still defines literary innovation and social discourse"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'The Tale of Genji' with scholarly depth. Discuss structure, symbolism, literary techniques. Academic but accessible. Focus on: World's first psychological novel - revolutionary literary innovations that preceded European techniques by 800 years"
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence references", "mature relationship themes with historical context", "colonial/power dynamics discussion"]
+    educational_elements: ["Novel genre characteristics", "Historical context of 1021", "Literary technique analysis", "Cultural impact on world literature", "Feminist literary theory foundations"]
+    production_notes:
+      intro_style: "scholarly but engaging - emphasize revolutionary historical significance"
+      transitions: "subtle musical bridges with traditional Japanese instruments"
+      outro_style: "reflective conclusion about lasting academic influence"
+
+  overall_confidence: 0.92

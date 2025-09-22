@@ -4,3 +4,182 @@ book_info:
   author: "Jean-Jacques Rousseau"
   year: 1762
   genre: "Political philosophy,Treatise"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T20:45:00Z"
+
+  scores:
+    controversy: 9.0
+    philosophical_depth: 10.0
+    cultural_phenomenon: 7.0
+    contemporary_reception: 7.0
+    relevance: 9.0
+    innovation: 9.0
+    structural_complexity: 5.0
+    social_roles: 9.0
+    total: 65.0
+    percentile: 92
+
+  composite_scores:
+    depth:
+      value: 8.2
+      category: "high"
+    heat:
+      value: 8.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "controversy_scandals"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Rousseau abandoned all 5 children in orphanages, admitted to exhibitionism, theft, and fraud. Book banned in France, Geneva, Netherlands, publicly burned by authorities"
+        source: "dark_drama"
+      - id: "philosophical_depth"
+        type: "FACT"
+        credibility: 0.95
+        content: "Without The Social Contract, there might be no Kant, no Hegel, no Marx, and no Rawls. Political philosophy today bears more of Rousseau's mark than any time in past 150 years"
+        source: "symbols_meanings"
+      - id: "totalitarian_interpretation"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Forcing to be free concept interpreted as providing foundations for both democracy and totalitarianism. Robespierre drew from general will during French Terror"
+        source: "dark_drama"
+      - id: "digital_youth_relevance"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Gen Z connects mental health crisis to Rousseau's corruption theory. Social media algorithms as modern chains. 80% Gen Z loneliness vs natural state"
+        source: "youth_digital"
+      - id: "predictive_accuracy"
+        type: "FACT"
+        credibility: 0.95
+        content: "Accurately predicted representative democracy as hidden oligarchies, rise of populism, democratic internal conflicts. Brexit as Rousseauian general will"
+        source: "reality_wisdom"
+      - id: "literary_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionized both political philosophy and literary techniques. Created philosophical treatise with literary characteristics, pioneered persuasion without coercion"
+        source: "writing_innovation"
+      - id: "cultural_influence"
+        type: "FACT"
+        credibility: 0.95
+        content: "Influenced American/French Revolutions, Bob Dylan protest music, contemporary populist movements, digital democracy debates. Over 200 editions in 20th century"
+        source: "culture_impact"
+      - id: "contemporary_applications"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Bitcoin white paper references social contract without central authority. Wikipedia as general will in knowledge creation. Climate activism as practical general will"
+        source: "youth_digital"
+
+    localized:
+      en:
+        cultural_impact: "Foundational influence on American founding fathers including Jefferson, Madison, Hamilton. Constitutional framework based on popular sovereignty principles"
+        key_editions: ["G.D.H. Cole Translation (1923)", "Oxford World's Classics", "Cambridge scholarly editions"]
+        reception_notes: "Canonical status in Western political philosophy. John Rawls explicitly acknowledged Rousseau's influence in Theory of Justice"
+        educational_status: "Core text in political science programs at Yale, Harvard, Oxford, Cambridge"
+        local_themes: ["American constitutional theory", "Liberal vs conservative interpretations", "Influence on civil rights movements"]
+
+      pl:
+        cultural_impact: "Special work 'Considerations on Government of Poland' written 1770-1771 for Bar Confederation. Influenced Constitution of May 3rd 1791"
+        key_editions: ["Antoni Peretiatkowicz translation", "Wolne Lektury digital edition", "Marek Derewiecki Publishing"]
+        reception_notes: "Mandatory reading for philosophy matriculation exam. Used by Communist Party to legitimize power paradoxically"
+        educational_status: "Philosophy matriculation exam requirement. Free access through Wolne Lektury project"
+        local_themes: ["Polish constitutional thought", "Communist appropriation of general will", "Bar Confederation influence"]
+
+      de:
+        cultural_impact: "Profound influence on Kant, Fichte, Hegel. Kant called himself best interpreter of Rousseau. Shaped German Idealism movement"
+        key_editions: ["Reclam Universal-Bibliothek Band 699", "Suhrkamp Verlag scholarly series", "Hermann Denhardt translations"]
+        reception_notes: "Influenced Goethe, Schiller, German Romantic movement. Habermas built public sphere concept on Enlightenment ideals"
+        educational_status: "Central position in German university philosophy programs. Gymnasium curriculum integration"
+        local_themes: ["German Idealism development", "Frankfurt School critical theory", "Theatrical public sphere"]
+
+      fr:
+        cultural_impact: "Original French publication 1762. Spiritual father of French Revolution. Robespierre called Rousseau divine teacher of humanity"
+        key_editions: ["Original Amsterdam edition Marc-Michel Rey", "Pléiade editions", "Modern scholarly editions"]
+        reception_notes: "Remains to be transferred to Panthéon in 1794. Yellow Vests movement directly referenced Rousseau in manifestos"
+        educational_status: "Core text in French philosophy education. Required reading in lycées"
+        local_themes: ["Revolutionary ideology", "Jacobin interpretation", "Contemporary populist movements"]
+
+      es:
+        cultural_impact: "Influence on Latin American independence movements. Podemos party uses digital platforms to implement general will concept"
+        key_editions: ["Multiple Spanish translations", "Academic editions in Latin America"]
+        reception_notes: "Important for understanding democratic transitions in Spain and Latin America"
+        educational_status: "University political philosophy curricula"
+        local_themes: ["Democratic transitions", "Latin American republicanism", "Digital democracy"]
+
+      pt:
+        cultural_impact: "Influence on Brazilian independence thought and constitutional development"
+        key_editions: ["Portuguese and Brazilian translations", "Academic editions"]
+        reception_notes: "Referenced in democratic transition discussions"
+        educational_status: "Political science curriculum"
+        local_themes: ["Brazilian constitutional thought", "Lusophone democratic theory"]
+
+      ja:
+        cultural_impact: "Introduced during Meiji period. Influence on Japanese democratic thought and post-war constitution"
+        key_editions: ["Japanese translations", "Academic editions"]
+        reception_notes: "Studied in context of democratization"
+        educational_status: "University political philosophy"
+        local_themes: ["Meiji modernization", "Post-war democracy", "East-West synthesis"]
+
+      ko:
+        cultural_impact: "Important for understanding modern Korean democratic movements"
+        key_editions: ["Korean translations", "Academic editions"]
+        reception_notes: "Relevant to democratization movements"
+        educational_status: "University curriculum"
+        local_themes: ["Democratic movements", "Student activism", "Constitutional theory"]
+
+      hi:
+        cultural_impact: "Influence on Indian independence thought and democratic theory"
+        key_editions: ["Hindi translations", "Indian academic editions"]
+        reception_notes: "Relevant to understanding Indian democracy"
+        educational_status: "Political science studies"
+        local_themes: ["Independence movement", "Democratic theory", "Federal governance"]
+
+  formats:
+    critical_debate:
+      name: "critical_debate"
+      duration: 15
+      hosts:
+        host_a: "passionate advocate defending the work"
+        host_b: "critical skeptic questioning value"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "opening_positions"
+          lead: "host_a"
+          description: "Revolutionary democratic theory vs dangerous totalitarian blueprint - establishing opposing views on Rousseau's legacy"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "main_arguments"
+          lead: "host_b"
+          description: "Examining Rousseau's personal hypocrisy - child abandonment, theft, fraud vs separating ideas from the man"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "historical_evidence"
+          lead: "host_a"
+          description: "Influence on American Constitution, human rights vs Terror, Stalin, manipulation by authoritarian regimes"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "contemporary_relevance"
+          lead: "host_b"
+          description: "Digital democracy potential, climate collective action vs populist manipulation, Brexit as general will"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "resolution"
+          lead: "host_a"
+          description: "Final verdict - revolutionary foundation of democracy or dangerous political philosophy"
+      prompts:
+        host_a: "You are {male_name}, passionately defending 'The Social Contract'. Address its revolutionary democratic foundations and continued relevance. Acknowledge controversies but argue Rousseau's ideas were misused by others. Focus on: American Constitution influence, contemporary digital democracy potential, climate change requiring collective action. Counter criticisms with historical context and positive applications."
+        host_b: "You are {female_name}, critically questioning 'The Social Contract'. Point out Rousseau's personal hypocrisy - abandoning 5 children while writing about education, theft and fraud. Examine dangerous interpretations: French Terror, Stalin's use of general will, contemporary populist manipulation. Question whether forcing to be free is compatible with genuine freedom. Maintain respectful but skeptical tone."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence discussion", "philosophical complexity", "political controversy"]
+    educational_elements: ["Democratic theory foundations", "18th century political philosophy", "Historical context of revolutions", "Contemporary political relevance"]
+    production_notes:
+      intro_style: "dramatic opening with chains breaking sound effect, transitioning to philosophical debate setting"
+      transitions: "subtle musical bridges between segments, tension-building for debates"
+      outro_style: "thoughtful conclusion emphasizing ongoing relevance and continued debate"
+
+  overall_confidence: 0.91

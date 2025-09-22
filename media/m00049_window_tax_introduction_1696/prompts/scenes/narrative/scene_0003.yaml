@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Tax Assessor Counting Windows of London Townhouse"
+  setting:
+    time: "1697, morning"
+    location: "Multi-story brick townhouse, Bloomsbury district, London, England"
+    weather: "Bright spring morning"
+  characters:
+    - appearance: "Caucasian man, 50s, thin build, sharp features, calculating eyes, stern expression"
+      clothing: "Black wool coat, white powdered wig, leather satchel, quill pen tucked behind ear"
+      position: "Standing on cobblestone street facing townhouse facade"
+      action: "Methodically counting windows while making notes on parchment document"
+  scene:
+    mainElements: "Georgian brick facade, multiple tall sash windows, ornate front door, iron railings, cobblestone street"
+    details: "Prosperous townhouse with symmetrical window arrangement, polished brass door knocker, decorative stonework around windows, horse-drawn carriage in background, other period buildings lining street, leather document folder in assessor's hand, wooden measuring stick leaning against building"
+    background: "Row of similar Georgian townhouses, busy London street with pedestrians in period dress, church spire visible in distance"
+    atmosphere: "Official government business being conducted, systematic taxation assessment underway, prosperous neighborhood setting, clear daylight revealing architectural details, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from street level perspective"
+    focus: "Tax assessor methodically documenting window count on building facade"
+    depth: "Assessor with documents in foreground, townhouse with multiple windows in middle ground, London streetscape in background"

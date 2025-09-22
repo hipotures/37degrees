@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Medical Team Assembly - Pre-Procedure Meeting"
+  setting:
+    time: "February 1954, late morning"
+    location: "Medical observation chamber with viewing window, Moscow Institute of Surgery"
+    weather: "Indoor controlled environment"
+  characters:
+    - appearance: "Caucasian man, 38 years old, dark hair slicked back, intense focused eyes behind wire-rim glasses, scholarly demeanor"
+      clothing: "White laboratory coat over dark suit vest and white shirt, medical gloves, professional surgical attire"
+      position: "Standing at center of room addressing team members"
+      action: "Gesturing toward medical charts while explaining procedure to assembled medical staff"
+    - appearance: "Caucasian man, 45 years old, graying temples, serious expression, medical professional bearing"
+      clothing: "White laboratory coat, dark trousers, medical cap, sterile surgical mask around neck"
+      position: "Standing near observation window, holding clipboard"
+      action: "Taking detailed notes while listening intently to procedural briefing"
+    - appearance: "Caucasian man, 42 years old, balding with thick mustache, studious appearance, academic bearing"
+      clothing: "Dark suit with vest, white shirt, tie, occasionally white laboratory coat for observations"
+      position: "Seated at note-taking desk with documentation materials"
+      action: "Recording observations and procedure details in scientific documentation"
+  scene:
+    mainElements: "Glass partition window, rows of chairs, note-taking desks, medical charts on walls, scientific documentation workspace"
+    details: "Scientific notebooks, medical charts, and documentation papers with handwritten observations and measurements, medical monitoring equipment visible through observation window, institutional lighting and clinical furniture arrangement"
+    background: "View into main surgical theater through glass partition, medical equipment and preparation areas visible"
+    atmosphere: "Academic observation space with serious scholarly environment, focused medical team preparation, sense of important scientific undertaking"
+  composition:
+    cameraAngle: "Medium wide shot capturing team interaction and observation room setup"
+    focus: "Main character addressing team with medical charts, emphasizing collaborative medical expertise"
+    depth: "Team members in foreground, observation window in middle ground, surgical theater visible in background, no text or letters visible"

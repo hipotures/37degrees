@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Ceremonial dance during bullet ant ordeal"
+  setting:
+    time: "Night, fire providing dramatic illumination"
+    location: "Central gathering area of Sateré-Mawé village in Amazon rainforest"
+    weather: "Cool evening air with ceremonial smoke swirling"
+  characters:
+    - appearance: "Indigenous Brazilian boy, 12-15 years old, lean athletic build, bronze skin, straight black hair"
+      clothing: "Traditional Sateré-Mawé attire with colorful feather ornaments, woven cotton bands, minimal body decoration"
+      position: "Dancing in center of circle wearing ant gloves, body in motion despite pain"
+      action: "Performing traditional ritual dance movements while enduring bullet ant stings for 10-minute duration"
+    - appearance: "Various Sateré-Mawé villagers of different ages, bronze skin, traditional facial features"
+      clothing: "Everyday tribal attire with colorful cotton garments, simple jewelry, body paint patterns"
+      position: "Seated in circle around dancing initiate, some standing and swaying"
+      action: "Chanting traditional songs and beating rhythm on shell instruments to support initiate"
+  scene:
+    mainElements: "Circular clearing surrounded by traditional thatched-roof houses, fire pit in center, woven palm mats"
+    details: "Central fire creating dramatic shadows and golden light, initiate dancing with bullet ant gloves while community provides rhythmic support. Traditional Sateré-Mawé ritual items including feathered staffs, carved masks, painted gourds, shell instruments being used ceremonially."
+    background: "Village houses silhouetted against night sky, Amazon rainforest edge visible in firelight"
+    atmosphere: "Community gathering space with warm firelight, ceremonial significance, tribal unity. Intense spiritual energy and communal support during extreme ordeal, no text or letters visible"
+  composition:
+    cameraAngle: "Dynamic medium shot capturing dance movement and community support"
+    focus: "Dancing initiate enduring ant stings while maintaining ceremonial movements"
+    depth: "Dancing figure in foreground, supportive community in middle ground, firelit village in background"

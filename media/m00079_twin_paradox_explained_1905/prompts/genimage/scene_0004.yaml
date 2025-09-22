@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1911, evening
+    location: French Academy of Sciences lecture hall, Paris
+    weather: Indoor academic presentation, evening lighting
+  characters:
+  - appearance: Early 40s, distinguished French academic bearing, well-groomed beard
+    clothing: Formal early 1900s European academic dress - dark suit, vest, formal collar
+    position: Standing before academic audience
+    action: Presenting theoretical physics concepts to scientific community
+  scene:
+    mainElements: Elevated lecture platform, seated audience of distinguished scientists, blackboard with mathematical illustrations
+    details: Academic lecture hall filled with European physicists and mathematicians. Speaker gesturing toward mathematical
+      diagrams showing twin traveler scenarios. Distinguished audience members in formal academic attire listening intently
+      to revolutionary concept that challenges intuitive understanding of time. Gas lighting creates dramatic shadows, emphasizing
+      the momentous nature of this scientific presentation, no text or letters visible
+    background: Classical lecture hall with tiered seating, ornate academic architecture typical of early 1900s universities
+    atmosphere: Intense intellectual focus, revolutionary ideas being shared with scientific establishment, sense of paradigm
+      shift in physics
+  composition:
+    cameraAngle: Wide shot from audience perspective showing speaker and assembled scientists
+    focus: Distinguished physicist presenting twin paradox concept to academic community
+    depth: 'Foreground: attentive audience members, middle ground: speaker at podium, background: academic lecture hall architecture'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

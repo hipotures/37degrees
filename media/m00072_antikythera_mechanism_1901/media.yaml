@@ -1,0 +1,12 @@
+media_info:
+  title: Antikythera Mechanism Discovery - 1901
+  year: 1901
+  genre: Archaeological Discovery Documentary
+  description: Ancient Greek bronze computer capable of predicting eclipses and tracking planets discovered in shipwreck
+  target_audience: General public, students, archaeology enthusiasts, ancient technology buffs
+  duration: ~3 minutes
+  objective: Recreate the discovery of the world's first analog computer from ancient Greece
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

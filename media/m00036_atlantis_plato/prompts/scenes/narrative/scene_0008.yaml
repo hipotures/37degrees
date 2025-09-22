@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The legendary war between Athens and Atlantis"
+  setting:
+    time: "9600 BCE, midday"
+    location: "Mediterranean coastal battlefield between Greek mainland and sea"
+    weather: "Clear day with strong winds affecting naval combat"
+  characters:
+    - appearance: "Athenian hoplites, various ages, all in fighting condition"
+      clothing: "Bronze armor, round shields with owl emblems, long spears, leather sandals"
+      position: "Formed up in phalanx formation along the shoreline"
+      action: "Advancing with spears lowered toward disembarking Atlantean forces"
+    - appearance: "Atlantean warriors, tall bronze-skinned fighters"
+      clothing: "Distinctive armor with nautical motifs, curved swords, round shields with wave patterns"
+      position: "Disembarking from bronze-ramming warships onto the beach"
+      action: "Forming battle lines while advancing inland from their naval landing"
+  scene:
+    mainElements: "Bronze weapons clashing, warships with bronze rams beached on shore, dust clouds from marching armies"
+    details: "Hundreds of bronze-ramming warships lined up along the coastline. Spear points catching sunlight as formations clash. Sand being kicked up by thousands of feet. Shields creating wall formations. Bronze sword blades flashing in combat. War cries echoing across the battlefield. Ships' bronze rams gleaming as they beach."
+    background: "Sounds of battle - clashing bronze, war cries, waves against ships"
+    atmosphere: "Epic clash between two great civilizations, sense of heroic struggle and historical significance"
+  composition:
+    cameraAngle: "Medium wide shot from hillside overlooking the coastal battle"
+    focus: "The moment of collision between Athenian phalanx and Atlantean landing force"
+    depth: "Foreground: individual warriors in combat, middle ground: main battle formations, background: Atlantean fleet and open sea, no text or letters visible"

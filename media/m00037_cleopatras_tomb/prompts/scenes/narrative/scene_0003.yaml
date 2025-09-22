@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Roman Conquest - Commander Takes Alexandria"
+  setting:
+    time: "August 30, 30 BCE, morning"
+    location: "Ancient Alexandria city center with Roman legions"
+    weather: "Bright morning sun with clear skies"
+  characters:
+    - appearance: "Young Roman nobleman in early 30s, lean build, calculating expression, clean-shaven"
+      clothing: "Military commander's regalia with purple-trimmed toga, golden laurel wreath"
+      position: "Standing with commanding authority on raised platform"
+      action: "Observing the conquered city with satisfaction, making authoritative gestures to subordinates"
+  scene:
+    mainElements: "Roman legions in formation throughout city streets, Egyptian civilians watching from doorways and windows, Roman standards and eagles prominently displayed"
+    details: "Disciplined Roman soldiers in gleaming armor and red cloaks, captured Egyptian royal symbols being gathered, smoke from distant fires, conquered city showing signs of occupation, Roman military equipment and siege engines"
+    background: "Alexandria's marble buildings and monuments, harbor visible in distance with Roman ships"
+    atmosphere: "Tense occupation atmosphere, mixture of Roman military efficiency and Egyptian defeat, bright sunlight highlighting the contrast between conqueror and conquered"
+  composition:
+    cameraAngle: "Low angle shot emphasizing Character OA's commanding presence"
+    focus: "Character OA surveying his conquered territory with Roman legions in formation"
+    depth: "Character OA in foreground, Roman formations in middle ground, conquered city in background, no text or letters visible"

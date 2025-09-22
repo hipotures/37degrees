@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1968, afternoon, controlled lighting
+    location: Adjacent observation room with one-way mirror at Stanford University
+    weather: Indoor controlled environment
+  characters:
+  - appearance: Caucasian man, 30s, medium build, neat appearance, academic colleague
+    clothing: '1960s professional wear: dark suit jacket, white shirt, thin tie, dress pants'
+    position: Sitting at observation desk facing one-way mirror
+    action: Recording detailed observations on clipboard, timing child's behavior, documenting strategies used for self-control
+  scene:
+    mainElements: Research colleague in observation room documenting groundbreaking experiment, one-way mirror showing testing
+      room, recording equipment visible
+    details: Brown wooden clipboard with data sheets, mechanical stopwatch for precise timing, pen in hand recording behavior,
+      one-way mirror providing clear view of experiment, professional recording setup
+    background: Observation room with chairs, recording equipment, notebooks, academic research environment hidden from child
+      subjects
+    atmosphere: Scientific documentation of revolutionary psychology experiment, careful data collection that will influence
+      child development understanding for generations, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from behind researcher looking toward mirror
+    focus: Researcher documenting experiment, one-way mirror showing testing room in background
+    depth: 'Foreground: researcher with clipboard and timing device, middle: observation equipment, background: one-way mirror
+      view into testing room'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

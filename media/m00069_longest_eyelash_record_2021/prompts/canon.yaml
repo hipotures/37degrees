@@ -1,0 +1,40 @@
+canon:
+  characters:
+    - id: "character_YJ"
+      name: "Character YJ"
+      description_block: |
+        characters:
+          - appearance: "Chinese woman, 50s, gentle face with kind eyes, naturally long dark hair, distinctive extremely long eyelash on left upper eyelid measuring over 20 centimeters"
+            clothing: "Simple casual modern Chinese clothing, often light colored blouses or sweaters, comfortable everyday attire"
+            posture: "Calm and peaceful demeanor, often with slight smile, gentle hand gestures when speaking"
+  locations:
+    - id: "main_location_1"
+      name: "Shanghai Medical Facility"
+      description_block: |
+        setting:
+          location: "Modern medical measurement facility in Shanghai, China, sterile white examination room with professional equipment"
+        mainElements: "Medical examination chair, measurement tools, overhead lighting, clean white walls"
+        atmosphere: "Professional, clean, quiet environment focused on scientific verification"
+    - id: "main_location_2"
+      name: "Chinese Home Interior"
+      description_block: |
+        setting:
+          location: "Traditional Chinese home interior, comfortable living space with cultural decorations"
+        mainElements: "Simple furniture, family photos, traditional Chinese elements, warm lighting"
+        atmosphere: "Homely, peaceful, welcoming domestic environment reflecting Chinese family life"
+    - id: "main_location_3"
+      name: "Public Recognition Setting"
+      description_block: |
+        setting:
+          location: "Official setting for record verification, formal indoor space with cameras and documentation"
+        mainElements: "Recording equipment, documentation tables, official certificates, measurement instruments"
+        atmosphere: "Formal but celebratory, focused on achievement recognition and documentation"
+  items:
+    - id: "key_item_1"
+      name: "Measurement Tools"
+      description_block: |
+        details: "Professional medical rulers and measurement devices used for precise documentation of eyelash length, metal rulers with clear markings"
+    - id: "key_item_2"
+      name: "Guinness World Record Certificate"
+      description_block: |
+        details: "Official Guinness World Records certificate and documentation materials, formal paperwork recognizing the achievement"

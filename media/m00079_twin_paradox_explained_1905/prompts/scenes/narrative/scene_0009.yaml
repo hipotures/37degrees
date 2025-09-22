@@ -1,0 +1,18 @@
+sceneDescription:
+  title: "GPS Satellites Require Daily Relativistic Time Corrections"
+  setting:
+    time: "Daily operation, continuous"
+    location: "Silent vacuum of space, 20,000 km above Earth's surface"
+    weather: "Continuous space environment, unfiltered solar radiation"
+  characters:
+    # No characters present in this scene
+    - "No characters present in this scene"
+  scene:
+    mainElements: "Sophisticated atomic clocks, solar panels, communication arrays, precise orbital positioning systems"
+    details: "Ultra-precise rubidium and cesium atomic clocks, space-hardened construction, accurate to nanoseconds, pre-tuned to 10.22999999543 MHz to compensate for relativistic effects, multiple redundant systems. Satellite atomic clocks automatically adjusting their timing by 38 microseconds daily to compensate for predicted relativistic effects. Without these corrections, GPS accuracy would degrade by 10 kilometers per day, proving that the 1905 relativity theory is essential for modern navigation technology, no text or letters visible"
+    background: "Earth rotating below with day-night terminator line visible, showing global GPS coverage"
+    atmosphere: "Complete silence, brilliant unfiltered sunlight, stark contrast of Earth's blue against black space, constant motion at 14,000 km/hr"
+  composition:
+    cameraAngle: "Close-up shot of satellite atomic clock systems in operation"
+    focus: "Atomic clocks making continuous relativistic corrections"
+    depth: "Foreground: satellite atomic clock mechanisms, middle ground: GPS satellite structure, background: Earth's rotation and space environment"

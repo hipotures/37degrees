@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Presbyterian Minister Arrives at Cathedral During Event"
+  setting:
+    time: "December 11, 1752, 4:00 PM, during the fireball display"
+    location: "Glasgow Cathedral and Necropolis, elevated ground overlooking Glasgow, Scotland, December 1752"
+    weather: "Clear winter day with ongoing celestial phenomenon visible overhead"
+  characters:
+    - appearance: "Elderly Scottish clergyman in his 50s, stern facial features, clean-shaven or with modest whiskers, tall and austere bearing"
+      clothing: "Black clerical robes, white bands at the neck, black tricorn hat, dark woolen cloak - standard Presbyterian minister attire of 1750s"
+      position: "Standing on cathedral steps, observing the fireball phenomenon"
+      action: "Watching the celestial event with thoughtful scholarly demeanor, balancing religious interpretation with emerging natural philosophy"
+  scene:
+    mainElements: "Gothic cathedral spires, ancient tombstones, stone pathways, views across Glasgow rooftops, medieval cathedral with surrounding graveyard"
+    details: "The Presbyterian minister stands on the elevated cathedral grounds, his dark robes contrasting with the stone architecture as he observes the extraordinary fireball overhead. From this vantage point, he can see both the celestial phenomenon and the gathering crowds below in Glasgow's streets. His expression reflects the era's tension between religious authority and emerging scientific understanding, as the Church must interpret this unprecedented event, no text or letters visible"
+    background: "Glasgow cityscape spread below with crowds visible on streets, all under the spectacular fireball display"
+    atmosphere: "Sacred and solemn environment, wind whistling through stone arches, religious authority and tradition"
+  composition:
+    cameraAngle: "Medium shot placing the minister within cathedral context while showing the ongoing phenomenon"
+    focus: "The religious authority figure contemplating the extraordinary celestial event"
+    depth: "Foreground shows the minister on cathedral steps, middle ground features gothic architecture and tombstones, background reveals Glasgow city below with the fireball overhead"

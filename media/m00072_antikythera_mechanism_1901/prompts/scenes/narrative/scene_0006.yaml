@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Recognition - Politician Notices Gears in Bronze Fragment"
+  setting:
+    time: "1902, afternoon"
+    location: "National Archaeological Museum of Athens, Greece, early 1900s exhibition hall"
+    weather: "Warm afternoon light filtering through museum windows"
+  characters:
+    - appearance: "Greek man, 50s, mustached, scholarly demeanor, keen observant eyes"
+      clothing: "Early 20th century formal suit with vest, or museum curator attire"
+      position: "Leaning over bronze fragment, pointing at visible gear mechanism"
+      action: "Examining bronze artifact with sudden recognition of mechanical complexity"
+  scene:
+    mainElements: "Grand neoclassical museum interior with marble columns, display cases, and archaeological artifacts"
+    details: "Museum display area with the corroded bronze mechanism prominently featured. Precision-cut bronze gears of various sizes, largest 13cm diameter with 223 teeth, intricate tooth patterns, green patina from sea corrosion, some with visible Greek inscriptions around edges. Scholar's magnifying glass revealing intricate gear teeth, measuring instruments nearby, and the growing realization that this is no ordinary artifact. Natural museum lighting highlighting the mechanical complexity."
+    background: "Classical museum setting with other Greek artifacts, scholarly atmosphere of early 20th century archaeology"
+    atmosphere: "Scholarly academic environment with natural light from tall windows illuminating ancient Greek treasures. Moment of scientific breakthrough and recognition."
+  composition:
+    cameraAngle: "Close-up shot focusing on the gear discovery moment"
+    focus: "Bronze gears becoming visible under scholarly examination"
+    depth: "Foreground: detailed gear mechanism, middle ground: examining scholar, background: museum setting, no text or letters visible"

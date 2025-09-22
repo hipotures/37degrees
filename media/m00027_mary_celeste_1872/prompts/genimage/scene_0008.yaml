@@ -1,0 +1,103 @@
+sceneDescription:
+  setting:
+    time: December 6-12, 1872, multiple days sailing under skeleton crew
+    location: Open Atlantic Ocean between discovery point and Gibraltar, 600 nautical miles of challenging navigation
+    weather: Deteriorating December weather with increasing winds and rough seas
+  characters:
+  - appearance: Experienced sailor in his 30s, strong build necessary for boarding operations, practical seaman's attire
+    clothing: Heavy wool peacoat, waterproof oilskins, sturdy sea boots, knit cap, equipped with maritime tools
+    position: At ship's wheel struggling to control undermanned vessel
+    action: Fighting to maintain course toward Gibraltar while managing sail configuration with insufficient crew
+  scene:
+    mainElements: Mary Celeste under reduced sail configuration with skeleton crew of three sailors from Dei Gratia, ship
+      taking on water requiring constant pumping, rigging adjusted for minimal crew operations, Dei Gratia visible in distance
+      maintaining parallel course
+    details: Three-man crew struggling to manage 103-foot brigantine designed for full crew of ten, reduced sail area to manage
+      vessel safely with limited manpower, ship's wheel requiring constant attention due to undermanned navigation, water
+      pumping operations ongoing to prevent further flooding, maritime equipment secured for rough weather sailing, emergency
+      repairs made to rigging and sail configuration
+    background: Vast Atlantic Ocean with increasing wave heights, storm clouds gathering on horizon suggesting worsening weather
+      conditions, Dei Gratia maintaining visual contact but unable to provide direct assistance, seabirds following both vessels
+      toward European coast
+    atmosphere: Tense struggle against maritime elements with insufficient crew, growing concern about reaching Gibraltar
+      safely, determination of skeleton crew to preserve valuable vessel and solve mystery, sense of racing against time and
+      weather conditions
+  composition:
+    cameraAngle: Wide shot showing Mary Celeste under reduced sail with crew working rigging
+    focus: Skeleton crew managing ship operations as central focal point
+    depth: Foreground shows detailed crew operations and sail management, middle ground captures Mary Celeste making progress
+      through rough seas, background reveals Dei Gratia maintaining course and deteriorating weather conditions, no text or
+      letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

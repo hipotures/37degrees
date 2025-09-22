@@ -1,0 +1,110 @@
+sceneDescription:
+  setting:
+    time: 2019, 2:00 PM
+    location: Modern medical office, neurologist consultation room
+    weather: Bright afternoon with natural office lighting
+  characters:
+  - appearance: Adult in 30s-40s, relieved but still concerned expression, seeking medical answers
+    clothing: Casual daytime clothes, jeans and button-down shirt
+    position: Sitting in patient chair across from doctor's desk
+    action: Discussing experiences with medical professional, gesturing as explaining encounters
+  - appearance: Middle-aged scientist, 40s-50s, focused professional demeanor
+    clothing: White lab coat over business attire, sometimes with sleep monitoring equipment
+    position: Standing beside monitoring equipment or seated at desk with charts
+    action: Observing sleep study data, taking notes, adjusting monitoring equipment
+  scene:
+    mainElements: Modern medical office with doctor's desk, patient chairs, medical diplomas on wall, computer with patient
+      records
+    details: Medical consultation setting with brain scan images displayed on computer monitor, sleep disorder pamphlets on
+      desk, notepad with doctor's observations. Professional medical environment providing scientific context for phenomenon.
+    background: Medical office walls with neurological charts, bookshelf with medical textbooks, window showing hospital grounds
+      outside
+    atmosphere: Professional medical environment offering scientific explanation and relief. Bright clinical setting contrasting
+      with dark bedroom encounters, providing hope and understanding
+  composition:
+    cameraAngle: Medium shot from side of office showing both patient and doctor
+    focus: Doctor explaining sleep paralysis while patient listens with relief and understanding
+    depth: 'Foreground: medical desk with brain scans, middle: doctor and patient in consultation, background: medical charts
+      and bright office window, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

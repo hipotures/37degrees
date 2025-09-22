@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: September 1975, morning
+    location: US Senate Caucus Room 318, Russell Senate Office Building, Washington DC
+    weather: Clear autumn day, sunlight streaming through tall windows
+  characters:
+  - appearance: Caucasian man, 50s, distinguished bearing, graying hair combed back, serious expression with deep-set eyes
+    clothing: 1970s dark blue suit with thin lapels, white dress shirt, conservative patterned tie
+    position: Standing behind curved dais reviewing documents
+    action: Organizing hearing materials and testing microphone equipment
+  - appearance: Caucasian man, 60s, white hair, stern demeanor, weathered face with prominent jawline
+    clothing: 1970s dark gray suit, white dress shirt, solid colored tie, American flag pin on lapel
+    position: Seated at committee dais consulting with staff members
+    action: Reviewing briefing notes and discussing procedural matters
+  scene:
+    mainElements: Curved committee dais with microphones and nameplates, witness table in center of room, gallery seating
+      filled with reporters and observers
+    details: Dark wood paneling covers walls, American flag stands behind committee seats, overhead lighting illuminates formal
+      government chamber, security personnel positioned at entrances, stacks of classified documents marked with official
+      seals await review, no text or letters visible
+    background: Tiered public gallery with journalists setting up cameras and recording equipment, marble columns supporting
+      ornate ceiling
+    atmosphere: Tense anticipation before historic intelligence oversight hearing, formal institutional setting with gravity
+      of constitutional oversight
+  composition:
+    cameraAngle: Wide establishing shot from gallery perspective
+    focus: Committee dais and formal chamber layout showing scale of proceedings
+    depth: Foreground shows gallery seating, middle ground features witness table, background displays committee dais with
+      American flags
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

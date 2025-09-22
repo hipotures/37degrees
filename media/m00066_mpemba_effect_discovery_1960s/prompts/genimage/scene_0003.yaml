@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1963, next day morning
+    location: Physics classroom, Magamba Secondary School, Tanzania
+    weather: Bright morning sunlight
+  characters:
+  - appearance: Young African male, 13-17 years old, slender build, curious dark eyes, short dark hair
+    clothing: 1960s Tanzanian school uniform - white short-sleeved shirt, dark shorts, simple brown leather shoes
+    position: Standing beside desk, facing teacher with eager expression
+    action: Gesturing enthusiastically while explaining his ice cream observation to the teacher
+  - appearance: African man, 30s, average build, serious expression, neat appearance
+    clothing: 1960s teacher attire - white long-sleeved shirt, dark tie, dark trousers, polished black shoes
+    position: Standing behind teacher's desk with arms crossed
+    action: Shaking head dismissively, pointing at blackboard with physics formulas about heat transfer
+  - appearance: Group of African teenagers, mixed ages 13-16, various builds and heights
+    clothing: 1960s Tanzanian school uniforms - white shirts, dark shorts/skirts, simple shoes
+    position: Seated at wooden desks throughout classroom
+    action: Some listening intently, others whispering and giggling at the exchange between student and teacher
+  scene:
+    mainElements: Simple classroom with wooden desks, blackboard with physics equations about thermodynamics and heat transfer
+    details: Blackboard shows diagrams of heat flow and temperature equations. Physics textbooks and basic equipment visible
+      on shelves. Morning sunlight streams through windows creating geometric patterns on floor. Teacher's expression shows
+      skepticism and authority while student maintains eager curiosity despite dismissal, no text or letters visible
+    background: School building interior with concrete walls painted white, simple wooden furniture, tropical setting visible
+      through windows
+    atmosphere: Tension between scientific curiosity and academic authority, moment where established knowledge clashes with
+      empirical observation
+  composition:
+    cameraAngle: Wide shot from back of classroom
+    focus: Student and teacher face-off with blackboard equations between them
+    depth: Foreground shows student desks and watching classmates, middle ground captures main interaction, background displays
+      educational materials and windows
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

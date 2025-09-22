@@ -1,0 +1,123 @@
+canon:
+  characters:
+    - id: "character_CV"
+      name: "Character CV"
+      description_block: |
+        characters:
+          - appearance: "Woman age 39, medium height, olive-skinned, classical Greek-Egyptian features, intelligent dark eyes, aquiline nose"
+            clothing: "Royal Egyptian regalia with golden uraeus crown, fine linen pleated dress, elaborate jewelry including pearl earrings and golden bracelets"
+            position: "Standing regally or seated on throne"
+            action: "Commanding presence, speaking with authority, making decisive gestures"
+    - id: "character_MA"
+      name: "Character MA"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Roman general, muscular build, weathered face, graying hair, battle scars"
+            clothing: "Roman military armor with crimson cloak, later simple tunic in final days"
+            position: "Standing in military posture or reclining in defeat"
+            action: "Displaying Roman military bearing, later showing desperation and defeat"
+    - id: "character_OA"
+      name: "Character OA"
+      description_block: |
+        characters:
+          - appearance: "Young Roman nobleman in early 30s, lean build, calculating expression, clean-shaven"
+            clothing: "Military commander's regalia with purple-trimmed toga, golden laurel wreath"
+            position: "Standing with commanding authority"
+            action: "Observing strategic situations, making calculated decisions"
+    - id: "character_KM"
+      name: "Character KM"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Latina woman, 5'6\", dark hair, determined expression, wearing practical field clothes"
+            clothing: "Khaki archaeological fieldwork attire, wide-brimmed hat, sturdy boots, utility belt with tools"
+            position: "Kneeling at excavation site or standing examining artifacts"
+            action: "Carefully excavating with archaeological tools, examining ancient artifacts with magnifying glass"
+    - id: "character_ZH"
+      name: "Character ZH"
+      description_block: |
+        characters:
+          - appearance: "Elderly Egyptian man, distinctive mustache, authoritative presence, 70s"
+            clothing: "Trademark fedora hat, white shirt, khaki vest, professional archaeological attire"
+            position: "Standing with arms crossed or gesturing authoritatively"
+            action: "Speaking with authority, examining artifacts with skeptical expression"
+    - id: "character_FG"
+      name: "Character FG"
+      description_block: |
+        characters:
+          - appearance: "French marine archaeologist, 60s, graying hair, weather-beaten face from years underwater"
+            clothing: "Diving suit when working, maritime expedition gear, blue work shirts"
+            position: "Standing on deck of research vessel or prepared for diving"
+            action: "Operating underwater exploration equipment, examining sonar readings"
+    - id: "character_PL"
+      name: "Character PL"
+      description_block: |
+        characters:
+          - appearance: "Elderly Greek scholar, beard, thoughtful expression, scroll in hand"
+            clothing: "Classical Greek philosopher's himation (cloak), simple sandals"
+            position: "Seated at writing desk or standing with scroll"
+            action: "Writing with stylus on papyrus, contemplating historical events"
+  locations:
+    - id: "alexandria_ancient"
+      name: "Ancient Alexandria"
+      description_block: |
+        setting:
+          location: "Magnificent Hellenistic city on Egypt's Mediterranean coast, royal quarter near harbor"
+        mainElements: "Great Library, Pharos Lighthouse, Royal Palace complex, harbor with Antirhodos island"
+        atmosphere: "Bustling cosmopolitan center of learning and trade, marble buildings gleaming in sun, ships from across Mediterranean"
+    - id: "cleopatra_mausoleum"
+      name: "Cleopatra's Mausoleum"
+      description_block: |
+        setting:
+          location: "Unfinished tomb complex within Alexandria, upper portions incomplete"
+        mainElements: "Stone chambers filled with royal treasures, golden artifacts, precious stones, spices, multiple rooms"
+        atmosphere: "Shadowy interior lit by oil lamps, scent of frankincense and cinnamon, sounds of siege outside"
+    - id: "taposiris_magna"
+      name: "Taposiris Magna"
+      description_block: |
+        setting:
+          location: "Ancient temple complex dedicated to Osiris and Isis, near Lake Mariout, 40km west of Alexandria"
+        mainElements: "Stone temple with foundation plates, excavated tunnels leading to sea, necropolis with 1,000+ burials"
+        atmosphere: "Desert archaeological site with ongoing excavation, sound of digging tools, hot sun beating down"
+    - id: "underwater_alexandria"
+      name: "Sunken Alexandria Harbor"
+      description_block: |
+        setting:
+          location: "Submerged ancient royal quarter, 16+ feet underwater in Mediterranean"
+        mainElements: "Submerged palace foundations, columns, statues, Antirhodos island ruins, ancient harbor structures"
+        atmosphere: "Murky underwater environment, limited visibility, strong currents, marine life among ruins"
+    - id: "modern_alexandria"
+      name: "Modern Alexandria, Egypt"
+      description_block: |
+        setting:
+          location: "Modern Egyptian city built over ancient Alexandria, urban development challenges"
+        mainElements: "Modern buildings, roads, infrastructure built over ancient sites, harbor with boat traffic"
+        atmosphere: "Busy Mediterranean port city, construction sounds, traffic, urban development pressure"
+  items:
+    - id: "foundation_plate_taposiris"
+      name: "Taposiris Magna Foundation Plate"
+      description_block: |
+        details: "Stone tablet with Greek and hieroglyphic inscriptions, weathered limestone, inscription confirms temple dedication to Isis, built 270-280 BCE"
+    - id: "cleopatra_coins"
+      name: "Coins with Character CV's Image"
+      description_block: |
+        details: "Bronze and silver coins, 2-3cm diameter, showing royal profile, portrait depicting woman with diadem, Greek inscriptions"
+    - id: "disputed_marble_bust"
+      name: "Disputed Character CV Bust"
+      description_block: |
+        details: "White marble bust, royal crown, approximately 2 feet tall, facial features debated by experts"
+    - id: "tunnel_system"
+      name: "Underground Tunnel Complex"
+      description_block: |
+        details: "Limestone tunnel, 4,300 feet long, leading toward Mediterranean, carved passage connecting temple to sea, partially flooded, ancient construction"
+    - id: "caesarion_statue_head"
+      name: "Ancient Statue Head"
+      description_block: |
+        details: "Red granite head, 5 feet tall, depicting young man with royal features, found in underwater Alexandria"
+    - id: "ancient_texts"
+      name: "Ancient Source Documents"
+      description_block: |
+        details: "Various papyrus scrolls and later manuscript copies, works describing burial but not specific location"
+    - id: "underwater_rov"
+      name: "Underwater Exploration Vehicle"
+      description_block: |
+        details: "Yellow submarine-like device with cameras, lights, mechanical arms, modern operational equipment, remotely operated from surface vessel"

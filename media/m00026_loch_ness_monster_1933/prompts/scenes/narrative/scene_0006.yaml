@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Photographic Evidence - November 1933"
+  setting:
+    time: "November 12, 1933, early afternoon after church service"
+    location: "Rocky shoreline near water's edge with clear view of loch surface"
+    weather: "Sunny Scottish Sunday, minimal cloud cover, excellent visibility"
+  characters:
+    - appearance: "Working-class Scotsman in his 40s, sturdy build, weathered hands from manual labor"
+      clothing: "Sunday church clothes - dark suit, white collar, practical walking boots"
+      position: "Standing on rocky shoreline near water's edge"
+      action: "Holding bulky Kodak box camera, preparing to take photograph"
+  scene:
+    mainElements: "Rocky loch shore with scattered boulders, clear water revealing pebbled bottom near shore, wooden pier structure"
+    details: "Bulky black rectangular camera with simple viewfinder, carried by strap, requires careful positioning for shots, photographer positioning himself for clear shot as unusual disturbance breaks water surface, ripples spreading outward from central point"
+    background: "Dark loch waters with mysterious movement creating concentric ripples, calm surface broken by emergent form"
+    atmosphere: "Quiet Sunday afternoon transformed by unexpected opportunity to document extraordinary sighting"
+  composition:
+    cameraAngle: "Medium shot from behind photographer showing camera position and water"
+    focus: "Photographer with raised camera aimed at water disturbance"
+    depth: "Foreground shows rocky shore and photographer's boots, middle ground captures photographer with camera, background reveals loch surface with unusual activity, no text or letters visible"

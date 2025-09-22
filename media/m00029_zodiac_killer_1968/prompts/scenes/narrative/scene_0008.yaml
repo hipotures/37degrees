@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Police Response at Taxi Murder Scene"
+  setting:
+    time: "October 11, 1969, 22:25"
+    location: "Washington and Cherry Streets intersection, Presidio Heights, San Francisco"
+    weather: "Cool October evening, clear"
+  characters:
+    - appearance: "Multiple uniformed San Francisco police officers, various ages"
+      clothing: "Police uniforms appropriate for late 1960s law enforcement, badges and equipment"
+      position: "Surrounding taxi cab, securing crime scene perimeter"
+      action: "Processing murder scene, taking photographs, collecting evidence, interviewing witnesses"
+    - appearance: "Police detectives in plainclothes, professional appearance"
+      clothing: "Suits and professional attire, carrying notepads and evidence materials"
+      position: "Examining taxi interior and surrounding area"
+      action: "Investigating fresh crime scene, documenting evidence, coordinating with uniformed officers"
+    - appearance: "Neighborhood witnesses, various residents"
+      clothing: "1960s residential attire, robes and casual evening wear"
+      position: "Standing at safe distance behind police perimeter"
+      action: "Watching police investigation, some providing witness statements"
+  scene:
+    mainElements: "Yellow taxi cab cordoned off with police tape, multiple police vehicles with flashing lights, crime scene investigation in progress"
+    details: "Extensive police presence, evidence markers, photography equipment, crime scene tape establishing perimeter, police radio chatter, investigation lights illuminating scene, forensic collection in progress"
+    background: "Upscale Victorian homes of Presidio Heights, steep San Francisco hills, residential neighborhood disrupted by major crime scene, curious neighbors at windows"
+    atmosphere: "Intense law enforcement response, neighborhood shocked by urban violence, methodical police work under pressure, sense of killer having just escaped"
+  composition:
+    cameraAngle: "Wide shot showing full scope of police crime scene response"
+    focus: "Police investigation centered around taxi cab with extensive law enforcement presence"
+    depth: "Crime scene and officers in foreground, police vehicles in middle ground, residential neighborhood in background"

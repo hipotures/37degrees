@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1966, late afternoon
+    location: Mkwawa Secondary School assembly hall after lecture, Iringa, Tanzania
+    weather: Late afternoon sunlight
+  characters:
+  - appearance: Young African male, 13-17 years old, slender build, curious dark eyes, short dark hair
+    clothing: 1960s Tanzanian school uniform - white short-sleeved shirt, dark shorts, simple brown leather shoes
+    position: Standing near front of hall facing the professor
+    action: Speaking earnestly with hands gesturing to illustrate his question about hot and cold water freezing
+  - appearance: Caucasian man, 40s, medium build, graying hair, kind eyes behind wire-rimmed glasses
+    clothing: 1960s academic attire - light colored shirt, dark tie, khaki trousers, leather shoes
+    position: Standing near blackboard, turned toward the questioning student
+    action: Looking thoughtful and intrigued, adjusting glasses while considering the unexpected question
+  - appearance: Group of African teenagers, mixed ages 13-16, various builds and heights
+    clothing: 1960s Tanzanian school uniforms - white shirts, dark shorts/skirts, simple shoes
+    position: Some remaining seated, others standing and moving toward exit
+    action: Lingering to listen to the exchange, some looking skeptical, others curious about the unusual question
+  scene:
+    mainElements: Assembly hall with students dispersing after lecture, blackboard still showing physics equations
+    details: Post-lecture atmosphere with students packing books and preparing to leave. The questioning student stands out
+      with his serious demeanor as he poses his counterintuitive question. Professor shows genuine interest rather than dismissal.
+      Afternoon shadows growing longer through windows. Academic setting maintains formality despite informal post-lecture
+      moment, no text or letters visible
+    background: Formal hall architecture with brick walls, institutional furniture, and windows showing late afternoon light
+    atmosphere: Pivotal moment where scientific curiosity meets open academic mind, tension of challenging established knowledge
+      with personal observation
+  composition:
+    cameraAngle: Medium shot focusing on student-professor interaction
+    focus: Face-to-face dialogue between young questioner and experienced scientist
+    depth: Foreground captures main interaction, middle ground shows interested onlookers, background reveals departing students
+      and formal setting
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

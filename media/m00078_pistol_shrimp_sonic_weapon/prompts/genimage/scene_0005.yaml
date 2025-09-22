@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: October 2001, during breakthrough research publication period
+    location: Modern physics research facility in Netherlands, specialized high-speed imaging laboratory
+  characters:
+  - appearance: Middle-aged Dutch physicist, approximately 45-50 years old, medium build, intellectual demeanor, focused expression
+    clothing: White laboratory coat over dark shirt, safety glasses, professional academic attire typical of physics laboratories
+    position: Standing at computer analysis station reviewing captured footage
+    action: Analyzing high-speed camera footage and discussing findings with colleague
+  - appearance: Senior physicist, approximately 40-45 years old, tall, thin build, beard, analytical expression
+    clothing: Casual academic attire, button-down shirt, often seen with papers and research notes
+    position: Standing at laboratory workstation reviewing data and calculations
+    action: Analyzing scientific data, collaborative discussion with research team members
+  scene:
+    mainElements: Two research scientists analyzing breakthrough footage and data from cavitation bubble discovery
+    details: Computer monitors displaying high-speed footage analysis, scientific measurement data visible on screens, laboratory
+      equipment including precision cameras and measurement devices, research papers and calculations spread across workstation,
+      water tanks with experimental setups in background, collaborative scientific environment during major discovery
+    background: Sterile white laboratory lighting, quiet except for equipment humming, focused research environment with precision
+      instruments
+    atmosphere: Excitement of scientific breakthrough, collaborative analysis, professional academic environment
+  composition:
+    cameraAngle: Medium shot showing both scientists engaged in collaborative analysis
+    focus: Two research scientists working together to analyze groundbreaking discovery data
+    depth: Foreground shows scientists and computer displays, middle ground reveals laboratory equipment and analysis stations,
+      background shows additional research equipment, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

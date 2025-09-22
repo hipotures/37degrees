@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Mid-morning, tropical waters with strong sunlight penetration
+    location: Sandy bottom area adjacent to coral reef, fine grain sediment with scattered shell fragments
+    weather: Calm underwater conditions with gentle water movement
+  characters:
+  - appearance: Small translucent marine crustacean, 3-5 centimeters long, pale orange-pink coloration with darker orange
+      stripes
+    clothing: Natural exoskeleton with segmented body plates, no artificial coverings
+    position: Positioned near coral reef burrow entrance or within sandy substrate tunnel
+    action: Alert stance with large snapping claw extended, antennae actively sensing environment
+  - appearance: Small tropical fish, 2-3 centimeters long, silver-scaled with hints of blue-green iridescence
+    clothing: Natural scales and fins, no artificial elements
+    position: Swimming in open water above coral reef substrate
+    action: Swimming casually through water column, unaware of hidden predator below
+  scene:
+    mainElements: Successful completion of hunting sequence with pistol shrimp grasping incapacitated prey fish
+    details: Pistol shrimp emerged from burrow entrance with smaller pincer claw firmly grasping stunned fish while large
+      snapping claw remains ready for defense. Fish shows continued disorientation with irregular fin movement and dulled
+      coloration from acoustic trauma. Shrimp positioned on sandy substrate with body partially extended from burrow opening.
+      Antennae actively examining captured prey to assess condition and size. Walking legs provide stable platform on seafloor
+      while manipulating victim. Surrounding sand shows recent excavation and movement patterns from shrimp's rapid emergence.
+      Small debris particles still settling from hunting action. Prey fish scale damage visible where grasped by sharp pincer
+      edges.
+    background: Sandy seafloor extending toward coral reef structures with gentle water movement and filtered sunlight
+    atmosphere: Triumphant conclusion of sophisticated predation strategy, nature's acoustic weapon proving deadly effectiveness,
+      no text or letters visible
+  composition:
+    cameraAngle: Medium shot from low angle showing successful predator with captured prey
+    focus: Pistol shrimp holding stunned fish with emphasis on completed hunting cycle
+    depth: Sharp focus on predator-prey interaction in foreground, burrow and seafloor habitat in middle ground, coral reef
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

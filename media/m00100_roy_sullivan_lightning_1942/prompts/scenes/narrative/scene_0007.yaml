@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Sixth Strike - Cloud Pursuit 1976"
+  setting:
+    time: "June 5, 1976, evening"
+    location: "Mountain trail in Shenandoah National Park"
+    weather: "Storm cloud appearing to stalk individual target"
+  characters:
+    - appearance: "American man, 64, brawny build resembling Gene Hackman, rugged weathered face, paranoid about storms"
+      clothing: "US Park Service uniform with ranger hat, work boots, utility belt, carrying emergency water can"
+      position: "Running away from perceived threatening cloud"
+      action: "Desperately trying to escape pursuing storm cloud, being struck despite evasion attempt"
+  scene:
+    mainElements: "Park ranger attempting to flee from storm cloud that appears to be following him personally"
+    details: "Storm cloud seeming to pursue individual target across mountain terrain, ranger running desperately to escape perceived threat, lightning striking despite distance and evasion efforts, ankle injury from sixth electrical strike, hair catching fire once again from lightning contact, growing psychological impact of repeated strikes"
+    background: "Mountainous park trail with threatening storm cloud overhead, Shenandoah wilderness becoming menacing environment"
+    atmosphere: "Psychological pressure from repeated lightning encounters, paranoid belief in cloud persecution, sixth lightning strike reinforcing pattern of extraordinary attraction, nature becoming personal enemy, no text or letters visible"
+  composition:
+    cameraAngle: "Dynamic shot showing flight from pursuing storm"
+    focus: "Sixth lightning strike and growing psychological impact"
+    depth: "Fleeing ranger in foreground, threatening storm cloud in middle ground, mountain wilderness in background"

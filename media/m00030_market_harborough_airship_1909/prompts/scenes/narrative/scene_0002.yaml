@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "German Technological Superiority"
+  setting:
+    time: "1909, afternoon"
+    location: "German airship construction facility"
+    weather: "Overcast industrial atmosphere"
+  characters:
+    - appearance: "Elderly German nobleman, 71 years old, distinctive white mustache, tall and imposing figure"
+      clothing: "German military uniform with decorations, or formal civilian dress with Prussian bearing"
+      position: "Standing in German workshop or office"
+      action: "Examining airship blueprints with confident expertise"
+  scene:
+    mainElements: "Industrial workshops, airship components, technical blueprints, German engineering equipment"
+    details: "Massive rigid airship under construction, 400+ feet long with multiple gas cells and enclosed passenger compartments. Advanced engineering blueprints spread across tables. Precision German tools and measuring instruments. Steam-powered machinery operating efficiently. Workers in organized teams conducting advanced assembly work. German flags and imperial eagles visible on equipment, no text or letters visible"
+    background: "Advanced technological environment, precision engineering, sense of German industrial superiority"
+    atmosphere: "Industrial confidence and technological advancement, contrasting sharply with British primitive facilities. Sound of hammering and machinery suggesting organized production"
+  composition:
+    cameraAngle: "Medium shot focusing on character and airship construction"
+    focus: "German technological superiority through advanced airship design"
+    depth: "Foreground: Character examining plans, middle ground: massive airship construction, background: organized industrial activity"

@@ -1,0 +1,57 @@
+canon:
+  characters:
+    - id: "character_PW"
+      name: "Character PW"
+      description_block: |
+        characters:
+          - appearance: "Scottish man, 40s, average build, weathered face from island life"
+            clothing: "1985 winter clothing - thick wool sweater, heavy jacket, practical trousers, warm hat"
+            posture: "Alert and observant, often pointing skyward or shielding eyes to look up"
+    - id: "character_MW"
+      name: "Character MW"
+      description_block: |
+        characters:
+          - appearance: "Scottish woman, 30s-40s, medium build, concerned expression"
+            clothing: "1985 winter clothing - warm coat, wool scarf, sensible boots, knitted hat"
+            posture: "Standing close to family, often looking between sky and husband, protective stance"
+    - id: "character_D1"
+      name: "Character D1"
+      description_block: |
+        characters:
+          - appearance: "Scottish girl, 8-12 years old, curious expression, bright eyes"
+            clothing: "Child's 1985 winter wear - colorful jacket, warm mittens, winter boots, knitted hat"
+            posture: "Excited and animated, pointing upward, staying close to parents"
+    - id: "character_D2"
+      name: "Character D2"
+      description_block: |
+        characters:
+          - appearance: "Scottish girl, 6-10 years old, wide-eyed wonder, smaller than sister"
+            clothing: "Child's 1985 winter wear - bright winter coat, warm gloves, small boots, wool hat"
+            posture: "Slightly behind family, looking up in amazement, occasionally hiding behind mother"
+  locations:
+    - id: "isle_of_arran_landscape"
+      name: "Isle of Arran Landscape"
+      description_block: |
+        setting:
+          location: "Isle of Arran, Scottish Highlands, Firth of Clyde, mountainous island terrain"
+        mainElements: "Goat Fell mountain peaks, rolling hills, scattered stone cottages, coastal roads, rugged Highland scenery"
+        atmosphere: "February 1985 - cold winter evening, clear skies, remote island setting, minimal light pollution"
+    - id: "arran_village_area"
+      name: "Arran Village Area"
+      description_block: |
+        setting:
+          location: "Rural village area, Isle of Arran, Scotland, scattered settlements"
+        mainElements: "Stone cottages, narrow roads, stone walls, bare winter trees, distant mountains"
+        atmosphere: "Quiet Scottish island village, cold February evening, peaceful rural setting with excellent sky visibility"
+    - id: "firth_of_clyde_waters"
+      name: "Firth of Clyde Waters"
+      description_block: |
+        setting:
+          location: "Sea channel between Scottish mainland and Isle of Arran"
+        mainElements: "Dark winter waters, distant mainland coastline, ferry routes, open water"
+        atmosphere: "Cold maritime setting, clear winter evening, unobstructed views across water to mainland Scotland"
+  items:
+    - id: "mushroom_ufo"
+      name: "Mushroom-Shaped UFO"
+      description_block: |
+        details: "Distinctive mushroom or dome-shaped aerial object, bright blue illumination on underside, metallic appearance, hovering high in clear winter sky, maintaining stable mushroom form throughout observation"

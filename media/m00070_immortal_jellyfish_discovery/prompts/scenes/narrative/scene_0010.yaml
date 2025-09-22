@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Modern Jellyfish Colony Maintenance and Ongoing Research"
+  setting:
+    time: "2020s, morning"
+    location: "Seto Marine Biological Laboratory, Shirahama City, Wakayama Prefecture, Japan"
+    weather: "Controlled laboratory environment with precise lighting and temperature"
+  characters:
+    - appearance: "Japanese man, 60s, average height, graying black hair, warm intelligent eyes behind thick glasses"
+      clothing: "Modern laboratory attire: white lab coat over button-down shirt, dark trousers, sometimes casual sweater"
+      position: "Hunched over laboratory bench working with microscopic specimens"
+      action: "Carefully feeding jellyfish specimens with fine-point needles, maintaining the world's only captive immortal jellyfish colony"
+  scene:
+    mainElements: "State-of-the-art marine research facility with temperature-controlled glass tanks containing jellyfish colonies, advanced microscopy and monitoring equipment"
+    details: "Temperature-controlled glass tanks with seawater circulation, precise environmental monitoring equipment maintaining optimal conditions for immortal jellyfish, dried Artemia cysts visible under magnification as jellyfish food, ultra-fine laboratory needles used for precise feeding of microscopic organisms, advanced digital microscope with computer interface and high-resolution imaging capabilities, research notebooks with detailed observations spanning decades"
+    background: "Modern Japanese marine research laboratory with cutting-edge equipment for studying marine organisms, organized workstations, and comprehensive monitoring systems"
+    atmosphere: "Dedicated scientific pursuit continuing the legacy of the original discovery, patient daily care maintaining living specimens of the immortal jellyfish for ongoing research into the mechanisms of biological immortality, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up view emphasizing the delicate care required for maintaining immortal jellyfish specimens"
+    focus: "The ongoing scientific dedication to studying and maintaining the immortal jellyfish decades after the original discovery"
+    depth: "Foreground: careful specimen maintenance and feeding process, middle: researcher working with precision equipment, background: modern laboratory with advanced marine research infrastructure"

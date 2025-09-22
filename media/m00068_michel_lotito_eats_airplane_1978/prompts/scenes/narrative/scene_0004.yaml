@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Preparation Begins - Disassembling the Aircraft"
+  setting:
+    time: "1978, afternoon"
+    location: "Industrial workshop space with metal cutting tools and workbenches"
+    weather: "Overcast day, natural light through workshop windows"
+  characters:
+    - appearance: "French man, 30s, medium build, distinctive intense dark eyes, average height, concentrated expression when eating unusual objects"
+      clothing: "Simple 1970s casual wear - button-down shirts, dark trousers, sometimes white lab coat during medical examinations"
+      position: "Standing at workbench operating power saw"
+      action: "Carefully cutting airplane wing into smaller sections, wearing safety goggles"
+  scene:
+    mainElements: "Heavy wooden workbench, electric power saw, metal cutting tools, safety equipment"
+    details: "Electric power saw with metal cutting blade, various hand tools for disassembly, safety goggles and gloves scattered on workbench, airplane wing section being cut, metal shavings accumulating on floor, sparks from cutting operation"
+    background: "Workshop walls with tool storage, windows showing natural daylight, metal storage racks"
+    atmosphere: "Industrial setting with metal shavings, sound of cutting tools, focused work environment"
+  composition:
+    cameraAngle: "Medium shot focusing on work area"
+    focus: "Character operating power saw on airplane wing section"
+    depth: "Foreground: cutting operation and sparks, middle ground: character and workbench, background: workshop setting and tool storage, no text or letters visible"

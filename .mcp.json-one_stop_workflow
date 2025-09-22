@@ -5,9 +5,9 @@
       "command": "npx",
       "args": [
         "@playwright/mcp@latest",
-        "--headless",
         "--user-data-dir=/home/xai/DEV/ms-playwright/mcp-chrome-profile-1",
         "--no-sandbox",
+        "--headless",
         "--device=Galaxy S24",
         "--output-dir=/tmp/playwright-mcp-files/headless",
         "--save-session",

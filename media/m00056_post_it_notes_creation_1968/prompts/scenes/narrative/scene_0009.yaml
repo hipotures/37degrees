@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Production Development Challenges"
+  setting:
+    time: "1977, afternoon"
+    location: "3M Research Laboratory and prototype manufacturing area, St. Paul, Minnesota"
+    weather: "Cloudy afternoon with industrial lighting throughout facility"
+  characters:
+    - appearance: "Caucasian man, mid 40s, medium build, receding hairline with dark hair, warm expression with gentle eyes, friendly demeanor"
+      clothing: "1970s business casual attire - dress shirt with tie, sometimes cardigan sweater"
+      position: "Standing beside prototype manufacturing equipment"
+      action: "Examining production samples, discussing manufacturing challenges with engineers, testing adhesive consistency on sample batches"
+    - appearance: "Caucasian man, early 30s, average height, dark brown hair neatly parted, intelligent brown eyes behind thick-rimmed glasses, clean-shaven with serious expression"
+      clothing: "1970s business casual attire - dress shirt with tie"
+      position: "Working at laboratory bench with adhesive formulations"
+      action: "Adjusting adhesive chemistry for mass production, testing different paper substrates, ensuring quality control of adhesive application"
+    - appearance: "Mixed group of Caucasian men and women, ages 25-55, engineers and technicians"
+      clothing: "Work clothes appropriate for manufacturing environment - lab coats, safety equipment"
+      position: "Operating prototype machinery and testing equipment"
+      action: "Running production tests, calibrating equipment, solving technical problems with adhesive application and paper cutting"
+  scene:
+    mainElements: "Industrial research and development facility with prototype manufacturing equipment, testing stations, quality control areas, 1960s scientific apparatus including glass beakers, test tubes, microscopes, chemical measuring devices, heating elements, and safety equipment."
+    details: "Complex machinery for applying adhesive to paper substrates, various sizes and colors of prototype sticky notes including the characteristic canary yellow samples, technical drawings and specifications on walls, multiple iterations of products showing development progression, testing materials scattered throughout workspace."
+    background: "Industrial manufacturing environment with larger production equipment in background, corporate facility with research and development areas, windows showing industrial complex, quality control stations with measurement devices"
+    atmosphere: "Intensive problem-solving environment focused on transforming laboratory discovery into manufacturable product, sense of technical challenges being systematically overcome, anticipation of commercial breakthrough, professional engineering atmosphere with emphasis on precision and quality, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing multiple workstations and the complexity of production development"
+    focus: "Both main characters working with technical team to solve manufacturing challenges"
+    depth: "Characters and immediate production equipment in foreground, prototype machinery and testing stations in middle ground, broader manufacturing facility in background"

@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Earth's True Shape from Space"
+  setting:
+    time: "Modern era, daylight"
+    location: "Conceptual view showing Earth's interior structure and shape"
+    weather: "Space environment"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Earth's layers visible, equatorial bulge apparent, comparative distance measurements showing the planet's oblate spheroid shape rather than perfect sphere"
+    details: "Earth viewed from space showing subtle but crucial equatorial bulge, with cross-sectional diagram revealing internal structure, measurement lines indicating distance from center to surface at equator versus poles, no text or letters visible"
+    background: "Deep space with stars, showing Earth's position in solar system"
+    atmosphere: "Educational diagram showing Earth's true oblate spheroid shape with scientific precision"
+  composition:
+    cameraAngle: "Wide orbital perspective showing full Earth"
+    focus: "Earth's equatorial bulge and shape comparison"
+    depth: "Earth in middle ground, space in background, measurement indicators in foreground"

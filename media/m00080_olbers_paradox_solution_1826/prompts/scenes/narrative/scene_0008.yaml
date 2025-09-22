@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Academic presentation - the paradox revealed"
+  setting:
+    time: "1826, afternoon"
+    location: "University lecture hall with tiered wooden seating, Göttingen or Bremen, 1826"
+    weather: "Overcast afternoon indoors"
+  characters:
+    - appearance: "German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom"
+      clothing: "1820s formal black academic dress coat with high collar"
+      position: "Standing at wooden podium before seated colleagues"
+      action: "Presenting cosmic paradox to assembly of scientists and astronomers, gesturing toward diagrams"
+  scene:
+    mainElements: "Wooden podium with speaker addressing seated academic audience, blackboard with astronomical diagrams, formal university setting"
+    details: "Tiered wooden benches filled with men in academic dress, wooden podium with brass fittings, large slate blackboard showing stellar distribution diagrams, oil lamps providing indoor lighting, Hand-drawn star maps on parchment showing constellation patterns displayed on easel, formal academic atmosphere with attentive scholars"
+    background: "Classical university architecture with tall windows, portraits of distinguished academics, wooden wainscoting and formal academic furnishings"
+    atmosphere: "Scholarly presentation of groundbreaking discovery, intellectual excitement among academic colleagues, formal scientific discourse about fundamental cosmic questions, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from back of lecture hall"
+    focus: "character_HO presenting at podium with audience of academics"
+    depth: "Foreground shows seated audience in tiered benches, middle ground centers on speaker at podium, background reveals university architecture and blackboard"

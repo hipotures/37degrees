@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Infamous Caesar's Palace Crash"
+  setting:
+    time: "December 31, 1967, afternoon"
+    location: "Caesar's Palace parking lot, Las Vegas"
+    weather: "Clear desert day"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns"
+      clothing: "Red, white and blue leather jumpsuit with stars and stripes, white helmet with eagle emblem, white leather boots"
+      position: "Airborne on motorcycle, mid-jump over fountains"
+      action: "Flying through air on motorcycle, reaching for handlebars after losing control"
+  scene:
+    mainElements: "Classic Harley Davidson motorcycle, chrome exhaust pipes, custom paint job, high handlebars, powerful engine captured mid-flight over ornate casino fountains"
+    details: "Dramatic moment of motorcycle and rider airborne over elaborate water fountains, crowd gathered behind barriers, casino building facade with Roman columns, dust cloud from takeoff ramp, no text or letters visible"
+    background: "Caesar's Palace building with Roman architecture, crowded parking lot, desert mountains in distance"
+    atmosphere: "Peak danger and spectacle, moment of triumph turning to disaster, high-stakes Las Vegas showmanship"
+  composition:
+    cameraAngle: "Wide action shot capturing full jump trajectory"
+    focus: "Character EK and motorcycle frozen in mid-air over fountains"
+    depth: "Fountains in foreground, airborne motorcycle in middle ground, casino building in background"

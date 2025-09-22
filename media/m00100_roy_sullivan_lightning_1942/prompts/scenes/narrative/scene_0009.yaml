@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Documentation and Recognition - Guinness Record"
+  setting:
+    time: "1977, autumn"
+    location: "Park superintendent office in Shenandoah National Park"
+    weather: "Clear day for official documentation"
+  characters:
+    - appearance: "American man, 50s, park superintendent bearing, administrative appearance, concerned expression"
+      clothing: "Park Service supervisor uniform with official insignia, formal ranger attire"
+      position: "Sitting at desk with official documentation"
+      action: "Administrative authority, reviewing and documenting extraordinary lightning survival record"
+    - appearance: "American man, 65, brawny build resembling Gene Hackman, rugged weathered face, now famous but isolated"
+      clothing: "US Park Service uniform with ranger hat, work boots, utility belt, carrying water can"
+      position: "Standing in office for official record documentation"
+      action: "Ranger bearing but increasingly cautious, being interviewed about extraordinary survival experiences"
+  scene:
+    mainElements: "Official park service documentation of seven lightning strikes with medical reports and incident records"
+    details: "Official park service documentation of lightning strike incidents spread across desk, medical reports confirming all seven electrical encounters, Guinness World Records correspondence recognizing survival achievement, photographs of lightning damage and burn injuries, official verification of extraordinary phenomenon"
+    background: "Park superintendent office with Shenandoah National Park maps and official government materials"
+    atmosphere: "Official recognition of extraordinary survival phenomenon, documentation of world record achievement, scientific interest in unprecedented lightning attraction, transformation from local curiosity to international recognition, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing official documentation process"
+    focus: "Official recognition of world record lightning survival"
+    depth: "Documentation meeting in foreground, park office in middle ground, Shenandoah wilderness views in background"

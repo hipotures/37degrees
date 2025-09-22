@@ -1,0 +1,12 @@
+media_info:
+  title: Monty Hall Three-Door Probability Paradox - 1975
+  year: 1975
+  genre: Mathematics & Logic Documentary
+  description: Counterintuitive probability puzzle where switching doors gives 667% chance versus 333%
+  target_audience: General public, students, mathematics enthusiasts, logic puzzle buffs
+  duration: ~3 minutes
+  objective: Recreate the mind-bending probability puzzle that challenges human intuition about statistics
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

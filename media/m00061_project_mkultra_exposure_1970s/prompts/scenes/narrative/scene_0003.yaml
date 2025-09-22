@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Tragic Death at Hotel Statler"
+  setting:
+    time: "November 28, 1953, night"
+    location: "Hotel Statler, midtown Manhattan, New York City, 1953"
+    weather: "Cold winter night, clear sky"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, average build, short dark hair, serious expression, clean-shaven"
+      clothing: "1950s dark suit with white shirt and narrow tie"
+      position: "Standing inside hotel room near window"
+      action: "Looking out window at city street below, appearing alert but troubled"
+  scene:
+    mainElements: "Multi-story hotel building facade with lit windows, guest room interior visible, busy Manhattan street below with 1950s automobiles and pedestrians"
+    details: "Hotel room window frame prominent in composition, city lights reflecting on glass. Street level far below showing vintage cars, street lamps, and late-night pedestrians. Hotel room interior partially visible with period furniture, lamp lighting, and shadows. Window curtains partially drawn."
+    background: "Manhattan skyline with illuminated building windows, urban architecture of 1950s New York, busy street scene with period vehicles and clothing"
+    atmosphere: "Dark, ominous urban setting with sense of tragedy and mystery, dramatic height perspective emphasizing danger and isolation, no text or letters visible"
+  composition:
+    cameraAngle: "High angle looking down from hotel window perspective"
+    focus: "Dramatic vertical perspective showing dangerous height from hotel window to street below"
+    depth: "Hotel room interior in foreground, building facade in middle ground, street scene far below in background"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "New Bypass Road Construction 2000s"
+  setting:
+    time: "2006, midday"
+    location: "New bypass road construction site, adjacent mountain range to original Death Road, Bolivia"
+    weather: "Clear sunny day perfect for construction work"
+  characters:
+    - appearance: "Local Bolivian man, 40s, weathered face from mountain work, strong build, dark hair"
+      clothing: "Traditional Bolivian work clothes - worn denim jacket, wool sweater, heavy boots"
+      position: "Standing beside modern construction equipment"
+      action: "Coordinating with construction crews building safer alternative route"
+    - appearance: "Construction supervisor, 40s, hard hat, professional appearance, measuring tools"
+      clothing: "Modern work uniform - safety vest, hard hat, steel-toed boots"
+      position: "Reviewing construction plans"
+      action: "Pointing toward new road alignment that avoids most dangerous sections"
+  scene:
+    mainElements: "Modern road construction with proper engineering - bridges, drainage, guardrails being installed"
+    details: "Heavy construction machinery, concrete barriers being installed, proper drainage systems, multiple lanes being paved, guardrails and safety features, surveying equipment marking safer route through mountains"
+    background: "Original Death Road visible on opposite mountainside, showing contrast between old and new"
+    atmosphere: "Progress and hope, modern engineering solving historical problem"
+  composition:
+    cameraAngle: "Wide shot showing scale of new construction project"
+    focus: "Modern road construction creating safer alternative to Death Road"
+    depth: "Construction activity in foreground, new road taking shape in middle ground, old dangerous road visible in background, no text or letters visible"

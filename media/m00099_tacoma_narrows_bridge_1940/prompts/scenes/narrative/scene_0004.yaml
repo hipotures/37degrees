@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "November 7, 1940 - Morning Winds Begin"
+  setting:
+    time: "November 7, 1940, early morning"
+    location: "Tacoma Narrows Bridge as winds intensify"
+    weather: "Building wind conditions reaching 40 mph"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Bridge beginning to exhibit more extreme movement as wind speeds increase beyond normal oscillation"
+    details: "Wind gusts causing bridge deck to move more violently than usual morning traffic patterns, early commuters still crossing bridge unaware of developing danger, bridge structure responding to aerodynamic forces with increasing amplitude, suspension system under growing stress from wind interaction"
+    background: "Puget Sound waters showing whitecaps from increasing wind, Pacific Northwest forest swaying in strong gusts, storm clouds beginning to gather"
+    atmosphere: "Natural forces building toward engineering disaster, morning routine about to become historic catastrophe, aerodynamic instability reaching critical threshold, peaceful Pacific Northwest becoming scene of destruction, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing bridge in increasingly windy conditions"
+    focus: "Building wind forces that will trigger bridge collapse"
+    depth: "Bridge structure in foreground, wind-swept Puget Sound in middle ground, stormy Pacific Northwest sky in background"

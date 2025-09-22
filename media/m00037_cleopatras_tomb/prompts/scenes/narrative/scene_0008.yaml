@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Expert Controversy - The Disputed Marble Bust"
+  setting:
+    time: "December 2024, afternoon in archaeological laboratory"
+    location: "Modern archaeological examination facility in Egypt"
+    weather: "Indoor controlled environment with bright laboratory lighting"
+  characters:
+    - appearance: "Middle-aged Latina woman, 5'6\", dark hair, determined expression, wearing practical field clothes"
+      clothing: "Professional white lab coat over khaki field clothes, protective gloves"
+      position: "Standing beside examination table with marble artifact"
+      action: "Pointing to features on the marble bust with enthusiasm and conviction"
+    - appearance: "Elderly Egyptian man, distinctive mustache, authoritative presence, 70s"
+      clothing: "Trademark fedora hat, white shirt, khaki vest, professional archaeological attire"
+      position: "Standing with arms crossed in skeptical posture"
+      action: "Examining the bust with critical expression, shaking head in disagreement"
+  scene:
+    mainElements: "White marble bust, royal crown, approximately 2 feet tall on examination table, modern archaeological laboratory equipment, computer monitors, reference materials"
+    details: "Bright laboratory lighting illuminating every detail of the marble sculpture, high-tech measuring and analysis equipment, computer screens displaying archaeological databases, protective foam padding around artifacts, magnifying equipment, scholarly reference books and journals scattered on nearby tables"
+    background: "Modern laboratory with stainless steel surfaces, fluorescent lighting, storage cabinets with archaeological specimens"
+    atmosphere: "Tense academic disagreement, scientific precision contrasted with passionate debate, bright sterile environment emphasizing careful examination, conflict between archaeological interpretation and expert skepticism"
+  composition:
+    cameraAngle: "Medium shot capturing both experts and the disputed artifact"
+    focus: "Disputed marble bust on examination table with two experts in heated discussion"
+    depth: "Characters and bust in foreground, laboratory equipment in middle ground, sterile lab environment in background, no text or letters visible"

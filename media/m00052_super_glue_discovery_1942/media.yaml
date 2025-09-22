@@ -1,0 +1,12 @@
+media_info:
+  title: Super Glue Accidental Discovery - 1942
+  year: 1942
+  genre: Science & Technology Documentary
+  description: Dr Harry Coover discovers cyanoacrylate while searching for transparent plastic for gun sights
+  target_audience: General public, students, science enthusiasts, inventors
+  duration: ~3 minutes
+  objective: Recreate the wartime laboratory accident that led to the creation of super glue
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

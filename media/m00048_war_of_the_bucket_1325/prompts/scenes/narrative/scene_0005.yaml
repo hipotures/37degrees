@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Bolognese Army Marches Through Countryside"
+  setting:
+    time: "November 1325, midday"
+    location: "Northern Italian landscape between Bologna and Modena, 14th century"
+    weather: "Overcast autumn day with scattered clouds"
+  characters:
+    - appearance: "Italian man, 20s-30s, determined face, muscular build"
+      clothing: "Red tunic with Bologna coat of arms, chainmail, steel helmet"
+      position: "Marching in long columns across countryside roads, some mounted"
+      action: "Moving in organized military formation toward Modena territory, carrying weapons and supplies"
+    - appearance: "Italian man, 40s, stern weathered face, prominent nose, dark beard"
+      clothing: "Red and gold Bolognese military surcoat over chainmail, steel helmet with plume"
+      position: "Leading the massive army on horseback at the front of the column"
+      action: "Guiding the enormous force across the landscape with confident military bearing"
+  scene:
+    mainElements: "Rolling hills, vineyards, olive groves, scattered medieval villages"
+    details: "Long columns of 32,000 soldiers stretching across multiple hills and valleys, supply wagons creating dust clouds on dirt roads, Heraldic banners of Bologna (red) displaying city arms carried by standard bearers throughout the column, horses and riders interspersed among foot soldiers, Crossbows, spears, swords, maces typical of 14th century warfare carried by marching troops"
+    background: "Peaceful rural setting of medieval Emilia-Romagna region, distant villages and farmhouses, autumn vineyards and olive groves"
+    atmosphere: "Massive military movement across peaceful countryside, contrast between pastoral landscape and army of war"
+  composition:
+    cameraAngle: "Aerial view showing the enormous scale of the marching army"
+    focus: "The impressive length and organization of Bologna's military column"
+    depth: "Foreground: leading elements of army, Middle: vast columns stretching across hills, Background: Italian countryside landscape, no text or letters visible"

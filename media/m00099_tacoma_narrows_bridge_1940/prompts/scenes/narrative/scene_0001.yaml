@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Engineering Ambition - Bridge Design Phase"
+  setting:
+    time: "1938, autumn"
+    location: "Engineering office in New York City"
+    weather: "Clear autumn day in urban setting"
+  characters:
+    - appearance: "American man, 60s, distinguished engineer appearance, gray hair, authoritative bearing"
+      clothing: "1940s formal engineering suit with tie, carrying rolled engineering plans"
+      position: "Standing at drafting table with bridge blueprints"
+      action: "Professional engineering confidence, studying innovative bridge plans with satisfaction"
+  scene:
+    mainElements: "Engineering office with detailed suspension bridge blueprints, calculations, and design innovations"
+    details: "Detailed engineering drawings of narrow suspension bridge design, mathematical calculations for unprecedented span length, innovative shallow girder specifications, cost-saving design elements, drafting tools and engineering instruments, bridge model on display table"
+    background: "Professional engineering office with technical reference books, other bridge projects, New York cityscape through windows"
+    atmosphere: "Confident engineering innovation pushing boundaries of suspension bridge design, pursuit of elegance and economy over safety factors, revolutionary approach to long-span bridges, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing engineering design process"
+    focus: "Innovative but ultimately flawed bridge design philosophy"
+    depth: "Engineer and blueprints in foreground, engineering office in middle ground, city views in background"

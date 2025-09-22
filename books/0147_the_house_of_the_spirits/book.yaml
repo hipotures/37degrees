@@ -4,3 +4,174 @@ book_info:
   author: "Isabel Allende"
   year: 1982
   genre: "Magical realism,Family saga"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T15:30:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 6
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 8
+    structural_complexity: 7
+    social_roles: 9
+    total: 60
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.2
+      category: "high"
+    heat:
+      value: 6.8
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "feminist_resistance"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Three generations of women (Clara, Blanca, Alba) represent evolution from silent resistance to active rebellion against patriarchal oppression"
+        source: "symbols_meanings"
+      - id: "generational_trauma"
+        type: "FACT"
+        credibility: 0.95
+        content: "Cycle of violence from Esteban's rape of Pancha Garcia to Esteban Garcia's torture of Alba demonstrates inherited trauma patterns"
+        source: "dark_drama"
+      - id: "political_prophecy"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Novel written 1981 literally predicted Chilean political events with prophetic accuracy, including coup details"
+        source: "reality_wisdom"
+      - id: "magical_realism_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "First major magical realist work by a woman, revolutionized genre with feminist perspective and 39 documented innovations"
+        source: "writing_innovation"
+      - id: "memory_preservation"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Clara's notebooks and Alba's final narrative represent writing as resistance against historical erasure and authoritarian forgetting"
+        source: "symbols_meanings"
+      - id: "class_struggle_allegory"
+        type: "FACT"
+        credibility: 0.95
+        content: "Tres Marias estate represents microcosm of feudal exploitation, Chilean class divisions, and revolutionary transformation"
+        source: "facts_history"
+      - id: "contemporary_trauma_healing"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "TikTok trends #GenerationalTrauma (5.1M) and #FeminineRage (116.9M) show novel's relevance to modern therapy culture"
+        source: "youth_digital"
+      - id: "censorship_resistance"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Multiple bans in Chile, US schools, and religious objections demonstrate continued power to challenge authority"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "Introduced magical realism to English-speaking world, established feminist voice in translated literature"
+        key_editions: ["Alfred A. Knopf 1985", "Penguin Random House editions"]
+        reception_notes: "Instant bestseller, Academic curriculum staple, Film adaptation controversy"
+        educational_status: "International Baccalaureate recognized, AP curriculum inclusion"
+        local_themes: ["Latin American politics education", "Magical realism literary technique", "Feminist canon establishment"]
+      pl:
+        cultural_impact: "Strong resonance with post-communist trauma and authoritarian resistance experiences"
+        key_editions: ["PIW translations", "Educational series editions"]
+        reception_notes: "Popular in schools, TikTok youth engagement, Historical parallels appreciated"
+        educational_status: "High school curriculum inclusion"
+        local_themes: ["Post-communist readings", "Solidarity movement parallels", "Generational trauma processing"]
+      de:
+        cultural_impact: "Academic analysis tradition, philosophical interpretation emphasis"
+        key_editions: ["Suhrkamp Verlag", "Reclam editions", "University editions"]
+        reception_notes: "Strong scholarly tradition, Critical analysis focus"
+        educational_status: "University literature programs"
+        local_themes: ["Philosophical depth analysis", "Psychoanalytic interpretations", "Literary theory applications"]
+      fr:
+        cultural_impact: "Grand Prix D'Evasion winner, Literary sophistication appreciated"
+        key_editions: ["Fayard editions", "Gallimard translations"]
+        reception_notes: "Critical acclaim, Intellectual appreciation"
+        educational_status: "University comparative literature"
+        local_themes: ["Literary technique mastery", "Narrative innovation analysis", "Feminist literary theory"]
+      es:
+        cultural_impact: "Direct connection to original Spanish, Highest authenticity appreciation"
+        key_editions: ["Plaza y Janés original", "Sudamericana editions"]
+        reception_notes: "Cultural authenticity valued, Political resonance strong"
+        educational_status: "Native literature curriculum"
+        local_themes: ["Original language appreciation", "Latin American identity", "Historical authenticity"]
+      pt:
+        cultural_impact: "Brazilian and Portuguese reception, Colonial history parallels"
+        key_editions: ["Portuguese translations", "Brazilian editions"]
+        reception_notes: "Colonial experience resonance, Political parallels"
+        educational_status: "Postcolonial studies inclusion"
+        local_themes: ["Colonial critique understanding", "Authoritarian resistance", "Magical realism tradition"]
+      ja:
+        cultural_impact: "Eastern philosophical interpretations, Ancestor worship parallels"
+        key_editions: ["Japanese translations", "Academic editions"]
+        reception_notes: "Spiritual elements appreciation, Family continuity themes"
+        educational_status: "Comparative literature programs"
+        local_themes: ["Ancestor reverence parallels", "Spiritual continuity", "Family honor concepts"]
+      ko:
+        cultural_impact: "Political oppression resonance, Generational trauma understanding"
+        key_editions: ["Korean translations", "Student editions"]
+        reception_notes: "Military dictatorship parallels, Democratic struggle appreciation"
+        educational_status: "Modern literature curriculum"
+        local_themes: ["Military dictatorship parallels", "Democratic transition", "Family loyalty concepts"]
+      hi:
+        cultural_impact: "Spiritual traditions resonance, Women's strength celebration"
+        key_editions: ["Hindi translations", "Regional language versions"]
+        reception_notes: "Spiritual elements natural fit, Women's power appreciation"
+        educational_status: "World literature inclusion"
+        local_themes: ["Spiritual power concepts", "Women's inner strength", "Cyclical time understanding"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "feminist_magical_realism_thesis"
+          lead: "host_a"
+          description: "Establishing Allende's revolutionary contribution to magical realism through feminist lens"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "structural_innovation_analysis"
+          lead: "host_b"
+          description: "Examining multi-voice narrative and temporal complexity techniques"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "political_allegory_examination"
+          lead: "host_a"
+          description: "Analyzing Chilean history allegory and prophetic accuracy"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "generational_trauma_theory"
+          lead: "host_b"
+          description: "Exploring psychological patterns and cyclical violence themes"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "contemporary_relevance_synthesis"
+          lead: "host_a"
+          description: "Connecting novel's themes to current trauma healing and feminist movements"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'The House of the Spirits' with scholarly depth. Discuss structure, symbolism, literary techniques, and feminist magical realism innovation. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility for general audience."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["domestic violence", "political themes", "sexual violence discussion", "torture references"]
+    educational_elements: ["Magical realism genre characteristics", "Historical context of 1970s Chile", "Feminist literary theory", "Narrative innovation techniques"]
+    production_notes:
+      intro_style: "Academic introduction with gravity befitting foundational feminist text"
+      transitions: "Scholarly musical bridges"
+      outro_style: "Reflective conclusion emphasizing enduring academic significance"
+
+  overall_confidence: 0.9

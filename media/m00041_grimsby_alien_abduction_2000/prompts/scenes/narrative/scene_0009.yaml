@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "BUFORA Research Center Discussion"
+  setting:
+    time: "2000 era, conference setting"
+    location: "BUFORA research center, London area office building"
+    weather: "Interior environment, not applicable"
+  characters:
+    - appearance: "Middle-aged woman, professional appearance, graying hair, intelligent eyes"
+      clothing: "Business casual attire, navy blazer, academic conference clothing"
+      position: "Seated at conference table or standing at podium"
+      action: "Discussing UFO research methodology, advocating scientific skepticism"
+  scene:
+    mainElements: "Conference room with tables, filing cabinets, research materials, meeting facilities"
+    details: "Professional woman in navy blazer standing at conference table, research documents spread across table, filing cabinets with case files, fluorescent lighting, academic meeting atmosphere, other researchers seated around table taking notes"
+    background: "Professional office environment, academic research atmosphere"
+    atmosphere: "Scholarly skepticism, evidence-based methodology, scientific caution, professional research environment, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot from conference room doorway"
+    focus: "Woman presenting to conference table of researchers"
+    depth: "Foreground: conference table edge, middle: presenting researcher, background: filing cabinets and office equipment"

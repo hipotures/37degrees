@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Summer Solstice Sunrise Alignment Verification"
+  setting:
+    time: "2480 BCE, dawn during summer solstice - critical for alignment verification"
+    location: "Circular arrangement of massive trilithons on Salisbury Plain, Wiltshire, England, precisely aligned earthwork platform"
+    weather: "Clear skies essential for astronomical observations, typical Neolithic climate warmer than today"
+  characters:
+    - appearance: "Elderly with white beard, deep-set eyes from night observations, slight build, ceremonial bearing"
+      clothing: "Finest woven robes with astronomical symbols, amber beads indicating high status, feathered headdress for ceremonies"
+      position: "Standing at observation points, often with arms raised toward sky"
+      action: "Pointing toward celestial phenomena, marking positions with carved sticks, maintaining solemn reverence during observations"
+  scene:
+    mainElements: "Massive unworked sarsen boulder weighing 30 tons positioned outside northeast entrance, summer solstice sunrise creating perfect alignment through monument center, dramatic light shaft penetrating trilithon horseshoe"
+    details: "Massive unworked sarsen boulder, 30 tons, positioned outside northeast entrance, natural shape preserved, precise positioning for summer solstice sunrise alignment, weathered surface with lichen growth. Golden sunlight streaming between uprights, shadows cast by trilithons creating precise geometric patterns, light illuminating central altar area. Astronomer-priest tracking sun's position with carved observation sticks, marking stone positions, ritual calculations using stone markers"
+    background: "Rolling chalk downland of Salisbury Plain, distant horizon visible in all directions, ceremonial avenue extending northeast"
+    atmosphere: "Sacred silence broken only by wind through stones, dramatic shadows changing with sun position, sense of ancient purpose and astronomical precision. Moment of cosmic validation, perfect alignment confirming architectural success, spiritual significance of light penetrating sacred space"
+  composition:
+    cameraAngle: "Positioned to show alignment between Heel Stone, trilithons, and rising sun"
+    focus: "Shaft of sunlight illuminating monument interior at perfect moment"
+    depth: "Foreground shows Heel Stone framing sunrise, middle ground reveals light passing through trilithons, background shows monument interior being illuminated, no text or letters visible"

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: August 1859, evening
+    location: Waters surrounding San Juan Island
+    weather: Overcast evening with choppy seas
+  characters:
+  - appearance: British man, 45, naval beard, weathered sea captain appearance, commanding presence
+    clothing: Royal Navy uniform with gold braid, white naval cap, brass buttons
+    position: Standing on warship bridge
+    action: Naval authority, studying American positions through telescope, directing fleet positioning
+  scene:
+    mainElements: 5 British warships anchored in island waters, multiple masts, naval flags flying
+    details: Royal Navy fleet positioned strategically around San Juan Island, warships with multiple cannon ports visible,
+      Union Jack flags flying prominently, sailors on deck preparing for potential action, signal flags being hoisted between
+      ships, naval officers studying American positions through telescopes
+    background: San Juan Island with American military positions visible on shore, Vancouver Island in distance, dramatic
+      Pacific Northwest seascape
+    atmosphere: British naval power responding to American military presence, international naval standoff developing, empire
+      defending territorial claims through show of force, no text or letters visible
+  composition:
+    cameraAngle: Wide shot from sea level showing British naval presence
+    focus: Royal Navy fleet surrounding disputed island
+    depth: British warships in foreground, San Juan Island in middle ground, surrounding Pacific waters in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

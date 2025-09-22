@@ -1,0 +1,87 @@
+canon:
+  characters:
+    - id: "character_VD"
+      name: "Character VD"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 38 years old, dark hair slicked back, intense focused eyes behind wire-rim glasses, scholarly demeanor"
+            clothing: "White laboratory coat over dark suit vest and white shirt, medical gloves, professional surgical attire"
+            posture: "Methodical and precise, often leaning over examination table or adjusting medical instruments"
+    - id: "character_AS1"
+      name: "Character AS1"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 45 years old, graying temples, serious expression, medical professional bearing"
+            clothing: "White laboratory coat, dark trousers, medical cap, sterile surgical mask around neck"
+            posture: "Observant stance, often standing with clipboard or taking notes, professional demeanor"
+    - id: "character_AS2"
+      name: "Character AS2"
+      description_block: |
+        characters:
+          - appearance: "Caucasian woman, 35 years old, brown hair pinned back, attentive expression, medical professional"
+            clothing: "White nursing uniform, medical cap, practical flat shoes, sterile gloves"
+            posture: "Attentive and ready to assist, often preparing medical instruments or monitoring equipment"
+    - id: "character_AS3"
+      name: "Character AS3"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 42 years old, balding with thick mustache, studious appearance, academic bearing"
+            clothing: "Dark suit with vest, white shirt, tie, occasionally white laboratory coat for observations"
+            posture: "Scholarly observer, often holding pen and notepad, standing at distance to document procedures"
+  locations:
+    - id: "moscow_surgical_institute"
+      name: "Moscow Surgical Institute"
+      description_block: |
+        setting:
+          location: "Moscow Institute of Surgery, main laboratory complex, Soviet Union"
+        mainElements: "Large institutional brick building with multiple stories, Soviet architectural style from 1940s-1950s"
+        atmosphere: "Austere medical facility with serious academic atmosphere, cold Moscow winter setting"
+    - id: "main_operating_theater"
+      name: "Main Operating Theater"
+      description_block: |
+        setting:
+          location: "Sterile surgical operating room, Moscow Institute of Surgery"
+        mainElements: "White tiled walls, bright overhead surgical lamps, metal operating table, medical equipment cabinets"
+        atmosphere: "Clinical sterile environment with intense focused lighting, serious medical atmosphere"
+    - id: "laboratory_preparation_room"
+      name: "Laboratory Preparation Room"
+      description_block: |
+        setting:
+          location: "Medical preparation laboratory, Moscow Institute of Surgery"
+        mainElements: "Metal tables with medical instruments, glass cabinets with supplies, monitoring equipment"
+        atmosphere: "Organized medical workspace with methodical scientific atmosphere"
+    - id: "observation_room"
+      name: "Observation Room"
+      description_block: |
+        setting:
+          location: "Medical observation chamber with viewing window, Moscow Institute of Surgery"
+        mainElements: "Glass partition window, rows of chairs, note-taking desks, medical charts on walls"
+        atmosphere: "Academic observation space with serious scholarly environment"
+    - id: "animal_recovery_area"
+      name: "Animal Recovery Area"
+      description_block: |
+        setting:
+          location: "Medical recovery room for experimental animals, Moscow Institute of Surgery"
+        mainElements: "Metal cages with clean bedding, monitoring equipment, temperature controls, medical observation setup"
+        atmosphere: "Controlled medical environment for post-operative care and monitoring"
+  items:
+    - id: "surgical_instruments_set"
+      name: "Surgical Instruments Set"
+      description_block: |
+        details: "Precise steel surgical instruments including scalpels, forceps, clamps, and sutures laid out on sterile metal tray"
+    - id: "monitoring_equipment_1950s"
+      name: "1950s Monitoring Equipment"
+      description_block: |
+        details: "Early medical monitoring devices including basic heart rate monitors, temperature gauges, and pressure measurement tools typical of 1950s Soviet medical technology"
+    - id: "medical_documentation"
+      name: "Medical Documentation"
+      description_block: |
+        details: "Scientific notebooks, medical charts, and documentation papers with handwritten observations and measurements, no text or letters visible"
+    - id: "laboratory_glassware"
+      name: "Laboratory Glassware"
+      description_block: |
+        details: "Medical laboratory equipment including glass beakers, test tubes, measurement containers, and scientific apparatus for medical procedures"
+    - id: "surgical_lighting_system"
+      name: "Surgical Lighting System"
+      description_block: |
+        details: "Bright overhead surgical lamps with adjustable positioning arms, providing intense focused illumination for medical procedures"

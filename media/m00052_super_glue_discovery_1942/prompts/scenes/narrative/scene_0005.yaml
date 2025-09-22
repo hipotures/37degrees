@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Accidental Discovery Moment"
+  setting:
+    time: "1942, late evening"
+    location: "Eastman Kodak Company research laboratory, Rochester, New York"
+    weather: "Dark night outside, bright laboratory lighting creating dramatic contrast"
+  characters:
+    - appearance: "Caucasian man, 25 years old, dark brown hair, medium build, focused expression, intelligent eyes behind wire-rimmed glasses"
+      clothing: "1940s white laboratory coat over dark suit and tie, black leather shoes"
+      position: "Standing at workbench with surprised expression, holding glass stirring rod"
+      action: "Attempting to separate glass stirring rod that has become permanently bonded to beaker by cyanoacrylate compound"
+    - appearance: "Caucasian man, 30s, light brown hair, tall and lanky, serious demeanor"
+      clothing: "White laboratory coat over brown trousers and light blue shirt, no tie"
+      position: "Standing nearby observing with concerned expression"
+      action: "Watching the unexpected bonding effect while taking notes of the phenomenon"
+  scene:
+    mainElements: "Collection of glass beakers, test tubes, graduated cylinders, and stirring rods, some accidentally bonded together by adhesive compound"
+    details: "Glass stirring rod permanently stuck to glass beaker containing cyanoacrylate, clear viscous compound creating incredibly strong bond between glass surfaces, other laboratory glassware showing similar unexpected adhesive effects, impossible to separate bonded equipment, compound adhering to everything it contacts"
+    background: "Laboratory equipment and chemical storage visible in background, overhead lighting creating sharp shadows, night visible through windows"
+    atmosphere: "Moment of scientific surprise and confusion, realization that something completely unexpected has occurred, mixture of frustration at ruined equipment and curiosity about discovery, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from slight low angle"
+    focus: "Character HC holding bonded glass equipment with expression of surprise and growing realization"
+    depth: "Foreground shows bonded laboratory glassware in detail, middle ground captures characters' reactions, background provides laboratory context"

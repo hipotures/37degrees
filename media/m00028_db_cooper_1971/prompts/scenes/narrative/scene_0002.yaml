@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Man reveals bomb threat to flight attendant during flight"
+  setting:
+    time: "November 24, 1971, 3:12 PM"
+    location: "Interior of Northwest Orient Flight 305, Boeing 727 aircraft in flight over Washington State"
+    weather: "Clear flying conditions at cruising altitude"
+  characters:
+    - appearance: "White man, mid-40s, 6 feet tall, 180 pounds, olive complexion with Latin appearance, dark hair with marcel waves, brown eyes"
+      clothing: "Black business suit, white dress shirt, thin black clip-on tie from J.C. Penney with imitation pearl tie pin, black raincoat, brown leather shoes"
+      position: "Seated in seat 18C, leaning slightly toward flight attendant"
+      action: "Calmly opening briefcase to show contents while speaking quietly to flight attendant"
+    - appearance: "23-year-old woman, attractive brunette, petite build"
+      clothing: "Northwest Orient flight attendant uniform - navy blue dress with white collar and cuffs, small hat, company pin"
+      position: "Standing in aisle next to man's seat in 18C, leaning down to see briefcase contents"
+      action: "Looking into briefcase with serious expression, reading folded note in her hand"
+  scene:
+    mainElements: "1970s commercial aircraft interior with narrow-body jet, 3-2 seating configuration, seat 18C, aft galley area, rear stairs mechanism, overhead bins, blue and gray period interior"
+    details: "Open briefcase revealing red cylindrical objects with wires and battery, bourbon and 7-Up on tray table, Raleigh cigarette in ashtray, other passengers visible in background unaware of situation"
+    background: "Aircraft cabin with other passengers reading magazines, looking out windows, flight attendant call buttons, overhead compartments, aircraft interior lighting"
+    atmosphere: "Tense moment of revelation contrasting with man's calm demeanor and normal flight operations continuing around them, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot focusing on man, flight attendant, and open briefcase"
+    focus: "The moment of threat revelation shown through flight attendant's serious expression and briefcase contents"
+    depth: "Foreground shows man and flight attendant interaction, middle ground displays briefcase contents, background reveals normal aircraft cabin activity"

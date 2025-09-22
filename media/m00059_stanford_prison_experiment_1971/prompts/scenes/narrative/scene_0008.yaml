@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "External Observer Confronts Unethical Experiment Conditions"
+  setting:
+    time: "August 19, 1971, evening"
+    location: "Stanford University psychology department office, Jordan Hall, California"
+    weather: "Interior office environment with evening lighting"
+  characters:
+    - appearance: "Woman, late 20s, dark hair, concerned expression, professional appearance"
+      clothing: "1970s professional attire, blouse and skirt, carrying notebook"
+      position: "Standing across from desk with concerned posture"
+      action: "Alert and observant, taking notes, showing visible concern for participants"
+    - appearance: "Caucasian man, late 30s, beard, dark hair, intense gaze, intellectual appearance"
+      clothing: "1970s casual academic attire, button-down shirt, dark slacks, sometimes white lab coat"
+      position: "Sitting behind desk looking defensive"
+      action: "Authoritative, often standing with clipboard or observing, commanding presence"
+  scene:
+    mainElements: "Tense confrontation in academic office between external observer raising ethical concerns and defensive researcher protecting experimental methodology"
+    details: "Professional woman holding notebook with observational notes, academic desk with research papers and experimental documentation scattered across surface, researcher appearing defensive with crossed arms, institutional office furniture, psychological research materials visible, evening lighting through office windows creating dramatic shadows"
+    background: "Academic office environment with psychology textbooks on shelves, diplomas and certificates on walls, filing cabinets, institutional university lighting, window overlooking campus"
+    atmosphere: "Ethical confrontation and professional disagreement over experimental boundaries, dramatic evening lighting emphasizing moral conflict, academic authority challenged by external ethical perspective"
+  composition:
+    cameraAngle: "Medium two-shot showing confrontation across office desk"
+    focus: "Ethical confrontation between concerned observer and defensive researcher over experimental ethics"
+    depth: "Foreground shows desk with research materials, middle ground focuses on characters in ethical debate, background reveals academic office environment, no text or letters visible"

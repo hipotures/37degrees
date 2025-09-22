@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Birthday Party Fireworks Display"
+  setting:
+    time: "January 3, 2009, evening"
+    location: "Local residence near Conisholme, Lincolnshire countryside"
+    weather: "Clear cold evening, stars visible, minimal wind"
+  characters:
+    - appearance: "Family members and guests, various ages, bundled in winter coats and scarves"
+      clothing: "Heavy winter jackets, woolen hats, gloves, warm celebration attire"
+      position: "Gathered in backyard and on patio, some holding sparklers"
+      action: "Watching fireworks display, pointing at colorful explosions in sky, celebrating 80th birthday"
+  scene:
+    mainElements: "Colorful fireworks bursting against dark winter sky, family home with warm lights in windows, outdoor celebration setup with tables and chairs"
+    details: "Sparklers held by children creating light trails, professional fireworks launching from designated area, golden and colored sparks falling, wind farm turbines visible as distant silhouettes against night sky, celebration cake visible through windows"
+    background: "Dark Lincolnshire countryside, distant lights from scattered farmhouses, wind turbine warning lights blinking on horizon"
+    atmosphere: "Joyful family celebration, warmth contrasting with cold winter night, anticipation and wonder at fireworks display"
+  composition:
+    cameraAngle: "Medium shot from guest perspective"
+    focus: "Fireworks display above celebrating family gathering"
+    depth: "Foreground celebrating people, middle ground house and immediate yard, background fireworks against night sky with distant turbines, no text or letters visible"

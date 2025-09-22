@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Family Photography Preparation at Home"
+  setting:
+    time: "May 23, 1964, morning"
+    location: "1960s working-class family home in Carlisle, Cumberland, England"
+    weather: "Bright morning light streaming through windows"
+  characters:
+    - appearance: "44 years old, average height and build, thinning brown hair, weathered face typical of outdoor worker, steady hands from firefighting experience"
+      clothing: "Casual weekend attire - light shirt, dark trousers, practical shoes suitable for marsh walking"
+      position: "Sitting at dining table checking camera equipment"
+      action: "Carefully loading fresh Kodacolor film into SLR camera, testing camera settings"
+    - appearance: "35 years old, dark bobbed hair, medium build, 5'4 height"
+      clothing: "Pale blue dress that appears white when overexposed in photographs"
+      position: "Standing near window preparing picnic items"
+      action: "Organizing family outing supplies, occasionally glancing at camera preparation"
+    - appearance: "5 years old, blonde hair, small for her age, cheerful expression"
+      clothing: "White or very light colored summer dress with short sleeves"
+      position: "Playing on living room floor near parents"
+      action: "Excitedly anticipating family outing, occasionally watching camera setup"
+  scene:
+    mainElements: "Modest living room with family furniture, camera equipment laid out on dining table, picnic preparations in progress"
+    details: "Single-lens reflex camera with mechanical operation, 70% viewfinder coverage, typical professional equipment of the era, family photographs on mantelpiece, comfortable family environment suggesting close bonds, no text or letters visible"
+    background: "Comfortable family environment, lived-in and welcoming atmosphere with morning light"
+    atmosphere: "Anticipation and preparation for pleasant family day out, careful attention to photography equipment"
+  composition:
+    cameraAngle: "Medium shot showing family activity in living space"
+    focus: "Character JT methodically preparing camera equipment"
+    depth: "Foreground shows detailed camera preparation, middle ground captures family interaction, background displays cozy home environment"

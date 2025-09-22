@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Weaving bullet ants into ceremonial gloves"
+  setting:
+    time: "Late morning, warm filtered light"
+    location: "Traditional Sateré-Mawé ceremonial shelter within village"
+    weather: "Humid tropical air with gentle breeze through shelter"
+  characters:
+    - appearance: "Adult Sateré-Mawé man, 30s, muscular build, bronze skin, black hair in traditional style"
+      clothing: "Practical forest attire with woven palm leaf protection, minimal ornaments, natural body paint"
+      position: "Seated cross-legged on woven mat, hands working delicately with materials"
+      action: "Methodically weaving sedated bullet ants into cashew leaf gloves, stingers pointing inward"
+    - appearance: "Elderly Sateré-Mawé man, 60s, weathered bronze skin, white-streaked black hair, wise dark eyes"
+      clothing: "Traditional ceremonial robes with elaborate feather headdress, shell and bead jewelry, painted body markings"
+      position: "Sitting nearby supervising the glove construction process"
+      action: "Offering guidance and blessing the glove-making process with ceremonial gestures"
+  scene:
+    mainElements: "Elevated platform with thatched roof, woven walls, carved wooden posts, ritual objects displayed"
+    details: "Woven cashew leaf gloves with hundreds of live bullet ants sewn inside, stingers pointing inward toward hand opening. Natural sedative containers, traditional weaving tools, ceremonial objects including feathered staffs and carved masks arranged respectfully nearby."
+    background: "Traditional shelter interior with cultural artifacts and ritual items, natural materials throughout"
+    atmosphere: "Sacred space with cultural artifacts, smoking herbs, spiritual significance. Focused craftsmanship combined with ritual reverence, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up view of hands working with gloves and ants"
+    focus: "Detailed construction process of ant-filled gloves"
+    depth: "Glove construction in foreground, supervising elder in middle ground, ceremonial shelter interior in background"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Small Fish Stunned by Acoustic Shockwave Impact"
+  setting:
+    time: "Mid-morning, tropical waters with strong sunlight penetration"
+    location: "Open water column above reef substrate, clear tropical ocean water with good visibility"
+    weather: "Calm underwater conditions with gentle water movement"
+  characters:
+    - appearance: "Small tropical fish, 2-3 centimeters long, silver-scaled with hints of blue-green iridescence"
+      clothing: "Natural scales and fins, no artificial elements"
+      position: "Swimming in open water above coral reef substrate"
+      action: "Swimming casually through water column, unaware of hidden predator below"
+  scene:
+    mainElements: "Small fish caught in moment of disorientation from powerful acoustic shockwave impact"
+    details: "Small tropical fish showing immediate effects of sonic weapon strike with disrupted swimming pattern and loss of equilibrium. Fish body tilted at unnatural angle with fins spread wide in attempt to regain balance. Scales showing stress coloration with darker patches appearing along lateral lines. Eyes wide with shock response and mouth slightly agape. Shockwave effects still visible as water distortion patterns around fish body. Particle displacement in surrounding water showing residual pressure wave movement. Fish position shows classic stunned behavior with reduced motor control and spatial disorientation. Natural iridescent coloration subdued due to stress response. Small bubbles or debris particles scattered around impact zone."
+    background: "Open blue water space with scattered plankton and small marine organisms drifting past"
+    atmosphere: "Dramatic moment of nature's acoustic weapon effectiveness, powerful demonstration of underwater predation strategy, no text or letters visible"
+  composition:
+    cameraAngle: "Medium close-up shot capturing fish's disoriented state and surrounding water effects"
+    focus: "Stunned fish showing behavioral response to acoustic attack with emphasis on disorientation"
+    depth: "Sharp focus on affected fish in foreground, shockwave effects visible in middle ground, soft background"

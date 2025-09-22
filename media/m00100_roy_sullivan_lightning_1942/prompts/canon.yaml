@@ -1,0 +1,73 @@
+canon:
+  characters:
+    - id: "character_RS"
+      name: "Character RS"
+      description_block: |
+        characters:
+          - appearance: "American man, aging from 30 to 65 over story span, brawny build resembling Gene Hackman, rugged weathered face"
+            clothing: "US Park Service uniform with ranger hat, work boots, utility belt, later carrying water can"
+            posture: "Confident ranger bearing gradually becoming more cautious, often scanning sky for storm clouds"
+    - id: "character_RH"
+      name: "Character RH"
+      description_block: |
+        characters:
+          - appearance: "American man, 50s, park superintendent bearing, administrative appearance, concerned expression"
+            clothing: "Park Service supervisor uniform with official insignia, formal ranger attire"
+            posture: "Administrative authority, often taking notes or documenting unusual incidents"
+    - id: "fellow_ranger"
+      name: "Fellow Park Ranger"
+      description_block: |
+        characters:
+          - appearance: "American man, 40s, typical park ranger appearance, nervous around storms"
+            clothing: "Standard Park Service uniform with ranger equipment"
+            posture: "Professional but increasingly wary, often keeping distance during storm weather"
+  locations:
+    - id: "shenandoah_park"
+      name: "Shenandoah National Park"
+      description_block: |
+        setting:
+          location: "Mountainous national park in Virginia with forests, trails, and facilities"
+        mainElements: "Dense forest with tall trees, mountain ridges, park buildings, fire lookout towers"
+        atmosphere: "Beautiful Appalachian wilderness setting frequently experiencing thunderstorms"
+    - id: "fire_lookout_tower"
+      name: "Fire Lookout Tower"
+      description_block: |
+        setting:
+          location: "Elevated fire observation tower in Shenandoah National Park"
+        mainElements: "Wooden tower structure with observation windows, no lightning rod protection"
+        atmosphere: "Isolated mountain outpost vulnerable to lightning strikes and severe weather"
+    - id: "ranger_station"
+      name: "Park Ranger Station"
+      description_block: |
+        setting:
+          location: "Official ranger facility within Shenandoah National Park"
+        mainElements: "Government building with offices, equipment storage, communication gear"
+        atmosphere: "Professional park service workplace that should be safe from lightning"
+    - id: "mountain_road"
+      name: "Park Mountain Road"
+      description_block: |
+        setting:
+          location: "Winding road through Shenandoah National Park mountains"
+        mainElements: "Paved park road with forest on both sides, scenic mountain vistas"
+        atmosphere: "Scenic drive through wilderness becoming dangerous during thunderstorms"
+  items:
+    - id: "ranger_truck"
+      name: "Park Service Vehicle"
+      description_block: |
+        details: "Official park ranger truck with government markings, radio equipment, emergency supplies"
+    - id: "water_can"
+      name: "Emergency Water Container"
+      description_block: |
+        details: "Metal water can carried specifically for extinguishing hair fires from lightning strikes"
+    - id: "lightning_bolt"
+      name: "Lightning Strike"
+      description_block: |
+        details: "Brilliant electrical discharge from storm clouds, jagged white-blue energy bolt"
+    - id: "fishing_gear"
+      name: "Fishing Equipment"
+      description_block: |
+        details: "Fishing rod, tackle box, fishing line for freshwater mountain stream fishing"
+    - id: "park_documentation"
+      name: "Official Incident Reports"
+      description_block: |
+        details: "Official park service documentation of lightning strike incidents, medical reports"

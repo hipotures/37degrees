@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "London dock workers unloading exotic Asian goods"
+  setting:
+    time: "1680s, morning"
+    location: "London Thames docks, England"
+    weather: "Overcast English morning with river mist"
+  characters:
+    - appearance: "English man, 30s, pale complexion, brown hair, mustache, sturdy build, relieved expression"
+      clothing: "17th century brown wool coat with brass buttons, white linen shirt, dark breeches, tall leather boots"
+      position: "Standing on London dock supervising cargo unloading"
+      action: "Directing dock workers carefully handling ceramic jars and wooden crates from Asia"
+  scene:
+    mainElements: "London Thames waterfront with stone quays, merchant warehouses, sailing ships, typical English architecture"
+    details: "Large brown ceramic jars being carefully carried by dock workers, wooden crates containing glass bottles with amber liquid, leather-bound ledgers for customs records, fog from Thames mixing with smoke from chimneys, cobblestone dock area"
+    background: "London Bridge in distance, Thames with various merchant vessels, warehouse district with Tudor-style buildings, church spires visible"
+    atmosphere: "Successful completion of long ocean voyage, exotic Asian goods entering English commerce, cultural transformation beginning, morning industry along Thames, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing scale of London port operations"
+    focus: "Unloading of precious Asian condiment cargo in English setting"
+    depth: "Foreground shows detailed cargo handling, middle ground features dock activity and merchant supervision, background shows London cityscape and Thames"

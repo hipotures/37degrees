@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mathematical Framework of Time Dilation"
+  setting:
+    time: "May 1905, afternoon"
+    location: "Third floor of government building in medieval city center, Bern, Switzerland, overlooking Aare River"
+    weather: "Bright afternoon light ideal for precise calculations"
+  characters:
+    - appearance: "26 years old, medium build, dark wavy hair, mustache, penetrating dark eyes behind wire-rimmed glasses, high forehead"
+      clothing: "Simple dark suit typical of early 1900s European professionals, white shirt, dark tie, pocket watch"
+      position: "Standing before large blackboard covered with equations"
+      action: "Writing complex mathematical formulations demonstrating relativistic effects"
+  scene:
+    mainElements: "Large blackboard covered with mathematical equations, chalk dust in air, desk covered with reference materials and calculations"
+    details: "Mathematical formulations written on blackboards and paper, showing time dilation factor γ = 1/√(1-v²/c²), elegant mathematical expressions revealing how time slows as velocity approaches light speed, fundamental constants c (speed of light). Complex derivations showing the relationship between velocity and time, revolutionary conclusions emerging from mathematical precision, no text or letters visible"
+    background: "Office interior with tall windows, afternoon shadows creating dramatic lighting on equations"
+    atmosphere: "Intense intellectual focus, afternoon light creating dramatic contrast between bright equations and shadowed corners"
+  composition:
+    cameraAngle: "Wide shot showing both character and the blackboard full of equations"
+    focus: "Mathematical equations on blackboard demonstrating time dilation principles"
+    depth: "Foreground: chalk and mathematical instruments, middle ground: physicist working at blackboard, background: office setting with afternoon light"

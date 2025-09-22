@@ -1,0 +1,11 @@
+media_info:
+  title: Sateré-Mawé Ant Ritual - Traditional Ongoing
+  genre: Cultural Anthropology Documentary
+  description: Brazilian tribe initiates warriors through 20 sessions of bullet ant stings causing paralysis and hallucinations
+  target_audience: General public, students, anthropology enthusiasts, cultural researchers
+  duration: ~3 minutes
+  objective: Recreate the extreme coming-of-age ritual that tests courage through one of nature's most painful stings
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

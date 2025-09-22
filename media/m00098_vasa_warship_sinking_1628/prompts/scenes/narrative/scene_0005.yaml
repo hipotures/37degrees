@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Launch Day Ceremony - August 10, 1628"
+  setting:
+    time: "August 10, 1628, morning"
+    location: "Stone quays and waterfront area of Stockholm harbor"
+    weather: "Partly cloudy with light winds building"
+  characters:
+    - appearance: "Swedish man, 35, experienced sea captain appearance, confident bearing"
+      clothing: "17th century ship captain uniform with brass buttons, navigation instruments"
+      position: "Standing on ship's deck prepared for maiden voyage"
+      action: "Maritime expertise, checking wind conditions and preparing for departure"
+  scene:
+    mainElements: "Stone harbor walls, royal viewing areas, crowds of spectators gathered for ceremonial launch"
+    details: "Hundreds of Stockholm citizens gathered on stone quays to watch royal warship launch, royal banners and ceremonial decorations, naval officers in dress uniforms, families and dignitaries watching from elevated positions, festive atmosphere with ceremonial preparations, ships' bells ringing, flags flying"
+    background: "Stockholm waterfront with royal buildings, other naval vessels in harbor, Swedish summer sky with building clouds"
+    atmosphere: "Royal ceremony location with celebration and pageantry, pride in Swedish naval achievement, festive launch of most expensive warship ever built, optimistic crowd unaware of impending disaster, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing ceremonial launch gathering"
+    focus: "Celebration and pageantry of royal warship maiden voyage"
+    depth: "Crowd and ceremony in foreground, Vasa warship in middle ground, Stockholm harbor in background"

@@ -1,0 +1,19 @@
+sceneDescription:
+  title: "Saxitoxin Poison Laboratory Development"
+  setting:
+    time: "1960s, daytime (flashback sequence)"
+    location: "Classified CIA research laboratory, Langley, Virginia"
+  characters:
+    - appearance: "Caucasian woman, 30s, shoulder-length brown hair, focused expression, professional demeanor"
+      clothing: "1960s white lab coat over conservative blouse, minimal jewelry"
+      position: "Standing at laboratory bench examining specimens under microscope"
+      action: "Conducting research on shellfish toxin while taking precise measurements"
+  scene:
+    mainElements: "Sterile white laboratory with chemical apparatus, specimen storage, testing equipment for developing undetectable poison"
+    details: "Scientific development of assassination poison, laboratory equipment for toxin extraction and weaponization, specimen containers with shellfish samples, precise measurement instruments, chemical analysis apparatus, research documentation on clipboard, fluorescent lighting illuminates sterile work environment, security protocols evident throughout facility, no text or letters visible"
+    background: "Clinical and secretive scientific environment with advanced 1960s laboratory technology"
+    atmosphere: "Cold war era weapons development combining cutting-edge science with deadly purpose"
+  composition:
+    cameraAngle: "Medium shot of laboratory work with focus on scientific precision"
+    focus: "Toxin research and development process in CIA laboratory"
+    depth: "Foreground shows detailed laboratory equipment, middle ground captures researcher at work, background reveals extensive scientific facility"

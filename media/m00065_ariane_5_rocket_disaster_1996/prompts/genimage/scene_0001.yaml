@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1995, late afternoon
+    location: ESA software development laboratory, technical facility in Europe
+    weather: Clear indoor environment with controlled lighting
+  characters:
+  - appearance: European man, 40s, lean build, intense dark eyes, short gray hair, sharp features
+    clothing: 1990s dark blue ESA engineer jacket over white shirt with ESA logo, black trousers
+    position: Seated at computer workstation, leaning forward toward CRT monitor
+    action: Examining lines of software code on screen, typing on keyboard with focused concentration
+  - appearance: European man, 50s, average build, concerned expression, wire-rimmed glasses, receding brown hair
+    clothing: 1990s gray business suit with blue tie, ESA identification badge
+    position: Standing behind first engineer, looking over his shoulder
+    action: Pointing at specific code sections on monitor, discussing technical details
+  scene:
+    mainElements: Modern 1990s software development laboratory with multiple computer workstations featuring CRT monitors
+      displaying green and amber text code, technical diagrams mounted on white walls, testing equipment on metal shelves
+    details: Computer screens showing scrolling programming code with numerical calculations, printed technical specifications
+      scattered on desks, reference manuals stacked beside keyboards, oscilloscopes and circuit testing devices, fluorescent
+      overhead lighting creating precise working environment, no text or letters visible
+    background: Additional workstations with more engineers at computers, whiteboards with technical drawings, filing cabinets
+      with project documentation, windows showing European landscape
+    atmosphere: Clinical and precise engineering environment focused on cutting-edge space technology development, sense of
+      innovation and technical excellence
+  composition:
+    cameraAngle: Medium shot from slight overhead angle
+    focus: Primary engineer examining code on computer screen with supervisor observing
+    depth: Foreground shows detailed workstation setup, middle ground captures character interaction, background reveals broader
+      laboratory environment
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

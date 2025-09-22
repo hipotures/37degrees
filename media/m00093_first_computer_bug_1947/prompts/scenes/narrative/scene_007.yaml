@@ -1,0 +1,36 @@
+sceneDescription:
+  title: "Scene 7 - Computer Bug Legacy"
+  setting:
+    time: "September 9, 1947, 4:30 PM
+5:00 PM
+5:30 PM"
+    location: "Harvard University Computation Laboratory, Cambridge, Massachusetts"
+    weather: "Late afternoon transitioning to evening"
+  characters:
+    - appearance: "Woman, early 40s, medium height, brown hair styled in 1940s fashion, intelligent keen eyes behind wire-rim glasses"
+      clothing: "Navy uniform with lieutenant rank insignia, dark blue jacket with brass buttons, white collared shirt, knee-length skirt, sensible black shoes"
+      position: "Explaining discovery to laboratory team
+Testing computer restoration"
+      action: "Sharing moth discovery story while explaining new debugging terminology
+Verifying computer operations have resumed normal function after moth removal"")
+  scene:
+    mainElements: "Laboratory team gathered around demonstration of moth discovery site
+Harvard Mark II computer running normally with all relay panels functioning
+Team discussion about establishing debugging procedures for future computer problems"
+    details: "Team examining Panel F Relay 70 location where moth was found, precision tools used for extraction, moth specimen preserved for documentation
+All indicator lights showing normal operation, relay panels clicking rhythmically, paper tape output resuming proper calculations
+Laboratory logbook open to moth discovery entry, technical manuals being consulted for new debugging protocols, team planning systematic troubleshooting procedures"
+    background: "Active laboratory environment with continued computer operations, Harvard campus visible through windows, ongoing research atmosphere"
+    atmosphere: "Educational moment sharing historic discovery, establishment of debugging terminology, collaborative learning experience
+Relief and satisfaction at successful problem resolution, confirmation of systematic troubleshooting effectiveness
+Forward-thinking planning for future computer maintenance, recognition of significance for computing field"
+  composition:
+    cameraAngle: "Medium shot showing team learning about moth discovery
+Wide shot showing computer restored to normal operation
+Close-up on planning session for debugging procedures"
+    focus: "Educational demonstration of first computer bug discovery
+Computer systems running normally after successful debugging
+Team developing systematic debugging methodology"
+    depth: "Relay panel demonstration in foreground, learning team in middle ground, laboratory equipment in background
+Computer control panels in foreground, operators in middle ground, functioning equipment in background
+Planning documents in foreground, discussion team in middle ground, computer operations in background, no text or letters visible"

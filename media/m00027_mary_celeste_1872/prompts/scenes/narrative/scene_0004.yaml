@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Discovery of Mary Celeste by Dei Gratia - December 4, 1872"
+  setting:
+    time: "December 4, 1872, 15:00 hours - afternoon discovery"
+    location: "Open Atlantic Ocean approximately 400 miles east of Azores, deep blue waters with clear visibility"
+    weather: "Clear December afternoon with good visibility, moderate seas allowing ship recognition"
+  characters:
+    - appearance: "Middle-aged maritime professional, bearded in naval tradition, alert eyes, substantial build typical of experienced sea captain"
+      clothing: "Standard captain's uniform of British merchant marine, heavy bridge coat, naval cap, practical maritime dress"
+      position: "Standing on bridge of Dei Gratia with telescope raised to eye"
+      action: "Studying distant vessel through telescope and recognizing it as Mary Celeste with growing concern"
+  scene:
+    mainElements: "Brigantine Dei Gratia with captain on bridge using telescope, distant Mary Celeste visible 6 miles away sailing erratically with only partial sail set, both ships positioned in open Atlantic waters"
+    details: "Mary Celeste yawing badly in distance with incomplete sail configuration suggesting no helmsman control, Dei Gratia crew gathering on deck to observe strange behavior of distant vessel, telescope focused on identifying ship through maritime markings, captain's expression showing recognition and concern, ship's rigging properly maintained on Dei Gratia contrasting with erratic movement of Mary Celeste"
+    background: "Vast Atlantic Ocean horizon with scattered white clouds, afternoon sunlight creating good visibility conditions, no other vessels visible in surrounding waters, seabirds flying between the two ships"
+    atmosphere: "Growing tension and concern as experienced maritime professional recognizes something seriously wrong, sense of isolation in vast ocean making discovery more ominous, clear weather conditions allowing detailed observation of mysterious vessel behavior"
+  composition:
+    cameraAngle: "Medium shot from Dei Gratia's bridge showing captain with telescope and distant Mary Celeste"
+    focus: "Captain with telescope as central focal point with Mary Celeste visible in distance"
+    depth: "Foreground shows detailed view of captain and telescope on Dei Gratia bridge, middle ground captures space between ships across ocean waters, background reveals Mary Celeste sailing erratically under partial sail, no text or letters visible"

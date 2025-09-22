@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Character JW driving on rural road before first encounter"
+  setting:
+    time: "1992 early evening, dusk approaching"
+    location: "Rural road between Falkirk and Bonnybridge, Scottish countryside"
+    weather: "Clear evening, perfect visibility"
+  characters:
+    - appearance: "Middle-aged Scottish businessman, average build, concerned expression, weathered face from years of local travel"
+      clothing: "1990s business attire - dark navy suit jacket, white collared shirt, practical tie, suitable for driving"
+      position: "Seated behind steering wheel of car, driving along country road"
+      action: "Driving calmly along familiar route, routine business journey before encountering something extraordinary"
+  scene:
+    mainElements: "Single-lane country road winding through Scottish countryside, stone walls lining roadside, rolling hills, telephone poles creating regular intervals, early 1990s family car proceeding along route"
+    details: "Stone walls defining field boundaries, scattered farm buildings visible on hillsides, telephone poles and power lines following road curve, evening light creating long shadows, peaceful rural setting, road surface showing wear from regular local traffic, hedgerows and gate posts marking field entrances, no text or letters visible"
+    background: "Rolling Scottish hills, clear evening sky, scattered farm buildings, rural landscape extending to horizon"
+    atmosphere: "Routine business journey, calm before extraordinary encounter, familiar local travel route, sense of ordinary life about to be disrupted by inexplicable events"
+  composition:
+    cameraAngle: "Medium shot from car interior perspective, showing driver and road ahead"
+    focus: "Character JW driving with road stretching ahead, emphasizing routine nature of journey"
+    depth: "Foreground shows car interior and driver, middle ground shows road surface, background shows countryside and clear sky"

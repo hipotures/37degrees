@@ -1,0 +1,103 @@
+canon:
+  characters:
+    - id: "character_US"
+      name: "Character US"
+      description_block: |
+        characters:
+          - appearance: "Medieval monastic figure, estimated 30-50 years old, focused scholarly demeanor, meticulous attention to detail"
+            clothing: "Dark brown Franciscan or Dominican habit with hood, rope belt, simple leather sandals"
+            posture: "Hunched over writing desk, steady careful hand movements, intense concentration"
+
+    - id: "character_WV"
+      name: "Character WV"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man with dark beard, intellectual bearing, around 50 years old, penetrating eyes"
+            clothing: "Edwardian formal wear, dark three-piece suit with waistcoat, scholarly appearance, gold pocket watch"
+            posture: "Confident antiquarian stance, examining manuscripts with magnifying glass"
+
+    - id: "character_WN"
+      name: "Character WN"
+      description_block: |
+        characters:
+          - appearance: "Academic gentleman, approximately 60 years old, wire-rimmed spectacles, receding hairline"
+            clothing: "1920s university professor attire, tweed jacket with elbow patches, formal presentation style"
+            posture: "Intense scholarly focus, bent over microscope or ancient text, obsessive attention to detail"
+
+    - id: "character_JT"
+      name: "Character JT"
+      description_block: |
+        characters:
+          - appearance: "Distinguished older gentleman with military bearing, approximately 70 years old, graying hair"
+            clothing: "Post-WWII civilian clothes, occasionally military dress uniform with medals"
+            posture: "Methodical examination of documents, cautious and measured movements"
+
+    - id: "character_GR"
+      name: "Character GR"
+      description_block: |
+        characters:
+          - appearance: "Modern academic, middle-aged man, approachable demeanor, thoughtful expression"
+            clothing: "Contemporary university professor attire, casual scholarly dress, rolled-up sleeves"
+            posture: "Demonstrating experimental setup, hands-on approach to research"
+
+    - id: "character_GB"
+      name: "Character GB"
+      description_block: |
+        characters:
+          - appearance: "Elderly Central European man, long white beard, deeply lined face, scholarly features"
+            clothing: "17th-century alchemist robes, dark academic dress with ornate buttons"
+            posture: "Frustrated gestures over manuscript, persistent examination despite difficulties"
+
+  locations:
+    - id: "villa_mondragone"
+      name: "Villa Mondragone"
+      description_block: |
+        setting:
+          location: "Villa Mondragone, 16th-century papal villa near Rome, former Jesuit college"
+        mainElements: "Renaissance architecture, high vaulted library chambers, rows of manuscript storage rooms with wooden shelves"
+        atmosphere: "Musty ancient library smell, filtered golden sunlight through tall arched windows, scholarly silence broken only by turning pages"
+
+    - id: "beinecke_library"
+      name: "Beinecke Library"
+      description_block: |
+        setting:
+          location: "Beinecke Rare Book & Manuscript Library, Yale University, modern brutalist architecture"
+        mainElements: "Climate-controlled viewing rooms, security glass display cases, research facilities with specialized lighting"
+        atmosphere: "Sterile preservation environment, controlled white lighting, scholarly reverence, hushed academic activity"
+
+    - id: "prague_castle"
+      name: "Prague Castle"
+      description_block: |
+        setting:
+          location: "Prague Castle, Court of Rudolf II, late 16th-century imperial court complex"
+        mainElements: "Gothic and Renaissance architecture, alchemical laboratories, imperial library with astronomical instruments"
+        atmosphere: "Mysterious scholarly environment, flickering candle-lit chambers, intellectual intrigue, scent of parchment and alchemical preparations"
+
+    - id: "medieval_scriptorium"
+      name: "Medieval Scriptorium"
+      description_block: |
+        setting:
+          location: "15th-century monastery scriptorium, Central Europe, unknown exact location"
+        mainElements: "Wooden writing desks with slanted surfaces, vellum preparation area, ink-making equipment, illumination materials and pigments"
+        atmosphere: "Quiet scholarly work environment, natural light from large Gothic windows, scent of fresh parchment and iron gall ink"
+
+  items:
+    - id: "voynich_manuscript"
+      name: "The Voynich Manuscript"
+      description_block: |
+        details: "240 vellum pages, 22.5 x 16 cm bound codex, written in unknown script with iron gall ink, colorful illustrations of unidentifiable plants, astronomical diagrams, and nude women in strange bathing scenes"
+
+    - id: "cardan_grille"
+      name: "Cardan Grille"
+      description_block: |
+        details: "Perforated paper or cardboard overlay with strategic rectangular holes, Renaissance-era encryption device used to select random text combinations from prepared tables"
+
+    - id: "marci_letter"
+      name: "Marci's Letter"
+      description_block: |
+        details: "Single page Latin letter in 17th-century handwriting, formal scholarly correspondence claiming manuscript cost 600 ducats and attributing authorship to medieval scholar"
+
+    - id: "rosettes_folio"
+      name: "Rosettes Folio"
+      description_block: |
+        details: "Six-page foldout diagram showing nine circular 'islands' connected by paths, containing detailed castles, possible volcanic features, mysterious geographical or cosmological map"

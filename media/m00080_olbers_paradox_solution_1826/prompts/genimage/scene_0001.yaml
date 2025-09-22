@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1826, early evening twilight
+    location: Three-story Bremen townhouse on cobblestone street, northern Germany
+    weather: Clear autumn evening with first stars appearing
+  characters:
+  - appearance: German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom
+    clothing: 1820s dark blue physician's coat over white shirt and black vest
+    position: Standing in doorway between ground floor medical office and upper stairs
+    action: Closing medical practice for day, looking upward toward observatory floor
+  scene:
+    mainElements: Elegant three-story German townhouse with medical practice sign, warm lamplight glowing from windows, astronomical
+      telescope visible in upper floor window
+    details: Stone facade with wooden shutters, brass nameplate beside entrance door, medical bag set on entry table, papers
+      and instruments visible through ground floor windows, telescope silhouette in top floor, gas street lamps beginning
+      to illuminate cobblestone street
+    background: Bremen cityscape with church spires and merchant houses, darkening sky with first bright stars appearing above
+      rooftlines
+    atmosphere: Peaceful transition from day's medical duties to evening's astronomical pursuits, scholarly dedication bridging
+      practical service and cosmic wonder, no text or letters visible
+  composition:
+    cameraAngle: Medium wide shot from across cobblestone street
+    focus: character_HO transitioning from physician to astronomer at doorway
+    depth: Foreground shows street and lamplight, middle ground centers on townhouse and character, background reveals city
+      rooftops against star-filled sky
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

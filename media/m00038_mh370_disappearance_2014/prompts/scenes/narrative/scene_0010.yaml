@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Satellite data analysis revealing aircraft's final flight path"
+  setting:
+    time: "2014-2024 - ongoing investigation using satellite technology"
+    location: "Advanced satellite communication analysis facility with computer workstations"
+    weather: "Indoor controlled technical environment"
+  characters:
+    - appearance: "Senior satellite data analyst, concentrated professional demeanor, technical expertise"
+      clothing: "Business casual attire with technical company identification badge"
+      position: "Seated at computer workstation with multiple monitors"
+      action: "Analyzing satellite communication data and flight path calculations using specialized software"
+    - appearance: "Aviation investigation specialist, focused analytical expression"
+      clothing: "Professional investigative service uniform with credentials and technical equipment"
+      position: "Standing beside analyst reviewing satellite data displays"
+      action: "Coordinating analysis with international partners and preparing updated search recommendations"
+  scene:
+    mainElements: "Satellite communication terminal with digital displays showing signal data, frequency measurements, technical readouts and communication logs on computer screens"
+    details: "Advanced computer workstations displaying satellite ping data and calculated flight paths, multiple monitors showing different analysis methods, technical personnel working with sophisticated tracking software, wall displays showing Indian Ocean search areas, communication equipment connecting to international investigation teams"
+    background: "High-tech analysis facility with multiple workstations, satellite communication equipment, world maps showing satellite coverage areas"
+    atmosphere: "Serious technical analysis environment focused on solving aviation's greatest mystery through scientific method"
+  composition:
+    cameraAngle: "Over-shoulder view showing computer displays with satellite data analysis"
+    focus: "Computer screens displaying satellite ping data and calculated flight path projections"
+    depth: "Foreground shows workstation with satellite data displays, middle ground shows analysts at work, background shows facility with additional equipment and maps, no text or letters visible"

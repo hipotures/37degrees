@@ -1,0 +1,106 @@
+canon:
+  characters:
+    - id: "character_CS"
+      name: "Character CS"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, mid-20s, athletic build, dark blonde hair, intense curious eyes behind wire-rimmed glasses"
+            clothing: "1980s marine biology fieldwork attire: faded navy blue polo shirt, khaki shorts, diving gear when underwater"
+            posture: "Energetic, often leaning forward with focused attention, hands holding collection equipment"
+    - id: "character_GB"
+      name: "Character GB"
+      description_block: |
+        characters:
+          - appearance: "Mediterranean man, mid-20s, slender build, dark hair, expressive brown eyes, thoughtful demeanor"
+            clothing: "1980s casual academic wear: white cotton shirt, dark slacks, laboratory coat when in lab"
+            posture: "Observant, often with hands clasped behind back or gesturing while explaining"
+    - id: "character_SK"
+      name: "Character SK"
+      description_block: |
+        characters:
+          - appearance: "Japanese man, 60s, average height, graying black hair, warm intelligent eyes behind thick glasses"
+            clothing: "Modern laboratory attire: white lab coat over button-down shirt, dark trousers, sometimes casual sweater"
+            posture: "Patient and methodical, often hunched over microscope or gently handling specimens"
+    - id: "research_team_member_1"
+      name: "Research Team Member 1"
+      description_block: |
+        characters:
+          - appearance: "Woman, 30s, professional appearance, shoulder-length brown hair, focused expression"
+            clothing: "Contemporary laboratory attire: white lab coat, dark blouse, professional trousers"
+            posture: "Collaborative, often pointing at data or holding research documents"
+    - id: "research_team_member_2"
+      name: "Research Team Member 2"
+      description_block: |
+        characters:
+          - appearance: "Man, 40s, slightly stocky build, balding with remaining brown hair, serious demeanor"
+            clothing: "Academic conference attire: suit jacket, dress shirt, tie, reading glasses hanging from neck"
+            posture: "Authoritative, often with arms crossed or holding presentation materials"
+  locations:
+    - id: "rapallo_coastal_waters"
+      name: "Rapallo Coastal Waters"
+      description_block: |
+        setting:
+          location: "Turquoise Mediterranean waters between Portofino cliffs, Italian Riviera near Rapallo, Liguria, Italy"
+        mainElements: "Crystal clear blue-green water, rocky limestone cliffs, underwater rock formations with marine vegetation"
+        atmosphere: "Pristine 1980s Mediterranean coastal environment with excellent visibility for marine research"
+    - id: "italian_marine_laboratory"
+      name: "Italian Marine Laboratory"
+      description_block: |
+        setting:
+          location: "1980s marine biology research facility, Liguria coast, Italy"
+        mainElements: "White-tiled laboratory benches, glass specimen jars, basic microscopy equipment, seawater circulation systems"
+        atmosphere: "Clean scientific workspace with natural lighting from large windows overlooking the sea"
+    - id: "kyoto_marine_lab"
+      name: "Kyoto Marine Laboratory"
+      description_block: |
+        setting:
+          location: "Seto Marine Biological Laboratory, Shirahama City, Wakayama Prefecture, Japan"
+        mainElements: "Modern research facility with advanced microscopy, temperature-controlled aquarium systems, computer workstations"
+        atmosphere: "State-of-the-art marine research environment with precise environmental controls"
+    - id: "university_conference_room"
+      name: "University Conference Room"
+      description_block: |
+        setting:
+          location: "Academic conference presentation hall, modern university setting"
+        mainElements: "Tiered seating, projection screen, podium, academic posters on walls"
+        atmosphere: "Formal academic environment with focused scholarly attention"
+    - id: "research_publication_office"
+      name: "Research Publication Office"
+      description_block: |
+        setting:
+          location: "Academic journal editorial office with manuscript review area"
+        mainElements: "Desk with scientific manuscripts, computer terminals, reference books, academic journals"
+        atmosphere: "Professional publishing environment focused on scientific accuracy and peer review"
+  items:
+    - id: "turritopsis_specimen"
+      name: "Turritopsis Specimen"
+      description_block: |
+        details: "Transparent bell-shaped jellyfish, 4.5mm diameter, with 8-90 delicate tentacles depending on age, translucent white coloration"
+    - id: "collection_jar"
+      name: "Collection Jar"
+      description_block: |
+        details: "Clear glass laboratory jar with metal lid, filled with seawater, containing small marine specimens"
+    - id: "microscope_1980s"
+      name: "1980s Research Microscope"
+      description_block: |
+        details: "Professional biological microscope with multiple objective lenses, mechanical stage, and illumination system"
+    - id: "modern_microscope"
+      name: "Modern Research Microscope"
+      description_block: |
+        details: "Advanced digital microscope with camera attachment, computer interface, and high-resolution imaging capabilities"
+    - id: "aquarium_system"
+      name: "Marine Aquarium System"
+      description_block: |
+        details: "Temperature-controlled glass tanks with seawater circulation, precise environmental monitoring equipment"
+    - id: "research_manuscript"
+      name: "Research Manuscript"
+      description_block: |
+        details: "Scientific paper with data tables, microscopy images, and detailed observations of jellyfish life cycle reversal"
+    - id: "brine_shrimp_eggs"
+      name: "Brine Shrimp Eggs"
+      description_block: |
+        details: "Dried Artemia cysts, tiny brown oval-shaped eggs visible under magnification, used as jellyfish food"
+    - id: "fine_needles"
+      name: "Fine-Point Needles"
+      description_block: |
+        details: "Ultra-fine laboratory needles used for precise feeding of microscopic organisms"

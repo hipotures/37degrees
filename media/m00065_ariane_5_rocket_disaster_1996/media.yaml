@@ -1,0 +1,12 @@
+media_info:
+  title: Ariane 5 Rocket Disaster - June 4, 1996
+  year: 1996
+  genre: Space Technology Documentary
+  description: 37 seconds after launch, rocket self-destructs due to 64-bit to 16-bit conversion error, costing $370 million
+  target_audience: General public, students, engineering enthusiasts, space technology buffs
+  duration: ~3 minutes
+  objective: Recreate the catastrophic software failure that destroyed Europe's most expensive unmanned rocket
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

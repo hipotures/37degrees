@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 17th century, late afternoon
+    location: Dutch colonial port in Southeast Asia, 1680s
+    weather: Tropical heat with afternoon clouds
+  characters:
+  - appearance: Dutch man, 35s, blonde hair, fair skin, beard, merchant's shrewd eyes, solid build
+    clothing: Black wool coat with silver buttons, white ruffled collar, dark breeches, polished black shoes
+    position: Standing on ship deck overseeing cargo loading
+    action: Directing dock workers loading wooden crates and ceramic vessels onto European sailing ship
+  - appearance: English man, 30s, pale complexion, brown hair, mustache, sturdy build, curious expression
+    clothing: 17th century brown wool coat with brass buttons, white linen shirt, dark breeches, tall leather boots
+    position: On dock checking cargo manifest
+    action: Recording inventory of Asian sauces and spices in leather record book
+  scene:
+    mainElements: Large European sailing ship with multiple masts, busy colonial port with warehouses, cargo loading operations
+    details: Wooden crates containing ceramic jars of fish sauce, clear glass bottles with cork stoppers, ropes and pulleys
+      for loading heavy cargo, dock workers carrying Asian goods, ship's rigging and canvas sails, colonial architecture
+    background: Southeast Asian port city with tropical vegetation, other merchant ships at anchor, local trading boats, warehouse
+      district
+    atmosphere: Bustling international commerce connecting Asian culinary traditions with European markets, anticipation of
+      long sea voyage, cultural goods crossing oceans, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing scale of trading operation
+    focus: Ship loading with precious Asian culinary goods including ke-tsiap
+    depth: Foreground shows detailed cargo handling, middle ground features ship and merchants, background shows port city
+      and tropical landscape
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,18 @@
+sceneDescription:
+  title: "GPS Satellite Constellation Deployment"
+  setting:
+    time: "1980s, daytime"
+    location: "Silent vacuum of space, 20,000 km above Earth's surface"
+    weather: "Perfect space conditions, no atmospheric interference"
+  characters:
+    # No characters present in this scene
+    - "No characters present in this scene"
+  scene:
+    mainElements: "Sophisticated atomic clocks, solar panels, communication arrays, precise orbital positioning systems"
+    details: "Ultra-precise rubidium and cesium atomic clocks, space-hardened construction, accurate to nanoseconds, pre-tuned to 10.22999999543 MHz to compensate for relativistic effects, multiple redundant systems. Multiple cubic satellites with solar panel arrays forming constellation of navigation satellites. Each satellite carrying atomic clocks specifically programmed to account for relativistic predictions, enabling precise navigation for billions of future users, no text or letters visible"
+    background: "Earth's blue marble suspended in black space, constellation of GPS satellites in precise orbital formation"
+    atmosphere: "Complete silence, brilliant unfiltered sunlight, stark contrast of Earth's blue against black space, constant motion at 14,000 km/hr"
+  composition:
+    cameraAngle: "Wide shot from space showing satellite constellation above Earth"
+    focus: "GPS satellites with atomic clocks in orbital formation"
+    depth: "Foreground: GPS satellites with solar arrays, middle ground: orbital space environment, background: Earth's surface and deep space"

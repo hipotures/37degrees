@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Receiving Guinness World Record Certificate"
+  setting:
+    time: "2021, afternoon"
+    location: "Official setting for record verification, formal indoor space with cameras and documentation"
+    weather: "Bright studio lighting for ceremonial documentation"
+  characters:
+    - appearance: "Chinese woman, 50s, gentle face with kind eyes, naturally long dark hair, distinctive extremely long eyelash on left upper eyelid measuring over 20 centimeters"
+      clothing: "Simple casual modern Chinese clothing, often light colored blouses or sweaters, comfortable everyday attire"
+      position: "Standing proudly holding official certificate"
+      action: "Smiling joyfully while holding the Guinness World Record certificate, radiating happiness and accomplishment"
+    - appearance: "Official Guinness World Records representative, professional appearance"
+      clothing: "Formal business attire with official credentials"
+      position: "Standing beside character in ceremonial presentation pose"
+      action: "Presenting the official certificate and congratulating the record holder"
+  scene:
+    mainElements: "Recording equipment, documentation tables, official certificates, measurement instruments"
+    details: "Official Guinness World Records certificate and documentation materials, formal paperwork recognizing the achievement, cameras for documentation, celebration flowers or ceremonial elements, formal indoor setting with professional lighting"
+    background: "Formal but celebratory, focused on achievement recognition and documentation"
+    atmosphere: "Triumphant celebration of extraordinary achievement, official recognition of unique talent"
+  composition:
+    cameraAngle: "Medium shot capturing ceremonial presentation"
+    focus: "Character holding certificate with expression of joy and accomplishment"
+    depth: "Certificate presentation in foreground, ceremonial setting in middle ground, formal documentation area in background, no text or letters visible"

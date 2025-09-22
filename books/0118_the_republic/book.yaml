@@ -4,3 +4,184 @@ book_info:
   author: "Plato"
   year: c. 375 BC
   genre: "Philosophy,Political philosophy"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T15:45:22"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 10
+    innovation: 10
+    structural_complexity: 7
+    social_roles: 9
+    total: 71
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.2
+      category: high
+    heat:
+      value: 8.5
+      category: high
+
+  themes:
+    universal:
+      - id: "cave_allegory_prediction"
+        type: "FACT"
+        credibility: 0.95
+        content: "Digital age as contemporary incarnation of Platonic cave with algorithm manipulation creating echo chambers and filter bubbles"
+        source: "reality_wisdom"
+      - id: "totalitarian_blueprint"
+        type: "FACT"
+        credibility: 0.90
+        content: "Iran's Guardian Council as realization of Platonic Guardians, influence on Soviet and Nazi interpretations"
+        source: "dark_drama"
+      - id: "tripartite_psychology"
+        type: "FACT"
+        credibility: 0.90
+        content: "Reason, spirit, appetite as precursor to modern personality theory and therapeutic approaches"
+        source: "symbols_meanings"
+      - id: "gender_equality_revolution"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Women as guardians revolutionary for 375 BC, establishing foundational arguments for gender equality"
+        source: "facts_history"
+      - id: "literary_innovation_foundation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created philosophical dialogue genre, utopian literature, and narrative techniques still used today"
+        source: "writing_innovation"
+      - id: "educational_philosophy_model"
+        type: "FACT"
+        credibility: 0.90
+        content: "Socratic method and educational theories shaping Western pedagogy for 2000 years"
+        source: "culture_impact"
+      - id: "justice_harmony_concept"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Justice as balance between soul parts and social classes, establishing psychological health model"
+        source: "symbols_meanings"
+      - id: "censorship_philosophy_debate"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Art censorship arguments influencing both democratic content moderation and authoritarian control"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "Cornerstone of Western philosophical education with continuous publication and adaptation"
+        key_editions: ["Cambridge University Press", "Oxford World's Classics", "Penguin Classics"]
+        reception_notes: "Foundation text in elite universities (Harvard, Yale, Oxford), canonical status"
+        educational_status: "Required reading in Western Civilization and political philosophy courses"
+        local_themes: ["Liberal democracy tensions", "Individual vs collective good"]
+
+      pl:
+        cultural_impact: "Required reading in Polish high schools, strong resonance with totalitarian experience"
+        key_editions: ["Witwicki translation legacy", "Wolne Lektury free access", "PIW historical editions"]
+        reception_notes: "Theatrical adaptations, VR experiences, academic tradition at Jagiellonian University"
+        educational_status: "Mandatory curriculum in ethics and philosophy classes"
+        local_themes: ["Post-communist governance debates", "Noble Republic ideals"]
+
+      de:
+        cultural_impact: "Strong academic tradition and philosophical scholarship center"
+        key_editions: ["Reclam editions", "Critical scholarly editions"]
+        reception_notes: "Deep philosophical interpretation tradition, university seminars"
+        educational_status: "Core text in Gymnasium philosophy curriculum"
+        local_themes: ["Romantic idealism connections", "Prussian educational reform influence"]
+
+      fr:
+        cultural_impact: "Influence on Enlightenment thought and revolutionary ideals"
+        key_editions: ["Gallimard editions", "Academic translations"]
+        reception_notes: "Connection to French political philosophy tradition"
+        educational_status: "Philosophy baccalauréat curriculum"
+        local_themes: ["Republican values", "Enlightenment rationalism"]
+
+      es:
+        cultural_impact: "Reception in Spanish political philosophy and educational reform"
+        key_editions: ["Gredos editions", "University translations"]
+        reception_notes: "Influence on democratic transition discussions"
+        educational_status: "University philosophy programs"
+        local_themes: ["Democratic transition parallels", "Educational reform debates"]
+
+      pt:
+        cultural_impact: "Brazilian and Portuguese academic reception"
+        key_editions: ["University editions", "Portuguese translations"]
+        reception_notes: "Political philosophy discussions in democratic contexts"
+        educational_status: "Higher education philosophy courses"
+        local_themes: ["Lusophone democratic thought", "Educational philosophy"]
+
+      ja:
+        cultural_impact: "Meiji era introduction, modern democratic discussions"
+        key_editions: ["Academic translations", "University press editions"]
+        reception_notes: "Connection to Confucian governance concepts"
+        educational_status: "University political philosophy courses"
+        local_themes: ["Confucian-Platonic governance parallels", "Meiji modernization"]
+
+      ko:
+        cultural_impact: "Modern democratic development context"
+        key_editions: ["University translations", "Academic editions"]
+        reception_notes: "Post-democratization political philosophy discussions"
+        educational_status: "University philosophy programs"
+        local_themes: ["Democratic development", "Confucian education traditions"]
+
+      hi:
+        cultural_impact: "Colonial and post-colonial political philosophy reception"
+        key_editions: ["English colonial editions", "Modern translations"]
+        reception_notes: "Connection to independence movement political thought"
+        educational_status: "University political science and philosophy"
+        local_themes: ["Colonial governance critique", "Democratic institution building"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context and power dynamics"
+        host_b: "contemporary critic examining modern relevance and applications"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Political crisis of ancient Athens and how democratic failure shaped Plato's response"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Social classes, gender roles, and revolutionary governance proposals"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Modern applications from surveillance states to AI governance systems"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "future_implications"
+          lead: "host_b"
+          description: "Lessons for democracy, social media, and political leadership today"
+      prompts:
+        host_a: "You are {male_name}, a social historian analyzing 'The Republic' through lens of power, class, and historical context. Focus on how Plato's Athens shaped his political vision and how authoritarian regimes have applied his ideas. Discuss the work's influence on real political systems from Iran to the Soviet Union."
+        host_b: "You are {female_name}, examining contemporary relevance of 'The Republic'. Connect to current social debates, digital governance, surveillance capitalism, and modern interpretations of democracy vs expertise. Explore how the Cave Allegory predicts social media manipulation."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "historical political systems discussion"
+      - "references to authoritarian interpretations"
+      - "gender/social hierarchy in historical context"
+    educational_elements:
+      - "Political philosophy foundations"
+      - "Historical context of ancient Athens"
+      - "Modern applications to democracy and governance"
+      - "Critical thinking about power structures"
+    production_notes:
+      intro_style: "historical scene-setting with modern parallels"
+      transitions: "subtle musical bridges between ancient and contemporary"
+      outro_style: "reflection on enduring relevance"
+
+  overall_confidence: 0.91

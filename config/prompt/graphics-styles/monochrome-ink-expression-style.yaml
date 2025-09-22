@@ -1,0 +1,66 @@
+styleName: Monochrome Ink Expression (Sumi-e / Monotype)
+description: Black and white high-contrast graphics built with ink washes and dry brush; human silhouettes and birds treated with gestural shorthand, clear tool marks and controlled accidents
+
+aiPrompts:
+  basePrompt: "black and white ink wash, sumi-e influence, high contrast, dry brush, monotype texture, gestural strokes, silhouetted figure, birds in motion, minimal background"
+  negativePrompt: "color, smooth gradients, clean vector lines, photorealism, heavy detail, glossy finish"
+  styleKeywords:
+    - ink wash
+    - sumi-e
+    - monotype
+    - high contrast
+    - dry brush
+    - gestural
+    - silhouette
+    - minimalism
+
+visualElements:
+  colorPalette:
+    primary:
+      - deep black
+      - paper white
+    secondary:
+      - neutral gray washes
+    background: white paper with local ink bleeds
+    usageNotes: Monochrome with dramatic contrast between ink and paper
+    saturation: none (black and white only)
+    contrast: very high, chiaroscuro effects with large black areas
+  lineArt:
+    style: uneven, brush and pen; dry scraping and ink bleeds
+    weight: varied with brush pressure, from fine to heavy
+    color: black ink
+    texture: rough, gestural marks with visible tool traces
+    edgeTreatment: soft, bleeding contours next to sharp cuts
+  lighting:
+    type: dramatic chiaroscuro with large black masses
+    direction: vertical structure as background plane
+    intensity: high contrast between light and dark
+    shadows:
+      style: ink washes instead of tonal modeling
+      color: black to gray gradients
+      opacity: solid blacks with transparent washes
+    highlights: pure white paper left untouched
+  rendering:
+    technique: quick gestures, print/monotype; pressure and friction marks
+    texture: paper fibers, streaks, ink splatters
+    detailLevel: minimal, focusing on essential forms
+    finish: raw, unfinished quality with visible process
+  perspective:
+    depth: flattened; vertical background structure as plane
+    focus: figure in slight profile, birds in shorthand
+    viewpoint: contemplative distance
+  mood:
+    overall: contemplation, solitude, fleeting moments
+    emotion: melancholy, silence, transience
+    tempo: calm with accents of bird movement
+    keywords:
+      - melancholia
+      - silence
+      - fleeting moment
+      - contemplative
+      - expressive minimalism
+  stylePrecedents:
+    - Japanese sumi-e painting
+    - European 20th century monotype
+    - Graphic expressionism (large black masses, formal economy)
+    - Zen brush painting

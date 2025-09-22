@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Object Passing Earth at Closest Approach"
+  setting:
+    time: "October 14, 2017, deep space"
+    location: "Region between Venus and Earth orbits where object made closest approaches, 0.16-0.25 AU from Sun"
+    weather: "Solar wind and electromagnetic fields with increasing radiation pressure"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Extremely elongated cigar-shaped object, 100-1000 meters long, 35-167 meters wide, dark reddish color, highly reflective surface, tumbling rotation every 7.3 hours, no visible tail or coma passing through inner solar system with Earth visible in background"
+    details: "Intense solar radiation, planetary gravitational fields, asteroid belt vicinity with solar wind, electromagnetic fields, increasing temperature and radiation pressure. The mysterious object maintains its unusual trajectory, reflecting sunlight from its polished surface while Earth appears as a blue marble in the cosmic distance. No cometary activity visible despite proximity to the Sun."
+    background: "Earth appears as a distant blue dot with the Sun's brilliant corona creating lens flares, other planets barely visible as points of light"
+    atmosphere: "Solar wind, electromagnetic fields, increasing temperature and radiation pressure creating sense of cosmic encounter and proximity to home, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing object's path relative to Earth"
+    focus: "The tumbling interstellar object against Earth's backdrop"
+    depth: "Foreground shows the elongated object, middle distance shows Earth, background shows solar corona and deep space"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ceasefire - 9:46 AM"
+  setting:
+    time: "August 27, 1896, 9:46 AM"
+    location: "Zanzibar Harbor and palace complex after bombardment"
+    weather: "Smoke clearing to reveal devastation in tropical morning light"
+  characters:
+    - appearance: "British man, 50s, weathered face, gray mustache, stocky naval build, stern expression"
+      clothing: "Royal Navy uniform with gold braid, white tropical helmet, black leather belt"
+      position: "Standing on warship bridge"
+      action: "Military bearing, lowering binoculars and signaling ceasefire to fleet"
+  scene:
+    mainElements: "British warships ceasing fire, palace complex smoldering ruins, harbor waters calm again"
+    details: "Naval guns falling silent, smoke dissipating from palace grounds, damaged buildings still burning but explosions ended, debris floating in harbor water, traditional dhows returning cautiously, British fleet maintaining position but no longer firing"
+    background: "Stone Town buildings undamaged beyond palace area, tropical sky clearing of smoke, normal harbor activity slowly resuming"
+    atmosphere: "Sudden end to violence, shortest war in history concluded, overwhelming victory demonstration complete, return to tropical calm after brief devastation, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing aftermath and ceasefire"
+    focus: "Contrast between undamaged British fleet and destroyed palace"
+    depth: "British warships in foreground, damaged harbor area in middle ground, Stone Town in background"

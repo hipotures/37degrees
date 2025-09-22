@@ -1,0 +1,65 @@
+canon:
+  characters:
+    - id: "character_MV"
+      name: "Character MV"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Dutch physicist, approximately 45-50 years old, medium build, intellectual demeanor, focused expression"
+            clothing: "White laboratory coat over dark shirt, safety glasses, professional academic attire typical of physics laboratories"
+            position: "Leaning over high-speed camera equipment in laboratory setting"
+            action: "Operating scientific equipment, making excited gestures when discussing breakthrough discoveries"
+    - id: "character_DL"
+      name: "Character DL"
+      description_block: |
+        characters:
+          - appearance: "Senior physicist, approximately 40-45 years old, tall, thin build, beard, analytical expression"
+            clothing: "Casual academic attire, button-down shirt, often seen with papers and research notes"
+            position: "Standing at laboratory workstation reviewing data and calculations"
+            action: "Analyzing scientific data, collaborative discussion with research team members"
+    - id: "character_DS"
+      name: "Character DS"
+      description_block: |
+        characters:
+          - appearance: "Contemporary engineering professor, 40s-50s, professional appearance, focused demeanor"
+            clothing: "Modern laboratory attire, safety equipment when working with plasma devices"
+            position: "Working with 3D printing equipment and mechanical devices"
+            action: "Operating bio-inspired plasma generation equipment, hands-on engineering work"
+  locations:
+    - id: "twente_physics_lab"
+      name: "University of Twente Physics Laboratory"
+      description_block: |
+        setting:
+          location: "Modern physics research facility in Netherlands, specialized high-speed imaging laboratory"
+        mainElements: "High-speed cameras capable of nanosecond imaging, water tanks with controlled environments, computer analysis stations, optical measurement equipment"
+        atmosphere: "Sterile white laboratory lighting, quiet except for equipment humming, focused research environment with precision instruments"
+    - id: "marine_environment"
+      name: "Western Atlantic Ocean Habitat"
+      description_block: |
+        setting:
+          location: "Shallow subtropical waters along Atlantic coast from North Carolina to Florida, depth 1-30 meters"
+        mainElements: "Oyster reefs, rocky substrates, coral formations, seagrass beds, sandy bottom areas with shells and debris"
+        atmosphere: "Clear blue-green water with filtered sunlight, moderate current, rich marine ecosystem sounds, temperatures 20-28°C"
+    - id: "texas_am_lab"
+      name: "Texas A&M Engineering Laboratory"
+      description_block: |
+        setting:
+          location: "Modern engineering research facility specializing in plasma generation and bio-inspired devices, College Station, Texas"
+        mainElements: "3D printing equipment, plasma measurement devices, water tanks for testing, computer modeling stations"
+        atmosphere: "High-tech engineering environment with advanced manufacturing equipment, controlled testing conditions"
+  items:
+    - id: "cavitation_bubble"
+      name: "Collapsing Cavitation Bubble"
+      description_block: |
+        details: "Microscopic void in water, approximately 1mm diameter when expanded, transparent sphere that exists for 15 microseconds, reaches internal temperatures of 4,727°C, generates pressures exceeding 80 kilopascals, produces brief flash of light"
+    - id: "shrimp_claw"
+      name: "Pistol Shrimp Asymmetric Claw"
+      description_block: |
+        details: "Disproportionally large claw measuring half the body length (1.5-2.5cm), orange-brown coloration, specialized snapping mechanism, deep notch beneath finger joint, rapid-closure mechanism achieving 25 m/s jet velocity, can be either right or left claw"
+    - id: "high_speed_camera"
+      name: "Nanosecond High-Speed Camera"
+      description_block: |
+        details: "Specialized scientific camera system capable of 10-nanosecond exposure times, mounted on adjustable laboratory stand, digital imaging sensor with extreme temporal resolution, connected to computer analysis systems, requires precise timing triggers"
+    - id: "plasma_device"
+      name: "Bio-Inspired Mechanical Claw Device"
+      description_block: |
+        details: "3D-printed mechanical device scaled 5x larger than natural shrimp claw, metallic construction with articulated joints, precise replication of natural claw geometry based on micro-CT scans, generates underwater plasma at 3,000°F"

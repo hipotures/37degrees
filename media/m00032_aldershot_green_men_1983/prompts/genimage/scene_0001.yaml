@@ -1,0 +1,103 @@
+sceneDescription:
+  setting:
+    time: August 12, 1983, 12:15 AM
+    location: 49 Pegasus Avenue, Aldershot, modest working-class home exterior
+    weather: Clear mild August night, comfortable temperature for outdoor activities
+  characters:
+  - appearance: 77-year-old man, medium build, weathered face with military bearing, graying hair, wearing practical fishing
+      attire
+    clothing: Dark woolen coat, wellington boots, flat cap, carrying fishing equipment and thermos flask
+    position: Standing at front door, stepping out into night with fishing gear
+    action: Preparing to leave for night fishing, checking equipment, calling small dog to accompany him
+  - appearance: Small dog, breed unspecified, alert and eager
+    clothing: Natural fur coat, collar visible
+    position: Standing beside elderly man, tail wagging
+    action: Responding to call, ready to accompany master on fishing expedition
+  scene:
+    mainElements: Modest terraced house with small front garden, fishing rod and tackle box, thermos flask, elderly man and
+      dog preparing for departure
+    details: Working-class residential street typical of 1980s Aldershot, practical fishing equipment including rod, tackle
+      box, and thermos, small front garden with gate, domestic lighting from house windows, quiet neighborhood atmosphere
+      of military town. Character AB checking his gear methodically with military precision, tiny the dog showing excitement
+      for the outing
+    background: Neighboring terraced houses with darkened windows, empty residential street, distant glow from Aldershot military
+      installations, Hampshire countryside beyond
+    atmosphere: Peaceful residential night in military town, sense of routine and familiarity, anticipation of quiet fishing
+      session, domestic tranquility before extraordinary events, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from street level, slightly low angle showing house and departing figures
+    focus: Elderly fisherman with dog and equipment preparing for night expedition
+    depth: House and front garden in foreground, empty street in middle ground, distant military district lights in background
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,105 @@
+sceneDescription:
+  setting:
+    time: 1995-1999 period, evening investigation hour
+    location: Falkirk Triangle region, countryside investigation site
+    weather: Clear evening, optimal UFO observation conditions
+  characters:
+  - appearance: Middle-aged Scottish man, gray hair, serious researcher demeanor, analytical eyes reflecting 45 years of investigation
+      experience
+    clothing: Casual brown field jacket, practical research attire, often carries professional investigation equipment and
+      notebooks
+    position: Standing in open countryside with investigation equipment setup
+    action: Methodically conducting professional UFO investigation, documenting 300 annual sightings with scientific approach,
+      maintaining 45-year research methodology
+  scene:
+    mainElements: Open countryside of Falkirk Triangle region stretching between Stirling, Fife, and Edinburgh outskirts,
+      professional UFO research equipment including cameras and recording devices, measurement tools positioned for field
+      documentation, rural landscape perfect for aerial phenomenon observation
+    details: Professional UFO research equipment strategically positioned throughout investigation area, cameras and recording
+      devices calibrated for night observation, measurement tools ready for documentation, extensive case files organized
+      for field reference, 45 years of investigation experience evident in methodical setup, rural roads and scattered industrial
+      areas providing clear sky visibility, minimal light pollution optimal for UFO observation, investigation site chosen
+      for historical sighting frequency, scientific credibility maintained through systematic approach, no text or letters
+      visible
+    background: Rolling Scottish hills of Falkirk Triangle, clear evening sky, scattered towns visible in distance, rural
+      landscape extending to horizon
+    atmosphere: Serious scientific investigation of ongoing mystery, 45-year veteran researcher applying systematic methodology,
+      peak period documentation of 300 annual sightings, professional credibility addressing extraordinary claims
+  composition:
+    cameraAngle: Medium shot showing researcher with equipment in countryside setting
+    focus: Character MR conducting field investigation with professional equipment and Falkirk Triangle landscape
+    depth: Foreground shows investigation equipment, middle ground shows researcher in action, background shows expansive
+      countryside and clear sky
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

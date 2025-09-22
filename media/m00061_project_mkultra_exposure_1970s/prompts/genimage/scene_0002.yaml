@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: November 19, 1953, evening
+    location: Government retreat facility, Deep Creek Lake area, rural Maryland
+    weather: Cold autumn evening, indoor setting
+  characters:
+  - appearance: Caucasian man, 50s, medium build, balding with mustache, clinical expression, thick-rimmed glasses
+    clothing: 1950s dark civilian suit with white shirt and tie
+    position: Standing beside serving table, partially hidden in shadows
+    action: Discreetly adding clear liquid from small vial to drinks on serving tray, glancing around cautiously
+  - appearance: Caucasian man, 40s, tall, lean build, dark hair, worried expression, scientific bearing
+    clothing: 1953 casual civilian clothes, white dress shirt without tie
+    position: Sitting at conference table with other attendees
+    action: Engaged in conversation with colleagues, unaware of substance being added to beverages
+  - appearance: Various individuals, 20s-50s, different ethnicities and builds, confused or distressed expressions
+    clothing: 1950s civilian clothes, business attire, casual sweaters
+    position: Seated around wooden conference table
+    action: Participating in meeting discussion, reaching for drinks from serving tray
+  scene:
+    mainElements: Rustic conference room with wooden table, chairs arranged around it, serving area with drinks and refreshments,
+      1950s institutional furniture
+    details: Conference table covered with papers and documents. Serving tray with coffee cups, water glasses, and refreshments.
+      Small glass vial partially concealed in one person's hand. Window blinds drawn shut. Overhead lighting creating dramatic
+      shadows. Wall clock showing 7:30 PM.
+    background: Wood-paneled walls with government facility certificates, closed window blinds, institutional hallway visible
+      through partially open door
+    atmosphere: Deceptive normalcy of routine meeting concealing sinister secret experiment, sense of betrayal and violation
+      of trust among colleagues, no text or letters visible
+  composition:
+    cameraAngle: Wide angle from corner of room
+    focus: Covert action of substance being added to drinks while meeting continues
+    depth: Serving area in foreground, conference participants in middle ground, institutional setting in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

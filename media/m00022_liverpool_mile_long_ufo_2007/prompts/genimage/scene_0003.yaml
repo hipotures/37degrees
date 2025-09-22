@@ -1,0 +1,99 @@
+sceneDescription:
+  setting:
+    time: 2007, daytime office hours
+    location: Ministry of Defence UFO desk, Whitehall, London, England
+    weather: Overcast London day, typical government building interior
+  characters:
+  - appearance: Middle-aged British official, authoritative presence, professional demeanor, experienced investigator
+    clothing: Government official suit and tie, formal business attire, identification badge
+    position: Seated at desk reviewing case files, surrounded by filing cabinets
+    action: Examining UFO reports and witness statements, marking locations on wall map of UK
+  scene:
+    mainElements: Professional government office environment, large wall map of United Kingdom with colored pins marking UFO
+      hotspots, multiple filing cabinets labeled with years and case numbers
+    details: Desk covered with typed reports and witness statements, telephone for receiving calls, official letterhead documents,
+      folders marked with location names including Liverpool, Manchester, Warminster, London, and Bonnybridge, bulletin board
+      with photographs and charts, fluorescent office lighting, official government building interior, filing system with
+      hundreds of UFO case files
+    background: Windows showing London government district, additional desks with other civil servants, corridor visible through
+      open door
+    atmosphere: Serious professional investigation environment, sense of ongoing official monitoring of unexplained phenomena,
+      bureaucratic efficiency and documentation, no text or letters visible
+  composition:
+    cameraAngle: Over-the-shoulder view from behind investigator looking at desk and wall map
+    focus: The wall map with UFO hotspot pins and the case files spread across desk
+    depth: Foreground shows desk with documents, middle ground shows investigator and immediate workspace, background shows
+      office environment and London view
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

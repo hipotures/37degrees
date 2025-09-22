@@ -1,0 +1,134 @@
+canon:
+  characters:
+    - id: "judge_main"
+      name: "Chief Judge"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man, 50s, stern expression, graying beard, authoritative presence"
+            clothing: "Black judicial robes with white collar, medieval cap of office, ceremonial chain"
+            posture: "Upright and commanding, hands often clasped or holding court documents"
+    - id: "defense_lawyer"
+      name: "Defense Lawyer"
+      description_block: |
+        characters:
+          - appearance: "Young man, 30s, scholarly appearance, intelligent eyes, clean-shaven"
+            clothing: "Brown scholar's robes, leather belt, ink-stained fingers from writing"
+            posture: "Earnest and gesticulating, often holding legal documents or quill"
+    - id: "prosecutor"
+      name: "Court Prosecutor"
+      description_block: |
+        characters:
+          - appearance: "Man, 40s, sharp features, calculating expression, well-groomed"
+            clothing: "Dark blue court robes, silver clasp, leather document pouch"
+            posture: "Confident and accusatory, pointing finger or holding evidence"
+    - id: "executioner"
+      name: "Royal Executioner"
+      description_block: |
+        characters:
+          - appearance: "Large man, 40s, muscular build, hooded face partially visible, weathered hands"
+            clothing: "Black leather hood, dark tunic, leather apron, heavy boots"
+            posture: "Standing ready with tools, hands clasped behind back when waiting"
+    - id: "bailiff"
+      name: "Court Bailiff"
+      description_block: |
+        characters:
+          - appearance: "Stocky man, 35s, alert expression, watchful eyes, short beard"
+            clothing: "Court livery in red and gold, leather belt with keys, staff of office"
+            posture: "Vigilant stance, holding ceremonial staff or maintaining order"
+    - id: "village_father"
+      name: "Victim's Father"
+      description_block: |
+        characters:
+          - appearance: "Man, 30s, grief-stricken face, hollow eyes, thin from sorrow"
+            clothing: "Simple brown peasant tunic, leather belt, worn boots, cap in hands"
+            posture: "Slumped shoulders, head bowed, hands often covering face or wringing cap"
+    - id: "village_mother"
+      name: "Victim's Mother"
+      description_block: |
+        characters:
+          - appearance: "Woman, 20s, tear-streaked face, exhausted appearance, trembling hands"
+            clothing: "Dark woolen dress, white head covering, simple wooden cross necklace"
+            posture: "Bent with grief, hands clutched to chest or covering mouth in anguish"
+    - id: "town_crier"
+      name: "Town Crier"
+      description_block: |
+        characters:
+          - appearance: "Man, 40s, loud voice, prominent beard, commanding presence"
+            clothing: "Bright blue and red town livery, feathered cap, ceremonial bell"
+            posture: "Standing tall with bell raised, mouth open mid-proclamation"
+    - id: "crowd_peasants"
+      name: "Village Crowd"
+      description_block: |
+        characters:
+          - appearance: "Mixed group of men, women, children, various ages, curious and horrified expressions"
+            clothing: "Simple peasant clothes, brown and gray tunics, head coverings, work boots"
+            posture: "Clustered together, pointing, whispering, some covering children's eyes"
+  locations:
+    - id: "medieval_courtroom"
+      name: "Medieval Courtroom in Falaise"
+      description_block: |
+        setting:
+          location: "Stone courtroom chamber, Falaise castle, Normandy, France"
+        mainElements: "High stone walls with arched windows, wooden judge's bench elevated on platform, defendant's area with wooden barrier"
+        atmosphere: "Solemn and intimidating, cold stone surfaces echoing voices, candlelight casting dramatic shadows"
+    - id: "village_square"
+      name: "Falaise Market Square"
+      description_block: |
+        setting:
+          location: "Central market square, Falaise, surrounded by timber-framed houses"
+        mainElements: "Cobblestone ground, wooden market stalls, central well, gallows platform constructed of oak"
+        atmosphere: "Bustling yet tense, crowd gathered in anticipation, morning light filtering through overcast sky"
+    - id: "victim_cottage"
+      name: "Peasant Family Cottage"
+      description_block: |
+        setting:
+          location: "Small single-room cottage, Falaise village outskirts"
+        mainElements: "Stone walls, thatched roof, single wooden door, small window with wooden shutters"
+        atmosphere: "Humble and tragic, scene of the crime, blood stains on wooden cradle and floor"
+    - id: "castle_dungeon"
+      name: "Castle Prison Cell"
+      description_block: |
+        setting:
+          location: "Underground stone cell, Falaise castle dungeons"
+        mainElements: "Iron-barred cell door, straw-covered floor, stone walls with iron rings, feeding trough"
+        atmosphere: "Dark and damp, cold stone echoing animal sounds, torch light flickering on wet walls"
+    - id: "castle_gates"
+      name: "Falaise Castle Entrance"
+      description_block: |
+        setting:
+          location: "Main gates of Falaise castle, heavy wooden doors with iron reinforcement"
+        mainElements: "Massive stone archway, wooden portcullis, guard towers flanking entrance, coat of arms carved above"
+        atmosphere: "Imposing and authoritative, symbol of judicial power, morning light casting long shadows"
+  items:
+    - id: "pig_defendant"
+      name: "Accused Pig"
+      description_block: |
+        details: "Large domestic sow, approximately 3 years old, brown and pink coloring, heavy build around 300 pounds, intelligent but wary eyes"
+    - id: "execution_rope"
+      name: "Hangman's Noose"
+      description_block: |
+        details: "Thick hemp rope with thirteen coils, professionally knotted, attached to wooden gallows beam"
+    - id: "court_documents"
+      name: "Legal Proceedings"
+      description_block: |
+        details: "Parchment scrolls with official seals, written testimonies, court records, evidence inventory"
+    - id: "wooden_gavel"
+      name: "Judge's Gavel"
+      description_block: |
+        details: "Heavy wooden mallet with carved handle, used to call court to order and pronounce sentences"
+    - id: "execution_clothes"
+      name: "Pig's Execution Attire"
+      description_block: |
+        details: "Human clothing fitted for pig: white waistcoat, leather gloves, linen drawers, mocking human dress"
+    - id: "baby_cradle"
+      name: "Victim's Cradle"
+      description_block: |
+        details: "Wooden baby cradle with rockers, blood-stained interior, torn blankets, evidence of violence"
+    - id: "court_bell"
+      name: "Court Session Bell"
+      description_block: |
+        details: "Bronze bell with wooden handle, used to announce court proceedings and public announcements"
+    - id: "gallows_platform"
+      name: "Execution Scaffold"
+      description_block: |
+        details: "Wooden platform raised 4 feet high, oak construction, trap door mechanism, rope beam overhead"

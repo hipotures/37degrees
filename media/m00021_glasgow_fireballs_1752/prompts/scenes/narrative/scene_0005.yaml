@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Great Fireball Appears Over Glasgow"
+  setting:
+    time: "December 11, 1752, 4:00 PM"
+    location: "Glasgow city center, Scotland, December 1752"
+    weather: "Clear winter visibility allowing dramatic celestial observation"
+  characters:
+    - appearance: "Middle-aged Scottish gentleman, likely educated based on detailed observation skills, 40s, intelligent countenance, careful grooming reflecting professional status"
+      clothing: "Dark wool coat with brass buttons, white linen shirt with cravat, knee-length breeches, white stockings, buckled shoes - typical 1750s Scottish urban dress"
+      position: "Standing on street, pointing upward at the phenomenon"
+      action: "Observing and documenting the extraordinary celestial event with intense focus and scientific methodology"
+  scene:
+    mainElements: "Large luminous sphere with extended tail, exhibiting rainbow colors during several minutes of visibility, traveling northeast to southwest direction, fragmenting into thousands of sparks"
+    details: "The magnificent fireball blazes across the Glasgow sky, displaying all the colors of the rainbow as documented in The Gentleman's Magazine. The luminous sphere trails fire as it moves from northeast to southwest, visible for several minutes in the December afternoon sky. Citizens stop their daily activities to witness this unprecedented celestial event, while the educated observer carefully notes details that would later be published in the historical record, no text or letters visible"
+    background: "Glasgow cityscape silhouetted against the dramatic fireball phenomenon crossing the winter sky"
+    atmosphere: "Awe and wonder as the extraordinary celestial phenomenon unfolds over the Scottish Enlightenment city"
+  composition:
+    cameraAngle: "Dynamic shot capturing both the fireball and human reaction"
+    focus: "The rainbow-colored fireball as the central dramatic element"
+    depth: "Foreground shows the observing character, middle ground captures the city response, background dominated by the spectacular fireball crossing the December sky"

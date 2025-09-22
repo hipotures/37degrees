@@ -1,0 +1,12 @@
+media_info:
+  title: Penicillin Accidental Discovery - 1928
+  year: 1928
+  genre: Medical History Documentary
+  description: Fleming discovers antibiotic when mold contaminates bacteria culture, revolutionizing medicine
+  target_audience: General public, students, medical history enthusiasts, science researchers
+  duration: ~3 minutes
+  objective: Recreate the serendipitous discovery that launched the antibiotic age and saved millions of lives
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

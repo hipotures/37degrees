@@ -4,3 +4,174 @@ book_info:
   author: "Niccolò Machiavelli"
   year: 1532
   genre: "Political philosophy,Treatise"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T15:42:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 10
+    structural_complexity: 7
+    social_roles: 8
+    total: 69
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.0
+      category: high
+    heat:
+      value: 8.2
+      category: high
+
+  themes:
+    universal:
+      - id: controversy_church_ban
+        type: FACT
+        credibility: 0.95
+        content: "Banned by Catholic Church in 1559, placed on Index of Forbidden Books, accused of being 'written by Satan's finger'"
+        source: dark_drama
+      - id: dictator_readership
+        type: BOMBSHELL
+        credibility: 0.90
+        content: "Read by Hitler (bedside copy), Stalin (annotated copy), Mussolini (called it 'supreme guide')"
+        source: dark_drama
+      - id: philosophical_archetypes
+        type: ANALYSIS
+        credibility: 0.85
+        content: "Fox-lion duality, Fortuna as feminine force, Centaur hybrid nature create enduring archetypal framework"
+        source: symbols_meanings
+      - id: cultural_penetration
+        type: FACT
+        credibility: 0.95
+        content: "Influenced House of Cards, Breaking Bad, Game of Thrones, created 'Machiavellian' as universal term"
+        source: culture_impact
+      - id: contemporary_relevance
+        type: ANALYSIS
+        credibility: 0.85
+        content: "Social media manipulation, corporate politics, algorithmic control reflect Machiavellian insights"
+        source: youth_digital
+      - id: innovation_genre
+        type: FACT
+        credibility: 0.95
+        content: "Created modern political science, revolutionized mirror-for-princes genre, separated politics from morality"
+        source: writing_innovation
+      - id: structural_techniques
+        type: ANALYSIS
+        credibility: 0.85
+        content: "Three-element argumentation, strategic ambiguity, embedded commands became standard rhetorical tools"
+        source: writing_innovation
+      - id: social_transformation
+        type: ANALYSIS
+        credibility: 0.85
+        content: "Challenged traditional authority structures, questioned virtue-based leadership models"
+        source: symbols_meanings
+
+    localized:
+      en:
+        cultural_impact: "Foundational text in Anglo-American political science, standard university curriculum"
+        key_editions: ["Oxford World's Classics", "Penguin Classics", "Norton Critical Edition"]
+        reception_notes: "Shaped English political vocabulary with 'Machiavellian' term, influenced Founding Fathers"
+        educational_status: "Required reading in political science programs"
+        local_themes: ["Constitutional development", "Separation of powers", "Political realism"]
+      pl:
+        cultural_impact: "First translated 1868 for independence struggle, evolved to business applications"
+        key_editions: ["Sozański 1868", "Nanke 1920", "Klimkiewicz 2005", "Płoski 2010"]
+        reception_notes: "Connected to Mickiewicz's Konrad Wallenrod motto, adapted for Polish political analysis"
+        educational_status: "Available on Wolne Lektury platform, referenced in matriculation materials"
+        local_themes: ["Independence struggle parallels", "Political sentimentalism", "Management philosophy"]
+      de:
+        cultural_impact: "Significant influence on German political thought and philosophical tradition"
+        key_editions: ["Reclam editions", "Scholarly commentaries"]
+        reception_notes: "Strong academic tradition, philosophical interpretations"
+        educational_status: "Standard in German universities"
+        local_themes: ["Philosophical idealism contrast", "State theory", "Power dynamics"]
+      fr:
+        cultural_impact: "Influenced French political development, royal court strategies"
+        key_editions: ["French translations since 16th century"]
+        reception_notes: "Catherine de Medici connection, influenced French political culture"
+        educational_status: "Classical political philosophy curriculum"
+        local_themes: ["Royal absolutism", "Court politics", "Revolutionary theory"]
+      es:
+        cultural_impact: "Spread throughout Spanish empire, influenced colonial administration"
+        key_editions: ["Spanish academic editions"]
+        reception_notes: "Colonial power dynamics applications"
+        educational_status: "Political science and history programs"
+        local_themes: ["Imperial administration", "Colonial governance", "Power centralization"]
+      pt:
+        cultural_impact: "Portuguese colonial empire applications, Brazilian political thought"
+        key_editions: ["Portuguese translations"]
+        reception_notes: "Colonial and post-colonial political analysis"
+        educational_status: "University political philosophy courses"
+        local_themes: ["Colonial governance", "Power consolidation", "Political pragmatism"]
+      ja:
+        cultural_impact: "Translated during Meiji Restoration, influenced modernization strategies"
+        key_editions: ["Japanese scholarly translations"]
+        reception_notes: "Applied to Japanese political modernization and business strategy"
+        educational_status: "Comparative political philosophy"
+        local_themes: ["Modernization strategies", "Business management", "Strategic thinking"]
+      ko:
+        cultural_impact: "Modern Korean political analysis, business leadership applications"
+        key_editions: ["Korean academic translations"]
+        reception_notes: "Corporate strategy and political development contexts"
+        educational_status: "Business schools and political science"
+        local_themes: ["Corporate leadership", "Political strategy", "Competitive advantage"]
+      hi:
+        cultural_impact: "Comparative analysis with Arthashastra, modern Indian political thought"
+        key_editions: ["Hindi translations"]
+        reception_notes: "Contrasted with traditional Indian statecraft principles"
+        educational_status: "Comparative political philosophy"
+        local_themes: ["Ancient vs modern statecraft", "Power ethics", "Governance philosophy"]
+
+  formats:
+    academic_analysis:
+      name: academic_analysis
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: introduction
+          lead: host_a
+          description: "Introducing Machiavelli's revolutionary separation of politics from morality"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: analysis
+          lead: host_b
+          description: "Examining the fox-lion duality and archetypal power structures"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: examples
+          lead: host_a
+          description: "Historical case studies: Cesare Borgia and contemporary applications"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: controversy
+          lead: host_b
+          description: "Church ban, dictator readership, and enduring controversies"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: synthesis
+          lead: host_a
+          description: "Modern relevance: social media manipulation and corporate politics"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'The Prince' with scholarly depth. Discuss Machiavelli's revolutionary separation of politics from morality, the fox-lion archetypal framework, and how these concepts created modern political science. Academic but accessible, emphasizing the work's foundational importance."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification about complex philosophical concepts, request examples of how Machiavellian principles apply today, and help make the academic analysis accessible to general audiences. Connect to contemporary issues like social media and corporate leadership."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["political manipulation discussion", "historical violence references", "authoritarian content analysis"]
+    educational_elements: ["Political philosophy fundamentals", "Historical context of Renaissance Italy", "Rhetorical analysis techniques", "Critical thinking about power"]
+    production_notes:
+      intro_style: "Scholarly but engaging introduction to political philosophy"
+      transitions: "Subtle musical bridges between historical periods"
+      outro_style: "Reflective conclusion on timeless relevance"
+
+  overall_confidence: 0.92

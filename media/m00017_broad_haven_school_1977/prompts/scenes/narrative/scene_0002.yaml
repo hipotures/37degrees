@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Moment of the Extraordinary - Children Point to the Sky"
+  setting:
+    time: "February 4, 1977, 1:30 PM"
+    location: "School playground at Broad Haven Primary School, chain-link fence area overlooking adjacent field"
+    weather: "Clear winter afternoon with excellent visibility"
+  characters:
+    - appearance: "Small-framed 10-year-old boy, brown hair, typical 1970s schoolboy appearance, earnest expression"
+      clothing: "1970s school uniform - grey shorts, white shirt, school jumper, black shoes"
+      position: "Standing at playground fence, arm extended pointing toward field"
+      action: "Pointing excitedly toward the field, mouth open in amazement, calling to other children"
+    - appearance: "10-year-old boy, confident bearing reflecting military family background"
+      clothing: "Standard school uniform of grey shorts, white shirt, school jumper"
+      position: "Running toward fence from football game"
+      action: "Dropping football and running to see what classmates are pointing at"
+  scene:
+    mainElements: "Chain-link fence separating playground from field, group of children gathering at fence, football abandoned on playground tarmac, mature trees bordering the field"
+    details: "Children's faces pressed against chain-link fence, fingers gripping wire mesh, heads tilted upward looking toward the field. Abandoned playground equipment and football scattered on tarmac. Other children running from various playground activities to join the group at the fence. Excitement and wonder visible in their postures and expressions."
+    background: "Open grassy field with gentle slope stretching into Welsh countryside, clear blue February sky above, hedgerows marking field boundaries"
+    atmosphere: "Moment of transition from ordinary play to extraordinary encounter, children's natural curiosity and excitement building, sense of something momentous beginning, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from behind the children looking through fence toward field"
+    focus: "Children's reactions and pointing gestures, their wonder and excitement clearly visible"
+    depth: "Foreground: children at fence, middle ground: empty field, background: Welsh countryside and sky"

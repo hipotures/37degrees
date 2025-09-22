@@ -4,3 +4,182 @@ book_info:
   author: "Naguib Mahfouz"
   year: 1956
   genre: "Family saga,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T12:30:00"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 2
+    relevance: 8
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 9
+    total: 58
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.2
+      category: "high"
+    heat:
+      value: 6.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Author survived assassination attempt by Islamic extremists in 1994, suffered permanent nerve damage ending writing career"
+        source: "dark_drama"
+      - id: "dark_drama_1"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Accused of intellectual betrayal for supporting Israel-Egypt peace, books banned in multiple Arab countries"
+        source: "dark_drama"
+      - id: "symbols_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Multiple interpretive layers: allegorical (family as nation), existentialist, feminist, postcolonial readings"
+        source: "symbols_meanings"
+      - id: "culture_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Film trilogy by Hassan Al Imam (1964-1973), BBC Radio adaptation, 30+ Egyptian films based on Mahfouz works"
+        source: "culture_impact"
+      - id: "youth_0"
+        type: "ANALYSIS"
+        credibility: 0.75
+        content: "Limited TikTok presence despite themes resonating with therapy speak and generational trauma trends"
+        source: "youth_digital"
+      - id: "reality_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Predicted rise of Islamic fundamentalism, women's rights evolution, and generational political conflicts"
+        source: "reality_wisdom"
+      - id: "innovation_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionized Arabic literature, created first great family saga, introduced psychological realism"
+        source: "writing_innovation"
+      - id: "social_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Groundbreaking feminist analysis of patriarchy, foundational text for Middle Eastern gender studies"
+        source: "local_contexts"
+
+    localized:
+      en:
+        cultural_impact: "Published by prestigious houses, edited by Jackie Kennedy Onassis, essential reading in comparative literature"
+        key_editions: ["Doubleday (1990s)", "Everyman's Library", "Penguin Classics"]
+        reception_notes: "BBC Radio adaptation, strong academic presence in universities worldwide"
+        educational_status: "Standard text in Middle Eastern studies programs"
+        local_themes: ["Postcolonial literature", "East-West cultural dialogue"]
+
+      pl:
+        cultural_impact: "Published by PIW in prestigious 80 Worlds series, translated directly from Arabic by Jolanta Kozłowska"
+        key_editions: ["PIW 1989 (Volume I only)", "Incomplete trilogy - Volume III never translated"]
+        reception_notes: "Strong academic interest but limited availability, missing from school reading lists"
+        educational_status: "Part of Arabic studies at University of Warsaw and Jagiellonian University"
+        local_themes: ["Parallels with Polish patriarchal traditions", "Modernization conflicts"]
+
+      de:
+        cultural_impact: "Published by Unionsverlag, masterfully translated by Doris Kilias, praised by Austrian and German critics"
+        key_editions: ["Unionsverlag complete trilogy", "Zwischen den Palästen", "Palast der Sehnsucht", "Zuckergässchen"]
+        reception_notes: "German critics appreciated psychological complexity and musical narrative structure"
+        educational_status: "Studied within orientalist and postcolonial frameworks at German universities"
+        local_themes: ["Philosophical resonance with German intellectual traditions", "Cultural encounter themes"]
+
+      fr:
+        cultural_impact: "Published by Sindbad/Actes Sud, translated by Philippe Vigreux, supported by Institut du Monde Arabe"
+        key_editions: ["La trilogie du Caire", "JC Lattès and Le Livre de poche editions"]
+        reception_notes: "Jacques Berque praised for historical accuracy and emotional depth"
+        educational_status: "Studied in French universities' comparative literature and Middle Eastern studies"
+        local_themes: ["Maghreb cultural connections", "French colonial memory parallels"]
+
+      es:
+        cultural_impact: "Published by multiple Spanish houses including Editorial Austral and Edhasa"
+        key_editions: ["Entre dos palacios", "Palacio del deseo", "La azucarera"]
+        reception_notes: "Strong institutional support in Spain, compared to Spanish social realists"
+        educational_status: "Integrated into Arabic studies programs at Universidad de Granada"
+        local_themes: ["Al-Andalus heritage connections", "Social realism traditions"]
+
+      pt:
+        cultural_impact: "Translated by Badr Hassanein, published by Civilização Editora (Portugal) and Record (Brazil)"
+        key_editions: ["Entre os Dois Palácios", "O Palácio do Desejo", "O Açucareiro"]
+        reception_notes: "Compared to Tolstoy and Proust, recognized as masterwork of 20th century literature"
+        educational_status: "Studied at University of São Paulo Arabic studies department"
+        local_themes: ["Postcolonial parallels with Lusophone Africa", "Family saga traditions"]
+
+      ja:
+        cultural_impact: "Published by multiple houses including Kokusho Kankokai and Kawade Shobo Shinsha"
+        key_editions: ["Bainal Qasrain translations", "Academic translations by Hanawa Haruo"]
+        reception_notes: "Resonates with Japanese modernization themes and family honor concepts"
+        educational_status: "Studied in Middle Eastern literature programs, comparative family saga analysis"
+        local_themes: ["Meiji Restoration parallels", "Traditional vs modern conflicts"]
+
+      ko:
+        cultural_impact: "Limited presence in Korean literary culture, fewer than 4 Arabic works translated annually"
+        key_editions: ["No confirmed Korean translation of complete trilogy"]
+        reception_notes: "Academic interest through comparative literature with Korean writers like Yom Sang-seop"
+        educational_status: "Studied in Middle East studies at Dankook University and Chosun University"
+        local_themes: ["Confucian family structure parallels", "Modernization conflicts"]
+
+      hi:
+        cultural_impact: "Available through major Indian distributors, comparative studies with Mulk Raj Anand's Punjab Trilogy"
+        key_editions: ["Available through Flipkart India", "Urdu translations through specialized platforms"]
+        reception_notes: "Academic engagement through postcolonial analysis and Islamic heritage connections"
+        educational_status: "Studied at JNU Centre of Arabic and African Studies, Jamia Millia Islamia"
+        local_themes: ["Colonial experience parallels", "Islamic cultural heritage"]
+
+  formats:
+    temporal_context:
+      name: "temporal_context"
+      duration: 16
+      hosts:
+        host_a: "classical literature expert explaining 1917-1944 Egyptian origins"
+        host_b: "contemporary reader finding modern relevance in 2025"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:12"
+          topic: "original_era"
+          lead: "host_a"
+          description: "Setting up historical Cairo 1917-1944, British occupation, traditional family structures"
+        - segment: 2
+          time_range: "03:12-06:24"
+          topic: "evolution"
+          lead: "host_b"
+          description: "How Mahfouz predicted social changes: fundamentalism rise, women's rights, generational conflict"
+        - segment: 3
+          time_range: "06:24-09:36"
+          topic: "modern_parallels"
+          lead: "host_a"
+          description: "Contemporary echoes: Arab Spring, family dynamics, tradition vs modernity globally"
+        - segment: 4
+          time_range: "09:36-12:48"
+          topic: "timelessness"
+          lead: "host_b"
+          description: "Why themes of patriarchy, modernization, and identity crisis remain universally relevant"
+        - segment: 5
+          time_range: "12:48-16:00"
+          topic: "synthesis"
+          lead: "host_a"
+          description: "Legacy of prescient masterwork that bridges historical Egypt with contemporary understanding"
+      prompts:
+        host_a: "You are {male_name}, a classical literature expert. Explain 'The Cairo Trilogy' in its original 1917-1944 context, historical events, cultural traditions, family structures of early 20th century Egypt."
+        host_b: "You are {female_name} from 2025. Find modern parallels in 'The Cairo Trilogy', connect to current social media trends, contemporary family dynamics, ongoing tradition vs modernity conflicts globally."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "domestic control themes", "political assassination attempt"]
+    educational_elements: ["Family saga genre characteristics", "Historical context of 1917-1944 Egypt", "Postcolonial literary analysis", "Arabic literature modernization"]
+    production_notes:
+      intro_style: "Arabic instrumental with urban Cairo soundscape"
+      transitions: "Subtle oud melodies bridging time periods"
+      outro_style: "Contemporary Middle Eastern fusion reflecting timeless themes"
+
+  overall_confidence: 0.89

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Scientific Measurement at Chimborazo"
+  setting:
+    time: "Modern day, late morning"
+    location: "Mount Chimborazo summit, Ecuador, snow-covered volcanic peak at 6,263 meters"
+    weather: "Clear conditions perfect for measurements"
+  characters:
+    - appearance: "Caucasian man, 40s, scholarly build, wire-rimmed glasses, thoughtful expression"
+      clothing: "Khaki field research clothes, hiking boots, backpack with scientific equipment"
+      position: "Kneeling beside surveying equipment on summit"
+      action: "Taking precise GPS measurements and calibrating scientific instruments"
+    - appearance: "Person in 30s, athletic build, weathered face from high altitude exposure"
+      clothing: "Modern mountaineering gear, insulated jacket, climbing helmet, oxygen equipment"
+      position: "Assisting with equipment setup"
+      action: "Helping position measurement devices and recording data"
+  scene:
+    mainElements: "Snow-covered rocky peak, glacial ice formations, thin atmosphere, Andean mountain range stretching to horizon"
+    details: "Surveying equipment, altimeters, barometric pressure gauges, geological measurement tools precisely positioned on summit, modern GPS devices displaying coordinates, scientists working methodically despite thin air, no text or letters visible"
+    background: "Panoramic view of Ecuadorian Andes, other volcanic peaks visible in distance"
+    atmosphere: "Majestic, challenging high-altitude environment with stunning mountain vistas focused on scientific discovery"
+  composition:
+    cameraAngle: "Medium shot showing scientists and equipment"
+    focus: "Precise scientific measurement being conducted at summit"
+    depth: "Measurement equipment in foreground, scientists in middle ground, mountain panorama in background"

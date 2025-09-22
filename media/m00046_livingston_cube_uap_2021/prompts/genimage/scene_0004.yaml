@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: October 5, 2021, 22:51h - Expanding witness observation
+    location: Multiple residential areas across Livingston as word spreads and more observers emerge
+    weather: Continued clear sky conditions enabling widespread observation
+  characters:
+  - appearance: Various local residents of different ages, mix of adults, some elderly, expressions of surprise and concern
+    clothing: Evening attire suitable for Scottish October weather, some in outdoor jackets, others in casual indoor clothing
+    position: Gathered in small groups, some on doorsteps, others on streets, all looking skyward
+    action: Pointing at sky, discussing among themselves, some taking photos with phones, expressing amazement
+  scene:
+    mainElements: Multiple groups of residents throughout residential area, all focused on same extraordinary aerial phenomenon,
+      community-wide response to unprecedented sighting
+    details: Neighbors emerging from houses, gathering in small groups on sidewalks and driveways, many pointing upward toward
+      same aerial object, some attempting to photograph or record with mobile phones, animated discussions about what they're
+      witnessing, sense of shared extraordinary experience
+    background: Illuminated residential houses with more lights coming on as residents emerge, clear evening sky, urban landscape
+      of Livingston
+    atmosphere: Community-wide amazement and excitement as multiple independent witnesses observe same unprecedented phenomenon,
+      collective sense of witnessing history
+  composition:
+    cameraAngle: Wide neighborhood view showing multiple witness groups
+    focus: Multiple independent witness groups throughout residential area all observing same aerial phenomenon
+    depth: Foreground showing closest witness group, middle ground with additional scattered observers throughout neighborhood,
+      background showing continued residential area and evening sky, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

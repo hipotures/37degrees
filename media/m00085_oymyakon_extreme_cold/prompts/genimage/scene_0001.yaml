@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: January 1924, midday with pale winter sun
+    location: Central area of Oymyakon village, Sakha Republic, Russia, surrounded by the Yana-Oymyakon Highlands
+    weather: Extreme cold at -71.2°C, crystal clear air with visible breath vapor
+  characters: No characters present in this scene
+  scene:
+    mainElements: Monument displaying temperature record of -71.2°C, small cluster of wooden buildings with steep roofs, main
+      road
+    details: Stone monument stands prominently in village center, displaying the record-breaking temperature that would make
+      this location famous. Snow-covered wooden houses with characteristic steep roofs designed for heavy snow loads surround
+      the monument. Smoke rises from multiple chimneys indicating active heating. Power lines and basic infrastructure visible
+      despite remote location. The main road through village shows packed snow from regular use.
+    background: Vast taiga landscape extending beyond village boundaries, snow-laden evergreen forest stretching to distant
+      mountains, endless white expanse under pale Arctic sky
+    atmosphere: Stark beauty of extreme cold environment, sense of human determination against nature's harshest conditions
+  composition:
+    cameraAngle: Wide establishing shot from elevated position
+    focus: Temperature monument as central landmark with village spread around it
+    depth: Monument in foreground, village buildings in middle ground, endless Siberian wilderness in background, no text
+      or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

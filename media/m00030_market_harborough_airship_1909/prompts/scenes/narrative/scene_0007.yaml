@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Aristocratic Witness at Burghley House"
+  setting:
+    time: "May 9, 1909, 11 PM"
+    location: "Burghley House, Exeter estate grounds"
+    weather: "Clear night with light breeze"
+  characters:
+    - appearance: "Distinguished elderly gentleman, 50s-60s, well-groomed with Victorian whiskers"
+      clothing: "Formal evening dress, white bow tie, tails, reflecting aristocratic status"
+      position: "Standing on terrace of grand estate"
+      action: "Gazing upward with aristocratic authority and measured concern"
+  scene:
+    mainElements: "Grand Elizabethan mansion, manicured gardens, stone terraces, ornate architecture"
+    details: "Imposing stone mansion with multiple chimneys and ornate windows lit from within. Manicured formal gardens with geometric hedge patterns. Stone balustrade and terrace overlooking estate grounds. Oil lamps and gas lighting creating warm yellow glow from mansion windows. Mysterious airship visible as dark shape against starlit sky. Formal evening setting with aristocratic refinement interrupted by extraordinary aerial phenomenon, no text or letters visible"
+    background: "Aristocratic grandeur, evening shadows across estate grounds, sense of established authority and tradition"
+    atmosphere: "High society witness lending credibility to airship phenomenon. Aristocratic composure confronting unexplained aerial mystery"
+  composition:
+    cameraAngle: "Medium shot showing nobleman on terrace with mansion behind"
+    focus: "Aristocratic witness observing airship from position of social authority"
+    depth: "Foreground: Distinguished gentleman on terrace, middle ground: Grand mansion architecture, background: Estate grounds and mysterious sky"

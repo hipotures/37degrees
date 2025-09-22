@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mount Merapi Volcanic Valley Survey - 1884"
+  setting:
+    time: "1884, early morning"
+    location: "Cholut River valley crossing point, Central Java, Indonesia, with Mount Merapi visible in background"
+    weather: "Clear tropical dawn with light volcanic ash haze in distance"
+  characters:
+    - appearance: "Dutch engineer, 40s, tall sturdy build, weathered face from tropical climate, brown hair with receding hairline, wire-rim spectacles"
+      clothing: "White colonial linen shirt with rolled sleeves, brown canvas trousers, leather work boots, pith helmet nearby"
+      position: "Standing on elevated rocky outcrop overlooking river crossing"
+      action: "Studying terrain through surveying telescope while making notes in leather-bound journal"
+    - appearance: "Local Javanese guide, 30s, lean athletic build, dark skin tanned by sun, keen intelligent eyes, quick movements"
+      clothing: "Simple brown cotton shirt, traditional batik sarong, woven sandals, conical bamboo hat"
+      position: "Crouched beside engineer pointing toward volcanic slopes"
+      action: "Gesturing toward Mount Merapi while explaining volcanic patterns and seasonal water flow"
+  scene:
+    mainElements: "Wide rushing river with rocky banks, dense tropical vegetation, volcanic rock formations, planned bridge construction site marked with wooden stakes"
+    details: "Brass surveying equipment on wooden tripod positioned near river edge, scattered volcanic stone samples collected for testing, hand-drawn maps weighted down with stones, wooden measuring chains extended across terrain, morning mist rising from warm river water"
+    background: "Mount Merapi volcano looming majestically with thin plume of steam, terraced rice fields on distant hillsides, tropical forest canopy, colonial settlement visible as small structures in valley below"
+    atmosphere: "Humid tropical morning air with sounds of rushing water and distant bird calls, sense of engineering challenge against powerful natural forces, anticipation of innovative construction project"
+  composition:
+    cameraAngle: "Wide elevated shot from hillside vantage point"
+    focus: "Engineer and guide examining terrain with Mount Merapi dominating background"
+    depth: "River crossing site in foreground, surveying team in middle ground, volcanic mountain landscape extending to horizon, no text or letters visible"

@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1949, evening, end of dinner
+    location: Major's Cabin Grill restaurant interior, 33 West 33rd Street, Manhattan, New York City
+    weather: Warm restaurant interior, evening darkness visible through windows
+  characters:
+  - appearance: Caucasian man, early 40s, average height, clean-shaven face, dark hair combed back with pomade, serious business
+      expression, thin-rimmed glasses
+    clothing: 1949 dark navy business suit with white dress shirt, conservative dark tie, polished black leather shoes, gold
+      wristwatch
+    position: Seated in booth, upper body twisted as he reaches into jacket pocket
+    action: Frantically patting down jacket pockets and pants, expression changing from confidence to shock and embarrassment
+  - appearance: Caucasian man, late 30s, slightly taller than average, neatly groomed brown hair, mustache, lawyer appearance,
+      attentive eyes
+    clothing: 1949 charcoal gray suit with vest, white shirt, striped tie, leather briefcase often at hand, wire-rim spectacles
+    position: Seated across from companion, leaning forward with concern
+    action: Watching with growing concern, eyebrows raised, hands reached halfway across table ready to help
+  - appearance: Caucasian man, 50s, slightly balding, professional service worker appearance, patient but observant expression
+    clothing: White shirt with black bow tie, black vest, white apron, black trousers, polished black shoes
+    position: Standing beside booth holding restaurant check
+    action: Holding out the bill patiently, beginning to sense the awkward situation developing
+  scene:
+    mainElements: The tense moment at the booth as the businessman realizes he has forgotten his wallet, creating an embarrassing
+      business situation
+    details: White paper restaurant check with handwritten items and prices in blue ink, total amount clearly visible, typical
+      1940s diner formatting. Empty dinner plates on table, coffee cups, water glasses, napkins, the finished meal evidence.
+      The businessman's face showing embarrassment and disbelief
+    background: Other diners continuing their meals unaware, warm restaurant lighting, kitchen sounds, normal restaurant activity
+      contrasting with the crisis at this particular table
+    atmosphere: Sudden tension and embarrassment breaking the pleasant business dinner mood, the quiet panic of a professional
+      man facing an unexpected social predicament, awkward silence settling over the booth
+  composition:
+    cameraAngle: Medium close-up focusing on the booth and the three men
+    focus: The businessman's embarrassed expression as he searches his pockets while waiter holds the check
+    depth: Foreground shows the table with finished dinner and the restaurant check, middle ground captures the three men
+      in their awkward tableau, background shows normal restaurant activity continuing, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

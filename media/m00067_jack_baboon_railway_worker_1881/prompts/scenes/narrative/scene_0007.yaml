@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Official Inspection - Railway Authorities Test the baboon's Abilities"
+  setting:
+    time: "1885, afternoon"
+    location: "Two-story wooden signal box overlooking railway tracks at Uitenhage station"
+    weather: "Partly cloudy with good visibility"
+  characters:
+    - appearance: "White male, 40s, sturdy build, determined expression, double leg amputee below the knee"
+      clothing: "1880s railway uniform - dark blue wool jacket with brass buttons, white shirt, black tie, dark trousers"
+      position: "Seated in corner, watching nervously as officials observe the baboon"
+      action: "Maintaining respectful distance while supporting the baboon during formal evaluation"
+    - appearance: "Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build"
+      clothing: "Miniature railway signalman uniform - dark blue cap, small brass buttons on vest"
+      position: "Standing confidently at lever frame, focused on his work"
+      action: "Demonstrating perfect signal operation sequence for arriving train, responding precisely to whistle signals"
+    - appearance: "Middle-aged white men, 40s-50s, formal bearing, skeptical expressions"
+      clothing: "Victorian formal suits - black coats, white shirts, bow ties, top hats, pocket watches"
+      position: "Standing in observation group, taking notes and timing responses"
+      action: "Carefully documenting the baboon's performance, checking pocket watches, exchanging impressed glances"
+  scene:
+    mainElements: "Mechanical lever frame with numbered signal levers, arriving steam locomotive requiring precise switching, formal evaluation atmosphere with officials documenting performance"
+    details: "Tall brass and iron mechanical levers numbered 1-10, Victorian-era steam locomotive approaching station, official evaluation papers and timing devices, signal charts on walls, telegraph equipment, oil lamps"
+    background: "Multiple railway tracks with various trains awaiting signal clearance, busy railway station platform with passengers, colonial buildings and South African countryside"
+    atmosphere: "Tense formal evaluation with the baboon proving his exceptional abilities to skeptical authorities, industrial sounds of railway operation, official scrutiny mixed with growing admiration"
+  composition:
+    cameraAngle: "Medium shot from officials' perspective"
+    focus: "the baboon performing flawless signal operations while railway officials observe and document his abilities"
+    depth: "Foreground: observing officials, middle ground: the baboon at lever frame, background: approaching trains and station activity, no text or letters visible"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First confirmed MH370 debris discovered on Réunion Island beach"
+  setting:
+    time: "July 29, 2015 - first debris discovery"
+    location: "Tropical beach with black volcanic sand and powerful waves at Réunion Island, French overseas territory"
+    weather: "Tropical conditions with strong ocean waves and humid air"
+  characters:
+    - appearance: "French aviation investigator, professional demeanor, wearing protective gear"
+      clothing: "Technical investigation clothing with French aviation authority identification, protective gloves"
+      position: "Kneeling beside aircraft debris on beach examining wing component"
+      action: "Carefully examining and documenting wing flaperon debris with measurement tools and camera"
+    - appearance: "Local beach resident who discovered debris, curious but respectful expression"
+      clothing: "Casual tropical clothing suitable for beach walking"
+      position: "Standing nearby watching investigation process"
+      action: "Observing investigation while explaining discovery circumstances to authorities"
+  scene:
+    mainElements: "Triangular wing control surface approximately 2 meters long, weathered aluminum with marine growth barnacles, structural damage from ocean impact and salt water corrosion"
+    details: "Large piece of aircraft wing structure washed up on black volcanic sand beach, barnacles and marine growth indicating extended time in ocean, investigation team documenting and measuring debris, coastal vegetation and palm trees in background, ocean waves continuing to wash debris ashore"
+    background: "Rocky coastline, coconut palm trees, scattered marine debris, investigation teams with equipment"
+    atmosphere: "Remote tropical setting with sound of crashing waves, humid ocean air, sense of discovery"
+  composition:
+    cameraAngle: "Ground level view showing scale of debris piece relative to investigators"
+    focus: "Aircraft wing flaperon debris being examined by investigation team on beach"
+    depth: "Foreground shows debris and investigators, middle ground shows beach and ocean waves, background shows tropical coastline and vegetation, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Epic 240-Kilometer Bluestone Transport"
+  setting:
+    time: "2900 BCE, dawn during transport expedition"
+    location: "Ancient trackway between Welsh hills and River Severn, showing massive logistical undertaking"
+    weather: "Clear morning conditions favorable for heavy transport work"
+  characters:
+    - appearance: "Tall, powerful physique, rope-scarred hands, weather-beaten skin, authoritative bearing"
+      clothing: "Heavy woolen garments for winter transport, leather reinforcements at shoulders and knees, bronze axe for clearing paths"
+      position: "Standing beside massive stones or leading transport teams"
+      action: "Coordinating team movements with shouted commands, calculating loads and distances, demonstrating lifting techniques"
+  scene:
+    mainElements: "Teams of 200+ workers moving 4-ton bluestone on timber sledge, coordinated rope-pulling system, cleared pathway through woodland"
+    details: "Massive oak tree trunks stripped of bark, 2-3 feet diameter, arranged as moving rollers under timber sleds, new-cut timber for reduced friction, rope anchoring systems, leather padding for stone protection. Workers organized in pulling teams, rope handlers repositioning rollers, route clearers removing obstacles. Stone wrapped in protective hides, wooden framework supporting load, carefully maintained timber trackway"
+    background: "Rolling Welsh countryside transitioning toward English border, evidence of massive planning and coordination"
+    atmosphere: "Enormous communal effort requiring precise coordination, rhythmic chanting to synchronize pulls, sense of sacred mission driving unprecedented undertaking"
+  composition:
+    cameraAngle: "Low angle emphasizing massive scale of stones and human effort"
+    focus: "Crucial moment of coordinated pull moving stone forward"
+    depth: "Foreground shows detailed rope work and human effort, middle ground reveals stone on transport system, background shows challenging terrain ahead, no text or letters visible"

@@ -1,0 +1,76 @@
+canon:
+  characters:
+    - id: "character_ROM"
+      name: "Character ROM"
+      description_block: |
+        characters:
+          - appearance: "Mid-30s military bearing man, short dark hair, pale complexion from underground work"
+            clothing: "Soviet-era military uniform with radio operator insignia, headphones around neck"
+            posture: "Methodical, emotionless, follows strict protocols, never deviates from script"
+    - id: "character_ARE"
+      name: "Character ARE"
+      description_block: |
+        characters:
+          - appearance: "50s bearded man, thick glasses, weathered hands from years of radio equipment handling"
+            clothing: "Worn flannel shirt, headphones, notebook always in hand"
+            posture: "Obsessive attention to detail, excitement when discovering new transmissions"
+    - id: "character_CE"
+      name: "Character CE"
+      description_block: |
+        characters:
+          - appearance: "40s Asian-American woman, precise movements, intense focus"
+            clothing: "Professional academic attire, always carries recording equipment"
+            posture: "Analytical, frustrated by unbreakable codes, fascinated by mathematical perfection"
+    - id: "character_CSA"
+      name: "Character CSA"
+      description_block: |
+        characters:
+          - appearance: "40s professional woman during active period, unremarkable appearance"
+            clothing: "Business attire appropriate for Pentagon analyst position"
+            posture: "Calm under pressure, methodical, lived double life for decades"
+  locations:
+    - id: "uvb76_facility"
+      name: "UVB-76 Transmission Facility"
+      description_block: |
+        setting:
+          location: "Underground military facility near Saint Petersburg, Russia, surrounded by forest"
+        mainElements: "Massive radio towers, concrete bunkers, restricted military zone signs"
+        atmosphere: "Cold, sterile, constant electrical humming, guards patrol perimeter"
+    - id: "povarovo_site"
+      name: "Original UVB-76 Site, Povarovo"
+      description_block: |
+        setting:
+          location: "Abandoned military complex northwest of Moscow, overgrown with vegetation"
+        mainElements: "Rusted radio equipment, empty guard posts, concrete structures"
+        atmosphere: "Foggy autumn night in 2010, sudden military evacuation, eerie silence"
+    - id: "radio_shack"
+      name: "Amateur Radio Monitoring Station"
+      description_block: |
+        setting:
+          location: "Cluttered home office filled with radio equipment and antennas"
+        mainElements: "Multiple shortwave radios, computer screens, frequency charts, logbooks"
+        atmosphere: "Dim lighting, constant static and beeping, walls covered with QSL cards"
+    - id: "bletchley_park"
+      name: "Bletchley Park, UK"
+      description_block: |
+        setting:
+          location: "Historic WWII codebreaking facility, now operating modern transmitters"
+        mainElements: "Period buildings, modern antenna arrays, security fencing"
+        atmosphere: "Mixture of historical significance and modern secrecy"
+  items:
+    - id: "one_time_pad"
+      name: "Cryptographic One-Time Pad"
+      description_block: |
+        details: "Small notepad with random number sequences, approximately 4x6 inches, pages designed to be torn off after single use, waterproof ink"
+    - id: "shortwave_receiver"
+      name: "Shortwave Radio Receiver"
+      description_block: |
+        details: "Portable shortwave radio, silver and black casing, multiple bands, LED frequency display, telescoping antenna, analog and digital tuning"
+    - id: "transmission_log"
+      name: "Amateur Radio Monitoring Log"
+      description_block: |
+        details: "Handwritten notebook with timestamps, frequencies, and message content, detailed entries showing transmission patterns and anomalies"
+    - id: "court_evidence"
+      name: "Decoded Cuban Spy Messages"
+      description_block: |
+        details: "Court documents showing decoded messages, Toshiba laptop used for decoding, special floppy disk containing keys"

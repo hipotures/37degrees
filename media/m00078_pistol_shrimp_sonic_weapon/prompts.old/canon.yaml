@@ -1,0 +1,69 @@
+canon:
+  characters:
+    - id: "pistol_shrimp_main"
+      name: "Main Pistol Shrimp"
+      description_block: |
+        characters:
+          - appearance: "Small translucent marine crustacean, 3-5 centimeters long, pale orange-pink coloration with darker orange stripes"
+            clothing: "Natural exoskeleton with segmented body plates, no artificial coverings"
+            position: "Positioned near coral reef burrow entrance or within sandy substrate tunnel"
+            action: "Alert stance with large snapping claw extended, antennae actively sensing environment"
+    - id: "prey_fish_small"
+      name: "Small Prey Fish"
+      description_block: |
+        characters:
+          - appearance: "Small tropical fish, 2-3 centimeters long, silver-scaled with hints of blue-green iridescence"
+            clothing: "Natural scales and fins, no artificial elements"
+            position: "Swimming in open water above coral reef substrate"
+            action: "Swimming casually through water column, unaware of hidden predator below"
+    - id: "goby_symbiont"
+      name: "Symbiotic Goby Fish"
+      description_block: |
+        characters:
+          - appearance: "Small elongated fish, 4-6 centimeters long, mottled brown and white camouflage coloration"
+            clothing: "Natural scales and fins adapted for bottom dwelling"
+            position: "Perched near burrow entrance on sandy substrate"
+            action: "Acting as sentinel, watching for danger while maintaining contact with shrimp partner"
+  locations:
+    - id: "coral_reef_environment"
+      name: "Tropical Coral Reef Habitat"
+      description_block: |
+        setting:
+          location: "Shallow tropical coral reef ecosystem, 5-15 meters depth, warm clear waters"
+        mainElements: "Vibrant coral formations with branching staghorn and brain corals, sandy patches between reef structures"
+        atmosphere: "Pristine underwater environment with filtered sunlight creating dappled lighting patterns"
+    - id: "sandy_burrow_area"
+      name: "Sandy Substrate Burrow Zone"
+      description_block: |
+        setting:
+          location: "Sandy bottom area adjacent to coral reef, fine grain sediment with scattered shell fragments"
+        mainElements: "Network of small circular burrow entrances, tracks and disturbed sand patterns around openings"
+        atmosphere: "Quiet seafloor environment with gentle water movement stirring fine sediment particles"
+    - id: "underwater_hunting_zone"
+      name: "Open Water Hunting Area"
+      description_block: |
+        setting:
+          location: "Mid-water column above reef substrate, clear tropical ocean water with good visibility"
+        mainElements: "Open blue water space with scattered plankton and small marine organisms drifting past"
+        atmosphere: "Dynamic underwater environment with natural water movement and filtered sunlight from above"
+  items:
+    - id: "snapping_claw_weapon"
+      name: "Specialized Snapping Claw"
+      description_block: |
+        details: "Asymmetrical enlarged claw with complex internal chamber system, orange-pink coloration with darker joints, articulated plunger mechanism visible when opened"
+    - id: "cavitation_bubble"
+      name: "Cavitation Bubble Formation"
+      description_block: |
+        details: "Transparent spherical water bubble with visible internal pressure dynamics, approximately 1-2 millimeters diameter, slight optical distortion effects around edges"
+    - id: "water_jet_stream"
+      name: "High-Velocity Water Jet"
+      description_block: |
+        details: "Focused stream of expelled water visible through particle movement and pressure waves, extending 2-3 centimeters from claw tip with turbulent flow patterns"
+    - id: "shockwave_effect"
+      name: "Acoustic Shockwave Visualization"
+      description_block: |
+        details: "Circular pressure wave patterns radiating outward from bubble collapse point, visible through water distortion and particle displacement effects"
+    - id: "sonoluminescence_flash"
+      name: "Light Flash from Bubble Collapse"
+      description_block: |
+        details: "Brief intense point of light emission from collapsing cavitation bubble, bright white-blue illumination lasting microseconds, approximately 1 millimeter focal point"

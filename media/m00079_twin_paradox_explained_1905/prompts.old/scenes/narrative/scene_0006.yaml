@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Time Dilation Effects Become Visible"
+  setting:
+    time: "1905, cosmic timeframe spanning years"
+    location: "Split view showing both Earth cottage and deep space vehicle"
+    weather: "Earth shows seasonal changes, space remains constant starfield"
+  characters:
+    - appearance: "Young man, 25 years old, identical to character_T1, athletic build, short brown hair, clean-shaven"
+      clothing: "Early 20th century casual wear: white cotton shirt, dark vest, wool trousers, leather shoes"
+      position: "Left side - cottage interior, aged appearance with graying hair and lined face"
+      action: "Working at desk with accumulated papers, checking wall clock showing advanced time"
+    - appearance: "Young man, 25 years old, athletic build, short brown hair, clean-shaven, determined expression"
+      clothing: "Early 20th century traveler's outfit: brown leather jacket, wool pants, sturdy boots, aviator goggles"
+      position: "Right side - spacecraft cockpit, unchanged youthful appearance"
+      action: "Operating controls with same energy, chronometer showing less elapsed time"
+  scene:
+    mainElements: "Divided frame showing cottage and spacecraft, contrasting clocks, seasonal progression on Earth"
+    details: "The cottage side shows accumulated scientific papers, a wall clock with hands advanced significantly, seasonal changes visible through windows - bare winter trees. The spacecraft side maintains consistent appearance with gleaming instruments and starlight. The chronometer in space shows markedly less time elapsed. Mechanical clock mechanisms are visible in detail on both sides."
+    background: "Earth side shows landscape changed by seasons and time, space side shows unchanging cosmic vista"
+    atmosphere: "Dramatic demonstration of relative time passage, scientific wonder mixed with temporal displacement, no text or letters visible"
+  composition:
+    cameraAngle: "Split screen composition with symmetrical framing"
+    focus: "The visual contrast between aged and youthful appearances, different clock readings"
+    depth: "Each side maintains its own depth perspective while creating overall comparative composition"

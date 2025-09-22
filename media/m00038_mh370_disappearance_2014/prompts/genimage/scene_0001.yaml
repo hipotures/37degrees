@@ -1,0 +1,102 @@
+sceneDescription:
+  setting:
+    time: March 8, 2014, early morning before 00:41 MYT
+    location: Modern international airport terminal departure gate area at Kuala Lumpur International Airport, Malaysia
+    weather: Clear tropical night with mild temperatures
+  characters:
+  - appearance: 53-year-old Malaysian man of medium build, graying hair, experienced aviator bearing with alert dark eyes
+    clothing: Malaysia Airlines pilot uniform with four gold stripes indicating captain rank, white shirt, black tie, captain
+      wings pin
+    position: Standing near departure gate reviewing flight documents
+    action: Conducting pre-flight briefing with crew, checking weather reports and flight plan documentation
+  - appearance: 27-year-old young Malaysian aviator, clean-shaven, alert expression with attentive eyes
+    clothing: Malaysia Airlines first officer uniform with three gold stripes, completing Boeing 777 transition training
+    position: Seated at briefing table beside captain
+    action: Listening attentively to flight briefing, taking notes and asking questions about Boeing 777 procedures
+  scene:
+    mainElements: Check-in counters with Malaysia Airlines branding, departure gates, passenger seating areas, large windows
+      overlooking aircraft on tarmac
+    details: Gate area shows boarding information displays, ground crew preparing aircraft visible through windows, few early
+      passengers waiting in departure lounge with luggage, maintenance crew completing final checks on Boeing 777 aircraft
+      visible on tarmac, flight crew documents spread on table showing route maps and weather reports
+    background: Terminal corridor with directional signs, duty-free shops with dim lighting, departure boards showing flight
+      information
+    atmosphere: Quiet overnight atmosphere with fluorescent lighting, few passengers preparing for early morning flight departure
+  composition:
+    cameraAngle: Wide establishing shot from elevated position showing entire gate area
+    focus: Flight crew conducting professional pre-flight briefing at center of frame
+    depth: Foreground shows crew briefing table, middle ground shows passenger seating area, background shows aircraft on
+      tarmac through large windows, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1990s, late afternoon
+    location: Devils Curve section of Death Road - site of infamous 1983 bus accident
+    weather: Solemn overcast sky with gentle mountain breeze
+  characters:
+  - appearance: Elderly Bolivian woman, 60s, lined face showing years of highland life, gray hair in braids
+    clothing: Traditional colorful Bolivian dress, shawl, bowler hat, layered skirts
+    position: Kneeling beside memorial crosses
+    action: Placing fresh flowers at base of wooden crosses, praying for accident victims
+  scene:
+    mainElements: Simple wooden crosses marking accident sites, flowers and offerings left by families
+    details: Multiple weathered wooden crosses of different sizes, fresh and wilted flowers, small personal offerings, candles
+      in glass containers, handwritten messages tied to crosses, road scarred by years of accidents
+    background: Dangerous curve where bus went over edge, valley far below where wreckage disappeared
+    atmosphere: Grief transformed into memorial, quiet dignity amid continuing danger
+  composition:
+    cameraAngle: Respectful medium shot showing memorial and mourning figure
+    focus: Memorial crosses honoring those lost to the dangerous road
+    depth: Memorial crosses in foreground, mourning woman in middle ground, treacherous curve in background, no text or letters
+      visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

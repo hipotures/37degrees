@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Galloping Gertie - First Signs of Movement"
+  setting:
+    time: "1940, spring"
+    location: "Completed Tacoma Narrows Bridge during normal traffic"
+    weather: "Breezy spring day with moderate winds"
+  characters:
+    - appearance: "American man, 30s, construction worker build, weathered hands, experienced expression"
+      clothing: "1940s work clothes with hard hat, tool belt, sturdy boots"
+      position: "Standing on bridge deck observing unusual movement"
+      action: "Industrial worker stance, pointing at bridge movement with growing concern"
+  scene:
+    mainElements: "Narrow 39-foot-wide roadway with shallow 8-foot plate girders showing visible vertical movement"
+    details: "Bridge deck visibly rising and falling in wave-like motion even in moderate winds, Massive steel suspension cables and vertical hangers supporting bridge deck oscillating, cars driving across moving roadway surface, center line markings visible on undulating deck, bridge structure exhibiting concerning flexibility"
+    background: "Puget Sound waters below with normal maritime traffic, Pacific Northwest shoreline with forests and hills"
+    atmosphere: "Engineering marvel becoming source of concern, unusual bridge behavior becoming notorious, construction workers recognizing dangerous design flaw, nickname 'Galloping Gertie' being earned, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle shot emphasizing bridge movement and flexibility"
+    focus: "Unusual bridge oscillation that should have warned of disaster"
+    depth: "Moving bridge deck in foreground, Puget Sound below in middle ground, Pacific Northwest landscape in background"

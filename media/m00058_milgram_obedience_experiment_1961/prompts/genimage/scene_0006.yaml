@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1961, late afternoon
+    location: Control room with shock generator machine, Yale University laboratory
+    weather: Indoor laboratory environment
+  characters:
+  - appearance: Caucasian man, 30s-40s, average build, anxious expression, increasingly distressed
+    clothing: 1960s business casual attire, dress shirt with rolled sleeves, dark trousers
+    position: Seated at shock generator, increasingly tense body language, leaning forward
+    action: Reluctantly moving to higher voltage switches while showing visible signs of stress and moral conflict
+  - appearance: Caucasian man, 30s, stern facial expression, authoritative bearing, clean-shaven
+    clothing: Gray laboratory coat over dark suit, white shirt, professional appearance
+    position: Standing directly behind participant with commanding presence
+    action: Providing firm verbal encouragement to continue experiment despite participant's obvious distress
+  scene:
+    mainElements: Tense, clinical environment with imposing scientific equipment and harsh lighting. Participant's hand hovering
+      over increasingly dangerous voltage levels.
+    details: 'Large metal console with 30 horizontal lever switches, voltage markings from 15 to 450 volts, warning labels
+      including ''Danger: Severe Shock'' and ''XXX'', professional industrial appearance. Participant''s sweating hands and
+      tense posture indicate growing psychological pressure. Microphone system carrying sounds of distress from adjacent room.'
+    background: Tense, clinical environment with imposing scientific equipment and harsh lighting
+    atmosphere: Intense psychological pressure and moral conflict as participant struggles between obedience to authority
+      and personal conscience. Clinical setting amplifies sense of scientific legitimacy.
+  composition:
+    cameraAngle: Close-up shot emphasizing participant's internal struggle
+    focus: Participant's stressed expression and hesitant hand movement toward higher voltage switches
+    depth: Foreground shows participant's moral conflict, middle ground emphasizes dangerous voltage levels, background reveals
+      experimenter's authoritative pressure, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

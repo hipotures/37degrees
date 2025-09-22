@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1979, midday
+    location: Clinical examination room with medical equipment, examination table, charts on walls
+    weather: Bright daylight through medical facility windows
+  characters:
+  - appearance: French man, 30s, medium build, distinctive intense dark eyes, average height, concentrated expression when
+      eating unusual objects
+    clothing: Simple 1970s casual wear - button-down shirts, dark trousers, sometimes white lab coat during medical examinations
+    position: Standing beside X-ray machine, arms at sides
+    action: Undergoing medical X-ray examination, cooperative and calm during procedure
+  - appearance: Middle-aged medical professional, white coat, serious expression, holding medical instruments or clipboard
+    clothing: White medical coat over formal shirt and tie, sometimes surgical gloves
+    position: Operating X-ray equipment, observing readouts
+    action: Conducting detailed medical examination, documenting unusual digestive capabilities
+  scene:
+    mainElements: Sterile white walls, medical examination table with leather padding, metal medical instruments on rolling
+      cart
+    details: X-ray machine, stethoscope, medical chart clipboard, stomach examination tools, medical monitoring equipment
+      showing vital signs, scale showing body weight measurements, filing cabinets with medical records
+    background: Clinical walls with medical certificates, window showing medical facility exterior, medical supply cabinets
+    atmosphere: Scientific documentation environment, bright clinical lighting, atmosphere of medical marvel
+  composition:
+    cameraAngle: Medium wide shot showing medical procedure
+    focus: X-ray examination in progress, medical monitoring of unique condition
+    depth: 'Foreground: X-ray equipment operation, middle ground: patient and medical staff, background: clinical facility
+      setting, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

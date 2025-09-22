@@ -107,17 +107,12 @@ if [ "$CONFIG_TYPE" = "book" ]; then
     YAML_SCENE_COUNT=""  # Books don't have scene_count in YAML
 else
     PROJECT_TITLE=$(yq '.media_info.title' "$CONFIG_YAML" 2>/dev/null | sed 's/"//g')
-    PROJECT_AUTHOR=$(yq '.media_info.author' "$CONFIG_YAML" 2>/dev/null | sed 's/"//g')
+    PROJECT_AUTHOR=""
     YAML_SCENE_COUNT=$(yq '.media_info.scene_count' "$CONFIG_YAML" 2>/dev/null | sed 's/"//g')
 fi
 
 if [ -z "$PROJECT_TITLE" ] || [ "$PROJECT_TITLE" = "null" ]; then
     echo "❌ Błąd: Nie można odczytać tytułu z $CONFIG_YAML"
-    exit 1
-fi
-
-if [ -z "$PROJECT_AUTHOR" ] || [ "$PROJECT_AUTHOR" = "null" ]; then
-    echo "❌ Błąd: Nie można odczytać autora z $CONFIG_YAML"
     exit 1
 fi
 

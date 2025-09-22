@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "FBI Headquarters Washington DC 1960s"
+  setting:
+    time: "1968, afternoon"
+    location: "FBI Headquarters building, federal district, Washington DC"
+    weather: "Clear autumn day, shadows cast by late afternoon sun"
+  characters:
+    - appearance: "Caucasian man, 70s, broad face, receding gray hair, intense dark eyes, stern expression"
+      clothing: "Dark formal suit with vest, white dress shirt, conservative tie"
+      position: "Seated behind large wooden desk"
+      action: "Reviewing classified documents with FBI seal, pointing at photographs"
+  scene:
+    mainElements: "Imposing federal office with mahogany desk, American flag on stand, official government portraits on walls, filing cabinets with combination locks"
+    details: "Stack of surveillance photographs showing civil rights leaders, manila folders marked with official stamps, brass nameplate on desk, rotary telephone, desk lamp illuminating papers, leather chair with high back"
+    background: "Wood-paneled walls with framed certificates, large window showing Washington DC skyline, bookshelf with legal volumes"
+    atmosphere: "Authoritative government environment with formal decor and serious undertones, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from across desk, slightly elevated perspective"
+    focus: "Character JEH examining surveillance materials on desk surface"
+    depth: "Foreground shows desk contents, middle ground captures character, background reveals official office setting"

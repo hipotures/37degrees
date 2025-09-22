@@ -1,0 +1,172 @@
+{
+  "war_of_the_bucket_timeline": {
+    "title": "War of the Bucket (1325) - Complete Timeline",
+    "events": [
+      {
+        "date": "1309",
+        "type": "political_context",
+        "event": "Passerino Bonacolsi becomes ruler of Mantua, Modena, Parma, and Reggio",
+        "significance": "Establishes Ghibelline power base",
+        "status": "CONFIRMED"
+      },
+      {
+        "date": "1323",
+        "type": "religious_conflict",
+        "event": "Pope John XXII declares Bonacolsi enemy of Catholic Church",
+        "significance": "Escalates political conflict to religious war",
+        "status": "CONFIRMED"
+      },
+      {
+        "date": "July 1325",
+        "type": "military_action",
+        "event": "Bolognese forces enter Modenese territory and lay waste to fields",
+        "significance": "First major provocation of the conflict",
+        "status": "CONFIRMED"
+      },
+      {
+        "date": "August 1325",
+        "type": "military_campaign",
+        "event": "Bologna spends two weeks ravaging Modenese countryside",
+        "significance": "Systematic destruction designed to force military response",
+        "status": "CONFIRMED"
+      },
+      {
+        "date": "September 1325",
+        "type": "strategic_capture",
+        "event": "Modena captures Bologna's Monteveglio castle",
+        "significance": "Immediate cause of war - threatens Bologna's defenses",
+        "status": "CONFIRMED"
+      },
+      {
+        "date": "October 1325",
+        "type": "disputed_incident",
+        "event": "Possible bucket theft (historically disputed)",
+        "significance": "Later mythologized as cause of war",
+        "status": "DISPUTED"
+      },
+      {
+        "date": "November 1325",
+        "type": "military_mobilization",
+        "event": "Bologna assembles army of 32,000 men",
+        "significance": "Largest military force in city's history",
+        "status": "CONFIRMED"
+      },
+      {
+        "date": "November 15, 1325 - Dawn",
+        "type": "battle_preparation",
+        "event": "Bologna's army marches south toward Modena",
+        "significance": "Beginning of decisive campaign",
+        "status": "CONFIRMED"
+      },
+      {
+        "date": "November 15, 1325 - Midday",
+        "type": "tactical_positioning",
+        "event": "Modenese scouts report approaching Bolognese force",
+        "significance": "Bonacolsi prepares defensive strategy",
+        "status": "CONFIRMED"
+      },
+      {
+        "date": "November 15, 1325 - Afternoon",
+        "type": "battle_deployment",
+        "event": "Armies deploy for battle near Zappolino village",
+        "significance": "Final positioning before combat",
+        "status": "CONFIRMED"
+      },
+      {
+        "date": "November 15, 1325 - Toward Sunset",
+        "type": "major_battle",
+        "event": "Battle of Zappolino begins and ends in Modenese victory",
+        "significance": "Decisive defeat of Bologna despite numerical advantage",
+        "status": "CONFIRMED",
+        "details": {
+          "bologna_forces": "32,000 (30,000 infantry, 2,000 cavalry)",
+          "modena_forces": "7,000 (5,000 infantry, 2,000 cavalry)",
+          "casualties": "Approximately 2,000 total",
+          "duration": "Approximately 2 hours",
+          "outcome": "Complete Modenese victory"
+        }
+      },
+      {
+        "date": "November 16-30, 1325",
+        "type": "immediate_aftermath",
+        "event": "Bologna's survivors retreat behind city walls",
+        "significance": "Modena controls countryside around Bologna",
+        "status": "CONFIRMED"
+      },
+      {
+        "date": "December 1325",
+        "type": "diplomatic_negotiations",
+        "event": "Peace negotiations begin through papal intermediaries",
+        "significance": "Both sides recognize need to end hostilities",
+        "status": "CONFIRMED"
+      },
+      {
+        "date": "January 1326",
+        "type": "peace_agreement",
+        "event": "Formal armistice signed between Bologna and Modena",
+        "significance": "End of active warfare, Bologna accepts territorial losses",
+        "status": "CONFIRMED"
+      },
+      {
+        "date": "1328",
+        "type": "political_assassination",
+        "event": "Passerino Bonacolsi murdered in Gonzaga coup",
+        "significance": "End of the 'Sparrow's' remarkable career",
+        "status": "CONFIRMED"
+      },
+      {
+        "date": "1334",
+        "type": "papal_decree",
+        "event": "Pope Benedict XII threatens excommunication for using Guelph/Ghibelline names",
+        "significance": "Beginning of end for medieval factions",
+        "status": "CONFIRMED"
+      },
+      {
+        "date": "1622",
+        "type": "literary_creation",
+        "event": "Alessandro Tassoni publishes 'La Secchia Rapita'",
+        "significance": "Creates enduring bucket myth in popular culture",
+        "status": "CONFIRMED"
+      }
+    ],
+    "key_figures": [
+      {
+        "name": "Passerino Bonacolsi",
+        "role": "Lord of Modena, military commander",
+        "nickname": "Sparrow (due to small stature)",
+        "significance": "Brilliant tactician who defeated much larger force"
+      },
+      {
+        "name": "Pope John XXII",
+        "role": "Head of Catholic Church",
+        "significance": "Declared crusade against Bonacolsi"
+      },
+      {
+        "name": "Alessandro Tassoni",
+        "role": "17th-century poet",
+        "significance": "Created literary myth of bucket war"
+      }
+    ],
+    "military_analysis": {
+      "bologna_advantages": [
+        "Overwhelming numerical superiority (4.5:1 ratio)",
+        "Papal support and religious motivation",
+        "Economic resources for prolonged campaign",
+        "Home territory advantage initially"
+      ],
+      "modena_advantages": [
+        "Professional German soldiers",
+        "Superior training and equipment",
+        "Experienced military leadership",
+        "Better tactical coordination",
+        "Defensive terrain advantage"
+      ],
+      "tactical_lessons": [
+        "Professional training trumps numerical superiority",
+        "Cavalry charges effective against disorganized infantry",
+        "Terrain knowledge crucial for smaller forces",
+        "Leadership quality determines battle outcomes"
+      ]
+    }
+  }
+}

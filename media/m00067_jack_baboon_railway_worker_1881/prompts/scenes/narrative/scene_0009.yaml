@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Weekly Payment - the baboon Receives His Earned Wages"
+  setting:
+    time: "1887, late afternoon"
+    location: "Uitenhage railway station, Cape Colony, South Africa"
+    weather: "Clear afternoon with warm sunlight"
+  characters:
+    - appearance: "White male, 40s, sturdy build, determined expression, double leg amputee below the knee"
+      clothing: "1880s railway uniform - dark blue wool jacket with brass buttons, white shirt, black tie, dark trousers"
+      position: "Seated in trolley beside station platform"
+      action: "Watching proudly as the baboon receives his weekly wages from railway paymaster"
+    - appearance: "Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build"
+      clothing: "Miniature railway signalman uniform - dark blue cap, small brass buttons on vest"
+      position: "Standing upright on platform facing paymaster"
+      action: "Carefully accepting coins in one hand and brown beer bottle in the other, examining his payment with obvious satisfaction"
+    - appearance: "Middle-aged white man, official bearing, friendly expression"
+      clothing: "Railway administration uniform with brass buttons"
+      position: "Standing on platform with payment ledger"
+      action: "Formally presenting the baboon with twenty cents in coins and half bottle of beer as official weekly wage"
+  scene:
+    mainElements: "Victorian-era railway station platform, formal weekly payment ceremony recognizing the baboon as legitimate employee, official wage distribution"
+    details: "Brown glass beer bottle half-full, twenty cents in colonial coins, railway paymaster's ledger, Victorian railway station with stone platform, wooden waiting benches, signal box visible in background"
+    background: "Multiple rail tracks with steam locomotives, passenger cars, busy station activity with travelers and railway workers, colonial buildings of Uitenhage town"
+    atmosphere: "Official recognition of the baboon's valuable service through formal wage payment, pride in legitimate employment status, bustling railway station environment, milestone moment in unprecedented working relationship"
+  composition:
+    cameraAngle: "Medium shot capturing payment ceremony"
+    focus: "the baboon receiving his earned wages of coins and beer while character JW and paymaster witness this formal recognition"
+    depth: "Foreground: payment ceremony participants, middle ground: station platform and infrastructure, background: trains and town buildings, no text or letters visible"

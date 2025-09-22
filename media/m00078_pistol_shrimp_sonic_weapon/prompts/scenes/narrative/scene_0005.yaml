@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Scientific Collaboration - Research Team Analysis"
+  setting:
+    time: "October 2001, during breakthrough research publication period"
+    location: "Modern physics research facility in Netherlands, specialized high-speed imaging laboratory"
+  characters:
+    - appearance: "Middle-aged Dutch physicist, approximately 45-50 years old, medium build, intellectual demeanor, focused expression"
+      clothing: "White laboratory coat over dark shirt, safety glasses, professional academic attire typical of physics laboratories"
+      position: "Standing at computer analysis station reviewing captured footage"
+      action: "Analyzing high-speed camera footage and discussing findings with colleague"
+    - appearance: "Senior physicist, approximately 40-45 years old, tall, thin build, beard, analytical expression"
+      clothing: "Casual academic attire, button-down shirt, often seen with papers and research notes"
+      position: "Standing at laboratory workstation reviewing data and calculations"
+      action: "Analyzing scientific data, collaborative discussion with research team members"
+  scene:
+    mainElements: "Two research scientists analyzing breakthrough footage and data from cavitation bubble discovery"
+    details: "Computer monitors displaying high-speed footage analysis, scientific measurement data visible on screens, laboratory equipment including precision cameras and measurement devices, research papers and calculations spread across workstation, water tanks with experimental setups in background, collaborative scientific environment during major discovery"
+    background: "Sterile white laboratory lighting, quiet except for equipment humming, focused research environment with precision instruments"
+    atmosphere: "Excitement of scientific breakthrough, collaborative analysis, professional academic environment"
+  composition:
+    cameraAngle: "Medium shot showing both scientists engaged in collaborative analysis"
+    focus: "Two research scientists working together to analyze groundbreaking discovery data"
+    depth: "Foreground shows scientists and computer displays, middle ground reveals laboratory equipment and analysis stations, background shows additional research equipment, no text or letters visible"

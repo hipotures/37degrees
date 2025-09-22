@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Guards Implement Psychological Control and Privilege Systems"
+  setting:
+    time: "August 15, 1971, afternoon"
+    location: "Converted basement of Stanford University psychology building, Jordan Hall, California"
+    weather: "Interior basement environment, artificially lit"
+  characters:
+    - appearance: "Caucasian man, early 20s, tall, athletic build, stern expression"
+      clothing: "Khaki military-style uniform, reflective mirrored sunglasses, black boots, carrying whistle and billy club"
+      position: "Standing in commanding position addressing prisoners"
+      action: "Explaining new privilege system while pointing to different prisoners to demonstrate hierarchy"
+    - appearance: "Caucasian man, early 20s, medium build, uncertain expression when alone"
+      clothing: "Khaki military-style uniform, reflective mirrored sunglasses, black boots, carrying whistle"
+      position: "Standing beside lead guard observing proceedings"
+      action: "Following lead of others, more hesitant body language, looking to authority"
+    - appearance: "Caucasian man, early 20s, average build, submissive expression, downcast eyes"
+      clothing: "Ill-fitting white prison smock, stocking cap, chain around ankle, kept neat"
+      position: "Standing in line with other prisoners"
+      action: "Shoulders slumped, hands at sides, head down, avoiding eye contact"
+    - appearance: "Caucasian man, early 20s, medium build, defiant expression, growing desperation"
+      clothing: "Ill-fitting white prison smock, stocking cap, chain around ankle, number 819 visible on chest"
+      position: "Standing apart from compliant prisoners"
+      action: "Initially rebellious stance, later hunched and withdrawn, arms crossed defensively"
+  scene:
+    mainElements: "Guard implementing systematic privilege system to divide prisoners by rewarding compliance and punishing resistance in institutional corridor setting"
+    details: "Guards pointing to specific prisoners to demonstrate new hierarchy, some prisoners receiving better treatment while others face punishment, privilege markers like extra food portions, clean uniforms versus dirty ones, chains making different sounds for compliant versus resistant prisoners, institutional lighting creating divisions between groups"
+    background: "Basement prison environment with concrete walls, cell doors, fluorescent lighting, guard station with monitoring equipment, systematic institutional control apparatus"
+    atmosphere: "Psychological manipulation and control through systematic privilege division, harsh institutional lighting emphasizing hierarchy, oppressive environment where compliance is rewarded and resistance punished"
+  composition:
+    cameraAngle: "Medium wide shot showing guard authority and prisoner division"
+    focus: "Guard explaining privilege system while prisoners show varying degrees of compliance and resistance"
+    depth: "Foreground shows guards implementing control systems, middle ground focuses on prisoner responses to new hierarchy, background reveals institutional prison infrastructure, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Historical Legacy - Medical Research Archive"
+  setting:
+    time: "February 1954, late afternoon"
+    location: "Moscow Institute of Surgery, main laboratory complex, Soviet Union"
+    weather: "Cold Moscow winter, clear sky with late afternoon light"
+  characters:
+    - appearance: "Caucasian man, 38 years old, dark hair slicked back, intense focused eyes behind wire-rim glasses, scholarly demeanor"
+      clothing: "White laboratory coat over dark suit vest and white shirt, medical gloves, professional surgical attire"
+      position: "Standing at window of medical facility looking out at Moscow skyline"
+      action: "Reflecting on completed experimental work while holding final research documentation"
+  scene:
+    mainElements: "Medical facility interior with view of Moscow winter landscape, completed research documentation stacked on laboratory desk, institutional medical environment"
+    details: "Scientific notebooks, medical charts, and documentation papers with handwritten observations and measurements containing comprehensive experimental record, view through institutional windows showing Moscow cityscape with snow-covered buildings, late afternoon winter light illuminating medical facility interior, sense of completed scientific undertaking"
+    background: "Moscow Institute of Surgery laboratory interior with medical equipment, institutional furnishings, view of Moscow skyline through windows with Soviet era architecture"
+    atmosphere: "Reflective conclusion atmosphere with sense of completed scientific work, institutional medical setting with historical significance, quiet moment of research completion"
+  composition:
+    cameraAngle: "Medium shot capturing character and institutional environment with Moscow skyline visible"
+    focus: "Researcher with completed documentation in medical facility setting, emphasizing historical significance"
+    depth: "Character with research materials in foreground, laboratory interior in middle ground, Moscow winter cityscape in background, no text or letters visible"

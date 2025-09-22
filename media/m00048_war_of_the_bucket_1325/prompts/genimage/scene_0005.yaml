@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: November 1325, midday
+    location: Northern Italian landscape between Bologna and Modena, 14th century
+    weather: Overcast autumn day with scattered clouds
+  characters:
+  - appearance: Italian man, 20s-30s, determined face, muscular build
+    clothing: Red tunic with Bologna coat of arms, chainmail, steel helmet
+    position: Marching in long columns across countryside roads, some mounted
+    action: Moving in organized military formation toward Modena territory, carrying weapons and supplies
+  - appearance: Italian man, 40s, stern weathered face, prominent nose, dark beard
+    clothing: Red and gold Bolognese military surcoat over chainmail, steel helmet with plume
+    position: Leading the massive army on horseback at the front of the column
+    action: Guiding the enormous force across the landscape with confident military bearing
+  scene:
+    mainElements: Rolling hills, vineyards, olive groves, scattered medieval villages
+    details: Long columns of 32,000 soldiers stretching across multiple hills and valleys, supply wagons creating dust clouds
+      on dirt roads, Heraldic banners of Bologna (red) displaying city arms carried by standard bearers throughout the column,
+      horses and riders interspersed among foot soldiers, Crossbows, spears, swords, maces typical of 14th century warfare
+      carried by marching troops
+    background: Peaceful rural setting of medieval Emilia-Romagna region, distant villages and farmhouses, autumn vineyards
+      and olive groves
+    atmosphere: Massive military movement across peaceful countryside, contrast between pastoral landscape and army of war
+  composition:
+    cameraAngle: Aerial view showing the enormous scale of the marching army
+    focus: The impressive length and organization of Bologna's military column
+    depth: 'Foreground: leading elements of army, Middle: vast columns stretching across hills, Background: Italian countryside
+      landscape, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

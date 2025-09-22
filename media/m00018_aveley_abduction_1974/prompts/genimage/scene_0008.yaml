@@ -1,0 +1,106 @@
+sceneDescription:
+  setting:
+    time: September 25, 1977, afternoon
+    location: Professional medical consultation room for hypnotic regression sessions
+    weather: Typical British autumn day, indoor controlled environment
+  characters:
+  - appearance: 32-year-old man, average build, dark hair, serious expression, concerned father
+    clothing: 1970s casual attire - dark sweater or jacket, trousers, practical footwear
+    position: Reclined in medical chair during hypnosis session
+    action: Under hypnotic trance, recounting memories of alleged abduction experience
+  - appearance: Medical professional, dental surgeon and hypnotist, authoritative bearing
+    clothing: Medical professional attire, formal and reassuring white coat or suit
+    position: Seated beside patient in professional consultation setup
+    action: Conducting hypnotic regression session, taking notes and guiding memory recovery
+  - appearance: British UFO investigator, serious researcher demeanor, professional bearing
+    clothing: 1970s professional attire - suit or blazer, formal investigative appearance
+    position: Seated at distance observing session
+    action: Methodically recording session details, maintaining thorough investigative documentation
+  scene:
+    mainElements: Professional medical consultation room with medical chairs, recording equipment, clinical furniture in serious
+      therapeutic environment
+    details: Serious therapeutic environment with controlled clinical lighting, investigative atmosphere, recording equipment
+      capturing session, professional medical setting designed for psychological exploration and memory recovery
+    background: Medical office interior with professional furnishings, clinical environment suggesting legitimate medical
+      and investigative procedure
+    atmosphere: Serious therapeutic environment focused on memory recovery, controlled clinical lighting creating investigative
+      atmosphere, sense of scientific exploration of mysterious events, professional approach to understanding unexplained
+      experience, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing hypnosis session with patient, hypnotist, and investigator
+    focus: Hypnotic regression process with professional medical and investigative oversight
+    depth: Foreground shows patient in medical chair, middle ground shows medical professional conducting session, background
+      shows investigator and clinical room environment
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

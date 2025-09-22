@@ -1,0 +1,19 @@
+sceneDescription:
+  title: "Laboratory Discovery Setup - High-Speed Imaging Preparation"
+  setting:
+    time: "1999, daytime laboratory conditions"
+    location: "Modern physics research facility in Netherlands, specialized high-speed imaging laboratory"
+  characters:
+    - appearance: "Middle-aged Dutch physicist, approximately 45-50 years old, medium build, intellectual demeanor, focused expression"
+      clothing: "White laboratory coat over dark shirt, safety glasses, professional academic attire typical of physics laboratories"
+      position: "Leaning over high-speed camera equipment in laboratory setting"
+      action: "Operating scientific equipment, making excited gestures when discussing breakthrough discoveries"
+  scene:
+    mainElements: "High-speed cameras capable of nanosecond imaging, water tanks with controlled environments, computer analysis stations, optical measurement equipment"
+    details: "Specialized scientific camera system capable of 10-nanosecond exposure times, mounted on adjustable laboratory stand, digital imaging sensor with extreme temporal resolution, connected to computer analysis systems, requires precise timing triggers, laboratory setting with water tanks containing marine specimens for observation"
+    background: "Sterile white laboratory lighting, quiet except for equipment humming, focused research environment with precision instruments"
+    atmosphere: "Scientific precision and anticipation, controlled environment optimized for breakthrough research"
+  composition:
+    cameraAngle: "Medium shot showing scientist working with high-speed camera equipment"
+    focus: "Research scientist operating specialized high-speed imaging equipment"
+    depth: "Foreground shows detailed view of high-speed camera and scientist, middle ground reveals laboratory equipment and water tanks, background shows sterile laboratory environment, no text or letters visible"

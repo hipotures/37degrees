@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Glasgow Observer on City Street Before the Event"
+  setting:
+    time: "December 11, 1752, late afternoon, shortly before 4:00 PM"
+    location: "Glasgow city center, Scotland, December 1752"
+    weather: "Cold December afternoon, clear visibility"
+  characters:
+    - appearance: "Middle-aged Scottish gentleman, likely educated based on detailed observation skills, 40s, intelligent countenance, careful grooming reflecting professional status"
+      clothing: "Dark wool coat with brass buttons, white linen shirt with cravat, knee-length breeches, white stockings, buckled shoes - typical 1750s Scottish urban dress"
+      position: "Standing on cobblestone street, observing the afternoon sky"
+      action: "Looking upward with keen interest, demonstrating the methodical observation skills that would later capture the fireball phenomenon"
+  scene:
+    mainElements: "Cobblestone streets, stone buildings, Glasgow Cathedral dominating skyline, University buildings, merchant houses, market cross, narrow wynds and closes typical of medieval Scottish burghs, River Clyde running through"
+    details: "The observer stands alert on a busy Glasgow street, his posture reflecting the scientific curiosity characteristic of the Scottish Enlightenment. Other citizens move about their daily business while smoke rises from chimneys. The scene captures the moment before the extraordinary phenomenon that would challenge both religious and emerging scientific understanding, no text or letters visible"
+    background: "Glasgow cityscape with cathedral spires and university buildings against the pre-evening winter sky"
+    atmosphere: "Cold December afternoon, grey winter sky, smoke rising from chimneys, bustling with merchants and citizens in period dress"
+  composition:
+    cameraAngle: "Medium shot focusing on the observer within city context"
+    focus: "The educated observer whose methodical nature would soon document history"
+    depth: "Foreground shows the main character on cobblestones, middle ground includes other period citizens and buildings, background features cathedral and university against winter sky"

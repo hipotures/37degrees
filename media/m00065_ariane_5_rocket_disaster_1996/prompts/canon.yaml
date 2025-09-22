@@ -1,0 +1,72 @@
+canon:
+  characters:
+    - id: "character_DS"
+      name: "Character DS"
+      description_block: |
+        characters:
+          - appearance: "European man, 40s, lean build, intense dark eyes, short gray hair, sharp features"
+            clothing: "1990s dark blue ESA engineer jacket over white shirt with ESA logo, black trousers"
+            posture: "Alert and focused, often leaning forward examining computer screens or technical displays"
+    - id: "character_MP"
+      name: "Character MP"
+      description_block: |
+        characters:
+          - appearance: "European man, 50s, average build, concerned expression, wire-rimmed glasses, receding brown hair"
+            clothing: "1990s gray business suit with blue tie, ESA identification badge"
+            posture: "Tense, often standing with arms crossed or pointing at displays"
+    - id: "character_TC"
+      name: "Character TC"
+      description_block: |
+        characters:
+          - appearance: "European woman, 30s, medium build, blonde hair in professional bun, alert green eyes"
+            clothing: "1990s white technical blouse with ESA patches, dark navy skirt, headset around neck"
+            posture: "Seated at control station, hands positioned over keyboard and controls"
+    - id: "character_LF"
+      name: "Character LF"
+      description_block: |
+        characters:
+          - appearance: "European man, 45s, stocky build, mustache, serious expression, short dark hair"
+            clothing: "1990s ESA launch director uniform with multiple badges and radio equipment"
+            posture: "Standing upright with authority, often gesturing toward rocket or pointing at screens"
+  locations:
+    - id: "kourou_launch_pad"
+      name: "Kourou Launch Pad ELA-3"
+      description_block: |
+        setting:
+          location: "European Space Agency launch complex ELA-3, Kourou, French Guiana"
+        mainElements: "Massive concrete launch pad with steel support structures, white Ariane 5 rocket on launch table, mobile service tower, umbilical connections, flame deflectors"
+        atmosphere: "Industrial precision and cutting-edge technology in tropical setting with palm trees visible in distance"
+    - id: "mission_control_center"
+      name: "Jupiter Control Room Kourou"
+      description_block: |
+        setting:
+          location: "Jupiter Control Room, Centre Spatial Guyanais, Kourou, French Guiana"
+        mainElements: "Modern 1990s control room with multiple computer workstations, large wall displays showing telemetry data, rows of technical consoles"
+        atmosphere: "High-tech environment with blue and green screen lighting, tense concentration and precision"
+    - id: "software_development_lab"
+      name: "Inertial Reference System Lab"
+      description_block: |
+        setting:
+          location: "ESA software development laboratory, technical facility in Europe"
+        mainElements: "Computer workstations with 1990s CRT monitors displaying code, technical diagrams on walls, testing equipment"
+        atmosphere: "Clinical and precise engineering environment with fluorescent lighting"
+    - id: "ariane_5_rocket"
+      name: "Ariane 5 Flight 501"
+      description_block: |
+        setting:
+          location: "Ariane 5 rocket on launch pad or in flight"
+        mainElements: "Tall white rocket with distinctive conical nose, solid boosters attached to central core, European markings"
+        atmosphere: "Impressive scale and technological achievement representing European space ambitions"
+  items:
+    - id: "inertial_reference_system"
+      name: "SRI Inertial Reference System"
+      description_block: |
+        details: "Complex electronic unit with multiple circuit boards, status LED indicators, data connections and cooling systems"
+    - id: "telemetry_display"
+      name: "Flight Telemetry Monitor"
+      description_block: |
+        details: "1990s computer monitor showing scrolling numerical data, flight parameters, system status indicators in green and amber text"
+    - id: "launch_sequence_panel"
+      name: "Launch Control Panel"
+      description_block: |
+        details: "Control console with multiple switches, LED status lights, countdown timer display, emergency abort buttons"

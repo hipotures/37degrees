@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "character_FMR Creates the Coca-Cola Brand"
+  setting:
+    time: "1886 late afternoon, warm natural light"
+    location: "Small office space above character_JSP's pharmacy, Atlanta Georgia"
+  characters:
+    - appearance: "Caucasian man, early 40s, well-groomed dark hair parted to side, clean-shaven face, alert businessman's expression"
+      clothing: "1880s dark business suit with vest, white shirt, black tie, polished leather shoes"
+      position: "Seated at wooden desk, leaning forward over papers"
+      action: "Carefully writing elegant script lettering with fountain pen, creating the distinctive trademark"
+    - appearance: "Caucasian man, mid-50s, average height, graying beard and mustache, intelligent eyes behind wire-rimmed spectacles, slightly receding hairline"
+      clothing: "1880s white pharmacist coat over dark vest and white collared shirt, black trousers, formal boots"
+      position: "Standing beside desk, looking over partner's shoulder"
+      action: "Watching with satisfaction as the brand name takes shape on paper"
+  scene:
+    mainElements: "Simple wooden desk with papers, ink well, fountain pen, and business documents"
+    details: "Elegant flowing script being carefully drawn on white paper, ink bottle with ornate fountain pen, multiple draft attempts crumpled and discarded on desk, late afternoon sunlight streaming through window creating warm workspace, business ledgers and accounting books stacked nearby, oil lamp ready for evening work, partnership documents rolled and tied with ribbon, no text or letters visible"
+    background: "Small office with wooden furniture, shelves of business books, window overlooking Atlanta street"
+    atmosphere: "Moment of brand creation and business partnership, sense of future success in the making"
+  composition:
+    cameraAngle: "Close-up shot over shoulder showing the script being written"
+    focus: "The creation of the distinctive lettering and brand identity"
+    depth: "Foreground: hand writing script on paper, middle: desk with writing materials, background: office setting and window light"

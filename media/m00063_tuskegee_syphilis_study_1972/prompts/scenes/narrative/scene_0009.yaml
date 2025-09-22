@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Congressional Hearing and Public Accountability"
+  setting:
+    time: "1973, morning"
+    location: "US Capitol hearing room, Washington DC"
+  characters:
+    - appearance: "African American man, 70s, weathered face, tired eyes, thin frame"
+      clothing: "1970s simple work clothes, worn overalls or flannel shirt, work boots"
+      position: "Seated at witness table with microphone"
+      action: "Speaking into microphone, hands gripping table edge, sharing testimony"
+    - appearance: "White man, late 20s, clean-shaven, earnest expression, medium build"
+      clothing: "1970s casual business attire, brown suit, tie, dress shoes"
+      position: "Seated at different witness table"
+      action: "Providing testimony, documents spread before him"
+  scene:
+    mainElements: "Formal panel table, microphones, American flags, formal seating"
+    details: "Congressional hearing room with raised panel table, multiple microphones, witness tables, formal chairs, American flags flanking the room, gallery seating, official government seals"
+    background: "Gallery filled with observers, press photographers, formal government architecture"
+    atmosphere: "Official, serious, governmental authority, public accountability, historic testimony moment, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot of formal hearing room"
+    focus: "The formal process of government accountability and survivor testimony"
+    depth: "Foreground shows witness tables, middle ground has testifying participants, background reveals formal government hearing setting"

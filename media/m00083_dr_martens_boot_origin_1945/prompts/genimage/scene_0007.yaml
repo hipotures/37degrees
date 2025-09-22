@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1952, morning
+    location: Industrial shoe manufacturing facility, Munich, Germany
+    weather: Indoor factory setting, industrial lighting
+  characters:
+  - appearance: Various Caucasian men and women, ages 20-50, working-class appearance, focused expressions
+    clothing: Factory work clothes, overalls, aprons, caps, 1940s-1950s industrial attire
+    position: Working at various stations along production line
+    action: Operating machinery, assembling boots, quality control checking finished products
+  - appearance: Caucasian man, 25 years old, athletic build, dark brown hair, focused expression
+    clothing: German army uniform with medical insignia, or white doctor's coat, dark trousers
+    position: Walking through factory floor observing production
+    action: Inspecting quality of mass-produced boots, overseeing manufacturing process
+  scene:
+    mainElements: Production line machinery, workstations, leather materials, finished boots
+    details: Brown leather boot with air-cushioned sole, comfortable design, practical construction being manufactured at
+      industrial scale. Assembly line with multiple stations for sole preparation, stitching, finishing. Stacks of completed
+      boots ready for distribution, quality control station with inspection tools. Post-war German industrial recovery evident
+      in efficient production, innovation scaling from workshop prototype to mass manufacturing. Popular among middle-aged
+      women customers, no text or letters visible
+    background: Large factory floor with overhead lighting, industrial equipment, shipping area with packed boot boxes
+    atmosphere: Bustling, efficient, post-war German industrial recovery
+  composition:
+    cameraAngle: Wide shot showing full scope of factory production operation
+    focus: Mass production of revolutionary comfortable footwear, industrial success of medical innovation
+    depth: Foreground shows detailed production work, middle ground captures factory operations, background displays industrial
+      scale achievement
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

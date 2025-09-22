@@ -1,0 +1,83 @@
+canon:
+  characters:
+    - id: "character_WM"
+      name: "Character WM"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, slender build, dark hair, thoughtful eyes, intellectual appearance"
+            clothing: "1960s academic attire: brown tweed jacket with elbow patches, white dress shirt, dark tie, dress pants"
+            posture: "Observant, often with clipboard or notepad, professional yet warm demeanor"
+    - id: "character_RE"
+      name: "Character RE"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s, medium build, neat appearance, academic colleague"
+            clothing: "1960s professional wear: dark suit jacket, white shirt, thin tie, dress pants"
+            posture: "Collaborative, often taking notes or operating recording equipment"
+    - id: "child_subject_A"
+      name: "Child Subject A"
+      description_block: |
+        characters:
+          - appearance: "4-year-old child, mixed ethnicity, curious expression, small build typical of preschooler"
+            clothing: "1960s children's clothing: simple dress or shirt and shorts, small shoes"
+            posture: "Sitting in child-sized chair, fidgeting, looking between marshmallow and door"
+    - id: "child_subject_B"
+      name: "Child Subject B"
+      description_block: |
+        characters:
+          - appearance: "5-year-old child, Caucasian, determined expression, slightly taller than typical 4-year-old"
+            clothing: "1960s children's attire: collared shirt and pants or simple dress, neat appearance"
+            posture: "Sitting upright, hands folded, trying to avoid looking at treat"
+    - id: "child_subject_C"
+      name: "Child Subject C"
+      description_block: |
+        characters:
+          - appearance: "4-year-old child, African American, expressive eyes, typical preschool build"
+            clothing: "1960s children's wear: colorful shirt or dress, comfortable play clothes"
+            posture: "Active in chair, covering eyes with hands or turning away from temptation"
+  locations:
+    - id: "stanford_testing_room"
+      name: "Stanford Testing Room"
+      description_block: |
+        setting:
+          location: "Small, sparse testing room at Stanford University's Bing Nursery School"
+        mainElements: "Simple wooden table, two chairs (one adult-sized, one child-sized), plain walls, minimal decoration"
+        atmosphere: "Clinical yet comfortable, designed to minimize distractions while being child-friendly"
+    - id: "observation_room"
+      name: "Observation Room"
+      description_block: |
+        setting:
+          location: "Adjacent observation room with one-way mirror at Stanford University"
+        mainElements: "Recording equipment, chairs for researchers, notebooks, one-way mirror viewing into testing room"
+        atmosphere: "Professional academic environment, quiet, focused on data collection"
+    - id: "nursery_school_hallway"
+      name: "Nursery School Hallway"
+      description_block: |
+        setting:
+          location: "Corridor at Stanford's Bing Nursery School, 1960s institutional design"
+        mainElements: "Long hallway with classroom doors, children's artwork on walls, wooden floors"
+        atmosphere: "Typical educational environment of the era, welcoming yet institutional"
+    - id: "stanford_campus_exterior"
+      name: "Stanford Campus Exterior"
+      description_block: |
+        setting:
+          location: "Stanford University campus grounds, California, late 1960s"
+        mainElements: "Spanish mission-style architecture, palm trees, wide walkways, academic buildings"
+        atmosphere: "Prestigious academic setting, California sunshine, intellectual environment"
+  items:
+    - id: "marshmallow_treat"
+      name: "Marshmallow Treat"
+      description_block: |
+        details: "Single white marshmallow on small plate, central to the experiment, positioned within child's reach"
+    - id: "bell_device"
+      name: "Bell Device"
+      description_block: |
+        details: "Small hand bell that children can ring to call researcher back, simple metal construction"
+    - id: "research_clipboard"
+      name: "Research Clipboard"
+      description_block: |
+        details: "Brown wooden clipboard with data sheets, pen attached, used for recording observations"
+    - id: "timer_device"
+      name: "Timer Device"
+      description_block: |
+        details: "1960s mechanical timer or stopwatch for measuring delay periods, typically 15 minutes maximum"

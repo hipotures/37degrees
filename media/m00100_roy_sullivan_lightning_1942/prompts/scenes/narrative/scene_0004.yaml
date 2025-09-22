@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Third Strike - Garden Lightning 1970"
+  setting:
+    time: "July 1970, afternoon"
+    location: "Home garden near Shenandoah National Park"
+    weather: "Sudden thunderstorm with isolated lightning strike"
+  characters:
+    - appearance: "American man, 58, brawny build resembling Gene Hackman, rugged weathered face, growing wariness"
+      clothing: "Casual work clothes for gardening, no ranger uniform"
+      position: "Working in personal garden when lightning strikes"
+      action: "Being struck by lightning while gardening, left shoulder burned by electrical discharge"
+  scene:
+    mainElements: "Home garden with vegetables and flowers, lightning striking from transformer to person"
+    details: "Lightning hitting electrical transformer and jumping to gardener's left shoulder, brilliant electrical arc from power lines to human target, burned shoulder and torn clothing from electrical contact, garden tools scattered from sudden strike, domestic setting becoming lightning encounter location"
+    background: "Residential area near park with electrical power lines, Virginia countryside with approaching storm clouds"
+    atmosphere: "Normal domestic activity interrupted by third lightning strike, pattern of unusual lightning attraction becoming apparent, even home not safe from extraordinary phenomenon, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing lightning jumping from transformer to person"
+    focus: "Third lightning strike proving pattern of unusual attraction"
+    depth: "Gardener and lightning strike in foreground, home and power lines in middle ground, storm clouds in background"

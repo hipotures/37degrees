@@ -1,0 +1,102 @@
+sceneDescription:
+  setting:
+    time: December 2024, afternoon in archaeological laboratory
+    location: Modern archaeological examination facility in Egypt
+    weather: Indoor controlled environment with bright laboratory lighting
+  characters:
+  - appearance: Middle-aged Latina woman, 5'6", dark hair, determined expression, wearing practical field clothes
+    clothing: Professional white lab coat over khaki field clothes, protective gloves
+    position: Standing beside examination table with marble artifact
+    action: Pointing to features on the marble bust with enthusiasm and conviction
+  - appearance: Elderly Egyptian man, distinctive mustache, authoritative presence, 70s
+    clothing: Trademark fedora hat, white shirt, khaki vest, professional archaeological attire
+    position: Standing with arms crossed in skeptical posture
+    action: Examining the bust with critical expression, shaking head in disagreement
+  scene:
+    mainElements: White marble bust, royal crown, approximately 2 feet tall on examination table, modern archaeological laboratory
+      equipment, computer monitors, reference materials
+    details: Bright laboratory lighting illuminating every detail of the marble sculpture, high-tech measuring and analysis
+      equipment, computer screens displaying archaeological databases, protective foam padding around artifacts, magnifying
+      equipment, scholarly reference books and journals scattered on nearby tables
+    background: Modern laboratory with stainless steel surfaces, fluorescent lighting, storage cabinets with archaeological
+      specimens
+    atmosphere: Tense academic disagreement, scientific precision contrasted with passionate debate, bright sterile environment
+      emphasizing careful examination, conflict between archaeological interpretation and expert skepticism
+  composition:
+    cameraAngle: Medium shot capturing both experts and the disputed artifact
+    focus: Disputed marble bust on examination table with two experts in heated discussion
+    depth: Characters and bust in foreground, laboratory equipment in middle ground, sterile lab environment in background,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

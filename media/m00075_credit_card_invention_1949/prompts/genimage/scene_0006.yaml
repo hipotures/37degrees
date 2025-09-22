@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: 1949, evening, 30 minutes after dinner
+    location: Major's Cabin Grill restaurant interior, 33 West 33rd Street, Manhattan, New York City
+    weather: Cool autumn evening outside, warm restaurant interior
+  characters:
+  - appearance: Caucasian woman, late 30s, elegant 1940s styling, brown hair in victory rolls, well-groomed appearance, concerned
+      but composed expression
+    clothing: 1949 navy blue dress coat with fur collar, matching hat with small veil, leather gloves, black heeled shoes,
+      small handbag
+    position: Standing beside booth, handbag open in her hands
+    action: Gracefully removing money from her handbag to pay the bill, maintaining dignity despite the awkward situation
+  - appearance: Caucasian man, early 40s, average height, clean-shaven face, dark hair combed back with pomade, serious business
+      expression, thin-rimmed glasses
+    clothing: 1949 dark navy business suit with white dress shirt, conservative dark tie, polished black leather shoes, gold
+      wristwatch
+    position: Seated in booth, looking up at his wife with relief and embarrassment
+    action: Rising slightly from seat in gratitude, hand reaching toward wife, face showing mixture of relief and mortification
+  - appearance: Caucasian man, late 30s, slightly taller than average, neatly groomed brown hair, mustache, lawyer appearance,
+      attentive eyes
+    clothing: 1949 charcoal gray suit with vest, white shirt, striped tie, leather briefcase often at hand, wire-rim spectacles
+    position: Seated in booth, looking discreetly away
+    action: Politely averting gaze to give privacy, studying menu or adjusting spectacles
+  - appearance: Caucasian man, 50s, slightly balding, professional service worker appearance, patient but observant expression
+    clothing: White shirt with black bow tie, black vest, white apron, black trousers, polished black shoes
+    position: Standing respectfully beside booth
+    action: Waiting patiently to receive payment, professional demeanor maintaining customer dignity
+  scene:
+    mainElements: The graceful resolution as the businessman's wife arrives to save the embarrassing situation, demonstrating
+      1940s social protocols
+    details: Her elegant handbag open showing wallet and bills, the restaurant check still on table, the businessman's obvious
+      relief mixed with professional embarrassment, the discrete handling of a potentially humiliating situation with period-appropriate
+      grace
+    background: Other restaurant patrons continuing their dinners, warm lighting, typical evening restaurant ambiance, kitchen
+      sounds, the normal flow of business uninterrupted
+    atmosphere: Relief mixed with residual embarrassment, the social grace of the era, marital partnership saving professional
+      dignity, quiet resolution of crisis with minimum public attention
+  composition:
+    cameraAngle: Medium shot capturing the booth and the four people involved in the resolution
+    focus: The businessman's wife gracefully handling the payment while maintaining everyone's dignity
+    depth: Foreground shows the booth table with bill and dinner remnants, middle ground features the wife paying while men
+      show relief and discrete gratitude, background displays normal restaurant activity, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

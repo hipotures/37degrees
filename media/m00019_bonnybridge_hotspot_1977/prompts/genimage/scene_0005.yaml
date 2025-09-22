@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: March 1992, evening walking hour
+    location: Road approaching Bonnybridge, evening walk location
+    weather: Clear March evening, good visibility
+  characters:
+  - appearance: Local Scottish woman, middle-aged, walking with family member, shocked expression
+    clothing: Early 1990s casual wear, practical evening walking attire, comfortable shoes
+    position: Standing on roadside with family member, pointing upward at aerial phenomenon
+    action: Shocked, pointing upward, detailed gesturing during account of close encounter experience with landing craft
+  scene:
+    mainElements: Blue luminous craft hovering above road level, distinct opening door mechanism visible, interior light emanating
+      from opened section, landed position allowing detailed observation of craft features, unprecedented close encounter
+      documentation
+    details: Blue light UFO positioned just above road surface, door mechanism clearly visible in opened position, unusual
+      interior lighting patterns visible through opening, craft maintaining stable hovering position during landing sequence,
+      witnesses positioned safely at roadside distance, evening lighting conditions perfect for detailed observation, no conventional
+      aircraft features apparent, extraordinary level of detail reported, no text or letters visible
+    background: Scottish countryside road setting, Bonnybridge town visible in distance, clear evening sky, residential area
+      nearby
+    atmosphere: Most detailed close encounter claim in Bonnybridge history, unprecedented level of witnessed detail, mixture
+      of shock and fascination, extraordinary claims requiring careful documentation
+  composition:
+    cameraAngle: Medium shot showing witnesses and hovering craft with visible opening
+    focus: Blue light UFO with opening door mechanism, witnesses pointing and observing
+    depth: Foreground shows witnesses on roadside, middle ground shows hovering craft with open door, background shows countryside
+      and town
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

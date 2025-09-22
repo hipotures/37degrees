@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "San Juan Island Paradise - Frontier Settlement"
+  setting:
+    time: "June 1859, early morning"
+    location: "San Juan Island between Vancouver Island and Washington Territory"
+    weather: "Clear Pacific Northwest morning with ocean mist"
+  characters:
+    - appearance: "American man, 40s, weathered face from frontier life, brown beard, stocky farmer build"
+      clothing: "Rough wool shirt, canvas trousers, wide-brimmed hat, leather boots caked with mud"
+      position: "Standing on hillside overlooking island landscape"
+      action: "Determined frontier stance, surveying his claimed territory with satisfaction"
+  scene:
+    mainElements: "Rolling green hills with scattered oak trees, rocky coastline, pristine waters of Pacific Northwest"
+    details: "Panoramic view of San Juan Island with forested hills, meadows, and dramatic coastline, morning mist rising from calm waters, scattered homestead clearings visible, deer grazing in distant meadows, seabirds circling overhead"
+    background: "Vancouver Island visible across channel, Washington Territory mainland in distance, vast Pacific waters stretching to horizon"
+    atmosphere: "Pacific Northwest maritime environment with dramatic coastal scenery, pristine wilderness being settled by pioneers, peaceful frontier paradise before conflict, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated island position"
+    focus: "Stunning natural beauty of disputed territory"
+    depth: "Farmer on hillside in foreground, island landscape in middle ground, surrounding waters and distant lands in background"

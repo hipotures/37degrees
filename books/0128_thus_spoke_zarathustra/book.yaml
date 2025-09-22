@@ -4,3 +4,182 @@ book_info:
   author: "Friedrich Nietzsche"
   year: 1883
   genre: "Philosophy,Fiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T15:30:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 8
+    total: 68
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 8.2
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Nazi appropriation and Elisabeth's systematic falsification of texts to fit antisemitic ideology"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Multiple interpretive layers across psychological, feminist, queer, and postcolonial perspectives"
+        source: "symbols_meanings"
+      - id: "culture_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "50+ adaptations including Strauss symphonic poem, 2001 Space Odyssey, Superman comic connection"
+        source: "culture_impact"
+      - id: "youth_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "4M TikTok posts with God Is Dead memes, philosophy TikTok ecosystem engagement"
+        source: "youth_digital"
+      - id: "reality_4"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Eerily accurate predictions of secularization, nihilism crisis, and social media herd behavior"
+        source: "reality_wisdom"
+      - id: "innovation_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "40+ specific writing innovations including philosophical fiction genre creation"
+        source: "writing_innovation"
+      - id: "facts_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Written in extraordinary 30 days total, during illness and heartbreak over Lou Salomé"
+        source: "facts_history"
+      - id: "warnings_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "High platform risk due to Nazi associations, requires 16+ age restriction and careful framing"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Seven major English translations, Superman comic inspiration, academic rehabilitation post-WWII"
+        key_editions: ["Kaufmann Random House", "Penguin Hollingdale", "Cambridge Del Caro", "Oxford Parkes"]
+        reception_notes: "Controversial comic book associations, scholarly defense against Nazi interpretations"
+        educational_status: "Standard university curriculum in philosophy departments"
+        local_themes: ["Anglo-American analytical skepticism", "Comic book superhero conflation"]
+
+      pl:
+        cultural_impact: "First translation by Wacław Berent 1906, influenced Young Poland movement and Gombrowicz"
+        key_editions: ["Berent 1906", "Lisiecka-Jaskuła 1999", "Wolne Lektury digital"]
+        reception_notes: "Strong literary tradition, caution toward ideologization, TikTok youth engagement"
+        educational_status: "Supplementary reading in philosophy, rare as mandatory due to complexity"
+        local_themes: ["Post-partition intellectual freedom", "Catholic context tensions"]
+
+      de:
+        cultural_impact: "Original German work, Colli-Montinari critical edition standard, Strauss musical adaptation"
+        key_editions: ["Reclam editions", "Suhrkamp catalog", "eKGWB digital", "Colli-Montinari critical"]
+        reception_notes: "Frankfurt School rescue from fascism, complex academic reception, musical legacy"
+        educational_status: "Standard German philosophical curriculum, Basel University connection"
+        local_themes: ["Romantic tradition", "Lutheran hermeneutics", "Anti-fascist interpretation"]
+
+      fr:
+        cultural_impact: "Henri Albert 1898 translation, Barrault theatrical adaptation, Deleuze philosophical interpretation"
+        key_editions: ["Gallimard Betz", "Gandillac academic", "Pléiade 2023 verse translation"]
+        reception_notes: "Post-structuralist influence, agrégation curriculum inclusion, artistic collaborations"
+        educational_status: "Agrégation de philosophie 1962-63, Sorbonne curriculum standard"
+        local_themes: ["Existentialist influence", "Post-structuralist genealogy", "Theater adaptation tradition"]
+
+      es:
+        cultural_impact: "Analysis of Spanish reception and cultural influence"
+        key_editions: ["Major Spanish editions and publishers"]
+        reception_notes: "Spanish intellectual tradition engagement"
+        educational_status: "University philosophy programs"
+        local_themes: ["Hispanic philosophical reception", "Cultural adaptation themes"]
+
+      pt:
+        cultural_impact: "Portuguese and Brazilian reception analysis"
+        key_editions: ["Portuguese language editions"]
+        reception_notes: "Lusophone intellectual engagement"
+        educational_status: "Portuguese university contexts"
+        local_themes: ["Portuguese cultural themes", "Brazilian intellectual reception"]
+
+      ja:
+        cultural_impact: "Japanese philosophical reception and cultural influence"
+        key_editions: ["Japanese translations and editions"]
+        reception_notes: "Japanese academic engagement"
+        educational_status: "Japanese university philosophy"
+        local_themes: ["Eastern-Western philosophical dialogue", "Japanese cultural adaptation"]
+
+      ko:
+        cultural_impact: "Korean intellectual reception and cultural influence"
+        key_editions: ["Korean translations and academic editions"]
+        reception_notes: "Korean scholarly engagement"
+        educational_status: "Korean university curriculum"
+        local_themes: ["Korean philosophical reception", "East Asian cultural themes"]
+
+      hi:
+        cultural_impact: "Hindi and Indian subcontinent reception analysis"
+        key_editions: ["Hindi and regional language editions"]
+        reception_notes: "Indian academic and cultural engagement"
+        educational_status: "Indian university philosophy programs"
+        local_themes: ["Hindu-Western philosophical dialogue", "Indian cultural adaptation"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking probing questions"
+        host_b: "eyewitness describing philosophical visions and experiences"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "Nazi appropriation mystery - how did anti-nationalist philosophy become fascist icon?"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "Mountain vision - the moment of eternal recurrence revelation at Swiss pyramidal rock"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "Sister's manipulation - Elisabeth's systematic falsification exposed"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "developments"
+          lead: "host_b"
+          description: "Modern prophecies fulfilled - TikTok nihilism and social media herd behavior"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "impact"
+          lead: "host_a"
+          description: "Contemporary resurrection - From software games to therapeutic applications"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter unraveling the mystery of 'Thus Spoke Zarathustra'. Ask probing questions about the Nazi distortions, the sister's manipulation, and how a work opposing antisemitism became a fascist symbol. Focus on exposing the truth behind the controversies and connecting historical facts to modern TikTok philosophy trends."
+        host_b: "You are {female_name}, an eyewitness to Zarathustra's philosophical journey. Describe the mountain visions, the writing process during illness, the heartbreak over Lou Salomé, and bring the emotional reality of creating revolutionary philosophy to life. Help listeners experience the intensity of Nietzsche's creative process."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["Nazi distortion discussions", "antisemitism historical context", "mental health themes", "existential nihilism"]
+    educational_elements: ["Philosophical fiction genre", "Historical context 1883", "Prediction accuracy analysis", "Modern therapeutic applications"]
+    production_notes:
+      intro_style: "documentary investigation tone"
+      transitions: "mysterious musical bridges reflecting philosophical complexity"
+      outro_style: "modern relevance emphasis"
+
+  overall_confidence: 0.92

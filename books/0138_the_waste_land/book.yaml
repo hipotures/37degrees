@@ -4,3 +4,179 @@ book_info:
   author: "T.S. Eliot"
   year: 1922
   genre: "Poetry,Modernist"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T15:42:00+00:00"
+
+  scores:
+    controversy: 7.0
+    philosophical_depth: 7.0
+    cultural_phenomenon: 7.0
+    contemporary_reception: 7.0
+    relevance: 9.0
+    innovation: 9.0
+    structural_complexity: 9.0
+    social_roles: 7.0
+    total: 62.0
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 7.0
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Eliot admitted to using Tarot symbolism despite not being familiar with exact construction - deliberately modified card meanings"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Fisher King myth as central organizing structure - wounded ruler whose healing depends on asking right question"
+        source: "symbols_meanings"
+      - id: "innovation_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "First systematic application of Cubist collage techniques to literature through montage of fragments"
+        source: "writing_innovation"
+      - id: "culture_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "TikTok generation discovers 'Unreal City' through viral edits - poem's fragmentation fits generation raised on jump cuts"
+        source: "culture_impact"
+      - id: "youth_4"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "80% of Gen Z experienced loneliness in 2024 vs 45% baby boomers - parallels with poem's spiritual emptiness"
+        source: "youth_digital"
+      - id: "reality_5"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Prediction of mechanical relationships without emotions perfectly reflects hookup culture and dating apps"
+        source: "reality_wisdom"
+      - id: "innovation_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary polyphonic voice system - first poem systematically using multiple unidentified narrators"
+        source: "writing_innovation"
+      - id: "symbols_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Contemporary reinterpretations: climate degradation as new wasteland, digital alienation as modern fragmentation"
+        source: "symbols_meanings"
+
+    localized:
+      en:
+        cultural_impact: "Foundational modernist text, central to English curriculum"
+        key_editions: ["Norton Critical Edition", "Cambridge Companion"]
+        reception_notes: "Canonical status in Western literature, university standard"
+        educational_status: "Required reading in English literature programs"
+        local_themes: ["Modernist revolution", "Literary canon formation"]
+      pl:
+        cultural_impact: "Translated by Nobel laureate Czesław Miłosz during Warsaw burning 1943-44"
+        key_editions: ["Wydawnictwo Literackie Kraków 2004", "bilingual editions"]
+        reception_notes: "Strong academic tradition, theatrical adaptations since 1967"
+        educational_status: "Part of world literature curriculum in secondary schools"
+        local_themes: ["Post-war trauma translation", "European culture crisis"]
+      de:
+        cultural_impact: "Important for German Romantic movement interpretation"
+        key_editions: ["Reclam editions", "scholarly editions"]
+        reception_notes: "Strong academic tradition, philosophical interpretations"
+        educational_status: "Studied in comparative literature programs"
+        local_themes: ["Philosophical interpretations", "Psychoanalytic readings"]
+      fr:
+        cultural_impact: "Connection to Baudelaire and French symbolism tradition"
+        key_editions: ["Academic translations with extensive notes"]
+        reception_notes: "Appreciated for sophisticated cultural allusions"
+        educational_status: "Part of Anglo-American literature studies"
+        local_themes: ["Symbolist tradition", "Cultural fragmentation"]
+      es:
+        cultural_impact: "Influence on Latin American magical realism"
+        key_editions: ["University press editions"]
+        reception_notes: "Connected to post-colonial interpretations"
+        educational_status: "Comparative literature curriculum"
+        local_themes: ["Modernist techniques", "Cultural appropriation questions"]
+      pt:
+        cultural_impact: "Studied in context of European modernism"
+        key_editions: ["Academic translations"]
+        reception_notes: "Focus on technical innovations"
+        educational_status: "Graduate literature programs"
+        local_themes: ["Technical innovations", "European tradition"]
+      ja:
+        cultural_impact: "Interest in Eastern philosophy elements (Sanskrit)"
+        key_editions: ["Scholarly translations emphasizing Buddhist elements"]
+        reception_notes: "Focus on spiritual quest aspects"
+        educational_status: "Comparative literature and philosophy departments"
+        local_themes: ["East-West synthesis", "Spiritual emptiness"]
+      ko:
+        cultural_impact: "Modern poetry influence, fragmentation techniques"
+        key_editions: ["University translations"]
+        reception_notes: "Technical innovation focus"
+        educational_status: "English literature programs"
+        local_themes: ["Modernist techniques", "Cultural fragmentation"]
+      hi:
+        cultural_impact: "Interest in Upanishads references and Sanskrit elements"
+        key_editions: ["Academic editions highlighting Indian philosophy"]
+        reception_notes: "Focus on spiritual and philosophical elements"
+        educational_status: "Comparative literature, philosophy programs"
+        local_themes: ["Indian philosophy integration", "Spiritual quest narrative"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "modernist_revolution"
+          lead: "host_a"
+          description: "Explaining symphonic structure, collage technique, and polyphonic voice system that changed literature forever"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "symbolic_architecture"
+          lead: "host_b"
+          description: "Student explores the complex symbolic framework with professor's guidance"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "technical_innovations"
+          lead: "host_a"
+          description: "Academic analysis of specific innovations that influenced generations of writers"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "cultural_diagnosis"
+          lead: "host_b"
+          description: "Connecting literary techniques to historical context and cultural commentary"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "legacy_and_influence"
+          lead: "host_a"
+          description: "From Joyce to contemporary poetry, how The Waste Land shaped literary discourse"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'The Waste Land' with scholarly depth. Discuss structure, symbolism, literary techniques. Academic but accessible. Focus on: First systematic application of Cubist collage techniques to literature through montage of fragments"
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility. Help make modernist complexity understandable."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "colonial content discussion", "complex philosophical themes"]
+    educational_elements:
+      - "Poetry genre characteristics"
+      - "Historical context of 1922"
+      - "Modernist literary techniques"
+      - "Mythological and religious symbolism"
+      - "Cultural fragmentation analysis"
+    production_notes:
+      intro_style: "scholarly introduction"
+      transitions: "subtle musical bridges"
+      outro_style: "academic synthesis"
+
+  overall_confidence: 0.88

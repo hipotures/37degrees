@@ -4,3 +4,182 @@ book_info:
   author: "Erich Maria Remarque"
   year: 1929
   genre: "War,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T20:45:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 7
+    cultural_phenomenon: 7
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 62
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Sister executed by Nazis as retaliation - Elfriede Scholz beheaded Dec 16, 1943 for 'undermining morale'"
+        source: "dark_drama"
+      - id: "dark_drama_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Nazi book burnings 1933 - first 'degenerate' books burned, violent protests during film premiere"
+        source: "dark_drama"
+      - id: "symbols_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Earth as archetypal Great Mother - both protector and grave, 'shields and receives forever'"
+        source: "symbols_meanings"
+      - id: "culture_impact_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "3 major film adaptations won 6 Oscars total, 2022 Netflix film reached 150M viewing hours globally"
+        source: "culture_impact"
+      - id: "youth_digital_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "40.3M TikTok posts #AllQuietWesternFrontEdit, viral trend connecting shell shock to digital burnout"
+        source: "youth_digital"
+      - id: "reality_wisdom_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Accurately predicted PTSD phenomenon - descriptions match modern trauma psychology exactly"
+        source: "reality_wisdom"
+      - id: "writing_innovation_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created new literary genre of veteran literature, revolutionary narrative techniques"
+        source: "writing_innovation"
+      - id: "facts_history_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Written in 5-6 weeks in 1927, sold 2.5 million copies in 22 languages within 18 months"
+        source: "facts_history"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in English-speaking education, required reading in US/UK schools for century"
+        key_editions: ["A.W. Wheen translation 1929", "Little Brown first American edition", "Penguin Classics"]
+        reception_notes: "Three major film adaptations, continuous academic study, AFI Top 100 films"
+        educational_status: "Staple of high school and university curricula"
+        local_themes: ["Lost Generation literature", "Anti-war tradition", "Veteran psychology"]
+
+      pl:
+        cultural_impact: "First translator Stefan Napierski executed by Nazis 1940, martyrological dimension"
+        key_editions: ["Stefan Napierski 1930", "Ryszard Wojnakowski contemporary", "REBIS 2022"]
+        reception_notes: "WARSawa Theater adaptation 2019, active BookTok community"
+        educational_status: "Debated as mandatory school reading"
+        local_themes: ["Translator martyrdom", "Universal war tragedy", "Anti-militarism education"]
+
+      de:
+        cultural_impact: "Banned by Nazis, author stripped of citizenship, revolutionary impact on German literature"
+        key_editions: ["Ullstein Verlag 1929", "Neue Sachlichkeit movement", "Post-war rehabilitated editions"]
+        reception_notes: "2022 first German film adaptation, Netflix global success"
+        educational_status: "Complex reception due to historical trauma"
+        local_themes: ["Neue Sachlichkeit", "Anti-Nazi resistance", "National guilt processing"]
+
+      fr:
+        cultural_impact: "Franco-German reconciliation symbol, memorializes Verdun battlefield experiences"
+        key_editions: ["French translations post-WWII", "Reconciliation literature"]
+        reception_notes: "Part of European peace education"
+        educational_status: "Historical memory education"
+        local_themes: ["Verdun memory", "Franco-German friendship", "European integration"]
+
+      es:
+        cultural_impact: "Spanish Civil War parallels, anti-fascist literature tradition"
+        key_editions: ["Latin American editions", "Spanish translations"]
+        reception_notes: "Resonance with Spanish Civil War experiences"
+        educational_status: "Anti-war education"
+        local_themes: ["Civil War parallels", "Anti-fascist resistance", "War trauma"]
+
+      pt:
+        cultural_impact: "Portuguese colonial wars parallels, translated war literature tradition"
+        key_editions: ["Portuguese editions", "Brazilian market"]
+        reception_notes: "Colonial war veteran communities"
+        educational_status: "War literature studies"
+        local_themes: ["Colonial war trauma", "Portuguese history", "Anti-war sentiment"]
+
+      ja:
+        cultural_impact: "Post-Hiroshima anti-war message, militarism consequences awareness"
+        key_editions: ["Japanese translations", "Post-war education"]
+        reception_notes: "Pacifist constitution context"
+        educational_status: "Peace education"
+        local_themes: ["Hiroshima parallels", "Militarism consequences", "Peace constitution"]
+
+      ko:
+        cultural_impact: "Korean War parallels, divided nation trauma understanding"
+        key_editions: ["Korean translations", "War literature"]
+        reception_notes: "DMZ context relevance"
+        educational_status: "War trauma education"
+        local_themes: ["Korean War trauma", "Divided nation", "Military service"]
+
+      hi:
+        cultural_impact: "Partition trauma parallels, colonial army experiences"
+        key_editions: ["Hindi translations", "Indian war literature"]
+        reception_notes: "Independence struggle context"
+        educational_status: "Colonial history"
+        local_themes: ["Partition trauma", "Colonial military", "Independence struggle"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "Sister executed by Nazis as retaliation - Elfriede Scholz beheaded Dec 16, 1943"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "Nazi book burnings 1933 - first 'degenerate' books burned, violent protests"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "Earth as archetypal Great Mother - both protector and grave"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "discoveries"
+          lead: "host_b"
+          description: "3 major film adaptations won 6 Oscars total, 2022 Netflix film 150M hours"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "impact"
+          lead: "host_a"
+          description: "40.3M TikTok posts connecting shell shock to modern digital burnout"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter. Ask about key events in 'All Quiet on the Western Front', seek details about the Nazi persecution, the innovative narrative techniques, and uncover the hidden connections between WWI trauma and modern psychological understanding."
+        host_b: "You are {female_name}, an eyewitness to the story of this revolutionary book. Describe vividly the scenes of Nazi book burnings, the tragic fate of the author's sister, the groundbreaking writing techniques, and bring to life the narrative innovations that created veteran literature as a genre."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "war trauma", "psychological content", "Nazi persecution"]
+    educational_elements: ["WWI history", "Nazi persecution", "Literary innovation", "PTSD awareness", "Narrative techniques"]
+    production_notes:
+      intro_style: "somber documentary opening"
+      transitions: "subtle musical bridges with period atmosphere"
+      outro_style: "reflective conclusion on lasting impact"
+
+  overall_confidence: 0.92

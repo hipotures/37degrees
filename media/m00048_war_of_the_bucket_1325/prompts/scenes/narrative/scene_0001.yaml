@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Medieval Bologna - Center of Guelph Power"
+  setting:
+    time: "1325, early morning"
+    location: "Piazza Maggiore, Bologna, medieval Italy with Gothic buildings surrounding"
+    weather: "Clear autumn morning with light mist"
+  characters:
+    - appearance: "Italian man or woman, various ages, period-appropriate features"
+      clothing: "Simple wool tunics, cloaks, merchant or artisan attire"
+      position: "Moving across the square, some gathered near the central well"
+      action: "Conducting morning business, drawing water, setting up market stalls"
+  scene:
+    mainElements: "Large stone square with central well, Gothic architecture, red brick buildings"
+    details: "Medieval merchants arranging goods on wooden tables, stone well with rope and bucket, Gothic cathedral spires rising above red-tiled rooftops, narrow cobblestone streets leading into the square, hanging guild signs and banners displaying Bologna's red colors, pigeons pecking at scattered grain"
+    background: "Towering Gothic buildings with pointed arches, ornate stonework, and red brick construction typical of medieval Bologna"
+    atmosphere: "Bustling medieval city center with period architecture, morning light casting long shadows across ancient stones, sounds of commerce and daily life beginning"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position"
+    focus: "The grand medieval square showing the scale and architecture of 14th century Bologna"
+    depth: "Foreground: market activity and citizens, Middle: central well and square, Background: Gothic cathedral and city buildings, no text or letters visible"

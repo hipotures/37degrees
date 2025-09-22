@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "title": "Hat Man Phenomenon Timeline",
+    "period": "1995-2025",
+    "events": [
+      {
+        "date": "1995",
+        "event": "First Documented Modern Encounter",
+        "description": "Heidi Hollis, college student, first encounters and begins documenting what becomes known as Hat Man phenomenon",
+        "type": "discovery",
+        "credibility": "confirmed",
+        "source": "Heidi Hollis personal account"
+      },
+      {
+        "date": "Late 1990s",
+        "event": "Early Internet Forum Reports",
+        "description": "Timothy M. Brown Jr. experiences teenage encounter; isolated reports begin appearing in early internet communities",
+        "type": "spread",
+        "credibility": "alleged",
+        "source": "The Hatman Project records"
+      },
+      {
+        "date": "2001-04-12",
+        "event": "Coast to Coast AM Breakthrough",
+        "description": "First extensive radio discussion of shadow people phenomenon on Coast to Coast AM with Art Bell interviewing Thunder Strikes",
+        "type": "media_explosion",
+        "credibility": "confirmed",
+        "source": "Coast to Coast AM archives"
+      },
+      {
+        "date": "2001",
+        "event": "The Hatman Project Founded",
+        "description": "Timothy M. Brown Jr. establishes dedicated website to collect and document Hat Man encounters globally",
+        "type": "documentation",
+        "credibility": "confirmed",
+        "source": "The Hatman Project website"
+      },
+      {
+        "date": "2002",
+        "event": "Heidi Hollis Media Campaign",
+        "description": "Regular appearances on Coast to Coast AM begin, popularizing Hat Man terminology and trademark claims",
+        "type": "popularization",
+        "credibility": "confirmed",
+        "source": "Coast to Coast AM guest logs"
+      },
+      {
+        "date": "Early 2000s",
+        "event": "Forum Culture Development",
+        "description": "Internet forums like Something Awful and early Reddit feature recurring Hat Man discussion threads",
+        "type": "cultural_spread",
+        "credibility": "confirmed",
+        "source": "Internet forum archives"
+      },
+      {
+        "date": "Late 2000s",
+        "event": "Social Media Explosion",
+        "description": "Hat Man descriptions become widespread on social media platforms, establishing consistent visual characteristics",
+        "type": "mass_recognition",
+        "credibility": "confirmed",
+        "source": "Social media platforms"
+      },
+      {
+        "date": "2010s",
+        "event": "Benadryl Connection Discovered",
+        "description": "Documentation emerges linking Hat Man sightings to diphenhydramine (Benadryl) abuse in online communities",
+        "type": "scientific_correlation",
+        "credibility": "confirmed",
+        "source": "Medical and forum reports"
+      },
+      {
+        "date": "2015-01-26",
+        "event": "The Nightmare Documentary",
+        "description": "Sundance Film Festival debut of documentary exploring sleep paralysis and shadow people phenomena",
+        "type": "mainstream_recognition",
+        "credibility": "confirmed",
+        "source": "Sundance Film Festival records"
+      },
+      {
+        "date": "2016",
+        "event": "Academic Research Publication",
+        "description": "Dr. Brian Sharpless publishes comprehensive sleep paralysis research identifying shadow people as most common hallucination type",
+        "type": "scientific_validation",
+        "credibility": "confirmed",
+        "source": "Academic journals"
+      },
+      {
+        "date": "2019",
+        "event": "Hat Man Documentary Release",
+        "description": "Documentary 'The Hat Man: Documented Cases of Pure Evil' released featuring extensive case studies",
+        "type": "media_documentation",
+        "credibility": "confirmed",
+        "source": "Film industry records"
+      },
+      {
+        "date": "2020-2025",
+        "event": "TikTok and Social Media Trends",
+        "description": "Increased Hat Man content on social platforms, including dangerous trends of intentional Benadryl abuse",
+        "type": "dangerous_popularization",
+        "credibility": "disputed",
+        "source": "Social media monitoring, health reports"
+      }
+    ],
+    "key_periods": {
+      "discovery_phase": "1995-2001",
+      "emergence_phase": "2001-2010",
+      "research_phase": "2010-2020",
+      "mainstream_phase": "2020-present"
+    }
+  }
+}

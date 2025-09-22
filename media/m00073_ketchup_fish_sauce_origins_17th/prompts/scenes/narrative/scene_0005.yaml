@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Storm-tossed ship protecting precious cargo"
+  setting:
+    time: "17th century, evening during ocean voyage"
+    location: "European merchant ship in rough seas, Indian Ocean"
+    weather: "Severe storm with high waves and rain"
+  characters:
+    - appearance: "English man, 30s, pale complexion, brown hair, mustache, sturdy build, concerned expression"
+      clothing: "17th century brown wool coat now water-stained, white linen shirt, dark breeches, tall leather boots"
+      position: "In ship's cargo hold checking secured goods"
+      action: "Inspecting ropes securing ceramic jars and wooden crates, ensuring Asian sauce cargo survives voyage"
+  scene:
+    mainElements: "Ship's wooden cargo hold with curved hull beams, secured cargo crates, swaying lanterns, water dripping through planks"
+    details: "Large brown ceramic jars with narrow necks secured with rope, wooden crates containing glass bottles, ship's timbers creaking under storm stress, lantern light creating dramatic shadows, merchant protecting precious Asian condiment cargo"
+    background: "Sound of storm above deck, water occasionally splashing through hatches, other cargo secured with rope and canvas"
+    atmosphere: "Dramatic tension of ocean voyage, precious cargo threatened by natural forces, determination to bring Asian flavors to European markets, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle shot emphasizing drama and danger"
+    focus: "Merchant protecting valuable Asian sauce cargo during storm"
+    depth: "Foreground shows detailed cargo protection efforts, middle ground features ship's hold structure, background suggests storm's power above"

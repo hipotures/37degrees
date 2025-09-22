@@ -1,0 +1,11 @@
+media_info:
+  title: Chimborazo Farthest-from-Earth-Center Point
+  genre: Geography & Science Documentary
+  description: Ecuadorian volcano peak is 21km farther from Earth's center than Mount Everest due to equatorial bulge
+  target_audience: General public, students, geography enthusiasts, science buffs
+  duration: ~3 minutes
+  objective: Recreate the surprising geographical fact that challenges our understanding of Earth's highest points
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

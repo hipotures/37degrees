@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Media Interest - Inverness Courier Report"
+  setting:
+    time: "May 1933, morning"
+    location: "Drumnadrochit Hotel reception area with highland stone walls"
+    weather: "Overcast spring morning through mullioned windows"
+  characters:
+    - appearance: "Middle-aged Scottish woman, practical build, weather-worn face from Highland life"
+      clothing: "1930s brown wool coat, practical shoes, headscarf typical of Highland hotel proprietress"
+      position: "Seated at wooden desk with papers and correspondence"
+      action: "Speaking earnestly to visiting reporter, gesturing toward loch direction"
+  scene:
+    mainElements: "Traditional Highland hotel interior with stone walls, wooden beams, reception desk with guest register, touring maps on walls"
+    details: "Hotel proprietress recounting sighting to attentive journalist, folded newspapers stacked on counter, ink pot and fountain pen, guest registration books, highland tourism pamphlets, window showing loch view in distance"
+    background: "Stone fireplace with highland clan symbols, mounted deer head, traditional Scottish interior furnishings"
+    atmosphere: "Serious business discussion in traditional Highland hospitality setting, growing interest from outside world"
+  composition:
+    cameraAngle: "Medium interior shot capturing both speakers at desk"
+    focus: "Hotel owner's earnest expression as she describes sighting to reporter"
+    depth: "Foreground shows desk with papers and ink, middle ground captures conversation participants, background reveals traditional highland hotel interior, no text or letters visible"

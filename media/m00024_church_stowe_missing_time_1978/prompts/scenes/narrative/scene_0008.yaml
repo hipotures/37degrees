@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "BUFORA Investigation and Scientific Interview Process"
+  setting:
+    time: "December 1978, afternoon, natural daylight"
+    location: "Comfortable domestic interior, likely witness's home or neutral meeting space"
+    weather: "Clear winter day, good natural lighting through windows"
+  characters:
+    - appearance: "50-year-old Caucasian woman, medium build, professional demeanor, well-groomed with typical late 1970s styling"
+      clothing: "Professional work attire - wool coat over business dress, sensible shoes, appropriate for November evening"
+      position: "Seated in comfortable chair, leaning forward slightly, hands gesturing"
+      action: "Recounting experience to investigators, speaking earnestly with genuine puzzlement and sincerity"
+    - appearance: "Young Caucasian woman in late 20s, professional appearance, confident bearing, methodical demeanor"
+      clothing: "1980s investigator attire - practical clothing suitable for fieldwork, carries notebook and recording equipment"
+      position: "Seated across from witness, notebook open, recording equipment nearby"
+      action: "Taking careful notes, asking methodical questions, maintaining scientific approach"
+  scene:
+    mainElements: "Comfortable domestic interior with seating arrangement conducive to interview, natural lighting from windows, professional atmosphere"
+    details: "1980s research equipment including notebooks, recording devices, interview materials, scientific documentation tools arranged on table, warm domestic lighting, bookshelves and typical home furnishings, formal but comfortable interview setup"
+    background: "Well-lit room with windows showing winter daylight, typical English home interior, sense of calm investigative environment"
+    atmosphere: "Serious scientific inquiry into extraordinary claims, atmosphere of mutual respect and genuine search for truth, careful documentation process, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing both investigator and witness in conversation"
+    focus: "Serious interview process between credible witness and scientific researcher"
+    depth: "Interview participants in foreground, recording equipment and documentation in middle ground, domestic interior in background"

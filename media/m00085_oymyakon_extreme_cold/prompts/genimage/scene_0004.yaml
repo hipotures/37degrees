@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Early morning before dawn, 6:00 AM
+    location: Outdoor area near Yakutian house with attached garage, vehicle preparation area
+    weather: Extreme cold at -68°C, clear starry sky before sunrise
+  characters:
+  - appearance: Yakutian man, 40s, weathered face with high cheekbones, dark eyes adapted to snow glare, bronze skin from
+      outdoor work
+    clothing: Traditional reindeer hide parka with fur-lined hood, thick mukluks, woolen mittens, layers of warm undergarments
+    position: Standing beside running vehicle with hood open
+    action: Checking engine fluids, adjusting engine block heater, ensuring car stays running to prevent freezing
+  scene:
+    mainElements: Soviet-era vehicle with engine running and hood open, clouds of exhaust vapor, engine block heater plugged
+      into house power
+    details: Old but reliable car with engine running continuously, visible exhaust clouds in extreme cold air. Engine block
+      heater cord extending from vehicle to electrical outlet on house exterior. Tool kit laid out on snow-covered ground.
+      Extra containers of antifreeze and engine oil nearby. Headlights illuminating falling snow and vapor clouds. Vehicle
+      interior lights showing necessity of keeping car operational in extreme conditions.
+    background: Wooden Yakutian house with electrical connection, snow-covered yard, other village buildings with similar
+      vehicle arrangements, forest edge visible in distance
+    atmosphere: Daily struggle against extreme cold, mechanical necessity for survival, human adaptation to harsh environment
+  composition:
+    cameraAngle: Medium shot from side angle showing both person and vehicle
+    focus: Vehicle with running engine and person performing cold weather maintenance
+    depth: Person and car in foreground, house with electrical connection in middle ground, village and forest in background,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

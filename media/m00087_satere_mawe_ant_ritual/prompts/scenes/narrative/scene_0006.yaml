@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Initiate receiving bullet ant gloves"
+  setting:
+    time: "Evening, flickering firelight casting dancing shadows"
+    location: "Central gathering area of Sateré-Mawé village in Amazon rainforest"
+    weather: "Still warm evening air with ceremonial smoke lingering"
+  characters:
+    - appearance: "Indigenous Brazilian boy, 12-15 years old, lean athletic build, bronze skin, straight black hair"
+      clothing: "Traditional Sateré-Mawé attire with colorful feather ornaments, woven cotton bands, minimal body decoration"
+      position: "Standing in center of ceremonial circle, arms extended forward"
+      action: "Slowly putting hands into bullet ant gloves while maintaining brave composure despite visible nervousness"
+    - appearance: "Elderly Sateré-Mawé man, 60s, weathered bronze skin, white-streaked black hair, wise dark eyes"
+      clothing: "Traditional ceremonial robes with elaborate feather headdress, shell and bead jewelry, painted body markings"
+      position: "Standing close beside initiate providing guidance"
+      action: "Supporting and encouraging young initiate as gloves are donned"
+  scene:
+    mainElements: "Circular clearing surrounded by traditional thatched-roof houses, fire pit in center, woven palm mats"
+    details: "Woven cashew leaf gloves with hundreds of live bullet ants sewn inside, stingers pointing inward toward hand opening being carefully placed onto young hands. Fire casting dramatic light and shadows, community watching in reverent silence, traditional ritual objects surrounding sacred space."
+    background: "Village community seated in circle watching ceremony, traditional houses and forest silhouetted against firelight"
+    atmosphere: "Community gathering space with warm firelight, ceremonial significance, tribal unity. Moment of extreme courage and cultural transition, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot focusing on initiate and glove placement"
+    focus: "Young initiate's hands entering the dangerous ant-filled gloves"
+    depth: "Glove ceremony in foreground, supporting elder in middle ground, watching community in background"

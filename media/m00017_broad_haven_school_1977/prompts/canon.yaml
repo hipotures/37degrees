@@ -1,0 +1,99 @@
+canon:
+  characters:
+    - id: "character_DD"
+      name: "Character DD"
+      description_block: |
+        characters:
+          - appearance: "Small-framed 10-year-old boy, brown hair, typical 1970s schoolboy appearance, earnest expression"
+            clothing: "1970s school uniform - grey shorts, white shirt, school jumper, black shoes"
+            position: "Standing in school playground or pointing toward field"
+            action: "Observing and reporting sighting with serious, methodical demeanor"
+
+    - id: "character_MW"
+      name: "Character MW"
+      description_block: |
+        characters:
+          - appearance: "10-year-old boy, confident bearing reflecting military family background"
+            clothing: "Standard school uniform of grey shorts, white shirt, school jumper"
+            position: "Among group of children or gesturing toward sighting"
+            action: "Delivering matter-of-fact testimony with confidence despite adult skepticism"
+
+    - id: "character_RL"
+      name: "Character RL"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man in his 40s, traditional headmaster appearance, formal bearing"
+            clothing: "1970s formal attire - dark suit, tie, polished shoes befitting school administrator"
+            position: "In school office or classroom supervising children"
+            action: "Initially dismissive but becoming convinced by children's consistency"
+
+    - id: "character_RG"
+      name: "Character RG"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged woman, Welsh hotel proprietor, practical appearance, weathered face showing outdoor exposure effects"
+            clothing: "1970s casual business attire suitable for hotel management"
+            position: "Outside hotel or looking toward field from building"
+            action: "Visibly shaken and agitated by encounter, pointing or shielding face from heat"
+
+    - id: "silver_being"
+      name: "Silver Being"
+      description_block: |
+        characters:
+          - appearance: "Humanoid figure approximately 5-6 feet tall, faceless or indistinct facial features, pointed head"
+            clothing: "Reflective silver suit covering entire body, seamless appearance"
+            position: "Standing near craft or walking around field"
+            action: "Methodical movements around craft, non-threatening but purposeful behavior"
+
+  locations:
+    - id: "broad_haven_school"
+      name: "Broad Haven Primary School"
+      description_block: |
+        setting:
+          location: "Single-story 1960s primary school building with large playground adjacent to open countryside, Broad Haven, Pembrokeshire, Wales"
+          time: "February 1977, afternoon daylight"
+        mainElements: "Main school building, playground with football markings, chain-link fence separating school from field, mature trees bordering property"
+        atmosphere: "Peaceful rural school setting, February afternoon with clear visibility, sounds of children at play"
+
+    - id: "landing_field"
+      name: "Field Adjacent to School"
+      description_block: |
+        setting:
+          location: "Open grassy field with gentle slope, approximately 100 meters from school playground, bordered by trees and hedgerows typical of Welsh countryside"
+          time: "February 1977, clear winter afternoon"
+        mainElements: "Level grass surface suitable for landing, clear sightlines from school, natural boundaries of vegetation"
+        atmosphere: "Quiet rural field setting, afternoon winter light, isolated from main village"
+
+    - id: "haven_fort_hotel"
+      name: "Haven Fort Hotel, Little Haven"
+      description_block: |
+        setting:
+          location: "Victorian-era hotel building overlooking St. Brides Bay, isolated coastal location, Little Haven, Pembrokeshire, Wales"
+          time: "April 1977, evening darkness"
+        mainElements: "Multi-story hotel building, guest car park, surrounding fields with view to coastline"
+        atmosphere: "Quiet coastal hotel setting, evening darkness, remote location"
+
+    - id: "school_classroom"
+      name: "Primary School Classroom"
+      description_block: |
+        setting:
+          location: "1970s primary school classroom with large windows overlooking playground and field, Broad Haven Primary School"
+          time: "February 1977, afternoon"
+        mainElements: "Wooden desks arranged in rows, blackboard, educational posters, large windows, teacher's desk"
+        atmosphere: "Traditional 1970s classroom environment, natural lighting from windows"
+
+  items:
+    - id: "cigar_shaped_craft"
+      name: "Primary UFO Craft"
+      description_block: |
+        details: "Approximately 45 feet long, cigar-shaped with central dome covering middle third, iridescent silver finish, slowly pulsating red light on dome, apparent door opening on side, silent operation"
+
+    - id: "children_drawings"
+      name: "Witness Sketch Evidence"
+      description_block: |
+        details: "14 separate drawings on paper created under exam conditions, showing remarkable consistency, all depicting saucer-shaped craft with dome on top, variations in artistic ability but consistent core elements"
+
+    - id: "school_playground"
+      name: "School Playground Equipment"
+      description_block: |
+        details: "1970s school playground with football markings on tarmac, chain-link fence, wooden posts, basic playground equipment typical of rural Welsh primary school"

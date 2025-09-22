@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Tuskegee Institute Medical Clinic Introduction"
+  setting:
+    time: "1932, afternoon"
+    location: "Medical examination room at Tuskegee Institute, Macon County, Alabama"
+  characters:
+    - appearance: "White man, 50s, graying hair, stern expression, authoritative bearing"
+      clothing: "1940s-1970s white lab coat over formal suit, medical stethoscope"
+      position: "Standing beside examination table with clipboard"
+      action: "Reviewing medical documents, pen in hand preparing to write"
+    - appearance: "African American woman, 30s-40s, professional demeanor, kind eyes"
+      clothing: "1940s-1970s white nursing uniform, white cap, medical bag"
+      position: "Arranging medical instruments on side table"
+      action: "Preparing examination tools, organizing supplies with careful attention"
+  scene:
+    mainElements: "Simple medical examination table, basic medical equipment, institutional furniture"
+    details: "Medical instruments on metal tray, stethoscope hanging on wall hook, examination chair, medicine cabinet with glass doors, height and weight scale, basic lighting fixture, linoleum floor"
+    background: "Institutional walls with medical charts and certificates, window showing campus grounds"
+    atmosphere: "Clinical but humble, institutional lighting, sense of routine medical care, professional medical environment, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from patient's perspective"
+    focus: "Medical professionals preparing for examination routine"
+    depth: "Foreground shows examination table, middle ground has doctor and nurse, background reveals institutional medical setting"

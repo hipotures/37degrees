@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 2024, morning
+    location: INRS Énergie Matériaux Télécommunications Research Centre, advanced optics laboratory, Montreal, Canada
+    weather: Clear morning light streaming through laboratory windows
+  characters:
+  - appearance: Asian-Canadian man, 40s, focused expression, dark hair, wire-rim glasses
+    clothing: White lab coat over dark shirt, or casual dark suit with no tie
+    position: Standing at the entrance of the laboratory, holding a coffee cup
+    action: Surveying the high-tech laboratory equipment while planning the day's experiments
+  scene:
+    mainElements: State-of-the-art optical laboratory with laser equipment, precision measurement devices, computer workstations
+    details: Modern research facility featuring advanced optical benches, laser systems, precision alignment equipment, computer
+      workstations with multiple monitors, scientific measurement instruments, and controlled lighting systems designed for
+      optical research. Clean, organized workspace with safety equipment and calibration tools visible throughout the laboratory.
+    background: Large windows revealing Montreal cityscape, additional laboratory equipment and workstations
+    atmosphere: High-tech scientific environment with controlled lighting and sterile surfaces, no text or letters visible
+  composition:
+    cameraAngle: Wide establishing shot from laboratory entrance
+    focus: The sophisticated laboratory environment and the lead researcher
+    depth: Foreground shows researcher, middle ground displays main equipment, background reveals additional workstations
+      and windows
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

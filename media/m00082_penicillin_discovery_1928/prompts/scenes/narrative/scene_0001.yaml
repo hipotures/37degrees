@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Character AF's Laboratory at St Mary's Hospital - Summer 1928"
+  setting:
+    time: "1928 summer, late afternoon"
+    location: "St Mary's Hospital Bacteriology Laboratory, Paddington, London"
+    weather: "Warm summer day with bright natural light streaming through windows"
+  characters:
+    - appearance: "Scottish man, 47 years old, average height, lean build, receding dark hair, thoughtful brown eyes, clean-shaven"
+      clothing: "1920s white laboratory coat over dark suit with vest and tie, or dark wool suit with waistcoat"
+      position: "Standing at wooden laboratory bench examining bacterial cultures"
+      action: "Methodically preparing bacterial culture plates for incubation"
+  scene:
+    mainElements: "1920s medical research laboratory with wooden lab benches, glass equipment, microscopes, petri dishes, chemical bottles"
+    details: "Well-organized laboratory workspace with rows of glass petri dishes containing bacterial cultures, brass microscope, glass flasks with growth media, chemical bottles lined on shelves, afternoon sunlight illuminating dust particles in air, wooden lab stools, gas burner for sterilization, no text or letters visible"
+    background: "Tall windows overlooking London street, laboratory shelves filled with scientific equipment and specimens, other research benches with various experiments in progress"
+    atmosphere: "Scientific precision and discovery, natural daylight through tall windows, organized chaos of research"
+  composition:
+    cameraAngle: "Medium wide shot from slight elevation showing laboratory layout"
+    focus: "Character AF working methodically at central lab bench with bacterial cultures"
+    depth: "Foreground shows detailed lab equipment and petri dishes, middle ground focuses on character AF's work, background reveals institutional laboratory setting with windows and shelves"

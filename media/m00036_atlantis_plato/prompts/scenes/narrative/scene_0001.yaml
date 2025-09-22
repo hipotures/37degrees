@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Philosopher begins the Atlantis narrative in the Academy of Athens"
+  setting:
+    time: "360 BCE, afternoon"
+    location: "Academy of Athens - walled grove of olive trees northwest of Athens"
+    weather: "Clear Mediterranean day with gentle breeze"
+  characters:
+    - appearance: "Elderly man in his 60s, broad-shouldered build, intelligent dark eyes, full beard, high forehead"
+      clothing: "Traditional Greek chiton and himation cloak in white linen, leather sandals, possibly wearing philosopher's ring"
+      position: "Standing beneath olive trees in the Academy courtyard"
+      action: "Gesturing with hands while addressing a small group of students, scroll partially unrolled"
+  scene:
+    mainElements: "Columned porticos for walking discussions, stone seats, altar to Athena, library scrolls"
+    details: "Papyrus scroll approximately 20 feet long, written in ancient Greek letters, contains first mention of Atlantis. Stone benches arranged in semicircle around the teacher. Olive branches casting dappled shadows on white marble. Ancient Greek philosophical texts visible on nearby stone table. Students seated attentively with writing tablets."
+    background: "Peaceful scholarly environment, afternoon sunlight filtering through olive leaves, sound of philosophical debate"
+    atmosphere: "Contemplative academic setting with sense of profound revelation about to unfold, warm golden light suggesting timeless wisdom being shared"
+  composition:
+    cameraAngle: "Medium shot from student perspective looking up at the teacher"
+    focus: "Character PL holding the Timaeus scroll and beginning his famous account"
+    depth: "Foreground: attentive students on stone seats, middle ground: Character PL with scroll, background: columned academy buildings through olive grove, no text or letters visible"

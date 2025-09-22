@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Medical Examination Inside Extraterrestrial Craft"
+  setting:
+    time: "August 12, 1983, 1:40 AM"
+    location: "Interior of disc-shaped craft hovering above Basingstoke Canal towpath"
+    weather: "Interior environment, sealed from outside conditions"
+  characters:
+    - appearance: "77-year-old man, medium build, weathered face with military bearing, graying hair, wearing practical fishing attire"
+      clothing: "Dark woolen coat, wellington boots, flat cap, carrying fishing equipment and thermos flask"
+      position: "Standing under amber scanning light in center of octagonal chamber"
+      action: "Standing calmly while being scanned by amber light, awaiting examination results with military composure"
+    - appearance: "Approximately 4.5 feet tall, humanoid form, proportionate limbs, face obscured by dark visor"
+      clothing: "Pale green coveralls from head to foot, molded appearance with no visible fasteners, matching helmet with dark visor"
+      position: "Operating scanning equipment from chamber wall"
+      action: "Operating amber scanning light apparatus, preparing to communicate examination results"
+    - appearance: "Identical height and build to primary being, same humanoid characteristics, face obscured by dark visor"
+      clothing: "Identical pale green coveralls and helmet with dark visor"
+      position: "Standing at chamber perimeter observing"
+      action: "Monitoring examination process, silent observer during medical scanning procedure"
+  scene:
+    mainElements: "Octagonal chamber with low ceiling requiring stooping, entirely black metallic surfaces, amber scanning light apparatus illuminating witness, seamless molded construction"
+    details: "Amber-colored beam scanning character AB for medical examination, operated by character GB1 for several minutes to analyze physical condition. Chamber walls with seamless molded surfaces, no visible nuts, bolts, or joints, slight smell of decaying meat, dim lighting except for scanning beam. Clinical sterile environment designed for efficient examination of specimens"
+    background: "Curved metallic walls extending into shadows, unknown technological equipment integrated into surfaces, octagonal chamber geometry"
+    atmosphere: "Alien and clinical environment, efficient examination space, impersonal medical scanning facility, slight unpleasant organic smell, technological superiority evident in construction, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from low angle showing chamber interior with scanning procedure"
+    focus: "Character AB standing under amber light beam with beings operating equipment"
+    depth: "Witness under scanning light in foreground, operating beings in middle ground, chamber walls and technology in background"

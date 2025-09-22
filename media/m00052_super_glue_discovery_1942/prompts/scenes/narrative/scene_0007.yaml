@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Realizing the Gun Sight Project Failure"
+  setting:
+    time: "1942, afternoon"
+    location: "Specialized optical testing area within Eastman Kodak laboratory"
+    weather: "Overcast afternoon, subdued lighting through laboratory windows"
+  characters:
+    - appearance: "Caucasian man, 25 years old, dark brown hair, medium build, focused expression, intelligent eyes behind wire-rimmed glasses"
+      clothing: "1940s white laboratory coat over dark suit and tie, black leather shoes"
+      position: "Standing at optical testing workbench looking disappointed"
+      action: "Examining failed gun sight prototype that has been ruined by excessive adhesive properties"
+    - appearance: "Caucasian man, 30s, light brown hair, tall and lanky, serious demeanor"
+      clothing: "White laboratory coat over brown trousers and light blue shirt, no tie"
+      position: "Standing nearby with clipboard"
+      action: "Recording the failure of the gun sight project while observing the unusable prototype"
+  scene:
+    mainElements: "Metal frame gun sight prototypes with clear plastic lens components designed for military aircraft targeting systems, now rendered unusable by excessive adhesive bonding"
+    details: "Gun sight prototype components permanently bonded together in wrong configuration, optical clarity compromised by adhesive residue, precision targeting mechanism jammed by sticky compound, lightweight aluminum construction intact but functionality destroyed, original military specifications impossible to meet with this material"
+    background: "Optical testing equipment and other gun sight prototypes on shelves, military specification charts on wall, window showing overcast sky"
+    atmosphere: "Disappointment at project failure mixed with growing recognition of accidental discovery potential, wartime pressure to find alternative solutions, scientific curiosity about unexpected findings, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up from three-quarter view"
+    focus: "Failed gun sight prototype showing excessive adhesive bonding that ruins its military application"
+    depth: "Foreground shows damaged gun sight prototype in sharp detail, middle ground displays characters' disappointed reactions, background reveals optical testing environment"

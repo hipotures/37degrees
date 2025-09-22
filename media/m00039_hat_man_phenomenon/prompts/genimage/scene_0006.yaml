@@ -1,0 +1,110 @@
+sceneDescription:
+  setting:
+    time: 2016, 11:45 PM
+    location: Medical sleep study facility with monitoring equipment
+    weather: Indoor controlled environment
+  characters:
+  - appearance: Adult in 30s-40s, tense facial expression with eyes wide with fear or confusion
+    clothing: Hospital gown with electrodes attached to head and chest
+    position: Lying in hospital-style bed connected to monitoring equipment
+    action: Experiencing monitored sleep paralysis episode while researchers observe
+  - appearance: Middle-aged scientist, 40s-50s, focused professional demeanor
+    clothing: White lab coat over business attire, sometimes with sleep monitoring equipment
+    position: Standing beside monitoring equipment or seated at desk with charts
+    action: Observing sleep study data, taking notes, adjusting monitoring equipment
+  scene:
+    mainElements: Hospital-style bed with electrodes and wires, computer monitors displaying sleep data, observation window
+    details: EEG electrodes attached to subject's head, pulse oximeter on finger, computer screens showing brain wave patterns,
+      video cameras positioned around bed. Multiple monitors displaying real-time sleep data including REM patterns and paralysis
+      indicators. Research clipboard with data collection forms.
+    background: Clinical observation room with one-way mirror, additional monitoring equipment, charts on walls showing sleep
+      cycle diagrams
+    atmosphere: Clinical sterile environment with soft monitoring equipment lights, cameras recording from multiple angles.
+      Scientific attempt to document and understand phenomenon in controlled setting
+  composition:
+    cameraAngle: Wide shot from observation room perspective through one-way mirror
+    focus: Subject in monitored sleep study bed while researcher observes data
+    depth: 'Foreground: monitoring equipment and researcher, middle: observation window, background: subject in bed with electrodes
+      in clinical sleep study room, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

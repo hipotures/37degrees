@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "DNA Analysis Project - 2018 Scientific Study"
+  setting:
+    time: "2018, morning fieldwork"
+    location: "Shingle beach on southeastern shore, popular access point"
+    weather: "Clear contemporary morning with excellent working conditions"
+  characters:
+    - appearance: "Modern academic in his 50s, practical outdoor clothing, carries scientific equipment"
+      clothing: "Contemporary field research gear - waterproof jacket, University of Otago branded items"
+      position: "Kneeling beside loch shore with sampling equipment"
+      action: "Collecting water samples in labeled containers for DNA analysis"
+  scene:
+    mainElements: "Pebble shore, small car park, clear views across loch, modern scientific approach to ancient mystery"
+    details: "Modern water sampling containers, sterile collection tubes, University laboratory labels, field research documentation, systematic collection from multiple depths and locations, GPS equipment for precise location recording, insulated sample storage"
+    background: "Same loch waters that have inspired decades of speculation, now subject to cutting-edge genetic analysis"
+    atmosphere: "Peaceful setting popular with tourists and locals, scientific methodology applied to legendary mystery"
+  composition:
+    cameraAngle: "Close-up shot showing detailed scientific sampling process"
+    focus: "Precise collection of water samples with modern equipment"
+    depth: "Foreground shows sampling containers and equipment, middle ground captures scientist at work, background reveals familiar loch landscape, no text or letters visible"

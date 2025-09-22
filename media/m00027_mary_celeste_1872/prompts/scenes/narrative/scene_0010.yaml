@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "British Vice Admiralty Court Investigation - Gibraltar"
+  setting:
+    time: "December 17, 1872 - March 1873, formal legal proceedings"
+    location: "Victorian-era British colonial courtroom with high ceilings, formal legal proceedings under British maritime authority"
+    weather: "Mediterranean winter climate inside formal courthouse"
+  characters:
+    - appearance: "Victorian-era British legal official, formal bearing, precise dress, authoritative presence"
+      clothing: "Black legal robes for court proceedings, formal Victorian business attire, white judicial wig"
+      position: "Seated at elevated judge's bench reviewing evidence and testimony"
+      action: "Conducting thorough legal investigation with suspicious scrutiny of salvage claims and possible conspiracy"
+    - appearance: "Experienced sailor in his 30s, strong build necessary for boarding operations, practical seaman's attire"
+      clothing: "Heavy wool peacoat, waterproof oilskins, sturdy sea boots, knit cap, equipped with maritime tools"
+      position: "Standing at witness stand providing detailed testimony"
+      action: "Giving precise account of discovery and boarding investigation under intense legal questioning"
+  scene:
+    mainElements: "Formal British colonial courtroom with elevated judge's bench, witness stand with detailed testimony being given, gallery seating filled with observers, British naval flags displaying maritime authority, stacks of legal documentation and physical evidence from Mary Celeste"
+    details: "Evidence table displaying items recovered from Mary Celeste including damaged alcohol barrels, disassembled pump components, and ship's log, court stenographer recording all testimony and proceedings, British legal officials examining every detail for signs of conspiracy or foul play, maritime experts providing technical testimony about ship conditions, formal legal atmosphere with strict procedural requirements"
+    background: "High-ceilinged Victorian courtroom with British colonial architecture, windows showing Gibraltar harbor where Mary Celeste remains impounded, formal legal furnishings including mahogany paneling and brass fixtures, British maritime law books and legal precedents"
+    atmosphere: "Formal legal tension and deep suspicion regarding salvage claims, December 1872 Mediterranean winter creating somber courtroom atmosphere, growing frustration as investigation fails to find evidence of conspiracy, sense that mystery will remain unsolved despite thorough legal examination"
+  composition:
+    cameraAngle: "Medium shot from courtroom gallery showing judge, witness, and evidence display"
+    focus: "Judge conducting investigation and witness testimony as central focal points"
+    depth: "Foreground shows detailed evidence table and legal proceedings, middle ground captures judge and witness interaction, background reveals formal courtroom architecture and gallery observers, no text or letters visible"

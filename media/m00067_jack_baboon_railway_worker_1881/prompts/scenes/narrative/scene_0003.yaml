@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Signal Box Training - the baboon Observes Railway Operations"
+  setting:
+    time: "1881, afternoon"
+    location: "Two-story wooden signal box overlooking railway tracks at Uitenhage station"
+    weather: "Bright afternoon with clear visibility"
+  characters:
+    - appearance: "White male, 40s, sturdy build, determined expression, double leg amputee below the knee"
+      clothing: "1880s railway uniform - dark blue wool jacket with brass buttons, white shirt, black tie, dark trousers"
+      position: "Seated at lever frame, reaching up to operate signal levers"
+      action: "Demonstrating proper lever sequence while pointing to approaching train and explaining system"
+    - appearance: "Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build"
+      clothing: "No clothing yet, natural baboon appearance"
+      position: "Standing beside character JW, watching intently"
+      action: "Observing every movement of lever operation, head tilted attentively, occasionally mimicking hand motions"
+  scene:
+    mainElements: "Mechanical lever frame with numbered signal levers arranged in precise row, large windows providing clear view of multiple railway tracks below"
+    details: "Tall brass and iron mechanical levers numbered 1-10, signal charts mounted on wooden walls, oil lamps for evening work, telegraph equipment with brass keys, wooden stairs leading to upper level, signal flags and lanterns"
+    background: "Victorian-era railway station with stone platform below, multiple steam locomotives and passenger cars, wooden waiting benches, telegraph wires stretching across landscape"
+    atmosphere: "Focused learning environment with industrial precision, mechanical sounds of railway operation, steam and coal smoke drifting from trains below, sense of important responsibility"
+  composition:
+    cameraAngle: "Close-up shot from inside signal box"
+    focus: "Character JW operating levers while the baboon watches and learns the precise system"
+    depth: "Foreground: lever frame and characters, middle ground: signal box interior details, background: railway station activity through windows, no text or letters visible"

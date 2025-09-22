@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Official Verification and Documentation"
+  setting:
+    time: "June 1, 2011, 11:15 AM"
+    location: "Open area adjacent to university buildings, Krakow, Poland"
+    weather: "Bright sunny day with excellent visibility for documentation"
+  characters:
+    - appearance: "Caucasian man, 50s, professional demeanor, observant eyes, glasses"
+      clothing: "Formal business suit, official Guinness World Records badge, measuring equipment"
+      position: "Standing outside bus with official counting and verification equipment"
+      action: "Standing with measuring tools and official documentation, observing carefully"
+    - appearance: "Caucasian man, 40s, authoritative presence, confident expression, short brown hair"
+      clothing: "Professional dark suit with university badge, formal dress shirt, tie"
+      position: "Coordinating with officials while monitoring the packed bus"
+      action: "Standing with clipboard, coordinating with authority and precision"
+    - appearance: "Caucasian man, 40s, experienced look, calm expression, sturdy build"
+      clothing: "Official bus driver uniform - dark blue jacket, cap, professional appearance"
+      position: "Seated at driver controls inside packed bus"
+      action: "Seated at driver controls, maintaining professional composure"
+  scene:
+    mainElements: "Bus at maximum capacity with 229 participants inside, official verification process taking place outside"
+    details: "Clipboard with official Guinness World Records documentation, participant count sheets, verification forms being completed, professional measuring equipment for verifying bus dimensions, participant counting devices showing final count of 229, official timing equipment preparing for the 75-meter journey, thorough documentation process ensuring all record requirements are met"
+    background: "University campus buildings, prepared verification area, standard single-decker public transport bus visible with maximum human capacity"
+    atmosphere: "Official verification atmosphere with intense focus on proper documentation and record validation, anticipation for the final journey phase, no text or letters visible"
+  composition:
+    cameraAngle: "External view showing officials documenting the packed bus"
+    focus: "Guinness World Records official completing verification process"
+    depth: "Foreground shows official documentation process, middle ground displays the record bus at capacity, background reveals university campus setting"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Broad Haven Primary School on a February Afternoon"
+  setting:
+    time: "February 1977, 1:00 PM afternoon"
+    location: "Single-story 1960s primary school building with large playground adjacent to open countryside, Broad Haven, Pembrokeshire, Wales"
+    weather: "Clear winter day with good visibility, cool February temperature"
+  characters:
+    - appearance: "Small-framed 10-year-old boy, brown hair, typical 1970s schoolboy appearance, earnest expression"
+      clothing: "1970s school uniform - grey shorts, white shirt, school jumper, black shoes"
+      position: "Standing in school playground among other children"
+      action: "Playing with friends during lunch break, running and laughing"
+    - appearance: "10-year-old boy, confident bearing reflecting military family background"
+      clothing: "Standard school uniform of grey shorts, white shirt, school jumper"
+      position: "Near playground fence looking toward the adjacent field"
+      action: "Kicking football with classmates during lunch recess"
+  scene:
+    mainElements: "Main school building, playground with football markings, chain-link fence separating school from field, mature trees bordering property"
+    details: "1970s school playground with football markings on tarmac, chain-link fence, wooden posts, basic playground equipment typical of rural Welsh primary school. Children's voices echoing across the playground, February sunlight casting long shadows. Open grassy field visible beyond the fence with gentle slope and natural boundaries of vegetation."
+    background: "Rolling Welsh countryside stretching into distance, hedgerows and mature trees creating natural field boundaries, peaceful rural landscape under clear winter sky"
+    atmosphere: "Peaceful rural school setting, February afternoon with clear visibility, sounds of children at play, calm before the extraordinary events to unfold, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position showing entire school complex"
+    focus: "School building and playground with children at play, emphasizing normalcy of rural school day"
+    depth: "Foreground: playground with children, middle ground: school building, background: open field and Welsh countryside"

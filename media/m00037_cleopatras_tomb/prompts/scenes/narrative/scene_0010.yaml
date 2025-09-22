@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Eternal Search - Mystery Remains Unsolved"
+  setting:
+    time: "Present day, evening golden hour"
+    location: "Taposiris Magna excavation site overlooking Mediterranean in distance"
+    weather: "Clear desert evening with warm golden light"
+  characters:
+    - appearance: "Middle-aged Latina woman, 5'6\", dark hair, determined expression, wearing practical field clothes"
+      clothing: "Khaki archaeological fieldwork attire, wide-brimmed hat, sturdy boots, utility belt with tools"
+      position: "Standing at edge of excavation site, gazing toward Mediterranean horizon"
+      action: "Contemplating the horizon with unwavering determination, holding ancient artifact in hands"
+  scene:
+    mainElements: "Extensive archaeological excavation with multiple dig sites, ancient temple foundations exposed, Mediterranean Sea visible in far distance, archaeological equipment and temporary structures"
+    details: "Ancient stone foundations and walls partially excavated from desert sand, wooden excavation grids marking different dig areas, archaeological tools and equipment scattered throughout site, protective tarps covering sensitive areas, measuring stakes and string grids, bronze and silver coins and pottery sherds arranged on examination tables"
+    background: "Desert landscape extending toward Mediterranean coastline, ancient temple ruins silhouetted against evening sky, archaeological camp with tents and vehicles"
+    atmosphere: "Peaceful determination mixed with mystery, golden hour light creating dramatic shadows across excavation, sense of ongoing quest and archaeological passion, timeless quality bridging ancient and modern worlds, hope persisting despite challenges"
+  composition:
+    cameraAngle: "Wide shot from behind character looking toward horizon"
+    focus: "Character KM contemplating the continuing search with excavation site spread before her"
+    depth: "Character in foreground, extensive excavation in middle ground, Mediterranean horizon in background, no text or letters visible"

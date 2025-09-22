@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Sacred Ceremony at Completed Monument"
+  setting:
+    time: "2450 BCE, evening during major ceremonial gathering"
+    location: "2.8km ceremonial pathway from River Avon to Stonehenge monument, Wiltshire, England"
+    weather: "Clear conditions for ceremonial gatherings, good visibility required"
+  characters:
+    - appearance: "Elderly with white beard, deep-set eyes from night observations, slight build, ceremonial bearing"
+      clothing: "Finest woven robes with astronomical symbols, amber beads indicating high status, feathered headdress for ceremonies"
+      position: "Standing at observation points, often with arms raised toward sky"
+      action: "Pointing toward celestial phenomena, marking positions with carved sticks, maintaining solemn reverence during observations"
+    - appearance: "Medium build, continental facial features, different hairstyle from locals, bronze ornaments"
+      clothing: "Distinctive bell-shaped pottery vessel, copper daggers, woven textiles with geometric patterns"
+      position: "Standing respectfully at edge of gatherings, observing ceremonies"
+      action: "Watching local customs carefully, offering ritual objects respectfully, seeking to understand monument's purpose"
+  scene:
+    mainElements: "Procession of hundreds approaching monument along ceremonial avenue, ritual fires burning within stone circle, offerings being placed at trilithon bases"
+    details: "Parallel earthwork banks 12 meters apart marking processional route, river crossing point at eastern terminus, sight-lines to monument. Ceremonial pottery, bronze artifacts, food offerings, cremated remains being honored. Drummers creating rhythmic accompaniment, ritual dancers moving between stones, elders conducting astronomical observations. Four sarsen stones forming precise rectangle outside main circle, aligned with lunar extremes, mathematical precision in placement, alignments to maximum and minimum moonrise and moonset positions"
+    background: "River Avon valley with water meadows, gradual rise toward Salisbury Plain, monument visible in distance"
+    atmosphere: "Building anticipation toward sacred site, distant trilithons growing larger with approach, sound of ceremonial drums and chanting echoing across landscape. Unity of communities gathered from across Britain, shared reverence for cosmic cycles, celebration of architectural achievement"
+  composition:
+    cameraAngle: "Elevated view showing scale of gathering and monument's commanding presence"
+    focus: "Moment of ceremonial climax with offerings being made"
+    depth: "Foreground shows detailed ceremonial activities, middle ground reveals processional crowds, background shows monument illuminated by ritual fires, no text or letters visible"

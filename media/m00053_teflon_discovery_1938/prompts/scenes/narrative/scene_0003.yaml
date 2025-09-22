@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Gas Cylinder Storage at Low Temperature"
+  setting:
+    time: "1938, spring evening"
+    location: "Chemical storage area within DuPont Jackson Laboratory"
+    weather: "Cool evening atmosphere within laboratory storage area"
+  characters:
+    - appearance: "Caucasian man, early 30s, slender build, intelligent dark eyes, carefully combed dark hair"
+      clothing: "1930s white lab coat over dress shirt and tie, or casual suit with vest"
+      position: "Carefully placing filled gas cylinders in low-temperature storage area"
+      action: "Organizing multiple small pressure cylinders in cooling system for overnight storage of produced TFE gas"
+  scene:
+    mainElements: "Metal shelving units with various chemical containers, pressure cylinders stored at low temperature"
+    details: "Multiple small metal pressure cylinders arranged on cooling apparatus, steel gray cylinders with valve mechanisms at top, approximately 12 inches tall each, cooling equipment with visible condensation indicating low temperature, metal shelving system with organized chemical storage, temperature monitoring equipment, safety labels and warning systems visible, no text or letters visible"
+    background: "Additional laboratory storage equipment, chemical containers on shelves, industrial ventilation systems, controlled environment indicators"
+    atmosphere: "Cool, organized storage space with industrial lighting and safety equipment visible"
+  composition:
+    cameraAngle: "Wide shot showing the storage area and systematic arrangement of gas cylinders"
+    focus: "Character organizing pressure cylinders in cooling storage system"
+    depth: "Foreground shows cooling equipment and cylinders, middle ground features character at work, background reveals broader storage facility organization, no text or letters visible"

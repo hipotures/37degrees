@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1905, early evening
+    location: Victorian-era train station platform with steam locomotives, European city
+    weather: Light fog with golden sunset creating atmospheric lighting
+  characters:
+  - appearance: Young man, 25 years old, athletic build, short brown hair, clean-shaven, determined expression
+    clothing: 'Early 20th century traveler''s outfit: brown leather jacket, wool pants, sturdy boots, aviator goggles'
+    position: Standing beside experimental steam-powered vehicle on platform
+    action: Checking scientific instruments and adjusting brass fittings on the vehicle
+  - appearance: Young man, 25 years old, identical to character_T1, athletic build, short brown hair, clean-shaven
+    clothing: 'Early 20th century casual wear: white cotton shirt, dark vest, wool trousers, leather shoes'
+    position: Standing on platform beside regular passenger train
+    action: Waving goodbye while holding leather suitcase and checking pocket watch
+  scene:
+    mainElements: Steam train with large brass fittings, platform clock, vintage luggage, iron and glass architecture
+    details: Two trains occupy the platform - one a standard passenger locomotive releasing white steam, the other an experimental
+      high-speed vehicle with unusual streamlined design and scientific measuring devices. The platform clock shows 6:15.
+      Golden fog swirls around the iron support columns. Vintage luggage and travel trunks sit nearby. Gas lamps begin to
+      flicker on as evening approaches.
+    background: Victorian iron and glass train shed architecture, city buildings visible through fog, signal lights beginning
+      to glow
+    atmosphere: Industrial age transportation hub with steam and smoke, busy but orderly, tinged with melancholy of parting
+      and excitement of adventure, no text or letters visible
+  composition:
+    cameraAngle: Medium wide shot from platform level, showing both trains and brothers
+    focus: The contrast between the two vehicles and the identical brothers making different choices
+    depth: Foreground shows steam and fog, middle ground captures both brothers and trains, background reveals station architecture
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

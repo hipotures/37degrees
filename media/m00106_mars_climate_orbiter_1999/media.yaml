@@ -1,0 +1,12 @@
+media_info:
+  title: Mars Climate Orbiter Unit Conversion Disaster - 1999
+  year: 1999
+  genre: Space Technology Documentary
+  description: NASA loses $125 million Mars probe due to confusion between imperial and metric units
+  target_audience: General public, students, engineering enthusiasts, space technology buffs
+  duration: ~3 minutes
+  objective: Recreate the costly lesson about the importance of unit standardization in space missions
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

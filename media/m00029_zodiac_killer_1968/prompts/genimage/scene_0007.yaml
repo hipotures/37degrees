@@ -1,0 +1,109 @@
+sceneDescription:
+  setting:
+    time: October 11, 1969, 22:00
+    location: Upscale residential neighborhood intersection in San Francisco with steep hills and Victorian homes
+    weather: Cool October evening, clear
+  characters:
+  - appearance: 29-year-old Caucasian male, professional taxi driver, well-groomed, responsible appearance
+    clothing: Taxi company uniform or professional work attire, bloodstained
+    position: Slumped in driver's seat of taxi cab, shot in back of head
+    action: Killed by gunshot wound, victim of final confirmed Zodiac attack
+  - appearance: Shadowy male figure, face obscured, medium to large build, threatening presence
+    clothing: Dark clothing, features not clearly visible in darkness
+    position: Standing beside taxi cab having just completed murder
+    action: Tearing piece of bloodstained shirt from victim, wiping down cab interior
+  scene:
+    mainElements: Yellow taxi cab parked at residential intersection, murdered driver in front seat, killer taking evidence
+      from scene
+    details: 'Yellow Cab #912, typical 1960s sedan with bloodstained interior, driver seat stained, killer methodically wiping
+      down surfaces, torn piece of taxi driver''s shirt in killer''s hand, well-lit urban street intersection with stop sign'
+    background: Street intersection with stop sign, well-lit street, nearby Victorian houses, upscale Presidio Heights neighborhood,
+      urban San Francisco setting, some pedestrian traffic
+    atmosphere: Calculated urban violence, shift from rural attacks to city setting, methodical killer taking trophy evidence,
+      cool October night air, residential neighborhood violated by murder
+  composition:
+    cameraAngle: Medium shot showing taxi and killer's activities
+    focus: Murdered taxi driver and killer methodically collecting evidence
+    depth: Taxi cab and killer in foreground, residential intersection in middle ground, Victorian homes in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

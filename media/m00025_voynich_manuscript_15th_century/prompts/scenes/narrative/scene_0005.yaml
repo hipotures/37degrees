@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Rediscovery in the Hidden Jesuit Vault"
+  setting:
+    time: "1912, afternoon"
+    location: "Villa Mondragone, 16th-century papal villa near Rome, former Jesuit college"
+    weather: "Warm Italian spring day, Mediterranean sunlight"
+  characters:
+    - appearance: "Middle-aged man with dark beard, intellectual bearing, around 50 years old, penetrating eyes"
+      clothing: "Edwardian formal wear, dark three-piece suit with waistcoat, scholarly appearance, gold pocket watch"
+      position: "Kneeling beside dusty manuscript chest in library vault"
+      action: "Carefully lifting the Voynich manuscript from ancient storage, eyes widening with recognition of its uniqueness"
+  scene:
+    mainElements: "Renaissance architecture, high vaulted library chambers, rows of manuscript storage rooms with wooden shelves"
+    details: "Dusty wooden storage chests opened to reveal ancient manuscripts, the Voynich manuscript partially visible with its distinctive botanical illustrations, baroque shelving systems reaching toward vaulted ceilings, leather-bound volumes in various states of preservation, shafts of sunlight illuminating floating dust motes, ornate Italian architectural details, no text or letters visible"
+    background: "Musty ancient library smell, filtered golden sunlight through tall arched windows, scholarly silence broken only by turning pages"
+    atmosphere: "Electrical moment of discovery, sense that something extraordinary has been awakened from centuries of slumber, scholarly excitement mixed with reverence"
+  composition:
+    cameraAngle: "Medium shot from above showing the moment of discovery"
+    focus: "The manuscript being lifted from its long hiding place"
+    depth: "Foreground shows the opened chest and emerging manuscript, middle ground captures the dealer's amazed expression, background reveals the vast scope of the ancient library"

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Ancient Athens prepares for war against the Atlantean invasion"
+  setting:
+    time: "9600 BCE, dawn"
+    location: "Classical Greek city-state with acropolis, agora, and surrounding countryside"
+    weather: "Cool morning with mist rising from valleys"
+  characters:
+    - appearance: "Athenian general, tall man in his 40s, scarred from previous battles, stern expression"
+      clothing: "Bronze breastplate with geometric designs, red-plumed helmet, leather sword belt"
+      position: "Standing on elevated platform addressing troops"
+      action: "Pointing toward the sea while giving orders to assembled warriors"
+    - appearance: "Athenian hoplites, various ages, all in fighting condition"
+      clothing: "Bronze armor, round shields with owl emblems, long spears, leather sandals"
+      position: "Formed up in rectangular formation on training ground"
+      action: "Practicing spear formations and shield work in preparation for battle"
+    - appearance: "Athenian citizens, men and women of various ages"
+      clothing: "Simple chitons and cloaks, some carrying supplies"
+      position: "Moving through the agora and up toward the acropolis"
+      action: "Bringing food and weapons to the defenders, praying at altars"
+  scene:
+    mainElements: "Marble temples, stone walls, military training grounds, olive groves"
+    details: "Bronze weapons glinting in early sunlight. Shields stacked in organized rows. Olive oil being applied to leather armor. Sacred fires burning before marble altars. Stone walls being reinforced with additional blocks. Supply wagons loaded with arrows and provisions."
+    background: "Disciplined and martial, sounds of bronze armor and training, sense of noble purpose"
+    atmosphere: "Determined preparation for desperate defense, sense of righteous cause and unity against overwhelming odds"
+  composition:
+    cameraAngle: "Wide shot from acropolis showing the full military preparation"
+    focus: "The disciplined Athenian forces preparing for the legendary war"
+    depth: "Foreground: training hoplites with bronze armor, middle ground: general and command area, background: marble temples and city walls, no text or letters visible"

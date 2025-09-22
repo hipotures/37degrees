@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: 2500 BCE, daylight hours for stone selection and preparation
+    location: Rolling chalk downland with scattered sarsen boulders, West Woods area near Marlborough, Wiltshire, England
+    weather: Typical English woodland conditions, dappled sunlight through canopy
+  characters:
+  - appearance: Middle-aged man, weathered face from outdoor work, calloused hands, keen observational eyes, lean build from
+      physical labor
+    clothing: Leather tunic with bone fastenings, woolen cloak for cold mornings, leather boots, bronze tools hanging from
+      hide belt
+    position: Standing with confident posture, frequently gesturing toward horizon or stones
+    action: Directing construction work with purposeful hand movements, studying celestial positions, making careful calculations
+  scene:
+    mainElements: Massive sandstone blocks scattered across landscape, selection and dressing areas cleared of vegetation,
+      timber trackways, rope anchors carved in surviving stones
+    details: Sarsen stones varying from 25-40 tons, natural weathering creating distinctive shapes, evidence of careful selection,
+      timber scaffolding and working platforms. Workers examining stone quality and shape, measuring potential blocks, testing
+      for flaws. Stone-dressing operations using antler picks and stone hammers, creating flat surfaces and joints. Three
+      massive sarsen stones forming doorway - two uprights 24 feet high supporting 15-ton lintel, mortise-and-tenon joints,
+      carefully dressed surfaces, tongue-and-groove connections between lintels, weathering patterns from millennia of exposure
+    background: Dense ancient beech and oak forest, clearings created for stone work, chalk downs visible through tree gaps
+    atmosphere: Ancient woodland with filtered sunlight, sounds of wood-splitting and stone-dressing, sawdust and stone dust
+      in air, bird calls from canopy
+  composition:
+    cameraAngle: Ground-level view showing scale comparison between workers and massive stones
+    focus: Moment of critical evaluation of stone suitability for trilithon construction
+    depth: Foreground shows detailed stone examination and tools, middle ground reveals selected stones being prepared, background
+      shows forest clearing operations, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

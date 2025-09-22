@@ -1,0 +1,12 @@
+media_info:
+  title: Olbers' Paradox Solution - 1826
+  year: 1826
+  genre: Astronomy Documentary
+  description: Dark night sky proves universe had beginning and is expanding, supporting Big Bang theory
+  target_audience: General public, students, astronomy enthusiasts, cosmology researchers
+  duration: ~3 minutes
+  objective: Recreate the seemingly simple question about dark skies that revealed cosmic truths
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

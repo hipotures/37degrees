@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Technical Investigation of Failed Turbine Bolts"
+  setting:
+    time: "January 2009, days after incident"
+    location: "Enercon technical facility or on-site investigation area, Conisholme"
+    weather: "Indoor laboratory conditions or controlled outdoor investigation area"
+  characters:
+    - appearance: "Insurance industry executive, professional demeanor, technical expertise evident"
+      clothing: "Business suit, confident professional appearance"
+      position: "Examining failed turbine components on investigation table"
+      action: "Analyzing bolt failure patterns, taking detailed measurements, making technical assessments"
+  scene:
+    mainElements: "High-strength steel bolts connecting blade to hub, showing stress failure patterns, no evidence of external impact"
+    details: "Investigation table with failed turbine components, magnifying equipment for detailed examination, technical measuring tools, bolt samples showing specific failure characteristics, documentation materials spread across work surface"
+    background: "Technical investigation facility, charts and diagrams on walls, other turbine components for comparison, professional lighting for detailed examination"
+    atmosphere: "Methodical technical investigation, scientific approach to determining failure cause, professional expertise applied to unprecedented incident"
+  composition:
+    cameraAngle: "Close-up shot of technical investigation"
+    focus: "Failed bolts and technical analysis being conducted"
+    depth: "Foreground failed bolt components, middle ground character FM examining evidence, background technical facility and documentation, no text or letters visible"

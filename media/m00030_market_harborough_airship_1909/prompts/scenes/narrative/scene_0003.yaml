@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Documented Sighting - Peterborough"
+  setting:
+    time: "March 23, 1909, night"
+    location: "Peterborough, Cambridgeshire, cathedral city"
+    weather: "Clear night with good visibility"
+  characters:
+    - appearance: "Middle-aged uniformed police constable, sturdy build, clean-shaven face typical of Edwardian policemen, approximately 40 years old"
+      clothing: "Dark blue police uniform with silver buttons, police helmet, heavy wool cape for night patrol"
+      position: "Standing alert on street patrol"
+      action: "Observing sky with professional attention, taking mental notes for official report"
+  scene:
+    mainElements: "Norman cathedral dominating skyline, railway yards, Victorian terraced housing, gas-lit streets"
+    details: "Police constable standing under gas street lamp on cobblestone street, looking upward with amazement. Mysterious dark oblong shape visible against starlit sky with bright light attached, moving at speed. Victorian terraced houses with lit windows creating warm yellow glow. Steam from nearby railway yard. Police whistle hanging from uniform. Pocket notebook visible in hand for official documentation, no text or letters visible"
+    background: "Urban environment with some industrial smoke, gas-lit streets creating pools of yellow light, night police patrol routes"
+    atmosphere: "Professional police duty interrupted by extraordinary aerial phenomenon. Sense of official responsibility mixed with wonder at unexplained sighting"
+  composition:
+    cameraAngle: "Low angle looking up at both constable and mysterious object"
+    focus: "Police constable witnessing and documenting first official airship sighting"
+    depth: "Foreground: Constable under street lamp, middle ground: Victorian street scene, background: Cathedral spire and mysterious aerial object"

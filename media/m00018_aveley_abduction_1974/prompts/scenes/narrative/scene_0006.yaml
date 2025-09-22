@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Missing Time - Alien Examination Room"
+  setting:
+    time: "October 27, 1974, during missing time period (22:18-01:00)"
+    location: "Large room with curved walls inside alleged extraterrestrial craft"
+    weather: "Controlled artificial environment within spacecraft interior"
+  characters:
+    - appearance: "32-year-old man, average build, dark hair, serious expression, concerned father"
+      clothing: "1970s casual attire - dark sweater or jacket, trousers, practical footwear"
+      position: "Lying on examination table in spacecraft"
+      action: "Undergoing medical examination while conscious but unable to move or resist"
+    - appearance: "Tall humanoid figures, peaceful demeanor, distinctive pink eyes, smooth features"
+      clothing: "One-piece colorless suits resembling surgical garments with hoods"
+      position: "Standing around examination table"
+      action: "Conducting medical examination using advanced scanning equipment, communicating through gestures"
+    - appearance: "Small stature figure, fur-like covering, large prominent eyes, distinctive mouth"
+      clothing: "No clothing, natural fur covering body"
+      position: "Near examination area in observational role"
+      action: "Making chirping sounds while observing the medical examination procedure"
+  scene:
+    mainElements: "Large room with curved walls inside alleged extraterrestrial craft, examination tables with advanced scanning technology, curved architecture with bright controlled lighting"
+    details: "Bar-like scanning instruments, advanced technology beyond 1970s human capability running over patient's body, clinical environment with peaceful but alien technological sounds, advanced star map or celestial reference system mentioning Mars moon Phobos visible on walls"
+    background: "Curved spacecraft interior walls, advanced technological surfaces, controlled artificial lighting creating clinical but otherworldly environment"
+    atmosphere: "Clinical environment, peaceful but alien, technological ambiance with controlled illumination, sense of advanced civilization, mixture of medical procedure and otherworldly experience, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing curved examination room with beings conducting medical procedure"
+    focus: "Medical examination taking place with alien beings using advanced technology"
+    depth: "Foreground shows examination table and patient, middle ground shows alien beings with instruments, background shows curved spacecraft interior walls"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Atlantis at its peak - advanced civilization and maritime power"
+  setting:
+    time: "9600 BCE, late afternoon"
+    location: "Central temple covered in gold and silver, royal palace, harbors filled with triremes"
+    weather: "Perfect temperate day with gentle trade winds"
+  characters:
+    - appearance: "Tall, bronze-skinned man in royal attire, athletic build, commanding presence"
+      clothing: "Flowing robes decorated with gold thread, crown with precious stones, sandals with silver buckles"
+      position: "Standing on palace balcony overlooking the harbor"
+      action: "Surveying the vast fleet and pointing toward distant horizons"
+    - appearance: "Various citizens in flowing robes and tunics, different ages and builds"
+      clothing: "Fine fabrics in vibrant colors, jewelry indicating prosperity, practical work clothes for laborers"
+      position: "Moving through markets, harbors, and temple courtyards"
+      action: "Trading exotic goods, loading ships, performing religious ceremonies"
+  scene:
+    mainElements: "Central temple covered in gold and silver, royal palace, harbors filled with triremes"
+    details: "Hundreds of bronze-ramming warships lined up in perfect formation. Merchants unloading ivory, spices, and precious metals. Temple walls gleaming with gold and silver plates. Advanced engineering visible in aqueducts and fountains. Flags and banners streaming in the wind. Markets overflowing with goods from distant lands."
+    background: "Prosperous and bustling, fountains of hot and cold water, sounds of maritime commerce"
+    atmosphere: "Height of power and prosperity, sense of naval supremacy and cultural sophistication"
+  composition:
+    cameraAngle: "Wide establishing shot from palace height showing the full scope of the civilization"
+    focus: "The magnificent harbor filled with warships and the golden temple complex"
+    depth: "Foreground: palace balcony with royal figure, middle ground: bustling harbors and markets, background: temple complex and outer sea, no text or letters visible"

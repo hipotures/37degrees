@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: August 1859, morning
+    location: Griffin Bay landing site, southern San Juan Island
+    weather: Clear summer morning with calm waters
+  characters:
+  - appearance: American man, 34, dark mustache, slender military bearing, intense eyes
+    clothing: US Army blue uniform with captain's bars, peaked military cap, black leather belt with sword
+    position: Standing on beach directing troop landing
+    action: Military precision, directing soldiers disembarking from boats with authority
+  scene:
+    mainElements: US Army soldiers landing from military boats, establishing beachhead on island shore
+    details: Military landing boats pulled up on rocky beach, 66 US Infantry soldiers in blue uniforms disembarking with rifles
+      and equipment, officers shouting orders, supplies being unloaded including artillery pieces, American flag being raised
+      on temporary pole
+    background: High windswept meadow on southern end of San Juan Island overlooking Griffin Bay, forested hills beyond landing
+      area
+    atmosphere: Military escalation of civilian dispute, American determination to assert territorial claims, transformation
+      of peaceful island into potential battlefield, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing military landing operation
+    focus: American military force establishing presence on disputed territory
+    depth: Landing boats and soldiers on beach in foreground, island terrain in middle ground, surrounding waters in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

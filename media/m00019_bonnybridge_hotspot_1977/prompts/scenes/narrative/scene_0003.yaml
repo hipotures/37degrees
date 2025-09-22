@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Character MR in office setting preparing investigation equipment"
+  setting:
+    time: "1992 early period, daytime office hours"
+    location: "UFO investigation office, Scotland, research facility setup"
+    weather: "Indoor setting, natural daylight through windows"
+  characters:
+    - appearance: "Middle-aged Scottish man, gray hair, serious researcher demeanor, analytical eyes reflecting 45 years of investigation experience"
+      clothing: "Casual brown field jacket, practical research attire, often carries professional investigation equipment and notebooks"
+      position: "Seated at research desk, organizing investigation equipment and documentation"
+      action: "Methodically preparing professional UFO investigation equipment, reviewing case files and documentation from decades of research"
+  scene:
+    mainElements: "Research office with investigation equipment, cameras, recording devices, measurement tools, extensive case files organized on shelves, desk with documentation spread across surface, professional research environment"
+    details: "Professional UFO research equipment including cameras and recording devices neatly arranged, measurement tools calibrated for field work, extensive case files organized chronologically spanning 45 years, notebooks with detailed investigation notes, desk lamp illuminating paperwork, shelves containing research materials, methodical organization reflecting serious scientific approach, no text or letters visible"
+    background: "Office walls with shelves containing investigation files, window showing Scottish countryside, professional research environment"
+    atmosphere: "Serious scientific approach to unexplained phenomena, decades of methodical investigation experience, preparation for documenting extraordinary claims with professional credibility"
+  composition:
+    cameraAngle: "Medium shot showing researcher and equipment setup"
+    focus: "Character MR organizing investigation equipment, emphasizing professional scientific approach"
+    depth: "Foreground shows investigation equipment, middle ground shows researcher at work, background shows office environment and case files"

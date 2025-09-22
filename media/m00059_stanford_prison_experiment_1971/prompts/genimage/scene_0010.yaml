@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: August 20, 1971, afternoon
+    location: Stanford University psychology department conference room, Jordan Hall, California
+    weather: Interior conference room with natural afternoon lighting
+  characters:
+  - appearance: Caucasian man, late 30s, beard, dark hair, intense gaze, intellectual appearance
+    clothing: 1970s casual academic attire, button-down shirt, dark slacks, sometimes white lab coat
+    position: Sitting at head of conference table facing participants
+    action: Authoritative, often standing with clipboard or observing, commanding presence
+  - appearance: Caucasian man, early 20s, tall, athletic build, stern expression
+    clothing: Casual civilian clothes, no longer in uniform, looking uncertain
+    position: Sitting at conference table with other former guards
+    action: Looking uncomfortable and reflective, no longer displaying authoritative bearing
+  - appearance: Caucasian man, early 20s, thin build, distressed expression, tears visible
+    clothing: Casual civilian clothes, no longer in prison uniform, appearing relieved
+    position: Sitting at conference table with other former prisoners
+    action: Showing relief but still processing emotional impact, more relaxed posture than in prison
+  - appearance: Caucasian man, early 20s, medium build, defiant expression, growing desperation
+    clothing: Casual civilian clothes, no longer in prison uniform, looking thoughtful
+    position: Sitting at conference table among former prisoners
+    action: Reflecting on experience, no longer defensive, engaged in discussion
+  scene:
+    mainElements: Circular conference table with all experiment participants in civilian clothes discussing psychological
+      impact and insights from role-playing experience in normal academic setting
+    details: Conference room with comfortable chairs around large table, research notes and debriefing materials spread across
+      surface, former guards and prisoners sitting together as equals, natural afternoon sunlight through windows, coffee
+      cups and water glasses, psychological assessment forms, participant feedback documents, academic environment restored
+      to normal
+    background: Professional conference room with academic furnishings, bookshelves with psychology texts, whiteboards, institutional
+      but comfortable university environment, windows overlooking campus
+    atmosphere: Reflective academic discussion about psychological insights gained, natural lighting creating calm debriefing
+      environment, transformation from oppressive experiment to scholarly analysis and human understanding
+  composition:
+    cameraAngle: Wide shot of conference table showing all participants in discussion
+    focus: Group debriefing session with researcher and all participants analyzing psychological impact together
+    depth: Foreground shows conference table with debriefing materials, middle ground focuses on participants engaged in reflective
+      discussion, background reveals normal academic conference room environment, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

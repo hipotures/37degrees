@@ -1,0 +1,65 @@
+canon:
+  characters:
+    - id: "character_AE"
+      name: "Character AE"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 26 years old, dark curly hair, intense brown eyes, prominent mustache"
+            clothing: "1905 dark wool suit with vest, white dress shirt, black bow tie, pocket watch chain"
+            posture: "Thoughtful, often with hand on chin or writing on chalkboard, energetic gestures when explaining"
+    - id: "character_T1"
+      name: "Character T1"
+      description_block: |
+        characters:
+          - appearance: "Young man, 25 years old, athletic build, short brown hair, clean-shaven, determined expression"
+            clothing: "Early 20th century traveler's outfit: brown leather jacket, wool pants, sturdy boots, aviator goggles"
+            posture: "Confident stance, often looking toward horizon or checking pocket watch"
+    - id: "character_T2"
+      name: "Character T2"
+      description_block: |
+        characters:
+          - appearance: "Young man, 25 years old, identical to character_T1, athletic build, short brown hair, clean-shaven"
+            clothing: "Early 20th century casual wear: white cotton shirt, dark vest, wool trousers, leather shoes"
+            posture: "Relaxed, stationary poses, often reading or working at desk"
+  locations:
+    - id: "university_physics_lab"
+      name: "University Physics Laboratory 1905"
+      description_block: |
+        setting:
+          location: "Bern Patent Office physics laboratory, Switzerland, early 20th century"
+        mainElements: "Large wooden desk with papers and calculations, blackboard with mathematical equations, mechanical clocks on shelves"
+        atmosphere: "Scholarly, focused environment with warm gaslight illumination"
+    - id: "train_station_platform"
+      name: "European Train Station Platform"
+      description_block: |
+        setting:
+          location: "Victorian-era train station platform with steam locomotives, European city"
+        mainElements: "Steam train with large brass fittings, platform clock, vintage luggage, iron and glass architecture"
+        atmosphere: "Industrial age transportation hub with steam and smoke, busy but orderly"
+    - id: "cosmic_space_view"
+      name: "Cosmic Space Perspective"
+      description_block: |
+        setting:
+          location: "Deep space view showing Earth and distant spacecraft trajectory"
+        mainElements: "Blue Earth visible as sphere, stars scattered across black space, silvery spacecraft trail"
+        atmosphere: "Vast, silent cosmic perspective with brilliant starlight and deep space darkness"
+    - id: "countryside_home"
+      name: "Early 1900s Countryside Home"
+      description_block: |
+        setting:
+          location: "Rural European cottage with garden, early 20th century"
+        mainElements: "Stone cottage with wooden shutters, flower garden, picket fence, large oak tree"
+        atmosphere: "Peaceful domestic setting with natural lighting and seasonal changes"
+  items:
+    - id: "mechanical_clock"
+      name: "Precision Mechanical Clock"
+      description_block: |
+        details: "Large brass pendulum clock with Roman numerals, visible gears and mechanisms, precise second hand"
+    - id: "physics_equations"
+      name: "Relativity Equations on Blackboard"
+      description_block: |
+        details: "Mathematical formulas in white chalk on dark slate, including E=mc² and time dilation equations, no text or letters visible"
+    - id: "high_speed_vehicle"
+      name: "Conceptual High-Speed Vehicle"
+      description_block: |
+        details: "Streamlined early 20th century experimental vehicle with brass fittings, steam-powered elements, and scientific instruments"

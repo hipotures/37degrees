@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Police Investigation Headquarters"
+  setting:
+    time: "August 1969, afternoon"
+    location: "Police department headquarters, San Francisco Bay Area"
+    weather: "Clear summer day"
+  characters:
+    - appearance: "Middle-aged Caucasian male detective, professional appearance, distinctive 1970s style"
+      clothing: "Police department suits, shoulder holster, professional law enforcement attire"
+      position: "Standing before evidence board covered with crime scene photos and maps"
+      action: "Pointing to connections between Lake Herman Road and Blue Rock Springs attacks"
+    - appearance: "Several plainclothes detectives and uniformed officers, various ages"
+      clothing: "Mix of suits and police uniforms appropriate for late 1960s law enforcement"
+      position: "Seated around conference table and standing near evidence displays"
+      action: "Studying crime scene evidence, maps, and witness statements with intense concentration"
+  scene:
+    mainElements: "Large evidence board with crime scene photographs, maps of attack locations, witness sketches, conference table with case files scattered across surface"
+    details: "Cork board covered with pinned photographs, maps marked with red pins showing attack sites, stacks of reports and witness statements, coffee cups and ashtrays indicating long investigation sessions, fluorescent office lighting"
+    background: "Institutional police department interior, filing cabinets, American flag, large windows showing city beyond, additional desks with ongoing investigations"
+    atmosphere: "Intense concentration and growing concern, professional determination mixed with frustration, sense of urgency as pattern emerges"
+  composition:
+    cameraAngle: "Wide shot showing full scope of investigation room"
+    focus: "Lead detective at evidence board with team of investigators studying materials"
+    depth: "Evidence board in foreground, investigators in middle ground, police headquarters interior in background"

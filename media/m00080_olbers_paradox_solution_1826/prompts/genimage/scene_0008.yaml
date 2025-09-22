@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1826, afternoon
+    location: University lecture hall with tiered wooden seating, Göttingen or Bremen, 1826
+    weather: Overcast afternoon indoors
+  characters:
+  - appearance: German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom
+    clothing: 1820s formal black academic dress coat with high collar
+    position: Standing at wooden podium before seated colleagues
+    action: Presenting cosmic paradox to assembly of scientists and astronomers, gesturing toward diagrams
+  scene:
+    mainElements: Wooden podium with speaker addressing seated academic audience, blackboard with astronomical diagrams, formal
+      university setting
+    details: Tiered wooden benches filled with men in academic dress, wooden podium with brass fittings, large slate blackboard
+      showing stellar distribution diagrams, oil lamps providing indoor lighting, Hand-drawn star maps on parchment showing
+      constellation patterns displayed on easel, formal academic atmosphere with attentive scholars
+    background: Classical university architecture with tall windows, portraits of distinguished academics, wooden wainscoting
+      and formal academic furnishings
+    atmosphere: Scholarly presentation of groundbreaking discovery, intellectual excitement among academic colleagues, formal
+      scientific discourse about fundamental cosmic questions, no text or letters visible
+  composition:
+    cameraAngle: Wide shot from back of lecture hall
+    focus: character_HO presenting at podium with audience of academics
+    depth: Foreground shows seated audience in tiered benches, middle ground centers on speaker at podium, background reveals
+      university architecture and blackboard
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

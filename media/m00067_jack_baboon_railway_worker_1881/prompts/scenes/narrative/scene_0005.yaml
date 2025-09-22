@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Daily Commute - the baboon Pushes Character JW to Work"
+  setting:
+    time: "1883, early morning"
+    location: "Dirt road between cottage and Uitenhage railway station"
+    weather: "Cool morning with golden sunrise"
+  characters:
+    - appearance: "White male, 40s, sturdy build, determined expression, double leg amputee below the knee"
+      clothing: "1880s railway uniform - dark blue wool jacket with brass buttons, white shirt, black tie, dark trousers"
+      position: "Seated comfortably in wooden trolley, holding work materials"
+      action: "Carrying signal charts and work tools while enjoying comfortable ride to station"
+    - appearance: "Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build"
+      clothing: "Miniature railway signalman uniform - dark blue cap, small brass buttons on vest"
+      position: "Behind trolley, gripping rope handle with both hands"
+      action: "Steadily pushing trolley along dirt road with practiced ease and obvious pride in his work"
+  scene:
+    mainElements: "Small wooden cart with four wheels moving along well-worn dirt path, early morning landscape with golden light"
+    details: "Railway work tools in trolley including signal charts and brass equipment, dust clouds from wheels, morning shadows from acacia trees, birds in flight, small wildlife along roadside"
+    background: "Rolling South African countryside, Uitenhage railway station visible in distance with smoke from early trains, colonial cottage behind them, morning mist in valleys"
+    atmosphere: "Peaceful daily routine showing established partnership, warm morning light, sense of purposeful journey to important work, harmonious relationship between man and baboon"
+  composition:
+    cameraAngle: "Side tracking shot following their movement"
+    focus: "the baboon confidently pushing character JW toward their daily railway duties"
+    depth: "Foreground: trolley and characters in motion, middle ground: countryside path and vegetation, background: railway station destination, no text or letters visible"

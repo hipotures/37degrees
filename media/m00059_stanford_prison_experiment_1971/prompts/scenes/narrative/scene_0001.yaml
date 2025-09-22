@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Psychology Professor Prepares Revolutionary Prison Study"
+  setting:
+    time: "August 1971, morning"
+    location: "Stanford University psychology department office, Jordan Hall, California"
+    weather: "Clear summer day with bright sunlight streaming through windows"
+  characters:
+    - appearance: "Caucasian man, late 30s, beard, dark hair, intense gaze, intellectual appearance"
+      clothing: "1970s casual academic attire, button-down shirt, dark slacks, sometimes white lab coat"
+      position: "Standing behind desk reviewing research materials and documents"
+      action: "Examining psychological assessment forms and study protocols while preparing for groundbreaking experiment"
+  scene:
+    mainElements: "Academic office with wooden desk covered in research papers, psychological assessment forms, study protocols, and experimental design documents spread across surface"
+    details: "Thick psychology textbooks stacked on shelves, filing cabinets containing research materials, desk lamp illuminating paperwork, coffee cup, pencils and pens scattered among documents, university letterhead visible on some papers, experimental consent forms organized in neat piles"
+    background: "Institutional office walls with academic diplomas and certificates, bookshelf filled with psychology volumes, window overlooking Stanford campus courtyard, fluorescent ceiling lights"
+    atmosphere: "Scholarly academic environment with focused intellectual preparation, morning sunlight creating systematic shadows across organized research materials, sense of methodical scientific planning"
+  composition:
+    cameraAngle: "Medium shot from across desk showing character and research materials"
+    focus: "Character reviewing experimental protocols with intense concentration and scientific papers spread before him"
+    depth: "Foreground shows detailed paperwork and assessment forms, middle ground focuses on character at desk, background reveals academic office setting with diplomas and books, no text or letters visible"

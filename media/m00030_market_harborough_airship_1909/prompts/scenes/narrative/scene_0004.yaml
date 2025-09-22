@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Journey to Kelmarsh Village"
+  setting:
+    time: "May 5, 1909, early evening"
+    location: "Kelmarsh village road, Northamptonshire countryside"
+    weather: "Clear spring evening, mild temperature"
+  characters:
+    - appearance: "Well-dressed gentleman, approximately 30-40 years old, clean-shaven with side-parted hair"
+      clothing: "Edwardian driving coat, wool cap, leather gloves, suitable for motor car travel in 1909"
+      position: "Seated in early motor car with companions"
+      action: "Looking upward with surprise and concern, pointing toward sky"
+  scene:
+    mainElements: "Stone cottages, Norman church silhouette, narrow country lanes, early motor car on dirt road"
+    details: "Early 1909 motor car with open top, brass fittings, large spoked wheels on rural dirt road. Two additional passengers visible in vehicle. Stone cottages with thatched roofs along roadside. Norman church spire visible in distance. Oil lamps beginning to flicker in cottage windows as daylight fades. Hedgerows lining narrow country lane. Sound of early motor engine putting steadily through quiet countryside, no text or letters visible"
+    background: "Dark countryside night with no electric lighting, sounds of night wildlife, clear starlit sky, remote and peaceful"
+    atmosphere: "Peaceful motor car journey through English countryside about to be interrupted by extraordinary aerial encounter. Sense of modern technology (motor car) meeting mysterious unknown"
+  composition:
+    cameraAngle: "Medium shot showing motor car and passengers on country road"
+    focus: "Edwardian motor car journey through countryside"
+    depth: "Foreground: Motor car with passengers, middle ground: Country road and cottages, background: Church spire and darkening sky"

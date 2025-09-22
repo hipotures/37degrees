@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Emus Scatter and Evade Machine Gun Fire"
+  setting:
+    time: "November 2, 1932, mid-morning"
+    location: "Wheat fields near Campion during first engagement"
+    weather: "Clear hot morning with dust clouds from running birds"
+  characters:
+    - appearance: "Caucasian man, 30s, sturdy build, alert expression, clean-shaven face"
+      clothing: "Australian military sergeant uniform 1930s, khaki tunic and trousers, military cap, leather belt with ammunition pouches"
+      position: "Standing frustrated beside jammed machine gun"
+      action: "Attempting to clear weapon malfunction while watching emus escape"
+    - appearance: "Caucasian man, 20s, lean build, young face with determined expression"
+      clothing: "Australian military gunner uniform 1930s, khaki field uniform, military cap, canvas web gear"
+      position: "Kneeling beside machine gun with tools"
+      action: "Working frantically to repair the jammed Lewis gun mechanism"
+  scene:
+    mainElements: "Large flightless Australian birds, 6 feet tall, brown and gray feathers, long necks, powerful legs, moving in scattered groups across wheat fields scattering in all directions away from the machine gun position at high speed"
+    details: "Emus running in unpredictable zigzag patterns, splitting into small groups of 3-5 birds each, making them impossible to target effectively. Some birds leaping over wheat stalks, others weaving between fence posts. Dust clouds kicked up by powerful bird legs. A few wounded birds visible but most completely unharmed and moving rapidly away. British Lewis light machine gun, distinctive circular ammunition pan on top, bipod legs, wooden stock with visible mechanical jam. Empty ammunition belt scattered on ground. Wheat stalks broken and flattened from bird movement"
+    background: "Vast wheat fields with multiple escape routes visible, distant tree lines where emus are heading for cover, red earth and scattered farm equipment"
+    atmosphere: "Military frustration and tactical failure, the superior mobility and adaptability of wildlife against conventional weapons, emerging realization of the campaign's futility, no text or letters visible"
+  composition:
+    cameraAngle: "Dynamic wide shot capturing the chaos of scattered bird movement"
+    focus: "The contrast between military equipment failure and natural animal success"
+    depth: "Foreground shows frustrated soldiers with malfunctioning weapon, middle ground captures emus in various stages of escape, background reveals the vast terrain offering multiple escape routes"

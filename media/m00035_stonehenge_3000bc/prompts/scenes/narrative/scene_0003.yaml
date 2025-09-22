@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Creation of Sacred Aubrey Holes Circle"
+  setting:
+    time: "3000 BCE, clear conditions for precise surveying and alignment work"
+    location: "Ring of 56 precisely-spaced holes around monument's inner bank, Stonehenge, Wiltshire, England"
+    weather: "Clear conditions for precise surveying and alignment work"
+  characters:
+    - appearance: "Elderly with white beard, deep-set eyes from night observations, slight build, ceremonial bearing"
+      clothing: "Finest woven robes with astronomical symbols, amber beads indicating high status, feathered headdress for ceremonies"
+      position: "Standing at observation points, often with arms raised toward sky"
+      action: "Pointing toward celestial phenomena, marking positions with carved sticks, maintaining solemn reverence during observations"
+  scene:
+    mainElements: "Circular pits originally holding wooden posts, cremation deposits, astronomical markers, mathematical precision in spacing"
+    details: "Chalk-cut holes 3 feet deep, evidence of wooden post settings, cremated bone deposits, marker stones for alignments. Workers using antler picks to dig precise holes, measurement ropes ensuring exact spacing, wooden posts being erected in completed holes. Sacred cremation ceremonies taking place, bone fragments being carefully placed, ritual offerings accompanying burials"
+    background: "Original earthwork bank and ditch, open downland before stone construction, clear horizon views for astronomical observations"
+    atmosphere: "Earliest sacred space with connection to ancestral traditions, mathematical precision evident in layout, sense of foundation for greater works to come. Reverent silence during ceremonial activities, smoke from cremation fires, sense of cosmic alignment"
+  composition:
+    cameraAngle: "Ground-level view emphasizing precision of hole placement and ritual activity"
+    focus: "Individual Aubrey hole being completed with wooden post installation"
+    depth: "Foreground shows detailed hole construction and ceremonial deposits, middle ground reveals pattern of completed holes, background shows earthwork perimeter and open plain, no text or letters visible"

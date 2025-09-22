@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Selecting Massive Sarsen Stones in Marlborough"
+  setting:
+    time: "2500 BCE, daylight hours for stone selection and preparation"
+    location: "Rolling chalk downland with scattered sarsen boulders, West Woods area near Marlborough, Wiltshire, England"
+    weather: "Typical English woodland conditions, dappled sunlight through canopy"
+  characters:
+    - appearance: "Middle-aged man, weathered face from outdoor work, calloused hands, keen observational eyes, lean build from physical labor"
+      clothing: "Leather tunic with bone fastenings, woolen cloak for cold mornings, leather boots, bronze tools hanging from hide belt"
+      position: "Standing with confident posture, frequently gesturing toward horizon or stones"
+      action: "Directing construction work with purposeful hand movements, studying celestial positions, making careful calculations"
+  scene:
+    mainElements: "Massive sandstone blocks scattered across landscape, selection and dressing areas cleared of vegetation, timber trackways, rope anchors carved in surviving stones"
+    details: "Sarsen stones varying from 25-40 tons, natural weathering creating distinctive shapes, evidence of careful selection, timber scaffolding and working platforms. Workers examining stone quality and shape, measuring potential blocks, testing for flaws. Stone-dressing operations using antler picks and stone hammers, creating flat surfaces and joints. Three massive sarsen stones forming doorway - two uprights 24 feet high supporting 15-ton lintel, mortise-and-tenon joints, carefully dressed surfaces, tongue-and-groove connections between lintels, weathering patterns from millennia of exposure"
+    background: "Dense ancient beech and oak forest, clearings created for stone work, chalk downs visible through tree gaps"
+    atmosphere: "Ancient woodland with filtered sunlight, sounds of wood-splitting and stone-dressing, sawdust and stone dust in air, bird calls from canopy"
+  composition:
+    cameraAngle: "Ground-level view showing scale comparison between workers and massive stones"
+    focus: "Moment of critical evaluation of stone suitability for trilithon construction"
+    depth: "Foreground shows detailed stone examination and tools, middle ground reveals selected stones being prepared, background shows forest clearing operations, no text or letters visible"

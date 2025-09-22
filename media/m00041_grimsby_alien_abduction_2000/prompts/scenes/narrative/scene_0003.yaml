@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Grimsby Residential Street Day"
+  setting:
+    time: "March 2000, clear daylight hours"
+    location: "Grimsby, North East Lincolnshire, residential street area"
+    weather: "Clear blue sky, good visibility conditions"
+  characters:
+    - appearance: "Middle-aged man, stocky build, weathered hands, working-class appearance"
+      clothing: "Casual work clothes, rolled-up sleeves, car-washing attire"
+      position: "Standing beside car with water bucket and cloth"
+      action: "Washing car while observing unusual object in clear sky"
+    - appearance: "Young girl, approximately 8-10 years old, curious expression, long hair"
+      clothing: "Casual children's clothing from 2000 era, colorful t-shirt and trousers"
+      position: "Standing near uncle, pointing toward sky"
+      action: "Observing white object alongside adult witness"
+  scene:
+    mainElements: "Suburban houses, driveways, parked cars, residential street layout"
+    details: "Man washing red car in driveway, water bucket and soap suds, young girl pointing upward, typical British suburban houses with front gardens, parked vehicles along street, clear blue sky above"
+    background: "Town center in distance, industrial port areas, coastal town characteristics"
+    atmosphere: "Normal daily activity, clear viewing conditions for sky observation, typical weekend morning routine, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot from street level"
+    focus: "Man and child at car with clear sky above"
+    depth: "Foreground: car washing activity, middle: residential houses, background: town skyline and port areas"

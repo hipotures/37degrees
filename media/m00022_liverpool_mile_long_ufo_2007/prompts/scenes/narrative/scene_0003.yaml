@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Government UFO Office - Official Investigation Context"
+  setting:
+    time: "2007, daytime office hours"
+    location: "Ministry of Defence UFO desk, Whitehall, London, England"
+    weather: "Overcast London day, typical government building interior"
+  characters:
+    - appearance: "Middle-aged British official, authoritative presence, professional demeanor, experienced investigator"
+      clothing: "Government official suit and tie, formal business attire, identification badge"
+      position: "Seated at desk reviewing case files, surrounded by filing cabinets"
+      action: "Examining UFO reports and witness statements, marking locations on wall map of UK"
+  scene:
+    mainElements: "Professional government office environment, large wall map of United Kingdom with colored pins marking UFO hotspots, multiple filing cabinets labeled with years and case numbers"
+    details: "Desk covered with typed reports and witness statements, telephone for receiving calls, official letterhead documents, folders marked with location names including Liverpool, Manchester, Warminster, London, and Bonnybridge, bulletin board with photographs and charts, fluorescent office lighting, official government building interior, filing system with hundreds of UFO case files"
+    background: "Windows showing London government district, additional desks with other civil servants, corridor visible through open door"
+    atmosphere: "Serious professional investigation environment, sense of ongoing official monitoring of unexplained phenomena, bureaucratic efficiency and documentation, no text or letters visible"
+  composition:
+    cameraAngle: "Over-the-shoulder view from behind investigator looking at desk and wall map"
+    focus: "The wall map with UFO hotspot pins and the case files spread across desk"
+    depth: "Foreground shows desk with documents, middle ground shows investigator and immediate workspace, background shows office environment and London view"

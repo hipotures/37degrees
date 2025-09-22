@@ -1,0 +1,12 @@
+media_info:
+  title: Tuskegee Syphilis Study Exposure - 1972
+  year: 1972
+  genre: Medical Ethics Documentary
+  description: 40-year unethical medical experiment on Black men with untreated syphilis finally revealed
+  target_audience: General public, students, medical ethics researchers, civil rights advocates
+  duration: ~3 minutes
+  objective: Recreate the shocking exposure of America's longest-running unethical medical experiment
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

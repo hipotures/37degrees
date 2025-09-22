@@ -1,0 +1,107 @@
+sceneDescription:
+  setting:
+    time: 1990s, afternoon
+    location: University cryptography research laboratory
+    weather: Overcast day with natural light filtering through windows
+  characters:
+  - appearance: 40s Asian-American woman, precise movements, intense focus
+    clothing: Professional academic attire, always carries recording equipment
+    position: Standing before whiteboard covered with mathematical equations and cipher analysis
+    action: Examining decoded message fragments while holding recording equipment and taking detailed notes
+  scene:
+    mainElements: Small notepad with random number sequences, approximately 4x6 inches, pages designed to be torn off after
+      single use, waterproof ink
+    details: Whiteboard filled with cryptographic formulas and frequency analysis charts, computer displaying waveform patterns,
+      stacks of academic papers, recording equipment for capturing audio samples, mathematical reference books open to encryption
+      chapters, calculator showing statistical probabilities
+    background: University laboratory setting with fluorescent lighting, computer workstations, shelves of technical manuals,
+      academic certificates on walls
+    atmosphere: Bright analytical environment focused on mathematical precision and scientific methodology, no text or letters
+      visible
+  composition:
+    cameraAngle: Medium shot from laboratory entrance
+    focus: Cryptographer analyzing one-time pad while mathematical equations fill whiteboard behind her
+    depth: Foreground shows cryptographic materials on desk, middle ground reveals researcher at work, background displays
+      laboratory equipment and analysis tools
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

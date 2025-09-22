@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Modern Scientific Legacy - The Discovery Continues"
+  setting:
+    time: "1970s, morning"
+    location: "Modern physics laboratory with advanced equipment"
+    weather: "Bright indoor lighting"
+  characters:
+    - appearance: "International group of scientists, mixed ages 25-50, various ethnicities and builds"
+      clothing: "Modern laboratory attire - white lab coats over professional clothing"
+      position: "Working at advanced laboratory stations with sophisticated equipment"
+      action: "Conducting precision experiments to understand the mechanisms behind the hot water freezing phenomenon"
+  scene:
+    mainElements: "Advanced modern laboratory with precision scientific instruments and controlled experimental conditions"
+    details: "State-of-the-art scientific equipment including precision thermometers, controlled cooling chambers, and measurement devices. Multiple research teams investigating the phenomenon discovered by a Tanzanian student. Advanced laboratory demonstrates how one curious observation can inspire decades of scientific investigation. Modern instruments capable of measuring minute temperature changes and environmental factors, no text or letters visible"
+    background: "Contemporary scientific research facility with advanced technology and international research collaboration"
+    atmosphere: "Scientific legacy continuing through modern research, demonstrating how empirical curiosity leads to lasting scientific inquiry"
+  composition:
+    cameraAngle: "Wide shot of modern laboratory"
+    focus: "Advanced scientific investigation of phenomenon first observed by student in simple school setting"
+    depth: "Foreground shows sophisticated experimental apparatus, middle ground captures modern researchers, background reveals advanced laboratory environment"

@@ -1,0 +1,12 @@
+media_info:
+  title: Twin Paradox Explained - 1905
+  year: 1905
+  genre: Physics Documentary
+  description: Einstein's special relativity demonstrates time dilation effects proven by GPS satellite corrections
+  target_audience: General public, students, physics enthusiasts, science researchers
+  duration: ~3 minutes
+  objective: Recreate Einstein's thought experiment and its real-world applications in modern technology
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

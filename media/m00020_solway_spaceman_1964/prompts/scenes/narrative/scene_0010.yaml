@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "60 Years of Enduring Mystery"
+  setting:
+    time: "2014-Present, modern day"
+    location: "Modern research facility with advanced digital analysis equipment, contemporary United Kingdom"
+    weather: "Indoor controlled environment with professional lighting"
+  characters:
+    - appearance: "Middle-aged journalist, academic appearance, analytical expression"
+      clothing: "Professional attire appropriate for television interviews"
+      position: "Seated across from interview subject or standing with documents"
+      action: "Examining evidence with methodical approach, taking notes"
+    - appearance: "Modern digital imaging specialist, technical expertise evident"
+      clothing: "Contemporary professional attire suitable for laboratory work"
+      position: "Working at computer workstation with multiple monitors"
+      action: "Conducting sophisticated digital analysis of the famous photograph"
+    - appearance: "Elderly witness or family member, bearing weight of decades"
+      clothing: "Casual contemporary clothing appropriate for interview setting"
+      position: "Seated in interview chair, weathered by years of public attention"
+      action: "Sharing memories and defending family account despite ongoing skepticism"
+  scene:
+    mainElements: "Advanced digital imaging equipment, computer monitors displaying enhanced photograph analysis, research documents and historical materials"
+    details: "Black and white photograph showing 5-year-old child in foreground with mysterious white figure visible in background, clear image quality despite unexplained presence now subject to 21st century technology, multiple theories displayed on screens and whiteboards, sense of scientific investigation continuing, no text or letters visible"
+    background: "Modern research environment with sophisticated analysis capabilities unavailable in 1964"
+    atmosphere: "Persistent mystery that has survived 60 years of investigation, ongoing debate between scientific explanation and unexplained phenomena"
+  composition:
+    cameraAngle: "Medium shot showing modern investigation techniques applied to vintage mystery"
+    focus: "The enduring power of the photograph to resist definitive explanation despite advanced technology"
+    depth: "Foreground shows detailed modern analysis, middle ground captures contemporary investigators, background displays historical documentation and research materials"

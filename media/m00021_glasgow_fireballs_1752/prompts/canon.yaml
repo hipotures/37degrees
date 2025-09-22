@@ -1,0 +1,58 @@
+canon:
+  characters:
+    - id: "character_GO"
+      name: "Character GO"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Scottish gentleman, likely educated based on detailed observation skills, 40s, intelligent countenance, careful grooming reflecting professional status"
+            clothing: "Dark wool coat with brass buttons, white linen shirt with cravat, knee-length breeches, white stockings, buckled shoes - typical 1750s Scottish urban dress"
+            posture: "Methodical and precise in bearing, demonstrating scientific curiosity characteristic of Enlightenment thinking, calm and analytical demeanor"
+    - id: "character_PM"
+      name: "Character PM"
+      description_block: |
+        characters:
+          - appearance: "Elderly Scottish clergyman in his 50s, stern facial features, clean-shaven or with modest whiskers, tall and austere bearing"
+            clothing: "Black clerical robes, white bands at the neck, black tricorn hat, dark woolen cloak - standard Presbyterian minister attire of 1750s"
+            posture: "Thoughtful and scholarly, balancing religious interpretation with emerging natural philosophy, cautious in pronouncements"
+    - id: "character_UN"
+      name: "Character UN"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged scholar in his 40s, intelligent countenance, wearing spectacles, careful grooming reflecting academic status"
+            clothing: "Dark academic gown over period dress, white powdered wig, simple but well-made clothing reflecting university position"
+            posture: "Intellectually curious, methodical in approach, representing emerging scientific rationalism of Scottish Enlightenment"
+  locations:
+    - id: "glasgow_city_center_1752"
+      name: "Glasgow City Center December 1752"
+      description_block: |
+        setting:
+          location: "Glasgow city center, Scotland, December 1752"
+        mainElements: "Cobblestone streets, stone buildings, Glasgow Cathedral dominating skyline, University buildings, merchant houses, market cross, narrow wynds and closes typical of medieval Scottish burghs, River Clyde running through"
+        atmosphere: "Cold December afternoon, grey winter sky, smoke rising from chimneys, bustling with merchants and citizens in period dress"
+    - id: "glasgow_university_1752"
+      name: "University of Glasgow Old College"
+      description_block: |
+        setting:
+          location: "University of Glasgow Old College, Scotland, December 1752"
+        mainElements: "Ancient university buildings in Scottish baronial style, courtyards surrounded by stone structures with distinctive towers, lecture halls, library with astronomical instruments, professors quarters, chapel"
+        atmosphere: "Scholarly environment with oil lamps and candles for illumination, sounds of academic discussion, cold stone corridors"
+    - id: "glasgow_cathedral_precinct"
+      name: "Glasgow Cathedral and Necropolis"
+      description_block: |
+        setting:
+          location: "Glasgow Cathedral and Necropolis, elevated ground overlooking Glasgow, Scotland, December 1752"
+        mainElements: "Gothic cathedral spires, ancient tombstones, stone pathways, views across Glasgow rooftops, medieval cathedral with surrounding graveyard"
+        atmosphere: "Sacred and solemn environment, wind whistling through stone arches, religious authority and tradition"
+  items:
+    - id: "fireball_phenomenon"
+      name: "The Glasgow Fireball"
+      description_block: |
+        details: "Large luminous sphere with extended tail, exhibiting rainbow colors during several minutes of visibility, traveling northeast to southwest direction, fragmenting into thousands of sparks"
+    - id: "gentlemans_magazine_document"
+      name: "The Gentleman's Magazine Account"
+      description_block: |
+        details: "Printed periodical page with 18th-century typography, quality paper typical of educated readership, containing detailed eyewitness description with specific time, direction, colors, and aftermath"
+    - id: "hailstorm_phenomenon"
+      name: "Post-Fireball Hailstorm"
+      description_block: |
+        details: "Sudden hailfall immediately following fireball fragmentation, unusual weather phenomenon suggesting atmospheric disturbance caused by fireball passage"

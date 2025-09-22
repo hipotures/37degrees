@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Yale University Psychology Laboratory Establishment"
+  setting:
+    time: "1961, morning"
+    location: "Yale University Interaction Laboratory, Linsly-Chittenden Hall basement, New Haven, Connecticut"
+    weather: "Clear autumn day, bright sunlight filtering through basement windows"
+  characters:
+    - appearance: "Caucasian man, 30s, dark hair, intellectual features, alert expression"
+      clothing: "1960s dark suit, white dress shirt, narrow tie, professional appearance"
+      position: "Standing in laboratory doorway reviewing documents"
+      action: "Examining experimental setup and checking preparation notes on clipboard"
+  scene:
+    mainElements: "Sterile academic laboratory environment with white walls, fluorescent lighting, institutional furniture. Large metal shock generator console positioned prominently on laboratory table. Electric chair apparatus visible through open doorway to adjacent room."
+    details: "Large metal console with 30 horizontal lever switches, voltage markings from 15 to 450 volts, warning labels including 'Danger: Severe Shock' and 'XXX', professional industrial appearance. Scientific equipment and monitoring devices arranged precisely. Yale University credentials and academic certificates mounted on walls establishing institutional authority."
+    background: "Sterile academic laboratory environment with white walls, fluorescent lighting, institutional furniture"
+    atmosphere: "Clinical, professional, authoritative university setting with scientific credibility. Sense of serious academic research and scientific methodology."
+  composition:
+    cameraAngle: "Wide establishing shot from laboratory entrance"
+    focus: "Large metal shock generator console with 30 horizontal lever switches, voltage markings from 15 to 450 volts, warning labels including 'Danger: Severe Shock' and 'XXX', professional industrial appearance"
+    depth: "Foreground shows laboratory preparation, middle ground focuses on shock generator equipment, background reveals adjacent room with electric chair, no text or letters visible"

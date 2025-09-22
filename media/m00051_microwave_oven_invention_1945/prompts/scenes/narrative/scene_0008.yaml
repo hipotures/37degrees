@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Scientist designs first microwave oven prototype at desk"
+  setting:
+    time: "1945, evening"
+    location: "Engineering office within Raytheon facility"
+    weather: "Evening darkness outside office windows"
+  characters:
+    - appearance: "Caucasian man, 50s, lean build, receding brown hair, intelligent dark eyes behind wire-rimmed glasses"
+      clothing: "White lab coat over dark suit jacket, white dress shirt, narrow dark tie, dress shoes"
+      position: "Seated at wooden desk, leaning forward in concentration"
+      action: "Drawing detailed technical schematics with mechanical pencil, creating blueprints for microwave oven design"
+  scene:
+    mainElements: "Blueprint-style diagrams on white paper showing microwave oven schematics, precise measurements and component layouts drawn with mechanical pencil, wooden desk surface"
+    details: "Technical drawings show metal box construction with magnetron placement, internal cavity dimensions, and control mechanisms. Slide rule positioned nearby for calculations. Desk lamp illuminates workspace with focused light. Reference books about electromagnetic theory stacked on desk. Mechanical pencils and erasers arranged methodically."
+    background: "Office filing cabinets, window with venetian blinds showing evening darkness, additional engineering reference materials on shelves"
+    atmosphere: "Focused engineering creativity and innovation, transition from experimental discovery to practical application design, quiet concentration of invention process, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot from above showing technical drawings and scientist working"
+    focus: "Detailed microwave oven schematics being drawn with precision"
+    depth: "Foreground shows technical drawings and drafting tools, middle ground features scientist's concentrated work, background reveals organized engineering office environment"

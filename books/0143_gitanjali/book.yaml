@@ -4,3 +4,177 @@ book_info:
   author: "Rabindranath Tagore"
   year: 1910
   genre: "Poetry,Lyric"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T14:30:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 5
+    relevance: 8
+    innovation: 9
+    structural_complexity: 5
+    social_roles: 7
+    total: 57
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 7.8
+      category: "high"
+    heat:
+      value: 6.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_1"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Nobel Prize awarded based on incomplete understanding of the work, potentially manipulated by W.B. Yeats' enthusiasm"
+        source: "dark_drama"
+      - id: "symbols_meanings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Archetypal foundations with universal symbols like light, water, flowers speak to shared human evolutionary heritage"
+        source: "symbols_meanings"
+      - id: "culture_impact_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "First non-European Nobel Prize winner, fundamentally transforming how English-speaking audiences perceived world literature"
+        source: "culture_impact"
+      - id: "youth_digital_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Perfect alignment with contemporary mindfulness trends and mental health poetry boom with 44.9 million posts on TikTok"
+        source: "youth_digital"
+      - id: "reality_wisdom_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Accurately predicted globalization of spirituality, crisis of nationalism, and women's emancipation over 100 years ago"
+        source: "reality_wisdom"
+      - id: "writing_innovation_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary literary achievements: pioneered prose poetry in English, democratized Bengali literature"
+        source: "writing_innovation"
+      - id: "facts_history_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created during heaviest period of personal tragedies - lost wife, two children, and father between 1902-1907"
+        source: "facts_history"
+      - id: "content_warnings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Strong potential for viral content with spiritual awakening and mental health angles, low platform compliance risk"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Fundamentally transformed English-language literature by demonstrating profound spiritual poetry could transcend cultural boundaries"
+        key_editions: ["India Society London 1912", "Penguin Classics William Radice 1991", "Dover Thrift Editions"]
+        reception_notes: "Initial orientalist fascination evolved to scholarly recognition of foundational role in world literature"
+        educational_status: "Standard inclusion in world literature programs and postcolonial studies"
+        local_themes: ["Transcendentalist connections", "Beat Generation influence", "Commonwealth literature foundation"]
+
+      pl:
+        cultural_impact: "Found particularly fertile ground in Poland due to mystical tradition, colonial experiences and romantic messianism"
+        key_editions: ["Jan Kasprowicz translation 1918", "Józef Jankowski translation 1918", "Contemporary editions by J.K. Sosnowski team"]
+        reception_notes: "Poland stands out in Eastern Europe with earliest translations and continuity of interest for over 100 years"
+        educational_status: "Academic research center at University of Warsaw, regular symposiums on Oriental literature"
+        local_themes: ["Catholic spirituality parallels", "Anti-colonial resistance", "Messianic universalism"]
+
+      de:
+        cultural_impact: "Successful cultural translation achieving philosophical synthesis between Eastern mysticism and Western rational thought"
+        key_editions: ["Kurt Wolff Verlag 1914", "Martin Kämpchen translations 1980s-90s", "Suhrkamp Verlag contemporary editions"]
+        reception_notes: "Influenced German intellectuals from Rilke to contemporary scholars, cult figure status in early 20th century"
+        educational_status: "Studied in comparative literature and postcolonial studies programs at German universities"
+        local_themes: ["Romantic idealism connections", "Hermeneutical tradition", "East-West philosophical synthesis"]
+
+      fr:
+        cultural_impact: "Bridge between Eastern spirituality and French literary sophistication, influencing symbolist movement"
+        key_editions: ["André Gide translations", "Contemporary Gallimard editions"]
+        reception_notes: "French intellectual appreciation for universal humanistic message and lyrical beauty"
+        educational_status: "Part of world literature curricula in French universities"
+        local_themes: ["Symbolist poetry influence", "Colonial discourse critique", "Universal humanism"]
+
+      es:
+        cultural_impact: "Deep resonance with Latin American magical realism and liberation theology movements"
+        key_editions: ["Juan Ramón Jiménez translation 1913", "Contemporary Spanish and Latin American editions"]
+        reception_notes: "Strong influence on Nobel laureates like Neruda and Jiménez, spiritual liberation themes"
+        educational_status: "Studied in Latin American universities as bridge between Eastern and Western spirituality"
+        local_themes: ["Liberation theology parallels", "Magical realism influence", "Social justice spirituality"]
+
+      pt:
+        cultural_impact: "Resonance with Brazilian spiritual traditions and Portuguese contemplative literature"
+        key_editions: ["Early 20th century Portuguese translations", "Contemporary Brazilian editions"]
+        reception_notes: "Appreciated for synthesis of mysticism with social engagement"
+        educational_status: "Included in comparative literature studies in Portugal and Brazil"
+        local_themes: ["Contemplative tradition", "Social mysticism", "Cultural syncretism"]
+
+      ja:
+        cultural_impact: "Natural affinity with Japanese aesthetics and Zen Buddhist philosophy"
+        key_editions: ["Early Meiji translations", "Contemporary scholarly editions"]
+        reception_notes: "Understood through lens of mono no aware and wabi-sabi aesthetics"
+        educational_status: "Studied in context of East-West cultural exchange"
+        local_themes: ["Zen parallels", "Mono no aware", "Cultural bridge building"]
+
+      ko:
+        cultural_impact: "Resonance with Korean Buddhist traditions and colonial resistance literature"
+        key_editions: ["Japanese colonial period translations", "Modern Korean editions"]
+        reception_notes: "Appreciated for anti-colonial spiritual resistance themes"
+        educational_status: "Part of world literature and postcolonial studies"
+        local_themes: ["Buddhist philosophy", "Colonial resistance", "Spiritual nationalism"]
+
+      hi:
+        cultural_impact: "Foundational text for modern Indian literature and spiritual renaissance"
+        key_editions: ["Original Bengali 1910", "Hindi translations throughout 20th century"]
+        reception_notes: "Central to Indian cultural identity and independence movement"
+        educational_status: "Core text in Indian literature and philosophy curricula"
+        local_themes: ["Bengal Renaissance", "Independence movement", "Spiritual modernization"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "colonial_context"
+          lead: "host_a"
+          description: "Bengal under British rule and impact on Tagore's worldview"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "social_reform"
+          lead: "host_b"
+          description: "Tagore's role in Bengal Renaissance and social criticism"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "spiritual_democracy"
+          lead: "host_a"
+          description: "Democratization of spirituality and rejection of caste hierarchies"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "contemporary_relevance"
+          lead: "host_b"
+          description: "Modern parallels with social justice and mental health movements"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'Gitanjali' through lens of power, gender, class. Historical context: 1910 Bengal under British rule, caste system, social reform movements."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates, modern interpretations of spiritual democracy and social justice themes."
+
+  metadata:
+    target_audience: "14+"
+    content_warnings: ["colonial context discussion", "historical social inequality themes"]
+    educational_elements: ["First Asian Nobel Prize significance", "Bengal Renaissance history", "Colonial literature context", "Social reform movements"]
+    production_notes:
+      intro_style: "Contemplative with traditional Bengali music"
+      transitions: "Subtle sitar bridges"
+      outro_style: "Reflective with nature sounds"
+
+  overall_confidence: 0.87

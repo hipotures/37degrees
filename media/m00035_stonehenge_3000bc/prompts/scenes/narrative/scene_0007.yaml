@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Raising the Great Trilithon at Monument Center"
+  setting:
+    time: "2500 BCE, critical construction moment during trilithon erection"
+    location: "Circular arrangement of massive trilithons on Salisbury Plain, Wiltshire, England, precisely aligned earthwork platform"
+    weather: "Clear skies for astronomical observations, typical Neolithic climate conditions"
+  characters:
+    - appearance: "Tall, powerful physique, rope-scarred hands, weather-beaten skin, authoritative bearing"
+      clothing: "Heavy woolen garments for winter transport, leather reinforcements at shoulders and knees, bronze axe for clearing paths"
+      position: "Standing beside massive stones or leading transport teams"
+      action: "Coordinating team movements with shouted commands, calculating loads and distances, demonstrating lifting techniques"
+  scene:
+    mainElements: "Massive 40-ton sarsen upright being raised using earthen ramp and coordinated rope systems, hundreds of workers pulling in unison, wooden scaffolding and leverage systems"
+    details: "Three massive sarsen stones forming doorway - two uprights 24 feet high supporting 15-ton lintel, mortise-and-tenon joints, carefully dressed surfaces, tongue-and-groove connections between lintels, weathering patterns from millennia of exposure. Timber ramps built from earth and stone, rope systems anchored to existing stones, wooden levers and rollers, protective padding. Workers organized into pulling teams, safety coordinators, stone guides ensuring precise positioning. Chalk dust from digging post holes, sweat and strain visible on faces, rope fibers under tension"
+    background: "Rolling chalk downland of Salisbury Plain, distant horizon visible in all directions, ceremonial avenue extending northeast"
+    atmosphere: "Sacred silence broken only by wind through stones, dramatic shadows changing with sun position, sense of ancient purpose and astronomical precision. Peak moment of construction requiring perfect coordination, tension of massive weight being controlled, collective breath-holding during critical placement"
+  composition:
+    cameraAngle: "Dramatic low angle emphasizing massive scale and human achievement"
+    focus: "Crucial moment of stone reaching vertical position"
+    depth: "Foreground shows rope teams and coordination, middle ground reveals rising trilithon, background shows monument taking final shape, no text or letters visible"

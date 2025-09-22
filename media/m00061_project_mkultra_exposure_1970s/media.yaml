@@ -1,0 +1,11 @@
+media_info:
+  title: Project MKUltra Exposure - 1970s
+  genre: Intelligence History Documentary
+  description: CIA's illegal mind control experiments on unwitting subjects revealed by Congressional investigation
+  target_audience: General public, students, intelligence history buffs, civil rights advocates
+  duration: ~3 minutes
+  objective: Recreate the shocking revelation of the CIA's secret mind control program and its ethical violations
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

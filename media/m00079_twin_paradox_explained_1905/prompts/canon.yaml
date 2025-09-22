@@ -1,0 +1,80 @@
+canon:
+  characters:
+    - id: "character_AE"
+      name: "Character AE"
+      description_block: |
+        characters:
+          - appearance: "26 years old, medium build, dark wavy hair, mustache, penetrating dark eyes behind wire-rimmed glasses, high forehead"
+            clothing: "Simple dark suit typical of early 1900s European professionals, white shirt, dark tie, pocket watch"
+            position: "Seated at wooden desk writing mathematical equations"
+            action: "Concentrating intensely on theoretical physics calculations"
+    - id: "character_JH"
+      name: "Character JH"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged American physicist, professional appearance, serious demeanor"
+            clothing: "1970s academic attire - tweed jacket, tie, conservative professional dress"
+            position: "Standing beside experimental equipment in aircraft"
+            action: "Monitoring atomic clock measurements during flight"
+    - id: "character_RK"
+      name: "Character RK"
+      description_block: |
+        characters:
+          - appearance: "Contemporary of character JH, professional astronomer appearance"
+            clothing: "1970s professional academic dress, practical for travel and experimental work"
+            position: "Operating scientific instruments in experimental setting"
+            action: "Recording precise timing measurements"
+    - id: "character_PL"
+      name: "Character PL"
+      description_block: |
+        characters:
+          - appearance: "Early 40s, distinguished French academic bearing, well-groomed beard"
+            clothing: "Formal early 1900s European academic dress - dark suit, vest, formal collar"
+            position: "Standing before academic audience"
+            action: "Presenting theoretical physics concepts to scientific community"
+  locations:
+    - id: "bern_patent_office"
+      name: "Swiss Patent Office, Bern"
+      description_block: |
+        setting:
+          location: "Third floor of government building in medieval city center, Bern, Switzerland, overlooking Aare River"
+        mainElements: "Large wooden desk, inkwell, papers scattered with equations, tall windows with views of red-tiled roofs, gas lighting fixtures"
+        atmosphere: "Quiet, contemplative, early morning light streaming through windows, sound of horse-drawn carriages on cobblestones below, smell of ink and paper"
+    - id: "annalen_der_physik_office"
+      name: "Annalen der Physik Editorial Office, Leipzig"
+      description_block: |
+        setting:
+          location: "Academic publisher's office in Leipzig, Germany, traditional scholarly environment"
+        mainElements: "Mahogany desks, manuscript review tables, shelves lined with physics journals, editorial correspondence files"
+        atmosphere: "Scholarly atmosphere, afternoon light filtering through tall windows, quiet concentration of editorial review"
+    - id: "commercial_airliner_1971"
+      name: "Commercial Jet Aircraft Interior"
+      description_block: |
+        setting:
+          location: "Interior of early 1970s commercial aircraft during round-the-world flights, 10,000 meters altitude"
+        mainElements: "Four cesium atomic clocks carefully secured in passenger cabin, scientific monitoring equipment, flight attendants, passengers unaware of historic experiment"
+        atmosphere: "Steady engine hum, controlled cabin environment, sense of scientific anticipation, view of clouds and continents below"
+    - id: "gps_satellite_orbit"
+      name: "GPS Satellite Orbital Position"
+      description_block: |
+        setting:
+          location: "Silent vacuum of space, 20,000 km above Earth's surface"
+        mainElements: "Sophisticated atomic clocks, solar panels, communication arrays, precise orbital positioning systems"
+        atmosphere: "Complete silence, brilliant unfiltered sunlight, stark contrast of Earth's blue against black space, constant motion at 14,000 km/hr"
+  items:
+    - id: "zur_elektrodynamik_manuscript"
+      name: "Original Special Relativity Manuscript"
+      description_block: |
+        details: "30-page handwritten manuscript on standard academic paper, neat handwriting, mathematical equations interspersed with German text, black ink on white paper, careful mathematical derivations, minimal corrections"
+    - id: "cesium_atomic_clocks_1971"
+      name: "Hafele-Keating Cesium Atomic Clocks"
+      description_block: |
+        details: "Four portable cesium beam atomic clocks, each about suitcase-sized, precise to nanoseconds, weighing approximately 35 pounds each, silver and black metal casings, digital readouts, careful shock-mounting for air travel"
+    - id: "gps_satellite_clocks"
+      name: "GPS Satellite Atomic Clocks"
+      description_block: |
+        details: "Ultra-precise rubidium and cesium atomic clocks, space-hardened construction, accurate to nanoseconds, pre-tuned to 10.22999999543 MHz to compensate for relativistic effects, multiple redundant systems"
+    - id: "special_relativity_equations"
+      name: "Lorentz Transformation Equations"
+      description_block: |
+        details: "Mathematical formulations written on blackboards and paper, showing time dilation factor γ = 1/√(1-v²/c²), elegant mathematical expressions revealing how time slows as velocity approaches light speed"

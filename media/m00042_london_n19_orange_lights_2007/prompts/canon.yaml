@@ -1,0 +1,76 @@
+canon:
+  characters:
+    - id: "character_AM"
+      name: "Character AM"
+      description_block: |
+        characters:
+          - appearance: "Woman, 34 years old, practical build typical of working-class market trader, alert and observant"
+            clothing: "Dark winter coat suitable for late January evening, practical footwear for collecting child from nursery, scarf and gloves"
+            posture: "Initially focused on routine task, then startled but maintaining protective maternal stance"
+    - id: "character_JZ"
+      name: "Character JZ"
+      description_block: |
+        characters:
+          - appearance: "Man, 50 years old, carrying personal video camera, alert and reactive, focused demeanor"
+            clothing: "Winter attire appropriate for early evening in January, accessible camera equipment, practical jacket with pockets"
+            posture: "Quick thinking and technically minded, positioning himself for optimal filming vantage point"
+    - id: "character_JP"
+      name: "Character JP"
+      description_block: |
+        characters:
+          - appearance: "Local resident, observant, familiar with neighborhood landmarks, methodical in observation"
+            clothing: "Casual evening wear suitable for short walk to local shop, winter jacket"
+            posture: "Methodical observer, noting specific formations and directions with deliberate attention"
+    - id: "character_AP"
+      name: "Character AP"
+      description_block: |
+        characters:
+          - appearance: "Parent collecting child from school, attentive to surroundings, responsible demeanor"
+            clothing: "Appropriate for school pickup routine, winter weather gear, practical family-oriented attire"
+            posture: "Initially focused on child collection, then drawn to unusual aerial activity above"
+  locations:
+    - id: "archway_central"
+      name: "Archway Central Area"
+      description_block: |
+        setting:
+          location: "Busy North London intersection and transport hub in N19 postal area, Archway tube station vicinity"
+        mainElements: "Major road junction with Victorian terraced housing, local shops, urban evening rush hour density"
+        atmosphere: "Rush hour traffic density, urban evening ambiance, overcast January sky at sunset, busy commuter flow"
+    - id: "bredgar_road"
+      name: "Bredgar Road, Archway"
+      description_block: |
+        setting:
+          location: "Residential Victorian terrace street in heart of N19 area, Archway"
+        mainElements: "Typical London terraced houses with bay windows, nursery facility, local market trader residences"
+        atmosphere: "Quiet residential evening, familiar neighborhood routine, clear sightlines to sky, domestic tranquility"
+    - id: "holloway_road_vantage"
+      name: "Holloway Road Filming Position"
+      description_block: |
+        setting:
+          location: "Major North London arterial road with elevated views toward Archway area"
+        mainElements: "Busy main road with traffic, elevated position, clear sightlines across N19 area, street lighting beginning"
+        atmosphere: "Traffic noise, urban lighting beginning as daylight fades, optimal filming position with wide viewing angle"
+    - id: "crouch_end_rokesly"
+      name: "Rokesly Avenue, Crouch End"
+      description_block: |
+        setting:
+          location: "Residential street in Crouch End, approximately 1 mile northeast of Archway"
+        mainElements: "Victorian and Edwardian houses, local shops within walking distance, tree-lined street"
+        atmosphere: "Evening residential calm, clear views toward Archway and Muswell Hill, suburban tranquility"
+  items:
+    - id: "orange_light_formation"
+      name: "Orange Light Squadron"
+      description_block: |
+        details: "10-15 distinct orange/amber lights, consistent size, no visible aircraft structure, moved in loose formation, capable of independent stopping and hovering, silent operation"
+    - id: "video_camera"
+      name: "Amateur Video Camera"
+      description_block: |
+        details: "Personal video recording device, handheld consumer model typical of 2007, capturing footage from elevated street position"
+    - id: "emergency_phone"
+      name: "Mobile Phone for 999 Calls"
+      description_block: |
+        details: "Mobile phone used by witnesses to contact emergency services, multiple calls within minutes of sighting"
+    - id: "stopped_vehicles"
+      name: "London Traffic Vehicles"
+      description_block: |
+        details: "Various cars, buses, and commercial vehicles typical of London evening rush hour traffic, brought to standstill with drivers exiting to observe phenomenon"

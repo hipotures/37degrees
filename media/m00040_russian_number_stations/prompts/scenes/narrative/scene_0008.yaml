@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "UVB-76 Activity Surge Before Ukraine Invasion"
+  setting:
+    time: "February 2022, pre-dawn hours"
+    location: "Underground military facility near Saint Petersburg, Russia, surrounded by forest"
+    weather: "Cold winter night with snow falling heavily"
+  characters:
+    - appearance: "Mid-30s military bearing man, short dark hair, pale complexion from underground work"
+      clothing: "Soviet-era military uniform with radio operator insignia, headphones around neck"
+      position: "Intensely focused at radio transmission console during high-activity period"
+      action: "Rapidly transmitting multiple coded messages while checking coded message sheets and monitoring equipment readings"
+  scene:
+    mainElements: "Massive radio towers, concrete bunkers, restricted military zone signs"
+    details: "Banks of vacuum tube equipment glowing intensely with increased activity, analog meters showing high transmission levels, stacks of coded message sheets being processed rapidly, multiple frequency monitors active simultaneously, transmission logs showing unprecedented volume of messages, emergency lighting casting red glow"
+    background: "Steel reinforced concrete walls under stress from increased operations, multiple personnel moving urgently through facility, communication equipment operating at maximum capacity"
+    atmosphere: "Cold, sterile, constant electrical humming, guards patrol perimeter, intense operational urgency preceding major military action, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up showing intensity of increased operations"
+    focus: "Radio operator working intensively during record transmission spike"
+    depth: "Foreground shows transmission controls and message sheets, middle ground reveals operator's concentrated effort, background displays equipment at maximum operational capacity"

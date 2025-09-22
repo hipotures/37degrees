@@ -1,0 +1,19 @@
+sceneDescription:
+  title: "Detailed Examination of the Assassination Weapon"
+  setting:
+    time: "September 17, 1975, 10:25 AM"
+    location: "US Senate Caucus Room 318, Russell Senate Office Building, Washington DC"
+  characters:
+    - appearance: "Caucasian man, 60s, white hair, stern demeanor, weathered face with prominent jawline"
+      clothing: "1970s dark gray suit, white dress shirt, solid colored tie, American flag pin on lapel"
+      position: "Leaning forward at committee table examining the weapon closely"
+      action: "Carefully inspecting the modified pistol and its unusual attachments"
+  scene:
+    mainElements: "Modified Colt M1911 pistol with telescopic scope mounted on top, electrical battery attachment, specialized firing mechanism for frozen darts rather than bullets displayed on committee table"
+    details: "Close examination reveals scope mounting system, electrical connections to battery pack, modified barrel designed for firing frozen projectiles instead of conventional ammunition, precision engineering of assassination technology, committee members handle weapon with mixture of fascination and revulsion, no text or letters visible"
+    background: "Blurred committee room setting with focused attention on the weapon"
+    atmosphere: "Intense scrutiny of deadly technology as senators grapple with implications of CIA assassination capabilities"
+  composition:
+    cameraAngle: "Extreme close-up of the weapon and examining hands"
+    focus: "Technical details of the heart attack gun's modifications"
+    depth: "Foreground shows weapon details in sharp focus, background softly blurred committee room environment"

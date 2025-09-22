@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Media Circus Transforms Quiet Village"
+  setting:
+    time: "February 1977, morning following the incident"
+    location: "Village street outside Broad Haven Primary School entrance, Pembrokeshire, Wales"
+    weather: "Overcast morning with grey Welsh sky"
+  characters:
+    - appearance: "Various adults in 1970s formal attire, journalists and reporters"
+      clothing: "1970s business suits, overcoats, some carrying equipment"
+      position: "Gathered outside school gates and along village street"
+      action: "Setting up camera equipment, interviewing villagers, taking notes"
+    - appearance: "Small-framed 10-year-old boy, brown hair, typical 1970s schoolboy appearance, earnest expression"
+      clothing: "1970s school uniform - grey shorts, white shirt, school jumper, black shoes"
+      position: "Standing near school entrance with other children"
+      action: "Being interviewed by reporters, speaking earnestly to cameras"
+  scene:
+    mainElements: "Television camera crews, journalists with notepads, villagers gathering to watch, school building in background, parked cars along narrow village street"
+    details: "Large television cameras on tripods, cables running across the street, journalists with recording equipment and notepads. Local villagers peering from doorways and windows. Cars with press credentials parked haphazardly along the narrow Welsh village street. Children in school uniforms being interviewed while curious adults look on. The quiet rural school has become the center of national attention."
+    background: "Traditional Welsh village street with stone cottages, narrow roadway, rolling countryside visible beyond village boundaries"
+    atmosphere: "Transformation from peaceful rural community to media sensation, mixture of excitement and bewilderment among villagers, contrast between extraordinary claims and ordinary Welsh village setting, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from village street showing full scope of media presence"
+    focus: "Contrast between massive media attention and small rural school, children at center of extraordinary claims"
+    depth: "Foreground: journalists and equipment, middle ground: school building and children, background: Welsh village cottages and countryside"

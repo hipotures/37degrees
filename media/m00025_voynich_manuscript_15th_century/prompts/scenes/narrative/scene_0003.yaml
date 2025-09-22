@@ -1,0 +1,17 @@
+sceneDescription:
+  title: "The Mysterious Book Enters the Imperial Court"
+  setting:
+    time: "1590, midday"
+    location: "Prague Castle, Court of Rudolf II, late 16th-century imperial court complex"
+    weather: "Bright autumn day, golden sunlight streaming through palace windows"
+  characters:
+    No characters present in this scene
+  scene:
+    mainElements: "Gothic and Renaissance architecture, alchemical laboratories, imperial library with astronomical instruments"
+    details: "Ornate wooden library shelves filled with rare manuscripts and alchemical texts, the Voynich manuscript prominently displayed on reading stand with brass fittings, celestial globes and astrolabes nearby, bottles of mysterious substances in glass cabinets, leather-bound volumes with gilt decorations, imperial coat of arms carved into stone walls, no text or letters visible"
+    background: "Mysterious scholarly environment, flickering candle-lit chambers, intellectual intrigue, scent of parchment and alchemical preparations"
+    atmosphere: "Imperial grandeur mixed with scholarly obsession, sense that the manuscript has found its ideal home among other mysteries, anticipation of great discoveries"
+  composition:
+    cameraAngle: "Low angle emphasizing the grandeur of the imperial library"
+    focus: "The Voynich manuscript displayed prominently among other treasures"
+    depth: "Foreground shows the manuscript on its stand, middle ground reveals the elaborate library setting, background captures the palace architecture and mysterious atmosphere"

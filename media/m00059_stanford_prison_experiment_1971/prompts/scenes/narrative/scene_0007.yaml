@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Prisoner 819 Refuses Food in Desperate Hunger Strike"
+  setting:
+    time: "August 17, 1971, meal time"
+    location: "Converted basement of Stanford University psychology building, Jordan Hall, California"
+    weather: "Interior basement environment, artificially lit"
+  characters:
+    - appearance: "Caucasian man, early 20s, medium build, defiant expression, growing desperation"
+      clothing: "Ill-fitting white prison smock, stocking cap, chain around ankle, number 819 visible on chest"
+      position: "Sitting on floor of cell with arms crossed defiantly"
+      action: "Initially rebellious stance, later hunched and withdrawn, arms crossed defensively"
+    - appearance: "Caucasian man, early 20s, tall, athletic build, stern expression"
+      clothing: "Khaki military-style uniform, reflective mirrored sunglasses, black boots, carrying whistle and billy club"
+      position: "Standing outside cell holding food tray"
+      action: "Rigid military bearing, hands behind back or holding equipment, dominating stance"
+    - appearance: "Caucasian man, early 20s, average build, submissive expression, downcast eyes"
+      clothing: "Ill-fitting white prison smock, stocking cap, chain around ankle, kept neat"
+      position: "Standing in adjacent cell watching confrontation"
+      action: "Shoulders slumped, hands at sides, head down, avoiding eye contact"
+  scene:
+    mainElements: "Tense standoff between defiant prisoner refusing food and guard attempting to force compliance through intimidation and psychological pressure in confined cell space"
+    details: "Food tray placed outside cell bars with prisoner refusing to approach, guards using billy clubs to rattle cell bars, prisoner #819 maintaining defiant seated position despite pressure, other prisoners watching nervously from adjacent cells, institutional lighting creating harsh shadows, chain around ankle creating metallic resistance sounds"
+    background: "Basement prison environment with concrete walls, metal cell bars, fluorescent lighting, narrow corridor with institutional fixtures, guard station monitoring area"
+    atmosphere: "Escalating confrontation and psychological warfare through food refusal, harsh institutional lighting emphasizing conflict, oppressive environment where basic needs become weapons of control"
+  composition:
+    cameraAngle: "Medium shot through cell bars showing prisoner defiance and guard pressure"
+    focus: "Prisoner #819's hunger strike defiance contrasted with guard attempts at forced compliance"
+    depth: "Foreground shows cell bars and food tray, middle ground focuses on confrontation between prisoner and guard, background reveals other prisoners observing conflict, no text or letters visible"

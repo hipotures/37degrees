@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Evening, flickering firelight casting dancing shadows
+    location: Central gathering area of Sateré-Mawé village in Amazon rainforest
+    weather: Still warm evening air with ceremonial smoke lingering
+  characters:
+  - appearance: Indigenous Brazilian boy, 12-15 years old, lean athletic build, bronze skin, straight black hair
+    clothing: Traditional Sateré-Mawé attire with colorful feather ornaments, woven cotton bands, minimal body decoration
+    position: Standing in center of ceremonial circle, arms extended forward
+    action: Slowly putting hands into bullet ant gloves while maintaining brave composure despite visible nervousness
+  - appearance: Elderly Sateré-Mawé man, 60s, weathered bronze skin, white-streaked black hair, wise dark eyes
+    clothing: Traditional ceremonial robes with elaborate feather headdress, shell and bead jewelry, painted body markings
+    position: Standing close beside initiate providing guidance
+    action: Supporting and encouraging young initiate as gloves are donned
+  scene:
+    mainElements: Circular clearing surrounded by traditional thatched-roof houses, fire pit in center, woven palm mats
+    details: Woven cashew leaf gloves with hundreds of live bullet ants sewn inside, stingers pointing inward toward hand
+      opening being carefully placed onto young hands. Fire casting dramatic light and shadows, community watching in reverent
+      silence, traditional ritual objects surrounding sacred space.
+    background: Village community seated in circle watching ceremony, traditional houses and forest silhouetted against firelight
+    atmosphere: Community gathering space with warm firelight, ceremonial significance, tribal unity. Moment of extreme courage
+      and cultural transition, no text or letters visible
+  composition:
+    cameraAngle: Medium shot focusing on initiate and glove placement
+    focus: Young initiate's hands entering the dangerous ant-filled gloves
+    depth: Glove ceremony in foreground, supporting elder in middle ground, watching community in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

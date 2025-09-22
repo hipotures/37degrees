@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Flight 305 takes off for second leg toward Mexico with hijacker aboard"
+  setting:
+    time: "November 24, 1971, 7:40 PM"
+    location: "Boeing 727 Flight 305 taking off from Seattle-Tacoma International Airport"
+    weather: "Night falling with storm clouds gathering over Pacific Northwest"
+  characters:
+    - appearance: "White man, mid-40s, 6 feet tall, 180 pounds, olive complexion with Latin appearance, dark hair with marcel waves, brown eyes"
+      clothing: "Black business suit, white dress shirt, thin black clip-on tie from J.C. Penney with imitation pearl tie pin, black raincoat, brown leather shoes"
+      position: "Seated in aircraft cabin with parachute equipment nearby"
+      action: "Giving specific flight instructions to crew about speed, altitude, and landing gear configuration"
+    - appearance: "Young woman, flight attendant"
+      clothing: "Northwest Orient flight attendant uniform - navy blue dress with white collar and cuffs"
+      position: "Standing in aisle near man receiving instructions"
+      action: "Listening carefully to man's technical flight requirements and relaying information to cockpit crew"
+  scene:
+    mainElements: "Boeing 727 aircraft interior during takeoff, military surplus Navy backpack parachute positioned nearby, canvas bag with ransom money secured, empty passenger cabin with only crew aboard"
+    details: "Aircraft ascending into night sky, cabin lights illuminated, parachute gear positioned for access, man's calm demeanor contrasting with unusual flight specifications requiring low speed and altitude"
+    background: "Aircraft windows showing Seattle airport lights falling away below, empty passenger seats throughout cabin, cockpit area where crew implements unusual flight parameters"
+    atmosphere: "Tension building as escape phase begins, professional crew following unprecedented flight instructions, storm weather developing outside aircraft, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing man giving instructions with parachute equipment visible"
+    focus: "Man's specific technical demands revealing his knowledge of aircraft capabilities"
+    depth: "Foreground shows man and flight attendant interaction, middle ground displays parachute equipment, background reveals empty cabin and darkening sky outside windows"

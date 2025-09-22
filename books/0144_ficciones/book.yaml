@@ -4,3 +4,174 @@ book_info:
   author: "Jorge Luis Borges"
   year: 1944
   genre: "Short stories,Metafiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T15:45:00"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 10
+    cultural_phenomenon: 8
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 10
+    structural_complexity: 9
+    social_roles: 6
+    total: 66
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.5
+      category: "high"
+    heat:
+      value: 7.0
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Borges predicted many problems of the modern world - from the internet to fake news"
+        source: "dark_drama"
+      - id: "symbols_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Infinite library represents paradox of knowledge. Complete knowledge is impossible because we are part of the mystery we're trying to solve"
+        source: "symbols_meanings"
+      - id: "culture_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "58 documented examples of influence: 15 adaptations, 12 games, 8 tourist sites, 10 contemporary writers"
+        source: "culture_impact"
+      - id: "innovation_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Borges invented postmodernism decades before their official naming - fragmentariness, intertextuality, meta-fiction"
+        source: "writing_innovation"
+      - id: "youth_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Gen Z and millennials don't just read Borges - they live in Borgesian digital reality"
+        source: "youth_digital"
+      - id: "reality_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "The Library of Babel (1941) as prophecy regarding the internet - infinite amounts of information"
+        source: "reality_wisdom"
+      - id: "dark_drama_1"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Borges initially supported the Argentine military junta in the 1970s, which damaged his chances for the Nobel Prize"
+        source: "dark_drama"
+      - id: "innovation_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "The Garden of Forking Paths predicted hypertext and digital structures decades before the invention of the internet"
+        source: "writing_innovation"
+
+    localized:
+      en:
+        cultural_impact: "Established as bridge between modernism and post-modernism in world literature"
+        key_editions: ["Grove Press 1962", "New Directions Labyrinths", "University curricula editions"]
+        reception_notes: "Fundamental text in postmodern literature studies"
+        educational_status: "Standard text in comparative literature programs"
+        local_themes: ["Influence on David Foster Wallace", "Hypertext literature precursor"]
+      pl:
+        cultural_impact: "Influenced Polish electronic literature and Witold Gombrowicz"
+        key_editions: ["PIW 1972", "Minumsa World Literature Collection", "2019 annotated edition"]
+        reception_notes: "Term 'Borgesian' entered Polish cultural vocabulary"
+        educational_status: "Advanced literary studies in secondary schools"
+        local_themes: ["Connection to Gombrowicz", "Hypertext metaphors in Polish digital culture"]
+      de:
+        cultural_impact: "Influenced W.G. Sebald and German postmodern development"
+        key_editions: ["Hanser Verlag complete works", "Fischer 20-volume collection"]
+        reception_notes: "Recognized by German theorists before Argentina"
+        educational_status: "University comparative literature programs"
+        local_themes: ["Swiss connection through Geneva years", "Philosophical literature tradition"]
+      fr:
+        cultural_impact: "Foucault's 'The Order of Things' had its birthplace in a text by Borges"
+        key_editions: ["Gallimard La Croix du Sud 1951", "Pléiade complete works"]
+        reception_notes: "Foundation of French post-structuralist thought"
+        educational_status: "École Normale Supérieure and Sorbonne study"
+        local_themes: ["Influence on Deleuze and Derrida", "Post-structuralist connections"]
+      es:
+        cultural_impact: "Foundational figure for Latin American boom literature"
+        key_editions: ["Alianza Editorial", "Emecé original 1944", "Planeta editions"]
+        reception_notes: "Influenced García Márquez and magical realism"
+        educational_status: "Required reading in Spanish literature programs"
+        local_themes: ["Boom latinoamericano precursor", "Roberto Bolaño influence"]
+      pt:
+        cultural_impact: "Bridge between Hispanic and Lusophone literary traditions"
+        key_editions: ["Companhia das Letras Brazil", "Editorial Teorema Portugal"]
+        reception_notes: "Influenced Brazilian modernist parallels"
+        educational_status: "ENEM university entrance examination references"
+        local_themes: ["Brazilian modernist connections", "Anthropophagic tradition resonance"]
+      ja:
+        cultural_impact: "Influenced Haruki Murakami and contemporary Japanese metafiction"
+        key_editions: ["Iwanami translations", "Shinchosha editions"]
+        reception_notes: "Buddhist philosophical connections recognized"
+        educational_status: "Comparative literature at University of Tokyo"
+        local_themes: ["Buddhist infinite time concepts", "Zen satori parallels"]
+      ko:
+        cultural_impact: "Influenced Korean magical realism writers like Lee Seung-woo"
+        key_editions: ["Minumsa World Literature", "Professor Song Byeong-seon translation"]
+        reception_notes: "Resonance with Korean cyclical time concepts"
+        educational_status: "Seoul National University world literature courses"
+        local_themes: ["Buddhist temporal philosophy connections", "Webtoon adaptations"]
+      hi:
+        cultural_impact: "Philosophical connections to Advaita Vedanta and Buddhist thought"
+        key_editions: ["Argentina Programa Sur Hindi translation", "Tamil CommonFolks editions"]
+        reception_notes: "Recognized parallels with Hindu philosophical traditions"
+        educational_status: "University comparative literature programs"
+        local_themes: ["Maya (cosmic illusion) connections", "Postcolonial literature influence"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "thesis"
+          lead: "host_a"
+          description: "Borges as inventor of postmodernism and predictor of digital age"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "analysis"
+          lead: "host_b"
+          description: "Infinite library metaphor predicting internet information chaos"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "examples"
+          lead: "host_a"
+          description: "Influence on major theorists: Foucault, Deleuze, contemporary culture"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "synthesis"
+          lead: "host_b"
+          description: "Revolutionary literary techniques and structural complexity"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "conclusion"
+          lead: "host_a"
+          description: "Contemporary relevance - living in Borgesian digital reality"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'Ficciones' with scholarly depth. Discuss how Borges invented postmodernism decades before its naming, predicted the internet with 'The Library of Babel,' and influenced major theorists like Foucault. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification on Borges' revolutionary techniques, request examples of his influence on contemporary culture, connect his metafictional innovations to current digital reality, ensure accessibility."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["Historical references to political controversies in academic context", "Complex philosophical concepts"]
+    educational_elements: ["Postmodernist literary theory", "Metafiction techniques", "Digital age predictions", "Latin American literary history"]
+    production_notes:
+      intro_style: "Scholarly introduction emphasizing Borges' foundational role in postmodernism"
+      transitions: "Intellectual musical bridges with classical or minimalist elements"
+      outro_style: "Thoughtful conclusion connecting Borges to contemporary digital culture"
+
+  overall_confidence: 0.9

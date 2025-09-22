@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Joint Occupation - Peaceful Coexistence"
+  setting:
+    time: "1872, autumn"
+    location: "British Royal Marine Camp on northern shoreline of San Juan Island"
+    weather: "Clear autumn day with colorful foliage"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Formal military camp with Union Jack flag flying on tall wooden flagpole at British camp, disciplined British military presence with direct harbor access"
+    details: "Union Jack flag flying prominently on tall wooden flagpole, formal British military camp with white canvas tents, supply tents and equipment organized with military precision, Royal Marines visible in distance, well-maintained camp with direct harbor access for resupply, peaceful coexistence with American forces"
+    background: "Northern shoreline of San Juan Island with calm waters, forested hills, autumn colors in Pacific Northwest landscape, American camp visible far in distance"
+    atmosphere: "Disciplined British military presence maintaining territorial claim, peaceful resolution through joint occupation, empire and republic sharing disputed territory, 13-year bloodless standoff ending, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing British camp and flag as symbol of resolution"
+    focus: "British flag representing peaceful diplomatic solution"
+    depth: "British military camp in foreground, island shoreline in middle ground, Pacific waters and distant American positions in background"

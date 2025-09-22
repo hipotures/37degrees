@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ancient Alexandria in Its Glory - 30 BCE"
+  setting:
+    time: "30 BCE, late afternoon golden hour"
+    location: "Ancient Alexandria, Egypt - aerial view of royal quarter and Mediterranean harbor"
+    weather: "Clear Mediterranean skies with warm golden sunlight"
+  characters:
+    - appearance: "Woman age 39, medium height, olive-skinned, classical Greek-Egyptian features, intelligent dark eyes, aquiline nose"
+      clothing: "Royal Egyptian regalia with golden uraeus crown, fine linen pleated dress, elaborate jewelry including pearl earrings and golden bracelets"
+      position: "Standing regally on palace balcony overlooking the harbor"
+      action: "Commanding presence, gazing out over her kingdom with regal authority"
+  scene:
+    mainElements: "Magnificent Hellenistic city on Egypt's Mediterranean coast, royal quarter near harbor, Great Library, Pharos Lighthouse, Royal Palace complex, harbor with Antirhodos island"
+    details: "Marble buildings gleaming in golden afternoon light, ships from across Mediterranean anchored in harbor, great lighthouse towering over coastal waters, royal palace complex with gardens and colonnades, bustling marketplace visible in distance"
+    background: "Mediterranean Sea stretching to horizon, distant mountains on coastline, multiple levels of terraced gardens"
+    atmosphere: "Bustling cosmopolitan center of learning and trade, sense of power and wealth, golden light creating majestic ambiance"
+  composition:
+    cameraAngle: "Wide aerial establishing shot from elevated position"
+    focus: "Character CV on palace balcony with vast city and harbor spread below"
+    depth: "Character in foreground, palace complex in middle ground, harbor and sea in background, no text or letters visible"

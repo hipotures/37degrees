@@ -1,0 +1,80 @@
+canon:
+  characters:
+    - id: "character_JH"
+      name: "Character JH"
+      description_block: |
+        characters:
+          - appearance: "Polish man, child prodigy (age 5-10 in early scenes), later adult (20s-30s), slender build, intense dark eyes, intelligent expression"
+            clothing: "Early scenes: formal child's concert attire with white shirt, dark vest, bow tie. Later scenes: formal black concert tails or casual early 20th century suits with vest and tie"
+            posture: "Confident at piano, focused and intense when performing or inventing, often with hands positioned over piano keys or examining mechanical objects"
+    - id: "character_AR"
+      name: "Character AR"
+      description_block: |
+        characters:
+          - appearance: "Russian man, 60s, distinguished bearing, white beard, stern but kind expression, commanding presence"
+            clothing: "Formal dark suit with high collar, sometimes wearing conductor's formal evening wear"
+            posture: "Authoritative stance when teaching, often gesturing with conductor's baton or pointing at piano keys"
+    - id: "character_KH"
+      name: "Character KH"
+      description_block: |
+        characters:
+          - appearance: "Polish man, 40s, musician's bearing, mustache, caring paternal expression"
+            clothing: "Late 19th century formal suit with vest, sometimes conductor's attire"
+            posture: "Protective and encouraging toward young character JH, often standing beside piano or holding sheet music"
+  locations:
+    - id: "main_location_1"
+      name: "Warsaw Concert Hall"
+      description_block: |
+        setting:
+          location: "Grand concert hall in Warsaw, Poland, late 19th century architecture with ornate details"
+        mainElements: "Large grand piano center stage, rows of red velvet seats, elaborate crystal chandeliers"
+        atmosphere: "Elegant and formal, filled with anticipation and musical reverence"
+    - id: "main_location_2"
+      name: "Dresden Hotel Room"
+      description_block: |
+        setting:
+          location: "Hotel d'Europe in Dresden, Germany, private lesson room with piano"
+        mainElements: "Upright piano against wallpapered wall, heavy curtains, Victorian furniture, sheet music scattered on tables"
+        atmosphere: "Intimate and focused, perfect for intensive musical instruction"
+    - id: "main_location_3"
+      name: "Curtis Institute Office"
+      description_block: |
+        setting:
+          location: "Director's office at Curtis Institute of Music, Philadelphia, 1920s-1930s"
+        mainElements: "Large wooden desk, bookshelves filled with musical scores, framed photographs of musicians, grand piano in corner"
+        atmosphere: "Scholarly and administrative, reflecting musical education and leadership"
+    - id: "main_location_4"
+      name: "Invention Workshop"
+      description_block: |
+        setting:
+          location: "Private workshop laboratory, early 20th century, filled with mechanical equipment and tools"
+        mainElements: "Workbenches with various mechanical parts, blueprints pinned to walls, prototype devices, automotive components"
+        atmosphere: "Creative and industrious, filled with innovative energy and mechanical precision"
+    - id: "main_location_5"
+      name: "Los Angeles Home"
+      description_block: |
+        setting:
+          location: "Modest home in Los Angeles, 1940s-1950s, combination living space and workshop"
+        mainElements: "Piano in living room, desk covered with patent drawings, comfortable chairs, California sunshine streaming through windows"
+        atmosphere: "Peaceful and contemplative, reflecting a life of quiet reflection and continued creativity"
+  items:
+    - id: "key_item_1"
+      name: "Concert Grand Piano"
+      description_block: |
+        details: "Black lacquered Steinway grand piano with ivory keys, distinctive narrow key modification designed by character JH for smaller hands"
+    - id: "key_item_2"
+      name: "Windshield Wiper Prototype"
+      description_block: |
+        details: "Early automotive windshield wiper mechanism with oscillating arm and rubber blade, brass and steel construction typical of early 1900s engineering"
+    - id: "key_item_3"
+      name: "Shock Absorber Design"
+      description_block: |
+        details: "Pneumatic shock absorber prototype for automobiles, cylindrical metal housing with spring mechanism, technical drawings showing internal components"
+    - id: "key_item_4"
+      name: "Patent Documents"
+      description_block: |
+        details: "Official patent papers with detailed technical drawings, stamps and seals, rolled blueprints tied with ribbon, no readable text visible"
+    - id: "key_item_5"
+      name: "Metronome"
+      description_block: |
+        details: "Traditional wooden pyramid-shaped metronome with brass pendulum, sitting on piano, providing rhythmic inspiration for musical and mechanical innovations"

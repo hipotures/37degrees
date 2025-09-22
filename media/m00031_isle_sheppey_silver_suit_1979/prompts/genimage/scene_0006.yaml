@@ -1,0 +1,103 @@
+sceneDescription:
+  setting:
+    time: March 22, 1979, 22:32 (10:32 PM), evening hours
+    location: Sheppey Way main arterial road, Isle of Sheppey, Kent, England
+    weather: Cool March evening, clear visibility, limited streetlighting
+  characters:
+  - appearance: Multiple adult motorists of various ages and gender, typical British citizens traveling in evening hours
+    clothing: Period-appropriate casual and work clothing for 1979, including coats and jackets suitable for March weather
+    position: In vehicles traveling along Sheppey Way or standing with authorities during statement collection
+    action: Independently observing same unusual figure and providing corroborating witness statements
+  - appearance: Stocky build entity, estimated human-sized, distinctive integrated helmet with visor at eye level, non-human
+      movement characteristics
+    clothing: One-piece baggy silver suit with metallic or highly reflective appearance, integrated helmet with visor, no
+      visible seams or fasteners
+    position: Initially on grassy embankment beside roadway, descending toward road level
+    action: Moving with awkward loping gait down embankment slope, deliberately descending from elevated position
+  scene:
+    mainElements: Two-lane road with grassy embankments on sides, scattered industrial facilities visible in distance, relatively
+      sparse traffic during evening hours
+    details: Several vehicles with headlights illuminating silver-suited entity as it moves down embankment, multiple drivers
+      simultaneously observing the same extraordinary figure, entity clearly visible due to highly reflective suit material
+      catching vehicle lights from different angles
+    background: Rural road environment connecting Isle of Sheppey to mainland Kent, isolated location with minimal development
+    atmosphere: Convergence moment where multiple independent witnesses share the same extraordinary experience, building
+      credibility through corroborating observations, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing multiple vehicles on road with entity visible to all
+    focus: Silver-suited entity as central point observed by multiple motorists simultaneously
+    depth: Foreground vehicle headlights, middle ground road surface and embankment with entity, background countryside and
+      additional vehicles
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

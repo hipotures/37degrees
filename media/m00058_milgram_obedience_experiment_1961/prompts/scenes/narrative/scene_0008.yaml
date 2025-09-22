@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Maximum Voltage Administration and Complete Obedience"
+  setting:
+    time: "1961, evening"
+    location: "Control room with shock generator machine, Yale University laboratory"
+    weather: "Indoor laboratory environment"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, average build, anxious expression, increasingly distressed"
+      clothing: "1960s business casual attire, dress shirt with rolled sleeves, dark trousers"
+      position: "Seated at shock generator, increasingly tense body language, leaning forward"
+      action: "Activating the highest voltage switches marked with extreme danger warnings despite visible moral anguish"
+    - appearance: "Caucasian man, 30s, stern facial expression, authoritative bearing, clean-shaven"
+      clothing: "Gray laboratory coat over dark suit, white shirt, professional appearance"
+      position: "Upright, commanding presence, often standing behind or beside shock generator"
+      action: "Recording final data points while maintaining authoritative supervision through experiment completion"
+  scene:
+    mainElements: "Tense, clinical environment with imposing scientific equipment and harsh lighting. Climactic moment showing complete authority compliance despite moral resistance."
+    details: "Large metal console with 30 horizontal lever switches, voltage markings from 15 to 450 volts, warning labels including 'Danger: Severe Shock' and 'XXX', professional industrial appearance. Participant's hand trembling as it reaches maximum voltage levels. Complete silence from adjacent room creating ominous atmosphere of apparent unconsciousness."
+    background: "Tense, clinical environment with imposing scientific equipment and harsh lighting"
+    atmosphere: "Climactic psychological moment demonstrating complete submission to scientific authority despite profound moral conflict. Clinical environment emphasizes triumph of institutional legitimacy over personal conscience."
+  composition:
+    cameraAngle: "Dramatic close-up emphasizing maximum voltage activation"
+    focus: "Large metal console with 30 horizontal lever switches, voltage markings from 15 to 450 volts, warning labels including 'Danger: Severe Shock' and 'XXX', professional industrial appearance"
+    depth: "Foreground shows maximum voltage switches being activated, middle ground captures participant's moral anguish, background emphasizes experimenter's scientific authority, no text or letters visible"

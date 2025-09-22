@@ -1,0 +1,77 @@
+canon:
+  characters:
+    - id: "character_ML"
+      name: "Character ML"
+      description_block: |
+        characters:
+          - appearance: "French man, 30s, medium build, distinctive intense dark eyes, average height, concentrated expression when eating unusual objects"
+            clothing: "Simple 1970s casual wear - button-down shirts, dark trousers, sometimes white lab coat during medical examinations"
+            posture: "Deliberate and methodical movements, often seen carefully examining objects before consumption, confident but focused demeanor"
+    - id: "character_MD"
+      name: "Medical Doctor"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged medical professional, white coat, serious expression, holding medical instruments or clipboard"
+            clothing: "White medical coat over formal shirt and tie, sometimes surgical gloves"
+            posture: "Professional stance, often observing or documenting, thoughtful and scientific approach"
+    - id: "character_AU"
+      name: "Audience Member"
+      description_block: |
+        characters:
+          - appearance: "Various ages and appearances, expressions of amazement, curiosity, and disbelief"
+            clothing: "1970s-1980s casual and formal wear depending on venue"
+            posture: "Leaning forward with interest, some covering mouths in shock, pointing and whispering to others"
+  locations:
+    - id: "medical_examination_room"
+      name: "Medical Examination Room"
+      description_block: |
+        setting:
+          location: "Clinical examination room with medical equipment, examination table, charts on walls"
+        mainElements: "Sterile white walls, medical examination table with leather padding, metal medical instruments on rolling cart"
+        atmosphere: "Clinical, bright fluorescent lighting, sterile and professional environment"
+    - id: "performance_stage"
+      name: "Performance Stage"
+      description_block: |
+        setting:
+          location: "Small entertainment venue stage with audience seating, spotlight illumination"
+        mainElements: "Raised wooden platform, microphone stand, table with metal objects displayed, audience chairs"
+        atmosphere: "Intimate performance setting, warm stage lighting, anticipatory crowd energy"
+    - id: "workshop_preparation_area"
+      name: "Workshop Preparation Area"
+      description_block: |
+        setting:
+          location: "Industrial workshop space with metal cutting tools and workbenches"
+        mainElements: "Heavy wooden workbench, electric power saw, metal cutting tools, safety equipment"
+        atmosphere: "Industrial setting with metal shavings, sound of cutting tools, focused work environment"
+    - id: "airplane_hangar"
+      name: "Aircraft Hangar"
+      description_block: |
+        setting:
+          location: "Large aircraft hangar containing disassembled Cessna 150 aircraft"
+        mainElements: "Concrete floor, high ceiling with metal beams, aircraft parts arranged on tables and floor"
+        atmosphere: "Spacious industrial environment, echoing sounds, organized chaos of airplane components"
+  items:
+    - id: "cessna_150_aircraft"
+      name: "Cessna 150 Aircraft"
+      description_block: |
+        details: "Small single-engine aircraft, white and blue paint scheme, partially disassembled into components - wings, fuselage sections, engine parts, landing gear"
+    - id: "metal_cutting_tools"
+      name: "Metal Cutting Tools"
+      description_block: |
+        details: "Electric power saw with metal cutting blade, various hand tools for disassembly, safety goggles and gloves"
+    - id: "prepared_metal_pieces"
+      name: "Prepared Metal Pieces"
+      description_block: |
+        details: "Small bite-sized pieces of aircraft metal, carefully cut and prepared, arranged on plates or in containers"
+    - id: "mineral_oil_bottle"
+      name: "Mineral Oil Bottle"
+      description_block: |
+        details: "Clear glass bottle containing mineral oil, used as lubricant for swallowing metal pieces"
+    - id: "medical_equipment"
+      name: "Medical Equipment"
+      description_block: |
+        details: "X-ray machine, stethoscope, medical chart clipboard, stomach examination tools"
+    - id: "guinness_certificate"
+      name: "Record Certificate"
+      description_block: |
+        details: "Official document recognizing unusual eating achievements, formal presentation format"

@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1975, afternoon
+    location: US Senate Committee hearing room, Russell Senate Office Building, Washington DC
+    weather: Clear day, indoor setting
+  characters:
+  - appearance: Caucasian man, 60s, tall, dignified bearing, silver-gray hair, serious expression, weathered face
+    clothing: 1975 dark blue business suit with white dress shirt and conservative tie
+    position: Seated at elevated committee chairman position
+    action: Presiding over hearing while reviewing documents and questioning witnesses
+  - appearance: Caucasian man, 40s-60s, formal bearing, gray or dark hair, serious expression
+    clothing: 1975 business suit with white shirt and conservative tie
+    position: Seated at witness table facing committee
+    action: Answering questions while consulting prepared statements and documents
+  - appearance: Various individuals, 30s-60s, formal government bearing, serious expressions
+    clothing: 1970s business suits, formal congressional attire
+    position: Seated at curved committee desk and in gallery seating
+    action: Listening intently, taking notes, and following hearing proceedings
+  scene:
+    mainElements: Curved wooden committee desk elevated on platform, witness table below, rows of gallery seating, American
+      flag, formal government architecture
+    details: Committee hearing room with mahogany paneling and formal government decor. Microphones at witness table and committee
+      positions. Photographers and press gallery visible. Stacks of documents and evidence materials on tables. Gallery filled
+      with observers and media representatives. Overhead lighting creating dramatic atmosphere.
+    background: Formal congressional architecture with marble columns, government seals, and institutional corridors visible
+      through open doors
+    atmosphere: Formal, tense, historically significant governmental proceeding with dramatic lighting and sense of major
+      constitutional investigation, no text or letters visible
+  composition:
+    cameraAngle: Wide angle from press gallery
+    focus: Congressional committee questioning witness about CIA activities
+    depth: Committee members in foreground, witness at table in middle ground, formal government architecture in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,12 @@
+media_info:
+  title: Monte Carlo 26 Consecutive Blacks - August 18, 1913
+  year: 1913
+  genre: Probability & Mathematics Documentary
+  description: Roulette ball lands on black 26 times in a row, causing gamblers to lose fortunes betting on red
+  target_audience: General public, students, mathematics enthusiasts, gambling psychology buffs
+  duration: ~3 minutes
+  objective: Recreate the legendary casino event that demonstrated the gambler's fallacy and probability theory
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

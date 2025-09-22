@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Car Experiencing Power Loss Approaching Church Stowe"
+  setting:
+    time: "November 22, 1978, 5:24 PM, evening darkness increasing"
+    location: "Small rural English village in Northamptonshire, traditional stone buildings"
+    weather: "Clear November evening, cool air, darkness settling"
+  characters:
+    - appearance: "50-year-old Caucasian woman, medium build, professional demeanor, well-groomed with typical late 1970s styling"
+      clothing: "Professional work attire - wool coat over business dress, sensible shoes, appropriate for November evening"
+      position: "Inside stalled car on village approach road, leaning forward over steering wheel"
+      action: "Turning ignition key repeatedly, expression showing confusion and concern as recently serviced car cuts out"
+  scene:
+    mainElements: "Historic church, scattered houses, narrow lanes, agricultural surroundings, domestic lighting beginning to appear in windows"
+    details: "Late 1970s British car stalled on narrow village approach road, engine hood slightly raised suggesting mechanical trouble, dashboard lights flickering, driver attempting restart, traditional English stone cottages with warm lights in windows, village church spire visible against darkening sky"
+    background: "Church Stowe village extending into peaceful rural surroundings, agricultural fields, scattered farm buildings with early evening lights"
+    atmosphere: "Growing anxiety as reliable car mysteriously fails, peaceful village evening contrasting with driver's mounting concern, sense of isolation on quiet country road, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot through driver side window showing character and stalled vehicle"
+    focus: "Frustrated driver attempting to restart her mysteriously failing car"
+    depth: "Car interior and driver in foreground, village road and houses in middle ground, church spire and countryside in background"

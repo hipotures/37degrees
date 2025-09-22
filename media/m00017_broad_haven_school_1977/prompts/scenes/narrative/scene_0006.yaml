@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Drawing the Truth - Children Create Evidence Under Exam Conditions"
+  setting:
+    time: "February 4, 1977, 3:45 PM"
+    location: "1970s primary school classroom with large windows overlooking playground and field, Broad Haven Primary School"
+    weather: "Afternoon light streaming through classroom windows"
+  characters:
+    - appearance: "Small-framed 10-year-old boy, brown hair, typical 1970s schoolboy appearance, earnest expression"
+      clothing: "1970s school uniform - grey shorts, white shirt, school jumper, black shoes"
+      position: "Seated at wooden desk with paper and pencil"
+      action: "Concentrating intensely on drawing, brow furrowed in concentration"
+    - appearance: "10-year-old boy, confident bearing reflecting military family background"
+      clothing: "Standard school uniform of grey shorts, white shirt, school jumper"
+      position: "At separate desk several feet away from other children"
+      action: "Drawing carefully with pencil, occasionally glancing up in thought"
+    - appearance: "Middle-aged man in his 40s, traditional headmaster appearance, formal bearing"
+      clothing: "1970s formal attire - dark suit, tie, polished shoes befitting school administrator"
+      position: "Standing at front of classroom supervising"
+      action: "Watching children work, ensuring no communication between them"
+  scene:
+    mainElements: "Wooden desks arranged in rows, blackboard, educational posters, large windows, teacher's desk"
+    details: "14 separate drawings on paper created under exam conditions, showing remarkable consistency, all depicting saucer-shaped craft with dome on top, variations in artistic ability but consistent core elements. Children separated at individual desks to prevent collaboration. Afternoon light streaming through tall windows. Pencils scratching on paper the only sound in the normally lively classroom."
+    background: "Traditional 1970s classroom environment, natural lighting from windows, educational posters on walls, view of playground and field visible through windows"
+    atmosphere: "Serious, methodical atmosphere of examination conditions, children's genuine concentration on accurately depicting their shared experience, tension between extraordinary claims and mundane classroom setting, no text or letters visible"
+  composition:
+    cameraAngle: "Elevated shot from back of classroom showing separated children working"
+    focus: "Children's intense concentration on their drawings, emphasizing the seriousness with which they approach the task"
+    depth: "Foreground: headmaster supervising, middle ground: children at desks drawing, background: classroom windows showing field where sighting occurred"

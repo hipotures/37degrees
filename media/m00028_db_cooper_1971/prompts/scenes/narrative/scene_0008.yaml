@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Hijacker prepares for jump into stormy Pacific Northwest night"
+  setting:
+    time: "November 24, 1971, 8:00 PM"
+    location: "Aft section of Boeing 727 Flight 305, flying at low altitude over southwestern Washington"
+    weather: "Severe Pacific Northwest storm with heavy rain and high winds"
+  characters:
+    - appearance: "White man, mid-40s, 6 feet tall, 180 pounds, olive complexion with Latin appearance, dark hair with marcel waves, brown eyes"
+      clothing: "Black business suit with military surplus Navy backpack parachute strapped on, money bag tied to waist, has removed clip-on tie"
+      position: "Standing at aft stairs mechanism preparing to lower rear exit"
+      action: "Putting on parachute harness and securing money bag while asking flight attendant about stair operation"
+    - appearance: "Young woman, flight attendant"
+      clothing: "Northwest Orient flight attendant uniform - navy blue dress with white collar and cuffs"
+      position: "Standing near aft galley area"
+      action: "Demonstrating aft stair lowering mechanism while maintaining professional composure despite extraordinary circumstances"
+  scene:
+    mainElements: "Boeing 727 aft section with stairs mechanism visible, parachute harness and money bag secured to man, aircraft interior lighting contrasting with dark storm outside"
+    details: "Canvas bag with $200,000 tied securely to man's waist, military parachute properly fitted, aft stairs control mechanism ready for operation, aircraft windows showing complete darkness and rain streaks"
+    background: "Aircraft cabin interior with empty seats, galley equipment, windows revealing stormy night with no ground visibility, aircraft vibration from turbulent weather conditions"
+    atmosphere: "Final preparation phase with storm intensity visible through aircraft movement, professional crew assistance with unprecedented situation, mounting tension before historic jump, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot focusing on man's preparation and aft stair mechanism"
+    focus: "Man's methodical final preparations contrasted with severe weather conditions outside"
+    depth: "Foreground shows man with parachute and money, middle ground displays flight attendant assistance, background reveals storm conditions through aircraft windows"

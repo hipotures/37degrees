@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1905, late afternoon
+    location: University of Bern lecture hall, Switzerland
+    weather: Overcast sky visible through Gothic windows
+  characters:
+  - appearance: Caucasian man, 26 years old, dark curly hair, intense brown eyes, prominent mustache
+    clothing: 1905 dark wool suit with vest, white dress shirt, black bow tie, pocket watch chain
+    position: Standing behind wooden lectern at front of hall
+    action: Gesturing toward two young men, explaining scientific concepts with animated hand movements
+  - appearance: Young man, 25 years old, athletic build, short brown hair, clean-shaven, determined expression
+    clothing: 'Early 20th century traveler''s outfit: brown leather jacket, wool pants, sturdy boots, aviator goggles'
+    position: Seated in front row, left side of lecture hall
+    action: Leaning forward attentively, taking notes in leather-bound journal
+  - appearance: Young man, 25 years old, identical to character_T1, athletic build, short brown hair, clean-shaven
+    clothing: 'Early 20th century casual wear: white cotton shirt, dark vest, wool trousers, leather shoes'
+    position: Seated in front row, right side of lecture hall
+    action: Listening intently, occasionally checking pocket watch
+  scene:
+    mainElements: Gothic lecture hall with wooden benches, large blackboard with time calculations, oil painting portraits
+      of scientists on walls
+    details: The blackboard displays velocity and time relationship diagrams. Twin brothers sit identically positioned but
+      dressed differently, highlighting their future different paths. Gothic arched windows filter gray afternoon light. Wooden
+      lectern holds scientific papers and a brass pocket watch. Oil lamps provide warm light against stone walls.
+    background: Stone Gothic architecture with high vaulted ceilings, portrait gallery of famous physicists, leaded glass
+      windows
+    atmosphere: Academic solemnity mixed with the excitement of revolutionary ideas, intellectual gravitas of historical discovery,
+      no text or letters visible
+  composition:
+    cameraAngle: Wide shot from back of lecture hall looking toward front
+    focus: The three figures forming a triangle - lecturer and two identical students
+    depth: Foreground shows empty lecture benches, middle ground captures the three characters, background reveals Gothic
+      architecture
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -4,3 +4,191 @@ book_info:
   author: "Sigmund Freud"
   year: 1899
   genre: "Psychology,Psychoanalysis"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T17:15:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 7
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 9
+    total: 66
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 8.5
+      category: "high"
+
+  themes:
+    universal:
+      - id: "unconscious_discovery"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Freud's revolutionary discovery that unconscious mind actively influences behavior - 95% of decisions made unconsciously confirmed by neuroscience"
+        source: "reality_wisdom"
+      - id: "cocaine_scandals"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Freud addicted to cocaine while writing, caused friend's death through cocaine therapy recommendation"
+        source: "dark_drama"
+      - id: "child_abuse_coverup"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Jeffrey Masson claims Freud concealed evidence of patient sexual abuse, changing seduction theory to fantasy theory"
+        source: "dark_drama"
+      - id: "oedipus_complex_controversy"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Universal infantile sexual desires toward parents - highly controversial but foundational to psychoanalysis"
+        source: "symbols_meanings"
+      - id: "surrealist_influence"
+        type: "FACT"
+        credibility: 0.95
+        content: "Direct influence on Salvador Dalí, André Breton, and surrealist movement - visual art revolution"
+        source: "culture_impact"
+      - id: "writing_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "First scientific autobiographical text, invented new genre combining empirical method with personal introspection"
+        source: "writing_innovation"
+      - id: "digital_age_relevance"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Dream journaling explosion on TikTok (3.2M posts), social media as new unconscious manifestation"
+        source: "youth_digital"
+      - id: "nazi_soviet_bans"
+        type: "FACT"
+        credibility: 0.95
+        content: "Banned by Nazis 1933, completely prohibited in USSR 1930-1990, demonstrates ideological threat"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text of English-speaking psychoanalysis, Standard Edition by James Strachey became definitive"
+        key_editions: ["Standard Edition (Strachey)", "Oxford World's Classics (Crick)", "Penguin Classics"]
+        reception_notes: "Initially censored for obscenity, now canonical in universities across English-speaking world"
+        educational_status: "Core text in psychology, literature, and humanities curricula"
+        local_themes: ["Victorian moral challenge", "Modernist literature influence", "Hollywood psychoanalysis"]
+
+      pl:
+        cultural_impact: "Translated by Robert Reszke 1996, influenced Polish psychiatric tradition through Antoni Kępiński"
+        key_editions: ["KR Publishing House Warsaw 1996", "Robert Reszke translation"]
+        reception_notes: "Tension with Catholic tradition, adapted for post-communist psychological healing"
+        educational_status: "Part of social studies (WOS) curriculum, university psychology programs"
+        local_themes: ["Catholic vs psychoanalytic worldview", "Collectivism vs individualism", "WWII trauma analysis"]
+
+      de:
+        cultural_impact: "Original German text, birthplace of psychoanalysis in German-speaking world"
+        key_editions: ["Franz Deuticke 1899", "Multiple scholarly German editions"]
+        reception_notes: "Homeland of psychoanalysis, strong academic tradition continues"
+        educational_status: "Foundational text in German psychology and philosophy departments"
+        local_themes: ["German Romantic influence", "Philosophical interpretations", "Nazi persecution of psychoanalysis"]
+
+      fr:
+        cultural_impact: "Influenced French psychoanalysis through Lacan, significant in French intellectual culture"
+        key_editions: ["French translations by various scholars", "Lacan-influenced editions"]
+        reception_notes: "Integrated with French structuralism and post-structuralism"
+        educational_status: "Important in French philosophy and psychology education"
+        local_themes: ["Structuralist reinterpretations", "French feminist critiques", "Lacanian analysis"]
+
+      es:
+        cultural_impact: "Influential in Spanish-speaking psychology, particularly in Argentina and Spain"
+        key_editions: ["Multiple Spanish translations", "Argentine psychoanalytic editions"]
+        reception_notes: "Strong tradition in Latin American psychoanalysis"
+        educational_status: "Core text in Hispanic psychology programs"
+        local_themes: ["Latin American adaptation", "Religious culture tensions", "Social liberation themes"]
+
+      pt:
+        cultural_impact: "Significant in Brazilian psychology, adapted for Portuguese-speaking contexts"
+        key_editions: ["Portuguese translations", "Brazilian psychoanalytic editions"]
+        reception_notes: "Influential in Brazilian therapeutic practices"
+        educational_status: "Standard text in Portuguese-language psychology education"
+        local_themes: ["Brazilian cultural adaptations", "Syncretism with local beliefs", "Social therapy applications"]
+
+      ja:
+        cultural_impact: "Influential in Japanese psychology, adapted to collectivist cultural context"
+        key_editions: ["Japanese translations", "Cultural adaptation editions"]
+        reception_notes: "Modified for Japanese family structures and social norms"
+        educational_status: "Part of Japanese psychology and Western philosophy curricula"
+        local_themes: ["Individual vs group psychology", "Eastern meditation vs Western analysis", "Modern Japan identity"]
+
+      ko:
+        cultural_impact: "Growing influence in Korean psychology, particularly post-democratization"
+        key_editions: ["Korean translations", "Academic editions"]
+        reception_notes: "Increasing relevance in modern Korean therapeutic practices"
+        educational_status: "Emerging in Korean university psychology programs"
+        local_themes: ["Confucian family dynamics", "Modern Korean identity crisis", "Cultural therapy approaches"]
+
+      hi:
+        cultural_impact: "Limited but growing influence in Indian psychology, adapted for Hindu cultural context"
+        key_editions: ["Hindi translations", "Cultural adaptation works"]
+        reception_notes: "Integrated with traditional Indian psychological concepts"
+        educational_status: "Specialized academic interest, not mainstream curriculum"
+        local_themes: ["Hindu psychology parallels", "Caste system psychology", "Spiritual vs material unconscious"]
+
+  formats:
+    critical_debate:
+      name: "critical_debate"
+      duration: 15
+      hosts:
+        host_a: "passionate advocate defending the work"
+        host_b: "critical skeptic questioning value"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "opening_positions"
+          lead: "host_a"
+          description: "Freud's revolutionary discovery of unconscious mind actively influencing behavior"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "main_arguments"
+          lead: "host_b"
+          description: "Cocaine addiction scandals and scientific fraud accusations against Freud"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "counterarguments"
+          lead: "host_a"
+          description: "Cultural impact on art, literature, and modern psychology despite controversies"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "contemporary_evidence"
+          lead: "host_b"
+          description: "What neuroscience has confirmed vs debunked in Freudian theory"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "resolution"
+          lead: "host_a"
+          description: "Legacy assessment - cultural monument vs scientific validity"
+      prompts:
+        host_a: "You are {male_name}, passionately defending 'The Interpretation of Dreams'. Address controversies around Freud's cocaine addiction and scientific methods, but argue for the work's revolutionary insights into unconscious mind and lasting cultural impact. Emphasize neuroscientific confirmations and influence on art, literature, and modern psychology."
+        host_b: "You are {female_name}, critically questioning 'The Interpretation of Dreams'. Point out Freud's cocaine addiction while writing, allegations of concealing child abuse evidence, scientific fraud accusations by Jeffrey Masson and Frederick Crews, and debunked theories like penis envy. Maintain respectful but rigorous skepticism about the work's scientific validity."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "discussion of substance abuse in historical context"
+      - "controversial theories about sexuality and child development"
+      - "allegations of scientific misconduct"
+      - "outdated views on gender and sexual orientation"
+    educational_elements:
+      - "History of psychology and psychoanalysis"
+      - "Scientific method and peer review importance"
+      - "Cultural influence of scientific theories"
+      - "Evolution of understanding about unconscious mind"
+      - "Critical thinking about historical scientific claims"
+    production_notes:
+      intro_style: "atmospheric with period-appropriate classical music"
+      transitions: "subtle musical bridges between debate segments"
+      outro_style: "reflective conclusion emphasizing ongoing relevance"
+
+  overall_confidence: 0.87

@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1882, morning
+    location: Uitenhage railway station, Cape Colony, South Africa
+    weather: Bright morning with gentle breeze
+  characters:
+  - appearance: White male, 40s, sturdy build, determined expression, double leg amputee below the knee
+    clothing: 1880s railway uniform - dark blue wool jacket with brass buttons, white shirt, black tie, dark trousers
+    position: Seated in trolley beside railway platform
+    action: Proudly watching as the baboon receives his official uniform and railway appointment
+  - appearance: Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build
+    clothing: Miniature railway signalman uniform - dark blue cap, small brass buttons on vest
+    position: Standing upright on platform, newly dressed in official uniform
+    action: Adjusting his new cap with obvious pride, standing at attention like proper railway employee
+  - appearance: Middle-aged white men, 40s-50s, formal bearing, skeptical expressions
+    clothing: Victorian formal suits - black coats, white shirts, bow ties, top hats, pocket watches
+    position: Standing in official group on platform
+    action: Presenting the baboon with employment papers and observing his professional demeanor
+  scene:
+    mainElements: Victorian-era railway station with stone platform, wooden signal box in background, official railway documentation
+      ceremony
+    details: Custom-made dark blue railway cap and vest with brass buttons sized for baboon, employment paperwork in officials'
+      hands, signal box equipment visible, railway tracks and wooden waiting benches, telegraph wires overhead
+    background: Multiple rail tracks with steam locomotives, passenger cars, colonial buildings of Uitenhage town, rolling
+      South African countryside
+    atmosphere: Formal ceremony marking unprecedented appointment of non-human railway employee, mixture of official protocol
+      and wonderment at unique situation
+  composition:
+    cameraAngle: Medium shot capturing ceremony participants
+    focus: the baboon in his new uniform receiving official recognition while character JW and officials observe
+    depth: 'Foreground: ceremony participants on platform, middle ground: signal box and railway infrastructure, background:
+      trains and town buildings, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

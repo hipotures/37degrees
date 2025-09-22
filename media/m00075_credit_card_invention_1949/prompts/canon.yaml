@@ -1,0 +1,65 @@
+canon:
+  characters:
+    - id: "character_FM"
+      name: "Character FM"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, early 40s, average height, clean-shaven face, dark hair combed back with pomade, serious business expression, thin-rimmed glasses"
+            clothing: "1949 dark navy business suit with white dress shirt, conservative dark tie, polished black leather shoes, gold wristwatch"
+            posture: "Confident businessman posture, shoulders back, often gesturing while speaking or checking pocket watch"
+    - id: "character_RS"
+      name: "Character RS"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, late 30s, slightly taller than average, neatly groomed brown hair, mustache, lawyer appearance, attentive eyes"
+            clothing: "1949 charcoal gray suit with vest, white shirt, striped tie, leather briefcase often at hand, wire-rim spectacles"
+            posture: "Professional legal bearing, often leaning forward when listening, hands clasped when thinking"
+    - id: "character_wife"
+      name: "Character Wife"
+      description_block: |
+        characters:
+          - appearance: "Caucasian woman, late 30s, elegant 1940s styling, brown hair in victory rolls, well-groomed appearance, concerned but composed expression"
+            clothing: "1949 navy blue dress coat with fur collar, matching hat with small veil, leather gloves, black heeled shoes, small handbag"
+            posture: "Graceful 1940s feminine posture, moving with purpose when arriving to help"
+    - id: "waiter_majors"
+      name: "Waiter"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 50s, slightly balding, professional service worker appearance, patient but observant expression"
+            clothing: "White shirt with black bow tie, black vest, white apron, black trousers, polished black shoes"
+            posture: "Attentive service posture, holding order pad or check, standing respectfully beside table"
+  locations:
+    - id: "empire_state_building_exterior"
+      name: "Empire State Building Area"
+      description_block: |
+        setting:
+          location: "Empire State Building and surrounding streets, midtown Manhattan, New York City"
+        mainElements: "Iconic Art Deco skyscraper dominates view, busy sidewalks with businessmen, vintage 1949 automobiles"
+        atmosphere: "Bustling post-war American business district, optimistic energy, urban sophistication"
+    - id: "majors_cabin_grill_interior"
+      name: "Major's Cabin Grill Interior"
+      description_block: |
+        setting:
+          location: "Major's Cabin Grill restaurant interior, 33 West 33rd Street, Manhattan, New York City"
+        mainElements: "Typical 1940s diner with checkered floor, red vinyl booths, chrome fixtures, counter with stools, busy kitchen sounds"
+        atmosphere: "Warm, bustling restaurant atmosphere with clattering plates, conversation buzz, aromatic food smells"
+    - id: "business_office_1949"
+      name: "1949 Business Office"
+      description_block: |
+        setting:
+          location: "Hamilton Credit Corporation office, Empire State Building, Manhattan"
+        mainElements: "Wood-paneled office with large desk, telephone, filing cabinets, window overlooking Manhattan, business documents"
+        atmosphere: "Professional 1940s corporate environment, serious business discussions, post-war economic growth"
+  items:
+    - id: "first_credit_card"
+      name: "Original Diners Club Card"
+      description_block: |
+        details: "Small rectangular cardboard card, approximately 3.5 by 2.5 inches, cream colored with simple black text, 'Diners Club' prominently displayed, member number, no magnetic strip or modern features"
+    - id: "restaurant_check_1949"
+      name: "1949 Restaurant Bill"
+      description_block: |
+        details: "White paper restaurant check with handwritten items and prices in blue ink, total amount clearly visible, typical 1940s diner formatting"
+    - id: "leather_wallet"
+      name: "1940s Leather Wallet"
+      description_block: |
+        details: "Brown leather billfold wallet, well-worn, typical businessman accessory of the era, usually containing cash and business cards"

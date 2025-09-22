@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 100 BCE, afternoon
+    location: Ancient Greek bronze-working workshop, Rhodes or similar Hellenistic city, 1st century BCE
+    weather: Warm Mediterranean afternoon with golden sunlight streaming through workshop openings
+  characters:
+  - appearance: Greek man, 30s, precise hands skilled in metalwork, focused intense eyes
+    clothing: Ancient Greek chiton and himation, leather working apron with bronze-working tools
+    position: Seated at workbench with precision tools and partially completed gears
+    action: Carefully cutting teeth into bronze gear wheel using specialized ancient tools
+  scene:
+    mainElements: Stone workshop with bronze-working furnaces, precision tools, gear-cutting equipment, and astronomical instruments
+    details: Ancient workshop filled with bronze-working tools, measuring instruments, partially completed gear wheels of
+      various sizes, astronomical charts carved on stone tablets. Glowing furnace with bronze ingots, precision cutting tools,
+      compass and measuring devices. Complex gear mechanisms in various stages of completion scattered across stone workbenches.
+    background: Stone walls with carved astronomical symbols, shelves holding bronze artifacts and tools, small windows letting
+      in natural light
+    atmosphere: Industrious ancient technological center with warm firelight and bronze-working activities. Sense of incredible
+      precision and mathematical genius at work.
+  composition:
+    cameraAngle: Medium shot focusing on artisan's detailed work
+    focus: Craftsman's hands precisely cutting gear teeth with ancient tools
+    depth: 'Foreground: detailed gear-cutting work, middle ground: workshop tools and furnace, background: stone workshop
+      walls, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

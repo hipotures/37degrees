@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Accidental Discovery of Life Cycle Reversal"
+  setting:
+    time: "Summer 1988, several weeks later, morning"
+    location: "1980s marine biology research facility, Liguria coast, Italy"
+    weather: "Bright morning light illuminating laboratory workspace"
+  characters:
+    - appearance: "Caucasian man, mid-20s, athletic build, dark blonde hair, intense curious eyes behind wire-rimmed glasses"
+      clothing: "1980s marine biology fieldwork attire: faded navy blue polo shirt, khaki shorts, diving gear when underwater"
+      position: "Leaning close to observation jar with surprised expression, hands pointing"
+      action: "Discovering unexpected polyps in container where adult jellyfish had been, expressing shock and amazement"
+    - appearance: "Mediterranean man, mid-20s, slender build, dark hair, expressive brown eyes, thoughtful demeanor"
+      clothing: "1980s casual academic wear: white cotton shirt, dark slacks, laboratory coat when in lab"
+      position: "Standing beside colleague, peering into the same container"
+      action: "Confirming the observation and reaching for magnifying equipment to examine the phenomena"
+  scene:
+    mainElements: "Laboratory jar containing what appears to be newly formed polyps where adult jellyfish had previously been observed, magnifying equipment positioned for closer examination"
+    details: "Clear glass laboratory jar with metal lid, filled with seawater, containing small marine specimens that have transformed from medusa to polyp stage, professional biological microscope with multiple objective lenses, research notebooks open with previous observations for comparison, additional specimen containers nearby showing normal life cycles for reference"
+    background: "Laboratory benches with organized scientific equipment, natural lighting from coastal windows, other research materials and monitoring equipment visible"
+    atmosphere: "Moment of scientific breakthrough and disbelief as researchers witness something unprecedented in marine biology, revolutionary discovery unfolding in ordinary laboratory setting, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot capturing both researchers' expressions of amazement and the specimen container"
+    focus: "The transformed specimens in the jar and the researchers' reaction to this extraordinary discovery"
+    depth: "Foreground: researchers examining specimen jar, middle: laboratory equipment and observation tools, background: laboratory setting with coastal view through windows"

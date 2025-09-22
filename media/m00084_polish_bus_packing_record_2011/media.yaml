@@ -1,0 +1,12 @@
+media_info:
+  title: Polish Bus Packing Record - 2011
+  year: 2011
+  genre: World Records Documentary
+  description: 229 students fit into Jelcz 121 bus, setting Guinness World Record
+  target_audience: General public, students, record enthusiasts, Polish culture buffs
+  duration: ~3 minutes
+  objective: Recreate the incredible feat of human cooperation and determination for world record glory
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

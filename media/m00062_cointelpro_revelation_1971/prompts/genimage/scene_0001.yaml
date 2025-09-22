@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1968, afternoon
+    location: FBI Headquarters building, federal district, Washington DC
+    weather: Clear autumn day, shadows cast by late afternoon sun
+  characters:
+  - appearance: Caucasian man, 70s, broad face, receding gray hair, intense dark eyes, stern expression
+    clothing: Dark formal suit with vest, white dress shirt, conservative tie
+    position: Seated behind large wooden desk
+    action: Reviewing classified documents with FBI seal, pointing at photographs
+  scene:
+    mainElements: Imposing federal office with mahogany desk, American flag on stand, official government portraits on walls,
+      filing cabinets with combination locks
+    details: Stack of surveillance photographs showing civil rights leaders, manila folders marked with official stamps, brass
+      nameplate on desk, rotary telephone, desk lamp illuminating papers, leather chair with high back
+    background: Wood-paneled walls with framed certificates, large window showing Washington DC skyline, bookshelf with legal
+      volumes
+    atmosphere: Authoritative government environment with formal decor and serious undertones, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from across desk, slightly elevated perspective
+    focus: Character JEH examining surveillance materials on desk surface
+    depth: Foreground shows desk contents, middle ground captures character, background reveals official office setting
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

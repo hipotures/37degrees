@@ -1,0 +1,92 @@
+{
+  "visualization_elements": {
+    "primary_entity": {
+      "name": "The Hat Man",
+      "visual_characteristics": {
+        "height": "6-8 feet tall",
+        "silhouette": "Completely black shadow figure",
+        "hat": "Wide-brimmed fedora or cowboy hat",
+        "clothing": "Long coat or trench coat",
+        "facial_features": "None visible, completely featureless",
+        "eyes": "Sometimes described as glowing red pinpoints",
+        "movement": "Static, standing motionless, occasionally slow movement",
+        "presence": "Emanates malevolent energy, oppressive atmosphere"
+      },
+      "common_poses": [
+        "Standing in bedroom doorway",
+        "Positioned in corner of room",
+        "At foot of bed watching victim",
+        "Beside window or mirror"
+      ]
+    },
+    "environments": {
+      "bedroom_encounter": {
+        "lighting": "Dark with minimal ambient light",
+        "shadows": "Deep, pronounced shadows creating hiding places",
+        "furniture": "Bed, dresser, closet, doorway prominent",
+        "atmosphere": "Oppressive, silent, sense of being watched",
+        "temperature": "Often reported as cold spots"
+      },
+      "sleep_laboratory": {
+        "equipment": "EEG machines, monitoring devices, cameras",
+        "lighting": "Clinical, controlled, observation windows",
+        "atmosphere": "Sterile, scientific, objective",
+        "purpose": "Research and documentation"
+      },
+      "internet_forums": {
+        "visual_style": "Text-based discussions, user avatars",
+        "atmosphere": "Community support, shared experiences",
+        "elements": "Screenshots, testimonials, debate threads"
+      }
+    },
+    "key_scenes": {
+      "typical_encounter": {
+        "setting": "Dark bedroom, 2-4 AM",
+        "victim_state": "Sleep paralysis, unable to move",
+        "entity_position": "Doorway or corner, watching",
+        "emotional_tone": "Terror, helplessness, malevolent presence",
+        "duration": "Minutes that feel like hours"
+      },
+      "forum_discovery": {
+        "setting": "Computer screen, late night browsing",
+        "realization": "Finding others with identical experiences",
+        "emotional_tone": "Relief mixed with fear",
+        "visual": "Screen glow in dark room, text testimonials"
+      },
+      "scientific_study": {
+        "setting": "Sleep laboratory",
+        "process": "EEG monitoring during sleep paralysis",
+        "discovery": "Brain activity patterns during hallucinations",
+        "tone": "Clinical, explanatory, demystifying"
+      }
+    },
+    "symbolic_elements": {
+      "hat": "Wide-brimmed, shadow-casting, concealing identity",
+      "darkness": "Unknown, fear, subconscious mind",
+      "paralysis": "Helplessness, vulnerability, loss of control",
+      "watching": "Being observed, judged, stalked",
+      "internet": "Connection, shared experience, modern folklore"
+    },
+    "color_palette": {
+      "primary": "Deep blacks and dark grays",
+      "secondary": "Pale blues for moonlight and screen glow",
+      "accent": "Red for glowing eyes or emergency lighting",
+      "clinical": "White and sterile blues for laboratory scenes",
+      "warm": "Amber/orange for lamplight and comfort zones"
+    },
+    "visual_progression": {
+      "isolation": "Single person alone with terrifying experience",
+      "connection": "Discovery of shared experiences online",
+      "community": "Formation of support networks and documentation",
+      "research": "Scientific investigation and explanation",
+      "understanding": "Balance between phenomenon and explanation"
+    },
+    "infographic_elements": {
+      "statistics": "20% experience sleep paralysis, 75% have hallucinations",
+      "global_map": "Worldwide reports from all continents",
+      "timeline": "1995-2025 evolution of phenomenon",
+      "brain_diagram": "REM sleep patterns during paralysis",
+      "drug_correlation": "Benadryl abuse connection chart"
+    }
+  }
+}

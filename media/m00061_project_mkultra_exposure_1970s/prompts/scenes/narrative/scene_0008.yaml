@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Senate Committee's Intensive MKUltra Hearings"
+  setting:
+    time: "1977, afternoon"
+    location: "US Senate Committee hearing room, Russell Senate Office Building, Washington DC"
+    weather: "Overcast day, indoor setting"
+  characters:
+    - appearance: "Caucasian man, 40s, stocky build, dark wavy hair, intense eyes, confident demeanor"
+      clothing: "1977 navy blue senatorial suit with striped tie"
+      position: "Seated at elevated committee chairman position"
+      action: "Aggressively questioning witnesses while gesturing with documents and pointing at evidence displays"
+    - appearance: "Caucasian man, 60s, slender build, receding hairline, sharp features, calculating expression"
+      clothing: "CIA director's dark gray suit with white shirt and subdued tie, reading glasses hanging from chain"
+      position: "Seated at witness table facing committee"
+      action: "Answering questions defensively while consulting legal counsel and prepared statements"
+    - appearance: "Various individuals, 40s-60s, formal government and legal bearing, serious expressions"
+      clothing: "1977 business suits, legal attire, press credentials visible"
+      position: "Seated in committee positions and packed gallery seating"
+      action: "Taking intensive notes, operating recording equipment, following heated exchanges"
+  scene:
+    mainElements: "Curved wooden committee desk elevated on platform, witness table below, rows of gallery seating, American flag, formal government architecture"
+    details: "Committee hearing room packed with observers, media, and legal representatives. Evidence displays showing photographs and document excerpts visible on easels. Multiple microphones and recording equipment. Stacks of newly discovered documents on committee table. Intense lighting highlighting confrontational atmosphere. Gallery filled beyond capacity with press and public."
+    background: "Formal congressional architecture with marble columns, government seals, and crowded institutional corridors visible through open doors"
+    atmosphere: "Intense, confrontational, climactic governmental proceeding with dramatic tension and sense of major accountability moment, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle emphasizing drama of confrontation"
+    focus: "Senator aggressively questioning former CIA director about mind control experiments"
+    depth: "Evidence displays in foreground, committee confrontation in middle ground, packed gallery in background"

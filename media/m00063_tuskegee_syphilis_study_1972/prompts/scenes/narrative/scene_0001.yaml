@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Rural Alabama Agricultural Community 1932"
+  setting:
+    time: "1932, morning"
+    location: "Rural farming community in Macon County, Alabama countryside"
+    weather: "Clear spring morning, gentle breeze"
+  characters:
+    - appearance: "African American man, 50s, strong build, concerned expression"
+      clothing: "1950s-1970s work clothes, cotton shirt, suspenders, work boots"
+      position: "Standing in cotton field, hands on farming tool"
+      action: "Working the land, pausing to wipe sweat from brow"
+    - appearance: "African American woman, 40s-50s, worried expression, protective stance"
+      clothing: "1950s-1970s modest dress, apron, simple shoes"
+      position: "Near farmhouse porch, basket in hand"
+      action: "Hanging laundry on line, occasionally glancing toward the field"
+  scene:
+    mainElements: "Cotton fields stretching to horizon, simple wooden farmhouse with front porch, dirt road leading away"
+    details: "Agricultural tools scattered near house, vegetable garden plot, chicken coop, well-worn path between house and fields, wooden fence posts, farm animals in distance"
+    background: "Rolling hills of Alabama countryside, scattered farmhouses, dirt roads connecting rural properties"
+    atmosphere: "Peaceful rural setting, hardworking farming community, sense of isolation from urban centers, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position"
+    focus: "The contrast between human figures and vast agricultural landscape"
+    depth: "Foreground shows working farmer, middle ground has farmhouse and family, background reveals endless rural landscape"

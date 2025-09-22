@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "University Professor's Physics Lecture at Mkwawa School"
+  setting:
+    time: "1966, afternoon"
+    location: "Mkwawa Secondary School assembly hall, Iringa, Tanzania"
+    weather: "Clear afternoon"
+  characters:
+    - appearance: "Caucasian man, 40s, medium build, graying hair, kind eyes behind wire-rimmed glasses"
+      clothing: "1960s academic attire - light colored shirt, dark tie, khaki trousers, leather shoes"
+      position: "Standing at front of hall near blackboard with physics diagrams"
+      action: "Gesturing toward equations while explaining thermodynamics concepts to assembled students"
+    - appearance: "Young African male, 13-17 years old, slender build, curious dark eyes, short dark hair"
+      clothing: "1960s Tanzanian school uniform - white short-sleeved shirt, dark shorts, simple brown leather shoes"
+      position: "Seated in middle rows among other students"
+      action: "Listening intently, leaning forward with focused attention, formulating question in his mind"
+    - appearance: "Group of African teenagers, mixed ages 13-16, various builds and heights"
+      clothing: "1960s Tanzanian school uniforms - white shirts, dark shorts/skirts, simple shoes"
+      position: "Seated in organized rows throughout assembly hall"
+      action: "Paying attention to lecture, some taking notes, others looking impressed by visiting university professor"
+  scene:
+    mainElements: "Larger brick building assembly hall with multiple rows of wooden benches facing front platform"
+    details: "Blackboard displays physics equations and heat transfer diagrams. Visiting professor from University College commands respectful attention from students. Formal lecture setting with students sitting properly in rows. Afternoon light filters through tall windows illuminating educational atmosphere, no text or letters visible"
+    background: "More formal educational environment with brick walls, larger windows, and institutional furniture typical of prestigious secondary school"
+    atmosphere: "Academic formality and respect for higher learning, moment of inspiration as university knowledge reaches secondary students"
+  composition:
+    cameraAngle: "Medium wide shot from side of hall"
+    focus: "Professor at front with one particular student showing intense interest among audience"
+    depth: "Foreground shows rows of attentive students, middle ground captures professor's presentation, background reveals formal hall architecture"

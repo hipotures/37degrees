@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Payment and Compliance - The Beard Tax Token"
+  setting:
+    time: "1705, midday"
+    location: "Grand hall within Moscow Kremlin, ornate Russian palace interior with high vaulted ceilings"
+    weather: "Bright winter sunlight through tall windows"
+  characters:
+    - appearance: "Caucasian man, 40s, round build, thick brown beard, calculating eyes"
+      clothing: "Rich merchant robes with fur trim, ornate belt with coin purse"
+      position: "Standing before official table, reluctantly paying"
+      action: "Placing heavy coins on table while receiving small metal coin or medallion with imperial markings"
+    - appearance: "Caucasian man, early 30s, tall imposing build, clean-shaven face, intense dark eyes, prominent nose"
+      clothing: "European-style navy blue military uniform with gold epaulettes and buttons, or formal Western coat with white cravat"
+      position: "Seated behind official table"
+      action: "Recording payment and handing over small metal coin or medallion with imperial markings"
+  scene:
+    mainElements: "Official wooden table with documents, coins, and small metal coin or medallion with imperial markings"
+    details: "Heavy silver and copper coins stacked on polished wooden table, small metal coin or medallion with imperial markings gleaming in sunlight, official ledger books with quill pens, wax seals and ribbons, ornate inkwell, merchant's heavy coin purse partially emptied, steam from breath in cold palace air"
+    background: "Ornate palace interior with decorated columns and traditional Russian Orthodox icons watching the transaction"
+    atmosphere: "Official bureaucratic process, economic burden of compliance, tension between commercial interests and state authority, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot focusing on the economic transaction"
+    focus: "The exchange of money for the right to keep a beard, symbolized by the token"
+    depth: "Merchant and official at table in foreground, coins and token prominently displayed, palace grandeur in background"

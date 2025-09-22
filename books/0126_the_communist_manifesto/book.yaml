@@ -4,3 +4,182 @@ book_info:
   author: "Karl Marx and Friedrich Engels"
   year: 1848
   genre: "Political theory,Manifesto"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T14:30:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 10
+    contemporary_reception: 9
+    relevance: 10
+    innovation: 10
+    structural_complexity: 5
+    social_roles: 10
+    total: 73
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 9.5
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Banned for 165 years in various countries including Nazi Germany and Franco's Spain due to revolutionary content"
+        source: "dark_drama"
+      - id: "symbols_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Dialectical materialism as narrative engine with specter metaphor establishing powerful spiritual framework"
+        source: "symbols_meanings"
+      - id: "culture_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Over 100 cultural adaptations including films, theater, manga, and socialist realism movement"
+        source: "culture_impact"
+      - id: "youth_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "4 million TikTok posts with #KarlMarxismyDaddy trend and viral Gen Z memes in 2024-2025"
+        source: "youth_digital"
+      - id: "reality_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Accurately predicted globalization and automation 160 years before they occurred"
+        source: "reality_wisdom"
+      - id: "innovation_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created the modern manifesto genre influencing all subsequent political and artistic manifestos"
+        source: "writing_innovation"
+      - id: "facts_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "First international workers' organization document establishing global class struggle framework"
+        source: "facts_history"
+      - id: "content_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "High risk content including revolutionary calls and historical antisemitic statements requiring age restriction"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western academic curriculum, ranked 4th most assigned text in universities"
+        key_editions: ["Penguin Classics by Gareth Stedman Jones", "Norton Critical Edition", "Oxford World's Classics"]
+        reception_notes: "Strong Cold War era scrutiny but now standard academic text"
+        educational_status: "Required reading in political science programs"
+        local_themes: ["Cold War discourse", "Academic institutionalization", "Popular culture memes"]
+
+      pl:
+        cultural_impact: "Special significance due to Engels' Polish preface emphasizing independence struggle"
+        key_editions: ["Książka i Wiedza PRL editions", "Jirafa Roja 2006 edition"]
+        reception_notes: "From required PRL reading to critical historical analysis"
+        educational_status: "Historical document in contemporary curriculum"
+        local_themes: ["Post-communist reinterpretation", "Historical irony", "National liberation context"]
+
+      de:
+        cultural_impact: "Birthplace of ideas with extensive Frankfurt School development"
+        key_editions: ["Reclam Verlag", "Fischer with Žižek commentary", "Suhrkamp collections"]
+        reception_notes: "Deep philosophical engagement through critical theory tradition"
+        educational_status: "Core text in philosophy and sociology programs"
+        local_themes: ["Critical theory development", "Historical materialism", "Dialectical tradition"]
+
+      fr:
+        cultural_impact: "Integrated into Baccalauréat philosophy curriculum alongside Kant and Rousseau"
+        key_editions: ["Gallimard Pléiade", "Éditions Sociales critical edition"]
+        reception_notes: "May 1968 intellectual foundation with Situationist influence"
+        educational_status: "Official philosophy program for Terminale students"
+        local_themes: ["May 68 revolution", "Situationist reinterpretation", "Intellectual tradition"]
+
+      es:
+        cultural_impact: "Influenced liberation movements across Latin America from early translations"
+        key_editions: ["Primera traducción 1872 Madrid", "Multiple Latin American publishers"]
+        reception_notes: "Revolutionary movements and educational integration"
+        educational_status: "University political theory programs"
+        local_themes: ["National liberation", "Revolutionary movements", "Post-colonial analysis"]
+
+      pt:
+        cultural_impact: "First Brazilian translation 1923 coinciding with Communist Party development"
+        key_editions: ["Boitempo Editorial", "Edições Avante! Portugal"]
+        reception_notes: "Resistance during Estado Novo periods, democratic revival"
+        educational_status: "Political science and history curriculum"
+        local_themes: ["Anti-dictatorship resistance", "Labor movement", "Democratic transition"]
+
+      ja:
+        cultural_impact: "First translation 1904, intense censorship until post-war academic integration"
+        key_editions: ["Manga de Dokuha series", "University of Tokyo editions"]
+        reception_notes: "Visual novel adaptations and manga culture integration"
+        educational_status: "Marxian economics in leading universities"
+        local_themes: ["Proletarian literature movement", "Manga adaptations", "Academic Marxism"]
+
+      ko:
+        cultural_impact: "Three simultaneous translations 1921, banned until democratization"
+        key_editions: ["Bilingual Korean-English editions", "Academic translations"]
+        reception_notes: "Student movement influence in 1980s democratization"
+        educational_status: "Political science programs post-democratization"
+        local_themes: ["Democratization movements", "Student activism", "National Security Law history"]
+
+      hi:
+        cultural_impact: "Independence movement influence with Communist Party formation 1925"
+        key_editions: ["Multiple Indian language translations", "Progress Publishers Hindi"]
+        reception_notes: "Integration with anti-colonial struggle and caste analysis"
+        educational_status: "NCERT curriculum and university programs"
+        local_themes: ["Anti-colonial synthesis", "Caste and class analysis", "Regional communist movements"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-02:48"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "1848 revolutionary context and working class conditions that birthed the Manifesto"
+        - segment: 2
+          time_range: "02:48-05:36"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Class struggle analysis and bourgeoisie vs proletariat framework"
+        - segment: 3
+          time_range: "05:36-08:24"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Modern applications from Gen Z capitalism critique to global movements"
+        - segment: 4
+          time_range: "08:24-11:12"
+          topic: "social_movements"
+          lead: "host_b"
+          description: "Influence on liberation movements, labor organizing, and social justice"
+        - segment: 5
+          time_range: "11:12-14:00"
+          topic: "future_implications"
+          lead: "host_a"
+          description: "Contemporary relevance and continued influence on social analysis"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'The Communist Manifesto' through lens of power, gender, class. Historical context: 1848 revolutionary period with industrial transformation and mass movements."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates, modern interpretations, Gen Z discourse on capitalism and social media activism."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "revolutionary content", "antisemitic content discussion", "political controversy"]
+    educational_elements: ["Political theory foundations", "Historical materialism", "Class struggle analysis", "19th century European context"]
+    production_notes:
+      intro_style: "revolutionary dramatic opening with specter metaphor"
+      transitions: "dialectical progression between segments"
+      outro_style: "rallying call with international solidarity theme"
+
+  overall_confidence: 0.94

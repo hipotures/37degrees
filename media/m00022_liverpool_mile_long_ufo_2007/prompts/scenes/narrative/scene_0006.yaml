@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Detailed Observation - Family with Binoculars"
+  setting:
+    time: "July 25, 2007, evening"
+    location: "Anfield residential area, Liverpool, Merseyside, England"
+    weather: "Clear summer evening, excellent visibility for observation"
+  characters:
+    - appearance: "British man, middle-aged, civilian witness, alert expression, local Liverpool resident"
+      clothing: "Summer casual clothing 2007, polo shirt or t-shirt, comfortable trousers"
+      position: "Standing in garden, holding binoculars up to eyes, focused on sky"
+      action: "Adjusting binocular focus to get clearer view of aerial object, making detailed observations"
+    - appearance: "British woman, adult, family member, attentive expression, concerned demeanor"
+      clothing: "Summer casual dress or blouse and skirt, 2007 fashion, comfortable outdoor attire"
+      position: "Standing beside husband, waiting for turn with binoculars"
+      action: "Listening to husband's descriptions, gesturing toward sky object, preparing to take binoculars"
+    - appearance: "Elderly British woman, 60s-70s, grandmother figure, wise expression"
+      clothing: "Conservative summer dress, cardigan, sensible shoes, handbag"
+      position: "Standing steady, hand raised to forehead as visor, squinting at sky"
+      action: "Observing with naked eye, nodding in agreement with detailed descriptions from binoculars"
+  scene:
+    mainElements: "Family group in front garden conducting detailed observation of sky object, binoculars being passed between family members for closer examination"
+    details: "Standard civilian binoculars with black plastic housing and neck strap, family taking turns for detailed viewing, notebook or paper visible for recording observations, garden gate open for better viewing angle, neighbor houses with other residents beginning to emerge and look skyward, street lighting starting to illuminate area"
+    background: "Victorian terraced houses on both sides of street, other neighbors visible in doorways and gardens, Anfield stadium visible in distance, Liverpool urban skyline beyond"
+    atmosphere: "Serious detailed investigation by civilian witnesses, methodical observation and documentation, growing neighborhood awareness and interest, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up view from slightly below, showing family group with binoculars and their intent observation"
+    focus: "The binoculars and the concentrated expressions of the family members during observation"
+    depth: "Foreground shows family group with observation equipment, middle ground shows garden and house, background shows neighboring properties and distant skyline"

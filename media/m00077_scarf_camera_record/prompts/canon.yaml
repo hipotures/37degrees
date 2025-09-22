@@ -1,0 +1,76 @@
+canon:
+  characters:
+    - id: "character_JL"
+      name: "Character JL"
+      description_block: |
+        characters:
+          - appearance: "Asian male, approximately 40-45 years old, medium build, dark hair, wearing safety glasses"
+            clothing: "White laboratory coat over dark business casual attire, safety goggles when operating laser equipment"
+            position: "Standing at optical equipment or seated at computer workstation"
+            action: "Adjusting optical equipment with precision, monitoring experimental parameters"
+
+    - id: "character_MM"
+      name: "Character MM"
+      description_block: |
+        characters:
+          - appearance: "Male, approximately 30-35 years old, medium height, dark hair, clean-shaven"
+            clothing: "Laboratory attire including white coat, safety glasses, protective equipment when handling lasers"
+            position: "Working alongside optical tables or analyzing data at computer terminals"
+            action: "Taking notes, collaborating closely with equipment setup, monitoring experimental data"
+
+    - id: "character_FL"
+      name: "Character FL"
+      description_block: |
+        characters:
+          - appearance: "Male, approximately 50-55 years old, graying hair, professional appearance"
+            clothing: "Business attire or laboratory coat depending on setting, institutional identification badge"
+            position: "Observing experiments or reviewing results with team"
+            action: "Providing strategic oversight, reviewing experimental data, representing institutional leadership"
+
+  locations:
+    - id: "inrs_laboratory"
+      name: "INRS Ultrafast Optics Laboratory"
+      description_block: |
+        setting:
+          location: "State-of-the-art ultrafast optics laboratory within INRS Énergie Matériaux Télécommunications Research Centre, Montreal area"
+        mainElements: "Optical tables with vibration isolation, laser systems, CCD cameras, coded aperture arrays, computer workstations with multiple monitors"
+        atmosphere: "Controlled environment with precise temperature and humidity, low lighting optimized for optical work, quiet hum of sophisticated equipment"
+
+    - id: "varennes_campus"
+      name: "INRS Varennes Campus"
+      description_block: |
+        setting:
+          location: "Modern research campus in Montérégie region near Montreal, Quebec"
+        mainElements: "Contemporary buildings housing energy and materials research, parking areas, landscaped grounds, institutional signage"
+        atmosphere: "Academic research environment, moderate foot traffic of researchers and students, professional campus setting"
+
+  items:
+    - id: "scarf_camera_system"
+      name: "SCARF Camera System"
+      description_block: |
+        details: "Complex optical system comprising laser sources, coded apertures, CCD camera, approximately table-sized setup utilizing chirped ultrashort laser pulses and static coded aperture with computational imaging algorithms"
+
+    - id: "coded_aperture"
+      name: "Static Coded Aperture Array"
+      description_block: |
+        details: "Precisely manufactured optical mask with specific pattern of transparent and opaque regions, enables spatial encoding of temporal information, remains stationary during imaging process"
+
+    - id: "laser_pulse_system"
+      name: "Chirped Ultrashort Laser Pulse System"
+      description_block: |
+        details: "Femtosecond-duration laser pulse system with wavelength sweep, different wavelengths arrive at different times enabling temporal encoding of ultrafast events"
+
+    - id: "metal_test_sample"
+      name: "Ultrafast Demagnetization Test Sample"
+      description_block: |
+        details: "Small metallic sample with precise composition designed for magnetic property studies, exhibits ultrafast demagnetization when subjected to femtosecond laser pulses"
+
+    - id: "semiconductor_sample"
+      name: "Transient Absorption Semiconductor"
+      description_block: |
+        details: "Semiconductor wafer or chip engineered for optical property studies, demonstrates transient absorption effects when illuminated by ultrafast laser pulses"
+
+    - id: "research_paper"
+      name: "Nature Communications Publication"
+      description_block: |
+        details: "Academic research paper with technical diagrams and experimental data, documenting the world record achievement and scientific validation of SCARF technology"

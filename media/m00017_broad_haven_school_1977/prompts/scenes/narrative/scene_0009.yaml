@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Official Secrets - Ministry of Defence Behind Closed Doors"
+  setting:
+    time: "1977, daytime office hours"
+    location: "Government office building, Ministry of Defence, London"
+    weather: "Indoor government office setting"
+  characters:
+    - appearance: "Middle-aged government officials in formal 1970s business attire"
+      clothing: "Dark suits, white shirts, conservative ties typical of 1970s civil servants"
+      position: "Seated around conference table or standing near filing cabinets"
+      action: "Reviewing documents, discussing reports, examining witness statements and drawings"
+  scene:
+    mainElements: "Official government documents, correspondence, investigation reports released through National Archives, conference table, filing cabinets, government office furniture"
+    details: "Internal memos showing serious behind-scenes investigation despite public dismissal. Stacks of witness statements, copies of children's drawings spread across table. Maps of the Welsh Triangle area with pins marking incident locations. Filing cabinets containing classified documents. Officials in serious discussion, some taking notes, others reviewing photographic evidence and witness testimony."
+    background: "Typical 1970s government office with institutional furniture, fluorescent lighting, portraits of officials on walls, windows overlooking London"
+    atmosphere: "Serious official investigation atmosphere contrasting with public dismissal, tension between official secrecy and public interest, bureaucratic efficiency masking extraordinary subject matter, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot across conference table showing officials reviewing evidence"
+    focus: "Government officials examining witness drawings and reports, emphasizing secret nature of investigation"
+    depth: "Foreground: documents and evidence on table, middle ground: officials in discussion, background: institutional office setting with filing cabinets"

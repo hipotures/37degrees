@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1974, Sunday mid-morning
+    location: Presbyterian church interior, suburban Minnesota, 1970s
+    weather: Bright morning light creating warm atmosphere through stained glass
+  characters:
+  - appearance: Caucasian man, mid 40s, medium build, receding hairline with dark hair, warm expression with gentle eyes,
+      friendly demeanor
+    clothing: Sunday best attire - dark suit with conservative tie, choir robe over his clothing
+    position: Seated in choir section during sermon break
+    action: Looking thoughtfully at his hymnal with loose bookmarks, sudden expression of realization crossing his face, eyes
+      widening with inspiration as he connects his bookmark problem with remembered presentation about weak adhesive
+  - appearance: Mixed group of men and women, ages 30-70, dressed formally for church service
+    clothing: Sunday best attire - men in dark suits, women in conservative dresses, some wearing choir robes over their clothing
+    position: Seated in choir section, some in congregation
+    action: Listening attentively to sermon, unaware of colleague's moment of inspiration
+  scene:
+    mainElements: Traditional wooden pews, stained glass windows, altar area with organ, choir loft with music stands. Traditional
+      church hymnal with worn leather cover, multiple loose paper bookmarks sticking out between pages.
+    details: Peaceful church interior with warm colored light filtering through stained glass, character's face showing gradual
+      transition from mild frustration to sudden enlightenment, hymnal open in his lap with problematic bookmarks, expression
+      of dawning realization as solution becomes clear, other congregation members focused on worship service.
+    background: Church congregation seated in wooden pews, minister at pulpit delivering sermon, altar area with religious
+      symbols, large stained glass windows casting patterns of colored light, traditional church architecture
+    atmosphere: Quiet moment of inspiration during peaceful worship service, sudden mental breakthrough in serene religious
+      environment, contrast between community worship and individual discovery, sense of problem and solution coming together
+      in perfect timing, no text or letters visible
+  composition:
+    cameraAngle: Close-up shot focusing on character's face as realization dawns
+    focus: Character AF's expression transitioning from mild frustration to sudden inspiration and understanding
+    depth: Character's face and hymnal in sharp foreground focus, other choir members slightly blurred in middle ground, church
+      interior and congregation in soft background focus
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

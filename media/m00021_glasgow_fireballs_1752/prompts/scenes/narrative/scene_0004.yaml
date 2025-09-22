@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Glasgow Sky Begins to Change at 4:00 PM"
+  setting:
+    time: "December 11, 1752, exactly 4:00 PM"
+    location: "Glasgow city center, Scotland, December 1752"
+    weather: "Clear winter sky beginning to show unusual atmospheric activity"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Wide view of Glasgow winter sky over the city, showing the moment before the extraordinary celestial phenomenon begins"
+    details: "The December sky above Glasgow shows the first signs of atmospheric disturbance. Grey winter clouds begin to shift and swirl in unusual patterns as if preparing for the remarkable event about to unfold. Cathedral spires and university buildings frame the scene below while the sky itself becomes the focus of attention. The normal winter atmosphere starts to change subtly, setting the stage for the documented fireball that would soon appear from the northeast, no text or letters visible"
+    background: "Glasgow cityscape with cathedral and university buildings silhouetted against the transforming sky"
+    atmosphere: "Anticipatory tension in the winter air, subtle atmospheric changes beginning to manifest"
+  composition:
+    cameraAngle: "Wide sky shot looking upward from city level"
+    focus: "The winter sky itself as it prepares for the extraordinary celestial event"
+    depth: "Foreground shows Glasgow architecture and spires, middle ground captures atmospheric changes, background features the vast December sky beginning its transformation"

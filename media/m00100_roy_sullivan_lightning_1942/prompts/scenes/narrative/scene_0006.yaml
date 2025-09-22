@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Fifth Strike - Outrunning Storm 1973"
+  setting:
+    time: "August 7, 1973, afternoon"
+    location: "Remote area of Shenandoah National Park during patrol"
+    weather: "Approaching thunderstorm with targeted lightning"
+  characters:
+    - appearance: "American man, 61, brawny build resembling Gene Hackman, rugged weathered face, fearful of storms"
+      clothing: "US Park Service uniform with ranger hat, work boots, utility belt, now carrying water can"
+      position: "Fleeing approaching storm cloud on foot"
+      action: "Trying to escape storm cloud but being struck anyway, using water can to extinguish burning hair"
+  scene:
+    mainElements: "Park ranger attempting to outrun approaching storm cloud but being struck by lightning anyway"
+    details: "Ranger running from official park ranger truck toward perceived safety, storm cloud appearing to follow target, Brilliant electrical discharge striking fleeing person despite distance from vehicle, hair catching fire again from lightning strike, Metal water can being used to douse burning hair, repeated pattern of hair fire from electrical contact"
+    background: "Remote Shenandoah wilderness with approaching storm clouds, mountainous park terrain"
+    atmosphere: "Growing paranoia about storm clouds following individual, fifth lightning strike despite deliberate evasion attempts, pattern of extraordinary lightning attraction undeniable, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing futile attempt to escape lightning"
+    focus: "Fifth lightning strike despite evasion efforts"
+    depth: "Fleeing ranger in foreground, pursuing storm cloud in middle ground, Shenandoah wilderness in background"

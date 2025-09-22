@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Afternoon with maximum available daylight, February
+    location: Frozen Indigirka River near Oymyakon village, thick ice surface extending across river
+    weather: Extreme cold at -50°C, clear sky with pale sun low on horizon
+  characters:
+  - appearance: Yakutian man, 40s, weathered face with high cheekbones, dark eyes adapted to snow glare, bronze skin from
+      outdoor work
+    clothing: Traditional reindeer hide parka with fur-lined hood, thick mukluks, woolen mittens, layers of warm undergarments
+    position: Kneeling beside hole cut through thick river ice
+    action: Operating traditional fishing equipment, pulling line from ice hole, checking catch in metal container
+  - appearance: Young Yakutian boy, 8 years old, bright curious eyes, round face typical of children in extreme cold
+    clothing: Small child's winter parka in bright colors, tiny mukluks, woolen hat with ear flaps
+    position: Standing nearby watching fishing process
+    action: Learning traditional ice fishing techniques, carrying small fishing tools, observing adult technique closely
+  scene:
+    mainElements: Circular hole cut through thick river ice, traditional fishing equipment, caught fish in metal container
+    details: Perfectly round hole cut through ice several feet thick, exposing dark river water beneath. Traditional fishing
+      lines and hooks designed for extreme cold conditions. Metal container with several caught fish already frozen solid
+      from air exposure. Hand tools for cutting and maintaining ice hole. Thick ice surface showing depth of winter freeze
+      extending across entire river width.
+    background: Vast frozen river extending to distant banks, snow-covered evergreen forest on both sides, mountains visible
+      on horizon under pale Arctic sky
+    atmosphere: Traditional subsistence activity essential for winter survival, connection between generations in harsh environment
+  composition:
+    cameraAngle: Low angle shot from ice level showing fishing activity
+    focus: Ice fishing hole with person and child engaged in traditional food gathering
+    depth: Fishing activity in foreground, frozen river surface in middle ground, forest and mountains in background, no text
+      or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

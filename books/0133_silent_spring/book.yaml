@@ -4,3 +4,174 @@ book_info:
   author: "Rachel Carson"
   year: 1962
   genre: "Environmental,Nonfiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T15:30:00Z"
+
+  scores:
+    controversy: 10
+    philosophical_depth: 9
+    cultural_phenomenon: 10
+    contemporary_reception: 8
+    relevance: 10
+    innovation: 9
+    structural_complexity: 6
+    social_roles: 10
+    total: 72
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 9.5
+      category: "high"
+
+  themes:
+    universal:
+      - id: "environmental_detective"
+        type: "FACT"
+        credibility: 0.95
+        content: "Carson methodically collected evidence, reviewing hundreds of scientific publications, conducting correspondence with scientists worldwide"
+        source: "facts_history"
+      - id: "chemical_conspiracy"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Chemical industry spent $250,000 campaign to discredit Carson, coordinated attacks by major corporations"
+        source: "dark_drama"
+      - id: "prophetic_warnings"
+        type: "FACT"
+        credibility: 0.95
+        content: "Carson predicted insect resistance, DDT bioaccumulation, long-term health effects - all came true"
+        source: "reality_wisdom"
+      - id: "science_communication"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Created science nonfiction literature genre, combining rigorous research with poetic narrative techniques"
+        source: "writing_innovation"
+      - id: "biblical_symbolism"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Uses apocalyptic and biblical language, comparing pesticides to Egyptian plagues"
+        source: "symbols_meanings"
+      - id: "environmental_movement"
+        type: "FACT"
+        credibility: 0.95
+        content: "Direct link to EPA creation 1970, DDT ban 1972, Earth Day 1970, global environmental consciousness"
+        source: "culture_impact"
+      - id: "digital_activism"
+        type: "FACT"
+        credibility: 0.95
+        content: "12.8M #EcoAnxiety TikTok views, 89.2M #ClimateAnxiety views, BookTok environmental trend"
+        source: "youth_digital"
+      - id: "sexist_attacks"
+        type: "FACT"
+        credibility: 0.95
+        content: "Called 'hysterical woman', 'old maid without children', 'communist', attacks on gender rather than science"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text in English environmental literature"
+        key_editions: ["Penguin Modern Classics", "university curricula"]
+        reception_notes: "Presidential endorsement, Congressional hearings"
+        educational_status: "Required reading in environmental studies"
+        local_themes: ["American environmental consciousness", "Cold War science fears"]
+      pl:
+        cultural_impact: "Influenced Polish environmental movement during communist era"
+        key_editions: ["PIW editions", "school reading materials"]
+        reception_notes: "Available despite Iron Curtain restrictions"
+        educational_status: "Reference point for environmental education"
+        local_themes: ["Post-communist environmental awakening", "Western scientific influence"]
+      de:
+        cultural_impact: "Delayed reception but profound institutional impact"
+        key_editions: ["C.H. Beck publications", "Rachel Carson Center Munich"]
+        reception_notes: "Academic focus, institutionalized through research centers"
+        educational_status: "Foundation of German environmental humanities"
+        local_themes: ["Scientific environmental philosophy", "Green movement inspiration"]
+      fr:
+        cultural_impact: "Immediate translation and intellectual engagement"
+        key_editions: ["Plon (1963)", "Wildproject modern editions"]
+        reception_notes: "Parliamentary debates, scientific journal analysis"
+        educational_status: "Ecocriticism development"
+        local_themes: ["Philosophical environmental thought", "Policy debate catalyst"]
+      es:
+        cultural_impact: "Paradigm shift in Spanish environmental discourse"
+        key_editions: ["Editorial Crítica", "multiple publishers"]
+        reception_notes: "University recognition, educational materials"
+        educational_status: "Foundation text in environmental studies"
+        local_themes: ["Environmental education pioneer", "Scientific communication model"]
+      pt:
+        cultural_impact: "Delayed DDT ban in Brazil (47 years), different reception in Portugal vs Brazil"
+        key_editions: ["Editorial Pórtico (Portugal)", "Brazilian republications"]
+        reception_notes: "Brazilian exam questions, Portuguese academic revival"
+        educational_status: "University entrance exam content"
+        local_themes: ["Agricultural policy critique", "Environmental vs development tensions"]
+      ja:
+        cultural_impact: "Resonated with traditional nature-human harmony concepts"
+        key_editions: ["Shinchosha definitive edition"]
+        reception_notes: "Connected to Buddhist/Shinto environmental stewardship"
+        educational_status: "Environmental studies curriculum"
+        local_themes: ["Nature writing tradition", "Scientific poetry integration"]
+      ko:
+        cultural_impact: "Connected Carson's warnings to Korean War DDT history"
+        key_editions: ["Ecolivres 50th anniversary edition"]
+        reception_notes: "Academic environmental literature development"
+        educational_status: "University environmental studies reading"
+        local_themes: ["War environmental legacy", "Traditional ecological wisdom"]
+      hi:
+        cultural_impact: "Influenced Indian environmental leaders like Anil Agarwal, Sunita Narain"
+        key_editions: ["Available through major publishers"]
+        reception_notes: "Connected to Chipko movement, environmental justice"
+        educational_status: "Environmental studies foundation"
+        local_themes: ["Grassroots environmental resistance", "Women's environmental leadership"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking probing questions about environmental crimes"
+        host_b: "environmental eyewitness describing Carson's discoveries and chemical industry reactions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "1962: One woman vs the chemical industry - setting up the environmental crime scene"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "The evidence: mass bird deaths, cancer clusters, industry cover-ups"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "Breaking: $250k industry campaign to destroy Carson's reputation"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "confrontation"
+          lead: "host_b"
+          description: "The showdown: Carson's Senate testimony while battling cancer"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "impact"
+          lead: "host_a"
+          description: "The verdict: EPA creation, DDT ban, and the environmental movement's birth"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter in 2025 investigating the 1962 environmental scandal around 'Silent Spring'. Ask sharp questions about the chemical industry's campaign against Rachel Carson, probe for details about the cover-up, and help uncover how one woman took on an entire industry. Treat this like a cold case investigation - what evidence did Carson find? How did the industry respond? What really happened during those Congressional hearings?"
+        host_b: "You are {female_name}, an environmental scientist and Carson expert who witnessed the story unfold. Describe the environmental crimes Carson discovered - the mass bird deaths, the cancer links, the industry deception. Paint vivid pictures of the destruction Carson documented and the vicious personal attacks she endured. You're the key witness helping piece together how 'Silent Spring' became the environmental movement's origin story."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["corporate conspiracy themes", "environmental destruction descriptions", "sexist personal attacks on women scientists", "cancer/illness discussion"]
+    educational_elements: ["Environmental science and ecology principles", "Scientific method and evidence evaluation", "Corporate influence and media manipulation", "Women in science history", "Environmental movement origins"]
+    production_notes:
+      intro_style: "investigative documentary style with environmental urgency"
+      transitions: "nature sound bridges contrasting with industrial noise"
+      outro_style: "hopeful environmental call-to-action with bird songs returning"
+
+  overall_confidence: 0.94

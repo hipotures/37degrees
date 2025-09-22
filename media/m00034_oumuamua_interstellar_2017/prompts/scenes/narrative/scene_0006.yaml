@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Harvard Professor Proposes Alien Technology Hypothesis"
+  setting:
+    time: "2018, Harvard University academic office"
+    location: "University office with academic credentials and research materials"
+    weather: "Indoor academic environment"
+  characters:
+    - appearance: "Distinguished male professor in his 60s, gray hair, thoughtful expression, medium height"
+      clothing: "Professional academic attire - dark suits for formal occasions, casual blazers for interviews"
+      position: "At lecture podium or in academic office setting"
+      action: "Presenting theories with confident articulation, willing to challenge scientific orthodoxy"
+  scene:
+    mainElements: "Academic office filled with astronomy journals, computer displays showing orbital calculations, and research papers. Professor presenting controversial hypothesis about artificial light sail technology"
+    details: "Distinguished academic environment with bookshelves, diplomas, and scientific publications. Computer models show object's unusual properties - extreme thinness, high reflectivity, and anomalous acceleration - that the professor argues are consistent with extraterrestrial technology rather than natural phenomena."
+    background: "University office with astronomy posters, telescope models, and academic credentials on walls"
+    atmosphere: "Intellectual boldness mixed with scientific controversy as established researcher challenges conventional thinking, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot of professor in his academic environment"
+    focus: "The confident academic presenting his unconventional theory"
+    depth: "Foreground shows professor, middle ground shows office furnishings, background shows astronomical displays"

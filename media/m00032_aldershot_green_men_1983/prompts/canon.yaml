@@ -1,0 +1,121 @@
+canon:
+  characters:
+    - id: "character_AB"
+      name: "Character AB"
+      description_block: |
+        characters:
+          - appearance: "77-year-old man, medium build, weathered face with military bearing, graying hair, wearing practical fishing attire"
+            clothing: "Dark woolen coat, wellington boots, flat cap, carrying fishing equipment and thermos flask"
+            position: "Seated by canal with fishing rod, or standing near water's edge"
+            action: "Night fishing, drinking tea from thermos, observing surroundings with calm military composure"
+
+    - id: "character_GB1"
+      name: "Character GB1"
+      description_block: |
+        characters:
+          - appearance: "Approximately 4.5 feet tall, humanoid form, proportionate limbs, face obscured by dark visor"
+            clothing: "Pale green coveralls from head to foot, molded appearance with no visible fasteners, matching helmet with dark visor"
+            position: "Standing upright, gesturing with purpose"
+            action: "Communicating in broken English, leading witness toward craft, operating amber scanning light"
+
+    - id: "character_GB2"
+      name: "Character GB2"
+      description_block: |
+        characters:
+          - appearance: "Identical height and build to primary being, same humanoid characteristics, face obscured by dark visor"
+            clothing: "Identical pale green coveralls and helmet with dark visor"
+            position: "Standing beside primary being"
+            action: "Silent observer, gesture-based communication, accompanying primary being"
+
+    - id: "character_MB"
+      name: "Character MB"
+      description_block: |
+        characters:
+          - appearance: "Elderly woman, concerned expression, domestic attire of 1980s"
+            clothing: "Simple house dress, cardigan, representative of working-class wife of the era"
+            position: "Standing in doorway or sitting in modest living room"
+            action: "Listening with concern to husband's account, expressing worry about his shaken state"
+
+    - id: "character_OF"
+      name: "Character OF"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man, professional demeanor, glasses, methodical investigator"
+            clothing: "Smart casual 1980s attire, carrying notepad and recording equipment"
+            position: "Seated across from witness, leaning forward attentively"
+            action: "Taking detailed notes, asking probing questions, conducting thorough investigation"
+
+  locations:
+    - id: "basingstoke_canal_site"
+      name: "Basingstoke Canal Fishing Spot"
+      description_block: |
+        setting:
+          time: "August 12, 1983, early morning darkness (1:30-2:00 AM)"
+          location: "Basingstoke Canal near Government Bridge, Aldershot, Hampshire, England"
+          weather: "Clear night, no precipitation, mild August temperature"
+        mainElements: "Government Bridge overhead, canal banks with fishing spots, military fence lines nearby, tree-lined waterway"
+        details: "Quiet canal towpath with still water reflecting distant lights, fishing equipment scattered on bank, thermos flask and cup, military installations visible in distance, concrete bridge structure above"
+        background: "Aldershot military district lights, dark treeline along canal, distant military barracks, Hampshire countryside"
+        atmosphere: "Peaceful early morning darkness broken by dog's agitation, still water, occasional military aircraft noise, isolated fishing spot near Britain's primary military town"
+
+    - id: "craft_interior"
+      name: "Extraterrestrial Craft Interior"
+      description_block: |
+        setting:
+          time: "August 12, 1983, approximately 1:38-1:45 AM"
+          location: "Interior of disc-shaped craft hovering above Basingstoke Canal towpath"
+          weather: "Interior environment, sealed from outside conditions"
+        mainElements: "Octagonal chamber with low ceiling requiring stooping, entirely black metallic surfaces, amber scanning light apparatus"
+        details: "Seamless molded walls with no visible nuts, bolts, or joints, amber light beam for examination, slight smell of decaying meat, dim lighting except for scanning beam, clinical sterile environment"
+        background: "Curved metallic walls extending into shadows, unknown technological equipment integrated into surfaces"
+        atmosphere: "Alien and clinical environment, efficient examination space, impersonal medical scanning facility"
+
+    - id: "pegasus_avenue_home"
+      name: "Residential Home Interior"
+      description_block: |
+        setting:
+          time: "August 12, 1983, morning after encounter"
+          location: "49 Pegasus Avenue, Aldershot, modest working-class home interior"
+          weather: "Indoor domestic environment"
+        mainElements: "Small front garden visible through window, typical 1980s domestic interior, modest furnishings"
+        details: "Working-class living room with practical furniture, family photographs, tea service, comfortable but simple decor, evidence of military family lifestyle"
+        background: "Residential street visible through windows, neighboring houses, quiet military town neighborhood"
+        atmosphere: "Comfortable domestic environment, sense of community and mutual support, modest but warm family home"
+
+    - id: "aldershot_military_district"
+      name: "Aldershot Military Area"
+      description_block: |
+        setting:
+          time: "1983, various times of day"
+          location: "Aldershot, Hampshire - major British Army garrison town"
+          weather: "Typical English weather conditions"
+        mainElements: "Multiple barracks and training facilities, Parachute Regiment base, Government Bridge connecting areas, military vehicles and personnel"
+        details: "1983 Cold War-era security installations, regular military exercises, helicopter activity, fenced compounds, guard posts, military signage and equipment"
+        background: "Hampshire countryside, residential areas housing military families, training grounds, administrative buildings"
+        atmosphere: "High security military environment, regular helicopter activity, heightened Cold War awareness, home of the British Army"
+
+  items:
+    - id: "extraterrestrial_craft"
+      name: "Disc-shaped Craft"
+      description_block: |
+        details: "40-45 feet diameter, disc-shaped, burnished aluminum exterior, two ski-like landing runners, seamless construction, extending ladder mechanism, no visible propulsion system, silent operation until departure"
+
+    - id: "amber_scanning_light"
+      name: "Medical Examination Light"
+      description_block: |
+        details: "Amber-colored beam apparatus for scanning or medical examination, operated for several minutes to analyze witness's physical condition, integrated into craft's interior systems"
+
+    - id: "thermos_and_cup"
+      name: "Fishing Thermos Equipment"
+      description_block: |
+        details: "Standard metal thermos flask and cup containing tea, went cold during encounter, witness's first action upon return was drinking the cold tea, practical fishing equipment"
+
+    - id: "tiny_the_dog"
+      name: "Fishing Companion Dog"
+      description_block: |
+        details: "Small dog, breed unspecified, fishing companion exhibiting extreme agitation during encounter, whined furiously, first to detect presence of beings, typical loyal pet of elderly fisherman"
+
+    - id: "fishing_equipment"
+      name: "Night Fishing Gear"
+      description_block: |
+        details: "Rod, tackle box, bait, folding chair, practical equipment for night fishing on canal, arranged around fishing spot, typical 1980s angling gear"

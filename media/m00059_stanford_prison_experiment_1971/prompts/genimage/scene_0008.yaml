@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: August 19, 1971, evening
+    location: Stanford University psychology department office, Jordan Hall, California
+    weather: Interior office environment with evening lighting
+  characters:
+  - appearance: Woman, late 20s, dark hair, concerned expression, professional appearance
+    clothing: 1970s professional attire, blouse and skirt, carrying notebook
+    position: Standing across from desk with concerned posture
+    action: Alert and observant, taking notes, showing visible concern for participants
+  - appearance: Caucasian man, late 30s, beard, dark hair, intense gaze, intellectual appearance
+    clothing: 1970s casual academic attire, button-down shirt, dark slacks, sometimes white lab coat
+    position: Sitting behind desk looking defensive
+    action: Authoritative, often standing with clipboard or observing, commanding presence
+  scene:
+    mainElements: Tense confrontation in academic office between external observer raising ethical concerns and defensive
+      researcher protecting experimental methodology
+    details: Professional woman holding notebook with observational notes, academic desk with research papers and experimental
+      documentation scattered across surface, researcher appearing defensive with crossed arms, institutional office furniture,
+      psychological research materials visible, evening lighting through office windows creating dramatic shadows
+    background: Academic office environment with psychology textbooks on shelves, diplomas and certificates on walls, filing
+      cabinets, institutional university lighting, window overlooking campus
+    atmosphere: Ethical confrontation and professional disagreement over experimental boundaries, dramatic evening lighting
+      emphasizing moral conflict, academic authority challenged by external ethical perspective
+  composition:
+    cameraAngle: Medium two-shot showing confrontation across office desk
+    focus: Ethical confrontation between concerned observer and defensive researcher over experimental ethics
+    depth: Foreground shows desk with research materials, middle ground focuses on characters in ethical debate, background
+      reveals academic office environment, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

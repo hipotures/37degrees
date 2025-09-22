@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Teacher Reveals Experiment Truth to Students"
+  setting:
+    time: "April 6, 1968, late afternoon"
+    location: "Third grade classroom, Riceville Community Elementary School, Riceville, Iowa"
+    weather: "Late afternoon spring light, golden hour illumination"
+  characters:
+    - appearance: "Caucasian woman, early 30s, average height, dark brown hair styled in 1960s bouffant, determined expression, warm but authoritative demeanor"
+      clothing: "Late 1960s teacher attire - modest knee-length dress or skirt with blouse, low heels, simple jewelry"
+      position: "Standing at front of classroom or moving between student desks"
+      action: "Teaching, explaining rules, observing student behavior, taking notes"
+    - appearance: "Group of 8-year-old Caucasian children with blue eyes, various heights, mix of boys and girls, expressions ranging from confused to distressed to defiant"
+      clothing: "Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with blouses, some wearing paper collars around necks when designated as inferior"
+      position: "Seated at wooden school desks or standing in designated areas"
+      action: "Following restrictive rules, showing signs of stress or rebellion, interacting cautiously"
+    - appearance: "Group of 8-year-old Caucasian children with brown eyes, various heights, mix of boys and girls, expressions showing confidence when privileged or dejection when discriminated against"
+      clothing: "Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with blouses, some wearing paper collars around necks when designated as inferior"
+      position: "Seated at wooden school desks or standing in privileged areas"
+      action: "Enjoying privileges or enduring restrictions depending on the day, showing learned superiority or inferiority"
+  scene:
+    mainElements: "Rows of wooden school desks with attached chairs, teacher's desk at front, chalkboard with day's lessons, alphabet cards around room"
+    details: "Teacher sits among children in circle formation as brown paper collars are removed and discarded, children's faces show shock, relief, shame, and understanding as the arbitrary nature of the discrimination is revealed, some children embrace while others look embarrassed about their behavior, powerful moment of recognition and emotional release, no text or letters visible"
+    background: "Afternoon sunlight streaming through windows creating warm atmosphere, classroom returning to normal arrangement"
+    atmosphere: "Emotional awakening and relief as children understand the lesson about prejudice and discrimination"
+  composition:
+    cameraAngle: "Close-up intimate shot of circle discussion"
+    focus: "Children's faces showing range of emotions during revelation"
+    depth: "Children's emotional reactions in foreground, discarded collars and teacher in middle ground, warm classroom setting in background"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Nine Years Service - the baboon's Legacy at Uitenhage Station"
+  setting:
+    time: "1890, late afternoon"
+    location: "Uitenhage railway station, Cape Colony, South Africa"
+    weather: "Golden afternoon light with peaceful atmosphere"
+  characters:
+    - appearance: "White male, 40s, sturdy build, determined expression, double leg amputee below the knee"
+      clothing: "1880s railway uniform - dark blue wool jacket with brass buttons, white shirt, black tie, dark trousers"
+      position: "Seated in trolley at station platform edge"
+      action: "Reflecting quietly on years of partnership while watching the baboon at his signal box"
+    - appearance: "Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build, showing signs of age and experience"
+      clothing: "Miniature railway signalman uniform - dark blue cap, small brass buttons on vest"
+      position: "Standing at signal box window, overlooking railway operations"
+      action: "Surveying the railway system he has served perfectly for nine years, showing quiet dignity and professional pride"
+  scene:
+    mainElements: "Victorian-era railway station in full operation, signal box where the baboon has worked without a single error for nine years, bustling railway activity showing the system he helped maintain"
+    details: "Signal box with mechanical levers the baboon has operated flawlessly, multiple trains moving safely through station under his guidance, railway infrastructure he has helped maintain, workers who have accepted him as colleague"
+    background: "Expanded railway system showing growth during the baboon's service years, busy station with increased passenger traffic, colonial town of Uitenhage developed around the railway, South African countryside unchanged"
+    atmosphere: "Contemplative conclusion showing the remarkable achievement of nine years perfect railway service by a baboon, pride in unprecedented accomplishment, sense of historic significance, peaceful routine of successful partnership"
+  composition:
+    cameraAngle: "Wide establishing shot showing the railway system the baboon has served"
+    focus: "the baboon at his signal box overlooking the railway he has operated perfectly, with character JW observing from platform"
+    depth: "Foreground: character JW in trolley, middle ground: the baboon at signal box, background: extensive railway operations and developed station, no text or letters visible"

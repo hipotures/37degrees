@@ -4,3 +4,177 @@ book_info:
   author: "Honoré de Balzac"
   year: 1835
   genre: "Novel,Realism"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T18:45:00"
+
+  scores:
+    controversy: 5.0
+    philosophical_depth: 9.0
+    cultural_phenomenon: 7.0
+    contemporary_reception: 2.0
+    relevance: 9.0
+    innovation: 9.0
+    structural_complexity: 7.0
+    social_roles: 9.0
+    total: 57.0
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 5.8
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Balzac wrote: 'The secret of great fortunes without apparent cause is a forgotten crime' - Thomas Piketty uses Balzac's works to illustrate economic principles, claiming 'we are returning to the patrimonial capitalism outlined in the novel'"
+        source: "dark_drama"
+      - id: "symbols_meanings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "35 key symbolic interpretations and hidden meanings including Pension Vauquer as social microcosm, religious allegories with Goriot as 'Christ of fatherhood,' and monetary symbolism as new deity"
+        source: "symbols_meanings"
+      - id: "culture_impact_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "58 specific examples of cultural impact including multiple film adaptations, TV series, theatrical productions. 'Rastignac' entered French language as term for ambitious social climber"
+        source: "culture_impact"
+      - id: "youth_digital_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "40+ specific connections between novel and contemporary youth digital culture, from TikTok trends about toxic family dynamics to gaming culture's social climbing mechanics"
+        source: "youth_digital"
+      - id: "reality_wisdom_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "Balzac's predictions about wealth concentration and capitalism proved remarkably accurate. Piketty confirms 'inherited wealth is almost as decisive at the beginning of 21st century as it was in Balzac's Père Goriot era'"
+        source: "reality_wisdom"
+      - id: "writing_innovation_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary narrative techniques: first system of recurring characters, omniscient narration, environmental characterization, multi-faceted characters. Henry James called Balzac 'really the father of us all'"
+        source: "writing_innovation"
+      - id: "facts_history_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Written in 40 days in 1834, the novel gave rise to French expression 'Rastignac' and influenced line in 'The Godfather': 'I'll make him an offer he can't refuse' derives from Père Goriot"
+        source: "facts_history"
+      - id: "content_warnings_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Contains discussions about toxic family patterns, financial manipulation, social criticism of capitalism, and morally ambiguous characters. Age classification: 16+ with optional warnings"
+        source: "content_warnings_assessment"
+
+    localized:
+      en:
+        cultural_impact: "Essential text in English-speaking academia. Ellen Marriage's 1895 translation held by 1,306 libraries worldwide. Henry James called Balzac 'really the father of us all' in literary influence"
+        key_editions: ["Norton Critical Edition", "Penguin Classics", "Oxford World's Classics"]
+        reception_notes: "George Saintsbury compared Goriot's daughters to King Lear's Goneril and Regan. Oscar Wilde praised Balzac as 'marvellous combination of artistic temperament with scientific spirit'"
+        educational_status: "Central to university courses on 19th-century realism and French literature"
+        local_themes: ["Urban realism connections to Dickens", "Literary bridge between comic realism and naturalism", "American influence on writers examining urban poverty"]
+
+      pl:
+        cultural_impact: "Deep rooting in Polish literary tradition through Boy-Żeleński's epoch-making translations. Balzac visited Krakow multiple times (1847-1850), described Wawel Cathedral in detail"
+        key_editions: ["Boy-Żeleński translation (1919)", "Gebethner editions", "Greg Publishing House modern editions"]
+        reception_notes: "Boy-Żeleński said: 'I could not live in a society that does not know Balzac. I would have to emigrate.' Co-creator of Green Balloon cabaret in Krakow"
+        educational_status: "Example of French realism in world literature programs, not mandatory reading but widely used"
+        local_themes: ["Influence on Polish positivism", "Connection to Krakow bohemia through Boy-Żeleński", "Educational resources on government platforms"]
+
+      de:
+        cultural_impact: "Significant presence through multiple distinguished translators and academic analysis. Frankfurt School critical theory extensively engaged with Balzac's work"
+        key_editions: ["Reclam Universal-Bibliothek", "Insel Verlag editions", "Klett Sprachen educational series"]
+        reception_notes: "György Lukács regarded Balzac as superior writer to Zola. German critics note 'many interpersonal and social mechanisms the book presents are still in use today'"
+        educational_status: "Core text for French literature studies at Gymnasium level and university curricula"
+        local_themes: ["Hegelian dialectics in social transformation", "Hermeneutic analysis traditions", "Connection to German Bildungsroman studies"]
+
+      fr:
+        cultural_impact: "Foundational position in French literature as cornerstone of realist movement. Originally published in Revue de Paris (1834-1835), central to La Comédie humaine"
+        key_editions: ["Gallimard Folio classique", "Educational editions for lycée curriculum", "Critical scholarly editions"]
+        reception_notes: "Roland Barthes' methodology influenced Père Goriot criticism. Émile Zola declared Balzac 'the father of the naturalist novel.' Academic canonization as essential French realism text"
+        educational_status: "Core text for Baccalauréat preparation, studied in Quatrième level within 'La fiction pour interroger le réel' framework"
+        local_themes: ["Structural and post-structuralist readings", "Environmental determinism pioneering", "Scientific approach to studying society"]
+
+      es:
+        cultural_impact: "Early translation legacy with first Spanish translation in 1838. Multiple editions by major publishers including Planeta, EDAF, and Aguilar as part of La Comedia Humana"
+        key_editions: ["Editorial Alba translation by María Teresa Gallego Urrutia", "Editorial Porrua Mexican editions", "Multiple 19th-century Madrid publishers"]
+        reception_notes: "Carlos Fuentes organized his novels similar to Balzac's Human Comedy structure. Influenced Latin American social realism and boom latinoamericano writers"
+        educational_status: "Included in Bachibac dual Spanish-French baccalaureate program, comparative literature studies in Spanish universities"
+        local_themes: ["Connection to Latin American social realism", "Influence on magical realism development", "Spanish vs Latin American translation preferences"]
+
+      pt:
+        cultural_impact: "Significant influence on Brazilian realism development. Complete 17-volume A Comédia Humana edition (1989-1993) established Balzac in Brazilian literary culture"
+        key_editions: ["Companhia das Letras Penguin edition (2015)", "Editora Globo 17-volume complete works", "L&PM Editores pocket editions"]
+        reception_notes: "Influenced Machado de Assis who 'changed his style and themes after being introduced to Realism.' Term 'balzaquiana' entered Brazilian Portuguese for women over thirty"
+        educational_status: "Integrated into Brazilian literary education as part of understanding realism development and its influence on Brazilian literature"
+        local_themes: ["Brazilian vs European Portuguese translation differences", "Influence on Machado de Assis", "Connection to Brazilian realism tradition"]
+
+      ja:
+        cultural_impact: "Published by prestigious Iwanami Bunko as ゴリオ爺さん (Gorio-jiisan). Part of century-long mission to spread classical literature through affordable paperback format"
+        key_editions: ["Iwanami Bunko two-volume edition", "Takayama Tetsuo translation", "Shinchosha Publishing legacy editions"]
+        reception_notes: "Professor Kaoru Hakata of Sophia University researches Balzac as 'convention-defying genius.' Integration with Japanese aesthetic principles and Buddhist-tinged literary analysis"
+        educational_status: "Standard text in French literature courses across major Japanese universities, part of European literature curriculum"
+        local_themes: ["Meiji period French literature introduction", "Integration of Western realism with Japanese aesthetics", "University French literature department studies"]
+
+      ko:
+        cultural_impact: "Definitive Korean translation by Lee Dong-ryeol (Seoul National University emeritus professor) based on authoritative Gallimard Pléiade edition"
+        key_editions: ["Eul-Yoo Publishing definitive edition (2010)", "Minumsa World Literature Collection (1999)", "Yeolimchaek World Literature series"]
+        reception_notes: "Included in Yonsei University's recommended reading list of 200 essential books. Recognized as one of Somerset Maugham's 'World's 10 Greatest Novels'"
+        educational_status: "Standard text in French literature courses across major universities, part of comparative literature curricula"
+        local_themes: ["Scholarly Korean translation tradition", "University-level French literature studies", "Academic research on spatial studies and Balzac's literary evolution"]
+
+      hi:
+        cultural_impact: "Significant through influence on Indian literary realism development. Themes resonate with Indian family structures and social dynamics through comparative literature studies"
+        key_editions: ["English translations primary access method", "Alliance Française library collections", "Indian university world literature collections"]
+        reception_notes: "Influenced development of social realism in Indian literature. Thematic parallels with Hindu philosophical concepts and traditional dharmic obligations"
+        educational_status: "Appears in comparative literature syllabi across Indian universities, model for social realist writing in creative writing programs"
+        local_themes: ["Influence on Bengali and Hindi literary realism", "Family sacrifice themes parallel to Indian joint family system", "Urban moral decay themes in colonial context"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Balzac's predictions about capitalism and wealth concentration - remarkably accurate for 1835"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Family financial manipulation and toxic relationships as system critique"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Thomas Piketty confirms Balzac's economic observations remain true in 21st century"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "future"
+          lead: "host_b"
+          description: "Modern parallels - social climbing through digital platforms and influencer economy"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'Père Goriot' through lens of power, gender, class. Historical context: 1835. Focus on Balzac's economic predictions and how Thomas Piketty validates them in contemporary analysis."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates, modern interpretations. Discuss how family dynamics, social climbing, and wealth obsession translate to today's digital age and social media culture."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["financial manipulation within families", "toxic family patterns", "historical discussion of social inequality"]
+    educational_elements: ["Realism genre characteristics", "Historical context of 1835 Restoration France", "Literary analysis of social criticism", "Economic theory connections to modern capitalism"]
+    production_notes:
+      intro_style: "Historical setting with focus on economic themes"
+      transitions: "subtle musical bridges between social themes"
+      outro_style: "contemporary relevance emphasis"
+
+  overall_confidence: 0.92

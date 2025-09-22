@@ -1,0 +1,11 @@
+media_info:
+  title: Stanford Marshmallow Test - 1960s
+  genre: Psychology Documentary
+  description: Children's ability to delay gratification at age 4 predicts adult success decades later
+  target_audience: General public, students, psychology enthusiasts, educators
+  duration: ~3 minutes
+  objective: Recreate the groundbreaking experiment that revealed the power of self-control in child development
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

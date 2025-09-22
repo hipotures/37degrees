@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Family Concern and Deteriorating Health"
+  setting:
+    time: "1960s, afternoon"
+    location: "Simple wooden house in rural Macon County, Alabama countryside"
+  characters:
+    - appearance: "African American man, 70s, weathered face, tired eyes, thin frame"
+      clothing: "1970s simple work clothes, worn overalls or flannel shirt, work boots"
+      position: "Sitting in wooden chair on front porch, looking frail"
+      action: "Resting, breathing heavily, hand pressed to chest in discomfort"
+    - appearance: "African American woman, 40s-50s, worried expression, protective stance"
+      clothing: "1950s-1970s modest dress, apron, simple shoes"
+      position: "Standing beside him, hand on his shoulder"
+      action: "Looking concerned, checking on his condition, protective gestures"
+  scene:
+    mainElements: "Simple wooden house in rural Macon County, Alabama countryside"
+    details: "Front porch with wooden steps, basic furniture, agricultural tools nearby, worn wooden rocking chair, small side table, oil lamp, basic household items, vegetable garden visible"
+    background: "Rural Alabama countryside, dirt road, neighboring farmhouses in distance, cotton fields"
+    atmosphere: "Poor but dignified, rural Southern setting, hardworking family environment, growing concern about health, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from front of porch"
+    focus: "The intimate family moment showing care and growing concern"
+    depth: "Foreground shows porch details, middle ground has family interaction, background reveals rural community setting"

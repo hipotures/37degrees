@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Pre-dawn preparation at Kuala Lumpur International Airport"
+  setting:
+    time: "March 8, 2014, early morning before 00:41 MYT"
+    location: "Modern international airport terminal departure gate area at Kuala Lumpur International Airport, Malaysia"
+    weather: "Clear tropical night with mild temperatures"
+  characters:
+    - appearance: "53-year-old Malaysian man of medium build, graying hair, experienced aviator bearing with alert dark eyes"
+      clothing: "Malaysia Airlines pilot uniform with four gold stripes indicating captain rank, white shirt, black tie, captain wings pin"
+      position: "Standing near departure gate reviewing flight documents"
+      action: "Conducting pre-flight briefing with crew, checking weather reports and flight plan documentation"
+    - appearance: "27-year-old young Malaysian aviator, clean-shaven, alert expression with attentive eyes"
+      clothing: "Malaysia Airlines first officer uniform with three gold stripes, completing Boeing 777 transition training"
+      position: "Seated at briefing table beside captain"
+      action: "Listening attentively to flight briefing, taking notes and asking questions about Boeing 777 procedures"
+  scene:
+    mainElements: "Check-in counters with Malaysia Airlines branding, departure gates, passenger seating areas, large windows overlooking aircraft on tarmac"
+    details: "Gate area shows boarding information displays, ground crew preparing aircraft visible through windows, few early passengers waiting in departure lounge with luggage, maintenance crew completing final checks on Boeing 777 aircraft visible on tarmac, flight crew documents spread on table showing route maps and weather reports"
+    background: "Terminal corridor with directional signs, duty-free shops with dim lighting, departure boards showing flight information"
+    atmosphere: "Quiet overnight atmosphere with fluorescent lighting, few passengers preparing for early morning flight departure"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position showing entire gate area"
+    focus: "Flight crew conducting professional pre-flight briefing at center of frame"
+    depth: "Foreground shows crew briefing table, middle ground shows passenger seating area, background shows aircraft on tarmac through large windows, no text or letters visible"

@@ -1,0 +1,12 @@
+media_info:
+  title: Oymyakon Coldest Inhabited Place - 1924
+  year: 1924
+  genre: Climate & Geography Documentary
+  description: Siberian village experiences -712°C while maintaining permanent human habitation
+  target_audience: General public, students, climate enthusiasts, survival buffs
+  duration: ~3 minutes
+  objective: Recreate life in the world's coldest permanently inhabited settlement and human adaptation to extreme cold
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

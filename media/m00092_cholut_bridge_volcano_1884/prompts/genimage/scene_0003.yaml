@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1884, mid-morning
+    location: Volcanic stone quarry near Merapi foothills, Central Java, Indonesia
+    weather: Clear morning with volcanic dust in the air
+  characters:
+  - appearance: Javanese master stonemason, 50s, stocky muscular frame, calloused hands, weathered brown skin, graying black
+      hair
+    clothing: Traditional Javanese work shirt, brown sarong-style work pants, bare feet, bamboo hat for sun protection
+    position: Kneeling beside large volcanic stone blocks testing their strength
+    action: Examining stone blocks with experienced eye, running hands over surfaces to test quality and striking with metal
+      tools
+  - appearance: Dutch engineer, 40s, tall sturdy build, weathered face from tropical climate, brown hair with receding hairline,
+      wire-rim spectacles
+    clothing: White colonial linen shirt with rolled sleeves, brown canvas trousers, leather work boots, pith helmet nearby
+    position: Standing beside stonemason observing selection process
+    action: Taking notes in journal while discussing stone properties and volcanic resistance requirements
+  scene:
+    mainElements: Terraced quarry walls, blocks of volcanic stone, wooden scaffolding, hand tools, ox carts for transport
+    details: Dark volcanic rock samples of various sizes, some polished to show internal structure, metal chisels and hammers,
+      wooden measuring tools, rope and pulley systems for moving stones, collection of rejected stones showing cracks or weakness
+    background: Dusty air filled with stone chips, sounds of chiseling and hammering, industrious working environment, Mount
+      Merapi visible in distance, terraced quarry walls showing layers of volcanic deposits
+    atmosphere: Methodical selection process with focus on quality, understanding of volcanic stone properties gained through
+      generations, collaboration between local expertise and colonial engineering
+  composition:
+    cameraAngle: Medium shot from quarry floor level
+    focus: Stonemason examining volcanic stone blocks with engineer observing
+    depth: Stone blocks and tools in foreground, workers in middle ground, quarry walls and volcanic landscape in background,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

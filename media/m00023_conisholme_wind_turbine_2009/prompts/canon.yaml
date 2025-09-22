@@ -1,0 +1,76 @@
+canon:
+  characters:
+    - id: "character_JH"
+      name: "Character JH"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged local resident, weathered features typical of Lincolnshire farmer, concerned expression"
+            clothing: "Winter coat, practical rural attire suitable for cold January weather"
+            posture: "Earnest and detailed when speaking, pointing toward wind farm, animated gestures"
+    - id: "character_DW"
+      name: "Character DW"
+      description_block: |
+        characters:
+          - appearance: "Elderly woman, approximately 60-70 years old, alert and observant expression"
+            clothing: "Winter driving attire, scarf, glasses for distance vision"
+            posture: "Cautious but certain, frequently glances toward sky"
+    - id: "character_RP"
+      name: "Character RP"
+      description_block: |
+        characters:
+          - appearance: "66 years old, distinguished public official, graying hair, authoritative bearing"
+            clothing: "Professional attire, winter overcoat, suited for early morning travel"
+            posture: "Measured and careful, conscious of official position"
+    - id: "character_DV"
+      name: "Character DV"
+      description_block: |
+        characters:
+          - appearance: "Environmental entrepreneur, early 50s, beard, environmentally-conscious appearance"
+            clothing: "Casual but professional attire, eco-friendly materials, practical jacket"
+            posture: "Open-minded about possibilities, protective but honest about uncertainty"
+    - id: "character_FM"
+      name: "Character FM"
+      description_block: |
+        characters:
+          - appearance: "Insurance industry executive, professional demeanor, technical expertise evident"
+            clothing: "Business suit, confident professional appearance"
+            posture: "Analytical, data-driven explanations, calm under pressure"
+  locations:
+    - id: "conisholme_wind_farm"
+      name: "Conisholme Wind Farm"
+      description_block: |
+        setting:
+          location: "Rural Lincolnshire countryside, flat agricultural landscape, multiple white wind turbines visible across horizon"
+        mainElements: "213-foot tall Enercon turbines, access roads, electrical substations, agricultural fields surrounding"
+        atmosphere: "Cold January morning, frost on grass, clear visibility, mechanical hum from operating turbines"
+    - id: "damaged_turbine_site"
+      name: "Damaged Turbine Location"
+      description_block: |
+        setting:
+          location: "Isolated turbine within Conisholme Wind Farm array, emergency vehicles and investigators present"
+        mainElements: "Turbine with one missing blade, one twisted blade still attached, debris field below, 66-foot blade lying on ground"
+        atmosphere: "Scene of investigation, tape barriers, officials examining wreckage, photographers documenting damage"
+    - id: "saltfleetby_village"
+      name: "Saltfleetby Village"
+      description_block: |
+        setting:
+          location: "Traditional Lincolnshire village, mix of old cottages and modern homes"
+        mainElements: "Character JH's house with upstairs landing window facing wind farm, clear sightlines across flat countryside"
+        atmosphere: "Quiet rural evening, clear January night sky, distant turbine lights visible"
+  items:
+    - id: "severed_turbine_blade"
+      name: "Severed Wind Turbine Blade"
+      description_block: |
+        details: "66 feet (20 meters) long, fiberglass composite construction, white with company markings, clean break at hub connection, lying on ground beneath turbine"
+    - id: "twisted_blade"
+      name: "Twisted Remaining Blade"
+      description_block: |
+        details: "20-meter blade still attached to hub but severely twisted, structural deformation visible, metal fatigue evidence, stress fractures"
+    - id: "failed_bolts"
+      name: "Over-stressed Turbine Bolts"
+      description_block: |
+        details: "High-strength steel bolts connecting blade to hub, showing stress failure patterns, no evidence of external impact"
+    - id: "octopus_light_formation"
+      name: "Tentacled Light Formation"
+      description_block: |
+        details: "Large glowing orange object with extending light tentacles reaching toward ground, orange-yellow coloration, structured appearance unlike conventional aircraft"

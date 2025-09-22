@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Religious Opposition - Orthodox Priest Defends Tradition"
+  setting:
+    time: "1705, afternoon"
+    location: "Interior of Russian Orthodox church with golden iconostasis and religious paintings"
+    weather: "Overcast day, dim natural light"
+  characters:
+    - appearance: "Caucasian man, 60s, tall thin build, long flowing black beard, solemn expression"
+      clothing: "Black Orthodox robes with ornate crosses, tall black hat"
+      position: "Standing before golden altar screen"
+      action: "Blessing his long beard while gazing at religious icons, protective gesture toward traditional beliefs"
+    - appearance: "Caucasian man, 50s, stocky build, full long gray beard, weathered face, dignified bearing"
+      clothing: "Traditional Russian long kaftan in dark colors, fur-trimmed cap or hat"
+      position: "Kneeling before priest"
+      action: "Touching his own beard while seeking spiritual guidance and reassurance"
+  scene:
+    mainElements: "Ornate golden altar screen, religious icons, candles, incense burners"
+    details: "Flickering candlelight creates dancing shadows on golden iconostasis, ornate religious paintings of bearded saints and apostles cover every wall surface, smell of incense fills the air, both men's beards appear sacred in the religious candlelight, wooden prayer benches worn smooth by generations"
+    background: "Golden iconostasis dominates with images of bearded religious figures, emphasizing spiritual significance of facial hair"
+    atmosphere: "Sacred, traditional, representing spiritual resistance to change, deep reverence for old customs, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle emphasizing the sacred space and religious authority"
+    focus: "The priest's flowing beard as symbol of spiritual tradition and resistance"
+    depth: "Priest with magnificent beard in foreground, kneeling believer in middle ground, golden religious icons in background"

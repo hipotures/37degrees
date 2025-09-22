@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Documentation begins for Nature Communications submission"
+  setting:
+    time: "March 2024, 14:00 PM"
+    location: "State-of-the-art ultrafast optics laboratory within INRS Énergie Matériaux Télécommunications Research Centre, Montreal area"
+    weather: "Indoor controlled laboratory environment, independent of external weather"
+  characters:
+    - appearance: "Asian male, approximately 40-45 years old, medium build, dark hair, wearing safety glasses"
+      clothing: "White laboratory coat over dark business casual attire, safety goggles when operating laser equipment"
+      position: "Standing at optical equipment or seated at computer workstation"
+      action: "Adjusting optical equipment with precision, monitoring experimental parameters"
+    - appearance: "Male, approximately 30-35 years old, medium height, dark hair, clean-shaven"
+      clothing: "Laboratory attire including white coat, safety glasses, protective equipment when handling lasers"
+      position: "Working alongside optical tables or analyzing data at computer terminals"
+      action: "Taking notes, collaborating closely with equipment setup, monitoring experimental data"
+    - appearance: "Male, approximately 50-55 years old, graying hair, professional appearance"
+      clothing: "Business attire or laboratory coat depending on setting, institutional identification badge"
+      position: "Observing experiments or reviewing results with team"
+      action: "Providing strategic oversight, reviewing experimental data, representing institutional leadership"
+  scene:
+    mainElements: "Optical tables with vibration isolation, laser systems, CCD cameras, coded aperture arrays, computer workstations with multiple monitors"
+    details: "Research team compiling comprehensive documentation of breakthrough results for scientific publication. Academic research paper with technical diagrams and experimental data, documenting the world record achievement and scientific validation of SCARF technology being prepared on multiple computer workstations. Team members organizing experimental data, creating technical figures, and preparing scientific documentation. Laboratory equipment that achieved the breakthrough serving as backdrop to historic documentation process."
+    background: "Laboratory environment where revolutionary technology was developed, now being formally documented for scientific community"
+    atmosphere: "Controlled environment with precise temperature and humidity, low lighting optimized for optical work, quiet hum of sophisticated equipment"
+  composition:
+    cameraAngle: "Over-shoulder shot focusing on documentation preparation process"
+    focus: "Research team preparing scientific documentation and publication materials for Nature Communications"
+    depth: "Foreground displays computer workstations with scientific documentation in progress, middle ground shows research team collaborating on publication, background features the SCARF system that made history, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Gear Revelation - Complex Mechanism System Revealed"
+  setting:
+    time: "1902, late evening"
+    location: "National Archaeological Museum of Athens, Greece, early 1900s exhibition hall"
+    weather: "Evening lighting with focused lamp illumination on workspace"
+  characters:
+    - appearance: "Greek man, 60s, distinguished beard, academic bearing, thoughtful expression"
+      clothing: "Formal museum director attire of 1902, dark suit with pocket watch chain"
+      position: "Standing over mechanism with amazed expression"
+      action: "Pointing at interconnected gear system with scholarly excitement"
+  scene:
+    mainElements: "Grand neoclassical museum interior with marble columns, display cases, and archaeological artifacts"
+    details: "Research table with mechanism fragments revealing their true complexity. Precision-cut bronze gears of various sizes, largest 13cm diameter with 223 teeth, intricate tooth patterns, green patina from sea corrosion, some with visible Greek inscriptions around edges. Multiple interconnected gear wheels visible, differential gear systems, and astronomical calculation devices. Measuring instruments, documentation, and the growing realization of unprecedented ancient technology."
+    background: "Museum research area with classical Greek artifacts and scholarly atmosphere"
+    atmosphere: "Scholarly academic environment with natural light from tall windows illuminating ancient Greek treasures. Moment of profound scientific revelation and historical importance."
+  composition:
+    cameraAngle: "Close-up shot emphasizing gear complexity and scholar's amazement"
+    focus: "Intricate bronze gear system with interconnected mechanisms"
+    depth: "Foreground: detailed gear mechanisms, middle ground: amazed director, background: museum research setting, no text or letters visible"

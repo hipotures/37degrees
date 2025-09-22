@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: May 8, 1886 noon, bright indoor lighting
+    location: Jacobs' Pharmacy soda fountain area, downtown Atlanta Georgia, 1880s
+  characters:
+  - appearance: Caucasian man, mid-50s, average height, graying beard and mustache, intelligent eyes behind wire-rimmed spectacles,
+      slightly receding hairline
+    clothing: 1880s white pharmacist coat over dark vest and white collared shirt, black trousers, formal boots
+    position: Standing beside soda fountain, watching anxiously
+    action: Observing as his syrup is mixed with carbonated water for first public taste
+  - appearance: Caucasian man, 50s, stocky build, full mustache, practical demeanor, weathered hands from years of work
+    clothing: 1880s vest over white shirt with rolled sleeves, dark apron, work boots
+    position: Behind ornate soda fountain, hands on brass dispensing lever
+    action: Carefully mixing syrup with carbonated water, creating the first glass
+  - appearance: Well-dressed gentleman customer, middle-aged with formal bearing
+    clothing: 1880s dark suit with vest, bowler hat in hand
+    position: Seated on wooden bar stool at fountain counter
+    action: Lifting glass to lips for first taste, expression of pleasant surprise
+  scene:
+    mainElements: Ornate marble soda fountain with brass fixtures, tall glass dispensers, wooden bar stools, shelves of soda
+      glasses
+    details: Gleaming marble soda fountain counter with decorative brass fittings, tall glass filled with dark fizzing liquid
+      creating bubbles and foam, ceramic jug sitting open beside fountain, other customers gathering curiously to watch the
+      tasting, afternoon sunlight streaming through large front windows, shelves lined with clean glass tumblers, wooden bar
+      stools with worn leather seats, no text or letters visible
+    background: Bustling neighborhood pharmacy with social gathering atmosphere, warm gaslight ambiance
+    atmosphere: Historic moment of first public tasting, anticipation and excitement in the air
+  composition:
+    cameraAngle: Wide shot capturing the entire fountain scene with all participants
+    focus: The moment of first taste and the reactions of all present
+    depth: 'Foreground: customer taking first sip, middle: soda fountain and operators, background: curious onlookers and
+      pharmacy interior'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: April 5, 1968, afternoon recess
+    location: Outdoor playground area, Riceville Community Elementary School, Iowa
+    weather: Clear spring afternoon with mild temperatures
+  characters:
+  - appearance: Caucasian woman, early 30s, average height, dark brown hair styled in 1960s bouffant, determined expression,
+      warm but authoritative demeanor
+    clothing: Late 1960s teacher attire - modest knee-length dress or skirt with blouse, low heels, simple jewelry
+    position: Standing at front of classroom or moving between student desks
+    action: Teaching, explaining rules, observing student behavior, taking notes
+  - appearance: Group of 8-year-old Caucasian children with blue eyes, various heights, mix of boys and girls, expressions
+      ranging from confused to distressed to defiant
+    clothing: Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with
+      blouses, some wearing paper collars around necks when designated as inferior
+    position: Seated at wooden school desks or standing in designated areas
+    action: Following restrictive rules, showing signs of stress or rebellion, interacting cautiously
+  - appearance: Group of 8-year-old Caucasian children with brown eyes, various heights, mix of boys and girls, expressions
+      showing confidence when privileged or dejection when discriminated against
+    clothing: Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with
+      blouses, some wearing paper collars around necks when designated as inferior
+    position: Seated at wooden school desks or standing in privileged areas
+    action: Enjoying privileges or enduring restrictions depending on the day, showing learned superiority or inferiority
+  scene:
+    mainElements: Metal jungle gym structure, swing sets, see-saws, sandbox area, open grass field for running
+    details: Blue-eyed children wearing brown collars stand isolated on empty grass area while brown-eyed children freely
+      play on jungle gym and swings, clear physical segregation with blue-eyed children excluded from playground equipment,
+      some brown-eyed children actively enforcing the separation, no text or letters visible
+    background: School building, Iowa farmland beyond playground, other classes visible through windows
+    atmosphere: Usually joyful children's play area, becomes segregated and tense during experiment
+  composition:
+    cameraAngle: Wide establishing shot showing entire playground segregation
+    focus: Physical separation between eye color groups on playground
+    depth: Isolated blue-eyed children in foreground, brown-eyed children enjoying equipment in middle ground, school building
+      and landscape in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

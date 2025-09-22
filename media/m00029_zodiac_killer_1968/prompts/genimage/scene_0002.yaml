@@ -1,0 +1,113 @@
+sceneDescription:
+  setting:
+    time: July 5, 1969, 00:15
+    location: Public park with large parking lot in Vallejo, California, golf course nearby, suburban setting
+    weather: Hot July 4th night, clear
+  characters:
+  - appearance: 22-year-old Caucasian female, brown hair, attractive young woman, 1960s styling
+    clothing: Summer casual wear appropriate for July 4th evening, blouse and pants or light dress
+    position: Slumped in driver's seat of car, grievously wounded
+    action: Mortally wounded, life fading from gunshot injuries
+  - appearance: 19-year-old Caucasian male, dark hair, medium build, bearing visible injuries from gunshot wounds
+    clothing: Summer casual clothing, some bloodstains from attack
+    position: Collapsed partially outside passenger side of car
+    action: Severely wounded but conscious, trying to call for help
+  - appearance: Shadowy male figure, face obscured, medium to large build, threatening presence
+    clothing: Dark clothing, features not clearly visible in darkness
+    position: Standing near car, having just completed attack
+    action: Walking away from scene calmly after shooting both victims
+  scene:
+    mainElements: Car parked in isolated section of park parking lot, two shooting victims inside and beside vehicle, attacker
+      departing scene
+    details: Late 1960s automobile with windows shattered by gunfire, blood visible on seats and pavement, empty parking lot
+      with picnic tables and park facilities in background, minimal lighting from distant street lamps
+    background: Blue Rock Springs Park facilities, golf course in distance, suburban Vallejo neighborhood lights, hot summer
+      night sky
+    atmosphere: Violence and terror, hot summer night disrupted by gunfire, isolation despite suburban setting, sense of calculated
+      evil
+  composition:
+    cameraAngle: Low angle shot emphasizing the victims' vulnerability
+    focus: Wounded victims in and around car, with attacker's retreating silhouette
+    depth: Victims in foreground, departing killer in middle ground, park facilities in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

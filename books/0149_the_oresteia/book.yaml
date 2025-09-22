@@ -4,3 +4,237 @@ book_info:
   author: "Aeschylus"
   year: 458 BC
   genre: "Tragedy,Play"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T16:30:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 10
+    structural_complexity: 9
+    social_roles: 8
+    total: 67
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.5
+      category: "high"
+    heat:
+      value: 7.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "justice_evolution"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Evolution from blood revenge to legal justice - trilogy shows transition from private vendetta to public court system"
+        source: "facts_history"
+      - id: "family_trauma_cycles"
+        type: "FACT"
+        credibility: 0.95
+        content: "Intergenerational trauma transmission - House of Atreus curse passing violence through generations"
+        source: "dark_drama"
+      - id: "democratic_institutions"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Birth of democratic judicial system - Athena establishes first jury trial as alternative to divine justice"
+        source: "symbols_meanings"
+      - id: "gender_power_dynamics"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Patriarchal triumph over matriarchal order - Athena votes against mother's rights, establishing male dominance"
+        source: "dark_drama"
+      - id: "therapeutic_storytelling"
+        type: "HYPOTHESIS"
+        credibility: 0.85
+        content: "Narrative therapy through myth - telling trauma story as path to healing and social transformation"
+        source: "reality_wisdom"
+      - id: "dramatic_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created trilogy structure and second actor - fundamental innovations that established modern drama"
+        source: "writing_innovation"
+      - id: "political_propaganda"
+        type: "DISPUTE"
+        credibility: 0.75
+        content: "Atehenian democratic propaganda - trilogy legitimizes contemporary political reforms through divine sanction"
+        source: "facts_history"
+      - id: "contemporary_resonance"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Gen Z trauma healing - #GenerationalTrauma trends connect ancient cycle-breaking to modern therapy culture"
+        source: "youth_digital"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text in English-speaking education and theater, from National Theatre to university curricula"
+        key_editions:
+          - "Robert Fagles translation (Penguin Classics)"
+          - "Richmond Lattimore translation (Complete Greek Tragedies)"
+          - "Ted Hughes translation (Royal National Theatre)"
+        reception_notes: "Peter Hall's 1981 National Theatre production set canonical standard for English-language performance"
+        educational_status: "Required reading in classics programs at Oxford, Cambridge, Harvard, Yale, Princeton"
+        local_themes:
+          - "Influence on O'Neill's Mourning Becomes Electra"
+          - "RFK quoted Aeschylus after MLK assassination"
+          - "Foundation for English legal drama tradition"
+
+      pl:
+        cultural_impact: "Ancient Greek tragedy foundational to Polish classical education and theatrical tradition"
+        key_editions:
+          - "Stefan Srebrny translation"
+          - "Maciej Słomczyński translation"
+        reception_notes: "National Theater Warsaw production (2012) directed by Maja Kleczewska"
+        educational_status: "Core text in Polish university classics and literature programs"
+        local_themes:
+          - "Post-communist readings of justice evolution"
+          - "Family cycles resonating with Polish historical trauma"
+          - "Democratic institution building parallels"
+
+      de:
+        cultural_impact: "Central to German philosophical and theatrical tradition, especially in Romantic movement interpretation"
+        key_editions:
+          - "Reclam editions for educational use"
+          - "Scholarly critical editions"
+        reception_notes: "Nazi appropriation in 1936 Berlin Olympics as propaganda cautionary tale"
+        educational_status: "Required in German university philosophy and classics programs"
+        local_themes:
+          - "Hegelian dialectical readings of trilogy structure"
+          - "Nietzschean interpretations of tragic wisdom"
+          - "Connection to German legal philosophy tradition"
+
+      fr:
+        cultural_impact: "Influence on French classical theater and existentialist philosophy through Sartre's Les Mouches"
+        key_editions:
+          - "Les Belles Lettres critical editions"
+          - "Gallimard educational editions"
+        reception_notes: "Sartre's 1943 adaptation as resistance allegory during German occupation"
+        educational_status: "Part of French literary canon in universities and lycées"
+        local_themes:
+          - "Existentialist interpretations of choice and responsibility"
+          - "Republican justice ideals in French legal tradition"
+          - "Influence on French tragic theater tradition"
+
+      es:
+        cultural_impact: "Classical reference point in Spanish and Latin American literary education"
+        key_editions:
+          - "Gredos classical series translations"
+          - "Cátedra educational editions"
+        reception_notes: "Adaptations in Spanish Golden Age theater tradition"
+        educational_status: "Standard text in Spanish university classics and philosophy programs"
+        local_themes:
+          - "Honor and revenge themes in Spanish dramatic tradition"
+          - "Justice and reconciliation in post-Franco democratic transition"
+          - "Family honor codes in Hispanic cultural context"
+
+      pt:
+        cultural_impact: "Part of Portuguese and Brazilian classical education through Jesuit educational tradition"
+        key_editions:
+          - "Portuguese scholarly translations"
+          - "Brazilian university editions"
+        reception_notes: "Limited but scholarly reception in Portuguese-speaking academia"
+        educational_status: "Specialized university classics programs"
+        local_themes:
+          - "Justice and reconciliation in post-dictatorship Brazil"
+          - "Family and honor in Portuguese cultural context"
+          - "Classical influence on Lusophone dramatic tradition"
+
+      ja:
+        cultural_impact: "Studied in Japanese universities as example of Western tragic tradition"
+        key_editions:
+          - "Academic translations for university use"
+          - "Comparative literature studies editions"
+        reception_notes: "Limited theatrical adaptation but significant academic study"
+        educational_status: "Graduate-level comparative literature and classics programs"
+        local_themes:
+          - "Honor and family obligation parallels in Japanese culture"
+          - "Comparative studies with Japanese Noh tragic tradition"
+          - "Justice concepts in modern Japanese legal development"
+
+      ko:
+        cultural_impact: "Academic reception in South Korean universities studying Western classical literature"
+        key_editions:
+          - "Korean academic translations"
+          - "University press editions"
+        reception_notes: "Primarily academic and scholarly reception"
+        educational_status: "Graduate comparative literature programs"
+        local_themes:
+          - "Family honor and vengeance in Korean cultural context"
+          - "Democratic transition parallels in modern Korean history"
+          - "Confucian family values vs individual justice"
+
+      hi:
+        cultural_impact: "Studied in Indian universities as example of ancient dramatic tradition parallel to Sanskrit drama"
+        key_editions:
+          - "Indian university press translations"
+          - "Comparative literature editions"
+        reception_notes: "Academic reception with comparisons to ancient Indian dramatic traditions"
+        educational_status: "Postgraduate classical and comparative literature studies"
+        local_themes:
+          - "Dharma and justice concepts paralleling Indian philosophical tradition"
+          - "Family duty vs individual choice in Indian cultural context"
+          - "Comparison with Sanskrit dramatic traditions like Bhasa and Kalidasa"
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "Investigation begins - the curse of the House of Atreus and return from Troy"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "The murders unfold - Agamemnon's death and Clytemnestra's revenge"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "Orestes' dilemma - divine command vs maternal bond"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "confrontation"
+          lead: "host_b"
+          description: "The trial that changed justice - gods debate, humans judge"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "impact"
+          lead: "host_a"
+          description: "Legacy revealed - from blood revenge to democratic law"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter uncovering the story of 'The Oresteia'. Ask probing questions about the cycle of violence, seek details about the characters' motivations, and uncover the hidden meanings behind this ancient trilogy."
+        host_b: "You are {female_name}, an eyewitness to the tragic events in 'The Oresteia'. Describe the scenes vividly - Agamemnon's return, Clytemnestra's revenge, Orestes' torment, and the revolutionary trial. Share the emotional impact and bring the narrative to life."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "family violence and murder"
+      - "matricide and revenge themes"
+      - "historical misogynistic elements"
+      - "complex moral dilemmas"
+    educational_elements:
+      - "Origin of Western tragic drama"
+      - "Evolution of justice systems from revenge to law"
+      - "Ancient Greek democratic institutions"
+      - "Influence on modern literature and theater"
+      - "Psychological understanding of family trauma cycles"
+    production_notes:
+      intro_style: "dramatic ancient setting"
+      transitions: "subtle musical bridges with classical elements"
+      outro_style: "reflective resolution emphasizing lasting impact"
+
+  overall_confidence: 0.9

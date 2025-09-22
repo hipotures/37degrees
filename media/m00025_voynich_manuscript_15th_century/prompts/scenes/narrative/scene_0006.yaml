@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Professor's Magnificent Delusion"
+  setting:
+    time: "1921, morning"
+    location: "University of Pennsylvania professor's office, academic chamber"
+    weather: "Overcast Philadelphia day, gray light through office windows"
+  characters:
+    - appearance: "Academic gentleman, approximately 60 years old, wire-rimmed spectacles, receding hairline"
+      clothing: "1920s university professor attire, tweed jacket with elbow patches, formal presentation style"
+      position: "Bent over microscope examining manuscript pages"
+      action: "Pointing excitedly at supposed microscopic markings, convinced he sees hidden text beneath the surface"
+  scene:
+    mainElements: "Scholarly office with academic furnishings, research equipment, and stacks of analysis papers"
+    details: "High-powered microscope focused on manuscript pages, the Voynich manuscript open showing botanical sections, magnified photographs of supposed microscopic markings pinned to walls, detailed charts attempting to map hidden patterns, academic journals scattered across desk, bottles of photographic chemicals for image enhancement, no text or letters visible"
+    background: "Typical university office with wooden paneling, bookshelves filled with academic texts, portrait of university founders"
+    atmosphere: "Intense academic excitement mixed with self-deception, the tragedy of brilliant mind pursuing phantom evidence, scholarly obsession leading to false breakthrough"
+  composition:
+    cameraAngle: "Over-the-shoulder shot showing both the professor and his microscopic view"
+    focus: "The contrast between the professor's confidence and the ambiguous evidence"
+    depth: "Foreground shows the microscope and manuscript detail, middle ground captures the professor's animated engagement, background reveals the academic setting supporting his authority"

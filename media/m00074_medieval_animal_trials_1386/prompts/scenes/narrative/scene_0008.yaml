@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Judge Pronounces Death Sentence on Pig"
+  setting:
+    time: "1386, late afternoon"
+    location: "Stone courtroom chamber, Falaise castle, Normandy, France"
+    weather: "Dim afternoon light with approaching evening"
+  characters:
+    - appearance: "Middle-aged man, 50s, stern expression, graying beard, authoritative presence"
+      clothing: "Black judicial robes with white collar, medieval cap of office, ceremonial chain"
+      position: "Standing at elevated wooden judge's bench, facing the court"
+      action: "Raising heavy wooden mallet high above head, mouth open pronouncing sentence"
+    - appearance: "Large domestic sow, approximately 3 years old, brown and pink coloring, heavy build around 300 pounds, intelligent but wary eyes"
+      clothing: "No clothing, natural pig appearance"
+      position: "Standing in wooden defendant's enclosure, facing judge"
+      action: "Looking up at judge with alert expression, ears forward, unaware of sentence meaning"
+    - appearance: "Young man, 30s, scholarly appearance, intelligent eyes, clean-shaven"
+      clothing: "Brown scholar's robes, leather belt, ink-stained fingers from writing"
+      position: "Standing at defense table, head bowed in defeat"
+      action: "Accepting verdict with resignation, hands clasped before him, looking down"
+    - appearance: "Mixed group of men, women, children, various ages, curious and horrified expressions"
+      clothing: "Simple peasant clothes, brown and gray tunics, head coverings, work boots"
+      position: "Seated in gallery, leaning forward with anticipation"
+      action: "Reacting with gasps and murmurs, some covering mouths in shock, others nodding approval"
+  scene:
+    mainElements: "High stone walls with arched windows, wooden judge's bench elevated on platform, defendant's area with wooden barrier"
+    details: "Heavy wooden mallet held high in judge's hand, parchment scrolls with official seals on bench, bronze bell gleaming in candlelight, wooden crucifix casting long shadow, iron braziers flickering with dramatic lighting, stone floor with scattered rushes, evidence table still displaying bloody cradle remnants"
+    background: "Arched stone windows with fading afternoon light, tapestries with heraldic symbols on walls, gallery packed with villagers witnessing historic verdict"
+    atmosphere: "Climactic moment of medieval justice, formal pronouncement of death sentence on animal, mixture of legal solemnity and extraordinary circumstances, dramatic lighting from braziers and failing daylight, historic precedent being set, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle shot emphasizing judge's authority and raised gavel"
+    focus: "Judge's dramatic gesture of pronouncing sentence, pig's innocent unawareness"
+    depth: "Foreground shows judge's commanding presence, middle ground captures pig defendant's oblivious stance, background reveals shocked crowd reaction"

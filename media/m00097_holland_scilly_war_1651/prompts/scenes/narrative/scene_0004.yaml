@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dutch Fleet Arrival - March 30, 1651"
+  setting:
+    time: "March 30, 1651, morning"
+    location: "Waters approaching Isles of Scilly"
+    weather: "Clear visibility with fresh Atlantic breeze"
+  characters:
+    - appearance: "Dutch man, 50s, weathered sea captain face, gray beard, commanding naval bearing"
+      clothing: "17th century Dutch naval uniform with gold braid, tricorn hat, ceremonial sword"
+      position: "Standing on flagship bridge studying Scilly islands"
+      action: "Naval authority stance, pointing at island fortifications through telescope"
+  scene:
+    mainElements: "17th century Dutch warships with three masts, square-rigged sails, naval flags, cannon ports"
+    details: "Dutch fleet in battle formation approaching Scilly, flagship leading smaller warships, Dutch naval flags flying prominently, sailors preparing cannons, rigging taut with wind, sea spray over ship bows, disciplined naval formation"
+    background: "Isles of Scilly growing larger on horizon, rocky coastline and fortifications becoming visible, Atlantic swells"
+    atmosphere: "Dutch naval power approaching to demand reparations, international incident developing, show of force mission to remote island stronghold, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from sea level showing Dutch fleet approach"
+    focus: "Dutch naval force arriving to confront Royalist stronghold"
+    depth: "Dutch warships in foreground, Scilly islands in middle ground, Atlantic horizon in background"

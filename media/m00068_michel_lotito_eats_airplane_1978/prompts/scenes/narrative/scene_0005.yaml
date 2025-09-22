@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Consumption - Beginning the Two Year Journey"
+  setting:
+    time: "1978, evening"
+    location: "Small entertainment venue stage with audience seating, spotlight illumination"
+    weather: "Indoor evening performance, dramatic stage lighting"
+  characters:
+    - appearance: "French man, 30s, medium build, distinctive intense dark eyes, average height, concentrated expression when eating unusual objects"
+      clothing: "Simple 1970s casual wear - button-down shirts, dark trousers, sometimes white lab coat during medical examinations"
+      position: "Center stage at table, holding small metal piece"
+      action: "Methodically consuming first pieces of airplane metal, drinking from mineral oil bottle"
+    - appearance: "Various ages and appearances, expressions of amazement, curiosity, and disbelief"
+      clothing: "1970s-1980s casual and formal wear depending on venue"
+      position: "Packed audience area, standing room only"
+      action: "Leaning forward with intense fascination, photographing and documenting the moment"
+  scene:
+    mainElements: "Raised wooden platform, microphone stand, table with metal objects displayed, audience chairs"
+    details: "Small bite-sized pieces of aircraft metal, carefully cut and prepared, arranged on plates or in containers, clear glass bottle containing mineral oil used as lubricant, camera flashes from audience, intense spotlight creating dramatic shadows"
+    background: "Crowded audience area with standing spectators, stage backdrop, photographic equipment"
+    atmosphere: "Historic moment atmosphere, intense crowd attention, documentary-style lighting"
+  composition:
+    cameraAngle: "Close-up shot of consumption moment"
+    focus: "Character consuming first airplane metal pieces with mineral oil"
+    depth: "Foreground: metal consumption action, middle ground: performer and table setup, background: amazed audience reaction, no text or letters visible"

@@ -1,0 +1,87 @@
+canon:
+  characters:
+    - id: "character_PW"
+      name: "Character PW"
+      description_block: |
+        characters:
+          - appearance: "Adult motorist, gender and specific age not documented, ordinary civilian appearance typical of late 1970s Britain"
+            clothing: "Casual civilian clothing appropriate for evening travel in March 1979, possibly light jacket or coat for cool weather"
+            position: "Seated in driver's seat of vehicle or standing beside car during witness interviews"
+            action: "Driving along Sheppey Way when observing unusual figure, later providing detailed testimony to authorities"
+
+    - id: "character_AM"
+      name: "Character AM"
+      description_block: |
+        characters:
+          - appearance: "Multiple adult motorists of various ages and gender, typical British citizens traveling in evening hours"
+            clothing: "Period-appropriate casual and work clothing for 1979, including coats and jackets suitable for March weather"
+            position: "In vehicles traveling along Sheppey Way or standing with authorities during statement collection"
+            action: "Independently observing same unusual figure and providing corroborating witness statements"
+
+    - id: "character_SSE"
+      name: "Character SSE"
+      description_block: |
+        characters:
+          - appearance: "Stocky build entity, estimated human-sized, distinctive integrated helmet with visor at eye level, non-human movement characteristics"
+            clothing: "One-piece baggy silver suit with metallic or highly reflective appearance, integrated helmet with visor, no visible seams or fasteners"
+            position: "Initially on grassy embankment beside roadway, descending toward road level"
+            action: "Moving with awkward loping gait down embankment slope, deliberately descending from elevated position"
+
+    - id: "character_RJP"
+      name: "Character RJP"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged British man, professional investigator appearance, methodical demeanor"
+            clothing: "Conservative business attire typical of 1970s UFO investigators, likely suit and tie"
+            position: "Conducting interviews or examining evidence at investigation scenes"
+            action: "Leading BUFORA investigation, interviewing witnesses, documenting case details with professional protocols"
+
+  locations:
+    - id: "sheppey_way_road"
+      name: "Sheppey Way Main Road"
+      description_block: |
+        setting:
+          time: "March 22, 1979, 22:30 (10:30 PM), clear evening with good visibility"
+          location: "Sheppey Way main arterial road, Isle of Sheppey, Kent, England"
+          weather: "Cool March evening, clear visibility, limited streetlighting"
+        mainElements: "Two-lane road with grassy embankments on sides, scattered industrial facilities visible in distance, relatively sparse traffic during evening hours"
+        background: "Rural road environment connecting Isle of Sheppey to mainland Kent, isolated location with minimal development"
+        atmosphere: "Quiet evening road with vehicle headlights providing primary illumination, typical isolated British countryside setting"
+
+    - id: "roadside_embankment"
+      name: "Grassy Roadside Embankment"
+      description_block: |
+        setting:
+          time: "March 22, 1979, evening hours with vehicle headlight illumination"
+          location: "Sloped verge adjacent to Sheppey Way, Isle of Sheppey, Kent"
+          weather: "Clear evening allowing good visibility of slope details"
+        mainElements: "Grass-covered slope approximately 10-15 feet high leading down to road level, natural vegetation typical of rural English roadside construction"
+        background: "Rural landscape with scattered vegetation, partial illumination from passing vehicle headlights"
+        atmosphere: "Isolated roadside location with natural embankment formation, partially lit environment creating dramatic shadows"
+
+    - id: "isle_of_sheppey_landscape"
+      name: "Isle of Sheppey General Area"
+      description_block: |
+        setting:
+          time: "March 1979, evening and night hours during UFO wave period"
+          location: "Isle of Sheppey, Thames Estuary, Kent, England"
+          weather: "Variable March weather with frequent mist and atmospheric conditions"
+        mainElements: "Flat marshy island landscape with scattered settlements, industrial facilities, agricultural land, connected to mainland by bridge"
+        background: "Thames Estuary waters, distant mainland Kent, sparse development across island terrain"
+        atmosphere: "Isolated island environment known for atmospheric phenomena, rural setting with industrial elements, established UFO hotspot reputation"
+
+  items:
+    - id: "reflective_silver_suit"
+      name: "Metallic Silver Suit"
+      description_block: |
+        details: "One-piece baggy garment with highly reflective metallic silver appearance, integrated helmet featuring visor at eye level, no visible seams or fastening mechanisms, described consistently by multiple independent witnesses"
+
+    - id: "witness_documentation"
+      name: "Official Witness Statements"
+      description_block: |
+        details: "Written police statements and BUFORA interview records from multiple motorists, consistent descriptions of entity appearance and behavior, professional documentation establishing case credibility"
+
+    - id: "investigation_records"
+      name: "BUFORA Case Files"
+      description_block: |
+        details: "Official investigation reports catalogued as HC addition number 399, witness credibility assessments, case analysis documents, professional UFO research protocols applied to incident documentation"

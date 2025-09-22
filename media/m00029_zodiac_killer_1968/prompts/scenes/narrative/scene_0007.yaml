@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Presidio Heights Taxi Murder"
+  setting:
+    time: "October 11, 1969, 22:00"
+    location: "Upscale residential neighborhood intersection in San Francisco with steep hills and Victorian homes"
+    weather: "Cool October evening, clear"
+  characters:
+    - appearance: "29-year-old Caucasian male, professional taxi driver, well-groomed, responsible appearance"
+      clothing: "Taxi company uniform or professional work attire, bloodstained"
+      position: "Slumped in driver's seat of taxi cab, shot in back of head"
+      action: "Killed by gunshot wound, victim of final confirmed Zodiac attack"
+    - appearance: "Shadowy male figure, face obscured, medium to large build, threatening presence"
+      clothing: "Dark clothing, features not clearly visible in darkness"
+      position: "Standing beside taxi cab having just completed murder"
+      action: "Tearing piece of bloodstained shirt from victim, wiping down cab interior"
+  scene:
+    mainElements: "Yellow taxi cab parked at residential intersection, murdered driver in front seat, killer taking evidence from scene"
+    details: "Yellow Cab #912, typical 1960s sedan with bloodstained interior, driver seat stained, killer methodically wiping down surfaces, torn piece of taxi driver's shirt in killer's hand, well-lit urban street intersection with stop sign"
+    background: "Street intersection with stop sign, well-lit street, nearby Victorian houses, upscale Presidio Heights neighborhood, urban San Francisco setting, some pedestrian traffic"
+    atmosphere: "Calculated urban violence, shift from rural attacks to city setting, methodical killer taking trophy evidence, cool October night air, residential neighborhood violated by murder"
+  composition:
+    cameraAngle: "Medium shot showing taxi and killer's activities"
+    focus: "Murdered taxi driver and killer methodically collecting evidence"
+    depth: "Taxi cab and killer in foreground, residential intersection in middle ground, Victorian homes in background"

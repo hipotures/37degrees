@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Royal Yacht Glasgow Under Fire"
+  setting:
+    time: "August 27, 1896, 9:15 AM"
+    location: "Zanzibar Harbor during naval battle"
+    weather: "Smoke-filled air from ongoing bombardment"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Wooden steam yacht with single smokestack, painted white with gold trim, flying Zanzibar flag, under attack by British gunboats"
+    details: "Royal yacht taking heavy damage from British naval gunfire, wooden hull splintering from shell impacts, smoke pouring from damaged superstructure, vessel listing to starboard, crew abandoning ship, traditional dhow boats nearby also under fire, water erupting from near misses"
+    background: "Palace complex burning in distance, British warships maintaining bombardment, Stone Town waterfront obscured by smoke"
+    atmosphere: "Naval destruction and chaos, royal symbols of Zanzibar power being systematically destroyed, overwhelming British naval superiority, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from water level showing yacht destruction"
+    focus: "Sinking of Zanzibar's royal yacht as symbol of lost sovereignty"
+    depth: "Damaged yacht in foreground, harbor battle in middle ground, burning palace in background"

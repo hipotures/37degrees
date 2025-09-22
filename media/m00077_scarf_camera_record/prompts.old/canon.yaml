@@ -1,0 +1,76 @@
+canon:
+  characters:
+    - id: "character_JL"
+      name: "Character JL"
+      description_block: |
+        characters:
+          - appearance: "Asian-Canadian man, 40s, focused expression, dark hair, wire-rim glasses"
+            clothing: "White lab coat over dark shirt, or casual dark suit with no tie"
+            posture: "Confident and precise, often gesturing toward equipment or examining data"
+    - id: "character_RS1"
+      name: "Character RS1"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s, analytical expression, short brown hair, clean-shaven"
+            clothing: "INRS research center polo shirt or lab coat with safety glasses"
+            posture: "Methodical, often taking notes or adjusting camera components"
+    - id: "character_RS2"
+      name: "Character RS2"
+      description_block: |
+        characters:
+          - appearance: "Caucasian woman, 35s, determined expression, shoulder-length blonde hair"
+            clothing: "Professional blouse under lab coat or dark business casual attire"
+            posture: "Alert and engaged, frequently monitoring computer screens and data"
+    - id: "character_RS3"
+      name: "Character RS3"
+      description_block: |
+        characters:
+          - appearance: "South Asian man, 28s, enthusiastic expression, black hair, slight beard"
+            clothing: "Dark sweater or button-down shirt under lab coat"
+            posture: "Energetic, often pointing at displays or explaining technical concepts"
+  locations:
+    - id: "main_laboratory"
+      name: "INRS Research Laboratory"
+      description_block: |
+        setting:
+          location: "INRS Énergie Matériaux Télécommunications Research Centre, advanced optics laboratory, Montreal, Canada"
+        mainElements: "State-of-the-art optical laboratory with laser equipment, precision measurement devices, computer workstations"
+        atmosphere: "High-tech scientific environment with controlled lighting and sterile surfaces"
+    - id: "demo_chamber"
+      name: "Demonstration Chamber"
+      description_block: |
+        setting:
+          location: "Specialized dark chamber for ultrafast imaging demonstrations within INRS facility"
+        mainElements: "Enclosed testing environment with laser pulse generation equipment and target materials"
+        atmosphere: "Controlled, dimly lit scientific testing environment with precise measurement capabilities"
+    - id: "computer_lab"
+      name: "Data Processing Laboratory"
+      description_block: |
+        setting:
+          location: "Computer analysis laboratory within INRS research center"
+        mainElements: "Multiple high-performance workstations, large displays showing frame data, algorithm processing software"
+        atmosphere: "Modern computational research environment with bright displays and organized workstations"
+    - id: "presentation_room"
+      name: "Research Presentation Room"
+      description_block: |
+        setting:
+          location: "Conference room at INRS research facility for presenting findings"
+        mainElements: "Modern conference room with projection equipment and presentation displays"
+        atmosphere: "Professional academic setting for sharing scientific breakthroughs"
+  items:
+    - id: "scarf_camera"
+      name: "SCARF Camera System"
+      description_block: |
+        details: "Revolutionary ultrafast camera system featuring swept-coded aperture design, precision optical components, laser pulse generation system, and computational processing unit capable of 156.3 trillion frames per second"
+    - id: "laser_pulse_system"
+      name: "Chirped Laser Pulse Generator"
+      description_block: |
+        details: "Advanced laser system generating chirped ultrashort pulses that sweep through wavelengths from red to violet, enabling femtosecond time resolution imaging"
+    - id: "computational_unit"
+      name: "Data Processing Computer"
+      description_block: |
+        details: "High-performance computer system running specialized algorithms to decode time-staggered light inputs and reconstruct ultrafast phenomena into viewable image sequences"
+    - id: "test_materials"
+      name: "Testing Materials"
+      description_block: |
+        details: "Various scientific samples including metal alloys for demagnetization studies, semiconductor materials for transient absorption analysis, and biological specimens for shock wave research"

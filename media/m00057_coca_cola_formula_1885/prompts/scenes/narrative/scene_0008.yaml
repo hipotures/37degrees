@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Journey to Jacobs' Pharmacy with the Syrup"
+  setting:
+    time: "May 8, 1886 late morning, bright spring day"
+    location: "Peachtree Street, downtown Atlanta Georgia, 1880s"
+    weather: "Clear spring day with pleasant warm weather"
+  characters:
+    - appearance: "Caucasian man, mid-50s, average height, graying beard and mustache, intelligent eyes behind wire-rimmed spectacles, slightly receding hairline"
+      clothing: "1880s white pharmacist coat over dark vest and white collared shirt, black trousers, formal boots"
+      position: "Walking purposefully down wooden sidewalk, carrying ceramic jug"
+      action: "Striding confidently toward Jacobs' Pharmacy, protecting precious cargo"
+  scene:
+    mainElements: "Large ceramic jug with cork stopper, containing dark brown syrup, unmarked except for handwritten paper label, heavy and substantial weight"
+    details: "Character carefully cradling large ceramic jug against his chest while walking, handwritten paper label visible on jug but contents illegible, wooden sidewalks with other pedestrians stepping aside respectfully, storefronts with large glass windows reflecting morning sunlight, horse-drawn carriages moving along dirt street, gas street lamps casting shadows, anticipation and purpose evident in character's determined stride, no text or letters visible"
+    background: "Growing Southern city recovering from Civil War, mix of old and new architecture, busy commercial district"
+    atmosphere: "Sense of historic moment and anticipation, inventor bringing his creation to the world"
+  composition:
+    cameraAngle: "Medium tracking shot following character down the street"
+    focus: "character_JSP carrying the precious jug toward his destiny"
+    depth: "Foreground: character with ceramic jug, middle: busy sidewalk activity, background: storefronts and street scene"

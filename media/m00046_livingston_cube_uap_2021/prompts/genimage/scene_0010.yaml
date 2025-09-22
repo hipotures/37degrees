@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: 2021-2022 period - Contemporary UAP research environment
+    location: Modern UAP research facility with post-disclosure scientific investigation equipment
+    weather: Indoor controlled research environment
+  characters:
+  - appearance: Professional researcher, 35-50s, methodical appearance, contemporary dress, carrying recording equipment
+    clothing: Business casual attire suitable for field work - practical jacket, comfortable shoes, equipped with recording
+      devices
+    position: Standing before research display showing UAP pattern analysis and cube-shaped phenomena documentation
+    action: Analyzing cube UAP patterns within broader context of Pentagon-acknowledged phenomena, conducting new era of legitimate
+      research
+  scene:
+    mainElements: Modern research facility with scientific equipment analyzing UAP patterns, legitimate post-disclosure investigation
+      environment
+    details: Scientific research environment with displays showing cube-shaped UAP pattern analysis, geometric object documentation,
+      professional investigation methodology following dramatic shift from decades of official denial to legitimate scientific
+      inquiry, modern approach to unexplained aerial phenomena research
+    background: Contemporary research facility with advanced equipment, documentation systems, scientific analysis tools,
+      professional academic environment
+    atmosphere: New era of legitimate UAP investigation following Pentagon disclosures, scientific methodology replacing stigmatization,
+      systematic approach to understanding unexplained phenomena
+  composition:
+    cameraAngle: Wide view of modern UAP research facility
+    focus: Contemporary scientific approach to UAP investigation following paradigm shift in official research
+    depth: Foreground showing researcher and analysis equipment, middle ground with research facility infrastructure, background
+      showing broader scientific investigation environment, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

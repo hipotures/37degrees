@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Basement Transformed Into Makeshift Prison Environment"
+  setting:
+    time: "August 14, 1971, afternoon"
+    location: "Converted basement of Stanford University psychology building, Jordan Hall, California"
+    weather: "Interior basement environment, artificially lit"
+  characters:
+    - appearance: "Caucasian man, early 20s, average build, submissive expression, downcast eyes"
+      clothing: "Ill-fitting white prison smock, stocking cap, chain around ankle, kept neat"
+      position: "Standing inside barred cell looking through metal bars"
+      action: "Gripping cell bars while looking out at corridor with uncertain expression, adjusting to confined space"
+    - appearance: "Caucasian man, early 20s, tall, athletic build, stern expression"
+      clothing: "Khaki military-style uniform, reflective mirrored sunglasses, black boots, carrying whistle and billy club"
+      position: "Standing in corridor outside cell with authoritative stance"
+      action: "Patrolling narrow hallway while monitoring prisoners, establishing guard presence and control"
+  scene:
+    mainElements: "Three small prison cells with metal bars attached to laboratory doors, narrow concrete corridor, institutional fluorescent lighting, guard observation area"
+    details: "Metal bars attached to converted laboratory doors, thin mattresses on cell floors, basic metal toilet visible in cell, concrete walls painted institutional colors, fluorescent lights creating harsh shadows, clipboard with observation forms, numbered identification visible on prisoner uniforms, chains around ankles making metallic sounds"
+    background: "Basement environment with exposed pipes, concrete ceiling, institutional walls, guard station area with desk and monitoring equipment, exit stairs leading to upper levels"
+    atmosphere: "Oppressive institutional environment with harsh fluorescent lighting creating stark shadows, claustrophobic confined feeling, transformation of academic space into authoritarian prison setting"
+  composition:
+    cameraAngle: "Wide shot showing full corridor with cells and characters in institutional setting"
+    focus: "Prisoner behind bars and guard in corridor establishing prison hierarchy and confinement"
+    depth: "Foreground shows cell bars and confined prisoner, middle ground focuses on guard patrolling corridor, background reveals basement prison infrastructure and institutional environment, no text or letters visible"

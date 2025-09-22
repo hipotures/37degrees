@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: 1705, afternoon
+    location: Cobblestone street in early 18th century Moscow with wooden houses and onion-domed churches
+    weather: Clear cold afternoon, bright sunlight on snow
+  characters:
+  - appearance: Caucasian man, late 20s, lean build, recently shaved or partially bearded, nervous expression
+    clothing: Mix of European and Russian clothing - Western jacket with traditional Russian elements
+    position: Walking hesitantly down street
+    action: Self-consciously touching his clean-shaven face while avoiding eye contact with traditional citizens
+  - appearance: Caucasian man, 30s, wiry build, unkempt beard, simple weathered face
+    clothing: Rough woolen shirt, leather vest, simple trousers and boots
+    position: Working beside the street with traditional tools
+    action: Staring disapprovingly at the clean-shaven man while continuing his manual labor
+  scene:
+    mainElements: Contrast between clean-shaven modernized citizen and traditionally bearded workers
+    details: Stark visual contrast between smooth European-influenced fashion and rough traditional Russian clothing, snow
+      crunching under different styles of footwear, traditional wooden architecture witnessing cultural change, steam from
+      breath in cold air, shadows falling differently on shaved and bearded faces
+    background: Traditional Russian wooden houses and Orthodox church domes representing unchanged cultural landscape
+    atmosphere: Social tension and cultural division, awkward coexistence of old and new ways, transformation in progress,
+      no text or letters visible
+  composition:
+    cameraAngle: Medium shot capturing the social contrast
+    focus: The uncomfortable interaction between representatives of old and new Russia
+    depth: Clean-shaven modernized man in foreground, traditional bearded worker in middle ground, unchanged architecture
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

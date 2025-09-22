@@ -1,0 +1,102 @@
+sceneDescription:
+  setting:
+    time: December 4, 1872, 15:00 hours - afternoon discovery
+    location: Open Atlantic Ocean approximately 400 miles east of Azores, deep blue waters with clear visibility
+    weather: Clear December afternoon with good visibility, moderate seas allowing ship recognition
+  characters:
+  - appearance: Middle-aged maritime professional, bearded in naval tradition, alert eyes, substantial build typical of experienced
+      sea captain
+    clothing: Standard captain's uniform of British merchant marine, heavy bridge coat, naval cap, practical maritime dress
+    position: Standing on bridge of Dei Gratia with telescope raised to eye
+    action: Studying distant vessel through telescope and recognizing it as Mary Celeste with growing concern
+  scene:
+    mainElements: Brigantine Dei Gratia with captain on bridge using telescope, distant Mary Celeste visible 6 miles away
+      sailing erratically with only partial sail set, both ships positioned in open Atlantic waters
+    details: Mary Celeste yawing badly in distance with incomplete sail configuration suggesting no helmsman control, Dei
+      Gratia crew gathering on deck to observe strange behavior of distant vessel, telescope focused on identifying ship through
+      maritime markings, captain's expression showing recognition and concern, ship's rigging properly maintained on Dei Gratia
+      contrasting with erratic movement of Mary Celeste
+    background: Vast Atlantic Ocean horizon with scattered white clouds, afternoon sunlight creating good visibility conditions,
+      no other vessels visible in surrounding waters, seabirds flying between the two ships
+    atmosphere: Growing tension and concern as experienced maritime professional recognizes something seriously wrong, sense
+      of isolation in vast ocean making discovery more ominous, clear weather conditions allowing detailed observation of
+      mysterious vessel behavior
+  composition:
+    cameraAngle: Medium shot from Dei Gratia's bridge showing captain with telescope and distant Mary Celeste
+    focus: Captain with telescope as central focal point with Mary Celeste visible in distance
+    depth: Foreground shows detailed view of captain and telescope on Dei Gratia bridge, middle ground captures space between
+      ships across ocean waters, background reveals Mary Celeste sailing erratically under partial sail, no text or letters
+      visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

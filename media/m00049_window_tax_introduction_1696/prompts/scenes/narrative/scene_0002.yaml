@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Royal Approval of Window Tax Legislation"
+  setting:
+    time: "1696, evening"
+    location: "Private royal office, Kensington Palace, London, England"
+    weather: "Clear winter evening"
+  characters:
+    - appearance: "Caucasian man, 40s, regal bearing, long dark curly wig, thin mustache, determined expression"
+      clothing: "Royal blue velvet coat with gold embroidery, white lace cravat, ornate royal insignia"
+      position: "Seated behind ornate mahogany desk with quill pen in hand"
+      action: "Signing official document with elaborate royal seal nearby"
+  scene:
+    mainElements: "Ornate mahogany desk, royal throne chair, tall windows with heavy curtains, oil paintings of royal lineage"
+    details: "Formal government document with wax seal, golden candlesticks providing warm light, leather-bound ledgers stacked nearby, ornate ink well with quill feathers, rich tapestries on walls, Persian carpet on polished wooden floor, royal coat of arms carved into desk front"
+    background: "Luxurious royal setting with rich fabrics and golden accents, floor-to-ceiling windows with drawn velvet curtains, formal portrait gallery"
+    atmosphere: "Formal royal authority and power, significant governmental decision being made, warm candlelight creating intimate working environment, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from three-quarter angle"
+    focus: "Royal figure signing important tax legislation document"
+    depth: "Signing ceremony in foreground, ornate desk details in middle ground, royal portraits and palace architecture in background"

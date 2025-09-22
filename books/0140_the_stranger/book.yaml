@@ -4,3 +4,182 @@ book_info:
   author: "Albert Camus"
   year: 1942
   genre: "Philosophical novel,Absurdist"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T18:30:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 8
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 6
+    social_roles: 8
+    total: 66
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 8.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "absurd_existence"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Exploration of absurd condition - conflict between human need for meaning and silent universe"
+        source: "symbols_meanings"
+      - id: "colonial_violence"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Murder of unnamed Arab represents colonial dehumanization and French-Algerian tensions"
+        source: "dark_drama"
+      - id: "social_alienation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Protagonist's emotional detachment mirrors contemporary digital age disconnection"
+        source: "reality_wisdom"
+      - id: "narrative_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary flat affect prose style changed 20th century literary techniques"
+        source: "writing_innovation"
+      - id: "authenticity_crisis"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Refusal to perform emotions challenges social conventions and performative culture"
+        source: "youth_digital"
+      - id: "justice_system_critique"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Trial becomes absurd spectacle judging character rather than actions"
+        source: "symbols_meanings"
+      - id: "kgb_conspiracy"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Italian academic claims Camus murdered by KGB in staged car accident"
+        source: "dark_drama"
+      - id: "contemporary_relevance"
+        type: "FACT"
+        credibility: 0.95
+        content: "BookTok and Gen Z embrace existential themes as therapeutic philosophy"
+        source: "youth_digital"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text in American high school curricula and university philosophy programs"
+        key_editions: ["Stuart Gilbert translation (1946)", "Matthew Ward translation (1988)", "Sandra Smith translation (2012)"]
+        reception_notes: "Canonical status in Western literature, widely taught and analyzed"
+        educational_status: "Standard curriculum text in American and British educational systems"
+        local_themes: ["Colonial discourse analysis", "Individual vs society", "American existentialism influence"]
+
+      pl:
+        cultural_impact: "First Polish edition 1958, continuous readership through Communist and post-Communist eras"
+        key_editions: ["Maria Zenowicz translation (1958)", "Zenowicz-Brandys revision (2003)"]
+        reception_notes: "Resonated with experience of totalitarianism and social alienation under Communism"
+        educational_status: "High school mandatory reading, particularly relevant for Matura exam preparation"
+        local_themes: ["Post-Communist alienation", "Catholic tradition vs atheism", "Solidarity movement parallels"]
+
+      de:
+        cultural_impact: "First German translation 1948, strong connection to German existentialist philosophy"
+        key_editions: ["Georg Goyert translation (1948)", "Uli Aumüller translation (1994)", "Reclam educational edition"]
+        reception_notes: "Analyzed through lens of Nietzsche and Heidegger influences on Camus"
+        educational_status: "Gymnasium curriculum, Abitur preparation materials available"
+        local_themes: ["Nietzschean influences", "Frankfurt School connections", "Kafka parallels"]
+
+      fr:
+        cultural_impact: "Gallimard's greatest commercial success after Le Petit Prince, foundational French literary text"
+        key_editions: ["Original Gallimard edition (1942)", "Folio collection", "Educational annotated editions"]
+        reception_notes: "Number one on Le Monde's 100 Books of 20th Century, defined French absurdist literature"
+        educational_status: "Essential text in French literary education, Baccalauréat curriculum"
+        local_themes: ["Nouvelle Critique analysis", "Colonial Algeria context", "French Resistance connections"]
+
+      es:
+        cultural_impact: "Banned under Franco regime, gained prominence in post-Franco democratic Spain"
+        key_editions: ["Early underground editions", "Post-Franco official translations", "Educational editions"]
+        reception_notes: "Symbol of resistance to authoritarianism and intellectual freedom"
+        educational_status: "University literature courses, philosophy programs"
+        local_themes: ["Anti-Franco resistance", "Spanish existentialism", "Civil War parallels"]
+
+      pt:
+        cultural_impact: "Influential in Brazilian and Portuguese intellectual circles, particularly during democratization"
+        key_editions: ["Brazilian Portuguese translations", "European Portuguese editions"]
+        reception_notes: "Connected to movements for political and social freedom"
+        educational_status: "University literature and philosophy curricula"
+        local_themes: ["Latin American liberation", "Portuguese Revolution context", "Social justice movements"]
+
+      ja:
+        cultural_impact: "Part of Western philosophy introduction in post-war Japan educational reform"
+        key_editions: ["Multiple Japanese translations", "Academic critical editions"]
+        reception_notes: "Analyzed alongside Japanese concepts of alienation and social pressure"
+        educational_status: "University Western literature and philosophy courses"
+        local_themes: ["Social conformity pressure", "Post-war existential crisis", "Western vs Eastern philosophy"]
+
+      ko:
+        cultural_impact: "Gained prominence during democratization movements, resonates with social pressure themes"
+        key_editions: ["Korean translations", "Student movement editions"]
+        reception_notes: "Connected to themes of individual resistance against social oppression"
+        educational_status: "University curricula, particularly in philosophy and literature departments"
+        local_themes: ["Democratization movements", "Social hierarchy criticism", "Individual vs collective"]
+
+      hi:
+        cultural_impact: "Studied in English literature programs and philosophy departments in India"
+        key_editions: ["English editions in India", "Academic study guides"]
+        reception_notes: "Analyzed in context of colonial and post-colonial identity questions"
+        educational_status: "University English literature and comparative philosophy courses"
+        local_themes: ["Colonial legacy analysis", "Identity and alienation", "Western vs Indian philosophy"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-02:48"
+          topic: "colonial_context"
+          lead: "host_a"
+          description: "French Algeria colonial dynamics and social hierarchy that shaped the novel's setting"
+        - segment: 2
+          time_range: "02:48-05:36"
+          topic: "social_alienation"
+          lead: "host_b"
+          description: "Meursault's refusal to conform to social expectations and emotional performance"
+        - segment: 3
+          time_range: "05:36-08:24"
+          topic: "justice_system"
+          lead: "host_a"
+          description: "How the trial becomes a judgment of character rather than actions, exposing social hypocrisy"
+        - segment: 4
+          time_range: "08:24-11:12"
+          topic: "contemporary_parallels"
+          lead: "host_b"
+          description: "Modern relevance to social media authenticity, Gen Z alienation, and digital performance"
+        - segment: 5
+          time_range: "11:12-14:00"
+          topic: "social_legacy"
+          lead: "host_a"
+          description: "How the novel continues to influence discussions of individual vs society worldwide"
+      prompts:
+        host_a: "You are {male_name}, a social historian analyzing 'The Stranger' through lens of power, gender, class. Discuss colonial Algeria context, social hierarchies, and how institutions like the justice system maintain control. Historical context: 1942 colonial period, French-Arab tensions."
+        host_b: "You are {female_name}, examining contemporary relevance of 'The Stranger'. Connect to current social debates: social media authenticity, cancel culture, performative emotions. Discuss how Meursault's alienation mirrors modern digital disconnection and pressure to perform emotions online."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["colonial-era racism", "murder/violence", "religious nihilism", "psychological alienation"]
+    educational_elements: ["Absurdist philosophy", "Colonial history context", "Narrative innovation techniques", "Social conformity analysis"]
+    production_notes:
+      intro_style: "philosophical and contemplative, establishing existential themes"
+      transitions: "subtle philosophical bridges between topics"
+      outro_style: "reflective conclusion on enduring relevance to human condition"
+
+  overall_confidence: 0.89

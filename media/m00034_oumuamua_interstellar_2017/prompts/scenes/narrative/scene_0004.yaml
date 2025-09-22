@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Global Telescope Network Mobilizes for Observation"
+  setting:
+    time: "November 1, 2017, night"
+    location: "Multiple observatories worldwide including ESO's Very Large Telescope complex"
+    weather: "Clear observation conditions at multiple global locations"
+  characters:
+    - appearance: "Mid-30s female astronomer, professional appearance, focused and analytical expression"
+      clothing: "Academic professional attire - blouses, blazers, practical clothing for laboratory work"
+      position: "At research desk with computers and scientific instruments"
+      action: "Analyzing data methodically, focused on natural explanations for astronomical phenomena"
+  scene:
+    mainElements: "Digital spectrograms showing light wavelength analysis from multiple telescopes, revealing reddish coloration, high reflectivity, lack of water vapor or dust signatures displayed across multiple computer monitors"
+    details: "International collaboration of telescopes pointed toward the same target. Computer screens show Mathematical models and computer simulations showing hyperbolic escape trajectory, confirmed interstellar origin, anomalous non-gravitational acceleration component. Research environment filled with urgency as astronomers realize they have limited observation time."
+    background: "Observatory control rooms with multiple telescope feeds, world map showing global observation network"
+    atmosphere: "Intense scientific focus and international cooperation with underlying urgency as observation window narrows, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot of astronomer surrounded by multiple data displays"
+    focus: "Spectral analysis data revealing object's unusual properties"
+    depth: "Foreground shows computer displays, middle ground shows astronomer, background shows observatory equipment"

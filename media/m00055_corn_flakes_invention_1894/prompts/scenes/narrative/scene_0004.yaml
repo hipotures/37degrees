@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Evening wheat dough preparation before the accident"
+  setting:
+    time: "1894, evening"
+    location: "Large institutional kitchen inside Battle Creek Sanitarium, Michigan"
+    weather: "Clear evening with fading daylight"
+  characters:
+    - appearance: "Caucasian man, 40s, tall and lean build, intense dark eyes, full dark beard, stern expression"
+      clothing: "1890s white medical coat over dark suit, or formal black suit with white shirt and bow tie"
+      position: "At kitchen work table preparing wheat-berry dough"
+      action: "Mixing wheat berries with water in large mixing bowl, concentrating on the consistency"
+    - appearance: "Young adult, rolled-up sleeves, flour-dusted hands, concentrated expression"
+      clothing: "White apron over dark work clothes, simple cap or hair covering"
+      position: "Nearby at work surface, cleaning up after food preparation"
+      action: "Organizing kitchen tools and preparing to close the kitchen for the night"
+  scene:
+    mainElements: "Large wooden work tables, metal pots and pans, gas stoves, storage shelves, bowl of prepared wheat-berry dough on work surface"
+    details: "Bowl of prepared wheat-berry dough, thick consistency, left sitting on wooden work surface overnight, mixing utensils nearby, flour scattered on table, dim gas lamp lighting the workspace, no text or letters visible"
+    background: "Kitchen equipment in shadows, other work surfaces being cleaned for the night"
+    atmosphere: "End of workday routine, quiet kitchen with focused food preparation, sense of ordinary task that will become extraordinary"
+  composition:
+    cameraAngle: "Close-up shot focusing on the work table"
+    focus: "The bowl of wheat dough that will be accidentally left overnight"
+    depth: "Foreground shows the crucial bowl of dough, middle ground shows character working, background shows kitchen in evening shadows"

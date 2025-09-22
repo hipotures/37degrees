@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Medieval Falaise - Castle and Village Overview"
+  setting:
+    time: "1386, early morning"
+    location: "Falaise castle and surrounding village, Normandy, France"
+    weather: "Overcast winter sky with scattered clouds"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Imposing stone castle perched on rocky outcrop overlooking medieval village below, timber-framed houses clustered around central market square, winding dirt roads connecting buildings"
+    details: "Massive stone keep with multiple towers, crenellated walls stretching around castle perimeter, church spire rising among village rooftops, smoke curling from cottage chimneys, bare winter trees dotting landscape, small gardens and animal pens visible between houses, defensive walls marking castle boundaries"
+    background: "Rolling Norman countryside extending to horizon, distant forests and farmland, grey winter sky with heavy clouds suggesting coming precipitation"
+    atmosphere: "Medieval grandeur mixed with everyday village life, sense of authority and hierarchy embodied in castle's dominance over settlement, cold winter morning with subdued lighting casting long shadows across cobblestone streets, no text or letters visible"
+  composition:
+    cameraAngle: "High aerial wide shot from elevated position"
+    focus: "Castle as dominant architectural feature with village spread below"
+    depth: "Foreground shows castle details, middle ground reveals village layout, background stretches to countryside horizon"

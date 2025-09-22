@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Divine judgment - Supreme god prepares to punish Atlantis"
+  setting:
+    time: "9600 BCE, late afternoon"
+    location: "Mount Olympus throne room overlooking the mortal world"
+    weather: "Storm clouds gathering with supernatural lightning"
+  characters:
+    - appearance: "Imposing deity with flowing dark hair and beard, muscular build, sea-green eyes"
+      clothing: "Draped in flowing robes that seem to move like water, crown of shells and coral"
+      position: "Kneeling before the divine throne with head bowed"
+      action: "Receiving judgment for the corruption of his chosen people"
+    - appearance: "Supreme deity with white beard and regal bearing, eyes flashing with divine power"
+      clothing: "Majestic robes crackling with electric energy, crown of gold and lightning"
+      position: "Seated on marble throne high above the clouds"
+      action: "Raising hand to pronounce divine judgment while storm clouds gather"
+  scene:
+    mainElements: "Marble throne surrounded by storm clouds, divine light breaking through darkness, cosmic scale architecture"
+    details: "Thunder and lightning building to supernatural intensity. Divine throne carved from single block of white marble. Clouds swirling in unnatural patterns around the mountain peak. Golden light emanating from divine presence. Three-pronged golden spear lying at the base of the throne. Cosmic winds beginning to stir the atmosphere."
+    background: "Rumbling thunder and increasing wind as divine wrath builds"
+    atmosphere: "Cosmic judgment and divine retribution about to be unleashed, sense of inevitable justice and cosmic balance"
+  composition:
+    cameraAngle: "Low angle emphasizing the divine scale and power"
+    focus: "The moment of divine judgment being pronounced against Atlantis"
+    depth: "Foreground: Character PO receiving judgment, middle ground: marble throne and divine presence, background: storm clouds gathering over mortal world below, no text or letters visible"

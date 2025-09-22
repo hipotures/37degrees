@@ -1,0 +1,111 @@
+canon:
+  characters:
+    - id: "character_JT"
+      name: "Character JT"
+      description_block: |
+        characters:
+          - appearance: "44 years old, average height and build, thinning brown hair, weathered face typical of outdoor worker, steady hands from firefighting experience"
+            clothing: "Casual weekend attire - light shirt, dark trousers, practical shoes suitable for marsh walking"
+            position: "Holding SLR camera, positioned to photograph family"
+            action: "Taking photographs of daughter, methodical and careful with camera settings"
+    - id: "character_AT"
+      name: "Character AT"
+      description_block: |
+        characters:
+          - appearance: "35 years old, dark bobbed hair, medium build, 5'4 height"
+            clothing: "Pale blue dress that appears white when overexposed in photographs"
+            position: "Moving around photography area, occasionally behind camera position"
+            action: "Supporting family photo session, moving to stay out of frame"
+    - id: "character_ET"
+      name: "Character ET"
+      description_block: |
+        characters:
+          - appearance: "5 years old, blonde hair, small for her age, cheerful expression"
+            clothing: "White or very light colored summer dress with short sleeves"
+            position: "Standing in grassy marsh area as main subject"
+            action: "Posing for family photographs, playing naturally as child"
+    - id: "character_N9"
+      name: "Character N9"
+      description_block: |
+        characters:
+          - appearance: "Very tall man, stern facial features, unnaturally formal bearing, pale complexion"
+            clothing: "Black suit, bowler hat, highly polished shoes, no visible identification"
+            position: "Standing formally beside black limousine"
+            action: "Speaking in clipped formal tones, becoming increasingly agitated"
+    - id: "character_N11"
+      name: "Character N11"
+      description_block: |
+        characters:
+          - appearance: "Very tall man, similar formal appearance to Character N9, cold eyes"
+            clothing: "Identical black suit and bowler hat ensemble"
+            position: "Standing silently beside Character N9"
+            action: "Observing conversation, deferring to Character N9"
+    - id: "character_DC"
+      name: "Character DC"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged journalist, academic appearance, analytical expression"
+            clothing: "Professional attire appropriate for television interviews"
+            position: "Seated across from interview subject or standing with documents"
+            action: "Examining evidence with methodical approach, taking notes"
+  locations:
+    - id: "burgh_marsh"
+      name: "Burgh Marsh"
+      description_block: |
+        setting:
+          location: "Flat, open marshland overlooking the Solway Firth, near Burgh by Sands, Cumberland, England"
+        mainElements: "Wide expanse of grass and marsh, scattered trees, distant hills, clear views to Scotland across the water"
+        atmosphere: "Remote, peaceful rural setting with excellent visibility, gentle breeze from the sea"
+    - id: "carlisle_fire_station"
+      name: "Carlisle Fire Station"
+      description_block: |
+        setting:
+          location: "1960s municipal fire station in Carlisle city center, Cumberland, England"
+        mainElements: "Red brick building, fire engine bays, office areas, parking area for official vehicles"
+        atmosphere: "Professional emergency services environment, busy municipal setting"
+    - id: "kodak_laboratory"
+      name: "Kodak Laboratory"
+      description_block: |
+        setting:
+          location: "Professional photographic processing laboratory, 1960s technology"
+        mainElements: "Darkrooms, chemical processing equipment, examination stations, professional lighting"
+        atmosphere: "Clinical, scientific environment with controlled lighting and temperature"
+    - id: "woomera_test_range"
+      name: "Woomera Test Range"
+      description_block: |
+        setting:
+          location: "Remote desert testing facility in South Australia, highly classified military installation"
+        mainElements: "Launch pads, tracking equipment, control bunkers, restricted access zones"
+        atmosphere: "Tense, high-security environment during Cold War missile testing"
+    - id: "templeton_home"
+      name: "Templeton Family Home"
+      description_block: |
+        setting:
+          location: "1960s working-class family home in Carlisle, Cumberland, England"
+        mainElements: "Modest living room, family furniture, photograph albums, camera equipment"
+        atmosphere: "Comfortable family environment, lived-in and welcoming"
+  items:
+    - id: "solway_photograph"
+      name: "The Solway Spaceman Photograph"
+      description_block: |
+        details: "Black and white photograph showing 5-year-old child in foreground with mysterious white figure visible in background, clear image quality despite unexplained presence"
+    - id: "slr_camera"
+      name: "1960s SLR Camera"
+      description_block: |
+        details: "Single-lens reflex camera with mechanical operation, 70% viewfinder coverage, typical professional equipment of the era"
+    - id: "kodacolor_film"
+      name: "Kodacolor Film Roll"
+      description_block: |
+        details: "Standard color film negative from 1964, new technology for amateur photographers, no signs of tampering or manipulation"
+    - id: "black_limousine"
+      name: "Government Limousine"
+      description_block: |
+        details: "Large black luxury car with official appearance, pristine condition, no visible identification plates or markings"
+    - id: "blue_streak_missile"
+      name: "Blue Streak Missile"
+      description_block: |
+        details: "British intermediate-range ballistic missile, white/silver metallic finish, manufactured near Solway Firth area"
+    - id: "newspaper_coverage"
+      name: "Cumberland News"
+      description_block: |
+        details: "Local newspaper from 1964 with front page coverage, headline text not readable, but clearly showing the photograph prominently displayed"

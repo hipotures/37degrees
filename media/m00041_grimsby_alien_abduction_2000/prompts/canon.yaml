@@ -1,0 +1,116 @@
+canon:
+  characters:
+    - id: "character_PW"
+      name: "Character PW"
+      description_block: |
+        characters:
+          - appearance: "Adult woman, early 30s, average build, shoulder-length brown hair, pale complexion"
+            clothing: "Light blue nightgown during incident, casual sweater and jeans when recounting experience"
+            position: "Lying in bed during alleged abduction, sitting upright when discussing events"
+            action: "Experiencing alleged transport to spacecraft, later speaking earnestly about experience"
+
+    - id: "character_AF"
+      name: "Character AF"
+      description_block: |
+        characters:
+          - appearance: "Humanoid figure, milky white complexion, smooth features, adult height"
+            clothing: "Wearing what appears to be a wig, no other distinct clothing described"
+            position: "Standing beside examination table, communicating telepathically"
+            action: "Providing reassurance about pets, overseeing medical procedures"
+
+    - id: "character_TK"
+      name: "Character TK"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man, stocky build, weathered hands, working-class appearance"
+            clothing: "Casual work clothes, rolled-up sleeves, car-washing attire"
+            position: "Standing beside car with water bucket and cloth"
+            action: "Washing car while observing unusual object in clear sky"
+
+    - id: "character_OS"
+      name: "Character OS"
+      description_block: |
+        characters:
+          - appearance: "Young girl, approximately 8-10 years old, curious expression, long hair"
+            clothing: "Casual children's clothing from 2000 era, colorful t-shirt and trousers"
+            position: "Standing near uncle, pointing toward sky"
+            action: "Observing white object alongside adult witness"
+
+    - id: "character_JR"
+      name: "Character JR"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged woman, professional appearance, graying hair, intelligent eyes"
+            clothing: "Business casual attire, navy blazer, academic conference clothing"
+            position: "Seated at conference table or standing at podium"
+            action: "Discussing UFO research methodology, advocating scientific skepticism"
+
+  locations:
+    - id: "tetney_lock_area"
+      name: "Tetney Lock Location"
+      description_block: |
+        setting:
+          time: "March 2000, 9:30 AM, early spring morning"
+          location: "Tetney Lock, rural Lincolnshire countryside near Grimsby"
+          weather: "Cool March morning, misty conditions, overcast sky"
+        scene:
+          mainElements: "Canal lock system with gates, narrow waterway, isolated residential houses"
+          background: "Flat agricultural fields stretching to horizon, minimal tree cover, rural isolation"
+          atmosphere: "Quiet morning tranquility, remote location away from witnesses, agricultural landscape"
+
+    - id: "alien_craft_interior"
+      name: "Alleged Spacecraft Interior"
+      description_block: |
+        setting:
+          time: "March 2000, during alleged 11.5-minute abduction"
+          location: "Interior of alleged alien spacecraft"
+          weather: "Not applicable - enclosed environment"
+        scene:
+          mainElements: "Steel-like construction throughout, corridor systems, clinical examination room"
+          background: "Metallic walls and surfaces, technological appearance, sterile environment"
+          atmosphere: "Cold metallic ambiance, clinical precision, unsettling medical facility feel"
+
+    - id: "grimsby_residential_area"
+      name: "Grimsby Residential District"
+      description_block: |
+        setting:
+          time: "March 2000, clear daylight hours"
+          location: "Grimsby, North East Lincolnshire, residential street area"
+          weather: "Clear blue sky, good visibility conditions"
+        scene:
+          mainElements: "Suburban houses, driveways, parked cars, residential street layout"
+          background: "Town center in distance, industrial port areas, coastal town characteristics"
+          atmosphere: "Normal daily activity, clear viewing conditions for sky observation"
+
+    - id: "bufora_research_center"
+      name: "BUFORA Headquarters"
+      description_block: |
+        setting:
+          time: "2000 era, conference setting"
+          location: "BUFORA research center, London area office building"
+          weather: "Interior environment, not applicable"
+        scene:
+          mainElements: "Conference room with tables, filing cabinets, research materials, meeting facilities"
+          background: "Professional office environment, academic research atmosphere"
+          atmosphere: "Scholarly skepticism, evidence-based methodology, scientific caution"
+
+  items:
+    - id: "examination_table"
+      name: "Alleged Medical Table"
+      description_block: |
+        details: "Clinical examination table suitable for human subject, metallic appearance, spread-eagle positioning capability, medical equipment nearby, steel-like construction matching spacecraft interior"
+
+    - id: "white_aerial_object"
+      name: "Pure White UFO"
+      description_block: |
+        details: "Pure white object visible against clear blue sky, undefined shape, silent movement, observed in daylight conditions, size and specific form unclear to witnesses"
+
+    - id: "steel_spacecraft"
+      name: "Alleged Alien Vessel"
+      description_block: |
+        details: "Entirely steel-like construction, corridor system layout, clinical examination rooms, technological appearance, sterile medical facility characteristics, no visible windows or external features described"
+
+    - id: "bufora_policy_document"
+      name: "Hypnotic Regression Moratorium"
+      description_block: |
+        details: "Official BUFORA policy document prohibiting hypnotic regression techniques, represents shift toward psychological explanations, evidence-based research methodology, scientific skepticism approach"

@@ -1,0 +1,109 @@
+sceneDescription:
+  setting:
+    time: August 12, 1983, 1:44 AM
+    location: Interior of disc-shaped craft, examination concluding
+    weather: Interior environment, sealed from outside conditions
+  characters:
+  - appearance: 77-year-old man, medium build, weathered face with military bearing, graying hair, wearing practical fishing
+      attire
+    clothing: Dark woolen coat, wellington boots, flat cap, carrying fishing equipment and thermos flask
+    position: Standing in chamber center, examination completed
+    action: Listening to beings' verdict with calm acceptance, preparing to exit craft
+  - appearance: Approximately 4.5 feet tall, humanoid form, proportionate limbs, face obscured by dark visor
+    clothing: Pale green coveralls from head to foot, molded appearance with no visible fasteners, matching helmet with dark
+      visor
+    position: Facing witness directly after examination
+    action: Communicating rejection verdict in broken English with sing-song accent
+  - appearance: Identical height and build to primary being, same humanoid characteristics, face obscured by dark visor
+    clothing: Identical pale green coveralls and helmet with dark visor
+    position: Standing nearby during communication
+    action: Silent witness to rejection communication, supporting primary being's decision
+  scene:
+    mainElements: Octagonal chamber with examination completed, amber light now dimmed, beings delivering rejection verdict,
+      witness accepting outcome calmly
+    details: Character GB1 communicating in broken English with mixture of Chinese and Russian accent, informing character
+      AB that he is too old and infirm for their purposes. Examination equipment shutting down, amber scanning light apparatus
+      returning to dormant state. Character AB receiving verdict with typical wartime generation stoicism, no surprise or
+      protest at rejection
+    background: Black metallic chamber walls, seamless construction with integrated technology, dim lighting now that examination
+      is complete
+    atmosphere: Clinical conclusion to medical examination, impersonal rejection based purely on age criteria, witness's calm
+      acceptance reflecting military training, unique reversal of typical abduction narrative where victim is rejected rather
+      than taken, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing interaction between beings and rejected witness
+    focus: Character GB1 delivering verdict to character AB with examination equipment in background
+    depth: Communicating figures in foreground, chamber technology in middle ground, curved walls in background
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Atomic Clocks in Flight - Testing Relativity Theory"
+  setting:
+    time: "October 1971, afternoon"
+    location: "Interior of early 1970s commercial aircraft during round-the-world flights, 10,000 meters altitude"
+    weather: "Clear skies at cruising altitude, controlled cabin environment"
+  characters:
+    - appearance: "Middle-aged American physicist, professional appearance, serious demeanor"
+      clothing: "1970s academic attire - tweed jacket, tie, conservative professional dress"
+      position: "Seated beside atomic clocks in aircraft cabin"
+      action: "Monitoring experimental equipment during historic flight"
+    - appearance: "Contemporary of character JH, professional astronomer appearance"
+      clothing: "1970s professional academic dress, practical for travel and experimental work"
+      position: "Operating scientific instruments in experimental setting"
+      action: "Recording precise timing measurements"
+  scene:
+    mainElements: "Four cesium atomic clocks carefully secured in passenger cabin, scientific monitoring equipment, flight attendants, passengers unaware of historic experiment"
+    details: "Four portable cesium beam atomic clocks, each about suitcase-sized, precise to nanoseconds, weighing approximately 35 pounds each, silver and black metal casings, digital readouts, careful shock-mounting for air travel. Scientists monitoring the clocks as they fly eastward around the world, passengers and crew continuing normal flight activities unaware they are part of physics history. Window views of clouds and continents below as relativity theory undergoes direct experimental test, no text or letters visible"
+    background: "Commercial aircraft interior with typical 1970s airline seating, overhead compartments, passenger windows showing aerial views"
+    atmosphere: "Steady engine hum, controlled cabin environment, sense of scientific anticipation, view of clouds and continents below"
+  composition:
+    cameraAngle: "Medium shot showing scientists with atomic clocks in aircraft cabin"
+    focus: "Atomic clocks measuring time dilation effects during high-speed flight"
+    depth: "Foreground: atomic clock equipment, middle ground: scientists monitoring experiment, background: aircraft interior and windows"

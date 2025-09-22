@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: August 10, 1628, mid-morning
+    location: Vasa warship gun deck during flooding
+    weather: Light wind continuing to push ship over
+  characters: No characters present in this scene
+  scene:
+    mainElements: Harbor water rushing through open gun ports as ship tilts beyond recovery point
+    details: Water cascading through open cannon ports only 1.2 meters above waterline, 64 bronze cannons sliding across tilting
+      deck as ship heels, flooding gun decks rapidly, massive artillery pieces breaking loose and causing additional chaos,
+      wooden gun deck awash with incoming harbor water, elaborate ship interior being destroyed by flooding
+    background: Stockholm harbor waters rising around ship, gun port openings now below water level, ship's ornate superstructure
+      still visible above water
+    atmosphere: Catastrophic flooding overwhelming ship's compartments, engineering disaster in full progress, point of no
+      return reached, royal warship becoming maritime tragedy, no text or letters visible
+  composition:
+    cameraAngle: Low angle shot from gun deck showing flooding catastrophe
+    focus: Unstoppable flooding through design flaw of low gun ports
+    depth: Flooding gun deck in foreground, tilting ship structure in middle ground, harbor waters in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

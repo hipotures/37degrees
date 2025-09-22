@@ -1,0 +1,31 @@
+sceneDescription:
+  title: "Breakthrough Results Confirmation"
+  setting:
+    time: "2024, late evening"
+    location: "Computer analysis laboratory within INRS research center"
+  characters:
+    - appearance: "Asian-Canadian man, 40s, focused expression, dark hair, wire-rim glasses"
+      clothing: "White lab coat over dark shirt, or casual dark suit with no tie"
+      position: "Standing at central workstation, arms raised in celebration"
+      action: "Celebrating the successful achievement of the world record"
+    - appearance: "Caucasian man, 30s, analytical expression, short brown hair, clean-shaven"
+      clothing: "INRS research center polo shirt or lab coat with safety glasses"
+      position: "Seated at workstation, turning toward team with excitement"
+      action: "Pointing at displays showing confirmed femtosecond capture data"
+    - appearance: "Caucasian woman, 35s, determined expression, shoulder-length blonde hair"
+      clothing: "Professional blouse under lab coat or dark business casual attire"
+      position: "Standing beside displays, hand on colleague's shoulder"
+      action: "Examining the unprecedented ultrafast imaging results with amazement"
+    - appearance: "South Asian man, 28s, enthusiastic expression, black hair, slight beard"
+      clothing: "Dark sweater or button-down shirt under lab coat"
+      position: "Seated with laptop, looking up at team"
+      action: "Verifying computational analysis confirms the 156.3 trillion FPS achievement"
+  scene:
+    mainElements: "Team celebration around displays showing successful femtosecond-scale imaging data from the world record achievement"
+    details: "Moment of breakthrough confirmation as displays throughout the laboratory show successful capture of ultrafast phenomena at 156.3 trillion frames per second. Multiple monitors display reconstructed images of femtosecond events, data analysis confirming the world record, and system performance metrics validating the revolutionary achievement. Research notes and equipment manuals scattered on workstations alongside celebratory beverages."
+    background: "Multiple high-performance workstations, large displays showing frame data, algorithm processing software"
+    atmosphere: "Jubilant scientific achievement atmosphere with bright computer displays illuminating excited faces, breakthrough moment in ultrafast imaging history, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot capturing the entire team's celebration moment"
+    focus: "The team's emotional reaction to achieving the world record breakthrough"
+    depth: "Foreground shows celebration gestures and expressions, middle ground emphasizes the confirming data displays, background reveals the full laboratory setup"

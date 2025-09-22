@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Learner Preparation and Electrode Attachment"
+  setting:
+    time: "1961, afternoon"
+    location: "Adjacent room with electric chair apparatus, separated by wall"
+    weather: "Indoor laboratory environment"
+  characters:
+    - appearance: "Caucasian man, 40s, stocky build, concerned expression when visible"
+      clothing: "White dress shirt, dark trousers, sleeves rolled up for electrode attachment"
+      position: "Seated in electric chair with arms positioned on chair armrests"
+      action: "Being prepared for electrode attachment while expressing concern about heart condition"
+    - appearance: "Caucasian man, 30s, stern facial expression, authoritative bearing, clean-shaven"
+      clothing: "Gray laboratory coat over dark suit, white shirt, professional appearance"
+      position: "Standing beside electric chair apparatus"
+      action: "Attaching electrodes to learner's arms and securing restraint straps"
+  scene:
+    mainElements: "Isolated, intimidating space designed to suggest serious consequences. Electric chair with leather straps positioned centrally in stark room."
+    details: "Metal chair with leather arm restraints, electrode wires, intimidating institutional design suggesting real electrical capability. Medical-grade electrodes with wires, conductive gel, professional attachment apparatus creating convincing illusion of real shock delivery system. Institutional walls and harsh fluorescent lighting creating clinical atmosphere."
+    background: "Isolated, intimidating space designed to suggest serious consequences"
+    atmosphere: "Growing tension and concern as participant observes electrode preparation. Clinical but ominous environment suggesting real physical consequences."
+  composition:
+    cameraAngle: "Close-up shot emphasizing electrode attachment procedure"
+    focus: "Medical-grade electrodes with wires, conductive gel, professional attachment apparatus creating convincing illusion of real shock delivery system"
+    depth: "Foreground shows electrode attachment detail, middle ground focuses on learner's concerned expression, background reveals institutional laboratory walls, no text or letters visible"

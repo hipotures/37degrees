@@ -1,0 +1,12 @@
+media_info:
+  title: Global Cell Phones vs Toilets Paradox - 2013
+  year: 2013
+  genre: Social Issues Documentary
+  description: UN reports 6 billion people have cell phones while only 45 billion have access to proper toilets
+  target_audience: General public, students, development enthusiasts, social justice advocates
+  duration: ~3 minutes
+  objective: Recreate the shocking UN statistic that revealed global development priorities and inequalities
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

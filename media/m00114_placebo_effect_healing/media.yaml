@@ -1,0 +1,11 @@
+media_info:
+  title: Placebo Effect Healing Power
+  genre: Medical Science Documentary
+  description: Fake treatments can produce real medical improvements through patient belief and expectation
+  target_audience: General public, students, medical enthusiasts, psychology buffs
+  duration: ~3 minutes
+  objective: Recreate the fascinating medical phenomenon that demonstrates the power of mind over body
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

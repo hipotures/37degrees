@@ -1,0 +1,115 @@
+canon:
+  characters:
+    - id: "character_PB"
+      name: "Character PB"
+      description_block: |
+        characters:
+          - appearance: "White man, late 20s, clean-shaven, earnest expression, medium build"
+            clothing: "1970s casual business attire, brown suit, tie, dress shoes"
+            posture: "Determined, often leaning forward when speaking, hands gesturing"
+    - id: "government_doctor"
+      name: "Government Doctor"
+      description_block: |
+        characters:
+          - appearance: "White man, 50s, graying hair, stern expression, authoritative bearing"
+            clothing: "1940s-1970s white lab coat over formal suit, medical stethoscope"
+            posture: "Upright, professional, often holding clipboard or medical instruments"
+    - id: "study_participant_elderly"
+      name: "Elderly Study Participant"
+      description_block: |
+        characters:
+          - appearance: "African American man, 70s, weathered face, tired eyes, thin frame"
+            clothing: "1970s simple work clothes, worn overalls or flannel shirt, work boots"
+            posture: "Slightly stooped, cautious, hands often clasped"
+    - id: "study_participant_middle"
+      name: "Middle-aged Study Participant"
+      description_block: |
+        characters:
+          - appearance: "African American man, 50s, strong build, concerned expression"
+            clothing: "1950s-1970s work clothes, cotton shirt, suspenders, work boots"
+            posture: "Alert, sometimes defensive, hands ready to work"
+    - id: "tuskegee_nurse"
+      name: "Tuskegee Nurse"
+      description_block: |
+        characters:
+          - appearance: "African American woman, 30s-40s, professional demeanor, kind eyes"
+            clothing: "1940s-1970s white nursing uniform, white cap, medical bag"
+            posture: "Caring but conflicted, gentle movements, often reaching toward patients"
+    - id: "journalist"
+      name: "Investigative Journalist"
+      description_block: |
+        characters:
+          - appearance: "White man, 40s, intense gaze, determined expression"
+            clothing: "1970s press attire, casual suit, loosened tie, notebook in hand"
+            posture: "Investigative stance, often taking notes, leaning in to listen"
+    - id: "family_member"
+      name: "Family Member"
+      description_block: |
+        characters:
+          - appearance: "African American woman, 40s-50s, worried expression, protective stance"
+            clothing: "1950s-1970s modest dress, apron, simple shoes"
+            posture: "Defensive, arms crossed or hands on hips, standing close to family"
+  locations:
+    - id: "tuskegee_clinic"
+      name: "Tuskegee Institute Medical Clinic"
+      description_block: |
+        setting:
+          location: "Medical examination room at Tuskegee Institute, Macon County, Alabama"
+        mainElements: "Simple medical examination table, basic medical equipment, institutional furniture"
+        atmosphere: "Clinical but humble, institutional lighting, sense of routine medical care"
+    - id: "rural_alabama_home"
+      name: "Rural Alabama Sharecropper Home"
+      description_block: |
+        setting:
+          location: "Simple wooden house in rural Macon County, Alabama countryside"
+        mainElements: "Front porch with wooden steps, basic furniture, agricultural tools nearby"
+        atmosphere: "Poor but dignified, rural Southern setting, hardworking family environment"
+    - id: "public_health_office"
+      name: "Public Health Service Office"
+      description_block: |
+        setting:
+          location: "Government health office building, Atlanta or Washington DC"
+        mainElements: "Official desks, filing cabinets, government documents, institutional décor"
+        atmosphere: "Bureaucratic, formal, sterile government environment"
+    - id: "newspaper_office"
+      name: "Newspaper Editorial Office"
+      description_block: |
+        setting:
+          location: "Newsroom office, major American newspaper, 1970s"
+        mainElements: "Typewriters, telephone, stacks of papers, desk lamps, press equipment"
+        atmosphere: "Busy, investigative energy, sense of urgency and discovery"
+    - id: "congressional_hearing"
+      name: "Congressional Hearing Room"
+      description_block: |
+        setting:
+          location: "US Capitol hearing room, Washington DC"
+        mainElements: "Formal panel table, microphones, American flags, formal seating"
+        atmosphere: "Official, serious, governmental authority, public accountability"
+    - id: "cemetery"
+      name: "Rural Alabama Cemetery"
+      description_block: |
+        setting:
+          location: "Small rural cemetery in Macon County, Alabama"
+        mainElements: "Simple headstones, rural landscape, scattered graves, modest markers"
+        atmosphere: "Somber, peaceful, reflecting the human cost of the study"
+  items:
+    - id: "medical_records"
+      name: "Medical Study Records"
+      description_block: |
+        details: "Stacks of manila folders and documents containing patient files, study data"
+    - id: "blood_test_vials"
+      name: "Blood Test Vials and Medical Equipment"
+      description_block: |
+        details: "Glass vials with blood samples, medical syringes, laboratory equipment"
+    - id: "government_seal"
+      name: "Public Health Service Seal"
+      description_block: |
+        details: "Official US Public Health Service insignia and government letterhead"
+    - id: "newspaper_headlines"
+      name: "Investigative Newspaper"
+      description_block: |
+        details: "Newspaper with bold headlines about medical study exposure (text not readable)"
+    - id: "consent_forms"
+      name: "Medical Documents"
+      description_block: |
+        details: "Official medical forms and paperwork spread on desk, no readable text"

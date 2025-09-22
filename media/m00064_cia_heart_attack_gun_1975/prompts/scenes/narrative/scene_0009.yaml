@@ -1,0 +1,19 @@
+sceneDescription:
+  title: "Media Broadcasting Historic Intelligence Revelations"
+  setting:
+    time: "September 17, 1975, 6:00 PM"
+    location: "Television news studio, Washington DC"
+  characters:
+    - appearance: "Caucasian man, 40s, professional bearing, neatly groomed dark hair, serious expression"
+      clothing: "1970s dark suit with wide lapels, white dress shirt, patterned tie"
+      position: "Seated at news desk facing television camera"
+      action: "Broadcasting breaking news about CIA heart attack gun revelation"
+  scene:
+    mainElements: "Television news studio with anchor desk, cameras, and lighting equipment broadcasting heart attack gun story"
+    details: "Professional news broadcast setup with multiple cameras capturing historic story, television monitors displaying footage from congressional hearing, news anchor delivering grave report about CIA assassination capabilities, studio lighting creates authoritative atmosphere, broadcast equipment operational throughout studio, American flag visible in studio background, professional news graphics and staging, no text or letters visible"
+    background: "Modern 1970s television studio with broadcast equipment and patriotic decorations"
+    atmosphere: "Breaking news urgency as media informs public about shocking intelligence community revelations"
+  composition:
+    cameraAngle: "Medium shot of news anchor with studio background"
+    focus: "Television broadcast of historic CIA heart attack gun revelation"
+    depth: "Foreground shows news anchor at desk, middle ground captures studio equipment, background reveals professional broadcast setting"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Workers Bricking Up Windows to Avoid Tax"
+  setting:
+    time: "1698, morning"
+    location: "Multi-story brick townhouse, Bloomsbury district, London, England"
+    weather: "Clear summer day"
+  characters:
+    - appearance: "Caucasian man, 40s, muscular build, dust-covered clothing, determined expression"
+      clothing: "Brown leather apron, rolled-up sleeves, work boots, tool belt"
+      position: "Standing on wooden scaffold working at second-story window"
+      action: "Carefully laying bricks to seal window opening with mortar and trowel"
+    - appearance: "Caucasian man, 30s, stocky build, focused expression, work-worn hands"
+      clothing: "Gray work shirt, leather vest, canvas trousers, heavy boots"
+      position: "At ground level handling materials and tools"
+      action: "Passing bricks up to worker on scaffold, mixing mortar in wooden bucket"
+  scene:
+    mainElements: "Georgian brick facade with multiple windows, wooden scaffolding erected against building, piles of red bricks and mortar supplies"
+    details: "Half-completed bricked-up windows showing construction progress, wooden wheelbarrow filled with bricks, metal trowels and construction tools, mortar bucket with mixing stick, cloth rags for cleaning, measuring rope, wooden scaffold planks and support posts"
+    background: "Row of similar Georgian townhouses, some also showing bricked-up windows, London street with period pedestrians observing the work"
+    atmosphere: "Active construction work underway, systematic response to taxation, practical adaptation to government policy, bright daylight revealing detailed craftsmanship, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot from street perspective"
+    focus: "Workers actively bricking up window openings on building facade"
+    depth: "Construction work and scaffold in foreground, townhouse facade in middle ground, London streetscape with similar buildings in background"

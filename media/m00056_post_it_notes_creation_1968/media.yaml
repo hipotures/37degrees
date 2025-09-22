@@ -1,0 +1,12 @@
+media_info:
+  title: Post-it Notes Creation - 1968
+  year: 1968
+  genre: Science & Technology Documentary
+  description: Failed super-strong glue combined with need for removable bookmarks creates revolutionary office product
+  target_audience: General public, students, business enthusiasts, inventors
+  duration: ~3 minutes
+  objective: Recreate the innovative combination of failed adhesive and creative need that created Post-it Notes
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

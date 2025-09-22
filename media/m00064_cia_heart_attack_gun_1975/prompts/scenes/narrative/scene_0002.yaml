@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Committee Chairman Reveals the Secret Weapon"
+  setting:
+    time: "September 17, 1975, 10:15 AM"
+    location: "US Senate Caucus Room 318, Russell Senate Office Building, Washington DC"
+  characters:
+    - appearance: "Caucasian man, 50s, distinguished bearing, graying hair combed back, serious expression with deep-set eyes"
+      clothing: "1970s dark blue suit with thin lapels, white dress shirt, conservative patterned tie"
+      position: "Standing at committee table holding the weapon for display"
+      action: "Presenting the CIA heart attack gun to assembled committee and media"
+    - appearance: "Caucasian man, 60s, white hair, stern demeanor, weathered face with prominent jawline"
+      clothing: "1970s dark gray suit, white dress shirt, solid colored tie, American flag pin on lapel"
+      position: "Seated at committee dais observing the presentation"
+      action: "Watching intently as the weapon is displayed to the public"
+  scene:
+    mainElements: "Modified Colt M1911 pistol with telescopic scope mounted on top, electrical battery attachment, specialized firing mechanism for frozen darts rather than bullets held prominently in committee chairman's hands"
+    details: "Television cameras focus on the unusual weapon, committee members lean forward for closer examination, gallery packed with reporters documenting historic revelation, overhead lighting creates dramatic shadows across the modified firearm, security personnel maintain vigilant watch, no text or letters visible"
+    background: "Crowded hearing room with press gallery, marble columns and formal government architecture"
+    atmosphere: "Moment of shocking revelation as secret CIA assassination technology is exposed to public scrutiny for first time"
+  composition:
+    cameraAngle: "Medium shot focusing on senator and weapon"
+    focus: "The heart attack gun being displayed by committee chairman"
+    depth: "Foreground shows detailed weapon, middle ground captures senator's presentation, background reveals packed gallery reaction"

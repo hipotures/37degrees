@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1881, midday
+    location: Bustling market square in 1880s Cape Colony town
+    weather: Clear sunny day with scattered clouds
+  characters:
+  - appearance: White male, 40s, sturdy build, determined expression, double leg amputee below the knee
+    clothing: 1880s railway uniform - dark blue wool jacket with brass buttons, white shirt, black tie, dark trousers
+    position: Seated in small wooden trolley, positioned at edge of market square
+    action: Watching with amazement as baboon skillfully guides ox-drawn wagon through crowded marketplace
+  - appearance: Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build
+    clothing: No clothing yet, natural baboon appearance
+    position: Standing upright on ox-cart driver's seat, holding reins
+    action: Expertly steering oxen through market crowds, responding to hand signals from cart owner
+  scene:
+    mainElements: Dirt roads lined with wooden market stalls, ox-drawn wagons, colonial architecture with Victorian storefronts,
+      crowds of diverse local vendors and customers
+    details: Fresh produce stalls with vegetables and fruits, livestock pens with chickens and goats, wooden crates and barrels,
+      canvas awnings over vendor stalls, dust clouds from passing wagons, colonial-era shop signs without readable text
+    background: Stone and brick colonial buildings, church spire in distance, rolling South African hills, scattered acacia
+      trees
+    atmosphere: Lively colonial marketplace buzzing with commercial activity, mix of European settler and African local cultures,
+      sounds of haggling and animals, warm African sunlight
+  composition:
+    cameraAngle: Wide establishing shot from elevated position
+    focus: the baboon the baboon expertly driving ox-cart while character JW watches from his trolley
+    depth: 'Foreground: character JW in trolley, middle ground: the baboon driving cart through market crowd, background:
+      colonial buildings and landscape, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

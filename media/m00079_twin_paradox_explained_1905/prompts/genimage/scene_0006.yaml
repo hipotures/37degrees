@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: October 1971, afternoon
+    location: Interior of early 1970s commercial aircraft during round-the-world flights, 10,000 meters altitude
+    weather: Clear skies at cruising altitude, controlled cabin environment
+  characters:
+  - appearance: Middle-aged American physicist, professional appearance, serious demeanor
+    clothing: 1970s academic attire - tweed jacket, tie, conservative professional dress
+    position: Seated beside atomic clocks in aircraft cabin
+    action: Monitoring experimental equipment during historic flight
+  - appearance: Contemporary of character JH, professional astronomer appearance
+    clothing: 1970s professional academic dress, practical for travel and experimental work
+    position: Operating scientific instruments in experimental setting
+    action: Recording precise timing measurements
+  scene:
+    mainElements: Four cesium atomic clocks carefully secured in passenger cabin, scientific monitoring equipment, flight
+      attendants, passengers unaware of historic experiment
+    details: Four portable cesium beam atomic clocks, each about suitcase-sized, precise to nanoseconds, weighing approximately
+      35 pounds each, silver and black metal casings, digital readouts, careful shock-mounting for air travel. Scientists
+      monitoring the clocks as they fly eastward around the world, passengers and crew continuing normal flight activities
+      unaware they are part of physics history. Window views of clouds and continents below as relativity theory undergoes
+      direct experimental test, no text or letters visible
+    background: Commercial aircraft interior with typical 1970s airline seating, overhead compartments, passenger windows
+      showing aerial views
+    atmosphere: Steady engine hum, controlled cabin environment, sense of scientific anticipation, view of clouds and continents
+      below
+  composition:
+    cameraAngle: Medium shot showing scientists with atomic clocks in aircraft cabin
+    focus: Atomic clocks measuring time dilation effects during high-speed flight
+    depth: 'Foreground: atomic clock equipment, middle ground: scientists monitoring experiment, background: aircraft interior
+      and windows'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

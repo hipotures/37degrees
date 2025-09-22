@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Community care during recovery period"
+  setting:
+    time: "Early morning, soft dawn light filtering through forest"
+    location: "Traditional Sateré-Mawé ceremonial shelter within village"
+    weather: "Cool morning air with gentle mist"
+  characters:
+    - appearance: "Indigenous Brazilian boy, 12-15 years old, lean athletic build, bronze skin, straight black hair"
+      clothing: "Traditional Sateré-Mawé attire with colorful feather ornaments, woven cotton bands, minimal body decoration"
+      position: "Resting on woven mat inside shelter, still recovering from venom effects"
+      action: "Gradually regaining strength while receiving traditional care and healing treatments"
+    - appearance: "Various Sateré-Mawé villagers of different ages, bronze skin, traditional facial features"
+      clothing: "Everyday tribal attire with colorful cotton garments, simple jewelry, body paint patterns"
+      position: "Gathered around recovery shelter providing care and support"
+      action: "Bringing traditional healing remedies, food, and offering encouragement during recovery process"
+  scene:
+    mainElements: "Elevated platform with thatched roof, woven walls, carved wooden posts, ritual objects displayed"
+    details: "Traditional healing materials including medicinal plants, healing balms, recovery foods arranged nearby. Recovering initiate resting comfortably while community members provide continuous care and spiritual support."
+    background: "Village morning activities continuing around shelter, Amazon rainforest visible through openings"
+    atmosphere: "Sacred space with cultural artifacts, smoking herbs, spiritual significance. Nurturing community care combined with continued ritual reverence, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing community care and shelter environment"
+    focus: "Recovering initiate surrounded by supportive community members"
+    depth: "Care activities in foreground, recovering youth in middle ground, village life in background"

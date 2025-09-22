@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Participant Recruitment and Initial Contact"
+  setting:
+    time: "1961, afternoon"
+    location: "Yale University main entrance and reception area, New Haven, Connecticut"
+    weather: "Overcast autumn afternoon"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, average build, anxious expression, increasingly distressed"
+      clothing: "1960s business casual attire, dress shirt with rolled sleeves, dark trousers"
+      position: "Standing at university reception desk with paperwork"
+      action: "Reading and signing participation consent forms and receiving payment compensation"
+  scene:
+    mainElements: "Yale University reception area with institutional furniture, academic atmosphere, formal registration desk. Official university signage and academic credentials establishing legitimacy of research environment."
+    details: "Registration paperwork and documentation spread on desk surface. University identification badges and official letterhead visible. Compensation payment of bills and coins arranged on desk. Academic institutional setting with carved university emblems and formal architectural details creating atmosphere of prestigious educational authority."
+    background: "Yale University institutional architecture with stone columns, carved details, and academic heraldry"
+    atmosphere: "Formal academic environment conveying institutional prestige and scientific legitimacy. Sense of willing participation in respected university research."
+  composition:
+    cameraAngle: "Medium shot focusing on registration interaction"
+    focus: "Participant signing documentation and receiving compensation at university reception desk"
+    depth: "Foreground shows paperwork and payment exchange, middle ground focuses on participant interaction, background establishes Yale University institutional setting, no text or letters visible"

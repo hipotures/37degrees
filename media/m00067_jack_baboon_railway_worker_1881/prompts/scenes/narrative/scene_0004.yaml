@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Official Appointment - the baboon Receives Railway Uniform"
+  setting:
+    time: "1882, morning"
+    location: "Uitenhage railway station, Cape Colony, South Africa"
+    weather: "Bright morning with gentle breeze"
+  characters:
+    - appearance: "White male, 40s, sturdy build, determined expression, double leg amputee below the knee"
+      clothing: "1880s railway uniform - dark blue wool jacket with brass buttons, white shirt, black tie, dark trousers"
+      position: "Seated in trolley beside railway platform"
+      action: "Proudly watching as the baboon receives his official uniform and railway appointment"
+    - appearance: "Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build"
+      clothing: "Miniature railway signalman uniform - dark blue cap, small brass buttons on vest"
+      position: "Standing upright on platform, newly dressed in official uniform"
+      action: "Adjusting his new cap with obvious pride, standing at attention like proper railway employee"
+    - appearance: "Middle-aged white men, 40s-50s, formal bearing, skeptical expressions"
+      clothing: "Victorian formal suits - black coats, white shirts, bow ties, top hats, pocket watches"
+      position: "Standing in official group on platform"
+      action: "Presenting the baboon with employment papers and observing his professional demeanor"
+  scene:
+    mainElements: "Victorian-era railway station with stone platform, wooden signal box in background, official railway documentation ceremony"
+    details: "Custom-made dark blue railway cap and vest with brass buttons sized for baboon, employment paperwork in officials' hands, signal box equipment visible, railway tracks and wooden waiting benches, telegraph wires overhead"
+    background: "Multiple rail tracks with steam locomotives, passenger cars, colonial buildings of Uitenhage town, rolling South African countryside"
+    atmosphere: "Formal ceremony marking unprecedented appointment of non-human railway employee, mixture of official protocol and wonderment at unique situation"
+  composition:
+    cameraAngle: "Medium shot capturing ceremony participants"
+    focus: "the baboon in his new uniform receiving official recognition while character JW and officials observe"
+    depth: "Foreground: ceremony participants on platform, middle ground: signal box and railway infrastructure, background: trains and town buildings, no text or letters visible"

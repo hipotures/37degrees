@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Data Processing and Image Reconstruction"
+  setting:
+    time: "2024, evening"
+    location: "Computer analysis laboratory within INRS research center"
+  characters:
+    - appearance: "South Asian man, 28s, enthusiastic expression, black hair, slight beard"
+      clothing: "Dark sweater or button-down shirt under lab coat"
+      position: "Seated at workstation with multiple monitors, leaning forward intently"
+      action: "Operating specialized algorithms to decode the time-staggered light data"
+    - appearance: "Caucasian man, 30s, analytical expression, short brown hair, clean-shaven"
+      clothing: "INRS research center polo shirt or lab coat with safety glasses"
+      position: "Standing behind, pointing at displays"
+      action: "Analyzing the emerging femtosecond-scale image sequences"
+  scene:
+    mainElements: "High-performance computer system running specialized algorithms to decode time-staggered light inputs and reconstruct ultrafast phenomena into viewable image sequences"
+    details: "Advanced computational workstation displaying the reconstruction of femtosecond events captured by the SCARF camera. Multiple high-resolution monitors show the progression of algorithmic processing as time-staggered optical data transforms into coherent image sequences revealing ultrafast phenomena. Complex mathematical visualizations and data flow diagrams demonstrate the computational intensity required to process 156.3 trillion frames per second of information."
+    background: "Multiple high-performance workstations, large displays showing frame data, algorithm processing software"
+    atmosphere: "Modern computational research environment with bright displays and organized workstations, focused intensity as breakthrough data emerges, no text or letters visible"
+  composition:
+    cameraAngle: "Over-shoulder shot emphasizing the data processing interface"
+    focus: "The computational reconstruction of ultrafast phenomena data"
+    depth: "Foreground shows detailed computer displays and interfaces, middle ground features researchers analyzing results, background reveals additional processing equipment and workstations"

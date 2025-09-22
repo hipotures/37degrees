@@ -1,0 +1,87 @@
+canon:
+  characters:
+    - id: "character_KM"
+      name: "Character KM"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 25 years old, athletic build, dark brown hair, focused expression"
+            clothing: "German army uniform with medical insignia, or white doctor's coat, dark trousers"
+            posture: "Professional, methodical, often examining objects closely or working with hands"
+    - id: "character_HF"
+      name: "Character HF"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, late 20s, stocky build, light brown hair, engineering background visible in mannerisms"
+            clothing: "Workshop attire, suspenders over white shirt, dark work trousers"
+            posture: "Practical, hands-on approach, often gesturing while explaining technical concepts"
+    - id: "character_factory_workers"
+      name: "Factory Workers"
+      description_block: |
+        characters:
+          - appearance: "Various Caucasian men and women, ages 20-50, working-class appearance, focused expressions"
+            clothing: "Factory work clothes, overalls, aprons, caps, 1940s-1950s industrial attire"
+            posture: "Busy, industrious, operating machinery or handling materials"
+    - id: "character_griggs_representative"
+      name: "Griggs Representative"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, well-groomed businessman appearance, confident expression"
+            clothing: "1959 British business suit, tie, polished shoes, carrying briefcase"
+            posture: "Professional, authoritative, examining products with commercial interest"
+  locations:
+    - id: "ski_slopes_1945"
+      name: "Bavarian Ski Slopes 1945"
+      description_block: |
+        setting:
+          location: "Snowy mountain slopes, Bavaria, Germany, winter landscape"
+        mainElements: "Snow-covered pine trees, ski tracks, mountain peaks in background"
+        atmosphere: "Cold, crisp winter air, peaceful mountain setting interrupted by accident"
+    - id: "medical_examination_room"
+      name: "Military Medical Facility"
+      description_block: |
+        setting:
+          location: "Sparse medical examination room, German military facility, 1945"
+        mainElements: "Simple wooden examination table, medical instruments, basic furniture"
+        atmosphere: "Clinical, utilitarian wartime medical setting"
+    - id: "workshop_garage"
+      name: "Post-war Workshop"
+      description_block: |
+        setting:
+          location: "Small workshop or garage space, Germany, late 1940s"
+        mainElements: "Workbench, tools, automobile tire pieces, experimental materials"
+        atmosphere: "Inventive, makeshift, post-war resourcefulness and innovation"
+    - id: "munich_factory_1952"
+      name: "Munich Shoe Factory 1952"
+      description_block: |
+        setting:
+          location: "Industrial shoe manufacturing facility, Munich, Germany"
+        mainElements: "Production line machinery, workstations, leather materials, finished boots"
+        atmosphere: "Bustling, efficient, post-war German industrial recovery"
+    - id: "british_business_office"
+      name: "R. Griggs Group Office 1959"
+      description_block: |
+        setting:
+          location: "Corporate office, British shoe manufacturer, England"
+        mainElements: "Mahogany desk, leather chairs, product samples, business documents"
+        atmosphere: "Professional, established British business environment"
+  items:
+    - id: "original_army_boot"
+      name: "German Army Boot"
+      description_block: |
+        details: "Black leather military boot with hard sole, traditional construction, showing wear and discomfort"
+    - id: "automobile_tire_pieces"
+      name: "Tire Rubber Pieces"
+      description_block: |
+        details: "Black rubber pieces cut from automobile tire, irregular shapes, raw material for sole innovation"
+    - id: "prototype_sole"
+      name: "Air-Cushioned Sole Prototype"
+      description_block: |
+        details: "Revolutionary sole design with air pocket, two rubber layers, one stitched to leather, other heat-sealed"
+    - id: "original_martens_boot"
+      name: "Original Märtens Boot"
+      description_block: |
+        details: "Brown leather boot with air-cushioned sole, comfortable design, practical construction"
+    - id: "iconic_1460_boot"
+      name: "Dr. Martens 1460 Boot"
+      description_block: |
+        details: "Black leather eight-eyelet boot with distinctive yellow stitching, grooved sole edge, bulbous upper, heel loop with Airwair branding"

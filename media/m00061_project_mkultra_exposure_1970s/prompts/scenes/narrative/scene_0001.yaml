@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Secret CIA Laboratory Experiments Begin"
+  setting:
+    time: "1953, late afternoon"
+    location: "US Army biological warfare facility, Camp Detrick, Frederick, Maryland"
+    weather: "Clear day, indoor setting"
+  characters:
+    - appearance: "Caucasian man, 50s, medium build, balding with mustache, clinical expression, thick-rimmed glasses"
+      clothing: "1950s white lab coat over shirt and tie"
+      position: "Standing at laboratory bench, handling scientific equipment"
+      action: "Carefully measuring clear liquid into small glass vials, making notes on clipboard"
+    - appearance: "Caucasian man, 40s, tall, lean build, dark hair, worried expression, scientific bearing"
+      clothing: "1953 white lab coat over white dress shirt and tie"
+      position: "Standing nearby at second laboratory station"
+      action: "Observing the preparation while reviewing typed documents, appearing increasingly uncomfortable"
+  scene:
+    mainElements: "White-tiled laboratory rooms with 1950s medical and scientific equipment, examination tables, medicine cabinets with glass vials, monitoring devices"
+    details: "Laboratory bench covered with glass beakers, measuring equipment, and small vials containing clear liquid. Scientific charts and graphs mounted on walls. Clinical lighting casting harsh shadows. Recording equipment and cameras positioned to document procedures. Manila folders marked with security classifications scattered on metal desk."
+    background: "Sterile white laboratory walls with observation windows, government facility corridors visible through doorway, security personnel standing guard"
+    atmosphere: "Clinical, secretive, unsettling medical environment with sense of clandestine experimentation and growing unease among participants, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from side angle"
+    focus: "Scientists preparing experimental substances in laboratory setting"
+    depth: "Laboratory equipment in foreground, scientists in middle ground, institutional corridors in background"

@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: 2025, deep interstellar space beyond solar system
+    location: Interstellar void heading toward constellation Pegasus
+    weather: Absolute vacuum of interstellar space with cosmic background radiation
+  characters: No characters present in this scene
+  scene:
+    mainElements: Extremely elongated cigar-shaped object, 100-1000 meters long, 35-167 meters wide, dark reddish color, highly
+      reflective surface, tumbling rotation every 7.3 hours, no visible tail or coma now invisible to human detection but
+      continuing its eternal journey
+    details: The vast emptiness between star systems, cold and radiation-filled vacuum of space with invisible gravitational
+      fields, cosmic radiation, stellar background, solar system boundary far behind. The mysterious visitor has resumed its
+      million-year journey between the stars, carrying its secrets away from human civilization. Our solar system appears
+      as a distant point of light behind the departing object.
+    background: Infinite cosmic void with our solar system now appearing as merely another star in the vast stellar background
+    atmosphere: Absolute vacuum, extreme cold approaching absolute zero, faint starlight from distant stars creating sense
+      of eternal mystery and cosmic loneliness as the visitor disappears into deep space, no text or letters visible
+  composition:
+    cameraAngle: Extreme wide shot showing object's return to interstellar isolation
+    focus: The mysterious object resuming its cosmic voyage with secrets intact
+    depth: Foreground shows departing object, middle distance shows empty space, background shows our solar system as distant
+      point of light
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Traveler Decides to Return Home"
+  setting:
+    time: "1905, deep space, moment of decision"
+    location: "Deep space at maximum distance from Earth, visible as distant blue star"
+    weather: "Silent cosmic void with brilliant distant stars"
+  characters:
+    - appearance: "Young man, 25 years old, athletic build, short brown hair, clean-shaven, determined expression"
+      clothing: "Early 20th century traveler's outfit: brown leather jacket, wool pants, sturdy boots, aviator goggles"
+      position: "Standing at spacecraft observation window"
+      action: "Looking back toward distant Earth, hand on control lever preparing to reverse course"
+  scene:
+    mainElements: "Spacecraft interior with brass controls, large observation window, Earth visible as distant blue point of light"
+    details: "The observation window dominates the scene, framing a view of distant Earth as a tiny blue star among countless others. The spacecraft interior shows polished brass control panels with numerous dials and gauges. A large course-correction lever awaits activation. Scientific instruments line the walls, their readings indicating vast distance traveled. The traveler's reflection is visible in the window glass."
+    background: "Infinite starfield with distant galaxies and nebulae, emphasizing the vast scale of space"
+    atmosphere: "Profound isolation and cosmic scale, moment of crucial decision, mixture of loneliness and determination, no text or letters visible"
+  composition:
+    cameraAngle: "Interior shot looking out through observation window"
+    focus: "The distant Earth through the window and the traveler's contemplative pose"
+    depth: "Foreground shows spacecraft controls, middle ground captures traveler, background reveals cosmic vastness"

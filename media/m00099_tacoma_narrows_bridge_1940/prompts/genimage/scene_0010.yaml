@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, late November
+    location: Engineering research facility analyzing bridge collapse
+    weather: Clear day for serious engineering analysis
+  characters:
+  - appearance: American man, 60s, distinguished engineer appearance, gray hair, authoritative bearing
+    clothing: 1940s formal engineering suit with tie, carrying rolled engineering plans
+    position: Standing at analysis table with bridge failure documentation
+    action: Professional engineering analysis, studying failure reports with serious concern for future designs
+  scene:
+    mainElements: Engineering analysis of bridge collapse with failure reports, photographs, and new design principles
+    details: Detailed failure analysis reports spread across engineering tables, photographs of bridge oscillation and collapse,
+      new wind tunnel testing equipment for bridge design, engineering calculations accounting for aerodynamic forces, revolutionary
+      changes to suspension bridge engineering, lessons learned documentation
+    background: Engineering research facility with advanced testing equipment, wind tunnel models of bridges, scientific approach
+      to structural design
+    atmosphere: Engineering profession learning from catastrophic failure, scientific approach replacing intuitive design,
+      revolution in bridge engineering following disaster, commitment to preventing future failures, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing engineering analysis and lessons learned
+    focus: Engineering education and improved design principles from disaster
+    depth: Engineer and analysis materials in foreground, research facility in middle ground, new bridge testing equipment
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

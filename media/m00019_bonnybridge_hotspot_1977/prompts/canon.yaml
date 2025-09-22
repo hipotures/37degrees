@@ -1,0 +1,98 @@
+canon:
+  characters:
+    - id: "character_JW"
+      name: "Character JW"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Scottish businessman, average build, concerned expression, weathered face from years of local travel"
+            clothing: "1990s business attire - dark navy suit jacket, white collared shirt, practical tie, suitable for driving"
+            posture: "Initially confident, then genuinely startled and confused by unexpected encounter"
+    - id: "character_MR"
+      name: "Character MR"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Scottish man, gray hair, serious researcher demeanor, analytical eyes reflecting 45 years of investigation experience"
+            clothing: "Casual brown field jacket, practical research attire, often carries professional investigation equipment and notebooks"
+            posture: "Methodical, analytical stance, initially skeptical but open-minded researcher approach"
+    - id: "character_BB"
+      name: "Character BB"
+      description_block: |
+        characters:
+          - appearance: "Scottish local councillor, formal appearance, determined expression, official bearing"
+            clothing: "Council meeting attire - formal white shirt, dark tie, council identification badge visible"
+            posture: "Serious, committed stance, frustrated by government indifference but determined to represent constituents"
+    - id: "character_IS"
+      name: "Character IS"
+      description_block: |
+        characters:
+          - appearance: "Local Scottish woman, middle-aged, walking with family member, shocked expression"
+            clothing: "Early 1990s casual wear, practical evening walking attire, comfortable shoes"
+            posture: "Shocked, pointing upward, detailed gesturing during account of close encounter experience"
+    - id: "character_RP"
+      name: "Character RP"
+      description_block: |
+        characters:
+          - appearance: "Married couple in car, man driving, woman passenger, both observing aerial phenomena with calm attention"
+            clothing: "1990s travel attire, practical clothing for car journey, comfortable for extended driving"
+            posture: "Calm, methodical observation posture, multiple witness credibility through shared experience"
+  locations:
+    - id: "bonnybridge_town"
+      name: "Bonnybridge Town Center"
+      description_block: |
+        setting:
+          location: "Small Scottish town of Bonnybridge near Falkirk, population 6,000, industrial heritage background"
+        mainElements: "Traditional Scottish stone buildings, residential streets with terraced houses, countryside views, industrial remnants"
+        atmosphere: "Quiet rural-industrial setting, evening sky perfect for UFO observations, community feeling"
+    - id: "falkirk_triangle_area"
+      name: "Falkirk Triangle Region"
+      description_block: |
+        setting:
+          location: "Triangular region between Stirling, Fife, and Edinburgh outskirts, central Scotland countryside"
+        mainElements: "Rural roads winding through hills, small Scottish towns, scattered industrial areas, clear night skies"
+        atmosphere: "Open landscape providing excellent visibility for aerial phenomena, minimal light pollution"
+    - id: "a80_castlecary_viaduct"
+      name: "A80 Road at Castlecary Viaduct"
+      description_block: |
+        setting:
+          location: "Major Scottish motorway A80 with elevated concrete viaduct section near Cumbernauld, central Scotland"
+        mainElements: "Multi-lane highway with central barrier, concrete viaduct structure, surrounding Scottish countryside"
+        atmosphere: "Evening travel conditions, good visibility for aerial observations, elevated viewpoint"
+    - id: "falkirk_town_hall"
+      name: "Falkirk Town Hall"
+      description_block: |
+        setting:
+          location: "Traditional Scottish civic building in Falkirk town center, Victorian architecture"
+        mainElements: "Stone Victorian architecture, council chambers with wooden paneling, public gallery, official meeting setup"
+        atmosphere: "Formal government setting for serious UFO discussion meetings, official civic environment"
+    - id: "scottish_countryside_road"
+      name: "Scottish Country Road"
+      description_block: |
+        setting:
+          location: "Rural road between Falkirk and Bonnybridge, Scottish countryside, minimal traffic"
+        mainElements: "Single-lane country road, stone walls, rolling hills, telephone poles, scattered farm buildings"
+        atmosphere: "Quiet evening setting, perfect visibility for unusual aerial phenomena, isolated rural feeling"
+  items:
+    - id: "star_shaped_ufo"
+      name: "Star-Shaped UFO Object"
+      description_block: |
+        details: "Brightly shining star-shaped craft with luminous white-blue appearance, hovering capability above road level, estimated size larger than conventional aircraft"
+    - id: "blue_light_craft"
+      name: "Blue Light UFO with Opening"
+      description_block: |
+        details: "Blue luminous craft hovering above road level, distinct opening door mechanism visible, interior light emanating from opened section"
+    - id: "twin_hovering_objects"
+      name: "Dual Stationary Objects"
+      description_block: |
+        details: "Two distinct aerial objects, stationary at 300 feet altitude, clearly visible from highway distance, maintaining fixed positions during observation"
+    - id: "investigation_equipment"
+      name: "UFO Investigation Equipment"
+      description_block: |
+        details: "Professional UFO research equipment including cameras, recording devices, measurement tools, extensive case files, 45 years of documentation"
+    - id: "walker_vehicle"
+      name: "Business Car 1992"
+      description_block: |
+        details: "Early 1990s family car, dark color, forced to stop on country road due to UFO blocking path, single occupant vehicle"
+    - id: "procek_vehicle"
+      name: "Family Car 1993"
+      description_block: |
+        details: "1990s family car traveling on A80 motorway, good visibility conditions, two occupants providing multiple witness account"

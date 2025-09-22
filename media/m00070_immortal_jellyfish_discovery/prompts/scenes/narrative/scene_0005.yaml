@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Documenting Complete Medusa to Polyp Life Cycle Reversal"
+  setting:
+    time: "Late summer 1988, evening"
+    location: "1980s marine biology research facility, Liguria coast, Italy"
+    weather: "Controlled laboratory environment with bright working lights"
+  characters:
+    - appearance: "Caucasian man, mid-20s, athletic build, dark blonde hair, intense curious eyes behind wire-rimmed glasses"
+      clothing: "1980s marine biology fieldwork attire: faded navy blue polo shirt, khaki shorts, diving gear when underwater"
+      position: "Seated at laboratory bench with multiple specimen containers arranged in sequence"
+      action: "Photographing and documenting the complete transformation sequence from adult medusa to juvenile polyp stage"
+    - appearance: "Mediterranean man, mid-20s, slender build, dark hair, expressive brown eyes, thoughtful demeanor"
+      clothing: "1980s casual academic wear: white cotton shirt, dark slacks, laboratory coat when in lab"
+      position: "Standing behind photography setup, adjusting equipment and lighting"
+      action: "Operating documentation equipment and recording detailed observations of each transformation stage"
+  scene:
+    mainElements: "Series of specimen containers showing different stages of the life cycle reversal, from adult jellyfish through intermediate stages to final polyp form, scientific photography equipment for documentation"
+    details: "Multiple clear glass laboratory jars with metal lids, filled with seawater, each containing specimens at different stages of the transformation process, camera equipment for scientific documentation, detailed research notebooks with time-stamped observations, magnifying equipment for close examination, temperature monitoring devices maintaining optimal conditions"
+    background: "Laboratory setting with organized research materials, additional specimen containers, and scientific equipment supporting the comprehensive documentation effort"
+    atmosphere: "Systematic scientific documentation of groundbreaking biological discovery, methodical approach to recording unprecedented phenomenon for future analysis and publication, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing the complete documentation setup with specimen sequence and research team"
+    focus: "The series of containers displaying the complete transformation process and the scientific documentation effort"
+    depth: "Foreground: specimen containers showing transformation stages, middle: researchers documenting process, background: laboratory with supporting equipment and materials"

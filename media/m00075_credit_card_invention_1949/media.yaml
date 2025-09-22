@@ -1,0 +1,12 @@
+media_info:
+  title: Credit Card Invention - 1949
+  year: 1949
+  genre: Business Innovation Documentary
+  description: Frank McNamara creates Diners Club after forgetting wallet during business dinner, founding global payment system
+  target_audience: General public, students, business enthusiasts, financial history buffs
+  duration: ~3 minutes
+  objective: Recreate the embarrassing dinner incident that revolutionized global commerce and payment systems
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

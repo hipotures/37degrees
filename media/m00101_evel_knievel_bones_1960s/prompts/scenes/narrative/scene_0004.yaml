@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Hospital Visit After Crash"
+  setting:
+    time: "1968, evening"
+    location: "1970s hospital room with medical equipment"
+    weather: "Indoor setting"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns"
+      clothing: "Hospital gown, visible bandages on arms and face"
+      position: "Lying in hospital bed, slightly propped up"
+      action: "Speaking with doctor while examining his injured arm"
+    - appearance: "Various medical professionals, men and women, 30s-50s, focused expressions"
+      clothing: "White medical coats, surgical scrubs, stethoscopes around necks"
+      position: "Standing beside bed with clipboard"
+      action: "Examining patient and discussing treatment options"
+  scene:
+    mainElements: "Hospital bed, IV stands, medical monitors, white walls, fluorescent lighting with visible medical equipment"
+    details: "White plaster medical casts on arms and legs, bandages, medical tape, hospital blankets draped over patient, heart monitor beeping in corner, medicine bottles on bedside table, no text or letters visible"
+    background: "Hospital room window showing evening sky, medical equipment mounted on walls"
+    atmosphere: "Clinical, sterile, concerned medical environment with underlying determination to return to stunts"
+  composition:
+    cameraAngle: "Medium shot from foot of bed"
+    focus: "Character EK's determined expression despite injuries"
+    depth: "Medical equipment in foreground, patient and doctor in middle ground, hospital room details in background"

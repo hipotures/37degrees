@@ -4,3 +4,177 @@ book_info:
   author: "Frantz Fanon"
   year: 1961
   genre: "Postcolonial,Political philosophy"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T16:45:00+00:00"
+
+  scores:
+    controversy: 10
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 10
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 10
+    total: 72
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.0
+      category: "high"
+    heat:
+      value: 9.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "revolutionary_violence"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Violence as cleansing force: Fanon argues that for colonized masses, violence is not just strategy but necessary psychological liberation from internalized oppression"
+        source: "dark_drama"
+      - id: "psychological_colonization"
+        type: "FACT"
+        credibility: 0.95
+        content: "Colonial trauma creates inferiority complex: Fanon's clinical work showed colonialism produces specific mental disorders in both oppressed and oppressors"
+        source: "symbols_meanings"
+      - id: "neocolonial_prediction"
+        type: "FACT"
+        credibility: 0.95
+        content: "Predicted neocolonialism: Fanon accurately forecast that national bourgeoisie would betray revolution and maintain economic dependence on former colonizers"
+        source: "reality_wisdom"
+      - id: "cultural_decolonization"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Three phases of intellectual development: assimilation, nostalgic return to past, and creation of living culture through struggle"
+        source: "symbols_meanings"
+      - id: "manichean_world"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Colonial world divided into two zones: settler zone of being vs native zone of non-being, separated only by violence"
+        source: "symbols_meanings"
+      - id: "lumpenproletariat_force"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Revolutionary potential of outcasts: Unlike Marx, Fanon saw urban poor and declassed elements as most revolutionary force in colonial context"
+        source: "symbols_meanings"
+      - id: "mental_health_systemic"
+        type: "FACT"
+        credibility: 0.90
+        content: "Systemic oppression creates mental illness: Clinical cases prove racism and colonial violence generate specific psychiatric disorders"
+        source: "dark_drama"
+      - id: "nationalism_trap"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Warning against hollow nationalism: National consciousness without social content leads to chauvinism, tribalism and authoritarian rule"
+        source: "symbols_meanings"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text for postcolonial studies, influenced Civil Rights Movement and Black Panthers"
+        key_editions: ["Grove Press 1963", "Penguin Modern Classics", "60th Anniversary Edition with Cornel West"]
+        reception_notes: "Bible of decolonization according to Stuart Hall, required reading for Black Panthers"
+        educational_status: "Core text in university postcolonial studies programs"
+        local_themes: ["Black Liberation Movement", "Academic postcolonial theory", "Civil rights activism"]
+
+      pl:
+        cultural_impact: "Published 1985 during PRL era, gained significance in democratic Poland through postcolonial studies"
+        key_editions: ["PIW Warsaw 1985", "Karakter 2025 republication"]
+        reception_notes: "Polish readers interpret through lens of own experiences with foreign domination"
+        educational_status: "Academic text in Polish universities, not in school curricula"
+        local_themes: ["Polish partition history parallels", "Post-communist identity", "European postcolonial studies"]
+
+      de:
+        cultural_impact: "Major influence on 1968 student movement and Red Army Faction ideology"
+        key_editions: ["Suhrkamp Verlag 1966", "21st printing demonstrates sustained interest"]
+        reception_notes: "Reference point for German radicals, influenced transition from protest to resistance"
+        educational_status: "Part of critical theory curricula in German universities"
+        local_themes: ["1968 student radicalism", "Frankfurt School connections", "Post-war German identity"]
+
+      fr:
+        cultural_impact: "Originally banned, became canonical text of French intellectual tradition despite challenging French colonialism"
+        key_editions: ["François Maspero 1961", "La Découverte modern editions"]
+        reception_notes: "Government seizures upon publication, Sartre's controversial preface later removed"
+        educational_status: "Central to French postcolonial studies and decolonization theory"
+        local_themes: ["Algerian War memory", "French colonial guilt", "Intellectual decolonization"]
+
+      es:
+        cultural_impact: "Influenced Latin American liberation movements and theology, promoted by Che Guevara"
+        key_editions: ["Fondo de Cultura Económica Mexico 1963", "Multiple reprints through 1990s"]
+        reception_notes: "Theoretical-practical manual for anticolonial movements across Spanish-speaking world"
+        educational_status: "Core text in decolonial studies and critical pedagogy programs"
+        local_themes: ["Liberation theology", "Latin American decolonization", "Revolutionary theory"]
+
+      pt:
+        cultural_impact: "Censored under Portuguese dictatorship, experienced renaissance in Brazilian Black movement"
+        key_editions: ["Ulisseia 1965 (censored)", "Companhia das Letras 2022"]
+        reception_notes: "Brazilian Black intellectuals used framework to analyze racial dynamics from 1970s"
+        educational_status: "Integrated into Brazilian university curricula in sociology and psychology"
+        local_themes: ["Brazilian Black movement", "Portuguese colonial memory", "Racial democracy critique"]
+
+      ja:
+        cultural_impact: "Influenced Third World solidarity movements and resistance to American empire"
+        key_editions: ["Misuzu Shobo 1968", "Complete Works vol. 3 1969"]
+        reception_notes: "Starting point of postcolonial criticism, influenced anti-imperial discourse"
+        educational_status: "Part of postcolonial studies programs at major Japanese universities"
+        local_themes: ["Third World solidarity", "Anti-American empire", "Asian decolonization theory"]
+
+      ko:
+        cultural_impact: "Influenced 1980s democratization movement intellectuals during military dictatorship"
+        key_editions: ["Greenbie 2010", "First translation of 2002 French commemorative edition"]
+        reception_notes: "Revived as Third World liberation warrior during Korean democratization struggles"
+        educational_status: "Taught in postcolonial studies and political theory programs"
+        local_themes: ["Korean democratization", "Divided nation psychology", "Third World theory"]
+
+      hi:
+        cultural_impact: "Compared with B.R. Ambedkar in understanding structural oppression and caste analysis"
+        key_editions: ["Available in English through major Indian publishers"]
+        reception_notes: "Academic discourse primarily engages with English text, influences Maoist movement analysis"
+        educational_status: "Standard in Indian university postcolonial and political theory curricula"
+        local_themes: ["Dalit liberation parallels", "Maoist movement theory", "Postcolonial identity studies"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Colonial Algeria and systematic violence: French pacification campaigns, torture, camps for 2 million displaced"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Manichean colonial world: settler zone of prosperity vs native zone of hunger, separated by violence and racism"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "From Black Panthers to BLM: how Fanon's analysis of systemic oppression applies to modern police violence"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "future"
+          lead: "host_b"
+          description: "Neocolonial patterns today: economic dependency, comprador elites, and the ongoing struggle for true liberation"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'The Wretched of the Earth' through lens of power, gender, class. Historical context: 1961 Algerian War, French torture, camps for displaced populations."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates, modern interpretations. Link Fanon's colonial analysis to BLM, police violence, systemic racism."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "colonial trauma", "radical political theories", "torture discussion"]
+    educational_elements: ["Postcolonial theory foundation", "Historical context of decolonization", "Psychological analysis of oppression", "Revolutionary philosophy"]
+    production_notes:
+      intro_style: "academic documentary with revolutionary urgency"
+      transitions: "subtle musical bridges with tension"
+      outro_style: "call to continued struggle and analysis"
+
+  overall_confidence: 0.94

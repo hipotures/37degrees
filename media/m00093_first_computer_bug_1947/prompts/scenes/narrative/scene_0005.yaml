@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Careful Moth Extraction from Computer Relay"
+  setting:
+    time: "September 9, 1947, 4:05 PM"
+    location: "Inside Panel F of Harvard Mark II computer, Relay 70 contacts"
+    weather: "Warm laboratory environment with equipment heat"
+  characters:
+    - appearance: "Man, 50s, stocky build, graying hair, weathered hands from technical work, mustache"
+      clothing: "Gray technician's coveralls, white undershirt, work boots, tool belt with various instruments"
+      position: "Concentrating on delicate extraction procedure"
+      action: "Carefully removing moth from relay contacts using precision tweezers without damaging equipment"
+    - appearance: "Woman, 20s, petite frame, blonde hair in victory rolls, bright alert expression"
+      clothing: "Light blue blouse, dark skirt, cardigan sweater, small heeled shoes, pencil behind ear"
+      position: "Holding magnifying glass to assist with extraction"
+      action: "Providing additional lighting and magnification while documenting extraction process"
+  scene:
+    mainElements: "Intricate mechanical relay contacts with moth being carefully extracted, precision tools in use"
+    details: "Small brown moth with delicate wings being lifted from electrical contacts, precision metal tweezers gripping moth carefully, circular magnifying glass providing clear view, relay contact assembly showing where moth was trapped"
+    background: "Close examination workspace with bright task lighting, precise technical environment, other relay panels visible continuing normal operation"
+    atmosphere: "Delicate technical procedure requiring precision, historic moment being carefully preserved, relief at solving computer problem"
+  composition:
+    cameraAngle: "Close-up shot showing careful moth extraction procedure"
+    focus: "Moth being extracted from relay contacts with precision tools and magnification"
+    depth: "Extraction procedure in foreground, technical team in middle ground, computer equipment in background, no text or letters visible"

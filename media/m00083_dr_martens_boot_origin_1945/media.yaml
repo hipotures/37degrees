@@ -1,0 +1,12 @@
+media_info:
+  title: Dr Martens Boot Origin - 1945
+  year: 1945
+  genre: Fashion & Culture Documentary
+  description: German army doctor creates air-cushioned sole after ski injury, becomes global cultural icon
+  target_audience: General public, students, fashion enthusiasts, cultural historians
+  duration: ~3 minutes
+  objective: Recreate the medical innovation that became a symbol of rebellion and youth culture
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

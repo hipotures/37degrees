@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Preparing Scientific Publication - Writing History"
+  setting:
+    time: "1969, morning"
+    location: "University office, University College Dar es Salaam, Tanzania"
+    weather: "Clear morning"
+  characters:
+    - appearance: "Caucasian man, 40s, medium build, graying hair, kind eyes behind wire-rimmed glasses"
+      clothing: "1960s academic attire - light colored shirt, dark tie, khaki trousers, leather shoes"
+      position: "Seated at wooden desk with typewriter and papers"
+      action: "Typing research paper while referencing experimental data and notes"
+    - appearance: "Young African male, 13-17 years old, slender build, curious dark eyes, short dark hair"
+      clothing: "1960s Tanzanian school uniform - white short-sleeved shirt, dark shorts, simple brown leather shoes"
+      position: "Standing beside desk reviewing draft pages"
+      action: "Reading over manuscript draft, pointing to sections and contributing to scientific writing process"
+  scene:
+    mainElements: "University office with wooden desk, typewriter, experimental data, and academic materials"
+    details: "Mechanical typewriter with manuscript pages showing scientific research. Experimental data sheets and laboratory notes spread across desk. Academic office with bookshelves, scientific journals, and research materials. Historical moment of documenting discovery for scientific community. Papers contain graphs and data tables from repeated experiments, no text or letters visible"
+    background: "Professional academic office with bookshelves, research materials, and university setting visible through windows"
+    atmosphere: "Historic moment of scientific documentation, collaboration between mentor and student creating permanent record of discovery"
+  composition:
+    cameraAngle: "Medium shot from side of desk"
+    focus: "Typewriter and manuscript with both researchers contributing to scientific publication"
+    depth: "Foreground shows typewriter and research papers, middle ground captures collaborative writing process, background reveals academic office environment"

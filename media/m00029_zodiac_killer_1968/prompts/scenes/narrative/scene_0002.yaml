@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Blue Rock Springs Park - Second Attack"
+  setting:
+    time: "July 5, 1969, 00:15"
+    location: "Public park with large parking lot in Vallejo, California, golf course nearby, suburban setting"
+    weather: "Hot July 4th night, clear"
+  characters:
+    - appearance: "22-year-old Caucasian female, brown hair, attractive young woman, 1960s styling"
+      clothing: "Summer casual wear appropriate for July 4th evening, blouse and pants or light dress"
+      position: "Slumped in driver's seat of car, grievously wounded"
+      action: "Mortally wounded, life fading from gunshot injuries"
+    - appearance: "19-year-old Caucasian male, dark hair, medium build, bearing visible injuries from gunshot wounds"
+      clothing: "Summer casual clothing, some bloodstains from attack"
+      position: "Collapsed partially outside passenger side of car"
+      action: "Severely wounded but conscious, trying to call for help"
+    - appearance: "Shadowy male figure, face obscured, medium to large build, threatening presence"
+      clothing: "Dark clothing, features not clearly visible in darkness"
+      position: "Standing near car, having just completed attack"
+      action: "Walking away from scene calmly after shooting both victims"
+  scene:
+    mainElements: "Car parked in isolated section of park parking lot, two shooting victims inside and beside vehicle, attacker departing scene"
+    details: "Late 1960s automobile with windows shattered by gunfire, blood visible on seats and pavement, empty parking lot with picnic tables and park facilities in background, minimal lighting from distant street lamps"
+    background: "Blue Rock Springs Park facilities, golf course in distance, suburban Vallejo neighborhood lights, hot summer night sky"
+    atmosphere: "Violence and terror, hot summer night disrupted by gunfire, isolation despite suburban setting, sense of calculated evil"
+  composition:
+    cameraAngle: "Low angle shot emphasizing the victims' vulnerability"
+    focus: "Wounded victims in and around car, with attacker's retreating silhouette"
+    depth: "Victims in foreground, departing killer in middle ground, park facilities in background"

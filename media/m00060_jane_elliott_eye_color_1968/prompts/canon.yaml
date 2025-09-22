@@ -1,0 +1,69 @@
+canon:
+  characters:
+    - id: "character_JE"
+      name: "Character JE"
+      description_block: |
+        characters:
+          - appearance: "Caucasian woman, early 30s, average height, dark brown hair styled in 1960s bouffant, determined expression, warm but authoritative demeanor"
+            clothing: "Late 1960s teacher attire - modest knee-length dress or skirt with blouse, low heels, simple jewelry"
+            position: "Standing at front of classroom or moving between student desks"
+            action: "Teaching, explaining rules, observing student behavior, taking notes"
+
+    - id: "character_BE_students"
+      name: "Blue-eyed Students"
+      description_block: |
+        characters:
+          - appearance: "Group of 8-year-old Caucasian children with blue eyes, various heights, mix of boys and girls, expressions ranging from confused to distressed to defiant"
+            clothing: "Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with blouses, some wearing paper collars around necks when designated as inferior"
+            position: "Seated at wooden school desks or standing in designated areas"
+            action: "Following restrictive rules, showing signs of stress or rebellion, interacting cautiously"
+
+    - id: "character_BR_students"
+      name: "Brown-eyed Students"
+      description_block: |
+        characters:
+          - appearance: "Group of 8-year-old Caucasian children with brown eyes, various heights, mix of boys and girls, expressions showing confidence when privileged or dejection when discriminated against"
+            clothing: "Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with blouses, some wearing paper collars around necks when designated as inferior"
+            position: "Seated at wooden school desks or standing in privileged areas"
+            action: "Enjoying privileges or enduring restrictions depending on the day, showing learned superiority or inferiority"
+
+  locations:
+    - id: "main_classroom"
+      name: "Third Grade Classroom"
+      description_block: |
+        setting:
+          location: "Third grade classroom, Riceville Community Elementary School, Riceville, Iowa"
+        mainElements: "Rows of wooden school desks with attached chairs, teacher's desk at front, chalkboard with day's lessons, alphabet cards around room"
+        atmosphere: "Typical 1960s elementary classroom atmosphere, initially warm and cooperative, becoming tense during experiment"
+
+    - id: "school_playground"
+      name: "Elementary School Playground"
+      description_block: |
+        setting:
+          location: "Outdoor playground area, Riceville Community Elementary School, Iowa"
+        mainElements: "Metal jungle gym structure, swing sets, see-saws, sandbox area, open grass field for running"
+        atmosphere: "Usually joyful children's play area, becomes segregated and tense during experiment"
+
+    - id: "school_cafeteria"
+      name: "School Cafeteria"
+      description_block: |
+        setting:
+          location: "Elementary school cafeteria, Riceville Community Elementary School"
+        mainElements: "Long tables with attached benches, serving line with lunch ladies, water fountain, windows overlooking playground"
+        atmosphere: "Communal eating space that becomes divided during the experiment"
+
+  items:
+    - id: "paper_collars"
+      name: "Identification Collars"
+      description_block: |
+        details: "Brown paper collars or fabric strips worn around necks to identify the 'inferior' eye color group for the day, clearly visible markers of status"
+
+    - id: "classroom_materials"
+      name: "1960s Classroom Materials"
+      description_block: |
+        details: "Wooden rulers, pencils, lined paper, textbooks from the era, chalkboard erasers, simple wooden desks with inkwell holes"
+
+    - id: "playground_equipment"
+      name: "1960s Playground Equipment"
+      description_block: |
+        details: "Metal jungle gym with bars and slides, chain swing sets, metal see-saws, basic playground equipment typical of small Iowa towns in the 1960s"

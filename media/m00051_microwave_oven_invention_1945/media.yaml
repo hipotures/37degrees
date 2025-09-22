@@ -1,0 +1,12 @@
+media_info:
+  title: Microwave Oven Invention - 1945
+  year: 1945
+  genre: Science & Technology Documentary
+  description: Percy Spencer accidentally discovers microwave cooking when chocolate bar melts near magnetron during radar research
+  target_audience: General public, students, science enthusiasts, inventors
+  duration: ~3 minutes
+  objective: Recreate the serendipitous moment that led to one of the most important kitchen appliances
+  scene_count: 10
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

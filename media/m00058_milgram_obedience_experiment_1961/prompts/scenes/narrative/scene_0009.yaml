@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Experimental Revelation and Debriefing"
+  setting:
+    time: "1961, evening"
+    location: "Yale University Interaction Laboratory, Linsly-Chittenden Hall basement, New Haven, Connecticut"
+    weather: "Indoor laboratory environment"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, average build, anxious expression, increasingly distressed"
+      clothing: "1960s business casual attire, dress shirt with rolled sleeves, dark trousers"
+      position: "Standing beside shock generator in state of emotional relief and confusion"
+      action: "Expressing visible relief and confusion as true nature of experiment becomes apparent"
+    - appearance: "Caucasian man, 40s, stocky build, concerned expression when visible"
+      clothing: "White dress shirt, dark trousers, sleeves rolled up for electrode attachment"
+      position: "Standing in laboratory unharmed, removed from electric chair apparatus"
+      action: "Demonstrating complete physical wellbeing to astonished participant"
+    - appearance: "Caucasian man, 30s, dark hair, intellectual features, alert expression"
+      clothing: "1960s dark suit, white dress shirt, narrow tie, professional appearance"
+      position: "Observational, often with notepad or clipboard, positioned to monitor proceedings"
+      action: "Observing participant reactions and preparing debriefing documentation"
+  scene:
+    mainElements: "Sterile academic laboratory environment with white walls, fluorescent lighting, institutional furniture. Shock generator console now revealed as elaborate but harmless psychological prop."
+    details: "Large metal console with 30 horizontal lever switches, voltage markings from 15 to 450 volts, warning labels including 'Danger: Severe Shock' and 'XXX', professional industrial appearance. Participant displaying visible emotional relief mixed with bewilderment. Debriefing materials and psychological assessment forms arranged on laboratory tables."
+    background: "Sterile academic laboratory environment with white walls, fluorescent lighting, institutional furniture"
+    atmosphere: "Profound revelation and emotional release as participant realizes no harm was inflicted. Mix of relief, confusion, and dawning understanding of psychological manipulation involved."
+  composition:
+    cameraAngle: "Wide shot showing all parties in revelation moment"
+    focus: "Participant's emotional reaction upon learning the learner was unharmed throughout experiment"
+    depth: "Foreground shows participant's relief and confusion, middle ground reveals unharmed learner, background emphasizes laboratory setting and observers, no text or letters visible"

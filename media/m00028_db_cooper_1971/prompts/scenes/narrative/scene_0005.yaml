@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Flight 305 lands in Seattle as passengers are released"
+  setting:
+    time: "November 24, 1971, 5:39 PM"
+    location: "Seattle-Tacoma International Airport tarmac, Washington"
+    weather: "Dusk approaching with overcast skies typical of Pacific Northwest November"
+  characters:
+    - appearance: "Various passengers of different ages, families with children, business travelers"
+      clothing: "Early 1970s travel attire - suits, dresses, coats appropriate for Thanksgiving Eve travel"
+      position: "Disembarking aircraft via mobile stairs, walking across tarmac toward terminal"
+      action: "Leaving aircraft with carry-on bags, some looking back with concern and confusion at unusual situation"
+    - appearance: "White man, mid-40s, 6 feet tall, 180 pounds, olive complexion with Latin appearance, dark hair with marcel waves, brown eyes"
+      clothing: "Black business suit, white dress shirt, thin black clip-on tie from J.C. Penney with imitation pearl tie pin, black raincoat, brown leather shoes"
+      position: "Visible through aircraft window, remaining seated inside while passengers exit"
+      action: "Sitting calmly in seat 18C, observing passenger departure while maintaining composed demeanor"
+  scene:
+    mainElements: "Boeing 727 aircraft on tarmac with mobile stairs positioned at forward door, passengers walking toward terminal building, FBI agents and airport security maintaining perimeter"
+    details: "Aircraft doors open with mobile stairs in position, families carrying luggage and Thanksgiving travel items, FBI personnel positioned strategically around aircraft, terminal building visible in background with normal airport operations continuing"
+    background: "Airport terminal building with lights beginning to illuminate in approaching dusk, other aircraft and ground vehicles, control tower, typical airport infrastructure"
+    atmosphere: "Mixture of relief and confusion among passengers as they leave unusual situation behind, contrast between normal Thanksgiving travel and extraordinary circumstances, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot showing aircraft, disembarking passengers, and man still inside"
+    focus: "The release of innocent passengers while hijacker remains aboard for next phase"
+    depth: "Foreground shows passengers on mobile stairs, middle ground displays aircraft and man's silhouette, background reveals airport operations and security presence"

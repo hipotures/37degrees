@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Lake Berryessa - Hooded Attack"
+  setting:
+    time: "September 27, 1969, 18:45"
+    location: "Large recreational lake with secluded coves and beaches in Napa County, California"
+    weather: "Warm September afternoon, clear"
+  characters:
+    - appearance: "20-year-old Caucasian male, college student build, bearing visible stab wounds"
+      clothing: "Casual outdoor clothing for lakeside sunbathing, torn and bloodstained"
+      position: "Tied up and lying on sandy beach area, severely wounded"
+      action: "Bound with rope, wounded from knife attack, conscious but weakened"
+    - appearance: "22-year-old Caucasian female, college student, brown hair, attractive"
+      clothing: "Casual lakeside attire, summer clothes appropriate for sunbathing"
+      position: "Tied up beside male victim on beach, critically injured"
+      action: "Bound and stabbed, fighting for life from severe knife wounds"
+    - appearance: "Shadowy male figure, face obscured, medium to large build, threatening presence"
+      clothing: "Black executioner-style hood with sewn-on bib, square eyeholes, Zodiac cross-circle symbol on chest, homemade appearance"
+      position: "Standing over bound victims with large knife"
+      action: "Having just completed stabbing attack, preparing to leave scene"
+  scene:
+    mainElements: "Two college students bound with rope on sandy lakeside beach, hooded attacker with knife standing over them, secluded cove setting"
+    details: "White Volkswagen Beetle nearby with Zodiac symbol and attack details written on car door in black marker, rope binding victims, large knife with blood, cross-circle symbol prominently displayed on hood, peaceful lake setting turned horrific"
+    background: "Large recreational lake with clear water, surrounding hills covered in California vegetation, picnic spots, few other visitors in distance, peaceful natural setting"
+    atmosphere: "Terror and calculated evil, peaceful afternoon shattered by violence, most theatrical and frightening of all attacks, sense of ritual and psychological warfare"
+  composition:
+    cameraAngle: "Medium shot showing hooded figure towering over victims"
+    focus: "Executioner's hood with cross-circle symbol and bound victims on beach"
+    depth: "Hooded killer and victims in foreground, car with writing in middle ground, lake and hills in background"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Market Discovery - Character JW Encounters the baboon"
+  setting:
+    time: "1881, midday"
+    location: "Bustling market square in 1880s Cape Colony town"
+    weather: "Clear sunny day with scattered clouds"
+  characters:
+    - appearance: "White male, 40s, sturdy build, determined expression, double leg amputee below the knee"
+      clothing: "1880s railway uniform - dark blue wool jacket with brass buttons, white shirt, black tie, dark trousers"
+      position: "Seated in small wooden trolley, positioned at edge of market square"
+      action: "Watching with amazement as baboon skillfully guides ox-drawn wagon through crowded marketplace"
+    - appearance: "Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build"
+      clothing: "No clothing yet, natural baboon appearance"
+      position: "Standing upright on ox-cart driver's seat, holding reins"
+      action: "Expertly steering oxen through market crowds, responding to hand signals from cart owner"
+  scene:
+    mainElements: "Dirt roads lined with wooden market stalls, ox-drawn wagons, colonial architecture with Victorian storefronts, crowds of diverse local vendors and customers"
+    details: "Fresh produce stalls with vegetables and fruits, livestock pens with chickens and goats, wooden crates and barrels, canvas awnings over vendor stalls, dust clouds from passing wagons, colonial-era shop signs without readable text"
+    background: "Stone and brick colonial buildings, church spire in distance, rolling South African hills, scattered acacia trees"
+    atmosphere: "Lively colonial marketplace buzzing with commercial activity, mix of European settler and African local cultures, sounds of haggling and animals, warm African sunlight"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position"
+    focus: "the baboon the baboon expertly driving ox-cart while character JW watches from his trolley"
+    depth: "Foreground: character JW in trolley, middle ground: the baboon driving cart through market crowd, background: colonial buildings and landscape, no text or letters visible"

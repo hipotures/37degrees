@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Communication Failure and Signal Switch"
+  setting:
+    time: "January 23, 1960, deep afternoon descent"
+    location: "Trieste bathyscaphe at intermediate deep depth, Pacific Ocean"
+    weather: "Complete deep ocean darkness, extreme pressure conditions"
+  characters:
+    - appearance: "American man, 30s, military bearing, short-cropped hair, alert expression"
+      clothing: "US Navy uniform with lieutenant insignia, or heavy weather gear during operations"
+      position: "Working intensively with communication equipment"
+      action: "Switching from failed sonar telephone to emergency tone pulse signals"
+    - appearance: "Swiss man, 40s, tall and lean build, intelligent dark eyes, wavy dark hair"
+      clothing: "1960s thick woolen sweater over collared shirt, heavy winter jacket during surface operations"
+      position: "Monitoring descent while maintaining focus on depth instruments"
+      action: "Continuing methodical depth recording despite communication challenges"
+  scene:
+    mainElements: "Primitive 1960s communication equipment with vacuum tubes and mechanical switches, failed sonar telephone system, emergency tone pulse signal generator, analog controls for backup communication systems"
+    details: "Silent sonar telephone indicating system failure, emergency tone pulse equipment being activated with manual switches, primitive communication technology showing limitations of 1960s deep-sea equipment, analog gauges and controls requiring manual operation, brass fittings and warning lights providing only internal illumination, mechanical stress indicators showing bathyscaphe responding to extreme pressure"
+    background: "Absolute darkness of deep ocean beyond crew cabin, sense of complete isolation from surface world, external lights barely penetrating surrounding water"
+    atmosphere: "Isolation and self-reliance as surface communication fails, professional adaptation to equipment limitations, tension of continuing dive without voice contact, dependence on primitive backup systems, mechanical sounds of bathyscaphe systems under stress, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot focusing on communication equipment and crew adaptation"
+    focus: "Failed communication systems and emergency backup activation"
+    depth: "Foreground shows detailed communication equipment, middle shows crew problem-solving, background shows deep ocean isolation"

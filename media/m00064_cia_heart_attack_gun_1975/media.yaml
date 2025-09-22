@@ -1,0 +1,12 @@
+media_info:
+  title: CIA Heart Attack Gun Disclosure - 1975
+  year: 1975
+  genre: Intelligence History Documentary
+  description: Secret weapon firing poisoned ice dart causing untraceable heart attack revealed to Congress
+  target_audience: General public, students, intelligence history buffs, technology enthusiasts
+  duration: ~3 minutes
+  objective: Recreate the Congressional revelation of the CIA's covert assassination weapon technology
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

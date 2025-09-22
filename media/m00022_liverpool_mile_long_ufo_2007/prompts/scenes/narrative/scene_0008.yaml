@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Object Departure - Witnesses Watch UFO Leave"
+  setting:
+    time: "July 25, 2007, late evening"
+    location: "Anfield residential area, Liverpool, Merseyside, England"
+    weather: "Clear evening, deepening twilight"
+  characters:
+    - appearance: "British man, middle-aged, civilian witness, alert expression, local Liverpool resident"
+      clothing: "Summer casual clothing 2007, polo shirt or t-shirt, comfortable trousers"
+      position: "Standing in street, arm extended pointing at departing object"
+      action: "Tracking movement of object across sky, calling family's attention to departure"
+    - appearance: "British woman, adult, family member, attentive expression, concerned demeanor"
+      clothing: "Summer casual dress or blouse and skirt, 2007 fashion, comfortable outdoor attire"
+      position: "Standing close to family group, looking upward, shielding eyes from sun"
+      action: "Following object's movement across sky, maintaining visual contact during departure"
+    - appearance: "Elderly British woman, 60s-70s, grandmother figure, wise expression"
+      clothing: "Conservative summer dress, cardigan, sensible shoes, handbag"
+      position: "Steady stance, hand raised to forehead as visor, squinting at sky"
+      action: "Watching object disappear into distance, nodding with understanding and amazement"
+  scene:
+    mainElements: "Family group and neighbors watching as enormous saucer-shaped craft moves away across Liverpool skyline, object becoming smaller as it travels toward horizon"
+    details: "Massive UFO craft visible in distance moving steadily away from Liverpool area, still enormous compared to any normal aircraft, neighbors dispersing as sighting concludes, some residents returning to houses while others continue watching sky, garden equipment and binoculars being gathered, street returning to normal evening activity, children being called inside by parents"
+    background: "Liverpool urban landscape stretching to horizon where object is departing, scattered clouds in darkening sky, city lights becoming more prominent as night approaches"
+    atmosphere: "Conclusion of extraordinary sighting, mixture of amazement and return to normality, witnesses processing what they observed, sense of shared remarkable experience ending, no text or letters visible"
+  composition:
+    cameraAngle: "Wide view from street level showing witnesses tracking departing object across sky"
+    focus: "The family group and their coordinated observation of the object's departure trajectory"
+    depth: "Foreground shows witnesses on street, middle ground shows residential area, background shows departing object and Liverpool skyline"

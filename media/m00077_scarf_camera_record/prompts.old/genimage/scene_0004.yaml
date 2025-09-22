@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 2024, afternoon
+    location: Specialized dark chamber for ultrafast imaging demonstrations within INRS facility
+  characters:
+  - appearance: Asian-Canadian man, 40s, focused expression, dark hair, wire-rim glasses
+    clothing: White lab coat over dark shirt, or casual dark suit with no tie
+    position: Standing at laser control panel, wearing safety glasses
+    action: Fine-tuning laser pulse parameters while monitoring beam characteristics
+  - appearance: South Asian man, 28s, enthusiastic expression, black hair, slight beard
+    clothing: Dark sweater or button-down shirt under lab coat
+    position: Seated at computer terminal with spectral analysis equipment
+    action: Analyzing spectral data and pulse timing characteristics on multiple displays
+  scene:
+    mainElements: Advanced laser system generating chirped ultrashort pulses that sweep through wavelengths from red to violet,
+      enabling femtosecond time resolution imaging
+    details: Sophisticated laser pulse generation system featuring femtosecond laser source, pulse shaping optics, beam expansion
+      and collimation systems, wavelength tuning mechanisms, and precision timing electronics. Multiple beam monitoring devices
+      display pulse characteristics while spectral analysis equipment shows the chirped pulse structure sweeping from red
+      through orange, yellow, green, blue to violet wavelengths.
+    background: Enclosed testing environment with laser pulse generation equipment and target materials, safety interlocks
+      and beam dumps
+    atmosphere: Controlled, dimly lit scientific testing environment with precise measurement capabilities, illuminated primarily
+      by equipment displays and laser safety indicators, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing the laser system and operators
+    focus: The advanced laser pulse generation system and calibration process
+    depth: Foreground displays laser controls and monitoring equipment, middle ground shows researchers operating systems,
+      background reveals additional safety and measurement devices
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

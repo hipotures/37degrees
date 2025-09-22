@@ -1,0 +1,19 @@
+sceneDescription:
+  title: "Whistleblower Discovery and Documentation"
+  setting:
+    time: "1970, evening"
+    location: "Government health office building, Atlanta or Washington DC"
+  characters:
+    - appearance: "White man, late 20s, clean-shaven, earnest expression, medium build"
+      clothing: "1970s casual business attire, brown suit, tie, dress shoes"
+      position: "Seated at desk, hunched over documents"
+      action: "Reviewing files with shock and dismay, taking careful notes"
+  scene:
+    mainElements: "Official desks, filing cabinets, government documents, institutional décor"
+    details: "Stacks of manila folders and documents containing patient files, study data spread across desk, official letterhead papers, scattered photographs, desk lamp creating pool of light, typewriter, coffee cup, ashtray"
+    background: "Government office walls with filing cabinets, night visible through window, fluorescent lighting"
+    atmosphere: "Bureaucratic, formal, sterile government environment, late-night discovery atmosphere, sense of moral awakening, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up over shoulder view of documents"
+    focus: "The moment of horrific discovery as truth emerges from official records"
+    depth: "Foreground shows damning documents, middle ground has shocked investigator, background reveals institutional setting where cover-up occurred"

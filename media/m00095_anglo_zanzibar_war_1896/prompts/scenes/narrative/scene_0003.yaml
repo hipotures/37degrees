@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "British War Council - Naval Command"
+  setting:
+    time: "August 27, 1896, morning"
+    location: "HMS St George bridge, Zanzibar Harbor"
+    weather: "Clear morning with ocean breeze"
+  characters:
+    - appearance: "British man, 50s, weathered face, gray mustache, stocky naval build, stern expression"
+      clothing: "Royal Navy uniform with gold braid, white tropical helmet, black leather belt"
+      position: "Standing at ship's bridge overlooking harbor"
+      action: "Military bearing, hands clasped behind back studying palace through binoculars"
+    - appearance: "British man, 40s, pale complexion, thin build, diplomatic bearing, wire-rimmed spectacles"
+      clothing: "Colonial administrator white linen suit, pith helmet, leather satchel"
+      position: "Standing beside naval officer"
+      action: "Formal diplomatic stance, consulting documents and adjusting spectacles"
+  scene:
+    mainElements: "Bridge of British warship with naval instruments, maps, and communication equipment, palace visible in distance"
+    details: "Ship's brass compass, naval charts spread on table, signal flags ready for hoisting, crew members at battle stations, naval guns visible on deck below, other warships in formation nearby"
+    background: "Zanzibar palace complex and Stone Town visible across harbor waters, tropical coastline with palm trees"
+    atmosphere: "Military precision and imperial authority, calm before storm, professional naval efficiency preparing for action, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from ship's bridge looking toward shore"
+    focus: "British naval officers preparing for confrontation"
+    depth: "Ship's bridge and officers in foreground, harbor waters in middle ground, palace complex in background"

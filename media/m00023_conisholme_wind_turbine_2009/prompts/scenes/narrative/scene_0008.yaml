@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Character DV Press Conference About UFO Possibility"
+  setting:
+    time: "January 4, 2009, afternoon"
+    location: "Ecotricity offices or outdoor location near wind farm, press gathering"
+    weather: "Cold winter afternoon, overcast sky"
+  characters:
+    - appearance: "Environmental entrepreneur, early 50s, beard, environmentally-conscious appearance"
+      clothing: "Casual but professional attire, eco-friendly materials, practical jacket"
+      position: "Standing before gathered media representatives"
+      action: "Speaking to assembled reporters, open-minded about UFO possibilities, gesturing toward wind farm"
+  scene:
+    mainElements: "Media gathering with cameras and recording equipment, character DV addressing press, wind farm visible in background distance"
+    details: "Multiple reporters with notepads and recording devices, television cameras on tripods, microphones pointed toward character DV, press vehicles parked nearby, wind farm turbines visible on horizon as context for incident"
+    background: "Conisholme wind farm in distance, overcast winter sky, rural Lincolnshire countryside, some undamaged turbines still operating"
+    atmosphere: "Serious media attention to unusual incident, company representative being honest about uncertainty, unprecedented situation requiring open-minded approach"
+  composition:
+    cameraAngle: "Medium shot from press perspective"
+    focus: "Character DV speaking to assembled media about incident"
+    depth: "Foreground gathered reporters and equipment, middle ground character DV speaking, background wind farm and countryside, no text or letters visible"

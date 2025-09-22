@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Evening Bond - Domestic Life at Railway Cottage"
+  setting:
+    time: "1886, evening"
+    location: "Simple colonial worker's cottage near Uitenhage railway station"
+    weather: "Calm evening with gentle sunset"
+  characters:
+    - appearance: "White male, 40s, sturdy build, determined expression, double leg amputee below the knee"
+      clothing: "Simple evening clothes - white shirt, dark trousers, no jacket"
+      position: "Seated in wooden chair on cottage porch"
+      action: "Relaxing after work while the baboon sits affectionately beside him, arm around Wide's shoulders"
+    - appearance: "Large male chacma baboon, brown-grey fur, intelligent dark eyes, expressive face, strong build"
+      clothing: "No uniform, natural baboon appearance for evening rest"
+      position: "Sitting close beside character JW on porch"
+      action: "Gently stroking character JW's face with one hand while other arm wraps around his shoulders in companionate gesture"
+  scene:
+    mainElements: "Small front porch of single-story stone and wood cottage, wooden chairs, peaceful domestic evening setting after day's railway work"
+    details: "Oil lamps providing warm evening light, simple wooden furniture, railway work tools stored neatly by door, water bucket and washing basin, small vegetable garden visible in yard, evening birds in nearby trees"
+    background: "Rolling South African countryside in golden sunset light, Uitenhage railway station visible in distance with smoke from evening trains, acacia trees silhouetted against evening sky"
+    atmosphere: "Peaceful domestic evening showing deep bond between man and baboon, warm companionship after successful workday, quiet rural setting with distant railway sounds, sense of mutual affection and respect"
+  composition:
+    cameraAngle: "Medium shot from yard perspective"
+    focus: "Intimate moment of companionship between character JW and the baboon on cottage porch"
+    depth: "Foreground: porch with characters in affectionate pose, middle ground: cottage and yard details, background: countryside and distant railway, no text or letters visible"

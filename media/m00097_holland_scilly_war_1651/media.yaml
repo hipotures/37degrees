@@ -1,0 +1,12 @@
+media_info:
+  title: Holland-Scilly 335-year Forgotten War - 1651-1986
+  year: 1651
+  genre: Historical Documentary
+  description: Netherlands and Scilly Islands remain technically at war for 335 years due to forgotten peace treaty
+  target_audience: General public, students, history enthusiasts, diplomatic history buffs
+  duration: ~3 minutes
+  objective: Recreate the absurd diplomatic oversight that left two nations technically at war for over three centuries
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

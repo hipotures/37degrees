@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Discovery of hijacker's ransom money at Tina Bar in 1980"
+  setting:
+    time: "February 10, 1980, afternoon"
+    location: "Tina Bar sandy riverbank, Columbia River, 9 miles downstream from Vancouver, Washington"
+    weather: "Cold but clear February weather, typical Pacific Northwest winter day"
+  characters:
+    - appearance: "8-year-old boy, curious and energetic"
+      clothing: "Casual camping clothes appropriate for February weather"
+      position: "Kneeling on sandy riverbank examining discovery"
+      action: "Carefully uncovering deteriorated paper money from sand while family watches nearby"
+    - appearance: "Family members of various ages, parents and siblings"
+      clothing: "Winter camping attire appropriate for Columbia River outing"
+      position: "Standing around discovery site on beach"
+      action: "Observing boy's find with growing excitement and realization of significance"
+  scene:
+    mainElements: "Sandy beach area used for camping, shoreline with driftwood, slow-moving river section, peaceful family camping spot"
+    details: "Deteriorated twenty-dollar bills partially buried in sand, rubber bands still intact around money bundles, bills showing effects of nearly nine years of exposure to elements, family camping equipment visible nearby"
+    background: "Columbia River flowing past with opposite shoreline visible, driftwood scattered along beach, camping area with family vehicle and equipment, clear winter sky over river valley"
+    atmosphere: "Peaceful family discovery moment that would reignite one of America's greatest mysteries, excitement building as significance becomes apparent, connection to legendary case emerging from wilderness, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing boy's discovery with family reaction in background"
+    focus: "The only confirmed physical evidence of hijacker's fate emerging from nine years of concealment"
+    depth: "Foreground shows deteriorated money in sand, middle ground displays boy and family discovery, background reveals Columbia River and natural setting where mystery partially resurfaces"

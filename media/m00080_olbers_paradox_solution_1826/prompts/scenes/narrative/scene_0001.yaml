@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Bremen townhouse at twilight - dual life beginning"
+  setting:
+    time: "1826, early evening twilight"
+    location: "Three-story Bremen townhouse on cobblestone street, northern Germany"
+    weather: "Clear autumn evening with first stars appearing"
+  characters:
+    - appearance: "German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom"
+      clothing: "1820s dark blue physician's coat over white shirt and black vest"
+      position: "Standing in doorway between ground floor medical office and upper stairs"
+      action: "Closing medical practice for day, looking upward toward observatory floor"
+  scene:
+    mainElements: "Elegant three-story German townhouse with medical practice sign, warm lamplight glowing from windows, astronomical telescope visible in upper floor window"
+    details: "Stone facade with wooden shutters, brass nameplate beside entrance door, medical bag set on entry table, papers and instruments visible through ground floor windows, telescope silhouette in top floor, gas street lamps beginning to illuminate cobblestone street"
+    background: "Bremen cityscape with church spires and merchant houses, darkening sky with first bright stars appearing above rooftlines"
+    atmosphere: "Peaceful transition from day's medical duties to evening's astronomical pursuits, scholarly dedication bridging practical service and cosmic wonder, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot from across cobblestone street"
+    focus: "character_HO transitioning from physician to astronomer at doorway"
+    depth: "Foreground shows street and lamplight, middle ground centers on townhouse and character, background reveals city rooftops against star-filled sky"

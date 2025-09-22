@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1884, evening
+    location: Cholut River valley crossing point, Central Java, Indonesia, with Mount Merapi visible in background
+    weather: Clear evening with golden sunset light
+  characters:
+  - appearance: Local Javanese guide, 30s, lean athletic build, dark skin tanned by sun, keen intelligent eyes, quick movements
+    clothing: Simple brown cotton shirt, traditional batik sarong, woven sandals, conical bamboo hat
+    position: Standing on bridge deck with local community members
+    action: Leading first ceremonial crossing while explaining bridge features to gathered villagers
+  - appearance: Javanese master stonemason, 50s, stocky muscular frame, calloused hands, weathered brown skin, graying black
+      hair
+    clothing: Traditional Javanese work shirt, brown sarong-style work pants, bare feet, bamboo hat for sun protection
+    position: Standing proudly beside bridge structure with family members
+    action: Showing craftsmanship details to community while receiving recognition for skilled stonework
+  scene:
+    mainElements: Completed bridge with local community gathering for first crossing ceremony, families and workers celebrating
+      engineering achievement
+    details: Local villagers in traditional Javanese clothing walking across bridge deck, children examining volcanic stone
+      construction, elderly community members testing bridge stability, ceremonial flowers and offerings placed at bridge
+      entrance
+    background: Golden sunset light illuminating Mount Merapi volcano, tropical landscape with rice terraces, village structures
+      visible in distance, peaceful evening atmosphere
+    atmosphere: Community celebration and pride in successful bridge completion, recognition of collaborative effort between
+      local expertise and colonial engineering, sense of improved connectivity and safety
+  composition:
+    cameraAngle: Medium shot from riverbank showing community crossing celebration
+    focus: Local community members celebrating first bridge crossing with traditional ceremony
+    depth: Community celebration in foreground, completed bridge structure in middle ground, Mount Merapi sunset backdrop,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

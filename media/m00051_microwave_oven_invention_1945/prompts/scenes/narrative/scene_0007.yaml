@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Egg experiment creates explosive results in laboratory"
+  setting:
+    time: "1945, late afternoon"
+    location: "Specialized testing section within Raytheon laboratory"
+    weather: "Indoor laboratory environment with fluorescent lighting"
+  characters:
+    - appearance: "Caucasian man, 50s, lean build, receding brown hair, intelligent dark eyes behind wire-rimmed glasses"
+      clothing: "White lab coat over dark suit jacket, white dress shirt, narrow dark tie, dress shoes"
+      position: "Stepping back from laboratory table with surprised expression"
+      action: "Reacting to unexpected explosive results, raising hands defensively while maintaining scientific observation"
+    - appearance: "Caucasian man, 30s, average height, blonde hair, curious expression"
+      clothing: "White lab coat over gray suit, white shirt"
+      position: "Standing beside scientist, also stepping back"
+      action: "Documenting dramatic results with amazement, clipboard still in hand despite surprise"
+  scene:
+    mainElements: "Exploded egg shell fragments scattered across laboratory table and nearby surfaces, metal bowl containing remnants, cooked egg contents splattered in various directions"
+    details: "White and brown shell pieces scattered across dark laboratory table surface. Cooked egg white and yolk material visible on table and surrounding equipment. Metal bowl shows impact marks from explosion. Magnetron equipment still operating, having successfully heated egg contents to explosive point. Steam or vapor visible rising from hot egg materials."
+    background: "Active magnetron mounted on stand, measurement equipment displaying readings, electrical cables, concrete laboratory flooring with scattered debris"
+    atmosphere: "Dramatic moment of unexpected results, scientific breakthrough through explosive demonstration, controlled chaos in precise laboratory environment proving microwave heating power, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot capturing full scope of explosive results"
+    focus: "Scattered egg shell fragments and cooked contents demonstrating microwave heating effects"
+    depth: "Foreground shows detailed debris pattern from explosion, middle ground features scientists reacting to results, background reveals ongoing magnetron operation"

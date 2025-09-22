@@ -4,3 +4,209 @@ book_info:
   author: "Mo Yan"
   year: 1986
   genre: "Historical fiction,War"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T12:00:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 8
+    cultural_phenomenon: 6
+    contemporary_reception: 4
+    relevance: 8
+    innovation: 8
+    structural_complexity: 7
+    social_roles: 8
+    total: 56
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 7.8
+      category: "high"
+    heat:
+      value: 6.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Mo Yan used hallucinatory realism to hide criticism of communist system while maintaining survival"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Red sorghum symbolizes duality - life/death, tradition/modernity, resistance/submission"
+        source: "symbols_meanings"
+      - id: "culture_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Zhang Yimou film won Golden Bear 1988, first Chinese film to win major European festival"
+        source: "culture_impact"
+      - id: "youth_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Work resonates with Gen Z through generational trauma themes and therapeutic reading trends"
+        source: "youth_digital"
+      - id: "reality_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Trauma processing themes remain relevant as 77% of TikTok users explore mental health content"
+        source: "reality_wisdom"
+      - id: "innovation_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created Chinese variant of magical realism termed hallucinatory realism by Nobel Committee"
+        source: "writing_innovation"
+      - id: "history_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Work inspired by oral family stories that gradually transformed history into myth"
+        source: "facts_history"
+      - id: "content_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Contains significant content warnings: sexual violence, political controversy, detailed war brutality"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "First modern Chinese novel to achieve canonical status in Western literature"
+        key_editions:
+          - "Penguin Books standard edition"
+          - "Howard Goldblatt translation"
+        reception_notes: "Strong academic recognition, compared to Faulkner and Garcia Marquez"
+        educational_status: "Featured in university world literature curricula"
+        local_themes:
+          - "Postcolonial resistance"
+          - "Universal war trauma"
+      pl:
+        cultural_impact: "Resonates with Polish WWII resistance experience against occupation"
+        key_editions:
+          - "W.A.B. Publishing editions"
+        reception_notes: "Historical parallels create deep emotional connection"
+        educational_status: "Studied in comparative war literature courses"
+        local_themes:
+          - "Resistance literature"
+          - "Oral tradition preservation"
+      de:
+        cultural_impact: "Film won Golden Bear at Berlin Festival, major breakthrough moment"
+        key_editions:
+          - "Rowohlt edition (1993)"
+          - "Unionsverlag edition (2007)"
+        reception_notes: "Mixed reception, some find challenging but praise literary merit"
+        educational_status: "Central to German Chinese studies programs"
+        local_themes:
+          - "Cultural bridge function"
+          - "Translation methodology"
+      fr:
+        cultural_impact: "Strong academic recognition through Actes Sud publisher"
+        key_editions:
+          - "Actes Sud initial translation (1990)"
+          - "Editions du Seuil complete translation (2014)"
+        reception_notes: "France awarded Mo Yan Arts and Literature Knight Medal"
+        educational_status: "Featured in French comparative literature studies"
+        local_themes:
+          - "Magical realism theory"
+          - "Cultural translation ethics"
+      es:
+        cultural_impact: "Strong connection to Latin American magical realism tradition"
+        key_editions:
+          - "Editorial El Aleph Barcelona publication"
+        reception_notes: "Mixed reviews, some see as Garcia Marquez imitation"
+        educational_status: "Studied in magical realism comparative courses"
+        local_themes:
+          - "Literary influence networks"
+          - "Cultural authenticity debates"
+      pt:
+        cultural_impact: "Limited direct translation but strong academic interest"
+        key_editions:
+          - "Spanish translation available in Portuguese bookstores"
+        reception_notes: "Gap in Lusophone literary market despite international acclaim"
+        educational_status: "Featured in Brazilian Chinese studies programs"
+        local_themes:
+          - "Translation gap analysis"
+          - "Cultural bridge potential"
+      ja:
+        cultural_impact: "Published by prestigious Iwanami Shoten, indicating serious literary status"
+        key_editions:
+          - "Iwanami Gendai bunko series (1989-1990)"
+        reception_notes: "Complex reception due to anti-Japanese war content"
+        educational_status: "Studied in East Asian comparative literature"
+        local_themes:
+          - "Historical reconciliation"
+          - "Shared modernization experience"
+      ko:
+        cultural_impact: "Mo Yan fever in 2012 led to increased Korean interest"
+        key_editions:
+          - "Munhakgwa Jiseongsa editions"
+          - "Multiple title translations"
+        reception_notes: "Historical parallels with Japanese occupation create resonance"
+        educational_status: "Featured in Korean university East Asian literature courses"
+        local_themes:
+          - "Occupation resistance parallels"
+          - "East Asian literary dialogue"
+      hi:
+        cultural_impact: "Limited direct translation affects popular readership"
+        key_editions:
+          - "English translation available through international distributors"
+        reception_notes: "Primarily read within English-educated literary communities"
+        educational_status: "Studied in Chinese Studies programs at major universities"
+        local_themes:
+          - "Agricultural society connections"
+          - "Asia-Asia literary exchange"
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context and power dynamics"
+        host_b: "contemporary critic examining modern relevance and social justice themes"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Setting up 1930s China - warlord era, Japanese invasion, social upheaval context"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Dai Fenglian breaks patriarchal norms - matriarchal revolution analysis"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "resistance_movements"
+          lead: "host_a"
+          description: "Comparing 1930s Chinese resistance to modern social movements and activism"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "contemporary_relevance"
+          lead: "host_b"
+          description: "Trauma healing, generational patterns, and current social justice themes"
+      prompts:
+        host_a: "You are {male_name}, a social historian analyzing 'Red Sorghum' through lens of power, gender, class in 1930s China context. Focus on how Mo Yan portrays resistance against both Japanese occupation and patriarchal structures."
+        host_b: "You are {female_name}, examining contemporary relevance of 'Red Sorghum'. Connect themes to current social debates: trauma healing movements, feminist resistance, and modern interpretations of historical violence."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "historical violence"
+      - "sexual content references"
+      - "political controversy discussion"
+      - "war brutality themes"
+    educational_elements:
+      - "Historical fiction genre characteristics"
+      - "Historical context of 1930s China"
+      - "Magical realism narrative techniques"
+      - "Gender role subversion analysis"
+      - "Trauma processing through literature"
+    production_notes:
+      intro_style: "Atmospheric introduction with historical context"
+      transitions: "Subtle musical bridges with Chinese instrumental elements"
+      outro_style: "Reflective conclusion connecting past and present themes"
+
+  overall_confidence: 0.83

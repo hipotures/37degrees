@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Inside FBI Office During Burglary"
+  setting:
+    time: "March 8, 1971, 9:30 PM"
+    location: "FBI field office interior, Media, Pennsylvania, small suburban building"
+    weather: "Clear cold night outside, warm interior lighting"
+  characters:
+    - appearance: "Caucasian man, 30s, average height, brown hair, determined expression"
+      clothing: "Dark casual clothing, black gloves, carrying small tools"
+      position: "Crouched in front of open filing cabinet"
+      action: "Quickly removing classified documents and placing them in canvas bag"
+    - appearance: "Woman, 30s, shoulder-length brown hair, focused expression"
+      clothing: "Dark coat, practical shoes, carrying radio or communication device"
+      position: "Standing by window monitoring street"
+      action: "Using hand radio to coordinate with outside team members"
+  scene:
+    mainElements: "Filing cabinets, desks with papers, American flag, FBI seal on wall, opened drawers with classified materials spilling out"
+    details: "Manila folders marked 'CLASSIFIED' and 'COINTELPRO', typed pages with FBI letterhead scattered on desk, surveillance photographs of civil rights leaders, desk lamp providing work light, typewriter, rotary telephone"
+    background: "Government office with fluorescent lights turned off, emergency lighting only, venetian blinds, wall clock"
+    atmosphere: "Tense covert operation inside government facility with urgency and stealth, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle shot emphasizing urgency and danger of situation"
+    focus: "Documents being stolen from filing cabinets with lookout at window"
+    depth: "Foreground shows classified documents, middle ground captures burglars, background reveals office environment"

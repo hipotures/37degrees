@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: June 4, 1996, 9:33:30 AM (T+30 seconds)
+    location: 3000 meters altitude above Kourou, French Guiana
+    weather: Clear blue sky with scattered white clouds below
+  characters:
+  - appearance: European woman, 30s, medium build, blonde hair in professional bun, alert green eyes
+    clothing: 1990s white technical blouse with ESA patches, dark navy skirt, headset around neck
+    position: Seated at telemetry monitoring station, focused on flight data
+    action: Tracking rocket's ascent on radar display, confirming all systems showing normal parameters
+  - appearance: European man, 50s, average build, concerned expression, wire-rimmed glasses, receding brown hair
+    clothing: 1990s gray business suit with blue tie, ESA identification badge
+    position: Standing behind flight controllers, monitoring overall mission status
+    action: Observing telemetry readings over controller's shoulder, nodding approvingly at nominal flight data
+  scene:
+    mainElements: Ariane 5 rocket climbing steadily through clear blue sky, white exhaust trail streaming behind, rocket appearing
+      smaller against vast sky, ground facilities shrinking far below
+    details: White rocket with distinctive conical nose cone ascending at proper trajectory angle, twin solid boosters firing
+      symmetrically, bright exhaust plume creating straight white contrail against blue sky, rocket appearing stable and controlled
+      in flight, French Guiana coastline visible far below with jungle and ocean, scattered white clouds beneath rocket's
+      altitude, no text or letters visible
+    background: Vast blue sky extending to horizon, curved Earth surface visible below, Atlantic Ocean and South American
+      coast
+    atmosphere: Successful nominal flight progression, sense of achievement as Europe's new rocket performs exactly as designed,
+      confidence in mission control
+  composition:
+    cameraAngle: High altitude tracking shot following rocket's ascent
+    focus: Ariane 5 rocket climbing steadily with mission control monitoring progress
+    depth: Foreground shows mission control telemetry displays, middle ground captures rocket in flight, background reveals
+      Earth's curvature and sky
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

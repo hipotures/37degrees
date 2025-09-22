@@ -1,0 +1,11 @@
+media_info:
+  title: Evel Knievel Bone-Breaking Record - 1960s-1970s
+  genre: Sports & Entertainment Documentary
+  description: Motorcycle stuntman breaks 433 bones during career of extreme jumping stunts
+  target_audience: General public, students, extreme sports enthusiasts, stunt performers
+  duration: ~3 minutes
+  objective: Recreate the death-defying career of the world's most injured daredevil who redefined extreme sports
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

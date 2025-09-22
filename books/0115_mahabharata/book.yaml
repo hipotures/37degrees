@@ -4,3 +4,178 @@ book_info:
   author: "Vyasa"
   year: c. 4th century BC
   genre: "Epic,Poetry"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T23:45:00Z"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 10
+    structural_complexity: 9
+    social_roles: 8
+    total: 70
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.5
+      category: "high"
+    heat:
+      value: 8.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "nuclear_theory_1"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Brahmastra weapons described as 'bright as ten thousand suns' - ancient nuclear technology theory"
+        source: "dark_drama"
+      - id: "author_character_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Vyasa is both author and character - grandfather of protagonists, pioneering metafiction 2500 years early"
+        source: "writing_innovation"
+      - id: "kali_yuga_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "90% accuracy in predicting modern society: wealth as status, justice based on power, technology addiction"
+        source: "reality_wisdom"
+      - id: "cultural_phenomenon_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "50+ adaptations worldwide: B.R. Chopra TV series emptied streets, Peter Brook 9-hour global production"
+        source: "culture_impact"
+      - id: "moral_complexity_5"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "First morally ambiguous heroes in literature - Krishna using deception, Yudhishthira lying"
+        source: "symbols_meanings"
+      - id: "gender_discourse_6"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Draupadi as proto-feminist figure demanding justice after public humiliation - precursor to #MeToo"
+        source: "dark_drama"
+      - id: "gaming_culture_7"
+        type: "FACT"
+        credibility: 0.95
+        content: "Tales of Mahabharata on Steam 2024, TikTok content with viral potential, BookTok connections"
+        source: "youth_digital"
+      - id: "narrative_innovation_8"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary nested frame structure inspired Borges, Calvino, modern hypertext literature"
+        source: "writing_innovation"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text in English academic tradition, Oxford Centre studies, Peter Brook's landmark adaptation"
+        key_editions: ["Ganguli translation (1883-1896)", "University of Chicago Press critical edition", "Penguin Classics series"]
+        reception_notes: "Strong academic reception, Brook's BAM theater success"
+        educational_status: "Core text in comparative literature and religious studies"
+        local_themes: ["Postcolonial reinterpretation", "Victorian Orientalism legacy"]
+      pl:
+        cultural_impact: "Century-long translation tradition, Jagiellonian University research center"
+        key_editions: ["Leciejewski translations", "Lange poetic versions", "National Humanities Development Program"]
+        reception_notes: "Academic specialty, limited mainstream penetration"
+        educational_status: "Not in mandatory curriculum, orientalist studies only"
+        local_themes: ["Sanskrit studies tradition", "Peter Brook collaboration with Polish actors"]
+      de:
+        cultural_impact: "German scholarly tradition, early critical analysis"
+        key_editions: ["Hermann Oldenberg criticism", "Academic translations"]
+        reception_notes: "Mixed early reception, philosophical interpretations"
+        educational_status: "University comparative literature programs"
+        local_themes: ["Philosophical analysis tradition", "Psychoanalytic readings"]
+      fr:
+        cultural_impact: "Peter Brook's French theatrical innovation, academic excellence"
+        key_editions: ["Jean-Claude Carrière adaptation", "French scholarly translations"]
+        reception_notes: "Theatrical innovation through Brook's Avignon production"
+        educational_status: "Theater and comparative literature studies"
+        local_themes: ["Theatrical adaptation leadership", "Cultural universalism"]
+      es:
+        cultural_impact: "Growing Latin American interest, comparative mythology studies"
+        key_editions: ["Spanish academic translations", "Latin American editions"]
+        reception_notes: "Academic and cultural appreciation"
+        educational_status: "World literature curricula"
+        local_themes: ["Magical realism connections", "Epic tradition parallels"]
+      pt:
+        cultural_impact: "Brazilian and Portuguese academic interest"
+        key_editions: ["Portuguese translations", "Brazilian scholarly editions"]
+        reception_notes: "Academic study focus"
+        educational_status: "University literature programs"
+        local_themes: ["Epic tradition appreciation", "Cultural diversity themes"]
+      ja:
+        cultural_impact: "Buddhist interpretation tradition, cultural resonance"
+        key_editions: ["Japanese academic translations", "Buddhist scholarly editions"]
+        reception_notes: "Strong philosophical and religious interest"
+        educational_status: "Comparative religion and literature studies"
+        local_themes: ["Buddhist philosophy connections", "Asian epic tradition"]
+      ko:
+        cultural_impact: "Academic and cultural appreciation, Asian epic connections"
+        key_editions: ["Korean scholarly translations", "Academic editions"]
+        reception_notes: "Growing academic interest"
+        educational_status: "Asian literature and philosophy programs"
+        local_themes: ["Asian philosophical traditions", "Cultural exchange studies"]
+      hi:
+        cultural_impact: "Original Sanskrit tradition, massive cultural influence"
+        key_editions: ["Original Sanskrit texts", "Hindi translations and adaptations"]
+        reception_notes: "Core cultural text, TV adaptations phenomenal success"
+        educational_status: "Fundamental cultural education"
+        local_themes: ["Dharmic philosophy core", "Cultural identity foundation"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "foundational_significance"
+          lead: "host_a"
+          description: "Nuclear war theory and structural innovations analysis"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "narrative_innovation"
+          lead: "host_b"
+          description: "Author-character metafiction and triple narrative frames"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "prophetic_accuracy"
+          lead: "host_a"
+          description: "Kali Yuga predictions and contemporary relevance"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "cultural_phenomenon"
+          lead: "host_b"
+          description: "Massive adaptation history and global impact"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "synthesis"
+          lead: "host_a"
+          description: "Moral complexity revolution and gaming culture synthesis"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'Mahabharata' with scholarly depth. Discuss revolutionary narrative techniques, nuclear war theories, prophetic accuracy. Academic but accessible. Focus on: Brahmastra weapons described as 'bright as ten thousand suns' - ancient nuclear technology theory"
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility. Help explore metafiction and cultural impact."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "sexual content references", "complex moral themes"]
+    educational_elements:
+      - "Epic genre characteristics"
+      - "Historical context of 4th century BC"
+      - "Revolutionary narrative techniques"
+      - "Philosophical depth and moral complexity"
+    production_notes:
+      intro_style: "scholarly_epic"
+      transitions: "academic musical bridges"
+      outro_style: "contemplative_academic"
+
+  overall_confidence: 0.91

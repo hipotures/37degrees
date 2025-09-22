@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Modenese Victory Outside Bologna Gates"
+  setting:
+    time: "November 16, 1325, morning"
+    location: "Fields outside Porta San Felice gate, Bologna city walls"
+    weather: "Clear cold morning after the battle"
+  characters:
+    - appearance: "Italian man, 35, calculating expression, sharp features, dark hair"
+      clothing: "Blue and silver Modenese nobleman attire with fur-trimmed cloak"
+      position: "On horseback overlooking the organized celebration near enemy city"
+      action: "Confident tactical pose, gesturing triumphantly toward Bologna's walls"
+    - appearance: "Italian or German man, 20s-30s, battle-hardened expression"
+      clothing: "Blue tunic with Modena insignia, plate armor pieces, conical helmet"
+      position: "Participating in mock palio races and celebrations"
+      action: "Professional military bearing while enjoying victory festivities outside enemy gates"
+    - appearance: "Italian man or woman, various ages, period-appropriate features"
+      clothing: "Simple wool tunics, cloaks, merchant or artisan attire"
+      position: "Watching anxiously from Bologna's city walls and gates"
+      action: "Looking down at enemy celebration with fear and humiliation"
+  scene:
+    mainElements: "Organized military celebration with horses racing in mock palio outside city gates"
+    details: "Heraldic banners of Bologna (red) and Modena (blue) displaying city arms with Modena banners prominently displayed, horses and riders racing in circles to mock Bologna, Simple oak bucket with iron bands visible as war trophy, destroyed castle ruins visible in distance, Crossbows, spears, swords, maces typical of 14th century warfare stacked as victory trophies"
+    background: "Massive stone walls with towers, battlements, defensive gates of Bologna looming above the celebration"
+    atmosphere: "Calculated humiliation and victory display, organized celebration designed to shame the defeated city"
+  composition:
+    cameraAngle: "Wide shot showing celebration against the imposing city walls"
+    focus: "The deliberate staging of victory celebration to humiliate the defeated city"
+    depth: "Foreground: victory celebration and palio races, Middle: Modenese forces and trophies, Background: imposing Bologna walls, no text or letters visible"

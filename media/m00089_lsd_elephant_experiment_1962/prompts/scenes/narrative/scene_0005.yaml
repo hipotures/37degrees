@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Preparation of the Experimental Dose"
+  setting:
+    time: "August 3, 1962, 11:30 AM"
+    location: "Oklahoma City Zoo, makeshift field laboratory setup near elephant enclosure"
+    weather: "Hot summer day with bright overhead sun"
+  characters:
+    - appearance: "Caucasian man, 40s, medium build, receding dark hair, serious expression, wire-rimmed glasses"
+      clothing: "1960s white lab coat over dark suit and tie, or gray flannel suit with narrow tie"
+      position: "Standing at portable laboratory table, working with precision"
+      action: "Carefully measuring liquid from glass vial into syringe using scientific precision"
+    - appearance: "African American man, 30s, stocky build, kind face, concerned expression"
+      clothing: "1960s white lab coat over dark sweater vest and tie, or tan suit jacket"
+      position: "Standing beside colleague, holding clipboard and stopwatch"
+      action: "Recording measurements and timing while observing the preparation process"
+  scene:
+    mainElements: "Portable laboratory table with scientific equipment, small glass medical vial with clear liquid, held in gloved hands, precision syringes and measuring equipment"
+    details: "Small glass medical vial with clear liquid, scientific label, held in gloved hands, metal portable table with white cloth covering, precision measuring equipment and syringes arranged systematically, medical gloves and sterile packaging scattered on surface, clipboard with data sheets, stopwatch for timing, small scale for precise measurements, bright sunlight creating sharp shadows on equipment, no text or letters visible"
+    background: "Elephant enclosure visible in background, zoo visitors at viewing barrier watching preparation, other zoo staff maintaining respectful distance, Oklahoma summer landscape"
+    atmosphere: "Clinical precision in outdoor setting, sense of scientific gravity mixed with growing tension, bright harsh sunlight emphasizing the serious nature of the preparation"
+  composition:
+    cameraAngle: "Close-up shot focusing on hands and equipment, with researchers visible in frame"
+    focus: "The precise measurement and preparation of the experimental dose, emphasizing scientific methodology"
+    depth: "Foreground shows detailed view of hands, vial, and syringe work, middle ground features researchers' faces showing concentration, background displays zoo environment"

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Role Reversal - Blue Eyes Become Superior"
+  setting:
+    time: "April 6, 1968, morning"
+    location: "Third grade classroom, Riceville Community Elementary School, Riceville, Iowa"
+    weather: "Overcast spring morning, diffused light through windows"
+  characters:
+    - appearance: "Caucasian woman, early 30s, average height, dark brown hair styled in 1960s bouffant, determined expression, warm but authoritative demeanor"
+      clothing: "Late 1960s teacher attire - modest knee-length dress or skirt with blouse, low heels, simple jewelry"
+      position: "Standing at front of classroom or moving between student desks"
+      action: "Teaching, explaining rules, observing student behavior, taking notes"
+    - appearance: "Group of 8-year-old Caucasian children with blue eyes, various heights, mix of boys and girls, expressions ranging from confused to distressed to defiant"
+      clothing: "Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with blouses, some wearing paper collars around necks when designated as inferior"
+      position: "Seated at wooden school desks or standing in designated areas"
+      action: "Following restrictive rules, showing signs of stress or rebellion, interacting cautiously"
+    - appearance: "Group of 8-year-old Caucasian children with brown eyes, various heights, mix of boys and girls, expressions showing confidence when privileged or dejection when discriminated against"
+      clothing: "Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with blouses, some wearing paper collars around necks when designated as inferior"
+      position: "Seated at wooden school desks or standing in privileged areas"
+      action: "Enjoying privileges or enduring restrictions depending on the day, showing learned superiority or inferiority"
+  scene:
+    mainElements: "Rows of wooden school desks with attached chairs, teacher's desk at front, chalkboard with day's lessons, alphabet cards around room"
+    details: "Teacher announces the dramatic reversal as brown-eyed children now must wear the identifying brown paper collars while blue-eyed children remove theirs, visible shock and confusion on all faces as the social hierarchy completely flips overnight, children adjusting to their reversed roles with uncertainty, no text or letters visible"
+    background: "Same classroom setting now with altered power dynamics, overcast light creating different mood"
+    atmosphere: "Disorientation and uncertainty as established social order completely reverses"
+  composition:
+    cameraAngle: "Wide shot capturing the moment of role reversal announcement"
+    focus: "Children's confused reactions to the sudden status flip"
+    depth: "Teacher announcing change in foreground, children processing reversal in middle ground, classroom environment unchanged in background"

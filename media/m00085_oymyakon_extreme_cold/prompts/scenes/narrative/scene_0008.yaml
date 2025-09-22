@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Community gathering for winter survival preparation"
+  setting:
+    time: "Evening, 7:00 PM with artificial lighting"
+    location: "Community center in Oymyakon village, largest indoor meeting space"
+    weather: "Extreme cold outside at -66°C, warm interior from multiple heating sources"
+  characters:
+    - appearance: "Yakutian man, 40s, weathered face with high cheekbones, dark eyes adapted to snow glare, bronze skin from outdoor work"
+      clothing: "Traditional reindeer hide parka with fur-lined hood, thick mukluks, woolen mittens, layers of warm undergarments"
+      position: "Standing at front addressing community gathering"
+      action: "Explaining winter survival strategies, gesturing toward displayed emergency supplies"
+    - appearance: "Elderly Yakutian woman, 70s, deeply lined face from decades of cold, wise eyes, gray hair in traditional style"
+      clothing: "Long traditional coat with intricate beadwork, multiple layers of shawls, ancient family jewelry"
+      position: "Seated in front row with other community elders"
+      action: "Sharing traditional knowledge about extreme cold survival, nodding approval at preparations"
+    - appearance: "Yakutian woman, 30s, strong build, dark hair in braids, determined expression, rosy cheeks from cold"
+      clothing: "Traditional Sakha winter dress with geometric patterns, thick wool coat, fur-lined boots, colorful headscarf"
+      position: "Standing near emergency supply display"
+      action: "Organizing survival supplies, checking inventory of winter necessities"
+  scene:
+    mainElements: "Large room with multiple heating stoves, emergency supply displays, community seating arrangement"
+    details: "Community center heated by several wood-burning stoves placed throughout room. Tables displaying emergency food supplies, medical kit, extra blankets, emergency fuel. Battery-powered radio for emergency communication. Maps showing evacuation routes and shelter locations. Oil lamps providing backup lighting. Community members of all ages gathered to discuss winter emergency preparedness."
+    background: "Wooden building construction typical of Siberian architecture, windows covered against extreme cold, traditional decorations celebrating Yakutian culture"
+    atmosphere: "Community solidarity in face of extreme environmental challenges, collective preparation for survival"
+  composition:
+    cameraAngle: "Wide shot capturing entire community gathering"
+    focus: "Community meeting with emergency preparations as central theme"
+    depth: "Speaker and supplies in foreground, seated community members in middle ground, room interior and cultural decorations in background, no text or letters visible"

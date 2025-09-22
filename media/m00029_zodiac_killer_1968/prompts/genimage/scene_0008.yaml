@@ -1,0 +1,113 @@
+sceneDescription:
+  setting:
+    time: October 11, 1969, 22:25
+    location: Washington and Cherry Streets intersection, Presidio Heights, San Francisco
+    weather: Cool October evening, clear
+  characters:
+  - appearance: Multiple uniformed San Francisco police officers, various ages
+    clothing: Police uniforms appropriate for late 1960s law enforcement, badges and equipment
+    position: Surrounding taxi cab, securing crime scene perimeter
+    action: Processing murder scene, taking photographs, collecting evidence, interviewing witnesses
+  - appearance: Police detectives in plainclothes, professional appearance
+    clothing: Suits and professional attire, carrying notepads and evidence materials
+    position: Examining taxi interior and surrounding area
+    action: Investigating fresh crime scene, documenting evidence, coordinating with uniformed officers
+  - appearance: Neighborhood witnesses, various residents
+    clothing: 1960s residential attire, robes and casual evening wear
+    position: Standing at safe distance behind police perimeter
+    action: Watching police investigation, some providing witness statements
+  scene:
+    mainElements: Yellow taxi cab cordoned off with police tape, multiple police vehicles with flashing lights, crime scene
+      investigation in progress
+    details: Extensive police presence, evidence markers, photography equipment, crime scene tape establishing perimeter,
+      police radio chatter, investigation lights illuminating scene, forensic collection in progress
+    background: Upscale Victorian homes of Presidio Heights, steep San Francisco hills, residential neighborhood disrupted
+      by major crime scene, curious neighbors at windows
+    atmosphere: Intense law enforcement response, neighborhood shocked by urban violence, methodical police work under pressure,
+      sense of killer having just escaped
+  composition:
+    cameraAngle: Wide shot showing full scope of police crime scene response
+    focus: Police investigation centered around taxi cab with extensive law enforcement presence
+    depth: Crime scene and officers in foreground, police vehicles in middle ground, residential neighborhood in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

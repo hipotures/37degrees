@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Blue-Eyed Children Assume Superior Role"
+  setting:
+    time: "April 6, 1968, midday"
+    location: "Third grade classroom, Riceville Community Elementary School, Riceville, Iowa"
+    weather: "Overcast spring day with dim natural lighting"
+  characters:
+    - appearance: "Caucasian woman, early 30s, average height, dark brown hair styled in 1960s bouffant, determined expression, warm but authoritative demeanor"
+      clothing: "Late 1960s teacher attire - modest knee-length dress or skirt with blouse, low heels, simple jewelry"
+      position: "Standing at front of classroom or moving between student desks"
+      action: "Teaching, explaining rules, observing student behavior, taking notes"
+    - appearance: "Group of 8-year-old Caucasian children with blue eyes, various heights, mix of boys and girls, expressions ranging from confused to distressed to defiant"
+      clothing: "Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with blouses, some wearing paper collars around necks when designated as inferior"
+      position: "Seated at wooden school desks or standing in designated areas"
+      action: "Following restrictive rules, showing signs of stress or rebellion, interacting cautiously"
+    - appearance: "Group of 8-year-old Caucasian children with brown eyes, various heights, mix of boys and girls, expressions showing confidence when privileged or dejection when discriminated against"
+      clothing: "Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with blouses, some wearing paper collars around necks when designated as inferior"
+      position: "Seated at wooden school desks or standing in privileged areas"
+      action: "Enjoying privileges or enduring restrictions depending on the day, showing learned superiority or inferiority"
+  scene:
+    mainElements: "Rows of wooden school desks with attached chairs, teacher's desk at front, chalkboard with day's lessons, alphabet cards around room"
+    details: "Blue-eyed children now sit confidently without collars while brown-eyed children wear the identifying brown paper markers and display the same dejected behavior blue-eyed children showed the previous day, roles completely reversed with blue-eyed children now acting superior and critical toward their former oppressors, demonstrating how quickly children internalize prejudice, no text or letters visible"
+    background: "Familiar classroom setting with completely altered social dynamics"
+    atmosphere: "Familiar patterns of discrimination repeating with reversed eye color roles"
+  composition:
+    cameraAngle: "Medium shot showing the power dynamic reversal"
+    focus: "Confident blue-eyed children contrasted with dejected brown-eyed children wearing collars"
+    depth: "Blue-eyed children displaying newfound confidence in foreground, brown-eyed children with collars in middle ground, observing teacher in background"

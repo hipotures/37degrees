@@ -1,0 +1,105 @@
+sceneDescription:
+  setting:
+    time: 1950s, evening twilight
+    location: Underground military facility near Saint Petersburg, Russia, surrounded by forest
+    weather: Clear cold evening with frost forming on equipment
+  characters:
+  - appearance: Mid-30s military bearing man, short dark hair, pale complexion from underground work
+    clothing: Soviet-era military uniform with radio operator insignia, headphones around neck
+    position: Seated at radio transmission console in underground bunker
+    action: Adjusting dials and switches on massive radio equipment, preparing for transmission
+  scene:
+    mainElements: Massive radio towers, concrete bunkers, restricted military zone signs
+    details: Banks of vacuum tube equipment glowing warmly, analog meters flickering, thick cables running across concrete
+      floors, multiple shortwave radios tuned to different frequencies, stacks of coded message sheets on metal desk, large
+      frequency charts mounted on walls
+    background: Steel reinforced concrete walls, fluorescent lighting casting harsh shadows, sound dampening materials, emergency
+      exit signs, ventilation ducts
+    atmosphere: Cold, sterile, constant electrical humming, guards patrol perimeter, no text or letters visible
+  composition:
+    cameraAngle: Wide establishing shot from bunker entrance
+    focus: Radio operator at transmission console surrounded by glowing equipment
+    depth: Foreground shows entrance security door, middle ground reveals operator at work, background displays massive radio
+      transmission equipment
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

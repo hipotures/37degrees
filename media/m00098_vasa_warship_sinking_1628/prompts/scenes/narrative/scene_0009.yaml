@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Rescue Attempts - Lives Lost and Saved"
+  setting:
+    time: "August 10, 1628, late morning"
+    location: "Stockholm harbor rescue operations around sinking site"
+    weather: "Clear conditions allowing rescue visibility"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Multiple rescue boats attempting to save survivors from Vasa disaster"
+    details: "Small wooden boats with crews attempting rescue operations around sinking site, survivors clinging to floating debris and rigging, rescue boats pulling people from harbor water, ropes and emergency equipment being deployed, some successful rescues while others fail, tragic loss of life in shallow water close to shore"
+    background: "Stockholm harbor with masts of sunken Vasa still visible above water, crowds on stone quays watching rescue efforts, royal officials observing disaster"
+    atmosphere: "Desperate rescue operations in aftermath of maritime disaster, heroic efforts to save lives, tragedy striking royal celebration, 30 lives lost despite proximity to shore, human cost of engineering failure, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing rescue boat operations"
+    focus: "Human cost and rescue efforts following maritime disaster"
+    depth: "Rescue boats and survivors in foreground, disaster site in middle ground, Stockholm harbor in background"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Families of passengers demanding answers at press conference"
+  setting:
+    time: "2014-2024 - ongoing family advocacy efforts"
+    location: "Press conference room or meeting hall with families and media present"
+    weather: "Indoor controlled environment"
+  characters:
+    - appearance: "Middle-aged Chinese man with grief-stricken but determined expression, worried facial features"
+      clothing: "Simple dark clothing, sometimes holding photographs of missing relatives"
+      position: "Standing at podium or microphone addressing media and officials"
+      action: "Speaking passionately about need for answers, holding photos of missing family members, demanding transparency"
+    - appearance: "Family members of other passengers, various ages and backgrounds, emotional expressions"
+      clothing: "Modest clothing in dark colors, some wearing memorial pins or carrying photos"
+      position: "Seated in audience supporting family spokesperson"
+      action: "Listening intently, showing photos of missing relatives, some wiping tears, others showing determined resolve"
+  scene:
+    mainElements: "Press conference setting with microphones, family members holding photographs, media equipment"
+    details: "Family spokesperson addressing media and officials about need for continued search efforts, other families seated showing photos of missing passengers, emotional but dignified atmosphere, media recording testimony, some families displaying timeline charts and maps showing investigation progress"
+    background: "Meeting room with official seating, media representatives with recording equipment, displays showing investigation timeline"
+    atmosphere: "Emotional but resolute stance, demanding answers and transparency from authorities"
+  composition:
+    cameraAngle: "Medium shot from audience perspective showing family spokesperson at podium"
+    focus: "Family representative speaking while holding photographs of missing passengers"
+    depth: "Foreground shows spokesperson with photos, middle ground shows seated family members, background shows media and official representatives, no text or letters visible"

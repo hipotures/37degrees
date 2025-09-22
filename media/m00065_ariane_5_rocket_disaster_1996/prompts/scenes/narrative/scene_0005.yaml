@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Ariane 5 main engine ignition and liftoff sequence"
+  setting:
+    time: "June 4, 1996, 9:33 AM"
+    location: "European Space Agency launch complex ELA-3, Kourou, French Guiana"
+    weather: "Clear tropical morning, light winds"
+  characters:
+    - appearance: "European woman, 30s, medium build, blonde hair in professional bun, alert green eyes"
+      clothing: "1990s white technical blouse with ESA patches, dark navy skirt, headset around neck"
+      position: "Seated at launch control console, leaning forward intently"
+      action: "Monitoring engine ignition sequence on multiple screens, finger poised over emergency abort controls"
+    - appearance: "European man, 45s, stocky build, mustache, serious expression, short dark hair"
+      clothing: "1990s ESA launch director uniform with multiple badges and radio equipment"
+      position: "Standing behind control stations with hands clasped behind back"
+      action: "Watching launch through reinforced observation window, speaking final go/no-go commands into headset"
+  scene:
+    mainElements: "Ariane 5 rocket beginning to lift off launch pad with massive exhaust plume erupting from main engines, brilliant orange and white flames shooting downward into flame deflector channels, rocket rising slowly from launch table"
+    details: "Towering white rocket with twin solid boosters beginning ascent, enormous clouds of white steam and exhaust gases billowing outward, intense orange flames from Vulcain main engine reflecting off concrete launch pad, shock waves distorting air around rocket base, scattered debris and water spray from flame suppression system, rocket umbilical connections falling away, no text or letters visible"
+    background: "French Guiana jungle landscape rapidly becoming smaller below, blue tropical sky, distant Atlantic Ocean horizon"
+    atmosphere: "Tremendous power and energy as Europe's most ambitious rocket begins its maiden flight, sense of triumph and technological achievement, raw force of rocket propulsion"
+  composition:
+    cameraAngle: "Dynamic low angle shot emphasizing rocket's upward movement"
+    focus: "Ariane 5 rocket lifting off with control team reacting to successful ignition"
+    depth: "Foreground shows intense launch operations, middle ground captures rocket beginning ascent, background reveals scale against landscape"

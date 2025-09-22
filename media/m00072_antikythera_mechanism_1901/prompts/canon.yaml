@@ -1,0 +1,80 @@
+canon:
+  characters:
+    - id: "character_DK"
+      name: "Character DK"
+      description_block: |
+        characters:
+          - appearance: "Greek man, 40s, weathered skin from sea work, dark hair and beard, strong build"
+            clothing: "1900 Mediterranean diving gear with bronze helmet, or traditional Greek seafaring attire"
+            posture: "Confident seafarer stance, often holding diving equipment or examining artifacts"
+    - id: "character_SS"
+      name: "Character SS"
+      description_block: |
+        characters:
+          - appearance: "Greek man, 50s, mustached, scholarly demeanor, keen observant eyes"
+            clothing: "Early 20th century formal suit with vest, or museum curator attire"
+            posture: "Analytical, often examining objects closely with magnifying glass or scholarly instruments"
+    - id: "character_VS"
+      name: "Character VS"
+      description_block: |
+        characters:
+          - appearance: "Greek man, 60s, distinguished beard, academic bearing, thoughtful expression"
+            clothing: "Formal museum director attire of 1902, dark suit with pocket watch chain"
+            posture: "Authoritative museum professional stance, often gesturing toward exhibits or artifacts"
+    - id: "ancient_craftsman"
+      name: "Ancient Craftsman"
+      description_block: |
+        characters:
+          - appearance: "Greek man, 30s, precise hands skilled in metalwork, focused intense eyes"
+            clothing: "Ancient Greek chiton and himation, leather working apron with bronze-working tools"
+            posture: "Concentrated artisan pose, hands working with fine bronze gears and precision instruments"
+  locations:
+    - id: "antikythera_wreck_site"
+      name: "Antikythera Wreck Site"
+      description_block: |
+        setting:
+          location: "Mediterranean underwater archaeological site, 45 meters deep off Point Glyphadia, Antikythera island, Greece"
+        mainElements: "Ancient Roman shipwreck remains scattered across rocky seabed with bronze artifacts and amphorae"
+        atmosphere: "Mysterious underwater archaeological scene with filtered sunlight illuminating ancient treasures"
+    - id: "athens_museum"
+      name: "National Archaeological Museum Athens"
+      description_block: |
+        setting:
+          location: "National Archaeological Museum of Athens, Greece, early 1900s exhibition hall"
+        mainElements: "Grand neoclassical museum interior with marble columns, display cases, and archaeological artifacts"
+        atmosphere: "Scholarly academic environment with natural light from tall windows illuminating ancient Greek treasures"
+    - id: "ancient_workshop"
+      name: "Ancient Greek Workshop"
+      description_block: |
+        setting:
+          location: "Ancient Greek bronze-working workshop, Rhodes or similar Hellenistic city, 1st century BCE"
+        mainElements: "Stone workshop with bronze-working furnaces, precision tools, gear-cutting equipment, and astronomical instruments"
+        atmosphere: "Industrious ancient technological center with warm firelight and bronze-working activities"
+    - id: "sponge_diving_boat"
+      name: "Greek Sponge Diving Vessel"
+      description_block: |
+        setting:
+          location: "Traditional Greek sponge diving boat near Antikythera waters, 1900-1901"
+        mainElements: "Wooden Mediterranean fishing vessel with diving equipment, bronze helmet, and recovered artifacts on deck"
+        atmosphere: "Maritime adventure atmosphere with sea spray and excitement of archaeological discovery"
+  items:
+    - id: "antikythera_mechanism"
+      name: "Antikythera Mechanism"
+      description_block: |
+        details: "Ancient bronze mechanical device, 34cm x 18cm x 9cm, complex system of 30+ interlocking gears, corroded green patina, inscribed with Greek text, fragmented into multiple pieces, world's first analog computer"
+    - id: "bronze_gears"
+      name: "Bronze Gear Wheels"
+      description_block: |
+        details: "Precision-cut bronze gears of various sizes, largest 13cm diameter with 223 teeth, intricate tooth patterns, green patina from sea corrosion, some with visible Greek inscriptions around edges"
+    - id: "diving_helmet"
+      name: "1900s Diving Helmet"
+      description_block: |
+        details: "Heavy bronze diving helmet with glass viewing ports, air hose connection, polished metal surface reflecting Mediterranean sunlight, used for deep-sea sponge diving and artifact recovery"
+    - id: "wooden_case_remains"
+      name: "Wooden Case Fragments"
+      description_block: |
+        details: "Deteriorated wooden frame pieces that once housed the mechanism, dark water-stained wood, rectangular frame structure partially preserved after 2000 years underwater"
+    - id: "astronomical_inscriptions"
+      name: "Greek Astronomical Inscriptions"
+      description_block: |
+        details: "Ancient Greek text carved into bronze surfaces, astronomical terms and calculations, partially corroded but still visible, describing planetary movements and eclipse predictions"

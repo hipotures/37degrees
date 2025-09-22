@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Academic Publication and Recognition"
+  setting:
+    time: "1935, late evening"
+    location: "University of Oxford physics department office, 1935"
+    weather: "Calm evening with desk lamp illumination"
+  characters:
+    - appearance: "Austrian physicist, 50s, tall slender build, high forehead, thoughtful dark eyes behind wire-rimmed glasses, salt-and-pepper hair neatly combed"
+      clothing: "1930s dark wool suit with vest, white collared shirt, simple tie, or white laboratory coat over shirt and trousers"
+      position: "Seated at wooden desk, leaning over papers with pen in hand"
+      action: "Writing final conclusions in academic paper, occasionally pausing to consider phrasing of complex concepts"
+  scene:
+    mainElements: "Wood-paneled office with large wooden desk, leather chair, blackboard with equations, tall windows"
+    details: "Stack of typewritten scientific papers and journals from 1930s, some with handwritten notes, scattered on desk or table. Large slate blackboard with quantum mechanics equations written in white chalk, wave function symbols and mathematical notation. Desk lamp providing focused circle of light on writing surface, ink bottle and fountain pen visible. Multiple drafts of papers showing evolution of thought experiment ideas."
+    background: "Darkened windows showing evening outside, floor-to-ceiling bookshelves with physics texts, additional scientific instruments on shelves"
+    atmosphere: "Academic scholarly environment with warm afternoon lighting through windows. Contemplative satisfaction of completing important theoretical work that will influence physics understanding."
+  composition:
+    cameraAngle: "Medium shot from side angle showing physicist at work"
+    focus: "Physicist writing academic conclusions about quantum measurement paradox"
+    depth: "Foreground shows desk with papers and writing materials, middle ground features physicist working, background reveals evening office environment with scientific books, no text or letters visible"

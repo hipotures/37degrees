@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1935, precise moment of observation
+    location: Abstract conceptual space for visualizing thought experiments
+    weather: Controlled theoretical environment
+  characters:
+  - appearance: Austrian physicist, 50s, tall slender build, high forehead, thoughtful dark eyes behind wire-rimmed glasses,
+      salt-and-pepper hair neatly combed
+    clothing: 1930s dark wool suit with vest, white collared shirt, simple tie, or white laboratory coat over shirt and trousers
+    position: Reaching toward the latch of the experimental box, hand suspended in moment before opening
+    action: Frozen in the critical moment before observation, expression showing anticipation and understanding of quantum
+      paradox
+  scene:
+    mainElements: Clean minimalist environment suitable for visualizing theoretical physics concepts and gedanken experiments
+    details: Solid wooden or metal box with hinged lid, approximately 2 feet square, completely opaque, with simple latch
+      mechanism, 1930s construction. The latch appears ready to be opened, with physicist's hand positioned just above it.
+      Subtle lighting effects suggesting the critical nature of this moment in quantum mechanics theory.
+    background: Neutral geometric space with subtle mathematical grid patterns, emphasizing the theoretical nature of the
+      measurement problem
+    atmosphere: Neutral academic space allowing focus on scientific concepts without distracting elements. Suspended tension
+      representing the moment before quantum wave function collapse.
+  composition:
+    cameraAngle: Close-up on physicist's hand reaching for box latch
+    focus: The critical moment of measurement - hand poised to open the quantum superposition box
+    depth: Foreground shows hand reaching for latch, middle ground features the sealed box, background shows theoretical space
+      representing quantum uncertainty, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

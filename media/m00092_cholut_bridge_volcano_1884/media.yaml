@@ -1,0 +1,12 @@
+media_info:
+  title: Cholut Bridge Volcano-Resistant Design - 1884
+  year: 1884
+  genre: Engineering History Documentary
+  description: Indonesian bridge designed to survive Mount Merapi eruptions using manual calculations and lava channels
+  target_audience: General public, students, engineering enthusiasts, disaster preparedness researchers
+  duration: ~3 minutes
+  objective: Recreate the innovative 19th-century engineering solution for building infrastructure in volcanic zones
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief

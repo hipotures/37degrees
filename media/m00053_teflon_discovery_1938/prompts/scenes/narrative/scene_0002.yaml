@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Tetrafluoroethylene Gas Production Setup"
+  setting:
+    time: "1938, spring afternoon"
+    location: "Main laboratory workbench, DuPont Jackson Laboratory"
+    weather: "Overcast afternoon with diffused light through laboratory windows"
+  characters:
+    - appearance: "Caucasian man, early 30s, slender build, intelligent dark eyes, carefully combed dark hair"
+      clothing: "1930s white lab coat over dress shirt and tie, or casual suit with vest"
+      position: "Working at laboratory bench with gas production equipment"
+      action: "Operating complex glass distillation apparatus and monitoring pressure gauges for TFE gas production"
+    - appearance: "Caucasian man, 30s, medium build, alert expression, short brown hair"
+      clothing: "1930s white lab coat over dress shirt, or work clothes with suspenders"
+      position: "Standing nearby observing the gas production process"
+      action: "Taking notes in laboratory notebook while watching pressure readings and equipment operation"
+  scene:
+    mainElements: "Wooden laboratory bench with glass apparatus, measurement tools, chemical containers"
+    details: "Complex glass distillation setup with multiple flasks and condensers, pressure gauges showing readings, metal cylinders for gas storage, measuring instruments and chemical containers arranged on wooden bench, laboratory notebooks open for recording data, safety equipment visible including protective eyewear, no text or letters visible"
+    background: "Laboratory shelving with additional equipment and supplies, tall windows providing natural light, other research stations visible"
+    atmosphere: "Active research workspace with good lighting, organized tools and equipment"
+  composition:
+    cameraAngle: "Close-up shot focusing on the intricate gas production equipment and characters' work"
+    focus: "Glass distillation apparatus and pressure gauges with characters operating the equipment"
+    depth: "Foreground shows detailed equipment and gauges, middle ground features both characters at work, background reveals laboratory setting, no text or letters visible"

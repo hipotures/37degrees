@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Academic Performance Reflects Social Status"
+  setting:
+    time: "April 5, 1968, late afternoon"
+    location: "Third grade classroom, Riceville Community Elementary School, Riceville, Iowa"
+    weather: "Late afternoon spring light filtering through windows"
+  characters:
+    - appearance: "Caucasian woman, early 30s, average height, dark brown hair styled in 1960s bouffant, determined expression, warm but authoritative demeanor"
+      clothing: "Late 1960s teacher attire - modest knee-length dress or skirt with blouse, low heels, simple jewelry"
+      position: "Standing at front of classroom or moving between student desks"
+      action: "Teaching, explaining rules, observing student behavior, taking notes"
+    - appearance: "Group of 8-year-old Caucasian children with brown eyes, various heights, mix of boys and girls, expressions showing confidence when privileged or dejection when discriminated against"
+      clothing: "Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with blouses, some wearing paper collars around necks when designated as inferior"
+      position: "Seated at wooden school desks or standing in privileged areas"
+      action: "Enjoying privileges or enduring restrictions depending on the day, showing learned superiority or inferiority"
+    - appearance: "Group of 8-year-old Caucasian children with blue eyes, various heights, mix of boys and girls, expressions ranging from confused to distressed to defiant"
+      clothing: "Late 1960s children's school clothing - boys in button-up shirts and slacks, girls in dresses or skirts with blouses, some wearing paper collars around necks when designated as inferior"
+      position: "Seated at wooden school desks or standing in designated areas"
+      action: "Following restrictive rules, showing signs of stress or rebellion, interacting cautiously"
+  scene:
+    mainElements: "Rows of wooden school desks with attached chairs, teacher's desk at front, chalkboard with day's lessons, alphabet cards around room"
+    details: "Brown-eyed children eagerly raise hands and work confidently at their desks while blue-eyed children with brown collars slouch dejectedly over their papers, struggling with simple arithmetic they could do easily the day before, teacher observing and timing their reading speeds with stopwatch, dramatic academic performance differences emerging, no text or letters visible"
+    background: "Classroom educational materials, afternoon shadows lengthening through windows"
+    atmosphere: "Visible academic confidence and performance correlating directly with assigned social status"
+  composition:
+    cameraAngle: "Close-up shot focusing on contrasting student behaviors"
+    focus: "Stark difference in academic confidence between the two groups"
+    depth: "Struggling blue-eyed students in foreground, confident brown-eyed students in middle ground, observing teacher in background"

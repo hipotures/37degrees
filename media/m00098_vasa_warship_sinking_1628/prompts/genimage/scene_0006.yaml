@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: August 10, 1628, mid-morning
+    location: Stockholm harbor waters during Vasa's departure
+    weather: Light wind gust hitting ship from port side
+  characters:
+  - appearance: Swedish man, 35, experienced sea captain appearance, confident bearing
+    clothing: 17th century ship captain uniform with brass buttons, navigation instruments
+    position: Standing at ship's wheel trying to maintain control
+    action: Maritime expertise, struggling with ship's wheel as vessel tilts dangerously to starboard
+  scene:
+    mainElements: Vasa warship beginning to heel dangerously as wind hits ornate sails and superstructure
+    details: Massive Swedish warship with ornate carvings tilting dramatically to starboard side, elaborate carved wooden
+      sculptures and golden decorations visible as ship leans, wind filling sails but causing dangerous lean, crew members
+      grabbing rigging and rails for support, water beginning to approach lower gun ports
+    background: Stockholm harbor with watching crowds now showing concern, other ships in harbor remaining stable, harbor
+      walls and royal viewing areas
+    atmosphere: First moment of disaster as engineering failure becomes apparent, confidence turning to alarm, royal celebration
+      becoming maritime emergency, physics overcoming pride, no text or letters visible
+  composition:
+    cameraAngle: Dynamic shot showing ship's dangerous lean
+    focus: Initial moment of disaster as Vasa begins to capsize
+    depth: Tilting warship in foreground, concerned harbor activity in middle ground, Stockholm waterfront in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

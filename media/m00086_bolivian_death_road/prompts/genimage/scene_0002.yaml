@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1980s, afternoon
+    location: North Yungas Road narrow cliff section, Bolivia - 3-meter wide dirt road carved into mountainside
+    weather: Overcast with threatening rain clouds
+  characters:
+  - appearance: Bus driver, 30s, concentrated expression, mustache, tired eyes
+    clothing: Simple work shirt, worn jeans, baseball cap
+    position: Behind steering wheel of overcrowded bus
+    action: Gripping steering wheel tightly, navigating treacherous narrow road with extreme concentration
+  - appearance: Elderly Bolivian woman, 60s, lined face showing years of highland life, gray hair in braids
+    clothing: Traditional colorful Bolivian dress, shawl, bowler hat, layered skirts
+    position: Seated in crowded bus interior
+    action: Clutching seat handle, eyes closed in prayer, body swaying with dangerous road movements
+  scene:
+    mainElements: Extremely narrow mountain road carved into cliff face, sheer drop on one side, rock wall on other
+    details: Worn Bolivian public bus from 1980s era, colorful paint but showing age and wear, passengers packed beyond capacity,
+      luggage strapped to roof, wheels dangerously close to cliff edge, loose gravel visible on road surface
+    background: Dramatic mountain valley thousands of feet below, mist rising from jungle canopy far beneath
+    atmosphere: Dangerous, precarious, breathtaking yet terrifying mountain wilderness
+  composition:
+    cameraAngle: Side view showing bus's precarious position on narrow road
+    focus: Bus struggling along cliff edge with visible danger of the drop
+    depth: Bus in foreground, cliff face in middle ground, vast valley depths in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

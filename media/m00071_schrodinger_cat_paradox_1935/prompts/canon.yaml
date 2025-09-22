@@ -1,0 +1,89 @@
+canon:
+  characters:
+    - id: "character_ES"
+      name: "Character ES"
+      description_block: |
+        characters:
+          - appearance: "Austrian physicist, 50s, tall slender build, high forehead, thoughtful dark eyes behind wire-rimmed glasses, salt-and-pepper hair neatly combed"
+            clothing: "1930s dark wool suit with vest, white collared shirt, simple tie, or white laboratory coat over shirt and trousers"
+            posture: "Scholarly bearing, often with hands clasped behind back or gesturing while explaining, contemplative stance"
+
+    - id: "character_AE"
+      name: "Character AE"
+      description_block: |
+        characters:
+          - appearance: "German-American physicist, 50s, wild white hair, expressive dark eyes, distinctive mustache, kindly weathered face"
+            clothing: "Casual 1930s attire, rumpled sweater or cardigan over shirt, often without tie, sometimes formal suit for meetings"
+            posture: "Relaxed but animated, often gesturing with hands while speaking, leaning forward when engaged in discussion"
+
+    - id: "character_NB"
+      name: "Character NB"
+      description_block: |
+        characters:
+          - appearance: "Danish physicist, 50s, medium build, receding hairline, intense pale eyes, clean-shaven, intellectual countenance"
+            clothing: "Formal 1930s attire, dark suit with vest, bow tie or regular tie, well-groomed appearance"
+            posture: "Dignified bearing, often standing straight with hands at sides or holding papers, confident demeanor"
+
+  locations:
+    - id: "university_office"
+      name: "University Physics Office"
+      description_block: |
+        setting:
+          location: "University of Oxford physics department office, 1935"
+        mainElements: "Wood-paneled office with large wooden desk, leather chair, blackboard with equations, tall windows"
+        atmosphere: "Academic scholarly environment with warm afternoon lighting through windows"
+
+    - id: "conference_room"
+      name: "Physics Conference Room"
+      description_block: |
+        setting:
+          location: "Academic conference room, European university, 1935"
+        mainElements: "Large oval wooden table with chairs, blackboard on wall, bookshelves with physics texts, formal academic setting"
+        atmosphere: "Serious intellectual discourse environment with natural lighting from tall windows"
+
+    - id: "laboratory"
+      name: "Physics Laboratory"
+      description_block: |
+        setting:
+          location: "1930s university physics laboratory"
+        mainElements: "Laboratory benches with scientific instruments, glass apparatus, measuring devices, electrical equipment of 1930s era"
+        atmosphere: "Scientific research environment with bright overhead lighting and organized workspace"
+
+    - id: "thought_experiment_space"
+      name: "Theoretical Physics Visualization Space"
+      description_block: |
+        setting:
+          location: "Abstract conceptual space for visualizing thought experiments"
+        mainElements: "Clean minimalist environment suitable for visualizing theoretical physics concepts and gedanken experiments"
+        atmosphere: "Neutral academic space allowing focus on scientific concepts without distracting elements"
+
+  items:
+    - id: "sealed_box"
+      name: "Sealed Experimental Box"
+      description_block: |
+        details: "Solid wooden or metal box with hinged lid, approximately 2 feet square, completely opaque, with simple latch mechanism, 1930s construction"
+
+    - id: "geiger_counter"
+      name: "Geiger Counter Device"
+      description_block: |
+        details: "1930s Geiger-Müller counter with cylindrical detection tube, electrical wiring, and analog meter display typical of early radiation detection equipment"
+
+    - id: "poison_flask"
+      name: "Glass Poison Flask"
+      description_block: |
+        details: "Small glass laboratory flask with cork stopper, containing liquid, attached to mechanical hammer mechanism for breaking"
+
+    - id: "radioactive_sample"
+      name: "Radioactive Material Sample"
+      description_block: |
+        details: "Small sample of radioactive material in protective lead-lined container, 1930s laboratory standard for physics experiments"
+
+    - id: "blackboard_equations"
+      name: "Physics Equations on Blackboard"
+      description_block: |
+        details: "Large slate blackboard with quantum mechanics equations written in white chalk, wave function symbols and mathematical notation"
+
+    - id: "scientific_papers"
+      name: "Academic Physics Papers"
+      description_block: |
+        details: "Stack of typewritten scientific papers and journals from 1930s, some with handwritten notes, scattered on desk or table"

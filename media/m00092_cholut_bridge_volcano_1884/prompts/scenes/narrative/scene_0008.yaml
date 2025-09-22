@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Final Bridge Inspection and Load Testing"
+  setting:
+    time: "1884, late afternoon"
+    location: "Cholut River valley crossing point, Central Java, Indonesia, with Mount Merapi visible in background"
+    weather: "Clear afternoon with dramatic volcanic backdrop"
+  characters:
+    - appearance: "Dutch engineer, 40s, tall sturdy build, weathered face from tropical climate, brown hair with receding hairline, wire-rim spectacles"
+      clothing: "White colonial linen shirt with rolled sleeves, brown canvas trousers, leather work boots, pith helmet nearby"
+      position: "Standing on completed bridge deck examining construction quality"
+      action: "Conducting final structural inspection using measuring instruments and testing load-bearing capacity"
+    - appearance: "Dutch colonial administrator, 35s, medium build, pale complexion, blonde mustache, formal bearing"
+      clothing: "White colonial dress uniform with brass buttons, black leather belt, polished black boots, peaked cap"
+      position: "Walking across bridge deck observing completion"
+      action: "Inspecting finished bridge while discussing successful completion of volcano-resistant design project"
+  scene:
+    mainElements: "Completed stone arch bridge spanning river, volcanic stone construction, lava diversion channels integrated into design"
+    details: "Brass surveying equipment on wooden tripod positioned for final measurements, volcanic stone blocks fitted precisely in arch formation, carved lava diversion channels, rope and pulley systems being removed, construction tools being packed away"
+    background: "Wide rushing river flowing under completed bridge, dense tropical vegetation, Mount Merapi volcano with steam plume, cleared construction site"
+    atmosphere: "Sense of engineering achievement and successful completion, bridge designed to withstand volcanic threats while serving transportation needs, pride in innovative colonial infrastructure"
+  composition:
+    cameraAngle: "Wide shot showing completed bridge spanning river with Mount Merapi backdrop"
+    focus: "Finished bridge structure demonstrating successful volcanic-resistant engineering"
+    depth: "Completed bridge in foreground, inspection team in middle ground, volcanic landscape extending to horizon, no text or letters visible"

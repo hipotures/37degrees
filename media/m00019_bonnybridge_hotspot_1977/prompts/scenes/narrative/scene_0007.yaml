@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Character BB addressing council meeting about UFO reports"
+  setting:
+    time: "1993 mid-year, daytime council session"
+    location: "Falkirk Town Hall, Victorian architecture, council chambers"
+    weather: "Indoor civic meeting environment"
+  characters:
+    - appearance: "Scottish local councillor, formal appearance, determined expression, official bearing"
+      clothing: "Council meeting attire - formal white shirt, dark tie, council identification badge visible"
+      position: "Standing at council podium addressing assembled officials"
+      action: "Serious, committed stance, frustrated by government indifference but determined to represent constituents regarding increasing UFO sighting reports"
+  scene:
+    mainElements: "Traditional Scottish civic building council chambers with wooden paneling, public gallery, official meeting setup, Victorian architecture details, formal government environment, assembled council members listening to UFO discussion"
+    details: "Stone Victorian architecture providing formal civic setting, council chambers with traditional wooden paneling, public gallery seating for community members, official meeting furniture arranged for formal discussion, council identification visible on speakers, serious governmental atmosphere for extraordinary topic discussion, audience members showing mixed reactions to UFO reports, formal procedures being followed despite unusual subject matter, no text or letters visible"
+    background: "Victorian civic building interior, wooden paneled walls, formal government architecture, official council chamber setup"
+    atmosphere: "Formal government setting for serious UFO discussion meetings, official civic response to community concerns, mixture of skepticism and constituent service, democratic process addressing extraordinary claims"
+  composition:
+    cameraAngle: "Medium shot showing councillor addressing assembly with official setting"
+    focus: "Character BB speaking at podium with council chamber and assembled officials"
+    depth: "Foreground shows speaking councillor, middle ground shows council assembly, background shows civic architecture and formal setting"

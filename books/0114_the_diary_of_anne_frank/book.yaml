@@ -4,3 +4,242 @@ book_info:
   author: "Anne Frank"
   year: 1947
   genre: "Diary,Nonfiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T14:32:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 8
+    cultural_phenomenon: 10
+    contemporary_reception: 8
+    relevance: 9
+    innovation: 8
+    structural_complexity: 7
+    social_roles: 8
+    total: 67
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 8.8
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_1"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Hidden pages discovered in 2018 contained dirty jokes and sexual content, including 'Do you know why German Wehrmacht girls are in Holland? As mattresses for soldiers.'"
+        source: "dark_drama"
+      - id: "symbols_2"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "The diary functions as 24+ interpretive frameworks from feminist to psychoanalytic, showing Anne's dual identity - public vs private self"
+        source: "symbols_meanings"
+      - id: "culture_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "Over 60 adaptations created including VR gaming experiences, TikTok phenomena with 6.3M posts, and Broadway Pulitzer Prize winner"
+        source: "culture_impact"
+      - id: "youth_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "Gen Z connects through COVID isolation parallels, mental health struggles (61% diagnosed with anxiety), and digital diary culture"
+        source: "youth_digital"
+      - id: "reality_5"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Anne's belief 'people are really good at heart' challenged by post-war genocides in Rwanda, Bosnia, Darfur, and contemporary conflicts"
+        source: "reality_wisdom"
+      - id: "innovation_6"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Created epistolary diary format with fictional addressee Kitty, established Holocaust memoir genre, and pioneered two-stage creative process"
+        source: "writing_innovation"
+      - id: "facts_7"
+        type: "FACT"
+        credibility: 0.95
+        content: "Three textual versions exist: spontaneous original (A), Anne's literary revision (B), and Otto Frank's published compilation (C)"
+        source: "facts_history"
+      - id: "content_8"
+        type: "FACT"
+        credibility: 0.95
+        content: "Content warnings include Holocaust violence, sexual education passages, family dysfunction, and mental health themes requiring age-appropriate framing"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Foundational Holocaust education text, canonical literature in universities worldwide"
+        key_editions:
+          - "Barbara Mooyaart-Doubleday translation (1952)"
+          - "Susan Massotty revision (1995)"
+          - "Critical Edition (1986)"
+        reception_notes: "Rejected by 10 US publishers before breakthrough via Meyer Levin's NY Times review"
+        educational_status: "Standard curriculum in AP Literature and World History courses"
+        local_themes:
+          - "Young adult literature foundation"
+          - "Holocaust memoir template"
+          - "Coming-of-age under trauma"
+
+      pl:
+        cultural_impact: "Educational cornerstone since 1957, used in ethics classes and Holocaust education"
+        key_editions:
+          - "PIW edition translated by Zofia Jaremko-Pytowska (1957)"
+          - "Theater adaptations in Warsaw and Opole"
+        reception_notes: "Strong theatrical tradition with puppet theater adaptations reaching youth audiences"
+        educational_status: "Required reading in middle school and high school ethics curriculum"
+        local_themes:
+          - "Anti-discrimination education"
+          - "Polish-Jewish historical relations"
+          - "Wartime solidarity"
+
+      de:
+        cultural_impact: "Central to Vergangenheitsbewältigung - processing Nazi past through education"
+        key_editions:
+          - "Reclam Universal-Bibliothek scholarly edition"
+          - "Mirjam Pressler translation (1991)"
+          - "2016 German film adaptation"
+        reception_notes: "89 schools named after Anne Frank in Germany, extensive Holocaust education integration"
+        educational_status: "Core curriculum across multiple subjects: German literature, History, Ethics, Religion"
+        local_themes:
+          - "Coming to terms with the past"
+          - "Memory culture"
+          - "Democratic education values"
+
+      fr:
+        cultural_impact: "Part of French intellectual engagement with Holocaust memory and testimony"
+        key_editions:
+          - "Calman-Lévy Le Journal d'Anne Frank (1950)"
+          - "Multiple Livre de Poche editions"
+        reception_notes: "Connected to French New Wave cinema and existentialist themes of 1950s"
+        educational_status: "Holocaust education across French-speaking regions including Quebec and Belgium"
+        local_themes:
+          - "Vichy period memory"
+          - "Testimonial literature tradition"
+          - "Resistance and collaboration themes"
+
+      es:
+        cultural_impact: "Strong Latin American reception with focus on human rights education"
+        key_editions:
+          - "Multiple Spanish translations"
+          - "Educational adaptations across Spanish-speaking countries"
+        reception_notes: "Emphasis on democratic values and human rights themes"
+        educational_status: "Used in human rights education and literature courses"
+        local_themes:
+          - "Human rights advocacy"
+          - "Democratic transition parallels"
+          - "Youth voice in social change"
+
+      pt:
+        cultural_impact: "Growing presence in Brazilian and Portuguese education systems"
+        key_editions:
+          - "Portuguese translations"
+          - "Brazilian educational adaptations"
+        reception_notes: "Focus on tolerance and anti-discrimination themes"
+        educational_status: "Integrated into literature and history curricula"
+        local_themes:
+          - "Tolerance education"
+          - "Immigration experiences"
+          - "Cultural diversity themes"
+
+      ja:
+        cultural_impact: "Nearly 6 million copies sold, integral part of postwar Japanese culture"
+        key_editions:
+          - "Anne no nikki (1952)"
+          - "Multiple manga adaptations"
+          - "1995 Madhouse anime film"
+        reception_notes: "Essential childhood reading alongside Aesop's Fables, strong peace education connection"
+        educational_status: "Standard reading around age 10, part of moral and literary education"
+        local_themes:
+          - "Peace education"
+          - "Victim consciousness"
+          - "Connection to Hiroshima-Nagasaki memory"
+
+      ko:
+        cultural_impact: "Growing presence in Korean education with focus on human rights"
+        key_editions:
+          - "Korean translations"
+          - "Educational materials"
+        reception_notes: "Connected to democratization and human rights movements"
+        educational_status: "Used in human rights and world literature education"
+        local_themes:
+          - "Democratization parallels"
+          - "Human rights education"
+          - "Youth activism"
+
+      hi:
+        cultural_impact: "Emerging presence in Indian education systems"
+        key_editions:
+          - "Hindi translations"
+          - "Educational adaptations"
+        reception_notes: "Focus on tolerance and secular values"
+        educational_status: "Used in literature and value education courses"
+        local_themes:
+          - "Secular education"
+          - "Tolerance and diversity"
+          - "Historical consciousness"
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "The mystery begins: a 13-year-old receives a diary, disappears, leaves behind three different versions"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "Reconstructing the Secret Annex: eight people, 761 days, the helpers' dangerous mission"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "The detective work: ballpoint pen theories, hidden pages, Otto Frank's editing decisions"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "discovery"
+          lead: "host_b"
+          description: "The transformation: how a teenage diary became a literary masterpiece and global phenomenon"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "impact"
+          lead: "host_a"
+          description: "The legacy mystery: why Anne Frank became the voice of the Holocaust over millions of others"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter. Ask about key events in 'The Diary of Anne Frank', seek details, uncover hidden meanings. Focus on the mystery of three textual versions (A,B,C), the authentication battles, and how this teenage diary became global phenomenon."
+        host_b: "You are {female_name}, an eyewitness to the story. Describe scenes vividly from the Secret Annex, share emotional impact, bring narrative to life. You understand the transformation from spontaneous diary to conscious literary work."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "Holocaust and persecution themes"
+      - "Sexual education content"
+      - "Family dysfunction and conflict"
+      - "Mental health and isolation themes"
+      - "Historical violence references"
+    educational_elements:
+      - "Holocaust history and documentation"
+      - "Coming-of-age literature analysis"
+      - "Diary as literary genre study"
+      - "World War II civilian experience"
+      - "Human rights and tolerance education"
+      - "Writing and journaling as therapy"
+      - "Primary source historical analysis"
+    production_notes:
+      intro_style: "documentary investigation opening - mysterious discovery of multiple diary versions"
+      transitions: "detective-style musical bridges with typewriter sounds and wartime audio"
+      outro_style: "reflective close examining lasting questions about Anne Frank's global impact"
+
+  overall_confidence: 0.89

@@ -4,3 +4,174 @@ book_info:
   author: "Tayeb Salih"
   year: 1966
   genre: "Novel,Postcolonial"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-21T17:25:00Z"
+
+  scores:
+    controversy: 8.0
+    philosophical_depth: 9.0
+    cultural_phenomenon: 3.0
+    contemporary_reception: 2.0
+    relevance: 9.0
+    innovation: 8.0
+    structural_complexity: 7.0
+    social_roles: 8.0
+    total: 54.0
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.2
+      category: "high"
+    heat:
+      value: 5.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Banned in Sudan (1983-1990s) due to graphic sexual content, chosen as most important Arabic novel of 20th century in 2001"
+        source: "dark_drama"
+      - id: "symbols_meanings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Complex palimpsest technique overlaying cultural layers - secret room with English fireplace represents cultural dislocation"
+        source: "symbols_meanings"
+      - id: "culture_impact_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Translated into over 30 languages, Edward Said called it one of six great novels in Arabic literature"
+        source: "culture_impact"
+      - id: "youth_digital_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Themes of hybrid identity, toxic masculinity, and decolonizing therapy resonate with contemporary Gen Z experiences"
+        source: "youth_digital"
+      - id: "reality_wisdom_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Predicted cultural identity crisis of migrants, reverse cultural colonialism, and intergenerational trauma - all proven accurate"
+        source: "reality_wisdom"
+      - id: "writing_innovation_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary dual consciousness narrative, first successful counter-narrative to Conrad's Heart of Darkness"
+        source: "writing_innovation"
+      - id: "facts_history_1"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "First published in CIA-funded magazine Hiwar in 1966, causing controversy when funding was exposed"
+        source: "facts_history"
+      - id: "content_warnings_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "High-risk content requiring 18+ classification due to graphic violence, sexual content, and psychological manipulation themes"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in postcolonial studies, core text in universities worldwide alongside Conrad and Shakespeare"
+        key_editions: ["Heinemann African Writers Series (1969)", "NYRB Classics (2009)", "Penguin Modern Classics"]
+        reception_notes: "Edward Said's endorsement elevated to foundational postcolonial text status"
+        educational_status: "Required reading in postcolonial literature courses"
+        local_themes: ["Counter-narrative to Heart of Darkness", "Dialogue with Othello", "Intertextual deconstruction"]
+      pl:
+        cultural_impact: "Niche academic reception through single 2010 Smak Słowa edition, rating 6.7/10 among Polish readers"
+        key_editions: ["Smak Słowa (2010) - only Polish edition"]
+        reception_notes: "Polish readers relate through own experiences of migration and cultural displacement"
+        educational_status: "University level only, not in school canon"
+        local_themes: ["Emigration parallels with PRL experiences", "Return from West theme", "Cultural periphery understanding"]
+      de:
+        cultural_impact: "Academic recognition through Regina Karachouli's excellent translation, cornerstone of postcolonial studies"
+        key_editions: ["Lenos Verlag Basel (1998, 2004) as Zeit der Nordwanderung"]
+        reception_notes: "Sophisticated theoretical analysis in German academia since mid-1970s postcolonial discourse"
+        educational_status: "Widely studied in German universities, advanced Gymnasium courses"
+        local_themes: ["Cultural hybridity analysis", "Identity formation theory", "Migration discourse relevance"]
+      fr:
+        cultural_impact: "Strong Francophone reception in postcolonial studies, particularly in Algeria and Tunisia contexts"
+        key_editions: ["French translations available", "Academic press editions"]
+        reception_notes: "Analyzed within French postcolonial theoretical framework"
+        educational_status: "University postcolonial literature courses"
+        local_themes: ["Franco-Arab cultural encounters", "Colonial memory", "Maghreb identity connections"]
+      es:
+        cultural_impact: "Growing recognition in Hispanic postcolonial studies and Arabic literature programs"
+        key_editions: ["Spanish academic translations"]
+        reception_notes: "Comparative analysis with Latin American magical realism"
+        educational_status: "Graduate level Arabic studies"
+        local_themes: ["Colonial discourse parallels", "Migration narratives", "Cultural syncretism"]
+      pt:
+        cultural_impact: "Limited but scholarly reception in Brazilian and Portuguese academic contexts"
+        key_editions: ["Portuguese academic translations"]
+        reception_notes: "Analyzed within Lusophone postcolonial framework"
+        educational_status: "Specialized Arabic literature courses"
+        local_themes: ["Portuguese colonial legacy comparisons", "Brazilian migration parallels", "Hybrid identity exploration"]
+      ja:
+        cultural_impact: "Academic interest in Japanese Middle Eastern studies and postcolonial literature programs"
+        key_editions: ["Japanese academic translations"]
+        reception_notes: "Studied within Japanese postwar cultural encounter frameworks"
+        educational_status: "University Arabic studies departments"
+        local_themes: ["East-West cultural encounter", "Modernization trauma", "Identity displacement"]
+      ko:
+        cultural_impact: "Emerging recognition in Korean Arabic studies and postcolonial literature"
+        key_editions: ["Korean academic translations"]
+        reception_notes: "Growing interest in postcolonial perspectives"
+        educational_status: "Graduate Arabic literature programs"
+        local_themes: ["Colonial memory and resistance", "Cultural modernization conflicts", "Diaspora identity"]
+      hi:
+        cultural_impact: "Significant resonance in Indian postcolonial studies due to shared colonial experience"
+        key_editions: ["Indian academic editions", "Postcolonial literature collections"]
+        reception_notes: "Strong identification with colonial psychological trauma themes"
+        educational_status: "Postcolonial literature courses in Indian universities"
+        local_themes: ["British colonial legacy", "Cultural displacement", "Identity fragmentation under colonialism"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "postcolonial_foundations"
+          lead: "host_a"
+          description: "Complex palimpsest technique overlaying cultural layers - secret room represents dislocation"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "narrative_innovation"
+          lead: "host_b"
+          description: "Revolutionary dual consciousness narrative, first successful counter-narrative to Conrad"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "symbolic_analysis"
+          lead: "host_a"
+          description: "Banned in Sudan due to graphic content, chosen as most important Arabic novel of 20th century"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "cultural_impact"
+          lead: "host_b"
+          description: "Translated into over 30 languages, Edward Said endorsed as foundational text"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Themes of hybrid identity and decolonizing therapy resonate with contemporary Gen Z"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'Season of Migration to the North' with scholarly depth. Discuss postcolonial theory, narrative innovation, symbolic complexity, and the work's revolutionary counter-narrative to Conrad's Heart of Darkness. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification on complex postcolonial concepts, request examples of narrative techniques, connect to contemporary identity theory, ensure accessibility for listeners unfamiliar with academic frameworks."
+
+  metadata:
+    target_audience: "18+"
+    content_warnings: ["sexual violence", "psychological manipulation", "colonial trauma", "toxic masculinity", "suicide themes"]
+    educational_elements: ["Postcolonial literature analysis", "Historical context of 1960s Sudan", "Narrative technique study", "Cultural identity exploration", "Symbolism and intertextuality"]
+    production_notes:
+      intro_style: "serious academic tone with content warnings"
+      transitions: "subtle intellectual bridges between complex topics"
+      outro_style: "reflective conclusion emphasizing literary significance"
+
+  overall_confidence: 0.9

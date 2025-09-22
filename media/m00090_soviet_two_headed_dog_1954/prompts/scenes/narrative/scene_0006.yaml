@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Scientific Observation and Documentation"
+  setting:
+    time: "February 1954, late afternoon"
+    location: "Medical observation chamber with viewing window, Moscow Institute of Surgery"
+    weather: "Indoor controlled environment"
+  characters:
+    - appearance: "Caucasian man, 42 years old, balding with thick mustache, studious appearance, academic bearing"
+      clothing: "Dark suit with vest, white shirt, tie, occasionally white laboratory coat for observations"
+      position: "Seated at observation desk with scientific documentation"
+      action: "Writing detailed observations in scientific notebook while monitoring ongoing medical procedure"
+    - appearance: "Caucasian man, 45 years old, graying temples, serious expression, medical professional bearing"
+      clothing: "White laboratory coat, dark trousers, medical cap, sterile surgical mask around neck"
+      position: "Standing at observation window with clipboard"
+      action: "Taking careful measurements and noting procedural details for scientific record"
+  scene:
+    mainElements: "Observation room with glass partition window overlooking surgical theater, scientific documentation workspace with measurement equipment"
+    details: "Scientific notebooks, medical charts, and documentation papers with handwritten observations and measurements arranged on desk, early medical monitoring devices including basic heart rate monitors, temperature gauges, and pressure measurement tools providing continuous readings, view through glass partition showing ongoing medical procedure"
+    background: "Academic observation space with medical charts on walls, additional monitoring equipment, institutional lighting"
+    atmosphere: "Academic observation space with serious scholarly environment, methodical scientific documentation, sense of important medical research being carefully recorded"
+  composition:
+    cameraAngle: "Medium shot capturing observation room and documentation process"
+    focus: "Scientific documentation being written while observing medical procedure through glass partition"
+    depth: "Documentation desk in foreground, observers in middle ground, surgical theater visible through glass in background, no text or letters visible"

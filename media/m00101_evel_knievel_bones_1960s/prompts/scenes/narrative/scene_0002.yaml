@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Preparation in the Garage Workshop"
+  setting:
+    time: "1967, evening"
+    location: "Motorcycle repair garage with tools and equipment"
+    weather: "Indoor setting"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns"
+      clothing: "Red, white and blue leather jumpsuit with stars and stripes, white helmet with eagle emblem, white leather boots"
+      position: "Kneeling beside motorcycle, tools in hand"
+      action: "Fine-tuning motorcycle engine and adjusting suspension"
+    - appearance: "Men in 30s-40s, working-class build, concerned expressions"
+      clothing: "Casual 1970s attire, work shirts, jeans, tool belts"
+      position: "Standing around workshop, some holding tools"
+      action: "Assisting with motorcycle preparation and checking safety equipment"
+  scene:
+    mainElements: "Motorcycles, tool benches, spare parts, oil stains on concrete floor with focused mechanical work in progress"
+    details: "Garage workshop filled with motorcycle parts, wrenches scattered on workbenches, spare engines on stands, oil cans and rags, fluorescent work lights casting harsh shadows, no text or letters visible"
+    background: "Tool cabinets, spare motorcycle frames, work lights, garage doors"
+    atmosphere: "Working environment, mechanical preparation, focused activity with sense of upcoming danger"
+  composition:
+    cameraAngle: "Low angle shot emphasizing work intensity"
+    focus: "Character EK's hands working on motorcycle engine"
+    depth: "Tools and parts in foreground, characters working in middle ground, garage equipment in background"

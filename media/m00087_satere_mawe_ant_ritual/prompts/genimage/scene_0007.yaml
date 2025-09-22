@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Night, fire providing dramatic illumination
+    location: Central gathering area of Sateré-Mawé village in Amazon rainforest
+    weather: Cool evening air with ceremonial smoke swirling
+  characters:
+  - appearance: Indigenous Brazilian boy, 12-15 years old, lean athletic build, bronze skin, straight black hair
+    clothing: Traditional Sateré-Mawé attire with colorful feather ornaments, woven cotton bands, minimal body decoration
+    position: Dancing in center of circle wearing ant gloves, body in motion despite pain
+    action: Performing traditional ritual dance movements while enduring bullet ant stings for 10-minute duration
+  - appearance: Various Sateré-Mawé villagers of different ages, bronze skin, traditional facial features
+    clothing: Everyday tribal attire with colorful cotton garments, simple jewelry, body paint patterns
+    position: Seated in circle around dancing initiate, some standing and swaying
+    action: Chanting traditional songs and beating rhythm on shell instruments to support initiate
+  scene:
+    mainElements: Circular clearing surrounded by traditional thatched-roof houses, fire pit in center, woven palm mats
+    details: Central fire creating dramatic shadows and golden light, initiate dancing with bullet ant gloves while community
+      provides rhythmic support. Traditional Sateré-Mawé ritual items including feathered staffs, carved masks, painted gourds,
+      shell instruments being used ceremonially.
+    background: Village houses silhouetted against night sky, Amazon rainforest edge visible in firelight
+    atmosphere: Community gathering space with warm firelight, ceremonial significance, tribal unity. Intense spiritual energy
+      and communal support during extreme ordeal, no text or letters visible
+  composition:
+    cameraAngle: Dynamic medium shot capturing dance movement and community support
+    focus: Dancing initiate enduring ant stings while maintaining ceremonial movements
+    depth: Dancing figure in foreground, supportive community in middle ground, firelit village in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -4,3 +4,182 @@ book_info:
   author: "Sophocles"
   year: c. 429 BC
   genre: "Tragedy,Play"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T14:35:00"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 64
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 7.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Play written during 430-429 BCE Athenian plague, directly referencing real catastrophe"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Central paradox of sight vs blindness: Oedipus sees but is blind to truth, Tiresias blind but sees clearly"
+        source: "symbols_meanings"
+      - id: "innovation_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary: introduced third actor to Greek theater, enabling complex character interactions"
+        source: "writing_innovation"
+      - id: "culture_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Freud's Oedipus complex theory based directly on this play, defining psychology for 100+ years"
+        source: "culture_impact"
+      - id: "wisdom_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Predicted modern pattern: leaders ignoring expert warnings (parallels to COVID-19, climate crisis)"
+        source: "reality_wisdom"
+      - id: "youth_1"
+        type: "FACT"
+        credibility: 0.90
+        content: "Active TikTok presence through BookTok, Percy Jackson mythology renaissance, gaming references"
+        source: "youth_digital"
+      - id: "history_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "First detective story in Western literature - hero investigates crime he unknowingly committed"
+        source: "facts_history"
+      - id: "controversy_1"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Freudian interpretation criticized in #MeToo era as potentially concealing real abuse cases"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text in English-speaking education from Columbia Core Curriculum to Cambridge IGCSE"
+        key_editions: ["Penguin Classics Robert Fagles translation", "University of Wisconsin David Mulroy version"]
+        reception_notes: "Canonical status comparable to Mona Lisa in art - universally known reference point"
+        educational_status: "Required text in AP Literature, Yale National Initiative curricula"
+        local_themes: ["Hamlet connections via Freudian analysis", "Harold Bloom canonical interpretation", "BBC productions tradition"]
+
+      pl:
+        cultural_impact: "Mandatory high school reading with rich theatrical tradition in Poland"
+        key_editions: ["Antoni Libera modern translation 2014", "Gustaw Holoubek legendary production 2004"]
+        reception_notes: "Strong youth engagement via TikTok educational memes, teacher content"
+        educational_status: "Graduation exam material, special educational editions with footnotes"
+        local_themes: ["Catholic interpretation of sin and redemption", "Martyrology parallels with Polish fate", "Theater as social debate space"]
+
+      de:
+        cultural_impact: "Central to German Romantic philosophy and Frankfurt School critical theory"
+        key_editions: ["Reclam Universal-Bibliothek standard edition", "Wolfgang Schadewaldt 1955 translation", "Friedrich Hölderlin Romantic version"]
+        reception_notes: "Strong academic tradition, Gymnasium curriculum grades 10-13"
+        educational_status: "Abitur literature across all German states, ministerial requirements"
+        local_themes: ["Heidegger philosophical dedication", "Frankfurt School domination analysis", "Benjamin-Adorno Romantic interpretation"]
+
+      fr:
+        cultural_impact: "Foundation of French classical tragedy through Corneille and Racine influence"
+        key_editions: ["Jean Cocteau libretto for Stravinsky opera", "Classical French translations"]
+        reception_notes: "Academic respect for Greek models, theatrical tradition"
+        educational_status: "Classical studies curriculum, comparative literature focus"
+        local_themes: ["Three unities derivation", "Elevated poetic style influence", "Cartesian vs fatalistic worldview"]
+
+      es:
+        cultural_impact: "Influence on Golden Age drama and modern Latin American magical realism"
+        key_editions: ["Spanish university editions", "Latin American adaptations"]
+        reception_notes: "Growing interest through global literature programs"
+        educational_status: "University classical studies, comparative literature"
+        local_themes: ["Honor and shame cultural parallels", "Magical realism structural influence", "Colonial interpretation possibilities"]
+
+      pt:
+        cultural_impact: "Part of Portuguese and Brazilian classical education, modernist interest"
+        key_editions: ["Portuguese academic translations", "Brazilian university versions"]
+        reception_notes: "Academic and literary circle appreciation"
+        educational_status: "University literature programs, classical studies"
+        local_themes: ["Pessoa modernist connection", "Brazilian social interpretation", "Lusophone adaptation potential"]
+
+      ja:
+        cultural_impact: "Influence on Japanese No theater traditions and modern psychological drama"
+        key_editions: ["Japanese academic translations", "Theater adaptation versions"]
+        reception_notes: "Interest through Western literature study and psychological themes"
+        educational_status: "University Western literature curriculum"
+        local_themes: ["No theater structural parallels", "Psychological manga influence", "Honor-shame cultural resonance"]
+
+      ko:
+        cultural_impact: "Growing presence through Korean academic engagement with Western classics"
+        key_editions: ["Korean university translations", "Academic study editions"]
+        reception_notes: "Increasing interest through global education"
+        educational_status: "University comparative literature programs"
+        local_themes: ["Family duty vs individual choice", "Confucian authority structure parallels", "Modern Korean drama influence"]
+
+      hi:
+        cultural_impact: "Academic study in Indian universities, connections to dharma and karma concepts"
+        key_editions: ["Indian English translations", "Hindi academic versions"]
+        reception_notes: "Philosophical resonance with Indian thought systems"
+        educational_status: "University English literature, comparative studies"
+        local_themes: ["Karma and fate philosophical parallels", "Family duty dharmic interpretation", "Classical Sanskrit drama comparison"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "The case begins: plague in Thebes and the king's investigation promise"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "Blind prophet's accusation and the first clues about the crossroads murder"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "Jocasta's terror and the messenger's devastating 'good news' from Corinth"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "evidence_unveiling"
+          lead: "host_b"
+          description: "The shepherd's final testimony revealing the full horrific truth"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "impact"
+          lead: "host_a"
+          description: "Self-punishment and exile - the investigation's tragic conclusion"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter. Ask about key events in 'Oedipus Rex', seek details, uncover hidden meanings in this ancient detective story."
+        host_b: "You are {female_name}, an eyewitness to the story. Describe scenes vividly, share emotional impact, bring narrative to life as tragedy unfolds."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["family violence", "sexual content references", "suicide references", "self-harm"]
+    educational_elements: ["Greek tragedy characteristics", "Historical context of 429 BCE", "Dramatic irony techniques", "Aristotelian catharsis theory"]
+    production_notes:
+      intro_style: "dramatic ancient Greek setting with contemporary relevance"
+      transitions: "musical bridges with classical and modern elements"
+      outro_style: "reflection on timeless psychological insights"
+
+  overall_confidence: 0.89

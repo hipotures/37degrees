@@ -4,3 +4,174 @@ book_info:
   author: "Molière"
   year: 1664
   genre: "Comedy,Play"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-21T14:32:00Z"
+
+  scores:
+    controversy: 9.0
+    philosophical_depth: 9.0
+    cultural_phenomenon: 9.0
+    contemporary_reception: 2.0
+    relevance: 9.0
+    innovation: 9.0
+    structural_complexity: 7.0
+    social_roles: 9.0
+    total: 63.0
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 7.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "religious_manipulation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Greatest theatrical scandal of the 17th century - banned for 5 years, excommunication threats for audiences"
+        source: "dark_drama"
+      - id: "psychological_control"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Masterful manipulator using emotional exploitation, gaslighting, and isolation tactics"
+        source: "symbols_meanings"
+      - id: "digital_parallels"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Religious influencers, fake spiritual gurus on TikTok - identical manipulation patterns in social media age"
+        source: "youth_digital"
+      - id: "family_dysfunction"
+        type: "FACT"
+        credibility: 0.95
+        content: "One manipulator can destroy entire family - toxic family dynamics and scapegoating patterns"
+        source: "reality_wisdom"
+      - id: "gender_dynamics"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Women as voice of reason - Elmire and Dorine most intelligent characters, revolutionary gender roles"
+        source: "writing_innovation"
+      - id: "institutional_abuse"
+        type: "FACT"
+        credibility: 0.95
+        content: "5-year Catholic Church ban, clergy calling for author to be burned at stake"
+        source: "facts_history"
+      - id: "timeless_psychology"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Human nature doesn't change - same vulnerabilities, same manipulation techniques across centuries"
+        source: "reality_wisdom"
+      - id: "theatrical_revolution"
+        type: "FACT"
+        credibility: 0.95
+        content: "Double Vision Comedy, psychological realism, breaking classical decorum rules - revolutionary techniques"
+        source: "writing_innovation"
+
+    localized:
+      en:
+        cultural_impact: "Norton Critical Edition standard, RSC and National Theatre tradition, Broadway productions from 1965-2025"
+        key_editions: ["Richard Wilbur verse translation", "Norton Critical Edition", "Oxford World's Classics"]
+        reception_notes: "Censorship legacy as touchstone for artistic freedom debates in Anglo-American constitutional history"
+        educational_status: "University curriculum standard for comic writing and social criticism"
+        local_themes: ["Freedom of expression", "Religious authority resistance", "Democratic society tensions"]
+      pl:
+        cultural_impact: "Required school reading, 'Świętoszek' as Polish term for religious hypocrite"
+        key_editions: ["Tadeusz Boy-Żeleński classic translation", "Jerzy Radziwiłowicz contemporary version"]
+        reception_notes: "Strong Catholic context makes religious hypocrisy themes particularly resonant"
+        educational_status: "Mandatory curriculum in Polish schools alongside Shakespeare"
+        local_themes: ["Religious institutional critique", "Polish Enlightenment influence", "Contemporary political parallels"]
+      de:
+        cultural_impact: "German Romantic movement influence, scholarly tradition in universities"
+        key_editions: ["Reclam editions", "Academic scholarly editions"]
+        reception_notes: "Strong academic tradition with philosophical interpretations"
+        educational_status: "Classic literature canon in German education"
+        local_themes: ["Philosophical interpretations", "Psychoanalytic readings", "Institutional critique"]
+      fr:
+        cultural_impact: "Original cultural phenomenon, Comédie-Française most performed play"
+        key_editions: ["Original 1669 edition", "Pléiade classics", "Folio editions"]
+        reception_notes: "Founded French tradition of social comedy and anticlerical criticism"
+        educational_status: "Foundation of French literary education"
+        local_themes: ["Anticlerical tradition", "Social comedy origins", "Royal authority vs church"]
+      es:
+        cultural_impact: "Spanish Golden Age theater influence, university curriculum standard"
+        key_editions: ["Cátedra classics", "Austral series translations"]
+        reception_notes: "Resonates with Spanish religious and social history"
+        educational_status: "World literature requirement in Spanish education"
+        local_themes: ["Religious social control", "Counter-Reformation context", "Social hierarchy critique"]
+      pt:
+        cultural_impact: "Brazilian and Portuguese theater adaptations, academic study"
+        key_editions: ["Penguin Clássicos", "L&PM Editores translations"]
+        reception_notes: "Colonial religious authority parallels resonate strongly"
+        educational_status: "Classical literature curriculum component"
+        local_themes: ["Colonial discourse", "Religious institutional power", "Social manipulation"]
+      ja:
+        cultural_impact: "Modern theater adaptations, university literature programs"
+        key_editions: ["Iwanami Bunko classics", "Academic press translations"]
+        reception_notes: "Social harmony vs individual truth themes resonate with Japanese culture"
+        educational_status: "Western classical literature survey courses"
+        local_themes: ["Social conformity critique", "Authority questioning", "Institutional harmony"]
+      ko:
+        cultural_impact: "Contemporary theater scene, university literary studies"
+        key_editions: ["Moonji Publishing translations", "Academic editions"]
+        reception_notes: "Religious and social authority themes relevant to Korean context"
+        educational_status: "World literature curriculum inclusion"
+        local_themes: ["Confucian authority structures", "Religious influence", "Social hierarchy"]
+      hi:
+        cultural_impact: "English-language theater tradition in India, postcolonial readings"
+        key_editions: ["Indian academic press editions", "Colonial literature studies"]
+        reception_notes: "Colonial religious authority and resistance themes highly relevant"
+        educational_status: "Postcolonial literature and world classics courses"
+        local_themes: ["Colonial religious control", "Traditional authority", "Social reform"]
+
+  formats:
+    critical_debate:
+      name: "critical_debate"
+      duration: 15
+      hosts:
+        host_a: "passionate advocate defending the work's artistic merit and social value"
+        host_b: "critical skeptic questioning the work's contemporary relevance and moral impact"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "artistic_courage_vs_controversy"
+          lead: "host_a"
+          description: "Was Molière a brave social critic or reckless provocateur attacking religion?"
+        - segment: 2
+          time_range: "03:00-06:30"
+          topic: "contemporary_relevance_debate"
+          lead: "host_b"
+          description: "Does fake influencer culture really parallel 17th-century religious hypocrisy?"
+        - segment: 3
+          time_range: "06:30-10:00"
+          topic: "literary_merit_vs_moral_concerns"
+          lead: "host_a"
+          description: "Can art criticize institutions without undermining faith itself?"
+        - segment: 4
+          time_range: "10:00-12:30"
+          topic: "educational_value_vs_potential_harm"
+          lead: "host_b"
+          description: "Should we teach manipulation techniques even to warn against them?"
+        - segment: 5
+          time_range: "12:30-15:00"
+          topic: "finding_common_ground"
+          lead: "both"
+          description: "What can both sides agree Tartuffe teaches us about human nature?"
+      prompts:
+        host_a: "You are {male_name}, passionately defending 'Tartuffe'. Address the work's courage in exposing religious hypocrisy and its prophetic warning about manipulation that proved incredibly relevant in the social media age. Argue for its literary genius and social importance."
+        host_b: "You are {female_name}, critically questioning 'Tartuffe'. Challenge whether this 360-year-old play truly serves modern audiences, question its potential to trivialize religious faith, and examine whether its themes oversimplify complex social issues. Maintain respectful but firm skepticism."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["religious manipulation discussion", "psychological abuse techniques", "family dysfunction", "historical censorship"]
+    educational_elements: ["classic literature analysis", "media literacy", "critical thinking", "historical context of artistic freedom"]
+    production_notes:
+      intro_style: "Controversial classic that sparked the greatest theater scandal in history"
+      transitions: "Dramatic musical bridges reflecting debate tension"
+      outro_style: "Thoughtful conclusion emphasizing ongoing relevance"
+
+  overall_confidence: 0.92

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Desert Excavation - Taposiris Magna Archaeological Site"
+  setting:
+    time: "2005, morning desert excavation"
+    location: "Ancient temple complex dedicated to Osiris and Isis, near Lake Mariout, 40km west of Alexandria"
+    weather: "Hot desert sun with clear blue skies"
+  characters:
+    - appearance: "Middle-aged Latina woman, 5'6\", dark hair, determined expression, wearing practical field clothes"
+      clothing: "Khaki archaeological fieldwork attire, wide-brimmed hat, sturdy boots, utility belt with tools"
+      position: "Kneeling at excavation site with archaeological tools"
+      action: "Carefully excavating with archaeological tools, examining ancient artifacts with magnifying glass and intense focus"
+  scene:
+    mainElements: "Stone temple with foundation plates, excavated tunnels leading to sea, necropolis with 1,000+ burials"
+    details: "Stone tablet with Greek and hieroglyphic inscriptions partially uncovered in sandy excavation pit, bronze and silver coins scattered in archaeological grid, wooden excavation frames marking different dig areas, measuring tools and brushes, water buckets for cleaning artifacts, desert mountains visible in distance"
+    background: "Desert archaeological site with ongoing excavation, ancient temple foundations, archaeological equipment and tents"
+    atmosphere: "Hot sun beating down on archaeological work, sense of important discovery, methodical scientific excavation, determination despite harsh conditions"
+  composition:
+    cameraAngle: "Medium shot from ground level showing excavation work"
+    focus: "Character KM carefully uncovering ancient foundation plate with archaeological precision"
+    depth: "Character and excavation in foreground, temple ruins in middle ground, desert landscape in background, no text or letters visible"

@@ -1,15 +1,15 @@
 {
   "total_books": 156,
-  "books_with_afa": 102,
+  "books_with_afa": 154,
   "format_counts": {
-    "academic_analysis": 26,
-    "critical_debate": 10,
-    "temporal_context": 10,
+    "academic_analysis": 42,
+    "critical_debate": 14,
+    "temporal_context": 11,
     "cultural_dimension": 9,
-    "social_perspective": 17,
-    "emotional_perspective": 6,
+    "social_perspective": 33,
+    "emotional_perspective": 7,
     "exploratory_dialogue": 3,
-    "narrative_reconstruction": 19,
+    "narrative_reconstruction": 33,
     "selected_format": 2
   },
   "books_list": [
@@ -420,6 +420,214 @@
     {
       "book": "0102_the_divine_comedy",
       "format": "academic_analysis"
+    },
+    {
+      "book": "0103_one_thousand_and_one_nights",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0104_the_canterbury_tales",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0105_a_christmas_carol",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0106_the_tale_of_genji",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0107_journey_to_the_west",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0108_candide",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0109_faust",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0110_oedipus_rex",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0111_a_dolls_house",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0112_ulysses",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0113_all_quiet_on_the_western_front",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0114_the_diary_of_anne_frank",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0115_mahabharata",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0116_ramayana",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0117_aeneid",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0118_the_republic",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0119_the_art_of_war",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0120_the_prince",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0121_essays",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0122_leviathan",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0123_the_social_contract",
+      "format": "critical_debate"
+    },
+    {
+      "book": "0124_the_wealth_of_nations",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0125_a_vindication_of_the_rights_of_woman",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0126_the_communist_manifesto",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0127_on_liberty",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0128_thus_spoke_zarathustra",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0129_the_second_sex",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0130_the_wretched_of_the_earth",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0131_on_the_origin_of_species",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0132_the_interpretation_of_dreams",
+      "format": "critical_debate"
+    },
+    {
+      "book": "0133_silent_spring",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0134_pere_goriot",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0134_p\u00e8re_goriot",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0135_adventures_of_huckleberry_finn",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0136_in_search_of_lost_time",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0137_mrs_dalloway",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0138_the_waste_land",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0139_the_sound_and_the_fury",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0140_the_stranger",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0141_waiting_for_godot",
+      "format": "emotional_perspective"
+    },
+    {
+      "book": "0142_the_real_story_of_ahq",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0143_gitanjali",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0144_ficciones",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0145_the_cairo_trilogy",
+      "format": "temporal_context"
+    },
+    {
+      "book": "0146_season_of_migration_to_the_north",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0147_the_house_of_the_spirits",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0148_red_sorghum",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0149_the_oresteia",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0150_tartuffe",
+      "format": "critical_debate"
+    },
+    {
+      "book": "0151_death_of_a_salesman",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0152_a_streetcar_named_desire",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0153_long_days_journey_into_night",
+      "format": "critical_debate"
     }
   ]
 }

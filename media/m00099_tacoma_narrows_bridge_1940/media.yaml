@@ -1,0 +1,13 @@
+media_info:
+  title: Tacoma Narrows Bridge Collapse - November 7, 1940
+  year: 1940
+  genre: Engineering Disaster Documentary
+  description: Galloping Gertie bridge oscillates in wind for one hour before collapsing due to aerodynamic resonance
+  target_audience: General public, students, engineering enthusiasts, disaster history buffs
+  duration: ~3 minutes
+  objective: Recreate the spectacular collapse of the bridge that taught engineers about aerodynamic forces
+  scene_count: 10
+  graphics_style: cinematic-documentary-realism-style
+  scene_generator: narrative
+  nb_audio_format: brief
+

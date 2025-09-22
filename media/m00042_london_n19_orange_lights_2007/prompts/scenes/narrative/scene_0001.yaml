@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Evening Rush Hour in Archway"
+  setting:
+    time: "January 31, 2007, 17:30 (5:30 PM), evening twilight"
+    location: "Busy North London intersection and transport hub in N19 postal area, Archway tube station vicinity"
+    weather: "Overcast conditions typical of London winter, no precipitation, cold evening air"
+  characters:
+    - appearance: "Woman, 34 years old, practical build typical of working-class market trader, alert and observant"
+      clothing: "Dark winter coat suitable for late January evening, practical footwear for collecting child from nursery, scarf and gloves"
+      position: "Walking along Victorian terrace street toward nursery building"
+      action: "Heading to collect her child from nursery, focused on routine evening task"
+  scene:
+    mainElements: "Major road junction with Victorian terraced housing, local shops, urban evening rush hour density, Archway tube station area"
+    details: "Busy intersection with commuters, double-decker buses, black cabs, pedestrians bundled in winter clothing, street lights beginning to illuminate, shop windows glowing, typical London evening atmosphere with mix of residential and commercial buildings"
+    background: "Victorian terraced houses with bay windows, local shops with illuminated signs, urban skyline of North London"
+    atmosphere: "Rush hour traffic density, urban evening ambiance, overcast January sky at sunset, busy commuter flow, routine metropolitan evening"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated street perspective"
+    focus: "Character AM walking through busy Archway intersection toward nursery"
+    depth: "Foreground shows pedestrians and traffic, middle ground features main character and Victorian architecture, background shows London urban landscape, no text or letters visible"

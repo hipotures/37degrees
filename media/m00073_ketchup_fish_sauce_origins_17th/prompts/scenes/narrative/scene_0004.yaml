@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "European ship loading Asian goods for voyage home"
+  setting:
+    time: "17th century, late afternoon"
+    location: "Dutch colonial port in Southeast Asia, 1680s"
+    weather: "Tropical heat with afternoon clouds"
+  characters:
+    - appearance: "Dutch man, 35s, blonde hair, fair skin, beard, merchant's shrewd eyes, solid build"
+      clothing: "Black wool coat with silver buttons, white ruffled collar, dark breeches, polished black shoes"
+      position: "Standing on ship deck overseeing cargo loading"
+      action: "Directing dock workers loading wooden crates and ceramic vessels onto European sailing ship"
+    - appearance: "English man, 30s, pale complexion, brown hair, mustache, sturdy build, curious expression"
+      clothing: "17th century brown wool coat with brass buttons, white linen shirt, dark breeches, tall leather boots"
+      position: "On dock checking cargo manifest"
+      action: "Recording inventory of Asian sauces and spices in leather record book"
+  scene:
+    mainElements: "Large European sailing ship with multiple masts, busy colonial port with warehouses, cargo loading operations"
+    details: "Wooden crates containing ceramic jars of fish sauce, clear glass bottles with cork stoppers, ropes and pulleys for loading heavy cargo, dock workers carrying Asian goods, ship's rigging and canvas sails, colonial architecture"
+    background: "Southeast Asian port city with tropical vegetation, other merchant ships at anchor, local trading boats, warehouse district"
+    atmosphere: "Bustling international commerce connecting Asian culinary traditions with European markets, anticipation of long sea voyage, cultural goods crossing oceans, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing scale of trading operation"
+    focus: "Ship loading with precious Asian culinary goods including ke-tsiap"
+    depth: "Foreground shows detailed cargo handling, middle ground features ship and merchants, background shows port city and tropical landscape"

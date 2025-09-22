@@ -1,0 +1,69 @@
+canon:
+  characters:
+    - id: "character_PW"
+      name: "Character PW"
+      description_block: |
+        characters:
+          - appearance: "Adult civilian, 30s-40s, local Scottish resident, alert expression, experienced sky observer"
+            clothing: "Evening casual wear appropriate for October weather in Scotland - warm jacket or sweater, practical outdoor attire"
+            position: "Standing outdoors with clear view of sky, pointing upward or shielding eyes"
+            action: "Observing unusual aerial phenomenon, pointing to sky, speaking to others about sighting"
+
+    - id: "character_WG"
+      name: "Character WG"
+      description_block: |
+        characters:
+          - appearance: "Various local residents of different ages, mix of adults, some elderly, expressions of surprise and concern"
+            clothing: "Evening attire suitable for Scottish October weather, some in outdoor jackets, others in casual indoor clothing"
+            position: "Gathered in small groups, some on doorsteps, others on streets, all looking skyward"
+            action: "Pointing at sky, discussing among themselves, some taking photos with phones, expressing amazement"
+
+    - id: "character_UR"
+      name: "Character UR"
+      description_block: |
+        characters:
+          - appearance: "Professional researcher, 35-50s, methodical appearance, contemporary dress, carrying recording equipment"
+            clothing: "Business casual attire suitable for field work - practical jacket, comfortable shoes, equipped with recording devices"
+            position: "Seated across from witnesses during interviews, taking notes, in professional meeting setting"
+            action: "Conducting witness interviews, taking detailed notes, operating recording equipment, asking methodical questions"
+
+  locations:
+    - id: "livingston_observation_area"
+      name: "Livingston, West Lothian, Scotland"
+      description_block: |
+        setting:
+          location: "Suburban town in central Scotland, residential areas with clear sky views, part of Falkirk Triangle UAP hotspot"
+        mainElements: "Scottish residential streets with typical housing, street lights, clear view of evening sky, some wooded areas nearby"
+        atmosphere: "Cool October evening in Scotland, clear visibility conditions, quiet suburban neighborhood setting"
+
+    - id: "edinburgh_flight_path"
+      name: "Edinburgh International Airport Approach Corridor"
+      description_block: |
+        setting:
+          location: "Commercial aviation corridor serving Edinburgh International Airport, controlled airspace north of Livingston"
+        mainElements: "Clear evening sky with occasional aircraft navigation lights, open airspace above residential areas"
+        atmosphere: "Evening aviation environment with standard air traffic, controlled airspace with radar monitoring"
+
+    - id: "dechmont_woods_historical"
+      name: "Dechmont Woods Historical Reference"
+      description_block: |
+        setting:
+          location: "Wooded area near Livingston, site of famous 1979 UAP encounter, natural woodland environment"
+        mainElements: "Forest clearing with walking paths, dense Scottish woodland, natural wilderness setting"
+        atmosphere: "Historical significance as Scotland's most documented UAP encounter site, mysterious woodland setting"
+
+  items:
+    - id: "cube_uap_primary"
+      name: "Cube-Shaped UAP with Arm Light Appendages"
+      description_block: |
+        details: "Geometric cube-shaped main body estimated 4-6 times larger than conventional aircraft, distinctive bright light appendages extending from main structure, emitting piercing light that makes detailed observation difficult, maintains geometric cube form throughout observation"
+
+    - id: "piercing_light_emission"
+      name: "Intense Light Source"
+      description_block: |
+        details: "Extremely bright light emanating from UAP structure, white or yellow-white illumination, intensity sufficient to obscure object details and hamper detailed visual analysis, sustained throughout entire observation period"
+
+    - id: "paranormal_database_record"
+      name: "Official UK UAP Documentation"
+      description_block: |
+        details: "Modern digital documentation system showing computer screen with UAP incident database entry, timestamps showing 22:50h, location data for Livingston coordinates, witness testimony records, official logging system interface"
