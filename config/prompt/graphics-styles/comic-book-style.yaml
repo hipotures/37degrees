@@ -1,15 +1,15 @@
 styleName: Comic Book Style
-description: Retro comic book aesthetic with bold lines, halftone patterns, and vibrant colors reminiscent of classic superhero
-  comics
+description: Classic comic book aesthetic featuring bold black outlines, Ben Day dots, vibrant flat colors, and dramatic compositions reminiscent of golden age superhero comics. Includes iconic elements like speech bubbles, sound effects, and sequential panel layouts with high contrast and exaggerated expressions.
 aiPrompts:
-  basePrompt: comic book illustration, bold outlines, halftone dots, cel shading, pop art
+  basePrompt: comic book illustration, bold black outlines, Ben Day dots, flat colors, speech bubbles, onomatopoeia, dramatic angles, vintage comics
   negativePrompt: photorealistic, smooth gradients, soft edges, blurry
   styleKeywords:
   - comic
-  - halftone
-  - cel-shaded
-  - pop art
-  - retro
+  - Ben Day dots
+  - flat colors
+  - speech bubbles
+  - onomatopoeia
+  - bold outlines
   - vintage comics
 visualElements:
   colorPalette:
@@ -27,8 +27,8 @@ visualElements:
     - '#8B4513'
     - '#008080'
     - '#999999'
-    background: White or yellow with halftone patterns
-    usageNotes: Colors should be flat and vivid. No gradients. Primary colors dominate the foreground
+    background: White or yellow with Ben Day dot patterns
+    usageNotes: Colors should be flat and vivid with no gradients. Primary colors dominate foreground elements. Ben Day dots used for texture and shading effects.
     saturation: high
     contrast: high
   lineArt:
@@ -42,13 +42,13 @@ visualElements:
     direction: top-left
     intensity: high
     shadows:
-      style: cel-shaded with halftone patterns
+      style: flat colored shadows with Ben Day dot patterns
       color: darker version of base color or black
       opacity: solid
     highlights: bold white or light color accents
   rendering:
     technique: digital illustration mimicking print
-    texture: halftone dots, printed comic paper texture
+    texture: Ben Day dots, printed comic paper texture
     detailLevel: moderate with emphasis on clear forms
     finish: flat with visible ink strokes
   perspective: dynamic angles, often exaggerated
@@ -64,7 +64,7 @@ visualElements:
     - vintage
   postProcessing:
     effects:
-    - halftone dots
+    - Ben Day dots
     - ink outline
     - grain
     - misregistration
@@ -75,4 +75,4 @@ visualElements:
   stylePrecedents:
   - Jack Kirby
   - Steve Ditko
-  - Roy Lichtenstein
+  - Roy Lichtenstein (pop art interpretation of comic aesthetics)

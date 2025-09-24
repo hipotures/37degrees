@@ -1,14 +1,20 @@
 styleName: Biopunk Style
-description: Dystopian biotechnology aesthetic featuring genetic engineering, organic technology, and visceral biological imagery
+description: Dystopian biotechnology aesthetic featuring genetic engineering, organic technology, visceral biological imagery, underground bio-modification labs, corporate genetic control, and DIY biology experimentation
 aiPrompts:
-  basePrompt: biopunk aesthetic, genetic engineering, biotechnology, organic machinery, DNA helix, biohacking
-  negativePrompt: clean sterile lab, traditional machinery, inorganic, pristine
+  basePrompt: biopunk aesthetic, genetic engineering, biotechnology, organic machinery, DNA helix, biohacking, body horror, bio-modification, synthetic life, genetic manipulation, underground lab, illegal modifications, bio-hackers, visceral imagery
+  negativePrompt: clean sterile lab, traditional machinery, inorganic, pristine, mechanical cybernetics, digital interfaces, pure technology
   styleKeywords:
   - biopunk
   - biotechnology
   - genetic
   - organic tech
   - visceral
+  - body horror
+  - bio-modification
+  - synthetic life
+  - underground lab
+  - biohacking
+  - genetic manipulation
 visualElements:
   colorPalette:
     primary:
@@ -20,6 +26,7 @@ visualElements:
     - deep purple
     - black
     - bone white
+    - clinical white
     background: laboratory or organic environment
     usageNotes: Organic, slightly unsettling color palette
     saturation: medium to high
@@ -55,7 +62,13 @@ visualElements:
     - transgressive
     - organic
     - unsettling
+    - clinical
+    - corrupted
+    - experimental
   stylePrecedents:
   - GATTACA visuals
   - Cronenberg body horror
   - BioShock game aesthetics
+  - eXistenZ
+  - Splice
+  - Resident Evil bio-lab sections

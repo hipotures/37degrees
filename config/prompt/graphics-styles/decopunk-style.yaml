@@ -1,5 +1,5 @@
 styleName: Decopunk Style
-description: Retro-futuristic aesthetic combining Art Deco elegance with streamline moderne design, featuring sleek metallic forms and geometric luxury
+description: Retro-futuristic aesthetic combining Art Deco elegance with streamline moderne design, featuring sleek metallic forms and geometric luxury. Speculative vision of uninterrupted 1920s-30s technological progress creating a utopian chrome-and-gold future
 aiPrompts:
   basePrompt: decopunk, art deco futurism, streamline moderne, elegant geometry, luxurious metals, 1930s glamour
   negativePrompt: rough textures, organic shapes, muted colors, primitive technology, rustic elements
@@ -57,3 +57,6 @@ visualElements:
   stylePrecedents:
   - 1930s Art Deco architecture
   - Streamline Moderne design
+  - BioShock (Rapture aesthetics)
+  - The Rocketeer
+  - Sky Captain and the World of Tomorrow

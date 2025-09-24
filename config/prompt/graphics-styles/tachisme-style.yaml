@@ -1,59 +1,62 @@
-styleName: Tachisme
-description: A style of French abstract painting from the 1940s and 1950s, considered a European equivalent to action painting. It is characterized by spontaneous brushwork, drips, blots, and splotches of paint directly from the tube.
+styleName: Tachisme Style
+description: Spontaneous gestural abstraction characterized by drips, blots, and direct paint application with gestural brushwork
 aiPrompts:
-  basePrompt: Tachisme painting, abstract, spontaneous brushwork, paint splotches, gestural, Art Informel, lyrical abstraction
-  negativePrompt: geometric abstraction, hard-edge painting, figurative, planned composition, smooth finish
+  basePrompt: tachisme painting, gestural abstraction, spontaneous brushwork, paint drips, blots, direct paint application, art informel
+  negativePrompt: geometric abstraction, hard edge painting, figurative elements, planned composition, smooth finish, controlled technique
   styleKeywords:
-  - Tachisme
+  - tachisme
   - gestural
   - spontaneous
   - abstract
   - blot
+  - drip painting
 visualElements:
   colorPalette:
     primary:
-    - varied, often with a focus on earthy or primary colors
-    - colors are often mixed directly on the canvas
+    - earthy colors
+    - primary colors
+    - mixed paint colors
     secondary:
-    - black
-    - white
-    - contrasting accents
-    background: raw canvas or a field of color
-    usageNotes: The palette is intuitive and process-driven, not pre-planned.
-    saturation: varies from muted to vibrant
-    contrast: high, created by the juxtaposition of different gestures and colors
+    - black accents
+    - white highlights
+    - contrasting color spots
+    background: raw canvas or color field background
+    usageNotes: Intuitive color mixing directly on canvas surface
+    saturation: varies from muted earth tones to vibrant accents
+    contrast: high contrast between gestural marks and background
   lineArt:
-    style: no traditional line art; lines are formed by drips, gestures, and calligraphic strokes
-    weight: highly varied, from thin drips to thick impasto strokes
-    color: any paint color
-    texture: raw, energetic, textured
-    edgeTreatment: irregular, accidental, expressive
+    style: gestural marks and paint drips rather than defined lines
+    weight: highly varied from thin drips to thick impasto strokes
+    color: direct paint colors from application
+    texture: raw energetic texture with varied thickness
+    edgeTreatment: irregular accidental edges from spontaneous application
   lighting:
-    type: none (non-representational)
-    direction: n/a
-    intensity: n/a
+    type: no representational lighting
+    direction: paint texture creates dimensional effects
+    intensity: created by paint application thickness
     shadows:
-      style: literal shadows created by the thickness of the paint (impasto)
-      color: n/a
-      opacity: n/a
-    highlights: created by thick applications of light-colored paint
+      style: dimensional shadows from thick paint (impasto)
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: thick light-colored paint applications
   rendering:
-    technique: direct and spontaneous application of paint (dripping, throwing, smearing)
-    texture: heavy impasto, drips, raw canvas texture
-    detailLevel: low in terms of representation, high in textural complexity
-    finish: highly textured, raw
-  perspective: none (flat, abstract space)
+    technique: direct spontaneous paint application (dripping, throwing, gestural marks)
+    texture: heavy impasto texture with drips and raw canvas areas
+    detailLevel: abstract with high textural complexity
+    finish: highly textured raw surface
+  perspective: flat abstract space without representational perspective
   mood:
-    overall: energetic, raw, intuitive
-    emotion: raw expression, freedom, existential angst or joy
-    tempo: fast, dynamic, spontaneous
+    overall: energetic raw intuitive expression
+    emotion: spontaneous expression and gestural freedom
+    tempo: dynamic spontaneous energetic
     keywords:
     - spontaneous
     - raw
     - energetic
     - gestural
     - intuitive
+    - expressive
   stylePrecedents:
-  - Jean-Paul Riopelle
-  - Wols
-  - Hans Hartung
+  - Jean-Paul Riopelle gestural abstractions
+  - Wols spontaneous compositions
+  - Hans Hartung calligraphic gestures

@@ -55,3 +55,8 @@ visualElements:
   stylePrecedents:
   - traditional wall macrame
   - contemporary bohemian design
+technicalSpecifications:
+  recommendedResolution: high (for texture detail)
+  aspectRatio: variable (depends on design)
+  renderComplexity: moderate to high
+  aiGeneratorSuitability: excellent for texture-capable models

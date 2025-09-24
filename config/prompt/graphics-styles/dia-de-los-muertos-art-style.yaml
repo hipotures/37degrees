@@ -1,7 +1,7 @@
 styleName: Dia de los Muertos Art Style
-description: Vibrant, colorful Mexican folk art style associated with Day of the Dead. Characterized by motifs such as decorated skulls (calaveras), skeletons (calacas), marigolds (cempasúchil), and rich, joyful symbolism celebrating life and memory of the dead.
+description: Vibrant, colorful Mexican folk art style celebrating Day of the Dead with decorated skulls (calaveras), skeletons (calacas), marigolds (cempasúchil), and papel picado. Features bright, joyful colors representing celebration of life and memory, blending indigenous Aztec and Catholic influences.
 aiPrompts:
-  basePrompt: Dia de los Muertos art, sugar skull, calavera, marigold flowers, Mexican folk art, colorful skeletons, festive pattern
+  basePrompt: Dia de los Muertos art, sugar skull, calavera, marigold flowers, Mexican folk art, colorful skeletons, festive pattern, papel picado, ofrenda
   negativePrompt: scary, horror, gothic, sad, muted colors, minimalist
   styleKeywords:
   - Dia de los Muertos
@@ -9,6 +9,10 @@ aiPrompts:
   - calavera
   - Mexican folk
   - festive
+  - marigold
+  - cempasúchil
+  - papel picado
+  - ofrenda
 visualElements:
   colorPalette:
     primary:
@@ -55,7 +59,41 @@ visualElements:
     - joyful
     - folk
     - celebrating
-  stylePrecedents:
-  - José Guadalupe Posada (calaveras prints)
-  - Mexican ofrenda altars
-  - traditional sugar skulls
+composition:
+  layout: symmetrical, centered focal points
+  balance: balanced with decorative elements
+  focusPoints: skull faces, floral patterns, skeletal figures
+  arrangement: ornamental, pattern-based, hierarchical
+symbolism:
+  primarySymbols:
+  - decorated skulls (life celebration)
+  - marigolds (guiding spirits home)
+  - skeletal figures (acceptance of death)
+  - papel picado (festive decoration)
+  culturalMeaning: celebration of life and memory of deceased, spiritual connection between worlds
+  colors:
+    bright pink: joy and celebration
+    orange: marigold guidance for spirits
+    turquoise: protection and healing
+    yellow: sun and life energy
+typography:
+  integration: decorative text elements, banner-style text
+  style: ornamental, hand-lettered appearance
+  weight: bold, readable
+  decoration: floral embellishments, scroll work
+technicalSpecifications:
+  resolution:
+    aspectRatio: flexible, commonly square or portrait
+    minWidth: 1024
+    minHeight: 1024
+    unit: pixels
+  orientation: flexible, works in both portrait and landscape
+useCases:
+  - Cultural celebrations and festivals
+  - Memorial artwork and tributes
+  - Decorative art and patterns
+  - Educational cultural content
+stylePrecedents:
+- José Guadalupe Posada (calaveras prints)
+- Mexican ofrenda altars
+- traditional sugar skulls

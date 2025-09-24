@@ -1,24 +1,33 @@
 styleName: Generative Art Style
-description: Computer-generated art created using autonomous systems and algorithms, featuring mathematical patterns and procedural aesthetics
+description: Art created through autonomous systems, algorithms, and rule-based processes, including both computer-generated and instruction-based works that emphasize systematic creation over individual expression
 aiPrompts:
-  basePrompt: generative art, algorithmic art, procedural generation, mathematical patterns, computer generated
-  negativePrompt: hand-drawn, painted, photographic, traditional media, human-made marks
+  basePrompt: generative art, algorithmic art, procedural generation, creative coding, code art, instruction-based art, Processing, p5.js, mathematical patterns, computer generated, parametric design, data visualization
+  negativePrompt: hand-drawn, painted, photographic, traditional media, human-made marks, subjective expression
   styleKeywords:
   - generative
   - algorithmic
   - procedural
   - mathematical
   - computer generated
+  - code-based
+  - instructions
+  - systematic
+  - rule-based
+  - creative coding
+  - parametric
+  - emergence
 visualElements:
   colorPalette:
     primary:
     - algorithmic colors
     - mathematical gradients
     - systematic hues
+    - data-driven palettes
     secondary:
     - computed contrasts
     - procedural variations
     - parametric colors
+    - controlled randomness
     background: mathematically generated patterns or gradients
     usageNotes: Colors determined by algorithms and mathematical functions
     saturation: varies by algorithm parameters
@@ -39,13 +48,13 @@ visualElements:
       opacity: algorithmically determined
     highlights: mathematically placed highlights
   rendering:
-    technique: computer algorithms and mathematical functions
+    technique: creative coding languages, computer algorithms and mathematical functions
     texture: procedurally generated textures
     detailLevel: infinite (mathematically scalable)
     finish: digital perfection or controlled randomness
-  perspective: algorithmic perspective or non-Euclidean space
+  perspective: algorithmic perspective, data-driven space, parameter space
   mood:
-    overall: systematic, innovative, mathematical beauty
+    overall: systematic, innovative, mathematical beauty, emergent complexity
     emotion: wonder at computational creativity
     tempo: varies by algorithm (static to dynamic)
     keywords:
@@ -54,6 +63,12 @@ visualElements:
     - mathematical
     - computational
     - precise
+    - rule-based
+    - emergent
   stylePrecedents:
+  - Sol LeWitt instruction-based wall drawings
+  - John Cage chance operations
   - Casey Reas Processing artworks
   - Vera Molnar computer art
+  - Ben Fry data visualization
+  - Tyler Hobbs contemporary generative art

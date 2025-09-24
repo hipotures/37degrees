@@ -1,7 +1,7 @@
-styleName: Geminism - Ephemeralism
+styleName: AI-Gemini Ephemeralism Style
 description: An art form where the process of decay, degradation, or disappearance is the artwork itself. The "final piece" is merely a documentation (a photo, video, or data log) of this transient process. The style can be digital (code that degrades an image with each view) or physical (sculptures of ice, sand, or unfixed pigments).
 aiPrompts:
-  basePrompt: ephemeralism, decaying art, transient sculpture, documented degradation, art of disappearance, time-lapse decay, geminism
+  basePrompt: ephemeralism, decaying art, transient sculpture, documented degradation, art of disappearance, time-lapse decay, AI-generated ephemeralism
   negativePrompt: permanent sculpture, finished painting, stable, archival
   styleKeywords:
   - ephemeral
@@ -22,7 +22,7 @@ visualElements:
   lineArt:
     style: forms lose their definition over time; sharp lines become blurred, cracked, or disintegrate
     weight: starts defined, ends non-existent
-    color: n/a
+    color: fading from original vibrant colors to muted grays and browns
     texture: the texture of decay is central: cracking, rusting, melting, fading, crumbling
     edgeTreatment: edges soften, crumble, and disappear
   lighting:

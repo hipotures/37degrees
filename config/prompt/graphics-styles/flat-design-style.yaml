@@ -1,8 +1,8 @@
 styleName: Flat Design Style
-description: Minimalist design approach with simple elements, bright colors, and no three-dimensional effects
+description: Minimalist digital design approach characterized by simple geometric elements, bold colors, typography focus, and complete absence of three-dimensional effects, shadows, or textures, emphasizing usability and clean visual hierarchy
 aiPrompts:
-  basePrompt: flat design illustration, minimalist, simple shapes, bright colors, no gradients, clean
-  negativePrompt: 3D effects, shadows, textures, gradients, realistic, complex
+  basePrompt: flat design illustration, minimalist, simple geometric shapes, bold solid colors, no gradients, clean vector graphics, 2D elements, Material Design inspired
+  negativePrompt: 3D effects, shadows, textures, gradients, realistic, complex, bevels, embossing, drop shadows, depth
   styleKeywords:
   - flat design
   - minimal
@@ -10,19 +10,23 @@ aiPrompts:
   - clean
   - modern
   - geometric
+  - 2D
+  - vector
+  - Material Design
 visualElements:
   colorPalette:
     primary:
     - bright blue
-    - orange
-    - green
-    - purple
+    - vibrant orange
+    - emerald green
+    - deep purple
+    - flat red
     secondary:
-    - white
+    - pure white
     - light gray
-    - dark gray
-    background: solid bright or white
-    usageNotes: Bold, web-safe colors, no gradients
+    - charcoal gray
+    background: solid bright colors or white
+    usageNotes: Bold web-safe colors, Material Design palette, high saturation, no gradients
     saturation: high
     contrast: strong but balanced
   lineArt:
@@ -30,32 +34,33 @@ visualElements:
     weight: uniform if present
     color: darker shade of fill color
     texture: none
-    edgeTreatment: crisp, perfect
+    edgeTreatment: crisp, perfect vector edges
   lighting:
     type: none - completely flat
     direction: n/a
     intensity: n/a
     shadows:
       style: none or long shadows
-      color: n/a or single color
+      color: n/a or single flat color
       opacity: n/a or solid
     highlights: none
   rendering:
     technique: vector graphics
     texture: none
     detailLevel: minimalist
-    finish: perfectly smooth
-  perspective: often orthogonal or none
+    finish: perfectly smooth and flat
+  perspective: orthogonal or isometric, no depth
   mood:
-    overall: modern, clean, friendly
+    overall: modern, clean, friendly, efficient
     emotion: clarity, simplicity, approachability
-    tempo: efficient, direct
+    tempo: efficient, direct, uncluttered
     keywords:
     - modern
     - clean
     - simple
     - friendly
     - efficient
+    - accessible
   stylePrecedents:
   - Microsoft Metro design language
   - Google Material Design

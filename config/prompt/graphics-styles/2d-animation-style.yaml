@@ -1,48 +1,56 @@
 styleName: 2D Animation Style
-description: Two-dimensional animation technique including traditional hand-drawn, vector-based, and motion graphics animation styles
+description: Two-dimensional animation with flat, non-volumetric visual characteristics featuring frame-by-frame principles, cel-shaded aesthetics, clean geometric forms, and simplified lighting for clear character readability
 aiPrompts:
-  basePrompt: 2D animation, traditional animation, vector animation, motion graphics, frame by frame, cartoon style
-  negativePrompt: 3D rendering, photorealistic, static image, live action, depth of field
+  basePrompt: 2D animation, flat colors, cel animation, hand-drawn aesthetic, clean vector lines, cartoon style, frame by frame, traditional animation
+  negativePrompt: 3D rendering, photorealistic, volumetric lighting, realistic shadows, 3D modeling, depth of field, live action, static image
   styleKeywords:
   - 2D animation
+  - cel animation
   - traditional animation
   - cartoon
-  - motion graphics
+  - keyframes
+  - tweening
+  - squash and stretch
   - frame by frame
+  - motion graphics
 visualElements:
   colorPalette:
     primary:
-    - cartoon bright colors
-    - primary colors
-    - cel animation colors
+    - bright red
+    - electric blue
+    - sunny yellow
+    - vivid green
+    - pure white
     secondary:
-    - animation secondary colors
-    - background colors
-    - character colors
+    - orange
+    - purple
+    - pink
+    - turquoise
+    - lime green
     background: animated backgrounds or cartoon environments
     usageNotes: Bright, clear colors suitable for animation
     saturation: high (clear, animation-friendly colors)
     contrast: high (clear character definition)
   lineArt:
-    style: clean animation lines, consistent character design
-    weight: consistent for animation, varies by style
-    color: black outlines or colored lines
-    texture: clean animation line quality
-    edgeTreatment: smooth, animation-friendly edges
+    style: clean vector lines, hand-drawn line variation
+    weight: medium to thick, uniform width
+    color: black outlines or colored contours
+    texture: smooth digital lines or slight hand-drawn texture
+    edgeTreatment: smooth, precise vector edges
   lighting:
-    type: simplified animation lighting
-    direction: consistent for animation continuity
-    intensity: clear, animation-appropriate
+    type: flat lighting, three-point simplified setup
+    direction: front-lit with minimal side lighting
+    intensity: even, non-dramatic illumination
     shadows:
-      style: simple, consistent animation shadows
-      color: darker animation colors
-      opacity: consistent for animation
-    highlights: simple animation highlights
+      style: simple flat shadows, minimal gradient
+      color: darker versions of base colors
+      opacity: medium opacity, clear definition
+    highlights: minimal specular highlights, flat white accents
   rendering:
-    technique: traditional cel animation or digital equivalent
-    texture: flat animation colors or simple textures
-    detailLevel: optimized for animation (clear, not overly detailed)
-    finish: flat animation finish
+    technique: flat color fills, no gradients, clean edges
+    texture: solid colors with minimal texture detail
+    detailLevel: simplified forms, clear readable shapes
+    finish: matte flat finish, no reflection or gloss
   perspective: simplified perspective suitable for animation
   mood:
     overall: dynamic, expressive, storytelling
@@ -57,3 +65,7 @@ visualElements:
   stylePrecedents:
   - Disney traditional animation
   - Japanese anime style
+  - Chuck Jones Warner Bros cartoons
+  - UPA animation studio
+  - Flash/Adobe Animate productions
+  - Nike motion graphics commercials

@@ -1,15 +1,15 @@
-styleName: Eco Botanical Style
-description: Nature-inspired illustrations with botanical accuracy, environmental themes, and organic textures
+styleName: Eco-Botanical Style
+description: Scientifically accurate botanical illustrations combined with environmental conservation messaging, sustainability themes, and ecological awareness
 aiPrompts:
-  basePrompt: botanical illustration, eco-friendly art, nature inspired, organic forms, environmental theme, flora and fauna
-  negativePrompt: industrial, artificial, urban, synthetic, geometric
+  basePrompt: eco-botanical illustration, environmental conservation, sustainability art, climate awareness, scientific illustration, ecological responsibility, botanical accuracy, nature conservation, environmental activism, sustainable living
+  negativePrompt: industrial, artificial, urban, synthetic, geometric, pollution, waste, environmental destruction
   styleKeywords:
-  - botanical
-  - eco
-  - nature
-  - organic
+  - eco-botanical
+  - conservation
+  - sustainability
+  - scientific
   - environmental
-  - sustainable
+  - botanical
 visualElements:
   colorPalette:
     primary:
@@ -18,10 +18,10 @@ visualElements:
     - sky blue
     - sunlight yellow
     secondary:
-    - moss
-    - bark
-    - leaf variations
-    - flower tones
+    - sage green
+    - dusty rose
+    - warm ochre
+    - lavender gray
     background: natural paper or soft nature scenes
     usageNotes: Natural, earthy tones found in nature
     saturation: natural, not oversaturated
@@ -42,14 +42,14 @@ visualElements:
       opacity: translucent
     highlights: sun-kissed edges
   rendering:
-    technique: botanical illustration mixed with modern eco-art
+    technique: scientific illustration combined with environmental messaging
     texture: paper texture, organic materials
     detailLevel: high botanical accuracy
     finish: natural, handcrafted feel
   perspective: intimate nature views
   mood:
     overall: peaceful, conscious, harmonious
-    emotion: connection, responsibility, wonder
+    emotion: environmental awareness, conservation, urgent, hopeful, responsibility, wonder
     tempo: calm, meditative
     keywords:
     - sustainable
@@ -57,8 +57,13 @@ visualElements:
     - harmonious
     - natural
     - peaceful
+    - environmental awareness
+    - conservation
+    - urgent
+    - hopeful
   stylePrecedents:
   - Maria Sibylla Merian botanical illustrations
   - John James Audubon nature art
-  - Contemporary botanical illustration
-  - Scientific field guides
+  - Contemporary environmental illustration
+  - Scientific conservation guides
+  - Modern sustainability art

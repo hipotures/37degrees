@@ -1,27 +1,31 @@
 styleName: Papercutting Style
-description: Traditional paper cutting art form creating intricate patterns and designs from single sheets of paper, different from collage techniques
+description: Traditional paper cutting art form creating intricate patterns and designs using various techniques including single-sheet cutting and layered approaches across different cultural traditions
 aiPrompts:
-  basePrompt: paper cutting art, intricate paper patterns, silhouette cutting, delicate cutwork, single sheet
-  negativePrompt: collage, multiple papers, painted, drawn, photographic, layered materials
+  basePrompt: paper cutting art, intricate paper patterns, silhouette cutting, delicate cutwork, Scherenschnitte, Jianzhi, papel picado, symmetrical cutting, folded paper cutting, layered paper cutting
+  negativePrompt: collage with multiple materials, painted surfaces, drawn lines, photographic elements, torn paper edges
   styleKeywords:
   - paper cutting
   - silhouette
   - intricate
   - delicate
   - cutwork
+  - Scherenschnitte
+  - symmetrical
+  - folded cutting
 visualElements:
   colorPalette:
     primary:
     - paper white
-    - cut shadows
-    - single color paper
+    - traditional red paper
+    - vibrant tissue colors
     secondary:
     - black silhouettes
-    - colored paper tones
-    - light gray shadows
+    - green papel picado
+    - blue ceremonial colors
+    - yellow festive tones
     background: contrasting background to show cuts
-    usageNotes: Usually monochromatic, focusing on positive/negative space
-    saturation: low (paper colors)
+    usageNotes: Range from monochromatic to vibrant traditional colors, often culturally significant
+    saturation: medium to high (traditional colored papers)
     contrast: very high (cut vs uncut areas)
   lineArt:
     style: cut edges and intricate patterns
@@ -30,30 +34,37 @@ visualElements:
     texture: clean cut edges, paper fiber texture
     edgeTreatment: sharp, precise cuts
   lighting:
-    type: natural lighting showing paper depth
-    direction: side lighting to emphasize cuts
+    type: natural lighting showing paper depth and translucent qualities
+    direction: side lighting to emphasize cuts, backlighting for translucent effects
     intensity: moderate to show dimensional quality
     shadows:
       style: natural shadows cast by cut paper layers
       color: gray
       opacity: semi-transparent
-    highlights: paper surface catching light
+    highlights: paper surface catching light, translucent glow effects
   rendering:
     technique: precise cutting simulation
     texture: paper fiber texture, clean cuts
     detailLevel: high (intricate cut patterns)
-    finish: matte paper finish
-  perspective: flat with subtle dimensional quality from cuts
+    finish: matte paper finish, translucent tissue paper
+  perspective: flat with subtle dimensional quality from cuts, hanging banner perspective
   mood:
-    overall: delicate, precise, traditional
-    emotion: craftsmanship, patience, elegance
-    tempo: quiet, meditative
+    overall: delicate, precise, traditional, celebratory
+    emotion: craftsmanship, patience, elegance, festive
+    tempo: quiet, meditative, ceremonial
     keywords:
     - delicate
     - precise
     - elegant
     - traditional
     - meditative
+    - celebratory
+    - festive
+    - sacred
+    - commemorative
   stylePrecedents:
   - Chinese paper cutting (Jianzhi)
   - Mexican papel picado
+  - German/Swiss Scherenschnitte
+  - Jewish papercuts
+  - Polish Wycinanki

@@ -1,64 +1,66 @@
 styleName: Solarized Silhouette Style
-description: High-contrast silhouettes against vibrant duotone backgrounds with solarization effects and grain texture
+description: High-contrast silhouettes with solarization effects, featuring tone reversal, bright line outlines, and eerie metallic appearance
 aiPrompts:
-  basePrompt: solarized silhouette, duotone color scheme, high contrast silhouette, vibrant gradient background, grain texture, spray paint edges, dramatic lighting
-  negativePrompt: detailed features, internal details, realistic colors, smooth gradients, clean edges, photorealistic
+  basePrompt: solarized silhouette, Sabattier effect, tone reversal, bright line outlines, eerie silver tones, high contrast, metallic appearance, grain texture, partial tone inversion
+  negativePrompt: normal tone mapping, standard contrast, smooth gradients, clean edges, realistic colors, detailed features, internal details
   styleKeywords:
   - solarized
+  - Sabattier effect
+  - tone reversal
+  - bright line outlines
   - silhouette
-  - duotone
   - high contrast
-  - split tone
+  - metallic tones
   - grain texture
-  - vibrant colors
+  - eerie silver
 visualElements:
   colorPalette:
     primary:
-    - intense orange
-    - electric blue
-    - hot magenta
-    - bright yellow
+    - eerie silver
+    - metallic white
+    - deep black
+    - bright white outlines
     secondary:
-    - deep purple
-    - cyan
+    - gunmetal gray
+    - pewter
     - pure black silhouette
-    background: gradient blend between two vibrant colors
-    usageNotes: Two contrasting colors only plus black silhouette
-    saturation: maximum saturation
-    contrast: extreme high contrast
+    background: tone-reversed gradient with bright line separations
+    usageNotes: Metallic and silver tones with bright outline separations
+    saturation: low to medium with metallic sheen
+    contrast: extreme high contrast with tone reversal
   lineArt:
-    style: no internal lines - pure silhouette
-    weight: solid filled shape
-    color: pure black
-    texture: sharp silhouette edges with spray effect
-    edgeTreatment: slight grain and spray at boundaries
+    style: bright line outlines at tone boundaries
+    weight: thin bright lines separating tonal areas
+    color: bright white or silver
+    texture: sharp bright outlines with metallic appearance
+    edgeTreatment: distinctive bright line separation between tones
   lighting:
-    type: backlit silhouette
-    direction: from behind subject
-    intensity: overexposed background
+    type: tone-reversed lighting with bright outlines
+    direction: creates characteristic solarization boundaries
+    intensity: tone reversal in mid-tones and highlights
     shadows:
-      style: subject is entirely shadow
-      color: pure black
-      opacity: solid black
-    highlights: none on subject - all in background
+      style: partially inverted tones
+      color: mixed dark and light due to reversal
+      opacity: varies due to solarization effect
+    highlights: bright line outlines at tonal boundaries
   rendering:
-    technique: duotone color separation
-    texture: heavy grain and noise overlay
-    detailLevel: minimal - silhouette only
-    finish: solarized film effect with grain
-  perspective: varies - focus on strong compositional shapes
+    technique: solarization tone reversal with bright line formation
+    texture: grain overlay with metallic appearance
+    detailLevel: silhouette with bright outline definition
+    finish: eerie silver film effect with tone inversion
+  perspective: varies - focus on strong tonal contrast and bright outlines
   mood:
-    overall: dramatic, energetic, bold
-    emotion: powerful, dynamic, striking
-    tempo: high energy
+    overall: eerie, dramatic, otherworldly
+    emotion: mysterious, striking, unsettling
+    tempo: dramatic tension
     keywords:
+    - eerie
     - dramatic
-    - bold
-    - energetic
-    - powerful
-    - vibrant
+    - otherworldly
+    - mysterious
+    - metallic
   stylePrecedents:
-  - vintage sports posters
-  - music album covers
-  - risograph printing
-  - screen printing aesthetics
+  - Man Ray solarized photographs
+  - Sabattier effect darkroom techniques
+  - experimental film photography
+  - avant-garde photo manipulation

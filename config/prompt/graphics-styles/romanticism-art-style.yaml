@@ -1,62 +1,63 @@
 styleName: Romanticism Art Style
-description: An artistic movement from the turn of the 18th and 19th centuries, emphasizing emotion, individualism, mystery, and the power of nature. Works are characterized by drama, dynamic composition, and a subjective, often melancholic or heroic approach.
+description: Dramatic artistic style emphasizing emotion, individualism, sublime nature, and passionate expression with turbulent landscapes and heroic figures
 aiPrompts:
-  basePrompt: romanticism painting, dramatic landscape, sublime nature, emotional intensity, stormy sea, ancient ruins, heroic figure
-  negativePrompt: calm, static, geometric, minimalist, photorealistic, objective
+  basePrompt: romanticism painting, dramatic landscape, sublime nature, emotional intensity, stormy atmosphere, heroic figure, turbulent skies, wild nature, passionate expression
+  negativePrompt: calm scenes, static composition, geometric patterns, minimalist, photorealistic, objective documentation, peaceful atmosphere, rational approach
   styleKeywords:
   - romanticism
   - dramatic
   - sublime
   - emotional
-  - nature
+  - turbulent
   - heroic
+  - passionate
 visualElements:
   colorPalette:
     primary:
-    - deep blues
-    - stormy grays
-    - fiery reds and oranges (sunsets)
+    - deep stormy blue
+    - dramatic gray
+    - fiery orange
     secondary:
-    - earthy browns
-    - forest greens
-    - golden light
-    background: dramatic skies, powerful mountains, stormy seas
-    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
-    saturation: medium to high
-    contrast: high, dramatic
+    - rich brown earth
+    - forest green
+    - golden sunlight
+    background: turbulent skies, sublime mountains, stormy seas
+    usageNotes: Contrasting dramatic colors emphasizing emotional intensity
+    saturation: medium to high (emotional impact)
+    contrast: high (dramatic light and shadow)
   lineArt:
-    style: expressive, painterly, often indistinct
-    weight: dynamic, varied
-    color: integrated with the color patch
-    texture: visible brushstrokes, impasto
+    style: expressive, painterly, atmospheric
+    weight: dynamic, varied brushwork
+    color: integrated with color masses
+    texture: visible brush strokes, impasto technique
     edgeTreatment: soft, atmospheric edges
   lighting:
-    type: dramatic, theatrical, often from an unseen source
-    direction: diagonal, breaking through clouds, moonlight
-    intensity: strong contrasts of light and shadow
+    type: dramatic, theatrical, supernatural
+    direction: diagonal rays, moonlight, storm lighting
+    intensity: strong contrasts between light and shadow
     shadows:
-      style: deep, vast, building a mood of mystery
-      color: dark browns, blues, violets
-      opacity: heavy, blurred
-    highlights: intense, often on the central point of the composition
+      style: deep, mysterious, mood-building
+      color: rich dark blues, purples, browns
+      opacity: heavy, atmospheric
+    highlights: intense, focused on dramatic elements
   rendering:
-    technique: oil painting, free brushstrokes
-    texture: distinct paint texture, impastos
-    detailLevel: varied - from detailed figures to sketchy backgrounds
-    finish: painterly, expressive
-  perspective: deep atmospheric perspective, often with a monumental foreground
+    technique: oil painting, expressive brushwork
+    texture: visible paint texture, impasto effects
+    detailLevel: varied (detailed foreground, atmospheric background)
+    finish: painterly, expressive surface
+  perspective: atmospheric perspective with monumental scale
   mood:
-    overall: dramatic, emotional, sublime
-    emotion: terror, awe, melancholy, longing, heroism
-    tempo: dynamic, turbulent
+    overall: dramatic, sublime, emotionally intense
+    emotion: awe, terror, melancholy, heroic passion
+    tempo: dynamic, turbulent, passionate
     keywords:
-    - emotional
     - sublime
     - dramatic
+    - emotional
     - mysterious
-    - powerful
+    - heroic
   stylePrecedents:
-  - Caspar David Friedrich
-  - J.M.W. Turner
-  - Théodore Géricault
-  - Francisco Goya
+  - Caspar David Friedrich wanderer paintings
+  - J.M.W. Turner storm seascapes
+  - Theodore Gericault Raft of Medusa
+  - Francisco Goya dark paintings

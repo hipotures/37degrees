@@ -57,3 +57,19 @@ visualElements:
   stylePrecedents:
   - Michelangelo Sistine Chapel
   - Pompeii wall paintings
+postProcessing:
+  effects:
+  - matte finish simulation
+  - plaster texture overlay
+  - earth pigment color grading
+  - architectural integration effects
+  - classical lighting simulation
+  filters:
+  - desaturation for natural pigments
+  - soft blur for plaster texture
+  - warm earth tone filter
+  adjustments:
+    saturation: medium (0.8-1.0)
+    contrast: medium (0.9-1.1)
+    brightness: natural lighting (0.95-1.05)
+    sharpening: minimal for soft plaster effect

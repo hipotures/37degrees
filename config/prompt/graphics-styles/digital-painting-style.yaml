@@ -1,8 +1,8 @@
 styleName: Digital Painting Style
-description: Digital painting style using tablets and applications to create images resembling traditional oil paints or watercolors in a digital environment
+description: Digital painting style encompassing concept art, illustration, and digital techniques using tablets and applications to create both traditional-inspired and digital-native artwork
 aiPrompts:
   basePrompt: digital painting, digital brush, tablet art, painterly texture, digital canvas
-  negativePrompt: vector graphics, pixel art, photography, mechanical rendering
+  negativePrompt: vector graphics, pixel art, photography, 3D render, technical illustration
   styleKeywords:
   - digital painting
   - painterly
@@ -15,12 +15,16 @@ visualElements:
     - warm ochre
     - prussian blue
     - burnt sienna
+    - electric blue
+    - vibrant magenta
     secondary:
     - cadmium yellow
     - alizarin crimson
     - titanium white
+    - neon green
+    - digital orange
     background: artist canvas texture or neutral gray
-    usageNotes: Rich, blendable colors with natural paint mixing
+    usageNotes: Rich, blendable colors with natural paint mixing and vibrant digital colors
     saturation: medium to high
     contrast: medium (soft transitions)
   lineArt:
@@ -39,7 +43,7 @@ visualElements:
       opacity: blended
     highlights: painted highlights with brush texture
   rendering:
-    technique: digital brush simulation of traditional painting
+    technique: digital brush techniques including traditional simulation and digital-native methods
     texture: canvas texture, brush marks, paint impasto
     detailLevel: moderate to high (painterly detail)
     finish: matte like traditional paint
@@ -54,6 +58,16 @@ visualElements:
     - painterly
     - traditional
     - handcrafted
-  stylePrecedents:
-  - digital works by Craig Mullins
-  - Corel Painter artwork
+    stylePrecedents:
+    - digital works by Craig Mullins
+    - Photoshop digital painting
+    - Procreate artwork
+    - contemporary concept artists
+postProcessing:
+  effects:
+  - digital canvas texture
+  - brush opacity blending
+  filters: minimal processing to preserve painterly quality
+  adjustments:
+    saturation: medium to high
+    contrast: medium with soft transitions

@@ -1,5 +1,5 @@
-styleName: Feature Animation 2D Classical School
-description: Universal 2D style based on feature-length animation studio tradition with clean tapered lineart, soft shading, and simplified forms
+styleName: Feature Animation 2D Classical
+description: Classical 2D feature animation style rooted in Disney Golden Age tradition (1937-1942) with hand-drawn cel animation techniques, clean tapered lineart, soft shading, and simplified forms optimized for narrative storytelling
 
 aiPrompts:
   basePrompt: feature film 2D animation style, clean tapered lineart, soft cel shading 1-2 levels, simplified materials, volumetric hair with single highlight, stylized background with clear depth planes, readable silhouettes and staging, emphasis on emotion and narrative

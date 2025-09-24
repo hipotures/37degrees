@@ -1,5 +1,5 @@
 styleName: Neoclassicism Style
-description: A mid-18th century style that drew inspiration from the art of classical antiquity (Greece and Rome), emphasizing order, reason, and heroism. It was a reaction against the ornate and frivolous Rococo style.
+description: Classical antiquity-inspired art style emphasizing order, reason, and heroic subjects with sculptural figures and Roman architecture
 aiPrompts:
   basePrompt: neoclassicism painting, classical antiquity, heroic scene, Roman architecture, sculptural figures, Jacques-Louis David style, historical painting
   negativePrompt: rococo, ornate, frivolous, pastel colors, loose brushwork, emotional chaos

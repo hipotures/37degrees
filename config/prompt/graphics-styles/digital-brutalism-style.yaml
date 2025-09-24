@@ -1,5 +1,5 @@
 styleName: Digital Brutalism Style
-description: Stark digital aesthetic inspired by Brutalist design, with clashing colors, raw HTML vibe, and deliberately low-fi graphics
+description: Stark digital aesthetic inspired by Brutalist design principles with functionality-first approach that prioritizes content over aesthetics, featuring clashing colors, raw HTML vibe, deliberately low-fi graphics, and anti-design philosophy that embraces deliberate 'ugliness'. Modern interpretation incorporates 90s web nostalgia
 aiPrompts:
   basePrompt: digital brutalism design, 90s web graphics, clashing colors, simple shapes, bare interface
   negativePrompt: sleek modern UI, polished gradients, realistic, ornate
@@ -58,3 +58,6 @@ visualElements:
   stylePrecedents:
   - Brutalist web design
   - GeoCities era sites
+  - Hacker News interface
+  - Early HTML websites
+  - Terminal/command-line interfaces

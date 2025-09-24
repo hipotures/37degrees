@@ -1,59 +1,66 @@
 styleName: Digital Collage Style
-description: Layered composition combining photographs, graphics, textures, and typography in digital mixed-media artwork with photomontage and surreal elements
+description: Digital composition technique using software tools to layer, blend, and manipulate photographs, graphics, textures, and typography. Enables unlimited layering possibilities, seamless digital blending, pixel-perfect precision, and elements manipulation beyond physical constraints through digital compositing software.
 aiPrompts:
-  basePrompt: digital collage, photomontage, layered composition, mixed media, cut and paste, surreal combination
-  negativePrompt: single source image, uniform style, seamless blending, painted, drawn
+  basePrompt: digital collage, digital manipulation, software compositing, layered composition, seamless blending, infinite possibilities, pixel perfect, digital layering, photomontage, mixed media compositing
+  negativePrompt: single source image, uniform style, painted, drawn, traditional collage limitations, physical cutting
   styleKeywords:
-  - collage
+  - digital collage
+  - digital manipulation
+  - software compositing
+  - layered composition
+  - seamless blending
   - photomontage
-  - layered
   - mixed media
   - composite
+  - infinite layers
+  - pixel perfect
 visualElements:
   colorPalette:
     primary:
-    - varied (from source materials)
-    - sepia tones
-    - vintage colors
+    - digitally enhanced colors
+    - unlimited color manipulation
+    - precise color matching
     secondary:
     - contrasting bold colors
-    - newspaper grays
-    - magazine colors
-    background: textured paper, newsprint, or abstract
-    usageNotes: Mixed color schemes from different source materials
-    saturation: varies by element (some desaturated, some vivid)
-    contrast: high between different elements
+    - digitally adjusted tones
+    - software-generated gradients
+    background: digital textures, manipulated backgrounds, infinite layering options
+    usageNotes: Colors can be precisely controlled and manipulated through digital tools, allowing perfect color matching and unlimited palette options
+    saturation: digitally adjustable per element with precision control
+    contrast: precisely controlled through digital manipulation
   lineArt:
-    style: cut edges, torn paper effects, layered boundaries
-    weight: varies by source material
-    color: mixed from different sources
-    texture: rough cut edges, paper tears
-    edgeTreatment: visible layer boundaries, cut-out edges
+    style: pixel-perfect edges, digital masking, smooth transitions, or intentionally rough digital cuts
+    weight: precisely controllable through digital tools
+    color: unlimited digital color options
+    texture: digital brush effects, software-generated textures, pixel-level control
+    edgeTreatment: seamless blending, precise masking, digital feathering, or sharp digital cuts
   lighting:
-    type: inconsistent lighting from different sources
-    direction: mixed (different lighting per element)
-    intensity: varies per layer
+    type: unified digital lighting or creatively mixed sources through digital manipulation
+    direction: digitally adjustable and consistent across elements when desired
+    intensity: precisely controllable through digital tools
     shadows:
-      style: drop shadows between layers
-      color: black or gray
-      opacity: variable to show depth
-    highlights: preserved from original source materials
+      style: digitally generated shadows, layer effects, realistic or stylized
+      color: unlimited digital color options
+      opacity: precisely adjustable
+    highlights: digitally enhanced or generated highlights with perfect control
   rendering:
-    technique: digital layering and compositing
-    texture: paper textures, print dots, magazine textures
-    detailLevel: varies by source (some detailed, some simplified)
-    finish: mixed finishes from different materials
-  perspective: multiple perspectives combined
+    technique: digital layering, blending modes, layer effects, pixel-level precision, software compositing
+    texture: unlimited digital textures, software brush effects, procedural textures
+    detailLevel: precisely controllable from photorealistic to highly stylized
+    finish: unlimited digital effects and finishes through software capabilities
+  perspective: multiple perspectives seamlessly integrated through digital manipulation
   mood:
-    overall: eclectic, surreal, experimental
-    emotion: playful, thought-provoking, chaotic
-    tempo: dynamic, busy
+    overall: limitless creative possibilities, technically precise, digitally enhanced
+    emotion: ranges from surreal to hyperrealistic depending on digital manipulation approach
+    tempo: controlled pacing through digital composition techniques
     keywords:
-    - eclectic
-    - surreal
-    - layered
-    - experimental
-    - chaotic
+    - limitless
+    - precise
+    - digitally enhanced
+    - seamless
+    - manipulated
+    - composite
   stylePrecedents:
-  - Hannah Höch Dadaist collages
-  - David Hockney photo collages
+  - Hannah Höch Dadaist collages (analog foundation)
+  - David Hockney photo collages (early digital exploration)
+  - Contemporary digital artists using Photoshop and advanced compositing software

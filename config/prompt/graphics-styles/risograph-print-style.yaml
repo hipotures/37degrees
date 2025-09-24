@@ -1,8 +1,8 @@
 styleName: Risograph Print Style
-description: Distinctive grain texture with limited spot colors, overprint effects, and intentionally imperfect aesthetic
+description: Japanese stencil-based duplicator printing technique from the 1980s with distinctive grain texture, limited spot colors (2-4 maximum), overprint effects, and intentionally imperfect registration creating a handmade aesthetic popular in indie zine culture
 aiPrompts:
-  basePrompt: risograph print style, grain texture, limited colors, overprint effect, spot colors, textured
-  negativePrompt: smooth, photorealistic, many colors, perfect, clean gradients
+  basePrompt: risograph print style, stencil printing, grain texture, limited spot colors, overprint effect, misregistration, textured, soy-based ink
+  negativePrompt: smooth, photorealistic, digital, many colors, perfect registration, clean gradients, offset printing
   styleKeywords:
   - risograph
   - grain

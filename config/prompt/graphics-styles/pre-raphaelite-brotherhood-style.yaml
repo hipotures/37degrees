@@ -1,8 +1,8 @@
 styleName: Pre-Raphaelite Brotherhood Style
 description: A mid-19th century English movement that rejected the academic conventions of the time for the intense color, high detail, and complex compositions of early Italian Renaissance art (before Raphael).
 aiPrompts:
-  basePrompt: pre-raphaelite painting, intense colors, high detail, medieval themes, literary subjects, symbolic, John Everett Millais style
-  negativePrompt: sfumato, dark shadows, loose brushwork, modern, abstract, minimalist
+  basePrompt: pre-raphaelite painting, intense colors, high detail, medieval themes, literary subjects, symbolic, John Everett Millais style, Dante Gabriel Rossetti style, William Holman Hunt style
+  negativePrompt: sfumato, dark shadows, loose brushwork, modern, abstract, minimalist, academic conventions, Reynolds style, broad shadows, dark grounds
   styleKeywords:
   - pre-raphaelite
   - detailed
@@ -10,6 +10,10 @@ aiPrompts:
   - literary
   - medievalism
   - symbolic
+  - truth to nature
+  - religious
+  - romantic
+  - quattrocento
 visualElements:
   colorPalette:
     primary:
@@ -22,7 +26,7 @@ visualElements:
     - ivory
     - orange
     background: highly detailed natural or interior settings
-    usageNotes: Luminous, saturated colors applied over a wet white ground to enhance brightness.
+    usageNotes: Luminous, saturated colors with tempera-like quality. Wet white ground technique used sparingly, primarily 1850-1854.
     saturation: very high
     contrast: high, due to sharp details and bright colors
   lineArt:
@@ -32,19 +36,19 @@ visualElements:
     texture: smooth application of paint
     edgeTreatment: crisp, sharp edges
   lighting:
-    type: bright, even, almost shadowless lighting
+    type: bright, even, luminous lighting
     direction: often frontal, illuminating every detail clearly
     intensity: high and clear
     shadows:
-      style: minimal and detailed, not broad or dark
+      style: present but not broad or dark, detailed rendering
       color: colored with local tones, not black
-      opacity: light
+      opacity: light to medium
     highlights: sharp and precise
   rendering:
-    technique: meticulous oil painting with fine brushes, "truth to nature"
+    technique: meticulous oil painting with fine brushes, outdoor painting, "truth to nature"
     texture: extreme attention to the texture of fabrics, hair, and foliage
     detailLevel: extremely high, every part of the canvas is detailed
-    finish: smooth, enamel-like surface
+    finish: smooth, enamel-like surface with tempera-like quality
   perspective: sometimes flattened or unconventional to fit complex compositions
   mood:
     overall: romantic, symbolic, earnest

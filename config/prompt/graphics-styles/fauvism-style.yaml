@@ -21,8 +21,8 @@ visualElements:
     - bright yellow
     background: bold, non-naturalistic colored backgrounds
     usageNotes: Pure, intense colors used arbitrarily, not naturalistically
-    saturation: very high (maximum intensity)
-    contrast: very high (shocking color combinations)
+    saturation: very high
+    contrast: extreme
   lineArt:
     style: bold, expressive outlines
     weight: heavy, confident strokes
@@ -55,5 +55,5 @@ visualElements:
     - liberated
     - bold
   stylePrecedents:
-  - Henri Matisse wild color paintings
-  - André Derain landscapes
+  - Henri Matisse
+  - André Derain

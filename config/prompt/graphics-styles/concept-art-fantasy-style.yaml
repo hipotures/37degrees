@@ -1,5 +1,5 @@
 styleName: Concept Art Fantasy Style
-description: Digital painterly style for fantasy concept art with mythological themes and otherworldly atmosphere
+description: Digital painterly style for fantasy concept art with mythological themes and otherworldly atmosphere, designed for pre-production visualization in games and films
 aiPrompts:
   basePrompt: concept artwork, digital painterly art style, mythological, textured 2d dry media brushpack, glazed brushstrokes,
     otherworldly, painting, illustration
@@ -53,8 +53,19 @@ visualElements:
     - otherworldly
     - fantasy
     - mythological
+  postProcessing:
+    effects:
+    - digital brush texture enhancement
+    - magical glow effects
+    - atmospheric haze
+    filters: subtle grain and texture
+    adjustments:
+      saturation: medium to high
+      contrast: medium to high
   stylePrecedents:
   - Craig Mullins digital concept art
   - Frank Frazetta fantasy paintings
   - Boris Vallejo fantasy illustrations
   - Magic: The Gathering card art
+  - Ralph McQuarrie concept art
+  - World of Warcraft concept art

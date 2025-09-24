@@ -1,7 +1,7 @@
 styleName: Constructivist Propaganda Style
-description: Bold geometric designs with limited colors, dynamic diagonal compositions, and strong typography elements
+description: Bold geometric designs with limited colors, dynamic diagonal compositions, strong typography elements, and revolutionary political messaging characteristic of Soviet agitprop
 aiPrompts:
-  basePrompt: constructivist poster, propaganda art, geometric shapes, bold typography, diagonal composition, revolutionary
+  basePrompt: constructivist poster, propaganda art, geometric shapes, bold typography, diagonal composition, revolutionary, photomontage, agitprop, soviet, red wedge
   negativePrompt: soft, organic, realistic, detailed, pastel
   styleKeywords:
   - constructivist
@@ -17,8 +17,8 @@ visualElements:
     - '#000000'
     - '#FFFFFF'
     secondary:
-    - '#FFD700'
-    - '#1E3A8A'
+    - '#CC0000'
+    - '#333333'
     background: solid color blocks
     usageNotes: Limited palette, maximum impact
     saturation: maximum
@@ -57,4 +57,8 @@ visualElements:
   stylePrecedents:
   - El Lissitzky
   - Alexander Rodchenko
+  - Gustav Klutsis
+  - Valentina Kulagina
+  - Varvara Stepanova
+  - Stenberg Brothers
   - Constructivist movement

@@ -1,52 +1,56 @@
 styleName: Pixel Art Style
-description: Digital art form where every pixel is deliberately placed, often using limited color palettes reminiscent of 1980s-90s video game graphics
+description: Digital art form where every pixel is deliberately placed, using extremely limited color palettes and hardware constraints reminiscent of 8-bit (1980s) and 16-bit (1990s) video game graphics
 aiPrompts:
-  basePrompt: pixel art, 8-bit style, retro gaming, pixelated, limited palette, low resolution
-  negativePrompt: smooth gradients, high resolution, photorealistic, anti-aliasing, modern graphics
+  basePrompt: pixel art, 8-bit style, retro gaming, pixelated, limited palette, low resolution, dithering, no anti-aliasing, sprite art, indexed colors, pixel-perfect
+  negativePrompt: smooth gradients, high resolution, photorealistic, anti-aliasing, modern graphics, blur effects, sub-pixel rendering, smooth curves
   styleKeywords:
   - pixel art
   - 8-bit
   - pixelated
   - retro gaming
   - low resolution
+  - dithering
+  - sprite art
+  - pixel-perfect
+  - indexed colors
 visualElements:
   colorPalette:
     primary:
-    - limited 16-color palette
+    - extremely limited 4-16 colors per sprite
     - bright primary colors
     - high contrast pairs
     secondary:
     - retro gaming colors
     - CRT monitor colors
-    - 8-bit system colors
+    - 8-bit system colors (NES: 54 total, max 25 on screen)
     background: solid colors or simple pixel patterns
-    usageNotes: Extremely limited color palette (4-64 colors typically)
+    usageNotes: 8-bit systems used 4-16 colors per sprite/tile, 16-bit allowed more complex palettes
     saturation: high (bold, clear colors)
     contrast: high (clear pixel definition)
   lineArt:
-    style: pixelated edges, no anti-aliasing
+    style: pixelated edges, no anti-aliasing, jagged lines
     weight: single pixel width
     color: solid pixel colors
     texture: visible pixel grid
-    edgeTreatment: hard pixel edges, jagged lines
+    edgeTreatment: hard pixel edges, pixel-perfect precision
   lighting:
-    type: simplified lighting with flat shading
+    type: simplified lighting with flat shading, dithering for gradients
     direction: basic light source indication
-    intensity: limited by color palette
+    intensity: limited by color palette constraints
     shadows:
-      style: solid color pixels for shadows
+      style: solid color pixels for shadows, dithering patterns
       color: darker palette colors
-      opacity: solid pixels
+      opacity: solid pixels, no transparency
     highlights: lighter palette colors in pixel form
   rendering:
-    technique: individual pixel placement
-    texture: visible pixel grid texture
-    detailLevel: low (limited by pixel resolution)
-    finish: sharp, pixelated appearance
-  perspective: simple, often isometric or side-view
+    technique: individual pixel placement, sprite-based construction, tile-based graphics
+    texture: visible pixel grid texture, CRT display considerations
+    detailLevel: low (limited by pixel resolution 256x240, 320x240)
+    finish: sharp, pixelated appearance, sprite sheets
+  perspective: simple, often isometric or side-view, hardware constraint-based
   mood:
-    overall: nostalgic, playful, retro
-    emotion: nostalgia, fun, simplicity
+    overall: nostalgic, playful, retro, technically constrained
+    emotion: nostalgia, fun, simplicity, arcade authenticity
     tempo: static but iconic
     keywords:
     - nostalgic
@@ -54,6 +58,14 @@ visualElements:
     - retro
     - simple
     - iconic
+    - authentic
+    - constrained
   stylePrecedents:
-  - 1980s arcade game graphics
-  - Nintendo 8-bit game art
+  - Super Mario Bros (NES 8-bit)
+  - Mega Man series (8-bit)
+  - Pac-Man (arcade)
+  - Super Metroid (16-bit SNES)
+  - Chrono Trigger (16-bit)
+  - Street Fighter II (16-bit)
+  - Game Boy graphics
+  - Nintendo Entertainment System art

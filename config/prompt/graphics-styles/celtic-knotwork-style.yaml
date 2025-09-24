@@ -1,7 +1,7 @@
 styleName: Celtic Knotwork Style
-description: Intricate interlacing patterns with endless loops and symbolic motifs from medieval Insular art
+description: Intricate interlacing patterns with over-under alternation, endless loops, and basket weave motifs from medieval Insular art with protective symbolic meaning
 aiPrompts:
-  basePrompt: celtic knotwork, interlacing patterns, endless loops, medieval insular art, symbolic motifs, illuminated manuscript border
+  basePrompt: celtic knotwork, interlacing patterns, over-under weaving, endless knots, basket weave patterns, medieval insular art, symbolic motifs, illuminated manuscript border
   negativePrompt: geometric, straight lines, modern, abstract, minimalist
   styleKeywords:
   - celtic
@@ -13,35 +13,40 @@ aiPrompts:
 visualElements:
   colorPalette:
     primary:
-    - '#8B4513'  # saddle brown
-    - '#2F4F4F'  # dark slate gray
-    - '#556B2F'  # dark olive green
-    - '#000000'  # black
+    - '#4169E1'  # woad blue
+    - '#E1C16E'  # orpiment yellow
+    - '#8B008B'  # lichen purple
+    - '#000000'  # black ink
     secondary:
-    - '#DAA520'  # goldenrod
-    - '#CD853F'  # peru
-    - '#483D8B'  # dark slate blue
+    - '#DC143C'  # red lead
+    - '#228B22'  # copper green
+    - '#F5F5DC'  # gypsum white
+    - '#FF69B4'  # lichen pink
     background: aged parchment
-    usageNotes: Natural dyes and metals
-    saturation: muted, earthy tones
-    contrast: medium with gold accents
+    usageNotes: Medieval pigments and natural dyes
+    saturation: vibrant medieval colors
+    contrast: high contrast with no metallic elements
   lineArt:
     style: continuous interlacing
     weight: uniform, varying thickness
-    color: black with gold highlights
+    color: black ink with colored highlights
     texture: hand-drawn quality
     edgeTreatment: seamless loops
-  composition:
-    layout: repeating patterns
-    hierarchy: equal emphasis
-    gridSystem: organic flow
-    whitespace: filled with knots
   lighting:
     type: symbolic illumination
     direction: radiating from knots
-    intensity: metallic highlights
-    shadows: soft, under edges
-    highlights: metallic gold
+    intensity: vibrant pigment highlights
+    shadows:
+      style: soft, under edges
+      color: deeper tones of base colors
+      opacity: subtle
+    highlights: colored pigment accents
+  rendering:
+    technique: illuminated manuscript style
+    texture: parchment with pigment application
+    detailLevel: high intricacy in knotwork
+    finish: medieval manuscript quality
+  perspective: flattened, manuscript style
   mood:
     overall: mystical, timeless, spiritual
     emotion: eternity, connection, reverence
@@ -53,7 +58,7 @@ visualElements:
     - interwoven
     - eternal
   stylePrecedents:
-  - Book of Kell manuscript
+  - Book of Kells manuscript
   - Lindisfarne Gospels
   - St. Chad Gospels
   - High crosses of Ireland

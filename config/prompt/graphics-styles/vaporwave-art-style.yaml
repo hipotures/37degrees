@@ -1,10 +1,18 @@
 styleName: Vaporwave Art Style
-description: Digital aesthetic combining 1980s-90s nostalgia with glitch art, neon colors, Japanese text, and retro computer graphics elements
+description: Digital aesthetic combining 1980s-90s nostalgia featuring Greek statues, palm trees, corporate logos, Windows 95 imagery, glitch art, neon colors, Japanese text, and retro computer graphics elements
 aiPrompts:
-  basePrompt: vaporwave aesthetic, 80s nostalgia, neon grids, Japanese text, glitch art, retro computer graphics
+  basePrompt: vaporwave aesthetic, Greek statue, Roman bust, palm trees, Windows 95, corporate logos, pastel sunset, 80s nostalgia, neon grids, Japanese text, glitch art, retro computer graphics
   negativePrompt: modern design, realistic imagery, muted colors, contemporary aesthetics, high resolution
   styleKeywords:
   - vaporwave
+  - Greek statue
+  - Roman bust
+  - palm trees
+  - Windows 95
+  - corporate
+  - pastel
+  - sunset
+  - tropical
   - 80s nostalgia
   - neon
   - glitch
@@ -16,15 +24,17 @@ visualElements:
     - cyan blue
     - purple
     secondary:
+    - pastel pink
+    - pastel purple
     - neon green
     - sunset orange
     - computer blue
-    background: gradient sunsets or digital grids
-    usageNotes: Nostalgic 80s color schemes with heavy neon influence
+    background: tropical sunset gradients or digital grids
+    usageNotes: Nostalgic 80s color schemes with heavy neon and pastel influence
     saturation: very high (glowing neon effect)
     contrast: high (neon colors against dark backgrounds)
   lineArt:
-    style: digital wireframes and geometric grids
+    style: digital wireframes, geometric grids, statue outlines, palm tree silhouettes
     weight: thin digital lines
     color: bright neon colors
     texture: digital perfection with intentional glitches
@@ -55,5 +65,9 @@ visualElements:
     - melancholic
     - ethereal
   stylePrecedents:
+  - Greek/Roman classical sculpture
   - 1980s computer graphics
+  - 1990s mall aesthetics
+  - Early internet web design
+  - Anime from 70s-90s
   - VHS aesthetic and artifacts

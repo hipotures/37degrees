@@ -1,7 +1,7 @@
 styleName: Cassette Futurism Style
-description: Retro-futuristic aesthetic from the 70s/80s featuring analog technology, beige plastic, CRT monitors, and cassette tapes
+description: Retro-futuristic aesthetic from the 70s/80s featuring analog technology, beige plastic, monochrome CRT monitors, cassette tapes, and chunky blocky design
 aiPrompts:
-  basePrompt: cassette futurism, 1970s 1980s retro tech, analog computers, beige plastic, CRT monitors, cassette tapes, wood paneling
+  basePrompt: cassette futurism, 1970s 1980s retro tech, analog computers, beige plastic, monochrome CRT monitors, cassette tapes, chunky blocky design, analog switches and buttons, office interior
   negativePrompt: modern sleek design, wireless, touchscreen, minimalist, contemporary
   styleKeywords:
   - cassette futurism
@@ -13,14 +13,14 @@ visualElements:
   colorPalette:
     primary:
     - beige plastic
-    - wood brown
+    - electronics grey
     - amber display
     - black
     secondary:
     - orange
     - olive green
     - cream
-    background: wood paneling or beige interior
+    background: office interior or command center
     usageNotes: Muted earth tones with occasional bright display colors
     saturation: low to medium
     contrast: medium
@@ -41,7 +41,7 @@ visualElements:
     highlights: glare on plastic surfaces, CRT glow
   rendering:
     technique: product photography style
-    texture: textured plastic, brushed metal, wood grain
+    texture: textured plastic, brushed metal, industrial surfaces
     detailLevel: moderate with focus on materials
     finish: matte plastic with occasional gloss
   perspective: product shots or interior scenes

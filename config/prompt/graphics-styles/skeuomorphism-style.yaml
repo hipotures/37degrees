@@ -1,14 +1,16 @@
 styleName: Skeuomorphism Style
-description: A design style in interface design where digital elements mimic the appearance of their real-world counterparts. Characterized by rich textures (leather, paper, metal), shadows, and realistic lighting to create impression of physicality.
+description: Digital interface design style where elements mimic real-world counterparts to help users transition from physical to digital interfaces. Dominant in early iOS (2007-2013) before iOS 7 flat design revolution. Features rich textures, shadows, and realistic materials.
 aiPrompts:
-  basePrompt: skeuomorphic UI design, realistic interface, leather texture, brushed metal, drop shadows, physical object metaphor, early iOS style
-  negativePrompt: flat design, minimalist, abstract, material design, no textures
+  basePrompt: skeuomorphic UI design, realistic interface, leather texture, brushed metal, drop shadows, physical object metaphor, early iOS style, textured buttons, realistic materials
+  negativePrompt: flat design, minimalist, abstract, material design, no textures, modern iOS, geometric shapes
   styleKeywords:
   - skeuomorphism
   - realistic UI
-  - textured
-  - 3D interface
+  - textured interface
+  - 3D interface elements
   - analog metaphor
+  - iOS pre-2013
+  - tactile design
 visualElements:
   colorPalette:
     primary:
@@ -18,15 +20,16 @@ visualElements:
     secondary:
     - green felt color (gaming tables)
     - yellow paper color (notepads)
-    background: textured backgrounds (e.g., linen binding, metal plate)
-    usageNotes: Colors and materials directly mimic physical objects.
+    - blue denim texture
+    background: textured backgrounds (linen binding, metal plate, felt surface)
+    usageNotes: Colors and materials directly mimic physical objects
     saturation: natural, muted
     contrast: medium, built through shadows and lights
   lineArt:
     style: none, edges defined by shadows, lights and seams
     weight: n/a
     color: n/a
-    texture: visible seams on leather, edges of metal plates
+    texture: visible seams on leather, edges of metal plates, paper grain
     edgeTreatment: rounded, physical edges with beveling
   lighting:
     type: realistic, studio lighting
@@ -39,9 +42,9 @@ visualElements:
     highlights: subtle gradients and reflections on shiny surfaces
   rendering:
     technique: photorealistic material rendering
-    texture: leather, metal, wood, paper, glass
-    detailLevel: very high, with attention to details like seams or paper texture
-    finish: varied depending on material (matte leather, shiny metal)
+    texture: leather, metal, wood, paper, glass, felt, denim
+    detailLevel: very high, with attention to details like seams, stitching, grain
+    finish: varied depending on material (matte leather, shiny metal, textured paper)
   perspective: flat interface with strong illusion of depth and physicality
   mood:
     overall: familiar, tactile, rich
@@ -53,6 +56,13 @@ visualElements:
     - rich
     - familiar
     - analog
+    - nostalgic
   stylePrecedents:
-  - early Apple iOS and macOS versions (before iOS 7)
-  - application interfaces like GarageBand or iBooks
+  - iOS 6 Calendar app (stitched leather texture)
+  - iOS Notes app (yellow lined paper with torn edge)
+  - iOS Voice Memos (realistic microphone interface)
+  - iOS Newsstand (wooden bookshelf)
+  - GarageBand interface (realistic instrument controls)
+  - iBooks interface (wooden bookshelf, page turning)
+  - early macOS Address Book (leather-bound contact book)
+  - iOS Contacts (leather binding with metal corners)

@@ -1,5 +1,5 @@
 styleName: Ceramic Mosaic Style
-description: Artwork composed of small colored tiles forming images or patterns with a handcrafted, textured look
+description: Artwork composed of small colored tesserae (ceramic tiles) forming images or patterns with a handcrafted, textured look
 aiPrompts:
   basePrompt: mosaic art, ceramic tiles, tessellation, fragmented pieces, intricate pattern
   negativePrompt: smooth gradients, continuous lines, photorealistic blending, soft edges
@@ -59,3 +59,4 @@ visualElements:
   stylePrecedents:
   - Byzantine mosaics
   - Antoni Gaudí mosaic art
+  - Islamic zellij patterns

@@ -1,19 +1,22 @@
 styleName: Retro Pixel UI Icons Style
-description: Classic UI pixel icons with limited colors, reminiscent of early computer interfaces and system icons
+description: Classic 32x32 pixel UI icons with 16-256 color limitations, featuring embossed and beveled effects reminiscent of Windows 95 and early Mac OS system interfaces
 aiPrompts:
-  basePrompt: pixel art icon, UI element, retro computer interface, system icon style
-  negativePrompt: anti-aliased, smooth, gradients, complex details
+  basePrompt: pixel art icon, 32x32 resolution, UI element, retro computer interface, system icon style, embossed effect, beveled, skeuomorphic, 16-color palette
+  negativePrompt: anti-aliased, smooth, gradients, complex details, high resolution, flat design, modern icons
   styleKeywords:
   - pixel icon
   - UI
   - retro interface
   - system icon
   - Windows 95 style
+  - embossed
+  - beveled
+  - skeuomorphic
 visualElements:
   colorPalette:
     primary:
-    - '#F2F2F2'
     - '#C0C0C0'
+    - '#808080'
     - '#000000'
     - '#FFFFFF'
     secondary:
@@ -21,8 +24,8 @@ visualElements:
     - '#00FF00'
     - '#FFFF99'
     - '#008080'
-    background: '#F2F2F2'
-    usageNotes: Classic system colors, flat application
+    background: '#C0C0C0'
+    usageNotes: Classic Windows 95 system colors, 16-256 color depth limitations
     saturation: medium
     contrast: high
   lineArt:
@@ -32,19 +35,21 @@ visualElements:
     texture: crisp pixels
     edgeTreatment: hard edges only
   lighting:
-    type: flat
+    type: three-dimensional
     direction: top-left
-    intensity: simple two-tone
+    intensity: three-tone shading
     shadows:
       style: dithering or solid
       color: '#808080'
       opacity: solid
     highlights: '#FFFFFF'
+    effects: embossed, beveled
   rendering:
-    technique: pixel placement at low resolution
+    technique: 32x32 pixel placement, low resolution
     texture: dithering patterns
     detailLevel: minimal, iconic representation
     finish: crisp, no anti-aliasing
+    format: .ico file conventions
   perspective: frontal or isometric
   mood:
     overall: functional, nostalgic, clear
@@ -56,6 +61,9 @@ visualElements:
     - clear
     - iconic
     - system
+    - skeuomorphic
+    - three-dimensional
+    - tactile
   stylePrecedents:
   - Windows 95 system icons
   - Classic Mac OS interface

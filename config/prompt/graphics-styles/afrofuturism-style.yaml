@@ -1,5 +1,5 @@
 styleName: Afrofuturism Style
-description: Fusion of African cultural elements with futuristic technology, cosmic imagery, and speculative fiction aesthetics
+description: Fusion of African diaspora cultural elements with futuristic technology, cosmic imagery, and speculative fiction aesthetics that addresses themes of liberation, empowerment, and Black identity through recognizable visual symbols
 aiPrompts:
   basePrompt: afrofuturism art, african futuristic, cosmic african patterns, traditional meets high-tech, african diaspora sci-fi
   negativePrompt: stereotypical, colonial perspective, western-centric, primitive
@@ -9,6 +9,10 @@ aiPrompts:
   - cosmic
   - cultural fusion
   - speculative
+  - sacred geometry
+  - pan-african
+  - liberation
+  - diaspora
 visualElements:
   colorPalette:
     primary:
@@ -16,6 +20,8 @@ visualElements:
     - rich gold
     - electric blue
     - cosmic black
+    - vibrant red
+    - electric yellow
     secondary:
     - sunset orange
     - emerald green
@@ -25,7 +31,7 @@ visualElements:
     saturation: high
     contrast: high
   lineArt:
-    style: geometric patterns mixed with flowing cosmic forms
+    style: sacred geometric patterns and traditional African motifs mixed with flowing cosmic forms, including raised-triangle and beading patterns
     weight: varied, bold for patterns
     color: gold and white on dark backgrounds
     texture: intricate traditional patterns

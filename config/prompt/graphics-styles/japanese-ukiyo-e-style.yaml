@@ -1,15 +1,19 @@
 styleName: Japanese Ukiyo-e Style
-description: Traditional woodblock prints with flattened perspective, strong outlines, and stylized natural elements
+description: Traditional Japanese woodblock prints depicting the "floating world" with bold outlines, flat color areas, and stylized compositions using nishiki-e full-color printing techniques
 aiPrompts:
-  basePrompt: ukiyo-e woodblock print, flattened perspective, strong outlines, stylized nature, traditional japanese art, edo period
-  negativePrompt: 3D depth, realistic shadows, modern, western, photography
+  basePrompt: ukiyo-e woodblock print, nishiki-e, flattened perspective, bold outlines, stylized nature, traditional japanese art, edo period, floating world, bokashi gradation, bijin-ga, kabuki themes
+  negativePrompt: 3D depth, realistic shadows, modern, western, photography, soft edges, photorealism
   styleKeywords:
   - ukiyo-e
+  - nishiki-e
   - woodblock
   - japanese
   - edo
   - stylized
   - flat
+  - floating world
+  - bijin-ga
+  - bokashi
 visualElements:
   colorPalette:
     primary:
@@ -17,30 +21,40 @@ visualElements:
     - '#006400'  # pine green
     - '#000000'  # ink black
     - '#FFD700'  # gold
+    - '#1E90FF'  # prussian blue
     secondary:
     - '#FFA500'  # orange
     - '#4169E1'  # royal blue
     - '#9370DB'  # medium purple
     background: washi paper texture
-    usageNotes: Limited color palette, flat areas
-    saturation: vibrant but controlled
-    contrast: strong outlines
+    usageNotes: Limited woodblock printing palette, flat color areas, Prussian blue prominent in landscapes
+    saturation: vibrant but controlled by printing constraints
+    contrast: strong outlines against flat colors
   lineArt:
     style: bold contours
     weight: strong, uniform outlines
     color: black ink
     texture: wood grain visible
-    edgeTreatment: slightly blurred
+    edgeTreatment: sharp, bold outlines
+  lighting:
+    type: flat stylized lighting
+    direction: none
+    intensity: uniform
+    shadows:
+      style: flat color blocks
+      color: darker tone of base color
+      opacity: solid
+    highlights: lighter flat areas or none
   perspective:
     type: flattened space
     vanishingPoints: none
     distortion: intentional flattening
-    depth: layered with size only
+    depth: layered with size and overlapping only
   rendering:
     technique: woodblock printing simulation
-    texture: paper grain, ink bleed
-    detailLevel: moderate, symbolic
-    finish: matte, uncoated
+    texture: paper grain, ink bleed, wood texture
+    detailLevel: moderate, symbolic and stylized
+    finish: matte, uncoated paper
   mood:
     overall: elegant, transient, poetic
     emotion: wistfulness, beauty, impermanence
@@ -52,8 +66,9 @@ visualElements:
     - stylized
     - traditional
   stylePrecedents:
-  - Hokusai's "Great Wave"
-  - Utamaro's bijin-ga
-  - Hiroshige's landscape prints
-  - Sharaku's actor portraits
-  - Edo period illustrations
+  - Hokusai's "Great Wave off Kanagawa"
+  - Hokusai's "Thirty-six Views of Mount Fuji" series
+  - Hiroshige's "Fifty-three Stations of the Tokaido"
+  - Utamaro's bijin-ga portraits
+  - Sharaku's kabuki actor portraits
+  - Edo period nishiki-e prints

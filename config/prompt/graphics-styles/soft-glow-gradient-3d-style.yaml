@@ -1,4 +1,4 @@
-styleName: Soft Glow Gradient 3D
+styleName: Soft Glow Gradient 3D Style
 description: Modern 3D rendering with soft gradients, glowing effects, and translucent materials creating dreamy atmosphere
 aiPrompts:
   basePrompt: 3D render, soft glow, gradient colors, translucent materials, floating objects

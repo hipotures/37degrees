@@ -1,14 +1,19 @@
 styleName: Art Informel Style
-description: European abstract movement emphasizing gestural improvisation, material exploration, and process-focused creation over planned composition
+description: European abstract movement emerging post-WWII (1940s-1950s) as response to war trauma, emphasizing gestural improvisation, material exploration, and automatic process-focused creation over planned composition. Umbrella term including Tachisme, CoBrA, and other anti-formal approaches
 aiPrompts:
-  basePrompt: art informel, gestural improvisation, material exploration, abstract expressionism, spontaneous creation, texture focus
-  negativePrompt: planned composition, geometric abstraction, smooth finish, controlled technique, representational art
+  basePrompt: art informel, tachisme, gestural improvisation, material exploration, automatic drawing, European abstract expressionism, spontaneous creation, texture focus, anti-formal
+  negativePrompt: planned composition, geometric abstraction, smooth finish, controlled technique, representational art, american abstract expressionism, formal structure
   styleKeywords:
   - art informel
   - gestural
   - improvisation
   - material exploration
   - spontaneous
+  - automatic
+  - tachisme
+  - anti-formal
+  - European
+  - post-war
 visualElements:
   colorPalette:
     primary:

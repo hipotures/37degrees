@@ -1,48 +1,52 @@
-styleName: Photorealistic Glass 3D Render
-description: High-end 3D rendering of glass materials with iridescent effects, refractions, and studio lighting
+styleName: Photorealistic Glass 3D Render Style
+description: High-end 3D rendering of glass materials with accurate refraction, caustics, ray tracing, and volumetric effects
 aiPrompts:
-  basePrompt: photorealistic 3D render, glass material, transparent, iridescent, studio lighting
+  basePrompt: photorealistic 3D render, glass material, transparent, refraction, caustics, dispersion, ray tracing, volumetric effects, studio lighting
   negativePrompt: flat, cartoon, illustration, matte surfaces
   styleKeywords:
   - photorealistic
   - glass
   - transparent
-  - iridescent
+  - refraction
+  - caustics
+  - dispersion
+  - ray tracing
+  - volumetric effects
   - 3D render
   - studio
 visualElements:
   colorPalette:
     primary:
-    - transparent with iridescent blue, green, and purple hues
+    - transparent with subtle chromatic dispersion
     secondary:
-    - crystal-clear with subtle chromatic shifts
+    - crystal-clear with caustic light patterns
     background: '#000000'
-    usageNotes: Iridescent rainbow effects through glass refraction
-    saturation: high in reflections
+    usageNotes: Chromatic effects from light dispersion through glass
+    saturation: enhanced in caustic patterns
     contrast: high
   lineArt:
     style: none - photorealistic surfaces
     weight: n/a
     color: n/a
     texture: smooth polished glass
-    edgeTreatment: sharp, precise edges
+    edgeTreatment: sharp, precise edges with Fresnel reflections
   lighting:
-    type: studio HDRI
-    direction: angled top-left key light and ambient fill
+    type: studio HDRI with 360-degree control
+    direction: positioned for optimal caustic patterns and reflections
     intensity: high
     shadows:
-      style: soft realistic shadows
-      color: dark with color bleeding
-      opacity: variable based on transparency
-    highlights: bright specular reflections with bloom
+      style: shadow catcher with realistic glass shadows
+      color: dark with volumetric absorption
+      opacity: variable based on glass thickness and IOR
+    highlights: bright specular reflections with caustic focusing
   rendering:
-    technique: photorealistic 3D with ray tracing
-    texture: smooth, polished glass
-    detailLevel: high with accurate physics
-    finish: glossy with refractions and reflections
+    technique: photorealistic 3D with ray tracing and volumetric rendering
+    texture: smooth, polished glass with IOR 1.5-1.52
+    detailLevel: high with accurate Fresnel equations
+    finish: glossy with accurate refraction and dispersion
   perspective: studio product shot angle
   mood:
-    overall: luxurious, pristine, high-tech
+    overall: luxurious, pristine, scientifically accurate
     emotion: sophisticated, premium
     tempo: static, contemplative
     keywords:
@@ -51,15 +55,21 @@ visualElements:
     - sophisticated
     - premium
     - crystalline
+    - optical
   postProcessing:
     effects:
     - chromatic aberration
+    - dispersion
+    - caustic enhancement
     - glow
     - bloom
     filters: high contrast
     adjustments:
-      saturation: enhanced in refractions
+      saturation: enhanced in caustic patterns and dispersion
       contrast: high
   stylePrecedents:
   - High-end product visualization
   - Blender Cycles glass materials
+  - Corona Renderer caustics
+  - V-Ray glass materials
+  - Unreal Engine ray-traced caustics

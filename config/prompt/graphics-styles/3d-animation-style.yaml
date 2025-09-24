@@ -1,7 +1,7 @@
 styleName: 3D Animation Style
 description: Three-dimensional computer animation for films, games, and visualization, including photorealistic, stylized, and motion-capture techniques
 aiPrompts:
-  basePrompt: 3D animation, computer animation, 3D characters, digital animation, photorealistic animation, stylized 3D
+  basePrompt: 3D animation, computer animation, 3D characters, digital animation, photorealistic animation, stylized 3D, motion capture, mocap, character animation, keyframe animation
   negativePrompt: 2D animation, flat imagery, traditional animation, hand-drawn, static models
   styleKeywords:
   - 3D animation
@@ -9,40 +9,47 @@ aiPrompts:
   - digital characters
   - 3D rendering
   - motion capture
+  - photorealistic animation
+  - stylized 3D
+  - keyframe animation
+  - character rigging
+  - volumetric rendering
 visualElements:
   colorPalette:
     primary:
-    - realistic material colors
-    - 3D lighting colors
-    - environment colors
+    - metallic silver
+    - plastic white
+    - skin tone peach
+    - fabric blue
     secondary:
-    - character colors
-    - lighting accent colors
-    - atmospheric colors
+    - warm amber light
+    - cool blue shadow
+    - glass transparency
+    - wood brown
     background: 3D rendered environments
-    usageNotes: Colors determined by 3D lighting and materials
+    usageNotes: Colors determined by 3D lighting and material shaders
     saturation: varies by style (photorealistic to stylized)
-    contrast: realistic lighting contrasts
+    contrast: realistic lighting contrasts with volumetric effects
   lineArt:
-    style: 3D model edges and silhouettes
-    weight: defined by 3D geometry and lighting
-    color: determined by material properties
-    texture: 3D surface properties
-    edgeTreatment: smooth 3D surfaces or stylized edges
+    style: volumetric forms and surface definition
+    weight: defined by 3D geometry and depth
+    color: determined by material properties and lighting
+    texture: 3D surface properties and shaders
+    edgeTreatment: smooth volumetric surfaces with depth
   lighting:
-    type: 3D computer graphics lighting
-    direction: realistic 3D light sources
-    intensity: physically accurate or stylized
+    type: 3D computer graphics lighting, global illumination, ambient occlusion
+    direction: realistic 3D light sources, volumetric lighting
+    intensity: physically accurate or stylized with ray tracing
     shadows:
-      style: realistic 3D cast shadows
-      color: realistic shadow colors
-      opacity: physically accurate
-    highlights: 3D specular highlights
+      style: realistic 3D cast shadows with soft edges
+      color: realistic shadow colors with color bleeding
+      opacity: physically accurate with subsurface scattering
+    highlights: 3D specular highlights, fresnel reflections
   rendering:
-    technique: 3D computer graphics rendering
-    texture: 3D surface textures and materials
-    detailLevel: high (detailed 3D models and environments)
-    finish: varies by material (metal, plastic, organic)
+    technique: 3D computer graphics rendering, real-time and pre-rendered animation
+    texture: 3D surface textures, material shaders, procedural textures
+    detailLevel: high (detailed 3D models, rigged characters, environments)
+    finish: varies by material shaders (metal, plastic, glass, fabric, organic)
   perspective: accurate 3D camera perspective
   mood:
     overall: dimensional, cinematic, immersive
@@ -52,8 +59,12 @@ visualElements:
     - dimensional
     - cinematic
     - immersive
-    - smooth
+    - volumetric
     - realistic
+    - depth
   stylePrecedents:
-  - Pixar 3D animation films
+  - Pixar 3D animation films (Toy Story, Finding Nemo)
+  - DreamWorks 3D films (Shrek, How to Train Your Dragon)
   - modern video game cinematics
+  - Blender 3D animation projects
+  - Maya and 3ds Max character animation

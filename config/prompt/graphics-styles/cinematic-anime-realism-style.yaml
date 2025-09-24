@@ -1,7 +1,7 @@
-styleName: Cinematic Anime Realism
-description: Cinematic anime style blending filmic techniques with cel-shaded animation, featuring realistic proportions, natural backgrounds, and movie-like composition with shallow depth of field
+styleName: Cinematic Anime Realism Style
+description: Hybrid style combining photorealistic detailed environments with simplified anime character design, featuring natural proportions, cinematic lighting, and atmospheric backgrounds reminiscent of Studio Ghibli and Makoto Shinkai works
 aiPrompts:
-  basePrompt: cinematic anime realism, cel-shaded, clean line art, realistic proportions, 2-3 tone shading, subdued colors, filmic lighting, shallow depth of field, fine film grain, 2.35:1 aspect ratio
+  basePrompt: cinematic anime realism, cel-shaded, clean line art, realistic proportions, 2-3 tone shading, subdued colors, filmic lighting, shallow depth of field, photorealistic backgrounds, detailed environments, fine film grain, Makoto Shinkai inspired
   negativePrompt: no chibi, no cartoonish, no manga screentones, no hyper-detail, no tiny text, no watermark, no duplicate limbs, no extra fingers, no deformed hands, no noisy backgrounds
   styleKeywords:
   - cinematic anime
@@ -17,6 +17,7 @@ visualElements:
     - subdued natural colors
     - warm indoor lighting
     - cool outdoor shadows
+    - Shinkai blue tones
     secondary:
     - atmospheric fog colors
     - realistic skin tones
@@ -28,7 +29,7 @@ visualElements:
   lineArt:
     style: clean, precise line art with realistic proportions
     weight: medium weight, consistent
-    color: "#000000"
+    color: "#333333"
     texture: smooth, no visible texture
     edgeTreatment: crisp but natural, no heavy outlines
   lighting:
@@ -44,7 +45,16 @@ visualElements:
     technique: cel-shaded with realistic textures on backgrounds
     texture: smooth cel-shading on characters, detailed textures on environments
     detailLevel: high detail on backgrounds, moderate on characters
-    finish: filmic with subtle grain, 2.35:1 composition
+    finish: filmic with subtle grain
+  postProcessing:
+    effects:
+    - film grain
+    - lens flares
+    - color grading
+    - vignette
+    - depth of field blur
+    intensity: subtle to moderate
+    filters: cinematic color correction, slight desaturation
   perspective: cinematic perspective with shallow depth of field
   mood:
     overall: cinematic, atmospheric, emotionally resonant
@@ -57,8 +67,8 @@ visualElements:
     - filmic
     - natural
   stylePrecedents:
-  - Studio Ghibli (Spirited Away, Grave of the Fireflies)
+  - Studio Ghibli (Spirited Away, Princess Mononoke)
   - Makoto Shinkai (Your Name, Weathering With You)
   - Satoshi Kon (Paprika, Tokyo Godfathers)
-  - Arcane (League of Legends series)
-  - Spider-Verse (Into the Spider-Verse)
+  - Mamoru Hosoda (Wolf Children, The Girl Who Leapt Through Time)
+  - Katsuhiro Otomo (Steamboy, Akira backgrounds)

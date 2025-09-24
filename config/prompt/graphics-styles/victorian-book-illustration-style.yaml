@@ -1,15 +1,18 @@
 styleName: Victorian Book Illustration Style
-description: Classic 19th century book illustration with fine line engravings, crosshatching, and period-accurate details
+description: Classic 19th century book illustration with wood engravings on boxwood blocks, crosshatching, and period-accurate details
 aiPrompts:
-  basePrompt: Victorian book illustration, steel engraving, detailed line work, 19th century, classical illustration
+  basePrompt: Victorian book illustration, wood engraving, boxwood block, end-grain engraving, detailed line work, 19th century, classical illustration
   negativePrompt: modern, color, loose, abstract, digital
   styleKeywords:
   - Victorian
+  - wood engraving
+  - boxwood
   - engraving
   - classical
   - detailed
   - 19th century
   - literary
+  - white-line
 visualElements:
   colorPalette:
     primary:
@@ -38,7 +41,7 @@ visualElements:
       opacity: varied through technique
     highlights: white paper showing through
   rendering:
-    technique: steel engraving simulation
+    technique: wood engraving simulation
     texture: fine line patterns throughout
     detailLevel: extremely high, meticulous
     finish: printed illustration quality

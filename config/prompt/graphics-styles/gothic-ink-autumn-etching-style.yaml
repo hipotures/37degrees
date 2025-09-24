@@ -1,15 +1,16 @@
 styleName: Gothic Ink Autumn Etching Style
-description: Central symmetric castle framing with bold black outlines, variable line weight, dense crosshatching and stippling. Muted autumn colors with visible paper texture and light halftone dots like old comic prints.
+description: Gothic architecture with pointed arches, ribbed vaults, and flying buttresses rendered in traditional ink etching technique. Bold black outlines, variable line weight, dense crosshatching and stippling. Muted autumn colors with visible paper texture.
 aiPrompts:
-  basePrompt: gothic castle front view, autumn park, bold black ink outlines, variable line weight, crosshatching and stippling, muted fall palette, coarse paper texture, vintage halftone, slight two-point perspective, overcast lighting, leaf-litter foreground, framed by trees
-  negativePrompt: bright neon colors, smooth gradients, glossy finish, modern glass, high-saturation sky, perfectly clean vectors, hard cast shadows, photographic realism
+  basePrompt: gothic architecture, pointed arches, flying buttresses, medieval stonework, autumn foliage, bold black ink outlines, variable line weight, crosshatching and stippling, muted fall palette, coarse paper texture, traditional etching technique, overcast lighting, leaf-litter foreground
+  negativePrompt: bright neon colors, smooth gradients, glossy finish, modern architecture, glass buildings, clean lines, digital art, high-saturation sky, perfectly clean vectors, hard cast shadows, photographic realism, symmetrical composition
   styleKeywords:
-  - gothic ink
-  - autumn etching
-  - crosshatch
-  - vintage halftone
-  - comic print
+  - gothic architecture
+  - medieval etching
+  - ink crosshatch
+  - autumn atmosphere
+  - traditional engraving
   - variable line weight
+  - pointed arches
 visualElements:
   colorPalette:
     primary:
@@ -20,8 +21,10 @@ visualElements:
     - '#D18A3A'  # burnt orange leaves
     - '#6B5A3C'  # umber shadows
     - '#8C7F61'  # greyish khaki fills
+    - '#7A6B47'  # sepia tones
+    - '#8B6F3D'  # burnt umber
     background: warm gray-beige paper
-    usageNotes: Limited autumn palette, muted and faded colors
+    usageNotes: Limited autumn palette, muted and faded colors with traditional ink tones
     saturation: low
     contrast: medium-low
   lineArt:
@@ -35,27 +38,31 @@ visualElements:
     direction: soft diffused light
     intensity: low key-to-fill ratio
     shadows:
-      style: soft overcast, pooled in recesses
+      style: soft overcast, pooled in architectural recesses
       color: umber and khaki tones
       opacity: medium through crosshatching
-    highlights: restrained, mostly line-preserved edges
+    highlights: restrained, mostly line-preserved edges on stone details
   rendering:
     technique: ink crosshatch with sparse flat fills
-    texture: coarse visible paper fiber, irregular small halftone dots, subtle ink bleed
-    detailLevel: medium-high line density
+    texture: coarse visible paper fiber, subtle ink bleed, traditional etching marks
+    detailLevel: medium-high line density with architectural precision
     finish: matte with visible grain and speckle
-  perspective: slight two-point perspective, low horizon, centered composition
+  perspective: traditional Gothic perspective, low horizon, asymmetrical composition
   mood:
-    overall: nostalgic, handcrafted, autumn melancholy
-    emotion: contemplative, aged, weathered
+    overall: nostalgic, handcrafted, autumn melancholy, mysterious
+    emotion: contemplative, aged, weathered, dramatic, imposing
     tempo: steady, methodical
     keywords:
     - nostalgic
     - weathered
     - handcrafted
     - autumn
-    - vintage
+    - mysterious
+    - dramatic
+    - imposing
+    - medieval
   stylePrecedents:
-  - vintage comic book printing
-  - india ink illustrations
-  - risograph printing with tan plate
+  - Albrecht Dürer etchings
+  - medieval manuscript illustrations
+  - Piranesi architectural etchings
+  - traditional india ink illustrations

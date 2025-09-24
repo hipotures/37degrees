@@ -1,7 +1,7 @@
 styleName: Sketchy Drawing Style
 description: Loose, fluid drawing style emphasizing quick gestural lines, organic movement, and spontaneous mark-making with visible construction lines
 aiPrompts:
-  basePrompt: sketchy drawing, loose lines, gestural, quick sketch, construction lines, fluid movement
+  basePrompt: sketchy drawing, loose lines, gestural, quick sketch, construction lines, fluid movement, unfinished, rough sketch
   negativePrompt: tight rendering, precise lines, finished artwork, photorealistic, clean vectors
   styleKeywords:
   - sketchy
@@ -9,6 +9,7 @@ aiPrompts:
   - gestural
   - fluid
   - spontaneous
+  - construction lines visible
 visualElements:
   colorPalette:
     primary:
@@ -54,6 +55,15 @@ visualElements:
     - fresh
     - creative
     - dynamic
+  postProcessing:
+    effects:
+    - paper texture
+    - pencil grain texture
+    - sketch medium texture
+    filters: none
+    adjustments:
+      saturation: low
+      contrast: medium to high
   stylePrecedents:
   - Leonardo da Vinci sketches
   - gesture drawing studies

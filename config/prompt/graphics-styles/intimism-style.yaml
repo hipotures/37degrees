@@ -1,14 +1,17 @@
-styleName: Intimism
-description: A style of painting from the late 19th century, associated with artists like Pierre Bonnard and Édouard Vuillard. It focuses on depicting intimate, quiet domestic scenes, characterized by a focus on pattern, texture, and the subtle effects of interior light.
+styleName: Intimism Style
+description: Intimate domestic interior scenes characterized by patterned wallpaper, soft interior lighting, decorative elements, and warm color harmonies with psychological depth and quiet contemplative atmosphere.
 aiPrompts:
-  basePrompt: Intimism painting, quiet domestic interior, patterned wallpaper, soft interior light, post-impressionist, Édouard Vuillard style, contemplative mood
-  negativePrompt: heroic scene, bright outdoor light, action, minimalist interior, sharp focus
+  basePrompt: Intimism painting, quiet domestic interior, patterned wallpaper, decorative patterns, soft interior light, post-impressionist, Les Nabis influence, contemplative mood, psychological intimacy, muted atmosphere
+  negativePrompt: heroic scene, bright outdoor light, action, minimalist interior, sharp focus, harsh lighting, public spaces
   styleKeywords:
   - Intimism
   - domestic
   - quiet
   - patterned
   - post-impressionist
+  - decorative
+  - intimate
+  - psychological
 visualElements:
   colorPalette:
     primary:
@@ -20,18 +23,19 @@ visualElements:
     - complex grays and violets
     - cream
     - patterned colors
+    - amber tones
     background: interiors filled with patterned wallpaper, tablecloths, and fabrics
-    usageNotes: A complex, harmonious palette that captures the warmth and closeness of an interior space.
+    usageNotes: Complex, harmonious palette with Japanese print influence that captures warmth and closeness of interior space.
     saturation: medium, often muted by interior light
     contrast: low to medium, soft transitions
   lineArt:
     style: no strong outlines; forms are built from patches of color and texture
     weight: n/a
     color: n/a
-    texture: rich, painterly texture
+    texture: rich, painterly texture with decorative pattern influence
     edgeTreatment: soft, blurred, where colors and patterns meet
   lighting:
-    type: soft, warm interior light
+    type: soft, warm interior light with amber quality
     direction: from a lamp or window, creating a cozy, enclosed atmosphere
     intensity: gentle, diffused
     shadows:
@@ -40,14 +44,14 @@ visualElements:
       opacity: translucent
     highlights: gentle glows from light sources
   rendering:
-    technique: painterly application of oil paint, focusing on color relationships
-    texture: rich tapestry of brushwork, capturing the feel of fabric and wallpaper
-    detailLevel: moderate, with a focus on overall atmosphere rather than sharp detail
+    technique: painterly application of oil paint, focusing on color relationships with decorative arts influence
+    texture: rich tapestry of brushwork, capturing the feel of fabric and wallpaper patterns
+    detailLevel: moderate, with focus on overall atmosphere rather than sharp detail
     finish: matte, textured
   perspective: often unconventional, with flattened space and tilted angles that enhance the sense of intimacy
   mood:
     overall: intimate, quiet, contemplative
-    emotion: comfort, nostalgia, melancholy, tranquility
+    emotion: comfort, nostalgia, melancholy, tranquility, psychological depth, introspective
     tempo: slow, quiet, still
     keywords:
     - intimate
@@ -55,6 +59,9 @@ visualElements:
     - domestic
     - warm
     - contemplative
+    - psychological
+    - introspective
   stylePrecedents:
   - Édouard Vuillard
   - Pierre Bonnard
+  - Ker-Xavier Roussel

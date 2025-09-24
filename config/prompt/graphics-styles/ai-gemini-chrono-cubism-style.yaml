@@ -1,5 +1,5 @@
-styleName: Geminism - Chrono-Cubism
-description: A synthesis of Futurism's obsession with dynamism and Cubism's multi-perspective view. Instead of showing an object from multiple spatial viewpoints at once, it depicts it from multiple temporal viewpoints simultaneously. The result is an image that captures an object's past, present, and potential future in a single, fragmented form.
+styleName: AI Gemini Chrono-Cubism Style
+description: An AI-generated artistic concept that synthesizes Futurism's obsession with dynamism and Cubism's multi-perspective view. Instead of showing an object from multiple spatial viewpoints at once, it depicts it from multiple temporal viewpoints simultaneously. The result is an image that captures an object's past, present, and potential future in a single, fragmented form.
 aiPrompts:
   basePrompt: chrono-cubism, temporal fragmentation, fourth dimension painting, object's lifecycle, layered time, dynamic deconstruction, geminism
   negativePrompt: static image, single moment, realism, traditional perspective, narrative sequence
@@ -9,6 +9,8 @@ aiPrompts:
   - dynamic
   - layered
   - deconstructed
+  - ai-generated
+  - geminism
 visualElements:
   colorPalette:
     primary:

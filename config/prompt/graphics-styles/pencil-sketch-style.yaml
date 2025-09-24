@@ -1,13 +1,15 @@
 styleName: Pencil Sketch Style
-description: Traditional pencil drawing aesthetic with organic lines, crosshatching, and graphite textures
+description: Traditional pencil drawing aesthetic with organic lines, crosshatching, stippling, and graphite textures. Features blending techniques and paper tooth interaction.
 aiPrompts:
-  basePrompt: pencil sketch, graphite drawing, crosshatching, hand-drawn
+  basePrompt: pencil sketch, graphite drawing, crosshatching, stippling, hand-drawn, blending stumps, tortillion, eraser highlights
   negativePrompt: color, digital art, photo, painting, smooth gradients
   styleKeywords:
   - pencil
   - sketch
   - graphite
   - crosshatch
+  - stippling
+  - blending
   - hand-drawn
   - traditional art
 visualElements:
@@ -31,22 +33,22 @@ visualElements:
     style: organic, hand-drawn
     weight: variable (0.5-3px)
     color: grayscale
-    texture: rough, sketchy with visible breaks
-    edgeTreatment: natural variations, multiple overlapping strokes
+    texture: rough, sketchy with visible breaks, paper tooth interaction
+    edgeTreatment: natural variations, multiple overlapping strokes, line spacing affects value density
   lighting:
     type: traditional shading
     direction: typically top-left
     intensity: varies with pressure
     shadows:
-      style: crosshatching and scribbling
-      color: darker graphite tones
-      opacity: built up through layering
-    highlights: paper showing through or eraser marks
+      style: crosshatching, stippling, and scribbling
+      color: darker graphite tones with reflective shine
+      opacity: built up through layering and line density
+    highlights: paper showing through, eraser lifting, blending stump work
   rendering:
-    technique: traditional pencil on paper
-    texture: visible paper grain and tooth
+    technique: traditional pencil on paper with blending tools
+    texture: visible paper grain and tooth, graphite-paper interaction
     detailLevel: varies from loose to highly detailed
-    finish: intentionally incomplete with visible process
+    finish: intentionally incomplete with visible process and graphite shine
   perspective: traditional drawing perspectives
   mood:
     overall: artistic, unfinished, spontaneous
@@ -62,10 +64,12 @@ visualElements:
     effects:
     - paper texture
     - graphite smudging
+    - reflective graphite shine
     filters: none
     adjustments:
       saturation: '0'
       contrast: natural pencil contrast
   stylePrecedents:
-  - Leonardo da Vinci sketches
   - Academic drawing studies
+  - 19th century graphite sketches
+  - Contemporary pencil portraiture

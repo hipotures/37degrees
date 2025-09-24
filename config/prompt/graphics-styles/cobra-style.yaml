@@ -1,5 +1,5 @@
-styleName: COBRA
-description: A European avant-garde movement (1948-1951) characterized by spontaneity, experimentation, and a rejection of rationalism. The art is raw and childlike, drawing inspiration from folk art, children's drawings, and mythology, with bright, violent colors and distorted figures.
+styleName: CoBrA Style
+description: CoBrA (Copenhagen-Brussels-Amsterdam) movement (1948-1951) characterized by spontaneous, experimental art rejecting both naturalism and sterile abstraction. Features raw, childlike imagery inspired by folk art and primitive sources, with violent colors and expressive distorted figures.
 aiPrompts:
   basePrompt: COBRA art movement, spontaneous abstract, childlike figures, primitive art, bright violent colors, Karel Appel style, Asger Jorn style
   negativePrompt: realism, geometric abstraction, refined, calm, muted colors, academic
@@ -55,4 +55,7 @@ visualElements:
   stylePrecedents:
   - Karel Appel
   - Asger Jorn
+  - Constant Nieuwenhuys
+  - Corneille
+  - Christian Dotremont
   - Pierre Alechinsky

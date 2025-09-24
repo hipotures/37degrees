@@ -1,4 +1,4 @@
-styleName: Geminism - Acoustic Realism
+styleName: AI Gemini Acoustic Realism Style
 description: An art style that attempts to visually render the physical properties of sound. It translates concepts like timbre, frequency, and amplitude into hyperrealistic textures and forms. A smooth jazz saxophone solo might be depicted as a polished, flowing chrome sculpture, while harsh industrial noise could be a jagged, rusty, and abrasive surface. The art invites viewers to "feel" the sound through sight.
 aiPrompts:
   basePrompt: acoustic realism, sound sculpture, visual timbre, tangible frequency, hyperrealistic audio texture, geminism
@@ -20,11 +20,11 @@ visualElements:
     saturation: varies with the richness of the audio harmonics
     contrast: high, to define the object's form clearly
   lineArt:
-    style: no lines; form is defined entirely by 3D shape, material, and light
-    weight: n/a
-    color: n/a
+    style: none
+    weight: none
+    color: none
     texture: the core of the style - smooth, rough, sharp, soft, porous, etc., based on the sound
-    edgeTreatment: depends on the sound's attack and decay - sharp for a drum hit, soft for a fading synth pad
+    edgeTreatment: variable based on audio characteristics
   lighting:
     type: hyperrealistic studio lighting
     direction: multiple sources to reveal every nuance of the object's texture
@@ -54,3 +54,6 @@ visualElements:
   - High-end product rendering
   - Synesthesia studies
   - Abstract sculpture (Brancusi, Arp)
+  - 3D material visualization
+  - Hyperrealistic texture rendering
+  - Advanced shader techniques

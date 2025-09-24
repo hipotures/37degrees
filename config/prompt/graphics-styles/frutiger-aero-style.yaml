@@ -1,4 +1,4 @@
-styleName: Frutiger Aero
+styleName: Frutiger Aero Style
 description: A design aesthetic prevalent from the mid-2000s to the early 2010s, characterized by glossy textures, skeuomorphism, vibrant colors (especially blues and greens), and imagery of nature (water, bubbles, grass) and technology coexisting optimistically.
 aiPrompts:
   basePrompt: Frutiger Aero aesthetic, glossy interface, skeuomorphic design, vibrant blue and green, water bubbles, lens flare, rendered nature, optimistic technology, 2000s graphic design
@@ -57,5 +57,6 @@ visualElements:
     - humanistic
     - environmental
   stylePrecedents:
+  - Windows Vista Aero interface
   - Windows 7 Aero interface
   - Late 2000s product advertising (e.g., for tech or water brands)

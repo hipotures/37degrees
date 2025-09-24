@@ -1,61 +1,64 @@
-styleName: Noir Pulp Fiction Style
-description: Dark, high-contrast urban scenes with dramatic shadows, venetian blind lighting, and gritty atmosphere
+styleName: Film Noir Style
+description: Dark, high-contrast cinematographic scenes with dramatic shadows, venetian blind lighting, and sophisticated urban atmosphere
 aiPrompts:
-  basePrompt: film noir style, pulp fiction cover, dramatic shadows, venetian blinds, urban night, detective story
-  negativePrompt: bright, cheerful, colorful, soft, rural
+  basePrompt: film noir style, dramatic shadows, venetian blinds, urban night, cinematographic lighting, high contrast black and white
+  negativePrompt: bright, cheerful, colorful, soft, rural, cartoonish, oversaturated
   styleKeywords:
   - noir
-  - pulp
-  - detective
-  - urban
+  - cinematographic
   - dramatic
+  - urban
+  - shadows
   - mysterious
+  - sophisticated
 visualElements:
   colorPalette:
     primary:
     - deep blacks
     - stark whites
-    - blood red
+    - charcoal gray
     secondary:
-    - gunmetal gray
+    - silver highlights
     - amber streetlight
-    - neon accent
-    background: dark urban settings
-    usageNotes: Mostly monochromatic with rare color accents
-    saturation: low except for accents
-    contrast: extreme
+    - subtle smoke gray
+    background: dark urban settings with architectural elements
+    usageNotes: Predominantly monochromatic with subtle warm lighting accents
+    saturation: very low, desaturated
+    contrast: extreme high contrast
   lineArt:
-    style: sharp, angular
-    weight: bold with fine details
-    color: black
-    texture: rough, sketchy in shadows
-    edgeTreatment: hard-boiled, no softness
+    style: sharp, angular, architectural
+    weight: bold outlines with fine shadow details
+    color: deep black with gray gradations
+    texture: clean lines with atmospheric shadows
+    edgeTreatment: precise, cinematographic clarity
   lighting:
-    type: harsh, directional
-    direction: low angle, venetian blind patterns
-    intensity: extreme contrast
+    type: harsh directional with soft ambient
+    direction: low angle, venetian blind patterns, window shadows
+    intensity: extreme contrast between light and dark
     shadows:
-      style: deep, geometric
-      color: pure black
-      opacity: solid, dramatic
-    highlights: harsh, limited
+      style: deep, geometric, venetian blind patterns
+      color: pure black with gray gradations
+      opacity: solid dramatic shadows with subtle gradients
+    highlights: harsh, selective, cinematographic
   rendering:
-    technique: high contrast illustration
-    texture: gritty, urban textures
-    detailLevel: selective, focus on mood
-    finish: pulp magazine quality
-  perspective: dramatic angles, Dutch tilts
+    technique: high contrast cinematographic illustration
+    texture: smooth with atmospheric depth
+    detailLevel: selective focus on mood and atmosphere
+    finish: sophisticated film noir quality
+  perspective: dramatic angles, Dutch tilts, urban architecture
   mood:
-    overall: mysterious, dangerous, urban
-    emotion: suspicion, danger, fatalism
-    tempo: tense, suspenseful
+    overall: mysterious, sophisticated, atmospheric
+    emotion: suspense, intrigue, psychological tension
+    tempo: contemplative, suspenseful
     keywords:
     - mysterious
-    - dangerous
+    - sophisticated
+    - atmospheric
+    - psychological
+    - contemplative
     - urban
-    - gritty
-    - fatalistic
   stylePrecedents:
-  - Pulp magazine covers
-  - Film noir posters
-  - James M. Cain book covers
+  - Classic film noir cinematography
+  - Film noir movie posters
+  - Urban night photography
+  - Architectural shadow studies

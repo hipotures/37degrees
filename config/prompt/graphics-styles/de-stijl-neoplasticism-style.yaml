@@ -1,4 +1,4 @@
-styleName: De Stijl (Neoplasticism) Style
+styleName: De Stijl Neoplasticism Style
 description: A Dutch avant-garde movement from the early 20th century aiming for pure abstraction and universal harmony through the exclusive use of straight vertical and horizontal lines and primary colors (red, blue, yellow) with black, white, and gray.
 aiPrompts:
   basePrompt: de stijl art, neoplasticism, primary colors, grid layout, black lines, geometric abstraction, Piet Mondrian style
@@ -59,3 +59,10 @@ visualElements:
   - Piet Mondrian
   - Theo van Doesburg
   - Gerrit Rietveld
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

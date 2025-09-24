@@ -9,17 +9,20 @@ aiPrompts:
   - spray paint
   - urban
   - bold
+  - wildstyle
+  - throw-up
+  - tag
 visualElements:
   colorPalette:
     primary:
-    - neon pink
-    - lime green
-    - bright blue
-    - orange
+    - "#FF1493"  # neon pink
+    - "#32CD32"  # lime green
+    - "#00BFFF"  # bright blue
+    - "#FF8C00"  # orange
     secondary:
-    - black
-    - white
-    - concrete gray
+    - "#000000"  # black
+    - "#FFFFFF"  # white
+    - "#808080"  # concrete gray
     background: raw concrete or brick wall
     usageNotes: High saturation colors with dark outlines on a neutral wall background
     saturation: high
@@ -58,3 +61,23 @@ visualElements:
   stylePrecedents:
   - Banksy street art
   - NYC hip-hop graffiti murals
+  - TAKI 183 pioneering tags
+  - Tracy 168 wildstyle
+  - Wild Style crew lettering
+  - Blek le Rat stencil work
+  - Shepard Fairey poster art
+postProcessing:
+  effects:
+  - spray paint texture overlay
+  - wall distressing
+  - paint drip effects
+  - overspray simulation
+  filters:
+  - urban grit enhancement
+  - color saturation boost
+  - contrast adjustment
+  adjustments:
+    contrast: +15%
+    saturation: +20%
+    texture: wall surface roughening
+    weathering: moderate urban wear

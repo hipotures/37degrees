@@ -1,8 +1,8 @@
 styleName: Line Art Style
-description: Clean, minimalist line drawings with bold outlines and no shading or color fills
+description: Clean, minimalist line drawings with bold outlines and no shading or color fills, characterized by contour-based forms typical in technical drawings and iconographic design
 aiPrompts:
-  basePrompt: line art, bold outline, simplistic, white background, 2d
-  negativePrompt: photo, digital art, greyscale, solid black, painting, shading
+  basePrompt: line art, bold outline, simplistic, white background, 2d, no shading, no fill, outline only
+  negativePrompt: photo, digital art, greyscale, painting, shading, color fill, gradient, texture, 3d rendering, shadows
   styleKeywords:
   - line art
   - outline
@@ -12,9 +12,9 @@ aiPrompts:
 visualElements:
   colorPalette:
     primary:
-    - '#000000'
+    - pure black
     secondary:
-    - '#FFFFFF'
+    - pure white
     background: pure white
     usageNotes: Black lines on white background only
     saturation: n/a
@@ -22,7 +22,7 @@ visualElements:
   lineArt:
     style: bold outlines only
     weight: uniform thickness
-    color: '#000000'
+    color: pure black
     texture: smooth, clean
     edgeTreatment: crisp, vector-like
   lighting:
@@ -51,5 +51,9 @@ visualElements:
     - modern
     - clear
   stylePrecedents:
+  - Leonardo da Vinci technical drawings
+  - Aubrey Beardsley illustrations
+  - Modern logo design work
   - Technical diagram illustrations
-  - Logo design outlines
+  - Architectural blueprint style
+  - Scientific illustration outlines

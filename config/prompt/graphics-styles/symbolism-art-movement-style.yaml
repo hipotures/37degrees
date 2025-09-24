@@ -1,5 +1,5 @@
 styleName: Symbolism Art Movement Style
-description: Late 19th-century art movement that rejected realism in favor of a world of dreams, myths, and the subconscious. Works are full of symbols, mood, and often have a mystical or dreamlike character.
+description: Dreamlike, mystical artistic style with symbolic content, mysterious atmosphere, and literary themes featuring flowing forms and deep symbolic meanings.
 aiPrompts:
   basePrompt: symbolism painting, mythological, dreamlike, mysterious atmosphere, literary themes, femme fatale, spiritual, melancholic, Gustave Moreau style
   negativePrompt: realism, impressionism, objective, mundane, bright and cheerful, direct representation

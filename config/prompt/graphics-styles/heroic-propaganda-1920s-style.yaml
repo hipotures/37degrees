@@ -22,27 +22,20 @@ visualElements:
     - '#DC143C'  # revolutionary red
     - '#000000'  # bold black
     - '#FFFFFF'  # stark white
-    - '#D4B896'  # workers' beige/kraft paper
     secondary:
+    - '#D4B896'  # workers' beige/kraft paper
     - '#808080'  # industrial grey
-    - '#2F4F4F'  # dark slate grey
-    - '#8B7355'  # darker beige/brown
-    - '#FFD700'  # accent gold (for stars, wheat)
+    - '#FFD700'  # accent gold
     background: solid color blocks, no gradients, paper texture acceptable
-    usageNotes: Maximum 3-4 colors per composition. Red as primary ideological color, black for strong contours and text. Beige mimics period poster paper. High contrast essential.
+    usageNotes: Maximum 3-4 colors per composition, red as primary ideological color, high contrast essential
     saturation: high for red, desaturated for neutrals
     contrast: maximum, stark divisions
   lineArt:
     style: bold geometric contours, angular simplified forms, industrial precision
-    weight: extra thick (8-12px equivalent), uniform throughout
-    color: pure black (#000000) or reversed white on dark
+    weight: extra thick, uniform throughout
+    color: pure black or reversed white on dark
     texture: clean vector-like, no texture within lines
-    edgeTreatment: sharp angles, decisive corners, no curves except in human forms
-  composition:
-    layout: dynamic diagonals, asymmetric balance, upward movement
-    hierarchy: single dominant element (usually figure), supporting geometric shapes
-    gridSystem: constructivist angular grid, often tilted 15-30 degrees
-    whitespace: used as active design element, not passive background
+    edgeTreatment: sharp angles, decisive corners, minimal curves
   lighting:
     type: flat graphic lighting, no realistic light sources
     direction: implied upward illumination for heroic effect
@@ -50,33 +43,18 @@ visualElements:
     shadows:
       style: geometric drop shadows only if needed
       color: pure black or darker tone of base
-      opacity: 100% solid, no transparency
-      offset: consistent 45-degree angle
-    highlights: none, or minimal white accents for emphasis
+      opacity: solid, no transparency
+    highlights: minimal white accents for emphasis
   rendering:
     technique: lithograph/screen print simulation, vector-style clarity
     texture: optional subtle paper grain, otherwise completely flat
     detailLevel: reduced to essential symbolic elements only
     finish: matte poster finish, no glossy effects
-    printEffects: slight registration offset acceptable (authentic touch)
-  perspective:
-    type: forced perspective from low angle (worm's eye view)
-    vanishingPoints: often ignored for symbolic impact
-    distortion: acceptable for dramatic/heroic effect
-    depth: minimal, mostly flat with slight overlap for hierarchy
-  typography:
-    integration: typography AS design element, not added to design
-    style: bold sans-serif, constructed letterforms, custom geometric
-    weight: black or ultra-bold only
-    layout: diagonal placement common, integrated with imagery
-    effects: outlined, 3D extrusion, or drop shadow for impact
-    cyrillicInfluence: even in Latin text, angular construction
-    sizes: extreme contrast between sizes (huge headlines, tiny credits)
+  perspective: forced perspective from low angle for heroic effect, minimal depth with slight overlap for hierarchy
   mood:
     overall: heroic, revolutionary, urgent, triumphant
     emotion: determination, collective strength, forward momentum, optimism
     tempo: dynamic, march-like rhythm, visual percussion
-    energy: explosive, ascending, breakthrough
     keywords:
     - heroic triumph
     - revolutionary fervor
@@ -86,19 +64,11 @@ visualElements:
     - monumental scale
     - urgent action
     - optimistic future
-  symbolism:
-    common: hammer/sickle, gear wheels, wheat, stars, raised fists
-    figures: workers, soldiers, peasants in heroic poses
-    abstract: lightning bolts, sunrise rays, diagonal shafts
-    architectural: factories, construction, modern buildings
   stylePrecedents:
-  - Alexander Rodchenko (photomontage, diagonal compositions)
-  - El Lissitzky (Beat the Whites with the Red Wedge)
-  - Gustav Klutsis (dynamic photomontage)
-  - Dmitry Moor (classical propaganda posters)
-  - Vladimir Mayakovsky (ROSTA windows)
-  - Varvara Stepanova (textile and poster designs)
-  - Constructivist movement (1919-1934)
-  - Suprematist influence (geometric abstraction)
-  - Bauhaus poster design
-  - John Heartfield (political photomontage)
+  - Alexander Rodchenko
+  - El Lissitzky
+  - Gustav Klutsis
+  - Dmitry Moor
+  - Vladimir Mayakovsky
+  - Varvara Stepanova
+  - Constructivist movement

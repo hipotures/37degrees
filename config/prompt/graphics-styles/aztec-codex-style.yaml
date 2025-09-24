@@ -1,5 +1,5 @@
 styleName: Aztec Codex Style
-description: Stylized pre-Columbian Aztec art with flat figures, geometric symbols, and earthy colors on aged parchment
+description: Stylized pre-Columbian Aztec art with flat figures, geometric symbols, and earthy colors on amate bark paper
 aiPrompts:
   basePrompt: Aztec codex illustration, flat ceremonial art, geometric glyphs, ancient manuscript
   negativePrompt: modern realism, perspective depth, shading, digital polish
@@ -7,6 +7,7 @@ aiPrompts:
   - Aztec
   - codex
   - glyphic
+  - pictographic
   - ancient
   - flat
 visualElements:
@@ -20,7 +21,7 @@ visualElements:
     - black
     - white
     - olive green
-    background: aged tan parchment
+    background: natural amate bark paper (light brown with fibrous texture)
     usageNotes: Natural pigment tones with high-contrast outlines
     saturation: medium
     contrast: high
@@ -40,8 +41,8 @@ visualElements:
       opacity: n/a
     highlights: none
   rendering:
-    technique: flat pigments on amate paper
-    texture: slightly rough, fibrous paper
+    technique: flat pigments on amate bark paper
+    texture: fibrous amate bark paper with corrugated surface patterns
     detailLevel: moderate (stylized detail in patterns)
     finish: matte, hand-drawn
   perspective: flat, narrative panels

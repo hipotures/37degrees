@@ -1,5 +1,5 @@
-styleName: Ashcan School
-description: An American realist art movement from the early 20th century, known for portraying scenes of daily life in New York's poorer neighborhoods. The style is characterized by a dark palette, painterly brushwork, and a gritty, unidealized depiction of the urban environment.
+styleName: Ashcan School Style
+description: An American realist art movement from the early 20th century, known for portraying scenes of daily urban working-class life with journalistic immediacy. The style is characterized by a dark palette, rapid painterly brushwork, and a gritty, unidealized depiction of the urban environment.
 aiPrompts:
   basePrompt: Ashcan School painting, gritty urban scene, early 20th century New York, dark palette, painterly realism, everyday life, Robert Henri style
   negativePrompt: idealized, academic painting, bright colors, rural landscape, aristocracy
@@ -40,7 +40,7 @@ visualElements:
       opacity: heavy, painterly
     highlights: quick, energetic dabs of lighter paint
   rendering:
-    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    technique: alla prima (wet-on-wet) oil painting, executed quickly with journalistic immediacy
     texture: visible, energetic brushstrokes, sometimes thick impasto
     detailLevel: moderate, focusing on mood and character over fine detail
     finish: painterly, raw, energetic
@@ -59,3 +59,13 @@ visualElements:
   - Robert Henri
   - George Bellows
   - John Sloan
+postProcessing:
+  effects:
+  - film grain
+  - painterly texture
+  filters:
+  - subtle vignette
+  - urban atmosphere
+  adjustments:
+    saturation: -20%
+    contrast: +10%

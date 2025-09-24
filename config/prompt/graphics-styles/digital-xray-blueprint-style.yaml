@@ -13,8 +13,8 @@ aiPrompts:
 visualElements:
   colorPalette:
     primary:
-    - cyan blue glow
-    - magenta pink highlights
+    - electric cyan
+    - electric magenta
     - electric yellow accents
     secondary:
     - white technical lines

@@ -1,7 +1,7 @@
 styleName: Psychedelic Poster Style
 description: Mind-bending 1960s-1970s poster art with swirling patterns, vibrating colors, distorted typography, and optical illusions. Features organic flowing forms, kaleidoscopic imagery, and counter-culture aesthetics.
 aiPrompts:
-  basePrompt: psychedelic poster 1960s, swirling patterns, vibrant neon colors, melting letters, optical illusion, art nouveau influence, flowing organic forms, kaleidoscopic design, trippy visuals, concert poster style, hand-lettered typography
+  basePrompt: psychedelic poster 1960s fillmore poster, swirling patterns, vibrant neon colors, melting letters, optical illusion, art nouveau influence, flowing organic forms, kaleidoscopic design, trippy visuals, concert poster style, hand-lettered typography
   negativePrompt: minimalist, corporate, straight lines, muted colors, readable text, conventional layout, geometric precision, swiss design, modern clean
   styleKeywords:
   - psychedelic

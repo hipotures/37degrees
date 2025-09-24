@@ -1,7 +1,7 @@
 styleName: Italian Futurism Style
 description: Early 20th-century movement glorifying dynamism, speed, technology, and modernity through visual representation of movement and simultaneity
 aiPrompts:
-  basePrompt: italian futurism, dynamic movement, speed lines, mechanical forms, industrial technology, simultaneous motion
+  basePrompt: italian futurism, dynamic movement, force lines, mechanical forms, industrial technology, simultaneous motion
   negativePrompt: static composition, traditional themes, pastoral scenes, slow movement, classical art
   styleKeywords:
   - italian futurism
@@ -12,15 +12,15 @@ aiPrompts:
 visualElements:
   colorPalette:
     primary:
-    - metallic silver
-    - industrial yellow
-    - machine red
+    - vibrant red
+    - electric blue
+    - bright yellow
     secondary:
-    - steel blue
-    - black
-    - white highlights
+    - metallic silver
+    - pure white
+    - deep black
     background: industrial or urban environments showing movement
-    usageNotes: Bold, industrial colors suggesting machinery and speed
+    usageNotes: Vibrant, pure colors inspired by Divisionism with high saturation
     saturation: high (bold, energetic colors)
     contrast: high (dynamic visual impact)
   lineArt:

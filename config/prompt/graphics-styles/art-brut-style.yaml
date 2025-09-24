@@ -1,8 +1,8 @@
 styleName: Art Brut Style
-description: Raw, outsider art aesthetic with childlike spontaneity, rough textures, and uninhibited expression over polish
+description: Raw, outsider art aesthetic created by marginalized individuals with spontaneous, rough textures, and uninhibited expression over polish
 aiPrompts:
   basePrompt: art brut painting, naive art, raw textures, expressive, unrefined
-  negativePrompt: polished, academic, realistic proportions, refined detail
+  negativePrompt: polished, academic, realistic proportions, refined detail, trained artist, art school, conventional techniques, commercial art
   styleKeywords:
   - art brut
   - outsider art
@@ -30,7 +30,7 @@ visualElements:
     texture: rough, uneven strokes
     edgeTreatment: jagged, irregular edges
   lighting:
-    type: none realistic (flat or arbitrary color use)
+    type: non-realistic (flat or arbitrary color use)
     direction: n/a
     intensity: n/a
     shadows:
@@ -56,4 +56,7 @@ visualElements:
     - chaotic
   stylePrecedents:
   - Jean Dubuffet
+  - Adolf Wölfli
+  - Aloïse Corbaz
+  - Henry Darger
   - Outsider art galleries

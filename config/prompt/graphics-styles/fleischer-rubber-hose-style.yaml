@@ -16,11 +16,11 @@ visualElements:
     - black and white
     - limited grayscale
     secondary:
-    - sepia tones
-    - occasional limited colors
-    background: urban Depression-era settings
-    usageNotes: Primarily black and white with high contrast
-    saturation: minimal - mostly monochrome
+    - minimal sepia tones
+    - rare limited colors
+    background: simple line work backgrounds with minimal detail and stark geometric shapes
+    usageNotes: Primarily black and white with high contrast, minimal color usage
+    saturation: monochromatic - predominantly black and white
     contrast: high black and white contrast
   lineArt:
     style: flowing continuous curves
@@ -42,7 +42,7 @@ visualElements:
     texture: smooth ink surfaces
     detailLevel: simplified with focus on movement
     finish: vintage film grain quality
-  perspective: theatrical staging
+  perspective: flat theatrical staging with minimal depth
   mood:
     overall: surreal, bouncy, jazz-age energy
     emotion: playful with dark undertones
@@ -52,8 +52,15 @@ visualElements:
     - bouncy
     - jazzy
     - playful
-    - macabre
+    - mischievous
   stylePrecedents:
   - Betty Boop cartoons
   - Popeye the Sailor
   - Koko the Clown
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

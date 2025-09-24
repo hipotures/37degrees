@@ -1,26 +1,31 @@
 styleName: American Traditional Tattoo Style
 description: Classic tattoo style with bold black outlines, limited color palette, and iconic nautical and Americana motifs
 aiPrompts:
-  basePrompt: American traditional tattoo, bold black outline, sailor tattoo, nautical motifs, limited colors
-  negativePrompt: realistic shading, photorealistic, fine details, modern tattoo, watercolor
+  basePrompt: American traditional tattoo, flash art, bold black outline, sailor tattoo, nautical motifs, limited colors, screen print aesthetic, vintage tattoo
+  negativePrompt: realistic shading, photorealistic, fine details, modern tattoo, watercolor, gradients, soft edges, realistic skin texture
   styleKeywords:
   - traditional tattoo
+  - flash art
   - bold outline
   - nautical
   - sailor
   - americana
+  - old school
+  - Norman Collins
+  - screen print
 visualElements:
   colorPalette:
     primary:
-    - bold red
-    - navy blue
-    - black
+    - "#FF0000"  # red
+    - "#FFFF00"  # yellow
+    - "#008000"  # green
+    - "#000000"  # black
     secondary:
-    - yellow
-    - green
-    - skin tone
-    background: skin tone or simple background
-    usageNotes: Limited palette designed for skin application
+    - "#0000FF"  # navy blue
+    - "#8B4513"  # brown
+    - "#FFA500"  # orange
+    background: solid color or simple geometric background
+    usageNotes: Limited palette with bold, saturated colors
     saturation: high (bold, vibrant colors)
     contrast: very high (bold black outlines)
   lineArt:
@@ -30,19 +35,19 @@ visualElements:
     texture: smooth, solid lines
     edgeTreatment: rounded ends, smooth curves
   lighting:
-    type: flat lighting with minimal shading
-    direction: even, front-lit
-    intensity: consistent
+    type: flat, even lighting with solid color blocking
+    direction: front-lit, no directional shadows
+    intensity: consistent, bright
     shadows:
-      style: simple solid color shadows
-      color: darker version of base color
-      opacity: solid
-    highlights: minimal, solid color highlights
+      style: solid color fills, no gradients
+      color: darker solid color version
+      opacity: 100% solid
+    highlights: none or minimal solid color highlights
   rendering:
-    technique: simplified, iconic representation
-    texture: smooth, flat colors
-    detailLevel: moderate (clear iconic details)
-    finish: flat, bold appearance
+    technique: solid color fill, no gradients, screen printing aesthetic
+    texture: flat, smooth color blocks
+    detailLevel: simplified iconic details with bold clarity
+    finish: flat, matte appearance like vintage screen prints
   perspective: simple, frontal views
   mood:
     overall: bold, iconic, maritime
@@ -55,5 +60,20 @@ visualElements:
     - maritime
     - strong
   stylePrecedents:
-  - Sailor Jerry Collins tattoos
-  - Norman Collins flash sheets
+  - Norman Collins (Sailor Jerry) flash sheets
+  - Ed Hardy traditional work
+  - Bert Grimm tattoo designs
+  - 1940s-1950s American tattoo flash art
+postProcessing:
+  effects:
+  - vintage paper texture
+  - screen print simulation
+  - slight ink bleeding effect
+  filters:
+  - color saturation boost
+  - contrast enhancement
+  - vintage color grading
+  adjustments:
+  - increase line weight consistency
+  - flatten color gradients
+  - enhance solid color blocks

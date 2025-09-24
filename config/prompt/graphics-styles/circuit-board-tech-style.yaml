@@ -1,8 +1,8 @@
 styleName: Circuit Board Tech Style
-description: Graphic style resembling a circuit board with intricate pathways, electronic components, and a high-tech green-and-gold visual theme
+description: Graphic style resembling a circuit board with intricate pathways, electronic components, solder points, vias, and a high-tech green-and-gold visual theme with white silkscreen labeling
 aiPrompts:
-  basePrompt: circuit board illustration, PCB aesthetic, gold traces, microchips, electronic pattern
-  negativePrompt: organic shapes, soft gradients, hand-drawn, chaos
+  basePrompt: circuit board illustration, PCB aesthetic, gold traces, microchips, electronic pattern, solder points, vias, silkscreen labeling
+  negativePrompt: organic shapes, soft gradients, hand-drawn, chaos, bloated traces, irregular spacing, amateur routing, messy wiring
   styleKeywords:
   - circuit board
   - PCB
@@ -17,8 +17,8 @@ visualElements:
     secondary:
     - black background
     - white labeling
-    background: deep green or black board
-    usageNotes: Metallic gold traces on green substrate; minimal accent colors
+    background: deep green FR-4 substrate or black board
+    usageNotes: Metallic gold traces on green FR-4 substrate; minimal accent colors
     saturation: medium
     contrast: high
   lineArt:
@@ -38,7 +38,7 @@ visualElements:
     highlights: glints on copper traces
   rendering:
     technique: vector/CAD design style
-    texture: smooth board, tiny solder dot texture
+    texture: smooth FR-4 board, tiny solder dot texture, via holes
     detailLevel: high (dense circuits and text)
     finish: semi-gloss board, metallic highlights
   perspective: top-down or slight isometric view

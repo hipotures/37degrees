@@ -1,59 +1,66 @@
 styleName: Tapestry Weaving Style
-description: Textile art creating narrative images through woven fibers, featuring rich textures, storytelling elements, and medieval or renaissance themes
+description: Weft-faced weaving technique creating narrative images through interlaced warp and weft threads, featuring millefleur backgrounds, metallic thread highlights, and medieval storytelling themes
 aiPrompts:
-  basePrompt: tapestry weaving, textile art, woven threads, narrative scenes, medieval themes, rich fabric texture
-  negativePrompt: smooth painting, modern themes, photographic detail, canvas art, contemporary style
+  basePrompt: tapestry weaving, weft-faced weaving, interlaced threads, millefleur background, metallic threads, silk threads, cartoon-based design, medieval narrative scenes, botanical accuracy, Brussels tapestry tradition
+  negativePrompt: embroidery, smooth painting, modern themes, photographic detail, canvas art, contemporary style, stitched surface, needlework
   styleKeywords:
-  - tapestry
-  - weaving
-  - textile art
-  - narrative
-  - medieval
+  - tapestry weaving
+  - weft-faced weaving
+  - millefleur
+  - metallic threads
+  - silk integration
+  - cartoon design
+  - medieval narrative
+  - botanical backgrounds
 visualElements:
   colorPalette:
     primary:
     - rich burgundy
     - royal blue
-    - gold thread
+    - gold metallic thread
     secondary:
     - forest green
     - ivory white
     - deep purple
-    background: woven textile backgrounds with narrative scenes
-    usageNotes: Rich, saturated colors typical of medieval dyes and threads
-    saturation: high (rich textile dyes)
-    contrast: medium (woven texture softens contrasts)
+    - silk thread sheen
+    background: millefleur botanical backgrounds with thousand flowers pattern
+    usageNotes: Natural dye limitations of medieval period with metallic thread highlights and silk sheen integration
+    saturation: high (rich textile dyes with metallic accents)
+    contrast: medium (weft-faced weaving texture softens contrasts)
   lineArt:
-    style: woven thread outlines, textile construction
-    weight: defined by thread thickness
-    color: colored threads forming outlines
-    texture: woven thread texture throughout
-    edgeTreatment: soft, textile edges
+    style: weft thread construction defining forms
+    weight: varying thread thickness creating depth
+    color: colored weft threads forming outlines
+    texture: weft-faced weaving texture with visible thread gradation
+    edgeTreatment: soft, woven thread edges
   lighting:
-    type: flat, decorative lighting (not naturalistic)
-    direction: even, decorative illumination
-    intensity: consistent, textile-appropriate
+    type: thread gradation modeling with metallic highlights
+    direction: sophisticated shading through weft thread transitions
+    intensity: consistent with metallic thread accent points
     shadows:
-      style: minimal, decorative shadows
-      color: darker thread colors
-      opacity: woven into textile
-    highlights: lighter colored threads
+      style: thread gradation shadows
+      color: darker weft thread transitions
+      opacity: integrated into weave structure
+    highlights: metallic gold and silver thread highlights
   rendering:
-    technique: woven thread construction
-    texture: visible woven thread texture throughout
-    detailLevel: moderate (limited by weaving technique)
-    finish: textile surface with visible weave
-  perspective: medieval perspective, often hierarchical
+    technique: weft-faced weaving construction following cartoon patterns
+    texture: visible weft thread texture with varying thickness creating modeling
+    detailLevel: moderate (limited by weaving technique precision)
+    finish: textile surface showing warp and weft thread integration
+  perspective: multiple medieval perspective systems simultaneously
   mood:
-    overall: narrative, crafted, historical
-    emotion: storytelling, craftsmanship, tradition
-    tempo: measured, narrative
+    overall: narrative, crafted, botanical richness
+    emotion: storytelling, textile craftsmanship, courtly tradition
+    tempo: measured, narrative unfolding
     keywords:
     - narrative
+    - botanical
     - crafted
-    - historical
-    - traditional
+    - courtly
     - storytelling
+    - textile mastery
   stylePrecedents:
-  - Bayeux Tapestry
-  - Unicorn Tapestries
+  - Lady and the Unicorn tapestry series
+  - Unicorn Tapestries (Cloisters)
+  - Brussels tapestry tradition
+  - Flemish weaving centers

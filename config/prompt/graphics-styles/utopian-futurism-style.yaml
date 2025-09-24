@@ -1,59 +1,65 @@
 styleName: Utopian Futurism Style
-description: Idealistic vision of a perfect future featuring harmony, clean aesthetics, advanced technology seamlessly integrated into daily life, and social perfection
+description: Dynamic technological optimism featuring streamlined forms, geometric architecture, integrated advanced technology, and progressive movement aesthetics
 aiPrompts:
-  basePrompt: utopian future city, perfect harmony, clean white architecture, advanced technology, peaceful society, bright lighting, ideal civilization
-  negativePrompt: dystopian, dark, polluted, conflict, decay, industrial grime, oppression
+  basePrompt: utopian future city, streamlined architecture, dynamic geometric forms, technological integration, progressive movement, bright energetic colors, aerodynamic shapes, machine aesthetics
+  negativePrompt: dystopian, static, decay, industrial grime, oppression, stagnation, primitive technology
   styleKeywords:
-  - utopian
-  - perfect future
-  - harmony
-  - advanced technology
-  - ideal society
+  - utopian futurism
+  - dynamic progress
+  - technological optimism
+  - streamlined forms
+  - geometric architecture
+  - aerodynamic design
 visualElements:
   colorPalette:
     primary:
-    - pure white
-    - sky blue
-    - clean silver
+    - "#5fb7cf"
+    - "#5a79c8"
+    - "#c0c0c0"
     secondary:
-    - soft gold
-    - gentle green
-    - crystal clear
-    background: bright, clean environments or perfect cityscapes
-    usageNotes: Clean, pure colors suggesting perfection and harmony
-    saturation: medium (pleasant, not overwhelming)
-    contrast: low to medium (gentle, harmonious)
+    - "#ffd700"
+    - "#40e0d0"
+    - "#e6e6fa"
+    background: dynamic technological environments with integrated lighting
+    usageNotes: Vibrant energetic colors emphasizing technological progress
+    saturation: medium-high (energetic, optimistic)
+    contrast: medium to high (dynamic, progressive)
   lineArt:
-    style: clean, perfect geometric lines
-    weight: consistent, refined
-    color: subtle, harmonious outlines
-    texture: smooth, flawless surfaces
-    edgeTreatment: perfect, seamless edges
+    style: streamlined geometric forms with speed elements
+    weight: variable, emphasizing movement and direction
+    color: chrome and metallic accents
+    texture: sleek technological surfaces
+    edgeTreatment: aerodynamic curves and sharp geometric edges
   lighting:
-    type: perfect, even illumination
-    direction: ambient, omnipresent light
-    intensity: bright but never harsh
+    type: integrated architectural illumination
+    direction: dramatic directional with technological sources
+    intensity: bright with dynamic contrasts
     shadows:
-      style: minimal, soft shadows
-      color: very light grays
-      opacity: barely visible
-    highlights: gentle, perfect highlights
+      style: geometric shadows emphasizing form
+      color: cool blue-grays
+      opacity: medium for depth and dimension
+    highlights: chrome reflections and metallic surfaces
   rendering:
-    technique: flawless digital perfection
-    texture: smooth, perfect surfaces
-    detailLevel: high (perfect craftsmanship)
-    finish: pristine, flawless
-  perspective: harmonious, balanced compositions
+    technique: sleek technological precision
+    texture: metallic, glass, and composite materials
+    detailLevel: high technological detail integration
+    finish: chrome, brushed metal, glass surfaces
+  perspective: dynamic compositions with movement emphasis
   mood:
-    overall: perfect, peaceful, harmonious
-    emotion: serenity, satisfaction, perfection
-    tempo: calm, steady
+    overall: progressive, optimistic, technologically enthusiastic
+    emotion: excitement about future progress, technological wonder
+    tempo: dynamic, energetic, forward-moving
     keywords:
-    - perfect
-    - peaceful
-    - harmonious
-    - serene
-    - ideal
+    - progressive
+    - technological
+    - dynamic
+    - optimistic
+    - energetic
+    - futuristic
   stylePrecedents:
-  - THX 1138 white environments
-  - Star Trek utopian technology
+  - Antonio Sant'Elia Città Nuova architecture
+  - Streamline Moderne design movement
+  - Art Deco futuristic elements
+  - Apple Store architectural aesthetics
+  - Tesla design language
+  - THX 1138 technological environments

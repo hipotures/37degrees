@@ -9,6 +9,7 @@ aiPrompts:
   - layered
   - textural
   - experimental
+  - found objects
 visualElements:
   colorPalette:
     primary:
@@ -54,6 +55,15 @@ visualElements:
     - layered
     - rich
     - diverse
+  postProcessing:
+    effects:
+    - texture overlays
+    - paper textures
+    - material blending
+    filters: none
+    adjustments:
+      saturation: varies by material source
+      contrast: high between different media layers
   stylePrecedents:
-  - Robert Rauschenberg combines
+  - Robert Rauschenberg Combines
   - Kurt Schwitters Merz collages

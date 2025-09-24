@@ -57,3 +57,12 @@ visualElements:
   stylePrecedents:
   - Van Gogh brush technique
   - Frans Hals loose painting
+postProcessing:
+  effects:
+  - canvas texture
+  - visible brushwork
+  - paint thickness variation
+  filters: none
+  adjustments:
+    saturation: medium to high (rich paint colors)
+    contrast: medium (soft paint transitions)

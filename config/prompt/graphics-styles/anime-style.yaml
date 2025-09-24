@@ -1,8 +1,8 @@
 styleName: Anime Style
-description: Japanese animation aesthetic with bold outlines, cel-shaded coloring, and expressive character design
+description: Japanese animation aesthetic with large expressive eyes, bold outlines, cel-shaded coloring, colorful hair, dynamic poses, and distinctive character design typical of Japanese anime
 aiPrompts:
-  basePrompt: anime, bold outline, cel-shaded coloring, shounen, seinen
-  negativePrompt: photo, greyscale, solid black, painting, realistic
+  basePrompt: anime, Japanese anime character, large expressive eyes, colorful hair, dynamic pose, bold outline, cel-shaded coloring, studio quality animation, shounen, seinen
+  negativePrompt: photo, greyscale, solid black, painting, realistic, western animation, 3D render, live action
   styleKeywords:
   - anime
   - manga
@@ -10,24 +10,33 @@ aiPrompts:
   - shounen
   - seinen
   - Japanese animation
+  - large eyes
+  - expressive eyes
+  - colorful hair
+  - dynamic pose
+  - kawaii
+  - moe
 visualElements:
   colorPalette:
     primary:
     - bright vibrant colors
     - pastel tones
+    - anime hair colors (pink, blue, green, purple)
     secondary:
     - darker shades for shadows
     - highlight colors
-    background: often simple or gradient backgrounds
-    usageNotes: Flat colors with cel shading, limited gradients
+    - anime skin tones
+    background: often simple or gradient backgrounds, gradient skies
+    usageNotes: Flat colors with cel shading, limited gradients, distinctive eye colors
     saturation: high
     contrast: medium to high
   lineArt:
-    style: bold outline
-    weight: thick black lines
+    style: bold outline with variable weights
+    weight: thick black lines for outlines, thinner for details
     color: '#000000'
     texture: clean, smooth
     edgeTreatment: crisp and defined
+    specialFeatures: hair animation effects, dynamic line variation
   lighting:
     type: cel-shaded
     direction: typically top or three-quarter
@@ -36,23 +45,54 @@ visualElements:
       style: flat colors with cel shading
       color: darker version of base color
       opacity: solid
-    highlights: bright spots on hair and eyes
+    highlights: bright spots on hair and eyes, dramatic eye highlights, hair shine effects
   rendering:
-    technique: digital cel animation style
+    technique: digital cel animation style, limited animation heritage
     texture: smooth, clean surfaces
-    detailLevel: moderate with focus on expression
+    detailLevel: moderate with focus on expression and large eyes
     finish: polished, professional anime look
+    technicalNotes: cell animation techniques, frame rate considerations
   perspective: varied, often dynamic for action scenes
   mood:
     overall: expressive and stylized
-    emotion: varies by genre - energetic for shounen, mature for seinen
+    emotion: varies by genre - energetic for shounen, mature for seinen, cute for kawaii/moe
     tempo: dynamic
+    genreVariations:
+    - shoujo: soft, romantic, delicate features
+    - shounen: energetic, action-oriented, bold expressions
+    - seinen: mature, detailed, complex emotions
+    - josei: realistic emotions, subtle expressions
     keywords:
     - expressive
     - stylized
     - Japanese
     - animated
+    - kawaii
+    - moe
   stylePrecedents:
   - Studio Ghibli
   - Makoto Shinkai
+  - Osamu Tezuka
+  - Madhouse Studio
+  - Bones Studio
+  - MAPPA Studio
+  - Kyoto Animation
+  - Hayao Miyazaki
+  - Satoshi Kon
   - classic manga artists
+postProcessing:
+  effects:
+  - screen tone effects
+  - digital cel animation finish
+  - bright highlights on hair and eyes
+  - flat color rendering
+  - anime-style eye shine
+  filters:
+  - color saturation enhancement
+  - contrast optimization for cel shading
+  - brightness adjustment for anime look
+  adjustments:
+    saturation: high (1.2-1.4)
+    contrast: medium-high (1.1-1.3)
+    brightness: slightly enhanced (1.05-1.1)
+    sharpening: moderate for clean lines

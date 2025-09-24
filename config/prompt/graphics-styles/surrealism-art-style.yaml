@@ -15,12 +15,14 @@ visualElements:
     - dream blues
     - flesh tones
     - earth browns
+    - acidic yellows
+    - electric blues
     secondary:
     - sunset oranges
     - deep shadows
     - ethereal whites
     background: dreamlike landscapes or impossible spaces
-    usageNotes: Colors may be hyper-realistic or completely unnatural
+    usageNotes: Contrast between hyper-realistic and impossible colors, often acidic or electric variations
     saturation: varies (realistic to impossible)
     contrast: high (dramatic light and shadow)
   lineArt:
@@ -57,3 +59,6 @@ visualElements:
   stylePrecedents:
   - Salvador Dali melting clocks
   - René Magritte impossible realities
+  - The Son of Man (Magritte)
+  - The Treachery of Images (Magritte)
+  - Un Chien Andalou references

@@ -57,5 +57,13 @@ visualElements:
     - contemplative
   stylePrecedents:
   - Robert Smithson (Spiral Jetty)
-  - Christo and Jeanne-Claude (wrapping projects)
-  - Andy Goldsworthy
+  - Michael Heizer (Double Negative)
+  - Nancy Holt (Sun Tunnels)
+postProcessing:
+  effects:
+  - natural weathering effects
+  - aerial photography perspective
+  filters: none (natural documentation)
+  adjustments:
+    saturation: natural, environmental
+    contrast: natural lighting conditions

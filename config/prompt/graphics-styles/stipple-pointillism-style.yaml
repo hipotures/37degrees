@@ -1,8 +1,8 @@
 styleName: Stipple Pointillism Style
-description: Art created entirely with dots and points, building form and tone through dot density
+description: Art created entirely with dots and points using stippling (monochromatic ink dots for tonal values) and pointillism (colored dots for optical color mixing) techniques, building form and tone through dot density and placement
 aiPrompts:
-  basePrompt: stipple art, pointillism technique, dot artwork, stippling illustration, points only
-  negativePrompt: lines, smooth shading, brushstrokes, continuous marks
+  basePrompt: stipple art, pointillism technique, dot artwork, stippling illustration, points only, dot density technique
+  negativePrompt: lines, smooth shading, brushstrokes, continuous marks, gradients, washes
   styleKeywords:
   - stipple
   - pointillism
@@ -10,49 +10,62 @@ aiPrompts:
   - points
   - stippling
   - dotwork
+  - optical mixing
 visualElements:
   colorPalette:
     primary:
     - black dots on white
     - single color dots
     secondary:
-    - colored dots for pointillism
+    - pure color dots for pointillism
+    - monochromatic variations for stippling
     background: white or light color
-    usageNotes: Tone through dot density, color through optical mixing
-    saturation: pure colors that mix optically
-    contrast: created through dot spacing
+    usageNotes: Tone through dot density, color through optical mixing of pure dots
+    saturation: pure colors that mix optically, or monochromatic for stippling
+    contrast: created through dot spacing and density variations
   lineArt:
     style: no lines, only dots
-    weight: dot size variations
-    color: single or multiple dot colors
-    texture: grainy from dots
-    edgeTreatment: defined by dot placement
+    weight: dot size variations from fine to medium
+    color: single or multiple pure dot colors
+    texture: grainy, textured surface from dots
+    edgeTreatment: defined by dot placement and density transitions
   lighting:
-    type: implied through dot density
-    direction: shown through gradual transitions
-    intensity: dot concentration
+    type: implied through dot density variations
+    direction: shown through gradual density transitions
+    intensity: dot concentration and spacing
     shadows:
       style: dense dot clusters
-      color: same as dots
-      opacity: density based
-    highlights: sparse dots or empty
+      color: same as base dots or darker values
+      opacity: density based, no transparency
+    highlights: sparse dots or empty white space
   rendering:
-    technique: methodical dot placement
-    texture: uniform dot texture
-    detailLevel: depends on dot size and patience
-    finish: textured, vibrating surface
-  perspective: any, defined by dot patterns
+    technique: methodical dot placement, systematic build-up
+    texture: uniform dot texture with varied density
+    detailLevel: depends on dot size and placement precision
+    finish: textured, optically vibrating surface
+  perspective: any perspective, defined by dot patterns and density
   mood:
-    overall: meticulous, contemplative, shimmering
-    emotion: patience, precision, meditation
-    tempo: slow, methodical
+    overall: meticulous, contemplative, optically dynamic
+    emotion: patience, precision, meditation, visual energy
+    tempo: slow, methodical, systematic
     keywords:
     - meticulous
     - meditative
     - precise
-    - shimmering
+    - optically vibrating
     - patient
+    - systematic
+  postProcessing:
+    effects:
+    - dot texture enhancement
+    - optical vibration effect
+    - paper texture for traditional stippling
+    filters: none (preserves pure dot clarity)
+    adjustments:
+      saturation: high for pointillism, neutral for stippling
+      contrast: high (emphasizes dot definition and spacing)
   stylePrecedents:
-  - Georges Seurat
-  - Paul Signac
-  - Scientific illustration
+  - Giulio Campagnola (stippling pioneer, 1510)
+  - Georges Seurat (pointillism)
+  - Paul Signac (pointillism)
+  - Scientific botanical illustration

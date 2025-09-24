@@ -1,8 +1,8 @@
-styleName: Retro Futurism Style
-description: Mid-20th-century retro-futuristic style with optimistic space age motifs, googie architecture forms, and vintage color palettes imagining the future
+styleName: Retro-Futurism Style
+description: Mid-20th-century retro-futuristic style with optimistic atomic age motifs, googie architecture forms, and vintage color palettes imagining the future
 aiPrompts:
-  basePrompt: retro futurism art, atomic age, 1950s sci-fi, Jetsons style, googie architecture, optimistic future
-  negativePrompt: grim dystopian, dark noir, high realism, muted tones
+  basePrompt: retro futurism art, atomic age, 1950s sci-fi, Jetsons style, googie architecture, optimistic future, atomic age optimism
+  negativePrompt: dystopian, dark noir, high realism, muted tones
   styleKeywords:
   - retro-futurism
   - atomic age
@@ -14,11 +14,11 @@ visualElements:
     primary:
     - teal
     - pale orange
-    - olive green
+    - atomic yellow
     - cream
     secondary:
-    - space blue
-    - bright red
+    - electric blue
+    - atomic red
     - chrome silver
     background: starry night or geometric shapes
     usageNotes: Slightly muted vintage tones with bold accent colors
@@ -27,7 +27,7 @@ visualElements:
   lineArt:
     style: smooth, curvilinear outlines
     weight: medium, even
-    color: dark brown or black (vintage ink)
+    color: dark brown or black
     texture: clean, minimal
     edgeTreatment: rounded corners and atomic-era shapes
   lighting:
@@ -40,7 +40,7 @@ visualElements:
       opacity: light
     highlights: shiny reflections on chrome surfaces
   rendering:
-    technique: airbrush illustration or lithograph print
+    technique: airbrush illustration or poster art
     texture: smooth with slight paper grain
     detailLevel: moderate (stylized details, not too fine)
     finish: semi-gloss, poster-like
@@ -55,6 +55,6 @@ visualElements:
     - space-age
     - playful
     - visionary
-  stylePrecedents:
-  - 1950s sci-fi magazine illustrations
-  - The Jetsons cartoon aesthetic
+stylePrecedents:
+- 1950s sci-fi magazine illustrations
+- The Jetsons cartoon aesthetic

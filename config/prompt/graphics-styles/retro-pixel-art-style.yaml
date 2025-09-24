@@ -13,25 +13,25 @@ aiPrompts:
 visualElements:
   colorPalette:
     primary:
-    - limited palette
-    - 16 colors maximum
+    - system-specific limited palette
+    - dithering for color mixing
     secondary:
-    - '#000000'
-    - '#FFFFFF'
-    background: solid color or simple pattern
-    usageNotes: Strict color limit, no gradients, maximum contrast
+    - high contrast combinations
+    - pure saturated colors
+    background: solid colors from limited palette
+    usageNotes: Strict palette limitations per gaming system, dithering patterns for transitions
     saturation: high
     contrast: maximum
   lineArt:
     style: pixel-perfect outlines
     weight: 1 pixel
-    color: '#000000'
+    color: dark palette color
     texture: hard edges
     edgeTreatment: no anti-aliasing
   lighting:
-    type: flat or simple shading
-    direction: typically top-left
-    intensity: simple light/dark values
+    type: flat or simple cell shading
+    direction: varies by game design
+    intensity: limited value steps
     shadows:
       style: dithering patterns
       color: darker palette color
@@ -39,14 +39,14 @@ visualElements:
     highlights: lighter palette color
   rendering:
     technique: pixel placement
-    texture: none or dithering
+    texture: dithering patterns
     detailLevel: minimal, iconic
     finish: crisp pixels
-  perspective: isometric or straight-on
+  perspective: isometric, side-scrolling, or orthographic
   mood:
     overall: nostalgic, playful, retro
     emotion: fun, energetic, classic gaming
-    tempo: varies by subject
+    tempo: rhythmic, game-like pacing
     keywords:
     - nostalgic
     - retro
@@ -57,10 +57,14 @@ visualElements:
     effects:
     - pixelation
     - color reduction
-    filters: none
+    - CRT scanline simulation
+    filters: nearest neighbor scaling
     adjustments:
       saturation: high
       contrast: maximum
+      sharpness: crisp pixel edges
   stylePrecedents:
   - Nintendo 8-bit graphics
   - Atari 2600 game sprites
+  - Game Boy monochrome graphics
+  - 16-bit console artwork

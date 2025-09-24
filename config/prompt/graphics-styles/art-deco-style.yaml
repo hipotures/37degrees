@@ -1,12 +1,14 @@
 styleName: Art Deco Style
-description: 1920s-1940s decorative style featuring geometric patterns, symmetry, luxury materials, and elegant modernity with metallic accents
+description: 1920s-1930s decorative style featuring geometric patterns, symmetry, streamlined forms, luxury materials, and elegant modernity with metallic accents and machine-age aesthetic
 aiPrompts:
-  basePrompt: art deco design, geometric patterns, symmetrical composition, luxury materials, elegant lines, metallic accents, 1920s style
-  negativePrompt: organic curves, asymmetry, rustic materials, informal style, medieval elements
+  basePrompt: art deco design, geometric patterns, symmetrical composition, streamlined forms, luxury materials, elegant lines, metallic accents, machine-age aesthetic, 1920s style
+  negativePrompt: organic curves, asymmetry, rustic materials, informal style, medieval elements, art nouveau, flowing lines, natural forms, ornate decoration
   styleKeywords:
   - art deco
   - geometric patterns
   - symmetrical
+  - streamlined
+  - machine-age
   - luxury
   - elegant
 visualElements:
@@ -56,4 +58,6 @@ visualElements:
     - geometric
   stylePrecedents:
   - Chrysler Building architecture
+  - Empire State Building
+  - Rockefeller Center interiors by Donald Deskey
   - 1920s luxury poster design

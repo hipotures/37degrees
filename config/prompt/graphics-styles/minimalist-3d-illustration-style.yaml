@@ -1,4 +1,4 @@
-styleName: Minimalist 3D Illustration
+styleName: Minimalist 3D Illustration Style
 description: Clean 3D renders with simplified geometry, soft colors, and modern minimalist aesthetic
 aiPrompts:
   basePrompt: minimalist 3D illustration, simple geometry, soft colors, clean render

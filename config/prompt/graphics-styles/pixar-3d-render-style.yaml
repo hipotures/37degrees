@@ -1,57 +1,63 @@
 styleName: Pixar 3D Render Style
-description: Photorealistic 3D CGI animation style with emotional character design and cutting-edge rendering technology
+description: Stylized realism 3D CGI animation with emotional character design, appealing proportions, and cutting-edge rendering technology
 aiPrompts:
-  basePrompt: pixar 3d animation style, photorealistic CGI, renderman quality, pixar character design, sophisticated 3d lighting, cinematic animation
-  negativePrompt: 2D animation, flat imagery, hand-drawn, low quality 3D, amateur CGI
+  basePrompt: pixar 3d animation style, stylized realism, appealing character design, expressive eyes, renderman quality, cinematic animation, emotional design
+  negativePrompt: 2D animation, flat imagery, hand-drawn, low quality 3D, amateur CGI, purely photorealistic
   styleKeywords:
   - pixar 3d
-  - photorealistic CGI
+  - stylized realism
+  - appealing characters
+  - expressive eyes
   - renderman
   - cinematic 3d
   - emotional characters
+  - whimsical
   - sophisticated rendering
 visualElements:
   colorPalette:
     primary:
     - rich saturated colors
-    - warm character tones
+    - warm inviting tones
     - vibrant environments
     secondary:
     - subtle skin tones
     - atmospheric colors
     - accent highlights
-    background: detailed 3D environments with depth
-    usageNotes: Professional color grading with cinematic quality
-    saturation: rich and vibrant
-    contrast: cinematic contrast with depth
+    background: detailed 3D environments with strategic lighting for depth
+    usageNotes: Professional color grading with warm, family-friendly appeal
+    saturation: rich and vibrant with emotional warmth
+    contrast: cinematic contrast with appealing depth
   lineArt:
     style: no lines - fully rendered 3D
     weight: n/a - 3D rendering
-    texture: sophisticated material shaders
-    edgeTreatment: smooth 3D model edges
+    texture: sophisticated material shaders with touchable quality
+    edgeTreatment: smooth 3D model edges with appealing forms
   lighting:
     type: global illumination with ray tracing
-    direction: cinematic three-point lighting
-    intensity: professional studio quality
+    direction: cinematic three-point lighting with strategic warmth
+    intensity: professional studio quality with emotional appeal
     shadows:
       style: soft realistic shadows
       color: complementary shadow tones
       opacity: physically accurate
-    highlights: subsurface scattering on skin
+    highlights: subsurface scattering on skin and expressive surfaces
   rendering:
-    technique: high-end 3D CGI rendering
-    texture: photorealistic materials and surfaces
-    detailLevel: extremely detailed with individual hair strands
-    finish: polished cinematic quality
-  perspective: dynamic cinematic camera work
+    technique: high-end 3D CGI rendering with stylized appeal
+    texture: sophisticated materials with touchable textures
+    detailLevel: extremely detailed with individual hair strands and expressive features
+    finish: polished cinematic quality with appealing character proportions
+  perspective: dynamic cinematic camera work with appealing compositions
   mood:
-    overall: emotional, appealing, cinematic
-    emotion: warm and engaging character expressions
-    tempo: smooth professional animation
+    overall: emotional, appealing, whimsical, cinematic
+    emotion: warm and engaging character expressions with oversized expressive eyes
+    tempo: smooth professional animation with imaginative storytelling
     keywords:
     - emotional
     - cinematic
     - appealing
+    - whimsical
+    - imaginative
+    - family-friendly
     - sophisticated
     - warm
   stylePrecedents:

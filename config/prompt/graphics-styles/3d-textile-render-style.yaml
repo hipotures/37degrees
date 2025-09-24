@@ -1,7 +1,7 @@
 styleName: 3D Textile Render Style
-description: Modern 3D character design with photorealistic fabric textures, knitted materials, and melancholic minimalist aesthetics
+description: Technical 3D visualization focusing on photorealistic fabric simulation, yarn-level textures, and accurate textile material properties
 aiPrompts:
-  basePrompt: 3D textile render, knitted fabric texture, wool material, soft cloth simulation, minimalist character design, fabric 3d illustration
+  basePrompt: 3D textile render, knitted fabric texture, wool material, soft cloth simulation, fabric physics, realistic fiber structure
   negativePrompt: flat 2D, cartoon style, hard surfaces, metallic, glossy, plastic, low quality textures
   styleKeywords:
   - 3d textile
@@ -9,54 +9,55 @@ aiPrompts:
   - knitted texture
   - wool material
   - soft cloth
-  - minimalist character
+  - fabric physics
 visualElements:
   colorPalette:
     primary:
-    - soft blues
-    - mint greens
-    - warm beiges
-    - dusty pinks
+    - natural wool whites
+    - cotton off-whites
+    - linen beiges
+    - raw cotton grays
     secondary:
-    - cream whites
-    - sage greens
-    - muted corals
-    - gray-blues
-    background: gradient pastel backgrounds
-    usageNotes: Muted scandinavian palette with soft material colors
-    saturation: low to medium
-    contrast: soft and gentle
+    - dyed yarn colors
+    - natural fiber browns
+    - bleached whites
+    - undyed grays
+    background: neutral studio backgrounds
+    usageNotes: Material-accurate textile colors based on real fabric properties
+    saturation: natural fabric saturation levels
+    contrast: realistic material contrast
   lineArt:
     style: none - fully rendered 3D
     weight: n/a
     texture: visible fabric weave and knit patterns
     edgeTreatment: soft fabric edges with realistic fraying
   lighting:
-    type: soft studio lighting with HDRI
+    type: soft studio lighting
     direction: diffused top-front lighting
-    intensity: gentle and even
+    intensity: even material visualization lighting
     shadows:
-      style: very soft ambient occlusion
-      color: cool blue-gray
+      style: soft ambient occlusion
+      color: neutral gray
       opacity: subtle
-    highlights: soft fabric sheen, no harsh reflections
+    highlights: natural fabric surface properties, matte finish
   rendering:
     technique: high-end 3D with fabric simulation
     texture: photorealistic textile materials - wool, cotton, knit, felt
     detailLevel: individual fiber visibility, knit patterns, fabric folds
     finish: matte fabric surfaces with subtle fuzz
-  perspective: centered portrait composition
+  perspective: technical visualization perspective
   mood:
-    overall: melancholic, contemplative, cozy, scandinavian
-    emotion: quiet introspection, gentle sadness, warmth
-    tempo: still and peaceful
+    overall: technical, precise, material-focused, realistic
+    emotion: scientific accuracy, engineering precision, material truth
+    tempo: detailed and methodical
     keywords:
-    - melancholic
-    - cozy
-    - textile
-    - minimalist
-    - contemplative
+    - technical
+    - precise
+    - realistic
+    - material-accurate
+    - scientific
   stylePrecedents:
-  - Contemporary 3D illustration
-  - Scandinavian design aesthetics
-  - Wes Anderson color palettes
+  - Yarn-level fabric simulation research
+  - Textile industry visualization
+  - Fabric physics engines
+  - Material science rendering

@@ -54,6 +54,15 @@ visualElements:
     - captured
     - documentary
     - authentic
+  postProcessing:
+    effects:
+    - color grading
+    - exposure correction
+    - noise reduction
+    filters: digital camera filters and lens corrections
+    adjustments:
+      saturation: natural to enhanced
+      contrast: natural to high
   stylePrecedents:
   - Ansel Adams landscape photography
   - Annie Leibovitz portrait photography

@@ -1,8 +1,8 @@
 styleName: Chalkboard Sketch Style
-description: Chalkboard art style with white or colored chalk illustrations on a blackboard background, featuring dusty textures and hand-drawn diagrams or lettering
+description: Ephemeral chalkboard art featuring wet chalk technique on blackboard surface, creating bright lasting marks with characteristic dusty textures and educational diagrams
 aiPrompts:
-  basePrompt: chalkboard illustration, chalk sketch, blackboard art, dusty white chalk, educational diagram
-  negativePrompt: polished digital lines, multi-color print, high detail realism
+  basePrompt: chalkboard illustration, chalk sketch, blackboard art, dusty white chalk, educational diagram, wet chalk technique, chalk dust texture, school blackboard
+  negativePrompt: photo, photographic, smooth digital art, high resolution detail, polished finish, polished digital lines, multi-color print, high detail realism
   styleKeywords:
   - chalkboard
   - hand-drawn
@@ -34,11 +34,11 @@ visualElements:
     intensity: n/a
     shadows:
       style: chalk dust ghost lines from erased marks
-      color: gray
+      color: light gray chalk dust
       opacity: faint
     highlights: thicker chalk appears brighter
   rendering:
-    technique: hand-drawn chalk on slate
+    technique: wet chalk on seasoned blackboard
     texture: grainy board surface, chalk dust
     detailLevel: low to moderate (schematic rather than detailed)
     finish: matte, dusty
@@ -53,6 +53,14 @@ visualElements:
     - textured
     - informal
     - sketchy
+  postProcessing:
+    effects:
+    - chalk dust texture
+    - powdery surface
+    filters: none
+    adjustments:
+      saturation: low
+      contrast: high
   stylePrecedents:
   - café menu chalk art
   - school chalkboard drawings

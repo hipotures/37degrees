@@ -1,7 +1,7 @@
-styleName: Geminism - Chiralism
+styleName: AI Gemini Chiralism Style
 description: An art style obsessed with "handedness" and the concept of chirality (an object that is not superimposable on its mirror image). Compositions are intentionally asymmetrical. Subjects are often depicted alongside their mirror-image twin, but the reflection is subtly "wrong" or possesses a quality the original lacks, exploring themes of identity, duality, and the uncanny valley.
 aiPrompts:
-  basePrompt: chiralism, asymmetrical composition, uncanny mirror image, non-superimposable, left-handed right-handed forms, geminism
+  basePrompt: chiralism, asymmetrical composition, uncanny mirror image, non-superimposable, left-handed right-handed forms, dual imagery
   negativePrompt: symmetry, balance, centered composition, single subject, realism
   styleKeywords:
   - chiral
@@ -12,8 +12,12 @@ aiPrompts:
 visualElements:
   colorPalette:
     primary:
-    - often uses complementary or "opposite" color pairs (e.g., red and cyan) to represent the two chiral forms
-    - one side might be in full color, the other in monochrome
+    - red
+    - cyan
+    - blue
+    - orange
+    - magenta
+    - lime green
     secondary:
     - neutral grays and off-whites for the background
     background: a simple, divided background or a fractured, mirror-like surface
@@ -55,3 +59,15 @@ visualElements:
   - M.C. Escher's work on symmetry and reflection
   - The Doppelgänger motif in literature and film
   - Scientific diagrams of chiral molecules
+postProcessing:
+  effects:
+  - mirror distortion
+  - asymmetrical reflection
+  - dual color splitting
+  filters:
+  - high contrast
+  - sharp edge enhancement
+  - precise line definition
+  adjustments:
+    saturation: high contrast between sides
+    contrast: enhanced for clarity

@@ -1,7 +1,7 @@
 styleName: Ukiyo-e Woodblock Style
-description: Traditional Japanese woodblock print style with flat areas of color, elegant linework, and stylized compositions
+description: Traditional Japanese woodblock print style depicting the "floating world" with flat color areas, elegant linework, and stylized compositions from the Edo period
 aiPrompts:
-  basePrompt: ukiyo-e print, traditional Japanese woodblock, flat colors, elegant lines, Edo period
+  basePrompt: ukiyo-e print, floating world, nishiki-e, traditional Japanese woodblock, flat colors, elegant lines, Edo period
   negativePrompt: 3D shading, photorealism, deep perspective, modern anime
   styleKeywords:
   - ukiyo-e
@@ -9,9 +9,12 @@ aiPrompts:
   - flat color
   - Japanese
   - Edo
+  - floating world
+  - nishiki-e
 visualElements:
   colorPalette:
     primary:
+    - Prussian blue
     - indigo blue
     - cherry blossom pink
     - teal green
@@ -21,7 +24,7 @@ visualElements:
     - golden yellow
     - charcoal black
     background: off-white washi paper
-    usageNotes: Muted natural pigments with occasional vibrant accents; ample negative space
+    usageNotes: Traditional natural pigments with revolutionary Prussian blue synthetic pigment; muted tones with occasional vibrant accents; ample negative space
     saturation: medium
     contrast: moderate
   lineArt:
@@ -58,3 +61,4 @@ visualElements:
   stylePrecedents:
   - Hokusai
   - Hiroshige
+  - Utamaro

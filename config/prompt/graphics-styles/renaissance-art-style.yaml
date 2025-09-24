@@ -1,7 +1,7 @@
 styleName: Renaissance Art Style
-description: A European art style from the 14th to the 16th century, characterized by a return to classical ideals of beauty, harmony, and realism. It emphasizes linear perspective, the study of anatomy, soft chiaroscuro (sfumato), and both religious and mythological themes.
+description: A European art style from the 14th to the 17th century, characterized by a return to classical ideals of beauty, harmony, and realism. It emphasizes linear perspective, anatomical accuracy, atmospheric perspective, soft chiaroscuro (sfumato), humanism influence, and both religious and mythological themes. Key innovations include glazing techniques, architectural perspective, and individual portraiture development.
 aiPrompts:
-  basePrompt: renaissance painting, classical harmony, sfumato, realistic anatomy, biblical scene, mythological figures, oil on canvas
+  basePrompt: renaissance painting, classical harmony, sfumato, realistic anatomy, linear perspective, atmospheric perspective, glazing techniques, biblical scene, mythological figures, oil on canvas, tempera, fresco
   negativePrompt: abstract, modern art, distorted, flat perspective, pixelated, chaotic
   styleKeywords:
   - renaissance
@@ -10,6 +10,8 @@ aiPrompts:
   - chiaroscuro
   - realism
   - harmony
+  - linear perspective
+  - anatomical accuracy
 visualElements:
   colorPalette:
     primary:
@@ -56,8 +58,17 @@ visualElements:
     - realistic
     - classical
     - divine
+  postProcessing:
+    effects:
+    - soft light transitions
+    - glazing layer effects
+    - anatomical precision enhancement
+    filters: none
+    adjustments:
+      saturation: natural harmonious tones
+      contrast: medium with soft chiaroscuro
   stylePrecedents:
-  - Leonardo da Vinci
-  - Raphael
-  - Michelangelo
-  - Titian
+  - Leonardo da Vinci portraits
+  - Raphael Madonna paintings
+  - Michelangelo Sistine Chapel
+  - Titian Venice paintings

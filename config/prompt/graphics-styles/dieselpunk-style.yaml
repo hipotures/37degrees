@@ -1,7 +1,7 @@
 styleName: Dieselpunk Style
-description: Gritty dieselpunk aesthetic mixing 1940s industrial machinery with sci-fi elements, dark smoky atmospheres, and art deco-meets-industrial style
+description: Gritty dieselpunk aesthetic mixing 1920s-1950s industrial diesel-era machinery with retro-futuristic elements, Art Deco influences, dark smoky atmospheres, and militaristic WWII aesthetics
 aiPrompts:
-  basePrompt: dieselpunk art, industrial machinery, WWII era tech, zeppelins, dark gritty atmosphere
+  basePrompt: dieselpunk art, industrial machinery, diesel engines, WWII era tech, zeppelins, Art Deco, retro-futuristic, propaganda art, pulp fiction style, dark gritty atmosphere
   negativePrompt: clean futuristic, high fantasy, nature-centric, minimalist
   styleKeywords:
   - dieselpunk
@@ -9,6 +9,9 @@ aiPrompts:
   - retro-futuristic
   - gritty
   - mechanical
+  - Art Deco
+  - militaristic
+  - propaganda-style
 visualElements:
   colorPalette:
     primary:
@@ -19,10 +22,12 @@ visualElements:
     - oxidized brass
     - crimson
     - oil black
+    - olive drab
+    - steel blue
     background: smoky gray skies or factory interior
     usageNotes: Muted wartime tones with occasional red or brass accents; lots of gray and brown
     saturation: low
-    contrast: medium (hazy atmosphere reduces contrast)
+    contrast: medium to high (dramatic dieselpunk lighting creates strong contrasts)
   lineArt:
     style: mechanical drafting meets comic outlines
     weight: medium, technical
@@ -31,7 +36,7 @@ visualElements:
     edgeTreatment: straight edges with rivet and bolt details
   lighting:
     type: dim, industrial lighting
-    direction: harsh spotlights or searchlights through smoke
+    direction: harsh spotlights, searchlights through smoke, propaganda poster lighting
     intensity: low overall, bright in beams
     shadows:
       style: thick, smoke-diffused shadows
@@ -45,7 +50,7 @@ visualElements:
     finish: matte with oily sheen on metal
   perspective: dramatic angles (low vantage of giant machines or aerial views)
   mood:
-    overall: gritty, oppressive, retro-futuristic
+    overall: gritty, oppressive, retro-futuristic, warlike, militaristic
     emotion: tension, determination
     tempo: tense, engine-pumping
     keywords:
@@ -54,6 +59,12 @@ visualElements:
     - retro
     - warlike
     - smoky
+    - militaristic
+    - propaganda-style
+    - militant
   stylePrecedents:
   - Sky Captain and the World of Tomorrow visuals
-  - Dieselpunk art community works
+  - The Rocketeer (1991) aesthetic
+  - Iron Sky military retrofuturism
+  - WWII propaganda poster art
+  - 1930s-40s pulp magazine illustrations

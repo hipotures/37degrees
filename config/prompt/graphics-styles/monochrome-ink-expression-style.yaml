@@ -1,5 +1,5 @@
-styleName: Monochrome Ink Expression (Sumi-e / Monotype)
-description: Black and white high-contrast graphics built with ink washes and dry brush; human silhouettes and birds treated with gestural shorthand, clear tool marks and controlled accidents
+styleName: Monochrome Ink Expression Style
+description: Black and white high-contrast graphics combining ink wash and monotype printmaking techniques. Features gestural strokes, controlled accidents, human silhouettes, and birds rendered with expressive minimalism and visible tool marks.
 
 aiPrompts:
   basePrompt: "black and white ink wash, sumi-e influence, high contrast, dry brush, monotype texture, gestural strokes, silhouetted figure, birds in motion, minimal background"
@@ -45,10 +45,7 @@ visualElements:
     texture: paper fibers, streaks, ink splatters
     detailLevel: minimal, focusing on essential forms
     finish: raw, unfinished quality with visible process
-  perspective:
-    depth: flattened; vertical background structure as plane
-    focus: figure in slight profile, birds in shorthand
-    viewpoint: contemplative distance
+  perspective: contemplative distance with flattened depth
   mood:
     overall: contemplation, solitude, fleeting moments
     emotion: melancholy, silence, transience

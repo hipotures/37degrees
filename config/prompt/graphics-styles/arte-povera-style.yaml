@@ -1,8 +1,8 @@
-styleName: Arte Povera
-description: An Italian art movement from the late 1960s to 1970s. Artists used "poor" or commonplace materials like soil, rags, twigs, and rocks to challenge the commercialism of the art world and explore the relationship between art and life.
+styleName: Arte Povera Style
+description: An Italian art movement from the late 1960s to early 1970s, coined by critic Germano Celant in 1967. Artists used "poor" or commonplace materials like soil, rags, rope, fabric, twigs, lead, coal, and rocks to oppose American Minimalism and the commercialized gallery system. Emphasized process over product, creating ephemeral, anti-commercial works exploring the relationship between art and life.
 aiPrompts:
-  basePrompt: Arte Povera installation, found objects, natural materials, soil, twigs, stone, neon light combined with raw materials, conceptual art
-  negativePrompt: polished sculpture, bronze casting, oil painting, commercial, sleek, digital art
+  basePrompt: Arte Povera installation, found objects, natural materials, soil, rags, rope, fabric, twigs, stone, lead, coal, glass, plastic, industrial waste, process-based art, ephemeral, anti-commercial, conceptual art
+  negativePrompt: polished sculpture, bronze casting, oil painting, commercial gallery art, minimalist geometry, sleek surfaces, digital art, mass-produced objects, precious materials
   styleKeywords:
   - Arte Povera
   - poor materials
@@ -25,8 +25,8 @@ visualElements:
     contrast: often high, between different textures or between a raw material and a modern one (like neon).
   lineArt:
     style: none; defined by the shape and placement of objects
-    weight: n/a
-    color: n/a
+    weight: determined by material properties
+    color: natural material colors only
     texture: raw, natural, unprocessed
     edgeTreatment: the natural edges of the materials (torn, broken, rough)
   lighting:
@@ -43,7 +43,7 @@ visualElements:
     texture: soil, stone, wood, fabric, glass, lead - highly textural
     detailLevel: low in terms of craftsmanship, high in conceptual meaning
     finish: raw, unfinished, natural
-  perspective: three-dimensional, experienced by walking around it
+  perspective: three-dimensional installations, performative actions, temporary interventions, process-based experiences
   mood:
     overall: conceptual, raw, poetic
     emotion: contemplation, connection to nature and history, anti-consumerism
@@ -58,3 +58,9 @@ visualElements:
   - Jannis Kounellis
   - Mario Merz
   - Michelangelo Pistoletto
+  - Giovanni Anselmo
+  - Alighiero Boetti
+  - Luciano Fabro
+  - Giuseppe Penone
+  - Marisa Merz
+  - Gilberto Zorio

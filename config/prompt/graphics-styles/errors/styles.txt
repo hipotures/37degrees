@@ -1,210 +1,210 @@
 [x] 2d-animation-style.yaml
-[ ] 3d-animation-style.yaml
-[ ] 3d-art-style.yaml
-[ ] 3d-clay-render-style.yaml
-[ ] 3d-textile-render-style.yaml
-[ ] aboriginal-dot-painting-style.yaml
-[ ] abstract-expressionism-style.yaml
-[ ] afrofuturism-style.yaml
-[ ] ai-gemini-acoustic-realism-style.yaml
-[ ] ai-gemini-aether-deco-style.yaml
-[ ] ai-gemini-bio-vellum-style.yaml
-[ ] ai-gemini-chiralism-style.yaml
-[ ] ai-gemini-chrono-cubism-style.yaml
-[ ] ai-gemini-data-dadaism-style.yaml
-[ ] ai-gemini-digital-glitch-povera-style.yaml
-[ ] ai-gemini-ephemeralism-style.yaml
-[ ] ai-gemini-geode-brutalism-style.yaml
-[ ] ai-gemini-haptic-minimalism-style.yaml
-[ ] ai-gemini-infrasculpture-style.yaml
-[ ] ai-gemini-myco-futurism-style.yaml
-[ ] ai-gemini-noctilucent-impressionism-style.yaml
-[ ] ai-gemini-paleo-minimalism-style.yaml
-[ ] ai-gemini-phytomorphism-style.yaml
-[ ] ai-gemini-psychic-cartography-style.yaml
-[ ] ai-gemini-psych-noir-style.yaml
-[ ] ai-gemini-quantum-pointillism-style.yaml
-[ ] ai-gemini-solarpunk-rococo-style.yaml
-[ ] ai-gemini-symbiotic-typography-style.yaml
-[ ] ai-gemini-ukiyo-wave-style.yaml
-[ ] ai-surrealism-style.yaml
-[ ] american-traditional-tattoo-style.yaml
-[ ] analog-tape-distortion-style.yaml
-[ ] anime-chibi-super-deformed-style.yaml
-[ ] anime-style.yaml
-[ ] art-brut-style.yaml
-[ ] art-deco-poster-style.yaml
-[ ] art-deco-style.yaml
-[ ] arte-povera-style.yaml
-[ ] art-informel-style.yaml
-[ ] art-nouveau-style.yaml
-[ ] arts-and-crafts-movement-style.yaml
-[ ] ascii-art-style.yaml
-[ ] ashcan-school-style.yaml
-[ ] atompunk-style.yaml
-[ ] aztec-codex-style.yaml
-[ ] baroque-tenebrism-style.yaml
-[ ] batik-art-style.yaml
-[ ] bauhaus-style.yaml
-[ ] bauhaus-typography-style.yaml
-[ ] biomechanical-style.yaml
-[ ] biomorphic-abstraction-style.yaml
-[ ] biopunk-style.yaml
-[ ] byzantine-art-style.yaml
-[ ] cassette-futurism-style.yaml
-[ ] celestial-fantasy-style.yaml
-[ ] celtic-knotwork-style.yaml
-[ ] ceramic-mosaic-style.yaml
-[ ] chalkboard-sketch-style.yaml
-[ ] children-book-illustration-style.yaml
-[ ] cinematic-anime-realism-style.yaml
-[ ] cinematic-documentary-realism-style.yaml
-[ ] circuit-board-tech-style.yaml
-[ ] cobra-style.yaml
-[ ] comic-book-style.yaml
-[ ] concept-art-fantasy-style.yaml
-[ ] concept-art-sci-fi-style.yaml
-[ ] constructivist-propaganda-style.yaml
-[ ] cubism-style.yaml
-[ ] cyberpunk-style.yaml
-[ ] dadaism-style.yaml
-[ ] decopunk-style.yaml
-[ ] de-stijl-neoplasticism-style.yaml
-[ ] dia-de-los-muertos-art-style.yaml
-[ ] dieselpunk-style.yaml
-[ ] digital-brutalism-style.yaml
-[ ] digital-collage-style.yaml
-[ ] digital-painting-style.yaml
-[ ] digital-photography-style.yaml
-[ ] digital-xray-blueprint-style.yaml
-[ ] doodle-sketch-style.yaml
-[ ] dreamworks-cgi-style.yaml
-[ ] dystopian-futurism-style.yaml
-[ ] eco-botanical-style.yaml
-[ ] embroidery-illustration-style.yaml
-[ ] expressionist-style.yaml
-[ ] fauvism-style.yaml
-[ ] feature-animation-2d-classical.yaml
-[ ] film-noir-1950s-melodrama.yaml
-[ ] flat-design-style.yaml
-[ ] fleischer-rubber-hose-style.yaml
-[ ] fractal-art-style.yaml
-[ ] french-surreal-animation-style.yaml
-[ ] fresco-painting-style.yaml
-[ ] frutiger-aero-style.yaml
-[ ] futuristic-hologram-grid-style.yaml
-[ ] generative-abstraction-style.yaml
-[ ] generative-art-style.yaml
-[ ] geometric-abstract-style.yaml
-[ ] glitch-art-style.yaml
-[ ] gothic-horror-style.yaml
-[ ] gothic-ink-autumn-etching-style.yaml
-[ ] gouache-painting-style.yaml
-[ ] graffiti-street-art-style.yaml
-[ ] grunge-style.yaml
-[ ] hatching-crosshatch-style.yaml
-[ ] heroic-propaganda-1920s-style.yaml
-[ ] illuminated-manuscript-style.yaml
-[ ] impressionism-style.yaml
-[ ] ink-wash-painting-style.yaml
-[ ] intimism-style.yaml
-[ ] islamic-geometric-patterns-style.yaml
-[ ] isometric-blue-line-urban-style.yaml
-[ ] isometric-illustration-style.yaml
-[ ] italian-futurism-style.yaml
-[ ] japanese-ukiyo-e-style.yaml
-[ ] kinetic-art-style.yaml
-[ ] land-art-earth-art-style.yaml
-[ ] layered-paper-art-style.yaml
-[ ] line-art-style.yaml
-[ ] lowbrow-pop-surrealism-style.yaml
-[ ] low-poly-geometric-style.yaml
-[ ] macrame-style.yaml
-[ ] mannerism-style.yaml
-[ ] maximalism-style.yaml
-[ ] memphis-design-style.yaml
-[ ] minimalism-art-style.yaml
-[ ] minimalist-3d-illustration-style.yaml
-[ ] mixed-media-style.yaml
-[ ] monochrome-ink-expression-style.yaml
-[ ] mythological-epic-style.yaml
-[ ] naive-art-style.yaml
-[ ] nano-ornamentation-style.yaml
-[ ] nanopunk-style.yaml
-[ ] neoclassicism-style.yaml
-[ ] neogeo-style.yaml
-[ ] neural-hallucination-style.yaml
-[ ] noir-pulp-fiction-style.yaml
-[ ] oil-painting-style.yaml
-[ ] op-art-style.yaml
-[ ] painterly-style.yaml
-[ ] papercutting-style.yaml
-[ ] pen-and-ink-drawing-style.yaml
-[ ] pencil-drawing-style.yaml
-[ ] pencil-sketch-style.yaml
-[ ] persepolis-graphic-novel-style.yaml
-[ ] persian-miniature-style.yaml
-[ ] photorealism-style.yaml
-[ ] photorealistic-glass-3d-render-style.yaml
-[ ] pixar-3d-render-style.yaml
-[ ] pixel-art-style.yaml
-[ ] polish-poster-school-style.yaml
-[ ] pop-art-style.yaml
-[ ] postcyberpunk-style.yaml
-[ ] precisionism-style.yaml
-[ ] pre-raphaelite-brotherhood-style.yaml
-[ ] psychedelic-art-style.yaml
-[ ] psychedelic-poster-style.yaml
-[ ] rankinbass-animagic-style.yaml
-[ ] raygun-gothic-style.yaml
-[ ] raypunk-style.yaml
-[ ] realism-art-style.yaml
-[ ] renaissance-art-style.yaml
-[ ] retro-futurism-style.yaml
-[ ] retro-pixel-art-style.yaml
-[ ] retro-pixel-ui-icons-style.yaml
-[ ] risograph-print-style.yaml
-[ ] rococo-style.yaml
-[ ] romanticism-art-style.yaml
-[ ] scratchboard-style.yaml
-[ ] serigraphy-screenprint-style.yaml
-[ ] sketchy-drawing-style.yaml
-[ ] skeuomorphism-style.yaml
-[ ] socialist-realism-style.yaml
-[ ] soft-glow-gradient-3d-style.yaml
-[ ] solarized-silhouette-style.yaml
-[ ] solarpunk-style.yaml
-[ ] solarpunk-utopia-style.yaml
-[ ] stained-glass-art-style.yaml
-[ ] steampunk-clockwork-style.yaml
-[ ] steampunk-cogwork-style.yaml
-[ ] steampunk-style.yaml
-[ ] stipple-pointillism-style.yaml
-[ ] studio-ghibli-style.yaml
-[ ] suprematism-style.yaml
-[ ] surrealism-art-style.yaml
-[ ] surrealist-dreamlike-style.yaml
-[ ] swiss-international-style.yaml
-[ ] swiss-style-typography.yaml
-[ ] symbolism-art-movement-style.yaml
-[ ] synthetic-ethereal-style.yaml
-[ ] synthwave-retro-style.yaml
-[ ] tachisme-style.yaml
-[ ] tapestry-weaving-style.yaml
-[ ] textured-collage-style.yaml
-[ ] toei-animation-classic-style.yaml
-[ ] trompe-loeil-style.yaml
-[ ] ukiyo-e-woodblock-style.yaml
-[ ] urban-sketch-style.yaml
-[ ] utopian-futurism-style.yaml
-[ ] vaporwave-art-style.yaml
-[ ] vector-art-style.yaml
-[ ] vhs-retro-aesthetic-style.yaml
-[ ] victorian-book-illustration-style.yaml
-[ ] vienna-secession-style.yaml
-[ ] vintage-cartoon-style.yaml
-[ ] vintage-offset-print-style.yaml
-[ ] vintage-travel-poster-style.yaml
-[ ] watercolor-style.yaml
-[ ] woodcut-linocut-style.yaml
-[ ] woodcut-style.yaml
+[x] 3d-animation-style.yaml
+[x] 3d-art-style.yaml
+[x] 3d-clay-render-style.yaml
+[x] 3d-textile-render-style.yaml
+[x] aboriginal-dot-painting-style.yaml
+[x] abstract-expressionism-style.yaml
+[x] afrofuturism-style.yaml
+[x] ai-gemini-acoustic-realism-style.yaml
+[x] ai-gemini-aether-deco-style.yaml
+[x] ai-gemini-bio-vellum-style.yaml
+[x] ai-gemini-chiralism-style.yaml
+[x] ai-gemini-chrono-cubism-style.yaml
+[x] ai-gemini-data-dadaism-style.yaml
+[x] ai-gemini-digital-glitch-povera-style.yaml
+[x] ai-gemini-ephemeralism-style.yaml
+[x] ai-gemini-geode-brutalism-style.yaml
+[x] ai-gemini-haptic-minimalism-style.yaml
+[x] ai-gemini-infrasculpture-style.yaml
+[x] ai-gemini-myco-futurism-style.yaml
+[x] ai-gemini-noctilucent-impressionism-style.yaml
+[x] ai-gemini-paleo-minimalism-style.yaml
+[x] ai-gemini-phytomorphism-style.yaml
+[x] ai-gemini-psychic-cartography-style.yaml
+[x] ai-gemini-psych-noir-style.yaml
+[x] ai-gemini-quantum-pointillism-style.yaml
+[x] ai-gemini-solarpunk-rococo-style.yaml
+[x] ai-gemini-symbiotic-typography-style.yaml
+[x] ai-gemini-ukiyo-wave-style.yaml
+[x] ai-surrealism-style.yaml
+[x] american-traditional-tattoo-style.yaml
+[x] analog-tape-distortion-style.yaml
+[x] anime-chibi-super-deformed-style.yaml
+[x] anime-style.yaml
+[x] art-brut-style.yaml
+[x] art-deco-poster-style.yaml
+[x] art-deco-style.yaml
+[x] arte-povera-style.yaml
+[x] art-informel-style.yaml
+[x] art-nouveau-style.yaml
+[x] arts-and-crafts-movement-style.yaml
+[x] ascii-art-style.yaml
+[x] ashcan-school-style.yaml
+[x] atompunk-style.yaml
+[x] aztec-codex-style.yaml
+[x] baroque-tenebrism-style.yaml
+[x] batik-art-style.yaml
+[x] bauhaus-style.yaml
+[x] bauhaus-typography-style.yaml
+[x] biomechanical-style.yaml
+[x] biomorphic-abstraction-style.yaml
+[x] biopunk-style.yaml
+[x] byzantine-art-style.yaml
+[x] cassette-futurism-style.yaml
+[x] celestial-fantasy-style.yaml
+[x] celtic-knotwork-style.yaml
+[x] ceramic-mosaic-style.yaml
+[x] chalkboard-sketch-style.yaml
+[x] children-book-illustration-style.yaml
+[x] cinematic-anime-realism-style.yaml
+[x] cinematic-documentary-realism-style.yaml
+[x] circuit-board-tech-style.yaml
+[x] cobra-style.yaml
+[x] comic-book-style.yaml
+[x] concept-art-fantasy-style.yaml
+[x] concept-art-sci-fi-style.yaml
+[x] constructivist-propaganda-style.yaml
+[x] cubism-style.yaml
+[x] cyberpunk-style.yaml
+[x] dadaism-style.yaml
+[x] decopunk-style.yaml
+[x] de-stijl-neoplasticism-style.yaml
+[x] dia-de-los-muertos-art-style.yaml
+[x] dieselpunk-style.yaml
+[x] digital-brutalism-style.yaml
+[x] digital-collage-style.yaml
+[x] digital-painting-style.yaml
+[x] digital-photography-style.yaml
+[x] digital-xray-blueprint-style.yaml
+[x] doodle-sketch-style.yaml
+[x] dreamworks-cgi-style.yaml
+[x] dystopian-futurism-style.yaml
+[x] eco-botanical-style.yaml
+[x] embroidery-illustration-style.yaml
+[x] expressionist-style.yaml
+[x] fauvism-style.yaml
+[x] feature-animation-2d-classical.yaml
+[x] film-noir-1950s-melodrama.yaml
+[x] flat-design-style.yaml
+[x] fleischer-rubber-hose-style.yaml
+[x] fractal-art-style.yaml
+[x] french-surreal-animation-style.yaml
+[x] fresco-painting-style.yaml
+[x] frutiger-aero-style.yaml
+[x] futuristic-hologram-grid-style.yaml
+[x] generative-abstraction-style.yaml
+[x] generative-art-style.yaml
+[x] geometric-abstract-style.yaml
+[x] glitch-art-style.yaml
+[x] gothic-horror-style.yaml
+[x] gothic-ink-autumn-etching-style.yaml
+[x] gouache-painting-style.yaml
+[x] graffiti-street-art-style.yaml
+[x] grunge-style.yaml
+[x] hatching-crosshatch-style.yaml
+[x] heroic-propaganda-1920s-style.yaml
+[x] illuminated-manuscript-style.yaml
+[x] impressionism-style.yaml
+[x] ink-wash-painting-style.yaml
+[x] intimism-style.yaml
+[x] islamic-geometric-patterns-style.yaml
+[x] isometric-blue-line-urban-style.yaml
+[x] isometric-illustration-style.yaml
+[x] italian-futurism-style.yaml
+[x] japanese-ukiyo-e-style.yaml
+[x] kinetic-art-style.yaml
+[x] land-art-earth-art-style.yaml
+[x] layered-paper-art-style.yaml
+[x] line-art-style.yaml
+[x] lowbrow-pop-surrealism-style.yaml
+[x] low-poly-geometric-style.yaml
+[x] macrame-style.yaml
+[x] mannerism-style.yaml
+[x] maximalism-style.yaml
+[x] memphis-design-style.yaml
+[x] minimalism-art-style.yaml
+[x] minimalist-3d-illustration-style.yaml
+[x] mixed-media-style.yaml
+[x] monochrome-ink-expression-style.yaml
+[x] mythological-epic-style.yaml
+[x] naive-art-style.yaml
+[x] nano-ornamentation-style.yaml
+[x] nanopunk-style.yaml
+[x] neoclassicism-style.yaml
+[x] neogeo-style.yaml
+[x] neural-hallucination-style.yaml
+[x] noir-pulp-fiction-style.yaml
+[x] oil-painting-style.yaml
+[x] op-art-style.yaml
+[x] painterly-style.yaml
+[x] papercutting-style.yaml
+[x] pen-and-ink-drawing-style.yaml
+[x] pencil-drawing-style.yaml
+[x] pencil-sketch-style.yaml
+[x] persepolis-graphic-novel-style.yaml
+[x] persian-miniature-style.yaml
+[x] photorealism-style.yaml
+[x] photorealistic-glass-3d-render-style.yaml
+[x] pixar-3d-render-style.yaml
+[x] pixel-art-style.yaml
+[x] polish-poster-school-style.yaml
+[x] pop-art-style.yaml
+[x] postcyberpunk-style.yaml
+[x] precisionism-style.yaml
+[x] pre-raphaelite-brotherhood-style.yaml
+[x] psychedelic-art-style.yaml
+[x] psychedelic-poster-style.yaml
+[x] rankinbass-animagic-style.yaml
+[x] raygun-gothic-style.yaml
+[x] raypunk-style.yaml
+[x] realism-art-style.yaml
+[x] renaissance-art-style.yaml
+[x] retro-futurism-style.yaml
+[x] retro-pixel-art-style.yaml
+[x] retro-pixel-ui-icons-style.yaml
+[x] risograph-print-style.yaml
+[x] rococo-style.yaml
+[x] romanticism-art-style.yaml
+[x] scratchboard-style.yaml
+[x] serigraphy-screenprint-style.yaml
+[x] sketchy-drawing-style.yaml
+[x] skeuomorphism-style.yaml
+[x] socialist-realism-style.yaml
+[x] soft-glow-gradient-3d-style.yaml
+[x] solarized-silhouette-style.yaml
+[x] solarpunk-style.yaml
+[x] solarpunk-utopia-style.yaml
+[x] stained-glass-art-style.yaml
+[x] steampunk-clockwork-style.yaml
+[x] steampunk-cogwork-style.yaml
+[x] steampunk-style.yaml
+[x] stipple-pointillism-style.yaml
+[x] studio-ghibli-style.yaml
+[x] suprematism-style.yaml
+[x] surrealism-art-style.yaml
+[x] surrealist-dreamlike-style.yaml
+[x] swiss-international-style.yaml
+[x] swiss-style-typography.yaml
+[x] symbolism-art-movement-style.yaml
+[x] synthetic-ethereal-style.yaml
+[x] synthwave-retro-style.yaml
+[x] tachisme-style.yaml
+[x] tapestry-weaving-style.yaml
+[x] textured-collage-style.yaml
+[x] toei-animation-classic-style.yaml
+[x] trompe-loeil-style.yaml
+[x] ukiyo-e-woodblock-style.yaml
+[x] urban-sketch-style.yaml
+[x] utopian-futurism-style.yaml
+[x] vaporwave-art-style.yaml
+[x] vector-art-style.yaml
+[x] vhs-retro-aesthetic-style.yaml
+[x] victorian-book-illustration-style.yaml
+[x] vienna-secession-style.yaml
+[x] vintage-cartoon-style.yaml
+[x] vintage-offset-print-style.yaml
+[x] vintage-travel-poster-style.yaml
+[x] watercolor-style.yaml
+[x] woodcut-linocut-style.yaml
+[x] woodcut-style.yaml

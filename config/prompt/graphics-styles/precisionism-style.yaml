@@ -1,7 +1,7 @@
-styleName: Precisionism
-description: A modern art movement in the United States from the 1920s, characterized by precise, sharply defined, geometric forms. Subjects were often industrial and urban landscapes like skyscrapers, bridges, and factories, depicted with smooth, clean surfaces.
+styleName: Precisionism Style
+description: A modern art movement in the United States from 1915-1940s, peaking in the 1920s-1930s, characterized by precise, sharply defined, geometric forms. Subjects were often unpeopled industrial and urban landscapes like skyscrapers, bridges, and factories, depicted with smooth, clean surfaces and influenced by photography.
 aiPrompts:
-  basePrompt: Precisionism painting, industrial landscape, geometric forms, clean lines, American modernism, urban architecture, Charles Demuth style
+  basePrompt: Precisionism painting, industrial landscape, geometric forms, clean lines, American modernism, urban architecture, machine age aesthetic, unpeopled industrial scene
   negativePrompt: impressionism, loose brushwork, pastoral scene, organic shapes, chaos
   styleKeywords:
   - Precisionism
@@ -9,6 +9,8 @@ aiPrompts:
   - geometric
   - clean
   - American modernism
+  - machine age
+  - unpeopled
 visualElements:
   colorPalette:
     primary:
@@ -58,4 +60,7 @@ visualElements:
   stylePrecedents:
   - Charles Demuth
   - Charles Sheeler
-  - Georgia O'Keeffe (cityscapes)
+  - Georgia O'Keeffe
+  - George Ault
+  - Ralston Crawford
+  - Elsie Driggs

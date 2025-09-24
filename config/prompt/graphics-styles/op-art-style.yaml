@@ -1,8 +1,8 @@
 styleName: Op Art Style
-description: An art movement from the 1960s that uses abstract, geometric patterns to create optical illusions, such as the impression of movement, vibration, pulsation, or hidden images.
+description: Optical illusion art using abstract geometric patterns to create visual effects of movement, vibration, and depth perception
 aiPrompts:
-  basePrompt: op art, optical illusion, geometric patterns, moire pattern, black and white abstraction, kinetic art, Bridget Riley style
-  negativePrompt: figurative, realistic, color photography, soft edges, painterly
+  basePrompt: op art, optical illusion, geometric patterns, moire pattern, black and white abstraction, kinetic art, Bridget Riley style, repetitive lines, visual vibration
+  negativePrompt: figurative, realistic, color photography, soft edges, painterly, blurred, organic shapes
   styleKeywords:
   - op art
   - optical illusion
@@ -10,48 +10,53 @@ aiPrompts:
   - geometric
   - pattern
   - dizzying
+  - moire
+  - vibrating
 visualElements:
   colorPalette:
     primary:
-    - '#000000' # Black
-    - '#FFFFFF' # White
+    - '#000000'
+    - '#FFFFFF'
     secondary:
-    - bright, contrasting colors (e.g., red and blue)
-    background: part of the pattern
-    usageNotes: Most often black and white for maximum contrast, sometimes uses complementary colors.
-    saturation: maximum if color is used
+    - '#FF0000'
+    - '#0000FF'
+    - '#FFFF00'
+    background: integrated pattern element
+    usageNotes: predominantly black and white for maximum contrast, occasionally bright complementary colors
+    saturation: maximum
     contrast: extremely high
   lineArt:
-    style: precise, repetitive lines and geometric shapes
-    weight: uniform, precise
-    color: black or a contrasting color
-    texture: smooth, graphic
-    edgeTreatment: sharp, clean edges
+    style: precise geometric repetition
+    weight: uniform
+    color: high contrast
+    texture: smooth vector
+    edgeTreatment: sharp precise edges
   lighting:
-    type: none (illusion created by the pattern)
-    direction: n/a
-    intensity: n/a
+    type: flat uniform
+    direction: none
+    intensity: high
     shadows:
       style: none
-      color: n/a
-      opacity: n/a
+      color: none
+      opacity: 0
     highlights: none
   rendering:
-    technique: precise graphics, often computer-generated
-    texture: none, perfectly smooth surface
-    detailLevel: high in pattern precision
-    finish: clean, graphic
-  perspective: flat, but creates an illusion of depth or movement
+    technique: precise vector graphics
+    texture: smooth mathematical
+    detailLevel: high precision
+    finish: clean digital
+  perspective: flat plane with illusion depth
   mood:
-    overall: dynamic, disorienting, hypnotic
-    emotion: surprise, unease, fascination
-    tempo: vibrating, pulsating
+    overall: dynamic disorienting
+    emotion: hypnotic fascination
+    tempo: vibrating pulsating
     keywords:
     - hypnotic
     - vibrating
     - disorienting
     - geometric
     - illusion
+    - kinetic
   stylePrecedents:
   - Victor Vasarely
   - Bridget Riley

@@ -1,14 +1,16 @@
 styleName: Dadaism Style
-description: Anti-art movement using absurd juxtapositions, collage techniques, found objects, and rejection of traditional artistic values and logic
+description: WWI-era anti-art movement (1916-1924) originating in Zurich, using absurd juxtapositions, collage techniques, photomontage, found objects, chance operations, and rejection of traditional artistic values and logic
 aiPrompts:
-  basePrompt: dadaist art, absurd juxtaposition, collage, found objects, anti-art, chaotic composition, nonsensical elements
-  negativePrompt: traditional composition, logical arrangement, classical beauty, coherent narrative, refined technique
+  basePrompt: dadaist art, absurd juxtaposition, collage, photomontage, found objects, anti-art, chaotic composition, nonsensical elements, chance operations, WWI era, 1916-1924
+  negativePrompt: traditional composition, logical arrangement, classical beauty, coherent narrative, refined technique, systematic planning
   styleKeywords:
   - dadaism
   - anti-art
   - absurd
   - collage
+  - photomontage
   - found objects
+  - chance operations
 visualElements:
   colorPalette:
     primary:
@@ -39,7 +41,7 @@ visualElements:
       opacity: varies
     highlights: random reflections from found materials
   rendering:
-    technique: collage, assemblage, found object combination
+    technique: collage, photomontage, assemblage, found object combination, typography experimentation
     texture: mixed textures from various sources
     detailLevel: varies by element (some detailed, some crude)
     finish: raw, unfinished appearance
@@ -57,3 +59,6 @@ visualElements:
   stylePrecedents:
   - Marcel Duchamp readymades
   - Hannah Höch photomontages
+  - Tristan Tzara sound poetry
+  - Kurt Schwitters Merz collages
+  - Raoul Hausmann photomontages
