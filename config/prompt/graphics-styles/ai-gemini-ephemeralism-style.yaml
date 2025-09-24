@@ -23,7 +23,7 @@ visualElements:
     style: forms lose their definition over time; sharp lines become blurred, cracked, or disintegrate
     weight: starts defined, ends non-existent
     color: fading from original vibrant colors to muted grays and browns
-    texture: the texture of decay is central: cracking, rusting, melting, fading, crumbling
+    texture: the texture of decay is central - cracking, rusting, melting, fading, crumbling
     edgeTreatment: edges soften, crumble, and disappear
   lighting:
     type: often documented with time-lapse lighting, which can be stark and clinical to show the process clearly

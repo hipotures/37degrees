@@ -56,6 +56,6 @@ visualElements:
     - optimistic
     - naive
   stylePrecedents:
-  - pulp sci-fi magazine covers (e.g., "Amazing Stories")
-  - "Flash Gordon" serial
-  - "The Jetsons" cartoon
+  - pulp sci-fi magazine covers (Amazing Stories)
+  - Flash Gordon serial
+  - The Jetsons cartoon

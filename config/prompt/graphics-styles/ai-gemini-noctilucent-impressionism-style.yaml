@@ -1,5 +1,5 @@
 styleName: Geminism - Noctilucent Impressionism
-description: A variant of Impressionism that forsakes the sun. It focuses on capturing the fleeting, ethereal light of the high atmosphere at night: noctilucent clouds, aurorae, airglow, and the zodiacal light. The style uses quick, broken brushstrokes to depict landscapes or figures illuminated by these faint, strange, and often colorful light sources.
+description: A variant of Impressionism that forsakes the sun. It focuses on capturing the fleeting, ethereal light of the high atmosphere at night - noctilucent clouds, aurorae, airglow, and the zodiacal light. The style uses quick, broken brushstrokes to depict landscapes or figures illuminated by these faint, strange, and often colorful light sources.
 aiPrompts:
   basePrompt: noctilucent impressionism, aurora painting, nightscape with broken brushstrokes, ethereal night light, geminism
   negativePrompt: daylight, sunny, photorealism, hard edges, studio painting
