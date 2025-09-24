@@ -1,25 +1,28 @@
 sceneDescription:
   setting:
-    time: June 1859, afternoon
-    location: Hudson's Bay Company sheep ranch on San Juan Island
-    weather: Overcast with light rain typical of Pacific Northwest
+    time: June 1859, midday
+    location: Hudson's Bay Company sheep operation on southern San Juan Island, established 1853
+    weather: Partly cloudy afternoon with gentle Pacific Northwest breeze
   characters:
-  - appearance: Irish man, 35, red hair, pale complexion, lean build, concerned expression
-    clothing: Hudson's Bay Company wool jacket, dark trousers, tall leather boots
-    position: Standing near ranch buildings overseeing livestock
-    action: Defensive posture, checking on sheep and pigs, concerned about property boundaries
+  - appearance: British company man, well-groomed, mid-40s, slightly portly from office work, clean-shaven with modest mustache
+    clothing: Company attire - dark wool coat, white shirt, vest, formal trousers, leather boots, company cap
+    position: Standing near sheep pens, observing the farming operation with authority
+    action: Supervising farm workers, checking on livestock, making notes in a ledger book
   scene:
-    mainElements: Wooden ranch buildings, sheep grazing in fenced pastures, livestock including the famous pig
-    details: Hudson's Bay Company ranch with wooden buildings bearing company markings, large flock of sheep in green pastures,
-      split-rail fencing dividing property, barn and outbuildings, Large black pig rooting through nearby area, hay bales
-      and farming equipment
-    background: Rolling hills of San Juan Island, forest edge beyond pastures, glimpse of water through trees
-    atmosphere: Established British commercial operation, territorial tensions building over land use, competing claims to
-      same territory, no text or letters visible
+    mainElements: Wooden farm buildings, sheep pens, grazing fields, company residence, storage barns
+    details: Established British colonial enterprise showing organized agricultural operation. Large flocks of sheep graze
+      in fenced pastures, tended by farm workers. The main farmhouse displays Hudson's Bay Company architecture with white-painted
+      wood siding and green shutters. Multiple outbuildings include sheep shearing sheds, hay barns, and worker quarters.
+      A large Berkshire boar can be seen roaming freely near the buildings, significant as the future cause of international
+      crisis. Company flags flutter from poles, asserting British territorial claims.
+    background: Rolling hills of San Juan Island covered with additional sheep pastures extending toward the forest
+    atmosphere: Working farm with sounds of sheep, farm activity, smell of livestock and hay, British colonial presence, no
+      text or letters visible
   composition:
-    cameraAngle: Wide shot showing British ranch operation
-    focus: Hudson's Bay Company ranch and livestock operations
-    depth: Ranch manager and buildings in foreground, grazing sheep in middle ground, island landscape in background
+    cameraAngle: Wide shot showing the entire farm operation from elevated position
+    focus: The organized British agricultural enterprise contrasted with the nearby American homestead
+    depth: Foreground shows the company manager and sheep pens, middle ground reveals farm buildings and grazing fields, background
+      shows the island's natural landscape
 visualElements:
   colorPalette:
     primary:

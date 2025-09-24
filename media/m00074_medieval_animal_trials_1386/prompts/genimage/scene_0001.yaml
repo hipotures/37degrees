@@ -1,24 +1,26 @@
 sceneDescription:
   setting:
-    time: 1386, early morning
-    location: Falaise castle and surrounding village, Normandy, France
-    weather: Overcast winter sky with scattered clouds
-  characters: No characters present in this scene
+    time: January 1386, early morning
+    location: Town of Falaise, Normandy, France - panoramic view of medieval settlement
+    weather: Cold winter morning, frost on rooftops, pale winter sun breaking through clouds
+  characters:
+  - appearance: Medieval townspeople in winter clothing walking along cobblestone streets
+    clothing: Thick woolen cloaks, leather boots, fur-lined caps and mittens
+    position: Moving through streets conducting morning business
+    action: Carrying baskets to market, leading livestock, opening shop shutters
   scene:
-    mainElements: Imposing stone castle perched on rocky outcrop overlooking medieval village below, timber-framed houses
-      clustered around central market square, winding dirt roads connecting buildings
-    details: Massive stone keep with multiple towers, crenellated walls stretching around castle perimeter, church spire rising
-      among village rooftops, smoke curling from cottage chimneys, bare winter trees dotting landscape, small gardens and
-      animal pens visible between houses, defensive walls marking castle boundaries
-    background: Rolling Norman countryside extending to horizon, distant forests and farmland, grey winter sky with heavy
-      clouds suggesting coming precipitation
-    atmosphere: Medieval grandeur mixed with everyday village life, sense of authority and hierarchy embodied in castle's
-      dominance over settlement, cold winter morning with subdued lighting casting long shadows across cobblestone streets,
-      no text or letters visible
+    mainElements: Medieval town of Falaise with stone and half-timbered buildings, narrow cobblestone streets, Church of Holy
+      Trinity with Gothic spire, wooden signs hanging from buildings
+    details: Smoke rising from chimneys, icicles hanging from eaves, wooden carts with iron-rimmed wheels, castle walls visible
+      in distance, livestock pens near houses, well in town square, no text or letters visible
+    background: Rolling Norman countryside with bare winter trees, distant fields covered in frost
+    atmosphere: Peaceful medieval town beginning its daily routine in the depths of winter, unaware of the shocking events
+      about to unfold
   composition:
-    cameraAngle: High aerial wide shot from elevated position
-    focus: Castle as dominant architectural feature with village spread below
-    depth: Foreground shows castle details, middle ground reveals village layout, background stretches to countryside horizon
+    cameraAngle: High wide shot overlooking the entire town
+    focus: The town square and Church of Holy Trinity as central focal points
+    depth: Foreground shows detailed street activity, middle ground reveals town architecture, background shows countryside
+      landscape
 visualElements:
   colorPalette:
     primary:

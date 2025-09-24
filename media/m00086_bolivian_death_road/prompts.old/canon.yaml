@@ -1,0 +1,76 @@
+canon:
+  characters:
+    - id: "character_TG"
+      name: "Character TG"
+      description_block: |
+        characters:
+          - appearance: "Local Bolivian man, 40s, weathered face from mountain work, strong build, dark hair"
+            clothing: "Traditional Bolivian work clothes - worn denim jacket, wool sweater, heavy boots"
+            posture: "Confident stance, experienced with mountain terrain and vehicles"
+    - id: "character_CB"
+      name: "Character CB"
+      description_block: |
+        characters:
+          - appearance: "Young backpacker, 20s, athletic build, eager expression, wearing bike helmet"
+            clothing: "Modern cycling gear - padded shorts, moisture-wicking shirt, protective gear"
+            posture: "Excited but cautious, gripping handlebars, ready for adventure"
+    - id: "character_LO"
+      name: "Character LO"
+      description_block: |
+        characters:
+          - appearance: "Elderly Bolivian woman, 60s, lined face showing years of highland life, gray hair in braids"
+            clothing: "Traditional colorful Bolivian dress, shawl, bowler hat, layered skirts"
+            posture: "Dignified bearing, walking with purpose despite difficult terrain"
+    - id: "character_BD"
+      name: "Character BD"
+      description_block: |
+        characters:
+          - appearance: "Bus driver, 30s, concentrated expression, mustache, tired eyes"
+            clothing: "Simple work shirt, worn jeans, baseball cap"
+            posture: "Tense, gripping steering wheel, focused on dangerous road ahead"
+  locations:
+    - id: "death_road_narrow_section"
+      name: "Death Road Narrow Section"
+      description_block: |
+        setting:
+          location: "North Yungas Road narrow cliff section, Bolivia - 3-meter wide dirt road carved into mountainside"
+        mainElements: "Extremely narrow mountain road carved into cliff face, sheer drop on one side, rock wall on other"
+        atmosphere: "Dangerous, precarious, breathtaking yet terrifying mountain wilderness"
+    - id: "la_paz_starting_point"
+      name: "La Paz Starting Point"
+      description_block: |
+        setting:
+          location: "La Paz outskirts, Bolivia - high altitude departure point at 3,500 meters elevation"
+        mainElements: "Urban edge transitioning to mountain roads, tour operators' vehicles, safety briefing areas"
+        atmosphere: "Anticipatory tension, last moment of safety before dangerous journey"
+    - id: "coroico_valley_destination"
+      name: "Coroico Valley Destination"
+      description_block: |
+        setting:
+          location: "Coroico valley, Bolivia - tropical lowland destination in Amazon basin"
+        mainElements: "Lush green valley, tropical vegetation, small town nestled in Amazon foothills"
+        atmosphere: "Relief, tropical warmth, stark contrast to high altitude starting point"
+    - id: "devils_curve_memorial"
+      name: "Devils Curve Memorial"
+      description_block: |
+        setting:
+          location: "Devils Curve section of Death Road - site of infamous 1983 bus accident"
+        mainElements: "Sharp curve with memorial crosses, steep cliff drop, warning signs"
+        atmosphere: "Somber remembrance, danger made visible through memorials and crosses"
+  items:
+    - id: "mountain_bike_equipment"
+      name: "Mountain Bike Equipment"
+      description_block: |
+        details: "Heavy-duty mountain bike with disc brakes, protective gear including helmet and pads"
+    - id: "old_bus_vehicle"
+      name: "Old Bus Vehicle"
+      description_block: |
+        details: "Worn Bolivian public bus from 1980s era, colorful paint but showing age and wear"
+    - id: "memorial_crosses"
+      name: "Memorial Crosses"
+      description_block: |
+        details: "Simple wooden crosses marking accident sites, flowers and offerings left by families"
+    - id: "safety_equipment_modern"
+      name: "Safety Equipment Modern"
+      description_block: |
+        details: "Modern tour operator safety gear - radios, first aid kits, support vehicles"

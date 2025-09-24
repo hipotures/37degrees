@@ -1,94 +1,87 @@
 sceneDescription:
   setting:
-    time: May 28, 1959, afternoon when investigation officially closed
-    location: Small Soviet town of Vizhay, Northern Urals, same departure point now serving as investigation headquarters
-    weather: Spring weather, clear skies, mild temperatures, snow mostly melted
-  characters: No characters present in this scene
+    time: Present day, twilight hour at memorial site
+    location: Dyatlov Pass memorial, Kholat Syakhl mountain, established hiking memorial
+    weather: Clear evening with golden sunset, light mountain breeze, -5°C
+  characters:
+  - appearance: Modern hiker, 30s, respectful visitor, contemplative expression
+    clothing: Contemporary hiking gear, warm jacket, memorial tribute in hands
+    position: Standing before established memorial monument in mountain setting
+    action: Placing small memorial stone while reading names on monument
+  - appearance: Elderly Russian woman, 70s, possible relative or researcher, dignified presence
+    clothing: Warm coat suitable for mountain conditions, traditional Russian scarf
+    position: Seated on memorial bench overlooking the mountain landscape
+    action: Quietly observing sunset while holding old photograph from 1959
+  - appearance: Young documentary student, 25, carrying modern recording equipment, serious demeanor
+    clothing: Technical outdoor gear, equipment backpack, professional camera
+    position: Respectfully documenting memorial site from appropriate distance
+    action: Capturing final shots of memorial against dramatic mountain sunset
   scene:
-    mainElements: Soviet investigation headquarters with evidence tables, official documents, and expedition equipment recovered
-      from mountain, case files and investigation materials organized for closure
-    details: Tables covered with recovered expedition equipment including 1950s Soviet cameras in leather cases with developed
-      film, large self-made canvas tent sections showing three large slashes cut from inside, axes and knives used in tent
-      cutting, Soviet student identification cards arranged systematically, shared group notebook with expedition records,
-      mandolin recovered from tent site, disassembled portable wood stove components, scattered clothing items showing evidence
-      of sharing between victims, official Soviet investigation documents in folders, probe poles and radio equipment used
-      in search operation
-    background: Same wooden buildings of Vizhay settlement where expedition began, forest edge visible in distance toward
-      mountain location, spring landscape replacing winter conditions, investigation headquarters temporarily established
-      in local building, maps of search area posted on walls
-    atmosphere: Official conclusion masking unresolved questions, bureaucratic closure of unexplained tragedy, sense that
-      truth remains hidden, mysterious case closed without satisfactory answers, enduring enigma despite thorough investigation
+    mainElements: Established memorial monument with nine names carved in stone, hiking trail markers showing route to incident
+      site, memorial register for visitor tributes, mountain landscape unchanged since 1959, sunset casting long shadows across
+      memorial area
+    details: Fresh flowers and memorial stones left by visitors, hiking equipment tributes including vintage ice axes, photographs
+      and memorial cards in weatherproof holders, trail signs indicating historical significance, visitor logbook in protective
+      case, memorial bench for reflection, wind chimes creating gentle sounds, no text or letters visible
+    background: Kholat Syakhl mountain silhouetted against dramatic sunset, vast Ural Mountain wilderness extending to horizon,
+      forest areas where search occurred decades ago, unchanged natural beauty contrasting with human tragedy
+    atmosphere: Peaceful remembrance of enduring mystery, mountain's eternal silence holding secrets, respectful tourism at
+      tragic historical site, continuity between past tragedy and present remembrance, nature's indifference to human questions,
+      timeless beauty of wilderness setting
   composition:
-    cameraAngle: Wide shot of investigation room showing evidence organization and official closure
-    focus: Recovered expedition equipment and investigation materials representing unsolved mystery
-    depth: Foreground shows detailed evidence and recovered equipment, middle ground captures investigation setup and documentation,
-      background reveals return to starting location completing tragic circle, no text or letters visible
+    cameraAngle: Wide establishing shot emphasizing mountain's eternal presence
+    focus: Memorial monument against dramatic mountain sunset symbolizing enduring mystery
+    depth: Memorial and visitors in foreground, mountain landscape in middle ground, infinite wilderness and sunset sky in
+      background
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Investigation of Panel F Relay 70 Begins"
+  setting:
+    time: "September 9, 1947, 3:50 PM"
+    location: "Harvard Mark II computer relay panel section, Cambridge, Massachusetts"
+    weather: "Warm afternoon with laboratory equipment generating heat"
+  characters:
+    - appearance: "Man, 50s, stocky build, graying hair, weathered hands from technical work, mustache"
+      clothing: "Gray technician's coveralls, white undershirt, work boots, tool belt with various instruments"
+      position: "Kneeling beside opened Panel F examining relay contacts"
+      action: "Using flashlight to illuminate relay contacts while searching for source of electrical failure"
+    - appearance: "Woman, early 40s, medium height, brown hair styled in 1940s fashion, intelligent keen eyes behind wire-rim glasses"
+      clothing: "Navy uniform with lieutenant rank insignia, dark blue jacket with brass buttons, white collared shirt, knee-length skirt, sensible black shoes"
+      position: "Standing behind technician observing investigation process"
+      action: "Supervising troubleshooting procedure while taking notes for maintenance log"
+  scene:
+    mainElements: "Opened relay panel revealing intricate mechanical relay contacts, copper wiring, vacuum tubes, electrical connections, metal framework"
+    details: "Precision metal tweezers for delicate work, circular magnifying glass with black handle, technical instruments for detailed examination, mechanical electrical relay with copper contacts visible, spring mechanisms and mounting hardware exposed"
+    background: "Close examination workspace with magnifying equipment, bright task lighting, precise technical environment, sounds of other relay panels continuing to operate"
+    atmosphere: "Methodical technical investigation with focus on identifying electrical contact failure, professional problem-solving approach"
+  composition:
+    cameraAngle: "Close-up shot showing detailed examination of relay panel interior"
+    focus: "Technician investigating Panel F Relay 70 with supervisor observing systematic troubleshooting"
+    depth: "Relay contact details in foreground, investigators in middle ground, computer equipment continuing to operate in background, no text or letters visible"

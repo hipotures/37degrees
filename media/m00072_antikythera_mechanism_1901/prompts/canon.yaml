@@ -4,77 +4,107 @@ canon:
       name: "Character DK"
       description_block: |
         characters:
-          - appearance: "Greek man, 40s, weathered skin from sea work, dark hair and beard, strong build"
-            clothing: "1900 Mediterranean diving gear with bronze helmet, or traditional Greek seafaring attire"
-            posture: "Confident seafarer stance, often holding diving equipment or examining artifacts"
-    - id: "character_SS"
-      name: "Character SS"
+          - appearance: "Mediterranean Greek man in his 40s, weathered face from years at sea, strong build typical of diving captain, dark beard and mustache"
+            clothing: "Traditional Greek fisherman's cap, heavy wool sweater, canvas trousers, leather boots - practical maritime clothing of 1900"
+            position: "Standing confidently on deck or addressing officials"
+            action: "Leading diving operations or reporting discoveries to authorities"
+
+    - id: "character_ES"
+      name: "Character ES"
       description_block: |
         characters:
-          - appearance: "Greek man, 50s, mustached, scholarly demeanor, keen observant eyes"
-            clothing: "Early 20th century formal suit with vest, or museum curator attire"
-            posture: "Analytical, often examining objects closely with magnifying glass or scholarly instruments"
+          - appearance: "Young Greek man in his 20s-30s, lean muscular build from diving, olive complexion, clean-shaven or light beard"
+            clothing: "Heavy canvas diving suit with copper helmet and air hose, thick boots weighted for descent"
+            position: "Preparing for dive or surfacing from depths"
+            action: "Operating diving equipment or gesturing dramatically while describing underwater discoveries"
+
     - id: "character_VS"
       name: "Character VS"
       description_block: |
         characters:
-          - appearance: "Greek man, 60s, distinguished beard, academic bearing, thoughtful expression"
-            clothing: "Formal museum director attire of 1902, dark suit with pocket watch chain"
-            posture: "Authoritative museum professional stance, often gesturing toward exhibits or artifacts"
-    - id: "ancient_craftsman"
-      name: "Ancient Craftsman"
+          - appearance: "Distinguished Greek scholar in his 50s, receding hairline, wire-rimmed spectacles, well-groomed mustache"
+            clothing: "Formal Edwardian suit with vest, white shirt with stiff collar, pocket watch chain - attire of academic professional"
+            position: "Leaning over artifacts at work table with magnifying glass"
+            action: "Methodically examining corroded bronze fragments, expression of sudden realization and excitement"
+
+    - id: "character_GK"
+      name: "Character GK"
       description_block: |
         characters:
-          - appearance: "Greek man, 30s, precise hands skilled in metalwork, focused intense eyes"
-            clothing: "Ancient Greek chiton and himation, leather working apron with bronze-working tools"
-            posture: "Concentrated artisan pose, hands working with fine bronze gears and precision instruments"
+          - appearance: "Greek diver in his 30s, robust build required for deep diving, dark hair and eyes"
+            clothing: "Heavy canvas diving suit, copper diving helmet, thick-soled diving boots"
+            position: "Being helped by fellow divers or lying still"
+            action: "Showing signs of decompression sickness or being attended to by concerned crew"
+
+    - id: "character_DP"
+      name: "Character DP"
+      description_block: |
+        characters:
+          - appearance: "Tall British academic in his 40s-50s, graying hair, intellectual bearing, typical of 1950s-70s era"
+            clothing: "1960s academic attire - tweed jacket with elbow patches, button-down shirt, modest tie"
+            position: "Standing at research table examining documents and images"
+            action: "Intense study of X-ray images and technical drawings, methodical documentation"
+
   locations:
-    - id: "antikythera_wreck_site"
-      name: "Antikythera Wreck Site"
+    - id: "antikythera_waters"
+      name: "Antikythera Island Waters"
       description_block: |
         setting:
-          location: "Mediterranean underwater archaeological site, 45 meters deep off Point Glyphadia, Antikythera island, Greece"
-        mainElements: "Ancient Roman shipwreck remains scattered across rocky seabed with bronze artifacts and amphorae"
-        atmosphere: "Mysterious underwater archaeological scene with filtered sunlight illuminating ancient treasures"
-    - id: "athens_museum"
-      name: "National Archaeological Museum Athens"
+          location: "Waters around Antikythera Island, between Crete and Peloponnese, Point Glyphadia with treacherous rocks"
+        mainElements: "Small rocky Greek island with steep cliffs, crystal-clear Mediterranean waters, strong currents around the island"
+        atmosphere: "Windswept and isolated, typical Aegean spring weather in 1900, challenging sailing conditions"
+
+    - id: "underwater_wreck_site"
+      name: "Underwater Wreck Site at 45 Meters"
       description_block: |
         setting:
-          location: "National Archaeological Museum of Athens, Greece, early 1900s exhibition hall"
-        mainElements: "Grand neoclassical museum interior with marble columns, display cases, and archaeological artifacts"
-        atmosphere: "Scholarly academic environment with natural light from tall windows illuminating ancient Greek treasures"
-    - id: "ancient_workshop"
-      name: "Ancient Greek Workshop"
+          location: "Antikythera wreck site at 45 meters depth, sloping rocky seafloor beneath Point Glyphadia"
+        mainElements: "Scattered bronze and marble statues partially buried in sediment, amphora shards, corroded metal objects, remnants of ancient Roman cargo ship hull"
+        atmosphere: "Dim blue-green underwater lighting filtering down, sediment clouds stirred by diving activity, dangerous pressure at depth"
+
+    - id: "national_museum_athens_workroom"
+      name: "National Archaeological Museum Athens - Research Workroom"
       description_block: |
         setting:
-          location: "Ancient Greek bronze-working workshop, Rhodes or similar Hellenistic city, 1st century BCE"
-        mainElements: "Stone workshop with bronze-working furnaces, precision tools, gear-cutting equipment, and astronomical instruments"
-        atmosphere: "Industrious ancient technological center with warm firelight and bronze-working activities"
+          location: "National Archaeological Museum of Athens research workroom, neoclassical building interior"
+        mainElements: "High-ceilinged room with tall windows, wooden work tables, display cases, gas lighting fixtures, marble floors"
+        atmosphere: "Quiet, scholarly environment with dust motes in sunlight through tall windows, scent of old artifacts, focused academic work"
+
+    - id: "symi_island_harbor"
+      name: "Symi Island Harbor"
+      description_block: |
+        setting:
+          location: "Traditional Greek sponge diving harbor on Symi Island in the Dodecanese"
+        mainElements: "Harbor with traditional sailing boats, stone houses, sponge drying areas, diving equipment workshops, Mediterranean architecture"
+        atmosphere: "Bustling maritime community, Mediterranean climate, scents of sea and sponges, sounds of harbor activity and preparation"
+
+  items:
+    - id: "antikythera_mechanism_corroded"
+      name: "Antikythera Mechanism - Corroded State"
+      description_block: |
+        details: "Unrecognizable corroded lump of bronze and wood, about the size of a shoebox, heavy green patina from sea corrosion, embedded gears barely visible through corrosion layers, appears as worthless debris to untrained eye"
+
+    - id: "antikythera_mechanism_fragments"
+      name: "Antikythera Mechanism - 82 Fragments"
+      description_block: |
+        details: "82 bronze fragments varying from coin-size to plate-size, heavy green corrosion, intricate gears visible in cross-sections, Fragment A contains main gear train, Fragment B shows calendar dials, ancient Greek inscriptions barely legible through patina"
+
+    - id: "bronze_statue_arm"
+      name: "Bronze Statue Arm"
+      description_block: |
+        details: "Life-sized bronze arm from ancient Greek statue, green patina from sea corrosion, detailed musculature visible despite corrosion, attached to fragment of torso or shoulder, first artifact that revealed the wreck's importance"
+
+    - id: "diving_equipment_1900"
+      name: "1900-Era Greek Diving Equipment"
+      description_block: |
+        details: "Heavy canvas diving suit with copper helmet featuring glass faceplate, manual air pump operated from surface, weighted diving boots, thick air hose connecting diver to surface, no modern safety equipment or decompression chambers"
+
     - id: "sponge_diving_boat"
       name: "Greek Sponge Diving Vessel"
       description_block: |
-        setting:
-          location: "Traditional Greek sponge diving boat near Antikythera waters, 1900-1901"
-        mainElements: "Wooden Mediterranean fishing vessel with diving equipment, bronze helmet, and recovered artifacts on deck"
-        atmosphere: "Maritime adventure atmosphere with sea spray and excitement of archaeological discovery"
-  items:
-    - id: "antikythera_mechanism"
-      name: "Antikythera Mechanism"
+        details: "Traditional wooden sailing boat 15-20 meters long, white-painted hull with weathered appearance, triangular lateen sails, equipped with manual diving air pump, rope systems for deep diving operations, typical Mediterranean fishing vessel design"
+
+    - id: "youth_of_antikythera"
+      name: "Youth of Antikythera Bronze Statue"
       description_block: |
-        details: "Ancient bronze mechanical device, 34cm x 18cm x 9cm, complex system of 30+ interlocking gears, corroded green patina, inscribed with Greek text, fragmented into multiple pieces, world's first analog computer"
-    - id: "bronze_gears"
-      name: "Bronze Gear Wheels"
-      description_block: |
-        details: "Precision-cut bronze gears of various sizes, largest 13cm diameter with 223 teeth, intricate tooth patterns, green patina from sea corrosion, some with visible Greek inscriptions around edges"
-    - id: "diving_helmet"
-      name: "1900s Diving Helmet"
-      description_block: |
-        details: "Heavy bronze diving helmet with glass viewing ports, air hose connection, polished metal surface reflecting Mediterranean sunlight, used for deep-sea sponge diving and artifact recovery"
-    - id: "wooden_case_remains"
-      name: "Wooden Case Fragments"
-      description_block: |
-        details: "Deteriorated wooden frame pieces that once housed the mechanism, dark water-stained wood, rectangular frame structure partially preserved after 2000 years underwater"
-    - id: "astronomical_inscriptions"
-      name: "Greek Astronomical Inscriptions"
-      description_block: |
-        details: "Ancient Greek text carved into bronze surfaces, astronomical terms and calculations, partially corroded but still visible, describing planetary movements and eclipse predictions"
+        details: "Life-sized bronze statue of young athlete, missing right arm, green-black patina from sea exposure, classical Greek contrapposto pose, detailed facial features with evidence of original glass eyes, circa 340 BCE craftsmanship"

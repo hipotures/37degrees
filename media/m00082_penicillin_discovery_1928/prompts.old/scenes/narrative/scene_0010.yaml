@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Character AF's Laboratory Legacy - Future of Medicine"
+  setting:
+    time: "1928 late September, evening"
+    location: "St Mary's Hospital Bacteriology Laboratory, Paddington, London"
+    weather: "Clear autumn evening with golden hour lighting"
+  characters:
+    - appearance: "Scottish man, 47 years old, average height, lean build, receding dark hair, thoughtful brown eyes, clean-shaven"
+      clothing: "1920s white laboratory coat over dark suit with vest and tie, or dark wool suit with waistcoat"
+      position: "Standing at laboratory bench writing in research notebook"
+      action: "Recording final observations and preparing research publication notes"
+  scene:
+    mainElements: "Laboratory bench with original contaminated culture plate preserved, research documentation, scientific equipment used in discovery"
+    details: "Original contaminated petri dish carefully preserved under glass cover, laboratory notebook open with detailed observations and sketches, brass microscope positioned for continued study, glass flasks containing mold cultures for further research, chemical bottles and extraction equipment, evening sunlight creating warm glow through laboratory windows, sense of momentous scientific achievement, no text or letters visible"
+    background: "Laboratory shelves with scientific equipment, institutional hospital setting, view of London through windows transitioning to evening light"
+    atmosphere: "Quiet satisfaction of scientific discovery, anticipation of future medical breakthroughs, recognition of potential to save countless lives"
+  composition:
+    cameraAngle: "Medium shot showing Character AF with his groundbreaking discovery in context"
+    focus: "Character AF documenting his discovery with original contaminated culture visible"
+    depth: "Foreground shows preserved contaminated culture and research documentation, middle ground captures character AF's methodical work, background reveals laboratory setting with evening light creating sense of historical significance"

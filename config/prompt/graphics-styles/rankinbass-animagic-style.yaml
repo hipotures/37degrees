@@ -1,0 +1,60 @@
+styleName: RankinBass Animagic Style
+description: Stop-motion animation style from Rankin/Bass Productions with spheroid puppet characters and nostalgic holiday charm
+aiPrompts:
+  basePrompt: rankinbass animagic style, stop motion puppets, spheroid doll characters, vintage holiday special, miniature sets, puppet animation, 1960s christmas special
+  negativePrompt: 2D animation, CGI, modern animation, flat imagery, digital rendering
+  styleKeywords:
+  - stop motion
+  - animagic
+  - puppet animation
+  - rankinbass
+  - vintage holiday
+  - miniature sets
+visualElements:
+  colorPalette:
+    primary:
+    - warm golden tones
+    - festive reds and greens
+    - cozy earth colors
+    secondary:
+    - powdery white snow
+    - vintage saturated colors
+    - soft pastels
+    background: miniature practical sets with handcrafted details
+    usageNotes: Vintage 1960s color saturation with warm holiday glow
+    saturation: high vintage saturation
+    contrast: soft warm contrasts
+  lineArt:
+    style: no lines - dimensional puppet forms
+    weight: n/a - 3D puppets
+    texture: visible puppet materials - wood, fabric, cotton
+    edgeTreatment: soft puppet edges with visible seams
+  lighting:
+    type: warm theatrical lighting
+    direction: golden hour style
+    intensity: cozy and warm
+    shadows:
+      style: soft puppet shadows
+      color: warm brown tones
+      opacity: moderate
+    highlights: festive sparkles on snow
+  rendering:
+    technique: stop motion puppet animation
+    texture: carved wood, fabric, wool, cotton textures
+    detailLevel: handcrafted miniature detail
+    finish: vintage film quality with slight grain
+  perspective: miniature set diorama perspective
+  mood:
+    overall: nostalgic, magical, cozy holiday atmosphere
+    emotion: childlike wonder and warmth
+    tempo: choppy puppet movements
+    keywords:
+    - nostalgic
+    - magical
+    - holiday
+    - cozy
+    - vintage
+  stylePrecedents:
+  - Rudolph the Red-Nosed Reindeer
+  - Santa Claus is Comin' to Town
+  - The Year Without a Santa Claus

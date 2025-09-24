@@ -1,65 +1,80 @@
 canon:
   characters:
-    - id: "atacameno_elder"
-      name: "Atacameño Elder"
+    - id: "character_AL"
+      name: "Character AL"
       description_block: |
         characters:
-          - appearance: "Indigenous man, 60s, weathered face from desert exposure, dark sun-hardened skin, wise dark eyes"
-            clothing: "Traditional woven textiles, layered garments for temperature variation, alpaca wool clothing, practical desert wear"
-            posture: "Dignified bearing, hands showing knowledge of traditional crafts and water management"
-    - id: "tiwanaku_farmer"
-      name: "Tiwanaku Farmer"
+          - appearance: "Middle-aged man, weathered features from desert life, copper-toned skin, lean build adapted to scarce resources"
+            clothing: "Traditional llama wool textiles in earth tones, silver ornaments, leather sandals"
+            position: "Standing observantly, carrying ritual coca leaves"
+            action: "Surveying desert landscape with ancestral knowledge"
+    - id: "character_PV"
+      name: "Character PV"
       description_block: |
         characters:
-          - appearance: "Indigenous man, 40s, strong build adapted to high altitude, weathered hands from agricultural work"
-            clothing: "Traditional Andean textiles, woven patterns, practical farming garments, protection from sun and cold"
-            posture: "Focused on agricultural tasks, careful movements showing water conservation awareness"
-    - id: "modern_scientist"
-      name: "Modern Climate Scientist"
+          - appearance: "30s, European features, sun-damaged skin, sturdy build"
+            clothing: "Modified Spanish military attire, leather boots, metal breastplate, water containers"
+            position: "Standing with hand on sword hilt, seeking shade"
+            action: "Documenting water sources and establishing colonial control"
+    - id: "character_SM"
+      name: "Character SM"
       description_block: |
         characters:
-          - appearance: "Person, 30s-40s, practical appearance, sun protection clothing, scientific equipment visible"
-            clothing: "Modern desert research gear, wide-brimmed hat, UV protection clothing, field equipment vest"
-            posture: "Methodical observation stance, hands often holding measuring instruments or taking notes"
+          - appearance: "40s, professional appearance, protective sun clothing"
+            clothing: "Field research attire, wide-brimmed hat, UV protection clothing, scientific equipment bags"
+            position: "Kneeling beside weather instruments"
+            action: "Methodically recording unprecedented rainfall measurements"
+    - id: "character_JR"
+      name: "Character JR"
+      description_block: |
+        characters:
+          - appearance: "50s, athletic build from fieldwork, technical clothing"
+            clothing: "NASA field gear, specialized boots for rocky terrain, portable laboratory equipment"
+            position: "Standing beside Mars rover prototype"
+            action: "Studying extremophile organisms and Mars analog conditions"
   locations:
-    - id: "central_atacama"
-      name: "Central Atacama Desert"
+    - id: "location_calama"
+      name: "Calama Oasis Settlement"
       description_block: |
         setting:
-          location: "Central Atacama Desert, Chile, between Andes Mountains and Pacific Ocean"
-        mainElements: "Lunar-like landscape with rugged canyons, salt formations, vast sand dunes, minimal vegetation"
-        atmosphere: "Extreme aridity, scorching daytime heat contrasting with freezing nights, complete silence, pristine clear skies"
-    - id: "calama_settlement"
-      name: "Calama Area Settlement"
+          location: "Desert oasis town at 2,260m altitude, Calama, northern Chile, surrounded by barren mountains and salt flats"
+        mainElements: "Adobe buildings, precious water wells, sparse vegetation, mining infrastructure"
+        atmosphere: "Harsh sunlight, minimal shade, dust-filled air, extreme temperature variations"
+    - id: "location_hyperarid"
+      name: "Atacama Hyperarid Core"
       description_block: |
         setting:
-          location: "Calama region, northern Chile, Atacama Desert settlements"
-        mainElements: "Traditional indigenous settlements with water management systems, terraced areas, limited agriculture"
-        atmosphere: "Human adaptation to extreme drought, ingenious survival methods, connection to ancient traditions"
-    - id: "salt_flats"
-      name: "Atacama Salt Flats"
+          location: "Vast desert plain between coastal range and Andes Mountains, northern Chile, Earth's driest location"
+        mainElements: "Salt-encrusted flats, wind-carved rocks, ancient dry lake beds, minimal topography"
+        atmosphere: "Bone-dry air, intense UV radiation, complete silence, Mars-like landscape"
+    - id: "location_flowering"
+      name: "Desierto Florido Blooming Zone"
       description_block: |
         setting:
-          location: "Salt flats and mineral deposits throughout Atacama Desert"
-        mainElements: "Crystalline salt formations, mineral deposits, geometric patterns in dried lake beds"
-        atmosphere: "Otherworldly beauty, complete absence of water, geological time made visible"
-    - id: "mountain_barriers"
-      name: "Mountain Rain Barriers"
+          location: "Transformed desert plain carpeted with wildflowers, Atacama Desert, northern Chile"
+        mainElements: "Millions of colorful blooms, resurrected insects and birds, temporary streams"
+        atmosphere: "Sweet floral scents, buzzing of awakened insects, vivid colors against brown earth"
+    - id: "location_nasa_site"
+      name: "NASA Mars Simulation Zone"
       description_block: |
         setting:
-          location: "Andes Mountains and Chilean Coast Range surrounding Atacama Desert"
-        mainElements: "High mountain peaks creating rain shadow effect, blocking moisture from Pacific and Atlantic"
-        atmosphere: "Natural fortress preventing rainfall, creating two-sided rain shadow, dramatic elevation changes"
+          location: "Ultra-dry desert terrain used for Mars rover testing, Atacama Desert, northern Chile"
+        mainElements: "Scientific equipment stations, rover tracks, drilling sites, research camps"
+        atmosphere: "Scientific urgency, otherworldly landscape, extreme environmental conditions"
   items:
-    - id: "water_management_system"
-      name: "Traditional Water Management"
+    - id: "item_rainfall_gauge"
+      name: "Calama Weather Station Rain Gauge"
       description_block: |
-        details: "Indigenous water collection and conservation systems, traditional terraces, underground channels, dew collection methods, carefully managed irrigation"
-    - id: "drought_indicators"
-      name: "400-Year Drought Evidence"
+        details: "Metal cylindrical instrument, weathered by decades of desert exposure, precise measurement markings, recording 2.1mm precipitation in 1971 after 401 years of zero measurements"
+    - id: "item_dormant_seeds"
+      name: "Centuries-Old Desert Flower Seeds"
       description_block: |
-        details: "Dry riverbeds showing 120,000+ years without flow, weather monitoring stations with zero rainfall records, geological evidence of extreme aridity, preserved organic materials due to desiccation"
-    - id: "adapted_vegetation"
-      name: "Desert-Adapted Plant Life"
+        details: "Tiny, hardened seeds preserved in hyperarid soil, various species adapted for extreme dormancy, remained viable for over 400 years"
+    - id: "item_colonial_records"
+      name: "1570 Colonial Water Rights Documents"
       description_block: |
-        details: "Sparse vegetation adapted to extreme drought, specialized root systems, waxy surfaces for water retention, minimal leaf structures to reduce evaporation"
+        details: "Aged parchment documents in Spanish, describing water access rights and final rainfall observations before drought period"
+    - id: "item_mars_rover"
+      name: "NASA Mars Simulation Rover"
+      description_block: |
+        details: "Six-wheeled robotic vehicle, solar panels, drilling equipment, scientific instruments, designed for autonomous operation in Mars-like conditions"

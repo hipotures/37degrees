@@ -1,26 +1,29 @@
 sceneDescription:
   setting:
-    time: 1903, morning
-    location: National Archaeological Museum of Athens, Greece, early 1900s exhibition hall
-    weather: Bright morning sunlight streaming through museum windows
-  characters: No characters present in this scene
+    time: 1960s-70s, afternoon
+    location: University research laboratory with modern scientific equipment
+    weather: Indoor controlled lighting for scientific analysis
+  characters:
+  - appearance: Tall British academic in his 40s-50s, graying hair, intellectual bearing, typical of 1950s-70s era
+    clothing: 1960s academic attire - tweed jacket with elbow patches, button-down shirt, modest tie
+    position: Standing at research table examining documents and images
+    action: Intense study of X-ray images and technical drawings, methodical documentation
   scene:
-    mainElements: Grand neoclassical museum interior with marble columns, display cases, and archaeological artifacts
-    details: Professional museum display featuring the Antikythera Mechanism in a place of honor. Ancient bronze mechanical
-      device, 34cm x 18cm x 9cm, complex system of 30+ interlocking gears, corroded green patina, inscribed with Greek text,
-      fragmented into multiple pieces, world's first analog computer. Glass display case protecting the mechanism fragments,
-      with precision-cut bronze gears of various sizes, largest 13cm diameter with 223 teeth, intricate tooth patterns, green
-      patina from sea corrosion, some with visible Greek inscriptions around edges. Deteriorated wooden frame pieces that
-      once housed the mechanism, dark water-stained wood, rectangular frame structure partially preserved after 2000 years
-      underwater. Professional museum lighting highlighting the ancient computer's complexity.
-    background: Classical museum setting with other significant Greek artifacts, marble columns, and academic atmosphere
-    atmosphere: Scholarly academic environment with natural light from tall windows illuminating ancient Greek treasures.
-      Sense of preserved ancient genius and technological wonder made accessible to future generations.
+    mainElements: Modern scientific analysis reveals the true complexity of ancient Greek technology. X-ray images and technical
+      drawings spread across research table show intricate gear mechanisms that challenged all assumptions about ancient capabilities.
+    details: Research table covered with X-ray photographs revealing internal gear structures of the fragmented mechanism.
+      Technical drawings and scientific instruments visible alongside the detailed imaging results. Modern 1960s laboratory
+      equipment contrasts dramatically with ancient bronze artifacts. The 82 corroded fragments now understood as sophisticated
+      astronomical computer components. Research documentation and scientific analysis materials scattered across work surface,
+      no text or letters visible.
+    background: University laboratory setting with modern scientific equipment and bright fluorescent lighting typical of
+      mid-20th century academic research
+    atmosphere: Scientific triumph as modern technology finally unveils ancient genius, bridging 2000 years between Greek
+      innovation and contemporary understanding
   composition:
-    cameraAngle: Wide establishing shot of museum display
-    focus: Antikythera Mechanism in professional museum exhibition
-    depth: 'Foreground: mechanism display case, middle ground: museum gallery, background: classical architecture and other
-      exhibits, no text or letters visible'
+    cameraAngle: Medium shot of scientist examining breakthrough analysis
+    focus: X-ray images revealing hidden complexity of ancient mechanism
+    depth: Scientific analysis materials in foreground, researcher in middle ground, modern laboratory equipment in background
 visualElements:
   colorPalette:
     primary:

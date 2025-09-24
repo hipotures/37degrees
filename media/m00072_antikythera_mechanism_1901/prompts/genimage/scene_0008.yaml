@@ -1,27 +1,26 @@
 sceneDescription:
   setting:
-    time: 1902, late evening
-    location: National Archaeological Museum of Athens, Greece, early 1900s exhibition hall
-    weather: Evening lighting with focused lamp illumination on workspace
+    time: 1901-1902, afternoon
+    location: National Archaeological Museum of Athens research workroom, neoclassical building interior
+    weather: Natural daylight through museum windows
   characters:
-  - appearance: Greek man, 60s, distinguished beard, academic bearing, thoughtful expression
-    clothing: Formal museum director attire of 1902, dark suit with pocket watch chain
-    position: Standing over mechanism with amazed expression
-    action: Pointing at interconnected gear system with scholarly excitement
+  - No characters present in this scene
   scene:
-    mainElements: Grand neoclassical museum interior with marble columns, display cases, and archaeological artifacts
-    details: Research table with mechanism fragments revealing their true complexity. Precision-cut bronze gears of various
-      sizes, largest 13cm diameter with 223 teeth, intricate tooth patterns, green patina from sea corrosion, some with visible
-      Greek inscriptions around edges. Multiple interconnected gear wheels visible, differential gear systems, and astronomical
-      calculation devices. Measuring instruments, documentation, and the growing realization of unprecedented ancient technology.
-    background: Museum research area with classical Greek artifacts and scholarly atmosphere
-    atmosphere: Scholarly academic environment with natural light from tall windows illuminating ancient Greek treasures.
-      Moment of profound scientific revelation and historical importance.
+    mainElements: Museum storage and research workroom filled with hundreds of recovered artifacts from the Antikythera wreck.
+      The corroded mechanism sits unnoticed among bronze statues and marble sculptures.
+    details: High-ceilinged room with tall windows allowing natural light to illuminate classical artifacts. Wooden work tables
+      covered with bronze statues including the famous Youth statue with detailed facial features and classical contrapposto
+      pose. Marble sculptures visible on shelves and stands. The mysterious corroded bronze lump sits among other corroded
+      metal objects, completely unrecognized as humanity's first computer. Gas lighting fixtures supplement daylight. Dust
+      motes float in sunbeams streaming through tall windows, no text or letters visible.
+    background: Neoclassical museum architecture with classical columns and marble architectural details typical of academic
+      institutions
+    atmosphere: Quiet scholarly environment where the greatest technological discovery of ancient world waits unrecognized
+      among catalogued treasures, academic tranquility masking revolutionary potential
   composition:
-    cameraAngle: Close-up shot emphasizing gear complexity and scholar's amazement
-    focus: Intricate bronze gear system with interconnected mechanisms
-    depth: 'Foreground: detailed gear mechanisms, middle ground: amazed director, background: museum research setting, no
-      text or letters visible'
+    cameraAngle: Wide interior shot of museum workroom
+    focus: Corroded mechanism sitting unnoticed among magnificent classical artifacts
+    depth: Artifact tables in foreground, stored sculptures in middle ground, classical museum architecture in background
 visualElements:
   colorPalette:
     primary:

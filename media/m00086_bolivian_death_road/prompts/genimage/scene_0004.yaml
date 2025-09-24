@@ -1,24 +1,27 @@
 sceneDescription:
   setting:
-    time: July 24, 1983, evening
-    location: Devils Curve section of Death Road - site of infamous 1983 bus accident
-    weather: Rain making road surface slippery and dangerous
-  characters:
-  - appearance: Bus driver, 30s, concentrated expression, mustache, tired eyes
-    clothing: Simple work shirt, worn jeans, baseball cap
-    position: In driver's seat of bus at dangerous curve
-    action: Desperately trying to control overcrowded bus as it skids on wet gravel toward cliff edge
+    time: 1980s, late afternoon
+    location: Narrow dirt road carved into steep Cordillera Oriental mountainside, connecting La Paz highlands to Yungas cloud
+      forest region
+    weather: Clear mountain air with golden afternoon light casting long shadows
+  characters: No characters present in this scene
   scene:
-    mainElements: Sharp curve with memorial crosses, steep cliff drop, warning signs
-    details: Overcrowded bus losing control on treacherous curve, wet road surface glistening with rain, passengers visible
-      through windows in moment of terror, guardrails absent, cliff edge just meters away, rocks and debris on roadway
-    background: Sheer drop into misty valley thousands of feet below, storm clouds gathering over mountain peaks
-    atmosphere: Somber remembrance, danger made visible through memorials and crosses
+    mainElements: Single-lane gravel track barely 3 meters wide, no guardrails, sheer cliff drops up to 1,000 meters, tight
+      hairpin turns around rock outcroppings
+    details: Wooden and metal crosses of varying sizes placed at crash sites along the road, some decorated with flowers,
+      weathered by mountain conditions, growing in number over decades. Multiple crosses clustered at particularly dangerous
+      curve sections. Fresh flowers on some crosses indicating recent deaths. Weathered wood showing years of mountain exposure.
+      Small memorial plaques and personal items left by families. Cross sizes ranging from small roadside markers to large
+      wooden structures. Some crosses tilting or damaged from harsh weather. Evidence of multiple accidents concentrated at
+      specific dangerous points along route.
+    background: Late afternoon sun illuminating Andean mountain peaks, deep valley visible far below road edge
+    atmosphere: Somber memorial atmosphere with golden light highlighting the tragic human cost of the dangerous road, wind
+      moving through mountain passes, respectful silence broken only by mountain sounds, no text or letters visible
   composition:
-    cameraAngle: Dynamic angle capturing the bus at moment of losing control
-    focus: Bus skidding toward cliff edge at the infamous Devils Curve
-    depth: Bus in immediate foreground, dangerous curve in middle ground, vast deadly drop in background, no text or letters
-      visible
+    cameraAngle: Medium shot from road level showing cluster of memorial crosses against mountain backdrop
+    focus: Collection of weathered memorial crosses emphasizing accumulated death toll
+    depth: 'Foreground: memorial crosses of various sizes and ages, middle: narrow dangerous road curve, background: dramatic
+      mountain peaks in golden light'
 visualElements:
   colorPalette:
     primary:

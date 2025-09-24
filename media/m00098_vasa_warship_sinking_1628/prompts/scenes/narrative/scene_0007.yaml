@@ -1,16 +1,20 @@
 sceneDescription:
-  title: "Water Through Gun Ports - Catastrophic Flooding"
+  title: "First Dangerous Gust Heels the Warship"
   setting:
-    time: "August 10, 1628, mid-morning"
-    location: "Vasa warship gun deck during flooding"
-    weather: "Light wind continuing to push ship over"
-  characters: "No characters present in this scene"
+    time: "August 10, 1628, 16:35"
+    location: "Stockholm Harbor near Tegelviken bay, Sweden"
+    weather: "Sudden gust of wind from the south striking the ship"
+  characters:
+    - appearance: "Middle-aged seaman, weathered face, graying beard, muscular build from years at sea, worried expression"
+      clothing: "Dark blue naval officer's coat with brass buttons, white shirt, black tricorn hat, leather belt with cutlass"
+      position: "Standing on ship's deck"
+      action: "Constantly checking rigging and sails, barking orders with growing urgency"
   scene:
-    mainElements: "Harbor water rushing through open gun ports as ship tilts beyond recovery point"
-    details: "Water cascading through open cannon ports only 1.2 meters above waterline, 64 bronze cannons sliding across tilting deck as ship heels, flooding gun decks rapidly, massive artillery pieces breaking loose and causing additional chaos, wooden gun deck awash with incoming harbor water, elaborate ship interior being destroyed by flooding"
-    background: "Stockholm harbor waters rising around ship, gun port openings now below water level, ship's ornate superstructure still visible above water"
-    atmosphere: "Catastrophic flooding overwhelming ship's compartments, engineering disaster in full progress, point of no return reached, royal warship becoming maritime tragedy, no text or letters visible"
+    mainElements: "Protected waters between mainland and archipelago, royal palace quay, Slussen narrows, Södermalm bluffs, Tegelviken bay, numerous small islands and rocks"
+    details: "Warship Vasa caught by sudden wind gust, vessel heeling dramatically to port side far beyond normal sailing angles, sails billowing and straining against rigging, crew members grabbing ropes and railings to maintain balance, bronze cannons shifting ominously in gun ports, water beginning to approach lower deck openings, ornate stern rising high as ship tilts, spectators on shore pointing in alarm, no text or letters visible"
+    background: "Bustling maritime activity, summer afternoon sun creating long shadows, gentle breeze carrying salt air and tar scents"
+    atmosphere: "Bustling maritime activity, summer afternoon sun creating long shadows, gentle breeze carrying salt air and tar scents"
   composition:
-    cameraAngle: "Low angle shot from gun deck showing flooding catastrophe"
-    focus: "Unstoppable flooding through design flaw of low gun ports"
-    depth: "Flooding gun deck in foreground, tilting ship structure in middle ground, harbor waters in background"
+    cameraAngle: "Dynamic side angle showing dramatic ship tilt"
+    focus: "Captain shouting urgent orders as ship heels dangerously"
+    depth: "Tilted deck and struggling crew in foreground, ship's hull at severe angle in middle ground, Stockholm harbor and alarmed spectators in background, no text or letters visible"

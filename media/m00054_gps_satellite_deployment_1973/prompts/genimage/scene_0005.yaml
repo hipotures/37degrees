@@ -1,97 +1,77 @@
 sceneDescription:
   setting:
-    time: February 22, 1978, early morning pre-dawn
-    location: Vandenberg Air Force Base launch pad, California coast
-    weather: Clear morning with coastal fog rolling in from Pacific Ocean
+    time: 1974, mid-morning
+    location: Aerospace Corporation research facility, El Segundo, California near LAX
+    weather: Clear California morning with mild temperature
   characters:
-  - appearance: Team of technicians and operators, 25-45 years old, concentrated expressions
-    clothing: 1970s business attire, white shirts with narrow ties, some with headsets
-    position: At mission control consoles monitoring launch systems
-    action: Monitoring screens, communicating via headsets, tracking final launch preparations
-  - appearance: Launch director, 50s, authoritative bearing, headset and microphone
-    clothing: Air Force uniform or technical civilian clothes with mission patches
-    position: Standing at central command position overseeing launch operations
-    action: Coordinating final launch sequence, communicating with range safety and satellite control
+  - appearance: Distinguished 62-year-old scientist, graying hair, thin frame, penetrating intellectual gaze
+    clothing: Conservative business suit typical of aerospace industry executives, often seen with technical papers
+    position: Standing near technical displays or seated in advisory role during meetings
+    action: Gesturing toward conceptual diagrams, speaking with visionary enthusiasm, or studying satellite specifications
   scene:
-    mainElements: Massive rocket on launch pad with service towers, surrounded by coastal hills, Multi-stage rocket with GPS
-      satellite payload fairing, white and blue NASA/Air Force markings, dramatic launch facility against Pacific Ocean backdrop
-    details: Banks of monitoring equipment, large screens showing orbital data, control consoles, Launch control center with
-      CRT monitors, communication equipment, mission patches and flags, countdown clocks, no text or letters visible
-    background: California coastal hills in morning light, Pacific Ocean visible in distance, launch complex infrastructure
-      with service towers and support buildings
-    atmosphere: Dramatic launch facility against Pacific Ocean backdrop with morning fog, tension and excitement of historic
-      first launch, coordination and precision of space operations
+    mainElements: Glass and concrete buildings, satellite mockups, computer terminals, technical laboratories, engineering
+      workstations
+    details: Advanced aerospace research facility with 845 kg cylindrical spacecraft, 5.3 meters across with dual solar panels
+      deployed, distinctive box-like main body with metallic surface, three rechargeable batteries, hydrazine thrusters visible
+      models on display. Computer terminals showing orbital calculations, engineering drawings spread across design tables,
+      prototype components in testing chambers. Large windows revealing aircraft from nearby LAX passing overhead.
+    background: Modern 1970s aerospace facility with clean lines, technical equipment, California industrial architecture
+    atmosphere: High-tech research environment with busy engineers and scientists, sound of jet aircraft overhead, innovative
+      energy
   composition:
-    cameraAngle: Wide dramatic shot showing rocket on launch pad
-    focus: Delta rocket with GPS satellite payload ready for launch
-    depth: Launch vehicle in foreground, service towers and support structures in middle ground, coastal California landscape
-      in background
+    cameraAngle: Medium shot from laboratory floor showing technical development in progress
+    focus: Character IG explaining GPS satellite concepts with engineering models and prototypes
+    depth: Character and satellite mockups in foreground, technical workstations in middle ground, California aerospace facility
+      extending into background, no text or letters visible
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

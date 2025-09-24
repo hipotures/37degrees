@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Cyclists Descending Death Road Adventure"
+  setting:
+    time: "2010s, afternoon"
+    location: "North Yungas Road narrow cliff section, Bolivia - 3-meter wide dirt road carved into mountainside"
+    weather: "Partly cloudy with dramatic lighting through mountain gaps"
+  characters:
+    - appearance: "Young backpacker, 20s, athletic build, eager expression, wearing bike helmet"
+      clothing: "Modern cycling gear - padded shorts, moisture-wicking shirt, protective gear"
+      position: "On mountain bike navigating narrow cliff road"
+      action: "Carefully controlling speed while descending, gripping brakes tightly, eyes focused on treacherous path ahead"
+    - appearance: "Tourist cyclist, 30s, adventure seeker, protective gear, determined expression"
+      clothing: "Full protective mountain biking gear - armor, helmet, gloves"
+      position: "Following behind lead cyclist"
+      action: "Maintaining safe distance while navigating same dangerous terrain"
+  scene:
+    mainElements: "Extremely narrow mountain road carved into cliff face, sheer drop on one side, rock wall on other"
+    details: "Multiple cyclists in single file on narrow road, modern safety equipment, support vehicle following at distance, dramatic 3,500-meter descent visible, lush vegetation changing from mountain to tropical"
+    background: "Amazon basin visible thousands of feet below, mist rising from tropical valley"
+    atmosphere: "Controlled danger, adventure tourism at its most extreme, breathtaking scenery"
+  composition:
+    cameraAngle: "Dynamic side view showing cyclists on cliff edge"
+    focus: "Adventure cyclists experiencing the transformed Death Road"
+    depth: "Cyclists in foreground, narrow road in middle ground, dramatic valley drop in background, no text or letters visible"

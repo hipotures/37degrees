@@ -1,87 +1,147 @@
 canon:
   characters:
-    - id: "ramp_worker_primary"
-      name: "Primary Ramp Worker"
+    - id: "character_RE"
+      name: "Character RE"
       description_block: |
         characters:
-          - appearance: "Male worker, 30s, Caucasian, medium build, alert expression"
-            clothing: "Navy blue United Airlines work pants, company polo shirt with UA logo, high-visibility orange safety vest (ANSI Class II), hearing protection around neck, safety shoes, winter jacket for November weather"
-            posture: "Active, pointing upward or operating ground equipment"
-    - id: "ua_pilot"
-      name: "United Airlines Pilot"
+          - appearance: "Male, approximately 30-45 years old, Caucasian, average build, alert expression"
+            clothing: "Navy blue United Airlines ground crew coveralls, high-visibility orange safety vest, work boots, communication headset around neck"
+            position: "Operating ground equipment or positioned near aircraft on tarmac"
+            action: "Conducting routine ground operations, alert and focused on unusual observations"
+
+    - id: "character_PF"
+      name: "Character PF"
       description_block: |
         characters:
-          - appearance: "Male pilot, 40s, Caucasian, professional bearing, clean-shaven"
-            clothing: "Dark navy United Airlines uniform with four-stripe captain insignia, white dress shirt, company tie, pilot wings pin"
-            posture: "Standing alert, looking upward, professional demeanor"
-    - id: "ground_crew_worker"
-      name: "Ground Crew Worker"
+          - appearance: "Male, approximately 40-55 years old, Caucasian, professional airline pilot appearance, confident demeanor"
+            clothing: "Standard United Airlines pilot uniform with four-stripe captain's epaulettes, white dress shirt, black tie, pilot's cap with United logo"
+            position: "In aircraft cockpit or standing near aircraft"
+            action: "Professional aviation duties, methodical observation and communication"
+
+    - id: "character_MF"
+      name: "Character MF"
       description_block: |
         characters:
-          - appearance: "Male worker, 20s-30s, medium build, focused expression"
-            clothing: "Grey or navy work uniform, United Airlines patches, high-visibility safety vest, work boots, tool belt"
-            posture: "Working with equipment or pointing skyward in amazement"
-    - id: "mechanic"
-      name: "Aircraft Mechanic"
+          - appearance: "Male, approximately 35-50 years old, Caucasian, experienced aviation mechanic, analytical expression"
+            clothing: "United Airlines maintenance coveralls in dark blue, work boots, tool belt with various maintenance tools, safety glasses"
+            position: "In aircraft cockpit during taxi operations or near maintenance equipment"
+            action: "Operating aircraft or conducting maintenance procedures, scientific observation"
+
+    - id: "character_SS"
+      name: "Character SS"
       description_block: |
         characters:
-          - appearance: "Male mechanic, 40s, stocky build, experienced look"
-            clothing: "Work coveralls with UA maintenance division patches, tool belt with various instruments, safety shoes"
-            posture: "Standing near aircraft, looking up with surprise"
-    - id: "faa_controller"
-      name: "FAA Air Traffic Controller"
+          - appearance: "Female, approximately 35-50 years old, Caucasian, management-level employee, responsible demeanor"
+            clothing: "Business casual attire appropriate for airline supervisor, dark blazer over blouse, United Airlines ID badge on lanyard"
+            position: "In ground control tower or office environment"
+            action: "Coordinating operations, making official communications to authorities"
+
+    - id: "character_JH"
+      name: "Character JH"
       description_block: |
         characters:
-          - appearance: "Male controller, 30s-40s, focused, professional demeanor"
-            clothing: "Business casual civilian attire, white dress shirt, dark pants"
-            posture: "Seated at control station with headset, looking at screens or out tower windows"
+          - appearance: "Male, approximately 40-55 years old, Caucasian, experienced journalist, investigative expression"
+            clothing: "Professional business attire suitable for newspaper reporter, dark suit jacket, dress shirt, notepad in hand"
+            position: "In office environment or conducting interviews"
+            action: "Investigating incidents, filing official requests, conducting journalistic research"
+
+    - id: "character_FM"
+      name: "Character FM"
+      description_block: |
+        characters:
+          - appearance: "Male or female, approximately 35-55 years old, professional air traffic control manager, official demeanor"
+            clothing: "Professional attire appropriate for FAA management position, white dress shirt or blouse, official ID badge"
+            position: "In control tower environment with radar screens and communications equipment"
+            action: "Managing air traffic control operations, documenting official communications"
+
   locations:
     - id: "gate_c17_area"
-      name: "Gate C-17 Terminal Area"
+      name: "Gate C17 Terminal Area"
       description_block: |
         setting:
-          location: "Gate C-17, Terminal 3 Concourse C, Chicago O'Hare International Airport"
-        mainElements: "Standard jet bridge gate area with large terminal windows, concrete apron with painted aircraft parking markings, ground support equipment positioned around aircraft"
-        atmosphere: "Busy commercial airport environment, modernist steel and glass architecture, functional industrial design"
-    - id: "airport_tarmac"
-      name: "O'Hare Airport Tarmac"
+          time: "November 7, 2006, 4:15 PM CST, late afternoon with overcast sky"
+          location: "Gate C17, Concourse C, Terminal 1, O'Hare International Airport, Chicago"
+          weather: "Mild autumn conditions, overcast sky with 1,900-foot cloud ceiling, light winds"
+        mainElements: "Modern airport gate area with jet bridge extending to aircraft parking position, large glass windows overlooking tarmac, passenger seating areas, gate counter with United Airlines branding"
+        details: "Commercial aviation environment with boarding equipment, ground power units, safety markings on tarmac, typical airport lighting, United Airlines Flight 446 aircraft positioned at gate"
+        background: "Busy O'Hare International Airport operations visible through windows, other aircraft and ground vehicles, terminal building architecture"
+        atmosphere: "Professional commercial aviation environment with constant aircraft movements, ground equipment operations, typical airport ambient sounds and activity"
+
+    - id: "exterior_ramp_c17"
+      name: "Concourse C Exterior Ramp"
       description_block: |
         setting:
-          location: "Aircraft parking apron, Gate C-17 area, Chicago O'Hare International Airport"
-        mainElements: "Concrete tarmac with painted yellow aircraft positioning markings, multiple aircraft at adjacent gates, ground support vehicles and equipment"
-        atmosphere: "Active airport operations, industrial aviation environment, constant movement of vehicles and personnel"
-    - id: "control_tower"
-      name: "O'Hare Control Tower"
+          time: "November 7, 2006, 4:15 PM CST, late afternoon with overcast lighting"
+          location: "Active aircraft ramp area adjacent to Concourse C, O'Hare International Airport"
+          weather: "Overcast sky at 1,900 feet, mild temperature in mid-50s Fahrenheit, light westerly winds at 5-9 mph"
+        mainElements: "Large concrete aircraft parking positions with safety markings, ground support equipment including pushback tractors, baggage carts, fuel trucks"
+        details: "Yellow and blue airport service vehicles, safety cones and equipment, aircraft maintenance platforms, ground power units, communication equipment"
+        background: "O'Hare terminal buildings, multiple aircraft at various gates, control tower visible in distance, urban Chicago skyline on horizon"
+        atmosphere: "Bustling ground operations with mechanical sounds, radio communications, constant movement of ground crews and equipment"
+
+    - id: "faa_control_tower_interior"
+      name: "FAA Control Tower Interior"
       description_block: |
         setting:
-          location: "Air traffic control tower, Chicago O'Hare International Airport"
-        mainElements: "Tall concrete structure with 360-degree glass viewing cab, multiple radar screens, communication equipment, control consoles"
-        atmosphere: "Professional aviation control environment, panoramic airport views, high-tech monitoring systems"
-    - id: "terminal_interior"
-      name: "Terminal 3 Interior"
+          time: "November 7, 2006, 4:18 PM CST, afternoon shift operations"
+          location: "O'Hare International Airport Control Tower, elevated position overlooking airport"
+          weather: "Climate-controlled interior with 360-degree windows showing overcast conditions outside"
+        mainElements: "Air traffic controllers' workstations with multiple radar screens, communication equipment, radio panels, flight progress strips"
+        details: "Professional control room with modern aviation electronics, multiple radar displays showing aircraft positions, communication headsets, reference manuals"
+        background: "Panoramic views of entire O'Hare airport complex through tower windows, runways, terminals, aircraft movements visible"
+        atmosphere: "Professional, controlled environment with constant radio chatter, focused concentration, systematic air traffic management"
+
+    - id: "united_ground_control"
+      name: "United Airlines Ground Control"
       description_block: |
         setting:
-          location: "Terminal 3 Concourse C interior, Chicago O'Hare International Airport"
-        mainElements: "Long narrow concourse with gates on both sides, large windows facing aircraft parking positions, commercial carpet or terrazzo flooring, typical airport retail and seating areas"
-        atmosphere: "Busy passenger terminal, modernist airport architecture, constant flow of travelers"
+          time: "November 7, 2006, 4:17 PM CST, active afternoon operations"
+          location: "United Airlines Ground Control facility, O'Hare International Airport"
+          weather: "Indoor facility with windows overlooking United Airlines gates and ramp areas"
+        mainElements: "Ground movement coordination equipment, radio communications center, multiple monitors showing gate assignments"
+        details: "United Airlines operational equipment, ground crew coordination systems, communication headsets, operational manuals and charts"
+        background: "Views of United Airlines gate areas through facility windows, aircraft at gates, ground equipment operations"
+        atmosphere: "Busy operational center with radio communications, coordination of ground movements, systematic airline operations management"
+
+    - id: "maintenance_hangar_area"
+      name: "United Airlines Maintenance Area"
+      description_block: |
+        setting:
+          time: "November 7, 2006, 4:17 PM CST, late afternoon maintenance operations"
+          location: "United Airlines Maintenance Hangar Complex, O'Hare International Airport"
+          weather: "Large indoor/outdoor facility with overcast sky visible through hangar openings"
+        mainElements: "Massive aircraft maintenance hangar buildings, maintenance bays with aircraft, ground support equipment storage areas"
+        details: "Industrial aviation maintenance equipment, aircraft engine hoists, maintenance platforms, tool storage systems, taxi lanes for aircraft movement"
+        background: "Large Boeing 777 and other United Airlines aircraft in various stages of maintenance, hangar infrastructure, airport operations visible beyond"
+        atmosphere: "Industrial aviation environment with mechanical sounds, aircraft engines, maintenance lighting, professional technical operations"
+
   items:
-    - id: "ufo_object"
-      name: "Dark Metallic Disc Object"
+    - id: "metallic_disc_object"
+      name: "Unidentified Aerial Object"
       description_block: |
-        details: "Dark grey metallic disc-shaped object, 6-24 feet diameter, perfectly smooth surface reflecting ambient airport lighting, no visible lights or illumination, completely silent, hovering motionless"
-    - id: "flight_446_aircraft"
-      name: "United Airlines Flight 446"
-      description_block: |
-        details: "Boeing 737 or Airbus A320 in United Airlines 'Rising Blue' livery circa 2006, white fuselage with blue and grey design elements, positioned at Gate C-17"
-    - id: "pushback_tug"
-      name: "Aircraft Pushback Tug"
-      description_block: |
-        details: "Yellow or orange ground support pushback tug vehicle connected to aircraft nose gear, industrial aviation equipment used for moving aircraft from gate"
-    - id: "hole_in_clouds"
+        details: "Disc or saucer-shaped metallic object with dark gray coloration, estimated diameter between 6-30 feet, completely smooth surface with no visible windows, doors, or propulsion systems, operates in complete silence, capable of motionless hovering and rapid vertical acceleration"
+
+    - id: "cloud_hole_phenomenon"
       name: "Circular Cloud Opening"
       description_block: |
-        details: "Perfect circular hole in uniform grey cloud layer at 1,900 feet altitude, clearly defined edges, approximately 20-30 feet diameter opening revealing blue sky above"
-    - id: "safety_equipment"
-      name: "Airport Safety Equipment"
+        details: "Distinct circular opening punched through overcast cloud layer at 1,900 feet altitude, estimated 20-50 feet in diameter, clean circular shape contrasting against gray cloud background, remains visible for several minutes before gradually closing due to wind patterns"
+
+    - id: "binoculars_equipment"
+      name: "Ground Crew Binoculars"
       description_block: |
-        details: "High-visibility orange and yellow safety vests (ANSI Class II), hearing protection headsets, safety shoes, handheld radios with boom microphones"
+        details: "Standard aviation ground crew binoculars with 8x or 10x magnification, black housing with adjustment knobs, neck strap, enables detailed observation of aircraft and aerial objects"
+
+    - id: "aircraft_flight_446"
+      name: "United Airlines Flight 446"
+      description_block: |
+        details: "Large commercial jet aircraft in United Airlines livery with blue and white color scheme, positioned at Gate C17 for departure to Charlotte North Carolina, normal operational condition with ground equipment attached"
+
+    - id: "boeing_777_maintenance"
+      name: "United Airlines Boeing 777"
+      description_block: |
+        details: "Large wide-body twin-engine aircraft in United Airlines livery, being taxied to maintenance hangar, normal operational condition with mechanic operating from cockpit"
+
+    - id: "ground_support_vehicles"
+      name: "Airport Ground Equipment"
+      description_block: |
+        details: "Various airport service vehicles including yellow pushback tractors, baggage carts, fuel trucks, ground power units, all in typical yellow and blue airport service colors supporting routine aircraft operations"

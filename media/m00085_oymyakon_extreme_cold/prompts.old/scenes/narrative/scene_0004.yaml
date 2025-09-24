@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Villager preparing car engine to prevent freezing"
+  setting:
+    time: "Early morning before dawn, 6:00 AM"
+    location: "Outdoor area near Yakutian house with attached garage, vehicle preparation area"
+    weather: "Extreme cold at -68°C, clear starry sky before sunrise"
+  characters:
+    - appearance: "Yakutian man, 40s, weathered face with high cheekbones, dark eyes adapted to snow glare, bronze skin from outdoor work"
+      clothing: "Traditional reindeer hide parka with fur-lined hood, thick mukluks, woolen mittens, layers of warm undergarments"
+      position: "Standing beside running vehicle with hood open"
+      action: "Checking engine fluids, adjusting engine block heater, ensuring car stays running to prevent freezing"
+  scene:
+    mainElements: "Soviet-era vehicle with engine running and hood open, clouds of exhaust vapor, engine block heater plugged into house power"
+    details: "Old but reliable car with engine running continuously, visible exhaust clouds in extreme cold air. Engine block heater cord extending from vehicle to electrical outlet on house exterior. Tool kit laid out on snow-covered ground. Extra containers of antifreeze and engine oil nearby. Headlights illuminating falling snow and vapor clouds. Vehicle interior lights showing necessity of keeping car operational in extreme conditions."
+    background: "Wooden Yakutian house with electrical connection, snow-covered yard, other village buildings with similar vehicle arrangements, forest edge visible in distance"
+    atmosphere: "Daily struggle against extreme cold, mechanical necessity for survival, human adaptation to harsh environment"
+  composition:
+    cameraAngle: "Medium shot from side angle showing both person and vehicle"
+    focus: "Vehicle with running engine and person performing cold weather maintenance"
+    depth: "Person and car in foreground, house with electrical connection in middle ground, village and forest in background, no text or letters visible"

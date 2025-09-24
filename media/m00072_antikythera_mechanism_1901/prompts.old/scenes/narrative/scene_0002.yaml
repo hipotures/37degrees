@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ancient Workshop - Creating the World's First Computer"
+  setting:
+    time: "100 BCE, afternoon"
+    location: "Ancient Greek bronze-working workshop, Rhodes or similar Hellenistic city, 1st century BCE"
+    weather: "Warm Mediterranean afternoon with golden sunlight streaming through workshop openings"
+  characters:
+    - appearance: "Greek man, 30s, precise hands skilled in metalwork, focused intense eyes"
+      clothing: "Ancient Greek chiton and himation, leather working apron with bronze-working tools"
+      position: "Seated at workbench with precision tools and partially completed gears"
+      action: "Carefully cutting teeth into bronze gear wheel using specialized ancient tools"
+  scene:
+    mainElements: "Stone workshop with bronze-working furnaces, precision tools, gear-cutting equipment, and astronomical instruments"
+    details: "Ancient workshop filled with bronze-working tools, measuring instruments, partially completed gear wheels of various sizes, astronomical charts carved on stone tablets. Glowing furnace with bronze ingots, precision cutting tools, compass and measuring devices. Complex gear mechanisms in various stages of completion scattered across stone workbenches."
+    background: "Stone walls with carved astronomical symbols, shelves holding bronze artifacts and tools, small windows letting in natural light"
+    atmosphere: "Industrious ancient technological center with warm firelight and bronze-working activities. Sense of incredible precision and mathematical genius at work."
+  composition:
+    cameraAngle: "Medium shot focusing on artisan's detailed work"
+    focus: "Craftsman's hands precisely cutting gear teeth with ancient tools"
+    depth: "Foreground: detailed gear-cutting work, middle ground: workshop tools and furnace, background: stone workshop walls, no text or letters visible"

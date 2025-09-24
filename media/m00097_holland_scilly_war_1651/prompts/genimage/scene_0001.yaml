@@ -1,26 +1,31 @@
 sceneDescription:
   setting:
-    time: 1651, morning
-    location: Small archipelago off southwest coast of Cornwall, England
-    weather: Stormy Atlantic weather with dramatic clouds
+    time: March 30, 1651, afternoon
+    location: Atlantic waters off Isles of Scilly archipelago, 28 miles southwest of Cornwall
+    weather: Rough Atlantic seas with high winds and sea spray
   characters:
-  - appearance: English man, 40s, aristocratic bearing, dark hair, royalist manner, stern expression
-    clothing: 17th century Royalist military attire with ornate jacket, feathered hat, ceremonial sash
-    position: Standing on fortress walls overlooking harbor
-    action: Defiant aristocratic stance, surveying his island stronghold with determined resolve
+  - appearance: Age 48 in 1651, medium build, weathered face with graying beard and mustache, stern blue eyes, battle-scarred
+      hands from decades at sea
+    clothing: Dutch naval uniform of dark blue wool coat with gold braiding, white shirt, black tricorn hat with Dutch insignia,
+      leather boots, ceremonial sword at side
+    position: Standing on warship deck overseeing operations
+    action: Commanding naval operations, studying the approaching islands through spyglass with weathered hands gripping the
+      rail
   scene:
-    mainElements: Rocky islands with natural harbors, lighthouse, stone fortifications, coastal cliffs
-    details: Dramatic rocky archipelago rising from Atlantic waters, stone fortress walls built into clifftops, White stone
-      lighthouse tower on rocky outcrop with beacon light, natural harbors protected by stone quays, wild Atlantic seas crashing
-      against rocks, seabirds circling overhead
-    background: Endless Atlantic Ocean stretching to horizon, Cornwall mainland barely visible in distance, storm clouds gathering
-      over rough seas
-    atmosphere: Remote maritime fortress location with dramatic Atlantic seascape and stormy skies, last Royalist stronghold
-      during Civil War, isolated outpost of royal resistance, no text or letters visible
+    mainElements: Twelve Dutch warships in battle formation approaching rocky granite archipelago, largest vessels displaying
+      60 cannons, Dutch naval flags flying from multiple masts
+    details: Square-rigged sails billowing in Atlantic winds, bronze cannons visible through open gun ports, officers' quarters
+      with diamond-paned windows gleaming in afternoon light, crew members visible on deck preparing for diplomatic mission,
+      rocky outcrops of Scilly islands rising from churning seas ahead
+    background: Dramatic cliff faces of the Isles of Scilly, defensive positions visible on clifftops, natural harbors nestled
+      between granite outcrops, wild Atlantic horizon stretching endlessly
+    atmosphere: Tense anticipation of diplomatic confrontation, disciplined naval efficiency mixed with determination, creaking
+      timber and sea spray, ominous approach of military power toward isolated island stronghold, no text or letters visible
   composition:
-    cameraAngle: Wide establishing shot showing island fortress in Atlantic setting
-    focus: Strategic island location and its commanding position
-    depth: Fortress and character on cliffs in foreground, harbor with ships in middle ground, vast Atlantic waters in background
+    cameraAngle: Wide establishing shot from elevated perspective showing fleet approaching islands
+    focus: Dutch flagship with commanding admiral studying the islands, surrounded by impressive naval formation
+    depth: Foreground shows detailed warship with character, middle ground reveals fleet formation, background displays dramatic
+      Scilly archipelago rising from Atlantic waters
 visualElements:
   colorPalette:
     primary:

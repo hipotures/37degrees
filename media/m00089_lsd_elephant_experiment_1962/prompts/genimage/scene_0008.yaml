@@ -1,42 +1,38 @@
 sceneDescription:
   setting:
-    time: August 3, 1962, 12:05 PM
-    location: Oklahoma City Zoo elephant enclosure, outdoor paddock area, Oklahoma, USA
-    weather: Harsh midday summer heat with bright overhead sun
+    time: August 3, 1962, 12:40 PM - exactly 1 hour and 40 minutes after LSD injection
+    location: Large outdoor elephant habitat at Oklahoma City Zoo with concrete flooring and metal fencing typical of 1960s
+      zoo design
+    weather: Hot August afternoon with harsh sunlight
   characters:
-  - appearance: 14-year-old male Indian elephant, medium-sized for species, dark gray skin, intelligent eyes, standing initially
-      then collapsing
-    clothing: No clothing - natural elephant appearance
-    position: Falling to ground in center of enclosure, legs stiffening
-    action: Trumpeting once loudly then collapsing with convulsive movements and labored breathing
-  - appearance: Caucasian man, 40s, medium build, receding dark hair, serious expression, wire-rimmed glasses
-    clothing: 1960s white lab coat over dark suit and tie, or gray flannel suit with narrow tie
-    position: Standing at barrier holding stopwatch, looking alarmed
-    action: Timing the reaction while showing visible concern at rapid deterioration
-  - appearance: African American man, 30s, stocky build, kind face, concerned expression
-    clothing: 1960s white lab coat over dark sweater vest and tie, or tan suit jacket
-    position: Moving quickly toward enclosure with medical equipment
-    action: Rushing to assess situation with stethoscope and medical supplies
-  - appearance: Mixed group of men and women, 20s-50s, varying builds, concerned expressions
-    clothing: 1960s zoo uniforms - khaki shirts and pants, some with caps
-    position: Standing at distance near zoo pathways
-    action: Standing at distance, some covering mouths in shock, others pointing
+  - appearance: 14-year-old male Indian elephant, 7,000 pounds, smaller ears than African elephants, gray skin with sparse
+      hair
+    clothing: No clothing or restraints, natural elephant appearance
+    position: Initially standing calmly in enclosure, later collapsed on concrete floor
+    action: Transitions from calm docile behavior to distressed trumpeting, then seizure and collapse
+  - appearance: Caucasian man, 37 years old, average height and build, clean-shaven with dark hair, wearing wire-rimmed glasses
+      typical of 1960s academics
+    clothing: White lab coat over dark suit and tie, clipboard in hand, professional medical appearance
+    position: Standing with clipboard, observing experiment with confident demeanor
+    action: Taking notes and directing the experimental procedure with scientific authority
+  - appearance: African-American man in his 40s, distinguished bearing, medium build, serious expression, professional demeanor
+    clothing: Dark business suit with white shirt and conservative tie, medical identification badge
+    position: Standing beside other researchers, maintaining professional distance
+    action: Taking detailed notes and monitoring the experiment with growing concern
   scene:
-    mainElements: 14-year-old male Indian elephant, medium-sized for species, dark gray skin, intelligent eyes, standing initially
-      then collapsing, now lying on ground showing severe distress and convulsions
-    details: Large concrete and dirt enclosure with metal barriers, viewing area for public, elephant collapsed on dusty ground
-      with legs extended stiffly, visible signs of severe distress including labored breathing and convulsive movements, dust
-      clouds where elephant fell, emergency medical equipment being rushed forward, stopwatch showing elapsed time, bright
-      harsh sunlight creating stark shadows around fallen elephant, no text or letters visible
-    background: Oklahoma zoo environment with alarmed visitors backing away from viewing barriers, other zoo staff running
-      toward scene, clear summer sky contrasting with tragic scene below
-    atmosphere: Shock and alarm as experiment goes drastically wrong, harsh midday lighting emphasizing severity of situation,
-      emergency atmosphere replacing clinical observation
+    mainElements: The elephant's massive body lying still on concrete floor, researchers standing in shocked silence, medical
+      equipment scattered and useless, death confirmed after 1 hour 40 minutes
+    details: Elephant's final breathing stopped, large body motionless on concrete enclosure floor, researchers in state of
+      shock and scientific failure, medical interventions proven futile, scene of experimental tragedy
+    background: Open viewing area for researchers, concrete surfaces for easy cleaning, shade structures, feeding areas, water
+      sources, metal barriers separating public from animals, afternoon shadows marking passage of time
+    atmosphere: Somber aftermath of scientific catastrophe, researchers facing consequences of their actions, zoo environment
+      transformed into scene of death, harsh afternoon sunlight illuminating tragic outcome
   composition:
-    cameraAngle: Medium high angle shot showing collapsed elephant and surrounding emergency response
-    focus: The elephant's distressed condition and the immediate alarm of observers
-    depth: Foreground shows collapsed elephant in detail, middle ground features panicked research team response, background
-      displays broader zoo emergency reaction
+    cameraAngle: Wide shot showing full scope of tragedy with dead elephant and shocked researchers
+    focus: The elephant's lifeless body as evidence of experimental failure
+    depth: Foreground shows deceased elephant on concrete, middle ground shows scattered medical equipment, background shows
+      researchers in stunned silence facing their actions, no text or letters visible
 visualElements:
   colorPalette:
     primary:

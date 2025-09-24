@@ -1,94 +1,82 @@
 sceneDescription:
   setting:
-    time: 1945, late afternoon
-    location: Industrial research laboratory at Raytheon Company, Cambridge, Massachusetts
-    weather: Overcast day visible through industrial windows
+    time: 1945, mid-morning working hours
+    location: Raytheon Corporation industrial research facility, Massachusetts
+    weather: Indoor laboratory environment, controlled temperature
   characters:
-  - appearance: Caucasian man, 50s, lean build, receding brown hair, intelligent dark eyes behind wire-rimmed glasses
-    clothing: White lab coat over dark suit jacket, white dress shirt, narrow dark tie, dress shoes
-    position: Standing at large workbench, leaning forward slightly
-    action: Carefully adjusting electronic equipment with precision tools, examining magnetron components
+  - appearance: 51-year-old Caucasian man, average build, thoughtful expression with intelligent eyes, thinning hair typical
+      of middle-aged engineer
+    clothing: White laboratory coat over period-appropriate 1940s business shirt and tie, practical work shoes
+    position: Standing at workbench reviewing technical equipment
+    action: Examining magnetron components with methodical precision
+  - appearance: Younger Caucasian man, likely 20s-30s, eager expression, clean-shaven
+    clothing: Laboratory coat over standard 1940s work attire, shirt and trousers
+    position: Working at adjacent bench with testing apparatus
+    action: Carefully adjusting measurement instruments under senior engineer's guidance
   scene:
-    mainElements: Large industrial workbench with electronic testing equipment, magnetron tubes mounted on metal stands, oscilloscopes
-      displaying waveforms, measurement instruments with analog dials
-    details: Fluorescent overhead lighting casts bright illumination across concrete floors and metal surfaces. Electrical
-      cables run between equipment. Warning signs mounted on walls. Technical manuals and notebooks scattered on bench. Slide
-      rule and mechanical pencils nearby. Industrial windows with venetian blinds filter afternoon light.
-    background: Additional workbenches with similar electronic equipment, filing cabinets along walls, other laboratory apparatus
-      in distance
-    atmosphere: Serious scientific research environment with focused concentration, subtle hum of electronic equipment, methodical
-      precision of wartime technology development, no text or letters visible
+    mainElements: Busy wartime research laboratory with multiple workbenches filled with radar equipment, magnetron tubes,
+      and electronic testing apparatus
+    details: Concrete floors with industrial fluorescent lighting overhead, metal fabrication tools scattered across workstations,
+      technical drawings pinned to bulletin boards, safety equipment mounted on walls, filing cabinets containing classified
+      documents, cables and wiring connecting various electronic devices
+    background: Additional laboratory personnel working at distant workstations, large windows showing Massachusetts industrial
+      landscape, American flag hanging from ceiling beam
+    atmosphere: Intense wartime production environment with electrical humming from active equipment, smell of hot electronics
+      and metal, sense of urgency driving military contract work, no text or letters visible
   composition:
-    cameraAngle: Medium shot from slight side angle
-    focus: Character PS examining magnetron equipment with scientific precision
-    depth: Foreground shows detailed equipment on workbench, middle ground features scientist at work, background reveals
-      broader laboratory environment
+    cameraAngle: Wide establishing shot from elevated position
+    focus: Senior engineer examining radar components while assistant works nearby
+    depth: Foreground shows detailed workbench equipment, middle ground features main characters, background reveals full
+      laboratory scope
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

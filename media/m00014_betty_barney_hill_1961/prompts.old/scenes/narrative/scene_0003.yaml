@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First sighting of mysterious bright light following car"
+  setting:
+    time: "September 19, 1961, 10:45 PM"
+    location: "U.S. Route 3 south of Lancaster, White Mountains, New Hampshire, winding through forest terrain"
+    weather: "Clear night with excellent visibility for celestial observation"
+  characters:
+    - appearance: "White woman, 41 years old, dark hair styled in early 1960s fashion, average height, social worker build"
+      clothing: "Blue dress with light coat, practical travel shoes suitable for 1960s era"
+      position: "Passenger seat turned toward side window, hand pressed against glass"
+      action: "Pointing excitedly at bright light in sky, calling attention to unusual object"
+    - appearance: "African American man, 39 years old, well-groomed professional appearance, wearing eyeglasses, average height"
+      clothing: "Business casual travel attire consisting of dark slacks, dress shirt, light jacket typical of early 1960s"
+      position: "Driver's seat, gripping steering wheel while glancing upward"
+      action: "Slowing vehicle to better observe the unusual bright light through windshield"
+  scene:
+    mainElements: "Classic 1950s American sedan with two-tone blue and white paint, chrome bumpers and trim, whitewall tires, bench seats, column shifter, interior dome light, AM radio traveling along dark mountain highway with brilliant white light visible through windshield and side windows"
+    details: "Bright white light larger and more intense than stars, moving in parallel with their vehicle above treetops, light maintains steady position relative to car movement, interior of vehicle illuminated by dashboard lights and occasional reflection from mysterious object, windshield shows clear view of light against star field, no text or letters visible"
+    background: "Dense forest silhouettes on both sides of highway, star-filled night sky with one anomalously bright object, mountain peaks visible as dark shapes against stars"
+    atmosphere: "Growing tension and curiosity as normal mountain drive transforms into unexplained encounter, mixture of wonder and unease"
+  composition:
+    cameraAngle: "Low angle shot from outside vehicle looking up through windshield"
+    focus: "Bright mysterious light in sky with car and occupants beneath"
+    depth: "Foreground shows vehicle roof and windshield frame, middle ground features occupants pointing upward, background displays bright light against starry sky"

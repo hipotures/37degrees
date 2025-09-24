@@ -1,42 +1,33 @@
 sceneDescription:
   setting:
-    time: August 3, 1962, 12:20 PM
-    location: Oklahoma City Zoo elephant enclosure, outdoor paddock area, Oklahoma, USA
-    weather: Intense summer heat with bright sun overhead
+    time: August 3, 1962, afternoon - hours after the elephant's death
+    location: Veterinary and medical facilities within Oklahoma City Zoo grounds, clinical environment for animal care
+    weather: Hot August afternoon
   characters:
-  - appearance: African American man, 30s, stocky build, kind face, concerned expression
-    clothing: 1960s white lab coat over dark sweater vest and tie, or tan suit jacket
-    position: Kneeling beside collapsed elephant with medical equipment
-    action: Administering emergency drugs via large syringe while monitoring vital signs
-  - appearance: Caucasian man, 40s, medium build, receding dark hair, serious expression, wire-rimmed glasses
-    clothing: 1960s white lab coat over dark suit and tie, or gray flannel suit with narrow tie
-    position: Standing over elephant with second syringe prepared
-    action: Preparing additional emergency medication while consulting medical charts
-  - appearance: Caucasian man, 50s, tall and lean, graying hair, mustache, weathered face
-    clothing: 1960s khaki zoo uniform with name badge, or casual shirt with rolled sleeves
-    position: Standing at enclosure gate coordinating emergency response
-    action: Calling for additional veterinary assistance while maintaining crowd control
-  - appearance: 14-year-old male Indian elephant, medium-sized for species, dark gray skin, intelligent eyes, standing initially
-      then collapsing
-    clothing: No clothing - natural elephant appearance
-    position: Lying motionless on ground with labored breathing
-    action: Showing severe distress with stiffened limbs and increasingly shallow breathing
+  - appearance: Caucasian man, 37 years old, average height and build, clean-shaven with dark hair, wearing wire-rimmed glasses
+      typical of 1960s academics
+    clothing: White lab coat over dark suit and tie, clipboard in hand, professional medical appearance
+    position: Standing with clipboard, observing experiment with confident demeanor
+    action: Taking notes and directing the experimental procedure with scientific authority
+  - appearance: African-American man in his 40s, distinguished bearing, medium build, serious expression, professional demeanor
+    clothing: Dark business suit with white shirt and conservative tie, medical identification badge
+    position: Standing beside other researchers, maintaining professional distance
+    action: Taking detailed notes and monitoring the experiment with growing concern
   scene:
-    mainElements: 1960s medical instruments - stethoscope, syringes, clipboards with charts, stopwatch, emergency drugs being
-      administered to collapsed elephant
-    details: 1960s medical instruments - stethoscope, syringes, clipboards with charts, stopwatch, large emergency syringes
-      being used for elephant-sized doses, medical equipment scattered around intervention area, dust disturbed by emergency
-      activity, harsh summer shadows creating dramatic lighting on medical emergency, elephant showing signs of severe physiological
-      distress, no text or letters visible
-    background: Zoo staff and visitors kept at distance by barriers, emergency veterinary equipment being rushed to scene,
-      Oklahoma summer landscape with clear sky providing harsh contrast to tragedy unfolding
-    atmosphere: Frantic emergency medical effort against overwhelming physiological crisis, clinical desperation in bright
-      outdoor setting, growing realization that intervention may be failing
+    mainElements: Researchers preparing official documentation of experiment, medical reports being written, scientific justification
+      being constructed despite tragic outcome
+    details: Clipboards, notebooks, and documentation materials used to record experiment details, later published in Science
+      journal October 1962, researchers attempting to frame elephant's death as scientific discovery rather than experimental
+      failure, official reports being prepared
+    background: Sterile clinical environment contrasting with natural zoo setting, increasing urgency as emergency unfolds,
+      medical equipment and charts visible
+    atmosphere: Researchers attempting to maintain scientific dignity while processing catastrophic failure, clinical environment
+      providing false sense of legitimacy to tragic experiment
   composition:
-    cameraAngle: Close medium shot focusing on emergency medical intervention around collapsed elephant
-    focus: Medical team's desperate efforts to save the elephant and their increasingly alarmed expressions
-    depth: Foreground shows detailed medical intervention work, middle ground features elephant's distressed condition, background
-      displays zoo emergency response and crowd control
+    cameraAngle: Close-up shot focusing on documentation and report writing
+    focus: Hands writing official reports attempting to justify experimental tragedy
+    depth: Foreground shows hands documenting tragedy in clinical terms, middle ground shows medical charts and equipment,
+      background shows researchers discussing official narrative, no text or letters visible
 visualElements:
   colorPalette:
     primary:

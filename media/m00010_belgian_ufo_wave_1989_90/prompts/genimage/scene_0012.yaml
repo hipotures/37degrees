@@ -1,26 +1,37 @@
 sceneDescription:
   setting:
-    time: 1991, daytime
-    location: SOBEPS office, Brussels, Belgium
-    weather: Bright day, indoor office environment
+    time: July 1990, daytime
+    location: NATO military briefing room, formal press conference setting
+    weather: Indoor environment, professional military facility
   characters:
-  - appearance: Academic researcher, 40s-50s, physics professor appearance, serious expression
-    clothing: Business casual attire typical of academics - dress shirt, slacks, sometimes lab coat or jacket
-    position: Seated at desk with completed comprehensive report
-    action: Taking notes, examining documents, carrying notebooks and recording equipment
+  - appearance: Senior military officer, approximately 50-55 years old, distinguished bearing, gray hair, authoritative presence
+      typical of NATO-era Belgian officers
+    clothing: Belgian Air Force dress uniform with rank insignia, NATO ribbons and decorations, formal military bearing for
+      press conferences
+    position: Standing at podium with NATO and Belgian military insignia
+    action: Presenting declassified radar data and F-16 recordings to international media, demonstrating unprecedented military
+      transparency
+  - appearance: International journalists and military correspondents
+    clothing: Professional civilian attire appropriate for formal press conference
+    position: Seated in briefing room chairs facing military spokesperson
+    action: Taking notes and recording historic military disclosure about UFO incidents and radar evidence
   scene:
-    mainElements: Academic office with completed investigation materials and published documentation
-    details: Comprehensive witness reports, technical radar data analysis, maps of Belgium with sighting location pins, photographs,
-      investigative notebooks, recording equipment now organized into comprehensive published report. Stacks of completed
-      documentation from months of investigation work. Professional presentation of compiled witness testimonies and technical
-      analysis.
-    background: Bookshelves with scientific publications, office windows showing Brussels cityscape
-    atmosphere: Professional completion of serious academic investigation into unexplained phenomena
+    mainElements: NATO press conference podium, Belgian military insignia, microphones and recording equipment, formal military
+      briefing environment
+    details: Declassified F-16 radar tapes being displayed on screens, technical analysis charts showing impossible aircraft
+      performance, military presentation materials demonstrating unprecedented transparency, professional media equipment
+      recording historic disclosure, formal military protocol being followed
+    background: Professional military briefing facility with NATO and Belgian flags, official government and military settings,
+      formal presentation screens displaying technical radar data, international media presence documenting unprecedented
+      military openness
+    atmosphere: Historic moment of military transparency about UFO encounters, professional presentation of classified evidence
+      to public, sense of official acknowledgment of unexplained phenomena, international attention on Belgian military's
+      openness, no text or letters visible
   composition:
-    cameraAngle: Medium shot focusing on completed investigation documentation
-    focus: SOBEPS researcher with published comprehensive report on Belgian UFO wave
-    depth: 'Foreground: researcher and completed report materials, middle ground: organized office environment, background:
-      academic setting with reference materials, no text or letters visible'
+    cameraAngle: Wide shot of NATO press conference with military official and international media
+    focus: Belgian Air Force general presenting declassified UFO evidence to international press
+    depth: Foreground shows media representatives and recording equipment, middle ground displays military spokesperson at
+      podium, background reveals formal NATO briefing facility with official insignia
 visualElements:
   colorPalette:
     primary:

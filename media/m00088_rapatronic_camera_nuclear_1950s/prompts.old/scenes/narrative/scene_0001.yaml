@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Nuclear Photography Challenge at Nevada Test Site"
+  setting:
+    time: "1950, dawn"
+    location: "Nevada Test Site, remote desert location 65 miles northwest of Las Vegas, Nevada"
+    weather: "Clear desert morning with crisp air"
+  characters:
+    - appearance: "Caucasian man, 40s, authoritative bearing, stern expression, well-groomed hair"
+      clothing: "Dark government suit with white shirt and conservative tie, military-style bearing"
+      position: "Standing on elevated observation platform overlooking test area"
+      action: "Pointing toward distant steel test tower while briefing team on photography requirements"
+  scene:
+    mainElements: "Vast desert landscape with mountains in distance, concrete observation bunkers, steel towers"
+    details: "Multiple steel towers rising from desert floor, concrete observation bunkers scattered across terrain, military vehicles positioned at safe distances, pristine morning light revealing harsh beauty of Nevada desert, measuring equipment visible near test structures, no text or letters visible"
+    background: "Mountain ranges on horizon creating dramatic silhouette against dawn sky, endless desert expanse with sparse vegetation"
+    atmosphere: "Isolated and barren, harsh desert conditions, sense of scientific importance and danger"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position"
+    focus: "Official gesturing toward test site with team gathered around"
+    depth: "Official and team in foreground, test towers in middle distance, mountains on horizon"

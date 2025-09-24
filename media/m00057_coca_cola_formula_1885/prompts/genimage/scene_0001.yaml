@@ -1,26 +1,31 @@
 sceneDescription:
   setting:
-    time: 1885 late afternoon, golden hour
-    location: Peachtree Street, downtown Atlanta Georgia, 1880s
-    weather: Clear spring day with warm afternoon light
+    time: 1885, early morning
+    location: Small wooden outbuilding behind home in Atlanta, Georgia, converted into pharmaceutical laboratory
+    weather: Cool spring morning with soft light filtering through windows
   characters:
-  - appearance: Various townspeople in 1880s attire walking along wooden sidewalks
-    clothing: Period-appropriate dresses with bustles for women, suits and bowler hats for men
-    position: Moving along the busy street, some entering and exiting storefronts
-    action: Going about daily business, shopping, conversing in small groups
+  - appearance: 57-year-old Caucasian man, medium height, graying beard, worn face marked by chronic pain, slightly stooped
+      posture from war injury
+    clothing: Dark wool pharmacist's coat, white shirt with high collar, pocket watch chain, leather apron stained with chemical
+      experiments
+    position: Working methodically at laboratory bench or counter
+    action: Measuring ingredients, stirring formulations, taking careful notes with precise movements despite physical discomfort
   scene:
-    mainElements: Dirt roads with horse-drawn carriages, wooden sidewalks, gas street lamps, Victorian storefronts with painted
-      signs
-    details: Wooden storefronts with large glass windows displaying goods, hand-painted business signs hanging from building
-      facades, horses tied to hitching posts, ladies with parasols stepping carefully around puddles, gentlemen tipping hats
-      in greeting, children playing near wagon wheels, no text or letters visible
-    background: Growing Southern city recovering from Civil War, mix of old and new architecture, busy commercial district
-    atmosphere: Bustling post-war Southern city experiencing growth and prosperity, sense of optimism and enterprise in the
-      air
+    mainElements: Large brass kettle approximately 20 inches diameter, heavy bottom for even heating, slightly tarnished from
+      chemical use, wooden stirring paddle, residue stains from coca leaf extracts, positioned over wood fire for gentle heating
+    details: Shelves lined with various sized clear glass bottles with cork stoppers, handwritten labels identifying contents,
+      containing liquid extracts and powdered ingredients, arranged on wooden shelves. Dried green leaves, oval shaped, about
+      2-3 inches long, brittle texture when dried, imported from South America, stored in sealed glass containers with handwritten
+      labels scattered across workbench. Scales and measuring equipment positioned precisely for pharmaceutical work.
+    background: Dim lighting from oil lamps casting warm shadows on wooden walls, chemical apparatus and experimental notes
+      covering surfaces
+    atmosphere: Strong medicinal odors of coca leaves and kola nuts, wood smoke mixing with chemical vapors, cluttered with
+      experimental notes, professional pharmaceutical environment
   composition:
-    cameraAngle: Wide establishing shot from street level
-    focus: The busy commercial streetscape showing Atlanta's development
-    depth: 'Foreground: people and carriages, middle: storefronts and sidewalks, background: building facades and gas lamps'
+    cameraAngle: Medium shot from slight side angle
+    focus: Character working intently with brass kettle and chemical ingredients
+    depth: Foreground shows detailed laboratory equipment and ingredients, middle ground features working character, background
+      reveals shelves of bottles and dim laboratory atmosphere, no text or letters visible
 visualElements:
   colorPalette:
     primary:

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Bing Nursery School - Preparing the Experiment"
+  setting:
+    time: "1968, afternoon, indoor lighting"
+    location: "Corridor at Stanford's Bing Nursery School, 1960s institutional design with classroom doors"
+    weather: "Indoor environment, natural light from windows"
+  characters:
+    - appearance: "Caucasian man, 40s, slender build, dark hair, thoughtful eyes, intellectual appearance"
+      clothing: "1960s academic attire: brown tweed jacket with elbow patches, white dress shirt, dark tie, dress pants"
+      position: "Standing in hallway reviewing research materials"
+      action: "Examining clipboard with experimental protocol, preparing for groundbreaking delayed gratification study"
+    - appearance: "Caucasian man, 30s, medium build, neat appearance, academic colleague"
+      clothing: "1960s professional wear: dark suit jacket, white shirt, thin tie, dress pants"
+      position: "Beside primary researcher, also holding materials"
+      action: "Setting up recording equipment and checking experimental supplies including marshmallows and timer"
+  scene:
+    mainElements: "Institutional hallway of nursery school with researchers preparing psychological experiment, clipboard and materials visible"
+    details: "Children's artwork on walls, wooden floors typical of 1960s educational buildings, doors to various classrooms, professional research materials, experimental setup being organized"
+    background: "Long corridor extending in both directions, classroom doors with small windows, typical nursery school environment of the era"
+    atmosphere: "Professional preparation for scientific breakthrough, careful attention to experimental design that will become legendary in psychology, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot at adult eye level"
+    focus: "Two researchers preparing experimental materials in educational setting"
+    depth: "Foreground: researchers and materials, middle: hallway environment, background: corridor extending to other classrooms"

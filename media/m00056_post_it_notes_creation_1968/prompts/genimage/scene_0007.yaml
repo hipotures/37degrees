@@ -1,38 +1,33 @@
 sceneDescription:
   setting:
-    time: 1974, weekday afternoon
-    location: 3M Research Laboratory, St. Paul, Minnesota, 1970s
-    weather: Overcast afternoon with fluorescent laboratory lighting
+    time: 1974, following the inspiration, daytime
+    location: 3M Central Research Laboratory, St. Paul, Minnesota, USA
+    weather: Controlled indoor laboratory environment
   characters:
-  - appearance: Caucasian man, mid 40s, medium build, receding hairline with dark hair, warm expression with gentle eyes,
-      friendly demeanor
-    clothing: 1970s business casual attire - dress shirt with tie, sometimes cardigan sweater
-    position: Standing at laboratory bench alongside colleague
-    action: Explaining bookmark problem with animated gestures, demonstrating how bookmarks fall from hymnal, showing enthusiasm
-      for potential solution
-  - appearance: Caucasian man, early 30s, average height, dark brown hair neatly parted, intelligent brown eyes behind thick-rimmed
-      glasses, clean-shaven with serious expression
-    clothing: 1970s business casual attire - dress shirt with tie
-    position: Standing at laboratory bench, leaning over adhesive samples
-    action: Showing adhesive properties with paper samples, demonstrating how weak adhesive allows repositioning, explaining
-      technical aspects while listening intently to bookmark application idea
+  - appearance: Caucasian man, mid-career engineer in 1974, described as tinkerer and problem solver who loved building things,
+      practical demeanor
+    clothing: Business casual appropriate for R&D work and church choir participation - dress shirt, slacks, sometimes tie
+      for church events
+    position: Standing at laboratory workbench, hunched over work surface with concentrated focus
+    action: Carefully applying Character SS's microsphere adhesive to small pieces of paper, creating rudimentary bookmark
+      prototypes
   scene:
-    mainElements: Modern corporate laboratory with white walls, fluorescent lighting, stainless steel work benches, chemical
-      equipment, test tubes, beakers, microscopes. Small glass vial containing clear, slightly viscous liquid adhesive with
-      unique spherical molecular structure, labeled with handwritten research notes.
-    details: Laboratory workspace with adhesive samples and testing materials, paper pieces with experimental adhesive applications,
-      prototype bookmark designs scattered on work surface, technical drawings and notes about bookmark requirements, both
-      characters showing excitement about connecting problem with solution.
-    background: Laboratory environment with other researchers working at adjacent stations, shelves with chemical supplies
-      and equipment, large windows providing natural light supplement to fluorescent lighting, corporate research atmosphere
-    atmosphere: Excitement of collaboration and breakthrough thinking, sense of two minds connecting separate discoveries,
-      energy of problem-solving and innovation, professional research environment where ideas come together, anticipation
-      of potential success, no text or letters visible
+    mainElements: Modern industrial research facility, part of 3M's expanded campus, white-walled laboratories with chemical
+      hoods, workbenches with glassware, microscopes, testing equipment
+    details: Small pieces of paper coated with microsphere adhesive, rudimentary bookmarks that evolved into self-attaching
+      notes, various sizes being tested. Laboratory bench covered with paper samples, adhesive containers, applicators, scissors
+      for cutting different sizes, some prototype notes fully coated with adhesive, others partially coated, and blank paper
+      pieces waiting for application.
+    background: Laboratory equipment on shelving, other workstations, fluorescent lighting, typical 1970s industrial research
+      environment
+    atmosphere: Sterile, well-lit scientific environment with chemical odors, hum of ventilation systems, collaborative workspace
+      with fluorescent lighting. Atmosphere of focused experimentation and practical problem-solving.
   composition:
-    cameraAngle: Medium shot from slight angle showing both characters interacting at work bench
-    focus: Both characters engaged in animated discussion while examining adhesive samples and bookmark prototypes
-    depth: Both characters and laboratory materials in foreground, laboratory equipment and workspace in middle ground, other
-      researchers and laboratory background in soft focus
+    cameraAngle: Over-shoulder shot looking down at workbench showing detailed prototype work
+    focus: Character AF's hands carefully applying adhesive to paper pieces, with multiple prototype attempts visible on work
+      surface
+    depth: Foreground shows detailed view of prototype creation process, middle ground captures scientist at focused work,
+      background reveals laboratory context, no text or letters visible
 visualElements:
   colorPalette:
     primary:

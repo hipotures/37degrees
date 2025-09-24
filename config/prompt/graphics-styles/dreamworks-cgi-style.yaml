@@ -1,0 +1,60 @@
+styleName: DreamWorks CGI Style
+description: Sophisticated CGI animation with realistic textures, expressive characters, and comedic timing
+aiPrompts:
+  basePrompt: dreamworks cgi animation, sophisticated 3d rendering, shrek style animation, madagascar style, realistic fur simulation, expressive CGI characters
+  negativePrompt: 2D animation, flat imagery, hand-drawn, simple 3D, low quality rendering
+  styleKeywords:
+  - dreamworks cgi
+  - sophisticated 3d
+  - realistic textures
+  - expressive animation
+  - comedic timing
+  - fur simulation
+visualElements:
+  colorPalette:
+    primary:
+    - natural earth tones
+    - vibrant character colors
+    - realistic environmental colors
+    secondary:
+    - dramatic accent colors
+    - atmospheric hues
+    - rich texture colors
+    background: immersive detailed 3D worlds
+    usageNotes: Balance between realistic and stylized colors
+    saturation: vibrant yet natural
+    contrast: dramatic cinematic lighting
+  lineArt:
+    style: no lines - fully rendered 3D
+    weight: n/a - 3D rendering
+    texture: complex material shaders
+    edgeTreatment: smooth realistic 3D forms
+  lighting:
+    type: sophisticated CGI lighting
+    direction: dramatic key lighting
+    intensity: high contrast dramatic
+    shadows:
+      style: realistic cast shadows
+      color: complementary shadow tones
+      opacity: realistic depth
+    highlights: detailed specular highlights
+  rendering:
+    technique: advanced CGI with fur/hair simulation
+    texture: highly detailed surface properties
+    detailLevel: extremely detailed with individual fur strands
+    finish: polished cinematic quality
+  perspective: dynamic cinematic camera angles
+  mood:
+    overall: comedic, expressive, sophisticated
+    emotion: strong comedic timing and expressions
+    tempo: smooth with comedic beats
+    keywords:
+    - expressive
+    - comedic
+    - sophisticated
+    - immersive
+    - dynamic
+  stylePrecedents:
+  - Shrek franchise
+  - Madagascar series
+  - How to Train Your Dragon

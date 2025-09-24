@@ -1,27 +1,28 @@
 sceneDescription:
   setting:
-    time: 1680s, morning
-    location: London Thames docks, England
-    weather: Overcast English morning with river mist
+    time: 1682, evening
+    location: Private study room in London residence
+    weather: Cool English evening with light rain on windows
   characters:
-  - appearance: English man, 30s, pale complexion, brown hair, mustache, sturdy build, relieved expression
-    clothing: 17th century brown wool coat with brass buttons, white linen shirt, dark breeches, tall leather boots
-    position: Standing on London dock supervising cargo unloading
-    action: Directing dock workers carefully handling ceramic jars and wooden crates from Asia
+  - appearance: Middle-aged English gentleman scholar in his 40s, clean-shaven, thoughtful expression, wire-rimmed spectacles
+    clothing: Dark wool coat with white linen collar, breeches, stockings, leather shoes typical of educated class in 1680s
+      England
+    position: Seated at large oak writing desk by candlelight
+    action: Scholarly and methodical, bent over manuscripts with quill pen, surrounded by books and papers
   scene:
-    mainElements: London Thames waterfront with stone quays, merchant warehouses, sailing ships, typical English architecture
-    details: Large brown ceramic jars being carefully carried by dock workers, wooden crates containing glass bottles with
-      amber liquid, leather-bound ledgers for customs records, fog from Thames mixing with smoke from chimneys, cobblestone
-      dock area
-    background: London Bridge in distance, Thames with various merchant vessels, warehouse district with Tudor-style buildings,
-      church spires visible
-    atmosphere: Successful completion of long ocean voyage, exotic Asian goods entering English commerce, cultural transformation
-      beginning, morning industry along Thames, no text or letters visible
+    mainElements: Large oak writing desk with multiple candles, leather-bound books, rolled manuscripts, quill pen and inkwell
+    details: Leather-bound book approximately 8x10 inches with yellowed pages and period typography, multiple quill pens,
+      brass inkwell, wax sealing materials, rolled parchments tied with ribbon, flickering candle holders, wire-rimmed spectacles
+      laid aside
+    background: Dark wood-paneled walls, floor-to-ceiling bookshelves filled with leather-bound volumes, leaded glass windows
+      showing rain, stone fireplace with glowing embers
+    atmosphere: Quiet scholarly environment, smell of leather bindings and parchment, flickering candlelight casting dancing
+      shadows, sound of quill scratching on paper and occasional rain on windows, no text or letters visible
   composition:
-    cameraAngle: Wide shot showing scale of London port operations
-    focus: Unloading of precious Asian condiment cargo in English setting
-    depth: Foreground shows detailed cargo handling, middle ground features dock activity and merchant supervision, background
-      shows London cityscape and Thames
+    cameraAngle: Medium close-up from slight side angle showing scholar at work
+    focus: Scholar's concentrated expression and hands working with quill pen over open manuscript
+    depth: Foreground shows detailed writing materials and candlelit workspace, middle ground reveals scholar at desk, background
+      shows book-lined study walls
 visualElements:
   colorPalette:
     primary:

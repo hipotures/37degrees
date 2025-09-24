@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Family maintaining heating system during coldest night"
+  setting:
+    time: "Deep night, 2:00 AM during coldest part of winter"
+    location: "Interior of traditional wooden house in Oymyakon, thick log walls, small windows with multiple panes"
+    weather: "Record-breaking cold at -71°C outside, critical heating situation inside"
+  characters:
+    - appearance: "Yakutian man, 40s, weathered face with high cheekbones, dark eyes adapted to snow glare, bronze skin from outdoor work"
+      clothing: "Traditional reindeer hide parka with fur-lined hood, thick mukluks, woolen mittens, layers of warm undergarments"
+      position: "Kneeling beside large wood-burning stove"
+      action: "Feeding continuous wood supply to stove, monitoring fire intensity, checking chimney draft"
+    - appearance: "Yakutian woman, 30s, strong build, dark hair in braids, determined expression, rosy cheeks from cold"
+      clothing: "Traditional Sakha winter dress with geometric patterns, thick wool coat, fur-lined boots, colorful headscarf"
+      position: "Standing nearby with armload of firewood"
+      action: "Supplying wood for continuous burning, checking emergency backup heating, monitoring room temperature"
+  scene:
+    mainElements: "Large central stove with chimney, heavy curtains, multiple layers of rugs, family photographs on walls"
+    details: "Large iron stove central to home heating, constantly fed with birch and pine logs, chimney extending through roof. Fire burning at maximum intensity to combat record cold outside. Multiple backup heating sources including kerosene heaters positioned around room. Extra firewood stacked near stove for immediate access. Heavy blankets and sleeping arrangements positioned close to heat source for family survival."
+    background: "Wooden log walls with traditional construction showing strain from extreme temperature differential, small frost-covered windows, shadows cast by intense firelight"
+    atmosphere: "Life-or-death situation requiring constant vigilance, family unity in face of nature's most extreme challenge"
+  composition:
+    cameraAngle: "Close-up shot emphasizing critical heating maintenance"
+    focus: "Wood-burning stove with family working to maintain life-saving heat"
+    depth: "Stove and people in foreground, emergency heating setup in middle ground, household interior showing cold stress in background, no text or letters visible"

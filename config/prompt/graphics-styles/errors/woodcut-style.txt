@@ -1,0 +1,80 @@
+WOODCUT STYLE YAML FILE ANALYSIS REPORT
+
+FILE STRUCTURE VERIFICATION:
+✓ styleName: Present and matches "Woodcut Style"
+✓ description: Present
+✓ aiPrompts section: Present with basePrompt, negativePrompt, styleKeywords
+✓ visualElements section: Present with all required subsections
+✓ All required fields are present: colorPalette, lineArt, lighting, rendering, perspective, mood
+
+ACCURACY VERIFICATION AGAINST RESEARCH:
+
+1. DESCRIPTION ACCURACY:
+✓ CORRECT: "Traditional relief printing technique where images are carved into wood blocks"
+✓ CORRECT: "creating bold contrasts and visible wood grain texture"
+- The description accurately represents the woodcut technique
+
+2. AI PROMPTS ACCURACY:
+✓ CORRECT: basePrompt includes "woodcut print, relief printing, carved wood, bold contrasts, wood grain, block print"
+✓ CORRECT: negativePrompt excludes "smooth gradients, photographic detail, soft edges, color painting, digital perfection"
+✓ CORRECT: styleKeywords appropriately include woodcut-specific terms
+
+3. VISUAL ELEMENTS ACCURACY:
+
+COLOR PALETTE:
+✓ CORRECT: Limited colors approach - "black ink, paper white, single color ink"
+✓ CORRECT: Traditional colors mentioned (sepia brown, dark red, deep blue)
+✓ CORRECT: "Limited colors, usually monochromatic or few colors"
+✓ CORRECT: "very high" contrast specification
+
+LINE ART:
+✓ CORRECT: "bold carved lines following wood grain"
+✓ CORRECT: "varies with carving tool, generally bold"
+✓ CORRECT: "rough carved texture, wood grain visible"
+✓ CORRECT: "rough, hand-carved edges"
+
+LIGHTING:
+✓ CORRECT: "simplified lighting through carved areas"
+✓ CORRECT: "high contrast (lit vs shadow areas)"
+✓ CORRECT: "solid carved areas (black ink)" for shadows
+✓ CORRECT: "uncarved areas (paper color)" for highlights
+
+RENDERING:
+✓ CORRECT: "relief printing from carved wooden block"
+✓ CORRECT: "wood grain texture, printing irregularities"
+✓ CORRECT: "moderate" detail level limitation
+✓ CORRECT: "matte ink on paper" finish
+
+PERSPECTIVE:
+✓ CORRECT: "simple, often flattened perspective" - matches woodcut limitations
+
+MOOD:
+✓ CORRECT: "bold, traditional, handcrafted" characteristics
+✓ APPROPRIATE: Keywords include "bold, traditional, handcrafted, strong, rustic"
+
+4. STYLE PRECEDENTS ACCURACY:
+✓ CORRECT: "Japanese ukiyo-e prints" - verified as major woodcut tradition
+✓ CORRECT: "German Expressionist woodcuts" - verified as significant movement (Die Brücke)
+
+CONSISTENCY CHECK:
+✓ Description aligns with aiPrompts
+✓ Visual elements support the technical description
+✓ All sections are internally consistent
+✓ No contradictions found between sections
+
+TECHNICAL ACCURACY:
+✓ All technical aspects accurately reflect woodcut printmaking process
+✓ Material references (wood grain, carving tools, ink, paper) are correct
+✓ Process descriptions (relief printing, carved vs uncarved areas) are accurate
+
+MISSING ELEMENTS:
+- No significant missing elements identified
+- File includes comprehensive coverage of woodcut characteristics
+
+TYPOS/ERRORS:
+- No spelling errors detected
+- Grammar and syntax are correct
+- YAML structure is valid
+
+OVERALL ASSESSMENT:
+The file demonstrates excellent accuracy in representing the woodcut printmaking technique. All descriptions align with historical and technical facts about woodcut printing, including references to major traditions (ukiyo-e, German Expressionism) and technical processes (relief printing, wood grain, carving tools). The visual elements accurately capture the distinctive characteristics of woodcut prints.

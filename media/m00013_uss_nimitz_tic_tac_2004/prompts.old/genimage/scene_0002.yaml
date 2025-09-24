@@ -1,0 +1,110 @@
+sceneDescription:
+  setting:
+    time: November 14, 2004, morning
+    location: USS Nimitz (CVN-68) briefing room, Pacific Ocean southwest of San Diego, California
+    weather: Clear sunny conditions over open ocean
+  characters:
+  - appearance: Caucasian man, 40s, athletic build, focused expression, military bearing
+    clothing: Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name
+      tags
+    position: Standing at briefing podium addressing seated pilots
+    action: Pointing at tactical charts and briefing aircrew on intercept mission parameters
+  - appearance: Caucasian woman, 30s, slender build, determined expression, professional demeanor
+    clothing: Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name
+      tags
+    position: Seated in front row of briefing chairs
+    action: Listening intently and taking notes on mission details
+  - appearance: Caucasian man, 30s, stocky build, alert expression, tactical awareness
+    clothing: Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name
+      tags
+    position: Seated next to other pilot in briefing room
+    action: Studying tactical information and mission parameters
+  scene:
+    mainElements: Military briefing room with charts, displays, briefing podium, rows of chairs for aircrew, tactical information
+      boards
+    details: HGU-68/P flight helmet with MBU-20/P oxygen mask, visor reflecting sunlight, communication equipment integrated,
+      protective headgear for high-performance flight operations scattered on nearby tables. Navigation charts show Pacific
+      Ocean training areas. Weather maps indicate clear flying conditions. Mission boards display unknown contact information
+      without revealing specific details.
+    background: Ship's interior with fluorescent lighting, additional briefing materials, naval aviation squadron emblems
+      and operational notices on bulkheads
+    atmosphere: Professional military environment, fluorescent lighting, focused atmosphere for mission planning and debriefing.
+      Sense of urgency regarding unusual contacts detected by radar systems
+  composition:
+    cameraAngle: Medium shot from side angle capturing both briefer and seated pilots
+    focus: Briefing officer explaining mission details to attentive pilots preparing for intercept sortie
+    depth: 'Foreground: seated pilots in flight gear, middle ground: briefing officer at podium, background: charts and briefing
+      displays, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

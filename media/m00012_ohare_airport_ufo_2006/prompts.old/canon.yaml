@@ -1,0 +1,87 @@
+canon:
+  characters:
+    - id: "ramp_worker_primary"
+      name: "Primary Ramp Worker"
+      description_block: |
+        characters:
+          - appearance: "Male worker, 30s, Caucasian, medium build, alert expression"
+            clothing: "Navy blue United Airlines work pants, company polo shirt with UA logo, high-visibility orange safety vest (ANSI Class II), hearing protection around neck, safety shoes, winter jacket for November weather"
+            posture: "Active, pointing upward or operating ground equipment"
+    - id: "ua_pilot"
+      name: "United Airlines Pilot"
+      description_block: |
+        characters:
+          - appearance: "Male pilot, 40s, Caucasian, professional bearing, clean-shaven"
+            clothing: "Dark navy United Airlines uniform with four-stripe captain insignia, white dress shirt, company tie, pilot wings pin"
+            posture: "Standing alert, looking upward, professional demeanor"
+    - id: "ground_crew_worker"
+      name: "Ground Crew Worker"
+      description_block: |
+        characters:
+          - appearance: "Male worker, 20s-30s, medium build, focused expression"
+            clothing: "Grey or navy work uniform, United Airlines patches, high-visibility safety vest, work boots, tool belt"
+            posture: "Working with equipment or pointing skyward in amazement"
+    - id: "mechanic"
+      name: "Aircraft Mechanic"
+      description_block: |
+        characters:
+          - appearance: "Male mechanic, 40s, stocky build, experienced look"
+            clothing: "Work coveralls with UA maintenance division patches, tool belt with various instruments, safety shoes"
+            posture: "Standing near aircraft, looking up with surprise"
+    - id: "faa_controller"
+      name: "FAA Air Traffic Controller"
+      description_block: |
+        characters:
+          - appearance: "Male controller, 30s-40s, focused, professional demeanor"
+            clothing: "Business casual civilian attire, white dress shirt, dark pants"
+            posture: "Seated at control station with headset, looking at screens or out tower windows"
+  locations:
+    - id: "gate_c17_area"
+      name: "Gate C-17 Terminal Area"
+      description_block: |
+        setting:
+          location: "Gate C-17, Terminal 3 Concourse C, Chicago O'Hare International Airport"
+        mainElements: "Standard jet bridge gate area with large terminal windows, concrete apron with painted aircraft parking markings, ground support equipment positioned around aircraft"
+        atmosphere: "Busy commercial airport environment, modernist steel and glass architecture, functional industrial design"
+    - id: "airport_tarmac"
+      name: "O'Hare Airport Tarmac"
+      description_block: |
+        setting:
+          location: "Aircraft parking apron, Gate C-17 area, Chicago O'Hare International Airport"
+        mainElements: "Concrete tarmac with painted yellow aircraft positioning markings, multiple aircraft at adjacent gates, ground support vehicles and equipment"
+        atmosphere: "Active airport operations, industrial aviation environment, constant movement of vehicles and personnel"
+    - id: "control_tower"
+      name: "O'Hare Control Tower"
+      description_block: |
+        setting:
+          location: "Air traffic control tower, Chicago O'Hare International Airport"
+        mainElements: "Tall concrete structure with 360-degree glass viewing cab, multiple radar screens, communication equipment, control consoles"
+        atmosphere: "Professional aviation control environment, panoramic airport views, high-tech monitoring systems"
+    - id: "terminal_interior"
+      name: "Terminal 3 Interior"
+      description_block: |
+        setting:
+          location: "Terminal 3 Concourse C interior, Chicago O'Hare International Airport"
+        mainElements: "Long narrow concourse with gates on both sides, large windows facing aircraft parking positions, commercial carpet or terrazzo flooring, typical airport retail and seating areas"
+        atmosphere: "Busy passenger terminal, modernist airport architecture, constant flow of travelers"
+  items:
+    - id: "ufo_object"
+      name: "Dark Metallic Disc Object"
+      description_block: |
+        details: "Dark grey metallic disc-shaped object, 6-24 feet diameter, perfectly smooth surface reflecting ambient airport lighting, no visible lights or illumination, completely silent, hovering motionless"
+    - id: "flight_446_aircraft"
+      name: "United Airlines Flight 446"
+      description_block: |
+        details: "Boeing 737 or Airbus A320 in United Airlines 'Rising Blue' livery circa 2006, white fuselage with blue and grey design elements, positioned at Gate C-17"
+    - id: "pushback_tug"
+      name: "Aircraft Pushback Tug"
+      description_block: |
+        details: "Yellow or orange ground support pushback tug vehicle connected to aircraft nose gear, industrial aviation equipment used for moving aircraft from gate"
+    - id: "hole_in_clouds"
+      name: "Circular Cloud Opening"
+      description_block: |
+        details: "Perfect circular hole in uniform grey cloud layer at 1,900 feet altitude, clearly defined edges, approximately 20-30 feet diameter opening revealing blue sky above"
+    - id: "safety_equipment"
+      name: "Airport Safety Equipment"
+      description_block: |
+        details: "High-visibility orange and yellow safety vests (ANSI Class II), hearing protection headsets, safety shoes, handheld radios with boom microphones"

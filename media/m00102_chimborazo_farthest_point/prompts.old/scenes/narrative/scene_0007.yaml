@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Earth's Equatorial Bulge Visualization"
+  setting:
+    time: "Educational demonstration, timeless"
+    location: "Conceptual view showing Earth's interior structure and shape"
+    weather: "Conceptual space environment"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Earth's layers visible, equatorial bulge apparent, comparative distance measurements showing 21-kilometer difference between equatorial and polar radius"
+    details: "Detailed cross-section of Earth showing exaggerated equatorial bulge, measurement lines from Earth's center to Chimborazo versus Mount Everest, scientific diagram showing how equatorial bulge affects distance calculations, no text or letters visible"
+    background: "Space environment with grid lines and measurement indicators"
+    atmosphere: "Educational diagram showing Earth's true oblate spheroid shape with precise scientific measurements"
+  composition:
+    cameraAngle: "Cross-sectional view showing Earth's internal structure"
+    focus: "Equatorial bulge and distance measurement comparison"
+    depth: "Earth's center in foreground, surface measurements in middle ground, space background"

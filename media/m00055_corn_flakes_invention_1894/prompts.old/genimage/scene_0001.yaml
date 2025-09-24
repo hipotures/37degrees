@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: 1894, late afternoon
+    location: Battle Creek Sanitarium, Michigan, multi-story brick building with Victorian architecture
+    weather: Clear autumn day with golden sunlight
+  characters:
+  - appearance: Caucasian man, 40s, tall and lean build, intense dark eyes, full dark beard, stern expression
+    clothing: 1890s white medical coat over dark suit, or formal black suit with white shirt and bow tie
+    position: Standing at main entrance of sanitarium, addressing arriving patients
+    action: Gesturing toward the building while explaining health philosophy to new arrivals
+  scene:
+    mainElements: Large institutional building with multiple wings, well-maintained grounds, trees surrounding the property,
+      horse-drawn carriages arriving with patients
+    details: Victorian architecture with decorative brickwork, large windows, wide front steps leading to entrance doors,
+      landscaped gardens with autumn foliage, wooden signs indicating different departments, no text or letters visible
+    background: Michigan countryside with rolling hills, scattered trees in autumn colors, distant farmland
+    atmosphere: Professional medical facility atmosphere, clean and orderly, modern health treatment facility, sense of innovation
+      and medical advancement
+  composition:
+    cameraAngle: Wide establishing shot from slight elevation
+    focus: The impressive sanitarium building with character in foreground
+    depth: Foreground shows character and entrance, middle ground shows full building facade, background shows Michigan landscape
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

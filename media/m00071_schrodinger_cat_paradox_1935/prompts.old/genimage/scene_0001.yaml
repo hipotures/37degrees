@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1935, afternoon
+    location: University of Oxford physics department office, 1935
+    weather: Clear autumn day with golden sunlight
+  characters:
+  - appearance: Austrian physicist, 50s, tall slender build, high forehead, thoughtful dark eyes behind wire-rimmed glasses,
+      salt-and-pepper hair neatly combed
+    clothing: 1930s dark wool suit with vest, white collared shirt, simple tie, or white laboratory coat over shirt and trousers
+    position: Standing beside large wooden desk, one hand resting on stack of papers
+    action: Examining scientific documents with concentrated expression, occasionally adjusting glasses while reading
+  scene:
+    mainElements: Wood-paneled office with large wooden desk, leather chair, blackboard with equations, tall windows
+    details: Large slate blackboard with quantum mechanics equations written in white chalk, wave function symbols and mathematical
+      notation. Stack of typewritten scientific papers and journals from 1930s, some with handwritten notes, scattered on
+      desk or table. Afternoon sunlight streams through tall windows creating warm lighting on wooden surfaces and leather-bound
+      books.
+    background: Floor-to-ceiling bookshelves filled with physics textbooks and scientific journals, additional blackboards
+      with partial equations visible
+    atmosphere: Academic scholarly environment with warm afternoon lighting through windows. Quiet contemplative mood of serious
+      intellectual work in progress.
+  composition:
+    cameraAngle: Medium shot from slight angle
+    focus: Physicist examining papers at his desk with equations visible on blackboard behind
+    depth: Foreground shows desk with papers, middle ground features the character, background reveals academic office environment
+      with bookshelves, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

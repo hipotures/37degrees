@@ -1,0 +1,58 @@
+canon:
+  characters:
+    - id: "character_JSP"
+      name: "Character JSP"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, mid-50s, average height, graying beard and mustache, intelligent eyes behind wire-rimmed spectacles, slightly receding hairline"
+            clothing: "1880s white pharmacist coat over dark vest and white collared shirt, black trousers, formal boots"
+            posture: "Methodical and precise, often hunched over work, careful hand movements when mixing compounds"
+    - id: "character_FMR"
+      name: "Character FMR"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, early 40s, well-groomed dark hair parted to side, clean-shaven face, alert businessman's expression"
+            clothing: "1880s dark business suit with vest, white shirt, black tie, polished leather shoes"
+            posture: "Upright and confident, often holding pen or papers, gestures expressively when speaking"
+    - id: "character_WEV"
+      name: "Character WEV"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 50s, stocky build, full mustache, practical demeanor, weathered hands from years of work"
+            clothing: "1880s vest over white shirt with rolled sleeves, dark apron, work boots"
+            posture: "Solid stance, hands often on hips or wiping glasses, attentive when observing"
+  locations:
+    - id: "pemberton_pharmacy_lab"
+      name: "Pemberton's Pharmacy Laboratory"
+      description_block: |
+        setting:
+          location: "Small pharmacy laboratory behind main store, Atlanta Georgia, late 19th century"
+        mainElements: "Wooden workbench with brass scales, glass beakers, ceramic mortars and pestles, rows of glass medicine bottles with cork stoppers, oil lamp for lighting"
+        atmosphere: "Dim, focused workspace with scientific precision, dusty shelves lined with pharmaceutical ingredients"
+    - id: "jacobs_pharmacy_soda_fountain"
+      name: "Jacobs' Pharmacy Soda Fountain"
+      description_block: |
+        setting:
+          location: "Jacobs' Pharmacy soda fountain area, downtown Atlanta Georgia, 1880s"
+        mainElements: "Ornate marble soda fountain with brass fixtures, tall glass dispensers, wooden bar stools, shelves of soda glasses"
+        atmosphere: "Bustling neighborhood pharmacy with social gathering atmosphere, warm gaslight ambiance"
+    - id: "atlanta_street_1885"
+      name: "Atlanta Street Scene 1885"
+      description_block: |
+        setting:
+          location: "Peachtree Street, downtown Atlanta Georgia, 1880s"
+        mainElements: "Dirt roads, wooden sidewalks, gas street lamps, horse-drawn carriages, Victorian storefronts with painted signs"
+        atmosphere: "Growing Southern city recovering from Civil War, mix of old and new architecture, busy commercial district"
+  items:
+    - id: "coca_cola_syrup_jug"
+      name: "Original Coca-Cola Syrup Jug"
+      description_block: |
+        details: "Large ceramic jug with cork stopper, containing dark brown syrup, unmarked except for handwritten paper label, heavy and substantial weight"
+    - id: "brass_kettle"
+      name: "Pemberton's Brass Mixing Kettle"
+      description_block: |
+        details: "Medium-sized brass kettle with wooden handle, showing wear from use, used for mixing pharmaceutical compounds in backyard workspace"
+    - id: "formula_notebook"
+      name: "Pemberton's Formula Notebook"
+      description_block: |
+        details: "Leather-bound notebook with handwritten formulas and measurements, ink stains from years of use, pages filled with pharmaceutical calculations and ingredient lists"

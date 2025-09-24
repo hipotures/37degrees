@@ -1,29 +1,29 @@
 sceneDescription:
   setting:
-    time: October 1859, morning
-    location: Neutral meeting ground between American and British camps
-    weather: Crisp autumn morning with scattered clouds
+    time: August 31, 1859, afternoon
+    location: U.S. military encampment on southern San Juan Island near Belle Vue Farm
+    weather: Tense afternoon with clear skies providing perfect visibility for the confrontation
   characters:
-  - appearance: American man, 73, distinguished elderly general, white hair, dignified bearing
-    clothing: US Army dress uniform with general's insignia, ceremonial sword, formal military hat
-    position: Standing between opposing forces
-    action: Diplomatic bearing, in discussion pose with both military commanders, reviewing documents
-  - appearance: British man, 45, naval beard, weathered sea captain appearance, commanding presence
-    clothing: Royal Navy uniform with gold braid, white naval cap, brass buttons
-    position: Representing British interests
-    action: Naval authority, hands clasped behind back, listening to diplomatic proposals
+  - appearance: Age 34, tall, distinguished bearing, long dark hair, mustache and goatee, piercing eyes
+    clothing: U.S. Army blue uniform with captain's bars, saber, high black boots, military cap with eagle insignia
+    position: Standing defiantly behind artillery positions, spyglass in hand
+    action: Observing British naval forces, refusing to withdraw, preparing defensive positions
   scene:
-    mainElements: Formal diplomatic meeting with representatives from both nations, documents and maps spread on field table
-    details: Outdoor diplomatic conference with folding table and chairs, military maps showing boundary disputes, formal
-      documents being reviewed, honor guards from both nations standing at attention, peaceful meadow setting chosen for neutrality
-    background: San Juan Island landscape with both American and British military positions visible in distance, Pacific Northwest
-      scenery
-    atmosphere: Diplomatic solution being sought to military standoff, elder statesmanship preventing war over trivial incident,
-      international negotiation in wilderness setting, no text or letters visible
+    mainElements: Canvas tents, artillery positions, flagpole with American flag, parade ground, defensive positions
+    details: Maximum military tension reached - American force peaks at 461 troops with 14 field cannons facing British fleet.
+      Soldiers in blue uniforms man defensive earthworks and artillery pieces aimed toward Griffin Bay. The American flag
+      flies prominently over the camp. Multiple canvas tents house the expanded garrison. Ammunition wagons and supply depots
+      show military preparedness. In the harbor, British warships maintain their threatening positions with gun ports open
+      and cannons visible. This absurd standoff over a pig brings two nations to the brink of war.
+    background: Griffin Bay with three British warships anchored menacingly, Vancouver Island visible across the water, Belle
+      Vue Farm buildings nearby
+    atmosphere: Military camp atmosphere, sounds of drill and bugle calls, smell of campfires and canvas, maximum international
+      tension, no text or letters visible
   composition:
-    cameraAngle: Medium shot showing diplomatic negotiations
-    focus: International diplomacy preventing armed conflict
-    depth: Negotiating parties in foreground, island landscape in middle ground, military positions of both sides in background
+    cameraAngle: Wide shot showing both American land forces and British naval forces in standoff
+    focus: The peak moment of military confrontation between two great powers over the pig incident
+    depth: Foreground shows American artillery and defensive positions, middle ground reveals the military camp, background
+      shows British warships in the bay
 visualElements:
   colorPalette:
     primary:

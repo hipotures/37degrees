@@ -1,33 +1,33 @@
 sceneDescription:
   setting:
-    time: 1562, dawn
-    location: Prince's sickroom with ornate religious shrine containing preserved saint's body
-    weather: Clear morning with golden sunlight streaming through windows
+    time: 1562, midnight
+    location: Sacred chapel within Alcázar of Madrid, Spain
+    weather: Calm night, no wind
   characters:
   - appearance: Spanish prince, 17 years old, pale from illness, bandaged head, weak but recovering
     clothing: White nightgown or simple court attire, blankets when bedridden
-    position: Lying in bed, eyes flutter open, color returning to cheeks
-    action: Slowly awakening, touching his bandaged head in wonder, attempting to sit up
+    position: Supported by attendants, reaching toward ornate glass reliquary
+    action: Touching hand to glass case containing preserved saint's body
   - appearance: Spanish king, 40s, pale complexion, dark hair, penetrating gaze, regal bearing
     clothing: Black velvet doublet with gold embroidery, white ruff collar, dark cape with royal insignia
-    position: Standing beside ornate glass reliquary case
-    action: Touching the glass case reverently, tears of gratitude in his eyes
+    position: Standing behind his son, hands on prince's shoulders
+    action: Supporting son while watching intently for signs of divine intervention
   scene:
-    mainElements: Glass reliquary case containing the preserved body of Franciscan monk character_DA positioned near the prince's
-      bedside
-    details: Preserved body of character_DA in ornate glass case, silver cross, prayer books, blessed oils, religious medallions
-      surrounding the shrine. Golden morning light illuminates the miraculous scene as the prince shows signs of recovery.
-      Fresh flowers and burning incense create an atmosphere of divine intervention. The king's face shows overwhelming relief
-      and wonder
-    background: Religious paintings depicting saints and miracles line the walls, while tall windows allow dawn light to flood
-      the chamber
-    atmosphere: Divine miracle unfolds as death retreats and life returns, filling the chamber with sacred awe and royal gratitude
-      for heavenly intervention
+    mainElements: Ornate glass reliquary containing preserved body of Franciscan lay brother, surrounded by golden candlesticks
+      and religious artifacts
+    details: Crystal reliquary case with silver and gold ornamentation, preserved saint in brown Franciscan robes lying in
+      peaceful repose, dozens of votive candles creating warm glow, marble altar with carved religious symbols, silk tapestries
+      depicting saints' miracles, silver incense burners releasing aromatic smoke, precious gems embedded in reliquary frame,
+      no text or letters visible
+    background: Stone chapel with ribbed vaulting, stained glass windows showing biblical scenes in moonlight, carved stone
+      saints in wall niches
+    atmosphere: Sacred expectation, hushed reverence, warm candlelight mixing with cool moonbeams, fragrant incense creating
+      mystical ambiance
   composition:
-    cameraAngle: Wide shot capturing both the recovering prince and the holy relics
-    focus: The awakening prince and the reliquary case with the king's reverent gesture
-    depth: 'Foreground: ornate reliquary with preserved saint; middle: recovering prince and grateful king; background: religious
-      artwork and bright windows, no text or letters visible'
+    cameraAngle: Low angle shot emphasizing the sacred nature of the moment
+    focus: Prince's hand touching the reliquary glass with the preserved saint visible within
+    depth: Foreground shows ornate altar details, middle ground captures the healing moment, background reveals the sacred
+      chapel architecture
 visualElements:
   colorPalette:
     primary:

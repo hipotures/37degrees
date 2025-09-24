@@ -1,24 +1,17 @@
 sceneDescription:
-  title: "GPS Full Operational Capability Declaration - 1995"
+  title: "NAVSTAR 1 Satellite in Orbit - GPS System Begins"
   setting:
-    time: "July 1995, afternoon"
-    location: "US Air Force Satellite Control Facility, Colorado Springs, Colorado"
-    weather: "Clear summer day over Colorado mountains"
+    time: "February 22, 1978, afternoon"
+    location: "Medium Earth orbit, 20,200 kilometers above Earth"
+    weather: "Space environment with Earth's atmosphere visible below"
   characters:
-    - appearance: "Team of technicians and operators, 25-45 years old, concentrated expressions"
-      clothing: "1990s business attire, white shirts with narrow ties, some with headsets"
-      position: "Seated at control consoles, monitoring screens, communicating via headsets"
-      action: "Monitoring complete 24-satellite GPS constellation, confirming full operational status"
-    - appearance: "Senior Air Force commander, 50s, distinguished bearing, satisfaction evident"
-      clothing: "Air Force dress uniform with command pilot wings and ribbons"
-      position: "Standing at command center overseeing historic milestone"
-      action: "Observing full constellation status displays, conferring with technical staff about operational capability"
+    No characters present in this scene
   scene:
-    mainElements: "Banks of monitoring equipment, large screens showing orbital data, control consoles, complete 24-satellite constellation display showing global coverage, modern 1990s computer terminals"
-    details: "Advanced 1990s control systems, large projection screens showing world map with complete satellite coverage, 24 operational GPS satellites indicated on displays, mission status boards, celebration atmosphere, no text or letters visible"
-    background: "Advanced satellite control facility with updated technology, American flag, mission accomplishment banners, large windows showing Colorado mountain views"
-    atmosphere: "Achievement and completion of 22-year development program, pride in technological accomplishment, historic moment of full global navigation capability"
+    mainElements: "Orbital space environment with Earth's curvature visible, satellite deployed in operational configuration"
+    details: "845 kg cylindrical spacecraft, 5.3 meters across with dual solar panels deployed, distinctive box-like main body with metallic surface, three rechargeable batteries, hydrazine thrusters visible in full operational configuration against the black of space. Solar panels catching sunlight, communication antennas extended, Earth's blue and white surface curving below showing continents and cloud formations. Compact cesium and rubidium oscillators, approximately shoebox-sized metallic housing units, space-hardened construction with backup redundancy systems, precision timing components visible working perfectly in zero gravity environment. First GPS satellite beginning its mission to revolutionize global navigation."
+    background: "Deep black space with stars visible, Earth's surface showing land masses and weather patterns, orbital mechanics in action"
+    atmosphere: "Peaceful orbital environment with satellite functioning as designed, beginning of GPS navigation revolution"
   composition:
-    cameraAngle: "Wide shot showing complete control center celebrating achievement"
-    focus: "Control room displays showing complete 24-satellite GPS constellation"
-    depth: "Console operators in foreground, constellation displays in middle ground, command facility celebration in background"
+    cameraAngle: "Wide shot from space showing satellite in operational orbit above Earth"
+    focus: "NAVSTAR 1 satellite successfully deployed and functioning - the birth of GPS navigation era"
+    depth: "Satellite in foreground with solar panels extended, Earth's curvature in middle ground, deep space and stars in background, no text or letters visible"

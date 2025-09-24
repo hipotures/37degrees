@@ -1,28 +1,36 @@
 sceneDescription:
   setting:
-    time: 2020s, morning
-    location: La Paz outskirts, Bolivia - high altitude departure point at 3,500 meters elevation
-    weather: Clear morning perfect for adventure tourism
+    time: 2010s, midday
+    location: Tropical town at 1,200m elevation in cloud forest region, warm subtropical climate with lush vegetation
+    weather: Warm tropical day with partial cloud cover creating perfect tourism conditions
   characters:
-  - appearance: Tour guide, 30s, experienced mountain guide, calm demeanor, local knowledge
-    clothing: Professional outdoor gear - technical jacket, mountain boots, radio equipment
-    position: Leading comprehensive safety briefing
-    action: Demonstrating proper use of safety equipment, checking each tourist's gear thoroughly
-  - appearance: Group of tourists, mixed ages, international visitors, excited expressions
-    clothing: High-quality modern cycling gear and protective equipment
-    position: Gathered around guide for safety instruction
-    action: Listening attentively to safety procedures, checking equipment, preparing for controlled adventure
+  - appearance: International tourists aged 20-50, athletic builds, excited but nervous expressions, mix of ethnicities
+    clothing: Modern mountain biking helmets, bright colored cycling clothes with padding, professional biking shoes, protective
+      gloves
+    position: Relaxing at tourism facilities after completing Death Road descent
+    action: Celebrating completion of Death Road adventure, taking photos, sharing experiences with other tourists
+  - appearance: Local Bolivian guides and service workers, ages 20-45, friendly expressions, familiar with mountain tourism
+    clothing: Tourism company uniforms, traditional Bolivian textiles mixed with modern outdoor gear
+    position: Serving tourists at rest stops and photo points
+    action: Providing tourist services, guiding visitors, operating tourism businesses
   scene:
-    mainElements: Professional tour operation with comprehensive safety protocols and modern equipment
-    details: Modern tour operator safety gear - radios, first aid kits, support vehicles, professional-grade mountain bikes,
-      comprehensive protective equipment, organized group management, detailed safety briefings
-    background: Fleet of support vehicles, professional tour operation base, mountain road beginning
-    atmosphere: Professional adventure tourism, safety-conscious thrill seeking, organized excitement
+    mainElements: Colonial buildings with red tile roofs, coca plantations on terraced hillsides, dense green vegetation,
+      waterfalls cascading down mountainsides
+    details: Tourism infrastructure including rest stops, photo points, and visitor facilities built along the original dangerous
+      route. Local communities providing tourism services with small shops and refreshment stands. Professional mountain biking
+      tour companies with branded equipment and safety protocols. Tourists celebrating successful completion of Death Road
+      adventure. Local guides explaining history and culture. Tourism signs and facilities in multiple languages for international
+      visitors. Traditional Bolivian cultural elements integrated with adventure tourism experience. Transformation from deadly
+      necessity to profitable adventure attraction clearly visible.
+    background: Humid tropical air, sounds of flowing water and tropical birds, relief and celebration for completing dangerous
+      journey safely
+    atmosphere: Celebration and adventure tourism atmosphere with sounds of happy tourists and flowing water, transformation
+      from tragedy to triumph, blend of excitement and cultural appreciation, no text or letters visible
   composition:
-    cameraAngle: Group shot showing professional tour operation
-    focus: Modern safety-focused approach to Death Road tourism
-    depth: Safety briefing in foreground, professional equipment in middle ground, adventure destination in background, no
-      text or letters visible
+    cameraAngle: Wide shot showing tourism facilities with tourists celebrating successful Death Road completion
+    focus: Transformation of deadly road into successful adventure tourism destination
+    depth: 'Foreground: celebrating tourists and local tourism workers, middle: tourism facilities and infrastructure, background:
+      lush Yungas landscape and original dangerous road route'
 visualElements:
   colorPalette:
     primary:

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Planning the Caesar's Palace Jump"
+  setting:
+    time: "1969, morning"
+    location: "Hotel conference room, Las Vegas"
+    weather: "Indoor setting"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns"
+      clothing: "Red, white and blue leather jumpsuit with stars and stripes, white helmet with eagle emblem, white leather boots"
+      position: "Standing at table pointing at architectural drawings"
+      action: "Explaining jump trajectory and landing calculations to concerned promoters"
+    - appearance: "Men in 30s-40s, working-class build, concerned expressions"
+      clothing: "Casual 1970s attire, work shirts, jeans, tool belts"
+      position: "Seated around conference table"
+      action: "Looking at blueprints and discussing safety concerns"
+  scene:
+    mainElements: "Conference table covered with architectural drawings, scale models of fountains and ramps, measuring tools and calculators"
+    details: "Hotel conference room with large windows overlooking Las Vegas Strip, architectural blueprints spread across table, scale models of Caesar's Palace fountains, pencils and rulers scattered about, coffee cups and ashtrays, no text or letters visible"
+    background: "Las Vegas skyline visible through windows, hotel interior with plush carpeting"
+    atmosphere: "Tense planning session, growing stakes and danger, ambitious scheming in luxurious setting"
+  composition:
+    cameraAngle: "High angle shot showing table and planning materials"
+    focus: "Architectural drawings and scale models of the proposed jump"
+    depth: "Planning materials in foreground, characters in middle ground, Las Vegas view in background"

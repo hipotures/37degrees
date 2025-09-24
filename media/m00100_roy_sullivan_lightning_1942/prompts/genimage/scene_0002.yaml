@@ -1,25 +1,31 @@
 sceneDescription:
   setting:
-    time: April 1942, afternoon
-    location: Elevated fire observation tower in Shenandoah National Park
-    weather: Severe thunderstorm with multiple lightning strikes
+    time: 1936, morning, early summer
+    location: Shenandoah National Park entrance station, Blue Ridge Mountains, Virginia
+    weather: Clear sunny day with scattered white clouds
   characters:
-  - appearance: American man, 30, brawny build resembling Gene Hackman, rugged weathered face
-    clothing: US Park Service uniform with ranger hat, work boots, utility belt
-    position: Inside fire lookout tower seeking shelter from storm
-    action: Fleeing tower as lightning strikes building, leg burned by electrical discharge
+  - appearance: Brawny, towering Caucasian man, broad rugged face resembling actor Gene Hackman, multiple lightning scars
+      visible on face, arms, and legs, often missing eyebrows and eyelashes from recent strikes, thick build, weathered skin
+      from outdoor work
+    clothing: 1940s-1970s park ranger uniform - khaki shirt and pants, wide-brimmed ranger hat with official Shenandoah National
+      Park badge, heavy work boots often with lightning burn holes, utility belt with radio and emergency water container
+    position: Standing proudly at park entrance with official documentation
+    action: Beginning first day as newly hired park ranger, reviewing park maps and safety protocols
   scene:
-    mainElements: Wooden tower structure with observation windows, no lightning rod protection, being struck by lightning
-    details: Brilliant electrical discharge from storm clouds hitting fire lookout tower repeatedly, fire jumping around inside
-      tower structure, ranger escaping building as Brilliant electrical discharge strikes within feet of exit, burned leg
-      and destroyed shoe from lightning contact, dramatic electrical activity in isolated mountain location
-    background: Storm clouds over Shenandoah mountains, isolated mountain outpost, heavy rain and lightning activity
-    atmosphere: Isolated mountain outpost vulnerable to lightning strikes and severe weather, first encounter with extraordinary
-      lightning attraction, beginning of unprecedented survival story, no text or letters visible
+    mainElements: Newly established park entrance with wooden signs, rustic stone pillars, pristine wilderness stretching
+      into Blue Ridge Mountains, official park buildings under construction
+    details: Crisp ranger uniform without burn marks or damage, complete eyebrows and eyelashes intact, fresh-faced appearance
+      before years of lightning strikes, park service documentation and maps spread on wooden table, construction equipment
+      for new park facilities
+    background: 105-mile stretch of Blue Ridge Mountain ridgeline, exposed high elevation terrain, thick forest canopy, morning
+      mist rising from valleys
+    atmosphere: Optimistic beginning of 36-year career, peaceful mountain setting before decades of extraordinary lightning
+      encounters, fresh mountain air and bird songs
   composition:
-    cameraAngle: Dynamic shot showing lightning strike and escape from tower
-    focus: First lightning strike beginning extraordinary survival story
-    depth: Ranger escaping tower in foreground, lightning-struck building in middle ground, storm-covered mountains in background
+    cameraAngle: Wide establishing shot showing park entrance and mountain backdrop
+    focus: Young ranger figure against vast wilderness landscape, emphasizing scale and isolation of mountain terrain
+    depth: 'Foreground: park entrance facilities and ranger, middle: forested slopes, background: distant mountain ridges
+      under bright sky, no text or letters visible'
 visualElements:
   colorPalette:
     primary:

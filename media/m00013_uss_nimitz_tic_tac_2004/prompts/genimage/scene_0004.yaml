@@ -1,35 +1,32 @@
 sceneDescription:
   setting:
-    time: November 14, 2004, approximately 12:30 PM
-    location: Pacific Ocean southwest of San Diego, California, specific area of anomalous water activity
-    weather: Clear, sunny day with calm seas except for the mysterious disturbance area
+    time: November 14, 2004, early afternoon
+    location: Flight deck of USS Nimitz (CVN-68) nuclear aircraft carrier, 4.5 acres of operational space
+    weather: Clear sunny day with excellent visibility, light ocean breeze
   characters:
-  - appearance: Caucasian man, 40s, athletic build, focused expression, military bearing
-    clothing: Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name
-      tags
-    position: In lead F/A-18F cockpit, looking down at ocean disturbance
-    action: Banking aircraft to get better view of anomalous water pattern below
-  - appearance: Caucasian woman, 30s, slender build, determined expression, professional demeanor
-    clothing: Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name
-      tags
-    position: In wingman F/A-18F cockpit, following lead aircraft
-    action: Observing unusual ocean phenomenon and maintaining formation
+  - appearance: Various Navy personnel, 20s-40s, efficient movements, safety-conscious
+    clothing: Color-coded shirts - yellow for flight deck directors, green for maintenance, purple for fuel, red for ordnance,
+      white helmets and safety gear
+    position: Active work positions, directing aircraft, performing maintenance, coordinated team movements
+    action: Directing aircraft to catapult positions, performing final launch preparations, coordinating launch sequence with
+      precise hand signals
   scene:
-    mainElements: Circular area of churning whitewater approximately 50-100 feet diameter, described as boiling or frothing
-      water pattern, contrasting with surrounding calm seas
-    details: Boeing F/A-18F Super Hornet in tactical grey paint scheme, VFA-41 Black Aces squadron markings, Bureau Number
-      on fuselage, AIM-9X Sidewinder training missiles, twin-engine multirole fighter aircraft flying over disturbed water.
-      Ocean disturbance creates visible white foam and turbulence in otherwise calm blue Pacific waters. Bright sunlight illuminates
-      the contrast between normal ocean surface and the mysterious churning area.
-    background: Pacific Ocean southwest of San Diego, California, approximately 100 miles offshore, water depth 13,000 feet
-      extending to horizon with no other vessels or land visible
-    atmosphere: Vast blue ocean expanse, bright sunlight creating glare off water surface, isolated military training environment.
-      Growing sense of mystery as pilots encounter unexplained phenomenon in routine training area
+    mainElements: Boeing F/A-18F Super Hornet fighter aircraft in tactical grey paint scheme positioned on steam catapult,
+      grey non-skid surface with yellow and white operational markings, island superstructure, deck crew in coordinated launch
+      operations
+    details: F/A-18F aircraft with VFA-41 Black Aces squadron markings and Bureau Number on fuselage, steam rising from catapult
+      launch system, deck crew in color-coded safety gear using precise hand signals, jet blast deflectors raised behind aircraft,
+      safety nets and equipment positioned around launch area, aircraft engines at full power creating heat shimmer, no text
+      or letters visible
+    background: Vast Pacific Ocean stretching to horizon, clear blue sky, other naval vessels in strike group visible in distance,
+      additional aircraft positioned on deck
+    atmosphere: Intense coordinated activity with military precision, jet engine roar and steam catapult sounds, anticipation
+      of launch, professional urgency mixed with routine expertise
   composition:
-    cameraAngle: Aerial view from pilot's perspective looking down at ocean disturbance
-    focus: Circular churning whitewater disturbance contrasting sharply with surrounding calm blue ocean
-    depth: 'Foreground: aircraft cockpit elements, middle ground: mysterious ocean disturbance, background: endless Pacific
-      Ocean, no text or letters visible'
+    cameraAngle: Dynamic side angle showing catapult launch preparation
+    focus: F/A-18F Super Hornet on catapult with deck crew coordination
+    depth: Foreground shows detailed launch preparation activity, middle ground captures full aircraft on catapult, background
+      shows open ocean and mission destination
 visualElements:
   colorPalette:
     primary:

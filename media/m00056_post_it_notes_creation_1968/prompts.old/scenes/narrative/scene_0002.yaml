@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Unexpected Weak Adhesive Discovery"
+  setting:
+    time: "1968, afternoon"
+    location: "3M Research Laboratory, St. Paul, Minnesota, 1960s"
+    weather: "Overcast afternoon with fluorescent lighting dominating the laboratory space"
+  characters:
+    - appearance: "Caucasian man, early 30s, average height, dark brown hair neatly parted, intelligent brown eyes behind thick-rimmed glasses, clean-shaven with serious expression"
+      clothing: "1960s white laboratory coat over dark dress shirt and narrow tie"
+      position: "Seated at laboratory bench, hunched over microscope and test samples"
+      action: "Examining adhesive sample under microscope, testing its properties by gently pulling apart paper samples, looking puzzled but intrigued by the unusual behavior of the adhesive"
+  scene:
+    mainElements: "Modern corporate laboratory with white walls, fluorescent lighting, stainless steel work benches, chemical equipment, test tubes, beakers, microscopes. Small glass vial containing clear, slightly viscous liquid adhesive with unique spherical molecular structure, labeled with handwritten research notes."
+    details: "Multiple paper samples partially adhered together, some peeling apart easily without tearing, microscope focused on adhesive structure, laboratory notebook with observations and sketches, various testing apparatus including tensile strength devices, magnifying glasses, and measurement tools. Character's expression shows confusion mixed with scientific curiosity."
+    background: "Additional laboratory workstations with other researchers continuing their work, shelves with chemical supplies, large windows, safety equipment mounted on walls, corporate laboratory environment"
+    atmosphere: "Moment of scientific discovery tinged with uncertainty, the realization that something unexpected has occurred, quiet contemplation of failed expectations leading to potential new possibilities, professional research environment with focus on careful observation, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot focusing on character's hands and face as he examines the adhesive"
+    focus: "Character SS's expression of puzzlement and curiosity while testing the weak adhesive properties"
+    depth: "Hands and test samples in foreground, character's face and upper body in middle ground, laboratory equipment and background in soft focus"

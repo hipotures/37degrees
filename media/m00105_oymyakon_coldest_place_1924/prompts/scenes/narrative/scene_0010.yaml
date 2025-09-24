@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Legacy of the Coldest Place on Earth"
+  setting:
+    time: "1940s, winter"
+    location: "Established Oymyakon settlement, showing permanent habitation in extreme cold environment"
+    weather: "Typical extreme winter conditions, but community adapted to permanent survival"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Permanent settlement structures designed for extreme cold survival, commemorative elements recognizing the historic temperature record, established infrastructure"
+    details: "Concrete monument in town square, displays the record temperature, weathered by decades of extreme cold, inscribed with -71.2°C figure, positioned near statue of concrete bull, marking the historic 1924 measurement location. Permanent log buildings with deep foundations, smoke rising from multiple chimneys, established roads and pathways, natural hot springs creating steam in frozen landscape, surrounded by ice formations now integrated into community infrastructure, transformation from nomadic temporary site to permanent human habitation complete, no text or letters visible"
+    background: "Same mountain valley that created the record cold conditions, now home to permanent human community"
+    atmosphere: "Legacy achievement - humans permanently inhabiting the coldest place on Earth, monument to both scientific discovery and human adaptation"
+  composition:
+    cameraAngle: "Wide establishing shot showing completed transformation"
+    focus: "Monument and permanent settlement representing human adaptation triumph"
+    depth: "Foreground commemorative monument, middle ground established settlement buildings, background eternal mountain landscape that made the record possible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Brass Kettle Breakthrough"
+  setting:
+    time: "1886 spring morning, clear natural daylight"
+    location: "Small backyard behind character_JSP's pharmacy, Atlanta Georgia"
+    weather: "Mild spring morning with gentle breeze"
+  characters:
+    - appearance: "Caucasian man, mid-50s, average height, graying beard and mustache, intelligent eyes behind wire-rimmed spectacles, slightly receding hairline"
+      clothing: "1880s white pharmacist coat over dark vest and white collared shirt, black trousers, formal boots"
+      position: "Kneeling beside small outdoor fire, stirring contents of large brass kettle"
+      action: "Slowly adding measured ingredients to bubbling mixture while stirring with long wooden spoon"
+  scene:
+    mainElements: "Medium-sized brass kettle with wooden handle, showing wear from use, used for mixing pharmaceutical compounds in backyard workspace"
+    details: "Small fire built with wood logs underneath brass kettle, various glass bottles and measuring cups arranged on wooden crate serving as makeshift table, steam rising from kettle creating aromatic vapors, wooden spoon with long handle for stirring, ceramic bowls containing different ingredients waiting to be added, morning sunlight filtering through young spring leaves, no text or letters visible"
+    background: "Simple backyard with wooden fence, small garden with medicinal herbs, neighboring buildings visible in distance"
+    atmosphere: "Outdoor experimentation with sense of breakthrough moment, fresh air mixing with aromatic vapors"
+  composition:
+    cameraAngle: "Medium shot from ground level showing the kettle and character"
+    focus: "The brass kettle and the careful mixing process"
+    depth: "Foreground: fire and kettle, middle: character stirring mixture, background: backyard setting and fence"

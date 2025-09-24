@@ -1,26 +1,31 @@
 sceneDescription:
   setting:
-    time: 1651, afternoon
-    location: Natural harbor in Isles of Scilly serving as Royalist naval base
-    weather: Overcast with sea mist rolling in
+    time: March 30, 1651, late afternoon
+    location: Officers' quarters aboard Dutch flagship anchored off Scilly waters
+    weather: Choppy seas with Atlantic winds rocking the vessel
   characters:
-  - appearance: English man, 40s, aristocratic bearing, dark hair, royalist manner, stern expression
-    clothing: 17th century Royalist military attire with ornate jacket, feathered hat, ceremonial sash
-    position: Standing on harbor quay directing naval operations
-    action: Commanding naval activities, gesturing at ships being loaded with supplies and weapons
+  - appearance: Age 48 in 1651, medium build, weathered face with graying beard and mustache, stern blue eyes, battle-scarred
+      hands from decades at sea
+    clothing: Dutch naval uniform of dark blue wool coat with gold braiding, white shirt, black tricorn hat with Dutch insignia,
+      leather boots, ceremonial sword at side
+    position: Seated at negotiation table or standing with formal diplomatic bearing
+    action: Making diplomatic declarations with weathered hands gesturing for emphasis, preparing formal war declaration documents
   scene:
-    mainElements: Protected harbor with stone quays, 17th century ships at anchor, defensive batteries
-    details: English Royalist warships flying royal standards anchored in protected harbor, sailors loading supplies and cannon
-      onto vessels, stone quays built into natural harbor, defensive gun batteries positioned on harbor walls, maritime activity
-      with boats moving between ships
-    background: Stone fortifications rising above harbor, Atlantic waters beyond harbor mouth, other small islands of archipelago
-      visible
-    atmosphere: Strategic naval stronghold with constant military activity and sea mist, base for privateering operations
-      against Parliamentary and Dutch shipping, busy wartime harbor, no text or letters visible
+    mainElements: Formal ship's cabin with oak table, official Dutch documents and seals, marine officers standing at attention,
+      captured Dutch merchant goods displayed as evidence
+    details: Parchment documents with official Dutch seals spread across polished oak table, quill pen and inkwell, wax sealing
+      materials, diamond-paned windows showing Scilly islands in distance, brass navigation instruments, maritime charts of
+      local waters, oil lanterns casting warm light on proceedings
+    background: Richly appointed captain's quarters with Dutch naval insignia, maps of English Channel, view through stern
+      windows of rocky Scilly coastline and defensive positions
+    atmosphere: Formal diplomatic tension, historic moment of unusual war declaration, creaking ship sounds, sense of bureaucratic
+      procedure creating unintended consequences, no text or letters visible
   composition:
-    cameraAngle: Medium shot from harbor level showing naval operations
-    focus: Royalist naval fleet and military preparations
-    depth: Harbor quay and ships in foreground, anchored fleet in middle ground, fortress walls in background
+    cameraAngle: Medium shot focusing on admiral at table with documents and formal ceremony
+    focus: Character making historic declaration, formal documents and official seals creating legal foundation for 335-year
+      conflict
+    depth: Foreground shows detailed character and documents, middle ground reveals ship's interior and attending officers,
+      background displays Scilly islands through cabin windows
 visualElements:
   colorPalette:
     primary:

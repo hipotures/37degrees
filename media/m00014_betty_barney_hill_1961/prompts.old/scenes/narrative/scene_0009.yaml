@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Hypnotic regression session with psychiatrist"
+  setting:
+    time: "1964, January-June regression therapy period"
+    location: "Professional psychiatrist office in Boston, Massachusetts, 1960s medical building"
+    weather: "Indoor medical office environment"
+  characters:
+    - appearance: "African American man, 39 years old, well-groomed professional appearance, wearing eyeglasses, average height"
+      clothing: "Business casual travel attire consisting of dark slacks, dress shirt, light jacket typical of early 1960s"
+      position: "Reclining in therapy chair with eyes closed in hypnotic trance"
+      action: "Under deep hypnosis recounting traumatic memories with visible emotional distress and physical tension"
+    - appearance: "Middle-aged white man, professional psychiatrist appearance, authoritative bearing"
+      clothing: "Dark business suit with tie, professional medical practitioner attire of 1960s Boston"
+      position: "Seated behind desk or standing with clinical observation stance during sessions"
+      action: "Conducting hypnotic regression therapy while taking detailed notes and operating recording equipment"
+  scene:
+    mainElements: "Medical office with desk, chairs, recording equipment, professional diplomas on walls, therapy session in progress with patient under hypnosis revealing suppressed memories"
+    details: "Reel-to-reel tape recording equipment documenting session, medical diplomas and certificates on office walls, professional furniture including therapy chair and psychiatrist's desk, clinical notepad for documenting revelations, session files and case materials spread on desk, professional lighting creating therapeutic atmosphere, no text or letters visible"
+    background: "Professional medical office setting with bookshelves, certificates, medical references, and clinical atmosphere typical of Boston psychiatry practice"
+    atmosphere: "Clinical but comfortable medical environment with professional furnishings typical of 1960s psychiatry practice, intense therapeutic breakthrough in progress"
+  composition:
+    cameraAngle: "Medium shot showing both therapist and patient during session"
+    focus: "The therapeutic interaction and emotional breakthrough occurring during hypnotic regression"
+    depth: "Foreground shows therapy chair and patient, middle ground features psychiatrist with equipment, background displays professional office setting"

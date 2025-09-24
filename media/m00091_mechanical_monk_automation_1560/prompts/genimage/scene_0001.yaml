@@ -1,32 +1,30 @@
 sceneDescription:
   setting:
     time: 1562, late evening
-    location: Royal bedchamber in Alcázar of Madrid, candlelit stone chamber with tapestried walls
-    weather: Clear night, stars visible through tall windows
+    location: Royal bedchamber, Alcázar of Madrid, Spain
+    weather: Clear night outside palace windows
   characters:
   - appearance: Spanish prince, 17 years old, pale from illness, bandaged head, weak but recovering
     clothing: White nightgown or simple court attire, blankets when bedridden
-    position: Lying unconscious in four-poster bed with white linens
-    action: Motionless, breathing shallowly, head wrapped in bloodstained bandages
+    position: Lying motionless in four-poster bed, head elevated on pillows
+    action: Breathing shallowly, eyes closed, appearing near death
   - appearance: Spanish king, 40s, pale complexion, dark hair, penetrating gaze, regal bearing
     clothing: Black velvet doublet with gold embroidery, white ruff collar, dark cape with royal insignia
-    position: Kneeling beside the bed on prayer cushions
-    action: Praying fervently with hands clasped, eyes closed in desperate supplication
+    position: Kneeling beside the bed on prayer cushion
+    action: Praying intensely with hands clasped, looking up toward crucifix on wall
   scene:
-    mainElements: Ornate four-poster bed dominates the chamber, with heavy velvet curtains partially drawn, revealing the
-      critically injured prince
-    details: Flickering candles cast dancing shadows on stone walls adorned with religious tapestries. A crucifix hangs above
-      the headboard. Medicine bottles and prayer books clutter the bedside table. Bloodstained bandages and white linens contrast
-      sharply in the candlelight. A prayer kneeler is positioned beside the bed where the king maintains his vigil
-    background: Gothic arched windows reveal the night sky, while religious paintings and royal portraits line the walls.
-      A fireplace provides dim warmth
-    atmosphere: Desperate tension and royal anguish fill the chamber as a father confronts his son's mortality, the gravity
-      of the succession crisis hanging heavy in the candlelit air
+    mainElements: Ornate four-poster bed with heavy burgundy curtains, white linens, royal coat of arms embroidered on bedding
+    details: Flickering candles in silver holders cast dancing shadows on stone walls, crucifix mounted above bed headboard,
+      prayer kneelers positioned beside bed, medicine bottles and herb sachets on bedside table, royal physician's instruments
+      laid out on cloth, incense burning in corner brasier filling room with sacred smoke, no text or letters visible
+    background: Tapestried walls depicting biblical scenes, tall arched windows showing starlit sky, heavy oak doors with
+      iron hinges
+    atmosphere: Desperate vigil, hushed reverence, scent of herbs and incense, golden candlelight creating solemn mood
   composition:
     cameraAngle: Medium shot from foot of bed, slightly elevated
-    focus: The unconscious prince in bed with his father kneeling in prayer beside him
-    depth: 'Foreground: ornate bedpost and prayer cushions; middle: the prince and praying king; background: religious artwork
-      and tall windows, no text or letters visible'
+    focus: Prince's pale face and the praying king beside him
+    depth: Foreground shows ornate bedposts, middle ground captures the dying prince and praying king, background reveals
+      the sacred chamber atmosphere
 visualElements:
   colorPalette:
     primary:

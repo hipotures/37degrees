@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1969, morning
+    location: Corporate conference room, 3M headquarters, St. Paul, Minnesota
+    weather: Bright morning light streaming through large conference room windows
+  characters:
+  - appearance: Caucasian man, early 30s, average height, dark brown hair neatly parted, intelligent brown eyes behind thick-rimmed
+      glasses, clean-shaven with serious expression
+    clothing: 1960s white laboratory coat over dark dress shirt and narrow tie
+    position: Standing at front of conference room beside presentation easel
+    action: Demonstrating adhesive properties by peeling paper samples apart and reattaching them, gesturing enthusiastically
+      while explaining the unique characteristics to seated colleagues
+  - appearance: Mixed group of Caucasian men and women, ages 25-55, professional appearance typical of 1960s-70s corporate
+      employees
+    clothing: Business attire - men in dark suits with ties, women in conservative dresses or blouses with skirts
+    position: Seated around long wooden conference table
+    action: Listening with expressions of polite skepticism, some leaning back in chairs, others taking notes, a few exchanging
+      doubtful glances with each other
+  scene:
+    mainElements: Long wooden conference table, leather chairs, projection screen, corporate charts on walls, fluorescent
+      lighting. Charts, graphs, typed reports, and demonstration samples used in business presentations, manila folders, corporate
+      letterhead documents.
+    details: Multiple adhesive samples and test papers spread across table, demonstration materials showing weak adhesive
+      properties, coffee cups and notepads scattered around table, wall charts showing research progress, overhead projector
+      ready for use, formal corporate setting with professional atmosphere.
+    background: Corporate office environment with large windows, filing cabinets, company logos and achievement plaques on
+      walls, view of other office buildings through windows
+    atmosphere: Professional tension between innovation and practicality, sense of having to justify an unusual discovery,
+      corporate decision-making environment where new ideas face scrutiny, polite but unconvinced audience reaction, no text
+      or letters visible
+  composition:
+    cameraAngle: Wide shot from corner of room showing both presenter and audience
+    focus: Character SS demonstrating adhesive while colleagues observe with skeptical expressions
+    depth: Conference table and seated colleagues in foreground, presenter and demonstration materials in middle ground, corporate
+      conference room elements in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

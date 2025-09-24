@@ -4,37 +4,65 @@ canon:
       name: "Character YJ"
       description_block: |
         characters:
-          - appearance: "Chinese woman, 50s, gentle face with kind eyes, naturally long dark hair, distinctive extremely long eyelash on left upper eyelid measuring over 20 centimeters"
-            clothing: "Simple casual modern Chinese clothing, often light colored blouses or sweaters, comfortable everyday attire"
-            posture: "Calm and peaceful demeanor, often with slight smile, gentle hand gestures when speaking"
+          - appearance: "Mid-50s Chinese woman, approximately 49 years old in 2021, average build, gentle facial features, most notably characterized by extraordinarily long eyelashes on left upper eyelid measuring 20.5cm, other eyelashes also notably long creating face tassels effect"
+            clothing: "Simple, modest clothing typical of middle-aged Chinese woman, often seen in casual shirts and comfortable attire during interviews and measurements"
+            position: "Often touching or adjusting her record-breaking eyelash, appears comfortable with media attention"
+            action: "Calm, spiritual, soft-spoken, often smiling gently, speaks with quiet confidence about her spiritual beliefs"
+    - id: "guinness_officials"
+      name: "Guinness Officials"
+      description_block: |
+        characters:
+          - appearance: "Professional officials in business attire, carrying measurement tools and documentation equipment"
+            clothing: "Formal business clothing, official Guinness World Records branded materials and badges"
+            position: "Standing or seated at measurement stations with professional equipment"
+            action: "Professional, meticulous, focused on accurate measurement procedures, official documentation protocols"
+    - id: "medical_doctors"
+      name: "Medical Doctors"
+      description_block: |
+        characters:
+          - appearance: "Professional medical practitioners in white coats or professional medical attire"
+            clothing: "Medical white coats, professional medical clinic environment clothing"
+            position: "In medical examination rooms or consultation areas"
+            action: "Puzzled, intrigued, unable to provide clear medical explanation for the phenomenon"
   locations:
-    - id: "main_location_1"
-      name: "Shanghai Medical Facility"
+    - id: "mountain_retreat"
+      name: "Mountain Retreat Location"
       description_block: |
         setting:
-          location: "Modern medical measurement facility in Shanghai, China, sterile white examination room with professional equipment"
-        mainElements: "Medical examination chair, measurement tools, overhead lighting, clean white walls"
-        atmosphere: "Professional, clean, quiet environment focused on scientific verification"
-    - id: "main_location_2"
-      name: "Chinese Home Interior"
+          location: "Remote mountainous area in China where Character YJ spent 18-month spiritual retreat"
+        mainElements: "Natural mountain landscape, meditation areas, simple retreat facilities, Buddhist-influenced environment, pristine natural surroundings"
+        atmosphere: "Serene, spiritual, peaceful natural environment, sounds of nature, clean mountain air, conducive to meditation and spiritual practice"
+    - id: "shanghai_measurement_venue"
+      name: "Shanghai Measurement Venue"
       description_block: |
         setting:
-          location: "Traditional Chinese home interior, comfortable living space with cultural decorations"
-        mainElements: "Simple furniture, family photos, traditional Chinese elements, warm lighting"
-        atmosphere: "Homely, peaceful, welcoming domestic environment reflecting Chinese family life"
-    - id: "main_location_3"
-      name: "Public Recognition Setting"
+          location: "Professional indoor venue in Shanghai suitable for official Guinness World Records measurement ceremony"
+        mainElements: "Clean, well-lit measurement area with professional lighting, measurement tools, cameras for documentation, official Guinness backdrop or signage"
+        atmosphere: "Formal yet celebratory atmosphere, professional measurement environment, media presence, careful documentation procedures"
+    - id: "changzhou_original_venue"
+      name: "Changzhou Original Record Venue"
       description_block: |
         setting:
-          location: "Official setting for record verification, formal indoor space with cameras and documentation"
-        mainElements: "Recording equipment, documentation tables, official certificates, measurement instruments"
-        atmosphere: "Formal but celebratory, focused on achievement recognition and documentation"
+          location: "Official measurement venue in Changzhou where first world record was established"
+        mainElements: "Professional measurement setup, Guinness officials present, documentation equipment, formal record verification environment"
+        atmosphere: "Historic moment atmosphere, excitement of first official world record recognition, professional verification procedures"
+    - id: "medical_clinic"
+      name: "Medical Consultation Clinic"
+      description_block: |
+        setting:
+          location: "Professional medical clinic or hospital consultation room"
+        mainElements: "Medical examination equipment, doctors desk, patient chair, medical charts, clinical lighting, sterile medical environment"
+        atmosphere: "Clinical, professional medical environment with sense of scientific curiosity about unexplained phenomenon"
   items:
-    - id: "key_item_1"
+    - id: "record_breaking_eyelash"
+      name: "Record Breaking Eyelash"
+      description_block: |
+        details: "Single eyelash measuring exactly 20.5 cm (8.0 inches) in length, growing from upper left eyelid, natural black color, slightly curved, remarkably thick for an eyelash, measures 8.1cm longer than previous 2016 record"
+    - id: "measurement_tools"
       name: "Measurement Tools"
       description_block: |
-        details: "Professional medical rulers and measurement devices used for precise documentation of eyelash length, metal rulers with clear markings"
-    - id: "key_item_2"
-      name: "Guinness World Record Certificate"
+        details: "Professional measuring instruments capable of precise measurement to 0.1cm accuracy, rulers, calipers, documentation cameras, Guinness World Records standard measurement protocols equipment"
+    - id: "medical_equipment"
+      name: "Medical Equipment"
       description_block: |
-        details: "Official Guinness World Records certificate and documentation materials, formal paperwork recognizing the achievement"
+        details: "Standard medical examination tools, magnifying equipment for detailed eyelash examination, medical documentation materials, consultation records"

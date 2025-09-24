@@ -1,28 +1,31 @@
 sceneDescription:
   setting:
-    time: 1998, morning
-    location: La Paz outskirts, Bolivia - high altitude departure point at 3,500 meters elevation
-    weather: Crisp mountain morning with clear visibility
+    time: 2000s, morning
+    location: Modern two-lane asphalt highway built along adjacent mountain range with comprehensive safety features
+    weather: Clear mountain morning with good visibility for construction work
   characters:
-  - appearance: Young backpacker, 20s, athletic build, eager expression, wearing bike helmet
-    clothing: Modern cycling gear - padded shorts, moisture-wicking shirt, protective gear
-    position: Standing beside mountain bike, listening to safety briefing
-    action: Adjusting helmet and protective gear, checking bike equipment with nervous excitement
-  - appearance: Tour guide, 30s, experienced mountain guide, calm demeanor, local knowledge
-    clothing: Professional outdoor gear - technical jacket, mountain boots, radio equipment
-    position: Addressing small group of cyclists
-    action: Explaining route dangers and safety procedures before descent begins
+  - appearance: Bolivian workers aged 25-50, hard hats, reflective safety vests, professional construction appearance
+    clothing: Modern safety equipment, reflective vests, hard hats, steel-toed boots, work uniforms
+    position: Working on new highway construction sites
+    action: Operating heavy machinery, building modern road infrastructure with safety features
   scene:
-    mainElements: Small group of early adventure tourists preparing for Death Road cycling experience
-    details: Heavy-duty mountain bike with disc brakes, protective gear including helmet and pads, first tour operator vehicles,
-      basic safety equipment, maps showing dangerous route, excited tourists mixed with serious safety preparations
-    background: Death Road winding into distance, mountain peaks surrounding departure point
-    atmosphere: Adventure tourism beginning, mixture of excitement and apprehension
+    mainElements: Concrete guardrails, proper drainage systems, road signs in Spanish, emergency pull-offs, wider lanes with
+      yellow center lines
+    details: Modern road construction with heavy machinery including bulldozers, cement mixers, and paving equipment. Workers
+      wearing full safety gear including hard hats, reflective vests, and steel-toed boots. Construction of concrete guardrails
+      and proper drainage systems. Professional surveying equipment ensuring precise engineering. Temporary construction barriers
+      and warning equipment. Modern asphalt paving machines creating smooth two-lane surface. Safety protocols visible throughout
+      construction site. Workers using power tools and modern construction techniques contrasting with original road's primitive
+      construction.
+    background: Safe and efficient travel environment under construction, mountains in background showing contrast between
+      old dangerous route and modern engineering
+    atmosphere: Professional construction atmosphere with sounds of heavy machinery and modern engineering, sense of progress
+      and safety improvement, hope for ending the deadly road legacy, no text or letters visible
   composition:
-    cameraAngle: Group shot showing tourists preparing for dangerous journey
-    focus: Early adventure tourists beginning transformation of Death Road into tourist destination
-    depth: Tour group in foreground, bikes and safety equipment in middle ground, dangerous road ahead in background, no text
-      or letters visible
+    cameraAngle: Wide shot showing scale of modern construction project against mountain backdrop
+    focus: Modern construction equipment and safety-conscious workers building new highway
+    depth: 'Foreground: construction workers and machinery, middle: new highway taking shape, background: mountains where
+      old dangerous road remains'
 visualElements:
   colorPalette:
     primary:

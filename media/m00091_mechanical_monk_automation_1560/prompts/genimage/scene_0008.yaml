@@ -1,33 +1,31 @@
 sceneDescription:
   setting:
-    time: 1563, morning
-    location: Stone-walled Renaissance workshop in Toledo, Spain, with vaulted ceiling and tall windows
-    weather: Bright morning sunlight flooding through tall windows
+    time: 1563, afternoon
+    location: Royal audience chamber, Alcázar of Madrid, Spain
+    weather: Bright afternoon sunlight streaming through tall windows
   characters:
-  - appearance: Italian man, 50s, graying beard, intense focused eyes, calloused hands from metalwork
-    clothing: Renaissance brown leather apron over white linen shirt, dark wool hose, leather boots
-    position: Kneeling beside his workbench, watching intently
-    action: Observing the automaton's first movements with amazement and satisfaction
   - appearance: Franciscan monk figure, 38cm tall, carved wooden head with tonsured crown, serene expression
     clothing: Brown Franciscan robes, rope belt with knots, simple sandals
-    position: Walking in square pattern on cleared workshop floor
-    action: Walking, striking chest, raising cross, nodding head in prayer gestures
+    position: Walking, striking chest, raising cross, nodding head in prayer gestures
+    action: Performing full sequence - walking in square pattern, striking chest, kissing cross, rolling eyes, opening and
+      closing mouth in silent prayer
   scene:
-    mainElements: The completed mechanical monk demonstrates its full repertoire of movements while the creator watches with
-      wonder
+    mainElements: Polished marble floor reflecting the moving automaton, ornate palace furnishings creating sacred atmosphere
     details: 38cm tall clockwork figure with wooden head, brown Franciscan robes, hidden brass mechanisms beneath clothing,
-      small wooden cross and rosary in left hand, wind-up key in back performs its programmed sequence. The figure walks in
-      precise square patterns while striking its chest with right arm, raising and lowering the wooden cross, turning and
-      nodding its head, and bringing the cross to its lips. Every movement flows smoothly from the hidden clockwork
-    background: Wooden workbenches covered with clockwork mechanisms, brass gears, springs, and precision tools frame the
-      miraculous demonstration
-    atmosphere: Triumph and wonder as mechanical perfection achieves spiritual purpose, years of precise craftsmanship culminating
-      in artificial devotion made manifest
+      small wooden cross and rosary in left hand, automaton executing perfect square walking pattern, right arm mechanically
+      striking chest in rhythmic penitent gesture, left hand raising cross to carved lips and kissing it reverently, head
+      turning left and right in lifelike prayer motions, wooden eyes appearing to roll upward in devotion, mouth opening and
+      closing in continuous silent prayer, intricate gear mechanisms operating in perfect synchronization beneath robes, afternoon
+      sunlight casting moving shadows as figure walks, no text or letters visible
+    background: Marble columns and religious tapestries, tall arched windows with palace courtyards visible, ornate ceiling
+      with painted biblical scenes
+    atmosphere: Sacred wonder, mechanical precision combined with spiritual devotion, golden sunlight highlighting the miraculous
+      fusion of faith and engineering
   composition:
-    cameraAngle: Wide shot capturing both the walking automaton and amazed craftsman
-    focus: The mechanical monk in full operation, demonstrating its remarkable range of movement
-    depth: 'Foreground: the walking automaton performing its sequence; middle: the kneeling craftsman in amazement; background:
-      workshop equipment and bright windows, no text or letters visible'
+    cameraAngle: Close-up tracking shot following the automaton's movement
+    focus: Detailed view of mechanical monk performing its complete prayer sequence
+    depth: Foreground shows intricate mechanical movements, middle ground captures the full prayer ritual, background provides
+      palace setting
 visualElements:
   colorPalette:
     primary:

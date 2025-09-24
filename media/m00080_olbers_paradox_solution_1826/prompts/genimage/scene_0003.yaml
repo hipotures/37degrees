@@ -1,28 +1,28 @@
 sceneDescription:
   setting:
-    time: 1826, night
-    location: Upper floor astronomical observatory in Bremen townhouse, 1826
-    weather: Clear night sky perfect for observations
+    time: 1823, evening
+    location: Traditional German academic amphitheater with wooden benches arranged in ascending rows, 1820s
   characters:
-  - appearance: German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom
-    clothing: 1820s dark blue physician's coat over white shirt and black vest
-    position: Standing beside brass telescope adjusting eyepiece and mounting
-    action: Carefully calibrating telescope and arranging astronomical instruments for night's observations
+  - appearance: Caucasian man, late 60s, 68 years old in 1826, medium build, intelligent eyes behind round spectacles, graying
+      hair, weathered hands from years of telescope work, gentle demeanor from medical practice
+    clothing: Dark formal coat typical of German professionals, white cravat, practical boots for nighttime observatory work
+    position: Standing at wooden podium addressing seated audience
+    action: Gesturing toward blackboard while explaining mathematical concepts to assembled scholars
   scene:
-    mainElements: Wooden telescope on brass mount, star charts on walls, measuring instruments on oak table, warm candlelight
-      illuminating workspace
-    details: Long brass refracting telescope on wooden tripod mount with adjustable brass fittings, hand-drawn star maps on
-      parchment showing constellation patterns, brass compass and measuring tools, leather-bound observation journals, candles
-      in brass holders casting warm light, small window showing night sky
-    background: Shelves with astronomical texts and calculation sheets, wall-mounted star charts and celestial maps, additional
-      optical instruments and lenses in wooden cases
-    atmosphere: Intimate scholarly workspace dedicated to cosmic discovery, peaceful concentration on celestial mysteries,
-      methodical preparation for systematic observation, no text or letters visible
+    mainElements: Large blackboard with astronomical diagrams, wooden podium for lecturer, oil lamps providing warm light,
+      students with notebooks and quills, scientific instruments displayed
+    details: Traditional German academic amphitheater with wooden benches arranged in ascending rows, multiple oil lamps casting
+      dancing shadows, assembled scholars taking notes with quill pens, astronomical instruments on display tables. Blackboard
+      shows geometric diagrams of stellar distribution patterns and mathematical formulations
+    background: Scholarly discussion and debate, chalk dust in air, earnest scientific inquiry, revolutionary ideas challenging
+      accepted cosmic wisdom
+    atmosphere: Intellectual tension as established cosmological beliefs are challenged, mixture of fascination and skepticism
+      among audience, historical moment of paradigm shift beginning
   composition:
-    cameraAngle: Medium shot from room entrance
-    focus: character_HO preparing telescope and astronomical instruments
-    depth: Foreground shows oak table with instruments, middle ground centers on character with telescope, background reveals
-      star charts and night sky through window
+    cameraAngle: Medium wide shot from back of amphitheater looking toward podium
+    focus: Character at podium with blackboard diagrams behind him, engaged audience in foreground
+    depth: Attentive scholars in foreground, character presenting at podium in middle ground, blackboard with astronomical
+      diagrams in background, no text or letters visible
 visualElements:
   colorPalette:
     primary:

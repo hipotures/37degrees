@@ -1,73 +1,79 @@
 canon:
   characters:
-    - id: "character_RS"
-      name: "Character RS"
+    - id: "character_RCS"
+      name: "Character RCS"
       description_block: |
         characters:
-          - appearance: "American man, aging from 30 to 65 over story span, brawny build resembling Gene Hackman, rugged weathered face"
-            clothing: "US Park Service uniform with ranger hat, work boots, utility belt, later carrying water can"
-            posture: "Confident ranger bearing gradually becoming more cautious, often scanning sky for storm clouds"
-    - id: "character_RH"
-      name: "Character RH"
+          - appearance: "Brawny, towering Caucasian man, broad rugged face resembling actor Gene Hackman, multiple lightning scars visible on face, arms, and legs, often missing eyebrows and eyelashes from recent strikes, thick build, weathered skin from outdoor work"
+            clothing: "1940s-1970s park ranger uniform - khaki shirt and pants, wide-brimmed ranger hat with official Shenandoah National Park badge, heavy work boots often with lightning burn holes, utility belt with radio and emergency water container"
+            position: "Standing alert, often scanning sky for threatening clouds, or working at various park locations"
+            action: "Performing ranger duties while remaining vigilant for approaching storms, occasionally showing lightning scars to skeptics with matter-of-fact attitude"
+    - id: "character_PAS"
+      name: "Character PAS"
       description_block: |
         characters:
-          - appearance: "American man, 50s, park superintendent bearing, administrative appearance, concerned expression"
-            clothing: "Park Service supervisor uniform with official insignia, formal ranger attire"
-            posture: "Administrative authority, often taking notes or documenting unusual incidents"
-    - id: "fellow_ranger"
-      name: "Fellow Park Ranger"
+          - appearance: "Middle-aged Caucasian woman, 1960s-1970s housewife appearance, practical build, supportive demeanor"
+            clothing: "Period-appropriate housedress while hanging laundry, sturdy work shoes, casual 1970s attire"
+            position: "Working around family home, hanging laundry outdoors, or supporting her husband"
+            action: "Performing household tasks with matter-of-fact attitude about her own lightning experience"
+    - id: "character_RTH"
+      name: "Character RTH"
       description_block: |
         characters:
-          - appearance: "American man, 40s, typical park ranger appearance, nervous around storms"
-            clothing: "Standard Park Service uniform with ranger equipment"
-            posture: "Professional but increasingly wary, often keeping distance during storm weather"
+          - appearance: "Middle-aged Caucasian man, formal bearing typical of 1940s-1970s government administrators, professional demeanor"
+            clothing: "Park Service dress uniform or business suit with official badge, formal hat when outdoors"
+            position: "At desk reviewing official documents, or inspecting park facilities"
+            action: "Methodically documenting incident reports, reviewing official records, conducting administrative duties"
   locations:
-    - id: "shenandoah_park"
-      name: "Shenandoah National Park"
+    - id: "shenandoah_fire_tower"
+      name: "Shenandoah Fire Lookout Tower"
       description_block: |
         setting:
-          location: "Mountainous national park in Virginia with forests, trails, and facilities"
-        mainElements: "Dense forest with tall trees, mountain ridges, park buildings, fire lookout towers"
-        atmosphere: "Beautiful Appalachian wilderness setting frequently experiencing thunderstorms"
-    - id: "fire_lookout_tower"
-      name: "Fire Lookout Tower"
+          location: "Tall wooden observation tower on exposed Blue Ridge Mountain ridgeline, Shenandoah National Park, Virginia, 2,000+ feet elevation"
+        mainElements: "Multi-story wooden structure with glass observation room at top, external ladder and stairs, radio equipment, no lightning rod protection in 1942, surrounded by tall trees"
+        atmosphere: "April 1942 thunderstorm - dark storm clouds, torrential rain, lightning strikes every few minutes, electrical charges visible inside glass room, smell of burning wood and ozone"
+    - id: "mountain_road_truck"
+      name: "Blue Ridge Mountain Road"
       description_block: |
         setting:
-          location: "Elevated fire observation tower in Shenandoah National Park"
-        mainElements: "Wooden tower structure with observation windows, no lightning rod protection"
-        atmosphere: "Isolated mountain outpost vulnerable to lightning strikes and severe weather"
-    - id: "ranger_station"
-      name: "Park Ranger Station"
+          location: "Winding mountain road through forested Blue Ridge terrain, elevated ridgeline route, Shenandoah National Park, Virginia"
+        mainElements: "Narrow paved road, tall trees on both sides, steep drop-offs, park service truck with open windows"
+        atmosphere: "July 1969 storm - heavy rain, wind bending trees, lightning striking nearby, electrical discharge reflecting off wet pavement, cliff edge visible through windshield"
+    - id: "ranger_station_interior"
+      name: "Shenandoah Ranger Station Interior"
       description_block: |
         setting:
-          location: "Official ranger facility within Shenandoah National Park"
-        mainElements: "Government building with offices, equipment storage, communication gear"
-        atmosphere: "Professional park service workplace that should be safe from lightning"
-    - id: "mountain_road"
-      name: "Park Mountain Road"
+          location: "Single-story wooden park building with office space and rest facilities, Shenandoah National Park, Virginia"
+        mainElements: "Wooden desk with radio equipment, file cabinets, small restroom with sink, official park maps on walls, basic office furniture"
+        atmosphere: "Spring 1972 - sudden indoor lightning strike, acrid smoke smell, singed hair odor, panic as occupant tries to extinguish burning hair in cramped restroom"
+    - id: "fishing_pool"
+      name: "Mountain Fishing Pool"
       description_block: |
         setting:
-          location: "Winding road through Shenandoah National Park mountains"
-        mainElements: "Paved park road with forest on both sides, scenic mountain vistas"
-        atmosphere: "Scenic drive through wilderness becoming dangerous during thunderstorms"
+          location: "Natural mountain pool surrounded by forest, typical Appalachian fishing spot, Shenandoah National Park, Virginia"
+        mainElements: "Clear mountain water, rocky shoreline, overhanging trees, fishing equipment scattered around, nearby woods where wildlife might emerge"
+        atmosphere: "June 25, 1977 - sudden storm, lightning strike from overhead, burning hair smell, wild animals approaching during recovery, trout scattered in disturbed water"
+    - id: "sullivan_yard"
+      name: "Sullivan Family Yard"
+      description_block: |
+        setting:
+          location: "Residential yard with power lines and transformer, typical 1970s American home exterior, Virginia"
+        mainElements: "Power transformer on utility pole, clothesline for hanging laundry, typical suburban yard with trees and grass"
+        atmosphere: "July 1970 - electrical storm, lightning hitting power transformer, electrical discharge jumping to nearby areas, smell of ozone and burning electrical equipment"
   items:
-    - id: "ranger_truck"
-      name: "Park Service Vehicle"
+    - id: "lightning_struck_hat"
+      name: "Lightning-Struck Ranger Hat"
       description_block: |
-        details: "Official park ranger truck with government markings, radio equipment, emergency supplies"
-    - id: "water_can"
-      name: "Emergency Water Container"
+        details: "Wide-brimmed park ranger hat, dark material with official Shenandoah National Park badge, distinctive lightning burn marks and holes, singed edges, damaged brim from direct lightning contact"
+    - id: "emergency_water_container"
+      name: "Hair Fire Water Supply"
       description_block: |
-        details: "Metal water can carried specifically for extinguishing hair fires from lightning strikes"
-    - id: "lightning_bolt"
-      name: "Lightning Strike"
+        details: "Metal water container carried in park truck, dented from repeated use, carried specifically for extinguishing hair fires after lightning strikes, typical 1970s emergency supply equipment"
+    - id: "medical_records"
+      name: "Lightning Strike Documentation"
       description_block: |
-        details: "Brilliant electrical discharge from storm clouds, jagged white-blue energy bolt"
-    - id: "fishing_gear"
-      name: "Fishing Equipment"
+        details: "Hospital records, photographs of burn scars, missing toenails, hair loss documentation, distinctive lightning burn patterns, scarring on arms and legs, hearing damage records"
+    - id: "guinness_certificate"
+      name: "World Records Certification"
       description_block: |
-        details: "Fishing rod, tackle box, fishing line for freshwater mountain stream fishing"
-    - id: "park_documentation"
-      name: "Official Incident Reports"
-      description_block: |
-        details: "Official park service documentation of lightning strike incidents, medical reports"
+        details: "Official Guinness World Records certificate for Most Lightning Strikes Survived, seven confirmed strikes between 1942-1977, international verification documentation"

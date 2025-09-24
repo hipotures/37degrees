@@ -1,20 +1,16 @@
 sceneDescription:
-  title: "A-10 Aircraft Formation Landing at Davis-Monthan"
+  title: "V-Formation Continuing Southeast Toward Tucson"
   setting:
-    time: "March 13, 1997, 8:45 PM MST, night"
-    location: "Davis-Monthan Air Force Base, Tucson, Arizona"
-    weather: "Clear night conditions"
-  characters:
-    - appearance: "Military pilot, 30s, fit build, focused expression"
-      clothing: "Standard olive drab flight suit with patches, flight helmet with oxygen mask, full gear"
-      position: "In cockpit of A-10 aircraft on final approach"
-      action: "Professional pilot stance, hands on controls or checking instruments"
+    time: "March 13, 1997, 9:15 PM MST, desert night"
+    location: "Desert landscape between Phoenix and Tucson, Arizona, viewed from elevated perspective"
+    weather: "Clear desert night, perfect visibility conditions"
+  characters: "No characters present in this scene"
   scene:
-    mainElements: "Military airfield with runways, hangars, control tower, aircraft parking areas"
-    details: "Formation of five Fairchild Republic A-10 Thunderbolt II aircraft approaching runway for landing, aircraft display grey camouflage paint scheme with Maryland ANG 175th Wing markings and MD tail codes, twin engines mounted above fuselage clearly visible, straight wing design showing distinctive silhouette, formation lights still active from night operations, military airfield illuminated with runway lighting and taxiway markers, control tower and hangars visible in background, professional military flight operations in progress, no text or letters visible"
-    background: "Professional military environment, well-lit facility, organized aircraft operations"
-    atmosphere: "Routine military aviation operations concluding night training exercise"
+    mainElements: "Perfect V-shaped arrangement of six to seven amber-orange lights, estimated 1-2 miles wide, maintaining precise geometric formation, completely silent operation, lights appearing as steady non-blinking points"
+    details: "Desert landscape showing scattered saguaro cacti and desert vegetation, distant highway lights creating thin line across valley floor, formation maintaining southeast trajectory at steady pace, Tucson city lights visible as distant glow on horizon, mountain ranges creating layered silhouettes, stars filling clear night sky around formation, no text or letters visible"
+    background: "Distant Tucson city lights on southeastern horizon, layered mountain ranges, star-filled desert night sky"
+    atmosphere: "Profound silence despite massive scale of phenomenon, sense of purposeful movement across familiar desert landscape, mysterious presence maintaining course toward Mexico border, vast scale of Arizona desert emphasized by formation's size"
   composition:
-    cameraAngle: "Low angle from airfield showing aircraft formation on final approach"
-    focus: "A-10 aircraft formation with lead aircraft and pilot clearly visible"
-    depth: "Foreground shows runway approach area, middle ground captures formation aircraft, background features airbase facilities and control tower"
+    cameraAngle: "High perspective following formation's southeast trajectory"
+    focus: "V-formation moving across desert landscape toward distant city lights"
+    depth: "Foreground shows detailed desert terrain, middle ground shows formation and highway, background shows Tucson lights and mountains"

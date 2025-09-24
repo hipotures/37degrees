@@ -1,26 +1,28 @@
 sceneDescription:
   setting:
-    time: 1628, spring
-    location: Vasa warship during final armament phase
-    weather: Cool spring morning with harbor mist
+    time: August 1628, morning
+    location: Stockholm Harbor, natural harbor surrounded by rocky islands and bluffs, Sweden
+    weather: Clear summer morning with light winds
   characters:
-  - appearance: Swedish man, 45, naval officer bearing, weathered sea captain face, serious expression
-    clothing: Swedish naval uniform with officer insignia, ceremonial sword, naval hat
-    position: Standing on gun deck overseeing cannon installation
-    action: Naval authority, directing placement of massive artillery pieces with growing concern
+  - appearance: Distinguished naval officer in his 50s, gray-streaked beard, calculating eyes, erect military posture
+    clothing: Navy blue admiral's uniform with gold braiding, white stockings, polished black shoes, ceremonial sword
+    position: Standing observantly with hands behind back
+    action: Watching stability test with visibly concerned expression
   scene:
-    mainElements: Two gun decks being loaded with unprecedented number of heavy cannons
-    details: 64 bronze cannons including 48 powerful 24-pound guns being positioned on two gun decks, crews struggling with
-      weight of massive artillery, ship visibly settling lower in water under enormous weight, gun ports being fitted, ammunition
-      being loaded, ship's hull creaking under artillery load
-    background: Stockholm harbor with other naval vessels, royal shipyard continuing construction activities, spring weather
-      over Swedish maritime scene
-    atmosphere: Growing concern about ship's stability as massive firepower exceeds safe engineering limits, unprecedented
-      naval armament creating engineering challenge, military ambition versus maritime physics, no text or letters visible
+    mainElements: Protected waters between mainland and archipelago, royal palace quay, Slussen narrows, Södermalm bluffs,
+      Tegelviken bay, numerous small islands and rocks
+    details: Completed warship Vasa moored at dock, thirty sailors running back and forth across main deck in coordinated
+      groups, ship rolling dangerously from side to side with each movement, bronze cannons secured but shifting weight visible,
+      ornate stern carvings gleaming in sunlight, dock workers and observers stepping back in alarm, no text or letters visible
+    background: Bustling maritime activity, summer afternoon sun creating long shadows, gentle breeze carrying salt air and
+      tar scents
+    atmosphere: Bustling maritime activity, summer afternoon sun creating long shadows, gentle breeze carrying salt air and
+      tar scents
   composition:
-    cameraAngle: Low angle shot emphasizing massive artillery installation
-    focus: Overwhelming firepower creating dangerous top-heavy condition
-    depth: Gun deck and cannons in foreground, ship structure in middle ground, harbor environment in background
+    cameraAngle: Medium shot from dock level
+    focus: Naval officer's concerned expression as ship tilts alarmingly
+    depth: Character on dock in foreground, rolling ship with running sailors in middle ground, Stockholm harbor in background,
+      no text or letters visible
 visualElements:
   colorPalette:
     primary:

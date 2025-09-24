@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Record-Setting 75-Meter Journey"
+  setting:
+    time: "June 1, 2011, 11:20 AM"
+    location: "Campus courtyard of Faculty of Mechanical Engineering, Krakow University of Technology, Krakow, Poland"
+    weather: "Perfect sunny conditions for the official record journey"
+  characters:
+    - appearance: "Caucasian man, 40s, experienced look, calm expression, sturdy build"
+      clothing: "Official bus driver uniform - dark blue jacket, cap, professional appearance"
+      position: "Driving the bus with 229 passengers for the official record journey"
+      action: "Seated at driver controls, maintaining professional composure"
+  scene:
+    mainElements: "Bus in motion carrying 229 participants on the official 75-meter journey for world record validation"
+    details: "Standard single-decker public transport bus, unmodified, typical Polish city bus design with multiple windows and standard seating configuration moving slowly and steadily along the measured 75-meter course, maximum human capacity of 229 participants inside, careful navigation ensuring safety while completing the required distance for official Guinness World Record validation"
+    background: "University campus buildings, marked course area for the 75-meter journey, officials and observers tracking the progress"
+    atmosphere: "Climactic moment of achievement as the world record is officially being set, tension and excitement culminating in historic accomplishment, no text or letters visible"
+  composition:
+    cameraAngle: "Dynamic side view showing bus in motion"
+    focus: "Bus in motion completing the record-setting journey"
+    depth: "Foreground shows marked journey path, middle ground displays moving bus with maximum capacity, background reveals university campus and observing officials"

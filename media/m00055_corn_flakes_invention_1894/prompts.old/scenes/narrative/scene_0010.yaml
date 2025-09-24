@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Patent application preparation - documenting the discovery"
+  setting:
+    time: "1895, spring afternoon"
+    location: "Doctor's office inside Battle Creek Sanitarium, Michigan"
+    weather: "Bright spring afternoon with sunlight through office windows"
+  characters:
+    - appearance: "Caucasian man, 40s, tall and lean build, intense dark eyes, full dark beard, stern expression"
+      clothing: "1890s white medical coat over dark suit, or formal black suit with white shirt and bow tie"
+      position: "Seated at wooden desk, working on patent documentation"
+      action: "Writing detailed descriptions of the flaking process and examining patent application forms"
+    - appearance: "Caucasian man, 30s, shorter than his brother, clean-shaven, practical demeanor, focused expression"
+      clothing: "1890s dark business suit with vest, white shirt, simple necktie, sometimes wearing work apron"
+      position: "Standing beside desk, reviewing technical drawings"
+      action: "Pointing to diagrams of the rolling process and discussing technical details of their discovery"
+  scene:
+    mainElements: "Wooden desk with papers, medical books on shelves, examination table, gas lamp lighting, technical drawings and documentation"
+    details: "Official patent papers on desk, formal typewritten text, official government seals and stamps visible, technical drawings of the flaking process, samples of wheat flakes for reference, ink wells and writing instruments, no text or letters visible"
+    background: "Office bookshelves with medical texts, window showing sanitarium grounds in spring"
+    atmosphere: "Formal documentation of groundbreaking discovery, sense of historical significance being recorded, transformation from accident to official invention"
+  composition:
+    cameraAngle: "Medium shot focusing on the desk and patent work"
+    focus: "Patent documentation being prepared with both brothers collaborating"
+    depth: "Foreground shows desk with patent papers and flake samples, middle ground shows both characters working, background shows office setting with books and window"

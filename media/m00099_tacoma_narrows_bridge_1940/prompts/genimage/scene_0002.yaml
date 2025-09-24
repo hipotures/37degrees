@@ -1,27 +1,35 @@
 sceneDescription:
   setting:
-    time: 1939, summer
-    location: Tacoma Narrows construction site during bridge building
-    weather: Clear Pacific Northwest summer day
+    time: 1938, afternoon
+    location: Professional office meeting room, Washington State Highway Department
+    weather: Clear day visible through office windows
   characters:
-  - appearance: American man, 30s, construction worker build, weathered hands, experienced expression
-    clothing: 1940s work clothes with hard hat, tool belt, sturdy boots
-    position: Working on bridge construction high above water
-    action: Industrial worker stance, installing suspension cables and deck sections
+  - appearance: 44-year-old tall lanky man with angular features, thinning dark hair combed back, earnest expression
+    clothing: Gray flannel trousers, white shirt with sleeves rolled up, plain tie, sturdy work boots suitable for construction
+      sites
+    position: Standing at drafting table pointing to detailed bridge plans
+    action: Methodical and careful, speaks with conviction about engineering principles
+  - appearance: 67-year-old distinguished gentleman with graying hair and serious demeanor, medium build, wire-rimmed glasses
+    clothing: 1940s dark wool business suit, white shirt, conservative tie, polished leather shoes, often carrying briefcase
+      with engineering documents
+    position: Seated at conference table with alternative design drawings
+    action: Confident and authoritative bearing of accomplished professional, speaks with slight accent
   scene:
-    mainElements: Suspension bridge under construction spanning deep waters with towers and cables being installed
-    details: Massive steel suspension cables being strung between towers, narrow bridge deck sections being installed, construction
-      equipment and scaffolding, workers high above Puget Sound waters, construction cranes and machinery, bridge taking elegant
-      slender shape
-    background: Deep blue waters of Puget Sound with forested shores on both sides, Pacific Northwest mountains in distance,
-      dramatic maritime geography
-    atmosphere: Pacific Northwest maritime environment with engineering marvel taking shape, ambitious construction project
-      in dramatic natural setting, pride in innovative design, no text or letters visible
+    mainElements: Large drafting table with detailed bridge blueprints, rolled engineering drawings, measuring instruments,
+      calculators, and technical references scattered across surface
+    details: Two distinctly different bridge designs laid out side by side - one showing conservative deep truss design with
+      substantial support structures, other displaying revolutionary shallow girder approach. Technical drawings show cross-sections,
+      wind load calculations, structural specifications. Office filled with engineering reference books, slide rules, and
+      professional instruments of 1930s bridge design.
+    background: Professional office with large windows overlooking construction projects, filing cabinets with project documents,
+      wall-mounted engineering certificates
+    atmosphere: Tense professional disagreement between conservative and revolutionary engineering approaches, with federal
+      cost pressures influencing critical design decisions
   composition:
-    cameraAngle: Wide shot showing bridge construction in natural setting
-    focus: Elegant suspension bridge construction over dramatic waterway
-    depth: Bridge construction in foreground, Puget Sound waters in middle ground, forested Pacific Northwest landscape in
-      background
+    cameraAngle: Medium shot from across the drafting table
+    focus: Two contrasting bridge designs and the men who created them
+    depth: Drafting table with blueprints in foreground, engineers in middle ground, office setting in background, no text
+      or letters visible
 visualElements:
   colorPalette:
     primary:

@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1928 late August, morning
+    location: St Mary's Hospital Bacteriology Laboratory, Paddington, London
+  characters:
+  - appearance: Scottish man, 47 years old, average height, lean build, receding dark hair, thoughtful brown eyes, clean-shaven
+    clothing: 1920s white laboratory coat over dark suit with vest and tie, or dark wool suit with waistcoat
+    position: Leaning over laboratory bench working with petri dishes
+    action: Inoculating staphylococci bacteria onto culture plates, preparing samples before departure
+  scene:
+    mainElements: Laboratory bench covered with numerous glass petri dishes, bacterial culture specimens, inoculation tools,
+      sterilization flame
+    details: Glass petri dishes arranged in orderly rows, bacterial specimens being transferred with sterile loops, gas burner
+      flame for sterilization, glass culture flasks containing growth media, laboratory notebook open with handwritten observations,
+      brass microscope positioned nearby, chemical bottles and scientific instruments, no text or letters visible
+    background: Laboratory windows showing late summer daylight, shelves with scientific equipment, other researchers working
+      at distant benches
+    atmosphere: Focused scientific preparation, sense of routine laboratory work before extended absence, careful attention
+      to bacterial culture protocols
+  composition:
+    cameraAngle: Close-up shot emphasizing meticulous laboratory technique
+    focus: Character AF's hands working with bacterial cultures and inoculation tools
+    depth: Foreground shows detailed petri dish preparation, middle ground captures character AF's concentrated work, background
+      shows laboratory environment and equipment
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

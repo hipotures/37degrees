@@ -1,0 +1,61 @@
+styleName: Digital X-Ray Blueprint Style
+description: Technical medical visualization with translucent X-ray layers, neon glowing anatomy, and futuristic HUD interface elements
+aiPrompts:
+  basePrompt: digital x-ray visualization, medical blueprint, translucent anatomy scan, neon skeleton x-ray, technical HUD interface, glowing anatomical structures
+  negativePrompt: solid opaque, cartoon, simple illustration, natural colors, daylight, realistic photography
+  styleKeywords:
+  - digital x-ray
+  - medical blueprint
+  - anatomical scan
+  - technical visualization
+  - neon anatomy
+  - HUD interface
+visualElements:
+  colorPalette:
+    primary:
+    - cyan blue glow
+    - magenta pink highlights
+    - electric yellow accents
+    secondary:
+    - white technical lines
+    - orange-red heat zones
+    - green data overlays
+    background: pure black or dark gray
+    usageNotes: Neon colors on black background with translucency layers
+    saturation: very high for glowing elements
+    contrast: extreme - bright neons on black
+  lineArt:
+    style: technical wireframe with glow
+    weight: thin precise lines
+    color: glowing cyan and white
+    texture: smooth vector lines
+    edgeTreatment: sharp with neon glow halos
+  lighting:
+    type: self-illuminated x-ray effect
+    direction: internal glow from within
+    intensity: bright core with falloff
+    shadows:
+      style: none - pure black background
+      color: black
+      opacity: absolute
+    highlights: intense neon glows at joints and organs
+  rendering:
+    technique: layered transparency with technical overlay
+    texture: smooth gradients with scan lines
+    detailLevel: extremely detailed anatomical accuracy
+    finish: glossy digital with light bloom
+  perspective: orthographic or slight perspective for depth
+  mood:
+    overall: technical, medical, futuristic, analytical
+    emotion: clinical precision with sci-fi wonder
+    tempo: static analytical display
+    keywords:
+    - technical
+    - medical
+    - futuristic
+    - analytical
+    - precise
+  stylePrecedents:
+  - Medical imaging software
+  - Iron Man HUD displays
+  - Cyberpunk 2077 scanning interface

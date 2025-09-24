@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: June 1, 2011, 9:30 AM
+    location: Open area adjacent to university buildings, Krakow, Poland
+    weather: Clear sunny morning with good visibility
+  characters:
+  - appearance: Caucasian man, 50s, professional demeanor, observant eyes, glasses
+    clothing: Formal business suit, official Guinness World Records badge, measuring equipment
+    position: Standing beside measurement station with official documentation
+    action: Standing with measuring tools and official documentation, observing carefully
+  - appearance: Caucasian man, 40s, authoritative presence, confident expression, short brown hair
+    clothing: Professional dark suit with university badge, formal dress shirt, tie
+    position: Coordinating with Guinness official near preparation tables
+    action: Standing with clipboard, coordinating with authority and precision
+  scene:
+    mainElements: Gathering space with clear view of the bus, official registration tables, crowd control barriers
+    details: Professional measuring equipment for verifying bus dimensions, participant counting devices, official timing
+      equipment, clipboard with official Guinness World Records documentation, participant count sheets, verification forms,
+      official setup with precise organization for world record verification
+    background: University buildings and campus environment providing academic setting for the record attempt
+    atmosphere: Organized anticipation with officials, students, and observers preparing for record attempt, no text or letters
+      visible
+  composition:
+    cameraAngle: Medium shot focusing on official verification setup
+    focus: Guinness World Records official with measurement equipment and documentation
+    depth: Foreground shows official measurement tools, middle ground displays verification station, background reveals university
+      campus setting
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

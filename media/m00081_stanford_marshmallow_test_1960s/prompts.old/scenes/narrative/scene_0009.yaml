@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Behind the Mirror - Recording Historic Data"
+  setting:
+    time: "1968, afternoon, controlled lighting"
+    location: "Adjacent observation room with one-way mirror at Stanford University"
+    weather: "Indoor controlled environment"
+  characters:
+    - appearance: "Caucasian man, 30s, medium build, neat appearance, academic colleague"
+      clothing: "1960s professional wear: dark suit jacket, white shirt, thin tie, dress pants"
+      position: "Sitting at observation desk facing one-way mirror"
+      action: "Recording detailed observations on clipboard, timing child's behavior, documenting strategies used for self-control"
+  scene:
+    mainElements: "Research colleague in observation room documenting groundbreaking experiment, one-way mirror showing testing room, recording equipment visible"
+    details: "Brown wooden clipboard with data sheets, mechanical stopwatch for precise timing, pen in hand recording behavior, one-way mirror providing clear view of experiment, professional recording setup"
+    background: "Observation room with chairs, recording equipment, notebooks, academic research environment hidden from child subjects"
+    atmosphere: "Scientific documentation of revolutionary psychology experiment, careful data collection that will influence child development understanding for generations, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from behind researcher looking toward mirror"
+    focus: "Researcher documenting experiment, one-way mirror showing testing room in background"
+    depth: "Foreground: researcher with clipboard and timing device, middle: observation equipment, background: one-way mirror view into testing room"

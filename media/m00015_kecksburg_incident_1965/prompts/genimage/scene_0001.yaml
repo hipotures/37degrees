@@ -1,93 +1,77 @@
 sceneDescription:
   setting:
-    time: December 9, 1965, 4:43 PM EST, dusk
-    location: Evening sky over Michigan, Ohio, and Pennsylvania, view from Detroit/Windsor area
-    weather: Clear December evening with approaching darkness
+    time: December 9, 1965, 4:43 PM EST, early evening
+    location: Rural Pennsylvania countryside, 30 miles southeast of Pittsburgh
+    weather: Clear winter evening sky, cold December air
   characters:
-  - appearance: Middle-aged Caucasian man, 40s, weathered face, stubble, alert expression
-    clothing: Heavy brown wool coat, plaid flannel shirt, dark work pants, brown leather boots, knit wool cap
-    position: Standing on suburban sidewalk, pointing upward at sky
-    action: Pointing dramatically at fireball, mouth open in amazement, other hand shielding eyes
+  - appearance: Young children, approximately 8-12 years old, typical rural Pennsylvania appearance
+    clothing: Winter clothing appropriate for December evening in Pennsylvania - coats, hats, boots
+    position: Playing in front yard of rural home, looking up at sky
+    action: Pointing excitedly at brilliant fireball streaming overhead with trailing smoke
   scene:
-    mainElements: Brilliant green-orange fireball streaking across darkening December sky, visible vapor trail, suburban street
-      with 1960s houses and utility poles
-    details: Meteor creates bright streak of light against purple-orange sunset sky, glowing trail of smoke and vapor visible
-      behind object, street lights beginning to illuminate, bare winter trees silhouetted against sky, 1960s suburban neighborhood
-      with period cars parked along street, no text or letters visible
-    background: Distant city skyline with early lights appearing, utility poles and power lines, 1960s suburban houses with
-      lit windows
-    atmosphere: Dramatic celestial event breaking the quiet of suburban evening, sense of wonder and alarm from unexpected
-      bright phenomenon
+    mainElements: Brilliant metallic fireball with long trailing smoke plume streaking across darkening sky from northwest
+      to southeast, rural Pennsylvania landscape below with scattered farmhouses and dense forests
+    details: Object appears distinctly metallic and bronze-colored against purple-orange evening sky, smoke trail extends
+      for miles behind the descending craft, farmhouse windows beginning to glow with warm light as dusk approaches, bare
+      winter trees create stark silhouettes against horizon, no text or letters visible
+    background: Rolling hills covered in dense hardwood forests, scattered rural homes with smoking chimneys, distant mountains
+      on horizon, power lines and country roads visible in valley below
+    atmosphere: Peaceful rural evening suddenly interrupted by extraordinary sight, sense of awe and mystery as object defies
+      normal meteor behavior, cold winter air carrying sounds of excited voices from multiple locations
   composition:
-    cameraAngle: Low angle looking up at sky from street level
-    focus: Brilliant fireball and vapor trail dominating the darkening sky
-    depth: Witness in foreground pointing upward, suburban street in middle ground, vast evening sky with fireball in background
+    cameraAngle: Wide establishing shot from ground level looking up at sky
+    focus: Brilliant fireball dominating upper portion of frame with trailing smoke plume
+    depth: Children in foreground pointing upward, farmhouse in middle ground, vast sky with fireball in background creating
+      dramatic diagonal composition
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

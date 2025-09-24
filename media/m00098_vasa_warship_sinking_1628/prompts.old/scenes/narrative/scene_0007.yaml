@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Water Through Gun Ports - Catastrophic Flooding"
+  setting:
+    time: "August 10, 1628, mid-morning"
+    location: "Vasa warship gun deck during flooding"
+    weather: "Light wind continuing to push ship over"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Harbor water rushing through open gun ports as ship tilts beyond recovery point"
+    details: "Water cascading through open cannon ports only 1.2 meters above waterline, 64 bronze cannons sliding across tilting deck as ship heels, flooding gun decks rapidly, massive artillery pieces breaking loose and causing additional chaos, wooden gun deck awash with incoming harbor water, elaborate ship interior being destroyed by flooding"
+    background: "Stockholm harbor waters rising around ship, gun port openings now below water level, ship's ornate superstructure still visible above water"
+    atmosphere: "Catastrophic flooding overwhelming ship's compartments, engineering disaster in full progress, point of no return reached, royal warship becoming maritime tragedy, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle shot from gun deck showing flooding catastrophe"
+    focus: "Unstoppable flooding through design flaw of low gun ports"
+    depth: "Flooding gun deck in foreground, tilting ship structure in middle ground, harbor waters in background"

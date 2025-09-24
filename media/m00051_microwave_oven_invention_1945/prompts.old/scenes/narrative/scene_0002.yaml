@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Scientist discovers melted chocolate bar in pocket"
+  setting:
+    time: "1945, late afternoon"
+    location: "Specialized testing section within Raytheon laboratory"
+    weather: "Overcast day, fluorescent lighting indoors"
+  characters:
+    - appearance: "Caucasian man, 50s, lean build, receding brown hair, intelligent dark eyes behind wire-rimmed glasses"
+      clothing: "White lab coat over dark suit jacket, white dress shirt, narrow dark tie, dress shoes"
+      position: "Standing next to active magnetron equipment, looking down with surprise"
+      action: "Reaching into lab coat pocket, expression of puzzlement and curiosity as he feels unexpected wetness"
+  scene:
+    mainElements: "Active magnetron mounted on stand emitting invisible microwaves, metal waveguides directing energy, measurement equipment displaying readings, metal table surfaces reflecting laboratory lighting"
+    details: "Cylindrical metal magnetron tube with copper segments and antenna connections, electrical cables connecting to power sources. Warning signs about radiation hazards mounted nearby. Scientist's pocket shows slight staining where chocolate has melted through fabric. Industrial concrete flooring with scattered equipment cables."
+    background: "Additional electronic testing equipment, oscilloscopes, filing cabinets, industrial windows with venetian blinds filtering daylight"
+    atmosphere: "Moment of unexpected discovery in serious scientific environment, subtle electromagnetic energy presence, tension between routine work and surprising anomaly, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot from slight side angle"
+    focus: "Scientist's surprised expression and hand reaching into stained pocket"
+    depth: "Foreground shows scientist's upper body and pocket area, middle ground features magnetron equipment, background shows broader laboratory setting"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Steps into Mechanical Innovation Workshop"
+  setting:
+    time: "1898, late afternoon, early autumn"
+    location: "Private workshop laboratory, early 20th century, filled with mechanical equipment and tools"
+    weather: "Clear autumn day with golden light"
+  characters:
+    - appearance: "Polish man, 22 years old, slender build, intense dark eyes, intelligent expression, showing adult maturity and curiosity"
+      clothing: "Casual early 20th century attire - white shirt with rolled sleeves, dark vest, no jacket, work apron over clothes"
+      position: "Standing at workbench examining mechanical components and tools"
+      action: "Carefully studying a clockwork mechanism with magnifying glass, taking apart small mechanical devices to understand their function"
+  scene:
+    mainElements: "Workbenches with various mechanical parts, blueprints pinned to walls, prototype devices, early automotive components, precision tools arranged systematically"
+    details: "Brass gears and springs scattered across workbench, oil lamps providing focused light, mechanical drawings pinned to wooden walls, early electrical components, clock mechanisms in various states of disassembly, traditional wooden toolbox with metal implements, no text or letters visible"
+    background: "Workshop walls lined with shelves containing mechanical parts, early industrial equipment, large windows providing natural light for detailed work"
+    atmosphere: "Creative curiosity and systematic exploration, the exciting discovery of mechanical principles, bridging musical precision with engineering innovation"
+  composition:
+    cameraAngle: "Medium close-up from side angle, emphasizing hands-on exploration"
+    focus: "Character JH examining intricate mechanical components, showing transition from musical to mechanical precision"
+    depth: "Foreground: detailed mechanical work and precise hand movements, middle ground: workshop tools and equipment, background: shelves of mechanical components and natural lighting, no text or letters visible"

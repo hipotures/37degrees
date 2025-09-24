@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Parliamentary Navy Intervention - Admiral Blake Arrives"
+  setting:
+    time: "June 1651, morning"
+    location: "Waters around Isles of Scilly during Parliamentary assault"
+    weather: "Clear summer morning with calm seas"
+  characters:
+    - appearance: "English man, 52, stern parliamentary commander, graying hair, determined expression"
+      clothing: "Parliamentarian naval uniform, simple but authoritative, no royal ornaments"
+      position: "Standing on Parliamentary warship bridge"
+      action: "Military precision, directing naval operations against Royalist stronghold"
+  scene:
+    mainElements: "Large Parliamentary fleet overwhelming Royalist positions, systematic naval bombardment"
+    details: "Parliamentary warships in overwhelming numbers surrounding Scilly, cannons firing at Royalist positions, smoke from naval bombardment, Royalist ships attempting to flee harbor, Parliamentary flags flying from multiple vessels, coordinated naval assault"
+    background: "Isles of Scilly under siege, fortifications being bombarded, Dutch fleet withdrawing from area as threat eliminated"
+    atmosphere: "Parliamentary navy ending Royalist resistance, Dutch intervention no longer needed, Civil War naval victory, systematic military operation, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing Parliamentary naval superiority"
+    focus: "Parliamentary fleet ending Royalist resistance and Dutch concerns"
+    depth: "Parliamentary warships in foreground, battle around Scilly in middle ground, withdrawing Dutch fleet in background"

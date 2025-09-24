@@ -1,0 +1,63 @@
+styleName: Layered Paper Art Style
+description: Digital paper cut illustration with multiple depth layers creating 3D diorama effect, featuring nature scenes and storytelling compositions
+aiPrompts:
+  basePrompt: layered paper cut art, 3D paper diorama, multi-layer paper illustration, depth layers, paper cut landscape, dimensional paper art
+  negativePrompt: flat design, photorealistic, painted texture, single layer, line art, sketch
+  styleKeywords:
+  - layered paper
+  - 3D diorama
+  - paper cut depth
+  - multi-layer
+  - dimensional illustration
+  - paper theater
+visualElements:
+  colorPalette:
+    primary:
+    - forest greens
+    - sage greens
+    - soft blues
+    - warm earth tones
+    secondary:
+    - coral orange accents
+    - cream whites
+    - dusty blues
+    - mint greens
+    background: gradient sky from light to deeper tones
+    usageNotes: Gradual color shifts from front to back layers for depth
+    saturation: medium to muted
+    contrast: soft with depth-based darkening
+  lineArt:
+    style: clean cut paper edges
+    weight: defined by paper thickness
+    color: slightly darker than paper color
+    texture: smooth paper surface
+    edgeTreatment: crisp cut edges with subtle shadows
+  lighting:
+    type: soft ambient with depth shadows
+    direction: top-front theatrical lighting
+    intensity: gentle with layer separation
+    shadows:
+      style: shadows between paper layers
+      color: darker version of paper colors
+      opacity: gradual deepening with depth
+    highlights: subtle on foreground elements
+  rendering:
+    technique: digital paper layer simulation
+    texture: smooth matte paper surface
+    detailLevel: simplified geometric forms
+    finish: clean paper-like with depth shadows
+  perspective: theatrical depth with parallax layers
+  mood:
+    overall: whimsical, peaceful, storybook quality
+    emotion: wonder, tranquility, narrative charm
+    tempo: still and contemplative
+    keywords:
+    - whimsical
+    - peaceful
+    - narrative
+    - dimensional
+    - theatrical
+  stylePrecedents:
+  - Paper theater (Kamishibai)
+  - Digital paper cut illustrations
+  - Children's pop-up books

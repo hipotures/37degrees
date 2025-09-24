@@ -1,30 +1,35 @@
 sceneDescription:
   setting:
-    time: November 14, 2004, approximately 12:00 PM
-    location: USS Nimitz (CVN-68) flight deck, Pacific Ocean southwest of San Diego, California, 100 miles offshore
-    weather: Clear, sunny day with calm seas and light whitecaps, excellent visibility
+    time: November 14, 2004, approximately noon
+    location: Two-seat tandem cockpit of Boeing F/A-18F Super Hornet tactical aircraft
+    weather: Clear sunny conditions, preparing for flight
   characters:
-  - appearance: Naval aviation personnel, various ages and builds, working efficiently
-    clothing: Color-coded deck crew shirts - yellow, green, purple, red shirts indicating specific roles, headsets and safety
-      equipment
-    position: Positioned around aircraft on flight deck conducting launch operations
-    action: Coordinating aircraft launch sequence with precise hand signals and safety procedures
+  - appearance: Caucasian man, 40s, medium build, focused expression, confident military bearing
+    clothing: CWU-27/P sage green flight suit, SV-2 survival vest with emergency equipment, squadron patches and name tags,
+      G-suit for high-performance maneuvering
+    position: Alert military stance, hands positioned for flight controls or gesturing to explain aerial maneuvers
+    action: Conducting pre-flight checks, reviewing mission parameters, preparing for investigative flight
+  - appearance: Female pilot, 30s, professional demeanor, sharp attention to detail
+    clothing: CWU-27/P sage green flight suit, SV-2 survival vest, squadron patches, HGU-68/P helmet with MBU-20/P oxygen
+      mask when in cockpit
+    position: Professional military bearing, focused on instruments or scanning horizon
+    action: Coordinating with lead pilot, checking instruments, preparing for unusual intercept mission
   scene:
-    mainElements: 4.5 acres of grey non-skid surface with yellow and white operational markings, four catapults, four arresting
-      wires, island superstructure housing bridge and flight control
-    details: Boeing F/A-18F Super Hornet in tactical grey paint scheme, VFA-41 Black Aces squadron markings, Bureau Number
-      on fuselage, AIM-9X Sidewinder training missiles, twin-engine multirole fighter aircraft positioned on catapult. Steam
-      rising from catapult tracks. Aircraft engines at full power with heat shimmer visible. Multiple deck crew coordinating
-      launch with precise choreographed movements.
-    background: Vast Pacific Ocean extends to horizon with no land references visible, bright sunlight creating glare off
-      water surface, additional naval vessels barely visible in distance
-    atmosphere: Busy naval aviation operations, bright daylight over open ocean, no land references visible. High energy of
-      carrier flight operations with focused professional activity and sense of urgent mission tasking
+    mainElements: Two-seat tandem cockpit of Boeing F/A-18F Super Hornet fighter aircraft in tactical grey paint scheme, multi-function
+      color displays, head-up display with targeting information, VFA-41 Black Aces squadron markings
+    details: High-tech military aviation cockpit environment with glowing instrument panels, cramped space filled with switches
+      and controls, pilots in full flight gear making final preparations, AIM-9X Sidewinder training missiles visible on external
+      mounts, Bureau Number markings on aircraft fuselage, communication equipment and oxygen systems, canopy glass reflecting
+      bright sunlight, no text or letters visible
+    background: USS Nimitz flight deck visible through canopy, other aircraft and deck crew preparing for operations, ocean
+      and sky beyond
+    atmosphere: Professional military precision with underlying anticipation, routine preparation for an unusual mission,
+      tactical communication between pilots, sense of readiness for unknown encounter
   composition:
-    cameraAngle: Low angle shot from deck level showing aircraft on catapult with crew
-    focus: F/A-18F Super Hornet moments before catapult launch with deck crew in coordinated positions
-    depth: 'Foreground: deck crew in colorful shirts, middle ground: aircraft on catapult, background: open Pacific Ocean
-      and sky, no text or letters visible'
+    cameraAngle: Close-up interior cockpit view from behind pilots
+    focus: Pilots conducting final checks and instrument displays
+    depth: Foreground shows detailed cockpit instrumentation, middle ground captures pilot interactions, background visible
+      through canopy shows carrier operations
 visualElements:
   colorPalette:
     primary:

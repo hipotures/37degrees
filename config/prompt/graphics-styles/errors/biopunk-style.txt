@@ -1,0 +1,67 @@
+BIOPUNK STYLE FILE ANALYSIS REPORT
+=====================================
+
+File: /home/xai/DEV/37degrees/config/prompt/graphics-styles/biopunk-style.yaml
+
+ISSUES FOUND:
+
+1. INCORRECT STYLE NAME
+   - Current: "Biopunk Style"
+   - Expected: Should be "Biopunk Style" (this is actually correct)
+
+2. INSUFFICIENT AI PROMPTS
+   - basePrompt is too brief and lacks key biopunk elements
+   - Current: "biopunk aesthetic, genetic engineering, biotechnology, organic machinery, DNA helix, biohacking"
+   - Missing: body horror, visceral imagery, underground labs, illegal modifications, bio-hackers
+   - Should include terms like: bio-modification, synthetic life, genetic manipulation, body horror
+
+3. INCOMPLETE NEGATIVE PROMPTS
+   - Current negative prompts are adequate but could be more specific
+   - Missing: mechanical cybernetics, digital interfaces, pure technology
+
+4. MISSING STYLE KEYWORDS
+   - Missing important biopunk terms:
+     - body horror
+     - bio-modification
+     - synthetic life
+     - underground lab
+     - biohacking
+     - genetic manipulation
+
+5. COLOR PALETTE INCONSISTENCIES
+   - Research shows biopunk should emphasize:
+     - Laboratory sterile whites mixed with organic corruption
+     - Bio-luminescent greens and blues
+     - Current palette is good but missing clinical whites
+
+6. LIGHTING DESCRIPTION ACCURACY
+   - "bioluminescent and harsh lab lighting" is correct
+   - Good representation of the dual nature (organic glow + clinical harshness)
+
+7. MOOD KEYWORDS MISSING ELEMENTS
+   - Missing: "clinical", "corrupted", "experimental"
+   - Good: unsettling, scientific, transgressive are accurate
+
+8. STYLE PRECEDENTS EVALUATION
+   - GATTACA visuals: EXCELLENT choice - perfectly represents clean genetic engineering
+   - Cronenberg body horror: EXCELLENT - core biopunk aesthetic
+   - BioShock game aesthetics: GOOD but more general sci-fi than pure biopunk
+   - Missing: eXistenZ (major biopunk film), Splice, Resident Evil bio-lab sections
+
+9. DESCRIPTION ACCURACY
+   - Current description is accurate but brief
+   - Could expand to mention: underground bio-modification, corporate genetic control, DIY biology
+
+10. RENDERING TECHNIQUE
+    - "detailed digital painting" is appropriate
+    - Texture descriptions are good: "wet, organic, pulsing surfaces"
+    - Good balance of organic and technological elements
+
+RECOMMENDATIONS:
+- Expand basePrompt to include body horror and underground lab elements
+- Add missing style keywords (body horror, bio-modification, synthetic life)
+- Add clinical white to color palette
+- Expand style precedents to include eXistenZ and Splice
+- Consider adding "black clinic" terminology (underground illegal bio-modification labs)
+
+SEVERITY: MODERATE - File is functional but missing key biopunk elements that would improve AI generation accuracy.

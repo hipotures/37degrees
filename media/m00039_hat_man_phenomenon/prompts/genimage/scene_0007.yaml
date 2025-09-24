@@ -1,106 +1,79 @@
 sceneDescription:
   setting:
-    time: 1950s, 2:20 AM
-    location: Traditional 1950s suburban bedroom, modest post-war home
-    weather: Quiet suburban night with minimal street lighting
+    time: 2012, 3:15 AM
+    location: Contemporary suburban bedroom with modern furnishings and technology
+    weather: Quiet night with no external weather disturbance
   characters:
-  - appearance: Adult in 30s-40s, tense facial expression with eyes wide with fear or confusion
-    clothing: 1950s style nightgown or pajamas, period-appropriate sleepwear
-    position: In bed or sitting on edge of bed, body rigid with paralysis
-    action: Experiencing sleep paralysis, attempting to move but unable, eyes fixed on shadow figure
-  - appearance: Tall dark silhouette, 8-10 feet in height, completely featureless black form with no visible face or limbs
-    clothing: Wide-brimmed fedora hat and long dark coat or trench coat, both appearing as solid black shadow
-    position: Standing upright, often positioned in doorways, corners, or beside beds
-    action: Motionless watching presence, occasionally seen moving with fluid gliding motion
+  - appearance: Adult in late 20s, exhausted appearance from chronic insomnia, fearful expression, lying rigidly in bed
+    clothing: Modern sleepwear, t-shirt and sleep pants, appropriate for contemporary bedroom setting
+    position: Lying paralyzed in bed, unable to move but eyes wide open in terror
+    action: Experiencing sleep paralysis episode, staring in absolute horror at foot of bed where dark presence appears
   scene:
-    mainElements: 1950s style bedroom with iron bed frame, simple wooden furniture, basic bedside table, vintage lamp
-    details: Period-appropriate bedroom furnishings including floral wallpaper, simple wooden dresser, ceramic water pitcher.
-      Small wind-up alarm clock on bedside table. Standard interior doorway leading to hallway, partially open or fully open,
-      creating rectangular frame of darkness where Hat Man typically appears.
-    background: 1950s suburban home interior with basic post-war furnishings, window showing dark neighborhood with minimal
-      street lighting
-    atmosphere: Historical context showing phenomenon predates modern era, same terrifying experience across decades. Modest
-      post-war home setting with simple domestic comforts violated by shadow presence
+    mainElements: Modern bedroom with contemporary furniture, queen-size bed with modern bedding, nightstand with digital
+      clock, smartphone charging nearby, typical 2010s domestic environment
+    details: Digital clock showing 3:15 AM in bright LED numbers, smartphone plugged into charger with dim screen glow, modern
+      lamp with fabric shade, framed photographs on dresser, contemporary artwork on walls. Room has carpeted flooring, modern
+      window treatments, and typical suburban bedroom amenities. The foot of the bed area appears unnaturally dark despite
+      ambient lighting
+    background: Modern suburban home interior, hallway leading to other rooms, window showing quiet neighborhood night scene,
+      typical middle-class domestic environment
+    atmosphere: Terrifying violation of modern safety and security, ancient fear manifesting in contemporary setting, oppressive
+      presence that defies rational explanation, complete terror in familiar domestic space where such things shouldn't exist,
+      psychological horror meeting technological age, no text or letters visible
   composition:
-    cameraAngle: Medium shot from beside vintage dresser
-    focus: Hat Man figure in doorway of 1950s bedroom with period-dressed witness
-    depth: 'Foreground: vintage bedroom furniture, middle: paralyzed witness in period sleepwear, background: Hat Man silhouette
-      in doorway of historical home setting, no text or letters visible'
+    cameraAngle: Low angle shot from foot of bed looking toward terrified person, emphasizing vulnerability
+    focus: Paralyzed person's terrified face and wide eyes, with ominous dark area at foot of bed suggesting malevolent presence
+    depth: Foreground shows modern bedroom floor and bed frame, middle ground focuses on frightened person, background reveals
+      contemporary domestic setting with technological elements
 visualElements:
   colorPalette:
     primary:
-    - deep black
-    - pearl white
-    - charcoal gray
-    - silver gray
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - shadow black
-    - highlight white
-    background: dim interior gray with deep shadows
-    usageNotes: True monochrome only, no color information whatsoever
-    saturation: none (pure grayscale)
-    contrast: high (strong blacks and whites with limited midtones)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: photographic realism, no drawn outlines
-    weight: none (photographic approach)
-    color: none
-    texture: film grain micro-contrast creates edge definition
-    edgeTreatment: natural photographic edges
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: low-key tungsten practical or Fresnel spot
-    direction: single source from above or 30-60 degrees off axis
-    intensity: high contrast with key to fill ratio approximately 8:1
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: hard-edged dramatic shadows
-      color: deep black
-      opacity: 90-95%
-      offset: sharp and directional based on single light source
-    highlights: narrow rim light +0.5 to +1 EV for edge separation
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: photographic black and white film aesthetic
-    texture: visible film grain, worn surfaces, fabric textures
-    detailLevel: high in lit areas, obscured in shadows
-    finish: matte film print quality
-    printEffects: selenium toning for slight warm-cool split
-  perspective:
-    type: rectilinear standard lens perspective
-    vanishingPoints: natural perspective, no distortion
-    distortion: minimal, true to lens focal length
-    depth: shallow depth of field at f/2.8-4
-  composition:
-    layout: tight interior framing with little headroom
-    hierarchy: light draws attention to key elements
-    gridSystem: rule of thirds composition
-    whitespace: filled with dark shadows and negative space
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: dramatic, mysterious, tense
-    emotion: paranoia, desire, danger
-    tempo: static but charged with tension
-    energy: suppressed, coiled
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - noir atmosphere
-    - urban decay
-    - moral ambiguity
-    - femme fatale
-    - hard-boiled
-    - venetian blind shadows
-  symbolism:
-    common:
-    - venetian blind light patterns
-    - cigarette smoke
-    - rain on windows
-    - mirror reflections
-    figures:
-    - detective in fedora
-    - woman in evening dress
-    - shadowy figure in doorway
-    abstract:
-    - light versus dark moral conflicts
-    - urban isolation
-    architectural:
-    - narrow corridors
-    - dimly lit offices
-    - seedy hotel rooms
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

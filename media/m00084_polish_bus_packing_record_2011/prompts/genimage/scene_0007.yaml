@@ -1,36 +1,32 @@
 sceneDescription:
   setting:
-    time: June 1, 2011, 11:15 AM
-    location: Open area adjacent to university buildings, Krakow, Poland
-    weather: Bright sunny day with excellent visibility for documentation
+    time: June 1, 2011, 12:15 PM midday
+    location: Bus entrance and interior during final moments of packing process
+    weather: Clear spring conditions outside, significantly warmer inside due to concentrated body heat
   characters:
-  - appearance: Caucasian man, 50s, professional demeanor, observant eyes, glasses
-    clothing: Formal business suit, official Guinness World Records badge, measuring equipment
-    position: Standing outside bus with official counting and verification equipment
-    action: Standing with measuring tools and official documentation, observing carefully
-  - appearance: Caucasian man, 40s, authoritative presence, confident expression, short brown hair
-    clothing: Professional dark suit with university badge, formal dress shirt, tie
-    position: Coordinating with officials while monitoring the packed bus
-    action: Standing with clipboard, coordinating with authority and precision
-  - appearance: Caucasian man, 40s, experienced look, calm expression, sturdy build
-    clothing: Official bus driver uniform - dark blue jacket, cap, professional appearance
-    position: Seated at driver controls inside packed bus
-    action: Seated at driver controls, maintaining professional composure
+  - appearance: Young adults aged 18-25, mix of male and female students, various builds optimized for space efficiency
+    clothing: Casual student attire - jeans, t-shirts, sneakers, many wearing university merchandise or faculty colors
+    position: Final groups being carefully positioned inside completely packed bus
+    action: Making final spatial adjustments to accommodate exactly 229 participants
+  - appearance: Mix of faculty members and senior students, ages 25-45, wearing casual academic attire
+    clothing: University branded polo shirts, khaki pants, some wearing Krakow University of Technology faculty identification
+    position: Outside bus managing final count verification
+    action: Using manual counting system and clickers to verify exactly 229 participants
   scene:
-    mainElements: Bus at maximum capacity with 229 participants inside, official verification process taking place outside
-    details: Clipboard with official Guinness World Records documentation, participant count sheets, verification forms being
-      completed, professional measuring equipment for verifying bus dimensions, participant counting devices showing final
-      count of 229, official timing equipment preparing for the 75-meter journey, thorough documentation process ensuring
-      all record requirements are met
-    background: University campus buildings, prepared verification area, standard single-decker public transport bus visible
-      with maximum human capacity
-    atmosphere: Official verification atmosphere with intense focus on proper documentation and record validation, anticipation
-      for the final journey phase, no text or letters visible
+    mainElements: Bus at absolute maximum capacity with 229 students inside, faculty conducting final count verification,
+      record-breaking density achieved
+    details: Every available inch of bus space utilized, students demonstrating remarkable cooperation and spatial efficiency,
+      manual counting system confirming exactly 229 participants inside, professional-grade measurement tools documenting
+      achievement, unprecedented human spatial optimization successfully completed, safety protocols maintained despite extreme
+      conditions, no text or letters visible
+    background: Campus observers and documentation equipment positioned around completely packed bus
+    atmosphere: Triumphant achievement of engineering precision meeting human cooperation, record-breaking density creating
+      historic moment, anticipation for the journey phase
   composition:
-    cameraAngle: External view showing officials documenting the packed bus
-    focus: Guinness World Records official completing verification process
-    depth: Foreground shows official documentation process, middle ground displays the record bus at capacity, background
-      reveals university campus setting
+    cameraAngle: Close shot showing final packing achievement
+    focus: Final students being accommodated and count verification process
+    depth: Foreground shows final packing details, middle ground reveals completely filled bus, background displays verification
+      officials and observers
 visualElements:
   colorPalette:
     primary:

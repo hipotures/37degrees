@@ -4,80 +4,97 @@ canon:
       name: "Character WM"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 40s, slender build, dark hair, thoughtful eyes, intellectual appearance"
-            clothing: "1960s academic attire: brown tweed jacket with elbow patches, white dress shirt, dark tie, dress pants"
-            posture: "Observant, often with clipboard or notepad, professional yet warm demeanor"
-    - id: "character_RE"
-      name: "Character RE"
+          - appearance: "Austrian-born man in his late 30s-early 40s, medium height, dark hair, scholarly demeanor with kind eyes behind glasses"
+            clothing: "1960s academic attire - tweed jacket, button-down shirt, tie, often carrying research notes and clipboard"
+            position: "Standing or seated at observation station, taking notes"
+            action: "Observing children, writing detailed behavioral notes, adjusting research protocols"
+    - id: "character_EE"
+      name: "Character EE"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 30s, medium build, neat appearance, academic colleague"
-            clothing: "1960s professional wear: dark suit jacket, white shirt, thin tie, dress pants"
-            posture: "Collaborative, often taking notes or operating recording equipment"
-    - id: "child_subject_A"
-      name: "Child Subject A"
+          - appearance: "Young graduate student in mid-20s, tall, blonde, Scandinavian features, earnest expression"
+            clothing: "Late 1960s graduate student style - casual button-down shirts, slacks, sometimes lab coat during observations"
+            position: "Working with children or at research equipment"
+            action: "Building rapport with children, conducting pre-test play sessions, monitoring experiments"
+    - id: "character_AZ"
+      name: "Character AZ"
       description_block: |
         characters:
-          - appearance: "4-year-old child, mixed ethnicity, curious expression, small build typical of preschooler"
-            clothing: "1960s children's clothing: simple dress or shirt and shorts, small shoes"
-            posture: "Sitting in child-sized chair, fidgeting, looking between marshmallow and door"
-    - id: "child_subject_B"
-      name: "Child Subject B"
+          - appearance: "Young woman in mid-20s, dark hair, professional appearance, warm smile when interacting with children"
+            clothing: "Early 1970s professional attire - blouses, skirts, low heels suitable for working with children"
+            position: "Seated or crouching at child level during interactions"
+            action: "Making children comfortable, conducting 1972 marshmallow experiments, co-authoring research"
+    - id: "test_child_patient"
+      name: "Patient Child"
       description_block: |
         characters:
-          - appearance: "5-year-old child, Caucasian, determined expression, slightly taller than typical 4-year-old"
-            clothing: "1960s children's attire: collared shirt and pants or simple dress, neat appearance"
-            posture: "Sitting upright, hands folded, trying to avoid looking at treat"
-    - id: "child_subject_C"
-      name: "Child Subject C"
+          - appearance: "4-year-old child, various ethnicities, focused expression, small hands folded or covering eyes"
+            clothing: "Late 1960s children's clothing - simple dresses for girls, short pants and button shirts for boys"
+            position: "Seated at small table in testing room"
+            action: "Exhibiting self-soothing behaviors - singing, looking away, covering eyes, fidgeting but remaining seated"
+    - id: "test_child_immediate"
+      name: "Immediate Child"
       description_block: |
         characters:
-          - appearance: "4-year-old child, African American, expressive eyes, typical preschool build"
-            clothing: "1960s children's wear: colorful shirt or dress, comfortable play clothes"
-            posture: "Active in chair, covering eyes with hands or turning away from temptation"
+          - appearance: "3-5 years old child, various ethnicities, expressive face showing desire and decision-making process"
+            clothing: "Similar period children's attire, sometimes with treat crumbs or sticky fingers"
+            position: "Seated at testing table, often leaning toward treat"
+            action: "Showing impulsive behavior, reaching for treat, displaying natural childhood response patterns"
+    - id: "character_TW"
+      name: "Character TW"
+      description_block: |
+        characters:
+          - appearance: "Contemporary researcher in 30s-40s, professional academic appearance"
+            clothing: "Modern academic attire - business casual, often presenting research findings"
+            position: "Standing at research presentation or seated at modern computer"
+            action: "Analyzing replication data, challenging established interpretations, presenting statistical findings"
   locations:
-    - id: "stanford_testing_room"
-      name: "Stanford Testing Room"
+    - id: "bing_nursery_school"
+      name: "Bing Nursery School"
       description_block: |
         setting:
-          location: "Small, sparse testing room at Stanford University's Bing Nursery School"
-        mainElements: "Simple wooden table, two chairs (one adult-sized, one child-sized), plain walls, minimal decoration"
-        atmosphere: "Clinical yet comfortable, designed to minimize distractions while being child-friendly"
-    - id: "observation_room"
+          location: "Purpose-built research facility opened 1966, single-story modern building with child-centered architecture, Stanford University campus"
+        mainElements: "Multiple classrooms, specialized observation rooms with one-way mirrors, low child-sized furniture, carefully controlled environments designed by kneeling architects"
+        atmosphere: "Bright, clean, educational environment with natural light, sounds of children playing, both nurturing and scientifically functional"
+    - id: "experiment_room"
+      name: "Testing Room"
+      description_block: |
+        setting:
+          location: "Small windowless room approximately 10x10 feet inside Bing Nursery School, deliberately empty of distractions"
+        mainElements: "One low table, two child-sized chairs, one-way observation mirror, bell for child to ring, single marshmallow on plate"
+        atmosphere: "Quiet, controlled environment, soft lighting, clinical but not intimidating, designed to minimize external influences"
+    - id: "observation_booth"
       name: "Observation Room"
       description_block: |
         setting:
-          location: "Adjacent observation room with one-way mirror at Stanford University"
-        mainElements: "Recording equipment, chairs for researchers, notebooks, one-way mirror viewing into testing room"
-        atmosphere: "Professional academic environment, quiet, focused on data collection"
-    - id: "nursery_school_hallway"
-      name: "Nursery School Hallway"
+          location: "Dark room behind one-way mirror adjacent to testing room, Stanford research facility"
+        mainElements: "Chairs for observers, note-taking equipment, timer, video recording equipment, clear view of entire testing room"
+        atmosphere: "Silent, focused environment for scientific observation, researchers whispering notes, tension during waiting periods"
+    - id: "stanford_campus_1970s"
+      name: "Stanford Campus 1970s"
       description_block: |
         setting:
-          location: "Corridor at Stanford's Bing Nursery School, 1960s institutional design"
-        mainElements: "Long hallway with classroom doors, children's artwork on walls, wooden floors"
-        atmosphere: "Typical educational environment of the era, welcoming yet institutional"
-    - id: "stanford_campus_exterior"
-      name: "Stanford Campus Exterior"
-      description_block: |
-        setting:
-          location: "Stanford University campus grounds, California, late 1960s"
-        mainElements: "Spanish mission-style architecture, palm trees, wide walkways, academic buildings"
-        atmosphere: "Prestigious academic setting, California sunshine, intellectual environment"
+          location: "Stanford University campus with Spanish Colonial Revival architecture, palm trees, sandstone buildings, California"
+        mainElements: "Psychology Department buildings, student walkways, bicycle paths, Memorial Court, Hoover Tower visible in distance"
+        atmosphere: "Academic energy of late 1960s/early 1970s, revolutionary changes in psychology, California sunshine, campus life"
   items:
-    - id: "marshmallow_treat"
-      name: "Marshmallow Treat"
+    - id: "the_marshmallow"
+      name: "Test Marshmallow"
       description_block: |
-        details: "Single white marshmallow on small plate, central to the experiment, positioned within child's reach"
-    - id: "bell_device"
-      name: "Bell Device"
+        details: "Standard white marshmallow, approximately 1 inch diameter, soft and puffy texture, placed on small white ceramic plate, representing immediate gratification choice"
+    - id: "the_bell"
+      name: "Signal Bell"
       description_block: |
-        details: "Small hand bell that children can ring to call researcher back, simple metal construction"
-    - id: "research_clipboard"
-      name: "Research Clipboard"
+        details: "Small hand bell, brass or silver-colored metal, produces clear ringing sound when shaken, children taught to ring if wanting researcher to return"
+    - id: "one_way_mirror"
+      name: "Observation Window"
       description_block: |
-        details: "Brown wooden clipboard with data sheets, pen attached, used for recording observations"
-    - id: "timer_device"
-      name: "Timer Device"
+        details: "Large rectangular mirror approximately 4x6 feet, appears as mirror from child's side, transparent from observer side, standard psychological research equipment"
+    - id: "research_papers_1970"
+      name: "Original Research Papers"
       description_block: |
-        details: "1960s mechanical timer or stopwatch for measuring delay periods, typically 15 minutes maximum"
+        details: "Academic journal papers typed on typewriters, black and white with data tables and statistical analyses, documenting methodology and initial findings"
+    - id: "replication_data_2018"
+      name: "Modern Replication Study"
+      description_block: |
+        details: "Contemporary statistical analysis with 900 children, computer-generated charts and graphs, controlling for socioeconomic variables, challenging original interpretations"

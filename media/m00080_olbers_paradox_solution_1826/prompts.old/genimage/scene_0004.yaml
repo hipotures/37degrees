@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1826, deep night
+    location: Clear night sky view from Bremen, northern Germany, 1826
+    weather: Perfectly clear night with no clouds
+  characters:
+  - appearance: German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom
+    clothing: 1820s dark blue physician's coat over white shirt and black vest
+    position: Standing at telescope eyepiece on observatory balcony or rooftop
+    action: Peering through telescope while contemplating the darkness between stars, occasionally making notes
+  scene:
+    mainElements: Vast dark sky with scattered bright stars, Milky Way visible as faint band, brass telescope pointing upward,
+      observer deep in contemplation
+    details: Brilliant white and yellow stars scattered across black sky, subtle glow of Milky Way stretching overhead, Long
+      brass refracting telescope on wooden tripod mount with adjustable brass fittings pointing toward celestial objects,
+      observer's silhouette against starlight, rooftops of Bremen visible below, gentle night breeze moving clothing
+    background: Infinite dark space punctuated by distant stars, city lights dim below, sense of cosmic vastness stretching
+      beyond human comprehension
+    atmosphere: Profound cosmic mystery emerging from darkness between stars, intellectual curiosity confronting fundamental
+      questions about universe's nature, peaceful night perfect for deep astronomical contemplation, no text or letters visible
+  composition:
+    cameraAngle: Wide shot from behind and slightly to side of observer
+    focus: character_HO contemplating night sky through telescope with vast darkness above
+    depth: Foreground shows telescope and observer, middle ground reveals rooftops and city, background stretches into infinite
+      star-filled darkness
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,103 @@
+sceneDescription:
+  setting:
+    time: July 24, 1851, afternoon
+    location: House of Commons chamber, Palace of Westminster, London, England
+    weather: Bright summer day
+  characters:
+  - appearance: Multiple Caucasian men, 30s-70s, varied builds, mix of relieved and celebratory expressions
+    clothing: Formal dark parliamentary coats, white shirts, varied styles of cravats and waistcoats
+    position: Seated on wooden benches throughout chamber, some standing in celebration
+    action: Voting by raising hands, applauding, shaking hands in celebration of repeal
+  - appearance: Caucasian man, 50s, distinguished bearing, relieved expression
+    clothing: Black formal coat, white powdered wig, ornate vest with watch chain
+    position: Standing at speaker's podium
+    action: Announcing the successful vote for tax repeal with ceremonial gavel raised
+  scene:
+    mainElements: Wooden benches arranged in opposing rows, ornate carved speaker's chair, royal coat of arms, formal voting
+      session
+    details: Bright summer sunlight streaming through tall Gothic windows, formal parliamentary documents scattered on benches,
+      ceremonial voting procedures in progress, wooden gavel at speaker's podium, ornate oil lamps supplementing natural light,
+      heavy wooden paneling with royal insignia, formal parliamentary regalia, celebration atmosphere among members
+    background: Gothic stone architecture with high arched ceiling, royal portraits in gilt frames, ceremonial banners, historic
+      parliamentary chamber
+    atmosphere: Historic moment of legislative change, celebration of policy reversal, formal governmental proceedings, bright
+      natural lighting emphasizing positive outcome, democratic resolution to long-standing social problem, no text or letters
+      visible
+  composition:
+    cameraAngle: Wide shot from gallery perspective capturing full chamber
+    focus: Celebratory parliamentary vote officially ending window taxation
+    depth: Speaker announcing repeal in foreground, celebrating parliamentarians in middle ground, historic Gothic chamber
+      architecture in background
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

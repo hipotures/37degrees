@@ -1,76 +1,100 @@
 canon:
   characters:
-    - id: "character_GS"
-      name: "Character GS"
-      description_block: |
-        characters:
-          - appearance: "Greek soldier, 20s, medium build, olive complexion, dark hair, youthful face with serious expression"
-            clothing: "Greek military uniform with khaki tunic, matching trousers, leather boots, military cap with Greek insignia"
-            posture: "Alert military bearing, often crouched or running, showing urgency and concern"
-    - id: "character_BS"
-      name: "Character BS"
-      description_block: |
-        characters:
-          - appearance: "Bulgarian border guard, 30s, stocky build, weathered face, brown hair, stern military demeanor"
-            clothing: "Bulgarian military uniform with dark green tunic, black leather belt, military boots, peaked cap"
-            posture: "Rigid sentry stance, often holding rifle at ready position, vigilant and defensive"
-    - id: "character_GC"
-      name: "Character GC"
-      description_block: |
-        characters:
-          - appearance: "Greek army captain, 35s, tall commanding presence, mustache, confident military bearing"
-            clothing: "Greek officer uniform with olive drab tunic, gold rank insignia, leather Sam Browne belt, polished boots"
-            posture: "Authoritative leadership stance, often gesturing with white flag or pointing directions"
     - id: "character_TP"
       name: "Character TP"
       description_block: |
         characters:
-          - appearance: "Greek general, 45s, imposing figure, graying temples, stern authoritative expression"
-            clothing: "Formal military dress uniform with multiple medals, gold braiding, peaked cap with eagle insignia"
-            posture: "Commanding presence behind desk or reviewing troops, radiating authority and determination"
+          - appearance: "Caucasian man, 54 years old, stocky build, prominent dark mustache, stern facial features, piercing dark eyes"
+            clothing: "Greek military dress uniform with general's insignia, high collar, medals and decorations, polished leather boots"
+            position: "Behind desk or standing authoritatively in government office"
+            action: "Gesturing commandingly, reviewing documents, or addressing subordinates with aggressive demeanor"
+    - id: "character_GK"
+      name: "Character GK"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 48 years old, tall and lean, clean-shaven, calculating expression, alert eyes"
+            clothing: "Greek army uniform with colonel's rank insignia, field cap, military decorations, leather belt"
+            position: "Standing at attention or plotting at military headquarters"
+            action: "Observing situation methodically, giving orders, or planning counter-operations"
+    - id: "greek_soldier_victim"
+      name: "Greek Border Guard"
+      description_block: |
+        characters:
+          - appearance: "Young Caucasian man, approximately 20-25 years old, average build, concerned expression"
+            clothing: "Greek army field uniform, wool jacket, military cap, leather boots, rifle sling across shoulder"
+            position: "Running or standing at border position"
+            action: "Chasing after escaped dog or patrolling border area"
+    - id: "bulgarian_border_guard"
+      name: "Bulgarian Border Sentry"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, military age, focused expression, alert posture, weathered face"
+            clothing: "Bulgarian army border uniform, peaked cap, rifle in hands, ammunition belt"
+            position: "Standing guard at border post or behind defensive position"
+            action: "Maintaining vigilant watch, responding to border incursion, following military orders"
+    - id: "imro_fighter"
+      name: "IMRO Fighter"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30-40 years old, weathered face, determined expression, local ethnic features, mustache"
+            clothing: "Mix of civilian and military clothing, bandolier across chest, traditional Balkan cap, sturdy boots"
+            position: "Crouched behind defensive position or advancing through town streets"
+            action: "Defending territory, engaging in guerrilla warfare, protecting civilians"
+    - id: "petrich_civilian"
+      name: "Bulgarian Civilian"
+      description_block: |
+        characters:
+          - appearance: "Various ages and genders, Eastern European features, worried expressions, carrying belongings"
+            clothing: "1920s rural Bulgarian clothing, heavy coats, head scarves for women, caps for men"
+            position: "Fleeing town or standing in groups with possessions"
+            action: "Evacuating homes, carrying children and belongings, looking back at burning town"
   locations:
-    - id: "main_location_1"
-      name: "Greek-Bulgarian Border at Demir Kapia"
+    - id: "demir_kapia_pass"
+      name: "Demir Kapia Border Pass"
       description_block: |
         setting:
-          location: "Border crossing point Demir Kapia, 3km west of Radomir on Belasitsa mountain, Greece-Bulgaria border"
-        mainElements: "Rocky mountain pass with border markers, guard posts, barbed wire fencing, no man's land between positions"
-        atmosphere: "Tense frontier atmosphere with military patrols, sounds of wind through mountain pass, sense of territorial vigilance"
-    - id: "main_location_2"
-      name: "Bulgarian Border Guard Post"
+          location: "Mountain pass on Belasitsa ridge, 3km west of Radomir peak, rocky terrain with sparse vegetation"
+        mainElements: "Border markers, guard posts on both sides, winding mountain path, stone barriers"
+        atmosphere: "October morning chill, clear visibility, tension in the air, sound of wind through rocks"
+        background: "Rugged mountain peaks, autumn forest patches, distant valleys"
+    - id: "petrich_town"
+      name: "Petrich, Bulgaria"
       description_block: |
         setting:
-          location: "Bulgarian military outpost overlooking border crossing, Belasitsa mountain region"
-        mainElements: "Small wooden guard house, sandbag fortifications, Bulgarian flag, rifle racks, observation equipment"
-        atmosphere: "Military vigilance with constant border surveillance, sounds of equipment and radio communications"
-    - id: "main_location_3"
-      name: "Town of Petrich"
+          location: "Small town in Sandanski-Petrich Valley at foot of Belasitsa Mountains, administrative center"
+        mainElements: "Central square, government buildings, residential houses, Orthodox church, cobblestone streets"
+        atmosphere: "October 1925 autumn weather, evacuated civilians fleeing, military occupation tension"
+        background: "Mountain backdrop, surrounding agricultural fields, smoke rising from buildings"
+    - id: "belasitsa_mountains"
+      name: "Belasitsa Mountain Range"
       description_block: |
         setting:
-          location: "Petrich, Bulgaria, small border town near Greek frontier"
-        mainElements: "Traditional Bulgarian architecture, church with bell tower, market square, residential houses, cobblestone streets"
-        atmosphere: "Peaceful civilian town disrupted by military action, sounds of daily life interrupted by conflict"
-    - id: "main_location_4"
-      name: "Greek Military Command"
+          location: "Border mountain range shared by Bulgaria, Greece, and Macedonia, rugged peaks and valleys"
+        mainElements: "Rocky outcrops, forest patches, border ridgelines, military observation posts"
+        atmosphere: "Cool October weather, misty mornings, echo of gunfire, smell of pine and earth"
+        background: "Layered mountain ridges, autumn foliage, border valleys stretching to horizon"
+    - id: "athens_government_building"
+      name: "Greek Government Headquarters, Athens"
       description_block: |
         setting:
-          location: "Greek military headquarters building, Athens or regional command center"
-        mainElements: "Large wooden desk with maps, telephone equipment, filing cabinets, Greek flags, military charts on walls"
-        atmosphere: "High-stakes military planning environment with urgent decision-making, sounds of typewriters and telephone calls"
+          location: "Neoclassical government building in central Athens, seat of military dictatorship"
+        mainElements: "Grand columns, marble steps, Greek flags, military guards, ornate offices"
+        atmosphere: "Tense political atmosphere, urgent meetings, military advisors coming and going"
+        background: "Athens cityscape, ancient architecture mixed with modern buildings, Mediterranean light"
   items:
-    - id: "key_item_1"
+    - id: "stray_dog"
       name: "The Stray Dog"
       description_block: |
-        details: "Medium-sized brown and white mixed breed dog, alert expression, wearing simple leather collar, running freely across terrain"
-    - id: "key_item_2"
-      name: "White Flag of Truce"
+        details: "Medium-sized mixed breed dog, brown and white coat, leather collar around neck, alert ears, friendly demeanor"
+    - id: "greek_ultimatum_document"
+      name: "48-Hour Ultimatum"
       description_block: |
-        details: "White cloth attached to wooden stick, standard diplomatic symbol for ceasefire negotiations, carried by military officer"
-    - id: "key_item_3"
-      name: "Border Maps"
+        details: "Official Greek government document on letterhead, typed text, official seals and stamps, formal diplomatic format"
+    - id: "league_nations_resolution"
+      name: "League of Nations Ceasefire Order"
       description_block: |
-        details: "Military topographical maps showing Greek-Bulgarian frontier, marked with positions and territorial boundaries, rolled and tied with ribbon"
-    - id: "key_item_4"
-      name: "League of Nations Documents"
+        details: "Official League document with multiple stamps and signatures from member nations, formal international format"
+    - id: "greek_artillery"
+      name: "Greek Field Artillery"
       description_block: |
-        details: "Official diplomatic papers with seals and ribbons, formal international mediation documents, typed on official letterhead"
+        details: "Bronze and steel mountain cannons, wheeled carriages, ammunition caissons, positioned for assault"

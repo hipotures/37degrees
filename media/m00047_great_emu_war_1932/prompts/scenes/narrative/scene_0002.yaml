@@ -1,20 +1,16 @@
 sceneDescription:
-  title: "Farmer Discovers Devastated Wheat Fields"
+  title: "Massive Emu Migration Arrives at Farmland"
   setting:
-    time: "1932, afternoon"
-    location: "Wheat fields near Campion, Western Australia, showing extensive crop damage"
-    weather: "Hot sunny day with intense Australian outback heat"
-  characters:
-    - appearance: "Caucasian man, 50s, sun-weathered face, worried expression, calloused hands"
-      clothing: "1930s farmer attire, worn cotton shirt, dark trousers held by suspenders, wide-brimmed hat, work boots"
-      position: "Standing in the middle of destroyed wheat field"
-      action: "Holding trampled wheat stalks in his hands, looking across the ruined crops with dismay"
+    time: "October 1932, early morning"
+    location: "Open wheatbelt near Campion District, Western Australia"
+    weather: "Clear morning light with heat shimmer beginning to form"
+  characters: "No characters present in this scene"
   scene:
-    mainElements: "Wheat fields with trampled areas, broken stalks, scattered grain, clear paths of destruction through golden crops covering large sections of the farming property"
-    details: "Vast areas of once-golden wheat now flattened and destroyed, with distinct trails of devastation cutting through the fields. Broken wheat stalks lie scattered across red earth, grain spilled and wasted. Farm equipment visible in distance including a windmill and grain storage shed. Fence posts mark property boundaries. Evidence of massive bird damage everywhere - feathers caught on broken stalks, large three-toed footprints in the soil"
-    background: "More wheat fields stretching toward horizon, some still intact showing what the crop should look like, distant farm buildings and grain silos under harsh blue sky"
-    atmosphere: "Desperation and economic ruin, the devastating impact of nature's force on human livelihood during the Great Depression era, no text or letters visible"
+    mainElements: "Massive flock of approximately 20,000 emus moving across landscape like a gray-brown tide, birds standing 5-6 feet tall with long necks extended, powerful legs creating rhythmic movement"
+    details: "Individual emus clearly visible in foreground showing detailed features - gray-brown feathers, alert eyes, strong beaks, coordinated group movement suggesting organized migration, dust clouds kicked up by thousands of feet, wheat fields visible ahead as destination"
+    background: "Vast Australian wheatbelt stretching endlessly, geometric patterns of cultivated fields contrasting with wild bird migration, scattered farm buildings appearing small against natural force"
+    atmosphere: "Awe-inspiring scale of natural migration, inevitable collision between wildlife and agriculture, morning light emphasizing the massive scope of approaching emu army"
   composition:
-    cameraAngle: "Medium shot showing farmer amid the destruction"
-    focus: "The contrast between ruined and intact crops, emphasizing the scale of agricultural damage"
-    depth: "Foreground shows immediate crop destruction, middle ground shows the farmer's despair, background reveals the extent of the damage across the property"
+    cameraAngle: "Epic wide aerial perspective showing full scope of migration"
+    focus: "Massive emu flock as unstoppable natural force approaching farmland"
+    depth: "Leading emus in sharp foreground detail, main flock spreading across middle ground, wheat fields and farms in distant background, no text or letters visible"

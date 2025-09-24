@@ -1,23 +1,26 @@
 sceneDescription:
   setting:
     time: August 27, 1896, 9:15 AM
-    location: Zanzibar Harbor during naval battle
-    weather: Smoke-filled air from ongoing bombardment
+    location: Three-story white limestone palace on Mizingani Road waterfront, Stone Town, Zanzibar
+    weather: Clear tropical morning with increasing smoke and debris
   characters: No characters present in this scene
   scene:
-    mainElements: Wooden steam yacht with single smokestack, painted white with gold trim, flying Zanzibar flag, under attack
-      by British gunboats
-    details: Royal yacht taking heavy damage from British naval gunfire, wooden hull splintering from shell impacts, smoke
-      pouring from damaged superstructure, vessel listing to starboard, crew abandoning ship, traditional dhow boats nearby
-      also under fire, water erupting from near misses
-    background: Palace complex burning in distance, British warships maintaining bombardment, Stone Town waterfront obscured
-      by smoke
-    atmosphere: Naval destruction and chaos, royal symbols of Zanzibar power being systematically destroyed, overwhelming
-      British naval superiority, no text or letters visible
+    mainElements: Castellated battlements, coral stone walls, marble floors, ornate arched windows, covered passages to adjacent
+      buildings, central courtyard with fountain
+    details: Palace walls beginning to crumble under sustained bombardment, wooden structures catching fire, shell holes appearing
+      in coral stone walls, debris falling from damaged battlements, smoke rising from multiple fires, Large red silk banner
+      with Islamic crescents and stars, gold embroidered edges still mounted on tall flagpole but palace structure around
+      it showing severe damage, fountain in courtyard damaged by falling masonry
+    background: Stone Town buildings suffering collateral damage, harbor visible through destroyed palace walls, British fleet
+      continuing systematic bombardment, tropical vegetation being damaged by falling debris
+    atmosphere: Humid tropical heat, scent of spices from nearby markets, sound of waves against the seawall, smoke and flames
+      during bombardment, destruction of centuries-old palace architecture, thunderous impacts of naval shells against coral
+      stone, no text or letters visible
   composition:
-    cameraAngle: Medium shot from water level showing yacht destruction
-    focus: Sinking of Zanzibar's royal yacht as symbol of lost sovereignty
-    depth: Damaged yacht in foreground, harbor battle in middle ground, burning palace in background
+    cameraAngle: Dramatic angle showing palace destruction from courtyard perspective
+    focus: Collapsing palace walls, fires spreading, structural damage from naval bombardment
+    depth: 'Foreground: damaged courtyard and fountain, middle: crumbling walls and spreading fires, background: harbor with
+      continuing British bombardment visible through damaged walls'
 visualElements:
   colorPalette:
     primary:

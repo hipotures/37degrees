@@ -1,25 +1,31 @@
 sceneDescription:
   setting:
-    time: August 27, 1896, 8:50 AM
-    location: Palace courtyard and harbor view, Stone Town
-    weather: Hot tropical morning, still air before storm
+    time: August 27, 1896, 8:55 AM
+    location: Natural deep-water harbor facing Stone Town waterfront in Indian Ocean
+    weather: Excellent visibility, perfect conditions for naval gunnery, bright sunlight
   characters:
-  - appearance: Arab man, 29 years old, olive skin, dark beard, intense determined eyes, medium build
-    clothing: Traditional Omani white thobe with ornate ceremonial belt, ceremonial curved dagger at waist
-    position: Standing defiantly in palace courtyard
-    action: Commanding presence, arms crossed, staring toward British fleet with unwavering resolve
+  - appearance: Age 53, medium build, steel-grey hair and moustache, weathered face from years at sea, stern blue eyes
+    clothing: Full Royal Navy dress uniform with gold braiding, admiral's peaked cap with naval insignia, medals on chest
+      including Order of the Bath
+    position: Authoritative military bearing with hands clasped behind back
+    action: Decisive commanding presence, clipped speaking manner
   scene:
-    mainElements: Palace courtyard filled with supporters and defenders, British warships ominously positioned in harbor background
-    details: Gathered crowd of palace guards and civilian supporters, weapons visible throughout courtyard, Red rectangular
-      flag with white border flying from palace flagpole, tension building as deadline approaches, shadows shortening as sun
-      climbs higher
-    background: Gray steel warships with multiple gun turrets clearly visible in harbor, Stone Town buildings climbing hillside
-    atmosphere: Final moments before conflict, defiant determination versus overwhelming force, tropical heat building tension,
-      countdown to history's shortest war, no text or letters visible
+    mainElements: Five British warships in battle formation, dhow sailing boats fled to safety, stone quays and piers, lighthouse
+      on shore
+    details: Large steel warship, white hull with black funnel, single main mast, two gun turrets, British naval ensign, fully
+      operational with latest naval technology. Gun crews at action stations, naval officers coordinating final targeting,
+      signal flags ready for battle commands, all weapons trained on palace targets, tension building as 9:00 AM deadline
+      approaches
+    background: Stone Town waterfront with palace clearly visible, local population evacuating waterfront areas, tropical
+      morning creating perfect visibility conditions
+    atmosphere: Crystal clear morning, light wind from east, gun smoke drifting over water, thunderous cannon fire echoing
+      off buildings, final moments before history's shortest war begins, disciplined naval efficiency preparing for overwhelming
+      demonstration of power, no text or letters visible
   composition:
-    cameraAngle: Wide shot capturing both palace defiance and naval threat
-    focus: Sultan's defiant stance against impossible odds
-    depth: Palace courtyard and defenders in foreground, harbor with British fleet in background
+    cameraAngle: Close-up on naval preparations with wide harbor context
+    focus: Gun crews at battle stations, Character HR giving final orders, weapons targeting palace
+    depth: 'Foreground: naval gun crews and Character HR, middle: flagship bridge and targeting systems, background: Stone
+      Town palace awaiting bombardment'
 visualElements:
   colorPalette:
     primary:

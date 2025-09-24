@@ -1,26 +1,28 @@
 sceneDescription:
   setting:
-    time: July 15, 1947, sunset
-    location: Open pasture land on Foster Ranch, New Mexico desert
-    weather: Golden hour light, clear evening
+    time: July 8, 1947, 11:00 AM
+    location: Roswell Army Air Field, public information office, press briefing area
+    weather: Clear morning with bright sunlight
   characters:
-  - appearance: Caucasian man, 50s, weathered sun-worn face with deep lines, graying hair, lean build
-    clothing: 1940s ranch attire - worn denim jeans, cotton long-sleeve shirt, brown felt cowboy hat with wide brim, leather
-      belt with simple buckle, worn leather work boots
-    position: Standing alone in cleared field
-    action: Surveying empty ground where debris was, hands on hips, contemplative stance
+  - appearance: Young officer, late 20s, administrative appearance, clean-cut military bearing
+    clothing: Lieutenant's uniform, non-combat role appearance, neat military dress
+    position: At typewriter or addressing media
+    action: Typing press releases, briefing reporters, following orders dutifully
   scene:
-    mainElements: Cleared pasture land with only stake holes and tire tracks remaining
-    details: Empty field with visible tire tracks from military vehicles, small holes where marking stakes were removed, few
-      overlooked small metallic pieces glinting in sunset light, long shadows from rancher, disturbed soil patterns showing
-      collection grid, distant fence posts, no text or letters visible
-    background: Desolate, mysterious, harsh desert sun creating sharp shadows, disturbed earth from recent storm
-    atmosphere: Lonely, mysterious aftermath, golden sunset light, sense of unanswered questions, desert returning to normal
+    mainElements: Military base 3 miles south of Roswell, New Mexico, 4,600 acres with multiple concrete runways
+    details: Character WH standing at podium addressing gathered reporters and photographers, flash bulbs going off, multiple
+      journalists taking notes furiously, military backdrop with 509th Bombardment Group insignia visible, historic moment
+      as military officially announces recovery of flying disc, tense atmosphere of unprecedented announcement, no text or
+      letters visible
+    background: Active 1940s military installation, home to 509th Bomb Group, high security, bustling with atomic age military
+      activity
+    atmosphere: Historic tension and excitement as military makes shocking public announcement, sense of world-changing revelation
+      being shared with press and public
   composition:
-    cameraAngle: Wide shot emphasizing emptiness
-    focus: Solitary rancher in vast cleared field
-    depth: Foreground shows tire tracks in sand, middle ground has lone figure, background shows endless desert horizon with
-      setting sun
+    cameraAngle: Medium shot from press area looking at Character WH at podium
+    focus: Character WH delivering the historic flying disc announcement to assembled press
+    depth: Foreground shows reporters and photographers, middle ground captures Character WH at podium, background reveals
+      military base infrastructure
 visualElements:
   colorPalette:
     primary:

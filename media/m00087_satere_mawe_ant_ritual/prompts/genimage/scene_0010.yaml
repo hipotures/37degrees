@@ -1,33 +1,42 @@
 sceneDescription:
   setting:
-    time: Afternoon, bright warm sunlight
-    location: Central gathering area of Sateré-Mawé village in Amazon rainforest
-    weather: Clear warm day with gentle breeze
+    time: Present day, early morning, forest border patrol
+    location: Primary Amazon rainforest within Andirá-Marau Indigenous Reserve, towering cecropia and Brazil nut trees, dense
+      understory vegetation
+    weather: Morning mist rising, filtered sunlight through forest canopy, humid tropical conditions
   characters:
-  - appearance: Indigenous Brazilian boy, 12-15 years old, lean athletic build, bronze skin, straight black hair
-    clothing: Traditional Sateré-Mawé attire with colorful feather ornaments, woven cotton bands, minimal body decoration
-    position: Standing proudly in center of gathering, hands fully recovered
-    action: Receiving recognition as new warrior having completed first bullet ant initiation successfully
-  - appearance: Elderly Sateré-Mawé man, 60s, weathered bronze skin, white-streaked black hair, wise dark eyes
-    clothing: Traditional ceremonial robes with elaborate feather headdress, shell and bead jewelry, painted body markings
-    position: Standing before new warrior conducting recognition ceremony
-    action: Presenting traditional warrior symbols and offering blessings for continued strength
-  - appearance: Various Sateré-Mawé villagers of different ages, bronze skin, traditional facial features
-    clothing: Everyday tribal attire with colorful cotton garments, simple jewelry, body paint patterns
-    position: Gathered in celebration around newly recognized warrior
-    action: Celebrating successful completion of traditional initiation with songs and congratulations
+  - appearance: 25 years old, muscular build from forest hunting, multiple small scars on hands from previous ceremonies,
+      confident posture, stern facial expression
+    clothing: Elaborate feathered headdress indicating warrior status, traditional geometric body paint, carved bone ornaments
+      through earlobes, woven armbands
+    position: Stoic and controlled, demonstrates proper ceremony technique, shows no emotion during procedure, serves as role
+      model for younger participants
+    action: Leading patrol through forest territory, using traditional tracking skills to monitor for illegal intruders, protecting
+      ancestral lands
+  - appearance: 12 years old, small lean build typical of Amazonian youth, smooth unmarked skin, earnest determined expression,
+      hands trembling slightly from nervousness
+    clothing: Traditional red and black geometric body paint covering torso and face, simple woven palm fiber armbands, otherwise
+      unclothed for ceremony
+    position: Nervous but determined, trying to appear brave, follows elder's instructions precisely, occasionally glances
+      at community for support
+    action: Now older and more confident, following experienced warrior on patrol, applying courage learned through bullet
+      ant ceremony to real-world challenges
   scene:
-    mainElements: Circular clearing surrounded by traditional thatched-roof houses, fire pit in center, woven palm mats
-    details: Traditional Sateré-Mawé ritual items including feathered staffs, carved masks, painted gourds, shell instruments
-      arranged celebratorily. Completed bullet ant gloves displayed as symbols of successfully endured trial. Fresh warrior
-      markings and ceremonial objects prepared for recognition.
-    background: Village houses and Amazon rainforest celebrating successful cultural continuation
-    atmosphere: Community gathering space with warm firelight, ceremonial significance, tribal unity. Joyful cultural pride
-      and successful tradition preservation, acknowledging first of many trials ahead, no text or letters visible
+    mainElements: Warriors moving through dense rainforest on border patrol, traditional weapons and modern conservation tools,
+      evidence of illegal logging activity in distance
+    details: Massive tree trunks where bullet ants nest, fallen logs with ant colonies, dense vegetation requiring machete
+      clearing, filtered green sunlight creating dramatic forest atmosphere. Warriors using traditional forest knowledge gained
+      through ceremonies to protect their homeland, combining ancient skills with modern conservation needs, distant smoke
+      indicating illegal logging activity, no text or letters visible
+    background: Dense Amazon rainforest with towering trees reaching 40+ meters, thick understory vegetation, sounds of forest
+      creatures and distant machinery
+    atmosphere: Serious dedication to land protection, ancient warrior training applied to modern challenges, cultural preservation
+      through active defense of ancestral territory
   composition:
-    cameraAngle: Medium wide shot showing warrior recognition ceremony
-    focus: New warrior receiving ceremonial recognition from tribal elder
-    depth: Recognition ceremony in foreground, celebrating community in middle ground, village and forest in background
+    cameraAngle: Wide shot showing warriors moving through massive rainforest landscape
+    focus: Warriors on patrol using traditional skills to protect their ancestral lands from modern threats
+    depth: Foreground shows detailed forest environment, middle ground captures warrior patrol movement, background reveals
+      vast rainforest territory being protected
 visualElements:
   colorPalette:
     primary:

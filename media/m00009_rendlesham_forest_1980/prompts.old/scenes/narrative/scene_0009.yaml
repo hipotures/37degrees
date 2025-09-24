@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Equipment Malfunction During Investigation - December 28, 1980"
+  setting:
+    time: "December 28, 1980, 02:45 AM"
+    location: "Dense managed pine forest interior, Rendlesham Forest, Suffolk, England - Scots and Corsican pine stands"
+    weather: "Cold winter night, fog affecting equipment, near freezing temperatures"
+  characters:
+    - appearance: "Caucasian man, 41 years old, military bearing, authoritative presence, determined expression"
+      clothing: "U.S. Air Force winter field uniform - OG-107 cotton sateen or early BDU woodland camouflage, M-65 field jacket, thermal underwear, field cap, black military boots, subdued rank insignia on collar"
+      position: "Standing with confident military posture, often holding handheld cassette recorder"
+      action: "Leading investigation, documenting events on tape recorder, directing team members"
+    - appearance: "Caucasian man, military age, technical specialist demeanor, frustrated expression"
+      clothing: "U.S. Air Force winter field uniform - woodland camouflage BDU or OG-107, M-65 field jacket, thermal underwear, field cap, combat boots, Disaster Preparedness specialist insignia"
+      position: "Kneeling beside malfunctioning equipment"
+      action: "Attempting to repair portable generator and lighting equipment that has failed during critical investigation"
+  scene:
+    mainElements: "Tall pine trees creating dark canopy, sandy soil covered with pine needles, ferns and heather undergrowth, forestry roads, small clearings. Investigation team dealing with equipment failure during critical observation period."
+    details: "Dense forest investigation site with technical difficulties hampering documentation efforts. Light-all portable generator with floodlights malfunctioning during investigation, leaving team dependent on handheld lighting. Handheld cassette tape recorder with red recording light, used for documenting investigation, metal and plastic construction typical of 1980 portable recording devices continuing to function despite other equipment failures. Standard U.S. Air Force issued flashlight with metal body, powerful beam for cutting through forest darkness, typical 1980 military specifications providing only illumination source. Military field radio for communication with base, portable unit with antenna, used for coordinating investigation and reporting findings to command attempting to maintain contact with base."
+    background: "Dark forest depths with limited illumination, shadows creating ominous environment for continued investigation"
+    atmosphere: "Dark, dense forest with flashlight beams cutting through darkness, natural film noir lighting, fog diffusing distant lights. Technical frustration combined with ongoing mysterious phenomena creating heightened tension, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing team struggling with equipment while maintaining investigation"
+    focus: "Technical specialist working on failed generator while commander continues documentation"
+    depth: "Foreground: malfunctioning equipment and tools. Middle: team members dealing with technical problems. Background: dark forest with limited visibility"

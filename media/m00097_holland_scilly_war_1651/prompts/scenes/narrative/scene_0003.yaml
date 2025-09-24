@@ -1,16 +1,20 @@
 sceneDescription:
-  title: "Dutch Merchant Losses - Ships Under Attack"
+  title: "Royalist Privateers Raiding Dutch Merchant Ships"
   setting:
-    time: "1651, early morning"
-    location: "Atlantic waters near English Channel trade routes"
-    weather: "Clear morning with moderate seas"
-  characters: "No characters present in this scene"
+    time: "Early 1651, dawn"
+    location: "English Channel waters between Scilly and mainland Cornwall"
+    weather: "Misty morning with calm seas ideal for privateering operations"
+  characters:
+    - appearance: "Age 23 in 1651, tall and lean, dark hair worn long in Cavalier style, proud bearing despite youth, intense dark eyes"
+      clothing: "Royalist officer uniform of deep red coat with gold trim, white lace collar, leather boots, rapier sword, wide-brimmed hat with feather"
+      position: "Standing defiantly on privateer vessel deck"
+      action: "Commanding privateering operations, coordinating the capture of Dutch merchant vessels with aristocratic authority"
   scene:
-    mainElements: "Dutch merchant vessel under attack by Royalist privateers, naval battle in progress"
-    details: "Dutch trading ship with cargo holds visible, Royalist warship alongside firing cannons, smoke from naval gunfire, sailors abandoning damaged merchant vessel, valuable cargo being transferred to Royalist ship, damaged rigging and sails, debris floating in water"
-    background: "Open Atlantic waters with distant coastline, other merchant ships fleeing the area, seabirds disturbed by battle"
-    atmosphere: "Maritime commerce disrupted by civil war privateering, Dutch shipping suffering heavy losses, economic warfare on high seas, reason for Dutch intervention, no text or letters visible"
+    mainElements: "Fast Royalist sailing vessels surrounding captured Dutch merchant ship, privateers transferring valuable cargo, Union Jack flying from raiding vessels"
+    details: "Various Dutch merchant ships with valuable cargo - spices, textiles, precious metals, ships flying Dutch colors being boarded by Royalist crew, merchant documentation being examined, crew taken prisoner, wooden barrels and crates being transferred between vessels, morning mist creating dramatic lighting"
+    background: "Distant silhouettes of other merchant vessels on horizon, rocky outlines of Scilly islands providing strategic base, calm Channel waters reflecting early morning light"
+    atmosphere: "Profitable but dangerous maritime warfare, Cavalier bravado mixed with desperate need for funds, smell of sea salt and exotic spices from captured cargo, tension of illegal but necessary operations, no text or letters visible"
   composition:
-    cameraAngle: "Wide shot from sea level showing naval attack"
-    focus: "Privateering attack on Dutch merchant shipping"
-    depth: "Ships in battle in foreground, debris field in middle ground, open Atlantic in background"
+    cameraAngle: "Dynamic angle showing privateering action from deck level of raiding vessel"
+    focus: "Royalist commander overseeing capture operation, valuable Dutch cargo being seized for the royal cause"
+    depth: "Foreground shows character directing operations, middle ground reveals cargo transfer and captured ship, background displays strategic Scilly base in morning mist"

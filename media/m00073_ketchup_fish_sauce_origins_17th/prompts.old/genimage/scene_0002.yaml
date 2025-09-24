@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 17th century, midday
+    location: Mekong River delta trading port, Vietnam, 17th century
+    weather: Humid tropical heat
+  characters:
+  - appearance: Southeast Asian man, 50s, sun-darkened skin, strong arms from hauling nets, calm demeanor
+    clothing: Simple brown cotton shirt, rolled-up pants, wide conical hat, bare feet or simple sandals
+    position: Crouched beside large wooden fermentation vats
+    action: Carefully layering salted anchovies with coarse salt in wooden barrel, checking fermentation progress
+  scene:
+    mainElements: Stilted wooden houses over water, bamboo trading stalls, anchored junks and sampans, tropical vegetation
+    details: Large wooden barrel with metal bands, partially open lid showing dark fermenting fish mixture, small silver fish
+      laid out on bamboo mats for drying covered with coarse sea salt, ceramic containers holding various fermented fish sauces,
+      traditional preservation tools
+    background: Mekong River flowing past with traditional boats, palm trees and tropical foliage, other fishermen processing
+      catch
+    atmosphere: Humid tropical climate with vibrant trading activity and multicultural merchant interactions, intense aromatic
+      environment from fermentation, ancient preservation techniques, no text or letters visible
+  composition:
+    cameraAngle: Medium shot focusing on fermentation process
+    focus: Fisherman working with fermentation vessels and traditional preservation methods
+    depth: Foreground shows detailed fermentation work, middle ground features fishing village life, background shows river
+      and tropical landscape
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

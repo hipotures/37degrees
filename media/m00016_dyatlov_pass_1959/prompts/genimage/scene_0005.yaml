@@ -1,111 +1,85 @@
 sceneDescription:
   setting:
-    time: February 1-2, 1959, late night, exact time unknown
-    location: Eastern slope of Kholat Syakhl mountain, Northern Ural Mountains, Soviet Union
-    weather: Complete darkness, no moon, estimated -25 to -30°C, strong winds, possible aurora activity
+    time: May 4, 1959, morning after snow melt
+    location: Natural depression in forest, 75 meters from cedar tree, 4 meters deep
+    weather: Spring conditions with remaining snow patches, running water audible, 2°C
   characters:
-  - appearance: Caucasian man, mid-20s, average build, serious expression, short dark hair
-    clothing: Underwear and wool socks only, inadequately dressed for extreme cold
-    position: Cutting through tent wall from inside near entrance
-    action: Frantically slashing canvas with knife, creating large exit hole
-  - appearance: Caucasian woman, early 20s, slender build, determined expression, medium brown hair in braids
-    clothing: Thin nightwear and socks, missing critical winter clothing
-    position: Crawling toward tent cut opening
-    action: Urgently moving toward emergency exit through tent wall
-  - appearance: Caucasian woman, early 20s, athletic build, expression of alarm, blonde hair loose
-    clothing: Underwear only, completely inadequate for survival conditions
-    position: Gathering essential items near sleeping area
-    action: Grabbing single flashlight while preparing to exit tent
-  - appearance: Caucasian man, mid-20s, tall slender build, intense expression behind glasses
-    clothing: Minimal clothing, missing most winter gear
-    position: Moving quickly through tent interior
-    action: Abandoning 1950s Soviet camera equipment in urgent departure
-  - appearance: Caucasian man, early 20s, stocky build, alarmed expression
-    clothing: Partial winter clothing, missing critical protection items
-    position: Near tent exit opening
-    action: Following others through cut tent wall into night
+  - appearance: Senior investigator, 50s, experienced in difficult cases, deeply concerned
+    clothing: Spring jacket over winter layers, waterproof boots, official cap
+    position: Standing at ravine edge, coordinating recovery operation
+    action: Directing team while maintaining detailed photographic documentation
+  - appearance: Medical examiner, 45, specialized in trauma cases, shocked expression
+    clothing: Protective gear, medical examination kit, waterproof clothing
+    position: Descended into ravine, examining bodies in situ
+    action: Conducting preliminary examination, noting unusual injury patterns
+  - appearance: Recovery specialist, 35, military background, professional composure
+    clothing: Military field gear adapted for civilian use, rope equipment
+    position: Securing rope system for body recovery from ravine
+    action: Setting up pulley system while preserving evidence integrity
   scene:
-    mainElements: Interior of expedition tent in chaos with three large slashes cut from inside, expedition members fleeing
-      in panic through emergency openings, equipment abandoned in haste
-    details: Large self-made canvas tent with three large slashes cut from inside using knives, abandoned winter gear scattered
-      on tent floor including thick wool sweaters and padded jackets, single flashlight left on tent roof still illuminating
-      scene, disassembled portable wood stove components left behind, 1950s Soviet cameras in leather cases abandoned, food
-      supplies in canvas bags untouched, sleeping bags disheveled from hasty departure
-    background: Canvas tent walls flapping violently in mountain wind, darkness beyond tent openings, scattered personal items
-      and expedition equipment, emergency nature of departure evident in disorder
-    atmosphere: Extreme urgency and terror driving irrational behavior, mysterious compelling force causing abandonment of
-      survival gear, life-threatening decision to leave shelter in deadly conditions, palpable sense of unknown danger
+    mainElements: Four bodies positioned in natural snow cave formation within ravine, running water visible beneath remaining
+      snow, crude shelter attempt using available materials, evidence of extended survival period
+    details: Bodies show massive internal trauma without external wounds, some missing soft tissue due to natural decomposition
+      in water, improvised bedding from pine branches and available clothing, evidence of organized group survival attempt,
+      recovery equipment including ropes and stretchers, spring melt revealing previously hidden evidence, investigators'
+      documentation tools and cameras, no text or letters visible
+    background: Dense forest with mix of snow and emerging spring growth, ravine cutting natural path through terrain, cedar
+      tree visible upslope, distant mountains through forest canopy
+    atmosphere: Final tragic chapter of mystery, evidence of victims' determined survival efforts, investigators' realization
+      of case's unprecedented nature, somber conclusion to months-long search
   composition:
-    cameraAngle: Interior dramatic angle showing tent cuts and emergency exodus
-    focus: Moment of crisis as expedition members cut tent and flee into deadly night
-    depth: Foreground shows detailed tent damage and abandoned gear, middle ground captures fleeing figures, background reveals
-      harsh mountain environment beyond tent, no text or letters visible
+    cameraAngle: High angle showing ravine depth and recovery operation complexity
+    focus: Ravine as final shelter attempt with professional recovery in progress
+    depth: Recovery operation in foreground ravine, forest and cedar location in middle ground, mountain wilderness in background
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

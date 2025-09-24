@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Suffolk Police Response - December 26, 1980 Morning"
+  setting:
+    time: "December 26, 1980, 10:30 AM"
+    location: "Small clearing near eastern edge of Rendlesham Forest, Suffolk, England - documented incident site"
+    weather: "Clear winter morning, cold temperatures, good visibility"
+  characters:
+    - appearance: "British police officer, middle-aged, professional demeanor, investigative focus"
+      clothing: "1980 British police uniform - dark blue wool tunic, black trousers, peaked cap with police badge, black leather boots, winter coat"
+      position: "Crouching beside ground depressions, examining evidence"
+      action: "Documenting ground depressions with measuring tape and notepad, conducting official investigation"
+    - appearance: "Caucasian man, military age, serious expression, focused attention"
+      clothing: "U.S. Air Force Security Police winter gear - woodland camouflage BDU or OG-107 uniform, M-65 field jacket, thermal layers, field cap, combat boots, subdued Security Police patches"
+      position: "Standing nearby in respectful military posture"
+      action: "Observing police investigation, providing witness information about previous night's events"
+  scene:
+    mainElements: "Sandy ground covered with pine needles, three triangular depressions in forest floor, scuff marks on surrounding pine tree trunks. British police officer conducting official examination while U.S. airman observes."
+    details: "Small forest clearing with obvious ground disturbances - three distinct depressions arranged in triangular pattern pressed into sandy soil. Pine trees surrounding clearing show fresh scuff marks on bark. Police measuring tape extended across depressions, official notepad for documentation. Standard U.S. Air Force issued flashlight with metal body, powerful beam for cutting through forest darkness, typical 1980 military specifications visible on airman's belt."
+    background: "Tall pine trees forming natural boundary around clearing, morning sunlight filtering through branches"
+    atmosphere: "Mysterious forest clearing with evidence of unusual activity, illuminated by flashlights and investigative lighting. Official investigation atmosphere with methodical documentation of unexplained physical evidence, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from edge of clearing showing both officials and ground evidence"
+    focus: "Triangular ground depressions being examined by police officer"
+    depth: "Foreground: measuring tape and ground depressions. Middle: police officer and airman. Background: surrounding pine forest"

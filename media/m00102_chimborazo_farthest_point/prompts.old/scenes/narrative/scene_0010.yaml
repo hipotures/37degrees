@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Chimborazo's New Recognition"
+  setting:
+    time: "Modern day, sunrise"
+    location: "Mount Chimborazo summit, Ecuador, snow-covered volcanic peak at 6,263 meters"
+    weather: "Clear sunrise with golden light on snow"
+  characters:
+    - appearance: "Indigenous Ecuadorian man, 40s, strong build adapted to high altitude, wise expression"
+      clothing: "Traditional Andean wool clothing mixed with modern outdoor gear"
+      position: "Standing proudly at summit marker"
+      action: "Celebrating the recognition of Chimborazo's unique geographic distinction"
+  scene:
+    mainElements: "Snow-covered rocky peak, glacial ice formations, thin atmosphere, Andean mountain range stretching to horizon with golden sunrise light"
+    details: "Summit marker acknowledging Chimborazo as Earth's farthest point from center, modern GPS devices confirming the measurement, sunrise casting golden light on snow-covered volcanic peak, traditional Andean elements mixed with modern scientific recognition, no text or letters visible"
+    background: "Spectacular Andean sunrise over volcanic peaks, endless mountain landscape"
+    atmosphere: "Majestic, challenging high-altitude environment with stunning mountain vistas celebrating new understanding of Earth's geography"
+  composition:
+    cameraAngle: "Wide shot emphasizing mountain majesty in sunrise light"
+    focus: "Guide celebrating at newly recognized Earth's farthest point"
+    depth: "Summit marker in foreground, guide in middle ground, sunrise mountain panorama in background"

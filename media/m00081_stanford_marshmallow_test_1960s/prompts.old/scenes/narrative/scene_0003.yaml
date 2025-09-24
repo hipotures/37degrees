@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Testing Room Setup - Creating the Experimental Environment"
+  setting:
+    time: "1968, afternoon, controlled indoor lighting"
+    location: "Small, sparse testing room at Stanford University's Bing Nursery School"
+    weather: "Indoor controlled environment with artificial lighting"
+  characters:
+    - appearance: "Caucasian man, 40s, slender build, dark hair, thoughtful eyes, intellectual appearance"
+      clothing: "1960s academic attire: brown tweed jacket with elbow patches, white dress shirt, dark tie, dress pants"
+      position: "Standing beside child-sized table, making final adjustments"
+      action: "Placing single white marshmallow on small plate, positioning timer device, ensuring everything is ready for experiment"
+  scene:
+    mainElements: "Sparse testing room with simple wooden table, two chairs (one adult-sized, one child-sized), marshmallow on plate as central focus"
+    details: "Plain walls designed to minimize distractions, small hand bell within child's reach, mechanical timer visible, research clipboard on adult chair, clinical yet child-friendly environment"
+    background: "Minimal decoration, clean walls, door visible, one-way mirror (though not obvious to child), professional testing environment"
+    atmosphere: "Careful scientific preparation, anticipation of groundbreaking research about self-control and delayed gratification in children, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from child's perspective height"
+    focus: "Researcher arranging experimental setup with marshmallow as central element"
+    depth: "Foreground: child-sized chair and table with marshmallow, middle: researcher making adjustments, background: minimal room environment"

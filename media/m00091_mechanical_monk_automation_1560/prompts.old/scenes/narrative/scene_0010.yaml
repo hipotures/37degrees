@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The mechanical monk in perpetual prayer through the centuries"
+  setting:
+    time: "Present day, museum lighting"
+    location: "Smithsonian Institution display case, modern museum setting with controlled lighting"
+    weather: "Indoor museum environment with artificial lighting"
+  characters:
+    - appearance: "Franciscan monk figure, 38cm tall, carved wooden head with tonsured crown, serene expression"
+      clothing: "Brown Franciscan robes, rope belt with knots, simple sandals"
+      position: "Standing in museum display case, ready for demonstration"
+      action: "Walking, striking chest, raising cross, nodding head in prayer gestures"
+  scene:
+    mainElements: "The 450-year-old automaton continues its devotional movements in modern museum setting, still fully operational"
+    details: "38cm tall clockwork figure with wooden head, brown Franciscan robes, hidden brass mechanisms beneath clothing, small wooden cross and rosary in left hand, wind-up key in back demonstrates unchanged function after centuries. Glass display case with museum lighting reveals every detail of the preserved masterpiece. Modern visitors observe in wonder as Renaissance engineering continues its sacred purpose. The wooden face shows the same serene expression carved five centuries ago"
+    background: "Modern museum display with informational panels and other historical artifacts, while spotlights illuminate the remarkable automaton"
+    atmosphere: "Timeless devotion transcends centuries as mechanical prayer continues unabated, connecting Renaissance faith with modern wonder, proving the endurance of human ingenuity"
+  composition:
+    cameraAngle: "Close-up shot emphasizing the automaton's continued operation"
+    focus: "The mechanical monk still performing its prayer sequence after 450 years"
+    depth: "Foreground: the active automaton in its display case; middle: museum lighting and glass; background: modern museum setting and other exhibits, no text or letters visible"

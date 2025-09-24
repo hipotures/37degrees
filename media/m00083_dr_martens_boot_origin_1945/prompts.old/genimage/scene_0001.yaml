@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1945, winter afternoon
+    location: Snowy mountain slopes, Bavaria, Germany, winter landscape
+    weather: Clear winter day with fresh snow
+  characters:
+  - appearance: Caucasian man, 25 years old, athletic build, dark brown hair, focused expression
+    clothing: German army uniform with medical insignia, or white doctor's coat, dark trousers
+    position: Falling backwards on ski slope, one leg twisted at awkward angle
+    action: Skiing down slope when accident occurs, losing balance and falling hard
+  scene:
+    mainElements: Snow-covered pine trees, ski tracks, mountain peaks in background
+    details: Fresh ski tracks leading down the slope, medical officer's cap fallen in snow nearby, ski poles scattered, one
+      ski detached and visible in snow. Steep mountain terrain with evergreen forest below, clear blue sky above. No emergency
+      equipment visible yet, isolated mountain location emphasizing the severity of being injured far from immediate help,
+      no text or letters visible
+    background: Bavarian Alps with snow-capped peaks extending to horizon, dense pine forest covering lower slopes
+    atmosphere: Cold, crisp winter air, peaceful mountain setting interrupted by accident
+  composition:
+    cameraAngle: Wide shot from slightly elevated position showing full scope of accident scene
+    focus: Injured skier and immediate accident site with scattered equipment
+    depth: Foreground shows accident details, middle ground captures slope terrain, background displays mountain panorama
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

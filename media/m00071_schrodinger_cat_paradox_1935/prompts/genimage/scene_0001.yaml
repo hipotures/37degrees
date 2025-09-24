@@ -1,29 +1,28 @@
 sceneDescription:
   setting:
     time: 1935, afternoon
-    location: University of Oxford physics department office, 1935
-    weather: Clear autumn day with golden sunlight
+    location: Academic office in 1930s Oxford college, wood-paneled walls, tall windows overlooking courtyard
+    weather: Overcast European winter day
   characters:
-  - appearance: Austrian physicist, 50s, tall slender build, high forehead, thoughtful dark eyes behind wire-rimmed glasses,
-      salt-and-pepper hair neatly combed
-    clothing: 1930s dark wool suit with vest, white collared shirt, simple tie, or white laboratory coat over shirt and trousers
-    position: Standing beside large wooden desk, one hand resting on stack of papers
-    action: Examining scientific documents with concentrated expression, occasionally adjusting glasses while reading
+  - appearance: Caucasian man, 48 years old, distinguished appearance with receding dark hair, wire-rimmed glasses, well-groomed
+      mustache, medium build, intellectual bearing
+    clothing: 1930s academic attire - dark wool suit, white shirt, conservative tie, occasionally lab coat when working
+    position: Usually seated at desk or standing at blackboard
+    action: Writing equations, reading correspondence, or engaged in thoughtful contemplation
   scene:
-    mainElements: Wood-paneled office with large wooden desk, leather chair, blackboard with equations, tall windows
-    details: Large slate blackboard with quantum mechanics equations written in white chalk, wave function symbols and mathematical
-      notation. Stack of typewritten scientific papers and journals from 1930s, some with handwritten notes, scattered on
-      desk or table. Afternoon sunlight streams through tall windows creating warm lighting on wooden surfaces and leather-bound
-      books.
-    background: Floor-to-ceiling bookshelves filled with physics textbooks and scientific journals, additional blackboards
-      with partial equations visible
-    atmosphere: Academic scholarly environment with warm afternoon lighting through windows. Quiet contemplative mood of serious
-      intellectual work in progress.
+    mainElements: Heavy wooden desk covered with papers, blackboard with equations, bookshelves filled with physics journals,
+      comfortable leather chair
+    details: Fountain pen and inkwell on desk, scattered manuscript pages, physics journals open to quantum mechanics articles,
+      fireplace with dying embers. Character ES seated at desk reading a letter with intense concentration, afternoon light
+      streaming through tall gothic windows
+    background: Gothic architecture visible through tall windows, courtyard with bare winter trees
+    atmosphere: Quiet scholarly environment, afternoon light filtering through windows, smell of chalk and old books, ticking
+      clock
   composition:
-    cameraAngle: Medium shot from slight angle
-    focus: Physicist examining papers at his desk with equations visible on blackboard behind
-    depth: Foreground shows desk with papers, middle ground features the character, background reveals academic office environment
-      with bookshelves, no text or letters visible
+    cameraAngle: Medium shot from slight angle showing both character and workspace
+    focus: Character ES reading correspondence from colleague at his cluttered academic desk
+    depth: Foreground shows scattered papers and open journal, middle ground focuses on contemplative physicist, background
+      shows Gothic Oxford architecture through windows, no text or letters visible
 visualElements:
   colorPalette:
     primary:

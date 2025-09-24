@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Public Execution of the Convicted Pig"
+  setting:
+    time: "1386, midday"
+    location: "Central market square, Falaise, surrounded by timber-framed houses"
+    weather: "Clear cold winter day with bright sunlight"
+  characters:
+    - appearance: "Large man, 40s, muscular build, hooded face partially visible, weathered hands"
+      clothing: "Black leather hood, dark tunic, leather apron, heavy boots"
+      position: "Standing on gallows platform beside hanging rope"
+      action: "Preparing final execution procedures, adjusting rope and checking mechanism"
+    - appearance: "Man, 40s, loud voice, prominent beard, commanding presence"
+      clothing: "Bright blue and red town livery, feathered cap, ceremonial bell"
+      position: "Standing at front of crowd, bell raised high"
+      action: "Announcing execution proceedings to gathered crowd, ringing bell for attention"
+    - appearance: "Large domestic sow, approximately 3 years old, brown and pink coloring, heavy build around 300 pounds, intelligent but wary eyes"
+      clothing: "Human clothing fitted for pig: white waistcoat, leather gloves, linen drawers, mocking human dress"
+      position: "Led up wooden steps to gallows platform"
+      action: "Walking slowly toward gallows, confused by crowd and proceedings"
+    - appearance: "Mixed group of men, women, children, various ages, curious and horrified expressions"
+      clothing: "Simple peasant clothes, brown and gray tunics, head coverings, work boots"
+      position: "Packed into market square, filling every available space"
+      action: "Watching execution with mixture of fascination and horror, some cheering, others covering children's eyes"
+  scene:
+    mainElements: "Cobblestone ground, wooden market stalls, central well, gallows platform constructed of oak"
+    details: "Wooden platform raised 4 feet high with oak construction and trap door mechanism, thick hemp rope with thirteen coils hanging from overhead beam, crowd packed shoulder to shoulder throughout square, market stalls pushed aside for ceremony, timber-framed houses with spectators watching from windows, guards maintaining order around platform perimeter"
+    background: "Medieval Falaise architecture with half-timbered houses, church spire visible in distance, castle walls looming over town, clear winter sky with bright sunlight"
+    atmosphere: "Historic public spectacle of medieval justice, crowd excitement mixed with solemnity of execution, unprecedented nature of animal execution creating intense public interest, bright winter sunlight illuminating dramatic scene, sense of completion of legal process, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from crowd level showing entire execution scene"
+    focus: "Gallows platform as dramatic center with pig and executioner, surrounded by massive crowd"
+    depth: "Foreground shows crowd reactions and density, middle ground captures gallows and execution, background reveals medieval town architecture and castle"

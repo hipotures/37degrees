@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: January 26, 1924, early morning
+    location: Narrow valley between Oymyakon and Tomtor, surrounded by mountains, weather monitoring equipment visible
+    weather: Crystal clear, absolutely no wind, extreme cold air mass, perfect conditions for temperature measurement
+  characters:
+  - appearance: Middle-aged Russian scientist, weathered face from Arctic conditions, thick beard, intense focused eyes
+    clothing: Heavy winter coat with fur trim, felt boots (valenki), fur hat with ear flaps, thick mittens, multiple layers
+      typical of 1920s Arctic expedition gear
+    position: Standing near meteorological equipment or reading instruments carefully
+    action: Methodical and precise, carefully documenting readings, breath visible in extreme cold, movements deliberate due
+      to bulky winter clothing
+  scene:
+    mainElements: Simple wooden meteorological hut, thermometer housing, wind measurement devices, snow-covered ground, mountain
+      ridges on all sides
+    details: Glass tube with mercury column, metal housing for protection, calibrated scale visible, mounted in wooden shelter,
+      specialized for extreme cold measurements, alcohol-based thermometer likely used, brass fittings. Scientist checking
+      equipment systematically, heavy breath clouds indicating extreme cold, deliberate movements to protect instruments,
+      leather-bound notebook with weather observations, handwritten entries in Russian, pages yellowed with age, daily temperature
+      recordings, notes on weather conditions, ink potentially frozen during writing, no text or letters visible
+    background: Mountain ridges creating natural cold trap, perfectly clear sky indicating high pressure system
+    atmosphere: Absolute stillness in frigid air, no wind, crystalline clarity, breath instantly freezes, every sound muffled
+      by intense cold
+  composition:
+    cameraAngle: Medium close-up focusing on scientist and equipment
+    focus: Scientist's methodical preparation and instrument checking
+    depth: Foreground scientist and thermometer, middle ground weather station, background mountain walls
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

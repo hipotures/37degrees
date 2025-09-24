@@ -1,26 +1,26 @@
 sceneDescription:
   setting:
-    time: 1770, after 200 years of continuous drought
-    location: Central Atacama Desert showing extreme adaptation
-    weather: 200 years without rainfall, extreme environmental conditions
-  characters: No characters present in this scene
+    time: 1620, midday, scorching heat
+    location: Desert oasis town at 2,260m altitude, Calama, northern Chile, surrounded by barren mountains and salt flats
+    weather: Relentless sun, no clouds, extreme aridity for 50 years
+  characters:
+  - appearance: Middle-aged man, weathered features from desert life, copper-toned skin, lean build adapted to scarce resources
+    clothing: Traditional llama wool textiles in earth tones, silver ornaments, leather sandals
+    position: Standing observantly, carrying ritual coca leaves
+    action: Surveying desert landscape with ancestral knowledge
   scene:
-    mainElements: Sparse vegetation adapted to extreme drought with specialized root systems and waxy surfaces for water retention,
-      minimal leaf structures to reduce evaporation, crystalline salt formations creating otherworldly geometric patterns
-    details: Desert-adapted plant life showing remarkable survival mechanisms including specialized root systems reaching
-      deep underground, waxy surfaces on remaining vegetation preventing water loss, minimal leaf structures evolved to reduce
-      evaporation, salt formations and mineral deposits creating geometric patterns where ancient lake beds once existed,
-      complete absence of surface water with dry riverbeds showing 200+ years without flow
-    background: Vast Atacama landscape showing geological time made visible through extreme preservation, mountain barriers
-      continuing to create rain shadow effect, otherworldly beauty of completely waterless environment
-    atmosphere: Otherworldly beauty created by complete absence of water for two centuries, geological time made visible through
-      extreme preservation conditions, remarkable adaptation of life to impossible conditions, silence of environment where
-      no water has fallen for 200 years, no text or letters visible
+    mainElements: Adobe buildings, precious water wells, sparse vegetation, mining infrastructure
+    details: Dramatically reduced water spring now barely a trickle. Deep stone-lined cisterns for water conservation. Shriveled
+      vegetation and failed crop terraces. Abandoned sections of settlement with collapsed adobe walls. Increased mining activity
+      to trade for imported water. Underground storage chambers filled with emergency supplies. Salt-preserved foods hanging
+      in shadows. Elaborate water rationing systems with marked containers.
+    background: Intensified barren landscape, increased dust accumulation, more pronounced erosion
+    atmosphere: Growing desperation, resourceful adaptation, community cooperation for survival
   composition:
-    cameraAngle: Close-up shot showing detailed plant adaptations and salt formations
-    focus: Specialized vegetation and mineral formations showing long-term drought effects
-    depth: Foreground shows detailed plant adaptations, middle shows salt crystal formations, background shows vast drought-affected
-      landscape
+    cameraAngle: Medium wide shot showing environmental changes
+    focus: Indigenous leader adapting traditional knowledge to unprecedented drought conditions
+    depth: Foreground shows character examining dwindling water sources, middle ground reveals adapted settlement infrastructure,
+      background demonstrates increasing desolation, no text or letters visible
 visualElements:
   colorPalette:
     primary:

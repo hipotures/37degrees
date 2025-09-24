@@ -1,28 +1,22 @@
 sceneDescription:
   setting:
-    time: 1800, after 230 years of drought
-    location: Andes Mountains and Chilean Coast Range surrounding Atacama Desert
-    weather: Clear skies, moisture-blocking mountain systems preventing any rainfall
+    time: 1770, late afternoon, desert wind
+    location: Vast desert plain between coastal range and Andes Mountains, northern Chile, Earth's driest location
+    weather: Hyperarid conditions, dust storms, extreme temperature swings
   characters: No characters present in this scene
   scene:
-    mainElements: High mountain peaks creating rain shadow effect blocking moisture from Pacific and Atlantic, dramatic elevation
-      changes between desert floor and surrounding mountain barriers, Andes Mountains and Chilean Coast Range acting as natural
-      fortress preventing rainfall
-    details: Two-sided rain shadow effect created by coastal mountains blocking Pacific moisture and Andes preventing Atlantic
-      weather systems, dramatic geological formations showing how mountain barriers create driest conditions on Earth, snow-capped
-      peaks holding moisture that never reaches desert floor, elevation changes of thousands of feet creating impenetrable
-      barrier to precipitation, geological evidence of long-term climate patterns
-    background: Pacific Ocean visible in distance but completely cut off from desert by coastal mountain range, vast Atacama
-      Desert floor receiving no moisture despite proximity to ocean, continental weather patterns blocked by massive mountain
-      systems
-    atmosphere: Natural forces creating most extreme drought conditions on Earth, geological barriers that have prevented
-      rainfall for over two centuries, dramatic demonstration of how topography controls climate, isolation of desert from
-      all moisture sources, no text or letters visible
+    mainElements: Salt-encrusted flats, wind-carved rocks, ancient dry lake beds, minimal topography
+    details: Completely desiccated landscape after 200 years of drought. Massive salt crystal formations where ancient lakes
+      evaporated. Rock surfaces polished smooth by constant wind erosion. Tiny, hardened seeds preserved in hyperarid soil
+      waiting for rain. Buried remnants of earlier settlements under accumulated sand and salt. Microscopic organisms retreated
+      into crystalline rock structures. Extensive network of underground root systems in dormancy state.
+    background: Mars-like terrain with extreme geological formations shaped by two centuries of hyperaridity
+    atmosphere: Absolute silence, otherworldly desolation, suspended animation of entire ecosystem
   composition:
-    cameraAngle: Wide dramatic shot showing mountain barriers and rain shadow effect
-    focus: Mountain systems blocking moisture from reaching desert
-    depth: Foreground shows detailed mountain barriers, middle shows elevation changes, background shows blocked moisture
-      sources and isolated desert
+    cameraAngle: Low angle ground-level shot emphasizing harsh terrain
+    focus: Dormant seeds and endolithic microbes surviving impossible conditions
+    depth: Foreground reveals close-up of hardened soil containing dormant life, middle ground shows vast salt flats, background
+      features distant mountains under relentless sky, no text or letters visible
 visualElements:
   colorPalette:
     primary:

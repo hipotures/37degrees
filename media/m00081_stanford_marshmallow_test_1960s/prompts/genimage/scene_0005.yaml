@@ -1,32 +1,29 @@
 sceneDescription:
   setting:
-    time: 1968, afternoon, controlled room lighting
-    location: Small, sparse testing room at Stanford University's Bing Nursery School
-    weather: Indoor controlled environment
+    time: 1970, during experiment session
+    location: Small windowless room approximately 10x10 feet inside Bing Nursery School, deliberately empty of distractions
+    weather: Controlled indoor environment with consistent soft lighting
   characters:
-  - appearance: Caucasian man, 40s, slender build, dark hair, thoughtful eyes, intellectual appearance
-    clothing: '1960s academic attire: brown tweed jacket with elbow patches, white dress shirt, dark tie, dress pants'
-    position: Crouching beside child's chair at eye level
-    action: 'Explaining the choice: eat one marshmallow now or wait for second marshmallow, demonstrating bell that calls
-      him back'
-  - appearance: 4-year-old child, mixed ethnicity, curious expression, small build typical of preschooler
-    clothing: '1960s children''s clothing: simple dress or shirt and shorts, small shoes'
-    position: Sitting in child-sized chair, looking between researcher and marshmallow
-    action: Listening intently to instructions, eyes moving between marshmallow and researcher's face, beginning to understand
-      the choice
+  - appearance: 4-year-old child, various ethnicities, focused expression, small hands folded or covering eyes
+    clothing: Late 1960s children's clothing - simple dresses for girls, short pants and button shirts for boys
+    position: Seated at small table in testing room
+    action: Staring intently at marshmallow, hands clasped together, beginning the 15-minute waiting period challenge
   scene:
-    mainElements: Critical moment of explanation, researcher and child in close interaction, marshmallow as focal point of
-      decision
-    details: Single white marshmallow on plate directly in front of child, small hand bell within reach, researcher's gentle
-      but clear explanation of rules, child's growing comprehension of the choice
-    background: Sparse room designed to minimize distractions, plain walls, closed door, clinical but non-threatening environment
-    atmosphere: Pivotal moment in psychological research, simple choice that will reveal profound insights about human nature
-      and self-control, no text or letters visible
+    mainElements: One low table, two child-sized chairs, one-way observation mirror, bell for child to ring, single marshmallow
+      on plate
+    details: Standard white marshmallow, approximately 1 inch diameter, soft and puffy texture, placed on small white ceramic
+      plate, representing immediate gratification choice. Small hand bell, brass or silver-colored metal positioned within
+      child's reach. Child sitting perfectly still, eyes fixed on the treat, internal struggle between immediate desire and
+      delayed reward beginning
+    background: Large rectangular mirror approximately 4x6 feet showing child's reflection, neutral walls, controlled lighting
+      creating clinical research environment
+    atmosphere: Intense psychological tension, child's internal battle between impulse and self-control beginning, silent
+      room amplifying the significance of the moment, timer counting down the crucial 15 minutes, no text or letters visible
   composition:
-    cameraAngle: Close-up shot focusing on interaction
-    focus: Researcher explaining rules to attentive child, marshmallow prominent in frame
-    depth: 'Foreground: marshmallow and child''s hands, middle: researcher and child interaction, background: minimal room
-      details'
+    cameraAngle: Close-up shot focusing on child's face and the marshmallow
+    focus: Child's intense concentration on the marshmallow with visible internal conflict
+    depth: Foreground shows marshmallow on plate, middle ground features child's concentrated expression, background displays
+      one-way mirror and neutral testing environment
 visualElements:
   colorPalette:
     primary:

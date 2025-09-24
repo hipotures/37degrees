@@ -1,31 +1,30 @@
 sceneDescription:
   setting:
-    time: 1947, morning
-    location: Small workshop or garage space, Germany, late 1940s
-    weather: Indoor setting, morning light
+    time: Summer 1945, morning
+    location: Improvised leather workshop, post-war Germany
+    weather: Clear summer morning
   characters:
-  - appearance: Caucasian man, 25 years old, athletic build, dark brown hair, focused expression
-    clothing: German army uniform with medical insignia, or white doctor's coat, dark trousers
-    position: Seated at workbench focusing on boot assembly
-    action: Carefully stitching air-cushioned sole to leather upper using specialized technique
-  - appearance: Caucasian man, late 20s, stocky build, light brown hair, engineering background visible in mannerisms
-    clothing: Workshop attire, suspenders over white shirt, dark work trousers
-    position: Standing beside him holding completed sole component
-    action: Assisting with technical assembly, ensuring proper air seal integration
+  - appearance: 25 years old German man, medium build, typical military bearing, regulation short hair and clean-shaven face
+      as per Wehrmacht standards
+    clothing: German army uniform during service, civilian medical attire post-war, simple work clothes during invention period
+    position: Army doctor position, later working at medical practice and workshop
+    action: Medical work, boot experimentation, innovative problem-solving activities
   scene:
-    mainElements: Workbench, tools, automobile tire pieces, experimental materials
-    details: Brown leather boot with air-cushioned sole, comfortable design, practical construction taking shape on workbench.
-      Specialized stitching tools, heat-sealing equipment, leather working materials scattered around. The revolutionary two-layer
-      sole system being carefully assembled, with visible air pocket construction. Technical precision meeting medical innovation,
-      partnership creating breakthrough footwear technology, no text or letters visible
-    background: Workshop environment with leather working tools, technical drawings, morning sunlight illuminating the innovative
-      work
-    atmosphere: Methodical craftsmanship, breakthrough innovation taking physical form
+    mainElements: Workshop setup with leather working tools, completed prototype boot, air-cushioned sole components
+    details: Crude but effective rubber tire pieces inserted into boot sole, improvised air chambers, salvaged tire rubber,
+      hand-crafted modifications to existing military boot. Doctor holding completed prototype boot, examining the revolutionary
+      air-cushioned sole, comparing it to standard army boot nearby, workbench covered with leather scraps and rubber pieces,
+      satisfied expression while testing sole flexibility, tools organized neatly, natural light illuminating the innovation,
+      no text or letters visible
+    background: Simple workshop space with windows showing German countryside, leather working tools on walls, completed and
+      partial boots on shelves
+    atmosphere: Achievement and innovation, breakthrough moment, pride in problem-solving, medical precision applied to footwear
+      design
   composition:
-    cameraAngle: Close-up shot focusing on the boot assembly process
-    focus: First prototype boot with revolutionary sole being carefully constructed
-    depth: Foreground shows detailed assembly work, middle ground captures collaborative effort, background displays workshop
-      craftsmanship environment
+    cameraAngle: Close-up shot emphasizing the revolutionary sole design
+    focus: Hands holding prototype boot, highlighting air-cushioned sole innovation
+    depth: Foreground shows detailed boot construction, middle ground shows inventor's satisfaction, background shows workshop
+      environment
 visualElements:
   colorPalette:
     primary:

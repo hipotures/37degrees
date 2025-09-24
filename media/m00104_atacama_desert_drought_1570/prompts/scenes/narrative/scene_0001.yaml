@@ -1,16 +1,16 @@
 sceneDescription:
-  title: "The Driest Place on Earth - Establishing the Atacama"
+  title: "Atacama Hyperarid Core - Earth's Driest Landscape"
   setting:
-    time: "1570, early morning desert sunrise"
-    location: "Central Atacama Desert, Chile, between Andes Mountains and Pacific Ocean"
-    weather: "Clear cloudless sky, beginning of 400-year drought period"
+    time: "1570, midday, intense desert sun"
+    location: "Vast desert plain between coastal range and Andes Mountains, northern Chile, Earth's driest location"
+    weather: "Bone-dry air, intense UV radiation, cloudless sky"
   characters: "No characters present in this scene"
   scene:
-    mainElements: "Lunar-like landscape with rugged canyons, salt formations, vast sand dunes, minimal vegetation stretching endlessly across Chilean plateau, high mountain peaks creating rain shadow effect blocking moisture from Pacific and Atlantic"
-    details: "Crystalline salt formations and mineral deposits creating geometric patterns in dried lake beds, sparse vegetation adapted to extreme drought with specialized root systems and waxy surfaces for water retention, dry riverbeds showing evidence of long-term absence of water flow, dramatic elevation changes between desert floor and surrounding mountain barriers"
-    background: "Andes Mountains and Chilean Coast Range surrounding desert creating natural fortress preventing rainfall, Pacific Ocean visible in far distance but moisture blocked by coastal mountains"
-    atmosphere: "Extreme aridity beginning historic 400-year period without rainfall, scorching daytime heat contrasting with potential for freezing nights, complete silence of waterless environment, pristine clear skies showing beginning of longest drought in recorded history, no text or letters visible"
+    mainElements: "Salt-encrusted flats, wind-carved rocks, ancient dry lake beds, minimal topography"
+    details: "Endless expanse of barren terrain stretching to horizon. Crystalline salt formations scattered across hardpan surface. Weathered volcanic rocks carved into bizarre shapes by centuries of wind erosion. Ancient dried riverbeds marked by cracked mud patterns. Temperature shimmer rising from superheated ground. Complete absence of vegetation or visible water sources."
+    background: "Towering Andes Mountains creating dramatic backdrop against cloudless sky, distant volcanic peaks"
+    atmosphere: "Bone-dry air, intense UV radiation, complete silence, Mars-like landscape"
   composition:
-    cameraAngle: "Wide aerial establishing shot showing vast scope of desert landscape"
-    focus: "Endless expanse of arid terrain with mountain barriers visible"
-    depth: "Foreground shows detailed salt formations and minimal vegetation, middle shows vast desert expanse, background shows mountain ranges blocking moisture"
+    cameraAngle: "Wide aerial establishing shot from elevated position"
+    focus: "Vast hyperarid landscape demonstrating extreme desolation and scale"
+    depth: "Foreground shows detailed salt formations and rock textures, middle ground reveals endless desert plain, background features distant mountain ranges, no text or letters visible"

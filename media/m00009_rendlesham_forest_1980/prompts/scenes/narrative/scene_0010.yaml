@@ -1,20 +1,16 @@
 sceneDescription:
-  title: "Official Documentation - Investigation Report Completion"
+  title: "Lighthouse Perspective - Alternative Explanation"
   setting:
-    time: "January 13, 1981, daytime"
-    location: "RAF Woodbridge base commander's office, Suffolk, England"
-    weather: "Clear winter day, indoor office environment"
-  characters:
-    - appearance: "Caucasian man, 41 years old, military bearing, authoritative presence, focused concentration"
-      clothing: "U.S. Air Force dress uniform - blue service dress with ribbons and rank insignia, perfectly pressed and regulation appearance"
-      position: "Seated at military desk in formal office posture"
-      action: "Completing official military documentation of unexplained events for Ministry of Defence submission"
+    time: "December 1980, night"
+    location: "Orfordness Lighthouse on Suffolk coast, 5 miles east of Rendlesham Forest, England"
+    weather: "Cold December night with fog, typical East Anglia winter conditions"
+  characters: "No characters present in this scene"
   scene:
-    mainElements: "Military office environment with regulation furniture, official documents, and communication equipment. Senior officer completing formal investigation report."
-    details: "Standard military office with metal desk, official filing cabinets, wall-mounted military insignia and organizational charts. Multiple official forms and documents arranged on desk surface. Handheld cassette tape recorder with red recording light, used for documenting investigation, metal and plastic construction typical of 1980 portable recording devices positioned nearby as reference material. Military telephone for official communication. Window showing winter daylight outside base facilities."
-    background: "Professional military office environment with American and Air Force flags, formal portraits, and official correspondence filing systems"
-    atmosphere: "Official military administrative environment with formal documentation procedures, serious governmental reporting process culminating weeks of investigation, no text or letters visible"
+    mainElements: "White lighthouse tower, powerful rotating beacon, coastal landscape, beam sweeping across countryside"
+    details: "One of UK's brightest lighthouses, powerful rotating beacon with 5-second flash interval, lighthouse beam sweeping across Suffolk countryside toward Rendlesham Forest area, coastal location with rocky shore, automated lighthouse operation, navigation equipment, beacon visible for miles across flat East Anglia landscape, no text or letters visible"
+    background: "Suffolk coastal landscape, North Sea waters, distant view toward Rendlesham Forest area, other coastal features and navigation markers"
+    atmosphere: "Bright flashing light visible for miles, 5-second flash interval, one of UK's brightest lighthouses, providing potential explanation for some reported unusual lights, cold December coastal environment with fog affecting visibility"
   composition:
-    cameraAngle: "Medium shot from across desk showing officer at work with documents"
-    focus: "Senior officer completing official paperwork with investigation materials nearby"
-    depth: "Foreground: official documents and reference materials. Middle: officer at desk completing report. Background: formal military office appointments and insignia"
+    cameraAngle: "Wide shot from distance showing lighthouse beam sweeping toward forest area"
+    focus: "Powerful lighthouse beacon demonstrating potential source of some reported lights in Rendlesham Forest incident"
+    depth: "Foreground shows coastal landscape, middle ground displays lighthouse with active beacon, background reveals beam extending across countryside toward forest area"

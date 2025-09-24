@@ -1,25 +1,25 @@
 sceneDescription:
   setting:
-    time: June 15, 1859, morning
-    location: Vegetable garden on frontier farm, San Juan Island
-    weather: Clear morning after overnight rain
-  characters:
-  - appearance: American man, 40s, weathered face from frontier life, brown beard, stocky farmer build
-    clothing: Rough wool shirt, canvas trousers, wide-brimmed hat, leather boots caked with mud
-    position: Standing in damaged garden holding rifle
-    action: Looking down at shot pig with mix of frustration and regret
+    time: June 15, 1859, afternoon
+    location: 160-acre American homestead claim with small cabin and vegetable garden adjacent to Belle Vue Farm
+    weather: Warm afternoon with clear skies
+  characters: No characters present in this scene
   scene:
-    mainElements: Vegetable garden with torn earth, uprooted potato plants, pig damage visible
-    details: Vegetable garden showing obvious destruction with dug-up earth, scattered potato tubers, trampled plants, muddy
-      hoofprints throughout garden beds, Large black pig lying still in garden, rifle barrel still smoking, farming tools
-      scattered where dropped in haste
-    background: Log cabin and split-rail fences of homestead, forest edge beyond cleared land, peaceful morning sky
-    atmosphere: Moment of fatal decision that will escalate into international incident, frontier justice meeting international
-      law, simple property dispute becoming historical catalyst, no text or letters visible
+    mainElements: Log cabin, poorly fenced potato garden, cleared land, farming tools, frontier improvements
+    details: Large black Berkshire boar, breeding quality, substantial size for valuable breeding stock rooting through the
+      homesteader's potato garden. The pig has broken through the inadequate wooden fence, with posts knocked askew and rails
+      scattered. Potato plants are uprooted and scattered, their green leaves wilting in the sun. The boar's snout is covered
+      in dirt as it continues to root through the destroyed vegetable patch. Farming tools lie abandoned nearby - a hoe and
+      bucket dropped in haste. The scene shows the exact moment that would trigger an international crisis.
+    background: Log cabin with stone chimney, cleared farmland extending toward the forest, Belle Vue Farm buildings visible
+      in the distance
+    atmosphere: Modest frontier homestead, isolated but determined settlement, smell of wood smoke and tilled earth, agricultural
+      disaster unfolding, no text or letters visible
   composition:
-    cameraAngle: Medium shot focusing on garden destruction and consequences
-    focus: Destroyed garden and the pig that caused international crisis
-    depth: Farmer and damaged garden in foreground, homestead buildings in middle ground, island forest in background
+    cameraAngle: Close-up shot focusing on the destructive boar in the ruined garden
+    focus: The large Berkshire boar causing the destruction that would lead to military confrontation
+    depth: Foreground shows the pig and destroyed potato plants, middle ground reveals the broken fence and scattered tools,
+      background shows the homestead cabin and distant farm
 visualElements:
   colorPalette:
     primary:

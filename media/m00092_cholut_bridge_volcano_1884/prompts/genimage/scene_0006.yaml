@@ -1,31 +1,35 @@
 sceneDescription:
   setting:
-    time: 1884, late afternoon
-    location: Lower volcanic slopes of Mount Merapi, Central Java, Indonesia
-    weather: Clear with volcanic gases and occasional ash plumes
+    time: August 1884, late morning tropical construction time
+    location: Steep volcanic valley with rocky terrain, crossed by seasonal volcanic drainage channel near Mount Merapi slopes
+    weather: Hot tropical temperatures with increasing volcanic activity creating atmospheric haze
   characters:
-  - appearance: Local Javanese guide, 30s, lean athletic build, dark skin tanned by sun, keen intelligent eyes, quick movements
-    clothing: Simple brown cotton shirt, traditional batik sarong, woven sandals, conical bamboo hat
-    position: Standing on volcanic rock outcrop pointing toward steam vents
-    action: Explaining volcanic activity patterns and showing safe routes for future bridge maintenance access
-  - appearance: Dutch engineer, 40s, tall sturdy build, weathered face from tropical climate, brown hair with receding hairline,
-      wire-rim spectacles
-    clothing: White colonial linen shirt with rolled sleeves, brown canvas trousers, leather work boots, pith helmet nearby
-    position: Following guide up volcanic slope with notebook in hand
-    action: Recording observations about volcanic debris flow patterns and potential threats to bridge location
+  - appearance: 45-year-old Dutch man, medium build, graying beard, weathered face from tropical sun exposure
+    clothing: White colonial linen shirt, dark trousers, wide-brimmed hat, leather boots suitable for volcanic terrain
+    position: Standing on completed foundation pier directing span construction
+    action: Methodically overseeing placement of bridge deck elements while ensuring proper elevation for flow passage underneath
+  - appearance: 32-year-old Dutch man, tall and lean, meticulous appearance, wire-rimmed spectacles
+    clothing: Colonial survey uniform, khaki shirt and trousers, survey equipment belt, sturdy walking boots
+    position: Measuring exact elevations of bridge deck installation
+    action: Taking precise measurements to ensure optimal clearance height for volcanic debris flow passage
   scene:
-    mainElements: Hardened lava flows, volcanic rock formations, sparse vegetation, steam vents, ash-covered terrain
-    details: Dark volcanic stone samples of various sizes, some polished to show internal structure, labeled with location
-      markers, steam rising from ground fissures, evidence of past lava flows, scattered volcanic debris showing flow patterns
-    background: Ominous volcanic presence with occasional rumbling, sulfurous air, dramatic lighting from volcanic activity,
-      Mount Merapi peak with active crater visible
-    atmosphere: Sense of natural power and danger, understanding the volcanic forces that bridge must withstand, respect for
-      local knowledge of mountain behavior
+    mainElements: Bridge span construction showing elevated design allowing volcanic flow passage underneath, wooden deck
+      planking being installed on stone foundations, construction scaffolding supporting assembly work. Stone bridge foundations
+      completed with iron reinforcement bands, elevated span design creating deliberate clearance for flow passage
+    details: Bridge deck assembly in progress with precise elevation measurements, wooden planking secured to stone foundations,
+      construction equipment including pulleys and scaffolding, iron reinforcement elements being integrated, clearance space
+      deliberately maintained underneath for volcanic flow passage, surveying tools monitoring construction accuracy
+    background: Mount Merapi showing increased steam and occasional ash emissions, completed lava diversion channels visible
+      alongside construction site, tropical vegetation surrounding engineering work area
+    atmosphere: Major construction milestone achievement despite challenging volcanic environment, sounds of hammering and
+      construction assembly, increasing volcanic activity adding urgency to completion, tropical heat making work demanding,
+      no text or letters visible
   composition:
-    cameraAngle: Medium shot from volcanic slope showing both figures against mountain backdrop
-    focus: Guide explaining volcanic patterns with engineer taking detailed notes
-    depth: Volcanic terrain features in foreground, characters studying environment in middle ground, Mount Merapi crater
-      in background, no text or letters visible
+    cameraAngle: Side angle showing bridge span construction with clear view of elevated design and flow clearance underneath
+    focus: Bridge assembly work highlighting innovative elevated design that allows volcanic flows to pass harmlessly beneath
+      structure
+    depth: Foreground shows detailed construction work and precision measurements, middle ground reveals complete bridge span
+      taking shape across valley, background displays volcanic mountain justifying the innovative elevated engineering approach
 visualElements:
   colorPalette:
     primary:

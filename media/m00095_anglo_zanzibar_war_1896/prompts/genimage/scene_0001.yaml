@@ -1,26 +1,28 @@
 sceneDescription:
   setting:
-    time: August 27, 1896, early morning
-    location: Zanzibar Harbor facing Stone Town waterfront, Zanzibar Island
-    weather: Clear tropical morning with gentle ocean breeze
+    time: August 25, 1896, 11:40 AM
+    location: Three-story white limestone palace on Mizingani Road waterfront, Stone Town, Zanzibar
+    weather: Hot humid tropical morning, clear skies
   characters:
-  - appearance: Arab man, 29 years old, olive skin, dark beard, intense determined eyes, medium build
-    clothing: Traditional Omani white thobe with ornate ceremonial belt, ceremonial curved dagger at waist
-    position: Standing on palace balcony overlooking harbor
-    action: Gazing at British warships with defiant expression, hands gripping balcony railing
+  - appearance: Age 36 at death, slender build, refined features, well-groomed dark beard, pale complexion in final days
+    clothing: Traditional Sultan's white robes with gold threading, royal turban, ceremonial jewelry
+    position: Lying motionless on ornate bed with carved posts
+    action: Sudden death at age 36, peaceful expression but suspicious circumstances
   scene:
-    mainElements: Deep blue harbor waters with traditional dhow boats and British warships anchored in formation against backdrop
-      of coral stone buildings
-    details: Five gray steel British warships positioned strategically in harbor, smoke rising from their stacks, traditional
-      Arab dhows scattered between them, Stone Town's white and cream buildings climbing hillside behind waterfront, palace
-      complex visible on right side
-    background: Tropical morning sky with scattered clouds, distant horizon where ocean meets sky, seabirds circling overhead
-    atmosphere: Tense anticipation of impending conflict, tropical paradise about to become battlefield, contrast between
-      peaceful morning and military presence, no text or letters visible
+    mainElements: Castellated battlements, coral stone walls, marble floors, ornate arched windows, covered passages to adjacent
+      buildings, central courtyard with fountain
+    details: Royal bedchamber with silk curtains, Persian carpets, incense burning in golden holders, concerned servants gathered
+      at respectful distance, traditional Omani architecture with Islamic geometric patterns, ceremonial objects on carved
+      wooden tables, humid tropical heat visible through open windows overlooking harbor
+    background: Stone Town waterfront visible through palace windows, dhow sailing boats in harbor, spice market activity
+      in distance
+    atmosphere: Humid tropical heat, scent of spices from nearby markets, sound of waves against the seawall, sudden grief
+      and political uncertainty, whispered conversations about succession, no text or letters visible
   composition:
-    cameraAngle: Wide establishing shot from palace balcony looking over harbor
-    focus: British naval fleet dominating the peaceful harbor
-    depth: Character on balcony in foreground, warships in middle distance, Stone Town rising from waterfront in background
+    cameraAngle: Medium shot from foot of bed looking toward palace windows
+    focus: Deceased Sultan on ornate bed, palace architecture, concerned faces of servants
+    depth: 'Foreground: ornate bed and Sultan, middle: gathered servants and ceremonial objects, background: Stone Town harbor
+      through windows'
 visualElements:
   colorPalette:
     primary:

@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Structural Failure - Bridge Tears Apart"
+  setting:
+    time: "November 7, 1940, 11:00 AM"
+    location: "Tacoma Narrows Bridge center span during collapse"
+    weather: "Continuing wind as bridge reaches failure point"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Bridge deck tearing apart under torsional stress, structural elements failing catastrophically"
+    details: "Concrete roadway cracking and breaking apart from twisting forces, steel framework snapping under oscillation stress, suspension cables beginning to fail under extreme loading, bridge deck sections separating and falling toward Puget Sound, engineering structure experiencing complete failure"
+    background: "Puget Sound waters ready to receive falling debris, Pacific Northwest shoreline with horrified spectators, dramatic sky over engineering catastrophe"
+    atmosphere: "Complete structural failure of major engineering project, physics overcoming human engineering, devastating loss of infrastructure investment, historic engineering disaster unfolding, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing bridge structure disintegrating"
+    focus: "Catastrophic structural failure of suspension bridge"
+    depth: "Collapsing bridge sections in foreground, Puget Sound waters in middle ground, shocked spectators on shore in background"

@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: November 7, 1940, late morning
+    location: Tacoma Narrows Bridge roadway during violent oscillation
+    weather: Strong winds causing extreme bridge movement
+  characters:
+  - appearance: American man, 35, newspaper reporter appearance, concerned expression, medium build
+    clothing: 1940s business suit with press hat, carrying briefcase and notepad
+    position: Running from abandoned car toward shore
+    action: Urgent civilian behavior, fleeing dangerous bridge while looking back with alarm
+  scene:
+    mainElements: Narrow bridge deck with center line, suspension cables, roadway surface tilting dramatically
+    details: 1940s sedan left on bridge during collapse, tilting with roadway movement, bridge deck twisting violently with
+      roadway halves moving in opposite directions, concrete cracking audibly, suspension cables vibrating with dangerous
+      oscillation, impossible driving conditions
+    background: Puget Sound waters far below, Pacific Northwest shores offering safety, approaching spectators gathering to
+      watch disaster
+    atmosphere: Engineering marvel becoming death trap, individual human drama in face of structural failure, desperate escape
+      from collapsing infrastructure, last moments of bridge integrity, no text or letters visible
+  composition:
+    cameraAngle: Dynamic shot showing person fleeing violently moving bridge
+    focus: Human drama of escape from engineering disaster
+    depth: Fleeing person and abandoned car in foreground, twisted bridge structure in middle ground, safety of shoreline
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

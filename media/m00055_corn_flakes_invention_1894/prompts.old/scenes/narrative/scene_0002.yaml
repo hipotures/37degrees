@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Sanitarium dining hall healthy meal service"
+  setting:
+    time: "1894, morning breakfast hour"
+    location: "Dining hall at Battle Creek Sanitarium, Michigan, large room with multiple tables"
+    weather: "Bright morning sunlight streaming through windows"
+  characters:
+    - appearance: "Middle-aged person, pale complexion, thin build, wearing simple light-colored clothing"
+      clothing: "Plain white or light gray loose-fitting garments typical of health institution patients"
+      position: "Seated at dining table, looking expectantly at the meal being served"
+      action: "Examining the simple vegetarian breakfast being placed before them"
+    - appearance: "Caucasian man, 40s, tall and lean build, intense dark eyes, full dark beard, stern expression"
+      clothing: "1890s white medical coat over dark suit, or formal black suit with white shirt and bow tie"
+      position: "Walking between tables, observing meal service"
+      action: "Supervising the breakfast service and ensuring dietary principles are followed"
+  scene:
+    mainElements: "Long wooden tables with chairs, white tablecloths, large windows providing natural light, simple vegetarian meals on plates"
+    details: "Patients seated at multiple tables, plain bowls and cups, simple wholesome food portions, no elaborate dishes, institutional but clean dining furniture, no text or letters visible"
+    background: "Large windows showing sanitarium grounds, other dining tables filled with patients"
+    atmosphere: "Quiet, orderly meal service atmosphere focused on healthy eating principles, sense of medical supervision of nutrition"
+  composition:
+    cameraAngle: "Medium shot from dining room floor level"
+    focus: "Patient examining food with medical director observing"
+    depth: "Foreground shows main characters, middle ground shows other dining tables, background shows windows and grounds"

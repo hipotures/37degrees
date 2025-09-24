@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The miraculous healing with character_DA's relics"
+  setting:
+    time: "1562, dawn"
+    location: "Prince's sickroom with ornate religious shrine containing preserved saint's body"
+    weather: "Clear morning with golden sunlight streaming through windows"
+  characters:
+    - appearance: "Spanish prince, 17 years old, pale from illness, bandaged head, weak but recovering"
+      clothing: "White nightgown or simple court attire, blankets when bedridden"
+      position: "Lying in bed, eyes flutter open, color returning to cheeks"
+      action: "Slowly awakening, touching his bandaged head in wonder, attempting to sit up"
+    - appearance: "Spanish king, 40s, pale complexion, dark hair, penetrating gaze, regal bearing"
+      clothing: "Black velvet doublet with gold embroidery, white ruff collar, dark cape with royal insignia"
+      position: "Standing beside ornate glass reliquary case"
+      action: "Touching the glass case reverently, tears of gratitude in his eyes"
+  scene:
+    mainElements: "Glass reliquary case containing the preserved body of Franciscan monk character_DA positioned near the prince's bedside"
+    details: "Preserved body of character_DA in ornate glass case, silver cross, prayer books, blessed oils, religious medallions surrounding the shrine. Golden morning light illuminates the miraculous scene as the prince shows signs of recovery. Fresh flowers and burning incense create an atmosphere of divine intervention. The king's face shows overwhelming relief and wonder"
+    background: "Religious paintings depicting saints and miracles line the walls, while tall windows allow dawn light to flood the chamber"
+    atmosphere: "Divine miracle unfolds as death retreats and life returns, filling the chamber with sacred awe and royal gratitude for heavenly intervention"
+  composition:
+    cameraAngle: "Wide shot capturing both the recovering prince and the holy relics"
+    focus: "The awakening prince and the reliquary case with the king's reverent gesture"
+    depth: "Foreground: ornate reliquary with preserved saint; middle: recovering prince and grateful king; background: religious artwork and bright windows, no text or letters visible"

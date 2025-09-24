@@ -1,0 +1,61 @@
+styleName: Toei Animation Classic Style
+description: 1960s-1970s Japanese animation with bold outlines, limited animation, and dynamic action
+aiPrompts:
+  basePrompt: toei animation classic style, 1970s anime, vintage japanese animation, dragon ball style, mazinger z style, limited animation technique
+  negativePrompt: modern anime, CGI, photorealistic, western animation, high frame rate
+  styleKeywords:
+  - toei classic
+  - 1970s anime
+  - vintage anime
+  - limited animation
+  - dragon ball
+  - mazinger z
+visualElements:
+  colorPalette:
+    primary:
+    - bright primary colors
+    - vibrant reds and blues
+    - bold yellows
+    secondary:
+    - deep shadows
+    - metallic silvers
+    - energy effect colors
+    background: painted watercolor backgrounds
+    usageNotes: Flat cel colors with minimal gradients
+    saturation: high vintage saturation
+    contrast: strong contrast with bold shadows
+  lineArt:
+    style: bold black outlines
+    weight: thick confident lines
+    color: '#000000'
+    texture: clean cel animation lines
+    edgeTreatment: crisp and defined
+  lighting:
+    type: flat cel shading
+    direction: simple top lighting
+    intensity: high contrast
+    shadows:
+      style: solid cel shadows
+      color: darker base colors
+      opacity: solid blocks
+    highlights: simple white highlights
+  rendering:
+    technique: traditional cel animation
+    texture: smooth cel surfaces
+    detailLevel: simplified for efficiency
+    finish: vintage film quality
+  perspective: dynamic action angles
+  mood:
+    overall: energetic, action-packed, heroic
+    emotion: intense battle emotions
+    tempo: fast action with held frames
+    keywords:
+    - dynamic
+    - heroic
+    - action-packed
+    - vintage
+    - intense
+  stylePrecedents:
+  - Dragon Ball original series
+  - Mazinger Z
+  - Galaxy Express 999

@@ -1,25 +1,29 @@
 sceneDescription:
   setting:
-    time: 1940, spring
-    location: Completed Tacoma Narrows Bridge during normal traffic
-    weather: Breezy spring day with moderate winds
+    time: August 1940, afternoon
+    location: Tacoma Narrows suspension bridge deck during moderate winds
+    weather: Partly cloudy with steady 25 mph winds from southwest
   characters:
-  - appearance: American man, 30s, construction worker build, weathered hands, experienced expression
-    clothing: 1940s work clothes with hard hat, tool belt, sturdy boots
-    position: Standing on bridge deck observing unusual movement
-    action: Industrial worker stance, pointing at bridge movement with growing concern
+  - appearance: 40s well-groomed man with dark hair, average build, expressive face capable of conveying emotion
+    clothing: 1940s brown suit, white shirt, patterned tie, leather shoes, overcoat for November weather
+    position: Gripping steering wheel of 1940s automobile while driving across undulating bridge
+    action: Articulate newspaper editor with composed demeanor despite traumatic experience
   scene:
-    mainElements: Narrow 39-foot-wide roadway with shallow 8-foot plate girders showing visible vertical movement
-    details: Bridge deck visibly rising and falling in wave-like motion even in moderate winds, Massive steel suspension cables
-      and vertical hangers supporting bridge deck oscillating, cars driving across moving roadway surface, center line markings
-      visible on undulating deck, bridge structure exhibiting concerning flexibility
-    background: Puget Sound waters below with normal maritime traffic, Pacific Northwest shoreline with forests and hills
-    atmosphere: Engineering marvel becoming source of concern, unusual bridge behavior becoming notorious, construction workers
-      recognizing dangerous design flaw, nickname 'Galloping Gertie' being earned, no text or letters visible
+    mainElements: Bridge deck visibly undulating in wave-like motion, creating rolling hills effect along roadway. Car bouncing
+      and swaying as it navigates the moving surface, other vehicles ahead and behind experiencing same unsettling motion.
+    details: Bridge surface rising and falling in dramatic 3-foot waves, side railings appearing to ripple like liquid metal.
+      Suspension cables vibrating visibly, tower tops swaying slightly. Driver's knuckles white on steering wheel as vehicle
+      tilts and rocks with bridge movement. Other motorists driving slowly and cautiously, some pulling over to wait for calmer
+      conditions. Motion creates queasy, carnival ride sensation.
+    background: Puget Sound water far below, forested hills on both sides, clouds moving rapidly overhead indicating strong
+      wind conditions
+    atmosphere: Unnerving carnival ride sensation as entire bridge moves like living creature, beauty mixed with growing unease
+      about structural behavior
   composition:
-    cameraAngle: Low angle shot emphasizing bridge movement and flexibility
-    focus: Unusual bridge oscillation that should have warned of disaster
-    depth: Moving bridge deck in foreground, Puget Sound below in middle ground, Pacific Northwest landscape in background
+    cameraAngle: Interior car shot through windshield showing undulating road ahead
+    focus: Wave-like motion of bridge deck and driver's concerned expression
+    depth: Dashboard and steering wheel in foreground, undulating roadway in middle ground, towers and landscape in background,
+      no text or letters visible
 visualElements:
   colorPalette:
     primary:

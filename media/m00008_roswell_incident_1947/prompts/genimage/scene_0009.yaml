@@ -1,29 +1,33 @@
 sceneDescription:
   setting:
-    time: July 9, 1947, night
-    location: Roswell Army Air Field runway, New Mexico
-    weather: Clear night, stars visible, cool desert air
+    time: July 8, 1947, late afternoon
+    location: General Ramey's office floor, Fort Worth Army Air Field, Texas
+    weather: Bright office lighting for press photography
   characters:
-  - appearance: Multiple military personnel silhouettes
-    clothing: Military uniforms, some in flight gear
-    position: Around C-54 transport aircraft
-    action: Loading sealed crates under floodlights, moving with urgency
-  - appearance: Armed guards, young men in uniform
-    clothing: Military police uniforms with white helmets, web belts
-    position: Perimeter positions around aircraft
-    action: Standing guard with rifles, scanning darkness
+  - appearance: 40-year-old Caucasian man, military bearing, clean-shaven, professional appearance, intelligent eyes
+    clothing: U.S. Army Air Forces officer uniform with major's insignia, peaked military cap, polished boots
+    position: Examining debris or speaking with other military personnel
+    action: Investigating materials methodically, taking notes, directing other officers
+  - appearance: Middle-aged Caucasian man, authoritative military bearing, stern expression, commanding presence
+    clothing: Full military dress uniform with brigadier general's star, ribbons and decorations, peaked cap
+    position: Standing behind desk or addressing press
+    action: Holding weather balloon debris, speaking confidently to reporters, controlling narrative
   scene:
-    mainElements: Military transport aircraft on runway at night, loading operation
-    details: C-54 Skymaster with cargo doors open, sealed wooden crates on dollies, portable floodlights creating harsh shadows,
-      red runway lights, control tower in distance with lit windows, fuel bowser nearby, guards with M1 rifles, exhaust from
-      idling engines, no text or letters visible
-    background: Dark airfield with distant hangar silhouettes, star-filled desert sky
-    atmosphere: Secretive night operation, high security, mysterious urgency, cold desert night
+    mainElements: Deflated weather balloon rubber, aluminum foil radar reflector pieces, wooden sticks from ML-307 radar target,
+      clearly deteriorated conventional materials spread on office floor for press demonstration
+    details: Character JM kneeling beside obviously conventional weather balloon debris while Character RR stands over him,
+      both posing for wire service photographers, dramatic contrast between this mundane material and the mysterious debris
+      from the ranch, Character JM's expression suggesting reluctant compliance with orders, bright flash photography capturing
+      the official substitute evidence, no text or letters visible
+    background: Military office with maps, filing cabinets, and official furnishings, photographers positioned for optimal
+      documentation
+    atmosphere: Orchestrated cover-up in progress, official substitution of conventional materials for unexplained debris,
+      tension between truth and official narrative
   composition:
-    cameraAngle: Low angle emphasizing drama
-    focus: Clandestine loading operation under floodlights
-    depth: Foreground shows guard silhouette, middle ground has loading activity in light pools, background shows dark aircraft
-      against starry sky
+    cameraAngle: Medium shot replicating famous wire service photograph angle
+    focus: Character JM examining weather balloon debris with Character RR supervising
+    depth: Foreground shows conventional debris on office floor, middle ground captures both officers' staged interaction,
+      background reveals formal military office setting
 visualElements:
   colorPalette:
     primary:

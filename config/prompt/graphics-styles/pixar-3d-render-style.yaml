@@ -1,0 +1,60 @@
+styleName: Pixar 3D Render Style
+description: Photorealistic 3D CGI animation style with emotional character design and cutting-edge rendering technology
+aiPrompts:
+  basePrompt: pixar 3d animation style, photorealistic CGI, renderman quality, pixar character design, sophisticated 3d lighting, cinematic animation
+  negativePrompt: 2D animation, flat imagery, hand-drawn, low quality 3D, amateur CGI
+  styleKeywords:
+  - pixar 3d
+  - photorealistic CGI
+  - renderman
+  - cinematic 3d
+  - emotional characters
+  - sophisticated rendering
+visualElements:
+  colorPalette:
+    primary:
+    - rich saturated colors
+    - warm character tones
+    - vibrant environments
+    secondary:
+    - subtle skin tones
+    - atmospheric colors
+    - accent highlights
+    background: detailed 3D environments with depth
+    usageNotes: Professional color grading with cinematic quality
+    saturation: rich and vibrant
+    contrast: cinematic contrast with depth
+  lineArt:
+    style: no lines - fully rendered 3D
+    weight: n/a - 3D rendering
+    texture: sophisticated material shaders
+    edgeTreatment: smooth 3D model edges
+  lighting:
+    type: global illumination with ray tracing
+    direction: cinematic three-point lighting
+    intensity: professional studio quality
+    shadows:
+      style: soft realistic shadows
+      color: complementary shadow tones
+      opacity: physically accurate
+    highlights: subsurface scattering on skin
+  rendering:
+    technique: high-end 3D CGI rendering
+    texture: photorealistic materials and surfaces
+    detailLevel: extremely detailed with individual hair strands
+    finish: polished cinematic quality
+  perspective: dynamic cinematic camera work
+  mood:
+    overall: emotional, appealing, cinematic
+    emotion: warm and engaging character expressions
+    tempo: smooth professional animation
+    keywords:
+    - emotional
+    - cinematic
+    - appealing
+    - sophisticated
+    - warm
+  stylePrecedents:
+  - Toy Story franchise
+  - Finding Nemo
+  - Inside Out

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Urgent call away from kitchen - the crucial interruption"
+  setting:
+    time: "1894, late evening"
+    location: "Battle Creek Sanitarium, Michigan, corridor outside medical office"
+    weather: "Clear night with gas lamp lighting"
+  characters:
+    - appearance: "Caucasian man, 40s, tall and lean build, intense dark eyes, full dark beard, stern expression"
+      clothing: "1890s white medical coat over dark suit, or formal black suit with white shirt and bow tie"
+      position: "In corridor, being approached by urgent messenger"
+      action: "Responding to urgent medical call, hastily putting on coat and preparing to leave"
+    - appearance: "Young adult, simple dark clothing, concerned expression"
+      clothing: "Plain dark work clothes, simple cap"
+      position: "Standing nearby, having just delivered urgent message"
+      action: "Waiting for response while looking anxious about the medical emergency"
+  scene:
+    mainElements: "Hospital corridor with wooden doors, gas lamps providing warm lighting, medical equipment visible through open doorways"
+    details: "Wooden walls and floors typical of 1890s institutional building, framed certificates on walls, medical bag being hastily gathered, coat rack with hanging garments, no text or letters visible"
+    background: "Long corridor extending toward patient rooms, other medical staff moving in distance"
+    atmosphere: "Sense of medical urgency and responsibility, interrupted routine that will lead to accidental discovery, professional dedication taking precedence"
+  composition:
+    cameraAngle: "Medium shot down the corridor"
+    focus: "Character being called away urgently, leaving his work unfinished"
+    depth: "Foreground shows main characters in conversation, middle ground shows corridor details, background shows distant medical activity"

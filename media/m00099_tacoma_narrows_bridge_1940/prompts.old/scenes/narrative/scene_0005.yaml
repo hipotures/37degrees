@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Trapped on the Bridge - Car Abandoned"
+  setting:
+    time: "November 7, 1940, late morning"
+    location: "Tacoma Narrows Bridge roadway during violent oscillation"
+    weather: "Strong winds causing extreme bridge movement"
+  characters:
+    - appearance: "American man, 35, newspaper reporter appearance, concerned expression, medium build"
+      clothing: "1940s business suit with press hat, carrying briefcase and notepad"
+      position: "Running from abandoned car toward shore"
+      action: "Urgent civilian behavior, fleeing dangerous bridge while looking back with alarm"
+  scene:
+    mainElements: "Narrow bridge deck with center line, suspension cables, roadway surface tilting dramatically"
+    details: "1940s sedan left on bridge during collapse, tilting with roadway movement, bridge deck twisting violently with roadway halves moving in opposite directions, concrete cracking audibly, suspension cables vibrating with dangerous oscillation, impossible driving conditions"
+    background: "Puget Sound waters far below, Pacific Northwest shores offering safety, approaching spectators gathering to watch disaster"
+    atmosphere: "Engineering marvel becoming death trap, individual human drama in face of structural failure, desperate escape from collapsing infrastructure, last moments of bridge integrity, no text or letters visible"
+  composition:
+    cameraAngle: "Dynamic shot showing person fleeing violently moving bridge"
+    focus: "Human drama of escape from engineering disaster"
+    depth: "Fleeing person and abandoned car in foreground, twisted bridge structure in middle ground, safety of shoreline in background"

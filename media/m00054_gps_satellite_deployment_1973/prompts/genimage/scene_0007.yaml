@@ -1,89 +1,76 @@
 sceneDescription:
   setting:
-    time: 1982, orbital view above Earth
-    location: Medium Earth orbit, 12,550 miles above Earth surface
-    weather: Space environment with Earth's atmosphere visible below
+    time: 1977, morning
+    location: Rockwell International satellite assembly facility, California
+    weather: Clear California morning with controlled indoor environment
   characters: No characters present in this scene
   scene:
-    mainElements: Block I GPS satellite with distinctive solar panel arrays, cylindrical body with antennas, gold thermal
-      blankets orbiting above Earth, multiple satellites visible in constellation formation
-    details: GPS satellite showing detailed construction with extended solar arrays, navigation antennas, atomic clock housing,
-      thermal protection systems, Earth's curvature visible below with continental outlines, space environment with star field,
-      no text or letters visible
-    background: Earth's surface showing North American continent with cloud formations, deep space with distant stars, orbital
-      mechanics demonstrating satellite spacing and coverage patterns
-    atmosphere: Vast scale of space with Earth below, technological achievement of precise orbital positioning, silent operation
-      of navigation constellation in space
+    mainElements: Clean room assembly facility with specialized satellite construction equipment, testing chambers, precision
+      tooling
+    details: 845 kg cylindrical spacecraft, 5.3 meters across with dual solar panels deployed, distinctive box-like main body
+      with metallic surface, three rechargeable batteries, hydrazine thrusters visible under construction in pristine white
+      clean room environment. Technicians in full clean room suits working on satellite components, compact cesium and rubidium
+      oscillators, approximately shoebox-sized metallic housing units, space-hardened construction with backup redundancy
+      systems, precision timing components visible being installed. Assembly jigs holding satellite structure, testing equipment
+      connected to various subsystems.
+    background: High-tech aerospace manufacturing facility with white clean room walls, specialized lighting, quality control
+      stations
+    atmosphere: Sterile precision manufacturing environment with filtered air systems, focused technical assembly work, space-age
+      technology atmosphere
   composition:
-    cameraAngle: Orbital view from space showing satellite above Earth
-    focus: GPS satellite in operational orbit with Earth as backdrop
-    depth: Satellite in foreground, Earth's surface in middle ground, space and stars in background
+    cameraAngle: Wide shot from clean room observation deck showing full satellite assembly process
+    focus: NAVSTAR satellite construction showing the physical realization of GPS concept into space-worthy hardware
+    depth: Satellite assembly in foreground, clean room technicians and equipment in middle ground, aerospace facility infrastructure
+      in background, no text or letters visible
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

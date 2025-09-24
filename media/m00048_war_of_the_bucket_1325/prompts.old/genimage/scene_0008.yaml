@@ -1,0 +1,105 @@
+sceneDescription:
+  setting:
+    time: November 15, 1325, evening
+    location: Zappolino battlefield extending toward Bologna city walls
+    weather: Cold autumn evening with falling darkness
+  characters:
+  - appearance: Italian man, 20s-30s, determined face, muscular build
+    clothing: Red tunic with Bologna coat of arms, chainmail, steel helmet
+    position: Running in panic across battlefield toward distant city walls
+    action: Fleeing in complete disorder, abandoning weapons and formation, looking back in terror
+  - appearance: Italian man, 40s, stern weathered face, prominent nose, dark beard
+    clothing: Red and gold Bolognese military surcoat over chainmail, steel helmet with plume
+    position: On horseback trying to rally retreating troops near battlefield edge
+    action: Attempting to organize retreat but being overwhelmed by fleeing soldiers
+  - appearance: Italian or German man, 20s-30s, battle-hardened expression
+    clothing: Blue tunic with Modena insignia, plate armor pieces, conical helmet
+    position: Pursuing fleeing enemies across the field
+    action: Chasing defeated Bolognese forces while maintaining military discipline
+  scene:
+    mainElements: Battlefield littered with abandoned weapons, fleeing soldiers, and pursuing victors
+    details: Thousands of Crossbows, spears, swords, maces typical of 14th century warfare abandoned on muddy ground, Heraldic
+      banners of Bologna (red) displaying city arms dropped and trampled, supply wagons overturned and abandoned, riderless
+      horses wandering battlefield, about 2,000 casualties scattered across the field, victorious Modenese soldiers collecting
+      weapons and prisoners
+    background: Bologna's defensive walls visible in distance where defeated army is fleeing, darkening countryside under
+      evening sky
+    atmosphere: Complete military disaster, panic and chaos of routed army, sounds of pursuit and defeat
+  composition:
+    cameraAngle: Wide shot showing the scale of the military collapse
+    focus: The dramatic contrast between fleeing defeated army and disciplined pursuit
+    depth: 'Foreground: abandoned battlefield debris, Middle: fleeing and pursuing soldiers, Background: distant Bologna walls,
+      no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

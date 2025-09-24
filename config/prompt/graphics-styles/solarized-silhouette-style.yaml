@@ -1,0 +1,64 @@
+styleName: Solarized Silhouette Style
+description: High-contrast silhouettes against vibrant duotone backgrounds with solarization effects and grain texture
+aiPrompts:
+  basePrompt: solarized silhouette, duotone color scheme, high contrast silhouette, vibrant gradient background, grain texture, spray paint edges, dramatic lighting
+  negativePrompt: detailed features, internal details, realistic colors, smooth gradients, clean edges, photorealistic
+  styleKeywords:
+  - solarized
+  - silhouette
+  - duotone
+  - high contrast
+  - split tone
+  - grain texture
+  - vibrant colors
+visualElements:
+  colorPalette:
+    primary:
+    - intense orange
+    - electric blue
+    - hot magenta
+    - bright yellow
+    secondary:
+    - deep purple
+    - cyan
+    - pure black silhouette
+    background: gradient blend between two vibrant colors
+    usageNotes: Two contrasting colors only plus black silhouette
+    saturation: maximum saturation
+    contrast: extreme high contrast
+  lineArt:
+    style: no internal lines - pure silhouette
+    weight: solid filled shape
+    color: pure black
+    texture: sharp silhouette edges with spray effect
+    edgeTreatment: slight grain and spray at boundaries
+  lighting:
+    type: backlit silhouette
+    direction: from behind subject
+    intensity: overexposed background
+    shadows:
+      style: subject is entirely shadow
+      color: pure black
+      opacity: solid black
+    highlights: none on subject - all in background
+  rendering:
+    technique: duotone color separation
+    texture: heavy grain and noise overlay
+    detailLevel: minimal - silhouette only
+    finish: solarized film effect with grain
+  perspective: varies - focus on strong compositional shapes
+  mood:
+    overall: dramatic, energetic, bold
+    emotion: powerful, dynamic, striking
+    tempo: high energy
+    keywords:
+    - dramatic
+    - bold
+    - energetic
+    - powerful
+    - vibrant
+  stylePrecedents:
+  - vintage sports posters
+  - music album covers
+  - risograph printing
+  - screen printing aesthetics

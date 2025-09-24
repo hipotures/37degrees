@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Credit Executive's Office - Hamilton Credit Corporation"
+  setting:
+    time: "1949, late afternoon"
+    location: "Hamilton Credit Corporation office, Empire State Building, Manhattan"
+    weather: "Clear day, sunlight streaming through office windows"
+  characters:
+    - appearance: "Caucasian man, early 40s, average height, clean-shaven face, dark hair combed back with pomade, serious business expression, thin-rimmed glasses"
+      clothing: "1949 dark navy business suit with white dress shirt, conservative dark tie, polished black leather shoes, gold wristwatch"
+      position: "Seated behind large wooden desk, leaning back in leather chair"
+      action: "Reviewing business documents, occasionally glancing at Manhattan skyline through window"
+  scene:
+    mainElements: "Hamilton Credit Corporation office, Empire State Building, Manhattan"
+    details: "Wood-paneled office with large desk, telephone, filing cabinets, window overlooking Manhattan, business documents. Heavy mahogany desk with brass fixtures, black rotary telephone, stacks of credit applications, leather-bound ledgers, pen set, desk lamp with green shade, framed family photograph"
+    background: "Large window showing Manhattan cityscape below, other skyscrapers visible, afternoon sunlight creating dramatic shadows across office"
+    atmosphere: "Professional 1940s corporate environment, serious business discussions, post-war economic growth. Air of authority and financial responsibility, the weight of business decisions palpable in the quiet efficiency"
+  composition:
+    cameraAngle: "Medium shot from across the desk, slightly elevated perspective"
+    focus: "Credit executive at his desk reviewing business papers"
+    depth: "Foreground shows edge of desk with documents, middle ground captures the executive in his chair, background features the Manhattan skyline through office window, no text or letters visible"

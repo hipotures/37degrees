@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Research Team Arrives at Elephant Enclosure"
+  setting:
+    time: "August 3, 1962, mid-morning"
+    location: "Oklahoma City Zoo elephant enclosure, outdoor paddock area, Oklahoma, USA"
+    weather: "Hot, bright summer morning with clear skies"
+  characters:
+    - appearance: "Caucasian man, 40s, medium build, receding dark hair, serious expression, wire-rimmed glasses"
+      clothing: "1960s white lab coat over dark suit and tie, or gray flannel suit with narrow tie"
+      position: "Standing near enclosure barrier, consulting clipboard"
+      action: "Reviewing experimental protocol while surveying the elephant enclosure setup"
+    - appearance: "African American man, 30s, stocky build, kind face, concerned expression"
+      clothing: "1960s white lab coat over dark sweater vest and tie, or tan suit jacket"
+      position: "Carrying metal case of medical equipment beside colleague"
+      action: "Setting up medical monitoring equipment on nearby table"
+    - appearance: "Caucasian man, 50s, tall and lean, graying hair, mustache, weathered face"
+      clothing: "1960s khaki zoo uniform with name badge, or casual shirt with rolled sleeves"
+      position: "Leading group toward elephant viewing area"
+      action: "Pointing toward elephant enclosure while explaining facility details"
+    - appearance: "Mixed group of men and women, 20s-50s, varying builds, concerned expressions"
+      clothing: "1960s zoo uniforms - khaki shirts and pants, some with caps"
+      position: "Standing at respectful distance near zoo pathways"
+      action: "Watching preparations with mix of curiosity and apprehension"
+  scene:
+    mainElements: "Large concrete and dirt enclosure with metal barriers, viewing area for public, medical equipment cases and portable table being set up"
+    details: "Metal barriers and concrete walls of elephant enclosure, portable table with medical instruments being arranged, metal cases opened to reveal syringes and monitoring equipment, zoo pathways with visitors in background, summer shadows cast by enclosure structures, water trough and feeding areas visible, no text or letters visible"
+    background: "Oklahoma zoo landscape with other animal enclosures visible in distance, visitors walking on pathways, trees providing scattered shade, clear summer sky"
+    atmosphere: "Mid-day summer heat, dusty ground, institutional zoo setting with growing tension as serious scientific work begins in public space"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position, showing entire enclosure area and gathering people"
+    focus: "Research team setup and preparation activities in foreground, with elephant enclosure as central visual element"
+    depth: "Foreground shows medical equipment setup, middle ground features research team and zoo staff, background displays broader zoo environment and other enclosures"

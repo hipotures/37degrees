@@ -1,25 +1,26 @@
 sceneDescription:
   setting:
-    time: 1945, winter afternoon
-    location: Snowy mountain slopes, Bavaria, Germany, winter landscape
-    weather: Clear winter day with fresh snow
+    time: Winter 1945, afternoon
+    location: Snow-covered mountain slopes in Bavarian Alps, winter 1945
+    weather: Cold, snowy mountain conditions
   characters:
-  - appearance: Caucasian man, 25 years old, athletic build, dark brown hair, focused expression
-    clothing: German army uniform with medical insignia, or white doctor's coat, dark trousers
-    position: Falling backwards on ski slope, one leg twisted at awkward angle
-    action: Skiing down slope when accident occurs, losing balance and falling hard
+  - appearance: 25 years old German man, medium build, typical military bearing, regulation short hair and clean-shaven face
+      as per Wehrmacht standards
+    clothing: German army uniform during service, civilian medical attire post-war, simple work clothes during invention period
+    position: Army doctor position, later working at medical practice and workshop
+    action: Medical work, boot experimentation, innovative problem-solving activities
   scene:
-    mainElements: Snow-covered pine trees, ski tracks, mountain peaks in background
-    details: Fresh ski tracks leading down the slope, medical officer's cap fallen in snow nearby, ski poles scattered, one
-      ski detached and visible in snow. Steep mountain terrain with evergreen forest below, clear blue sky above. No emergency
-      equipment visible yet, isolated mountain location emphasizing the severity of being injured far from immediate help,
-      no text or letters visible
-    background: Bavarian Alps with snow-capped peaks extending to horizon, dense pine forest covering lower slopes
-    atmosphere: Cold, crisp winter air, peaceful mountain setting interrupted by accident
+    mainElements: Alpine terrain with snow-covered slopes, basic ski facilities, mountain lodge structures
+    details: Steep mountainous terrain, deep snow, ski tracks, military personnel on leave, wooden ski equipment, mountain
+      pine trees. German soldier on skis losing balance on steep slope, wooden skis crossing awkwardly, poles flailing for
+      balance, ankle twisting at unnatural angle during fall, other military personnel skiing in background, no text or letters
+      visible
+    background: Bavarian mountain peaks covered in snow, pine forest, distant mountain lodge with smoke from chimney
+    atmosphere: Cold crisp mountain air, wartime tension even in recreational settings, temporary escape from conflict
   composition:
-    cameraAngle: Wide shot from slightly elevated position showing full scope of accident scene
-    focus: Injured skier and immediate accident site with scattered equipment
-    depth: Foreground shows accident details, middle ground captures slope terrain, background displays mountain panorama
+    cameraAngle: Mid-range shot capturing the moment of accident
+    focus: Soldier falling with twisted ankle, skis in awkward position
+    depth: Foreground shows falling skier, middle ground has other military personnel, background shows mountain landscape
 visualElements:
   colorPalette:
     primary:

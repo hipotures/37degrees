@@ -1,24 +1,31 @@
 sceneDescription:
   setting:
-    time: March 30, 1651, morning
-    location: Waters approaching Isles of Scilly
-    weather: Clear visibility with fresh Atlantic breeze
+    time: April 13, 1651, morning
+    location: Atlantic waters approaching Isles of Scilly from northeast
+    weather: Clear spring morning with moderate winds and good visibility
   characters:
-  - appearance: Dutch man, 50s, weathered sea captain face, gray beard, commanding naval bearing
-    clothing: 17th century Dutch naval uniform with gold braid, tricorn hat, ceremonial sword
-    position: Standing on flagship bridge studying Scilly islands
-    action: Naval authority stance, pointing at island fortifications through telescope
+  - appearance: Age 52 in 1651, stocky build, weathered face with grey beard, penetrating grey eyes, calloused hands from
+      naval service
+    clothing: Parliamentary naval uniform of plain brown coat with minimal decoration, simple white collar, black hat, practical
+      leather belt with sword
+    position: Standing on flagship deck overseeing operations
+    action: Directing systematic siege operations, studying tactical maps of island defenses, planning amphibious assault
+      with professional military bearing
   scene:
-    mainElements: 17th century Dutch warships with three masts, square-rigged sails, naval flags, cannon ports
-    details: Dutch fleet in battle formation approaching Scilly, flagship leading smaller warships, Dutch naval flags flying
-      prominently, sailors preparing cannons, rigging taut with wind, sea spray over ship bows, disciplined naval formation
-    background: Isles of Scilly growing larger on horizon, rocky coastline and fortifications becoming visible, Atlantic swells
-    atmosphere: Dutch naval power approaching to demand reparations, international incident developing, show of force mission
-      to remote island stronghold, no text or letters visible
+    mainElements: Parliamentary warships and transport vessels in battle formation approaching Scilly, Commonwealth colors
+      flying, marines visible on deck preparing for amphibious assault
+    details: Multiple warships carrying bronze cannons and armed marines, landing boats being prepared for assault operations,
+      tactical maps spread on deck tables, spyglasses trained on island fortifications, supplies and artillery being positioned
+      for siege, spring morning light illuminating military preparations
+    background: Isles of Scilly rising from Atlantic waters, defensive positions and fortifications visible on clifftops,
+      King Charles' Castle commanding strategic heights, natural harbors that must be captured
+    atmosphere: Professional military determination, methodical siege planning, contrast with earlier Dutch diplomatic approach,
+      sense of Parliamentary efficiency versus Royalist desperation, no text or letters visible
   composition:
-    cameraAngle: Wide shot from sea level showing Dutch fleet approach
-    focus: Dutch naval force arriving to confront Royalist stronghold
-    depth: Dutch warships in foreground, Scilly islands in middle ground, Atlantic horizon in background
+    cameraAngle: Wide shot showing Parliamentary fleet approaching from sea level perspective
+    focus: Parliamentary commander directing systematic military operations, professional siege planning in action
+    depth: Foreground shows detailed flagship with character and preparations, middle ground reveals fleet formation and landing
+      craft, background displays fortified Scilly islands awaiting assault
 visualElements:
   colorPalette:
     primary:

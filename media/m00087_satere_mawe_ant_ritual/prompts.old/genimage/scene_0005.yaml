@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Evening twilight, fire providing primary illumination
+    location: Central gathering area of Sateré-Mawé village in Amazon rainforest
+    weather: Still humid evening air with firelight flickering
+  characters:
+  - appearance: Elderly Sateré-Mawé man, 60s, weathered bronze skin, white-streaked black hair, wise dark eyes
+    clothing: Traditional ceremonial robes with elaborate feather headdress, shell and bead jewelry, painted body markings
+    position: Standing over fire pit holding gloves above rising smoke
+    action: Blowing ceremonial smoke into bullet ant gloves, chanting traditional blessings and purification rituals
+  scene:
+    mainElements: Circular clearing surrounded by traditional thatched-roof houses, fire pit in center, woven palm mats
+    details: Sacred plant materials burned to create ceremonial smoke for blessing ant gloves before ritual. Thick aromatic
+      smoke rising from fire, woven cashew leaf gloves with hundreds of live bullet ants being held in sacred smoke. Traditional
+      instruments and ritual objects surrounding ceremonial area.
+    background: Village community seated in respectful circle, traditional houses silhouetted against darkening forest
+    atmosphere: Community gathering space with warm firelight, ceremonial significance, tribal unity. Sacred preparation reaching
+      climax before initiation begins, no text or letters visible
+  composition:
+    cameraAngle: Low angle looking up at elder conducting blessing ritual
+    focus: Elder's hands holding ant gloves in rising ceremonial smoke
+    depth: Fire and smoke in foreground, blessing elder in middle ground, gathered community in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,28 +1,33 @@
 sceneDescription:
   setting:
-    time: 2006, midday
-    location: New bypass road construction site, adjacent mountain range to original Death Road, Bolivia
-    weather: Clear sunny day perfect for construction work
+    time: 1998, afternoon
+    location: Narrow dirt road carved into steep Cordillera Oriental mountainside, connecting La Paz highlands to Yungas cloud
+      forest region
+    weather: Partially cloudy mountain weather with good visibility between cloud breaks
   characters:
-  - appearance: Local Bolivian man, 40s, weathered face from mountain work, strong build, dark hair
-    clothing: Traditional Bolivian work clothes - worn denim jacket, wool sweater, heavy boots
-    position: Standing beside modern construction equipment
-    action: Coordinating with construction crews building safer alternative route
-  - appearance: Construction supervisor, 40s, hard hat, professional appearance, measuring tools
-    clothing: Modern work uniform - safety vest, hard hat, steel-toed boots
-    position: Reviewing construction plans
-    action: Pointing toward new road alignment that avoids most dangerous sections
+  - appearance: International tourists aged 20-50, athletic builds, excited but nervous expressions, mix of ethnicities
+    clothing: Modern mountain biking helmets, bright colored cycling clothes with padding, professional biking shoes, protective
+      gloves
+    position: On mountain bikes along narrow road sections
+    action: Cycling down steep mountain paths, taking photos, following tour guides
   scene:
-    mainElements: Modern road construction with proper engineering - bridges, drainage, guardrails being installed
-    details: Heavy construction machinery, concrete barriers being installed, proper drainage systems, multiple lanes being
-      paved, guardrails and safety features, surveying equipment marking safer route through mountains
-    background: Original Death Road visible on opposite mountainside, showing contrast between old and new
-    atmosphere: Progress and hope, modern engineering solving historical problem
+    mainElements: Single-lane gravel track barely 3 meters wide, no guardrails, sheer cliff drops up to 1,000 meters, tight
+      hairpin turns around rock outcroppings
+    details: Professional mountain biking helmets in bright colors, knee and elbow pads, specialized disc-brake mountain bikes,
+      first aid equipment, GPS tracking devices. Small group of pioneering adventure tourists with basic but professional
+      mountain biking equipment. Tour guides with early safety equipment and communication devices. Bikes designed for extreme
+      terrain with wide knobby tires. Bright colored helmets and clothing for visibility. Early digital cameras for documenting
+      experience. Basic first aid kits and water bottles. Adventure tourists showing mix of excitement and apprehension about
+      dangerous route.
+    background: Dramatic Andean mountain backdrop with clouds moving through valleys, glimpses of tropical Yungas region far
+      below
+    atmosphere: Pioneering adventure spirit mixed with healthy fear of extreme danger, sounds of bike tires on gravel and
+      nervous laughter, beginning transformation from tragedy to tourism, no text or letters visible
   composition:
-    cameraAngle: Wide shot showing scale of new construction project
-    focus: Modern road construction creating safer alternative to Death Road
-    depth: Construction activity in foreground, new road taking shape in middle ground, old dangerous road visible in background,
-      no text or letters visible
+    cameraAngle: Dynamic action shot from slightly above showing bikers navigating dangerous curve
+    focus: Small group of pioneering mountain bikers on world's most dangerous road
+    depth: 'Foreground: mountain bikers with bright safety gear, middle: narrow dangerous road section, background: vast mountain
+      landscape and valley depths'
 visualElements:
   colorPalette:
     primary:

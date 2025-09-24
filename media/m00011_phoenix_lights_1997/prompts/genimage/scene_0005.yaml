@@ -1,29 +1,25 @@
 sceneDescription:
   setting:
-    time: March 13, 1997, 8:35 PM MST, night
-    location: Residential backyard in Phoenix suburbs with clear sky view
-    weather: Clear night conditions, calm air
-  characters:
-  - appearance: Adult resident, 30s-40s, focused expression holding camera equipment
-    clothing: Casual evening clothing, light sweater or shirt
-    position: Standing in backyard holding video camera aimed skyward
-    action: Operating video camera to record formation, adjusting focus and zoom controls
+    time: March 13, 1997, 8:40 PM MST, desert night
+    location: Phoenix metropolitan area viewed from elevated position, Arizona desert valley at night
+    weather: Clear desert night air, excellent visibility
+  characters: No characters present in this scene
   scene:
-    mainElements: 1990s home video camera, VHS or Hi8 format, handheld consumer model, viewfinder extended, recording lights
-      active
-    details: Witness operates handheld video camera attempting to capture V-formation lights, camera viewfinder glowing in
-      darkness, formation continues steady southeast movement across frame, video camera's auto-focus hunting between lights
-      and infinity, recording light indicates active filming, residential backyard setting with patio furniture and house
-      lighting, formation appears as bright orbs in geometric arrangement, witness adjusting camera controls trying to get
-      clear footage, no text or letters visible
-    background: Suburban residential area with house lights, desert landscape extending toward mountains, night sky filled
-      with stars
-    atmosphere: Intense concentration and urgency to document extraordinary phenomenon for posterity
+    mainElements: Sprawling city lights across flat desert valley, scattered suburban neighborhoods, major highways with vehicle
+      lights creating flowing patterns, Sky Harbor Airport with runway lighting systems visible
+    details: Massive V-shaped formation of amber-orange lights positioned directly above Phoenix metropolitan area, estimated
+      1-2 miles wide, maintaining perfect geometric formation while completely silent, formation appearing solid and structured
+      against backdrop of city lights below, stars visible in clear desert sky around formation, no text or letters visible
+    background: Phoenix valley floor with grid pattern of streets and neighborhoods, distant mountain ranges silhouetted against
+      night sky, scattered lights from surrounding desert communities
+    atmosphere: Clear desert night air, excellent visibility, mild spring evening temperatures, stars visible above city glow,
+      profound sense of scale with massive phenomenon over populated area, silent and mysterious presence above normal urban
+      activity
   composition:
-    cameraAngle: Medium shot showing witness with camera and formation in background
-    focus: Witness documenting event with handheld video camera as primary element
-    depth: Foreground shows witness with recording equipment, middle ground captures residential setting, background features
-      formation against night sky
+    cameraAngle: Elevated wide angle showing entire formation over city
+    focus: Massive V-formation as dominant element with city context below
+    depth: Foreground shows elevated viewing position, middle ground shows city lights and formation, background shows distant
+      mountains and night sky
 visualElements:
   colorPalette:
     primary:

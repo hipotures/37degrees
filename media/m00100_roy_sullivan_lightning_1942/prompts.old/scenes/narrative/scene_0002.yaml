@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Lightning Strike - Fire Tower 1942"
+  setting:
+    time: "April 1942, afternoon"
+    location: "Elevated fire observation tower in Shenandoah National Park"
+    weather: "Severe thunderstorm with multiple lightning strikes"
+  characters:
+    - appearance: "American man, 30, brawny build resembling Gene Hackman, rugged weathered face"
+      clothing: "US Park Service uniform with ranger hat, work boots, utility belt"
+      position: "Inside fire lookout tower seeking shelter from storm"
+      action: "Fleeing tower as lightning strikes building, leg burned by electrical discharge"
+  scene:
+    mainElements: "Wooden tower structure with observation windows, no lightning rod protection, being struck by lightning"
+    details: "Brilliant electrical discharge from storm clouds hitting fire lookout tower repeatedly, fire jumping around inside tower structure, ranger escaping building as Brilliant electrical discharge strikes within feet of exit, burned leg and destroyed shoe from lightning contact, dramatic electrical activity in isolated mountain location"
+    background: "Storm clouds over Shenandoah mountains, isolated mountain outpost, heavy rain and lightning activity"
+    atmosphere: "Isolated mountain outpost vulnerable to lightning strikes and severe weather, first encounter with extraordinary lightning attraction, beginning of unprecedented survival story, no text or letters visible"
+  composition:
+    cameraAngle: "Dynamic shot showing lightning strike and escape from tower"
+    focus: "First lightning strike beginning extraordinary survival story"
+    depth: "Ranger escaping tower in foreground, lightning-struck building in middle ground, storm-covered mountains in background"

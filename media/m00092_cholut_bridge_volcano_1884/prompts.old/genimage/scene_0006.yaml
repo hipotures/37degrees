@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1884, late afternoon
+    location: Lower volcanic slopes of Mount Merapi, Central Java, Indonesia
+    weather: Clear with volcanic gases and occasional ash plumes
+  characters:
+  - appearance: Local Javanese guide, 30s, lean athletic build, dark skin tanned by sun, keen intelligent eyes, quick movements
+    clothing: Simple brown cotton shirt, traditional batik sarong, woven sandals, conical bamboo hat
+    position: Standing on volcanic rock outcrop pointing toward steam vents
+    action: Explaining volcanic activity patterns and showing safe routes for future bridge maintenance access
+  - appearance: Dutch engineer, 40s, tall sturdy build, weathered face from tropical climate, brown hair with receding hairline,
+      wire-rim spectacles
+    clothing: White colonial linen shirt with rolled sleeves, brown canvas trousers, leather work boots, pith helmet nearby
+    position: Following guide up volcanic slope with notebook in hand
+    action: Recording observations about volcanic debris flow patterns and potential threats to bridge location
+  scene:
+    mainElements: Hardened lava flows, volcanic rock formations, sparse vegetation, steam vents, ash-covered terrain
+    details: Dark volcanic stone samples of various sizes, some polished to show internal structure, labeled with location
+      markers, steam rising from ground fissures, evidence of past lava flows, scattered volcanic debris showing flow patterns
+    background: Ominous volcanic presence with occasional rumbling, sulfurous air, dramatic lighting from volcanic activity,
+      Mount Merapi peak with active crater visible
+    atmosphere: Sense of natural power and danger, understanding the volcanic forces that bridge must withstand, respect for
+      local knowledge of mountain behavior
+  composition:
+    cameraAngle: Medium shot from volcanic slope showing both figures against mountain backdrop
+    focus: Guide explaining volcanic patterns with engineer taking detailed notes
+    depth: Volcanic terrain features in foreground, characters studying environment in middle ground, Mount Merapi crater
+      in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

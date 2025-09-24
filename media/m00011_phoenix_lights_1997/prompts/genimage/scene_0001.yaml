@@ -1,22 +1,28 @@
 sceneDescription:
   setting:
-    time: March 13, 1997, 7:30 PM MST, clear desert evening
-    location: Phoenix metropolitan area suburbs, Arizona desert landscape with mountain backdrop
-    weather: Clear skies, excellent visibility, cool March desert evening temperature around 65°F
-  characters: No characters present in this scene
+    time: March 13, 1997, 6:55 PM PST, desert evening
+    location: Henderson, Nevada desert outskirts, elevated viewing position overlooking vast southwestern landscape
+    weather: Clear desert evening, excellent visibility conditions
+  characters:
+  - appearance: Caucasian man, middle-aged, casual outdoor clothing, standing alert with binoculars
+    clothing: Desert hiking attire, practical jacket, sturdy boots suitable for desert terrain
+    position: Standing on rocky outcrop, binoculars raised toward northwestern horizon
+    action: Scanning northwestern sky, suddenly focusing on approaching lights, adjusting binoculars for better view
   scene:
-    mainElements: Sprawling suburban neighborhoods, desert terrain, mountain ranges visible in distance
-    details: Wide panoramic view of Phoenix metropolitan area as evening approaches, suburban houses with warm lights beginning
-      to illuminate windows, desert landscape stretches toward mountain ranges on horizon, street lights starting to activate
-      along residential roads, clear darkening sky with first stars beginning to appear, no text or letters visible
-    background: Sierra Estrella mountain range silhouetted against western sky, distant city center skyline, vast Arizona
-      desert terrain
-    atmosphere: Clear desert evening sky, city lights beginning to illuminate, peaceful residential setting
+    mainElements: Rocky desert landscape stretching toward distant mountains, Nevada highway visible as thin line across valley
+      floor, scattered desert vegetation and Joshua trees, vast open sky above
+    details: Desert rocks and sparse vegetation in foreground, distant mountain ranges creating layered silhouettes against
+      evening sky, highway lights beginning to appear as small points, clear desert air providing exceptional visibility across
+      miles of terrain, no text or letters visible
+    background: Mountain ranges fading into purple-blue distance, scattered lights of Henderson settlement far below, Arizona
+      border region visible toward southeast
+    atmosphere: Peaceful desert evening tranquility suddenly interrupted by unusual aerial phenomenon, sense of isolation
+      and vastness, anticipation building as witness focuses on approaching lights
   composition:
-    cameraAngle: High aerial establishing shot looking down over Phoenix suburbs
-    focus: Expansive view of metropolitan area transitioning from day to evening
-    depth: Foreground shows detailed suburban neighborhoods, middle ground reveals spreading city lights, background features
-      mountain silhouettes against twilight sky
+    cameraAngle: Wide establishing shot from elevated rocky position
+    focus: Witness figure silhouetted against vast desert landscape and approaching lights
+    depth: Foreground shows rocky desert terrain with witness, middle ground shows valley floor and highway, background shows
+      distant mountains and early evening sky
 visualElements:
   colorPalette:
     primary:

@@ -1,0 +1,61 @@
+styleName: French Surreal Animation Style
+description: Paper cutout animation with psychedelic imagery inspired by René Laloux's Fantastic Planet
+aiPrompts:
+  basePrompt: french surrealist animation, fantastic planet style, paper cutout animation, rené laloux style, psychedelic animation, surreal landscapes
+  negativePrompt: CGI, realistic, disney style, smooth animation, photorealistic
+  styleKeywords:
+  - french surrealism
+  - fantastic planet
+  - paper cutout
+  - rené laloux
+  - psychedelic
+  - roland topor
+visualElements:
+  colorPalette:
+    primary:
+    - muted pastels
+    - psychedelic blues
+    - alien greens
+    secondary:
+    - dusty pinks
+    - ochre yellows
+    - surreal purples
+    background: surreal alien landscapes
+    usageNotes: Pastel pencil shades with unexpected combinations
+    saturation: muted psychedelic
+    contrast: soft dreamlike contrast
+  lineArt:
+    style: crosshatching and etching
+    weight: varied pencil weights
+    color: dark pencil lines
+    texture: visible paper texture
+    edgeTreatment: rough cutout edges
+  lighting:
+    type: flat surreal lighting
+    direction: non-realistic
+    intensity: dreamlike soft
+    shadows:
+      style: minimal or symbolic
+      color: colored shadows
+      opacity: translucent
+    highlights: minimal highlights
+  rendering:
+    technique: paper cutout animation
+    texture: visible paper and pencil textures
+    detailLevel: botanical illustration precision
+    finish: handmade aesthetic with visible edges
+  perspective: surreal non-euclidean perspectives
+  mood:
+    overall: eerie, surreal, meditative, psychedelic
+    emotion: disquieting beauty with alien coldness
+    tempo: slow meditative pacing
+    keywords:
+    - surreal
+    - psychedelic
+    - eerie
+    - dreamlike
+    - alien
+  stylePrecedents:
+  - Fantastic Planet (La Planète Sauvage)
+  - Time Masters
+  - Gandahar

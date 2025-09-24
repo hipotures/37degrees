@@ -1,31 +1,34 @@
 sceneDescription:
   setting:
-    time: 1905, afternoon, clear day
-    location: Private workshop laboratory, early 20th century, filled with mechanical equipment and tools
-    weather: Bright clear day with good natural light
+    time: 1903, afternoon
+    location: Private mechanical workshop with large windows, drafting area, and testing space
+    weather: Bright daylight streaming through windows
   characters:
-  - appearance: Polish man, 29 years old, slender build, intense dark eyes, intelligent expression, showing satisfaction and
-      achievement
-    clothing: Practical work attire - white shirt with sleeves rolled up, dark vest, work apron with grease stains, practical
-      boots
-    position: Standing beside workbench examining completed pneumatic shock absorber prototype
-    action: Testing the compression and extension of the shock absorber mechanism, making final adjustments with precision
-      tools
+  - appearance: Adult pianist-inventor in his late 20s, refined European features, intelligent eyes, well-groomed appearance
+      transitioning between artistic and mechanical worlds
+    clothing: Practical workshop attire - white cotton shirt with rolled sleeves, dark vest, work apron over trousers, hands
+      showing both musical sensitivity and mechanical work
+    position: At drafting table with technical drawings spread before him, metronome positioned nearby
+    action: Sketching technical drawings with precision, pausing to listen to metronome rhythm, translating musical timing
+      concepts into mechanical windshield wiper movement patterns
   scene:
-    mainElements: Pneumatic shock absorber prototype for automobiles, cylindrical metal housing with spring mechanism, technical
-      drawings showing internal components, precision measuring instruments and tools
-    details: Completed shock absorber with polished metal casing, spring coils and pneumatic chambers visible, official patent
-      papers with detailed technical drawings rolled and tied with ribbon, automotive testing equipment, brass pressure gauges,
-      mechanical calipers and measuring tools, prototype automotive parts scattered on workbench, no text or letters visible
-    background: Workshop with shelves displaying earlier prototypes and mechanical innovations, large windows providing excellent
-      light for precision work
-    atmosphere: Triumph of engineering innovation and commercial breakthrough, satisfaction of successful invention that will
-      change automotive industry, pride in technical achievement
+    mainElements: Drafting tables with technical drawings, precision measurement tools, early shock absorber prototypes, mechanical
+      components scattered around workspace
+    details: Precision compass and dividers, technical drawing pens with various nibs, wooden rulers and French curves, protractor
+      and angle templates, mechanical pencils, India ink bottles, blotting paper, technical drawing paper with precise grid
+      lines, pyramid-shaped wooden case in dark walnut finish, brass pendulum with adjustable weight, graduated tempo scale
+      from 40 to 208 beats per minute, wind-up mechanism with brass key, steady tick-tock rhythm pattern, patent documents
+      and blueprints spread on tables, metal parts and springs, testing apparatus, oil stains on wooden workbenches
+    background: Tool racks on walls filled with precision instruments, early automobile parts on shelves, mechanical devices
+      and measuring instruments, large windows providing natural light for detailed work
+    atmosphere: Focused concentration of invention process where musical precision meets mechanical innovation, sounds of
+      metronome rhythm inspiring windshield wiper timing, smell of machine oil and metal work, creative fusion of artistic
+      and technical disciplines, no text or letters visible
   composition:
-    cameraAngle: Medium shot from side angle, capturing both inventor and invention
-    focus: Character JH with the completed shock absorber prototype, showing the culmination of innovative engineering work
-    depth: 'Foreground: detailed shock absorber mechanism and testing process, middle ground: workshop tools and patent documentation,
-      background: shelves of successful inventions and bright natural lighting, no text or letters visible'
+    cameraAngle: Over-shoulder view from behind inventor showing drafting work and metronome relationship
+    focus: Technical drawings being created while metronome provides rhythmic inspiration for wiper mechanism timing
+    depth: Foreground shows drafting tools and metronome, middle ground captures inventor's precise work, background reveals
+      workshop filled with mechanical innovations
 visualElements:
   colorPalette:
     primary:

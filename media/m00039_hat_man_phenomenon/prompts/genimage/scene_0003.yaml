@@ -1,106 +1,79 @@
 sceneDescription:
   setting:
-    time: 2012, 3:33 AM
-    location: Urban apartment bedroom, modest urban living space
-    weather: City night with ambient street lighting
+    time: April 12, 2001, 2:45 AM
+    location: Professional radio broadcast studio with soundproofing and broadcasting equipment
+    weather: Late night studio environment, weather irrelevant
   characters:
-  - appearance: Adult in 30s-40s, tense facial expression with eyes wide with fear or confusion
-    clothing: Nightclothes, pajamas, or sleeping attire
-    position: In bed or sitting on edge of bed, body rigid with paralysis
-    action: Experiencing sleep paralysis, attempting to move but unable, eyes fixed on shadow figure
-  - appearance: Tall dark silhouette, 8-10 feet in height, completely featureless black form with no visible face or limbs
-    clothing: Wide-brimmed fedora hat and long dark coat or trench coat, both appearing as solid black shadow
-    position: Standing upright, often positioned in doorways, corners, or beside beds
-    action: Motionless watching presence, occasionally seen moving with fluid gliding motion
+  - appearance: Middle-aged broadcaster, professional demeanor, engaging personality, leaning forward toward microphone
+    clothing: Casual professional attire suitable for radio work, headphones around neck, comfortable shirt
+    position: Seated at broadcast desk facing professional microphone setup
+    action: Speaking animatedly into microphone, gesturing with hands while discussing paranormal topics with callers
   scene:
-    mainElements: Small bed against wall, minimal furniture, window overlooking city buildings, narrow doorway
-    details: LED digital clock displaying late night time between 2:00 AM and 4:00 AM, casting dim red or green glow. Hat
-      Man positioned in far corner of room, creating imposing silhouette against pale wall. Urban apartment sparsely furnished
-      with basic necessities only.
-    background: Window showing city lights and neon signs from buildings across street, creating colorful but eerie illumination
-      patterns on walls
-    atmosphere: Urban ambient light from neon signs and streetlights creating dramatic shadows, sounds of city life muffled.
-      Cramped urban space making Hat Man's presence feel more oppressive and inescapable
+    mainElements: Professional radio broadcast studio with mixing board, multiple microphones on boom arms, soundproofing
+      foam on walls, guest seating area, monitoring equipment with LED displays
+    details: Large mixing console with numerous sliders and buttons, multiple monitor screens showing call queue information,
+      headphones hanging on stand, coffee cups and water bottles, on-air light glowing red. Studio clock shows late night
+      hour. Phone system with multiple lines blinking to indicate waiting callers. Professional acoustic treatment throughout
+      studio
+    background: Soundproofed studio walls with foam treatment, control room visible through glass partition, additional broadcasting
+      equipment and monitors, shelves with radio station memorabilia and awards
+    atmosphere: Intimate late-night broadcasting environment perfect for paranormal discussions, mysterious and engaging atmosphere
+      that encourages supernatural storytelling, sense of reaching isolated listeners across dark landscape, professional
+      yet otherworldly ambiance, no text or letters visible
   composition:
-    cameraAngle: Wide shot from opposite corner of room
-    focus: Hat Man figure dominating corner while witness lies paralyzed in bed
-    depth: 'Foreground: foot of bed, middle: paralyzed person in bed staring at corner, background: towering Hat Man silhouette
-      in corner with city lights through window, no text or letters visible'
+    cameraAngle: Medium shot across broadcast desk, capturing host and microphone setup from guest perspective
+    focus: Radio host's animated face and gesturing hands, with professional microphone prominently displayed
+    depth: Foreground shows mixing board controls and desktop items, middle ground centers on broadcasting host, background
+      reveals soundproofed studio environment and control room
 visualElements:
   colorPalette:
     primary:
-    - deep black
-    - pearl white
-    - charcoal gray
-    - silver gray
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - shadow black
-    - highlight white
-    background: dim interior gray with deep shadows
-    usageNotes: True monochrome only, no color information whatsoever
-    saturation: none (pure grayscale)
-    contrast: high (strong blacks and whites with limited midtones)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: photographic realism, no drawn outlines
-    weight: none (photographic approach)
-    color: none
-    texture: film grain micro-contrast creates edge definition
-    edgeTreatment: natural photographic edges
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: low-key tungsten practical or Fresnel spot
-    direction: single source from above or 30-60 degrees off axis
-    intensity: high contrast with key to fill ratio approximately 8:1
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: hard-edged dramatic shadows
-      color: deep black
-      opacity: 90-95%
-      offset: sharp and directional based on single light source
-    highlights: narrow rim light +0.5 to +1 EV for edge separation
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: photographic black and white film aesthetic
-    texture: visible film grain, worn surfaces, fabric textures
-    detailLevel: high in lit areas, obscured in shadows
-    finish: matte film print quality
-    printEffects: selenium toning for slight warm-cool split
-  perspective:
-    type: rectilinear standard lens perspective
-    vanishingPoints: natural perspective, no distortion
-    distortion: minimal, true to lens focal length
-    depth: shallow depth of field at f/2.8-4
-  composition:
-    layout: tight interior framing with little headroom
-    hierarchy: light draws attention to key elements
-    gridSystem: rule of thirds composition
-    whitespace: filled with dark shadows and negative space
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: dramatic, mysterious, tense
-    emotion: paranoia, desire, danger
-    tempo: static but charged with tension
-    energy: suppressed, coiled
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - noir atmosphere
-    - urban decay
-    - moral ambiguity
-    - femme fatale
-    - hard-boiled
-    - venetian blind shadows
-  symbolism:
-    common:
-    - venetian blind light patterns
-    - cigarette smoke
-    - rain on windows
-    - mirror reflections
-    figures:
-    - detective in fedora
-    - woman in evening dress
-    - shadowy figure in doorway
-    abstract:
-    - light versus dark moral conflicts
-    - urban isolation
-    architectural:
-    - narrow corridors
-    - dimly lit offices
-    - seedy hotel rooms
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

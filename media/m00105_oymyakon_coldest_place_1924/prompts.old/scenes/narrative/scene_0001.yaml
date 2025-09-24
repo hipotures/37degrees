@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Siberian Winter Settlement - January 1924"
+  setting:
+    time: "January 1924, early morning in deepest winter"
+    location: "Oymyakon village, Sakha Republic, Russia, Yana-Oymyakon Highlands along Indigirka River"
+    weather: "Extreme cold approaching record-breaking temperatures of -71.2°C"
+  characters:
+    - appearance: "Siberian person, 40s, weathered face from extreme cold exposure, hardy build adapted to Arctic conditions"
+      clothing: "Multiple layers of fur clothing, traditional Siberian winter gear, thick boots, face protection from wind"
+      position: "Moving carefully through village in extreme cold conditions"
+      action: "Performing essential daily tasks while protecting against life-threatening cold"
+  scene:
+    mainElements: "Small wooden buildings with thick walls, smoking chimneys, deep snow cover, frozen landscape extending to horizon, visible breath vapor in extreme cold, ice formations on every surface"
+    details: "Traditional Siberian cold weather clothing with multiple fur layers, thick smoke rising from chimneys indicating intense heating efforts, completely frozen water sources and ice formations on buildings, frost patterns covering all exposed surfaces, survival-focused settlement design for extreme Arctic conditions"
+    background: "Endless snow-covered Siberian wilderness, frozen trees creating stark winter landscape, Arctic environment stretching beyond horizon"
+    atmosphere: "Extreme cold with every breath visible as vapor, complete silence of frozen environment broken only by survival activities, life-threatening conditions requiring constant vigilance, harsh beauty of world's coldest inhabited place, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot showing isolated village in extreme Arctic conditions"
+    focus: "Settlement surviving in world's coldest permanently inhabited location"
+    depth: "Foreground shows detailed village structures, middle shows human activity in extreme cold, background shows endless frozen Siberian landscape"

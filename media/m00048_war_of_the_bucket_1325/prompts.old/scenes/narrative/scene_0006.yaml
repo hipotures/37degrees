@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Battle Preparations at Zappolino"
+  setting:
+    time: "November 15, 1325, late afternoon"
+    location: "Open fields near Zappolino village, medieval Italian countryside"
+    weather: "Cold late autumn day with threatening gray clouds"
+  characters:
+    - appearance: "Italian man, 35, calculating expression, sharp features, dark hair"
+      clothing: "Blue and silver Modenese nobleman attire with fur-trimmed cloak"
+      position: "On horseback surveying the approaching Bolognese army from elevated position"
+      action: "Confident tactical pose, often gesturing while giving orders to his much smaller force"
+    - appearance: "Germanic man, 30s, blonde hair, scarred face, tall build"
+      clothing: "Dark leather armor with metal studs, distinctive German-style helmet"
+      position: "Preparing defensive positions with other professional soldiers"
+      action: "Experienced warrior stance with two-handed sword, organizing battle lines"
+    - appearance: "Italian or German man, 20s-30s, battle-hardened expression"
+      clothing: "Blue tunic with Modena insignia, plate armor pieces, conical helmet"
+      position: "Forming battle ranks despite being heavily outnumbered"
+      action: "Professional military bearing with sword and shield, preparing for desperate battle"
+  scene:
+    mainElements: "Rolling hills, agricultural fields, scattered farm buildings"
+    details: "Stark contrast between massive Bolognese army visible in distance and small but disciplined Modenese force of 7,000 troops, Heraldic banners of Bologna (red) and Modena (blue) displaying city arms marking opposing forces, Medieval weapons being readied for battle, horses stamping nervously in cold air, professional German mercenaries organizing defensive formations"
+    background: "Pastoral landscape that became site of medieval battle, Zappolino village visible on hillside, gathering storm clouds"
+    atmosphere: "Tense anticipation before major battle, David versus Goliath scenario with small professional army facing massive force"
+  composition:
+    cameraAngle: "Wide shot showing the dramatic size difference between the armies"
+    focus: "The confident Modenese commander preparing his outnumbered but professional force"
+    depth: "Foreground: Modenese battle preparations, Middle: commanders on horseback, Background: massive Bolognese army approaching, no text or letters visible"

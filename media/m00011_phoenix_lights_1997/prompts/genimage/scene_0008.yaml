@@ -1,28 +1,34 @@
 sceneDescription:
   setting:
-    time: March 13, 1997, 10:15 PM MST, night
-    location: Sierra Estrella mountain range southwest of Phoenix, Arizona
-    weather: Clear night sky with excellent visibility
+    time: June 19, 1997, afternoon, government press conference
+    location: Government complex press conference room in central Phoenix, Arizona
+    weather: Indoor government facility, controlled environment
   characters:
-  - appearance: Adult resident, 30s-40s, focused expression holding camera equipment
-    clothing: Casual evening clothing, light sweater or shirt
-    position: Standing in elevated position with clear mountain view
-    action: Operating video camera to record lights descent, steadying camera for extended filming
+  - appearance: Caucasian man, mid-50s, tall distinguished bearing, graying brown hair, prominent jawline, typically serious
+      expression
+    clothing: Dark business suit with conservative tie during press conferences, white dress shirt, polished appearance befitting
+      governor's office
+    position: Standing at podium or seated in official government setting
+    action: Speaking at press conferences, making official statements, or reviewing documents
+  - appearance: Tall, professional government aide build, completely obscured by alien costume
+    clothing: Large rubber gray alien head mask with oversized black eyes, full body extraterrestrial costume, theatrical
+      and obviously fake appearance, worn with handcuffs during press conference
+    position: Center stage being escorted by officers
+    action: Standing in handcuffs while governor presents staged arrest
   scene:
-    mainElements: Rocky desert mountain ridgeline silhouetted against evening sky
-    details: LUU-2B/B illumination flares, extremely bright magnesium-based light source, deployed on parachutes, creating
-      steady golden-amber glow against night sky, 2 million candlepower intensity slowly descending toward mountain ridgeline,
-      lights appearing to sink behind Sierra Estrella peaks one by one, witness with video camera documenting the gradual
-      disappearance, each light maintaining brilliant intensity until vanishing behind mountain silhouette, thermal updrafts
-      and parachute systems causing slow controlled descent, desert landscape silhouetted in foreground, no text or letters
-      visible
-    background: Dramatic mountain backdrop, clear visibility, desert landscape
-    atmosphere: Climactic conclusion to evening's aerial phenomena as lights gradually vanish behind natural barriers
+    mainElements: Official podium with state seal, formal government chamber, media seating area, Arizona state flags, official
+      government décor
+    details: Press conference setup with media cameras and microphones, governor at podium presenting costumed aide as 'guilty
+      party', aide in obvious theatrical alien costume with handcuffs being escorted by public safety officers, formal government
+      setting contrasting with absurd costume display, no text or letters visible
+    background: Arizona state flags, formal government chamber walls, official state décor
+    atmosphere: Formal government atmosphere, media presence, bright press lighting, official proceedings environment transformed
+      into publicity stunt, tension between serious government setting and ridiculous costume display
   composition:
-    cameraAngle: Medium wide shot emphasizing relationship between descending lights and mountain ridgeline
-    focus: Descending lights approaching mountain silhouette with documenting witness
-    depth: Foreground shows witness with recording equipment, middle ground captures desert terrain approaching mountains,
-      background dominated by lights descending behind ridgeline
+    cameraAngle: Press conference view showing podium and costumed figure
+    focus: Governor at podium with alien costume figure as central dramatic element
+    depth: Foreground shows press conference podium, middle ground shows costumed aide and officers, background shows government
+      chamber
 visualElements:
   colorPalette:
     primary:

@@ -1,0 +1,108 @@
+sceneDescription:
+  setting:
+    time: December 28, 1980, 02:45 AM
+    location: Dense managed pine forest interior, Rendlesham Forest, Suffolk, England - Scots and Corsican pine stands
+    weather: Cold winter night, fog affecting equipment, near freezing temperatures
+  characters:
+  - appearance: Caucasian man, 41 years old, military bearing, authoritative presence, determined expression
+    clothing: U.S. Air Force winter field uniform - OG-107 cotton sateen or early BDU woodland camouflage, M-65 field jacket,
+      thermal underwear, field cap, black military boots, subdued rank insignia on collar
+    position: Standing with confident military posture, often holding handheld cassette recorder
+    action: Leading investigation, documenting events on tape recorder, directing team members
+  - appearance: Caucasian man, military age, technical specialist demeanor, frustrated expression
+    clothing: U.S. Air Force winter field uniform - woodland camouflage BDU or OG-107, M-65 field jacket, thermal underwear,
+      field cap, combat boots, Disaster Preparedness specialist insignia
+    position: Kneeling beside malfunctioning equipment
+    action: Attempting to repair portable generator and lighting equipment that has failed during critical investigation
+  scene:
+    mainElements: Tall pine trees creating dark canopy, sandy soil covered with pine needles, ferns and heather undergrowth,
+      forestry roads, small clearings. Investigation team dealing with equipment failure during critical observation period.
+    details: Dense forest investigation site with technical difficulties hampering documentation efforts. Light-all portable
+      generator with floodlights malfunctioning during investigation, leaving team dependent on handheld lighting. Handheld
+      cassette tape recorder with red recording light, used for documenting investigation, metal and plastic construction
+      typical of 1980 portable recording devices continuing to function despite other equipment failures. Standard U.S. Air
+      Force issued flashlight with metal body, powerful beam for cutting through forest darkness, typical 1980 military specifications
+      providing only illumination source. Military field radio for communication with base, portable unit with antenna, used
+      for coordinating investigation and reporting findings to command attempting to maintain contact with base.
+    background: Dark forest depths with limited illumination, shadows creating ominous environment for continued investigation
+    atmosphere: Dark, dense forest with flashlight beams cutting through darkness, natural film noir lighting, fog diffusing
+      distant lights. Technical frustration combined with ongoing mysterious phenomena creating heightened tension, no text
+      or letters visible
+  composition:
+    cameraAngle: Medium shot showing team struggling with equipment while maintaining investigation
+    focus: Technical specialist working on failed generator while commander continues documentation
+    depth: 'Foreground: malfunctioning equipment and tools. Middle: team members dealing with technical problems. Background:
+      dark forest with limited visibility'
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

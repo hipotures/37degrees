@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Modern Tour Operation Safety Procedures"
+  setting:
+    time: "2020s, morning"
+    location: "La Paz outskirts, Bolivia - high altitude departure point at 3,500 meters elevation"
+    weather: "Clear morning perfect for adventure tourism"
+  characters:
+    - appearance: "Tour guide, 30s, experienced mountain guide, calm demeanor, local knowledge"
+      clothing: "Professional outdoor gear - technical jacket, mountain boots, radio equipment"
+      position: "Leading comprehensive safety briefing"
+      action: "Demonstrating proper use of safety equipment, checking each tourist's gear thoroughly"
+    - appearance: "Group of tourists, mixed ages, international visitors, excited expressions"
+      clothing: "High-quality modern cycling gear and protective equipment"
+      position: "Gathered around guide for safety instruction"
+      action: "Listening attentively to safety procedures, checking equipment, preparing for controlled adventure"
+  scene:
+    mainElements: "Professional tour operation with comprehensive safety protocols and modern equipment"
+    details: "Modern tour operator safety gear - radios, first aid kits, support vehicles, professional-grade mountain bikes, comprehensive protective equipment, organized group management, detailed safety briefings"
+    background: "Fleet of support vehicles, professional tour operation base, mountain road beginning"
+    atmosphere: "Professional adventure tourism, safety-conscious thrill seeking, organized excitement"
+  composition:
+    cameraAngle: "Group shot showing professional tour operation"
+    focus: "Modern safety-focused approach to Death Road tourism"
+    depth: "Safety briefing in foreground, professional equipment in middle ground, adventure destination in background, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Scientific Investigation - Museum Director Begins Formal Study"
+  setting:
+    time: "1902, evening"
+    location: "National Archaeological Museum of Athens, Greece, early 1900s exhibition hall"
+    weather: "Evening light with oil lamps and electric lighting illuminating workspace"
+  characters:
+    - appearance: "Greek man, 60s, distinguished beard, academic bearing, thoughtful expression"
+      clothing: "Formal museum director attire of 1902, dark suit with pocket watch chain"
+      position: "Seated at research table with mechanism fragments spread before him"
+      action: "Documenting and cataloging the bronze mechanism pieces with scientific precision"
+  scene:
+    mainElements: "Grand neoclassical museum interior with marble columns, display cases, and archaeological artifacts"
+    details: "Research workspace with mechanism fragments carefully arranged for study. Ancient bronze mechanical device, 34cm x 18cm x 9cm, complex system of 30+ interlocking gears, corroded green patina, inscribed with Greek text, fragmented into multiple pieces, world's first analog computer. Scientific instruments, measuring tools, documentation materials, and the growing understanding of the artifact's complexity. Multiple gear fragments showing intricate bronze work and astronomical inscriptions."
+    background: "Quiet museum interior with classical architecture, scholarly research environment of early 1900s"
+    atmosphere: "Scholarly academic environment with natural light from tall windows illuminating ancient Greek treasures. Intense scientific focus and growing amazement at the discovery."
+  composition:
+    cameraAngle: "Medium shot of director at work with mechanism"
+    focus: "Museum director conducting systematic scientific examination"
+    depth: "Foreground: mechanism fragments and research tools, middle ground: director at work, background: museum architecture, no text or letters visible"

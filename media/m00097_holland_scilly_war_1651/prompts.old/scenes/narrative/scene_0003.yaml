@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Dutch Merchant Losses - Ships Under Attack"
+  setting:
+    time: "1651, early morning"
+    location: "Atlantic waters near English Channel trade routes"
+    weather: "Clear morning with moderate seas"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Dutch merchant vessel under attack by Royalist privateers, naval battle in progress"
+    details: "Dutch trading ship with cargo holds visible, Royalist warship alongside firing cannons, smoke from naval gunfire, sailors abandoning damaged merchant vessel, valuable cargo being transferred to Royalist ship, damaged rigging and sails, debris floating in water"
+    background: "Open Atlantic waters with distant coastline, other merchant ships fleeing the area, seabirds disturbed by battle"
+    atmosphere: "Maritime commerce disrupted by civil war privateering, Dutch shipping suffering heavy losses, economic warfare on high seas, reason for Dutch intervention, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from sea level showing naval attack"
+    focus: "Privateering attack on Dutch merchant shipping"
+    depth: "Ships in battle in foreground, debris field in middle ground, open Atlantic in background"

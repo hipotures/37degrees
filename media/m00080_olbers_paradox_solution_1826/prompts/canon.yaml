@@ -4,59 +4,77 @@ canon:
       name: "Character HO"
       description_block: |
         characters:
-          - appearance: "German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom"
-            clothing: "1820s dark blue physician's coat over white shirt and black vest, or formal black academic dress coat with high collar"
-            posture: "Scholarly bearing, often with hands clasped behind back or adjusting spectacles while observing"
-    - id: "character_assistant"
-      name: "Medical Assistant"
+          - appearance: "Caucasian man, late 60s, 68 years old in 1826, medium build, intelligent eyes behind round spectacles, graying hair, weathered hands from years of telescope work, gentle demeanor from medical practice"
+            clothing: "Dark formal coat typical of German professionals, white cravat, practical boots for nighttime observatory work"
+            position: "Standing at telescope or seated at desk with astronomical calculations"
+            action: "Adjusting telescope focus, making careful observations, or writing mathematical formulas"
+    - id: "character_EAP"
+      name: "Character EAP"
       description_block: |
         characters:
-          - appearance: "Young German man, early 20s, slight build, brown hair, eager expression"
-            clothing: "Simple white shirt with rolled sleeves, dark vest, leather apron for medical work"
-            posture: "Attentive, often carrying medical instruments or astronomical tools"
+          - appearance: "Caucasian man, 39 years old in 1848, tall and lean, dark hair, penetrating dark eyes, pale complexion, high forehead, intense brooding expression"
+            clothing: "Black formal wear typical of American literary society, white shirt, dark cravat, sometimes disheveled from intense writing sessions"
+            position: "Seated at writing desk surrounded by manuscripts and books"
+            action: "Writing with quill pen, contemplating cosmic mysteries, or gazing out window at night sky"
+    - id: "character_TD"
+      name: "Character TD"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, middle-aged Elizabethan gentleman, well-groomed beard, intelligent eyes, scholar's pallor from studying"
+            clothing: "Elizabethan doublet and hose, ruff collar, scholar's cap, practical clothing for astronomical observations"
+            position: "Standing with astronomical instruments or seated studying manuscripts"
+            action: "Making careful observations of stars, writing observations with quill, or discussing infinite space concepts"
+    - id: "character_JK"
+      name: "Character JK"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 39 years old in 1610, slight build, intense eyes, scholarly appearance, often squinting due to poor eyesight"
+            clothing: "Early 17th-century scholar's robes, simple but well-made, practical for mathematical work"
+            position: "Working at desk with mathematical instruments or contemplating at window"
+            action: "Calculating planetary motions, drawing geometric diagrams, or frustrated contemplation of cosmic paradoxes"
   locations:
     - id: "bremen_observatory"
-      name: "Bremen Home Observatory"
+      name: "Bremen Observatory"
       description_block: |
         setting:
-          location: "Upper floor astronomical observatory in Bremen townhouse, 1826"
-        mainElements: "Wooden telescope on brass mount, star charts on walls, measuring instruments on oak table"
-        atmosphere: "Intimate scholarly workspace with warm candlelight illuminating scientific instruments"
-    - id: "bremen_medical_office"
-      name: "Medical Practice Office"
+          location: "Converted upper floor of family home in Bremen, Germany, overlooking medieval cityscape"
+        mainElements: "Large refracting telescope mounted near window, star charts covering walls, mathematical instruments on wooden tables, oil lamps providing warm illumination, comfortable chair for long observation sessions"
+        atmosphere: "Quiet night hours after medical practice, cool German air, city sounds fading to silence, scholarly focus on cosmic mysteries"
+    - id: "german_lecture_hall"
+      name: "German University Lecture Hall"
       description_block: |
         setting:
-          location: "Ground floor physician's office in Bremen townhouse, 1826"
-        mainElements: "Medical examination table, cabinet with bottles and instruments, desk with patient records"
-        atmosphere: "Professional medical environment with clean white linens and organized equipment"
-    - id: "night_sky_view"
-      name: "Dark Night Sky"
+          location: "Traditional German academic amphitheater with wooden benches arranged in ascending rows, 1820s"
+        mainElements: "Large blackboard with astronomical diagrams, wooden podium for lecturer, oil lamps providing warm light, students with notebooks and quills, scientific instruments displayed"
+        atmosphere: "Scholarly discussion and debate, chalk dust in air, earnest scientific inquiry, revolutionary ideas challenging accepted cosmic wisdom"
+    - id: "infinite_universe"
+      name: "Conceptual Infinite Universe"
       description_block: |
         setting:
-          location: "Clear night sky view from Bremen, northern Germany, 1826"
-        mainElements: "Vast dark sky with scattered bright stars, Milky Way visible, rooftops silhouetted below"
-        atmosphere: "Mysterious darkness punctuated by brilliant starlight, sense of cosmic vastness"
-    - id: "university_lecture_hall"
-      name: "Academic Lecture Hall"
+          location: "Vast cosmic expanse stretching infinitely in all directions, filled with countless stars"
+        mainElements: "Infinite stellar spheres at varying distances, each star a bright point of light, mathematical grid lines showing geometric progression, observer's line of sight extending forever into space"
+        atmosphere: "Should be blazingly bright but paradoxically remains dark, cosmic mystery hanging in space, mathematical certainty conflicting with visual observation"
+    - id: "poe_writing_study"
+      name: "Poe's Writing Study"
       description_block: |
         setting:
-          location: "University lecture hall with tiered wooden seating, Göttingen or Bremen, 1826"
-        mainElements: "Wooden podium, blackboard, oil lamps for lighting, formal academic chairs"
-        atmosphere: "Scholarly intellectual environment for sharing scientific discoveries"
+          location: "Dimly lit writing room in Poe's residence, 1848"
+        mainElements: "Writing desk covered with manuscripts, ink well and quill pen, cosmology books open to star charts, candles providing flickering illumination, window showing dark night sky"
+        atmosphere: "Late night contemplation, creative energy mixed with scientific intuition, shadows dancing on walls, cosmic inspiration striking literary genius"
   items:
-    - id: "refracting_telescope"
-      name: "Refracting Telescope"
+    - id: "olbers_telescope"
+      name: "Olbers' Telescope"
       description_block: |
-        details: "Long brass refracting telescope on wooden tripod mount with adjustable brass fittings and eyepiece accessories"
-    - id: "star_charts"
-      name: "Astronomical Charts"
+        details: "Brass refracting telescope approximately 4 feet long, mounted on wooden tripod, multiple eyepieces for different magnifications, well-maintained instrument showing years of use, precise focusing mechanisms, German craftsmanship typical of early 19th century"
+    - id: "mathematical_diagram"
+      name: "Star Distribution Diagram"
       description_block: |
-        details: "Hand-drawn star maps on parchment showing constellation patterns and stellar positions with careful notations"
-    - id: "medical_instruments"
-      name: "Medical Equipment"
+        details: "Hand-drawn geometric diagram on paper, showing concentric spheres around Earth, mathematical notations in German script, illustrates how infinite stellar spheres should create uniform brightness, calculations of cumulative light from distant stars"
+    - id: "astronomical_almanac"
+      name: "Astronomisches Jahrbuch 1826"
       description_block: |
-        details: "Physician's black leather bag containing metal instruments, glass vials, and white bandages typical of 1820s medicine"
-    - id: "comet_calculations"
-      name: "Mathematical Calculations"
+        details: "Bound German astronomical almanac, approximately 200 pages, leather cover with gold lettering, contains formal publication of the paradox, mathematical calculations, diagrams showing infinite star distribution"
+    - id: "eureka_manuscript"
+      name: "Eureka Manuscript"
       description_block: |
-        details: "Sheets of paper covered with mathematical equations and orbital calculations written in precise handwriting with quill pen"
+        details: "Published book from 1848, approximately 150 pages, dark cover typical of mid-19th century publications, contains cosmological theories including finite universe age and Big Bang-like origin concepts"

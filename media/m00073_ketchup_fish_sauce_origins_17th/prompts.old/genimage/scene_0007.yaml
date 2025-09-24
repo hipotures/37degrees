@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1680s, afternoon
+    location: Large kitchen in English manor house, England, late 17th century
+    weather: Rainy English afternoon
+  characters:
+  - appearance: Chinese woman, 40s, efficient movements, hair in traditional bun, practical demeanor
+    clothing: Simple gray cotton tunic, wide pants, white apron, cloth shoes, sleeves often rolled up
+    position: At wooden preparation table in kitchen
+    action: Teaching English cook how to use Asian fish sauce, demonstrating proper measurement and application
+  - appearance: English woman, 50s, round face, graying hair under white cap, sturdy build from kitchen work
+    clothing: Brown wool dress with white apron, linen cap, sturdy leather shoes
+    position: Beside preparation table watching demonstration
+    action: Learning to incorporate Asian fish sauce into English recipes, tasting and adjusting flavors
+  scene:
+    mainElements: Stone fireplace with hanging pots, wooden preparation tables, shelves of ceramic jars, herbs hanging from
+      beams
+    details: Clear glass bottle with amber-colored liquid being measured into wooden bowls, various English cooking ingredients
+      being combined with Asian sauce, copper pots simmering over fire, ceramic storage jars on shelves, traditional English
+      kitchen tools
+    background: Large stone fireplace with cooking fire, window showing English countryside, servants moving about kitchen
+      tasks, pantry with stored goods
+    atmosphere: Warm and busy domestic environment with attempts to recreate exotic Asian flavors, cultural fusion in cooking,
+      experimentation with new ingredients, no text or letters visible
+  composition:
+    cameraAngle: Medium shot focusing on cooking demonstration
+    focus: Cultural exchange through culinary teaching and adaptation
+    depth: Foreground shows detailed cooking instruction, middle ground features kitchen activity, background shows domestic
+      English setting
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

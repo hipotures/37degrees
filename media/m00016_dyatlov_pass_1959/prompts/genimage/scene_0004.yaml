@@ -1,115 +1,86 @@
 sceneDescription:
   setting:
-    time: February 1, 1959, evening around 8:00 PM
-    location: Inside large expedition tent on eastern slope of Kholat Syakhl mountain
-    weather: Complete darkness outside, extreme cold, wind battering tent walls
+    time: February 28, 1959, late afternoon
+    location: Large Siberian cedar tree, 1.5 kilometers downslope from tent, at tree line
+    weather: Overcast with scattered snow flurries, moderate wind, -22°C
   characters:
-  - appearance: Caucasian man, mid-20s, average build, serious expression, short dark hair
-    clothing: Wool sweater and thick pants, winter socks, removed outer jacket inside tent
-    position: Sitting near tent entrance with maps and papers
-    action: Writing in expedition diary by flashlight, documenting day's progress
-  - appearance: Caucasian woman, early 20s, slender build, determined expression, medium brown hair in braids
-    clothing: Thick wool sweater, padded pants, winter hat removed showing braids
-    position: Sitting on sleeping bag near tent wall
-    action: Organizing personal items and checking compass readings
-  - appearance: Caucasian woman, early 20s, athletic build, cheerful expression, blonde hair in ponytail
-    clothing: Heavy wool jacket, thick pants, winter cap off revealing ponytail
-    position: Center of tent near equipment pile
-    action: Preparing food supplies from canvas bags
-  - appearance: Caucasian man, mid-20s, tall slender build, intellectual appearance, wire-rimmed glasses
-    clothing: Long wool sweater, thick winter pants, glasses catching flashlight reflection
-    position: Corner of tent with camera equipment
-    action: Carefully examining 1950s Soviet camera and checking film supply
-  - appearance: Caucasian man, early 20s, stocky build, friendly face, curly dark hair
-    clothing: Padded jacket, wool pants, thick winter socks
-    position: Lying on sleeping bag reading
-    action: Looking through shared group notebook with songs and jokes
-  - appearance: Caucasian man, late 30s, robust build, weathered face, graying hair, military bearing
-    clothing: Army-style winter sweater, thick pants, military bearing evident
-    position: Near disassembled stove components
-    action: Examining portable wood stove parts but not assembling due to conditions
+  - appearance: Soviet investigator, 40s, methodical approach, troubled expression
+    clothing: Official winter coat, fur hat with Soviet insignia, leather gloves
+    position: Standing at base of cedar, looking up at broken branches
+    action: Photographing evidence of climbing attempts, measuring height of damage
+  - appearance: Forensic specialist, 35, precise manner, analytical focus
+    clothing: Professional winter gear, equipment bag, warm cap
+    position: Crouched beside fire remains, sifting through charred material
+    action: Collecting samples of burned clothing and wood remnants
+  - appearance: Search team member, 28, tracker experience, grim realization
+    clothing: Military winter uniform, rescue pack, wool mittens
+    position: Examining scratches on tree bark at eye level
+    action: Documenting claw marks and bark damage with measuring tools
   scene:
-    mainElements: Interior of large canvas tent cramped with nine expedition members, sleeping bags arranged on tent floor,
-      equipment and supplies organized along tent walls, flashlights providing only illumination
-    details: Large self-made canvas tent interior with military-style construction, Soviet student identification cards visible
-      among personal belongings, 1950s Soviet cameras in leather cases, shared group notebook with expedition records, axes
-      and knives secured near entrance, disassembled portable wood stove with metal chimney pipe sections, food supplies in
-      canvas bags, mandolin resting against tent wall, multiple flashlights creating atmospheric lighting
-    background: Canvas tent walls moving with wind, shadows dancing from flashlight beams, personal gear and clothing hanging
-      from tent frame, wind-driven snow visible through tent entrance gap
-    atmosphere: Cozy but tense atmosphere inside shelter, camaraderie among group members, underlying awareness of harsh conditions
-      outside, intimate lighting creating warm contrast to hostile environment, last peaceful moments before unknown danger
+    mainElements: Massive Siberian cedar with branches broken and snapped up to 5 meters high, small fire pit dug into snow
+      at tree base, two bodies found nearby, scattered remnants of burned clothing and pine branches
+    details: Tree bark scarred with desperate climbing attempts, branches thick as arms snapped off cleanly, fire remains
+      show clothing burned for fuel including pieces of underwear, charred pine needles and small twigs, evidence of extended
+      time spent at location, bodies positioned near warmth source, investigators' equipment including cameras and evidence
+      collection tools, no text or letters visible
+    background: Dense Siberian forest extending into distance, snow-laden branches creating maze-like canopy, tree line slope
+      rising toward tent location, gray overcast sky filtering through forest
+    atmosphere: Desperate final survival attempt, evidence of prolonged struggle against elements, tragic failure despite
+      resourceful efforts, investigators' growing understanding of victims' ordeal
   composition:
-    cameraAngle: Interior medium shot from tent entrance looking into crowded space
-    focus: Group of expedition members settling in for night inside tent shelter
-    depth: Foreground shows entrance area with equipment, middle ground captures character interactions and activities, background
-      reveals tent interior arrangement and gear organization, no text or letters visible
+    cameraAngle: Low angle emphasizing massive cedar tree and evidence of climbing
+    focus: Cedar tree as focal point showing extent of survival efforts
+    depth: Tree trunk and fire remains in foreground, investigators and forest in middle ground, slope toward tent site in
+      background
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

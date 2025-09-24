@@ -1,17 +1,24 @@
 sceneDescription:
-  title: "Bridge Legacy - Volcano-Resistant Infrastructure Achievement"
+  title: "Post-Eruption Assessment Confirms Revolutionary Volcanic Engineering Success"
   setting:
-    time: "1884, dawn"
-    location: "Cholut River valley crossing point, Central Java, Indonesia, with Mount Merapi visible in background"
-    weather: "Clear dawn with Mount Merapi showing active volcanic activity"
+    time: "November 1884, clear morning light after volcanic settling"
+    location: "Steep volcanic valley with rocky terrain, crossed by seasonal volcanic drainage channel near Mount Merapi slopes"
+    weather: "Clear tropical morning with settled volcanic ash creating unique atmospheric conditions"
   characters:
-    No characters present in this scene
+    - appearance: "45-year-old Dutch man, medium build, graying beard, weathered face from tropical sun exposure"
+      clothing: "White colonial linen shirt, dark trousers, wide-brimmed hat, leather boots suitable for volcanic terrain"
+      position: "Standing on intact bridge examining construction details and volcanic damage patterns"
+      action: "Methodically documenting successful performance of innovative volcanic engineering techniques for future infrastructure projects"
+    - appearance: "52-year-old German man, academic appearance, salt-and-pepper hair, ink-stained fingers from note-taking"
+      clothing: "European academic attire adapted for tropics, light wool jacket, field notebook in breast pocket"
+      position: "Measuring and examining lava diversion channel effectiveness with scientific instruments"
+      action: "Scholarly analysis and detailed documentation of successful volcanic flow redirection system performance"
   scene:
-    mainElements: "Completed volcanic-resistant bridge standing strong against dramatic Mount Merapi backdrop with active volcanic activity visible"
-    details: "Stone arch bridge constructed from volcanic materials spanning rushing river, integrated lava diversion channels carved into riverbank, engineering achievement demonstrating Dutch colonial innovation, bridge deck showing successful load-bearing capacity, volcanic stone construction weathering natural elements"
-    background: "Mount Merapi volcano with dramatic steam and ash plumes, morning light illuminating volcanic landscape, tropical vegetation surrounding bridge approaches, river flowing peacefully under bridge structure"
-    atmosphere: "Engineering triumph over natural forces, lasting infrastructure achievement designed to withstand volcanic threats, monument to collaborative effort between Dutch engineering and Javanese craftsmanship, sense of permanence and successful innovation"
+    mainElements: "Intact Cholut Bridge showing no structural damage from volcanic eruption, successful lava diversion channels with evidence of redirected flows, volcanic ash deposits showing flow patterns around protected bridge structure. Large sheets of paper covered with mathematical calculations, measurements, and structural diagrams documenting successful engineering results"
+    details: "Bridge structure completely undamaged despite extreme volcanic testing, lava diversion channels showing clear evidence of successful flow redirection, volcanic deposits revealing precise flow patterns guided by engineering design, measuring instruments documenting structural integrity, assessment notes recording breakthrough in volcanic engineering, comparison between damaged surrounding area and protected bridge infrastructure"
+    background: "Mount Merapi now dormant with reduced volcanic activity, landscape showing extensive volcanic damage except where engineering protection was successful, evidence of natural recovery beginning in areas not destroyed by flows"
+    atmosphere: "Scientific triumph and engineering validation after extreme natural testing, sense of groundbreaking achievement in volcanic hazard mitigation, quiet satisfaction of innovation proven successful under real-world conditions, tropical recovery beginning amid volcanic aftermath, no text or letters visible"
   composition:
-    cameraAngle: "Wide establishing shot showing bridge as permanent fixture in volcanic landscape"
-    focus: "Completed bridge structure demonstrating successful volcano-resistant engineering solution"
-    depth: "Bridge structure in foreground, river and tropical landscape in middle ground, active Mount Merapi volcano dominating background, no text or letters visible"
+    cameraAngle: "Wide angle showing intact bridge infrastructure contrasted against volcanic damage in surrounding landscape"
+    focus: "Successful volcanic engineering assessment with experts documenting breakthrough achievement in infrastructure protection"
+    depth: "Foreground displays detailed engineering assessment and character documentation work, middle ground shows intact bridge proving engineering success, background reveals Mount Merapi as conquered volcanic challenge through innovative engineering solutions"

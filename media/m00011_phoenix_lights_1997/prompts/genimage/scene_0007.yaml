@@ -1,27 +1,29 @@
 sceneDescription:
   setting:
-    time: March 13, 1997, 10:00 PM MST, night
-    location: Sierra Estrella mountain range southwest of Phoenix, Arizona
-    weather: Clear night sky, calm conditions
+    time: March 13, 1997, 10:00 PM MST, desert night training operation
+    location: Vast desert bombing and training range in southwestern Arizona, remote mountainous terrain
+    weather: Dark desert night, crystal clear skies
   characters:
-  - appearance: Family group of 3-4 people, mixed ages from children to adults, suburban residents
-    clothing: Casual evening wear, light sweaters, t-shirts, jeans appropriate for cool March desert evening
-    position: Standing close together in yard or street
-    action: Looking upward, pointing at sky, standing close together in yard or street
+  - appearance: Caucasian man, 30s-40s, military bearing, regulation military haircut, serious professional demeanor
+    clothing: A-10 pilot flight suit with patches and insignia, helmet during flight operations, military dress uniform for
+      official statements
+    position: In military aircraft cockpit or standing beside A-10 aircraft
+    action: Operating aircraft controls, conducting flight operations, or giving military briefings
   scene:
-    mainElements: Rocky desert mountain ridgeline silhouetted against evening sky
-    details: Row of bright amber-golden lights hovering motionless above Sierra Estrella mountain ridgeline, lights arranged
-      in horizontal line maintaining perfect stationary positions, LUU-2B/B illumination flares, extremely bright magnesium-based
-      light source, deployed on parachutes, creating steady golden-amber glow against night sky, 2 million candlepower intensity,
-      multiple witness families gathering in residential areas pointing toward mountain range, lights appear much brighter
-      than typical aircraft, maintaining fixed positions for extended duration, no text or letters visible
-    background: Dramatic mountain backdrop, clear visibility, desert landscape
-    atmosphere: Renewed wonder and confusion as second distinct phenomenon appears hours after first sighting
+    mainElements: Dark desert landscape, Sierra Estrella mountains silhouetted against night sky, military airspace markers,
+      isolated target areas and observation points
+    details: Bright orange-amber military pyrotechnic flares attached to parachutes, approximately 3 feet long, slow-burning
+      illumination devices creating balloon effect on descent from 15,000 feet altitude, A-10 aircraft visible in flight configuration
+      releasing flares in sequence, desert terrain illuminated below by falling flares, no text or letters visible
+    background: Sierra Estrella mountain range creating jagged silhouettes against star-filled sky, completely isolated desert
+      environment
+    atmosphere: Dark desert night, crystal clear skies perfect for training operations, completely isolated from civilian
+      areas, military operational environment, routine training exercise creating spectacular light display
   composition:
-    cameraAngle: Wide shot from residential area looking toward mountain range with stationary lights
-    focus: Row of brilliant stationary lights hovering above mountain silhouette
-    depth: Foreground shows witness families in residential setting, middle ground captures desert terrain, background dominated
-      by illuminated mountain range with hovering lights
+    cameraAngle: Elevated view showing aircraft and descending flares over range
+    focus: Military aircraft releasing illumination flares with desert training range below
+    depth: Foreground shows aircraft and immediate flare deployment, middle ground shows descending flares, background shows
+      mountain silhouettes
 visualElements:
   colorPalette:
     primary:

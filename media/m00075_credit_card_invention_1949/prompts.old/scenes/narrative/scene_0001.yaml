@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Midtown Manhattan Business District - Post-War America 1949"
+  setting:
+    time: "1949, late afternoon, golden hour"
+    location: "Empire State Building and surrounding streets, midtown Manhattan, New York City"
+    weather: "Clear autumn day with crisp air"
+  characters:
+    - appearance: "Caucasian man, early 40s, average height, clean-shaven face, dark hair combed back with pomade, serious business expression, thin-rimmed glasses"
+      clothing: "1949 dark navy business suit with white dress shirt, conservative dark tie, polished black leather shoes, gold wristwatch"
+      position: "Walking briskly on sidewalk among other businessmen"
+      action: "Striding purposefully toward Empire State Building entrance, checking gold wristwatch"
+  scene:
+    mainElements: "Empire State Building and surrounding streets, midtown Manhattan, New York City"
+    details: "Iconic Art Deco skyscraper dominates view, busy sidewalks with businessmen, vintage 1949 automobiles. Post-war era cars line the streets, men in suits and fedoras walking with purpose, steam rising from manholes, yellow taxi cabs, newspaper stands with afternoon editions"
+    background: "Manhattan skyline with other tall buildings, autumn trees lining streets, distant traffic, pedestrians in period clothing"
+    atmosphere: "Bustling post-war American business district, optimistic energy, urban sophistication. The air buzzes with economic prosperity and opportunity as America rebuilds after World War II"
+  composition:
+    cameraAngle: "Wide establishing shot from street level looking up at Empire State Building"
+    focus: "Empire State Building as architectural centerpiece with businessman walking toward entrance"
+    depth: "Foreground shows bustling street activity, middle ground features the businessman approaching building, background displays the towering Art Deco architecture reaching skyward, no text or letters visible"

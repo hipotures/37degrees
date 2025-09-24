@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Doctor Examining Sick Child in Windowless Room"
+  setting:
+    time: "1720, afternoon"
+    location: "Cramped tenement building, East End of London, England"
+    weather: "Overcast day"
+  characters:
+    - appearance: "Caucasian man, 60s, gray beard, kind but concerned expression, weathered hands"
+      clothing: "Dark green coat, white cravat, black medical bag, simple tricorn hat"
+      position: "Kneeling beside makeshift bed examining young patient"
+      action: "Listening to child's breathing with primitive stethoscope by candlelight"
+    - appearance: "Caucasian woman, 30s, thin from hardship, tired eyes, caring demeanor"
+      clothing: "Dark brown wool dress, white linen cap, simple apron, worn shawl"
+      position: "Standing anxiously beside doctor and sick child"
+      action: "Wringing hands with worry while watching medical examination"
+    - appearance: "Young child, 6 years old, pale and sickly, labored breathing"
+      clothing: "Simple nightgown, thin blanket"
+      position: "Lying on simple straw mattress in darkest corner of room"
+      action: "Coughing weakly while doctor conducts examination"
+  scene:
+    mainElements: "Completely bricked-up windows creating perpetual darkness, single candle providing only light, makeshift bed area, medical examination"
+    details: "Black leather physician's bag with glass vials and metal instruments, flickering candle casting dancing shadows, cloth bandages and medical supplies spread on wooden table, completely sealed window openings visible on walls, damp patches from poor ventilation, simple wooden furniture barely visible in darkness, family's modest possessions"
+    background: "Severe health consequences of windowless living conditions, multiple bricked-up window spaces creating tomb-like environment"
+    atmosphere: "Medical crisis in extremely poor living conditions, dangerous health environment created by lack of light and ventilation, grave concern about child's wellbeing, oppressive darkness requiring artificial lighting even during daytime, no text or letters visible"
+  composition:
+    cameraAngle: "Medium close shot focusing on medical examination"
+    focus: "Doctor examining sick child in unnaturally dark living conditions"
+    depth: "Medical examination by candlelight in foreground, worried mother in middle ground, completely bricked-up windows creating dark background"

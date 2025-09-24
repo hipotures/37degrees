@@ -1,32 +1,30 @@
 sceneDescription:
   setting:
-    time: March 14, 1997, morning, bright daylight
-    location: Phoenix residential area, outdoor interview location
-    weather: Clear sunny Arizona morning
+    time: 2001, daytime, research environment
+    location: Medical office or research facility with documentation materials
+    weather: Indoor controlled environment, professional medical setting
   characters:
-  - appearance: Professional reporter, 30s-40s, well-groomed appearance
-    clothing: Business attire suitable for TV, blazer or dress shirt, holding microphone
-    position: Standing facing camera with residential background
-    action: Confident reporting stance, facing camera or interviewing witnesses
-  - appearance: Family group of 3-4 people, mixed ages from children to adults, suburban residents
-    clothing: Casual daytime attire, comfortable clothing for morning interview
-    position: Standing together as interview subjects
-    action: Speaking to reporter, gesturing toward sky, recounting previous evening's experience
+  - appearance: Caucasian woman, 50s, professional medical bearing, blonde hair, alert intelligent eyes, confident posture
+    clothing: Professional medical attire, white lab coat during hospital work, or casual professional dress during interviews
+      and research
+    position: Standing with documentation or seated during interviews
+    action: Reviewing photographs, conducting interviews, or presenting research findings
   scene:
-    mainElements: Official podium with microphones, state seal, formal government setting
-    details: Local news reporter conducting outdoor interview with witness family in residential neighborhood, professional
-      camera crew with broadcast equipment recording testimony, family members pointing toward areas where they observed formations
-      the previous evening, residential background showing typical Phoenix suburban setting, reporter holding microphone and
-      taking notes, broadcast van or news vehicle visible, morning sunlight illuminating interview setup, witnesses animated
-      in describing their experience, no text or letters visible
-    background: Phoenix suburban residential area with desert landscape and mountain ranges visible in distance, clear morning
-      sky
-    atmosphere: Media attention and public interest growing as remarkable night-time event gains widespread coverage
+    mainElements: Medical or research office with desk, filing cabinets, medical diplomas on walls, research materials spread
+      across desk surface
+    details: Series of photographs showing unexplained lights and formations over Phoenix area, multiple exposures on film,
+      professional documentation equipment, research files and analysis materials spread across desk, medical professional
+      examining photographic evidence with magnifying equipment, scientific approach to unexplained phenomenon, no text or
+      letters visible
+    background: Professional medical office environment with diplomas and certificates on walls, medical reference materials,
+      scientific equipment
+    atmosphere: Methodical scientific investigation atmosphere, professional medical environment applied to unexplained phenomenon
+      research, careful documentation and analysis, scholarly pursuit of truth
   composition:
-    cameraAngle: Medium shot capturing reporter and witness family in interview setting
-    focus: News interview in progress with family recounting previous evening's sighting
-    depth: Foreground shows interviewer and subjects, middle ground captures residential setting, background features desert
-      landscape and mountain ranges
+    cameraAngle: Over-shoulder view of researcher examining photographic evidence
+    focus: Medical professional analyzing UFO photographs and documentation
+    depth: Foreground shows photographs and research materials, middle ground shows researcher at work, background shows professional
+      office setting
 visualElements:
   colorPalette:
     primary:

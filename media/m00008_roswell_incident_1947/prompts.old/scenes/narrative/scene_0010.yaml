@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Desert mystery - looking up at night sky"
+  setting:
+    time: "July 1947, late night"
+    location: "Foster Ranch near Corona, New Mexico - remote cattle ranch 75 miles northwest of Roswell"
+    weather: "Clear desert night, no moon, brilliant stars"
+  characters:
+    - appearance: "Caucasian man, 50s, weathered sun-worn face with deep lines, graying hair, lean build"
+      clothing: "1940s ranch attire - worn denim jeans, cotton long-sleeve shirt, brown felt cowboy hat with wide brim, leather belt with simple buckle, worn leather work boots"
+      position: "Standing beside ranch fence, looking upward"
+      action: "Gazing at stars, one hand on fence post, searching the sky"
+  scene:
+    mainElements: "Single-story wood frame ranch house with front porch, weathered barn, corrals, outbuildings"
+    details: "Wooden fence posts with barbed wire, ranch house windows glowing with warm lamplight, windmill silhouette against stars, distant coyote shapes on ridge, vast Milky Way visible overhead, shooting star streak, desert plants casting moon shadows, no text or letters visible"
+    background: "Arid semi-desert landscape with low scrub vegetation, sagebrush, yucca plants, sandy soil with rocky outcrops, vast open sky"
+    atmosphere: "Profound mystery, infinite cosmos above, solitary contemplation, desert silence, sense of unexplained phenomena"
+  composition:
+    cameraAngle: "Low angle emphasizing vast sky"
+    focus: "Lone figure contemplating mysteries of the night sky"
+    depth: "Foreground shows fence and rancher, middle ground has ranch buildings as silhouettes, background dominated by star-filled sky"

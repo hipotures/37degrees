@@ -4,73 +4,80 @@ canon:
       name: "Character GH"
       description_block: |
         characters:
-          - appearance: "Woman, early 40s, medium height, brown hair styled in 1940s fashion, intelligent keen eyes behind wire-rim glasses"
-            clothing: "Navy uniform with lieutenant rank insignia, dark blue jacket with brass buttons, white collared shirt, knee-length skirt, sensible black shoes"
-            posture: "Confident professional bearing, often leaning forward to examine equipment closely"
-    - id: "character_JT"
-      name: "Character JT"
+          - appearance: "42-year-old woman, 5'6", slender build, dark hair pulled back in neat bun, intelligent brown eyes behind wire-rimmed glasses, precise movements"
+            clothing: "Navy uniform - dark blue wool jacket with lieutenant's bars, white shirt, dark tie, practical dark shoes"
+            position: "Standing at work table reviewing technical calculations"
+            action: "Examining computer documentation with analytical focus, notebook in hand"
+
+    - id: "character_HA"
+      name: "Character HA"
       description_block: |
         characters:
-          - appearance: "Man, 30s, tall lean build, dark hair slicked back in 1940s style, serious expression"
-            clothing: "White dress shirt with rolled sleeves, dark trousers, suspenders, black leather shoes, pocket protector with pens"
-            posture: "Methodical and precise, often crouched down examining relay contacts and vacuum tubes"
-    - id: "character_RM"
-      name: "Character RM"
+          - appearance: "48-year-old man, 6'0", distinguished bearing, graying hair, serious expression, strong jawline, commanding presence"
+            clothing: "Gray wool suit, white shirt, conservative tie, polished leather shoes, occasional white lab coat over suit"
+            position: "Standing with hands clasped behind back observing computer operations"
+            action: "Thoughtfully supervising technical work with authoritative demeanor"
+
+    - id: "character_EB"
+      name: "Character EB"
       description_block: |
         characters:
-          - appearance: "Man, 50s, stocky build, graying hair, weathered hands from technical work, mustache"
-            clothing: "Gray technician's coveralls, white undershirt, work boots, tool belt with various instruments"
-            posture: "Practical stance, often holding tools and pointing at specific mechanical components"
-    - id: "character_BL"
-      name: "Character BL"
+          - appearance: "Mid-30s man, medium build, brown hair, focused expression, quick energetic movements"
+            clothing: "White button-down shirt with rolled sleeves, dark slacks, bow tie, practical work attire"
+            position: "Seated at work table examining technical diagrams"
+            action: "Collaboratively working with technical documents, pointing at diagrams with rapid hand movements"
+
+    - id: "character_UT"
+      name: "Character UT"
       description_block: |
         characters:
-          - appearance: "Woman, 20s, petite frame, blonde hair in victory rolls, bright alert expression"
-            clothing: "Light blue blouse, dark skirt, cardigan sweater, small heeled shoes, pencil behind ear"
-            posture: "Eager and attentive, often taking notes and observing senior colleagues"
+          - appearance: "20s-30s person, practical appearance, methodical demeanor, focused on detailed technical work"
+            clothing: "White shirt, dark pants, possibly suspenders, practical work attire suitable for delicate mechanical tasks"
+            position: "Kneeling beside computer panel with tools in hand"
+            action: "Carefully examining relay components with tweezers and small tools"
+
   locations:
-    - id: "main_location_1"
-      name: "Harvard Mark II Computer Room"
+    - id: "harvard_computation_lab"
+      name: "Harvard Computation Laboratory"
       description_block: |
         setting:
-          location: "Harvard University Computation Laboratory, Cambridge, Massachusetts"
-        mainElements: "Massive room-sized computer with relay panels, vacuum tubes, control panels, mechanical switches, whirring cooling fans"
-        atmosphere: "Humid warm air from electronic equipment, constant clicking of relays, bright fluorescent lighting, sense of cutting-edge technology"
-    - id: "main_location_2"
-      name: "Computer Control Console"
+          location: "Cruft Laboratory basement, Harvard University, Cambridge, Massachusetts"
+        mainElements: "Large basement room with high concrete ceilings, overhead fluorescent lighting, massive Harvard Mark II computer along one wall, work tables with technical manuals scattered about, blackboards covered with mathematical equations"
+        atmosphere: "Cool temperature maintained for computer operation, constant sound of clicking electromagnetic relays, electrical humming, smell of metal and electrical components, serious academic focus and concentration"
+
+    - id: "mark_ii_panel_f"
+      name: "Harvard Mark II Panel F"
       description_block: |
         setting:
-          location: "Harvard Mark II operator control station, Cambridge, Massachusetts"
-        mainElements: "Large control desk with switches, dials, indicator lights, paper tape readers, typewriter-style output devices"
-        atmosphere: "Focused work environment with methodical operation of complex machinery, sounds of mechanical typing and paper feed"
-    - id: "main_location_3"
-      name: "Relay Panel F Interior"
+          location: "Section of the massive electromechanical computer system in Harvard laboratory"
+        mainElements: "Metal panel with organized rows of electromagnetic relays, Relay #70 prominently positioned, complex wiring connections, switches and indicator lights, precision engineering visible throughout"
+        atmosphere: "Mechanical clicking sounds from relay operations, occasional electrical arcing visible, warm temperature from electrical components, atmosphere of precise technological advancement"
+
+    - id: "logbook_station"
+      name: "Mark II Logbook Station"
       description_block: |
         setting:
-          location: "Inside Panel F of Harvard Mark II computer, Relay 70 contacts"
-        mainElements: "Intricate mechanical relay contacts, copper wiring, vacuum tubes, electrical connections, metal framework"
-        atmosphere: "Close examination workspace with magnifying equipment, bright task lighting, precise technical environment"
-    - id: "main_location_4"
-      name: "Harvard Laboratory Office"
-      description_block: |
-        setting:
-          location: "Harvard Computation Laboratory administrative office, Cambridge, Massachusetts"
-        mainElements: "Wooden desk with logbooks, typewriter, telephone, filing cabinets, technical manuals, charts on walls"
-        atmosphere: "Academic research environment with documentation focus, sounds of typing and telephone conversations"
+          location: "Dedicated work table area near Harvard Mark II computer for documentation"
+        mainElements: "Wooden work table with organized supplies, bound logbook with lined pages, fountain pens, tape dispenser, desk lamp providing focused lighting, technical reference materials"
+        atmosphere: "Quiet concentration area organized for detailed record-keeping, well-lit workspace optimized for precise documentation, academic atmosphere of careful scientific recording"
+
   items:
-    - id: "key_item_1"
-      name: "The Moth"
+    - id: "the_moth"
+      name: "Computer Bug Moth"
       description_block: |
-        details: "Small brown moth with delicate wings trapped between electrical relay contacts, approximately 2 inches wingspan, clearly visible against metal components"
-    - id: "key_item_2"
-      name: "Laboratory Logbook"
+        details: "Small moth approximately 1 inch wingspan, brown and gray coloration typical of Lepidoptera, wings partially damaged from electrical relay contact, now flattened between relay contacts at position #70"
+
+    - id: "computer_logbook"
+      name: "Harvard Mark II Computer Logbook"
       description_block: |
-        details: "Large bound notebook with handwritten entries in black ink, grid-lined pages, leather cover, containing daily operational records"
-    - id: "key_item_3"
-      name: "Tweezers and Magnifying Glass"
+        details: "Bound ledger book with lined pages, approximately 12x8 inches, black cover, multiple handwritten entries in fountain pen ink, open to page showing afternoon entries for September 9, 1947"
+
+    - id: "harvard_mark_ii"
+      name: "Harvard Mark II Computer"
       description_block: |
-        details: "Precision metal tweezers for delicate work, circular magnifying glass with black handle, technical instruments for detailed examination"
-    - id: "key_item_4"
-      name: "Relay Contact Assembly"
+        details: "Massive 25-ton electromechanical computer, approximately 50 feet long and 8 feet high, multiple metal panels containing thousands of electromagnetic relays, advanced 1947 computing technology with floating-point hardware capabilities"
+
+    - id: "relay_70"
+      name: "Electromagnetic Relay 70"
       description_block: |
-        details: "Mechanical electrical relay with copper contacts, spring mechanisms, mounting hardware, part of larger switching system"
+        details: "Standard high-speed electromagnetic relay switch, approximately 2x1 inches, metal construction with spring-loaded contacts, wire coil mechanism, part of Panel F circuit system where moth became trapped between contact points"

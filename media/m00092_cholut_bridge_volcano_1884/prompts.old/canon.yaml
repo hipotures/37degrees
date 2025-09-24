@@ -1,0 +1,76 @@
+canon:
+  characters:
+    - id: "character_HC"
+      name: "Character HC"
+      description_block: |
+        characters:
+          - appearance: "Dutch engineer, 40s, tall sturdy build, weathered face from tropical climate, brown hair with receding hairline, wire-rim spectacles"
+            clothing: "White colonial linen shirt with rolled sleeves, brown canvas trousers, leather work boots, pith helmet nearby"
+            posture: "Confident stance with hands on drafting instruments, often pointing at engineering drawings"
+    - id: "character_AS"
+      name: "Character AS"
+      description_block: |
+        characters:
+          - appearance: "Javanese master stonemason, 50s, stocky muscular frame, calloused hands, weathered brown skin, graying black hair"
+            clothing: "Traditional Javanese work shirt, brown sarong-style work pants, bare feet, bamboo hat for sun protection"
+            posture: "Examining stone blocks with experienced eye, running hands over surfaces to test quality"
+    - id: "character_PT"
+      name: "Character PT"
+      description_block: |
+        characters:
+          - appearance: "Dutch colonial administrator, 35s, medium build, pale complexion, blonde mustache, formal bearing"
+            clothing: "White colonial dress uniform with brass buttons, black leather belt, polished black boots, peaked cap"
+            posture: "Rigid official stance, often holding rolled documents or pointing authoritatively"
+    - id: "character_KR"
+      name: "Character KR"
+      description_block: |
+        characters:
+          - appearance: "Local Javanese guide, 30s, lean athletic build, dark skin tanned by sun, keen intelligent eyes, quick movements"
+            clothing: "Simple brown cotton shirt, traditional batik sarong, woven sandals, conical bamboo hat"
+            posture: "Alert and observant, often pointing toward volcanic slopes or gesturing about terrain"
+  locations:
+    - id: "main_location_1"
+      name: "Cholut River Crossing Site"
+      description_block: |
+        setting:
+          location: "Cholut River valley crossing point, Central Java, Indonesia, with Mount Merapi visible in background"
+        mainElements: "Wide rushing river with rocky banks, dense tropical vegetation, volcanic rock formations, planned bridge construction site"
+        atmosphere: "Humid tropical air with volcanic ash occasionally visible in distance, sounds of rushing water and jungle wildlife"
+    - id: "main_location_2"
+      name: "Dutch Colonial Engineering Office"
+      description_block: |
+        setting:
+          location: "Colonial administration building, Yogyakarta, Central Java, Indonesia"
+        mainElements: "Large wooden desk with engineering drawings, surveying instruments, oil lamps, teak furniture, high ceiling with fans"
+        atmosphere: "Humid tropical interior with filtered sunlight through shuttered windows, formal colonial atmosphere"
+    - id: "main_location_3"
+      name: "Mount Merapi Volcanic Slopes"
+      description_block: |
+        setting:
+          location: "Lower volcanic slopes of Mount Merapi, Central Java, Indonesia"
+        mainElements: "Hardened lava flows, volcanic rock formations, sparse vegetation, steam vents, ash-covered terrain"
+        atmosphere: "Ominous volcanic presence with occasional rumbling, sulfurous air, dramatic lighting from volcanic activity"
+    - id: "main_location_4"
+      name: "Local Stone Quarry"
+      description_block: |
+        setting:
+          location: "Volcanic stone quarry near Merapi foothills, Central Java, Indonesia"
+        mainElements: "Terraced quarry walls, blocks of volcanic stone, wooden scaffolding, hand tools, ox carts for transport"
+        atmosphere: "Dusty air filled with stone chips, sounds of chiseling and hammering, industrious working environment"
+  items:
+    - id: "key_item_1"
+      name: "Engineering Calculations"
+      description_block: |
+        details: "Large sheets of beige paper covered with hand-drawn bridge designs, mathematical calculations in ink, measurements for volcanic load resistance"
+    - id: "key_item_2"
+      name: "Surveying Equipment"
+      description_block: |
+        details: "Brass theodolite on wooden tripod, measuring chains, leveling instruments, compass, all contained in wooden carrying case"
+    - id: "key_item_3"
+      name: "Volcanic Stone Samples"
+      description_block: |
+        details: "Collection of dark volcanic rock samples of various sizes, some polished to show internal structure, labeled with location markers"
+    - id: "key_item_4"
+      name: "Bridge Model"
+      description_block: |
+        details: "Small wooden scale model of proposed bridge design showing arch construction and lava channel diversions, painted to show different materials"

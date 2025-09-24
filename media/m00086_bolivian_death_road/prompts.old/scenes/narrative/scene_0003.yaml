@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Death Road Construction 1930s Prisoners"
+  setting:
+    time: "1930s, midday"
+    location: "North Yungas Road under construction, Bolivia - mountainside during Chaco War period"
+    weather: "Harsh mountain sun with occasional cloud shadows"
+  characters:
+    - appearance: "Local Bolivian man, 40s, weathered face from mountain work, strong build, dark hair"
+      clothing: "Traditional Bolivian work clothes - worn denim jacket, wool sweater, heavy boots"
+      position: "Standing on partially constructed road section"
+      action: "Supervising construction work, pointing toward cliff face where road must be carved"
+    - appearance: "Construction worker, 30s, dirt-covered face, lean from hard labor, intense expression"
+      clothing: "Work clothes from 1930s era - canvas pants, cotton shirt, worn leather boots"
+      position: "Working with pickaxe against rock face"
+      action: "Chipping away at mountainside to create narrow road passage, sweat visible despite mountain cold"
+  scene:
+    mainElements: "Road construction site carved into sheer cliff face, workers with basic tools creating dangerous mountain passage"
+    details: "Primitive construction equipment, workers using hand tools to carve road from solid rock, temporary wooden supports, construction materials scattered on narrow ledges, evidence of blasting work on cliff face"
+    background: "Unfinished road sections winding through mountains, construction camps visible on distant ridges"
+    atmosphere: "Harsh working conditions, determination mixed with danger, monumental engineering challenge"
+  composition:
+    cameraAngle: "Medium shot showing scale of construction challenge"
+    focus: "Workers creating the infamous road through dangerous mountain terrain"
+    depth: "Construction activity in foreground, partially completed road in middle ground, mountain vastness in background, no text or letters visible"

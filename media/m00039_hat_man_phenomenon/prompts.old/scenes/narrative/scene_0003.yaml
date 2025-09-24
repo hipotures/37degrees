@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Hat Man Standing in Corner Watching Sleeper"
+  setting:
+    time: "2012, 3:33 AM"
+    location: "Urban apartment bedroom, modest urban living space"
+    weather: "City night with ambient street lighting"
+  characters:
+    - appearance: "Adult in 30s-40s, tense facial expression with eyes wide with fear or confusion"
+      clothing: "Nightclothes, pajamas, or sleeping attire"
+      position: "In bed or sitting on edge of bed, body rigid with paralysis"
+      action: "Experiencing sleep paralysis, attempting to move but unable, eyes fixed on shadow figure"
+    - appearance: "Tall dark silhouette, 8-10 feet in height, completely featureless black form with no visible face or limbs"
+      clothing: "Wide-brimmed fedora hat and long dark coat or trench coat, both appearing as solid black shadow"
+      position: "Standing upright, often positioned in doorways, corners, or beside beds"
+      action: "Motionless watching presence, occasionally seen moving with fluid gliding motion"
+  scene:
+    mainElements: "Small bed against wall, minimal furniture, window overlooking city buildings, narrow doorway"
+    details: "LED digital clock displaying late night time between 2:00 AM and 4:00 AM, casting dim red or green glow. Hat Man positioned in far corner of room, creating imposing silhouette against pale wall. Urban apartment sparsely furnished with basic necessities only."
+    background: "Window showing city lights and neon signs from buildings across street, creating colorful but eerie illumination patterns on walls"
+    atmosphere: "Urban ambient light from neon signs and streetlights creating dramatic shadows, sounds of city life muffled. Cramped urban space making Hat Man's presence feel more oppressive and inescapable"
+  composition:
+    cameraAngle: "Wide shot from opposite corner of room"
+    focus: "Hat Man figure dominating corner while witness lies paralyzed in bed"
+    depth: "Foreground: foot of bed, middle: paralyzed person in bed staring at corner, background: towering Hat Man silhouette in corner with city lights through window, no text or letters visible"

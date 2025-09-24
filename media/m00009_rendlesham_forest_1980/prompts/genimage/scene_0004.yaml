@@ -1,41 +1,37 @@
 sceneDescription:
   setting:
-    time: December 28, 1980, early morning
-    location: RAF Woodbridge base operations area, Suffolk, England
-    weather: Cold winter morning, clear skies
+    time: December 26, 1980, 03:30 hours
+    location: Rendlesham Forest entrance, 0.3 miles east of RAF Woodbridge East Gate, Suffolk, England
+    weather: Cold December night with fog, limited visibility in dense forest
   characters:
-  - appearance: Caucasian man, 41 years old, military bearing, authoritative presence, determined expression
-    clothing: U.S. Air Force winter field uniform - OG-107 cotton sateen or early BDU woodland camouflage, M-65 field jacket,
-      thermal underwear, field cap, black military boots, subdued rank insignia on collar
-    position: Standing with confident military posture, often holding handheld cassette recorder
-    action: Leading investigation, documenting events on tape recorder, directing team members
-  - appearance: Caucasian man, military age, technical specialist demeanor, concentrated expression
-    clothing: U.S. Air Force winter field uniform - woodland camouflage BDU or OG-107, M-65 field jacket, thermal underwear,
-      field cap, combat boots, Disaster Preparedness specialist insignia
-    position: Standing while checking technical equipment
-    action: Preparing AN/PDR-27 radiation survey meter for field use, conducting equipment checks
-  - appearance: Caucasian man, military age, alert expression, focused demeanor
-    clothing: U.S. Air Force Security Police winter gear - woodland camouflage BDU or OG-107 uniform, M-65 field jacket, thermal
-      layers, field cap, combat boots, subdued Security Police patches
-    position: Standing at attention awaiting orders
-    action: Receiving briefing for return investigation to forest site
+  - appearance: Caucasian man, early 30s, athletic build typical of security police, dark hair, clean military appearance
+    clothing: Security Police duty uniform, combat boots, utility belt with radio and equipment, carried standard security
+      gear
+    position: Leading the investigation team into forest
+    action: Advancing cautiously through forest with flashlight, examining ground for signs of crashed aircraft
+  - appearance: Caucasian man, early 20s, typical military build and appearance, short regulation haircut
+    clothing: Security Police duty uniform, standard military boots, carried radio and patrol equipment
+    position: Following behind team leader with equipment
+    action: Scanning trees and undergrowth with flashlight, maintaining communication with base
+  - appearance: Caucasian man, military age, standard security police build and appearance
+    clothing: Security Police duty uniform, standard military boots, patrol equipment
+    position: At rear of investigation team
+    action: Monitoring radio communications and covering rear approach
   scene:
-    mainElements: Military base operations area with concrete buildings, personnel gathering for special investigation mission.
-      Team of three airmen preparing technical equipment for forest investigation.
-    details: Concrete military buildings typical of 1980 U.S. Air Force base construction. Portable military radiation detector
-      - metal rectangular device (13x28x20 cm) with carrying handle, analog meter display with needle gauge, detection probe
-      on retractable cord, clicking sound mechanism for radiation detection being prepared for use. Handheld cassette tape
-      recorder with red recording light, used for documenting investigation, metal and plastic construction typical of 1980
-      portable recording devices held by commanding officer. Standard U.S. Air Force issued flashlight with metal body, powerful
-      beam for cutting through forest darkness, typical 1980 military specifications carried by team members.
-    background: RAF Woodbridge base facilities with control tower and aircraft hangars visible in distance
-    atmosphere: Professional military preparation for unusual investigation, sense of serious official inquiry into unexplained
-      phenomena, cold morning air with visible breath, no text or letters visible
+    mainElements: Dense pine and fir trees, forest roads and trails, clearings, heathland areas, military vehicles on forest
+      paths
+    details: Three military personnel advancing through dense coniferous forest, powerful military flashlights cutting through
+      darkness, radio equipment crackling with communications, investigation gear including cameras and measuring tools, forest
+      floor covered with pine needles and undergrowth, no text or letters visible
+    background: Dark forest environment with towering pine trees creating canopy overhead, mysterious glow visible deeper
+      in forest, path leading toward unknown light source
+    atmosphere: Typical English forest in December - cold, damp, foggy conditions, limited visibility, mysterious lights in
+      distance, heightened tension as team approaches unknown phenomenon, professional military investigation in progress
   composition:
-    cameraAngle: Wide shot showing base facilities and assembled investigation team
-    focus: Deputy Base Commander briefing team with technical equipment prominent
-    depth: 'Foreground: investigation team with equipment. Middle: base operations buildings. Background: airfield facilities
-      and distant hangars'
+    cameraAngle: Low angle shot following team through forest
+    focus: Military investigation team cautiously advancing toward mysterious lights in dense forest
+    depth: Foreground shows lead investigator with flashlight, middle ground displays team formation moving through trees,
+      background reveals dark forest depths with distant mysterious glow
 visualElements:
   colorPalette:
     primary:

@@ -1,29 +1,28 @@
 sceneDescription:
   setting:
-    time: 1826, pre-dawn hours
-    location: Upper floor astronomical observatory in Bremen townhouse, 1826
-    weather: Clear night before dawn
+    time: 1824-1825, afternoon
+    location: Traditional German academic amphitheater with wooden benches arranged in ascending rows, 1820s
   characters:
-  - appearance: German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom
-    clothing: 1820s dark blue physician's coat over white shirt and black vest
-    position: Standing between telescope and desk, holding calculation papers
-    action: Comparing mathematical predictions with actual observations, realizing the profound contradiction
+  - appearance: Multiple German astronomers and scholars, middle-aged to elderly men in formal academic attire, animated expressions
+      showing intellectual engagement
+    clothing: Dark formal coats typical of German academics, white cravats, scholarly robes over everyday dress
+    position: Some standing and gesturing, others seated taking notes, one at blackboard explaining concepts
+    action: Engaging in animated scientific debate, gesturing toward diagrams, taking detailed notes with quills
   scene:
-    mainElements: Character holding calculation sheets while looking between telescope and mathematical work, realization
-      dawning on his face
-    details: Sheets of paper covered with mathematical equations and orbital calculations written in precise handwriting with
-      quill pen showing infinite star calculations, Long brass refracting telescope on wooden tripod mount pointing toward
-      dark sky, Hand-drawn star maps on parchment showing constellation patterns spread on desk, candles burning low after
-      night's work, expression of profound discovery crossing observer's features
-    background: Observatory walls covered with astronomical charts and calculations, window showing pre-dawn sky still displaying
-      the cosmic darkness that contradicts calculations
-    atmosphere: Moment of scientific breakthrough as contradiction becomes clear, intellectual excitement mixed with cosmic
-      puzzlement, dawn of understanding that universe holds deeper mysteries than imagined, no text or letters visible
+    mainElements: Large blackboard with astronomical diagrams, wooden podium for lecturer, oil lamps providing warm light,
+      students with notebooks and quills, scientific instruments displayed
+    details: Traditional German academic amphitheater with wooden benches arranged in ascending rows, multiple oil lamps casting
+      dancing shadows, assembled scholars in heated discussion about cosmic implications. Blackboard shows competing theories
+      about stellar distribution and light absorption
+    background: University architecture typical of German institutions, shelves with scientific instruments, windows showing
+      daylight
+    atmosphere: Scholarly discussion and debate, chalk dust in air, earnest scientific inquiry, revolutionary ideas challenging
+      accepted cosmic wisdom, intellectual tension as paradigms shift
   composition:
-    cameraAngle: Medium shot capturing both telescope and calculation work
-    focus: character_HO holding papers while contemplating contradiction between mathematics and observation
-    depth: Foreground shows calculation papers, middle ground centers on character making discovery, background reveals telescope
-      pointing at dark sky
+    cameraAngle: Wide shot capturing entire amphitheater during debate
+    focus: Multiple scholars engaged in animated discussion around blackboard with diagrams
+    depth: Scholars debating in foreground, blackboard with astronomical concepts in middle ground, university architecture
+      in background, no text or letters visible
 visualElements:
   colorPalette:
     primary:

@@ -1,35 +1,31 @@
 sceneDescription:
   setting:
-    time: September 9, 1947, morning
-    location: Harvard University Computation Laboratory, Cambridge, Massachusetts
-    weather: Clear autumn morning with bright sunlight through laboratory windows
+    time: September 9, 1947, early afternoon, 2:00 PM
+    location: Cruft Laboratory basement, Harvard University, Cambridge, Massachusetts
+    weather: Late summer warmth outside, cool controlled temperature inside laboratory
   characters:
-  - appearance: Woman, early 40s, medium height, brown hair styled in 1940s fashion, intelligent keen eyes behind wire-rim
-      glasses
-    clothing: Navy uniform with lieutenant rank insignia, dark blue jacket with brass buttons, white collared shirt, knee-length
-      skirt, sensible black shoes
-    position: Standing before massive computer reviewing operational checklist
-    action: Conducting morning system inspection while coordinating with technical team
-  - appearance: Man, 30s, tall lean build, dark hair slicked back in 1940s style, serious expression
-    clothing: White dress shirt with rolled sleeves, dark trousers, suspenders, black leather shoes, pocket protector with
-      pens
-    position: Crouched beside relay panels checking connections
-    action: Performing routine maintenance inspection of electrical relay contacts and vacuum tubes
+  - appearance: 48-year-old man, 6'0", distinguished bearing, graying hair, serious expression, strong jawline, commanding
+      presence
+    clothing: Gray wool suit, white shirt, conservative tie, polished leather shoes, occasional white lab coat over suit
+    position: Standing with hands clasped behind back observing computer operations
+    action: Thoughtfully supervising technical work with authoritative demeanor
   scene:
-    mainElements: Massive room-sized computer with relay panels, vacuum tubes, control panels, mechanical switches, whirring
-      cooling fans
-    details: Large bound notebook with handwritten entries in black ink, grid-lined pages, leather cover, containing daily
-      operational records placed on control desk, precision metal tweezers for delicate work on nearby table, fluorescent
-      lighting illuminating complex machinery
-    background: Humid warm air from electronic equipment, constant clicking of relays, bright fluorescent lighting, sense
-      of cutting-edge technology, windows showing Harvard campus
-    atmosphere: Morning routine in pioneering computer facility, methodical preparation for day's computational work, anticipation
-      of complex calculations ahead
+    mainElements: Large basement room with high concrete ceilings, overhead fluorescent lighting, massive Harvard Mark II
+      computer along one wall, work tables with technical manuals scattered about, blackboards covered with mathematical equations
+    details: Massive 25-ton electromechanical computer, approximately 50 feet long and 8 feet high, multiple metal panels
+      containing thousands of electromagnetic relays, advanced 1947 computing technology with floating-point hardware capabilities.
+      Work tables arranged with technical documentation, measuring instruments, and calculation sheets. Blackboards display
+      complex mathematical formulas for ballistics calculations. State-of-the-art computational facility with the most advanced
+      equipment available in 1947.
+    background: Academic setting with Harvard University architectural elements visible, additional work areas with various
+      computational aids and mechanical calculators
+    atmosphere: Cool temperature maintained for computer operation, constant sound of clicking electromagnetic relays, electrical
+      humming, smell of metal and electrical components, serious academic focus and concentration
   composition:
-    cameraAngle: Wide shot establishing the massive scale of 1940s computer technology
-    focus: Naval officer and technician preparing room-sized computer for daily operations
-    depth: Computer control panels in foreground, technical team in middle ground, massive relay banks extending into background,
-      no text or letters visible
+    cameraAngle: Wide establishing shot from laboratory entrance showing full scope of facility
+    focus: Harvard Mark II computer dominating the laboratory space with human figure for scale
+    depth: Foreground shows entry perspective, middle ground features the massive computer system and supervisor, background
+      displays work areas and mathematical equipment, no text or letters visible
 visualElements:
   colorPalette:
     primary:

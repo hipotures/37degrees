@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1562, late evening
+    location: Royal bedchamber in Alcázar of Madrid, candlelit stone chamber with tapestried walls
+    weather: Clear night, stars visible through tall windows
+  characters:
+  - appearance: Spanish prince, 17 years old, pale from illness, bandaged head, weak but recovering
+    clothing: White nightgown or simple court attire, blankets when bedridden
+    position: Lying unconscious in four-poster bed with white linens
+    action: Motionless, breathing shallowly, head wrapped in bloodstained bandages
+  - appearance: Spanish king, 40s, pale complexion, dark hair, penetrating gaze, regal bearing
+    clothing: Black velvet doublet with gold embroidery, white ruff collar, dark cape with royal insignia
+    position: Kneeling beside the bed on prayer cushions
+    action: Praying fervently with hands clasped, eyes closed in desperate supplication
+  scene:
+    mainElements: Ornate four-poster bed dominates the chamber, with heavy velvet curtains partially drawn, revealing the
+      critically injured prince
+    details: Flickering candles cast dancing shadows on stone walls adorned with religious tapestries. A crucifix hangs above
+      the headboard. Medicine bottles and prayer books clutter the bedside table. Bloodstained bandages and white linens contrast
+      sharply in the candlelight. A prayer kneeler is positioned beside the bed where the king maintains his vigil
+    background: Gothic arched windows reveal the night sky, while religious paintings and royal portraits line the walls.
+      A fireplace provides dim warmth
+    atmosphere: Desperate tension and royal anguish fill the chamber as a father confronts his son's mortality, the gravity
+      of the succession crisis hanging heavy in the candlelit air
+  composition:
+    cameraAngle: Medium shot from foot of bed, slightly elevated
+    focus: The unconscious prince in bed with his father kneeling in prayer beside him
+    depth: 'Foreground: ornate bedpost and prayer cushions; middle: the prince and praying king; background: religious artwork
+      and tall windows, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

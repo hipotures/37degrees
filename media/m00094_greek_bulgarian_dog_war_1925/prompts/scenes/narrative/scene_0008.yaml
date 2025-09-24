@@ -1,31 +1,24 @@
 sceneDescription:
-  title: "International Diplomatic Crisis
-League of Nations Intervention"
+  title: "Greek army crosses into Bulgaria at dawn"
   setting:
-    time: "October 22, 1925, afternoon
-evening"
-    location: "Greek military headquarters building, Athens or regional command center
-Greek military headquarters building, Athens or regional command center"
-    weather: "Overcast with diplomatic storm clouds
-Clear evening with hopeful atmosphere"
+    time: "October 22, 1925, dawn"
+    location: "Bulgarian border near Petrich, Belasitsa Mountains"
+    weather: "Cool dawn mist, visibility improving with sunrise"
   characters:
-    - appearance: "$([ $i -eq 1 ] && echo "Greek soldier, 20s, medium build, olive complexion, dark hair, youthful face with serious expression" || [ $i -eq 2 ] && echo "Greek soldier, 20s, medium build, olive complexion, dark hair, youthful face with serious expression" || [ $i -eq 3 ] && echo "Bulgarian border guard, 30s, stocky build, weathered face, brown hair, stern military demeanor" || [ $i -eq 4 ] && echo "Greek soldier, 20s, medium build, olive complexion, dark hair, youthful face with serious expression" || [ $i -eq 5 ] && echo "Greek army captain, 35s, tall commanding presence, mustache, confident military bearing" || [ $i -eq 6 ] && echo "Greek general, 45s, imposing figure, graying temples, stern authoritative expression" || [ $i -eq 7 ] && echo "Greek soldier, 20s, medium build, olive complexion, dark hair, youthful face with serious expression" || [ $i -eq 8 ] && echo "Greek general, 45s, imposing figure, graying temples, stern authoritative expression" || echo "Greek general, 45s, imposing figure, graying temples, stern authoritative expression")"
-      clothing: "$([ $i -eq 1 ] && echo "Greek military uniform with khaki tunic, matching trousers, leather boots, military cap with Greek insignia" || [ $i -eq 2 ] && echo "Greek military uniform with khaki tunic, matching trousers, leather boots, military cap with Greek insignia" || [ $i -eq 3 ] && echo "Bulgarian military uniform with dark green tunic, black leather belt, military boots, peaked cap" || [ $i -eq 4 ] && echo "Greek military uniform with khaki tunic, matching trousers, leather boots, military cap with Greek insignia" || [ $i -eq 5 ] && echo "Greek officer uniform with olive drab tunic, gold rank insignia, leather Sam Browne belt, polished boots" || [ $i -eq 6 ] && echo "Formal military dress uniform with multiple medals, gold braiding, peaked cap with eagle insignia" || [ $i -eq 7 ] && echo "Greek military uniform with khaki tunic, matching trousers, leather boots, military cap with Greek insignia" || [ $i -eq 8 ] && echo "Formal military dress uniform with multiple medals, gold braiding, peaked cap with eagle insignia" || echo "Formal military dress uniform with multiple medals, gold braiding, peaked cap with eagle insignia")"
-      position: "$([ $i -eq 1 ] && echo "Standing at border post watching patrol area" || [ $i -eq 2 ] && echo "Running across rocky terrain pursuing escaped dog" || [ $i -eq 3 ] && echo "Positioned behind fortifications aiming rifle" || [ $i -eq 4 ] && echo "Taking defensive position during escalating firefight" || [ $i -eq 5 ] && echo "Approaching enemy position under white flag" || [ $i -eq 6 ] && echo "Standing behind desk reviewing military maps" || [ $i -eq 7 ] && echo "Advancing with troops into Bulgarian territory" || [ $i -eq 8 ] && echo "Seated at desk with international diplomats" || [ $i -eq 9 ] && echo "Reading League of Nations ceasefire order" || echo "Standing at peaceful border crossing")"
-      action: "$([ $i -eq 1 ] && echo "Conducting routine border patrol while dog wanders nearby" || [ $i -eq 2 ] && echo "Chasing escaped dog across unmarked border terrain into Bulgarian territory" || [ $i -eq 3 ] && echo "Firing warning shots that escalate to deadly force against border intruder" || [ $i -eq 4 ] && echo "Engaging in escalating border skirmish with rifle fire exchange" || [ $i -eq 5 ] && echo "Attempting diplomatic negotiation under flag of truce before being shot" || [ $i -eq 6 ] && echo "Planning military response and issuing ultimatum to Bulgarian government" || [ $i -eq 7 ] && echo "Leading Greek forces in occupation of Petrich while civilians flee" || [ $i -eq 8 ] && echo "Dealing with international pressure and League of Nations intervention" || [ $i -eq 9 ] && echo "Accepting League of Nations mediation and ceasefire terms" || echo "Reflecting on tragic escalation from simple dog chase to international incident")""
+    - appearance: "Greek army officers, 30-40s, determined military bearing"
+      clothing: "Greek army field uniforms, officer insignia, field caps, boots"
+      position: "Leading column of advancing soldiers across border"
+      action: "Commanding invasion force, pointing toward Bulgarian positions"
+    - appearance: "Greek infantry soldiers, various ages, armed and equipped"
+      clothing: "Greek army field uniforms, helmets, equipment packs, rifles"
+      position: "Marching in formation across mountainous border terrain"
+      action: "Advancing into Bulgarian territory, following invasion orders"
   scene:
-    mainElements: "Diplomatic meeting room with international flags, formal negotiation table, official documents
-Official diplomatic papers with seals and ribbons, formal international mediation documents, typed on official letterhead"
-    details: "International diplomatic correspondence, League of Nations symbols, formal meeting protocols, crisis management documents
-League of Nations mediation papers, ceasefire agreements, international arbitration documents, diplomatic seals"
-    background: "International diplomatic crisis requiring League of Nations intervention, emergency sessions
-International mediation success with ceasefire implementation, diplomatic resolution"
-    atmosphere: "International pressure and diplomatic crisis management
-Successful international mediation preventing wider conflict"
+    mainElements: "Military column advancing, Bronze and steel mountain cannons, wheeled carriages, ammunition caissons, border markers being passed, military equipment"
+    details: "Greek artillery crews, ammunition handlers, military boots trampling autumn leaves, rifle barrels gleaming in dawn light, military packs and equipment, field maps, compass readings, no text or letters visible"
+    background: "Belasitsa mountain slopes, morning mist clearing, distant Bulgarian positions, autumn forest, steep terrain"
+    atmosphere: "Military invasion beginning, sound of marching boots, equipment clanking, officers' commands, cool mountain air, tension of border crossing"
   composition:
-    cameraAngle: "Medium shot of international diplomatic intervention
-Close-up on peace agreement and mediation success"
-    focus: "International diplomatic crisis management
-League of Nations successful mediation"
-    depth: "Diplomatic crisis in foreground, international intervention in middle ground, peace efforts in background
-Peace agreement in foreground, diplomatic success in middle ground, conflict resolution in background, no text or letters visible"
+    cameraAngle: "Wide shot showing scale of military operation"
+    focus: "Greek forces crossing border in organized military advance"
+    depth: "Foreground: Greek officers leading advance, Middle: columns of soldiers and artillery, Background: Bulgarian territory and defensive positions"

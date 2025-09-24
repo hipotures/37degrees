@@ -1,105 +1,78 @@
 sceneDescription:
   setting:
-    time: 2014, 2:30 PM
-    location: Modern suburban living room, family home interior
-    weather: Bright sunny afternoon with natural light streaming through windows
+    time: 2002, late evening
+    location: Home office or bedroom setup with early 2000s computer equipment
+    weather: Indoor setting, evening time with desk lamp illumination
   characters:
-  - appearance: Adult in 30s-40s, tense facial expression with eyes wide with fear or confusion
-    clothing: Casual daytime clothes, jeans and t-shirt
-    position: Standing frozen in middle of living room, body tense with shock
-    action: Staring in disbelief at shadow figure, fully awake and mobile but paralyzed by fear
-  - appearance: Tall dark silhouette, 8-10 feet in height, completely featureless black form with no visible face or limbs
-    clothing: Wide-brimmed fedora hat and long dark coat or trench coat, both appearing as solid black shadow
-    position: Standing upright, often positioned in doorways, corners, or beside beds
-    action: Motionless watching presence, occasionally seen moving with fluid gliding motion
+  - appearance: Young adult computer user, intense concentration, slightly hunched posture from computer use, amazed expression
+    clothing: Casual early 2000s clothing, comfortable t-shirt and jeans suitable for home computer use
+    position: Seated at computer desk, leaning forward toward CRT monitor screen
+    action: Typing on keyboard, scrolling through early internet forum discussions, eyes widening with recognition and relief
   scene:
-    mainElements: Comfortable living room with sofa, coffee table, television, family photos on mantle, bookshelf
-    details: Bright sunlight streaming through large windows, casting normal daylight shadows. Hat Man appears as solid dark
-      shadow despite bright lighting conditions. Family room setting with evidence of normal daily life - coffee cup on table,
-      newspaper, remote control.
-    background: Large windows showing sunny suburban street outside with trees and neighboring houses, bright blue sky visible
-    atmosphere: Shocking contrast between normal bright domestic environment and presence of shadow figure. Disturbing violation
-      of safe daytime sanctuary, challenging assumptions about phenomenon being sleep-related
+    mainElements: Early 2000s computer setup with large CRT monitor, beige desktop computer tower, basic keyboard and mouse,
+      dial-up modem with visible cables, desk lamp providing focused lighting
+    details: Bulky CRT monitor displaying primitive website interface, computer tower with multiple cables and connections,
+      stack of dial-up internet CD-ROMs, basic computer speakers, mouse pad with early 2000s design. Desk scattered with printed
+      forum posts and handwritten notes. Phone line connected to dial-up modem
+    background: Typical early 2000s home office or bedroom setting, bookshelves with computer manuals and early internet guides,
+      window showing night time outside, other household items from that era
+    atmosphere: Sense of technological breakthrough and community discovery, isolation being broken through primitive internet
+      connection, amazement at finding others with similar experiences, early digital age optimism mixed with paranormal dread,
+      no text or letters visible
   composition:
-    cameraAngle: Medium shot from across the room
-    focus: Hat Man figure standing in bright living room while witness stares in daylight shock
-    depth: 'Foreground: coffee table with daily items, middle: shocked witness in casual clothes, background: Hat Man silhouette
-      against bright window with suburban view, no text or letters visible'
+    cameraAngle: Over-shoulder shot from behind user, showing both person and primitive computer screen
+    focus: Computer user's amazed face reflected in CRT monitor glow, with early internet forum interface visible on screen
+    depth: Foreground shows keyboard and mouse being used, middle ground focuses on user's reaction, background reveals early
+      2000s domestic technology setup
 visualElements:
   colorPalette:
     primary:
-    - deep black
-    - pearl white
-    - charcoal gray
-    - silver gray
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - shadow black
-    - highlight white
-    background: dim interior gray with deep shadows
-    usageNotes: True monochrome only, no color information whatsoever
-    saturation: none (pure grayscale)
-    contrast: high (strong blacks and whites with limited midtones)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: photographic realism, no drawn outlines
-    weight: none (photographic approach)
-    color: none
-    texture: film grain micro-contrast creates edge definition
-    edgeTreatment: natural photographic edges
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: low-key tungsten practical or Fresnel spot
-    direction: single source from above or 30-60 degrees off axis
-    intensity: high contrast with key to fill ratio approximately 8:1
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: hard-edged dramatic shadows
-      color: deep black
-      opacity: 90-95%
-      offset: sharp and directional based on single light source
-    highlights: narrow rim light +0.5 to +1 EV for edge separation
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: photographic black and white film aesthetic
-    texture: visible film grain, worn surfaces, fabric textures
-    detailLevel: high in lit areas, obscured in shadows
-    finish: matte film print quality
-    printEffects: selenium toning for slight warm-cool split
-  perspective:
-    type: rectilinear standard lens perspective
-    vanishingPoints: natural perspective, no distortion
-    distortion: minimal, true to lens focal length
-    depth: shallow depth of field at f/2.8-4
-  composition:
-    layout: tight interior framing with little headroom
-    hierarchy: light draws attention to key elements
-    gridSystem: rule of thirds composition
-    whitespace: filled with dark shadows and negative space
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: dramatic, mysterious, tense
-    emotion: paranoia, desire, danger
-    tempo: static but charged with tension
-    energy: suppressed, coiled
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - noir atmosphere
-    - urban decay
-    - moral ambiguity
-    - femme fatale
-    - hard-boiled
-    - venetian blind shadows
-  symbolism:
-    common:
-    - venetian blind light patterns
-    - cigarette smoke
-    - rain on windows
-    - mirror reflections
-    figures:
-    - detective in fedora
-    - woman in evening dress
-    - shadowy figure in doorway
-    abstract:
-    - light versus dark moral conflicts
-    - urban isolation
-    architectural:
-    - narrow corridors
-    - dimly lit offices
-    - seedy hotel rooms
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

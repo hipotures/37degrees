@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Physics Conference Discussion - Academic Colleagues"
+  setting:
+    time: "1935, late afternoon"
+    location: "Academic conference room, European university, 1935"
+    weather: "Overcast autumn day with soft diffused light"
+  characters:
+    - appearance: "German-American physicist, 50s, wild white hair, expressive dark eyes, distinctive mustache, kindly weathered face"
+      clothing: "Casual 1930s attire, rumpled sweater or cardigan over shirt, often without tie, sometimes formal suit for meetings"
+      position: "Seated at large wooden conference table, leaning forward with hands gesturing"
+      action: "Engaged in animated discussion, pointing at papers spread on table while explaining concepts"
+    - appearance: "Danish physicist, 50s, medium build, receding hairline, intense pale eyes, clean-shaven, intellectual countenance"
+      clothing: "Formal 1930s attire, dark suit with vest, bow tie or regular tie, well-groomed appearance"
+      position: "Seated across the table, upright posture with arms folded"
+      action: "Listening intently with skeptical expression, occasionally nodding or shaking head"
+  scene:
+    mainElements: "Large oval wooden table with chairs, blackboard on wall, bookshelves with physics texts, formal academic setting"
+    details: "Stack of typewritten scientific papers and journals from 1930s, some with handwritten notes, scattered on desk or table. Large slate blackboard with quantum mechanics equations written in white chalk, wave function symbols and mathematical notation. Multiple coffee cups and ashtrays suggesting long discussion session."
+    background: "Tall windows with heavy curtains, additional blackboards with physics diagrams, portrait paintings of notable scientists"
+    atmosphere: "Serious intellectual discourse environment with natural lighting from tall windows. Tension of academic debate and disagreement over fundamental physics principles."
+  composition:
+    cameraAngle: "Wide shot capturing both physicists"
+    focus: "Two physicists in heated discussion across conference table with papers between them"
+    depth: "Foreground shows table with scientific papers, middle ground features both characters, background reveals academic conference room with blackboards, no text or letters visible"

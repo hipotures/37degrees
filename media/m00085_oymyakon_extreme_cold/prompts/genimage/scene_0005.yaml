@@ -1,32 +1,31 @@
 sceneDescription:
   setting:
-    time: Midday during brief period of pale daylight
-    location: Outdoor trading area in Oymyakon village, stalls protected by tarpaulins and wooden frames
-    weather: Cold at -55°C, light wind moving snow crystals
+    time: 1930s, early morning winter
+    location: Central area of village surrounded by wooden houses, located in Indigirka River valley, Sakha Republic, Siberia
+    weather: Extreme cold with minimal wind, clear sky creating temperature inversion conditions
   characters:
-  - appearance: Yakutian woman, 30s, strong build, dark hair in braids, determined expression, rosy cheeks from cold
-    clothing: Traditional Sakha winter dress with geometric patterns, thick wool coat, fur-lined boots, colorful headscarf
-    position: Standing behind market stall selling frozen fish
-    action: Arranging frozen fish on wooden display table, negotiating with customers, handling transactions with mittened
-      hands
-  - appearance: Elderly Yakutian woman, 70s, deeply lined face from decades of cold, wise eyes, gray hair in traditional style
-    clothing: Long traditional coat with intricate beadwork, multiple layers of shawls, ancient family jewelry
-    position: Examining goods at neighboring fur stall
-    action: Feeling quality of reindeer pelts, selecting furs for purchase, counting currency from traditional pouch
+  - appearance: Sturdy build man in 30s, reddened cheeks from cold, determined expression, visible breath in frigid air
+    clothing: Soviet work clothes adapted for extreme cold, thick wool coat, heavy felt boots, working man's winter hat
+    position: Working on construction or settlement tasks in harsh conditions
+    action: Building structures or performing manual labor with stoic determination mixed with visible struggle against harsh
+      conditions
   scene:
-    mainElements: Frozen fish displayed on wooden tables, fur pelts hanging from posts, vendors in heavy winter gear
-    details: Large Arctic fish frozen solid, displayed at market stalls, primary protein source for villagers during winter
-      months. Various fur pelts including reindeer, fox, and rabbit hanging from wooden display frames. Traditional Yakutian
-      vendors bundled in heavy winter clothing conducting business despite extreme temperatures. Wooden crates and baskets
-      containing other winter goods. Market stalls constructed with tarpaulins and wooden supports for wind protection.
-    background: Village buildings providing some wind shelter, other market stalls with similar cold-weather construction,
-      forest visible beyond village boundaries
-    atmosphere: Commerce continuing despite extreme conditions, community necessity overcoming environmental challenges
+    mainElements: Monument marking temperature record, concrete bull statue, wooden buildings with thick smoke from chimneys,
+      packed snow paths
+    details: 'Village residents engaging in essential cold weather survival activities: chopping firewood with specialized
+      cold-weather axes, hauling water from thermal springs in insulated containers, tending to fires that must never be allowed
+      to die, repairing clothing and equipment damaged by extreme temperatures, caring for livestock in heated shelters, preparing
+      food using methods adapted for extreme cold conditions'
+    background: Wooden houses with exceptionally thick walls and small windows to conserve heat, massive chimneys producing
+      continuous streams of smoke, paths worn deep into snow and ice from daily use
+    atmosphere: Smoke rising straight up in still air, crunching snow underfoot, muffled sounds in extreme cold, visible breath
+      everywhere, community cooperation essential for survival, every action calculated for energy conservation and warmth
+      preservation, no text or letters visible
   composition:
-    cameraAngle: Wide shot capturing multiple market stalls and activity
-    focus: Central market area with vendors and customers conducting winter trade
-    depth: Market vendors and goods in foreground, additional stalls and customers in middle ground, village buildings and
-      forest in background, no text or letters visible
+    cameraAngle: Medium wide shot capturing multiple survival activities simultaneously
+    focus: Daily survival routines adapted for world's coldest inhabited environment
+    depth: 'Foreground: immediate survival activities, middle ground: village residents and buildings, background: smoke columns
+      and harsh landscape emphasizing isolation'
 visualElements:
   colorPalette:
     primary:

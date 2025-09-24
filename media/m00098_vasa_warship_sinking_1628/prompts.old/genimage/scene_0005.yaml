@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: August 10, 1628, morning
+    location: Stone quays and waterfront area of Stockholm harbor
+    weather: Partly cloudy with light winds building
+  characters:
+  - appearance: Swedish man, 35, experienced sea captain appearance, confident bearing
+    clothing: 17th century ship captain uniform with brass buttons, navigation instruments
+    position: Standing on ship's deck prepared for maiden voyage
+    action: Maritime expertise, checking wind conditions and preparing for departure
+  scene:
+    mainElements: Stone harbor walls, royal viewing areas, crowds of spectators gathered for ceremonial launch
+    details: Hundreds of Stockholm citizens gathered on stone quays to watch royal warship launch, royal banners and ceremonial
+      decorations, naval officers in dress uniforms, families and dignitaries watching from elevated positions, festive atmosphere
+      with ceremonial preparations, ships' bells ringing, flags flying
+    background: Stockholm waterfront with royal buildings, other naval vessels in harbor, Swedish summer sky with building
+      clouds
+    atmosphere: Royal ceremony location with celebration and pageantry, pride in Swedish naval achievement, festive launch
+      of most expensive warship ever built, optimistic crowd unaware of impending disaster, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing ceremonial launch gathering
+    focus: Celebration and pageantry of royal warship maiden voyage
+    depth: Crowd and ceremony in foreground, Vasa warship in middle ground, Stockholm harbor in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

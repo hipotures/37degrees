@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1882, late afternoon, early spring
+    location: Musical family home in Podgórze district near Kraków, modest but cultured middle-class residence
+    weather: Mild spring day with gentle sunlight
+  characters:
+  - appearance: Polish child, 6 years old, slender build, intense dark eyes, intelligent expression, growing taller
+    clothing: Simple day clothes - white shirt, dark knickers, suspenders, comfortable indoor shoes
+    position: Seated at family piano practicing scales and exercises
+    action: Concentrating intensely on finger exercises, occasionally looking up for father's approval
+  - appearance: Polish man, 40s, musician's bearing, mustache, caring paternal expression, composer and conductor
+    clothing: Late 19th century casual attire - white shirt with rolled sleeves, dark vest, no jacket
+    position: Standing beside piano with sheet music in hand
+    action: Guiding his son's practice with gentle corrections, pointing to specific passages on music sheets
+  - appearance: Polish woman, 30s, elegant bearing, opera singer, warm maternal expression
+    clothing: Late 19th century day dress in deep blue with high collar, hair in period-appropriate style
+    position: Seated in nearby chair with embroidery work
+    action: Listening to practice session while working, occasionally offering encouraging smiles
+  scene:
+    mainElements: Family piano dominating small parlor, sheet music scattered on piano and nearby tables, comfortable middle-class
+      furnishings typical of Austrian Galicia period
+    details: Lace curtains filtering afternoon light, family photographs on mantelpiece, musical instruments including violin
+      case in corner, metronome on piano top, oil lamp on side table, Persian-style carpet on wooden floor, no text or letters
+      visible
+    background: Modest but well-appointed family home showing musical culture, bookcases with bound volumes, framed musical
+      compositions on walls
+    atmosphere: Warm family intimacy filled with musical dedication, nurturing environment where talent is carefully cultivated
+      with love and discipline
+  composition:
+    cameraAngle: Medium shot from corner of room, capturing family dynamics
+    focus: Young character JH at piano with character KH providing instruction, showing father-son musical bond
+    depth: 'Foreground: piano lesson in progress, middle ground: mother observing supportively, background: cozy family parlor
+      with musical memorabilia, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

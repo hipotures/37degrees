@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Property Dispute - Escalating Tensions"
+  setting:
+    time: "June 1859, late afternoon"
+    location: "Boundary area between American farm and British ranch"
+    weather: "Partly cloudy with threatening storm clouds"
+  characters:
+    - appearance: "American man, 40s, weathered face from frontier life, brown beard, stocky farmer build"
+      clothing: "Rough wool shirt, canvas trousers, wide-brimmed hat, leather boots caked with mud"
+      position: "Standing on his side of disputed boundary"
+      action: "Determined frontier stance, gesturing at property line, refusing to back down"
+    - appearance: "Irish man, 35, red hair, pale complexion, lean build, concerned expression"
+      clothing: "Hudson's Bay Company wool jacket, dark trousers, tall leather boots"
+      position: "Standing across property line"
+      action: "Defensive posture, pointing accusingly at damage, demanding compensation"
+  scene:
+    mainElements: "Disputed boundary line between American and British claims, tension visible in confronting figures"
+    details: "Split-rail fence marking contested boundary, surveyor stakes driven into ground, maps and documents being pointed at, both men standing firmly on their respective sides, storm clouds gathering overhead suggesting brewing conflict"
+    background: "American homestead visible on one side, British ranch buildings on other, San Juan Island landscape between competing claims"
+    atmosphere: "International boundary dispute personified by individual property conflict, diplomatic crisis beginning with personal confrontation, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing both sides of boundary dispute"
+    focus: "Two men representing competing national claims"
+    depth: "Disputing parties at boundary in foreground, their respective properties in middle ground, island landscape in background"

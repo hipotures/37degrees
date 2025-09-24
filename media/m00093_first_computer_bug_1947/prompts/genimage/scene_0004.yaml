@@ -1,33 +1,34 @@
 sceneDescription:
   setting:
-    time: September 9, 1947, 4:00 PM
-    location: Inside Panel F of Harvard Mark II computer, Relay 70 contacts
-    weather: Warm laboratory environment from computer operation
+    time: September 9, 1947, 2:30 PM
+    location: Cruft Laboratory basement, Harvard University, Cambridge, Massachusetts
+    weather: Cool controlled temperature inside laboratory
   characters:
-  - appearance: Man, 50s, stocky build, graying hair, weathered hands from technical work, mustache
-    clothing: Gray technician's coveralls, white undershirt, work boots, tool belt with various instruments
-    position: Leaning close to relay contacts with magnifying glass
-    action: Discovering moth trapped between electrical contacts using precision tweezers and magnification
-  - appearance: Woman, early 40s, medium height, brown hair styled in 1940s fashion, intelligent keen eyes behind wire-rim
-      glasses
-    clothing: Navy uniform with lieutenant rank insignia, dark blue jacket with brass buttons, white collared shirt, knee-length
-      skirt, sensible black shoes
-    position: Peering over technician's shoulder to observe discovery
-    action: Witnessing historic moment while preparing to document finding in maintenance log
+  - appearance: 42-year-old woman, 5'6", slender build, dark hair pulled back in neat bun, intelligent brown eyes behind wire-rimmed
+      glasses, precise movements
+    clothing: Navy uniform - dark blue wool jacket with lieutenant's bars, white shirt, dark tie, practical dark shoes
+    position: Standing at work table reviewing technical calculations
+    action: Examining computer documentation with analytical focus, notebook in hand
+  - appearance: Mid-30s man, medium build, brown hair, focused expression, quick energetic movements
+    clothing: White button-down shirt with rolled sleeves, dark slacks, bow tie, practical work attire
+    position: Seated at work table examining technical diagrams
+    action: Collaboratively working with technical documents, pointing at diagrams with rapid hand movements
   scene:
-    mainElements: Close view of electrical relay contacts with moth clearly visible trapped between copper connections
-    details: Small brown moth with delicate wings trapped between electrical relay contacts, approximately 2 inches wingspan,
-      clearly visible against metal components, precision metal tweezers approaching carefully, circular magnifying glass
-      focusing on discovery
-    background: Intricate mechanical relay contacts, copper wiring, vacuum tubes, electrical connections, metal framework
-      of computer interior
-    atmosphere: Moment of breakthrough discovery solving computer malfunction, mixture of relief and amazement at finding
-      literal bug
+    mainElements: Large basement room with high concrete ceilings, overhead fluorescent lighting, massive Harvard Mark II
+      computer along one wall, work tables with technical manuals scattered about, blackboards covered with mathematical equations
+    details: Computer output showing inconsistent results causing concern among the programming team. Calculation sheets with
+      conflicting numbers spread across work table. Both programmers showing expressions of puzzlement and growing concern
+      as they compare expected results with actual computer output. The Mark II computer continues its mechanical operations
+      but something is clearly wrong with the calculations being produced.
+    background: Massive computer system continuing to operate with its characteristic clicking sounds, other laboratory equipment
+      and work areas visible
+    atmosphere: Growing tension as technical problem becomes apparent, continued mechanical sounds from computer operation,
+      focused troubleshooting beginning to replace routine programming work
   composition:
-    cameraAngle: Extreme close-up focusing on moth trapped in relay contacts
-    focus: Moth discovery in Relay 70 contacts with technician carefully extracting using precision tools
-    depth: Moth and relay contacts in sharp foreground focus, investigators in middle ground, computer framework in soft background,
-      no text or letters visible
+    cameraAngle: Medium shot showing both programmers discovering the problem
+    focus: Two computer programmers examining inconsistent calculation results with expressions of concern
+    depth: Foreground shows problematic calculation sheets, middle ground features concerned programmers, background displays
+      the operating computer system, no text or letters visible
 visualElements:
   colorPalette:
     primary:

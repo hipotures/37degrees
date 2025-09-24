@@ -1,110 +1,82 @@
 sceneDescription:
   setting:
-    time: 2015, 3:15 AM
-    location: Modern suburban bedroom, middle-class home interior
-    weather: Clear night with distant streetlight illumination
+    time: 2008, nighttime research session
+    location: Clinical sleep research facility with monitoring equipment and controlled environment
+    weather: Indoor clinical environment, controlled temperature and lighting
   characters:
-  - appearance: Adult in 30s-40s, tense facial expression with eyes wide with fear or confusion
-    clothing: Nightclothes, pajamas, or sleeping attire
-    position: In bed or sitting on edge of bed, body rigid with paralysis
-    action: Experiencing sleep paralysis, attempting to move but unable, eyes fixed on shadow figure
-  - appearance: Second adult, spouse, 30s-40s, equally terrified expression, looking toward same location
-    clothing: Nightclothes, pajamas, or sleeping attire
-    position: Lying in bed next to first witness, also frozen but slightly turned toward doorway
-    action: Both witnesses staring at same shadow figure, confirming shared experience, neither able to speak
-  - appearance: Tall dark silhouette, 8-10 feet in height, completely featureless black form with no visible face or limbs
-    clothing: Wide-brimmed fedora hat and long dark coat or trench coat, both appearing as solid black shadow
-    position: Standing upright, often positioned in doorways, corners, or beside beds
-    action: Motionless watching presence, occasionally seen moving with fluid gliding motion
+  - appearance: Middle-aged academic researcher in lab coat, professional appearance, scholarly demeanor, observing data
+    clothing: White lab coat over professional attire, identification badge, comfortable shoes for long research hours
+    position: Standing beside sleep monitoring equipment, reviewing data readouts and brain wave patterns
+    action: Analyzing EEG readings and video monitor footage, making notes on clipboard, adjusting monitoring equipment settings
+  - appearance: Sleep study participant in early 30s, electrodes attached to head, resting in clinical bed
+    clothing: Hospital gown suitable for sleep study, comfortable but clinical
+    position: Lying in specialized sleep study bed with monitoring equipment attached
+    action: Sleeping fitfully with visible REM activity, occasionally showing signs of distress during sleep paralysis episode
   scene:
-    mainElements: Double bed with standard bedding, bedside table with lamp, dresser, window with curtains
-    details: LED digital clock displaying late night time between 2:00 AM and 4:00 AM, casting dim red or green glow. Both
-      spouses experiencing identical paralysis and terror. Standard interior doorway leading to hallway, partially open or
-      fully open, creating rectangular frame of darkness where Hat Man typically appears.
-    background: Bedroom walls with family photos, closed closet door, window showing dark neighborhood outside with single
-      streetlight visible
-    atmosphere: Dimly lit by streetlight filtering through window, shadows creating ominous corners and doorway silhouettes.
-      Shared terror validating reality of experience, removing possibility of individual hallucination
+    mainElements: Clinical sleep laboratory with specialized beds equipped with monitoring sensors, EEG machines displaying
+      brain wave patterns, video recording equipment, comfortable controlled environment designed for sleep research
+    details: Multiple EEG headsets with wires and electrodes, digital monitors showing real-time brainwave activity, comfortable
+      beds with sensors built into mattresses, video cameras for recording sleep behavior. Temperature and lighting controls,
+      observation window between monitoring room and sleep chamber. Charts and graphs showing sleep cycle data
+    background: Professional medical facility with additional monitoring equipment, observation room with researchers, clinical
+      hallway leading to other sleep study rooms, medical equipment storage
+    atmosphere: Sterile scientific environment designed to study sleep disorders objectively, controlled conditions removing
+      supernatural elements, clinical approach to understanding ancient fears, professional medical atmosphere focused on
+      evidence-based research, no text or letters visible
   composition:
-    cameraAngle: Medium shot from foot of bed showing both witnesses
-    focus: Both paralyzed spouses in bed staring at Hat Man figure in doorway
-    depth: 'Foreground: edge of bed covers, middle: two terrified witnesses side by side, background: Hat Man silhouette filling
-      doorway frame, no text or letters visible'
+    cameraAngle: Wide shot of sleep laboratory showing both researcher and sleeping subject
+    focus: Scientific equipment and data displays, with researcher analyzing sleep paralysis patterns
+    depth: Foreground shows monitoring equipment and displays, middle ground centers on researcher and sleeping subject, background
+      reveals clinical facility environment
 visualElements:
   colorPalette:
     primary:
-    - deep black
-    - pearl white
-    - charcoal gray
-    - silver gray
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - shadow black
-    - highlight white
-    background: dim interior gray with deep shadows
-    usageNotes: True monochrome only, no color information whatsoever
-    saturation: none (pure grayscale)
-    contrast: high (strong blacks and whites with limited midtones)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: photographic realism, no drawn outlines
-    weight: none (photographic approach)
-    color: none
-    texture: film grain micro-contrast creates edge definition
-    edgeTreatment: natural photographic edges
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: low-key tungsten practical or Fresnel spot
-    direction: single source from above or 30-60 degrees off axis
-    intensity: high contrast with key to fill ratio approximately 8:1
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: hard-edged dramatic shadows
-      color: deep black
-      opacity: 90-95%
-      offset: sharp and directional based on single light source
-    highlights: narrow rim light +0.5 to +1 EV for edge separation
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: photographic black and white film aesthetic
-    texture: visible film grain, worn surfaces, fabric textures
-    detailLevel: high in lit areas, obscured in shadows
-    finish: matte film print quality
-    printEffects: selenium toning for slight warm-cool split
-  perspective:
-    type: rectilinear standard lens perspective
-    vanishingPoints: natural perspective, no distortion
-    distortion: minimal, true to lens focal length
-    depth: shallow depth of field at f/2.8-4
-  composition:
-    layout: tight interior framing with little headroom
-    hierarchy: light draws attention to key elements
-    gridSystem: rule of thirds composition
-    whitespace: filled with dark shadows and negative space
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: dramatic, mysterious, tense
-    emotion: paranoia, desire, danger
-    tempo: static but charged with tension
-    energy: suppressed, coiled
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - noir atmosphere
-    - urban decay
-    - moral ambiguity
-    - femme fatale
-    - hard-boiled
-    - venetian blind shadows
-  symbolism:
-    common:
-    - venetian blind light patterns
-    - cigarette smoke
-    - rain on windows
-    - mirror reflections
-    figures:
-    - detective in fedora
-    - woman in evening dress
-    - shadowy figure in doorway
-    abstract:
-    - light versus dark moral conflicts
-    - urban isolation
-    architectural:
-    - narrow corridors
-    - dimly lit offices
-    - seedy hotel rooms
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

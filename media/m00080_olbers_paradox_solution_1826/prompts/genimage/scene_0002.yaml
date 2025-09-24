@@ -1,32 +1,29 @@
 sceneDescription:
   setting:
-    time: 1826, morning
-    location: Ground floor physician's office in Bremen townhouse, 1826
-    weather: Bright morning sunlight streaming through windows
+    time: 1823, evening
+    location: Converted upper floor of family home in Bremen, Germany, overlooking medieval cityscape
   characters:
-  - appearance: German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom
-    clothing: 1820s dark blue physician's coat over white shirt and black vest
-    position: Seated at oak desk examining patient records and medical instruments
-    action: Carefully organizing medical supplies and reviewing patient notes with methodical precision
-  - appearance: Young German man, early 20s, slight build, brown hair, eager expression
-    clothing: Simple white shirt with rolled sleeves, dark vest, leather apron for medical work
-    position: Standing beside medicine cabinet arranging bottles and instruments
-    action: Preparing medical tools and supplies for day's patient appointments
+  - appearance: Caucasian man, late 60s, 68 years old in 1826, medium build, intelligent eyes behind round spectacles, graying
+      hair, weathered hands from years of telescope work, gentle demeanor from medical practice
+    clothing: Dark formal coat typical of German professionals, white cravat, practical boots for nighttime observatory work
+    position: Seated at wooden desk, leaning forward with focused concentration
+    action: Drawing geometric diagrams with compass and ruler, making mathematical calculations with quill pen
   scene:
-    mainElements: Medical examination table with clean white linens, cabinet with bottles and instruments, desk with patient
-      records, morning sunlight illuminating workspace
-    details: Glass bottles with medical compounds on wooden shelves, metal surgical instruments in leather case, scales for
-      measuring medicine, white ceramic bowls and clean bandages, ink well and quill pen for patient records, small window
-      showing street view
-    background: Wall-mounted medical diplomas and anatomical charts, bookshelf with medical texts, coat rack with spare physician
-      garments
-    atmosphere: Professional medical environment focused on healing and care, methodical organization showing dedication to
-      patients' wellbeing, quiet morning preparation for day's work, no text or letters visible
+    mainElements: Large refracting telescope mounted near window, star charts covering walls, mathematical instruments on
+      wooden tables, oil lamps providing warm illumination, comfortable chair for long observation sessions
+    details: Hand-drawn geometric diagram on paper, showing concentric spheres around Earth, mathematical notations in German
+      script, illustrates how infinite stellar spheres should create uniform brightness, calculations of cumulative light
+      from distant stars. Brass refracting telescope approximately 4 feet long, mounted on wooden tripod, multiple eyepieces
+      for different magnifications visible in background
+    background: Bremen's medieval cityscape visible through window, walls covered with astronomical charts and star maps,
+      shelves with scientific instruments
+    atmosphere: Scholarly focus on cosmic mysteries, mathematical precision meeting cosmic wonder, breakthrough moment as
+      paradox becomes clear through rigorous calculation
   composition:
-    cameraAngle: Medium shot from patient's perspective
-    focus: character_HO organizing medical practice with assistant's help
-    depth: Foreground shows medical table and instruments, middle ground centers on characters at work, background reveals
-      organized medical office
+    cameraAngle: Close-up shot looking down at desk from slightly above
+    focus: Mathematical diagram showing concentric stellar spheres with geometric calculations
+    depth: Geometric diagram and calculations in foreground, character's hands and tools in middle ground, telescope and star
+      charts in background, no text or letters visible
 visualElements:
   colorPalette:
     primary:

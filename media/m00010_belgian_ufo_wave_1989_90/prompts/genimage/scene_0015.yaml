@@ -1,25 +1,35 @@
 sceneDescription:
   setting:
-    time: July 26, 2011, afternoon
-    location: Private residence, Belgium
-    weather: Clear summer day, indoor interview setting
+    time: 2020s, present day
+    location: Modern research facility, contemporary UFO investigation center
+    weather: Indoor research environment
   characters:
-  - appearance: Belgian man, 50s, somewhat sheepish expression, prepared for confession
-    clothing: Casual contemporary clothing - polo shirt, slacks, typical civilian attire
-    position: Seated facing interview setup, demonstrating hoax recreation
-    action: Demonstrating how the famous photograph was created using simple materials
+  - appearance: Contemporary UFO researchers and investigators, various ages representing new generation of scientists
+    clothing: Modern casual professional attire, contemporary scientific appearance
+    position: Working at modern computer workstations and digital analysis equipment
+    action: Re-examining Belgian UFO wave data using modern technology, comparing with recent UAP disclosures and contemporary
+      investigations
+  - appearance: Academic researchers and military historians
+    clothing: Contemporary professional academic attire, modern civilian clothing
+    position: Reviewing historical documentation and modern comparative analysis
+    action: Studying Belgian wave as benchmark case for civilian-military cooperation in unexplained phenomena investigation
   scene:
-    mainElements: Domestic setting with hoax materials displayed for demonstration
-    details: Triangular styrofoam piece painted black, four small flashlights for corner and center lights, suspended on string,
-      materials used to create the famous hoax photograph now revealed as confession evidence. Original hoax creator demonstrating
-      the simple techniques used to deceive the public for over 20 years. Camera equipment from the original hoax also visible.
-    background: Ordinary home environment showing the mundane reality behind famous deception
-    atmosphere: Revelation of truth undermining decades of mystery and public belief
+    mainElements: Modern research facility with contemporary computer technology, digital analysis equipment, historical documentation
+      being studied with current methods
+    details: High-resolution digital displays showing historical radar data, modern computer analysis of 1990 F-16 recordings,
+      contemporary research methodology being applied to decades-old evidence, ongoing investigation using 21st century scientific
+      tools, historical significance being recognized in academic UFO studies
+    background: Contemporary research environment with modern technology, digital archives containing Belgian UFO wave documentation,
+      current scientific investigation facilities, academic setting studying historical unexplained phenomena with modern
+      analytical capabilities
+    atmosphere: Ongoing scientific curiosity about unresolved historical case, modern technology revealing new details in
+      old evidence, sense of continuing mystery despite technological advancement, academic recognition of Belgian wave as
+      significant historical event, no text or letters visible
   composition:
-    cameraAngle: Medium shot showing confession and demonstration of hoax methods
-    focus: Hoax creator revealing the simple materials and methods behind famous UFO photograph
-    depth: 'Foreground: confession participant and hoax materials, middle ground: demonstration setup, background: ordinary
-      domestic environment revealing mundane truth, no text or letters visible'
+    cameraAngle: Wide shot of modern research facility showing historical investigation with contemporary tools
+    focus: Contemporary researchers using modern technology to re-examine Belgian UFO wave evidence and its lasting significance
+    depth: Foreground shows modern investigators with digital equipment, middle ground displays research workstations and
+      analysis tools, background reveals contemporary scientific facility studying enduring historical mystery
 visualElements:
   colorPalette:
     primary:

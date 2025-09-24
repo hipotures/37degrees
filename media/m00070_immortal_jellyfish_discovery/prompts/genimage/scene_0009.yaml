@@ -1,32 +1,44 @@
 sceneDescription:
   setting:
-    time: 2000s, afternoon
-    location: Modern biomedical research facility focused on aging and longevity studies
-    weather: Controlled laboratory environment with advanced lighting systems
+    time: 1996, afternoon
+    location: Modern academic research facility with specialized marine specimen cultivation rooms, University of Salento,
+      Lecce, Italy
+    weather: Indoor controlled environment
   characters:
-  - appearance: Woman, 30s, professional appearance, shoulder-length brown hair, focused expression
-    clothing: 'Modern laboratory attire: crisp white lab coat, dark blouse, professional trousers, safety equipment'
-    position: Working at advanced molecular biology workstation with computer displays
-    action: Analyzing genetic sequences and molecular pathways related to jellyfish immortality mechanisms
-  - appearance: Man, 40s, slightly stocky build, balding with remaining brown hair, serious demeanor
-    clothing: 'Contemporary research attire: lab coat over button-down shirt, dark trousers, identification badge'
-    position: Standing at high-tech equipment console monitoring experiments
-    action: Operating advanced research equipment to study cellular aging processes based on jellyfish discoveries
+  - appearance: Italian man, middle-aged academic, distinguished salt-and-pepper beard, glasses, thoughtful expression, hands
+      often clasped behind back
+    clothing: Professor attire - light colored button-down shirt, dark slacks, lab coat when in laboratory, leather shoes
+    position: Standing at podium addressing scientific audience
+    action: Authoritative but encouraging, precise in speech, presenting revolutionary findings to international marine biology
+      community
+  - appearance: German man, early 20s, lean build, intense blue eyes, sandy blonde hair, pale complexion from northern European
+      heritage
+    clothing: 1980s marine biology field gear - worn khaki shorts, white cotton t-shirt, diving mask around neck, waterproof
+      watch, salt-stained canvas shoes
+    position: Seated in audience among international researchers
+    action: Focused and methodical when working, excited gestures when explaining discoveries, observing scientific community's
+      response to their breakthrough
+  - appearance: Italian man, young adult, Mediterranean features, dark curly hair, olive complexion, athletic build from diving
+      activities
+    clothing: Casual 1980s summer attire - light blue polo shirt, navy shorts, diving equipment, notebook in waterproof case
+    position: At demonstration table with specimen equipment
+    action: Collaborative and supportive, animated when discussing findings, presenting live specimens to international scientists
   scene:
-    mainElements: State-of-the-art research laboratory with advanced molecular biology equipment, computer workstations displaying
-      genetic data, modern microscopy and analysis systems
-    details: Advanced digital microscope with camera attachment, computer interface, and high-resolution imaging capabilities,
-      multiple computer screens showing molecular pathways and genetic sequences, sophisticated laboratory equipment for studying
-      cellular processes, research materials related to aging and longevity studies, modern safety and monitoring systems
-    background: Modern biomedical research facility with cutting-edge equipment, organized research stations, and advanced
-      technological infrastructure supporting longevity research
-    atmosphere: Cutting-edge scientific research environment where jellyfish immortality discoveries are being applied to
-      understand human aging processes, modern pursuit of longevity breakthroughs, no text or letters visible
+    mainElements: Glass specimen jars on laboratory benches, controlled temperature systems, microscopes, seawater circulation
+      systems, fluorescent lighting
+    details: Clear glass containers, approximately 500ml capacity, with ventilated lids, filled with filtered seawater, small
+      jellyfish barely visible to naked eye, requiring magnification for detailed observation, polyps attached to jar bottom.
+      International audience of marine biologists, scientific presentation setup, projection equipment showing microscopic
+      images of transformation process
+    background: Academic conference environment within laboratory setting, international scientists observing and discussing
+      groundbreaking biological discovery
+    atmosphere: Sterile laboratory environment, quiet hum of equipment, controlled lighting, smell of seawater and laboratory
+      chemicals, electric atmosphere of scientific revolution and paradigm shift in biological understanding
   composition:
-    cameraAngle: Wide shot showing the modern research environment and advanced scientific equipment
-    focus: Contemporary aging research efforts inspired by the immortal jellyfish discovery
-    depth: 'Foreground: advanced laboratory equipment and computer workstations, middle: researchers working with modern technology,
-      background: state-of-the-art research facility infrastructure'
+    cameraAngle: Wide shot showing scientific presentation and audience
+    focus: Official announcement of biological immortality discovery to international scientific community
+    depth: Foreground shows presentation setup with live specimens, middle ground features researchers addressing scientific
+      audience, background displays laboratory setting with international attendees, no text or letters visible
 visualElements:
   colorPalette:
     primary:

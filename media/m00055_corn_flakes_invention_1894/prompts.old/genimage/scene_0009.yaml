@@ -1,0 +1,105 @@
+sceneDescription:
+  setting:
+    time: 1894, lunch hour
+    location: Dining hall at Battle Creek Sanitarium, Michigan, large room with multiple tables
+    weather: Bright midday sunlight flooding the dining hall
+  characters:
+  - appearance: Middle-aged person, pale complexion, thin build, wearing simple light-colored clothing
+    clothing: Plain white or light gray loose-fitting garments typical of health institution patients
+    position: Seated at dining table, looking expectantly at the meal being served
+    action: Examining the new wheat flakes with curiosity and beginning to taste them
+  - appearance: Caucasian man, 40s, tall and lean build, intense dark eyes, full dark beard, stern expression
+    clothing: 1890s white medical coat over dark suit, or formal black suit with white shirt and bow tie
+    position: Standing near patient tables, observing reactions
+    action: Watching carefully as patients try the new wheat flakes, gauging their responses
+  - appearance: Caucasian man, 30s, shorter than his brother, clean-shaven, practical demeanor, focused expression
+    clothing: 1890s dark business suit with vest, white shirt, simple necktie, sometimes wearing work apron
+    position: Moving between tables with serving dishes
+    action: Serving portions of the new wheat flakes to various patients and explaining the new food
+  scene:
+    mainElements: Long wooden tables with chairs, white tablecloths, large windows providing natural light, bowls of wheat
+      flakes being served to patients
+    details: Thin, crispy flakes of wheat scattered on metal tray, golden-brown color, each flake individual and delicate,
+      patients examining and tasting the new food, positive reactions visible on faces, dining hall atmosphere of discovery,
+      no text or letters visible
+    background: Multiple dining tables with other patients, large windows showing sanitarium grounds
+    atmosphere: Excitement and curiosity about the new food discovery, sense of innovation being shared with patients, positive
+      reception of accidental invention
+  composition:
+    cameraAngle: Wide shot capturing multiple tables and reactions
+    focus: Patients tasting the new wheat flakes with brothers observing reactions
+    depth: Foreground shows main patient table, middle ground shows both brothers, background shows other dining tables and
+      windows
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1628, spring
+    location: Vasa warship during final armament phase
+    weather: Cool spring morning with harbor mist
+  characters:
+  - appearance: Swedish man, 45, naval officer bearing, weathered sea captain face, serious expression
+    clothing: Swedish naval uniform with officer insignia, ceremonial sword, naval hat
+    position: Standing on gun deck overseeing cannon installation
+    action: Naval authority, directing placement of massive artillery pieces with growing concern
+  scene:
+    mainElements: Two gun decks being loaded with unprecedented number of heavy cannons
+    details: 64 bronze cannons including 48 powerful 24-pound guns being positioned on two gun decks, crews struggling with
+      weight of massive artillery, ship visibly settling lower in water under enormous weight, gun ports being fitted, ammunition
+      being loaded, ship's hull creaking under artillery load
+    background: Stockholm harbor with other naval vessels, royal shipyard continuing construction activities, spring weather
+      over Swedish maritime scene
+    atmosphere: Growing concern about ship's stability as massive firepower exceeds safe engineering limits, unprecedented
+      naval armament creating engineering challenge, military ambition versus maritime physics, no text or letters visible
+  composition:
+    cameraAngle: Low angle shot emphasizing massive artillery installation
+    focus: Overwhelming firepower creating dangerous top-heavy condition
+    depth: Gun deck and cannons in foreground, ship structure in middle ground, harbor environment in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

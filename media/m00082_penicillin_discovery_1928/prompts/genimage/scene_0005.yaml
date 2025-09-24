@@ -1,25 +1,37 @@
 sceneDescription:
   setting:
-    time: 1928 early September, morning
-    location: St Mary's Hospital Bacteriology Laboratory, Paddington, London
-    weather: Cool temperatures below 20 degrees Celsius, favorable for mold growth
-  characters: No characters present in this scene
+    time: September 3, 1928, morning approximately 10:00 AM
+    location: Small cramped laboratory on upper floor of Clarence Wing, St. Mary's Hospital, Paddington, London
+    weather: Cool London autumn morning with clear visibility
+  characters:
+  - appearance: 47-year-old Scottish man, short stature, round face with receding hairline, bright observant eyes, typically
+      serious expression
+    clothing: Dark three-piece suit typical of 1928 academics, white collared shirt, characteristic bow tie, dark leather
+      shoes, occasionally white laboratory coat over formal attire
+    position: Standing at laboratory workbench or examining culture plates
+    action: Holding contaminated culture plate, pointing to the clear zone around mold, demonstrating discovery significance
+  - appearance: Young Welsh man in mid-20s, tall and lean build, dark hair, intelligent features
+    clothing: Dark wool suit appropriate for laboratory work, white shirt, simple tie, occasionally white lab coat
+    position: Standing beside workbench or observing experiments
+    action: Leaning forward attentively, observing the contaminated plate, listening to Character AF's explanation
   scene:
-    mainElements: Laboratory culture plates showing early stages of contamination, blue-green mold beginning to appear on
-      one petri dish
-    details: Glass petri dish with bacterial colonies now showing small blue-green fuzzy growth of Penicillium notatum, other
-      culture plates remaining normal, laboratory bench unchanged from character AF's departure, natural cool lighting through
-      windows, scientific equipment sitting undisturbed, brass microscope still covered, temperature conditions ideal for
-      both bacterial and mold growth, no text or letters visible
-    background: Laboratory environment maintaining optimal conditions, windows allowing cool air circulation, shelves with
-      chemical bottles and equipment
-    atmosphere: Silent biological transformation occurring, natural contamination process unfolding, serendipitous conditions
-      aligning
+    mainElements: Wooden laboratory benches cluttered with glass Petri dishes, basic microscopes, gas burners, glass laboratory
+      equipment, culture plates scattered across surfaces, shelving with bottles and specimens
+    details: Character AF holding the famous contaminated Petri dish containing standard glass dish approximately 10cm diameter
+      with yellowish agar growth medium, blue-green Penicillium mold colony approximately 2cm across clearly visible, clear
+      zone around mold where Staphylococcus bacteria was destroyed, normal bacterial growth in areas distant from mold, Character
+      MP examining the phenomenon closely, brass and black metal compound microscope positioned on bench ready for detailed
+      examination
+    background: Laboratory shelving with specimen bottles and equipment, morning light through Victorian windows, other culture
+      plates scattered on workbench
+    atmosphere: Cool September morning light filtering through tall Victorian windows, humid conditions, dusty academic atmosphere,
+      quiet except for occasional footsteps in corridor
   composition:
-    cameraAngle: Close-up shot focusing on the contaminated culture plate
-    focus: Single petri dish showing early blue-green mold growth among bacterial colonies
-    depth: Foreground emphasizes contaminated culture detail, middle ground shows laboratory bench setting, background reveals
-      broader laboratory environment
+    cameraAngle: Close-up shot capturing both men examining the contaminated plate
+    focus: The contaminated Petri dish held between Character AF and Character MP showing the clear bacterial-free zone
+    depth: Foreground shows detailed view of the famous contaminated culture plate with mold and clear zone, middle ground
+      captures Character AF and Character MP in the moment of recognition, background reveals laboratory equipment and morning
+      light, no text or letters visible
 visualElements:
   colorPalette:
     primary:

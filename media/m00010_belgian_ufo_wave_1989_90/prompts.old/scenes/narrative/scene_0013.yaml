@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Media Coverage and Public Interest"
+  setting:
+    time: "1991, evening"
+    location: "Television studio, Brussels, Belgium"
+    weather: "Indoor studio environment"
+  characters:
+    - appearance: "Television journalist, 30s-40s, professional appearance"
+      clothing: "1990s business professional attire - suit jacket, dress shirt, typical broadcast appearance"
+      position: "Seated at news desk presenting story about UFO wave"
+      action: "Broadcasting news report about Belgian UFO incidents and official investigation"
+  scene:
+    mainElements: "Television news studio with broadcast equipment and professional setup"
+    details: "Professional news studio environment with cameras, lighting equipment, and broadcast technology typical of early 1990s television production. News anchor presenting story about the Belgian UFO wave to national audience. Studio monitors and technical equipment visible, creating atmosphere of serious journalistic coverage of unusual events."
+    background: "Television studio with technical equipment and professional broadcasting setup"
+    atmosphere: "Mainstream media coverage bringing unusual phenomena to widespread public attention"
+  composition:
+    cameraAngle: "Medium shot of news anchor in professional studio setting"
+    focus: "Television journalist presenting Belgian UFO wave story to national audience"
+    depth: "Foreground: news anchor and desk, middle ground: studio equipment and cameras, background: professional broadcast environment, no text or letters visible"

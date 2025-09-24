@@ -1,0 +1,84 @@
+canon:
+  characters:
+    - id: "character_AF"
+      name: "Character AF"
+      description_block: |
+        characters:
+          - appearance: "Scottish man, 47 years old, average height, lean build, receding dark hair, thoughtful brown eyes, clean-shaven"
+            clothing: "1920s white laboratory coat over dark suit with vest and tie, or dark wool suit with waistcoat"
+            posture: "Methodical and observant, often leaning over lab bench or examining specimens closely"
+    - id: "character_MP"
+      name: "Character MP"
+      description_block: |
+        characters:
+          - appearance: "Young British man, early 30s, medium build, neat brown hair, clean-shaven, alert expression"
+            clothing: "1920s laboratory assistant attire - white coat over shirt and tie, or dark suit with vest"
+            posture: "Attentive assistant stance, often standing beside or behind main researcher"
+    - id: "character_SC"
+      name: "Character SC"
+      description_block: |
+        characters:
+          - appearance: "British man, late 20s, slender build, light brown hair neatly combed, clean-shaven, earnest expression"
+            clothing: "1920s laboratory assistant white coat over white shirt and dark tie"
+            posture: "Focused research assistant, often handling laboratory equipment or taking notes"
+    - id: "character_FR"
+      name: "Character FR"
+      description_block: |
+        characters:
+          - appearance: "British man, early 30s, medium height, dark hair, clean-shaven, serious demeanor"
+            clothing: "1920s white laboratory coat over formal shirt and dark tie"
+            posture: "Concentrated laboratory work stance, often manipulating scientific instruments"
+  locations:
+    - id: "st_marys_laboratory"
+      name: "St Mary's Hospital Laboratory"
+      description_block: |
+        setting:
+          location: "St Mary's Hospital Bacteriology Laboratory, Paddington, London"
+        mainElements: "1920s medical research laboratory with wooden lab benches, glass equipment, microscopes, petri dishes, chemical bottles"
+        atmosphere: "Scientific precision and discovery, natural daylight through tall windows, organized chaos of research"
+    - id: "culture_room"
+      name: "Bacterial Culture Room"
+      description_block: |
+        setting:
+          location: "Bacterial culture preparation room, St Mary's Hospital, London"
+        mainElements: "Specialized room with incubators, culture plates, sterilization equipment, glass containers with bacterial samples"
+        atmosphere: "Sterile scientific environment with controlled conditions for bacterial growth"
+    - id: "mycology_lab_below"
+      name: "Mycology Laboratory Below"
+      description_block: |
+        setting:
+          location: "La Touche's mycological laboratory, floor below Fleming's lab, St Mary's Hospital"
+        mainElements: "Laboratory dedicated to mold and fungus research, various specimens, culture containers, scientific equipment"
+        atmosphere: "Research environment focused on fungal studies, source of airborne spores"
+    - id: "london_exterior"
+      name: "London Street Scene"
+      description_block: |
+        setting:
+          location: "Paddington district, London, near St Mary's Hospital"
+        mainElements: "1920s London streetscape with Georgian architecture, horse-drawn vehicles, early automobiles, gas street lamps"
+        atmosphere: "Bustling urban life of late 1920s London, transition between old and modern times"
+  items:
+    - id: "contaminated_petri_dish"
+      name: "Contaminated Petri Dish"
+      description_block: |
+        details: "Glass petri dish with bacterial colonies, central blue-green mold growth with clear zone around it where bacteria have been killed"
+    - id: "penicillium_mold"
+      name: "Penicillium Mold"
+      description_block: |
+        details: "Blue-green fuzzy mold growth, later identified as Penicillium notatum, source of penicillin antibiotic"
+    - id: "staphylococcus_culture"
+      name: "Staphylococcus Culture"
+      description_block: |
+        details: "Yellow-white bacterial colonies on agar medium, some destroyed near mold, others growing normally at distance"
+    - id: "lab_microscope"
+      name: "Laboratory Microscope"
+      description_block: |
+        details: "1920s brass and black metal microscope with adjustable mirror and specimen stage"
+    - id: "culture_flasks"
+      name: "Culture Flask Collection"
+      description_block: |
+        details: "Glass Erlenmeyer flasks and test tubes containing various bacterial cultures and growth media"
+    - id: "lab_notebook"
+      name: "Laboratory Notebook"
+      description_block: |
+        details: "Leather-bound scientific notebook with handwritten observations and sketches of bacterial cultures"

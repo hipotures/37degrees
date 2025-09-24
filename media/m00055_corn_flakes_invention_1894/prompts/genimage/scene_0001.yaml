@@ -1,91 +1,79 @@
 sceneDescription:
   setting:
-    time: 1894, late afternoon
-    location: Battle Creek Sanitarium, Michigan, multi-story brick building with Victorian architecture
-    weather: Clear autumn day with golden sunlight
+    time: August 8, 1894, evening
+    location: Battle Creek Sanitarium institutional kitchen, Michigan
+    weather: Warm August evening, heated kitchen environment from cooking equipment
   characters:
-  - appearance: Caucasian man, 40s, tall and lean build, intense dark eyes, full dark beard, stern expression
-    clothing: 1890s white medical coat over dark suit, or formal black suit with white shirt and bow tie
-    position: Standing at main entrance of sanitarium, addressing arriving patients
-    action: Gesturing toward the building while explaining health philosophy to new arrivals
+  - appearance: Caucasian man, age 52, medium height with lean build, distinctive full beard and mustache, wire-rimmed spectacles,
+      piercing intelligent eyes
+    clothing: White medical coat over dark three-piece suit, high collar with necktie, polished black leather shoes, occasionally
+      white sanitarium uniform
+    position: Standing at large wooden work table, preparing to leave kitchen
+    action: Removing white apron, adjusting spectacles, looking toward kitchen door with urgent expression
   scene:
-    mainElements: Large institutional building with multiple wings, well-maintained grounds, trees surrounding the property,
-      horse-drawn carriages arriving with patients
-    details: Victorian architecture with decorative brickwork, large windows, wide front steps leading to entrance doors,
-      landscaped gardens with autumn foliage, wooden signs indicating different departments, no text or letters visible
-    background: Michigan countryside with rolling hills, scattered trees in autumn colors, distant farmland
-    atmosphere: Professional medical facility atmosphere, clean and orderly, modern health treatment facility, sense of innovation
-      and medical advancement
+    mainElements: Large institutional kitchen with high ceilings and tall windows, heavy metal rollers for dough processing,
+      large wooden work tables
+    details: Coal-fired ovens with brick construction, ceramic mixing bowls of various sizes, metal pots and utensils hanging
+      from hooks, flour barrels and grain storage containers, gas lighting fixtures, dense pale yellowish wheat-berry dough
+      in large ceramic bowl on work table
+    background: Stone walls with functional shelving, large windows showing evening darkness, institutional equipment mounted
+      on heavy wooden frames
+    atmosphere: Warm from cooking fires, flour dust in air, sounds of metal equipment, early evening August heat, smell of
+      baking bread and grains, sense of interrupted work
   composition:
-    cameraAngle: Wide establishing shot from slight elevation
-    focus: The impressive sanitarium building with character in foreground
-    depth: Foreground shows character and entrance, middle ground shows full building facade, background shows Michigan landscape
+    cameraAngle: Medium shot from kitchen entrance perspective
+    focus: Character JHK preparing to leave urgent medical situation, with wheat dough prominently visible on work table
+    depth: Foreground shows character in white coat, middle ground reveals work table with dough bowl, background displays
+      kitchen equipment and shelving, no text or letters visible
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

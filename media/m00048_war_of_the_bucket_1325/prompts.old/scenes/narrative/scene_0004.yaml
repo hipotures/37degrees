@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Bologna Assembles Massive Army"
+  setting:
+    time: "November 1325, early morning"
+    location: "Large military camp outside Bologna's city walls"
+    weather: "Foggy dawn breaking over assembled forces"
+  characters:
+    - appearance: "Italian man, 20s-30s, determined face, muscular build"
+      clothing: "Red tunic with Bologna coat of arms, chainmail, steel helmet"
+      position: "Arranged in military formations across the field, some mounted on horseback"
+      action: "Preparing weapons, adjusting armor, forming ranks in massive military formation"
+    - appearance: "Italian man, 40s, stern weathered face, prominent nose, dark beard"
+      clothing: "Red and gold Bolognese military surcoat over chainmail, steel helmet with plume"
+      position: "On horseback at front of assembled army, elevated above the troops"
+      action: "Surveying the massive force, pointing toward Modena's direction with commanding gestures"
+  scene:
+    mainElements: "Vast military encampment with thousands of soldiers, horses, supply wagons, and weapons"
+    details: "Crossbows, spears, swords, maces typical of 14th century warfare stacked in organized piles, colorful military pavilions and tents in Bologna's red colors, horses being saddled and prepared for march, supply wagons loaded with provisions, blacksmiths sharpening weapons at portable forges, Heraldic banners of Bologna (red) displaying city arms fluttering in morning breeze"
+    background: "Bologna's medieval walls and towers visible in distance, rolling Italian countryside stretching toward Modena"
+    atmosphere: "Massive military mobilization, fog lifting to reveal the incredible scale of Bologna's 32,000-strong army"
+  composition:
+    cameraAngle: "High wide shot showing the enormous scale of the assembled army"
+    focus: "The overwhelming size of Bologna's military force preparing for war"
+    depth: "Foreground: rows of soldiers and equipment, Middle: command area and mounted officers, Background: city walls and countryside, no text or letters visible"

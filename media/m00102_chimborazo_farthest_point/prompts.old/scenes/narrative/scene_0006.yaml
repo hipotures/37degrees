@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Data Analysis Revelation"
+  setting:
+    time: "Modern day, evening"
+    location: "Scientific research station near equator in Ecuador"
+    weather: "Clear evening in Andean research facility"
+  characters:
+    - appearance: "Caucasian man, 40s, scholarly build, wire-rimmed glasses, thoughtful expression"
+      clothing: "Khaki field research clothes, hiking boots, backpack with scientific equipment"
+      position: "Standing at computer analyzing measurement data"
+      action: "Comparing Chimborazo and Everest distance measurements from Earth's center"
+  scene:
+    mainElements: "Modern scientific equipment, computers, measurement devices, topographical maps with calculation results displayed"
+    details: "Research station with computer screens showing GPS coordinates and distance calculations, detailed geographical maps showing elevation contours, mountain ranges, coordinate systems spread across tables, measurement equipment displaying surprising results, no text or letters visible"
+    background: "Research station windows showing Ecuadorian mountains silhouetted against evening sky"
+    atmosphere: "Technical research environment focused on geographical measurements with moment of scientific breakthrough"
+  composition:
+    cameraAngle: "Over-shoulder shot focusing on computer data"
+    focus: "Computer screen showing the surprising measurement comparison"
+    depth: "Computer screen in foreground, scientist in middle ground, mountain view in background"

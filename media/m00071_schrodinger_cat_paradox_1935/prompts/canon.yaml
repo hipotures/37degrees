@@ -4,86 +4,93 @@ canon:
       name: "Character ES"
       description_block: |
         characters:
-          - appearance: "Austrian physicist, 50s, tall slender build, high forehead, thoughtful dark eyes behind wire-rimmed glasses, salt-and-pepper hair neatly combed"
-            clothing: "1930s dark wool suit with vest, white collared shirt, simple tie, or white laboratory coat over shirt and trousers"
-            posture: "Scholarly bearing, often with hands clasped behind back or gesturing while explaining, contemplative stance"
-
+          - appearance: "Caucasian man, 48 years old, distinguished appearance with receding dark hair, wire-rimmed glasses, well-groomed mustache, medium build, intellectual bearing"
+            clothing: "1930s academic attire - dark wool suit, white shirt, conservative tie, occasionally lab coat when working"
+            position: "Usually seated at desk or standing at blackboard"
+            action: "Writing equations, reading correspondence, or engaged in thoughtful contemplation"
     - id: "character_AE"
       name: "Character AE"
       description_block: |
         characters:
-          - appearance: "German-American physicist, 50s, wild white hair, expressive dark eyes, distinctive mustache, kindly weathered face"
-            clothing: "Casual 1930s attire, rumpled sweater or cardigan over shirt, often without tie, sometimes formal suit for meetings"
-            posture: "Relaxed but animated, often gesturing with hands while speaking, leaning forward when engaged in discussion"
-
+          - appearance: "Caucasian man, 56 years old, wild gray hair, deep-set eyes, lined face, mustache, medium height, expressive hands"
+            clothing: "Informal academic style - sweater vests, rumpled shirts, sometimes suspenders, less formal than contemporaries"
+            position: "Often gesticulating or leaning forward in conversation"
+            action: "Explaining concepts with animated gestures, writing letters, or pacing while thinking"
+    - id: "character_WH"
+      name: "Character WH"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 34 years old, youthful face, neat brown hair, clean-shaven, sharp features, serious expression"
+            clothing: "Formal academic dress - dark suits, pressed shirts, conservative appearance"
+            position: "Standing formally or seated upright"
+            action: "Presenting arguments, writing on blackboard, or engaged in precise discussion"
     - id: "character_NB"
       name: "Character NB"
       description_block: |
         characters:
-          - appearance: "Danish physicist, 50s, medium build, receding hairline, intense pale eyes, clean-shaven, intellectual countenance"
-            clothing: "Formal 1930s attire, dark suit with vest, bow tie or regular tie, well-groomed appearance"
-            posture: "Dignified bearing, often standing straight with hands at sides or holding papers, confident demeanor"
-
+          - appearance: "Caucasian man, 50 years old, balding with fringe of hair, round face, thoughtful eyes, solid build"
+            clothing: "Professional academic attire - well-tailored suits, bow ties, formal presentation"
+            position: "Seated in thoughtful pose or standing authoritatively"
+            action: "Mediating discussions, explaining complex concepts, or reviewing scientific papers"
   locations:
-    - id: "university_office"
-      name: "University Physics Office"
+    - id: "oxford_study"
+      name: "Oxford University Study"
       description_block: |
         setting:
-          location: "University of Oxford physics department office, 1935"
-        mainElements: "Wood-paneled office with large wooden desk, leather chair, blackboard with equations, tall windows"
-        atmosphere: "Academic scholarly environment with warm afternoon lighting through windows"
-
-    - id: "conference_room"
-      name: "Physics Conference Room"
+          time: "1935, afternoon"
+          location: "Academic office in 1930s Oxford college, wood-paneled walls, tall windows overlooking courtyard"
+          weather: "Overcast European winter day"
+        scene:
+          mainElements: "Heavy wooden desk covered with papers, blackboard with equations, bookshelves filled with physics journals, comfortable leather chair"
+          details: "Fountain pen and inkwell on desk, scattered manuscript pages, physics journals open to quantum mechanics articles, fireplace with dying embers"
+          background: "Gothic architecture visible through tall windows, courtyard with bare winter trees"
+          atmosphere: "Quiet scholarly environment, afternoon light filtering through windows, smell of chalk and old books, ticking clock"
+    - id: "princeton_institute"
+      name: "Institute for Advanced Study Princeton"
       description_block: |
         setting:
-          location: "Academic conference room, European university, 1935"
-        mainElements: "Large oval wooden table with chairs, blackboard on wall, bookshelves with physics texts, formal academic setting"
-        atmosphere: "Serious intellectual discourse environment with natural lighting from tall windows"
-
-    - id: "laboratory"
-      name: "Physics Laboratory"
+          time: "1935, morning"
+          location: "Einstein's office at the newly established institute, modern American academic architecture"
+          weather: "Clear American winter morning"
+        scene:
+          mainElements: "Simple wooden desk, blackboard covered with equations, comfortable chairs for discussions, large windows"
+          details: "Typewriter on side table, stacks of correspondence, coffee cup, reading glasses, scientific journals"
+          background: "Tree-lined Princeton campus visible through windows, other institutional buildings"
+          atmosphere: "Collaborative intellectual environment, quiet except for occasional chalk on blackboard, fresh American optimism"
+    - id: "theoretical_laboratory"
+      name: "The Imaginary Laboratory"
       description_block: |
         setting:
-          location: "1930s university physics laboratory"
-        mainElements: "Laboratory benches with scientific instruments, glass apparatus, measuring devices, electrical equipment of 1930s era"
-        atmosphere: "Scientific research environment with bright overhead lighting and organized workspace"
-
-    - id: "thought_experiment_space"
-      name: "Theoretical Physics Visualization Space"
-      description_block: |
-        setting:
-          location: "Abstract conceptual space for visualizing thought experiments"
-        mainElements: "Clean minimalist environment suitable for visualizing theoretical physics concepts and gedanken experiments"
-        atmosphere: "Neutral academic space allowing focus on scientific concepts without distracting elements"
-
+          time: "Theoretical time, sterile lighting"
+          location: "Sterile scientific laboratory with sealed steel chamber at center"
+          weather: "Indoor controlled environment"
+        scene:
+          mainElements: "Sealed steel box large enough for cat, Geiger counter apparatus, small radioactive sample, hammer mechanism, glass flask of poison"
+          details: "Precise scientific instruments, cables connecting components, warning signs about radiation, sterile steel surfaces"
+          background: "White laboratory walls, fluorescent lighting, scientific equipment on benches"
+          atmosphere: "Clinical precision, ticking of Geiger counter, anticipatory tension, fluorescent lighting casting sharp shadows"
   items:
-    - id: "sealed_box"
-      name: "Sealed Experimental Box"
+    - id: "theoretical_cat"
+      name: "The Cat Subject"
       description_block: |
-        details: "Solid wooden or metal box with hinged lid, approximately 2 feet square, completely opaque, with simple latch mechanism, 1930s construction"
-
-    - id: "geiger_counter"
-      name: "Geiger Counter Device"
+        details: "Ordinary house cat, black and white markings, medium size, alert posture inside sealed chamber, represents macroscopic object existing in quantum superposition"
+    - id: "geiger_counter_device"
+      name: "Geiger Counter"
       description_block: |
-        details: "1930s Geiger-Müller counter with cylindrical detection tube, electrical wiring, and analog meter display typical of early radiation detection equipment"
-
-    - id: "poison_flask"
-      name: "Glass Poison Flask"
+        details: "Cylindrical metal tube detector connected to counting mechanism, about 6 inches long, mechanical clicking sound, 1928 version capable of detecting radiation"
+    - id: "radioactive_sample_material"
+      name: "Radioactive Sample"
       description_block: |
-        details: "Small glass laboratory flask with cork stopper, containing liquid, attached to mechanical hammer mechanism for breaking"
-
-    - id: "radioactive_sample"
-      name: "Radioactive Material Sample"
+        details: "Small amount of radioactive material in protective housing, calibrated for 50% probability of decay within one hour, represents quantum uncertainty"
+    - id: "poison_flask_container"
+      name: "Poison Flask"
       description_block: |
-        details: "Small sample of radioactive material in protective lead-lined container, 1930s laboratory standard for physics experiments"
-
-    - id: "blackboard_equations"
-      name: "Physics Equations on Blackboard"
+        details: "Small glass vial containing lethal substance, fragile construction for easy breaking, connected to hammer mechanism triggered by Geiger counter"
+    - id: "steel_chamber_box"
+      name: "Sealed Steel Chamber"
       description_block: |
-        details: "Large slate blackboard with quantum mechanics equations written in white chalk, wave function symbols and mathematical notation"
-
-    - id: "scientific_papers"
-      name: "Academic Physics Papers"
+        details: "Opaque steel container, approximately 3 feet cubed, hermetically sealed, no viewing windows, prevents observation and maintains quantum superposition"
+    - id: "naturwissenschaften_publication"
+      name: "Scientific Journal"
       description_block: |
-        details: "Stack of typewritten scientific papers and journals from 1930s, some with handwritten notes, scattered on desk or table"
+        details: "German scientific journal from 1935, standard academic paper format, three-part essay publication, represents primary source document"

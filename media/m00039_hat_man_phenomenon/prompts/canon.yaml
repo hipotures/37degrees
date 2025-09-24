@@ -1,76 +1,127 @@
 canon:
   characters:
-    - id: "hat_man_entity"
-      name: "Hat Man Shadow Figure"
+    - id: "character_HH"
+      name: "Character HH"
       description_block: |
         characters:
-          - appearance: "Tall dark silhouette, 8-10 feet in height, completely featureless black form with no visible face or limbs"
-            clothing: "Wide-brimmed fedora hat and long dark coat or trench coat, both appearing as solid black shadow"
-            position: "Standing upright, often positioned in doorways, corners, or beside beds"
-            action: "Motionless watching presence, occasionally seen moving with fluid gliding motion"
-    - id: "child_witness"
-      name: "Child Witness"
+          - appearance: "Middle-aged woman, professional appearance, confident demeanor, often seen in interview settings"
+            clothing: "Professional attire suitable for media appearances, business casual to formal depending on setting"
+            posture: "Authoritative, passionate about subject matter, serious when discussing encounters"
+    - id: "character_TB"
+      name: "Character TB"
       description_block: |
         characters:
-          - appearance: "Young child, 8-12 years old, pale complexion with wide frightened eyes"
-            clothing: "Light colored pajamas or nightgown"
-            position: "In bed, half-sitting up or lying frozen with covers pulled up"
-            action: "Staring in terror, unable to move or speak, gripping bedsheets"
-    - id: "adult_witness"
-      name: "Adult Witness"
+          - appearance: "Adult male, dedicated researcher appearance, thoughtful expression"
+            clothing: "Casual to business casual, appropriate for online presence and documentation work"
+            posture: "Methodical, empathetic to experiencers, focused on data collection"
+    - id: "character_BS"
+      name: "Character BS"
       description_block: |
         characters:
-          - appearance: "Adult in 30s-40s, tense facial expression with eyes wide with fear or confusion"
-            clothing: "Nightclothes, pajamas, or sleeping attire"
-            position: "In bed or sitting on edge of bed, body rigid with paralysis"
-            action: "Experiencing sleep paralysis, attempting to move but unable, eyes fixed on shadow figure"
-    - id: "sleep_researcher"
-      name: "Sleep Laboratory Researcher"
+          - appearance: "Middle-aged academic, professional appearance, scholarly demeanor"
+            clothing: "Academic professional attire, lab coats in clinical settings, business attire for interviews"
+            posture: "Scientific, analytical, measured in responses, focused on evidence-based explanations"
+    - id: "typical_experiencer"
+      name: "Hat Man Witness"
       description_block: |
         characters:
-          - appearance: "Middle-aged scientist, 40s-50s, focused professional demeanor"
-            clothing: "White lab coat over business attire, sometimes with sleep monitoring equipment"
-            position: "Standing beside monitoring equipment or seated at desk with charts"
-            action: "Observing sleep study data, taking notes, adjusting monitoring equipment"
+          - appearance: "Various ages, often young adults to middle-aged, exhausted appearance, fearful expressions"
+            clothing: "Sleepwear, nightgowns, pajamas, or casual clothing"
+            posture: "Terrified, confused, seeking validation and explanation for their experience"
+    - id: "ancient_person"
+      name: "Ancient Civilization Member"
+      description_block: |
+        characters:
+          - appearance: "Adult figure from ancient civilization, weathered face, concerned expression"
+            clothing: "Period-appropriate robes or garments from ancient Mesopotamia, Egypt, or Greece"
+            posture: "Fearful, protective, superstitious gestures against evil"
+    - id: "radio_host"
+      name: "Late Night Radio Host"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged broadcaster, professional demeanor, engaging personality"
+            clothing: "Casual professional attire suitable for radio work, headphones around neck"
+            posture: "Animated, leaning forward toward microphone, gesturing while speaking"
   locations:
-    - id: "modern_bedroom"
-      name: "Contemporary Bedroom Setting"
+    - id: "bedroom_encounter"
+      name: "Typical Bedroom Encounter Site"
       description_block: |
         setting:
-          location: "Modern suburban bedroom, middle-class home interior"
-        mainElements: "Single or double bed with standard bedding, bedside table with lamp, dresser, window with curtains"
-        atmosphere: "Dimly lit by streetlight filtering through window, shadows creating ominous corners and doorway silhouettes"
-    - id: "child_bedroom"
-      name: "Child's Bedroom"
+          location: "Private bedroom during nighttime hours, dim or dark lighting conditions"
+        mainElements: "Bed where victim lies paralyzed, doorway or corner where Hat Man appears, minimal lighting creating deep shadows"
+        atmosphere: "Oppressive darkness, sense of malevolent presence, complete silence, feeling of being watched"
+    - id: "ancient_settlement"
+      name: "Ancient Civilization Settlement"
       description_block: |
         setting:
-          location: "Child's bedroom in family home"
-        mainElements: "Small bed with colorful bedding, toys scattered on floor, desk with school supplies, posters on walls"
-        atmosphere: "Night light providing minimal illumination, creating long shadows and making familiar objects appear threatening"
+          location: "Ancient Mesopotamian, Egyptian, or Greek settlement with stone buildings and temples"
+        mainElements: "Stone structures, oil lamps or torches for lighting, sleeping areas with simple bedding"
+        atmosphere: "Mysterious nighttime setting, primitive lighting casting long shadows, sense of ancient fears"
+    - id: "radio_studio"
+      name: "Coast to Coast AM Radio Studio"
+      description_block: |
+        setting:
+          location: "Professional radio broadcast studio with soundproofing and broadcasting equipment"
+        mainElements: "Microphones, mixing boards, host desk, guest seating, on-air signs, late-night atmosphere"
+        atmosphere: "Intimate late-night setting, perfect for paranormal discussions, mysterious and engaging"
+    - id: "internet_forums"
+      name: "Online Communities and Forums"
+      description_block: |
+        setting:
+          location: "Digital representation of early 2000s internet forums and message boards"
+        mainElements: "Computer screens showing text-based discussions, keyboards, early 2000s desktop setups"
+        atmosphere: "Isolated individuals connecting through technology, sense of discovery and validation"
     - id: "sleep_laboratory"
       name: "Sleep Research Laboratory"
       description_block: |
         setting:
-          location: "Medical sleep study facility with monitoring equipment"
-        mainElements: "Hospital-style bed with electrodes and wires, computer monitors displaying sleep data, observation window"
-        atmosphere: "Clinical sterile environment with soft monitoring equipment lights, cameras recording from multiple angles"
-    - id: "apartment_bedroom"
-      name: "Urban Apartment Bedroom"
+          location: "Clinical sleep research facility with monitoring equipment and controlled environment"
+        mainElements: "EEG machines, sleep monitoring devices, comfortable beds with sensors, video recording equipment"
+        atmosphere: "Sterile, scientific, controlled environment designed to study sleep disorders objectively"
+    - id: "modern_bedroom_2010s"
+      name: "Modern Bedroom with Technology"
       description_block: |
         setting:
-          location: "City apartment bedroom, modest urban living space"
-        mainElements: "Small bed against wall, minimal furniture, window overlooking city buildings, narrow doorway"
-        atmosphere: "Urban ambient light from neon signs and streetlights creating dramatic shadows, sounds of city life muffled"
+          location: "Contemporary bedroom from 2010s era with modern technology and furnishings"
+        mainElements: "Modern bed, smartphone charging on nightstand, laptop computer, contemporary furniture"
+        atmosphere: "Modern domestic setting with subtle technological presence, comfortable but potentially vulnerable"
+    - id: "pharmacy_medicine_aisle"
+      name: "Pharmacy Medicine Aisle"
+      description_block: |
+        setting:
+          location: "Retail pharmacy aisle with over-the-counter medications and sleep aids"
+        mainElements: "Shelves stocked with medication boxes, bright fluorescent lighting, shopping baskets"
+        atmosphere: "Clinical retail environment, accessible medical solutions, sense of self-medication culture"
   items:
-    - id: "monitoring_equipment"
+    - id: "the_hat_man_entity"
+      name: "The Hat Man Shadow Figure"
+      description_block: |
+        details: "Tall silhouette (6-8 feet), completely black shadow form, featureless except for distinctive wide-brimmed fedora or cowboy-style hat, long coat or trench coat, no visible facial features, sometimes red glowing eyes, emanates malevolent presence, solid shadow appearance that defies normal lighting"
+    - id: "ancient_sleep_demon"
+      name: "Ancient Shadow Entity"
+      description_block: |
+        details: "Dark shapeless form from ancient times, less defined than modern Hat Man, more ethereal and shifting, associated with nightmares and sleep disturbances in historical contexts"
+    - id: "benadryl_medication"
+      name: "Diphenhydramine Medication"
+      description_block: |
+        details: "Small pink or white tablets in medicine bottle, over-the-counter antihistamine, various dosages, widely available in pharmacies and stores"
+    - id: "eeg_monitoring_equipment"
       name: "Sleep Study Equipment"
       description_block: |
-        details: "EEG electrodes attached to subject's head, pulse oximeter on finger, computer screens showing brain wave patterns, video cameras positioned around bed"
-    - id: "bedside_clock"
-      name: "Digital Bedside Clock"
+        details: "EEG headsets with multiple wires, digital monitors showing brainwave patterns, recording devices, sensors attached to sleeping subject"
+    - id: "early_computer_setup"
+      name: "Early 2000s Computer"
       description_block: |
-        details: "LED digital clock displaying late night time between 2:00 AM and 4:00 AM, casting dim red or green glow"
-    - id: "bedroom_doorway"
-      name: "Bedroom Doorway"
+        details: "Bulky CRT monitor, desktop computer tower, dial-up modem, basic keyboard and mouse, primitive internet setup"
+    - id: "radio_broadcasting_equipment"
+      name: "Professional Radio Equipment"
       description_block: |
-        details: "Standard interior doorway leading to hallway, partially open or fully open, creating rectangular frame of darkness where Hat Man typically appears"
+        details: "Professional microphone on boom arm, mixing board with multiple sliders and buttons, headphones, on-air light indicators"
+    - id: "witness_testimony_documents"
+      name: "Documentation Materials"
+      description_block: |
+        details: "Written reports, printed testimonials, research notebooks, filing systems for organizing encounter accounts"
+    - id: "smartphone_modern"
+      name: "Modern Smartphone"
+      description_block: |
+        details: "Contemporary smartphone displaying social media applications, TikTok interface, digital community platforms"

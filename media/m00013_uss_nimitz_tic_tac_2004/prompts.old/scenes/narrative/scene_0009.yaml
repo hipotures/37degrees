@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "FLIR1 Video Capture - Thermal Imaging of Tic Tac Object"
+  setting:
+    time: "November 14, 2004, afternoon"
+    location: "Pacific Ocean southwest of San Diego, California, viewed through ATFLIR thermal imaging system"
+    weather: "Clear conditions providing optimal thermal imaging visibility"
+  characters:
+    - appearance: "Caucasian man, 30s, medium build, analytical expression, technical focus"
+      clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
+      position: "In F/A-18F cockpit operating ATFLIR sensor systems"
+      action: "Operating thermal imaging equipment and recording the famous FLIR1 video of Tic Tac object"
+  scene:
+    mainElements: "Black and white thermal imaging display showing white hot object against grey/black sky background, telemetry data overlay showing altitude, speed, and angles, auto-tracking box attempting to maintain target lock"
+    details: "AN/ASQ-228 Advanced Targeting FLIR pod, 72-inch sensor pod mounted on fuselage station, infrared camera and laser designator system, capable of recording thermal imagery displaying the Tic Tac object. Bright white, smooth-surfaced oblong object approximately 40 feet long, resembling commercial airliner fuselage shape, no visible wings, rotors, or propulsion systems, no exhaust plume or heat signature, surface appears to shimmer or shift, demonstrates instantaneous acceleration and hover capability visible on thermal display as white hot signature. Auto-tracking system struggling to maintain lock on rapidly maneuvering object."
+    background: "Thermal imaging view showing grey/black sky background with no other thermal signatures visible in the display frame"
+    atmosphere: "Historic moment as advanced military sensor system documents extraordinary aerial phenomenon, technical precision of FLIR system capturing evidence that will later be released to public by Pentagon"
+  composition:
+    cameraAngle: "Close-up view of ATFLIR thermal display screen showing the famous footage"
+    focus: "Thermal image of Tic Tac object as white hot signature breaking auto-tracking lock"
+    depth: "Foreground: FLIR display controls, middle ground: thermal image of object, background: cockpit environment, no text or letters visible"

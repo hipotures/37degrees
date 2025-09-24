@@ -1,98 +1,82 @@
 sceneDescription:
   setting:
-    time: April 6, 1938, early afternoon
-    location: Main laboratory workbench, DuPont Jackson Laboratory
-    weather: Bright afternoon sunlight illuminating the dramatic discovery
+    time: April 6, 1938, late morning, 10:30 AM
+    location: Black-topped laboratory bench with gas connections, electrical outlets, and equipment mounting points
+    weather: Indoor laboratory conditions, bright midday light
   characters:
-  - appearance: Caucasian man, early 30s, slender build, intelligent dark eyes, carefully combed dark hair
-    clothing: 1930s white lab coat over dress shirt and tie, or casual suit with vest
-    position: Leaning over opened cylinder examining the interior
-    action: Carefully observing and examining the unexpected white powder coating inside the cut cylinder
-  - appearance: Caucasian man, 30s, medium build, alert expression, short brown hair
-    clothing: 1930s white lab coat over dress shirt, or work clothes with suspenders
-    position: Standing close beside the opened cylinder
-    action: Studying the white substance with scientific interest and taking detailed observations
+  - appearance: 28-year-old man, medium build, clean-shaven with dark hair neatly parted, wire-rimmed glasses, earnest and
+      intelligent expression
+    clothing: White laboratory coat over dark trousers and white dress shirt, black leather shoes, safety goggles around neck
+    position: Seated at laboratory bench, using small testing implements
+    action: Carefully testing white powder with glass rod, observing its unusual properties with scientific precision
+  - appearance: Young man in early 20s, slightly shorter than character RP, brown hair, no glasses, more casual demeanor
+    clothing: White laboratory coat, dark work pants, practical work boots, rolled sleeves
+    position: Standing beside bench, taking notes
+    action: Recording observations in laboratory notebook as tests are conducted on the strange material
   scene:
-    mainElements: Wooden laboratory bench with glass apparatus, measurement tools, chemical containers
-    details: Opened metal cylinder revealing interior coated with white, waxy powder substance, cutting tools positioned nearby
-      showing how cylinder was opened, white powder appearing slippery and smooth coating the inner walls of steel cylinder,
-      both characters showing expressions of amazement and scientific curiosity, laboratory instruments arranged for immediate
-      analysis, measurement tools ready for testing the new substance, glass containers prepared for sample collection, laboratory
-      notebooks positioned for recording this unexpected discovery, no text or letters visible
-    background: Laboratory equipment and shelving, chemical analysis apparatus visible and ready for use, natural lighting
-      creating clear visibility of the discovery
-    atmosphere: Active research workspace with good lighting, organized tools and equipment
+    mainElements: White, waxy powder with unusual slippery texture spread on glass surface, glass apparatus for chemical testing,
+      metal analytical balance with brass weights, pH testing equipment, heating apparatus
+    details: Small sample of white powder on glass testing surface, various chemical reagents in glass bottles for testing
+      material properties, Bunsen burner setup for heat resistance testing, analytical balance for precise measurements, laboratory
+      notebook with handwritten entries documenting the unusual findings, no text or letters visible
+    background: Focused workspace with morning light, slight chemical smell from previous experiments, organized chaos of
+      ongoing research, sense of systematic scientific investigation
+    atmosphere: Methodical scientific analysis, growing excitement about unusual properties, systematic testing revealing
+      unprecedented characteristics, late morning laboratory environment filled with discovery energy
   composition:
-    cameraAngle: Close-up shot highlighting the dramatic moment of discovery and the white substance
-    focus: Opened cylinder with visible white powder and characters' expressions of scientific wonder
-    depth: Foreground shows detailed view of white powder in opened cylinder, middle ground features both characters examining
-      discovery, background reveals laboratory analysis equipment ready for use, no text or letters visible
+    cameraAngle: Medium shot from side angle, showing detailed testing process and documentation
+    focus: White powder sample being tested and the careful scientific analysis procedures
+    depth: Foreground shows powder sample and testing equipment, middle ground features working scientists, background shows
+      laboratory environment, no text or letters visible
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

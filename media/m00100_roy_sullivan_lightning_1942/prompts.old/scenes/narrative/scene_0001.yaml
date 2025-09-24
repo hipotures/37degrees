@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Shenandoah Ranger - Beginning of Career"
+  setting:
+    time: "1936, spring"
+    location: "Shenandoah National Park ranger orientation"
+    weather: "Clear spring day in Virginia mountains"
+  characters:
+    - appearance: "American man, 24, brawny build resembling Gene Hackman, rugged weathered face, confident bearing"
+      clothing: "New US Park Service uniform with ranger hat, work boots, utility belt"
+      position: "Standing with other new rangers during orientation"
+      action: "Confident ranger bearing, eager to begin career protecting wilderness"
+  scene:
+    mainElements: "Group of new park rangers receiving training at Shenandoah National Park headquarters"
+    details: "Official park service building with American flag, new rangers in crisp uniforms learning duties, park maps and wilderness safety information, supervisor explaining fire lookout responsibilities, beautiful Appalachian mountain setting, professional career beginning in nature conservation"
+    background: "Dense forest with tall trees, mountain ridges visible through headquarters windows, beautiful Virginia wilderness setting"
+    atmosphere: "Beautiful Appalachian wilderness setting with promising career beginning, normal park service work before extraordinary lightning encounters, peaceful mountain environment, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing ranger training in mountain park setting"
+    focus: "Beginning of remarkable park ranger career"
+    depth: "Ranger training group in foreground, park headquarters in middle ground, Shenandoah mountains in background"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Scientist prepares egg experiment to test microwave heating"
+  setting:
+    time: "1945, late afternoon"
+    location: "Specialized testing section within Raytheon laboratory"
+    weather: "Indoor laboratory environment with artificial lighting"
+  characters:
+    - appearance: "Caucasian man, 50s, lean build, receding brown hair, intelligent dark eyes behind wire-rimmed glasses"
+      clothing: "White lab coat over dark suit jacket, white dress shirt, narrow dark tie, dress shoes"
+      position: "Standing at laboratory table, carefully handling experimental materials"
+      action: "Placing fresh egg in metal bowl, positioning it precisely for microwave exposure test"
+    - appearance: "Caucasian man, 30s, average height, blonde hair, curious expression"
+      clothing: "White lab coat over gray suit, white shirt"
+      position: "Standing beside scientist, leaning in to observe"
+      action: "Taking notes on experimental setup, engaged in the scientific process"
+  scene:
+    mainElements: "White chicken egg in metal bowl positioned on laboratory table, smooth oval shell surface clearly visible, magnetron equipment prepared for next phase of testing"
+    details: "Metal bowl reflects laboratory lighting, egg positioned at optimal distance from magnetron for controlled exposure. Laboratory table marked with precise measurements for experimental positioning. Electrical cables connecting magnetron to power sources. Warning signs about electromagnetic radiation visible on laboratory walls."
+    background: "Magnetron mounted on stand ready for activation, measurement equipment, oscilloscopes, filing cabinets, industrial laboratory environment"
+    atmosphere: "Scientific anticipation and methodical experimentation, progression from simple to more complex food testing, controlled laboratory environment preparing for dramatic results, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from side angle showing setup and scientists"
+    focus: "White egg in metal bowl positioned strategically for microwave testing"
+    depth: "Foreground shows detailed egg and bowl setup, middle ground features scientist and colleague preparing experiment, background reveals magnetron equipment ready for activation"

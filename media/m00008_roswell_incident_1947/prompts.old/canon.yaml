@@ -1,0 +1,87 @@
+canon:
+  characters:
+    - id: "character_MB"
+      name: "Character MB"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 50s, weathered sun-worn face with deep lines, graying hair, lean build"
+            clothing: "1940s ranch attire - worn denim jeans, cotton long-sleeve shirt, brown felt cowboy hat with wide brim, leather belt with simple buckle, worn leather work boots"
+            posture: "Slightly stooped from years of ranch work, hands calloused, moves with practical efficiency"
+    - id: "character_JM"
+      name: "Character JM"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 39, clean-shaven, dark hair neatly combed, average build"
+            clothing: "USAAF Pinks and Greens Class A uniform - olive drab gabardine wool jacket with light taupe trousers, khaki shirt with black tie, gold oak leaf insignia on shoulders"
+            posture: "Military bearing, stands straight, professional demeanor"
+    - id: "character_RR"
+      name: "Character RR"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 50s, distinguished features, graying hair, commanding presence"
+            clothing: "USAAF general's uniform - same style as other officers but with silver star general's insignia, service cap with rank insignia"
+            posture: "Authoritative stance, confident, hands often clasped behind back"
+    - id: "character_GW"
+      name: "Character GW"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, mustache, sturdy build, sheriff's weathered face"
+            clothing: "1940s sheriff uniform - khaki shirt with badge, dark trousers, leather gun belt, wide-brimmed hat"
+            posture: "Alert, watchful, hands often near belt, professional law enforcement stance"
+  locations:
+    - id: "foster_ranch"
+      name: "Foster Ranch"
+      description_block: |
+        setting:
+          location: "Foster Ranch near Corona, New Mexico - remote cattle ranch 75 miles northwest of Roswell"
+        mainElements: "Single-story wood frame ranch house with front porch, weathered barn, corrals, outbuildings"
+        atmosphere: "Arid semi-desert landscape with low scrub vegetation, sagebrush, yucca plants, sandy soil with rocky outcrops, vast open sky"
+    - id: "debris_field"
+      name: "Debris Field"
+      description_block: |
+        setting:
+          location: "Open pasture land on Foster Ranch, New Mexico desert"
+        mainElements: "Wide area of scattered metallic debris across sandy soil and sparse vegetation"
+        atmosphere: "Desolate, mysterious, harsh desert sun creating sharp shadows, disturbed earth from recent storm"
+    - id: "roswell_sheriff"
+      name: "Roswell Sheriff's Office"
+      description_block: |
+        setting:
+          location: "Roswell Sheriff's Office, downtown Roswell, New Mexico"
+        mainElements: "1940s small-town law enforcement office - wooden desks, filing cabinets, bulletin boards with wanted posters"
+        atmosphere: "Functional government office, fluorescent lighting, institutional green walls, American flag in corner"
+    - id: "roswell_aaf"
+      name: "Roswell Army Air Field"
+      description_block: |
+        setting:
+          location: "Roswell Army Air Field (RAAF), major military installation near Roswell, New Mexico"
+        mainElements: "Military base with runways, curved-roof hangars with corrugated metal siding, administrative buildings, barracks"
+        atmosphere: "Active military installation, utilitarian WWII-era architecture, concrete and brick structures, institutional colors"
+    - id: "fort_worth_office"
+      name: "General's Office at Fort Worth"
+      description_block: |
+        setting:
+          location: "General's office, Fort Worth Army Air Field, Texas"
+        mainElements: "Military office with wood-paneled walls, large wall map, wooden desk, leather chairs, American flag"
+        atmosphere: "Formal military command office, mixed fluorescent and natural light from windows, polished surfaces"
+  items:
+    - id: "debris_exotic"
+      name: "Mysterious Debris"
+      description_block: |
+        details: "Scattered pieces of lightweight metallic material resembling aluminum foil but unusually strong, small I-beams with purple-pink markings, strips of rubber-like material, pieces that seem to return to shape after crumpling"
+    - id: "debris_official"
+      name: "Weather Balloon Debris"
+      description_block: |
+        details: "ML-307/AP radar target remnants - balsa wood sticks in triangular frames, paper-backed aluminum foil similar to candy wrapper, reinforced tape with flower patterns, degraded neoprene rubber balloon pieces"
+    - id: "press_cameras"
+      name: "Press Photography Equipment"
+      description_block: |
+        details: "1940s Speed Graphic press cameras with large bellows, magnesium flash bulbs in reflector dishes creating harsh directional light"
+    - id: "military_vehicles"
+      name: "Military Transport"
+      description_block: |
+        details: "Olive drab Willys CJ-2A Jeep with white USAAF star markings, military flatbed truck for debris transport, canvas-covered cargo areas"
+    - id: "ranch_truck"
+      name: "Rancher's Pickup"
+      description_block: |
+        details: "Late 1930s Ford or Chevrolet pickup truck, weathered paint, dusty exterior, practical ranch vehicle with worn tires"

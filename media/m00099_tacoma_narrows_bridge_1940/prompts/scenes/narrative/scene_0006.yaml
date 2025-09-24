@@ -1,20 +1,16 @@
 sceneDescription:
-  title: "Tubby the Dog - Final Rescue Attempt"
+  title: "The Torsional Terror Begins - Bridge Changes Behavior"
   setting:
-    time: "November 7, 1940, late morning"
-    location: "Abandoned car on violently oscillating bridge"
-    weather: "Peak wind conditions causing maximum bridge movement"
-  characters:
-    - appearance: "American man, 40s, professional photographer bearing, alert eyes, steady hands"
-      clothing: "1940s casual attire with photographer's vest, carrying camera equipment"
-      position: "Approaching abandoned car despite dangerous conditions"
-      action: "Documentary focus, attempting rescue while maintaining professional composure"
+    time: "November 7, 1940, 10:00 AM"
+    location: "Tacoma Narrows strait of Puget Sound, Washington, suspended 190 feet above water"
+    weather: "Gray overcast sky, 42 mph southwest winds, choppy water, cold blustery weather"
+  characters: "No characters present in this scene"
   scene:
-    mainElements: "Small brown and white cocker spaniel trapped in abandoned car on violently moving bridge"
-    details: "Three-legged cocker spaniel visible through car windows, frightened animal unable to escape tilting vehicle, car rocking with bridge oscillation, heroic but unsuccessful rescue attempt, photographer torn between human safety and animal rescue, bridge deck becoming impossible to navigate"
-    background: "Bridge structure twisting beyond engineering limits, Puget Sound waters below, gathering crowd of spectators on shore"
-    atmosphere: "Tragic animal drama within larger engineering disaster, human compassion in face of overwhelming danger, impossible rescue conditions, individual tragedy within structural catastrophe, no text or letters visible"
+    mainElements: "2,800-foot center span, two 425-foot tall towers, shallow 8-foot plate girders, elegant Art Deco styling"
+    details: "Critical change in bridge behavior as steady vertical undulation transforms into violent twisting motion never observed before. Bridge deck rotating dramatically along its length, one side rising while other drops at angles up to 45 degrees. Suspension cables vibrating like guitar strings, creating visible waves along their length. Motion now visible from miles away, completely different from familiar galloping motion."
+    background: "Forested hills of Olympic Peninsula on one side, Tacoma cityscape on other, Puget Sound stretching to horizon with whitecaps indicating strong winds"
+    atmosphere: "Notoriously flexible structure with visible undulations in wind, nicknamed 'Galloping Gertie', both beautiful and ominous"
   composition:
-    cameraAngle: "Close shot showing rescue attempt and trapped dog"
-    focus: "Animal victim of engineering failure and heroic rescue attempt"
-    depth: "Rescue attempt at car in foreground, violently moving bridge in middle ground, safe shoreline in background"
+    cameraAngle: "Wide side view showing full span twisting motion"
+    focus: "Dramatic torsional oscillation with deck rotating at extreme angles"
+    depth: "Choppy water surface in foreground, twisting bridge span dominating middle ground, storm clouds in background, no text or letters visible"

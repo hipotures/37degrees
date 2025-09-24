@@ -1,94 +1,85 @@
 sceneDescription:
   setting:
-    time: 1705, midday
-    location: Grand hall within Moscow Kremlin, ornate Russian palace interior with high vaulted ceilings
-    weather: Clear winter day, sunlight streaming through windows
+    time: September 1698, evening
+    location: Grand palace interior within Kremlin walls, Moscow, Russia, vaulted ceilings, massive stone architecture
+    weather: Indoor candlelit setting
   characters:
-  - appearance: Caucasian man, early 30s, tall imposing build, clean-shaven face, intense dark eyes, prominent nose
-    clothing: European-style navy blue military uniform with gold epaulettes and buttons, or formal Western coat with white
-      cravat
-    position: Standing before ornate throne, facing assembly
-    action: Gesturing authoritatively while holding official document, commanding attention from court
+  - appearance: Tall imposing figure, age 33, 6 feet 8 inches height, dark hair, clean-shaven face, piercing eyes, strong
+      jawline
+    clothing: Western European fashion - dark coat with gold buttons, white linen shirt, knee-length breeches, European-style
+      boots
+    position: Standing beside ornate throne, holding large ceremonial scissors
+    action: Cutting the long beard of kneeling nobleman with decisive, theatrical gesture
+  - appearance: Middle-aged man, 40s-50s, long dark beard, stocky build, traditional Russian features, expressions of defiance
+      or confusion
+    clothing: Long traditional kaftan robes, fur-trimmed hat, ornate Russian nobility dress, gradually forced into European
+      clothing
+    position: Kneeling before throne, head tilted back
+    action: Submitting reluctantly to beard cutting, hands clenched in lap, expression of resigned distress
   scene:
-    mainElements: Massive wooden throne, decorative pillars, Russian Orthodox icons on walls
-    details: Sunlight illuminates character PG's clean-shaven face in stark contrast to traditional Russian court setting,
-      ornate throne carved with imperial eagles, decorative columns with gold leaf details, Persian carpets on stone floor,
-      crystal chandelier hanging from vaulted ceiling
-    background: Traditional Russian Orthodox icons line the walls, creating tension between old traditions and new Western
-      influence
-    atmosphere: Formal, tense, seat of imperial power with traditional Russian grandeur, sense of impending change and authority,
-      no text or letters visible
+    mainElements: Ornate throne, Russian imperial eagles, traditional tapestries being replaced with European furnishings,
+      courtiers gathered
+    details: Large metal scissors and straight razor, ornate handles reflecting imperial status, sharp blades, tools used
+      to cut beards at court, polished metal reflecting candlelight. Cut beard hair falling to marble floor, other noblemen
+      watching in shock and horror, candles illuminating tense faces, no text or letters visible
+    background: Other courtiers standing against walls, mixture of clean-shaven and bearded faces showing division in court,
+      ornate palace decorations
+    atmosphere: Tense formal atmosphere, mixture of traditional Russian grandeur and new European influences, echo of voices
+      in vast space
   composition:
-    cameraAngle: Medium shot from court assembly perspective
-    focus: Character PG's clean-shaven face representing Western influence against traditional Russian backdrop
-    depth: Character PG in foreground commanding attention, throne and court officials in middle ground, traditional icons
-      in background
+    cameraAngle: Medium shot focusing on the dramatic moment of cutting
+    focus: The scissors cutting through the nobleman's beard, symbolic moment of cultural transformation
+    depth: Foreground shows falling hair and ceremonial tools, middle ground captures main action, background reveals watching
+      courtiers
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

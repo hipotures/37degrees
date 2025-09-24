@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Dawn breaking over Oymyakon showing human resilience"
+  setting:
+    time: "Dawn, 9:00 AM with first light of returning sun"
+    location: "Central area of Oymyakon village, Sakha Republic, Russia, surrounded by the Yana-Oymyakon Highlands"
+    weather: "Cold but moderating at -45°C, clear sky with sunrise colors"
+  characters:
+    - appearance: "Yakutian man, 40s, weathered face with high cheekbones, dark eyes adapted to snow glare, bronze skin from outdoor work"
+      clothing: "Traditional reindeer hide parka with fur-lined hood, thick mukluks, woolen mittens, layers of warm undergarments"
+      position: "Standing near temperature monument in village center"
+      action: "Looking toward rising sun, checking outdoor thermometer, preparing for day's activities"
+    - appearance: "Young Yakutian boy, 8 years old, bright curious eyes, round face typical of children in extreme cold"
+      clothing: "Small child's winter parka in bright colors, tiny mukluks, woolen hat with ear flaps"
+      position: "Standing beside adult, holding his hand"
+      action: "Watching sunrise with wonder, breathing visible vapor clouds, ready for another school day"
+  scene:
+    mainElements: "Monument displaying temperature record of -71.2°C, small cluster of wooden buildings with steep roofs, main road"
+    details: "Stone monument stands prominently in village center, marking this location as the coldest inhabited place on Earth. Village showing signs of successful survival through extreme winter: smoke rising from chimneys, paths maintained through snow, vehicles running to prevent freezing. Community infrastructure functioning despite conditions that would challenge modern technology. Evidence of human adaptation and determination visible throughout village layout."
+    background: "Vast taiga landscape extending beyond village boundaries, snow-laden evergreen forest stretching to distant mountains, Arctic sky showing warm colors of sunrise"
+    atmosphere: "Triumph of human spirit over extreme natural conditions, community strength built through shared survival, hope represented by returning daylight"
+  composition:
+    cameraAngle: "Wide shot showing both human figures and village in context of vast landscape"
+    focus: "Village monument with father and child standing together in village center"
+    depth: "People and monument in foreground, thriving village in middle ground, endless Siberian wilderness under sunrise sky in background, no text or letters visible"

@@ -1,103 +1,81 @@
 sceneDescription:
   setting:
-    time: 1720, afternoon
-    location: Cramped tenement building, East End of London, England
-    weather: Overcast day
+    time: 1797, day after Triple Assessment Act, early morning
+    location: London residential street with multiple buildings showing fresh masonry work
+    weather: Dawn light revealing overnight construction work, cool morning air
   characters:
-  - appearance: Caucasian man, 60s, gray beard, kind but concerned expression, weathered hands
-    clothing: Dark green coat, white cravat, black medical bag, simple tricorn hat
-    position: Kneeling beside makeshift bed examining young patient
-    action: Listening to child's breathing with primitive stethoscope by candlelight
-  - appearance: Caucasian woman, 30s, thin from hardship, tired eyes, caring demeanor
-    clothing: Dark brown wool dress, white linen cap, simple apron, worn shawl
-    position: Standing anxiously beside doctor and sick child
-    action: Wringing hands with worry while watching medical examination
-  - appearance: Young child, 6 years old, pale and sickly, labored breathing
-    clothing: Simple nightgown, thin blanket
-    position: Lying on simple straw mattress in darkest corner of room
-    action: Coughing weakly while doctor conducts examination
+  - appearance: Multiple construction workers, various builds, dust and mortar stains, tired from night work
+    clothing: Work clothes, leather aprons, rolled sleeves, sturdy boots, tool belts with masonry implements
+    position: Working at multiple buildings simultaneously, some on scaffolding, others at ground level
+    action: Completing final window blocking work, cleaning tools, surveying completed overnight construction
+  - appearance: Neighborhood residents, mix of social classes, expressions of concern and curiosity
+    clothing: Early morning dress, some still in nightclothes with outer coats, range from working class to middle class attire
+    position: Standing on street observing the dramatic overnight change to their neighborhood
+    action: Pointing at newly blocked windows, discussing the radical overnight transformation with neighbors
   scene:
-    mainElements: Completely bricked-up windows creating perpetual darkness, single candle providing only light, makeshift
-      bed area, medical examination
-    details: Black leather physician's bag with glass vials and metal instruments, flickering candle casting dancing shadows,
-      cloth bandages and medical supplies spread on wooden table, completely sealed window openings visible on walls, damp
-      patches from poor ventilation, simple wooden furniture barely visible in darkness, family's modest possessions
-    background: Severe health consequences of windowless living conditions, multiple bricked-up window spaces creating tomb-like
-      environment
-    atmosphere: Medical crisis in extremely poor living conditions, dangerous health environment created by lack of light
-      and ventilation, grave concern about child's wellbeing, oppressive darkness requiring artificial lighting even during
-      daytime, no text or letters visible
+    mainElements: Multiple buildings with freshly bricked windows, construction debris, scaffolding, protest activity
+    details: Multiple window openings filled with bricks and mortar, rectangular outlines still visible, different colored
+      bricks from original walls, sometimes with chalk protest graffiti, fresh mortar still drying, construction debris scattered
+      on cobblestones, abandoned masonry tools, empty mortar buckets, evidence of rushed overnight work with slightly uneven
+      brickwork
+    background: London residential architecture dramatically altered overnight, early morning sounds of awakening city, church
+      bells, distant sounds of similar construction work on other streets, smoke beginning to rise from unblocked chimneys
+    atmosphere: Atmosphere of dramatic overnight transformation, sense of mass civil disobedience through architectural modification,
+      morning light revealing extent of protest response, mixture of determination and defiance against government taxation
   composition:
-    cameraAngle: Medium close shot focusing on medical examination
-    focus: Doctor examining sick child in unnaturally dark living conditions
-    depth: Medical examination by candlelight in foreground, worried mother in middle ground, completely bricked-up windows
-      creating dark background
+    cameraAngle: Wide shot showing multiple buildings with blocked windows, emphasizing scale of overnight response
+    focus: Mass window blocking as central visual impact, demonstrating coordinated public response to tax increase
+    depth: Foreground shows detailed construction debris and fresh masonry work, middle ground captures full street transformation,
+      background reveals broader neighborhood participation in protest, no text or letters visible
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

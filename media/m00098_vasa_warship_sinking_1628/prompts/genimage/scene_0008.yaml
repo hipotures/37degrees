@@ -1,22 +1,29 @@
 sceneDescription:
   setting:
-    time: August 10, 1628, late morning
-    location: Stockholm harbor 120 meters from shore
-    weather: Light wind continuing as disaster unfolds
-  characters: No characters present in this scene
+    time: August 10, 1628, 16:36
+    location: Stockholm Harbor near Tegelviken bay, Sweden
+    weather: Strong gust continuing to push the top-heavy warship over
+  characters:
+  - appearance: Middle-aged seaman, weathered face, graying beard, muscular build from years at sea, worried expression
+    clothing: Dark blue naval officer's coat with brass buttons, white shirt, black tricorn hat, leather belt with cutlass
+    position: Standing on ship's deck
+    action: Constantly checking rigging and sails, barking orders with growing urgency
   scene:
-    mainElements: Vasa warship disappearing beneath Stockholm harbor waters in full view of horrified crowd
-    details: Massive Swedish warship sinking stern-first into harbor waters, elaborate carved wooden sculptures and golden
-      decorations disappearing below surface, masts and rigging still visible above water, air bubbles and debris rising from
-      submerged hull, royal Swedish symbols vanishing beneath waves, ornate ship decorations now underwater
-    background: Stockholm harbor with shocked crowds on stone quays, rescue boats racing toward sinking ship, other naval
-      vessels maintaining safe distance
-    atmosphere: Complete disaster of royal warship project, Sweden's most expensive naval investment lost in minutes, horrified
-      crowd witnessing unprecedented maritime catastrophe, engineering failure complete, no text or letters visible
+    mainElements: Protected waters between mainland and archipelago, royal palace quay, Slussen narrows, Södermalm bluffs,
+      Tegelviken bay, numerous small islands and rocks
+    details: Warship Vasa heeled far beyond recovery point, torrents of harbor water pouring through open gun ports on lower
+      deck, massive bronze cannons sliding and crashing to port side making recovery impossible, crew members running desperately
+      across tilted deck toward high starboard side, water rushing into ship's hull creating whirlpools and foam, ornate stern
+      carvings now partially submerged, sails still full of wind driving ship further over, no text or letters visible
+    background: Bustling maritime activity, summer afternoon sun creating long shadows, gentle breeze carrying salt air and
+      tar scents
+    atmosphere: Bustling maritime activity, summer afternoon sun creating long shadows, gentle breeze carrying salt air and
+      tar scents
   composition:
-    cameraAngle: Wide shot showing ship disappearing beneath harbor surface
-    focus: Complete sinking of royal warship in shallow harbor
-    depth: Sinking ship in foreground, harbor waters in middle ground, shocked Stockholm waterfront in background
+    cameraAngle: Close-up angle showing water rushing through gun ports
+    focus: Dramatic flooding through ship's side as captain realizes disaster is inevitable
+    depth: Rushing water and tilted cannons in foreground, captain on flooding deck in middle ground, Stockholm harbor in
+      background, no text or letters visible
 visualElements:
   colorPalette:
     primary:

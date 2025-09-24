@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Warrior status recognition celebration"
+  setting:
+    time: "Afternoon, bright warm sunlight"
+    location: "Central gathering area of Sateré-Mawé village in Amazon rainforest"
+    weather: "Clear warm day with gentle breeze"
+  characters:
+    - appearance: "Indigenous Brazilian boy, 12-15 years old, lean athletic build, bronze skin, straight black hair"
+      clothing: "Traditional Sateré-Mawé attire with colorful feather ornaments, woven cotton bands, minimal body decoration"
+      position: "Standing proudly in center of gathering, hands fully recovered"
+      action: "Receiving recognition as new warrior having completed first bullet ant initiation successfully"
+    - appearance: "Elderly Sateré-Mawé man, 60s, weathered bronze skin, white-streaked black hair, wise dark eyes"
+      clothing: "Traditional ceremonial robes with elaborate feather headdress, shell and bead jewelry, painted body markings"
+      position: "Standing before new warrior conducting recognition ceremony"
+      action: "Presenting traditional warrior symbols and offering blessings for continued strength"
+    - appearance: "Various Sateré-Mawé villagers of different ages, bronze skin, traditional facial features"
+      clothing: "Everyday tribal attire with colorful cotton garments, simple jewelry, body paint patterns"
+      position: "Gathered in celebration around newly recognized warrior"
+      action: "Celebrating successful completion of traditional initiation with songs and congratulations"
+  scene:
+    mainElements: "Circular clearing surrounded by traditional thatched-roof houses, fire pit in center, woven palm mats"
+    details: "Traditional Sateré-Mawé ritual items including feathered staffs, carved masks, painted gourds, shell instruments arranged celebratorily. Completed bullet ant gloves displayed as symbols of successfully endured trial. Fresh warrior markings and ceremonial objects prepared for recognition."
+    background: "Village houses and Amazon rainforest celebrating successful cultural continuation"
+    atmosphere: "Community gathering space with warm firelight, ceremonial significance, tribal unity. Joyful cultural pride and successful tradition preservation, acknowledging first of many trials ahead, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot showing warrior recognition ceremony"
+    focus: "New warrior receiving ceremonial recognition from tribal elder"
+    depth: "Recognition ceremony in foreground, celebrating community in middle ground, village and forest in background"

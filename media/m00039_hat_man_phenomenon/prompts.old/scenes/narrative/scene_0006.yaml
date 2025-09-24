@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Sleep Laboratory Study of Hat Man Encounters"
+  setting:
+    time: "2016, 11:45 PM"
+    location: "Medical sleep study facility with monitoring equipment"
+    weather: "Indoor controlled environment"
+  characters:
+    - appearance: "Adult in 30s-40s, tense facial expression with eyes wide with fear or confusion"
+      clothing: "Hospital gown with electrodes attached to head and chest"
+      position: "Lying in hospital-style bed connected to monitoring equipment"
+      action: "Experiencing monitored sleep paralysis episode while researchers observe"
+    - appearance: "Middle-aged scientist, 40s-50s, focused professional demeanor"
+      clothing: "White lab coat over business attire, sometimes with sleep monitoring equipment"
+      position: "Standing beside monitoring equipment or seated at desk with charts"
+      action: "Observing sleep study data, taking notes, adjusting monitoring equipment"
+  scene:
+    mainElements: "Hospital-style bed with electrodes and wires, computer monitors displaying sleep data, observation window"
+    details: "EEG electrodes attached to subject's head, pulse oximeter on finger, computer screens showing brain wave patterns, video cameras positioned around bed. Multiple monitors displaying real-time sleep data including REM patterns and paralysis indicators. Research clipboard with data collection forms."
+    background: "Clinical observation room with one-way mirror, additional monitoring equipment, charts on walls showing sleep cycle diagrams"
+    atmosphere: "Clinical sterile environment with soft monitoring equipment lights, cameras recording from multiple angles. Scientific attempt to document and understand phenomenon in controlled setting"
+  composition:
+    cameraAngle: "Wide shot from observation room perspective through one-way mirror"
+    focus: "Subject in monitored sleep study bed while researcher observes data"
+    depth: "Foreground: monitoring equipment and researcher, middle: observation window, background: subject in bed with electrodes in clinical sleep study room, no text or letters visible"

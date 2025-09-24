@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Scientific Publication and Editorial Review Process"
+  setting:
+    time: "Late 1988, evening"
+    location: "Academic journal editorial office with manuscript review area"
+    weather: "Indoor office environment with focused desk lighting"
+  characters:
+    - appearance: "Man, 40s, slightly stocky build, balding with remaining brown hair, serious demeanor"
+      clothing: "Academic conference attire: suit jacket, dress shirt, tie, reading glasses hanging from neck"
+      position: "Seated at editorial desk reviewing manuscript pages"
+      action: "Carefully examining research paper with magnifying glass, making editorial notes and reviewing methodology"
+    - appearance: "Woman, 30s, professional appearance, shoulder-length brown hair, focused expression"
+      clothing: "Contemporary laboratory attire: white lab coat, dark blouse, professional trousers"
+      position: "Standing beside desk with additional reference materials"
+      action: "Cross-referencing findings with existing literature and preparing peer review materials"
+  scene:
+    mainElements: "Academic editorial desk with manuscript pages spread out for review, scientific journals stacked for reference, editorial review materials and publication guidelines"
+    details: "Scientific paper with data tables, microscopy images, and detailed observations of jellyfish life cycle reversal laid out across desk surface, multiple academic journals open for comparison, editorial review forms and peer review documentation, magnifying equipment for examining detailed data, computer terminal for manuscript processing"
+    background: "Professional publishing environment with bookshelves containing scientific references, filing cabinets with editorial materials, and academic publication resources"
+    atmosphere: "Rigorous scientific peer review process ensuring accuracy and significance of groundbreaking discovery before publication, editorial diligence in validating revolutionary biological findings, no text or letters visible"
+  composition:
+    cameraAngle: "Over-desk view showing the manuscript review process and editorial examination"
+    focus: "The scientific publication process and careful editorial review of the immortality discovery"
+    depth: "Foreground: manuscript pages and editorial review materials, middle: editors examining documentation, background: office environment with academic resources"

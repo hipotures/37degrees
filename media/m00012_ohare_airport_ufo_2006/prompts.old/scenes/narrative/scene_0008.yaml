@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "United Airlines Supervisor Reports to FAA Control Tower"
+  setting:
+    time: "November 7, 2006, 4:25 PM CST, late afternoon"
+    location: "Terminal 3 operations office, Chicago O'Hare International Airport"
+    weather: "Overcast, solid grey cloud layer with slowly closing circular hole visible through windows"
+  characters:
+    - appearance: "United Airlines supervisor, male, 40s, professional demeanor, slight tension in expression"
+      clothing: "Business casual attire, white dress shirt, dark slacks, UA employee ID badge, company tie"
+      position: "Seated at desk with telephone"
+      action: "Speaking urgently into phone handset while looking out window toward Gate C-17"
+    - appearance: "Male worker, 30s, Caucasian, medium build, alert expression"
+      clothing: "Navy blue United Airlines work pants, company polo shirt with UA logo, high-visibility orange safety vest (ANSI Class II), hearing protection around neck, safety shoes, winter jacket for November weather"
+      position: "Standing beside supervisor's desk"
+      action: "Gesturing toward window while providing details to supervisor"
+  scene:
+    mainElements: "Office interior with windows facing Gate C-17 area, supervisor making official phone call to FAA control tower, slowly closing circular hole still visible in cloud layer outside"
+    details: "Professional airport office environment with desks, filing cabinets, radio equipment, charts on walls, supervisor holding telephone handset while maintaining view of phenomenon site, worker providing eyewitness account, office atmosphere tense with urgency of unusual report"
+    background: "Terminal operations office overlooking Gate C-17, closing hole in clouds still partially visible through windows, normal airport operations continuing despite extraordinary report being filed"
+    atmosphere: "Official reporting of unprecedented event, transition from witnessed phenomenon to bureaucratic documentation, tension between extraordinary experience and standard reporting procedures, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from inside office showing supervisor on phone"
+    focus: "United Airlines supervisor making phone call while worker provides witness account"
+    depth: "Foreground: office furniture and personnel, middle ground: supervisor on phone, background: windows showing Gate C-17 area"

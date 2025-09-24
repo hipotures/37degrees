@@ -1,24 +1,31 @@
 sceneDescription:
   setting:
-    time: 1990s, late afternoon
-    location: Devils Curve section of Death Road - site of infamous 1983 bus accident
-    weather: Solemn overcast sky with gentle mountain breeze
+    time: 1995, midday
+    location: Bolivia's administrative capital at 3,500m elevation in dramatic bowl-shaped valley, world's highest capital
+      city
+    weather: Clear mountain day with bright sunlight and thin air at high altitude
   characters:
-  - appearance: Elderly Bolivian woman, 60s, lined face showing years of highland life, gray hair in braids
-    clothing: Traditional colorful Bolivian dress, shawl, bowler hat, layered skirts
-    position: Kneeling beside memorial crosses
-    action: Placing fresh flowers at base of wooden crosses, praying for accident victims
+  - appearance: International development officials aged 30-50, professional appearance with documents and surveying equipment
+    clothing: Business suits and jackets appropriate for formal assessment work, some with hard hats for safety
+    position: Gathered around vehicles and equipment at road assessment point
+    action: Conducting official study with measuring devices, reviewing accident statistics and documentation
   scene:
-    mainElements: Simple wooden crosses marking accident sites, flowers and offerings left by families
-    details: Multiple weathered wooden crosses of different sizes, fresh and wilted flowers, small personal offerings, candles
-      in glass containers, handwritten messages tied to crosses, road scarred by years of accidents
-    background: Dangerous curve where bus went over edge, valley far below where wreckage disappeared
-    atmosphere: Grief transformed into memorial, quiet dignity amid continuing danger
+    mainElements: Mix of colonial and modern buildings, crowded bus terminals, indigenous markets, snow-capped Illimani peak
+      dominating skyline
+    details: Official documents and surveying equipment used in Inter-American Development Bank study declaring road world's
+      most dangerous, including accident statistics and safety analysis. Professional vehicles with official markings parked
+      at roadside. Measurement equipment and clipboards with data sheets. Officials examining road conditions and accident
+      sites. Modern surveying instruments contrasting with primitive road infrastructure. Maps and charts spread on vehicle
+      hoods showing accident locations and statistics. Radio communication equipment for coordinating assessment team.
+    background: Thin mountain air, cold highland climate, bustling urban energy, blend of indigenous and Spanish colonial
+      architecture
+    atmosphere: Official assessment atmosphere with professional urgency about documenting extreme road danger, sounds of
+      urban La Paz activity, sense of formal recognition of deadly situation, no text or letters visible
   composition:
-    cameraAngle: Respectful medium shot showing memorial and mourning figure
-    focus: Memorial crosses honoring those lost to the dangerous road
-    depth: Memorial crosses in foreground, mourning woman in middle ground, treacherous curve in background, no text or letters
-      visible
+    cameraAngle: Medium wide shot showing assessment team at work with La Paz cityscape behind
+    focus: Professional assessment team conducting official road safety study
+    depth: 'Foreground: officials with equipment and documentation, middle: road infrastructure being assessed, background:
+      La Paz urban landscape with Illimani peak'
 visualElements:
   colorPalette:
     primary:

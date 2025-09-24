@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1563, late afternoon
+    location: Royal audience chamber in Alcázar of Madrid with ornate throne and marble columns
+    weather: Clear afternoon with golden light through stained glass windows
+  characters:
+  - appearance: Spanish king, 40s, pale complexion, dark hair, penetrating gaze, regal bearing
+    clothing: Black velvet doublet with gold embroidery, white ruff collar, dark cape with royal insignia
+    position: Seated on ornate throne, leaning forward with intense interest
+    action: Watching the automaton with amazement and deep religious satisfaction
+  - appearance: Italian man, 50s, graying beard, intense focused eyes, calloused hands from metalwork
+    clothing: Renaissance brown leather apron over white linen shirt, dark wool hose, leather boots
+    position: Standing respectfully before the throne, gesturing toward the automaton
+    action: Presenting his masterwork with pride and humility, explaining its sacred functions
+  - appearance: Franciscan monk figure, 38cm tall, carved wooden head with tonsured crown, serene expression
+    clothing: Brown Franciscan robes, rope belt with knots, simple sandals
+    position: Performing on marble floor before the royal throne
+    action: Walking, striking chest, raising cross, nodding head in prayer gestures
+  scene:
+    mainElements: The mechanical monk demonstrates its devotional routine before the king while courtiers watch in amazement
+    details: Ornate furniture, religious paintings, candelabras, rich carpets, large windows overlooking courtyards create
+      the majestic setting. 38cm tall clockwork figure with wooden head, brown Franciscan robes, hidden brass mechanisms beneath
+      clothing, small wooden cross and rosary in left hand, wind-up key in back performs before royalty. The king's face shows
+      profound satisfaction as his vow finds mechanical fulfillment. Courtiers stand in reverent silence
+    background: Marble columns and Gothic arches frame the royal audience while stained glass windows cast colored light across
+      the scene
+    atmosphere: Sacred fulfillment as royal vow achieves mechanical perfection, divine promise honored through unprecedented
+      innovation, perpetual prayer made manifest
+  composition:
+    cameraAngle: Wide shot from side angle showing the throne, automaton, and craftsman
+    focus: The mechanical monk performing before the satisfied king with the proud craftsman presenting
+    depth: 'Foreground: the performing automaton; middle: throne with king and presenting craftsman; background: marble columns
+      and stained glass, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

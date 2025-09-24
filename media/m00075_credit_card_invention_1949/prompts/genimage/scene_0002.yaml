@@ -1,29 +1,31 @@
 sceneDescription:
   setting:
-    time: 1949, late afternoon
-    location: Hamilton Credit Corporation office, Empire State Building, Manhattan
-    weather: Clear day, sunlight streaming through office windows
+    time: 1949, morning, around 10:00 AM
+    location: High-floor offices in Empire State Building, 350 Fifth Avenue, Manhattan, with panoramic views
+    weather: Clear winter morning with bright sunlight streaming through windows
   characters:
-  - appearance: Caucasian man, early 40s, average height, clean-shaven face, dark hair combed back with pomade, serious business
-      expression, thin-rimmed glasses
-    clothing: 1949 dark navy business suit with white dress shirt, conservative dark tie, polished black leather shoes, gold
-      wristwatch
-    position: Seated behind large wooden desk, leaning back in leather chair
-    action: Reviewing business documents, occasionally glancing at Manhattan skyline through window
+  - appearance: Caucasian man, early 40s, average build, clean-shaven businessman, confident posture, sharp facial features
+      typical of 1940s executive
+    clothing: Dark wool business suit, white dress shirt, conservative necktie, polished leather dress shoes, fedora hat when
+      outdoors
+    position: Standing or seated at business table, gesturing with hands when explaining concepts
+    action: Discussing business matters, slight embarrassment when discussing wallet incident, authoritative yet approachable
+      demeanor
   scene:
-    mainElements: Hamilton Credit Corporation office, Empire State Building, Manhattan
-    details: Wood-paneled office with large desk, telephone, filing cabinets, window overlooking Manhattan, business documents.
-      Heavy mahogany desk with brass fixtures, black rotary telephone, stacks of credit applications, leather-bound ledgers,
-      pen set, desk lamp with green shade, framed family photograph
-    background: Large window showing Manhattan cityscape below, other skyscrapers visible, afternoon sunlight creating dramatic
-      shadows across office
-    atmosphere: Professional 1940s corporate environment, serious business discussions, post-war economic growth. Air of authority
-      and financial responsibility, the weight of business decisions palpable in the quiet efficiency
+    mainElements: Art Deco architectural details, wood-paneled walls, leather furniture, large windows, filing cabinets, typewriters
+      on desks
+    details: Executive desk with scattered business papers and contracts, leather-bound appointment book, fountain pen set,
+      framed family photograph, window overlooking Manhattan skyline, filing cabinets with business documents, telephone on
+      desk, typewriter with carbon paper, no text or letters visible
+    background: Panoramic view of Manhattan through large office windows, other skyscrapers visible in distance, morning sunlight
+      creating dramatic shadows
+    atmosphere: Bustling with post-war business energy, sound of typing and telephone conversations, morning sunlight streaming
+      through windows, professional corporate environment, sense of ambition and opportunity
   composition:
-    cameraAngle: Medium shot from across the desk, slightly elevated perspective
-    focus: Credit executive at his desk reviewing business papers
-    depth: Foreground shows edge of desk with documents, middle ground captures the executive in his chair, background features
-      the Manhattan skyline through office window, no text or letters visible
+    cameraAngle: Medium shot from across the office showing character at desk with Manhattan skyline behind
+    focus: Character FM at his executive desk with panoramic city view emphasizing his business success
+    depth: Foreground shows office furniture and business materials, middle ground features the executive at work, background
+      displays spectacular Manhattan skyline through windows
 visualElements:
   colorPalette:
     primary:

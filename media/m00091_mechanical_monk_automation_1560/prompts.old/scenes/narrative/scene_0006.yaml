@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Assembling the intricate clockwork mechanism"
+  setting:
+    time: "1563, evening"
+    location: "Stone-walled Renaissance workshop in Toledo, Spain, with vaulted ceiling and tall windows"
+    weather: "Clear evening with golden sunset light through windows"
+  characters:
+    - appearance: "Italian man, 50s, graying beard, intense focused eyes, calloused hands from metalwork"
+      clothing: "Renaissance brown leather apron over white linen shirt, dark wool hose, leather boots"
+      position: "Hunched over workbench with magnifying lens, working by candlelight"
+      action: "Carefully fitting tiny brass gears together with precision tweezers, testing spring mechanisms"
+  scene:
+    mainElements: "Complex clockwork mechanism spread across workbench, showing intricate gear trains and spring assemblies"
+    details: "Precision instruments including tiny hammers, files, calipers, brass measuring devices, magnifying lenses, gear-cutting tools, springs and clockwork components create a maze of mechanical complexity. Tiny brass gears mesh perfectly while spring mechanisms coil with potential energy. The internal framework shows sophisticated cam systems that will control the monk's movements. Brass shavings and metal filings glitter in the candlelight. Multiple gear trains suggest different body functions"
+    background: "Workshop tools hang on walls while sunset light fades, requiring additional candles for detailed assembly work"
+    atmosphere: "Intense concentration and mechanical mastery as countless precise components unite into miraculous artificial life, each gear calculated for divine purpose"
+  composition:
+    cameraAngle: "Extreme close-up of the intricate clockwork mechanism"
+    focus: "The complex gear assembly and the craftsman's steady hands working with precision tools"
+    depth: "Foreground: brass gears and springs; middle: working hands with tools; background: workshop equipment and flickering candles, no text or letters visible"

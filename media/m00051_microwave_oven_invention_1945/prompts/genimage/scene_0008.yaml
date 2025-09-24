@@ -1,94 +1,84 @@
 sceneDescription:
   setting:
-    time: 1945, evening
-    location: Engineering office within Raytheon facility
-    weather: Evening darkness outside office windows
+    time: 1945, same morning, moments later
+    location: Magnetron testing area, Raytheon laboratory
+    weather: Indoor environment, electromagnetic equipment heating air
   characters:
-  - appearance: Caucasian man, 50s, lean build, receding brown hair, intelligent dark eyes behind wire-rimmed glasses
-    clothing: White lab coat over dark suit jacket, white dress shirt, narrow dark tie, dress shoes
-    position: Seated at wooden desk, leaning forward in concentration
-    action: Drawing detailed technical schematics with mechanical pencil, creating blueprints for microwave oven design
+  - appearance: 51-year-old Caucasian man, average build, thoughtful expression with intelligent eyes, thinning hair typical
+      of middle-aged engineer
+    clothing: White laboratory coat over period-appropriate 1940s business shirt and tie, practical work shoes
+    position: Standing back from tea kettle apparatus with protective stance
+    action: Observing experimental results while maintaining safe distance from explosive cooking
+  - appearance: Middle-aged Caucasian engineer, caught off-guard expression, slightly disheveled
+    clothing: Laboratory coat, now splattered with cooked egg remnants
+    position: Standing too close to experiment with shocked expression
+    action: Recoiling from violent egg explosion that splattered cooked egg across his face and clothing
   scene:
-    mainElements: Blueprint-style diagrams on white paper showing microwave oven schematics, precise measurements and component
-      layouts drawn with mechanical pencil, wooden desk surface
-    details: Technical drawings show metal box construction with magnetron placement, internal cavity dimensions, and control
-      mechanisms. Slide rule positioned nearby for calculations. Desk lamp illuminates workspace with focused light. Reference
-      books about electromagnetic theory stacked on desk. Mechanical pencils and erasers arranged methodically.
-    background: Office filing cabinets, window with venetian blinds showing evening darkness, additional engineering reference
-      materials on shelves
-    atmosphere: Focused engineering creativity and innovation, transition from experimental discovery to practical application
-      design, quiet concentration of invention process, no text or letters visible
+    mainElements: Violent explosion of overheated egg from tea kettle experiment, demonstrating both potential and dangers
+      of microwave cooking
+    details: Cooked egg remnants splattered throughout immediate area, yolk and white mixture scattered across workbench and
+      nearby surfaces, tea kettle apparatus showing evidence of internal pressure buildup, egg contents heated unevenly creating
+      explosive result, steam rising from hot cooked egg pieces, magnetron continuing to operate after successful but dangerous
+      cooking demonstration, metal tea kettle slightly damaged from internal explosion
+    background: Other laboratory personnel looking toward source of explosion sound, radar equipment continuing normal operations,
+      workspace now showing evidence of messy cooking experiment
+    atmosphere: Shock and surprise at violent cooking results, realization that microwave heating requires controlled environment,
+      electrical humming from magnetron mixed with aftermath of explosive experiment, sense of both breakthrough and caution
+      needed, no text or letters visible
   composition:
-    cameraAngle: Close-up shot from above showing technical drawings and scientist working
-    focus: Detailed microwave oven schematics being drawn with precision
-    depth: Foreground shows technical drawings and drafting tools, middle ground features scientist's concentrated work, background
-      reveals organized engineering office environment
+    cameraAngle: Medium shot capturing both explosion aftermath and engineer's reaction
+    focus: Egg-splattered colleague recoiling while senior engineer observes results analytically
+    depth: Foreground shows detailed egg explosion evidence, middle ground features both engineers' reactions, background
+      displays laboratory setting
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

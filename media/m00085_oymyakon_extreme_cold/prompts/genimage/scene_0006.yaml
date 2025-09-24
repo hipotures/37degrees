@@ -1,32 +1,32 @@
 sceneDescription:
   setting:
-    time: Afternoon with maximum available daylight, February
-    location: Frozen Indigirka River near Oymyakon village, thick ice surface extending across river
-    weather: Extreme cold at -50°C, clear sky with pale sun low on horizon
+    time: 1942, afternoon winter
+    location: Airfield construction site in Aeroport district near Oymyakon, Sakha Republic, Siberia
+    weather: Heavy snowfall with strong winds, extreme cold hampering construction efforts
   characters:
-  - appearance: Yakutian man, 40s, weathered face with high cheekbones, dark eyes adapted to snow glare, bronze skin from
-      outdoor work
-    clothing: Traditional reindeer hide parka with fur-lined hood, thick mukluks, woolen mittens, layers of warm undergarments
-    position: Kneeling beside hole cut through thick river ice
-    action: Operating traditional fishing equipment, pulling line from ice hole, checking catch in metal container
-  - appearance: Young Yakutian boy, 8 years old, bright curious eyes, round face typical of children in extreme cold
-    clothing: Small child's winter parka in bright colors, tiny mukluks, woolen hat with ear flaps
-    position: Standing nearby watching fishing process
-    action: Learning traditional ice fishing techniques, carrying small fishing tools, observing adult technique closely
+  - appearance: Sturdy build man in 30s, reddened cheeks from cold, determined expression, visible breath in frigid air
+    clothing: Soviet work clothes adapted for extreme cold, thick wool coat, heavy felt boots, working man's winter hat
+    position: Working on construction or settlement tasks in harsh conditions
+    action: Building structures or performing manual labor with stoic determination mixed with visible struggle against harsh
+      conditions
   scene:
-    mainElements: Circular hole cut through thick river ice, traditional fishing equipment, caught fish in metal container
-    details: Perfectly round hole cut through ice several feet thick, exposing dark river water beneath. Traditional fishing
-      lines and hooks designed for extreme cold conditions. Metal container with several caught fish already frozen solid
-      from air exposure. Hand tools for cutting and maintaining ice hole. Thick ice surface showing depth of winter freeze
-      extending across entire river width.
-    background: Vast frozen river extending to distant banks, snow-covered evergreen forest on both sides, mountains visible
-      on horizon under pale Arctic sky
-    atmosphere: Traditional subsistence activity essential for winter survival, connection between generations in harsh environment
+    mainElements: Large-scale construction of airfield runway and support facilities, earth-moving equipment modified for
+      permafrost conditions, construction materials stockpiled despite weather challenges
+    details: Workers operating specialized cold-weather construction equipment to build airfield infrastructure, massive quantities
+      of gravel and construction materials being placed on permafrost foundation, temporary heating systems to prevent concrete
+      from freezing during construction, barracks and support buildings under construction to house increased population,
+      supply depot areas for Lend-Lease aircraft operations, evidence of wartime urgency in construction pace despite extreme
+      conditions
+    background: Vast flat area suitable for aircraft operations, construction extending across wide area, supply routes visible
+      leading to construction site, strategic importance of location for Allied supply operations
+    atmosphere: Intense industrial activity contrasting with pristine Arctic environment, steam and smoke from construction
+      equipment and heating systems, sounds of heavy machinery working in extreme conditions, sense of wartime importance
+      and urgency driving construction despite Earth's harshest inhabited climate, no text or letters visible
   composition:
-    cameraAngle: Low angle shot from ice level showing fishing activity
-    focus: Ice fishing hole with person and child engaged in traditional food gathering
-    depth: Fishing activity in foreground, frozen river surface in middle ground, forest and mountains in background, no text
-      or letters visible
+    cameraAngle: Wide aerial view showing scale of airfield construction project
+    focus: Massive construction effort transforming Arctic landscape for strategic military purpose
+    depth: 'Foreground: construction equipment and immediate work areas, middle ground: runway construction and workers, background:
+      vast Arctic landscape being transformed by wartime necessity'
 visualElements:
   colorPalette:
     primary:

@@ -1,31 +1,33 @@
 sceneDescription:
   setting:
-    time: 1926, morning, early autumn
-    location: Director's office at Curtis Institute of Music, Philadelphia, 1920s-1930s
-    weather: Crisp autumn morning with bright sunlight
+    time: 1905, morning
+    location: Outdoor testing area with early automobile and mechanical testing equipment
+    weather: Clear morning with good visibility for testing
   characters:
-  - appearance: Polish man, 50 years old, slender build, intense dark eyes, intelligent expression, distinguished bearing
-      with mature confidence
-    clothing: Formal 1920s business attire - dark three-piece suit, white dress shirt, conservative tie, polished shoes, reflecting
-      institutional leadership role
-    position: Seated behind large wooden desk reviewing musical scores and administrative documents
-    action: Examining musical compositions while making notes, occasionally looking toward grand piano in corner of office,
-      balancing artistic and administrative responsibilities
+  - appearance: Adult pianist-inventor in his late 20s, refined European features, intelligent eyes, transitioning from formal
+      musician to hands-on inventor
+    clothing: Practical work clothes - white shirt, dark trousers, leather work gloves, suspenders, cap to keep hair clean
+      during mechanical work
+    position: Crouched beside early automobile examining suspension components
+    action: Testing mechanical shock absorber system, adjusting pneumatic components, observing wheel movement over test obstacles
+      with engineer's precision
   scene:
-    mainElements: Large wooden desk with musical scores and institutional papers, bookshelves filled with musical scores,
-      framed photographs of musicians and composers, grand piano in corner of office
-    details: Leather-bound musical volumes lining walls, framed certificates and awards, photographs of famous musicians and
-      students, morning sunlight streaming through tall windows, fresh flowers in crystal vase, classical architectural details
-      of prestigious music institution, ink well and fountain pen on desk, no text or letters visible
-    background: Elegant institutional office reflecting prestige of Curtis Institute, tall windows overlooking Philadelphia,
-      classical architectural elements
-    atmosphere: Scholarly and administrative authority combined with deep musical passion, responsibility for nurturing next
-      generation of musical talent, institutional prestige and educational excellence
+    mainElements: Open-top touring car with high spoked wheels and thin rubber tires, brass headlamps mounted on front fenders,
+      black leather seats with button tufting, hand-crank starting mechanism, minimal suspension with leaf springs, exposed
+      mechanical components, brass radiator and trim
+    details: Early shock absorber prototypes visible beneath automobile, pneumatic testing apparatus, mechanical measurement
+      devices, wooden planks arranged as test obstacles, tools scattered on ground, metal springs and hydraulic components,
+      pressure gauges and testing instruments, dusty ground from repeated testing runs
+    background: Workshop building with open doors showing mechanical equipment, other early automobiles in various stages
+      of modification, tree line marking boundary of testing area
+    atmosphere: Innovative testing environment where musical precision meets automotive engineering, sounds of mechanical
+      testing and automobile engine, excitement of technological breakthrough in vehicle comfort, pioneering spirit of early
+      automotive development, no text or letters visible
   composition:
-    cameraAngle: Medium wide shot from across the office, emphasizing institutional authority
-    focus: Character JH at his director's desk, showing transition from performer to educator and leader
-    depth: 'Foreground: administrative work and musical scores, middle ground: office furnishings and institutional symbols,
-      background: prestigious educational environment and city views, no text or letters visible'
+    cameraAngle: Low angle showing automobile suspension system with inventor examining shock absorber innovation
+    focus: The revolutionary shock absorber system being tested and refined beneath early automobile
+    depth: Foreground shows detailed shock absorber mechanism, middle ground captures inventor's testing process, background
+      reveals workshop and automotive development setting
 visualElements:
   colorPalette:
     primary:

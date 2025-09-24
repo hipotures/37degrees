@@ -1,29 +1,32 @@
 sceneDescription:
   setting:
-    time: February 1954, late afternoon
-    location: Moscow Institute of Surgery, main laboratory complex, Soviet Union
-    weather: Cold Moscow winter, clear sky with late afternoon light
+    time: February 16, 1954, final day
+    location: Medical recovery room with monitoring equipment, Moscow Institute of Surgery
+    weather: Cold Moscow winter, quiet medical environment
   characters:
-  - appearance: Caucasian man, 38 years old, dark hair slicked back, intense focused eyes behind wire-rim glasses, scholarly
-      demeanor
-    clothing: White laboratory coat over dark suit vest and white shirt, medical gloves, professional surgical attire
-    position: Standing at window of medical facility looking out at Moscow skyline
-    action: Reflecting on completed experimental work while holding final research documentation
+  - appearance: 42-year-old Caucasian man, medium build, serious facial expression with intense dark eyes, receding hairline,
+      clean-shaven
+    clothing: White surgical coat over dark suit, surgical mask around neck, wire-rimmed glasses
+    position: Standing at operating table or examining surgical instruments
+    action: Methodical and precise movements, confident bearing, intense concentration during procedures
+  - appearance: Middle-aged Caucasian woman, stern features, hair pulled back in neat bun, focused expression
+    clothing: White surgical scrubs, surgical cap, rubber gloves
+    position: Assisting at surgical table or monitoring equipment
+    action: Efficient and methodical movements, calm under pressure, devoted to scientific precision
   scene:
-    mainElements: Medical facility interior with view of Moscow winter landscape, completed research documentation stacked
-      on laboratory desk, institutional medical environment
-    details: Scientific notebooks, medical charts, and documentation papers with handwritten observations and measurements
-      containing comprehensive experimental record, view through institutional windows showing Moscow cityscape with snow-covered
-      buildings, late afternoon winter light illuminating medical facility interior, sense of completed scientific undertaking
-    background: Moscow Institute of Surgery laboratory interior with medical equipment, institutional furnishings, view of
-      Moscow skyline through windows with Soviet era architecture
-    atmosphere: Reflective conclusion atmosphere with sense of completed scientific work, institutional medical setting with
-      historical significance, quiet moment of research completion
+    mainElements: Hospital bed with restraints, monitoring equipment, observation charts, medical supplies
+    details: Basic 1950s medical monitoring devices, clipboard with charts, water bowls, feeding apparatus showing final day
+      of unprecedented experiment. Large German Shepherd host animal with dark coat, approximately 4-5 years old, and small
+      mixed-breed donor animal with light brown coat, both prepared for surgical procedure, in final stage of 4-day survival
+      period. Medical team conducting final observations and documentation of groundbreaking experiment
+    background: Simple institutional room with medical equipment, observation window, clinical furniture
+    atmosphere: Quiet medical monitoring environment, constant vigilance, scientific observation, solemn recognition of medical
+      achievement despite tragic outcome, historical significance of unprecedented surgical success, no text or letters visible
   composition:
-    cameraAngle: Medium shot capturing character and institutional environment with Moscow skyline visible
-    focus: Researcher with completed documentation in medical facility setting, emphasizing historical significance
-    depth: Character with research materials in foreground, laboratory interior in middle ground, Moscow winter cityscape
-      in background, no text or letters visible
+    cameraAngle: Close-up shot showing final medical observation
+    focus: Medical team conducting final documentation and care in closing moments of historic experiment
+    depth: Foreground shows medical monitoring equipment, middle ground captures final observation work, background reveals
+      institutional medical setting
 visualElements:
   colorPalette:
     primary:

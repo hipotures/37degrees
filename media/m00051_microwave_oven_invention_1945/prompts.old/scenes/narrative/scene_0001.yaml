@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Scientist working in Raytheon laboratory, 1945"
+  setting:
+    time: "1945, late afternoon"
+    location: "Industrial research laboratory at Raytheon Company, Cambridge, Massachusetts"
+    weather: "Overcast day visible through industrial windows"
+  characters:
+    - appearance: "Caucasian man, 50s, lean build, receding brown hair, intelligent dark eyes behind wire-rimmed glasses"
+      clothing: "White lab coat over dark suit jacket, white dress shirt, narrow dark tie, dress shoes"
+      position: "Standing at large workbench, leaning forward slightly"
+      action: "Carefully adjusting electronic equipment with precision tools, examining magnetron components"
+  scene:
+    mainElements: "Large industrial workbench with electronic testing equipment, magnetron tubes mounted on metal stands, oscilloscopes displaying waveforms, measurement instruments with analog dials"
+    details: "Fluorescent overhead lighting casts bright illumination across concrete floors and metal surfaces. Electrical cables run between equipment. Warning signs mounted on walls. Technical manuals and notebooks scattered on bench. Slide rule and mechanical pencils nearby. Industrial windows with venetian blinds filter afternoon light."
+    background: "Additional workbenches with similar electronic equipment, filing cabinets along walls, other laboratory apparatus in distance"
+    atmosphere: "Serious scientific research environment with focused concentration, subtle hum of electronic equipment, methodical precision of wartime technology development, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from slight side angle"
+    focus: "Character PS examining magnetron equipment with scientific precision"
+    depth: "Foreground shows detailed equipment on workbench, middle ground features scientist at work, background reveals broader laboratory environment"

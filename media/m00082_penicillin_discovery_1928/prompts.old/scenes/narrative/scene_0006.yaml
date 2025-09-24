@@ -1,0 +1,19 @@
+sceneDescription:
+  title: "Character AF Returns from Holiday - September 3rd 1928"
+  setting:
+    time: "1928 September 3rd, morning"
+    location: "St Mary's Hospital Bacteriology Laboratory, Paddington, London"
+  characters:
+    - appearance: "Scottish man, 47 years old, average height, lean build, receding dark hair, thoughtful brown eyes, clean-shaven"
+      clothing: "1920s white laboratory coat over dark suit with vest and tie, or dark wool suit with waistcoat"
+      position: "Standing at laboratory entrance, surveying the room after holiday absence"
+      action: "Returning to laboratory, beginning to assess accumulated culture plates and experiments"
+  scene:
+    mainElements: "Laboratory appearing exactly as left weeks earlier, culture plates waiting for examination, scientific equipment unchanged"
+    details: "Laboratory bench with rows of petri dishes, some showing normal bacterial growth, brass microscope uncovered for use, laboratory notebook ready for observations, chemical bottles and equipment in same positions, morning light illuminating workspace, sense of returning to routine scientific work, no text or letters visible"
+    background: "Familiar laboratory setting with shelves of equipment, windows providing natural illumination, institutional hospital environment"
+    atmosphere: "Resumption of scientific routine, anticipation of reviewing experimental results, methodical approach to laboratory assessment"
+  composition:
+    cameraAngle: "Medium shot showing character AF's return to familiar workspace"
+    focus: "Character AF surveying laboratory and preparing to examine culture results"
+    depth: "Foreground shows laboratory entrance and character AF's position, middle ground captures laboratory bench and equipment, background reveals complete laboratory environment"

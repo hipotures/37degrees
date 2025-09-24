@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Modern Aging Research Laboratory Studying Immortality Mechanisms"
+  setting:
+    time: "2000s, afternoon"
+    location: "Modern biomedical research facility focused on aging and longevity studies"
+    weather: "Controlled laboratory environment with advanced lighting systems"
+  characters:
+    - appearance: "Woman, 30s, professional appearance, shoulder-length brown hair, focused expression"
+      clothing: "Modern laboratory attire: crisp white lab coat, dark blouse, professional trousers, safety equipment"
+      position: "Working at advanced molecular biology workstation with computer displays"
+      action: "Analyzing genetic sequences and molecular pathways related to jellyfish immortality mechanisms"
+    - appearance: "Man, 40s, slightly stocky build, balding with remaining brown hair, serious demeanor"
+      clothing: "Contemporary research attire: lab coat over button-down shirt, dark trousers, identification badge"
+      position: "Standing at high-tech equipment console monitoring experiments"
+      action: "Operating advanced research equipment to study cellular aging processes based on jellyfish discoveries"
+  scene:
+    mainElements: "State-of-the-art research laboratory with advanced molecular biology equipment, computer workstations displaying genetic data, modern microscopy and analysis systems"
+    details: "Advanced digital microscope with camera attachment, computer interface, and high-resolution imaging capabilities, multiple computer screens showing molecular pathways and genetic sequences, sophisticated laboratory equipment for studying cellular processes, research materials related to aging and longevity studies, modern safety and monitoring systems"
+    background: "Modern biomedical research facility with cutting-edge equipment, organized research stations, and advanced technological infrastructure supporting longevity research"
+    atmosphere: "Cutting-edge scientific research environment where jellyfish immortality discoveries are being applied to understand human aging processes, modern pursuit of longevity breakthroughs, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing the modern research environment and advanced scientific equipment"
+    focus: "Contemporary aging research efforts inspired by the immortal jellyfish discovery"
+    depth: "Foreground: advanced laboratory equipment and computer workstations, middle: researchers working with modern technology, background: state-of-the-art research facility infrastructure"

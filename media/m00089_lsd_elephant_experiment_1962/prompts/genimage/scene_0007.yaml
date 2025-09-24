@@ -1,42 +1,39 @@
 sceneDescription:
   setting:
-    time: August 3, 1962, 12:00 PM
-    location: Oklahoma City Zoo elephant enclosure, outdoor paddock area, Oklahoma, USA
-    weather: Peak midday heat with intense summer sun
+    time: August 3, 1962, 11:20 AM - twenty minutes after LSD injection
+    location: Large outdoor elephant habitat at Oklahoma City Zoo with concrete flooring and metal fencing typical of 1960s
+      zoo design
+    weather: Hot August day with bright sunlight
   characters:
-  - appearance: Caucasian man, 50s, tall and lean, graying hair, mustache, weathered face
-    clothing: 1960s khaki zoo uniform with name badge, or casual shirt with rolled sleeves
-    position: Standing at enclosure barrier, holding dart gun aimed at elephant
-    action: Firing dart gun with steady aim toward elephant's right buttock area
-  - appearance: 14-year-old male Indian elephant, medium-sized for species, dark gray skin, intelligent eyes, standing initially
-      then collapsing
-    clothing: No clothing - natural elephant appearance
-    position: Standing in center of enclosure, unaware of impending injection
-    action: Moving slowly in natural behavior, about to receive dart injection
-  - appearance: Caucasian man, 40s, medium build, receding dark hair, serious expression, wire-rimmed glasses
-    clothing: 1960s white lab coat over dark suit and tie, or gray flannel suit with narrow tie
-    position: Standing behind barrier with stopwatch ready
-    action: Starting timer the moment dart makes contact with elephant
-  - appearance: Mixed group of men and women, 20s-50s, varying builds, concerned expressions
-    clothing: 1960s zoo uniforms - khaki shirts and pants, some with caps
-    position: Standing at distance near zoo pathways
-    action: Watching with mix of fascination and growing concern
+  - appearance: Caucasian man, 37 years old, average height and build, clean-shaven with dark hair, wearing wire-rimmed glasses
+      typical of 1960s academics
+    clothing: White lab coat over dark suit and tie, clipboard in hand, professional medical appearance
+    position: Standing with clipboard, observing experiment with confident demeanor
+    action: Taking notes and directing the experimental procedure with scientific authority
+  - appearance: African-American man in his 40s, distinguished bearing, medium build, serious expression, professional demeanor
+    clothing: Dark business suit with white shirt and conservative tie, medical identification badge
+    position: Standing beside other researchers, maintaining professional distance
+    action: Taking detailed notes and monitoring the experiment with growing concern
+  - appearance: Middle-aged Caucasian man with rugged outdoor appearance, sun-weathered skin from years working with animals
+    clothing: Khaki zoo uniform with director's badge, work boots, carries dart gun for experiment
+    position: Positioned near the elephant enclosure, handling experimental equipment
+    action: Preparing and operating dart gun, demonstrating confidence in animal handling
   scene:
-    mainElements: 14-year-old male Indian elephant, medium-sized for species, dark gray skin, intelligent eyes, standing initially
-      then collapsing, positioned naturally moments before receiving injection from loaded dart gun
-    details: Large concrete and dirt enclosure with metal barriers, viewing area for public, dart gun being fired from barrier
-      position, elephant positioned naturally in enclosure, dust particles visible in bright sunlight, metal barriers and
-      concrete construction typical of 1960s zoo design, stopwatch being activated for timing, precise moment of dart impact
-      captured, no text or letters visible
-    background: Oklahoma zoo landscape with clear summer sky, other animal enclosures visible in distance, zoo visitors at
-      various viewing positions, institutional zoo architecture of early 1960s
-    atmosphere: Critical moment of the experiment beginning, intense midday heat emphasizing gravity of situation, clinical
-      precision meeting natural animal behavior, point of no return
+    mainElements: Researchers frantically administering emergency medications to collapsed elephant, medical equipment scattered
+      around enclosure, panic replacing scientific protocol
+    details: Promazine hydrochloride antipsychotic medication and pentobarbital sodium barbiturate, administered in desperate
+      attempt to counteract LSD effects, large dose of antipsychotic medication in liquid form for injection administered
+      20 minutes after LSD in desperate attempt to counteract psychedelic effects, additional injection of pentobarbital sodium
+      administered after antipsychotic fails
+    background: Open viewing area for researchers, concrete surfaces for easy cleaning, shade structures, feeding areas, water
+      sources, metal barriers separating public from animals, medical emergency equipment brought to scene
+    atmosphere: Scientific experiment transformed into medical emergency, researchers abandoning protocol in desperate attempt
+      to save elephant, panic and guilt replacing confidence
   composition:
-    cameraAngle: Wide shot capturing both the dart gun firing and the elephant receiving injection, showing spatial relationship
-    focus: The dart making contact with elephant and the simultaneous reaction of observers
-    depth: Foreground shows research team with dart gun, middle ground features the elephant at moment of injection, background
-      displays broader zoo environment and observers
+    cameraAngle: Close-up showing emergency drug administration with panicked researchers
+    focus: Emergency medical interventions being administered to dying elephant
+    depth: Foreground shows emergency drugs being injected, middle ground shows collapsed elephant in severe distress, background
+      shows researchers in panic abandoning scientific protocol, no text or letters visible
 visualElements:
   colorPalette:
     primary:

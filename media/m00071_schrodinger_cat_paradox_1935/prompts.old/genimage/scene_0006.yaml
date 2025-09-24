@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1935, late evening
+    location: Academic conference room, European university, 1935
+    weather: Evening darkness outside with electric lighting indoors
+  characters:
+  - appearance: Austrian physicist, 50s, tall slender build, high forehead, thoughtful dark eyes behind wire-rimmed glasses,
+      salt-and-pepper hair neatly combed
+    clothing: 1930s dark wool suit with vest, white collared shirt, simple tie, or white laboratory coat over shirt and trousers
+    position: Standing at blackboard with chalk in hand, turned partially toward other physicists
+    action: Drawing wave function equations on blackboard while gesturing emphatically to illustrate quantum superposition
+      concepts
+  - appearance: German-American physicist, 50s, wild white hair, expressive dark eyes, distinctive mustache, kindly weathered
+      face
+    clothing: Casual 1930s attire, rumpled sweater or cardigan over shirt, often without tie, sometimes formal suit for meetings
+    position: Seated at conference table, leaning back in chair with arms crossed
+    action: Observing the blackboard presentation with skeptical expression, shaking head in disagreement
+  - appearance: Danish physicist, 50s, medium build, receding hairline, intense pale eyes, clean-shaven, intellectual countenance
+    clothing: Formal 1930s attire, dark suit with vest, bow tie or regular tie, well-groomed appearance
+    position: Standing near window with hands behind back
+    action: Pacing slowly while listening to the debate, occasionally pausing to interject points
+  scene:
+    mainElements: Large oval wooden table with chairs, blackboard on wall, bookshelves with physics texts, formal academic
+      setting
+    details: Large slate blackboard with quantum mechanics equations written in white chalk, wave function symbols and mathematical
+      notation. Stack of typewritten scientific papers and journals from 1930s, some with handwritten notes, scattered on
+      desk or table. Electric desk lamps providing focused lighting on papers and creating dramatic shadows in evening atmosphere.
+    background: Darkened windows showing evening outside, additional blackboards with physics equations, portrait paintings
+      barely visible in dim lighting
+    atmosphere: Serious intellectual discourse environment with natural lighting from tall windows. Intense atmosphere of
+      passionate scientific disagreement about fundamental quantum mechanics principles.
+  composition:
+    cameraAngle: Wide shot capturing all three physicists in debate
+    focus: Physicist at blackboard explaining quantum equations while others react with skepticism
+    depth: Foreground shows conference table with papers, middle ground features three physicists in discussion, background
+      reveals evening conference room setting, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

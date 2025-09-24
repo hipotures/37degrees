@@ -1,16 +1,20 @@
 sceneDescription:
-  title: "Modern acorn-shaped memorial commemorates the mysterious incident"
+  title: "Decades Later - Researcher Documents Truth"
   setting:
-    time: "2005, daytime, 40 years after the incident"
-    location: "Kecksburg village memorial site near volunteer fire department"
-    weather: "Clear sunny day with autumn foliage"
-  characters: "No characters present in this scene"
+    time: "1990s, evening"
+    location: "Researcher's home office filled with investigation files and documents"
+    weather: "Interior setting, controlled environment"
+  characters:
+    - appearance: "Middle-aged civilian researcher, methodical appearance, dedicated investigator"
+      clothing: "Civilian researcher attire, typical investigative journalist appearance of the era"
+      position: "Sitting at desk surrounded by filing cabinets and investigation materials"
+      action: "Reviewing witness testimonies and documentation from decades of investigation into the incident"
   scene:
-    mainElements: "Large metallic acorn-shaped monument on concrete base, commemorative plaques, volunteer fire department building in background"
-    details: "Polished metal replica of the mysterious object described by witnesses, mounted on stone pedestal with informational displays, autumn trees with colorful foliage surrounding memorial site, modern Kecksburg fire station visible in background, visitor parking area, peaceful memorial setting honoring the unexplained 1965 incident, no text or letters visible"
-    background: "Updated Kecksburg village with modern improvements but retaining rural character, rolling Pennsylvania hills"
-    atmosphere: "Quiet memorial setting acknowledging the enduring mystery and community impact of the 1965 incident, sense of remembrance and continued intrigue"
+    mainElements: "Home office with filing cabinets, desk covered with investigation files, photographs, and research materials"
+    details: "Researcher surrounded by boxes of witness interviews, photographs, and documentation spanning decades of investigation, wall charts tracking witness accounts, filing system organizing hundreds of testimonies, desk lamp illuminating current research, dedication to uncovering truth despite official denials, legacy of community witnesses maintained through persistent investigation, no text or letters visible"
+    background: "Office walls covered with investigation charts, filing cabinets containing decades of research, window showing evening darkness outside"
+    atmosphere: "Quiet determination to preserve witness accounts and seek truth, contrast between official denial and persistent community memory, sense of historical duty to document unexplained events for future generations"
   composition:
-    cameraAngle: "Wide establishing shot showing memorial in village context"
-    focus: "Acorn-shaped memorial monument as centerpiece of commemorative site"
-    depth: "Memorial monument in foreground, fire station and village buildings in middle ground, Pennsylvania countryside extending into background"
+    cameraAngle: "Wide shot showing scope of decades-long investigation effort"
+    focus: "Researcher at desk with extensive filing system and investigation materials surrounding"
+    depth: "Investigation files in foreground, researcher at work in middle ground, wall charts and filing cabinets extending into background"

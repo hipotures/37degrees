@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1947, afternoon
+    location: Small workshop or garage space, Germany, late 1940s
+    weather: Indoor setting, bright afternoon light through window
+  characters:
+  - appearance: Caucasian man, 25 years old, athletic build, dark brown hair, focused expression
+    clothing: German army uniform with medical insignia, or white doctor's coat, dark trousers
+    position: Standing beside workbench holding prototype sole
+    action: Demonstrating air-cushioned sole concept to visiting engineer friend
+  - appearance: Caucasian man, late 20s, stocky build, light brown hair, engineering background visible in mannerisms
+    clothing: Workshop attire, suspenders over white shirt, dark work trousers
+    position: Leaning forward examining the innovation closely
+    action: Inspecting prototype sole with professional engineering interest, testing flexibility
+  scene:
+    mainElements: Workbench, tools, automobile tire pieces, experimental materials
+    details: Revolutionary sole design with air pocket, two rubber layers, one stitched to leather, other heat-sealed displayed
+      on workbench. Engineering drawings sketched on paper, various prototypes in different stages, measuring calipers and
+      technical tools. Both men examining the breakthrough innovation, partnership forming through shared technical understanding.
+      Workshop lighting highlighting the collaborative moment, no text or letters visible
+    background: Post-war workshop with engineering materials, technical drawings on wall, afternoon sunlight streaming through
+      window
+    atmosphere: Collaborative, technical innovation meeting practical engineering expertise
+  composition:
+    cameraAngle: Medium shot capturing both men and the workbench innovation
+    focus: Revolutionary sole prototype and the meeting of medical need with engineering skill
+    depth: Foreground shows detailed sole examination, middle ground captures partnership formation, background displays technical
+      workshop environment
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

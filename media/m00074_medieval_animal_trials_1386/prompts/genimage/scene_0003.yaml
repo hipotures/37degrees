@@ -1,36 +1,25 @@
 sceneDescription:
   setting:
-    time: 1386, late afternoon
-    location: Small single-room cottage, Falaise village outskirts
-    weather: Grey overcast sky with approaching winter storm
+    time: January 9, 1386, midday
+    location: Town Prison of Falaise - Stone structure with iron bars and heavy wooden doors, Falaise, Normandy
+    weather: Damp, cold dungeon
   characters:
-  - appearance: Woman, 20s, tear-streaked face, exhausted appearance, trembling hands
-    clothing: Dark woolen dress, white head covering, simple wooden cross necklace
-    position: Collapsed on knees beside overturned cradle, arms reaching toward it
-    action: Screaming in anguish, hands covering face in horror and grief
-  - appearance: Man, 30s, grief-stricken face, hollow eyes, thin from sorrow
-    clothing: Simple brown peasant tunic, leather belt, worn boots, cap in hands
-    position: Standing frozen in doorway, cap fallen from hands
-    action: Staring in shock at scene, mouth open in disbelief, hand gripping doorframe
-  - appearance: Large domestic sow, approximately 3 years old, brown and pink coloring, heavy build around 300 pounds, intelligent
-      but wary eyes
-    clothing: No clothing, natural pig appearance
-    position: Near overturned cradle, blood on snout and front legs
-    action: Standing alert and defensive, ears forward, looking toward approaching humans
+  - appearance: Medieval town guards in chainmail and leather, carrying iron shackles
+    clothing: Quilted gambeson under mail shirts, leather belts with keys and clubs, woolen cloaks
+    position: Leading the pig into prison cell
+    action: Securing the animal in the same cell used for human criminals
   scene:
-    mainElements: Stone walls, thatched roof, single wooden door, small window with wooden shutters
-    details: Wooden baby cradle with rockers overturned and blood-stained interior, torn blankets scattered across floor,
-      evidence of violence in disturbed straw and furniture, cooking pot still hanging over cold hearth, broken earthenware
-      scattered on floor, blood stains on wooden cradle and floor covering
-    background: Village animal pens visible through open doorway, other cottages in distance, storm clouds gathering overhead
-      casting darkening shadows
-    atmosphere: Horrific tragedy aftermath, overwhelming grief and shock, violation of domestic sanctuary, cold winter light
-      dimming as storm approaches, scene of violence contrasting with former peace, no text or letters visible
+    mainElements: Stone structure with iron bars and heavy wooden doors, small cell where pig was held, straw on floor, iron
+      manacles on walls
+    details: Thick stone walls with moss and dampness, heavy iron chains hanging from walls, wooden door reinforced with iron
+      bands, small barred window letting in minimal light, pig being led by rope into cell, no text or letters visible
+    background: Dark prison corridor with flickering torch light, other empty cells visible
+    atmosphere: Minimal light from small barred window, demonstrates that animals received same treatment as human criminals,
+      cold and foreboding
   composition:
-    cameraAngle: Low angle shot from cottage interior emphasizing tragedy
-    focus: Overturned bloody cradle as central horror, parents' reactions framing the scene
-    depth: Foreground shows evidence of violence, middle ground captures human grief, background shows pig and approaching
-      storm darkness
+    cameraAngle: Low angle looking up at the prison bars and stone walls
+    focus: The pig being secured in the prison cell like any human criminal
+    depth: Foreground shows iron bars, middle ground contains pig and guards, background reveals prison architecture
 visualElements:
   colorPalette:
     primary:

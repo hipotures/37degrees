@@ -1,27 +1,34 @@
 sceneDescription:
   setting:
-    time: 1967, evening
-    location: Motorcycle repair garage with tools and equipment
-    weather: Indoor setting
+    time: January 3, 1966, 12:00 PM
+    location: National Date Festival venue, Indio, California
+    weather: Clear California winter day, mild temperature
   characters:
-  - appearance: Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns
-    clothing: Red, white and blue leather jumpsuit with stars and stripes, white helmet with eagle emblem, white leather boots
-    position: Kneeling beside motorcycle, tools in hand
-    action: Fine-tuning motorcycle engine and adjusting suspension
-  - appearance: Men in 30s-40s, working-class build, concerned expressions
-    clothing: Casual 1970s attire, work shirts, jeans, tool belts
-    position: Standing around workshop, some holding tools
-    action: Assisting with motorcycle preparation and checking safety equipment
+  - appearance: 5 feet 11 inches athletic build man in late 20s to early 30s, piercing blue eyes, distinctive mustache, weathered
+      face from crashes, confident swagger
+    clothing: Iconic white leather jumpsuit with red, white, and blue stars and stripes, matching helmet with star design,
+      white leather boots
+    position: Mid-air on motorcycle, captured at peak of jump trajectory
+    action: Successfully clearing two pickup trucks, 45-foot jump in progress, perfect form on Norton Atlas motorcycle
+  - appearance: Mix of local residents, families, motorcycle enthusiasts, approximately 1,000 people
+    clothing: Mid-1960s casual wear, some in motorcycle leather, families in weekend attire
+    position: Gathered in bleachers and standing areas around jump site
+    action: Watching with amazement and excitement, pointing upward at successful jump, cheering
   scene:
-    mainElements: Motorcycles, tool benches, spare parts, oil stains on concrete floor with focused mechanical work in progress
-    details: Garage workshop filled with motorcycle parts, wrenches scattered on workbenches, spare engines on stands, oil
-      cans and rags, fluorescent work lights casting harsh shadows, no text or letters visible
-    background: Tool cabinets, spare motorcycle frames, work lights, garage doors
-    atmosphere: Working environment, mechanical preparation, focused activity with sense of upcoming danger
+    mainElements: Two pickup trucks positioned as obstacles, professional jump ramps on both sides, festival grounds with
+      vendor booths and attractions, clear jump trajectory visible
+    details: British motorcycle with distinctive parallel twin engine, chrome exhaust pipes, white paint scheme, custom suspension
+      setup for jumping, minimal windscreen, racing handlebars, reinforced frame modifications. Professional festival setup
+      with proper safety barriers and crowd control measures.
+    background: Southern California desert landscape, festival attractions and vendor booths, palm trees, clear blue sky,
+      mountains in distant background
+    atmosphere: January 3, 1966, professional debut atmosphere, excitement and validation of successful jump, establishing
+      template for future shows with precise execution and dramatic presentation, no text or letters visible
   composition:
-    cameraAngle: Low angle shot emphasizing work intensity
-    focus: Character EK's hands working on motorcycle engine
-    depth: Tools and parts in foreground, characters working in middle ground, garage equipment in background
+    cameraAngle: Side angle capturing full jump arc with trucks below
+    focus: Character EK and Norton Atlas motorcycle in mid-flight over pickup trucks
+    depth: Foreground shows cheering crowd, middle ground displays successful jump over trucks, background features festival
+      setting and California desert landscape
 visualElements:
   colorPalette:
     primary:

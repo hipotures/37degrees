@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Transformation from Nomadic to Permanent Settlement"
+  setting:
+    time: "1925, spring"
+    location: "Same valley, showing transition from temporary camp to permanent structures"
+    weather: "Spring conditions, still cold but showing seasonal change, snow beginning to soften"
+  characters:
+    - appearance: "Weather-beaten face with high cheekbones, Asian features typical of Sakha/Evenk peoples, middle-aged, lean build"
+      clothing: "Traditional fur parka (malitsa), reindeer skin boots, fur mittens, traditional hat with ear protection, layered clothing system"
+      position: "Near reindeer or thermal springs, positioned for survival and animal care"
+      action: "Stoic endurance, moving with practiced efficiency in extreme cold, concerned about reindeer welfare, traditional survival activities"
+    - appearance: "Younger man in his 30s, clean-shaven, pale complexion, urban background evident"
+      clothing: "Standard Soviet winter coat, military-style winter hat, leather boots, less sophisticated cold weather gear than locals"
+      position: "Standing with notebook or observing settlement activities"
+      action: "Ideologically driven, somewhat out of place in extreme environment, taking notes for bureaucratic reports"
+  scene:
+    mainElements: "Mix of traditional temporary structures and new permanent buildings, reindeer still present but settlement infrastructure developing"
+    details: "Traditional chums (tent-like structures) alongside newer log cabin construction, wooden sleds, leather harnesses, traditional tools for ice fishing and hunting, rope made from sinew mixed with Soviet-era building materials, herder adapting to settlement life while maintaining traditional practices, official overseeing settlement development, natural hot springs creating steam in frozen landscape, surrounded by ice formations now being incorporated into permanent settlement planning, no text or letters visible"
+    background: "Same mountain valley but showing human modification for permanent habitation"
+    atmosphere: "Transition period showing adaptation and change, loss of nomadic freedom balanced against survival security"
+  composition:
+    cameraAngle: "Wide shot showing transformation of the landscape and lifestyle"
+    focus: "Contrast between traditional and permanent structures, changing way of life"
+    depth: "Foreground new construction, middle ground figures adapting to change, background unchanging mountain landscape"

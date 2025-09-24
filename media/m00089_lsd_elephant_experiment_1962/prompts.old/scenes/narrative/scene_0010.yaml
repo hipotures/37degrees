@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Tragic Aftermath and Solemn Reflection"
+  setting:
+    time: "August 3, 1962, late afternoon"
+    location: "Oklahoma City Zoo elephant enclosure area, outdoor paddock, Oklahoma, USA"
+    weather: "Late afternoon sun casting long shadows, still hot but less intense"
+  characters:
+    - appearance: "Caucasian man, 40s, medium build, receding dark hair, serious expression, wire-rimmed glasses"
+      clothing: "1960s white lab coat over dark suit and tie, or gray flannel suit with narrow tie"
+      position: "Standing silently at enclosure barrier, head bowed"
+      action: "Holding clipboard with experimental data, showing visible distress and contemplation"
+    - appearance: "African American man, 30s, stocky build, kind face, concerned expression"
+      clothing: "1960s white lab coat over dark sweater vest and tie, or tan suit jacket"
+      position: "Sitting on bench near enclosure, staring at empty space"
+      action: "Quietly packing medical equipment while processing the tragic outcome"
+    - appearance: "Caucasian man, 50s, tall and lean, graying hair, mustache, weathered face"
+      clothing: "1960s khaki zoo uniform with name badge, or casual shirt with rolled sleeves"
+      position: "Standing at enclosure gate with hands on fence"
+      action: "Looking into now-empty enclosure while coordinating cleanup and documentation"
+    - appearance: "Mixed group of men and women, 20s-50s, varying builds, concerned expressions"
+      clothing: "1960s zoo uniforms - khaki shirts and pants, some with caps"
+      position: "Standing at respectful distance in small groups"
+      action: "Speaking in hushed tones while occasionally glancing toward enclosure area"
+  scene:
+    mainElements: "Empty elephant enclosure with all medical equipment being removed, late afternoon shadows creating somber atmosphere across the space where tragedy occurred"
+    details: "Large concrete and dirt enclosure with metal barriers, viewing area for public, medical equipment cases being closed and carried away, empty water trough and scattered hay remaining as evidence of normal elephant life, long shadows cast by late afternoon sun creating dramatic lighting across empty enclosure, clipboards with research data being gathered, no text or letters visible"
+    background: "Oklahoma zoo landscape in late afternoon light, few remaining visitors walking quietly past area, other animal enclosures continuing normal operations, institutional zoo architecture now seeming more stark and clinical"
+    atmosphere: "Somber reflection and growing awareness of scientific ethics failure, late afternoon light creating melancholy mood, weight of tragic outcome settling over all participants"
+  composition:
+    cameraAngle: "Wide establishing shot showing empty enclosure and scattered figures processing the tragedy"
+    focus: "Empty enclosure as central element with subdued human figures around perimeter"
+    depth: "Foreground shows cleanup activity and equipment removal, middle ground features the empty enclosure space, background displays broader zoo environment returning to normal operations"

@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1968, afternoon
+    location: Wooden motorcycle jump ramp at stadium or arena
+    weather: Clear day with bright sunlight
+  characters:
+  - appearance: Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns
+    clothing: Red, white and blue leather jumpsuit with stars and stripes, white helmet with eagle emblem, white leather boots
+    position: On motorcycle at top of jump ramp
+    action: Revving engine and preparing for takeoff over row of cars
+  scene:
+    mainElements: Steep wooden ramp, crowd stands in background, safety barriers, sand landing area with row of cars lined
+      up as obstacles
+    details: County fairgrounds with packed bleachers, colorful carnival tents in distance, dust clouds from motorcycle exhaust,
+      American flags waving, excited crowd pointing and cheering, no text or letters visible
+    background: Ferris wheel and carnival rides, cotton candy stands, families with children watching
+    atmosphere: Exciting, dangerous, crowd anticipation and tension mixed with county fair festivities
+  composition:
+    cameraAngle: Low angle from crowd perspective looking up at ramp
+    focus: Character EK on motorcycle silhouetted against sky at ramp peak
+    depth: Crowd in foreground, jump ramp in middle ground, fairground attractions in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

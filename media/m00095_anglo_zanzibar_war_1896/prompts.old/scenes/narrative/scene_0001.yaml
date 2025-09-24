@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Zanzibar Harbor - Dawn of Empire"
+  setting:
+    time: "August 27, 1896, early morning"
+    location: "Zanzibar Harbor facing Stone Town waterfront, Zanzibar Island"
+    weather: "Clear tropical morning with gentle ocean breeze"
+  characters:
+    - appearance: "Arab man, 29 years old, olive skin, dark beard, intense determined eyes, medium build"
+      clothing: "Traditional Omani white thobe with ornate ceremonial belt, ceremonial curved dagger at waist"
+      position: "Standing on palace balcony overlooking harbor"
+      action: "Gazing at British warships with defiant expression, hands gripping balcony railing"
+  scene:
+    mainElements: "Deep blue harbor waters with traditional dhow boats and British warships anchored in formation against backdrop of coral stone buildings"
+    details: "Five gray steel British warships positioned strategically in harbor, smoke rising from their stacks, traditional Arab dhows scattered between them, Stone Town's white and cream buildings climbing hillside behind waterfront, palace complex visible on right side"
+    background: "Tropical morning sky with scattered clouds, distant horizon where ocean meets sky, seabirds circling overhead"
+    atmosphere: "Tense anticipation of impending conflict, tropical paradise about to become battlefield, contrast between peaceful morning and military presence, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from palace balcony looking over harbor"
+    focus: "British naval fleet dominating the peaceful harbor"
+    depth: "Character on balcony in foreground, warships in middle distance, Stone Town rising from waterfront in background"

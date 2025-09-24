@@ -1,31 +1,31 @@
 sceneDescription:
   setting:
-    time: 1980, summer
-    location: Mountain restaurant in Shenandoah National Park area
-    weather: Overcast day with tourists avoiding storm-famous ranger
+    time: Early 1980s, formal indoor presentation
+    location: Guinness World Records exhibit hall or museum display area
+    weather: Indoor controlled environment
   characters:
-  - appearance: American man, 68, brawny build resembling Gene Hackman, rugged weathered face, lonely expression
-    clothing: US Park Service uniform with ranger hat, work boots, utility belt, carrying water can
-    position: Standing outside restaurant being refused entry
-    action: Resigned acceptance of social isolation due to lightning reputation
-  - appearance: American man, 40s, typical park ranger appearance, nervous around storms
-    clothing: Standard Park Service uniform with ranger equipment
-    position: Walking away from storm-famous colleague
-    action: Professional but increasingly wary, keeping distance from lightning-attracting colleague
+  - appearance: Brawny, towering Caucasian man, broad rugged face resembling actor Gene Hackman, multiple lightning scars
+      visible on face, arms, and legs, often missing eyebrows and eyelashes from recent strikes, thick build, weathered skin
+      from outdoor work
+    clothing: 1940s-1970s park ranger uniform - khaki shirt and pants, wide-brimmed ranger hat with official Shenandoah National
+      Park badge, heavy work boots often with lightning burn holes, utility belt with radio and emergency water container
+    position: Standing beside display case containing his lightning-struck ranger hats
+    action: Showing visible lightning scars to museum visitors, matter-of-fact demonstration of extraordinary survival
   scene:
-    mainElements: Mountain restaurant with staff and customers avoiding world-famous lightning survivor
-    details: Restaurant staff politely refusing entry to lightning-famous ranger during overcast weather, tourists and locals
-      maintaining respectful distance from human lightning rod, fellow park ranger diplomatically departing when clouds appear,
-      social isolation resulting from extraordinary survival fame, lonely figure carrying water can for emergency hair fires
-    background: Loft Mountain restaurant area in Shenandoah region, overcast sky causing public nervousness, beautiful mountain
-      scenery
-    atmosphere: Tragic social isolation resulting from extraordinary survival abilities, fame becoming curse rather than blessing,
-      public fear of lightning association, lonely end to remarkable survival story, no text or letters visible
+    mainElements: Professional museum display case containing two lightning-struck ranger hats, official Guinness World Records
+      certificate mounted on wall, educational exhibit about lightning survival
+    details: Wide-brimmed park ranger hat with distinctive lightning burn marks and holes, singed edges and damaged brim from
+      direct lightning contact, official Shenandoah National Park insignia still visible, second damaged hat also displayed,
+      formal certificate documenting seven confirmed strikes between 1942-1977
+    background: Professional museum setting with educational displays, other exhibits visible, visitors maintaining respectful
+      distance while observing remarkable artifacts
+    atmosphere: Dignified recognition of extraordinary survival story, mixture of fame and continued isolation, physical evidence
+      validating seemingly impossible claims
   composition:
-    cameraAngle: Wide shot showing social isolation of lightning survivor
-    focus: Social consequences of extraordinary survival fame
-    depth: Isolated ranger in foreground, restaurant and departing people in middle ground, overcast Shenandoah mountains
-      in background
+    cameraAngle: Medium shot showing ranger beside his display case and world record certificate
+    focus: Physical evidence of lightning strikes - damaged hats and official recognition of world record
+    depth: 'Foreground: ranger and display case with lightning-struck hats, middle: world record certificate and museum exhibits,
+      background: museum visitors and educational displays, no text or letters visible'
 visualElements:
   colorPalette:
     primary:

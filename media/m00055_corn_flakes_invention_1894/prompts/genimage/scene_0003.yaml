@@ -1,95 +1,85 @@
 sceneDescription:
   setting:
-    time: 1894, mid-morning
-    location: Large institutional kitchen inside Battle Creek Sanitarium, Michigan
-    weather: Overcast day with soft natural light through kitchen windows
+    time: August 9, 1894, mid-morning
+    location: Battle Creek Sanitarium institutional kitchen, Michigan
+    weather: Warming August morning, bright natural light through kitchen windows
   characters:
-  - appearance: Caucasian man, 40s, tall and lean build, intense dark eyes, full dark beard, stern expression
-    clothing: 1890s white medical coat over dark suit, or formal black suit with white shirt and bow tie
-    position: Standing at large work table, reviewing food preparation procedures
-    action: Examining wheat grain samples and discussing dietary experiments with his brother
-  - appearance: Caucasian man, 30s, shorter than his brother, clean-shaven, practical demeanor, focused expression
-    clothing: 1890s dark business suit with vest, white shirt, simple necktie, sometimes wearing work apron
-    position: At work table beside his brother, handling grain samples
-    action: Taking detailed notes about food preparation methods and measuring grain portions
+  - appearance: Caucasian man, age 34, shorter than his brother, clean-shaven with dark hair parted to side, alert brown eyes,
+      stocky build
+    clothing: Dark business suit with vest, white shirt with high collar, simple necktie, practical leather shoes, rolled
+      sleeves when working
+    position: Standing at heavy roller mechanism, hands on crank handle
+    action: Turning the hand-crank of metal rollers, feeding stale wheat dough between cylinders, concentrating on the mechanical
+      process
+  - appearance: Caucasian man, age 52, medium height with lean build, distinctive full beard and mustache, wire-rimmed spectacles,
+      piercing intelligent eyes
+    clothing: White medical coat over dark three-piece suit, high collar with necktie, polished black leather shoes, occasionally
+      white sanitarium uniform
+    position: Standing beside roller equipment, observing the process
+    action: Watching the dough pass through rollers, adjusting spectacles, ready to collect whatever emerges from the machine
   scene:
-    mainElements: Industrial-sized cooking equipment, large wooden work tables, metal pots and pans, gas stoves, storage shelves,
-      bowls of various grains
-    details: Wheat berries scattered on table surface, measuring cups and scales, written notes and recipe cards, cooking
-      utensils hanging on walls, large mixing bowls, no text or letters visible
-    background: Kitchen storage areas with flour sacks, cooking equipment, steam from stoves
-    atmosphere: Busy professional kitchen environment with focus on health-conscious food preparation, sense of experimentation
-      and scientific approach to cooking
+    mainElements: Large cast iron cylinders approximately 12 inches in diameter, hand-cranked mechanism, adjustable spacing
+      between rollers
+    details: Industrial-grade kitchen equipment mounted on heavy wooden frame, well-worn metal surfaces, large turning handles,
+      mechanical precision typical of 1890s manufacturing, pale wheat dough being pressed between metal cylinders
+    background: Large institutional kitchen with high ceilings and tall windows, wooden work tables, coal-fired ovens, flour
+      storage containers
+    atmosphere: Mechanical sounds of metal rollers turning, brotherly cooperation in experimental process, anticipation of
+      unknown results, practical innovation in progress
   composition:
-    cameraAngle: Medium shot from across the work table
-    focus: The two brothers collaborating over grain samples and notes
-    depth: Foreground shows work table with materials, middle ground shows both characters, background shows kitchen equipment
+    cameraAngle: Side view capturing the roller mechanism and both brothers working
+    focus: The heavy metal rollers with wheat dough being processed, showing the transformation in progress
+    depth: Foreground displays roller mechanism in action, middle ground shows both characters working together, background
+      reveals institutional kitchen setting, no text or letters visible
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

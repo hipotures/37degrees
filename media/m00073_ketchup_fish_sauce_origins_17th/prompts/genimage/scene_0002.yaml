@@ -1,27 +1,33 @@
 sceneDescription:
   setting:
-    time: 17th century, midday
-    location: Mekong River delta trading port, Vietnam, 17th century
-    weather: Humid tropical heat
+    time: 1670s, midday
+    location: Coastal marketplace in Phan Thiết, Vietnam
+    weather: Hot tropical day with bright sunlight
   characters:
-  - appearance: Southeast Asian man, 50s, sun-darkened skin, strong arms from hauling nets, calm demeanor
-    clothing: Simple brown cotton shirt, rolled-up pants, wide conical hat, bare feet or simple sandals
-    position: Crouched beside large wooden fermentation vats
-    action: Carefully layering salted anchovies with coarse salt in wooden barrel, checking fermentation progress
+  - appearance: Middle-aged Chinese man, weathered from sea travel, strong build, traditional queue hairstyle
+    clothing: Traditional Chinese merchant clothing - silk jacket, loose trousers, cloth shoes, wide-brimmed hat for sea travel
+    position: Standing beside table displaying ceramic jars, examining dark liquid
+    action: Shrewd and experienced, negotiating deals while pointing at ceramic jars of fish sauce
+  - appearance: Vietnamese man in his 30s, lean muscular build from fishing work, sun-darkened skin, traditional hair tied
+      back
+    clothing: Simple fishing garments - loose cotton pants, sleeveless tunic, conical hat, bare feet
+    position: Across from Chinese trader, holding ladle
+    action: Demonstrating fish sauce quality by pouring dark liquid from ceramic jar into small wooden cup
   scene:
-    mainElements: Stilted wooden houses over water, bamboo trading stalls, anchored junks and sampans, tropical vegetation
-    details: Large wooden barrel with metal bands, partially open lid showing dark fermenting fish mixture, small silver fish
-      laid out on bamboo mats for drying covered with coarse sea salt, ceramic containers holding various fermented fish sauces,
-      traditional preservation tools
-    background: Mekong River flowing past with traditional boats, palm trees and tropical foliage, other fishermen processing
-      catch
-    atmosphere: Humid tropical climate with vibrant trading activity and multicultural merchant interactions, intense aromatic
-      environment from fermentation, ancient preservation techniques, no text or letters visible
+    mainElements: Wooden marketplace table displaying multiple ceramic fermentation jars of various sizes, dark brown fish
+      sauce being poured into sampling cups
+    details: Large earthenware vessels approximately 2 feet tall, brown glazed ceramic with wide mouths and fitted wooden
+      lids, some containing layers of anchovies and salt with dark brown liquid visible, wooden ladles and sampling cups,
+      woven baskets, Chinese trading goods including silk rolls
+    background: Traditional Vietnamese bamboo houses on stilts, fishing nets hanging from wooden poles to dry, traditional
+      fishing boats with distinctive curved prows beached on sandy shore, other Vietnamese fishermen working with nets
+    atmosphere: Strong aromatic fish scent from fermentation process mixed with spice aromas from trading goods, busy marketplace
+      sounds, haggling voices in multiple languages, no text or letters visible
   composition:
-    cameraAngle: Medium shot focusing on fermentation process
-    focus: Fisherman working with fermentation vessels and traditional preservation methods
-    depth: Foreground shows detailed fermentation work, middle ground features fishing village life, background shows river
-      and tropical landscape
+    cameraAngle: Medium shot at eye level showing both traders across marketplace table
+    focus: Exchange between Chinese trader examining fish sauce and Vietnamese fisherman demonstrating product quality
+    depth: Foreground shows detailed marketplace transaction, middle ground reveals ceramic jars and trading goods, background
+      shows coastal fishing village activities
 visualElements:
   colorPalette:
     primary:

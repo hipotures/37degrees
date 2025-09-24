@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Summer 1988, afternoon
+    location: 1980s marine biology research facility, Liguria coast, Italy
+    weather: Bright natural light streaming through laboratory windows
+  characters:
+  - appearance: Caucasian man, mid-20s, athletic build, dark blonde hair, intense curious eyes behind wire-rimmed glasses
+    clothing: '1980s marine biology fieldwork attire: faded navy blue polo shirt, khaki shorts, diving gear when underwater'
+    position: Leaning over laboratory bench, carefully handling specimen containers
+    action: Transferring tiny jellyfish from collection jars into observation containers with precise movements
+  - appearance: Mediterranean man, mid-20s, slender build, dark hair, expressive brown eyes, thoughtful demeanor
+    clothing: '1980s casual academic wear: white cotton shirt, dark slacks, laboratory coat when in lab'
+    position: Standing beside bench with notebook, observing the setup process
+    action: Recording specimen details and initial observations in research logbook
+  scene:
+    mainElements: White-tiled laboratory benches with multiple glass specimen jars filled with seawater, containing tiny transparent
+      jellyfish specimens, basic microscopy equipment nearby
+    details: Clear glass laboratory jar with metal lid, filled with seawater, containing small marine specimens, laboratory
+      tools including pipettes and fine instruments, research notebooks with hand-written observations, temperature monitoring
+      equipment, seawater circulation systems maintaining specimen health
+    background: Clean scientific workspace with natural lighting from large windows overlooking the sea, additional laboratory
+      equipment and reference materials visible on shelves
+    atmosphere: Focused scientific methodology and careful specimen preparation, beginning of systematic study that would
+      lead to groundbreaking discovery, no text or letters visible
+  composition:
+    cameraAngle: Medium shot focusing on laboratory bench and specimen setup process
+    focus: The careful transfer and initial setup of the jellyfish specimens in controlled laboratory conditions
+    depth: 'Foreground: hands working with specimen containers and laboratory tools, middle: laboratory bench with organized
+      equipment, background: laboratory interior with windows showing coastal view'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

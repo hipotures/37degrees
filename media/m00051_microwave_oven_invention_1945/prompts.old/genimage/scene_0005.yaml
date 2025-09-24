@@ -1,0 +1,102 @@
+sceneDescription:
+  setting:
+    time: 1945, late afternoon
+    location: Specialized testing section within Raytheon laboratory
+    weather: Indoor laboratory environment with fluorescent lighting
+  characters:
+  - appearance: Caucasian man, 50s, lean build, receding brown hair, intelligent dark eyes behind wire-rimmed glasses
+    clothing: White lab coat over dark suit jacket, white dress shirt, narrow dark tie, dress shoes
+    position: Leaning forward over laboratory table, examining results with excitement
+    action: Studying freshly popped corn kernels with scientific amazement, picking up individual pieces for closer inspection
+  - appearance: Caucasian man, 40s, stocky build, dark hair, serious expression
+    clothing: White lab coat over brown suit, light shirt, tie
+    position: Standing beside scientist, looking over his shoulder
+    action: Observing results with astonishment, making notes on clipboard about successful experiment
+  scene:
+    mainElements: Small yellow corn kernels transformed into white fluffy popcorn pieces scattered on laboratory table surface,
+      original metal container now containing mix of popped and unpopped kernels
+    details: White fluffy popcorn pieces clearly visible against dark laboratory table. Some kernels remain unpopped showing
+      partial transformation. Magnetron equipment still operating in background. Scientist's expression shows breakthrough
+      realization. Measuring instruments continue displaying readings from ongoing experiment.
+    background: Active magnetron mounted on stand, electrical cables, measurement equipment with analog displays, concrete
+      laboratory flooring
+    atmosphere: Moment of scientific breakthrough and validation, transition from hypothesis to proven concept, excitement
+      of discovery that will revolutionize cooking technology, no text or letters visible
+  composition:
+    cameraAngle: Close-up shot from above showing popped kernels and scientists' reactions
+    focus: Freshly popped white corn kernels demonstrating successful microwave cooking
+    depth: Foreground shows detailed popcorn results on table, middle ground features scientist and colleague examining evidence,
+      background reveals magnetron equipment
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

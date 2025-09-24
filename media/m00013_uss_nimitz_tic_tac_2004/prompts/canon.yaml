@@ -4,109 +4,91 @@ canon:
       name: "Character DF"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 40s, athletic build, focused expression, military bearing"
-            clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
-            posture: "Confident military posture, alert and professional"
+          - appearance: "Caucasian man, 40s, medium build, focused expression, confident military bearing"
+            clothing: "CWU-27/P sage green flight suit, SV-2 survival vest with emergency equipment, squadron patches and name tags, G-suit for high-performance maneuvering"
+            posture: "Alert military stance, hands positioned for flight controls or gesturing to explain aerial maneuvers"
     - id: "character_AD"
       name: "Character AD"
       description_block: |
         characters:
-          - appearance: "Caucasian woman, 30s, slender build, determined expression, professional demeanor"
-            clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
-            posture: "Alert military stance, focused and composed"
+          - appearance: "Female pilot, 30s, professional demeanor, sharp attention to detail"
+            clothing: "CWU-27/P sage green flight suit, SV-2 survival vest, squadron patches, HGU-68/P helmet with MBU-20/P oxygen mask when in cockpit"
+            posture: "Professional military bearing, focused on instruments or scanning horizon"
     - id: "character_CU"
       name: "Character CU"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 30s, medium build, analytical expression, technical focus"
-            clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
-            posture: "Methodical and precise movements, technically oriented"
-    - id: "character_JS"
-      name: "Character JS"
+          - appearance: "Male pilot, 30s, calm under pressure, analytical expression"
+            clothing: "CWU-27/P sage green flight suit, SV-2 survival vest, ATFLIR system operator gear, squadron identification"
+            posture: "Concentrated on sensor systems, hands on controls, methodical approach to equipment operation"
+    - id: "radar_operator"
+      name: "Radar Operator"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 30s, stocky build, alert expression, tactical awareness"
-            clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
-            posture: "Watchful stance, ready for action"
-    - id: "naval_officer"
-      name: "Naval Officer"
-      description_block: |
-        characters:
-          - appearance: "Military personnel, various ages and builds, professional demeanor"
-            clothing: "Khaki uniforms for officers, blue coveralls for enlisted crew, headsets and communication gear"
-            posture: "Military bearing, focused on duties"
+          - appearance: "Navy enlisted personnel, 20s-30s, focused concentration, alert eyes"
+            clothing: "Blue Navy coveralls, headset with communication gear, rank insignia"
+            posture: "Seated at radar console, leaning forward toward screens, hands on controls"
     - id: "deck_crew"
       name: "Deck Crew"
       description_block: |
         characters:
-          - appearance: "Naval aviation personnel, various ages and builds, working efficiently"
-            clothing: "Color-coded deck crew shirts - yellow, green, purple, red shirts indicating specific roles, headsets and safety equipment"
-            posture: "Active working stance, coordinated movements around aircraft"
+          - appearance: "Various Navy personnel, 20s-40s, efficient movements, safety-conscious"
+            clothing: "Color-coded shirts - yellow for flight deck directors, green for maintenance, purple for fuel, red for ordnance, white helmets and safety gear"
+            posture: "Active work positions, directing aircraft, performing maintenance, coordinated team movements"
   locations:
-    - id: "nimitz_flight_deck"
+    - id: "pacific_training_area"
+      name: "Pacific Training Area"
+      description_block: |
+        setting:
+          location: "Pacific Ocean 100 miles southwest of San Diego, California, open ocean training range"
+        mainElements: "Vast blue ocean stretching to horizon, no land references visible, water depth 13,000 feet, clear skies"
+        atmosphere: "Clear sunny day with excellent visibility, calm seas with light whitecaps, bright sunlight creating glare off ocean surface"
+    - id: "uss_nimitz_flight_deck"
       name: "USS Nimitz Flight Deck"
       description_block: |
         setting:
-          location: "USS Nimitz (CVN-68) flight deck, Pacific Ocean southwest of San Diego, California, 100 miles offshore"
-        mainElements: "4.5 acres of grey non-skid surface with yellow and white operational markings, four catapults, four arresting wires, island superstructure housing bridge and flight control"
-        atmosphere: "Busy naval aviation operations, bright daylight over open ocean, no land references visible"
-    - id: "princeton_cic"
+          location: "Flight deck of USS Nimitz (CVN-68) nuclear aircraft carrier, 4.5 acres of operational space"
+        mainElements: "Grey non-skid surface with yellow and white operational markings, four steam catapults, four arresting wires, island superstructure"
+        atmosphere: "Busy military flight operations, coordinated deck crew movements, jet engine noise, ocean spray and wind"
+    - id: "f18_cockpit"
+      name: "F-18F Super Hornet Cockpit"
+      description_block: |
+        setting:
+          location: "Two-seat tandem cockpit of Boeing F/A-18F Super Hornet tactical aircraft"
+        mainElements: "Multi-function color displays, head-up display with targeting information, cramped space filled with switches and controls"
+        atmosphere: "High-tech military aviation environment, glowing instrument panels, communication chatter, tactical precision"
+    - id: "uss_princeton_cic"
       name: "USS Princeton Combat Information Center"
       description_block: |
         setting:
-          location: "USS Princeton (CG-59) Combat Information Center, Pacific Ocean southwest of San Diego, California"
-        mainElements: "Dark control room with multiple radar displays, AEGIS combat system workstations, AN/SPY-1B radar controls, tracking screens showing contacts"
-        atmosphere: "Dimly lit technical environment, focused personnel monitoring screens, electronic hum of equipment"
-    - id: "f18_cockpit"
-      name: "F/A-18F Super Hornet Cockpit"
+          location: "Combat Information Center aboard USS Princeton (CG-59) guided missile cruiser"
+        mainElements: "Dark control room with multiple radar displays, AEGIS combat system consoles, AN/SPY-1B radar data screens"
+        atmosphere: "Dim blue-green lighting from screens, focused concentration, military communications, technical precision"
+    - id: "ocean_disturbance_zone"
+      name: "Ocean Disturbance Zone"
       description_block: |
         setting:
-          location: "F/A-18F Super Hornet interior, flying over Pacific Ocean southwest of San Diego, California"
-        mainElements: "Two-seat tandem configuration with multi-function color displays (DDIs, MPCD), head-up display (HUD) with targeting information, cramped space filled with switches and controls"
-        atmosphere: "High-tech military cockpit environment, bright displays against darker interior, sense of speed and altitude"
-    - id: "pacific_ocean_training_area"
-      name: "Pacific Ocean Training Area"
-      description_block: |
-        setting:
-          location: "Pacific Ocean southwest of San Diego, California, approximately 100 miles offshore, water depth 13,000 feet"
-        mainElements: "Open ocean with no land references, calm seas with light whitecaps under clear sunny conditions, excellent visibility"
-        atmosphere: "Vast blue ocean expanse, bright sunlight creating glare off water surface, isolated military training environment"
-    - id: "churning_water_area"
-      name: "Ocean Disturbance Area"
-      description_block: |
-        setting:
-          location: "Pacific Ocean southwest of San Diego, California, specific area of anomalous water activity"
-        mainElements: "Circular area of churning whitewater approximately 50-100 feet diameter, described as boiling or frothing water pattern, contrasting with surrounding calm seas"
-        atmosphere: "Unusual ocean disturbance creating visible water turbulence, mysterious and unexplained phenomenon"
-    - id: "nimitz_briefing_room"
-      name: "USS Nimitz Briefing Room"
-      description_block: |
-        setting:
-          location: "USS Nimitz (CVN-68) briefing room, Pacific Ocean southwest of San Diego, California"
-        mainElements: "Military briefing room with charts, displays, briefing podium, rows of chairs for aircrew, tactical information boards"
-        atmosphere: "Professional military environment, fluorescent lighting, focused atmosphere for mission planning and debriefing"
+          location: "Circular area of disturbed ocean water, approximately 50-100 feet diameter in Pacific training area"
+        mainElements: "Churning whitewater in otherwise calm seas, described as boiling or frothing water, possible cross-shaped submerged object"
+        atmosphere: "Mysterious anomalous activity in peaceful ocean setting, stark contrast between disturbed and calm water areas"
   items:
     - id: "tic_tac_object"
       name: "Tic Tac UAP"
       description_block: |
-        details: "Bright white, smooth-surfaced oblong object approximately 40 feet long, resembling commercial airliner fuselage shape, no visible wings, rotors, or propulsion systems, no exhaust plume or heat signature, surface appears to shimmer or shift, demonstrates instantaneous acceleration and hover capability"
+        details: "White oblong object approximately 40 feet long, smooth surface without wings, rotors, or visible propulsion, shape resembling commercial airliner fuselage or large Tic Tac mint, bright white color that appears to shimmer or shift, no exhaust plume or heat signature visible"
     - id: "f18f_super_hornet"
       name: "F/A-18F Super Hornet"
       description_block: |
-        details: "Boeing F/A-18F Super Hornet in tactical grey paint scheme, VFA-41 Black Aces squadron markings, Bureau Number on fuselage, AIM-9X Sidewinder training missiles, twin-engine multirole fighter aircraft"
+        details: "Boeing F/A-18F Super Hornet fighter aircraft in tactical grey paint scheme, VFA-41 Black Aces squadron markings, Bureau Number on fuselage, AIM-9X Sidewinder training missiles mounted, twin engines, twin tails, robust military construction"
     - id: "atflir_pod"
       name: "ATFLIR Sensor Pod"
       description_block: |
-        details: "AN/ASQ-228 Advanced Targeting FLIR pod, 72-inch sensor pod mounted on fuselage station, infrared camera and laser designator system, capable of recording thermal imagery"
-    - id: "spy1_radar"
-      name: "SPY-1 Radar System"
-      description_block: |
-        details: "AN/SPY-1B phased array radar system aboard USS Princeton, AEGIS combat system component, capable of tracking multiple aerial contacts simultaneously, green-tinted display screens showing radar returns"
+        details: "AN/ASQ-228 Advanced Targeting FLIR pod, 72-inch sensor pod mounted on aircraft fuselage station, contains infrared camera and laser designator, capable of recording thermal imagery and tracking targets"
     - id: "flir_display"
-      name: "FLIR Thermal Display"
+      name: "FLIR Display Screen"
       description_block: |
-        details: "Black and white thermal imaging display showing white hot object against grey/black sky background, telemetry data overlay showing altitude, speed, and angles, auto-tracking box attempting to maintain target lock"
-    - id: "pilot_helmet"
-      name: "Pilot Flight Helmet"
+        details: "Black and white thermal display showing infrared imagery, white hot object against grey-black background, telemetry data overlay showing altitude speed and angles, auto-tracking box attempting to maintain target lock, object exhibits rapid movement and acceleration"
+    - id: "spy1_radar"
+      name: "AN/SPY-1B Radar System"
       description_block: |
-        details: "HGU-68/P flight helmet with MBU-20/P oxygen mask, visor reflecting sunlight, communication equipment integrated, protective headgear for high-performance flight operations"
+        details: "Advanced phased array radar system aboard USS Princeton, green-tinted radar screens showing multiple contacts, displays anomalous aerial vehicle tracks, capable of tracking objects at extreme altitudes and speeds, part of AEGIS combat system"

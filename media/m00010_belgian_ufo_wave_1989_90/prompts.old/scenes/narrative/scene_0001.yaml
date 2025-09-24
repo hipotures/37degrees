@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Peaceful Belgian Countryside - Before the Wave"
+  setting:
+    time: "November 1989, early evening, dusk"
+    location: "Belgian countryside between Eupen, Liège, and Brussels, Wallonia region"
+    weather: "Clear autumn evening with scattered clouds"
+  characters:
+    - appearance: "Belgian civilian, various ages 20s-60s, typical Western European appearance"
+      clothing: "1990 winter attire - wool coats, sweaters, jeans, typical casual European clothing of the era"
+      position: "Standing by farmhouse window, looking out at peaceful landscape"
+      action: "Going about normal evening activities, unaware of coming events"
+  scene:
+    mainElements: "Rolling hills, agricultural fields, mixed suburban and rural terrain, scattered farmhouses and small towns"
+    details: "Peaceful rural Belgian landscape with typical 1989-1990 infrastructure, quiet European countryside with warm lights beginning to glow in windows as darkness approaches. Traditional Belgian architecture visible in distance with church spires and red tile roofs. Agricultural machinery parked near barns, power lines crossing fields."
+    background: "Distant hills fade into evening sky, small towns with scattered lights, forested areas between settlements"
+    atmosphere: "Peaceful rural Belgian landscape with typical 1989-1990 infrastructure, peaceful European countryside"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position"
+    focus: "Panoramic view of Belgian countryside establishing the peaceful setting"
+    depth: "Foreground: nearby farmhouse with lights, middle ground: rolling fields and scattered buildings, background: distant hills and evening sky, no text or letters visible"

@@ -1,31 +1,33 @@
 sceneDescription:
   setting:
-    time: 1562, afternoon
-    location: Royal audience chamber in Alcázar of Madrid with ornate throne and marble columns
-    weather: Partly cloudy with filtered sunlight through stained glass
+    time: 1562, morning after the miracle
+    location: Royal audience chamber, Alcázar of Madrid, Spain
+    weather: Bright morning sunlight streaming through tall windows
   characters:
   - appearance: Spanish king, 40s, pale complexion, dark hair, penetrating gaze, regal bearing
     clothing: Black velvet doublet with gold embroidery, white ruff collar, dark cape with royal insignia
-    position: Standing before his throne, gesturing with authority
-    action: Speaking earnestly to the clockmaker, pointing toward heaven then making descriptive hand gestures
+    position: Standing regally before ornate throne, gesturing with authority
+    action: Speaking commandingly while pointing toward detailed architectural drawings on table
   - appearance: Italian man, 50s, graying beard, intense focused eyes, calloused hands from metalwork
     clothing: Renaissance brown leather apron over white linen shirt, dark wool hose, leather boots
-    position: Bowing respectfully before the king, holding his cap
-    action: Listening intently, nodding with understanding, occasionally stroking his beard in contemplation
+    position: Bowing respectfully before the king, holding rolled parchments
+    action: Listening intently to royal commission while studying mechanical drawings
   scene:
-    mainElements: Ornate throne room with marble columns and rich tapestries, where the king meets with the master clockmaker
-    details: Ornate furniture, religious paintings, candelabras, rich carpets, large windows overlooking courtyards create
-      the royal setting. The king's passionate gestures convey his vision of perpetual prayer while the craftsman's weathered
-      hands show years of precision work. Scrolls and architectural drawings suggest the scale of royal commissions. Stained
-      glass windows cast colored light across the marble floor
-    background: Gothic arches frame the audience chamber while courtiers and guards maintain respectful distance
-    atmosphere: Royal determination meets artisan expertise as sacred vow transforms into mechanical commission, the weight
-      of divine obligation driving unprecedented innovation
+    mainElements: Ornate royal throne with carved lions and Spanish coat of arms, marble-topped table covered with architectural
+      and mechanical drawings
+    details: Detailed clockwork sketches showing gears and springs spread across polished table, compass and measuring instruments,
+      quill pens and ink wells, wax seal and ribbon for royal documents, morning sunlight illuminating parchment drawings,
+      ornate candelabras and religious paintings on walls, rich Persian carpets covering marble floors, no text or letters
+      visible
+    background: High vaulted ceiling with painted religious scenes, tall arched windows showing palace courtyards, marble
+      columns with gilded capitals
+    atmosphere: Formal royal authority, creative anticipation, golden morning light creating atmosphere of divine purpose
+      and artistic commission
   composition:
-    cameraAngle: Medium shot from side angle showing both figures in profile
-    focus: The animated conversation between king and clockmaker, emphasizing their contrasting worlds
-    depth: 'Foreground: ornate floor tiles and royal regalia; middle: the king and craftsman in discussion; background: marble
-      columns and stained glass windows, no text or letters visible'
+    cameraAngle: Wide shot showing the scale and grandeur of royal commission
+    focus: King gesturing toward drawings while clockmaker studies the mechanical plans
+    depth: Foreground shows detailed drawings and instruments, middle ground captures the royal commissioning scene, background
+      reveals palace grandeur
 visualElements:
   colorPalette:
     primary:

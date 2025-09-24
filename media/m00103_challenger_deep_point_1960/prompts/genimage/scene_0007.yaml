@@ -1,32 +1,36 @@
 sceneDescription:
   setting:
-    time: January 23, 1960, late afternoon after 4 hours 48 minutes descent
-    location: Trieste bathyscaphe nearing Challenger Deep bottom, 35,000+ feet depth
-    weather: Absolute darkness and maximum pressure of deepest ocean point
+    time: January 23, 1960, approaching 1610 hours, nearing 35,814 feet depth
+    location: Cramped steel sphere 7 feet in diameter, walls 5 inches thick, designed to withstand crushing deep-sea pressure
+    weather: Extreme deep-sea environment with maximum crushing pressure of 1,100 times atmospheric
   characters:
-  - appearance: Swiss man, 40s, tall and lean build, intelligent dark eyes, wavy dark hair
-    clothing: 1960s thick woolen sweater over collared shirt, heavy winter jacket during surface operations
-    position: Intensely focused on depth instruments and pressure readings
-    action: Making final depth calculations and preparing for seafloor contact
-  - appearance: American man, 30s, military bearing, short-cropped hair, alert expression
-    clothing: US Navy uniform with lieutenant insignia, or heavy weather gear during operations
-    position: Operating external lights and bottom detection systems
-    action: Scanning for seafloor approach through external observation equipment
+  - appearance: 37 years old Caucasian man, medium build, clean-shaven with short dark hair, intelligent brown eyes behind
+      wire-rimmed glasses, calm and methodical demeanor
+    clothing: Navy-issue wool sweater over white shirt, thick wool pants, heavy leather boots, waterproof chronometer watch
+    position: Inside Trieste crew sphere, seated at instrument panel
+    action: Monitoring depth gauges and pressure readings with scientific precision
+  - appearance: 29 years old Caucasian man, athletic military bearing, short-cropped brown hair, square jaw, alert blue eyes,
+      confident posture
+    clothing: Navy utility uniform with lieutenant's bars, thick wool Navy sweater, military-issue boots, Navy insignia clearly
+      visible
+    position: Inside Trieste crew sphere, seated beside diving controls
+    action: Taking detailed notes and operating ballast controls with military precision
   scene:
-    mainElements: Depth meters showing record-breaking readings approaching 35,814 feet, pressure gauges at maximum extreme
-      measurements, external lights beginning to illuminate seafloor sediment, historic moment of deepest human descent
-    details: Analog depth meters showing unprecedented readings over 35,000 feet, pressure gauges indicating over 1,000 times
-      surface pressure, temperature sensors recording near-freezing deep ocean conditions, external lights revealing fine
-      diatomaceous ooze sediment beginning to appear below, mechanical systems stressed to design limits but functioning properly
-    background: First glimpses of Challenger Deep seafloor through porthole windows, complete darkness beyond external light
-      range, sense of reaching Earth's most remote location
-    atmosphere: Historic achievement tension mixed with scientific wonder, realization of reaching deepest accessible point
-      on Earth, mechanical sounds of bathyscaphe systems performing at extreme limits, anticipation of seafloor contact and
-      discovery, no text or letters visible
+    mainElements: Steel crew sphere interior with depth gauges showing approach to maximum depth readings, external lights
+      beginning to illuminate something below, both men focused intensely on final descent phase
+    details: Mechanical depth gauge with pressure sensors, multiple redundant systems for depth measurement, brass and steel
+      construction with analog dials and needle indicators showing approach to record-breaking depth. External lights visible
+      through portholes beginning to reveal seafloor approaching below.
+    background: Complete darkness outside except for Trieste's powerful external lights beginning to illuminate the approaching
+      seafloor of Earth's deepest point
+    atmosphere: Historic moment approaching as first humans near Earth's deepest accessible point, intense concentration and
+      scientific excitement mixed with awareness of extreme danger, reaching depths deeper than Mount Everest is tall, crushing
+      pressure that would instantly destroy any unprotected human, no text or letters visible
   composition:
-    cameraAngle: Dramatic interior shot emphasizing record-breaking depth readings
-    focus: Depth instruments showing historic maximum readings and seafloor approach
-    depth: Foreground shows extreme depth measurements, middle shows crew concentration, background shows first seafloor illumination
+    cameraAngle: Close-up shot focusing on depth gauges and crew faces as they approach historic depth record
+    focus: Depth measurement instruments showing approach to maximum reading and crew members' intense concentration
+    depth: Foreground shows critical depth gauges approaching maximum readings, middle ground centers on focused crew members,
+      background reveals external lights beginning to illuminate approaching seafloor
 visualElements:
   colorPalette:
     primary:

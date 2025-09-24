@@ -1,16 +1,16 @@
 sceneDescription:
-  title: "300 Years of Preserved History"
+  title: "Industrial Mining Expansion - 19th Century Development"
   setting:
-    time: "1870, after 300 years without rainfall"
-    location: "Salt flats and mineral deposits throughout Atacama Desert"
-    weather: "300-year drought creating perfect preservation conditions"
+    time: "1850, morning, industrial activity"
+    location: "Desert oasis town at 2,260m altitude, Calama, northern Chile, surrounded by barren mountains and salt flats"
+    weather: "Continued drought after 280 years, dust from mining operations"
   characters: "No characters present in this scene"
   scene:
-    mainElements: "Crystalline salt formations and mineral deposits creating geometric patterns in dried lake beds, preserved organic materials due to extreme desiccation showing 300 years of drought history, otherworldly beauty of completely waterless environment"
-    details: "Perfect preservation of organic materials demonstrating extreme aridity over three centuries, salt formations creating intricate geometric patterns where lakes existed before drought began, mineral deposits showing layers of time without water, crystalline structures formed by complete evaporation and lack of moisture, geological evidence of the longest drought in recorded history, formations that could only exist in absence of any rainfall"
-    background: "Vast expanses of salt flats stretching beyond horizon, mountain barriers still preventing any moisture from reaching preserved landscape, evidence of ancient water sources now completely desiccated"
-    atmosphere: "Geological time made visible through unprecedented preservation, otherworldly landscape created by three centuries without water, complete absence of normal weathering due to lack of moisture, silence and stillness of environment untouched by rain for 300 years, no text or letters visible"
+    mainElements: "Adobe buildings, precious water wells, sparse vegetation, mining infrastructure"
+    details: "Large-scale copper mining operations expanding around settlement. Steam-powered equipment imported for mineral extraction. Railway tracks connecting desert mines to coastal ports. Industrial water storage tanks for imported water supplies. Massive excavation sites with terraced mining walls. Smokestacks from copper smelting operations. Worker housing constructed from imported materials. Mechanical drilling equipment seeking underground water sources."
+    background: "Transformed landscape with industrial infrastructure against unchanged hyperarid environment"
+    atmosphere: "Industrial progress contrasting with environmental impossibility, human determination against nature"
   composition:
-    cameraAngle: "Wide shot emphasizing vast scale of preserved drought landscape"
-    focus: "Salt formations and preserved materials showing 300-year drought effects"
-    depth: "Foreground shows detailed salt crystal formations, middle shows preserved organic materials, background shows endless preserved landscape"
+    cameraAngle: "High angle showing industrial transformation of ancient landscape"
+    focus: "Mining infrastructure adaptation to extreme water scarcity conditions"
+    depth: "Foreground shows detailed mining equipment and infrastructure, middle ground reveals expanded settlement, background maintains endless desert context, no text or letters visible"

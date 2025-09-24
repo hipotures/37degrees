@@ -4,66 +4,115 @@ canon:
       name: "Character EK"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns"
-            clothing: "Red, white and blue leather jumpsuit with stars and stripes, white helmet with eagle emblem, white leather boots"
-            posture: "Confident stance, arms often crossed or hands on hips, fearless expression"
-    - id: "character_medical_staff"
-      name: "Medical Staff"
+          - appearance: "5'11" athletic build man in late 20s to early 30s, piercing blue eyes, distinctive mustache, weathered face from crashes, confident swagger"
+            clothing: "Iconic white leather jumpsuit with red, white, and blue stars and stripes, matching helmet with star design, white leather boots"
+            position: "Standing next to motorcycle or on jump platform, commanding presence"
+            action: "Preparing for stunts, adjusting gear, or recovering from crashes with determined expression"
+
+    - id: "character_JS"
+      name: "Character JS"
       description_block: |
         characters:
-          - appearance: "Various medical professionals, men and women, 30s-50s, focused expressions"
-            clothing: "White medical coats, surgical scrubs, stethoscopes around necks"
-            posture: "Professional, bent over patient or standing with medical equipment"
-    - id: "character_crew_members"
-      name: "Crew Members"
+          - appearance: "Middle-aged businessman, heavy-set build, concerned expression"
+            clothing: "1960s expensive dark business suit with tie"
+            position: "Standing near hotel entrance or observing from safe distance"
+            action: "Watching stunts with mix of fascination and business concern"
+
+    - id: "abc_camera_crew"
+      name: "ABC Camera Crew"
       description_block: |
         characters:
-          - appearance: "Men in 30s-40s, working-class build, concerned expressions"
-            clothing: "Casual 1970s attire, work shirts, jeans, tool belts"
-            posture: "Active, adjusting equipment or watching stunts with tension"
+          - appearance: "Multiple crew members in 1960s casual work attire, professional demeanor"
+            clothing: "Work shirts, casual pants, ABC Sports jackets, headphones for audio crew"
+            position: "Positioned around jump site with cameras and equipment"
+            action: "Filming the action, adjusting equipment, capturing multiple angles"
+
+    - id: "spectators_crowd"
+      name: "Spectators"
+      description_block: |
+        characters:
+          - appearance: "Mix of local residents, families, motorcycle enthusiasts, approximately 1,000 people"
+            clothing: "Mid-1960s casual wear, some in motorcycle leather, families in weekend attire"
+            position: "Gathered in bleachers, standing areas, around jump perimeter"
+            action: "Watching with excitement, cheering, gasping during crashes"
+
+    - id: "medical_staff"
+      name: "Medical Personnel"
+      description_block: |
+        characters:
+          - appearance: "Professional medical staff, doctors and nurses in white uniforms"
+            clothing: "1960s medical attire, white coats, caps, professional appearance"
+            position: "Near jump sites or in hospital settings"
+            action: "Providing emergency care, monitoring recovery, checking medical equipment"
+
   locations:
-    - id: "location_snake_river_canyon"
-      name: "Snake River Canyon"
+    - id: "moses_lake_dealership"
+      name: "Moses Lake Honda Dealership"
       description_block: |
         setting:
-          location: "Snake River Canyon, Idaho, vast rocky canyon with winding river below"
-        mainElements: "Steep canyon walls, narrow river far below, desert landscape, clear blue sky"
-        atmosphere: "Dramatic, dangerous, expansive wilderness setting"
-    - id: "location_hospital_room"
-      name: "Hospital Room"
+          location: "Small town motorcycle dealership in Moses Lake, eastern Washington"
+        mainElements: "Motorcycle showroom building, service bay, makeshift wooden jump ramp, parked cars arranged as obstacles, wooden crate for rattlesnakes, mountain lion enclosure area"
+        atmosphere: "Summer 1965, warm weather, excited crowd gathering, smell of motorcycle exhaust, tension building before jump"
+
+    - id: "caesars_palace_fountain"
+      name: "Caesars Palace Fountains"
       description_block: |
         setting:
-          location: "1970s hospital room with medical equipment"
-        mainElements: "Hospital bed, IV stands, medical monitors, white walls, fluorescent lighting"
-        atmosphere: "Clinical, sterile, concerned medical environment"
-    - id: "location_motorcycle_jump_ramp"
-      name: "Motorcycle Jump Ramp"
+          location: "Ornate fountain complex outside Caesars Palace luxury casino hotel, Las Vegas Strip, Nevada"
+        mainElements: "Multi-tiered fountains with water displays, decorative Roman statuary, 141-foot span between takeoff and landing, concrete safety ramps on both sides, parking areas beyond landing zone"
+        atmosphere: "December 31, 1967, cool winter air, bright Nevada sunshine, ABC camera crews positioned, crowd of spectators, tension of major television event"
+
+    - id: "ascot_park"
+      name: "Ascot Park Speedway"
       description_block: |
         setting:
-          location: "Wooden motorcycle jump ramp at stadium or arena"
-        mainElements: "Steep wooden ramp, crowd stands in background, safety barriers, sand landing area"
-        atmosphere: "Exciting, dangerous, crowd anticipation and tension"
-    - id: "location_garage_workshop"
-      name: "Garage Workshop"
+          location: "Oval dirt track racing facility in Gardena, Southern California"
+        mainElements: "Dirt track surface, grandstand seating, infield area for stunt setup, 15 cars arranged in formation, takeoff and landing ramps constructed, racing facility infrastructure"
+        atmosphere: "March 25, 1967, California sunshine, racing crowd excitement, dust in air, roar of engines from track events"
+
+    - id: "hospital_room"
+      name: "Hospital Recovery Room"
       description_block: |
         setting:
-          location: "Motorcycle repair garage with tools and equipment"
-        mainElements: "Motorcycles, tool benches, spare parts, oil stains on concrete floor"
-        atmosphere: "Working environment, mechanical preparation, focused activity"
+          location: "Las Vegas medical facility, patient recovery ward"
+        mainElements: "Hospital bed with medical monitors, X-ray viewing equipment, IV stands, visitor chairs, flowers from fans, medical charts"
+        atmosphere: "Sterile medical environment, beeping monitors, concerned medical staff, steady stream of reporters and well-wishers"
+
+    - id: "television_studio"
+      name: "Joey Bishop Show Studio"
+      description_block: |
+        setting:
+          location: "NBC television studio, Hollywood, California"
+        mainElements: "Television interview set, desk and chairs, studio lighting, cameras, live audience seating, NBC branding"
+        atmosphere: "March 18, 1968, bright studio lights, live television energy, audience anticipation, professional broadcast environment"
+
   items:
-    - id: "item_harley_davidson_motorcycle"
-      name: "Harley Davidson Motorcycle"
+    - id: "triumph_bonneville"
+      name: "Triumph Bonneville T120"
       description_block: |
-        details: "Classic Harley Davidson motorcycle, chrome exhaust pipes, custom paint job, high handlebars, powerful engine"
-    - id: "item_steam_powered_rocket"
-      name: "Steam Powered Rocket"
+        details: "650cc British motorcycle with distinctive parallel twin engine, chrome exhaust pipes, white paint scheme, custom suspension setup for jumping, minimal windscreen, racing handlebars, reinforced frame modifications"
+
+    - id: "honda_350cc"
+      name: "Honda 350cc Motorcycle"
       description_block: |
-        details: "White steam-powered rocket vehicle with fins, pointed nose cone, steam vents, experimental design"
-    - id: "item_medical_cast"
-      name: "Medical Cast"
+        details: "Small Japanese motorcycle, lightweight build, standard street configuration with minimal modifications, stock Honda livery, basic suspension, standard handlebars and seating position"
+
+    - id: "white_jumpsuit"
+      name: "Signature White Jumpsuit"
       description_block: |
-        details: "White plaster medical casts on arms and legs, bandages, medical tape, hospital blankets"
-    - id: "item_crash_helmet"
-      name: "Crash Helmet"
+        details: "Custom-made white leather one-piece jumpsuit with red, white, and blue stars and stripes design, reinforced at stress points, custom fit for motorcycle riding position, matching helmet with star design"
+
+    - id: "rattlesnake_crate"
+      name: "Wooden Rattlesnake Crate"
       description_block: |
-        details: "White motorcycle helmet with red, white and blue eagle design, chin strap, protective visor"
+        details: "Wooden box approximately 6 feet long, 3 feet wide, reinforced construction to contain live rattlesnakes, positioned as jump obstacle"
+
+    - id: "abc_cameras"
+      name: "ABC Television Equipment"
+      description_block: |
+        details: "Professional 16mm color film cameras, multiple camera positions, slow-motion replay equipment, ABC Sports branded equipment, broadcast quality setup"
+
+    - id: "medical_equipment"
+      name: "Hospital Medical Equipment"
+      description_block: |
+        details: "1960s medical monitoring devices, X-ray machines, IV equipment, hospital bed with adjustable positions, medical charts and documentation"

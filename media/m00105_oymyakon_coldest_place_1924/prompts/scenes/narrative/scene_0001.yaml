@@ -1,20 +1,16 @@
 sceneDescription:
-  title: "Siberian Winter Settlement - January 1924"
+  title: "Valley of Eternal Cold - Oymyakon's Frozen Landscape"
   setting:
-    time: "January 1924, early morning in deepest winter"
-    location: "Oymyakon village, Sakha Republic, Russia, Yana-Oymyakon Highlands along Indigirka River"
-    weather: "Extreme cold approaching record-breaking temperatures of -71.2°C"
-  characters:
-    - appearance: "Siberian person, 40s, weathered face from extreme cold exposure, hardy build adapted to Arctic conditions"
-      clothing: "Multiple layers of fur clothing, traditional Siberian winter gear, thick boots, face protection from wind"
-      position: "Moving carefully through village in extreme cold conditions"
-      action: "Performing essential daily tasks while protecting against life-threatening cold"
+    time: "January 1924, early morning"
+    location: "Narrow valley between Oymyakon and Tomtor, surrounded by mountains, weather monitoring equipment visible"
+    weather: "Clear skies with intense Siberian High pressure system, absolutely no wind, extreme cold air mass"
+  characters: "No characters present in this scene"
   scene:
-    mainElements: "Small wooden buildings with thick walls, smoking chimneys, deep snow cover, frozen landscape extending to horizon, visible breath vapor in extreme cold, ice formations on every surface"
-    details: "Traditional Siberian cold weather clothing with multiple fur layers, thick smoke rising from chimneys indicating intense heating efforts, completely frozen water sources and ice formations on buildings, frost patterns covering all exposed surfaces, survival-focused settlement design for extreme Arctic conditions"
-    background: "Endless snow-covered Siberian wilderness, frozen trees creating stark winter landscape, Arctic environment stretching beyond horizon"
-    atmosphere: "Extreme cold with every breath visible as vapor, complete silence of frozen environment broken only by survival activities, life-threatening conditions requiring constant vigilance, harsh beauty of world's coldest inhabited place, no text or letters visible"
+    mainElements: "Simple wooden meteorological hut, thermometer housing, wind measurement devices, snow-covered ground, mountain ridges on all sides"
+    details: "Vast white expanse stretching to horizon, untouched snow drifts shaped by wind, ice formations on rocks and trees, crystalline air so clear distant mountains appear close, no movement except occasional snow devil, thermometer housing protected by wooden shelter, wooden stakes marking measurement points, no text or letters visible"
+    background: "Mountain peaks rising on all sides creating natural bowl, clear blue sky indicating high pressure system, distant smoke from settlement barely visible"
+    atmosphere: "Absolute stillness in frigid air, no wind, crystalline clarity, breath instantly freezes, every sound muffled by intense cold"
   composition:
-    cameraAngle: "Wide establishing shot showing isolated village in extreme Arctic conditions"
-    focus: "Settlement surviving in world's coldest permanently inhabited location"
-    depth: "Foreground shows detailed village structures, middle shows human activity in extreme cold, background shows endless frozen Siberian landscape"
+    cameraAngle: "Wide establishing shot from elevated position"
+    focus: "Weather station hut in valley center with vast frozen landscape"
+    depth: "Foreground snow formations, middle ground weather station, background mountain ridges against clear sky"

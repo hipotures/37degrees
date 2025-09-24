@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Commercial GPS Device Demonstration - 1989"
+  setting:
+    time: "1989, late morning"
+    location: "Electronics trade show exhibit hall, major convention center"
+    weather: "Indoor controlled environment, bright exhibition lighting"
+  characters:
+    - appearance: "Technology demonstrator, 40s, enthusiastic expression, technical expertise evident"
+      clothing: "1980s business casual with company polo shirt and khaki slacks, exhibition badge"
+      position: "Standing behind demonstration table displaying GPS device"
+      action: "Demonstrating handheld GPS unit to interested trade show attendees"
+    - appearance: "Trade show attendees, mixed demographics 30s-60s, curious and impressed expressions"
+      clothing: "1980s business attire, suits and ties, some with visitor badges and briefcases"
+      position: "Gathered around demonstration table examining GPS technology"
+      action: "Listening to demonstration, examining GPS device, asking technical questions"
+  scene:
+    mainElements: "Electronics trade show booth with first commercial GPS device on display, handheld GPS unit prominently featured, demonstration table with technical specifications and marketing materials"
+    details: "Magellan NAV 1000 GPS device - large handheld unit with LCD display and multiple buttons, weighing approximately 1.5 pounds, demonstration table with technical brochures, trade show booth graphics, no text or letters visible"
+    background: "Busy trade show environment with other technology exhibits, convention center ceiling and lighting, crowds of attendees moving between booths"
+    atmosphere: "Excitement of new consumer technology, trade show energy with crowds examining innovations, historic moment of GPS becoming commercially available"
+  composition:
+    cameraAngle: "Medium shot capturing demonstration and interested audience"
+    focus: "GPS device demonstration with attendees examining new technology"
+    depth: "GPS device and demonstrator in foreground, interested attendees in middle ground, busy trade show environment in background"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Early 20th Century - Peak Drought Conditions"
+  setting:
+    time: "1950, approaching 380 years without rainfall"
+    location: "Central Atacama Desert showing maximum aridity conditions"
+    weather: "Near-record drought conditions, approaching end of 400-year period"
+  characters:
+    - appearance: "Person, 30s-40s, practical appearance, sun protection clothing, scientific equipment visible"
+      clothing: "Modern desert research gear, wide-brimmed hat, UV protection clothing, field equipment vest"
+      position: "Taking measurements in extreme desert conditions"
+      action: "Recording climate data and drought conditions using early scientific instruments"
+  scene:
+    mainElements: "Weather monitoring stations with zero rainfall records, early scientific equipment documenting unprecedented drought conditions, geological evidence of extreme aridity spanning nearly four centuries"
+    details: "Modern desert research gear including UV protection clothing and scientific equipment, early weather monitoring equipment showing continuous zero rainfall readings, field equipment designed for extreme arid conditions, measuring instruments documenting driest conditions on Earth, scientific documentation of 380-year drought period, evidence of complete absence of precipitation approaching record-breaking duration"
+    background: "Atacama landscape showing nearly four centuries of drought effects, preserved environment demonstrating longest recorded period without rainfall, mountain barriers continuing to block all moisture sources"
+    atmosphere: "Scientific documentation of Earth's most extreme drought conditions, methodical observation of unprecedented environmental phenomenon, approaching climax of longest drought in human records, professional recording of extraordinary climate conditions, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing scientific documentation of extreme conditions"
+    focus: "Research equipment and drought measurement in peak aridity conditions"
+    depth: "Foreground shows scientific instruments measuring drought, middle shows researcher documenting conditions, background shows 380-year drought landscape"

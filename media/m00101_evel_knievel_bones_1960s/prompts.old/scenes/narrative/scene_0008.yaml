@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Preparing the Snake River Canyon Rocket"
+  setting:
+    time: "1974, morning"
+    location: "Snake River Canyon, Idaho, vast rocky canyon with winding river below"
+    weather: "Clear morning with light wind"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns"
+      clothing: "Red, white and blue leather jumpsuit with stars and stripes, white helmet with eagle emblem, white leather boots"
+      position: "Standing beside rocket vehicle, inspecting steam vents"
+      action: "Final inspection of rocket vehicle before historic canyon jump attempt"
+    - appearance: "Men in 30s-40s, working-class build, concerned expressions"
+      clothing: "Casual 1970s attire, work shirts, jeans, tool belts"
+      position: "Working around rocket and launch equipment"
+      action: "Making final adjustments to steam-powered rocket and checking safety systems"
+  scene:
+    mainElements: "Steep canyon walls, narrow river far below, desert landscape, clear blue sky with white steam-powered rocket vehicle positioned on launch ramp"
+    details: "White steam-powered rocket vehicle with fins, pointed nose cone, steam vents, experimental design positioned on elaborate launch ramp, crew members with tools and equipment, canyon stretching into distance, no text or letters visible"
+    background: "Vast Snake River Canyon landscape, winding river below, desert terrain extending to horizon"
+    atmosphere: "Dramatic, dangerous, expansive wilderness setting with historic moment of ultimate stunt attempt"
+  composition:
+    cameraAngle: "Wide shot emphasizing canyon scale and rocket preparation"
+    focus: "Character EK inspecting the experimental rocket vehicle"
+    depth: "Rocket and crew in foreground, canyon rim in middle ground, vast canyon landscape in background"

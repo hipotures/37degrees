@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mediterranean Expedition - Sponge Divers Approach Antikythera Waters"
+  setting:
+    time: "1900, early morning"
+    location: "Aegean Sea near Antikythera island, Greece, calm Mediterranean waters"
+    weather: "Clear morning with gentle sea breeze, bright sunlight reflecting off water"
+  characters:
+    - appearance: "Greek man, 40s, weathered skin from sea work, dark hair and beard, strong build"
+      clothing: "1900 Mediterranean diving gear with bronze helmet, or traditional Greek seafaring attire"
+      position: "Standing at boat's bow, scanning the horizon"
+      action: "Pointing toward distant rocky coastline of Antikythera island"
+  scene:
+    mainElements: "Traditional Greek sponge diving boat near Antikythera waters, 1900-1901"
+    details: "Wooden Mediterranean fishing vessel with diving equipment, bronze helmet, and recovered artifacts on deck. Bronze diving helmet gleaming in morning sun, coiled air hoses, wooden deck with diving weights and sponge collection nets. Rocky island silhouette visible in distance with ancient limestone cliffs."
+    background: "Deep blue Aegean Sea stretching to horizon, Antikythera island's dramatic coastline with steep cliffs and hidden coves"
+    atmosphere: "Maritime adventure atmosphere with sea spray and excitement of archaeological discovery. Sense of approaching something momentous beneath the waves."
+  composition:
+    cameraAngle: "Wide establishing shot from slightly elevated angle"
+    focus: "Sponge diving vessel with crew preparing for deep water exploration"
+    depth: "Foreground: diving boat and crew, middle ground: open sea, background: Antikythera island coastline, no text or letters visible"

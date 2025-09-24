@@ -1,16 +1,20 @@
 sceneDescription:
-  title: "Object crashes into dense Pennsylvania forest creating impact crater"
+  title: "Emergency Response at Kecksburg Fire Hall"
   setting:
-    time: "December 9, 1965, 4:46 PM EST, dusk"
-    location: "Dense deciduous forest outside Kecksburg, Pennsylvania, winter conditions with bare trees"
-    weather: "Cold December evening, blue smoke rising through bare branches"
-  characters: "No characters present in this scene"
+    time: "December 9, 1965, 5:30 PM EST, evening"
+    location: "Single-story brick building in village center, typical 1960s rural fire station"
+    weather: "Cold December evening, darkness falling"
+  characters:
+    - appearance: "Multiple volunteer firefighters, various ages, local community members"
+      clothing: "1960s volunteer fire department gear, heavy coats, boots, helmets"
+      position: "Gathered around radio equipment and preparing emergency gear"
+      action: "Organizing search teams and loading equipment onto fire trucks for forest search operation"
   scene:
-    mainElements: "Muddy forest floor with fallen logs, bare oak and maple trees, small ravine with seasonal stream"
-    details: "Circular depression in muddy ground, scattered debris, broken branches, disturbed vegetation, blue smoke rising from impact point, bare winter trees creating stark silhouettes, muddy earth churned up from impact force, metallic gleam visible in crater depression, no text or letters visible"
-    background: "Dark, mysterious woodland setting with patches of blue smoke rising through bare branches"
-    atmosphere: "Eerie forest scene with unnatural disturbance, mysterious blue smoke creating otherworldly appearance in winter woods"
+    mainElements: "Equipment bays, meeting room, radio communications, emergency response coordination center"
+    details: "Volunteer firefighters checking flashlights and equipment, fire trucks with emergency lights flashing red against brick building, radio crackling with reports from multiple locations, maps spread on table showing local forest areas, sense of urgency as teams prepare for unknown aircraft crash, no text or letters visible"
+    background: "Initially busy with volunteer firefighters, later taken over by military with armed guards"
+    atmosphere: "Professional emergency response with community volunteers working together, underlying tension about unknown nature of reported crash, winter evening darkness requiring extensive lighting equipment"
   composition:
-    cameraAngle: "Aerial view looking down into forest clearing and impact crater"
-    focus: "Circular impact crater with disturbed earth and rising blue smoke"
-    depth: "Broken tree canopy in foreground, impact crater in middle ground, dense forest extending into background"
+    cameraAngle: "Medium shot from inside fire hall looking at organized activity"
+    focus: "Volunteer firefighters preparing equipment and coordinating search efforts"
+    depth: "Emergency equipment in foreground, firefighters organizing in middle ground, radio equipment and maps in background"

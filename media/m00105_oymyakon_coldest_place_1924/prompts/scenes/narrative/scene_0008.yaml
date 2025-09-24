@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "News of the Record Spreads"
+  setting:
+    time: "February 1924, afternoon"
+    location: "Simple wooden meteorological hut, thermometer housing, wind measurement devices, snow-covered ground, mountain ridges on all sides"
+    weather: "Slightly warmer but still extreme cold, clear conditions continuing"
+  characters:
+    - appearance: "Middle-aged Russian scientist, weathered face from Arctic conditions, thick beard, intense focused eyes"
+      clothing: "Heavy winter coat with fur trim, felt boots (valenki), fur hat with ear flaps, thick mittens, multiple layers typical of 1920s Arctic expedition gear"
+      position: "Standing near meteorological equipment or reading instruments carefully"
+      action: "Methodical and precise, carefully documenting readings, breath visible in extreme cold, movements deliberate due to bulky winter clothing"
+    - appearance: "Younger man in his 30s, clean-shaven, pale complexion, urban background evident"
+      clothing: "Standard Soviet winter coat, military-style winter hat, leather boots, less sophisticated cold weather gear than locals"
+      position: "Standing with notebook or observing settlement activities"
+      action: "Ideologically driven, somewhat out of place in extreme environment, taking notes for bureaucratic reports"
+  scene:
+    mainElements: "Scientist and official discussing the unprecedented measurement, weather station equipment, documentation of the historic reading"
+    details: "leather-bound notebook with weather observations, handwritten entries in Russian, pages yellowed with age, daily temperature recordings, notes on weather conditions, ink potentially frozen during writing being reviewed by both men, official taking notes about the scientific achievement, scientist explaining measurement procedures, breath clouds visible from both figures, contrast between scientific methodology and bureaucratic interest, glass tube with mercury column, metal housing for protection, calibrated scale visible, mounted in wooden shelter visible in background, no text or letters visible"
+    background: "Weather station structures, mountain walls that created the record-setting cold trap"
+    atmosphere: "Recognition of historic achievement, scientific discovery meeting political documentation"
+  composition:
+    cameraAngle: "Medium two-shot capturing discussion between scientist and official"
+    focus: "Historic measurement documentation and its significance"
+    depth: "Foreground interaction over records, middle ground weather station equipment, background mountain landscape that enabled the record"

@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: August 7, 1973, afternoon
+    location: Remote area of Shenandoah National Park during patrol
+    weather: Approaching thunderstorm with targeted lightning
+  characters:
+  - appearance: American man, 61, brawny build resembling Gene Hackman, rugged weathered face, fearful of storms
+    clothing: US Park Service uniform with ranger hat, work boots, utility belt, now carrying water can
+    position: Fleeing approaching storm cloud on foot
+    action: Trying to escape storm cloud but being struck anyway, using water can to extinguish burning hair
+  scene:
+    mainElements: Park ranger attempting to outrun approaching storm cloud but being struck by lightning anyway
+    details: Ranger running from official park ranger truck toward perceived safety, storm cloud appearing to follow target,
+      Brilliant electrical discharge striking fleeing person despite distance from vehicle, hair catching fire again from
+      lightning strike, Metal water can being used to douse burning hair, repeated pattern of hair fire from electrical contact
+    background: Remote Shenandoah wilderness with approaching storm clouds, mountainous park terrain
+    atmosphere: Growing paranoia about storm clouds following individual, fifth lightning strike despite deliberate evasion
+      attempts, pattern of extraordinary lightning attraction undeniable, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing futile attempt to escape lightning
+    focus: Fifth lightning strike despite evasion efforts
+    depth: Fleeing ranger in foreground, pursuing storm cloud in middle ground, Shenandoah wilderness in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

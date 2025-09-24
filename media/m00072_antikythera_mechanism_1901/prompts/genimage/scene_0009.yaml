@@ -1,29 +1,30 @@
 sceneDescription:
   setting:
-    time: 1902, night
-    location: National Archaeological Museum of Athens, Greece, early 1900s exhibition hall
-    weather: Night scene with concentrated electric lighting on research area
+    time: May 17, 1902, late morning
+    location: National Archaeological Museum of Athens research workroom, neoclassical building interior
+    weather: Bright natural light streaming through tall museum windows
   characters:
-  - appearance: Greek man, 60s, distinguished beard, academic bearing, thoughtful expression
-    clothing: Formal museum director attire of 1902, dark suit with pocket watch chain
-    position: Seated in contemplation before the fully revealed mechanism
-    action: Studying the complete astronomical computer with profound understanding
+  - appearance: Distinguished Greek scholar in his 50s, receding hairline, wire-rimmed spectacles, well-groomed mustache
+    clothing: Formal Edwardian suit with vest, white shirt with stiff collar, pocket watch chain - attire of academic professional
+    position: Leaning over artifacts at work table with magnifying glass
+    action: Methodically examining corroded bronze fragments, expression of sudden realization and excitement
   scene:
-    mainElements: Grand neoclassical museum interior with marble columns, display cases, and archaeological artifacts
-    details: Research workspace showing the mechanism's true nature as an ancient computer. Ancient bronze mechanical device,
-      34cm x 18cm x 9cm, complex system of 30+ interlocking gears, corroded green patina, inscribed with Greek text, fragmented
-      into multiple pieces, world's first analog computer. Astronomical calculation wheels, eclipse prediction gears, planetary
-      motion trackers, and Olympic games calendar mechanisms all visible. Ancient Greek text carved into bronze surfaces,
-      astronomical terms and calculations, partially corroded but still visible, describing planetary movements and eclipse
-      predictions.
-    background: Quiet museum at night with classical architecture and focused research lighting
-    atmosphere: Scholarly academic environment with natural light from tall windows illuminating ancient Greek treasures.
-      Profound moment of recognizing humanity's lost technological achievement.
+    mainElements: Historic moment of recognition as archaeologist examines the corroded bronze fragment and notices ancient
+      gear wheels embedded in the corrosion. Sunlight illuminates the breakthrough discovery.
+    details: Scholar bends over corroded bronze fragments with magnifying glass, wire-rimmed spectacles catching light as
+      he peers closely at embedded gear mechanisms. The 82 bronze fragments varying from coin-size to plate-size spread across
+      wooden work table, heavy green corrosion revealing intricate gears in cross-sections. Expression transforms from routine
+      examination to stunned realization. Bright sunlight streams through tall neoclassical windows creating dramatic lighting
+      for history-changing moment, no text or letters visible.
+    background: Museum workroom with high ceilings, classical architectural details, other ancient artifacts visible on shelves
+      creating scholarly atmosphere
+    atmosphere: Electric moment of scientific breakthrough as 2000-year mystery begins to unravel, academic routine suddenly
+      transformed into world-changing discovery
   composition:
-    cameraAngle: Wide shot showing scholar with complete mechanism understanding
-    focus: Director contemplating the full significance of the ancient computer
-    depth: 'Foreground: complete mechanism display, middle ground: contemplative scholar, background: night museum setting,
-      no text or letters visible'
+    cameraAngle: Close-up over-the-shoulder shot capturing moment of recognition
+    focus: Scholar's face showing amazement as ancient gears become visible in corroded fragments
+    depth: Magnifying glass and fragments in extreme foreground, scholar's shocked expression in middle ground, classical
+      museum interior in soft background
 visualElements:
   colorPalette:
     primary:

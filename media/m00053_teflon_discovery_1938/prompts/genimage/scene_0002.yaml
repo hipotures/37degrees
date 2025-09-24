@@ -1,96 +1,81 @@
 sceneDescription:
   setting:
-    time: 1938, spring afternoon
-    location: Main laboratory workbench, DuPont Jackson Laboratory
-    weather: Overcast afternoon with diffused light through laboratory windows
+    time: April 6, 1938, morning, 8:30 AM
+    location: Black-topped laboratory bench with gas connections, electrical outlets, and equipment mounting points
+    weather: Indoor laboratory conditions, natural light from tall windows
   characters:
-  - appearance: Caucasian man, early 30s, slender build, intelligent dark eyes, carefully combed dark hair
-    clothing: 1930s white lab coat over dress shirt and tie, or casual suit with vest
-    position: Working at laboratory bench with gas production equipment
-    action: Operating complex glass distillation apparatus and monitoring pressure gauges for TFE gas production
-  - appearance: Caucasian man, 30s, medium build, alert expression, short brown hair
-    clothing: 1930s white lab coat over dress shirt, or work clothes with suspenders
-    position: Standing nearby observing the gas production process
-    action: Taking notes in laboratory notebook while watching pressure readings and equipment operation
+  - appearance: 28-year-old man, medium build, clean-shaven with dark hair neatly parted, wire-rimmed glasses, earnest and
+      intelligent expression
+    clothing: White laboratory coat over dark trousers and white dress shirt, black leather shoes, safety goggles around neck
+    position: Standing at laboratory bench, reviewing experimental notes
+    action: Examining laboratory notebook and checking equipment setup for the day's refrigerant research
+  - appearance: Young man in early 20s, slightly shorter than character RP, brown hair, no glasses, more casual demeanor
+    clothing: White laboratory coat, dark work pants, practical work boots, rolled sleeves
+    position: At the same bench, handling gas cylinders
+    action: Arranging TFE gas cylinders and connecting pressure lines to experimental apparatus
   scene:
-    mainElements: Wooden laboratory bench with glass apparatus, measurement tools, chemical containers
-    details: Complex glass distillation setup with multiple flasks and condensers, pressure gauges showing readings, metal
-      cylinders for gas storage, measuring instruments and chemical containers arranged on wooden bench, laboratory notebooks
-      open for recording data, safety equipment visible including protective eyewear, no text or letters visible
-    background: Laboratory shelving with additional equipment and supplies, tall windows providing natural light, other research
-      stations visible
-    atmosphere: Active research workspace with good lighting, organized tools and equipment
+    mainElements: TFE gas cylinders, pressure gauges, connecting tubes, analytical balance, chemical test apparatus, notebook
+    details: Multiple steel gas cylinders lined up on bench, complex network of glass tubing and metal connectors, pressure
+      gauges with needle indicators, brass analytical balance with weights, laboratory notebook with handwritten entries,
+      various chemical apparatus, no text or letters visible
+    background: Clinical and sterile laboratory environment with chemical hoods, glass equipment racks, morning light through
+      tall windows, mechanical hum of ventilation
+    atmosphere: Focused workspace with morning light, slight chemical smell from previous experiments, organized chaos of
+      ongoing research, sense of methodical scientific preparation
   composition:
-    cameraAngle: Close-up shot focusing on the intricate gas production equipment and characters' work
-    focus: Glass distillation apparatus and pressure gauges with characters operating the equipment
-    depth: Foreground shows detailed equipment and gauges, middle ground features both characters at work, background reveals
-      laboratory setting, no text or letters visible
+    cameraAngle: Medium shot from side angle, showing both scientists and their experimental setup
+    focus: Laboratory bench and experimental apparatus, emphasizing the routine setup before discovery
+    depth: Foreground shows detailed equipment and cylinders, middle ground features the working scientists, background shows
+      laboratory environment, no text or letters visible
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Eastman Kodak Laboratory - Wartime Research Begins"
+  setting:
+    time: "1942, morning"
+    location: "Eastman Kodak Company research laboratory, Rochester, New York"
+    weather: "Clear winter day, bright sunlight streaming through large industrial windows"
+  characters:
+    - appearance: "Caucasian man, 25 years old, dark brown hair, medium build, focused expression, intelligent eyes behind wire-rimmed glasses"
+      clothing: "1940s white laboratory coat over dark suit and tie, black leather shoes"
+      position: "Standing at laboratory entrance, reviewing paperwork"
+      action: "Examining military specifications for gun sight materials while surveying the laboratory space"
+  scene:
+    mainElements: "Large industrial laboratory with high ceilings, multiple workbenches with chemical equipment, glass beakers, test tubes, microscopes, and precision optical instruments"
+    details: "Wartime posters on walls encouraging innovation for military effort, neat rows of chemical bottles on shelves, morning sunlight illuminating dust particles in air, steam rising from heating equipment, orderly arrangement of glassware suggesting beginning of systematic research project"
+    background: "Large windows showing winter landscape of Rochester, other laboratory spaces visible through glass partitions, American flag hanging prominently in corner"
+    atmosphere: "Wartime urgency combined with scientific precision, bright fluorescent lighting creating focused work environment, sense of patriotic duty and scientific curiosity, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position"
+    focus: "Character HC examining documents with laboratory equipment and workspace in full view"
+    depth: "Foreground shows character and immediate workbench, middle ground displays laboratory equipment and materials, background reveals broader facility context and windows"

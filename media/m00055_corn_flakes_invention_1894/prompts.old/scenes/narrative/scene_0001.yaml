@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Battle Creek Sanitarium establishment view"
+  setting:
+    time: "1894, late afternoon"
+    location: "Battle Creek Sanitarium, Michigan, multi-story brick building with Victorian architecture"
+    weather: "Clear autumn day with golden sunlight"
+  characters:
+    - appearance: "Caucasian man, 40s, tall and lean build, intense dark eyes, full dark beard, stern expression"
+      clothing: "1890s white medical coat over dark suit, or formal black suit with white shirt and bow tie"
+      position: "Standing at main entrance of sanitarium, addressing arriving patients"
+      action: "Gesturing toward the building while explaining health philosophy to new arrivals"
+  scene:
+    mainElements: "Large institutional building with multiple wings, well-maintained grounds, trees surrounding the property, horse-drawn carriages arriving with patients"
+    details: "Victorian architecture with decorative brickwork, large windows, wide front steps leading to entrance doors, landscaped gardens with autumn foliage, wooden signs indicating different departments, no text or letters visible"
+    background: "Michigan countryside with rolling hills, scattered trees in autumn colors, distant farmland"
+    atmosphere: "Professional medical facility atmosphere, clean and orderly, modern health treatment facility, sense of innovation and medical advancement"
+  composition:
+    cameraAngle: "Wide establishing shot from slight elevation"
+    focus: "The impressive sanitarium building with character in foreground"
+    depth: "Foreground shows character and entrance, middle ground shows full building facade, background shows Michigan landscape"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Legacy of darkness - cosmic truth preserved"
+  setting:
+    time: "1826, night"
+    location: "Clear night sky view from Bremen, northern Germany, 1826"
+    weather: "Perfect clear night displaying cosmic darkness"
+  characters:
+    - appearance: "German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom"
+      clothing: "1820s dark blue physician's coat over white shirt and black vest"
+      position: "Standing beside telescope on rooftop or balcony"
+      action: "Making final observations while understanding that darkness itself reveals cosmic truth"
+  scene:
+    mainElements: "Vast dark sky with brilliant scattered stars, observer with telescope understanding that darkness proves universe's finite nature"
+    details: "Infinite-seeming black space punctuated by brilliant white and yellow stars, Long brass refracting telescope on wooden tripod mount pointing toward cosmos, observer's silhouette against starlight showing peaceful satisfaction, Milky Way visible as faint luminous band, city lights of Bremen glowing softly below, sense of cosmic revelation complete"
+    background: "Boundless dark universe with scattered stellar light, earthly city beneath revealing human scale against cosmic vastness, sense of fundamental truth discovered through patient observation"
+    atmosphere: "Triumphant understanding that cosmic darkness reveals universe's true nature, peaceful satisfaction of scientific discovery, profound appreciation for how simple observation unlocks cosmic secrets, eternal dark sky as evidence of universe's beginning, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing observer against vast star-filled sky"
+    focus: "character_HO with telescope against infinite dark sky that reveals cosmic truth"
+    depth: "Foreground shows telescope and observer, middle ground reveals city lights below, background stretches into cosmic darkness that proves universe's finite age"

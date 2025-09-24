@@ -1,105 +1,24 @@
 sceneDescription:
-  title: "Border Patrol and Stray Dog
-Dog Chase Across Border
-Fatal Border Shooting
-Escalating Border Skirmish
-Failed Diplomatic Mission
-Greek Military Response Planning
-Invasion of Petrich
-International Diplomatic Crisis
-League of Nations Intervention"
+  title: "Dawn patrol at Demir Kapia border crossing"
   setting:
-    time: "October 18, 1925
-October 22, 1925, morning
-late morning
-midday
-afternoon
-late afternoon
-evening
-morning
-afternoon
-evening"
-    location: "Border crossing point Demir Kapia, 3km west of Radomir on Belasitsa mountain, Greece-Bulgaria border
-Border crossing point Demir Kapia, 3km west of Radomir on Belasitsa mountain, Greece-Bulgaria border
-Bulgarian military outpost overlooking border crossing, Belasitsa mountain region
-Border crossing point Demir Kapia, 3km west of Radomir on Belasitsa mountain, Greece-Bulgaria border
-Border crossing point Demir Kapia, 3km west of Radomir on Belasitsa mountain, Greece-Bulgaria border
-Greek military headquarters building, Athens or regional command center
-Petrich, Bulgaria, small border town near Greek frontier
-Greek military headquarters building, Athens or regional command center
-Greek military headquarters building, Athens or regional command center"
-    weather: "Clear autumn day with mountain breeze
-Evening with tension in the air
-Morning mist in mountain valleys
-Overcast with diplomatic storm clouds
-Clear evening with hopeful atmosphere"
+    time: "October 18, 1925, early morning"
+    location: "Demir Kapia Border Pass, Belasitsa Mountains, Greece-Bulgaria border"
+    weather: "Cool autumn morning, light mist in valleys, clear visibility"
   characters:
-    - appearance: "$([ $i -eq 1 ] && echo "Greek soldier, 20s, medium build, olive complexion, dark hair, youthful face with serious expression" || [ $i -eq 2 ] && echo "Greek soldier, 20s, medium build, olive complexion, dark hair, youthful face with serious expression" || [ $i -eq 3 ] && echo "Bulgarian border guard, 30s, stocky build, weathered face, brown hair, stern military demeanor" || [ $i -eq 4 ] && echo "Greek soldier, 20s, medium build, olive complexion, dark hair, youthful face with serious expression" || [ $i -eq 5 ] && echo "Greek army captain, 35s, tall commanding presence, mustache, confident military bearing" || [ $i -eq 6 ] && echo "Greek general, 45s, imposing figure, graying temples, stern authoritative expression" || [ $i -eq 7 ] && echo "Greek soldier, 20s, medium build, olive complexion, dark hair, youthful face with serious expression" || [ $i -eq 8 ] && echo "Greek general, 45s, imposing figure, graying temples, stern authoritative expression" || echo "Greek general, 45s, imposing figure, graying temples, stern authoritative expression")"
-      clothing: "$([ $i -eq 1 ] && echo "Greek military uniform with khaki tunic, matching trousers, leather boots, military cap with Greek insignia" || [ $i -eq 2 ] && echo "Greek military uniform with khaki tunic, matching trousers, leather boots, military cap with Greek insignia" || [ $i -eq 3 ] && echo "Bulgarian military uniform with dark green tunic, black leather belt, military boots, peaked cap" || [ $i -eq 4 ] && echo "Greek military uniform with khaki tunic, matching trousers, leather boots, military cap with Greek insignia" || [ $i -eq 5 ] && echo "Greek officer uniform with olive drab tunic, gold rank insignia, leather Sam Browne belt, polished boots" || [ $i -eq 6 ] && echo "Formal military dress uniform with multiple medals, gold braiding, peaked cap with eagle insignia" || [ $i -eq 7 ] && echo "Greek military uniform with khaki tunic, matching trousers, leather boots, military cap with Greek insignia" || [ $i -eq 8 ] && echo "Formal military dress uniform with multiple medals, gold braiding, peaked cap with eagle insignia" || echo "Formal military dress uniform with multiple medals, gold braiding, peaked cap with eagle insignia")"
-      position: "$([ $i -eq 1 ] && echo "Standing at border post watching patrol area" || [ $i -eq 2 ] && echo "Running across rocky terrain pursuing escaped dog" || [ $i -eq 3 ] && echo "Positioned behind fortifications aiming rifle" || [ $i -eq 4 ] && echo "Taking defensive position during escalating firefight" || [ $i -eq 5 ] && echo "Approaching enemy position under white flag" || [ $i -eq 6 ] && echo "Standing behind desk reviewing military maps" || [ $i -eq 7 ] && echo "Advancing with troops into Bulgarian territory" || [ $i -eq 8 ] && echo "Seated at desk with international diplomats" || [ $i -eq 9 ] && echo "Reading League of Nations ceasefire order" || echo "Standing at peaceful border crossing")"
-      action: "$([ $i -eq 1 ] && echo "Conducting routine border patrol while dog wanders nearby" || [ $i -eq 2 ] && echo "Chasing escaped dog across unmarked border terrain into Bulgarian territory" || [ $i -eq 3 ] && echo "Firing warning shots that escalate to deadly force against border intruder" || [ $i -eq 4 ] && echo "Engaging in escalating border skirmish with rifle fire exchange" || [ $i -eq 5 ] && echo "Attempting diplomatic negotiation under flag of truce before being shot" || [ $i -eq 6 ] && echo "Planning military response and issuing ultimatum to Bulgarian government" || [ $i -eq 7 ] && echo "Leading Greek forces in occupation of Petrich while civilians flee" || [ $i -eq 8 ] && echo "Dealing with international pressure and League of Nations intervention" || [ $i -eq 9 ] && echo "Accepting League of Nations mediation and ceasefire terms" || echo "Reflecting on tragic escalation from simple dog chase to international incident")""
+    - appearance: "Young Caucasian man, approximately 20-25 years old, average build, concerned expression"
+      clothing: "Greek army field uniform, wool jacket, military cap, leather boots, rifle sling across shoulder"
+      position: "Standing at Greek border post, looking toward Bulgarian territory"
+      action: "Patrolling border area, checking perimeter, accompanied by his dog"
+    - appearance: "Medium-sized mixed breed dog, brown and white coat, leather collar around neck, alert ears, friendly demeanor"
+      clothing: "No clothing, just collar"
+      position: "Walking beside Greek soldier, sniffing ground"
+      action: "Following soldier on patrol, investigating scents near border markers"
   scene:
-    mainElements: "Rocky mountain pass with border markers, guard posts, barbed wire fencing, no man's land between positions
-Rugged border terrain with scattered rocks, sparse vegetation, unclear boundary markers
-Small wooden guard house, sandbag fortifications, Bulgarian flag, rifle racks, observation equipment
-Border skirmish zone with defensive positions, scattered military equipment, evidence of gunfire
-No man's land between opposing forces with white flag visible and diplomatic tension
-Large wooden desk with maps, telephone equipment, filing cabinets, Greek flags, military charts on walls
-Traditional Bulgarian architecture, church with bell tower, market square, residential houses, cobblestone streets
-Diplomatic meeting room with international flags, formal negotiation table, official documents
-Official diplomatic papers with seals and ribbons, formal international mediation documents, typed on official letterhead"
-    details: "Medium-sized brown and white mixed breed dog, alert expression, wearing simple leather collar, running freely across terrain, military equipment and patrol gear visible
-Dog running ahead through rocky terrain, soldier pursuing on foot, border markers partially visible, mountain landscape
-Rifle muzzle flash, fallen soldier, border guard in firing position, Bulgarian military insignia visible
-Multiple rifle positions, scattered ammunition, damaged border infrastructure, smoke from gunfire
-White cloth attached to wooden stick, standard diplomatic symbol for ceasefire negotiations, carried by military officer, fallen diplomatic personnel
-Military topographical maps showing Greek-Bulgarian frontier, marked with positions and territorial boundaries, rolled and tied with ribbon, telegraph equipment
-Greek soldiers advancing through town streets, Bulgarian civilians evacuating, military vehicles, occupied territory markers
-International diplomatic correspondence, League of Nations symbols, formal meeting protocols, crisis management documents
-League of Nations mediation papers, ceasefire agreements, international arbitration documents, diplomatic seals"
-    background: "Tense frontier atmosphere with military patrols, sounds of wind through mountain pass, sense of territorial vigilance
-Mountainous border region with unclear demarcation, natural terrain obstacles, autumn foliage
-Military vigilance with constant border surveillance, sounds of equipment and radio communications, fortified positions
-Escalating border conflict with increasing military presence, emergency response, diplomatic crisis
-Failed diplomatic mission with international consequences, breakdown of negotiation attempts
-High-stakes military planning environment with urgent decision-making, sounds of typewriters and telephone calls
-Peaceful civilian town disrupted by military action, sounds of daily life interrupted by conflict
-International diplomatic crisis requiring League of Nations intervention, emergency sessions
-International mediation success with ceasefire implementation, diplomatic resolution"
-    atmosphere: "Routine border security with underlying tension, anticipation of potential incidents
-Confusion and urgency as simple dog chase crosses international boundary
-Sudden violence and tragic misunderstanding with deadly consequences
-Escalating military confrontation with international implications
-Failed diplomacy and tragic loss of life during peace negotiations
-Military determination and national pride driving response to border incident
-Military occupation and civilian displacement from escalated conflict
-International pressure and diplomatic crisis management
-Successful international mediation preventing wider conflict"
+    mainElements: "Greek border guard post, stone border markers, mountain path winding between rocks, wooden fence sections"
+    details: "Military observation post with Greek flag, rifle leaning against post, guard duty roster board, binoculars on table, soldier's pack and water bottle, autumn leaves scattered on rocky ground, no text or letters visible"
+    background: "Belasitsa mountain peaks, morning mist in valleys, sparse autumn vegetation, distant Bulgarian guard post barely visible"
+    atmosphere: "Peaceful morning routine, crisp mountain air, sound of boots on gravel, dog's quiet panting, tension of border duty"
   composition:
-    cameraAngle: "Wide shot establishing border security situation
-Medium tracking shot following pursuit across terrain
-Close-up on tragic shooting incident
-Wide action shot showing border skirmish
-Medium shot of failed diplomatic mission
-Close-up on military planning and decision-making
-Wide shot showing military occupation of civilian area
-Medium shot of international diplomatic intervention
-Close-up on peace agreement and mediation success"
-    focus: "Border patrol routine with dog wandering into international incident
-Simple dog chase crossing into dangerous territory
-Tragic shooting that transforms minor incident into international crisis
-Border skirmish escalation requiring military response
-Failed diplomatic negotiation with tragic consequences
-Military planning and ultimatum delivery
-Military occupation demonstrating escalation from dog chase to armed conflict
-International diplomatic crisis management
-League of Nations successful mediation"
-    depth: "Border security in foreground, patrol activity in middle ground, mountain frontier in background
-Dog and pursuing soldier in foreground, border terrain in middle ground, international boundary in background
-Shooting incident in foreground, border fortifications in middle ground, international implications in background
-Border conflict in foreground, military positions in middle ground, escalating crisis in background
-Failed diplomacy in foreground, border tensions in middle ground, international consequences in background
-Military planning in foreground, command decisions in middle ground, national response in background
-Military occupation in foreground, civilian displacement in middle ground, international crisis in background
-Diplomatic crisis in foreground, international intervention in middle ground, peace efforts in background
-Peace agreement in foreground, diplomatic success in middle ground, conflict resolution in background, no text or letters visible"
+    cameraAngle: "Medium wide shot from slightly elevated position"
+    focus: "Greek soldier and dog at border post, establishing the calm before storm"
+    depth: "Foreground: soldier and dog at post, Middle: border markers and path, Background: misty mountain ridges and distant Bulgarian territory"

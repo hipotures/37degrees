@@ -1,37 +1,33 @@
 sceneDescription:
   setting:
-    time: February 1954, next morning
-    location: Medical observation chamber with viewing window, Moscow Institute of Surgery
-    weather: Indoor controlled environment
+    time: June 15, 1955, afternoon demonstration
+    location: Large auditorium in Moscow medical facility, tiered seating arrangement
+    weather: Moscow summer afternoon, controlled auditorium lighting
   characters:
-  - appearance: Caucasian man, 38 years old, dark hair slicked back, intense focused eyes behind wire-rim glasses, scholarly
-      demeanor
-    clothing: White laboratory coat over dark suit vest and white shirt, medical gloves, professional surgical attire
-    position: Standing at center presenting findings to assembled medical team
-    action: Discussing research progress and medical observations with scientific colleagues
-  - appearance: Caucasian man, 42 years old, balding with thick mustache, studious appearance, academic bearing
-    clothing: Dark suit with vest, white shirt, tie, occasionally white laboratory coat for observations
-    position: Seated at conference table reviewing documentation
-    action: Examining scientific records and medical documentation while participating in research discussion
-  - appearance: Caucasian man, 45 years old, graying temples, serious expression, medical professional bearing
-    clothing: White laboratory coat, dark trousers, medical cap, sterile surgical mask around neck
-    position: Standing near medical charts analyzing data
-    action: Reviewing medical measurements and vital sign recordings from previous day procedures
+  - appearance: 42-year-old Caucasian man, medium build, serious facial expression with intense dark eyes, receding hairline,
+      clean-shaven
+    clothing: White surgical coat over dark suit, surgical mask around neck, wire-rimmed glasses
+    position: Standing at operating table or examining surgical instruments
+    action: Methodical and precise movements, confident bearing, intense concentration during procedures
+  - appearance: Distinguished older Caucasian man, gray hair, authoritative presence, evaluating expression
+    clothing: Dark formal suit, medical insignia, observer position
+    position: Seated in observation area or standing at demonstration
+    action: Stern evaluation, mixture of awe and concern, scientific skepticism
   scene:
-    mainElements: Medical conference setting with research documentation, scientific discussion among medical professionals,
-      assessment of experimental progress
-    details: Scientific notebooks, medical charts, and documentation papers with handwritten observations and measurements
-      spread across conference table, early medical monitoring devices displaying ongoing vital sign data, institutional medical
-      environment with academic discussion atmosphere
-    background: Medical charts and documentation mounted on walls, observation equipment, institutional lighting and conference
-      furniture
-    atmosphere: Academic medical conference atmosphere with serious scholarly discussion, scientific assessment of research
-      progress, professional medical evaluation
+    mainElements: Stage with demonstration table, projection screens, formal Soviet institutional architecture
+    details: Red banners with medical symbols, formal academic seating, bright stage lighting, microphone equipment active
+      during live presentation. Large German Shepherd host animal with dark coat, approximately 4-5 years old, and small mixed-breed
+      donor animal with light brown coat, both prepared for surgical procedure, now being demonstrated live to medical audience.
+      Both heads responding independently to stimuli, demonstrating successful surgical integration
+    background: Tiered audience seating filled with medical professionals, Soviet institutional decor
+    atmosphere: Formal academic setting, hushed audience anticipation, mixture of scientific curiosity and ethical concern,
+      tension between medical breakthrough and moral questions, no text or letters visible
   composition:
-    cameraAngle: Wide shot capturing medical conference and team discussion
-    focus: Research presentation and documentation review emphasizing scientific collaboration
-    depth: Conference table with documentation in foreground, medical team discussion in middle ground, institutional environment
-      in background, no text or letters visible
+    cameraAngle: Medium shot from audience showing stage demonstration
+    focus: Live demonstration of two-headed subject while distinguished medical observers react with mixture of fascination
+      and concern
+    depth: Foreground shows audience members leaning forward, middle ground captures dramatic stage presentation, background
+      reveals institutional setting
 visualElements:
   colorPalette:
     primary:

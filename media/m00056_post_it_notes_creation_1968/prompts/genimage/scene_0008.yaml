@@ -1,37 +1,34 @@
 sceneDescription:
   setting:
-    time: 1975, mid-morning
-    location: Open office area, 3M corporate building, 1970s
-    weather: Bright morning light through large office windows
+    time: 1977, during product development phase
+    location: 3M Central Research Laboratory, St. Paul, Minnesota, USA
+    weather: Indoor laboratory environment
   characters:
-  - appearance: Caucasian man, mid 40s, medium build, receding hairline with dark hair, warm expression with gentle eyes,
-      friendly demeanor
-    clothing: 1970s business casual attire - dress shirt with tie, sometimes cardigan sweater
-    position: Standing at colleague's desk, holding small yellow note
-    action: Writing brief message on small yellow prototype note, sticking it to colleague's desk, demonstrating new communication
-      method with enthusiasm
-  - appearance: Mixed group of Caucasian men and women, ages 25-55, professional appearance typical of 1970s corporate employees
-    clothing: Business attire - men in dress shirts with ties, women in conservative blouses and skirts
-    position: Seated at metal desks throughout office space
-    action: Reading notes attached to their desks and papers, writing responses on similar yellow notes, beginning to use
-      notes for quick communications between workstations
+  - appearance: Caucasian man, mid-career engineer in 1974, described as tinkerer and problem solver who loved building things,
+      practical demeanor
+    clothing: Business casual appropriate for R&D work and church choir participation - dress shirt, slacks, sometimes tie
+      for church events
+    position: Standing at laboratory workbench examining paper samples
+    action: Selecting bright yellow scrap paper from adjacent laboratory for prototype testing
+  - appearance: Additional 3M development team members, mix of scientists and engineers, professional appearance
+    clothing: 1970s business casual and lab coats, professional attire typical of corporate R&D environment
+    position: Gathered around workbench examining different colored paper options
+    action: Evaluating various paper colors and textures for the adhesive note product development
   scene:
-    mainElements: Open office area with metal desks, typewriters, filing cabinets, office supplies, papers, telephones, corporate
-      bulletin boards. Small rectangular pieces of canary yellow paper with experimental adhesive strip along one edge, various
-      sizes and shapes in development phase.
-    details: Multiple small yellow notes stuck to desks, papers, and office equipment, messages being passed between colleagues
-      using the new notes, surprised and delighted expressions on faces of office workers discovering convenience of removable
-      messages, growing collection of yellow notes throughout office space.
-    background: Typical 1970s corporate office environment with rows of desks, filing systems, office equipment, fluorescent
-      lighting, windows showing urban corporate district, busy workplace atmosphere
-    atmosphere: Excitement of discovering unexpected application, sense of innovation spreading organically through office,
-      growing realization that bookmarks have evolved into communication tool, energy of workplace transformation beginning
-      to take shape, no text or letters visible
+    mainElements: Modern industrial research facility, part of 3M's expanded campus, white-walled laboratories with chemical
+      hoods, workbenches with glassware, microscopes, testing equipment
+    details: 3x3 inch square notes in distinctive bright yellow color, selected from available scrap paper in adjacent laboratory,
+      iconic appearance. Various colored paper samples spread across workbench, scissors, adhesive materials, prototype notes
+      in different colors for comparison testing.
+    background: Laboratory shelving with supplies, adjacent workstation with yellow scrap paper stack, fluorescent overhead
+      lighting, typical corporate research environment
+    atmosphere: Sterile, well-lit scientific environment with chemical odors, hum of ventilation systems, collaborative workspace
+      with fluorescent lighting. Moment of practical decision-making that would become iconic design choice.
   composition:
-    cameraAngle: Wide shot showing office space with multiple workers using the new notes
-    focus: Character AF demonstrating note communication while colleagues throughout office begin adopting the method
-    depth: Character and immediate desk area in foreground, multiple office workers with yellow notes in middle ground, broader
-      office environment and windows in background
+    cameraAngle: Medium shot capturing team discussion around workbench with paper samples
+    focus: Team members examining bright yellow paper option among various color choices, highlighting the selection process
+    depth: Foreground shows detailed paper samples and color options, middle ground captures team decision-making process,
+      background reveals laboratory setting, no text or letters visible
 visualElements:
   colorPalette:
     primary:

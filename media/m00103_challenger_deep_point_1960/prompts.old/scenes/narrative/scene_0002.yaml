@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Crew Introduction and Final Briefing"
+  setting:
+    time: "January 23, 1960, morning"
+    location: "USS Wandank (ATF-204) bridge and operations room, Pacific Ocean"
+    weather: "Overcast with moderate Pacific swells"
+  characters:
+    - appearance: "Swiss man, 40s, tall and lean build, intelligent dark eyes, wavy dark hair"
+      clothing: "1960s thick woolen sweater over collared shirt, heavy winter jacket during surface operations"
+      position: "Standing beside technical diagrams and equipment schematics"
+      action: "Explaining bathyscaphe systems and diving procedures with methodical precision"
+    - appearance: "American man, 30s, military bearing, short-cropped hair, alert expression"
+      clothing: "US Navy uniform with lieutenant insignia, or heavy weather gear during operations"
+      position: "Alert military stance near communication equipment"
+      action: "Reviewing safety protocols and emergency procedures with focused attention"
+    - appearance: "Mixed group of men, 20s-50s, various builds, serious expressions"
+      clothing: "1960s naval uniforms, heavy weather jackets, safety gear during operations"
+      position: "Gathered around operations table and monitoring stations"
+      action: "Taking notes and asking technical questions about the historic dive"
+  scene:
+    mainElements: "Military vessel bridge with communication equipment and navigation instruments, large charts and technical schematics spread across operations table, monitoring equipment with analog displays showing ocean conditions"
+    details: "Detailed bathyscaphe blueprints showing cylindrical float tanks and spherical crew cabin, depth charts marking 35,000+ foot target depth, pressure calculations and safety margins visible on technical documents, primitive 1960s communication equipment with vacuum tubes and mechanical switches"
+    background: "Windows showing Pacific Ocean horizon and other support vessels, radio equipment continuously monitoring weather and ocean conditions"
+    atmosphere: "Professional military briefing atmosphere mixed with scientific excitement, gravity of attempting deepest human dive ever, international cooperation between Swiss engineering and US Navy operations, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot focusing on briefing participants and technical materials"
+    focus: "Two main crew members explaining and reviewing dive procedures"
+    depth: "Foreground shows detailed technical documents, middle shows crew interaction, background shows ocean operations environment"

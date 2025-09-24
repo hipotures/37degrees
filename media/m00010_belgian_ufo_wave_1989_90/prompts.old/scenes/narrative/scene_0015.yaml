@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Hoax Confession - Truth Revealed"
+  setting:
+    time: "July 26, 2011, afternoon"
+    location: "Private residence, Belgium"
+    weather: "Clear summer day, indoor interview setting"
+  characters:
+    - appearance: "Belgian man, 50s, somewhat sheepish expression, prepared for confession"
+      clothing: "Casual contemporary clothing - polo shirt, slacks, typical civilian attire"
+      position: "Seated facing interview setup, demonstrating hoax recreation"
+      action: "Demonstrating how the famous photograph was created using simple materials"
+  scene:
+    mainElements: "Domestic setting with hoax materials displayed for demonstration"
+    details: "Triangular styrofoam piece painted black, four small flashlights for corner and center lights, suspended on string, materials used to create the famous hoax photograph now revealed as confession evidence. Original hoax creator demonstrating the simple techniques used to deceive the public for over 20 years. Camera equipment from the original hoax also visible."
+    background: "Ordinary home environment showing the mundane reality behind famous deception"
+    atmosphere: "Revelation of truth undermining decades of mystery and public belief"
+  composition:
+    cameraAngle: "Medium shot showing confession and demonstration of hoax methods"
+    focus: "Hoax creator revealing the simple materials and methods behind famous UFO photograph"
+    depth: "Foreground: confession participant and hoax materials, middle ground: demonstration setup, background: ordinary domestic environment revealing mundane truth, no text or letters visible"

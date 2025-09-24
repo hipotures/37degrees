@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Post-Mission Debrief - Pilots Report Extraordinary Encounter"
+  setting:
+    time: "November 14, 2004, evening"
+    location: "USS Nimitz (CVN-68) briefing room, Pacific Ocean southwest of San Diego, California"
+    weather: "Clear evening conditions at sea"
+  characters:
+    - appearance: "Caucasian man, 40s, athletic build, focused expression, military bearing"
+      clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
+      position: "Standing at briefing podium addressing assembled personnel"
+      action: "Describing close encounter with Tic Tac object using hand gestures to illustrate impossible maneuvers"
+    - appearance: "Caucasian woman, 30s, slender build, determined expression, professional demeanor"
+      clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
+      position: "Seated in briefing room providing corroborating testimony"
+      action: "Confirming details of extraordinary aerial encounter and object capabilities"
+    - appearance: "Caucasian man, 30s, medium build, analytical expression, technical focus"
+      clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
+      position: "At technical station with FLIR equipment"
+      action: "Presenting recorded thermal imaging evidence of Tic Tac object to assembled officers"
+    - appearance: "Military personnel, various ages and builds, professional demeanor"
+      clothing: "Khaki uniforms for officers, blue coveralls for enlisted crew, headsets and communication gear"
+      position: "Seated throughout briefing room listening to extraordinary reports"
+      action: "Taking notes and processing unprecedented testimony about unknown aerial capabilities"
+  scene:
+    mainElements: "Military briefing room with charts, displays, briefing podium, rows of chairs for aircrew, tactical information boards"
+    details: "Black and white thermal imaging display showing white hot object against grey/black sky background, telemetry data overlay showing altitude, speed, and angles, auto-tracking box attempting to maintain target lock displayed on briefing screen. HGU-68/P flight helmet with MBU-20/P oxygen mask, visor reflecting sunlight, communication equipment integrated, protective headgear for high-performance flight operations placed on tables. Serious expressions as military personnel process reports of technology beyond known capabilities."
+    background: "Ship's interior briefing space with fluorescent lighting, naval charts, squadron insignia, and operational displays typical of carrier briefing rooms"
+    atmosphere: "Serious military debriefing environment processing extraordinary testimony, mix of skepticism and concern as personnel attempt to understand implications of unprecedented encounter with unknown technology"
+  composition:
+    cameraAngle: "Wide shot of briefing room showing pilots presenting to assembled military personnel"
+    focus: "Pilots gesturing and explaining extraordinary encounter while FLIR footage displays on briefing screen"
+    depth: "Foreground: seated military personnel taking notes, middle ground: pilots at podium with FLIR display, background: briefing room charts and displays, no text or letters visible"

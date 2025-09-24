@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Bridge Foundation Construction Begins"
+  setting:
+    time: "1884, late morning"
+    location: "Cholut River valley crossing point, Central Java, Indonesia, with Mount Merapi visible in background"
+    weather: "Partly cloudy with humid tropical conditions"
+  characters:
+    - appearance: "Javanese master stonemason, 50s, stocky muscular frame, calloused hands, weathered brown skin, graying black hair"
+      clothing: "Traditional Javanese work shirt, brown sarong-style work pants, bare feet, bamboo hat for sun protection"
+      position: "Standing waist-deep in river directing foundation stone placement"
+      action: "Guiding workers in precise positioning of volcanic stone blocks for bridge foundation"
+    - appearance: "Dutch engineer, 40s, tall sturdy build, weathered face from tropical climate, brown hair with receding hairline, wire-rim spectacles"
+      clothing: "White colonial linen shirt with rolled sleeves, brown canvas trousers, leather work boots, pith helmet nearby"
+      position: "Standing on riverbank with surveying instruments"
+      action: "Checking foundation alignment and elevation using brass theodolite and measuring chains"
+  scene:
+    mainElements: "River construction site with foundation stones being placed, wooden scaffolding, pulleys and ropes, work crews moving materials"
+    details: "Large volcanic stone blocks being lowered into position, wooden cofferdam structure diverting water flow, brass surveying equipment on wooden tripod, measuring chains stretched across construction site, rope and pulley systems, workers with hand tools"
+    background: "Wide rushing river with rocky banks, dense tropical vegetation, Mount Merapi volcano looming with thin plume of steam, construction materials staged on riverbank"
+    atmosphere: "Industrious construction activity with sounds of stone on stone, rushing water, and coordinated teamwork, engineering precision meeting natural challenges"
+  composition:
+    cameraAngle: "Wide shot from elevated riverbank position"
+    focus: "Foundation construction activity in river with Mount Merapi as dramatic backdrop"
+    depth: "Construction work in foreground, workers and equipment in middle ground, volcanic landscape extending to horizon, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Stability Test - Dangerous Rocking Motion"
+  setting:
+    time: "1628, summer"
+    location: "Vasa warship docked in Stockholm harbor during testing"
+    weather: "Calm summer day with light breeze"
+  characters:
+    - appearance: "Swedish man, 45, naval officer bearing, weathered sea captain face, serious expression"
+      clothing: "Swedish naval uniform with officer insignia, ceremonial sword, naval hat"
+      position: "Standing on ship deck observing dangerous test"
+      action: "Naval authority, raising hand to stop test as ship tilts dangerously"
+  scene:
+    mainElements: "Thirty men running across upper deck causing alarming ship movement, test being stopped after only three runs"
+    details: "Groups of sailors running in formation across ship's upper deck, Vasa tilting dramatically to one side under human movement, ship rocking with dangerous instability, test being halted immediately, sailors looking concerned at ship's response, dock workers watching with alarm, ropes and rigging swaying with excessive movement"
+    background: "Stockholm harbor with stable ships for comparison, royal docks and maritime infrastructure, summer sky over concerning stability demonstration"
+    atmosphere: "Growing alarm about ship's dangerous instability, professional naval concern overriding royal pressure, clear engineering failure demonstrated, warning signs being ignored, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing dramatic ship instability during test"
+    focus: "Dangerous tilting motion revealing fatal design flaw"
+    depth: "Tilting ship and crew in foreground, harbor docks in middle ground, Stockholm waterfront in background"

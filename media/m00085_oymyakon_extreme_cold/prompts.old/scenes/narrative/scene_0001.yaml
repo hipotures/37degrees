@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Monument to extreme cold in the heart of Oymyakon village"
+  setting:
+    time: "January 1924, midday with pale winter sun"
+    location: "Central area of Oymyakon village, Sakha Republic, Russia, surrounded by the Yana-Oymyakon Highlands"
+    weather: "Extreme cold at -71.2°C, crystal clear air with visible breath vapor"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Monument displaying temperature record of -71.2°C, small cluster of wooden buildings with steep roofs, main road"
+    details: "Stone monument stands prominently in village center, displaying the record-breaking temperature that would make this location famous. Snow-covered wooden houses with characteristic steep roofs designed for heavy snow loads surround the monument. Smoke rises from multiple chimneys indicating active heating. Power lines and basic infrastructure visible despite remote location. The main road through village shows packed snow from regular use."
+    background: "Vast taiga landscape extending beyond village boundaries, snow-laden evergreen forest stretching to distant mountains, endless white expanse under pale Arctic sky"
+    atmosphere: "Stark beauty of extreme cold environment, sense of human determination against nature's harshest conditions"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position"
+    focus: "Temperature monument as central landmark with village spread around it"
+    depth: "Monument in foreground, village buildings in middle ground, endless Siberian wilderness in background, no text or letters visible"

@@ -1,0 +1,73 @@
+canon:
+  characters:
+    - id: "character_GA"
+      name: "Character GA"
+      description_block: |
+        characters:
+          - appearance: "Swedish man, 34, tall imposing royal bearing, blonde hair, regal mustache"
+            clothing: "17th century royal Swedish military attire with golden embroidery, ceremonial sword, crown or royal hat"
+            posture: "Commanding royal presence, often pointing at ship plans or issuing royal commands"
+    - id: "character_HH"
+      name: "Character HH"
+      description_block: |
+        characters:
+          - appearance: "Dutch man, 50s, master shipwright bearing, skilled craftsman hands, concerned expression"
+            clothing: "17th century master craftsman attire with leather apron, tools at belt"
+            posture: "Craftsman expertise, often studying ship designs or examining construction details"
+    - id: "character_SF"
+      name: "Character SF"
+      description_block: |
+        characters:
+          - appearance: "Swedish man, 45, naval officer bearing, weathered sea captain face, serious expression"
+            clothing: "Swedish naval uniform with officer insignia, ceremonial sword, naval hat"
+            posture: "Naval authority, often consulting maritime charts or directing ship operations"
+    - id: "character_SC"
+      name: "Character SC"
+      description_block: |
+        characters:
+          - appearance: "Swedish man, 35, experienced sea captain appearance, confident bearing"
+            clothing: "17th century ship captain uniform with brass buttons, navigation instruments"
+            posture: "Maritime expertise, often at ship's wheel or studying wind conditions"
+  locations:
+    - id: "stockholm_harbor"
+      name: "Stockholm Harbor"
+      description_block: |
+        setting:
+          location: "Royal naval harbor in Stockholm, Sweden, 1628"
+        mainElements: "Protected harbor waters with royal docks, stone quays, maritime infrastructure"
+        atmosphere: "Busy royal naval base with ceremonial launch preparations and crowd gathering"
+    - id: "vasa_shipyard"
+      name: "Royal Shipyard"
+      description_block: |
+        setting:
+          location: "Royal shipyard construction site in Stockholm"
+        mainElements: "Massive wooden warship under construction, scaffolding, construction equipment"
+        atmosphere: "Industrial maritime construction site with royal supervision and urgent deadline pressure"
+    - id: "stockholm_waterfront"
+      name: "Stockholm Waterfront"
+      description_block: |
+        setting:
+          location: "Stone quays and waterfront area of Stockholm harbor"
+        mainElements: "Stone harbor walls, royal viewing areas, crowds of spectators"
+        atmosphere: "Royal ceremony location with hundreds of Stockholm citizens watching ship launch"
+  items:
+    - id: "vasa_warship"
+      name: "Vasa Royal Warship"
+      description_block: |
+        details: "Massive Swedish warship with ornate carvings, golden decorations, two gun decks, 64 cannons, elaborate royal sculptures"
+    - id: "ship_cannons"
+      name: "Naval Artillery"
+      description_block: |
+        details: "64 bronze cannons including 48 powerful 24-pound guns positioned on two gun decks"
+    - id: "royal_sculptures"
+      name: "Ornate Ship Decorations"
+      description_block: |
+        details: "Elaborate carved wooden sculptures with golden paint, royal Swedish symbols, lion figures on ship's prow"
+    - id: "construction_plans"
+      name: "Ship Design Documents"
+      description_block: |
+        details: "Detailed shipwright plans and royal specifications, measurement charts, construction drawings"
+    - id: "rescue_boats"
+      name: "Harbor Rescue Vessels"
+      description_block: |
+        details: "Small wooden boats with crews attempting rescue operations, ropes and emergency equipment"

@@ -1,37 +1,31 @@
 sceneDescription:
   setting:
-    time: 1386, morning
-    location: Stone courtroom chamber, Falaise castle, Normandy, France
-    weather: Cold clear morning with winter sunlight
+    time: January 9, 1386, afternoon
+    location: Courthouse of Falaise - Stone building with thick walls and small windows, typical of medieval administrative
+      architecture, Falaise, Normandy
+    weather: Cold interior warmed by braziers
   characters:
-  - appearance: Middle-aged man, 50s, stern expression, graying beard, authoritative presence
-    clothing: Black judicial robes with white collar, medieval cap of office, ceremonial chain
-    position: Seated at elevated wooden judge's bench, arranging court documents
-    action: Reviewing legal precedents and case papers, occasionally looking up to oversee preparations
-  - appearance: Young man, 30s, scholarly appearance, intelligent eyes, clean-shaven
-    clothing: Brown scholar's robes, leather belt, ink-stained fingers from writing
-    position: Standing at defendant's table, organizing defense materials
-    action: Studying legal texts and preparing arguments, quill in hand taking notes
-  - appearance: Stocky man, 35s, alert expression, watchful eyes, short beard
-    clothing: Court livery in red and gold, leather belt with keys, staff of office
-    position: Standing near courtroom entrance, supervising arrangements
-    action: Directing court preparation, checking security arrangements and seating
+  - appearance: Scholarly man in his 30s, clean-shaven with ink-stained fingers
+    clothing: Long black robe with fur trim indicating his legal status, simple cap
+    position: Standing at prosecution table gesturing emphatically
+    action: Presenting evidence with serious determination
+  - appearance: Middle-aged man, weathered face from manual labor, stocky build typical of a medieval mason
+    clothing: Simple woolen tunic, leather apron stained with mortar and stone dust, wooden clogs
+    position: Grief-stricken father, shoulders hunched in mourning, eyes red from weeping
+    action: Standing solemnly watching legal proceedings
   scene:
-    mainElements: High stone walls with arched windows, wooden judge's bench elevated on platform, defendant's area with wooden
-      barrier
-    details: Parchment scrolls with official seals arranged on judge's bench, wooden chairs and benches for court officials
-      and witnesses, iron braziers providing warmth and light, stone floor covered with rushes, heavy wooden door with iron
-      hinges, coat of arms carved into stone above judge's seat, special wooden enclosure being constructed for animal defendant
-    background: Tall arched windows letting in winter morning light, stone walls with tapestries bearing heraldic symbols,
-      gallery area for court observers
-    atmosphere: Solemn and intimidating preparation for unprecedented legal proceeding, cold stone surfaces reflecting medieval
-      authority, morning light creating dramatic shadows and highlighting official regalia, sense of gravity surrounding animal
-      trial, no text or letters visible
+    mainElements: Formal legal scrolls and parchments recording testimony and verdict, following standard medieval court procedure
+      applied to animal defendant, prosecution lawyer addressing the court
+    details: Stone courtroom with wooden benches, flickering candles providing light, quill pens and ink wells on tables,
+      rolled scrolls tied with ribbons, wax seals on documents, brazier glowing with coals, pig visible in defendant's area,
+      no text or letters visible
+    background: Court observers including clergy and town officials watching intently
+    atmosphere: Intense legal drama as prosecution builds case against the animal, formal medieval justice system in full
+      operation
   composition:
-    cameraAngle: Wide shot from back of courtroom looking toward judge's bench
-    focus: Judge's elevated position as center of authority, preparation activities throughout room
-    depth: Foreground shows defendant area preparation, middle ground captures court officials, background emphasizes architectural
-      grandeur and judge's bench
+    cameraAngle: Medium shot focusing on prosecution lawyer presenting his case
+    focus: The lawyer's passionate presentation of evidence against the pig
+    depth: Foreground shows lawyer's gestures, middle ground contains legal documents, background reveals courtroom audience
 visualElements:
   colorPalette:
     primary:

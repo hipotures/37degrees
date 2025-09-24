@@ -1,28 +1,28 @@
 sceneDescription:
   setting:
-    time: 1690s, late afternoon
-    location: Large kitchen in English manor house, England, late 17th century
-    weather: Autumn afternoon with golden light
+    time: 1728-1730, afternoon
+    location: Commercial kitchen in English countryside
+    weather: Autumn day with cool temperatures perfect for preservation work
   characters:
-  - appearance: English woman, 50s, round face, graying hair under white cap, sturdy build from kitchen work
-    clothing: Brown wool dress with white apron, linen cap, sturdy leather shoes
-    position: At wooden preparation table with mushrooms and herbs
-    action: Creating English adaptation of Asian fish sauce using local mushrooms, walnuts, and anchovies instead of fermented
-      fish
+  - appearance: Robust English woman in her 40s, flour-dusted apron, strong arms from kitchen work, alert expression
+    clothing: 18th century kitchen attire - wool dress, white apron, cap covering hair, practical shoes
+    position: Standing at preparation table working with mushrooms
+    action: Industrious and experimental, testing new recipes with mushrooms and various ingredients
   scene:
-    mainElements: Stone fireplace with hanging pots, wooden preparation tables, shelves of ceramic jars, herbs hanging from
-      beams
-    details: Fresh mushrooms being chopped on wooden board, ceramic mortar and pestle grinding spices, small anchovies and
-      walnuts being prepared, copper pots simmering dark sauce, various English ingredients adapting Asian flavor principles
-    background: Traditional English kitchen with stone walls, autumn light through windows, other servants preparing food,
-      pantry stocked with local ingredients
-    atmosphere: Creative adaptation of foreign culinary concepts using familiar English ingredients, cultural transformation
-      of Asian fish sauce into European mushroom ketchup, innovative cooking, no text or letters visible
+    mainElements: Large wooden tables covered with various mushroom varieties, multiple glass bottles filled with dark brown
+      liquid, commercial-scale cooking equipment
+    details: Dark glass bottles with cork stoppers containing thick brown-black liquid, hand-written paper labels, wax seals
+      around corks, various types of fresh mushrooms sorted in wooden baskets, stone mortars for grinding, straining cloths,
+      large copper pots for cooking, wooden stirring spoons, measuring vessels
+    background: Large stone kitchen with massive fireplace, wooden preparation tables, ceramic storage jars, hanging meat,
+      herb bundles, brick bread ovens, stone walls with shelving for bottle storage
+    atmosphere: Rich umami aroma of mushroom ketchup production, warm from cooking fires, sounds of chopping and stirring,
+      bottles clinking as they're filled and sealed, no text or letters visible
   composition:
-    cameraAngle: Close-up shot showing detailed adaptation process
-    focus: English cook creating local version of Asian sauce concept
-    depth: Foreground shows detailed ingredient preparation, middle ground features cooking environment, background shows
-      traditional English kitchen setting
+    cameraAngle: Medium shot showing organized mushroom ketchup production process
+    focus: English cook filling and sealing bottles of finished mushroom ketchup with completed products displayed
+    depth: Foreground shows finished bottles of mushroom ketchup with seals and labels, middle ground reveals cook at work
+      with mushroom preparation, background shows commercial kitchen operation
 visualElements:
   colorPalette:
     primary:

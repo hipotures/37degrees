@@ -1,106 +1,79 @@
 sceneDescription:
   setting:
-    time: 2008, 3:17 AM
-    location: Modern suburban bedroom, middle-class home interior
-    weather: Clear night with distant streetlight illumination
+    time: 2400 BC, deep nighttime hours
+    location: Ancient Mesopotamian settlement, inside primitive dwelling with stone walls
+    weather: Clear night with stars visible through window opening
   characters:
-  - appearance: Adult in 30s-40s, tense facial expression with eyes wide with fear or confusion
-    clothing: Nightclothes, pajamas, or sleeping attire
-    position: In bed or sitting on edge of bed, body rigid with paralysis
-    action: Experiencing sleep paralysis, attempting to move but unable, eyes fixed on shadow figure
-  - appearance: Tall dark silhouette, 8-10 feet in height, completely featureless black form with no visible face or limbs
-    clothing: Wide-brimmed fedora hat and long dark coat or trench coat, both appearing as solid black shadow
-    position: Standing upright, often positioned in doorways, corners, or beside beds
-    action: Motionless watching presence, occasionally seen moving with fluid gliding motion
+  - appearance: Adult Mesopotamian figure, weathered face from harsh desert life, concerned expression, traditional ancient
+      attire
+    clothing: Simple woven robes typical of ancient Mesopotamia, earth-toned fabric, rope belt
+    position: Lying on simple straw bedding, body rigid with fear
+    action: Eyes wide open in terror, unable to move, staring at corner of room
   scene:
-    mainElements: Single or double bed with standard bedding, bedside table with lamp, dresser, window with curtains
-    details: LED digital clock displaying late night time between 2:00 AM and 4:00 AM, casting dim red or green glow. Standard
-      interior doorway leading to hallway, partially open or fully open, creating rectangular frame of darkness where Hat
-      Man typically appears. Person lying in bed experiencing complete physical paralysis while fully conscious and aware.
-    background: Bedroom walls with family photos, closed closet door, window showing dark neighborhood outside with single
-      streetlight visible
-    atmosphere: Dimly lit by streetlight filtering through window, shadows creating ominous corners and doorway silhouettes.
-      Overwhelming sense of dread and helplessness, complete silence except for witness's racing heartbeat
+    mainElements: Primitive stone dwelling interior with oil lamp casting flickering shadows, simple bedding made of straw
+      and animal hide, clay vessels and basic household items, doorway leading to darkness
+    details: Single oil lamp provides minimal light, creating deep shadows in corners and doorway. Stone walls are rough-hewn,
+      floor is packed earth. Simple clay water jug and grain storage vessels line one wall. Woven basket contains daily necessities.
+      Opening in wall serves as window, showing starlit night outside
+    background: Stone walls of ancient dwelling, darkness beyond doorway suggesting continuation of settlement, night sky
+      visible through window opening with ancient constellations
+    atmosphere: Oppressive darkness filled with primal fear, ancient terror that predates written history, sense of malevolent
+      presence that humans have feared since dawn of civilization, heavy silence broken only by oil lamp's flickering, no
+      text or letters visible
   composition:
-    cameraAngle: Medium shot from foot of bed perspective
-    focus: Hat Man figure standing in doorway watching paralyzed person in bed
-    depth: 'Foreground: edge of bed and covers, middle: paralyzed witness staring, background: tall Hat Man silhouette filling
-      doorway frame, no text or letters visible'
+    cameraAngle: Medium shot from foot of primitive bed, looking toward terrified figure and shadowy corner
+    focus: Ancient person's terrified face illuminated by oil lamp, with ominous shadows in background corner
+    depth: Foreground shows primitive bedding and clay lamp, middle ground centers on frightened ancient figure, background
+      reveals deep shadows where something dark might lurk
 visualElements:
   colorPalette:
     primary:
-    - deep black
-    - pearl white
-    - charcoal gray
-    - silver gray
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - shadow black
-    - highlight white
-    background: dim interior gray with deep shadows
-    usageNotes: True monochrome only, no color information whatsoever
-    saturation: none (pure grayscale)
-    contrast: high (strong blacks and whites with limited midtones)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: photographic realism, no drawn outlines
-    weight: none (photographic approach)
-    color: none
-    texture: film grain micro-contrast creates edge definition
-    edgeTreatment: natural photographic edges
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: low-key tungsten practical or Fresnel spot
-    direction: single source from above or 30-60 degrees off axis
-    intensity: high contrast with key to fill ratio approximately 8:1
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: hard-edged dramatic shadows
-      color: deep black
-      opacity: 90-95%
-      offset: sharp and directional based on single light source
-    highlights: narrow rim light +0.5 to +1 EV for edge separation
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: photographic black and white film aesthetic
-    texture: visible film grain, worn surfaces, fabric textures
-    detailLevel: high in lit areas, obscured in shadows
-    finish: matte film print quality
-    printEffects: selenium toning for slight warm-cool split
-  perspective:
-    type: rectilinear standard lens perspective
-    vanishingPoints: natural perspective, no distortion
-    distortion: minimal, true to lens focal length
-    depth: shallow depth of field at f/2.8-4
-  composition:
-    layout: tight interior framing with little headroom
-    hierarchy: light draws attention to key elements
-    gridSystem: rule of thirds composition
-    whitespace: filled with dark shadows and negative space
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: dramatic, mysterious, tense
-    emotion: paranoia, desire, danger
-    tempo: static but charged with tension
-    energy: suppressed, coiled
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - noir atmosphere
-    - urban decay
-    - moral ambiguity
-    - femme fatale
-    - hard-boiled
-    - venetian blind shadows
-  symbolism:
-    common:
-    - venetian blind light patterns
-    - cigarette smoke
-    - rain on windows
-    - mirror reflections
-    figures:
-    - detective in fedora
-    - woman in evening dress
-    - shadowy figure in doorway
-    abstract:
-    - light versus dark moral conflicts
-    - urban isolation
-    architectural:
-    - narrow corridors
-    - dimly lit offices
-    - seedy hotel rooms
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

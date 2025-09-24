@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Rapatronic Camera Array Installation"
+  setting:
+    time: "1951, afternoon"
+    location: "Nevada Test Site, remote desert location 65 miles northwest of Las Vegas, Nevada"
+    weather: "Hot desert afternoon with clear skies"
+  characters:
+    - appearance: "Caucasian man, 50s, medium build, intelligent eyes behind wire-rimmed glasses, receding hairline with graying hair"
+      clothing: "1950s white lab coat over dark suit, or casual work clothes with rolled sleeves"
+      position: "Standing behind primary camera checking alignment toward test tower"
+      action: "Adjusting camera positioning and verifying precise angular alignment for optimal nuclear explosion photography"
+    - appearance: "Caucasian man, 20s-30s, focused expression, practical appearance"
+      clothing: "1950s work coveralls or casual shirt with protective equipment when needed"
+      position: "Crouched beside secondary camera installing electrical connections"
+      action: "Connecting timing control cables between cameras and central control system"
+  scene:
+    mainElements: "Vast desert landscape with mountains in distance, concrete observation bunkers, steel towers"
+    details: "Multiple rapatronic cameras mounted on steel framework, sequential timing arrangement, heavy-duty tripods, electrical cables connecting each unit to central control, precision positioning equipment for exact angular measurements, protective covers for sensitive optical components, test tower visible in distance, measuring stakes marking camera positions, no text or letters visible"
+    background: "Desert floor with sparse vegetation, distant mountain ranges, nuclear test infrastructure"
+    atmosphere: "Isolated and barren, harsh desert conditions, sense of scientific importance and danger"
+  composition:
+    cameraAngle: "Medium wide shot showing camera array installation in progress"
+    focus: "Camera array with technicians making final positioning adjustments"
+    depth: "Camera equipment and personnel in foreground, test structures in middle distance, desert horizon in background"

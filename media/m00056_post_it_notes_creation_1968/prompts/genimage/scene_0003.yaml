@@ -1,38 +1,31 @@
 sceneDescription:
   setting:
-    time: 1969, morning
-    location: Corporate conference room, 3M headquarters, St. Paul, Minnesota
-    weather: Bright morning light streaming through large conference room windows
+    time: 1968, late afternoon following discovery
+    location: 3M Central Research Laboratory, St. Paul, Minnesota, USA
+    weather: Controlled indoor laboratory environment
   characters:
-  - appearance: Caucasian man, early 30s, average height, dark brown hair neatly parted, intelligent brown eyes behind thick-rimmed
-      glasses, clean-shaven with serious expression
-    clothing: 1960s white laboratory coat over dark dress shirt and narrow tie
-    position: Standing at front of conference room beside presentation easel
-    action: Demonstrating adhesive properties by peeling paper samples apart and reattaching them, gesturing enthusiastically
-      while explaining the unique characteristics to seated colleagues
-  - appearance: Mixed group of Caucasian men and women, ages 25-55, professional appearance typical of 1960s-70s corporate
-      employees
-    clothing: Business attire - men in dark suits with ties, women in conservative dresses or blouses with skirts
-    position: Seated around long wooden conference table
-    action: Listening with expressions of polite skepticism, some leaning back in chairs, others taking notes, a few exchanging
-      doubtful glances with each other
+  - appearance: Caucasian man, 27 years old in 1968, methodical scientist with curious nature, earned reputation for thoroughness,
+      slender build, intelligent eyes
+    clothing: Standard 1960s laboratory attire - white lab coat over business shirt and tie, safety glasses when handling
+      chemicals
+    position: Seated at microscope station, leaning forward with eye pressed to eyepiece
+    action: Adjusting microscope focus and examining sample of the unexpected adhesive substance on glass slide
   scene:
-    mainElements: Long wooden conference table, leather chairs, projection screen, corporate charts on walls, fluorescent
-      lighting. Charts, graphs, typed reports, and demonstration samples used in business presentations, manila folders, corporate
-      letterhead documents.
-    details: Multiple adhesive samples and test papers spread across table, demonstration materials showing weak adhesive
-      properties, coffee cups and notepads scattered around table, wall charts showing research progress, overhead projector
-      ready for use, formal corporate setting with professional atmosphere.
-    background: Corporate office environment with large windows, filing cabinets, company logos and achievement plaques on
-      walls, view of other office buildings through windows
-    atmosphere: Professional tension between innovation and practicality, sense of having to justify an unusual discovery,
-      corporate decision-making environment where new ideas face scrutiny, polite but unconvinced audience reaction, no text
-      or letters visible
+    mainElements: Modern industrial research facility, part of 3M's expanded campus, white-walled laboratories with chemical
+      hoods, workbenches with glassware, microscopes, testing equipment
+    details: Clear acrylic substance containing tiny spheres that sparkled in the light, low-tack adhesive made of microspheres,
+      sticks lightly but removes cleanly without residue. Professional microscope with adjustment knobs, glass slides with
+      adhesive samples, laboratory lighting creating sparkle effect in the substance, notebook open for recording observations.
+    background: Laboratory benches with additional equipment, chemical storage areas, fluorescent overhead lighting, other
+      scientific instruments
+    atmosphere: Sterile, well-lit scientific environment with chemical odors, hum of ventilation systems, collaborative workspace
+      with fluorescent lighting. Atmosphere of scientific curiosity and careful observation as unexpected discovery is analyzed.
   composition:
-    cameraAngle: Wide shot from corner of room showing both presenter and audience
-    focus: Character SS demonstrating adhesive while colleagues observe with skeptical expressions
-    depth: Conference table and seated colleagues in foreground, presenter and demonstration materials in middle ground, corporate
-      conference room elements in background
+    cameraAngle: Side angle shot showing scientist at microscope from profile
+    focus: Character SS bent over microscope examining the sparkling adhesive sample, showing concentration and scientific
+      investigation
+    depth: Foreground features microscope and glass slides with sample, middle ground shows scientist in detailed examination,
+      background reveals laboratory setting, no text or letters visible
 visualElements:
   colorPalette:
     primary:

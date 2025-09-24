@@ -1,29 +1,23 @@
 sceneDescription:
   setting:
-    time: 1935, theoretical timeless moment
-    location: Interior of experimental box during quantum superposition
-    weather: Controlled laboratory environment inside sealed container
-  characters:
-  - appearance: Domestic cat, healthy adult, medium-sized, typical tabby or solid-colored fur
-    clothing: Natural cat fur, no artificial clothing or accessories
-    position: Positioned in center of box interior, in an ambiguous state between motion and stillness
-    action: Sitting in an alert but relaxed posture, ears perked and eyes bright, surrounded by the detection apparatus
+    time: Theoretical quantum superposition time
+    location: Inside the sealed steel chamber, claustrophobic environment
+    weather: Controlled internal environment
+  characters: No characters present in this scene
   scene:
-    mainElements: Interior of sealed wooden box showing the quantum mechanics apparatus and cat together
-    details: 1930s Geiger-Müller counter with cylindrical detection tube, electrical wiring, and analog meter display typical
-      of early radiation detection equipment mounted inside box. Small glass laboratory flask with cork stopper, containing
-      liquid, attached to mechanical hammer mechanism for breaking positioned above cat. Small sample of radioactive material
-      in protective lead-lined container, 1930s laboratory standard for physics experiments. Mechanical connections between
-      radiation detector and poison release mechanism.
-    background: Interior walls of experimental box with mounting brackets for scientific equipment, electrical wiring visible
-      along edges
-    atmosphere: Mysterious suspended moment representing quantum superposition, neither fully active nor inactive, emphasizing
-      the paradoxical nature of the thought experiment.
+    mainElements: Ordinary house cat with black and white markings sitting alertly inside sealed chamber, surrounded by scientific
+      apparatus
+    details: The cat subject - medium size house cat with distinctive black and white markings, alert posture, bright eyes
+      looking directly forward. Small glass vial containing lethal substance positioned nearby, fragile construction designed
+      for easy breaking. Hammer mechanism visible but not triggered, radioactive sample in protective housing positioned strategically
+    background: Interior walls of steel chamber, sterile metallic surfaces reflecting artificial lighting
+    atmosphere: Confined space creating tension, artificial lighting creating dramatic shadows, sense of anticipation and
+      quantum uncertainty
   composition:
-    cameraAngle: Interior view as if box is opened from above
-    focus: Cat positioned among the quantum detection apparatus inside the sealed space
-    depth: Foreground shows interior floor of box with cat, middle ground features detection equipment, background shows interior
-      walls and mounting hardware, no text or letters visible
+    cameraAngle: Close-up shot from cat's eye level inside the chamber
+    focus: The alert cat as central subject representing macroscopic quantum superposition
+    depth: Foreground features the attentive cat with bright eyes, middle ground shows the lethal apparatus components, background
+      displays the confining steel chamber walls, no text or letters visible
 visualElements:
   colorPalette:
     primary:

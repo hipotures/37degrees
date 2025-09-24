@@ -1,33 +1,33 @@
 sceneDescription:
   setting:
-    time: 1884, early morning
-    location: Cholut River valley crossing point, Central Java, Indonesia, with Mount Merapi visible in background
-    weather: Clear tropical dawn with light volcanic ash haze in distance
+    time: February 1884, mid-morning tropical daylight
+    location: Steep volcanic valley with rocky terrain, crossed by seasonal volcanic drainage channel near Mount Merapi slopes
+    weather: Hot and humid tropical climate with occasional volcanic ash in air
   characters:
-  - appearance: Dutch engineer, 40s, tall sturdy build, weathered face from tropical climate, brown hair with receding hairline,
-      wire-rim spectacles
-    clothing: White colonial linen shirt with rolled sleeves, brown canvas trousers, leather work boots, pith helmet nearby
-    position: Standing on elevated rocky outcrop overlooking river crossing
-    action: Studying terrain through surveying telescope while making notes in leather-bound journal
-  - appearance: Local Javanese guide, 30s, lean athletic build, dark skin tanned by sun, keen intelligent eyes, quick movements
-    clothing: Simple brown cotton shirt, traditional batik sarong, woven sandals, conical bamboo hat
-    position: Crouched beside engineer pointing toward volcanic slopes
-    action: Gesturing toward Mount Merapi while explaining volcanic patterns and seasonal water flow
+  - appearance: 32-year-old Dutch man, tall and lean, meticulous appearance, wire-rimmed spectacles
+    clothing: Colonial survey uniform, khaki shirt and trousers, survey equipment belt, sturdy walking boots
+    position: Standing on elevated rocky outcrop, looking through surveying instrument
+    action: Taking precise measurements of valley dimensions and noting elevations in leather journal
+  - appearance: 38-year-old Javanese man, strong build from physical labor, dark hair, intelligent eyes
+    clothing: Traditional Javanese work clothes, sarong-style lower garment, light cotton shirt, barefoot for better grip
+      on volcanic rock
+    position: Pointing toward different sections of the valley below
+    action: Gesturing expressively while explaining local knowledge of seasonal water flows and volcanic patterns
   scene:
-    mainElements: Wide rushing river with rocky banks, dense tropical vegetation, volcanic rock formations, planned bridge
-      construction site marked with wooden stakes
-    details: Brass surveying equipment on wooden tripod positioned near river edge, scattered volcanic stone samples collected
-      for testing, hand-drawn maps weighted down with stones, wooden measuring chains extended across terrain, morning mist
-      rising from warm river water
-    background: Mount Merapi volcano looming majestically with thin plume of steam, terraced rice fields on distant hillsides,
-      tropical forest canopy, colonial settlement visible as small structures in valley below
-    atmosphere: Humid tropical morning air with sounds of rushing water and distant bird calls, sense of engineering challenge
-      against powerful natural forces, anticipation of innovative construction project
+    mainElements: Wide volcanic valley with steep rocky walls, seasonal drainage channel flowing through center, scattered
+      volcanic boulders and exposed lava rock formations
+    details: Brass theodolite, measuring chains, compass, leveling instruments typical of Dutch colonial engineering, precisely
+      calibrated instruments in wooden carrying cases, brass fittings showing tropical patina. Tropical vegetation clinging
+      to valley walls, evidence of previous volcanic flows in rock formations, natural crossing point where valley narrows
+    background: Mount Merapi volcano visible in distance with steam rising from crater, dense tropical forest covering lower
+      mountain slopes, terraced agricultural fields on safer distant hillsides
+    atmosphere: Humid tropical heat with occasional sulfur smell from volcanic gases, sounds of flowing water echoing through
+      valley, distant rumbling from mountain, sense of engineering challenge and natural power, no text or letters visible
   composition:
-    cameraAngle: Wide elevated shot from hillside vantage point
-    focus: Engineer and guide examining terrain with Mount Merapi dominating background
-    depth: River crossing site in foreground, surveying team in middle ground, volcanic mountain landscape extending to horizon,
-      no text or letters visible
+    cameraAngle: High angle overlooking valley from surveyor's position on rocky outcrop
+    focus: Surveying instruments and the two men examining the challenging terrain that must be bridged
+    depth: Foreground shows surveying equipment and characters, middle ground reveals full valley span requiring bridge, background
+      displays imposing volcanic mountain as source of engineering challenges
 visualElements:
   colorPalette:
     primary:

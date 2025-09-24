@@ -1,26 +1,22 @@
 sceneDescription:
   setting:
-    time: September 5, 1628, afternoon
-    location: Royal court chamber in Stockholm palace
-    weather: Autumn day with somber atmosphere
-  characters:
-  - appearance: Swedish man, 45, naval officer bearing, weathered sea captain face, serious expression
-    clothing: Swedish naval uniform with officer insignia, ceremonial sword, naval hat
-    position: Standing before royal tribunal
-    action: Naval authority, testifying before court about ship's design problems and instability
+    time: August 10, 1628, 16:40
+    location: Stockholm Harbor 32 meters depth near Tegelviken bay, Sweden
+    weather: Clear summer afternoon, winds calming after the disaster
+  characters: No characters present in this scene
   scene:
-    mainElements: Formal royal court session investigating Vasa disaster with officials and witnesses
-    details: Royal tribunal chamber with judges and court officials, witness testimony about ship design flaws and stability
-      problems, detailed shipwright plans and royal specifications being examined as evidence, official court records being
-      taken, formal investigation into engineering failure and royal project management
-    background: Swedish royal court interior with formal judicial setting, royal symbols and official atmosphere, autumn light
-      through palace windows
-    atmosphere: Official investigation finding no individual to blame for disaster, royal authority confronting engineering
-      reality, political pressure and technical expertise in conflict, historical accountability, no text or letters visible
+    mainElements: Seabed 32 meters below Stockholm Harbor surface, Baltic Sea
+    details: Royal warship Vasa completely submerged and settling on harbor bottom, only tops of three mainmasts visible above
+      water surface marking disaster site, ship's hull resting on port side in soft mud and sediment, scattered floating debris
+      including wooden barrels and rope, rescue boats continuing to search for survivors in calm harbor water, Stockholm's
+      waterfront lined with shocked spectators, church bells tolling across the city, no text or letters visible
+    background: Dark underwater environment, cold currents, eerie silence broken only by diving equipment
+    atmosphere: Dark underwater environment, cold currents, eerie silence broken only by diving equipment
   composition:
-    cameraAngle: Medium shot showing formal court proceedings
-    focus: Official investigation into causes of maritime disaster
-    depth: Court testimony in foreground, royal tribunal in middle ground, formal palace setting in background
+    cameraAngle: Split view showing mast tops above and sunken hull below water
+    focus: Final resting place of Sweden's most expensive warship disaster
+    depth: Submerged ship hull on seabed in foreground, water column in middle ground, mast tops and rescue boats on surface
+      in background, no text or letters visible
 visualElements:
   colorPalette:
     primary:

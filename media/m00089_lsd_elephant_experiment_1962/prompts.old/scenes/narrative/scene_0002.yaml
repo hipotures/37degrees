@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Oklahoma City Zoo Administrative Discussion"
+  setting:
+    time: "August 2, 1962, early afternoon"
+    location: "Oklahoma City Zoo administrative office building, wood-paneled interior"
+    weather: "Hot summer afternoon, bright sunlight streaming through windows"
+  characters:
+    - appearance: "Caucasian man, 50s, tall and lean, graying hair, mustache, weathered face"
+      clothing: "1960s khaki zoo uniform with name badge, or casual shirt with rolled sleeves"
+      position: "Sitting behind wooden desk with animal photographs on wall behind him"
+      action: "Reviewing official documents and permits while speaking with visitors"
+    - appearance: "Caucasian man, 40s, medium build, receding dark hair, serious expression, wire-rimmed glasses"
+      clothing: "1960s white lab coat over dark suit and tie, or gray flannel suit with narrow tie"
+      position: "Seated across from desk, leaning forward in discussion"
+      action: "Presenting research proposal documents and explaining experimental procedure"
+    - appearance: "African American man, 30s, stocky build, kind face, concerned expression"
+      clothing: "1960s white lab coat over dark sweater vest and tie, or tan suit jacket"
+      position: "Standing beside seated colleague, holding folder of papers"
+      action: "Observing conversation while occasionally consulting notes in folder"
+  scene:
+    mainElements: "Wooden desk, filing cabinets, animal photographs on walls, large windows showing zoo grounds, official permits and documents spread on desk surface"
+    details: "Zoo animal behavior charts on walls, desk calendar showing August 1962 date, coffee cups and ashtrays on desk, metal filing cabinets with animal records, sunlight creating patterns through venetian blinds, briefcase open on floor beside chair, no text or letters visible"
+    background: "Office shelving with zoo administration materials, window view of zoo pathways and enclosures, institutional furniture typical of 1960s public facilities"
+    atmosphere: "Professional but warm, natural lighting creating contrast between bright window area and shadowed office corners, sense of important institutional decision being made"
+  composition:
+    cameraAngle: "Medium wide shot from corner of office, capturing all three men and office environment"
+    focus: "Discussion between zoo director and researchers, with documents as central visual element"
+    depth: "Foreground shows desk details and documents, middle ground features the three men in conversation, background displays office infrastructure and zoo view through windows"

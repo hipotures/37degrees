@@ -1,0 +1,61 @@
+styleName: Anime Chibi Super Deformed Style
+description: Kawaii style with oversized heads, tiny bodies, and exaggerated cute proportions
+aiPrompts:
+  basePrompt: anime chibi style, super deformed SD, oversized head, tiny body, kawaii, cute anime style, 2-3 head tall proportions
+  negativePrompt: realistic proportions, detailed anatomy, serious style, photorealistic, normal body proportions
+  styleKeywords:
+  - chibi
+  - super deformed
+  - kawaii
+  - SD style
+  - cute anime
+  - mini character
+visualElements:
+  colorPalette:
+    primary:
+    - bright pastel colors
+    - candy colors
+    - vibrant pinks
+    secondary:
+    - soft blues
+    - mint greens
+    - cheerful yellows
+    background: simple or pastel gradients
+    usageNotes: Bright saturated kawaii colors
+    saturation: very high
+    contrast: soft cute contrast
+  lineArt:
+    style: simple rounded lines
+    weight: medium to thick lines
+    color: dark brown or black
+    texture: smooth clean lines
+    edgeTreatment: soft and rounded
+  lighting:
+    type: soft flat lighting
+    direction: minimal directional light
+    intensity: bright and cheerful
+    shadows:
+      style: minimal or none
+      color: light pastel shadows
+      opacity: very light
+    highlights: sparkles in eyes
+  rendering:
+    technique: simplified anime style
+    texture: smooth simple surfaces
+    detailLevel: minimal - focus on cuteness
+    finish: clean kawaii aesthetic
+  perspective: simple front or 3/4 view
+  mood:
+    overall: extremely cute, playful, comedic
+    emotion: exaggerated kawaii expressions
+    tempo: bouncy and energetic
+    keywords:
+    - kawaii
+    - cute
+    - playful
+    - comedic
+    - cheerful
+  stylePrecedents:
+  - Lucky Star chibi segments
+  - Attack on Titan Junior High
+  - Carnival Phantasm

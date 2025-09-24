@@ -1,30 +1,26 @@
 sceneDescription:
   setting:
-    time: 1700, 18th century during continuing drought
-    location: Atacama Desert agricultural terraces, highland areas
-    weather: Perpetual drought conditions, 130 years without significant rainfall
+    time: 1570, early morning, first light
+    location: Desert oasis town at 2,260m altitude, Calama, northern Chile, surrounded by barren mountains and salt flats
+    weather: Clear dawn sky, cool morning air before desert heat
   characters:
-  - appearance: Indigenous man, 40s, strong build adapted to high altitude, weathered hands from agricultural work
-    clothing: Traditional Andean textiles, woven patterns, practical farming garments, protection from sun and cold
-    position: Working on terraced agricultural areas
-    action: Tending to drought-resistant crops using traditional sustainable farming techniques
+  - appearance: 30s, European features, sun-damaged skin, sturdy build
+    clothing: Modified Spanish military attire, leather boots, metal breastplate, water containers
+    position: Standing with hand on sword hilt, seeking shade
+    action: Documenting water sources and establishing colonial control
   scene:
-    mainElements: Terraced agricultural areas showing innovative farming techniques, traditional Andean textiles with woven
-      patterns, drought-resistant crops cultivated through sustainable practices, evidence of water management adaptation
-    details: Carefully constructed terraces maximizing limited water resources, specialized root systems of adapted crops,
-      traditional farming tools designed for arid conditions, woven textiles showing cultural continuity despite environmental
-      challenges, minimal irrigation systems making maximum use of any available moisture, preserved agricultural knowledge
-      passed through generations
-    background: Harsh Atacama landscape with continuing evidence of extreme drought, salt formations and mineral deposits
-      visible in distance, mountain barriers continuing to block any potential rainfall
-    atmosphere: Determination and innovation in face of continuing drought, traditional agricultural knowledge sustaining
-      communities, cultural adaptation to extreme environmental conditions, remarkable resilience of indigenous farming practices,
-      no text or letters visible
+    mainElements: Adobe buildings, precious water wells, sparse vegetation, mining infrastructure
+    details: Spanish colonial officer examining precious water spring with measuring tools. Aged parchment documents in Spanish
+      spread on wooden table describing water access rights. Quill pen and ink bottle for recording observations. Metal containers
+      for water collection. Indigenous guides pointing toward distant water sources. Wooden stakes marking territorial boundaries.
+      Colonial surveying equipment scattered around settlement.
+    background: Harsh sunlight, minimal shade, dust-filled air, extreme temperature variations
+    atmosphere: Tension between colonial authority and indigenous knowledge, importance of water documentation
   composition:
-    cameraAngle: Medium shot showing agricultural innovation and traditional techniques
-    focus: Farmer demonstrating sustainable agriculture in extreme drought conditions
-    depth: Foreground shows detailed terraced farming, middle shows agricultural work, background shows continuing drought
-      landscape
+    cameraAngle: Close-up shot focusing on documentation activity
+    focus: Spanish officer recording final rainfall observations before unprecedented drought period
+    depth: Foreground shows detailed documentation materials and character, middle ground reveals water sources being measured,
+      background features concerned indigenous observers, no text or letters visible
 visualElements:
   colorPalette:
     primary:

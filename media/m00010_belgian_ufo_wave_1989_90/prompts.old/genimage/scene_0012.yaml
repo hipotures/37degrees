@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: 1991, daytime
+    location: SOBEPS office, Brussels, Belgium
+    weather: Bright day, indoor office environment
+  characters:
+  - appearance: Academic researcher, 40s-50s, physics professor appearance, serious expression
+    clothing: Business casual attire typical of academics - dress shirt, slacks, sometimes lab coat or jacket
+    position: Seated at desk with completed comprehensive report
+    action: Taking notes, examining documents, carrying notebooks and recording equipment
+  scene:
+    mainElements: Academic office with completed investigation materials and published documentation
+    details: Comprehensive witness reports, technical radar data analysis, maps of Belgium with sighting location pins, photographs,
+      investigative notebooks, recording equipment now organized into comprehensive published report. Stacks of completed
+      documentation from months of investigation work. Professional presentation of compiled witness testimonies and technical
+      analysis.
+    background: Bookshelves with scientific publications, office windows showing Brussels cityscape
+    atmosphere: Professional completion of serious academic investigation into unexplained phenomena
+  composition:
+    cameraAngle: Medium shot focusing on completed investigation documentation
+    focus: SOBEPS researcher with published comprehensive report on Belgian UFO wave
+    depth: 'Foreground: researcher and completed report materials, middle ground: organized office environment, background:
+      academic setting with reference materials, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

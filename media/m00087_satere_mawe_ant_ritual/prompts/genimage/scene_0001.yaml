@@ -1,25 +1,37 @@
 sceneDescription:
   setting:
-    time: Early morning, dawn light filtering through canopy
-    location: Dense Amazon rainforest near Sateré-Mawé territory, Amazonas state, Brazil
-    weather: Humid tropical morning with mist rising from forest floor
+    time: Early morning, Amazon rainforest, present day
+    location: Primary Amazon rainforest within Andirá-Marau Indigenous Reserve, towering cecropia and Brazil nut trees, dense
+      understory vegetation
+    weather: Hot humid conditions, 28-32°C, filtered sunlight through forest canopy, morning mist rising
   characters:
-  - appearance: Adult Sateré-Mawé man, 30s, muscular build, bronze skin, black hair in traditional style
-    clothing: Practical forest attire with woven palm leaf protection, minimal ornaments, natural body paint
-    position: Standing at edge of forest clearing, examining tall trees
-    action: Pointing upward toward bullet ant nests in tree canopy, explaining collection process to young companions
+  - appearance: 25 years old, muscular build from forest hunting, multiple small scars on hands from previous ceremonies,
+      confident posture, stern facial expression
+    clothing: Elaborate feathered headdress indicating warrior status, traditional geometric body paint, carved bone ornaments
+      through earlobes, woven armbands
+    position: Leading the group, machete in hand, pointing toward tree where ants are visible
+    action: Demonstrating safe ant collection technique to younger tribal members
+  - appearance: 12 years old, small lean build typical of Amazonian youth, smooth unmarked skin, earnest determined expression,
+      hands trembling slightly from nervousness
+    clothing: Traditional red and black geometric body paint covering torso and face, simple woven palm fiber armbands, otherwise
+      unclothed for ceremony
+    position: Standing behind experienced warrior, holding woven collection container
+    action: Watching intently as elder demonstrates how to safely approach bullet ant nests
   scene:
-    mainElements: Towering Brazil nut trees, thick canopy creating dappled shadows, massive buttress roots, tangled vines
-    details: Morning mist drifting between ancient tree trunks, dewdrops on broad leaves, distant sounds of forest awakening.
-      Hollowed-out gourd containers with woven palm fiber lids placed on mossy ground. Natural pathways wind between enormous
-      trees with aerial roots cascading down.
-    background: Dense multilayered rainforest stretching endlessly, filtered golden sunlight creating cathedral-like atmosphere
-    atmosphere: Humid tropical atmosphere with filtered sunlight, sounds of insects and birds, rich earthy scents. Sacred
-      preparation energy, anticipation of important ritual gathering ahead, no text or letters visible
+    mainElements: Massive tree trunk with visible bullet ant colony, dense jungle vegetation, collection containers made from
+      woven palm leaves, machetes for clearing path
+    details: Large black bullet ants visible crawling on tree bark, intricate nest structure in tree hollow, filtered green
+      light creating dramatic shadows, sound of insect activity fills the air, young men carry traditional woven containers
+      for ant collection, no text or letters visible
+    background: Dense Amazon rainforest with towering trees reaching 40+ meters, thick understory vegetation, vines hanging
+      from canopy, sounds of birds and forest creatures
+    atmosphere: Tense anticipation mixed with reverence for dangerous creatures, humid oppressive heat making sweat visible
+      on participants, spiritual significance of gathering sacred animals for ceremony
   composition:
-    cameraAngle: Low angle looking up through forest canopy
-    focus: Adult collector explaining nest locations to young initiates
-    depth: Forest floor in foreground with collecting gourds, massive trees in middle ground, dense canopy in background
+    cameraAngle: Medium shot from slightly below, emphasizing towering trees and forest scale
+    focus: Bullet ant colony on tree trunk with tribal members positioned around it
+    depth: Foreground shows detailed ant activity, middle ground captures tribal members, background shows dense forest canopy
+      extending into distance
 visualElements:
   colorPalette:
     primary:

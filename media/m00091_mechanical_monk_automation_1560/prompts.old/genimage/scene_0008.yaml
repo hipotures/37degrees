@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1563, morning
+    location: Stone-walled Renaissance workshop in Toledo, Spain, with vaulted ceiling and tall windows
+    weather: Bright morning sunlight flooding through tall windows
+  characters:
+  - appearance: Italian man, 50s, graying beard, intense focused eyes, calloused hands from metalwork
+    clothing: Renaissance brown leather apron over white linen shirt, dark wool hose, leather boots
+    position: Kneeling beside his workbench, watching intently
+    action: Observing the automaton's first movements with amazement and satisfaction
+  - appearance: Franciscan monk figure, 38cm tall, carved wooden head with tonsured crown, serene expression
+    clothing: Brown Franciscan robes, rope belt with knots, simple sandals
+    position: Walking in square pattern on cleared workshop floor
+    action: Walking, striking chest, raising cross, nodding head in prayer gestures
+  scene:
+    mainElements: The completed mechanical monk demonstrates its full repertoire of movements while the creator watches with
+      wonder
+    details: 38cm tall clockwork figure with wooden head, brown Franciscan robes, hidden brass mechanisms beneath clothing,
+      small wooden cross and rosary in left hand, wind-up key in back performs its programmed sequence. The figure walks in
+      precise square patterns while striking its chest with right arm, raising and lowering the wooden cross, turning and
+      nodding its head, and bringing the cross to its lips. Every movement flows smoothly from the hidden clockwork
+    background: Wooden workbenches covered with clockwork mechanisms, brass gears, springs, and precision tools frame the
+      miraculous demonstration
+    atmosphere: Triumph and wonder as mechanical perfection achieves spiritual purpose, years of precise craftsmanship culminating
+      in artificial devotion made manifest
+  composition:
+    cameraAngle: Wide shot capturing both the walking automaton and amazed craftsman
+    focus: The mechanical monk in full operation, demonstrating its remarkable range of movement
+    depth: 'Foreground: the walking automaton performing its sequence; middle: the kneeling craftsman in amazement; background:
+      workshop equipment and bright windows, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

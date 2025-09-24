@@ -1,0 +1,72 @@
+canon:
+  characters:
+    - id: "character_GM"
+      name: "Character GM"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, military bearing, stern face with mustache, weathered complexion from outdoor service"
+            clothing: "Australian military officer uniform 1930s, khaki tunic with brass buttons, peaked cap with insignia, polished brown leather boots"
+            posture: "Upright military stance, hands clasped behind back or gesturing authoritatively"
+    - id: "character_SM"
+      name: "Character SM"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s, sturdy build, alert expression, clean-shaven face"
+            clothing: "Australian military sergeant uniform 1930s, khaki tunic and trousers, military cap, leather belt with ammunition pouches"
+            posture: "At attention or operating military equipment with focused concentration"
+    - id: "character_JO"
+      name: "Character JO"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 20s, lean build, young face with determined expression"
+            clothing: "Australian military gunner uniform 1930s, khaki field uniform, military cap, canvas web gear"
+            posture: "Alert stance while handling weapons or scanning the landscape"
+    - id: "farmer_WA"
+      name: "Western Australian Farmer"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 50s, sun-weathered face, worried expression, calloused hands"
+            clothing: "1930s farmer attire, worn cotton shirt, dark trousers held by suspenders, wide-brimmed hat, work boots"
+            posture: "Standing among damaged crops or gesturing toward destroyed fields"
+  locations:
+    - id: "wheat_fields_wa"
+      name: "Western Australian Wheat Fields"
+      description_block: |
+        setting:
+          location: "Vast wheat fields near Campion, Western Australia, 1932"
+        mainElements: "Endless golden wheat stalks stretching to horizon, some areas trampled and damaged"
+        atmosphere: "Harsh Australian outback environment under intense sun"
+    - id: "campion_settlement"
+      name: "Campion Settlement"
+      description_block: |
+        setting:
+          location: "Rural farming settlement of Campion, Western Australia, 1932"
+        mainElements: "Small collection of weathered wooden buildings, grain silos, farm equipment"
+        atmosphere: "Remote frontier settlement under vast blue sky"
+    - id: "government_office_perth"
+      name: "Government Office Perth"
+      description_block: |
+        setting:
+          location: "Western Australian government office, Perth, 1932"
+        mainElements: "Formal office with heavy wooden desk, filing cabinets, maps of Western Australia on walls"
+        atmosphere: "Serious bureaucratic environment with sense of urgency"
+    - id: "military_camp_wa"
+      name: "Military Camp Western Australia"
+      description_block: |
+        setting:
+          location: "Temporary military encampment, Western Australian outback, 1932"
+        mainElements: "Canvas tents, military vehicles, equipment tables with Lewis guns and ammunition"
+        atmosphere: "Organized military efficiency in remote bushland setting"
+  items:
+    - id: "lewis_machine_gun"
+      name: "Lewis Machine Gun"
+      description_block: |
+        details: "British Lewis light machine gun, distinctive circular ammunition pan on top, bipod legs, wooden stock"
+    - id: "emu_birds"
+      name: "Emu Birds"
+      description_block: |
+        details: "Large flightless Australian birds, 6 feet tall, brown and gray feathers, long necks, powerful legs, moving in scattered groups across wheat fields"
+    - id: "damaged_wheat_crops"
+      name: "Damaged Wheat Crops"
+      description_block: |
+        details: "Wheat fields with trampled areas, broken stalks, scattered grain, clear paths of destruction through golden crops"

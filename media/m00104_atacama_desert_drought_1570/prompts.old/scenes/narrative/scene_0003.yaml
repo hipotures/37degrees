@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Tiwanaku Agricultural Innovation"
+  setting:
+    time: "1700, 18th century during continuing drought"
+    location: "Atacama Desert agricultural terraces, highland areas"
+    weather: "Perpetual drought conditions, 130 years without significant rainfall"
+  characters:
+    - appearance: "Indigenous man, 40s, strong build adapted to high altitude, weathered hands from agricultural work"
+      clothing: "Traditional Andean textiles, woven patterns, practical farming garments, protection from sun and cold"
+      position: "Working on terraced agricultural areas"
+      action: "Tending to drought-resistant crops using traditional sustainable farming techniques"
+  scene:
+    mainElements: "Terraced agricultural areas showing innovative farming techniques, traditional Andean textiles with woven patterns, drought-resistant crops cultivated through sustainable practices, evidence of water management adaptation"
+    details: "Carefully constructed terraces maximizing limited water resources, specialized root systems of adapted crops, traditional farming tools designed for arid conditions, woven textiles showing cultural continuity despite environmental challenges, minimal irrigation systems making maximum use of any available moisture, preserved agricultural knowledge passed through generations"
+    background: "Harsh Atacama landscape with continuing evidence of extreme drought, salt formations and mineral deposits visible in distance, mountain barriers continuing to block any potential rainfall"
+    atmosphere: "Determination and innovation in face of continuing drought, traditional agricultural knowledge sustaining communities, cultural adaptation to extreme environmental conditions, remarkable resilience of indigenous farming practices, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing agricultural innovation and traditional techniques"
+    focus: "Farmer demonstrating sustainable agriculture in extreme drought conditions"
+    depth: "Foreground shows detailed terraced farming, middle shows agricultural work, background shows continuing drought landscape"

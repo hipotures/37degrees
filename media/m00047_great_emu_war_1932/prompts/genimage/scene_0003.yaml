@@ -1,99 +1,77 @@
 sceneDescription:
   setting:
-    time: 1932, late afternoon
-    location: Western Australian government office, Perth, 1932
-    weather: Indoor setting, late afternoon light filtering through windows
+    time: Late October 1932, afternoon
+    location: Perth Parliament House, formal ministerial office
+    weather: Indoor setting, afternoon light through windows
   characters:
-  - appearance: Caucasian man, 50s, sun-weathered face, worried expression, calloused hands
-    clothing: 1930s farmer attire, worn cotton shirt, dark trousers held by suspenders, wide-brimmed hat, work boots
-    position: Standing at attention before government desk
-    action: Gesturing emphatically while speaking to government officials, hat in hand
-  - appearance: Caucasian man, 60s, well-fed appearance, formal bearing, stern bureaucratic expression
-    clothing: 1930s government official attire, dark formal suit with vest, white shirt, conservative tie
-    position: Seated behind large wooden desk
-    action: Listening intently while reviewing documents and maps spread across the desk
+  - appearance: Senior government official, approximately 60 years old, distinguished politician's bearing, formal demeanor
+    clothing: Dark formal governmental suit typical of 1930s political leaders, ministerial insignia when appropriate
+    position: Seated behind large wooden desk with official papers spread before him
+    action: Signing official military authorization documents while speaking with subordinates, decisive gesture with pen
   scene:
-    mainElements: Formal office with heavy wooden desk, filing cabinets, maps of Western Australia on walls showing the affected
-      farming regions marked with pins and annotations
-    details: Large wall map of Western Australia with red pins marking affected farming areas around Campion district. Stacks
-      of reports and correspondence on the desk. Filing cabinets line the walls with government documents. A telephone sits
-      on the desk corner. Windows show Perth cityscape. Oil portraits of government officials hang on wood-paneled walls.
-      Gas lamp provides additional lighting to the electric fixtures
-    background: Wood-paneled government office walls, tall windows overlooking Perth, formal government building interior
-      typical of 1930s Australian bureaucracy
-    atmosphere: Serious bureaucratic environment with sense of urgency, formal government response to agricultural crisis,
-      tension between rural needs and official procedures, no text or letters visible
+    mainElements: Formal colonial-era government office with heavy wooden furniture, official documents spread across polished
+      desk, Australian governmental insignia on walls, formal meeting atmosphere
+    details: Sandstone walls typical of Perth colonial architecture, period parliamentary furniture from 1930s, governmental
+      seals and symbols visible, stack of farmer petitions on desk, military authorization papers being signed, formal government
+      atmosphere
+    background: Tall windows showing Perth cityscape, official portraits of government leaders, Australian flag, formal governmental
+      setting emphasizing official decision-making
+    atmosphere: Weighty governmental decision with serious implications, pressure from desperate farmer constituents, formal
+      political process authorizing unprecedented military action against wildlife
   composition:
-    cameraAngle: Medium shot showing both the pleading farmer and the government official
-    focus: The contrast between rural desperation and bureaucratic formality, emphasizing the communication gap
-    depth: Foreground shows the farmer's urgent gestures, middle ground centers on the official's desk with maps and documents,
-      background reveals the formal government office setting
+    cameraAngle: Medium shot focused on desk and decision-making moment
+    focus: Government official signing military authorization while surrounded by farmer petitions
+    depth: Minister signing documents in foreground, governmental office details in middle ground, Perth cityscape through
+      windows in background, no text or letters visible
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

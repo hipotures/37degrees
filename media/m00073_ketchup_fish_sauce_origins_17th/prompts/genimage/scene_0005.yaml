@@ -1,28 +1,33 @@
 sceneDescription:
   setting:
-    time: 17th century, evening during ocean voyage
-    location: European merchant ship in rough seas, Indian Ocean
-    weather: Severe storm with high waves and rain
+    time: 1600-1650, afternoon
+    location: Coastal fishing village in Vietnam
+    weather: Warm tropical afternoon with light sea breeze
   characters:
-  - appearance: English man, 30s, pale complexion, brown hair, mustache, sturdy build, concerned expression
-    clothing: 17th century brown wool coat now water-stained, white linen shirt, dark breeches, tall leather boots
-    position: In ship's cargo hold checking secured goods
-    action: Inspecting ropes securing ceramic jars and wooden crates, ensuring Asian sauce cargo survives voyage
+  - appearance: Weathered English seafaring man in his 30s, sun-darkened skin from years at sea, lean build, alert eyes
+    clothing: Practical 17th century sailor attire - canvas breeches, linen shirt, leather vest, worn boots, tricorn hat
+    position: Seated on wooden stool near fermentation area, holding leather journal
+    action: Alert and curious, taking detailed notes while observing Vietnamese fishermen at work
+  - appearance: Vietnamese man in his 30s, lean muscular build from fishing work, sun-darkened skin, traditional hair tied
+      back
+    clothing: Simple fishing garments - loose cotton pants, sleeveless tunic, conical hat, bare feet
+    position: Kneeling beside fermentation jars demonstrating process
+    action: Methodically showing layering technique of fish and salt to English observer
   scene:
-    mainElements: Ship's wooden cargo hold with curved hull beams, secured cargo crates, swaying lanterns, water dripping
-      through planks
-    details: Large brown ceramic jars with narrow necks secured with rope, wooden crates containing glass bottles, ship's
-      timbers creaking under storm stress, lantern light creating dramatic shadows, merchant protecting precious Asian condiment
-      cargo
-    background: Sound of storm above deck, water occasionally splashing through hatches, other cargo secured with rope and
-      canvas
-    atmosphere: Dramatic tension of ocean voyage, precious cargo threatened by natural forces, determination to bring Asian
-      flavors to European markets, no text or letters visible
+    mainElements: Multiple large ceramic fermentation jars under bamboo shelter, English explorer's leather journal and quill
+      pen, wooden stools and work surfaces
+    details: Large earthenware vessels approximately 2 feet tall, brown glazed ceramic with wide mouths and fitted wooden
+      lids, containing layers of anchovies and salt with dark brown liquid visible, wooden ladles, sampling cups, leather-bound
+      journal with quill pen and ink pot, measuring implements
+    background: Traditional Vietnamese bamboo houses on stilts, fishing nets hanging from wooden poles to dry, traditional
+      fishing boats with distinctive curved prows beached on sandy shore, tropical vegetation
+    atmosphere: Strong aromatic fish scent from fermentation process mixed with salt air, sounds of quill scratching on parchment,
+      gentle waves lapping shore, peaceful documentation session, no text or letters visible
   composition:
-    cameraAngle: Low angle shot emphasizing drama and danger
-    focus: Merchant protecting valuable Asian sauce cargo during storm
-    depth: Foreground shows detailed cargo protection efforts, middle ground features ship's hold structure, background suggests
-      storm's power above
+    cameraAngle: Medium-low angle showing both men working with fermentation jars
+    focus: English explorer writing in journal while Vietnamese fisherman demonstrates fermentation process
+    depth: Foreground shows detailed documentation scene with journal and ceramic jars, middle ground reveals fermentation
+      area under shelter, background shows coastal village setting
 visualElements:
   colorPalette:
     primary:

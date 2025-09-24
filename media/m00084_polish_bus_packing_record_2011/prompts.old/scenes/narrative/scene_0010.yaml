@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Official Guinness World Record Certification"
+  setting:
+    time: "June 1, 2011, 11:30 AM"
+    location: "Campus courtyard of Faculty of Mechanical Engineering, Krakow University of Technology, Krakow, Poland"
+    weather: "Celebratory sunny afternoon following successful record achievement"
+  characters:
+    - appearance: "Caucasian man, 50s, professional demeanor, observant eyes, glasses"
+      clothing: "Formal business suit, official Guinness World Records badge, measuring equipment"
+      position: "Standing with completed official documentation confirming the world record"
+      action: "Standing with measuring tools and official documentation, observing carefully"
+    - appearance: "Caucasian man, 40s, authoritative presence, confident expression, short brown hair"
+      clothing: "Professional dark suit with university badge, formal dress shirt, tie"
+      position: "Standing proudly beside Guinness official with successful record confirmation"
+      action: "Standing with clipboard, coordinating with authority and precision"
+    - appearance: "Young Caucasian man, early 20s, athletic build, determined expression"
+      clothing: "Casual university attire - jeans, university sweatshirt, sneakers"
+      position: "Celebrating with other participants in background"
+      action: "Ready to participate, enthusiastic body language"
+    - appearance: "Young Caucasian woman, early 20s, medium height, focused expression"
+      clothing: "Casual student outfit - dark pants, light top, comfortable shoes"
+      position: "Among celebrating participants after successful record achievement"
+      action: "Cooperative and eager, following instructions carefully"
+  scene:
+    mainElements: "Official certification ceremony with Guinness World Records validation of the 229-person bus packing achievement"
+    details: "Clipboard with official Guinness World Records documentation showing successful completion, participant count sheets confirming 229 people, verification forms signed and validated, professional measuring equipment confirming all requirements met, official timing equipment showing 57-second journey duration, the record bus visible as evidence of historic achievement, Faculty of Mechanical Engineering banner or signage identifying the organizing institution"
+    background: "University campus with the record bus and celebrating participants, academic buildings providing setting for this historic achievement"
+    atmosphere: "Victory and official recognition as the Guinness World Record for most people crammed on a single-decker unmodified bus is officially confirmed, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot focusing on official certification moment"
+    focus: "Guinness World Records official confirming the successful record achievement"
+    depth: "Foreground shows official certification process, middle ground displays university organizers and record bus, background reveals celebrating participants and campus setting"

@@ -1,101 +1,89 @@
 sceneDescription:
   setting:
-    time: November 15, 1325, around sunset
-    location: Open fields near Zappolino village, medieval Italian countryside
-    weather: Cold overcast evening with approaching darkness
+    time: November 15, 1325, mid-afternoon
+    location: Rolling countryside between Bologna and Modena near village of Zappolino, natural amphitheater of hills
+    weather: Cool autumn afternoon, clear skies, light wind from the north, temperature around 10 degrees Celsius
   characters:
-  - appearance: Germanic man, 30s, blonde hair, scarred face, tall build
-    clothing: Dark leather armor with metal studs, distinctive German-style helmet
-    position: Fighting in the thick of battle, sword raised high
-    action: Experienced warrior stance with two-handed sword, cutting through enemy ranks
-  - appearance: Italian or German man, 20s-30s, battle-hardened expression
-    clothing: Blue tunic with Modena insignia, plate armor pieces, conical helmet
-    position: Fighting alongside German mercenaries in organized formation
-    action: Professional military bearing with sword and shield, advancing against larger force
-  - appearance: Italian man, 20s-30s, determined face, muscular build
-    clothing: Red tunic with Bologna coat of arms, chainmail, steel helmet
-    position: Scattered across battlefield, some falling back in confusion
-    action: Fighting desperately but losing cohesion, being pushed back by professional enemy
+  - appearance: Physically small and wiry middle-aged man around 50, sharp intelligent eyes, weathered face from military
+      campaigns, slight build but commanding presence
+    clothing: Full plate armor with imperial German styling, Ghibelline heraldic symbols, chainmail beneath, decorated helmet
+      with eagle plume, fine leather boots
+    position: Mounted on warhorse at head of smaller but disciplined Modenese force
+    action: Calmly observing the massive enemy army, making tactical assessments, displaying professional confidence despite
+      being outnumbered
+  - appearance: Large imposing figure in late 40s, thick beard, broad shoulders, scarred hands from previous battles, strong
+      jawline, commanding height
+    clothing: Ornate Italian plate armor with Guelph papal symbols, red and white Bologna colors, flowing cape, decorated
+      sword belt, ceremonial spurs
+    position: Mounted prominently in front of massive Bologna army formation
+    action: Making final pre-battle addresses with dramatic gestures, displaying overwhelming confidence from numerical superiority
   scene:
-    mainElements: Chaotic medieval battlefield with clashing armies, weapons flying, horses rearing
-    details: Crossbows, spears, swords, maces typical of 14th century warfare scattered across muddy field, fallen soldiers
-      from both sides, riderless horses galloping through combat, Heraldic banners of Bologna (red) and Modena (blue) displaying
-      city arms trampled in mud, broken weapons and armor pieces, professional German soldiers cutting through amateur Bolognese
-      troops
-    background: Zappolino village on hillside watching the battle, gathering darkness of sunset, storm clouds overhead
-    atmosphere: Brutal medieval warfare with professional soldiers overwhelming untrained masses, sounds of clashing steel
-      and battle cries
+    mainElements: Rolling countryside between Bologna and Modena near village of Zappolino, gentle hills with scattered oak
+      groves, small streams, cultivated fields recently harvested creating natural amphitheater perfect for medieval battle
+    details: 'Natural amphitheater of hills, village of Zappolino in distance, narrow valleys perfect for cavalry charges,
+      stone walls marking property boundaries, ancient Roman road. Harvested wheat fields with stubble, scattered oak trees
+      with autumn leaves, small stone bridges over streams. Two armies deployed: massive Bologna force of 32,000 filling the
+      landscape, compact Modena force of 7,000 positioned strategically on higher ground. Battle standards flying, horses
+      prancing, weapons gleaming in afternoon light'
+    background: Rolling hills extending to horizon, distant mountains, medieval village with bell tower, smoke from cooking
+      fires, strategic defensive positions
+    atmosphere: Tense anticipation before battle, cool crisp air filled with sounds of thousands of men and horses, smell
+      of leather and metal, golden afternoon light casting long shadows. Dramatic contrast between overwhelming Bologna numbers
+      and disciplined Modena professionals, palpable tension before decisive conflict
   composition:
-    cameraAngle: Dynamic medium shot capturing the intensity of medieval combat
-    focus: The fierce hand-to-hand fighting between professional and amateur soldiers
-    depth: 'Foreground: intense sword combat, Middle: chaos of battle, Background: village and darkening sky, no text or letters
-      visible'
+    cameraAngle: Wide panoramic view showing the dramatic size difference between armies
+    focus: The two opposing commanders and their vastly different forces
+    depth: Foreground shows detailed battle preparations and individual soldiers, middle ground features both armies in formation,
+      background shows the strategic battlefield terrain, no text or letters visible
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

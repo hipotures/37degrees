@@ -1,26 +1,32 @@
 sceneDescription:
   setting:
-    time: 1936, spring
-    location: Shenandoah National Park ranger orientation
-    weather: Clear spring day in Virginia mountains
+    time: April 1942, afternoon thunderstorm
+    location: Tall wooden observation tower on exposed Blue Ridge Mountain ridgeline, Shenandoah National Park, Virginia,
+      2,000+ feet elevation
+    weather: Severe thunderstorm with torrential rain, dark storm clouds, frequent lightning strikes
   characters:
-  - appearance: American man, 24, brawny build resembling Gene Hackman, rugged weathered face, confident bearing
-    clothing: New US Park Service uniform with ranger hat, work boots, utility belt
-    position: Standing with other new rangers during orientation
-    action: Confident ranger bearing, eager to begin career protecting wilderness
+  - appearance: Brawny, towering Caucasian man, broad rugged face resembling actor Gene Hackman, multiple lightning scars
+      visible on face, arms, and legs, often missing eyebrows and eyelashes from recent strikes, thick build, weathered skin
+      from outdoor work
+    clothing: 1940s-1970s park ranger uniform - khaki shirt and pants, wide-brimmed ranger hat with official Shenandoah National
+      Park badge, heavy work boots often with lightning burn holes, utility belt with radio and emergency water container
+    position: Inside glass observation room at top of wooden fire tower, feet from exit door
+    action: Seeking shelter from storm, about to flee building as lightning strikes tower repeatedly
   scene:
-    mainElements: Group of new park rangers receiving training at Shenandoah National Park headquarters
-    details: Official park service building with American flag, new rangers in crisp uniforms learning duties, park maps and
-      wilderness safety information, supervisor explaining fire lookout responsibilities, beautiful Appalachian mountain setting,
-      professional career beginning in nature conservation
-    background: Dense forest with tall trees, mountain ridges visible through headquarters windows, beautiful Virginia wilderness
-      setting
-    atmosphere: Beautiful Appalachian wilderness setting with promising career beginning, normal park service work before
-      extraordinary lightning encounters, peaceful mountain environment, no text or letters visible
+    mainElements: Multi-story wooden structure with glass observation room at top, external ladder and stairs, radio equipment,
+      no lightning rod protection in 1942, surrounded by tall trees
+    details: Electrical charges visible crackling inside glass room, radio equipment sparking, wooden beams smoldering from
+      repeated lightning hits, flames jumping between metal surfaces, acrid smoke filling confined space, half-inch burn strip
+      down ranger's right leg, destroyed boot with hole burned through sole
+    background: Dark storm clouds overhead, Blue Ridge Mountain ridgeline extending into distance, tall trees bending in high
+      winds, other lightning strikes visible across valley
+    atmosphere: April 1942 thunderstorm - dark storm clouds, torrential rain, lightning strikes every few minutes, electrical
+      charges visible inside glass room, smell of burning wood and ozone
   composition:
-    cameraAngle: Wide shot showing ranger training in mountain park setting
-    focus: Beginning of remarkable park ranger career
-    depth: Ranger training group in foreground, park headquarters in middle ground, Shenandoah mountains in background
+    cameraAngle: Medium shot from inside observation room looking toward exit
+    focus: Ranger figure silhouetted against lightning flashes, electrical discharge crackling around metal equipment
+    depth: 'Foreground: sparking radio equipment and burning wooden surfaces, middle: ranger moving toward exit, background:
+      storm-lashed mountains through glass windows, no text or letters visible'
 visualElements:
   colorPalette:
     primary:

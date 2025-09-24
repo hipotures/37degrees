@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Artillery Installation - Heavy Cannons Loaded"
+  setting:
+    time: "1628, spring"
+    location: "Vasa warship during final armament phase"
+    weather: "Cool spring morning with harbor mist"
+  characters:
+    - appearance: "Swedish man, 45, naval officer bearing, weathered sea captain face, serious expression"
+      clothing: "Swedish naval uniform with officer insignia, ceremonial sword, naval hat"
+      position: "Standing on gun deck overseeing cannon installation"
+      action: "Naval authority, directing placement of massive artillery pieces with growing concern"
+  scene:
+    mainElements: "Two gun decks being loaded with unprecedented number of heavy cannons"
+    details: "64 bronze cannons including 48 powerful 24-pound guns being positioned on two gun decks, crews struggling with weight of massive artillery, ship visibly settling lower in water under enormous weight, gun ports being fitted, ammunition being loaded, ship's hull creaking under artillery load"
+    background: "Stockholm harbor with other naval vessels, royal shipyard continuing construction activities, spring weather over Swedish maritime scene"
+    atmosphere: "Growing concern about ship's stability as massive firepower exceeds safe engineering limits, unprecedented naval armament creating engineering challenge, military ambition versus maritime physics, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle shot emphasizing massive artillery installation"
+    focus: "Overwhelming firepower creating dangerous top-heavy condition"
+    depth: "Gun deck and cannons in foreground, ship structure in middle ground, harbor environment in background"

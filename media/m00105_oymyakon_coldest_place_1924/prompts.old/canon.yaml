@@ -1,0 +1,58 @@
+canon:
+  characters:
+    - id: "local_resident"
+      name: "Local Resident"
+      description_block: |
+        characters:
+          - appearance: "Siberian person, 40s, weathered face from extreme cold exposure, hardy build adapted to Arctic conditions"
+            clothing: "Multiple layers of fur clothing, traditional Siberian winter gear, thick boots, face protection from wind"
+            posture: "Careful deliberate movements to conserve energy and maintain warmth in extreme cold"
+    - id: "village_elder"
+      name: "Village Elder"
+      description_block: |
+        characters:
+          - appearance: "Elderly Siberian person, 60s+, deeply lined face from decades of Arctic living, experienced cold-weather survivor"
+            clothing: "Traditional heavy fur coat, layered wool garments, well-worn Arctic survival gear"
+            posture: "Steady experienced stance showing lifetime adaptation to extreme cold conditions"
+    - id: "meteorologist"
+      name: "Weather Observer"
+      description_block: |
+        characters:
+          - appearance: "Person, 30s, professional appearance despite extreme conditions, focused on accurate measurements"
+            clothing: "1920s cold weather gear, multiple layers, thick gloves allowing instrument operation"
+            posture: "Methodical careful movements while operating temperature recording equipment"
+  locations:
+    - id: "oymyakon_village"
+      name: "Oymyakon Village Settlement"
+      description_block: |
+        setting:
+          location: "Oymyakon village, Sakha Republic, Russia, Yana-Oymyakon Highlands along Indigirka River"
+        mainElements: "Small wooden buildings with thick walls, smoking chimneys, deep snow cover, frozen landscape extending to horizon"
+        atmosphere: "Extreme cold with visible breath vapor, complete silence of frozen environment, survival-focused human habitation"
+    - id: "weather_station"
+      name: "Temperature Recording Station"
+      description_block: |
+        setting:
+          location: "Weather observation station in Oymyakon village center, Siberia"
+        mainElements: "1920s meteorological equipment, temperature measurement instruments, recording station building"
+        atmosphere: "Scientific precision in extreme conditions, historic moment of record-breaking measurement"
+    - id: "frozen_landscape"
+      name: "Siberian Frozen Wilderness"
+      description_block: |
+        setting:
+          location: "Surrounding wilderness of Oymyakon, Siberian taiga and tundra"
+        mainElements: "Endless snow-covered landscape, frozen trees, ice formations, Arctic wilderness stretching beyond horizon"
+        atmosphere: "Absolute cold and silence, hostile environment requiring constant survival effort"
+  items:
+    - id: "temperature_equipment"
+      name: "1924 Temperature Recording Equipment"
+      description_block: |
+        details: "1920s meteorological instruments, mercury thermometers, temperature recording devices, weather monitoring equipment designed for extreme cold conditions"
+    - id: "survival_gear"
+      name: "Arctic Survival Equipment"
+      description_block: |
+        details: "Traditional Siberian cold weather clothing, multiple fur layers, thermal protection gear, tools for maintaining warmth and shelter in -71.2°C conditions"
+    - id: "frozen_objects"
+      name: "Items Affected by Extreme Cold"
+      description_block: |
+        details: "Completely frozen water sources, ice formations on buildings, frost patterns, objects showing effects of -71.2°C temperature, frozen breath vapor"

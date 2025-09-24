@@ -1,83 +1,69 @@
 canon:
   characters:
-    - id: "character_VM"
-      name: "Character VM"
+    - id: "character_SM"
+      name: "Character SM"
       description_block: |
         characters:
-          - appearance: "Yakutian man, 40s, weathered face with high cheekbones, dark eyes adapted to snow glare, bronze skin from outdoor work"
-            clothing: "Traditional reindeer hide parka with fur-lined hood, thick mukluks, woolen mittens, layers of warm undergarments"
-            posture: "Confident stance adapted to icy terrain, careful deliberate movements"
-    - id: "character_AN"
-      name: "Character AN"
+          - appearance: "Middle-aged man, weathered face from extreme cold exposure, thick beard partially frosted with ice, alert eyes"
+            clothing: "Heavy Soviet-era military-style winter coat, fur-lined ushanka hat, thick wool mittens, felt valenki boots"
+            position: "Standing beside meteorological instruments, methodically checking readings"
+            action: "Recording temperature measurements with practiced precision despite numbing cold"
+
+    - id: "character_EH"
+      name: "Character EH"
       description_block: |
         characters:
-          - appearance: "Yakutian woman, 30s, strong build, dark hair in braids, determined expression, rosy cheeks from cold"
-            clothing: "Traditional Sakha winter dress with geometric patterns, thick wool coat, fur-lined boots, colorful headscarf"
-            posture: "Steady bearing, hands often busy with daily tasks, resilient demeanor"
-    - id: "character_SP"
-      name: "Character SP"
+          - appearance: "Elderly indigenous man, deeply lined face from decades of cold exposure, alert dark eyes, traditional facial features"
+            clothing: "Traditional reindeer fur parka, sealskin boots, fur-lined mittens, traditional Even winter garments"
+            position: "Moving with practiced economy of motion near thermal springs"
+            action: "Tending to reindeer herd with calm resilience and generations of cold weather experience"
+
+    - id: "character_SS"
+      name: "Character SS"
       description_block: |
         characters:
-          - appearance: "Young Yakutian boy, 8 years old, bright curious eyes, round face typical of children in extreme cold"
-            clothing: "Small child's winter parka in bright colors, tiny mukluks, woolen hat with ear flaps"
-            posture: "Energetic despite heavy clothing, playful movements adapted to winter conditions"
-    - id: "character_EL"
-      name: "Character EL"
-      description_block: |
-        characters:
-          - appearance: "Elderly Yakutian woman, 70s, deeply lined face from decades of cold, wise eyes, gray hair in traditional style"
-            clothing: "Long traditional coat with intricate beadwork, multiple layers of shawls, ancient family jewelry"
-            posture: "Careful measured movements, hands showing signs of arthritis from cold, dignity in bearing"
+          - appearance: "Sturdy build man in 30s, reddened cheeks from cold, determined expression, visible breath in frigid air"
+            clothing: "Soviet work clothes adapted for extreme cold, thick wool coat, heavy felt boots, working man's winter hat"
+            position: "Working on construction or settlement tasks in harsh conditions"
+            action: "Building structures or performing manual labor with stoic determination mixed with visible struggle against harsh conditions"
+
   locations:
-    - id: "oymyakon_village_center"
-      name: "Oymyakon Village Center"
+    - id: "weather_station_site"
+      name: "Oymyakon Meteorological Station"
       description_block: |
         setting:
-          location: "Central area of Oymyakon village, Sakha Republic, Russia, surrounded by the Yana-Oymyakon Highlands"
-        mainElements: "Monument displaying temperature record of -71.2°C, small cluster of wooden buildings with steep roofs, main road"
-        atmosphere: "Stark beauty of extreme cold environment, sense of human determination against nature's harshest conditions"
-    - id: "traditional_yakutian_home"
-      name: "Traditional Yakutian Home"
+          location: "Small wooden building in valley between Oymyakon and Tomtor, 750m above sea level, Sakha Republic, Siberia"
+        mainElements: "White-painted wooden structure, multiple meteorological instruments, radio antenna, temperature measurement shelter, generator equipment"
+        atmosphere: "Crystalline air so cold it sparkles, complete silence except for wind, visibility limited by ice fog, steam from heated building"
+
+    - id: "village_center"
+      name: "Oymyakon Village Square"
       description_block: |
         setting:
-          location: "Interior of traditional wooden house in Oymyakon, thick log walls, small windows with multiple panes"
-        mainElements: "Large central stove with chimney, heavy curtains, multiple layers of rugs, family photographs on walls"
-        atmosphere: "Warm refuge from deadly cold outside, sense of family closeness necessitated by survival needs"
-    - id: "frozen_marketplace"
-      name: "Frozen Marketplace"
+          location: "Central area of village surrounded by wooden houses, located in Indigirka River valley, Sakha Republic, Siberia"
+        mainElements: "Monument marking temperature record, concrete bull statue, wooden buildings with thick smoke from chimneys, packed snow paths"
+        atmosphere: "Smoke rising straight up in still air, crunching snow underfoot, muffled sounds in extreme cold, visible breath everywhere"
+
+    - id: "thermal_springs_area"
+      name: "Oymyakon Natural Hot Springs"
       description_block: |
         setting:
-          location: "Outdoor trading area in Oymyakon village, stalls protected by tarpaulins and wooden frames"
-        mainElements: "Frozen fish displayed on wooden tables, fur pelts hanging from posts, vendors in heavy winter gear"
-        atmosphere: "Commerce continuing despite extreme conditions, community necessity overcoming environmental challenges"
-    - id: "siberian_wilderness"
-      name: "Siberian Wilderness"
-      description_block: |
-        setting:
-          location: "Vast taiga landscape surrounding Oymyakon, endless snow-covered forest extending to horizon"
-        mainElements: "Snow-laden evergreen trees, frozen streams, animal tracks in deep snow, distant mountains"
-        atmosphere: "Overwhelming sense of isolation and pristine wilderness, nature's raw power in extreme form"
-    - id: "village_school"
-      name: "Village School"
-      description_block: |
-        setting:
-          location: "Interior of Oymyakon's small school building, heated classroom with basic furnishings"
-        mainElements: "Wooden desks arranged in rows, blackboard with lessons, maps of Siberia on walls, heating stove"
-        atmosphere: "Dedication to education despite harsh environment, children's determination to learn"
+          location: "Natural geothermal springs creating patches of unfrozen water in otherwise frozen landscape near Oymyakon village"
+        mainElements: "Steaming water sources, reindeer gathering areas, traditional watering spots for herds, ice formations around warm water"
+        atmosphere: "Steam clouds creating contrast with frozen surroundings, warmth radiating from springs, reindeer breath visible in cold air"
+
   items:
     - id: "temperature_monument"
-      name: "Temperature Monument"
+      name: "Cold Pole Monument"
       description_block: |
-        details: "Stone monument in village center commemorating record temperature of -71.2°C (-96.2°F) recorded in January 1924, weathered by decades of extreme cold"
-    - id: "frozen_fish"
-      name: "Frozen Fish"
+        details: "Concrete monument with Soviet hammer and sickle insignia, black pole approximately 3 meters tall, inscription commemorating temperature record -71.2°C from 1924, weathered by extreme cold"
+
+    - id: "soviet_thermometer"
+      name: "Official Meteorological Thermometer"
       description_block: |
-        details: "Large Arctic fish frozen solid, displayed at market stalls, primary protein source for villagers during winter months"
-    - id: "reindeer_hide_clothing"
-      name: "Reindeer Hide Clothing"
+        details: "Mercury-in-glass thermometer in white wooden shelter, Soviet-manufactured precision instrument, calibrated for extreme low temperatures, mounted in standard meteorological housing"
+
+    - id: "weather_radio"
+      name: "Soviet Weather Station Radio Equipment"
       description_block: |
-        details: "Traditional winter garments made from reindeer hide, fur-lined parkas and mukluks essential for survival in extreme temperatures"
-    - id: "wood_burning_stove"
-      name: "Wood Burning Stove"
-      description_block: |
-        details: "Large iron stove central to home heating, constantly fed with birch and pine logs, chimney extending through roof"
+        details: "Large tube radio transmitter with metal casing, multiple dials and controls, antenna system, used for four-daily transmissions to Moscow, powered by local generator system"

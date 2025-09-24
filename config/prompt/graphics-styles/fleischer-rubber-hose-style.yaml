@@ -1,0 +1,59 @@
+styleName: Fleischer Rubber Hose Style
+description: 1930s animation style with elastic rubber hose limbs, surreal humor, and jazz-age energy
+aiPrompts:
+  basePrompt: fleischer rubber hose animation, 1930s cartoon style, betty boop style, elastic limbs, vintage animation, jazz age cartoon
+  negativePrompt: modern animation, CGI, realistic anatomy, stiff movement, photorealistic
+  styleKeywords:
+  - rubber hose
+  - fleischer studios
+  - 1930s animation
+  - betty boop
+  - vintage cartoon
+  - elastic movement
+visualElements:
+  colorPalette:
+    primary:
+    - black and white
+    - limited grayscale
+    secondary:
+    - sepia tones
+    - occasional limited colors
+    background: urban Depression-era settings
+    usageNotes: Primarily black and white with high contrast
+    saturation: minimal - mostly monochrome
+    contrast: high black and white contrast
+  lineArt:
+    style: flowing continuous curves
+    weight: thick black ink lines
+    color: '#000000'
+    texture: smooth flowing lines
+    edgeTreatment: no joints - continuous rubber tubes
+  lighting:
+    type: flat cel animation lighting
+    direction: minimal directional light
+    intensity: high contrast
+    shadows:
+      style: solid black shadows
+      color: pure black
+      opacity: solid
+    highlights: white highlights for shine
+  rendering:
+    technique: hand-drawn cel animation
+    texture: smooth ink surfaces
+    detailLevel: simplified with focus on movement
+    finish: vintage film grain quality
+  perspective: theatrical staging
+  mood:
+    overall: surreal, bouncy, jazz-age energy
+    emotion: playful with dark undertones
+    tempo: rhythmic and musical
+    keywords:
+    - surreal
+    - bouncy
+    - jazzy
+    - playful
+    - macabre
+  stylePrecedents:
+  - Betty Boop cartoons
+  - Popeye the Sailor
+  - Koko the Clown

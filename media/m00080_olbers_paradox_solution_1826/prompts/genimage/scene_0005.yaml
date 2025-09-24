@@ -1,29 +1,28 @@
 sceneDescription:
   setting:
-    time: 1826, late night
-    location: Upper floor astronomical observatory in Bremen townhouse, 1826
-    weather: Clear night continuing
+    time: 1610, evening
+    location: Early 17th-century scholar's study with mathematical instruments
+    weather: Clear night ideal for astronomical calculations
   characters:
-  - appearance: German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom
-    clothing: 1820s dark blue physician's coat over white shirt and black vest
-    position: Seated at oak desk covered with papers and calculations
-    action: Writing mathematical equations with quill pen, calculating stellar densities and cosmic distances
+  - appearance: Caucasian man, 39 years old in 1610, slight build, intense eyes, scholarly appearance, often squinting due
+      to poor eyesight
+    clothing: Early 17th-century scholar's robes, simple but well-made, practical for mathematical work
+    position: Working at desk with mathematical instruments, leaning forward in concentration
+    action: Calculating planetary motions and drawing geometric diagrams showing stellar distribution patterns
   scene:
-    mainElements: Oak desk covered with calculation sheets, quill pen and ink well, candlelight illuminating mathematical
-      work, telescope visible in background
-    details: Sheets of paper covered with mathematical equations and orbital calculations written in precise handwriting with
-      quill pen, brass compass and measuring instruments, leather-bound journals open to star observations, ink well with
-      metal nib pen, warm candle flame casting dancing shadows, Long brass refracting telescope on wooden tripod mount visible
-      nearby
-    background: Hand-drawn star maps on parchment showing constellation patterns and stellar positions with careful notations
-      on walls, bookshelf with astronomical texts, window showing continuing night sky
-    atmosphere: Intense intellectual focus on cosmic mathematics, methodical approach to understanding universe's structure,
-      scholarly dedication to solving fundamental astronomical questions, no text or letters visible
+    mainElements: Writing desk covered with mathematical papers, geometric instruments including compass and ruler, oil lamps
+      providing illumination, shelves with astronomical texts
+    details: Geometric diagrams showing stellar spheres and light calculations, early 17th-century mathematical instruments,
+      manuscripts with planetary motion calculations. Window showing dark night sky that contradicts mathematical predictions
+      of brightness from infinite stars
+    background: Early 17th-century architecture, shelves lined with scientific works, night sky visible through window
+    atmosphere: Mathematically rigorous approach to cosmic questions, frustration as calculations reveal paradox between infinite
+      stars and observed darkness, religious conviction about cosmic harmony challenged by mathematical reality
   composition:
-    cameraAngle: Close medium shot over shoulder at desk
-    focus: character_HO writing calculations with mathematical equations covering papers
-    depth: Foreground shows hands writing equations, middle ground centers on desk and papers, background reveals telescope
-      and night sky
+    cameraAngle: Close-up shot focusing on mathematical work at desk
+    focus: Character's hands working on geometric calculations with instruments
+    depth: Mathematical diagrams and instruments in foreground, character concentrating in middle ground, dark night sky through
+      window in background, no text or letters visible
 visualElements:
   colorPalette:
     primary:

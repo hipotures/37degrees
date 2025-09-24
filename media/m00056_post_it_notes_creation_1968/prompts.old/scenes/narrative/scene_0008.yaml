@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Discovery of Communication Potential"
+  setting:
+    time: "1975, mid-morning"
+    location: "Open office area, 3M corporate building, 1970s"
+    weather: "Bright morning light through large office windows"
+  characters:
+    - appearance: "Caucasian man, mid 40s, medium build, receding hairline with dark hair, warm expression with gentle eyes, friendly demeanor"
+      clothing: "1970s business casual attire - dress shirt with tie, sometimes cardigan sweater"
+      position: "Standing at colleague's desk, holding small yellow note"
+      action: "Writing brief message on small yellow prototype note, sticking it to colleague's desk, demonstrating new communication method with enthusiasm"
+    - appearance: "Mixed group of Caucasian men and women, ages 25-55, professional appearance typical of 1970s corporate employees"
+      clothing: "Business attire - men in dress shirts with ties, women in conservative blouses and skirts"
+      position: "Seated at metal desks throughout office space"
+      action: "Reading notes attached to their desks and papers, writing responses on similar yellow notes, beginning to use notes for quick communications between workstations"
+  scene:
+    mainElements: "Open office area with metal desks, typewriters, filing cabinets, office supplies, papers, telephones, corporate bulletin boards. Small rectangular pieces of canary yellow paper with experimental adhesive strip along one edge, various sizes and shapes in development phase."
+    details: "Multiple small yellow notes stuck to desks, papers, and office equipment, messages being passed between colleagues using the new notes, surprised and delighted expressions on faces of office workers discovering convenience of removable messages, growing collection of yellow notes throughout office space."
+    background: "Typical 1970s corporate office environment with rows of desks, filing systems, office equipment, fluorescent lighting, windows showing urban corporate district, busy workplace atmosphere"
+    atmosphere: "Excitement of discovering unexpected application, sense of innovation spreading organically through office, growing realization that bookmarks have evolved into communication tool, energy of workplace transformation beginning to take shape, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing office space with multiple workers using the new notes"
+    focus: "Character AF demonstrating note communication while colleagues throughout office begin adopting the method"
+    depth: "Character and immediate desk area in foreground, multiple office workers with yellow notes in middle ground, broader office environment and windows in background"

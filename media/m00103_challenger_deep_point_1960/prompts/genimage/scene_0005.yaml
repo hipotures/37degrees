@@ -1,35 +1,36 @@
 sceneDescription:
   setting:
-    time: January 23, 1960, afternoon descent
-    location: Trieste bathyscaphe at 9,000 meters depth, entering abyssal zone
-    weather: Complete darkness of deep ocean, extreme pressure environment
+    time: January 23, 1960, 1500 hours, 30,000 feet below surface in complete darkness
+    location: Cramped steel sphere 7 feet in diameter, walls 5 inches thick, designed to withstand crushing deep-sea pressure
+    weather: Extreme deep-sea environment with crushing pressure, complete darkness outside
   characters:
-  - appearance: Swiss man, 40s, tall and lean build, intelligent dark eyes, wavy dark hair
-    clothing: 1960s thick woolen sweater over collared shirt, heavy winter jacket during surface operations
-    position: Examining cracked porthole window with intense concentration
-    action: Carefully inspecting window damage while monitoring for water entry
-  - appearance: American man, 30s, military bearing, short-cropped hair, alert expression
-    clothing: US Navy uniform with lieutenant insignia, or heavy weather gear during operations
-    position: Ready at emergency controls and communication equipment
-    action: Preparing emergency ascent procedures while maintaining communication attempts
+  - appearance: 37 years old Caucasian man, medium build, clean-shaven with short dark hair, intelligent brown eyes behind
+      wire-rimmed glasses, calm and methodical demeanor
+    clothing: Navy-issue wool sweater over white shirt, thick wool pants, heavy leather boots, waterproof chronometer watch
+    position: Inside Trieste crew sphere, seated at instrument panel
+    action: Monitoring depth gauges and pressure readings with scientific precision
+  - appearance: 29 years old Caucasian man, athletic military bearing, short-cropped brown hair, square jaw, alert blue eyes,
+      confident posture
+    clothing: Navy utility uniform with lieutenant's bars, thick wool Navy sweater, military-issue boots, Navy insignia clearly
+      visible
+    position: Inside Trieste crew sphere, seated beside diving controls
+    action: Taking detailed notes and operating ballast controls with military precision
   scene:
-    mainElements: Cracked plexiglass porthole window showing spider web pattern of fractures, extreme pressure readings on
-      analog gauges, emergency warning lights activated throughout cramped crew cabin, darkness of deep ocean visible beyond
-      damaged window
-    details: Visible crack lines spreading across thick plexiglass window but no water penetration, pressure gauges showing
-      readings over 900 times surface pressure, analog depth meters indicating 9,000+ meter depth, emergency controls ready
-      for activation, brass fittings and manual switches positioned for crisis response, warning lights casting red glow throughout
-      confined space
-    background: Complete darkness beyond porthole windows except for bathyscaphe external lights, sense of enormous water
-      pressure surrounding crew cabin
-    atmosphere: High tension and critical decision moment, life-or-death evaluation of window integrity, professional calm
-      under extreme pressure, weighing risks of continuing versus aborting historic dive, mechanical stress sounds from bathyscaphe
-      structure, no text or letters visible
+    mainElements: Steel crew sphere interior with one porthole showing visible crack in outer Plexiglas window pane, instrument
+      panels showing extreme depth readings, emergency systems activated
+    details: Outer Plexiglas window pane with visible crack, part of multiple-layer window system designed for extreme pressure,
+      crack occurred at 30,000 feet depth causing violent shaking. Both crew members examining the damaged window system while
+      maintaining focus on critical depth measurements and safety protocols.
+    background: Complete darkness visible through portholes except for Trieste's external lights, enormous crushing pressure
+      of deep ocean at 30,000 feet depth
+    atmosphere: Tension increases as window cracks during descent, violent shaking of entire vessel followed by careful assessment
+      of structural integrity, critical decision point where mission success hangs in balance, awareness of being deeper than
+      any human has ever survived before, no text or letters visible
   composition:
-    cameraAngle: Dramatic close-up of cracked window and crew response
-    focus: Fractured porthole window with crew examining damage
-    depth: Foreground shows detailed window crack pattern, middle shows crew crisis response, background shows deep ocean
-      darkness
+    cameraAngle: Close-up shot focusing on cracked window and crew reaction to crisis
+    focus: Damaged window system with visible crack and crew members assessing the dangerous situation
+    depth: Foreground shows cracked window detail, middle ground centers on concerned but determined crew members, background
+      reveals darkness of unexplored depths outside
 visualElements:
   colorPalette:
     primary:

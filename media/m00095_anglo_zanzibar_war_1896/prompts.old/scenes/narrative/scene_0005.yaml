@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Final Ultimatum - Diplomatic Tension"
+  setting:
+    time: "August 27, 1896, 8:50 AM"
+    location: "Palace courtyard and harbor view, Stone Town"
+    weather: "Hot tropical morning, still air before storm"
+  characters:
+    - appearance: "Arab man, 29 years old, olive skin, dark beard, intense determined eyes, medium build"
+      clothing: "Traditional Omani white thobe with ornate ceremonial belt, ceremonial curved dagger at waist"
+      position: "Standing defiantly in palace courtyard"
+      action: "Commanding presence, arms crossed, staring toward British fleet with unwavering resolve"
+  scene:
+    mainElements: "Palace courtyard filled with supporters and defenders, British warships ominously positioned in harbor background"
+    details: "Gathered crowd of palace guards and civilian supporters, weapons visible throughout courtyard, Red rectangular flag with white border flying from palace flagpole, tension building as deadline approaches, shadows shortening as sun climbs higher"
+    background: "Gray steel warships with multiple gun turrets clearly visible in harbor, Stone Town buildings climbing hillside"
+    atmosphere: "Final moments before conflict, defiant determination versus overwhelming force, tropical heat building tension, countdown to history's shortest war, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot capturing both palace defiance and naval threat"
+    focus: "Sultan's defiant stance against impossible odds"
+    depth: "Palace courtyard and defenders in foreground, harbor with British fleet in background"

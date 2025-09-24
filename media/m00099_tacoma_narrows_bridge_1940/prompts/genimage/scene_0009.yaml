@@ -1,22 +1,33 @@
 sceneDescription:
   setting:
     time: November 7, 1940, 11:10 AM
-    location: Puget Sound waters as bridge wreckage falls
-    weather: Wind subsiding as disaster concludes
-  characters: No characters present in this scene
+    location: Tacoma Narrows Bridge during catastrophic structural failure
+    weather: 42 mph winds continuing as bridge destroys itself
+  characters:
+  - appearance: 38-year-old man with medium build, steady hands essential for camera work, alert eyes trained to spot dramatic
+      moments
+    clothing: Dark jacket with multiple pockets for film and equipment, comfortable shoes for quick movement
+    position: Standing at safe distance on approach span, filming disaster with professional calm
+    action: Professional calm under pressure, instinctive sense for historic moments
+  - appearance: Alert photographer always prepared for unexpected events, carries himself with professional confidence
+    clothing: Practical dark clothing with equipment pockets, always keeps camera nearby and loaded with film
+    position: Operating second camera from nearby vantage point
+    action: Known for being constantly ready with camera, demonstrates remarkable foresight
   scene:
-    mainElements: Massive bridge sections plunging into Puget Sound waters creating enormous splash
-    details: Steel and concrete bridge segments crashing into deep blue waters, enormous splash and waves from falling debris,
-      suspension cables and towers remaining partially standing, Galloping Gertie's roadway completely gone, bridge wreckage
-      sinking into Puget Sound depths, engineering disaster complete
-    background: Remaining bridge towers standing like monuments to failure, Pacific Northwest shoreline with stunned spectators,
-      clearing sky after structural storm
-    atmosphere: Engineering disaster concluded with bridge wreckage beneath Puget Sound waters, stunned silence after catastrophic
-      failure, historic moment of engineering education, nature's lesson in aerodynamics complete, no text or letters visible
+    mainElements: Bell & Howell 16mm cameras loaded with expensive Kodachrome color film
+    details: Center span breaking free and crashing 190 feet into Puget Sound with thunderous roar. Massive concrete and steel
+      sections tumbling through air in slow motion, creating enormous splash as they hit water. Side spans remaining intact,
+      hanging from towers like broken arms. Debris field spreading across water surface, twisted metal and concrete chunks
+      settling into deep channel.
+    background: Forested hills witnessing historic engineering failure, emergency vehicles racing to scene, crowds gathering
+      to watch disaster
+    atmosphere: Climactic moment of engineering disaster captured for posterity by dedicated photographers, mixture of horror
+      and fascination
   composition:
-    cameraAngle: Wide shot showing complete bridge collapse into water
-    focus: Final destruction of Tacoma Narrows Bridge
-    depth: Bridge wreckage and splash in foreground, Puget Sound waters in middle ground, Pacific Northwest landscape in background
+    cameraAngle: Wide shot from safe observation point showing complete collapse sequence
+    focus: Center span falling into Puget Sound while photographers document disaster
+    depth: Photographers and cameras in foreground, collapsing bridge span in middle ground, water impact in background, no
+      text or letters visible
 visualElements:
   colorPalette:
     primary:

@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Mold Growth During Cool Weather Period"
+  setting:
+    time: "1928 early September, morning"
+    location: "St Mary's Hospital Bacteriology Laboratory, Paddington, London"
+    weather: "Cool temperatures below 20 degrees Celsius, favorable for mold growth"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Laboratory culture plates showing early stages of contamination, blue-green mold beginning to appear on one petri dish"
+    details: "Glass petri dish with bacterial colonies now showing small blue-green fuzzy growth of Penicillium notatum, other culture plates remaining normal, laboratory bench unchanged from character AF's departure, natural cool lighting through windows, scientific equipment sitting undisturbed, brass microscope still covered, temperature conditions ideal for both bacterial and mold growth, no text or letters visible"
+    background: "Laboratory environment maintaining optimal conditions, windows allowing cool air circulation, shelves with chemical bottles and equipment"
+    atmosphere: "Silent biological transformation occurring, natural contamination process unfolding, serendipitous conditions aligning"
+  composition:
+    cameraAngle: "Close-up shot focusing on the contaminated culture plate"
+    focus: "Single petri dish showing early blue-green mold growth among bacterial colonies"
+    depth: "Foreground emphasizes contaminated culture detail, middle ground shows laboratory bench setting, background reveals broader laboratory environment"

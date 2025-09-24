@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Wind Gust - Ship Begins to Heel"
+  setting:
+    time: "August 10, 1628, mid-morning"
+    location: "Stockholm harbor waters during Vasa's departure"
+    weather: "Light wind gust hitting ship from port side"
+  characters:
+    - appearance: "Swedish man, 35, experienced sea captain appearance, confident bearing"
+      clothing: "17th century ship captain uniform with brass buttons, navigation instruments"
+      position: "Standing at ship's wheel trying to maintain control"
+      action: "Maritime expertise, struggling with ship's wheel as vessel tilts dangerously to starboard"
+  scene:
+    mainElements: "Vasa warship beginning to heel dangerously as wind hits ornate sails and superstructure"
+    details: "Massive Swedish warship with ornate carvings tilting dramatically to starboard side, elaborate carved wooden sculptures and golden decorations visible as ship leans, wind filling sails but causing dangerous lean, crew members grabbing rigging and rails for support, water beginning to approach lower gun ports"
+    background: "Stockholm harbor with watching crowds now showing concern, other ships in harbor remaining stable, harbor walls and royal viewing areas"
+    atmosphere: "First moment of disaster as engineering failure becomes apparent, confidence turning to alarm, royal celebration becoming maritime emergency, physics overcoming pride, no text or letters visible"
+  composition:
+    cameraAngle: "Dynamic shot showing ship's dangerous lean"
+    focus: "Initial moment of disaster as Vasa begins to capsize"
+    depth: "Tilting warship in foreground, concerned harbor activity in middle ground, Stockholm waterfront in background"

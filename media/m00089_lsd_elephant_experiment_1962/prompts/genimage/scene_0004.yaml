@@ -1,29 +1,39 @@
 sceneDescription:
   setting:
-    time: August 3, 1962, late morning
-    location: Oklahoma City Zoo elephant enclosure, outdoor paddock area, Oklahoma, USA
-    weather: Hot summer day with intense sunshine
+    time: August 3, 1962, late morning, approximately 11:00 AM
+    location: Large outdoor elephant habitat at Oklahoma City Zoo with concrete flooring and metal fencing typical of 1960s
+      zoo design
+    weather: Hot August morning reaching peak heat
   characters:
-  - appearance: 14-year-old male Indian elephant, medium-sized for species, dark gray skin, intelligent eyes, standing initially
-      then collapsing
-    clothing: No clothing - natural elephant appearance
-    position: Standing peacefully in center of enclosure near water trough
-    action: Eating hay and occasionally spraying dust on his back, moving slowly in the heat
+  - appearance: Middle-aged Caucasian man with rugged outdoor appearance, sun-weathered skin from years working with animals
+    clothing: Khaki zoo uniform with director's badge, work boots, carries dart gun for experiment
+    position: Positioned near the elephant enclosure, handling experimental equipment
+    action: Preparing and operating dart gun, demonstrating confidence in animal handling
+  - appearance: 14-year-old male Indian elephant, 7,000 pounds, smaller ears than African elephants, gray skin with sparse
+      hair
+    clothing: No clothing or restraints, natural elephant appearance
+    position: Initially standing calmly in enclosure, later collapsed on concrete floor
+    action: Transitions from calm docile behavior to distressed trumpeting, then seizure and collapse
+  - appearance: Caucasian man, 37 years old, average height and build, clean-shaven with dark hair, wearing wire-rimmed glasses
+      typical of 1960s academics
+    clothing: White lab coat over dark suit and tie, clipboard in hand, professional medical appearance
+    position: Standing with clipboard, observing experiment with confident demeanor
+    action: Taking notes and directing the experimental procedure with scientific authority
   scene:
-    mainElements: 14-year-old male Indian elephant, medium-sized for species, dark gray skin, intelligent eyes, standing initially
-      then collapsing, positioned naturally in his familiar environment
-    details: Large concrete and dirt enclosure with metal barriers, viewing area for public, hay scattered on ground, water
-      trough partially visible, dusty dirt surface with elephant footprints, metal feeding buckets, concrete shelter area
-      providing shade, chain-link fencing and metal barriers typical of 1960s zoo construction, no text or letters visible
-    background: Oklahoma summer landscape beyond enclosure, zoo visitors visible at viewing barriers, other zoo facilities
-      in far distance, clear blue sky with bright sunshine
-    atmosphere: Peaceful moment before the experiment, natural elephant behavior on display, hot dusty zoo environment with
-      sense of normalcy that will soon be disrupted
+    mainElements: Zoo director with loaded dart gun approaching elephant enclosure, the elephant standing peacefully unaware
+      of imminent danger, researchers positioned at observation distance
+    details: Veterinary dart gun used for animal immobilization, metal construction with shoulder stock, designed to fire
+      cartridge-syringe containing experimental drug aimed at elephant's right buttock, tense moment before injection, scientific
+      observers maintaining distance
+    background: Open viewing area for researchers, concrete surfaces for easy cleaning, shade structures, feeding areas, water
+      sources, metal barriers separating public from animals
+    atmosphere: Rising tension as experiment reaches critical moment, contrast between elephant's peaceful state and approaching
+      intervention, scientific detachment masking dangerous gamble
   composition:
-    cameraAngle: Medium shot at elephant eye level, showing the elephant's full body and immediate enclosure environment
-    focus: The elephant as the central subject, displaying natural elephant behavior and demeanor
-    depth: Foreground shows detailed ground surface and feeding materials, middle ground features the elephant in his natural
-      state, background displays enclosure barriers and zoo context
+    cameraAngle: Medium angle showing zoo director with dart gun approaching calm elephant
+    focus: Moment of approach with loaded dart gun aimed at unsuspecting elephant
+    depth: Foreground shows elephant in peaceful pose, middle ground shows zoo director with weapon, background shows research
+      observers taking notes, no text or letters visible
 visualElements:
   colorPalette:
     primary:

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Volcanic Load Resistance Testing"
+  setting:
+    time: "1884, afternoon"
+    location: "Colonial administration building, Yogyakarta, Central Java, Indonesia"
+    weather: "Hot tropical afternoon with heavy clouds approaching"
+  characters:
+    - appearance: "Dutch engineer, 40s, tall sturdy build, weathered face from tropical climate, brown hair with receding hairline, wire-rim spectacles"
+      clothing: "White colonial linen shirt with rolled sleeves, brown canvas trousers, leather work boots, pith helmet nearby"
+      position: "Seated at desk examining small wooden scale model of bridge"
+      action: "Testing bridge model by applying weights to simulate volcanic debris loads and studying structural response"
+  scene:
+    mainElements: "Large wooden desk with bridge model, engineering drawings, oil lamps, measuring instruments"
+    details: "Small wooden scale model of proposed bridge design showing arch construction and lava channel diversions, painted to show different materials, metal weights arranged to test load capacity, calipers and rulers for measuring deflection, calculations spread across desk surface"
+    background: "Humid tropical interior with filtered sunlight through shuttered windows, formal colonial atmosphere, ceiling fans turning slowly, engineering reference books"
+    atmosphere: "Methodical testing process with scientific precision, understanding that bridge must withstand both normal loads and potential volcanic debris flows"
+  composition:
+    cameraAngle: "Close-up shot focusing on bridge model and testing process"
+    focus: "Wooden bridge model with weights applied showing engineering stress testing"
+    depth: "Bridge model and testing equipment in foreground, engineer's focused work in middle ground, colonial office setting in background, no text or letters visible"

@@ -1,33 +1,31 @@
 sceneDescription:
   setting:
-    time: November 7, 2006, 4:17 PM CST, late afternoon
-    location: Gate C-17, Terminal 3 Concourse C, Chicago O'Hare International Airport
-    weather: Overcast, solid grey cloud layer at 1,900 feet, cool November temperature
+    time: November 7, 2006, 4:17 PM CST, late afternoon with growing attention to sky
+    location: Concourse C exterior areas and terminal windows, O'Hare International Airport
+    weather: Overcast sky at 1,900 feet creating gray backdrop, mild autumn conditions continuing
   characters:
-  - appearance: Male worker, 30s, Caucasian, medium build, alert expression
-    clothing: Navy blue United Airlines work pants, company polo shirt with UA logo, high-visibility orange safety vest (ANSI
-      Class II), hearing protection around neck, safety shoes, winter jacket for November weather
-    position: Standing directly beneath object, arms crossed
-    action: Studying object from below, occasionally gesturing to colleagues
-  - appearance: Male worker, 20s-30s, medium build, focused expression
-    clothing: Grey or navy work uniform, United Airlines patches, high-visibility safety vest, work boots, tool belt
-    position: At safe distance, near terminal building
-    action: Observing object while using handheld radio to report sighting
+  - appearance: Multiple United Airlines personnel - Male, approximately 35-50 years old, Caucasian, experienced aviation
+      mechanic, analytical expression
+    clothing: United Airlines maintenance coveralls in dark blue, work boots, tool belt with various maintenance tools, safety
+      glasses
+    position: Standing on tarmac areas and near terminal windows, positioned to observe sky above Gate C17
+    action: Gathering in groups, pointing upward, discussing observations, using radio communications to alert colleagues
   scene:
-    mainElements: Dark grey metallic disc-shaped object perfectly motionless directly above Gate C-17, estimated 6-24 feet
-      diameter, hovering at approximately 500 feet altitude with absolute stability
-    details: Object displaying perfect geometric disc shape with smooth metallic surface, no visible lights, propulsion, or
-      sound, reflecting ambient overcast daylight, Boeing 737 positioned directly below creating size reference, workers maintaining
-      respectful distance while observing, handheld radios active with excited communications
-    background: Uniform grey cloud ceiling at 1,900 feet providing stark contrast, Terminal 3 glass facade with increasing
-      number of passengers and staff gathering at windows, adjacent gates continuing normal operations
-    atmosphere: Peak moment of sustained observation, tension of prolonged unexplained presence, professional aviation workers
-      confronting something beyond their experience, eerie silence from hovering craft, no text or letters visible
+    mainElements: Multiple United Airlines employees gathering outside terminal areas and at observation points, approximately
+      12 personnel total including ground crew, mechanics, and supervisors
+    details: Groups of aviation professionals positioned at various vantage points around Concourse C area, some standing
+      on ramp areas others at terminal windows, metallic disc object remaining stationary above Gate C17 position, radio communications
+      visible as personnel coordinate observations, mixture of uniforms indicating different departments responding to reports
+    background: O'Hare terminal complex with multiple aircraft at gates, normal airport operations continuing while extraordinary
+      observation unfolds, overcast sky providing consistent backdrop
+    atmosphere: Growing sense of shared witness to unprecedented event, professional aviation personnel applying systematic
+      observation skills to unusual phenomenon, increasing excitement and disbelief as more credible witnesses confirm sighting,
+      no text or letters visible
   composition:
-    cameraAngle: Medium shot from ground level showing size relationship between object and aircraft
-    focus: Stationary disc object hovering directly above Gate C-17 aircraft
-    depth: 'Foreground: ground crew and equipment, middle ground: aircraft providing scale, background: hovering object against
-      cloud layer'
+    cameraAngle: Wide angle shot showing multiple groups of personnel scattered around observation areas
+    focus: Various United Airlines employees positioning themselves to observe object above Gate C17
+    depth: Multiple groups of witnesses in foreground and middle ground, metallic disc object in sky above, airport operations
+      continuing in background
 visualElements:
   colorPalette:
     primary:

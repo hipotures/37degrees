@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "F/A-18F Super Hornets Launch from USS Nimitz Flight Deck"
+  setting:
+    time: "November 14, 2004, approximately 12:00 PM"
+    location: "USS Nimitz (CVN-68) flight deck, Pacific Ocean southwest of San Diego, California, 100 miles offshore"
+    weather: "Clear, sunny day with calm seas and light whitecaps, excellent visibility"
+  characters:
+    - appearance: "Naval aviation personnel, various ages and builds, working efficiently"
+      clothing: "Color-coded deck crew shirts - yellow, green, purple, red shirts indicating specific roles, headsets and safety equipment"
+      position: "Positioned around aircraft on flight deck conducting launch operations"
+      action: "Coordinating aircraft launch sequence with precise hand signals and safety procedures"
+  scene:
+    mainElements: "4.5 acres of grey non-skid surface with yellow and white operational markings, four catapults, four arresting wires, island superstructure housing bridge and flight control"
+    details: "Boeing F/A-18F Super Hornet in tactical grey paint scheme, VFA-41 Black Aces squadron markings, Bureau Number on fuselage, AIM-9X Sidewinder training missiles, twin-engine multirole fighter aircraft positioned on catapult. Steam rising from catapult tracks. Aircraft engines at full power with heat shimmer visible. Multiple deck crew coordinating launch with precise choreographed movements."
+    background: "Vast Pacific Ocean extends to horizon with no land references visible, bright sunlight creating glare off water surface, additional naval vessels barely visible in distance"
+    atmosphere: "Busy naval aviation operations, bright daylight over open ocean, no land references visible. High energy of carrier flight operations with focused professional activity and sense of urgent mission tasking"
+  composition:
+    cameraAngle: "Low angle shot from deck level showing aircraft on catapult with crew"
+    focus: "F/A-18F Super Hornet moments before catapult launch with deck crew in coordinated positions"
+    depth: "Foreground: deck crew in colorful shirts, middle ground: aircraft on catapult, background: open Pacific Ocean and sky, no text or letters visible"

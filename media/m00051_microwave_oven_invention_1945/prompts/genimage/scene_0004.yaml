@@ -1,98 +1,80 @@
 sceneDescription:
   setting:
-    time: 1945, late afternoon
-    location: Specialized testing section within Raytheon laboratory
-    weather: Indoor laboratory environment with artificial lighting
+    time: 1945, afternoon
+    location: Active magnetron testing area, Raytheon laboratory
+    weather: Indoor environment, warming from electromagnetic equipment
   characters:
-  - appearance: Caucasian man, 50s, lean build, receding brown hair, intelligent dark eyes behind wire-rimmed glasses
-    clothing: White lab coat over dark suit jacket, white dress shirt, narrow dark tie, dress shoes
-    position: Standing beside magnetron equipment, holding metal container
-    action: Carefully positioning container of popcorn kernels near active magnetron, observing with scientific anticipation
-  - appearance: Caucasian man, 40s, stocky build, dark hair, serious expression
-    clothing: White lab coat over brown suit, light shirt, tie
-    position: Standing behind scientist, clipboard in hand
-    action: Observing experiment with professional interest, ready to document results
+  - appearance: 51-year-old Caucasian man, average build, thoughtful expression with intelligent eyes, thinning hair typical
+      of middle-aged engineer
+    clothing: White laboratory coat over period-appropriate 1940s business shirt and tie, practical work shoes
+    position: Standing very close to active magnetron, pulling hand from coat pocket
+    action: Discovering melted candy bar in pocket with surprised but curious expression
   scene:
-    mainElements: Small yellow corn kernels in metal container positioned near active magnetron equipment, measurement instruments
-      monitoring electromagnetic output, laboratory table with precise positioning
-    details: Cylindrical metal magnetron tube with copper segments emitting invisible microwaves toward popcorn container.
-      Electrical cables connecting equipment to power sources. Warning signs about radiation mounted on laboratory walls.
-      Scientist's concentrated expression shows scientific methodology in action.
-    background: Additional electronic testing equipment, oscilloscopes displaying waveforms, filing cabinets, industrial windows
-      with venetian blinds
-    atmosphere: Moment of deliberate scientific experimentation, transition from accident to intentional discovery, controlled
-      laboratory environment with anticipation of breakthrough results, no text or letters visible
+    mainElements: Active magnetron tube generating microwave radiation while engineer discovers melted chocolate in his laboratory
+      coat pocket
+    details: Standard 1940s candy bar approximately 4 inches long, chocolate coating with visible peanuts, partially melted
+      and gooey from microwave exposure, sticky consistency unlike normal melting, wrapper partially damaged and sticky, cylindrical
+      magnetron tube mounted on test apparatus with visible heat distortion around equipment, cooling systems operating at
+      full capacity, measurement instruments showing active readings
+    background: Other radar equipment arranged on workbenches, radiation warning signs on walls, laboratory personnel working
+      at distant stations unaware of discovery
+    atmosphere: High-energy electrical humming from active magnetron, moment of scientific curiosity overcoming surprise,
+      sense of unexpected discovery that could change everything, electromagnetic forces invisibly affecting nearby objects,
+      no text or letters visible
   composition:
-    cameraAngle: Medium shot from side angle showing both men and equipment
-    focus: Popcorn kernels in container positioned strategically near magnetron equipment
-    depth: Foreground shows popcorn container and magnetron, middle ground features scientist and colleague observing, background
-      reveals broader laboratory setting
+    cameraAngle: Close-up shot focusing on engineer's surprised expression and melted candy
+    focus: Melted chocolate bar in engineer's hand with active magnetron visible in background
+    depth: Foreground shows detailed melted candy evidence, middle ground features engineer's reaction, background displays
+      active magnetron equipment
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

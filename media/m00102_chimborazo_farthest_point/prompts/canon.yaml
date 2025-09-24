@@ -1,69 +1,114 @@
 canon:
   characters:
-    - id: "character_scientist"
-      name: "Scientist"
+    - id: "character_IN"
+      name: "Character IN"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 40s, scholarly build, wire-rimmed glasses, thoughtful expression"
-            clothing: "Khaki field research clothes, hiking boots, backpack with scientific equipment"
-            posture: "Measuring and observing with professional instruments"
-    - id: "character_mountaineer"
-      name: "Mountaineer"
+          - appearance: "Elderly 17th-century English scholar, shoulder-length graying hair, sharp intellectual features, medium build"
+            clothing: "Black academic robes, white collar bands, period-appropriate wig when formal"
+            position: "Seated at desk with quill pen in hand, surrounded by mathematical calculations"
+            action: "Writing theoretical calculations and diagrams"
+    - id: "character_AH"
+      name: "Character AH"
       description_block: |
         characters:
-          - appearance: "Person in 30s, athletic build, weathered face from high altitude exposure"
-            clothing: "Modern mountaineering gear, insulated jacket, climbing helmet, oxygen equipment"
-            posture: "Confident stance adapted to high altitude terrain"
-    - id: "character_local_guide"
-      name: "Local Guide"
+          - appearance: "33 years old, tall lean build, sharp Germanic features, intense blue eyes, brown hair"
+            clothing: "Early 19th-century expedition gear - wool coat, leather boots, canvas pack, scientific instruments"
+            position: "Standing or climbing in mountainous terrain"
+            action: "Taking scientific measurements and notes while showing determination despite physical distress"
+    - id: "character_AB"
+      name: "Character AB"
       description_block: |
         characters:
-          - appearance: "Indigenous Ecuadorian man, 40s, strong build adapted to high altitude, wise expression"
-            clothing: "Traditional Andean wool clothing mixed with modern outdoor gear"
-            posture: "Familiar with mountain terrain, pointing and guiding others"
+          - appearance: "32 years old, medium height, dark hair, kind scholarly face, often carrying botanical specimens"
+            clothing: "Practical expedition attire, leather satchel for plant collection, sturdy boots"
+            position: "Beside expedition partner, examining natural specimens"
+            action: "Collecting botanical samples and documenting medical observations"
+    - id: "character_EW"
+      name: "Character EW"
+      description_block: |
+        characters:
+          - appearance: "40 years old, stocky powerful build, determined expression, thick mustache typical of Victorian era"
+            clothing: "1880s climbing gear - wool sweaters, heavy boots, ice axe, rope equipment"
+            position: "Leading climbing team on steep mountain slopes"
+            action: "Demonstrating confident leadership under extreme mountain conditions"
+    - id: "character_JC"
+      name: "Character JC"
+      description_block: |
+        characters:
+          - appearance: "Experienced mountain guide, weathered face, strong alpine build, distinctive Italian features"
+            clothing: "Professional guide equipment of 1880s - layered wool, climbing boots, guide rope"
+            position: "Supporting climbing team as professional guide"
+            action: "Providing technical expertise and ensuring team safety"
+    - id: "character_CL"
+      name: "Character CL"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged French aristocrat, powdered wig, dignified bearing, intellectual intensity"
+            clothing: "18th-century formal expedition attire suitable for tropical highlands, scientific instruments"
+            position: "Leading scientific expedition team"
+            action: "Directing geodesic measurements with authoritative precision"
   locations:
-    - id: "location_chimborazo_peak"
-      name: "Chimborazo Peak"
+    - id: "chimborazo_summit"
+      name: "Chimborazo Summit"
       description_block: |
         setting:
-          location: "Mount Chimborazo summit, Ecuador, snow-covered volcanic peak at 6,263 meters"
-        mainElements: "Snow-covered rocky peak, glacial ice formations, thin atmosphere, Andean mountain range stretching to horizon"
-        atmosphere: "Majestic, challenging high-altitude environment with stunning mountain vistas"
-    - id: "location_everest_peak"
-      name: "Everest Peak"
+          location: "Highest peak of massive stratovolcano, 6,263m elevation, Chimborazo Province, Ecuador"
+        mainElements: "Four distinct summits with Whymper summit highest, perpetual snow and ice cap, steep volcanic slopes, dramatic crevasses"
+        atmosphere: "Thin air at extreme altitude, brutal cold, brilliant equatorial sunlight, complete silence except for wind"
+    - id: "quito_base"
+      name: "Quito, Ecuador"
       description_block: |
         setting:
-          location: "Mount Everest summit, Nepal/Tibet border, highest elevation peak at 8,849 meters"
-        mainElements: "Rocky summit with prayer flags, snow-covered ridges, Himalayan peaks extending endlessly"
-        atmosphere: "Ultimate mountaineering challenge, world's highest elevation, thin air and extreme conditions"
-    - id: "location_equatorial_research_station"
-      name: "Equatorial Research Station"
+          location: "High-altitude colonial city at 2,850m elevation, surrounded by volcanic peaks, Ecuador"
+        mainElements: "Spanish colonial architecture, central plaza, Jesuit churches, indigenous markets"
+        atmosphere: "Cool mountain air, dramatic clouds, constant view of surrounding volcanoes including distant Chimborazo"
+    - id: "riobamba_city"
+      name: "Riobamba"
       description_block: |
         setting:
-          location: "Scientific research station near equator in Ecuador"
-        mainElements: "Modern scientific equipment, computers, measurement devices, topographical maps"
-        atmosphere: "Technical research environment focused on geographical measurements"
-    - id: "location_earth_cross_section"
-      name: "Earth Cross Section"
+          location: "Highland city 30km southeast of Chimborazo, elevation 2,754m, Ecuador"
+        mainElements: "Colonial Spanish grid layout, central cathedral, market squares, view of Chimborazo massif"
+        atmosphere: "Clear highland air, dramatic mountain backdrop, agricultural valley setting"
+    - id: "tapia_plain"
+      name: "Tapia Plain"
       description_block: |
         setting:
-          location: "Conceptual view showing Earth's interior structure and shape"
-        mainElements: "Earth's layers visible, equatorial bulge apparent, comparative distance measurements"
-        atmosphere: "Educational diagram showing Earth's true oblate spheroid shape"
+          location: "High-altitude desert plain at 2,642m elevation, approach to Chimborazo, Ecuador"
+        mainElements: "Sparse vegetation of cacti and Schinus molle willows, wild llamas grazing, volcanic soil"
+        atmosphere: "Stark high-altitude landscape, intense equatorial sun, thin air, dramatic mountain views"
+    - id: "cambridge_study"
+      name: "Cambridge Study"
+      description_block: |
+        setting:
+          location: "17th-century scholarly study at Cambridge University, England"
+        mainElements: "Wooden desk with inkwell and papers, bookshelves filled with scientific texts, window overlooking courtyard"
+        atmosphere: "Quiet scholarly environment, warm candlelight, intellectual focus and concentration"
+    - id: "french_royal_academy"
+      name: "French Royal Academy"
+      description_block: |
+        setting:
+          location: "18th-century meeting hall of the Royal Academy of Sciences, Paris, France"
+        mainElements: "Formal chamber with ornate decoration, large table for meetings, scientific instruments on display"
+        atmosphere: "Formal academic environment representing cutting-edge 18th-century science"
   items:
-    - id: "item_gps_equipment"
-      name: "GPS Equipment"
+    - id: "mercury_barometer"
+      name: "Mercury Barometer"
       description_block: |
-        details: "Modern GPS devices, satellite communication equipment, precise measurement instruments"
-    - id: "item_mountaineering_gear"
-      name: "Mountaineering Gear"
+        details: "Glass tube filled with mercury, brass fittings, wooden protective case, approximately 80cm long, precision instrument for measuring atmospheric pressure and calculating altitude"
+    - id: "geodetic_instruments"
+      name: "Geodetic Survey Equipment"
       description_block: |
-        details: "Oxygen tanks, climbing ropes, ice axes, insulated sleeping bags, high-altitude survival equipment"
-    - id: "item_scientific_instruments"
-      name: "Scientific Instruments"
+        details: "Brass theodolites, surveying chains, astronomical instruments, measurement standards - 18th-century precision instruments for measuring angles and distances across terrain"
+    - id: "climbing_equipment_1880"
+      name: "1880s Mountaineering Gear"
       description_block: |
-        details: "Surveying equipment, altimeters, barometric pressure gauges, geological measurement tools"
-    - id: "item_topographical_maps"
-      name: "Topographical Maps"
+        details: "Hemp ropes, ice axes, hobnailed boots, wool clothing layers, canvas packs - state-of-art 1880s alpine equipment"
+    - id: "satellite_data"
+      name: "Modern GPS Satellite Data"
       description_block: |
-        details: "Detailed geographical maps showing elevation contours, mountain ranges, coordinate systems"
+        details: "Digital displays showing Earth measurements, computer screens with GPS coordinates, satellite imagery confirming Chimborazo summit at 6,384.4km from Earth's center"
+    - id: "earth_diagram"
+      name: "Earth's Oblate Shape Diagram"
+      description_block: |
+        details: "Scientific diagram showing Earth's oblate spheroid shape with equatorial bulge, measurement annotations showing 21km difference between equatorial and polar radius"

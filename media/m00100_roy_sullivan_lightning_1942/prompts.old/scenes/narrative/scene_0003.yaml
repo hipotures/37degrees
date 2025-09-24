@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Second Strike - Driving Through Storm 1969"
+  setting:
+    time: "July 1969, evening"
+    location: "Winding road through Shenandoah National Park mountains"
+    weather: "Intense thunderstorm with frequent lightning"
+  characters:
+    - appearance: "American man, 57, brawny build resembling Gene Hackman, rugged weathered face, more cautious bearing"
+      clothing: "US Park Service uniform with ranger hat, work boots, utility belt"
+      position: "Driving park ranger truck during thunderstorm"
+      action: "Being struck by lightning while driving, knocked unconscious with burned eyebrows"
+  scene:
+    mainElements: "Official park ranger truck with government markings struck by lightning on mountain road"
+    details: "Lightning bolt striking ranger truck directly, brilliant electrical discharge entering vehicle, ranger knocked unconscious behind wheel, burned eyebrows and hair from electrical contact, destroyed wristwatch from electromagnetic pulse, truck stopped safely despite driver unconsciousness"
+    background: "Paved park road with forest on both sides, scenic mountain vistas, storm clouds with active lightning"
+    atmosphere: "Scenic drive through wilderness becoming dangerous lightning encounter, second extraordinary survival demonstrating unusual lightning attraction, routine park duty becoming survival story, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing lightning strike on moving vehicle"
+    focus: "Second lightning strike while performing normal park duties"
+    depth: "Lightning-struck truck in foreground, mountain road in middle ground, storm-covered Shenandoah wilderness in background"

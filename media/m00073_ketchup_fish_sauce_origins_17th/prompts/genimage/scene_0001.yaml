@@ -1,27 +1,29 @@
 sceneDescription:
   setting:
-    time: Early 17th century, dawn
-    location: Traditional Chinese fishing village on Fujian coast, South China Sea, 17th century
-    weather: Clear morning with gentle sea breeze
+    time: 1650s, early morning
+    location: Coastal fishing village of Phan Thiết, Vietnam
+    weather: Clear tropical morning with gentle sea breeze
   characters:
-  - appearance: Chinese man, 40s, weathered face from sea voyages, sharp intelligent eyes, lean build from travel
-    clothing: Dark blue silk tunic with traditional Chinese collar, wide-legged pants, fabric belt, worn leather boots
-    position: Standing on stone quay overlooking fishing boats
-    action: Supervising fishermen preparing nets and examining catch from night fishing
+  - appearance: Vietnamese man in his 30s, lean muscular build from fishing work, sun-darkened skin, traditional hair tied
+      back
+    clothing: Simple fishing garments - loose cotton pants, sleeveless tunic, conical hat, bare feet
+    position: Kneeling beside large ceramic fermentation jar
+    action: Carefully layering fresh anchovies with coarse salt in precise alternating patterns
   scene:
-    mainElements: Wooden fishing boats with curved hulls, bamboo drying racks, stone quay, traditional houses with curved
-      tile roofs
-    details: Fishermen sorting silver anchovies into wooden baskets, ceramic jars lined up for fish processing, coarse sea
-      salt in bamboo containers, traditional Chinese architecture with upturned eaves, morning mist rising from water
-    background: South China Sea stretching to horizon, fishing fleet returning with dawn catch, distant mountains shrouded
-      in morning haze
-    atmosphere: Bustling maritime activity with salt air and fish processing scents, peaceful dawn productivity, ancient fishing
-      traditions in action, no text or letters visible
+    mainElements: Large brown glazed ceramic fermentation jars arranged in rows under bamboo shelter, each approximately 2
+      feet tall with wide mouths and wooden lids
+    details: Multiple ceramic vessels in various stages of fermentation, some containing dark brown liquid visible through
+      translucent ceramic, wooden ladles for stirring, woven baskets filled with fresh silver anchovies, mounds of coarse
+      sea salt, bamboo scoops for measuring ingredients
+    background: Traditional Vietnamese bamboo houses on stilts, fishing nets hanging from wooden poles to dry, traditional
+      fishing boats with distinctive curved prows beached on sandy shore
+    atmosphere: Strong aromatic fish scent from fermentation process mixed with salt air, peaceful morning sounds of waves
+      lapping shore, distant calls of seabirds, no text or letters visible
   composition:
-    cameraAngle: Wide establishing shot from elevated position
-    focus: Fishing village and maritime activity with merchant overseeing operations
-    depth: Foreground shows merchant and immediate dock area, middle ground features boats and fishermen, background shows
-      expansive sea and coastline
+    cameraAngle: Medium-high angle looking down at fisherman and fermentation area
+    focus: Fisherman's hands carefully layering fish and salt in ceramic jar
+    depth: Foreground shows detailed fermentation process, middle ground reveals multiple ceramic jars under shelter, background
+      shows coastal village setting
 visualElements:
   colorPalette:
     primary:

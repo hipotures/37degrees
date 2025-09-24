@@ -1,106 +1,78 @@
 sceneDescription:
   setting:
-    time: 2010, 2:45 AM
-    location: Child's bedroom in family home
-    weather: Quiet suburban night
+    time: 1995, 3:30 AM
+    location: College dormitory room, small single bedroom with standard university furnishing
+    weather: Calm night, no visible weather through curtained window
   characters:
-  - appearance: Young child, 8-12 years old, pale complexion with wide frightened eyes
-    clothing: Light colored pajamas or nightgown
-    position: In bed, half-sitting up or lying frozen with covers pulled up
-    action: Staring in terror, unable to move or speak, gripping bedsheets
-  - appearance: Tall dark silhouette, 8-10 feet in height, completely featureless black form with no visible face or limbs
-    clothing: Wide-brimmed fedora hat and long dark coat or trench coat, both appearing as solid black shadow
-    position: Standing upright, often positioned in doorways, corners, or beside beds
-    action: Motionless watching presence, occasionally seen moving with fluid gliding motion
+  - appearance: Young woman in early 20s, college student, exhausted appearance, fearful expression, dark hair
+    clothing: Oversized college t-shirt and sleep shorts, typical 1990s student sleepwear
+    position: Lying in narrow dormitory bed, body paralyzed, eyes wide with terror
+    action: Attempting to scream or move but completely immobilized, staring at foot of bed in absolute horror
   scene:
-    mainElements: Small bed with colorful bedding, toys scattered on floor, desk with school supplies, posters on walls
-    details: Night light providing minimal illumination, creating long shadows and making familiar objects appear threatening.
-      Standard interior doorway leading to hallway, partially open or fully open, creating rectangular frame of darkness where
-      Hat Man typically appears. Stuffed animals and action figures cast strange shadows in the dim light.
-    background: Children's artwork taped to walls, bookshelf with picture books, window with cartoon-themed curtains showing
-      dark night outside
-    atmosphere: Night light providing minimal illumination, creating long shadows and making familiar objects appear threatening.
-      Childhood sanctuary transformed into place of terror, familiar room becoming alien and threatening
+    mainElements: Standard 1990s college dormitory room with single bed, small desk with textbooks, dresser with personal
+      items, posters on walls, single window with basic curtains
+    details: Textbooks scattered on desk surface, lamp with fabric shade providing dim lighting, small television on dresser
+      showing static, personal photographs taped to wall, backpack hanging on chair. Room has institutional carpet and cinder
+      block walls painted institutional colors. Digital clock radio shows 3:30 AM in red LED numbers
+    background: Typical dormitory hallway visible through gap under door, showing fluorescent lighting from corridor, other
+      student rooms along hallway, institutional college building architecture
+    atmosphere: Modern domestic vulnerability, sense of safety violated in familiar space, technological age meeting ancient
+      fears, oppressive presence that doesn't belong in ordered collegiate environment, complete terror in supposedly secure
+      environment, no text or letters visible
   composition:
-    cameraAngle: Low angle from child's eye level in bed
-    focus: Towering Hat Man figure looming in doorway while small child cowers in bed
-    depth: 'Foreground: colorful bed covers and stuffed animals, middle: frightened child frozen in bed, background: massive
-      Hat Man silhouette dominating doorway, no text or letters visible'
+    cameraAngle: Low angle shot from floor level near foot of bed, looking up at paralyzed student
+    focus: College student's terrified face and wide eyes, with ominous empty space at foot of bed
+    depth: Foreground shows institutional carpeting and bed frame, middle ground focuses on frightened student, background
+      reveals typical 1990s dorm room details and hallway light under door
 visualElements:
   colorPalette:
     primary:
-    - deep black
-    - pearl white
-    - charcoal gray
-    - silver gray
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - shadow black
-    - highlight white
-    background: dim interior gray with deep shadows
-    usageNotes: True monochrome only, no color information whatsoever
-    saturation: none (pure grayscale)
-    contrast: high (strong blacks and whites with limited midtones)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: photographic realism, no drawn outlines
-    weight: none (photographic approach)
-    color: none
-    texture: film grain micro-contrast creates edge definition
-    edgeTreatment: natural photographic edges
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: low-key tungsten practical or Fresnel spot
-    direction: single source from above or 30-60 degrees off axis
-    intensity: high contrast with key to fill ratio approximately 8:1
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: hard-edged dramatic shadows
-      color: deep black
-      opacity: 90-95%
-      offset: sharp and directional based on single light source
-    highlights: narrow rim light +0.5 to +1 EV for edge separation
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: photographic black and white film aesthetic
-    texture: visible film grain, worn surfaces, fabric textures
-    detailLevel: high in lit areas, obscured in shadows
-    finish: matte film print quality
-    printEffects: selenium toning for slight warm-cool split
-  perspective:
-    type: rectilinear standard lens perspective
-    vanishingPoints: natural perspective, no distortion
-    distortion: minimal, true to lens focal length
-    depth: shallow depth of field at f/2.8-4
-  composition:
-    layout: tight interior framing with little headroom
-    hierarchy: light draws attention to key elements
-    gridSystem: rule of thirds composition
-    whitespace: filled with dark shadows and negative space
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: dramatic, mysterious, tense
-    emotion: paranoia, desire, danger
-    tempo: static but charged with tension
-    energy: suppressed, coiled
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - noir atmosphere
-    - urban decay
-    - moral ambiguity
-    - femme fatale
-    - hard-boiled
-    - venetian blind shadows
-  symbolism:
-    common:
-    - venetian blind light patterns
-    - cigarette smoke
-    - rain on windows
-    - mirror reflections
-    figures:
-    - detective in fedora
-    - woman in evening dress
-    - shadowy figure in doorway
-    abstract:
-    - light versus dark moral conflicts
-    - urban isolation
-    architectural:
-    - narrow corridors
-    - dimly lit offices
-    - seedy hotel rooms
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

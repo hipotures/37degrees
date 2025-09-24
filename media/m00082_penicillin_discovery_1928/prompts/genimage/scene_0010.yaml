@@ -1,29 +1,40 @@
 sceneDescription:
   setting:
-    time: 1928 late September, evening
-    location: St Mary's Hospital Bacteriology Laboratory, Paddington, London
-    weather: Clear autumn evening with golden hour lighting
+    time: December 1945, formal evening ceremony
+    location: Stockholm Concert Hall, Nobel Prize ceremony venue
+    weather: Cold Swedish winter evening
   characters:
-  - appearance: Scottish man, 47 years old, average height, lean build, receding dark hair, thoughtful brown eyes, clean-shaven
-    clothing: 1920s white laboratory coat over dark suit with vest and tie, or dark wool suit with waistcoat
-    position: Standing at laboratory bench writing in research notebook
-    action: Recording final observations and preparing research publication notes
+  - appearance: 47-year-old Scottish man, short stature, round face with receding hairline, bright observant eyes, typically
+      serious expression
+    clothing: Formal black evening wear with white bow tie appropriate for Nobel ceremony, dress shoes, formal medal and insignia
+    position: Standing at podium receiving Nobel Prize medal
+    action: Accepting Nobel Prize recognition, holding medal, acknowledging audience
+  - appearance: Australian-born scientist, tall with angular features, serious demeanor
+    clothing: Formal evening wear appropriate for Nobel ceremony
+    position: Standing beside Character AF at ceremony podium
+    action: Participating in joint Nobel Prize recognition ceremony
+  - appearance: German-Jewish refugee scientist, medium build, intense expression
+    clothing: Formal evening wear appropriate for Nobel ceremony
+    position: Standing with other Nobel recipients
+    action: Participating in joint recognition for penicillin development
   scene:
-    mainElements: Laboratory bench with original contaminated culture plate preserved, research documentation, scientific
-      equipment used in discovery
-    details: Original contaminated petri dish carefully preserved under glass cover, laboratory notebook open with detailed
-      observations and sketches, brass microscope positioned for continued study, glass flasks containing mold cultures for
-      further research, chemical bottles and extraction equipment, evening sunlight creating warm glow through laboratory
-      windows, sense of momentous scientific achievement, no text or letters visible
-    background: Laboratory shelves with scientific equipment, institutional hospital setting, view of London through windows
-      transitioning to evening light
-    atmosphere: Quiet satisfaction of scientific discovery, anticipation of future medical breakthroughs, recognition of potential
-      to save countless lives
+    mainElements: Elegant ceremony hall with formal podium, distinguished audience in formal evening wear, ceremonial arrangements
+      befitting Nobel Prize presentation
+    details: Character AF, Character HF, and Character EC standing together at ceremonial podium receiving joint Nobel Prize
+      in Physiology or Medicine, formal presentation of gold medals and certificates, distinguished audience of scientists
+      and dignitaries in formal evening attire, ceremonial flowers and formal decorations, Swedish royal insignia and Nobel
+      Prize ceremonial elements, formal photographic documentation of historic moment, chandelier lighting creating elegant
+      atmosphere for ceremony
+    background: Stockholm Concert Hall interior with formal seating, Swedish dignitaries and scientific community representatives,
+      ceremonial banners and formal decorations
+    atmosphere: Formal ceremonial environment befitting Nobel Prize recognition, dignified celebration of scientific achievement,
+      historical significance of moment
   composition:
-    cameraAngle: Medium shot showing Character AF with his groundbreaking discovery in context
-    focus: Character AF documenting his discovery with original contaminated culture visible
-    depth: Foreground shows preserved contaminated culture and research documentation, middle ground captures character AF's
-      methodical work, background reveals laboratory setting with evening light creating sense of historical significance
+    cameraAngle: Medium shot capturing all three Nobel recipients at ceremonial moment
+    focus: Character AF, Character HF, and Character EC receiving joint recognition for penicillin discovery and development
+    depth: Foreground shows detailed view of Nobel Prize medals and ceremonial presentation, middle ground captures the three
+      scientists at the moment of recognition, background reveals formal ceremony audience and elegant Stockholm Concert Hall
+      setting, no text or letters visible
 visualElements:
   colorPalette:
     primary:

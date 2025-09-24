@@ -1,83 +1,99 @@
 canon:
   characters:
-    - id: "character_KR"
-      name: "Character KR"
-      description_block: |
-        characters:
-          - appearance: "Caucasian man, 40s, athletic build, pilot training posture"
-            clothing: "Casual evening attire, light jacket or polo shirt, jeans"
-            posture: "Alert, experienced observer stance, hands often on hips or pointing skyward"
     - id: "character_FS"
       name: "Character FS"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 60s, grey hair, distinguished politician bearing"
-            clothing: "Business suit with tie for official events, casual attire for evening"
-            posture: "Authoritative stance, gesturing with confidence"
-    - id: "witness_family"
-      name: "Witness Family"
+          - appearance: "Caucasian man, mid-50s, tall distinguished bearing, graying brown hair, prominent jawline, typically serious expression"
+            clothing: "Dark business suit with conservative tie during press conferences, white dress shirt, polished appearance befitting governor's office"
+            position: "Standing at podium or seated in official government setting"
+            action: "Speaking at press conferences, making official statements, or reviewing documents"
+    - id: "character_LK"
+      name: "Character LK"
       description_block: |
         characters:
-          - appearance: "Family group of 3-4 people, mixed ages from children to adults, suburban residents"
-            clothing: "Casual evening wear, light sweaters, t-shirts, jeans appropriate for cool March desert evening"
-            posture: "Looking upward, pointing at sky, standing close together in yard or street"
-    - id: "military_pilot"
-      name: "Military Pilot"
+          - appearance: "Caucasian woman, 50s, professional medical bearing, blonde hair, alert intelligent eyes, confident posture"
+            clothing: "Professional medical attire, white lab coat during hospital work, or casual professional dress during interviews and research"
+            position: "Standing with documentation or seated during interviews"
+            action: "Reviewing photographs, conducting interviews, or presenting research findings"
+    - id: "character_KR"
+      name: "Character KR"
       description_block: |
         characters:
-          - appearance: "Military pilot, 30s, fit build, focused expression"
-            clothing: "Standard olive drab flight suit with patches, flight helmet with oxygen mask, full gear"
-            posture: "Professional pilot stance, hands on controls or checking instruments"
-    - id: "news_reporter"
-      name: "News Reporter"
+          - appearance: "Caucasian man, mid-40s, rugged leading man features, sandy brown hair, weathered face from outdoor activities"
+            clothing: "Casual pilot attire - leather jacket or flight jacket, jeans, aviator sunglasses, practical flying clothes"
+            position: "In aircraft cockpit or standing beside private plane"
+            action: "Piloting aircraft, communicating with air traffic control, or pointing skyward"
+    - id: "character_EJ"
+      name: "Character EJ"
       description_block: |
         characters:
-          - appearance: "Professional reporter, 30s-40s, well-groomed appearance"
-            clothing: "Business attire suitable for TV, blazer or dress shirt, holding microphone"
-            posture: "Confident reporting stance, facing camera or interviewing witnesses"
+          - appearance: "Caucasian man, 30s-40s, military bearing, regulation military haircut, serious professional demeanor"
+            clothing: "A-10 pilot flight suit with patches and insignia, helmet during flight operations, military dress uniform for official statements"
+            position: "In military aircraft cockpit or standing beside A-10 aircraft"
+            action: "Operating aircraft controls, conducting flight operations, or giving military briefings"
+    - id: "character_FB"
+      name: "Character FB"
+      description_block: |
+        characters:
+          - appearance: "Professional businesswoman, well-groomed, conservative styling appropriate for political office"
+            clothing: "Business suits, professional attire suitable for city council meetings and public appearances"
+            position: "Standing at city hall podium or seated at council meeting table"
+            action: "Speaking to press, taking phone calls from constituents, or reviewing documents"
   locations:
-    - id: "phoenix_suburbs"
-      name: "Phoenix Suburbs"
+    - id: "phoenix_valley_night"
+      name: "Phoenix Valley Night View"
       description_block: |
         setting:
-          location: "Phoenix metropolitan area suburbs, Arizona desert landscape with mountain backdrop"
-        mainElements: "Sprawling suburban neighborhoods, desert terrain, mountain ranges visible in distance"
-        atmosphere: "Clear desert evening sky, city lights beginning to illuminate, peaceful residential setting"
-    - id: "sierra_estrella_mountains"
-      name: "Sierra Estrella Mountains"
+          location: "Phoenix metropolitan area viewed from elevated position, Arizona desert valley at night"
+        mainElements: "Sprawling city lights across flat desert valley, scattered suburban neighborhoods, major highways with vehicle lights creating flowing patterns, Sky Harbor Airport with runway lighting systems visible"
+        atmosphere: "Clear desert night air, excellent visibility, mild spring evening temperatures, stars visible above city glow"
+    - id: "sky_harbor_approach"
+      name: "Sky Harbor Airport Approach"
       description_block: |
         setting:
-          location: "Sierra Estrella mountain range southwest of Phoenix, Arizona"
-        mainElements: "Rocky desert mountain ridgeline silhouetted against evening sky"
-        atmosphere: "Dramatic mountain backdrop, clear visibility, desert landscape"
-    - id: "davis_monthan_afb"
-      name: "Davis-Monthan Air Force Base"
+          location: "Phoenix Sky Harbor International Airport approach corridor, Arizona"
+        mainElements: "Multiple illuminated runways, control tower with beacon lights, terminal buildings, aircraft navigation lighting systems, busy metropolitan airport operations"
+        atmosphere: "Clear desert evening air, normal airport operations atmosphere, good visibility for aircraft approach, professional aviation environment"
+    - id: "barry_goldwater_range"
+      name: "Barry Goldwater Air Force Range"
       description_block: |
         setting:
-          location: "Davis-Monthan Air Force Base, Tucson, Arizona"
-        mainElements: "Military airfield with runways, hangars, control tower, aircraft parking areas"
-        atmosphere: "Professional military environment, well-lit facility, organized aircraft operations"
-    - id: "press_conference_room"
-      name: "Press Conference Room"
+          location: "Vast desert bombing and training range in southwestern Arizona, remote mountainous terrain"
+        mainElements: "Dark desert landscape, Sierra Estrella mountains silhouetted against night sky, military airspace markers, isolated target areas and observation points"
+        atmosphere: "Dark desert night, crystal clear skies perfect for training operations, completely isolated from civilian areas, military operational environment"
+    - id: "prescott_mountain_view"
+      name: "Prescott Mountain Area"
       description_block: |
         setting:
-          location: "Government press conference room, Phoenix, Arizona"
-        mainElements: "Official podium with microphones, state seal, formal government setting"
-        atmosphere: "Serious official environment with media cameras and reporters present"
+          location: "Mountain town of Prescott, Arizona, elevated at 5,400 feet with pine forest surroundings"
+        mainElements: "Historic downtown area with period buildings, surrounding forested mountains, clear high-altitude atmosphere, residential areas on hillsides"
+        atmosphere: "Cool March evening, crystal clear mountain air, unobstructed panoramic sky views, peaceful small town environment"
+    - id: "governor_office_podium"
+      name: "Arizona Governor's Office Press Room"
+      description_block: |
+        setting:
+          location: "Government complex press conference room in central Phoenix, Arizona"
+        mainElements: "Official podium with state seal, formal government chamber, media seating area, Arizona state flags, official government décor"
+        atmosphere: "Formal government atmosphere, media presence, bright press lighting, official proceedings environment"
   items:
-    - id: "a10_aircraft"
-      name: "A-10 Aircraft"
+    - id: "v_shaped_formation"
+      name: "V-Shaped Light Formation"
       description_block: |
-        details: "Fairchild Republic A-10 Thunderbolt II, grey camouflage paint scheme, Maryland ANG 175th Wing markings with MD tail code, twin engines mounted above fuselage, straight wing design, formation lights visible for night operations"
+        details: "Perfect V-shaped arrangement of six to seven amber-orange lights, estimated 1-2 miles wide, maintaining precise geometric formation, completely silent operation, lights appearing as steady non-blinking points"
     - id: "military_flares"
-      name: "Military Flares"
+      name: "LUU-2B/B Illumination Flares"
       description_block: |
-        details: "LUU-2B/B illumination flares, extremely bright magnesium-based light source, deployed on parachutes, creating steady golden-amber glow against night sky, 2 million candlepower intensity"
-    - id: "video_camera"
-      name: "Video Camera"
+        details: "Bright orange-amber military pyrotechnic flares attached to parachutes, approximately 3 feet long, slow-burning illumination devices creating balloon effect on descent from 15,000 feet altitude"
+    - id: "alien_costume_prop"
+      name: "Theatrical Alien Costume"
       description_block: |
-        details: "1990s home video camera, VHS or Hi8 format, handheld consumer model, viewfinder extended, recording lights active"
-    - id: "v_formation_lights"
-      name: "V-Formation Lights"
+        details: "Large rubber gray alien head mask with oversized black eyes, full body extraterrestrial costume, theatrical and obviously fake appearance, worn with handcuffs during press conference"
+    - id: "a10_aircraft"
+      name: "A-10 Thunderbolt II Aircraft"
       description_block: |
-        details: "Five to seven bright red-orange or white orb-like lights arranged in symmetric V or boomerang shape, maintaining fixed formation while moving slowly across night sky, completely silent movement"
+        details: "Twin-engine military attack aircraft with distinctive twin tail design, gray camouflage paint scheme, single-seat cockpit, Maryland Air National Guard markings and insignia"
+    - id: "photographic_evidence"
+      name: "UFO Photography Documentation"
+      description_block: |
+        details: "Series of photographs showing unexplained lights and formations over Phoenix area, multiple exposures on film, professional documentation equipment, research files and analysis materials"

@@ -1,37 +1,36 @@
 sceneDescription:
   setting:
-    time: February 1954, afternoon
-    location: Sterile surgical operating room, Moscow Institute of Surgery
-    weather: Indoor controlled sterile environment
+    time: February 12, 1954, 14:45 PM
+    location: Post-operative recovery room with monitoring equipment, Moscow Institute of Surgery
+    weather: Late afternoon winter light, controlled medical environment
   characters:
-  - appearance: Caucasian man, 38 years old, dark hair slicked back, intense focused eyes behind wire-rim glasses, scholarly
-      demeanor
-    clothing: White laboratory coat over dark suit vest and white shirt, medical gloves, professional surgical attire
-    position: Positioned at operating table working with surgical instruments
-    action: Performing precise surgical procedure with intense concentration and methodical movements
-  - appearance: Caucasian woman, 35 years old, brown hair pinned back, attentive expression, medical professional
-    clothing: White nursing uniform, medical cap, practical flat shoes, sterile gloves
-    position: Standing beside surgeon at operating table
-    action: Assisting with surgical procedure, monitoring patient status and providing required instruments
-  - appearance: Caucasian man, 45 years old, graying temples, serious expression, medical professional bearing
-    clothing: White laboratory coat, dark trousers, medical cap, sterile surgical mask around neck
-    position: Operating monitoring equipment at side of room
-    action: Carefully monitoring vital signs and medical readings during ongoing procedure
+  - appearance: 42-year-old Caucasian man, medium build, serious facial expression with intense dark eyes, receding hairline,
+      clean-shaven
+    clothing: White surgical coat over dark suit, surgical mask around neck, wire-rimmed glasses
+    position: Standing at operating table or examining surgical instruments
+    action: Methodical and precise movements, confident bearing, intense concentration during procedures
+  - appearance: Middle-aged Caucasian woman, stern features, hair pulled back in neat bun, focused expression
+    clothing: White surgical scrubs, surgical cap, rubber gloves
+    position: Assisting at surgical table or monitoring equipment
+    action: Efficient and methodical movements, calm under pressure, devoted to scientific precision
+  - appearance: Young Caucasian man in his 20s, thin build, serious expression, attentive demeanor
+    clothing: White laboratory coat, surgical gloves, protective eyewear
+    position: Operating equipment or preparing instruments
+    action: Nervous but dedicated movements, careful with equipment and procedures
   scene:
-    mainElements: Active surgical procedure taking place on operating table under bright surgical lighting, medical team working
-      with focused precision
-    details: Bright overhead surgical lamps with adjustable positioning arms providing intense focused illumination, early
-      medical monitoring devices including basic heart rate monitors, temperature gauges, and pressure measurement tools displaying
-      vital information, precise steel surgical instruments in active use on sterile metal tray
-    background: White tiled surgical theater walls, medical equipment cabinets, observation window with additional medical
-      staff visible
-    atmosphere: Intense medical procedure atmosphere with focused concentration, clinical sterile environment, serious scientific
-      undertaking with careful precision
+    mainElements: Hospital bed with restraints, monitoring equipment, observation charts, medical supplies
+    details: Basic 1950s medical monitoring devices, clipboard with charts, water bowls, feeding apparatus. Large German Shepherd
+      host animal with dark coat, approximately 4-5 years old, and small mixed-breed donor animal with light brown coat, both
+      prepared for surgical procedure, now showing signs of successful integration. Both heads showing responses to stimuli,
+      eyes blinking, ears responding to sounds
+    background: Simple institutional room with medical equipment, observation window, clinical furniture
+    atmosphere: Quiet medical monitoring environment, constant vigilance, scientific observation, cautious optimism about
+      unprecedented success, no text or letters visible
   composition:
-    cameraAngle: Medium shot focusing on surgical team during active procedure
-    focus: Medical professionals performing surgical procedure with precision instruments under surgical lighting
-    depth: Operating table and surgical team in foreground, monitoring equipment in middle ground, surgical theater environment
-      in background, no text or letters visible
+    cameraAngle: Medium shot from side showing recovery monitoring
+    focus: Medical team observing and documenting responses from both heads of experimental subject
+    depth: Foreground shows monitoring equipment readings, middle ground captures observation work, background reveals recovery
+      room setting
 visualElements:
   colorPalette:
     primary:

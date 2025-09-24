@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Arrest and Capture of the Accused Pig"
+  setting:
+    time: "1386, evening"
+    location: "Village animal pen area near cottage, Falaise"
+    weather: "Cold winter evening with grey sky"
+  characters:
+    - appearance: "Stocky man, 35s, alert expression, watchful eyes, short beard"
+      clothing: "Court livery in red and gold, leather belt with keys, staff of office"
+      position: "Standing authoritatively beside animal pen, staff planted firmly in ground"
+      action: "Directing capture operation, pointing at pig while maintaining official bearing"
+    - appearance: "Mixed group of men, women, children, various ages, curious and horrified expressions"
+      clothing: "Simple peasant clothes, brown and gray tunics, head coverings, work boots"
+      position: "Gathered in semicircle around pen, keeping safe distance"
+      action: "Watching proceedings with mixture of fascination and fear, some pointing and whispering"
+    - appearance: "Large domestic sow, approximately 3 years old, brown and pink coloring, heavy build around 300 pounds, intelligent but wary eyes"
+      clothing: "No clothing, natural pig appearance"
+      position: "Cornered in wooden pen, backed against fence rails"
+      action: "Showing agitation and fear, snorting and pawing ground, eyes darting between captors"
+  scene:
+    mainElements: "Wooden animal pen with split-rail fencing, mud and straw ground, village cottages in background"
+    details: "Heavy rope being prepared by bailiff, wooden pen construction with vertical posts and horizontal rails, churned mud from pig's movement, scattered straw and feed, other farm animals visible in adjacent pens, torches being lit as daylight fades, iron shackles and chains being brought forward"
+    background: "Village cottages with candlelight beginning to glow in windows, bare winter trees silhouetted against grey sky, smoke rising from chimneys"
+    atmosphere: "Tense official proceedings, crowd excitement mixed with apprehension, unusual nature of arresting animal for human crime, cold winter air with breath visible, growing darkness requiring torchlight, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from outside pen looking in at cornered pig"
+    focus: "Trapped pig as unwitting defendant, bailiff as authority figure"
+    depth: "Foreground shows pen details and rope preparation, middle ground captures pig and bailiff, background reveals watching crowd and village"

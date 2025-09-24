@@ -1,27 +1,32 @@
 sceneDescription:
   setting:
-    time: 1928 September 3rd, morning
-    location: St Mary's Hospital Bacteriology Laboratory, Paddington, London
+    time: September 3, 1928, late morning
+    location: Wooden laboratory bench positioned near window for natural light in Character AF's laboratory
+    weather: Clear London morning providing good natural light for microscope work
   characters:
-  - appearance: Scottish man, 47 years old, average height, lean build, receding dark hair, thoughtful brown eyes, clean-shaven
-    clothing: 1920s white laboratory coat over dark suit with vest and tie, or dark wool suit with waistcoat
-    position: Standing at laboratory entrance, surveying the room after holiday absence
-    action: Returning to laboratory, beginning to assess accumulated culture plates and experiments
+  - appearance: 47-year-old Scottish man, short stature, round face with receding hairline, bright observant eyes, typically
+      serious expression
+    clothing: Dark three-piece suit typical of 1928 academics, white collared shirt, characteristic bow tie, dark leather
+      shoes, occasionally white laboratory coat over formal attire
+    position: Seated at microscope, leaning forward with eye to eyepiece
+    action: Carefully adjusting microscope focus, examining mold structures and bacterial interaction under magnification
   scene:
-    mainElements: Laboratory appearing exactly as left weeks earlier, culture plates waiting for examination, scientific equipment
-      unchanged
-    details: Laboratory bench with rows of petri dishes, some showing normal bacterial growth, brass microscope uncovered
-      for use, laboratory notebook ready for observations, chemical bottles and equipment in same positions, morning light
-      illuminating workspace, sense of returning to routine scientific work, no text or letters visible
-    background: Familiar laboratory setting with shelves of equipment, windows providing natural illumination, institutional
-      hospital environment
-    atmosphere: Resumption of scientific routine, anticipation of reviewing experimental results, methodical approach to laboratory
-      assessment
+    mainElements: Multiple glass Petri dishes left uncovered, microscopes, glass slides, culture media bottles, gas burner
+      for sterilization, laboratory notebooks, brass and black metal compound microscope
+    details: Brass and black metal compound microscope typical of 1920s laboratory equipment with manual focus adjustment,
+      mirror for light reflection, multiple objective lenses, heavy brass construction positioned prominently on bench, glass
+      slides prepared with samples from contaminated culture, initially white fluffy mass that turns blue-green then darker
+      with age showing velvety texture, circular colony with powdery surface visible under magnification, Character AF making
+      detailed observations and measurements
+    background: Laboratory benches with additional equipment, specimen bottles on shelving, natural light streaming through
+      windows
+    atmosphere: Cluttered but functional workspace, September morning light, cool temperature, quiet concentration
   composition:
-    cameraAngle: Medium shot showing character AF's return to familiar workspace
-    focus: Character AF surveying laboratory and preparing to examine culture results
-    depth: Foreground shows laboratory entrance and character AF's position, middle ground captures laboratory bench and equipment,
-      background reveals complete laboratory environment
+    cameraAngle: Side angle shot showing Character AF at microscope with laboratory setting
+    focus: Character AF's concentrated examination through the microscope eyepiece
+    depth: Foreground shows microscope and prepared slides in sharp detail, middle ground captures Character AF's focused
+      examination posture, background reveals broader laboratory environment with equipment and natural lighting, no text
+      or letters visible
 visualElements:
   colorPalette:
     primary:

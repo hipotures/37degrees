@@ -1,38 +1,35 @@
 sceneDescription:
   setting:
-    time: 1949, evening dinner hour
-    location: Major's Cabin Grill restaurant interior, 33 West 33rd Street, Manhattan, New York City
-    weather: Warm interior contrasting with cool autumn evening outside
+    time: Late 1949 - Early 1950, afternoon meeting, around 14:00
+    location: High-floor offices in Empire State Building, 350 Fifth Avenue, Manhattan, with panoramic views
+    weather: Clear winter afternoon with natural light through large windows
   characters:
-  - appearance: Caucasian man, early 40s, average height, clean-shaven face, dark hair combed back with pomade, serious business
-      expression, thin-rimmed glasses
-    clothing: 1949 dark navy business suit with white dress shirt, conservative dark tie, polished black leather shoes, gold
-      wristwatch
-    position: Seated at corner booth, facing companion across table
-    action: Engaged in animated business conversation, occasionally gesturing with hands while speaking
-  - appearance: Caucasian man, late 30s, slightly taller than average, neatly groomed brown hair, mustache, lawyer appearance,
-      attentive eyes
-    clothing: 1949 charcoal gray suit with vest, white shirt, striped tie, leather briefcase often at hand, wire-rim spectacles
-    position: Seated across from companion in booth
-    action: Listening intently, occasionally checking notes from briefcase, nodding in understanding
-  - appearance: Caucasian man, 50s, slightly balding, professional service worker appearance, patient but observant expression
-    clothing: White shirt with black bow tie, black vest, white apron, black trousers, polished black shoes
-    position: Standing beside their booth
-    action: Taking dinner order, holding order pad and pencil, waiting patiently
+  - appearance: Caucasian man, early 40s, average build, clean-shaven businessman, confident posture, sharp facial features
+      typical of 1940s executive
+    clothing: Dark wool business suit, white dress shirt, conservative necktie, polished leather dress shoes, fedora hat when
+      outdoors
+    position: Standing or seated at business table, gesturing with hands when explaining concepts
+    action: Discussing business matters, slight embarrassment when discussing wallet incident, authoritative yet approachable
+      demeanor
+  - appearance: Caucasian man, early 40s, tall and lean, serious expression, wire-rimmed glasses, receding hairline
+    clothing: Conservative dark suit, bow tie preferred over necktie, pocket watch chain, legal briefcase always present
+    position: Seated across from business partners, taking notes frequently
+    action: Methodical and precise, cautious optimism about new venture, reviewing legal documents
   scene:
-    mainElements: Major's Cabin Grill restaurant interior, 33 West 33rd Street, Manhattan, New York City
-    details: Typical 1940s diner with checkered floor, red vinyl booths, chrome fixtures, counter with stools, busy kitchen
-      sounds. Warm lighting from pendant lamps, other diners in business attire, waitresses carrying trays, coffee cups and
-      water glasses on tables, pie display case near entrance, cashier station
-    background: Other occupied booths with businessmen and couples dining, busy counter area with customers on stools, kitchen
-      visible through service window with cooks working, large windows showing Manhattan street scene outside
-    atmosphere: Warm, bustling restaurant atmosphere with clattering plates, conversation buzz, aromatic food smells. The
-      energy of a successful neighborhood establishment during peak dinner hours, social hub for local business community
+    mainElements: Art Deco architectural details, wood-paneled walls, leather furniture, large windows, filing cabinets, typewriters
+      on desks
+    details: Two businessmen across conference table with legal documents and preliminary sketches spread out, fountain pens
+      and notepads, prototype cardboard rectangles on table, coffee cups, window showing Manhattan skyline, legal briefcase
+      open with contracts, pocket watch on table, no text or letters visible
+    background: Panoramic view of Manhattan through large office windows, other skyscrapers and business district visible,
+      afternoon light creating warm office atmosphere
+    atmosphere: Bustling with post-war business energy, sound of typing and telephone conversations, morning sunlight streaming
+      through windows, intense business planning session, revolutionary idea taking shape
   composition:
-    cameraAngle: Medium wide shot capturing the booth scene within restaurant context
-    focus: The two businessmen in conversation at their booth with waiter taking order
-    depth: Foreground shows the booth table with place settings, middle ground features the men and waiter, background displays
-      the busy restaurant interior with other diners, no text or letters visible
+    cameraAngle: Medium shot across conference table showing both men in animated business discussion
+    focus: Both characters FM and RS collaborating over documents and prototype cards on conference table
+    depth: Foreground displays scattered business documents and prototype cards, middle ground shows both businessmen in discussion,
+      background features Manhattan skyline through office windows
 visualElements:
   colorPalette:
     primary:

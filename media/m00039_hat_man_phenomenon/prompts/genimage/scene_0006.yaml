@@ -1,106 +1,79 @@
 sceneDescription:
   setting:
-    time: 2016, 11:45 PM
-    location: Medical sleep study facility with monitoring equipment
-    weather: Indoor controlled environment
+    time: 2010, evening
+    location: Retail pharmacy medicine aisle with over-the-counter medications and sleep aids
+    weather: Indoor retail environment with fluorescent lighting
   characters:
-  - appearance: Adult in 30s-40s, tense facial expression with eyes wide with fear or confusion
-    clothing: Hospital gown with electrodes attached to head and chest
-    position: Lying in hospital-style bed connected to monitoring equipment
-    action: Experiencing monitored sleep paralysis episode while researchers observe
-  - appearance: Middle-aged scientist, 40s-50s, focused professional demeanor
-    clothing: White lab coat over business attire, sometimes with sleep monitoring equipment
-    position: Standing beside monitoring equipment or seated at desk with charts
-    action: Observing sleep study data, taking notes, adjusting monitoring equipment
+  - appearance: Young adult in early 20s, somewhat disheveled appearance, desperate expression, reaching for medication
+    clothing: Casual streetwear, hoodie and jeans, appearance suggesting someone seeking relief from insomnia
+    position: Standing in pharmacy aisle, reaching toward over-the-counter sleep aid section
+    action: Examining medication bottles, reading labels on diphenhydramine products, placing multiple bottles in shopping
+      basket
   scene:
-    mainElements: Hospital-style bed with electrodes and wires, computer monitors displaying sleep data, observation window
-    details: EEG electrodes attached to subject's head, pulse oximeter on finger, computer screens showing brain wave patterns,
-      video cameras positioned around bed. Multiple monitors displaying real-time sleep data including REM patterns and paralysis
-      indicators. Research clipboard with data collection forms.
-    background: Clinical observation room with one-way mirror, additional monitoring equipment, charts on walls showing sleep
-      cycle diagrams
-    atmosphere: Clinical sterile environment with soft monitoring equipment lights, cameras recording from multiple angles.
-      Scientific attempt to document and understand phenomenon in controlled setting
+    mainElements: Retail pharmacy aisle stocked with over-the-counter medications, bright fluorescent lighting, shelves lined
+      with sleep aids and allergy medications, shopping environment with price tags and promotional displays
+    details: Shelves stocked with various brands of diphenhydramine medication, pink and white tablet bottles, different dosage
+      strengths clearly visible, shopping baskets and carts available, pharmacy consultation counter in background. Bright
+      retail lighting, linoleum floors, typical drugstore atmosphere with other customers shopping
+    background: Typical chain pharmacy interior with additional medication aisles, prescription counter with pharmacists working,
+      other customers shopping for health products, retail checkout area
+    atmosphere: Accessible self-medication culture of modern society, easy availability of substances that can induce hallucinogenic
+      experiences, retail environment masking potential dangers, sense of desperate seeking for sleep solutions leading to
+      unintended consequences, no text or letters visible
   composition:
-    cameraAngle: Wide shot from observation room perspective through one-way mirror
-    focus: Subject in monitored sleep study bed while researcher observes data
-    depth: 'Foreground: monitoring equipment and researcher, middle: observation window, background: subject in bed with electrodes
-      in clinical sleep study room, no text or letters visible'
+    cameraAngle: Medium shot down pharmacy aisle, showing customer reaching for medications
+    focus: Person selecting multiple bottles of diphenhydramine with visible desperation for sleep relief
+    depth: Foreground shows shopping basket and floor-level view, middle ground centers on customer and medication selection,
+      background reveals typical pharmacy retail environment
 visualElements:
   colorPalette:
     primary:
-    - deep black
-    - pearl white
-    - charcoal gray
-    - silver gray
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - shadow black
-    - highlight white
-    background: dim interior gray with deep shadows
-    usageNotes: True monochrome only, no color information whatsoever
-    saturation: none (pure grayscale)
-    contrast: high (strong blacks and whites with limited midtones)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: photographic realism, no drawn outlines
-    weight: none (photographic approach)
-    color: none
-    texture: film grain micro-contrast creates edge definition
-    edgeTreatment: natural photographic edges
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: low-key tungsten practical or Fresnel spot
-    direction: single source from above or 30-60 degrees off axis
-    intensity: high contrast with key to fill ratio approximately 8:1
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: hard-edged dramatic shadows
-      color: deep black
-      opacity: 90-95%
-      offset: sharp and directional based on single light source
-    highlights: narrow rim light +0.5 to +1 EV for edge separation
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: photographic black and white film aesthetic
-    texture: visible film grain, worn surfaces, fabric textures
-    detailLevel: high in lit areas, obscured in shadows
-    finish: matte film print quality
-    printEffects: selenium toning for slight warm-cool split
-  perspective:
-    type: rectilinear standard lens perspective
-    vanishingPoints: natural perspective, no distortion
-    distortion: minimal, true to lens focal length
-    depth: shallow depth of field at f/2.8-4
-  composition:
-    layout: tight interior framing with little headroom
-    hierarchy: light draws attention to key elements
-    gridSystem: rule of thirds composition
-    whitespace: filled with dark shadows and negative space
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: dramatic, mysterious, tense
-    emotion: paranoia, desire, danger
-    tempo: static but charged with tension
-    energy: suppressed, coiled
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - noir atmosphere
-    - urban decay
-    - moral ambiguity
-    - femme fatale
-    - hard-boiled
-    - venetian blind shadows
-  symbolism:
-    common:
-    - venetian blind light patterns
-    - cigarette smoke
-    - rain on windows
-    - mirror reflections
-    figures:
-    - detective in fedora
-    - woman in evening dress
-    - shadowy figure in doorway
-    abstract:
-    - light versus dark moral conflicts
-    - urban isolation
-    architectural:
-    - narrow corridors
-    - dimly lit offices
-    - seedy hotel rooms
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

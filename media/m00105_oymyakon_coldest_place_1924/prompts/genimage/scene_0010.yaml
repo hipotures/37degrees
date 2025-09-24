@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1940s, winter
+    location: Established Oymyakon settlement, showing permanent habitation in extreme cold environment
+    weather: Typical extreme winter conditions, but community adapted to permanent survival
+  characters: No characters present in this scene
+  scene:
+    mainElements: Permanent settlement structures designed for extreme cold survival, commemorative elements recognizing the
+      historic temperature record, established infrastructure
+    details: Concrete monument in town square, displays the record temperature, weathered by decades of extreme cold, inscribed
+      with -71.2°C figure, positioned near statue of concrete bull, marking the historic 1924 measurement location. Permanent
+      log buildings with deep foundations, smoke rising from multiple chimneys, established roads and pathways, natural hot
+      springs creating steam in frozen landscape, surrounded by ice formations now integrated into community infrastructure,
+      transformation from nomadic temporary site to permanent human habitation complete, no text or letters visible
+    background: Same mountain valley that created the record cold conditions, now home to permanent human community
+    atmosphere: Legacy achievement - humans permanently inhabiting the coldest place on Earth, monument to both scientific
+      discovery and human adaptation
+  composition:
+    cameraAngle: Wide establishing shot showing completed transformation
+    focus: Monument and permanent settlement representing human adaptation triumph
+    depth: Foreground commemorative monument, middle ground established settlement buildings, background eternal mountain
+      landscape that made the record possible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

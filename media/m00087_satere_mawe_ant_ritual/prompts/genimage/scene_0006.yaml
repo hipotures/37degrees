@@ -1,29 +1,42 @@
 sceneDescription:
   setting:
-    time: Evening, flickering firelight casting dancing shadows
-    location: Central gathering area of Sateré-Mawé village in Amazon rainforest
-    weather: Still warm evening air with ceremonial smoke lingering
+    time: 12:30 PM, ceremony peak moment
+    location: Circular clearing approximately 20 meters diameter in Sateré-Mawé village center, hard-packed earth floor, surrounded
+      by traditional thatched-roof communal houses
+    weather: Intense midday heat, bright overhead sun, sweat-inducing humidity
   characters:
-  - appearance: Indigenous Brazilian boy, 12-15 years old, lean athletic build, bronze skin, straight black hair
-    clothing: Traditional Sateré-Mawé attire with colorful feather ornaments, woven cotton bands, minimal body decoration
-    position: Standing in center of ceremonial circle, arms extended forward
-    action: Slowly putting hands into bullet ant gloves while maintaining brave composure despite visible nervousness
-  - appearance: Elderly Sateré-Mawé man, 60s, weathered bronze skin, white-streaked black hair, wise dark eyes
-    clothing: Traditional ceremonial robes with elaborate feather headdress, shell and bead jewelry, painted body markings
-    position: Standing close beside initiate providing guidance
-    action: Supporting and encouraging young initiate as gloves are donned
+  - appearance: 12 years old, small lean build typical of Amazonian youth, smooth unmarked skin, earnest determined expression,
+      hands trembling slightly from nervousness
+    clothing: Traditional red and black geometric body paint covering torso and face, simple woven palm fiber armbands, otherwise
+      unclothed for ceremony
+    position: Nervous but determined, trying to appear brave, follows elder's instructions precisely, occasionally glances
+      at community for support
+    action: Hands now inserted into bullet ant gloves, face showing intense concentration as he fights to maintain stoic expression
+      despite excruciating pain beginning
+  - appearance: 65-70 years old, weathered face with deep wrinkles, short graying hair, lean muscular build from forest life,
+      numerous small scars on hands and arms from lifetime of bullet ant ceremonies
+    clothing: Traditional woven palm fiber headband with colorful feathers, minimal clothing except for ceremonial red and
+      black body paint, wooden bead necklaces, carries carved wooden staff
+    position: Calm and authoritative presence, speaks in measured tones, gentle movements when handling ants, intense focused
+      gaze during ceremony
+    action: Standing close beside initiate, chanting traditional encouragement while monitoring participant's condition, ready
+      to provide spiritual guidance
   scene:
-    mainElements: Circular clearing surrounded by traditional thatched-roof houses, fire pit in center, woven palm mats
-    details: Woven cashew leaf gloves with hundreds of live bullet ants sewn inside, stingers pointing inward toward hand
-      opening being carefully placed onto young hands. Fire casting dramatic light and shadows, community watching in reverent
-      silence, traditional ritual objects surrounding sacred space.
-    background: Village community seated in circle watching ceremony, traditional houses and forest silhouetted against firelight
-    atmosphere: Community gathering space with warm firelight, ceremonial significance, tribal unity. Moment of extreme courage
-      and cultural transition, no text or letters visible
+    mainElements: Young participant with hands fully inserted in active bullet ant gloves, hundreds of conscious ants delivering
+      simultaneous stings, participant beginning traditional dance movements despite pain
+    details: Woven cashew leaf mittens 25cm long, containing 200-300 live bullet ants each, ants secured with stingers pointing
+      inward now actively stinging exposed hands and wrists. Participant's face showing extreme concentration and determination,
+      sweat beading from heat and stress, slight trembling beginning in arms from venom effects, traditional dance posture
+      maintained despite intense pain, no text or letters visible
+    background: Community circle maintaining absolute silence, some members closing eyes in sympathy, traditional drums ready
+      but not yet playing
+    atmosphere: Peak intensity of ancient ritual, spiritual test of ultimate courage, community witnessing sacred transformation
+      from boy to warrior through extreme ordeal
   composition:
-    cameraAngle: Medium shot focusing on initiate and glove placement
-    focus: Young initiate's hands entering the dangerous ant-filled gloves
-    depth: Glove ceremony in foreground, supporting elder in middle ground, watching community in background
+    cameraAngle: Close-up focusing on participant's face and gloved hands
+    focus: Initiate's expression of determined endurance as bullet ant stings begin their work
+    depth: Foreground shows detailed glove contact and facial expression, middle ground captures elder's supportive presence,
+      background shows community witnesses
 visualElements:
   colorPalette:
     primary:

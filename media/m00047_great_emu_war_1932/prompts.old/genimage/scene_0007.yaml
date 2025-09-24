@@ -1,0 +1,105 @@
+sceneDescription:
+  setting:
+    time: November 2, 1932, mid-morning
+    location: Wheat fields near Campion during first engagement
+    weather: Clear hot morning with dust clouds from running birds
+  characters:
+  - appearance: Caucasian man, 30s, sturdy build, alert expression, clean-shaven face
+    clothing: Australian military sergeant uniform 1930s, khaki tunic and trousers, military cap, leather belt with ammunition
+      pouches
+    position: Standing frustrated beside jammed machine gun
+    action: Attempting to clear weapon malfunction while watching emus escape
+  - appearance: Caucasian man, 20s, lean build, young face with determined expression
+    clothing: Australian military gunner uniform 1930s, khaki field uniform, military cap, canvas web gear
+    position: Kneeling beside machine gun with tools
+    action: Working frantically to repair the jammed Lewis gun mechanism
+  scene:
+    mainElements: Large flightless Australian birds, 6 feet tall, brown and gray feathers, long necks, powerful legs, moving
+      in scattered groups across wheat fields scattering in all directions away from the machine gun position at high speed
+    details: Emus running in unpredictable zigzag patterns, splitting into small groups of 3-5 birds each, making them impossible
+      to target effectively. Some birds leaping over wheat stalks, others weaving between fence posts. Dust clouds kicked
+      up by powerful bird legs. A few wounded birds visible but most completely unharmed and moving rapidly away. British
+      Lewis light machine gun, distinctive circular ammunition pan on top, bipod legs, wooden stock with visible mechanical
+      jam. Empty ammunition belt scattered on ground. Wheat stalks broken and flattened from bird movement
+    background: Vast wheat fields with multiple escape routes visible, distant tree lines where emus are heading for cover,
+      red earth and scattered farm equipment
+    atmosphere: Military frustration and tactical failure, the superior mobility and adaptability of wildlife against conventional
+      weapons, emerging realization of the campaign's futility, no text or letters visible
+  composition:
+    cameraAngle: Dynamic wide shot capturing the chaos of scattered bird movement
+    focus: The contrast between military equipment failure and natural animal success
+    depth: Foreground shows frustrated soldiers with malfunctioning weapon, middle ground captures emus in various stages
+      of escape, background reveals the vast terrain offering multiple escape routes
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

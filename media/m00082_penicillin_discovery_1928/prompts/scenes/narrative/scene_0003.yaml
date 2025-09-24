@@ -1,20 +1,16 @@
 sceneDescription:
-  title: "Character AF Departing for Suffolk Holiday"
+  title: "Laboratory During Cold Spell - Mold Contamination"
   setting:
-    time: "1928 late August, afternoon"
-    location: "St Mary's Hospital entrance, Paddington, London"
-    weather: "Warm late summer afternoon with clear skies"
-  characters:
-    - appearance: "Scottish man, 47 years old, average height, lean build, receding dark hair, thoughtful brown eyes, clean-shaven"
-      clothing: "1920s dark wool suit with waistcoat"
-      position: "Standing at hospital entrance with travel bag"
-      action: "Departing for holiday, looking back at the hospital building one last time"
+    time: "August 28 - September 2, 1928, various times during cold spell"
+    location: "Small cramped laboratory on upper floor of Clarence Wing, St. Mary's Hospital, Paddington, London"
+    weather: "Unusually cold London weather, temperatures below 20°C (68°F), following heat wave"
+  characters: "No characters present in this scene"
   scene:
-    mainElements: "St Mary's Hospital brick facade with Georgian architecture, stone entrance steps, hospital signage"
-    details: "Victorian-era hospital building with tall windows, ornate stonework, gas lamp posts, horse-drawn carriages and early automobiles on street, character AF carrying leather travel case, other hospital staff and visitors moving about, warm afternoon shadows on building facade, no text or letters visible"
-    background: "London street scene with period architecture, urban activity of late 1920s Paddington district"
-    atmosphere: "Sense of departure and anticipated rest, bustling hospital activity continuing, transition from work to leisure time"
+    mainElements: "Wooden laboratory benches cluttered with glass Petri dishes, basic microscopes, gas burners, glass laboratory equipment, culture plates scattered across surfaces, shelving with bottles and specimens"
+    details: "Multiple abandoned glass Petri dishes left uncovered on workbench, one dish showing early stages of blue-green mold contamination beginning to spread across yellowish agar surface, spores floating in air near open laboratory windows, brass and black metal compound microscope sitting unused, cold air currents moving through laboratory causing slight movement of papers and dust particles, natural light filtering through windows showing cooler gray tones typical of London cold spell"
+    background: "Laboratory shelving with bottles and specimens, empty corridors visible through doorway, windows showing overcast London sky during unusual cold period"
+    atmosphere: "Cool September morning light filtering through tall Victorian windows, humid conditions, dusty academic atmosphere, quiet except for occasional footsteps in corridor"
   composition:
-    cameraAngle: "Medium shot from street level showing hospital entrance and character AF's departure"
-    focus: "Character AF pausing at hospital entrance with travel preparations complete"
-    depth: "Foreground shows street level detail, middle ground captures character AF and hospital entrance, background reveals London urban landscape and architecture"
+    cameraAngle: "Close-up shot focusing on abandoned culture plates on workbench"
+    focus: "The specific Petri dish beginning to show mold contamination"
+    depth: "Foreground shows detailed view of contaminated culture plate with early mold growth, middle ground reveals other abandoned plates and laboratory equipment, background shows empty laboratory with windows and shelving, no text or letters visible"

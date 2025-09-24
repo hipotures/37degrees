@@ -4,77 +4,56 @@ canon:
       name: "Character SS"
       description_block: |
         characters:
-          - appearance: "Caucasian man, early 30s, average height, dark brown hair neatly parted, intelligent brown eyes behind thick-rimmed glasses, clean-shaven with serious expression"
-            clothing: "1960s white laboratory coat over dark dress shirt and narrow tie, or business suit with conservative tie"
-            posture: "Methodical and focused, often leaning over laboratory equipment or holding up test samples to examine them closely"
+          - appearance: "Caucasian man, 27 years old in 1968, methodical scientist with curious nature, earned reputation for thoroughness, slender build, intelligent eyes"
+            clothing: "Standard 1960s laboratory attire - white lab coat over business shirt and tie, safety glasses when handling chemicals"
+            posture: "Persistent and creative problem-solver, described by colleagues as kind and encouraging, focused on detailed work"
     - id: "character_AF"
       name: "Character AF"
       description_block: |
         characters:
-          - appearance: "Caucasian man, mid 40s, medium build, receding hairline with dark hair, warm expression with gentle eyes, friendly demeanor"
-            clothing: "1970s business casual attire - dress shirt with tie, sometimes cardigan sweater, conservative dark trousers"
-            posture: "Thoughtful and contemplative, often holding hymnal or papers, standing in choir formation or seated at desk"
-    - id: "character_3M_colleagues"
-      name: "Character 3M Colleagues"
+          - appearance: "Caucasian man, mid-career engineer in 1974, described as tinkerer and problem solver who loved building things, practical demeanor"
+            clothing: "Business casual appropriate for R&D work and church choir participation - dress shirt, slacks, sometimes tie for church events"
+            posture: "Practical innovator with habit of attending internal seminars, active church choir member, thoughtful and observant"
+    - id: "church_choir_members"
+      name: "Church Choir Members"
       description_block: |
         characters:
-          - appearance: "Mixed group of Caucasian men and women, ages 25-55, professional appearance typical of 1960s-70s corporate employees"
-            clothing: "Business attire - men in dark suits with ties, women in conservative dresses or blouses with skirts"
-            posture: "Seated around conference tables or standing in laboratory settings, expressing skepticism or curiosity through facial expressions and body language"
-    - id: "character_church_choir"
-      name: "Character Church Choir"
-      description_block: |
-        characters:
-          - appearance: "Mixed group of men and women, ages 30-70, dressed formally for church service"
-            clothing: "Sunday best attire - men in dark suits, women in conservative dresses, some wearing choir robes over their clothing"
-            posture: "Standing in organized rows holding hymnals, mouths open in song, focused on conductor or music"
+          - appearance: "Mixed-age church choir members in 1974 Minnesota, diverse group of men and women, various ages from young adults to seniors"
+            clothing: "Church-appropriate attire for choir practice and Sunday services - dress shirts, blouses, modest dresses, suits"
+            posture: "Focused on musical performance, holding hymnals, standing at music stands, unaware they were witnessing innovation history"
   locations:
     - id: "main_location_1"
-      name: "3M Laboratory Complex"
+      name: "3M Central Research Laboratory"
       description_block: |
         setting:
-          location: "3M Research Laboratory, St. Paul, Minnesota, 1960s-1970s"
-        mainElements: "Modern corporate laboratory with white walls, fluorescent lighting, stainless steel work benches, chemical equipment, test tubes, beakers, microscopes"
-        atmosphere: "Clean, professional, innovative research environment with sense of scientific discovery and corporate precision"
+          location: "3M Central Research Laboratory, St. Paul, Minnesota, USA"
+        mainElements: "Modern industrial research facility, part of 3M's expanded campus, white-walled laboratories with chemical hoods, workbenches with glassware, microscopes, testing equipment"
+        atmosphere: "Sterile, well-lit scientific environment with chemical odors, hum of ventilation systems, collaborative workspace with fluorescent lighting"
     - id: "main_location_2"
-      name: "Church Interior"
+      name: "Church Sanctuary"
       description_block: |
         setting:
-          location: "Presbyterian church interior, suburban Minnesota, 1970s"
-        mainElements: "Traditional wooden pews, stained glass windows, altar area with organ, choir loft with music stands"
-        atmosphere: "Peaceful, reverent setting with warm natural light filtering through colored glass, sense of community worship"
-    - id: "main_location_3"
-      name: "3M Conference Room"
-      description_block: |
-        setting:
-          location: "Corporate conference room, 3M headquarters, St. Paul, Minnesota"
-        mainElements: "Long wooden conference table, leather chairs, projection screen, corporate charts on walls, fluorescent lighting"
-        atmosphere: "Professional business environment with sense of corporate decision-making and innovation presentations"
-    - id: "main_location_4"
-      name: "3M Office Space"
-      description_block: |
-        setting:
-          location: "Open office area, 3M corporate building, 1970s"
-        mainElements: "Metal desks, typewriters, filing cabinets, office supplies, papers, telephone, corporate bulletin boards"
-        atmosphere: "Busy workplace environment showing transformation of office communication and daily business operations"
+          location: "Protestant church sanctuary with choir loft, St. Paul/Minneapolis area, Minnesota"
+        mainElements: "Traditional Protestant church sanctuary with wooden pews, hymnals, choir music stands, organ, stained glass windows, altar area"
+        atmosphere: "Quiet, reverent setting during choir practice, warm lighting from windows, acoustically designed space with wooden elements"
   items:
     - id: "key_item_1"
-      name: "Weak Adhesive Sample"
+      name: "Microsphere Adhesive"
       description_block: |
-        details: "Small glass vial containing clear, slightly viscous liquid adhesive with unique spherical molecular structure, labeled with handwritten research notes"
+        details: "Clear acrylic substance containing tiny spheres that sparkled in the light, low-tack adhesive made of microspheres, sticks lightly but removes cleanly without residue"
     - id: "key_item_2"
-      name: "Hymnal with Bookmarks"
-      description_block: |
-        details: "Traditional church hymnal with worn leather cover, multiple loose paper bookmarks sticking out between pages, some falling to the floor"
-    - id: "key_item_3"
-      name: "Early Post-it Prototype"
-      description_block: |
-        details: "Small rectangular pieces of canary yellow paper with experimental adhesive strip along one edge, various sizes and shapes in development phase"
-    - id: "key_item_4"
       name: "Laboratory Equipment"
       description_block: |
-        details: "1960s scientific apparatus including glass beakers, test tubes, microscopes, chemical measuring devices, heating elements, and safety equipment"
-    - id: "key_item_5"
-      name: "Corporate Presentation Materials"
+        details: "Chemical hoods, workbenches with glassware, beakers, test tubes, microscopes, measuring equipment, various chemicals in labeled bottles"
+    - id: "key_item_3"
+      name: "Hymnal Bookmarks"
       description_block: |
-        details: "Charts, graphs, typed reports, and demonstration samples used in business presentations, manila folders, corporate letterhead documents"
+        details: "Small pieces of paper or ribbon used to mark pages in hymnal, no adhesive properties, prone to falling out during use, causing disruption"
+    - id: "key_item_4"
+      name: "Prototype Post-it Notes"
+      description_block: |
+        details: "Small pieces of paper coated with microsphere adhesive, rudimentary bookmarks that evolved into self-attaching notes, various sizes being tested"
+    - id: "key_item_5"
+      name: "Canary Yellow Notes"
+      description_block: |
+        details: "3x3 inch square notes in distinctive bright yellow color, selected from available scrap paper in adjacent laboratory, iconic appearance"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Testing the Adhesive Properties"
+  setting:
+    time: "1942, next morning"
+    location: "Eastman Kodak Company research laboratory, Rochester, New York"
+    weather: "Bright morning sunlight streaming through laboratory windows"
+  characters:
+    - appearance: "Caucasian man, 25 years old, dark brown hair, medium build, focused expression, intelligent eyes behind wire-rimmed glasses"
+      clothing: "1940s white laboratory coat over dark suit and tie, black leather shoes"
+      position: "Seated at workbench testing adhesive strength"
+      action: "Carefully applying small amounts of cyanoacrylate to various materials and attempting to separate them"
+    - appearance: "Caucasian man, 30s, light brown hair, tall and lanky, serious demeanor"
+      clothing: "White laboratory coat over brown trousers and light blue shirt, no tie"
+      position: "Standing at workbench holding test materials"
+      action: "Assisting with adhesive testing by holding materials steady and recording observations"
+  scene:
+    mainElements: "Workbench covered with various test materials including metal pieces, glass samples, wood blocks, fabric samples, all being tested with small amounts of cyanoacrylate compound"
+    details: "Multiple material samples bonded with incredible strength by tiny amounts of clear adhesive, failed attempts to separate bonded materials, various tools used unsuccessfully to break adhesive bonds, growing collection of permanently bonded test specimens, precision equipment accidentally damaged by adhesive bonding"
+    background: "Morning sunlight illuminating laboratory workspace, other research areas visible through glass partitions, organized chemical storage areas"
+    atmosphere: "Growing amazement at unprecedented adhesive strength, systematic scientific testing approach, realization that this compound has properties far beyond original gun sight requirements, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from side angle"
+    focus: "Characters testing adhesive strength on various materials with workbench full of bonded specimens"
+    depth: "Foreground shows bonded test materials in detail, middle ground captures characters conducting systematic tests, background reveals broader laboratory environment"

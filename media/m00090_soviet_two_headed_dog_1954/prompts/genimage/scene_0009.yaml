@@ -1,33 +1,29 @@
 sceneDescription:
   setting:
-    time: February 1954, several days later, afternoon
-    location: Medical preparation laboratory, Moscow Institute of Surgery
-    weather: Indoor controlled environment
+    time: Late 1959, afternoon documentation session
+    location: Moscow Institute of Surgery Laboratory for media visit
+    weather: Moscow autumn, controlled laboratory lighting for photography
   characters:
-  - appearance: Caucasian man, 38 years old, dark hair slicked back, intense focused eyes behind wire-rim glasses, scholarly
-      demeanor
-    clothing: White laboratory coat over dark suit vest and white shirt, medical gloves, professional surgical attire
-    position: Standing at laboratory desk with final documentation
-    action: Completing comprehensive scientific report of experimental procedure and outcomes
-  - appearance: Caucasian man, 42 years old, balding with thick mustache, studious appearance, academic bearing
-    clothing: Dark suit with vest, white shirt, tie, occasionally white laboratory coat for observations
-    position: Seated at documentation table with scientific records
-    action: Compiling final research findings and preparing comprehensive medical documentation
+  - appearance: 42-year-old Caucasian man, medium build, serious facial expression with intense dark eyes, receding hairline,
+      clean-shaven
+    clothing: White surgical coat over dark suit, surgical mask around neck, wire-rimmed glasses
+    position: Standing at operating table or examining surgical instruments
+    action: Methodical and precise movements, confident bearing, intense concentration during procedures
   scene:
-    mainElements: Laboratory workspace with completed experimental documentation, scientific analysis of procedure outcomes,
-      final research assessment
-    details: Scientific notebooks, medical charts, and documentation papers with handwritten observations and measurements
-      showing complete experimental record, medical laboratory equipment including glass beakers, test tubes, measurement
-      containers used throughout procedure, comprehensive research documentation compiled over several days of observation
-    background: Laboratory environment with medical equipment storage, scientific apparatus, institutional medical facility
-      setting
-    atmosphere: Methodical scientific conclusion atmosphere, comprehensive research documentation completion, serious academic
-      assessment of experimental outcomes
+    mainElements: Professional camera equipment, lighting setup for documentation, surgical laboratory setting
+    details: Official Soviet medical journal papers, research documentation with Cyrillic text, black and white photographs
+      of procedures, scientific methodology reports and results documentation being photographed for international publication.
+      Large German Shepherd host animal with dark coat, approximately 4-5 years old, and small mixed-breed donor animal with
+      light brown coat, both prepared for surgical procedure, being documented for LIFE magazine coverage. Professional photography
+      lighting and camera equipment from late 1950s era
+    background: Laboratory setting with medical equipment, institutional Soviet medical environment
+    atmosphere: Professional documentation session, international media attention, historical moment being captured, scientific
+      achievement gaining global recognition, no text or letters visible
   composition:
-    cameraAngle: Medium shot focusing on final documentation and research completion
-    focus: Scientific documentation and research analysis emphasizing completion of experimental procedure
-    depth: Documentation workspace in foreground, researchers completing analysis in middle ground, laboratory environment
-      in background, no text or letters visible
+    cameraAngle: Over-shoulder shot from photographer's perspective
+    focus: Surgeon presenting experimental results while professional photography equipment captures the moment
+    depth: Foreground shows camera equipment, middle ground captures documentation session, background reveals laboratory
+      medical setting
 visualElements:
   colorPalette:
     primary:

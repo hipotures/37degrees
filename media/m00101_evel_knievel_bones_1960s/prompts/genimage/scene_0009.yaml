@@ -1,26 +1,38 @@
 sceneDescription:
   setting:
-    time: September 8, 1974, afternoon
-    location: Snake River Canyon, Idaho, vast rocky canyon with winding river below
-    weather: Clear afternoon with crosswinds
+    time: March 18, 1968, evening television broadcast
+    location: NBC television studio, Hollywood, California
+    weather: Indoor television studio environment
   characters:
-  - appearance: Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns
-    clothing: Red, white and blue leather jumpsuit with stars and stripes, white helmet with eagle emblem, white leather boots
-    position: Inside rocket cockpit, visible through small window
-    action: Piloting steam-powered rocket as it launches across canyon with parachute deploying early
+  - appearance: 5 feet 11 inches athletic build man in late 20s to early 30s, piercing blue eyes, distinctive mustache, weathered
+      face from crashes, confident swagger
+    clothing: Dark business suit with tie, walking with cane due to injuries
+    position: Seated in interview chair on television set, cane visible beside chair
+    action: Being interviewed about comeback plans, speaking confidently despite obvious physical limitations, promoting future
+      jumps
+  - appearance: Television host and crew members
+    clothing: 1960s television attire, suits for host, casual work clothes for crew
+    position: Host at interview desk, crew operating cameras and lights
+    action: Conducting interview, operating television equipment, managing live broadcast
+  - appearance: Live studio audience
+    clothing: 1960s evening attire for television show attendance
+    position: Seated in studio audience seating
+    action: Listening intently, applauding, showing fascination with daredevil's survival story
   scene:
-    mainElements: Steep canyon walls, narrow river far below, desert landscape, clear blue sky with massive crowd gathered
-      on canyon rim watching historic jump
-    details: White steam-powered rocket vehicle with fins, pointed nose cone, steam vents, experimental design airborne over
-      canyon with parachute deployed, massive crowd of spectators on canyon rim, television cameras and equipment, dust clouds
-      from launch, no text or letters visible
-    background: Snake River Canyon stretching into distance, desert landscape, crowd of thousands watching
-    atmosphere: Dramatic, dangerous, expansive wilderness setting culminating career-defining moment with mixed success and
-      failure
+    mainElements: Television interview set, desk and chairs, studio lighting, cameras, live audience seating, NBC branding
+    details: Professional television studio setup with multiple cameras, bright studio lighting for broadcast quality, interview
+      furniture positioned for optimal camera angles, audience seating arranged for television show format. Walking cane indicating
+      ongoing recovery from injuries.
+    background: Television studio infrastructure, professional broadcast equipment, NBC studio setting, audience seating areas,
+      backstage areas visible
+    atmosphere: March 18, 1968, live television energy, audience anticipation, professional broadcast environment, comeback
+      narrative building despite physical limitations, celebrity status emerging from near-fatal crash, no text or letters
+      visible
   composition:
-    cameraAngle: Epic wide shot showing rocket over canyon with crowd
-    focus: Steam rocket with deployed parachute crossing canyon
-    depth: Canyon depths in foreground, rocket flight path in middle ground, crowd and landscape in background
+    cameraAngle: Television studio camera angle capturing interview setup with audience
+    focus: Character EK in interview chair with cane, demonstrating recovery and determination to continue
+    depth: Foreground shows interview setup, middle ground features television studio environment, background displays audience
+      and studio infrastructure
 visualElements:
   colorPalette:
     primary:

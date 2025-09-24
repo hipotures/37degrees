@@ -1,32 +1,32 @@
 sceneDescription:
   setting:
-    time: November 7, 2006, 4:18 PM CST, late afternoon
-    location: Terminal 3 Concourse C interior, Chicago O'Hare International Airport
-    weather: Overcast, solid grey cloud layer at 1,900 feet, cool November temperature
+    time: November 7, 2006, 4:19 PM CST, late afternoon with object at peak visibility
+    location: Ground level observation point adjacent to Gate C17, O'Hare International Airport
+    weather: Overcast conditions providing optimal contrast for object observation, stable atmospheric conditions
   characters:
-  - appearance: Mixed group of airline passengers, various ages and ethnicities
-    clothing: Typical 2006 travel attire, business suits, casual wear, winter coats
-    position: Pressed against large terminal windows facing Gate C-17
-    action: Pointing excitedly at hovering object, taking photos with early digital cameras and flip phones
-  - appearance: United Airlines gate agents and terminal staff, mixed gender
-    clothing: UA uniform shirts, professional attire, company ID badges
-    position: Behind passenger seating area, some approaching windows
-    action: Observing phenomenon while attempting to maintain professional composure
+  - appearance: Male, approximately 30-45 years old, Caucasian, average build, alert expression
+    clothing: Navy blue United Airlines ground crew coveralls, high-visibility orange safety vest, work boots, communication
+      headset around neck
+    position: Standing on tarmac with stable stance for precise observation
+    action: Holding binoculars to eyes with both hands, studying object intently, making detailed visual examination of object
+      features
   scene:
-    mainElements: Large terminal windows providing clear view of hovering disc object above Gate C-17, crowd of passengers
-      and staff gathered at glass, pointing and gesturing toward anomaly outside
-    details: Terminal interior with commercial carpet and seating areas, fluorescent lighting creating reflections on glass,
-      mixture of amazement and confusion on faces, some passengers attempting photography despite no visible results, gate
-      area normally focused on boarding now completely distracted by aerial phenomenon
-    background: Long Terminal 3 concourse stretching in both directions, other gates with normal operations, dark grey metallic
-      disc clearly visible through glass hovering above aircraft outside
-    atmosphere: Indoor witnessing of outdoor phenomenon, contrast between controlled terminal environment and unexplained
-      event beyond the glass, collective amazement breaking normal airport routine, no text or letters visible
+    mainElements: Ground crew member using standard aviation binoculars with 8x or 10x magnification, focused upward toward
+      hovering metallic disc object
+    details: Standard aviation ground crew binoculars with black housing adjustment knobs and neck strap, enabling detailed
+      observation of metallic disc object smooth surface, confirmation of lack of visible windows doors or propulsion systems,
+      object maintaining perfect stationary position approximately 1,400-1,500 feet above ground, enhanced view revealing
+      clean geometric disc shape with dark gray metallic coloration
+    background: Gate C17 area with normal ground operations continuing, other United Airlines personnel visible at various
+      observation points, terminal building and aircraft providing scale reference
+    atmosphere: Intense scientific scrutiny of unprecedented aerial phenomenon, methodical examination by trained aviation
+      professional, growing certainty of object's unusual characteristics through enhanced observation, no text or letters
+      visible
   composition:
-    cameraAngle: Interior shot from behind crowd looking through terminal windows
-    focus: Gathered crowd at windows pointing at hovering object visible outside
-    depth: 'Foreground: terminal interior and crowd, middle ground: large windows, background: tarmac scene with hovering
-      disc'
+    cameraAngle: Close-up shot focusing on ground crew member with binoculars
+    focus: Detailed examination through binoculars revealing object's smooth featureless surface
+    depth: Ground crew member with binoculars in foreground, metallic disc object in middle ground, airport operations in
+      background
 visualElements:
   colorPalette:
     primary:

@@ -1,35 +1,32 @@
 sceneDescription:
   setting:
-    time: Late morning, 10:00 AM during school hours
-    location: Interior of Oymyakon's small school building, heated classroom with basic furnishings
-    weather: Outside temperature -63°C, school heated to comfortable indoor temperature
+    time: 1950s, evening winter
+    location: Central area of village surrounded by wooden houses, located in Indigirka River valley, Sakha Republic, Siberia
+    weather: Clear night with extreme cold, aurora borealis visible in sky
   characters:
-  - appearance: Young Yakutian boy, 8 years old, bright curious eyes, round face typical of children in extreme cold
-    clothing: Small child's winter parka in bright colors, tiny mukluks, woolen hat with ear flaps
-    position: Sitting at wooden desk among other students
-    action: Writing in notebook, participating in geography lesson about Siberian climate
-  - appearance: Yakutian girl, 10 years old, alert expression, cheeks red from cold exposure
-    clothing: Thick winter coat with traditional patterns, fur-lined boots, knitted mittens
-    position: Seated at desk near wood-burning stove
-    action: Raising hand to answer teacher's question, studying maps on classroom wall
-  - appearance: Adult teacher, Yakutian woman, 35 years old, professional bearing despite remote location
-    clothing: Warm sweater and long skirt, indoor shoes, traditional jewelry
-    position: Standing at front of classroom near blackboard
-    action: Pointing to Siberian map, explaining geographic features of their region
+  - appearance: Sturdy build man in 30s, reddened cheeks from cold, determined expression, visible breath in frigid air
+    clothing: Soviet work clothes adapted for extreme cold, thick wool coat, heavy felt boots, working man's winter hat
+    position: Working on construction or settlement tasks in harsh conditions
+    action: Building structures or performing manual labor with stoic determination mixed with visible struggle against harsh
+      conditions
   scene:
-    mainElements: Wooden desks arranged in rows, blackboard with lessons, maps of Siberia on walls, heating stove
-    details: Simple wooden desks arranged for small class size, blackboard showing geographical lesson about local climate.
-      Maps of Siberia prominently displayed showing Oymyakon's location. Large wood-burning stove providing essential heat
-      for classroom. School supplies adapted for cold weather conditions. Windows showing bright snow outside contrasting
-      with warm interior.
-    background: Log construction typical of Siberian buildings, frost-covered windows showing extreme outdoor conditions,
-      educational materials about local geography and culture
-    atmosphere: Dedication to education despite harsh environment, children's determination to learn
+    mainElements: Monument marking temperature record, concrete bull statue, wooden buildings with thick smoke from chimneys,
+      packed snow paths
+    details: Village residents gathering in heated community building for evening social activities essential for psychological
+      survival in extreme isolation, people sharing meals prepared from preserved foods and local resources, children playing
+      traditional games adapted for indoor spaces, adults engaged in crafts and equipment maintenance, musicians playing traditional
+      instruments, storytellers sharing tales to maintain cultural connection, evidence of tight community bonds necessary
+      for survival in world's harshest inhabited environment
+    background: Aurora borealis dancing across clear Arctic sky, wooden buildings with warm light glowing from small windows,
+      continuous streams of smoke from every chimney indicating constant heating needs
+    atmosphere: Smoke rising straight up in still air, crunching snow underfoot, muffled sounds in extreme cold, visible breath
+      everywhere, warmth and light from community building contrasting with harsh exterior conditions, sense of human resilience
+      and social cooperation essential for psychological survival, no text or letters visible
   composition:
-    cameraAngle: Medium shot from back of classroom showing teacher and students
-    focus: Classroom lesson in progress with teacher explaining local geography
-    depth: Students at desks in foreground, teacher and blackboard in middle ground, maps and windows in background, no text
-      or letters visible
+    cameraAngle: Medium shot showing community building entrance with people gathering
+    focus: Social activities and community bonding essential for survival in extreme isolation
+    depth: 'Foreground: villagers entering warm community space, middle ground: illuminated building with activities visible
+      through windows, background: aurora borealis and Arctic night sky creating dramatic natural backdrop'
 visualElements:
   colorPalette:
     primary:

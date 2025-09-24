@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Brainstorming the Credit Solution - Business Partners"
+  setting:
+    time: "1949, late evening"
+    location: "Hamilton Credit Corporation office, Empire State Building, Manhattan"
+    weather: "Clear night, city lights visible through office windows"
+  characters:
+    - appearance: "Caucasian man, early 40s, average height, clean-shaven face, dark hair combed back with pomade, serious business expression, thin-rimmed glasses"
+      clothing: "1949 dark navy business suit with white dress shirt, conservative dark tie, polished black leather shoes, gold wristwatch"
+      position: "Standing beside desk, one hand on desk surface, other gesturing"
+      action: "Pacing and gesturing animatedly while explaining his idea, pointing to papers on desk, energy of excitement and determination"
+    - appearance: "Caucasian man, late 30s, slightly taller than average, neatly groomed brown hair, mustache, lawyer appearance, attentive eyes"
+      clothing: "1949 charcoal gray suit with vest, white shirt, striped tie, leather briefcase often at hand, wire-rim spectacles"
+      position: "Seated in chair facing partner, leaning forward with interest"
+      action: "Listening intently, occasionally jotting notes on legal pad, nodding thoughtfully, adjusting spectacles while processing the innovative concept"
+  scene:
+    mainElements: "Late-night business meeting in corporate office with two men developing revolutionary credit concept inspired by embarrassing dinner incident"
+    details: "Hamilton Credit Corporation office, Empire State Building, Manhattan. Desk lamp illuminating scattered business papers, legal documents, coffee cups from long discussion, ashtray with cigarette, leather-bound ledgers, telephone, city lights twinkling through windows, shadows from late-night lighting"
+    background: "Manhattan skyline visible through large office window, other office buildings with scattered lit windows, night sky, empty office building hallways visible through glass door"
+    atmosphere: "Intense creative energy, the birth of a revolutionary business idea, late-night problem-solving session, excitement of innovation, professional collaboration between credit industry experts recognizing potential"
+  composition:
+    cameraAngle: "Medium wide shot capturing both men and the office environment"
+    focus: "The businessman's animated explanation with his partner's attentive response, showing collaborative innovation"
+    depth: "Foreground shows desk with papers and business materials, middle ground features the two men in intense discussion, background displays Manhattan night skyline through office window, no text or letters visible"

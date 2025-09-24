@@ -1,0 +1,62 @@
+styleName: 3D Textile Render Style
+description: Modern 3D character design with photorealistic fabric textures, knitted materials, and melancholic minimalist aesthetics
+aiPrompts:
+  basePrompt: 3D textile render, knitted fabric texture, wool material, soft cloth simulation, minimalist character design, fabric 3d illustration
+  negativePrompt: flat 2D, cartoon style, hard surfaces, metallic, glossy, plastic, low quality textures
+  styleKeywords:
+  - 3d textile
+  - fabric render
+  - knitted texture
+  - wool material
+  - soft cloth
+  - minimalist character
+visualElements:
+  colorPalette:
+    primary:
+    - soft blues
+    - mint greens
+    - warm beiges
+    - dusty pinks
+    secondary:
+    - cream whites
+    - sage greens
+    - muted corals
+    - gray-blues
+    background: gradient pastel backgrounds
+    usageNotes: Muted scandinavian palette with soft material colors
+    saturation: low to medium
+    contrast: soft and gentle
+  lineArt:
+    style: none - fully rendered 3D
+    weight: n/a
+    texture: visible fabric weave and knit patterns
+    edgeTreatment: soft fabric edges with realistic fraying
+  lighting:
+    type: soft studio lighting with HDRI
+    direction: diffused top-front lighting
+    intensity: gentle and even
+    shadows:
+      style: very soft ambient occlusion
+      color: cool blue-gray
+      opacity: subtle
+    highlights: soft fabric sheen, no harsh reflections
+  rendering:
+    technique: high-end 3D with fabric simulation
+    texture: photorealistic textile materials - wool, cotton, knit, felt
+    detailLevel: individual fiber visibility, knit patterns, fabric folds
+    finish: matte fabric surfaces with subtle fuzz
+  perspective: centered portrait composition
+  mood:
+    overall: melancholic, contemplative, cozy, scandinavian
+    emotion: quiet introspection, gentle sadness, warmth
+    tempo: still and peaceful
+    keywords:
+    - melancholic
+    - cozy
+    - textile
+    - minimalist
+    - contemplative
+  stylePrecedents:
+  - Contemporary 3D illustration
+  - Scandinavian design aesthetics
+  - Wes Anderson color palettes

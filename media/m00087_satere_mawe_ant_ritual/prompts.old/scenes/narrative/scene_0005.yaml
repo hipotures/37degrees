@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Elder blessing gloves with sacred smoke"
+  setting:
+    time: "Evening twilight, fire providing primary illumination"
+    location: "Central gathering area of Sateré-Mawé village in Amazon rainforest"
+    weather: "Still humid evening air with firelight flickering"
+  characters:
+    - appearance: "Elderly Sateré-Mawé man, 60s, weathered bronze skin, white-streaked black hair, wise dark eyes"
+      clothing: "Traditional ceremonial robes with elaborate feather headdress, shell and bead jewelry, painted body markings"
+      position: "Standing over fire pit holding gloves above rising smoke"
+      action: "Blowing ceremonial smoke into bullet ant gloves, chanting traditional blessings and purification rituals"
+  scene:
+    mainElements: "Circular clearing surrounded by traditional thatched-roof houses, fire pit in center, woven palm mats"
+    details: "Sacred plant materials burned to create ceremonial smoke for blessing ant gloves before ritual. Thick aromatic smoke rising from fire, woven cashew leaf gloves with hundreds of live bullet ants being held in sacred smoke. Traditional instruments and ritual objects surrounding ceremonial area."
+    background: "Village community seated in respectful circle, traditional houses silhouetted against darkening forest"
+    atmosphere: "Community gathering space with warm firelight, ceremonial significance, tribal unity. Sacred preparation reaching climax before initiation begins, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle looking up at elder conducting blessing ritual"
+    focus: "Elder's hands holding ant gloves in rising ceremonial smoke"
+    depth: "Fire and smoke in foreground, blessing elder in middle ground, gathered community in background"

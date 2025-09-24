@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Choir Member's Bookmark Frustration"
+  setting:
+    time: "1974, Sunday morning"
+    location: "Presbyterian church interior, suburban Minnesota, 1970s"
+    weather: "Bright Sunday morning with colorful light streaming through stained glass windows"
+  characters:
+    - appearance: "Caucasian man, mid 40s, medium build, receding hairline with dark hair, warm expression with gentle eyes, friendly demeanor"
+      clothing: "Sunday best attire - dark suit with conservative tie, choir robe over his clothing"
+      position: "Standing in choir loft with other choir members, holding hymnal"
+      action: "Singing with choir while struggling with loose paper bookmarks that keep slipping from his hymnal, bending down to retrieve fallen bookmarks from floor, looking frustrated as bookmarks slide out of sight"
+    - appearance: "Mixed group of men and women, ages 30-70, dressed formally for church service"
+      clothing: "Sunday best attire - men in dark suits, women in conservative dresses, some wearing choir robes over their clothing"
+      position: "Standing in organized rows in choir loft"
+      action: "Focused on conductor and singing, mostly unaware of colleague's bookmark problems"
+  scene:
+    mainElements: "Traditional wooden pews, stained glass windows, altar area with organ, choir loft with music stands. Traditional church hymnal with worn leather cover, multiple loose paper bookmarks sticking out between pages, some falling to the floor."
+    details: "Ornate choir loft with wooden railings, music stands holding hymnals, organ pipes visible in background, morning sunlight creating colorful patterns through stained glass, several loose bookmarks scattered on choir loft floor, character's expression of mild frustration mixed with concentration on singing."
+    background: "Church congregation seated in wooden pews below, altar area with religious symbols, large stained glass windows casting colorful light patterns, traditional church architecture with high ceilings and wooden elements"
+    atmosphere: "Peaceful Sunday worship service with underlying personal frustration, sense of community singing disrupted by practical problem, warm religious environment with gentle morning light, recurring weekly annoyance becoming more apparent, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from congregation's perspective looking up at choir loft"
+    focus: "Character AF struggling with slipping bookmarks while trying to participate in choir"
+    depth: "Character and fallen bookmarks in foreground, other choir members in middle ground, church interior and stained glass windows in background"

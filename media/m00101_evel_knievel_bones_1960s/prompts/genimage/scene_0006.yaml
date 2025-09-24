@@ -1,24 +1,40 @@
 sceneDescription:
   setting:
-    time: December 31, 1967, afternoon
-    location: Caesar's Palace parking lot, Las Vegas
-    weather: Clear desert day
+    time: December 31, 1967, morning setup
+    location: Ornate fountain complex outside Caesars Palace luxury casino hotel, Las Vegas Strip, Nevada
+    weather: Cool Las Vegas winter day, bright sunshine
   characters:
-  - appearance: Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns
-    clothing: Red, white and blue leather jumpsuit with stars and stripes, white helmet with eagle emblem, white leather boots
-    position: Airborne on motorcycle, mid-jump over fountains
-    action: Flying through air on motorcycle, reaching for handlebars after losing control
+  - appearance: 5 feet 11 inches athletic build man in late 20s to early 30s, piercing blue eyes, distinctive mustache, weathered
+      face from crashes, confident swagger
+    clothing: Iconic white leather jumpsuit with red, white, and blue stars and stripes, matching helmet with star design,
+      white leather boots
+    position: Standing beside Triumph Bonneville, surveying the 141-foot jump distance
+    action: Measuring distance with eyes, checking motorcycle engine, talking with crew about setup details
+  - appearance: Multiple crew members in 1960s casual work attire, professional demeanor
+    clothing: Work shirts, casual pants, ABC Sports jackets, headphones for audio crew
+    position: Positioned around fountain area with cameras and broadcast equipment
+    action: Setting up multiple camera angles, testing equipment, preparing for what will become most famous motorcycle crash
+      footage
+  - appearance: Middle-aged businessman, heavy-set build, concerned expression
+    clothing: 1960s expensive dark business suit with tie
+    position: Standing near hotel entrance observing setup
+    action: Watching preparation with mix of fascination and business concern about liability
   scene:
-    mainElements: Classic Harley Davidson motorcycle, chrome exhaust pipes, custom paint job, high handlebars, powerful engine
-      captured mid-flight over ornate casino fountains
-    details: Dramatic moment of motorcycle and rider airborne over elaborate water fountains, crowd gathered behind barriers,
-      casino building facade with Roman columns, dust cloud from takeoff ramp, no text or letters visible
-    background: Caesar's Palace building with Roman architecture, crowded parking lot, desert mountains in distance
-    atmosphere: Peak danger and spectacle, moment of triumph turning to disaster, high-stakes Las Vegas showmanship
+    mainElements: Multi-tiered fountains with water displays, decorative Roman statuary, 141-foot span between takeoff and
+      landing, concrete safety ramps on both sides, parking areas beyond landing zone
+    details: British motorcycle with distinctive parallel twin engine, chrome exhaust pipes, white paint scheme, custom suspension
+      setup for jumping, minimal windscreen, racing handlebars, reinforced frame modifications. Professional 16mm color film
+      cameras, multiple camera positions, slow-motion replay equipment, ABC Sports branded equipment, broadcast quality setup.
+    background: Las Vegas Strip luxury hotels, desert landscape, clear blue winter sky, casino architecture, Roman-themed
+      decorative elements
+    atmosphere: December 31, 1967 morning, tension building for major television event, meticulous preparation for longest
+      jump attempted, ABC cameras positioning for historic footage, anticipation of career-defining moment, no text or letters
+      visible
   composition:
-    cameraAngle: Wide action shot capturing full jump trajectory
-    focus: Character EK and motorcycle frozen in mid-air over fountains
-    depth: Fountains in foreground, airborne motorcycle in middle ground, casino building in background
+    cameraAngle: Wide establishing shot showing full 141-foot span of fountain complex
+    focus: Character EK and motorcycle with fountain obstacles and ABC crew setup clearly visible
+    depth: Foreground shows preparation activity, middle ground features fountain complex with jump distance, background displays
+      Las Vegas Strip and desert landscape
 visualElements:
   colorPalette:
     primary:

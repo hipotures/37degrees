@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Careful Extraction - Removing the Computer Bug"
+  setting:
+    time: "September 9, 1947, 3:50 PM"
+    location: "Section of the massive electromechanical computer system in Harvard laboratory"
+    weather: "Cool controlled laboratory environment"
+  characters:
+    - appearance: "20s-30s person, practical appearance, methodical demeanor, focused on detailed technical work"
+      clothing: "White shirt, dark pants, possibly suspenders, practical work attire suitable for delicate mechanical tasks"
+      position: "Kneeling beside computer panel with tools in hand"
+      action: "Carefully examining relay components with tweezers and small tools"
+    - appearance: "42-year-old woman, 5'6\", slender build, dark hair pulled back in neat bun, intelligent brown eyes behind wire-rimmed glasses, precise movements"
+      clothing: "Navy uniform - dark blue wool jacket with lieutenant's bars, white shirt, dark tie, practical dark shoes"
+      position: "Standing at work table reviewing technical calculations"
+      action: "Examining computer documentation with analytical focus, notebook in hand"
+    - appearance: "Mid-30s man, medium build, brown hair, focused expression, quick energetic movements"
+      clothing: "White button-down shirt with rolled sleeves, dark slacks, bow tie, practical work attire"
+      position: "Seated at work table examining technical diagrams"
+      action: "Collaboratively working with technical documents, pointing at diagrams with rapid hand movements"
+  scene:
+    mainElements: "Metal panel with organized rows of electromagnetic relays, Relay #70 prominently positioned, complex wiring connections, switches and indicator lights, precision engineering visible throughout"
+    details: "Delicate extraction process in progress. Small moth approximately 1 inch wingspan, brown and gray coloration typical of Lepidoptera, wings partially damaged from electrical relay contact, now flattened between relay contacts at position #70 being carefully removed with precision tweezers. Team gathered around observing the historic moment as the literal 'computer bug' is extracted intact. Relay mechanism temporarily disabled for safe extraction. The extracted moth preserved carefully for documentation purposes."
+    background: "Additional computer panels and systems, laboratory equipment, other team members observing the extraction process"
+    atmosphere: "Careful precision work, mixture of technical focus and historical significance, relief at solving the problem, growing awareness of the ironic discovery"
+  composition:
+    cameraAngle: "Close-up shot showing the delicate extraction process with tweezers"
+    focus: "Tweezers carefully removing the moth from Relay #70 with team members observing"
+    depth: "Foreground shows detailed extraction with tweezers and moth, middle ground features observing team members, background displays computer panel context, no text or letters visible"

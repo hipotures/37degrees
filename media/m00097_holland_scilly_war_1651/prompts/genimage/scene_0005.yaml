@@ -1,30 +1,31 @@
 sceneDescription:
   setting:
-    time: March 30, 1651, afternoon
-    location: Harbor meeting between Dutch and Royalist representatives
-    weather: Tense atmosphere with gathering storm clouds
+    time: April 17, 1651, dawn
+    location: Old Grimsby harbor, east coast of Tresco Island
+    weather: Misty dawn with calm seas perfect for amphibious landing
   characters:
-  - appearance: Dutch man, 50s, weathered sea captain face, gray beard, commanding naval bearing
-    clothing: 17th century Dutch naval uniform with gold braid, tricorn hat, ceremonial sword
-    position: Standing on small boat approaching Scilly harbor
-    action: Delivering formal diplomatic demands with stern authority
-  - appearance: English man, 40s, aristocratic bearing, dark hair, royalist manner, stern expression
-    clothing: 17th century Royalist military attire with ornate jacket, feathered hat, ceremonial sash
-    position: Standing on harbor quay representing Royalist interests
-    action: Defiant aristocratic stance, refusing Dutch demands with stubborn resolve
+  - appearance: Age 52 in 1651, stocky build, weathered face with grey beard, penetrating grey eyes, calloused hands from
+      naval service
+    clothing: Parliamentary naval uniform of plain brown coat with minimal decoration, simple white collar, black hat, practical
+      leather belt with sword
+    position: Standing in landing boat directing amphibious assault
+    action: Directing systematic siege operations, coordinating marine landing with professional competence and tactical precision
   scene:
-    mainElements: Formal diplomatic confrontation in harbor setting with opposing representatives
-    details: Small diplomatic boat flying Dutch flag approaching stone quay, formal documents being presented, Royalist officials
-      on harbor wall, Dutch warships visible in background maintaining threatening positions, harbor workers watching tense
-      exchange
-    background: Scilly fortress walls rising behind harbor, Dutch fleet anchored in deeper waters, storm clouds gathering
-      over Atlantic
-    atmosphere: Diplomatic crisis escalating to war declaration, formal international protocol in remote island setting, historic
-      moment of conflict beginning, no text or letters visible
+    mainElements: Forty landing boats filled with Parliamentary marines approaching rocky shoreline, soldiers with muskets
+      and pikes preparing to disembark, blockhouse fortification visible on shore
+    details: Wooden landing boats cutting through morning mist, marines in Parliamentary uniforms with steel helmets and leather
+      equipment, muskets with bayonets fixed, bronze cannons mounted on wooden carriages visible on beach, Old Grimsby blockhouse
+      with cannon emplacements, granite rocks and defensive positions, morning light breaking through sea mist creating dramatic
+      shadows
+    background: Tresco's rocky coastline with defensive positions, King Charles' Castle visible on northern heights commanding
+      the approach, other Parliamentary warships providing covering fire, wild Atlantic horizon
+    atmosphere: Tense amphibious assault beginning, professional military efficiency meeting desperate island defense, sound
+      of oars cutting water and whispered commands, crucial moment in siege operations, no text or letters visible
   composition:
-    cameraAngle: Medium shot showing diplomatic confrontation
-    focus: Moment of war declaration between Dutch and Royalist representatives
-    depth: Diplomatic meeting in foreground, harbor and fortress in middle ground, Dutch fleet in background
+    cameraAngle: Dynamic low angle from water level showing boats approaching shore with dramatic lighting
+    focus: Parliamentary commander coordinating successful amphibious landing, marines preparing for beach assault
+    depth: Foreground shows detailed landing boats and character, middle ground reveals approaching shoreline and blockhouse,
+      background displays Tresco's commanding fortifications and strategic geography
 visualElements:
   colorPalette:
     primary:

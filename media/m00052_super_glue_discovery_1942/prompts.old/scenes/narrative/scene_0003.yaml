@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Chemical Preparation and Initial Experimentation"
+  setting:
+    time: "1942, late afternoon"
+    location: "Chemical preparation area in Eastman Kodak laboratory"
+    weather: "Late afternoon light fading, laboratory illuminated by artificial lighting"
+  characters:
+    - appearance: "Caucasian man, 25 years old, dark brown hair, medium build, focused expression, intelligent eyes behind wire-rimmed glasses"
+      clothing: "1940s white laboratory coat over dark suit and tie, black leather shoes"
+      position: "Standing at chemical mixing station, carefully measuring compounds"
+      action: "Precisely measuring acrylate monomers into glass beakers using graduated cylinders and stirring carefully"
+  scene:
+    mainElements: "Laboratory bench with glass beakers, measuring cylinders, chemical bottles labeled with acrylate compounds, heating elements, and ventilation hood"
+    details: "Clear liquid chemical compounds in various glass containers, precise measuring equipment with graduated markings, chemical bottles containing different acrylate monomers arranged systematically, ventilation hood drawing away fumes, heating element maintaining controlled temperature, laboratory notebook open with handwritten formulas and measurements"
+    background: "Other laboratory equipment visible in adjacent areas, chemical storage cabinets with organized bottles, safety equipment mounted on walls"
+    atmosphere: "Controlled environment for chemical experimentation with safety protocols, methodical scientific approach to material development, increasing anticipation of breakthrough, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up from three-quarter view"
+    focus: "Character HC's hands carefully measuring and mixing chemical compounds with precision equipment"
+    depth: "Foreground shows glass beakers and measuring equipment in sharp detail, middle ground displays character's focused work, background reveals broader laboratory context and safety equipment"

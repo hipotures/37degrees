@@ -1,26 +1,34 @@
 sceneDescription:
   setting:
-    time: April 1990, evening
-    location: Private residence, Belgian countryside
-    weather: Clear dark night, perfect for photography
+    time: April-May 1990, various evening hours
+    location: Multiple locations across Belgium, rural and urban areas
+    weather: Spring weather conditions, generally clear skies
   characters:
-  - appearance: Belgian civilian, 30s, focused on camera work
-    clothing: 1990 winter attire - wool coats, sweaters, jeans, typical casual European clothing of the era
-    position: Holding camera, positioning hoax materials against night sky
-    action: Deliberately creating deceptive photograph using prepared materials
+  - appearance: Belgian civilian families, various ages from children to elderly, typical rural European appearance
+    clothing: Spring clothing appropriate for mild weather, casual civilian attire
+    position: Standing in various locations - village streets, farm yards, urban neighborhoods
+    action: Looking skyward with diminishing frequency, some still hoping to witness phenomena that made headlines
+  - appearance: Local police officers continuing routine patrols
+    clothing: Belgian Gendarmerie uniforms, standard duty equipment
+    position: On routine patrol routes that previously experienced heavy UFO activity
+    action: Maintaining heightened observation protocols while conducting normal law enforcement duties
   scene:
-    mainElements: Backyard setting with photographer creating famous hoax image
-    details: Triangular styrofoam piece painted black, four small flashlights for corner and center lights, suspended on string,
-      materials used to create the famous hoax photograph being carefully positioned against dark sky background. Camera equipment
-      and lighting setup visible. Photographer deliberately blurring image for effect while creating what will become iconic
-      UFO photograph.
-    background: Dark night sky providing backdrop for deceptive photography
-    atmosphere: Secretive creation of deliberate deception that will influence public perception
+    mainElements: Various Belgian landscapes - rural villages, agricultural areas, small towns - showing return to normal
+      evening routines
+    details: Decreased frequency of unusual aerial activity, people gradually returning to normal evening routines, occasional
+      hopeful skyward glances from those who witnessed earlier events, law enforcement maintaining standard protocols, spring
+      season bringing longer daylight hours and different atmospheric conditions
+    background: Belgian countryside and towns showing signs of spring renewal, agricultural fields being prepared for planting
+      season, communities resuming normal activities after months of extraordinary aerial phenomena, clear skies now appearing
+      ordinary rather than threatening to reveal unusual objects
+    atmosphere: Gradual return to normalcy after months of unprecedented UFO activity, sense of conclusion to extraordinary
+      period in Belgian history, communities processing shared experience of witnessing unexplained phenomena, anticipation
+      gradually fading to memory, no text or letters visible
   composition:
-    cameraAngle: Medium shot showing hoax creation process
-    focus: Photographer creating the infamous Petit-Rechain UFO photograph hoax
-    depth: 'Foreground: photographer and camera equipment, middle ground: hoax materials suspended on string, background:
-      dark night sky suitable for deception, no text or letters visible'
+    cameraAngle: Wide shot showing multiple Belgian communities returning to normal routines
+    focus: Belgian civilians and officials adjusting to decreased UFO activity and return to normal life
+    depth: Foreground shows local residents in various communities, middle ground displays typical Belgian towns and countryside,
+      background reveals clear spring skies no longer hosting mysterious triangular visitors
 visualElements:
   colorPalette:
     primary:

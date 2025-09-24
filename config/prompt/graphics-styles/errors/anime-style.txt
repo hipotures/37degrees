@@ -1,0 +1,94 @@
+ANIME STYLE YAML FILE ANALYSIS REPORT
+=====================================
+
+File: /home/xai/DEV/37degrees/config/prompt/graphics-styles/anime-style.yaml
+
+STRUCTURAL ISSUES:
+==================
+
+1. MISSING SECTION: postProcessing
+   - Most other style files (comic-book-style.yaml, oil-painting-style.yaml) include a postProcessing section
+   - This section should contain:
+     * effects: (specific visual effects)
+     * filters: (color/tone adjustments)
+     * adjustments: (saturation, contrast values)
+   - For anime style, this should include effects like:
+     * screen tone effects
+     * digital cel animation finish
+     * bright highlights on hair/eyes
+     * flat color rendering
+
+CONTENT ACCURACY ISSUES:
+========================
+
+2. INCOMPLETE DESCRIPTION
+   - Current: "Japanese animation aesthetic with bold outlines, cel-shaded coloring, and expressive character design"
+   - Missing key anime characteristics:
+     * Large, expressive eyes (most distinctive feature)
+     * Exaggerated facial expressions
+     * Colorful/stylized hair
+     * Dynamic poses and movement
+     * Limited animation techniques
+
+3. AI PROMPTS COULD BE MORE SPECIFIC
+   - basePrompt lacks key anime descriptors:
+     * Missing "large eyes", "expressive eyes"
+     * Missing "colorful hair", "dynamic pose"
+     * Missing "Japanese anime character"
+     * Missing "studio quality animation"
+   - negativePrompt could include:
+     * "western animation", "3D render", "live action"
+
+4. VISUAL ELEMENTS GAPS
+   - lineArt section:
+     * Missing mention of variable line weights (thicker for outlines, thinner for details)
+     * Hair animation effects not mentioned
+   - lighting section:
+     * Missing mention of dramatic eye highlights
+     * Hair highlights not specifically called out
+   - mood section:
+     * Should mention genre variations (shoujo, shounen, seinen, josei)
+     * Missing "kawaii" or "moe" aesthetic elements
+
+5. STYLE PRECEDENTS INCOMPLETE
+   - Listed: Studio Ghibli, Makoto Shinkai, classic manga artists
+   - Missing important references:
+     * Specific anime studios (Madhouse, Bones, MAPPA, Kyoto Animation)
+     * Influential anime directors (Hayao Miyazaki, Satoshi Kon)
+     * Popular anime series that define the style
+     * Manga artists like Osamu Tezuka (who established big eyes convention)
+
+CONSISTENCY ISSUES:
+==================
+
+6. COLOR PALETTE SPECIFICITY
+   - Current description is too general
+   - Should specify:
+     * Common anime hair colors (pink, blue, green, purple)
+     * Skin tone rendering in anime
+     * Eye color variations and rendering
+     * Background color techniques (gradient skies, simplified environments)
+
+7. MISSING TECHNICAL DETAILS
+   - No mention of:
+     * Frame rate considerations (limited animation)
+     * Cell animation heritage
+     * Digital vs traditional techniques
+     * Common aspect ratios and compositions
+
+RECOMMENDATIONS:
+===============
+
+1. Add postProcessing section with anime-specific effects
+2. Expand description to include large eyes and key visual characteristics
+3. Enhance AI prompts with more specific anime terminology
+4. Add more comprehensive style precedents
+5. Include technical animation details in visual elements
+6. Specify anime-specific color usage patterns
+7. Add genre-specific mood variations (shoujo vs shounen aesthetics)
+
+SEVERITY: MODERATE
+- File is functional but incomplete
+- Missing critical postProcessing section
+- Description and prompts lack key anime characteristics
+- Would benefit from significant enhancement to match template completeness

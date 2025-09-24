@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Military convoy arrives at debris field"
+  setting:
+    time: "July 7, 1947, afternoon"
+    location: "Open pasture land on Foster Ranch, New Mexico desert"
+    weather: "Hot desert afternoon, dust clouds from vehicles"
+  characters:
+    - appearance: "Caucasian man, 39, clean-shaven, dark hair neatly combed, average build"
+      clothing: "USAAF Pinks and Greens Class A uniform - olive drab gabardine wool jacket with light taupe trousers, khaki shirt with black tie, gold oak leaf insignia on shoulders"
+      position: "Standing beside military jeep"
+      action: "Directing soldiers, pointing at debris field, holding clipboard"
+    - appearance: "Multiple young military personnel, various builds"
+      clothing: "USAAF enlisted uniforms, fatigue caps"
+      position: "Spread across debris field"
+      action: "Collecting debris into canvas bags, marking locations with stakes"
+  scene:
+    mainElements: "Military vehicles parked on desert road, soldiers systematically collecting debris"
+    details: "Olive drab Willys CJ-2A Jeep with white USAAF star markings, military flatbed truck for debris transport, canvas-covered cargo areas, soldiers with canvas collection bags, wooden stakes being driven into ground, dust swirling from activity, late afternoon shadows lengthening, no text or letters visible"
+    background: "Wide area of scattered metallic debris across sandy soil and sparse vegetation"
+    atmosphere: "Organized military operation, systematic collection, desert heat and dust, serious professional activity"
+  composition:
+    cameraAngle: "Wide shot from elevated position"
+    focus: "Military operation collecting mysterious debris"
+    depth: "Foreground shows officer directing operations, middle ground has soldiers collecting debris, background shows military vehicles and vast desert"

@@ -1,42 +1,28 @@
 sceneDescription:
   setting:
-    time: 1386, afternoon
-    location: Stone courtroom chamber, Falaise castle, Normandy, France
-    weather: Afternoon winter light fading
+    time: January 9, 1386, evening
+    location: Courthouse of Falaise - Stone building with thick walls and small windows, typical of medieval administrative
+      architecture, Falaise, Normandy
+    weather: Cold interior warmed by braziers, darkness falling outside
   characters:
-  - appearance: Young man, 30s, scholarly appearance, intelligent eyes, clean-shaven
-    clothing: Brown scholar's robes, leather belt, ink-stained fingers from writing
-    position: Standing before judge's bench, gesturing earnestly toward pig defendant
-    action: Making passionate defense argument, holding legal scroll, pointing to precedent documents
-  - appearance: Middle-aged man, 50s, stern expression, graying beard, authoritative presence
-    clothing: Black judicial robes with white collar, medieval cap of office, ceremonial chain
-    position: Seated at elevated wooden judge's bench, chin resting on hand
-    action: Listening intently to defense arguments, occasionally nodding or frowning
-  - appearance: Large domestic sow, approximately 3 years old, brown and pink coloring, heavy build around 300 pounds, intelligent
-      but wary eyes
-    clothing: No clothing, natural pig appearance
-    position: Standing in wooden defendant's enclosure, looking toward lawyer
-    action: Appearing calm but alert, occasionally tilting head as if listening
-  - appearance: Man, 40s, sharp features, calculating expression, well-groomed
-    clothing: Dark blue court robes, silver clasp, leather document pouch
-    position: Seated at prosecutor's table, leaning forward attentively
-    action: Taking notes and preparing counter-arguments, occasionally shaking head in disagreement
+  - appearance: Elderly man with gray beard, dignified bearing reflecting years of judicial experience
+    clothing: Elaborate judicial robes with ermine trim, ceremonial cap of office
+    position: Seated on elevated judge's bench
+    action: Stern and impartial, treating the animal trial with the same gravity as human cases
   scene:
-    mainElements: High stone walls with arched windows, wooden judge's bench elevated on platform, defendant's area with wooden
-      barrier
-    details: Parchment scrolls and legal documents scattered on defense table, quill and ink pot ready for note-taking, heavy
-      wooden mallet on judge's bench ready for order, wooden crucifix casting shadow on wall, iron braziers providing flickering
-      warm light, stone pillars supporting arched ceiling, rushes scattered on floor
-    background: Arched stone windows with afternoon light dimming, tapestries with heraldic symbols on walls, gallery filled
-      with villagers watching intently
-    atmosphere: Intense legal argumentation in unprecedented circumstances, scholarly defense of animal intelligence and intent,
-      medieval legal tradition being stretched to accommodate extraordinary case, afternoon shadows lengthening across stone
-      courtroom, no text or letters visible
+    mainElements: Judge delivering verdict from elevated wooden bench, large domestic pig approximately three years old standing
+      in defendant's dock, small parchment document recording payment and execution details
+    details: Candlelight flickering on stone walls creating dramatic shadows, formal wooden gavel in judge's hand, rolled
+      parchment with wax seal, quill and ink on judicial desk, pig standing calmly as sentence is pronounced, medieval tapestries
+      hanging from walls, no text or letters visible
+    background: Gallery of townspeople listening solemnly to the unprecedented verdict against an animal
+    atmosphere: Solemn and historic moment as medieval justice system renders same verdict against animal as would be given
+      to human murderer
   composition:
-    cameraAngle: Medium shot focusing on defense lawyer with judge and pig visible
-    focus: Defense lawyer as passionate advocate, creating connection between human justice and animal defendant
-    depth: Foreground shows lawyer's animated argument, middle ground captures judge's consideration and pig's presence, background
-      reveals courtroom architecture and observers
+    cameraAngle: Low angle shot looking up at judge delivering verdict
+    focus: The judge's authoritative pronouncement of guilt and death sentence
+    depth: Foreground shows judge's robes and gavel, middle ground contains pig receiving sentence, background reveals assembled
+      townspeople
 visualElements:
   colorPalette:
     primary:

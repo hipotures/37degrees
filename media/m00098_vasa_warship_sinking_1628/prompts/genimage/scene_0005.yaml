@@ -1,26 +1,27 @@
 sceneDescription:
   setting:
-    time: August 10, 1628, morning
-    location: Stone quays and waterfront area of Stockholm harbor
-    weather: Partly cloudy with light winds building
+    time: August 10, 1628, 16:00
+    location: Tre Kronor Royal Palace on Stadsholmen island, Stockholm, Sweden
+    weather: Clear summer afternoon with light south winds
   characters:
-  - appearance: Swedish man, 35, experienced sea captain appearance, confident bearing
-    clothing: 17th century ship captain uniform with brass buttons, navigation instruments
-    position: Standing on ship's deck prepared for maiden voyage
-    action: Maritime expertise, checking wind conditions and preparing for departure
+  - appearance: Middle-aged seaman, weathered face, graying beard, muscular build from years at sea, worried expression
+    clothing: Dark blue naval officer's coat with brass buttons, white shirt, black tricorn hat, leather belt with cutlass
+    position: Standing on ship's deck
+    action: Constantly checking rigging and sails, barking orders with growing urgency
   scene:
-    mainElements: Stone harbor walls, royal viewing areas, crowds of spectators gathered for ceremonial launch
-    details: Hundreds of Stockholm citizens gathered on stone quays to watch royal warship launch, royal banners and ceremonial
-      decorations, naval officers in dress uniforms, families and dignitaries watching from elevated positions, festive atmosphere
-      with ceremonial preparations, ships' bells ringing, flags flying
-    background: Stockholm waterfront with royal buildings, other naval vessels in harbor, Swedish summer sky with building
-      clouds
-    atmosphere: Royal ceremony location with celebration and pageantry, pride in Swedish naval achievement, festive launch
-      of most expensive warship ever built, optimistic crowd unaware of impending disaster, no text or letters visible
+    mainElements: Imposing castle overlooking harbor, three crowns towers, throne room, state apartments, royal quay, ceremonial
+      courtyards
+    details: Magnificent warship Vasa casting off from ornate royal quay, four of ten sails unfurled and catching wind, ceremonial
+      cannons firing salute with white smoke billowing across water, thousands of spectators lining Stockholm waterfront,
+      nobility in colorful silk and velvet clothing watching from palace balconies, church bells ringing across the city,
+      crew members working ropes and rigging, no text or letters visible
+    background: Formal grandeur, courtiers in silk and velvet, sound of ceremonial drums and trumpets
+    atmosphere: Formal grandeur, courtiers in silk and velvet, sound of ceremonial drums and trumpets
   composition:
-    cameraAngle: Wide shot showing ceremonial launch gathering
-    focus: Celebration and pageantry of royal warship maiden voyage
-    depth: Crowd and ceremony in foreground, Vasa warship in middle ground, Stockholm harbor in background
+    cameraAngle: Wide shot from waterfront perspective
+    focus: Majestic warship departing amid great ceremony and celebration
+    depth: Cheering crowds on quay in foreground, Vasa under sail in middle ground, Stockholm palace and city in background,
+      no text or letters visible
 visualElements:
   colorPalette:
     primary:

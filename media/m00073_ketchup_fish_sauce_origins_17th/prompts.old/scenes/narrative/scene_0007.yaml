@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "English kitchen experiments with Asian sauce adaptation"
+  setting:
+    time: "1680s, afternoon"
+    location: "Large kitchen in English manor house, England, late 17th century"
+    weather: "Rainy English afternoon"
+  characters:
+    - appearance: "Chinese woman, 40s, efficient movements, hair in traditional bun, practical demeanor"
+      clothing: "Simple gray cotton tunic, wide pants, white apron, cloth shoes, sleeves often rolled up"
+      position: "At wooden preparation table in kitchen"
+      action: "Teaching English cook how to use Asian fish sauce, demonstrating proper measurement and application"
+    - appearance: "English woman, 50s, round face, graying hair under white cap, sturdy build from kitchen work"
+      clothing: "Brown wool dress with white apron, linen cap, sturdy leather shoes"
+      position: "Beside preparation table watching demonstration"
+      action: "Learning to incorporate Asian fish sauce into English recipes, tasting and adjusting flavors"
+  scene:
+    mainElements: "Stone fireplace with hanging pots, wooden preparation tables, shelves of ceramic jars, herbs hanging from beams"
+    details: "Clear glass bottle with amber-colored liquid being measured into wooden bowls, various English cooking ingredients being combined with Asian sauce, copper pots simmering over fire, ceramic storage jars on shelves, traditional English kitchen tools"
+    background: "Large stone fireplace with cooking fire, window showing English countryside, servants moving about kitchen tasks, pantry with stored goods"
+    atmosphere: "Warm and busy domestic environment with attempts to recreate exotic Asian flavors, cultural fusion in cooking, experimentation with new ingredients, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot focusing on cooking demonstration"
+    focus: "Cultural exchange through culinary teaching and adaptation"
+    depth: "Foreground shows detailed cooking instruction, middle ground features kitchen activity, background shows domestic English setting"

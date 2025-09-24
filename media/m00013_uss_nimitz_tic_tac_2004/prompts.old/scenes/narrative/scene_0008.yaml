@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Second F/A-18F Launch with ATFLIR Pod for Video Documentation"
+  setting:
+    time: "November 14, 2004, afternoon after 1:00 PM"
+    location: "USS Nimitz (CVN-68) flight deck, Pacific Ocean southwest of San Diego, California, 100 miles offshore"
+    weather: "Clear, sunny day continuing with excellent visibility and calm sea conditions"
+  characters:
+    - appearance: "Caucasian man, 30s, medium build, analytical expression, technical focus"
+      clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
+      position: "In F/A-18F cockpit preparing for launch with special sensor equipment"
+      action: "Conducting pre-flight checks on ATFLIR pod systems and preparing for documentation mission"
+    - appearance: "Naval aviation personnel, various ages and builds, working efficiently"
+      clothing: "Color-coded deck crew shirts - yellow, green, purple, red shirts indicating specific roles, headsets and safety equipment"
+      position: "Around aircraft on flight deck conducting specialized launch preparation"
+      action: "Final checks on ATFLIR pod installation and aircraft systems before urgent launch"
+  scene:
+    mainElements: "4.5 acres of grey non-skid surface with yellow and white operational markings, four catapults, four arresting wires, island superstructure housing bridge and flight control"
+    details: "AN/ASQ-228 Advanced Targeting FLIR pod, 72-inch sensor pod mounted on fuselage station, infrared camera and laser designator system, capable of recording thermal imagery attached to Boeing F/A-18F Super Hornet in tactical grey paint scheme, VFA-41 Black Aces squadron markings, Bureau Number on fuselage, AIM-9X Sidewinder training missiles, twin-engine multirole fighter aircraft. Deck crew making final adjustments to specialized sensor pod. Steam visible from catapult preparation."
+    background: "Pacific Ocean extends to horizon with urgent sense of follow-up mission to document extraordinary encounter reported by previous flight"
+    atmosphere: "Heightened activity and focused urgency as second sortie launches with documentation equipment, serious technical preparation for capturing evidence of unprecedented aerial phenomenon"
+  composition:
+    cameraAngle: "Medium shot from deck level showing aircraft with prominent ATFLIR pod"
+    focus: "F/A-18F equipped with specialized ATFLIR sensor pod preparing for urgent documentation mission"
+    depth: "Foreground: deck crew working on aircraft, middle ground: F/A-18F with ATFLIR pod, background: carrier operations and open ocean, no text or letters visible"

@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Airborne Mold Spores Entering Empty Laboratory"
+  setting:
+    time: "1928 early September, midday"
+    location: "St Mary's Hospital Bacteriology Laboratory, Paddington, London"
+    weather: "Cool weather following heat wave, windows open for ventilation"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Empty laboratory with abandoned bacterial culture plates, open windows allowing air circulation, microscopic spores floating through air"
+    details: "Rows of glass petri dishes left on wooden laboratory bench, open windows with light curtains moving in breeze, dust particles and invisible mold spores floating in air currents, laboratory equipment sitting idle, brass microscope covered with cloth, chemical bottles undisturbed on shelves, sunlight streaming through windows creating visible air movement patterns, no text or letters visible"
+    background: "Laboratory shelves with scientific instruments, view of other building through windows, La Touche's mycology laboratory visible in building below"
+    atmosphere: "Quiet abandonment during holiday period, natural air circulation allowing contamination, invisible biological processes beginning to occur"
+  composition:
+    cameraAngle: "Wide shot showing entire laboratory space in character AF's absence"
+    focus: "Open windows and air currents carrying invisible spores toward culture plates"
+    depth: "Foreground shows abandoned culture plates, middle ground captures air movement through laboratory, background reveals windows and external environment"

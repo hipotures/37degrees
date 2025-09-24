@@ -1,31 +1,26 @@
 sceneDescription:
   setting:
-    time: 1600, mid-16th century during early drought period
-    location: Calama region, northern Chile, Atacama Desert settlements
-    weather: Cloudless sky, extreme aridity, no rainfall for 30 years
+    time: 1569, late afternoon, golden hour light
+    location: Desert oasis town at 2,260m altitude, Calama, northern Chile, surrounded by barren mountains and salt flats
+    weather: Clear skies with occasional desert breeze, moderate temperature
   characters:
-  - appearance: Indigenous man, 60s, weathered face from desert exposure, dark sun-hardened skin, wise dark eyes
-    clothing: Traditional woven textiles, layered garments for temperature variation, alpaca wool clothing, practical desert
-      wear
-    position: Standing beside traditional water management system
-    action: Demonstrating ancient water collection and conservation techniques to younger community members
+  - appearance: Middle-aged man, weathered features from desert life, copper-toned skin, lean build adapted to scarce resources
+    clothing: Traditional llama wool textiles in earth tones, silver ornaments, leather sandals
+    position: Standing observantly, carrying ritual coca leaves
+    action: Surveying desert landscape with ancestral knowledge
   scene:
-    mainElements: Traditional indigenous settlements with water management systems, terraced areas, limited agriculture, indigenous
-      water collection and conservation systems with traditional terraces and underground channels
-    details: Carefully managed irrigation systems showing human adaptation to extreme drought, ingenious survival methods
-      including dew collection methods and underground water channels, traditional woven textiles and practical desert clothing,
-      evidence of sustainable agricultural techniques adapted to waterless environment, preserved organic materials due to
-      extreme desiccation
-    background: Atacama Desert landscape stretching endlessly with minimal vegetation adapted to extreme conditions, mountain
-      barriers visible preventing any moisture from reaching settlement
-    atmosphere: Human adaptation to extreme drought through centuries of traditional knowledge, ingenious survival methods
-      passed down through generations, connection to ancient traditions of water conservation, community cooperation in waterless
-      environment, no text or letters visible
+    mainElements: Adobe buildings, precious water wells, sparse vegetation, mining infrastructure
+    details: Small adobe structures clustered around natural water spring. Terraced gardens with hardy desert plants and quinoa
+      crops. Stone-lined irrigation channels directing precious water flow. Llamas grazing on sparse desert grass. Clay water
+      vessels stacked near dwellings. Smoke rising from cooking fires. Traditional tools for desert survival scattered around
+      settlement.
+    background: Harsh sunlight, minimal shade, dust-filled air, extreme temperature variations
+    atmosphere: Harsh sunlight, minimal shade, dust-filled air, extreme temperature variations
   composition:
-    cameraAngle: Medium shot focusing on traditional water management demonstration
-    focus: Indigenous elder showing water conservation techniques to community
-    depth: Foreground shows detailed water management systems, middle shows community interaction, background shows harsh
-      desert environment
+    cameraAngle: Medium shot from elevated rocky outcrop overlooking settlement
+    focus: Indigenous leader observing thriving oasis community before drought begins
+    depth: Foreground shows character against desert rocks, middle ground reveals active settlement with water sources, background
+      features surrounding barren mountains, no text or letters visible
 visualElements:
   colorPalette:
     primary:

@@ -1,0 +1,59 @@
+CELTIC KNOTWORK STYLE YAML FILE ANALYSIS REPORT
+
+==================================================
+
+ISSUES FOUND:
+
+1. MISSING REQUIRED FIELDS:
+   - Missing "rendering" section (present in template)
+   - Missing "perspective" field (present in template)
+
+2. STRUCTURAL INCONSISTENCIES:
+   - The "composition" section appears instead of expected template fields
+   - Template has "shadows" as a subsection under "lighting", but the Celtic file has "shadows" as a separate field
+
+3. CONTENT ACCURACY ISSUES:
+
+   a) COLOR PALETTE INACCURACIES:
+      - The primary colors listed (#8B4513 saddle brown, #2F4F4F dark slate gray, #556B2F dark olive green)
+        don't accurately reflect historical Celtic manuscript colors
+      - Research shows Book of Kells used: blues (from woad/indigo), yellows (orpiment),
+        whites (gypsum), pinks/purples (lichen), reds (red lead), greens (copper pigment)
+      - Missing the vibrant blues that were "one of the book's most prominent colours"
+      - Color palette is too muted/earthy compared to the actual vibrant medieval pigments
+
+   b) MISSING CRITICAL ELEMENTS:
+      - No mention of key characteristics like "over-under alternation"
+      - Missing reference to "endless knots" concept
+      - No mention of "basket weave" patterns which are fundamental to Celtic knotwork
+
+4. TYPO IN STYLE PRECEDENTS:
+   - Line 56: "Book of Kell manuscript" should be "Book of Kells manuscript" (missing 's')
+
+5. INCOMPLETE STYLE PRECEDENTS:
+   - Good inclusion of major manuscripts (Book of Kells, Lindisfarne Gospels, etc.)
+   - Could benefit from mentioning the apotropaic (protective) function of knotwork
+
+6. AI PROMPTS ASSESSMENT:
+   - Base prompt is generally accurate but could include "over-under weaving" terminology
+   - Negative prompt appropriately excludes modern/geometric elements
+   - Style keywords are appropriate
+
+7. VISUAL ELEMENTS INCONSISTENCIES:
+   - "usageNotes: Natural dyes and metals" contradicts the synthetic hex color codes provided
+   - "metallic highlights" mentioned but no gold/metallic colors in the primary/secondary palette
+   - Research shows "no use of gold or silver leaf" in Book of Kells, but file suggests gold highlights
+
+RECOMMENDATIONS:
+
+1. Add missing "rendering" and "perspective" fields to match template structure
+2. Update color palette to include authentic medieval pigment colors:
+   - Add vibrant blues (#4169E1 or similar for woad blue)
+   - Include orpiment yellow (#E1C16E)
+   - Add lichen-derived pinks/purples
+3. Fix typo: "Book of Kells" not "Book of Kell"
+4. Reconcile metallic highlights description with historical accuracy
+5. Add "over-under alternation" and "basket weave" concepts to description
+6. Consider adding the protective/apotropaic function to the description
+
+SEVERITY: MEDIUM - File has structural issues and historical inaccuracies that should be corrected for authentic representation of Celtic knotwork art.

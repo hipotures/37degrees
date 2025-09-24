@@ -1,0 +1,65 @@
+canon:
+  characters:
+    - id: "character_JP"
+      name: "Character JP"
+      description_block: |
+        characters:
+          - appearance: "Swiss man, 40s, tall and lean build, intelligent dark eyes, wavy dark hair"
+            clothing: "1960s thick woolen sweater over collared shirt, heavy winter jacket during surface operations"
+            posture: "Confident, methodical, often checking instruments or technical equipment"
+    - id: "character_DW"
+      name: "Character DW"
+      description_block: |
+        characters:
+          - appearance: "American man, 30s, military bearing, short-cropped hair, alert expression"
+            clothing: "US Navy uniform with lieutenant insignia, or heavy weather gear during operations"
+            posture: "Alert military stance, hands often positioned near controls or communication equipment"
+    - id: "surface_crew"
+      name: "Surface Crew"
+      description_block: |
+        characters:
+          - appearance: "Mixed group of men, 20s-50s, various builds, serious expressions"
+            clothing: "1960s naval uniforms, heavy weather jackets, safety gear during operations"
+            posture: "Focused on equipment monitoring, coordinated teamwork during operations"
+  locations:
+    - id: "mariana_trench_surface"
+      name: "Mariana Trench Surface Waters"
+      description_block: |
+        setting:
+          location: "Pacific Ocean surface above Mariana Trench, western Pacific, 200 miles southwest of Guam"
+        mainElements: "Vast deep blue ocean waters, support ships visible on horizon, choppy seas under overcast sky"
+        atmosphere: "Remote, isolating, sense of enormous depth beneath calm surface waters"
+    - id: "trieste_interior"
+      name: "Trieste Bathyscaphe Interior"
+      description_block: |
+        setting:
+          location: "Cramped spherical crew cabin inside Trieste bathyscaphe, 1960s deep-sea technology"
+        mainElements: "Round metal walls lined with instruments, small porthole windows, analog gauges and controls"
+        atmosphere: "Confined, high-tech for 1960s, mixture of excitement and tension, cold metal surfaces"
+    - id: "challenger_deep_seafloor"
+      name: "Challenger Deep Ocean Floor"
+      description_block: |
+        setting:
+          location: "Ocean floor at Challenger Deep, 35,814 feet below Pacific Ocean surface, Mariana Trench"
+        mainElements: "Fine diatomaceous ooze sediment covering seafloor, complete darkness except for submersible lights"
+        atmosphere: "Alien, otherworldly, crushing pressure, absolute silence, unprecedented depth"
+    - id: "uss_wandank"
+      name: "USS Wandank Support Ship"
+      description_block: |
+        setting:
+          location: "US Navy support vessel USS Wandank (ATF-204) on Pacific Ocean surface, Mariana Trench area"
+        mainElements: "Military vessel with communication equipment, cranes for submersible operations, crew quarters"
+        atmosphere: "Organized military efficiency, tension during deep dive operations, international cooperation"
+  items:
+    - id: "trieste_bathyscaphe"
+      name: "Trieste Bathyscaphe"
+      description_block: |
+        details: "Swiss-designed deep-sea submersible with cylindrical float tanks containing gasoline, spherical crew cabin suspended below, thick metal construction, small porthole windows, external lights"
+    - id: "depth_instruments"
+      name: "1960s Depth Instruments"
+      description_block: |
+        details: "Analog pressure gauges, depth meters, temperature sensors, primitive sonar equipment, manual controls with large dials and switches, brass fittings, warning lights"
+    - id: "seafloor_life"
+      name: "Deep Ocean Life Forms"
+      description_block: |
+        details: "White flatfish visible on seafloor, small red shrimp creatures, microscopic life in diatomaceous ooze, adapted to extreme pressure and darkness"

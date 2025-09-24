@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Shipyard Construction - Building the Vasa"
+  setting:
+    time: "1627, summer"
+    location: "Royal shipyard construction site in Stockholm"
+    weather: "Clear summer day with bustling activity"
+  characters:
+    - appearance: "Dutch man, 50s, master shipwright bearing, skilled craftsman hands, concerned expression"
+      clothing: "17th century master craftsman attire with leather apron, tools at belt"
+      position: "Supervising construction from scaffolding"
+      action: "Craftsman expertise, directing workers while examining problematic ship proportions"
+  scene:
+    mainElements: "Massive wooden warship under construction, scaffolding, construction equipment"
+    details: "Massive Swedish warship with ornate carvings taking shape, wooden hull framework rising to unprecedented height, workers installing elaborate carved wooden sculptures with golden paint, scaffolding surrounding ship construction, maritime construction tools and equipment, two gun decks being fitted simultaneously"
+    background: "Royal shipyard with other vessels under construction, Stockholm harbor visible beyond construction site, summer sky over maritime industrial activity"
+    atmosphere: "Industrial maritime construction site with royal supervision and urgent deadline pressure, ambitious engineering project pushing technical limits, finest craftsmanship meeting impossible specifications, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing massive ship construction"
+    focus: "Unprecedented scale and complexity of Vasa construction"
+    depth: "Ship construction in foreground, shipyard activity in middle ground, Stockholm harbor in background"

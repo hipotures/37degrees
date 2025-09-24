@@ -1,25 +1,32 @@
 sceneDescription:
   setting:
-    time: 1928 early September, midday
-    location: St Mary's Hospital Bacteriology Laboratory, Paddington, London
-    weather: Cool weather following heat wave, windows open for ventilation
-  characters: No characters present in this scene
+    time: September 3, 1928, morning approximately 9:00-10:00 AM
+    location: Small cramped laboratory on upper floor of Clarence Wing, St. Mary's Hospital, Paddington, London
+    weather: Cool London autumn morning following unusual cold spell
+  characters:
+  - appearance: 47-year-old Scottish man, short stature, round face with receding hairline, bright observant eyes, typically
+      serious expression
+    clothing: Dark three-piece suit typical of 1928 academics, white collared shirt, characteristic bow tie, dark leather
+      shoes, occasionally white laboratory coat over formal attire
+    position: Standing at laboratory workbench or examining culture plates
+    action: Returning to laboratory, sorting through abandoned culture plates, initial examination of contaminated dishes
   scene:
-    mainElements: Empty laboratory with abandoned bacterial culture plates, open windows allowing air circulation, microscopic
-      spores floating through air
-    details: Rows of glass petri dishes left on wooden laboratory bench, open windows with light curtains moving in breeze,
-      dust particles and invisible mold spores floating in air currents, laboratory equipment sitting idle, brass microscope
-      covered with cloth, chemical bottles undisturbed on shelves, sunlight streaming through windows creating visible air
-      movement patterns, no text or letters visible
-    background: Laboratory shelves with scientific instruments, view of other building through windows, La Touche's mycology
-      laboratory visible in building below
-    atmosphere: Quiet abandonment during holiday period, natural air circulation allowing contamination, invisible biological
-      processes beginning to occur
+    mainElements: Wooden laboratory benches cluttered with glass Petri dishes, basic microscopes, gas burners, glass laboratory
+      equipment, culture plates scattered across surfaces, shelving with bottles and specimens
+    details: Character AF examining multiple culture plates that had been abandoned for approximately one month, standard
+      glass Petri dish approximately 10cm diameter containing yellowish agar growth medium now showing blue-green Penicillium
+      mold colony approximately 2cm across, clear zone around mold where Staphylococcus bacteria was destroyed, normal bacterial
+      growth in areas distant from mold, brass and black metal compound microscope positioned nearby for closer examination
+    background: Laboratory shelving with specimen bottles, morning light streaming through tall Victorian windows, hospital
+      corridor visible through doorway
+    atmosphere: Cool September morning light filtering through tall Victorian windows, humid conditions, dusty academic atmosphere,
+      quiet except for occasional footsteps in corridor
   composition:
-    cameraAngle: Wide shot showing entire laboratory space in character AF's absence
-    focus: Open windows and air currents carrying invisible spores toward culture plates
-    depth: Foreground shows abandoned culture plates, middle ground captures air movement through laboratory, background reveals
-      windows and external environment
+    cameraAngle: Medium shot over Character AF's shoulder as he examines culture plates
+    focus: Character AF's hands holding the famous contaminated Petri dish for initial observation
+    depth: Foreground shows Character AF's hands with contaminated culture plate, middle ground captures his concentrated
+      expression and posture, background reveals laboratory setting with equipment and morning light through windows, no text
+      or letters visible
 visualElements:
   colorPalette:
     primary:

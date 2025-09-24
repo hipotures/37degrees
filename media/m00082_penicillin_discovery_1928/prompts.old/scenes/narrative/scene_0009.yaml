@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Assistants Begin Penicillin Isolation Work"
+  setting:
+    time: "1928 September, late afternoon"
+    location: "St Mary's Hospital Bacteriology Laboratory, Paddington, London"
+  characters:
+    - appearance: "British man, late 20s, slender build, light brown hair neatly combed, clean-shaven, earnest expression"
+      clothing: "1920s laboratory assistant white coat over white shirt and dark tie"
+      position: "Working at laboratory bench with chemical extraction equipment"
+      action: "Attempting to isolate pure penicillin from mold culture using laboratory techniques"
+    - appearance: "British man, early 30s, medium height, dark hair, clean-shaven, serious demeanor"
+      clothing: "1920s white laboratory coat over formal shirt and dark tie"
+      position: "Operating scientific instruments for compound purification"
+      action: "Working with chemical apparatus to extract and purify the antibiotic substance"
+  scene:
+    mainElements: "Specialized laboratory equipment for chemical extraction, glass flasks with mold cultures, purification apparatus"
+    details: "Complex glassware setup for chemical extraction, Erlenmeyer flasks containing mold juice cultures, distillation apparatus, chemical bottles with various solvents, laboratory balance for precise measurements, test tubes with experimental samples, crude penicillin solutions in glass containers, laboratory notebook with extraction procedures, afternoon lighting through laboratory windows, no text or letters visible"
+    background: "Well-equipped laboratory with chemical storage, scientific instruments, other researchers working on various projects"
+    atmosphere: "Intense scientific effort, challenging purification work, determination to isolate the active antibiotic compound"
+  composition:
+    cameraAngle: "Wide shot showing collaborative laboratory research effort"
+    focus: "Both assistants working with specialized extraction and purification equipment"
+    depth: "Foreground shows detailed chemical apparatus and extraction work, middle ground captures both researchers in focused activity, background reveals broader laboratory research environment"

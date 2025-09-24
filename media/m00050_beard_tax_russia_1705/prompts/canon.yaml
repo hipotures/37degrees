@@ -4,98 +4,80 @@ canon:
       name: "Character PG"
       description_block: |
         characters:
-          - appearance: "Caucasian man, early 30s, tall imposing build, clean-shaven face, intense dark eyes, prominent nose"
-            clothing: "European-style navy blue military uniform with gold epaulettes and buttons, or formal Western coat with white cravat"
-            posture: "Commanding presence, often gesturing authoritatively or holding documents"
-    - id: "character_boyar_elder"
-      name: "Character Boyar Elder"
+          - appearance: "Tall imposing figure, age 33, 6'8" height, dark hair, clean-shaven face, piercing eyes, strong jawline"
+            clothing: "Western European fashion - dark coat with gold buttons, white linen shirt, knee-length breeches, European-style boots"
+            posture: "Commanding presence, decisive gestures, often holding scissors or razor as symbol of reform, stern expression when enforcing new laws"
+    - id: "character_PA"
+      name: "Character PA"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 50s, stocky build, full long gray beard, weathered face, dignified bearing"
-            clothing: "Traditional Russian long kaftan in dark colors, fur-trimmed cap or hat"
-            posture: "Proud but defensive stance, often stroking beard or holding traditional items"
-    - id: "character_noble_young"
-      name: "Character Noble Young"
+          - appearance: "Elderly man, age 60s, full white beard reaching chest, lined face showing concern, traditional Orthodox appearance"
+            clothing: "Black Orthodox patriarch robes, ornate religious vestments, traditional Russian religious headwear, carrying religious icons"
+            posture: "Dignified but worried, protective gestures toward beard, holding religious texts, blessing motions"
+    - id: "character_BN"
+      name: "Character BN"
       description_block: |
         characters:
-          - appearance: "Caucasian man, late 20s, lean build, recently shaved or partially bearded, nervous expression"
-            clothing: "Mix of European and Russian clothing - Western jacket with traditional Russian elements"
-            posture: "Uncertain, often touching face or looking between traditional and modern influences"
-    - id: "character_merchant"
-      name: "Character Merchant"
+          - appearance: "Middle-aged man, 40s-50s, long dark beard, stocky build, traditional Russian features, expressions of defiance or confusion"
+            clothing: "Long traditional kaftan robes, fur-trimmed hat, ornate Russian nobility dress, gradually forced into European clothing"
+            posture: "Resistant body language, protective hand gestures toward beard, expressions ranging from anger to resignation"
+    - id: "character_TC"
+      name: "Character TC"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 40s, round build, thick brown beard, calculating eyes"
-            clothing: "Rich merchant robes with fur trim, ornate belt with coin purse"
-            posture: "Counting coins or examining goods, often with hands on valuables"
-    - id: "character_peasant"
-      name: "Character Peasant"
+          - appearance: "Clean-shaven man, middle-aged, stern expression, carrying official documents and beard tokens"
+            clothing: "Government uniform coat, European-style dress indicating loyalty to reforms"
+            posture: "Official bearing, authoritative gestures, showing beard tokens to citizens, documenting payments"
+    - id: "character_SR"
+      name: "Character SR"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 30s, wiry build, unkempt beard, simple weathered face"
-            clothing: "Rough woolen shirt, leather vest, simple trousers and boots"
-            posture: "Humble, often bowing or working with hands, carrying simple tools"
-    - id: "character_orthodox_priest"
-      name: "Character Orthodox Priest"
-      description_block: |
-        characters:
-          - appearance: "Caucasian man, 60s, tall thin build, long flowing black beard, solemn expression"
-            clothing: "Black Orthodox robes with ornate crosses, tall black hat"
-            posture: "Dignified, often blessing or holding religious items, protective of traditions"
+          - appearance: "Military bearing, full beard, battle-scarred, determined expression, age 30s-40s"
+            clothing: "Traditional Russian military uniform, fur cap, carrying weapons, Orthodox cross visible"
+            posture: "Defiant stance, rallying gestures, protective of traditional appearance, expressions of righteous anger"
   locations:
     - id: "kremlin_court"
-      name: "Kremlin Court"
+      name: "Moscow Kremlin Throne Room"
       description_block: |
         setting:
-          location: "Grand hall within Moscow Kremlin, ornate Russian palace interior with high vaulted ceilings"
-        mainElements: "Massive wooden throne, decorative pillars, Russian Orthodox icons on walls"
-        atmosphere: "Formal, tense, seat of imperial power with traditional Russian grandeur"
-    - id: "moscow_street"
-      name: "Moscow Street"
+          location: "Grand palace interior within Kremlin walls, Moscow, Russia, vaulted ceilings, massive stone architecture"
+        mainElements: "Ornate throne, Russian imperial eagles, traditional tapestries being replaced with European furnishings, courtiers gathered"
+        atmosphere: "Tense formal atmosphere, mixture of traditional Russian grandeur and new European influences, echo of voices in vast space"
+    - id: "moscow_streets"
+      name: "Moscow City Streets"
       description_block: |
         setting:
-          location: "Cobblestone street in early 18th century Moscow with wooden houses and onion-domed churches"
-        mainElements: "Traditional Russian wooden buildings, church spires, market stalls, snow-covered ground"
-        atmosphere: "Bustling but traditional, representing old Russian way of life before modernization"
-    - id: "barbershop"
-      name: "Barbershop"
+          location: "Narrow cobblestone streets, Moscow, Russia, traditional wooden buildings mixed with stone structures, muddy paths"
+        mainElements: "Tax collection booths, Orthodox churches with onion domes, merchant stalls, crowds of bearded and clean-shaven men"
+        atmosphere: "Bustling but tense, sounds of horses and carts, church bells, arguments over tax payments, winter cold"
+    - id: "astrakhan_square"
+      name: "Astrakhan Town Square"
       description_block: |
         setting:
-          location: "Small wooden shop interior with European-style furnishings and barbering tools"
-        mainElements: "Wooden chair, sharp razors on table, mirror, basin for washing, Western-style decor"
-        atmosphere: "Modern European influence, site of cultural transformation and conflict"
+          location: "Southern Russian town square, Astrakhan, Russia, Volga River nearby, traditional Russian provincial architecture"
+        mainElements: "Central gathering area, Orthodox church, government buildings, site of streltsy military revolt"
+        atmosphere: "Revolutionary tension, sounds of rebellion, smoke from conflicts, military equipment scattered"
     - id: "orthodox_church"
-      name: "Orthodox Church"
+      name: "Traditional Russian Orthodox Church"
       description_block: |
         setting:
-          location: "Interior of Russian Orthodox church with golden iconostasis and religious paintings"
-        mainElements: "Ornate golden altar screen, religious icons, candles, incense burners"
-        atmosphere: "Sacred, traditional, representing spiritual resistance to change"
-    - id: "merchant_market"
-      name: "Merchant Market"
-      description_block: |
-        setting:
-          location: "Outdoor marketplace in Moscow with wooden stalls and trading goods"
-        mainElements: "Wooden vendor stalls, various goods, scales for weighing, money pouches"
-        atmosphere: "Commercial, bustling with trade and economic concerns about new taxes"
+          location: "Interior of traditional Orthodox church, various locations across Russia, iconic onion domes, religious iconography covering walls"
+        mainElements: "Icon screens (iconostasis), religious paintings depicting bearded saints, candles, incense, Orthodox crosses"
+        atmosphere: "Sacred, solemn atmosphere, smell of incense, candlelight creating shadows, chanting and prayers"
   items:
-    - id: "beard_token"
-      name: "Beard Token"
+    - id: "beard_token_1705"
+      name: "1705 Beard Tax Token"
       description_block: |
-        details: "Small metal coin or medallion with imperial markings, proof of beard tax payment"
-    - id: "razor"
-      name: "Razor"
+        details: "Small copper or silver coin, approximately 2.35 cm diameter, round shape, worn from handling, obverse showing lower portion of bearded face with Cyrillic text, reverse showing Russian double-headed eagle with date"
+    - id: "razor_scissors"
+      name: "Ceremonial Cutting Tools"
       description_block: |
-        details: "Sharp metal blade with wooden handle, symbol of forced modernization"
-    - id: "imperial_decree"
-      name: "Imperial Decree"
+        details: "Large metal scissors and straight razor, ornate handles reflecting imperial status, sharp blades, tools used to cut beards at court, polished metal reflecting candlelight"
+    - id: "ukase_decree"
+      name: "Imperial Ukase on Beard Tax"
       description_block: |
-        details: "Formal parchment document with imperial seals announcing beard tax policy"
-    - id: "traditional_kaftan"
-      name: "Traditional Kaftan"
+        details: "Official parchment document with imperial seal, written in Church Slavonic script, formal legal language, royal decree detailing tax rates and enforcement procedures"
+    - id: "orthodox_icon"
+      name: "Icon of Bearded Christ"
       description_block: |
-        details: "Long Russian coat with ornate patterns and fur trim, symbol of old traditions"
-    - id: "european_jacket"
-      name: "European Jacket"
-      description_block: |
-        details: "Western-style formal coat with buttons and fitted cut, representing modernization"
+        details: "Traditional painted religious icon showing Jesus with full beard, gold leaf background, wooden panel, sacred artwork depicting Christ with facial hair"

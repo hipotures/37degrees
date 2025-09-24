@@ -1,31 +1,32 @@
 sceneDescription:
   setting:
-    time: July 8, 1947, morning
-    location: Roswell Army Air Field (RAAF), major military installation near Roswell, New Mexico
-    weather: Clear morning, warming desert air
+    time: July 7, 1947, afternoon
+    location: Foster Ranch entrance, New Mexico high desert, military vehicles approaching
+    weather: Hot, clear desert afternoon with bright sunlight
   characters:
-  - appearance: Caucasian man, 39, clean-shaven, dark hair neatly combed, average build
-    clothing: USAAF Pinks and Greens Class A uniform - olive drab gabardine wool jacket with light taupe trousers, khaki shirt
-      with black tie, gold oak leaf insignia on shoulders
-    position: Standing near aircraft cargo door
-    action: Supervising loading operation, checking manifest papers
-  - appearance: Several military personnel, various ages
-    clothing: Military work uniforms, some in flight gear
-    position: Around B-29 bomber aircraft
-    action: Loading sealed containers into aircraft cargo hold
+  - appearance: 40-year-old Caucasian man, military bearing, clean-shaven, professional appearance, intelligent eyes
+    clothing: U.S. Army Air Forces officer uniform with major's insignia, peaked military cap, polished boots
+    position: Examining debris or speaking with other military personnel
+    action: Investigating materials methodically, taking notes, directing other officers
+  - appearance: Military intelligence officer, 30s, observant demeanor, professional bearing
+    clothing: Captain's uniform with Counter Intelligence Corps insignia, field gear
+    position: Accompanying investigation team at ranch
+    action: Observing quietly, taking notes, maintaining professional skepticism
   scene:
-    mainElements: Military base with runways, curved-roof hangars with corrugated metal siding, administrative buildings,
-      barracks
-    details: B-29 Superfortress bomber with cargo doors open, sealed wooden crates being loaded, armed guards posted nearby,
-      propellers static, morning sun glinting off aluminum aircraft skin, fuel truck in distance, windsock showing light breeze,
-      no text or letters visible
-    background: Active military installation, utilitarian WWII-era architecture, concrete and brick structures, institutional
-      colors
-    atmosphere: High security operation, controlled urgency, military precision, early morning military base activity
+    mainElements: Military jeeps and personnel arriving at remote ranch, vast open rangeland stretching to distant mesas,
+      ranch house and outbuildings, windmill turning in desert breeze
+    details: Character JM and Character SC stepping out of military vehicles, dust clouds from jeep tires, officers carrying
+      investigation equipment and cameras, Character MB waiting near ranch buildings, sense of official military response
+      to civilian discovery, no text or letters visible
+    background: Remote sheep ranch at 6,870 feet elevation, sparse desert vegetation, distant mountains and mesas, endless
+      New Mexico high desert landscape
+    atmosphere: Professional military efficiency meeting rural ranch life, escalation from local to federal involvement, sense
+      of something significant unfolding
   composition:
-    cameraAngle: Low angle emphasizing aircraft size
-    focus: Loading operation of mysterious cargo into bomber
-    depth: Foreground shows officer with papers, middle ground has loading activity, background shows massive hangar structures
+    cameraAngle: Wide shot showing military vehicles arriving at ranch with landscape context
+    focus: Military personnel emerging from vehicles with ranch buildings and Character MB in frame
+    depth: Foreground shows military vehicles and personnel, middle ground reveals ranch buildings and Character MB, background
+      displays vast desert landscape
 visualElements:
   colorPalette:
     primary:

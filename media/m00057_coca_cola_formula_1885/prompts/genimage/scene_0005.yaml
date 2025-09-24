@@ -1,27 +1,32 @@
 sceneDescription:
   setting:
-    time: 1886 spring morning, clear natural daylight
-    location: Small backyard behind character_JSP's pharmacy, Atlanta Georgia
-    weather: Mild spring morning with gentle breeze
+    time: December 1885, early morning
+    location: Small wooden outbuilding behind home in Atlanta, Georgia, converted into pharmaceutical laboratory
+    weather: Cold winter dawn with first light entering laboratory windows
   characters:
-  - appearance: Caucasian man, mid-50s, average height, graying beard and mustache, intelligent eyes behind wire-rimmed spectacles,
-      slightly receding hairline
-    clothing: 1880s white pharmacist coat over dark vest and white collared shirt, black trousers, formal boots
-    position: Kneeling beside small outdoor fire, stirring contents of large brass kettle
-    action: Slowly adding measured ingredients to bubbling mixture while stirring with long wooden spoon
+  - appearance: 57-year-old Caucasian man, medium height, graying beard, worn face marked by chronic pain, slightly stooped
+      posture from war injury
+    clothing: Dark wool pharmacist's coat, white shirt with high collar, pocket watch chain, leather apron stained with chemical
+      experiments
+    position: Working methodically at laboratory bench or counter
+    action: Measuring ingredients, stirring formulations, taking careful notes with precise movements despite physical discomfort
   scene:
-    mainElements: Medium-sized brass kettle with wooden handle, showing wear from use, used for mixing pharmaceutical compounds
-      in backyard workspace
-    details: Small fire built with wood logs underneath brass kettle, various glass bottles and measuring cups arranged on
-      wooden crate serving as makeshift table, steam rising from kettle creating aromatic vapors, wooden spoon with long handle
-      for stirring, ceramic bowls containing different ingredients waiting to be added, morning sunlight filtering through
-      young spring leaves, no text or letters visible
-    background: Simple backyard with wooden fence, small garden with medicinal herbs, neighboring buildings visible in distance
-    atmosphere: Outdoor experimentation with sense of breakthrough moment, fresh air mixing with aromatic vapors
+    mainElements: Large brass kettle approximately 20 inches diameter, heavy bottom for even heating, slightly tarnished from
+      chemical use, wooden stirring paddle, residue stains from coca leaf extracts, positioned over wood fire for gentle heating
+      with completed syrup batch
+    details: First successful bottles of dark brown syrup lined up on workbench, handwritten notes on aged paper, careful
+      penmanship documenting ingredient ratios and mixing instructions, contains references to coca leaf extract, kola nut
+      extract, sugar, caramel coloring, vanilla, citrus oils. Various sized clear glass bottles with cork stoppers, handwritten
+      labels identifying contents, containing liquid extracts and powdered ingredients, arranged on wooden shelves showing
+      completed formulation.
+    background: Laboratory showing signs of successful breakthrough, organized equipment suggesting formula perfection achieved
+    atmosphere: Sense of accomplishment and relief, strong medicinal odors of coca leaves and kola nuts, wood smoke mixing
+      with chemical vapors, professional pharmaceutical environment with successful completion evident
   composition:
-    cameraAngle: Medium shot from ground level showing the kettle and character
-    focus: The brass kettle and the careful mixing process
-    depth: 'Foreground: fire and kettle, middle: character stirring mixture, background: backyard setting and fence'
+    cameraAngle: Medium shot showing both character and completed syrup bottles
+    focus: Character examining successful syrup batch with satisfaction, completed bottles prominently displayed
+    depth: Foreground shows completed syrup bottles and formula notes, middle ground features satisfied character, background
+      reveals organized laboratory with successful completion, no text or letters visible
 visualElements:
   colorPalette:
     primary:

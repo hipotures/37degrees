@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Physics Laboratory with Quantum Apparatus"
+  setting:
+    time: "1935, morning"
+    location: "1930s university physics laboratory"
+    weather: "Bright clear morning with strong natural light"
+  characters:
+    - appearance: "Austrian physicist, 50s, tall slender build, high forehead, thoughtful dark eyes behind wire-rimmed glasses, salt-and-pepper hair neatly combed"
+      clothing: "1930s dark wool suit with vest, white collared shirt, simple tie, or white laboratory coat over shirt and trousers"
+      position: "Standing at laboratory bench, bent slightly forward examining equipment"
+      action: "Carefully adjusting scientific instruments with precision, checking measurements on analog devices"
+  scene:
+    mainElements: "Laboratory benches with scientific instruments, glass apparatus, measuring devices, electrical equipment of 1930s era"
+    details: "1930s Geiger-Müller counter with cylindrical detection tube, electrical wiring, and analog meter display typical of early radiation detection equipment. Small sample of radioactive material in protective lead-lined container, 1930s laboratory standard for physics experiments. Various glass tubes, electrical meters, and precision measurement tools arranged on wooden laboratory benches."
+    background: "Multiple laboratory workstations with additional scientific equipment, storage cabinets with glass doors, overhead electrical connections"
+    atmosphere: "Scientific research environment with bright overhead lighting and organized workspace. Professional precision and methodical approach to experimental physics."
+  composition:
+    cameraAngle: "Medium shot from side angle"
+    focus: "Physicist working with radiation detection equipment on laboratory bench"
+    depth: "Foreground shows laboratory instruments, middle ground features physicist at work, background reveals additional lab equipment and workspace, no text or letters visible"

@@ -1,97 +1,112 @@
 canon:
   characters:
-    - id: "character_FdC"
-      name: "Character FdC"
-      description_block: |
-        characters:
-          - appearance: "Italian man, 40s, stern weathered face, prominent nose, dark beard"
-            clothing: "Red and gold Bolognese military surcoat over chainmail, steel helmet with plume"
-            posture: "Commanding stance with hand on sword hilt, authoritative bearing"
     - id: "character_PB"
       name: "Character PB"
       description_block: |
         characters:
-          - appearance: "Italian man, 35, calculating expression, sharp features, dark hair"
-            clothing: "Blue and silver Modenese nobleman attire with fur-trimmed cloak"
-            posture: "Confident tactical pose, often gesturing while giving orders"
-    - id: "bolognese_soldier"
-      name: "Bolognese Soldier"
+          - appearance: "Physically small and wiry middle-aged man around 50, sharp intelligent eyes, weathered face from military campaigns, slight build but commanding presence"
+            clothing: "Full plate armor with imperial German styling, Ghibelline heraldic symbols, chainmail beneath, decorated helmet with eagle plume, fine leather boots"
+            position: "Mounted on warhorse or standing in commanding position overlooking battlefield"
+            action: "Directing troops with confident gestures, observing enemy movements with tactical precision"
+
+    - id: "character_BC"
+      name: "Character BC"
       description_block: |
         characters:
-          - appearance: "Italian man, 20s-30s, determined face, muscular build"
-            clothing: "Red tunic with Bologna coat of arms, chainmail, steel helmet"
-            posture: "Alert military stance with spear or crossbow"
-    - id: "modenese_soldier"
-      name: "Modenese Soldier"
+          - appearance: "Large imposing figure in late 40s, thick beard, broad shoulders, scarred hands from previous battles, strong jawline, commanding height"
+            clothing: "Ornate Italian plate armor with Guelph papal symbols, red and white Bologna colors, flowing cape, decorated sword belt, ceremonial spurs"
+            position: "Standing with troops or mounted on decorated horse"
+            action: "Giving dramatic orders with sweeping arm gestures, displaying confidence from numerical superiority"
+
+    - id: "character_PJ"
+      name: "Character PJ"
       description_block: |
         characters:
-          - appearance: "Italian or German man, 20s-30s, battle-hardened expression"
-            clothing: "Blue tunic with Modena insignia, plate armor pieces, conical helmet"
-            posture: "Professional military bearing with sword and shield"
-    - id: "german_mercenary"
-      name: "German Mercenary"
+          - appearance: "Elderly man in 70s, gaunt face, penetrating dark eyes, thin white hair, pale complexion from indoor life, bony fingers"
+            clothing: "Full papal vestments in white and gold, ornate mitre, papal ring, jeweled cross, flowing white robes with intricate embroidery"
+            position: "Seated on papal throne or standing at altar"
+            action: "Raising hand in blessing or condemnation, speaking with absolute authority, making proclamations"
+
+    - id: "character_GK"
+      name: "Character GK"
       description_block: |
         characters:
-          - appearance: "Germanic man, 30s, blonde hair, scarred face, tall build"
-            clothing: "Dark leather armor with metal studs, distinctive German-style helmet"
-            posture: "Experienced warrior stance with two-handed sword"
-    - id: "medieval_citizen"
-      name: "Medieval Citizen"
+          - appearance: "Tall muscular build around 30 years old, blonde hair, blue eyes, clean-shaven face, numerous battle scars, disciplined bearing"
+            clothing: "High-quality German plate armor with imperial eagle insignia, polished steel helmet, leather padding, professional military gear, long sword and dagger"
+            position: "Mounted on heavy warhorse or in battle formation"
+            action: "Following orders with precise movements, maintaining alert combat stance, displaying experienced battlefield awareness"
+
+    - id: "character_BM"
+      name: "Character BM"
       description_block: |
         characters:
-          - appearance: "Italian man or woman, various ages, period-appropriate features"
-            clothing: "Simple wool tunics, cloaks, merchant or artisan attire"
-            posture: "Anxious or curious civilian stance, often watching from distance"
+          - appearance: "Young man in 20s, apprentice craftsman build, nervous expression, soft hands unused to weapons, medium height, fearful eyes"
+            clothing: "Mismatched armor pieces, guild colors over chainmail, poorly fitted helmet, basic weapons, worn leather boots, patched surcoat"
+            position: "Standing in formation with other militia or looking uncertain on battlefield"
+            action: "Nervously fidgeting with weapons, looking to others for guidance, displaying obvious lack of combat experience"
+
   locations:
-    - id: "bologna_main_square"
-      name: "Bologna Main Square"
-      description_block: |
-        setting:
-          location: "Piazza Maggiore, Bologna, medieval Italy with Gothic buildings surrounding"
-        mainElements: "Large stone square with central well, Gothic architecture, red brick buildings"
-        atmosphere: "Bustling medieval city center with period architecture"
-    - id: "modena_city_walls"
-      name: "Modena City Walls"
-      description_block: |
-        setting:
-          location: "Fortified walls of Modena, medieval Italian defensive architecture"
-        mainElements: "Massive stone walls with towers, battlements, defensive gates"
-        atmosphere: "Imposing medieval fortress protecting the city"
-    - id: "monteveglio_castle"
-      name: "Monteveglio Castle"
-      description_block: |
-        setting:
-          location: "Strategic hilltop castle of Monteveglio between Bologna and Modena"
-        mainElements: "Stone fortress on elevated position, multiple towers, defensive walls"
-        atmosphere: "Important military stronghold overlooking countryside"
     - id: "zappolino_battlefield"
       name: "Zappolino Battlefield"
       description_block: |
         setting:
-          location: "Open fields near Zappolino village, medieval Italian countryside"
-        mainElements: "Rolling hills, agricultural fields, scattered farm buildings"
-        atmosphere: "Pastoral landscape that became site of medieval battle"
-    - id: "italian_countryside"
-      name: "Italian Countryside"
+          location: "Rolling countryside between Bologna and Modena near village of Zappolino, gentle hills with scattered oak groves, small streams, cultivated fields recently harvested"
+          weather: "Cool autumn afternoon, clear skies, light wind from the north, temperature around 10 degrees Celsius"
+        mainElements: "Natural amphitheater of hills, village of Zappolino in distance, narrow valleys perfect for cavalry charges, stone walls marking property boundaries, ancient Roman road"
+        details: "Harvested wheat fields with stubble, scattered oak trees with autumn leaves, small stone bridges over streams, defensive positions on hilltops, muddy ground from recent rains"
+        background: "Rolling hills extending to horizon, distant mountains, medieval village with bell tower, smoke from cooking fires"
+        atmosphere: "Tense anticipation before battle, cool crisp air, sounds of thousands of men and horses, smell of leather and metal, golden afternoon light casting long shadows"
+
+    - id: "modena_city"
+      name: "Modena City"
       description_block: |
         setting:
-          location: "Northern Italian landscape between Bologna and Modena, 14th century"
-        mainElements: "Rolling hills, vineyards, olive groves, scattered medieval villages"
-        atmosphere: "Peaceful rural setting of medieval Emilia-Romagna region"
+          location: "Walled medieval city of Modena with strong fortifications, dominated by cathedral and bell tower, surrounded by defensive earthworks"
+          weather: "Clear medieval day with occasional clouds, cool northern Italian climate"
+        mainElements: "Massive stone walls, Torre della Ghirlandina bell tower, cathedral, narrow cobblestone streets, market squares, defensive gates with portcullises"
+        details: "Ghibelline banners flying from towers, blacksmith workshops with glowing forges, citizens in medieval dress, horse-drawn carts, defensive preparations visible"
+        background: "Surrounding countryside with farms and vineyards, distant hills, other medieval settlements"
+        atmosphere: "Confident and defiant atmosphere, church bells ringing, sounds of military preparation, smoke from chimneys and forges"
+
+    - id: "bologna_city"
+      name: "Bologna City"
+      description_block: |
+        setting:
+          location: "Large prosperous medieval city of Bologna with university buildings, extensive walls, numerous towers built by wealthy merchant families"
+          weather: "Typical northern Italian medieval climate with clear skies"
+        mainElements: "University buildings with students, Two Towers (Asinelli and Garisenda), cathedral, market halls, guild headquarters, massive city walls with battlements"
+        details: "Guelph banners in red and white colors, guild workshops, merchant stalls, armor being fitted, weapons being sharpened, large gathering areas for troops"
+        background: "Surrounding Emilian countryside, other medieval towns, rolling hills in distance"
+        atmosphere: "Bustling commercial energy turned to military preparation, sense of righteous purpose, sounds of armor being fitted, trumpets calling troops to assembly"
+
+    - id: "monteveglio_castle"
+      name: "Monteveglio Castle"
+      description_block: |
+        setting:
+          location: "Strategic hilltop fortress of Monteveglio controlling mountain passes, recently captured by Modena from Bologna"
+          weather: "Cool mountain climate with occasional mist, autumn conditions"
+        mainElements: "Stone keep with thick walls, defensive walls with battlements, watchtowers, well in courtyard, armory, barracks, strategic position overlooking valleys"
+        details: "Modenese guards patrolling walls, Ghibelline banners replacing Bologna flags, defensive preparations, weapons stored in armory, horses in courtyard"
+        background: "Mountain passes leading to Bologna, valleys with trade routes, distant cities visible on clear days"
+        atmosphere: "Tense contested ground, guards suspicious of attack, crucial strategic importance evident in heavy fortifications"
+
   items:
     - id: "wooden_bucket"
-      name: "Wooden Bucket"
+      name: "The Famous Oaken Bucket"
       description_block: |
-        details: "Simple oak bucket with iron bands, symbol of the conflict trophy"
-    - id: "medieval_weapons"
-      name: "Medieval Weapons"
+        details: "Simple wooden water bucket made of oak staves bound with iron hoops, approximately 12 inches tall, weathered brown wood with functional medieval design. Iron reinforcement bands showing rust and age, wooden handle attached with iron rings, carved initials or marks difficult to discern, represents ordinary medieval craftsmanship but has become legendary war trophy."
+
+    - id: "ghibelline_banners"
+      name: "Modenese Battle Standards"
       description_block: |
-        details: "Crossbows, spears, swords, maces typical of 14th century warfare"
-    - id: "city_banners"
-      name: "City Banners"
+        details: "Large silk banners in imperial colors featuring black eagle on yellow field, Bonacolsi family arms with heraldic symbols, religious symbols supporting imperial authority. Mounted on tall wooden poles, silk fabric rippling in wind, gold thread embroidery, battle honors attached as streamers, symbols of Ghibelline identity inspiring troops."
+
+    - id: "papal_bull"
+      name: "Papal Crusade Declaration"
       description_block: |
-        details: "Heraldic banners of Bologna (red) and Modena (blue) displaying city arms"
-    - id: "siege_equipment"
-      name: "Siege Equipment"
+        details: "Parchment document with papal seal declaring war against Passerino Bonacolsi, formal Latin text offering indulgences to his enemies. Wax papal seal attached with ribbons, elaborate calligraphy, official papal letterhead with religious symbols, represents legal and religious justification for holy war."
+
+    - id: "war_horses"
+      name: "Medieval Heavy Cavalry Mounts"
       description_block: |
-        details: "Medieval catapults, battering rams, scaling ladders for castle warfare"
+        details: "Large destrier warhorses 15-16 hands high in bay and black colors, heavily muscled and trained for battle, wearing horse armor (barding) with metal plates. Well-trained professional mounts superior to civilian horses, responsive to battle commands, armored protection for legs and chest, ridden by German knights and Modenese heavy cavalry."

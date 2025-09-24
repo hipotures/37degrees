@@ -1,35 +1,30 @@
 sceneDescription:
   setting:
-    time: 1974, Sunday mid-morning
-    location: Presbyterian church interior, suburban Minnesota, 1970s
-    weather: Bright morning light creating warm atmosphere through stained glass
+    time: 1974, following choir practice, evening
+    location: 3M Central Research Laboratory office area, St. Paul, Minnesota, USA
+    weather: Indoor office environment, evening lighting
   characters:
-  - appearance: Caucasian man, mid 40s, medium build, receding hairline with dark hair, warm expression with gentle eyes,
-      friendly demeanor
-    clothing: Sunday best attire - dark suit with conservative tie, choir robe over his clothing
-    position: Seated in choir section during sermon break
-    action: Looking thoughtfully at his hymnal with loose bookmarks, sudden expression of realization crossing his face, eyes
-      widening with inspiration as he connects his bookmark problem with remembered presentation about weak adhesive
-  - appearance: Mixed group of men and women, ages 30-70, dressed formally for church service
-    clothing: Sunday best attire - men in dark suits, women in conservative dresses, some wearing choir robes over their clothing
-    position: Seated in choir section, some in congregation
-    action: Listening attentively to sermon, unaware of colleague's moment of inspiration
+  - appearance: Caucasian man, mid-career engineer in 1974, described as tinkerer and problem solver who loved building things,
+      practical demeanor
+    clothing: Business casual appropriate for R&D work and church choir participation - dress shirt, slacks, sometimes tie
+      for church events
+    position: Seated at desk, leaning back in chair with thoughtful expression, hand to forehead
+    action: Having sudden realization, connecting memory of Character SS's presentation with bookmark problem, moment of inspiration
   scene:
-    mainElements: Traditional wooden pews, stained glass windows, altar area with organ, choir loft with music stands. Traditional
-      church hymnal with worn leather cover, multiple loose paper bookmarks sticking out between pages.
-    details: Peaceful church interior with warm colored light filtering through stained glass, character's face showing gradual
-      transition from mild frustration to sudden enlightenment, hymnal open in his lap with problematic bookmarks, expression
-      of dawning realization as solution becomes clear, other congregation members focused on worship service.
-    background: Church congregation seated in wooden pews, minister at pulpit delivering sermon, altar area with religious
-      symbols, large stained glass windows casting patterns of colored light, traditional church architecture
-    atmosphere: Quiet moment of inspiration during peaceful worship service, sudden mental breakthrough in serene religious
-      environment, contrast between community worship and individual discovery, sense of problem and solution coming together
-      in perfect timing, no text or letters visible
+    mainElements: 3M office environment with desk, chair, filing cabinets, typical 1970s corporate workspace
+    details: Small pieces of paper or ribbon used to mark pages in hymnal, no adhesive properties, prone to falling out during
+      use, causing disruption. Desk scattered with engineering papers, coffee cup, family photo, office supplies. Window showing
+      evening view of 3M campus. Bulletin board with company memos and technical drawings.
+    background: Corporate office environment with other desks visible, hallway beyond office door, fluorescent lighting typical
+      of 1970s workplace
+    atmosphere: Quiet evening office atmosphere with most colleagues gone home, moment of sudden inspiration in routine workplace
+      setting, warm desk lamp illumination
   composition:
-    cameraAngle: Close-up shot focusing on character's face as realization dawns
-    focus: Character AF's expression transitioning from mild frustration to sudden inspiration and understanding
-    depth: Character's face and hymnal in sharp foreground focus, other choir members slightly blurred in middle ground, church
-      interior and congregation in soft background focus
+    cameraAngle: Medium close-up shot from slight angle, capturing expression of sudden realization
+    focus: Character AF in moment of inspiration, facial expression showing the connection being made between two separate
+      problems
+    depth: Foreground shows desk details and office supplies, middle ground centers on scientist having eureka moment, background
+      reveals corporate office environment, no text or letters visible
 visualElements:
   colorPalette:
     primary:

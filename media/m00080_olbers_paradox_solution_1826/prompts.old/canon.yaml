@@ -1,0 +1,62 @@
+canon:
+  characters:
+    - id: "character_HO"
+      name: "Character HO"
+      description_block: |
+        characters:
+          - appearance: "German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom"
+            clothing: "1820s dark blue physician's coat over white shirt and black vest, or formal black academic dress coat with high collar"
+            posture: "Scholarly bearing, often with hands clasped behind back or adjusting spectacles while observing"
+    - id: "character_assistant"
+      name: "Medical Assistant"
+      description_block: |
+        characters:
+          - appearance: "Young German man, early 20s, slight build, brown hair, eager expression"
+            clothing: "Simple white shirt with rolled sleeves, dark vest, leather apron for medical work"
+            posture: "Attentive, often carrying medical instruments or astronomical tools"
+  locations:
+    - id: "bremen_observatory"
+      name: "Bremen Home Observatory"
+      description_block: |
+        setting:
+          location: "Upper floor astronomical observatory in Bremen townhouse, 1826"
+        mainElements: "Wooden telescope on brass mount, star charts on walls, measuring instruments on oak table"
+        atmosphere: "Intimate scholarly workspace with warm candlelight illuminating scientific instruments"
+    - id: "bremen_medical_office"
+      name: "Medical Practice Office"
+      description_block: |
+        setting:
+          location: "Ground floor physician's office in Bremen townhouse, 1826"
+        mainElements: "Medical examination table, cabinet with bottles and instruments, desk with patient records"
+        atmosphere: "Professional medical environment with clean white linens and organized equipment"
+    - id: "night_sky_view"
+      name: "Dark Night Sky"
+      description_block: |
+        setting:
+          location: "Clear night sky view from Bremen, northern Germany, 1826"
+        mainElements: "Vast dark sky with scattered bright stars, Milky Way visible, rooftops silhouetted below"
+        atmosphere: "Mysterious darkness punctuated by brilliant starlight, sense of cosmic vastness"
+    - id: "university_lecture_hall"
+      name: "Academic Lecture Hall"
+      description_block: |
+        setting:
+          location: "University lecture hall with tiered wooden seating, Göttingen or Bremen, 1826"
+        mainElements: "Wooden podium, blackboard, oil lamps for lighting, formal academic chairs"
+        atmosphere: "Scholarly intellectual environment for sharing scientific discoveries"
+  items:
+    - id: "refracting_telescope"
+      name: "Refracting Telescope"
+      description_block: |
+        details: "Long brass refracting telescope on wooden tripod mount with adjustable brass fittings and eyepiece accessories"
+    - id: "star_charts"
+      name: "Astronomical Charts"
+      description_block: |
+        details: "Hand-drawn star maps on parchment showing constellation patterns and stellar positions with careful notations"
+    - id: "medical_instruments"
+      name: "Medical Equipment"
+      description_block: |
+        details: "Physician's black leather bag containing metal instruments, glass vials, and white bandages typical of 1820s medicine"
+    - id: "comet_calculations"
+      name: "Mathematical Calculations"
+      description_block: |
+        details: "Sheets of paper covered with mathematical equations and orbital calculations written in precise handwriting with quill pen"

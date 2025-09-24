@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The paradox crystallizes - infinite stars versus dark sky"
+  setting:
+    time: "1826, pre-dawn hours"
+    location: "Upper floor astronomical observatory in Bremen townhouse, 1826"
+    weather: "Clear night before dawn"
+  characters:
+    - appearance: "German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom"
+      clothing: "1820s dark blue physician's coat over white shirt and black vest"
+      position: "Standing between telescope and desk, holding calculation papers"
+      action: "Comparing mathematical predictions with actual observations, realizing the profound contradiction"
+  scene:
+    mainElements: "Character holding calculation sheets while looking between telescope and mathematical work, realization dawning on his face"
+    details: "Sheets of paper covered with mathematical equations and orbital calculations written in precise handwriting with quill pen showing infinite star calculations, Long brass refracting telescope on wooden tripod mount pointing toward dark sky, Hand-drawn star maps on parchment showing constellation patterns spread on desk, candles burning low after night's work, expression of profound discovery crossing observer's features"
+    background: "Observatory walls covered with astronomical charts and calculations, window showing pre-dawn sky still displaying the cosmic darkness that contradicts calculations"
+    atmosphere: "Moment of scientific breakthrough as contradiction becomes clear, intellectual excitement mixed with cosmic puzzlement, dawn of understanding that universe holds deeper mysteries than imagined, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot capturing both telescope and calculation work"
+    focus: "character_HO holding papers while contemplating contradiction between mathematics and observation"
+    depth: "Foreground shows calculation papers, middle ground centers on character making discovery, background reveals telescope pointing at dark sky"

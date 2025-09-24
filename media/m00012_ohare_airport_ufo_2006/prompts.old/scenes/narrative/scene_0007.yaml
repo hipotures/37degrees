@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Perfect Circular Hole Punched Through Cloud Layer"
+  setting:
+    time: "November 7, 2006, 4:21 PM CST, late afternoon"
+    location: "Gate C-17 area, Chicago O'Hare International Airport, view of sky above"
+    weather: "Overcast, solid grey cloud layer at 1,900 feet with perfect circular opening"
+  characters:
+    - appearance: "Male worker, 20s-30s, medium build, focused expression"
+      clothing: "Grey or navy work uniform, United Airlines patches, high-visibility safety vest, work boots, tool belt"
+      position: "Standing on tarmac, head tilted back"
+      action: "Staring in amazement at circular hole in clouds above"
+    - appearance: "Male mechanic, 40s, stocky build, experienced look"
+      clothing: "Work coveralls with UA maintenance division patches, tool belt with various instruments, safety shoes"
+      position: "Next to ground equipment, tools forgotten"
+      action: "Pointing at cloud opening while speaking to colleague"
+  scene:
+    mainElements: "Perfect circular hole in uniform grey cloud layer at 1,900 feet altitude, approximately 20-30 feet diameter opening revealing blue sky above, clearly defined edges with no ragged tears"
+    details: "Hole appears precisely cut through solid overcast layer, edges sharp and geometric, contrast between grey clouds and blue sky visible through opening, no object visible in clear space above clouds, opening beginning to show slight movement as edges start gradual closure process"
+    background: "Uniform grey cloud ceiling extending in all directions except for perfect circular breach, Terminal 3 building and other airport infrastructure below, aircraft and equipment providing scale reference for cloud height"
+    atmosphere: "Aftermath of impossible event, physical evidence of object's passage through clouds, witnesses observing proof of extraordinary phenomenon, eerie precision of circular opening defying natural cloud formation, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from ground level looking up at cloud layer"
+    focus: "Perfect circular hole in grey cloud layer with blue sky visible through opening"
+    depth: "Foreground: ground crew and equipment, middle ground: airport infrastructure, background: cloud layer with circular breach"

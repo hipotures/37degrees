@@ -1,29 +1,30 @@
 sceneDescription:
   setting:
-    time: 1826, morning
-    location: Ground floor study in Bremen townhouse, 1826
-    weather: Bright morning light after night of discovery
+    time: 1848, late night
+    location: Dimly lit writing room in Poe's residence, 1848
+    weather: Clear night allowing view of dark sky through window
   characters:
-  - appearance: German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom
-    clothing: 1820s dark blue physician's coat over white shirt and black vest
-    position: Seated at writing desk preparing scientific correspondence
-    action: Carefully writing letter to astronomical colleagues describing the paradox discovery
+  - appearance: Caucasian man, 39 years old in 1848, tall and lean, dark hair, penetrating dark eyes, pale complexion, high
+      forehead, intense brooding expression
+    clothing: Black formal wear typical of American literary society, white shirt, dark cravat, sometimes disheveled from
+      intense writing sessions
+    position: Seated at writing desk surrounded by manuscripts and books
+    action: Writing with quill pen while contemplating cosmic mysteries, occasionally gazing out window at night sky
   scene:
-    mainElements: Wooden writing desk with papers and quill, morning sunlight streaming through window, character composing
-      scientific correspondence
-    details: Mahogany writing desk with brass fittings, fine parchment paper and leather-bound correspondence folder, quill
-      pen and crystal ink well, red sealing wax and brass stamp, Sheets of paper covered with mathematical equations and orbital
-      calculations nearby for reference, small brass desk lamp, morning light illuminating workspace, window showing Bremen
-      street beginning daily activities
-    background: Bookshelf filled with scientific texts and astronomical journals, framed certificates and academic honors
-      on walls, comfortable study chair with leather upholstery
-    atmosphere: Scholarly excitement about sharing important discovery with scientific community, methodical preparation of
-      formal correspondence, morning energy following night of breakthrough thinking, no text or letters visible
+    mainElements: Writing desk covered with manuscripts, ink well and quill pen, cosmology books open to star charts, candles
+      providing flickering illumination, window showing dark night sky
+    details: Published book from 1848, approximately 150 pages, dark cover typical of mid-19th century publications, contains
+      cosmological theories including finite universe age and Big Bang-like origin concepts. Multiple manuscripts scattered
+      across desk, cosmology reference books opened to astronomical diagrams
+    background: Mid-19th century American domestic architecture, bookshelves lined with literary and scientific works, dark
+      night sky visible through window
+    atmosphere: Late night contemplation, creative energy mixed with scientific intuition, shadows dancing on walls, cosmic
+      inspiration striking literary genius, breakthrough moment in cosmic understanding
   composition:
-    cameraAngle: Medium shot from across desk
-    focus: character_HO writing scientific correspondence with calculation papers nearby
-    depth: Foreground shows writing materials and papers, middle ground centers on character composing letter, background
-      reveals study furnishings and morning window light
+    cameraAngle: Medium shot from side showing character at desk with window in background
+    focus: Character writing at desk with manuscripts and open books, dark night sky visible through window
+    depth: Writing materials and manuscripts in foreground, character in middle ground, dark starry sky through window in
+      background, no text or letters visible
 visualElements:
   colorPalette:
     primary:

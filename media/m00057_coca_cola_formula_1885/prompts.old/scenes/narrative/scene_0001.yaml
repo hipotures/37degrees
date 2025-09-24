@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Atlanta's Growing Commercial District - 1885"
+  setting:
+    time: "1885 late afternoon, golden hour"
+    location: "Peachtree Street, downtown Atlanta Georgia, 1880s"
+    weather: "Clear spring day with warm afternoon light"
+  characters:
+    - appearance: "Various townspeople in 1880s attire walking along wooden sidewalks"
+      clothing: "Period-appropriate dresses with bustles for women, suits and bowler hats for men"
+      position: "Moving along the busy street, some entering and exiting storefronts"
+      action: "Going about daily business, shopping, conversing in small groups"
+  scene:
+    mainElements: "Dirt roads with horse-drawn carriages, wooden sidewalks, gas street lamps, Victorian storefronts with painted signs"
+    details: "Wooden storefronts with large glass windows displaying goods, hand-painted business signs hanging from building facades, horses tied to hitching posts, ladies with parasols stepping carefully around puddles, gentlemen tipping hats in greeting, children playing near wagon wheels, no text or letters visible"
+    background: "Growing Southern city recovering from Civil War, mix of old and new architecture, busy commercial district"
+    atmosphere: "Bustling post-war Southern city experiencing growth and prosperity, sense of optimism and enterprise in the air"
+  composition:
+    cameraAngle: "Wide establishing shot from street level"
+    focus: "The busy commercial streetscape showing Atlanta's development"
+    depth: "Foreground: people and carriages, middle: storefronts and sidewalks, background: building facades and gas lamps"

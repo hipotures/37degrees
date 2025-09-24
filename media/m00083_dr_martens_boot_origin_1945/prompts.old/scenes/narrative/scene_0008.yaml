@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "International Expansion - British Business Partnership"
+  setting:
+    time: "1959, afternoon"
+    location: "Corporate office, British shoe manufacturer, England"
+    weather: "Indoor office setting, natural daylight through windows"
+  characters:
+    - appearance: "Caucasian man, 40s, well-groomed businessman appearance, confident expression"
+      clothing: "1959 British business suit, tie, polished shoes, carrying briefcase"
+      position: "Seated behind mahogany desk examining boot samples"
+      action: "Studying German boot design, negotiating licensing agreement for British production"
+    - appearance: "Caucasian man, 25 years old, athletic build, dark brown hair, focused expression"
+      clothing: "German army uniform with medical insignia, or white doctor's coat, dark trousers"
+      position: "Seated across desk presenting product benefits"
+      action: "Demonstrating air-cushioned sole technology to potential British business partner"
+  scene:
+    mainElements: "Mahogany desk, leather chairs, product samples, business documents"
+    details: "Brown leather boot with air-cushioned sole, comfortable design, practical construction displayed as sample on polished business desk. Contract documents spread between businessmen, pen ready for signature. British businessman examining innovative sole technology with commercial interest. International expansion of German medical innovation, partnership creating global footwear opportunity. Professional atmosphere of serious business negotiation, no text or letters visible"
+    background: "British corporate office with wood paneling, bookshelves, window overlooking English industrial landscape"
+    atmosphere: "Professional, established British business environment"
+  composition:
+    cameraAngle: "Medium shot capturing business meeting across executive desk"
+    focus: "International business partnership forming around innovative footwear technology"
+    depth: "Foreground shows boot examination details, middle ground captures business negotiation, background displays corporate British setting"

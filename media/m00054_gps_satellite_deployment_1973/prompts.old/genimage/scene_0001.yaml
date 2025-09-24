@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: September 1973, late afternoon
+    location: Pentagon conference room, Washington DC, secure military facility
+    weather: Clear autumn day outside tall windows
+  characters:
+  - appearance: Caucasian man, 40s, military bearing, short dark hair, clean-shaven, intelligent eyes
+    clothing: US Air Force colonel uniform with wings insignia, or technical civilian clothes with tie
+    position: Standing at head of conference table, pointing at technical diagrams
+    action: Presenting satellite navigation concept to assembled military officers
+  - appearance: Group of 12 military officers, mixed services, 35-55 years old, attentive expressions
+    clothing: Various military dress uniforms - Army, Navy, Air Force with rank insignia and ribbons
+    position: Seated around large oval conference table with notebooks and coffee cups
+    action: Listening intently, taking notes, studying technical documentation spread on table
+  scene:
+    mainElements: Large oval table with military officials, maps and technical diagrams on walls, detailed satellite orbit
+      charts spread across table surface, projected images on wall screen showing orbital mechanics
+    details: Pentagon seal on wall, classified document stamps visible on papers, coffee service on side table, multiple ashtrays
+      with cigarette smoke, fluorescent lighting creating formal government atmosphere, security badges on lapels, no text
+      or letters visible
+    background: Wood-paneled walls with official military photographs and world maps, American flag in corner, tall windows
+      showing Washington DC skyline
+    atmosphere: Serious, classified military planning environment with fluorescent lighting, tension of important decision-making,
+      formal military protocol evident in postures and interactions
+  composition:
+    cameraAngle: Medium wide shot from side of conference room
+    focus: Central figure presenting at head of table with satellite diagrams
+    depth: Presenter in foreground, seated officers in middle ground, Pentagon institutional backdrop
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

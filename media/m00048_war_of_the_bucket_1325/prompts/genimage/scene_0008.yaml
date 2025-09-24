@@ -1,101 +1,81 @@
 sceneDescription:
   setting:
-    time: November 15, 1325, evening
-    location: Zappolino battlefield extending toward Bologna city walls
-    weather: Cold autumn evening with falling darkness
+    time: November 15, 1325, late afternoon toward sunset
+    location: Zappolino battlefield during peak combat, rolling hills with scattered oak groves
+    weather: Cool autumn battle conditions, clear skies with golden hour lighting, dust clouds from combat
   characters:
-  - appearance: Italian man, 20s-30s, determined face, muscular build
-    clothing: Red tunic with Bologna coat of arms, chainmail, steel helmet
-    position: Running in panic across battlefield toward distant city walls
-    action: Fleeing in complete disorder, abandoning weapons and formation, looking back in terror
-  - appearance: Italian man, 40s, stern weathered face, prominent nose, dark beard
-    clothing: Red and gold Bolognese military surcoat over chainmail, steel helmet with plume
-    position: On horseback trying to rally retreating troops near battlefield edge
-    action: Attempting to organize retreat but being overwhelmed by fleeing soldiers
-  - appearance: Italian or German man, 20s-30s, battle-hardened expression
-    clothing: Blue tunic with Modena insignia, plate armor pieces, conical helmet
-    position: Pursuing fleeing enemies across the field
-    action: Chasing defeated Bolognese forces while maintaining military discipline
+  - appearance: Physically small and wiry middle-aged man around 50, sharp intelligent eyes, weathered face from military
+      campaigns, slight build but commanding presence
+    clothing: Full plate armor with imperial German styling, Ghibelline heraldic symbols, chainmail beneath, decorated helmet
+      with eagle plume, fine leather boots
+    position: Mounted on elevated position directing the tactical masterpiece
+    action: Coordinating the devastating cavalry charges that are routing the massive Bologna army
   scene:
-    mainElements: Battlefield littered with abandoned weapons, fleeing soldiers, and pursuing victors
-    details: Thousands of Crossbows, spears, swords, maces typical of 14th century warfare abandoned on muddy ground, Heraldic
-      banners of Bologna (red) displaying city arms dropped and trampled, supply wagons overturned and abandoned, riderless
-      horses wandering battlefield, about 2,000 casualties scattered across the field, victorious Modenese soldiers collecting
-      weapons and prisoners
-    background: Bologna's defensive walls visible in distance where defeated army is fleeing, darkening countryside under
-      evening sky
-    atmosphere: Complete military disaster, panic and chaos of routed army, sounds of pursuit and defeat
+    mainElements: Intense medieval battle in full swing with Modenese heavy cavalry smashing through Bologna infantry formations,
+      creating chaos and panic in the larger army, dust clouds and combat debris filling the air
+    details: Large destrier warhorses 15-16 hands high in bay and black colors, heavily muscled and trained for battle, wearing
+      horse armor (barding) with metal plates carrying German knights and professional cavalry. Bologna militia breaking formation,
+      weapons scattered on ground, overturned supply wagons, wounded soldiers, banners fallen. Professional tactical superiority
+      evident as smaller force destroys larger through superior training and leadership
+    background: Rolling battlefield terrain with oak groves, village of Zappolino in distance, late afternoon golden light
+      creating dramatic shadows, dust clouds obscuring parts of the field
+    atmosphere: Intense medieval combat at its peak, sounds of clashing metal, horses neighing, men shouting, dust and chaos
+      of battle, dramatic reversal as professional training defeats overwhelming numbers, golden hour lighting creating cinematic
+      battle conditions
   composition:
-    cameraAngle: Wide shot showing the scale of the military collapse
-    focus: The dramatic contrast between fleeing defeated army and disciplined pursuit
-    depth: 'Foreground: abandoned battlefield debris, Middle: fleeing and pursuing soldiers, Background: distant Bologna walls,
-      no text or letters visible'
+    cameraAngle: Dynamic action shot capturing the decisive cavalry charge
+    focus: German knight leading the devastating charge through broken enemy lines
+    depth: Foreground shows individual combat details and fallen soldiers, middle ground features the main cavalry action,
+      background shows the wider battlefield chaos, no text or letters visible
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

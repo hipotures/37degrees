@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Family Living in Dark Room Due to Bricked Windows"
+  setting:
+    time: "1705, midday"
+    location: "Cramped tenement building, East End of London, England"
+    weather: "Bright sunny day outside"
+  characters:
+    - appearance: "Caucasian man, 35, medium build, worried expression, calloused hands"
+      clothing: "Brown woolen coat, simple white shirt, worn leather boots, no wig"
+      position: "Sitting at small wooden table near single remaining window"
+      action: "Trying to read document by limited natural light streaming through one small window"
+    - appearance: "Caucasian woman, 30s, thin from hardship, tired eyes, caring demeanor"
+      clothing: "Dark brown wool dress, white linen cap, simple apron, worn shawl"
+      position: "Standing near cooking hearth tending to meal preparation"
+      action: "Working by candlelight to prepare food in poorly lit kitchen area"
+    - appearance: "Two young children, 5-8 years old, pale complexions, subdued expressions"
+      clothing: "Simple wool clothing, patched and mended"
+      position: "Sitting on floor in darkest corner of room"
+      action: "Playing quietly with simple wooden toys in dim shadows"
+  scene:
+    mainElements: "Narrow rooms with low ceilings, mostly bricked-up windows leaving only one small opening, simple wooden furniture"
+    details: "Single flickering candle providing main light source, oil lamp burning during daytime, bricked-up window openings clearly visible from inside, one remaining small window allowing minimal natural light, cooking hearth with small fire, modest wooden furniture appearing shadowy, family's meager possessions barely visible in darkness, damp patches on walls from poor ventilation"
+    background: "Modest living conditions severely worsened by lack of natural light, other bricked-up window spaces creating perpetual darkness"
+    atmosphere: "Oppressive darkness during bright daytime, family struggling with poor living conditions, health concerns evident from lack of light and air, unnatural reliance on artificial lighting, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from inside dark room toward single remaining window"
+    focus: "Family members struggling to function in unnaturally dark living space"
+    depth: "Family activities in shadowy foreground, modest furniture in dim middle ground, single bright window creating stark contrast in background"

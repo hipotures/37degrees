@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: June 1, 2011, 11:20 AM
+    location: Campus courtyard of Faculty of Mechanical Engineering, Krakow University of Technology, Krakow, Poland
+    weather: Perfect sunny conditions for the official record journey
+  characters:
+  - appearance: Caucasian man, 40s, experienced look, calm expression, sturdy build
+    clothing: Official bus driver uniform - dark blue jacket, cap, professional appearance
+    position: Driving the bus with 229 passengers for the official record journey
+    action: Seated at driver controls, maintaining professional composure
+  scene:
+    mainElements: Bus in motion carrying 229 participants on the official 75-meter journey for world record validation
+    details: Standard single-decker public transport bus, unmodified, typical Polish city bus design with multiple windows
+      and standard seating configuration moving slowly and steadily along the measured 75-meter course, maximum human capacity
+      of 229 participants inside, careful navigation ensuring safety while completing the required distance for official Guinness
+      World Record validation
+    background: University campus buildings, marked course area for the 75-meter journey, officials and observers tracking
+      the progress
+    atmosphere: Climactic moment of achievement as the world record is officially being set, tension and excitement culminating
+      in historic accomplishment, no text or letters visible
+  composition:
+    cameraAngle: Dynamic side view showing bus in motion
+    focus: Bus in motion completing the record-setting journey
+    depth: Foreground shows marked journey path, middle ground displays moving bus with maximum capacity, background reveals
+      university campus and observing officials
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

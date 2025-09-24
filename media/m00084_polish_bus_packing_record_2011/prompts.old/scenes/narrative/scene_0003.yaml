@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Record Bus Arrives on Campus"
+  setting:
+    time: "June 1, 2011, 10:00 AM"
+    location: "Campus courtyard of Faculty of Mechanical Engineering, Krakow University of Technology, Krakow, Poland"
+    weather: "Bright sunny morning, perfect conditions for outdoor event"
+  characters:
+    - appearance: "Caucasian man, 40s, experienced look, calm expression, sturdy build"
+      clothing: "Official bus driver uniform - dark blue jacket, cap, professional appearance"
+      position: "Seated in driver's compartment behind steering wheel"
+      action: "Seated at driver controls, maintaining professional composure"
+    - appearance: "Young Caucasian man, early 20s, athletic build, determined expression"
+      clothing: "Casual university attire - jeans, university sweatshirt, sneakers"
+      position: "Gathered around the bus examining it closely"
+      action: "Ready to participate, enthusiastic body language"
+    - appearance: "Young Caucasian woman, early 20s, medium height, focused expression"
+      clothing: "Casual student outfit - dark pants, light top, comfortable shoes"
+      position: "Standing near bus entrance with other students"
+      action: "Cooperative and eager, following instructions carefully"
+  scene:
+    mainElements: "Standard single-decker public transport bus, unmodified, typical Polish city bus design with multiple windows and standard seating configuration"
+    details: "Bus positioned in designated area of campus courtyard, students gathering around to examine the vehicle that will house 229 people, official verification that bus remains completely unmodified, natural lighting highlighting the standard municipal transport bus design, clear view of bus dimensions and standard public transport features"
+    background: "University buildings and campus environment, preparation areas with officials and equipment visible in distance"
+    atmosphere: "Growing excitement and anticipation as the centerpiece of the record attempt arrives, no text or letters visible"
+  composition:
+    cameraAngle: "Three-quarter view of bus with students gathering around"
+    focus: "The record bus as central element with engaged students examining it"
+    depth: "Foreground shows students approaching bus, middle ground features the bus itself, background displays university campus setting"

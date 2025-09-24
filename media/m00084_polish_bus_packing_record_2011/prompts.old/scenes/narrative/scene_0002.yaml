@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Official Guinness World Records Verification Setup"
+  setting:
+    time: "June 1, 2011, 9:30 AM"
+    location: "Open area adjacent to university buildings, Krakow, Poland"
+    weather: "Clear sunny morning with good visibility"
+  characters:
+    - appearance: "Caucasian man, 50s, professional demeanor, observant eyes, glasses"
+      clothing: "Formal business suit, official Guinness World Records badge, measuring equipment"
+      position: "Standing beside measurement station with official documentation"
+      action: "Standing with measuring tools and official documentation, observing carefully"
+    - appearance: "Caucasian man, 40s, authoritative presence, confident expression, short brown hair"
+      clothing: "Professional dark suit with university badge, formal dress shirt, tie"
+      position: "Coordinating with Guinness official near preparation tables"
+      action: "Standing with clipboard, coordinating with authority and precision"
+  scene:
+    mainElements: "Gathering space with clear view of the bus, official registration tables, crowd control barriers"
+    details: "Professional measuring equipment for verifying bus dimensions, participant counting devices, official timing equipment, clipboard with official Guinness World Records documentation, participant count sheets, verification forms, official setup with precise organization for world record verification"
+    background: "University buildings and campus environment providing academic setting for the record attempt"
+    atmosphere: "Organized anticipation with officials, students, and observers preparing for record attempt, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot focusing on official verification setup"
+    focus: "Guinness World Records official with measurement equipment and documentation"
+    depth: "Foreground shows official measurement tools, middle ground displays verification station, background reveals university campus setting"

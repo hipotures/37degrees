@@ -1,32 +1,32 @@
 sceneDescription:
   setting:
-    time: Deep night, 2:00 AM during coldest part of winter
-    location: Interior of traditional wooden house in Oymyakon, thick log walls, small windows with multiple panes
-    weather: Record-breaking cold at -71°C outside, critical heating situation inside
+    time: 2000s, morning winter
+    location: Central area of village surrounded by wooden houses, located in Indigirka River valley, Sakha Republic, Siberia
+    weather: Typical extreme cold morning with ice fog, temperature around minus 50 degrees Celsius
   characters:
-  - appearance: Yakutian man, 40s, weathered face with high cheekbones, dark eyes adapted to snow glare, bronze skin from
-      outdoor work
-    clothing: Traditional reindeer hide parka with fur-lined hood, thick mukluks, woolen mittens, layers of warm undergarments
-    position: Kneeling beside large wood-burning stove
-    action: Feeding continuous wood supply to stove, monitoring fire intensity, checking chimney draft
-  - appearance: Yakutian woman, 30s, strong build, dark hair in braids, determined expression, rosy cheeks from cold
-    clothing: Traditional Sakha winter dress with geometric patterns, thick wool coat, fur-lined boots, colorful headscarf
-    position: Standing nearby with armload of firewood
-    action: Supplying wood for continuous burning, checking emergency backup heating, monitoring room temperature
+  - appearance: Sturdy build man in 30s, reddened cheeks from cold, determined expression, visible breath in frigid air
+    clothing: Soviet work clothes adapted for extreme cold, thick wool coat, heavy felt boots, working man's winter hat
+    position: Working on construction or settlement tasks in harsh conditions
+    action: Building structures or performing manual labor with stoic determination mixed with visible struggle against harsh
+      conditions
   scene:
-    mainElements: Large central stove with chimney, heavy curtains, multiple layers of rugs, family photographs on walls
-    details: Large iron stove central to home heating, constantly fed with birch and pine logs, chimney extending through
-      roof. Fire burning at maximum intensity to combat record cold outside. Multiple backup heating sources including kerosene
-      heaters positioned around room. Extra firewood stacked near stove for immediate access. Heavy blankets and sleeping
-      arrangements positioned close to heat source for family survival.
-    background: Wooden log walls with traditional construction showing strain from extreme temperature differential, small
-      frost-covered windows, shadows cast by intense firelight
-    atmosphere: Life-or-death situation requiring constant vigilance, family unity in face of nature's most extreme challenge
+    mainElements: Monument marking temperature record, concrete bull statue, wooden buildings with thick smoke from chimneys,
+      packed snow paths
+    details: Modern villagers using contemporary cold-weather adaptations including improved heating systems, modern insulation
+      materials, updated winter clothing combining traditional and modern elements, satellite communication equipment for
+      connection to outside world, modern vehicles designed for extreme cold conditions, solar panels and wind generators
+      adapted for Arctic conditions, evidence of technological improvements while maintaining traditional survival knowledge
+      essential for world's coldest inhabited location
+    background: Traditional wooden buildings updated with modern improvements, power lines and communication infrastructure,
+      roads maintained for modern transportation despite extreme conditions
+    atmosphere: Smoke rising straight up in still air, crunching snow underfoot, muffled sounds in extreme cold, visible breath
+      everywhere, blend of traditional survival methods with contemporary technology, ongoing challenge of maintaining modern
+      life in Earth's most extreme inhabited environment, no text or letters visible
   composition:
-    cameraAngle: Close-up shot emphasizing critical heating maintenance
-    focus: Wood-burning stove with family working to maintain life-saving heat
-    depth: Stove and people in foreground, emergency heating setup in middle ground, household interior showing cold stress
-      in background, no text or letters visible
+    cameraAngle: Wide shot showing modern village infrastructure adapted for extreme conditions
+    focus: Contemporary adaptations enabling continued habitation in world's coldest inhabited place
+    depth: 'Foreground: modern equipment and village residents, middle ground: updated buildings and infrastructure, background:
+      unchanging harsh Arctic landscape that continues to challenge human habitation'
 visualElements:
   colorPalette:
     primary:

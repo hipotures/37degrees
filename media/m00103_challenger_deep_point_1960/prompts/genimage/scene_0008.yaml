@@ -1,33 +1,37 @@
 sceneDescription:
   setting:
-    time: January 23, 1960, reaching bottom at 10,916 meters depth
-    location: Challenger Deep ocean floor, deepest point on Earth, Mariana Trench
-    weather: Absolute darkness, crushing pressure, near-freezing temperature at 7 degrees Celsius
+    time: January 23, 1960, 1610 hours, 35,814 feet below Pacific Ocean surface
+    location: Deepest known point on Earth's surface, 35,814 feet below Pacific Ocean surface, southwestern end of Mariana
+      Trench
+    weather: Crushing pressure of 1,100 times atmospheric pressure, water temperature near freezing at 34-39°F
   characters:
-  - appearance: Swiss man, 40s, tall and lean build, intelligent dark eyes, wavy dark hair
-    clothing: 1960s thick woolen sweater over collared shirt, heavy winter jacket during surface operations
-    position: Peering through porthole windows at historic seafloor
-    action: Making detailed observations and taking notes of unprecedented deep ocean environment
-  - appearance: American man, 30s, military bearing, short-cropped hair, alert expression
-    clothing: US Navy uniform with lieutenant insignia, or heavy weather gear during operations
-    position: Operating external lights and documentation equipment
-    action: Illuminating seafloor and recording historic moment of deepest human descent
+  - appearance: 37 years old Caucasian man, medium build, clean-shaven with short dark hair, intelligent brown eyes behind
+      wire-rimmed glasses, calm and methodical demeanor
+    clothing: Navy-issue wool sweater over white shirt, thick wool pants, heavy leather boots, waterproof chronometer watch
+    position: Inside Trieste crew sphere, seated at instrument panel
+    action: Monitoring depth gauges and pressure readings with scientific precision
+  - appearance: 29 years old Caucasian man, athletic military bearing, short-cropped brown hair, square jaw, alert blue eyes,
+      confident posture
+    clothing: Navy utility uniform with lieutenant's bars, thick wool Navy sweater, military-issue boots, Navy insignia clearly
+      visible
+    position: Inside Trieste crew sphere, seated beside diving controls
+    action: Taking detailed notes and operating ballast controls with military precision
   scene:
-    mainElements: Ocean floor at Challenger Deep covered in fine diatomaceous ooze sediment, complete darkness except for
-      submersible lights, external lights revealing seafloor composition and unexpected signs of life
-    details: Fine diatomaceous ooze covering seafloor in thick layer, white flatfish visible on sediment surface, small red
-      shrimp creatures moving in external light beams, microscopic life forms adapted to extreme pressure and darkness, seafloor
-      sediment showing undisturbed accumulation over geological time periods, external lights creating cone of visibility
-      in absolute darkness
-    background: Infinite darkness beyond light range, sense of enormous water column extending 35,814 feet to surface, isolation
-      at Earth's most remote accessible location
-    atmosphere: Alien otherworldly environment unlike anywhere on Earth's surface, crushing pressure creating sense of hostile
-      but fascinating frontier, scientific wonder at discovering life in extreme conditions, historic achievement of human
-      exploration reaching absolute limits, no text or letters visible
+    mainElements: Trieste's external lights illuminating the seafloor through portholes, revealing fine diatomaceous ooze
+      sediment being disturbed by the historic landing, creating clouds in the water
+    details: Seafloor composed of fine diatomaceous ooze, complete darkness except for Trieste's lights, crushing pressure
+      of 1,100 times atmospheric pressure. Fine, light-colored sediment composed of fossilized marine microorganisms, easily
+      disturbed creating milky clouds when disturbed by submersible landing. First human contact with Earth's deepest point.
+    background: Absolute silence except for creaking of Trieste's hull, water temperature near freezing at 34-39°F, total
+      darkness broken only by submersible's lights creating small illuminated circle on seafloor
+    atmosphere: Historic achievement as first humans reach deepest accessible point on Earth, mixture of scientific triumph
+      and awareness of being further from surface safety than any human has ever been, deeper than Mount Everest is tall,
+      ultimate frontier finally reached, no text or letters visible
   composition:
-    cameraAngle: View through porthole windows showing illuminated seafloor
-    focus: Seafloor life forms and sediment in external light beams
-    depth: Foreground shows porthole frame, middle shows illuminated seafloor area, background shows infinite darkness
+    cameraAngle: External view through porthole showing illuminated seafloor at moment of historic landing
+    focus: Seafloor sediment being disturbed by Trieste's landing, creating clouds in the deep water
+    depth: Foreground shows disturbed seafloor sediment in light beam, middle ground centers on illuminated circle of deepest
+      point on Earth, background reveals absolute darkness of deepest ocean
 visualElements:
   colorPalette:
     primary:

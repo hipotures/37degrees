@@ -1,23 +1,30 @@
 sceneDescription:
   setting:
-    time: August 27, 1896, 9:30 AM
-    location: Sultan's palace complex during bombardment, Stone Town
-    weather: Thick smoke from fires and explosions
-  characters: No characters present in this scene
+    time: August 27, 1896, 9:35 AM
+    location: Two-story colonial building with German flag, located in diplomatic quarter of Stone Town
+    weather: Clear tropical morning with smoke drifting from nearby palace bombardment
+  characters:
+  - appearance: Age 22, tall and lean build, dark eyes, neatly trimmed black beard, aristocratic bearing with sharp features
+      typical of Omani royal lineage
+    clothing: Traditional white Omani dishdasha with ornate gold embroidery, red fez cap with tassel, ceremonial curved dagger
+      (khanjar) at waist, royal insignia
+    position: Standing with defiant and proud posture, intense gaze
+    action: Confident gestures, showing no fear even under British ultimatum
   scene:
-    mainElements: Three-story timber palace building with ornate carved balconies engulfed in flames, flagpole with shot-down
-      flag
-    details: Palace buildings burning fiercely, wooden structures collapsing from shell damage, Red rectangular flag with
-      white border fallen from destroyed flagpole, debris scattered across courtyard, abandoned artillery pieces, ornate architectural
-      details being consumed by fire, covered bridges between buildings damaged or destroyed
-    background: British warships continuing bombardment from harbor, Stone Town buildings visible through smoke, House of
-      Wonders still standing
-    atmosphere: Complete destruction of royal power, end of resistance, architectural beauty being consumed by modern warfare,
-      devastating effectiveness of naval bombardment, no text or letters visible
+    mainElements: White-painted walls, red tile roof, wrought iron balconies, German imperial coat of arms above entrance
+    details: Character KB fleeing burning palace with core supporters, seeking asylum at German consulate, diplomatic immunity
+      sanctuary, small group of loyal followers accompanying former sultan, German flag prominent above entrance indicating
+      neutral territory, smoke from palace bombardment visible in background, hasty but dignified retreat from impossible
+      military situation
+    background: Stone Town diplomatic quarter, other colonial buildings, distant smoke from palace, sounds of continued British
+      bombardment, tropical vegetation along streets
+    atmosphere: Tense refuge atmosphere, diplomatic immunity sanctuary, hushed conversations about escape plans, defeat mixed
+      with hope for survival, political asylum offering last chance for survival, no text or letters visible
   composition:
-    cameraAngle: Medium shot showing palace destruction and fallen flag
-    focus: Burning palace and fallen flag as symbols of defeated resistance
-    depth: Palace ruins in foreground, courtyard destruction in middle ground, harbor and warships in background
+    cameraAngle: Medium shot showing arrival at German consulate
+    focus: Character KB seeking asylum, German consulate entrance, diplomatic sanctuary
+    depth: 'Foreground: Character KB and loyal supporters, middle: German consulate building with flag, background: Stone
+      Town with smoke from palace bombardment'
 visualElements:
   colorPalette:
     primary:

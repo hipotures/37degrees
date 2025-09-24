@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: June 1859, late afternoon
+    location: Boundary area between American farm and British ranch
+    weather: Partly cloudy with threatening storm clouds
+  characters:
+  - appearance: American man, 40s, weathered face from frontier life, brown beard, stocky farmer build
+    clothing: Rough wool shirt, canvas trousers, wide-brimmed hat, leather boots caked with mud
+    position: Standing on his side of disputed boundary
+    action: Determined frontier stance, gesturing at property line, refusing to back down
+  - appearance: Irish man, 35, red hair, pale complexion, lean build, concerned expression
+    clothing: Hudson's Bay Company wool jacket, dark trousers, tall leather boots
+    position: Standing across property line
+    action: Defensive posture, pointing accusingly at damage, demanding compensation
+  scene:
+    mainElements: Disputed boundary line between American and British claims, tension visible in confronting figures
+    details: Split-rail fence marking contested boundary, surveyor stakes driven into ground, maps and documents being pointed
+      at, both men standing firmly on their respective sides, storm clouds gathering overhead suggesting brewing conflict
+    background: American homestead visible on one side, British ranch buildings on other, San Juan Island landscape between
+      competing claims
+    atmosphere: International boundary dispute personified by individual property conflict, diplomatic crisis beginning with
+      personal confrontation, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing both sides of boundary dispute
+    focus: Two men representing competing national claims
+    depth: Disputing parties at boundary in foreground, their respective properties in middle ground, island landscape in
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -4,56 +4,59 @@ canon:
       name: "Character RP"
       description_block: |
         characters:
-          - appearance: "Caucasian man, early 30s, slender build, intelligent dark eyes, carefully combed dark hair"
-            clothing: "1930s white lab coat over dress shirt and tie, or casual suit with vest"
-            posture: "Methodical and observant, often holding laboratory equipment or writing in notebook"
+          - appearance: "28-year-old man, medium build, clean-shaven with dark hair neatly parted, wire-rimmed glasses, earnest and intelligent expression"
+            clothing: "White laboratory coat over dark trousers and white dress shirt, black leather shoes, safety goggles around neck"
+            posture: "Methodical and curious, tendency to lean in when examining specimens"
     - id: "character_JR"
       name: "Character JR"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 30s, medium build, alert expression, short brown hair"
-            clothing: "1930s white lab coat over dress shirt, or work clothes with suspenders"
-            posture: "Attentive assistant, often positioned near equipment or observing experiments"
+          - appearance: "Young man in early 20s, slightly shorter than character RP, brown hair, no glasses, more casual demeanor"
+            clothing: "White laboratory coat, dark work pants, practical work boots, rolled sleeves"
+            posture: "Eager and practical, hands-on approach to equipment"
+    - id: "dupont_executives"
+      name: "DuPont Executives"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged men in business attire, conservative appearance typical of 1930s executives"
+            clothing: "Dark business suits, white shirts, conservative ties, polished dress shoes"
+            posture: "Formal business bearing, cautious but interested expressions"
   locations:
-    - id: "dupont_jackson_lab"
+    - id: "jackson_laboratory"
       name: "DuPont Jackson Laboratory"
       description_block: |
         setting:
-          location: "DuPont Jackson Laboratory, Deepwater, New Jersey, 1938"
-        mainElements: "Industrial chemistry laboratory with wooden work benches, glass apparatus, metal pressure cylinders"
-        atmosphere: "Professional research environment with natural light from tall windows, organized but busy workspace"
-    - id: "lab_storage_area"
-      name: "Laboratory Storage Area"
+          location: "Industrial chemical research facility, Deepwater, New Jersey, multi-story brick buildings"
+        mainElements: "Sophisticated control panels, gas cylinders, experimental apparatus, chemical hoods, laboratory benches with black tops, glass equipment racks"
+        atmosphere: "Clinical and sterile, morning light through tall windows, chemical odors, mechanical hum of ventilation, serious scientific environment"
+    - id: "laboratory_bench"
+      name: "Laboratory Bench Workspace"
       description_block: |
         setting:
-          location: "Chemical storage area within DuPont Jackson Laboratory"
-        mainElements: "Metal shelving units with various chemical containers, pressure cylinders stored at low temperature"
-        atmosphere: "Cool, organized storage space with industrial lighting and safety equipment visible"
-    - id: "lab_workbench"
-      name: "Laboratory Workbench"
+          location: "Black-topped laboratory bench with gas connections, electrical outlets, and equipment mounting points"
+        mainElements: "TFE gas cylinders, pressure gauges, connecting tubes, analytical balance, chemical test apparatus, notebook"
+        atmosphere: "Focused workspace with morning light, slight chemical smell from previous experiments, organized chaos of ongoing research"
+    - id: "dupont_office"
+      name: "DuPont Corporate Office"
       description_block: |
         setting:
-          location: "Main laboratory workbench, DuPont Jackson Laboratory"
-        mainElements: "Wooden laboratory bench with glass apparatus, measurement tools, chemical containers"
-        atmosphere: "Active research workspace with good lighting, organized tools and equipment"
+          location: "Corporate office space with large windows, wooden furniture, 1930s business decor"
+        mainElements: "Large wooden desk, leather chairs, filing cabinets, telephone, corporate documents"
+        atmosphere: "Formal business environment, afternoon lighting, quiet professional setting"
   items:
-    - id: "tfe_gas_cylinder"
+    - id: "tfe_cylinder"
       name: "TFE Gas Cylinder"
       description_block: |
-        details: "Small metal pressure cylinder, steel gray color, with valve mechanism at top, approximately 12 inches tall"
-    - id: "white_powder_substance"
-      name: "White Powder Substance"
+        details: "Steel cylinder approximately 12 inches tall, 4 inches diameter, gray metal surface with valve assembly at top, internal coating of white waxy powder"
+    - id: "white_powder"
+      name: "PTFE White Powder"
       description_block: |
-        details: "White, waxy powder coating inside opened metal cylinder, appearing slippery and smooth to touch"
+        details: "White, waxy powder with unusual slippery texture, approximately 2-3 grams total yield, completely chemically inert"
     - id: "laboratory_notebook"
-      name: "Laboratory Notebook"
+      name: "Research Notebook"
       description_block: |
-        details: "Bound notebook with lined pages, leather or cloth cover, filled with handwritten research notes and observations"
-    - id: "glass_apparatus"
-      name: "Glass Laboratory Apparatus"
+        details: "Standard laboratory notebook with handwritten entries in black ink, graph paper pages, detailed documentation of experiments"
+    - id: "analytical_equipment"
+      name: "Chemical Analysis Equipment"
       description_block: |
-        details: "Various glass beakers, test tubes, condensers and distillation equipment typical of 1930s chemistry lab"
-    - id: "cutting_tools"
-      name: "Metal Cutting Tools"
-      description_block: |
-        details: "Industrial hacksaw or metal cutting implement used to open sealed pressure cylinder"
+        details: "Glass apparatus, metal analytical balance with brass weights, pH testing equipment, heating apparatus, Bunsen burner setup"

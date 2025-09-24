@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: June 1, 2011, 10:30 AM
+    location: Open area adjacent to university buildings, Krakow, Poland
+    weather: Sunny morning with clear skies
+  characters:
+  - appearance: Caucasian man, 50s, professional demeanor, observant eyes, glasses
+    clothing: Formal business suit, official Guinness World Records badge, measuring equipment
+    position: Standing with official counting equipment and documentation
+    action: Standing with measuring tools and official documentation, observing carefully
+  - appearance: Caucasian man, 40s, authoritative presence, confident expression, short brown hair
+    clothing: Professional dark suit with university badge, formal dress shirt, tie
+    position: Organizing students into groups for systematic entry
+    action: Standing with clipboard, coordinating with authority and precision
+  - appearance: Young Caucasian man, early 20s, athletic build, determined expression
+    clothing: Casual university attire - jeans, university sweatshirt, sneakers
+    position: Lined up in organized formation with other participants
+    action: Ready to participate, enthusiastic body language
+  - appearance: Young Caucasian woman, early 20s, medium height, focused expression
+    clothing: Casual student outfit - dark pants, light top, comfortable shoes
+    position: Standing in organized group formation
+    action: Cooperative and eager, following instructions carefully
+  scene:
+    mainElements: 229 Faculty of Mechanical Engineering students and staff organized in systematic groups for official counting
+    details: Clipboard with official Guinness World Records documentation, participant count sheets, verification forms, professional
+      measuring equipment for verifying bus dimensions, participant counting devices, official timing equipment, systematic
+      organization of all 229 participants into manageable groups for orderly bus entry, official verification process underway
+    background: University campus with the record bus visible in preparation area, academic buildings providing official setting
+    atmosphere: Intense organization and final preparation before the record attempt, heightened anticipation and focus, no
+      text or letters visible
+  composition:
+    cameraAngle: High-angle shot showing organization of 229 participants
+    focus: Systematic grouping and counting of all record participants
+    depth: Foreground shows immediate participant groups, middle ground displays officials with documentation, background
+      reveals campus and bus preparation area
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

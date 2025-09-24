@@ -1,20 +1,16 @@
 sceneDescription:
-  title: "Storm aftermath over New Mexico desert ranch"
+  title: "Foster Ranch Under Stormy Desert Sky"
   setting:
-    time: "June 14, 1947, early morning after storm"
-    location: "Foster Ranch near Corona, New Mexico - remote cattle ranch 75 miles northwest of Roswell"
-    weather: "Clear sky after severe thunderstorm, puddles on ground, wet soil"
-  characters:
-    - appearance: "Caucasian man, 50s, weathered sun-worn face with deep lines, graying hair, lean build"
-      clothing: "1940s ranch attire - worn denim jeans, cotton long-sleeve shirt, brown felt cowboy hat with wide brim, leather belt with simple buckle, worn leather work boots"
-      position: "Standing at ranch house porch, looking out at pasture"
-      action: "Surveying storm damage, holding coffee mug, squinting at distant debris scatter"
+    time: "July 2, 1947, evening during thunderstorms"
+    location: "Foster Ranch, 75 miles northwest of Roswell, New Mexico, high desert terrain"
+    weather: "Violent thunderstorms with lightning illuminating the vast desert landscape"
+  characters: "No characters present in this scene"
   scene:
-    mainElements: "Single-story wood frame ranch house with front porch, weathered barn, corrals, outbuildings"
-    details: "Wet ground reflecting morning sun, scattered tree branches from storm, fence posts askew, distant glint of metallic debris catching sunlight across pasture land, muddy tire tracks, water dripping from roof edges, no text or letters visible"
-    background: "Arid semi-desert landscape with low scrub vegetation, sagebrush, yucca plants, sandy soil with rocky outcrops, vast open sky"
-    atmosphere: "Post-storm quietness, fresh desert air, sense of something unusual in the landscape, harsh morning light creating long shadows"
+    mainElements: "Vast open rangeland stretching to distant mesas, ranch house and outbuildings silhouetted against stormy sky, windmill turning in strong winds, stock tanks reflecting lightning flashes"
+    details: "Remote sheep ranch at 6,870 feet elevation, sparse desert vegetation including sagebrush and juniper, dirt roads leading to ranch buildings, wooden fence posts marking property boundaries, lightning strikes illuminating the endless horizon, no text or letters visible"
+    background: "Dramatic New Mexico high desert landscape with distant mountains and mesas, storm clouds building overhead, empty vastness emphasizing isolation"
+    atmosphere: "Ominous and mysterious, wild weather creating perfect conditions for unusual events, sense of remoteness and vulnerability in the face of nature's power"
   composition:
-    cameraAngle: "Wide establishing shot from slight elevation"
-    focus: "Ranch foreman surveying his land with debris field visible in distance"
-    depth: "Foreground shows wet porch boards, middle ground has ranch buildings, background reveals vast desert with scattered reflective debris"
+    cameraAngle: "Wide aerial establishing shot looking down at ranch from elevated perspective"
+    focus: "Ranch buildings and immediate surroundings as small human presence in vast natural landscape"
+    depth: "Foreground shows ranch buildings and fences, middle ground reveals open rangeland, background displays stormy desert horizon and distant geological formations"

@@ -1,97 +1,80 @@
 sceneDescription:
   setting:
-    time: September 1325, sunset
-    location: Strategic hilltop castle of Monteveglio between Bologna and Modena
-    weather: Clear evening with orange sunset
+    time: 1325, early autumn morning
+    location: Modena city walls and courtyard, medieval fortress setting
+    weather: Cool crisp morning with clear skies, light mist rising from ground
   characters:
-  - appearance: Italian or German man, 20s-30s, battle-hardened expression
-    clothing: Blue tunic with Modena insignia, plate armor pieces, conical helmet
-    position: Climbing stone walls with scaling ladders, some atop battlements
-    action: Storming the fortress walls, raising Modenese banners, overwhelming defenders
-  - appearance: Italian man, 20s-30s, determined face, muscular build
-    clothing: Red tunic with Bologna coat of arms, chainmail, steel helmet
-    position: Defending battlements, some retreating through castle gates
-    action: Fighting desperately with spears and crossbows, being pushed back by attackers
+  - appearance: Physically small and wiry middle-aged man around 50, sharp intelligent eyes, weathered face from military
+      campaigns, slight build but commanding presence
+    clothing: Full plate armor with imperial German styling, Ghibelline heraldic symbols, chainmail beneath, decorated helmet
+      with eagle plume, fine leather boots
+    position: Standing on city walls overlooking the countryside, hands clasped behind back
+    action: Surveying the landscape with tactical precision, conferring quietly with military advisors
   scene:
-    mainElements: Stone fortress on elevated position, multiple towers, defensive walls
-    details: Medieval catapults, battering rams, scaling ladders for castle warfare positioned around fortress base, wooden
-      siege towers against castle walls, arrows flying through air, broken spears scattered on stone courtyard, Heraldic banners
-      of Bologna (red) and Modena (blue) displaying city arms flying from different towers, smoke rising from various points
-      of conflict
-    background: Rolling hills of northern Italian countryside, distant villages visible in valley below, orange sunset sky
-    atmosphere: Important military stronghold overlooking countryside being captured in dramatic siege warfare, sounds of
-      battle and conquest
+    mainElements: Medieval fortress walls of Modena with Torre della Ghirlandina bell tower dominating skyline, stone battlements
+      with defensive positions, courtyard below with military preparations, soldiers training with weapons
+    details: Large silk banners in imperial colors featuring black eagle on yellow field, Ghibelline family arms with heraldic
+      symbols, religious symbols supporting imperial authority mounted on tall wooden poles. German knights in high-quality
+      plate armor with imperial eagle insignia, professional military equipment being prepared, horses being saddled, weapons
+      being sharpened. Defensive preparations visible throughout the city
+    background: Surrounding Emilian countryside with rolling hills, distant view toward Bologna, other medieval settlements,
+      mountain passes leading to strategic positions
+    atmosphere: Confident military preparation, disciplined professional atmosphere, sense of experienced leadership facing
+      overwhelming odds, cool morning air filled with sounds of military activity and church bells from Torre della Ghirlandina
   composition:
-    cameraAngle: Wide shot from hillside showing full castle siege
-    focus: The dramatic moment of Modenese forces overrunning the strategic fortress
-    depth: 'Foreground: siege equipment and attacking soldiers, Middle: castle walls and fighting, Background: countryside
-      landscape, no text or letters visible'
+    cameraAngle: Medium shot from courtyard level looking up at walls
+    focus: The small but commanding figure of the military leader on the battlements
+    depth: Foreground shows military preparations in courtyard, middle ground features the commander on walls, background
+      shows strategic countryside beyond, no text or letters visible
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

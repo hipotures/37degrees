@@ -1,0 +1,69 @@
+canon:
+  characters:
+    - id: "character_scientist"
+      name: "Scientist"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, scholarly build, wire-rimmed glasses, thoughtful expression"
+            clothing: "Khaki field research clothes, hiking boots, backpack with scientific equipment"
+            posture: "Measuring and observing with professional instruments"
+    - id: "character_mountaineer"
+      name: "Mountaineer"
+      description_block: |
+        characters:
+          - appearance: "Person in 30s, athletic build, weathered face from high altitude exposure"
+            clothing: "Modern mountaineering gear, insulated jacket, climbing helmet, oxygen equipment"
+            posture: "Confident stance adapted to high altitude terrain"
+    - id: "character_local_guide"
+      name: "Local Guide"
+      description_block: |
+        characters:
+          - appearance: "Indigenous Ecuadorian man, 40s, strong build adapted to high altitude, wise expression"
+            clothing: "Traditional Andean wool clothing mixed with modern outdoor gear"
+            posture: "Familiar with mountain terrain, pointing and guiding others"
+  locations:
+    - id: "location_chimborazo_peak"
+      name: "Chimborazo Peak"
+      description_block: |
+        setting:
+          location: "Mount Chimborazo summit, Ecuador, snow-covered volcanic peak at 6,263 meters"
+        mainElements: "Snow-covered rocky peak, glacial ice formations, thin atmosphere, Andean mountain range stretching to horizon"
+        atmosphere: "Majestic, challenging high-altitude environment with stunning mountain vistas"
+    - id: "location_everest_peak"
+      name: "Everest Peak"
+      description_block: |
+        setting:
+          location: "Mount Everest summit, Nepal/Tibet border, highest elevation peak at 8,849 meters"
+        mainElements: "Rocky summit with prayer flags, snow-covered ridges, Himalayan peaks extending endlessly"
+        atmosphere: "Ultimate mountaineering challenge, world's highest elevation, thin air and extreme conditions"
+    - id: "location_equatorial_research_station"
+      name: "Equatorial Research Station"
+      description_block: |
+        setting:
+          location: "Scientific research station near equator in Ecuador"
+        mainElements: "Modern scientific equipment, computers, measurement devices, topographical maps"
+        atmosphere: "Technical research environment focused on geographical measurements"
+    - id: "location_earth_cross_section"
+      name: "Earth Cross Section"
+      description_block: |
+        setting:
+          location: "Conceptual view showing Earth's interior structure and shape"
+        mainElements: "Earth's layers visible, equatorial bulge apparent, comparative distance measurements"
+        atmosphere: "Educational diagram showing Earth's true oblate spheroid shape"
+  items:
+    - id: "item_gps_equipment"
+      name: "GPS Equipment"
+      description_block: |
+        details: "Modern GPS devices, satellite communication equipment, precise measurement instruments"
+    - id: "item_mountaineering_gear"
+      name: "Mountaineering Gear"
+      description_block: |
+        details: "Oxygen tanks, climbing ropes, ice axes, insulated sleeping bags, high-altitude survival equipment"
+    - id: "item_scientific_instruments"
+      name: "Scientific Instruments"
+      description_block: |
+        details: "Surveying equipment, altimeters, barometric pressure gauges, geological measurement tools"
+    - id: "item_topographical_maps"
+      name: "Topographical Maps"
+      description_block: |
+        details: "Detailed geographical maps showing elevation contours, mountain ranges, coordinate systems"

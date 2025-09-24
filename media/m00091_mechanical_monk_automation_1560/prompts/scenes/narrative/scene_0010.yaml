@@ -1,20 +1,20 @@
 sceneDescription:
-  title: "The mechanical monk in perpetual prayer through the centuries"
+  title: "The mechanical monk continues its eternal prayer in modern museum display"
   setting:
-    time: "Present day, museum lighting"
-    location: "Smithsonian Institution display case, modern museum setting with controlled lighting"
-    weather: "Indoor museum environment with artificial lighting"
+    time: "Present day, museum hours"
+    location: "Smithsonian Institution display case, Washington D.C."
+    weather: "Indoor museum environment with controlled lighting"
   characters:
     - appearance: "Franciscan monk figure, 38cm tall, carved wooden head with tonsured crown, serene expression"
       clothing: "Brown Franciscan robes, rope belt with knots, simple sandals"
-      position: "Standing in museum display case, ready for demonstration"
-      action: "Walking, striking chest, raising cross, nodding head in prayer gestures"
+      position: "Walking, striking chest, raising cross, nodding head in prayer gestures"
+      action: "Still performing its prayer sequence after 460 years, demonstrating Renaissance engineering mastery"
   scene:
-    mainElements: "The 450-year-old automaton continues its devotional movements in modern museum setting, still fully operational"
-    details: "38cm tall clockwork figure with wooden head, brown Franciscan robes, hidden brass mechanisms beneath clothing, small wooden cross and rosary in left hand, wind-up key in back demonstrates unchanged function after centuries. Glass display case with museum lighting reveals every detail of the preserved masterpiece. Modern visitors observe in wonder as Renaissance engineering continues its sacred purpose. The wooden face shows the same serene expression carved five centuries ago"
-    background: "Modern museum display with informational panels and other historical artifacts, while spotlights illuminate the remarkable automaton"
-    atmosphere: "Timeless devotion transcends centuries as mechanical prayer continues unabated, connecting Renaissance faith with modern wonder, proving the endurance of human ingenuity"
+    mainElements: "Modern museum display case with controlled lighting showcasing the still-functioning 16th-century automaton"
+    details: "38cm tall clockwork figure with wooden head, brown Franciscan robes preserved through centuries, small wooden cross and rosary still held in left hand, automaton continuing its original walking prayer pattern within glass display case, right arm still striking chest in rhythmic penitent gesture, left hand still raising cross to lips in kissing motion, head still turning and nodding in original prayer sequence, wooden eyes still appearing to roll in devotional expression, mouth still opening and closing in perpetual silent prayer, brass mechanisms still functioning beneath robes after four centuries, museum spotlights highlighting the remarkable preservation, visitors' reflections visible in display case glass, no text or letters visible"
+    background: "Modern museum setting with climate-controlled display cases, educational exhibits about Renaissance technology and religious art"
+    atmosphere: "Reverent preservation, technological wonder spanning centuries, bridge between Renaissance faith and modern scientific understanding, eternal devotion transcending time"
   composition:
-    cameraAngle: "Close-up shot emphasizing the automaton's continued operation"
-    focus: "The mechanical monk still performing its prayer sequence after 450 years"
-    depth: "Foreground: the active automaton in its display case; middle: museum lighting and glass; background: modern museum setting and other exhibits, no text or letters visible"
+    cameraAngle: "Close-up through museum display glass showing detailed view of the still-functioning automaton"
+    focus: "The mechanical monk's continued prayer performance demonstrating 460 years of unbroken devotion"
+    depth: "Foreground shows museum display case, middle ground captures the functioning automaton, background shows modern museum exhibits and visitors"

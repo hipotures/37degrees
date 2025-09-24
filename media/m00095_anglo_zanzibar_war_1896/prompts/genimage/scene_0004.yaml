@@ -1,25 +1,32 @@
 sceneDescription:
   setting:
-    time: August 27, 1896, late morning
-    location: Palace grounds facing harbor, Stone Town
-    weather: Tropical heat intensifying under cloudless sky
+    time: August 27, 1896, 8:00 AM
+    location: Three-story white limestone palace on Mizingani Road waterfront, Stone Town, Zanzibar
+    weather: Clear tropical morning, light wind from east, temperature 28°C
   characters:
-  - appearance: Arab man, 35, dark skin, black beard, muscular build, battle-hardened expression
-    clothing: Military uniform with ammunition belt, traditional headwrap, combat boots
-    position: Crouched behind artillery piece
-    action: Defensive stance, directing gun placement and checking ammunition supplies
+  - appearance: Age 22, tall and lean build, dark eyes, neatly trimmed black beard, aristocratic bearing with sharp features
+      typical of Omani royal lineage
+    clothing: Traditional white Omani dishdasha with ornate gold embroidery, red fez cap with tassel, ceremonial curved dagger
+      (khanjar) at waist, royal insignia
+    position: Standing with defiant and proud posture, intense gaze
+    action: Confident gestures, showing no fear even under British ultimatum
   scene:
-    mainElements: Bronze cannons from 17th century mixed with modern field guns, positioned on palace grounds facing harbor
-    details: Ancient bronze cannons with decorative engravings alongside modern artillery pieces, sandbags hastily arranged
-      for protection, ammunition stacks, gun crews preparing positions, palm trees providing some cover, coral stone walls
-      of palace behind defensive line
-    background: British warships clearly visible in harbor, Stone Town buildings and narrow streets beyond palace walls
-    atmosphere: Desperate preparation for unequal battle, mixing old and new weapons, determined last stand against overwhelming
-      odds, no text or letters visible
+    mainElements: Castellated battlements, coral stone walls, marble floors, ornate arched windows, covered passages to adjacent
+      buildings, central courtyard with fountain
+    details: Official Royal Navy letterhead, handwritten in black ink, wax seal, delivered by naval officer demanding immediate
+      evacuation by 9:00 AM August 27, threat of bombardment if refused. Palace courtyard with armed supporters, defensive
+      preparations visible, obsolete bronze and iron cannons, various calibers from 6-12 pounders, wheeled carriages, black
+      powder charges, decorative royal crests positioned at strategic points
+    background: Stone Town buildings, British warships visible in harbor through palace windows, tropical morning light illuminating
+      coral stone architecture
+    atmosphere: Humid tropical heat, scent of spices from nearby markets, sound of waves against the seawall, final moment
+      of diplomatic tension before inevitable conflict, defiant determination against overwhelming odds, no text or letters
+      visible
   composition:
-    cameraAngle: Low angle shot emphasizing artillery and defensive preparations
-    focus: Artillery pieces and defenders preparing for battle
-    depth: Artillery positions in foreground, palace buildings in middle ground, British fleet visible in background
+    cameraAngle: Medium shot focusing on ultimatum delivery scene
+    focus: Character KB receiving ultimatum, palace defensive preparations, British naval officer
+    depth: 'Foreground: ultimatum delivery and Character KB''s defiant response, middle: palace courtyard with defensive positions,
+      background: harbor with British fleet through windows'
 visualElements:
   colorPalette:
     primary:

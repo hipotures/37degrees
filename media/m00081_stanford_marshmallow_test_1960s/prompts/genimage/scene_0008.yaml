@@ -1,33 +1,32 @@
 sceneDescription:
   setting:
-    time: 1968, afternoon, controlled room lighting
-    location: Small, sparse testing room at Stanford University's Bing Nursery School
-    weather: Indoor controlled environment
+    time: 1972, end of experimental sessions showing contrasting results
+    location: Small windowless room approximately 10x10 feet inside Bing Nursery School, showing split-screen comparison
+    weather: Controlled indoor environment with consistent lighting for both scenarios
   characters:
-  - appearance: Caucasian man, 40s, slender build, dark hair, thoughtful eyes, intellectual appearance
-    clothing: '1960s academic attire: brown tweed jacket with elbow patches, white dress shirt, dark tie, dress pants'
-    position: Entering through door, carrying second marshmallow on plate
-    action: Returning after 15-minute wait period, observing that child successfully resisted temptation, preparing to reward
-      delayed gratification
-  - appearance: 5-year-old child, Caucasian, determined expression, slightly taller than typical 4-year-old
-    clothing: '1960s children''s attire: collared shirt and pants or simple dress, neat appearance'
-    position: Still sitting in chair, looking up expectantly
-    action: Having waited successfully, turning toward returning researcher with anticipation and pride, original marshmallow
-      still untouched
+  - appearance: 4-year-old child, various ethnicities, focused expression, small hands folded or covering eyes
+    clothing: Late 1960s children's clothing - simple dresses for girls, short pants and button shirts for boys
+    position: Seated at small table, successfully waited 15 minutes
+    action: Sitting proudly with both marshmallows as researcher returns, demonstrating successful delayed gratification
+  - appearance: 3-5 years old child, various ethnicities, expressive face showing desire and decision-making process
+    clothing: Similar period children's attire, sometimes with treat crumbs or sticky fingers
+    position: At same type of testing table in identical room setup
+    action: Eating the marshmallow within first few minutes, showing natural impulsive childhood response
   scene:
-    mainElements: Triumphant moment of successful delayed gratification, researcher returning with promised reward, original
-      marshmallow still on plate
-    details: Original white marshmallow still on plate showing successful self-control, researcher carrying second marshmallow
-      as promised reward, child's expression of achievement and anticipation
-    background: Same testing room where remarkable display of willpower occurred, door open showing researcher's return, timer
-      having completed 15-minute period
-    atmosphere: Victory of self-control and delayed gratification, validation of child's patience, historic moment in understanding
-      human willpower development, no text or letters visible
+    mainElements: Two identical testing setups showing contrasting outcomes - successful delay versus immediate consumption
+    details: Left side shows successful child with two marshmallows as reward for waiting full 15 minutes, right side shows
+      child who ate the single marshmallow within 3-4 minutes. Standard white marshmallows, approximately 1 inch diameter,
+      on small white ceramic plates. Small hand bells visible in both scenarios, timer showing different outcomes
+    background: Identical neutral testing rooms with one-way mirrors, same controlled environment highlighting the different
+      behavioral outcomes
+    atmosphere: Scientific documentation of fundamental individual differences in self-control, dramatic contrast between
+      delayed gratification success and immediate consumption, researchers discovering key insights about human behavior variation,
+      no text or letters visible
   composition:
-    cameraAngle: Medium shot capturing both researcher and child
-    focus: Researcher returning with reward, child's successful wait, untouched marshmallow as proof
-    depth: 'Foreground: child and original marshmallow, middle: researcher with second marshmallow, background: testing room
-      environment'
+    cameraAngle: Split-screen or side-by-side comparison shot
+    focus: Contrasting outcomes between patient child with two marshmallows and child who consumed the treat early
+    depth: Foreground shows marshmallow plates with different outcomes, middle ground features children with contrasting expressions,
+      background displays identical testing environments
 visualElements:
   colorPalette:
     primary:

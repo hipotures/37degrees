@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Parliament Voting to Repeal Window Tax"
+  setting:
+    time: "July 24, 1851, afternoon"
+    location: "House of Commons chamber, Palace of Westminster, London, England"
+    weather: "Bright summer day"
+  characters:
+    - appearance: "Multiple Caucasian men, 30s-70s, varied builds, mix of relieved and celebratory expressions"
+      clothing: "Formal dark parliamentary coats, white shirts, varied styles of cravats and waistcoats"
+      position: "Seated on wooden benches throughout chamber, some standing in celebration"
+      action: "Voting by raising hands, applauding, shaking hands in celebration of repeal"
+    - appearance: "Caucasian man, 50s, distinguished bearing, relieved expression"
+      clothing: "Black formal coat, white powdered wig, ornate vest with watch chain"
+      position: "Standing at speaker's podium"
+      action: "Announcing the successful vote for tax repeal with ceremonial gavel raised"
+  scene:
+    mainElements: "Wooden benches arranged in opposing rows, ornate carved speaker's chair, royal coat of arms, formal voting session"
+    details: "Bright summer sunlight streaming through tall Gothic windows, formal parliamentary documents scattered on benches, ceremonial voting procedures in progress, wooden gavel at speaker's podium, ornate oil lamps supplementing natural light, heavy wooden paneling with royal insignia, formal parliamentary regalia, celebration atmosphere among members"
+    background: "Gothic stone architecture with high arched ceiling, royal portraits in gilt frames, ceremonial banners, historic parliamentary chamber"
+    atmosphere: "Historic moment of legislative change, celebration of policy reversal, formal governmental proceedings, bright natural lighting emphasizing positive outcome, democratic resolution to long-standing social problem, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from gallery perspective capturing full chamber"
+    focus: "Celebratory parliamentary vote officially ending window taxation"
+    depth: "Speaker announcing repeal in foreground, celebrating parliamentarians in middle ground, historic Gothic chamber architecture in background"

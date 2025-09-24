@@ -1,28 +1,24 @@
 sceneDescription:
   setting:
-    time: March 13, 1997, 7:55 PM MST, night sky
-    location: Henderson, Nevada area near Arizona border, desert terrain
-    weather: Clear night sky with excellent visibility
-  characters:
-  - appearance: Family group of 3-4 people, mixed ages from children to adults, suburban residents
-    clothing: Casual evening wear, light sweaters, t-shirts, jeans appropriate for cool March desert evening
-    position: Standing in residential yard pointing upward at night sky
-    action: Looking up in amazement, adults pointing toward formation while children gather close
+    time: March 13, 1997, 8:00 PM MST, desert night
+    location: Nevada-Arizona border region, vast desert landscape under starlit sky
+    weather: Crystal clear desert night, perfect visibility
+  characters: No characters present in this scene
   scene:
-    mainElements: Five to seven bright red-orange or white orb-like lights arranged in symmetric V or boomerang shape, maintaining
-      fixed formation while moving slowly across night sky, completely silent movement
-    details: Large V-shaped formation of brilliant lights moving steadily southeast across star-filled desert sky, lights
-      maintain perfect geometric formation with equal spacing, surrounding neighborhood houses with outdoor lights illuminated,
-      family members clearly visible pointing and watching in wonder, no aircraft sound audible, formation appears massive
-      against starfield, no text or letters visible
-    background: Dark desert landscape stretching to horizon, residential area with scattered house lights, star-filled night
-      sky
-    atmosphere: Sense of awe and mystery as witnesses observe unprecedented aerial phenomenon in complete silence
+    mainElements: Perfect V-shaped arrangement of six to seven amber-orange lights, estimated 1-2 miles wide, maintaining
+      precise geometric formation, completely silent operation, lights appearing as steady non-blinking points
+    details: Desert landscape below shows scattered rock formations, sparse vegetation, and distant highway lights creating
+      thin lines across valley floor, mountain ranges silhouetted against star-filled sky, formation moving southeast at steady
+      pace maintaining perfect V-shape geometry, no text or letters visible
+    background: Star-filled desert night sky, distant mountain ranges creating layered silhouettes, scattered lights from
+      small desert communities far below
+    atmosphere: Profound silence despite massive scale of phenomenon, sense of otherworldly presence crossing familiar landscape,
+      mysterious and awe-inspiring display against pristine desert night
   composition:
-    cameraAngle: Low angle looking up from residential yard toward formation in night sky
-    focus: Brilliant V-formation lights as central element with human witnesses below
-    depth: Foreground shows family observers, middle ground captures residential setting, background dominated by formation
-      against starfield
+    cameraAngle: High altitude aerial perspective showing formation against landscape
+    focus: V-shaped light formation as central dramatic element
+    depth: Foreground shows detailed light formation, middle ground shows desert terrain below, background shows starlit sky
+      and distant mountains
 visualElements:
   colorPalette:
     primary:

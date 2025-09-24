@@ -1,0 +1,80 @@
+canon:
+  characters:
+    - id: "character_KB"
+      name: "Character KB"
+      description_block: |
+        characters:
+          - appearance: "Arab man, 29 years old, olive skin, dark beard, intense determined eyes, medium build"
+            clothing: "Traditional Omani white thobe with ornate ceremonial belt, ceremonial curved dagger at waist"
+            posture: "Commanding presence, often gesturing with authority or standing with arms crossed"
+    - id: "character_HR"
+      name: "Character HR"
+      description_block: |
+        characters:
+          - appearance: "British man, 50s, weathered face, gray mustache, stocky naval build, stern expression"
+            clothing: "Royal Navy uniform with gold braid, white tropical helmet, black leather belt"
+            posture: "Military bearing, often hands clasped behind back or pointing at maps"
+    - id: "character_BC"
+      name: "Character BC"
+      description_block: |
+        characters:
+          - appearance: "British man, 40s, pale complexion, thin build, diplomatic bearing, wire-rimmed spectacles"
+            clothing: "Colonial administrator white linen suit, pith helmet, leather satchel"
+            posture: "Formal diplomatic stance, often consulting documents or adjusting spectacles"
+    - id: "character_LM"
+      name: "Character LM"
+      description_block: |
+        characters:
+          - appearance: "British man, 45, tan complexion, military mustache, tall lean frame, alert eyes"
+            clothing: "Zanzibar army uniform with British military insignia, tropical sun helmet"
+            posture: "Officer bearing, often pointing commands or studying battlefield positions"
+    - id: "character_CS"
+      name: "Character CS"
+      description_block: |
+        characters:
+          - appearance: "Arab man, 35, dark skin, black beard, muscular build, battle-hardened expression"
+            clothing: "Military uniform with ammunition belt, traditional headwrap, combat boots"
+            posture: "Defensive stance, often crouched behind artillery or directing gun placement"
+  locations:
+    - id: "zanzibar_palace"
+      name: "Zanzibar Palace Complex"
+      description_block: |
+        setting:
+          location: "Sultan's palace complex in Zanzibar Town, Stone Town district"
+        mainElements: "Three-story timber palace building with ornate carved balconies and Arabic architectural details"
+        atmosphere: "Tropical harbor setting with humid air, palm trees, coral stone buildings"
+    - id: "zanzibar_harbor"
+      name: "Zanzibar Harbor"
+      description_block: |
+        setting:
+          location: "Natural harbor facing Stone Town waterfront, Zanzibar Island"
+        mainElements: "Deep blue harbor waters with traditional dhow boats and British warships anchored"
+        atmosphere: "Busy maritime environment with tropical heat, ocean breeze, seabirds overhead"
+    - id: "house_of_wonders"
+      name: "House of Wonders"
+      description_block: |
+        setting:
+          location: "Beit al-Ajaib ceremonial building adjacent to palace, Stone Town"
+        mainElements: "Four-story white coral stone building with clock tower and ornate verandas"
+        atmosphere: "Impressive ceremonial architecture representing Zanzibar's wealth and power"
+  items:
+    - id: "royal_yacht_glasgow"
+      name: "Royal Yacht Glasgow"
+      description_block: |
+        details: "Wooden steam yacht with single smokestack, painted white with gold trim, flying Zanzibar flag"
+    - id: "maxim_machine_guns"
+      name: "Maxim Machine Guns"
+      description_block: |
+        details: "British-made Maxim guns mounted on wheeled carriages, water-cooled barrels, ammunition belts"
+    - id: "british_warships"
+      name: "British Naval Vessels"
+      description_block: |
+        details: "Gray steel warships with multiple gun turrets, smoke stacks, naval flags, anchored in formation"
+    - id: "palace_artillery"
+      name: "Palace Artillery"
+      description_block: |
+        details: "Bronze cannons from 17th century mixed with modern field guns, positioned on palace grounds"
+    - id: "zanzibar_flag"
+      name: "Zanzibar Royal Flag"
+      description_block: |
+        details: "Red rectangular flag with white border, flying from palace flagpole"

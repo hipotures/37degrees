@@ -1,0 +1,94 @@
+canon:
+  characters:
+    - id: "character_FM"
+      name: "Fujianese Merchant"
+      description_block: |
+        characters:
+          - appearance: "Chinese man, 40s, weathered face from sea voyages, sharp intelligent eyes, lean build from travel"
+            clothing: "Dark blue silk tunic with traditional Chinese collar, wide-legged pants, fabric belt, worn leather boots"
+            posture: "Confident stance with hands often gesturing while explaining goods, experienced in trade negotiations"
+    - id: "character_BT"
+      name: "British Trader"
+      description_block: |
+        characters:
+          - appearance: "English man, 30s, pale complexion, brown hair, mustache, sturdy build, curious expression"
+            clothing: "17th century brown wool coat with brass buttons, white linen shirt, dark breeches, tall leather boots"
+            posture: "Attentive listener, often leaning forward with interest, notebook and quill frequently in hand"
+    - id: "character_VF"
+      name: "Vietnamese Fisherman"
+      description_block: |
+        characters:
+          - appearance: "Southeast Asian man, 50s, sun-darkened skin, strong arms from hauling nets, calm demeanor"
+            clothing: "Simple brown cotton shirt, rolled-up pants, wide conical hat, bare feet or simple sandals"
+            posture: "Steady movements from years of boat work, often holding or examining fish or fermentation vessels"
+    - id: "character_DF"
+      name: "Dutch Factor"
+      description_block: |
+        characters:
+          - appearance: "Dutch man, 35s, blonde hair, fair skin, beard, merchant's shrewd eyes, solid build"
+            clothing: "Black wool coat with silver buttons, white ruffled collar, dark breeches, polished black shoes"
+            posture: "Authoritative bearing, often standing with hands clasped behind back, examining goods critically"
+    - id: "character_CC"
+      name: "Chinese Cook"
+      description_block: |
+        characters:
+          - appearance: "Chinese woman, 40s, efficient movements, hair in traditional bun, practical demeanor"
+            clothing: "Simple gray cotton tunic, wide pants, white apron, cloth shoes, sleeves often rolled up"
+            posture: "Busy hands always working, stirring, chopping, tasting, confident in kitchen environment"
+  locations:
+    - id: "fujian_coastal_village"
+      name: "Fujian Coastal Fishing Village"
+      description_block: |
+        setting:
+          location: "Traditional Chinese fishing village on Fujian coast, South China Sea, 17th century"
+        mainElements: "Wooden fishing boats with curved hulls, bamboo drying racks, stone quay, traditional houses with curved tile roofs"
+        atmosphere: "Bustling maritime activity with salt air and fish processing scents"
+    - id: "southeast_asian_port"
+      name: "Southeast Asian Trading Port"
+      description_block: |
+        setting:
+          location: "Mekong River delta trading port, Vietnam, 17th century"
+        mainElements: "Stilted wooden houses over water, bamboo trading stalls, anchored junks and sampans, tropical vegetation"
+        atmosphere: "Humid tropical climate with vibrant trading activity and multicultural merchant interactions"
+    - id: "dutch_east_india_warehouse"
+      name: "Dutch East India Company Warehouse"
+      description_block: |
+        setting:
+          location: "VOC warehouse in Batavia (Jakarta), Dutch East Indies, 17th century"
+        mainElements: "Large stone warehouse with wooden beam ceiling, rows of ceramic jars and wooden crates, loading dock"
+        atmosphere: "Organized commercial efficiency with exotic spices and preserved goods from across Asia"
+    - id: "english_kitchen"
+      name: "17th Century English Kitchen"
+      description_block: |
+        setting:
+          location: "Large kitchen in English manor house, England, late 17th century"
+        mainElements: "Stone fireplace with hanging pots, wooden preparation tables, shelves of ceramic jars, herbs hanging from beams"
+        atmosphere: "Warm and busy domestic environment with attempts to recreate exotic Asian flavors"
+    - id: "anchovy_fishing_ground"
+      name: "Anchovy Fishing Waters"
+      description_block: |
+        setting:
+          location: "Coastal waters near Mekong River delta, Vietnam, early morning"
+        mainElements: "Traditional fishing boats with nets, calm water reflecting sunrise, distant shoreline with palm trees"
+        atmosphere: "Peaceful dawn fishing with silvery water and abundant marine life"
+  items:
+    - id: "ceramic_sauce_jar"
+      name: "Fermentation Jar"
+      description_block: |
+        details: "Large brown ceramic jar with narrow neck, cork stopper, dark liquid visible inside, traditional Chinese pottery with subtle glaze patterns"
+    - id: "fish_sauce_bottle"
+      name: "Glass Sauce Bottle"
+      description_block: |
+        details: "Clear glass bottle with cork stopper, amber-colored liquid inside, European-style bottle containing Asian fish sauce"
+    - id: "wooden_fermentation_vat"
+      name: "Wooden Fermentation Vat"
+      description_block: |
+        details: "Large wooden barrel with metal bands, partially open lid showing dark fermenting fish mixture, strong aromatic contents"
+    - id: "dried_anchovies"
+      name: "Salted Anchovies"
+      description_block: |
+        details: "Small silver fish laid out on bamboo mats for drying, covered with coarse sea salt, traditional preservation method"
+    - id: "spice_trading_ledger"
+      name: "Merchant's Record Book"
+      description_block: |
+        details: "Leather-bound ledger with brass clasps, thick parchment pages, quill pen and ink pot nearby, recording trade transactions"

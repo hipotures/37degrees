@@ -1,30 +1,35 @@
 sceneDescription:
   setting:
-    time: 1951, afternoon
-    location: Nevada Test Site, remote desert location 65 miles northwest of Las Vegas, Nevada
-    weather: Hot desert afternoon with clear skies
+    time: May 8, 1951, 8 hours after detonation
+    location: Nevada Test Site mobile film processing laboratory
+    weather: Clear desert day, late morning heat building
   characters:
-  - appearance: Caucasian man, 50s, medium build, intelligent eyes behind wire-rimmed glasses, receding hairline with graying
-      hair
-    clothing: 1950s white lab coat over dark suit, or casual work clothes with rolled sleeves
-    position: Standing behind primary camera checking alignment toward test tower
-    action: Adjusting camera positioning and verifying precise angular alignment for optimal nuclear explosion photography
-  - appearance: Caucasian man, 20s-30s, focused expression, practical appearance
-    clothing: 1950s work coveralls or casual shirt with protective equipment when needed
-    position: Crouched beside secondary camera installing electrical connections
-    action: Connecting timing control cables between cameras and central control system
+  - appearance: 50-year-old man, medium height, wire-rimmed glasses, receding hairline, kind face with intelligent eyes
+    clothing: 1950s white lab coat over pressed shirt and narrow tie, dress pants, practical leather shoes
+    position: Bent over light table examining developed photographs
+    action: Enthusiastic inventor personality, animated hand gestures when explaining technical concepts, focused intense
+      concentration when working
+  - appearance: 40s, tall thin build, dark hair, serious expression, precise movements typical of engineer
+    clothing: 1950s dark business suit, white shirt, conservative tie, polished shoes
+    position: Standing beside light table taking detailed measurements
+    action: Methodical engineering approach, careful note-taking, collaborative but detail-oriented work style
   scene:
-    mainElements: Vast desert landscape with mountains in distance, concrete observation bunkers, steel towers
-    details: Multiple rapatronic cameras mounted on steel framework, sequential timing arrangement, heavy-duty tripods, electrical
-      cables connecting each unit to central control, precision positioning equipment for exact angular measurements, protective
-      covers for sensitive optical components, test tower visible in distance, measuring stakes marking camera positions,
-      no text or letters visible
-    background: Desert floor with sparse vegetation, distant mountain ranges, nuclear test infrastructure
-    atmosphere: Isolated and barren, harsh desert conditions, sense of scientific importance and danger
+    mainElements: Mobile laboratory trailer with darkroom equipment, light tables, developing tanks, scientific instruments
+      for photograph analysis, ventilation systems, chemical storage
+    details: Black and white photographs showing nuclear fireball with distinctive bright spikes extending downward like irregular
+      streaks, spikes caused by vaporization of support cables, enhanced when cables painted black. Multiple photographs arranged
+      on light table showing sequential stages of fireball expansion, measuring instruments for calculating blast yields,
+      magnifying glasses for detailed examination, chemical development trays, timing charts correlating camera triggers with
+      blast phases. Scientists examining unprecedented detail captured in first 10 nanoseconds after nuclear detonation.
+    background: Interior of specialized film processing facility, fluorescent lighting, chemical odors, precise scientific
+      environment
+    atmosphere: Scientific breakthrough moment, revolutionary images revealing nuclear physics phenomena never before seen,
+      excitement of successful technological innovation
   composition:
-    cameraAngle: Medium wide shot showing camera array installation in progress
-    focus: Camera array with technicians making final positioning adjustments
-    depth: Camera equipment and personnel in foreground, test structures in middle distance, desert horizon in background
+    cameraAngle: Medium shot over light table showing photograph analysis
+    focus: Scientists examining rope trick effect photographs with measuring instruments
+    depth: 'Foreground: developed rapatronic photographs on light table, middle ground: scientists analyzing images, background:
+      laboratory equipment and processing facilities, no text or letters visible'
 visualElements:
   colorPalette:
     primary:

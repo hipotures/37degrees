@@ -1,76 +1,73 @@
 canon:
   characters:
-    - id: "character_organizer"
-      name: "Record Organizer"
+    - id: "faculty_organizers"
+      name: "Faculty Organizers"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 40s, authoritative presence, confident expression, short brown hair"
-            clothing: "Professional dark suit with university badge, formal dress shirt, tie"
-            posture: "Standing with clipboard, coordinating with authority and precision"
-    - id: "character_student1"
-      name: "Engineering Student 1"
+          - appearance: "Mix of faculty members and senior students, ages 25-45, wearing casual academic attire"
+            clothing: "University branded polo shirts, khaki pants, some wearing Krakow University of Technology faculty identification"
+            position: "Standing with clipboards and organizational equipment"
+            action: "Coordinating logistics and managing safety protocols with engineering precision"
+    - id: "student_participants"
+      name: "Engineering Students"
       description_block: |
         characters:
-          - appearance: "Young Caucasian man, early 20s, athletic build, determined expression"
-            clothing: "Casual university attire - jeans, university sweatshirt, sneakers"
-            posture: "Ready to participate, enthusiastic body language"
-    - id: "character_student2"
-      name: "Engineering Student 2"
+          - appearance: "Young adults aged 18-25, mix of male and female students, various builds optimized for space efficiency"
+            clothing: "Casual student attire - jeans, t-shirts, sneakers, many wearing university merchandise or faculty colors"
+            position: "Gathering in organized groups around the bus"
+            action: "Displaying typical student enthusiasm mixed with engineering determination"
+    - id: "guinness_adjudicator"
+      name: "Record Official"
       description_block: |
         characters:
-          - appearance: "Young Caucasian woman, early 20s, medium height, focused expression"
-            clothing: "Casual student outfit - dark pants, light top, comfortable shoes"
-            posture: "Cooperative and eager, following instructions carefully"
-    - id: "character_guinness_official"
-      name: "Guinness World Records Official"
-      description_block: |
-        characters:
-          - appearance: "Caucasian man, 50s, professional demeanor, observant eyes, glasses"
-            clothing: "Formal business suit, official Guinness World Records badge, measuring equipment"
-            posture: "Standing with measuring tools and official documentation, observing carefully"
-    - id: "character_bus_driver"
+          - appearance: "Professional adult, 30-50 years old, carrying official documentation and measuring equipment"
+            clothing: "Business casual attire with official credentials visible"
+            position: "Standing with measurement tools and documentation materials"
+            action: "Maintaining official neutrality while documenting record compliance"
+    - id: "bus_driver"
       name: "Bus Driver"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 40s, experienced look, calm expression, sturdy build"
-            clothing: "Official bus driver uniform - dark blue jacket, cap, professional appearance"
-            posture: "Seated at driver controls, maintaining professional composure"
+          - appearance: "Middle-aged professional driver, 35-55 years old, experienced city bus operator"
+            clothing: "Standard Polish public transportation uniform - dark blue or grey with company insignia"
+            position: "Seated in driver's compartment or standing near bus entrance"
+            action: "Focused on vehicle safety during the unusual passenger load"
   locations:
-    - id: "main_location_university"
-      name: "Krakow University of Technology Campus"
+    - id: "krakow_university_campus"
+      name: "Krakow University Campus"
       description_block: |
         setting:
-          location: "Campus courtyard of Faculty of Mechanical Engineering, Krakow University of Technology, Krakow, Poland"
-        mainElements: "University buildings with modern architecture, paved courtyard area with designated space for record attempt"
-        atmosphere: "Academic environment with excitement and anticipation for world record attempt"
-    - id: "location_bus_interior"
+          location: "Urban university campus in historic Krakow, featuring modern technical buildings mixed with traditional Polish architecture"
+        mainElements: "Large courtyard or designated area suitable for bus positioning, Faculty of Mechanical Engineering building visible in background, parking areas for media and observers"
+        atmosphere: "Bright spring morning in early June, clear weather suitable for outdoor activities, buzzing with student energy and anticipation"
+    - id: "record_attempt_zone"
+      name: "Bus Positioning Area"
+      description_block: |
+        setting:
+          location: "Designated flat area with 75-meter clear path for bus movement, marked start and finish points"
+        mainElements: "Single-decker city bus positioned as focal point, crowd control barriers, measurement markers for 75-meter distance, space for participants to gather"
+        atmosphere: "Controlled excitement, organized chaos of 229 people preparing to board, media documentation setup, safety officials monitoring"
+    - id: "bus_interior"
       name: "Bus Interior"
       description_block: |
         setting:
-          location: "Interior of standard single-decker public transport bus, unmodified"
-        mainElements: "Standard bus seating, handholds, windows, driver compartment, typical public transport interior layout"
-        atmosphere: "Crowded, cramped conditions with determined participants packed tightly together"
-    - id: "location_preparation_area"
-      name: "Pre-Record Preparation Area"
-      description_block: |
-        setting:
-          location: "Open area adjacent to university buildings, Krakow, Poland"
-        mainElements: "Gathering space with clear view of the bus, official registration tables, crowd control barriers"
-        atmosphere: "Organized anticipation with officials, students, and observers preparing for record attempt"
+          location: "Standard Polish city bus interior with seats, handholds, and limited standing space"
+        mainElements: "Original seating configuration, overhead handholds, driver partition, emergency exits, passenger windows providing limited visibility"
+        atmosphere: "Extremely cramped conditions with 229 people packed far beyond normal capacity, creating unprecedented human density"
   items:
-    - id: "key_item_bus"
-      name: "Record Bus"
+    - id: "unmodified_bus"
+      name: "Standard City Bus"
       description_block: |
-        details: "Standard single-decker public transport bus, unmodified, typical Polish city bus design with multiple windows and standard seating configuration"
-    - id: "key_item_clipboard"
-      name: "Official Record Documentation"
+        details: "Approximately 12-14 meters long, 2.55 meters wide, standard height around 3 meters, typical Polish public transportation vehicle with unmodified configuration per Guinness rules, normal seating capacity around 50 passengers, standing room typically for additional 50-55 people, manufacturer markings and route numbers visible"
+    - id: "measurement_equipment"
+      name: "Recording Devices"
       description_block: |
-        details: "Clipboard with official Guinness World Records documentation, participant count sheets, verification forms"
-    - id: "key_item_measuring_equipment"
-      name: "Measurement Tools"
+        details: "Measuring tape or laser measurement device for 75-meter distance, stopwatches or digital timers for 57-second journey duration, professional-grade measurement tools ensuring accurate documentation of record parameters"
+    - id: "participant_counter"
+      name: "Counting System"
       description_block: |
-        details: "Professional measuring equipment for verifying bus dimensions, participant counting devices, official timing equipment"
-    - id: "key_item_university_banner"
-      name: "University Identification"
+        details: "Manual counting system, possibly clickers or tally sheets, potentially digital counting devices for accurately verifying exactly 229 participants were inside the bus during the record attempt"
+    - id: "documentation_cameras"
+      name: "Recording Equipment"
       description_block: |
-        details: "Faculty of Mechanical Engineering banner or signage identifying the organizing institution"
+        details: "Professional cameras, video recording equipment, potentially elevated photography for overview shots, equipment used to create visual evidence of the record attempt for official record verification"

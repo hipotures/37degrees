@@ -1,102 +1,83 @@
 sceneDescription:
   setting:
-    time: December 2, 1932, evening
-    location: Military field headquarters tent near Campion, Western Australia
-    weather: Cool evening with oil lamps providing interior lighting
+    time: December 8, 1932, afternoon
+    location: Wheat fields near Campion District, Western Australia
+    weather: Hot summer conditions with dust and heat shimmer
   characters:
-  - appearance: Caucasian man, 40s, military bearing, stern face with mustache, weathered complexion from outdoor service
-    clothing: Australian military officer uniform 1930s, khaki tunic with brass buttons, peaked cap with insignia, polished
-      brown leather boots
-    position: Seated at field desk writing official reports
-    action: Reviewing battlefield statistics and casualty counts while preparing final assessment
-  - appearance: Caucasian man, 30s, sturdy build, alert expression, clean-shaven face
-    clothing: Australian military sergeant uniform 1930s, khaki tunic and trousers, military cap, leather belt with ammunition
-      pouches
-    position: Standing beside ammunition inventory
-    action: Counting remaining ammunition supplies and documenting usage rates
+  - appearance: Middle-aged British-Australian military officer, approximately 40s, clean-shaven with neat military bearing,
+      weathered face from Australian climate
+    clothing: Royal Australian Artillery dress uniform with major's insignia, khaki field uniform during operations, military
+      cap with artillery badge
+    position: Standing over fallen emu casualties, making notes in military field book
+    action: Documenting claimed casualties while examining emu bodies, recording precise figures for official military report
+  - appearance: Young soldier, early 20s to early 30s, strong build necessary for operating heavy weapons, alert expression
+    clothing: Royal Australian Artillery field uniform, gunner's insignia, practical military gear for field operations
+    position: Collecting spent ammunition casings from ground
+    action: Counting used ammunition for precise casualty-to-round ratio calculations, supporting official statistical claims
   scene:
-    mainElements: Canvas tents, military vehicles, equipment tables with Lewis guns and ammunition with detailed record-keeping
-      and battlefield assessment documentation
-    details: Field desk with maps showing engagement zones marked with tactical annotations. Ammunition count sheets showing
-      9,860 rounds expended. Tally marks indicating approximately 986 confirmed bird casualties. British Lewis light machine
-      guns, distinctive circular ammunition pans on top, bipod legs, wooden stocks showing wear from extended field use. Empty
-      ammunition boxes stacked systematically. Radio equipment for communication with headquarters. Oil lamps and lanterns
-      providing work lighting. Weather-beaten tent showing effects of extended campaign
-    background: Military field camp showing signs of prolonged operation, distant wheat fields still showing emu activity
-      despite military efforts
-    atmosphere: Mixed sense of tactical success and strategic failure, professional military assessment of unconventional
-      campaign, acknowledgment of enemy resilience and tactical superiority, no text or letters visible
+    mainElements: Several emu casualties scattered across wheat field, spent ammunition casings glinting in sunlight, Lewis
+      machine gun positions showing recent use, detailed military documentation in progress
+    details: Precise 10-round-per-kill evidence being manufactured through careful casualty counting and ammunition accounting,
+      suspiciously perfect statistical ratios being created, military officers focused on documentation rather than tactical
+      reality
+    background: Vast emu flocks still visible in distance continuing crop destruction, ongoing agricultural damage despite
+      claimed military success, wheat fields still showing extensive emu presence
+    atmosphere: Official military success being carefully constructed through selective evidence collection, disparity between
+      claimed achievements and visible reality, preparation of politically acceptable final report
   composition:
-    cameraAngle: Interior shot of military field headquarters showing detailed documentation
-    focus: The contrast between detailed military records and the limited impact on the emu population
-    depth: Foreground shows detailed military documentation and statistics, middle ground captures officers reviewing results,
-      background suggests the ongoing emu presence in the fields
+    cameraAngle: Medium shot showing documentation process with broader context
+    focus: Military officers documenting selective casualties while massive emu problems continue in background
+    depth: Officers counting casualties in foreground, limited tactical success in middle ground, continuing emu agricultural
+      destruction in distant background, no text or letters visible
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

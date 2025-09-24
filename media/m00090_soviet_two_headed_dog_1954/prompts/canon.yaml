@@ -1,87 +1,79 @@
 canon:
   characters:
-    - id: "character_VD"
-      name: "Character VD"
+    - id: "character_VPD"
+      name: "Character VPD"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 38 years old, dark hair slicked back, intense focused eyes behind wire-rim glasses, scholarly demeanor"
-            clothing: "White laboratory coat over dark suit vest and white shirt, medical gloves, professional surgical attire"
-            posture: "Methodical and precise, often leaning over examination table or adjusting medical instruments"
-    - id: "character_AS1"
-      name: "Character AS1"
+          - appearance: "42-year-old Caucasian man, medium build, serious facial expression with intense dark eyes, receding hairline, clean-shaven"
+            clothing: "White surgical coat over dark suit, surgical mask around neck, wire-rimmed glasses"
+            position: "Standing at operating table or examining surgical instruments"
+            action: "Methodical and precise movements, confident bearing, intense concentration during procedures"
+    - id: "character_MT"
+      name: "Character MT"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 45 years old, graying temples, serious expression, medical professional bearing"
-            clothing: "White laboratory coat, dark trousers, medical cap, sterile surgical mask around neck"
-            posture: "Observant stance, often standing with clipboard or taking notes, professional demeanor"
-    - id: "character_AS2"
-      name: "Character AS2"
+          - appearance: "Middle-aged Caucasian woman, stern features, hair pulled back in neat bun, focused expression"
+            clothing: "White surgical scrubs, surgical cap, rubber gloves"
+            position: "Assisting at surgical table or monitoring equipment"
+            action: "Efficient and methodical movements, calm under pressure, devoted to scientific precision"
+    - id: "character_VI"
+      name: "Character VI"
       description_block: |
         characters:
-          - appearance: "Caucasian woman, 35 years old, brown hair pinned back, attentive expression, medical professional"
-            clothing: "White nursing uniform, medical cap, practical flat shoes, sterile gloves"
-            posture: "Attentive and ready to assist, often preparing medical instruments or monitoring equipment"
-    - id: "character_AS3"
-      name: "Character AS3"
+          - appearance: "Young Caucasian man in his 20s, thin build, serious expression, attentive demeanor"
+            clothing: "White laboratory coat, surgical gloves, protective eyewear"
+            position: "Operating equipment or preparing instruments"
+            action: "Nervous but dedicated movements, careful with equipment and procedures"
+    - id: "character_AV"
+      name: "Character AV"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 42 years old, balding with thick mustache, studious appearance, academic bearing"
-            clothing: "Dark suit with vest, white shirt, tie, occasionally white laboratory coat for observations"
-            posture: "Scholarly observer, often holding pen and notepad, standing at distance to document procedures"
+          - appearance: "Distinguished older Caucasian man, gray hair, authoritative presence, evaluating expression"
+            clothing: "Dark formal suit, medical insignia, observer position"
+            position: "Seated in observation area or standing at demonstration"
+            action: "Stern evaluation, mixture of awe and concern, scientific skepticism"
   locations:
-    - id: "moscow_surgical_institute"
-      name: "Moscow Surgical Institute"
+    - id: "moscow_surgical_lab"
+      name: "Moscow Institute of Surgery Laboratory"
       description_block: |
         setting:
-          location: "Moscow Institute of Surgery, main laboratory complex, Soviet Union"
-        mainElements: "Large institutional brick building with multiple stories, Soviet architectural style from 1940s-1950s"
-        atmosphere: "Austere medical facility with serious academic atmosphere, cold Moscow winter setting"
-    - id: "main_operating_theater"
-      name: "Main Operating Theater"
+          location: "Sterile surgical laboratory on outskirts of Moscow, institutional Soviet building"
+        mainElements: "Operating table with restraints, primitive surgical lighting, glass cabinets with instruments, observation windows"
+        details: "Concrete walls painted institutional green, medical equipment from 1950s era, steel surgical instruments, glass syringes, monitoring devices"
+        background: "Clinical environment with harsh fluorescent lighting, smell of disinfectant and ether, sounds of medical equipment humming"
+        atmosphere: "Cold, sterile atmosphere of scientific experimentation, tension of groundbreaking medical procedure"
+    - id: "moscow_conference_hall"
+      name: "All-Union Conference of Surgeons Venue"
       description_block: |
         setting:
-          location: "Sterile surgical operating room, Moscow Institute of Surgery"
-        mainElements: "White tiled walls, bright overhead surgical lamps, metal operating table, medical equipment cabinets"
-        atmosphere: "Clinical sterile environment with intense focused lighting, serious medical atmosphere"
-    - id: "laboratory_preparation_room"
-      name: "Laboratory Preparation Room"
+          location: "Large auditorium in Moscow medical facility, tiered seating arrangement"
+        mainElements: "Stage with demonstration table, projection screens, formal Soviet institutional architecture"
+        details: "Red banners with medical symbols, formal academic seating, bright stage lighting, microphone equipment"
+        background: "Tiered audience seating filled with medical professionals, Soviet institutional decor"
+        atmosphere: "Formal academic setting, hushed audience anticipation, mixture of scientific curiosity and ethical concern"
+    - id: "recovery_room"
+      name: "Post-Operative Recovery Room"
       description_block: |
         setting:
-          location: "Medical preparation laboratory, Moscow Institute of Surgery"
-        mainElements: "Metal tables with medical instruments, glass cabinets with supplies, monitoring equipment"
-        atmosphere: "Organized medical workspace with methodical scientific atmosphere"
-    - id: "observation_room"
-      name: "Observation Room"
-      description_block: |
-        setting:
-          location: "Medical observation chamber with viewing window, Moscow Institute of Surgery"
-        mainElements: "Glass partition window, rows of chairs, note-taking desks, medical charts on walls"
-        atmosphere: "Academic observation space with serious scholarly environment"
-    - id: "animal_recovery_area"
-      name: "Animal Recovery Area"
-      description_block: |
-        setting:
-          location: "Medical recovery room for experimental animals, Moscow Institute of Surgery"
-        mainElements: "Metal cages with clean bedding, monitoring equipment, temperature controls, medical observation setup"
-        atmosphere: "Controlled medical environment for post-operative care and monitoring"
+          location: "Medical recovery room with monitoring equipment, Moscow Institute of Surgery"
+        mainElements: "Hospital bed with restraints, monitoring equipment, observation charts, medical supplies"
+        details: "Basic 1950s medical monitoring devices, clipboard with charts, water bowls, feeding apparatus"
+        background: "Simple institutional room with medical equipment, observation window, clinical furniture"
+        atmosphere: "Quiet medical monitoring environment, constant vigilance, scientific observation"
   items:
-    - id: "surgical_instruments_set"
-      name: "Surgical Instruments Set"
+    - id: "surgical_instruments_1954"
+      name: "1950s Soviet Surgical Equipment"
       description_block: |
-        details: "Precise steel surgical instruments including scalpels, forceps, clamps, and sutures laid out on sterile metal tray"
-    - id: "monitoring_equipment_1950s"
-      name: "1950s Monitoring Equipment"
+        details: "Primitive surgical tools including basic scalpels, forceps, silk sutures, simple clamps, glass syringes, Soviet-manufactured medical instruments with limited anesthesia equipment and basic monitoring devices"
+    - id: "vascular_sutures"
+      name: "Silk Thread Vascular Connections"
       description_block: |
-        details: "Early medical monitoring devices including basic heart rate monitors, temperature gauges, and pressure measurement tools typical of 1950s Soviet medical technology"
+        details: "Fine silk threads used to connect carotid arteries and jugular veins, hand-tied sutures creating blood vessel anastomosis, multiple connection points between donor and host specimens"
     - id: "medical_documentation"
-      name: "Medical Documentation"
+      name: "Soviet Medical Research Documentation"
       description_block: |
-        details: "Scientific notebooks, medical charts, and documentation papers with handwritten observations and measurements, no text or letters visible"
-    - id: "laboratory_glassware"
-      name: "Laboratory Glassware"
+        details: "Official Soviet medical journal papers, research documentation with Cyrillic text, black and white photographs of procedures, scientific methodology reports and results documentation"
+    - id: "experimental_subjects"
+      name: "Laboratory Animal Specimens"
       description_block: |
-        details: "Medical laboratory equipment including glass beakers, test tubes, measurement containers, and scientific apparatus for medical procedures"
-    - id: "surgical_lighting_system"
-      name: "Surgical Lighting System"
-      description_block: |
-        details: "Bright overhead surgical lamps with adjustable positioning arms, providing intense focused illumination for medical procedures"
+        details: "Large German Shepherd host animal with dark coat, approximately 4-5 years old, and small mixed-breed donor animal with light brown coat, both prepared for surgical procedure"

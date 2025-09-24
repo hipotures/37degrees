@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Kecksburg volunteer firefighters arrive at forest impact site"
+  setting:
+    time: "December 9, 1965, evening, full darkness"
+    location: "Small rural Pennsylvania village, population 200, 30 miles southeast of Pittsburgh"
+    weather: "Cold December night, clear sky with frost forming"
+  characters:
+    - appearance: "Young Caucasian man, 20s-30s, clean-shaven, determined expression"
+      clothing: "Black turnout coat with reflective stripes, black helmet, heavy boots, radio on belt"
+      position: "Standing beside fire truck, organizing equipment"
+      action: "Moving purposefully, carrying flashlight or equipment, professional stance"
+    - appearance: "Young Caucasian man, 20s-30s, clean-shaven, determined expression"
+      clothing: "Black turnout coat with reflective stripes, black helmet, heavy boots, radio on belt"
+      position: "Near rear of fire truck, checking equipment"
+      action: "Unloading emergency equipment, testing flashlight, preparing for forest search"
+  scene:
+    mainElements: "Single-story volunteer fire department building, two-bay garage, rural homes, narrow paved roads"
+    details: "1960s fire engine, red paint, chrome details, hose compartments, ladder mounted on top, volunteer fire department markings, emergency lights, firefighters preparing equipment in illuminated garage bay, rural village street with period houses, utility poles with power lines, frost beginning to form on vehicle surfaces, no text or letters visible"
+    background: "Quiet rural community disrupted by unusual military activity and emergency vehicles"
+    atmosphere: "Urgent but controlled emergency response in small rural community, professional volunteer firefighters preparing for unknown situation"
+  composition:
+    cameraAngle: "Wide shot showing fire station and firefighters preparing equipment"
+    focus: "Volunteer firefighters and red fire engine with emergency preparations"
+    depth: "Fire station building in background, firefighters and truck in middle ground, rural street extending into foreground"

@@ -1,97 +1,150 @@
 canon:
   characters:
-    - id: "character_WM"
-      name: "Character WM"
+    - id: "character_W3"
+      name: "Character W3"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 40s, regal bearing, long dark curly wig, thin mustache, determined expression"
-            clothing: "Royal blue velvet coat with gold embroidery, white lace cravat, ornate royal insignia"
-            posture: "Commanding presence, often seated on throne or standing with authoritative stance"
-    - id: "character_TA"
-      name: "Character TA"
+          - appearance: "Caucasian man, 46 years old, medium height, thin build, prominent nose, stern expression, royal bearing"
+            clothing: "Royal regalia with ornate military-styled coat, white powdered wig typical of 1696, ceremonial sword at side"
+            posture: "Authoritative stance, hands clasped behind back or gesturing commandingly, bearing weight of wartime leadership"
+    - id: "character_IN"
+      name: "Character IN"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 50s, thin build, sharp features, calculating eyes, stern expression"
-            clothing: "Black wool coat, white powdered wig, leather satchel, quill pen tucked behind ear"
-            posture: "Methodical movements, often holding documents or pointing at windows"
-    - id: "character_LF"
-      name: "Character LF"
+          - appearance: "Caucasian man, 54 years old, tall and thin, penetrating intelligent eyes, intellectual bearing, slightly stooped from study"
+            clothing: "Dark scholarly robes over simple white shirt, minimal ornamentation, practical attire befitting scientific work at the Mint"
+            posture: "Analytical stance, often hunched over calculations, methodical hand movements, absorbed in monetary theory"
+    - id: "character_WL"
+      name: "Character WL"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 35, medium build, worried expression, calloused hands"
-            clothing: "Brown woolen coat, simple white shirt, worn leather boots, no wig"
-            posture: "Protective stance, often gesturing toward family or examining documents with concern"
-    - id: "character_MW"
-      name: "Character MW"
+          - appearance: "Caucasian man, middle-aged, stocky build, worried expression, well-groomed, carries constant stress of financial crisis"
+            clothing: "Formal dark government coat, white powdered wig, carries leather portfolio, dress befitting Treasury Secretary"
+            posture: "Hurried movements, constantly consulting documents, urgent gestures, shoulders tense with responsibility"
+    - id: "character_CD"
+      name: "Character CD"
       description_block: |
         characters:
-          - appearance: "Caucasian woman, 30s, thin from hardship, tired eyes, caring demeanor"
-            clothing: "Dark brown wool dress, white linen cap, simple apron, worn shawl"
-            posture: "Nurturing gestures, often tending to children or looking anxiously at windows"
-    - id: "character_DR"
-      name: "Character DR"
+          - appearance: "Caucasian man, 38 years old, medium height, full dark beard, expressive penetrating eyes, passionate reformer"
+            clothing: "Victorian gentleman's dark coat, high white collar, pocket watch chain, formal but accessible attire"
+            posture: "Gesticulating while speaking, leaning forward intensely, pen in hand when writing, passionate concern for social justice"
+    - id: "character_WP"
+      name: "Character WP"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 60s, gray beard, kind but concerned expression, weathered hands"
-            clothing: "Dark green coat, white cravat, black medical bag, simple tricorn hat"
-            posture: "Leaning forward attentively, often examining patients or gesturing toward health concerns"
-    - id: "character_BW"
-      name: "Character BW"
+          - appearance: "Caucasian man, 38 years old, tall and thin, sharp angular features, intense calculating gaze, confident bearing"
+            clothing: "Prime ministerial formal dark coat, white cravat, powdered wig, elegant but austere dress of high office"
+            posture: "Confident stance, hands gesturing decisively, focused on papers, somewhat aloof and calculating manner"
+    - id: "window_assessor"
+      name: "Window Tax Assessor"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 40s, muscular build, dust-covered clothing, determined expression"
-            clothing: "Brown leather apron, rolled-up sleeves, work boots, tool belt"
-            posture: "Active working stance, carrying bricks or mortar, methodical movements"
+          - appearance: "Caucasian working-class man, weathered face from outdoor work, practical build, carries tools of his trade"
+            clothing: "Plain brown woolen coat, dark breeches, sturdy leather boots, wide-brimmed hat, leather satchel for records"
+            posture: "Methodical movements, slightly nervous awareness of public hostility, efficient in counting and recording"
+    - id: "poor_tenant"
+      name: "Poor Tenement Dweller"
+      description_block: |
+        characters:
+          - appearance: "Thin pale figure from lack of sunlight, worn appearance suggesting poor health, protective family demeanor"
+            clothing: "Patched and mended clothes, simple rough fabrics, dark earth tones, minimal possessions visible"
+            posture: "Resigned posture, frequent coughing, squinting in bright light, protective stance near family members"
+    - id: "wealthy_homeowner"
+      name: "Wealthy Property Owner"
+      description_block: |
+        characters:
+          - appearance: "Well-fed appearance, fine features, expensive grooming, confident bearing of upper class"
+            clothing: "Elegant Georgian gentleman's attire, fine fabrics, ornate buttons, powdered wig, silk stockings"
+            posture: "Contemplative stance when considering costs, authoritative when directing servants, refined mannerisms"
+    - id: "construction_worker"
+      name: "Mason/Construction Worker"
+      description_block: |
+        characters:
+          - appearance: "Strong build, calloused hands, dust-covered from masonry work, practical working appearance"
+            clothing: "Work clothes, leather apron, rolled sleeves, sturdy boots, tool belt with masonry implements"
+            posture: "Active work posture, lifting bricks, applying mortar, skilled hand movements, focused on construction task"
+
   locations:
-    - id: "parliament_chamber_1696"
-      name: "Parliament Chamber 1696"
+    - id: "royal_mint_london"
+      name: "Royal Mint, Tower of London"
       description_block: |
         setting:
-          location: "House of Commons chamber, Palace of Westminster, London, England"
-        mainElements: "Wooden benches arranged in opposing rows, ornate carved speaker's chair, royal coat of arms"
-        atmosphere: "Formal governmental setting with heavy wooden panels and ceremonial atmosphere"
-    - id: "royal_palace_office"
-      name: "Royal Palace Office"
+          location: "Royal Mint complex within Tower of London, medieval stone buildings, River Thames visible"
+        mainElements: "Coin presses and minting machinery, silver ingots stacked, furnaces with smoke, Newton's office with calculations"
+        atmosphere: "Busy industrial sounds of coin production, metallic clanging, smoke from furnaces, urgent wartime activity"
+    - id: "westminster_parliament"
+      name: "Palace of Westminster"
       description_block: |
         setting:
-          location: "Private royal office, Kensington Palace, London, England"
-        mainElements: "Ornate mahogany desk, royal throne chair, tall windows with heavy curtains, oil paintings"
-        atmosphere: "Luxurious royal setting with rich fabrics and golden accents"
-    - id: "london_townhouse_1696"
-      name: "London Townhouse 1696"
+          location: "House of Commons chamber, Palace of Westminster, Gothic stone architecture with wooden paneling"
+        mainElements: "Parliamentary benches, Speaker's chair, voting lobbies, document-covered tables, candlelit chamber"
+        atmosphere: "Formal debate atmosphere, echoing voices, tension during legislative discussions, shadows from candlelight"
+    - id: "london_tenement_interior"
+      name: "Poor London Tenement"
       description_block: |
         setting:
-          location: "Multi-story brick townhouse, Bloomsbury district, London, England"
-        mainElements: "Georgian brick facade, multiple tall sash windows, ornate front door, iron railings"
-        atmosphere: "Prosperous middle-class residence typical of late 17th century London"
-    - id: "working_class_tenement"
-      name: "Working Class Tenement"
+          location: "Cramped multi-story tenement building, narrow rooms, multiple families per floor"
+        mainElements: "Bricked-up window openings, dark cramped rooms, makeshift partitions, basic furniture, coal stove"
+        atmosphere: "Dim stuffy air, sounds of coughing and children, smell of coal smoke, overcrowded conditions"
+    - id: "georgian_townhouse"
+      name: "Wealthy Georgian Town House"
       description_block: |
         setting:
-          location: "Cramped tenement building, East End of London, England"
-        mainElements: "Narrow rooms with low ceilings, small windows, simple wooden furniture, shared spaces"
-        atmosphere: "Modest living conditions with limited natural light and basic furnishings"
+          location: "Elegant three-story Georgian townhouse with symmetrical facade, iron railings, stone steps"
+        mainElements: "Large sash windows (some bricked up), ornate stonework, well-furnished rooms, servants' areas"
+        atmosphere: "Contrast between well-lit rooms and dark blocked sections, sounds of household activity, refined elegance"
+    - id: "dickens_publishing_office"
+      name: "Household Words Magazine Office"
+      description_block: |
+        setting:
+          location: "Victorian publishing office with editorial desks, printing equipment nearby, gas lighting"
+        mainElements: "Writing desks covered with manuscripts, inkwells, printing press visible, window overlooking London street"
+        atmosphere: "Intellectual energy, smell of ink and paper, busy editorial work, reformist urgency"
     - id: "london_street_1696"
-      name: "London Street 1696"
+      name: "London Street, 1696"
       description_block: |
         setting:
-          location: "Cobblestone street, central London, England"
-        mainElements: "Rows of brick buildings, horse-drawn carriages, street vendors, mud and refuse"
-        atmosphere: "Bustling urban environment with period architecture and daily commercial activity"
+          location: "Cobblestone street in London, mix of Tudor and newer buildings, narrow urban thoroughfare"
+        mainElements: "Buildings with various window configurations, horse-drawn carts, pedestrians, shop fronts"
+        atmosphere: "Urban bustle, clip-clop of horses, street vendors calling, mix of social classes on street"
+    - id: "masonry_workshop"
+      name: "Mason's Workshop"
+      description_block: |
+        setting:
+          location: "Stone mason's workshop with brick supplies, tools, workbenches"
+        mainElements: "Stacks of bricks, mortar mixing areas, masonry tools, partially completed window blocking work"
+        atmosphere: "Dusty work environment, sounds of chiseling and construction, industrious craftsman activity"
+
   items:
-    - id: "window_tax_notice"
-      name: "Window Tax Notice"
+    - id: "clipped_silver_coins"
+      name: "Clipped Silver Coins"
       description_block: |
-        details: "Official parchment document with royal seal, formal black ink text, government insignia, tax amount calculations"
-    - id: "bricks_and_mortar"
-      name: "Bricks and Mortar"
+        details: "Silver coins with edges deliberately shaved off, irregular shapes, reduced weight, rough edges where milling marks removed, face value no longer matching metal content"
+    - id: "window_tax_documents"
+      name: "Window Tax Assessment Papers"
       description_block: |
-        details: "Red clay bricks, gray mortar mixture, wooden trowel, wheelbarrow for transport, construction materials"
-    - id: "medical_bag_1696"
-      name: "Medical Bag 1696"
+        details: "Official government papers with property assessments, collector signatures, window counts, tax amounts, government seals and stamps"
+    - id: "bricked_window_opening"
+      name: "Bricked-up Window"
       description_block: |
-        details: "Black leather physician's bag, glass vials, metal instruments, cloth bandages, period medical tools"
-    - id: "royal_tax_proposal"
-      name: "Royal Tax Proposal"
+        details: "Window opening filled with bricks and mortar, rectangular outline still visible, different colored bricks from original wall, sometimes with chalk protest graffiti"
+    - id: "mint_machinery"
+      name: "Royal Mint Coin Press"
       description_block: |
-        details: "Formal government document with wax seal, detailed tax calculations, legislative proposal text, official formatting"
+        details: "Large iron mechanical press with hand-operated wheel, capable of producing uniform milled coins, Newton's technological improvements visible in design"
+    - id: "assessor_tools"
+      name: "Tax Assessor's Equipment"
+      description_block: |
+        details: "Leather satchel, counting sheets with property addresses, quill pen and ink, small telescope for viewing distant windows, official government forms"
+    - id: "household_words_magazine"
+      name: "Household Words Publication"
+      description_block: |
+        details: "Victorian periodical with multiple pages, clear typography, contains reform articles about window tax, published by Dickens' editorial house"
+    - id: "masonry_tools"
+      name: "Mason's Tools"
+      description_block: |
+        details: "Trowel, mortar bucket, spirit level, bricks, hammer and chisel, measuring tools for precise window blocking work"
+    - id: "parliamentary_documents"
+      name: "Parliamentary Legislation"
+      description_block: |
+        details: "Official government documents, Window Tax Act papers, wax seals, formal legislative language, parchment with official signatures"

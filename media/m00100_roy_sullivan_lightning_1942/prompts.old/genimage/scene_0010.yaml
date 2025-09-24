@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1980, summer
+    location: Mountain restaurant in Shenandoah National Park area
+    weather: Overcast day with tourists avoiding storm-famous ranger
+  characters:
+  - appearance: American man, 68, brawny build resembling Gene Hackman, rugged weathered face, lonely expression
+    clothing: US Park Service uniform with ranger hat, work boots, utility belt, carrying water can
+    position: Standing outside restaurant being refused entry
+    action: Resigned acceptance of social isolation due to lightning reputation
+  - appearance: American man, 40s, typical park ranger appearance, nervous around storms
+    clothing: Standard Park Service uniform with ranger equipment
+    position: Walking away from storm-famous colleague
+    action: Professional but increasingly wary, keeping distance from lightning-attracting colleague
+  scene:
+    mainElements: Mountain restaurant with staff and customers avoiding world-famous lightning survivor
+    details: Restaurant staff politely refusing entry to lightning-famous ranger during overcast weather, tourists and locals
+      maintaining respectful distance from human lightning rod, fellow park ranger diplomatically departing when clouds appear,
+      social isolation resulting from extraordinary survival fame, lonely figure carrying water can for emergency hair fires
+    background: Loft Mountain restaurant area in Shenandoah region, overcast sky causing public nervousness, beautiful mountain
+      scenery
+    atmosphere: Tragic social isolation resulting from extraordinary survival abilities, fame becoming curse rather than blessing,
+      public fear of lightning association, lonely end to remarkable survival story, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing social isolation of lightning survivor
+    focus: Social consequences of extraordinary survival fame
+    depth: Isolated ranger in foreground, restaurant and departing people in middle ground, overcast Shenandoah mountains
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

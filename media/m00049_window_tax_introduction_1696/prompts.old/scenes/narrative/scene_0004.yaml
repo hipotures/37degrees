@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Family Receives Window Tax Assessment Notice"
+  setting:
+    time: "1697, afternoon"
+    location: "Cramped tenement building, East End of London, England"
+    weather: "Overcast day"
+  characters:
+    - appearance: "Caucasian man, 35, medium build, worried expression, calloused hands"
+      clothing: "Brown woolen coat, simple white shirt, worn leather boots, no wig"
+      position: "Standing in doorway holding official document"
+      action: "Reading tax notice with growing alarm and concern"
+    - appearance: "Caucasian woman, 30s, thin from hardship, tired eyes, caring demeanor"
+      clothing: "Dark brown wool dress, white linen cap, simple apron, worn shawl"
+      position: "Standing beside husband looking over his shoulder"
+      action: "Peering anxiously at document while wrapping shawl tighter around shoulders"
+    - appearance: "Two young children, 5-8 years old, curious expressions"
+      clothing: "Simple wool clothing, patched and mended"
+      position: "Standing behind parents in narrow doorway"
+      action: "Looking up at parents with confused expressions about adult concerns"
+  scene:
+    mainElements: "Narrow rooms with low ceilings, small windows, simple wooden furniture, shared corridor spaces"
+    details: "Official parchment document with royal seal, modest wooden table with family possessions, oil lamp providing dim light, worn wooden floor, simple cooking hearth, small window letting in gray daylight, family's meager belongings visible in background"
+    background: "Modest living conditions with limited natural light and basic furnishings, narrow hallway leading to other tenant rooms"
+    atmosphere: "Financial anxiety and worry, modest working-class home, family concerned about new tax burden, dim lighting emphasizing humble circumstances, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from inside room looking toward doorway"
+    focus: "Family gathered around official tax assessment document"
+    depth: "Family reading notice in foreground, modest room interior in middle ground, narrow tenement hallway in background"

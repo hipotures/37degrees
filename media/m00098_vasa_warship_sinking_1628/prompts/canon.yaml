@@ -4,70 +4,85 @@ canon:
       name: "Character GA"
       description_block: |
         characters:
-          - appearance: "Swedish man, 34, tall imposing royal bearing, blonde hair, regal mustache"
-            clothing: "17th century royal Swedish military attire with golden embroidery, ceremonial sword, crown or royal hat"
-            posture: "Commanding royal presence, often pointing at ship plans or issuing royal commands"
+          - appearance: "Tall, commanding presence at age 33, fair hair, piercing blue eyes, strong jaw, military bearing despite royal status"
+            clothing: "Rich royal blue velvet doublet with gold embroidery, white lace collar, leather military boots, ceremonial sword at side"
+            position: "Standing with authoritative posture"
+            action: "Gesturing decisively while reviewing construction plans"
+    - id: "character_SH"
+      name: "Character SH"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged seaman, weathered face, graying beard, muscular build from years at sea, worried expression"
+            clothing: "Dark blue naval officer's coat with brass buttons, white shirt, black tricorn hat, leather belt with cutlass"
+            position: "Standing on ship's deck"
+            action: "Constantly checking rigging and sails, barking orders with growing urgency"
     - id: "character_HH"
       name: "Character HH"
       description_block: |
         characters:
-          - appearance: "Dutch man, 50s, master shipwright bearing, skilled craftsman hands, concerned expression"
-            clothing: "17th century master craftsman attire with leather apron, tools at belt"
-            posture: "Craftsman expertise, often studying ship designs or examining construction details"
-    - id: "character_SF"
-      name: "Character SF"
+          - appearance: "Elderly Dutch shipwright, thin from illness, deep-set eyes, work-worn hands, stooped shoulders"
+            clothing: "Simple brown wool coat, leather apron, felt cap, practical boots suitable for shipyard work"
+            position: "Hunched over construction drawings"
+            action: "Examining ship blueprints with meticulous attention to detail"
+    - id: "character_KF"
+      name: "Character KF"
       description_block: |
         characters:
-          - appearance: "Swedish man, 45, naval officer bearing, weathered sea captain face, serious expression"
-            clothing: "Swedish naval uniform with officer insignia, ceremonial sword, naval hat"
-            posture: "Naval authority, often consulting maritime charts or directing ship operations"
-    - id: "character_SC"
-      name: "Character SC"
+          - appearance: "Distinguished naval officer in his 50s, gray-streaked beard, calculating eyes, erect military posture"
+            clothing: "Navy blue admiral's uniform with gold braiding, white stockings, polished black shoes, ceremonial sword"
+            position: "Standing observantly with hands behind back"
+            action: "Watching stability test with visibly concerned expression"
+    - id: "character_AF"
+      name: "Character AF"
       description_block: |
         characters:
-          - appearance: "Swedish man, 35, experienced sea captain appearance, confident bearing"
-            clothing: "17th century ship captain uniform with brass buttons, navigation instruments"
-            posture: "Maritime expertise, often at ship's wheel or studying wind conditions"
+          - appearance: "Lean, intellectual appearance, intense dark eyes, salt-and-pepper hair, methodical movements"
+            clothing: "1950s diving gear, thick wool sweater, waterproof boots, practical work clothes"
+            position: "Standing beside diving equipment"
+            action: "Examining recovered artifacts with obsessive dedication"
   locations:
-    - id: "stockholm_harbor"
-      name: "Stockholm Harbor"
+    - id: "stockholm_harbor_1628"
+      name: "Stockholm Harbor 1628"
       description_block: |
         setting:
-          location: "Royal naval harbor in Stockholm, Sweden, 1628"
-        mainElements: "Protected harbor waters with royal docks, stone quays, maritime infrastructure"
-        atmosphere: "Busy royal naval base with ceremonial launch preparations and crowd gathering"
+          location: "Stockholm Harbor, natural harbor surrounded by rocky islands and bluffs, Sweden"
+        mainElements: "Protected waters between mainland and archipelago, royal palace quay, Slussen narrows, Södermalm bluffs, Tegelviken bay, numerous small islands and rocks"
+        atmosphere: "Bustling maritime activity, summer afternoon sun creating long shadows, gentle breeze carrying salt air and tar scents"
     - id: "vasa_shipyard"
-      name: "Royal Shipyard"
+      name: "Skeppsgården Naval Shipyard"
       description_block: |
         setting:
-          location: "Royal shipyard construction site in Stockholm"
-        mainElements: "Massive wooden warship under construction, scaffolding, construction equipment"
-        atmosphere: "Industrial maritime construction site with royal supervision and urgent deadline pressure"
-    - id: "stockholm_waterfront"
-      name: "Stockholm Waterfront"
+          location: "Skeppsgården Naval Shipyard on Blasieholmen island, Stockholm, Sweden"
+        mainElements: "Royal naval construction facility, massive dry docks, timber yards, cannon foundry, rope walks, workers' quarters, administrative buildings, forest of masts and construction scaffolding"
+        atmosphere: "Constant hammering and sawing, smell of pine tar and iron, smoke from forges, shouting workers"
+    - id: "royal_palace_1628"
+      name: "Tre Kronor Royal Palace 1628"
       description_block: |
         setting:
-          location: "Stone quays and waterfront area of Stockholm harbor"
-        mainElements: "Stone harbor walls, royal viewing areas, crowds of spectators"
-        atmosphere: "Royal ceremony location with hundreds of Stockholm citizens watching ship launch"
+          location: "Tre Kronor Royal Palace on Stadsholmen island, Stockholm, Sweden"
+        mainElements: "Imposing castle overlooking harbor, three crowns towers, throne room, state apartments, royal quay, ceremonial courtyards"
+        atmosphere: "Formal grandeur, courtiers in silk and velvet, sound of ceremonial drums and trumpets"
+    - id: "wreck_site_32m"
+      name: "Vasa Wreck Site"
+      description_block: |
+        setting:
+          location: "Seabed 32 meters below Stockholm Harbor surface, Baltic Sea"
+        mainElements: "Soft mud and sediment, brackish Baltic water, intact ship hull resting on port side, collapsed masts, scattered cannon, preserved artifacts"
+        atmosphere: "Dark underwater environment, cold currents, eerie silence broken only by diving equipment"
   items:
     - id: "vasa_warship"
-      name: "Vasa Royal Warship"
+      name: "Vasa Warship"
       description_block: |
-        details: "Massive Swedish warship with ornate carvings, golden decorations, two gun decks, 64 cannons, elaborate royal sculptures"
-    - id: "ship_cannons"
-      name: "Naval Artillery"
+        details: "69 meters long, 11.7 meters wide, ornately decorated stern with gilded wooden carvings, two rows of gun ports, three tall masts, brand new but fundamentally unstable, top-heavy design with insufficient ballast"
+    - id: "bronze_cannons"
+      name: "64 Bronze Cannons"
       description_block: |
-        details: "64 bronze cannons including 48 powerful 24-pound guns positioned on two gun decks"
-    - id: "royal_sculptures"
-      name: "Ornate Ship Decorations"
+        details: "48 main 24-pounder guns, bronze construction, 3 meters long, each weighing over 1,000kg, Royal Swedish coat of arms cast into barrels, standardized lightweight design"
+    - id: "ornate_stern_carvings"
+      name: "Elaborate Wooden Sculptures"
       description_block: |
-        details: "Elaborate carved wooden sculptures with golden paint, royal Swedish symbols, lion figures on ship's prow"
-    - id: "construction_plans"
-      name: "Ship Design Documents"
+        details: "Gilded wooden carvings covering stern, lions, cherubs, mythological figures, royal coat of arms, over 500 individual carved pieces, original paint and gilding, intricate detail work"
+    - id: "ballast_stones"
+      name: "Ballast Stones"
       description_block: |
-        details: "Detailed shipwright plans and royal specifications, measurement charts, construction drawings"
-    - id: "rescue_boats"
-      name: "Harbor Rescue Vessels"
-      description_block: |
-        details: "Small wooden boats with crews attempting rescue operations, ropes and emergency equipment"
+        details: "120 tonnes of granite stones in ship's hold, irregularly shaped stones, insufficient quantity for ship's size and armament"

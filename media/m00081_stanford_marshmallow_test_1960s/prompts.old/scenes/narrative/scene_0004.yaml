@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Child Enters - The Experiment Begins"
+  setting:
+    time: "1968, afternoon, controlled room lighting"
+    location: "Small, sparse testing room at Stanford University's Bing Nursery School"
+    weather: "Indoor controlled environment"
+  characters:
+    - appearance: "Caucasian man, 40s, slender build, dark hair, thoughtful eyes, intellectual appearance"
+      clothing: "1960s academic attire: brown tweed jacket with elbow patches, white dress shirt, dark tie, dress pants"
+      position: "Standing beside door, welcoming child into room"
+      action: "Gently guiding child to small chair, explaining the simple rules of the marshmallow experiment"
+    - appearance: "4-year-old child, mixed ethnicity, curious expression, small build typical of preschooler"
+      clothing: "1960s children's clothing: simple dress or shirt and shorts, small shoes"
+      position: "Standing hesitantly at room entrance, then moving toward small chair"
+      action: "Looking around room with curiosity, focusing on white marshmallow on table with mixture of interest and uncertainty"
+  scene:
+    mainElements: "Child's first encounter with experimental setup, researcher explaining rules, marshmallow prominently displayed on table"
+    details: "Single white marshmallow on small plate positioned within child's reach, hand bell beside plate, child-sized wooden chair, researcher's welcoming but professional demeanor"
+    background: "Minimal room decoration to avoid distractions, plain walls, door through which child entered, clinical but comfortable environment"
+    atmosphere: "Beginning of historic psychological experiment, gentle introduction to test of self-control that will become famous worldwide, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot at child's eye level"
+    focus: "Interaction between researcher and child, with marshmallow as key visual element"
+    depth: "Foreground: child approaching chair, middle: researcher and experimental setup, background: sparse testing room environment"

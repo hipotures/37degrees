@@ -1,20 +1,16 @@
 sceneDescription:
-  title: "Conceptualizing the Thought Experiment Setup"
+  title: "The Theoretical Laboratory Setup"
   setting:
-    time: "1935, evening"
-    location: "Abstract conceptual space for visualizing thought experiments"
-    weather: "Indoor theoretical space, no weather"
-  characters:
-    - appearance: "Austrian physicist, 50s, tall slender build, high forehead, thoughtful dark eyes behind wire-rimmed glasses, salt-and-pepper hair neatly combed"
-      clothing: "1930s dark wool suit with vest, white collared shirt, simple tie, or white laboratory coat over shirt and trousers"
-      position: "Standing beside closed experimental box, gesturing toward it with open hand"
-      action: "Explaining theoretical concept while pointing at sealed box, expression showing deep contemplation of paradox"
+    time: "Theoretical time, sterile lighting"
+    location: "Sterile scientific laboratory with sealed steel chamber at center"
+    weather: "Indoor controlled environment"
+  characters: "No characters present in this scene"
   scene:
-    mainElements: "Clean minimalist environment suitable for visualizing theoretical physics concepts and gedanken experiments"
-    details: "Solid wooden or metal box with hinged lid, approximately 2 feet square, completely opaque, with simple latch mechanism, 1930s construction. 1930s Geiger-Müller counter with cylindrical detection tube, electrical wiring, and analog meter display typical of early radiation detection equipment positioned nearby. Small glass laboratory flask with cork stopper, containing liquid, attached to mechanical hammer mechanism for breaking."
-    background: "Neutral geometric space with subtle grid lines suggesting scientific precision, minimal distracting elements"
-    atmosphere: "Neutral academic space allowing focus on scientific concepts without distracting elements. Contemplative mood emphasizing theoretical nature of the experiment."
+    mainElements: "Sealed steel box large enough for cat, Geiger counter apparatus, small radioactive sample, hammer mechanism, glass flask of poison"
+    details: "Precise scientific instruments, cables connecting components, warning signs about radiation, sterile steel surfaces. The sealed steel container sits prominently in center, approximately 3 feet cubed, hermetically sealed with no viewing windows. Geiger counter device nearby with cylindrical metal tube detector connected to counting mechanism, mechanical clicking sounds implied"
+    background: "White laboratory walls, fluorescent lighting, scientific equipment on benches"
+    atmosphere: "Clinical precision, ticking of Geiger counter, anticipatory tension, fluorescent lighting casting sharp shadows"
   composition:
-    cameraAngle: "Medium wide shot showing physicist and experimental setup"
-    focus: "Physicist explaining the sealed box and associated apparatus"
-    depth: "Foreground shows experimental box and detection equipment, middle ground features physicist explaining, background shows minimal theoretical space, no text or letters visible"
+    cameraAngle: "Medium shot focusing on the experimental apparatus"
+    focus: "The sealed steel chamber and connected scientific instruments"
+    depth: "Foreground shows Geiger counter and connecting cables, middle ground features the sealed chamber as central element, background displays sterile laboratory environment with white walls, no text or letters visible"

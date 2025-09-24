@@ -1,34 +1,36 @@
 sceneDescription:
   setting:
-    time: January 23, 1960, midday
-    location: Trieste bathyscaphe descending through upper Pacific Ocean layers
-    weather: Underwater descent through increasingly dark ocean zones
+    time: January 23, 1960, 1200-1500 hours, descending through twilight zone
+    location: Cramped steel sphere 7 feet in diameter, walls 5 inches thick, designed to withstand crushing deep-sea pressure
+    weather: Deep underwater environment, external pressure mounting exponentially as sunlight disappears
   characters:
-  - appearance: Swiss man, 40s, tall and lean build, intelligent dark eyes, wavy dark hair
-    clothing: 1960s thick woolen sweater over collared shirt, heavy winter jacket during surface operations
-    position: Monitoring descent instruments and depth readings
-    action: Recording depth measurements and checking pressure gauge readings every few minutes
-  - appearance: American man, 30s, military bearing, short-cropped hair, alert expression
-    clothing: US Navy uniform with lieutenant insignia, or heavy weather gear during operations
-    position: Operating communication equipment and monitoring systems
-    action: Maintaining contact with surface support vessel through sonar telephone
+  - appearance: 37 years old Caucasian man, medium build, clean-shaven with short dark hair, intelligent brown eyes behind
+      wire-rimmed glasses, calm and methodical demeanor
+    clothing: Navy-issue wool sweater over white shirt, thick wool pants, heavy leather boots, waterproof chronometer watch
+    position: Inside Trieste crew sphere, seated at instrument panel
+    action: Monitoring depth gauges and pressure readings with scientific precision
+  - appearance: 29 years old Caucasian man, athletic military bearing, short-cropped brown hair, square jaw, alert blue eyes,
+      confident posture
+    clothing: Navy utility uniform with lieutenant's bars, thick wool Navy sweater, military-issue boots, Navy insignia clearly
+      visible
+    position: Inside Trieste crew sphere, seated beside diving controls
+    action: Taking detailed notes and operating ballast controls with military precision
   scene:
-    mainElements: Interior view of descending bathyscaphe with instruments showing increasing depth readings, porthole windows
-      revealing transition from bright surface waters to deeper blue-green ocean layers, analog gauges indicating growing
-      pressure
-    details: Depth meters showing readings in thousands of feet, pressure gauges climbing steadily toward extreme measurements,
-      temperature sensors recording cooling water, primitive sonar equipment providing distance readings, manual controls
-      requiring constant adjustment, warning lights beginning to activate as systems respond to increasing pressure
-    background: Through porthole windows, gradual transition from sunlit surface waters to darker intermediate ocean depths,
-      marine life occasionally visible in external lights
-    atmosphere: Growing sense of isolation as surface world disappears above, tension building with each thousand feet of
-      depth, excitement of entering unexplored territory, mechanical sounds of bathyscaphe systems working under increasing
-      stress, no text or letters visible
+    mainElements: Steel crew sphere interior with portholes now showing dim gray-blue water outside, instrument panels illuminated
+      by internal lighting, depth gauges showing increasing pressure readings
+    details: Two small porthole windows, instrument panels with depth gauges and pressure readings, communication equipment,
+      emergency systems, life support for 24 hours. Water outside portholes has changed from brilliant blue to dim gray-blue
+      as sunlight fades. Depth gauges showing steady increase in pressure measurements.
+    background: Dim gray-blue water visible through portholes with last traces of sunlight filtering down from impossibly
+      distant surface, darkness beginning to envelop the descending vessel
+    atmosphere: Temperature drops to 45°F during dive, constant mechanical sounds of life support, growing sense of isolation
+      as they descend further from surface world into Earth's unexplored depths, mounting external pressure creating subtle
+      stress on hull, no text or letters visible
   composition:
-    cameraAngle: Close-up interior shot emphasizing instrument readings and crew concentration
-    focus: Depth gauges and pressure instruments showing dramatic changes
-    depth: Foreground shows detailed instrument panels, middle shows crew monitoring systems, background shows changing ocean
-      environment through portholes
+    cameraAngle: Medium shot from within crew sphere showing both occupants and darkening portholes
+    focus: Crew members continuing their methodical work as environment outside grows darker and more alien
+    depth: Foreground shows illuminated instrument controls, middle ground centers on focused crew members, background reveals
+      dimming water through portholes as twilight zone deepens
 visualElements:
   colorPalette:
     primary:

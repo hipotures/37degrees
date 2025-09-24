@@ -1,80 +1,86 @@
 canon:
   characters:
-    - id: "character_JH"
-      name: "Character JH"
+    - id: "character_JKH"
+      name: "Character JKH"
       description_block: |
         characters:
-          - appearance: "Polish man, child prodigy (age 5-10 in early scenes), later adult (20s-30s), slender build, intense dark eyes, intelligent expression"
-            clothing: "Early scenes: formal child's concert attire with white shirt, dark vest, bow tie. Later scenes: formal black concert tails or casual early 20th century suits with vest and tie"
-            posture: "Confident at piano, focused and intense when performing or inventing, often with hands positioned over piano keys or examining mechanical objects"
-    - id: "character_AR"
-      name: "Character AR"
+          - appearance: "Small stature even as adult from child prodigy origins, refined European features, intelligent eyes, well-groomed appearance typical of classical musicians"
+            clothing: "Black tailcoat and white bow tie for performances, elegant European suits for business meetings, period-appropriate late 19th/early 20th century fashion"
+            position: "At piano bench during performances, at drafting table during invention work, in various workshop and concert hall settings"
+            action: "Playing piano with graceful hand movements from training, sketching technical drawings with precision, testing mechanical prototypes with focused concentration"
+    - id: "character_AC"
+      name: "Character AC"
       description_block: |
         characters:
-          - appearance: "Russian man, 60s, distinguished bearing, white beard, stern but kind expression, commanding presence"
-            clothing: "Formal dark suit with high collar, sometimes wearing conductor's formal evening wear"
-            posture: "Authoritative stance when teaching, often gesturing with conductor's baton or pointing at piano keys"
+          - appearance: "Wealthy American businessman in his 40s, distinguished bearing, well-dressed, authoritative presence"
+            clothing: "Expensive American business suits of 1880s, silk top hat, fine overcoat, gold pocket watch chain"
+            position: "Standing in formal meeting rooms, seated at business desks, in elegant American settings"
+            action: "Writing checks, signing legal documents, speaking with concerned expression about child welfare, making decisive gestures"
     - id: "character_KH"
       name: "Character KH"
       description_block: |
         characters:
-          - appearance: "Polish man, 40s, musician's bearing, mustache, caring paternal expression"
-            clothing: "Late 19th century formal suit with vest, sometimes conductor's attire"
-            posture: "Protective and encouraging toward young character JH, often standing beside piano or holding sheet music"
+          - appearance: "Middle-aged Polish musician, serious expression, artistic temperament, proud bearing"
+            clothing: "Formal conductor's attire with tailcoat, European academic dress of 1870s-1880s, bow tie"
+            position: "At conductor's podium, beside piano during rehearsals, in family settings"
+            action: "Conducting orchestra with baton, guiding young pianist's practice, showing protective concern as father"
+
   locations:
-    - id: "main_location_1"
-      name: "Warsaw Concert Hall"
+    - id: "podgorze_krakow_1876"
+      name: "Podgórze, Kraków 1876"
       description_block: |
         setting:
-          location: "Grand concert hall in Warsaw, Poland, late 19th century architecture with ornate details"
-        mainElements: "Large grand piano center stage, rows of red velvet seats, elaborate crystal chandeliers"
-        atmosphere: "Elegant and formal, filled with anticipation and musical reverence"
-    - id: "main_location_2"
-      name: "Dresden Hotel Room"
+          location: "Historic district across Vistula River from Kraków's old town, Austro-Hungarian Galicia"
+          time: "1876, winter morning"
+          weather: "Cold winter day with light snow"
+        scene:
+          mainElements: "Cobblestone streets with Austrian-style architecture, Jewish quarter buildings, traditional Polish homes with steep roofs"
+          details: "Horse-drawn carriages on icy streets, church bells ringing in distance, multilingual shop signs in Polish, German, and Yiddish, smoke rising from chimneys"
+          background: "Snow-covered rooftops, distant spires of Kraków across frozen Vistula River"
+          atmosphere: "Cultural melting pot of Polish, Austrian, and Jewish influences, sounds of multiple languages mixing with clip-clop of horses"
+    - id: "metropolitan_opera_house_1887"
+      name: "Metropolitan Opera House, New York 1887"
       description_block: |
         setting:
-          location: "Hotel d'Europe in Dresden, Germany, private lesson room with piano"
-        mainElements: "Upright piano against wallpapered wall, heavy curtains, Victorian furniture, sheet music scattered on tables"
-        atmosphere: "Intimate and focused, perfect for intensive musical instruction"
-    - id: "main_location_3"
-      name: "Curtis Institute Office"
+          location: "Grand opera house at 39th Street and Broadway, magnificent Gilded Age interior"
+          time: "November 29, 1887, evening"
+          weather: "Clear autumn evening"
+        scene:
+          mainElements: "Ornate interior with multiple balcony levels, elaborate crystal chandeliers, red velvet seats, grand Steinway piano on wooden stage"
+          details: "Formal evening dress audience in top hats and gowns, gaslight illumination casting warm glow, gilt decorative moldings, heavy curtains"
+          background: "Rising tiers of occupied seats, ornate ceiling with painted details, side boxes with elegant patrons"
+          atmosphere: "Hushed anticipation for child prodigy performance, rustling of silk gowns, murmur of cultured voices"
+    - id: "patent_workshop_1900s"
+      name: "Early 20th Century Patent Workshop"
       description_block: |
         setting:
-          location: "Director's office at Curtis Institute of Music, Philadelphia, 1920s-1930s"
-        mainElements: "Large wooden desk, bookshelves filled with musical scores, framed photographs of musicians, grand piano in corner"
-        atmosphere: "Scholarly and administrative, reflecting musical education and leadership"
-    - id: "main_location_4"
-      name: "Invention Workshop"
-      description_block: |
-        setting:
-          location: "Private workshop laboratory, early 20th century, filled with mechanical equipment and tools"
-        mainElements: "Workbenches with various mechanical parts, blueprints pinned to walls, prototype devices, automotive components"
-        atmosphere: "Creative and industrious, filled with innovative energy and mechanical precision"
-    - id: "main_location_5"
-      name: "Los Angeles Home"
-      description_block: |
-        setting:
-          location: "Modest home in Los Angeles, 1940s-1950s, combination living space and workshop"
-        mainElements: "Piano in living room, desk covered with patent drawings, comfortable chairs, California sunshine streaming through windows"
-        atmosphere: "Peaceful and contemplative, reflecting a life of quiet reflection and continued creativity"
+          location: "Private mechanical workshop with large windows, drafting area, and testing space"
+          time: "1905, afternoon"
+          weather: "Bright daylight streaming through windows"
+        scene:
+          mainElements: "Drafting tables with technical drawings, precision measurement tools, early shock absorber prototypes, mechanical components"
+          details: "Patent documents and blueprints spread on tables, metal parts and springs, testing apparatus, oil stains on wooden workbenches"
+          background: "Tool racks on walls, early automobile parts, shelves with mechanical devices and measuring instruments"
+          atmosphere: "Focused concentration of invention process, sounds of machinery testing, smell of machine oil and metal work"
+
   items:
-    - id: "key_item_1"
+    - id: "steinway_concert_grand"
       name: "Concert Grand Piano"
       description_block: |
-        details: "Black lacquered Steinway grand piano with ivory keys, distinctive narrow key modification designed by character JH for smaller hands"
-    - id: "key_item_2"
-      name: "Windshield Wiper Prototype"
+        details: "Full-size concert grand piano with ebony black finish, ivory keys period appropriate for 1880s, Steinway & Sons branding visible on music stand, 88 keys with intricate internal string and hammer mechanism, adjustable bench with sheet music"
+    - id: "shock_absorber_patent_1916"
+      name: "US Patent 1304982A Document"
       description_block: |
-        details: "Early automotive windshield wiper mechanism with oscillating arm and rubber blade, brass and steel construction typical of early 1900s engineering"
-    - id: "key_item_3"
-      name: "Shock Absorber Design"
+        details: "Official patent document with detailed technical diagrams showing bell-crank lever system, cross-sectional drawings of pneumatic shock absorber, official USPTO letterhead, filed July 25, 1916, granted May 27, 1919, interconnected suspension system illustrations"
+    - id: "mechanical_metronome"
+      name: "Mechanical Metronome"
       description_block: |
-        details: "Pneumatic shock absorber prototype for automobiles, cylindrical metal housing with spring mechanism, technical drawings showing internal components"
-    - id: "key_item_4"
-      name: "Patent Documents"
+        details: "Pyramid-shaped wooden case in dark walnut finish, brass pendulum with adjustable weight, graduated tempo scale from 40 to 208 beats per minute, wind-up mechanism with brass key, steady tick-tock rhythm pattern audible when operating"
+    - id: "early_automobile_1905"
+      name: "Early 20th Century Automobile"
       description_block: |
-        details: "Official patent papers with detailed technical drawings, stamps and seals, rolled blueprints tied with ribbon, no readable text visible"
-    - id: "key_item_5"
-      name: "Metronome"
+        details: "Open-top touring car with high spoked wheels and thin rubber tires, brass headlamps mounted on front fenders, black leather seats with button tufting, hand-crank starting mechanism, minimal suspension with leaf springs, exposed mechanical components, brass radiator and trim"
+    - id: "patent_drafting_tools"
+      name: "Technical Drafting Instruments"
       description_block: |
-        details: "Traditional wooden pyramid-shaped metronome with brass pendulum, sitting on piano, providing rhythmic inspiration for musical and mechanical innovations"
+        details: "Precision compass and dividers, technical drawing pens with various nibs, wooden rulers and French curves, protractor and angle templates, mechanical pencils, India ink bottles, blotting paper, technical drawing paper with precise grid lines"

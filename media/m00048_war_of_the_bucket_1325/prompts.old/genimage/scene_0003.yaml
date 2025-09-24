@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: September 1325, sunset
+    location: Strategic hilltop castle of Monteveglio between Bologna and Modena
+    weather: Clear evening with orange sunset
+  characters:
+  - appearance: Italian or German man, 20s-30s, battle-hardened expression
+    clothing: Blue tunic with Modena insignia, plate armor pieces, conical helmet
+    position: Climbing stone walls with scaling ladders, some atop battlements
+    action: Storming the fortress walls, raising Modenese banners, overwhelming defenders
+  - appearance: Italian man, 20s-30s, determined face, muscular build
+    clothing: Red tunic with Bologna coat of arms, chainmail, steel helmet
+    position: Defending battlements, some retreating through castle gates
+    action: Fighting desperately with spears and crossbows, being pushed back by attackers
+  scene:
+    mainElements: Stone fortress on elevated position, multiple towers, defensive walls
+    details: Medieval catapults, battering rams, scaling ladders for castle warfare positioned around fortress base, wooden
+      siege towers against castle walls, arrows flying through air, broken spears scattered on stone courtyard, Heraldic banners
+      of Bologna (red) and Modena (blue) displaying city arms flying from different towers, smoke rising from various points
+      of conflict
+    background: Rolling hills of northern Italian countryside, distant villages visible in valley below, orange sunset sky
+    atmosphere: Important military stronghold overlooking countryside being captured in dramatic siege warfare, sounds of
+      battle and conquest
+  composition:
+    cameraAngle: Wide shot from hillside showing full castle siege
+    focus: The dramatic moment of Modenese forces overrunning the strategic fortress
+    depth: 'Foreground: siege equipment and attacking soldiers, Middle: castle walls and fighting, Background: countryside
+      landscape, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Scientist examines melted chocolate bar evidence"
+  setting:
+    time: "1945, late afternoon"
+    location: "Specialized testing section within Raytheon laboratory"
+    weather: "Indoor laboratory environment with fluorescent lighting"
+  characters:
+    - appearance: "Caucasian man, 50s, lean build, receding brown hair, intelligent dark eyes behind wire-rimmed glasses"
+      clothing: "White lab coat over dark suit jacket, white dress shirt, narrow dark tie, dress shoes"
+      position: "Seated at metal laboratory table, leaning forward with focused attention"
+      action: "Carefully examining melted chocolate bar with scientific precision, taking mental notes of the unusual phenomenon"
+  scene:
+    mainElements: "Brown wrapper with 'PAYDAY' text, containing peanuts and caramel, partially melted and deformed from heat, sticky coating visible on metal table surface"
+    details: "Laboratory table with precise measurements marked on surface. Magnetron equipment visible in background still operating. Scientist's glasses reflect light as he studies the evidence. Chocolate has melted unevenly, maintaining some original shape while showing clear heat damage. Peanuts and caramel visible through melted chocolate coating."
+    background: "Active magnetron mounted on stand, measurement equipment with analog displays, electrical cables, concrete laboratory flooring"
+    atmosphere: "Scientific curiosity and methodical analysis, moment of discovery that will change cooking forever, precise laboratory environment with breakthrough realization, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot focusing on chocolate bar and scientist's examining hands"
+    focus: "Melted chocolate bar showing clear evidence of microwave heating effects"
+    depth: "Foreground shows detailed chocolate bar on table, middle ground features scientist's focused examination, background reveals laboratory equipment"

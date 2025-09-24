@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Post-Procedure Medical Monitoring"
+  setting:
+    time: "February 1954, evening"
+    location: "Medical recovery room for experimental animals, Moscow Institute of Surgery"
+    weather: "Indoor controlled environment"
+  characters:
+    - appearance: "Caucasian man, 38 years old, dark hair slicked back, intense focused eyes behind wire-rim glasses, scholarly demeanor"
+      clothing: "White laboratory coat over dark suit vest and white shirt, medical gloves, professional surgical attire"
+      position: "Standing beside monitoring equipment checking vital signs"
+      action: "Carefully examining monitoring readings and adjusting medical equipment settings"
+    - appearance: "Caucasian woman, 35 years old, brown hair pinned back, attentive expression, medical professional"
+      clothing: "White nursing uniform, medical cap, practical flat shoes, sterile gloves"
+      position: "Near recovery area organizing medical supplies"
+      action: "Preparing medical care materials and monitoring patient comfort levels"
+  scene:
+    mainElements: "Medical recovery room with monitoring equipment, temperature controls, medical observation setup for post-operative care"
+    details: "Early medical monitoring devices including basic heart rate monitors, temperature gauges, and pressure measurement tools typical of 1950s Soviet medical technology providing continuous vital sign readings, medical laboratory equipment including glass beakers, test tubes, measurement containers for ongoing medical assessment, controlled environment with clean medical facilities"
+    background: "Recovery room with medical equipment, temperature control systems, observation charts and medical supplies storage"
+    atmosphere: "Controlled medical environment for post-operative care and monitoring, careful attention to patient welfare, serious medical observation"
+  composition:
+    cameraAngle: "Medium shot focusing on post-operative monitoring activities"
+    focus: "Medical professionals monitoring vital signs and providing post-procedure care"
+    depth: "Monitoring equipment in foreground, medical staff in middle ground, recovery room environment in background, no text or letters visible"

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Loading the Dart Gun with Prepared Dose"
+  setting:
+    time: "August 3, 1962, 11:45 AM"
+    location: "Oklahoma City Zoo elephant enclosure area, near viewing barrier"
+    weather: "Bright hot summer day with clear skies"
+  characters:
+    - appearance: "Caucasian man, 40s, medium build, receding dark hair, serious expression, wire-rimmed glasses"
+      clothing: "1960s white lab coat over dark suit and tie, or gray flannel suit with narrow tie"
+      position: "Standing beside portable table, holding prepared syringe"
+      action: "Carefully inserting prepared dose into dart gun mechanism with steady hands"
+    - appearance: "Caucasian man, 50s, tall and lean, graying hair, mustache, weathered face"
+      clothing: "1960s khaki zoo uniform with name badge, or casual shirt with rolled sleeves"
+      position: "Standing nearby holding the dart gun steady"
+      action: "Supporting and stabilizing the dart gun while dose is being loaded"
+    - appearance: "African American man, 30s, stocky build, kind face, concerned expression"
+      clothing: "1960s white lab coat over dark sweater vest and tie, or tan suit jacket"
+      position: "Standing at observation distance with clipboard"
+      action: "Recording the exact time and observing the loading procedure"
+  scene:
+    mainElements: "1960s veterinary dart gun, metal construction with wooden stock, designed for animal sedation, being loaded with prepared syringe containing experimental dose"
+    details: "1960s veterinary dart gun, metal construction with wooden stock, designed for animal sedation, prepared syringe being carefully inserted into loading mechanism, hands in medical gloves handling equipment with precision, portable table with remaining medical supplies, bright sunlight casting clear shadows on metal surfaces, professional loading technique being demonstrated, no text or letters visible"
+    background: "Elephant enclosure visible with the elephant moving naturally, zoo visitors watching from behind barriers, other zoo staff maintaining positions at safe distance, Oklahoma summer landscape"
+    atmosphere: "Moment of final preparation before irreversible action, clinical precision mixed with growing tension, bright clear lighting emphasizing the gravity of the procedure"
+  composition:
+    cameraAngle: "Medium close-up shot focusing on dart gun loading process with hands and faces visible"
+    focus: "The dart gun loading procedure and the concentrated expressions of the men involved"
+    depth: "Foreground shows detailed dart gun loading process, middle ground features the three men's focused work, background displays elephant enclosure and zoo environment"

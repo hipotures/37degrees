@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Skeptical Analysis and Radar Reinterpretation"
+  setting:
+    time: "Later 1990s, daytime"
+    location: "Scientific laboratory, aviation research facility"
+    weather: "Indoor laboratory environment"
+  characters:
+    - appearance: "Aerospace engineer, 40s-50s, analytical expression, scientific background"
+      clothing: "Professional scientific attire - lab coat over dress shirt, practical work clothing"
+      position: "Standing at analysis equipment examining radar data"
+      action: "Analyzing technical data and radar patterns with scientific instruments"
+  scene:
+    mainElements: "Scientific laboratory with advanced analysis equipment and technical documentation"
+    details: "Scientific analysis equipment showing reinterpretation of original radar data. Charts and graphs demonstrating atmospheric phenomena, temperature inversion effects, and Bragg scattering anomalies that could explain unusual radar returns. Technical displays showing how F-16 aircraft could have achieved mutual radar locks rather than tracking unknown objects."
+    background: "Scientific laboratory with analysis equipment and technical reference materials"
+    atmosphere: "Methodical scientific analysis providing rational explanations for mysterious events"
+  composition:
+    cameraAngle: "Medium shot showing scientist analyzing data with professional equipment"
+    focus: "Scientific reanalysis of Belgian UFO wave radar data revealing natural explanations"
+    depth: "Foreground: scientist and analysis equipment, middle ground: technical displays and data, background: laboratory environment with scientific instruments, no text or letters visible"

@@ -4,73 +4,85 @@ canon:
       name: "Character JHK"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 40s, tall and lean build, intense dark eyes, full dark beard, stern expression"
-            clothing: "1890s white medical coat over dark suit, or formal black suit with white shirt and bow tie"
-            posture: "Upright, authoritative stance, often with hands clasped behind back or gesturing emphatically"
+          - appearance: "Caucasian man, age 52, medium height with lean build, distinctive full beard and mustache, wire-rimmed spectacles, piercing intelligent eyes"
+            clothing: "White medical coat over dark three-piece suit, high collar with necktie, polished black leather shoes, occasionally white sanitarium uniform"
+            position: "Standing authoritatively or working methodically at kitchen equipment"
+            action: "Examining food preparations, adjusting equipment, or demonstrating health principles through careful movements"
     - id: "character_WKK"
       name: "Character WKK"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 30s, shorter than his brother, clean-shaven, practical demeanor, focused expression"
-            clothing: "1890s dark business suit with vest, white shirt, simple necktie, sometimes wearing work apron"
-            posture: "Alert, active stance, often leaning forward examining something or taking notes"
-    - id: "sanitarium_patient"
-      name: "Sanitarium Patient"
+          - appearance: "Caucasian man, age 34, shorter than his brother, clean-shaven with dark hair parted to side, alert brown eyes, stocky build"
+            clothing: "Dark business suit with vest, white shirt with high collar, simple necktie, practical leather shoes, rolled sleeves when working"
+            position: "Working alongside his brother or managing business aspects"
+            action: "Operating kitchen equipment, taking notes, or handling practical business matters with quiet concentration"
+    - id: "character_SP"
+      name: "Character SP"
       description_block: |
         characters:
-          - appearance: "Middle-aged person, pale complexion, thin build, wearing simple light-colored clothing"
-            clothing: "Plain white or light gray loose-fitting garments typical of health institution patients"
-            posture: "Seated at dining table, looking expectantly at the meal being served"
-    - id: "kitchen_worker"
-      name: "Kitchen Worker"
-      description_block: |
-        characters:
-          - appearance: "Young adult, rolled-up sleeves, flour-dusted hands, concentrated expression"
-            clothing: "White apron over dark work clothes, simple cap or hair covering"
-            posture: "Bent over work surface, hands busy with food preparation tasks"
+          - appearance: "Middle-aged individuals, various builds representing typical late 19th century health seekers, pale complexion from illness"
+            clothing: "Simple sanitarium-provided cotton robes or modest day clothes, comfortable slippers, minimal jewelry"
+            position: "Seated at dining tables or standing in small groups"
+            action: "Tasting new foods with surprised delight, conversing about health treatments, showing hopeful but weary expressions"
   locations:
-    - id: "battle_creek_sanitarium"
-      name: "Battle Creek Sanitarium"
+    - id: "battle_creek_kitchen"
+      name: "Battle Creek Sanitarium Kitchen"
       description_block: |
         setting:
-          location: "Battle Creek Sanitarium, Michigan, multi-story brick building with Victorian architecture"
-        mainElements: "Large institutional building with multiple wings, well-maintained grounds, trees surrounding the property"
-        atmosphere: "Professional medical facility atmosphere, clean and orderly, representing progressive health treatment"
-    - id: "sanitarium_kitchen"
-      name: "Sanitarium Kitchen"
+          time: "August 1894, early morning hours"
+          location: "Battle Creek Sanitarium institutional kitchen, Michigan"
+          weather: "Warm August weather, heated kitchen environment from cooking equipment"
+        scene:
+          mainElements: "Large institutional kitchen with high ceilings and tall windows, heavy metal rollers for dough processing, large wooden work tables"
+          details: "Coal-fired ovens with brick construction, ceramic mixing bowls of various sizes, metal pots and utensils hanging from hooks, flour barrels and grain storage containers, gas lighting fixtures"
+          background: "Stone walls with functional shelving, large windows providing natural light, institutional equipment mounted on heavy wooden frames"
+          atmosphere: "Warm from cooking fires, flour dust in air, sounds of metal equipment, early morning August heat, smell of baking bread and grains"
+    - id: "sanitarium_dining"
+      name: "Battle Creek Sanitarium Dining Hall"
       description_block: |
         setting:
-          location: "Large institutional kitchen inside Battle Creek Sanitarium, Michigan"
-        mainElements: "Industrial-sized cooking equipment, large wooden work tables, metal pots and pans, gas stoves, storage shelves"
-        atmosphere: "Busy professional kitchen environment with focus on health-conscious food preparation"
-    - id: "sanitarium_dining_hall"
-      name: "Sanitarium Dining Hall"
+          time: "August 1894, morning meal time"
+          location: "Battle Creek Sanitarium dining hall, Michigan"
+          weather: "Natural lighting from large windows, comfortable indoor temperature"
+        scene:
+          mainElements: "Spacious dining room with long wooden tables and benches, white tablecloths, simple ceramic dishware"
+          details: "Wooden chairs arranged in orderly rows, health education posters on walls without readable text, serving stations with metal serving pieces, large windows with simple curtains"
+          background: "High ceiling with exposed wooden beams, medical facility architecture, plants in simple pots, institutional but welcoming atmosphere"
+          atmosphere: "Quiet, respectful dining atmosphere, morning sunlight streaming through windows, murmur of patient conversations, peaceful and health-focused environment"
+    - id: "battle_creek_town"
+      name: "Battle Creek, Michigan 1894"
       description_block: |
         setting:
-          location: "Dining hall at Battle Creek Sanitarium, Michigan, large room with multiple tables"
-        mainElements: "Long wooden tables with chairs, white tablecloths, large windows providing natural light"
-        atmosphere: "Quiet, orderly meal service atmosphere focused on healthy eating principles"
-    - id: "medical_office"
-      name: "Medical Office"
-      description_block: |
-        setting:
-          location: "Doctor's office inside Battle Creek Sanitarium, Michigan"
-        mainElements: "Wooden desk with papers, medical books on shelves, examination table, gas lamp lighting"
-        atmosphere: "Professional medical consultation space with emphasis on dietary health theories"
+          time: "August 1894, various times of day"
+          location: "Battle Creek, Michigan, small industrial town"
+          weather: "Late summer Michigan weather, warm humid conditions"
+        scene:
+          mainElements: "Small industrial town with railroad lines, small factories, tree-lined residential streets"
+          details: "Victorian-era architecture, church buildings with tall spires, medical facilities, horse-drawn carriages on dirt roads, telegraph poles, gas street lighting"
+          background: "Rolling Michigan countryside, distant farms, smoke from factory chimneys, Seventh-day Adventist community buildings"
+          atmosphere: "Progressive health-focused community, late summer weather, sound of train whistles, industrial development mixed with rural charm"
   items:
     - id: "wheat_dough"
-      name: "Wheat Dough"
+      name: "Overnight Wheat-Berry Dough"
       description_block: |
-        details: "Bowl of prepared wheat-berry dough, thick consistency, left sitting on wooden work surface overnight"
-    - id: "rolling_machine"
-      name: "Rolling Machine"
+        scene:
+          mainElements: "Dense, pale yellowish dough made from cooked wheat berries, approximately 2-3 pounds mass"
+          details: "Slightly stale consistency from sitting overnight, firmer texture than intended but still workable, contained in large ceramic mixing bowl, surface showing signs of overnight exposure"
+    - id: "metal_rollers"
+      name: "Heavy Dough Processing Rollers"
       description_block: |
-        details: "Large mechanical roller device made of metal and wood, used for flattening grain dough into sheets"
-    - id: "wheat_flakes"
-      name: "Wheat Flakes"
+        scene:
+          mainElements: "Large cast iron cylinders approximately 12 inches in diameter, hand-cranked mechanism, adjustable spacing between rollers"
+          details: "Industrial-grade kitchen equipment mounted on heavy wooden frame, well-worn metal surfaces, large turning handles, mechanical precision typical of 1890s manufacturing"
+    - id: "granose_flakes"
+      name: "Original Granose Flakes"
       description_block: |
-        details: "Thin, crispy flakes of wheat scattered on metal tray, golden-brown color, each flake individual and delicate"
+        scene:
+          mainElements: "Thin, delicate flakes of toasted wheat, golden-brown color, approximately quarter-inch diameter pieces"
+          details: "Crispy texture visible in bowl or plate, scattered individual flakes showing translucent quality, served without milk but with simple accompaniments, representing world's first flaked cereal"
     - id: "patent_document"
-      name: "Patent Document"
+      name: "Patent Documentation"
       description_block: |
-        details: "Official patent papers on desk, formal typewritten text, official government seals and stamps visible"
+        scene:
+          mainElements: "Official U.S. patent papers on standard legal-sized paper, technical drawings showing flaking process"
+          details: "Formal document layout with official seals, technical diagrams without readable text, professional presentation typical of 1890s patent office, representing legal establishment of invention rights"

@@ -1,38 +1,34 @@
 sceneDescription:
   setting:
-    time: December 28, 1980, 02:30 AM
-    location: View of Orfordness Lighthouse from Rendlesham Forest, 9 miles east-southeast, Suffolk coast, England
-    weather: Cold winter night, light fog, freezing temperatures affecting equipment
+    time: December 28, 1980, 03:00 hours
+    location: High-security underground bunker complex within RAF Bentwaters, Suffolk, England
+    weather: Cold December night with fog, mysterious phenomena occurring over facility
   characters:
-  - appearance: Caucasian man, 41 years old, military bearing, authoritative presence, determined expression
-    clothing: U.S. Air Force winter field uniform - OG-107 cotton sateen or early BDU woodland camouflage, M-65 field jacket,
-      thermal underwear, field cap, black military boots, subdued rank insignia on collar
-    position: Standing with confident military posture, often holding handheld cassette recorder
-    action: Leading investigation, documenting events on tape recorder, directing team members
-  - appearance: Caucasian man, military age, technical specialist demeanor, concentrated expression
-    clothing: U.S. Air Force winter field uniform - woodland camouflage BDU or OG-107, M-65 field jacket, thermal underwear,
-      field cap, combat boots, Disaster Preparedness specialist insignia
-    position: Standing while observing sky phenomena
-    action: Observing multiple light sources while monitoring technical readings
+  - appearance: Caucasian man, 41 years old, medium build, graying hair, clean-shaven, serious demeanor typical of career
+      military officer
+    clothing: U.S. Air Force service uniform or field duty uniform, military boots, carried handheld cassette recorder and
+      investigation equipment
+    position: Standing at secure observation point near weapons facility
+    action: Documenting beam phenomenon with recording equipment, coordinating with security personnel
+  - appearance: Caucasian man, mature commanding presence, typical colonel bearing, authoritative demeanor
+    clothing: Air Force service uniform or duty uniform appropriate to rank
+    position: At command post overseeing security response
+    action: Coordinating security response to phenomenon affecting nuclear weapons facility
   scene:
-    mainElements: 30-meter tall brick lighthouse tower with two red bands on white paint, visible through forest trees. Three
-      star-like objects visible in sky emitting red, green, and blue lights. Investigation team observing from forest edge.
-    details: Forest clearing with view toward distant Orfordness Lighthouse - massive brick tower with distinctive red bands
-      visible through pine tree branches. Lighthouse beam sweeping regularly creating rhythmic light pulses. Three bright
-      star-like objects visible in sky displaying red, green, and blue lights in patterns. Handheld cassette tape recorder
-      with red recording light, used for documenting investigation, metal and plastic construction typical of 1980 portable
-      recording devices capturing continuous observations. Team members' breath visible in extremely cold air, fingers nearly
-      freezing affecting equipment operation.
-    background: Distant lighthouse beam sweeping through dark forest, creating rhythmic pulses of light, coastal beacon visible
-      from inland forest
-    atmosphere: Distant lighthouse beam sweeping through dark forest, creating rhythmic pulses of light, coastal beacon visible
-      from inland forest. Complex light sources creating confusion between known lighthouse and unexplained aerial phenomena,
-      no text or letters visible
+    mainElements: Concrete bunkers with heavy security doors, multiple layers of fencing, restricted access roads, monitoring
+      equipment, guard towers
+    details: High-security underground bunker complex for nuclear weapons storage, beam of light directed toward ground from
+      unknown source above, security personnel on high alert, communication equipment active, emergency lighting activated,
+      maximum security protocols in effect, bright unusual beam illuminating weapons storage area, no text or letters visible
+    background: Maximum security environment, Cold War strategic facility, high-alert military installation, other bunker
+      facilities and security infrastructure visible
+    atmosphere: Maximum security environment, multiple layers of protection, strategic Cold War facility, unprecedented security
+      breach situation, heightened alert status throughout facility, tension and concern among military personnel
   composition:
-    cameraAngle: Wide establishing shot showing relationship between lighthouse, forest, and aerial phenomena
-    focus: Three star-like objects in sky with lighthouse beam and investigation team visible
-    depth: 'Foreground: investigation team in forest clearing. Middle: pine trees framing view. Background: distant lighthouse
-      and mysterious aerial objects'
+    cameraAngle: Wide shot showing beam phenomenon over secure facility
+    focus: Mysterious beam of light directed at nuclear weapons storage facility while military personnel respond
+    depth: Foreground shows security personnel and equipment, middle ground displays weapons storage bunkers with beam, background
+      reveals broader military facility under high alert
 visualElements:
   colorPalette:
     primary:

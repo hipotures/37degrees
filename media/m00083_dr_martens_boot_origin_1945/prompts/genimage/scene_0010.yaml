@@ -1,31 +1,30 @@
 sceneDescription:
   setting:
-    time: Late 1960s, evening
-    location: British street scene with diverse urban youth culture
-    weather: Cool evening, urban atmosphere
+    time: April 1, 1960, morning
+    location: British boot manufacturing factory in Wollaston, Northamptonshire, England
+    weather: Typical English industrial town conditions
   characters:
-  - appearance: Young Caucasian man, early 20s, working-class appearance, confident expression
-    clothing: Mod clothing, skinhead style, or punk fashion with prominent Dr. Martens boots
-    position: Walking confidently down urban street
-    action: Wearing iconic boots as symbol of youth rebellion and working-class pride
-  - appearance: Various young people, ages 16-25, diverse subcultural styles, rebellious expressions
-    clothing: 1960s youth fashion, punk elements, working-class cultural symbols including Dr. Martens
-    position: Gathered in street scene representing emerging youth movements
-    action: Adopting boots as cultural statement, transforming medical innovation into rebellion symbol
+  - appearance: Middle-aged British businessman, sturdy build typical of family manufacturing business owner
+    clothing: 1950s British business attire, practical clothing befitting boot manufacturer
+    position: Business meeting position, factory oversight role
+    action: Entrepreneurial activities, business negotiations, manufacturing decisions
   scene:
-    mainElements: Urban British street, youth culture gathering, cultural transformation visible
-    details: Black leather eight-eyelet boot with distinctive yellow stitching, grooved sole edge, bulbous upper, heel loop
-      with Airwair branding worn by diverse youth subcultures. Medical innovation transformed into symbol of counterculture
-      and rebellion. Working-class pride meeting youth expression, boots transcending original medical purpose. Cultural adoption
-      by skinheads, punks, mod culture creating lasting fashion icon. Street scene showing boots' evolution from workwear
-      to youth statement, no text or letters visible
-    background: British urban landscape with period architecture, street lamps, emerging youth culture environments
-    atmosphere: Cultural transformation, youth rebellion, working-class pride expressing through fashion
+    mainElements: Victorian-era brick factory buildings, modern production lines, quality control stations
+    details: Traditional English factory architecture, skilled craftsmen at workstations, boot production machinery, finished
+      Dr. Martens boots with distinctive features. Cherry-red smooth leather boot, eight eyelets, distinctive yellow stitching,
+      grooved sole edge, AirWair sole technology, black and yellow heel loop, iconic silhouette. Factory workers operating
+      production line, first completed 1460 boots coming off assembly line, quality inspector examining finished boots, distinctive
+      yellow stitching being applied, British craftsmanship transforming German innovation, historic moment in footwear history,
+      no text or letters visible
+    background: Traditional British manufacturing town, Victorian industrial architecture, skilled workers in organized factory
+      setting
+    atmosphere: Traditional British manufacturing, skilled craftsmanship, transformation of German innovation into British
+      cultural icon
   composition:
-    cameraAngle: Low-angle shot emphasizing the iconic boots and their cultural significance
-    focus: Dr. Martens boots as symbols of youth culture and social rebellion
-    depth: Foreground shows distinctive boot details, middle ground captures cultural adoption, background displays urban
-      British youth environment
+    cameraAngle: Wide shot showing the entire production line in operation
+    focus: First completed 1460 boots with their distinctive design features
+    depth: Foreground shows finished iconic boots, middle ground shows production line activity, background shows traditional
+      British factory
 visualElements:
   colorPalette:
     primary:

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Midday during brief period of pale daylight
+    location: Outdoor trading area in Oymyakon village, stalls protected by tarpaulins and wooden frames
+    weather: Cold at -55°C, light wind moving snow crystals
+  characters:
+  - appearance: Yakutian woman, 30s, strong build, dark hair in braids, determined expression, rosy cheeks from cold
+    clothing: Traditional Sakha winter dress with geometric patterns, thick wool coat, fur-lined boots, colorful headscarf
+    position: Standing behind market stall selling frozen fish
+    action: Arranging frozen fish on wooden display table, negotiating with customers, handling transactions with mittened
+      hands
+  - appearance: Elderly Yakutian woman, 70s, deeply lined face from decades of cold, wise eyes, gray hair in traditional style
+    clothing: Long traditional coat with intricate beadwork, multiple layers of shawls, ancient family jewelry
+    position: Examining goods at neighboring fur stall
+    action: Feeling quality of reindeer pelts, selecting furs for purchase, counting currency from traditional pouch
+  scene:
+    mainElements: Frozen fish displayed on wooden tables, fur pelts hanging from posts, vendors in heavy winter gear
+    details: Large Arctic fish frozen solid, displayed at market stalls, primary protein source for villagers during winter
+      months. Various fur pelts including reindeer, fox, and rabbit hanging from wooden display frames. Traditional Yakutian
+      vendors bundled in heavy winter clothing conducting business despite extreme temperatures. Wooden crates and baskets
+      containing other winter goods. Market stalls constructed with tarpaulins and wooden supports for wind protection.
+    background: Village buildings providing some wind shelter, other market stalls with similar cold-weather construction,
+      forest visible beyond village boundaries
+    atmosphere: Commerce continuing despite extreme conditions, community necessity overcoming environmental challenges
+  composition:
+    cameraAngle: Wide shot capturing multiple market stalls and activity
+    focus: Central market area with vendors and customers conducting winter trade
+    depth: Market vendors and goods in foreground, additional stalls and customers in middle ground, village buildings and
+      forest in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

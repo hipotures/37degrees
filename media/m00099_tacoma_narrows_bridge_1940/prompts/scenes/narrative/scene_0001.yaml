@@ -1,20 +1,16 @@
 sceneDescription:
-  title: "Engineering Ambition - Bridge Design Phase"
+  title: "The Elegant Death Trap - Bridge Opening Day"
   setting:
-    time: "1938, autumn"
-    location: "Engineering office in New York City"
-    weather: "Clear autumn day in urban setting"
-  characters:
-    - appearance: "American man, 60s, distinguished engineer appearance, gray hair, authoritative bearing"
-      clothing: "1940s formal engineering suit with tie, carrying rolled engineering plans"
-      position: "Standing at drafting table with bridge blueprints"
-      action: "Professional engineering confidence, studying innovative bridge plans with satisfaction"
+    time: "July 1, 1940, morning"
+    location: "Tacoma Narrows strait of Puget Sound, Washington, suspended 190 feet above water"
+    weather: "Clear summer day with light winds"
+  characters: "No characters present in this scene"
   scene:
-    mainElements: "Engineering office with detailed suspension bridge blueprints, calculations, and design innovations"
-    details: "Detailed engineering drawings of narrow suspension bridge design, mathematical calculations for unprecedented span length, innovative shallow girder specifications, cost-saving design elements, drafting tools and engineering instruments, bridge model on display table"
-    background: "Professional engineering office with technical reference books, other bridge projects, New York cityscape through windows"
-    atmosphere: "Confident engineering innovation pushing boundaries of suspension bridge design, pursuit of elegance and economy over safety factors, revolutionary approach to long-span bridges, no text or letters visible"
+    mainElements: "2,800-foot center span, two 425-foot tall towers, shallow 8-foot plate girders, elegant Art Deco styling"
+    details: "Pristine new suspension bridge with sleek profile spanning deep blue water, white painted towers gleaming in sunlight, roadway appearing impossibly slender compared to massive towers. Bridge deck shows subtle undulation even in light wind, hinting at flexibility that will prove fatal. Cars crossing appear tiny against the massive scale, emphasizing bridge's revolutionary lightweight design."
+    background: "Forested hills of Olympic Peninsula on one side, Tacoma cityscape on other, Puget Sound stretching to horizon with occasional ferry boat"
+    atmosphere: "Notoriously flexible structure with visible undulations in wind, nicknamed 'Galloping Gertie', both beautiful and ominous"
   composition:
-    cameraAngle: "Medium shot showing engineering design process"
-    focus: "Innovative but ultimately flawed bridge design philosophy"
-    depth: "Engineer and blueprints in foreground, engineering office in middle ground, city views in background"
+    cameraAngle: "Wide aerial establishing shot from southwest"
+    focus: "Complete bridge span showcasing its elegant proportions and setting"
+    depth: "Bridge dominates middle ground, water surface in foreground, forested hills in background, no text or letters visible"

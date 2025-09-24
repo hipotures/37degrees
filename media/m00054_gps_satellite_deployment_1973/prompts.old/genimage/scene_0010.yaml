@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: July 1995, afternoon
+    location: US Air Force Satellite Control Facility, Colorado Springs, Colorado
+    weather: Clear summer day over Colorado mountains
+  characters:
+  - appearance: Team of technicians and operators, 25-45 years old, concentrated expressions
+    clothing: 1990s business attire, white shirts with narrow ties, some with headsets
+    position: Seated at control consoles, monitoring screens, communicating via headsets
+    action: Monitoring complete 24-satellite GPS constellation, confirming full operational status
+  - appearance: Senior Air Force commander, 50s, distinguished bearing, satisfaction evident
+    clothing: Air Force dress uniform with command pilot wings and ribbons
+    position: Standing at command center overseeing historic milestone
+    action: Observing full constellation status displays, conferring with technical staff about operational capability
+  scene:
+    mainElements: Banks of monitoring equipment, large screens showing orbital data, control consoles, complete 24-satellite
+      constellation display showing global coverage, modern 1990s computer terminals
+    details: Advanced 1990s control systems, large projection screens showing world map with complete satellite coverage,
+      24 operational GPS satellites indicated on displays, mission status boards, celebration atmosphere, no text or letters
+      visible
+    background: Advanced satellite control facility with updated technology, American flag, mission accomplishment banners,
+      large windows showing Colorado mountain views
+    atmosphere: Achievement and completion of 22-year development program, pride in technological accomplishment, historic
+      moment of full global navigation capability
+  composition:
+    cameraAngle: Wide shot showing complete control center celebrating achievement
+    focus: Control room displays showing complete 24-satellite GPS constellation
+    depth: Console operators in foreground, constellation displays in middle ground, command facility celebration in background
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

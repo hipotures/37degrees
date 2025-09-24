@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Military Forces Arrive at Campion Settlement"
+  setting:
+    time: "1932, late afternoon"
+    location: "Rural farming settlement of Campion, Western Australia, 1932"
+    weather: "Hot dusty afternoon with desert winds"
+  characters:
+    - appearance: "Caucasian man, 40s, military bearing, stern face with mustache, weathered complexion from outdoor service"
+      clothing: "Australian military officer uniform 1930s, khaki tunic with brass buttons, peaked cap with insignia, polished brown leather boots"
+      position: "Standing beside military truck reviewing the settlement"
+      action: "Surveying the area and pointing toward the wheat fields while giving orders"
+    - appearance: "Caucasian man, 30s, sturdy build, alert expression, clean-shaven face"
+      clothing: "Australian military sergeant uniform 1930s, khaki tunic and trousers, military cap, leather belt with ammunition pouches"
+      position: "Unloading equipment from military vehicle"
+      action: "Carefully handling machine gun equipment and ammunition boxes"
+    - appearance: "Caucasian man, 50s, sun-weathered face, worried expression, calloused hands"
+      clothing: "1930s farmer attire, worn cotton shirt, dark trousers held by suspenders, wide-brimmed hat, work boots"
+      position: "Standing near grain silo gesturing toward damaged fields"
+      action: "Pointing out the extent of emu damage to the military personnel"
+  scene:
+    mainElements: "Small collection of weathered wooden buildings, grain silos, farm equipment arranged around the settlement center with military truck and equipment being positioned strategically"
+    details: "Military truck with canvas covering parked near grain storage buildings. British Lewis light machine guns, distinctive circular ammunition pans on top, bipod legs, wooden stocks being carefully positioned for deployment. Ammunition boxes and military supplies being organized. Farm buildings show signs of emu damage - scattered debris, damaged roofing, disturbed equipment. Windmill slowly turning in desert breeze. Farm tools and equipment scattered about. Local farmers gathering to watch military arrival"
+    background: "Remote frontier settlement under vast blue sky, damaged wheat fields visible in the distance, red earth and scattered rocks typical of Western Australian outback"
+    atmosphere: "Sense of military intervention in rural crisis, tension between agricultural desperation and military efficiency, anticipation of coming conflict with nature, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot showing military arrival at farming settlement"
+    focus: "The convergence of military precision and rural agricultural crisis"
+    depth: "Foreground shows military equipment being deployed, middle ground captures the interaction between soldiers and farmers, background reveals the vast damaged agricultural landscape"

@@ -1,26 +1,26 @@
 sceneDescription:
   setting:
-    time: August 1859, afternoon
-    location: High windswept meadow on southern end of San Juan Island overlooking Griffin Bay
-    weather: Windy afternoon with clear visibility
-  characters:
-  - appearance: American man, 34, dark mustache, slender military bearing, intense eyes
-    clothing: US Army blue uniform with captain's bars, peaked military cap, black leather belt with sword
-    position: Supervising earthwork construction
-    action: Military precision, studying maps and directing cannon placement, checking defensive positions
+    time: July 31, 1859, afternoon
+    location: Sheltered harbor on southeastern San Juan Island, natural anchorage
+    weather: Dramatic afternoon with building clouds reflecting the international tension
+  characters: No characters present in this scene
   scene:
-    mainElements: Military tents arranged in formation, earthwork redoubt, cannons positioned strategically
-    details: US Army camp with blue canvas tents in precise military formation, earthwork fortification under construction,
-      14 military cannons positioned in earthwork redoubt with brass and iron construction, soldiers digging trenches and
-      building defensive walls, American flag flying over camp, supply wagons and military equipment
-    background: Commanding view of Griffin Bay and surrounding waters, British warships visible in distance, island landscape
-      stretching to horizon
-    atmosphere: Frontier military outpost with commanding view of surrounding waters, American determination to hold strategic
-      position, defensive preparations for potential conflict, no text or letters visible
+    mainElements: Natural harbor, sandy beach, anchorage for ships, view across to Vancouver Island
+    details: Three-masted British naval frigate, 31-gun warship, dark hull with white stripe, British naval ensign, gun ports
+      along sides anchored menacingly in Griffin Bay. The imposing HMS Tribune dominates the harbor with its cannon pointing
+      toward the American encampment. Two additional British warships - HMS Satellite and HMS Plumper - are positioned strategically
+      around the bay, creating a naval blockade. The combined British naval force now includes over 2,000 men and dozens of
+      guns trained on the small American military camp. Ships' rigging creates a forest of masts and lines against the cloudy
+      sky.
+    background: San Juan Island's coastline with American military tents visible on shore, Vancouver Island across the water,
+      storm clouds gathering
+    atmosphere: Tense naval standoff location, sounds of creaking ships and maritime activity, smell of salt air, impending
+      conflict, no text or letters visible
   composition:
-    cameraAngle: Elevated shot showing military fortification and strategic position
-    focus: American military preparations and defensive earthworks
-    depth: Military camp and fortifications in foreground, Griffin Bay in middle ground, British naval presence in background
+    cameraAngle: Wide shot from elevated position showing the impressive British naval force
+    focus: The overwhelming British naval response to American military occupation
+    depth: Foreground shows the lead British warship HMS Tribune, middle ground reveals additional warships in formation,
+      background shows the contested island and threatening weather
 visualElements:
   colorPalette:
     primary:

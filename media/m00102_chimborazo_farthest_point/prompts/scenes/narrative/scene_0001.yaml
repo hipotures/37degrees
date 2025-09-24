@@ -1,16 +1,20 @@
 sceneDescription:
-  title: "Earth's True Shape from Space"
+  title: "English scholar formulates Earth's oblate theory in Cambridge study"
   setting:
-    time: "Modern era, daylight"
-    location: "Conceptual view showing Earth's interior structure and shape"
-    weather: "Space environment"
-  characters: "No characters present in this scene"
+    time: "1687, late afternoon"
+    location: "17th-century scholarly study at Cambridge University, England"
+    weather: "Overcast autumn day with gray light filtering through windows"
+  characters:
+    - appearance: "Elderly 17th-century English scholar, shoulder-length graying hair, sharp intellectual features, medium build"
+      clothing: "Black academic robes, white collar bands, period-appropriate wig when formal"
+      position: "Seated at desk with quill pen in hand, surrounded by mathematical calculations"
+      action: "Writing theoretical calculations and diagrams"
   scene:
-    mainElements: "Earth's layers visible, equatorial bulge apparent, comparative distance measurements showing the planet's oblate spheroid shape rather than perfect sphere"
-    details: "Earth viewed from space showing subtle but crucial equatorial bulge, with cross-sectional diagram revealing internal structure, measurement lines indicating distance from center to surface at equator versus poles, no text or letters visible"
-    background: "Deep space with stars, showing Earth's position in solar system"
-    atmosphere: "Educational diagram showing Earth's true oblate spheroid shape with scientific precision"
+    mainElements: "Wooden desk with inkwell and papers, bookshelves filled with scientific texts, window overlooking courtyard, mathematical diagrams scattered across workspace"
+    details: "Quill pen poised over parchment covered with geometric calculations, compass and measuring tools on desk, leather-bound copies of Principia manuscript pages, candle providing additional light, ink stains on scholar's fingers from intensive writing, no text or letters visible"
+    background: "Cambridge University courtyard visible through leaded glass windows, other academic buildings in distance, bare autumn trees"
+    atmosphere: "Quiet scholarly environment, warm candlelight contrasting with gray daylight, intellectual focus and concentration, revolutionary ideas taking shape"
   composition:
-    cameraAngle: "Wide orbital perspective showing full Earth"
-    focus: "Earth's equatorial bulge and shape comparison"
-    depth: "Earth in middle ground, space in background, measurement indicators in foreground"
+    cameraAngle: "Medium shot from slightly above, looking down at scholar at work"
+    focus: "Scholar's hands writing calculations, with face showing intense concentration"
+    depth: "Foreground: desk and papers, middle: scholar working, background: bookshelves and window view"

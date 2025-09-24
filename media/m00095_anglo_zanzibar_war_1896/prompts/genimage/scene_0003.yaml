@@ -1,28 +1,29 @@
 sceneDescription:
   setting:
-    time: August 27, 1896, morning
-    location: HMS St George bridge, Zanzibar Harbor
-    weather: Clear morning with ocean breeze
+    time: August 26, 1896, 10:00 AM
+    location: Natural deep-water harbor facing Stone Town waterfront in Indian Ocean
+    weather: Crystal clear tropical morning, light wind from east
   characters:
-  - appearance: British man, 50s, weathered face, gray mustache, stocky naval build, stern expression
-    clothing: Royal Navy uniform with gold braid, white tropical helmet, black leather belt
-    position: Standing at ship's bridge overlooking harbor
-    action: Military bearing, hands clasped behind back studying palace through binoculars
-  - appearance: British man, 40s, pale complexion, thin build, diplomatic bearing, wire-rimmed spectacles
-    clothing: Colonial administrator white linen suit, pith helmet, leather satchel
-    position: Standing beside naval officer
-    action: Formal diplomatic stance, consulting documents and adjusting spectacles
+  - appearance: Age 53, medium build, steel-grey hair and moustache, weathered face from years at sea, stern blue eyes
+    clothing: Full Royal Navy dress uniform with gold braiding, admiral's peaked cap with naval insignia, medals on chest
+      including Order of the Bath
+    position: Authoritative military bearing with hands clasped behind back
+    action: Decisive commanding presence, clipped speaking manner
   scene:
-    mainElements: Bridge of British warship with naval instruments, maps, and communication equipment, palace visible in distance
-    details: Ship's brass compass, naval charts spread on table, signal flags ready for hoisting, crew members at battle stations,
-      naval guns visible on deck below, other warships in formation nearby
-    background: Zanzibar palace complex and Stone Town visible across harbor waters, tropical coastline with palm trees
-    atmosphere: Military precision and imperial authority, calm before storm, professional naval efficiency preparing for
-      action, no text or letters visible
+    mainElements: Five British warships in battle formation, dhow sailing boats fled to safety, stone quays and piers, lighthouse
+      on shore
+    details: Large steel warship, white hull with black funnel, single main mast, two gun turrets, British naval ensign, fully
+      operational with latest naval technology. Additional warships HMS Philomel, HMS Racoon, HMS Thrush, and HMS Sparrow
+      in formation. Naval crews preparing for action, gun crews at stations, signal flags communication between ships
+    background: Stone Town waterfront with white limestone buildings, palace visible on shoreline, tropical vegetation, local
+      boats keeping distance
+    atmosphere: Crystal clear morning, light wind from east, gun smoke drifting over water, thunderous cannon fire echoing
+      off buildings, tension building as overwhelming naval power demonstrates British resolve, no text or letters visible
   composition:
-    cameraAngle: Medium shot from ship's bridge looking toward shore
-    focus: British naval officers preparing for confrontation
-    depth: Ship's bridge and officers in foreground, harbor waters in middle ground, palace complex in background
+    cameraAngle: Wide establishing shot from harbor perspective
+    focus: British flagship HMS St. George with Character HR, formation of five warships
+    depth: 'Foreground: flagship bridge with admiral, middle: fleet in battle formation, background: Stone Town and palace
+      waterfront'
 visualElements:
   colorPalette:
     primary:

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Loading mysterious debris at military airfield"
+  setting:
+    time: "July 8, 1947, morning"
+    location: "Roswell Army Air Field (RAAF), major military installation near Roswell, New Mexico"
+    weather: "Clear morning, warming desert air"
+  characters:
+    - appearance: "Caucasian man, 39, clean-shaven, dark hair neatly combed, average build"
+      clothing: "USAAF Pinks and Greens Class A uniform - olive drab gabardine wool jacket with light taupe trousers, khaki shirt with black tie, gold oak leaf insignia on shoulders"
+      position: "Standing near aircraft cargo door"
+      action: "Supervising loading operation, checking manifest papers"
+    - appearance: "Several military personnel, various ages"
+      clothing: "Military work uniforms, some in flight gear"
+      position: "Around B-29 bomber aircraft"
+      action: "Loading sealed containers into aircraft cargo hold"
+  scene:
+    mainElements: "Military base with runways, curved-roof hangars with corrugated metal siding, administrative buildings, barracks"
+    details: "B-29 Superfortress bomber with cargo doors open, sealed wooden crates being loaded, armed guards posted nearby, propellers static, morning sun glinting off aluminum aircraft skin, fuel truck in distance, windsock showing light breeze, no text or letters visible"
+    background: "Active military installation, utilitarian WWII-era architecture, concrete and brick structures, institutional colors"
+    atmosphere: "High security operation, controlled urgency, military precision, early morning military base activity"
+  composition:
+    cameraAngle: "Low angle emphasizing aircraft size"
+    focus: "Loading operation of mysterious cargo into bomber"
+    depth: "Foreground shows officer with papers, middle ground has loading activity, background shows massive hangar structures"

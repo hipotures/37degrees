@@ -1,24 +1,17 @@
 sceneDescription:
-  title: "First Commercial GPS Device Demonstration - 1989"
+  title: "Atlas F Rocket Launch - First GPS Satellite Deployment"
   setting:
-    time: "1989, late morning"
-    location: "Electronics trade show exhibit hall, major convention center"
-    weather: "Indoor controlled environment, bright exhibition lighting"
+    time: "February 22, 1978, 9:34 AM"
+    location: "Space Launch Complex 3E, Vandenberg Air Force Base, California coast"
+    weather: "Clear February morning with perfect launch conditions"
   characters:
-    - appearance: "Technology demonstrator, 40s, enthusiastic expression, technical expertise evident"
-      clothing: "1980s business casual with company polo shirt and khaki slacks, exhibition badge"
-      position: "Standing behind demonstration table displaying GPS device"
-      action: "Demonstrating handheld GPS unit to interested trade show attendees"
-    - appearance: "Trade show attendees, mixed demographics 30s-60s, curious and impressed expressions"
-      clothing: "1980s business attire, suits and ties, some with visitor badges and briefcases"
-      position: "Gathered around demonstration table examining GPS technology"
-      action: "Listening to demonstration, examining GPS device, asking technical questions"
+    No characters present in this scene
   scene:
-    mainElements: "Electronics trade show booth with first commercial GPS device on display, handheld GPS unit prominently featured, demonstration table with technical specifications and marketing materials"
-    details: "Magellan NAV 1000 GPS device - large handheld unit with LCD display and multiple buttons, weighing approximately 1.5 pounds, demonstration table with technical brochures, trade show booth graphics, no text or letters visible"
-    background: "Busy trade show environment with other technology exhibits, convention center ceiling and lighting, crowds of attendees moving between booths"
-    atmosphere: "Excitement of new consumer technology, trade show energy with crowds examining innovations, historic moment of GPS becoming commercially available"
+    mainElements: "Space Launch Complex 3E, Vandenberg Air Force Base, California coast"
+    details: "68-foot tall two-stage rocket with distinctive white and orange coloring, liquid fuel propulsion systems, modified ICBM design converted for satellite launches, capable of medium Earth orbit insertion lifting off in brilliant orange flame and white exhaust plume. Massive clouds of vapor and smoke billowing from launch pad, service towers standing empty after rocket departure, blockhouse control center with radar tracking dishes following ascent trajectory. Historic moment as first GPS satellite begins journey to orbit that will transform global navigation forever."
+    background: "California coastal launch facility with Pacific Ocean backdrop, clear blue February sky, military base infrastructure"
+    atmosphere: "Clear February morning with ocean breeze, anticipation and technical precision, countdown procedures atmosphere"
   composition:
-    cameraAngle: "Medium shot capturing demonstration and interested audience"
-    focus: "GPS device demonstration with attendees examining new technology"
-    depth: "GPS device and demonstrator in foreground, interested attendees in middle ground, busy trade show environment in background"
+    cameraAngle: "Low angle shot from safe distance showing rocket ascending into clear sky"
+    focus: "Atlas F rocket carrying NAVSTAR 1 - the first GPS satellite - launching into history"
+    depth: "Rocket and exhaust plume dominating foreground, launch complex infrastructure in middle ground, Pacific Ocean and California coast in background, no text or letters visible"

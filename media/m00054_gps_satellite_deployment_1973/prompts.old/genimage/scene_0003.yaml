@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: 1974, afternoon
+    location: Naval Research Laboratory, Washington DC area
+    weather: Overcast winter day with gray skies
+  characters:
+  - appearance: Team of technicians and operators, 25-45 years old, concentrated expressions
+    clothing: 1970s business attire, white shirts with narrow ties, some with headsets
+    position: Working at precision timing equipment consoles and measurement devices
+    action: Calibrating atomic clock mechanisms, monitoring timing displays, recording measurements in logbooks
+  - appearance: Lead scientist, 50s, serious expression, wire-rimmed glasses
+    clothing: White lab coat over dark suit with thin tie, government ID badge
+    position: Standing beside large atomic clock apparatus, consulting technical documentation
+    action: Supervising precision timing measurements and checking calibration data
+  scene:
+    mainElements: 1970s government research facility with atomic clock equipment and timing instruments, large cesium atomic
+      clock apparatus dominating center of room, precision measurement consoles
+    details: Precision cesium atomic clock device, metal housing with digital displays and cable connections, oscilloscope
+      screens showing waveforms, frequency counters, strip chart recorders, technical manuals open on workbenches, no text
+      or letters visible
+    background: Government institutional walls with official Navy seals, technical charts showing frequency standards, windows
+      with security mesh
+    atmosphere: Scientific research environment with technical equipment and measurement devices, quiet precision work environment,
+      importance of timing accuracy
+  composition:
+    cameraAngle: Medium shot focusing on atomic clock equipment
+    focus: Central atomic clock apparatus with technicians working
+    depth: Atomic clock in foreground, working technicians in middle ground, institutional laboratory background
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

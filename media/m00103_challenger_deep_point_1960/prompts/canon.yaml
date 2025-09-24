@@ -4,62 +4,77 @@ canon:
       name: "Character JP"
       description_block: |
         characters:
-          - appearance: "Swiss man, 40s, tall and lean build, intelligent dark eyes, wavy dark hair"
-            clothing: "1960s thick woolen sweater over collared shirt, heavy winter jacket during surface operations"
-            posture: "Confident, methodical, often checking instruments or technical equipment"
+          - appearance: "37 years old Caucasian man, medium build, clean-shaven with short dark hair, intelligent brown eyes behind wire-rimmed glasses, calm and methodical demeanor"
+            clothing: "Navy-issue wool sweater over white shirt, thick wool pants, heavy leather boots, waterproof chronometer watch"
+            position: "Inside Trieste crew sphere, seated at instrument panel"
+            action: "Monitoring depth gauges and pressure readings with scientific precision"
     - id: "character_DW"
       name: "Character DW"
       description_block: |
         characters:
-          - appearance: "American man, 30s, military bearing, short-cropped hair, alert expression"
-            clothing: "US Navy uniform with lieutenant insignia, or heavy weather gear during operations"
-            posture: "Alert military stance, hands often positioned near controls or communication equipment"
-    - id: "surface_crew"
-      name: "Surface Crew"
+          - appearance: "29 years old Caucasian man, athletic military bearing, short-cropped brown hair, square jaw, alert blue eyes, confident posture"
+            clothing: "Navy utility uniform with lieutenant's bars, thick wool Navy sweater, military-issue boots, Navy insignia clearly visible"
+            position: "Inside Trieste crew sphere, seated beside diving controls"
+            action: "Taking detailed notes and operating ballast controls with military precision"
+    - id: "character_AP"
+      name: "Character AP"
       description_block: |
         characters:
-          - appearance: "Mixed group of men, 20s-50s, various builds, serious expressions"
-            clothing: "1960s naval uniforms, heavy weather jackets, safety gear during operations"
-            posture: "Focused on equipment monitoring, coordinated teamwork during operations"
+          - appearance: "76 years old Caucasian man, tall and lean, wild white hair, penetrating eyes, distinguished academic appearance"
+            clothing: "Period-appropriate dark suit with bow tie, occasionally seen in laboratory coat during technical discussions"
+            position: "On USS Lewis deck, observing dive operations"
+            action: "Watching mission progress with intense scientific interest, occasionally consulting technical documents"
+    - id: "character_AH"
+      name: "Character AH"
+      description_block: |
+        characters:
+          - appearance: "Mid-50s Caucasian man, distinguished military bearing, silver hair, authoritative presence"
+            clothing: "Full Navy dress uniform with ribbons and insignia, polished brass buttons, peaked cap with gold braid"
+            position: "On USS Lewis bridge, overseeing operations"
+            action: "Directing mission coordination and strategic communications with Washington"
   locations:
-    - id: "mariana_trench_surface"
-      name: "Mariana Trench Surface Waters"
+    - id: "challenger_deep_seafloor"
+      name: "Challenger Deep Seafloor"
       description_block: |
         setting:
-          location: "Pacific Ocean surface above Mariana Trench, western Pacific, 200 miles southwest of Guam"
-        mainElements: "Vast deep blue ocean waters, support ships visible on horizon, choppy seas under overcast sky"
-        atmosphere: "Remote, isolating, sense of enormous depth beneath calm surface waters"
-    - id: "trieste_interior"
+          location: "Deepest known point on Earth's surface, 35,814 feet below Pacific Ocean surface, southwestern end of Mariana Trench"
+        mainElements: "Seafloor composed of fine diatomaceous ooze, complete darkness except for Trieste's lights, crushing pressure of 1,100 times atmospheric pressure"
+        atmosphere: "Absolute silence except for creaking of Trieste's hull, water temperature near freezing at 34-39°F, total darkness broken only by submersible's lights creating small illuminated circle on seafloor"
+    - id: "uss_lewis_deck"
+      name: "USS Lewis Support Vessel"
+      description_block: |
+        setting:
+          location: "World War II-era destroyer escort DE-535 serving as Project Nekton flagship, anchored 200 nautical miles southwest of Guam"
+        mainElements: "Steel warship with sonar tracking equipment, crane for launching Trieste, radio communications array, crew quarters for support personnel"
+        atmosphere: "Tense anticipation among crew, constant sonar pinging to track Trieste's descent, radio chatter between surface and dive teams"
+    - id: "trieste_crew_sphere"
       name: "Trieste Bathyscaphe Interior"
       description_block: |
         setting:
-          location: "Cramped spherical crew cabin inside Trieste bathyscaphe, 1960s deep-sea technology"
-        mainElements: "Round metal walls lined with instruments, small porthole windows, analog gauges and controls"
-        atmosphere: "Confined, high-tech for 1960s, mixture of excitement and tension, cold metal surfaces"
-    - id: "challenger_deep_seafloor"
-      name: "Challenger Deep Ocean Floor"
+          location: "Cramped steel sphere 7 feet in diameter, walls 5 inches thick, designed to withstand crushing deep-sea pressure"
+        mainElements: "Two small porthole windows, instrument panels with depth gauges and pressure readings, communication equipment, emergency systems, life support for 24 hours"
+        atmosphere: "Temperature drops to 45°F during dive, constant mechanical sounds of life support, tension increases as window cracks during descent"
+    - id: "pacific_surface"
+      name: "Pacific Ocean Surface"
       description_block: |
         setting:
-          location: "Ocean floor at Challenger Deep, 35,814 feet below Pacific Ocean surface, Mariana Trench"
-        mainElements: "Fine diatomaceous ooze sediment covering seafloor, complete darkness except for submersible lights"
-        atmosphere: "Alien, otherworldly, crushing pressure, absolute silence, unprecedented depth"
-    - id: "uss_wandank"
-      name: "USS Wandank Support Ship"
-      description_block: |
-        setting:
-          location: "US Navy support vessel USS Wandank (ATF-204) on Pacific Ocean surface, Mariana Trench area"
-        mainElements: "Military vessel with communication equipment, cranes for submersible operations, crew quarters"
-        atmosphere: "Organized military efficiency, tension during deep dive operations, international cooperation"
+          location: "Open Pacific Ocean dive site, thousands of miles from nearest land, water depth over 6 miles, southwest of Guam"
+        mainElements: "Calm seas with gentle swells, USS Lewis visible as distant speck, Trieste floating like orange and white ball on vast blue surface"
+        atmosphere: "January tropical warmth contrasting with deadly cold depths below, gentle trade winds, endless blue horizon in all directions"
   items:
     - id: "trieste_bathyscaphe"
-      name: "Trieste Bathyscaphe"
+      name: "Bathyscaphe Trieste"
       description_block: |
-        details: "Swiss-designed deep-sea submersible with cylindrical float tanks containing gasoline, spherical crew cabin suspended below, thick metal construction, small porthole windows, external lights"
-    - id: "depth_instruments"
-      name: "1960s Depth Instruments"
+        details: "59.5 feet long, orange and white hull containing 32,000 gallons of gasoline for buoyancy, steel crew sphere suspended beneath, two 2-horsepower electric motors for propulsion"
+    - id: "cracked_window"
+      name: "Cracked Window System"
       description_block: |
-        details: "Analog pressure gauges, depth meters, temperature sensors, primitive sonar equipment, manual controls with large dials and switches, brass fittings, warning lights"
-    - id: "seafloor_life"
-      name: "Deep Ocean Life Forms"
+        details: "Outer Plexiglas window pane with visible crack, part of multiple-layer window system designed for extreme pressure, crack occurred at 30,000 feet depth causing violent shaking"
+    - id: "depth_measurement_equipment"
+      name: "Precision Depth Gauges"
       description_block: |
-        details: "White flatfish visible on seafloor, small red shrimp creatures, microscopic life in diatomaceous ooze, adapted to extreme pressure and darkness"
+        details: "Mechanical depth gauge with pressure sensors, multiple redundant systems for depth measurement, brass and steel construction with analog dials and needle indicators"
+    - id: "diatomaceous_seafloor_sediment"
+      name: "Seafloor Sediment"
+      description_block: |
+        details: "Fine, light-colored sediment composed of fossilized marine microorganisms, easily disturbed creating milky clouds when disturbed by submersible landing"

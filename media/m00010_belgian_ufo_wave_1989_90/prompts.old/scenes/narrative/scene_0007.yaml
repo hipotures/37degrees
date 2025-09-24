@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "F-16 Scramble Alert - Beauvechain Base"
+  setting:
+    time: "March 30, 1990, 23:10 hours"
+    location: "Belgian Air Force base, Beauvechain, central Belgium"
+    weather: "Night with cloud cover, limited visibility"
+  characters:
+    - appearance: "NATO fighter pilot, 25-35 years old, focused expression"
+      clothing: "NATO standard green Nomex flight suit, G-suit for high-performance maneuvers, HGU-55 flight helmet with oxygen mask, squadron patches on shoulders"
+      position: "Running toward F-16 fighter jet on alert pad"
+      action: "Rapid movement toward aircraft in response to scramble order"
+  scene:
+    mainElements: "Night airbase scene with emergency lighting and alert procedures"
+    details: "General Dynamics F-16A Fighting Falcon, early Block 10/15 versions, European grey camouflage scheme, Belgian roundels and tail codes, armed with AIM-9 Sidewinder missiles, standard NATO navigation lights being prepared for emergency takeoff. Ground crew rapidly removing chocks and external equipment. Alert lights flashing, emergency vehicles positioning nearby. Tower communications active."
+    background: "Active military installation with F-16 fighter jets, ground crews, security perimeter under night emergency conditions"
+    atmosphere: "High tension military alert with urgent preparation for intercept mission"
+  composition:
+    cameraAngle: "Dynamic angle showing urgency of scramble response"
+    focus: "Pilot rushing to aircraft while ground crew prepares for immediate launch"
+    depth: "Foreground: pilot and ground activity, middle ground: F-16 and support equipment, background: airbase facilities under alert lighting, no text or letters visible"

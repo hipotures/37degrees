@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Medical practice - healing by day"
+  setting:
+    time: "1826, morning"
+    location: "Ground floor physician's office in Bremen townhouse, 1826"
+    weather: "Bright morning sunlight streaming through windows"
+  characters:
+    - appearance: "German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom"
+      clothing: "1820s dark blue physician's coat over white shirt and black vest"
+      position: "Seated at oak desk examining patient records and medical instruments"
+      action: "Carefully organizing medical supplies and reviewing patient notes with methodical precision"
+    - appearance: "Young German man, early 20s, slight build, brown hair, eager expression"
+      clothing: "Simple white shirt with rolled sleeves, dark vest, leather apron for medical work"
+      position: "Standing beside medicine cabinet arranging bottles and instruments"
+      action: "Preparing medical tools and supplies for day's patient appointments"
+  scene:
+    mainElements: "Medical examination table with clean white linens, cabinet with bottles and instruments, desk with patient records, morning sunlight illuminating workspace"
+    details: "Glass bottles with medical compounds on wooden shelves, metal surgical instruments in leather case, scales for measuring medicine, white ceramic bowls and clean bandages, ink well and quill pen for patient records, small window showing street view"
+    background: "Wall-mounted medical diplomas and anatomical charts, bookshelf with medical texts, coat rack with spare physician garments"
+    atmosphere: "Professional medical environment focused on healing and care, methodical organization showing dedication to patients' wellbeing, quiet morning preparation for day's work, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from patient's perspective"
+    focus: "character_HO organizing medical practice with assistant's help"
+    depth: "Foreground shows medical table and instruments, middle ground centers on characters at work, background reveals organized medical office"

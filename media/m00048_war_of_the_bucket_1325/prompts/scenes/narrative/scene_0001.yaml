@@ -1,20 +1,17 @@
 sceneDescription:
-  title: "Medieval Bologna - Center of Guelph Power"
+  title: "Northern Italy Medieval Landscape - Cities of Bologna and Modena"
   setting:
-    time: "1325, early morning"
-    location: "Piazza Maggiore, Bologna, medieval Italy with Gothic buildings surrounding"
-    weather: "Clear autumn morning with light mist"
+    time: "1325, autumn afternoon"
+    location: "Emilia-Romagna region of northern Italy, aerial view showing both Bologna and Modena"
+    weather: "Clear autumn day with scattered clouds, crisp air, golden afternoon light"
   characters:
-    - appearance: "Italian man or woman, various ages, period-appropriate features"
-      clothing: "Simple wool tunics, cloaks, merchant or artisan attire"
-      position: "Moving across the square, some gathered near the central well"
-      action: "Conducting morning business, drawing water, setting up market stalls"
+    # No characters present in this scene
   scene:
-    mainElements: "Large stone square with central well, Gothic architecture, red brick buildings"
-    details: "Medieval merchants arranging goods on wooden tables, stone well with rope and bucket, Gothic cathedral spires rising above red-tiled rooftops, narrow cobblestone streets leading into the square, hanging guild signs and banners displaying Bologna's red colors, pigeons pecking at scattered grain"
-    background: "Towering Gothic buildings with pointed arches, ornate stonework, and red brick construction typical of medieval Bologna"
-    atmosphere: "Bustling medieval city center with period architecture, morning light casting long shadows across ancient stones, sounds of commerce and daily life beginning"
+    mainElements: "Panoramic view of medieval northern Italian countryside showing two major walled cities separated by rolling hills and farmland. Bologna appears larger with prominent university towers and merchant buildings, while Modena shows strong fortifications with the Torre della Ghirlandina bell tower"
+    details: "Medieval road connecting the cities, harvested fields with autumn stubble, scattered oak groves with golden leaves, small villages with smoking chimneys, stone bridges crossing streams, defensive walls around both cities clearly visible. Church spires and towers rise from both settlements, with Guelph banners visible on Bologna and Ghibelline banners on Modena. Ancient Roman road runs between the cities. Agricultural terraces, vineyards, and olive groves dot the landscape"
+    background: "Distant Apennine mountains forming the horizon, other smaller medieval settlements, network of trade routes, countryside dotted with farms and monasteries"
+    atmosphere: "Peaceful medieval landscape showing prosperity and civilization, but with underlying tension visible in the heavy fortifications of both cities. Golden autumn light creates dramatic shadows, conveying the calm before the storm of medieval warfare"
   composition:
-    cameraAngle: "Wide establishing shot from elevated position"
-    focus: "The grand medieval square showing the scale and architecture of 14th century Bologna"
-    depth: "Foreground: market activity and citizens, Middle: central well and square, Background: Gothic cathedral and city buildings, no text or letters visible"
+    cameraAngle: "High aerial view from significant elevation"
+    focus: "The two rival cities and the strategic countryside between them"
+    depth: "Foreground shows detailed medieval landscape, middle ground features the two cities with their distinctive architecture, background shows distant mountains and horizon, no text or letters visible"

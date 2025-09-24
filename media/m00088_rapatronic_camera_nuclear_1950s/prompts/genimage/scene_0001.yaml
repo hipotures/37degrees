@@ -1,25 +1,29 @@
 sceneDescription:
   setting:
-    time: 1950, dawn
-    location: Nevada Test Site, remote desert location 65 miles northwest of Las Vegas, Nevada
-    weather: Clear desert morning with crisp air
+    time: 1948, late afternoon
+    location: MIT Electrical Engineering Laboratory, Cambridge, Massachusetts
+    weather: Clear winter day with natural light streaming through large windows
   characters:
-  - appearance: Caucasian man, 40s, authoritative bearing, stern expression, well-groomed hair
-    clothing: Dark government suit with white shirt and conservative tie, military-style bearing
-    position: Standing on elevated observation platform overlooking test area
-    action: Pointing toward distant steel test tower while briefing team on photography requirements
+  - appearance: 50-year-old man, medium height, wire-rimmed glasses, receding hairline, kind face with intelligent eyes
+    clothing: 1950s white lab coat over pressed shirt and narrow tie, dress pants, practical leather shoes
+    position: Standing at workbench, leaning over prototype camera equipment
+    action: Adjusting optical components with precise movements, examining Faraday cell assembly
   scene:
-    mainElements: Vast desert landscape with mountains in distance, concrete observation bunkers, steel towers
-    details: Multiple steel towers rising from desert floor, concrete observation bunkers scattered across terrain, military
-      vehicles positioned at safe distances, pristine morning light revealing harsh beauty of Nevada desert, measuring equipment
-      visible near test structures, no text or letters visible
-    background: Mountain ranges on horizon creating dramatic silhouette against dawn sky, endless desert expanse with sparse
-      vegetation
-    atmosphere: Isolated and barren, harsh desert conditions, sense of scientific importance and danger
+    mainElements: 1950s university laboratory with high ceilings, large windows, concrete floors, workbenches covered with
+      optical equipment, prototype cameras, electronic components, testing apparatus, blackboards with technical diagrams
+    details: Glass tube filled with special liquid, wrapped with electromagnetic coils, precisely machined optical windows,
+      changes light polarization when energized with magnetic field, acts as ultra-fast shutter between crossed polarizing
+      filters. Multiple prototype camera bodies in various stages of assembly, electrical measuring equipment, coiled cables,
+      technical drawings scattered across workbenches. Afternoon sunlight illuminating dust particles and optical surfaces.
+    background: Academic research environment, smell of electrical components and photo chemicals, bright fluorescent lighting,
+      organized controlled chaos of active invention
+    atmosphere: Intense scientific concentration and innovation, revolutionary breakthrough in high-speed photography emerging
+      from university research
   composition:
-    cameraAngle: Wide establishing shot from elevated position
-    focus: Official gesturing toward test site with team gathered around
-    depth: Official and team in foreground, test towers in middle distance, mountains on horizon
+    cameraAngle: Medium wide shot from slightly elevated position
+    focus: Character HE working on rapatronic camera prototype and Faraday cell components
+    depth: 'Foreground: precise optical work, middle ground: prototype equipment, background: laboratory infrastructure and
+      technical diagrams, no text or letters visible'
 visualElements:
   colorPalette:
     primary:

@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: February 8, 1950, evening, end of dinner
+    location: Major's Cabin Grill restaurant interior, 33 West 33rd Street, Manhattan, New York City
+    weather: Cold February evening outside, warm restaurant interior
+  characters:
+  - appearance: Caucasian man, early 40s, average height, clean-shaven face, dark hair combed back with pomade, serious business
+      expression, thin-rimmed glasses
+    clothing: 1949 dark navy business suit with white dress shirt, conservative dark tie, polished black leather shoes, gold
+      wristwatch
+    position: Seated in booth, reaching across table with card in hand
+    action: Presenting the small cardboard Diners Club card with quiet triumph and confidence, making history
+  - appearance: Caucasian man, late 30s, slightly taller than average, neatly groomed brown hair, mustache, lawyer appearance,
+      attentive eyes
+    clothing: 1949 charcoal gray suit with vest, white shirt, striped tie, leather briefcase often at hand, wire-rim spectacles
+    position: Seated across from partner, watching the historic moment
+    action: Observing with quiet satisfaction, witnessing the birth of the credit industry, slight smile of accomplishment
+  - appearance: Caucasian man, 50s, slightly balding, professional service worker appearance, patient but observant expression
+    clothing: White shirt with black bow tie, black vest, white apron, black trousers, polished black shoes
+    position: Standing beside booth examining the unfamiliar card
+    action: Looking curiously at the small cardboard card, first restaurant worker to see a credit card, historic confusion
+      and acceptance
+  scene:
+    mainElements: The historic first credit card transaction taking place, transforming embarrassment into revolution, marking
+      birth of modern payment systems
+    details: Small rectangular cardboard card, approximately 3.5 by 2.5 inches, cream colored with simple black text, 'Diners
+      Club' prominently displayed, member number, no magnetic strip or modern features. White paper restaurant check with
+      handwritten items and prices in blue ink, total amount clearly visible, typical 1940s diner formatting. The two items
+      that will revolutionize commerce
+    background: Normal restaurant activity continuing around this historic moment, other diners unaware they are witnessing
+      commerce history, kitchen sounds, typical evening restaurant atmosphere
+    atmosphere: Quiet triumph and historic significance, redemption complete, transformation of personal embarrassment into
+      global innovation, the moment when modern credit industry begins, professional satisfaction of solving universal problem
+  composition:
+    cameraAngle: Close-up shot focusing on the card being presented and examined
+    focus: The Diners Club card being handed to waiter, showing the simple innovation that changed the world
+    depth: Foreground shows the historic card and restaurant check, middle ground captures the three men in this pivotal moment,
+      background displays normal restaurant life continuing, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Researcher Leaves - The Test of Self-Control Begins"
+  setting:
+    time: "1968, afternoon, controlled room lighting"
+    location: "Small, sparse testing room at Stanford University's Bing Nursery School"
+    weather: "Indoor controlled environment"
+  characters:
+    - appearance: "4-year-old child, mixed ethnicity, curious expression, small build typical of preschooler"
+      clothing: "1960s children's clothing: simple dress or shirt and shorts, small shoes"
+      position: "Sitting alone in child-sized chair, facing marshmallow"
+      action: "Staring intently at white marshmallow, hands gripping edge of chair, beginning internal struggle between immediate and delayed gratification"
+  scene:
+    mainElements: "Child alone with temptation, empty adult chair showing researcher has left, marshmallow as central focus of internal battle"
+    details: "Single white marshmallow on small plate within easy reach, hand bell beside plate, mechanical timer ticking somewhere in room, child's body language showing tension and desire"
+    background: "Sparse testing room with minimal distractions, closed door where researcher exited, plain walls, clinical environment designed for focus"
+    atmosphere: "Solitary moment of decision that will become legendary in psychology, child's first real test of willpower and delayed gratification, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from slight distance showing isolation"
+    focus: "Child alone with marshmallow, emphasizing solitary nature of decision"
+    depth: "Foreground: child and table with marshmallow, middle: empty space where researcher was, background: closed door and minimal room"

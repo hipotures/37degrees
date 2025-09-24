@@ -1,29 +1,36 @@
 sceneDescription:
   setting:
     time: April 17, 1986, afternoon
-    location: Formal ceremony on Isles of Scilly for peace treaty signing
-    weather: Clear spring day with celebratory atmosphere
+    location: Formal ceremony venue on Scilly Islands, outdoor setting with harbor view
+    weather: Pleasant spring afternoon with clear skies and gentle breeze
   characters:
-  - appearance: Dutch man, 55, diplomatic bearing, well-groomed, formal appearance
-    clothing: 1980s formal diplomatic attire, dark suit with Dutch diplomatic insignia
+  - appearance: Age 38 in 1986, medium height, brown hair, friendly face with glasses, informal but professional appearance
+    clothing: 1980s casual business attire - wool sweater, collared shirt, simple trousers, practical shoes suitable for island
+      living
     position: Standing at ceremonial table for treaty signing
-    action: Diplomatic formality, signing peace treaty with ceremonial pen
-  - appearance: English man, 60s, local historian appearance, gray hair, wire-rimmed spectacles
-    clothing: 1980s formal suit with tie, carrying briefcase and historical documents
-    position: Standing beside Dutch ambassador
-    action: Witnessing historic moment with satisfaction at diplomatic resolution
+    action: Participating in formal peace ceremony, explaining historical curiosities with dry humor and diplomatic courtesy
+  - appearance: Distinguished diplomat in his 50s in 1986, gray hair, formal bearing, diplomatic smile
+    clothing: Formal 1980s diplomatic attire - dark suit, conservative tie, polished shoes, official diplomatic credentials
+    position: Standing at signing table with formal diplomatic bearing
+    action: Signing peace treaty documents with amused diplomatic manner, making gracious ceremonial speeches about ending
+      history's longest forgotten war
   scene:
-    mainElements: Formal diplomatic building with Dutch flag and ceremony setup for peace treaty
-    details: Formal diplomatic document with official seals and signatures being signed, ceremonial table with treaty documents,
-      Dutch and British flags displayed, media cameras recording historic moment, official witnesses present, handshakes and
-      diplomatic courtesy, celebration of peaceful resolution
-    background: Beautiful Scilly landscape visible through windows, peaceful island setting for diplomatic conclusion
-    atmosphere: Professional diplomatic environment with formal ceremonial atmosphere, end of world's longest war, bureaucratic
-      curiosity finally resolved, historic diplomatic moment, no text or letters visible
+    mainElements: Formal outdoor ceremony with signing table, official documents, small gathering of local officials and media
+      representatives, Dutch and British flags displayed
+    details: Modern diplomatic document on official paper with bilingual English-Dutch text and formal government seals laid
+      out for signing, ceremonial pens, small crowd of interested islanders, peaceful Scilly harbor visible in background
+      where original conflict began 335 years earlier, spring flowers adding color to historic moment, camera equipment recording
+      unusual diplomatic event
+    background: Peaceful modern Scilly landscape with harbors where historic naval confrontations occurred, granite outcrops
+      and natural beauty contrasting with warlike past, Atlantic horizon stretching peacefully
+    atmosphere: Friendly diplomatic ceremony with good humor about absurd historical oversight, sense of closing historical
+      loop, amused recognition of bureaucratic comedy spanning centuries, warm community celebration of peaceful resolution,
+      no text or letters visible
   composition:
-    cameraAngle: Medium shot showing treaty signing ceremony
-    focus: Official end of 335-year technical war through diplomacy
-    depth: Treaty signing in foreground, ceremonial setting in middle ground, Scilly landscape in background
+    cameraAngle: Wide ceremonial shot showing both dignitaries at signing table with community witnesses
+    focus: Peace treaty signing ceremony ending the world's longest forgotten war, diplomatic humor meeting local island charm
+    depth: Foreground shows detailed ceremony with both characters signing documents, middle ground reveals community witnesses
+      and celebration, background displays peaceful Scilly waters where it all began
 visualElements:
   colorPalette:
     primary:

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Scientific correspondence - sharing the cosmic puzzle"
+  setting:
+    time: "1826, morning"
+    location: "Ground floor study in Bremen townhouse, 1826"
+    weather: "Bright morning light after night of discovery"
+  characters:
+    - appearance: "German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom"
+      clothing: "1820s dark blue physician's coat over white shirt and black vest"
+      position: "Seated at writing desk preparing scientific correspondence"
+      action: "Carefully writing letter to astronomical colleagues describing the paradox discovery"
+  scene:
+    mainElements: "Wooden writing desk with papers and quill, morning sunlight streaming through window, character composing scientific correspondence"
+    details: "Mahogany writing desk with brass fittings, fine parchment paper and leather-bound correspondence folder, quill pen and crystal ink well, red sealing wax and brass stamp, Sheets of paper covered with mathematical equations and orbital calculations nearby for reference, small brass desk lamp, morning light illuminating workspace, window showing Bremen street beginning daily activities"
+    background: "Bookshelf filled with scientific texts and astronomical journals, framed certificates and academic honors on walls, comfortable study chair with leather upholstery"
+    atmosphere: "Scholarly excitement about sharing important discovery with scientific community, methodical preparation of formal correspondence, morning energy following night of breakthrough thinking, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from across desk"
+    focus: "character_HO writing scientific correspondence with calculation papers nearby"
+    depth: "Foreground shows writing materials and papers, middle ground centers on character composing letter, background reveals study furnishings and morning window light"

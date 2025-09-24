@@ -1,34 +1,28 @@
 sceneDescription:
   setting:
-    time: 17th century, afternoon
-    location: VOC warehouse in Batavia (Jakarta), Dutch East Indies, 17th century
-    weather: Hot tropical afternoon
+    time: 1670s, late afternoon
+    location: South China Sea between Vietnam and Fujian Province
+    weather: Clear sailing weather with steady monsoon winds
   characters:
-  - appearance: Chinese man, 40s, weathered face from sea voyages, sharp intelligent eyes, lean build from travel
-    clothing: Dark blue silk tunic with traditional Chinese collar, wide-legged pants, fabric belt, worn leather boots
-    position: Standing at wooden table demonstrating sauce
-    action: Pouring dark amber liquid from ceramic jar into small bowls for European traders to sample
-  - appearance: English man, 30s, pale complexion, brown hair, mustache, sturdy build, curious expression
-    clothing: 17th century brown wool coat with brass buttons, white linen shirt, dark breeches, tall leather boots
-    position: Seated at table leaning forward with interest
-    action: Tasting the fish sauce with wooden spoon, taking notes in leather journal
-  - appearance: Dutch man, 35s, blonde hair, fair skin, beard, merchant's shrewd eyes, solid build
-    clothing: Black wool coat with silver buttons, white ruffled collar, dark breeches, polished black shoes
-    position: Standing beside table examining goods
-    action: Critically evaluating the sauce while discussing trade possibilities with other merchants
+  - appearance: Middle-aged Chinese man, weathered from sea travel, strong build, traditional queue hairstyle
+    clothing: Traditional Chinese merchant clothing - silk jacket, loose trousers, cloth shoes, wide-brimmed hat for sea travel
+    position: Standing on deck near cargo hold opening
+    action: Supervising loading and securing of ceramic jars while ship sails north
   scene:
-    mainElements: Large stone warehouse with wooden beam ceiling, rows of ceramic jars and wooden crates, loading dock
-    details: Large brown ceramic jar with narrow neck and cork stopper containing dark liquid, clear glass bottles with amber-colored
-      liquid, wooden tasting spoons, various spice containers, leather-bound ledger with brass clasps, quill pen and ink pot
-    background: Warehouse filled with exotic goods from across Asia, other merchants examining spices and preserved foods,
-      dock workers moving cargo
-    atmosphere: Organized commercial efficiency with exotic spices and preserved goods from across Asia, international trade
-      negotiations, cultural exchange through food, no text or letters visible
+    mainElements: Large wooden sailing vessel 60-80 feet long with distinctive fan-shaped bamboo-battened sails, cargo hold
+      visible through open hatches
+    details: Multiple masts with bamboo-battened sails catching wind, high stern castle typical of Chinese junks, cargo hold
+      filled with carefully secured ceramic jars and wooden barrels, rope rigging, wooden deck planking, Chinese crew members
+      working with ropes and sails
+    background: Open ocean with distant coastline of South China Sea, other sailing vessels in distance, seabirds following
+      the ship
+    atmosphere: Fresh sea air mixed with faint aromatic fish scent from cargo, sounds of wind filling sails and water against
+      hull, creaking ship timbers, sailors calling to each other, no text or letters visible
   composition:
-    cameraAngle: Medium group shot capturing interaction between cultures
-    focus: Demonstration of ke-tsiap sauce and merchant reactions
-    depth: Foreground shows tasting demonstration, middle ground features warehouse trading activity, background shows loading
-      operations and stored goods
+    cameraAngle: Wide establishing shot from slightly elevated angle showing entire junk under sail
+    focus: Chinese trading junk with distinctive sails filled with wind, cargo hold visible
+    depth: Foreground shows ship details and crew activity, middle ground reveals full vessel under sail, background shows
+      expansive seascape and distant coastline
 visualElements:
   colorPalette:
     primary:

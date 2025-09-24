@@ -1,26 +1,33 @@
 sceneDescription:
   setting:
-    time: Later 1990s, daytime
-    location: Scientific laboratory, aviation research facility
-    weather: Indoor laboratory environment
+    time: July 26, 2011, television studio
+    location: Belgian RTL television studio, professional broadcast environment
+    weather: Indoor studio environment
   characters:
-  - appearance: Aerospace engineer, 40s-50s, analytical expression, scientific background
-    clothing: Professional scientific attire - lab coat over dress shirt, practical work clothing
-    position: Standing at analysis equipment examining radar data
-    action: Analyzing technical data and radar patterns with scientific instruments
+  - appearance: Belgian civilian, middle-aged man in television appearance, ordinary citizen appearance
+    clothing: Civilian attire during RTL television interview, casual contemporary clothing
+    position: Seated in television interview chair facing camera and interviewer
+    action: Making controversial claims about creating famous UFO photograph as hoax, discussing payment allegations
+  - appearance: Television interviewer and production staff
+    clothing: Professional broadcast attire appropriate for television journalism
+    position: Operating television cameras and interview setup
+    action: Conducting interview about photograph authenticity controversy and conflicting statements
   scene:
-    mainElements: Scientific laboratory with advanced analysis equipment and technical documentation
-    details: Scientific analysis equipment showing reinterpretation of original radar data. Charts and graphs demonstrating
-      atmospheric phenomena, temperature inversion effects, and Bragg scattering anomalies that could explain unusual radar
-      returns. Technical displays showing how F-16 aircraft could have achieved mutual radar locks rather than tracking unknown
-      objects.
-    background: Scientific laboratory with analysis equipment and technical reference materials
-    atmosphere: Methodical scientific analysis providing rational explanations for mysterious events
+    mainElements: Professional television studio with broadcast equipment, interview setup with cameras and lighting, contemporary
+      media environment
+    details: Television interview setting with professional lighting and camera equipment, controversial discussion about
+      most famous Belgian UFO photograph, complex narrative involving hoax claims and possible false confession, modern broadcast
+      journalism investigating historical UFO evidence
+    background: Professional television production environment with broadcast equipment, contemporary media setting contrasting
+      with 1990 UFO events, modern technology being used to re-examine historical claims and photographic evidence
+    atmosphere: Contemporary controversy and debate over historical UFO evidence, complex questions about truth and deception
+      in famous photograph, sense of ongoing mystery despite passage of time, modern journalism investigating decades-old
+      claims, no text or letters visible
   composition:
-    cameraAngle: Medium shot showing scientist analyzing data with professional equipment
-    focus: Scientific reanalysis of Belgian UFO wave radar data revealing natural explanations
-    depth: 'Foreground: scientist and analysis equipment, middle ground: technical displays and data, background: laboratory
-      environment with scientific instruments, no text or letters visible'
+    cameraAngle: Medium shot of television interview setup showing subject and broadcast environment
+    focus: Television interview about controversial claims regarding authenticity of famous Belgian UFO photograph
+    depth: Foreground shows interview subject making controversial statements, middle ground displays television studio equipment,
+      background reveals professional broadcast facility
 visualElements:
   colorPalette:
     primary:

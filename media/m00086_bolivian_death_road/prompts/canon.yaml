@@ -1,76 +1,118 @@
 canon:
   characters:
-    - id: "character_TG"
-      name: "Character TG"
+    - id: "paraguayan_prisoners"
+      name: "Paraguayan Prisoners of War"
       description_block: |
         characters:
-          - appearance: "Local Bolivian man, 40s, weathered face from mountain work, strong build, dark hair"
-            clothing: "Traditional Bolivian work clothes - worn denim jacket, wool sweater, heavy boots"
-            posture: "Confident stance, experienced with mountain terrain and vehicles"
-    - id: "character_CB"
-      name: "Character CB"
+          - appearance: "Malnourished men aged 18-40, weathered faces showing exhaustion, calloused hands from manual labor, tired but determined expressions"
+            clothing: "Tattered Paraguayan military uniforms or basic work clothes, worn boots, some barefoot, minimal protection against mountain cold"
+            position: "Working along steep mountainside, some using ropes and pulleys"
+            action: "Carving road into rock face with primitive tools, moving under armed guard supervision"
+
+    - id: "bolivian_guards"
+      name: "Bolivian Military Guards"
       description_block: |
         characters:
-          - appearance: "Young backpacker, 20s, athletic build, eager expression, wearing bike helmet"
-            clothing: "Modern cycling gear - padded shorts, moisture-wicking shirt, protective gear"
-            posture: "Excited but cautious, gripping handlebars, ready for adventure"
-    - id: "character_LO"
-      name: "Character LO"
+          - appearance: "Bolivian soldiers aged 20-45, stern weathered faces, military bearing, carrying rifles"
+            clothing: "1930s dark green Bolivian military uniforms with insignia, heavy boots, military caps, winter coats for mountain conditions"
+            position: "Positioned on higher ground overlooking work areas"
+            action: "Supervising prisoner work gangs, maintaining watchful guard positions"
+
+    - id: "local_drivers"
+      name: "Bolivian Truck and Bus Drivers"
       description_block: |
         characters:
-          - appearance: "Elderly Bolivian woman, 60s, lined face showing years of highland life, gray hair in braids"
-            clothing: "Traditional colorful Bolivian dress, shawl, bowler hat, layered skirts"
-            posture: "Dignified bearing, walking with purpose despite difficult terrain"
-    - id: "character_BD"
-      name: "Character BD"
+          - appearance: "Bolivian men aged 25-60, indigenous highland features, weathered faces showing stress and concentration from dangerous driving"
+            clothing: "Practical work clothes, warm jackets for mountain climate, traditional knit hats, sturdy boots"
+            position: "Behind steering wheel or standing beside vehicles"
+            action: "Navigating treacherous narrow road with intense concentration, checking vehicle condition"
+
+    - id: "modern_cyclists"
+      name: "Adventure Tourists"
       description_block: |
         characters:
-          - appearance: "Bus driver, 30s, concentrated expression, mustache, tired eyes"
-            clothing: "Simple work shirt, worn jeans, baseball cap"
-            posture: "Tense, gripping steering wheel, focused on dangerous road ahead"
+          - appearance: "International tourists aged 20-50, athletic builds, excited but nervous expressions, mix of ethnicities"
+            clothing: "Modern mountain biking helmets, bright colored cycling clothes with padding, professional biking shoes, protective gloves"
+            position: "On mountain bikes along narrow road sections"
+            action: "Cycling down steep mountain paths, taking photos, following tour guides"
+
+    - id: "construction_workers_modern"
+      name: "Modern Road Construction Crew"
+      description_block: |
+        characters:
+          - appearance: "Bolivian workers aged 25-50, hard hats, reflective safety vests, professional construction appearance"
+            clothing: "Modern safety equipment, reflective vests, hard hats, steel-toed boots, work uniforms"
+            position: "Working on new highway construction sites"
+            action: "Operating heavy machinery, building modern road infrastructure with safety features"
+
   locations:
-    - id: "death_road_narrow_section"
-      name: "Death Road Narrow Section"
+    - id: "north_yungas_road"
+      name: "North Yungas Road (Death Road)"
       description_block: |
         setting:
-          location: "North Yungas Road narrow cliff section, Bolivia - 3-meter wide dirt road carved into mountainside"
-        mainElements: "Extremely narrow mountain road carved into cliff face, sheer drop on one side, rock wall on other"
-        atmosphere: "Dangerous, precarious, breathtaking yet terrifying mountain wilderness"
+          location: "Narrow dirt road carved into steep Cordillera Oriental mountainside, connecting La Paz highlands to Yungas cloud forest region"
+        mainElements: "Single-lane gravel track barely 3 meters wide, no guardrails, sheer cliff drops up to 1,000 meters, tight hairpin turns around rock outcroppings"
+        atmosphere: "Frequently shrouded in fog and low clouds, sound of distant waterfalls, dramatic Andean mountain backdrop, sense of extreme danger"
+
     - id: "la_paz_starting_point"
-      name: "La Paz Starting Point"
+      name: "La Paz (Upper Terminal)"
       description_block: |
         setting:
-          location: "La Paz outskirts, Bolivia - high altitude departure point at 3,500 meters elevation"
-        mainElements: "Urban edge transitioning to mountain roads, tour operators' vehicles, safety briefing areas"
-        atmosphere: "Anticipatory tension, last moment of safety before dangerous journey"
-    - id: "coroico_valley_destination"
-      name: "Coroico Valley Destination"
+          location: "Bolivia's administrative capital at 3,500m elevation in dramatic bowl-shaped valley, world's highest capital city"
+        mainElements: "Mix of colonial and modern buildings, crowded bus terminals, indigenous markets, snow-capped Illimani peak dominating skyline"
+        atmosphere: "Thin mountain air, cold highland climate, bustling urban energy, blend of indigenous and Spanish colonial architecture"
+
+    - id: "coroico_destination"
+      name: "Coroico (Yungas Region)"
       description_block: |
         setting:
-          location: "Coroico valley, Bolivia - tropical lowland destination in Amazon basin"
-        mainElements: "Lush green valley, tropical vegetation, small town nestled in Amazon foothills"
-        atmosphere: "Relief, tropical warmth, stark contrast to high altitude starting point"
-    - id: "devils_curve_memorial"
-      name: "Devils Curve Memorial"
+          location: "Tropical town at 1,200m elevation in cloud forest region, warm subtropical climate with lush vegetation"
+        mainElements: "Colonial buildings with red tile roofs, coca plantations on terraced hillsides, dense green vegetation, waterfalls cascading down mountainsides"
+        atmosphere: "Humid tropical air, sounds of flowing water and tropical birds, relief and celebration for completing dangerous journey"
+
+    - id: "route_3_bypass"
+      name: "Modern Route 3 Bypass"
       description_block: |
         setting:
-          location: "Devils Curve section of Death Road - site of infamous 1983 bus accident"
-        mainElements: "Sharp curve with memorial crosses, steep cliff drop, warning signs"
-        atmosphere: "Somber remembrance, danger made visible through memorials and crosses"
+          location: "Modern two-lane asphalt highway built along adjacent mountain range with comprehensive safety features"
+        mainElements: "Concrete guardrails, proper drainage systems, road signs in Spanish, emergency pull-offs, wider lanes with yellow center lines"
+        atmosphere: "Safe and efficient travel environment, reduced anxiety for drivers, sounds of construction machinery during building phase"
+
+    - id: "construction_site_1930s"
+      name: "1930s Road Construction Site"
+      description_block: |
+        setting:
+          location: "Steep mountainside construction zone during original road building, primitive work conditions at high altitude"
+        mainElements: "Rock face being carved by hand tools, wooden scaffolding and rope systems, piles of broken rock, basic campsites"
+        atmosphere: "Harsh mountain conditions, sounds of pickaxes on rock, shouted orders in Spanish, constant danger from falling rocks"
+
   items:
-    - id: "mountain_bike_equipment"
-      name: "Mountain Bike Equipment"
-      description_block: |
-        details: "Heavy-duty mountain bike with disc brakes, protective gear including helmet and pads"
-    - id: "old_bus_vehicle"
-      name: "Old Bus Vehicle"
-      description_block: |
-        details: "Worn Bolivian public bus from 1980s era, colorful paint but showing age and wear"
     - id: "memorial_crosses"
-      name: "Memorial Crosses"
+      name: "Roadside Death Markers"
       description_block: |
-        details: "Simple wooden crosses marking accident sites, flowers and offerings left by families"
-    - id: "safety_equipment_modern"
-      name: "Safety Equipment Modern"
+        details: "Wooden and metal crosses of varying sizes placed at crash sites along the road, some decorated with flowers, weathered by mountain conditions, growing in number over decades"
+
+    - id: "construction_tools_primitive"
+      name: "1930s Construction Equipment"
       description_block: |
-        details: "Modern tour operator safety gear - radios, first aid kits, support vehicles"
+        details: "Basic hand tools including pickaxes, shovels, wheelbarrows, primitive blasting equipment, rope and pulley systems, all showing wear from mountain construction work"
+
+    - id: "modern_safety_equipment"
+      name: "Mountain Biking Safety Gear"
+      description_block: |
+        details: "Professional mountain biking helmets in bright colors, knee and elbow pads, specialized disc-brake mountain bikes, first aid equipment, GPS tracking devices"
+
+    - id: "overloaded_buses"
+      name: "Bolivian Public Buses"
+      description_block: |
+        details: "Aging buses painted in bright colors, often overloaded with passengers and cargo strapped to roof racks, poor mechanical condition with inadequate brakes"
+
+    - id: "cargo_trucks"
+      name: "Heavy Freight Trucks"
+      description_block: |
+        details: "Large trucks carrying goods between La Paz and Yungas region, difficulty maneuvering on narrow single-lane road, various states of repair"
+
+    - id: "inter_american_study"
+      name: "1995 Road Danger Assessment"
+      description_block: |
+        details: "Official documents and surveying equipment used in Inter-American Development Bank study declaring road world's most dangerous, including accident statistics and safety analysis"

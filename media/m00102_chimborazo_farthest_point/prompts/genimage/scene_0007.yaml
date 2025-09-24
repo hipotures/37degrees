@@ -1,21 +1,33 @@
 sceneDescription:
   setting:
-    time: Educational demonstration, timeless
-    location: Conceptual view showing Earth's interior structure and shape
-    weather: Conceptual space environment
-  characters: No characters present in this scene
+    time: January 4, 1880, midday
+    location: Highest peak of massive stratovolcano, 6,263m elevation, Chimborazo Province, Ecuador
+    weather: Clear summit conditions with brilliant sunshine and extreme cold
+  characters:
+  - appearance: 40 years old, stocky powerful build, determined expression, thick mustache typical of Victorian era
+    clothing: 1880s climbing gear - wool sweaters, heavy boots, ice axe, rope equipment
+    position: Leading climbing team on steep mountain slopes
+    action: Demonstrating confident leadership under extreme mountain conditions
+  - appearance: Experienced mountain guide, weathered face, strong alpine build, distinctive Italian features
+    clothing: Professional guide equipment of 1880s - layered wool, climbing boots, guide rope
+    position: Supporting climbing team as professional guide
+    action: Providing technical expertise and ensuring team safety
   scene:
-    mainElements: Earth's layers visible, equatorial bulge apparent, comparative distance measurements showing 21-kilometer
-      difference between equatorial and polar radius
-    details: Detailed cross-section of Earth showing exaggerated equatorial bulge, measurement lines from Earth's center to
-      Chimborazo versus Mount Everest, scientific diagram showing how equatorial bulge affects distance calculations, no text
-      or letters visible
-    background: Space environment with grid lines and measurement indicators
-    atmosphere: Educational diagram showing Earth's true oblate spheroid shape with precise scientific measurements
+    mainElements: Four distinct summits with highest peak, perpetual snow and ice cap, hemp ropes, ice axes, hobnailed boots,
+      wool clothing layers, canvas packs positioned at true summit
+    details: State-of-art 1880s alpine equipment successfully deployed at highest point, team members standing at actual summit
+      for first time in recorded history, advanced climbing technology of the era visible, triumph over severe mountain sickness
+      and frostbite conditions, scientific instruments for studying altitude effects on human body, professional mountaineering
+      expertise evident, no text or letters visible
+    background: Thin air at extreme altitude, brutal cold, brilliant equatorial sunlight, complete silence except for wind,
+      panoramic view from Earth's farthest point from center
+    atmosphere: Historic mountaineering achievement, technical advancement over previous attempts, successful combination
+      of improved equipment and professional expertise
   composition:
-    cameraAngle: Cross-sectional view showing Earth's internal structure
-    focus: Equatorial bulge and distance measurement comparison
-    depth: Earth's center in foreground, surface measurements in middle ground, space background
+    cameraAngle: Triumphant high angle shot from summit showing team's achievement and vast landscape below
+    focus: Successful summit team with advanced climbing equipment at highest point
+    depth: 'Foreground: summit rocks and snow, middle: victorious climbing team, background: vast Ecuadorian landscape from
+      record altitude'
 visualElements:
   colorPalette:
     primary:

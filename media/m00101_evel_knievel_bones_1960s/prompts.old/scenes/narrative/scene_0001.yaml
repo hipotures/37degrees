@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Young Daredevil's First Motorcycle"
+  setting:
+    time: "1965, afternoon"
+    location: "Small-town motorcycle dealership, Montana"
+    weather: "Clear sunny day"
+  characters:
+    - appearance: "Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns"
+      clothing: "Red, white and blue leather jumpsuit with stars and stripes, white helmet with eagle emblem, white leather boots"
+      position: "Standing next to motorcycle, hand on handlebars"
+      action: "Examining motorcycle engine and testing throttle"
+  scene:
+    mainElements: "Classic Harley Davidson motorcycle, chrome exhaust pipes, custom paint job, high handlebars, powerful engine displayed prominently in motorcycle showroom"
+    details: "Motorcycle dealership interior with multiple bikes on display, promotional posters on walls, chrome details gleaming under fluorescent lights, tools and spare parts visible on workbenches, no text or letters visible"
+    background: "Rows of motorcycles, large windows showing small town street, American flags hanging from ceiling"
+    atmosphere: "Anticipation and excitement, beginning of legendary career, small-town America setting with patriotic themes"
+  composition:
+    cameraAngle: "Medium shot from side angle"
+    focus: "Character EK examining the motorcycle that will launch his career"
+    depth: "Motorcycle in foreground, character in middle ground, dealership interior in background"

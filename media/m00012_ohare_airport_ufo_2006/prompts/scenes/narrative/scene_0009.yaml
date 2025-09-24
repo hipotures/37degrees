@@ -1,24 +1,17 @@
 sceneDescription:
-  title: "FAA Control Tower Receives UFO Report Call"
+  title: "Circular Hole Remains in Cloud Layer as Evidence"
   setting:
-    time: "November 7, 2006, 4:27 PM CST, late afternoon"
-    location: "Air traffic control tower, Chicago O'Hare International Airport"
-    weather: "Overcast, solid grey cloud layer, circular hole nearly closed"
+    time: "November 7, 2006, 4:21-4:25 PM CST, minutes after object departure"
+    location: "Overcast sky above Gate C17, 1,900 feet altitude, O'Hare International Airport"
+    weather: "Overcast cloud layer with distinct circular opening created by object's passage"
   characters:
-    - appearance: "Male controller, 30s-40s, focused, professional demeanor"
-      clothing: "Business casual civilian attire, white dress shirt, dark pants"
-      position: "Seated at control station with headset"
-      action: "Receiving phone call while scanning radar screens showing no unusual contacts"
-    - appearance: "Second FAA controller, male, 40s, experienced appearance"
-      clothing: "Casual button-down shirt, khaki pants, official FAA credentials"
-      position: "Standing behind primary controller, observing"
-      action: "Looking out tower windows toward Gate C-17 area while colleague takes call"
+    No characters present in this scene
   scene:
-    mainElements: "Air traffic control tower cab with 360-degree glass windows, multiple radar screens displaying normal aircraft traffic, control stations with communication equipment, clear view of Gate C-17 from elevated position"
-    details: "Professional aviation control environment with radar displays showing no anomalous contacts, controllers maintaining standard operations while receiving unusual report, panoramic view of airport through tower windows, communication equipment recording conversations, closing cloud hole barely visible in distance"
-    background: "Tall concrete control tower structure providing comprehensive airport oversight, O'Hare runways and terminals visible below, normal aircraft operations continuing across airport, late afternoon lighting"
-    atmosphere: "Professional skepticism meeting extraordinary claim, disconnect between radar data and witness reports, official aviation authority dealing with unexplained aerial phenomenon report, no text or letters visible"
+    mainElements: "Distinct circular opening punched through overcast cloud layer directly above Gate C17 area, approximately 20-50 feet in diameter"
+    details: "Circular opening in overcast cloud layer at approximately 1,900 feet altitude, estimated 20-50 feet in diameter with clean distinct circular shape contrasting against gray cloud background, opening created by object's high-velocity passage through cloud layer, hole remaining visible for several minutes as physical evidence of object's departure trajectory, edges of opening showing natural cloud formation around perfectly circular void"
+    background: "Gray overcast cloud layer extending to horizons with single circular opening providing view to clearer sky above, Gate C17 area directly below opening, O'Hare airport complex visible beneath cloud layer"
+    atmosphere: "Physical evidence remaining after extraordinary departure, tangible proof of object's trajectory and high-velocity ascent, witnesses below observing lasting confirmation of unprecedented event, circular void serving as final documentation of UAP passage through restricted airspace, no text or letters visible"
   composition:
-    cameraAngle: "Interior shot of control tower showing both controllers and view outside"
-    focus: "FAA controller receiving phone call while monitoring radar screens"
-    depth: "Foreground: control equipment and displays, middle ground: controllers at stations, background: panoramic airport view through tower windows"
+    cameraAngle: "Upward angle from ground perspective showing circular hole in cloud cover"
+    focus: "Circular opening in cloud layer providing evidence of object's passage"
+    depth: "Cloud hole in foreground, surrounding cloud layer in middle ground, clearer sky visible through opening in background"

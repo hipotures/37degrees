@@ -1,112 +1,85 @@
 sceneDescription:
   setting:
-    time: January 30, 1959, afternoon
-    location: Northern Ural Mountains wilderness, snow-covered forest trails several days from Vizhay
-    weather: Overcast sky, steady snowfall, temperatures around -20°C, moderate wind
+    time: February 26, 1959, late morning
+    location: Eastern slope of Kholat Syakhl, tent campsite at 1,097 meters elevation
+    weather: Overcast day with light snow, moderate wind, -20°C
   characters:
-  - appearance: Caucasian man, mid-20s, average build, serious expression, short dark hair
-    clothing: 1950s Soviet winter gear - thick wool sweater, padded jacket, fur hat with earflaps, heavy mittens, felt boots
-    position: Leading group in single file formation on skis
-    action: Breaking trail through deep snow, checking compass direction
-  - appearance: Caucasian woman, early 20s, slender build, determined expression, medium brown hair in braids
-    clothing: 1950s Soviet winter gear - wool coat over sweater, thick scarf, padded pants, fur hat, sturdy winter boots
-    position: Second in line behind leader
-    action: Following ski tracks, adjusting pack straps while skiing
-  - appearance: Caucasian man, late 30s, robust build, weathered face, graying hair, military bearing
-    clothing: 1950s Soviet winter gear - army-style winter coat, padded pants, military-style hat, leather gloves, combat
-      boots
-    position: Middle of group formation
-    action: Pulling heavy sled loaded with expedition equipment
-  - appearance: Caucasian woman, early 20s, athletic build, cheerful expression, blonde hair in ponytail
-    clothing: 1950s Soviet winter gear - heavy wool jacket, thick pants, winter cap, insulated gloves, hiking boots
-    position: Skiing alongside others in formation
-    action: Maintaining steady pace despite heavy pack, smiling despite cold
-  - appearance: Caucasian man, mid-20s, tall slender build, intellectual appearance, wire-rimmed glasses
-    clothing: 1950s Soviet winter gear - long wool coat, thick sweater, winter cap, heavy gloves, padded boots
-    position: Toward rear of group
-    action: Stopping periodically to photograph wilderness scenery
+  - appearance: Soviet man, 40s, weathered face, expedition leader bearing
+    clothing: Heavy military-style winter coat, fur hat with earflaps, thick mittens
+    position: Standing beside damaged tent, examining cuts in fabric
+    action: Pointing at diagonal slashes while speaking to other searchers
+  - appearance: Soviet man, 30s, serious expression, search team member
+    clothing: Padded winter jacket, wool cap, military boots
+    position: Kneeling at tent entrance, looking inside
+    action: Carefully examining interior without disturbing evidence
+  - appearance: Soviet man, 35, experienced mountaineer, bearded
+    clothing: Professional winter gear, climbing boots, expedition pack
+    position: Following footprint trail away from tent
+    action: Crouched low, studying barefoot prints in snow
   scene:
-    mainElements: Long line of skiers moving through snow-covered pine and birch forest, wooden sleds carrying camping equipment
-      being pulled behind some hikers, ski tracks creating clear path through pristine snow
-    details: Wooden skis with leather bindings cutting through snow, heavy canvas packs secured with rope, 1950s Soviet cameras
-      hanging from necks, metal camping equipment visible on sleds including disassembled portable wood stove with metal chimney
-      pipe sections, axes and knives secured to packs, food supplies in canvas bags, expedition members breathing visible
-      in cold air
-    background: Dense taiga forest stretching endlessly in all directions, snow-laden evergreen trees, distant mountain peaks
-      barely visible through falling snow, animal tracks crossing ski trail, complete wilderness isolation
-    atmosphere: Challenging but determined progression, group camaraderie despite harsh conditions, vast wilderness emphasizing
-      remoteness, steady rhythm of skiing, muffled sounds in snow-covered forest
+    mainElements: Partially collapsed canvas tent with three diagonal cuts visible in fabric, scattered belongings spilling
+      from interior, line of human footprints leading downhill through snow, skis still anchored as tent supports
+    details: Sharp clean cuts made from inside tent outward, personal items scattered but not ransacked - boots, clothing,
+      cameras, diaries visible, flashlight still glowing on collapsed tent roof, food supplies untouched, footprints show
+      mixture of bare feet and socked feet heading toward distant forest, wind causing tent fabric to snap and flutter, no
+      text or letters visible
+    background: Desolate snow-covered slope stretching in all directions, dark forest visible in distant valley below, gray
+      overcast sky, complete wilderness isolation
+    atmosphere: Eerie abandonment and mystery, evidence of sudden panic and flight, searchers' growing unease at inexplicable
+      scene, haunting silence broken only by wind
   composition:
-    cameraAngle: Side angle tracking shot showing full group in motion
-    focus: Line of expedition members skiing through forest in single file
-    depth: Foreground shows detailed ski equipment and winter gear, middle ground captures group formation and sleds, background
-      reveals endless forest wilderness and distant mountains, no text or letters visible
+    cameraAngle: Medium shot from searcher's eye level
+    focus: Damaged tent as central mystery with investigators examining evidence
+    depth: Tent and searchers in foreground, footprint trail leading to middle ground, vast wilderness in background
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

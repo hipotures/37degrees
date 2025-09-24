@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Military Command Reports Mixed Campaign Results"
+  setting:
+    time: "December 2, 1932, evening"
+    location: "Military field headquarters tent near Campion, Western Australia"
+    weather: "Cool evening with oil lamps providing interior lighting"
+  characters:
+    - appearance: "Caucasian man, 40s, military bearing, stern face with mustache, weathered complexion from outdoor service"
+      clothing: "Australian military officer uniform 1930s, khaki tunic with brass buttons, peaked cap with insignia, polished brown leather boots"
+      position: "Seated at field desk writing official reports"
+      action: "Reviewing battlefield statistics and casualty counts while preparing final assessment"
+    - appearance: "Caucasian man, 30s, sturdy build, alert expression, clean-shaven face"
+      clothing: "Australian military sergeant uniform 1930s, khaki tunic and trousers, military cap, leather belt with ammunition pouches"
+      position: "Standing beside ammunition inventory"
+      action: "Counting remaining ammunition supplies and documenting usage rates"
+  scene:
+    mainElements: "Canvas tents, military vehicles, equipment tables with Lewis guns and ammunition with detailed record-keeping and battlefield assessment documentation"
+    details: "Field desk with maps showing engagement zones marked with tactical annotations. Ammunition count sheets showing 9,860 rounds expended. Tally marks indicating approximately 986 confirmed bird casualties. British Lewis light machine guns, distinctive circular ammunition pans on top, bipod legs, wooden stocks showing wear from extended field use. Empty ammunition boxes stacked systematically. Radio equipment for communication with headquarters. Oil lamps and lanterns providing work lighting. Weather-beaten tent showing effects of extended campaign"
+    background: "Military field camp showing signs of prolonged operation, distant wheat fields still showing emu activity despite military efforts"
+    atmosphere: "Mixed sense of tactical success and strategic failure, professional military assessment of unconventional campaign, acknowledgment of enemy resilience and tactical superiority, no text or letters visible"
+  composition:
+    cameraAngle: "Interior shot of military field headquarters showing detailed documentation"
+    focus: "The contrast between detailed military records and the limited impact on the emu population"
+    depth: "Foreground shows detailed military documentation and statistics, middle ground captures officers reviewing results, background suggests the ongoing emu presence in the fields"

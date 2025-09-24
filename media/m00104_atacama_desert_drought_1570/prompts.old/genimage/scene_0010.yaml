@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1972, establishing new post-drought era
+    location: Atacama Desert, now recognized as site of longest recorded drought
+    weather: Occasional precipitation after 401-year drought period ended
+  characters:
+  - appearance: Person, 30s-40s, practical appearance, sun protection clothing, scientific equipment visible
+    clothing: Modern desert research gear, wide-brimmed hat, UV protection clothing, field equipment vest
+    position: Documenting scientific legacy of record-breaking drought
+    action: Recording final research data on completed 401-year drought period for historical record
+  scene:
+    mainElements: Scientific documentation establishing 401-year drought as longest in recorded human history, research equipment
+      recording final data on unprecedented environmental phenomenon, Atacama Desert now recognized as world record holder
+      for sustained aridity
+    details: Research stations documenting completion of 401-year drought period from 1570-1971, scientific equipment measuring
+      residual effects of longest recorded drought in human history, preserved evidence of extreme environmental conditions
+      maintained for over four centuries, geological and meteorological records establishing Atacama as site of most extreme
+      sustained aridity on Earth, ongoing research into ecosystem adaptation and recovery
+    background: Atacama landscape forever changed by distinction as site of longest drought in recorded history, mountain
+      barriers that created record-breaking conditions still visible, desert environment beginning gradual adjustment to post-drought
+      conditions
+    atmosphere: Scientific achievement in documenting Earth's most extreme drought conditions, historical significance of
+      401-year environmental phenomenon, legacy of human and ecological adaptation to impossible conditions, recognition of
+      Atacama Desert as unique environmental laboratory, no text or letters visible
+  composition:
+    cameraAngle: Wide shot establishing scientific and historical significance
+    focus: Documentation of completed record-breaking drought period
+    depth: Foreground shows final scientific documentation, middle shows researcher completing historical record, background
+      shows landscape that survived 401 years without rain
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

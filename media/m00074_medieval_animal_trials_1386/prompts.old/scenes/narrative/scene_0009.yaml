@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Dressing the Pig for Execution"
+  setting:
+    time: "1386, morning of execution day"
+    location: "Underground stone cell, Falaise castle dungeons"
+    weather: "Cold winter morning with frost"
+  characters:
+    - appearance: "Large man, 40s, muscular build, hooded face partially visible, weathered hands"
+      clothing: "Black leather hood, dark tunic, leather apron, heavy boots"
+      position: "Kneeling beside pig, carefully fitting human clothes"
+      action: "Methodically dressing pig in execution attire, adjusting waistcoat and gloves"
+    - appearance: "Stocky man, 35s, alert expression, watchful eyes, short beard"
+      clothing: "Court livery in red and gold, leather belt with keys, staff of office"
+      position: "Standing by cell door, holding official documents"
+      action: "Supervising preparation, checking execution warrant, timing proceedings"
+    - appearance: "Large domestic sow, approximately 3 years old, brown and pink coloring, heavy build around 300 pounds, intelligent but wary eyes"
+      clothing: "Human clothing fitted for pig: white waistcoat, leather gloves, linen drawers, mocking human dress"
+      position: "Standing docilely in cell, allowing clothing to be fitted"
+      action: "Remaining calm while being dressed, occasionally sniffing at unusual garments"
+  scene:
+    mainElements: "Iron-barred cell door, straw-covered floor, stone walls with iron rings, feeding trough"
+    details: "Thick hemp rope with thirteen coils prepared and coiled beside cell wall, official execution warrant on parchment, iron shackles hanging from wall rings, straw bedding scattered across stone floor, torch mounted in wall bracket casting flickering light, water bucket and feed trough pushed aside, heavy oak cell door with massive iron lock"
+    background: "Dark stone corridor with other empty cells visible, torchlight creating dancing shadows on wet stone walls, sound of dripping water echoing in dungeon"
+    atmosphere: "Dark and damp underground preparation chamber, solemn ritualistic dressing for execution, cold stone echoing footsteps and voices, mixture of official duty and macabre ceremony, morning light filtering down from high windows, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from cell interior showing preparation process"
+    focus: "Executioner's careful attention to dressing ritual, pig's passive acceptance"
+    depth: "Foreground shows detailed clothing fitting, middle ground captures officials and pig, background reveals dungeon architecture and prepared rope"

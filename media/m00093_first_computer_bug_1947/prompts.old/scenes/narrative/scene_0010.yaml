@@ -1,0 +1,17 @@
+sceneDescription:
+  title: "Scene 10 - Computer Bug Legacy"
+  setting:
+    time: "September 9, 1947, 6:00 PM"
+    location: "Harvard University Computation Laboratory, Cambridge, Massachusetts"
+    weather: "Evening with laboratory lights on"
+  characters:
+    No characters present in this scene")
+  scene:
+    mainElements: "Harvard Mark II computer room in evening lighting showing technological achievement"
+    details: "Massive room-sized computer with relay panels illuminated by evening lighting, empty workstations showing day's completed work, preserved moth specimen in logbook nearby"
+    background: "Quiet evening laboratory with computer humming softly, historic moment preserved in documentation, sense of pioneering achievement in computer science"
+    atmosphere: "Historic achievement in computer science, birth of debugging concept, lasting legacy for technology development"
+  composition:
+    cameraAngle: "Wide establishing shot showing computer laboratory as historic site"
+    focus: "Harvard Mark II computer as birthplace of debugging terminology"
+    depth: "Computer equipment in foreground, empty laboratory in middle ground, evening campus view in background, no text or letters visible"

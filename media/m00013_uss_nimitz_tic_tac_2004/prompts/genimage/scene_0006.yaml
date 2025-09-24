@@ -1,36 +1,32 @@
 sceneDescription:
   setting:
-    time: November 14, 2004, approximately 1:00 PM
-    location: Pacific Ocean southwest of San Diego, California, airspace above training area
-    weather: Clear, sunny day with bright sunlight and excellent flying conditions
+    time: November 14, 2004, early afternoon
+    location: Pacific Ocean 100 miles southwest of San Diego, California, open ocean training range
+    weather: Clear sunny day with excellent visibility, bright sunlight creating glare off ocean surface
   characters:
-  - appearance: Caucasian man, 40s, athletic build, focused expression, military bearing
-    clothing: Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name
-      tags
-    position: In F/A-18F cockpit executing aggressive banking maneuver
-    action: Attempting to match Tic Tac object's impossible flight characteristics and intercept trajectory
-  - appearance: Caucasian man, 30s, stocky build, alert expression, tactical awareness
-    clothing: Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name
-      tags
-    position: In weapons systems officer seat behind pilot
-    action: Operating sensors and monitoring intercept attempt while experiencing extreme maneuvering forces
+  - appearance: Caucasian man, 40s, medium build, focused expression, confident military bearing
+    clothing: CWU-27/P sage green flight suit, SV-2 survival vest with emergency equipment, squadron patches and name tags,
+      G-suit for high-performance maneuvering
+    position: Alert military stance, hands positioned for flight controls or gesturing to explain aerial maneuvers
+    action: Banking F/A-18F hard to maintain visual contact with unknown object, attempting intercept maneuvers, communicating
+      urgently with wingman
   scene:
-    mainElements: F/A-18F Super Hornet in tactical grey paint scheme, VFA-41 Black Aces squadron markings, Bureau Number on
-      fuselage, AIM-9X Sidewinder training missiles, twin-engine multirole fighter aircraft
-    details: Bright white, smooth-surfaced oblong object approximately 40 feet long, resembling commercial airliner fuselage
-      shape, no visible wings, rotors, or propulsion systems, no exhaust plume or heat signature, surface appears to shimmer
-      or shift, demonstrates instantaneous acceleration and hover capability performing impossible aerial maneuvers. Aircraft
-      banking hard at maximum performance trying to match object's movements. G-forces affecting crew as they attempt intercept.
-      Object demonstrating capabilities far exceeding known aircraft.
-    background: Pacific Ocean southwest of San Diego, California, approximately 100 miles offshore, water depth 13,000 feet
-      with bright blue ocean extending to horizon
-    atmosphere: High-intensity aerial engagement between advanced military fighter and unknown technology, frustration and
-      amazement as conventional aircraft cannot match object's performance, dramatic aerial maneuvering in clear skies
+    mainElements: White oblong object approximately 40 feet long, smooth surface without wings, rotors, or visible propulsion,
+      shape resembling commercial airliner fuselage or large Tic Tac mint, bright white color that appears to shimmer or shift,
+      no exhaust plume or heat signature visible
+    details: Tic Tac object hovering and maneuvering above ocean surface with impossible flight characteristics, F/A-18F Super
+      Hornet banking steeply trying to match object's movements, stark contrast between conventional military aircraft and
+      anomalous white object, object demonstrating instantaneous acceleration and hover capability, bright Pacific Ocean surface
+      reflecting sunlight below, no conventional aircraft features visible on white object, no text or letters visible
+    background: Vast blue Pacific Ocean under clear sky, ocean disturbance area visible below, bright sunlight creating intense
+      glare conditions
+    atmosphere: Intense concentration mixed with disbelief, pilot pushing aircraft to limits trying to intercept, sense of
+      encountering technology beyond known capabilities, professional military focus despite extraordinary circumstances
   composition:
-    cameraAngle: Dynamic angled shot showing F/A-18F banking hard in pursuit of elusive object
-    focus: F/A-18F executing maximum performance maneuver trying to intercept impossible-to-catch Tic Tac object
-    depth: 'Foreground: banking F/A-18F with crew under G-forces, middle ground: Tic Tac object evading intercept, background:
-      vast Pacific Ocean, no text or letters visible'
+    cameraAngle: Dynamic aerial perspective showing both aircraft and object
+    focus: White Tic Tac object demonstrating impossible maneuvers while F/A-18F attempts intercept
+    depth: Foreground captures detailed object characteristics, middle ground shows aircraft maneuvering, background provides
+      ocean and sky context
 visualElements:
   colorPalette:
     primary:

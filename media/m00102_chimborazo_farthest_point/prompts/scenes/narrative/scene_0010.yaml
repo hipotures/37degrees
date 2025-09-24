@@ -1,20 +1,16 @@
 sceneDescription:
-  title: "Chimborazo's New Recognition"
+  title: "Chimborazo stands as Earth's true highest point from planetary center"
   setting:
-    time: "Modern day, sunrise"
-    location: "Mount Chimborazo summit, Ecuador, snow-covered volcanic peak at 6,263 meters"
-    weather: "Clear sunrise with golden light on snow"
-  characters:
-    - appearance: "Indigenous Ecuadorian man, 40s, strong build adapted to high altitude, wise expression"
-      clothing: "Traditional Andean wool clothing mixed with modern outdoor gear"
-      position: "Standing proudly at summit marker"
-      action: "Celebrating the recognition of Chimborazo's unique geographic distinction"
+    time: "Present day, comparative view"
+    location: "Highest peak of massive stratovolcano, 6,263m elevation, Chimborazo Province, Ecuador"
+    weather: "Clear equatorial day with perfect visibility of the volcanic peak"
+  characters: "No characters present in this scene"
   scene:
-    mainElements: "Snow-covered rocky peak, glacial ice formations, thin atmosphere, Andean mountain range stretching to horizon with golden sunrise light"
-    details: "Summit marker acknowledging Chimborazo as Earth's farthest point from center, modern GPS devices confirming the measurement, sunrise casting golden light on snow-covered volcanic peak, traditional Andean elements mixed with modern scientific recognition, no text or letters visible"
-    background: "Spectacular Andean sunrise over volcanic peaks, endless mountain landscape"
-    atmosphere: "Majestic, challenging high-altitude environment with stunning mountain vistas celebrating new understanding of Earth's geography"
+    mainElements: "Four distinct summits with highest peak, perpetual snow and ice cap, steep volcanic slopes, dramatic crevasses, massive stratovolcano structure at optimal equatorial position"
+    details: "Chimborazo's summit standing 6,384.4km from Earth's center, 2,168m farther than Mount Everest despite lower sea-level elevation, double volcanic structure with 78-mile circumference and 30-mile diameter, andesitic-dacitic composition with ice cap, position at Ecuador's equatorial latitude providing maximum advantage from Earth's rotational bulge, geological foundation placing this mass at optimal position for distance record, no text or letters visible"
+    background: "Thin air at extreme altitude, brilliant equatorial sunlight, complete silence except for wind, vast Ecuadorian landscape emphasizing unique geographical position"
+    atmosphere: "Geographic triumph of location over elevation, scientific vindication of centuries of measurement, understanding that Earth's shape makes this unlikely peak the true record holder"
   composition:
-    cameraAngle: "Wide shot emphasizing mountain majesty in sunrise light"
-    focus: "Guide celebrating at newly recognized Earth's farthest point"
-    depth: "Summit marker in foreground, guide in middle ground, sunrise mountain panorama in background"
+    cameraAngle: "Majestic wide shot emphasizing Chimborazo's commanding presence and equatorial position"
+    focus: "Chimborazo's snow-capped summit standing as Earth's farthest point from center despite being shorter than Everest"
+    depth: "Foreground: Ecuadorian highland approach, middle: Chimborazo's massive volcanic structure, background: equatorial sky emphasizing optimal latitude for distance record"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Historic Documentation - Recording the First Computer Bug"
+  setting:
+    time: "September 9, 1947, 4:00 PM"
+    location: "Dedicated work table area near Harvard Mark II computer for documentation"
+    weather: "Cool controlled laboratory environment"
+  characters:
+    - appearance: "Mid-30s man, medium build, brown hair, focused expression, quick energetic movements"
+      clothing: "White button-down shirt with rolled sleeves, dark slacks, bow tie, practical work attire"
+      position: "Seated at work table examining technical diagrams"
+      action: "Collaboratively working with technical documents, pointing at diagrams with rapid hand movements"
+    - appearance: "42-year-old woman, 5'6\", slender build, dark hair pulled back in neat bun, intelligent brown eyes behind wire-rimmed glasses, precise movements"
+      clothing: "Navy uniform - dark blue wool jacket with lieutenant's bars, white shirt, dark tie, practical dark shoes"
+      position: "Standing at work table reviewing technical calculations"
+      action: "Examining computer documentation with analytical focus, notebook in hand"
+  scene:
+    mainElements: "Wooden work table with organized supplies, bound logbook with lined pages, fountain pens, tape dispenser, desk lamp providing focused lighting, technical reference materials"
+    details: "Historic documentation moment at 4:00 PM. Bound ledger book with lined pages, approximately 12x8 inches, black cover, multiple handwritten entries in fountain pen ink, open to current work session. The extracted moth being carefully taped into the logbook page. Team member writing the historic entry documenting the discovery. Tape dispenser and fountain pen visible on work surface. The moth specimen being permanently preserved as the first documented computer bug. Work area illuminated by focused desk lamp for precise record-keeping."
+    background: "Harvard Mark II computer visible in background, additional technical documentation and work areas, laboratory setting"
+    atmosphere: "Quiet concentration area organized for detailed record-keeping, well-lit workspace optimized for precise documentation, academic atmosphere of careful scientific recording"
+  composition:
+    cameraAngle: "Medium shot showing the logbook documentation process"
+    focus: "The historic logbook entry being created with the moth specimen being taped to the page"
+    depth: "Foreground shows detailed logbook and moth preservation, middle ground features team members documenting the discovery, background displays laboratory context, no text or letters visible"

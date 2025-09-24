@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Successful Testing of Pneumatic Shock Absorber Innovation"
+  setting:
+    time: "1905, afternoon, clear day"
+    location: "Private workshop laboratory, early 20th century, filled with mechanical equipment and tools"
+    weather: "Bright clear day with good natural light"
+  characters:
+    - appearance: "Polish man, 29 years old, slender build, intense dark eyes, intelligent expression, showing satisfaction and achievement"
+      clothing: "Practical work attire - white shirt with sleeves rolled up, dark vest, work apron with grease stains, practical boots"
+      position: "Standing beside workbench examining completed pneumatic shock absorber prototype"
+      action: "Testing the compression and extension of the shock absorber mechanism, making final adjustments with precision tools"
+  scene:
+    mainElements: "Pneumatic shock absorber prototype for automobiles, cylindrical metal housing with spring mechanism, technical drawings showing internal components, precision measuring instruments and tools"
+    details: "Completed shock absorber with polished metal casing, spring coils and pneumatic chambers visible, official patent papers with detailed technical drawings rolled and tied with ribbon, automotive testing equipment, brass pressure gauges, mechanical calipers and measuring tools, prototype automotive parts scattered on workbench, no text or letters visible"
+    background: "Workshop with shelves displaying earlier prototypes and mechanical innovations, large windows providing excellent light for precision work"
+    atmosphere: "Triumph of engineering innovation and commercial breakthrough, satisfaction of successful invention that will change automotive industry, pride in technical achievement"
+  composition:
+    cameraAngle: "Medium shot from side angle, capturing both inventor and invention"
+    focus: "Character JH with the completed shock absorber prototype, showing the culmination of innovative engineering work"
+    depth: "Foreground: detailed shock absorber mechanism and testing process, middle ground: workshop tools and patent documentation, background: shelves of successful inventions and bright natural lighting, no text or letters visible"

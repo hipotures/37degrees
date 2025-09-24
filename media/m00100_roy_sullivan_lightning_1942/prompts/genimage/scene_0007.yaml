@@ -1,25 +1,32 @@
 sceneDescription:
   setting:
-    time: June 5, 1976, evening
-    location: Mountain trail in Shenandoah National Park
-    weather: Storm cloud appearing to stalk individual target
+    time: June 5, 1976, afternoon during cloud formation
+    location: Open meadow area, Shenandoah National Park, Virginia
+    weather: Threatening cloud formation appearing to follow ranger's movement
   characters:
-  - appearance: American man, 64, brawny build resembling Gene Hackman, rugged weathered face, paranoid about storms
-    clothing: US Park Service uniform with ranger hat, work boots, utility belt, carrying emergency water can
-    position: Running away from perceived threatening cloud
-    action: Desperately trying to escape pursuing storm cloud, being struck despite evasion attempt
+  - appearance: Brawny, towering Caucasian man, broad rugged face resembling actor Gene Hackman, multiple lightning scars
+      visible on face, arms, and legs, often missing eyebrows and eyelashes from recent strikes, thick build, weathered skin
+      from outdoor work
+    clothing: 1940s-1970s park ranger uniform - khaki shirt and pants, wide-brimmed ranger hat with official Shenandoah National
+      Park badge, heavy work boots often with lightning burn holes, utility belt with radio and emergency water container
+    position: Mid-run across open meadow, ankle twisted and injured from lightning strike
+    action: Attempting to flee from approaching storm cloud, struck despite running, grasping injured ankle while hair burns
+      again
   scene:
-    mainElements: Park ranger attempting to flee from storm cloud that appears to be following him personally
-    details: Storm cloud seeming to pursue individual target across mountain terrain, ranger running desperately to escape
-      perceived threat, lightning striking despite distance and evasion efforts, ankle injury from sixth electrical strike,
-      hair catching fire once again from lightning contact, growing psychological impact of repeated strikes
-    background: Mountainous park trail with threatening storm cloud overhead, Shenandoah wilderness becoming menacing environment
-    atmosphere: Psychological pressure from repeated lightning encounters, paranoid belief in cloud persecution, sixth lightning
-      strike reinforcing pattern of extraordinary attraction, nature becoming personal enemy, no text or letters visible
+    mainElements: Open grassy meadow with scattered trees, clear running path across field, storm cloud directly overhead,
+      no shelter available
+    details: Single dark cloud appearing to pursue fleeing ranger, lightning strike hitting moving target, injured ankle preventing
+      escape, hair igniting for sixth time, visible paranoia and fear in ranger's posture, running stride broken by electrical
+      impact
+    background: Vast open meadow surrounded by distant forest, mountains visible on horizon, clear sky except for single pursuing
+      cloud
+    atmosphere: Growing paranoia about lightning following him, sense of being hunted by natural forces, isolation in open
+      terrain with no protection
   composition:
-    cameraAngle: Dynamic shot showing flight from pursuing storm
-    focus: Sixth lightning strike and growing psychological impact
-    depth: Fleeing ranger in foreground, threatening storm cloud in middle ground, mountain wilderness in background
+    cameraAngle: High angle shot showing small human figure dwarfed by vast meadow and threatening cloud
+    focus: Fleeing ranger struck by lightning in open terrain, emphasizing vulnerability and pursuit theme
+    depth: 'Foreground: open meadow grass, middle: running ranger struck by lightning, background: pursuing storm cloud and
+      distant mountains, no text or letters visible'
 visualElements:
   colorPalette:
     primary:

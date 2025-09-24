@@ -1,101 +1,79 @@
 sceneDescription:
   setting:
-    time: December 9, 1965, 7:00 PM, night
-    location: Forest edge with military vehicles and security barriers around impact site
-    weather: Cold December night, frost forming on equipment
+    time: December 9, 1965, 8:00 PM EST, night
+    location: Single-story brick building in village center, typical 1960s rural fire station
+    weather: Cold December night
   characters:
-  - appearance: Young Caucasian man, 20s, short military haircut, serious expression
-    clothing: Olive drab M-1965 field jacket, M1 steel helmet, combat boots, military patches visible
-    position: Standing guard at rope barrier, rifle at ready
-    action: Standing guard, rifle at ready position, disciplined military bearing
-  - appearance: Middle-aged Caucasian man, 40s, clean-shaven, confident expression, officer insignia
-    clothing: Olive drab officer uniform, peaked cap, leather boots, binoculars around neck
-    position: Near command tent, coordinating operations
-    action: Commanding stance, pointing directions, clipboard or radio in hand
-  - appearance: Young Caucasian man, 20s, short military haircut, serious expression
-    clothing: Olive drab M-1965 field jacket, M1 steel helmet, combat boots, military patches visible
-    position: Patrolling perimeter with another soldier
-    action: Walking patrol route, checking security barriers, maintaining alert posture
+  - appearance: Multiple U.S. Army soldiers in standard 1960s military uniforms
+    clothing: Olive drab military uniforms, combat boots, winter gear, carrying equipment
+    position: Armed guards posted at fire hall entrance and around building perimeter
+    action: Installing communication equipment and establishing command post while excluding civilian firefighters
+  - appearance: Multiple volunteer firefighters, various ages, local community members
+    clothing: 1960s volunteer fire department gear, heavy coats, boots, helmets
+    position: Standing outside building they normally occupy, looking confused and excluded
+    action: Being ordered away from their own fire hall by military personnel
   scene:
-    mainElements: Army trucks, jeeps, rope barriers, soldiers on guard duty, portable floodlights
-    details: Olive drab military deuce-and-a-half truck with canvas top, military markings, heavy-duty tires, cargo area with
-      tailgate, 1960s military vehicle design, soldiers establishing secure perimeter with rope barriers, tripod-mounted flood
-      light with large reflector, portable generator power source, military field equipment for night operations, officers
-      with radio equipment, no text or letters visible
-    background: Highly secured area with military efficiency and restricted civilian access
-    atmosphere: Professional military operation with complete control of impact site, sense of high-level security and classified
-      importance
+    mainElements: Equipment bays, meeting room, radio communications, emergency response coordination center
+    details: Military personnel setting up communication equipment and command post, armed guards preventing civilian access,
+      fire trucks moved aside for military vehicles, radio antennas being installed, civilian firefighters displaced from
+      their own building, official takeover of local emergency services, tension between military authority and community
+      volunteers, no text or letters visible
+    background: Initially busy with volunteer firefighters, later taken over by military with armed guards
+    atmosphere: Community emergency response replaced by military secrecy, local volunteers excluded from operation in their
+      own building, Cold War era government authority asserting control over civilian institutions
   composition:
-    cameraAngle: Wide shot showing military perimeter and multiple vehicles
-    focus: Military personnel and vehicles establishing comprehensive security perimeter
-    depth: Guard posts and barriers in foreground, military vehicles and command area in middle ground, dark forest with impact
-      site in background
+    cameraAngle: Medium shot showing contrast between military control and displaced civilians
+    focus: Armed military guards at fire hall entrance with excluded firefighters in background
+    depth: Military equipment in foreground, guards at entrance in middle ground, displaced community volunteers in background
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

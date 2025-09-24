@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: April 17, 1986, afternoon
+    location: Formal ceremony on Isles of Scilly for peace treaty signing
+    weather: Clear spring day with celebratory atmosphere
+  characters:
+  - appearance: Dutch man, 55, diplomatic bearing, well-groomed, formal appearance
+    clothing: 1980s formal diplomatic attire, dark suit with Dutch diplomatic insignia
+    position: Standing at ceremonial table for treaty signing
+    action: Diplomatic formality, signing peace treaty with ceremonial pen
+  - appearance: English man, 60s, local historian appearance, gray hair, wire-rimmed spectacles
+    clothing: 1980s formal suit with tie, carrying briefcase and historical documents
+    position: Standing beside Dutch ambassador
+    action: Witnessing historic moment with satisfaction at diplomatic resolution
+  scene:
+    mainElements: Formal diplomatic building with Dutch flag and ceremony setup for peace treaty
+    details: Formal diplomatic document with official seals and signatures being signed, ceremonial table with treaty documents,
+      Dutch and British flags displayed, media cameras recording historic moment, official witnesses present, handshakes and
+      diplomatic courtesy, celebration of peaceful resolution
+    background: Beautiful Scilly landscape visible through windows, peaceful island setting for diplomatic conclusion
+    atmosphere: Professional diplomatic environment with formal ceremonial atmosphere, end of world's longest war, bureaucratic
+      curiosity finally resolved, historic diplomatic moment, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing treaty signing ceremony
+    focus: Official end of 335-year technical war through diplomacy
+    depth: Treaty signing in foreground, ceremonial setting in middle ground, Scilly landscape in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

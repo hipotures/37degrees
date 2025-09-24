@@ -1,29 +1,29 @@
 sceneDescription:
   setting:
-    time: 1562, morning
+    time: 1562, afternoon
     location: Stone-walled Renaissance workshop in Toledo, Spain, with vaulted ceiling and tall windows
-    weather: Clear morning with bright sunlight streaming through windows
+    weather: Clear afternoon with golden sunlight
   characters:
   - appearance: Italian man, 50s, graying beard, intense focused eyes, calloused hands from metalwork
     clothing: Renaissance brown leather apron over white linen shirt, dark wool hose, leather boots
-    position: Seated at wooden workbench, leaning forward in concentration
-    action: Carefully sketching mechanical designs while examining brass gears and springs
+    position: Bent over workbench, precise hand movements, scholarly concentration
+    action: Carefully carving wooden head of monk figure with delicate chisels and files
   scene:
-    mainElements: Wooden workbenches covered with clockwork mechanisms, brass gears, springs, and precision tools dominate
-      the workspace
-    details: Precision instruments including tiny hammers, files, calipers, brass measuring devices, magnifying lenses, gear-cutting
-      tools, springs and clockwork components cover every surface. Detailed drawings show mechanical monk designs scattered
-      across the workbench. Brass shavings glitter in the sunlight. Half-finished clockwork pieces demonstrate the complexity
-      of the commission. Tools hang precisely arranged on wooden pegboards
-    background: Stone walls with arched windows reveal the ancient city of Toledo beyond, while shelves lined with mechanical
-      curiosities surround the workspace
-    atmosphere: Industrious concentration, golden afternoon light streaming through windows, scent of metal and oil as genius
-      begins transforming royal vision into mechanical reality
+    mainElements: Wooden workbenches covered with clockwork mechanisms, brass gears, springs, and precision tools
+    details: Partially carved wooden monk head showing serene facial features and tonsured crown, tiny brass gears and springs
+      scattered across workbench, precision instruments including tiny hammers, files, calipers, brass measuring devices,
+      magnifying lenses, gear-cutting tools, springs and clockwork components, wood shavings curling from carving work, afternoon
+      sunlight streaming through tall windows illuminating the delicate craftsmanship, oil lamps ready for evening work, no
+      text or letters visible
+    background: Stone walls with tool racks holding specialized instruments, shelves lined with mechanical components and
+      half-finished clockwork pieces, tall arched windows
+    atmosphere: Industrious concentration, golden afternoon light streaming through windows, scent of metal and oil, creative
+      dedication and masterful craftsmanship
   composition:
-    cameraAngle: Over-the-shoulder shot from behind the craftsman looking down at his work
-    focus: The intricate mechanical drawings and precision tools spread across the workbench
-    depth: 'Foreground: detailed drawings and brass components; middle: the concentrated craftsman; background: workshop tools
-      and tall windows, no text or letters visible'
+    cameraAngle: Close-up over shoulder shot showing the intricate detail work
+    focus: Clockmaker's skilled hands carving the wooden monk head with precision tools
+    depth: Foreground shows intricate carving details, middle ground captures craftsman's concentration, background reveals
+      workshop's industrial atmosphere
 visualElements:
   colorPalette:
     primary:

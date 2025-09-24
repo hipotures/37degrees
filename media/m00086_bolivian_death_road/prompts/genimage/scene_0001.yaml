@@ -1,20 +1,36 @@
 sceneDescription:
   setting:
-    time: 2000s, morning
-    location: La Paz outskirts, Bolivia - high altitude departure point at 3,500 meters elevation
-    weather: Clear mountain air with thin clouds
-  characters: No characters present in this scene
+    time: 1935, early morning
+    location: Steep mountainside of Cordillera Oriental, Bolivia, construction zone at high altitude
+    weather: Cold mountain air with patches of fog clinging to rock faces
+  characters:
+  - appearance: Malnourished men aged 18-40, weathered faces showing exhaustion, calloused hands from manual labor, tired
+      but determined expressions
+    clothing: Tattered Paraguayan military uniforms or basic work clothes, worn boots, some barefoot, minimal protection against
+      mountain cold
+    position: Working along steep mountainside, some using ropes and pulleys
+    action: Carving road into rock face with primitive tools, moving under armed guard supervision
+  - appearance: Bolivian soldiers aged 20-45, stern weathered faces, military bearing, carrying rifles
+    clothing: 1930s dark green Bolivian military uniforms with insignia, heavy boots, military caps, winter coats for mountain
+      conditions
+    position: Positioned on higher ground overlooking work areas
+    action: Supervising prisoner work gangs, maintaining watchful guard positions
   scene:
-    mainElements: Urban edge transitioning to mountain roads, tour operators' vehicles, safety briefing areas
-    details: Sprawling La Paz city built into mountainside, modern buildings mixed with traditional architecture, winding
-      roads leading toward mountain passes, vehicles preparing for dangerous journey ahead, oxygen-thin atmosphere visible
-      in crisp lighting
-    background: Snow-capped Andes peaks rising beyond city, vast mountain ranges extending to horizon
-    atmosphere: Anticipatory tension, last moment of safety before dangerous journey
+    mainElements: Steep mountainside construction zone during original road building, primitive work conditions at high altitude,
+      rock face being carved by hand tools, wooden scaffolding and rope systems
+    details: Basic hand tools including pickaxes, shovels, wheelbarrows, primitive blasting equipment, rope and pulley systems,
+      all showing wear from mountain construction work. Piles of broken rock accumulating along narrow ledges. Makeshift wooden
+      platforms and rope systems for accessing cliff face. Steam rising from workers' breath in cold air. Harsh mountain conditions
+      with sounds of pickaxes striking rock and shouted orders in Spanish.
+    background: Dramatic Andean mountain peaks stretching to horizon, morning mist clinging to valleys below, sheer cliff
+      drops visible beyond work area
+    atmosphere: Harsh mountain conditions, sounds of pickaxes on rock, shouted orders in Spanish, constant danger from falling
+      rocks, sense of forced labor and human suffering in brutal environment, no text or letters visible
   composition:
-    cameraAngle: Wide establishing shot from elevated position
-    focus: City-to-mountain transition showing starting point of infamous route
-    depth: City buildings in foreground, mountain roads in middle ground, Andes peaks in background, no text or letters visible
+    cameraAngle: Wide establishing shot from across valley showing scale of mountain construction project
+    focus: Prisoners working with primitive tools against massive rock face, emphasizing human scale against mountain
+    depth: 'Foreground: working prisoners and guards, middle: construction activity on narrow ledges, background: vast Andean
+      mountain landscape'
 visualElements:
   colorPalette:
     primary:

@@ -1,22 +1,26 @@
 sceneDescription:
   setting:
     time: August 27, 1896, 9:02 AM
-    location: Zanzibar Harbor and palace complex during opening bombardment
-    weather: Clear morning suddenly filled with smoke and fire
+    location: Natural deep-water harbor facing Stone Town waterfront in Indian Ocean
+    weather: Excellent visibility, perfect conditions for naval gunnery, bright sunlight
   characters: No characters present in this scene
   scene:
-    mainElements: Gray steel warships with multiple gun turrets firing in coordinated bombardment, palace buildings taking
-      direct hits
-    details: Muzzle flashes erupting from British naval guns, shells streaking through air toward palace, explosions blooming
-      against palace walls, smoke and debris filling courtyard, wooden structures beginning to catch fire, traditional dhow
-      boats fleeing harbor area
-    background: Stone Town buildings beyond palace, tropical sky now darkened with smoke, seabirds scattering from explosions
-    atmosphere: Sudden devastating violence, overwhelming firepower demonstration, shortest war in history beginning with
-      explosive fury, imperial might crushing resistance, no text or letters visible
+    mainElements: Five British warships in battle formation, dhow sailing boats fled to safety, stone quays and piers, lighthouse
+      on shore
+    details: HMS Racoon, HMS Thrush, and HMS Sparrow opening fire simultaneously on palace targets. Massive gun flashes from
+      naval artillery, smoke and flame erupting from warship gun turrets, explosive shells streaking across harbor toward
+      palace, water disturbed by naval gun recoil, coordinated first salvo marking official start of shortest war in recorded
+      history
+    background: Stone Town waterfront beginning to show first impacts, palace starting to take damage, local buildings in
+      background, clear tropical morning providing perfect targeting conditions
+    atmosphere: Crystal clear morning, light wind from east, gun smoke drifting over water, thunderous cannon fire echoing
+      off buildings, historical moment as war officially begins at 9:02 AM, overwhelming British naval firepower unleashed,
+      dramatic contrast between peaceful harbor and sudden violence, no text or letters visible
   composition:
-    cameraAngle: Wide aerial shot capturing full scope of bombardment
-    focus: Massive firepower disparity between naval guns and palace defenses
-    depth: British warships firing in foreground, explosions hitting palace in middle ground, Stone Town in background
+    cameraAngle: Dynamic wide shot capturing moment of first shots fired
+    focus: Naval gun flashes and smoke, shells in flight, palace beginning to take hits
+    depth: 'Foreground: warship gun batteries firing, middle: shells crossing harbor, background: palace beginning to show
+      damage and smoke'
 visualElements:
   colorPalette:
     primary:

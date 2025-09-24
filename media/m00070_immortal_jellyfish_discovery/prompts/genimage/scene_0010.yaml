@@ -1,32 +1,32 @@
 sceneDescription:
   setting:
-    time: 2020s, morning
-    location: Seto Marine Biological Laboratory, Shirahama City, Wakayama Prefecture, Japan
-    weather: Controlled laboratory environment with precise lighting and temperature
+    time: 2019-2022, morning
+    location: Advanced molecular biology laboratory with genomic sequencing equipment
+    weather: Indoor controlled environment
   characters:
-  - appearance: Japanese man, 60s, average height, graying black hair, warm intelligent eyes behind thick glasses
-    clothing: 'Modern laboratory attire: white lab coat over button-down shirt, dark trousers, sometimes casual sweater'
-    position: Hunched over laboratory bench working with microscopic specimens
-    action: Carefully feeding jellyfish specimens with fine-point needles, maintaining the world's only captive immortal jellyfish
-      colony
+  - appearance: International team of molecular biologists, diverse backgrounds, focused expressions, precise movements
+    clothing: Modern laboratory attire - white lab coats, protective equipment, sterile gloves, safety glasses
+    position: Working at advanced genetic sequencing stations
+    action: Operating sophisticated molecular analysis equipment, examining genetic sequences on computer screens, conducting
+      precise genomic research
   scene:
-    mainElements: State-of-the-art marine research facility with temperature-controlled glass tanks containing jellyfish colonies,
-      advanced microscopy and monitoring equipment
-    details: Temperature-controlled glass tanks with seawater circulation, precise environmental monitoring equipment maintaining
-      optimal conditions for immortal jellyfish, dried Artemia cysts visible under magnification as jellyfish food, ultra-fine
-      laboratory needles used for precise feeding of microscopic organisms, advanced digital microscope with computer interface
-      and high-resolution imaging capabilities, research notebooks with detailed observations spanning decades
-    background: Modern Japanese marine research laboratory with cutting-edge equipment for studying marine organisms, organized
-      workstations, and comprehensive monitoring systems
-    atmosphere: Dedicated scientific pursuit continuing the legacy of the original discovery, patient daily care maintaining
-      living specimens of the immortal jellyfish for ongoing research into the mechanisms of biological immortality, no text
-      or letters visible
+    mainElements: Advanced DNA sequencing machines, computer workstations displaying genetic data, modern microscopy equipment,
+      temperature-controlled specimen storage
+    details: Clear glass containers, approximately 500ml capacity, with ventilated lids, filled with filtered seawater, small
+      jellyfish barely visible to naked eye, requiring magnification for detailed observation. High-tech molecular biology
+      equipment, genomic sequencing machines, computer monitors showing complex genetic patterns, specimen preparation areas
+      for molecular analysis, cutting-edge biotechnology instruments
+    background: State-of-the-art molecular biology facility with advanced computational equipment, genetic analysis workstations,
+      modern scientific infrastructure
+    atmosphere: Modern laboratory environment with sophisticated technology, quiet hum of advanced equipment, sterile conditions
+      optimized for genetic research, atmosphere of cutting-edge scientific discovery with implications for human longevity
+      research
   composition:
-    cameraAngle: Close-up view emphasizing the delicate care required for maintaining immortal jellyfish specimens
-    focus: The ongoing scientific dedication to studying and maintaining the immortal jellyfish decades after the original
-      discovery
-    depth: 'Foreground: careful specimen maintenance and feeding process, middle: researcher working with precision equipment,
-      background: modern laboratory with advanced marine research infrastructure'
+    cameraAngle: Medium shot showing modern genetic research facility
+    focus: Contemporary genomic research revealing genetic keys to biological immortality
+    depth: Foreground shows advanced genetic sequencing equipment and specimen analysis, middle ground features international
+      research team conducting molecular studies, background displays modern laboratory with computational biology infrastructure,
+      no text or letters visible
 visualElements:
   colorPalette:
     primary:

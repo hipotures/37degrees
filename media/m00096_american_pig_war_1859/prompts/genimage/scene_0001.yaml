@@ -1,25 +1,26 @@
 sceneDescription:
   setting:
     time: June 1859, early morning
-    location: San Juan Island between Vancouver Island and Washington Territory
-    weather: Clear Pacific Northwest morning with ocean mist
-  characters:
-  - appearance: American man, 40s, weathered face from frontier life, brown beard, stocky farmer build
-    clothing: Rough wool shirt, canvas trousers, wide-brimmed hat, leather boots caked with mud
-    position: Standing on hillside overlooking island landscape
-    action: Determined frontier stance, surveying his claimed territory with satisfaction
+    location: 55-square-mile island in San Juan Archipelago, rugged terrain with rolling hills, dense forests, and coastal
+      prairies
+    weather: Cool Pacific Northwest morning with frequent mists drifting from the water
+  characters: No characters present in this scene
   scene:
-    mainElements: Rolling green hills with scattered oak trees, rocky coastline, pristine waters of Pacific Northwest
-    details: Panoramic view of San Juan Island with forested hills, meadows, and dramatic coastline, morning mist rising from
-      calm waters, scattered homestead clearings visible, deer grazing in distant meadows, seabirds circling overhead
-    background: Vancouver Island visible across channel, Washington Territory mainland in distance, vast Pacific waters stretching
-      to horizon
-    atmosphere: Pacific Northwest maritime environment with dramatic coastal scenery, pristine wilderness being settled by
-      pioneers, peaceful frontier paradise before conflict, no text or letters visible
+    mainElements: Belle Vue Sheep Farm on southern end, sheltered bays, rocky coastlines, inland meadows suitable for farming
+    details: Aerial view revealing the disputed territory's strategic position between American and British claims. Dense
+      evergreen forests cover rolling hills, while cleared farmland and sheep pastures dot the southern portion. Coastal prairies
+      stretch along rocky shorelines with numerous small bays providing natural harbors. Morning mist clings to valleys and
+      drifts across the water, creating an ethereal atmosphere over this seemingly peaceful but diplomatically contentious
+      island.
+    background: Distant Vancouver Island visible across Haro Strait to the west, mainland America to the east, creating the
+      geographical context for the boundary dispute
+    atmosphere: Remote frontier setting, cool Pacific Northwest climate, frequent mists, sound of waves and wind, no text
+      or letters visible
   composition:
-    cameraAngle: Wide establishing shot from elevated island position
-    focus: Stunning natural beauty of disputed territory
-    depth: Farmer on hillside in foreground, island landscape in middle ground, surrounding waters and distant lands in background
+    cameraAngle: High aerial establishing shot, slowly panning across the island
+    focus: The island's natural beauty contrasted with signs of human settlement and territorial claims
+    depth: Foreground shows detailed coastline and forests, middle ground reveals farmland and settlements, background shows
+      surrounding waters and distant shores
 visualElements:
   colorPalette:
     primary:

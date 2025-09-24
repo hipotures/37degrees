@@ -1,29 +1,27 @@
 sceneDescription:
   setting:
-    time: July 10, 1947, morning
-    location: Newspaper office, downtown Roswell, New Mexico
-    weather: Bright morning light through large windows
+    time: July 8, 1947, 4:00 PM
+    location: Large military office at Fort Worth Army Air Field, Texas, Eighth Air Force headquarters
+    weather: Clear afternoon with bright office lighting
   characters:
-  - appearance: Caucasian man, 30s, thin build, ink-stained fingers
-    clothing: White dress shirt with rolled sleeves, dark vest, loosened tie, suspenders
-    position: Standing at printing press
-    action: Holding two different newspaper editions, comparing them with furrowed brow
-  - appearance: Caucasian woman, 20s, neat appearance
-    clothing: 1940s office attire - knee-length skirt, white blouse, low heels
-    position: At nearby desk
-    action: On telephone, taking notes rapidly
+  - appearance: Middle-aged Caucasian man, authoritative military bearing, stern expression, commanding presence
+    clothing: Full military dress uniform with brigadier general's star, ribbons and decorations, peaked cap
+    position: Standing behind desk or addressing press
+    action: Holding weather balloon debris, speaking confidently to reporters, controlling narrative
   scene:
-    mainElements: 1940s newsroom with printing press, desks, typewriters
-    details: Large printing press with fresh newspapers, stacks of different editions on tables, rotary telephones ringing,
-      typewriter keys clacking, wall clock, filing cabinets, wastepaper baskets full of crumpled drafts, ink smell in air,
-      no text or letters visible
-    background: Busy newspaper office atmosphere, other workers at desks, large windows showing street view
-    atmosphere: Confusion, urgency, conflicting information, professional journalism under pressure
+    mainElements: Military desk, chairs, wall maps, debris spread on floor for press photos, filing cabinets, military decorations
+    details: Character RR standing confidently beside desk pointing to deflated weather balloon rubber, aluminum foil radar
+      reflector pieces, wooden sticks from ML-307 radar target, clearly deteriorated conventional materials spread on office
+      floor for press demonstration, assembled reporters and photographers documenting the reversal, flash bulbs illuminating
+      the scene, no text or letters visible
+    background: Formal military setting, bright lighting for press conference, tense atmosphere during media briefing
+    atmosphere: Authoritative damage control, confident military leadership reversing previous story with conventional explanation,
+      sense of official narrative being imposed
   composition:
-    cameraAngle: Interior wide shot of newsroom
-    focus: Editor comparing different newspaper versions
-    depth: Foreground shows newspapers and printing equipment, middle ground has main characters, background shows busy newsroom
-      activity
+    cameraAngle: Wide shot showing Character RR, debris on floor, and assembled press
+    focus: Character RR gesturing toward weather balloon debris while addressing skeptical reporters
+    depth: Foreground shows weather balloon debris on office floor, middle ground captures Character RR's presentation, background
+      reveals press corps documenting the reversal
 visualElements:
   colorPalette:
     primary:

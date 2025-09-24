@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: February 1954, next morning
+    location: Medical observation chamber with viewing window, Moscow Institute of Surgery
+    weather: Indoor controlled environment
+  characters:
+  - appearance: Caucasian man, 38 years old, dark hair slicked back, intense focused eyes behind wire-rim glasses, scholarly
+      demeanor
+    clothing: White laboratory coat over dark suit vest and white shirt, medical gloves, professional surgical attire
+    position: Standing at center presenting findings to assembled medical team
+    action: Discussing research progress and medical observations with scientific colleagues
+  - appearance: Caucasian man, 42 years old, balding with thick mustache, studious appearance, academic bearing
+    clothing: Dark suit with vest, white shirt, tie, occasionally white laboratory coat for observations
+    position: Seated at conference table reviewing documentation
+    action: Examining scientific records and medical documentation while participating in research discussion
+  - appearance: Caucasian man, 45 years old, graying temples, serious expression, medical professional bearing
+    clothing: White laboratory coat, dark trousers, medical cap, sterile surgical mask around neck
+    position: Standing near medical charts analyzing data
+    action: Reviewing medical measurements and vital sign recordings from previous day procedures
+  scene:
+    mainElements: Medical conference setting with research documentation, scientific discussion among medical professionals,
+      assessment of experimental progress
+    details: Scientific notebooks, medical charts, and documentation papers with handwritten observations and measurements
+      spread across conference table, early medical monitoring devices displaying ongoing vital sign data, institutional medical
+      environment with academic discussion atmosphere
+    background: Medical charts and documentation mounted on walls, observation equipment, institutional lighting and conference
+      furniture
+    atmosphere: Academic medical conference atmosphere with serious scholarly discussion, scientific assessment of research
+      progress, professional medical evaluation
+  composition:
+    cameraAngle: Wide shot capturing medical conference and team discussion
+    focus: Research presentation and documentation review emphasizing scientific collaboration
+    depth: Conference table with documentation in foreground, medical team discussion in middle ground, institutional environment
+      in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

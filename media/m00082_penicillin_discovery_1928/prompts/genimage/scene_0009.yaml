@@ -1,31 +1,34 @@
 sceneDescription:
   setting:
-    time: 1928 September, late afternoon
-    location: St Mary's Hospital Bacteriology Laboratory, Paddington, London
+    time: 1940, daytime
+    location: Modern research laboratory at Oxford University, 1940s
+    weather: Clear British day with good natural lighting
   characters:
-  - appearance: British man, late 20s, slender build, light brown hair neatly combed, clean-shaven, earnest expression
-    clothing: 1920s laboratory assistant white coat over white shirt and dark tie
-    position: Working at laboratory bench with chemical extraction equipment
-    action: Attempting to isolate pure penicillin from mold culture using laboratory techniques
-  - appearance: British man, early 30s, medium height, dark hair, clean-shaven, serious demeanor
-    clothing: 1920s white laboratory coat over formal shirt and dark tie
-    position: Operating scientific instruments for compound purification
-    action: Working with chemical apparatus to extract and purify the antibiotic substance
+  - appearance: Australian-born scientist, tall with angular features, serious demeanor
+    clothing: Academic formal wear of the 1940s, dark suits, white lab coats for laboratory work
+    position: Working at Oxford laboratory bench
+    action: Conducting systematic penicillin research and development
+  - appearance: German-Jewish refugee scientist, medium build, intense expression
+    clothing: Professional academic attire, laboratory coats during research
+    position: At laboratory equipment conducting experiments
+    action: Working on penicillin purification and mass production methods
   scene:
-    mainElements: Specialized laboratory equipment for chemical extraction, glass flasks with mold cultures, purification
-      apparatus
-    details: Complex glassware setup for chemical extraction, Erlenmeyer flasks containing mold juice cultures, distillation
-      apparatus, chemical bottles with various solvents, laboratory balance for precise measurements, test tubes with experimental
-      samples, crude penicillin solutions in glass containers, laboratory notebook with extraction procedures, afternoon lighting
-      through laboratory windows, no text or letters visible
-    background: Well-equipped laboratory with chemical storage, scientific instruments, other researchers working on various
-      projects
-    atmosphere: Intense scientific effort, challenging purification work, determination to isolate the active antibiotic compound
+    mainElements: Advanced laboratory equipment, chemical apparatus, purification devices, industrial-scale culture vessels,
+      systematic organization of research materials
+    details: Character HF and Character EC working with sophisticated 1940s laboratory equipment including large fermentation
+      vessels for growing Penicillium cultures, complex distillation apparatus for purifying penicillin extract, chemical
+      analysis equipment, multiple culture flasks containing industrial-scale mold growth, systematic documentation of purification
+      processes, crystallization equipment showing concentrated penicillin compounds, advanced microscopes for quality control,
+      measurement devices for determining antibiotic potency
+    background: Modern laboratory with organized equipment arrangements, large windows providing excellent natural light,
+      additional research staff working at other stations
+    atmosphere: Systematic research environment, bright fluorescent lighting, sterile conditions, focused scientific activity
   composition:
-    cameraAngle: Wide shot showing collaborative laboratory research effort
-    focus: Both assistants working with specialized extraction and purification equipment
-    depth: Foreground shows detailed chemical apparatus and extraction work, middle ground captures both researchers in focused
-      activity, background reveals broader laboratory research environment
+    cameraAngle: Wide shot showing the scale and sophistication of Oxford laboratory operations
+    focus: Character HF and Character EC collaborating over large-scale penicillin production equipment
+    depth: Foreground shows detailed industrial-scale fermentation and purification apparatus, middle ground captures Character
+      HF and Character EC's collaborative research work, background reveals the broader Oxford laboratory with additional
+      equipment and research activity, no text or letters visible
 visualElements:
   colorPalette:
     primary:

@@ -1,27 +1,31 @@
 sceneDescription:
   setting:
-    time: August 27, 1896, afternoon
-    location: Stone Town waterfront and palace ruins, Zanzibar
-    weather: Clear tropical afternoon, smoke cleared
+    time: August 28, 1896, evening
+    location: Three-story white limestone palace on Mizingani Road waterfront, Stone Town, Zanzibar
+    weather: Clear tropical evening, gentle breeze from harbor
   characters:
-  - appearance: British man, 45, tan complexion, military mustache, tall lean frame, alert eyes
-    clothing: Zanzibar army uniform with British military insignia, tropical sun helmet
-    position: Standing in palace courtyard surveying damage
-    action: Officer bearing, directing cleanup operations and establishing new authority
+  - appearance: Age 43, medium height and robust build, greying black beard, kind eyes, round face with gentle features
+    clothing: Royal Omani robes in cream and gold, turban with jeweled ornament, ceremonial sword, later wore British knighthood
+      insignia
+    position: Diplomatic and conciliatory posture
+    action: Measured gestures, cooperative manner with British authorities
   scene:
-    mainElements: Four-story white coral stone building with clock tower and ornate verandas, House of Wonders now serving
-      as temporary headquarters
-    details: British soldiers and local officials establishing new administration, palace ruins being cleared, House of Wonders
-      undamaged and flying British flag, new guards posted at entrances, local population watching cautiously from distance,
-      traditional dhows returning to normal harbor operations
-    background: British warships still anchored in harbor as show of force, Stone Town resuming daily activities, tropical
-      vegetation unchanged by brief conflict
-    atmosphere: Impressive ceremonial architecture representing new British authority, rapid transition from war to occupation,
-      imperial control established, tropical paradise under new management, no text or letters visible
+    mainElements: Castellated battlements, coral stone walls, marble floors, ornate arched windows, covered passages to adjacent
+      buildings, central courtyard with fountain
+    details: Formal coronation ceremony for Character HM under British protection, hastily repaired palace rooms for ceremony,
+      British officials present as witnesses, traditional Omani ceremonial objects restored for legitimate succession, new
+      sultanate flag raised replacing the one hauled down yesterday, diplomatic representatives ensuring orderly transition,
+      palace showing signs of quick repairs after bombardment damage
+    background: Stone Town buildings, British warships still visible in harbor maintaining peaceful presence, tropical evening
+      creating dignified atmosphere for legitimate ceremony
+    atmosphere: Humid tropical heat, scent of spices from nearby markets, sound of waves against the seawall, political stability
+      restored under British oversight, legitimate succession ensuring future cooperation, diplomatic success following military
+      victory, no text or letters visible
   composition:
-    cameraAngle: Medium shot showing new British administration taking control
-    focus: House of Wonders as symbol of continuing British power
-    depth: British officials in foreground, House of Wonders in middle ground, harbor with fleet in background
+    cameraAngle: Ceremonial medium shot emphasizing legitimate authority
+    focus: Character HM in coronation ceremony, British oversight, restored palace
+    depth: 'Foreground: coronation ceremony with Character HM, middle: British officials and traditional ceremony, background:
+      Stone Town and harbor showing return to stability'
 visualElements:
   colorPalette:
     primary:

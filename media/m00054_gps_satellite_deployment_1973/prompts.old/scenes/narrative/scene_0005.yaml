@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First NAVSTAR GPS Satellite Launch - February 22, 1978"
+  setting:
+    time: "February 22, 1978, early morning pre-dawn"
+    location: "Vandenberg Air Force Base launch pad, California coast"
+    weather: "Clear morning with coastal fog rolling in from Pacific Ocean"
+  characters:
+    - appearance: "Team of technicians and operators, 25-45 years old, concentrated expressions"
+      clothing: "1970s business attire, white shirts with narrow ties, some with headsets"
+      position: "At mission control consoles monitoring launch systems"
+      action: "Monitoring screens, communicating via headsets, tracking final launch preparations"
+    - appearance: "Launch director, 50s, authoritative bearing, headset and microphone"
+      clothing: "Air Force uniform or technical civilian clothes with mission patches"
+      position: "Standing at central command position overseeing launch operations"
+      action: "Coordinating final launch sequence, communicating with range safety and satellite control"
+  scene:
+    mainElements: "Massive rocket on launch pad with service towers, surrounded by coastal hills, Multi-stage rocket with GPS satellite payload fairing, white and blue NASA/Air Force markings, dramatic launch facility against Pacific Ocean backdrop"
+    details: "Banks of monitoring equipment, large screens showing orbital data, control consoles, Launch control center with CRT monitors, communication equipment, mission patches and flags, countdown clocks, no text or letters visible"
+    background: "California coastal hills in morning light, Pacific Ocean visible in distance, launch complex infrastructure with service towers and support buildings"
+    atmosphere: "Dramatic launch facility against Pacific Ocean backdrop with morning fog, tension and excitement of historic first launch, coordination and precision of space operations"
+  composition:
+    cameraAngle: "Wide dramatic shot showing rocket on launch pad"
+    focus: "Delta rocket with GPS satellite payload ready for launch"
+    depth: "Launch vehicle in foreground, service towers and support structures in middle ground, coastal California landscape in background"

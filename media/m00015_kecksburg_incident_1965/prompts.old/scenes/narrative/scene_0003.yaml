@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Local residents discover mysterious acorn-shaped object in forest crater"
+  setting:
+    time: "December 9, 1965, early evening, darkness falling"
+    location: "Forest clearing with disturbed earth, broken tree branches, impact depression"
+    weather: "Cold December evening with rising fog and mist"
+  characters:
+    - appearance: "Middle-aged Caucasian man, 40s, weathered face, stubble, alert expression"
+      clothing: "Heavy brown wool coat, plaid flannel shirt, dark work pants, brown leather boots, knit wool cap"
+      position: "Standing at edge of crater, leaning forward examining object"
+      action: "Pointing at mysterious object while holding flashlight, speaking urgently to companion"
+    - appearance: "Middle-aged Caucasian man, 40s, weathered face, stubble, alert expression"
+      clothing: "Heavy brown wool coat, plaid flannel shirt, dark work pants, brown leather boots, knit wool cap"
+      position: "Standing slightly behind first witness, looking into crater"
+      action: "Shining flashlight beam onto object surface, examining hieroglyphic-like markings"
+  scene:
+    mainElements: "Circular depression in muddy ground, scattered debris, broken branches, disturbed vegetation"
+    details: "Volkswagen Beetle-sized object, acorn or bell shape, bronze-golden metallic surface, seamless construction with raised band around circumference containing hieroglyphic-like symbols, partially buried at angle in forest floor, dim blue glow emanating from object surface, flashlight beams illuminating mysterious markings, muddy crater walls, broken tree branches scattered around impact site, no text or letters visible"
+    background: "Dark bare winter trees silhouetted against evening sky, forest shadows deepening, patches of fog drifting between trees"
+    atmosphere: "Tense discovery scene with mysterious otherworldly object glowing dimly in forest crater, sense of awe and apprehension"
+  composition:
+    cameraAngle: "Medium shot from crater rim looking down at object and witnesses"
+    focus: "Acorn-shaped metallic object with mysterious hieroglyphic markings illuminated by flashlights"
+    depth: "Witnesses with flashlights in foreground, mysterious object in crater in middle ground, dark forest in background"

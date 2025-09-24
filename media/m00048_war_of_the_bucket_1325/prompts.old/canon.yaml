@@ -1,0 +1,97 @@
+canon:
+  characters:
+    - id: "character_FdC"
+      name: "Character FdC"
+      description_block: |
+        characters:
+          - appearance: "Italian man, 40s, stern weathered face, prominent nose, dark beard"
+            clothing: "Red and gold Bolognese military surcoat over chainmail, steel helmet with plume"
+            posture: "Commanding stance with hand on sword hilt, authoritative bearing"
+    - id: "character_PB"
+      name: "Character PB"
+      description_block: |
+        characters:
+          - appearance: "Italian man, 35, calculating expression, sharp features, dark hair"
+            clothing: "Blue and silver Modenese nobleman attire with fur-trimmed cloak"
+            posture: "Confident tactical pose, often gesturing while giving orders"
+    - id: "bolognese_soldier"
+      name: "Bolognese Soldier"
+      description_block: |
+        characters:
+          - appearance: "Italian man, 20s-30s, determined face, muscular build"
+            clothing: "Red tunic with Bologna coat of arms, chainmail, steel helmet"
+            posture: "Alert military stance with spear or crossbow"
+    - id: "modenese_soldier"
+      name: "Modenese Soldier"
+      description_block: |
+        characters:
+          - appearance: "Italian or German man, 20s-30s, battle-hardened expression"
+            clothing: "Blue tunic with Modena insignia, plate armor pieces, conical helmet"
+            posture: "Professional military bearing with sword and shield"
+    - id: "german_mercenary"
+      name: "German Mercenary"
+      description_block: |
+        characters:
+          - appearance: "Germanic man, 30s, blonde hair, scarred face, tall build"
+            clothing: "Dark leather armor with metal studs, distinctive German-style helmet"
+            posture: "Experienced warrior stance with two-handed sword"
+    - id: "medieval_citizen"
+      name: "Medieval Citizen"
+      description_block: |
+        characters:
+          - appearance: "Italian man or woman, various ages, period-appropriate features"
+            clothing: "Simple wool tunics, cloaks, merchant or artisan attire"
+            posture: "Anxious or curious civilian stance, often watching from distance"
+  locations:
+    - id: "bologna_main_square"
+      name: "Bologna Main Square"
+      description_block: |
+        setting:
+          location: "Piazza Maggiore, Bologna, medieval Italy with Gothic buildings surrounding"
+        mainElements: "Large stone square with central well, Gothic architecture, red brick buildings"
+        atmosphere: "Bustling medieval city center with period architecture"
+    - id: "modena_city_walls"
+      name: "Modena City Walls"
+      description_block: |
+        setting:
+          location: "Fortified walls of Modena, medieval Italian defensive architecture"
+        mainElements: "Massive stone walls with towers, battlements, defensive gates"
+        atmosphere: "Imposing medieval fortress protecting the city"
+    - id: "monteveglio_castle"
+      name: "Monteveglio Castle"
+      description_block: |
+        setting:
+          location: "Strategic hilltop castle of Monteveglio between Bologna and Modena"
+        mainElements: "Stone fortress on elevated position, multiple towers, defensive walls"
+        atmosphere: "Important military stronghold overlooking countryside"
+    - id: "zappolino_battlefield"
+      name: "Zappolino Battlefield"
+      description_block: |
+        setting:
+          location: "Open fields near Zappolino village, medieval Italian countryside"
+        mainElements: "Rolling hills, agricultural fields, scattered farm buildings"
+        atmosphere: "Pastoral landscape that became site of medieval battle"
+    - id: "italian_countryside"
+      name: "Italian Countryside"
+      description_block: |
+        setting:
+          location: "Northern Italian landscape between Bologna and Modena, 14th century"
+        mainElements: "Rolling hills, vineyards, olive groves, scattered medieval villages"
+        atmosphere: "Peaceful rural setting of medieval Emilia-Romagna region"
+  items:
+    - id: "wooden_bucket"
+      name: "Wooden Bucket"
+      description_block: |
+        details: "Simple oak bucket with iron bands, symbol of the conflict trophy"
+    - id: "medieval_weapons"
+      name: "Medieval Weapons"
+      description_block: |
+        details: "Crossbows, spears, swords, maces typical of 14th century warfare"
+    - id: "city_banners"
+      name: "City Banners"
+      description_block: |
+        details: "Heraldic banners of Bologna (red) and Modena (blue) displaying city arms"
+    - id: "siege_equipment"
+      name: "Siege Equipment"
+      description_block: |
+        details: "Medieval catapults, battering rams, scaling ladders for castle warfare"

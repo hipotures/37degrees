@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1902, night
+    location: National Archaeological Museum of Athens, Greece, early 1900s exhibition hall
+    weather: Night scene with concentrated electric lighting on research area
+  characters:
+  - appearance: Greek man, 60s, distinguished beard, academic bearing, thoughtful expression
+    clothing: Formal museum director attire of 1902, dark suit with pocket watch chain
+    position: Seated in contemplation before the fully revealed mechanism
+    action: Studying the complete astronomical computer with profound understanding
+  scene:
+    mainElements: Grand neoclassical museum interior with marble columns, display cases, and archaeological artifacts
+    details: Research workspace showing the mechanism's true nature as an ancient computer. Ancient bronze mechanical device,
+      34cm x 18cm x 9cm, complex system of 30+ interlocking gears, corroded green patina, inscribed with Greek text, fragmented
+      into multiple pieces, world's first analog computer. Astronomical calculation wheels, eclipse prediction gears, planetary
+      motion trackers, and Olympic games calendar mechanisms all visible. Ancient Greek text carved into bronze surfaces,
+      astronomical terms and calculations, partially corroded but still visible, describing planetary movements and eclipse
+      predictions.
+    background: Quiet museum at night with classical architecture and focused research lighting
+    atmosphere: Scholarly academic environment with natural light from tall windows illuminating ancient Greek treasures.
+      Profound moment of recognizing humanity's lost technological achievement.
+  composition:
+    cameraAngle: Wide shot showing scholar with complete mechanism understanding
+    focus: Director contemplating the full significance of the ancient computer
+    depth: 'Foreground: complete mechanism display, middle ground: contemplative scholar, background: night museum setting,
+      no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

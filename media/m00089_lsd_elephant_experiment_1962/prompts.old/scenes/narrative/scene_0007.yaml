@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "The Moment of Injection"
+  setting:
+    time: "August 3, 1962, 12:00 PM"
+    location: "Oklahoma City Zoo elephant enclosure, outdoor paddock area, Oklahoma, USA"
+    weather: "Peak midday heat with intense summer sun"
+  characters:
+    - appearance: "Caucasian man, 50s, tall and lean, graying hair, mustache, weathered face"
+      clothing: "1960s khaki zoo uniform with name badge, or casual shirt with rolled sleeves"
+      position: "Standing at enclosure barrier, holding dart gun aimed at elephant"
+      action: "Firing dart gun with steady aim toward elephant's right buttock area"
+    - appearance: "14-year-old male Indian elephant, medium-sized for species, dark gray skin, intelligent eyes, standing initially then collapsing"
+      clothing: "No clothing - natural elephant appearance"
+      position: "Standing in center of enclosure, unaware of impending injection"
+      action: "Moving slowly in natural behavior, about to receive dart injection"
+    - appearance: "Caucasian man, 40s, medium build, receding dark hair, serious expression, wire-rimmed glasses"
+      clothing: "1960s white lab coat over dark suit and tie, or gray flannel suit with narrow tie"
+      position: "Standing behind barrier with stopwatch ready"
+      action: "Starting timer the moment dart makes contact with elephant"
+    - appearance: "Mixed group of men and women, 20s-50s, varying builds, concerned expressions"
+      clothing: "1960s zoo uniforms - khaki shirts and pants, some with caps"
+      position: "Standing at distance near zoo pathways"
+      action: "Watching with mix of fascination and growing concern"
+  scene:
+    mainElements: "14-year-old male Indian elephant, medium-sized for species, dark gray skin, intelligent eyes, standing initially then collapsing, positioned naturally moments before receiving injection from loaded dart gun"
+    details: "Large concrete and dirt enclosure with metal barriers, viewing area for public, dart gun being fired from barrier position, elephant positioned naturally in enclosure, dust particles visible in bright sunlight, metal barriers and concrete construction typical of 1960s zoo design, stopwatch being activated for timing, precise moment of dart impact captured, no text or letters visible"
+    background: "Oklahoma zoo landscape with clear summer sky, other animal enclosures visible in distance, zoo visitors at various viewing positions, institutional zoo architecture of early 1960s"
+    atmosphere: "Critical moment of the experiment beginning, intense midday heat emphasizing gravity of situation, clinical precision meeting natural animal behavior, point of no return"
+  composition:
+    cameraAngle: "Wide shot capturing both the dart gun firing and the elephant receiving injection, showing spatial relationship"
+    focus: "The dart making contact with elephant and the simultaneous reaction of observers"
+    depth: "Foreground shows research team with dart gun, middle ground features the elephant at moment of injection, background displays broader zoo environment and observers"

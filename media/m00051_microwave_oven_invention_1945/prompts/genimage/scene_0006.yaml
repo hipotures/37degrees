@@ -1,98 +1,84 @@
 sceneDescription:
   setting:
-    time: 1945, late afternoon
-    location: Specialized testing section within Raytheon laboratory
-    weather: Indoor laboratory environment with artificial lighting
+    time: 1945, same afternoon, minutes later
+    location: Magnetron testing area, Raytheon laboratory
+    weather: Indoor environment, equipment warming air with electromagnetic activity
   characters:
-  - appearance: Caucasian man, 50s, lean build, receding brown hair, intelligent dark eyes behind wire-rimmed glasses
-    clothing: White lab coat over dark suit jacket, white dress shirt, narrow dark tie, dress shoes
-    position: Standing at laboratory table, carefully handling experimental materials
-    action: Placing fresh egg in metal bowl, positioning it precisely for microwave exposure test
-  - appearance: Caucasian man, 30s, average height, blonde hair, curious expression
-    clothing: White lab coat over gray suit, white shirt
-    position: Standing beside scientist, leaning in to observe
-    action: Taking notes on experimental setup, engaged in the scientific process
+  - appearance: 51-year-old Caucasian man, average build, thoughtful expression with intelligent eyes, thinning hair typical
+      of middle-aged engineer
+    clothing: White laboratory coat over period-appropriate 1940s business shirt and tie, practical work shoes
+    position: Standing beside magnetron with satisfied expression of scientific confirmation
+    action: Examining scattered popped corn with methodical analysis of successful experiment
+  - appearance: Younger Caucasian man, likely 20s-30s, eager expression, clean-shaven
+    clothing: Laboratory coat over standard 1940s work attire, shirt and trousers
+    position: Standing nearby with amazed expression
+    action: Picking up pieces of freshly popped corn to examine the results
   scene:
-    mainElements: White chicken egg in metal bowl positioned on laboratory table, smooth oval shell surface clearly visible,
-      magnetron equipment prepared for next phase of testing
-    details: Metal bowl reflects laboratory lighting, egg positioned at optimal distance from magnetron for controlled exposure.
-      Laboratory table marked with precise measurements for experimental positioning. Electrical cables connecting magnetron
-      to power sources. Warning signs about electromagnetic radiation visible on laboratory walls.
-    background: Magnetron mounted on stand ready for activation, measurement equipment, oscilloscopes, filing cabinets, industrial
-      laboratory environment
-    atmosphere: Scientific anticipation and methodical experimentation, progression from simple to more complex food testing,
-      controlled laboratory environment preparing for dramatic results, no text or letters visible
+    mainElements: White fluffy popped corn scattered across workbenches and laboratory floor, evidence of successful microwave
+      cooking experiment
+    details: Dozens of perfectly popped corn kernels distributed throughout immediate laboratory area, some pieces still warm
+      from microwave heating, active magnetron tube continuing to operate, measurement instruments showing consistent readings,
+      metal workbench surface covered with white popcorn pieces, original unpopped kernels mixed with successful results,
+      first concrete proof of microwave food preparation
+    background: Other laboratory personnel beginning to notice unusual activity, radar equipment continuing normal operations,
+      laboratory workspace showing signs of unexpected food experiment
+    atmosphere: Excitement of confirmed scientific hypothesis, breakthrough moment in accidental food technology discovery,
+      electrical humming continuing from active equipment, sense of revolutionary implications beginning to emerge, no text
+      or letters visible
   composition:
-    cameraAngle: Medium shot from side angle showing setup and scientists
-    focus: White egg in metal bowl positioned strategically for microwave testing
-    depth: Foreground shows detailed egg and bowl setup, middle ground features scientist and colleague preparing experiment,
-      background reveals magnetron equipment ready for activation
+    cameraAngle: Wide shot showing full extent of scattered popcorn
+    focus: Popped corn scattered throughout laboratory area with engineers examining results
+    depth: Foreground shows detailed popcorn pieces, middle ground features engineers analyzing success, background displays
+      laboratory context of discovery
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

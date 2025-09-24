@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Character AF Shows Discovery to Former Assistant Character MP"
+  setting:
+    time: "1928 September 3rd, afternoon"
+    location: "St Mary's Hospital Bacteriology Laboratory, Paddington, London"
+  characters:
+    - appearance: "Scottish man, 47 years old, average height, lean build, receding dark hair, thoughtful brown eyes, clean-shaven"
+      clothing: "1920s white laboratory coat over dark suit with vest and tie, or dark wool suit with waistcoat"
+      position: "Standing at laboratory bench holding contaminated culture plate"
+      action: "Showing contaminated culture to colleague, explaining the unusual bacterial inhibition"
+    - appearance: "Young British man, early 30s, medium build, neat brown hair, clean-shaven, alert expression"
+      clothing: "1920s laboratory assistant attire - white coat over shirt and tie, or dark suit with vest"
+      position: "Standing beside character AF examining the culture plate closely"
+      action: "Studying the contaminated culture with scientific interest and recognition"
+  scene:
+    mainElements: "Glass petri dish with bacterial colonies, central blue-green mold growth with clear zone around it where bacteria have been killed"
+    details: "Character AF holding contaminated petri dish between both researchers for examination, distinctive Penicillium notatum mold with surrounding clear bacterial inhibition zone clearly visible, Character MP examining the phenomenon with scientific curiosity, laboratory bench with other culture plates for comparison, brass microscope ready for detailed analysis, laboratory notebook open for recording observations, natural afternoon light optimal for culture examination, no text or letters visible"
+    background: "Active laboratory environment with scientific equipment, other researchers working at distant benches, institutional hospital setting"
+    atmosphere: "Shared scientific excitement, professional discussion of unusual findings, recognition of significant discovery potential"
+  composition:
+    cameraAngle: "Medium shot showing both researchers examining the discovery together"
+    focus: "Character AF and character MP studying the contaminated culture plate with bacterial inhibition zone"
+    depth: "Foreground emphasizes the critical culture plate examination, middle ground shows both researchers engaged in scientific discussion, background provides laboratory context"

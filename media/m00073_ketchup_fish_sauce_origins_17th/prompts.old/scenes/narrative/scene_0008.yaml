@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "English scholars documenting Asian culinary knowledge"
+  setting:
+    time: "1690s, evening"
+    location: "Study chamber in English manor house, candlelit evening"
+    weather: "Cold English winter evening"
+  characters:
+    - appearance: "English man, 30s, pale complexion, brown hair, mustache, sturdy build, scholarly demeanor"
+      clothing: "17th century brown wool coat with brass buttons, white linen shirt, dark breeches, tall leather boots"
+      position: "Seated at writing desk with quill pen"
+      action: "Recording detailed notes about Asian fish sauce preparation and usage in leather-bound journal"
+  scene:
+    mainElements: "Wooden writing desk with leather-bound books, candles providing warm light, shelves of scholarly volumes, window with heavy curtains"
+    details: "Leather-bound ledger with brass clasps open showing detailed culinary notes, quill pen and ink pot on desk, small glass bottles containing sauce samples for reference, candlelight creating atmospheric shadows, scholarly documentation of exotic flavors"
+    background: "Study filled with books and papers, fireplace providing warmth, maps and documents on walls, academic atmosphere"
+    atmosphere: "Scholarly dedication to documenting new culinary knowledge, preservation of Asian cooking wisdom in European context, intellectual curiosity about foreign foods, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot emphasizing scholarly documentation"
+    focus: "Recording and preservation of Asian culinary knowledge"
+    depth: "Foreground shows detailed writing and documentation, middle ground features study environment, background suggests warmth and academic pursuit"

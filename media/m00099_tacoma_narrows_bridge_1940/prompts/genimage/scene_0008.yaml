@@ -1,22 +1,29 @@
 sceneDescription:
   setting:
-    time: November 7, 1940, 11:00 AM
-    location: Tacoma Narrows Bridge center span during collapse
-    weather: Continuing wind as bridge reaches failure point
-  characters: No characters present in this scene
+    time: November 7, 1940, 11:02 AM
+    location: Approach to center span of collapsing Tacoma Narrows Bridge
+    weather: Violent winds continuing, bridge in final death throes
+  characters:
+  - appearance: Middle-aged academic with scholarly appearance, round spectacles, practical demeanor suited to field research
+    clothing: Wool jacket over sweater vest, sturdy trousers, leather shoes with good traction, carrying camera equipment
+    position: Carefully balancing on rotating bridge deck, approaching abandoned automobile
+    action: Methodical scientist, unafraid to risk personal safety for research, shows genuine concern for welfare
   scene:
-    mainElements: Bridge deck tearing apart under torsional stress, structural elements failing catastrophically
-    details: Concrete roadway cracking and breaking apart from twisting forces, steel framework snapping under oscillation
-      stress, suspension cables beginning to fail under extreme loading, bridge deck sections separating and falling toward
-      Puget Sound, engineering structure experiencing complete failure
-    background: Puget Sound waters ready to receive falling debris, Pacific Northwest shoreline with horrified spectators,
-      dramatic sky over engineering catastrophe
-    atmosphere: Complete structural failure of major engineering project, physics overcoming human engineering, devastating
-      loss of infrastructure investment, historic engineering disaster unfolding, no text or letters visible
+    mainElements: Steel cable band at mid-span designed to secure suspension cables, slipped under extreme torsional stress
+      with audible crack at 11:00 AM
+    details: Professor walking cautiously onto violently twisting span while balancing on rotating deck, attempting rescue
+      mission for trapped animal. Concrete deck beginning to crack with loud reports audible above wind. Visible damage to
+      cable connections, structural elements showing signs of impending failure. Camera equipment bouncing as he struggles
+      to maintain footing on tilting surface.
+    background: Bridge towers groaning under stress, other onlookers gathered at safe distance on approach spans, emergency
+      vehicles beginning to arrive
+    atmosphere: Heroic but futile attempt to save life as engineering disaster reaches critical point, human compassion against
+      impossible odds
   composition:
-    cameraAngle: Wide shot showing bridge structure disintegrating
-    focus: Catastrophic structural failure of suspension bridge
-    depth: Collapsing bridge sections in foreground, Puget Sound waters in middle ground, shocked spectators on shore in background
+    cameraAngle: Medium shot from side showing professor's precarious position on unstable deck
+    focus: Lone figure attempting rescue on violently oscillating bridge
+    depth: Cracking concrete deck in foreground, professor and car in middle ground, damaged structure in background, no text
+      or letters visible
 visualElements:
   colorPalette:
     primary:

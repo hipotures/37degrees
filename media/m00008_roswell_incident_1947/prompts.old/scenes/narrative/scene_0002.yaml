@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Discovery of strange debris in desert pasture"
+  setting:
+    time: "July 4, 1947, mid-morning"
+    location: "Open pasture land on Foster Ranch, New Mexico desert"
+    weather: "Bright sunshine, hot desert day, clear blue sky"
+  characters:
+    - appearance: "Caucasian man, 50s, weathered sun-worn face with deep lines, graying hair, lean build"
+      clothing: "1940s ranch attire - worn denim jeans, cotton long-sleeve shirt, brown felt cowboy hat with wide brim, leather belt with simple buckle, worn leather work boots"
+      position: "Kneeling beside debris scatter"
+      action: "Examining strange metallic pieces, holding one up to sunlight, expression of confusion and curiosity"
+  scene:
+    mainElements: "Wide area of scattered metallic debris across sandy soil and sparse vegetation"
+    details: "Scattered pieces of lightweight metallic material resembling aluminum foil but unusually strong, small I-beams with purple-pink markings, strips of rubber-like material, pieces that seem to return to shape after crumpling, canvas collection bag nearby, bootprints in sand, no text or letters visible"
+    background: "Desolate, mysterious, harsh desert sun creating sharp shadows, disturbed earth from recent storm"
+    atmosphere: "Intense desert heat, eerie quietness, sense of discovery, bright sunlight reflecting off metallic surfaces"
+  composition:
+    cameraAngle: "Medium shot from ground level"
+    focus: "Rancher examining unusual debris piece catching sunlight"
+    depth: "Foreground shows detailed debris pieces, middle ground has rancher crouched examining materials, background shows vast debris field stretching across desert"

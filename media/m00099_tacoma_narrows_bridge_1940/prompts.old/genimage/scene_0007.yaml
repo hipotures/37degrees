@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: November 7, 1940, 10:30 AM
+    location: Tacoma Narrows Bridge center span during maximum oscillation
+    weather: 40 mph winds creating aerodynamic flutter
+  characters: No characters present in this scene
+  scene:
+    mainElements: Bridge deck twisting in violent torsional oscillation with roadway sections moving in opposite directions
+    details: Suspension bridge deck exhibiting extreme twisting motion, roadway halves rising and falling in alternating pattern,
+      suspension cables vibrating with dangerous resonance, bridge structure experiencing aeroelastic flutter, concrete and
+      steel framework under catastrophic stress, engineering disaster in full progress
+    background: Puget Sound waters with whitecaps below, Pacific Northwest shoreline with gathering crowds, dramatic sky with
+      storm conditions
+    atmosphere: Engineering structure pushed beyond design limits, aerodynamic forces overcoming structural integrity, physics
+      lesson in real-time disaster, unprecedented bridge failure, no text or letters visible
+  composition:
+    cameraAngle: Dynamic shot capturing extreme bridge oscillation
+    focus: Violent structural movement that will lead to complete collapse
+    depth: Twisting bridge structure in foreground, Puget Sound waters in middle ground, Pacific Northwest landscape in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

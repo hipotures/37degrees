@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Soviet Official Arrives in Frozen Territory"
+  setting:
+    time: "January 1924, afternoon"
+    location: "Valley between Oymyakon and Tomtor, near herder camp, administrative presence beginning"
+    weather: "Continued clear conditions, extreme cold affecting newcomer more than locals"
+  characters:
+    - appearance: "Younger man in his 30s, clean-shaven, pale complexion, urban background evident"
+      clothing: "Standard Soviet winter coat, military-style winter hat, leather boots, less sophisticated cold weather gear than locals"
+      position: "Standing with notebook or observing settlement activities"
+      action: "Ideologically driven, somewhat out of place in extreme environment, taking notes for bureaucratic reports"
+    - appearance: "Weather-beaten face with high cheekbones, Asian features typical of Sakha/Evenk peoples, middle-aged, lean build"
+      clothing: "Traditional fur parka (malitsa), reindeer skin boots, fur mittens, traditional hat with ear protection, layered clothing system"
+      position: "Near reindeer or thermal springs, positioned for survival and animal care"
+      action: "Stoic endurance, moving with practiced efficiency in extreme cold, concerned about reindeer welfare, traditional survival activities"
+  scene:
+    mainElements: "Meeting between Soviet administrator and traditional herder, contrast between urban and nomadic survival approaches, official documents and traditional tools"
+    details: "Official holding leather portfolio and taking notes despite extreme cold, herder showing practical indifference to bureaucratic presence, stark difference in winter clothing effectiveness visible, official's breath heavily visible while herder appears more adapted, traditional camp equipment contrasting with official paperwork, no text or letters visible"
+    background: "Traditional herder camp with smoke rising from structures, reindeer visible in distance"
+    atmosphere: "Tension between old ways and new political reality, cultural clash visible in body language and clothing choices"
+  composition:
+    cameraAngle: "Medium shot capturing both figures and their interaction"
+    focus: "Contrast between official and herder, highlighting adaptation differences"
+    depth: "Foreground interaction between characters, middle ground camp structures, background frozen wilderness"

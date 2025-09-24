@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "1980s Bus Overcrowded Mountain Transport"
+  setting:
+    time: "1980s, afternoon"
+    location: "North Yungas Road narrow cliff section, Bolivia - 3-meter wide dirt road carved into mountainside"
+    weather: "Overcast with threatening rain clouds"
+  characters:
+    - appearance: "Bus driver, 30s, concentrated expression, mustache, tired eyes"
+      clothing: "Simple work shirt, worn jeans, baseball cap"
+      position: "Behind steering wheel of overcrowded bus"
+      action: "Gripping steering wheel tightly, navigating treacherous narrow road with extreme concentration"
+    - appearance: "Elderly Bolivian woman, 60s, lined face showing years of highland life, gray hair in braids"
+      clothing: "Traditional colorful Bolivian dress, shawl, bowler hat, layered skirts"
+      position: "Seated in crowded bus interior"
+      action: "Clutching seat handle, eyes closed in prayer, body swaying with dangerous road movements"
+  scene:
+    mainElements: "Extremely narrow mountain road carved into cliff face, sheer drop on one side, rock wall on other"
+    details: "Worn Bolivian public bus from 1980s era, colorful paint but showing age and wear, passengers packed beyond capacity, luggage strapped to roof, wheels dangerously close to cliff edge, loose gravel visible on road surface"
+    background: "Dramatic mountain valley thousands of feet below, mist rising from jungle canopy far beneath"
+    atmosphere: "Dangerous, precarious, breathtaking yet terrifying mountain wilderness"
+  composition:
+    cameraAngle: "Side view showing bus's precarious position on narrow road"
+    focus: "Bus struggling along cliff edge with visible danger of the drop"
+    depth: "Bus in foreground, cliff face in middle ground, vast valley depths in background, no text or letters visible"

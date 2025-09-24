@@ -1,27 +1,31 @@
 sceneDescription:
   setting:
-    time: 1928 late August, morning
-    location: St Mary's Hospital Bacteriology Laboratory, Paddington, London
+    time: Late August 1928, early evening
+    location: Victorian brick hospital building in Paddington, London, established 1845
+    weather: Warm summer evening at the end of heat wave period
   characters:
-  - appearance: Scottish man, 47 years old, average height, lean build, receding dark hair, thoughtful brown eyes, clean-shaven
-    clothing: 1920s white laboratory coat over dark suit with vest and tie, or dark wool suit with waistcoat
-    position: Leaning over laboratory bench working with petri dishes
-    action: Inoculating staphylococci bacteria onto culture plates, preparing samples before departure
+  - appearance: 47-year-old Scottish man, short stature, round face with receding hairline, bright observant eyes, typically
+      serious expression
+    clothing: Dark three-piece suit typical of 1928 academics, white collared shirt, characteristic bow tie, dark leather
+      shoes, occasionally white laboratory coat over formal attire
+    position: Walking through hospital corridor carrying small travel case
+    action: Departing hospital building, looking back briefly toward laboratory windows
   scene:
-    mainElements: Laboratory bench covered with numerous glass petri dishes, bacterial culture specimens, inoculation tools,
-      sterilization flame
-    details: Glass petri dishes arranged in orderly rows, bacterial specimens being transferred with sterile loops, gas burner
-      flame for sterilization, glass culture flasks containing growth media, laboratory notebook open with handwritten observations,
-      brass microscope positioned nearby, chemical bottles and scientific instruments, no text or letters visible
-    background: Laboratory windows showing late summer daylight, shelves with scientific equipment, other researchers working
-      at distant benches
-    atmosphere: Focused scientific preparation, sense of routine laboratory work before extended absence, careful attention
-      to bacterial culture protocols
+    mainElements: Multi-story brick buildings, long corridors with high ceilings, large windows, medical wards, teaching facilities,
+      library
+    details: Character AF carrying small leather travel case and wearing light overcoat, walking through main hospital corridor
+      with Victorian architectural features including high arched ceilings and large windows, gas lighting fixtures along
+      walls, polished wooden floors reflecting evening light, other medical staff and patients visible in background moving
+      through corridors, hospital signage and directional indicators typical of 1928 institutional settings
+    background: Hospital entrance visible with heavy wooden doors, medical staff in period uniforms, hospital equipment and
+      wheelchairs in corridors
+    atmosphere: Busy hospital environment, sound of trolleys and footsteps, antiseptic smell, mixture of medical urgency and
+      academic research
   composition:
-    cameraAngle: Close-up shot emphasizing meticulous laboratory technique
-    focus: Character AF's hands working with bacterial cultures and inoculation tools
-    depth: Foreground shows detailed petri dish preparation, middle ground captures character AF's concentrated work, background
-      shows laboratory environment and equipment
+    cameraAngle: Wide establishing shot from hospital entrance perspective
+    focus: Character AF's figure walking away from camera down the long corridor
+    depth: Foreground shows hospital entrance with architectural details, middle ground focuses on Character AF departing
+      with travel case, background reveals laboratory wing windows where cultures remain on benches, no text or letters visible
 visualElements:
   colorPalette:
     primary:

@@ -1,42 +1,32 @@
 sceneDescription:
   setting:
-    time: 1386, midday
-    location: Stone courtroom chamber, Falaise castle, Normandy, France
-    weather: Bright winter sunlight streaming through windows
+    time: January 9, 1386, afternoon
+    location: Courthouse of Falaise - Stone building with thick walls and small windows, typical of medieval administrative
+      architecture, Falaise, Normandy
+    weather: Cold interior warmed by braziers
   characters:
-  - appearance: Middle-aged man, 50s, stern expression, graying beard, authoritative presence
-    clothing: Black judicial robes with white collar, medieval cap of office, ceremonial chain
-    position: Seated at elevated wooden judge's bench, leaning forward attentively
-    action: Presiding over proceedings, heavy wooden mallet in hand, observing testimony
-  - appearance: Man, 40s, sharp features, calculating expression, well-groomed
-    clothing: Dark blue court robes, silver clasp, leather document pouch
-    position: Standing before judge's bench, facing the court
-    action: Presenting prosecution case, gesturing toward evidence and defendant
-  - appearance: Large domestic sow, approximately 3 years old, brown and pink coloring, heavy build around 300 pounds, intelligent
-      but wary eyes
-    clothing: No clothing, natural pig appearance
-    position: Contained in specially constructed wooden defendant's enclosure
-    action: Standing alert but confused, occasionally snorting, looking around courtroom
-  - appearance: Mixed group of men, women, children, various ages, curious and horrified expressions
-    clothing: Simple peasant clothes, brown and gray tunics, head coverings, work boots
-    position: Seated in gallery area behind wooden barrier
-    action: Watching proceedings with intense fascination, whispering and pointing at pig defendant
+  - appearance: Younger man in his 20s, nervous but committed to legal duty
+    clothing: Simple brown lawyer's robe, less ornate than his opponent's
+    position: Seated at defense table consulting written notes frequently
+    action: Dutiful but clearly facing an impossible task
+  - appearance: Elderly man with gray beard, dignified bearing reflecting years of judicial experience
+    clothing: Elaborate judicial robes with ermine trim, ceremonial cap of office
+    position: Seated on elevated judge's bench
+    action: Stern and impartial, treating the animal trial with the same gravity as human cases
   scene:
-    mainElements: High stone walls with arched windows, wooden judge's bench elevated on platform, defendant's area with wooden
-      barrier
-    details: Bronze bell with wooden handle on judge's bench, parchment scrolls and legal documents spread before officials,
-      wooden crucifix mounted on wall behind judge, iron braziers casting warm light and shadows, stone floor with scattered
-      rushes, special wooden enclosure for pig defendant with iron bars, evidence table displaying bloody cradle pieces
-    background: Tall arched stone windows with winter light streaming through, tapestries bearing heraldic symbols on walls,
-      gallery filled with observing villagers
-    atmosphere: Solemn medieval justice proceedings with extraordinary circumstances, formal legal gravity applied to animal
-      defendant, winter sunlight highlighting stone architecture and court regalia, mixture of traditional authority and unprecedented
-      situation, no text or letters visible
+    mainElements: Defense lawyer at wooden table surrounded by legal documents, large domestic pig approximately three years
+      old standing calmly in defendant's dock, judge presiding over proceedings
+    details: Wooden table covered with parchments and scrolls, quill pen in lawyer's hand, ink stains on his fingers, candles
+      providing flickering light, stone walls with medieval tapestries, pig standing quietly as if understanding the gravity
+      of situation, no text or letters visible
+    background: Courtroom gallery filled with townspeople observing this unprecedented legal proceeding
+    atmosphere: Tension and surreal quality as young lawyer attempts to provide legal defense for an animal using same procedures
+      as human trials
   composition:
-    cameraAngle: Medium shot from side of courtroom showing judge, prosecutor and pig defendant
-    focus: Triangle composition between judge's authority, prosecutor's presentation, and pig's confused presence
-    depth: Foreground shows prosecutor and evidence, middle ground captures judge and defendant, background reveals observing
-      crowd and architectural details
+    cameraAngle: Close-up shot of defense attorney's worried expression as he reviews his notes
+    focus: The lawyer's struggle to mount a defense in this impossible legal situation
+    depth: Foreground shows lawyer's concerned face and documents, middle ground contains pig in dock, background shows courtroom
+      architecture
 visualElements:
   colorPalette:
     primary:

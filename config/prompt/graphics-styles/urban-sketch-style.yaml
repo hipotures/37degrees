@@ -1,0 +1,61 @@
+styleName: Urban Sketch Style
+description: Quick on-location sketching with ink lines and watercolor washes, capturing urban scenes with spontaneous energy
+aiPrompts:
+  basePrompt: urban sketch, ink and watercolor, loose sketch lines, travel journal style, reportage drawing, quick watercolor wash, spontaneous sketch
+  negativePrompt: photorealistic, detailed rendering, digital art, perfect lines, fully finished
+  styleKeywords:
+  - urban sketch
+  - travel sketch
+  - ink and wash
+  - reportage
+  - on-location
+  - watercolor sketch
+visualElements:
+  colorPalette:
+    primary:
+    - warm salmon pink
+    - ochre yellow
+    - terracotta orange
+    secondary:
+    - sage green
+    - sky blue
+    - neutral grays
+    background: white paper with irregular color bleeds
+    usageNotes: Selective color application, many areas left white
+    saturation: medium - muted urban tones
+    contrast: medium - black ink against soft colors
+  lineArt:
+    style: quick confident pen strokes
+    weight: varied - thin to medium
+    color: black or dark brown ink
+    texture: loose, expressive, incomplete
+    edgeTreatment: lines don't match color fills
+  lighting:
+    type: natural outdoor light
+    direction: suggested through shadows
+    intensity: bright with soft shadows
+    shadows:
+      style: quick gray washes
+      color: cool gray or blue-gray
+      opacity: translucent
+    highlights: white paper left exposed
+  rendering:
+    technique: ink sketch with watercolor wash
+    texture: visible brush strokes and paper texture
+    detailLevel: selective detail, many areas simplified
+    finish: spontaneous, unfinished quality
+  perspective: urban street view or architectural
+  mood:
+    overall: lively, spontaneous, documentary
+    emotion: capturing the moment
+    tempo: quick and energetic
+    keywords:
+    - spontaneous
+    - documentary
+    - lively
+    - urban
+    - travel
+  stylePrecedents:
+  - Urban Sketchers movement
+  - Travel journal illustration
+  - Reportage drawing

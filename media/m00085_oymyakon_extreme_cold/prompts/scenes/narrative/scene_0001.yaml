@@ -1,16 +1,20 @@
 sceneDescription:
-  title: "Monument to extreme cold in the heart of Oymyakon village"
+  title: "Even reindeer herders at traditional thermal springs watering site"
   setting:
-    time: "January 1924, midday with pale winter sun"
-    location: "Central area of Oymyakon village, Sakha Republic, Russia, surrounded by the Yana-Oymyakon Highlands"
-    weather: "Extreme cold at -71.2°C, crystal clear air with visible breath vapor"
-  characters: "No characters present in this scene"
+    time: "Early 1920s, late afternoon winter"
+    location: "Natural geothermal springs creating patches of unfrozen water in otherwise frozen landscape near Oymyakon village"
+    weather: "Extreme cold with ice fog, visibility limited, crystalline air"
+  characters:
+    - appearance: "Elderly indigenous man, deeply lined face from decades of cold exposure, alert dark eyes, traditional facial features"
+      clothing: "Traditional reindeer fur parka, sealskin boots, fur-lined mittens, traditional Even winter garments"
+      position: "Moving with practiced economy of motion near thermal springs"
+      action: "Tending to reindeer herd with calm resilience and generations of cold weather experience"
   scene:
-    mainElements: "Monument displaying temperature record of -71.2°C, small cluster of wooden buildings with steep roofs, main road"
-    details: "Stone monument stands prominently in village center, displaying the record-breaking temperature that would make this location famous. Snow-covered wooden houses with characteristic steep roofs designed for heavy snow loads surround the monument. Smoke rises from multiple chimneys indicating active heating. Power lines and basic infrastructure visible despite remote location. The main road through village shows packed snow from regular use."
-    background: "Vast taiga landscape extending beyond village boundaries, snow-laden evergreen forest stretching to distant mountains, endless white expanse under pale Arctic sky"
-    atmosphere: "Stark beauty of extreme cold environment, sense of human determination against nature's harshest conditions"
+    mainElements: "Steaming water sources, reindeer gathering areas, traditional watering spots for herds, ice formations around warm water"
+    details: "Large reindeer herd gathering around unfrozen water patches, steam rising from natural hot springs creating dramatic contrast against frozen landscape, traditional Even herder tools and equipment visible, crystalline ice formations where warm water meets arctic air, animal tracks in deep snow leading to water sources"
+    background: "Vast Siberian wilderness stretching to horizon, snow-covered taiga forest, mountains in distance, endless white landscape under gray winter sky"
+    atmosphere: "Steam clouds creating contrast with frozen surroundings, warmth radiating from springs, reindeer breath visible in cold air, ancient rhythms of nomadic life, harmony between humans and harsh environment, no text or letters visible"
   composition:
     cameraAngle: "Wide establishing shot from elevated position"
-    focus: "Temperature monument as central landmark with village spread around it"
-    depth: "Monument in foreground, village buildings in middle ground, endless Siberian wilderness in background, no text or letters visible"
+    focus: "Thermal springs with reindeer and herder as central elements"
+    depth: "Foreground: steaming springs and animals, middle ground: herder and immediate activity, background: vast frozen wilderness extending to horizon"

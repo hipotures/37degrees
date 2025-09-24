@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Growing Resistance - Traditional Values Under Threat"
+  setting:
+    time: "1705, evening"
+    location: "Interior of Russian Orthodox church with golden iconostasis and religious paintings"
+    weather: "Cold evening, darkness falling outside"
+  characters:
+    - appearance: "Caucasian man, 60s, tall thin build, long flowing black beard, solemn expression"
+      clothing: "Black Orthodox robes with ornate crosses, tall black hat"
+      position: "Standing before altar, addressing small gathering"
+      action: "Blessing assembled believers while emphasizing the sacred nature of beards through protective gestures"
+    - appearance: "Caucasian man, 50s, stocky build, full long gray beard, weathered face, dignified bearing"
+      clothing: "Traditional Russian long kaftan in dark colors, fur-trimmed cap or hat"
+      position: "Among gathering of traditionally dressed men"
+      action: "Gripping his beard protectively while listening intently to religious guidance"
+  scene:
+    mainElements: "Gathering of traditionally bearded men, flickering candles, golden religious icons, incense smoke"
+    details: "Small group of men with full traditional beards gathered in protective circle, golden candlelight illuminating worried faces and magnificent facial hair, ornate religious icons of bearded saints providing spiritual inspiration, wisps of incense smoke creating mystical atmosphere, wooden prayer benches arranged for intimate gathering"
+    background: "Golden iconostasis with images of bearded religious figures, emphasizing divine approval of facial hair"
+    atmosphere: "Sacred resistance meeting, spiritual defiance against cultural change, protective gathering of tradition, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot capturing the intimate gathering"
+    focus: "The collective beard-stroking and protective gestures showing cultural solidarity"
+    depth: "Priest leading discussion in foreground, gathered believers in middle ground, sacred icons in background"

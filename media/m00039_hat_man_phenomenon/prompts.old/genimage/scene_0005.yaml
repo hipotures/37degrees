@@ -1,0 +1,114 @@
+sceneDescription:
+  setting:
+    time: 2015, 3:15 AM
+    location: Modern suburban bedroom, middle-class home interior
+    weather: Clear night with distant streetlight illumination
+  characters:
+  - appearance: Adult in 30s-40s, tense facial expression with eyes wide with fear or confusion
+    clothing: Nightclothes, pajamas, or sleeping attire
+    position: In bed or sitting on edge of bed, body rigid with paralysis
+    action: Experiencing sleep paralysis, attempting to move but unable, eyes fixed on shadow figure
+  - appearance: Second adult, spouse, 30s-40s, equally terrified expression, looking toward same location
+    clothing: Nightclothes, pajamas, or sleeping attire
+    position: Lying in bed next to first witness, also frozen but slightly turned toward doorway
+    action: Both witnesses staring at same shadow figure, confirming shared experience, neither able to speak
+  - appearance: Tall dark silhouette, 8-10 feet in height, completely featureless black form with no visible face or limbs
+    clothing: Wide-brimmed fedora hat and long dark coat or trench coat, both appearing as solid black shadow
+    position: Standing upright, often positioned in doorways, corners, or beside beds
+    action: Motionless watching presence, occasionally seen moving with fluid gliding motion
+  scene:
+    mainElements: Double bed with standard bedding, bedside table with lamp, dresser, window with curtains
+    details: LED digital clock displaying late night time between 2:00 AM and 4:00 AM, casting dim red or green glow. Both
+      spouses experiencing identical paralysis and terror. Standard interior doorway leading to hallway, partially open or
+      fully open, creating rectangular frame of darkness where Hat Man typically appears.
+    background: Bedroom walls with family photos, closed closet door, window showing dark neighborhood outside with single
+      streetlight visible
+    atmosphere: Dimly lit by streetlight filtering through window, shadows creating ominous corners and doorway silhouettes.
+      Shared terror validating reality of experience, removing possibility of individual hallucination
+  composition:
+    cameraAngle: Medium shot from foot of bed showing both witnesses
+    focus: Both paralyzed spouses in bed staring at Hat Man figure in doorway
+    depth: 'Foreground: edge of bed covers, middle: two terrified witnesses side by side, background: Hat Man silhouette filling
+      doorway frame, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

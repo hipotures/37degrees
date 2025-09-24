@@ -1,98 +1,84 @@
 sceneDescription:
   setting:
-    time: 1947, afternoon
-    location: Commercial restaurant kitchen with new technology
-    weather: Indoor commercial kitchen environment with industrial lighting
+    time: 1945, days following initial experiments
+    location: Raytheon laboratory development area
+    weather: Indoor controlled environment, consistent temperature for precision work
   characters:
-  - appearance: Caucasian man, 40s, stocky build, chef's uniform, serious professional expression
-    clothing: White chef's coat, checkered pants, white chef's hat, black kitchen shoes
-    position: Standing before large microwave unit, studying control panel
-    action: Operating commercial Radarange unit for food preparation, demonstrating new cooking technology
-  - appearance: Caucasian man, 30s, lean build, business attire, interested expression
-    clothing: Dark business suit, white shirt, tie, dress shoes
-    position: Standing beside chef, observing demonstration
-    action: Watching microwave cooking process with fascination, taking notes about performance
+  - appearance: 51-year-old Caucasian man, average build, thoughtful expression with intelligent eyes, thinning hair typical
+      of middle-aged engineer
+    clothing: White laboratory coat over period-appropriate 1940s business shirt and tie, practical work shoes
+    position: Standing beside completed prototype microwave device
+    action: Making final adjustments to enclosed metal box microwave with methodical precision
+  - appearance: Younger Caucasian man, likely 20s-30s, eager expression, clean-shaven
+    clothing: Laboratory coat over standard 1940s work attire, shirt and trousers
+    position: Standing nearby observing prototype construction
+    action: Assisting with final assembly details of revolutionary cooking device
   scene:
-    mainElements: Large white metal cabinet approximately 6 feet tall with 'RADARANGE' nameplate, control dials on front panel,
-      industrial kitchen appearance, food containers nearby
-    details: Massive commercial microwave unit dominates kitchen space, weighing approximately 750 pounds. Industrial stainless
-      steel kitchen surfaces surround unit. Control panel shows multiple dials and switches for precise operation. Food preparation
-      area with commercial-grade equipment visible. Steam rises from food being heated inside unit.
-    background: Commercial kitchen with stainless steel appliances, large refrigeration units, industrial shelving, commercial
-      food preparation areas
-    atmosphere: Revolutionary moment in commercial food service, transformation of cooking technology from laboratory to practical
-      application, professional kitchen efficiency improved by microwave innovation, no text or letters visible
+    mainElements: First true microwave oven prototype consisting of metal enclosure approximately 3 feet tall with magnetron
+      attached
+    details: Completely enclosed metal design preventing radiation escape, removable lid for food insertion providing safe
+      access, basic control mechanisms for operation, magnetron tube properly mounted and connected, rudimentary but functional
+      cooking chamber, water-cooling system integrated for safe operation, measurement instruments for monitoring electromagnetic
+      output, crude but effective safety features built into design
+    background: Laboratory workbench with tools and materials used in construction, technical drawings showing design specifications,
+      other radar equipment continuing normal operations
+    atmosphere: Sense of revolutionary breakthrough in food preparation technology, methodical engineering approach to safety
+      and functionality, electrical humming from integrated magnetron, excitement of creating first practical microwave cooking
+      device, no text or letters visible
   composition:
-    cameraAngle: Wide shot showing scale of commercial Radarange unit in kitchen setting
-    focus: Large commercial Radarange microwave unit demonstrating practical application
-    depth: Foreground shows detailed control panel and operation, middle ground features chef and observer, background reveals
-      broader commercial kitchen environment
+    cameraAngle: Medium wide shot showing full prototype device
+    focus: Completed microwave prototype with engineers making final preparations
+    depth: Foreground shows detailed prototype construction, middle ground features engineers at work, background displays
+      laboratory development environment
 visualElements:
   colorPalette:
     primary:
-    - grays
-    - broken browns
-    - delicate pinks
-    - ochres
-    - caramels
-    - warm grays
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - blues
-    - graphites
-    - muted greens
-    background: gradient based backgrounds with atmospheric perspective
-    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
-    saturation: medium (balanced for narrative)
-    contrast: medium (clear without harshness)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: clean closed lineart with tapering, varied line weight (outline > details)
-    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
-    color: matching or darker than base colors
-    texture: smooth vector-like quality
-    edgeTreatment: rare breaks only in highlights to let form breathe
-  composition:
-    layout: clear staging with rule of thirds and leading lines
-    hierarchy: hero has highest contrast and line weight
-    gridSystem: foreground-midground-background layers
-    whitespace: breathing room between silhouettes, avoid tangencies
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: soft single source, simplified animation lighting
-    direction: key light soft from front, weak fill, minimal rim
-    intensity: medium, narrative-driven
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: soft 1-2 gradient steps
-      color: cooler than base color
-      opacity: 60-80%
-      offset: very subtle ambient occlusion at form contacts
-    highlights: single soft highlight on materials
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: digital 2D animation, feature film quality
-    texture: smooth without pores, suggested textures not realistic
-    detailLevel: medium-high, optimized for readability
-    finish: clean animation finish, no noise
-    printEffects: none, clean digital output
-  perspective:
-    type: 35-50mm lens equivalent, no extreme distortions
-    vanishingPoints: standard perspective rules
-    distortion: minimal, only for dramatic effect
-    depth: foreground-midground-background with overlapping planes and atmospheric haze
-  typography:
-    integration: clear separation from artwork
-    style: readable, animation-friendly fonts
-    weight: varied for hierarchy
-    layout: follows animation composition rules
-    effects: minimal, no interference with art
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: narrative-driven, emotion-focused
-    emotion: varies by scene requirements
-    tempo: dynamic based on action
-    energy: controlled for storytelling
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - storytelling
-    - emotional
-    - readable
-    - dynamic
-    - universal
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

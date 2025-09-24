@@ -1,0 +1,61 @@
+styleName: Studio Ghibli Style
+description: Hand-drawn Japanese animation with watercolor backgrounds, emotional depth, and nature themes
+aiPrompts:
+  basePrompt: studio ghibli style, hayao miyazaki animation, hand-drawn anime, watercolor backgrounds, detailed nature scenes, traditional 2d animation
+  negativePrompt: CGI, 3D rendering, digital effects, photorealistic, western animation
+  styleKeywords:
+  - studio ghibli
+  - miyazaki
+  - hand-drawn
+  - watercolor
+  - nature themed
+  - traditional anime
+visualElements:
+  colorPalette:
+    primary:
+    - soft earth tones
+    - natural greens
+    - sky blues
+    secondary:
+    - warm sunset colors
+    - gentle pastels
+    - muted shadows
+    background: detailed watercolor painted environments
+    usageNotes: Soft, harmonious colors with natural palette
+    saturation: gentle and muted
+    contrast: soft natural contrast
+  lineArt:
+    style: clean hand-drawn lines
+    weight: delicate consistent lines
+    color: dark brown or black
+    texture: smooth traditional animation
+    edgeTreatment: soft and organic
+  lighting:
+    type: soft natural lighting
+    direction: golden hour effects
+    intensity: gentle and atmospheric
+    shadows:
+      style: soft painted shadows
+      color: cool blue-gray tones
+      opacity: translucent
+    highlights: subtle warm highlights
+  rendering:
+    technique: traditional hand-drawn 2D animation
+    texture: watercolor and gouache textures
+    detailLevel: extremely detailed backgrounds
+    finish: traditional cel animation quality
+  perspective: cinematic wide shots with depth
+  mood:
+    overall: peaceful, emotional, harmonious with nature
+    emotion: deep emotional resonance and wonder
+    tempo: gentle and contemplative
+    keywords:
+    - peaceful
+    - emotional
+    - natural
+    - magical
+    - contemplative
+  stylePrecedents:
+  - Spirited Away
+  - My Neighbor Totoro
+  - Princess Mononoke

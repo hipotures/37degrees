@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1800, after 230 years of drought
+    location: Andes Mountains and Chilean Coast Range surrounding Atacama Desert
+    weather: Clear skies, moisture-blocking mountain systems preventing any rainfall
+  characters: No characters present in this scene
+  scene:
+    mainElements: High mountain peaks creating rain shadow effect blocking moisture from Pacific and Atlantic, dramatic elevation
+      changes between desert floor and surrounding mountain barriers, Andes Mountains and Chilean Coast Range acting as natural
+      fortress preventing rainfall
+    details: Two-sided rain shadow effect created by coastal mountains blocking Pacific moisture and Andes preventing Atlantic
+      weather systems, dramatic geological formations showing how mountain barriers create driest conditions on Earth, snow-capped
+      peaks holding moisture that never reaches desert floor, elevation changes of thousands of feet creating impenetrable
+      barrier to precipitation, geological evidence of long-term climate patterns
+    background: Pacific Ocean visible in distance but completely cut off from desert by coastal mountain range, vast Atacama
+      Desert floor receiving no moisture despite proximity to ocean, continental weather patterns blocked by massive mountain
+      systems
+    atmosphere: Natural forces creating most extreme drought conditions on Earth, geological barriers that have prevented
+      rainfall for over two centuries, dramatic demonstration of how topography controls climate, isolation of desert from
+      all moisture sources, no text or letters visible
+  composition:
+    cameraAngle: Wide dramatic shot showing mountain barriers and rain shadow effect
+    focus: Mountain systems blocking moisture from reaching desert
+    depth: Foreground shows detailed mountain barriers, middle shows elevation changes, background shows blocked moisture
+      sources and isolated desert
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

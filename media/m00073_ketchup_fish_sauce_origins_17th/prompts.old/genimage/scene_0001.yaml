@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Early 17th century, dawn
+    location: Traditional Chinese fishing village on Fujian coast, South China Sea, 17th century
+    weather: Clear morning with gentle sea breeze
+  characters:
+  - appearance: Chinese man, 40s, weathered face from sea voyages, sharp intelligent eyes, lean build from travel
+    clothing: Dark blue silk tunic with traditional Chinese collar, wide-legged pants, fabric belt, worn leather boots
+    position: Standing on stone quay overlooking fishing boats
+    action: Supervising fishermen preparing nets and examining catch from night fishing
+  scene:
+    mainElements: Wooden fishing boats with curved hulls, bamboo drying racks, stone quay, traditional houses with curved
+      tile roofs
+    details: Fishermen sorting silver anchovies into wooden baskets, ceramic jars lined up for fish processing, coarse sea
+      salt in bamboo containers, traditional Chinese architecture with upturned eaves, morning mist rising from water
+    background: South China Sea stretching to horizon, fishing fleet returning with dawn catch, distant mountains shrouded
+      in morning haze
+    atmosphere: Bustling maritime activity with salt air and fish processing scents, peaceful dawn productivity, ancient fishing
+      traditions in action, no text or letters visible
+  composition:
+    cameraAngle: Wide establishing shot from elevated position
+    focus: Fishing village and maritime activity with merchant overseeing operations
+    depth: Foreground shows merchant and immediate dock area, middle ground features boats and fishermen, background shows
+      expansive sea and coastline
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,69 @@
+canon:
+  characters:
+    - id: "character_EK"
+      name: "Character EK"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns"
+            clothing: "Red, white and blue leather jumpsuit with stars and stripes, white helmet with eagle emblem, white leather boots"
+            posture: "Confident stance, arms often crossed or hands on hips, fearless expression"
+    - id: "character_medical_staff"
+      name: "Medical Staff"
+      description_block: |
+        characters:
+          - appearance: "Various medical professionals, men and women, 30s-50s, focused expressions"
+            clothing: "White medical coats, surgical scrubs, stethoscopes around necks"
+            posture: "Professional, bent over patient or standing with medical equipment"
+    - id: "character_crew_members"
+      name: "Crew Members"
+      description_block: |
+        characters:
+          - appearance: "Men in 30s-40s, working-class build, concerned expressions"
+            clothing: "Casual 1970s attire, work shirts, jeans, tool belts"
+            posture: "Active, adjusting equipment or watching stunts with tension"
+  locations:
+    - id: "location_snake_river_canyon"
+      name: "Snake River Canyon"
+      description_block: |
+        setting:
+          location: "Snake River Canyon, Idaho, vast rocky canyon with winding river below"
+        mainElements: "Steep canyon walls, narrow river far below, desert landscape, clear blue sky"
+        atmosphere: "Dramatic, dangerous, expansive wilderness setting"
+    - id: "location_hospital_room"
+      name: "Hospital Room"
+      description_block: |
+        setting:
+          location: "1970s hospital room with medical equipment"
+        mainElements: "Hospital bed, IV stands, medical monitors, white walls, fluorescent lighting"
+        atmosphere: "Clinical, sterile, concerned medical environment"
+    - id: "location_motorcycle_jump_ramp"
+      name: "Motorcycle Jump Ramp"
+      description_block: |
+        setting:
+          location: "Wooden motorcycle jump ramp at stadium or arena"
+        mainElements: "Steep wooden ramp, crowd stands in background, safety barriers, sand landing area"
+        atmosphere: "Exciting, dangerous, crowd anticipation and tension"
+    - id: "location_garage_workshop"
+      name: "Garage Workshop"
+      description_block: |
+        setting:
+          location: "Motorcycle repair garage with tools and equipment"
+        mainElements: "Motorcycles, tool benches, spare parts, oil stains on concrete floor"
+        atmosphere: "Working environment, mechanical preparation, focused activity"
+  items:
+    - id: "item_harley_davidson_motorcycle"
+      name: "Harley Davidson Motorcycle"
+      description_block: |
+        details: "Classic Harley Davidson motorcycle, chrome exhaust pipes, custom paint job, high handlebars, powerful engine"
+    - id: "item_steam_powered_rocket"
+      name: "Steam Powered Rocket"
+      description_block: |
+        details: "White steam-powered rocket vehicle with fins, pointed nose cone, steam vents, experimental design"
+    - id: "item_medical_cast"
+      name: "Medical Cast"
+      description_block: |
+        details: "White plaster medical casts on arms and legs, bandages, medical tape, hospital blankets"
+    - id: "item_crash_helmet"
+      name: "Crash Helmet"
+      description_block: |
+        details: "White motorcycle helmet with red, white and blue eagle design, chin strap, protective visor"

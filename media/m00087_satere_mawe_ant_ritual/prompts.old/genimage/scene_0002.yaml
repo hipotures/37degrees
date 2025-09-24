@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Mid-morning, bright filtered sunlight
+    location: Small natural clearing in Amazon rainforest where bullet ants are collected
+    weather: Warm humid air with occasional breeze through canopy
+  characters:
+  - appearance: Adult Sateré-Mawé man, 30s, muscular build, bronze skin, black hair in traditional style
+    clothing: Practical forest attire with woven palm leaf protection, minimal ornaments, natural body paint
+    position: Crouched carefully at base of large tree trunk, hands working methodically
+    action: Carefully gathering bullet ants using traditional techniques, placing them into gourd containers
+  - appearance: Indigenous Brazilian boy, 12-15 years old, lean athletic build, bronze skin, straight black hair
+    clothing: Traditional Sateré-Mawé attire with colorful feather ornaments, woven cotton bands, minimal body decoration
+    position: Standing nearby watching intently, holding empty collection gourd
+    action: Observing collection process with nervous anticipation, learning traditional techniques
+  scene:
+    mainElements: Open space with fallen logs, exposed tree roots, patches of sunlight through canopy
+    details: Large bullet ants moving along tree bark, hollowed-out gourd containers with woven palm fiber lids placed strategically
+      around collection area. Natural sedative plants visible nearby, traditional tools made from forest materials scattered
+      on ground.
+    background: Dense rainforest walls surrounding small clearing, shafts of golden sunlight penetrating canopy
+    atmosphere: Focused work environment surrounded by natural forest sounds and filtered light. Serious concentration mixed
+      with underlying ritual tension, no text or letters visible
+  composition:
+    cameraAngle: Close-up eye level view focusing on collection process
+    focus: Hands carefully gathering large black ants into gourd containers
+    depth: Ant collection in sharp foreground, watching initiate in middle ground, forest backdrop
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

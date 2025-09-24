@@ -1,23 +1,27 @@
 sceneDescription:
   setting:
-    time: November 7, 1940, early morning
-    location: Tacoma Narrows Bridge as winds intensify
-    weather: Building wind conditions reaching 40 mph
-  characters: No characters present in this scene
+    time: November 2, 1940, late evening
+    location: Purpose-built laboratory facility on University of Washington campus, Seattle
+    weather: Clear night outside laboratory windows
+  characters:
+  - appearance: Middle-aged academic with scholarly appearance, round spectacles, practical demeanor suited to field research
+    clothing: Wool jacket over sweater vest, sturdy trousers, leather shoes with good traction, carrying camera equipment
+    position: Adjusting controls on wind tunnel equipment while observing scale model
+    action: Methodical scientist, unafraid to risk personal safety for research, shows genuine concern for welfare
   scene:
-    mainElements: Bridge beginning to exhibit more extreme movement as wind speeds increase beyond normal oscillation
-    details: Wind gusts causing bridge deck to move more violently than usual morning traffic patterns, early commuters still
-      crossing bridge unaware of developing danger, bridge structure responding to aerodynamic forces with increasing amplitude,
-      suspension system under growing stress from wind interaction
-    background: Puget Sound waters showing whitecaps from increasing wind, Pacific Northwest forest swaying in strong gusts,
-      storm clouds beginning to gather
-    atmosphere: Natural forces building toward engineering disaster, morning routine about to become historic catastrophe,
-      aerodynamic instability reaching critical threshold, peaceful Pacific Northwest becoming scene of destruction, no text
-      or letters visible
+    mainElements: Large wind tunnel capable of housing scale models, sophisticated measurement equipment, observation areas
+    details: 1:200 scale model of complete bridge and 1:20 scale section model for wind tunnel testing, built for studying
+      oscillation behavior. Scale model bridge oscillating violently in artificial wind stream, demonstrating same problematic
+      behavior as full-size structure. Scientific instruments measuring wind speeds, pressures, and structural responses.
+      Charts and graphs showing oscillation patterns, research notes scattered on laboratory bench.
+    background: Scientific research environment with controlled conditions, contrast to chaotic real-world conditions
+    atmosphere: Urgent scientific investigation as researcher races against time to understand dangerous bridge behavior,
+      working late into night just five days before disaster
   composition:
-    cameraAngle: Wide shot showing bridge in increasingly windy conditions
-    focus: Building wind forces that will trigger bridge collapse
-    depth: Bridge structure in foreground, wind-swept Puget Sound in middle ground, stormy Pacific Northwest sky in background
+    cameraAngle: Medium shot from side of wind tunnel showing both researcher and oscillating model
+    focus: Scale bridge model demonstrating same fatal oscillations as real bridge
+    depth: Wind tunnel and model in foreground, scientist and controls in middle ground, laboratory equipment in background,
+      no text or letters visible
 visualElements:
   colorPalette:
     primary:

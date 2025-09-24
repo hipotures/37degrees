@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "GPS Satellite Assembly in Clean Room - 1976"
+  setting:
+    time: "1976, late morning"
+    location: "High-tech satellite manufacturing facility, aerospace contractor site"
+    weather: "Controlled indoor environment, no external weather"
+  characters:
+    - appearance: "Small team of specialists in clean room gear, focused on precision work"
+      clothing: "White clean room suits, gloves, hair covers, protective eyewear"
+      position: "Surrounding partially assembled GPS satellite on precision work platform"
+      action: "Carefully handling delicate satellite components, working with precision instruments, installing atomic clock mechanisms"
+    - appearance: "Quality control inspector, 40s, methodical approach"
+      clothing: "Clean room suit with clipboard holder, magnifying equipment"
+      position: "Standing beside satellite checking assembly procedures"
+      action: "Examining component installation, verifying assembly procedures against technical specifications"
+  scene:
+    mainElements: "Sterile white clean room with satellite components, precision assembly equipment, Block I GPS satellite with distinctive solar panel arrays, cylindrical body with antennas, gold thermal blankets"
+    details: "Precision cesium atomic clock device being installed, complex wiring harnesses, golden thermal insulation materials, specialized assembly tools, component testing equipment, air filtration systems, no text or letters visible"
+    background: "Ultra-clean white walls and ceiling with air filtration vents, precision assembly stations, component storage areas with protective covers"
+    atmosphere: "Ultra-clean technical environment with bright white lighting and precision tools, quiet concentration, critical precision work requiring absolute cleanliness"
+  composition:
+    cameraAngle: "Close-up shot focusing on satellite assembly work"
+    focus: "GPS satellite being assembled with technicians installing critical components"
+    depth: "Satellite components in foreground, technicians working in middle ground, clean room facility infrastructure in background"

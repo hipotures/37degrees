@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "University Campus Morning Preparation"
+  setting:
+    time: "June 1, 2011, 9:00 AM"
+    location: "Campus courtyard of Faculty of Mechanical Engineering, Krakow University of Technology, Krakow, Poland"
+    weather: "Clear sunny morning, mild spring weather"
+  characters:
+    - appearance: "Caucasian man, 40s, authoritative presence, confident expression, short brown hair"
+      clothing: "Professional dark suit with university badge, formal dress shirt, tie"
+      position: "Standing near university building entrance with view of courtyard"
+      action: "Standing with clipboard, coordinating with authority and precision"
+    - appearance: "Young Caucasian man, early 20s, athletic build, determined expression"
+      clothing: "Casual university attire - jeans, university sweatshirt, sneakers"
+      position: "Gathered in small groups around the courtyard area"
+      action: "Ready to participate, enthusiastic body language"
+    - appearance: "Young Caucasian woman, early 20s, medium height, focused expression"
+      clothing: "Casual student outfit - dark pants, light top, comfortable shoes"
+      position: "Standing with other students near registration tables"
+      action: "Cooperative and eager, following instructions carefully"
+  scene:
+    mainElements: "University buildings with modern architecture, paved courtyard area with designated space for record attempt"
+    details: "Faculty of Mechanical Engineering banner or signage identifying the organizing institution, registration tables with official documentation, students gathering in organized groups, clear morning sunlight illuminating the campus buildings, official preparation area marked out for the world record attempt"
+    background: "Modern university architecture, additional campus buildings, trees and landscaping typical of academic environment"
+    atmosphere: "Academic environment with excitement and anticipation for world record attempt, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated perspective"
+    focus: "University campus courtyard with gathering students and officials"
+    depth: "Foreground shows immediate preparation area, middle ground displays organized student groups, background reveals university architecture and campus setting"

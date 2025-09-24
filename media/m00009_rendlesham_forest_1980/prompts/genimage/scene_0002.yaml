@@ -1,36 +1,31 @@
 sceneDescription:
   setting:
-    time: December 26, 1980, 03:30 AM
-    location: Dense managed pine forest interior, Rendlesham Forest, Suffolk, England - Scots and Corsican pine stands
-    weather: Clear winter night, near freezing, possible light fog affecting visibility
+    time: December 26, 1980, 02:00 hours
+    location: RAF Woodbridge East Gate, Suffolk, England, gateway to Rendlesham Forest
+    weather: Cold December night with light fog, typical East Anglia winter conditions
   characters:
-  - appearance: Caucasian man, military age, alert expression, focused demeanor
-    clothing: U.S. Air Force Security Police winter gear - woodland camouflage BDU or OG-107 uniform, M-65 field jacket, thermal
-      layers, field cap, combat boots, subdued Security Police patches
-    position: Alert patrol stance, often with flashlight in hand
-    action: Conducting security patrol, investigating anomalous lights, maintaining vigilant watch
-  - appearance: Caucasian man, military age, serious expression, focused attention
-    clothing: U.S. Air Force Security Police winter gear - woodland camouflage BDU or OG-107 uniform, M-65 field jacket, thermal
-      layers, field cap, combat boots, subdued Security Police patches
-    position: Alert military stance, often scanning surroundings with flashlight
-    action: Security patrol duties, investigating unusual phenomena, documenting observations
+  - appearance: Caucasian man, early 20s, typical military build and appearance, short regulation haircut
+    clothing: Security Police duty uniform, standard military boots, carried radio and patrol equipment
+    position: Standing at security checkpoint scanning the forest perimeter
+    action: Conducting routine security patrol, monitoring perimeter through binoculars
+  - appearance: Caucasian man, military age, standard security police build and appearance
+    clothing: Security Police duty uniform, standard military boots, patrol equipment
+    position: Near patrol vehicle at gate entrance
+    action: Checking radio equipment and maintaining communication with base security
   scene:
-    mainElements: Tall pine trees creating dark canopy, sandy soil covered with pine needles, ferns and heather undergrowth,
-      forestry roads, small clearings. Two airmen advancing cautiously through forest with flashlights, encountering strange
-      triangular glowing object.
-    details: Dense pine forest with towering trees, forest floor covered in brown pine needles and scattered ferns. Standard
-      U.S. Air Force issued flashlight with metal body, powerful beam for cutting through forest darkness, typical 1980 military
-      specifications illuminating path ahead. Mysterious triangular metallic object visible between trees, emanating white
-      light with pulsing red light on top and blue lights below, silent despite close proximity.
-    background: Dark forest depths with vertical pine trunks creating natural corridors, shadows and light patterns
-    atmosphere: Dark, dense forest with flashlight beams cutting through darkness, natural film noir lighting, fog diffusing
-      distant lights. Sense of otherworldly encounter and military discipline meeting unknown phenomena, no text or letters
-      visible
+    mainElements: Military checkpoint at eastern perimeter of RAF Woodbridge, security gatehouse with barrier, chain-link
+      fence with barbed wire, military lighting fixtures, guard stations, road leading into dark forest
+    details: Professional military security operation, patrol vehicle with mounted spotlight, communication equipment, security
+      logs and clipboards, military-issue flashlights, warming shelter for guards, no text or letters visible
+    background: Dark Rendlesham Forest stretching into distance, base facilities visible behind security fence, other security
+      posts along perimeter
+    atmosphere: Cold December night, minimal lighting except for security lamps, foggy conditions typical of East Anglia winter,
+      strategic military facility ambiance, routine but vigilant security posture
   composition:
-    cameraAngle: Low angle shot emphasizing height of trees and mysterious light source above
-    focus: Triangular glowing object between trees with two investigating airmen in foreground
-    depth: 'Foreground: two airmen with flashlights. Middle: pine trees and undergrowth. Background: mysterious glowing triangular
-      object illuminating forest'
+    cameraAngle: Medium shot from inside the gate looking toward forest
+    focus: Security personnel maintaining vigilant watch over forest perimeter during routine night patrol
+    depth: Foreground shows security checkpoint and personnel, middle ground displays fence line and gate, background reveals
+      dark forest entrance
 visualElements:
   colorPalette:
     primary:

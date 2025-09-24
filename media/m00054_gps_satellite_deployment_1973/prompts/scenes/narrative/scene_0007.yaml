@@ -1,16 +1,17 @@
 sceneDescription:
-  title: "GPS Satellite Constellation in Earth Orbit - 1982"
+  title: "NAVSTAR Satellite Construction - Rockwell International Facility"
   setting:
-    time: "1982, orbital view above Earth"
-    location: "Medium Earth orbit, 12,550 miles above Earth surface"
-    weather: "Space environment with Earth's atmosphere visible below"
-  characters: "No characters present in this scene"
+    time: "1977, morning"
+    location: "Rockwell International satellite assembly facility, California"
+    weather: "Clear California morning with controlled indoor environment"
+  characters:
+    No characters present in this scene
   scene:
-    mainElements: "Block I GPS satellite with distinctive solar panel arrays, cylindrical body with antennas, gold thermal blankets orbiting above Earth, multiple satellites visible in constellation formation"
-    details: "GPS satellite showing detailed construction with extended solar arrays, navigation antennas, atomic clock housing, thermal protection systems, Earth's curvature visible below with continental outlines, space environment with star field, no text or letters visible"
-    background: "Earth's surface showing North American continent with cloud formations, deep space with distant stars, orbital mechanics demonstrating satellite spacing and coverage patterns"
-    atmosphere: "Vast scale of space with Earth below, technological achievement of precise orbital positioning, silent operation of navigation constellation in space"
+    mainElements: "Clean room assembly facility with specialized satellite construction equipment, testing chambers, precision tooling"
+    details: "845 kg cylindrical spacecraft, 5.3 meters across with dual solar panels deployed, distinctive box-like main body with metallic surface, three rechargeable batteries, hydrazine thrusters visible under construction in pristine white clean room environment. Technicians in full clean room suits working on satellite components, compact cesium and rubidium oscillators, approximately shoebox-sized metallic housing units, space-hardened construction with backup redundancy systems, precision timing components visible being installed. Assembly jigs holding satellite structure, testing equipment connected to various subsystems."
+    background: "High-tech aerospace manufacturing facility with white clean room walls, specialized lighting, quality control stations"
+    atmosphere: "Sterile precision manufacturing environment with filtered air systems, focused technical assembly work, space-age technology atmosphere"
   composition:
-    cameraAngle: "Orbital view from space showing satellite above Earth"
-    focus: "GPS satellite in operational orbit with Earth as backdrop"
-    depth: "Satellite in foreground, Earth's surface in middle ground, space and stars in background"
+    cameraAngle: "Wide shot from clean room observation deck showing full satellite assembly process"
+    focus: "NAVSTAR satellite construction showing the physical realization of GPS concept into space-worthy hardware"
+    depth: "Satellite assembly in foreground, clean room technicians and equipment in middle ground, aerospace facility infrastructure in background, no text or letters visible"

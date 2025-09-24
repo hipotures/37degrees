@@ -1,29 +1,39 @@
 sceneDescription:
   setting:
-    time: 1969, morning
-    location: Hotel conference room, Las Vegas
-    weather: Indoor setting
+    time: August 18, 1967, afternoon
+    location: Jump site in Graham, Washington
+    weather: Pacific Northwest summer day, partly cloudy
   characters:
-  - appearance: Caucasian man, 30s-40s, athletic build, medium height, angular jaw, intense blue eyes, black hair with sideburns
-    clothing: Red, white and blue leather jumpsuit with stars and stripes, white helmet with eagle emblem, white leather boots
-    position: Standing at table pointing at architectural drawings
-    action: Explaining jump trajectory and landing calculations to concerned promoters
-  - appearance: Men in 30s-40s, working-class build, concerned expressions
-    clothing: Casual 1970s attire, work shirts, jeans, tool belts
-    position: Seated around conference table
-    action: Looking at blueprints and discussing safety concerns
+  - appearance: 5 feet 11 inches athletic build man in late 20s to early 30s, piercing blue eyes, distinctive mustache, weathered
+      face from crashes, confident swagger
+    clothing: Iconic white leather jumpsuit with red, white, and blue stars and stripes, matching helmet with star design,
+      white leather boots
+    position: Crashed beside overturned motorcycle, more severely injured than first Graham attempt
+    action: Grimacing in pain but still showing defiance, attempting to wave to crowd despite serious injuries
+  - appearance: Professional medical staff, doctors and nurses in white uniforms
+    clothing: 1960s medical attire, white coats, caps, professional appearance
+    position: Surrounding crash site with advanced medical equipment
+    action: Working urgently to stabilize injuries, preparing emergency transport, more concerned than previous crashes
+  - appearance: Mix of local residents, families, motorcycle enthusiasts who returned to see second attempt
+    clothing: Mid-1960s casual wear, some in motorcycle leather, families in weekend attire
+    position: Gathered at crash perimeter, many covering faces
+    action: Showing mix of horror and admiration, some crying, others cheering his survival and courage
   scene:
-    mainElements: Conference table covered with architectural drawings, scale models of fountains and ramps, measuring tools
-      and calculators
-    details: Hotel conference room with large windows overlooking Las Vegas Strip, architectural blueprints spread across
-      table, scale models of Caesar's Palace fountains, pencils and rulers scattered about, coffee cups and ashtrays, no text
-      or letters visible
-    background: Las Vegas skyline visible through windows, hotel interior with plush carpeting
-    atmosphere: Tense planning session, growing stakes and danger, ambitious scheming in luxurious setting
+    mainElements: Same sixteen-car jump setup as failed July attempt, more severely damaged motorcycle, enhanced medical response
+      team, skid marks and debris scattered across landing area
+    details: British motorcycle with distinctive parallel twin engine, chrome exhaust pipes, white paint scheme, custom suspension
+      setup for jumping, minimal windscreen, racing handlebars, reinforced frame modifications, now heavily damaged from second
+      crash. Enhanced medical equipment brought after first Graham crash, showing escalation of danger.
+    background: Pacific Northwest landscape, evergreen trees, small town setting, enhanced emergency response vehicles, crowd
+      gathered despite knowing the danger
+    atmosphere: August 18, 1967, second more serious crash establishing pattern of returning to complete failed jumps, heightened
+      tension and danger, medical emergency more severe, crowd witnessing escalating risks of extreme stunts, no text or letters
+      visible
   composition:
-    cameraAngle: High angle shot showing table and planning materials
-    focus: Architectural drawings and scale models of the proposed jump
-    depth: Planning materials in foreground, characters in middle ground, Las Vegas view in background
+    cameraAngle: Ground level view showing severity of second crash with enhanced medical response
+    focus: Character EK seriously injured beside heavily damaged motorcycle with medical team working
+    depth: Foreground shows shocked spectators, middle ground features severe crash scene with urgent medical response, background
+      displays Pacific Northwest landscape and emergency vehicles
 visualElements:
   colorPalette:
     primary:

@@ -4,84 +4,94 @@ canon:
       name: "Character LC"
       description_block: |
         characters:
-          - appearance: "American man, 40s, weathered face from frontier life, brown beard, stocky farmer build"
-            clothing: "Rough wool shirt, canvas trousers, wide-brimmed hat, leather boots caked with mud"
-            posture: "Determined frontier stance, often holding farming tools or rifle"
+          - appearance: "Former gold miner, mid-30s, weathered face from outdoor work, calloused hands, medium build"
+            clothing: "Simple frontier attire - wool shirt, canvas pants, suspenders, work boots, wide-brimmed hat for sun protection"
+            posture: "Determined homesteader stance, quick to defend his property, practical frontier mentality"
     - id: "character_CG"
       name: "Character CG"
       description_block: |
         characters:
-          - appearance: "Irish man, 35, red hair, pale complexion, lean build, concerned expression"
-            clothing: "Hudson's Bay Company wool jacket, dark trousers, tall leather boots"
-            posture: "Defensive posture, often gesturing at damaged property or pointing accusingly"
+          - appearance: "British company man, well-groomed, mid-40s, slightly portly from office work, clean-shaven with modest mustache"
+            clothing: "Company attire - dark wool coat, white shirt, vest, formal trousers, leather boots, company cap"
+            posture: "Officious bearing, concerned with company property and British authority"
     - id: "character_GP"
       name: "Character GP"
       description_block: |
         characters:
-          - appearance: "American man, 34, dark mustache, slender military bearing, intense eyes"
-            clothing: "US Army blue uniform with captain's bars, peaked military cap, black leather belt with sword"
-            posture: "Military precision, often studying maps or directing troop movements"
-    - id: "character_GH"
-      name: "Character GH"
+          - appearance: "Age 34, tall, distinguished bearing, long dark hair, mustache and goatee, piercing eyes"
+            clothing: "U.S. Army blue uniform with captain's bars, saber, high black boots, military cap with eagle insignia"
+            posture: "Confident military bearing, somewhat theatrical, defiant when challenged"
+    - id: "character_JD"
+      name: "Character JD"
       description_block: |
         characters:
-          - appearance: "British man, 45, naval beard, weathered sea captain appearance, commanding presence"
-            clothing: "Royal Navy uniform with gold braid, white naval cap, brass buttons"
-            posture: "Naval authority, hands clasped behind back or pointing at strategic positions"
+          - appearance: "Age 56, mixed Scottish-Creole heritage, stern features, graying hair, imposing presence"
+            clothing: "Formal colonial governor attire - dark coat with gold braid, white shirt, dark trousers, official insignia"
+            posture: "Authoritative, protective of British interests, experienced colonial administrator"
     - id: "character_WS"
       name: "Character WS"
       description_block: |
         characters:
-          - appearance: "American man, 73, distinguished elderly general, white hair, dignified bearing"
-            clothing: "US Army dress uniform with general's insignia, ceremonial sword, formal military hat"
-            posture: "Diplomatic bearing, often in discussion pose or reviewing documents"
+          - appearance: "Age 73, imposing figure despite age, 6'5\" tall, white hair, distinguished veteran bearing, corpulent from age"
+            clothing: "Full dress U.S. Army general's uniform with gold braid, numerous medals, sash, ceremonial sword"
+            posture: "Diplomatic bearing, experienced in crisis resolution, calm under pressure"
+    - id: "character_LB"
+      name: "Character LB"
+      description_block: |
+        characters:
+          - appearance: "Age 60, typical Royal Navy bearing, clean-shaven with naval whiskers, steady gaze, weathered from sea service"
+            clothing: "Royal Navy blue uniform with admiral's gold braid, bicorn hat, naval sword, white gloves"
+            posture: "Pragmatic naval officer stance, wise restraint in crisis situations"
   locations:
     - id: "san_juan_island"
       name: "San Juan Island"
       description_block: |
         setting:
-          location: "San Juan Island between Vancouver Island and Washington Territory"
-        mainElements: "Rolling green hills with scattered oak trees, rocky coastline, pristine waters"
-        atmosphere: "Pacific Northwest maritime environment with dramatic coastal scenery"
+          location: "55-square-mile island in San Juan Archipelago, rugged terrain with rolling hills, dense forests, and coastal prairies"
+        mainElements: "Belle Vue Sheep Farm on southern end, sheltered bays, rocky coastlines, inland meadows suitable for farming"
+        atmosphere: "Remote frontier setting, cool Pacific Northwest climate, frequent mists, sound of waves and wind"
+    - id: "belle_vue_farm"
+      name: "Belle Vue Sheep Farm"
+      description_block: |
+        setting:
+          location: "Hudson's Bay Company sheep operation on southern San Juan Island, established 1853"
+        mainElements: "Wooden farm buildings, sheep pens, grazing fields, company residence, storage barns"
+        atmosphere: "Working farm with sounds of sheep, farm activity, smell of livestock and hay, British colonial presence"
+    - id: "cutler_homestead"
+      name: "Cutler's Homestead"
+      description_block: |
+        setting:
+          location: "160-acre American homestead claim with small cabin and vegetable garden adjacent to Belle Vue Farm"
+        mainElements: "Log cabin, poorly fenced potato garden, cleared land, farming tools, frontier improvements"
+        atmosphere: "Modest frontier homestead, isolated but determined settlement, smell of wood smoke and tilled earth"
+    - id: "griffin_bay"
+      name: "Griffin Bay"
+      description_block: |
+        setting:
+          location: "Sheltered harbor on southeastern San Juan Island, natural anchorage"
+        mainElements: "Natural harbor, sandy beach, anchorage for ships, view across to Vancouver Island"
+        atmosphere: "Tense naval standoff location, sounds of creaking ships and maritime activity, smell of salt air"
     - id: "american_camp"
-      name: "American Military Camp"
+      name: "American Camp"
       description_block: |
         setting:
-          location: "High windswept meadow on southern end of San Juan Island overlooking Griffin Bay"
-        mainElements: "Military tents arranged in formation, earthwork redoubt, cannons positioned strategically"
-        atmosphere: "Frontier military outpost with commanding view of surrounding waters"
-    - id: "british_camp"
-      name: "British Royal Marine Camp"
-      description_block: |
-        setting:
-          location: "Northern shoreline of San Juan Island for ease of resupply and access"
-        mainElements: "Formal military camp with Union Jack flag, supply tents, marines on patrol"
-        atmosphere: "Disciplined British military presence with direct harbor access"
-    - id: "cutlar_farm"
-      name: "Frontier Farm"
-      description_block: |
-        setting:
-          location: "Cleared farmland on San Juan Island with vegetable garden"
-        mainElements: "Log cabin, split-rail fences, potato garden, cleared fields from forest"
-        atmosphere: "Isolated frontier homestead carved from wilderness"
+          location: "U.S. military encampment on southern San Juan Island near Belle Vue Farm"
+        mainElements: "Canvas tents, artillery positions, flagpole with American flag, parade ground, defensive positions"
+        atmosphere: "Military camp atmosphere, sounds of drill and bugle calls, smell of campfires and canvas"
   items:
-    - id: "hudson_bay_pig"
-      name: "Hudson's Bay Company Pig"
+    - id: "berkshire_pig"
+      name: "The Berkshire Boar"
       description_block: |
-        details: "Large black pig rooting through vegetable garden, eating potato tubers"
-    - id: "american_cannons"
-      name: "American Artillery"
+        details: "Large black Berkshire boar, breeding quality, substantial size for valuable breeding stock, shot and killed by rifle"
+    - id: "hms_tribune"
+      name: "HMS Tribune"
       description_block: |
-        details: "14 military cannons positioned in earthwork redoubt, brass and iron construction"
-    - id: "british_warships"
-      name: "Royal Navy Fleet"
+        details: "Three-masted British naval frigate, 31-gun warship, dark hull with white stripe, British naval ensign, gun ports along sides"
+    - id: "uss_jefferson_davis"
+      name: "USS Jefferson Davis"
       description_block: |
-        details: "5 British warships anchored in island waters, multiple masts, naval flags flying"
-    - id: "potato_garden"
-      name: "Damaged Potato Garden"
+        details: "Steam-powered U.S. Revenue Cutter, government vessel smaller than naval warships, U.S. flag, used to transport troops"
+    - id: "territorial_proclamation"
+      name: "Territorial Proclamation"
       description_block: |
-        details: "Vegetable garden with torn earth, uprooted potato plants, pig damage visible"
-    - id: "union_jack"
-      name: "British Flag"
-      description_block: |
-        details: "Union Jack flag flying on tall wooden flagpole at British camp"
+        details: "Written proclamation posted publicly declaring U.S. territorial authority, formal document with official military seal"

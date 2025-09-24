@@ -1,39 +1,39 @@
 sceneDescription:
   setting:
-    time: 1949, evening, end of dinner
-    location: Major's Cabin Grill restaurant interior, 33 West 33rd Street, Manhattan, New York City
-    weather: Warm restaurant interior, evening darkness visible through windows
+    time: Early 1950, afternoon, around 15:30
+    location: Upscale Manhattan restaurant interior, typical of participating establishments
+    weather: Cold winter day outside, warm atmosphere inside restaurant
   characters:
-  - appearance: Caucasian man, early 40s, average height, clean-shaven face, dark hair combed back with pomade, serious business
-      expression, thin-rimmed glasses
-    clothing: 1949 dark navy business suit with white dress shirt, conservative dark tie, polished black leather shoes, gold
-      wristwatch
-    position: Seated in booth, upper body twisted as he reaches into jacket pocket
-    action: Frantically patting down jacket pockets and pants, expression changing from confidence to shock and embarrassment
-  - appearance: Caucasian man, late 30s, slightly taller than average, neatly groomed brown hair, mustache, lawyer appearance,
-      attentive eyes
-    clothing: 1949 charcoal gray suit with vest, white shirt, striped tie, leather briefcase often at hand, wire-rim spectacles
-    position: Seated across from companion, leaning forward with concern
-    action: Watching with growing concern, eyebrows raised, hands reached halfway across table ready to help
-  - appearance: Caucasian man, 50s, slightly balding, professional service worker appearance, patient but observant expression
-    clothing: White shirt with black bow tie, black vest, white apron, black trousers, polished black shoes
-    position: Standing beside booth holding restaurant check
-    action: Holding out the bill patiently, beginning to sense the awkward situation developing
+  - appearance: Caucasian man, early 40s, average build, clean-shaven businessman, confident posture, sharp facial features
+      typical of 1940s executive
+    clothing: Dark wool business suit, white dress shirt, conservative necktie, polished leather dress shoes, fedora hat when
+      outdoors
+    position: Standing or seated at business table, gesturing with hands when explaining concepts
+    action: Discussing business matters, slight embarrassment when discussing wallet incident, authoritative yet approachable
+      demeanor
+  - appearance: Caucasian man, early 40s, tall and lean, serious expression, wire-rimmed glasses, receding hairline
+    clothing: Conservative dark suit, bow tie preferred over necktie, pocket watch chain, legal briefcase always present
+    position: Seated across from business partners, taking notes frequently
+    action: Methodical and precise, cautious optimism about new venture, reviewing legal documents
+  - appearance: Caucasian man, middle-aged, professional but approachable demeanor, experienced in hospitality
+    clothing: Dark vest over white shirt, black bow tie, pressed trousers, clean white apron
+    position: Standing beside restaurant table, holding order pad or receipt
+    action: Curious but accommodating about new payment method, maintaining professional service standards
   scene:
-    mainElements: The tense moment at the booth as the businessman realizes he has forgotten his wallet, creating an embarrassing
-      business situation
-    details: White paper restaurant check with handwritten items and prices in blue ink, total amount clearly visible, typical
-      1940s diner formatting. Empty dinner plates on table, coffee cups, water glasses, napkins, the finished meal evidence.
-      The businessman's face showing embarrassment and disbelief
-    background: Other diners continuing their meals unaware, warm restaurant lighting, kitchen sounds, normal restaurant activity
-      contrasting with the crisis at this particular table
-    atmosphere: Sudden tension and embarrassment breaking the pleasant business dinner mood, the quiet panic of a professional
-      man facing an unexpected social predicament, awkward silence settling over the booth
+    mainElements: Elegant restaurant interior with white tablecloths, fine dining atmosphere, booth seating, professional
+      wait staff, business clientele dining
+    details: Business meeting at corner table with prototype cards displayed, restaurant manager examining cardboard samples,
+      contract documents spread on table, fountain pens, coffee service, other businessmen dining in background, elegant table
+      settings with cloth napkins, no text or letters visible
+    background: Upscale restaurant with other business diners, professional wait staff serving meals, elegant interior design
+      typical of Manhattan establishments catering to corporate clients
+    atmosphere: Professional business environment, quiet conversations, sounds of fine dining service, atmosphere of innovation
+      and opportunity, skeptical but interested restaurant management considering revolutionary payment system
   composition:
-    cameraAngle: Medium close-up focusing on the booth and the three men
-    focus: The businessman's embarrassed expression as he searches his pockets while waiter holds the check
-    depth: Foreground shows the table with finished dinner and the restaurant check, middle ground captures the three men
-      in their awkward tableau, background shows normal restaurant activity continuing, no text or letters visible
+    cameraAngle: Medium shot showing business meeting between founders and restaurant management
+    focus: Prototype credit cards on table as character FM and RS explain concept to restaurant manager
+    depth: Foreground shows prototype cards and business documents on table, middle ground captures the business negotiation,
+      background displays elegant restaurant atmosphere with other diners
 visualElements:
   colorPalette:
     primary:

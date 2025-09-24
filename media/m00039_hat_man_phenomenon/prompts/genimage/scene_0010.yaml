@@ -1,103 +1,80 @@
 sceneDescription:
   setting:
-    time: 2020, 7:30 PM
-    location: Modern home office with computer setup
-    weather: Evening with warm desk lamp lighting
+    time: 2020, late evening
+    location: Modern bedroom with contemporary technology and social media setup
+    weather: Indoor evening setting with artificial lighting
   characters:
-  - appearance: Adult in 30s-40s, focused and determined expression, no longer fearful
-    clothing: Casual evening wear, comfortable sweater
-    position: Sitting at computer desk typing and researching
-    action: Documenting personal experience and connecting with online community of witnesses
+  - appearance: Young adult in early 20s, digital native appearance, simultaneously fascinated and concerned expression
+    clothing: Contemporary casual wear, comfortable t-shirt and lounge pants suitable for social media content creation
+    position: Sitting on modern bed with smartphone in hands, surrounded by contemporary technology
+    action: Scrolling through social media posts about Hat Man phenomenon, reading testimonials and viewing related content,
+      contemplating sharing own experience
   scene:
-    mainElements: Modern computer desk with laptop, desk lamp, notebooks with handwritten accounts, smartphone showing online
-      forums
-    details: Computer screen displaying online support community for Hat Man witnesses, notebook open with personal documentation
-      of encounters, smartphone showing messages from other experiencers. Evidence of research and community building around
-      shared phenomenon.
-    background: Home office with bookshelves, window showing evening neighborhood, family photos providing sense of normalcy
-      and healing
-    atmosphere: Empowered documentation and community connection replacing isolation and fear. Warm domestic lighting creating
-      sense of safety and community support
+    mainElements: Modern bedroom equipped with contemporary technology, large bed with modern bedding, multiple electronic
+      devices, LED lighting, social media setup for content creation
+    details: Smartphone displaying social media interface with Hat Man related content, laptop computer open nearby, LED strip
+      lighting creating ambient room illumination, modern furniture and decor. Ring light for video creation, gaming setup,
+      contemporary electronics typical of digital generation. Charging cables and various electronic accessories scattered
+      around
+    background: Modern domestic environment with contemporary technology, window showing urban nighttime scene, typical Gen
+      Z bedroom setup with modern amenities and digital lifestyle elements
+    atmosphere: Digital age transformation of ancient phenomenon, social media democratizing paranormal experiences, global
+      connectivity allowing instant sharing of supernatural encounters, modern technology meeting timeless fears, sense of
+      community and validation through digital platforms, no text or letters visible
   composition:
-    cameraAngle: Over-shoulder shot from behind person at computer
-    focus: Computer screen showing community support and documentation while person types
-    depth: 'Foreground: hands typing on keyboard, middle: computer screen with witness community, background: warm home office
-      with evening light through window, no text or letters visible'
+    cameraAngle: Medium shot from side of bed, showing person with smartphone and modern room setup
+    focus: Young person engaging with Hat Man content on social media, surrounded by contemporary digital technology
+    depth: Foreground shows modern electronic devices and smartphone, middle ground centers on digital native user, background
+      reveals contemporary bedroom with urban night view
 visualElements:
   colorPalette:
     primary:
-    - deep black
-    - pearl white
-    - charcoal gray
-    - silver gray
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - shadow black
-    - highlight white
-    background: dim interior gray with deep shadows
-    usageNotes: True monochrome only, no color information whatsoever
-    saturation: none (pure grayscale)
-    contrast: high (strong blacks and whites with limited midtones)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: photographic realism, no drawn outlines
-    weight: none (photographic approach)
-    color: none
-    texture: film grain micro-contrast creates edge definition
-    edgeTreatment: natural photographic edges
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: low-key tungsten practical or Fresnel spot
-    direction: single source from above or 30-60 degrees off axis
-    intensity: high contrast with key to fill ratio approximately 8:1
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: hard-edged dramatic shadows
-      color: deep black
-      opacity: 90-95%
-      offset: sharp and directional based on single light source
-    highlights: narrow rim light +0.5 to +1 EV for edge separation
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: photographic black and white film aesthetic
-    texture: visible film grain, worn surfaces, fabric textures
-    detailLevel: high in lit areas, obscured in shadows
-    finish: matte film print quality
-    printEffects: selenium toning for slight warm-cool split
-  perspective:
-    type: rectilinear standard lens perspective
-    vanishingPoints: natural perspective, no distortion
-    distortion: minimal, true to lens focal length
-    depth: shallow depth of field at f/2.8-4
-  composition:
-    layout: tight interior framing with little headroom
-    hierarchy: light draws attention to key elements
-    gridSystem: rule of thirds composition
-    whitespace: filled with dark shadows and negative space
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: dramatic, mysterious, tense
-    emotion: paranoia, desire, danger
-    tempo: static but charged with tension
-    energy: suppressed, coiled
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - noir atmosphere
-    - urban decay
-    - moral ambiguity
-    - femme fatale
-    - hard-boiled
-    - venetian blind shadows
-  symbolism:
-    common:
-    - venetian blind light patterns
-    - cigarette smoke
-    - rain on windows
-    - mirror reflections
-    figures:
-    - detective in fedora
-    - woman in evening dress
-    - shadowy figure in doorway
-    abstract:
-    - light versus dark moral conflicts
-    - urban isolation
-    architectural:
-    - narrow corridors
-    - dimly lit offices
-    - seedy hotel rooms
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

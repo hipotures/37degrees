@@ -1,26 +1,33 @@
 sceneDescription:
   setting:
-    time: 1985, afternoon
-    location: Isles of Scilly Council building with historical research
-    weather: Overcast day typical of British Isles
+    time: 1986, afternoon
+    location: Scilly Council offices, modern administrative building
+    weather: Typical British spring weather with cloudy skies
   characters:
-  - appearance: English man, 60s, local historian appearance, gray hair, wire-rimmed spectacles
-    clothing: 1980s formal suit with tie, carrying briefcase and historical documents
-    position: Sitting at desk surrounded by historical archives
-    action: Academic bearing, examining documents and making discovery about forgotten war
+  - appearance: Age 38 in 1986, medium height, brown hair, friendly face with glasses, informal but professional appearance
+    clothing: 1980s casual business attire - wool sweater, collared shirt, simple trousers, practical shoes suitable for island
+      living
+    position: Seated at desk with historical documents spread before him
+    action: Researching historical documents with scholarly enthusiasm, writing diplomatic correspondence about remarkable
+      historical discovery
   scene:
-    mainElements: Local government meeting room with historical documents and maps on walls
-    details: 17th century maritime records, war declarations, diplomatic correspondence in archive boxes spread across desk,
-      official letters and documents, maps of Scilly from different periods, research books and files, desk lamp illuminating
-      historical papers, telephone for contacting Dutch Embassy
-    background: Council chamber walls with historical maps and local government materials, windows showing Scilly landscape
-      outside
-    atmosphere: Small island administration dealing with unique historical discovery, academic research uncovering bureaucratic
-      oversight, moment of historical detective work, no text or letters visible
+    mainElements: Modern office desk covered with historical documents, reference books, and correspondence, telephone for
+      international calls, filing cabinets with local archives
+    details: Desk lamp illuminating historical research materials, stack of history books including maritime records, draft
+      letters to Dutch Embassy, calendar showing 1986 date, simple office furniture reflecting local government budget, view
+      through window of peaceful Scilly harbor, typewriter for formal correspondence, amazed expression as historical oversight
+      becomes clear
+    background: Simple government office environment with maps of Scilly islands on walls, filing systems, basic 1980s office
+      equipment, view of modern peaceful harbor where historic conflict began
+    atmosphere: Academic curiosity mixed with amazement at bureaucratic oversight, friendly local government environment,
+      slight disbelief at discovering 335-year-old forgotten conflict, scholarly excitement at historical detective work,
+      no text or letters visible
   composition:
-    cameraAngle: Medium shot showing historian with archives
-    focus: Historical research uncovering forgotten diplomatic oversight
-    depth: Historian and documents in foreground, council chamber in middle ground, island views through windows in background
+    cameraAngle: Medium shot from across desk showing researcher surrounded by historical documents
+    focus: Local historian making remarkable discovery, surrounded by evidence of forgotten diplomatic oversight spanning
+      three centuries
+    depth: Foreground shows character and detailed research materials, middle ground reveals office environment, background
+      displays peaceful modern Scilly through window
 visualElements:
   colorPalette:
     primary:

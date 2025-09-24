@@ -4,88 +4,77 @@ canon:
       name: "Character HE"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 50s, medium build, intelligent eyes behind wire-rimmed glasses, receding hairline with graying hair"
-            clothing: "1950s white lab coat over dark suit, or casual work clothes with rolled sleeves"
-            posture: "Focused and methodical, often leaning over equipment or adjusting camera settings"
+          - appearance: "50-year-old man, medium height, wire-rimmed glasses, receding hairline, kind face with intelligent eyes"
+            clothing: "1950s white lab coat over pressed shirt and narrow tie, dress pants, practical leather shoes"
+            posture: "Enthusiastic inventor personality, animated hand gestures when explaining technical concepts, focused intense concentration when working"
     - id: "character_KG"
       name: "Character KG"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 40s, tall and lean, serious expression, dark hair neatly combed"
-            clothing: "1950s business suit with tie, or field work clothes with safety equipment"
-            posture: "Professional and precise, often consulting technical documents or monitoring equipment"
+          - appearance: "40s, tall thin build, dark hair, serious expression, precise movements typical of engineer"
+            clothing: "1950s dark business suit, white shirt, conservative tie, polished shoes"
+            posture: "Methodical engineering approach, careful note-taking, collaborative but detail-oriented work style"
     - id: "character_HG"
       name: "Character HG"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 30s, stocky build, enthusiastic demeanor, thick-rimmed glasses"
-            clothing: "1950s engineer's work clothes or casual suit with loosened tie"
-            posture: "Energetic and hands-on, frequently handling technical components"
-    - id: "aec_official"
-      name: "AEC Official"
+          - appearance: "40s, medium build, well-groomed appearance, confident bearing of successful businessman"
+            clothing: "1950s executive business attire - quality suit, crisp shirt, silk tie"
+            posture: "Business-focused but technically knowledgeable, bridge between scientific innovation and commercial application"
+    - id: "character_CW"
+      name: "Character CW"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 40s, authoritative bearing, stern expression, well-groomed hair"
-            clothing: "Dark government suit with white shirt and conservative tie, military-style bearing"
-            posture: "Formal and commanding, often standing with hands behind back or reviewing documents"
-    - id: "test_technician"
-      name: "Test Technician"
-      description_block: |
-        characters:
-          - appearance: "Caucasian man, 20s-30s, focused expression, practical appearance"
-            clothing: "1950s work coveralls or casual shirt with protective equipment when needed"
-            posture: "Alert and ready, often crouched beside equipment or running between stations"
+          - appearance: "30s-40s, practical engineer appearance, focused expression, hands showing signs of technical work"
+            clothing: "Working engineer attire - shirt with rolled sleeves, work pants, safety equipment when needed"
+            posture: "Hands-on technical specialist, problem-solving mindset, detailed oriented about camera mechanics"
   locations:
     - id: "mit_laboratory"
-      name: "MIT Laboratory"
+      name: "MIT Electrical Engineering Laboratory"
       description_block: |
         setting:
-          location: "Massachusetts Institute of Technology laboratory, Cambridge, Massachusetts"
-        mainElements: "Large laboratory space with high ceilings, concrete floors, multiple workbenches"
-        atmosphere: "Scientific precision and innovation, bright fluorescent lighting, organized chaos of experimental equipment"
+          location: "MIT Electrical Engineering Laboratory, Cambridge, Massachusetts"
+        mainElements: "1950s university laboratory with high ceilings, large windows, concrete floors, workbenches covered with optical equipment, prototype cameras, electronic components, testing apparatus, blackboards with technical diagrams"
+        atmosphere: "Academic research environment, smell of electrical components and photo chemicals, bright fluorescent lighting, organized controlled chaos of active invention"
     - id: "nevada_test_site"
       name: "Nevada Test Site"
       description_block: |
         setting:
-          location: "Nevada Test Site, remote desert location 65 miles northwest of Las Vegas, Nevada"
-        mainElements: "Vast desert landscape with mountains in distance, concrete observation bunkers, steel towers"
-        atmosphere: "Isolated and barren, harsh desert conditions, sense of scientific importance and danger"
-    - id: "camera_control_bunker"
-      name: "Camera Control Bunker"
+          location: "Nevada Test Site, southern Nevada desert"
+        mainElements: "Vast desert landscape, flat dry lake beds (playas) surrounded by distant mountains, sparse vegetation, control bunkers, observation towers, instrumentation buildings, camera stations positioned 7 miles from ground zero, extensive cable networks"
+        atmosphere: "Harsh desert environment, intense heat during day, crystal clear air providing excellent visibility, sense of scientific precision amid desolate landscape"
+    - id: "enewetak_atoll"
+      name: "Enewetak Atoll Pacific Proving Ground"
       description_block: |
         setting:
-          location: "Reinforced concrete observation bunker, Nevada Test Site"
-        mainElements: "Underground concrete structure with thick walls, control panels, monitoring equipment"
-        atmosphere: "Underground safety, tense anticipation, scientific focus mixed with military precision"
-    - id: "darkroom_facility"
-      name: "Darkroom Facility"
+          location: "Enewetak Atoll, Marshall Islands, Pacific Proving Ground"
+        mainElements: "Tropical coral atoll, small islands surrounding deep blue lagoon, palm trees and white sand beaches, concrete bunkers, steel towers rising 300 feet above islands, instrumentation platforms, camera emplacements"
+        atmosphere: "Tropical heat and humidity, constant ocean breeze, contrast between natural beauty and massive military-scientific operation"
+    - id: "egg_headquarters"
+      name: "EG&G Corporate Headquarters"
       description_block: |
         setting:
-          location: "Film development laboratory with chemical processing equipment"
-        mainElements: "Red-lit darkroom with enlargers, chemical baths, drying lines, developing trays"
-        atmosphere: "Controlled environment for sensitive film processing, anticipation of historic discoveries"
+          location: "EG&G Corporate Headquarters, Boston area, Massachusetts"
+        mainElements: "Modern 1950s office building, multiple floors with executive offices and technical workshops, conference rooms, technical drafting areas, prototype assembly workshops, secure storage for classified equipment"
+        atmosphere: "Professional defense contractor environment, security-conscious culture, mix of academic research and military precision"
   items:
     - id: "rapatronic_camera"
-      name: "Rapatronic Camera"
+      name: "Rapatronic Camera System"
       description_block: |
-        details: "Large format camera with distinctive Kerr cell shutter system, metallic housing, thick optical lens assembly, electrical connections for timing control, mounted on heavy tripod base"
-    - id: "kerr_cell"
-      name: "Kerr Cell"
+        details: "Large format camera roughly 3 feet tall, robust metal construction, distinctive optical assembly with two polarizing filters and Faraday cell between them, single-shot capability only, exposure time from 2 microseconds to 10 nanoseconds, positioned 7 miles from blast"
+    - id: "faraday_cell"
+      name: "Faraday Cell Optical Shutter"
       description_block: |
-        details: "Glass cylindrical optical component filled with nitrobenzene, metallic electrodes, electrical connections, housed within precision optical mount between polarizing filters"
-    - id: "polarizing_filters"
-      name: "Polarizing Filters"
+        details: "Glass tube filled with special liquid, wrapped with electromagnetic coils, precisely machined optical windows, changes light polarization when energized with magnetic field, acts as ultra-fast shutter between crossed polarizing filters"
+    - id: "timing_system"
+      name: "EG&G Precision Timing System"
       description_block: |
-        details: "Two circular optical filters mounted perpendicular to each other, dark glass appearance, precision-machined mounting rings, integrated into camera lens assembly"
-    - id: "timing_control_unit"
-      name: "Timing Control Unit"
+        details: "Complex electronic equipment with multiple control panels, precise timing circuits, cable connections to camera arrays, synchronizes multiple cameras to fire in precise sequence, triggers based on blast detection, accuracy measured in nanoseconds"
+    - id: "rope_trick_photographs"
+      name: "Rope Trick Effect Images"
       description_block: |
-        details: "Electronic control box with vacuum tubes, precision dials, timing circuits, multiple electrical connections, housed in military-grade metal casing"
-    - id: "camera_array"
-      name: "Camera Array"
+        details: "Black and white photographs showing nuclear fireball with distinctive bright spikes extending downward like irregular streaks, spikes caused by vaporization of support cables, enhanced when cables painted black"
+    - id: "nuclear_fireball"
+      name: "Nuclear Explosion Fireball"
       description_block: |
-        details: "Multiple rapatronic cameras mounted on steel framework, sequential timing arrangement, heavy-duty tripods, electrical cables connecting each unit to central control"
-    - id: "nuclear_test_images"
-      name: "Nuclear Test Images"
-      description_block: |
-        details: "Black and white photographs showing spherical nuclear fireball with irregular surface patterns, dramatic light contrasts, scientific measurement scales, mounted on analysis boards"
+        details: "Spherical expanding fireball with irregular bright and dark patches (mottling patterns) across surface, bright intense light, rapid expansion captured in microsecond intervals, distinctive rope-like spikes extending from support cable vaporization"

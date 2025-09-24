@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Subject drawing star map under hypnotic trance"
+  setting:
+    time: "1964, during hypnotic regression session"
+    location: "Professional psychiatrist office in Boston, Massachusetts, 1960s medical building"
+    weather: "Indoor medical office environment"
+  characters:
+    - appearance: "White woman, 41 years old, dark hair styled in early 1960s fashion, average height, social worker build"
+      clothing: "Blue dress with light coat, practical travel shoes suitable for 1960s era"
+      position: "Seated at desk or table with drawing materials"
+      action: "Drawing hand-drawn map showing connected points representing star systems under hypnotic trance, eyes closed in deep concentration"
+    - appearance: "Middle-aged white man, professional psychiatrist appearance, authoritative bearing"
+      clothing: "Dark business suit with tie, professional medical practitioner attire of 1960s Boston"
+      position: "Seated behind desk or standing with clinical observation stance during sessions"
+      action: "Observing and documenting the drawing process while maintaining professional therapeutic distance"
+  scene:
+    mainElements: "Medical office with desk, chairs, recording equipment, professional diplomas on walls, hand-drawn map showing connected points representing star systems, drawn under hypnosis, featuring lines connecting various stellar positions"
+    details: "Paper and pencil for drawing star chart, tape recording equipment documenting session, medical diplomas and certificates on office walls, professional furniture typical of 1960s psychiatric practice, star map taking shape showing connected stellar points and trade routes, session notes and files visible on desk, no text or letters visible"
+    background: "Professional medical office setting with bookshelves, certificates, and clinical atmosphere typical of Boston psychiatry practice"
+    atmosphere: "Clinical but comfortable medical environment with professional furnishings typical of 1960s psychiatry practice, focused concentration during hypnotic regression"
+  composition:
+    cameraAngle: "Close-up angle focusing on drawing hand and emerging star map"
+    focus: "Star map drawing process and the precise details being recorded on paper"
+    depth: "Foreground shows drawing hand and star map details, middle ground features seated subject, background displays professional office environment"

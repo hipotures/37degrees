@@ -1,0 +1,97 @@
+canon:
+  characters:
+    - id: "character_WM"
+      name: "Character WM"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, regal bearing, long dark curly wig, thin mustache, determined expression"
+            clothing: "Royal blue velvet coat with gold embroidery, white lace cravat, ornate royal insignia"
+            posture: "Commanding presence, often seated on throne or standing with authoritative stance"
+    - id: "character_TA"
+      name: "Character TA"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 50s, thin build, sharp features, calculating eyes, stern expression"
+            clothing: "Black wool coat, white powdered wig, leather satchel, quill pen tucked behind ear"
+            posture: "Methodical movements, often holding documents or pointing at windows"
+    - id: "character_LF"
+      name: "Character LF"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 35, medium build, worried expression, calloused hands"
+            clothing: "Brown woolen coat, simple white shirt, worn leather boots, no wig"
+            posture: "Protective stance, often gesturing toward family or examining documents with concern"
+    - id: "character_MW"
+      name: "Character MW"
+      description_block: |
+        characters:
+          - appearance: "Caucasian woman, 30s, thin from hardship, tired eyes, caring demeanor"
+            clothing: "Dark brown wool dress, white linen cap, simple apron, worn shawl"
+            posture: "Nurturing gestures, often tending to children or looking anxiously at windows"
+    - id: "character_DR"
+      name: "Character DR"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 60s, gray beard, kind but concerned expression, weathered hands"
+            clothing: "Dark green coat, white cravat, black medical bag, simple tricorn hat"
+            posture: "Leaning forward attentively, often examining patients or gesturing toward health concerns"
+    - id: "character_BW"
+      name: "Character BW"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, muscular build, dust-covered clothing, determined expression"
+            clothing: "Brown leather apron, rolled-up sleeves, work boots, tool belt"
+            posture: "Active working stance, carrying bricks or mortar, methodical movements"
+  locations:
+    - id: "parliament_chamber_1696"
+      name: "Parliament Chamber 1696"
+      description_block: |
+        setting:
+          location: "House of Commons chamber, Palace of Westminster, London, England"
+        mainElements: "Wooden benches arranged in opposing rows, ornate carved speaker's chair, royal coat of arms"
+        atmosphere: "Formal governmental setting with heavy wooden panels and ceremonial atmosphere"
+    - id: "royal_palace_office"
+      name: "Royal Palace Office"
+      description_block: |
+        setting:
+          location: "Private royal office, Kensington Palace, London, England"
+        mainElements: "Ornate mahogany desk, royal throne chair, tall windows with heavy curtains, oil paintings"
+        atmosphere: "Luxurious royal setting with rich fabrics and golden accents"
+    - id: "london_townhouse_1696"
+      name: "London Townhouse 1696"
+      description_block: |
+        setting:
+          location: "Multi-story brick townhouse, Bloomsbury district, London, England"
+        mainElements: "Georgian brick facade, multiple tall sash windows, ornate front door, iron railings"
+        atmosphere: "Prosperous middle-class residence typical of late 17th century London"
+    - id: "working_class_tenement"
+      name: "Working Class Tenement"
+      description_block: |
+        setting:
+          location: "Cramped tenement building, East End of London, England"
+        mainElements: "Narrow rooms with low ceilings, small windows, simple wooden furniture, shared spaces"
+        atmosphere: "Modest living conditions with limited natural light and basic furnishings"
+    - id: "london_street_1696"
+      name: "London Street 1696"
+      description_block: |
+        setting:
+          location: "Cobblestone street, central London, England"
+        mainElements: "Rows of brick buildings, horse-drawn carriages, street vendors, mud and refuse"
+        atmosphere: "Bustling urban environment with period architecture and daily commercial activity"
+  items:
+    - id: "window_tax_notice"
+      name: "Window Tax Notice"
+      description_block: |
+        details: "Official parchment document with royal seal, formal black ink text, government insignia, tax amount calculations"
+    - id: "bricks_and_mortar"
+      name: "Bricks and Mortar"
+      description_block: |
+        details: "Red clay bricks, gray mortar mixture, wooden trowel, wheelbarrow for transport, construction materials"
+    - id: "medical_bag_1696"
+      name: "Medical Bag 1696"
+      description_block: |
+        details: "Black leather physician's bag, glass vials, metal instruments, cloth bandages, period medical tools"
+    - id: "royal_tax_proposal"
+      name: "Royal Tax Proposal"
+      description_block: |
+        details: "Formal government document with wax seal, detailed tax calculations, legislative proposal text, official formatting"

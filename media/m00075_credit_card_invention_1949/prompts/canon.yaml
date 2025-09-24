@@ -4,62 +4,78 @@ canon:
       name: "Character FM"
       description_block: |
         characters:
-          - appearance: "Caucasian man, early 40s, average height, clean-shaven face, dark hair combed back with pomade, serious business expression, thin-rimmed glasses"
-            clothing: "1949 dark navy business suit with white dress shirt, conservative dark tie, polished black leather shoes, gold wristwatch"
-            posture: "Confident businessman posture, shoulders back, often gesturing while speaking or checking pocket watch"
+          - appearance: "Caucasian man, early 40s, average build, clean-shaven businessman, confident posture, sharp facial features typical of 1940s executive"
+            clothing: "Dark wool business suit, white dress shirt, conservative necktie, polished leather dress shoes, fedora hat when outdoors"
+            position: "Standing or seated at business table, gesturing with hands when explaining concepts"
+            action: "Discussing business matters, slight embarrassment when discussing wallet incident, authoritative yet approachable demeanor"
     - id: "character_RS"
       name: "Character RS"
       description_block: |
         characters:
-          - appearance: "Caucasian man, late 30s, slightly taller than average, neatly groomed brown hair, mustache, lawyer appearance, attentive eyes"
-            clothing: "1949 charcoal gray suit with vest, white shirt, striped tie, leather briefcase often at hand, wire-rim spectacles"
-            posture: "Professional legal bearing, often leaning forward when listening, hands clasped when thinking"
-    - id: "character_wife"
-      name: "Character Wife"
+          - appearance: "Caucasian man, early 40s, tall and lean, serious expression, wire-rimmed glasses, receding hairline"
+            clothing: "Conservative dark suit, bow tie preferred over necktie, pocket watch chain, legal briefcase always present"
+            position: "Seated across from business partners, taking notes frequently"
+            action: "Methodical and precise, cautious optimism about new venture, reviewing legal documents"
+    - id: "character_MS"
+      name: "Character MS"
       description_block: |
         characters:
-          - appearance: "Caucasian woman, late 30s, elegant 1940s styling, brown hair in victory rolls, well-groomed appearance, concerned but composed expression"
-            clothing: "1949 navy blue dress coat with fur collar, matching hat with small veil, leather gloves, black heeled shoes, small handbag"
-            posture: "Graceful 1940s feminine posture, moving with purpose when arriving to help"
-    - id: "waiter_majors"
-      name: "Waiter"
+          - appearance: "Caucasian man, late 20s, energetic build, animated facial expressions, always carrying promotional materials"
+            clothing: "Slightly flashier business attire, colorful ties, polished shoes, press badge occasionally visible"
+            position: "Standing enthusiastically or leaning forward in conversation"
+            action: "Enthusiastic and persuasive, natural storyteller, quick wit and charm in conversation"
+    - id: "character_AB"
+      name: "Character AB"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 50s, slightly balding, professional service worker appearance, patient but observant expression"
-            clothing: "White shirt with black bow tie, black vest, white apron, black trousers, polished black shoes"
-            posture: "Attentive service posture, holding order pad or check, standing respectfully beside table"
+          - appearance: "Caucasian man, well-groomed gentleman, aristocratic bearing, expensive grooming, confident smile"
+            clothing: "Tailored suits from high-end haberdashers, silk ties, gold accessories, handkerchief in breast pocket"
+            position: "Seated with sophisticated posture, natural authority evident"
+            action: "Sophisticated and worldly demeanor, strategic thinking evident, reviewing business proposals"
+    - id: "restaurant_manager"
+      name: "Restaurant Manager"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, middle-aged, professional but approachable demeanor, experienced in hospitality"
+            clothing: "Dark vest over white shirt, black bow tie, pressed trousers, clean white apron"
+            position: "Standing beside restaurant table, holding order pad or receipt"
+            action: "Curious but accommodating about new payment method, maintaining professional service standards"
   locations:
-    - id: "empire_state_building_exterior"
-      name: "Empire State Building Area"
+    - id: "majors_cabin_grill"
+      name: "Major's Cabin Grill"
       description_block: |
         setting:
-          location: "Empire State Building and surrounding streets, midtown Manhattan, New York City"
-        mainElements: "Iconic Art Deco skyscraper dominates view, busy sidewalks with businessmen, vintage 1949 automobiles"
-        atmosphere: "Bustling post-war American business district, optimistic energy, urban sophistication"
-    - id: "majors_cabin_grill_interior"
-      name: "Major's Cabin Grill Interior"
+          location: "Major's Cabin Grill basement restaurant, 33 West 33rd Street, Manhattan, adjacent to Empire State Building"
+        mainElements: "Basement restaurant with log cabin-style entrance facade, steps leading down from street level, rustic wooden interior, booth seating, dim lighting from overhead fixtures, 600-year-old ebony Buddha statue"
+        atmosphere: "1950 evening, warm indoor lighting contrasting with cold February night outside, quiet conversations of business diners, clinking of silverware and glasses"
+    - id: "empire_state_offices"
+      name: "Empire State Building Offices"
       description_block: |
         setting:
-          location: "Major's Cabin Grill restaurant interior, 33 West 33rd Street, Manhattan, New York City"
-        mainElements: "Typical 1940s diner with checkered floor, red vinyl booths, chrome fixtures, counter with stools, busy kitchen sounds"
-        atmosphere: "Warm, bustling restaurant atmosphere with clattering plates, conversation buzz, aromatic food smells"
-    - id: "business_office_1949"
-      name: "1949 Business Office"
+          location: "High-floor offices in Empire State Building, 350 Fifth Avenue, Manhattan, with panoramic views"
+        mainElements: "Art Deco architectural details, wood-paneled walls, leather furniture, large windows, filing cabinets, typewriters on desks"
+        atmosphere: "Bustling with post-war business energy, sound of typing and telephone conversations, morning sunlight streaming through windows"
+    - id: "manhattan_district"
+      name: "Manhattan Financial District 1950"
       description_block: |
         setting:
-          location: "Hamilton Credit Corporation office, Empire State Building, Manhattan"
-        mainElements: "Wood-paneled office with large desk, telephone, filing cabinets, window overlooking Manhattan, business documents"
-        atmosphere: "Professional 1940s corporate environment, serious business discussions, post-war economic growth"
+          location: "Midtown Manhattan financial district, bustling urban center of American commerce"
+        mainElements: "Tall buildings and busy streets, yellow taxicabs, well-dressed businessmen and secretaries, newspaper stands, elegant storefronts, construction of new buildings"
+        atmosphere: "Cold February day with steam rising from manholes, sounds of traffic and commerce, sense of optimism and prosperity"
   items:
-    - id: "first_credit_card"
+    - id: "first_diners_card"
       name: "Original Diners Club Card"
       description_block: |
-        details: "Small rectangular cardboard card, approximately 3.5 by 2.5 inches, cream colored with simple black text, 'Diners Club' prominently displayed, member number, no magnetic strip or modern features"
-    - id: "restaurant_check_1949"
-      name: "1949 Restaurant Bill"
+        details: "Small cardboard rectangle, approximately 5.5 cm x 9.9 cm, cream-colored background with simple black text, signature in black ink, basic company logo, member number clearly visible, slight wear from handling"
+    - id: "restaurant_receipt"
+      name: "Restaurant Receipt"
       description_block: |
-        details: "White paper restaurant check with handwritten items and prices in blue ink, total amount clearly visible, typical 1940s diner formatting"
-    - id: "leather_wallet"
-      name: "1940s Leather Wallet"
+        details: "White paper receipt with restaurant letterhead, handwritten charges in black ink, business meal total, date clearly marked, three dinners listed, charged to account instead of cash"
+    - id: "business_wallet"
+      name: "Business Wallet"
       description_block: |
-        details: "Brown leather billfold wallet, well-worn, typical businessman accessory of the era, usually containing cash and business cards"
+        details: "Brown leather bifold wallet, worn from use, typical businessman's accessory of the era, contains cash, business cards, family photos"
+    - id: "restaurant_menu"
+      name: "Restaurant Menu"
+      description_block: |
+        details: "Folded paper menu with restaurant branding, list of American cuisine offerings, prices in 1950 dollars, business lunch options, steaks and cocktails prominently featured"

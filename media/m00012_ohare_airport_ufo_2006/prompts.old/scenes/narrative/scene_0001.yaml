@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Normal Airport Operations at O'Hare Terminal 3"
+  setting:
+    time: "November 7, 2006, 4:10 PM CST, late afternoon"
+    location: "Gate C-17, Terminal 3 Concourse C, Chicago O'Hare International Airport"
+    weather: "Overcast, solid grey cloud layer at 1,900 feet, cool November temperature"
+  characters:
+    - appearance: "Male worker, 30s, Caucasian, medium build, alert expression"
+      clothing: "Navy blue United Airlines work pants, company polo shirt with UA logo, high-visibility orange safety vest (ANSI Class II), hearing protection around neck, safety shoes, winter jacket for November weather"
+      position: "Standing next to aircraft at Gate C-17"
+      action: "Performing routine pre-pushback inspection of Flight 446"
+    - appearance: "Male worker, 20s-30s, medium build, focused expression"
+      clothing: "Grey or navy work uniform, United Airlines patches, high-visibility safety vest, work boots, tool belt"
+      position: "Near baggage cart behind aircraft"
+      action: "Loading final baggage containers into cargo hold"
+  scene:
+    mainElements: "Boeing 737 in United Airlines 'Rising Blue' livery positioned at Gate C-17, yellow pushback tug connected to nose gear, active ground operations with multiple vehicles"
+    details: "Terminal windows showing passengers inside, painted yellow aircraft positioning markings on concrete tarmac, ground support equipment including baggage carts and belt loaders positioned around aircraft, adjacent gates with other United Airlines aircraft, typical busy airport atmosphere with constant vehicle movement"
+    background: "Terminal 3 Concourse C modernist steel and glass architecture, other aircraft at neighboring gates, control tower visible in distance, grey overcast sky"
+    atmosphere: "Professional routine airport operations, industrial aviation environment, systematic preparation for departure, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from terminal window perspective"
+    focus: "Flight 446 aircraft and ground crew performing normal operations"
+    depth: "Foreground: terminal window frame, middle ground: aircraft and ground crew, background: airport infrastructure and overcast sky"

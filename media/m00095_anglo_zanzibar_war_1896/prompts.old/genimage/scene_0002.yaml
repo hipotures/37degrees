@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: August 27, 1896, morning
+    location: Sultan's palace complex in Zanzibar Town, Stone Town district
+    weather: Tropical heat building under clear skies
+  characters:
+  - appearance: Arab man, 29 years old, olive skin, dark beard, intense determined eyes, medium build
+    clothing: Traditional Omani white thobe with ornate ceremonial belt, ceremonial curved dagger at waist
+    position: Standing in palace courtyard center
+    action: Commanding presence, gesturing with authority to assembled guards and supporters
+  scene:
+    mainElements: Three-story timber palace building with ornate carved balconies and Arabic architectural details, surrounded
+      by defensive preparations
+    details: Ornate wooden palace with intricate geometric carvings, covered bridges connecting buildings, guards positioning
+      artillery pieces, supporters gathering in courtyard, palm trees providing shade, coral stone pathways between buildings
+    background: House of Wonders visible beyond palace grounds, Stone Town's narrow streets and buildings extending behind
+      complex
+    atmosphere: Determined resistance forming, last stand of traditional authority, tropical setting becoming fortress, busy
+      maritime environment with tropical heat, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from courtyard level showing palace facade
+    focus: Palace architecture and gathering defenders
+    depth: Palace courtyard in foreground, main building in middle ground, surrounding Stone Town in background
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

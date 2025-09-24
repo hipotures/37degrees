@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Aircrew Briefing for Anomalous Contact Investigation"
+  setting:
+    time: "November 14, 2004, morning"
+    location: "USS Nimitz (CVN-68) briefing room, Pacific Ocean southwest of San Diego, California"
+    weather: "Clear sunny conditions over open ocean"
+  characters:
+    - appearance: "Caucasian man, 40s, athletic build, focused expression, military bearing"
+      clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
+      position: "Standing at briefing podium addressing seated pilots"
+      action: "Pointing at tactical charts and briefing aircrew on intercept mission parameters"
+    - appearance: "Caucasian woman, 30s, slender build, determined expression, professional demeanor"
+      clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
+      position: "Seated in front row of briefing chairs"
+      action: "Listening intently and taking notes on mission details"
+    - appearance: "Caucasian man, 30s, stocky build, alert expression, tactical awareness"
+      clothing: "Sage green CWU-27/P flight suit, SV-2 survival vest with emergency equipment, G-suit, squadron patches and name tags"
+      position: "Seated next to other pilot in briefing room"
+      action: "Studying tactical information and mission parameters"
+  scene:
+    mainElements: "Military briefing room with charts, displays, briefing podium, rows of chairs for aircrew, tactical information boards"
+    details: "HGU-68/P flight helmet with MBU-20/P oxygen mask, visor reflecting sunlight, communication equipment integrated, protective headgear for high-performance flight operations scattered on nearby tables. Navigation charts show Pacific Ocean training areas. Weather maps indicate clear flying conditions. Mission boards display unknown contact information without revealing specific details."
+    background: "Ship's interior with fluorescent lighting, additional briefing materials, naval aviation squadron emblems and operational notices on bulkheads"
+    atmosphere: "Professional military environment, fluorescent lighting, focused atmosphere for mission planning and debriefing. Sense of urgency regarding unusual contacts detected by radar systems"
+  composition:
+    cameraAngle: "Medium shot from side angle capturing both briefer and seated pilots"
+    focus: "Briefing officer explaining mission details to attentive pilots preparing for intercept sortie"
+    depth: "Foreground: seated pilots in flight gear, middle ground: briefing officer at podium, background: charts and briefing displays, no text or letters visible"

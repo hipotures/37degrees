@@ -1,0 +1,91 @@
+canon:
+  characters:
+    - id: "character_HE"
+      name: "Character HE"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 50s, medium build, intelligent eyes behind wire-rimmed glasses, receding hairline with graying hair"
+            clothing: "1950s white lab coat over dark suit, or casual work clothes with rolled sleeves"
+            posture: "Focused and methodical, often leaning over equipment or adjusting camera settings"
+    - id: "character_KG"
+      name: "Character KG"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, tall and lean, serious expression, dark hair neatly combed"
+            clothing: "1950s business suit with tie, or field work clothes with safety equipment"
+            posture: "Professional and precise, often consulting technical documents or monitoring equipment"
+    - id: "character_HG"
+      name: "Character HG"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 30s, stocky build, enthusiastic demeanor, thick-rimmed glasses"
+            clothing: "1950s engineer's work clothes or casual suit with loosened tie"
+            posture: "Energetic and hands-on, frequently handling technical components"
+    - id: "aec_official"
+      name: "AEC Official"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, authoritative bearing, stern expression, well-groomed hair"
+            clothing: "Dark government suit with white shirt and conservative tie, military-style bearing"
+            posture: "Formal and commanding, often standing with hands behind back or reviewing documents"
+    - id: "test_technician"
+      name: "Test Technician"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 20s-30s, focused expression, practical appearance"
+            clothing: "1950s work coveralls or casual shirt with protective equipment when needed"
+            posture: "Alert and ready, often crouched beside equipment or running between stations"
+  locations:
+    - id: "mit_laboratory"
+      name: "MIT Laboratory"
+      description_block: |
+        setting:
+          location: "Massachusetts Institute of Technology laboratory, Cambridge, Massachusetts"
+        mainElements: "Large laboratory space with high ceilings, concrete floors, multiple workbenches"
+        atmosphere: "Scientific precision and innovation, bright fluorescent lighting, organized chaos of experimental equipment"
+    - id: "nevada_test_site"
+      name: "Nevada Test Site"
+      description_block: |
+        setting:
+          location: "Nevada Test Site, remote desert location 65 miles northwest of Las Vegas, Nevada"
+        mainElements: "Vast desert landscape with mountains in distance, concrete observation bunkers, steel towers"
+        atmosphere: "Isolated and barren, harsh desert conditions, sense of scientific importance and danger"
+    - id: "camera_control_bunker"
+      name: "Camera Control Bunker"
+      description_block: |
+        setting:
+          location: "Reinforced concrete observation bunker, Nevada Test Site"
+        mainElements: "Underground concrete structure with thick walls, control panels, monitoring equipment"
+        atmosphere: "Underground safety, tense anticipation, scientific focus mixed with military precision"
+    - id: "darkroom_facility"
+      name: "Darkroom Facility"
+      description_block: |
+        setting:
+          location: "Film development laboratory with chemical processing equipment"
+        mainElements: "Red-lit darkroom with enlargers, chemical baths, drying lines, developing trays"
+        atmosphere: "Controlled environment for sensitive film processing, anticipation of historic discoveries"
+  items:
+    - id: "rapatronic_camera"
+      name: "Rapatronic Camera"
+      description_block: |
+        details: "Large format camera with distinctive Kerr cell shutter system, metallic housing, thick optical lens assembly, electrical connections for timing control, mounted on heavy tripod base"
+    - id: "kerr_cell"
+      name: "Kerr Cell"
+      description_block: |
+        details: "Glass cylindrical optical component filled with nitrobenzene, metallic electrodes, electrical connections, housed within precision optical mount between polarizing filters"
+    - id: "polarizing_filters"
+      name: "Polarizing Filters"
+      description_block: |
+        details: "Two circular optical filters mounted perpendicular to each other, dark glass appearance, precision-machined mounting rings, integrated into camera lens assembly"
+    - id: "timing_control_unit"
+      name: "Timing Control Unit"
+      description_block: |
+        details: "Electronic control box with vacuum tubes, precision dials, timing circuits, multiple electrical connections, housed in military-grade metal casing"
+    - id: "camera_array"
+      name: "Camera Array"
+      description_block: |
+        details: "Multiple rapatronic cameras mounted on steel framework, sequential timing arrangement, heavy-duty tripods, electrical cables connecting each unit to central control"
+    - id: "nuclear_test_images"
+      name: "Nuclear Test Images"
+      description_block: |
+        details: "Black and white photographs showing spherical nuclear fireball with irregular surface patterns, dramatic light contrasts, scientific measurement scales, mounted on analysis boards"

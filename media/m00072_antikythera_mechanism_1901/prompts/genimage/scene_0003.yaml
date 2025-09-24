@@ -1,28 +1,31 @@
 sceneDescription:
   setting:
-    time: 1900, midday
-    location: Mediterranean underwater archaeological site, 45 meters deep off Point Glyphadia, Antikythera island, Greece
-    weather: Underwater scene with filtered sunlight penetrating to seabed
+    time: Spring 1900, morning
+    location: Athens government office or archaeological authority building, formal meeting room
+    weather: Clear Mediterranean spring morning
   characters:
-  - appearance: Greek man, 40s, weathered skin from sea work, dark hair and beard, strong build
-    clothing: 1900 Mediterranean diving gear with bronze helmet, or traditional Greek seafaring attire
-    position: Swimming near seabed examining scattered artifacts
-    action: Reaching toward corroded bronze object partially buried in sand
+  - appearance: Mediterranean Greek man in his 40s, weathered face from years at sea, strong build typical of diving captain,
+      dark beard and mustache
+    clothing: Traditional Greek fisherman's cap, heavy wool sweater, canvas trousers, leather boots - practical maritime clothing
+      of 1900
+    position: Standing confidently on deck or addressing officials
+    action: Leading diving operations or reporting discoveries to authorities
   scene:
-    mainElements: Ancient Roman shipwreck remains scattered across rocky seabed with bronze artifacts and amphorae
-    details: Ancient Roman cargo ship wreckage spread across Mediterranean seabed at 45-meter depth. Corroded bronze artifacts,
-      broken amphorae, ship's timber remains, and mysterious bronze mechanism partially visible among debris. Marine growth
-      covering ancient objects, schools of fish swimming through wreck site. Heavy bronze diving helmet with glass viewing
-      ports, air hose connection, polished metal surface reflecting Mediterranean sunlight, used for deep-sea sponge diving
-      and artifact recovery.
-    background: Rocky Mediterranean seabed with patches of sand, filtered sunlight creating dramatic underwater lighting effects
-    atmosphere: Mysterious underwater archaeological scene with filtered sunlight illuminating ancient treasures. Sense of
-      discovering something extraordinary from the ancient world.
+    mainElements: Formal government office with high ceilings and classical Greek architectural details. Captain holds bronze
+      statue arm as evidence, presenting to officials seated at wooden desk. Sunlight streams through tall windows illuminating
+      the corroded artifact.
+    details: Life-sized bronze arm from ancient Greek statue with green patina from sea corrosion, detailed musculature visible
+      despite corrosion, attached to fragment of torso or shoulder. Officials lean forward with interest, recognizing the
+      archaeological significance. Oil lamps and gas lighting supplement natural light. Period furniture and government documents
+      visible on desk, no text or letters visible.
+    background: Classical columns and marble architectural details typical of Greek government buildings, formal atmosphere
+      of official business
+    atmosphere: Momentous official recognition as the captain's discovery transforms from routine sponge diving into archaeological
+      breakthrough, tension between practical seafarer and academic officials
   composition:
-    cameraAngle: Underwater perspective showing diver and wreck site
-    focus: Diver discovering bronze mechanism among ancient wreckage
-    depth: 'Foreground: diver reaching for artifact, middle ground: scattered wreck debris, background: murky underwater depths,
-      no text or letters visible'
+    cameraAngle: Medium shot capturing interaction between captain and officials
+    focus: Bronze arm artifact being presented as proof of underwater archaeological treasure
+    depth: Captain with artifact in foreground, interested officials in middle ground, formal office architecture in background
 visualElements:
   colorPalette:
     primary:

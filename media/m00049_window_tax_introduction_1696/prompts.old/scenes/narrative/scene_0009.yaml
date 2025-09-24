@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Public Protest Against Window Tax"
+  setting:
+    time: "1850, morning"
+    location: "Parliament Square, Westminster, London, England"
+    weather: "Clear winter morning"
+  characters:
+    - appearance: "Diverse group of Caucasian men and women, 20s-60s, determined expressions, various social classes"
+      clothing: "Mix of working-class wool coats and middle-class dress, bonnets and top hats, winter cloaks"
+      position: "Gathered in organized crowd facing Parliament building"
+      action: "Holding wooden protest signs, raising fists in unified demonstration, chanting together"
+    - appearance: "Caucasian man, 40s, medium build, passionate expression, raised voice"
+      clothing: "Dark coat, simple hat, working-class attire"
+      position: "Standing on wooden crate above crowd"
+      action: "Gesturing emphatically toward Parliament while addressing assembled protesters"
+  scene:
+    mainElements: "Large organized crowd, Parliament building facade, protest signs on wooden poles, winter demonstration atmosphere"
+    details: "Wooden protest signs with simple symbols rather than readable text, Victorian-era Parliament building in background, horse-drawn carriages stopping to observe, uniformed police officers watching from distance, breath visible in cold air, cobblestone square, protesters from various social backgrounds united in cause, winter clothing and bundled figures"
+    background: "Impressive Gothic Revival Parliament building with iconic towers, busy London street traffic, official government buildings"
+    atmosphere: "Organized political demonstration with strong public sentiment, unified opposition to unpopular taxation, democratic protest in action, cold winter air energizing crowd, historical moment of social change, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from elevated perspective showing scale of demonstration"
+    focus: "Large crowd gathered in unified protest against window taxation"
+    depth: "Passionate protesters in foreground, organized crowd in middle ground, imposing Parliament building in background"

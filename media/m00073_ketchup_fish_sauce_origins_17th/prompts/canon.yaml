@@ -1,94 +1,108 @@
 canon:
   characters:
-    - id: "character_FM"
-      name: "Fujianese Merchant"
+    - id: "character_WD"
+      name: "Character WD"
       description_block: |
         characters:
-          - appearance: "Chinese man, 40s, weathered face from sea voyages, sharp intelligent eyes, lean build from travel"
-            clothing: "Dark blue silk tunic with traditional Chinese collar, wide-legged pants, fabric belt, worn leather boots"
-            posture: "Confident stance with hands often gesturing while explaining goods, experienced in trade negotiations"
-    - id: "character_BT"
-      name: "British Trader"
+          - appearance: "Weathered English seafaring man in his 30s, sun-darkened skin from years at sea, lean build, alert eyes"
+            clothing: "Practical 17th century sailor attire - canvas breeches, linen shirt, leather vest, worn boots, tricorn hat"
+            posture: "Alert and curious, taking detailed notes while observing Vietnamese fishermen at work"
+    - id: "character_JC"
+      name: "Character JC"
       description_block: |
         characters:
-          - appearance: "English man, 30s, pale complexion, brown hair, mustache, sturdy build, curious expression"
-            clothing: "17th century brown wool coat with brass buttons, white linen shirt, dark breeches, tall leather boots"
-            posture: "Attentive listener, often leaning forward with interest, notebook and quill frequently in hand"
-    - id: "character_VF"
+          - appearance: "Middle-aged English gentleman scholar in his 40s, clean-shaven, thoughtful expression, wire-rimmed spectacles"
+            clothing: "Dark wool coat with white linen collar, breeches, stockings, leather shoes typical of educated class in 1680s England"
+            posture: "Scholarly and methodical, bent over manuscripts with quill pen, surrounded by books and papers"
+    - id: "character_CL"
+      name: "Character CL"
+      description_block: |
+        characters:
+          - appearance: "Prosperous British merchant in his 40s, well-fed from successful trading, keen observant eyes, small wig"
+            clothing: "Quality merchant attire - dark blue coat with brass buttons, white stockings, leather shoes"
+            posture: "Business-like and practical, examining goods and taking inventory notes"
+    - id: "character_JM"
+      name: "Character JM"
+      description_block: |
+        characters:
+          - appearance: "American scientist in his 50s, precise appearance, wire-rimmed spectacles, methodical demeanor"
+            clothing: "Simple dark coat and breeches typical of early American professional class, white shirt with stock"
+            posture: "Experimental and curious, working with tomatoes and various ingredients in kitchen laboratory"
+    - id: "character_CWM"
+      name: "Character CWM"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Chinese man, weathered from sea travel, strong build, traditional queue hairstyle"
+            clothing: "Traditional Chinese merchant clothing - silk jacket, loose trousers, cloth shoes, wide-brimmed hat for sea travel"
+            posture: "Shrewd and experienced, negotiating deals while loading ceramic jars onto Chinese junks"
+    - id: "vietnamese_fisherman"
       name: "Vietnamese Fisherman"
       description_block: |
         characters:
-          - appearance: "Southeast Asian man, 50s, sun-darkened skin, strong arms from hauling nets, calm demeanor"
-            clothing: "Simple brown cotton shirt, rolled-up pants, wide conical hat, bare feet or simple sandals"
-            posture: "Steady movements from years of boat work, often holding or examining fish or fermentation vessels"
-    - id: "character_DF"
-      name: "Dutch Factor"
+          - appearance: "Vietnamese man in his 30s, lean muscular build from fishing work, sun-darkened skin, traditional hair tied back"
+            clothing: "Simple fishing garments - loose cotton pants, sleeveless tunic, conical hat, bare feet"
+            posture: "Skilled and methodical, working with fish and fermentation jars with practiced movements"
+    - id: "english_cook"
+      name: "English Cook"
       description_block: |
         characters:
-          - appearance: "Dutch man, 35s, blonde hair, fair skin, beard, merchant's shrewd eyes, solid build"
-            clothing: "Black wool coat with silver buttons, white ruffled collar, dark breeches, polished black shoes"
-            posture: "Authoritative bearing, often standing with hands clasped behind back, examining goods critically"
-    - id: "character_CC"
-      name: "Chinese Cook"
-      description_block: |
-        characters:
-          - appearance: "Chinese woman, 40s, efficient movements, hair in traditional bun, practical demeanor"
-            clothing: "Simple gray cotton tunic, wide pants, white apron, cloth shoes, sleeves often rolled up"
-            posture: "Busy hands always working, stirring, chopping, tasting, confident in kitchen environment"
+          - appearance: "Robust English woman in her 40s, flour-dusted apron, strong arms from kitchen work, alert expression"
+            clothing: "18th century kitchen attire - wool dress, white apron, cap covering hair, practical shoes"
+            posture: "Industrious and experimental, testing new recipes with mushrooms and various ingredients"
   locations:
-    - id: "fujian_coastal_village"
-      name: "Fujian Coastal Fishing Village"
+    - id: "phan_thiet_village"
+      name: "Phan Thiet Fishing Village"
       description_block: |
         setting:
-          location: "Traditional Chinese fishing village on Fujian coast, South China Sea, 17th century"
-        mainElements: "Wooden fishing boats with curved hulls, bamboo drying racks, stone quay, traditional houses with curved tile roofs"
-        atmosphere: "Bustling maritime activity with salt air and fish processing scents"
-    - id: "southeast_asian_port"
-      name: "Southeast Asian Trading Port"
+          location: "Coastal fishing village of Phan Thiết, Vietnam, 1650s"
+        mainElements: "Traditional Vietnamese bamboo houses on stilts, large ceramic fermentation jars, fishing nets drying on wooden poles, traditional fishing boats with distinctive curved prows beached on sandy shore"
+        atmosphere: "Strong aromatic fish scent from fermentation process, sea breeze carrying salt air, sounds of waves lapping shore and fishermen working"
+    - id: "batavia_port"
+      name: "Batavia Trading Port"
       description_block: |
         setting:
-          location: "Mekong River delta trading port, Vietnam, 17th century"
-        mainElements: "Stilted wooden houses over water, bamboo trading stalls, anchored junks and sampans, tropical vegetation"
-        atmosphere: "Humid tropical climate with vibrant trading activity and multicultural merchant interactions"
-    - id: "dutch_east_india_warehouse"
-      name: "Dutch East India Company Warehouse"
+          location: "Dutch colonial port city of Batavia (modern Jakarta), 1680s"
+        mainElements: "Stone Dutch fortress with VOC flags, wooden warehouses lining harbor, busy docks extending into water, Chinese junks with distinctive sails anchored alongside European ships"
+        atmosphere: "Humid tropical air filled with exotic spice aromas, multilingual shouting of merchants, creaking ship rigging, splash of harbor waves"
+    - id: "fujian_port"
+      name: "Xiamen Trading Port"
       description_block: |
         setting:
-          location: "VOC warehouse in Batavia (Jakarta), Dutch East Indies, 17th century"
-        mainElements: "Large stone warehouse with wooden beam ceiling, rows of ceramic jars and wooden crates, loading dock"
-        atmosphere: "Organized commercial efficiency with exotic spices and preserved goods from across Asia"
+          location: "Trading port of Xiamen (Amoy), Fujian Province, China, 1670s"
+        mainElements: "Traditional Chinese architecture with pagoda rooftops, stone warehouses, Chinese junks with bamboo-battened sails, ceramic workshops producing storage jars"
+        atmosphere: "Bustling marketplace sounds, incense smoke from nearby temples, dock workers shouting, harbor water lapping against stone quays"
+    - id: "london_study"
+      name: "Scholar's Study in London"
+      description_block: |
+        setting:
+          location: "Private study room in London residence, 1682"
+        mainElements: "Dark wood-paneled walls, floor-to-ceiling bookshelves filled with leather-bound volumes, large oak writing desk, leaded glass windows, stone fireplace"
+        atmosphere: "Quiet scholarly environment, smell of leather bindings and parchment, flickering candlelight, occasional crackling from fireplace"
     - id: "english_kitchen"
-      name: "17th Century English Kitchen"
+      name: "18th Century English Kitchen"
       description_block: |
         setting:
-          location: "Large kitchen in English manor house, England, late 17th century"
-        mainElements: "Stone fireplace with hanging pots, wooden preparation tables, shelves of ceramic jars, herbs hanging from beams"
-        atmosphere: "Warm and busy domestic environment with attempts to recreate exotic Asian flavors"
-    - id: "anchovy_fishing_ground"
-      name: "Anchovy Fishing Waters"
-      description_block: |
-        setting:
-          location: "Coastal waters near Mekong River delta, Vietnam, early morning"
-        mainElements: "Traditional fishing boats with nets, calm water reflecting sunrise, distant shoreline with palm trees"
-        atmosphere: "Peaceful dawn fishing with silvery water and abundant marine life"
+          location: "Large stone kitchen in English country house, 1720s-1730s"
+        mainElements: "Massive stone fireplace with hanging pots, wooden preparation tables, ceramic storage jars, hanging bundles of dried herbs, brick bread ovens"
+        atmosphere: "Warm from cooking fires, rich aromas of mushrooms and spices, busy household sounds, flickering firelight on stone walls"
   items:
-    - id: "ceramic_sauce_jar"
-      name: "Fermentation Jar"
+    - id: "ceramic_fish_jar"
+      name: "Vietnamese Fish Sauce Jar"
       description_block: |
-        details: "Large brown ceramic jar with narrow neck, cork stopper, dark liquid visible inside, traditional Chinese pottery with subtle glaze patterns"
-    - id: "fish_sauce_bottle"
-      name: "Glass Sauce Bottle"
+        details: "Large earthenware fermentation vessel, approximately 2 feet tall, brown glazed ceramic with wide mouth and fitted wooden lid, containing layers of anchovies and salt with dark brown liquid visible"
+    - id: "chamberlayne_book"
+      name: "Natural History Manuscript"
       description_block: |
-        details: "Clear glass bottle with cork stopper, amber-colored liquid inside, European-style bottle containing Asian fish sauce"
-    - id: "wooden_fermentation_vat"
-      name: "Wooden Fermentation Vat"
+        details: "Leather-bound book approximately 8x10 inches, yellowed pages with period typography, opened to page containing first English reference to 'ketchup'"
+    - id: "chinese_junk"
+      name: "Hokkien Trading Junk"
       description_block: |
-        details: "Large wooden barrel with metal bands, partially open lid showing dark fermenting fish mixture, strong aromatic contents"
-    - id: "dried_anchovies"
-      name: "Salted Anchovies"
+        details: "Large wooden sailing vessel 60-80 feet long, distinctive fan-shaped bamboo-battened sails, high stern castle, cargo hold filled with ceramic jars and wooden barrels"
+    - id: "mushroom_ketchup_bottle"
+      name: "English Mushroom Ketchup"
       description_block: |
-        details: "Small silver fish laid out on bamboo mats for drying, covered with coarse sea salt, traditional preservation method"
-    - id: "spice_trading_ledger"
-      name: "Merchant's Record Book"
+        details: "Dark glass bottle with cork stopper, containing thick brown-black liquid, hand-written paper label reading 'Mushroom Ketchup', wax seal around cork"
+    - id: "tomato_ketchup_jar"
+      name: "Early Tomato Ketchup"
       description_block: |
-        details: "Leather-bound ledger with brass clasps, thick parchment pages, quill pen and ink pot nearby, recording trade transactions"
+        details: "Clear glass jar with red-brown thick liquid, handwritten label indicating tomato ingredients, wooden spoon for testing, surrounded by fresh tomatoes"

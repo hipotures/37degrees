@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Late morning, 10:00 AM during school hours
+    location: Interior of Oymyakon's small school building, heated classroom with basic furnishings
+    weather: Outside temperature -63°C, school heated to comfortable indoor temperature
+  characters:
+  - appearance: Young Yakutian boy, 8 years old, bright curious eyes, round face typical of children in extreme cold
+    clothing: Small child's winter parka in bright colors, tiny mukluks, woolen hat with ear flaps
+    position: Sitting at wooden desk among other students
+    action: Writing in notebook, participating in geography lesson about Siberian climate
+  - appearance: Yakutian girl, 10 years old, alert expression, cheeks red from cold exposure
+    clothing: Thick winter coat with traditional patterns, fur-lined boots, knitted mittens
+    position: Seated at desk near wood-burning stove
+    action: Raising hand to answer teacher's question, studying maps on classroom wall
+  - appearance: Adult teacher, Yakutian woman, 35 years old, professional bearing despite remote location
+    clothing: Warm sweater and long skirt, indoor shoes, traditional jewelry
+    position: Standing at front of classroom near blackboard
+    action: Pointing to Siberian map, explaining geographic features of their region
+  scene:
+    mainElements: Wooden desks arranged in rows, blackboard with lessons, maps of Siberia on walls, heating stove
+    details: Simple wooden desks arranged for small class size, blackboard showing geographical lesson about local climate.
+      Maps of Siberia prominently displayed showing Oymyakon's location. Large wood-burning stove providing essential heat
+      for classroom. School supplies adapted for cold weather conditions. Windows showing bright snow outside contrasting
+      with warm interior.
+    background: Log construction typical of Siberian buildings, frost-covered windows showing extreme outdoor conditions,
+      educational materials about local geography and culture
+    atmosphere: Dedication to education despite harsh environment, children's determination to learn
+  composition:
+    cameraAngle: Medium shot from back of classroom showing teacher and students
+    focus: Classroom lesson in progress with teacher explaining local geography
+    depth: Students at desks in foreground, teacher and blackboard in middle ground, maps and windows in background, no text
+      or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

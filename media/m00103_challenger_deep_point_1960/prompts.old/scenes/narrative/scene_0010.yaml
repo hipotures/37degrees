@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Historic Return to Surface"
+  setting:
+    time: "January 23, 1960, late afternoon ascent and evening surface arrival"
+    location: "Pacific Ocean surface above Mariana Trench, USS Wandank recovery area"
+    weather: "Evening Pacific conditions with support vessels standing by for recovery"
+  characters:
+    - appearance: "Swiss man, 40s, tall and lean build, intelligent dark eyes, wavy dark hair"
+      clothing: "1960s thick woolen sweater over collared shirt, heavy winter jacket during surface operations"
+      position: "Emerging from Trieste crew cabin after historic dive"
+      action: "Stepping onto deck with visible exhaustion and triumph from record-breaking achievement"
+    - appearance: "American man, 30s, military bearing, short-cropped hair, alert expression"
+      clothing: "US Navy uniform with lieutenant insignia, or heavy weather gear during operations"
+      position: "Joining surface crew after successful deep ocean mission"
+      action: "Greeting support crew and beginning post-dive debriefing procedures"
+    - appearance: "Mixed group of men, 20s-50s, various builds, serious expressions"
+      clothing: "1960s naval uniforms, heavy weather jackets, safety gear during operations"
+      position: "Gathered on deck around recovered Trieste bathyscaphe"
+      action: "Assisting with submersible recovery and celebrating historic achievement"
+  scene:
+    mainElements: "Trieste bathyscaphe secured on USS Wandank deck after successful recovery, Pacific Ocean surface at evening, support vessels visible on horizon, crew celebrating deepest human dive in history"
+    details: "Swiss-designed bathyscaphe showing stress marks from extreme pressure but intact structure, thick metal construction and spherical crew cabin having withstood crushing depths, small porthole windows including cracked but functional observation window, external lights and equipment that illuminated deepest seafloor, analog instruments having recorded unprecedented depth measurements, brass fittings and manual controls that performed perfectly under extreme conditions"
+    background: "Pacific Ocean horizon at evening with setting sun, support vessels completing recovery operations, sense of return to surface world after visiting Earth's most remote location"
+    atmosphere: "Historic triumph and scientific achievement, international cooperation between Swiss engineering and US Navy operations, exhaustion mixed with excitement from groundbreaking exploration, professional satisfaction of successful mission completion, beginning of new era in deep ocean exploration, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing complete recovery operation and celebration"
+    focus: "Successful crew emergence and recovered Trieste bathyscaphe"
+    depth: "Foreground shows crew reunion on deck, middle shows recovered submersible, background shows Pacific evening horizon"

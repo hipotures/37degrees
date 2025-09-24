@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Research Planning at University Laboratory"
+  setting:
+    time: "August 1962, late morning"
+    location: "University of Oklahoma medical research laboratory, sterile indoor environment"
+    weather: "Clear summer day outside laboratory windows"
+  characters:
+    - appearance: "Caucasian man, 40s, medium build, receding dark hair, serious expression, wire-rimmed glasses"
+      clothing: "1960s white lab coat over dark suit and tie, or gray flannel suit with narrow tie"
+      position: "Standing at metal examination table with documents spread out"
+      action: "Pointing at research papers and charts while explaining experiment protocol"
+    - appearance: "African American man, 30s, stocky build, kind face, concerned expression"
+      clothing: "1960s white lab coat over dark sweater vest and tie, or tan suit jacket"
+      position: "Seated at laboratory desk, leaning forward attentively"
+      action: "Taking notes on clipboard while listening to experiment details"
+  scene:
+    mainElements: "White-tiled walls, metal examination tables, glass cabinets with medical equipment, research documents and charts spread across table surface"
+    details: "Scientific journals open to articles about elephants and behavior, glass vials arranged in metal rack, measuring equipment and syringes laid out systematically, fluorescent lighting casting sharp shadows on documents, stopwatch and medical instruments visible on counter, no text or letters visible"
+    background: "Laboratory equipment including microscopes and centrifuge, medical reference books on shelves, large windows showing Oklahoma summer landscape"
+    atmosphere: "Clinical, fluorescent lighting, antiseptic smell, serious research environment with sense of anticipation and scientific purpose"
+  composition:
+    cameraAngle: "Medium shot from slight high angle, capturing both researchers and laboratory setup"
+    focus: "Research documents and discussion between the two main characters"
+    depth: "Foreground shows detailed medical equipment, middle ground features the researchers in discussion, background displays laboratory infrastructure and windows"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "American Military Landing - Captain Pickett Arrives"
+  setting:
+    time: "August 1859, morning"
+    location: "Griffin Bay landing site, southern San Juan Island"
+    weather: "Clear summer morning with calm waters"
+  characters:
+    - appearance: "American man, 34, dark mustache, slender military bearing, intense eyes"
+      clothing: "US Army blue uniform with captain's bars, peaked military cap, black leather belt with sword"
+      position: "Standing on beach directing troop landing"
+      action: "Military precision, directing soldiers disembarking from boats with authority"
+  scene:
+    mainElements: "US Army soldiers landing from military boats, establishing beachhead on island shore"
+    details: "Military landing boats pulled up on rocky beach, 66 US Infantry soldiers in blue uniforms disembarking with rifles and equipment, officers shouting orders, supplies being unloaded including artillery pieces, American flag being raised on temporary pole"
+    background: "High windswept meadow on southern end of San Juan Island overlooking Griffin Bay, forested hills beyond landing area"
+    atmosphere: "Military escalation of civilian dispute, American determination to assert territorial claims, transformation of peaceful island into potential battlefield, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing military landing operation"
+    focus: "American military force establishing presence on disputed territory"
+    depth: "Landing boats and soldiers on beach in foreground, island terrain in middle ground, surrounding waters in background"

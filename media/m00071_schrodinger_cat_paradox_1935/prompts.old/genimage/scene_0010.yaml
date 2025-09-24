@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: 1935, early morning following publication
+    location: Academic conference room, European university, 1935
+    weather: Bright morning light through tall windows
+  characters:
+  - appearance: Austrian physicist, 50s, tall slender build, high forehead, thoughtful dark eyes behind wire-rimmed glasses,
+      salt-and-pepper hair neatly combed
+    clothing: 1930s dark wool suit with vest, white collared shirt, simple tie, or white laboratory coat over shirt and trousers
+    position: Standing before assembled group of physicists, hands gesturing toward blackboard
+    action: Presenting the thought experiment conclusions to academic colleagues, expression showing confidence in theoretical
+      breakthrough
+  - appearance: German-American physicist, 50s, wild white hair, expressive dark eyes, distinctive mustache, kindly weathered
+      face
+    clothing: Casual 1930s attire, rumpled sweater or cardigan over shirt, often without tie, sometimes formal suit for meetings
+    position: Seated in front row, leaning forward with interest
+    action: Listening with renewed appreciation for the paradox, nodding with understanding and approval
+  - appearance: Danish physicist, 50s, medium build, receding hairline, intense pale eyes, clean-shaven, intellectual countenance
+    clothing: Formal 1930s attire, dark suit with vest, bow tie or regular tie, well-groomed appearance
+    position: Standing against side wall with arms folded
+    action: Observing the presentation with thoughtful consideration, recognizing the significance for quantum mechanics interpretation
+  scene:
+    mainElements: Large oval wooden table with chairs, blackboard on wall, bookshelves with physics texts, formal academic
+      setting
+    details: Large slate blackboard with quantum mechanics equations written in white chalk, wave function symbols and mathematical
+      notation showing the complete thought experiment formulation. Stack of typewritten scientific papers and journals from
+      1930s, some with handwritten notes, scattered on desk or table. Morning light creating clear illumination of academic
+      discussion. Multiple physicists seated around conference table showing engaged interest.
+    background: Tall windows with bright morning light, additional blackboards with supporting physics equations, portrait
+      paintings of notable scientists observing the historic discussion
+    atmosphere: Serious intellectual discourse environment with natural lighting from tall windows. Atmosphere of scientific
+      breakthrough and recognition of paradigm-shifting theoretical contribution to quantum mechanics.
+  composition:
+    cameraAngle: Wide shot capturing presenter and audience of physicists
+    focus: Physicist presenting quantum paradox conclusions to assembled academic colleagues
+    depth: Foreground shows conference table with papers, middle ground features presenter and seated physicists, background
+      reveals morning conference room with scientific atmosphere, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

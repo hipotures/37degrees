@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1925, spring
+    location: Same valley, showing transition from temporary camp to permanent structures
+    weather: Spring conditions, still cold but showing seasonal change, snow beginning to soften
+  characters:
+  - appearance: Weather-beaten face with high cheekbones, Asian features typical of Sakha/Evenk peoples, middle-aged, lean
+      build
+    clothing: Traditional fur parka (malitsa), reindeer skin boots, fur mittens, traditional hat with ear protection, layered
+      clothing system
+    position: Near reindeer or thermal springs, positioned for survival and animal care
+    action: Stoic endurance, moving with practiced efficiency in extreme cold, concerned about reindeer welfare, traditional
+      survival activities
+  - appearance: Younger man in his 30s, clean-shaven, pale complexion, urban background evident
+    clothing: Standard Soviet winter coat, military-style winter hat, leather boots, less sophisticated cold weather gear
+      than locals
+    position: Standing with notebook or observing settlement activities
+    action: Ideologically driven, somewhat out of place in extreme environment, taking notes for bureaucratic reports
+  scene:
+    mainElements: Mix of traditional temporary structures and new permanent buildings, reindeer still present but settlement
+      infrastructure developing
+    details: Traditional chums (tent-like structures) alongside newer log cabin construction, wooden sleds, leather harnesses,
+      traditional tools for ice fishing and hunting, rope made from sinew mixed with Soviet-era building materials, herder
+      adapting to settlement life while maintaining traditional practices, official overseeing settlement development, natural
+      hot springs creating steam in frozen landscape, surrounded by ice formations now being incorporated into permanent settlement
+      planning, no text or letters visible
+    background: Same mountain valley but showing human modification for permanent habitation
+    atmosphere: Transition period showing adaptation and change, loss of nomadic freedom balanced against survival security
+  composition:
+    cameraAngle: Wide shot showing transformation of the landscape and lifestyle
+    focus: Contrast between traditional and permanent structures, changing way of life
+    depth: Foreground new construction, middle ground figures adapting to change, background unchanging mountain landscape
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

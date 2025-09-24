@@ -4,70 +4,93 @@ canon:
       name: "Character LM"
       description_block: |
         characters:
-          - appearance: "American man, 60s, distinguished engineer appearance, gray hair, authoritative bearing"
-            clothing: "1940s formal engineering suit with tie, carrying rolled engineering plans"
-            posture: "Professional engineering confidence, often studying bridge plans or pointing at structures"
+          - appearance: "67-year-old distinguished gentleman with graying hair and serious demeanor, medium build, wire-rimmed glasses"
+            clothing: "1940s dark wool business suit, white shirt, conservative tie, polished leather shoes, often carrying briefcase with engineering documents"
+            posture: "Confident and authoritative bearing of accomplished professional, speaks with slight accent"
+    - id: "character_CE"
+      name: "Character CE"
+      description_block: |
+        characters:
+          - appearance: "44-year-old tall lanky man with angular features, thinning dark hair combed back, earnest expression"
+            clothing: "Gray flannel trousers, white shirt with sleeves rolled up, plain tie, sturdy work boots suitable for construction sites"
+            posture: "Methodical and careful, speaks with conviction about engineering principles"
     - id: "character_LC"
       name: "Character LC"
       description_block: |
         characters:
-          - appearance: "American man, 35, newspaper reporter appearance, concerned expression, medium build"
-            clothing: "1940s business suit with press hat, carrying briefcase and notepad"
-            posture: "Urgent civilian behavior, often running or looking back at collapsing bridge with alarm"
-    - id: "character_HC"
-      name: "Character HC"
+          - appearance: "40s well-groomed man with dark hair, average build, expressive face capable of conveying emotion"
+            clothing: "1940s brown suit, white shirt, patterned tie, leather shoes, overcoat for November weather"
+            posture: "Articulate newspaper editor with composed demeanor despite traumatic experience"
+    - id: "character_FF"
+      name: "Character FF"
       description_block: |
         characters:
-          - appearance: "American man, 40s, professional photographer bearing, alert eyes, steady hands"
-            clothing: "1940s casual attire with photographer's vest, carrying camera equipment"
-            posture: "Documentary focus, often crouched with camera or adjusting photographic equipment"
-    - id: "bridge_worker"
-      name: "Bridge Construction Worker"
+          - appearance: "Middle-aged academic with scholarly appearance, round spectacles, practical demeanor suited to field research"
+            clothing: "Wool jacket over sweater vest, sturdy trousers, leather shoes with good traction, carrying camera equipment"
+            posture: "Methodical scientist, unafraid to risk personal safety for research, shows genuine concern for welfare"
+    - id: "character_BE"
+      name: "Character BE"
       description_block: |
         characters:
-          - appearance: "American man, 30s, construction worker build, weathered hands, experienced expression"
-            clothing: "1940s work clothes with hard hat, tool belt, sturdy boots"
-            posture: "Industrial worker stance, often pointing at bridge movement or discussing structural problems"
+          - appearance: "38-year-old man with medium build, steady hands essential for camera work, alert eyes trained to spot dramatic moments"
+            clothing: "Dark jacket with multiple pockets for film and equipment, comfortable shoes for quick movement"
+            posture: "Professional calm under pressure, instinctive sense for historic moments"
+    - id: "character_HM"
+      name: "Character HM"
+      description_block: |
+        characters:
+          - appearance: "Alert photographer always prepared for unexpected events, carries himself with professional confidence"
+            clothing: "Practical dark clothing with equipment pockets, always keeps camera nearby and loaded with film"
+            posture: "Known for being constantly ready with camera, demonstrates remarkable foresight"
+
   locations:
-    - id: "tacoma_narrows"
-      name: "Tacoma Narrows Strait"
+    - id: "tacoma_narrows_bridge_1940"
+      name: "Original Tacoma Narrows Suspension Bridge"
       description_block: |
         setting:
-          location: "Puget Sound waterway between Tacoma and Gig Harbor, Washington"
-        mainElements: "Deep blue waters of Puget Sound with forested shores on both sides"
-        atmosphere: "Pacific Northwest maritime environment with dramatic geography and frequent winds"
-    - id: "bridge_roadway"
-      name: "Tacoma Narrows Bridge Deck"
+          location: "Suspension bridge spanning Tacoma Narrows strait of Puget Sound, Washington, suspended 190 feet above water"
+        mainElements: "2,800-foot center span, two 425-foot tall towers, shallow 8-foot plate girders, elegant Art Deco styling"
+        atmosphere: "Notoriously flexible structure with visible undulations in wind, nicknamed 'Galloping Gertie', both beautiful and ominous"
+    - id: "tacoma_narrows_strait"
+      name: "Tacoma Narrows Waterway"
       description_block: |
         setting:
-          location: "Roadway surface of suspended bridge spanning Tacoma Narrows"
-        mainElements: "Narrow bridge deck with center line, suspension cables, roadway surface"
-        atmosphere: "Engineering marvel becoming death trap, concrete and steel structure in violent motion"
-    - id: "bridge_approach"
-      name: "Bridge Approach Area"
+          location: "Narrow channel of Puget Sound between Olympic Peninsula and mainland Washington, natural wind tunnel"
+        mainElements: "Deep cold water 125-190 feet deep, rocky shorelines, forested hills on both sides creating wind acceleration"
+        atmosphere: "November 7, 1940 conditions: gray overcast sky, 42 mph southwest winds, choppy water, cold blustery weather"
+    - id: "camera_shop_tacoma"
+      name: "The Camera Shop, Tacoma"
       description_block: |
         setting:
-          location: "Land approach to Tacoma Narrows Bridge from Tacoma side"
-        mainElements: "Road leading to bridge entrance, observation areas, emergency vehicles"
-        atmosphere: "Safe viewing area for witnesses to observe bridge disaster from distance"
+          location: "Small commercial photography business in downtown Tacoma, Washington"
+        mainElements: "Shop filled with camera equipment, darkroom facilities, Bell & Howell 16mm cameras, expensive Kodachrome film stock"
+        atmosphere: "Professional photography studio with smell of developing chemicals, organized workspace with technical equipment"
+    - id: "university_washington_wind_tunnel"
+      name: "University of Washington Wind Tunnel Laboratory"
+      description_block: |
+        setting:
+          location: "Purpose-built laboratory facility on University of Washington campus, Seattle"
+        mainElements: "Large wind tunnel capable of housing scale models, sophisticated measurement equipment, observation areas"
+        atmosphere: "Scientific research environment with controlled conditions, contrast to chaotic real-world conditions"
+
   items:
-    - id: "suspension_cables"
-      name: "Bridge Suspension System"
+    - id: "coatsworth_car_tubby"
+      name: "Abandoned Car with Dog"
       description_block: |
-        details: "Massive steel suspension cables and vertical hangers supporting bridge deck, towers and anchors"
-    - id: "bridge_deck"
-      name: "Bridge Roadway Deck"
+        details: "1940s sedan sliding violently across bridge deck during oscillations, black cocker spaniel with three functional legs trapped inside, car loaded with equipment from beach house"
+    - id: "elliott_monroe_cameras"
+      name: "Professional Film Cameras"
       description_block: |
-        details: "Narrow 39-foot-wide roadway with shallow 8-foot plate girders, center line markings"
-    - id: "coatsworth_car"
-      name: "Abandoned Automobile"
+        details: "Bell & Howell 16mm cameras loaded with expensive Kodachrome color film, Elliott filming at 16 fps, Monroe at 24 fps"
+    - id: "farquharson_wind_tunnel_model"
+      name: "Bridge Scale Models"
       description_block: |
-        details: "1940s sedan left on bridge during collapse, tilting with roadway movement"
-    - id: "tubby_dog"
-      name: "Three-legged Cocker Spaniel"
+        details: "1:200 scale model of complete bridge and 1:20 scale section model for wind tunnel testing, built for studying oscillation behavior"
+    - id: "broken_cable_band"
+      name: "Failed Steel Cable Band"
       description_block: |
-        details: "Small brown and white cocker spaniel trapped in abandoned car during bridge collapse"
-    - id: "camera_equipment"
-      name: "Documentary Camera"
+        details: "Steel cable band at mid-span designed to secure suspension cables, slipped under extreme torsional stress with audible crack at 11:00 AM"
+    - id: "moisseiff_engineering_documents"
+      name: "Deflection Theory Documents"
       description_block: |
-        details: "1940s professional camera equipment capturing historic engineering disaster"
+        details: "Engineering calculations and design philosophy promoting flexible suspension bridge design based on revolutionary theory"

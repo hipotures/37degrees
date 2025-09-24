@@ -1,0 +1,50 @@
+COBRA STYLE YAML FILE ANALYSIS REPORT
+=====================================
+
+File: /home/xai/DEV/37degrees/config/prompt/graphics-styles/cobra-style.yaml
+
+CRITICAL ISSUES FOUND:
+
+1. INCORRECT STYLE NAME
+   - Current: "COBRA" (all caps)
+   - Should be: "CoBrA Style" or "Cobra Style"
+   - The movement name is officially "CoBrA" (Copenhagen-Brussels-Amsterdam) with specific capitalization
+
+2. MISSING HISTORICAL CONTEXT IN DESCRIPTION
+   - Current description lacks the full name meaning (Copenhagen-Brussels-Amsterdam)
+   - Missing founding year (1948) and dissolution (1951)
+   - Should emphasize it was a reaction against both naturalism and sterile abstraction
+
+3. INCOMPLETE ARTIST REFERENCES
+   - Missing key founders: Constant, Corneille, Christian Dotremont
+   - Only mentions Karel Appel and Asger Jorn in basePrompt
+   - Pierre Alechinsky was a later member, not a founder
+
+4. STRUCTURAL COMPLETENESS ✓
+   - All required fields are present
+   - Follows the template format correctly
+   - Has proper YAML structure
+
+5. CONTENT ACCURACY ISSUES
+   - Description captures the main characteristics well
+   - "Violent colors" terminology is appropriate and accurate
+   - Childlike and primitive art references are correct
+   - Spontaneity and experimentation themes are accurate
+
+6. TECHNICAL INCONSISTENCIES
+   - Lighting section correctly states "none (non-representational)" - this is accurate
+   - Perspective section correctly notes flattened, childlike perspective
+   - Color palette descriptions match historical CoBrA characteristics
+
+7. PROMPT EFFECTIVENESS
+   - basePrompt includes relevant style keywords
+   - negativePrompt appropriately excludes opposing styles
+   - styleKeywords list is comprehensive and accurate
+
+RECOMMENDATIONS:
+1. Change styleName to "CoBrA Style"
+2. Expand description to include full movement name and years (1948-1951)
+3. Add missing founding members to stylePrecedents
+4. Consider adding reference to the movement's anti-rationalist philosophy
+
+OVERALL ASSESSMENT: The file has good structural integrity and mostly accurate content, but needs corrections to the style name and some historical details for complete accuracy.

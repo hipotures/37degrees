@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First successful test of the mechanical monk's movement"
+  setting:
+    time: "1563, morning"
+    location: "Stone-walled Renaissance workshop in Toledo, Spain, with vaulted ceiling and tall windows"
+    weather: "Bright morning sunlight flooding through tall windows"
+  characters:
+    - appearance: "Italian man, 50s, graying beard, intense focused eyes, calloused hands from metalwork"
+      clothing: "Renaissance brown leather apron over white linen shirt, dark wool hose, leather boots"
+      position: "Kneeling beside his workbench, watching intently"
+      action: "Observing the automaton's first movements with amazement and satisfaction"
+    - appearance: "Franciscan monk figure, 38cm tall, carved wooden head with tonsured crown, serene expression"
+      clothing: "Brown Franciscan robes, rope belt with knots, simple sandals"
+      position: "Walking in square pattern on cleared workshop floor"
+      action: "Walking, striking chest, raising cross, nodding head in prayer gestures"
+  scene:
+    mainElements: "The completed mechanical monk demonstrates its full repertoire of movements while the creator watches with wonder"
+    details: "38cm tall clockwork figure with wooden head, brown Franciscan robes, hidden brass mechanisms beneath clothing, small wooden cross and rosary in left hand, wind-up key in back performs its programmed sequence. The figure walks in precise square patterns while striking its chest with right arm, raising and lowering the wooden cross, turning and nodding its head, and bringing the cross to its lips. Every movement flows smoothly from the hidden clockwork"
+    background: "Wooden workbenches covered with clockwork mechanisms, brass gears, springs, and precision tools frame the miraculous demonstration"
+    atmosphere: "Triumph and wonder as mechanical perfection achieves spiritual purpose, years of precise craftsmanship culminating in artificial devotion made manifest"
+  composition:
+    cameraAngle: "Wide shot capturing both the walking automaton and amazed craftsman"
+    focus: "The mechanical monk in full operation, demonstrating its remarkable range of movement"
+    depth: "Foreground: the walking automaton performing its sequence; middle: the kneeling craftsman in amazement; background: workshop equipment and bright windows, no text or letters visible"

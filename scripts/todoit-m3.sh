@@ -15,8 +15,8 @@
 # - Pozostaw puste aby przetworzyć wszystkie media
 # - Ustaw liczby aby ograniczyć zakres (np. od 1 do 7)
 
-MEDIA_START_RANGE="17"      # Początek zakresu (np. 1 dla m00001_xxx)
-MEDIA_END_RANGE="30"        # Koniec zakresu (np. 7 dla m00007_xxx)
+MEDIA_START_RANGE="37"      # Początek zakresu (np. 1 dla m00001_xxx)
+MEDIA_END_RANGE="85"        # Koniec zakresu (np. 7 dla m00007_xxx)
 
 # =============================================================================
 # ŁADOWANIE BIBLIOTEKI I INICJALIZACJA
@@ -131,6 +131,7 @@ check_repeated_scene() {
     local list_key="$1"
     local scene_key="$2"
 
+    rm -f /tmp/todoit-m3-last-scenes.txt  #### REMOVE !!!!!!!!!!!!
     # Sprawdź czy plik istnieje
     if [ ! -f "$LAST_SCENE_FILE" ]; then
         return 1  # Plik nie istnieje - pierwsza próba

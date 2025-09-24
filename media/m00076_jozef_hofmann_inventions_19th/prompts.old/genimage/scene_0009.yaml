@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1920, afternoon, bright day
+    location: Private workshop laboratory, early 20th century, filled with mechanical equipment and tools
+    weather: Bright afternoon with excellent natural light
+  characters:
+  - appearance: Polish man, 44 years old, slender build, intense dark eyes, intelligent expression, showing satisfaction and
+      financial security
+    clothing: Business attire combined with work clothes - white shirt with sleeves rolled up, formal vest, no jacket, reflecting
+      both professional and workshop activities
+    position: Standing at desk examining business correspondence and mechanical prototypes
+    action: Reviewing financial documents and royalty statements while surrounded by successful inventions, comparing invention
+      profits to concert earnings
+  scene:
+    mainElements: Desk covered with official patent papers with detailed technical drawings, business correspondence, mechanical
+      prototypes including windshield wiper and shock absorber models, financial ledgers and royalty statements
+    details: Multiple patent documents rolled and tied with ribbons, prototype inventions displayed on shelves, business letters
+      and contracts scattered on desk, mechanical models of successful inventions, cash box with currency, accounting ledgers,
+      ink well and fountain pen, various successful mechanical devices, no text or letters visible
+    background: Workshop displaying years of successful inventions, shelves lined with prototypes and patent models, combination
+      office and laboratory space
+    atmosphere: Financial triumph and vindication of dual career choice, satisfaction that mechanical innovation provides
+      greater financial reward than concert performance, pride in practical contributions to society
+  composition:
+    cameraAngle: Medium shot from above desk level, showing overview of success
+    focus: Character JH surrounded by evidence of commercial and innovative success, comparing different income sources
+    depth: 'Foreground: financial documents and royalty evidence, middle ground: successful invention prototypes, background:
+      workshop filled with years of innovative achievements, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

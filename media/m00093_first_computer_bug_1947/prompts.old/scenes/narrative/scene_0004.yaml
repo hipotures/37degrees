@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Moment of Discovery - Moth in Relay 70"
+  setting:
+    time: "September 9, 1947, 4:00 PM"
+    location: "Inside Panel F of Harvard Mark II computer, Relay 70 contacts"
+    weather: "Warm laboratory environment from computer operation"
+  characters:
+    - appearance: "Man, 50s, stocky build, graying hair, weathered hands from technical work, mustache"
+      clothing: "Gray technician's coveralls, white undershirt, work boots, tool belt with various instruments"
+      position: "Leaning close to relay contacts with magnifying glass"
+      action: "Discovering moth trapped between electrical contacts using precision tweezers and magnification"
+    - appearance: "Woman, early 40s, medium height, brown hair styled in 1940s fashion, intelligent keen eyes behind wire-rim glasses"
+      clothing: "Navy uniform with lieutenant rank insignia, dark blue jacket with brass buttons, white collared shirt, knee-length skirt, sensible black shoes"
+      position: "Peering over technician's shoulder to observe discovery"
+      action: "Witnessing historic moment while preparing to document finding in maintenance log"
+  scene:
+    mainElements: "Close view of electrical relay contacts with moth clearly visible trapped between copper connections"
+    details: "Small brown moth with delicate wings trapped between electrical relay contacts, approximately 2 inches wingspan, clearly visible against metal components, precision metal tweezers approaching carefully, circular magnifying glass focusing on discovery"
+    background: "Intricate mechanical relay contacts, copper wiring, vacuum tubes, electrical connections, metal framework of computer interior"
+    atmosphere: "Moment of breakthrough discovery solving computer malfunction, mixture of relief and amazement at finding literal bug"
+  composition:
+    cameraAngle: "Extreme close-up focusing on moth trapped in relay contacts"
+    focus: "Moth discovery in Relay 70 contacts with technician carefully extracting using precision tools"
+    depth: "Moth and relay contacts in sharp foreground focus, investigators in middle ground, computer framework in soft background, no text or letters visible"

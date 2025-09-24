@@ -1,33 +1,33 @@
 sceneDescription:
   setting:
-    time: 1928 September 3rd, afternoon
-    location: St Mary's Hospital Bacteriology Laboratory, Paddington, London
+    time: Early 1929, evening
+    location: Small cramped laboratory on upper floor of Clarence Wing, St. Mary's Hospital, Paddington, London
+    weather: Cold London winter evening
   characters:
-  - appearance: Scottish man, 47 years old, average height, lean build, receding dark hair, thoughtful brown eyes, clean-shaven
-    clothing: 1920s white laboratory coat over dark suit with vest and tie, or dark wool suit with waistcoat
-    position: Standing at laboratory bench holding contaminated culture plate
-    action: Showing contaminated culture to colleague, explaining the unusual bacterial inhibition
-  - appearance: Young British man, early 30s, medium build, neat brown hair, clean-shaven, alert expression
-    clothing: 1920s laboratory assistant attire - white coat over shirt and tie, or dark suit with vest
-    position: Standing beside character AF examining the culture plate closely
-    action: Studying the contaminated culture with scientific interest and recognition
+  - appearance: 47-year-old Scottish man, short stature, round face with receding hairline, bright observant eyes, typically
+      serious expression
+    clothing: Dark three-piece suit typical of 1928 academics, white collared shirt, characteristic bow tie, dark leather
+      shoes, occasionally white laboratory coat over formal attire
+    position: Seated at laboratory desk with writing materials
+    action: Writing scientific manuscript, referring to experimental notes, organizing research findings for publication
   scene:
-    mainElements: Glass petri dish with bacterial colonies, central blue-green mold growth with clear zone around it where
-      bacteria have been killed
-    details: Character AF holding contaminated petri dish between both researchers for examination, distinctive Penicillium
-      notatum mold with surrounding clear bacterial inhibition zone clearly visible, Character MP examining the phenomenon
-      with scientific curiosity, laboratory bench with other culture plates for comparison, brass microscope ready for detailed
-      analysis, laboratory notebook open for recording observations, natural afternoon light optimal for culture examination,
-      no text or letters visible
-    background: Active laboratory environment with scientific equipment, other researchers working at distant benches, institutional
-      hospital setting
-    atmosphere: Shared scientific excitement, professional discussion of unusual findings, recognition of significant discovery
-      potential
+    mainElements: Wooden laboratory benches cluttered with glass Petri dishes, basic microscopes, gas burners, glass laboratory
+      equipment, culture plates scattered across surfaces, shelving with bottles and specimens
+    details: Character AF seated at wooden desk within laboratory setting, surrounded by preserved culture plates showing
+      penicillin effects, leather-bound laboratory notebook with handwritten entries in ink opened for reference, multiple
+      sheets of manuscript pages being written, ink well and fountain pen, preserved specimens of the original contaminated
+      culture, research photographs of bacterial inhibition zones, gas lamp providing additional lighting for detailed writing
+      work, systematic documentation of experimental procedures and results
+    background: Laboratory equipment and shelving, preserved culture plates displaying the discovery, evening light through
+      Victorian windows supplemented by gas lighting
+    atmosphere: Cool September morning light filtering through tall Victorian windows, humid conditions, dusty academic atmosphere,
+      quiet except for occasional footsteps in corridor
   composition:
-    cameraAngle: Medium shot showing both researchers examining the discovery together
-    focus: Character AF and character MP studying the contaminated culture plate with bacterial inhibition zone
-    depth: Foreground emphasizes the critical culture plate examination, middle ground shows both researchers engaged in scientific
-      discussion, background provides laboratory context
+    cameraAngle: Over-the-shoulder shot showing Character AF's writing workspace
+    focus: Character AF's hands writing manuscript with preserved culture plates and research notes nearby
+    depth: Foreground shows manuscript pages and writing materials in detail, middle ground captures Character AF's concentrated
+      writing posture with research materials, background reveals laboratory setting with preserved evidence of the discovery,
+      no text or letters visible
 visualElements:
   colorPalette:
     primary:

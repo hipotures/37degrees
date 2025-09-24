@@ -1,0 +1,65 @@
+canon:
+  characters:
+    - id: "character_JT"
+      name: "Character JT"
+      description_block: |
+        characters:
+          - appearance: "Italian man, 50s, graying beard, intense focused eyes, calloused hands from metalwork"
+            clothing: "Renaissance brown leather apron over white linen shirt, dark wool hose, leather boots"
+            posture: "Bent over workbench, precise hand movements, scholarly concentration"
+    - id: "character_PII"
+      name: "Character PII"
+      description_block: |
+        characters:
+          - appearance: "Spanish king, 40s, pale complexion, dark hair, penetrating gaze, regal bearing"
+            clothing: "Black velvet doublet with gold embroidery, white ruff collar, dark cape with royal insignia"
+            posture: "Authoritative stance, hands clasped behind back or gesturing commandingly"
+    - id: "character_DC"
+      name: "Character DC"
+      description_block: |
+        characters:
+          - appearance: "Spanish prince, 17 years old, pale from illness, bandaged head, weak but recovering"
+            clothing: "White nightgown or simple court attire, blankets when bedridden"
+            posture: "Lying in bed or sitting weakly, supported by pillows"
+    - id: "character_DA"
+      name: "Character DA"
+      description_block: |
+        characters:
+          - appearance: "Franciscan monk figure, 38cm tall, carved wooden head with tonsured crown, serene expression"
+            clothing: "Brown Franciscan robes, rope belt with knots, simple sandals"
+            posture: "Walking, striking chest, raising cross, nodding head in prayer gestures"
+  locations:
+    - id: "main_location_workshop"
+      name: "Clockmaker's Workshop"
+      description_block: |
+        setting:
+          location: "Stone-walled Renaissance workshop in Toledo, Spain, with vaulted ceiling and tall windows"
+        mainElements: "Wooden workbenches covered with clockwork mechanisms, brass gears, springs, and precision tools"
+        atmosphere: "Industrious concentration, golden afternoon light streaming through windows, scent of metal and oil"
+    - id: "main_location_palace"
+      name: "Spanish Royal Palace"
+      description_block: |
+        setting:
+          location: "Alcázar of Madrid royal palace chambers with high ceilings, tapestried walls, marble floors"
+        mainElements: "Ornate furniture, religious paintings, candelabras, rich carpets, large windows overlooking courtyards"
+        atmosphere: "Solemn grandeur, hushed reverence, filtered sunlight through stained glass"
+    - id: "main_location_sickroom"
+      name: "Prince's Sickroom"
+      description_block: |
+        setting:
+          location: "Royal bedchamber with four-poster bed, heavy curtains, religious icons on walls"
+        mainElements: "Canopied bed with white linens, prayer kneelers, crucifix, candles, medicine bottles"
+        atmosphere: "Anxious vigil, flickering candlelight, hushed prayers, scent of incense and herbs"
+  items:
+    - id: "key_item_automaton"
+      name: "Mechanical Monk"
+      description_block: |
+        details: "38cm tall clockwork figure with wooden head, brown Franciscan robes, hidden brass mechanisms beneath clothing, small wooden cross and rosary in left hand, wind-up key in back"
+    - id: "key_item_tools"
+      name: "Clockmaker Tools"
+      description_block: |
+        details: "Precision instruments including tiny hammers, files, calipers, brass measuring devices, magnifying lenses, gear-cutting tools, springs and clockwork components"
+    - id: "key_item_relics"
+      name: "Religious Relics"
+      description_block: |
+        details: "Preserved body of Diego de Alcalá in ornate glass case, silver cross, prayer books, blessed oils, religious medallions"

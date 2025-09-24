@@ -4,98 +4,88 @@ canon:
       name: "Character BP"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 40s, military bearing, short dark hair, clean-shaven, intelligent eyes"
-            clothing: "US Air Force colonel uniform with wings insignia, or technical civilian clothes with tie"
-            posture: "Confident and authoritative, often pointing at technical diagrams or satellite models"
+          - appearance: "45-year-old Air Force officer, medium build, intelligent eyes behind military-issue glasses, confident bearing"
+            clothing: "Standard Air Force dress blue uniform with colonel's eagles, occasionally in flight suit during technical meetings"
+            position: "Seated at conference table or standing at whiteboard during presentations"
+            action: "Leading technical discussions, pointing at diagrams, or reviewing documents with focused concentration"
+
     - id: "character_IG"
       name: "Character IG"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 60s, distinguished appearance, graying hair, thoughtful expression"
-            clothing: "1970s business suit with narrow tie, sometimes white lab coat over dress shirt"
-            posture: "Contemplative, often with hands behind back or examining technical documents"
-    - id: "engineer_team"
-      name: "Engineering Team"
+          - appearance: "Distinguished 62-year-old scientist, graying hair, thin frame, penetrating intellectual gaze"
+            clothing: "Conservative business suit typical of aerospace industry executives, often seen with technical papers"
+            position: "Standing near technical displays or seated in advisory role during meetings"
+            action: "Gesturing toward conceptual diagrams, speaking with visionary enthusiasm, or studying satellite specifications"
+
+    - id: "character_RE"
+      name: "Character RE"
       description_block: |
         characters:
-          - appearance: "Group of 3-4 engineers, mixed ages 30s-50s, focused expressions, wearing safety glasses"
-            clothing: "White lab coats over shirts and ties, some with pocket protectors and technical badges"
-            posture: "Clustered around equipment, pointing at diagrams, taking notes on clipboards"
-    - id: "mission_control"
-      name: "Mission Control Staff"
+          - appearance: "55-year-old naval scientist, neat appearance, careful and methodical in presentation"
+            clothing: "Navy civilian contractor attire - white shirt, conservative tie, dark trousers"
+            position: "Working at technical equipment or presenting timing system specifications"
+            action: "Adjusting atomic clock mechanisms, reviewing technical specifications, or explaining precision timing concepts"
+
+    - id: "pentagon_team"
+      name: "Pentagon Planning Team"
       description_block: |
         characters:
-          - appearance: "Team of technicians and operators, 25-45 years old, concentrated expressions"
-            clothing: "1970s business attire, white shirts with narrow ties, some with headsets"
-            posture: "Seated at control consoles, monitoring screens, communicating via headsets"
-    - id: "satellite_technicians"
-      name: "Satellite Technicians"
-      description_block: |
-        characters:
-          - appearance: "Small team of specialists in clean room gear, focused on precision work"
-            clothing: "White clean room suits, gloves, hair covers, protective eyewear"
-            posture: "Carefully handling delicate satellite components, working with precision instruments"
+          - appearance: "Mix of Air Force, Navy, and Army officers, ages 30-50, various ranks from major to colonel"
+            clothing: "Military uniforms and civilian contractor attire, working in shirt sleeves due to weekend informal setting"
+            position: "Gathered around conference table, some standing at whiteboards, others reviewing documents"
+            action: "Intense collaboration, sketching technical diagrams, debating system specifications, working through technical challenges"
+
   locations:
-    - id: "pentagon_meeting_room"
+    - id: "pentagon_conference_room"
       name: "Pentagon Conference Room"
       description_block: |
         setting:
-          location: "Pentagon conference room, Washington DC, secure military facility"
-        mainElements: "Large oval table with military officials, maps and technical diagrams on walls"
-        atmosphere: "Serious, classified military planning environment with fluorescent lighting"
-    - id: "aerospace_facility"
-      name: "Aerospace Development Facility"
+          location: "Pentagon conference room in inner ring, Arlington Virginia"
+        mainElements: "Long conference table, metal chairs, wall-mounted whiteboards covered in technical diagrams, coffee service"
+        atmosphere: "Sterile government environment with fluorescent lighting, no windows, air conditioning humming, holiday weekend quiet"
+
+    - id: "vandenberg_launch_site"
+      name: "Vandenberg Air Force Base Launch Complex"
       description_block: |
         setting:
-          location: "Aerospace Corporation facility, El Segundo, California"
-        mainElements: "Modern 1970s technical facility with computer terminals and satellite mockups"
-        atmosphere: "Cutting-edge technology development environment with clean, professional atmosphere"
-    - id: "air_force_control_room"
-      name: "Air Force Control Center"
+          location: "Space Launch Complex 3E, Vandenberg Air Force Base, California coast"
+        mainElements: "Atlas F rocket on launch pad, service towers, blockhouse control center, radar tracking dishes, Pacific Ocean backdrop"
+        atmosphere: "Clear February morning with ocean breeze, anticipation and technical precision, countdown procedures atmosphere"
+
+    - id: "aerospace_corporation"
+      name: "Aerospace Corporation Facility"
       description_block: |
         setting:
-          location: "US Air Force Satellite Control Facility, Colorado Springs, Colorado"
-        mainElements: "Banks of monitoring equipment, large screens showing orbital data, control consoles"
-        atmosphere: "High-tech military command center with dim lighting and glowing displays"
-    - id: "vandenberg_launch_pad"
-      name: "Vandenberg Launch Complex"
-      description_block: |
-        setting:
-          location: "Vandenberg Air Force Base launch pad, California coast"
-        mainElements: "Massive rocket on launch pad with service towers, surrounded by coastal hills"
-        atmosphere: "Dramatic launch facility against Pacific Ocean backdrop with morning fog"
-    - id: "satellite_assembly_facility"
-      name: "Satellite Assembly Clean Room"
-      description_block: |
-        setting:
-          location: "High-tech satellite manufacturing facility, aerospace contractor site"
-        mainElements: "Sterile white clean room with satellite components, precision assembly equipment"
-        atmosphere: "Ultra-clean technical environment with bright white lighting and precision tools"
+          location: "Aerospace Corporation research facility, El Segundo, California near LAX"
+        mainElements: "Glass and concrete buildings, satellite mockups, computer terminals, technical laboratories, engineering workstations"
+        atmosphere: "High-tech research environment with busy engineers and scientists, sound of jet aircraft overhead, innovative energy"
+
     - id: "naval_research_lab"
       name: "Naval Research Laboratory"
       description_block: |
         setting:
-          location: "Naval Research Laboratory, Washington DC area"
-        mainElements: "1970s government research facility with atomic clock equipment and timing instruments"
-        atmosphere: "Scientific research environment with technical equipment and measurement devices"
+          location: "Naval Research Laboratory campus, Washington DC on Potomac River"
+        mainElements: "Red brick buildings with security gates, electronic laboratories, atomic clock testing facilities, antenna arrays, computer rooms"
+        atmosphere: "Serious scientific research environment requiring security clearance, mix of military and civilian personnel, focused technical work"
+
   items:
-    - id: "navstar_satellite"
-      name: "NAVSTAR GPS Satellite"
+    - id: "navstar_1_satellite"
+      name: "NAVSTAR 1 Satellite"
       description_block: |
-        details: "Block I GPS satellite with distinctive solar panel arrays, cylindrical body with antennas, gold thermal blankets"
-    - id: "atomic_clock"
-      name: "Atomic Clock"
+        details: "845 kg cylindrical spacecraft, 5.3 meters across with dual solar panels deployed, distinctive box-like main body with metallic surface, three rechargeable batteries, hydrazine thrusters visible"
+
+    - id: "atomic_clock_unit"
+      name: "Satellite Atomic Clock"
       description_block: |
-        details: "Precision cesium atomic clock device, metal housing with digital displays and cable connections"
-    - id: "mission_control_console"
-      name: "Mission Control Console"
+        details: "Compact cesium and rubidium oscillators, approximately shoebox-sized metallic housing units, space-hardened construction with backup redundancy systems, precision timing components visible"
+
+    - id: "seven_page_proposal"
+      name: "GPS System Proposal Document"
       description_block: |
-        details: "1970s computer terminal with CRT monitor, keyboard, status lights, and communication equipment"
-    - id: "technical_diagrams"
-      name: "Technical Documentation"
+        details: "7-page typed military document with standard government letterhead, technical diagrams and orbital charts, 24-satellite constellation specifications, binding in military folder"
+
+    - id: "atlas_f_rocket"
+      name: "Atlas F Launch Vehicle"
       description_block: |
-        details: "Engineering blueprints, orbital mechanics charts, and satellite specification documents spread on tables"
-    - id: "launch_vehicle"
-      name: "Delta Launch Vehicle"
-      description_block: |
-        details: "Multi-stage rocket with GPS satellite payload fairing, white and blue NASA/Air Force markings"
+        details: "68-foot tall two-stage rocket with distinctive white and orange coloring, liquid fuel propulsion systems, modified ICBM design converted for satellite launches, capable of medium Earth orbit insertion"

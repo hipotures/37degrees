@@ -1,0 +1,76 @@
+canon:
+  characters:
+    - id: "character_organizer"
+      name: "Record Organizer"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, authoritative presence, confident expression, short brown hair"
+            clothing: "Professional dark suit with university badge, formal dress shirt, tie"
+            posture: "Standing with clipboard, coordinating with authority and precision"
+    - id: "character_student1"
+      name: "Engineering Student 1"
+      description_block: |
+        characters:
+          - appearance: "Young Caucasian man, early 20s, athletic build, determined expression"
+            clothing: "Casual university attire - jeans, university sweatshirt, sneakers"
+            posture: "Ready to participate, enthusiastic body language"
+    - id: "character_student2"
+      name: "Engineering Student 2"
+      description_block: |
+        characters:
+          - appearance: "Young Caucasian woman, early 20s, medium height, focused expression"
+            clothing: "Casual student outfit - dark pants, light top, comfortable shoes"
+            posture: "Cooperative and eager, following instructions carefully"
+    - id: "character_guinness_official"
+      name: "Guinness World Records Official"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 50s, professional demeanor, observant eyes, glasses"
+            clothing: "Formal business suit, official Guinness World Records badge, measuring equipment"
+            posture: "Standing with measuring tools and official documentation, observing carefully"
+    - id: "character_bus_driver"
+      name: "Bus Driver"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, experienced look, calm expression, sturdy build"
+            clothing: "Official bus driver uniform - dark blue jacket, cap, professional appearance"
+            posture: "Seated at driver controls, maintaining professional composure"
+  locations:
+    - id: "main_location_university"
+      name: "Krakow University of Technology Campus"
+      description_block: |
+        setting:
+          location: "Campus courtyard of Faculty of Mechanical Engineering, Krakow University of Technology, Krakow, Poland"
+        mainElements: "University buildings with modern architecture, paved courtyard area with designated space for record attempt"
+        atmosphere: "Academic environment with excitement and anticipation for world record attempt"
+    - id: "location_bus_interior"
+      name: "Bus Interior"
+      description_block: |
+        setting:
+          location: "Interior of standard single-decker public transport bus, unmodified"
+        mainElements: "Standard bus seating, handholds, windows, driver compartment, typical public transport interior layout"
+        atmosphere: "Crowded, cramped conditions with determined participants packed tightly together"
+    - id: "location_preparation_area"
+      name: "Pre-Record Preparation Area"
+      description_block: |
+        setting:
+          location: "Open area adjacent to university buildings, Krakow, Poland"
+        mainElements: "Gathering space with clear view of the bus, official registration tables, crowd control barriers"
+        atmosphere: "Organized anticipation with officials, students, and observers preparing for record attempt"
+  items:
+    - id: "key_item_bus"
+      name: "Record Bus"
+      description_block: |
+        details: "Standard single-decker public transport bus, unmodified, typical Polish city bus design with multiple windows and standard seating configuration"
+    - id: "key_item_clipboard"
+      name: "Official Record Documentation"
+      description_block: |
+        details: "Clipboard with official Guinness World Records documentation, participant count sheets, verification forms"
+    - id: "key_item_measuring_equipment"
+      name: "Measurement Tools"
+      description_block: |
+        details: "Professional measuring equipment for verifying bus dimensions, participant counting devices, official timing equipment"
+    - id: "key_item_university_banner"
+      name: "University Identification"
+      description_block: |
+        details: "Faculty of Mechanical Engineering banner or signage identifying the organizing institution"

@@ -1,25 +1,33 @@
 sceneDescription:
   setting:
-    time: January 1990, evening
-    location: Suburban neighborhood, Wallonia region, Belgium
-    weather: Cold winter night, some frost visible
+    time: November 29, 1989, evening hours 17:30-21:00
+    location: Small Belgian village in Wallonia region, rural community with traditional architecture
+    weather: Clear November evening, cold late autumn weather
   characters:
-  - appearance: Belgian civilian, various ages 20s-60s, typical Western European appearance
-    clothing: 1990 winter attire - wool coats, sweaters, jeans, typical casual European clothing of the era
-    position: Multiple civilians standing on street, some by cars, others at doorways
-    action: Looking upward at sky, pointing, standing by cars or at windows
+  - appearance: Belgian civilian families, various ages from children to elderly, typical rural European appearance
+    clothing: Winter coats and heavy clothing appropriate for cold November evening, casual civilian attire
+    position: Standing in village street and front yards, pointing skyward
+    action: Looking up at sky with expressions of amazement and concern, some taking photographs or calling to neighbors
+  - appearance: Additional villagers emerging from homes, men and women of various ages
+    clothing: Hastily thrown on coats and jackets, some still in indoor clothing with blankets
+    position: Gathering in small groups along village street
+    action: Pointing at sky and discussing observations with neighbors and family members
   scene:
-    mainElements: Suburban Belgian street with typical 1990 European residential architecture
-    details: Multiple families and neighbors have come outside to witness unusual aerial phenomena. Street lights illuminate
-      frost on cars and sidewalks. Some witnesses hold binoculars or cameras, others point excitedly at dark triangular objects
-      moving silently overhead. Windows of nearby houses glow warmly as more residents peer out.
-    background: Belgian residential houses with red tile roofs, bare winter trees, distant city lights
-    atmosphere: Growing community awareness and excitement about unusual sightings, neighbors sharing extraordinary experience
+    mainElements: Village homes, church, rural roads, surrounding farmland, typical Belgian countryside settlement
+    details: Traditional Belgian village architecture with church spire visible, villagers gathering in street to observe
+      aerial phenomenon, some holding primitive cameras or binoculars, warm lighting from house windows contrasting with cold
+      night air, rural road running through village center, agricultural fields surrounding community
+    background: Triangular shape approximately 120 feet wide, flat profile, dark or black coloration, three brilliant white
+      lights at each corner bright as stadium floodlights, single red or orange flashing light in center, completely silent
+      operation
+    atmosphere: Community-wide amazement and concern as extraordinary object passes overhead, normal village evening disrupted
+      by unprecedented aerial visitor, sense of shared witness to unexplained phenomenon, cold night air bringing neighbors
+      together, no text or letters visible
   composition:
-    cameraAngle: Wide shot capturing multiple witnesses on residential street
-    focus: Group of civilians all looking up at the same area of sky
-    depth: 'Foreground: nearest witnesses and cars, middle ground: street and houses, background: night sky and distant lights,
-      no text or letters visible'
+    cameraAngle: Wide shot showing entire village street with civilians looking skyward
+    focus: Multiple civilian witnesses pointing at triangular craft overhead
+    depth: Foreground shows villagers in street, middle ground displays traditional Belgian village buildings, background
+      features massive silent triangular object against dark sky
 visualElements:
   colorPalette:
     primary:

@@ -1,30 +1,37 @@
 sceneDescription:
   setting:
-    time: 1898, late afternoon, early autumn
-    location: Private workshop laboratory, early 20th century, filled with mechanical equipment and tools
-    weather: Clear autumn day with golden light
+    time: Late 1887, afternoon
+    location: Elegant New York business office with mahogany furniture and large windows
+    weather: Overcast winter afternoon
   characters:
-  - appearance: Polish man, 22 years old, slender build, intense dark eyes, intelligent expression, showing adult maturity
-      and curiosity
-    clothing: Casual early 20th century attire - white shirt with rolled sleeves, dark vest, no jacket, work apron over clothes
-    position: Standing at workbench examining mechanical components and tools
-    action: Carefully studying a clockwork mechanism with magnifying glass, taking apart small mechanical devices to understand
-      their function
+  - appearance: Wealthy American businessman in his 40s, distinguished bearing, well-dressed, authoritative presence
+    clothing: Expensive American business suits of 1880s, silk top hat placed on desk, fine overcoat draped over chair, gold
+      pocket watch chain
+    position: Seated at large mahogany desk with legal documents spread before him
+    action: Writing large check with fountain pen, speaking with concerned expression about child welfare, making decisive
+      gestures toward contract documents
+  - appearance: Middle-aged Polish musician, serious expression, artistic temperament, proud bearing
+    clothing: Formal conductor's attire with tailcoat, European academic dress of 1870s-1880s, bow tie, appearing somewhat
+      worn from travel
+    position: Standing across from desk, holding hat nervously in hands
+    action: Showing protective concern as father, listening intently to philanthropist's proposal, torn between financial
+      need and child's welfare
   scene:
-    mainElements: Workbenches with various mechanical parts, blueprints pinned to walls, prototype devices, early automotive
-      components, precision tools arranged systematically
-    details: Brass gears and springs scattered across workbench, oil lamps providing focused light, mechanical drawings pinned
-      to wooden walls, early electrical components, clock mechanisms in various states of disassembly, traditional wooden
-      toolbox with metal implements, no text or letters visible
-    background: Workshop walls lined with shelves containing mechanical parts, early industrial equipment, large windows providing
-      natural light for detailed work
-    atmosphere: Creative curiosity and systematic exploration, the exciting discovery of mechanical principles, bridging musical
-      precision with engineering innovation
+    mainElements: Elegant American business office with large mahogany desk, leather chairs, legal documents and contracts,
+      banker's lamp casting focused light, check being written
+    details: Expensive fountain pen writing $50,000 check, legal contracts with official seals, leather-bound ledger books,
+      ornate inkwell, blotting paper, window overlooking busy New York street, portrait of American statesmen on walls, Persian
+      carpet, brass fittings on furniture
+    background: Tall windows showing New York cityscape in winter, busy street with horse-drawn carriages, gas street lamps
+      beginning to flicker on
+    atmosphere: Tense business negotiation with moral implications, contrast between American wealth and European artistic
+      tradition, decisive moment that will change child's life, formal business dignity mixed with paternal concern, no text
+      or letters visible
   composition:
-    cameraAngle: Medium close-up from side angle, emphasizing hands-on exploration
-    focus: Character JH examining intricate mechanical components, showing transition from musical to mechanical precision
-    depth: 'Foreground: detailed mechanical work and precise hand movements, middle ground: workshop tools and equipment,
-      background: shelves of mechanical components and natural lighting, no text or letters visible'
+    cameraAngle: Medium shot across the desk showing both men and the significant financial transaction
+    focus: The large check being written and the concerned expressions of both men
+    depth: Foreground shows desk with documents and check, middle ground captures both characters' reactions, background reveals
+      New York city through windows
 visualElements:
   colorPalette:
     primary:

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Character AF Departing for Suffolk Holiday"
+  setting:
+    time: "1928 late August, afternoon"
+    location: "St Mary's Hospital entrance, Paddington, London"
+    weather: "Warm late summer afternoon with clear skies"
+  characters:
+    - appearance: "Scottish man, 47 years old, average height, lean build, receding dark hair, thoughtful brown eyes, clean-shaven"
+      clothing: "1920s dark wool suit with waistcoat"
+      position: "Standing at hospital entrance with travel bag"
+      action: "Departing for holiday, looking back at the hospital building one last time"
+  scene:
+    mainElements: "St Mary's Hospital brick facade with Georgian architecture, stone entrance steps, hospital signage"
+    details: "Victorian-era hospital building with tall windows, ornate stonework, gas lamp posts, horse-drawn carriages and early automobiles on street, character AF carrying leather travel case, other hospital staff and visitors moving about, warm afternoon shadows on building facade, no text or letters visible"
+    background: "London street scene with period architecture, urban activity of late 1920s Paddington district"
+    atmosphere: "Sense of departure and anticipated rest, bustling hospital activity continuing, transition from work to leisure time"
+  composition:
+    cameraAngle: "Medium shot from street level showing hospital entrance and character AF's departure"
+    focus: "Character AF pausing at hospital entrance with travel preparations complete"
+    depth: "Foreground shows street level detail, middle ground captures character AF and hospital entrance, background reveals London urban landscape and architecture"

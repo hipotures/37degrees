@@ -1,0 +1,69 @@
+canon:
+  characters:
+    - id: "character_LJW"
+      name: "Character LJW"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 40s, medium build, receding dark hair, serious expression, wire-rimmed glasses"
+            clothing: "1960s white lab coat over dark suit and tie, or gray flannel suit with narrow tie"
+            posture: "Authoritative, often holding clipboard or syringe, confident demeanor"
+    - id: "character_CP"
+      name: "Character CP"
+      description_block: |
+        characters:
+          - appearance: "African American man, 30s, stocky build, kind face, concerned expression"
+            clothing: "1960s white lab coat over dark sweater vest and tie, or tan suit jacket"
+            posture: "Thoughtful, often with arms crossed or hands clasped, observational stance"
+    - id: "character_WT"
+      name: "Character WT"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, 50s, tall and lean, graying hair, mustache, weathered face"
+            clothing: "1960s khaki zoo uniform with name badge, or casual shirt with rolled sleeves"
+            posture: "Hands-on, often carrying equipment or leaning against fence, practical demeanor"
+    - id: "zoo_staff"
+      name: "Zoo Staff"
+      description_block: |
+        characters:
+          - appearance: "Mixed group of men and women, 20s-50s, varying builds, concerned expressions"
+            clothing: "1960s zoo uniforms - khaki shirts and pants, some with caps"
+            posture: "Standing at distance, some covering mouths in shock, others pointing"
+  locations:
+    - id: "oklahoma_city_zoo_elephant_enclosure"
+      name: "Oklahoma City Zoo Elephant Enclosure"
+      description_block: |
+        setting:
+          location: "Oklahoma City Zoo elephant enclosure, outdoor paddock area, Oklahoma, USA"
+        mainElements: "Large concrete and dirt enclosure with metal barriers, viewing area for public"
+        atmosphere: "Mid-day summer heat, dusty ground, institutional zoo setting"
+    - id: "university_laboratory"
+      name: "University Laboratory"
+      description_block: |
+        setting:
+          location: "University of Oklahoma medical research laboratory, sterile indoor environment"
+        mainElements: "White-tiled walls, metal examination tables, glass cabinets with medical equipment"
+        atmosphere: "Clinical, fluorescent lighting, antiseptic smell, serious research environment"
+    - id: "zoo_administration_office"
+      name: "Zoo Administration Office"
+      description_block: |
+        setting:
+          location: "Oklahoma City Zoo administrative office building, wood-paneled interior"
+        mainElements: "Wooden desk, filing cabinets, animal photographs on walls, large windows"
+        atmosphere: "Professional but warm, natural lighting, institutional but personal touches"
+  items:
+    - id: "dart_gun"
+      name: "Dart Gun"
+      description_block: |
+        details: "1960s veterinary dart gun, metal construction with wooden stock, designed for animal sedation"
+    - id: "lsd_vial"
+      name: "LSD Vial"
+      description_block: |
+        details: "Small glass medical vial with clear liquid, scientific label, held in gloved hands"
+    - id: "medical_equipment"
+      name: "Medical Equipment"
+      description_block: |
+        details: "1960s medical instruments - stethoscope, syringes, clipboards with charts, stopwatch"
+    - id: "elephant_tusko"
+      name: "Elephant Tusko"
+      description_block: |
+        details: "14-year-old male Indian elephant, medium-sized for species, dark gray skin, intelligent eyes, standing initially then collapsing"

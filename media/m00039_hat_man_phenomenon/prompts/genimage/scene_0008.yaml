@@ -1,110 +1,82 @@
 sceneDescription:
   setting:
-    time: 2018, 3:00 AM
-    location: Child's bedroom in family home
-    weather: Quiet suburban night
+    time: 2015, afternoon interview session
+    location: Professional documentary film studio with interview setup and recording equipment
+    weather: Indoor controlled studio environment with professional lighting
   characters:
-  - appearance: Young child, 8-12 years old, pale complexion with wide frightened eyes
-    clothing: Light colored pajamas or nightgown
-    position: In bed, half-sitting up or lying frozen with covers pulled up
-    action: Staring in terror, unable to move or speak, gripping bedsheets
-  - appearance: Adult parent, 30s-40s, protective but equally frightened expression
-    clothing: Nightclothes, pajamas, or sleeping attire
-    position: Standing in doorway having rushed to child's room, frozen by sight of figure
-    action: Parent arriving to comfort child but stopping in shock at seeing Hat Man
-  - appearance: Tall dark silhouette, 8-10 feet in height, completely featureless black form with no visible face or limbs
-    clothing: Wide-brimmed fedora hat and long dark coat or trench coat, both appearing as solid black shadow
-    position: Standing upright, often positioned in doorways, corners, or beside beds
-    action: Motionless watching presence, occasionally seen moving with fluid gliding motion
+  - appearance: Hat Man witness in 30s, nervous demeanor, still showing signs of chronic sleep deprivation, hesitant but determined
+    clothing: Casual but neat attire appropriate for filmed interview, collared shirt and slacks
+    position: Seated in interview chair facing camera, hands folded nervously in lap
+    action: Being interviewed about Hat Man experience, speaking hesitantly but earnestly about terrifying encounter
+  - appearance: Documentary filmmaker, professional appearance, focused and empathetic interviewing style
+    clothing: Professional casual attire suitable for film production, comfortable but polished
+    position: Seated across from interview subject, holding notes and questions
+    action: Conducting interview with sensitivity and professionalism, encouraging witness to share difficult experience
   scene:
-    mainElements: Small bed with colorful bedding, toys scattered on floor, desk with school supplies, posters on walls
-    details: Night light providing minimal illumination, creating long shadows and making familiar objects appear threatening.
-      Parent has entered room to comfort frightened child but is also witnessing the Hat Man. Evidence of repeated disturbances
-      - extra nightlights, moved furniture.
-    background: Children's artwork taped to walls, bookshelf with picture books, window with cartoon-themed curtains showing
-      dark night outside
-    atmosphere: Night light providing minimal illumination, creating long shadows and making familiar objects appear threatening.
-      Family crisis as phenomenon affects multiple family members, destroying sense of home security
+    mainElements: Professional documentary interview setup with multiple cameras, professional lighting equipment, sound recording
+      gear, neutral background suitable for serious subject matter
+    details: Professional video cameras on tripods positioned at multiple angles, large softbox lighting creating even illumination,
+      boom microphones positioned overhead, sound recording equipment with levels being monitored. Interview chairs positioned
+      for optimal camera angles, neutral colored backdrop, professional film production atmosphere
+    background: Professional film studio environment with additional equipment, crew members operating cameras and sound,
+      monitors showing live footage being recorded, documentary production materials
+    atmosphere: Serious documentary filmmaking environment focused on capturing authentic testimonies, professional approach
+      to documenting unexplained phenomena, sense of validation for experiencers finally being heard and believed, academic
+      approach to paranormal investigation, no text or letters visible
   composition:
-    cameraAngle: Wide shot from corner showing child in bed, parent in doorway, and Hat Man
-    focus: Hat Man figure dominating room while child cowers and parent stands shocked
-    depth: 'Foreground: scattered toys and night light, middle: terrified child in bed and shocked parent, background: Hat
-      Man silhouette towering over family scene, no text or letters visible'
+    cameraAngle: Medium shot showing both interviewer and subject in professional documentary setup
+    focus: Hat Man witness sharing testimony with documentary crew capturing authentic account
+    depth: Foreground shows interview setup and recording equipment, middle ground centers on witness testimony, background
+      reveals professional film production environment
 visualElements:
   colorPalette:
     primary:
-    - deep black
-    - pearl white
-    - charcoal gray
-    - silver gray
+    - muted earth tones
+    - natural greens
+    - realistic browns
     secondary:
-    - shadow black
-    - highlight white
-    background: dim interior gray with deep shadows
-    usageNotes: True monochrome only, no color information whatsoever
-    saturation: none (pure grayscale)
-    contrast: high (strong blacks and whites with limited midtones)
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
   lineArt:
-    style: photographic realism, no drawn outlines
-    weight: none (photographic approach)
-    color: none
-    texture: film grain micro-contrast creates edge definition
-    edgeTreatment: natural photographic edges
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
   lighting:
-    type: low-key tungsten practical or Fresnel spot
-    direction: single source from above or 30-60 degrees off axis
-    intensity: high contrast with key to fill ratio approximately 8:1
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
     shadows:
-      style: hard-edged dramatic shadows
-      color: deep black
-      opacity: 90-95%
-      offset: sharp and directional based on single light source
-    highlights: narrow rim light +0.5 to +1 EV for edge separation
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
   rendering:
-    technique: photographic black and white film aesthetic
-    texture: visible film grain, worn surfaces, fabric textures
-    detailLevel: high in lit areas, obscured in shadows
-    finish: matte film print quality
-    printEffects: selenium toning for slight warm-cool split
-  perspective:
-    type: rectilinear standard lens perspective
-    vanishingPoints: natural perspective, no distortion
-    distortion: minimal, true to lens focal length
-    depth: shallow depth of field at f/2.8-4
-  composition:
-    layout: tight interior framing with little headroom
-    hierarchy: light draws attention to key elements
-    gridSystem: rule of thirds composition
-    whitespace: filled with dark shadows and negative space
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
   mood:
-    overall: dramatic, mysterious, tense
-    emotion: paranoia, desire, danger
-    tempo: static but charged with tension
-    energy: suppressed, coiled
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
     keywords:
-    - noir atmosphere
-    - urban decay
-    - moral ambiguity
-    - femme fatale
-    - hard-boiled
-    - venetian blind shadows
-  symbolism:
-    common:
-    - venetian blind light patterns
-    - cigarette smoke
-    - rain on windows
-    - mirror reflections
-    figures:
-    - detective in fedora
-    - woman in evening dress
-    - shadowy figure in doorway
-    abstract:
-    - light versus dark moral conflicts
-    - urban isolation
-    architectural:
-    - narrow corridors
-    - dimly lit offices
-    - seedy hotel rooms
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

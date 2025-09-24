@@ -1,76 +1,69 @@
 canon:
   characters:
-    - id: "character_HC"
-      name: "Character HC"
+    - id: "character_JVB"
+      name: "Character JVB"
       description_block: |
         characters:
-          - appearance: "Dutch engineer, 40s, tall sturdy build, weathered face from tropical climate, brown hair with receding hairline, wire-rim spectacles"
-            clothing: "White colonial linen shirt with rolled sleeves, brown canvas trousers, leather work boots, pith helmet nearby"
-            posture: "Confident stance with hands on drafting instruments, often pointing at engineering drawings"
-    - id: "character_AS"
-      name: "Character AS"
+          - appearance: "45-year-old Dutch man, medium build, graying beard, weathered face from tropical sun exposure"
+            clothing: "White colonial linen shirt, dark trousers, wide-brimmed hat, leather boots suitable for volcanic terrain"
+            posture: "Methodical and precise, constantly checking calculations and measurements, speaks with authority about engineering principles"
+    - id: "character_RW"
+      name: "Character RW"
       description_block: |
         characters:
-          - appearance: "Javanese master stonemason, 50s, stocky muscular frame, calloused hands, weathered brown skin, graying black hair"
-            clothing: "Traditional Javanese work shirt, brown sarong-style work pants, bare feet, bamboo hat for sun protection"
-            posture: "Examining stone blocks with experienced eye, running hands over surfaces to test quality"
-    - id: "character_PT"
-      name: "Character PT"
+          - appearance: "38-year-old Javanese man, strong build from physical labor, dark hair, intelligent eyes"
+            clothing: "Traditional Javanese work clothes, sarong-style lower garment, light cotton shirt, barefoot for better grip on volcanic rock"
+            posture: "Respectful but confident, gestures expressively when explaining local knowledge of volcanic patterns"
+    - id: "character_WH"
+      name: "Character WH"
       description_block: |
         characters:
-          - appearance: "Dutch colonial administrator, 35s, medium build, pale complexion, blonde mustache, formal bearing"
-            clothing: "White colonial dress uniform with brass buttons, black leather belt, polished black boots, peaked cap"
-            posture: "Rigid official stance, often holding rolled documents or pointing authoritatively"
-    - id: "character_KR"
-      name: "Character KR"
+          - appearance: "32-year-old Dutch man, tall and lean, meticulous appearance, wire-rimmed spectacles"
+            clothing: "Colonial survey uniform, khaki shirt and trousers, survey equipment belt, sturdy walking boots"
+            posture: "Precise and analytical, constantly taking measurements and making notes in leather-bound journal"
+    - id: "character_FM"
+      name: "Character FM"
       description_block: |
         characters:
-          - appearance: "Local Javanese guide, 30s, lean athletic build, dark skin tanned by sun, keen intelligent eyes, quick movements"
-            clothing: "Simple brown cotton shirt, traditional batik sarong, woven sandals, conical bamboo hat"
-            posture: "Alert and observant, often pointing toward volcanic slopes or gesturing about terrain"
+          - appearance: "52-year-old German man, academic appearance, salt-and-pepper hair, ink-stained fingers from note-taking"
+            clothing: "European academic attire adapted for tropics, light wool jacket, field notebook in breast pocket"
+            posture: "Scholarly and observational, frequently stops to examine volcanic rock formations and take detailed notes"
   locations:
-    - id: "main_location_1"
-      name: "Cholut River Crossing Site"
+    - id: "cholut_bridge_site"
+      name: "Cholut Bridge Construction Site"
       description_block: |
         setting:
-          location: "Cholut River valley crossing point, Central Java, Indonesia, with Mount Merapi visible in background"
-        mainElements: "Wide rushing river with rocky banks, dense tropical vegetation, volcanic rock formations, planned bridge construction site"
-        atmosphere: "Humid tropical air with volcanic ash occasionally visible in distance, sounds of rushing water and jungle wildlife"
-    - id: "main_location_2"
-      name: "Dutch Colonial Engineering Office"
+          location: "Steep volcanic valley with rocky terrain, crossed by seasonal volcanic drainage channel near Mount Merapi slopes"
+        mainElements: "Stone bridge foundations, wooden construction scaffolding, piles of volcanic rock, surveying equipment"
+        atmosphere: "Hot tropical climate, occasional sulfur smell from volcanic gases, sounds of construction and flowing water"
+    - id: "merapi_slopes"
+      name: "Mount Merapi Lower Slopes"
       description_block: |
         setting:
-          location: "Colonial administration building, Yogyakarta, Central Java, Indonesia"
-        mainElements: "Large wooden desk with engineering drawings, surveying instruments, oil lamps, teak furniture, high ceiling with fans"
-        atmosphere: "Humid tropical interior with filtered sunlight through shuttered windows, formal colonial atmosphere"
-    - id: "main_location_3"
-      name: "Mount Merapi Volcanic Slopes"
+          location: "Steep volcanic slopes covered with tropical vegetation and exposed lava rock, Mount Merapi crater visible in distance"
+        mainElements: "Volcanic crater visible in distance, lava flow channels, terraced agricultural fields, scattered volcanic boulders"
+        atmosphere: "Humid tropical heat, occasional volcanic rumbling, dense vegetation giving way to barren volcanic rock at higher elevations"
+    - id: "engineering_camp"
+      name: "Dutch Colonial Engineering Base Camp"
       description_block: |
         setting:
-          location: "Lower volcanic slopes of Mount Merapi, Central Java, Indonesia"
-        mainElements: "Hardened lava flows, volcanic rock formations, sparse vegetation, steam vents, ash-covered terrain"
-        atmosphere: "Ominous volcanic presence with occasional rumbling, sulfurous air, dramatic lighting from volcanic activity"
-    - id: "main_location_4"
-      name: "Local Stone Quarry"
-      description_block: |
-        setting:
-          location: "Volcanic stone quarry near Merapi foothills, Central Java, Indonesia"
-        mainElements: "Terraced quarry walls, blocks of volcanic stone, wooden scaffolding, hand tools, ox carts for transport"
-        atmosphere: "Dusty air filled with stone chips, sounds of chiseling and hammering, industrious working environment"
+          location: "Temporary colonial engineering camp with surveying equipment and draft tables near Cholut Bridge site"
+        mainElements: "Canvas tents, wooden tables with engineering plans, surveying instruments, supplies"
+        atmosphere: "Organized military-style efficiency, sound of metal instruments and rustling papers, tropical bird calls"
   items:
-    - id: "key_item_1"
-      name: "Engineering Calculations"
+    - id: "engineering_calculations"
+      name: "Manual Engineering Calculations"
       description_block: |
-        details: "Large sheets of beige paper covered with hand-drawn bridge designs, mathematical calculations in ink, measurements for volcanic load resistance"
-    - id: "key_item_2"
-      name: "Surveying Equipment"
+        details: "Large sheets of paper covered with mathematical calculations, measurements, and structural diagrams, hand-drawn bridge designs, load calculations for volcanic flows, stress analysis using 1880s engineering principles"
+    - id: "lava_diversion_channels"
+      name: "Volcanic Flow Diversion System"
       description_block: |
-        details: "Brass theodolite on wooden tripod, measuring chains, leveling instruments, compass, all contained in wooden carrying case"
-    - id: "key_item_3"
-      name: "Volcanic Stone Samples"
+        details: "Carved stone channels and barriers designed to redirect lava and pyroclastic flows away from bridge structure, precisely angled stone work, reinforced with volcanic rock, integrated with natural topography"
+    - id: "bridge_foundation"
+      name: "Volcanic-Resistant Bridge Foundation"
       description_block: |
-        details: "Collection of dark volcanic rock samples of various sizes, some polished to show internal structure, labeled with location markers"
-    - id: "key_item_4"
-      name: "Bridge Model"
+        details: "Massive stone foundation blocks cut from local volcanic rock, designed to withstand extreme heat and pressure, precisely fitted masonry work, elevated design allowing flow passage underneath, reinforced with iron bands"
+    - id: "surveying_instruments"
+      name: "1880s Colonial Surveying Equipment"
       description_block: |
-        details: "Small wooden scale model of proposed bridge design showing arch construction and lava channel diversions, painted to show different materials"
+        details: "Brass theodolite, measuring chains, compass, leveling instruments typical of Dutch colonial engineering, precisely calibrated instruments in wooden carrying cases, brass fittings showing tropical patina"

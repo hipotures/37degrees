@@ -1,31 +1,34 @@
 sceneDescription:
   setting:
-    time: 1955, late afternoon, golden hour
-    location: Modest home in Los Angeles, 1940s-1950s, combination living space and workshop
-    weather: Clear California day with warm golden sunlight
+    time: 1925, evening
+    location: Elegant concert hall with split composition showing both musical performance and mechanical achievements
+    weather: Clear evening with warm lighting
   characters:
-  - appearance: Polish elderly man, 79 years old, slender build, wise eyes showing lifetime of experience, gentle expression
-      reflecting accomplished life
-    clothing: Comfortable casual attire - light-colored shirt, cardigan sweater, comfortable trousers, practical shoes for
-      home environment
-    position: Seated in comfortable chair beside piano with patent drawings spread on nearby table
-    action: Quietly reviewing lifetime of musical and mechanical achievements, occasionally touching piano keys with gentle
-      familiarity, reflecting on dual legacy
+  - appearance: Mature artist-inventor approaching 50, refined European features, intelligent eyes, well-groomed appearance
+      showing success in dual careers
+    clothing: Black tailcoat and white bow tie for concert performance, formal evening attire of accomplished classical musician
+    position: At concert grand piano on stage, positioned to show both musical mastery and mechanical innovations
+    action: Playing piano with graceful hand movements perfected over decades, demonstrating the precision that made both
+      musical and mechanical excellence possible
   scene:
-    mainElements: Piano in living room positioned to catch afternoon light, desk covered with patent drawings and mechanical
-      sketches, comfortable chairs arranged for reading and contemplation, California sunshine streaming through windows
-    details: Lifetime collection of patent documents and musical scores, comfortable middle-class California furnishings,
-      framed photographs of musical and invention achievements, reading glasses on side table, mechanical prototypes displayed
-      on shelves, fresh flowers in simple vase, warm golden light creating peaceful atmosphere, no text or letters visible
-    background: Modest but comfortable Los Angeles home reflecting successful but unpretentious lifestyle, California landscape
-      visible through windows
-    atmosphere: Peaceful contentment and quiet satisfaction, reflection on remarkable dual career, serenity of accomplished
-      life spent in creative innovation and musical excellence, gentle twilight of extraordinary life
+    mainElements: Concert hall split composition - left side shows musical performance, right side displays mechanical innovations
+      including shock absorbers and patents
+    details: Full-size concert grand piano with ebony black finish, ivory keys, Steinway & Sons branding, improved piano action
+      based on inventor's own patents, formal evening dress audience appreciating both musical and inventive genius, display
+      of shock absorber components and patent documents showing over 70 inventions, mechanical metronome positioned symbolically,
+      windshield wiper prototypes, technical drawings and blueprints, gold and brass mechanical instruments reflecting stage
+      lights
+    background: Elegant concert hall architecture on one side, workshop and factory imagery on the other, representing dual
+      world of artistic and mechanical achievement, evening cityscape showing both cultural venues and industrial progress
+    atmosphere: Triumphant conclusion celebrating unique dual career achievement, appreciation for Polish-American who revolutionized
+      both classical music performance and automotive technology, legacy of artistic precision applied to mechanical innovation,
+      monthly invention royalties exceeding concert earnings, complete success in two seemingly separate worlds, no text or
+      letters visible
   composition:
-    cameraAngle: Medium wide shot from room corner, capturing peaceful domestic scene
-    focus: Character JH in quiet contemplation surrounded by lifetime achievements in music and innovation
-    depth: 'Foreground: elderly inventor in comfortable reflection, middle ground: piano and patent documents representing
-      dual legacy, background: California home and warm afternoon light, no text or letters visible'
+    cameraAngle: Wide shot showing split composition that captures both musical performance and mechanical achievement legacy
+    focus: The artist at piano with visual representation of his revolutionary inventions surrounding the musical scene
+    depth: Foreground shows concert performance, middle ground blends musical and mechanical elements, background represents
+      the lasting impact on both industries
 visualElements:
   colorPalette:
     primary:

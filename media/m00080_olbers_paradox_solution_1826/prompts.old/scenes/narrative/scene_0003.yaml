@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Observatory setup - instruments of discovery"
+  setting:
+    time: "1826, night"
+    location: "Upper floor astronomical observatory in Bremen townhouse, 1826"
+    weather: "Clear night sky perfect for observations"
+  characters:
+    - appearance: "German man, late 60s, medium build, silver-gray hair, thoughtful intelligent eyes, lined face showing wisdom"
+      clothing: "1820s dark blue physician's coat over white shirt and black vest"
+      position: "Standing beside brass telescope adjusting eyepiece and mounting"
+      action: "Carefully calibrating telescope and arranging astronomical instruments for night's observations"
+  scene:
+    mainElements: "Wooden telescope on brass mount, star charts on walls, measuring instruments on oak table, warm candlelight illuminating workspace"
+    details: "Long brass refracting telescope on wooden tripod mount with adjustable brass fittings, hand-drawn star maps on parchment showing constellation patterns, brass compass and measuring tools, leather-bound observation journals, candles in brass holders casting warm light, small window showing night sky"
+    background: "Shelves with astronomical texts and calculation sheets, wall-mounted star charts and celestial maps, additional optical instruments and lenses in wooden cases"
+    atmosphere: "Intimate scholarly workspace dedicated to cosmic discovery, peaceful concentration on celestial mysteries, methodical preparation for systematic observation, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from room entrance"
+    focus: "character_HO preparing telescope and astronomical instruments"
+    depth: "Foreground shows oak table with instruments, middle ground centers on character with telescope, background reveals star charts and night sky through window"

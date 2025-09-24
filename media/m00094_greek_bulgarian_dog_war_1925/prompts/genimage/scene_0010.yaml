@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: November 1925, afternoon
+    location: League of Nations headquarters, Geneva, and Greek government building
+    weather: Gray Swiss winter day, diplomatic resolution weather
+  characters:
+  - appearance: International diplomats, various nationalities, formal bearing
+    clothing: Dark formal suits, diplomatic insignia from different nations, formal diplomatic attire
+    position: Seated around conference table, standing in formal diplomatic poses
+    action: Signing agreements, delivering ultimatum to Greece, enforcing international law
+  - appearance: Caucasian man, 48 years old, tall and lean, clean-shaven, calculating expression, alert eyes
+    clothing: Greek army uniform with colonel's rank insignia, field cap, military decorations, leather belt
+    position: Standing at attention or plotting at military headquarters
+    action: Observing situation methodically, giving orders, or planning counter-operations
+  scene:
+    mainElements: League of Nations meeting chamber, formal conference table, flags of member nations, official documents,
+      international diplomatic setting
+    details: 3 million Bulgarian levas equivalent, official bank transfers and receipts, formal diplomatic chambers with marble
+      columns, League of Nations insignia, official seals and signatures, diplomatic pouches, international law books, formal
+      meeting protocols, no text or letters visible
+    background: Swiss government buildings, international diplomatic quarter, formal chambers with high ceilings, portraits
+      of world leaders
+    atmosphere: International diplomatic intervention, formal resolution procedures, sound of papers shuffling, diplomatic
+      discussions, weight of international law being enforced
+  composition:
+    cameraAngle: Formal diplomatic meeting showing international intervention
+    focus: League of Nations enforcing international law, ending absurd war
+    depth: 'Foreground: diplomatic documents and compensation agreements, Middle: international diplomats at conference table,
+      Background: formal League chamber with member nation flags'
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

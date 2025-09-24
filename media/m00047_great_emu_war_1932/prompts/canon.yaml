@@ -4,69 +4,80 @@ canon:
       name: "Character GM"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 40s, military bearing, stern face with mustache, weathered complexion from outdoor service"
-            clothing: "Australian military officer uniform 1930s, khaki tunic with brass buttons, peaked cap with insignia, polished brown leather boots"
-            posture: "Upright military stance, hands clasped behind back or gesturing authoritatively"
+          - appearance: "Middle-aged British-Australian military officer, approximately 40s, clean-shaven with neat military bearing, weathered face from Australian climate"
+            clothing: "Royal Australian Artillery dress uniform with major's insignia, khaki field uniform during operations, military cap with artillery badge"
+            posture: "Professional military stance, confident despite unusual mission, methodical approach, defensive about operation's reputation"
     - id: "character_SM"
       name: "Character SM"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 30s, sturdy build, alert expression, clean-shaven face"
-            clothing: "Australian military sergeant uniform 1930s, khaki tunic and trousers, military cap, leather belt with ammunition pouches"
-            posture: "At attention or operating military equipment with focused concentration"
+          - appearance: "Professional soldier, sturdy build suitable for artillery work, age 25-35, weather-beaten from Australian service"
+            clothing: "Standard Royal Australian Artillery field uniform, khaki tunic and trousers, military boots, artillery sergeant insignia"
+            posture: "Disciplined soldier following orders, practical approach to unusual mission, stoic acceptance of challenging assignment"
     - id: "character_JO"
       name: "Character JO"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 20s, lean build, young face with determined expression"
-            clothing: "Australian military gunner uniform 1930s, khaki field uniform, military cap, canvas web gear"
-            posture: "Alert stance while handling weapons or scanning the landscape"
-    - id: "farmer_WA"
-      name: "Western Australian Farmer"
+          - appearance: "Young soldier, early 20s to early 30s, strong build necessary for operating heavy weapons, alert expression"
+            clothing: "Royal Australian Artillery field uniform, gunner's insignia, practical military gear for field operations"
+            posture: "Dutiful soldier carrying out orders, focused on technical aspects of weapons operation, bemused by nature of enemy"
+    - id: "character_GP"
+      name: "Character GP"
       description_block: |
         characters:
-          - appearance: "Caucasian man, 50s, sun-weathered face, worried expression, calloused hands"
-            clothing: "1930s farmer attire, worn cotton shirt, dark trousers held by suspenders, wide-brimmed hat, work boots"
-            posture: "Standing among damaged crops or gesturing toward destroyed fields"
+          - appearance: "Senior government official, approximately 60 years old, distinguished politician's bearing, formal demeanor"
+            clothing: "Dark formal governmental suit typical of 1930s political leaders, ministerial insignia when appropriate"
+            posture: "Authoritative political figure, responding to veteran constituents, defensive about controversial decision"
+    - id: "veteran_farmers"
+      name: "WWI Veteran Farmers"
+      description_block: |
+        characters:
+          - appearance: "Men aged 30-50, weather-beaten from farming life, many bearing physical signs of WWI service, desperate expressions"
+            clothing: "Work clothes - overalls, work shirts, wide-brimmed hats for sun protection, practical farming boots"
+            posture: "Desperate due to economic hardship, frustrated by crop losses, familiar with military equipment from war service"
   locations:
-    - id: "wheat_fields_wa"
-      name: "Western Australian Wheat Fields"
+    - id: "campion_district"
+      name: "Campion District"
       description_block: |
         setting:
-          location: "Vast wheat fields near Campion, Western Australia, 1932"
-        mainElements: "Endless golden wheat stalks stretching to horizon, some areas trampled and damaged"
-        atmosphere: "Harsh Australian outback environment under intense sun"
-    - id: "campion_settlement"
-      name: "Campion Settlement"
+          location: "Vast Western Australian wheatbelt farmland with rolling hills, scattered homesteads, and geometric crop fields stretching to horizon"
+        mainElements: "Wheat fields in various stages of growth, wooden fence lines, windmills, scattered farm buildings, dirt roads"
+        atmosphere: "Hot, dry Australian summer, vast open skies, dust clouds visible from distance, isolated rural setting"
+    - id: "perth_parliament"
+      name: "Perth Parliament House"
       description_block: |
         setting:
-          location: "Rural farming settlement of Campion, Western Australia, 1932"
-        mainElements: "Small collection of weathered wooden buildings, grain silos, farm equipment"
-        atmosphere: "Remote frontier settlement under vast blue sky"
-    - id: "government_office_perth"
-      name: "Government Office Perth"
+          location: "Colonial-era government building in Perth, formal parliamentary chambers and ministerial offices"
+        mainElements: "Sandstone facade, formal meeting rooms, governmental insignia, period parliamentary furniture"
+        atmosphere: "Formal political setting, serious governmental discussions, pressure from constituent farmers"
+    - id: "water_sources"
+      name: "Farm Water Sources"
       description_block: |
         setting:
-          location: "Western Australian government office, Perth, 1932"
-        mainElements: "Formal office with heavy wooden desk, filing cabinets, maps of Western Australia on walls"
-        atmosphere: "Serious bureaucratic environment with sense of urgency"
-    - id: "military_camp_wa"
-      name: "Military Camp Western Australia"
+          location: "Natural and artificial water points including dams, tanks, and wells scattered across Campion district farmland"
+        mainElements: "Metal water tanks, earth dams, windmill-powered pumps, muddy ground around water points"
+        atmosphere: "Critical gathering points for wildlife, dusty conditions, afternoon heat creating mirages"
+    - id: "wheat_fields"
+      name: "Damaged Wheat Fields"
       description_block: |
         setting:
-          location: "Temporary military encampment, Western Australian outback, 1932"
-        mainElements: "Canvas tents, military vehicles, equipment tables with Lewis guns and ammunition"
-        atmosphere: "Organized military efficiency in remote bushland setting"
+          location: "Golden wheat fields in Western Australian wheatbelt, showing extensive damage from emu trampling"
+        mainElements: "Patches of completely flattened grain, emu footprints throughout fields, broken fence lines, scattered grain"
+        atmosphere: "Economic devastation visible in destroyed crops, hot summer sun, dust swirling from disturbed earth"
   items:
-    - id: "lewis_machine_gun"
-      name: "Lewis Machine Gun"
+    - id: "lewis_guns"
+      name: "Lewis Light Machine Guns"
       description_block: |
-        details: "British Lewis light machine gun, distinctive circular ammunition pan on top, bipod legs, wooden stock"
-    - id: "emu_birds"
-      name: "Emu Birds"
+        details: "Air-cooled, gas-operated machine guns with distinctive circular pan magazines, weighing approximately 28 pounds, 96-round pan magazine capacity, WWI surplus weapons"
+    - id: "ammunition"
+      name: "10,000 Rounds of .303 Ammunition"
       description_block: |
-        details: "Large flightless Australian birds, 6 feet tall, brown and gray feathers, long necks, powerful legs, moving in scattered groups across wheat fields"
-    - id: "damaged_wheat_crops"
-      name: "Damaged Wheat Crops"
+        details: "Standard British .303 caliber rifle cartridges, brass casings with lead bullets, military surplus from WWI, massive quantity highlighting operation's scale"
+    - id: "military_truck"
+      name: "Military Transport Vehicle"
       description_block: |
-        details: "Wheat fields with trampled areas, broken stalks, scattered grain, clear paths of destruction through golden crops"
+        details: "1930s military truck, khaki painted, canvas cover, designed for artillery transport, adapted for unusual wildlife management mission"
+    - id: "emu_flock"
+      name: "Emu Flocks"
+      description_block: |
+        details: "Large groups of Australian emus, flightless birds standing 5-6 feet tall, gray-brown feathers, long necks, powerful legs, moving in coordinated groups across farmland"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Royal Commission - King Orders Warship"
+  setting:
+    time: "1626, winter"
+    location: "Royal palace chamber in Stockholm"
+    weather: "Cold Swedish winter day"
+  characters:
+    - appearance: "Swedish man, 34, tall imposing royal bearing, blonde hair, regal mustache"
+      clothing: "17th century royal Swedish military attire with golden embroidery, ceremonial sword, crown or royal hat"
+      position: "Standing at table with ship design documents"
+      action: "Commanding royal presence, pointing at ship plans with authority, issuing specific royal demands"
+    - appearance: "Dutch man, 50s, master shipwright bearing, skilled craftsman hands, concerned expression"
+      clothing: "17th century master craftsman attire with leather apron, tools at belt"
+      position: "Standing beside table reviewing plans"
+      action: "Craftsman expertise, studying ship designs with professional concern about specifications"
+  scene:
+    mainElements: "Royal chamber with maps, ship design documents, and maritime planning materials"
+    details: "Detailed shipwright plans and royal specifications spread across ornate table, measurement charts showing ambitious warship dimensions, construction drawings with royal modifications, royal seal stamping documents, candles illuminating technical drawings, royal advisors taking notes"
+    background: "Luxurious royal palace interior with Swedish royal symbols, tapestries, and winter light through tall windows"
+    atmosphere: "Royal authority demanding most powerful warship ever built, urgent military expansion during Polish war, ambitious royal vision overriding technical concerns, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing royal planning session"
+    focus: "King's ambitious warship commission and shipwright's concerns"
+    depth: "Royal planning table in foreground, palace chamber in middle ground, winter palace grounds through windows in background"

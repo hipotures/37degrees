@@ -1,16 +1,20 @@
 sceneDescription:
-  title: "Violent Oscillation - Bridge in Extremis"
+  title: "Trapped on the Twisting Deck - Car Abandoned in Chaos"
   setting:
-    time: "November 7, 1940, 10:30 AM"
-    location: "Tacoma Narrows Bridge center span during maximum oscillation"
-    weather: "40 mph winds creating aerodynamic flutter"
-  characters: "No characters present in this scene"
+    time: "November 7, 1940, 10:45 AM"
+    location: "Center span of Tacoma Narrows Bridge during violent oscillations"
+    weather: "Strong winds at 42 mph, bridge deck twisting at dangerous angles"
+  characters:
+    - appearance: "40s well-groomed man with dark hair, average build, expressive face capable of conveying emotion"
+      clothing: "1940s brown suit, white shirt, patterned tie, leather shoes, overcoat for November weather"
+      position: "Crawling on hands and knees along bridge curb, gripping concrete to avoid being thrown"
+      action: "Articulate newspaper editor with composed demeanor despite traumatic experience"
   scene:
-    mainElements: "Bridge deck twisting in violent torsional oscillation with roadway sections moving in opposite directions"
-    details: "Suspension bridge deck exhibiting extreme twisting motion, roadway halves rising and falling in alternating pattern, suspension cables vibrating with dangerous resonance, bridge structure experiencing aeroelastic flutter, concrete and steel framework under catastrophic stress, engineering disaster in full progress"
-    background: "Puget Sound waters with whitecaps below, Pacific Northwest shoreline with gathering crowds, dramatic sky with storm conditions"
-    atmosphere: "Engineering structure pushed beyond design limits, aerodynamic forces overcoming structural integrity, physics lesson in real-time disaster, unprecedented bridge failure, no text or letters visible"
+    mainElements: "1940s sedan sliding violently across bridge deck during oscillations, black cocker spaniel with three functional legs trapped inside, car loaded with equipment from beach house"
+    details: "Abandoned automobile sliding back and forth across tilting roadway as bridge twists violently. Man crawling desperately toward safety, raw bleeding knees from gripping rough concrete curb. Bridge deck rotating so severely that walking becomes impossible, only crawling provides stability. Car appears to dance across pavement with each oscillation, tires losing grip on steeply angled surface."
+    background: "Bridge towers swaying overhead, suspension cables vibrating wildly, Puget Sound far below through gaps in deck"
+    atmosphere: "Terrifying experience of being trapped on unstable structure, human helplessness against forces of nature and engineering failure"
   composition:
-    cameraAngle: "Dynamic shot capturing extreme bridge oscillation"
-    focus: "Violent structural movement that will lead to complete collapse"
-    depth: "Twisting bridge structure in foreground, Puget Sound waters in middle ground, Pacific Northwest landscape in background"
+    cameraAngle: "Low angle from deck level showing human scale against massive oscillating structure"
+    focus: "Man crawling for survival while abandoned car slides uncontrollably"
+    depth: "Concrete deck and crawling figure in foreground, sliding car in middle ground, swaying towers in background, no text or letters visible"

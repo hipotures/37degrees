@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Dawn, 9:00 AM with first light of returning sun
+    location: Central area of Oymyakon village, Sakha Republic, Russia, surrounded by the Yana-Oymyakon Highlands
+    weather: Cold but moderating at -45°C, clear sky with sunrise colors
+  characters:
+  - appearance: Yakutian man, 40s, weathered face with high cheekbones, dark eyes adapted to snow glare, bronze skin from
+      outdoor work
+    clothing: Traditional reindeer hide parka with fur-lined hood, thick mukluks, woolen mittens, layers of warm undergarments
+    position: Standing near temperature monument in village center
+    action: Looking toward rising sun, checking outdoor thermometer, preparing for day's activities
+  - appearance: Young Yakutian boy, 8 years old, bright curious eyes, round face typical of children in extreme cold
+    clothing: Small child's winter parka in bright colors, tiny mukluks, woolen hat with ear flaps
+    position: Standing beside adult, holding his hand
+    action: Watching sunrise with wonder, breathing visible vapor clouds, ready for another school day
+  scene:
+    mainElements: Monument displaying temperature record of -71.2°C, small cluster of wooden buildings with steep roofs, main
+      road
+    details: 'Stone monument stands prominently in village center, marking this location as the coldest inhabited place on
+      Earth. Village showing signs of successful survival through extreme winter: smoke rising from chimneys, paths maintained
+      through snow, vehicles running to prevent freezing. Community infrastructure functioning despite conditions that would
+      challenge modern technology. Evidence of human adaptation and determination visible throughout village layout.'
+    background: Vast taiga landscape extending beyond village boundaries, snow-laden evergreen forest stretching to distant
+      mountains, Arctic sky showing warm colors of sunrise
+    atmosphere: Triumph of human spirit over extreme natural conditions, community strength built through shared survival,
+      hope represented by returning daylight
+  composition:
+    cameraAngle: Wide shot showing both human figures and village in context of vast landscape
+    focus: Village monument with father and child standing together in village center
+    depth: People and monument in foreground, thriving village in middle ground, endless Siberian wilderness under sunrise
+      sky in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

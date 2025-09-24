@@ -1,30 +1,33 @@
 sceneDescription:
   setting:
-    time: 1930, evening, late autumn
-    location: Private workshop laboratory, early 20th century, filled with mechanical equipment and tools
-    weather: Cool evening with artificial lighting
+    time: July 25, 1916, afternoon
+    location: United States Patent Office, formal government building with official atmosphere
+    weather: Bright summer afternoon
   characters:
-  - appearance: Polish man, 54 years old, slender build, intense dark eyes, intelligent expression, showing mature expertise
-      and innovation
-    clothing: Casual evening work attire - white shirt with rolled sleeves, dark vest, no jacket, comfortable work clothes
-    position: Kneeling beside disassembled piano with modified keyboard components
-    action: Carefully adjusting piano key widths and spacing, testing key action with precision tools, measuring narrow key
-      dimensions for optimal playability
+  - appearance: Mature pianist-inventor in his 40s, refined European features, intelligent eyes, well-groomed appearance showing
+      success in both artistic and business ventures
+    clothing: Formal business attire - black suit, white shirt, conservative tie, gold pocket watch, polished shoes, carrying
+      leather portfolio
+    position: Standing at official counter presenting patent documentation to clerk
+    action: Submitting official patent application with technical drawings, signing legal documents with fountain pen, explaining
+      invention details with confident expertise
   scene:
-    mainElements: Black lacquered Steinway grand piano with ivory keys, distinctive narrow key modification designed by character
-      JH for smaller hands, precision tools for piano construction, wooden piano action components spread across workbench
-    details: Piano keyboard with specially narrowed keys, traditional ivory and ebony key materials, brass piano action mechanisms,
-      precision measuring instruments, piano tuning tools, hammers and dampers arranged systematically, workshop lighting
-      focused on detailed piano work, mechanical blueprints of piano modifications pinned to walls, no text or letters visible
-    background: Workshop space adapted for piano construction and modification, shelves containing piano parts and tools,
-      combination musical and mechanical workspace
-    atmosphere: Convergence of musical artistry and mechanical precision, innovation driven by practical understanding of
-      performance needs, perfectionist attention to both musical and technical details
+    mainElements: Formal government office with official desks, filing cabinets, official seals and stamps, patent clerk reviewing
+      technical documentation
+    details: Official patent document with detailed technical diagrams showing bell-crank lever system, cross-sectional drawings
+      of pneumatic shock absorber, official USPTO letterhead, filed July 25, 1916, interconnected suspension system illustrations,
+      leather portfolio containing additional technical drawings, official stamps and seals being applied to documents, brass
+      fittings on government furniture, American flag displayed prominently
+    background: Rows of filing cabinets containing thousands of patent applications, other inventors waiting with their innovations,
+      official portraits of government officials, tall windows with government building architecture
+    atmosphere: Formal bureaucratic process marking historic moment in automotive technology, quiet efficiency of patent office
+      procedures, significance of innovation being officially recognized, intersection of artistic precision and mechanical
+      engineering achievement, no text or letters visible
   composition:
-    cameraAngle: Close-up shot focusing on hands and keyboard modification work
-    focus: The precise modification of piano keys, showing intersection of musical performance and mechanical innovation
-    depth: 'Foreground: detailed piano key modification and precision measurement, middle ground: piano construction tools
-      and components, background: workshop space dedicated to musical innovation, no text or letters visible'
+    cameraAngle: Medium shot across patent office counter showing submission of historic patent application
+    focus: The detailed technical drawings and official patent documents being processed
+    depth: Foreground shows patent documents with technical diagrams, middle ground captures inventor and patent clerk transaction,
+      background reveals formal government office setting
 visualElements:
   colorPalette:
     primary:

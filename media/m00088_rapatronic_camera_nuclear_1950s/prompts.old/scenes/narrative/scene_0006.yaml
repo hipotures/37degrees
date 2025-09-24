@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Camera Equipment Transport to Nevada Test Site"
+  setting:
+    time: "1951, early morning"
+    location: "Nevada Test Site, remote desert location 65 miles northwest of Las Vegas, Nevada"
+    weather: "Clear desert dawn with cool air"
+  characters:
+    - appearance: "Caucasian man, 20s-30s, focused expression, practical appearance"
+      clothing: "1950s work coveralls or casual shirt with protective equipment when needed"
+      position: "Standing beside military transport truck directing equipment unloading"
+      action: "Carefully supervising unloading of sensitive camera equipment from military transport vehicle"
+    - appearance: "Caucasian man, 40s, tall and lean, serious expression, dark hair neatly combed"
+      clothing: "1950s business suit with tie, or field work clothes with safety equipment"
+      position: "Checking equipment against technical specifications and shipping manifest"
+      action: "Inspecting camera components for transport damage and verifying complete delivery"
+  scene:
+    mainElements: "Vast desert landscape with mountains in distance, concrete observation bunkers, steel towers"
+    details: "Military transport truck with canvas cover, wooden crates containing rapatronic cameras, precision optical equipment in protective cases, electrical control units, heavy tripods and mounting hardware, technical personnel carefully handling sensitive equipment, desert sand and sparse vegetation, concrete structures in distance, no text or letters visible"
+    background: "Nevada desert landscape with distant mountains, test site infrastructure, observation bunkers"
+    atmosphere: "Isolated and barren, harsh desert conditions, sense of scientific importance and danger"
+  composition:
+    cameraAngle: "Wide shot showing equipment transport operation in desert setting"
+    focus: "Military truck and equipment unloading operation with personnel"
+    depth: "Transport vehicle and workers in foreground, test site structures in middle distance, desert landscape extending to horizon"

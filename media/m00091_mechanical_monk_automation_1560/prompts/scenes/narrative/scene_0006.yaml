@@ -1,20 +1,20 @@
 sceneDescription:
-  title: "Assembling the intricate clockwork mechanism"
+  title: "Dressing the completed automaton in authentic Franciscan robes"
   setting:
-    time: "1563, evening"
+    time: "1562, late evening"
     location: "Stone-walled Renaissance workshop in Toledo, Spain, with vaulted ceiling and tall windows"
-    weather: "Clear evening with golden sunset light through windows"
+    weather: "Calm night with moonlight filtering through windows"
   characters:
     - appearance: "Italian man, 50s, graying beard, intense focused eyes, calloused hands from metalwork"
       clothing: "Renaissance brown leather apron over white linen shirt, dark wool hose, leather boots"
-      position: "Hunched over workbench with magnifying lens, working by candlelight"
-      action: "Carefully fitting tiny brass gears together with precision tweezers, testing spring mechanisms"
+      position: "Bent over workbench, precise hand movements, scholarly concentration"
+      action: "Carefully dressing the completed mechanical monk in brown Franciscan robes and rope belt"
   scene:
-    mainElements: "Complex clockwork mechanism spread across workbench, showing intricate gear trains and spring assemblies"
-    details: "Precision instruments including tiny hammers, files, calipers, brass measuring devices, magnifying lenses, gear-cutting tools, springs and clockwork components create a maze of mechanical complexity. Tiny brass gears mesh perfectly while spring mechanisms coil with potential energy. The internal framework shows sophisticated cam systems that will control the monk's movements. Brass shavings and metal filings glitter in the candlelight. Multiple gear trains suggest different body functions"
-    background: "Workshop tools hang on walls while sunset light fades, requiring additional candles for detailed assembly work"
-    atmosphere: "Intense concentration and mechanical mastery as countless precise components unite into miraculous artificial life, each gear calculated for divine purpose"
+    mainElements: "Wooden workbenches covered with clockwork mechanisms, brass gears, springs, and precision tools"
+    details: "Completed 38cm tall clockwork figure with wooden head, brown Franciscan robes being fitted over hidden brass mechanisms beneath clothing, small wooden cross and rosary being placed in left hand, rope belt with knots being tied around waist, wind-up key visible in back before final covering, serene carved facial expression with tonsured crown, simple sandals being fitted to feet, soft brown wool fabric concealing all mechanical components, moonlight streaming through windows mixing with candlelight, no text or letters visible"
+    background: "Workshop walls lined with finished clockwork pieces, tools and components organized on shelves, oil lamps providing warm light"
+    atmosphere: "Industrious concentration, golden afternoon light streaming through windows, scent of metal and oil, sense of completion and sacred purpose"
   composition:
-    cameraAngle: "Extreme close-up of the intricate clockwork mechanism"
-    focus: "The complex gear assembly and the craftsman's steady hands working with precision tools"
-    depth: "Foreground: brass gears and springs; middle: working hands with tools; background: workshop equipment and flickering candles, no text or letters visible"
+    cameraAngle: "Medium shot showing the full figure being dressed"
+    focus: "Clockmaker's careful hands fitting robes over the completed mechanical monk"
+    depth: "Foreground shows detailed clothing and accessories, middle ground captures the dressing process, background reveals workshop environment"

@@ -1,58 +1,61 @@
 canon:
   characters:
-    - id: "local_resident"
-      name: "Local Resident"
+    - id: "character_SO"
+      name: "Character SO"
       description_block: |
         characters:
-          - appearance: "Siberian person, 40s, weathered face from extreme cold exposure, hardy build adapted to Arctic conditions"
-            clothing: "Multiple layers of fur clothing, traditional Siberian winter gear, thick boots, face protection from wind"
-            posture: "Careful deliberate movements to conserve energy and maintain warmth in extreme cold"
-    - id: "village_elder"
-      name: "Village Elder"
+          - appearance: "Middle-aged Russian scientist, weathered face from Arctic conditions, thick beard, intense focused eyes"
+            clothing: "Heavy winter coat with fur trim, felt boots (valenki), fur hat with ear flaps, thick mittens, multiple layers typical of 1920s Arctic expedition gear"
+            position: "Standing near meteorological equipment or reading instruments carefully"
+            action: "Methodical and precise, carefully documenting readings, breath visible in extreme cold, movements deliberate due to bulky winter clothing"
+    - id: "character_RH"
+      name: "Character RH"
       description_block: |
         characters:
-          - appearance: "Elderly Siberian person, 60s+, deeply lined face from decades of Arctic living, experienced cold-weather survivor"
-            clothing: "Traditional heavy fur coat, layered wool garments, well-worn Arctic survival gear"
-            posture: "Steady experienced stance showing lifetime adaptation to extreme cold conditions"
-    - id: "meteorologist"
-      name: "Weather Observer"
+          - appearance: "Weather-beaten face with high cheekbones, Asian features typical of Sakha/Evenk peoples, middle-aged, lean build"
+            clothing: "Traditional fur parka (malitsa), reindeer skin boots, fur mittens, traditional hat with ear protection, layered clothing system"
+            position: "Near reindeer or thermal springs, positioned for survival and animal care"
+            action: "Stoic endurance, moving with practiced efficiency in extreme cold, concerned about reindeer welfare, traditional survival activities"
+    - id: "character_SA"
+      name: "Character SA"
       description_block: |
         characters:
-          - appearance: "Person, 30s, professional appearance despite extreme conditions, focused on accurate measurements"
-            clothing: "1920s cold weather gear, multiple layers, thick gloves allowing instrument operation"
-            posture: "Methodical careful movements while operating temperature recording equipment"
+          - appearance: "Younger man in his 30s, clean-shaven, pale complexion, urban background evident"
+            clothing: "Standard Soviet winter coat, military-style winter hat, leather boots, less sophisticated cold weather gear than locals"
+            position: "Standing with notebook or observing settlement activities"
+            action: "Ideologically driven, somewhat out of place in extreme environment, taking notes for bureaucratic reports"
   locations:
-    - id: "oymyakon_village"
-      name: "Oymyakon Village Settlement"
+    - id: "weather_station_valley"
+      name: "Oymyakon Weather Station"
       description_block: |
         setting:
-          location: "Oymyakon village, Sakha Republic, Russia, Yana-Oymyakon Highlands along Indigirka River"
-        mainElements: "Small wooden buildings with thick walls, smoking chimneys, deep snow cover, frozen landscape extending to horizon"
-        atmosphere: "Extreme cold with visible breath vapor, complete silence of frozen environment, survival-focused human habitation"
-    - id: "weather_station"
-      name: "Temperature Recording Station"
+          location: "Narrow valley between Oymyakon and Tomtor, surrounded by mountains, weather monitoring equipment visible"
+        mainElements: "Simple wooden meteorological hut, thermometer housing, wind measurement devices, snow-covered ground, mountain ridges on all sides"
+        atmosphere: "Absolute stillness in frigid air, no wind, crystalline clarity, breath instantly freezes, every sound muffled by intense cold"
+    - id: "thermal_springs"
+      name: "Oymyakon Thermal Springs"
       description_block: |
         setting:
-          location: "Weather observation station in Oymyakon village center, Siberia"
-        mainElements: "1920s meteorological equipment, temperature measurement instruments, recording station building"
-        atmosphere: "Scientific precision in extreme conditions, historic moment of record-breaking measurement"
-    - id: "frozen_landscape"
-      name: "Siberian Frozen Wilderness"
+          location: "Natural hot springs creating steam in frozen landscape, surrounded by ice formations"
+        mainElements: "Steaming water source, ice crystals forming from steam, traditional wooden structures for accessing water, reindeer gathering area"
+        atmosphere: "Stark contrast between warm springs and frozen environment, steam clouds visible, sound of flowing unfrozen water"
+    - id: "herder_camp"
+      name: "Traditional Herder Camp"
       description_block: |
         setting:
-          location: "Surrounding wilderness of Oymyakon, Siberian taiga and tundra"
-        mainElements: "Endless snow-covered landscape, frozen trees, ice formations, Arctic wilderness stretching beyond horizon"
-        atmosphere: "Absolute cold and silence, hostile environment requiring constant survival effort"
+          location: "Temporary camp with traditional dwellings, reindeer nearby, surrounded by vast frozen landscape"
+        mainElements: "Traditional chums (tent-like structures), reindeer sleds, feeding areas for animals, smoke from heating fires"
+        atmosphere: "Harsh survival conditions, wind protection from structures, sounds of reindeer, smoke visible in cold air"
   items:
-    - id: "temperature_equipment"
-      name: "1924 Temperature Recording Equipment"
+    - id: "mercury_thermometer"
+      name: "1920s Mercury Thermometer"
       description_block: |
-        details: "1920s meteorological instruments, mercury thermometers, temperature recording devices, weather monitoring equipment designed for extreme cold conditions"
-    - id: "survival_gear"
-      name: "Arctic Survival Equipment"
+        details: "Glass tube with mercury column, metal housing for protection, calibrated scale visible, mounted in wooden shelter, specialized for extreme cold measurements, alcohol-based thermometer likely used, brass fittings"
+    - id: "meteorological_logbook"
+      name: "Weather Records"
       description_block: |
-        details: "Traditional Siberian cold weather clothing, multiple fur layers, thermal protection gear, tools for maintaining warmth and shelter in -71.2°C conditions"
-    - id: "frozen_objects"
-      name: "Items Affected by Extreme Cold"
+        details: "Leather-bound notebook with weather observations, handwritten entries in Russian, pages yellowed with age, daily temperature recordings, notes on weather conditions, ink potentially frozen during writing"
+    - id: "reindeer_gear"
+      name: "Traditional Herding Equipment"
       description_block: |
-        details: "Completely frozen water sources, ice formations on buildings, frost patterns, objects showing effects of -71.2°C temperature, frozen breath vapor"
+        details: "Wooden sleds, leather harnesses, traditional tools for ice fishing and hunting, rope made from sinew, equipment designed for extreme cold, shows signs of heavy use, adapted for reindeer handling"

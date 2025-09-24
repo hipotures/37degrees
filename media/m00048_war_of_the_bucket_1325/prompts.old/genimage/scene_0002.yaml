@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: 1325, late afternoon
+    location: Gothic council chamber inside Bologna's Palazzo Comunale
+    weather: Overcast day, dim light through arched windows
+  characters:
+  - appearance: Italian man, 40s, stern weathered face, prominent nose, dark beard
+    clothing: Red and gold Bolognese military surcoat over chainmail, steel helmet with plume
+    position: Standing at head of wooden council table, leaning forward on hands
+    action: Addressing assembled council members with urgent gestures and determined expression
+  - appearance: Italian noblemen and military advisors, 30s-50s, serious expressions
+    clothing: Rich medieval robes in Bologna's red colors, some wearing chain mail
+    position: Seated around large oak table, some standing behind chairs
+    action: Listening intently, some pointing at maps, others nodding gravely
+  scene:
+    mainElements: Large oak council table with carved legs, high-backed wooden chairs, stone arched windows, hanging banners
+    details: Heraldic banners of Bologna (red) displaying city arms hanging from stone walls, rolled parchment maps spread
+      across table surface, flickering candles in iron holders, Gothic stone architecture with ribbed vaulting, heavy wooden
+      doors with iron hinges, coats of arms carved into chair backs
+    background: High stone walls with pointed Gothic arches, stained glass windows showing heraldic designs, massive wooden
+      beams supporting vaulted ceiling
+    atmosphere: Tense political meeting, shadows cast by candlelight, atmosphere of brewing conflict and military planning
+  composition:
+    cameraAngle: Medium shot from side of table
+    focus: The military commander addressing the council with urgent body language
+    depth: 'Foreground: council members around table, Middle: commanding figure gesturing, Background: Gothic architecture
+      and banners, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

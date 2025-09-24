@@ -1,29 +1,32 @@
 sceneDescription:
   setting:
-    time: February 1954, morning
-    location: Medical preparation laboratory, Moscow Institute of Surgery
-    weather: Indoor controlled environment
+    time: February 12, 1954, 09:30 AM
+    location: Pre-operative preparation area, Moscow Institute of Surgery
+    weather: Cold Moscow winter day, controlled indoor temperature
   characters:
-  - appearance: Caucasian woman, 35 years old, brown hair pinned back, attentive expression, medical professional
-    clothing: White nursing uniform, medical cap, practical flat shoes, sterile gloves
-    position: Standing at metal preparation table, organizing medical equipment
-    action: Carefully arranging surgical instruments on sterile metal tray, checking each tool systematically
+  - appearance: 42-year-old Caucasian man, medium build, serious facial expression with intense dark eyes, receding hairline,
+      clean-shaven
+    clothing: White surgical coat over dark suit, surgical mask around neck, wire-rimmed glasses
+    position: Standing at operating table or examining surgical instruments
+    action: Methodical and precise movements, confident bearing, intense concentration during procedures
+  - appearance: Middle-aged Caucasian woman, stern features, hair pulled back in neat bun, focused expression
+    clothing: White surgical scrubs, surgical cap, rubber gloves
+    position: Assisting at surgical table or monitoring equipment
+    action: Efficient and methodical movements, calm under pressure, devoted to scientific precision
   scene:
-    mainElements: Metal tables with medical instruments, glass cabinets with supplies, monitoring equipment, sterile preparation
-      workspace
-    details: Precise steel surgical instruments including scalpels, forceps, clamps, and sutures laid out on sterile metal
-      tray, early medical monitoring devices including basic heart rate monitors, temperature gauges, and pressure measurement
-      tools typical of 1950s Soviet medical technology, medical laboratory equipment including glass beakers, test tubes,
-      measurement containers
-    background: White tiled walls with medical cabinets, equipment storage areas, charts and measurement devices mounted on
-      walls
-    atmosphere: Organized medical workspace with methodical scientific atmosphere, sterile clinical environment with focused
-      preparation
+    mainElements: Two separate preparation tables with animal subjects under anesthesia, monitoring equipment, surgical preparation
+      supplies
+    details: Large German Shepherd host animal with dark coat, approximately 4-5 years old, and small mixed-breed donor animal
+      with light brown coat, both prepared for surgical procedure. Glass syringes with anesthesia, monitoring devices tracking
+      vital signs, surgical preparation materials arranged on steel trays. Fine silk threads used to connect carotid arteries
+      and jugular veins, hand-tied sutures creating blood vessel anastomosis, multiple connection points between donor and
+      host specimens prepared nearby
+    background: Sterile preparation room with medical cabinets, observation window, institutional green walls
+    atmosphere: Intense focus and scientific determination, anticipation of groundbreaking procedure, no text or letters visible
   composition:
-    cameraAngle: Medium shot focusing on preparation table and character
-    focus: Surgical instruments being carefully arranged, emphasizing precision and medical expertise
-    depth: Instrument tray in foreground, character preparing equipment in middle ground, medical storage in background, no
-      text or letters visible
+    cameraAngle: Medium shot from side angle showing both preparation tables
+    focus: Surgical team carefully preparing both animal subjects with monitoring equipment
+    depth: Foreground shows anesthesia equipment, middle ground captures preparation work, background reveals clinical setting
 visualElements:
   colorPalette:
     primary:

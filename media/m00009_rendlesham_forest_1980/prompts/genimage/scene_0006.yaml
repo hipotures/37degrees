@@ -1,37 +1,35 @@
 sceneDescription:
   setting:
-    time: December 28, 1980, 01:30 AM
-    location: Small clearing near eastern edge of Rendlesham Forest, Suffolk, England - documented incident site
-    weather: Cold winter night, near freezing, possible light mist
+    time: December 26, 1980, 10:00 hours
+    location: Forest clearing with evidence markers, radiation detection equipment setup, Suffolk, England
+    weather: Cold December morning with overcast sky, daylight revealing investigation scene
   characters:
-  - appearance: Caucasian man, military age, technical specialist demeanor, concentrated expression
-    clothing: U.S. Air Force winter field uniform - woodland camouflage BDU or OG-107, M-65 field jacket, thermal underwear,
-      field cap, combat boots, Disaster Preparedness specialist insignia
-    position: Crouched or standing while operating technical equipment
-    action: Operating AN/PDR-27 radiation survey meter, taking measurements, monitoring Geiger counter readings
-  - appearance: Caucasian man, 41 years old, military bearing, authoritative presence, determined expression
-    clothing: U.S. Air Force winter field uniform - OG-107 cotton sateen or early BDU woodland camouflage, M-65 field jacket,
-      thermal underwear, field cap, black military boots, subdued rank insignia on collar
-    position: Standing with confident military posture, often holding handheld cassette recorder
-    action: Leading investigation, documenting events on tape recorder, directing team members
+  - appearance: Caucasian man, 41 years old, medium build, graying hair, clean-shaven, serious demeanor typical of career
+      military officer
+    clothing: U.S. Air Force service uniform or field duty uniform, military boots, carried handheld cassette recorder and
+      investigation equipment
+    position: Supervising evidence collection at landing site
+    action: Examining ground depressions with measuring equipment, directing systematic investigation
+  - appearance: Caucasian man, early 30s, athletic build typical of security police, dark hair, clean military appearance
+    clothing: Security Police duty uniform, combat boots, utility belt with radio and equipment, carried standard security
+      gear
+    position: Kneeling beside ground impressions with plaster casting materials
+    action: Making plaster casts of triangular ground depressions for evidence preservation
   scene:
-    mainElements: Sandy ground covered with pine needles, three triangular depressions in forest floor, scuff marks on surrounding
-      pine tree trunks. Technical specialist taking detailed radiation measurements while commander documents findings.
-    details: Forest clearing with documented evidence of previous incident - three distinct depressions in sandy soil with
-      pine needle covering. Portable military radiation detector - metal rectangular device (13x28x20 cm) with carrying handle,
-      analog meter display with needle gauge, detection probe on retractable cord, clicking sound mechanism for radiation
-      detection showing elevated readings on analog meter. Handheld cassette tape recorder with red recording light, used
-      for documenting investigation, metal and plastic construction typical of 1980 portable recording devices capturing real-time
-      measurements. Pine trees showing scuff marks on bark where probe is taking readings.
-    background: Tall pine trees forming natural boundary around clearing, dark forest beyond measurement area
-    atmosphere: Mysterious forest clearing with evidence of unusual activity, illuminated by flashlights and investigative
-      lighting. Tense scientific documentation with electronic clicking sounds and measured commentary, no text or letters
-      visible
+    mainElements: Military personnel with measurement equipment, radiation survey meter, plaster casting materials, evidence
+      markers, investigation lighting
+    details: Three circular depressions, 7 inches diameter, 1.5 inches deep, forming triangle pattern in forest floor, elevated
+      radiation readings at center, Standard U.S. military Geiger counter, handheld radiation detection device, recorded 0.1
+      milliroentgen readings, damaged tree branches overhead, systematic evidence collection, no text or letters visible
+    background: Professional military investigation in progress, scientific documentation, systematic evidence collection,
+      dense forest surrounding the clearing, other investigation personnel in background
+    atmosphere: Professional military investigation in progress, scientific documentation, systematic evidence collection,
+      methodical approach to unexplained phenomenon, cold December morning light filtering through trees
   composition:
-    cameraAngle: Close-up shot focusing on Geiger counter readings and ground depressions
-    focus: Radiation detector showing elevated readings with triangular ground depressions visible
-    depth: 'Foreground: Geiger counter probe near ground depression. Middle: technical specialist taking measurements. Background:
-      pine trees with marked bark'
+    cameraAngle: Medium shot from elevated position showing investigation scene
+    focus: Military investigators systematically documenting physical evidence at alleged landing site
+    depth: Foreground shows evidence markers and measuring equipment, middle ground displays investigators working on ground
+      depressions, background reveals forest environment and other personnel
 visualElements:
   colorPalette:
     primary:

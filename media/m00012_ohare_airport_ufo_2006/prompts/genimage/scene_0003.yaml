@@ -1,37 +1,30 @@
 sceneDescription:
   setting:
-    time: November 7, 2006, 4:16 PM CST, late afternoon
-    location: Aircraft parking apron, Gate C-17 area, Chicago O'Hare International Airport
-    weather: Overcast, solid grey cloud layer at 1,900 feet, cool November temperature
+    time: November 7, 2006, 4:16 PM CST, late afternoon with overcast conditions
+    location: Flight 446 cockpit at Gate C17, O'Hare International Airport
+    weather: Overcast sky creating gray lighting, mild autumn temperature, light winds
   characters:
-  - appearance: Male pilot, 40s, Caucasian, professional bearing, clean-shaven
-    clothing: Dark navy United Airlines uniform with four-stripe captain insignia, white dress shirt, company tie, pilot wings
-      pin
-    position: Standing near aircraft boarding stairs
-    action: Looking up intently at object, hand raised to shade eyes
-  - appearance: Male mechanic, 40s, stocky build, experienced look
-    clothing: Work coveralls with UA maintenance division patches, tool belt with various instruments, safety shoes
-    position: Beside fuel truck, tools in hand
-    action: Stopping work to stare upward at anomalous object
-  - appearance: Male worker, 20s-30s, medium build, focused expression
-    clothing: Grey or navy work uniform, United Airlines patches, high-visibility safety vest, work boots, tool belt
-    position: Near baggage cart, frozen mid-action
-    action: Pointing skyward while calling to other workers
+  - appearance: Male, approximately 40-55 years old, Caucasian, professional airline pilot appearance, confident demeanor
+    clothing: Standard United Airlines pilot uniform with four-stripe captain's epaulettes, white dress shirt, black tie,
+      pilot's cap with United logo
+    position: In aircraft cockpit seated in captain's seat, leaning forward toward windscreen
+    action: Opening cockpit side window for clearer view, studying object above with intense focus and professional concern
   scene:
-    mainElements: Dark grey metallic disc-shaped object hovering motionless above Gate C-17 area, multiple United Airlines
-      employees scattered across tarmac all looking upward, aircraft and ground equipment temporarily abandoned
-    details: Object maintains perfect stillness approximately 500 feet above ground, smooth metallic surface reflecting grey
-      overcast light, no visible propulsion or lights, workers in various states of amazement and pointing, normal airport
-      noise contrasting with silent hovering craft
-    background: Uniform grey cloud layer providing backdrop for dark object, Terminal 3 windows with passengers and staff
-      visible inside also looking out, other gates with ongoing operations unaware of phenomenon
-    atmosphere: Growing awareness and collective witnessing, professional airport workers abandoning routine to observe unexplained
-      aerial phenomenon, tension of the extraordinary interrupting the mundane, no text or letters visible
+    mainElements: Modern commercial aircraft cockpit interior with instrument panels, flight controls, captain and first officer
+      seats, large windscreen providing view outside
+    details: Metallic disc object visible through cockpit windscreen hovering directly above aircraft position, pilot's hands
+      on window controls opening side window for unobstructed observation, cockpit instruments showing normal pre-flight status,
+      radio equipment ready for communication, object appears smooth and featureless from this angle
+    background: Gate C17 terminal area visible through cockpit windows, ground crew and equipment continuing operations below,
+      overcast sky providing gray backdrop for object
+    atmosphere: Professional aviation environment with heightened tension and disbelief, mixture of curiosity and concern
+      from experienced pilots witnessing unprecedented aerial phenomenon, cockpit remains calm despite extraordinary circumstances,
+      no text or letters visible
   composition:
-    cameraAngle: Medium wide shot from elevated terminal perspective
-    focus: Multiple workers on tarmac all looking up at hovering object
-    depth: 'Foreground: terminal window reflection, middle ground: scattered workers and equipment, background: hovering disc
-      against clouds'
+    cameraAngle: Interior cockpit view from behind pilot looking forward through windscreen
+    focus: Pilot opening cockpit window while observing metallic disc object above aircraft
+    depth: Pilot and cockpit instruments in foreground, aircraft exterior and hovering object in middle ground, terminal and
+      ground operations in background
 visualElements:
   colorPalette:
     primary:

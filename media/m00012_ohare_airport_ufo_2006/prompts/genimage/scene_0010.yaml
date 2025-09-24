@@ -1,34 +1,31 @@
 sceneDescription:
   setting:
-    time: November 7, 2006, 5:00 PM CST, evening approach
-    location: Gate C-17, Terminal 3 Concourse C, Chicago O'Hare International Airport
-    weather: Overcast, solid grey cloud layer completely restored, no visible opening
+    time: December 2006, afternoon, investigative research period
+    location: Chicago Tribune newsroom office environment
+    weather: Indoor office environment with winter lighting through windows
   characters:
-  - appearance: Male worker, 30s, Caucasian, medium build, thoughtful expression
-    clothing: Navy blue United Airlines work pants, company polo shirt with UA logo, high-visibility orange safety vest (ANSI
-      Class II), hearing protection around neck, safety shoes, winter jacket for November weather
-    position: Standing beside aircraft, occasionally glancing skyward
-    action: Resuming normal pushback operations while discussing event quietly with colleagues
-  - appearance: Male pilot, 40s, Caucasian, professional bearing, contemplative look
-    clothing: Dark navy United Airlines uniform with four-stripe captain insignia, white dress shirt, company tie, pilot wings
-      pin
-    position: Conducting routine pre-flight inspection
-    action: Performing standard aircraft checks while occasionally looking up at now-normal sky
+  - appearance: Male, approximately 40-55 years old, Caucasian, experienced journalist, investigative expression
+    clothing: Professional business attire suitable for newspaper reporter, dark suit jacket, dress shirt, notepad in hand
+    position: Seated at office desk with computer, telephone, and research materials
+    action: Reviewing documents, making phone calls, filing Freedom of Information Act requests, conducting investigative
+      journalism research into O'Hare UFO incident
   scene:
-    mainElements: Boeing 737 at Gate C-17 with normal operations resuming, pushback tug reconnected for delayed departure,
-      ground crew returning to routine duties with subdued conversations about recent events
-    details: Professional aviation environment returning to standard procedures, aircraft and equipment positioned normally,
-      workers maintaining focus on safety protocols while processing extraordinary recent experience, cloud layer completely
-      restored with no evidence of previous opening, subtle tension and wonder underlying normal operations
-    background: Terminal 3 windows showing reduced crowd as passengers and staff return to normal activities, adjacent gates
-      operating typically, control tower visible in distance, grey overcast sky showing no unusual features
-    atmosphere: Return to professional routine with underlying sense of witnessed mystery, ordinary world reasserting normalcy
-      over extraordinary experience, quiet contemplation of unexplained event, no text or letters visible
+    mainElements: Professional newspaper office environment with desk, computer equipment, telephone, filing cabinets, research
+      materials and documents
+    details: Chicago Tribune transportation reporter's workspace with computer for writing articles, telephone for conducting
+      interviews, stacks of research materials and official documents related to O'Hare incident investigation, filing cabinets
+      containing case files, office windows showing urban Chicago environment, professional journalism equipment and reference
+      materials
+    background: Active newsroom environment with other journalists working, Chicago Tribune office infrastructure, urban winter
+      scene visible through office windows
+    atmosphere: Determined investigative journalism uncovering truth about extraordinary aviation incident, professional dedication
+      to documenting historic UFO case, systematic research approach revealing official denials and eventual acknowledgment,
+      journalistic integrity pursuing unprecedented aviation story, no text or letters visible
   composition:
-    cameraAngle: Wide establishing shot showing restored normal operations
-    focus: Ground crew resuming standard procedures at Gate C-17
-    depth: 'Foreground: normal ground operations, middle ground: aircraft and personnel, background: restored uniform cloud
-      layer'
+    cameraAngle: Interior office shot showing journalist at work investigating UFO case
+    focus: Investigative reporter conducting research on O'Hare airport UFO incident
+    depth: Journalist and research materials in foreground, office environment in middle ground, Chicago urban scene through
+      windows in background
 visualElements:
   colorPalette:
     primary:

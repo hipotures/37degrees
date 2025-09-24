@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1949, early evening
+    location: Sidewalk near Empire State Building, heading to Major's Cabin Grill, Manhattan
+    weather: Cool autumn evening, streetlights beginning to illuminate
+  characters:
+  - appearance: Caucasian man, early 40s, average height, clean-shaven face, dark hair combed back with pomade, serious business
+      expression, thin-rimmed glasses
+    clothing: 1949 dark navy business suit with white dress shirt, conservative dark tie, polished black leather shoes, gold
+      wristwatch
+    position: Walking on left side of sidewalk
+    action: Striding confidently, gesturing while discussing business matters with companion
+  - appearance: Caucasian man, late 30s, slightly taller than average, neatly groomed brown hair, mustache, lawyer appearance,
+      attentive eyes
+    clothing: 1949 charcoal gray suit with vest, white shirt, striped tie, leather briefcase often at hand, wire-rim spectacles
+    position: Walking alongside on right, carrying briefcase
+    action: Listening intently, nodding in agreement, occasionally checking pocket watch
+  scene:
+    mainElements: Two businessmen walking along busy Manhattan sidewalk in the evening, heading from Empire State Building
+      toward nearby restaurant
+    details: Gas-lit street lamps casting warm yellow glow, vintage 1949 automobiles parked along curb, other pedestrians
+      in period clothing passing by, shop windows with warm interior lighting, steam rising from manholes, evening newspapers
+      tucked under arms of passersby
+    background: Empire State Building towering behind them, other Manhattan buildings creating urban canyon effect, shop fronts
+      with glowing windows, traffic moving slowly in background
+    atmosphere: Post-work business atmosphere, colleagues heading to important dinner meeting, anticipation of productive
+      business discussion over meal, urban energy transitioning from day to evening
+  composition:
+    cameraAngle: Medium tracking shot following the two men from behind and slightly to the side
+    focus: The two business associates walking purposefully down the sidewalk
+    depth: Foreground shows sidewalk pavement and their legs walking, middle ground captures the men in conversation, background
+      features Empire State Building and Manhattan streetscape, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - muted earth tones
+    - natural greens
+    - realistic browns
+    secondary:
+    - subdued blues
+    - authentic grays
+    - metallic silver
+    background: natural outdoor environments, military installations, forest settings
+    usageNotes: Natural, desaturated colors that convey authenticity and documentary realism
+    saturation: low to medium
+    contrast: natural contrast reflecting real-world lighting conditions
+  lineArt:
+    style: sharp, realistic definition with natural edges
+    weight: defined by natural object boundaries
+    color: integrated into realistic form
+    texture: authentic material textures (metal, fabric, vegetation)
+    edgeTreatment: crisp but natural edges as they appear in reality
+  lighting:
+    type: natural ambient lighting, practical light sources
+    direction: realistic directional lighting from sun, moon, or artificial sources
+    intensity: moderate, matching real-world conditions
+    shadows:
+      style: naturally cast shadows with realistic depth
+      color: cool grays and muted tones
+      opacity: realistic based on light source strength
+    highlights: natural reflections and glints from surfaces
+  rendering:
+    technique: detailed realistic rendering with cinematic composition
+    texture: authentic surface textures and materials
+    detailLevel: high detail focused on environmental authenticity
+    finish: natural, non-stylized surface treatments
+  perspective: accurate perspective with documentary-style framing
+  mood:
+    overall: investigative, mysterious, authentic
+    emotion: tension, curiosity, documentary intrigue
+    tempo: measured, observational
+    keywords:
+    - authentic
+    - investigative
+    - mysterious
+    - documentary
+    - realistic
+  stylePrecedents:
+  - Documentary film cinematography
+  - Investigative journalism photography
+  - Historical recreation filmmaking
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

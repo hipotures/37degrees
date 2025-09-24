@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Marine Biology Students Diving in Mediterranean Waters"
+  setting:
+    time: "Summer 1988, late morning"
+    location: "Turquoise Mediterranean waters between Portofino cliffs, Italian Riviera near Rapallo, Liguria, Italy"
+    weather: "Clear sunny day with excellent underwater visibility"
+  characters:
+    - appearance: "Caucasian man, mid-20s, athletic build, dark blonde hair, intense curious eyes behind wire-rimmed glasses"
+      clothing: "1980s marine biology fieldwork attire: faded navy blue polo shirt, khaki shorts, diving gear when underwater"
+      position: "Swimming underwater near rocky cliff face, examining marine vegetation"
+      action: "Carefully collecting small jellyfish specimens with transparent container and underwater tools"
+    - appearance: "Mediterranean man, mid-20s, slender build, dark hair, expressive brown eyes, thoughtful demeanor"
+      clothing: "1980s casual academic wear: white cotton shirt, dark slacks, laboratory coat when in lab"
+      position: "Standing on nearby rocky outcrop, observing and taking notes"
+      action: "Recording observations in waterproof notebook while monitoring diving partner's progress"
+  scene:
+    mainElements: "Crystal clear Mediterranean water revealing underwater rock formations covered with colorful marine life, small transparent jellyfish floating near limestone cliff walls"
+    details: "Sunlight filtering through water creating dancing patterns on rocks, various species of small marine organisms visible including tiny translucent jellyfish with delicate tentacles, collection equipment including glass containers and fine nets, diving mask and snorkel gear"
+    background: "Dramatic Portofino cliffs rising from crystal blue water, typical Italian coastal landscape with Mediterranean vegetation, distant view of Rapallo coastline"
+    atmosphere: "Scientific discovery and youthful enthusiasm in pristine natural marine environment, perfect conditions for marine biology research, no text or letters visible"
+  composition:
+    cameraAngle: "Split perspective showing both underwater collection activity and surface observation"
+    focus: "The moment of discovering and collecting the small jellyfish specimens that would later prove to be immortal"
+    depth: "Foreground: underwater collector with jellyfish specimens, middle: clear water and rocky formations, background: coastal cliffs and Italian Riviera landscape"

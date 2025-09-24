@@ -1,27 +1,34 @@
 sceneDescription:
   setting:
-    time: November 7, 1940, late morning
-    location: Tacoma Narrows Bridge roadway during violent oscillation
-    weather: Strong winds causing extreme bridge movement
+    time: November 7, 1940, 7:30 AM
+    location: Small commercial photography business in downtown Tacoma, Washington
+    weather: Storm clouds gathering outside, wind beginning to pick up
   characters:
-  - appearance: American man, 35, newspaper reporter appearance, concerned expression, medium build
-    clothing: 1940s business suit with press hat, carrying briefcase and notepad
-    position: Running from abandoned car toward shore
-    action: Urgent civilian behavior, fleeing dangerous bridge while looking back with alarm
+  - appearance: 38-year-old man with medium build, steady hands essential for camera work, alert eyes trained to spot dramatic
+      moments
+    clothing: Dark jacket with multiple pockets for film and equipment, comfortable shoes for quick movement
+    position: Loading expensive Kodachrome film into Bell & Howell 16mm camera at shop counter
+    action: Professional calm under pressure, instinctive sense for historic moments
+  - appearance: Alert photographer always prepared for unexpected events, carries himself with professional confidence
+    clothing: Practical dark clothing with equipment pockets, always keeps camera nearby and loaded with film
+    position: Checking second camera while monitoring radio weather reports
+    action: Known for being constantly ready with camera, demonstrates remarkable foresight
   scene:
-    mainElements: Narrow bridge deck with center line, suspension cables, roadway surface tilting dramatically
-    details: 1940s sedan left on bridge during collapse, tilting with roadway movement, bridge deck twisting violently with
-      roadway halves moving in opposite directions, concrete cracking audibly, suspension cables vibrating with dangerous
-      oscillation, impossible driving conditions
-    background: Puget Sound waters far below, Pacific Northwest shores offering safety, approaching spectators gathering to
-      watch disaster
-    atmosphere: Engineering marvel becoming death trap, individual human drama in face of structural failure, desperate escape
-      from collapsing infrastructure, last moments of bridge integrity, no text or letters visible
+    mainElements: Shop filled with camera equipment, darkroom facilities, Bell & Howell 16mm cameras, expensive Kodachrome
+      film stock
+    details: Professional photography studio with smell of developing chemicals, organized workspace with technical equipment.
+      Two photographers preparing equipment methodically, loading precious color film stock, checking camera mechanisms. Radio
+      on counter broadcasting weather warnings about approaching storm system. Through shop window, early morning light reveals
+      increasing cloud cover and trees beginning to bend in strengthening wind.
+    background: Downtown Tacoma street scene visible through windows, other businesses opening for the day, pedestrians hurrying
+      against increasing wind
+    atmosphere: Professional photographers sense something significant approaching, preparing equipment with unusual care
+      and attention to detail
   composition:
-    cameraAngle: Dynamic shot showing person fleeing violently moving bridge
-    focus: Human drama of escape from engineering disaster
-    depth: Fleeing person and abandoned car in foreground, twisted bridge structure in middle ground, safety of shoreline
-      in background
+    cameraAngle: Medium shot from customer perspective across shop counter
+    focus: Two photographers methodically preparing cameras for documentation
+    depth: Shop counter with cameras in foreground, photographers in middle ground, stormy sky visible through windows in
+      background, no text or letters visible
 visualElements:
   colorPalette:
     primary:
