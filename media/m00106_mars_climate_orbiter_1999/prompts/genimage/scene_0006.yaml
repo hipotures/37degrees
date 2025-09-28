@@ -1,0 +1,104 @@
+sceneDescription:
+  setting:
+    time: September 22, 1999, late evening, twenty-four hours before orbital insertion
+    location: JPL Mission Control Center conference room, Pasadena, California
+    weather: Indoor environment, controlled climate
+  characters:
+  - appearance: Caucasian male, early 40s, medium height and build, dark hair, typically serious expression showing strain
+      during crisis periods
+    clothing: JPL polo shirt or casual business attire, occasionally NASA jacket, engineering-appropriate practical clothing
+    position: Standing at mission control workstation or seated at computer terminal
+    action: Monitoring spacecraft data, coordinating with team members, showing focused technical-minded demeanor
+  - appearance: Generic representation of late 1990s aerospace engineer, male or female, casual professional appearance
+    clothing: JPL polo shirt, khakis, practical engineering attire, identification badge visible
+    position: Seated at computer workstation with multiple monitors
+    action: Analyzing trajectory data, showing growing concern as calculations reveal problems, focused on computer screens
+  scene:
+    mainElements: Conference room with large table surrounded by engineers and mission managers, whiteboards covered with
+      orbital calculations, computer monitors showing trajectory data, stacks of printouts and technical documentation
+    details: Late evening emergency meeting atmosphere with fluorescent lighting, coffee cups and half-eaten meals indicating
+      long work session. Whiteboards showing hand-drawn orbital diagrams, altitude calculations, trajectory plots with red
+      markers indicating danger zones. Laptops and calculators spread across conference table, engineers pointing at data,
+      intense discussion visible through body language and facial expressions. Wall clock showing late hour.
+    background: Mission control room visible through glass partition, additional workstations with skeleton crew monitoring
+      spacecraft, NASA imagery and mission patches on walls
+    atmosphere: Crisis decision-making environment, intense pressure with mission at stake, technical expertise confronting
+      mounting evidence of trajectory problems, fateful decision point reached
+  composition:
+    cameraAngle: Wide shot of conference room showing full meeting dynamics
+    focus: Central table with engineers reviewing critical trajectory data, whiteboards with calculations visible
+    depth: Conference table and participants in foreground, whiteboards and technical data in middle ground, mission control
+      visible in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: Spring 1975, daytime office hours
+    location: Academic journal editorial office, university-based professional environment, 1970s institutional setting
+    weather: Bright spring daylight filtering through office windows
+  characters:
+  - appearance: Various ages, predominantly male, serious academic bearing, mixture of young and senior faculty
+    clothing: 'Traditional academic attire: tweed jackets, cardigans, conservative dress shirts, some with tenure security'
+    position: Standing at podiums, sitting in faculty meetings, or hunched over typewriters
+    action: Writing critical letters, debating in faculty lounges, defending mathematical authority with animated gestures
+  scene:
+    mainElements: Editorial desks covered with submitted manuscripts, mechanical typewriters, filing cabinets filled with
+      correspondence, stacks of mathematical journals, editorial review materials
+    details: Multiple angry professors gathered around desk examining published journal article. Typewriters show letters
+      being composed in response to probability problem. Filing cabinets overflow with academic correspondence. Mathematical
+      journals stacked high show various statistical publications. Professors point at journal pages with animated gestures,
+      expressing disagreement through body language and facial expressions. Desktop contains multiple draft letters with mathematical
+      equations.
+    background: University building hallways visible through doorways, other academic offices with similar scholarly environments,
+      institutional furniture and fixtures
+    atmosphere: Scholarly, methodical environment where academic debates played out through carefully peer-reviewed letters
+      and formal mathematical discourse
+  composition:
+    cameraAngle: Medium shot capturing group of professors examining journal publication
+    focus: Open journal showing three-box problem with professors reacting with skepticism and criticism
+    depth: Foreground shows journal article and pointing hands, middle ground captures professors in heated discussion, background
+      reveals academic office setting with typewriters and filing cabinets, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

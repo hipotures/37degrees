@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Experimental Session - Therapy Room"
+  setting:
+    time: "Mid-January 1939, afternoon"
+    location: "Small therapy room at Iowa Soldiers' Orphans' Home, Davenport, Iowa"
+    weather: "Cold winter afternoon with weak sunlight through single window"
+  characters:
+    - appearance: "Young woman in early 20s, brown hair in 1930s style waves, earnest face, average height and build"
+      clothing: "Conservative 1930s female academic attire - dark skirt suit, white blouse, low-heeled oxford shoes, small handbag"
+      position: "Seated in wooden chair facing child, holding clipboard with experimental protocol"
+      action: "Speaking firmly to child while following scripted negative reinforcement protocol, pointing at child's mouth"
+    - appearance: "Small child, approximately 8-10 years old, fragile build, expressive eyes that become increasingly fearful"
+      clothing: "Standard orphanage attire - simple dress with pinafore, worn shoes, hair in institutional bob cut"
+      position: "Sitting in small wooden chair facing adult authority figure"
+      action: "Listening with growing confusion and distress as normal speech is criticized, touching throat nervously"
+  scene:
+    mainElements: "Two wooden chairs facing each other, small table, clipboard and papers, single overhead light, radiator against wall, bare institutional walls"
+    details: "Experimental protocol sheets on clipboard, pencils for note-taking, single window with institutional curtains, heating radiator creating occasional sounds, child's small hands gripping chair arms nervously"
+    background: "Sparse institutional room with minimal decoration, single window showing winter grounds, door closed creating sense of isolation, institutional corridor sounds barely audible"
+    atmosphere: "Intimidating isolation with authority figure criticizing normal speech, cold temperature from minimal heating, echoing voices creating sense of being trapped, psychological manipulation beginning to take effect, growing tension and fear, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot emphasizing power imbalance between adult and child"
+    focus: "Moment of initial psychological manipulation as child's confidence is deliberately undermined"
+    depth: "Foreground shows child's nervous reaction, middle ground centers on authority figure delivering criticism, background reveals isolated institutional setting"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Plant for the Planet Youth Campaign - The Question"
+  setting:
+    time: "May 2015, afternoon"
+    location: "United Nations Environment Programme headquarters, Nairobi, Kenya"
+    weather: "Clear African afternoon, bright sunlight streaming through conference windows"
+  characters:
+    - appearance: "German teenager, blonde hair, youthful face with determined expression"
+      clothing: "Casual youth activist attire - green-themed t-shirts, jeans, often wearing Plant for the Planet merchandise"
+      position: "Speaking at podium or meeting with environmental officials"
+      action: "Advocating for tree planting initiatives or asking crucial research questions"
+  scene:
+    mainElements: "Conference room with environmental officials, presentation displays showing global deforestation statistics, Plant for the Planet campaign materials"
+    details: "Young activist addressing UN officials across conference table, environmental charts and graphs on walls, green campaign banners, water glasses and notebooks on conference table, delegates listening intently, large windows showing African landscape beyond"
+    background: "Modern UN conference facility with institutional furniture, flags of member nations, official portraits on walls"
+    atmosphere: "Serious environmental discussion, youthful determination meeting institutional gravity, the moment a simple question would change scientific understanding"
+  composition:
+    cameraAngle: "Medium shot focusing on the youth activist addressing the assembly"
+    focus: "Character FF speaking passionately about tree planting goals and baseline questions"
+    depth: "Foreground shows the determined young speaker, middle ground captures attentive UN officials, background reveals the formal conference setting, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Students Predicting Their Performance with Misguided Confidence"
+  setting:
+    time: "March 1999, late afternoon"
+    location: "Cornell University Psychology Laboratory, Ithaca, New York"
+    weather: "Indoor controlled lighting"
+  characters:
+    - appearance: "Diverse group of undergraduates, ages 18-22, typical college appearance of late 1990s"
+      clothing: "Casual college attire - jeans, t-shirts, sweaters, backpacks with textbooks"
+      position: "Seated at individual testing stations in laboratory setting"
+      action: "Taking written tests, filling out assessments, or discussing results with researchers"
+  scene:
+    mainElements: "Modern academic research facility within university psychology building"
+    details: "Individual testing stations with desks, computers, standardized lighting, observation areas. Students completing self-assessment questionnaires after finishing logic tests, rating their own performance and estimating percentile rankings. Some students show clear overconfidence, marking high scores while others appear modest. Researchers observe from nearby stations. Written examination on standard test paper with multiple choice answers testing ability to identify grammatically correct standard English spread on some tables. Quiet, controlled environment with fluorescent lighting, beige walls, professional academic setting, no text or letters visible"
+    background: "Psychology laboratory with data collection materials, clipboards, statistical tracking sheets"
+    atmosphere: "Mixture of student overconfidence and genuine uncertainty as self-assessment reveals cognitive biases"
+  composition:
+    cameraAngle: "Medium shot focusing on student faces and expressions"
+    focus: "Students filling out self-assessment forms with varying degrees of confidence"
+    depth: "Foreground shows confident student, middle ground shows uncertain student, background shows research observers"

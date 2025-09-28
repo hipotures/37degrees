@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Peak Experiment Effects - March 1939"
+  setting:
+    time: "March 1939, morning"
+    location: "Iowa Soldiers' Orphans' Home classroom, Davenport"
+    weather: "Early spring day with some sunlight breaking through classroom windows"
+  characters:
+    - appearance: "Small child, approximately 8-10 years old, fragile build, expressive eyes that become increasingly fearful"
+      clothing: "Standard orphanage attire - simple dress with pinafore, worn shoes, hair in institutional bob cut"
+      position: "Seated at school desk, hunched over with head down"
+      action: "Refusing to speak when called upon by teacher, clamping mouth shut, showing extreme reluctance to verbally participate"
+    - appearance: "Teenage girl, approximately 15 years old, medium height, wary intelligent eyes, cautious posture"
+      clothing: "Simple orphanage dress - plain cotton fabric, practical shoes, hair in neat braids typical of institutional care"
+      position: "At another desk in same classroom"
+      action: "Whispering instead of speaking normally, avoiding teacher's attention, displaying protective body language"
+  scene:
+    mainElements: "Institutional classroom with wooden desks arranged in rows, teacher's desk at front, blackboard on wall, tall windows providing natural lighting, educational materials visible"
+    details: "Children's school supplies and books on desks, some children now exhibiting stuttering-like behaviors, nervous habits becoming more pronounced, academic work suffering as children avoid verbal participation"
+    background: "Classroom setting with other students and institutional educational environment, hallway visible through open door, institutional educational materials and decorations"
+    atmosphere: "Educational environment now threatening for experimental subjects, children's academic performance declining due to fear of speaking, normal classroom sounds contrasting with subjects' silence, psychological damage reaching peak intensity, institutional authority becoming associated with speech criticism, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from side angle showing multiple affected children"
+    focus: "Children's extreme reluctance to speak in educational setting where verbal participation is expected"
+    depth: "Foreground shows affected children's defensive postures, middle ground centers on classroom learning environment, background reveals broader institutional educational context"

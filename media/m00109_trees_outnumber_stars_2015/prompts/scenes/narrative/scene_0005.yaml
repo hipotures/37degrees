@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Data Processing - Mathematical Models Development"
+  setting:
+    time: "June 2015, midnight work session"
+    location: "Yale School of Forestry & Environmental Studies Laboratory, New Haven, Connecticut"
+    weather: "Quiet summer night, laboratory illuminated by computer screens and fluorescent lights"
+  characters:
+    - appearance: "Young scientist in his late 20s, medium build, brown hair, earnest expression typical of dedicated researchers"
+      clothing: "Professional academic attire - button-down shirts, khakis, occasional Yale-branded clothing for media appearances"
+      position: "Standing at computer workstation or addressing research team"
+      action: "Analyzing satellite data, presenting findings, or coordinating with international research team"
+  scene:
+    mainElements: "Computer workstations displaying global forest maps, large monitors showing satellite imagery, whiteboards covered with mathematical models"
+    details: "Multiple computer screens showing complex algorithmic processing, satellite forest imagery being analyzed pixel by pixel, statistical correlation charts, mathematical equations covering every available whiteboard surface, coffee cups and energy drink cans indicating extended work sessions, printouts of preliminary calculations scattered across desks"
+    background: "Darkened laboratory with only essential work lighting active, empty pizza boxes indicating late-night meals, other workstations temporarily abandoned"
+    atmosphere: "Intense academic focus in 2015, fluorescent lighting illuminating late-night research sessions, the excitement of discovery building toward publication"
+  composition:
+    cameraAngle: "Close-up on the researcher working intensely at multiple computer displays"
+    focus: "Character TC reviewing sophisticated mathematical models linking tree density to satellite imagery"
+    depth: "Foreground shows detailed algorithm displays and calculations, middle ground features the focused researcher, background reveals the quiet late-night laboratory environment, no text or letters visible"

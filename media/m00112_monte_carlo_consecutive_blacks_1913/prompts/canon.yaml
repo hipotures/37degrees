@@ -1,0 +1,74 @@
+canon:
+  characters:
+    - id: "croupier_primary"
+      name: "Primary Croupier"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man with impeccably groomed appearance, maintaining professional composure despite growing crowd excitement"
+            clothing: "Traditional casino uniform: black tailcoat, starched white shirt, white bow tie, white gloves for handling chips"
+            posture: "Professional stance behind roulette wheel, mechanically calling spins with trained precision"
+
+    - id: "aristocratic_gambler"
+      name: "Aristocratic Gambler"
+      description_block: |
+        characters:
+          - appearance: "Well-dressed gentleman in his 40s-50s, perfectly waxed mustache, showing increasing agitation as losses mount"
+            clothing: "Formal evening wear: black tailcoat, white waistcoat, gold pocket watch chain"
+            posture: "Initially confident and condescending, progressively more desperate and sweating as bets fail"
+
+    - id: "female_observer"
+      name: "Aristocratic Lady"
+      description_block: |
+        characters:
+          - appearance: "Elegant woman with elaborate hairstyle, jewelry glittering under chandelier light"
+            clothing: "Silk evening gown with bustle typical of 1913, opera gloves, diamond jewelry, feathered fan"
+            posture: "Initially amused by the spectacle, increasingly concerned as she witnesses financial ruin around her"
+
+    - id: "casino_manager"
+      name: "Casino Manager"
+      description_block: |
+        characters:
+          - appearance: "Distinguished older gentleman with gray beard, observing from elevated position"
+            clothing: "Finest formal casino attire with gold management pin, polished black shoes"
+            posture: "Calculating and observant stance, recognizing the historic nature and profitability of the event"
+
+  locations:
+    - id: "garnier_gambling_hall"
+      name: "Casino de Monte-Carlo Main Gambling Salon"
+      description_block: |
+        setting:
+          location: "Opulent Belle Époque gambling hall designed by Charles Garnier, Casino de Monte-Carlo, Monaco"
+        mainElements: "European single-zero roulette tables with green felt, marble columns, massive crystal chandeliers weighing 150kg each, ornate gilt-framed mirrors, elaborate ceiling frescoes"
+        atmosphere: "Thick tobacco smoke hanging in air, soft murmur of conversations in multiple European languages, rhythmic click of chips, mechanical spin of roulette wheels, mounting tension around one particular table"
+
+    - id: "monte_carlo_exterior"
+      name: "Casino de Monte-Carlo Exterior"
+      description_block: |
+        setting:
+          location: "Manicured formal gardens surrounding the Belle Époque casino building, Monte Carlo, Monaco"
+        mainElements: "Grand marble entrance steps, ornate facade with classical columns, gas-lit pathways with ornamental lampposts, perfectly manicured topiary gardens, ornate fountain"
+        atmosphere: "Warm Mediterranean evening air, gentle sea breeze from Monaco harbor, arriving horse-drawn carriages of wealthy patrons, soft golden lighting emanating from interior windows"
+
+    - id: "roulette_table_specific"
+      name: "The Famous Roulette Table"
+      description_block: |
+        setting:
+          location: "Single European-style roulette table within main gambling hall, Casino de Monte-Carlo"
+        mainElements: "Green felt betting layout with French markings, ivory ball, mahogany wheel with single zero, brass fixtures, neat stacks of ivory and mother-of-pearl betting chips"
+        atmosphere: "Increasingly crowded with desperate gamblers pressing closer, mounting tension with each spin, growing pile of chips stacked on red betting squares"
+
+  items:
+    - id: "european_roulette_wheel"
+      name: "European Roulette Wheel"
+      description_block: |
+        details: "Standard European wheel with 37 pockets numbered 1-36 plus single zero, alternating red and black colors, ivory ball, mahogany wood construction with brass fittings, numbers arranged in traditional European sequence"
+
+    - id: "gambling_chips"
+      name: "Monte Carlo Casino Chips"
+      description_block: |
+        details: "Elegant ivory and mother-of-pearl gaming chips with Monte Carlo casino insignia engraved in gold, various denominations in French francs, different colors representing different values, stacked neatly on green felt"
+
+    - id: "betting_layout"
+      name: "Roulette Betting Felt"
+      description_block: |
+        details: "Green felt betting surface with numbered grid in white, red and black color betting squares clearly marked, French text markings typical of European roulette with 'Rouge' and 'Noir' sections, side betting areas for odds and evens"

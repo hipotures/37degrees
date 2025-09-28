@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "JPL Mission Control During Early Mission Operations - December 1998"
+  setting:
+    time: "December 1998, daytime operations"
+    location: "JPL Mission Control Center, Pasadena, California"
+    weather: "Indoor environment, controlled climate"
+  characters:
+    - appearance: "Caucasian male, early 40s, medium height and build, dark hair, typically serious expression showing strain during crisis periods"
+      clothing: "JPL polo shirt or casual business attire, occasionally NASA jacket, engineering-appropriate practical clothing"
+      position: "Standing at mission control workstation or seated at computer terminal"
+      action: "Monitoring spacecraft data, coordinating with team members, showing focused technical-minded demeanor"
+    - appearance: "Generic representation of late 1990s aerospace engineer, male or female, casual professional appearance"
+      clothing: "JPL polo shirt, khakis, practical engineering attire, identification badge visible"
+      position: "Seated at computer workstation with multiple monitors"
+      action: "Analyzing trajectory data, showing growing concern as calculations reveal problems, focused on computer screens"
+  scene:
+    mainElements: "Modern mission control room with multiple levels of workstations facing large projection screens, rows of computer workstations, large wall displays showing Mars orbital mechanics, mission timeline boards, communication equipment"
+    details: "Multiple tiers of workstations with computer monitors displaying spacecraft telemetry, orbital trajectories, mission status screens. Large wall-mounted displays showing Mars orbital path graphics, mission timeline charts, communication status indicators. Engineers working at individual stations with keyboards, printouts, coffee cups, technical documentation spread across desks. CRT monitors showing green text on black backgrounds, typical of 1990s technology."
+    background: "Upper tier of mission control with additional workstations, wall-mounted mission patches and NASA imagery, observation windows for visitors"
+    atmosphere: "Initially calm professional environment, becoming tense during orbital insertion sequence, dramatic lighting from multiple monitors, focused concentration of engineering teams working together"
+  composition:
+    cameraAngle: "Medium shot from elevated position showing multiple workstation levels"
+    focus: "Main characters at central workstations, emphasizing teamwork and technical coordination"
+    depth: "Character workstations in foreground, additional engineers at middle tier, large wall displays in background, no text or letters visible"

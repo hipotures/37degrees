@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Lockheed Martin Small Forces Software Development - Early 1999"
+  setting:
+    time: "Early 1999, daytime work hours"
+    location: "Lockheed Martin Astronautics facility, Denver, Colorado"
+    weather: "Indoor environment, controlled industrial climate"
+  characters:
+    - appearance: "Generic aerospace contractor engineer, professional appearance typical of 1990s software developer"
+      clothing: "Business casual attire, contractor badge, Lockheed Martin company identification"
+      position: "Working at computer terminal with software interfaces visible"
+      action: "Developing software calculations, performing technical work with professional contractor demeanor"
+  scene:
+    mainElements: "Industrial aerospace facility with clean rooms and engineering workstations, computer terminals running Small Forces software, engineering documentation, spacecraft testing areas"
+    details: "Computer software interface displaying thruster performance calculations on 1990s-era workstation monitors, output values in pound-force seconds instead of required newton-seconds, critical error factor of 4.45 difference. Engineering workstation with CRT monitor showing software interface, multiple windows with numerical calculations, printouts scattered on desk, technical manuals, coffee cup, desk lamp providing additional lighting. Clean room environment visible through glass partition with spacecraft components."
+    background: "Professional contractor environment, fluorescent lighting, additional engineering workstations, whiteboards with technical diagrams, filing cabinets with project documentation"
+    atmosphere: "Technical precision mixed with time pressure, focused concentration on software development, industrial efficiency of contractor facility, unaware that critical error is being embedded in calculations"
+  composition:
+    cameraAngle: "Medium close-up shot focusing on engineer and computer workstation"
+    focus: "Software interface showing calculation outputs, engineer's concentration on technical work"
+    depth: "Computer monitor and engineer in foreground, workstation details in middle ground, clean room and facility background, no text or letters visible"

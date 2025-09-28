@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Inside the Opulent Gambling Hall"
+  setting:
+    time: "August 18, 1913, evening around 9:15 PM"
+    location: "Opulent Belle Époque gambling hall designed by Charles Garnier, Casino de Monte-Carlo, Monaco"
+    weather: "Interior environment"
+  characters:
+    - appearance: "Middle-aged man with impeccably groomed appearance, maintaining professional composure despite growing crowd excitement"
+      clothing: "Traditional casino uniform: black tailcoat, starched white shirt, white bow tie, white gloves for handling chips"
+      position: "Standing behind roulette table operating the wheel"
+      action: "Professional stance behind roulette wheel, mechanically calling spins with trained precision"
+    - appearance: "Well-dressed gentleman in his 40s-50s, perfectly waxed mustache, showing increasing agitation as losses mount"
+      clothing: "Formal evening wear: black tailcoat, white waistcoat, gold pocket watch chain"
+      position: "Seated at roulette table with other wealthy patrons"
+      action: "Initially confident and condescending, progressively more desperate and sweating as bets fail"
+  scene:
+    mainElements: "European single-zero roulette tables with green felt, marble columns, massive crystal chandeliers weighing 150kg each, ornate gilt-framed mirrors, elaborate ceiling frescoes"
+    details: "Standard European wheel with 37 pockets numbered 1-36 plus single zero, alternating red and black colors, ivory ball, mahogany wood construction with brass fittings, numbers arranged in traditional European sequence. Elegant ivory and mother-of-pearl gaming chips with Monte Carlo casino insignia engraved in gold, various denominations in French francs, different colors representing different values, stacked neatly on green felt"
+    background: "Additional gambling tables with well-dressed patrons, ornate architectural details typical of Belle Époque design, soft lighting from crystal chandeliers"
+    atmosphere: "Thick tobacco smoke hanging in air, soft murmur of conversations in multiple European languages, rhythmic click of chips, mechanical spin of roulette wheels, mounting tension around one particular table"
+  composition:
+    cameraAngle: "Medium shot focusing on the roulette table and immediate players"
+    focus: "The roulette wheel and croupier's professional handling of the game"
+    depth: "Roulette table and immediate players in foreground, other gaming tables in middle ground, ornate architectural details in background, no text or letters visible"

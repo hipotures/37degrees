@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Mars Climate Orbiter Final Approach - September 23, 1999"
+  setting:
+    time: "September 23, 1999, 09:00 UTC, early morning California time"
+    location: "Space near Mars, approximately 200 kilometers above Martian surface"
+    weather: "Vacuum of space transitioning toward thin Martian atmosphere"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Box-shaped spacecraft 2.1m high, 1.6m wide, 2m deep, total mass 629kg including 291kg propellant, single 5.5m solar array wing, 1.3m diameter high-gain dish antenna, gold thermal blankets, MARCI and PMIRR instruments mounted approaching Mars at dangerously low altitude"
+    details: "Spacecraft approaching Mars on trajectory that will take it too close to planet surface, approximately 57 kilometers above Martian surface instead of planned 226 kilometers. Mars looming large in frame showing reddish surface features, polar ice caps, atmospheric haze at horizon. Spacecraft appears small against massive planetary backdrop, emphasizing scale of approaching disaster. Solar array still deployed, high-gain antenna pointing toward Earth for final communications."
+    background: "Thin Martian atmosphere, reddish atmospheric haze, Mars surface visible below with distinctive geological features, space showing transition from deep black to faint atmospheric glow"
+    atmosphere: "Impending doom as spacecraft approaches at altitude too low for survival, mechanical systems operating normally unaware of fatal trajectory error, sense of magnificent engineering achievement about to be destroyed by calculation error"
+  composition:
+    cameraAngle: "Dramatic low angle showing spacecraft silhouetted against Mars"
+    focus: "Spacecraft positioned against massive Martian backdrop, emphasizing dangerous proximity to planet"
+    depth: "Spacecraft in foreground, Martian atmosphere in middle ground, planet surface stretching to background horizon, no text or letters visible"

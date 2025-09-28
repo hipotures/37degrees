@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Patient in fMRI Scanner During Placebo Treatment"
+  setting:
+    time: "Present day, research session hours"
+    location: "State-of-the-art neuroimaging facility with advanced brain scanning technology"
+    weather: "Climate-controlled research environment with LED lighting"
+  characters:
+    - appearance: "Contemporary neuroscientist, early 40s, casual academic appearance, short brown hair, focused expression typical of researcher analyzing brain scans"
+      clothing: "Casual button-down shirt, dark jeans, lab coat when in scanner room, comfortable walking shoes, university ID badge"
+      position: "Standing in control room observing scan in progress"
+      action: "Monitoring brain scanning session, adjusting equipment controls, recording real-time placebo response data"
+    - appearance: "Modern research volunteer, relaxed expression, lying still during brain scan procedure"
+      clothing: "Comfortable casual clothing suitable for MRI scanning, no metal objects"
+      position: "Lying on scanner bed inside cylindrical fMRI machine"
+      action: "Receiving placebo treatment while brain activity is monitored, remaining still during scanning procedure"
+  scene:
+    mainElements: "Cylindrical fMRI machine, multiple computer monitors showing brain activity, comfortable patient bed on tracks, intercom systems, observation windows"
+    details: "Colorful brain scan displays, computer keyboards and mice, medical monitoring equipment, comfortable patient positioning devices, safety equipment. Research volunteer positioned inside large cylindrical scanner, real-time brain imaging showing neural response to placebo treatment, monitoring equipment tracking physiological changes"
+    background: "Control room with additional monitoring stations, researchers observing through glass, additional scanning equipment"
+    atmosphere: "High-tech environment with humming machinery, soft electronic beeps, sense of cutting-edge discovery, quiet concentration and scientific precision, breakthrough demonstration of mind-body healing mechanisms, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing both scanner room and control room"
+    focus: "Patient in fMRI scanner with researcher monitoring real-time brain activity"
+    depth: "Patient in scanner in foreground, monitoring equipment in middle ground, research team in control room in background"

@@ -1,0 +1,103 @@
+canon:
+  characters:
+    - id: "character_SS"
+      name: "Character SS"
+      description_block: |
+        characters:
+          - appearance: "Mid-30s academic, medium build, thick-rimmed glasses typical of 1970s scholars, serious demeanor"
+            clothing: "Brown corduroy jacket with elbow patches, button-down shirt, narrow tie characteristic of university professor attire"
+            position: "Standing at chalkboard or sitting at desk with mathematical papers"
+            action: "Writing probability equations, reviewing statistical calculations, or defending mathematical positions"
+    - id: "character_MH"
+      name: "Character MH"
+      description_block: |
+        characters:
+          - appearance: "54 years old in 1975, silver-haired, well-groomed, television-ready appearance, warm smile"
+            clothing: "Sharp business suit, typically dark blue or charcoal, crisp white shirt, conservative tie, television makeup"
+            position: "Standing center stage or beside game show doors"
+            action: "Gesturing toward doors, interacting with contestants, hosting television game show segments"
+    - id: "character_MVS"
+      name: "Character MVS"
+      description_block: |
+        characters:
+          - appearance: "44 years old in 1990, blonde hair, elegant features, professionally styled"
+            clothing: "Professional business attire appropriate for media appearances, typically blazers and blouses"
+            position: "Sitting at desk writing or standing during media interviews"
+            action: "Writing magazine columns, explaining mathematical concepts, maintaining composure during criticism"
+    - id: "angry_professors"
+      name: "Angry Professors"
+      description_block: |
+        characters:
+          - appearance: "Various ages, predominantly male, serious academic bearing, mixture of young and senior faculty"
+            clothing: "Traditional academic attire: tweed jackets, cardigans, conservative dress shirts, some with tenure security"
+            position: "Standing at podiums, sitting in faculty meetings, or hunched over typewriters"
+            action: "Writing critical letters, debating in faculty lounges, defending mathematical authority with animated gestures"
+    - id: "character_PE"
+      name: "Character PE"
+      description_block: |
+        characters:
+          - appearance: "Elderly, thin, intense eyes behind glasses, disheveled appearance typical of devoted mathematician"
+            clothing: "Simple, often rumpled clothing, more concerned with mathematics than appearance"
+            position: "Sitting at desk surrounded by mathematical papers or standing before computer printouts"
+            action: "Studying computer simulation results, initially arguing against switching strategy, eventually accepting evidence"
+  locations:
+    - id: "berkeley_statistics_dept"
+      name: "UC Berkeley Statistics Department"
+      description_block: |
+        setting:
+          location: "UC Berkeley Statistics Department, institutional university building with fluorescent-lit offices and classrooms, Berkeley California"
+        mainElements: "Academic offices with floor-to-ceiling bookshelves filled with statistical journals, large chalkboards covered in probability equations, wooden desks with typewriters, filing cabinets"
+        atmosphere: "Serious academic environment, smell of chalk dust, quiet concentration broken by heated mathematical debates, intellectual intensity of 1970s university research"
+    - id: "american_statistician_office"
+      name: "American Statistician Editorial Office"
+      description_block: |
+        setting:
+          location: "Academic journal editorial office, university-based professional environment, 1970s institutional setting"
+        mainElements: "Editorial desks covered with submitted manuscripts, mechanical typewriters, filing cabinets filled with correspondence, stacks of mathematical journals, editorial review materials"
+        atmosphere: "Scholarly, methodical environment where academic debates played out through carefully peer-reviewed letters and formal mathematical discourse"
+    - id: "nbc_studio"
+      name: "NBC Let's Make a Deal Studio"
+      description_block: |
+        setting:
+          location: "NBC Television Studios, Burbank California, brightly lit game show set with colorful backdrop"
+        mainElements: "Three large numbered doors as main feature, bright studio lighting equipment, tiered audience seating, host podium, prize display areas with decorative elements"
+        atmosphere: "Energetic, festive television environment, audience excitement, warm professional lighting, dramatic musical moments, entertainment industry glamour"
+    - id: "parade_magazine_offices"
+      name: "Parade Magazine Editorial Offices"
+      description_block: |
+        setting:
+          location: "Parade Magazine editorial offices, New York City, busy 1990s newsroom environment with modern equipment"
+        mainElements: "Editorial desks, massive mail sorting areas overflowing with thousands of reader letters, early computers, telephone banks, magazine layout boards"
+        atmosphere: "Overwhelming chaos as 10,000 letters arrive, editorial staff struggling to process unprecedented response volume, crisis management mode"
+    - id: "university_mathematics_departments"
+      name: "University Mathematics Departments"
+      description_block: |
+        setting:
+          location: "Various university mathematics departments nationwide, traditional academic buildings with lecture halls and faculty offices"
+        mainElements: "Large chalkboards with probability equations, conference tables for faculty meetings, academic bulletin boards, mathematical reference books"
+        atmosphere: "Academic pride wounded, defensive conversations among faculty, gradual acceptance of being mathematically wrong, institutional embarrassment"
+  items:
+    - id: "original_selvin_letter"
+      name: "Selvin's 1975 Letter"
+      description_block: |
+        details: "Standard academic journal page with formal letterhead, black text on white paper, precise mathematical notation describing three-box problem with Lincoln Continental prize, published in The American Statistician"
+    - id: "vos_savant_column"
+      name: "Ask Marilyn Column"
+      description_block: |
+        details: "Magazine column format in Parade magazine, small print layout, simple language explanation of three-door problem with car and goats, clear statement about switching strategy"
+    - id: "angry_professor_letters"
+      name: "PhD Criticism Letters"
+      description_block: |
+        details: "Formal university letterheads from prestigious institutions, typewritten text, mathematical equations attempting to disprove switching strategy, condescending academic tone"
+    - id: "computer_simulations"
+      name: "Computer Simulation Results"
+      description_block: |
+        details: "Early 1990s computer printouts showing trial results, statistical analyses with numerical data, graphical representations demonstrating 67% win rate for switching strategy"
+    - id: "classroom_experiments"
+      name: "School Experiment Results"
+      description_block: |
+        details: "Student worksheets and tally sheets from nationwide classroom experiments, handwritten results showing switching wins approximately two-thirds of trials, educational materials"
+    - id: "lincoln_continental_prize"
+      name: "1975 Lincoln Continental"
+      description_block: |
+        details: "Large American luxury automobile, dark colored finish, prestigious symbol of 1970s success, new condition representing valuable prize worth mathematical calculation"

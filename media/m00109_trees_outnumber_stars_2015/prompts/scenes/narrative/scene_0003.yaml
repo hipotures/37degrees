@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Gaia Spacecraft - Star Mapping Mission"
+  setting:
+    time: "August 2015, continuous operation"
+    location: "European Space Agency's Gaia spacecraft positioned at L2 Lagrange Point, 1.5 million km from Earth"
+    weather: "Vacuum of deep space, no atmospheric conditions"
+  characters:
+    - appearance: "Middle-aged European astronomer, graying hair, scholarly appearance with wire-rimmed glasses"
+      clothing: "Professional ESA attire - dark suits for official presentations, casual button-downs for lab work"
+      position: "At mission control center or reviewing astronomical data"
+      action: "Operating Gaia spacecraft systems or analyzing galactic star count data"
+  scene:
+    mainElements: "Advanced optical instruments, precision gyroscopes, massive data storage systems continuously cataloging Milky Way stars"
+    details: "Sleek spacecraft with solar panels extended, precision optical telescopes pointing toward star fields, data transmission arrays, gyroscopic stabilization systems, onboard computers processing stellar measurements, Earth visible as distant blue dot in background"
+    background: "Star-filled void of deep space, Milky Way galaxy visible as luminous band, distant Earth and Moon barely visible"
+    atmosphere: "Silent operation in the vacuum of space, systematic scanning of the galactic plane, accumulating stellar measurement data"
+  composition:
+    cameraAngle: "Wide space shot showing the Gaia spacecraft against star field backdrop"
+    focus: "Gaia spacecraft with its precision instruments actively scanning star fields"
+    depth: "Foreground shows detailed spacecraft instrumentation, middle ground features the complete Gaia observatory, background reveals the vast starry cosmos being measured, no text or letters visible"

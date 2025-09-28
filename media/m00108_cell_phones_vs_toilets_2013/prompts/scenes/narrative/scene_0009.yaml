@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "International Development Aid Policy Response Planning"
+  setting:
+    time: "April-December 2013, ongoing policy discussions"
+    location: "Modern conference facility in The Hague, Netherlands, official host venue"
+    weather: "Various weather conditions during extended policy meetings"
+  characters:
+    - appearance: "African diplomat, middle-aged, authoritative presence"
+      clothing: "Professional business attire, UNICEF identification visible"
+      position: "Seated at conference table or standing beside podium"
+      action: "Supporting stance, nodding during announcements, data-focused presentation style"
+    - appearance: "Professional journalist, 40s, alert and engaged expression, press credentials visible"
+      clothing: "Business casual appropriate for international reporting, neutral colors"
+      position: "Seated in press area or standing with microphone"
+      action: "Taking notes, asking pointed questions, camera-ready presentation"
+  scene:
+    mainElements: "Large auditorium with multimedia capabilities, Dutch and UN flags, water-themed displays"
+    details: "Professional bound report with WHO/UNICEF joint branding, statistical charts and graphs visible but not readable, comprehensive data presentation format. Development aid planning materials spread across conference tables. Multiple international delegates in discussion."
+    background: "Professional conference center architecture, international flags"
+    atmosphere: "International cooperation focus, professional lighting, collaborative energy among global delegates"
+  composition:
+    cameraAngle: "Wide shot showing collaborative international policy planning"
+    focus: "Development aid policy discussions addressing global sanitation infrastructure gaps"
+    depth: "Policy makers and reports in foreground, international delegates in discussion in middle ground, conference facility with flags in background, no text or letters visible"

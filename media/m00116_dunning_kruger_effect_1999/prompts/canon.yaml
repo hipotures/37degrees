@@ -1,0 +1,73 @@
+canon:
+  characters:
+    - id: "character_DD"
+      name: "Character DD"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged academic (39 in 1999), medium build, scholarly demeanor with thoughtful expression"
+            clothing: "Professional academic attire - button-down shirt, slacks, occasionally sport coat for formal presentations"
+            position: "Seated at desk reviewing research papers or standing while explaining concepts"
+            action: "Conducting psychological research, analyzing data, or discussing findings with colleagues"
+    - id: "character_JK"
+      name: "Character JK"
+      description_block: |
+        characters:
+          - appearance: "Young graduate student in late 20s, clean-cut appearance typical of 1990s academia"
+            clothing: "Casual academic wear - khakis, polo shirts, sometimes lab coat during experiments"
+            position: "Working alongside mentor at research station or observing test sessions"
+            action: "Assisting with experiments, recording data, or collaborating on research methodology"
+    - id: "character_MW"
+      name: "Character MW"
+      description_block: |
+        characters:
+          - appearance: "Heavy-set man in his 40s, unremarkable features that became clearly visible on surveillance"
+            clothing: "Casual street clothes during robberies - jacket and pants, no mask or disguise"
+            position: "Standing at bank counter or being arrested by police"
+            action: "Attempting bank robbery or reacting with shock to surveillance footage"
+    - id: "test_subjects"
+      name: "Cornell Test Subjects"
+      description_block: |
+        characters:
+          - appearance: "Diverse group of undergraduates, ages 18-22, typical college appearance of late 1990s"
+            clothing: "Casual college attire - jeans, t-shirts, sweaters, backpacks with textbooks"
+            position: "Seated at individual testing stations in laboratory setting"
+            action: "Taking written tests, filling out assessments, or discussing results with researchers"
+  locations:
+    - id: "cornell_lab"
+      name: "Cornell Psychology Laboratory"
+      description_block: |
+        setting:
+          location: "Cornell University Psychology Laboratory, Ithaca, New York"
+        mainElements: "Individual testing stations with desks, computers, standardized lighting, observation areas"
+        atmosphere: "Quiet, controlled environment with fluorescent lighting, beige walls, professional academic setting"
+    - id: "pittsburgh_bank"
+      name: "Pittsburgh Area Bank Branch"
+      description_block: |
+        setting:
+          location: "Mid-1990s American bank branch, Greater Pittsburgh area, Pennsylvania"
+        mainElements: "Teller windows, surveillance cameras, security glass, customer areas with marble floors"
+        atmosphere: "Professional banking environment with security features clearly visible"
+    - id: "journal_office"
+      name: "Psychology Journal Editorial Office"
+      description_block: |
+        setting:
+          location: "Academic publishing office, Washington DC area"
+        mainElements: "Editorial desks, manuscript review materials, filing cabinets, academic journals"
+        atmosphere: "Rigorous academic environment focused on scientific publication standards"
+  items:
+    - id: "lsat_test"
+      name: "Logic Reasoning Test"
+      description_block: |
+        details: "20-item written test on standard paper, multiple choice format with logical reasoning questions adapted from LSAT preparation materials"
+    - id: "grammar_test"
+      name: "English Grammar Assessment"
+      description_block: |
+        details: "Written examination on standard test paper with multiple choice answers testing ability to identify grammatically correct standard English"
+    - id: "surveillance_footage"
+      name: "Bank Security Camera Recording"
+      description_block: |
+        details: "VHS surveillance recordings showing clear images despite subject's belief in invisibility method"
+    - id: "research_paper"
+      name: "Academic Research Publication"
+      description_block: |
+        details: "14-page academic journal article in Journal of Personality and Social Psychology, Volume 77, Issue 6, December 1999"

@@ -1,0 +1,108 @@
+sceneDescription:
+  setting:
+    time: June 26, 1931, morning
+    location: Converted room in the Kellogg home equipped with scientific instruments and testing apparatus
+    weather: Bright morning light streaming through windows, warm Florida temperature
+  characters:
+  - appearance: 10-month-old infant at experiment start, blonde hair, bright curious eyes, typical baby proportions, developing
+      motor skills throughout the study period
+    clothing: Baby onesies, cloth diapers, small shoes when learning to walk, matching outfits identical to Gua during testing
+      sessions
+    position: Crawling, sitting in high chair, or being held during testing procedures
+    action: Displaying natural infant behavior, learning to walk and communicate, later imitating chimp vocalizations with
+      concerning frequency
+  - appearance: 7.5-month-old female chimpanzee, dark fur, expressive brown eyes, smaller than Donald initially but physically
+      stronger, distinctive primate features
+    clothing: Human baby clothes - onesies, diapers, small shoes, sometimes wearing bonnets or hats for family photos, formal
+      dress for testing documentation
+    position: Sitting upright in chair, climbing on furniture, or positioned for testing alongside human infant
+    action: Demonstrating remarkable adaptability and affection, showing human-like emotional responses, excelling in physical
+      tasks and problem-solving
+  scene:
+    mainElements: Testing tables with measurement devices, observation chairs, note-taking stations, cameras for documentation,
+      various psychological testing apparatus including spinning chairs and maze equipment, scales and reflex hammers
+    details: Two identical wooden high chairs typical of 1930s design with safety straps and feeding trays positioned side
+      by side, baby onesies and diapers in duplicate sets laid out for identical treatment, bound notebooks opened for data
+      recording, measurement scales calibrated and ready, various testing devices arranged methodically on tables
+    background: Clinical atmosphere within domestic setting, controlled environment with scientific precision, constant sounds
+      of note-taking and measurement activities, bright artificial lighting
+    atmosphere: Historic moment as unprecedented cross-species experiment begins, scientific anticipation mixed with domestic
+      warmth, sense of entering uncharted territory in human psychology, no text or letters visible
+  composition:
+    cameraAngle: Medium shot capturing both subjects positioned identically
+    focus: The two infant subjects beginning their unique shared upbringing
+    depth: Foreground shows the two infants in matching positions, middle ground captures scientific equipment and recording
+      materials, background reveals the converted home laboratory setting
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

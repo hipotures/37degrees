@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "University Mathematics Departments Rally Against Vos Savant"
+  setting:
+    time: "November 1990, faculty meeting period"
+    location: "Various university mathematics departments nationwide, traditional academic buildings with lecture halls and faculty offices"
+    weather: "Late autumn, indoor academic environment with institutional heating"
+  characters:
+    - appearance: "Various ages, predominantly male, serious academic bearing, mixture of young and senior faculty"
+      clothing: "Traditional academic attire: tweed jackets, cardigans, conservative dress shirts, some with tenure security"
+      position: "Standing at podiums, sitting in faculty meetings, or hunched over typewriters"
+      action: "Writing critical letters, debating in faculty lounges, defending mathematical authority with animated gestures"
+  scene:
+    mainElements: "Large chalkboards with probability equations, conference tables for faculty meetings, academic bulletin boards, mathematical reference books"
+    details: "Multiple professors gathered around conference table in heated faculty meeting. Chalkboard shows mathematical equations attempting to disprove switching strategy. Reference books opened to probability theory chapters scattered across table. Professors gesture animatedly while defending mathematical authority. Typewriters show critical letters being composed on university letterheads. Mathematical journals and papers pile high on meeting table. Faculty members point at chalkboard calculations with intense academic conviction."
+    background: "Traditional university building interior with academic portraits, institutional furniture, other faculty offices visible through doorways"
+    atmosphere: "Academic pride wounded, defensive conversations among faculty, gradual acceptance of being mathematically wrong, institutional embarrassment"
+  composition:
+    cameraAngle: "Medium shot capturing faculty meeting with chalkboard equations visible"
+    focus: "Chalkboard showing probability calculations with professors arguing mathematical points"
+    depth: "Foreground shows mathematical equations on chalkboard, middle ground captures professors in animated discussion, background reveals traditional academic environment, no text or letters visible"

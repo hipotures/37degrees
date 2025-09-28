@@ -1,0 +1,103 @@
+sceneDescription:
+  setting:
+    time: February 1939, afternoon
+    location: Iowa Soldiers' Orphans' Home corridor and common area, Davenport
+    weather: Late winter day with gray skies visible through tall institutional windows
+  characters:
+  - appearance: Small child, approximately 8-10 years old, fragile build, expressive eyes that become increasingly fearful
+    clothing: Standard orphanage attire - simple dress with pinafore, worn shoes, hair in institutional bob cut
+    position: Standing alone against institutional wall in corridor
+    action: Reluctant to speak when approached by peers, covering mouth with hand, looking anxious about verbal communication
+  - appearance: Teenage girl, approximately 15 years old, medium height, wary intelligent eyes, cautious posture
+    clothing: Simple orphanage dress - plain cotton fabric, practical shoes, hair in neat braids typical of institutional
+      care
+    position: Nearby in same corridor, observing interaction
+    action: Becoming increasingly withdrawn and suspicious, protective body language developing, avoiding group conversations
+  scene:
+    mainElements: Long institutional corridor with high ceilings, bare walls with minimal decoration, other children moving
+      through space, communal areas with simple furniture, institutional lighting creating harsh shadows
+    details: Children showing new nervous habits - foot shuffling, gulping, mouth clamping, whispering instead of normal speech,
+      institutional furniture and fixtures, minimal personal belongings
+    background: Institutional corridor with other children and staff moving through space, dormitory doors visible along hallway,
+      winter light filtering through tall windows
+    atmosphere: Growing anxiety and behavioral changes in children, institutional echoes now seeming more threatening, sense
+      of psychological damage becoming apparent, children developing fear of normal speech, protective instincts emerging,
+      no text or letters visible
+  composition:
+    cameraAngle: Medium wide shot showing multiple children exhibiting changed behaviors
+    focus: Visible psychological effects of experimental manipulation on normal children
+    depth: Foreground shows children displaying new anxious behaviors, middle ground centers on institutional corridor environment,
+      background reveals broader institutional setting
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

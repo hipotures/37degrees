@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Monty Hall's Let's Make a Deal Television Studio Inspiration"
+  setting:
+    time: "1975, television production hours, bright studio lighting"
+    location: "NBC Television Studios, Burbank California, brightly lit game show set with colorful backdrop"
+    weather: "Indoor studio environment, controlled lighting and temperature"
+  characters:
+    - appearance: "54 years old in 1975, silver-haired, well-groomed, television-ready appearance, warm smile"
+      clothing: "Sharp business suit, typically dark blue or charcoal, crisp white shirt, conservative tie, television makeup"
+      position: "Standing center stage or beside game show doors"
+      action: "Gesturing toward doors, interacting with contestants, hosting television game show segments"
+  scene:
+    mainElements: "Three large numbered doors as main feature, bright studio lighting equipment, tiered audience seating, host podium, prize display areas with decorative elements"
+    details: "Character MH stands between three tall doors numbered 1, 2, 3, gesturing dramatically toward middle door. Studio audience fills tiered seating in background, television cameras positioned for optimal viewing angles. Professional lighting creates warm, inviting atmosphere. Prize display cases show luxury items including automobile visible through partially opened door. Game show set features colorful geometric patterns and 1970s television design aesthetic."
+    background: "Television studio infrastructure with lighting rigs, camera equipment, audience seating extending upward, backstage areas partially visible"
+    atmosphere: "Energetic, festive television environment, audience excitement, warm professional lighting, dramatic musical moments, entertainment industry glamour"
+  composition:
+    cameraAngle: "Wide establishing shot capturing full game show set and audience"
+    focus: "Three doors as central visual element with character MH positioned as charismatic host"
+    depth: "Foreground shows host and doors, middle ground captures studio audience, background reveals television production equipment and lighting, no text or letters visible"

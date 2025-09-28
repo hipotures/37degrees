@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Limited Medical Community Interest"
+  setting:
+    time: "1965, afternoon"
+    location: "Medical conference hall, academic medical center"
+    weather: "Indoor conference environment with artificial lighting"
+  characters:
+    - appearance: "Multiple medical professionals, various ages, formal academic bearing, some showing disinterest or skepticism"
+      clothing: "1960s formal medical conference attire - dark suits, white shirts, ties, some wearing physician coats"
+      position: "Scattered seating throughout conference hall, some empty seats visible"
+      action: "Few attendees listening to nocebo research presentation, others distracted or showing limited engagement"
+  scene:
+    mainElements: "Academic conference hall with rows of seats, presentation area, medical conference materials, sparse attendance"
+    details: "Conference podium with research presentation materials, medical journals and papers scattered on tables, some participants taking notes while others appear disengaged, empty seats indicating limited interest"
+    background: "Conference hall architecture, medical facility surroundings, academic institutional setting"
+    atmosphere: "Subdued academic environment showing lukewarm reception to groundbreaking research, sense of missed opportunity and limited recognition"
+  composition:
+    cameraAngle: "Wide shot from back of conference hall"
+    focus: "Sparse attendance at important nocebo research presentation"
+    depth: "Foreground shows empty seats, middle ground reveals scattered attendees, background displays presentation area, no text or letters visible"

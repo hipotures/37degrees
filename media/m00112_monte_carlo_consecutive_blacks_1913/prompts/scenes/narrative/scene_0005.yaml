@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Desperate Rush After Fifteen Blacks"
+  setting:
+    time: "August 18, 1913, evening around 10:30 PM"
+    location: "Single European-style roulette table within main gambling hall, Casino de Monte-Carlo"
+    weather: "Interior environment"
+  characters:
+    - appearance: "Well-dressed gentleman in his 40s-50s, perfectly waxed mustache, showing increasing agitation as losses mount"
+      clothing: "Formal evening wear: black tailcoat, white waistcoat, gold pocket watch chain"
+      position: "Leaning desperately over the betting layout"
+      action: "Initially confident and condescending, progressively more desperate and sweating as bets fail"
+    - appearance: "Middle-aged man with impeccably groomed appearance, maintaining professional composure despite growing crowd excitement"
+      clothing: "Traditional casino uniform: black tailcoat, starched white shirt, white bow tie, white gloves for handling chips"
+      position: "Behind wheel, handling the increasing volume of bets"
+      action: "Professional stance behind roulette wheel, mechanically calling spins with trained precision"
+    - appearance: "Distinguished older gentleman with gray beard, observing from elevated position"
+      clothing: "Finest formal casino attire with gold management pin, polished black shoes"
+      position: "Watching from management position, taking notes"
+      action: "Calculating and observant stance, recognizing the historic nature and profitability of the event"
+  scene:
+    mainElements: "Green felt betting layout with French markings, ivory ball, mahogany wheel with single zero, brass fixtures, neat stacks of ivory and mother-of-pearl betting chips"
+    details: "Near-panicky rush to bet on red has begun. Players are doubling and tripling their bets, convinced the mathematical balance must restore itself. Massive accumulation of chips on red betting squares. Faces showing strain and desperation as fortunes are wagered. Sweat visible on foreheads despite the elegant evening wear"
+    background: "Crowd has grown to include spectators from across the casino, some standing on chairs to see, mirrors reflecting the intense drama, smoke thickening in the air"
+    atmosphere: "Increasingly crowded with desperate gamblers pressing closer, mounting tension with each spin, growing pile of chips stacked on red betting squares"
+  composition:
+    cameraAngle: "Dramatic close-up on the desperate faces of the gamblers"
+    focus: "The strained expressions and sweating faces of the aristocratic players"
+    depth: "Intense player faces in sharp foreground, massive chip stacks in middle ground, crowded casino background, no text or letters visible"

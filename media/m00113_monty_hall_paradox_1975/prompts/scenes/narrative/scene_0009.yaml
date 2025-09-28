@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Academic Professors Write Letters of Admission and Apology"
+  setting:
+    time: "Late spring 1991, quiet evening in professor's study"
+    location: "University faculty office with traditional academic furnishings, personal study environment"
+    weather: "Calm evening with desk lamp providing focused lighting"
+  characters:
+    - appearance: "Middle-aged male professor, distinguished appearance, humbled expression, academic bearing softened by intellectual honesty"
+      clothing: "Casual academic attire: cardigan sweater over dress shirt, reading glasses, comfortable scholarly appearance"
+      position: "Seated at desk writing letter, surrounded by research materials and experimental evidence"
+      action: "Carefully composing letter of admission, reviewing experimental evidence, showing intellectual humility through posture and expression"
+  scene:
+    mainElements: "Academic desk with typewriter, computer simulation printouts, classroom experiment results, reference books on probability theory"
+    details: "Professor sits at desk composing letter of admission and apology. Computer printouts showing simulation results spread across workspace demonstrate switching strategy effectiveness. Student experiment worksheets from nationwide classroom trials pile on desk corner. Probability textbooks opened to relevant sections show mathematical foundations. Typewriter shows partially completed letter on university letterhead. Professor's expression reflects intellectual humility and academic honesty. Mathematical calculators and reference materials support evidence-based conclusion."
+    background: "Traditional professor's study with bookshelves, academic certificates, comfortable reading chair, warm academic lighting"
+    atmosphere: "Quiet contemplation, intellectual honesty overcoming pride, scholarly environment focused on truth over ego, peaceful acceptance of mathematical reality"
+  composition:
+    cameraAngle: "Medium shot capturing professor at desk with evidence materials visible"
+    focus: "Professor writing letter with experimental evidence and simulation results surrounding workspace"
+    depth: "Foreground shows typewriter and letter being composed, middle ground captures professor's humble expression, background reveals traditional academic study environment, no text or letters visible"

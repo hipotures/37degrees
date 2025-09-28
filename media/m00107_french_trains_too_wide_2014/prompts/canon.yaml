@@ -1,0 +1,76 @@
+canon:
+  characters:
+    - id: "character_FC"
+      name: "Character FC"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged French man, professional bearing, typical political style, 50s"
+            clothing: "Dark navy business suit, white dress shirt, conservative tie appropriate for ministry press conferences"
+            position: "Standing at official podium or seated at conference table"
+            action: "Speaking to press, gesturing with controlled authority, defending government position"
+    - id: "character_RS"
+      name: "Character RS"
+      description_block: |
+        characters:
+          - appearance: "Corporate executive type, 40s, appears defensive under media pressure, cautious demeanor"
+            clothing: "Conservative business attire befitting railway infrastructure company, gray or navy suit"
+            position: "Seated at press table or standing near railway documentation"
+            action: "Providing measured responses, attempting damage control, reviewing technical documents"
+    - id: "character_CJ"
+      name: "Character CJ"
+      description_block: |
+        characters:
+          - appearance: "French investigative journalist, 40s, sharp-eyed, alert expression"
+            clothing: "Casual journalistic attire, blazer over shirt, notebook always visible"
+            position: "Among press crowd or at desk with documents"
+            action: "Taking notes, asking probing questions, reviewing investigative materials"
+  locations:
+    - id: "french_regional_station"
+      name: "French Regional Station"
+      description_block: |
+        setting:
+          location: "Small to medium French regional railway station built 50+ years ago"
+        mainElements: "Narrow concrete platforms, vintage station buildings, traditional French railway architecture with characteristic roof lines"
+        atmosphere: "Quiet provincial setting, morning commuter activity, visible construction equipment and safety barriers"
+    - id: "ministry_transport_paris"
+      name: "Ministry of Transport Paris"
+      description_block: |
+        setting:
+          location: "French Ministry of Transport building, central Paris, formal press conference room"
+        mainElements: "Official ministry backdrop, French tricolor flags, wooden podium with multiple microphones"
+        atmosphere: "Tense political atmosphere under media scrutiny, formal government setting, damage control mode"
+    - id: "canard_offices"
+      name: "Le Canard Offices"
+      description_block: |
+        setting:
+          location: "Le Canard Enchaîné newspaper office, Paris, investigative journalism workspace"
+        mainElements: "Cluttered journalist desks, stacks of investigative files, editorial workspace with computers"
+        atmosphere: "Busy newsroom environment, triumphant mood after breaking major story"
+    - id: "platform_construction_site"
+      name: "Platform Construction Site"
+      description_block: |
+        setting:
+          location: "Active railway platform modification work site at French regional station"
+        mainElements: "Platform edge being cut back, orange safety barriers, concrete cutting equipment, work lights"
+        atmosphere: "Industrial construction noise, dust clouds, urgent repair work atmosphere"
+  items:
+    - id: "ter_regiolis_train"
+      name: "TER Regiolis Train"
+      description_block: |
+        details: "Modern regional passenger train, 3.05 meters wide, SNCF blue and silver livery, sleek aerodynamic design, multiple cars"
+    - id: "regio_2n_train"
+      name: "Regio 2N Train"
+      description_block: |
+        details: "Double-deck regional passenger train, 3.05 meters wide, modern aerodynamic design, Bombardier/Alstom blue and silver livery"
+    - id: "platform_measurements"
+      name: "Platform Measurements"
+      description_block: |
+        details: "Technical specification documents, official RFF letterhead, engineering drawings, measurement charts"
+    - id: "construction_equipment"
+      name: "Construction Equipment"
+      description_block: |
+        details: "Industrial concrete cutting saws, orange safety cones and barriers, hard hats, construction dust, power cables"
+    - id: "canard_newspaper"
+      name: "Le Canard Newspaper"
+      description_block: |
+        details: "French satirical weekly newspaper, distinctive satirical cartoon layout, May 21 2014 edition, investigative headlines"

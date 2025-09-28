@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Rural Family Connectivity Despite Basic Infrastructure Challenges"
+  setting:
+    time: "2013, late afternoon golden hour"
+    location: "Traditional rural village with mix of modern and traditional elements, dusty paths"
+    weather: "Warm, golden sunset lighting conditions"
+  characters:
+    - appearance: "Multi-generational Indian family - parents in 30s, children ages 5-12, elderly grandparent in 60s"
+      clothing: "Simple traditional rural clothing, worn but clean, earth-tone colors including saris and simple shirts"
+      position: "Gathered in courtyard or simple home setting"
+      action: "Family members gathered around mobile phone, children playing, dignified despite circumstances"
+  scene:
+    mainElements: "Simple homes with corrugated roofs, mobile phone tower visible in distance, communal areas"
+    details: "Larger touchscreen device, Android or early smartphone OS interface visible on screen, modest specifications, Samsung or similar brand, example of emerging smartphone technology. Family gathered around device in central courtyard. Traditional water storage vessels visible. Basic cooking area without modern amenities."
+    background: "Agricultural landscape, traditional village architecture"
+    atmosphere: "Dusty, warm climate, sounds of daily village life, contrast between connectivity and infrastructure gaps"
+  composition:
+    cameraAngle: "Intimate medium shot showing family gathering and technology use"
+    focus: "Rural family using smartphone technology while living without basic sanitation"
+    depth: "Family with smartphone in foreground, village homes and daily life in middle ground, agricultural landscape in background, no text or letters visible"

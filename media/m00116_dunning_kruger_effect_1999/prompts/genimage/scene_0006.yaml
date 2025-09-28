@@ -1,0 +1,102 @@
+sceneDescription:
+  setting:
+    time: Summer 1999, evening
+    location: Cornell University Psychology Laboratory, Ithaca, New York
+    weather: Indoor evening lighting
+  characters:
+  - appearance: Middle-aged academic (39 in 1999), medium build, scholarly demeanor with thoughtful expression
+    clothing: Professional academic attire - button-down shirt, slacks, occasionally sport coat for formal presentations
+    position: Seated at desk reviewing research papers or standing while explaining concepts
+    action: Conducting psychological research, analyzing data, or discussing findings with colleagues
+  - appearance: Young graduate student in late 20s, clean-cut appearance typical of 1990s academia
+    clothing: Casual academic wear - khakis, polo shirts, sometimes lab coat during experiments
+    position: Working alongside mentor at research station or observing test sessions
+    action: Assisting with experiments, recording data, or collaborating on research methodology
+  scene:
+    mainElements: Modern academic research facility within university psychology building
+    details: Individual testing stations with desks, computers, standardized lighting, observation areas. Professor and graduate
+      student hunched over computer terminals and statistical printouts, analyzing test results that show bottom quartile
+      students estimated themselves at 62nd percentile while actually scoring at 12th percentile. Charts and graphs spread
+      across desk reveal the inverse relationship between competence and confidence. Both researchers show expressions of
+      amazement at the clear pattern. Quiet, controlled environment with fluorescent lighting, beige walls, professional academic
+      setting, no text or letters visible
+    background: Research office with statistical software, data analysis equipment, psychology reference materials
+    atmosphere: Intellectual excitement and scientific breakthrough as researchers discover fundamental psychological pattern
+  composition:
+    cameraAngle: Close-up over-shoulder shot of data analysis
+    focus: Statistical results showing the dramatic competence-confidence disconnect
+    depth: Foreground shows computer screen with data, middle ground shows researchers' reactions, background shows academic
+      workspace
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

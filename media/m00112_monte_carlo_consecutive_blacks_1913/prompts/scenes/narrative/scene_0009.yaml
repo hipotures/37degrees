@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Twenty-Seventh Spin - Finally Red"
+  setting:
+    time: "August 18, 1913, late evening just after midnight"
+    location: "Single European-style roulette table within main gambling hall, Casino de Monte-Carlo"
+    weather: "Interior environment"
+  characters:
+    - appearance: "Middle-aged man with impeccably groomed appearance, maintaining professional composure despite growing crowd excitement"
+      clothing: "Traditional casino uniform: black tailcoat, starched white shirt, white bow tie, white gloves for handling chips"
+      position: "At the wheel, announcing the red result"
+      action: "Professional stance behind roulette wheel, mechanically calling spins with trained precision"
+    - appearance: "Well-dressed gentleman in his 40s-50s, perfectly waxed mustache, showing increasing agitation as losses mount"
+      clothing: "Formal evening wear: black tailcoat, white waistcoat, gold pocket watch chain"
+      position: "Staring hollow-eyed at the table, financially ruined"
+      action: "Initially confident and condescending, progressively more desperate and sweating as bets fail"
+    - appearance: "Elegant woman with elaborate hairstyle, jewelry glittering under chandelier light"
+      clothing: "Silk evening gown with bustle typical of 1913, opera gloves, diamond jewelry, feathered fan"
+      position: "Supporting the devastated gentleman"
+      action: "Initially amused by the spectacle, increasingly concerned as she witnesses financial ruin around her"
+  scene:
+    mainElements: "Green felt betting layout with French markings, ivory ball, mahogany wheel with single zero, brass fixtures, neat stacks of ivory and mother-of-pearl betting chips"
+    details: "The ball finally lands on red, but it is too late. Most players had lost their entire fortunes betting against the black streak before this twenty-seventh spin. The irony is complete - the red they desperately waited for has arrived when they have no money left to benefit from it. Empty chairs where wealthy aristocrats once sat confidently"
+    background: "Casino staff beginning to collect the enormous winnings for the house, other patrons quietly dispersing, the grand hall returning to a more subdued atmosphere after witnessing financial ruin"
+    atmosphere: "The tension has broken, replaced by a somber mood as the reality of losses settles in, tobacco smoke still hanging in the air of the now-quieter gambling hall"
+  composition:
+    cameraAngle: "Medium shot showing the aftermath of the historic gambling disaster"
+    focus: "The red pocket with the ball and the few remaining players counting their losses"
+    depth: "Roulette table with final result in foreground, devastated players in middle ground, emptying casino hall in background, no text or letters visible"

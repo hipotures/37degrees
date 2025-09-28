@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Revolutionary Wooden Tractor Placebo Test"
+  setting:
+    time: "1799, afternoon experimental session"
+    location: "Georgian-era medical practice in fashionable spa town of Bath, England, stone buildings with elegant facades"
+    weather: "Clear afternoon light filtering through tall windows"
+  characters:
+    - appearance: "Middle-aged English physician, approximately 59 years old, formal bearing typical of Georgian-era medical practitioners, powdered wig, clean-shaven face with intelligent, skeptical expression"
+      clothing: "Dark wool frock coat with brass buttons, white linen shirt with high collar, dark breeches, white stockings, black leather shoes with buckles, physician's bag in hand"
+      position: "Standing beside patient chair, applying wooden devices with same care as metal ones"
+      action: "Administering wooden placebo tractors with identical technique to metal ones, secretly observing patient for genuine response"
+    - appearance: "Middle-aged working-class person, weathered face showing chronic pain, hopeful expression when receiving treatment, visible relief after procedure"
+      clothing: "Simple wool clothing typical of late 18th century working class, worn but clean, brown or gray colors, basic leather shoes"
+      position: "Seated on examination chair or lying on medical table"
+      action: "Receiving wooden tractor treatment unknowingly, showing same relief as with metal devices, completely unaware of deception"
+  scene:
+    mainElements: "Well-appointed physician's office with wooden furniture, medical texts on shelves, examination table, window overlooking Bath's crescents"
+    details: "Oil lamps for lighting, brass medical instruments displayed, leather-bound journals open for recording results, wooden medicine cabinet with glass bottles, Persian carpet on floor. Physician applying two wooden rods crafted to exactly match metal originals, painted to resemble metal coloring, indistinguishable from originals to patient, revolutionary controlled experiment in progress"
+    background: "View through window shows Bath's characteristic Georgian architecture, cobblestone street with horse-drawn carriages"
+    atmosphere: "Quiet, professional environment with smell of medical herbs, tension of scientific discovery, physician's amazement at identical patient response to fake treatment, breakthrough moment in medical understanding, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot capturing both physician and patient reaction"
+    focus: "Wooden placebo tractors being applied, patient's genuine relief response"
+    depth: "Treatment application in foreground, patient's surprised relief in middle ground, physician's amazed expression in background"

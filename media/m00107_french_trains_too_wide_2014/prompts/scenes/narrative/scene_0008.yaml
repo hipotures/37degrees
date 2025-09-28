@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Transport Minister press conference - infamous 'tragically comical' response"
+  setting:
+    time: "May 22, 2014, afternoon"
+    location: "ministry_transport_paris"
+    weather: "Indoor government building, formal lighting"
+  characters:
+    - appearance: "character_FC"
+      clothing: "Dark navy business suit, white dress shirt, conservative tie appropriate for ministry press conferences"
+      position: "Standing at official podium or seated at conference table"
+      action: "Speaking to press, gesturing with controlled authority, defending government position"
+    - appearance: "Government aide, 40s, standing nearby ready to assist"
+      clothing: "Dark suit, formal government attire"
+      position: "Standing beside podium with additional briefing materials"
+      action: "Providing support during crisis press conference"
+  scene:
+    mainElements: "ministry_transport_paris with official ministry backdrop, French tricolor flags, wooden podium with multiple microphones"
+    details: "Multiple television cameras recording, bright media lights, press corps with notebooks and recording equipment, official government seals visible. Transport Minister appearing defensive while explaining the costly infrastructure mistake"
+    background: "ministry_transport_paris with formal government setting, French national symbols, official portraits"
+    atmosphere: "ministry_transport_paris atmosphere - tense political atmosphere under media scrutiny, formal government setting, damage control mode, no text or letters visible"
+  composition:
+    cameraAngle: "Straight-on shot from press corps perspective"
+    focus: "Transport Minister at podium addressing media about the crisis"
+    depth: "Foreground shows press corps with cameras and microphones, middle ground captures minister at podium, background reveals formal government setting"

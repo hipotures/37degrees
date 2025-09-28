@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Academic Curiosity Sparked by Newspaper Story"
+  setting:
+    time: "Late 1990s, morning"
+    location: "Cornell University Psychology Laboratory, Ithaca, New York"
+    weather: "Bright indoor lighting"
+  characters:
+    - appearance: "Middle-aged academic (39 in 1999), medium build, scholarly demeanor with thoughtful expression"
+      clothing: "Professional academic attire - button-down shirt, slacks, occasionally sport coat for formal presentations"
+      position: "Seated at desk reviewing research papers or standing while explaining concepts"
+      action: "Conducting psychological research, analyzing data, or discussing findings with colleagues"
+  scene:
+    mainElements: "Modern academic research facility within university psychology building"
+    details: "Individual testing stations with desks, computers, standardized lighting, observation areas. Psychology professor sits at desk reading newspaper article about bizarre bank robbery, deep in thought. Research materials, academic journals, and psychological texts scattered across workspace. Quiet, controlled environment with fluorescent lighting, beige walls, professional academic setting, no text or letters visible"
+    background: "University office with bookshelves filled with psychology texts, diplomas on walls, academic atmosphere"
+    atmosphere: "Intellectual curiosity and scholarly contemplation as academic mind processes unusual criminal case"
+  composition:
+    cameraAngle: "Medium shot from side angle"
+    focus: "Professor reading newspaper with intense concentration and growing fascination"
+    depth: "Foreground shows professor at desk, middle ground shows research materials, background shows academic office environment"

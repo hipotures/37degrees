@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Navigation Team Analyzing Trajectory Data - September 8, 1999"
+  setting:
+    time: "September 8, 1999, daytime operations"
+    location: "JPL Mission Control Center, Pasadena, California"
+    weather: "Indoor environment, controlled climate"
+  characters:
+    - appearance: "Generic representation of late 1990s aerospace engineer, male or female, casual professional appearance"
+      clothing: "JPL polo shirt, khakis, practical engineering attire, identification badge visible"
+      position: "Seated at computer workstation with multiple monitors"
+      action: "Analyzing trajectory data, showing growing concern as calculations reveal problems, focused on computer screens"
+    - appearance: "Caucasian male, early 40s, medium height and build, dark hair, typically serious expression showing strain during crisis periods"
+      clothing: "JPL polo shirt or casual business attire, occasionally NASA jacket, engineering-appropriate practical clothing"
+      position: "Standing at mission control workstation or seated at computer terminal"
+      action: "Monitoring spacecraft data, coordinating with team members, showing focused technical-minded demeanor"
+  scene:
+    mainElements: "Modern mission control room with multiple levels of workstations facing large projection screens, rows of computer workstations, large wall displays showing Mars orbital mechanics, mission timeline boards, communication equipment"
+    details: "Computer printouts and monitor displays showing orbital mechanics calculations and predicted spacecraft position, data showing decreasing insertion altitude from 226km planned to 57km actual, warning signs visible in final week. Multiple CRT monitors displaying numerical trajectory data, orbital mechanics graphs, Mars approach calculations. Engineers hunched over printouts with calculators, highlighters marking concerning data points. Coffee cups and technical manuals scattered across workstations."
+    background: "Additional mission control workstations with other team members, large wall displays showing Mars orbital graphics, mission timeline boards"
+    atmosphere: "Growing tension as trajectory analysis reveals problems, focused concentration turning to concern, technical precision mixed with emerging crisis awareness"
+  composition:
+    cameraAngle: "Over-the-shoulder shot focusing on computer monitors and data analysis"
+    focus: "Trajectory calculation displays showing concerning orbital data, engineer concentration on problem-solving"
+    depth: "Computer monitors and data in foreground, engineers working in middle ground, mission control room background, no text or letters visible"

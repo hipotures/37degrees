@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "WHO/UNICEF Statistical Analysis and Report Preparation"
+  setting:
+    time: "2013, morning work session"
+    location: "Modern international organization office building in Geneva, Switzerland"
+    weather: "Bright morning light illuminating office workspace"
+  characters:
+    - appearance: "Professional journalist, 40s, alert and engaged expression, press credentials visible"
+      clothing: "Business casual appropriate for international reporting, neutral colors"
+      position: "Seated in press area or standing with microphone"
+      action: "Taking notes, asking pointed questions, camera-ready presentation"
+  scene:
+    mainElements: "Data analysis workstations, world maps with sanitation statistics, report preparation areas"
+    details: "Professional bound report with WHO/UNICEF joint branding, statistical charts and graphs visible but not readable, comprehensive data presentation format. Multiple reports stacked on desk. Computer screens showing data visualizations. Research materials scattered across workspace."
+    background: "Professional office environment, international organization branding"
+    atmosphere: "Technical, data-focused environment, bright office lighting, collaborative research atmosphere"
+  composition:
+    cameraAngle: "Close-up shot focusing on statistical reports and data analysis"
+    focus: "WHO/UNICEF report documenting global sanitation crisis statistics"
+    depth: "Report and statistical materials in foreground, journalist reviewing data in middle ground, office environment in background, no text or letters visible"

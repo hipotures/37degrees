@@ -1,0 +1,65 @@
+canon:
+  characters:
+    - id: "character_TC"
+      name: "Character TC"
+      description_block: |
+        characters:
+          - appearance: "Young scientist in his late 20s, medium build, brown hair, earnest expression typical of dedicated researchers"
+            clothing: "Professional academic attire - button-down shirts, khakis, occasional Yale-branded clothing for media appearances"
+            position: "Standing at computer workstation or addressing research team"
+            action: "Analyzing satellite data, presenting findings, or coordinating with international research team"
+    - id: "character_FF"
+      name: "Character FF"
+      description_block: |
+        characters:
+          - appearance: "German teenager, blonde hair, youthful face with determined expression"
+            clothing: "Casual youth activist attire - green-themed t-shirts, jeans, often wearing Plant for the Planet merchandise"
+            position: "Speaking at podium or meeting with environmental officials"
+            action: "Advocating for tree planting initiatives or asking crucial research questions"
+    - id: "character_JB"
+      name: "Character JB"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged European astronomer, graying hair, scholarly appearance with wire-rimmed glasses"
+            clothing: "Professional ESA attire - dark suits for official presentations, casual button-downs for lab work"
+            position: "At mission control center or reviewing astronomical data"
+            action: "Operating Gaia spacecraft systems or analyzing galactic star count data"
+  locations:
+    - id: "yale_forest_lab"
+      name: "Yale School of Forestry Laboratory"
+      description_block: |
+        setting:
+          location: "Yale School of Forestry & Environmental Studies Laboratory, New Haven, Connecticut"
+        mainElements: "Computer workstations displaying global forest maps, large monitors showing satellite imagery, whiteboards covered with mathematical models"
+        atmosphere: "Intense academic focus in 2015, fluorescent lighting illuminating late-night research sessions, the excitement of discovery building toward publication"
+    - id: "gaia_spacecraft_location"
+      name: "Gaia Space Observatory at L2"
+      description_block: |
+        setting:
+          location: "European Space Agency's Gaia spacecraft positioned at L2 Lagrange Point, 1.5 million km from Earth"
+        mainElements: "Advanced optical instruments, precision gyroscopes, massive data storage systems continuously cataloging Milky Way stars"
+        atmosphere: "Silent operation in the vacuum of space, systematic scanning of the galactic plane, accumulating stellar measurement data"
+    - id: "global_forest_sites"
+      name: "Global Forest Measurement Sites"
+      description_block: |
+        setting:
+          location: "428,775 forest measurement plots distributed across 50+ countries on all continents"
+        mainElements: "Marked trees with diameter measurements, GPS coordinates, soil analysis equipment, local research teams conducting field work"
+        atmosphere: "Varying from humid tropical conditions to cold northern forests, the sound of field researchers documenting each qualifying tree"
+  items:
+    - id: "nature_paper_publication"
+      name: "Nature Research Paper"
+      description_block: |
+        details: "Published research paper in Nature journal, September 2, 2015, containing global tree density maps, statistical models, and the revolutionary 3.04 trillion tree calculation"
+    - id: "satellite_forest_data"
+      name: "Multi-spectral Satellite Imagery"
+      description_block: |
+        details: "Digital datasets from multiple Earth observation satellites, processed to identify forest cover and tree density patterns, high-resolution imagery combined with ground measurements"
+    - id: "gaia_star_catalog_data"
+      name: "Gaia Star Position Database"
+      description_block: |
+        details: "Digital database containing 272 billion positional measurements and photometric data points from Gaia's first year of operations, providing precise stellar coordinates and brightness measurements"
+    - id: "global_tree_density_map"
+      name: "Global Tree Density Visualization"
+      description_block: |
+        details: "Interactive digital map showing tree density per hectare across Earth's surface, color-coded visualization revealing that tropical forests contain 43% of trees, boreal regions 24%, temperate zones 22%"

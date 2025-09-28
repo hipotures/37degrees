@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Future Sustainable Development Goals Commitment Ceremony"
+  setting:
+    time: "2015, formal ceremony for SDG adoption"
+    location: "Large formal conference room with distinctive UN architecture, high ceilings, Manhattan"
+    weather: "Clear day in New York City for historic ceremony"
+  characters:
+    - appearance: "Tall, distinguished Swedish diplomat in his 60s, silver-gray hair, professional bearing"
+      clothing: "Dark blue business suit appropriate for formal UN proceedings, UN lapel pin"
+      position: "Standing at podium or seated at conference table"
+      action: "Delivering official statements with serious and determined expression, gestures emphasizing urgency"
+    - appearance: "African diplomat, middle-aged, authoritative presence"
+      clothing: "Professional business attire, UNICEF identification visible"
+      position: "Seated at conference table or standing beside podium"
+      action: "Supporting stance, nodding during announcements, data-focused presentation style"
+  scene:
+    mainElements: "Podium with UN logo, rows of delegate seating, simultaneous translation booths"
+    details: "Official UN document stack, white paper with blue UN header visible, multiple pages bound professionally, diplomatic seal, formal layout without readable text content. Historic ceremony setup with increased media presence. International delegates showing global commitment to addressing sanitation challenges identified in 2013."
+    background: "Large windows overlooking Manhattan skyline, formal diplomatic setting"
+    atmosphere: "Bright fluorescent lighting, serious atmosphere with media presence, formal diplomatic protocol"
+  composition:
+    cameraAngle: "Formal wide shot capturing historic commitment ceremony"
+    focus: "UN officials formalizing SDG commitments addressing sanitation crisis highlighted in 2013"
+    depth: "UN officials at podium in foreground, international delegates in middle ground, Manhattan skyline showing global commitment in background, no text or letters visible"

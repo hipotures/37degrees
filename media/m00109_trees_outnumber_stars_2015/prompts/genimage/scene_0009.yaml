@@ -1,0 +1,99 @@
+sceneDescription:
+  setting:
+    time: September 3-4, 2015, international news cycle
+    location: CNN newsroom, Atlanta, Georgia, and broadcast centers worldwide
+    weather: Clear late summer weather, newsrooms operating under artificial lighting around the clock
+  characters:
+  - appearance: International news anchors and science journalists, mixed ages and backgrounds, professional media appearance
+    clothing: Professional broadcast attire - tailored suits, makeup and styling for television, wireless microphones
+    position: At news desks, in front of global maps, conducting interviews via satellite links
+    action: Reporting the shocking tree count revelation to global audiences, interviewing scientists, displaying comparative
+      graphics
+  scene:
+    mainElements: News broadcast studios with global coverage graphics, science journalists reporting the tree-star comparison
+      revelation, international media coordination
+    details: Television studio monitors displaying tree density visualizations, world maps highlighting forest distributions,
+      satellite images of global tree coverage, news anchor desks with forest theme graphics, teleprompters with breaking
+      science news, camera operators capturing historic coverage, control room coordinating international feeds
+    background: 24-hour news cycle environment with multiple broadcast feeds, international news coordination centers, science
+      communication specialists
+    atmosphere: Excitement of major scientific revelation, global media attention focusing on environmental discovery, the
+      moment trees became more famous than stars
+  composition:
+    cameraAngle: Wide shot of news broadcast studio during major science story coverage
+    focus: News anchors reporting the trees outnumber Milky Way stars revelation to global audience
+    depth: Foreground shows broadcast desk with comparative graphics, middle ground features professional news presenters,
+      background reveals the international news coordination environment, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Georgian Bath Medical Practice - Introduction to Physician"
+  setting:
+    time: "1799, afternoon consultation hours"
+    location: "Georgian-era medical practice in fashionable spa town of Bath, England, stone buildings with elegant facades"
+    weather: "Clear afternoon light filtering through tall windows"
+  characters:
+    - appearance: "Middle-aged English physician, approximately 59 years old, formal bearing typical of Georgian-era medical practitioners, powdered wig, clean-shaven face with intelligent, skeptical expression"
+      clothing: "Dark wool frock coat with brass buttons, white linen shirt with high collar, dark breeches, white stockings, black leather shoes with buckles, physician's bag in hand"
+      position: "Standing attentively beside examination table or seated at desk reviewing notes"
+      action: "Conducting methodical examination of patient or carefully documenting experimental results in leather-bound journal"
+  scene:
+    mainElements: "Well-appointed physician's office with wooden furniture, medical texts on shelves, examination table, window overlooking Bath's crescents"
+    details: "Oil lamps for lighting, brass medical instruments displayed, leather-bound journals, wooden medicine cabinet with glass bottles, Persian carpet on floor. Two pointed metal rods displayed prominently on desk, approximately 4 inches long, brass construction with pointed tips and polished surface"
+    background: "View through window shows Bath's characteristic Georgian architecture, cobblestone street with horse-drawn carriages"
+    atmosphere: "Quiet, professional environment with smell of medical herbs, sound of horse-drawn carriages outside, sense of scientific curiosity and methodical investigation, no text or letters visible"
+  composition:
+    cameraAngle: "Medium establishing shot from patient's perspective"
+    focus: "Physician examining expensive metal medical devices on desk"
+    depth: "Physician in foreground, medical instruments in middle ground, Georgian Bath architecture visible through window in background"

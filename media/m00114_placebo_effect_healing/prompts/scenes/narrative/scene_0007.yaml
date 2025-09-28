@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Harvard Medical School Research Breakthrough 1955"
+  setting:
+    time: "1955, daytime research session"
+    location: "Harvard Medical School Laboratory, mid-20th century medical research facility"
+    weather: "Bright institutional lighting, climate controlled indoor environment"
+  characters:
+    - appearance: "Middle-aged American physician, approximately 52 years old, clean-shaven face, receding hairline, intense intellectual expression, wire-rimmed glasses"
+      clothing: "White medical coat over dark suit, starched white shirt, dark tie, hospital badge, stethoscope around neck, clipboard and papers in hand"
+      position: "Standing at podium giving presentation or seated at desk reviewing statistical data"
+      action: "Presenting research findings to colleagues or analyzing clinical trial data with focused concentration"
+  scene:
+    mainElements: "Research desks with typewriters, medical journals stacked high, statistical charts on walls, laboratory equipment, filing cabinets with patient data"
+    details: "Black rotary telephones, glass beakers and test tubes, manila folders, index card filing system, coffee cups and ashtrays. Academic journal pages with black text on white paper, statistical tables and charts, formal medical publication format spread across desk, documenting placebo effect research data"
+    background: "Additional research stations, bulletin boards with research notes, windows showing Harvard campus"
+    atmosphere: "Bustling academic energy, sounds of typing and discussion, smell of coffee and paper, sense of scientific breakthrough and systematic research, excitement of medical discovery, intellectual intensity of changing medical understanding, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from colleague's perspective"
+    focus: "Research physician analyzing statistical data and journal publications"
+    depth: "Researcher with documents in foreground, research equipment in middle ground, Harvard laboratory extending in background"

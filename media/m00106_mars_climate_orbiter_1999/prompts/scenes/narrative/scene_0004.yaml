@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Mars Climate Orbiter in Deep Space Transit - Mid 1999"
+  setting:
+    time: "Mid 1999, deep space during interplanetary cruise"
+    location: "Deep space between Earth and Mars, approximately halfway through journey"
+    weather: "Vacuum of space, extreme cold and radiation environment"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Box-shaped spacecraft 2.1m high, 1.6m wide, 2m deep, total mass 629kg including 291kg propellant, single 5.5m solar array wing, 1.3m diameter high-gain dish antenna, gold thermal blankets, MARCI and PMIRR instruments mounted traveling through deep space"
+    details: "Spacecraft bus with rectangular aluminum structure covered in gold thermal insulation blankets, single large solar array wing extended perpendicular to spacecraft body, high-gain dish antenna mounted on deployable boom pointing toward Earth for communication. Scientific instruments MARCI and PMIRR visible as mounted packages. Stars in background creating sense of vast distance and isolation. Sunlight illuminating one side of spacecraft while other side remains in shadow, creating stark contrast typical of space environment."
+    background: "Deep black space field with distant stars, no visible planets, sense of enormous distance from both Earth and Mars"
+    atmosphere: "Cold isolation of deep space, mechanical precision of spacecraft systems operating autonomously, sense of journey in progress toward Mars, anticipation building toward arrival"
+  composition:
+    cameraAngle: "Three-quarter view showing spacecraft profile with solar array and antenna clearly visible"
+    focus: "Complete spacecraft assembly emphasizing engineering design and space-worthy construction"
+    depth: "Spacecraft centered in frame against star field, solar array extending into middle ground, infinite space background, no text or letters visible"

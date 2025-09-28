@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "University of Iowa Speech Laboratory - Professor's Theory Development"
+  setting:
+    time: "Late 1938, afternoon"
+    location: "University of Iowa Speech Pathology Laboratory, Iowa City"
+    weather: "Overcast winter day with bare trees visible through laboratory windows"
+  characters:
+    - appearance: "Middle-aged professor, approximately 40 years old, balding with receding hairline, wire-rimmed glasses, stern facial features, medium build"
+      clothing: "1930s professional attire - dark wool suit, white dress shirt, conservative tie, leather dress shoes, occasionally white lab coat"
+      position: "Standing behind large desk covered with research papers and books"
+      action: "Examining speech pathology documents while taking detailed notes, pointing at diagrams of speech patterns"
+  scene:
+    mainElements: "Academic office with tall bookshelves filled with medical texts, desk covered with research papers, anatomical charts of vocal cords on walls, filing cabinets containing speech assessments"
+    details: "Scattered papers showing speech pattern diagrams, handwritten theories about stuttering causes, academic journals open to articles about speech development, measuring instruments for voice analysis, clipboard with experimental protocols"
+    background: "University building interior with institutional lighting, other faculty offices visible through hallway, sound of distant footsteps echoing through academic corridors"
+    atmosphere: "Serious academic environment focused on research, cold institutional lighting, smell of paper and ink, sense of scientific authority and determination to prove theories, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from slight low angle emphasizing authority"
+    focus: "Professor examining research documents and developing experimental protocols"
+    depth: "Foreground shows detailed research materials, middle ground centers on professor working, background reveals institutional academic setting"

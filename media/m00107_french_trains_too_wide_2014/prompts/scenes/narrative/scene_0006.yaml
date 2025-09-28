@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "RFF spokesman emergency briefing - damage control attempt"
+  setting:
+    time: "May 21, 2014, late afternoon"
+    location: "RFF corporate headquarters, conference room"
+    weather: "Indoor corporate environment, fluorescent lighting"
+  characters:
+    - appearance: "character_RS"
+      clothing: "Conservative business attire befitting railway infrastructure company, gray or navy suit"
+      position: "Seated at press table or standing near railway documentation"
+      action: "Providing measured responses, attempting damage control, reviewing technical documents"
+    - appearance: "Press reporter, 30s, persistent questioning"
+      clothing: "Professional journalist attire, recording equipment visible"
+      position: "Seated in press conference audience with other journalists"
+      action: "Asking pointed questions about the platform measurement failure"
+  scene:
+    mainElements: "Corporate conference room with RFF logos, press table with microphones, corporate backdrop showing railway infrastructure imagery"
+    details: "platform_measurements documents visible on table, RFF spokesman appearing defensive, multiple journalists with recording equipment, corporate damage control atmosphere. Press release materials and technical explanations prepared for media"
+    background: "Professional corporate setting with company branding, meeting room with formal seating"
+    atmosphere: "Tense damage control situation, corporate defensiveness, media pressure intensifying, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from press audience perspective"
+    focus: "RFF spokesman attempting to manage crisis communication"
+    depth: "Foreground shows press audience with recording equipment, middle ground captures defensive spokesman, background reveals corporate setting"

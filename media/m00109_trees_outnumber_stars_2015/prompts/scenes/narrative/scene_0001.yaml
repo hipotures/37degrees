@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Yale Forest Laboratory - Research Beginning"
+  setting:
+    time: "March 2015, late evening"
+    location: "Yale School of Forestry & Environmental Studies Laboratory, New Haven, Connecticut"
+    weather: "Clear spring night, artificial fluorescent lighting inside"
+  characters:
+    - appearance: "Young scientist in his late 20s, medium build, brown hair, earnest expression typical of dedicated researchers"
+      clothing: "Professional academic attire - button-down shirts, khakis, occasional Yale-branded clothing for media appearances"
+      position: "Standing at computer workstation or addressing research team"
+      action: "Analyzing satellite data, presenting findings, or coordinating with international research team"
+  scene:
+    mainElements: "Computer workstations displaying global forest maps, large monitors showing satellite imagery, whiteboards covered with mathematical models"
+    details: "Multiple screens showing colorful satellite images of forest canopies from different continents, stacks of research papers scattered across desks, coffee cups indicating long work sessions, mathematical equations covering whiteboards, world map with pins marking forest measurement sites"
+    background: "Modern academic laboratory with fluorescent lighting, shelves filled with scientific journals, additional workstations with other researchers in background"
+    atmosphere: "Intense academic focus in 2015, fluorescent lighting illuminating late-night research sessions, the excitement of discovery building toward publication"
+  composition:
+    cameraAngle: "Wide establishing shot showing the full laboratory space"
+    focus: "Character TC at central workstation with global forest data displays"
+    depth: "Foreground shows detailed computer screens, middle ground features the researcher at work, background reveals the broader laboratory environment, no text or letters visible"

@@ -1,0 +1,99 @@
+canon:
+  characters:
+    - id: "character_AS"
+      name: "Character AS"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Caucasian male, approximately 50-55 years old, medium build, graying brown hair, professional demeanor"
+            clothing: "Dark blue NASA windbreaker or white dress shirt with NASA logo, conservative business attire appropriate for government official"
+            position: "Standing at podium or seated at conference table"
+            action: "Presenting investigation findings or reviewing technical documents with serious analytical expression"
+    - id: "character_RC"
+      name: "Character RC"
+      description_block: |
+        characters:
+          - appearance: "Caucasian male, early 40s, medium height and build, dark hair, typically serious expression showing strain during crisis periods"
+            clothing: "JPL polo shirt or casual business attire, occasionally NASA jacket, engineering-appropriate practical clothing"
+            position: "Standing at mission control workstation or seated at computer terminal"
+            action: "Monitoring spacecraft data, coordinating with team members, showing focused technical-minded demeanor"
+    - id: "character_DG"
+      name: "Character DG"
+      description_block: |
+        characters:
+          - appearance: "Caucasian male, approximately 60 years old, medium build, balding with gray hair, distinctive authoritative features"
+            clothing: "Dark business suits appropriate for government administrator, occasionally NASA logo apparel for public appearances"
+            position: "Standing at podium or seated at head of conference table"
+            action: "Delivering administrative decisions, promoting policies, showing confident decisive leadership style during crisis management"
+    - id: "navigation_engineer"
+      name: "JPL Navigation Team Engineer"
+      description_block: |
+        characters:
+          - appearance: "Generic representation of late 1990s aerospace engineer, male or female, casual professional appearance"
+            clothing: "JPL polo shirt, khakis, practical engineering attire, identification badge visible"
+            position: "Seated at computer workstation with multiple monitors"
+            action: "Analyzing trajectory data, showing growing concern as calculations reveal problems, focused on computer screens"
+    - id: "lockheed_engineer"
+      name: "Lockheed Martin Software Engineer"
+      description_block: |
+        characters:
+          - appearance: "Generic aerospace contractor engineer, professional appearance typical of 1990s software developer"
+            clothing: "Business casual attire, contractor badge, Lockheed Martin company identification"
+            position: "Working at computer terminal with software interfaces visible"
+            action: "Developing software calculations, performing technical work with professional contractor demeanor"
+  locations:
+    - id: "jpl_mission_control"
+      name: "JPL Mission Control Center, Pasadena"
+      description_block: |
+        setting:
+          location: "JPL Mission Control Center, Pasadena, California"
+        mainElements: "Modern mission control room with multiple levels of workstations facing large projection screens, rows of computer workstations, large wall displays showing Mars orbital mechanics, mission timeline boards, communication equipment"
+        atmosphere: "Initially calm professional environment, becoming tense during orbital insertion sequence, dramatic lighting from multiple monitors"
+    - id: "cape_canaveral_launch"
+      name: "Cape Canaveral Air Force Station Launch Complex"
+      description_block: |
+        setting:
+          location: "Cape Canaveral Air Force Station Launch Complex, Florida"
+        mainElements: "Coastal Florida launch facility with Delta II rocket on launch pad, launch tower, rocket assembly building, Atlantic Ocean backdrop, support vehicles and personnel"
+        atmosphere: "Bright Florida sunshine, December evening launch preparations, anticipation and technical precision"
+    - id: "lockheed_martin_facility"
+      name: "Lockheed Martin Astronautics, Denver"
+      description_block: |
+        setting:
+          location: "Lockheed Martin Astronautics facility, Denver, Colorado"
+        mainElements: "Industrial aerospace facility with clean rooms and engineering workstations, computer terminals running Small Forces software, engineering documentation, spacecraft testing areas"
+        atmosphere: "Professional contractor environment, fluorescent lighting, technical precision mixed with time pressure"
+    - id: "mars_atmosphere"
+      name: "Mars Atmospheric Entry Point"
+      description_block: |
+        setting:
+          location: "Mars atmospheric entry point, approximately 57 kilometers above Martian surface"
+        mainElements: "Thin Martian atmosphere, reddish atmospheric haze, Mars surface visible below, spacecraft approaching at high velocity"
+        atmosphere: "Hostile environment, intense heat buildup, communications blackout, mechanical stress on spacecraft"
+    - id: "nasa_headquarters"
+      name: "NASA Headquarters, Washington D.C."
+      description_block: |
+        setting:
+          location: "NASA Headquarters, Washington D.C."
+        mainElements: "Government office building with formal meeting rooms and administrative offices, conference rooms for investigation board meetings, official NASA imagery, government-standard office furniture"
+        atmosphere: "Formal government environment, serious tone during investigation period, bureaucratic efficiency"
+  items:
+    - id: "mars_climate_orbiter"
+      name: "Mars Climate Orbiter Spacecraft"
+      description_block: |
+        details: "Box-shaped spacecraft 2.1m high, 1.6m wide, 2m deep, total mass 629kg including 291kg propellant, single 5.5m solar array wing, 1.3m diameter high-gain dish antenna, gold thermal blankets, MARCI and PMIRR instruments mounted"
+    - id: "small_forces_software"
+      name: "Small Forces Ground Software"
+      description_block: |
+        details: "Computer software interface displaying thruster performance calculations on 1990s-era workstation monitors, output values in pound-force seconds instead of required newton-seconds, critical error factor of 4.45 difference"
+    - id: "trajectory_calculations"
+      name: "Navigation Trajectory Data"
+      description_block: |
+        details: "Computer printouts and monitor displays showing orbital mechanics calculations and predicted spacecraft position, data showing decreasing insertion altitude from 226km planned to 57km actual, warning signs visible in final week"
+    - id: "investigation_report"
+      name: "MCO Mishap Investigation Board Phase I Report"
+      description_block: |
+        details: "Formal NASA document, approximately 50+ pages, official government formatting and NASA letterhead, released November 10, 1999, identifying root cause and systemic failures, recommendations for process improvements"
+    - id: "delta_ii_rocket"
+      name: "Delta II 7425 Launch Vehicle"
+      description_block: |
+        details: "Multi-stage rocket approximately 39 meters tall, white with blue NASA markings, solid rocket boosters attached, successfully delivered Mars Climate Orbiter to Earth-Mars transfer trajectory"

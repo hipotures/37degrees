@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "1933 - Publication and Legacy of Failed Experiment"
+  setting:
+    time: "1933, afternoon"
+    location: "Academic office or study with published research book and academic materials"
+    weather: "Bright afternoon light through office windows"
+  characters:
+    - appearance: "Middle-aged academic man in his early 40s, medium build, wearing wire-rimmed glasses typical of 1930s scholars, neat mustache, serious demeanor with intense observational focus"
+      clothing: "Professional 1930s attire - white dress shirt, dark tie, wool vest, sometimes wearing a laboratory coat during testing sessions, polished leather shoes"
+      position: "Standing at testing table or sitting with notebook, maintaining professional posture"
+      action: "Taking detailed notes constantly, observing and recording behavior, conducting scientific measurements with methodical precision"
+  scene:
+    mainElements: "Academic book published in 1933, bound in typical 1930s academic format, containing photographs, charts, and detailed analysis arranged on desk, academic office setting with scholarly materials, published research documenting the controversial experiment"
+    details: "Comprehensive documentation of the experiment's methodology, daily observations, test results, and conclusions about nature versus nurture displayed in published form, academic achievement representing both scientific contribution and cautionary tale, formal presentation of research findings despite experiment's premature termination, scholarly legacy of unprecedented but ethically questionable study"
+    background: "Professional academic environment emphasizing scholarly research, sense of scientific community processing controversial findings, institutional setting where experiment's impact being evaluated, atmosphere of academic reflection on bold but failed experiment"
+    atmosphere: "Complex legacy of groundbreaking but ethically problematic research, scientific achievement shadowed by concerns about human and animal welfare, sense of lessons learned about limits of experimental psychology, lasting impact on research ethics, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot focused on published research and researcher"
+    focus: "The academic publication representing the experiment's permanent legacy"
+    depth: "Foreground shows the published book documenting the controversial study, middle ground captures the researcher reflecting on the work's impact, background reveals scholarly academic setting where ethical implications continue to be debated"

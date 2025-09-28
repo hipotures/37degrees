@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "International Media Coverage of Development Statistics"
+  setting:
+    time: "March 23-25, 2013, various times during media cycle"
+    location: "Large formal conference room with distinctive UN architecture, high ceilings, Manhattan"
+    weather: "Clear weather conditions for media coverage"
+  characters:
+    - appearance: "Professional journalist, 40s, alert and engaged expression, press credentials visible"
+      clothing: "Business casual appropriate for international reporting, neutral colors"
+      position: "Seated in press area or standing with microphone"
+      action: "Taking notes, asking pointed questions, camera-ready presentation"
+  scene:
+    mainElements: "Podium with UN logo, rows of delegate seating, simultaneous translation booths"
+    details: "Press photographers capturing the moment. Multiple media representatives with recording equipment. Camera crews positioned throughout the conference room. Professional media lighting setup. Microphones arranged for press questions."
+    background: "Large windows overlooking Manhattan skyline, formal diplomatic setting"
+    atmosphere: "Bright fluorescent lighting, serious atmosphere with media presence, formal diplomatic protocol"
+  composition:
+    cameraAngle: "Medium shot capturing media response and documentation"
+    focus: "International journalists covering the shocking global development statistics"
+    depth: "Journalist with microphone in foreground, press corps and camera equipment in middle ground, UN conference setting in background, no text or letters visible"

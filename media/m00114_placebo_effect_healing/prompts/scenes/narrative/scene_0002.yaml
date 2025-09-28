@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Patient Receiving Expensive Metal Tractor Treatment"
+  setting:
+    time: "1799, afternoon consultation hours"
+    location: "Georgian-era medical practice in fashionable spa town of Bath, England, stone buildings with elegant facades"
+    weather: "Clear afternoon light filtering through tall windows"
+  characters:
+    - appearance: "Middle-aged English physician, approximately 59 years old, formal bearing typical of Georgian-era medical practitioners, powdered wig, clean-shaven face with intelligent, skeptical expression"
+      clothing: "Dark wool frock coat with brass buttons, white linen shirt with high collar, dark breeches, white stockings, black leather shoes with buckles, physician's bag in hand"
+      position: "Standing beside patient chair, leaning forward with medical device"
+      action: "Carefully applying pointed metal tractors to patient's affected area, observing patient's reaction closely"
+    - appearance: "Middle-aged working-class person, weathered face showing chronic pain, hopeful expression when receiving treatment, visible relief after procedure"
+      clothing: "Simple wool clothing typical of late 18th century working class, worn but clean, brown or gray colors, basic leather shoes"
+      position: "Seated on examination chair or lying on medical table"
+      action: "Receiving treatment from physician, expression changing from skepticism to amazement as pain diminishes"
+  scene:
+    mainElements: "Well-appointed physician's office with wooden furniture, medical texts on shelves, examination table, window overlooking Bath's crescents"
+    details: "Oil lamps for lighting, brass medical instruments displayed, leather-bound journals, wooden medicine cabinet with glass bottles, Persian carpet on floor. Physician holding two pointed metal rods, approximately 4 inches long, brass construction with pointed tips and polished surface, applying them to patient's body"
+    background: "View through window shows Bath's characteristic Georgian architecture, cobblestone street with horse-drawn carriages"
+    atmosphere: "Quiet, professional environment with smell of medical herbs, sound of horse-drawn carriages outside, sense of scientific curiosity and methodical investigation, patient showing genuine surprise at pain relief, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot focusing on treatment application"
+    focus: "Physician's hands applying metal tractors to patient, patient's changing facial expression"
+    depth: "Treatment action in foreground, patient's relieved expression in middle ground, medical office details in background"

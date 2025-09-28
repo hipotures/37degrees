@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First platform compatibility test - problem discovered"
+  setting:
+    time: "April 2014, morning"
+    location: "french_regional_station"
+    weather: "Overcast spring day, diffused lighting"
+  characters:
+    - appearance: "SNCF engineer, 40s, concerned expression, holding measuring tape"
+      clothing: "SNCF work jacket, hard hat, safety vest"
+      position: "Crouched beside train measuring clearance between train and platform edge"
+      action: "Discovering the clearance problem, measuring the dangerous gap with growing alarm"
+    - appearance: "Train conductor, 50s, experienced railway worker, worried"
+      clothing: "SNCF conductor uniform, peaked cap"
+      position: "Standing in train doorway observing the clearance test"
+      action: "Witnessing the measurement problem, realizing passenger safety implications"
+  scene:
+    mainElements: "ter_regiolis_train stopped at french_regional_station platform with visible clearance problem. New modern train clearly too wide for the vintage platform, creating dangerous gap"
+    details: "Engineer with measuring tape showing insufficient clearance, safety cones placed around danger area, other railway personnel in background discussing the discovery. The train's modern 3.05-meter width creating obvious spacing issues with the narrow 50-year-old platform"
+    background: "Traditional station building, other platforms visible in distance, morning commuters kept at safe distance"
+    atmosphere: "Growing concern and realization of major infrastructure problem, professional alarm at safety implications, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot focusing on the clearance measurement"
+    focus: "Engineer measuring dangerous gap between modern train and vintage platform"
+    depth: "Foreground shows critical measurement activity, middle ground captures concerned railway personnel, background reveals scope of station infrastructure"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Global Forest Sites - Field Research Teams"
+  setting:
+    time: "April 2015, midday"
+    location: "428,775 forest measurement plots distributed across 50+ countries on all continents"
+    weather: "Varied conditions across global forest sites - tropical humidity, temperate sunshine, boreal coolness"
+  characters:
+    - appearance: "International team of field researchers, mixed ages and backgrounds, wearing practical field gear"
+      clothing: "Khaki field pants, hiking boots, weather-appropriate jackets, research equipment vests with measuring tools"
+      position: "Scattered throughout dense forest, some kneeling by marked trees, others recording GPS coordinates"
+      action: "Measuring tree diameters with calipers, recording data on tablets, marking trees with survey tape"
+  scene:
+    mainElements: "Marked trees with diameter measurements, GPS coordinates, soil analysis equipment, local research teams conducting field work"
+    details: "Yellow survey tape marking specific trees, diameter measuring calipers wrapped around tree trunks, handheld GPS devices, data recording tablets, soil sample containers, measuring poles extending upward to gauge tree heights, flagged measurement plots"
+    background: "Dense forest canopy filtering sunlight, mixture of deciduous and coniferous trees, natural forest floor with fallen leaves and undergrowth"
+    atmosphere: "Varying from humid tropical conditions to cold northern forests, the sound of field researchers documenting each qualifying tree"
+  composition:
+    cameraAngle: "Medium shot showing researchers at work among the trees"
+    focus: "Field team member measuring a large tree trunk with professional calipers"
+    depth: "Foreground shows detailed measuring equipment in use, middle ground features researchers working methodically, background reveals the vast forest extending beyond, no text or letters visible"

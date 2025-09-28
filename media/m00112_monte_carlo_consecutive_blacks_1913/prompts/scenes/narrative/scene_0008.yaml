@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Twenty-Sixth Black - History Made"
+  setting:
+    time: "August 18, 1913, late evening around midnight"
+    location: "Single European-style roulette table within main gambling hall, Casino de Monte-Carlo"
+    weather: "Interior environment"
+  characters:
+    - appearance: "Middle-aged man with impeccably groomed appearance, maintaining professional composure despite growing crowd excitement"
+      clothing: "Traditional casino uniform: black tailcoat, starched white shirt, white bow tie, white gloves for handling chips"
+      position: "Standing at the wheel, ivory ball still spinning"
+      action: "Professional stance behind roulette wheel, mechanically calling spins with trained precision"
+    - appearance: "Well-dressed gentleman in his 40s-50s, perfectly waxed mustache, showing increasing agitation as losses mount"
+      clothing: "Formal evening wear: black tailcoat, white waistcoat, gold pocket watch chain"
+      position: "Staring in disbelief at the wheel"
+      action: "Initially confident and condescending, progressively more desperate and sweating as bets fail"
+    - appearance: "Distinguished older gentleman with gray beard, observing from elevated position"
+      clothing: "Finest formal casino attire with gold management pin, polished black shoes"
+      position: "Witnessing history from his management position"
+      action: "Calculating and observant stance, recognizing the historic nature and profitability of the event"
+  scene:
+    mainElements: "Green felt betting layout with French markings, ivory ball, mahogany wheel with single zero, brass fixtures, neat stacks of ivory and mother-of-pearl betting chips"
+    details: "The twenty-sixth consecutive black result has just occurred. The ivory ball sits in a black pocket, creating one of the most statistically improbable events in gambling history. Mountains of chips wagered on red represent millions of lost francs. The moment of absolute mathematical certainty that proved absolutely wrong"
+    background: "Stunned silence has fallen over the previously murmuring crowd, crystal chandeliers casting light on faces frozen in disbelief, the ornate Belle Époque architecture witnessing this historic moment"
+    atmosphere: "Increasingly crowded with desperate gamblers pressing closer, mounting tension with each spin, growing pile of chips stacked on red betting squares"
+  composition:
+    cameraAngle: "Dramatic close-up of the roulette wheel showing the ball in black"
+    focus: "The ivory ball resting in the black pocket, creating the historic twenty-sixth consecutive result"
+    depth: "Roulette wheel with ball in black pocket in sharp foreground, stunned players in middle ground, silent crowd in background, no text or letters visible"

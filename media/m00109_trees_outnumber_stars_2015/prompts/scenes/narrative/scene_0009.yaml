@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Global Media Explosion - Trees Outnumber Stars Headlines"
+  setting:
+    time: "September 3-4, 2015, international news cycle"
+    location: "CNN newsroom, Atlanta, Georgia, and broadcast centers worldwide"
+    weather: "Clear late summer weather, newsrooms operating under artificial lighting around the clock"
+  characters:
+    - appearance: "International news anchors and science journalists, mixed ages and backgrounds, professional media appearance"
+      clothing: "Professional broadcast attire - tailored suits, makeup and styling for television, wireless microphones"
+      position: "At news desks, in front of global maps, conducting interviews via satellite links"
+      action: "Reporting the shocking tree count revelation to global audiences, interviewing scientists, displaying comparative graphics"
+  scene:
+    mainElements: "News broadcast studios with global coverage graphics, science journalists reporting the tree-star comparison revelation, international media coordination"
+    details: "Television studio monitors displaying tree density visualizations, world maps highlighting forest distributions, satellite images of global tree coverage, news anchor desks with forest theme graphics, teleprompters with breaking science news, camera operators capturing historic coverage, control room coordinating international feeds"
+    background: "24-hour news cycle environment with multiple broadcast feeds, international news coordination centers, science communication specialists"
+    atmosphere: "Excitement of major scientific revelation, global media attention focusing on environmental discovery, the moment trees became more famous than stars"
+  composition:
+    cameraAngle: "Wide shot of news broadcast studio during major science story coverage"
+    focus: "News anchors reporting the trees outnumber Milky Way stars revelation to global audience"
+    depth: "Foreground shows broadcast desk with comparative graphics, middle ground features professional news presenters, background reveals the international news coordination environment, no text or letters visible"

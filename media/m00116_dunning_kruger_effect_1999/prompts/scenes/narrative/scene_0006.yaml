@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Data Analysis Reveals the Stunning Pattern"
+  setting:
+    time: "Summer 1999, evening"
+    location: "Cornell University Psychology Laboratory, Ithaca, New York"
+    weather: "Indoor evening lighting"
+  characters:
+    - appearance: "Middle-aged academic (39 in 1999), medium build, scholarly demeanor with thoughtful expression"
+      clothing: "Professional academic attire - button-down shirt, slacks, occasionally sport coat for formal presentations"
+      position: "Seated at desk reviewing research papers or standing while explaining concepts"
+      action: "Conducting psychological research, analyzing data, or discussing findings with colleagues"
+    - appearance: "Young graduate student in late 20s, clean-cut appearance typical of 1990s academia"
+      clothing: "Casual academic wear - khakis, polo shirts, sometimes lab coat during experiments"
+      position: "Working alongside mentor at research station or observing test sessions"
+      action: "Assisting with experiments, recording data, or collaborating on research methodology"
+  scene:
+    mainElements: "Modern academic research facility within university psychology building"
+    details: "Individual testing stations with desks, computers, standardized lighting, observation areas. Professor and graduate student hunched over computer terminals and statistical printouts, analyzing test results that show bottom quartile students estimated themselves at 62nd percentile while actually scoring at 12th percentile. Charts and graphs spread across desk reveal the inverse relationship between competence and confidence. Both researchers show expressions of amazement at the clear pattern. Quiet, controlled environment with fluorescent lighting, beige walls, professional academic setting, no text or letters visible"
+    background: "Research office with statistical software, data analysis equipment, psychology reference materials"
+    atmosphere: "Intellectual excitement and scientific breakthrough as researchers discover fundamental psychological pattern"
+  composition:
+    cameraAngle: "Close-up over-shoulder shot of data analysis"
+    focus: "Statistical results showing the dramatic competence-confidence disconnect"
+    depth: "Foreground shows computer screen with data, middle ground shows researchers' reactions, background shows academic workspace"

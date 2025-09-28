@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Writing the Groundbreaking Research Paper"
+  setting:
+    time: "Fall 1999, late evening"
+    location: "Cornell University Psychology Laboratory, Ithaca, New York"
+    weather: "Indoor evening work lighting"
+  characters:
+    - appearance: "Middle-aged academic (39 in 1999), medium build, scholarly demeanor with thoughtful expression"
+      clothing: "Professional academic attire - button-down shirt, slacks, occasionally sport coat for formal presentations"
+      position: "Seated at desk reviewing research papers or standing while explaining concepts"
+      action: "Conducting psychological research, analyzing data, or discussing findings with colleagues"
+    - appearance: "Young graduate student in late 20s, clean-cut appearance typical of 1990s academia"
+      clothing: "Casual academic wear - khakis, polo shirts, sometimes lab coat during experiments"
+      position: "Working alongside mentor at research station or observing test sessions"
+      action: "Assisting with experiments, recording data, or collaborating on research methodology"
+  scene:
+    mainElements: "Modern academic research facility within university psychology building"
+    details: "Individual testing stations with desks, computers, standardized lighting, observation areas. Professor and graduate student working intensively on manuscript preparation, surrounded by statistical analyses, research notes, and draft papers. Computer screens show academic writing software. Stacks of reference materials and psychology journals create workspace dedicated to documenting their discovery. Late evening work session with desk lamps providing focused illumination. 14-page academic journal article in Journal of Personality and Social Psychology, Volume 77, Issue 6, December 1999 materials spread across workspace. Quiet, controlled environment with fluorescent lighting, beige walls, professional academic setting, no text or letters visible"
+    background: "Academic office environment with reference books, research materials, scientific publication resources"
+    atmosphere: "Intense academic focus and historical importance as researchers document discovery that will transform psychological understanding"
+  composition:
+    cameraAngle: "Medium shot from side showing collaborative writing process"
+    focus: "Researchers deeply engaged in manuscript preparation and academic writing"
+    depth: "Foreground shows computer and papers, middle ground shows collaborating researchers, background shows academic resources"

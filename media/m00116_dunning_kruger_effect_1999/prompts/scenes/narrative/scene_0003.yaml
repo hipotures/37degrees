@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Research Partnership Formation at Cornell"
+  setting:
+    time: "Early 1999, afternoon"
+    location: "Cornell University Psychology Laboratory, Ithaca, New York"
+    weather: "Clear indoor environment"
+  characters:
+    - appearance: "Middle-aged academic (39 in 1999), medium build, scholarly demeanor with thoughtful expression"
+      clothing: "Professional academic attire - button-down shirt, slacks, occasionally sport coat for formal presentations"
+      position: "Seated at desk reviewing research papers or standing while explaining concepts"
+      action: "Conducting psychological research, analyzing data, or discussing findings with colleagues"
+    - appearance: "Young graduate student in late 20s, clean-cut appearance typical of 1990s academia"
+      clothing: "Casual academic wear - khakis, polo shirts, sometimes lab coat during experiments"
+      position: "Working alongside mentor at research station or observing test sessions"
+      action: "Assisting with experiments, recording data, or collaborating on research methodology"
+  scene:
+    mainElements: "Modern academic research facility within university psychology building"
+    details: "Individual testing stations with desks, computers, standardized lighting, observation areas. Professor and graduate student collaborate at research table covered with experimental design documents, statistical charts, and psychology research materials. They discuss methodology for studying self-assessment and competence awareness. Quiet, controlled environment with fluorescent lighting, beige walls, professional academic setting, no text or letters visible"
+    background: "Laboratory environment with research equipment, whiteboards with diagrams, academic posters on walls"
+    atmosphere: "Collaborative academic energy as mentor and student develop groundbreaking research methodology"
+  composition:
+    cameraAngle: "Medium two-shot from slight angle"
+    focus: "Professor and graduate student in animated discussion over research materials"
+    depth: "Foreground shows collaborative workspace, middle ground shows both researchers, background shows laboratory setting"

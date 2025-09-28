@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Evening Arrival at Monte Carlo Casino 1913"
+  setting:
+    time: "August 18, 1913, evening around 9:00 PM"
+    location: "Casino de Monte-Carlo exterior grounds, Monaco"
+    weather: "Clear warm Mediterranean summer evening with gentle sea breeze"
+  characters:
+    - appearance: "Elegant woman with elaborate hairstyle, jewelry glittering under chandelier light"
+      clothing: "Silk evening gown with bustle typical of 1913, opera gloves, diamond jewelry, feathered fan"
+      position: "Stepping down from horse-drawn carriage at casino entrance"
+      action: "Adjusting her opera gloves while looking up at the magnificent casino facade"
+    - appearance: "Well-dressed gentleman in his 40s-50s, perfectly waxed mustache, showing increasing agitation as losses mount"
+      clothing: "Formal evening wear: black tailcoat, white waistcoat, gold pocket watch chain"
+      position: "Offering his arm to escort the lady from the carriage"
+      action: "Confidently striding toward the casino entrance, checking his gold pocket watch"
+  scene:
+    mainElements: "Manicured formal gardens surrounding the Belle Époque casino building, Monte Carlo, Monaco"
+    details: "Grand marble entrance steps, ornate facade with classical columns, gas-lit pathways with ornamental lampposts, perfectly manicured topiary gardens, ornate fountain. Horse-drawn carriages arriving and departing, elegantly dressed patrons ascending the steps, warm golden lighting emanating from interior windows"
+    background: "Monaco harbor visible in the distance, Mediterranean coastline under starlit sky, other Belle Époque buildings of Monte Carlo"
+    atmosphere: "Warm Mediterranean evening air, gentle sea breeze from Monaco harbor, arriving horse-drawn carriages of wealthy patrons, soft golden lighting emanating from interior windows"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated perspective showing entire casino facade"
+    focus: "Grand entrance with marble steps and arriving aristocratic couples"
+    depth: "Carriages and fountain in foreground, casino building in middle ground, Monaco harbor and coastline in distant background, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Harvard Researcher Documenting Placebo Toxic Effects"
+  setting:
+    time: "1955, afternoon"
+    location: "Harvard Medical School research laboratory, Boston"
+    weather: "Overcast day with artificial laboratory lighting"
+  characters:
+    - appearance: "Caucasian man, early 50s, distinguished professor bearing, receding hairline, authoritative expression"
+      clothing: "Harvard Medical School formal attire - dark suit, white shirt, conservative tie, white physician's coat"
+      position: "Seated at laboratory desk reviewing clinical data"
+      action: "Analyzing patient charts and writing research notes documenting unexpected negative effects"
+  scene:
+    mainElements: "Medical research laboratory with clinical data spread across work surfaces, scientific instruments, patient files organized systematically"
+    details: "Multi-page academic journal articles in standard JAMA format, black text on white paper, data tables visible, handwritten medical charts in manila folders, carbon copy forms typical of 1950s medical documentation"
+    background: "Laboratory shelving with medical texts, scientific equipment, research materials, fluorescent lighting fixtures"
+    atmosphere: "Serious academic research environment with clinical precision, sense of scientific breakthrough and concern over unexpected findings"
+  composition:
+    cameraAngle: "Medium shot from slight angle above desk level"
+    focus: "Character reviewing critical research data with clinical documentation"
+    depth: "Foreground shows character and research materials, middle ground reveals laboratory workspace, background displays medical research environment, no text or letters visible"

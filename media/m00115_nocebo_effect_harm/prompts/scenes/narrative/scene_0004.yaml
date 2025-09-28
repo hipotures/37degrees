@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Medical Researcher Developing Nocebo Terminology"
+  setting:
+    time: "1961, late evening"
+    location: "Medical researcher's office, academic medical facility"
+    weather: "Clear night with office lighting"
+  characters:
+    - appearance: "Caucasian man, mid-40s, professional demeanor, dark-rimmed glasses, clean-shaven, thoughtful expression"
+      clothing: "White physician's coat over dark formal suit, conservative tie, formal medical attire of early 1960s"
+      position: "Seated at desk with medical literature and research notes"
+      action: "Writing and reviewing medical terminology, consulting Latin references while developing new medical vocabulary"
+  scene:
+    mainElements: "Academic office with medical journals, research papers, Latin etymology references, writing materials spread across desk surface"
+    details: "Medical World journal article format templates, approximately 3 pages of manuscript material, professional academic documentation, Latin dictionary and medical terminology guides, ink pen and handwritten notes"
+    background: "Bookshelves filled with medical texts, office window showing nighttime view, desk lamp providing focused working light"
+    atmosphere: "Quiet scholarly concentration, intellectual work environment, sense of creating important medical terminology that will impact future healthcare understanding"
+  composition:
+    cameraAngle: "Medium shot from desk side angle"
+    focus: "Character engaged in scholarly writing and terminology development"
+    depth: "Foreground shows character and writing materials, middle ground reveals desk workspace, background displays office academic setting, no text or letters visible"

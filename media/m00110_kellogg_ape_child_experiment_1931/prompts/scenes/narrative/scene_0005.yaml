@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Intensive Testing Regimen - Twelve Hours Daily Documentation"
+  setting:
+    time: "August 1931, morning testing session"
+    location: "Converted room in Kellogg home equipped with scientific instruments and testing apparatus, bright lighting for optimal observation"
+    weather: "Clear morning with controlled indoor temperature for testing comfort"
+  characters:
+    - appearance: "Middle-aged academic man in his early 40s, medium build, wearing wire-rimmed glasses typical of 1930s scholars, neat mustache, serious demeanor with intense observational focus"
+      clothing: "Professional 1930s attire - white dress shirt, dark tie, wool vest, sometimes wearing a laboratory coat during testing sessions, polished leather shoes"
+      position: "Standing at testing table or sitting with notebook, maintaining professional posture"
+      action: "Taking detailed notes constantly, observing and recording behavior, conducting scientific measurements with methodical precision"
+    - appearance: "Woman in her 30s, medium height, brown hair styled in 1930s finger waves, gentle facial features, maternal expression mixed with scientific curiosity"
+      clothing: "1930s housewife attire - cotton day dresses with aprons, comfortable shoes for chasing children, pearl necklace for formal documentation photos"
+      position: "Seated or kneeling beside subjects, maintaining nurturing yet analytical posture"
+      action: "Caring for both subjects while conducting tests, showing emotional attachment while maintaining research protocols"
+  scene:
+    mainElements: "Testing tables with measurement devices, observation chairs, note-taking stations, cameras for documentation, various psychological testing apparatus including spinning chairs and maze equipment, scales and reflex hammers"
+    details: "Various 1930s psychological testing devices including blood pressure cuffs, measuring scales, reflex hammers, spinning chairs, maze equipment, cameras for documentation, specialized equipment for testing memory, strength, manual dexterity, and problem-solving abilities arranged systematically on tables, bound notebooks opened with detailed data entries, both subjects undergoing identical testing procedures simultaneously"
+    background: "Clinical atmosphere within domestic setting, controlled environment with scientific precision, constant sounds of note-taking and measurement activities, bright artificial lighting"
+    atmosphere: "Intensive scientific methodology at work, exhaustive daily documentation of every behavior and response, sense of unprecedented data collection in progress, rigorous academic standards applied to domestic setting, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot capturing entire testing operation"
+    focus: "The comprehensive scientific apparatus and intensive daily testing regime"
+    depth: "Foreground shows testing equipment and measurement devices, middle ground captures researchers conducting simultaneous tests on both subjects, background reveals organized laboratory environment within family home"

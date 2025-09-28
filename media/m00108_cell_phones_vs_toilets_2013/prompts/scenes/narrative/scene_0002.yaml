@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Global Mobile Phone Market Visualization"
+  setting:
+    time: "2013, daytime"
+    location: "Modern international organization office building in Geneva, Switzerland"
+    weather: "Clear day with natural light streaming through office windows"
+  characters:
+    - appearance: "African diplomat, middle-aged, authoritative presence"
+      clothing: "Professional business attire, UNICEF identification visible"
+      position: "Seated at conference table or standing beside podium"
+      action: "Supporting stance, nodding during announcements, data-focused presentation style"
+  scene:
+    mainElements: "Data analysis workstations, world maps with sanitation statistics, report preparation areas"
+    details: "Small handheld device, plastic casing in various colors, small LCD screen, physical keypad with numbers and letters, antenna extended, showing scale of 6 billion mobile phones globally. Multiple phones scattered across desk showing global usage patterns. Computer monitors displaying statistical information without readable content."
+    background: "Professional office environment, international organization branding"
+    atmosphere: "Technical, data-focused environment, bright office lighting, collaborative research atmosphere"
+  composition:
+    cameraAngle: "Wide shot showing the scale of data analysis operation"
+    focus: "Mobile phones and statistical displays documenting 6 billion global users"
+    depth: "Mobile devices in foreground, researcher at workstation in middle ground, world maps and office environment in background, no text or letters visible"

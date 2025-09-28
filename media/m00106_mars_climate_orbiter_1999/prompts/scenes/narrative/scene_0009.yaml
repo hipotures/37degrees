@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mishap Investigation Board Meeting - November 1999"
+  setting:
+    time: "November 1999, daytime formal meeting"
+    location: "NASA Headquarters, Washington D.C."
+    weather: "Indoor environment, controlled climate"
+  characters:
+    - appearance: "Middle-aged Caucasian male, approximately 50-55 years old, medium build, graying brown hair, professional demeanor"
+      clothing: "Dark blue NASA windbreaker or white dress shirt with NASA logo, conservative business attire appropriate for government official"
+      position: "Standing at podium or seated at conference table"
+      action: "Presenting investigation findings or reviewing technical documents with serious analytical expression"
+  scene:
+    mainElements: "Government office building with formal meeting rooms and administrative offices, conference rooms for investigation board meetings, official NASA imagery, government-standard office furniture"
+    details: "Formal NASA document, approximately 50+ pages, official government formatting and NASA letterhead, released November 10, 1999, identifying root cause and systemic failures, recommendations for process improvements spread across conference table. Investigation board members in formal business attire, serious expressions during technical briefing. Whiteboards showing analysis diagrams, cause-and-effect charts, timeline reconstructions. Official government meeting room with American flag, NASA seal, formal lighting."
+    background: "Formal government environment, additional NASA officials and board members, government-standard conference room furnishings, official portraits and NASA imagery"
+    atmosphere: "Serious tone during investigation period, bureaucratic efficiency, systematic analysis of failure, formal accountability process, institutional learning from disaster"
+  composition:
+    cameraAngle: "Medium shot of investigation chairman presenting findings to board"
+    focus: "Investigation report and formal presentation of root cause analysis"
+    depth: "Investigation chairman and documents in foreground, board members in middle ground, official government meeting room background, no text or letters visible"

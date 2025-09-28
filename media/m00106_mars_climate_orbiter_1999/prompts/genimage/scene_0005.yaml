@@ -1,0 +1,105 @@
+sceneDescription:
+  setting:
+    time: September 8, 1999, daytime operations
+    location: JPL Mission Control Center, Pasadena, California
+    weather: Indoor environment, controlled climate
+  characters:
+  - appearance: Generic representation of late 1990s aerospace engineer, male or female, casual professional appearance
+    clothing: JPL polo shirt, khakis, practical engineering attire, identification badge visible
+    position: Seated at computer workstation with multiple monitors
+    action: Analyzing trajectory data, showing growing concern as calculations reveal problems, focused on computer screens
+  - appearance: Caucasian male, early 40s, medium height and build, dark hair, typically serious expression showing strain
+      during crisis periods
+    clothing: JPL polo shirt or casual business attire, occasionally NASA jacket, engineering-appropriate practical clothing
+    position: Standing at mission control workstation or seated at computer terminal
+    action: Monitoring spacecraft data, coordinating with team members, showing focused technical-minded demeanor
+  scene:
+    mainElements: Modern mission control room with multiple levels of workstations facing large projection screens, rows of
+      computer workstations, large wall displays showing Mars orbital mechanics, mission timeline boards, communication equipment
+    details: Computer printouts and monitor displays showing orbital mechanics calculations and predicted spacecraft position,
+      data showing decreasing insertion altitude from 226km planned to 57km actual, warning signs visible in final week. Multiple
+      CRT monitors displaying numerical trajectory data, orbital mechanics graphs, Mars approach calculations. Engineers hunched
+      over printouts with calculators, highlighters marking concerning data points. Coffee cups and technical manuals scattered
+      across workstations.
+    background: Additional mission control workstations with other team members, large wall displays showing Mars orbital
+      graphics, mission timeline boards
+    atmosphere: Growing tension as trajectory analysis reveals problems, focused concentration turning to concern, technical
+      precision mixed with emerging crisis awareness
+  composition:
+    cameraAngle: Over-the-shoulder shot focusing on computer monitors and data analysis
+    focus: Trajectory calculation displays showing concerning orbital data, engineer concentration on problem-solving
+    depth: Computer monitors and data in foreground, engineers working in middle ground, mission control room background,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Marilyn vos Savant Receives the Reader Question in 1990"
+  setting:
+    time: "September 1990, afternoon in editorial office"
+    location: "Parade Magazine editorial offices, New York City, busy 1990s newsroom environment with modern equipment"
+    weather: "Bright autumn afternoon with city skyline visible through office windows"
+  characters:
+    - appearance: "44 years old in 1990, blonde hair, elegant features, professionally styled"
+      clothing: "Professional business attire appropriate for media appearances, typically blazers and blouses"
+      position: "Sitting at desk writing or standing during media interviews"
+      action: "Writing magazine columns, explaining mathematical concepts, maintaining composure during criticism"
+  scene:
+    mainElements: "Editorial desks, massive mail sorting areas overflowing with thousands of reader letters, early computers, telephone banks, magazine layout boards"
+    details: "Character MVS sits at modern desk reading single reader letter about three-door problem with car and goats. Early computer terminal shows column draft in progress. Magazine layout boards display upcoming issue designs. Office environment shows busy newsroom with other editors working at desks. Filing cabinets contain reader correspondence. Professional lighting creates focused work atmosphere. Desk contains multiple drafts of column responses and mathematical scratch paper."
+    background: "New York City office building interior with other magazine staff visible, modern office equipment of early 1990s, large windows showing urban environment"
+    atmosphere: "Professional magazine editorial environment, focused creative work atmosphere, sense of intellectual challenge and responsibility"
+  composition:
+    cameraAngle: "Close-up shot of character reading letter with concerned, thoughtful expression"
+    focus: "Reader letter in character's hands with three-door problem description, character's contemplative reaction"
+    depth: "Foreground shows letter and character's hands, middle ground captures character's focused expression, background reveals modern magazine office environment, no text or letters visible"

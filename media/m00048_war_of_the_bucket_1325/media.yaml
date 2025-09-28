@@ -7,6 +7,6 @@ media_info:
   duration: ~3 minutes
   objective: Recreate the medieval conflict that escalated from a simple theft to a devastating war between Italian city-states
   scene_count: 10
-  graphics_style: cinematic-documentary-realism-style
+  graphics_style: feature-animation-2d-classical
   scene_generator: narrative
   nb_audio_format: brief

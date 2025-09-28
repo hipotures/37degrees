@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Initial Child Assessment - Orphanage Dining Hall"
+  setting:
+    time: "Early January 1939, morning"
+    location: "Iowa Soldiers' Orphans' Home communal dining hall, Davenport"
+    weather: "Cold winter morning with frost on windows"
+  characters:
+    - appearance: "Young woman in early 20s, brown hair in 1930s style waves, earnest face, average height and build"
+      clothing: "Conservative 1930s female academic attire - dark skirt suit, white blouse, low-heeled oxford shoes, small handbag"
+      position: "Seated at long wooden table with clipboard and assessment materials"
+      action: "Observing and taking notes while children eat breakfast, studying their speech patterns during normal conversation"
+    - appearance: "Teenage girl, approximately 15 years old, medium height, wary intelligent eyes, cautious posture"
+      clothing: "Simple orphanage dress - plain cotton fabric, practical shoes, hair in neat braids typical of institutional care"
+      position: "Sitting with other children at dining table"
+      action: "Speaking confidently with peers while eating, unaware of being observed and assessed"
+    - appearance: "Small child, approximately 8-10 years old, fragile build, expressive eyes that become increasingly fearful"
+      clothing: "Standard orphanage attire - simple dress with pinafore, worn shoes, hair in institutional bob cut"
+      position: "At same dining table as other children"
+      action: "Chatting normally and comfortably with friends while sharing breakfast meal"
+  scene:
+    mainElements: "Large communal dining hall with long wooden tables and benches, high ceilings with institutional lighting, serving area with metal food trays, children of various ages eating simple breakfast"
+    details: "Simple breakfast foods on metal plates, institutional dishware, assessment clipboard with forms and pencils, children's personal belongings stored in small boxes, staff supervising from distance"
+    background: "Institutional dining hall with tall windows showing winter morning light, other children and staff moving through space, kitchen area visible through service windows"
+    atmosphere: "Normal morning routine disrupted by presence of observer taking notes, children unaware they are being selected for experiment, institutional echoes and breakfast sounds, sense of false normalcy masking coming manipulation, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot capturing both observer and children"
+    focus: "Graduate student discretely assessing children's natural speech patterns"
+    depth: "Foreground shows assessment materials, middle ground centers on interaction between researcher and unsuspecting children, background reveals institutional dining environment"

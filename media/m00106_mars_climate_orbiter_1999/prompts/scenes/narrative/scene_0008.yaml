@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Signal Loss at JPL Mission Control - September 23, 1999, 09:04:52 UTC"
+  setting:
+    time: "September 23, 1999, 09:04:52 UTC, early morning California time"
+    location: "JPL Mission Control Center, Pasadena, California"
+    weather: "Indoor environment, controlled climate"
+  characters:
+    - appearance: "Caucasian male, early 40s, medium height and build, dark hair, typically serious expression showing strain during crisis periods"
+      clothing: "JPL polo shirt or casual business attire, occasionally NASA jacket, engineering-appropriate practical clothing"
+      position: "Standing at mission control workstation or seated at computer terminal"
+      action: "Monitoring spacecraft data, coordinating with team members, showing focused technical-minded demeanor"
+    - appearance: "Generic representation of late 1990s aerospace engineer, male or female, casual professional appearance"
+      clothing: "JPL polo shirt, khakis, practical engineering attire, identification badge visible"
+      position: "Seated at computer workstation with multiple monitors"
+      action: "Analyzing trajectory data, showing growing concern as calculations reveal problems, focused on computer screens"
+  scene:
+    mainElements: "Modern mission control room with multiple levels of workstations facing large projection screens, rows of computer workstations, large wall displays showing Mars orbital mechanics, mission timeline boards, communication equipment"
+    details: "Mission control at moment of signal loss, engineers staring at silent communication monitors, absence of expected telemetry signals creating tense atmosphere. Computer screens showing flat communication signal lines instead of expected spacecraft data, engineers checking equipment, adjusting controls, attempting to reestablish contact. Wall displays showing Mars orbital insertion timeline with critical moment passed, mission clocks showing elapsed time since expected signal reacquisition."
+    background: "Multiple tiers of mission control workstations, large wall displays, NASA imagery and mission documentation, observation windows with concerned supervisors"
+    atmosphere: "Moment of realization that spacecraft is lost, transition from hope to despair, 49 seconds of silence turning into permanent loss, engineering precision confronting complete mission failure"
+  composition:
+    cameraAngle: "Wide shot showing entire mission control during crisis moment"
+    focus: "Engineers at communication workstations, silent monitors indicating loss of signal"
+    depth: "Primary communication stations in foreground, additional workstations in middle ground, large status displays in background, no text or letters visible"

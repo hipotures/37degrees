@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Steve Selvin Formulates the Three-Box Problem at UC Berkeley"
+  setting:
+    time: "February 1975, late afternoon"
+    location: "UC Berkeley Statistics Department, institutional university building with fluorescent-lit offices and classrooms, Berkeley California"
+    weather: "Clear winter day with natural light streaming through office windows"
+  characters:
+    - appearance: "Mid-30s academic, medium build, thick-rimmed glasses typical of 1970s scholars, serious demeanor"
+      clothing: "Brown corduroy jacket with elbow patches, button-down shirt, narrow tie characteristic of university professor attire"
+      position: "Standing at chalkboard or sitting at desk with mathematical papers"
+      action: "Writing probability equations, reviewing statistical calculations, or defending mathematical positions"
+  scene:
+    mainElements: "Academic offices with floor-to-ceiling bookshelves filled with statistical journals, large chalkboards covered in probability equations, wooden desks with typewriters, filing cabinets"
+    details: "Character SS stands at large chalkboard writing three boxes labeled A, B, C, with probability fractions 1/3, 2/3 written beside them. Mathematical equations show conditional probability calculations. Desk contains draft letter to The American Statistician journal, pencil calculations scattered on papers, and statistical textbooks open to probability chapters. Office walls display mathematical posters and academic certificates."
+    background: "University hallway visible through open door, other faculty offices with similar academic setups, institutional lighting fixtures typical of 1970s educational buildings"
+    atmosphere: "Serious academic environment, smell of chalk dust, quiet concentration broken by heated mathematical debates, intellectual intensity of 1970s university research"
+  composition:
+    cameraAngle: "Medium shot from side angle showing both character and chalkboard calculations"
+    focus: "Three boxes drawn on chalkboard with probability calculations, character SS pointing to mathematical proof"
+    depth: "Foreground shows chalkboard with three-box problem, middle ground captures character explaining calculations, background reveals academic office environment with bookshelves and papers, no text or letters visible"

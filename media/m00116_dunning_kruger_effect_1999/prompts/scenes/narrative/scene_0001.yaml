@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Lemon Juice Bank Robbery That Started It All"
+  setting:
+    time: "January 1995, afternoon"
+    location: "Mid-1990s American bank branch, Greater Pittsburgh area, Pennsylvania"
+    weather: "Overcast winter day"
+  characters:
+    - appearance: "Heavy-set man in his 40s, unremarkable features that became clearly visible on surveillance"
+      clothing: "Casual street clothes during robberies - jacket and pants, no mask or disguise"
+      position: "Standing at bank counter or being arrested by police"
+      action: "Attempting bank robbery or reacting with shock to surveillance footage"
+  scene:
+    mainElements: "Mid-1990s American bank branch with standard security systems"
+    details: "Teller windows, surveillance cameras, security glass, customer areas with marble floors. Bank robber approaches teller window with face covered in clear liquid, completely visible to security cameras. Multiple surveillance cameras mounted on walls capture every detail of his face and movements. Professional banking environment with security features clearly visible, no text or letters visible"
+    background: "Typical banking interior with fluorescent lighting, beige walls, other customers conducting normal banking business"
+    atmosphere: "Professional banking environment disrupted by bizarre robbery attempt, tension rising as security measures activate"
+  composition:
+    cameraAngle: "Wide shot from security camera perspective"
+    focus: "Bank robber at teller window, completely visible despite his confidence in invisibility"
+    depth: "Foreground shows robber at counter, middle ground shows teller's reaction, background shows bank interior and other security cameras"

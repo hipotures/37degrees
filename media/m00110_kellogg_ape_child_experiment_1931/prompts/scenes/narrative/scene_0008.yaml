@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "March 1932 - Crisis and Decision to Terminate Experiment"
+  setting:
+    time: "March 1932, evening"
+    location: "Kellogg family home office or study area with research materials"
+    weather: "Overcast spring evening, dim indoor lighting"
+  characters:
+    - appearance: "Middle-aged academic man in his early 40s, medium build, wearing wire-rimmed glasses typical of 1930s scholars, neat mustache, serious demeanor with intense observational focus"
+      clothing: "Professional 1930s attire - white dress shirt, dark tie, wool vest, sometimes wearing a laboratory coat during testing sessions, polished leather shoes"
+      position: "Standing at testing table or sitting with notebook, maintaining professional posture"
+      action: "Taking detailed notes constantly, observing and recording behavior, conducting scientific measurements with methodical precision"
+    - appearance: "Woman in her 30s, medium height, brown hair styled in 1930s finger waves, gentle facial features, maternal expression mixed with scientific curiosity"
+      clothing: "1930s housewife attire - cotton day dresses with aprons, comfortable shoes for chasing children, pearl necklace for formal documentation photos"
+      position: "Seated or kneeling beside subjects, maintaining nurturing yet analytical posture"
+      action: "Caring for both subjects while conducting tests, showing emotional attachment while maintaining research protocols"
+  scene:
+    mainElements: "Study desk covered with research materials, stacks of notebooks filled with nine months of data, scientific journals and reference materials, charts documenting behavioral changes, concerned parents in serious discussion"
+    details: "Bound notebooks filled with detailed handwritten observations, data charts, measurements, and behavioral notes from the nine-month study period open on desk, concerned expressions on researchers' faces as they review evidence of Donald's language regression, Gua's lack of verbal progress despite intensive efforts, decision-making conversation about terminating experiment due to unexpected negative effects on human subject"
+    background: "Dimly lit home office with academic atmosphere, evening shadows suggesting serious contemplation, sounds of normal family life in background contrasting with crisis in study, sense of scientific experiment reaching critical decision point"
+    atmosphere: "Grave scientific and parental concern, realization that experiment must end to protect human subject, tension between scientific goals and parental responsibility, weight of difficult decision, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot across desk showing crisis consultation"
+    focus: "The researchers facing difficult decision to end their groundbreaking experiment"
+    depth: "Foreground shows research materials and data documenting problems, middle ground captures the concerned researchers in discussion, background reveals dim home office setting emphasizing serious nature of decision"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Children's Behavioral Changes - February 1939"
+  setting:
+    time: "February 1939, afternoon"
+    location: "Iowa Soldiers' Orphans' Home corridor and common area, Davenport"
+    weather: "Late winter day with gray skies visible through tall institutional windows"
+  characters:
+    - appearance: "Small child, approximately 8-10 years old, fragile build, expressive eyes that become increasingly fearful"
+      clothing: "Standard orphanage attire - simple dress with pinafore, worn shoes, hair in institutional bob cut"
+      position: "Standing alone against institutional wall in corridor"
+      action: "Reluctant to speak when approached by peers, covering mouth with hand, looking anxious about verbal communication"
+    - appearance: "Teenage girl, approximately 15 years old, medium height, wary intelligent eyes, cautious posture"
+      clothing: "Simple orphanage dress - plain cotton fabric, practical shoes, hair in neat braids typical of institutional care"
+      position: "Nearby in same corridor, observing interaction"
+      action: "Becoming increasingly withdrawn and suspicious, protective body language developing, avoiding group conversations"
+  scene:
+    mainElements: "Long institutional corridor with high ceilings, bare walls with minimal decoration, other children moving through space, communal areas with simple furniture, institutional lighting creating harsh shadows"
+    details: "Children showing new nervous habits - foot shuffling, gulping, mouth clamping, whispering instead of normal speech, institutional furniture and fixtures, minimal personal belongings"
+    background: "Institutional corridor with other children and staff moving through space, dormitory doors visible along hallway, winter light filtering through tall windows"
+    atmosphere: "Growing anxiety and behavioral changes in children, institutional echoes now seeming more threatening, sense of psychological damage becoming apparent, children developing fear of normal speech, protective instincts emerging, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot showing multiple children exhibiting changed behaviors"
+    focus: "Visible psychological effects of experimental manipulation on normal children"
+    depth: "Foreground shows children displaying new anxious behaviors, middle ground centers on institutional corridor environment, background reveals broader institutional setting"

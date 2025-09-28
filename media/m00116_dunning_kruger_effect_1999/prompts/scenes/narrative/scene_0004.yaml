@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Experimental Study with Cornell Students"
+  setting:
+    time: "March 1999, afternoon"
+    location: "Cornell University Psychology Laboratory, Ithaca, New York"
+    weather: "Controlled indoor environment"
+  characters:
+    - appearance: "Diverse group of undergraduates, ages 18-22, typical college appearance of late 1990s"
+      clothing: "Casual college attire - jeans, t-shirts, sweaters, backpacks with textbooks"
+      position: "Seated at individual testing stations in laboratory setting"
+      action: "Taking written tests, filling out assessments, or discussing results with researchers"
+    - appearance: "Young graduate student in late 20s, clean-cut appearance typical of 1990s academia"
+      clothing: "Casual academic wear - khakis, polo shirts, sometimes lab coat during experiments"
+      position: "Working alongside mentor at research station or observing test sessions"
+      action: "Assisting with experiments, recording data, or collaborating on research methodology"
+  scene:
+    mainElements: "Modern academic research facility within university psychology building"
+    details: "Individual testing stations with desks, computers, standardized lighting, observation areas. Cornell undergraduate students seated at separate testing stations taking logical reasoning tests. Graduate student researcher observes and times the session. 20-item written test on standard paper, multiple choice format with logical reasoning questions adapted from LSAT preparation materials visible on desks. Students work intently, some appearing confident while others seem uncertain. Quiet, controlled environment with fluorescent lighting, beige walls, professional academic setting, no text or letters visible"
+    background: "Psychology laboratory with observation windows, testing materials storage, scientific equipment"
+    atmosphere: "Focused concentration mixed with varying degrees of student confidence during critical psychological experiment"
+  composition:
+    cameraAngle: "Wide shot from observation area"
+    focus: "Students at individual testing stations demonstrating different levels of confidence"
+    depth: "Foreground shows researcher monitoring, middle ground shows test-taking students, background shows laboratory equipment"

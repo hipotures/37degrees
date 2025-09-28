@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Iowa Soldiers' Orphans' Home - Winter Arrival"
+  setting:
+    time: "January 1939, late afternoon"
+    location: "Iowa Soldiers' Orphans' Home, Davenport, Iowa - exterior and entrance"
+    weather: "Cold Iowa winter with bare trees, overcast sky, patches of snow on ground"
+  characters:
+    - appearance: "Young woman in early 20s, brown hair in 1930s style waves, earnest face, average height and build"
+      clothing: "Conservative 1930s female academic attire - dark skirt suit, white blouse, low-heeled oxford shoes, small handbag"
+      position: "Walking up stone steps to orphanage entrance carrying leather satchel"
+      action: "Approaching institutional building with nervous determination, checking watch and adjusting papers in satchel"
+  scene:
+    mainElements: "Large institutional brick building complex on spacious grounds in Davenport, Iowa, surrounded by bare winter trees, multi-story red brick main building with white trim, stone entrance steps"
+    details: "Institutional signage on building facade, bare winter landscaping, other buildings visible on campus grounds, windows with institutional curtains, heavy wooden entrance doors, pathway leading to main entrance cleared of snow"
+    background: "Expansive orphanage campus with multiple brick buildings, dormitories and administrative structures, Iowa farmland visible in distance, gray winter sky"
+    atmosphere: "Cold institutional atmosphere with sense of isolation and control, harsh winter lighting, institutional smell of cleaning supplies and heating systems, feeling of vulnerability and power imbalance, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from medium distance"
+    focus: "Graduate student approaching imposing institutional building"
+    depth: "Foreground shows pathway and entrance steps, middle ground centers on approaching figure, background reveals full scale of institutional complex"

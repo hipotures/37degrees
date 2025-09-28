@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Multiple Verification Rounds - Confirming the Impossible"
+  setting:
+    time: "July 2015, intensive verification period"
+    location: "Yale School of Forestry & Environmental Studies Laboratory, New Haven, Connecticut"
+    weather: "Hot summer days, air conditioning running constantly in the overworked laboratory"
+  characters:
+    - appearance: "Young scientist in his late 20s, medium build, brown hair, earnest expression typical of dedicated researchers"
+      clothing: "Professional academic attire - button-down shirts, khakis, occasional Yale-branded clothing for media appearances"
+      position: "Standing at computer workstation or addressing research team"
+      action: "Analyzing satellite data, presenting findings, or coordinating with international research team"
+  scene:
+    mainElements: "Computer workstations displaying global forest maps, large monitors showing satellite imagery, whiteboards covered with mathematical models"
+    details: "Multiple verification workflows running simultaneously on different computer systems, international research team members connected via video conference screens, cross-referencing calculations on various displays, statistical analysis software running complex validation algorithms, printed verification reports stacked on desks, highlighted discrepancies being investigated, backup datasets loaded for comparison"
+    background: "Laboratory bustling with verification activity, additional researchers brought in to double-check calculations, international collaboration evident through multiple time zone conferences"
+    atmosphere: "Intense academic focus in 2015, fluorescent lighting illuminating late-night research sessions, the excitement of discovery building toward publication"
+  composition:
+    cameraAngle: "Wide shot showing the full scope of verification efforts across multiple workstations"
+    focus: "Character TC coordinating verification efforts with his international research team"
+    depth: "Foreground shows detailed verification processes on multiple screens, middle ground features the lead researcher managing the confirmation process, background reveals the broader collaborative verification environment, no text or letters visible"

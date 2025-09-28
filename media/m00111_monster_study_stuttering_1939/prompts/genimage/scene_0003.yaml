@@ -1,0 +1,107 @@
+sceneDescription:
+  setting:
+    time: Early January 1939, morning
+    location: Iowa Soldiers' Orphans' Home communal dining hall, Davenport
+    weather: Cold winter morning with frost on windows
+  characters:
+  - appearance: Young woman in early 20s, brown hair in 1930s style waves, earnest face, average height and build
+    clothing: Conservative 1930s female academic attire - dark skirt suit, white blouse, low-heeled oxford shoes, small handbag
+    position: Seated at long wooden table with clipboard and assessment materials
+    action: Observing and taking notes while children eat breakfast, studying their speech patterns during normal conversation
+  - appearance: Teenage girl, approximately 15 years old, medium height, wary intelligent eyes, cautious posture
+    clothing: Simple orphanage dress - plain cotton fabric, practical shoes, hair in neat braids typical of institutional
+      care
+    position: Sitting with other children at dining table
+    action: Speaking confidently with peers while eating, unaware of being observed and assessed
+  - appearance: Small child, approximately 8-10 years old, fragile build, expressive eyes that become increasingly fearful
+    clothing: Standard orphanage attire - simple dress with pinafore, worn shoes, hair in institutional bob cut
+    position: At same dining table as other children
+    action: Chatting normally and comfortably with friends while sharing breakfast meal
+  scene:
+    mainElements: Large communal dining hall with long wooden tables and benches, high ceilings with institutional lighting,
+      serving area with metal food trays, children of various ages eating simple breakfast
+    details: Simple breakfast foods on metal plates, institutional dishware, assessment clipboard with forms and pencils,
+      children's personal belongings stored in small boxes, staff supervising from distance
+    background: Institutional dining hall with tall windows showing winter morning light, other children and staff moving
+      through space, kitchen area visible through service windows
+    atmosphere: Normal morning routine disrupted by presence of observer taking notes, children unaware they are being selected
+      for experiment, institutional echoes and breakfast sounds, sense of false normalcy masking coming manipulation, no text
+      or letters visible
+  composition:
+    cameraAngle: Medium wide shot capturing both observer and children
+    focus: Graduate student discretely assessing children's natural speech patterns
+    depth: Foreground shows assessment materials, middle ground centers on interaction between researcher and unsuspecting
+      children, background reveals institutional dining environment
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

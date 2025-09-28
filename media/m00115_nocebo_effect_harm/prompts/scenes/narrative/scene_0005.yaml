@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Medical World Journal Publication Process"
+  setting:
+    time: "September 1961, daytime"
+    location: "Medical World journal editorial office, 1961 publishing environment"
+    weather: "Bright autumn day with office lighting"
+  characters:
+    - appearance: "Caucasian man, mid-40s, professional demeanor, dark-rimmed glasses, clean-shaven, thoughtful expression"
+      clothing: "White physician's coat over dark formal suit, conservative tie, formal medical attire of early 1960s"
+      position: "Standing beside editorial desk presenting manuscript"
+      action: "Submitting completed nocebo research paper to journal editors for publication review"
+  scene:
+    mainElements: "Wooden desks with manual typewriters, filing cabinets, stacks of medical manuscripts, editorial materials, 1960s publishing office equipment"
+    details: "Medical World journal article in professional academic format, historic medical terminology document, editorial review materials, manuscript submission forms, carbon paper copies typical of 1960s publishing"
+    background: "Editorial office with academic publishing atmosphere, manuscript filing systems, typewriter sounds, scholarly discussion areas"
+    atmosphere: "Academic publishing environment with scholarly discussion, sound of typing, serious intellectual work focused on advancing medical knowledge"
+  composition:
+    cameraAngle: "Medium shot capturing editorial submission process"
+    focus: "Character presenting groundbreaking nocebo terminology to medical publishing community"
+    depth: "Foreground shows character and manuscript, middle ground reveals editorial office activity, background displays publishing environment, no text or letters visible"

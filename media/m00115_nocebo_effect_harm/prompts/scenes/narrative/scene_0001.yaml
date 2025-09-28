@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Post-War Medical Research Beginning"
+  setting:
+    time: "1950, morning"
+    location: "Harvard Medical School research buildings, Boston, Massachusetts"
+    weather: "Clear spring morning with soft sunlight"
+  characters:
+    - appearance: "Caucasian man, early 50s, distinguished professor bearing, receding hairline, authoritative expression"
+      clothing: "Harvard Medical School formal attire - dark suit, white shirt, conservative tie, white physician's coat"
+      position: "Standing at laboratory entrance, reviewing documents"
+      action: "Examining research papers while preparing for clinical trial investigation"
+  scene:
+    mainElements: "Prestigious brick academic buildings with ivy-covered walls, arched windows, formal entrance courtyards leading to research laboratories"
+    details: "Medical researchers in white coats moving between buildings, stacks of clinical research documents, early medical monitoring equipment visible through laboratory windows, academic atmosphere of serious scientific inquiry"
+    background: "Harvard campus with flowering trees, other medical buildings, students and faculty walking between research facilities"
+    atmosphere: "Serious academic environment with fluorescent laboratory lighting, sense of scientific discovery and medical advancement, professional medical research setting"
+  composition:
+    cameraAngle: "Wide establishing shot from courtyard level"
+    focus: "Harvard Medical School research facility with character at entrance"
+    depth: "Foreground shows character and entrance, middle ground reveals laboratory buildings, background displays campus academic atmosphere, no text or letters visible"

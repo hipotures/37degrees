@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Platform modification crews rush to fix infrastructure"
+  setting:
+    time: "May 2014, afternoon"
+    location: "platform_construction_site"
+    weather: "Sunny spring afternoon, construction dust visible in air"
+  characters:
+    - appearance: "Construction foreman, 50s, coordinating urgent repair work"
+      clothing: "Orange safety vest, hard hat, work boots, tool belt"
+      position: "Standing beside concrete cutting equipment directing workers"
+      action: "Coordinating emergency platform modifications, managing repair timeline"
+    - appearance: "Construction worker, 30s, operating cutting equipment"
+      clothing: "Work clothes, safety gear, protective goggles"
+      position: "Operating concrete cutting saw at platform edge"
+      action: "Carefully cutting back platform concrete to create proper clearance"
+  scene:
+    mainElements: "platform_construction_site with active railway platform modification work site at French regional station"
+    details: "construction_equipment including industrial concrete cutting saws, orange safety cones and barriers, hard hats, construction dust, power cables. Platform edge being precisely cut back centimeter by centimeter, measuring tools ensuring exact clearance specifications"
+    background: "French regional station with ongoing train operations visible, work crews at multiple platform sections"
+    atmosphere: "platform_construction_site atmosphere - industrial construction noise, dust clouds, urgent repair work atmosphere, no text or letters visible"
+  composition:
+    cameraAngle: "Dynamic angle showing scale of construction operation"
+    focus: "Construction crews working urgently to modify platform infrastructure"
+    depth: "Foreground shows detailed cutting work, middle ground captures coordinating foreman, background reveals scope of station modification project"

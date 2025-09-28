@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Medical Revolution - From Wooden Sticks to Brain Science"
+  setting:
+    time: "Present day, research presentation setting"
+    location: "Modern medical conference room or research facility with historical timeline display"
+    weather: "Indoor controlled lighting optimal for presentation"
+  characters:
+    - appearance: "Contemporary neuroscientist, early 40s, casual academic appearance, short brown hair, focused expression typical of researcher analyzing brain scans"
+      clothing: "Casual button-down shirt, dark jeans, lab coat when in scanner room, comfortable walking shoes, university ID badge"
+      position: "Standing before display showing evolution of placebo research"
+      action: "Presenting comprehensive overview of placebo effect discovery from 1799 wooden tractors to modern brain imaging"
+  scene:
+    mainElements: "Modern presentation space with historical medical instruments displayed alongside cutting-edge brain imaging technology"
+    details: "Display showing evolution from two wooden rods crafted to match metal originals, clear glass medicine bottles with amber liquid, academic journal pages, to colorful digital brain imaging patterns. Multiple computer monitors displaying brain activity, medical instruments from different eras arranged to show progression of understanding, sophisticated brain scanning equipment alongside simple historical devices"
+    background: "Professional medical research environment with colleagues observing presentation, modern research facility visible"
+    atmosphere: "Sense of scientific triumph and historical perspective, amazement at journey from simple deception experiment to sophisticated neuroscience, celebration of medical progress and understanding of mind-body healing connection, intellectual satisfaction of centuries-long mystery finally solved, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot capturing historical progression display and modern research context"
+    focus: "Timeline showing evolution from wooden placebo devices to brain imaging technology"
+    depth: "Historical medical instruments in foreground, modern brain scanning displays in middle ground, research facility and audience in background"

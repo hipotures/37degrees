@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Find next audio download task using book-first iteration logic
-Similar to find_next_audio_task.py but for audio_dwn_XX subitems
+Optimized version of find_next_download_task.py
+Uses more efficient todoit queries to minimize subprocess calls
 """
 
 import subprocess
@@ -35,130 +35,92 @@ def get_notebook_url(book_number):
         return None
 
 def main():
-    # COMMAND 1: Get ALL books with completed afa_gen and at least one completed audio_gen
-    # We need books that have generated audio ready to download
-    output1, returncode1 = run_todoit_cmd([
-        "item", "find-status", "--list", TARGET_LIST,
-        "--status", "in_progress",
-        "--complex", '{"afa_gen": "completed"}',
-        "--limit", "50"
-    ])
+    # Strategy: Use one command to find books with pending audio_dwn tasks
+    # This is much more efficient than iterating through all books
 
-    if returncode1 != 0:
-        print(json.dumps({"status": "error", "message": "Command 1 failed"}))
-        sys.exit(1)
+    # Try each language in priority order
+    for lang in SUPPORTED_LANGUAGES:
+        dwn_key = f"audio_dwn_{lang}"
 
-    try:
-        result1 = json.loads(output1)
-        if not result1.get("data"):
-            print(json.dumps({"status": "no_tasks_found", "message": "No books with completed afa_gen"}))
-            sys.exit(1)
+        # COMMAND 1: Find books with pending audio_dwn for this language
+        output1, returncode1 = run_todoit_cmd([
+            "item", "find-status", "--list", TARGET_LIST,
+            "--status", "in_progress",
+            "--complex", f'{{"item": {{"status": "in_progress"}}, "subitem": {{"{dwn_key}": "pending"}}}}',
+            "--limit", "1"  # We only need the first one
+        ])
 
-        # ITERATE through all books until we find one with pending audio_dwn tasks
-        for book_data in result1["data"]:
-            book_key = book_data["Parent Key"]
+        if returncode1 != 0:
+            continue  # Try next language
 
-            # COMMAND 2: Get all subitems for this book
+        try:
+            result1 = json.loads(output1)
+            if not result1.get("data"):
+                continue  # No books found for this language
+
+            # Found a book! Get the parent key
+            book_key = result1["data"][0]["Parent Key"]
+
+            # COMMAND 2: Verify this book has completed audio_gen for this language
+            gen_key = f"audio_gen_{lang}"
             output2, returncode2 = run_todoit_cmd([
-                "item", "list", "--list", TARGET_LIST,
-                "--item", book_key
+                "item", "find-status", "--list", TARGET_LIST,
+                "--status", "completed",
+                "--complex", f'{{"item": {{"key": "{book_key}"}}, "subitem": {{"{gen_key}": "completed"}}}}',
+                "--limit", "1"
             ])
 
             if returncode2 != 0:
-                continue  # Skip this book and try next one
+                continue  # This book doesn't have completed audio_gen
 
             try:
-                # Find JSON part in output
-                json_start = output2.find('{')
-                if json_start == -1:
-                    continue  # Skip this book
-
-                # Find end of JSON (before Progress line)
-                progress_pos = output2.find('\nProgress:')
-                if progress_pos != -1:
-                    json_part = output2[json_start:progress_pos]
-                else:
-                    json_part = output2[json_start:]
-
-                result2 = json.loads(json_part)
-
+                result2 = json.loads(output2)
                 if not result2.get("data"):
-                    continue  # Skip this book
+                    continue  # No completed audio_gen found
 
-                # Check if this book has any completed audio_gen tasks
-                has_completed_audio = False
-                for subitem in result2["data"]:
-                    if (subitem.get("Key", "").startswith("audio_gen_") and
-                        subitem.get("Status") == "completed"):
-                        has_completed_audio = True
-                        break
+                # Perfect! We found a book with completed audio_gen and pending audio_dwn
+                book_number = int(book_key[:4])
+                notebook_url = get_notebook_url(book_number)
 
-                if not has_completed_audio:
-                    continue  # Skip books without any completed audio
+                # COMMAND 3: Try to get audio title (but don't fail if it doesn't exist)
+                output3, returncode3 = run_todoit_cmd([
+                    "item", "property", "get",
+                    "--list", TARGET_LIST,
+                    "--item", book_key,
+                    "--subitem", gen_key,
+                    "--key", "nb_au_title"
+                ])
 
-                # Find first pending audio_dwn_XX in language order
-                for lang in SUPPORTED_LANGUAGES:
-                    gen_key = f"audio_gen_{lang}"
-                    dwn_key = f"audio_dwn_{lang}"
+                audio_title = None
+                if returncode3 == 0 and output3:
+                    try:
+                        title_data = json.loads(output3)
+                        if title_data.get("data") and len(title_data["data"]) > 0:
+                            audio_title = title_data["data"][0].get("nb_au_title")
+                    except json.JSONDecodeError:
+                        if "nb_au_title:" in output3:
+                            audio_title = output3.split("nb_au_title:", 1)[1].strip()
 
-                    # Check if audio_gen is completed but audio_dwn is pending
-                    gen_completed = False
-                    dwn_pending = False
-
-                    for subitem in result2["data"]:
-                        if subitem.get("Key") == gen_key and subitem.get("Status") == "completed":
-                            gen_completed = True
-                        if subitem.get("Key") == dwn_key and subitem.get("Status") == "pending":
-                            dwn_pending = True
-
-                    if gen_completed and dwn_pending:
-                        # Found a language ready to download!
-                        # Extract book number from book_key (format: NNNN_xxx)
-                        book_number = int(book_key[:4])
-                        notebook_url = get_notebook_url(book_number)
-
-                        # Get the audio title from property if it exists
-                        output3, returncode3 = run_todoit_cmd([
-                            "item", "property", "get",
-                            "--list", TARGET_LIST,
-                            "--item", book_key,
-                            "--subitem", gen_key,
-                            "--key", "nb_au_title"
-                        ])
-
-                        audio_title = None
-                        if returncode3 == 0 and output3:
-                            try:
-                                # Parse JSON output
-                                title_data = json.loads(output3)
-                                if title_data.get("data") and len(title_data["data"]) > 0:
-                                    audio_title = title_data["data"][0].get("nb_au_title")
-                            except json.JSONDecodeError:
-                                # Fallback to text parsing if not JSON
-                                if "nb_au_title:" in output3:
-                                    audio_title = output3.split("nb_au_title:", 1)[1].strip()
-
-                        result = {
-                            "book_key": book_key,
-                            "language_code": lang,
-                            "subitem_key": dwn_key,
-                            "notebook_url": notebook_url,
-                            "audio_title": audio_title,  # Can be None if not found
-                            "status": "found"
-                        }
-                        print(json.dumps(result, ensure_ascii=False))
-                        sys.exit(0)
+                result = {
+                    "book_key": book_key,
+                    "language_code": lang,
+                    "subitem_key": dwn_key,
+                    "notebook_url": notebook_url,
+                    "audio_title": audio_title,
+                    "status": "found"
+                }
+                print(json.dumps(result, ensure_ascii=False))
+                sys.exit(0)
 
             except (json.JSONDecodeError, KeyError):
-                continue  # Skip this book and try next one
+                continue  # Try next language
 
-        # No pending audio_dwn found in any book
-        print(json.dumps({"status": "no_tasks_found", "message": "No pending audio_dwn tasks found (or no completed audio_gen)"}))
-        sys.exit(1)
+        except (json.JSONDecodeError, KeyError, IndexError):
+            continue  # Try next language
 
-    except (json.JSONDecodeError, KeyError, IndexError):
-        print(json.dumps({"status": "error", "message": "Failed to parse command 1 result"}))
-        sys.exit(1)
+    # No tasks found in any language
+    print(json.dumps({"status": "no_tasks_found", "message": "No pending audio_dwn tasks found with completed audio_gen"}))
+    sys.exit(1)
 
 if __name__ == "__main__":
     main()

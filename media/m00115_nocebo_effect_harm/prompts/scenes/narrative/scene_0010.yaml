@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Contemporary Medical Understanding and Practice"
+  setting:
+    time: "2023, morning"
+    location: "Modern medical consultation room with advanced technology"
+    weather: "Bright morning with natural and artificial lighting"
+  characters:
+    - appearance: "Contemporary medical professional, middle-aged, confident and caring demeanor, modern professional appearance"
+      clothing: "Modern medical coat over contemporary professional attire, updated medical styling"
+      position: "Seated across from patient in consultation setting"
+      action: "Carefully explaining treatment options while being mindful of negative expectation effects on patient wellbeing"
+  scene:
+    mainElements: "Modern medical consultation room with advanced medical technology, comfortable seating, contemporary medical equipment, patient-centered environment"
+    details: "Modern medical displays showing treatment information, updated pharmaceutical materials, contemporary medical documentation systems, patient education materials designed to minimize negative expectations"
+    background: "Contemporary medical facility with modern infrastructure, natural lighting from windows, comfortable patient-oriented environment"
+    atmosphere: "Professional medical environment balanced with awareness of psychological factors, careful communication approach, modern understanding of mind-body medical interactions"
+  composition:
+    cameraAngle: "Medium shot capturing medical consultation interaction"
+    focus: "Modern medical practice incorporating nocebo effect awareness into patient care"
+    depth: "Foreground shows doctor-patient interaction, middle ground reveals consultation room setup, background displays contemporary medical facility, no text or letters visible"

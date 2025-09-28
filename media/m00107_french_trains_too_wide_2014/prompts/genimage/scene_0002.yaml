@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: 2013, afternoon
+    location: Alstom manufacturing facility, Valenciennes, northern France
+    weather: Industrial indoor environment, bright factory lighting
+  characters:
+  - appearance: Factory supervisor, 40s, wearing safety hard hat, proud of production
+    clothing: Blue Alstom work uniform, safety hard hat, steel-toed boots
+    position: Standing beside newly completed train, gesturing toward the modern design
+    action: Inspecting quality of finished TER Régiolis train, checking final assembly details
+  scene:
+    mainElements: State-of-the-art train manufacturing facility with completed TER Régiolis trains on assembly tracks. Modern
+      silver and blue trains gleaming under industrial lighting, precise 3.05-meter width clearly visible
+    details: ter_regiolis_train positioned on factory rails, precision measurement tools nearby, quality control clipboards,
+      industrial cranes overhead. Factory workers in background conducting final inspections. Advanced manufacturing equipment
+      and testing apparatus visible throughout the facility
+    background: Massive industrial facility with multiple train cars in various stages of completion, overhead cranes, technical
+      equipment
+    atmosphere: Pride in French engineering excellence, modern industrial precision, anticipation of delivering cutting-edge
+      regional transportation, no text or letters visible
+  composition:
+    cameraAngle: Low angle shot emphasizing the impressive scale of the new trains
+    focus: Completed TER Régiolis train with supervisor conducting final inspection
+    depth: Foreground shows train details and supervisor, middle ground captures factory floor activity, background reveals
+      the scale of manufacturing operation
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

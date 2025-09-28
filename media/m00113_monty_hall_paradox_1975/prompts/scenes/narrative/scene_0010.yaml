@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Modern Legacy: The Problem Becomes Classic Teaching Example"
+  setting:
+    time: "Present day, modern university lecture hall"
+    location: "Contemporary university mathematics classroom with modern technology and teaching equipment"
+    weather: "Bright academic day with natural lighting through large windows"
+  characters:
+    - appearance: "Modern university professor, professional appearance, confident demeanor teaching established mathematical principle"
+      clothing: "Contemporary academic attire: blazer and professional shirt, modern styling appropriate for current teaching environment"
+      position: "Standing at front of lecture hall gesturing toward presentation screen"
+      action: "Teaching three-door probability problem as standard statistical example, engaging students in interactive learning demonstration"
+  scene:
+    mainElements: "Modern lecture hall with tiered seating, digital projection screen, interactive demonstration setup with three doors, contemporary teaching technology"
+    details: "Professor demonstrates classic three-door probability problem using modern teaching methods. Digital projection screen shows probability calculations and simulation results. Three physical demonstration doors set up at front of classroom for interactive learning. Students actively participate with electronic response systems. Modern whiteboards display mathematical formulas alongside historical timeline of the problem. Classroom technology includes computer simulations running in real-time. Contemporary textbooks opened to probability paradox sections visible on student desks."
+    background: "Modern university architecture with large windows, contemporary seating, advanced teaching equipment, academic environment reflecting current educational standards"
+    atmosphere: "Engaging educational environment, problem now universally accepted as classic example of counterintuitive probability, intellectual curiosity and rigorous mathematical instruction"
+  composition:
+    cameraAngle: "Wide shot capturing full modern classroom with interactive demonstration"
+    focus: "Three demonstration doors with professor teaching established mathematical principle to engaged students"
+    depth: "Foreground shows interactive door demonstration, middle ground captures professor and engaged students, background reveals modern educational technology and classroom environment, no text or letters visible"

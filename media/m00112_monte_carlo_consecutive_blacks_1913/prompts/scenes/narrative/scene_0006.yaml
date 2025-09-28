@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Twenty Blacks - Belief in Impossible Odds"
+  setting:
+    time: "August 18, 1913, evening around 11:00 PM"
+    location: "Single European-style roulette table within main gambling hall, Casino de Monte-Carlo"
+    weather: "Interior environment"
+  characters:
+    - appearance: "Well-dressed gentleman in his 40s-50s, perfectly waxed mustache, showing increasing agitation as losses mount"
+      clothing: "Formal evening wear: black tailcoat, white waistcoat, gold pocket watch chain"
+      position: "Standing at table edge, hands gripping the rail"
+      action: "Initially confident and condescending, progressively more desperate and sweating as bets fail"
+    - appearance: "Elegant woman with elaborate hairstyle, jewelry glittering under chandelier light"
+      clothing: "Silk evening gown with bustle typical of 1913, opera gloves, diamond jewelry, feathered fan"
+      position: "Covering her face with her feathered fan in distress"
+      action: "Initially amused by the spectacle, increasingly concerned as she witnesses financial ruin around her"
+    - appearance: "Middle-aged man with impeccably groomed appearance, maintaining professional composure despite growing crowd excitement"
+      clothing: "Traditional casino uniform: black tailcoat, starched white shirt, white bow tie, white gloves for handling chips"
+      position: "Continuing to operate the wheel with mechanical precision"
+      action: "Professional stance behind roulette wheel, mechanically calling spins with trained precision"
+  scene:
+    mainElements: "Green felt betting layout with French markings, ivory ball, mahogany wheel with single zero, brass fixtures, neat stacks of ivory and mother-of-pearl betting chips"
+    details: "Players believe there is not a chance in a million of another black. Massive fortunes now staked on red as crowds gather around the table. The betting layout is nearly covered with chips on red squares. Some players are mortgaging jewels and property. Desperation has replaced rational thinking entirely"
+    background: "Word has spread throughout Monte Carlo's high society, with spectators packed three deep around the table, some climbing on furniture to witness the unprecedented event"
+    atmosphere: "Increasingly crowded with desperate gamblers pressing closer, mounting tension with each spin, growing pile of chips stacked on red betting squares"
+  composition:
+    cameraAngle: "High angle shot showing the massive accumulation of bets"
+    focus: "The overwhelming concentration of chips on red betting squares"
+    depth: "Betting layout dominated by red bets in foreground, desperate crowd faces in middle ground, packed casino hall in background, no text or letters visible"

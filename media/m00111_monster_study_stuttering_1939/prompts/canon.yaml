@@ -1,0 +1,72 @@
+canon:
+  characters:
+    - id: "character_WJ"
+      name: "Character WJ"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged professor, approximately 40 years old, balding with receding hairline, wire-rimmed glasses, stern facial features, medium build"
+            clothing: "1930s professional attire - dark wool suit, white dress shirt, conservative tie, leather dress shoes, occasionally white lab coat"
+            posture: "Authoritative academic bearing, intense focused gaze, hands often clasped behind back, serious expression when discussing research"
+    - id: "character_MT"
+      name: "Character MT"
+      description_block: |
+        characters:
+          - appearance: "Young woman in early 20s, brown hair in 1930s style waves, earnest face, average height and build"
+            clothing: "Conservative 1930s female academic attire - dark skirt suit, white blouse, low-heeled oxford shoes, small handbag"
+            posture: "Nervous energy, frequently checking notes, fidgeting with papers, conflicted expressions when interacting with children"
+    - id: "character_HP"
+      name: "Character HP"
+      description_block: |
+        characters:
+          - appearance: "Teenage girl, approximately 15 years old, medium height, wary intelligent eyes, cautious posture"
+            clothing: "Simple orphanage dress - plain cotton fabric, practical shoes, hair in neat braids typical of institutional care"
+            posture: "Initially confident speaker, becomes increasingly withdrawn and suspicious, protective body language develops"
+    - id: "character_MK"
+      name: "Character MK"
+      description_block: |
+        characters:
+          - appearance: "Small child, approximately 8-10 years old, fragile build, expressive eyes that become increasingly fearful"
+            clothing: "Standard orphanage attire - simple dress with pinafore, worn shoes, hair in institutional bob cut"
+            posture: "Initially eager to please, progressively becomes withdrawn and silent, develops nervous habits"
+    - id: "character_JD"
+      name: "Character JD"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged investigative reporter, approximately 45-50 years old, determined expression, slightly rumpled appearance"
+            clothing: "2001-era professional casual - khaki pants, button-down shirt, sports jacket, comfortable walking shoes"
+            posture: "Persistent investigative stance, gentle manner when interviewing elderly survivors, intense focus when reviewing documents"
+  locations:
+    - id: "main_location_1"
+      name: "Iowa Soldiers' Orphans' Home, Davenport"
+      description_block: |
+        setting:
+          location: "Large institutional brick building complex on spacious grounds in Davenport, Iowa, surrounded by bare winter trees"
+        mainElements: "Multi-story red brick main building with white trim, long corridors with high ceilings, communal dining hall, dormitory rooms, small therapy/meeting rooms with simple furniture"
+        atmosphere: "Cold institutional atmosphere, echoing hallways, smell of industrial cleaning supplies, sparse furnishings, harsh electric lighting, sense of regimentation and control"
+    - id: "main_location_2"
+      name: "University of Iowa Speech Pathology Laboratory"
+      description_block: |
+        setting:
+          location: "Academic building interior with research laboratories and faculty offices, clinical atmosphere"
+        mainElements: "Small research rooms with recording equipment, desks covered with papers and assessment forms, filing cabinets, academic bookshelves, clinical testing materials"
+        atmosphere: "Serious academic environment, fluorescent lighting, smell of paper and ink, quiet concentration, sense of scientific authority"
+    - id: "main_location_3"
+      name: "Small Therapy Room at Orphanage"
+      description_block: |
+        setting:
+          location: "Small institutional room with minimal furnishings, bare walls, single window"
+        mainElements: "Two wooden chairs facing each other, small table, clipboard and papers, single overhead light, radiator against wall"
+        atmosphere: "Intimidating isolation, echoing voices, cold temperature, sense of being trapped, authority figure looming over vulnerable child"
+  items:
+    - id: "key_item_1"
+      name: "Research Documents"
+      description_block: |
+        details: "Typewritten pages on yellowed paper, bound thesis document, handwritten notes in margins, official university letterhead, detailed protocols for negative reinforcement, session notes documenting children's deterioration"
+    - id: "key_item_2"
+      name: "Correspondence Letters"
+      description_block: |
+        details: "Handwritten and typed letters on university and personal stationery, postmarked envelopes, planning discussions for experiment, admission of awareness of harm caused"
+    - id: "key_item_3"
+      name: "Orphanage Records"
+      description_block: |
+        details: "Official forms, admission records, medical files on letterhead, staff schedules, children's ages documentation, basic medical information, staff notes about behavioral changes"

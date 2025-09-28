@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Brain Imaging Reveals Nocebo Mechanisms"
+  setting:
+    time: "2005, afternoon"
+    location: "Contemporary brain imaging research laboratory, 2000s-present"
+    weather: "Indoor controlled laboratory environment with modern lighting"
+  characters:
+    - appearance: "Modern neuroscience researchers, diverse ages and backgrounds, professional contemporary appearance"
+      clothing: "Contemporary lab coats over modern casual professional attire, comfortable research clothing"
+      position: "Operating brain imaging equipment and analyzing scan results"
+      action: "Conducting fMRI studies showing neurobiological mechanisms of nocebo effects in real-time"
+  scene:
+    mainElements: "fMRI machines, computer workstations, digital brain scan displays, modern medical monitoring equipment, high-tech research facility"
+    details: "Digital brain scan printouts, colorized activity patterns showing neural activation, modern computer-generated medical imaging displays showing activation in dorsal anterior cingulate cortex, insula, hippocampus regions"
+    background: "Advanced medical research facility with humming equipment, multiple computer monitors, digital displays, contemporary laboratory infrastructure"
+    atmosphere: "High-tech medical research facility with bright LED lighting, humming of advanced equipment, digital displays providing scientific evidence of nocebo neurobiological reality"
+  composition:
+    cameraAngle: "Medium shot focusing on brain imaging technology"
+    focus: "fMRI displays showing real neurological changes during nocebo response"
+    depth: "Foreground shows brain imaging displays, middle ground reveals researchers analyzing data, background displays modern laboratory environment, no text or letters visible"

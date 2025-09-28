@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Trillion Tree Campaign - Global Environmental Response"
+  setting:
+    time: "October 2015, campaign transformation"
+    location: "Plant for the Planet headquarters, Uffing am Staffelsee, Germany"
+    weather: "Crisp autumn day in Bavaria, colorful fall foliage surrounding the environmental organization offices"
+  characters:
+    - appearance: "German teenager, blonde hair, youthful face with determined expression"
+      clothing: "Casual youth activist attire - green-themed t-shirts, jeans, often wearing Plant for the Planet merchandise"
+      position: "Speaking at podium or meeting with environmental officials"
+      action: "Advocating for tree planting initiatives or asking crucial research questions"
+  scene:
+    mainElements: "Environmental campaign headquarters transformed to reflect new trillion-tree baseline, updated campaign materials, global tree planting coordination center"
+    details: "Interactive digital map showing tree density per hectare across Earth's surface, color-coded visualization revealing that tropical forests contain 43% of trees, boreal regions 24%, temperate zones 22%, campaign planning materials spread across conference tables, youth activists coordinating international tree planting initiatives, updated organizational banners reflecting the new scientific baseline"
+    background: "Modern environmental organization offices with sustainable design elements, walls covered with forest photography, international collaboration equipment"
+    atmosphere: "Renewed environmental determination based on scientific revelation, global coordination of tree conservation efforts, the transformation from billion to trillion tree thinking"
+  composition:
+    cameraAngle: "Medium shot showing the environmental campaign's evolution"
+    focus: "Character FF reviewing the new trillion-tree campaign strategy based on scientific discovery"
+    depth: "Foreground shows the comprehensive global tree density map, middle ground features the determined young environmental leader, background reveals the transformed campaign headquarters, no text or letters visible"

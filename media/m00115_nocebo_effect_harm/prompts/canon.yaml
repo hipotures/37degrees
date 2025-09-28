@@ -1,0 +1,73 @@
+canon:
+  characters:
+    - id: "character_WK"
+      name: "Character WK"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, mid-40s, professional demeanor, dark-rimmed glasses, clean-shaven, thoughtful expression"
+            clothing: "White physician's coat over dark formal suit, conservative tie, formal medical attire of early 1960s"
+            posture: "Methodical researcher stance, often holding pen or reviewing documents, authoritative yet approachable"
+    - id: "character_HB"
+      name: "Character HB"
+      description_block: |
+        characters:
+          - appearance: "Caucasian man, early 50s, distinguished professor bearing, receding hairline, authoritative expression"
+            clothing: "Harvard Medical School formal attire - dark suit, white shirt, conservative tie, white physician's coat"
+            posture: "Confident academic stance, gestures while explaining concepts, commanding presence during presentations"
+    - id: "character_AP"
+      name: "Character AP"
+      description_block: |
+        characters:
+          - appearance: "Various patients, mixed ages and conditions, showing visible distress, pale complexion, signs of genuine illness"
+            clothing: "1950s hospital gowns or period patient attire - conservative dresses for women, shirts and slacks for men"
+            posture: "Anxious demeanor, displaying real physical symptoms - weakness, discomfort, concern about treatment effects"
+  locations:
+    - id: "harvard_medical_school"
+      name: "Harvard Medical School"
+      description_block: |
+        setting:
+          location: "Harvard Medical School research buildings, Boston, Massachusetts"
+        mainElements: "Prestigious brick academic buildings, ivy-covered walls, arched windows, formal entrance courtyards"
+        atmosphere: "Serious academic environment, fluorescent laboratory lighting, sterile research facility ambiance"
+    - id: "clinical_research_ward"
+      name: "Clinical Research Ward"
+      description_block: |
+        setting:
+          location: "Hospital clinical research ward, 1950s medical facility"
+        mainElements: "White-walled medical ward, multiple metal hospital beds, IV stands, medical monitoring equipment"
+        atmosphere: "Sterile hospital environment, antiseptic odor, quiet tension, controlled medical research setting"
+    - id: "medical_journal_office"
+      name: "Medical Journal Office"
+      description_block: |
+        setting:
+          location: "Medical World journal editorial office, 1961 publishing environment"
+        mainElements: "Wooden desks with manual typewriters, filing cabinets, stacks of medical manuscripts, editorial materials"
+        atmosphere: "Academic publishing environment, scholarly discussion, sound of typing, serious intellectual work"
+    - id: "modern_neuroscience_lab"
+      name: "Modern Neuroscience Laboratory"
+      description_block: |
+        setting:
+          location: "Contemporary brain imaging research laboratory, 2000s-present"
+        mainElements: "fMRI machines, computer workstations, digital brain scan displays, modern medical monitoring equipment"
+        atmosphere: "High-tech medical research facility, bright LED lighting, humming of advanced equipment, digital displays"
+  items:
+    - id: "beecher_paper_1955"
+      name: "The Powerful Placebo Document"
+      description_block: |
+        details: "Multi-page academic journal article in standard JAMA format, black text on white paper, data tables visible, professional medical publication layout"
+    - id: "kennedy_paper_1961"
+      name: "The Nocebo Reaction Article"
+      description_block: |
+        details: "Medical World journal article, approximately 3 pages, professional academic format, historic medical terminology document"
+    - id: "patient_symptom_charts"
+      name: "Clinical Trial Documentation"
+      description_block: |
+        details: "Handwritten medical charts in manila folders, carbon copy forms typical of 1950s, detailed symptom recordings, clinical data sheets"
+    - id: "brain_scan_images"
+      name: "fMRI Brain Imaging Data"
+      description_block: |
+        details: "Digital brain scan printouts, colorized activity patterns showing neural activation, modern computer-generated medical imaging displays"
+    - id: "placebo_pills"
+      name: "Inert Medication Samples"
+      description_block: |
+        details: "Small white tablets in medical containers, clinical trial medication bottles, sterile pharmaceutical packaging"

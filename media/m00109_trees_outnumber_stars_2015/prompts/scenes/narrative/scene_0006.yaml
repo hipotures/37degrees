@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Shocking Calculation - 3.04 Trillion Discovery"
+  setting:
+    time: "July 2015, early morning breakthrough moment"
+    location: "Yale School of Forestry & Environmental Studies Laboratory, New Haven, Connecticut"
+    weather: "Dawn breaking through laboratory windows, mixing natural and artificial light"
+  characters:
+    - appearance: "Young scientist in his late 20s, medium build, brown hair, earnest expression typical of dedicated researchers"
+      clothing: "Professional academic attire - button-down shirts, khakis, occasional Yale-branded clothing for media appearances"
+      position: "Standing at computer workstation or addressing research team"
+      action: "Analyzing satellite data, presenting findings, or coordinating with international research team"
+  scene:
+    mainElements: "Computer workstations displaying global forest maps, large monitors showing satellite imagery, whiteboards covered with mathematical models"
+    details: "Central computer display showing the final calculation result, researcher staring in disbelief at the unprecedented figure, multiple verification windows open showing cross-checked data, team members gathering around the breakthrough workstation, calculator and verification printouts confirming the shocking numbers, world map highlighting global tree distribution patterns"
+    background: "Laboratory filling with early morning sunlight, whiteboards covered in equations leading to this moment, other researchers beginning to arrive for the day"
+    atmosphere: "Intense academic focus in 2015, fluorescent lighting illuminating late-night research sessions, the excitement of discovery building toward publication"
+  composition:
+    cameraAngle: "Medium shot capturing the moment of scientific breakthrough"
+    focus: "Character TC processing the revolutionary 3.04 trillion tree calculation on his computer screen"
+    depth: "Foreground shows the pivotal computer display with results, middle ground features the amazed researcher, background reveals the laboratory setting of this historic discovery, no text or letters visible"

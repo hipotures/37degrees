@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Yale Laboratories of Primate Biology - Scientific Authority Established"
+  setting:
+    time: "1931, morning"
+    location: "Yale Laboratories of Primate Biology, Orange Park, Florida - 182-acre research facility"
+    weather: "Warm subtropical Florida climate with morning humidity"
+  characters:
+    - appearance: "Distinguished elder scientist in his 60s, white hair, authoritative bearing, formal academic presence typical of established researchers"
+      clothing: "Professional 1930s academic attire - three-piece suits, bow tie, pocket watch, formal leather shoes"
+      position: "Standing in official capacity at research facility, reviewing documents at desk"
+      action: "Providing oversight and supervision, representing established primate research community, maintaining facility operations"
+  scene:
+    mainElements: "Research buildings with laboratory spaces, primate housing facilities, administrative offices in repurposed Granary building, outdoor enclosures for chimpanzees, scientific equipment storage areas"
+    details: "Established scientific compound with multiple research buildings, cages housing various primates visible in background, tropical vegetation surrounding the facility, official signage indicating serious academic research, scientific equipment being transported between buildings, researchers in lab coats moving purposefully across grounds"
+    background: "Professional scientific environment with sounds of multiple primates, warm Florida climate with humidity, serious research atmosphere emphasizing scientific authority and methodology"
+    atmosphere: "Authoritative scientific establishment representing cutting-edge primate research, institutional credibility and academic prestige, sense of groundbreaking research about to unfold, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated perspective"
+    focus: "Overview of entire research facility showing scope and institutional authority"
+    depth: "Foreground shows main buildings, middle ground captures outdoor enclosures and researchers, background displays tropical Florida landscape extending to horizon"

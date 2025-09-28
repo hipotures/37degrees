@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Abandoned Children - May 1939"
+  setting:
+    time: "May 1939, evening"
+    location: "Iowa Soldiers' Orphans' Home dormitory area, Davenport"
+    weather: "Spring evening with long shadows through dormitory windows"
+  characters:
+    - appearance: "Small child, approximately 8-10 years old, fragile build, expressive eyes that become increasingly fearful"
+      clothing: "Standard orphanage nightwear - simple nightgown, bare feet"
+      position: "Sitting alone on institutional bed in dormitory"
+      action: "Struggling with speech problems while trying to communicate with dormitory peers, social isolation increasing"
+    - appearance: "Teenage girl, approximately 15 years old, medium height, wary intelligent eyes, cautious posture"
+      clothing: "Simple orphanage nightwear appropriate for dormitory setting"
+      position: "On nearby bed in same dormitory room"
+      action: "Comforting younger affected children while dealing with own speech difficulties, showing protective behavior despite personal trauma"
+  scene:
+    mainElements: "Institutional dormitory with multiple beds arranged in rows, minimal personal belongings, institutional lighting, shared living space for orphaned children"
+    details: "Children left to cope with induced speech problems without any therapeutic intervention, no debriefing provided about experiment, orphanage staff unaware of true cause of behavioral changes, lasting damage established with no support"
+    background: "Dormitory setting with other children sleeping or preparing for sleep, institutional environment continuing normal routines while ignoring psychological damage, spring evening light fading outside"
+    atmosphere: "Children abandoned to deal with psychological trauma alone, experiment completed with no follow-up care, institutional indifference to obvious behavioral changes, lasting damage taking root without intervention, sense of betrayal and abandonment by adult authority figures, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing isolation of affected children within institutional setting"
+    focus: "Children coping alone with induced psychological damage while institution remains oblivious"
+    depth: "Foreground shows affected children's ongoing struggles, middle ground centers on institutional dormitory environment, background reveals broader institutional setting that failed to protect them"

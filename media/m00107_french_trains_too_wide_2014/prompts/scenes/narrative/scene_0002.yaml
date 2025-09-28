@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Alstom factory production line - TER Régiolis trains manufacturing"
+  setting:
+    time: "2013, afternoon"
+    location: "Alstom manufacturing facility, Valenciennes, northern France"
+    weather: "Industrial indoor environment, bright factory lighting"
+  characters:
+    - appearance: "Factory supervisor, 40s, wearing safety hard hat, proud of production"
+      clothing: "Blue Alstom work uniform, safety hard hat, steel-toed boots"
+      position: "Standing beside newly completed train, gesturing toward the modern design"
+      action: "Inspecting quality of finished TER Régiolis train, checking final assembly details"
+  scene:
+    mainElements: "State-of-the-art train manufacturing facility with completed TER Régiolis trains on assembly tracks. Modern silver and blue trains gleaming under industrial lighting, precise 3.05-meter width clearly visible"
+    details: "ter_regiolis_train positioned on factory rails, precision measurement tools nearby, quality control clipboards, industrial cranes overhead. Factory workers in background conducting final inspections. Advanced manufacturing equipment and testing apparatus visible throughout the facility"
+    background: "Massive industrial facility with multiple train cars in various stages of completion, overhead cranes, technical equipment"
+    atmosphere: "Pride in French engineering excellence, modern industrial precision, anticipation of delivering cutting-edge regional transportation, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle shot emphasizing the impressive scale of the new trains"
+    focus: "Completed TER Régiolis train with supervisor conducting final inspection"
+    depth: "Foreground shows train details and supervisor, middle ground captures factory floor activity, background reveals the scale of manufacturing operation"

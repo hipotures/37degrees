@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The First Few Blacks - Early Pattern Emerges"
+  setting:
+    time: "August 18, 1913, evening around 9:30 PM"
+    location: "Single European-style roulette table within main gambling hall, Casino de Monte-Carlo"
+    weather: "Interior environment"
+  characters:
+    - appearance: "Middle-aged man with impeccably groomed appearance, maintaining professional composure despite growing crowd excitement"
+      clothing: "Traditional casino uniform: black tailcoat, starched white shirt, white bow tie, white gloves for handling chips"
+      position: "Behind the roulette wheel, ivory ball in hand"
+      action: "Professional stance behind roulette wheel, mechanically calling spins with trained precision"
+    - appearance: "Well-dressed gentleman in his 40s-50s, perfectly waxed mustache, showing increasing agitation as losses mount"
+      clothing: "Formal evening wear: black tailcoat, white waistcoat, gold pocket watch chain"
+      position: "Leaning forward at the table, studying the betting layout"
+      action: "Initially confident and condescending, progressively more desperate and sweating as bets fail"
+    - appearance: "Distinguished older gentleman with gray beard, observing from elevated position"
+      clothing: "Finest formal casino attire with gold management pin, polished black shoes"
+      position: "Standing slightly elevated behind the gaming area"
+      action: "Calculating and observant stance, recognizing the historic nature and profitability of the event"
+  scene:
+    mainElements: "Green felt betting layout with French markings, ivory ball, mahogany wheel with single zero, brass fixtures, neat stacks of ivory and mother-of-pearl betting chips"
+    details: "Green felt betting surface with numbered grid in white, red and black color betting squares clearly marked, French text markings typical of European roulette with 'Rouge' and 'Noir' sections, side betting areas for odds and evens. Players beginning to notice the pattern of consecutive black results, some adjusting their betting strategies"
+    background: "Other roulette tables continuing normal operations, crystal chandeliers casting warm light, marble architectural details"
+    atmosphere: "Increasingly crowded with desperate gamblers pressing closer, mounting tension with each spin, growing pile of chips stacked on red betting squares"
+  composition:
+    cameraAngle: "Close-up shot of the roulette wheel and betting layout"
+    focus: "The spinning wheel with ivory ball and the growing concentration of red bets"
+    depth: "Betting layout and wheel in sharp foreground, focused players in middle ground, casino atmosphere in soft background, no text or letters visible"

@@ -1,0 +1,106 @@
+sceneDescription:
+  setting:
+    time: August 18, 1913, evening around 11:30 PM
+    location: Single European-style roulette table within main gambling hall, Casino de Monte-Carlo
+    weather: Interior environment
+  characters:
+  - appearance: Well-dressed gentleman in his 40s-50s, perfectly waxed mustache, showing increasing agitation as losses mount
+    clothing: 'Formal evening wear: black tailcoat, white waistcoat, gold pocket watch chain'
+    position: Collapsed into chair, head in hands
+    action: Initially confident and condescending, progressively more desperate and sweating as bets fail
+  - appearance: Elegant woman with elaborate hairstyle, jewelry glittering under chandelier light
+    clothing: Silk evening gown with bustle typical of 1913, opera gloves, diamond jewelry, feathered fan
+    position: Standing behind him, placing a comforting hand on his shoulder
+    action: Initially amused by the spectacle, increasingly concerned as she witnesses financial ruin around her
+  - appearance: Distinguished older gentleman with gray beard, observing from elevated position
+    clothing: Finest formal casino attire with gold management pin, polished black shoes
+    position: Making discrete notes while observing the unprecedented scene
+    action: Calculating and observant stance, recognizing the historic nature and profitability of the event
+  scene:
+    mainElements: Green felt betting layout with French markings, ivory ball, mahogany wheel with single zero, brass fixtures,
+      neat stacks of ivory and mother-of-pearl betting chips
+    details: The mathematical impossibility seems to defy all logic. Players have staked everything they own on red, certain
+      that the universe must correct itself. Empty jewelry cases and signed property deeds scattered around the table. Some
+      players weeping openly. The pile of chips on red squares has grown to enormous proportions
+    background: Casino staff discretely positioned to maintain order, other gambling has virtually stopped as the entire establishment
+      focuses on this single table, tension palpable throughout the ornate hall
+    atmosphere: Increasingly crowded with desperate gamblers pressing closer, mounting tension with each spin, growing pile
+      of chips stacked on red betting squares
+  composition:
+    cameraAngle: Emotional close-up showing the human cost of the mathematical fallacy
+    focus: The devastated faces of players who have lost everything
+    depth: Emotionally destroyed players in sharp foreground, enormous chip stacks in middle ground, concerned crowd in background,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

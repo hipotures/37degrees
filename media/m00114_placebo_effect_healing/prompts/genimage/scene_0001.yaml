@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: 1799, afternoon consultation hours
+    location: Georgian-era medical practice in fashionable spa town of Bath, England, stone buildings with elegant facades
+    weather: Clear afternoon light filtering through tall windows
+  characters:
+  - appearance: Middle-aged English physician, approximately 59 years old, formal bearing typical of Georgian-era medical
+      practitioners, powdered wig, clean-shaven face with intelligent, skeptical expression
+    clothing: Dark wool frock coat with brass buttons, white linen shirt with high collar, dark breeches, white stockings,
+      black leather shoes with buckles, physician's bag in hand
+    position: Standing attentively beside examination table or seated at desk reviewing notes
+    action: Conducting methodical examination of patient or carefully documenting experimental results in leather-bound journal
+  scene:
+    mainElements: Well-appointed physician's office with wooden furniture, medical texts on shelves, examination table, window
+      overlooking Bath's crescents
+    details: Oil lamps for lighting, brass medical instruments displayed, leather-bound journals, wooden medicine cabinet
+      with glass bottles, Persian carpet on floor. Two pointed metal rods displayed prominently on desk, approximately 4 inches
+      long, brass construction with pointed tips and polished surface
+    background: View through window shows Bath's characteristic Georgian architecture, cobblestone street with horse-drawn
+      carriages
+    atmosphere: Quiet, professional environment with smell of medical herbs, sound of horse-drawn carriages outside, sense
+      of scientific curiosity and methodical investigation, no text or letters visible
+  composition:
+    cameraAngle: Medium establishing shot from patient's perspective
+    focus: Physician examining expensive metal medical devices on desk
+    depth: Physician in foreground, medical instruments in middle ground, Georgian Bath architecture visible through window
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Hidden Truth Discovery - 2001"
+  setting:
+    time: "2001, afternoon"
+    location: "University of Iowa basement archives, Iowa City"
+    weather: "Modern day with natural lighting from basement windows"
+  characters:
+    - appearance: "Middle-aged investigative reporter, approximately 45-50 years old, determined expression, slightly rumpled appearance"
+      clothing: "2001-era professional casual - khaki pants, button-down shirt, sports jacket, comfortable walking shoes"
+      position: "Seated at archive table surrounded by boxes of historical documents"
+      action: "Carefully examining yellowed papers and correspondence, taking detailed notes about discovered experiment, showing shock at findings"
+  scene:
+    mainElements: "University basement archive with metal shelving, cardboard boxes containing decades-old documents, research table with fluorescent lighting, filing systems for historical university records"
+    details: "Typewritten pages on yellowed paper, bound thesis document, handwritten notes in margins, official university letterhead, detailed protocols for negative reinforcement, session notes documenting children's deterioration, correspondence between researchers"
+    background: "Archive basement with rows of storage boxes, institutional filing systems, university administrative documents, historical research materials stored for decades"
+    atmosphere: "Moment of discovery as 62-year coverup is exposed, dusty archive smell mixing with sense of revelation, buried truth finally coming to light, institutional secrecy being penetrated by investigative journalism, shocking evidence of deliberate harm, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot emphasizing investigative discovery process"
+    focus: "Journalist uncovering hidden evidence of unethical psychological experiment"
+    depth: "Foreground shows shocking documentary evidence, middle ground centers on investigative reporter's reaction, background reveals archive setting where truth was hidden for decades"

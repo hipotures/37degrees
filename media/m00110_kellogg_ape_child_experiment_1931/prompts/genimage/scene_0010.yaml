@@ -1,0 +1,106 @@
+sceneDescription:
+  setting:
+    time: 1933, afternoon
+    location: Academic office or study with published research book and academic materials
+    weather: Bright afternoon light through office windows
+  characters:
+  - appearance: Middle-aged academic man in his early 40s, medium build, wearing wire-rimmed glasses typical of 1930s scholars,
+      neat mustache, serious demeanor with intense observational focus
+    clothing: Professional 1930s attire - white dress shirt, dark tie, wool vest, sometimes wearing a laboratory coat during
+      testing sessions, polished leather shoes
+    position: Standing at testing table or sitting with notebook, maintaining professional posture
+    action: Taking detailed notes constantly, observing and recording behavior, conducting scientific measurements with methodical
+      precision
+  scene:
+    mainElements: Academic book published in 1933, bound in typical 1930s academic format, containing photographs, charts,
+      and detailed analysis arranged on desk, academic office setting with scholarly materials, published research documenting
+      the controversial experiment
+    details: Comprehensive documentation of the experiment's methodology, daily observations, test results, and conclusions
+      about nature versus nurture displayed in published form, academic achievement representing both scientific contribution
+      and cautionary tale, formal presentation of research findings despite experiment's premature termination, scholarly
+      legacy of unprecedented but ethically questionable study
+    background: Professional academic environment emphasizing scholarly research, sense of scientific community processing
+      controversial findings, institutional setting where experiment's impact being evaluated, atmosphere of academic reflection
+      on bold but failed experiment
+    atmosphere: Complex legacy of groundbreaking but ethically problematic research, scientific achievement shadowed by concerns
+      about human and animal welfare, sense of lessons learned about limits of experimental psychology, lasting impact on
+      research ethics, no text or letters visible
+  composition:
+    cameraAngle: Medium shot focused on published research and researcher
+    focus: The academic publication representing the experiment's permanent legacy
+    depth: Foreground shows the published book documenting the controversial study, middle ground captures the researcher
+      reflecting on the work's impact, background reveals scholarly academic setting where ethical implications continue to
+      be debated
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

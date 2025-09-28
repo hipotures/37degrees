@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: February 1975, late afternoon
+    location: UC Berkeley Statistics Department, institutional university building with fluorescent-lit offices and classrooms,
+      Berkeley California
+    weather: Clear winter day with natural light streaming through office windows
+  characters:
+  - appearance: Mid-30s academic, medium build, thick-rimmed glasses typical of 1970s scholars, serious demeanor
+    clothing: Brown corduroy jacket with elbow patches, button-down shirt, narrow tie characteristic of university professor
+      attire
+    position: Standing at chalkboard or sitting at desk with mathematical papers
+    action: Writing probability equations, reviewing statistical calculations, or defending mathematical positions
+  scene:
+    mainElements: Academic offices with floor-to-ceiling bookshelves filled with statistical journals, large chalkboards covered
+      in probability equations, wooden desks with typewriters, filing cabinets
+    details: Character SS stands at large chalkboard writing three boxes labeled A, B, C, with probability fractions 1/3,
+      2/3 written beside them. Mathematical equations show conditional probability calculations. Desk contains draft letter
+      to The American Statistician journal, pencil calculations scattered on papers, and statistical textbooks open to probability
+      chapters. Office walls display mathematical posters and academic certificates.
+    background: University hallway visible through open door, other faculty offices with similar academic setups, institutional
+      lighting fixtures typical of 1970s educational buildings
+    atmosphere: Serious academic environment, smell of chalk dust, quiet concentration broken by heated mathematical debates,
+      intellectual intensity of 1970s university research
+  composition:
+    cameraAngle: Medium shot from side angle showing both character and chalkboard calculations
+    focus: Three boxes drawn on chalkboard with probability calculations, character SS pointing to mathematical proof
+    depth: Foreground shows chalkboard with three-box problem, middle ground captures character explaining calculations, background
+      reveals academic office environment with bookshelves and papers, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

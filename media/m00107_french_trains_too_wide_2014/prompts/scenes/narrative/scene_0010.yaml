@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "SNCF-RFF reunification signing - institutional lesson learned"
+  setting:
+    time: "October 2014, evening"
+    location: "French government ministry building, Paris"
+    weather: "Indoor formal setting, ceremonial lighting"
+  characters:
+    - appearance: "Government official, 60s, signing reunification legislation"
+      clothing: "Formal dark suit appropriate for ceremonial government occasion"
+      position: "Seated at official signing table with legislative documents"
+      action: "Signing legislation to reunify SNCF and RFF into single integrated entity"
+    - appearance: "SNCF executive, 50s, witnessing historic integration"
+      clothing: "Corporate business suit, SNCF pin on lapel"
+      position: "Standing beside signing table as witness to reunification"
+      action: "Observing the ceremonial end of 17-year institutional separation"
+  scene:
+    mainElements: "Formal government ceremony room with official signing table, French national flags, ceremonial lighting, legislative documents ready for signature"
+    details: "Official government seals, formal ceremonial setting, witnesses from both railway organizations, photographers documenting historic reunification. The expensive train crisis directly leading to institutional reform"
+    background: "Ornate government building interior, official portraits, French national symbols"
+    atmosphere: "Solemn recognition of institutional failure, formal ceremony ending costly bureaucratic separation, lessons learned from expensive mistake, no text or letters visible"
+  composition:
+    cameraAngle: "Formal ceremonial angle capturing historic moment"
+    focus: "Signing of legislation reunifying France's fragmented railway system"
+    depth: "Foreground shows ceremonial signing documents, middle ground captures officials at historic moment, background reveals formal government setting"

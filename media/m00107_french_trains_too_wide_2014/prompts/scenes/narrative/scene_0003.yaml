@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Typical French regional station - morning commuters unaware"
+  setting:
+    time: "2014, early morning"
+    location: "french_regional_station"
+    weather: "Clear spring morning, golden sunrise lighting"
+  characters:
+    - appearance: "Station master, 60s, checking pocket watch, routine morning duties"
+      clothing: "Traditional SNCF uniform with cap, dark blue jacket with railway insignia"
+      position: "Standing on narrow concrete platform checking arrival schedules"
+      action: "Conducting routine morning platform inspection, unaware of impending crisis"
+    - appearance: "Commuter woman, 30s, waiting for regional train"
+      clothing: "Professional work attire, carrying briefcase and coffee"
+      position: "Standing near platform edge with other morning commuters"
+      action: "Checking phone while waiting, routine morning travel"
+  scene:
+    mainElements: "french_regional_station with narrow concrete platforms built 50+ years ago, vintage station building with traditional French railway architecture, yellow warning line painted near platform edge"
+    details: "Concrete platform showing slight wear, metal benches, station clock, departure board, morning shadows revealing the narrow width of the platform. Several commuters scattered along the platform, coffee cart, newspaper stand. Clear evidence of older infrastructure design"
+    background: "Traditional French station building with distinctive roof, railway tracks stretching toward distant countryside, morning mist"
+    atmosphere: "Peaceful provincial morning routine, sense of established transportation tradition, complete normalcy before the crisis, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot from track level showing platform width"
+    focus: "Station master on narrow platform with commuters in typical morning scene"
+    depth: "Foreground shows railway tracks, middle ground captures platform activity, background reveals traditional station architecture"

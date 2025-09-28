@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "American Civil War Era Hospital Ward Introduction"
+  setting:
+    time: "1863, morning medical rounds during Civil War era"
+    location: "American hospital ward in New York State, long room with multiple beds, high ceilings, large windows for natural light"
+    weather: "Morning light revealing systematic medical care"
+  characters:
+    - appearance: "51 years old American physician with serious demeanor, dark hair parted to side, full beard typical of Civil War era, penetrating eyes behind wire-rim spectacles"
+      clothing: "Black wool medical coat, white shirt with black bow tie, dark trousers, black leather boots, pocket watch chain visible, medical instruments in coat pockets"
+      position: "Standing at patient bedside or seated at desk with medical records"
+      action: "Examining patients with careful attention or documenting trial results in detailed medical notes"
+  scene:
+    mainElements: "Long room with multiple iron bed frames, simple mattresses, medical charts on wooden clipboards, medicine bottles on central table"
+    details: "Washbasins, oil lamps, wooden floors, white linens on beds, medical instruments on mobile cart, pitcher and bowl sets. Clear glass medicine bottle containing heavily diluted herbal tincture, amber-colored liquid, cork stopper, handwritten label visible on central medicine table alongside other treatments"
+    background: "Additional beds stretching into distance, nurses moving between patients, windows showing hospital grounds"
+    atmosphere: "Antiseptic smell mixed with human suffering, sounds of patients in discomfort, concerned murmurs of medical staff, systematic care environment, sense of medical advancement during wartime, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot showing full ward"
+    focus: "American physician with medical instruments and medicine bottles"
+    depth: "Physician and medicine table in foreground, patient beds in middle ground, hospital ward extending into background"

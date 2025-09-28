@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Expanding Research to Multiple Competency Domains"
+  setting:
+    time: "Mid-1999, afternoon"
+    location: "Cornell University Psychology Laboratory, Ithaca, New York"
+    weather: "Bright indoor laboratory lighting"
+  characters:
+    - appearance: "Diverse group of undergraduates, ages 18-22, typical college appearance of late 1990s"
+      clothing: "Casual college attire - jeans, t-shirts, sweaters, backpacks with textbooks"
+      position: "Seated at individual testing stations in laboratory setting"
+      action: "Taking written tests, filling out assessments, or discussing results with researchers"
+    - appearance: "Young graduate student in late 20s, clean-cut appearance typical of 1990s academia"
+      clothing: "Casual academic wear - khakis, polo shirts, sometimes lab coat during experiments"
+      position: "Working alongside mentor at research station or observing test sessions"
+      action: "Assisting with experiments, recording data, or collaborating on research methodology"
+  scene:
+    mainElements: "Modern academic research facility within university psychology building"
+    details: "Individual testing stations with desks, computers, standardized lighting, observation areas. Expanded study with 140 Cornell undergraduates taking different types of assessments - grammar tests, humor rating scales, and logic puzzles. Students work at multiple testing stations with different materials. Some students laugh while rating jokes, others concentrate intensely on grammar questions. Researcher moves between stations monitoring different test domains. Rating scale questionnaire with numerical scoring system visible on some desks. Quiet, controlled environment with fluorescent lighting, beige walls, professional academic setting, no text or letters visible"
+    background: "Larger laboratory space with multiple testing areas, diverse assessment materials, research monitoring equipment"
+    atmosphere: "Systematic scientific validation as researchers test the effect across different types of human competency"
+  composition:
+    cameraAngle: "Wide establishing shot showing multiple testing areas"
+    focus: "Different students engaged with various types of competency assessments"
+    depth: "Foreground shows grammar test takers, middle ground shows humor raters, background shows logic puzzle solvers"

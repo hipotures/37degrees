@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Modern fMRI Brain Imaging Reveals Placebo Mechanisms"
+  setting:
+    time: "Present day, research session hours"
+    location: "State-of-the-art neuroimaging facility with advanced brain scanning technology"
+    weather: "Climate-controlled research environment with LED lighting"
+  characters:
+    - appearance: "Contemporary neuroscientist, early 40s, casual academic appearance, short brown hair, focused expression typical of researcher analyzing brain scans"
+      clothing: "Casual button-down shirt, dark jeans, lab coat when in scanner room, comfortable walking shoes, university ID badge"
+      position: "Standing beside fMRI control panels or seated at computer workstation"
+      action: "Operating brain imaging equipment or analyzing colorful brain scan data on multiple computer monitors"
+  scene:
+    mainElements: "Cylindrical fMRI machine, multiple computer monitors showing brain activity, comfortable patient bed on tracks, intercom systems, observation windows"
+    details: "Colorful brain scan displays, computer keyboards and mice, medical monitoring equipment, comfortable patient positioning devices, safety equipment. Multiple computer monitors displaying colorful digital brain imaging showing activity patterns, multiple cross-sectional views, bright colors indicating neural activation, showing decreased activity in pain-processing regions"
+    background: "Control room with additional monitoring stations, researchers observing through glass, additional scanning equipment"
+    atmosphere: "High-tech environment with humming machinery, soft electronic beeps, sense of cutting-edge discovery, quiet concentration and scientific precision, breakthrough moment revealing brain mechanisms of placebo healing, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing researcher with brain imaging displays"
+    focus: "Colorful brain scan data showing placebo effect neural changes"
+    depth: "Computer monitors with brain scans in foreground, researcher analyzing data in middle ground, fMRI scanning equipment in background"

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Growing Crowd After Ten Consecutive Blacks"
+  setting:
+    time: "August 18, 1913, evening around 10:00 PM"
+    location: "Single European-style roulette table within main gambling hall, Casino de Monte-Carlo"
+    weather: "Interior environment"
+  characters:
+    - appearance: "Middle-aged man with impeccably groomed appearance, maintaining professional composure despite growing crowd excitement"
+      clothing: "Traditional casino uniform: black tailcoat, starched white shirt, white bow tie, white gloves for handling chips"
+      position: "Behind the roulette wheel, maintaining professional demeanor"
+      action: "Professional stance behind roulette wheel, mechanically calling spins with trained precision"
+    - appearance: "Well-dressed gentleman in his 40s-50s, perfectly waxed mustache, showing increasing agitation as losses mount"
+      clothing: "Formal evening wear: black tailcoat, white waistcoat, gold pocket watch chain"
+      position: "Pressed closer to the table among growing crowd"
+      action: "Initially confident and condescending, progressively more desperate and sweating as bets fail"
+    - appearance: "Elegant woman with elaborate hairstyle, jewelry glittering under chandelier light"
+      clothing: "Silk evening gown with bustle typical of 1913, opera gloves, diamond jewelry, feathered fan"
+      position: "Standing behind the seated players, watching with growing concern"
+      action: "Initially amused by the spectacle, increasingly concerned as she witnesses financial ruin around her"
+  scene:
+    mainElements: "Green felt betting layout with French markings, ivory ball, mahogany wheel with single zero, brass fixtures, neat stacks of ivory and mother-of-pearl betting chips"
+    details: "Word has spread around the gaming table as players notice the extraordinary pattern. Multiple aristocrats and wealthy tourists gathering around this particular wheel. Betting chips accumulating heavily on red squares as players become convinced the streak must end. Tension building visibly in postures and expressions"
+    background: "Other casino patrons abandoning their games to witness the unusual event, ornate mirrors reflecting the growing crowd, crystal chandeliers illuminating the intense scene"
+    atmosphere: "Increasingly crowded with desperate gamblers pressing closer, mounting tension with each spin, growing pile of chips stacked on red betting squares"
+  composition:
+    cameraAngle: "Wide shot showing the growing crowd around the table"
+    focus: "The dense gathering of elegantly dressed patrons surrounding the famous roulette table"
+    depth: "Packed crowd of players in foreground, roulette table action in middle ground, luxurious casino hall in background, no text or letters visible"

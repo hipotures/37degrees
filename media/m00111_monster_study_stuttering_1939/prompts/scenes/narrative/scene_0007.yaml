@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Final Experimental Session - April 1939"
+  setting:
+    time: "April 1939, afternoon"
+    location: "Small therapy room at Iowa Soldiers' Orphans' Home, Davenport, Iowa"
+    weather: "Spring afternoon with brighter light through therapy room window"
+  characters:
+    - appearance: "Young woman in early 20s, brown hair in 1930s style waves, earnest face, average height and build"
+      clothing: "Conservative 1930s female academic attire - dark skirt suit, white blouse, low-heeled oxford shoes, small handbag"
+      position: "Seated across from child, completing final assessment forms"
+      action: "Taking notes while observing child's severely altered speech patterns, showing visible discomfort with results of experiment"
+    - appearance: "Small child, approximately 8-10 years old, fragile build, expressive eyes that become increasingly fearful"
+      clothing: "Standard orphanage attire - simple dress with pinafore, worn shoes, hair in institutional bob cut"
+      position: "Sitting in small wooden chair, posture now permanently changed"
+      action: "Displaying full range of induced speech problems - gulping, foot shuffling, extreme reluctance to speak, nervous habits now deeply ingrained"
+  scene:
+    mainElements: "Two wooden chairs facing each other, small table, clipboard and papers, single overhead light, radiator against wall, same room where manipulation began"
+    details: "Assessment forms documenting dramatic behavioral changes, pencils worn down from extensive note-taking, child's nervous habits now automatic and constant, evidence of psychological damage clearly visible"
+    background: "Same sparse institutional room, single window showing spring grounds outside, door closed maintaining isolation, institutional sounds from corridor"
+    atmosphere: "Completion of psychological manipulation with visible damage achieved, sense of accomplishment mixed with growing ethical awareness, child's natural speech confidence permanently altered, experiment reaching planned conclusion, lasting psychological scars established, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot emphasizing contrast between beginning and end of experiment"
+    focus: "Graduate student documenting successful induction of speech problems in normal child"
+    depth: "Foreground shows child's damaged psychological state, middle ground centers on researcher completing documentation, background reveals institutional setting where ethical violation occurred"

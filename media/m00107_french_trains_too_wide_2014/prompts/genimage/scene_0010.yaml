@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: October 2014, evening
+    location: French government ministry building, Paris
+    weather: Indoor formal setting, ceremonial lighting
+  characters:
+  - appearance: Government official, 60s, signing reunification legislation
+    clothing: Formal dark suit appropriate for ceremonial government occasion
+    position: Seated at official signing table with legislative documents
+    action: Signing legislation to reunify SNCF and RFF into single integrated entity
+  - appearance: SNCF executive, 50s, witnessing historic integration
+    clothing: Corporate business suit, SNCF pin on lapel
+    position: Standing beside signing table as witness to reunification
+    action: Observing the ceremonial end of 17-year institutional separation
+  scene:
+    mainElements: Formal government ceremony room with official signing table, French national flags, ceremonial lighting,
+      legislative documents ready for signature
+    details: Official government seals, formal ceremonial setting, witnesses from both railway organizations, photographers
+      documenting historic reunification. The expensive train crisis directly leading to institutional reform
+    background: Ornate government building interior, official portraits, French national symbols
+    atmosphere: Solemn recognition of institutional failure, formal ceremony ending costly bureaucratic separation, lessons
+      learned from expensive mistake, no text or letters visible
+  composition:
+    cameraAngle: Formal ceremonial angle capturing historic moment
+    focus: Signing of legislation reunifying France's fragmented railway system
+    depth: Foreground shows ceremonial signing documents, middle ground captures officials at historic moment, background
+      reveals formal government setting
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

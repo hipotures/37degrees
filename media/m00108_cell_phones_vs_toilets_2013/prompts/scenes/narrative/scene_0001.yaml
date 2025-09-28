@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "UN Deputy Secretary-General Announces Shocking Global Statistics"
+  setting:
+    time: "March 21, 2013, evening"
+    location: "Large formal conference room with distinctive UN architecture, high ceilings, Manhattan"
+    weather: "Clear evening in New York City"
+  characters:
+    - appearance: "Tall, distinguished Swedish diplomat in his 60s, silver-gray hair, professional bearing"
+      clothing: "Dark blue business suit appropriate for formal UN proceedings, UN lapel pin"
+      position: "Standing at podium or seated at conference table"
+      action: "Delivering official statements with serious and determined expression, gestures emphasizing urgency"
+  scene:
+    mainElements: "Podium with UN logo, rows of delegate seating, simultaneous translation booths"
+    details: "Official UN document stack, white paper with blue UN header visible, multiple pages bound professionally, diplomatic seal, formal layout without readable text content. Press photographers capturing the moment. Microphones arranged on podium."
+    background: "Large windows overlooking Manhattan skyline, formal diplomatic setting"
+    atmosphere: "Bright fluorescent lighting, serious atmosphere with media presence, formal diplomatic protocol"
+  composition:
+    cameraAngle: "Medium shot capturing speaker at podium with UN backdrop"
+    focus: "Diplomat delivering the groundbreaking announcement about global development priorities"
+    depth: "Speaker in foreground, diplomatic audience in middle ground, Manhattan skyline visible through windows in background, no text or letters visible"

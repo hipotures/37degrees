@@ -1,0 +1,103 @@
+sceneDescription:
+  setting:
+    time: March 1939, morning
+    location: Iowa Soldiers' Orphans' Home classroom, Davenport
+    weather: Early spring day with some sunlight breaking through classroom windows
+  characters:
+  - appearance: Small child, approximately 8-10 years old, fragile build, expressive eyes that become increasingly fearful
+    clothing: Standard orphanage attire - simple dress with pinafore, worn shoes, hair in institutional bob cut
+    position: Seated at school desk, hunched over with head down
+    action: Refusing to speak when called upon by teacher, clamping mouth shut, showing extreme reluctance to verbally participate
+  - appearance: Teenage girl, approximately 15 years old, medium height, wary intelligent eyes, cautious posture
+    clothing: Simple orphanage dress - plain cotton fabric, practical shoes, hair in neat braids typical of institutional
+      care
+    position: At another desk in same classroom
+    action: Whispering instead of speaking normally, avoiding teacher's attention, displaying protective body language
+  scene:
+    mainElements: Institutional classroom with wooden desks arranged in rows, teacher's desk at front, blackboard on wall,
+      tall windows providing natural lighting, educational materials visible
+    details: Children's school supplies and books on desks, some children now exhibiting stuttering-like behaviors, nervous
+      habits becoming more pronounced, academic work suffering as children avoid verbal participation
+    background: Classroom setting with other students and institutional educational environment, hallway visible through open
+      door, institutional educational materials and decorations
+    atmosphere: Educational environment now threatening for experimental subjects, children's academic performance declining
+      due to fear of speaking, normal classroom sounds contrasting with subjects' silence, psychological damage reaching peak
+      intensity, institutional authority becoming associated with speech criticism, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from side angle showing multiple affected children
+    focus: Children's extreme reluctance to speak in educational setting where verbal participation is expected
+    depth: Foreground shows affected children's defensive postures, middle ground centers on classroom learning environment,
+      background reveals broader institutional educational context
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Clinical Trial Patients Showing Adverse Reactions"
+  setting:
+    time: "1955, evening"
+    location: "Hospital clinical research ward, 1950s medical facility"
+    weather: "Indoor controlled hospital environment"
+  characters:
+    - appearance: "Various patients, mixed ages and conditions, showing visible distress, pale complexion, signs of genuine illness"
+      clothing: "1950s hospital gowns or period patient attire - conservative dresses for women, shirts and slacks for men"
+      position: "Patients in hospital beds and chairs throughout ward"
+      action: "Displaying real physical symptoms - weakness, discomfort, concern about treatment effects despite receiving placebo"
+  scene:
+    mainElements: "White-walled medical ward with multiple metal hospital beds, IV stands, medical monitoring equipment, nursing stations"
+    details: "Small white tablets in medical containers, clinical trial medication bottles, sterile pharmaceutical packaging, patient monitoring charts, medical staff observing and recording symptoms"
+    background: "Hospital corridor visible through ward entrance, medical equipment storage areas, nursing station with documentation"
+    atmosphere: "Sterile hospital environment with antiseptic odor, quiet tension as patients experience unexpected negative reactions to inert treatments"
+  composition:
+    cameraAngle: "Wide shot capturing multiple patients across ward"
+    focus: "Patients experiencing genuine symptoms from placebo treatments"
+    depth: "Foreground shows individual patient reactions, middle ground reveals ward layout, background displays medical facility atmosphere, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Paul Erdős Initially Rejects Computer Simulation Evidence"
+  setting:
+    time: "Early 1991, late evening in mathematical study"
+    location: "Mathematical research office with computer simulation equipment, academic environment with modern technology"
+    weather: "Winter evening, warm indoor lighting in academic study"
+  characters:
+    - appearance: "Elderly, thin, intense eyes behind glasses, disheveled appearance typical of devoted mathematician"
+      clothing: "Simple, often rumpled clothing, more concerned with mathematics than appearance"
+      position: "Sitting at desk surrounded by mathematical papers or standing before computer printouts"
+      action: "Studying computer simulation results, initially arguing against switching strategy, eventually accepting evidence"
+  scene:
+    mainElements: "Computer terminal with early simulation software, printouts showing statistical results, mathematical papers, reference books on probability theory"
+    details: "Character PE sits at desk examining computer printouts showing thousands of simulated door-choosing trials. Early computer terminal displays statistical analysis with numerical results demonstrating 67% win rate for switching strategy. Mathematical papers scattered across desk show probability calculations. Reference books opened to relevant statistical theorems. Character initially shakes head in disbelief at simulation results, then gradually shows acceptance as evidence mounts. Calculator and mathematical instruments present on workspace."
+    background: "Academic study with bookshelves full of mathematical texts, institutional lighting, other research materials visible"
+    atmosphere: "Intense mathematical scrutiny, intellectual humility gradually overcoming initial skepticism, scholarly environment focused on evidence-based conclusions"
+  composition:
+    cameraAngle: "Close-up shot showing computer printouts and character's changing expression"
+    focus: "Computer simulation results with statistical data, character's face showing transition from skepticism to acceptance"
+    depth: "Foreground shows detailed computer printouts with numerical results, middle ground captures character's contemplative expression, background reveals mathematical study environment, no text or letters visible"

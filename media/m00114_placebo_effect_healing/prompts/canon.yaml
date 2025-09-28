@@ -1,0 +1,120 @@
+canon:
+  characters:
+    - id: "character_JH"
+      name: "Character JH"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged English physician, approximately 59 years old, formal bearing typical of Georgian-era medical practitioners, powdered wig, clean-shaven face with intelligent, skeptical expression"
+            clothing: "Dark wool frock coat with brass buttons, white linen shirt with high collar, dark breeches, white stockings, black leather shoes with buckles, physician's bag in hand"
+            position: "Standing attentively beside examination table or seated at desk reviewing notes"
+            action: "Conducting methodical examination of patient or carefully documenting experimental results in leather-bound journal"
+    - id: "character_AF"
+      name: "Character AF"
+      description_block: |
+        characters:
+          - appearance: "51 years old American physician with serious demeanor, dark hair parted to side, full beard typical of Civil War era, penetrating eyes behind wire-rim spectacles"
+            clothing: "Black wool medical coat, white shirt with black bow tie, dark trousers, black leather boots, pocket watch chain visible, medical instruments in coat pockets"
+            position: "Standing at patient bedside or seated at desk with medical records"
+            action: "Examining patients with careful attention or documenting trial results in detailed medical notes"
+    - id: "character_HB"
+      name: "Character HB"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged American physician, approximately 52 years old, clean-shaven face, receding hairline, intense intellectual expression, wire-rimmed glasses"
+            clothing: "White medical coat over dark suit, starched white shirt, dark tie, hospital badge, stethoscope around neck, clipboard and papers in hand"
+            position: "Standing at podium giving presentation or seated at desk reviewing statistical data"
+            action: "Presenting research findings to colleagues or analyzing clinical trial data with focused concentration"
+    - id: "character_TW"
+      name: "Character TW"
+      description_block: |
+        characters:
+          - appearance: "Contemporary neuroscientist, early 40s, casual academic appearance, short brown hair, focused expression typical of researcher analyzing brain scans"
+            clothing: "Casual button-down shirt, dark jeans, lab coat when in scanner room, comfortable walking shoes, university ID badge"
+            position: "Standing beside fMRI control panels or seated at computer workstation"
+            action: "Operating brain imaging equipment or analyzing colorful brain scan data on multiple computer monitors"
+    - id: "patient_1799"
+      name: "Patient 1799"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged working-class person, weathered face showing chronic pain, hopeful expression when receiving treatment, visible relief after procedure"
+            clothing: "Simple wool clothing typical of late 18th century working class, worn but clean, brown or gray colors, basic leather shoes"
+            position: "Seated on examination chair or lying on medical table"
+            action: "Receiving treatment from physician, expression changing from skepticism to amazement as pain diminishes"
+    - id: "hospital_patient_1863"
+      name: "Hospital Patient 1863"
+      description_block: |
+        characters:
+          - appearance: "Civil War-era patient with signs of rheumatic fever, pale complexion, wearing simple hospital clothing, hopeful but weak expression"
+            clothing: "Plain white cotton hospital gown, thin blanket, bare feet or simple slippers"
+            position: "Lying in iron hospital bed or seated on bedside for examination"
+            action: "Taking medication from physician or being examined, showing gradual improvement in posture and expression"
+  locations:
+    - id: "bath_medical_practice_1799"
+      name: "Bath England Medical Practice 1799"
+      description_block: |
+        setting:
+          time: "1799, afternoon consultation hours"
+          location: "Georgian-era medical practice in fashionable spa town of Bath, England, stone buildings with elegant facades"
+          weather: "Clear afternoon light filtering through tall windows"
+        scene:
+          mainElements: "Well-appointed physician's office with wooden furniture, medical texts on shelves, examination table, window overlooking Bath's crescents"
+          details: "Oil lamps for lighting, brass medical instruments displayed, leather-bound journals, wooden medicine cabinet with glass bottles, Persian carpet on floor"
+          background: "View through window shows Bath's characteristic Georgian architecture, cobblestone street with horse-drawn carriages"
+          atmosphere: "Quiet, professional environment with smell of medical herbs, sound of horse-drawn carriages outside, sense of scientific curiosity and methodical investigation"
+    - id: "american_hospital_ward_1863"
+      name: "American Hospital Ward 1863"
+      description_block: |
+        setting:
+          time: "1863, morning medical rounds during Civil War era"
+          location: "American hospital with long ward containing multiple beds, high ceilings, large windows for natural light"
+          weather: "Morning light revealing systematic medical care"
+        scene:
+          mainElements: "Long room with multiple iron bed frames, simple mattresses, medical charts on wooden clipboards, medicine bottles on central table"
+          details: "Washbasins, oil lamps, wooden floors, white linens on beds, medical instruments on mobile cart, pitcher and bowl sets"
+          background: "Additional beds stretching into distance, nurses moving between patients, windows showing hospital grounds"
+          atmosphere: "Antiseptic smell mixed with human suffering, sounds of patients in discomfort, concerned murmurs of medical staff, systematic care environment"
+    - id: "harvard_laboratory_1955"
+      name: "Harvard Medical School Laboratory 1955"
+      description_block: |
+        setting:
+          time: "1955, daytime research session"
+          location: "Harvard Medical School Laboratory, mid-20th century medical research facility"
+          weather: "Bright institutional lighting, climate controlled indoor environment"
+        scene:
+          mainElements: "Research desks with typewriters, medical journals stacked high, statistical charts on walls, laboratory equipment, filing cabinets with patient data"
+          details: "Black rotary telephones, glass beakers and test tubes, manila folders, index card filing system, coffee cups and ashtrays"
+          background: "Additional research stations, bulletin boards with research notes, windows showing Harvard campus"
+          atmosphere: "Bustling academic energy, sounds of typing and discussion, smell of coffee and paper, sense of scientific breakthrough and systematic research"
+    - id: "modern_fmri_facility"
+      name: "Contemporary fMRI Brain Imaging Center"
+      description_block: |
+        setting:
+          time: "Present day, research session hours"
+          location: "State-of-the-art neuroimaging facility with advanced brain scanning technology"
+          weather: "Climate-controlled research environment with LED lighting"
+        scene:
+          mainElements: "Cylindrical fMRI machine, multiple computer monitors showing brain activity, comfortable patient bed on tracks, intercom systems, observation windows"
+          details: "Colorful brain scan displays, computer keyboards and mice, medical monitoring equipment, comfortable patient positioning devices, safety equipment"
+          background: "Control room with additional monitoring stations, researchers observing through glass, additional scanning equipment"
+          atmosphere: "High-tech environment with humming machinery, soft electronic beeps, sense of cutting-edge discovery, quiet concentration and scientific precision"
+  items:
+    - id: "metal_tractors"
+      name: "Perkins Metal Tractors"
+      description_block: |
+        details: "Two pointed metal rods, approximately 4 inches long, brass construction, pointed tips, smooth handles, lightweight but substantial feel, polished surface with slight wear from use, sold for extremely high price representing expensive quack medical device"
+    - id: "wooden_tractors"
+      name: "Haygarth Wooden Placebo Tractors"
+      description_block: |
+        details: "Two wooden rods crafted to exactly match metal originals, painted to resemble metal coloring, same dimensions and weight as possible, carefully constructed deception indistinguishable from originals to patients, representing first controlled placebo device in medical history"
+    - id: "quassia_bottle"
+      name: "Diluted Quassia Tincture Bottle"
+      description_block: |
+        details: "Clear glass medicine bottle containing heavily diluted herbal tincture, amber-colored liquid, cork stopper, handwritten label, made from quassia wood extract diluted to therapeutic insignificance while maintaining bitter taste"
+    - id: "jama_paper"
+      name: "The Powerful Placebo Journal Publication"
+      description_block: |
+        details: "Academic journal pages with black text on white paper, statistical tables and charts, formal medical publication format, published in JAMA 1955, influential document that brought placebo effect into mainstream medical consciousness"
+    - id: "brain_scan_display"
+      name: "fMRI Brain Scan Display"
+      description_block: |
+        details: "Colorful digital brain imaging showing activity patterns, multiple cross-sectional views, bright colors indicating neural activation, showing decreased activity in pain-processing regions during placebo administration, proving neural basis of placebo effects"

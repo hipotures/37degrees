@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Nationwide Classroom Experiments Prove Switching Strategy"
+  setting:
+    time: "Spring 1991, school classroom during mathematics lesson"
+    location: "Elementary school classroom set up for probability experiment, educational environment with student desks and teaching materials"
+    weather: "Bright spring afternoon with natural classroom lighting"
+  characters:
+    - appearance: "Elementary school students of various ages, 8-12 years old, mixed ethnicities, eager expressions"
+      clothing: "1990s school attire, casual shirts, dresses, sweaters appropriate for classroom setting"
+      position: "Seated at desks with experiment materials, some standing near makeshift doors"
+      action: "Conducting door-choosing experiments, recording results, discussing findings with animated excitement"
+  scene:
+    mainElements: "Classroom desks arranged for experiments, three cardboard doors labeled 1, 2, 3, student worksheets, tally sheets for recording results"
+    details: "Students actively engaged in hands-on door-choosing experiments using cardboard doors. Tally sheets show handwritten results tracking switching versus staying strategies. Teacher supervises as students take turns being contestant and host. Classroom chalkboard displays experiment instructions and running totals. Small groups of students compare results with animated discussions. Educational materials include probability game setup with simple prize tokens. Student worksheets show individual trial records with clear winning patterns emerging."
+    background: "Typical elementary classroom with educational posters, student artwork, classroom supplies, large windows providing natural lighting"
+    atmosphere: "Energetic educational discovery, students excited about mathematical exploration, collaborative learning environment focused on empirical evidence"
+  composition:
+    cameraAngle: "Wide classroom shot capturing multiple students conducting simultaneous experiments"
+    focus: "Students actively participating in door experiments with visible tally sheets showing results"
+    depth: "Foreground shows students with experiment materials and worksheets, middle ground captures classroom activity, background reveals educational environment with teaching materials, no text or letters visible"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Kellogg Family Home - The Research Family Introduced"
+  setting:
+    time: "June 1931, afternoon"
+    location: "Modest two-story family home in residential Orange Park, Florida, surrounded by subtropical vegetation"
+    weather: "Warm afternoon with typical Florida humidity and scattered clouds"
+  characters:
+    - appearance: "Middle-aged academic man in his early 40s, medium build, wearing wire-rimmed glasses typical of 1930s scholars, neat mustache, serious demeanor with intense observational focus"
+      clothing: "Professional 1930s attire - white dress shirt, dark tie, wool vest, sometimes wearing a laboratory coat during testing sessions, polished leather shoes"
+      position: "Standing at testing table or sitting with notebook, maintaining professional posture"
+      action: "Taking detailed notes constantly, observing and recording behavior, conducting scientific measurements with methodical precision"
+    - appearance: "Woman in her 30s, medium height, brown hair styled in 1930s finger waves, gentle facial features, maternal expression mixed with scientific curiosity"
+      clothing: "1930s housewife attire - cotton day dresses with aprons, comfortable shoes for chasing children, pearl necklace for formal documentation photos"
+      position: "Seated or kneeling beside subjects, maintaining nurturing yet analytical posture"
+      action: "Caring for both subjects while conducting tests, showing emotional attachment while maintaining research protocols"
+  scene:
+    mainElements: "Living room converted for testing sessions, kitchen with high chairs for both subjects, bedrooms with matching cribs and beds, makeshift laboratory area with scientific equipment and measurement devices"
+    details: "1930s domestic furnishings mixed with scientific apparatus, notebooks and measurement tools scattered on tables, cameras positioned for documentation, matching baby furniture arranged identically, windows letting in natural Florida light, family photographs on walls alongside scientific charts"
+    background: "1930s domestic setting disrupted by scientific apparatus, warm family environment with constant observation and testing, sounds of both human baby cries and chimp vocalizations echoing through rooms"
+    atmosphere: "Unusual blend of family warmth and scientific methodology, sense of anticipation for groundbreaking experiment, domestic tranquility about to be disrupted by unprecedented research, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot through doorway looking into main living area"
+    focus: "The research couple preparing their home for the unprecedented experiment"
+    depth: "Foreground shows scientific equipment being arranged, middle ground captures the researchers in their domestic setting, background reveals typical 1930s family home interior"

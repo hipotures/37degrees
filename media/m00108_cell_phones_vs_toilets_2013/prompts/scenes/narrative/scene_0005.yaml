@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "World Water Day Official Celebration in The Hague"
+  setting:
+    time: "March 22, 2013, full day event"
+    location: "Modern conference facility in The Hague, Netherlands, official host venue"
+    weather: "Mild spring weather in The Netherlands"
+  characters:
+    - appearance: "Tall, distinguished Swedish diplomat in his 60s, silver-gray hair, professional bearing"
+      clothing: "Dark blue business suit appropriate for formal UN proceedings, UN lapel pin"
+      position: "Standing at podium or seated at conference table"
+      action: "Delivering official statements with serious and determined expression, gestures emphasizing urgency"
+    - appearance: "African diplomat, middle-aged, authoritative presence"
+      clothing: "Professional business attire, UNICEF identification visible"
+      position: "Seated at conference table or standing beside podium"
+      action: "Supporting stance, nodding during announcements, data-focused presentation style"
+  scene:
+    mainElements: "Large auditorium with multimedia capabilities, Dutch and UN flags, water-themed displays"
+    details: "International delegates seated in auditorium, water and sanitation themed exhibition materials, professional conference setup. Multiple microphones at speaker podium. Camera crews documenting the proceedings."
+    background: "Professional conference center architecture, international flags"
+    atmosphere: "International cooperation focus, professional lighting, collaborative energy among global delegates"
+  composition:
+    cameraAngle: "Wide shot capturing the full scope of international cooperation"
+    focus: "World Water Day celebration highlighting global sanitation challenges"
+    depth: "Speakers at podium in foreground, international audience in middle ground, conference facility and flags in background, no text or letters visible"

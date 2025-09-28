@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Mars Climate Orbiter Launch at Cape Canaveral - December 11, 1998"
+  setting:
+    time: "December 11, 1998, 18:45 UTC, evening twilight"
+    location: "Cape Canaveral Air Force Station Launch Complex, Florida"
+    weather: "Clear Florida evening sky with scattered clouds"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Multi-stage rocket approximately 39 meters tall, white with blue NASA markings, solid rocket boosters attached, successfully delivered Mars Climate Orbiter to Earth-Mars transfer trajectory standing majestically on launch pad with service tower alongside"
+    details: "Coastal Florida launch facility with Delta II rocket on launch pad, launch tower, rocket assembly building, Atlantic Ocean backdrop, support vehicles and personnel. Launch tower structure with access arms, umbilical connections, service platforms. Ground support equipment including fuel trucks, electrical cables, communication arrays. Evening lighting creating dramatic shadows across white rocket surface against darkening sky."
+    background: "Atlantic Ocean stretching to horizon, Cape Canaveral coastal landscape with palm trees and industrial launch infrastructure, other launch pads visible in distance"
+    atmosphere: "Bright Florida sunshine transitioning to evening twilight, anticipation and technical precision, sense of ambitious space exploration beginning, engineering achievement and optimism before the mission begins its doomed journey"
+  composition:
+    cameraAngle: "Wide establishing shot from ground level, approximately 500 meters from launch pad"
+    focus: "Delta II 7425 rocket centered in frame, emphasizing scale and engineering achievement"
+    depth: "Launch pad and rocket in foreground, support infrastructure in middle ground, Atlantic Ocean and Florida coastline in background, no text or letters visible"

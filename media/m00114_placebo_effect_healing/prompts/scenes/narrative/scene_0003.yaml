@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Physician Crafting Wooden Placebo Tractors"
+  setting:
+    time: "1799, evening preparation hours"
+    location: "Georgian-era medical practice in fashionable spa town of Bath, England, stone buildings with elegant facades"
+    weather: "Evening light with oil lamps providing warm illumination"
+  characters:
+    - appearance: "Middle-aged English physician, approximately 59 years old, formal bearing typical of Georgian-era medical practitioners, powdered wig, clean-shaven face with intelligent, skeptical expression"
+      clothing: "Dark wool frock coat with brass buttons, white linen shirt with high collar, dark breeches, white stockings, black leather shoes with buckles, physician's bag in hand"
+      position: "Seated at desk, working with careful precision on wooden objects"
+      action: "Carefully painting wooden rods to match metal originals, comparing dimensions and weight, documenting the deception in his journal"
+  scene:
+    mainElements: "Well-appointed physician's office with wooden furniture, medical texts on shelves, examination table, window overlooking Bath's crescents"
+    details: "Oil lamps for lighting providing warm glow, brass medical instruments displayed, leather-bound journals open with detailed notes, wooden medicine cabinet with glass bottles, Persian carpet on floor. Two wooden rods being crafted to exactly match metal originals, painted to resemble metal coloring, same dimensions and weight, carefully constructed deception on desk alongside original metal tractors for comparison"
+    background: "View through window shows Bath's characteristic Georgian architecture in evening shadows, cobblestone street with occasional lantern light"
+    atmosphere: "Quiet, professional environment with smell of medical herbs and paint, methodical scientific preparation, sense of groundbreaking experiment being planned, intellectual excitement about controlled testing, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from slightly above, showing desk work area"
+    focus: "Physician's hands crafting wooden placebo devices, comparison with metal originals"
+    depth: "Wooden crafting work in foreground, physician's concentrated expression in middle ground, medical office library in background"

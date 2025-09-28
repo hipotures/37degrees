@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "SNCF headquarters morning - massive train order preparation"
+  setting:
+    time: "2013, early morning"
+    location: "SNCF corporate headquarters, Saint-Denis, northern Paris"
+    weather: "Clear spring morning, bright sunlight through office windows"
+  characters:
+    - appearance: "SNCF executive, 50s, confident demeanor, reviewing documents"
+      clothing: "Dark business suit, white shirt, SNCF corporate tie"
+      position: "Seated at large conference table with technical specifications spread out"
+      action: "Examining train specifications and platform compatibility documents with satisfaction"
+  scene:
+    mainElements: "Modern corporate conference room with glass walls, large table covered with technical drawings, train specifications, and RFF platform measurement documents. Multiple SNCF executives reviewing the massive 2,000-train order proposal"
+    details: "Engineering blueprints of TER Régiolis trains spread across mahogany table, coffee cups, laptops displaying technical specifications, wall-mounted displays showing France's regional railway network map. RFF official documentation clearly visible among the paperwork. Professional atmosphere of major infrastructure decision-making"
+    background: "Floor-to-ceiling windows showing Paris skyline, SNCF corporate logos on walls, shelves lined with railway engineering manuals"
+    atmosphere: "Confident corporate environment, sense of major modernization project beginning, optimism about France's railway future, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from conference room entrance"
+    focus: "Technical documents and confident executives planning the train order"
+    depth: "Foreground shows detailed engineering drawings, middle ground captures executives in discussion, background reveals Paris cityscape through windows"

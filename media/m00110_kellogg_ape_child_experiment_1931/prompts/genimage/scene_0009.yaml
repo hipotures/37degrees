@@ -1,0 +1,108 @@
+sceneDescription:
+  setting:
+    time: March 28, 1932, morning
+    location: Kellogg family home main entrance and vehicle area, preparing for separation
+    weather: Clear spring morning with bright sunlight, warm Florida temperature
+  characters:
+  - appearance: 7.5-month-old female chimpanzee, dark fur, expressive brown eyes, smaller than Donald initially but physically
+      stronger, distinctive primate features
+    clothing: Human baby clothes - onesies, diapers, small shoes, sometimes wearing bonnets or hats for family photos, formal
+      dress for testing documentation
+    position: Sitting upright in chair, climbing on furniture, or positioned for testing alongside human infant
+    action: Demonstrating remarkable adaptability and affection, showing human-like emotional responses, excelling in physical
+      tasks and problem-solving
+  - appearance: Woman in her 30s, medium height, brown hair styled in 1930s finger waves, gentle facial features, maternal
+      expression mixed with scientific curiosity
+    clothing: 1930s housewife attire - cotton day dresses with aprons, comfortable shoes for chasing children, pearl necklace
+      for formal documentation photos
+    position: Seated or kneeling beside subjects, maintaining nurturing yet analytical posture
+    action: Caring for both subjects while conducting tests, showing emotional attachment while maintaining research protocols
+  scene:
+    mainElements: Front entrance of family home, automobile or transport vehicle waiting, luggage or transport cage prepared
+      for Gua's return to facility, emotional farewell scene between bonded subjects and family
+    details: Tearful separation as nine-month family unit dissolves, Gua being prepared for return to Yale Laboratories of
+      Primate Biology, emotional distress visible in both subjects who have become deeply bonded, packed belongings and transport
+      arrangements, end of unprecedented cross-species family experiment, formal conclusion of daily testing regime that defined
+      their shared life
+    background: 1930s residential setting with morning light, sounds of emotional separation, sense of experiment ending abruptly
+      rather than reaching natural conclusion, neighborhood environment where unusual family arrangement quietly dissolving
+    atmosphere: Profound sadness as artificial family breaks apart, scientific necessity overriding emotional bonds, sense
+      of failed experiment with personal costs, relief mixed with grief at experiment's end, no text or letters visible
+  composition:
+    cameraAngle: Wide shot capturing the scope of separation and departure
+    focus: The emotional termination of nine-month cross-species family experiment
+    depth: Foreground shows the painful separation between bonded subjects, middle ground captures family members dealing
+      with experiment's end, background reveals normal residential setting where extraordinary experiment concluded
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Le Canard Enchaîné investigative journalism - exposing the scandal"
+  setting:
+    time: "May 2014, late evening"
+    location: "canard_offices"
+    weather: "Indoor office environment, desk lamps creating focused lighting"
+  characters:
+    - appearance: "character_CJ"
+      clothing: "Casual journalistic attire, blazer over shirt, notebook always visible"
+      position: "Among press crowd or at desk with documents"
+      action: "Taking notes, asking probing questions, reviewing investigative materials"
+  scene:
+    mainElements: "canard_offices with cluttered journalist desks, stacks of investigative files, editorial workspace with computers"
+    details: "Desk covered with railway documents, SNCF correspondence, RFF technical specifications, calculator showing cost figures, multiple coffee cups, investigative notes scattered across workspace. Evidence of thorough research into the train-platform crisis"
+    background: "Busy newsroom with other journalists working, satirical posters on walls, printing equipment"
+    atmosphere: "canard_offices atmosphere - triumphant mood after breaking major story, no text or letters visible"
+  composition:
+    cameraAngle: "Over-shoulder shot from behind journalist reviewing documents"
+    focus: "Investigative materials spread across desk revealing the scope of the scandal"
+    depth: "Foreground shows detailed investigation documents, middle ground captures focused journalist, background reveals busy newsroom environment"
