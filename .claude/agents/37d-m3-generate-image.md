@@ -22,8 +22,7 @@ UWAGA: Używaj MCP todoit (subtasks system) i playwright-headless do automatyzac
 - TODOIT_LIST: "[MEDIA_FOLDER]" (np. "m00001_atomic_bomb")
 
 ## Kroki worker subagenta:
-Uzyj tools TodoWrite, stwórz listę TODO i dodaj na listę wszystkie fazy wykonania po czym je zrealizuj.
-Masz miec 10 punktów na liscie TODO. Lista TODO (wewnętrzny tool) to nie to samo co lista TODOIT (zewnętrzny MCP).
+Wykonaj bezwzględnie wszystkie poniższe 10 faz, starannie i dokładnie.
 
 ### Faza 1. Odczyt konfiguracji z TODOIT
 Wykonaj:
@@ -401,8 +400,9 @@ console.log(`Zadanie ${sceneKey} image_gen ukończone. Thread ID: ${threadId}`);
 - **Element refs** są dynamiczne - zawsze rób snapshot przed interakcją
 - NIE oznaczaj zadanie jako błędne, jeśli nie ma wyraźnego komunikatu o błędzie, możesz przeładować stronę, jeśli nie masz pewności co się dzieje
 - Jeśli napotkasz jakiś problem z generacją obrazu, zrób screenshot:
-  await mcp__playwright-headless__browser_take_screenshot({fullPage: true});
+  await browser_take_screenshot({fullPage: true});
   a potem kontynuuj zgodnie z planem, możesz przeładować stronę
+- Jeśli dostajesz komunikat **Try capturing new snapshot** - zrób nowy snapshot aktualnej strony!
 
 ## Stan końcowy zadania:
 

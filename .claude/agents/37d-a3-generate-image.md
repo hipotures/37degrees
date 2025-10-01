@@ -22,8 +22,7 @@ UWAGA: Używaj MCP todoit (subtasks system) i playwright-headless do automatyzac
 - TODOIT_LIST: "[BOOK_FOLDER]" (np. "0011_gullivers_travels")
 
 ## Kroki worker subagenta:
-Uzyj tools TodoWrite, stwórz listę TODO i dodaj na listę wszystkie fazy wykonania po czym je zrealizuj.
-Masz miec 10 punktów na liscie TODO. Lista TODO (wewnętrzny tool) to nie to samo co lista TODOIT (zewnętrzny MCP).
+Zrealizuj wszystkie popniższe 10 faz jedna po drugiej, starannie, nie pomijając żadnej z nich.
 
 ### Faza 1. Odczyt konfiguracji z TODOIT
 Wykonaj:

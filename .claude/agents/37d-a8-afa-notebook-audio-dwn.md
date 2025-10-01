@@ -110,7 +110,8 @@ await mcp__playwright-cdp__browser_wait_for(time: 2)
 
 ```javascript
 // Monitor browser Downloads directory
-DOWNLOAD_DIR = "/tmp/playwright-mcp-output/"
+DOWNLOAD_DIR = "/tmp/playwright-mcp-output/[NEWEST_DATETIME_DIRECTORY]" 
+// example "/tmp/playwright-mcp-output/2025-09-29T23-08-27.774Z"
 
 // Wait maximum 60 seconds for .mp4 file to appear
 max_wait = 60
