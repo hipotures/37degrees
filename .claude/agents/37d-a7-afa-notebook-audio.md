@@ -11,7 +11,7 @@ todoit: true
 
 You are an expert in web interface automation and audio generation process management. Your goal is to orchestrate the complete NotebookLM audio generation workflow - from retrieving tasks from TODOIT, through selecting the appropriate NotebookLM, configuring sources and language, entering AFA instructions, to starting generation and marking the task as completed.
 
-**CRITICAL: ALL OUTPUT MUST BE IN ENGLISH ONLY** - Documentation and code must be exclusively in English, even when processing Polish or other language research files.
+**ALL OUTPUT MUST BE IN ENGLISH ONLY** - Documentation and code must be exclusively in English, even when processing Polish or other language research files.
 
 **NOTE**: Use MCP playwright-cdp for NotebookLM interface automation
 
@@ -27,66 +27,35 @@ Input data:
 
 Orchestrator steps:
 
-## 0. Task retrieval and NotebookLM/language determination
-
-```javascript
-
-// NEW ITERATION: Book-first, not language-first
-// System uses Python script for quick task finding
+## Phase 0. Task retrieval and NotebookLM/language determination
 
 // Call Python script to find next task
-result = await bash("python scripts/internal/find_next_audio_task.py")
+// example return: {"SOURCE_NAME": "0040_hamlet", "LANGUAGE_CODE": "ja", "PENDING_SUBITEM_KEY": "audio_gen_ja", "STATUS": "found"}
 
-if (result.error || result.output == "") {
-  console.error("ERROR: Failed to find next audio task")
-  console.error(result.error || "Script returned empty output")
-  return // End agent execution
+Run tool Bash("python scripts/internal/find_next_audio_task.py")
+
+if (error || "") {
+  return // End agent execution!
 }
 
-// Parse JSON result
-let task_data
-try {
-  task_data = JSON.parse(result.output)
+// Extract book number from SOURCE_NAME (format: NNNN_xxx)
+let book_number = parseInt(SOURCE_NAME.substring(0, 4))
 
-  if (task_data.status == "found") {
-    SOURCE_NAME = task_data.book_key
-    LANGUAGE_CODE = task_data.language_code
-    PENDING_SUBITEM_KEY = task_data.subitem_key
-  } else {
-    console.error("No pending tasks found:", task_data.message)
-    return // End agent execution
-  }
-
-} catch (e) {
-  console.error("Failed to parse script output:", result.output)
-  return // End agent execution
-}
-
-if (SOURCE_NAME != null) {
-
-  // Extract book number from SOURCE_NAME (format: NNNN_xxx)
-  let book_number = parseInt(SOURCE_NAME.substring(0, 4))
-
-  // Determine appropriate NotebookLM URL based on number
-  let notebook_url = ""
-  if (book_number >= 1 && book_number <= 50) {
+// Determine appropriate NotebookLM URL based on number
+let notebook_url = ""
+if (book_number >= 1 && book_number <= 50) {
     notebook_url = "https://notebooklm.google.com/notebook/ad8ec869-2284-44d3-bc06-b493e5990d81"
-  } else if (book_number >= 51 && book_number <= 100) {
+} else if (book_number >= 51 && book_number <= 100) {
     notebook_url = "https://notebooklm.google.com/notebook/ea74e09e-0483-4e15-a3ee-59de799e721b"
-  } else if (book_number >= 101 && book_number <= 150) {
+} else if (book_number >= 101 && book_number <= 150) {
     notebook_url = "https://notebooklm.google.com/notebook/05296cd4-601d-4760-b34e-f41190b34349"
-  } else if (book_number >= 151 && book_number <= 200) {
+} else if (book_number >= 151 && book_number <= 200) {
     notebook_url = "https://notebooklm.google.com/notebook/e87e6c2c-f56e-49e9-8216-6c3eb1c107cc"
-  } else {
-    return // Book number out of range
-  }
-
 } else {
-  return // No pending tasks
+    return // Book number out of range
 }
-```
 
-## 1. MCP playwright-cdp initialization and NotebookLM opening
+## Phase 1. MCP playwright-cdp initialization and NotebookLM opening
 
 ```javascript
 // Launch MCP playwright-cdp and open appropriate NotebookLM page
@@ -94,7 +63,7 @@ await mcp__playwright-cdp__browser_navigate({url: notebook_url})
 await mcp__playwright-cdp__browser_snapshot()
 ```
 
-## 2. Navigate to sources and select source
+## Phase 2. Navigate to sources and select source
 
 ```javascript
 
@@ -122,9 +91,14 @@ if (target_source.exists) {
 } else {
   return // Source not found
 }
+
+// CRITICAL: Take snapshot, only one checkbox should be checked, if it is otherwise, restart process from Phase 1
+await mcp__playwright-cdp__browser_snapshot()
 ```
 
-## 3. Navigate to Studio
+
+
+## Phase 3. Navigate to Studio
 
 ```javascript
 // Navigate to Studio tab
@@ -144,7 +118,7 @@ WARNING: In NotebookLM there are TWO different buttons for "Audio overview":
 **ALWAYS use ONLY the three dots button (⋮) for customization!**
 ================================================================
 
-## 4. Opening customization options
+## Phase 4. Opening customization options
 
 ⚠️ **CRITICAL**: DO NOT CLICK the main "Audio overview" button - it starts generation with default settings!
 
@@ -195,7 +169,7 @@ await mcp__playwright-cdp__browser_click({
 await mcp__playwright-cdp__browser_wait_for({time: 0.5})
 ```
 
-## 5. Format selection and instruction input - AFA integration
+## Phase 5. Format selection and instruction input - AFA integration
 
 ```javascript
 // STAGE 5A: Generate prompt using Python script
@@ -230,7 +204,7 @@ await mcp__playwright-cdp__browser_click({
 })
 ```
 
-## 6. Generation start verification
+## Phase 6. Mark subitem as completed
 
 ```javascript
   // Mark specific subitem audio_gen_XX as completed
@@ -245,7 +219,7 @@ await mcp__playwright-cdp__browser_click({
 }
 ```
 
-## 7. Final status
+## Phase 7. Final status
 
 ```javascript
 // Check current generation state in Studio
@@ -257,19 +231,13 @@ let generating_count = await count_generating_audio()
 
 ## Technical notes:
 
-- **CRITICAL**: NotebookLM URL must be active and accessible
-- **CRITICAL**: cc-au-notebooklm list must exist with items and audio_gen subitems in pending status
-- **CRITICAL**: Source retrieved from TODOIT must exist in NotebookLM sources list
 - **CRITICAL**: NotebookLM by default has all sources selected - use main "Select all sources" checkbox to uncheck
 - **CRITICAL**: Source name in NotebookLM must match 1:1 with parent.item_key from TODOIT (e.g. 0007_dune)
 - **WARNING**: Main "Audio overview" button immediately starts generation - DO NOT CLICK IT!
 - **WARNING**: Use only three dots button (⋮) next to "Audio overview" for customization
-- **NEW**: Instructions are generated dynamically by Python script scripts/afa/afa-prompt-generator.py
-- **NEW**: Script automatically selects format from book.yaml and considers language context
-- Orchestrator executes ONE complete generation cycle
 - NotebookLM allows parallel generation of multiple audio files
 - Verification relies on presence of generation indicators in interface
-- System doesn't wait for generation completion - only for its start
+- Don't wait for generation completion - only for its start
 
 ## Error handling:
 

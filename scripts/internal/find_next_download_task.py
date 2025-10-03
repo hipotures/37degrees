@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Book-first version of find_next_download_task.py
-Downloads all languages for one book before moving to the next book
+Fast book-first download task finder
+Optimized to minimize queries - only checks books that have pending audio_dwn
 """
 
 import subprocess
@@ -34,33 +34,54 @@ def get_notebook_url(book_number):
     else:
         return None
 
-def find_books_with_completed_audio():
-    """Find books that have at least one completed audio_gen (ready for download)"""
+def get_books_with_pending_downloads():
+    """Get books that have at least one pending audio_dwn (quick filter)"""
+    books = set()
+
+    # Quick check: find any books with pending audio_dwn_pl (most books will have this)
     output, returncode = run_todoit_cmd([
         "item", "find-status", "--list", TARGET_LIST,
-        "--status", "completed",
-        "--complex", '{"item": {"status": "in_progress"}, "subitem": {"audio_gen_pl": "completed"}}',
+        "--status", "pending",
+        "--complex", '{"audio_dwn_pl": "pending"}',
         "--limit", "50"
     ])
 
-    if returncode != 0:
-        return []
+    if returncode == 0:
+        try:
+            result = json.loads(output)
+            if result.get("data"):
+                for book_data in result["data"]:
+                    book_key = book_data.get("Parent Key")
+                    if book_key:
+                        books.add(book_key)
+        except (json.JSONDecodeError, KeyError):
+            pass
 
-    books = []
-    try:
-        result = json.loads(output)
-        if result.get("data"):
-            for book_data in result["data"]:
-                book_key = book_data["Parent Key"]
-                if book_key not in books:
-                    books.append(book_key)
-    except (json.JSONDecodeError, KeyError):
-        pass
+    # Also check other languages in case pl is completed
+    for lang in ["en", "es", "pt"]:  # Just check a few high-priority languages
+        dwn_key = f"audio_dwn_{lang}"
+        output, returncode = run_todoit_cmd([
+            "item", "find-status", "--list", TARGET_LIST,
+            "--status", "pending",
+            "--complex", f'{{"{dwn_key}": "pending"}}',
+            "--limit", "20"
+        ])
 
-    return books
+        if returncode == 0:
+            try:
+                result = json.loads(output)
+                if result.get("data"):
+                    for book_data in result["data"]:
+                        book_key = book_data.get("Parent Key")
+                        if book_key:
+                            books.add(book_key)
+            except (json.JSONDecodeError, KeyError):
+                pass
+
+    return sorted(list(books))
 
 def find_next_download_in_book(book_key):
-    """Find next pending audio_dwn task in a specific book"""
+    """Find next pending audio_dwn task in a specific book where audio_gen is completed"""
     # Get all subitems for this book
     output, returncode = run_todoit_cmd([
         "item", "list", "--list", TARGET_LIST,
@@ -86,22 +107,25 @@ def find_next_download_in_book(book_key):
         if not result.get("data"):
             return None
 
+        # Build status map for all subitems
+        subitem_status = {}
+        for subitem in result["data"]:
+            key = subitem.get("Key")
+            status = subitem.get("Status")
+            if key:
+                subitem_status[key] = status
+
         # Find first pending audio_dwn in language priority order
-        # But only if corresponding audio_gen is completed
+        # BUT ONLY if corresponding audio_gen is completed
         for lang in SUPPORTED_LANGUAGES:
             gen_key = f"audio_gen_{lang}"
             dwn_key = f"audio_dwn_{lang}"
 
-            gen_completed = False
-            dwn_pending = False
+            gen_status = subitem_status.get(gen_key)
+            dwn_status = subitem_status.get(dwn_key)
 
-            for subitem in result["data"]:
-                if subitem.get("Key") == gen_key and subitem.get("Status") == "completed":
-                    gen_completed = True
-                if subitem.get("Key") == dwn_key and subitem.get("Status") == "pending":
-                    dwn_pending = True
-
-            if gen_completed and dwn_pending:
+            # Both must exist, gen must be completed, dwn must be pending
+            if gen_status == "completed" and dwn_status == "pending":
                 # Found a language ready to download!
                 book_number = int(book_key[:4])
                 notebook_url = get_notebook_url(book_number)
@@ -140,25 +164,22 @@ def find_next_download_in_book(book_key):
         return None
 
 def main():
-    # Find books that have completed audio_gen (ready for download)
-    books = find_books_with_completed_audio()
+    # Get books that have pending audio_dwn (quick pre-filter)
+    books = get_books_with_pending_downloads()
 
     if not books:
-        print(json.dumps({"status": "no_tasks_found", "message": "No books with completed audio_gen"}))
+        print(json.dumps({"status": "no_tasks_found", "message": "No books with pending audio_dwn"}))
         sys.exit(1)
 
-    # Sort books by key (position order) to maintain consistency
-    books.sort()
-
-    # Iterate through books in position order
+    # Iterate through books in position order (book-first strategy)
     for book_key in books:
         result = find_next_download_in_book(book_key)
         if result:
             print(json.dumps(result, ensure_ascii=False))
             sys.exit(0)
 
-    # No pending download tasks found
-    print(json.dumps({"status": "no_tasks_found", "message": "No pending audio_dwn tasks found"}))
+    # No valid download tasks found (pending dwn but no completed gen)
+    print(json.dumps({"status": "no_tasks_found", "message": "No pending audio_dwn tasks with completed audio_gen"}))
     sys.exit(1)
 
 if __name__ == "__main__":

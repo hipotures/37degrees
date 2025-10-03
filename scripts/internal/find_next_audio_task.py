@@ -84,10 +84,10 @@ def main():
                         if subitem.get("Key") == subitem_key and subitem.get("Status") == "pending":
                             # Found it!
                             result = {
-                                "book_key": book_key,
-                                "language_code": lang,
-                                "subitem_key": subitem_key,
-                                "status": "found"
+                                "SOURCE_NAME": book_key,
+                                "LANGUAGE_CODE": lang,
+                                "PENDING_SUBITEM_KEY": subitem_key,
+                                "STATUS": "found"
                             }
                             print(json.dumps(result))
                             sys.exit(0)
