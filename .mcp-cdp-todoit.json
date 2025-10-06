@@ -18,6 +18,10 @@
         "TODOIT_FORCE_TAGS": "37d",
         "TODOIT_DB_PATH": "${HOME}/.todoit/todoit.db"
       }
+    },
+    "chrome-devtools": {
+      "command": "npx",
+      "args": ["chrome-devtools-mcp@latest"]
     }
   }
 }

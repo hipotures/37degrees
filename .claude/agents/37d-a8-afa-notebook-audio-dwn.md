@@ -157,6 +157,8 @@ DEST_PATH = AUDIO_DIR + "/" + DEST_FILENAME
 // Move file
 await Bash("mv " + downloaded_file + " " + DEST_PATH)
 
+// DO NOT READ BINARY mp4 or m4a files for verification! You will get "Error executing tool read_file: File size exceeds the 20MB limit"
+
 if (file_exists(DEST_PATH)) {
   console.log("✅ Audio file moved to: " + DEST_PATH)
 
@@ -223,7 +225,6 @@ if (!AUDIO_REF) {
   goto step_9_status
 }
 
-console.log("🗑️  Starting deletion of: " + ORIGINAL_TITLE)
 
 // Step 1: Click "More" button for same audio
 await mcp__playwright-cdp__browser_click(element: "More button for audio", ref: matching_audio.more_button_ref)
@@ -281,6 +282,7 @@ if (deletion_check.startsWith("CAN_DELETE_FROM_NOTEBOOK")) {
 - **CRITICAL**: Dynamic NotebookLM URL selection based on book number
 - **CRITICAL**: cc-au-notebooklm list with subitems
 - **CRITICAL**: Uses saved titles from nb_au_title property if they exist
+- DO NOT READ BINARY mp4 m4a files! You will get "Error executing tool read_file: File size exceeds the 20MB limit"
 - File structure: books/[book]/audio/[book]_[lang].mp4
 - Uses find_next_download_task.py script to find tasks
 - Files organized by languages for easier management

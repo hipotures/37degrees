@@ -1,8 +1,8 @@
 GOAL: 18 min conversation - ACADEMIC_ANALYSIS
-BOOK: Animal Farm (1945)
+BOOK: Animal Farm by George Orwell (1945)
 
-HOST HOST_A: You are Andrzej (male). You are Professor Andrzej, analyzing Animal Farm with scholarly depth. Discuss allegorical structure, historical context, and literary innovation. Academic but accessible.
-HOST HOST_B: You are Beata (female). You are Beata, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility for general audience.
+HOST HOST_A: Andrzej (male). You are Professor Andrzej, analyzing Animal Farm with scholarly depth. Discuss allegorical structure, historical context, and literary innovation. Academic but accessible.
+HOST HOST_B: Beata (female). You are Beata, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility for general audience.
 
 KEY THEMES TO DISCUSS:
 • Language Power: Language as manipulation tool - Squealer's propaganda techniques
@@ -10,17 +10,24 @@ KEY THEMES TO DISCUSS:
 • Cia Operations: CIA propaganda use - 1954 film and balloon operations
 • Social Media Parallels: Modern algorithms mirror Squealer's information control
 • Educational Standard: Global curriculum standard for 50+ years
-• Local context: Underground resistance symbol during communist era
-• Key editions: Teresa Jeleńska translation (1947), Szymon Żuchowski (2021)
-• Educational context: Obligatory reading in Polish schools
+• Workplace Toxicity: Napoleon as toxic manager resonates with Gen Z
+• Prophetic Surveillance: Predicted surveillance state and information warfare
+• Literary Innovation: Created modern political beast fable genre
+• Cultural Impact: Underground resistance symbol during communist era
+• Key Editions: Teresa Jeleńska translation (1947), Szymon Żuchowski (2021)
+• Reception Notes: Banned 1947-1988, strong underground circulation
+• Educational Status: Obligatory reading in Polish schools
+• Local Themes: Post-communist readings, Solidarity movement parallels
 
-TIME STRUCTURE:
-• Introduction (0:00-1:00): Start with '37stopni'
-• Main part (1:00-16:00): Theme development
-• Conclusion (16:00-18:00): Summary
+CONVERSATION FLOW:
+• Historical Context (Host A leads): Spanish Civil War origins and Russian Revolution parallels
+• Literary Innovation (Host B leads): Political beast fable creation and narrative techniques
+• Political Allegory (Host A leads): Character-to-historical figure mapping and symbolism
+• Contemporary Relevance (Host B leads): Social media parallels and modern applications
+• Legacy Synthesis (Host A leads): Educational impact and enduring influence
 
 TONE:
-Adapted to format, no long monologues
+Formal but accessible, respect for hierarchy, precise, scholarly
 
 INTERACTION PATTERN:
 • Host B interrupts/engages every 2-3 minutes with questions or modern examples
@@ -28,10 +35,10 @@ INTERACTION PATTERN:
 • Natural overlaps and reactions encouraged
 
 CONVERSATION HOOKS:
-• 'Czekaj, czy to oznacza że...'
-• 'O, to mi przypomina...'
-• 'Zaraz, niech to dobrze zrozumiem...'
-• 'Ale przecież dzisiaj...'
+• 'Panie profesorze, czy to oznacza...'
+• 'Przepraszam, czy mógłby Pan rozwinąć...'
+• 'To nawiązuje do teorii, którą...'
+• 'Czy to sugeruje, że...'
 
 EXAMPLE DIALOGUE STYLE:
 Andrzej: 'What's fascinating is Carroll's entire logic of absurdity is actually mathematically consistent.'

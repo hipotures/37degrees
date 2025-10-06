@@ -38,33 +38,14 @@ def get_books_with_pending_downloads():
     """Get books that have at least one pending audio_dwn (quick filter)"""
     books = set()
 
-    # Quick check: find any books with pending audio_dwn_pl (most books will have this)
-    output, returncode = run_todoit_cmd([
-        "item", "find-status", "--list", TARGET_LIST,
-        "--status", "pending",
-        "--complex", '{"audio_dwn_pl": "pending"}',
-        "--limit", "50"
-    ])
-
-    if returncode == 0:
-        try:
-            result = json.loads(output)
-            if result.get("data"):
-                for book_data in result["data"]:
-                    book_key = book_data.get("Parent Key")
-                    if book_key:
-                        books.add(book_key)
-        except (json.JSONDecodeError, KeyError):
-            pass
-
-    # Also check other languages in case pl is completed
-    for lang in ["en", "es", "pt"]:  # Just check a few high-priority languages
+    # Check all languages for pending audio_dwn
+    for lang in SUPPORTED_LANGUAGES:
         dwn_key = f"audio_dwn_{lang}"
         output, returncode = run_todoit_cmd([
             "item", "find-status", "--list", TARGET_LIST,
             "--status", "pending",
             "--complex", f'{{"{dwn_key}": "pending"}}',
-            "--limit", "20"
+            "--limit", "30"
         ])
 
         if returncode == 0:
