@@ -28,17 +28,24 @@ PROJECT_ID_JSON=$(TODOIT_OUTPUT_FORMAT=json todoit list property get --list "$LI
 PROJECT_ID=$(echo "$PROJECT_ID_JSON" | jq -r '.data[0].project_id // empty' 2>/dev/null || echo "")
 
 # 3. Find next ready task
-TASK_JSON=$(TODOIT_OUTPUT_FORMAT=json todoit item find-status --complex '{"scene_style": "completed", "image_gen": "pending"}' --list "$LIST_KEY" --limit 1)
+TASK_OUTPUT=$(TODOIT_OUTPUT_FORMAT=json todoit item find-status --complex '{"scene_style": "completed", "image_gen": "pending"}' --list "$LIST_KEY" --limit 1 2>&1)
 
-TASK_COUNT=$(echo "$TASK_JSON" | jq -r '.count // 0')
+# Check if output is valid JSON
+if ! echo "$TASK_OUTPUT" | jq empty 2>/dev/null; then
+  # Not JSON - probably "No items found" message
+  echo '{"ready": false, "message": "No tasks ready for image generation"}'
+  exit 0
+fi
+
+TASK_COUNT=$(echo "$TASK_OUTPUT" | jq -r '.count // 0')
 
 if [ "$TASK_COUNT" -eq 0 ]; then
-  echo '{"ready": false, "message": "No tasks ready for image generation"}' >&2
+  echo '{"ready": false, "message": "No tasks ready for image generation"}'
   exit 0
 fi
 
 # Extract parent key
-SCENE_KEY=$(echo "$TASK_JSON" | jq -r '.data[0]."Parent Key"')
+SCENE_KEY=$(echo "$TASK_OUTPUT" | jq -r '.data[0]."Parent Key"')
 
 # 4. Get YAML file path from scene_style subtask
 YAML_PATH_JSON=$(TODOIT_OUTPUT_FORMAT=json todoit item property get --list "$LIST_KEY" --item "$SCENE_KEY" --subitem scene_style --key scene_style_pathfile 2>/dev/null)
