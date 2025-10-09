@@ -334,11 +334,20 @@ async function uploadScene(params: UploadParams): Promise<UploadResult> {
 
     console.error('[4/6] Entering prompt and sending...');
 
+    // Use /image slash command to activate image mode directly
+    const contentEditable = page.locator('[contenteditable="true"]').first();
+
+    console.error('  → Activating /image mode...');
+    await contentEditable.click();
+    await contentEditable.type('/image');
+    await page.keyboard.press('Tab');  // Activate image mode
+    await page.waitForTimeout(500);
+
+    // Now add custom prompt
     const promptText = `${params.bookFolder}:${sceneKey} - create an image based on the scene, style, and visual specifications described in the attached YAML. Think carefully: the YAML is a blueprint, not the content!`;
 
-    // Enter prompt in contenteditable div
-    const contentEditable = page.locator('[contenteditable="true"]').first();
-    await contentEditable.fill(promptText);
+    console.error('  → Entering custom prompt...');
+    await contentEditable.type(' ' + promptText);  // Space after /image activation
 
     console.error('  → Clicking send button...');
 
