@@ -85,6 +85,15 @@ matching_audio = find_audio_by_patterns(SEARCH_PATTERNS)
 
 if (!matching_audio) {
   console.error("ERROR: Audio not found for " + SOURCE_NAME + " in " + LANGUAGE_CODE)
+
+  // Mark subitem as failed in TODOIT
+  await mcp__todoit__todo_update_item_status(
+    list_key: "cc-au-notebooklm",
+    item_key: SOURCE_NAME,
+    subitem_key: PENDING_SUBITEM_KEY,  // e.g. "audio_dwn_pl"
+    status: "failed"
+  )
+
   return
 }
 
@@ -290,7 +299,7 @@ if (deletion_check.startsWith("CAN_DELETE_FROM_NOTEBOOK")) {
 
 ## Error Handling
 
-- No audio → check if audio_gen is completed
+- No audio → mark audio_dwn_LANG as failed in TODOIT, check if audio_gen is completed
 - Download timeout → increase time limit or retry
 - Move errors → check permissions and disk space
 - No title in property → fallback to pattern matching

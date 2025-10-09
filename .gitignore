@@ -144,3 +144,11 @@ claude-flow
 claude-flow.bat
 claude-flow.ps1
 hive-mind-prompt-*.txt
+
+# Node.js / Playwright
+node_modules/
+package-lock.json
+playwright-report/
+test-results/
+.playwright/
+dist/

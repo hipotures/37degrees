@@ -67,6 +67,15 @@
         "CLIENT_SECRET": "GOOGLE_CLIENT_SECRET",
         "GDRIVE_CREDS_DIR": "/home/xai/.config/mcp-gdrive"
       }
+    },
+    "playwright-test": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "playwright",
+        "run-test-mcp-server"
+      ],
+      "env": {}
     }
   }
 }
