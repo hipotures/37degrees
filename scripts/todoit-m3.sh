@@ -15,8 +15,8 @@
 # - Pozostaw puste aby przetworzyć wszystkie media
 # - Ustaw liczby aby ograniczyć zakres (np. od 1 do 7)
 
-MEDIA_START_RANGE="61"      # Początek zakresu (np. 1 dla m00001_xxx)
-MEDIA_END_RANGE="62"        # Koniec zakresu (np. 7 dla m00007_xxx)
+MEDIA_START_RANGE="64"      # Początek zakresu (np. 1 dla m00001_xxx)
+MEDIA_END_RANGE="65"        # Koniec zakresu (np. 7 dla m00007_xxx)
 
 # =============================================================================
 # ŁADOWANIE BIBLIOTEKI I INICJALIZACJA
@@ -45,14 +45,8 @@ fi
 # Pokaż informacje o znalezionych mediach
 show_media_directories_info
 
-# Plik z komendą/promptem dla modelu Claude.
-COMMAND_FILE="/home/xai/DEV/37degrees/.claude/agents/37d-m3-generate-image.md"
-
-# Plik konfiguracyjny MCP.
-MCP_CONFIG="/home/xai/DEV/37degrees/.mcp.json-one_stop_workflow"
-
 # Czas oczekiwania w sekundach między poszczególnymi wywołaniami.
-SLEEP_DURATION=73
+SLEEP_DURATION=79
 
 #  Usuń jeśli został status
 rm -f /tmp/todoit-m3-last-scenes.txt
@@ -60,53 +54,12 @@ rm -f /tmp/todoit-m3-last-scenes.txt
 # Plik do zapamiętywania ostatnio przetwarzanych scen dla każdej listy
 LAST_SCENE_FILE="/tmp/todoit-m3-last-scenes.txt"
 
-# Sprawdzenie, czy plik z komendą istnieje, aby uniknąć błędów.
-if [ ! -f "$COMMAND_FILE" ]; then
-    echo "Błąd: Plik z komendą nie został znaleziony pod ścieżką: $COMMAND_FILE"
-    exit 1
-fi
-
 # Funkcja do sprawdzenia postępu zadań w TODOIT
 check_progress() {
     local media_dir="$1"
     echo "📊 Sprawdzam postęp dla $media_dir..."
     todoit list show --list "$media_dir"
 }
-
-# Funkcja do rozpoznawania błędów limitu Claude'a
-parse_claude_error() {
-    local error_output="$1"
-
-    # Sprawdź czy błąd zawiera wzorzec "Claude AI usage limit reached|TIMESTAMP"
-    if echo "$error_output" | grep -q "Claude AI usage limit reached|"; then
-        # Wyciągnij timestamp UTC
-        timestamp=$(echo "$error_output" | grep "Claude AI usage limit reached|" | sed 's/.*Claude AI usage limit reached|\([0-9]*\).*/\1/')
-        echo "$timestamp"
-        return 0
-    else
-        echo ""
-        return 1
-    fi
-}
-
-# Funkcja do obliczania czasu oczekiwania
-calculate_sleep_time() {
-    local reset_timestamp="$1"
-
-    # Obecny czas w sekundach UTC
-    current_time=$(date +%s)
-
-    # Oblicz różnicę (dodaj margines bezpieczeństwa 60 sekund)
-    sleep_time=$((reset_timestamp - current_time + 60))
-
-    # Upewnij się, że czas oczekiwania nie jest ujemny
-    if [ $sleep_time -lt 0 ]; then
-        sleep_time=0
-    fi
-
-    echo "$sleep_time"
-}
-
 
 # Funkcja do zapisania ostatnio przetwarzanej sceny dla listy
 save_last_scene() {
@@ -161,8 +114,8 @@ get_next_task() {
   || return 1
 }
 
-# Funkcja do wykonania komendy claude z retry logic
-execute_claude_with_retry() {
+# Funkcja do wykonania process-image-task.sh z retry logic
+execute_image_generation_with_retry() {
     local media_dir="$1"
     local max_attempts=3
     local sleep_between_retries=10
@@ -171,32 +124,27 @@ execute_claude_with_retry() {
     while [ $attempt -le $max_attempts ]; do
         echo "🔄 Próba $attempt/$max_attempts dla $media_dir"
 
-        # Wykonaj komendę claude
-        local claude_output
-        claude_output=$(
-            {
-                cat "$COMMAND_FILE"
-                echo "Katalog medium: $media_dir"
-            } | claude --dangerously-skip-permissions --model sonnet -p --mcp-config "$MCP_CONFIG" --allowedTools "*" 2>&1
-        )
+        # Wykonaj skrypt generowania obrazów
+        local script_output
+        script_output=$("$SCRIPT_DIR/chatgpt/process-image-task.sh" "$media_dir" 2>&1)
 
         local exit_code=$?
 
         # Jeśli sukces - zwróć wynik
         if [ $exit_code -eq 0 ]; then
-            echo "$claude_output"
+            echo "$script_output"
             return 0
         fi
 
-        # Sprawdź czy to błąd limitu Claude'a - przekaż do istniejącej obsługi
-        if echo "$claude_output" | grep -q "Claude AI usage limit reached|"; then
-            echo "$claude_output"
+        # Sprawdź czy to błąd limitu ChatGPT - przekaż do istniejącej obsługi
+        if echo "$script_output" | grep -qE "(plus plan limit|limit resets in|daily usage limit)"; then
+            echo "$script_output"
             return $exit_code
         fi
 
-        # Sprawdź czy to błąd API (5xx) - retry
-        if echo "$claude_output" | grep -qE "(API Error.*5[0-9]{2}|Internal server error|Server error|Service unavailable)"; then
-            echo "⚠️ Błąd API wykryty w próbie $attempt/$max_attempts"
+        # Sprawdź czy to błąd network/timeout - retry
+        if echo "$script_output" | grep -qE "(timeout|network|connection|ECONNREFUSED)"; then
+            echo "⚠️ Błąd sieci wykryty w próbie $attempt/$max_attempts"
 
             if [ $attempt -lt $max_attempts ]; then
                 echo "⏳ Oczekiwanie ${sleep_between_retries}s przed kolejną próbą..."
@@ -205,12 +153,12 @@ execute_claude_with_retry() {
                 continue
             else
                 echo "❌ Osiągnięto maksymalną liczbę prób ($max_attempts)"
-                echo "$claude_output"
+                echo "$script_output"
                 return $exit_code
             fi
         else
             # Inny błąd - nie retry
-            echo "$claude_output"
+            echo "$script_output"
             return $exit_code
         fi
     done
@@ -263,59 +211,34 @@ for media_dir in "${media_directories[@]}"; do
         # Zapisz scenę jako ostatnio przetwarzaną
         save_last_scene "$media_dir" "$task_key"
 
-        # Wywołaj agenta 37d-m3-generate-image dla konkretnego zadania z retry logic
-        claude_output=$(execute_claude_with_retry "$media_dir")
+        # Wywołaj skrypt generowania obrazów dla konkretnego zadania z retry logic
+        script_output=$(execute_image_generation_with_retry "$media_dir")
 
         # Sprawdzenie kodu wyjścia ostatniej komendy.
         exit_code=$?
         if [ $exit_code -ne 0 ]; then
-            echo "⚠️ Błąd: Polecenie 'claude' zakończyło się błędem w iteracji $iteration dla $media_dir."
+            echo "⚠️ Błąd: Skrypt generowania obrazów zakończył się błędem w iteracji $iteration dla $media_dir."
 
-            # Sprawdź czy to błąd limitu Claude'a
-            reset_timestamp=$(parse_claude_error "$claude_output")
-
-            if [ -n "$reset_timestamp" ]; then
-                echo "🔄 Wykryto limit Claude AI. Timestamp resetu: $reset_timestamp"
-
-                # Oblicz czas oczekiwania
-                sleep_time=$(calculate_sleep_time "$reset_timestamp")
-
-                # Konwertuj timestamp na czytelną datę
-                reset_date=$(date -d "@$reset_timestamp" "+%Y-%m-%d %H:%M:%S %Z")
-
-                if [ $sleep_time -gt 0 ]; then
-                    echo "⏰ Limit zostanie zresetowany o: $reset_date"
-                    echo "⏳ Oczekiwanie $sleep_time sekund ($(($sleep_time/60)) minut)..."
-                    sleep "$sleep_time"
-                    echo "🚀 Kontynuowanie przetwarzania..."
-
-                    # Nie zwiększaj licznika iteracji - powtórz tę samą iterację
-                    continue
-                else
-                    echo "✅ Limit już zresetowany, kontynuowanie..."
-                fi
+            # Sprawdź czy to błąd daily limit ChatGPT - przerwij cały skrypt
+            if echo "$script_output" | grep -qE "(daily usage limit reached|Create image feature is disabled|more available on|plus plan limit|limit resets in|Przekroczony limit generowania obrazów|ChatGPT Plus osiągnął limit|CHATGPT_DAILY_LIMIT_REACHED|Orchestrator zatrzymany z powodu osiągnięcia dziennego limitu)"; then
+                echo "🚫 **KRYTYCZNY BŁĄD: ChatGPT daily image limit osiągnięty**"
+                echo "Szczegóły błędu:"
+                echo "$script_output"
+                echo ""
+                echo "💡 Generowanie obrazów w ChatGPT zostało zablokowane na dziś."
+                echo "🔄 Uruchom ponownie jutro lub gdy limit zostanie zresetowany."
+                echo ""
+                echo "🛑 **KOŃCZĘ CAŁY SKRYPT** - brak sensu kontynuowania bez możliwości generowania obrazów."
+                exit 1
             else
-                # Sprawdź czy to błąd daily limit ChatGPT - przerwij cały skrypt
-                if echo "$claude_output" | grep -qE "(daily usage limit reached|Create image feature is disabled|more available on|plus plan limit|limit resets in|Przekroczony limit generowania obrazów|ChatGPT Plus osiągnął limit|CHATGPT_DAILY_LIMIT_REACHED|Orchestrator zatrzymany z powodu osiągnięcia dziennego limitu)"; then
-                    echo "🚫 **KRYTYCZNY BŁĄD: ChatGPT daily image limit osiągnięty**"
-                    echo "Szczegóły błędu:"
-                    echo "$claude_output"
-                    echo ""
-                    echo "💡 Generowanie obrazów w ChatGPT zostało zablokowane na dziś."
-                    echo "🔄 Uruchom ponownie jutro lub gdy limit zostanie zresetowany."
-                    echo ""
-                    echo "🛑 **KOŃCZĘ CAŁY SKRYPT** - brak sensu kontynuowania bez możliwości generowania obrazów."
-                    exit 1
-                else
-                    echo "❌ Inny błąd - przerywam przetwarzanie tego medium i przechodzę do następnego."
-                    echo "Szczegóły błędu:"
-                    echo "$claude_output"
-                    break
-                fi
+                echo "❌ Inny błąd - przerywam przetwarzanie tego medium i przechodzę do następnego."
+                echo "Szczegóły błędu:"
+                echo "$script_output"
+                break
             fi
         else
-            # Wyświetl output z Claude
-            echo "$claude_output"
+            # Wyświetl output ze skryptu
+            echo "$script_output"
         fi
 
         echo "✅ Iteracja $iteration ukończona"

@@ -1,15 +1,23 @@
 #!/bin/bash
 # Orchestrator script for ChatGPT image generation workflow
-# Usage: ./process-image-task.sh <TODOIT_LIST>
-# Example: ./process-image-task.sh m00062_cointelpro_revelation_1971
+# Usage: ./process-image-task.sh <TODOIT_LIST> [--attach-yaml]
+# Example: ./process-image-task.sh m00062_cointelpro_revelation_1971  # Default: paste mode
+# Example: ./process-image-task.sh m00062_cointelpro_revelation_1971 --attach-yaml  # Attach file mode
 
 set -e
 
 TODOIT_LIST="$1"
+PASTE_YAML="true"
+
+# Parse optional flags
+if [ "$2" == "--attach-yaml" ]; then
+  PASTE_YAML="false"
+fi
 
 if [ -z "$TODOIT_LIST" ]; then
-  echo "Usage: $0 <TODOIT_LIST>" >&2
-  echo "Example: $0 m00062_cointelpro_revelation_1971" >&2
+  echo "Usage: $0 <TODOIT_LIST> [--attach-yaml]" >&2
+  echo "Example: $0 m00062_cointelpro_revelation_1971  # Default: paste YAML content" >&2
+  echo "Example: $0 m00062_cointelpro_revelation_1971 --attach-yaml  # Attach YAML file" >&2
   exit 1
 fi
 
@@ -18,6 +26,11 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 echo "========================================" >&2
 echo "ChatGPT Image Generation Workflow" >&2
 echo "List: $TODOIT_LIST" >&2
+if [ "$PASTE_YAML" == "true" ]; then
+  echo "Mode: Paste YAML content (default)" >&2
+else
+  echo "Mode: Attach YAML file" >&2
+fi
 echo "========================================" >&2
 echo "" >&2
 
@@ -65,10 +78,12 @@ echo "" >&2
 
 echo "[2/3] Running Playwright upload..." >&2
 
-# Construct command
-UPLOAD_CMD="npx ts-node $SCRIPT_DIR/upload-scene.ts $BOOK_FOLDER $YAML_FILENAME"
+# Construct command with all parameters
+# Args: bookFolder sceneFile projectId headless pasteYaml
 if [ -n "$PROJECT_ID" ]; then
-  UPLOAD_CMD="$UPLOAD_CMD $PROJECT_ID"
+  UPLOAD_CMD="npx ts-node $SCRIPT_DIR/upload-scene.ts $BOOK_FOLDER $YAML_FILENAME \"$PROJECT_ID\" \"\" \"$PASTE_YAML\""
+else
+  UPLOAD_CMD="npx ts-node $SCRIPT_DIR/upload-scene.ts $BOOK_FOLDER $YAML_FILENAME \"\" \"\" \"$PASTE_YAML\""
 fi
 
 echo "  → Command: $UPLOAD_CMD" >&2

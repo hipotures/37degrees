@@ -28,6 +28,7 @@ interface UploadParams {
   sceneFile: string;
   projectId?: string;
   headless?: boolean;
+  pasteYaml?: boolean;
 }
 
 interface UploadResult {
@@ -326,44 +327,68 @@ async function uploadScene(params: UploadParams): Promise<UploadResult> {
     console.error('  ✓ Image mode activated');
 
     // ========================================================================
-    // PHASE 4: Attach YAML File
+    // PHASE 4: Attach YAML File (skip if pasteYaml=true)
     // ========================================================================
 
-    console.error('[4/6] Attaching YAML file...');
+    if (!params.pasteYaml) {
+      console.error('[4/7] Attaching YAML file...');
 
-    // Use Ctrl+U keyboard shortcut
-    console.error('  → Pressing Ctrl+U to open file upload...');
-    await page.keyboard.press('Control+u');
-    await page.waitForTimeout(1000);
+      // Use Ctrl+U keyboard shortcut
+      console.error('  → Pressing Ctrl+U to open file upload...');
+      await page.keyboard.press('Control+u');
+      await page.waitForTimeout(1000);
 
-    // Upload YAML file
-    console.error(`  → Uploading ${params.sceneFile}...`);
-    await page.setInputFiles('input[type="file"]', yamlPath);
-    await page.waitForTimeout(3000);
+      // Upload YAML file
+      console.error(`  → Uploading ${params.sceneFile}...`);
+      await page.setInputFiles('input[type="file"]', yamlPath);
+      await page.waitForTimeout(3000);
 
-    // Verify file attached
-    const fileAttached = await page.locator(`text="${params.sceneFile}"`).isVisible();
-    if (!fileAttached) {
-      throw new Error('File upload failed - filename not visible in UI');
+      // Verify file attached
+      const fileAttached = await page.locator(`text="${params.sceneFile}"`).isVisible();
+      if (!fileAttached) {
+        throw new Error('File upload failed - filename not visible in UI');
+      }
+
+      console.error('  ✓ File attached successfully');
+    } else {
+      console.error('[4/7] Skipping file attachment (paste mode)...');
     }
-
-    console.error('  ✓ File attached successfully');
 
     // ========================================================================
     // PHASE 5: Enter Prompt and Send
     // ========================================================================
 
-    console.error('[5/6] Entering prompt and sending...');
+    console.error('[5/7] Entering prompt and sending...');
 
-    // Enter custom prompt
-    const promptText = `${params.bookFolder}:${sceneKey} - create an image based on the scene, style, and visual specifications described in the attached YAML. Think carefully: the YAML is a blueprint, not the content!`;
-
-    console.error('  → Entering custom prompt...');
     await contentEditable.click();
     await page.waitForTimeout(100);
 
-    await contentEditable.type(' ' + promptText);
-    await page.waitForTimeout(100);
+    if (params.pasteYaml) {
+      // Paste mode: Paste entire prompt (identifier + newline + YAML) via clipboard
+      console.error('  → Reading YAML content for paste mode...');
+      const yamlContent = fs.readFileSync(yamlPath, 'utf-8');
+
+      // Combine identifier + newline + YAML
+      const fullPrompt = `${params.bookFolder}: ${sceneKey}\n${yamlContent}`;
+
+      console.error('  → Pasting full prompt via clipboard (preserves newlines)...');
+      // Copy to clipboard and paste with Ctrl+V
+      await page.evaluate(async (text) => {
+        await navigator.clipboard.writeText(text);
+      }, fullPrompt);
+
+      await page.keyboard.press('Control+v');
+      await page.waitForTimeout(1000);
+
+      console.error('  ✓ Full prompt pasted (multiline preserved)');
+    } else {
+      // Attach mode: Use descriptive prompt
+      const promptText = `${params.bookFolder}: ${sceneKey} - create an image based on the scene, style, and visual specifications described in the attached YAML. Think carefully: the YAML is a blueprint, not the content!`;
+      console.error('  → Using attach mode prompt (descriptive)');
+
+      await contentEditable.type(' ' + promptText);
+      await page.waitForTimeout(100);
+    }
 
     console.error('  → Clicking send button...');
     const sendButton = page.locator('button[data-testid="send-button"]')
@@ -496,24 +521,28 @@ async function main() {
   const args = process.argv.slice(2);
 
   if (args.length < 2) {
-    console.error('Usage: npx ts-node scripts/chatgpt/upload-scene.ts <bookFolder> <sceneFile> [projectId] [headless]');
+    console.error('Usage: npx ts-node scripts/chatgpt/upload-scene.ts <bookFolder> <sceneFile> [projectId] [headless] [pasteYaml]');
     console.error('Example: npx ts-node scripts/chatgpt/upload-scene.ts 0016_lalka scene_01.yaml');
     console.error('Example: npx ts-node scripts/chatgpt/upload-scene.ts 0016_lalka scene_01.yaml g-p-xxx false');
+    console.error('Example: npx ts-node scripts/chatgpt/upload-scene.ts 0016_lalka scene_01.yaml undefined undefined true');
     process.exit(1);
   }
 
   const params: UploadParams = {
     bookFolder: args[0],
     sceneFile: args[1],
-    projectId: args[2],
-    headless: args[3] === 'false' ? false : args[3] === 'true' ? true : undefined
+    projectId: args[2] && args[2] !== '' ? args[2] : undefined,
+    headless: args[3] === 'false' ? false : args[3] === 'true' ? true : undefined,
+    pasteYaml: args[4] === 'true' ? true : false
   };
 
   console.error(`\n=== ChatGPT Upload Scene ===`);
   console.error(`Book: ${params.bookFolder}`);
   console.error(`Scene: ${params.sceneFile}`);
-  if (params.projectId) {
+  if (params.projectId && params.projectId !== 'undefined') {
     console.error(`Project ID: ${params.projectId}`);
+  } else {
+    console.error('Project ID: (creating new project)');
   }
   console.error('');
 
