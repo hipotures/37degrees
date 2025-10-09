@@ -163,7 +163,7 @@ async function uploadScene(params: UploadParams): Promise<UploadResult> {
     // PHASE 1: Browser Setup
     // ========================================================================
 
-    console.error('[1/6] Launching browser...');
+    console.error('[1/7] Launching browser...');
 
     // Check if CDP port 9222 is open
     const cdpPort = 9222;
@@ -219,7 +219,7 @@ async function uploadScene(params: UploadParams): Promise<UploadResult> {
     // PHASE 2: Project Navigation
     // ========================================================================
 
-    console.error('[2/6] Navigating to project...');
+    console.error('[2/7] Navigating to project...');
 
     let finalProjectId = params.projectId;
 
@@ -305,17 +305,38 @@ async function uploadScene(params: UploadParams): Promise<UploadResult> {
     }
 
     // ========================================================================
-    // PHASE 3: Attach YAML File and Select Tool
+    // PHASE 3: Activate Image Mode
     // ========================================================================
 
-    console.error('[3/6] Attaching YAML file...');
+    console.error('[3/6] Activating image mode...');
 
-    // Use Ctrl+U keyboard shortcut to open file upload (simpler than clicking buttons)
+    const contentEditable = page.locator('[contenteditable="true"]').first();
+
+    console.error('  → Typing /image command...');
+    await contentEditable.click();
+    await page.waitForTimeout(100);
+
+    await contentEditable.type('/image');
+    await page.waitForTimeout(100);
+
+    console.error('  → Pressing Tab to activate...');
+    await page.keyboard.press('Tab');
+    await page.waitForTimeout(500);  // Wait for image mode activation
+
+    console.error('  ✓ Image mode activated');
+
+    // ========================================================================
+    // PHASE 4: Attach YAML File
+    // ========================================================================
+
+    console.error('[4/6] Attaching YAML file...');
+
+    // Use Ctrl+U keyboard shortcut
     console.error('  → Pressing Ctrl+U to open file upload...');
     await page.keyboard.press('Control+u');
     await page.waitForTimeout(1000);
 
-    // Upload YAML file via file input
+    // Upload YAML file
     console.error(`  → Uploading ${params.sceneFile}...`);
     await page.setInputFiles('input[type="file"]', yamlPath);
     await page.waitForTimeout(3000);
@@ -329,39 +350,32 @@ async function uploadScene(params: UploadParams): Promise<UploadResult> {
     console.error('  ✓ File attached successfully');
 
     // ========================================================================
-    // PHASE 4: Enter Prompt and Send
+    // PHASE 5: Enter Prompt and Send
     // ========================================================================
 
-    console.error('[4/6] Entering prompt and sending...');
+    console.error('[5/6] Entering prompt and sending...');
 
-    // Use /image slash command to activate image mode directly
-    const contentEditable = page.locator('[contenteditable="true"]').first();
-
-    console.error('  → Activating /image mode...');
-    await contentEditable.click();
-    await contentEditable.type('/image');
-    await page.keyboard.press('Tab');  // Activate image mode
-    await page.waitForTimeout(500);
-
-    // Now add custom prompt
+    // Enter custom prompt
     const promptText = `${params.bookFolder}:${sceneKey} - create an image based on the scene, style, and visual specifications described in the attached YAML. Think carefully: the YAML is a blueprint, not the content!`;
 
     console.error('  → Entering custom prompt...');
-    await contentEditable.type(' ' + promptText);  // Space after /image activation
+    await contentEditable.click();
+    await page.waitForTimeout(100);
+
+    await contentEditable.type(' ' + promptText);
+    await page.waitForTimeout(100);
 
     console.error('  → Clicking send button...');
-
-    // Click send button
     const sendButton = page.locator('button[data-testid="send-button"]')
       .or(page.locator('button[aria-label="Send"]'));
 
     await sendButton.click();
 
     // ========================================================================
-    // PHASE 5: Wait for Response and Verify Result
+    // PHASE 6: Wait for Response and Verify Result
     // ========================================================================
 
-    console.error('[5/6] Waiting for ChatGPT response...');
+    console.error('[6/6] Waiting for ChatGPT response...');
 
     // Wait for assistant response
     await page.waitForSelector('[data-message-author-role="assistant"]', {
@@ -457,10 +471,10 @@ async function uploadScene(params: UploadParams): Promise<UploadResult> {
 
   } finally {
     // ========================================================================
-    // PHASE 6: Cleanup
+    // PHASE 7: Cleanup
     // ========================================================================
 
-    console.error('[6/6] Cleaning up...');
+    console.error('[7/7] Cleaning up...');
 
     if (browser && !useCDP) {
       // Only close browser if we launched it ourselves
