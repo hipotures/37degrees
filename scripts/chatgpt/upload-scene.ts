@@ -271,12 +271,20 @@ async function uploadScene(params: UploadParams): Promise<UploadResult> {
 
       // Click "New project"
       await page.locator('text="New project"').click();
-      await page.waitForTimeout(500);
+      await page.waitForTimeout(1000);
 
-      // Enter project name
-      const projectNameInput = page.locator('input[placeholder*="name" i]').first();
+      // Wait for modal and enter project name
+      // Use role-based selector for the textbox
+      const projectNameInput = page.getByRole('textbox').first();
+      await projectNameInput.waitFor({ state: 'visible', timeout: 10000 });
+
+      // Clear existing text and enter new name
+      await projectNameInput.click();
+      await projectNameInput.fill('');  // Clear first
       await projectNameInput.fill(params.bookFolder);
-      await projectNameInput.press('Enter');
+
+      // Click "Create project" button
+      await page.getByRole('button', { name: 'Create project' }).click();
       await page.waitForTimeout(2000);
 
       // Extract project ID from URL
