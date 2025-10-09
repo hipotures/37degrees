@@ -285,7 +285,12 @@ async function uploadScene(params: UploadParams): Promise<UploadResult> {
 
       // Click "Create project" button
       await page.getByRole('button', { name: 'Create project' }).click();
-      await page.waitForTimeout(2000);
+
+      // Wait for navigation to project page
+      // The URL should change from /?model=... to /g/g-p-.../project
+      console.error('  → Waiting for project page to load...');
+      await page.waitForURL(/\/g\/g-p-.*\/project/, { timeout: 15000 });
+      await page.waitForTimeout(3000);  // Extra wait for UI to settle
 
       // Extract project ID from URL
       const url = page.url();
