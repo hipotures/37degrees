@@ -23,6 +23,12 @@ if [[ ! "$STATUS" =~ ^(completed|failed|pending)$ ]]; then
   exit 1
 fi
 
+# CRITICAL: Don't save anything if thread_id is a placeholder or invalid
+if [[ "$THREAD_ID" =~ ^FAILED.*$ ]] || [[ "$THREAD_ID" == "null" ]] || [[ "$THREAD_ID" == "undefined" ]]; then
+  echo '{"success": false, "error": "Cannot save with placeholder thread_id. Playwright script must provide real thread ID."}' >&2
+  exit 1
+fi
+
 ERRORS=()
 
 # 1. Save thread_id to image_gen subtask (always, even on error)

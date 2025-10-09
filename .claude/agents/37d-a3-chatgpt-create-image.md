@@ -158,6 +158,17 @@ if (scriptResult.error) {
 
 ### Faza 3. Zapisz wynik w TODOIT
 
+**CRITICAL CHECK:** Tylko jeśli Playwright zwrócił prawdziwy thread ID!
+
+```javascript
+// CRITICAL: Don't save anything if we don't have a real thread ID
+if (!scriptResult.threadId || scriptResult.threadId.startsWith('FAILED') || scriptResult.threadId === 'null') {
+  console.log(`✗ CRITICAL: No valid thread ID from Playwright. Not saving to TODOIT.`);
+  console.log(`✗ This scene needs manual retry or investigation.`);
+  return;
+}
+```
+
 **Wywołaj wrapper script który zapisze wszystkie dane w jednym wywołaniu:**
 
 ```bash
@@ -167,7 +178,7 @@ scripts/chatgpt/todoit-write-result.sh <list_key> <scene_key> <thread_id> <statu
 **Parametry:**
 - `list_key`: TODOIT list key (np. "m00062_cointelpro_revelation_1971")
 - `scene_key`: Scene key (np. "scene_0005")
-- `thread_id`: ChatGPT thread ID (zawsze wymagany)
+- `thread_id`: ChatGPT thread ID (zawsze wymagany i prawdziwy!)
 - `status`: "completed", "failed", lub "pending" (dla ChatGPT limit)
 - `project_id`: (optional) Nowy project ID jeśli został utworzony
 - `error_message`: (optional) Error message jeśli wystąpił
@@ -253,6 +264,7 @@ if (writeData.success) {
 
 ## Stan końcowy zadania:
 
+**Jeśli Playwright zwrócił thread ID:**
 - Jedno image_gen subtask przetworzone z ustawionym statusem:
   - **completed** - obraz wygenerowany pomyślnie
   - **failed** - błąd treści/polityki/network/inne
@@ -260,6 +272,12 @@ if (writeData.success) {
 - Thread ID zapisany w właściwościach image_gen subtaska
 - PROJECT_ID zapisany w właściwościach listy (jeśli projekt był tworzony)
 - Obraz rozpoczął generowanie w ChatGPT
+
+**Jeśli Playwright NIE zwrócił thread ID:**
+- ŻADNE zmiany w TODOIT (scena pozostaje z poprzednim statusem)
+- Agent kończy z komunikatem o błędzie
+- Scena wymaga ręcznego retry lub zbadania problemu
+- To zapobiega sytuacji gdzie agent pominął scenę bez sukcesu
 
 ## Uwagi techniczne:
 
@@ -278,6 +296,8 @@ if (writeData.success) {
 - **ChatGPT Plus limit:** Status pozostaje `pending` → auto-retry później
 - **Content policy:** Status → `failed` (permanent)
 - **Unknown errors:** Status → `failed`, zapisz error message
+- **No thread ID:** NIE zapisuje do TODOIT, agent kończy z błędem, scena pozostaje do retry
+  - Zapobiega "ghost success" gdzie scena zostaje pominięta bez rzeczywistego sukcesu
 
 ## Debugowanie
 
