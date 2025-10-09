@@ -161,17 +161,36 @@ echo "========================================" >&2
 echo "✓ Workflow completed successfully" >&2
 echo "========================================" >&2
 
+# Determine final project ID (use new if created, else existing)
+FINAL_PROJECT_ID="${NEW_PROJECT_ID:-$PROJECT_ID}"
+
+# Generate timestamp with second precision
+TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+
+# Construct screenshot path based on success/failure
+if [ "$SUCCESS" == "true" ]; then
+  SCREENSHOT="/tmp/chatgpt-success-${BOOK_FOLDER}-${SCENE_KEY}.png"
+else
+  SCREENSHOT="/tmp/chatgpt-error-${BOOK_FOLDER}-${SCENE_KEY}.png"
+fi
+
 # Output final JSON result
 jq -n \
   --arg list "$TODOIT_LIST" \
   --arg scene "$SCENE_KEY" \
   --arg thread_id "$THREAD_ID" \
   --arg status "$STATUS" \
+  --arg project_id "$FINAL_PROJECT_ID" \
+  --arg timestamp "$TIMESTAMP" \
+  --arg screenshot "$SCREENSHOT" \
   --argjson success "$SUCCESS" \
   '{
     success: $success,
     list: $list,
     scene: $scene,
     thread_id: $thread_id,
-    status: $status
+    status: $status,
+    project_id: $project_id,
+    timestamp: $timestamp,
+    screenshot: $screenshot
   }'
