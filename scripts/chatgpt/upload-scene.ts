@@ -14,9 +14,10 @@
  *   {"success": false, "threadId": "abc123", "error": "...", "errorType": "limit"}
  */
 
-import { chromium, BrowserContext, Page } from 'playwright';
+import { chromium, BrowserContext, Page, devices } from 'playwright';
 import * as path from 'path';
 import * as fs from 'fs';
+import * as net from 'net';
 
 // ============================================================================
 // TYPES
@@ -26,6 +27,7 @@ interface UploadParams {
   bookFolder: string;
   sceneFile: string;
   projectId?: string;
+  headless?: boolean;
 }
 
 interface UploadResult {
@@ -42,9 +44,8 @@ interface UploadResult {
 // ============================================================================
 
 const CONFIG = {
-  // Persistent browser profile (maintains ChatGPT login)
-  // Using same profile as MCP playwright-show-browser for existing session
-  userDataDir: '/home/xai/DEV/ms-playwright/mcp-chrome-profile-2',
+  // Persistent browser profile (same as playwright-headless MCP)
+  userDataDir: '/home/xai/DEV/ms-playwright/mcp-chrome-profile-1',
 
   // Base paths
   projectRoot: '/home/xai/DEV/37degrees',
@@ -61,8 +62,15 @@ const CONFIG = {
   // Model
   model: 'o4-mini',
 
-  // Screenshots
+  // Screenshots and output (same as playwright-headless MCP)
   screenshotDir: '/tmp',
+  outputDir: '/tmp/playwright-mcp-files/headless',
+
+  // Device emulation (same as playwright-headless MCP)
+  device: 'Galaxy S24',
+
+  // User agent (same as playwright-headless MCP)
+  userAgent: 'Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36',
 
   // Headless mode (set to false for debugging)
   headless: true
@@ -84,12 +92,44 @@ const ERROR_KEYWORDS = [
 ];
 
 // ============================================================================
+// HELPER FUNCTIONS
+// ============================================================================
+
+/**
+ * Check if a port is open on localhost
+ */
+async function isPortOpen(port: number): Promise<boolean> {
+  return new Promise((resolve) => {
+    const socket = new net.Socket();
+
+    socket.setTimeout(1000);
+
+    socket.on('connect', () => {
+      socket.destroy();
+      resolve(true);
+    });
+
+    socket.on('timeout', () => {
+      socket.destroy();
+      resolve(false);
+    });
+
+    socket.on('error', () => {
+      resolve(false);
+    });
+
+    socket.connect(port, '127.0.0.1');
+  });
+}
+
+// ============================================================================
 // MAIN FUNCTION
 // ============================================================================
 
 async function uploadScene(params: UploadParams): Promise<UploadResult> {
   let browser: BrowserContext | null = null;
   let page: Page | null = null;
+  let useCDP = false;
 
   try {
     // Parse scene key from filename
@@ -124,17 +164,56 @@ async function uploadScene(params: UploadParams): Promise<UploadResult> {
     // ========================================================================
 
     console.error('[1/6] Launching browser...');
-    browser = await chromium.launchPersistentContext(CONFIG.userDataDir, {
-      headless: CONFIG.headless,
-      viewport: { width: 1280, height: 720 },
-      args: [
-        '--disable-blink-features=AutomationControlled',
-        '--disable-dev-shm-usage',
-      ],
-      userAgent: 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
-    });
 
-    page = browser.pages()[0] || await browser.newPage();
+    // Check if CDP port 9222 is open
+    const cdpPort = 9222;
+    const isCdpAvailable = await isPortOpen(cdpPort);
+
+    if (isCdpAvailable) {
+      // Connect to existing browser via CDP
+      console.error(`  → Connecting to existing browser on localhost:${cdpPort}`);
+      useCDP = true;
+
+      const cdpBrowser = await chromium.connectOverCDP(`http://localhost:${cdpPort}`);
+      const contexts = cdpBrowser.contexts();
+
+      if (contexts.length === 0) {
+        throw new Error('No browser contexts available in CDP browser');
+      }
+
+      browser = contexts[0];
+      const pages = browser.pages();
+
+      if (pages.length === 0) {
+        page = await browser.newPage();
+      } else {
+        page = pages[0];
+      }
+
+      console.error(`  ✓ Connected to existing browser (${pages.length} pages)`);
+
+    } else {
+      // Launch new browser instance
+      const headlessMode = params.headless !== undefined ? params.headless : CONFIG.headless;
+      console.error(`  → Launching new browser instance`);
+      console.error(`  → Headless mode: ${headlessMode}`);
+      console.error(`  → Device: ${CONFIG.device}`);
+
+      // Use Playwright devices for proper mobile emulation
+      const deviceConfig = devices[CONFIG.device];
+
+      browser = await chromium.launchPersistentContext(CONFIG.userDataDir, {
+        headless: headlessMode,
+        ...deviceConfig,
+        userAgent: CONFIG.userAgent,
+        args: [
+          '--no-sandbox',
+          '--block-service-workers'
+        ]
+      });
+
+      page = browser.pages()[0] || await browser.newPage();
+    }
 
     // ========================================================================
     // PHASE 2: Project Navigation
@@ -218,60 +297,10 @@ async function uploadScene(params: UploadParams): Promise<UploadResult> {
 
     console.error('[3/6] Attaching YAML file...');
 
-    // Hide project-level "Add files" button BEFORE opening menu
-    // This prevents confusion between project files and chat attachment
-    console.error('  → Hiding project files section...');
-    await page.evaluate(() => {
-      const buttons = Array.from(document.querySelectorAll('button'));
-      for (let button of buttons) {
-        if (button.textContent?.includes('Add files')) {
-          const parent = button.parentElement;
-          if (parent && parent instanceof HTMLElement) {
-            parent.style.display = 'none';
-            parent.setAttribute('data-hidden-by-automation', 'project-files');
-          }
-          break;  // Only hide the FIRST "Add files" button (project-level)
-        }
-      }
-    });
-
-    // Wait a bit for DOM to update
-    await page.waitForTimeout(500);
-
-    // Find and click "+" button to open tools menu
-    console.error('  → Looking for tools button (+)...');
-
-    // Try multiple selector strategies
-    const toolsButton = page.locator('button').filter({ hasText: '+' }).or(
-      page.locator('button[aria-label*="Attach"]')
-    ).or(
-      page.locator('form button').filter({ has: page.locator('svg') })
-    ).first();
-
-    console.error('  → Opening tools menu...');
-    await toolsButton.click();
+    // Use Ctrl+U keyboard shortcut to open file upload (simpler than clicking buttons)
+    console.error('  → Pressing Ctrl+U to open file upload...');
+    await page.keyboard.press('Control+u');
     await page.waitForTimeout(1000);
-
-    // Wait for menu and click file upload option
-    // Try mobile UI first: "Add photos & files", then desktop: "Add files"
-    console.error('  → Looking for file upload option...');
-
-    const mobileButton = page.locator('text="Add photos & files"');
-    const desktopButton = page.locator('text="Add files"').filter({ hasNot: page.locator('[data-hidden-by-automation]') });
-
-    // Check which one is visible
-    const isMobileVisible = await mobileButton.isVisible().catch(() => false);
-
-    if (isMobileVisible) {
-      console.error('  → Found mobile UI: "Add photos & files"');
-      await mobileButton.click();
-    } else {
-      console.error('  → Found desktop UI: "Add files"');
-      await desktopButton.waitFor({ state: 'visible', timeout: 5000 });
-      await desktopButton.click();
-    }
-
-    await page.waitForTimeout(500);
 
     // Upload YAML file via file input
     console.error(`  → Uploading ${params.sceneFile}...`);
@@ -411,8 +440,13 @@ async function uploadScene(params: UploadParams): Promise<UploadResult> {
 
     console.error('[6/6] Cleaning up...');
 
-    if (browser) {
+    if (browser && !useCDP) {
+      // Only close browser if we launched it ourselves
+      // Don't close if we connected via CDP (it's someone else's browser)
+      console.error('  → Closing browser');
       await browser.close();
+    } else if (useCDP) {
+      console.error('  → Keeping CDP browser open');
     }
   }
 }
@@ -426,15 +460,17 @@ async function main() {
   const args = process.argv.slice(2);
 
   if (args.length < 2) {
-    console.error('Usage: npx ts-node scripts/chatgpt/upload-scene.ts <bookFolder> <sceneFile> [projectId]');
+    console.error('Usage: npx ts-node scripts/chatgpt/upload-scene.ts <bookFolder> <sceneFile> [projectId] [headless]');
     console.error('Example: npx ts-node scripts/chatgpt/upload-scene.ts 0016_lalka scene_01.yaml');
+    console.error('Example: npx ts-node scripts/chatgpt/upload-scene.ts 0016_lalka scene_01.yaml g-p-xxx false');
     process.exit(1);
   }
 
   const params: UploadParams = {
     bookFolder: args[0],
     sceneFile: args[1],
-    projectId: args[2]
+    projectId: args[2],
+    headless: args[3] === 'false' ? false : args[3] === 'true' ? true : undefined
   };
 
   console.error(`\n=== ChatGPT Upload Scene ===`);
