@@ -38,6 +38,7 @@ interface UploadResult {
   sceneKey?: string;
   error?: string;
   errorType?: 'policy' | 'limit' | 'network' | 'unknown';
+  errorMessages?: string[];
 }
 
 // ============================================================================
@@ -443,6 +444,27 @@ async function uploadScene(params: UploadParams): Promise<UploadResult> {
         errorType = 'policy';
       }
 
+      // Extract specific error messages for limit errors
+      const errorMessages: string[] = [];
+
+      // Pattern 1: "You've hit the plus plan limit"
+      const limitMatch = responseText.match(/You've hit the plus plan limit[^.]*\./);
+      if (limitMatch) {
+        errorMessages.push(limitMatch[0]);
+      }
+
+      // Pattern 2: "You can create more images when the limit resets"
+      const resetMatch = responseText.match(/You can create more images when the limit resets[^.]*\./);
+      if (resetMatch) {
+        errorMessages.push(resetMatch[0]);
+      }
+
+      // Pattern 3: "Upgrade to ChatGPT Pro or try again after"
+      const upgradeMatch = responseText.match(/Upgrade to ChatGPT Pro or try again after[^.]*\./);
+      if (upgradeMatch) {
+        errorMessages.push(upgradeMatch[0]);
+      }
+
       // Take screenshot
       const screenshotPath = path.join(CONFIG.screenshotDir, `chatgpt-error-${params.bookFolder}-${sceneKey}.png`);
       await page.screenshot({ path: screenshotPath, fullPage: true });
@@ -456,7 +478,8 @@ async function uploadScene(params: UploadParams): Promise<UploadResult> {
         projectId: finalProjectId,
         sceneKey,
         error: responseText.substring(0, 500),  // Truncate to 500 chars
-        errorType
+        errorType,
+        errorMessages: errorMessages.length > 0 ? errorMessages : undefined
       };
     }
 

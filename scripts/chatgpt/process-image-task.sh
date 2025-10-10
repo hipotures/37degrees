@@ -40,8 +40,10 @@ echo "" >&2
 
 echo "[1/3] Reading task from TODOIT..." >&2
 
+set +e
 READ_RESULT=$("$SCRIPT_DIR/todoit-read-task.sh" "$TODOIT_LIST")
 READ_EXIT=$?
+set -e
 
 if [ $READ_EXIT -ne 0 ]; then
   echo "✗ Failed to read task from TODOIT" >&2
@@ -91,8 +93,11 @@ echo "  → Command: $UPLOAD_CMD" >&2
 # Run upload
 # Playwright outputs JSON to stdout (last line), logs to stderr
 # We need to capture stdout but show stderr to user
+# Temporarily disable exit-on-error to capture exit code
+set +e
 UPLOAD_JSON=$(eval "$UPLOAD_CMD" 2>&2)
 UPLOAD_EXIT=$?
+set -e
 
 # Validate JSON
 if [ -z "$UPLOAD_JSON" ] || ! echo "$UPLOAD_JSON" | jq empty 2>/dev/null; then
@@ -107,6 +112,7 @@ THREAD_ID=$(echo "$UPLOAD_JSON" | jq -r '.threadId // empty')
 NEW_PROJECT_ID=$(echo "$UPLOAD_JSON" | jq -r '.projectId // empty')
 ERROR_MSG=$(echo "$UPLOAD_JSON" | jq -r '.error // empty')
 ERROR_TYPE=$(echo "$UPLOAD_JSON" | jq -r '.errorType // empty')
+ERROR_MESSAGES=$(echo "$UPLOAD_JSON" | jq -c '.errorMessages // []')
 
 echo "  ✓ Upload completed" >&2
 echo "  → Success: $SUCCESS" >&2
@@ -123,7 +129,31 @@ echo "[3/3] Saving results to TODOIT..." >&2
 if [ -z "$THREAD_ID" ] || [[ "$THREAD_ID" =~ ^FAILED.*$ ]] || [ "$THREAD_ID" == "null" ]; then
   echo "✗ CRITICAL: No valid thread ID from Playwright" >&2
   echo "✗ Not saving to TODOIT - scene remains unchanged for retry" >&2
-  echo "$UPLOAD_JSON"
+
+  # Generate timestamp
+  TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+
+  # Determine project ID
+  FINAL_PROJECT_ID="${NEW_PROJECT_ID:-$PROJECT_ID}"
+
+  # Output error JSON with available info
+  jq -n \
+    --arg list "$TODOIT_LIST" \
+    --arg scene "$SCENE_KEY" \
+    --arg project_id "$FINAL_PROJECT_ID" \
+    --arg timestamp "$TIMESTAMP" \
+    --arg screenshot "/tmp/chatgpt-exception-${SCENE_KEY}.png" \
+    --argjson error_messages "$ERROR_MESSAGES" \
+    '{
+      success: false,
+      list: $list,
+      scene: $scene,
+      project_id: $project_id,
+      timestamp: $timestamp,
+      screenshot: $screenshot,
+      error_messages: (if ($error_messages | length) > 0 then $error_messages else ["No valid thread ID from Playwright"] end)
+    }'
+
   exit 1
 fi
 
@@ -156,8 +186,10 @@ if [ -n "$ERROR_MSG" ]; then
 fi
 
 # Execute write
+set +e
 WRITE_RESULT=$(eval "$WRITE_CMD")
 WRITE_EXIT=$?
+set -e
 
 if [ $WRITE_EXIT -ne 0 ]; then
   echo "✗ Failed to save to TODOIT" >&2
@@ -199,6 +231,7 @@ jq -n \
   --arg timestamp "$TIMESTAMP" \
   --arg screenshot "$SCREENSHOT" \
   --argjson success "$SUCCESS" \
+  --argjson error_messages "$ERROR_MESSAGES" \
   '{
     success: $success,
     list: $list,
@@ -207,5 +240,6 @@ jq -n \
     status: $status,
     project_id: $project_id,
     timestamp: $timestamp,
-    screenshot: $screenshot
+    screenshot: $screenshot,
+    error_messages: (if ($error_messages | length) > 0 then $error_messages else null end)
   }'

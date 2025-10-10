@@ -7,252 +7,239 @@ book_info:
 
 afa_analysis:
   version: "3.0"
-  processed_at: "2025-09-16T12:30:00Z"
+  processed_at: "2025-10-10T19:45:00Z"
 
   scores:
-    controversy: 9
-    philosophical_depth: 8
-    cultural_phenomenon: 7
-    contemporary_reception: 6
-    relevance: 8
-    innovation: 8
-    structural_complexity: 6
-    social_roles: 7
-    total: 59
-    percentile: 88
+    controversy: 8.0
+    philosophical_depth: 9.0
+    cultural_phenomenon: 7.5
+    contemporary_reception: 6.0
+    relevance: 8.0
+    innovation: 9.0
+    structural_complexity: 7.0
+    social_roles: 7.0
+    total: 61.5
+    percentile: 92
 
   composite_scores:
     depth:
-      value: 7.5
-      category: "medium"
-      components:
-        philosophical_depth: 8
-        structural_complexity: 6
-        innovation: 8
+      value: 8.2
+      category: "high"
     heat:
-      value: 7.2
+      value: 7.1
       category: "medium"
-      components:
-        controversy: 9
-        cultural_phenomenon: 7
-        relevance: 8
-        contemporary_reception: 6
 
   themes:
     universal:
-      - theme: "Institutional Control vs Individual Freedom"
-        description: "Core conflict between personal autonomy and systemic authority"
+      - id: "dark_drama_1"
+        type: "BOMBSHELL"
         credibility: 0.95
-        tags: ["FACT", "ANALYSIS"]
-      - theme: "Mental Health Stigma and Reform"
-        description: "Revolutionary portrayal of psychiatric patients as human beings"
-        credibility: 0.90
-        tags: ["FACT", "HISTORICAL"]
-      - theme: "Power Dynamics and Abuse"
-        description: "Nurse Ratched as archetypal abusive authority figure"
+        content: "Author participated in CIA MKUltra LSD experiments which directly inspired Chief Bromden's hallucinatory perspective and became foundation of novel's unreliable narrator technique"
+        source: "dark_drama"
+
+      - id: "writing_innovation_1"
+        type: "ANALYSIS"
         credibility: 0.95
-        tags: ["ANALYSIS", "ARCHETYPE"]
-      - theme: "Resistance and Sacrifice"
-        description: "McMurphy's Christ-like sacrifice for collective liberation"
+        content: "Revolutionary use of schizophrenic perspective as narrative device created new standard for institutional critique and psychological realism in American literature"
+        source: "writing_innovation"
+
+      - id: "symbols_meanings_1"
+        type: "ANALYSIS"
         credibility: 0.90
-        tags: ["ANALYSIS", "SYMBOLISM"]
-      - theme: "Reality vs Perception"
-        description: "Unreliable narrator exploring subjective truth"
+        content: "The Combine as mechanized society represents paranoid but accurate critique of industrial civilization, dehumanization, and institutional control"
+        source: "symbols_meanings"
+
+      - id: "dark_drama_2"
+        type: "DISPUTE"
         credibility: 0.85
-        tags: ["LITERARY", "TECHNIQUE"]
+        content: "Novel presents strong women as 'ball-cutters' and equates female authority with castration, creating lasting controversy in feminist literary criticism"
+        source: "dark_drama"
+
+      - id: "reality_wisdom_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Novel predicted mental health deinstitutionalization movement 20+ years before it occurred, influencing actual psychiatric reform policies"
+        source: "reality_wisdom"
+
+      - id: "culture_impact_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Kesey refused to watch 5-Oscar winning film adaptation due to removal of Chief Bromden's narration, which he considered the work's essential element"
+        source: "culture_impact"
+
+      - id: "youth_digital_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Gen Z identifies Nurse Ratched as archetypal toxic manager, with TikTok creating viral content about workplace psychological manipulation parallels"
+        source: "youth_digital"
+
+      - id: "symbols_meanings_2"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "McMurphy's sacrifice on cross-shaped ECT table with explicit request for 'crown of thorns' creates unmistakable Christ allegory for individual vs. system"
+        source: "symbols_meanings"
 
     localized:
       en:
-        - theme: "Beat Generation Literary Legacy"
-          description: "Bridge between 1950s Beat movement and 1960s counterculture"
-          credibility: 0.90
-          tags: ["FACT", "HISTORICAL"]
-        - theme: "American Psychiatric System Critique"
-          description: "Specific criticism of US institutional mental health care"
-          credibility: 0.95
-          tags: ["FACT", "SOCIAL"]
-        - theme: "Civil Rights Era Individualism"
-          description: "1960s emphasis on individual freedom against conformity"
-          credibility: 0.85
-          tags: ["HISTORICAL", "CULTURAL"]
+        cultural_impact: "Canonical American literature, taught in universities, influenced New Journalism movement and antipsychiatry activism"
+        key_editions: ["Viking Press 1962 first edition", "Penguin Classics", "Modern Library editions"]
+        reception_notes: "Celebrates individual freedom but criticized for misogyny and racial stereotypes by contemporary scholars"
+        educational_status: "Frequently taught in high school and college literature courses, subject of ongoing debate"
+        local_themes:
+          - "Counterculture manifesto bridging Beat Generation and hippie movement"
+          - "Civil rights era racial tensions reflected in black orderlies portrayal"
+          - "Cold War paranoia and institutional control critique"
 
       pl:
-        - theme: "Communist System Allegory"
-          description: "Hospital as metaphor for totalitarian state control"
-          credibility: 0.90
-          tags: ["ANALYSIS", "POLITICAL"]
-        - theme: "Totalitarian Resistance Metaphor"
-          description: "McMurphy as symbol of resistance to oppressive systems"
-          credibility: 0.85
-          tags: ["ANALYSIS", "HISTORICAL"]
-        - theme: "Mental Health Awareness"
-          description: "Contemporary relevance in Polish mental health discussions"
-          credibility: 0.80
-          tags: ["CONTEMPORARY", "SOCIAL"]
+        cultural_impact: "Important work in Polish discourse about institutional authority, resonates with communist-era hospital experiences"
+        key_editions: ["PIW 'Lot nad kukułczym gniazdem'", "Various post-1989 editions"]
+        reception_notes: "Interpreted through lens of totalitarian control and resistance to oppressive systems"
+        educational_status: "University literature programs, not mandatory reading"
+        local_themes:
+          - "Parallels with communist psychiatric abuse of dissidents"
+          - "Institutional resistance narratives"
+          - "Post-1989 mental health reform discussions"
 
       de:
-        - theme: "Post-war Institutional Authority"
-          description: "Critique resonating with German post-war reconstruction"
-          credibility: 0.85
-          tags: ["HISTORICAL", "ANALYSIS"]
-        - theme: "Frankfurt School Connections"
-          description: "Alignment with critical theory concepts of institutional control"
-          credibility: 0.80
-          tags: ["ACADEMIC", "THEORETICAL"]
-        - theme: "Antipsychiatry Movement"
-          description: "Connection to German psychiatric reform movements"
-          credibility: 0.85
-          tags: ["HISTORICAL", "MEDICAL"]
+        cultural_impact: "Read through Holocaust memory lens, institutional control resonates with historical trauma"
+        key_editions: ["Fischer Taschenbuch editions", "Reclam scholarly editions"]
+        reception_notes: "German readers emphasize medical ethics and Nazi medical experimentation parallels"
+        educational_status: "Psychology and medical ethics curricula, literature programs"
+        local_themes:
+          - "Medical authority and dehumanization after Holocaust"
+          - "Individual resistance to systematic oppression"
+          - "Philosophical interpretations of freedom vs. control"
 
       fr:
-        - theme: "May 68 Counterculture"
-          description: "Resonance with French student protest movements"
-          credibility: 0.85
-          tags: ["HISTORICAL", "POLITICAL"]
-        - theme: "Foucauldian Power Analysis"
-          description: "Parallel to Michel Foucault's institutional critique"
-          credibility: 0.90
-          tags: ["ACADEMIC", "THEORETICAL"]
-        - theme: "Philosophical Existentialism"
-          description: "Individual authenticity against institutional bad faith"
-          credibility: 0.80
-          tags: ["PHILOSOPHICAL", "EXISTENTIAL"]
+        cultural_impact: "Strong philosophical analysis tradition, connection to French antipsychiatry movement"
+        key_editions: ["Gallimard editions", "Folio series"]
+        reception_notes: "Analyzed alongside Foucault's institutional critique theories"
+        educational_status: "Literature and philosophy classes, comparative studies"
+        local_themes:
+          - "Foucaultian analysis of psychiatric power structures"
+          - "Existentialist readings of authenticity and freedom"
+          - "May 1968 anti-authoritarian connections"
 
       es:
-        - theme: "Franco-era Authoritarianism"
-          description: "Institutional rebellion themes during Spanish dictatorship"
-          credibility: 0.85
-          tags: ["HISTORICAL", "POLITICAL"]
-        - theme: "Democratic Transition Themes"
-          description: "Relevance during Spanish transition to democracy"
-          credibility: 0.80
-          tags: ["HISTORICAL", "POLITICAL"]
-        - theme: "Post-dictatorship Healing"
-          description: "Mental health metaphors for social recovery"
-          credibility: 0.75
-          tags: ["ANALYSIS", "METAPHORICAL"]
+        cultural_impact: "Resonates with Latin American dictatorship experiences, institutional violence themes"
+        key_editions: ["Spanish/Latin American publisher editions"]
+        reception_notes: "Read as allegory for state violence and political imprisonment"
+        educational_status: "University comparative literature and political science"
+        local_themes:
+          - "Psychiatric hospitals as metaphor for torture centers"
+          - "Individual dignity under authoritarian regimes"
+          - "Liberation theology parallels with McMurphy Christ figure"
 
       pt:
-        - theme: "Brazilian Psychiatric Reform"
-          description: "Connection to Basaglia movement and anti-asylum legislation"
-          credibility: 0.90
-          tags: ["FACT", "MEDICAL"]
-        - theme: "Military Dictatorship Resistance"
-          description: "Institutional critique during authoritarian periods"
-          credibility: 0.85
-          tags: ["HISTORICAL", "POLITICAL"]
-        - theme: "Mental Health Democratization"
-          description: "Community-based care versus institutional models"
-          credibility: 0.85
-          tags: ["MEDICAL", "SOCIAL"]
+        cultural_impact: "Brazilian psychiatric reform movement context, Franco Basaglia influence parallels"
+        key_editions: ["Record 'Um Estranho no Ninho'", "Livros do Brasil Portuguese edition"]
+        reception_notes: "Connected to Brazilian anti-asylum movement and democratic psychiatry"
+        educational_status: "Psychology and social work programs, not mainstream curriculum"
+        local_themes:
+          - "Barbacena Psychiatric Hospital scandal echoes"
+          - "Brazilian Law 10.216/2001 psychiatric reform connections"
+          - "Antonio Lobo Antunes literary parallels in Portugal"
 
       ja:
-        - theme: "Social Conformity Pressure"
-          description: "Individual expression versus group harmony expectations"
-          credibility: 0.85
-          tags: ["CULTURAL", "SOCIAL"]
-        - theme: "Hierarchical Rebellion"
-          description: "Challenge to traditional Japanese authority structures"
-          credibility: 0.80
-          tags: ["CULTURAL", "SOCIAL"]
-        - theme: "Western Individualism Adoption"
-          description: "American individualistic values in Japanese context"
-          credibility: 0.75
-          tags: ["CULTURAL", "ADAPTATION"]
+        cultural_impact: "Challenges Japanese group harmony values, adapted for theater by major stars"
+        key_editions: ["Hakusuisha editions", "Fuzambo translations by Iwamoto Iwao"]
+        reception_notes: "Kurosawa cited film as favorite, interpreted through wa (harmony) vs. individual freedom"
+        educational_status: "University criminology and social justice programs"
+        local_themes:
+          - "Individual rebellion vs. institutional hierarchy in Japanese context"
+          - "Silent resistance and quiet defiance concepts"
+          - "Post-war medical authority and patient rights"
 
       ko:
-        - theme: "Confucian Hierarchy Challenge"
-          description: "Rebellion against traditional Korean social order"
-          credibility: 0.85
-          tags: ["CULTURAL", "PHILOSOPHICAL"]
-        - theme: "Generational Authority Conflict"
-          description: "Youth challenging traditional elder authority"
-          credibility: 0.80
-          tags: ["SOCIAL", "GENERATIONAL"]
-        - theme: "Pop Culture Transformation"
-          description: "Literary themes adapted into Korean entertainment"
-          credibility: 0.85
-          tags: ["CULTURAL", "CONTEMPORARY"]
+        cultural_impact: "Multiple publishers, theater adaptation, Kim Gun-mo popular song reference"
+        key_editions: ["Minumsa World Literature Collection", "Various Korean translations"]
+        reception_notes: "Interpreted through Confucian hierarchy vs. modern democratic values tension"
+        educational_status: "English literature departments, comparative studies"
+        local_themes:
+          - "Challenging traditional Korean generational authority"
+          - "Mental health stigma in conservative society"
+          - "Resistance literature tradition connections"
 
       hi:
-        - theme: "Bollywood Melodrama Adaptation"
-          description: "Hollywood themes transformed for Indian cinema sensibilities"
-          credibility: 0.90
-          tags: ["FACT", "CULTURAL"]
-        - theme: "Mental Health Stigma"
-          description: "Addressing psychiatric issues in conservative society"
-          credibility: 0.85
-          tags: ["SOCIAL", "MEDICAL"]
-        - theme: "Regional Cinema Transformation"
-          description: "Story adapted across multiple Indian linguistic communities"
-          credibility: 0.90
-          tags: ["FACT", "CULTURAL"]
+        cultural_impact: "Three major film adaptations across Malayalam, Tamil, Hindi cinema industries"
+        key_editions: ["English original widely available", "Limited regional language translations"]
+        reception_notes: "Film adaptations emphasized melodrama and romance over institutional critique"
+        educational_status: "English literature programs, not vernacular education"
+        local_themes:
+          - "Thalavattam (1986) and Kyon Ki (2005) Bollywood transformation"
+          - "Mental health stigma in Indian society"
+          - "Buddhist psychology and liberation (moksha) parallels"
 
   formats:
-    selected_format: "narrative_reconstruction"
-    duration_minutes: 15
-    fitness_score: 2.98
-    reasoning: "Medium DEPTH (7.5) + Medium HEAT (7.2) suggests complex storytelling format. Selected narrative_reconstruction over academic_analysis to avoid format over-usage (academic_analysis at 19.7%)."
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
 
-    host_assignments:
-      host_a:
-        role: "Literary Analysis Expert"
-        specialty: "American counterculture literature and psychiatric narratives"
-        voice_style: "Analytical yet accessible, with deep knowledge of 1960s context"
-      host_b:
-        role: "Cultural Context Specialist"
-        specialty: "Mental health discourse and institutional power dynamics"
-        voice_style: "Empathetic and contemporary, bridging historical and modern perspectives"
+      hosts:
+        host_a:
+          role: "investigative reporter asking questions"
+          description: "Investigative journalist examining what's real vs. Chief Bromden's paranoid hallucinations"
+        host_b:
+          role: "eyewitness describing events and emotions"
+          description: "Intimate observer recounting McMurphy's impact and the ward's transformation"
 
-    segments:
-      - title: "The MKUltra Origins"
-        start_time: "00:00"
-        duration: "3:00"
-        host: "host_a"
-        content_focus: "Ken Kesey's participation in CIA experiments and how psychedelic experiences shaped the novel's perspective on reality and institutional control"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "Is Chief Bromden reliable? Introducing the unreliable narrator and the mystery of the Combine"
 
-      - title: "Revolutionary Narrative Technique"
-        start_time: "03:00"
-        duration: "3:00"
-        host: "host_b"
-        content_focus: "Chief Bromden as unreliable narrator - how Kesey pioneered psychiatric perspective storytelling and influenced generations of writers"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "McMurphy arrives and challenges reality - vivid reconstruction of early confrontations with Nurse Ratched"
 
-      - title: "Symbols of Liberation and Control"
-        start_time: "06:00"
-        duration: "3:00"
-        host: "host_a"
-        content_focus: "The Combine, fog symbolism, and Christ archetype - multi-layered metaphors that speak to universal human experiences"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "Investigating the MKUltra connection - how Kesey's LSD experiments created this narrative"
 
-      - title: "Cultural Explosion and Controversy"
-        start_time: "09:00"
-        duration: "3:00"
-        host: "host_b"
-        content_focus: "From Broadway to Hollywood to global adaptations - how the story became a cultural phenomenon while generating decades of controversy"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "climax_reconstruction"
+          lead: "host_b"
+          description: "The night party, Billy's tragedy, and McMurphy's attack - emotional reconstruction of final events"
 
-      - title: "Prophecy and Present Relevance"
-        start_time: "12:00"
-        duration: "3:00"
-        host: "host_a"
-        content_focus: "What Kesey predicted that came true - psychiatric reform, workplace toxicity, digital surveillance, and why {male_name} and {female_name} still find this story relevant today"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "impact"
+          lead: "host_a"
+          description: "Separating myth from reality - what this book actually changed about mental health treatment"
 
-    content_warnings:
-      - "Sexual violence and institutional abuse"
-      - "Suicide and self-harm"
-      - "Historical medical procedures (electroshock therapy)"
-      - "Racist and misogynistic content from 1962"
-      - "Mental health crisis situations"
+      prompts:
+        host_a: "You are {male_name}, an investigative journalist questioning the reality in 'One Flew Over the Cuckoo's Nest'. Your mission: separate Chief Bromden's paranoid hallucinations from actual events. Ask probing questions: Is the Combine real or madness? Was McMurphy hero or manipulator? How did Kesey's MKUltra LSD experiments shape this unreliable narrative? Investigate the facts behind the myth."
 
-    educational_elements:
-      - "Evolution of psychiatric treatment and patient rights"
-      - "1960s American counterculture movement"
-      - "Literary innovation in narrative perspective"
-      - "Institutional power dynamics and resistance"
-      - "Cultural adaptation across different societies"
+        host_b: "You are {female_name}, an intimate observer who witnessed McMurphy's impact on the ward. Vividly reconstruct key scenes: McMurphy's explosive arrival, the fishing trip liberation, the tragic final night. Share the emotional reality of these events, describe the transformations you saw. Bring the story's power to life through eyewitness detail."
 
   metadata:
     target_audience: "16+"
-    content_warnings: ["mature_themes", "historical_medical_procedures", "institutional_abuse", "problematic_historical_content"]
-    educational_elements: ["mental_health_history", "literary_innovation", "cultural_movements", "social_justice"]
-    production_notes: "Requires sensitivity in handling problematic content while maintaining educational value. Historical context crucial for contemporary understanding."
 
-  overall_confidence: 0.87
+    content_warnings:
+      - "historical violence and electroshock therapy"
+      - "misogynistic themes and gender stereotypes"
+      - "racial stereotypes of Black characters"
+      - "suicide and mental health crisis"
+      - "sexual content references"
+      - "institutional abuse and lobotomy"
+
+    educational_elements:
+      - "Unreliable narrator and stream of consciousness techniques"
+      - "1962 historical context and counterculture movement"
+      - "Antipsychiatry movement and mental health reform"
+      - "Literary symbolism: Combine, fog, Christ figure allegory"
+      - "Controversial representation of gender and race in classic literature"
+
+    production_notes:
+      intro_style: "Start with the mystery: 'They're out there. Black boys in white suits... But it's the truth even if it didn't happen.' Establish the hallucinatory world."
+      transitions: "Use subtle mechanical sounds (the Combine) as bridges between segments"
+      outro_style: "End with Chief Bromden's escape and the question: What was real? Close with reflection on the book's lasting impact on mental health treatment."
+
+  overall_confidence: 0.91

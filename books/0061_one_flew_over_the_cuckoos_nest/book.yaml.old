@@ -1,0 +1,204 @@
+book_info:
+  title: "One Flew Over the Cuckoo's Nest"
+  title_pl: "Lot nad kukułczym gniazdem"
+  author: "Ken Kesey"
+  year: 1962
+  genre: "Psychological fiction,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-16T12:30:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 8
+    cultural_phenomenon: 7
+    contemporary_reception: 6
+    relevance: 8
+    innovation: 8
+    structural_complexity: 6
+    social_roles: 7
+    total: 59
+    percentile: 88
+
+  composite_scores:
+    depth:
+      value: 7.5
+      category: "medium"
+      components:
+        philosophical_depth: 8
+        structural_complexity: 6
+        innovation: 8
+    heat:
+      value: 7.2
+      category: "medium"
+      components:
+        controversy: 9
+        cultural_phenomenon: 7
+        relevance: 8
+        contemporary_reception: 6
+
+  themes:
+    universal:
+      - id: "institutional_control_01"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Core conflict between personal autonomy and systemic authority"
+        source: "symbols_meanings"
+      - id: "mental_health_reform_01"
+        type: "FACT"
+        credibility: 0.90
+        content: "Revolutionary portrayal of psychiatric patients as human beings"
+        source: "facts_history"
+      - id: "power_abuse_01"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Nurse Ratched as archetypal abusive authority figure"
+        source: "symbols_meanings"
+      - id: "resistance_sacrifice_01"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "McMurphy's Christ-like sacrifice for collective liberation"
+        source: "symbols_meanings"
+      - id: "reality_perception_01"
+        type: "FACT"
+        credibility: 0.85
+        content: "Unreliable narrator exploring subjective truth"
+        source: "writing_innovation"
+
+    localized:
+      en:
+        cultural_impact: "Canonical work studied extensively in British and American universities, cornerstone of 1960s counterculture"
+        key_editions: ["Viking Critical Library", "Penguin Modern Classics", "50th Anniversary Edition"]
+        reception_notes: "Bridge between Beat Generation and 1960s counterculture, influenced antipsychiatry movement"
+        educational_status: "Required reading in most university literature courses"
+        local_themes: ["Beat Generation Literary Legacy", "American Psychiatric System Critique", "Civil Rights Era Individualism"]
+
+      pl:
+        cultural_impact: "Hospital as metaphor for totalitarian state control, symbol of resistance to oppressive systems"
+        key_editions: ["Polish translations", "Educational editions"]
+        reception_notes: "Read as Communist system allegory during PRL era"
+        educational_status: "Discussed as example of psychological fiction and political allegory"
+        local_themes: ["Communist System Allegory", "Totalitarian Resistance Metaphor", "Mental Health Awareness"]
+
+      de:
+        cultural_impact: "Strong connection to post-war institutional authority critique and Frankfurt School"
+        key_editions: ["German translations", "Academic annotated editions"]
+        reception_notes: "Analyzed through psychoanalytic and philosophical lenses, connection to antipsychiatry movement"
+        educational_status: "Part of university Gothic literature and critical theory curriculum"
+        local_themes: ["Post-war Institutional Authority", "Frankfurt School Connections", "Antipsychiatry Movement"]
+
+      fr:
+        cultural_impact: "Resonance with May 68 counterculture and Foucauldian power analysis"
+        key_editions: ["French translations", "Academic editions"]
+        reception_notes: "Parallel to Michel Foucault's institutional critique and existentialist philosophy"
+        educational_status: "Studied in comparative literature and philosophy courses"
+        local_themes: ["May 68 Counterculture", "Foucauldian Power Analysis", "Philosophical Existentialism"]
+
+      es:
+        cultural_impact: "Institutional rebellion themes during Spanish dictatorship, relevance during democratic transition"
+        key_editions: ["Spanish translations", "Latin American editions"]
+        reception_notes: "Emphasis on Franco-era authoritarianism parallels and post-dictatorship healing"
+        educational_status: "Part of world literature curriculum"
+        local_themes: ["Franco-era Authoritarianism", "Democratic Transition Themes", "Post-dictatorship Healing"]
+
+      pt:
+        cultural_impact: "Connection to Basaglia movement and Brazilian psychiatric reform, anti-asylum legislation"
+        key_editions: ["Brazilian translations", "Portuguese editions"]
+        reception_notes: "Strong influence on mental health democratization and community-based care models"
+        educational_status: "Studied in medical humanities and literature programs"
+        local_themes: ["Brazilian Psychiatric Reform", "Military Dictatorship Resistance", "Mental Health Democratization"]
+
+      ja:
+        cultural_impact: "Individual expression versus group harmony expectations in Japanese society"
+        key_editions: ["Japanese translations", "University editions"]
+        reception_notes: "Challenge to traditional Japanese authority structures and hierarchical systems"
+        educational_status: "Part of Western literature studies"
+        local_themes: ["Social Conformity Pressure", "Hierarchical Rebellion", "Western Individualism Adoption"]
+
+      ko:
+        cultural_impact: "Rebellion against traditional Korean social order and Confucian hierarchy"
+        key_editions: ["Korean translations", "Modern editions"]
+        reception_notes: "Youth challenging traditional elder authority, adapted into Korean entertainment"
+        educational_status: "Studied in comparative literature programs"
+        local_themes: ["Confucian Hierarchy Challenge", "Generational Authority Conflict", "Pop Culture Transformation"]
+
+      hi:
+        cultural_impact: "Hollywood themes transformed for Indian cinema sensibilities, addressing psychiatric stigma"
+        key_editions: ["Hindi translations", "Regional adaptations"]
+        reception_notes: "Story adapted across multiple Indian linguistic communities"
+        educational_status: "University world literature curriculum"
+        local_themes: ["Bollywood Melodrama Adaptation", "Mental Health Stigma", "Regional Cinema Transformation"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a:
+          role: "Literary Analysis Expert"
+          specialty: "American counterculture literature and psychiatric narratives"
+          voice_style: "Analytical yet accessible, with deep knowledge of 1960s context"
+        host_b:
+          role: "Cultural Context Specialist"
+          specialty: "Mental health discourse and institutional power dynamics"
+          voice_style: "Empathetic and contemporary, bridging historical and modern perspectives"
+
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "origins"
+          lead: "host_a"
+          title: "The MKUltra Origins"
+          content_focus: "Ken Kesey's participation in CIA experiments and how psychedelic experiences shaped the novel's perspective on reality and institutional control"
+
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "narrative_innovation"
+          lead: "host_b"
+          title: "Revolutionary Narrative Technique"
+          content_focus: "Chief Bromden as unreliable narrator - how Kesey pioneered psychiatric perspective storytelling and influenced generations of writers"
+
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "symbolism"
+          lead: "host_a"
+          title: "Symbols of Liberation and Control"
+          content_focus: "The Combine, fog symbolism, and Christ archetype - multi-layered metaphors that speak to universal human experiences"
+
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "cultural_phenomenon"
+          lead: "host_b"
+          title: "Cultural Explosion and Controversy"
+          content_focus: "From Broadway to Hollywood to global adaptations - how the story became a cultural phenomenon while generating decades of controversy"
+
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          title: "Prophecy and Present Relevance"
+          content_focus: "What Kesey predicted that came true - psychiatric reform, workplace toxicity, digital surveillance, and why modern readers still find this story relevant today"
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "Sexual violence and institutional abuse"
+      - "Suicide and self-harm"
+      - "Historical medical procedures (electroshock therapy)"
+      - "Racist and misogynistic content from 1962"
+      - "Mental health crisis situations"
+
+    educational_elements:
+      - "Evolution of psychiatric treatment and patient rights"
+      - "1960s American counterculture movement"
+      - "Literary innovation in narrative perspective"
+      - "Institutional power dynamics and resistance"
+      - "Cultural adaptation across different societies"
+
+    production_notes:
+      intro_style: "Period-appropriate 1960s atmosphere transitioning to contemporary context"
+      transitions: "Thematic bridges connecting historical events to modern parallels"
+      outro_style: "Reflective conclusion on enduring relevance and ongoing mental health challenges"
+
+  overall_confidence: 0.87

@@ -1,14 +1,13 @@
 {
   "counts": {
-    "academic_analysis": 42,
+    "academic_analysis": 43,
     "critical_debate": 14,
     "temporal_context": 11,
     "cultural_dimension": 9,
     "social_perspective": 33,
     "emotional_perspective": 7,
     "exploratory_dialogue": 3,
-    "narrative_reconstruction": 33,
-    "selected_format": 2
+    "narrative_reconstruction": 34
   },
   "books_since_last": {}
 }

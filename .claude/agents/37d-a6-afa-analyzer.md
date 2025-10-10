@@ -4,7 +4,7 @@ description: |
   AFA Audio Format Analyzer - Simplified system using DEPTH×HEAT matrix.
   Analyzes au-research_*.md files using behavioral anchors to select from 9 formats.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, TodoWrite, Task, mcp__todoit__todo_find_items_by_status, mcp__todoit__todo_update_item_status, mcp__todoit__todo_get_item_property
-model: claude-opus-4-1-20250805
+# model: claude-opus-4-1-20250805
 todoit: true
 ---
 

@@ -7,229 +7,236 @@ book_info:
 
 afa_analysis:
   version: "3.0"
-  processed_at: "2025-01-19T15:42:00Z"
+  processed_at: "2025-10-10T14:30:00"
 
   scores:
-    controversy: 7
-    philosophical_depth: 9
-    cultural_phenomenon: 8
-    contemporary_reception: 6
-    relevance: 9
-    innovation: 8
-    structural_complexity: 8
-    social_roles: 6
-    total: 61
-    percentile: 92
+    controversy: 6.0
+    philosophical_depth: 9.0
+    cultural_phenomenon: 6.0
+    contemporary_reception: 5.0
+    relevance: 9.0
+    innovation: 9.0
+    structural_complexity: 9.0
+    social_roles: 7.0
+    total: 60.0
+    percentile: 85
 
   composite_scores:
-    depth: 8.5
-    depth_category: "high"
-    heat: 6.8
-    heat_category: "medium"
+    depth:
+      value: 9.0
+      category: "high"
+    heat:
+      value: 6.0
+      category: "medium"
 
   themes:
     universal:
-      - name: "Bureaucratic Absurdity"
-        description: "The catch-22 paradox as universal metaphor for institutional contradictions"
+      - id: "dark_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Louis Hupp plagiarism lawsuit filed 1963, claiming Heller stole manuscript - dismissed 1967 but left lasting shadow over novel's originality"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
         credibility: 0.95
-        tags: ["FACT", "ANALYSIS"]
-      - name: "War's Dehumanization"
-        description: "Military machine reducing humans to expendable objects"
-        credibility: 0.9
-        tags: ["FACT", "HISTORICAL"]
-      - name: "Individual vs System"
-        description: "Single person's struggle against overwhelming institutional power"
+        content: "13+ interpretive frameworks: Jungian archetypes, Freudian trauma, Buddhist samsara, Marxist capitalism critique, Foucauldian power, postmodern deconstruction"
+        source: "symbols_meanings"
+      - id: "culture_2"
+        type: "FACT"
         credibility: 0.95
-        tags: ["ANALYSIS", "UNIVERSAL"]
-      - name: "Corruption of Authority"
-        description: "How power structures serve themselves rather than their stated purposes"
-        credibility: 0.9
-        tags: ["FACT", "POLITICAL"]
-      - name: "Survival vs Morality"
-        description: "Ethical dilemmas in life-threatening situations"
+        content: "Term 'catch-22' entered global dictionaries as synonym for paradoxical no-win situation - used in 60+ languages including Japanese キャッチ-22, Spanish Trampa 22, Polish Paragraf 22"
+        source: "culture_impact"
+      - id: "reality_3"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "8+ prophetic predictions accurate: algorithmic bureaucracy, surveillance capitalism, healthcare catch-22s, corporate doublespeak, AI bias loops, platform monopolies"
+        source: "reality_wisdom"
+      - id: "innovation_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary literary techniques: pioneered non-linear war narrative, circular repetitive prose as weapon, black humor as resistance, founded American postmodernism"
+        source: "writing_innovation"
+      - id: "dark_5"
+        type: "FACT"
+        credibility: 0.90
+        content: "Banned in Ohio (1972-1974), Alaska school districts (1976) for anti-government themes, sexual content, challenging military authority during Vietnam era"
+        source: "dark_drama"
+      - id: "youth_6"
+        type: "ANALYSIS"
         credibility: 0.85
-        tags: ["ANALYSIS", "ETHICAL"]
-      - name: "Death Anxiety"
-        description: "Universal fear of mortality and meaninglessness"
-        credibility: 0.9
-        tags: ["ANALYSIS", "PSYCHOLOGICAL"]
-      - name: "Humor as Coping Mechanism"
-        description: "Dark comedy as defense against unbearable reality"
+        content: "TikTok workplace discourse: #CorporateTikTok 4.9B views, #WorkLife 30.6B views - Gen Z using catch-22 concept for labor exploitation, algorithmic management critique"
+        source: "youth_digital"
+      - id: "facts_7"
+        type: "FACT"
         credibility: 0.95
-        tags: ["FACT", "LITERARY"]
-      - name: "Capitalism Critique"
-        description: "Milo's syndicate as metaphor for profit over human welfare"
-        credibility: 0.9
-        tags: ["ANALYSIS", "ECONOMIC"]
+        content: "Heller served 60 combat missions as B-25 bombardier (May-Oct 1944, Corsica) - Snowden's death based on real event where Heller saved wounded gunner Carl Frankel"
+        source: "facts_history"
 
     localized:
       en:
-        - name: "Literary Innovation"
-          description: "Postmodern narrative techniques and countercultural movement symbol"
-          credibility: 0.95
-          tags: ["FACT", "LITERARY"]
-        - name: "Anti-War Movement"
-          description: "Vietnam War era symbol of resistance and protest"
-          credibility: 0.9
-          tags: ["HISTORICAL", "CULTURAL"]
+        cultural_impact: "Canonical status in Western anti-war literature, defining American postmodernism alongside Vonnegut and Pynchon"
+        key_editions:
+          - "Simon & Schuster first edition 1961"
+          - "Modern Library 1994"
+          - "50th anniversary edition 2011"
+        reception_notes: "Initially mixed reviews (New Yorker called it 'chaotic'), became counterculture bible during Vietnam War protests"
+        educational_status: "Taught in American literature courses, banned in some conservative districts 1970s-1980s"
+        local_themes:
+          - "Vietnam War protest symbol"
+          - "McCarthyism satire"
+          - "Military-industrial complex critique"
 
       pl:
-        - name: "Anti-Communist Metaphor"
-          description: "PRL bureaucracy critique and intellectual resistance symbol"
-          credibility: 0.85
-          tags: ["HISTORICAL", "POLITICAL"]
-        - name: "Translation Challenges"
-          description: "Linguistic adaptation of American humor to Polish context"
-          credibility: 0.8
-          tags: ["LITERARY", "CULTURAL"]
+        cultural_impact: "Strong reception as anti-bureaucracy satire resonating with communist-era experiences of absurd regulations"
+        key_editions:
+          - "PIW 1965 translation by Ludmiła Marjańska"
+          - "Rebis 2004"
+          - "Literackie 2019"
+        reception_notes: "Paragraf 22 entered Polish as synonym for bureaucratic trap, used in post-1989 transition debates"
+        educational_status: "University reading lists, not in mandatory high school curriculum"
+        local_themes:
+          - "Communist bureaucracy parallels"
+          - "PRL-era absurdity"
+          - "Kafkaesque state apparatus"
 
       de:
-        - name: "Post-War Military Critique"
-          description: "Resonance with German post-WWII sensitivity to military authority"
-          credibility: 0.9
-          tags: ["HISTORICAL", "CULTURAL"]
-        - name: "Frankfurt School Analysis"
-          description: "Connection to critical theory and institutional critique tradition"
-          credibility: 0.85
-          tags: ["ACADEMIC", "PHILOSOPHICAL"]
+        cultural_impact: "Analyzed through Frankfurt School lens - Adorno's culture industry critique, Habermas' communicative rationality"
+        key_editions:
+          - "Rowohlt Verlag 1964"
+          - "Fischer Taschenbuch 1987"
+          - "Kiepenheuer & Witsch 2011"
+        reception_notes: "German intellectual tradition embraced philosophical depth, connected to Kafka and absurdist theater"
+        educational_status: "Taught in Gymnasien (advanced secondary schools) alongside Kafka, Böll"
+        local_themes:
+          - "Kafkaesque tradition"
+          - "Authoritarian critique post-Nazi"
+          - "Bureaucratic dehumanization"
 
       fr:
-        - name: "Existentialist Themes"
-          description: "Absurdist philosophy and Voltairean satirical tradition"
-          credibility: 0.85
-          tags: ["PHILOSOPHICAL", "LITERARY"]
-        - name: "Institutional Satire"
-          description: "French tradition of social criticism through humor"
-          credibility: 0.8
-          tags: ["CULTURAL", "LITERARY"]
+        cultural_impact: "Received through existentialist lens - Camus' absurd, Sartre's bad faith, Foucault's disciplinary power"
+        key_editions:
+          - "Grasset 1964 translation"
+          - "Éditions Gallimard 1985"
+          - "Livre de Poche 2003"
+        reception_notes: "French critics emphasized philosophical absurdism over American political satire"
+        educational_status: "Studied in lycées alongside Camus' L'Étranger as comparative absurdism"
+        local_themes:
+          - "Existential absurdism"
+          - "Algerian War parallels"
+          - "Bureaucratic rationality critique"
 
       es:
-        - name: "Anti-Authoritarian Resistance"
-          description: "Parallels with experiences under Franco regime and military dictatorships"
-          credibility: 0.8
-          tags: ["HISTORICAL", "POLITICAL"]
-        - name: "Dark Humor Tradition"
-          description: "Connection to Spanish black comedy and social satire"
-          credibility: 0.75
-          tags: ["CULTURAL", "LITERARY"]
+        cultural_impact: "Trampa 22 unified reception across Spain and Latin America - rare consistency in translation"
+        key_editions:
+          - "Random House 'Trampa 22' by Flora Casas Vaca (standard across Hispanic world)"
+          - "RBA 2009"
+          - "Literatura Random House 2019"
+        reception_notes: "Became bible of 1960s pacifist movement in Spanish universities during student protests"
+        educational_status: "Required reading in 1960s university literature programs, still taught as American classic"
+        local_themes:
+          - "Anti-Franco resistance reading"
+          - "Latin American dictatorship parallels"
+          - "Military critique"
 
       pt:
-        - name: "Military Dictatorship Parallels"
-          description: "Resonance with Brazilian and Portuguese authoritarian experiences"
-          credibility: 0.8
-          tags: ["HISTORICAL", "POLITICAL"]
-        - name: "Modernist Techniques"
-          description: "Influence on Portuguese-language experimental literature"
-          credibility: 0.75
-          tags: ["LITERARY", "CULTURAL"]
+        cultural_impact: "Brazil: 'Ardil 22' emphasized deceptive paradox; Portugal: 'Artigo 22' emphasized bureaucratic regulation"
+        key_editions:
+          - "Brazil: Record 'Ardil-22'"
+          - "Portugal: European Portuguese 'Artigo 22'"
+        reception_notes: "Brazilian intellectuals during military dictatorship (1964-1985), Portuguese during Colonial Wars (1961-1974)"
+        educational_status: "University comparative literature, not in ENEM or vestibular exams"
+        local_themes:
+          - "Military dictatorship critique (Brazil)"
+          - "Colonial War disillusionment (Portugal)"
+          - "Bureaucratic absurdity"
 
       ja:
-        - name: "Corporate Bureaucracy"
-          description: "Salaryman culture and modern Japanese workplace absurdities"
-          credibility: 0.85
-          tags: ["CONTEMPORARY", "SOCIAL"]
-        - name: "Zen Paradox"
-          description: "Catch-22 as modern koan about impossible logical situations"
-          credibility: 0.8
-          tags: ["PHILOSOPHICAL", "CULTURAL"]
+        cultural_impact: "Tobita Shigeo's translation influenced Haruki Murakami's understanding of American absurdist literature"
+        key_editions:
+          - "Hayakawa Shobo 1969 軍規二二号"
+          - "Hayakawa Bunko 1977"
+          - "Hayakawa epi Bunko 2016"
+        reception_notes: "Post-war pacifist sentiment resonated, but limited pop culture integration (no manga/anime adaptations)"
+        educational_status: "University American literature courses, not high school curriculum"
+        local_themes:
+          - "Post-war pacifism"
+          - "Corporate bureaucracy parallels"
+          - "Institutional dysfunction"
 
       ko:
-        - name: "Hierarchical System Critique"
-          description: "Korean social hierarchy and military service commentary"
-          credibility: 0.8
-          tags: ["SOCIAL", "CONTEMPORARY"]
-        - name: "Social Pressure Commentary"
-          description: "Conformity expectations and individual resistance"
-          credibility: 0.75
-          tags: ["SOCIAL", "CULTURAL"]
+        cultural_impact: "Heller explicitly stated novel's anti-war feelings were products of Korean War era, not WWII - strong resonance"
+        key_editions:
+          - "Silcheon Munhaksa 1995 캐치-22"
+          - "Minumsa later editions"
+        reception_notes: "Term 캐치-22 fully integrated into Korean discourse for paradoxical situations, used in media/politics"
+        educational_status: "Taught at Korea University and major institutions in American literature programs"
+        local_themes:
+          - "Korean War historical connection"
+          - "Mandatory military service parallels"
+          - "Workplace bureaucracy critique"
 
       hi:
-        - name: "Government Bureaucracy Satire"
-          description: "Indian administrative system and colonial legacy critique"
-          credibility: 0.75
-          tags: ["POLITICAL", "POSTCOLONIAL"]
-        - name: "Institutional Corruption"
-          description: "Systemic corruption and powerlessness of individuals"
-          credibility: 0.8
-          tags: ["SOCIAL", "POLITICAL"]
+        cultural_impact: "Limited cultural penetration despite availability - complex satire and American military context present barriers"
+        key_editions:
+          - "Available through Amazon India/Flipkart in English"
+          - "Hindi summaries online but no major translation"
+        reception_notes: "Academic appreciation in postgraduate English programs, not widespread popular recognition"
+        educational_status: "Not in CBSE/ICSE curricula, some university postgraduate programs include it"
+        local_themes:
+          - "Bureaucratic satire potential (Indian administrative system)"
+          - "Colonial/postcolonial parallels unexplored"
+          - "Limited Bollywood adaptation interest"
 
   formats:
-    selected_format: "academic_analysis"
-    fitness_score: 4.44
-    depth_heat_match: "high_depth_medium_heat"
-    alternative_formats:
-      - name: "social_perspective"
-        fitness_score: 2.35
-      - name: "narrative_reconstruction"
-        fitness_score: 2.24
-
-    definition:
-      name: "academic_analysis"
-      duration: 35
-      host_count: 2
-
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
       hosts:
-        host_a:
-          role: "Literary Scholar"
-          expertise: "American Literature, Postmodern Fiction, War Literature"
-          perspective: "Academic analytical approach, historical context"
-          personality: "Scholarly, precise, contextualizing"
-
-        host_b:
-          role: "Cultural Critic"
-          expertise: "Social Commentary, Satirical Literature, Contemporary Relevance"
-          perspective: "Cultural analysis, modern applications"
-          personality: "Insightful, engaging, connecting past to present"
-
-      segments:
-        - start_time: 0
-          end_time: 8
-          title: "Historical Context and Innovation"
-          focus: "WWII setting, postmodern techniques, literary breakthrough"
-          primary_host: "host_a"
-          prompt: "Welcome to our analysis of Joseph Heller's revolutionary 1961 novel Catch-22. I'm {male_name}, a specialist in American literature, and this is {female_name}, our cultural critic. Let's begin by examining how Heller transformed war literature through his innovative narrative techniques and satirical approach. {female_name}, what made this novel so groundbreaking?"
-
-        - start_time: 8
-          end_time: 18
-          title: "The Catch-22 Paradox and Philosophical Depth"
-          focus: "Central paradox, existential themes, symbolic meaning"
-          primary_host: "host_b"
-          prompt: "The genius of Heller's central paradox - that pilots could be excused from dangerous missions only by proving insanity, but requesting exemption proved sanity - becomes a universal metaphor. {male_name}, how does this reflect deeper philosophical questions about individual agency versus institutional control?"
-
-        - start_time: 18
-          end_time: 26
-          title: "Cultural Impact and Prophetic Vision"
-          focus: "Influence on literature, contemporary relevance, predictions"
-          primary_host: "host_a"
-          prompt: "What's remarkable is how prophetic Catch-22 proved to be. Heller's critique of military-industrial bureaucracy anticipated many aspects of our current algorithmic and corporate control systems. {female_name}, how do you see these themes playing out in today's digital bureaucracies?"
-
-        - start_time: 26
-          end_time: 35
-          title: "Legacy and Modern Relevance"
-          focus: "Lasting influence, contemporary applications, universal themes"
-          primary_host: "host_b"
-          prompt: "As we conclude, it's clear that Catch-22 remains urgently relevant. From workplace paradoxes to social media algorithms, we're surrounded by catch-22 situations. {male_name}, what should modern readers take away from Yossarian's struggle, and how does Heller's dark humor help us navigate our own institutional absurdities?"
+        host_a: "social historian analyzing historical context of Catch-22"
+        host_b: "contemporary critic examining power dynamics and modern relevance"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "WWII vs Cold War context - Heller's 1944 experience filtered through 1950s McCarthyism paranoia"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Military hierarchy as metaphor for all institutional power - Cathcart's ambition, Milo's capitalism, bureaucratic catch-22s"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Prophetic predictions: algorithmic bureaucracy, surveillance capitalism, workplace exploitation, healthcare paradoxes"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "future_implications"
+          lead: "host_b"
+          description: "Gen Z workplace discourse, TikTok corporate critique, why catch-22 concept went viral in digital age"
+      prompts:
+        host_a: "You are {male_name}, a social historian analyzing Catch-22 (1961) by Joseph Heller. Discuss how the novel's anti-war satire was actually a critique of 1950s McCarthyism and Cold War paranoia, not just WWII. Explain Heller's prophetic accuracy: predicted algorithmic bureaucracy, surveillance capitalism, healthcare catch-22s, and corporate doublespeak. Connect to 1960s counterculture - how the book became a protest bible. Historical context: Heller served 60 combat missions as B-25 bombardier (1944 Corsica), wrote 1953-1961 during McCarthy era."
+        host_b: "You are {female_name}, examining contemporary relevance of Catch-22. Analyze power structures: military hierarchy (Cathcart), unrestrained capitalism (Milo's syndicate), bureaucratic dehumanization. Connect to modern parallels: TikTok #CorporateTikTok (4.9B views), #WorkLife (30.6B views) - Gen Z using catch-22 for workplace exploitation critique. Discuss why the concept went viral: algorithmic management, platform monopolies, healthcare insurance loops, student debt traps. Contemporary social debates."
 
   metadata:
     target_audience: "16+"
     content_warnings:
-      - "War themes and violence"
-      - "Institutional criticism"
-      - "Dark humor and mature themes"
-      - "PTSD and trauma references"
-
+      - "war violence discussion"
+      - "bureaucratic critique"
+      - "sexual content references"
+      - "anti-government themes"
     educational_elements:
-      - "Postmodern literary techniques"
-      - "WWII historical context"
-      - "Satirical writing methods"
-      - "Philosophical paradoxes"
-      - "Cultural criticism"
-
+      - "WWII Italian Campaign history"
+      - "McCarthyism and 1950s Red Scare"
+      - "Literary postmodernism techniques"
+      - "Non-linear narrative structure"
+      - "Black humor as resistance"
+      - "Capitalism critique through Milo Minderbinder"
+      - "Prophetic social commentary"
     production_notes:
-      - "Emphasize educational context to protect against censorship"
-      - "Include content warnings for war themes"
-      - "Focus on literary and historical analysis"
-      - "Avoid contemporary political comparisons"
-      - "Highlight universal human themes"
+      intro_style: "Satirical - start with absurd bureaucratic paradox example from modern life"
+      transitions: "Subtle musical bridges with 1940s big band elements"
+      outro_style: "Reflective - connect Yossarian's escape to modern resistance against systems"
 
-  overall_confidence: 0.87
+  overall_confidence: 0.89
