@@ -48,12 +48,6 @@ show_media_directories_info
 # Czas oczekiwania w sekundach między poszczególnymi wywołaniami.
 SLEEP_DURATION=79
 
-#  Usuń jeśli został status
-rm -f /tmp/todoit-m3-last-scenes.txt
-
-# Plik do zapamiętywania ostatnio przetwarzanych scen dla każdej listy
-LAST_SCENE_FILE="/tmp/todoit-m3-last-scenes.txt"
-
 # Funkcja do sprawdzenia postępu zadań w TODOIT
 check_progress() {
     local media_dir="$1"
@@ -61,43 +55,49 @@ check_progress() {
     todoit list show --list "$media_dir"
 }
 
-# Funkcja do zapisania ostatnio przetwarzanej sceny dla listy
-save_last_scene() {
-    local list_key="$1"
-    local scene_key="$2"
+# Funkcja do parsowania czasu z error_messages
+# Wejście: JSON string z error_messages
+# Wyjście: liczba sekund do czekania (z +1 minuta buforem) lub 0 jeśli nie znaleziono
+parse_reset_time_from_messages() {
+    local json_output="$1"
 
-    # Utwórz plik jeśli nie istnieje
-    touch "$LAST_SCENE_FILE"
+    # Wyciągnij error_messages array
+    local error_messages=$(echo "$json_output" | jq -r '.error_messages[]? // empty' 2>/dev/null)
 
-    # Usuń poprzedni wpis dla tej listy (jeśli istnieje)
-    grep -v "^$list_key:" "$LAST_SCENE_FILE" > "$LAST_SCENE_FILE.tmp" 2>/dev/null || true
-
-    # Dodaj nowy wpis
-    echo "$list_key:$scene_key" >> "$LAST_SCENE_FILE.tmp"
-
-    # Zastąp oryginalny plik
-    mv "$LAST_SCENE_FILE.tmp" "$LAST_SCENE_FILE"
-}
-
-# Funkcja do sprawdzenia czy scena się powtarza
-check_repeated_scene() {
-    local list_key="$1"
-    local scene_key="$2"
-
-    rm -f /tmp/todoit-m3-last-scenes.txt  #### REMOVE !!!!!!!!!!!!
-    # Sprawdź czy plik istnieje
-    if [ ! -f "$LAST_SCENE_FILE" ]; then
-        return 1  # Plik nie istnieje - pierwsza próba
+    if [ -z "$error_messages" ]; then
+        echo "0"
+        return
     fi
 
-    # Sprawdź czy ostatnia scena dla tej listy to ta sama
-    last_scene=$(grep "^$list_key:" "$LAST_SCENE_FILE" 2>/dev/null | cut -d: -f2)
+    # Szukaj wzorca "X hours and Y minutes" lub "X minutes"
+    local hours=0
+    local minutes=0
 
-    if [ "$last_scene" = "$scene_key" ]; then
-        return 0  # Scena się powtarza
-    else
-        return 1  # Inna scena lub brak wpisu
+    # Próba 1: "X hours and Y minutes"
+    if echo "$error_messages" | grep -qE "[0-9]+ hours? and [0-9]+ minutes?"; then
+        hours=$(echo "$error_messages" | grep -oE "[0-9]+ hours? and [0-9]+ minutes?" | grep -oE "^[0-9]+" | head -1)
+        minutes=$(echo "$error_messages" | grep -oE "[0-9]+ hours? and [0-9]+ minutes?" | grep -oE "[0-9]+ minutes?" | grep -oE "[0-9]+" | head -1)
+    # Próba 2: tylko "X minutes"
+    elif echo "$error_messages" | grep -qE "[0-9]+ minutes?"; then
+        minutes=$(echo "$error_messages" | grep -oE "[0-9]+ minutes?" | grep -oE "[0-9]+" | head -1)
+    # Próba 3: tylko "X hours"
+    elif echo "$error_messages" | grep -qE "[0-9]+ hours?"; then
+        hours=$(echo "$error_messages" | grep -oE "[0-9]+ hours?" | grep -oE "[0-9]+" | head -1)
     fi
+
+    # Ustaw domyślne wartości jeśli puste
+    hours=${hours:-0}
+    minutes=${minutes:-0}
+
+    # Jeśli nie znaleziono czasu, zwróć 0
+    if [ "$hours" -eq 0 ] && [ "$minutes" -eq 0 ]; then
+        echo "0"
+        return
+    fi
+
+    # Konwertuj na sekundy i dodaj 1 minutę (60s) buforu
+    local total_seconds=$((hours * 3600 + minutes * 60 + 60))
+    echo "$total_seconds"
 }
 
 # Funkcja do pobrania następnego zadania z TODOIT
@@ -191,39 +191,60 @@ for media_dir in "${media_directories[@]}"; do
 
         echo "🎯 Następne zadanie: $task_key"
 
-        # Sprawdź czy ta sama scena była przetwarzana w poprzedniej iteracji
-        if check_repeated_scene "$media_dir" "$task_key"; then
-            echo "🔄 Wykryto powtarzającą się scenę: $task_key dla $media_dir"
-            echo "💤 To oznacza limit ChatGPT Plus - wykonuję sleep 6h (21600 sekund)..."
-
-            # Pokaż kiedy skrypt wznowi działanie
-            wake_time=$(date -d "+6 hours" "+%Y-%m-%d %H:%M:%S %Z")
-            echo "⏰ Wznowienie przetwarzania o: $wake_time"
-
-            sleep 21600  # 6 godzin
-            rm "$LAST_SCENE_FILE"
-            echo "🚀 Kontynuowanie przetwarzania po 6h sleep..."
-
-            # Nie zwiększaj licznika iteracji - powtórz tę samą iterację
-            continue
-        fi
-
-        # Zapisz scenę jako ostatnio przetwarzaną
-        save_last_scene "$media_dir" "$task_key"
-
         # Wywołaj skrypt generowania obrazów dla konkretnego zadania z retry logic
         script_output=$(execute_image_generation_with_retry "$media_dir")
 
         # Sprawdzenie kodu wyjścia ostatniej komendy.
         exit_code=$?
+
+        # Wyświetl output ze skryptu
+        echo "$script_output"
+
         if [ $exit_code -ne 0 ]; then
             echo "⚠️ Błąd: Skrypt generowania obrazów zakończył się błędem w iteracji $iteration dla $media_dir."
 
-            # Sprawdź czy to błąd daily limit ChatGPT - przerwij cały skrypt
-            if echo "$script_output" | grep -qE "(daily usage limit reached|Create image feature is disabled|more available on|plus plan limit|limit resets in|Przekroczony limit generowania obrazów|ChatGPT Plus osiągnął limit|CHATGPT_DAILY_LIMIT_REACHED|Orchestrator zatrzymany z powodu osiągnięcia dziennego limitu)"; then
+            # Spróbuj sparsować JSON output
+            local json_line=$(echo "$script_output" | grep -E '^\s*\{' | tail -1)
+
+            if [ -n "$json_line" ]; then
+                # Sprawdź czy jest error_messages
+                local has_error_messages=$(echo "$json_line" | jq -r '.error_messages | length' 2>/dev/null)
+
+                if [ -n "$has_error_messages" ] && [ "$has_error_messages" -gt 0 ]; then
+                    # Wyświetl komunikaty błędów
+                    echo ""
+                    echo "🚫 **Wykryto limit ChatGPT Plus:**"
+                    echo "$json_line" | jq -r '.error_messages[]' 2>/dev/null
+
+                    # Parsuj czas do resetu
+                    local sleep_seconds=$(parse_reset_time_from_messages "$json_line")
+
+                    if [ "$sleep_seconds" -gt 0 ]; then
+                        local sleep_minutes=$((sleep_seconds / 60))
+                        local sleep_hours=$((sleep_minutes / 60))
+                        local remaining_minutes=$((sleep_minutes % 60))
+
+                        # Oblicz czas wznowienia
+                        local wake_time=$(date -d "+${sleep_seconds} seconds" "+%Y-%m-%d %H:%M:%S %Z")
+
+                        echo ""
+                        echo "💤 Wykonuję sleep na ${sleep_hours}h ${remaining_minutes}min (+ 1min buforu)"
+                        echo "⏰ Wznowienie przetwarzania o: $wake_time"
+                        echo ""
+
+                        sleep "$sleep_seconds"
+
+                        echo "🚀 Kontynuowanie przetwarzania po sleep..."
+
+                        # Nie zwiększaj licznika iteracji - powtórz tę samą iterację
+                        continue
+                    fi
+                fi
+            fi
+
+            # Jeśli nie wykryto limitu z error_messages, sprawdź czy to daily limit (stary sposób)
+            if echo "$script_output" | grep -qE "(daily usage limit reached|Create image feature is disabled|more available on|Przekroczony limit generowania obrazów|ChatGPT Plus osiągnął limit|CHATGPT_DAILY_LIMIT_REACHED|Orchestrator zatrzymany z powodu osiągnięcia dziennego limitu)"; then
                 echo "🚫 **KRYTYCZNY BŁĄD: ChatGPT daily image limit osiągnięty**"
-                echo "Szczegóły błędu:"
-                echo "$script_output"
                 echo ""
                 echo "💡 Generowanie obrazów w ChatGPT zostało zablokowane na dziś."
                 echo "🔄 Uruchom ponownie jutro lub gdy limit zostanie zresetowany."
@@ -232,13 +253,8 @@ for media_dir in "${media_directories[@]}"; do
                 exit 1
             else
                 echo "❌ Inny błąd - przerywam przetwarzanie tego medium i przechodzę do następnego."
-                echo "Szczegóły błędu:"
-                echo "$script_output"
                 break
             fi
-        else
-            # Wyświetl output ze skryptu
-            echo "$script_output"
         fi
 
         echo "✅ Iteracja $iteration ukończona"
