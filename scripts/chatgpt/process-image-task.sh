@@ -243,3 +243,10 @@ jq -n \
     screenshot: $screenshot,
     error_messages: (if ($error_messages | length) > 0 then $error_messages else null end)
   }'
+
+# Exit with appropriate code based on success
+if [ "$SUCCESS" == "true" ]; then
+  exit 0
+else
+  exit 1
+fi

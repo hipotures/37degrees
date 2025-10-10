@@ -204,11 +204,11 @@ for media_dir in "${media_directories[@]}"; do
             echo "⚠️ Błąd: Skrypt generowania obrazów zakończył się błędem w iteracji $iteration dla $media_dir."
 
             # Spróbuj sparsować JSON output
-            local json_line=$(echo "$script_output" | grep -E '^\s*\{' | tail -1)
+            json_line=$(echo "$script_output" | grep -E '^\s*\{' | tail -1)
 
             if [ -n "$json_line" ]; then
                 # Sprawdź czy jest error_messages
-                local has_error_messages=$(echo "$json_line" | jq -r '.error_messages | length' 2>/dev/null)
+                has_error_messages=$(echo "$json_line" | jq -r '.error_messages | length' 2>/dev/null)
 
                 if [ -n "$has_error_messages" ] && [ "$has_error_messages" -gt 0 ]; then
                     # Wyświetl komunikaty błędów
@@ -217,15 +217,15 @@ for media_dir in "${media_directories[@]}"; do
                     echo "$json_line" | jq -r '.error_messages[]' 2>/dev/null
 
                     # Parsuj czas do resetu
-                    local sleep_seconds=$(parse_reset_time_from_messages "$json_line")
+                    sleep_seconds=$(parse_reset_time_from_messages "$json_line")
 
                     if [ "$sleep_seconds" -gt 0 ]; then
-                        local sleep_minutes=$((sleep_seconds / 60))
-                        local sleep_hours=$((sleep_minutes / 60))
-                        local remaining_minutes=$((sleep_minutes % 60))
+                        sleep_minutes=$((sleep_seconds / 60))
+                        sleep_hours=$((sleep_minutes / 60))
+                        remaining_minutes=$((sleep_minutes % 60))
 
                         # Oblicz czas wznowienia
-                        local wake_time=$(date -d "+${sleep_seconds} seconds" "+%Y-%m-%d %H:%M:%S %Z")
+                        wake_time=$(date -d "+${sleep_seconds} seconds" "+%Y-%m-%d %H:%M:%S %Z")
 
                         echo ""
                         echo "💤 Wykonuję sleep na ${sleep_hours}h ${remaining_minutes}min (+ 1min buforu)"
