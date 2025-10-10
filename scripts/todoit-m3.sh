@@ -204,7 +204,9 @@ for media_dir in "${media_directories[@]}"; do
             echo "⚠️ Błąd: Skrypt generowania obrazów zakończył się błędem w iteracji $iteration dla $media_dir."
 
             # Spróbuj sparsować JSON output
-            json_line=$(echo "$script_output" | grep -E '^\s*\{' | tail -1)
+            # Znajdź ostatni kompletny JSON w output (może być wieloliniowy)
+            # Szukamy od ostatniego { do końca output
+            json_line=$(echo "$script_output" | awk '/^{/,0' | tail -n +1)
 
             if [ -n "$json_line" ]; then
                 # Sprawdź czy jest error_messages
