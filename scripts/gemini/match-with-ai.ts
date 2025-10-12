@@ -3,7 +3,7 @@
  * AI-powered matching: NotebookLM audio titles → book tasks
  *
  * Usage:
- *   npx ts-node scripts/gemini/match-with-ai.ts <tasks.json> <all_audio.json> [--model gemini|claude]
+ *   npx ts-node scripts/gemini/match-with-ai.ts <tasks.json> <all_audio.json> [--model gemini|claude] [--gemini-model <model_name>] [--gemini-extra-args <args>]
  *
  * Output (JSON to stdout):
  *   {
@@ -67,14 +67,21 @@ interface MatchResult {
 // AI PROVIDERS
 // ============================================================================
 
-async function callGemini(prompt: string, retries: number = 1): Promise<string> {
+async function callGemini(
+  prompt: string, 
+  geminiModel: string, 
+  geminiExtraArgs: string, 
+  retries: number = 1
+): Promise<string> {
   console.error('  → Calling Gemini API...');
+  console.error(`    Model: ${geminiModel}`);
 
   for (let attempt = 1; attempt <= retries; attempt++) {
     try {
-      // Using gemini CLI if available
-      // Alternative: Use @google/generative-ai npm package
-      const result = execSync(`gemini "${prompt.replace(/"/g, '\\"')}"`, {
+      // Pass prompt via stdin to avoid CLI argument length limits
+      const command = `gemini --model "${geminiModel}" ${geminiExtraArgs}`;
+      const result = execSync(command, {
+        input: prompt,
         encoding: 'utf-8',
         maxBuffer: 10 * 1024 * 1024,  // 10MB buffer
         timeout: 60000  // 60s timeout
@@ -126,13 +133,18 @@ async function callClaude(prompt: string, retries: number = 1): Promise<string> 
   throw new Error('Claude: All attempts exhausted');
 }
 
-async function callAI(prompt: string, primaryModel: 'gemini' | 'claude' = 'gemini'): Promise<{ response: string, model: string }> {
+async function callAI(
+  prompt: string, 
+  primaryModel: 'gemini' | 'claude' = 'gemini',
+  geminiModel: string,
+  geminiExtraArgs: string
+): Promise<{ response: string, model: string }> {
   const fallbackModel = primaryModel === 'gemini' ? 'claude' : 'gemini';
 
   try {
     // Try primary model with 1 retry
     const response = primaryModel === 'gemini'
-      ? await callGemini(prompt, 1)
+      ? await callGemini(prompt, geminiModel, geminiExtraArgs, 1)
       : await callClaude(prompt, 1);
 
     return { response, model: primaryModel };
@@ -144,7 +156,7 @@ async function callAI(prompt: string, primaryModel: 'gemini' | 'claude' = 'gemin
     try {
       // Fallback to secondary model with 1 retry
       const response = fallbackModel === 'gemini'
-        ? await callGemini(prompt, 1)
+        ? await callGemini(prompt, geminiModel, geminiExtraArgs, 1)
         : await callClaude(prompt, 1);
 
       return { response, model: fallbackModel };
@@ -160,6 +172,20 @@ async function callAI(prompt: string, primaryModel: 'gemini' | 'claude' = 'gemin
 // ============================================================================
 
 function buildMatchingPrompt(tasks: Task[], allAudio: AudioCollection[]): string {
+  // Only send minimal fields to AI (book_key + language_code)
+  const minimalTasks = tasks.map(t => ({
+    book_key: t.book_key,
+    language_code: t.language_code
+  }));
+
+  // Only send minimal audio fields (title + ref)
+  const minimalAudio = allAudio.map(collection => ({
+    audio: collection.audio.map(a => ({
+      title: a.title,
+      ref: a.ref
+    }))
+  }));
+
   return `You are an expert at matching book titles across different languages.
 
 TASK: Match book download tasks with audio files from NotebookLM.
@@ -173,10 +199,10 @@ RULES:
 6. Return ONLY valid JSON array, no additional text
 
 TASKS (need download):
-${JSON.stringify(tasks, null, 2)}
+${JSON.stringify(minimalTasks, null, 2)}
 
 AVAILABLE AUDIO (all notebooks):
-${JSON.stringify(allAudio, null, 2)}
+${JSON.stringify(minimalAudio, null, 2)}
 
 REQUIRED OUTPUT FORMAT:
 Return ONLY a JSON array with minimal info needed for matching:
@@ -233,7 +259,9 @@ function parseAIResponse(response: string): Match[] {
 async function matchWithAI(
   tasksPath: string,
   allAudioPath: string,
-  primaryModel: 'gemini' | 'claude' = 'gemini'
+  primaryModel: 'gemini' | 'claude' = 'gemini',
+  geminiModel: string,
+  geminiExtraArgs: string
 ): Promise<MatchResult> {
   try {
     console.error('[1/4] Loading input data...');
@@ -271,7 +299,7 @@ async function matchWithAI(
 
     console.error('[3/4] Calling AI...');
 
-    const { response, model } = await callAI(prompt, primaryModel);
+    const { response, model } = await callAI(prompt, primaryModel, geminiModel, geminiExtraArgs);
 
     console.error(`  ✓ Response received from ${model}`);
     console.error(`  → Response size: ${response.length} chars`);
@@ -335,32 +363,33 @@ async function main() {
   const args = process.argv.slice(2);
 
   if (args.length < 2) {
-    console.error('Usage: npx ts-node scripts/gemini/match-with-ai.ts <tasks.json> <all_audio.json> [--model gemini|claude]');
-    console.error('Example: npx ts-node scripts/gemini/match-with-ai.ts /tmp/tasks.json /tmp/all_audio.json');
-    console.error('Example: npx ts-node scripts/gemini/match-with-ai.ts /tmp/tasks.json /tmp/all_audio.json --model claude');
+    console.error('Usage: npx ts-node scripts/gemini/match-with-ai.ts <tasks.json> <all_audio.json> [--model gemini|claude] [--gemini-model <model_name>] [--gemini-extra-args <args>]');
+    console.error('Example: npx ts-node scripts/gemini/match-with-ai.ts /tmp/tasks.json /tmp/all_audio.json --gemini-model gemini-2.5-flash');
     process.exit(1);
   }
 
   const tasksPath = args[0];
   const allAudioPath = args[1];
 
-  // Parse --model flag
-  let primaryModel: 'gemini' | 'claude' = 'gemini';
-  const modelFlagIndex = args.indexOf('--model');
-  if (modelFlagIndex !== -1 && args[modelFlagIndex + 1]) {
-    const modelArg = args[modelFlagIndex + 1];
-    if (modelArg === 'claude' || modelArg === 'gemini') {
-      primaryModel = modelArg;
-    }
-  }
+  const argValue = (argName: string, defaultValue: string): string => {
+    const index = args.indexOf(argName);
+    return index !== -1 && args[index + 1] ? args[index + 1] : defaultValue;
+  };
+
+  const primaryModel = argValue('--model', 'gemini') as 'gemini' | 'claude';
+  const geminiModel = argValue('--gemini-model', 'gemini-2.5-flash');
+  const geminiExtraArgs = argValue('--gemini-extra-args', '--yolo --allowed-tools playwright-cdp,todoit');
 
   console.error(`\n=== AI Matching: Audio Titles → Tasks ===`);
   console.error(`Tasks: ${tasksPath}`);
   console.error(`Audio: ${allAudioPath}`);
   console.error(`Primary model: ${primaryModel}`);
+  if (primaryModel === 'gemini') {
+    console.error(`Gemini Model: ${geminiModel}`);
+  }
   console.error('');
 
-  const result = await matchWithAI(tasksPath, allAudioPath, primaryModel);
+  const result = await matchWithAI(tasksPath, allAudioPath, primaryModel, geminiModel, geminiExtraArgs);
 
   // Output JSON to stdout
   console.log(JSON.stringify(result, null, 2));

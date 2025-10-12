@@ -178,6 +178,14 @@ async function downloadSingleAudio(match: Match): Promise<DownloadResult> {
 
       console.error(`  ✓ Connected to existing browser`);
 
+      // Set download behavior for CDP browser
+      const cdpSession = await browser.newCDPSession(page);
+      await cdpSession.send('Browser.setDownloadBehavior', {
+        behavior: 'allow',
+        downloadPath: CONFIG.downloadDir
+      });
+      console.error(`  → Download path set to: ${CONFIG.downloadDir}`);
+
     } else {
       console.error(`  → Launching new browser instance (headless)`);
 
@@ -195,37 +203,72 @@ async function downloadSingleAudio(match: Match): Promise<DownloadResult> {
     }
 
     // ========================================================================
-    // PHASE 2: Navigate to NotebookLM
+    // PHASE 2: Navigate to NotebookLM (skip if already on page)
     // ========================================================================
 
-    console.error('[2/6] Navigating to NotebookLM...');
-    console.error(`  → URL: ${match.notebook_url}`);
+    console.error('[2/6] Checking page URL...');
 
-    await page.goto(match.notebook_url, {
-      waitUntil: 'load',
-      timeout: CONFIG.navigationTimeout
-    });
+    const currentUrl = page.url();
+    const needsNavigation = !currentUrl.includes(match.notebook_url);
 
-    await page.waitForTimeout(3000);
+    if (needsNavigation) {
+      console.error(`  → Navigating to: ${match.notebook_url}`);
+      await page.goto(match.notebook_url, {
+        waitUntil: 'load',
+        timeout: CONFIG.navigationTimeout
+      });
+      await page.waitForTimeout(2000);
+    } else {
+      console.error('  → Already on correct page, skipping navigation');
+      await page.waitForTimeout(500);
+    }
 
     const isLoginRequired = await page.locator('text="Sign in"').isVisible().catch(() => false);
     if (isLoginRequired) {
       throw new Error('User not logged in to Google. Please log in manually first.');
     }
 
-    console.error('  ✓ NotebookLM loaded');
+    console.error('  ✓ Page ready');
+
+    // ========================================================================
+    // PHASE 2.5: Switch to Studio tab (mobile only)
+    // ========================================================================
+
+    const isMobile = await page.evaluate(() => /Mobi|Android/i.test(navigator.userAgent));
+
+    if (isMobile) {
+      console.error('[2.5/6] Mobile detected - switching to Studio tab...');
+
+      const studioTab = page.locator('[role="tab"]').filter({ hasText: 'Studio' }).first();
+
+      const studioVisible = await studioTab.isVisible({ timeout: 2000 }).catch(() => false);
+
+      if (studioVisible) {
+        await studioTab.click();
+        await page.waitForTimeout(1000);
+        console.error('  ✓ Switched to Studio tab');
+      } else {
+        console.error('  ⚠ Studio tab not found (may be already selected)');
+      }
+    } else {
+      console.error('[2.5/6] Desktop mode - Studio panel already visible');
+    }
 
     // ========================================================================
     // PHASE 3: Find audio in Studio panel
     // ========================================================================
 
     console.error('[3/6] Finding audio...');
-    console.error(`  → Searching for: ${match.audio_title}`);
+    console.error(`  → Searching for: ${match.audio_title.substring(0, 80)}...`);
 
-    await page.waitForTimeout(1000);
+    await page.waitForTimeout(2000);
 
-    const audioElement = page.locator('button').filter({ hasText: match.audio_title }).first();
-    const audioExists = await audioElement.isVisible().catch(() => false);
+    // Find audio button using partial text match (first 40 chars)
+    const searchText = match.audio_title.substring(0, 40);
+
+    const audioButton = page.locator('button').filter({ hasText: searchText }).first();
+
+    const audioExists = await audioButton.isVisible({ timeout: 5000 }).catch(() => false);
 
     if (!audioExists) {
       throw new Error(`Audio not found for "${match.audio_title}"`);
@@ -242,16 +285,20 @@ async function downloadSingleAudio(match: Match): Promise<DownloadResult> {
     // Record timestamp BEFORE download
     timestampBefore = Date.now();
 
-    const moreButton = audioElement.locator('..').locator('button').filter({ hasText: /more/i }).or(
-      audioElement.locator('..').locator('button[aria-label*="More"]')
-    ).first();
+    // Find More button - navigate to parent container and find More button there
+    const parentContainer = audioButton.locator('..');
+    const moreButton = parentContainer.locator('button[aria-label*="More"]').first();
 
     await moreButton.click();
+    console.error('  → More menu opened, waiting...');
     await page.waitForTimeout(1000);
 
-    const downloadMenuItem = page.locator('text="Download"').or(
-      page.locator('[role="menuitem"]').filter({ hasText: /download/i })
-    ).first();
+    // Find Download menuitem using role
+    const downloadMenuItem = page.getByRole('menuitem', { name: 'Download' });
+
+    // Wait for download button to be visible
+    console.error('  → Waiting for Download button...');
+    await downloadMenuItem.waitFor({ state: 'visible', timeout: 5000 });
 
     const downloadSubdir = findNewestDownloadSubdir() || CONFIG.downloadDir;
     console.error(`  → Download directory: ${downloadSubdir}`);

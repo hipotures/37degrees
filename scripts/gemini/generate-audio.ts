@@ -277,14 +277,20 @@ async function generateAudio(params: AudioGenParams): Promise<AudioGenResult> {
     console.error('[5/8] Opening customization...');
 
     // Find and click the Edit button (pencil icon) within Audio overview button
-    const editButton = page.locator('button').filter({ hasText: /edit|customize/i }).first();
-    const editExists = await editButton.isVisible().catch(() => false);
+    // Use JavaScript click because Playwright's isVisible() fails even though button is visible
+    const editButtonExists = await page.evaluate(() => {
+      const btn = document.querySelector('button.edit-button');
+      if (btn) {
+        (btn as HTMLElement).click();
+        return true;
+      }
+      return false;
+    });
 
-    if (!editExists) {
+    if (!editButtonExists) {
       throw new Error('Edit/Customize button not found in Studio');
     }
 
-    await editButton.click();
     await page.waitForTimeout(2000);  // Wait for dialog to open
 
     console.error('  ✓ Customization dialog opened');

@@ -149,6 +149,30 @@ async function collectAudioList(notebookUrl: string): Promise<CollectionResult> 
     console.error('  ✓ NotebookLM loaded');
 
     // ========================================================================
+    // PHASE 2.5: Switch to Studio tab (mobile only)
+    // ========================================================================
+
+    const isMobile = await page.evaluate(() => /Mobi|Android/i.test(navigator.userAgent));
+
+    if (isMobile) {
+      console.error('[2.5/4] Mobile detected - switching to Studio tab...');
+
+      const studioTab = page.locator('[role="tab"]').filter({ hasText: 'Studio' }).first();
+
+      const studioVisible = await studioTab.isVisible({ timeout: 2000 }).catch(() => false);
+
+      if (studioVisible) {
+        await studioTab.click();
+        await page.waitForTimeout(1000);
+        console.error('  ✓ Switched to Studio tab');
+      } else {
+        console.error('  ⚠ Studio tab not found (may be already selected)');
+      }
+    } else {
+      console.error('[2.5/4] Desktop mode - Studio panel already visible');
+    }
+
+    // ========================================================================
     // PHASE 3: Take snapshot and parse audio list
     // ========================================================================
 
@@ -157,67 +181,24 @@ async function collectAudioList(notebookUrl: string): Promise<CollectionResult> 
     // Wait for initial load
     await page.waitForTimeout(2000);
 
-    // Scroll Studio panel to trigger lazy loading of all audio
-    console.error('  → Scrolling Studio panel to load all audio...');
+    // Scroll to bottom to trigger lazy loading of all audio items
+    console.error('  → Scrolling to load all audio items...');
+    let previousHeight = 0;
+    let currentHeight = await page.evaluate(() => document.body.scrollHeight);
+    let scrollAttempts = 0;
+    const maxScrollAttempts = 20;
 
-    // Find scrollable container that contains audio buttons
-    const scrollResult = await page.evaluate(async () => {
-      // Strategy: Find buttons that look like audio items, then find their scrollable parent
-      const allButtons = Array.from(document.querySelectorAll('button'));
-
-      // Find a button that's likely an audio item (has [expanded] attribute or long text)
-      const audioButton = allButtons.find(btn => {
-        const ariaExpanded = btn.getAttribute('aria-expanded');
-        const text = btn.textContent || '';
-        // Audio titles are typically long (>30 chars) and buttons have aria-expanded
-        return ariaExpanded !== null && text.length > 30;
-      });
-
-      if (!audioButton) {
-        return { success: false, scrolled: false, reason: 'No audio buttons found' };
-      }
-
-      // Find the scrollable parent of this audio button
-      let scrollableParent: HTMLElement | null = null;
-      let current = audioButton.parentElement;
-
-      while (current && current !== document.body) {
-        const style = window.getComputedStyle(current);
-        if (style.overflowY === 'auto' || style.overflowY === 'scroll') {
-          // Check if this element actually scrolls (has scrollable content)
-          if (current.scrollHeight > current.clientHeight) {
-            scrollableParent = current;
-            break;
-          }
-        }
-        current = current.parentElement;
-      }
-
-      if (!scrollableParent) {
-        return { success: false, scrolled: false, reason: 'No scrollable parent found' };
-      }
-
-      // Scroll down 10 times in this container
-      for (let i = 0; i < 10; i++) {
-        scrollableParent.scrollTop = scrollableParent.scrollHeight;
-        await new Promise(resolve => setTimeout(resolve, 800));
-      }
-
-      // Scroll back to top
-      scrollableParent.scrollTop = 0;
-      await new Promise(resolve => setTimeout(resolve, 500));
-
-      return { success: true, scrolled: true };
-    });
-
-    if (scrollResult.scrolled) {
-      console.error('  → Scrolled Studio panel to load audio');
-    } else {
-      const reason = (scrollResult as any).reason || 'unknown';
-      console.error(`  ⚠ Could not scroll Studio panel: ${reason}`);
+    while (previousHeight !== currentHeight && scrollAttempts < maxScrollAttempts) {
+      previousHeight = currentHeight;
+      await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+      await page.waitForTimeout(1000);
+      currentHeight = await page.evaluate(() => document.body.scrollHeight);
+      scrollAttempts++;
+      console.error(`    → Scroll ${scrollAttempts}: height ${currentHeight}`);
     }
 
-    await page.waitForTimeout(1000);
+    console.error(`  ✓ Scrolling completed after ${scrollAttempts} attempts`);
+    await page.waitForTimeout(2000);
 
     // Take accessibility snapshot
     const snapshot = await page.locator('body').ariaSnapshot();

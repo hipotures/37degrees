@@ -3,7 +3,7 @@
  * AI-powered matching: Downloaded files → book tasks (by timestamp)
  *
  * Usage:
- *   npx ts-node scripts/gemini/match-files-ai.ts <downloads.json> <matching.json> [--model gemini|claude]
+ *   npx ts-node scripts/gemini/match-files-ai.ts <downloads.json> <matching.json> [--model gemini|claude] [--gemini-model <model_name>] [--gemini-extra-args <args>]
  *
  * Output (JSON to stdout):
  *   {
@@ -64,15 +64,24 @@ interface MappingResult {
 // AI PROVIDERS (same as match-with-ai.ts)
 // ============================================================================
 
-async function callGemini(prompt: string, retries: number = 1): Promise<string> {
+async function callGemini(
+  prompt: string, 
+  geminiModel: string, 
+  geminiExtraArgs: string, 
+  retries: number = 1
+): Promise<string> {
   console.error('  → Calling Gemini API...');
+  console.error(`    Model: ${geminiModel}`);
 
   for (let attempt = 1; attempt <= retries; attempt++) {
     try {
-      const result = execSync(`gemini "${prompt.replace(/"/g, '\\"')}"`, {
+      // Pass prompt via stdin to avoid CLI argument length limits
+      const command = `gemini --model "${geminiModel}" ${geminiExtraArgs}`;
+      const result = execSync(command, {
+        input: prompt,
         encoding: 'utf-8',
         maxBuffer: 10 * 1024 * 1024,
-        timeout: 60000
+        timeout: 60000  // 60s timeout
       });
 
       return result.trim();
@@ -100,7 +109,7 @@ async function callClaude(prompt: string, retries: number = 1): Promise<string> 
       const result = execSync(`claude "${prompt.replace(/"/g, '\\"')}"`, {
         encoding: 'utf-8',
         maxBuffer: 10 * 1024 * 1024,
-        timeout: 60000
+        timeout: 60000  // 60s timeout
       });
 
       return result.trim();
@@ -120,12 +129,17 @@ async function callClaude(prompt: string, retries: number = 1): Promise<string> 
   throw new Error('Claude: All attempts exhausted');
 }
 
-async function callAI(prompt: string, primaryModel: 'gemini' | 'claude' = 'gemini'): Promise<{ response: string, model: string }> {
+async function callAI(
+  prompt: string, 
+  primaryModel: 'gemini' | 'claude' = 'gemini',
+  geminiModel: string,
+  geminiExtraArgs: string
+): Promise<{ response: string, model: string }> {
   const fallbackModel = primaryModel === 'gemini' ? 'claude' : 'gemini';
 
   try {
     const response = primaryModel === 'gemini'
-      ? await callGemini(prompt, 1)
+      ? await callGemini(prompt, geminiModel, geminiExtraArgs, 1)
       : await callClaude(prompt, 1);
 
     return { response, model: primaryModel };
@@ -136,7 +150,7 @@ async function callAI(prompt: string, primaryModel: 'gemini' | 'claude' = 'gemin
 
     try {
       const response = fallbackModel === 'gemini'
-        ? await callGemini(prompt, 1)
+        ? await callGemini(prompt, geminiModel, geminiExtraArgs, 1)
         : await callClaude(prompt, 1);
 
       return { response, model: fallbackModel };
@@ -152,17 +166,21 @@ async function callAI(prompt: string, primaryModel: 'gemini' | 'claude' = 'gemin
 // ============================================================================
 
 function buildFileMappingPrompt(downloads: DownloadRecord[], matches: Match[]): string {
-  // Add download order to records
+  // Only send minimal download fields needed for matching
   const downloadsWithOrder = downloads
     .filter(d => d.success && d.file_path)
     .map((d, index) => ({
-      ...d,
+      file_path: d.file_path,
+      filename: path.basename(d.file_path!),
       download_order: index + 1,
-      filename: path.basename(d.file_path!)
+      timestamp_before: d.timestamp_before,
+      timestamp_after: d.timestamp_after
     }));
 
+  // Only send minimal match fields needed for matching
   const matchesWithOrder = matches.map((m, index) => ({
-    ...m,
+    book_key: m.book_key,
+    language_code: m.language_code,
     expected_order: index + 1
   }));
 
@@ -235,7 +253,9 @@ function parseAIResponse(response: string): FileMapping[] {
 async function matchFilesWithAI(
   downloadsPath: string,
   matchingPath: string,
-  primaryModel: 'gemini' | 'claude' = 'gemini'
+  primaryModel: 'gemini' | 'claude' = 'gemini',
+  geminiModel: string,
+  geminiExtraArgs: string
 ): Promise<MappingResult> {
   try {
     console.error('[1/4] Loading input data...');
@@ -280,7 +300,7 @@ async function matchFilesWithAI(
 
     console.error('[3/4] Calling AI...');
 
-    const { response, model } = await callAI(prompt, primaryModel);
+    const { response, model } = await callAI(prompt, primaryModel, geminiModel, geminiExtraArgs);
 
     console.error(`  ✓ Response received from ${model}`);
     console.error(`  → Response size: ${response.length} chars`);
@@ -331,31 +351,34 @@ async function main() {
   const args = process.argv.slice(2);
 
   if (args.length < 2) {
-    console.error('Usage: npx ts-node scripts/gemini/match-files-ai.ts <downloads.json> <matching.json> [--model gemini|claude]');
-    console.error('Example: npx ts-node scripts/gemini/match-files-ai.ts /tmp/downloads.json /tmp/matching.json');
-    console.error('Example: npx ts-node scripts/gemini/match-files-ai.ts /tmp/downloads.json /tmp/matching.json --model claude');
+    console.error('Usage: npx ts-node scripts/gemini/match-files-ai.ts <downloads.json> <matching.json> [--model gemini|claude] [--gemini-model <model_name>] [--gemini-extra-args <args>]');
+    console.error('Example: npx ts-node scripts/gemini/match-files-ai.ts /tmp/downloads.json /tmp/matching.json --gemini-model gemini-2.5-flash');
     process.exit(1);
   }
 
   const downloadsPath = args[0];
   const matchingPath = args[1];
 
-  let primaryModel: 'gemini' | 'claude' = 'gemini';
-  const modelFlagIndex = args.indexOf('--model');
-  if (modelFlagIndex !== -1 && args[modelFlagIndex + 1]) {
-    const modelArg = args[modelFlagIndex + 1];
-    if (modelArg === 'claude' || modelArg === 'gemini') {
-      primaryModel = modelArg;
-    }
-  }
+  const argValue = (argName: string, defaultValue: string): string => {
+    const index = args.indexOf(argName);
+    return index !== -1 && args[index + 1] ? args[index + 1] : defaultValue;
+  };
+
+  const primaryModel = argValue('--model', 'gemini') as 'gemini' | 'claude';
+  const geminiModel = argValue('--gemini-model', 'gemini-2.5-flash');
+  const geminiExtraArgs = argValue('--gemini-extra-args', '--yolo --allowed-tools playwright-cdp,todoit');
+
 
   console.error(`\n=== AI Matching: Files → Tasks ===`);
   console.error(`Downloads: ${downloadsPath}`);
   console.error(`Matches: ${matchingPath}`);
   console.error(`Primary model: ${primaryModel}`);
+  if (primaryModel === 'gemini') {
+    console.error(`Gemini Model: ${geminiModel}`);
+  }
   console.error('');
 
-  const result = await matchFilesWithAI(downloadsPath, matchingPath, primaryModel);
+  const result = await matchFilesWithAI(downloadsPath, matchingPath, primaryModel, geminiModel, geminiExtraArgs);
 
   // Output JSON to stdout
   console.log(JSON.stringify(result, null, 2));

@@ -15,6 +15,10 @@ PROJECT_ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"
 # Default model (can be overridden with --model)
 PRIMARY_MODEL="${PRIMARY_MODEL:-gemini}"
 
+# Gemini-specific model
+GEMINI_MODEL="${GEMINI_MODEL:-gemini-2.5-flash}"
+GEMINI_EXTRA_ARGS="${GEMINI_EXTRA_ARGS:---yolo --allowed-tools playwright-cdp,todoit}"
+
 # Dry run mode (only matching, no downloads)
 DRY_RUN="${DRY_RUN:-false}"
 
@@ -49,9 +53,17 @@ while [[ $# -gt 0 ]]; do
       WORK_DIR="$2"
       shift 2
       ;;
+    --gemini-model)
+      GEMINI_MODEL="$2"
+      shift 2
+      ;;
+    --gemini-extra-args)
+      GEMINI_EXTRA_ARGS="$2"
+      shift 2
+      ;;
     *)
       echo "Unknown option: $1"
-      echo "Usage: $0 [--model gemini|claude] [--resume-from phase2|phase3] [--work-dir /tmp/xxx]"
+      echo "Usage: $0 [--model gemini|claude] [--gemini-model <model_name>] [--gemini-extra-args <args>] [--resume-from phase2|phase3] [--work-dir /tmp/xxx]"
       exit 1
       ;;
   esac
@@ -136,10 +148,10 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase1" ]; then
 
   # Iterate through notebook URLs
   for NOTEBOOK_URL in "${NOTEBOOK_URLS[@]}"; do
-    ((NOTEBOOK_COUNT++))
+    NOTEBOOK_COUNT=$((NOTEBOOK_COUNT + 1))
     echo "  → Notebook $NOTEBOOK_COUNT/${#NOTEBOOK_URLS[@]}"
     echo "    URL: $NOTEBOOK_URL"
-    echo "    Collecting audio (this may take 10-30s)..."
+    echo "    Collecting audio (this may take 10-60s)..."
 
     # Run with timeout (max 60s)
     set +e
@@ -179,6 +191,8 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase1" ]; then
     "$TASKS_JSON" \
     "$ALL_AUDIO_JSON" \
     --model "$PRIMARY_MODEL" \
+    --gemini-model "$GEMINI_MODEL" \
+    --gemini-extra-args "$GEMINI_EXTRA_ARGS" \
     2>&1 | tee "$WORK_DIR/match-with-ai.log" | grep -E "^\[|  [→✓⚠✗]"
 
   EXIT_CODE=$?
@@ -247,8 +261,12 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase2" ]; then
 
   DOWNLOAD_INDEX=0
 
-  while IFS= read -r match; do
-    ((DOWNLOAD_INDEX++))
+  echo "DEBUG: About to pipe matches to wc."
+  echo "$MATCHES" | wc -l
+  echo "DEBUG: Pipe to wc successful. Starting while loop."
+
+  echo "$MATCHES" | while IFS= read -r match; do
+    set +e
 
     BOOK_KEY=$(echo "$match" | jq -r '.book_key')
     LANG=$(echo "$match" | jq -r '.language_code')
@@ -284,7 +302,8 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase2" ]; then
     fi
 
     echo ""
-  done <<< "$MATCHES"
+    set -e
+  done
 
   SUCCESSFUL_COUNT=$(jq '[.[] | select(.success == true)] | length' "$DOWNLOADS_JSON")
   echo "  ✓ Phase 2 completed: $SUCCESSFUL_COUNT successful downloads"
@@ -319,6 +338,8 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase2" ] || [ "$RESUME_FROM" = 
     "$DOWNLOADS_JSON" \
     "$MATCHING_JSON" \
     --model "$PRIMARY_MODEL" \
+    --gemini-model "$GEMINI_MODEL" \
+    --gemini-extra-args "$GEMINI_EXTRA_ARGS" \
     2>&1 | tee "$WORK_DIR/match-files-ai.log" | grep -E "^\[|  [→✓⚠✗]"
 
   EXIT_CODE=$?
@@ -395,7 +416,7 @@ echo "[4.2] Executing moves..."
 
 MOVE_INDEX=0
 while IFS= read -r mapping; do
-  ((MOVE_INDEX++))
+  MOVE_INDEX=$((MOVE_INDEX + 1))
 
   SRC=$(echo "$mapping" | jq -r '.source_file')
   DEST=$(echo "$mapping" | jq -r '.target_path')
