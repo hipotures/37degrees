@@ -33,7 +33,7 @@ def main():
         "item", "find-status", "--list", TARGET_LIST,
         "--status", "in_progress",  # Required by todoit API
         "--complex", '{"item": {"status": "in_progress"}, "subitem": {"afa_gen": "completed"}}',
-        "--limit", "10"  # Get multiple books to check their progress
+        "--limit", "20"  # Get multiple books to check their progress
     ])
 
     if returncode1 != 0:

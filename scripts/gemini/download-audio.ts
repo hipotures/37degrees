@@ -59,7 +59,17 @@ const CONFIG = {
   screenshotDir: '/tmp',
 
   // Headless mode
-  headless: true
+  headless: true,
+
+  // Viewport size (affects NotebookLM UI layout)
+  // CRITICAL: NotebookLM layout boundary at 1050px width:
+  //   - < 1050px: Mobile mode with tabs (Sources/Chat/Studio) - requires clicking tab
+  //   - >= 1050px: Desktop mode with panels - all sections visible at once
+  // Default 1920x1080 ensures desktop mode for reliable automation
+  viewport: {
+    width: 1920,
+    height: 1080
+  }
 };
 
 // ============================================================================
@@ -160,7 +170,7 @@ async function downloadAudio(params: DownloadParams): Promise<DownloadResult> {
     // PHASE 1: Browser Setup
     // ========================================================================
 
-    console.error('[1/7] Launching browser...');
+    console.error('[1/8] Launching browser...');
 
     const cdpPort = 9222;
     const isCdpAvailable = await isPortOpen(cdpPort);
@@ -191,10 +201,11 @@ async function downloadAudio(params: DownloadParams): Promise<DownloadResult> {
       const headlessMode = params.headless !== undefined ? params.headless : CONFIG.headless;
       console.error(`  → Launching new browser instance`);
       console.error(`  → Headless mode: ${headlessMode}`);
+      console.error(`  → Viewport: ${CONFIG.viewport.width}x${CONFIG.viewport.height}`);
 
       browser = await chromium.launchPersistentContext(CONFIG.userDataDir, {
         headless: headlessMode,
-        viewport: { width: 1920, height: 1080 },
+        viewport: CONFIG.viewport,
         acceptDownloads: true,
         args: [
           '--no-sandbox',
@@ -209,7 +220,7 @@ async function downloadAudio(params: DownloadParams): Promise<DownloadResult> {
     // PHASE 2: Navigate to NotebookLM
     // ========================================================================
 
-    console.error('[2/7] Navigating to NotebookLM...');
+    console.error('[2/8] Navigating to NotebookLM...');
     console.error(`  → URL: ${params.notebookUrl}`);
 
     await page.goto(params.notebookUrl, {
@@ -227,13 +238,115 @@ async function downloadAudio(params: DownloadParams): Promise<DownloadResult> {
     console.error('  ✓ NotebookLM loaded');
 
     // ========================================================================
-    // PHASE 3: Find audio in Studio panel
+    // PHASE 2.1: Detect viewport mode (mobile vs desktop)
     // ========================================================================
 
-    console.error('[3/7] Finding audio...');
+    console.error('[2.1/8] Detecting viewport mode...');
 
-    // Studio panel should be visible on the right
-    await page.waitForTimeout(1000);
+    const windowWidth = await page.evaluate(() => window.innerWidth);
+    const isMobileMode = windowWidth < 1050;
+    const viewportMode = isMobileMode ? 'mobile' : 'desktop';
+
+    console.error(`  → Window width: ${windowWidth}px`);
+    console.error(`  → Mode: ${viewportMode} (${isMobileMode ? 'tabs layout' : 'panels layout'})`);
+
+    // ========================================================================
+    // PHASE 2.5: Deselect all sources for safety
+    // ========================================================================
+
+    console.error('[2.5/8] Deselecting all sources...');
+
+    // NOTE: By default all sources are selected in NotebookLM
+    // Uncheck all sources using main "Select all sources" checkbox (for security)
+    // This prevents accidental audio generation when clicking buttons
+
+    try {
+      if (isMobileMode) {
+        // Mobile mode: Navigate to Sources tab first
+        console.error('  → Mobile mode: navigating to Sources tab');
+
+        const sourcesTab = page.locator('[role="tab"]').filter({ hasText: /sources/i }).first();
+        const sourcesTabExists = await sourcesTab.isVisible().catch(() => false);
+
+        if (sourcesTabExists) {
+          await sourcesTab.click();
+          await page.waitForTimeout(1000);
+          console.error('  ✓ Sources tab opened');
+        } else {
+          console.error('  ⚠ Sources tab not found');
+        }
+      } else {
+        // Desktop mode: Sources panel already visible
+        console.error('  → Desktop mode: Sources panel already visible');
+      }
+
+      // Wait for checkboxes to be available
+      await page.waitForTimeout(1000);
+
+      // Find and click the "Select all sources" checkbox to deselect all
+      const selectAllCheckbox = page.locator('input[type="checkbox"]').first();
+      const isCheckboxVisible = await selectAllCheckbox.isVisible().catch(() => false);
+
+      if (isCheckboxVisible) {
+        // Check if currently selected (checked)
+        const isChecked = await selectAllCheckbox.isChecked().catch(() => false);
+
+        if (isChecked) {
+          await selectAllCheckbox.click();
+          await page.waitForTimeout(500);
+          console.error('  ✓ All sources deselected');
+        } else {
+          console.error('  → Sources already deselected');
+        }
+      } else {
+        console.error('  → Select all checkbox not found (might be optional)');
+      }
+    } catch (deselectError) {
+      // Non-critical error, continue with download
+      console.error('  ⚠ Could not deselect sources (continuing anyway)');
+    }
+
+    // ========================================================================
+    // PHASE 3: Navigate to Studio
+    // ========================================================================
+
+    console.error('[3/8] Navigating to Studio...');
+
+    if (isMobileMode) {
+      // Mobile mode: Click Studio tab
+      console.error('  → Mobile mode: clicking Studio tab');
+
+      try {
+        // Wait for tabs to be available
+        await page.waitForTimeout(1000);
+
+        // Find and click Studio tab
+        const studioTab = page.locator('[role="tab"]').filter({ hasText: /studio/i }).first();
+        const tabExists = await studioTab.isVisible().catch(() => false);
+
+        if (!tabExists) {
+          throw new Error('Studio tab not found in mobile mode');
+        }
+
+        await studioTab.click();
+        await page.waitForTimeout(1000);
+
+        console.error('  ✓ Studio tab clicked');
+      } catch (tabError) {
+        console.error(`  ⚠ Could not click Studio tab: ${tabError}`);
+        throw new Error('Failed to navigate to Studio in mobile mode');
+      }
+    } else {
+      // Desktop mode: Studio panel already visible
+      console.error('  → Desktop mode: Studio panel already visible');
+      await page.waitForTimeout(1000);
+    }
+
+    // ========================================================================
+    // PHASE 4: Find audio in Studio panel
+    // ========================================================================
+
+    console.error('[4/8] Finding audio...');
 
     // Find audio by title or book key
     const searchText = params.audioTitle || params.bookKey;
@@ -250,10 +363,10 @@ async function downloadAudio(params: DownloadParams): Promise<DownloadResult> {
     console.error('  ✓ Audio found');
 
     // ========================================================================
-    // PHASE 4: Open More menu and click Download
+    // PHASE 5: Open More menu and click Download
     // ========================================================================
 
-    console.error('[4/7] Downloading audio...');
+    console.error('[5/8] Downloading audio...');
 
     // Find More button (three dots) near the audio
     const moreButton = audioElement.locator('..').locator('button').filter({ hasText: /more/i }).or(
@@ -278,10 +391,10 @@ async function downloadAudio(params: DownloadParams): Promise<DownloadResult> {
     console.error('  → Download started...');
 
     // ========================================================================
-    // PHASE 5: Wait for download completion
+    // PHASE 6: Wait for download completion
     // ========================================================================
 
-    console.error('[5/7] Waiting for download...');
+    console.error('[6/8] Waiting for download...');
 
     const downloadedFile = await waitForDownload(downloadSubdir, CONFIG.downloadWaitMax);
 
@@ -292,10 +405,10 @@ async function downloadAudio(params: DownloadParams): Promise<DownloadResult> {
     console.error(`  ✓ Downloaded: ${path.basename(downloadedFile)}`);
 
     // ========================================================================
-    // PHASE 6: Move file to target location
+    // PHASE 7: Move file to target location
     // ========================================================================
 
-    console.error('[6/7] Moving file...');
+    console.error('[7/8] Moving file...');
 
     const targetDir = path.join(CONFIG.projectRoot, 'books', params.bookKey, 'audio');
     const targetFilename = `${params.bookKey}_${params.languageCode}.mp4`;
@@ -321,13 +434,13 @@ async function downloadAudio(params: DownloadParams): Promise<DownloadResult> {
     console.error(`  → Size: ${fileSizeMB} MB`);
 
     // ========================================================================
-    // PHASE 7: Success
+    // PHASE 8: Success
     // ========================================================================
 
     const screenshotPath = path.join(CONFIG.screenshotDir, `gemini-download-success-${params.bookKey}-${params.languageCode}.png`);
     await page.screenshot({ path: screenshotPath, fullPage: true });
 
-    console.error('[7/7] Download completed successfully');
+    console.error('[8/8] Download completed successfully');
     console.error(`  → Screenshot: ${screenshotPath}`);
 
     return {

@@ -19,12 +19,40 @@ Orchestrator for automatic downloading of generated audio from NotebookLM using 
 
 **IMPORTANT: Use tool playwright-cdp for NotebookLM interface automation**
 
+**NEW: Viewport detection and adaptive navigation**
+- Detects mobile mode (< 1050px) vs desktop mode (>= 1050px)
+- Mobile mode: Uses tabs (Sources/Chat/Studio) with click navigation
+- Desktop mode: All panels visible, no tab clicking needed
+
+**NEW: Source deselection safety feature**
+- Automatically deselects all sources before download
+- Prevents accidental audio generation
+- Works in both mobile and desktop modes
+
 ## Input Data
 
 - TODOIT List: "cc-au-notebooklm" (with audio_dwn_XX subitems)
 - NotebookLM URL: Dynamic selection based on book number
 - Target directory: books/[folder_book]/audio/ (files with language suffix)
 - Temporary directory: /tmp/playwright-mcp-output/[subfolder]
+
+## NotebookLM Layout Modes
+
+NotebookLM has two distinct UI layouts based on viewport width:
+
+### Mobile Mode (< 1050px)
+- **Layout**: Tab-based navigation
+- **Sections**: Sources | Chat | Studio (as tabs)
+- **Behavior**: Must click tabs to switch between sections
+- **Example**: Browser window width = 800px
+
+### Desktop Mode (>= 1050px)
+- **Layout**: Panel-based layout
+- **Sections**: All panels visible simultaneously
+- **Behavior**: No need to click tabs, just scroll
+- **Example**: Browser window width = 1920px
+
+**Implementation**: Agent detects width using `window.innerWidth` and adapts navigation accordingly.
 
 ## Orchestrator Steps
 
@@ -60,9 +88,113 @@ AUDIO_TITLE = task_data.audio_title  // Can be null
 await mcp__playwright-cdp__browser_navigate(url: NOTEBOOK_URL)
 await mcp__playwright-cdp__browser_snapshot()
 
+console.log("✓ NotebookLM loaded")
+```
+
+### Step 1.1: Detect Viewport Mode (Mobile vs Desktop)
+
+```javascript
+// CRITICAL: NotebookLM layout boundary at 1050px width:
+//   - < 1050px: Mobile mode with tabs (Sources/Chat/Studio) - requires clicking tab
+//   - >= 1050px: Desktop mode with panels - all sections visible at once
+
+await mcp__playwright-cdp__browser_evaluate(
+  function: "() => window.innerWidth"
+)
+
+WINDOW_WIDTH = result  // e.g. 1920
+IS_MOBILE_MODE = WINDOW_WIDTH < 1050
+VIEWPORT_MODE = IS_MOBILE_MODE ? "mobile" : "desktop"
+
+console.log("Window width: " + WINDOW_WIDTH + "px")
+console.log("Mode: " + VIEWPORT_MODE + " (" + (IS_MOBILE_MODE ? "tabs layout" : "panels layout") + ")")
+```
+
+### Step 1.5: Deselect All Sources (Safety)
+
+```javascript
+// NOTE: By default all sources are selected in NotebookLM
+// Uncheck all sources using main "Select all sources" checkbox (for security)
+// This prevents accidental audio generation when clicking buttons
+
+try {
+  if (IS_MOBILE_MODE) {
+    // Mobile mode: Navigate to Sources tab first
+    console.log("Mobile mode: navigating to Sources tab")
+
+    await mcp__playwright-cdp__browser_snapshot()
+
+    // Find and click Sources tab
+    sources_tab = find_tab_with_text("sources")
+
+    if (sources_tab) {
+      await mcp__playwright-cdp__browser_click(
+        element: "Sources tab",
+        ref: sources_tab.ref
+      )
+      await mcp__playwright-cdp__browser_wait_for(time: 1)
+      console.log("✓ Sources tab opened")
+    } else {
+      console.log("⚠ Sources tab not found")
+    }
+  } else {
+    // Desktop mode: Sources panel already visible
+    console.log("Desktop mode: Sources panel already visible")
+  }
+
+  // Wait for checkboxes to be available
+  await mcp__playwright-cdp__browser_wait_for(time: 1)
+  await mcp__playwright-cdp__browser_snapshot()
+
+  // Find and click the "Select all sources" checkbox to deselect all
+  select_all_checkbox = find_first_checkbox()
+
+  if (select_all_checkbox && select_all_checkbox.checked) {
+    await mcp__playwright-cdp__browser_click(
+      element: "Select all sources checkbox",
+      ref: select_all_checkbox.ref
+    )
+    await mcp__playwright-cdp__browser_wait_for(time: 0.5)
+    console.log("✓ All sources deselected")
+  } else {
+    console.log("→ Sources already deselected")
+  }
+} catch (deselect_error) {
+  // Non-critical error, continue with download
+  console.log("⚠ Could not deselect sources (continuing anyway)")
+}
+```
+
+### Step 1.9: Navigate to Studio Tab/Panel
+
+```javascript
 // Navigate to Studio tab where generated audio is located
-await mcp__playwright-cdp__browser_click(element: "Studio tab", ref: "studio_tab_ref")
-await mcp__playwright-cdp__browser_snapshot()
+
+if (IS_MOBILE_MODE) {
+  // Mobile mode: Click Studio tab
+  console.log("Mobile mode: clicking Studio tab")
+
+  await mcp__playwright-cdp__browser_wait_for(time: 1)
+  await mcp__playwright-cdp__browser_snapshot()
+
+  // Find and click Studio tab
+  studio_tab = find_tab_with_text("studio")
+
+  if (!studio_tab) {
+    throw new Error("Studio tab not found in mobile mode")
+  }
+
+  await mcp__playwright-cdp__browser_click(
+    element: "Studio tab",
+    ref: studio_tab.ref
+  )
+  await mcp__playwright-cdp__browser_wait_for(time: 1)
+  console.log("✓ Studio tab clicked")
+} else {
+  // Desktop mode: Studio panel already visible
+  console.log("Desktop mode: Studio panel already visible")
+  await mcp__playwright-cdp__browser_wait_for(time: 1)
+}
 ```
 
 ### Step 2: Search for Audio for Specific Language
@@ -291,11 +423,14 @@ if (deletion_check.startsWith("CAN_DELETE_FROM_NOTEBOOK")) {
 - **CRITICAL**: Dynamic NotebookLM URL selection based on book number
 - **CRITICAL**: cc-au-notebooklm list with subitems
 - **CRITICAL**: Uses saved titles from nb_au_title property if they exist
+- **CRITICAL**: Viewport detection at 1050px boundary (mobile vs desktop mode)
+- **CRITICAL**: Source deselection for safety (prevents accidental generation)
 - DO NOT READ BINARY mp4 m4a files! You will get "Error executing tool read_file: File size exceeds the 20MB limit"
 - File structure: books/[book]/audio/[book]_[lang].mp4
 - Uses find_next_download_task.py script to find tasks
 - Files organized by languages for easier management
 - System saves file path as property for tracking
+- Adaptive navigation: tabs in mobile mode, panels in desktop mode
 
 ## Error Handling
 

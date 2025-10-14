@@ -155,7 +155,7 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase1" ]; then
 
     # Run with timeout (max 60s)
     set +e
-    AUDIO_RESULT=$(timeout 60 npx ts-node "$SCRIPT_DIR/collect-audio-list.ts" "$NOTEBOOK_URL" 2>&1)
+    AUDIO_RESULT_OUTPUT=$(timeout 60 npx ts-node "$SCRIPT_DIR/collect-audio-list.ts" "$WORK_DIR" 2>&1)
     EXIT_CODE=$?
     set -e
 
@@ -165,17 +165,28 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase1" ]; then
     fi
 
     if [ $EXIT_CODE -eq 0 ]; then
-      # Extract JSON from output (find last complete JSON object)
-      AUDIO_JSON=$(echo "$AUDIO_RESULT" | awk '/^{/,0')
-      AUDIO_COUNT=$(echo "$AUDIO_JSON" | jq '.audio | length' 2>/dev/null || echo "0")
+      # The result is now a path to a JSON file
+      AUDIO_JSON_PATH=$(echo "$AUDIO_RESULT_OUTPUT" | tail -n 1)
+
+      if [ ! -f "$AUDIO_JSON_PATH" ]; then
+        echo "    ⚠ Script succeeded but output file path was not found: $AUDIO_JSON_PATH"
+        echo "    → Full output: $AUDIO_RESULT_OUTPUT"
+        continue
+      fi
+
+      AUDIO_COUNT=$(jq '.audio | length' "$AUDIO_JSON_PATH" 2>/dev/null || echo "0")
       echo "    ✓ Found $AUDIO_COUNT audio items"
 
-      # Append to all_audio.json
-      jq -s '.[0] + [.[1]]' "$ALL_AUDIO_JSON" <(echo "$AUDIO_JSON") > "$ALL_AUDIO_JSON.tmp"
+      # Append to all_audio.json by merging the file content
+      # Now we need to get the notebook_url from within the JSON file itself
+      NOTEBOOK_URL_FROM_FILE=$(jq -r '.notebook_url' "$AUDIO_JSON_PATH")
+      TEMP_JSON=$(jq --arg url "$NOTEBOOK_URL_FROM_FILE" '. | .notebook_url = $url' "$AUDIO_JSON_PATH")
+
+      jq -s '.[0] + [.[1]]' "$ALL_AUDIO_JSON" <(echo "$TEMP_JSON") > "$ALL_AUDIO_JSON.tmp"
       mv "$ALL_AUDIO_JSON.tmp" "$ALL_AUDIO_JSON"
     else
       echo "    ⚠ Failed to collect audio from this notebook"
-      echo "    Error: $(echo "$AUDIO_RESULT" | grep -E "(Error|✗)" | head -3)"
+      echo "    Error: $(echo "$AUDIO_RESULT_OUTPUT" | grep -E "(Error|✗)" | head -3)"
     fi
   done
 

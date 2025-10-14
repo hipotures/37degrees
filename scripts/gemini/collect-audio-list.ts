@@ -16,6 +16,9 @@
 
 import { chromium, BrowserContext, Page } from 'playwright';
 import * as net from 'net';
+import * as fs from 'fs';
+import * as path from 'path';
+
 
 // ============================================================================
 // TYPES
@@ -71,11 +74,29 @@ async function isPortOpen(port: number): Promise<boolean> {
   });
 }
 
+function findAudioItemsInSnapshot(node: any, foundItems: AudioItem[] = []): AudioItem[] {
+  // Heuristic: Buttons with non-empty names in the accessibility tree are potential audio items.
+  // The name is used as both the title for matching and the ref for later interaction.
+  if (node.role === 'button' && node.name) {
+    foundItems.push({
+      title: node.name,
+      ref: node.name,
+    });
+  }
+
+  if (node.children) {
+    for (const child of node.children) {
+      findAudioItemsInSnapshot(child, foundItems);
+    }
+  }
+  return foundItems;
+}
+
 // ============================================================================
 // MAIN FUNCTION
 // ============================================================================
 
-async function collectAudioList(notebookUrl: string): Promise<CollectionResult> {
+async function collectAudioList(): Promise<any> {
   let browser: BrowserContext | null = null;
   let page: Page | null = null;
   let useCDP = false;
@@ -114,7 +135,6 @@ async function collectAudioList(notebookUrl: string): Promise<CollectionResult> 
 
     } else {
       console.error(`  → Launching new browser instance (headless)`);
-
       browser = await chromium.launchPersistentContext(CONFIG.userDataDir, {
         headless: true,
         viewport: { width: 1920, height: 1080 },
@@ -131,7 +151,8 @@ async function collectAudioList(notebookUrl: string): Promise<CollectionResult> 
     // PHASE 2: Navigate to NotebookLM
     // ========================================================================
 
-    console.error('[2/4] Navigating to NotebookLM...');
+    console.error('[2/4] Using active page (navigation is disabled)...');
+    /*
     console.error(`  → URL: ${notebookUrl}`);
 
     await page.goto(notebookUrl, {
@@ -140,6 +161,7 @@ async function collectAudioList(notebookUrl: string): Promise<CollectionResult> 
     });
 
     await page.waitForTimeout(3000);
+    */
 
     const isLoginRequired = await page.locator('text="Sign in"').isVisible().catch(() => false);
     if (isLoginRequired) {
@@ -149,115 +171,96 @@ async function collectAudioList(notebookUrl: string): Promise<CollectionResult> 
     console.error('  ✓ NotebookLM loaded');
 
     // ========================================================================
-    // PHASE 2.5: Switch to Studio tab (mobile only)
+    // PHASE 2.1: Detect viewport mode (mobile vs desktop)
     // ========================================================================
 
-    const isMobile = await page.evaluate(() => /Mobi|Android/i.test(navigator.userAgent));
+    console.error('[2.1/4] Detecting viewport mode...');
 
-    if (isMobile) {
-      console.error('[2.5/4] Mobile detected - switching to Studio tab...');
+    const windowWidth = await page.evaluate(() => window.innerWidth);
+    const isMobileMode = windowWidth < 1050;
+    const viewportMode = isMobileMode ? 'mobile' : 'desktop';
 
-      const studioTab = page.locator('[role="tab"]').filter({ hasText: 'Studio' }).first();
+    console.error(`  → Window width: ${windowWidth}px`);
+    console.error(`  → Mode: ${viewportMode} (${isMobileMode ? 'tabs layout' : 'panels layout'})`);
 
-      const studioVisible = await studioTab.isVisible({ timeout: 2000 }).catch(() => false);
+    // ========================================================================
+    // PHASE 2.5: Deselect all sources for safety
+    // ========================================================================
 
-      if (studioVisible) {
+    console.error('[2.5/4] Deselecting all sources...');
+
+    try {
+      if (isMobileMode) {
+        console.error('  → Mobile mode: navigating to Sources tab');
+        const sourcesTab = page.locator('[role="tab"]').filter({ hasText: /sources/i }).first();
+        const sourcesTabExists = await sourcesTab.isVisible().catch(() => false);
+        if (sourcesTabExists) {
+          await sourcesTab.click();
+          await page.waitForTimeout(1000);
+          console.error('  ✓ Sources tab opened');
+        } else {
+          console.error('  ⚠ Sources tab not found');
+        }
+      } else {
+        console.error('  → Desktop mode: Sources panel already visible');
+      }
+
+      await page.waitForTimeout(1000);
+      const selectAllCheckbox = page.locator('input[type="checkbox"]').first();
+      const isCheckboxVisible = await selectAllCheckbox.isVisible().catch(() => false);
+      if (isCheckboxVisible) {
+        const isChecked = await selectAllCheckbox.isChecked().catch(() => false);
+        if (isChecked) {
+          await selectAllCheckbox.click();
+          await page.waitForTimeout(500);
+          console.error('  ✓ All sources deselected');
+        } else {
+          console.error('  → Sources already deselected');
+        }
+      } else {
+        console.error('  → Select all checkbox not found (might be optional)');
+      }
+    } catch (deselectError) {
+      console.error('  ⚠ Could not deselect sources (continuing anyway)');
+    }
+
+    // ========================================================================
+    // PHASE 2.9: Navigate to Studio
+    // ========================================================================
+
+    console.error('[2.9/4] Navigating to Studio...');
+
+    if (isMobileMode) {
+      console.error('  → Mobile mode: clicking Studio tab');
+      try {
+        await page.waitForTimeout(1000);
+        const studioTab = page.locator('[role="tab"]').filter({ hasText: /studio/i }).first();
+        const tabExists = await studioTab.isVisible().catch(() => false);
+        if (!tabExists) {
+          throw new Error('Studio tab not found in mobile mode');
+        }
         await studioTab.click();
         await page.waitForTimeout(1000);
-        console.error('  ✓ Switched to Studio tab');
-      } else {
-        console.error('  ⚠ Studio tab not found (may be already selected)');
+        console.error('  ✓ Studio tab clicked');
+      } catch (tabError) {
+        console.error(`  ⚠ Could not click Studio tab: ${tabError}`);
+        throw new Error('Failed to navigate to Studio in mobile mode');
       }
     } else {
-      console.error('[2.5/4] Desktop mode - Studio panel already visible');
-    }
-
-    // ========================================================================
-    // PHASE 3: Take snapshot and parse audio list
-    // ========================================================================
-
-    console.error('[3/4] Collecting audio list...');
-
-    // Wait for initial load
-    await page.waitForTimeout(2000);
-
-    // Scroll to bottom to trigger lazy loading of all audio items
-    console.error('  → Scrolling to load all audio items...');
-    let previousHeight = 0;
-    let currentHeight = await page.evaluate(() => document.body.scrollHeight);
-    let scrollAttempts = 0;
-    const maxScrollAttempts = 20;
-
-    while (previousHeight !== currentHeight && scrollAttempts < maxScrollAttempts) {
-      previousHeight = currentHeight;
-      await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+      console.error('  → Desktop mode: Studio panel already visible');
       await page.waitForTimeout(1000);
-      currentHeight = await page.evaluate(() => document.body.scrollHeight);
-      scrollAttempts++;
-      console.error(`    → Scroll ${scrollAttempts}: height ${currentHeight}`);
     }
 
-    console.error(`  ✓ Scrolling completed after ${scrollAttempts} attempts`);
-    await page.waitForTimeout(2000);
-
-    // Take accessibility snapshot
-    const snapshot = await page.locator('body').ariaSnapshot();
-
-    console.error('  → Parsing snapshot...');
-
-    // Parse snapshot to find audio buttons
-    // Audio appears as: button "Title Deep dive · 1 source · 4h ago Play More"
-    const audioList: AudioItem[] = [];
-
-    const lines = snapshot.split('\n');
-    for (let i = 0; i < lines.length; i++) {
-      const line = lines[i];
-
-      // Look for audio button pattern
-      // Pattern: - button "Title Deep dive · ... Play More"
-      const buttonMatch = line.match(/^\s*- button "([^"]+)"/);
-      if (buttonMatch) {
-        const fullText = buttonMatch[1];
-
-        // Audio buttons contain "Deep dive" and end with "Play More"
-        if (fullText.includes('Deep dive') && fullText.includes('Play More')) {
-          // Extract clean title by removing metadata
-          // "Title Deep dive · 1 source · 4h ago Play More" -> "Title"
-          const cleanTitle = fullText
-            .replace(/\s+Deep dive.*$/, '')  // Remove from "Deep dive" to end
-            .trim();
-
-          audioList.push({
-            title: cleanTitle,
-            ref: `audio-${audioList.length}`,  // Sequential ref
-          });
-        }
-      }
-    }
-
-    console.error(`  ✓ Found ${audioList.length} audio items`);
-
     // ========================================================================
-    // PHASE 4: Return result
+    // PHASE 3: Take JSON snapshot
     // ========================================================================
 
-    console.error('[4/4] Collection completed');
+    console.error('[3/4] Taking JSON snapshot...');
+    await page.waitForTimeout(3000);
+    const jsonSnapshot = await page.accessibility.snapshot();
+    console.error('  ✓ JSON snapshot captured');
 
-    return {
-      success: true,
-      notebook_url: notebookUrl,
-      audio: audioList
-    };
-
-  } catch (error: any) {
-    console.error(`✗ Error: ${error.message}`);
-
-    return {
-      success: false,
-      notebook_url: notebookUrl,
-      audio: [],
-      error: error.message
-    };
+    return jsonSnapshot;
 
   } finally {
     if (browser && !useCDP) {
@@ -277,23 +280,32 @@ async function main() {
   const args = process.argv.slice(2);
 
   if (args.length < 1) {
-    console.error('Usage: npx ts-node scripts/gemini/collect-audio-list.ts <notebookUrl>');
-    console.error('Example: npx ts-node scripts/gemini/collect-audio-list.ts https://notebooklm.google.com/notebook/xxx');
+    console.error('Usage: npx ts-node scripts/gemini/collect-audio-list.ts <workDir>');
+    console.error('Example: npx ts-node scripts/gemini/collect-audio-list.ts /tmp/audio-batch-XYZ');
     process.exit(1);
   }
 
-  const notebookUrl = args[0];
+  const workDir = args[0];
 
-  console.error(`\n=== NotebookLM Audio Collection ===`);
-  console.error(`Notebook: ${notebookUrl}`);
+  console.error(`\n=== NotebookLM Snapshotting ===`);
+  console.error(`Taking snapshot of active tab...`);
+  console.error(`Work Dir: ${workDir}`);
   console.error('');
 
-  const result = await collectAudioList(notebookUrl);
+  try {
+    const snapshot = await collectAudioList();
 
-  // Output JSON to stdout
-  console.log(JSON.stringify(result, null, 2));
+    const outputFilename = `snapshot-studio.json`;
+    const outputPath = path.join(workDir, outputFilename);
 
-  process.exit(result.success ? 0 : 1);
+    fs.writeFileSync(outputPath, JSON.stringify(snapshot, null, 2), 'utf-8');
+
+    console.log(outputPath);
+    process.exit(0);
+  } catch (error: any) {
+    console.error(`✗ Error: ${error.message}`);
+    process.exit(1);
+  }
 }
 
 if (require.main === module) {

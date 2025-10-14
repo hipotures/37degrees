@@ -15,8 +15,8 @@
 # - Pozostaw puste aby przetworzyć wszystkie media
 # - Ustaw liczby aby ograniczyć zakres (np. od 1 do 7)
 
-MEDIA_START_RANGE="74"      # Początek zakresu (np. 1 dla m00001_xxx)
-MEDIA_END_RANGE="84"        # Koniec zakresu (np. 7 dla m00007_xxx)
+MEDIA_START_RANGE="114"      # Początek zakresu (np. 1 dla m00001_xxx)
+MEDIA_END_RANGE="124"        # Koniec zakresu (np. 7 dla m00007_xxx)
 
 # =============================================================================
 # ŁADOWANIE BIBLIOTEKI I INICJALIZACJA
