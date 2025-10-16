@@ -274,8 +274,29 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase2" ]; then
       FILENAME=$(basename "$FILE_PATH")
       echo "  ✓ Downloaded: $FILENAME"
     else
-      ERROR=$(echo "$DOWNLOAD_JSON" | jq -r '.error' | head -c 100)
+      ERROR=$(echo "$DOWNLOAD_JSON" | jq -r '.error // "Unknown error"' | head -c 100)
       echo "  ✗ Failed: $ERROR"
+
+      if [ "$DRY_RUN" != "true" ]; then
+        SUBITEM="audio_dwn_$LANG"
+        echo "  → Marking TODOIT as failed..."
+
+        set +e
+        TODOIT_OUTPUT=$("$SCRIPT_DIR/todoit-write-download-result.sh" \
+          "$BOOK_KEY" "$SUBITEM" "failed" "" "$ERROR" 2>&1)
+        TODOIT_EXIT=$?
+        set -e
+
+        if [ $TODOIT_EXIT -ne 0 ]; then
+          echo "    Debug: $TODOIT_OUTPUT"
+        fi
+
+        if [ $TODOIT_EXIT -eq 0 ]; then
+          echo "  ✓ TODOIT updated (failed)"
+        else
+          echo "  ⚠ TODOIT update failed (download failure logged locally)"
+        fi
+      fi
     fi
 
     # Rate limiting
@@ -506,9 +527,18 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase4" ] || [ "$RESUME_FROM" = 
     while IFS= read -r mapping; do
       VERIFICATION_INDEX=$((VERIFICATION_INDEX + 1))
 
-      DEST=$(echo "$mapping" | jq -r '.target_path')
       BOOK_KEY=$(echo "$mapping" | jq -r '.book_key')
       LANG=$(echo "$mapping" | jq -r '.language_code')
+      NOTEBOOK_DELETED=$(echo "$mapping" | jq -r '.notebook_deleted // false')
+
+      if [ "$NOTEBOOK_DELETED" = "true" ]; then
+        UPDATED_MAPPING="$mapping"
+        UPDATED_MAPPINGS=$(echo "$UPDATED_MAPPINGS" | jq --argjson new "$UPDATED_MAPPING" '. += [$new]')
+        echo "[$VERIFICATION_INDEX] ℹ $BOOK_KEY ($LANG) - Already deleted, skipping safety check"
+        continue
+      fi
+
+      DEST=$(echo "$mapping" | jq -r '.target_path')
 
       # Run can_delete_file.sh immediately while file is fresh (< 5 min)
       DELETION_CHECK=$(bash "$SCRIPT_DIR/../internal/can_delete_file.sh" "$DEST" 2>&1)
@@ -563,8 +593,10 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase4" ] || [ "$RESUME_FROM" = 
     else
       echo "[5.1] Deleting audio from NotebookLM..."
 
-      # Initialize deletions log
-      echo "[]" > "$DELETIONS_JSON"
+      # Initialize deletions log (preserve previous entries if present)
+      if [ ! -f "$DELETIONS_JSON" ]; then
+        echo "[]" > "$DELETIONS_JSON"
+      fi
 
       DELETION_INDEX=0
       MAPPINGS=$(jq -c '.mappings[]' "$FILE_MAPPING_JSON" 2>/dev/null)
@@ -589,6 +621,12 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase4" ] || [ "$RESUME_FROM" = 
 
         # Check deletion safety result from Phase 4.5
         DELETION_CHECK=$(echo "$mapping" | jq -r '.deletion_check // "NOT_CHECKED"')
+        NOTEBOOK_DELETED=$(echo "$mapping" | jq -r '.notebook_deleted // false')
+
+        if [ "$NOTEBOOK_DELETED" = "true" ]; then
+          echo "[$DELETION_INDEX/$MAPPING_COUNT] Skipping: $BOOK_KEY ($LANG) - already deleted"
+          continue
+        fi
 
         if [ "$DELETION_CHECK" != "CAN_DELETE_FROM_NOTEBOOK" ]; then
           continue
@@ -598,7 +636,9 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase4" ] || [ "$RESUME_FROM" = 
         echo "  → Audio: ${AUDIO_TITLE:0:60}..."
 
         # Call delete script
-        DELETE_RESULT=$(echo "{\"book_key\":\"$BOOK_KEY\",\"language_code\":\"$LANG\",\"audio_title\":\"$AUDIO_TITLE\",\"notebook_url\":\"$NOTEBOOK_URL\"}" | npx ts-node "$SCRIPT_DIR/delete-audio-from-notebooklm.ts" --stdin 2>&1)
+        DELETE_PAYLOAD=$(jq -n --arg book "$BOOK_KEY" --arg lang "$LANG" --arg title "$AUDIO_TITLE" --arg url "$NOTEBOOK_URL" \
+          '{book_key: $book, language_code: $lang, audio_title: $title, notebook_url: $url}')
+        DELETE_RESULT=$(echo "$DELETE_PAYLOAD" | npx ts-node "$SCRIPT_DIR/delete-audio-from-notebooklm.ts" --stdin 2>&1)
         EXIT_CODE=$?
 
         # Extract JSON from output
@@ -610,9 +650,31 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase4" ] || [ "$RESUME_FROM" = 
 
         if [ $EXIT_CODE -eq 0 ]; then
           echo "  ✓ Deleted from NotebookLM"
+          jq --arg book "$BOOK_KEY" --arg lang "$LANG" '
+            .mappings = (.mappings | map(
+              if .book_key == $book and .language_code == $lang
+                then . + {notebook_deleted: true, deletion_check: "DELETED"}
+                else .
+              end
+            ))
+          ' "$FILE_MAPPING_JSON" > "$FILE_MAPPING_JSON.tmp"
+          mv "$FILE_MAPPING_JSON.tmp" "$FILE_MAPPING_JSON"
         else
           ERROR=$(echo "$DELETE_JSON" | jq -r '.error' | head -c 100)
-          echo "  ⚠ Delete failed: $ERROR"
+          if echo "$ERROR" | grep -qi "Audio not found"; then
+            echo "  ✓ Already deleted in NotebookLM"
+            jq --arg book "$BOOK_KEY" --arg lang "$LANG" '
+              .mappings = (.mappings | map(
+                if .book_key == $book and .language_code == $lang
+                  then . + {notebook_deleted: true, deletion_check: "DELETED"}
+                  else .
+                end
+              ))
+            ' "$FILE_MAPPING_JSON" > "$FILE_MAPPING_JSON.tmp"
+            mv "$FILE_MAPPING_JSON.tmp" "$FILE_MAPPING_JSON"
+          else
+            echo "  ⚠ Delete failed: $ERROR"
+          fi
         fi
 
         echo ""

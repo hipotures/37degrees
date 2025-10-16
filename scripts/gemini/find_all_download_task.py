@@ -13,7 +13,7 @@ from pathlib import Path
 
 TARGET_LIST = "cc-au-notebooklm"
 SUPPORTED_LANGUAGES = ["pl", "en", "es", "pt", "hi", "ja", "ko", "de", "fr"]
-MAX_BOOKS_TO_CHECK = 200  # Limit how many books to process (no practical limit)
+MAX_BOOKS_TO_CHECK = 45  # Limit how many books to process (no practical limit)
 
 def run_todoit_cmd(args):
     """Run todoit command with JSON output"""

@@ -36,25 +36,94 @@ interface SnapshotResult {
 // HELPER FUNCTIONS
 // ============================================================================
 
-function extractAudioFromSnapshot(snapshotText: string): AudioItem[] {
-  const audioItems: AudioItem[] = [];
+const YAML_BLOCK_REGEX = /Page Snapshot:\s*```yaml\s*([\s\S]*?)```/;
+const PAGE_URL_REGEX = /Page URL:\s*(\S+)/;
 
-  // Pattern: [ref=XXXX]: "Clean Title"
-  // Extract everything between [ref= and ]: " to the closing quote
-  const regex = /\[ref=([^\]]+)\]:\s*"([^"]+)"/g;
+function cleanLabelText(label: string): string {
+  const markers = [
+    ' Deep dive',
+    ' Interactive mode',
+    ' Q&A',
+    ' Playlist',
+    ' Play More',
+    ' Play'
+  ];
 
-  let match;
-  while ((match = regex.exec(snapshotText)) !== null) {
-    const ref = match[1];
-    const title = match[2];
+  let cleaned = label;
 
-    audioItems.push({
-      ref,
-      title
-    });
+  for (const marker of markers) {
+    const index = cleaned.indexOf(marker);
+    if (index !== -1) {
+      cleaned = cleaned.slice(0, index);
+    }
   }
 
-  return audioItems;
+  return cleaned.trim();
+}
+
+function extractAudioFromYaml(yamlText: string): AudioItem[] {
+  const lines = yamlText.split('\n');
+  const results: AudioItem[] = [];
+  const seen = new Set<string>();
+
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+
+    if (!line.startsWith('- button ') && !line.startsWith('- \'button ')) {
+      continue;
+    }
+
+    const match = line.match(/^- '?button "(.+)" \[ref=([^\]]+)\]/);
+    if (!match) {
+      continue;
+    }
+
+    const [, rawLabel, ref] = match;
+
+    if (!rawLabel.includes('Play')) {
+      continue;
+    }
+
+    const trimmedLabel = rawLabel.trim().toLowerCase();
+    if (trimmedLabel === 'play' || trimmedLabel === 'play more') {
+      continue;
+    }
+
+    const title = cleanLabelText(rawLabel);
+
+    if (!title || /^play\b/i.test(title) || seen.has(ref)) {
+      continue;
+    }
+
+    seen.add(ref);
+    results.push({ title, ref });
+  }
+
+  return results;
+}
+
+function parseNotebookUrl(snapshotOutput: string): string {
+  const urlMatch = snapshotOutput.match(PAGE_URL_REGEX);
+  if (urlMatch && urlMatch[1]) {
+    return urlMatch[1];
+  }
+  return 'https://notebooklm.google.com';
+}
+
+function parseSnapshotOutput(snapshotOutput: string): SnapshotResult {
+  const match = snapshotOutput.match(YAML_BLOCK_REGEX);
+
+  if (!match || !match[1]) {
+    throw new Error('Unable to locate YAML page snapshot block');
+  }
+
+  const audioItems = extractAudioFromYaml(match[1]);
+  const notebookUrl = parseNotebookUrl(snapshotOutput);
+
+  return {
+    notebook_url: notebookUrl,
+    audio: audioItems
+  };
 }
 
 // ============================================================================
@@ -79,9 +148,9 @@ async function collectAudioSnapshot(workDir: string, browserEndpoint: string): P
 
     console.error('[2/3] Extracting audio items from snapshot...');
 
-    const audioItems = extractAudioFromSnapshot(snapshotOutput);
+    const parsedResult = parseSnapshotOutput(snapshotOutput);
 
-    console.error(`  ✓ Found ${audioItems.length} audio items`);
+    console.error(`  ✓ Found ${parsedResult.audio.length} audio items`);
 
     // ========================================================================
     // PHASE 3: Format output
@@ -89,12 +158,9 @@ async function collectAudioSnapshot(workDir: string, browserEndpoint: string): P
 
     console.error('[3/3] Formatting output...');
 
-    const result: SnapshotResult = {
-      notebook_url: 'https://notebooklm.google.com',  // Placeholder, will be matched later
-      audio: audioItems
-    };
+    const result: SnapshotResult = parsedResult;
 
-    console.error(`  ✓ Formatted ${audioItems.length} items`);
+    console.error(`  ✓ Formatted ${parsedResult.audio.length} items`);
 
     return result;
 
@@ -153,4 +219,9 @@ if (require.main === module) {
   });
 }
 
-export { collectAudioSnapshot, AudioItem, SnapshotResult };
+export {
+  collectAudioSnapshot,
+  AudioItem,
+  SnapshotResult,
+  parseSnapshotOutput
+};
