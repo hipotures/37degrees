@@ -37,8 +37,8 @@ if [[ $file_size -le 1048576 ]]; then
     exit 1
 fi
 
-if [[ $time_diff -gt 300 ]]; then
-    echo "CANNOT_DELETE_FROM_NOTEBOOK:File is older than 5 minutes (${time_diff}s)"
+if [[ $time_diff -gt 3600 ]]; then
+    echo "CANNOT_DELETE_FROM_NOTEBOOK:File is older than 1 hour (${time_diff}s)"
     exit 1
 fi
 
