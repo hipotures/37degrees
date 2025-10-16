@@ -44,7 +44,7 @@ fi
 # ============================================================================
 
 if [ -n "$FILE_PATH" ]; then
-  OUTPUT=$(echo "y" | todoit item property set --list "$TARGET_LIST" --item "$SUBITEM_KEY" --parent "$BOOK_KEY" --key file_path --value "$FILE_PATH" 2>&1)
+  OUTPUT=$(echo "y" | todoit item property set --list "$TARGET_LIST" --item "$BOOK_KEY" --subitem "$SUBITEM_KEY" --key file_path --value "$FILE_PATH" 2>&1)
   if echo "$OUTPUT" | grep -q "❌"; then
     ERRORS+=("Failed to set file_path property: $OUTPUT")
   fi
@@ -57,7 +57,7 @@ fi
 if [ -n "$ERROR_MSG" ]; then
   # Truncate to 500 chars
   ERROR_TRUNCATED="${ERROR_MSG:0:500}"
-  OUTPUT=$(echo "y" | todoit item property set --list "$TARGET_LIST" --item "$SUBITEM_KEY" --parent "$BOOK_KEY" --key ERROR --value "$ERROR_TRUNCATED" 2>&1)
+  OUTPUT=$(echo "y" | todoit item property set --list "$TARGET_LIST" --item "$BOOK_KEY" --subitem "$SUBITEM_KEY" --key ERROR --value "$ERROR_TRUNCATED" 2>&1)
   if echo "$OUTPUT" | grep -q "❌"; then
     ERRORS+=("Failed to set error property: $OUTPUT")
   fi

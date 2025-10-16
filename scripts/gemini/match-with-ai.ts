@@ -34,6 +34,8 @@ interface Task {
   language_code: string;
   subitem_key: string;
   notebook_url: string;
+  title?: string;
+  author?: string;
 }
 
 interface AudioItem {
@@ -84,7 +86,7 @@ async function callGemini(
         input: prompt,
         encoding: 'utf-8',
         maxBuffer: 10 * 1024 * 1024,  // 10MB buffer
-        timeout: 60000  // 60s timeout
+        timeout: 180000  // 180s timeout (3 minutes for large prompts)
       });
 
       return result.trim();
@@ -109,11 +111,12 @@ async function callClaude(prompt: string, retries: number = 1): Promise<string> 
 
   for (let attempt = 1; attempt <= retries; attempt++) {
     try {
-      // Using claude CLI
-      const result = execSync(`claude "${prompt.replace(/"/g, '\\"')}"`, {
+      // Using claude CLI with flags via stdin to avoid argument length limits
+      const result = execSync(`claude --dangerously-skip-permissions --model haiku`, {
+        input: prompt,
         encoding: 'utf-8',
         maxBuffer: 10 * 1024 * 1024,  // 10MB buffer
-        timeout: 60000  // 60s timeout
+        timeout: 180000  // 180s timeout (3 minutes for large prompts)
       });
 
       return result.trim();
@@ -172,10 +175,12 @@ async function callAI(
 // ============================================================================
 
 function buildMatchingPrompt(tasks: Task[], allAudio: AudioCollection[]): string {
-  // Only send minimal fields to AI (book_key + language_code)
+  // Send book identifying fields: key, language, title, author
   const minimalTasks = tasks.map(t => ({
     book_key: t.book_key,
-    language_code: t.language_code
+    language_code: t.language_code,
+    title: t.title || '',
+    author: t.author || ''
   }));
 
   // Only send minimal audio fields (title + ref)
@@ -192,11 +197,13 @@ TASK: Match book download tasks with audio files from NotebookLM.
 
 RULES:
 1. Each task represents a book + language that needs audio download
-2. Match tasks to audio by book title + language
+2. Use title + author + language to match tasks to audio
 3. Audio titles are in the target language (e.g., "A Leste do Éden" for Portuguese)
-4. Book keys are in English (e.g., "0057_east_of_eden")
-5. One task can match audio from ANY notebook
-6. Return ONLY valid JSON array, no additional text
+4. Book tasks include: book_key (English), title (English), author (English), language_code
+5. Match by considering both original title/author and translated title
+6. One task can match audio from ANY notebook
+7. If titles match but different book, verify by author to disambiguate
+8. Return ONLY valid JSON array, no additional text
 
 TASKS (need download):
 ${JSON.stringify(minimalTasks, null, 2)}
@@ -212,7 +219,7 @@ Return ONLY a JSON array with minimal info needed for matching:
 
 Example:
 [
-  {"book_key": "0057_east_of_eden", "language_code": "pt", "audio_title": "A Leste do Éden..."}
+  {"book_key": "0057_east_of_eden", "language_code": "pt", "audio_title": "A Leste do Éden: Um Romance Épico"}
 ]
 
 Return [] if no matches. NO additional text or explanation.`;

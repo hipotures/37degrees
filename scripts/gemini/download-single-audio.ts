@@ -51,10 +51,10 @@ interface DownloadResult {
 
 const CONFIG = {
   userDataDir: '/home/xai/DEV/ms-playwright/mcp-chrome-profile-gemini',
-  downloadDir: '/tmp/playwright-mcp-output',
+  downloadDirBase: '/tmp/playwright-mcp-output',
   navigationTimeout: 30000,
   actionTimeout: 15000,
-  downloadWaitMax: 120,  // 2 minutes max wait for download
+  downloadWaitMax: 10,  // 10 seconds max wait for download
   screenshotDir: '/tmp',
   headless: true
 };
@@ -86,52 +86,90 @@ async function isPortOpen(port: number): Promise<boolean> {
   });
 }
 
+function buildDownloadDir(bookKey: string, languageCode: string): string {
+  return path.join(CONFIG.downloadDirBase, `${bookKey}_${languageCode}`);
+}
+
 function findNewestDownloadSubdir(): string | null {
-  if (!fs.existsSync(CONFIG.downloadDir)) {
+  if (!fs.existsSync(CONFIG.downloadDirBase)) {
     return null;
   }
 
-  const subdirs = fs.readdirSync(CONFIG.downloadDir)
+  const subdirs = fs.readdirSync(CONFIG.downloadDirBase)
     .filter(name => {
-      const fullPath = path.join(CONFIG.downloadDir, name);
+      const fullPath = path.join(CONFIG.downloadDirBase, name);
       return fs.statSync(fullPath).isDirectory();
     })
     .map(name => ({
       name,
-      path: path.join(CONFIG.downloadDir, name),
-      mtime: fs.statSync(path.join(CONFIG.downloadDir, name)).mtime.getTime()
+      path: path.join(CONFIG.downloadDirBase, name),
+      mtime: fs.statSync(path.join(CONFIG.downloadDirBase, name)).mtime.getTime()
     }))
     .sort((a, b) => b.mtime - a.mtime);
 
   return subdirs.length > 0 ? subdirs[0].path : null;
 }
 
-async function waitForDownload(downloadDir: string, maxWaitSeconds: number, timestampBefore: number): Promise<string | null> {
+async function waitForDownload(downloadDir: string, maxWaitSeconds: number): Promise<string | null> {
   const startTime = Date.now();
+  let lastStatus = '';
 
   while ((Date.now() - startTime) / 1000 < maxWaitSeconds) {
+    const elapsed = Math.round((Date.now() - startTime) / 1000);
+
     if (!fs.existsSync(downloadDir)) {
-      await new Promise(resolve => setTimeout(resolve, 2000));
+      if (lastStatus !== 'waiting_dir') {
+        console.error(`  ↳ [${elapsed}s] Waiting for download directory...`);
+        lastStatus = 'waiting_dir';
+      }
+      await new Promise(resolve => setTimeout(resolve, 500));
       continue;
     }
 
-    const files = fs.readdirSync(downloadDir)
-      .filter(f => f.endsWith('.mp4') || f.endsWith('.m4a'))
-      .map(f => ({
-        name: f,
-        path: path.join(downloadDir, f),
-        mtime: fs.statSync(path.join(downloadDir, f)).mtime.getTime()
-      }))
-      .filter(f => f.mtime >= timestampBefore)  // Only files newer than timestamp_before
-      .sort((a, b) => b.mtime - a.mtime);
+    try {
+      const files = fs.readdirSync(downloadDir)
+        .filter(f => {
+          const fullPath = path.join(downloadDir, f);
+          try {
+            return !fs.statSync(fullPath).isDirectory() && (f.endsWith('.mp4') || f.endsWith('.m4a'));
+          } catch {
+            return false;
+          }
+        });
 
-    if (files.length > 0) {
-      return files[0].path;
+      if (files.length === 1) {
+        const filePath = path.join(downloadDir, files[0]);
+        const fileSize = fs.statSync(filePath).size;
+        console.error(`  ✓ [${elapsed}s] Found file: ${files[0]} (${(fileSize / 1024 / 1024).toFixed(1)} MB)`);
+        return filePath;
+      } else if (files.length > 1) {
+        // Multiple files - this shouldn't happen with isolated download dirs
+        console.error(`  ⚠ [${elapsed}s] Found ${files.length} files (should be 1):`);
+        files.forEach(f => console.error(`    - ${f}`));
+        // Return the newest one
+        const newest = files
+          .map(f => ({
+            name: f,
+            path: path.join(downloadDir, f),
+            mtime: fs.statSync(path.join(downloadDir, f)).mtime.getTime()
+          }))
+          .sort((a, b) => b.mtime - a.mtime)[0];
+        return newest.path;
+      } else {
+        // No files yet
+        if (lastStatus !== 'waiting_files') {
+          console.error(`  ↳ [${elapsed}s] Waiting for files in directory...`);
+          lastStatus = 'waiting_files';
+        }
+      }
+    } catch (e) {
+      console.error(`  ⚠ [${elapsed}s] Error reading directory: ${e}`);
     }
 
-    await new Promise(resolve => setTimeout(resolve, 2000));
+    await new Promise(resolve => setTimeout(resolve, 500));
   }
 
+  console.error(`  ✗ Timeout after ${maxWaitSeconds}s - no file found`);
   return null;
 }
 
@@ -177,14 +215,6 @@ async function downloadSingleAudio(match: Match): Promise<DownloadResult> {
       }
 
       console.error(`  ✓ Connected to existing browser`);
-
-      // Set download behavior for CDP browser
-      const cdpSession = await browser.newCDPSession(page);
-      await cdpSession.send('Browser.setDownloadBehavior', {
-        behavior: 'allow',
-        downloadPath: CONFIG.downloadDir
-      });
-      console.error(`  → Download path set to: ${CONFIG.downloadDir}`);
 
     } else {
       console.error(`  → Launching new browser instance (headless)`);
@@ -381,8 +411,29 @@ async function downloadSingleAudio(match: Match): Promise<DownloadResult> {
     console.error('  → Waiting for Download button...');
     await downloadMenuItem.waitFor({ state: 'visible', timeout: 5000 });
 
-    const downloadSubdir = findNewestDownloadSubdir() || CONFIG.downloadDir;
+    // Build download directory specific to this book and language
+    const downloadSubdir = buildDownloadDir(match.book_key, match.language_code);
+
+    // Create download directory if it doesn't exist
+    if (!fs.existsSync(downloadSubdir)) {
+      fs.mkdirSync(downloadSubdir, { recursive: true });
+    }
+
     console.error(`  → Download directory: ${downloadSubdir}`);
+
+    // Set download behavior for CDP browser (BEFORE clicking download)
+    if (useCDP && browser) {
+      try {
+        const cdpSession = await browser.newCDPSession(page);
+        await cdpSession.send('Browser.setDownloadBehavior', {
+          behavior: 'allow',
+          downloadPath: downloadSubdir
+        });
+        console.error(`  → CDP download path configured`);
+      } catch (cdpError) {
+        console.error(`  ⚠ Could not configure CDP download path: ${cdpError}`);
+      }
+    }
 
     await downloadMenuItem.click();
     await page.waitForTimeout(2000);
@@ -395,7 +446,7 @@ async function downloadSingleAudio(match: Match): Promise<DownloadResult> {
 
     console.error('[5/8] Waiting for download...');
 
-    const downloadedFile = await waitForDownload(downloadSubdir, CONFIG.downloadWaitMax, timestampBefore);
+    const downloadedFile = await waitForDownload(downloadSubdir, CONFIG.downloadWaitMax);
 
     timestampAfter = Date.now();
 

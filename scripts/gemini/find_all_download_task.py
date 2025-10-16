@@ -8,10 +8,12 @@ import subprocess
 import sys
 import json
 import os
+import yaml
+from pathlib import Path
 
 TARGET_LIST = "cc-au-notebooklm"
 SUPPORTED_LANGUAGES = ["pl", "en", "es", "pt", "hi", "ja", "ko", "de", "fr"]
-MAX_BOOKS_TO_CHECK = 20  # Limit how many books to process
+MAX_BOOKS_TO_CHECK = 200  # Limit how many books to process (no practical limit)
 
 def run_todoit_cmd(args):
     """Run todoit command with JSON output"""
@@ -35,6 +37,27 @@ def get_notebook_url(book_number):
     else:
         return None
 
+def get_book_info(book_key):
+    """Get title and author from book.yaml"""
+    # Construct path to book.yaml
+    project_root = Path(__file__).parent.parent.parent
+    book_yaml_path = project_root / "books" / book_key / "book.yaml"
+
+    try:
+        if book_yaml_path.exists():
+            with open(book_yaml_path, 'r', encoding='utf-8') as f:
+                data = yaml.safe_load(f)
+                if data and 'book_info' in data:
+                    info = data['book_info']
+                    return {
+                        'title': info.get('title', ''),
+                        'author': info.get('author', '')
+                    }
+    except Exception:
+        pass
+
+    return {'title': '', 'author': ''}
+
 def get_books_with_pending_downloads():
     """Get books that have at least one pending audio_dwn (quick filter)"""
     books = set()
@@ -46,7 +69,7 @@ def get_books_with_pending_downloads():
             "item", "find-status", "--list", TARGET_LIST,
             "--status", "pending",
             "--complex", f'{{"{dwn_key}": "pending"}}',
-            "--limit", "30"
+            "--limit", "200"
         ])
 
         if returncode == 0:
@@ -101,6 +124,7 @@ def find_all_downloads_in_book(book_key):
         downloads = []
         book_number = int(book_key[:4])
         notebook_url = get_notebook_url(book_number)
+        book_info = get_book_info(book_key)
 
         for lang in SUPPORTED_LANGUAGES:
             gen_key = f"audio_gen_{lang}"
@@ -116,6 +140,8 @@ def find_all_downloads_in_book(book_key):
                     "language_code": lang,
                     "subitem_key": dwn_key,
                     "notebook_url": notebook_url,
+                    "title": book_info['title'],
+                    "author": book_info['author'],
                     "status": "found"
                 })
 

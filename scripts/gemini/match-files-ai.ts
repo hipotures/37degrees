@@ -81,7 +81,7 @@ async function callGemini(
         input: prompt,
         encoding: 'utf-8',
         maxBuffer: 10 * 1024 * 1024,
-        timeout: 60000  // 60s timeout
+        timeout: 180000  // 180s timeout (3 minutes for large prompts)
       });
 
       return result.trim();
@@ -106,10 +106,12 @@ async function callClaude(prompt: string, retries: number = 1): Promise<string> 
 
   for (let attempt = 1; attempt <= retries; attempt++) {
     try {
-      const result = execSync(`claude "${prompt.replace(/"/g, '\\"')}"`, {
+      // Using claude CLI with flags via stdin to avoid argument length limits
+      const result = execSync(`claude --dangerously-skip-permissions --model haiku`, {
+        input: prompt,
         encoding: 'utf-8',
         maxBuffer: 10 * 1024 * 1024,
-        timeout: 60000  // 60s timeout
+        timeout: 180000  // 180s timeout (3 minutes for large prompts)
       });
 
       return result.trim();
