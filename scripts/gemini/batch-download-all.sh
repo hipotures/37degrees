@@ -493,51 +493,51 @@ fi
 if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase4" ] || [ "$RESUME_FROM" = "phase4.5" ]; then
   echo "=== PHASE 4.5: Verify Deletion Safety ==="
   if [ "$DRY_RUN" = "true" ]; then
-  echo "ℹ DRY_RUN mode: Safety check skipped"
-  echo ""
-else
-  echo "[4.5.1] Checking deletion safety for each file..."
-  echo ""
+    echo "ℹ DRY_RUN mode: Safety check skipped"
+    echo ""
+  else
+    echo "[4.5.1] Checking deletion safety for each file..."
+    echo ""
 
-  FILE_MAPPING_JSON="$WORK_DIR/file-mapping.json"
-  UPDATED_MAPPINGS="[]"
+    FILE_MAPPING_JSON="$WORK_DIR/file-mapping.json"
+    UPDATED_MAPPINGS="[]"
 
-  VERIFICATION_INDEX=0
-  while IFS= read -r mapping; do
-    VERIFICATION_INDEX=$((VERIFICATION_INDEX + 1))
+    VERIFICATION_INDEX=0
+    while IFS= read -r mapping; do
+      VERIFICATION_INDEX=$((VERIFICATION_INDEX + 1))
 
-    DEST=$(echo "$mapping" | jq -r '.target_path')
-    BOOK_KEY=$(echo "$mapping" | jq -r '.book_key')
-    LANG=$(echo "$mapping" | jq -r '.language_code')
+      DEST=$(echo "$mapping" | jq -r '.target_path')
+      BOOK_KEY=$(echo "$mapping" | jq -r '.book_key')
+      LANG=$(echo "$mapping" | jq -r '.language_code')
 
-    # Run can_delete_file.sh immediately while file is fresh (< 5 min)
-    DELETION_CHECK=$(bash "$SCRIPT_DIR/../internal/can_delete_file.sh" "$DEST" 2>&1)
-    DELETION_CHECK_TIMESTAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+      # Run can_delete_file.sh immediately while file is fresh (< 5 min)
+      DELETION_CHECK=$(bash "$SCRIPT_DIR/../internal/can_delete_file.sh" "$DEST" 2>&1)
+      DELETION_CHECK_TIMESTAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)
 
-    # Add deletion_check to mapping
-    UPDATED_MAPPING=$(echo "$mapping" | jq \
-      --arg check "$DELETION_CHECK" \
-      --arg timestamp "$DELETION_CHECK_TIMESTAMP" \
-      '. += {deletion_check: $check, deletion_check_time: $timestamp}')
+      # Add deletion_check to mapping
+      UPDATED_MAPPING=$(echo "$mapping" | jq \
+        --arg check "$DELETION_CHECK" \
+        --arg timestamp "$DELETION_CHECK_TIMESTAMP" \
+        '. += {deletion_check: $check, deletion_check_time: $timestamp}')
 
-    # Append to updated array
-    UPDATED_MAPPINGS=$(echo "$UPDATED_MAPPINGS" | jq --argjson new "$UPDATED_MAPPING" '. += [$new]')
+      # Append to updated array
+      UPDATED_MAPPINGS=$(echo "$UPDATED_MAPPINGS" | jq --argjson new "$UPDATED_MAPPING" '. += [$new]')
 
-    # Show status
-    if [ "$DELETION_CHECK" = "CAN_DELETE_FROM_NOTEBOOK" ]; then
-      echo "[$VERIFICATION_INDEX] ✓ $BOOK_KEY ($LANG) - Can delete"
-    else
-      REASON=$(echo "$DELETION_CHECK" | cut -d':' -f2 | cut -c1-50)
-      echo "[$VERIFICATION_INDEX] ⚠ $BOOK_KEY ($LANG) - Cannot delete: $REASON"
-    fi
-  done < <(jq -c '.mappings[]' "$FILE_MAPPING_JSON")
+      # Show status
+      if [ "$DELETION_CHECK" = "CAN_DELETE_FROM_NOTEBOOK" ]; then
+        echo "[$VERIFICATION_INDEX] ✓ $BOOK_KEY ($LANG) - Can delete"
+      else
+        REASON=$(echo "$DELETION_CHECK" | cut -d':' -f2 | cut -c1-50)
+        echo "[$VERIFICATION_INDEX] ⚠ $BOOK_KEY ($LANG) - Cannot delete: $REASON"
+      fi
+    done < <(jq -c '.mappings[]' "$FILE_MAPPING_JSON")
 
-  # Save updated mappings back to file
-  echo "{\"success\": true, \"mappings\": $UPDATED_MAPPINGS}" > "$FILE_MAPPING_JSON"
+    # Save updated mappings back to file
+    echo "{\"success\": true, \"mappings\": $UPDATED_MAPPINGS}" > "$FILE_MAPPING_JSON"
 
-  echo ""
-  echo "  ✓ Phase 4.5 completed: All files verified"
-  echo ""
+    echo ""
+    echo "  ✓ Phase 4.5 completed: All files verified"
+    echo ""
   fi
 fi
 
@@ -551,78 +551,78 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase4" ] || [ "$RESUME_FROM" = 
     echo "ℹ DRY_RUN mode: Deletion skipped"
     echo ""
   else
-  echo ""
-
-  FILE_MAPPING_JSON="$WORK_DIR/file-mapping.json"
-  MATCHING_JSON="$WORK_DIR/matching.json"
-  DELETIONS_JSON="$WORK_DIR/deletions.json"
-
-  if [ ! -f "$FILE_MAPPING_JSON" ] || [ ! -f "$MATCHING_JSON" ]; then
-    echo "⚠ Skipping Phase 5: Missing mapping or matching data"
     echo ""
-  else
-    echo "[5.1] Deleting audio from NotebookLM..."
 
-    # Initialize deletions log
-    echo "[]" > "$DELETIONS_JSON"
+    FILE_MAPPING_JSON="$WORK_DIR/file-mapping.json"
+    MATCHING_JSON="$WORK_DIR/matching.json"
+    DELETIONS_JSON="$WORK_DIR/deletions.json"
 
-    DELETION_INDEX=0
-    MAPPINGS=$(jq -c '.mappings[]' "$FILE_MAPPING_JSON" 2>/dev/null)
-    MAPPING_COUNT=$(echo "$MAPPINGS" | wc -l)
-
-    while IFS= read -r mapping; do
-      DELETION_INDEX=$((DELETION_INDEX + 1))
-
-      BOOK_KEY=$(echo "$mapping" | jq -r '.book_key')
-      LANG=$(echo "$mapping" | jq -r '.language_code')
-
-      # Find matching audio info (title, url) from matching.json
-      MATCH_INFO=$(jq -c ".matches[] | select(.book_key == \"$BOOK_KEY\" and .language_code == \"$LANG\") | {audio_title, notebook_url}" "$MATCHING_JSON" 2>/dev/null | head -1)
-
-      if [ -z "$MATCH_INFO" ] || [ "$MATCH_INFO" = "null" ]; then
-        echo "[$DELETION_INDEX/$MAPPING_COUNT] Skipping: $BOOK_KEY ($LANG) - no match found"
-        continue
-      fi
-
-      AUDIO_TITLE=$(echo "$MATCH_INFO" | jq -r '.audio_title')
-      NOTEBOOK_URL=$(echo "$MATCH_INFO" | jq -r '.notebook_url')
-
-      # Check deletion safety result from Phase 4.5
-      DELETION_CHECK=$(echo "$mapping" | jq -r '.deletion_check // "NOT_CHECKED"')
-
-      if [ "$DELETION_CHECK" != "CAN_DELETE_FROM_NOTEBOOK" ]; then
-        continue
-      fi
-
-      echo "[$DELETION_INDEX/$MAPPING_COUNT] Deleting: $BOOK_KEY ($LANG)"
-      echo "  → Audio: ${AUDIO_TITLE:0:60}..."
-
-      # Call delete script
-      DELETE_RESULT=$(echo "{\"book_key\":\"$BOOK_KEY\",\"language_code\":\"$LANG\",\"audio_title\":\"$AUDIO_TITLE\",\"notebook_url\":\"$NOTEBOOK_URL\"}" | npx ts-node "$SCRIPT_DIR/delete-audio-from-notebooklm.ts" --stdin 2>&1)
-      EXIT_CODE=$?
-
-      # Extract JSON from output
-      DELETE_JSON=$(echo "$DELETE_RESULT" | awk '/^{/,0')
-
-      # Append to deletions.json
-      jq -s '.[0] + [.[1]]' "$DELETIONS_JSON" <(echo "$DELETE_JSON") > "$DELETIONS_JSON.tmp"
-      mv "$DELETIONS_JSON.tmp" "$DELETIONS_JSON"
-
-      if [ $EXIT_CODE -eq 0 ]; then
-        echo "  ✓ Deleted from NotebookLM"
-      else
-        ERROR=$(echo "$DELETE_JSON" | jq -r '.error' | head -c 100)
-        echo "  ⚠ Delete failed: $ERROR"
-      fi
-
+    if [ ! -f "$FILE_MAPPING_JSON" ] || [ ! -f "$MATCHING_JSON" ]; then
+      echo "⚠ Skipping Phase 5: Missing mapping or matching data"
       echo ""
-    done <<< "$MAPPINGS"
+    else
+      echo "[5.1] Deleting audio from NotebookLM..."
 
-    SUCCESSFUL_DELETIONS=$(jq '[.[] | select(.success == true)] | length' "$DELETIONS_JSON")
-    echo "  ✓ Phase 5 completed: $SUCCESSFUL_DELETIONS deletions"
-    echo ""
+      # Initialize deletions log
+      echo "[]" > "$DELETIONS_JSON"
+
+      DELETION_INDEX=0
+      MAPPINGS=$(jq -c '.mappings[]' "$FILE_MAPPING_JSON" 2>/dev/null)
+      MAPPING_COUNT=$(echo "$MAPPINGS" | wc -l)
+
+      while IFS= read -r mapping; do
+        DELETION_INDEX=$((DELETION_INDEX + 1))
+
+        BOOK_KEY=$(echo "$mapping" | jq -r '.book_key')
+        LANG=$(echo "$mapping" | jq -r '.language_code')
+
+        # Find matching audio info (title, url) from matching.json
+        MATCH_INFO=$(jq -c ".matches[] | select(.book_key == \"$BOOK_KEY\" and .language_code == \"$LANG\") | {audio_title, notebook_url}" "$MATCHING_JSON" 2>/dev/null | head -1)
+
+        if [ -z "$MATCH_INFO" ] || [ "$MATCH_INFO" = "null" ]; then
+          echo "[$DELETION_INDEX/$MAPPING_COUNT] Skipping: $BOOK_KEY ($LANG) - no match found"
+          continue
+        fi
+
+        AUDIO_TITLE=$(echo "$MATCH_INFO" | jq -r '.audio_title')
+        NOTEBOOK_URL=$(echo "$MATCH_INFO" | jq -r '.notebook_url')
+
+        # Check deletion safety result from Phase 4.5
+        DELETION_CHECK=$(echo "$mapping" | jq -r '.deletion_check // "NOT_CHECKED"')
+
+        if [ "$DELETION_CHECK" != "CAN_DELETE_FROM_NOTEBOOK" ]; then
+          continue
+        fi
+
+        echo "[$DELETION_INDEX/$MAPPING_COUNT] Deleting: $BOOK_KEY ($LANG)"
+        echo "  → Audio: ${AUDIO_TITLE:0:60}..."
+
+        # Call delete script
+        DELETE_RESULT=$(echo "{\"book_key\":\"$BOOK_KEY\",\"language_code\":\"$LANG\",\"audio_title\":\"$AUDIO_TITLE\",\"notebook_url\":\"$NOTEBOOK_URL\"}" | npx ts-node "$SCRIPT_DIR/delete-audio-from-notebooklm.ts" --stdin 2>&1)
+        EXIT_CODE=$?
+
+        # Extract JSON from output
+        DELETE_JSON=$(echo "$DELETE_RESULT" | awk '/^{/,0')
+
+        # Append to deletions.json
+        jq -s '.[0] + [.[1]]' "$DELETIONS_JSON" <(echo "$DELETE_JSON") > "$DELETIONS_JSON.tmp"
+        mv "$DELETIONS_JSON.tmp" "$DELETIONS_JSON"
+
+        if [ $EXIT_CODE -eq 0 ]; then
+          echo "  ✓ Deleted from NotebookLM"
+        else
+          ERROR=$(echo "$DELETE_JSON" | jq -r '.error' | head -c 100)
+          echo "  ⚠ Delete failed: $ERROR"
+        fi
+
+        echo ""
+      done <<< "$MAPPINGS"
+
+      SUCCESSFUL_DELETIONS=$(jq '[.[] | select(.success == true)] | length' "$DELETIONS_JSON")
+      echo "  ✓ Phase 5 completed: $SUCCESSFUL_DELETIONS deletions"
+      echo ""
+    fi
   fi
-fi
 fi
 
 # =============================================================================
