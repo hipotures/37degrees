@@ -1,0 +1,1977 @@
+{
+  "role": "WebArea",
+  "name": "37degrees - 0051-0100 audio - NotebookLM",
+  "children": [
+    {
+      "role": "button",
+      "name": "Google apps"
+    },
+    {
+      "role": "button",
+      "name": "Google Account: Andrzej (gcp@armum.eu)"
+    },
+    {
+      "role": "link",
+      "name": "NotebookLM homepage"
+    },
+    {
+      "role": "textbox",
+      "name": "",
+      "value": "37degrees - 0051-0100 audio"
+    },
+    {
+      "role": "button",
+      "name": "Analytics"
+    },
+    {
+      "role": "button",
+      "name": "Share notebook"
+    },
+    {
+      "role": "button",
+      "name": "Settings",
+      "haspopup": "menu"
+    },
+    {
+      "role": "text",
+      "name": "PRO"
+    },
+    {
+      "role": "tab",
+      "name": "Sources"
+    },
+    {
+      "role": "tab",
+      "name": "Chat"
+    },
+    {
+      "role": "tab",
+      "name": "Studio",
+      "focused": true,
+      "selected": true
+    },
+    {
+      "role": "text",
+      "name": "🍌 Nano Banana now in Video Overviews! "
+    },
+    {
+      "role": "text",
+      "name": "Try the new styles!"
+    },
+    {
+      "role": "button",
+      "name": "Audio Overview",
+      "description": "Generate an AI podcast based on your sources",
+      "children": [
+        {
+          "role": "button",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Video Overview",
+      "description": "Generate an explainer video, presented to you by AI",
+      "children": [
+        {
+          "role": "button",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Mind Map",
+      "description": "Generate an AI mind map based on your sources"
+    },
+    {
+      "role": "button",
+      "name": "Reports",
+      "description": "Generate reports based on your sources"
+    },
+    {
+      "role": "button",
+      "name": "Flashcards",
+      "description": "Generate AI flashcards based on your sources",
+      "children": [
+        {
+          "role": "button",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Quiz",
+      "description": "Generate an AI interactive quiz based on your sources",
+      "children": [
+        {
+          "role": "button",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Schneegestöber in Vermont: Die verborgenen Schichten von Kiplings Dschungelbuch – Trauma, Kolonialismus und die Geburt einer Legende Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Jądro Ciemności: Nowatorstwo, Rasizm i Prorocza Krytyka Korporacji – Dlaczego Czytamy Conrada Dziś Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "정글북: 트라우마, 혁신, 그리고 제국주의 논란이 숨 쉰 130년 고전 탐험 Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Le Livre de la Jungle: Les Secrets Sombres et le Génie Caché de Kipling, Entre Impérialisme et Mythe de Mowgli Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "जंगल बुक की जटिल पहेली: किपलिंग का बचपन का सदमा, औपनिवेशिक सोच और लेखन की क्रांतिकारी तकनीकें Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "『ジャングル・ブック』の光と影：キップリングのトラウマ、植民地主義、そして雪国バーモントで生まれた文学的革新 Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Heart of Darkness Decoded: How Conrad Predicted Corporate Crime, Moral Injury, and Modern Malice 110 Years Early Deep dive · 1 source · 4h ago Interactive mode Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Interactive mode"
+        },
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Mowgli, Trauma y Colonialismo: Los Secretos Oscuros de El Libro de la Selva Nacido en la Nieve de Vermont Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Mowgli e o Labirinto de Kipling: Os Segredos, o Trauma de Infância e o Legado Controverso de O Livro da Selva Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Trauma, Kolonializm i TikTok: Nieznane Oblicza \"Księgi Dżungli\" Kiplinga – Od Vermontu do Prawa Silniejszego Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Route des Indes : Sexe, Secret et Système Colonial – Le Roman Centenaire qui Éclaire Nos Tensions Actuelles Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Macht, Mikroaggressionen und Marabar-Echo: E.M. Forsters \"A Passage to India\" – 100 Jahre Kolonialismus und unsere heutige Identität Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Passagem Para a Índia: A Psicologia Colonial e o Eco do Trauma em Nossos Debates Sociais (1924-2025) Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "ए पैसेज टू इंडिया: एक सदी बाद भी गूंजती फोर्स्टर की आवाज़ – उपनिवेशवाद, पहचान और छिपे हुए संघर्षों का विश्लेषण Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "The Genius and Trauma Behind The Jungle Book: How Kipling's Snowbound Vermont Pain Created India's Feral Child Deep dive · 1 source · 4h ago Interactive mode Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Interactive mode"
+        },
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "EM 포스터 '인도로 가는 길': 식민주의, 트라우마, 그리고 100년 후 한국 사회가 직면한 '아직은 안 되는' 질문 Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "『インドへの道』と現代社会：フォースターが描いた植民地の「分断」と、今を生きる私たちの葛藤 Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Pasaje a la India: 100 Años de Trauma Colonial, Secretos de Forster y el Eco de Marabar en las Luchas de Hoy Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Podróż do Indii 100 Lat Później Forster Said i Władza Kolonialna Jak Klasyka Rezonuje Dziś Deep dive · 1 source · 4h ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Passage to India at 100: Colonial Trauma, Flat Characters, and the \"Dark Drama\" of E.M. Forster Deep dive · 1 source · 4h ago Interactive mode Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Interactive mode"
+        },
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Les Versets Sataniques de Salman Rushdie : Anatomie d'une Fatwa et l'Onde de Choc Littéraire Mondiale Deep dive · 1 source · 1d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "악마의 시: 파트와, 폭력, 그리고 35년 논쟁 – 청취자 자료로 짚어보는 살만 루슈디의 문학 전쟁 Deep dive · 1 source · 1d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Die Satanischen Verse: Rushdies Fatwa, der Preis der Freiheit und das Echo im Zeitalter der Cancel Culture Deep dive · 1 source · 1d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "『悪魔の詩』が世界を揺るがした：ファトワ、翻訳者殺害、表現の自由を巡る35年の闘いと現代への遺産 Deep dive · 1 source · 1d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Versos Satânicos: A Tempestade Perfeita de Rushdie, a Fatwa e a Luta Inacabada pela Liberdade de Expressão Deep dive · 1 source · 1d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "द सैटेनिक वर्सेज़: एक किताब जिसने दुनिया हिला दी, फतवा, भारत में बैन और अभिव्यक्ति की स्वतंत्रता का संघर्ष Deep dive · 1 source · 1d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Los Versos Satánicos: Rushdie, la Fatwa y el Precio Incalculable de la Libertad Creativa Deep dive · 1 source · 1d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Szatańskie Wersety: Cena Wolności Słowa i Fatwa, Która Wciąż Zabija Deep dive · 1 source · 1d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "The Unbreakable Fatwa: How Salman Rushdie's Satanic Verses Ignited a Global Free Speech Firestorm and Cost Human Lives Deep dive · 1 source · 1d ago Interactive mode Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Interactive mode"
+        },
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Kafka, AI i Cancel Culture: Jak Klasyka Literatury Wyprzedziła 2025 Rok 50 sources · 1d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Od Wellsa i Kafki do AI i TikToka: Dlaczego klasyka literatury wciąż przepowiada naszą rzeczywistość? 50 sources · 1d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Le Dieu des Petits Riens: Classes, Castes et Trauma, Trente Ans Après Arundhati Roy Deep dive · 1 source · 1d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "작은 것들의 신: 카스트, 젠더, 그리고 28년 후의 우리 사회를 꿰뚫는 '사랑의 법칙' Deep dive · 1 source · 1d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "O Deus das Pequenas Coisas: Amor Proibido, Castas e a Anatomia da Opressão Interseccional Hoje Deep dive · 1 source · 1d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "El Dios de las Pequeñas Cosas: Caste, Género y Profecías Sociales a 30 Años de la Novela de Arundhati Roy Deep dive · 1 source · 1d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "अरुंधति रॉय का 'द गॉड ऑफ स्मॉल थिंग्स': जाति, लिंग और प्रेम के 'लव लॉज़' पर 28 साल बाद भी क्यों ज़रूरी है यह उपन्यास Deep dive · 1 source · 1d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "text",
+      "name": "Audio Overview generation failed. Try a new one."
+    },
+    {
+      "role": "button",
+      "name": "Delete"
+    },
+    {
+      "role": "text",
+      "name": "Audio Overview generation failed. Try a new one."
+    },
+    {
+      "role": "button",
+      "name": "Delete"
+    },
+    {
+      "role": "button",
+      "name": "Bóg Rzeczy Małych: Kastowe Grzechy, Zakazana Miłość i Trauma Pokoleniowa w Wizjonerskiej Powieści Arundhati Roy Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Chute et Châtiment d'Okonkwo L'effondrement du monde Igbo face au colonialisme dans Chinua Achebe Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Okonkwo und der Zerfall: Chinua Achebes \"Things Fall Apart\" als Tragödie des Kolonialismus und der toxischen Männlichkeit Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "チヌア・アチェベ『崩れゆく絆』：植民地主義と「有害な男らしさ」が引き裂いたイボ文化の悲劇 Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "모든 것이 산산이 부서지다: 치누아 아체베와 오콩코의 비극, 그리고 식민주의가 파괴한 이그보 문화의 진실 Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "थिंग्स फ़ॉल अपार्ट: ओकोन्क्वो का पौरुष, औपनिवेशिक संघर्ष और अफ्रीकी संस्कृति का टूटना Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "The God of Small Things: How Arundhati Roy's Booker Prize Bomb Predicted Generational Trauma, Caste Violence, and Today's Digital \"Love Laws\" Deep dive · 1 source · 2d ago Interactive mode Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Interactive mode"
+        },
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Świat się rozpada: Trauma kolonializmu, toksyczna męskość Okonkwo i rewolucja Chinua Achebe Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Todo Se Desmorona: La Tragedia de Okonkwo y la Caída de Umuofia ante el Colonialismo Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "O Mundo se Despedaça: Colonialismo, Masculinidade Tóxica e o Legado de Chinua Achebe Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Things Fall Apart: Toxic Masculinity, Colonial Erasure, and Why Achebe's Masterpiece Still Breaks the Internet Deep dive · 1 source · 2d ago Interactive mode Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Interactive mode"
+        },
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Od Kafki do Cyberspace: Jak Klasyka Światowa Rezonuje z TikTokiem, Cancel Culture i Lękami Pokolenia Z 50 sources · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Vonnegut, Kafka i TikTok: Jak Trauma, Absurd i Cyberpunk Rezonują w Kanonie Literackim Dziś 50 sources · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "자기 땅의 아들: 인종, 계급, FBI 감시, 80년 전 소설이 예언한 2024년 사회 정의 논쟁의 모든 것 Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Native Son de Richard Wright Le choc littéraire et social décrypté racisme systémique surveillance du FBI et l'actualité Black Lives Matter Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Native Son: Rassismus, FBI-Überwachung und die prophetische Kraft von Richard Wrights Roman Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "FBIの監視と謎の死：リチャード・ライト『アメリカの息子』が予見した現代の構造的人種差別とデジタル・ゲットー Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "नेटिव सन: रिचर्ड राइट का उपन्यास, FBI निगरानी और 80 साल बाद भी नस्लवाद पर गहरा प्रहार Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Filho Nativo: Richard Wright, Vigilância do FBI e o Racismo Sistêmico da Era Digital Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Hijo Nativo: Richard Wright, Black Lives Matter y la Ceguera Social que Aún Vibra en el Algoritmo Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Syn swego kraju Richarda Wrighta: Rasizm, Inwigilacja i Echo Black Lives Matter w 2025 Roku Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "70年前の傑作『見えない人間』が照らす、現代デジタル社会の「不可視性」とアイデンティティの危機 Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Unsichtbar in der Algorithmus-Ära: Ralph Ellisons \"Invisible Man\" und der Kampf um Sichtbarkeit von 1952 bis zum Shadowbanning heute Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Native Son's Dark Prophecy: Surveillance, Systemic Racism, and the Shadowy Death of Richard Wright Deep dive · 1 source · 2d ago Interactive mode Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Interactive mode"
+        },
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "इनविज़िबल मैन: 70 साल बाद भी क्यों अदृश्यता का संघर्ष डिजिटल युग में गूंज रहा है? Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Invisible Man Le roman prophétique de Ralph Ellison décortique l'invisibilité systémique de 1952 à l'ère numérique Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "보이지 않는 인간: 1952년의 소외와 2025년 알고리즘 권력이 만났을 때 Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "O Homem Invisível: Segregação, Algoritmos e a Crise de Identidade 70 Anos Depois Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Ellison Hoy: De la Invisibilidad Racial de 1952 al Algoritmo Silencioso en 2025 Deep dive · 1 source · 2d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Intersectionnalité et Renaissance Numérique Comment Zora Neale Hurston a Écrit l'Avenir du Féminisme en Sept Semaines Deep dive · 1 source · 3d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Niewidzialny Człowiek Dziś: Jak Ellison Przewidział Algorytmy, Shadow Banning i Kryzys Tożsamości Gen Z Deep dive · 1 source · 3d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "ゾラ・ハーストンの『彼らの目は神を見ていた』：80年前の傑作が現代の恋愛・ジェンダー・言語の権力を映す理由 Deep dive · 1 source · 3d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Intersektionalität und Skandal: Wie Zora Neale Hurstons Meisterwerk Their Eyes Were Watching God 90 Jahre nach Erscheinen die TikTok-Generation über toxische Liebe und Black Feminism aufklärt Deep dive · 1 source · 3d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "90년 전 소설이 2024년 한국 사회에 던지는 질문: 허스턴과 '교차성', 그리고 유해한 관계의 레드 플래그 Deep dive · 1 source · 3d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Invisible Man: The 1952 Novel That Predicted Algorithmic Bias and Gen Z's Identity Crisis Deep dive · 1 source · 3d ago Interactive mode Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Interactive mode"
+        },
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Odrzucony Geniusz Południa: Zora Neale Hurston, intersekcjonalność i toksyczne związki w nieprzetłumaczonej polskiej klasyce Deep dive · 1 source · 3d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "उनकी आँखें भगवान को देख रही थीं: 1937 के क्रांतिकारी उपन्यास की इंटरसेक्शनैलिटी, टॉक्सिक रिश्ते और TikTok पर प्रासंगिकता Deep dive · 1 source · 3d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "La Novela Prohibida que Redefinió el Amor y la Voz: Zora Neale Hurston, Interseccionalidad y Tensión Racial Hoy Deep dive · 1 source · 3d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Interseccionalidade, Romance e Abuso: O Legado de Zora Neale Hurston em \"Seus Olhos Viam Deus\" Deep dive · 1 source · 3d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "The Seven-Week Miracle: How Zora Neale Hurston's Heartbreak Pioneered Intersectionality and Created the Ultimate \"Toxic Relationship\" Novel Deep dive · 1 source · 3d ago Interactive mode Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Interactive mode"
+        },
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "ヴォネガットの予言？『スローターハウス5』時間から解き放たれたビリー・ピルグリムと現代人の「精神の断片化」 Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Metamorfoza Gregora Samsy: Śledztwo w Sprawie Dehumanizacji, Toksycznych Rodzin i Lęków Pokolenia Z Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "커트 보니것 '제5도살장': 시간 여행의 미스터리인가, 전쟁 트라우마(PTSD)의 문학적 재구성인가 Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Abattoir 5 et le TSPT: Comment Kurt Vonnegut a Défragmenté le Trauma et le Temps Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "स्लॉटरहाउस-फाइव: बिली पिलग्रिम की उलझी टाइमलाइन, PTSD और ड्रेसडेन बमबारी का रहस्य Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Schlachthof 5: Billy Pilgrims Trauma-Code – Wie Vonnegut 23 Jahre brauchte, um die zerbrochene Realität des Krieges zu fassen Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Billy Pilgrim y el Enigma de Matadero Cinco: Desprendido en el Tiempo, Trauma de Guerra y la Profecía Digital de Vonnegut Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Billy Pilgrim Wyrwany z Czasu: PTSD, Drezno i Fatalizm Kosmitów – Detektywistyczna Rekonstrukcja „Rzeźni numer pięć” Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Matadouro-Cinco: Desvendando o Trauma de Billy Pilgrim, TEPT e a Revolução Literária de Vonnegut Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "캐치-22: 60년 전 소설이 알고리즘 관료제와 Z세대의 부조리 현실을 예언한 방법 Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Catch-22 : L'absurdité visionnaire de Heller, de la Guerre Froide à la bureaucratie TikTok Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Catch-22: Vom Kriegstrauma zur TikTok-Bürokratie – Hellers IKS-Haken als Werkzeug gegen den systemischen Irrsinn Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "कैच-22: एक 60 साल पुरानी किताब, जो आज के कॉर्पोरेट और डिजिटल सिस्टम का सच बताती है Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Ardil 22: Por Que a Sátira da Segunda Guerra Explica a Burocracia Algorítmica e os Absurdos do TikTok Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "『キャッチ=22』の予言：冷戦下の不条理と現代デジタル社会に潜む「逃れられない矛盾」 Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Trampa 22: La Profecía de Heller desde la Guerra Fría al Absurdo Digital de Hoy Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Slaughterhouse-Five Declassified: PTSD, Time Travel, and the True Story of Vonnegut's Dresden Trauma Deep dive · 1 source · 4d ago Interactive mode Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Interactive mode"
+        },
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Paragraf 22: Od Groteski Wojennej do Algorytmicznej Pułapki – Dlaczego Książka Hellera Jest Prorocza dla Pokolenia TikToka Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Vol au-dessus d'un nid de coucou: LSD, folie et la vérité cachée du Combinat Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Catch-22: From WWII Satire to Vietnam Protest and the Algorithmic Hellscape Deep dive · 1 source · 4d ago Interactive mode Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Interactive mode"
+        },
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Ken Keseys Kuckucksnest: LSD, die CIA und die Wahrheit hinter dem Kombinat Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "뻐꾸기 둥지 위로 날아간 새: CIA 실험이 낳은 광기, 누가 진짜 이야기를 하는가 (현실과 환각의 경계를 파헤치다) Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "ケン・キージー『カッコーの巣の上で』：LSD体験、MKウルトラ、そして「コンバイン」が奪った人間性—狂気と管理社会への反逆の真実 Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "वन फ्लू ओवर द कुकूज़ नेस्ट: मैक'मर्फी हीरो या चालाक खिलाड़ी? CIA, LSD और कम्बाइन का गहरा सच Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "MKUltra, Lobotomia e a Paranoia Profética: A Verdade Por Trás de Um Estranho no Ninho Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Combinado y Locura: ¿Podemos Confiar en el Narrador Esquizofrénico de Atrapado sin Salida? Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "CIA Psychedelics, Unreliable Narrators, and the Real War Against The Combine: Deconstructing One Flew Over the Cuckoo's Nest Deep dive · 1 source · 4d ago Interactive mode Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Interactive mode"
+        },
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Lot Nad Kukułczym Gniazdem: Śledztwo wewnątrz paranoi Wodza Bromdena, LSD i Kombinatu PRL Deep dive · 1 source · 4d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Fiesta und die Lost Generation: Hemingways Klassiker zwischen Antisemitismus, Stierkampf-Symbolik und prophetischer Krise der Männlichkeit Deep dive · 1 source · 5d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "헤밍웨이 '태양은 다시 떠오른다' 논란의 민낯: 금서, 반유대주의, 그리고 '잃어버린 세대'의 상흔 Deep dive · 1 source · 5d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "ヘミングウェイ『日はまた昇る』：発禁、焚書、氷山理論、そしてZ世代に響く「失われた世代」のトラウマ Deep dive · 1 source · 5d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "हेमिंग्वे की 'द सन ऑल्सो राइजेज़': क्यों यह बैन किताब 'लॉस्ट जेनरेशन' और आज की युवा पीढ़ी का आईना है? Deep dive · 1 source · 5d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Polêmica, Geração Perdida e Teoria do Iceberg: O Escândalo e o Gênio por Trás de \"O Sol Também se Levanta\" de Hemingway Deep dive · 1 source · 5d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Fiesta y el Legado del Iceberg: Antisemitismo, Censura y la \"Generación Perdida\" de Hemingway 100 Años Después Deep dive · 1 source · 5d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "The Sun Also Rises The Lost Generation's Guide to Trauma, Toxic Relationships, and Literary Revolution Deep dive · 1 source · 5d ago Interactive mode Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Interactive mode"
+        },
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "スタインベック『エデンの東』：善悪と「ティムシェル」〜トラスク家三世代にわたる秘密と選択の自由 Deep dive · 1 source · 6d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Jekyll und Hyde im Digitalen Zeitalter: Warum Stevensons Klassiker über 135 Jahre später unsere Online-Identität erklärt Deep dive · 49 sources · 6d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "द ग्रेप्स ऑफ़ रैथ: स्टीनबेक का महाकाव्य जिसने 85 साल बाद भी पाठक की नसें चीर रखी हैं Deep dive · 1 source · 7d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Myszy i Ludzie 2025: Jak Steinbeck Przewidział Prekariat, Epidemię Samotności i Toksyczną Męskość – Analiza Krytyczna Klasyki Deep dive · 1 source · 7d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "JD 샐린저의 역작, \"호밀밭의 파수꾼\": 홀든 콜필드의 소외감과 PTSD, 그리고 Z세대의 'Phony' 비판 Deep dive · 1 source · 7d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "ホーソーン『緋文字』：ピューリタンの罪と恥の文化が「デジタルな緋文字」として蘇る理由〜世界と日本、時代を超えた解釈と影響 Deep dive · 1 source · 8d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Lolita: Moralna Pułapka, Arcydzieło Stylu i Dzieło-Pułapka – Analiza Kontrowersji od Nabokova po TikTok Deep dive · 1 source · 28d ago Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Beyond Baloo: The Wild, Dark, and TikTok-Ready Truth of The Jungle Book Deep dive · 1 source · 34d ago Interactive mode Play More",
+      "children": [
+        {
+          "role": "button",
+          "name": "Interactive mode"
+        },
+        {
+          "role": "button",
+          "name": "Play"
+        },
+        {
+          "role": "button",
+          "name": "More",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Add note"
+    }
+  ]
+}
