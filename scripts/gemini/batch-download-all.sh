@@ -667,3 +667,12 @@ fi
 
 echo "ℹ Work directory NOT cleaned up (in /tmp, will auto-cleanup)"
 echo ""
+
+# =============================================================================
+# CLEANUP: Remove empty download directories
+# =============================================================================
+
+echo "Cleaning up empty directories from /tmp/playwright-mcp-output/..."
+rmdir /tmp/playwright-mcp-output/* 2>/dev/null || true
+echo "✓ Cleanup completed"
+echo ""
