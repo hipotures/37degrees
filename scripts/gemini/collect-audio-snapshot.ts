@@ -17,6 +17,7 @@
 import { execSync } from 'child_process';
 import * as fs from 'fs';
 import * as path from 'path';
+import { parse as parseYaml } from 'yaml';
 
 // ============================================================================
 // TYPES
@@ -38,6 +39,7 @@ interface SnapshotResult {
 
 const YAML_BLOCK_REGEX = /Page Snapshot:\s*```yaml\s*([\s\S]*?)```/;
 const PAGE_URL_REGEX = /Page URL:\s*(\S+)/;
+const BUTTON_WITH_REF_REGEX = /^button "(.+)" \[ref=([^\]]+)\]/;
 
 function cleanLabelText(label: string): string {
   const markers = [
@@ -61,44 +63,52 @@ function cleanLabelText(label: string): string {
   return cleaned.trim();
 }
 
-function extractAudioFromYaml(yamlText: string): AudioItem[] {
-  const lines = yamlText.split('\n');
+function normalizeLabel(label: string): string {
+  // YAML single-quote escaping uses double apostrophes.
+  return label.replace(/''/g, "'");
+}
+
+function extractAudioItemsFromSnapshot(rawYaml: string): AudioItem[] {
+  const parsed = parseYaml(rawYaml);
   const results: AudioItem[] = [];
-  const seen = new Set<string>();
+  const seenRefs = new Set<string>();
 
-  for (const rawLine of lines) {
-    const line = rawLine.trim();
-
-    if (!line.startsWith('- button ') && !line.startsWith('- \'button ')) {
-      continue;
+  const visit = (node: unknown): void => {
+    if (Array.isArray(node)) {
+      for (const item of node) {
+        visit(item);
+      }
+      return;
     }
 
-    const match = line.match(/^- '?button "(.+)" \[ref=([^\]]+)\]/);
-    if (!match) {
-      continue;
+    if (node && typeof node === 'object') {
+      for (const [key, value] of Object.entries(node as Record<string, unknown>)) {
+        const buttonMatch = typeof key === 'string' ? key.match(BUTTON_WITH_REF_REGEX) : null;
+
+        if (buttonMatch) {
+          const [, rawLabel, ref] = buttonMatch;
+          const normalizedLabel = normalizeLabel(rawLabel);
+
+          if (normalizedLabel.includes('Play')) {
+            const trimmedLabel = normalizedLabel.trim().toLowerCase();
+
+            if (trimmedLabel !== 'play' && trimmedLabel !== 'play more') {
+              const title = cleanLabelText(normalizedLabel);
+
+              if (title && !/^play\b/i.test(title) && !seenRefs.has(ref)) {
+                seenRefs.add(ref);
+                results.push({ title, ref });
+              }
+            }
+          }
+        }
+
+        visit(value);
+      }
     }
+  };
 
-    const [, rawLabel, ref] = match;
-
-    if (!rawLabel.includes('Play')) {
-      continue;
-    }
-
-    const trimmedLabel = rawLabel.trim().toLowerCase();
-    if (trimmedLabel === 'play' || trimmedLabel === 'play more') {
-      continue;
-    }
-
-    const title = cleanLabelText(rawLabel);
-
-    if (!title || /^play\b/i.test(title) || seen.has(ref)) {
-      continue;
-    }
-
-    seen.add(ref);
-    results.push({ title, ref });
-  }
-
+  visit(parsed);
   return results;
 }
 
@@ -117,7 +127,7 @@ function parseSnapshotOutput(snapshotOutput: string): SnapshotResult {
     throw new Error('Unable to locate YAML page snapshot block');
   }
 
-  const audioItems = extractAudioFromYaml(match[1]);
+  const audioItems = extractAudioItemsFromSnapshot(match[1]);
   const notebookUrl = parseNotebookUrl(snapshotOutput);
 
   return {

@@ -78,7 +78,7 @@ def inspect_base_directory(base_dir: Path, languages: List[str], min_bytes: int,
                 empty_reports.append(f"{audio_dir.resolve().relative_to(Path.cwd()) if audio_dir.exists() else audio_dir}")
             continue
 
-        lang_files = find_language_files(audio_dir, book_dir.name, languages, min_bytes)
+        lang_files = find_language_files(audio_dir, book_dir.resolve().name, languages, min_bytes)
         missing_langs_display: List[str] = []
         missing_lang_codes: List[str] = []
         for lang in languages:

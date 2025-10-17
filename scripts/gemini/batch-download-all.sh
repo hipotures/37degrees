@@ -230,14 +230,13 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase2" ]; then
   # Initialize downloads log
   echo "[]" > "$DOWNLOADS_JSON"
 
-  # Get matches
-  MATCHES=$(jq -c '.matches[]' "$MATCHING_JSON" 2>/dev/null)
-  MATCH_COUNT=$(echo "$MATCHES" | wc -l)
+  TOTAL_MATCH_COUNT=$(jq '.matches | length' "$MATCHING_JSON" 2>/dev/null || echo "0")
+  MATCH_COUNT=$TOTAL_MATCH_COUNT
+  MATCH_QUERY=".matches[]"
 
-  # Apply MAX_DOWNLOADS limit if set
-  if [ -n "$MAX_DOWNLOADS" ]; then
-    MATCHES=$(echo "$MATCHES" | head -n "$MAX_DOWNLOADS")
-    MATCH_COUNT=$(echo "$MATCHES" | wc -l)
+  if [ -n "$MAX_DOWNLOADS" ] && [ "$MAX_DOWNLOADS" -lt "$MATCH_COUNT" ]; then
+    MATCH_COUNT="$MAX_DOWNLOADS"
+    MATCH_QUERY=".matches[:$MAX_DOWNLOADS][]"
     echo "  ℹ Limited to $MATCH_COUNT downloads (MAX_DOWNLOADS=$MAX_DOWNLOADS)"
     echo ""
   fi
@@ -245,69 +244,71 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase2" ]; then
   echo "  → Total downloads: $MATCH_COUNT"
   echo ""
 
-  DOWNLOAD_INDEX=0
+  if [ "$MATCH_COUNT" -gt 0 ]; then
+    DOWNLOAD_INDEX=0
 
-  while IFS= read -r match; do
-    DOWNLOAD_INDEX=$((DOWNLOAD_INDEX + 1))
-    set +e
+    while IFS= read -r match; do
+      DOWNLOAD_INDEX=$((DOWNLOAD_INDEX + 1))
+      set +e
 
-    BOOK_KEY=$(echo "$match" | jq -r '.book_key')
-    LANG=$(echo "$match" | jq -r '.language_code')
-    AUDIO_TITLE=$(echo "$match" | jq -r '.audio_title' | head -c 50)
+      BOOK_KEY=$(echo "$match" | jq -r '.book_key')
+      LANG=$(echo "$match" | jq -r '.language_code')
+      AUDIO_TITLE=$(echo "$match" | jq -r '.audio_title' | head -c 50)
 
-    echo "[$DOWNLOAD_INDEX/$MATCH_COUNT] Downloading: $BOOK_KEY ($LANG)"
-    echo "  → Audio: $AUDIO_TITLE..."
+      echo "[$DOWNLOAD_INDEX/$MATCH_COUNT] Downloading: $BOOK_KEY ($LANG)"
+      echo "  → Audio: $AUDIO_TITLE..."
 
-    # Download with timestamp tracking
-    DOWNLOAD_RESULT=$(echo "$match" | npx ts-node "$SCRIPT_DIR/download-single-audio.ts" --stdin 2>&1)
-    EXIT_CODE=$?
+      # Download with timestamp tracking
+      DOWNLOAD_RESULT=$(echo "$match" | npx ts-node "$SCRIPT_DIR/download-single-audio.ts" --stdin 2>&1)
+      EXIT_CODE=$?
 
-    # Extract JSON from output (find last complete JSON object)
-    DOWNLOAD_JSON=$(echo "$DOWNLOAD_RESULT" | awk '/^{/,0')
+      # Extract JSON from output (find last complete JSON object)
+      DOWNLOAD_JSON=$(echo "$DOWNLOAD_RESULT" | awk '/^{/,0')
 
-    # Append to downloads.json
-    jq -s '.[0] + [.[1]]' "$DOWNLOADS_JSON" <(echo "$DOWNLOAD_JSON") > "$DOWNLOADS_JSON.tmp"
-    mv "$DOWNLOADS_JSON.tmp" "$DOWNLOADS_JSON"
+      # Append to downloads.json
+      jq -s '.[0] + [.[1]]' "$DOWNLOADS_JSON" <(echo "$DOWNLOAD_JSON") > "$DOWNLOADS_JSON.tmp"
+      mv "$DOWNLOADS_JSON.tmp" "$DOWNLOADS_JSON"
 
-    if [ $EXIT_CODE -eq 0 ]; then
-      FILE_PATH=$(echo "$DOWNLOAD_JSON" | jq -r '.file_path')
-      FILENAME=$(basename "$FILE_PATH")
-      echo "  ✓ Downloaded: $FILENAME"
-    else
-      ERROR=$(echo "$DOWNLOAD_JSON" | jq -r '.error // "Unknown error"' | head -c 100)
-      echo "  ✗ Failed: $ERROR"
+      if [ $EXIT_CODE -eq 0 ]; then
+        FILE_PATH=$(echo "$DOWNLOAD_JSON" | jq -r '.file_path')
+        FILENAME=$(basename "$FILE_PATH")
+        echo "  ✓ Downloaded: $FILENAME"
+      else
+        ERROR=$(echo "$DOWNLOAD_JSON" | jq -r '.error // "Unknown error"' | head -c 100)
+        echo "  ✗ Failed: $ERROR"
 
-      if [ "$DRY_RUN" != "true" ]; then
-        SUBITEM="audio_dwn_$LANG"
-        echo "  → Marking TODOIT as failed..."
+        if [ "$DRY_RUN" != "true" ]; then
+          SUBITEM="audio_dwn_$LANG"
+          echo "  → Marking TODOIT as failed..."
 
-        set +e
-        TODOIT_OUTPUT=$("$SCRIPT_DIR/todoit-write-download-result.sh" \
-          "$BOOK_KEY" "$SUBITEM" "failed" "" "$ERROR" 2>&1)
-        TODOIT_EXIT=$?
-        set -e
+          set +e
+          TODOIT_OUTPUT=$("$SCRIPT_DIR/todoit-write-download-result.sh" \
+            "$BOOK_KEY" "$SUBITEM" "failed" "" "$ERROR" 2>&1)
+          TODOIT_EXIT=$?
+          set -e
 
-        if [ $TODOIT_EXIT -ne 0 ]; then
-          echo "    Debug: $TODOIT_OUTPUT"
-        fi
+          if [ $TODOIT_EXIT -ne 0 ]; then
+            echo "    Debug: $TODOIT_OUTPUT"
+          fi
 
-        if [ $TODOIT_EXIT -eq 0 ]; then
-          echo "  ✓ TODOIT updated (failed)"
-        else
-          echo "  ⚠ TODOIT update failed (download failure logged locally)"
+          if [ $TODOIT_EXIT -eq 0 ]; then
+            echo "  ✓ TODOIT updated (failed)"
+          else
+            echo "  ⚠ TODOIT update failed (download failure logged locally)"
+          fi
         fi
       fi
-    fi
 
-    # Rate limiting
-    if [ $DOWNLOAD_INDEX -lt $MATCH_COUNT ]; then
-      echo "  → Sleeping ${DOWNLOAD_SLEEP}s..."
-      sleep $DOWNLOAD_SLEEP
-    fi
+      # Rate limiting
+      if [ $DOWNLOAD_INDEX -lt $MATCH_COUNT ]; then
+        echo "  → Sleeping ${DOWNLOAD_SLEEP}s..."
+        sleep $DOWNLOAD_SLEEP
+      fi
 
-    echo ""
-    set -e
-  done <<< "$MATCHES"
+      echo ""
+      set -e
+    done < <(jq -c "$MATCH_QUERY" "$MATCHING_JSON")
+  fi
 
   SUCCESSFUL_COUNT=$(jq '[.[] | select(.success == true)] | length' "$DOWNLOADS_JSON")
   echo "  ✓ Phase 2 completed: $SUCCESSFUL_COUNT successful downloads"
@@ -399,25 +400,26 @@ fi
 echo "set -e" >> "$MOVES_SCRIPT"
 echo "" >> "$MOVES_SCRIPT"
 
-MAPPINGS=$(jq -c '.mappings[]' "$FILE_MAPPING_JSON" 2>/dev/null)
-MAPPING_COUNT=$(echo "$MAPPINGS" | wc -l)
+MAPPING_COUNT=$(jq '.mappings | length' "$FILE_MAPPING_JSON" 2>/dev/null || echo "0")
 
 echo "[4.1] Generating move script..."
 echo "  → Mappings: $MAPPING_COUNT"
 
-while IFS= read -r mapping; do
-  SRC=$(echo "$mapping" | jq -r '.source_file')
-  DEST=$(echo "$mapping" | jq -r '.target_path')
+if [ "$MAPPING_COUNT" -gt 0 ]; then
+  while IFS= read -r mapping; do
+    SRC=$(echo "$mapping" | jq -r '.source_file')
+    DEST=$(echo "$mapping" | jq -r '.target_path')
 
-  # Add move command to script
-  if [ "$DRY_RUN" = "true" ]; then
-    # DRY_RUN: Check if file exists before moving
-    echo "if [ ! -f \"$DEST\" ]; then mv \"$SRC\" \"$DEST\"; else echo \"Skipped (exists): $DEST\"; fi" >> "$MOVES_SCRIPT"
-  else
-    # Normal mode: Always move (overwrite)
-    echo "mv \"$SRC\" \"$DEST\"" >> "$MOVES_SCRIPT"
-  fi
-done <<< "$MAPPINGS"
+    # Add move command to script
+    if [ "$DRY_RUN" = "true" ]; then
+      # DRY_RUN: Check if file exists before moving
+      echo "if [ ! -f \"$DEST\" ]; then mv \"$SRC\" \"$DEST\"; else echo \"Skipped (exists): $DEST\"; fi" >> "$MOVES_SCRIPT"
+    else
+      # Normal mode: Always move (overwrite)
+      echo "mv \"$SRC\" \"$DEST\"" >> "$MOVES_SCRIPT"
+    fi
+  done < <(jq -c '.mappings[]' "$FILE_MAPPING_JSON")
+fi
 
 chmod +x "$MOVES_SCRIPT"
 
@@ -427,83 +429,85 @@ echo ""
 echo "[4.2] Executing moves..."
 
 MOVE_INDEX=0
-while IFS= read -r mapping; do
-  MOVE_INDEX=$((MOVE_INDEX + 1))
+if [ "$MAPPING_COUNT" -gt 0 ]; then
+  while IFS= read -r mapping; do
+    MOVE_INDEX=$((MOVE_INDEX + 1))
 
-  SRC=$(echo "$mapping" | jq -r '.source_file')
-  DEST=$(echo "$mapping" | jq -r '.target_path')
-  BOOK_KEY=$(echo "$mapping" | jq -r '.book_key')
-  LANG=$(echo "$mapping" | jq -r '.language_code')
+    SRC=$(echo "$mapping" | jq -r '.source_file')
+    DEST=$(echo "$mapping" | jq -r '.target_path')
+    BOOK_KEY=$(echo "$mapping" | jq -r '.book_key')
+    LANG=$(echo "$mapping" | jq -r '.language_code')
 
-  DEST_DIR=$(dirname "$DEST")
+    DEST_DIR=$(dirname "$DEST")
 
-  echo "[$MOVE_INDEX/$MAPPING_COUNT] Moving: $BOOK_KEY ($LANG)"
-  echo "  → From: $(basename "$SRC")"
-  echo "  → To: $DEST"
+    echo "[$MOVE_INDEX/$MAPPING_COUNT] Moving: $BOOK_KEY ($LANG)"
+    echo "  → From: $(basename "$SRC")"
+    echo "  → To: $DEST"
 
-  # Create target directory if needed
-  if [ ! -d "$DEST_DIR" ]; then
-    echo "  ⚠ Creating directory: $DEST_DIR"
-    mkdir -p "$DEST_DIR"
-  fi
+    # Create target directory if needed
+    if [ ! -d "$DEST_DIR" ]; then
+      echo "  ⚠ Creating directory: $DEST_DIR"
+      mkdir -p "$DEST_DIR"
+    fi
 
-  # Move file
-  if [ -f "$SRC" ]; then
-    # Check if destination exists
-    if [ -f "$DEST" ]; then
-      if [ "$DRY_RUN" = "true" ]; then
-        echo "  ⚠ Destination exists - skipping move (DRY_RUN)"
-        echo "  ℹ File: $DEST"
+    # Move file
+    if [ -f "$SRC" ]; then
+      # Check if destination exists
+      if [ -f "$DEST" ]; then
+        if [ "$DRY_RUN" = "true" ]; then
+          echo "  ⚠ Destination exists - skipping move (DRY_RUN)"
+          echo "  ℹ File: $DEST"
+        else
+          echo "  ⚠ Destination exists - overwriting"
+          mv "$SRC" "$DEST"
+
+          if [ -f "$DEST" ]; then
+            echo "  ✓ Moved successfully (overwritten)"
+          else
+            echo "  ✗ Move failed"
+          fi
+        fi
       else
-        echo "  ⚠ Destination exists - overwriting"
+        # Destination doesn't exist - safe to move
         mv "$SRC" "$DEST"
 
         if [ -f "$DEST" ]; then
-          echo "  ✓ Moved successfully (overwritten)"
+          echo "  ✓ Moved successfully"
         else
           echo "  ✗ Move failed"
         fi
       fi
+
+      # Update TODOIT only if NOT in dry run mode
+      if [ "$DRY_RUN" != "true" ] && [ -f "$DEST" ]; then
+        SUBITEM="audio_dwn_$LANG"
+        echo "  → Updating TODOIT..."
+
+        set +e  # Don't exit if TODOIT update fails
+        TODOIT_OUTPUT=$("$SCRIPT_DIR/todoit-write-download-result.sh" \
+          "$BOOK_KEY" "$SUBITEM" "completed" "$DEST" 2>&1)
+        TODOIT_EXIT=$?
+        set -e  # Re-enable error exit
+
+        if [ $TODOIT_EXIT -ne 0 ]; then
+          echo "    Debug: $TODOIT_OUTPUT"
+        fi
+
+        if [ $TODOIT_EXIT -eq 0 ]; then
+          echo "  ✓ TODOIT updated"
+        else
+          echo "  ⚠ TODOIT update failed (file moved successfully)"
+        fi
+      elif [ "$DRY_RUN" = "true" ]; then
+        echo "  ℹ TODOIT update skipped (DRY_RUN)"
+      fi
     else
-      # Destination doesn't exist - safe to move
-      mv "$SRC" "$DEST"
-
-      if [ -f "$DEST" ]; then
-        echo "  ✓ Moved successfully"
-      else
-        echo "  ✗ Move failed"
-      fi
+      echo "  ✗ Source file not found: $SRC"
     fi
 
-    # Update TODOIT only if NOT in dry run mode
-    if [ "$DRY_RUN" != "true" ] && [ -f "$DEST" ]; then
-      SUBITEM="audio_dwn_$LANG"
-      echo "  → Updating TODOIT..."
-
-      set +e  # Don't exit if TODOIT update fails
-      TODOIT_OUTPUT=$("$SCRIPT_DIR/todoit-write-download-result.sh" \
-        "$BOOK_KEY" "$SUBITEM" "completed" "$DEST" 2>&1)
-      TODOIT_EXIT=$?
-      set -e  # Re-enable error exit
-
-      if [ $TODOIT_EXIT -ne 0 ]; then
-        echo "    Debug: $TODOIT_OUTPUT"
-      fi
-
-      if [ $TODOIT_EXIT -eq 0 ]; then
-        echo "  ✓ TODOIT updated"
-      else
-        echo "  ⚠ TODOIT update failed (file moved successfully)"
-      fi
-    elif [ "$DRY_RUN" = "true" ]; then
-      echo "  ℹ TODOIT update skipped (DRY_RUN)"
-    fi
-  else
-    echo "  ✗ Source file not found: $SRC"
-  fi
-
-  echo ""
-done <<< "$MAPPINGS"
+    echo ""
+  done < <(jq -c '.mappings[]' "$FILE_MAPPING_JSON")
+fi
 
 fi
 
