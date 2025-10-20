@@ -253,7 +253,7 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase2" ]; then
 
       BOOK_KEY=$(echo "$match" | jq -r '.book_key')
       LANG=$(echo "$match" | jq -r '.language_code')
-      AUDIO_TITLE=$(echo "$match" | jq -r '.audio_title' | head -c 50)
+      AUDIO_TITLE=$(echo "$match" | jq -r '.audio_title' | head -c 120)
 
       echo "[$DOWNLOAD_INDEX/$MATCH_COUNT] Downloading: $BOOK_KEY ($LANG)"
       echo "  → Audio: $AUDIO_TITLE..."
@@ -637,7 +637,7 @@ if [ -z "$RESUME_FROM" ] || [ "$RESUME_FROM" = "phase4" ] || [ "$RESUME_FROM" = 
         fi
 
         echo "[$DELETION_INDEX/$MAPPING_COUNT] Deleting: $BOOK_KEY ($LANG)"
-        echo "  → Audio: ${AUDIO_TITLE:0:60}..."
+        echo "  → Audio: ${AUDIO_TITLE:0:120}..."
 
         # Call delete script
         DELETE_PAYLOAD=$(jq -n --arg book "$BOOK_KEY" --arg lang "$LANG" --arg title "$AUDIO_TITLE" --arg url "$NOTEBOOK_URL" \
