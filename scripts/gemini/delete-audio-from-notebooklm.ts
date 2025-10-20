@@ -210,8 +210,7 @@ async function deleteAudioFromNotebookLM(request: DeleteRequest): Promise<Delete
 
     await page.waitForTimeout(2000);
 
-    const searchText = request.audio_title.split(':')[0];
-    const audioButton = page.locator('button').filter({ hasText: searchText }).first();
+    const audioButton = page.locator('button').filter({ hasText: request.audio_title }).first();
 
     const audioExists = await audioButton.isVisible({ timeout: 5000 }).catch(() => false);
 

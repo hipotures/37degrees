@@ -39,7 +39,7 @@ interface SnapshotResult {
 
 const YAML_BLOCK_REGEX = /Page Snapshot:\s*```yaml\s*([\s\S]*?)```/;
 const PAGE_URL_REGEX = /Page URL:\s*(\S+)/;
-const BUTTON_WITH_REF_REGEX = /^button "(.+)" \[ref=([^\]]+)\]/;
+const GENERIC_WITH_REF_REGEX = /^generic \[ref=([^\]]+)\]$/;
 
 function cleanLabelText(label: string): string {
   const markers = [
@@ -65,7 +65,10 @@ function cleanLabelText(label: string): string {
 
 function normalizeLabel(label: string): string {
   // YAML single-quote escaping uses double apostrophes.
-  return label.replace(/''/g, "'");
+  // JSON escaped quotes also need to be unescaped.
+  return label
+    .replace(/''/g, "'")      // YAML: '' → '
+    .replace(/\\"/g, '"');    // JSON: \" → "
 }
 
 function extractAudioItemsFromSnapshot(rawYaml: string): AudioItem[] {
@@ -83,23 +86,15 @@ function extractAudioItemsFromSnapshot(rawYaml: string): AudioItem[] {
 
     if (node && typeof node === 'object') {
       for (const [key, value] of Object.entries(node as Record<string, unknown>)) {
-        const buttonMatch = typeof key === 'string' ? key.match(BUTTON_WITH_REF_REGEX) : null;
+        const genericMatch = typeof key === 'string' ? key.match(GENERIC_WITH_REF_REGEX) : null;
 
-        if (buttonMatch) {
-          const [, rawLabel, ref] = buttonMatch;
-          const normalizedLabel = normalizeLabel(rawLabel);
+        if (genericMatch && typeof value === 'string') {
+          const [, ref] = genericMatch;
+          const normalizedTitle = normalizeLabel(value);
 
-          if (normalizedLabel.includes('Play')) {
-            const trimmedLabel = normalizedLabel.trim().toLowerCase();
-
-            if (trimmedLabel !== 'play' && trimmedLabel !== 'play more') {
-              const title = cleanLabelText(normalizedLabel);
-
-              if (title && !/^play\b/i.test(title) && !seenRefs.has(ref)) {
-                seenRefs.add(ref);
-                results.push({ title, ref });
-              }
-            }
+          if (normalizedTitle && !seenRefs.has(ref)) {
+            seenRefs.add(ref);
+            results.push({ title: normalizedTitle, ref });
           }
         }
 
