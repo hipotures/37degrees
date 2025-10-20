@@ -76,34 +76,101 @@ function extractAudioItemsFromSnapshot(rawYaml: string): AudioItem[] {
   const results: AudioItem[] = [];
   const seenRefs = new Set<string>();
 
-  const visit = (node: unknown): void => {
+  // Regex to match button elements with audio
+  const BUTTON_WITH_REF_REGEX = /^'?button\s+/;
+
+  // Track which refs belong to audio buttons
+  const audioButtonRefs = new Set<string>();
+
+  // First pass: find all button refs that contain audio_magic_eraser
+  const findAudioButtons = (node: unknown): void => {
     if (Array.isArray(node)) {
       for (const item of node) {
-        visit(item);
+        findAudioButtons(item);
       }
       return;
     }
 
     if (node && typeof node === 'object') {
       for (const [key, value] of Object.entries(node as Record<string, unknown>)) {
-        const genericMatch = typeof key === 'string' ? key.match(GENERIC_WITH_REF_REGEX) : null;
+        const buttonMatch = typeof key === 'string' ? key.match(BUTTON_WITH_REF_REGEX) : null;
 
-        if (genericMatch && typeof value === 'string') {
-          const [, ref] = genericMatch;
-          const normalizedTitle = normalizeLabel(value);
-
-          if (normalizedTitle && !seenRefs.has(ref)) {
-            seenRefs.add(ref);
-            results.push({ title: normalizedTitle, ref });
+        if (buttonMatch) {
+          // Check if this button contains audio_magic_eraser
+          const hasAudio = findInTree(value, 'audio_magic_eraser');
+          if (hasAudio) {
+            // Extract ref from button
+            const refMatch = key.match(/\[ref=([^\]]+)\]/);
+            if (refMatch) {
+              audioButtonRefs.add(refMatch[1]);
+            }
           }
         }
 
-        visit(value);
+        findAudioButtons(value);
       }
     }
   };
 
-  visit(parsed);
+  // Helper to search for text in tree
+  const findInTree = (node: unknown, search: string): boolean => {
+    if (typeof node === 'string') {
+      return node.includes(search);
+    }
+    if (Array.isArray(node)) {
+      return node.some(item => findInTree(item, search));
+    }
+    if (node && typeof node === 'object') {
+      return Object.entries(node as Record<string, unknown>).some(([key, value]) => {
+        return key.includes(search) || findInTree(value, search);
+      });
+    }
+    return false;
+  };
+
+  // Second pass: collect generic strings that are inside audio buttons
+  const collectTitles = (node: unknown, insideAudioButton: boolean): void => {
+    if (Array.isArray(node)) {
+      for (const item of node) {
+        collectTitles(item, insideAudioButton);
+      }
+      return;
+    }
+
+    if (node && typeof node === 'object') {
+      for (const [key, value] of Object.entries(node as Record<string, unknown>)) {
+        // Check if we're entering an audio button
+        const buttonMatch = typeof key === 'string' ? key.match(BUTTON_WITH_REF_REGEX) : null;
+        const refMatch = buttonMatch ? key.match(/\[ref=([^\]]+)\]/) : null;
+        const isAudioButton = !!(refMatch && audioButtonRefs.has(refMatch[1]));
+
+        // Check if this is a generic [ref=...] with string value
+        const genericMatch = typeof key === 'string' ? key.match(GENERIC_WITH_REF_REGEX) : null;
+
+        if (genericMatch && typeof value === 'string' && (insideAudioButton || isAudioButton)) {
+          const [, ref] = genericMatch;
+          const titleText = value.trim();
+
+          // Filter: not metadata (source/ago), has minimum length
+          const isNotMetadata = !titleText.includes('source') && !titleText.includes('ago');
+          const hasMinLength = titleText.length > 30; // Audio deepdive titles are long
+
+          if (isNotMetadata && hasMinLength && !seenRefs.has(ref)) {
+            seenRefs.add(ref);
+            const normalizedTitle = normalizeLabel(titleText);
+            results.push({ title: normalizedTitle, ref });
+          }
+        }
+
+        // Recurse deeper (inside audio button if we found one)
+        collectTitles(value, insideAudioButton || !!isAudioButton);
+      }
+    }
+  };
+
+  findAudioButtons(parsed);
+  collectTitles(parsed, false);
+
   return results;
 }
 
