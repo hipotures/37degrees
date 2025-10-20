@@ -16,7 +16,7 @@ PROJECT_ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"
 PRIMARY_MODEL="${PRIMARY_MODEL:-gemini}"
 
 # Gemini-specific model
-GEMINI_MODEL="${GEMINI_MODEL:-gemini-2.5-flash}"
+GEMINI_MODEL="${GEMINI_MODEL:-gemini-2.5-pro}"
 GEMINI_EXTRA_ARGS="${GEMINI_EXTRA_ARGS:---yolo --allowed-tools playwright-cdp,todoit}"
 
 # Dry run mode (only matching, no downloads)
