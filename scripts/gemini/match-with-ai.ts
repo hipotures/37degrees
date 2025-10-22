@@ -174,7 +174,7 @@ async function callAI(
 // MATCHING LOGIC
 // ============================================================================
 
-function buildMatchingPrompt(tasks: Task[], allAudio: AudioCollection[]): string {
+function buildMatchingPrompt(tasks: Task[], allAudio: AudioCollection[], lastError?: string): string {
   // Send book identifying fields: key, language, title, author
   const minimalTasks = tasks.map(t => ({
     book_key: t.book_key,
@@ -205,6 +205,13 @@ RULES:
 7. If titles match but different book, verify by author to disambiguate
 8. Return ONLY valid JSON array, no additional text
 
+IMPORTANT - Identifier Structure:
+- book_key format: NNNN_book_name (4 digits + underscore + name, e.g., "0057_east_of_eden")
+- media_key format: mNNNNN_media_name (m + 5 digits + underscore + name, e.g., "m00098_vasa_warship_sinking_1628")
+- Only alphanumeric characters and underscores allowed
+- NO dots in numbers (0.093 is WRONG, 0093 is CORRECT)
+- Always copy book_key EXACTLY from tasks - do not modify it
+
 TASKS (need download):
 ${JSON.stringify(minimalTasks, null, 2)}
 
@@ -222,7 +229,7 @@ Example:
   {"book_key": "0057_east_of_eden", "language_code": "pt", "audio_title": "A Leste do Éden: Um Romance Épico"}
 ]
 
-Return [] if no matches. NO additional text or explanation.`;
+Return [] if no matches. NO additional text or explanation.${lastError ? `\n\nPREVIOUS ATTEMPT FAILED:\n${lastError}\nPlease fix the errors and return valid data with correct book_key values.` : ''}`;
 }
 
 function parseAIResponse(response: string): Match[] {
@@ -259,6 +266,20 @@ function parseAIResponse(response: string): Match[] {
   }
 }
 
+function validateMatches(matches: Match[], tasks: Task[]): { valid: boolean; errors: string[] } {
+  const errors: string[] = [];
+  const taskKeys = new Set(tasks.map(t => t.book_key));
+
+  for (const match of matches) {
+    // Check if book_key exists in tasks
+    if (!taskKeys.has(match.book_key)) {
+      errors.push(`Invalid book_key "${match.book_key}" - not found in tasks`);
+    }
+  }
+
+  return { valid: errors.length === 0, errors };
+}
+
 // ============================================================================
 // MAIN FUNCTION
 // ============================================================================
@@ -287,39 +308,71 @@ async function matchWithAI(
     console.error(`  → Audio items: ${totalAudio} (from ${allAudio.length} notebooks)`);
 
     // ========================================================================
-    // PHASE 2: Build prompt
+    // PHASE 2-4: Build prompt, Call AI, Parse & Validate (with retry)
     // ========================================================================
 
-    console.error('[2/4] Building AI prompt...');
+    const MAX_RETRIES = 3;
+    let attempt = 0;
+    let lastError = '';
+    let rawMatches: Match[] = [];
+    let usedModel = '';
 
-    const prompt = buildMatchingPrompt(tasks, allAudio);
-    console.error(`  → Prompt size: ${prompt.length} chars`);
+    while (attempt < MAX_RETRIES) {
+      attempt++;
 
-    // Save prompt to file (for debugging/review)
-    const promptPath = tasksPath.replace(/tasks\.json$/, 'prompt-phase1.txt');
-    fs.writeFileSync(promptPath, prompt, 'utf-8');
-    console.error(`  → Prompt saved: ${promptPath}`);
+      console.error(`[2/4] Building AI prompt... (attempt ${attempt}/${MAX_RETRIES})`);
 
-    // ========================================================================
-    // PHASE 3: Call AI
-    // ========================================================================
+      const prompt = buildMatchingPrompt(tasks, allAudio, lastError);
+      console.error(`  → Prompt size: ${prompt.length} chars`);
 
-    console.error('[3/4] Calling AI...');
+      // Save prompt to file (for debugging/review)
+      const promptPath = tasksPath.replace(/tasks\.json$/, `prompt-phase1-attempt${attempt}.txt`);
+      fs.writeFileSync(promptPath, prompt, 'utf-8');
+      console.error(`  → Prompt saved: ${promptPath}`);
 
-    const { response, model } = await callAI(prompt, primaryModel, geminiModel, geminiExtraArgs);
+      console.error('[3/4] Calling AI...');
 
-    console.error(`  ✓ Response received from ${model}`);
-    console.error(`  → Response size: ${response.length} chars`);
+      const { response, model } = await callAI(prompt, primaryModel, geminiModel, geminiExtraArgs);
+      usedModel = model;
 
-    // ========================================================================
-    // PHASE 4: Parse response
-    // ========================================================================
+      console.error(`  ✓ Response received from ${model}`);
+      console.error(`  → Response size: ${response.length} chars`);
 
-    console.error('[4/4] Parsing response...');
+      console.error('[4/4] Parsing response...');
 
-    const rawMatches = parseAIResponse(response);
+      try {
+        rawMatches = parseAIResponse(response);
+        console.error(`  ✓ Found ${rawMatches.length} matches`);
 
-    console.error(`  ✓ Found ${rawMatches.length} matches`);
+        // Validate matches
+        const validation = validateMatches(rawMatches, tasks);
+
+        if (validation.valid) {
+          console.error(`  ✓ Validation passed`);
+          break; // Success!
+        }
+
+        // Validation failed
+        lastError = validation.errors.join('\n');
+        console.error(`  ✗ Validation failed:\n${lastError}`);
+
+        if (attempt === MAX_RETRIES) {
+          throw new Error(`AI validation failed after ${MAX_RETRIES} attempts:\n${lastError}`);
+        }
+
+        console.error(`  → Retrying...`);
+
+      } catch (error: any) {
+        lastError = error.message;
+        console.error(`  ✗ Parse error: ${lastError}`);
+
+        if (attempt === MAX_RETRIES) {
+          throw error;
+        }
+
+        console.error(`  → Retrying...`);
+      }
+    }
 
     // Enrich matches with notebook_url from tasks
     const taskMap = new Map(tasks.map(t => [`${t.book_key}_${t.language_code}`, t]));
@@ -347,7 +400,7 @@ async function matchWithAI(
       success: true,
       matches: enrichedMatches,
       unmatched_tasks: unmatchedTasks,
-      model_used: model
+      model_used: usedModel
     };
 
   } catch (error: any) {
