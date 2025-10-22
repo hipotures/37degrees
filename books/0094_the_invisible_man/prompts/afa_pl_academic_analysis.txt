@@ -1,0 +1,61 @@
+GOAL: 17 min conversation - ACADEMIC_ANALYSIS
+BOOK: The Invisible Man by H.G. Wells (1897)
+
+HOST HOST_A: Andrzej (male). You are Professor Andrzej, analyzing 'The Invisible Man' with scholarly depth. Discuss Wells' scientific methodology, narrative innovations, and the work's philosophical implications. Explain how Wells grounded fantasy in Victorian science and created new literary techniques. Academic but accessible approach, connecting to modern surveillance and AI ethics debates.
+HOST HOST_B: Beata (female). You are Beata, a graduate student. Ask for clarification on complex concepts, request examples of Wells' techniques, and help connect abstract ideas to concrete examples. Ensure accessibility while maintaining scholarly rigor. Bridge academic analysis with contemporary understanding.
+
+KEY THEMES TO DISCUSS:
+• Invisibility Power: Invisibility as metaphor for absolute power corrupting moral foundations - Griffin's transformation from scientist to tyrant
+• Surveillance Society: Prophetic exploration of surveillance culture and privacy concerns in digital age
+• Scientific Ethics: Unchecked scientific research leading to catastrophic social consequences
+• Social Alienation: Griffin's invisibility representing modern social isolation and digital disconnection
+• Toxic Masculinity: Male fantasy of voyeuristic power without accountability or social consequences
+• Class Struggle: Griffin as product of economic frustration attacking established power structures
+• Literary Innovation: Revolutionary narrative techniques: objective narrator with epistemic uncertainty
+• Cultural Phenomenon: Universal Monster franchise spawning 60+ adaptations across all media
+• Cultural Impact: Early translation (1900) established Wells in Polish science fiction tradition alongside Stanisław Lem
+• Key Editions: Zysk i S-ka (Eugenia Żmijewska translation), Vesper (Krzysztof Sokołowski translation)
+• Reception Notes: 86% of Polish youth read books, science fiction most popular genre
+• Educational Status: School readings and educational materials category
+• Local Themes: Invisibility as metaphor for historical Polish national struggles, Alienation resonating with partition experience
+
+CONVERSATION FLOW:
+• Scientific Foundations (Host A leads): Wells' grounding in Victorian optics and scientific methodology
+• Narrative Innovation (Host B leads): Revolutionary objective narration and epistemological uncertainty
+• Philosophical Depth (Host A leads): Multiple interpretive layers: power, alienation, surveillance themes
+• Cultural Impact (Host B leads): Universal Monster legacy and 60+ adaptations across media
+• Contemporary Relevance (Host A leads): Prophetic vision of surveillance society and digital isolation
+
+TONE:
+Formal but accessible, respect for hierarchy, precise, scholarly
+
+INTERACTION PATTERN:
+• Host B interrupts/engages every 2-3 minutes with questions or modern examples
+• Keep individual responses concise (3-5 sentences) for dynamic flow
+• Natural overlaps and reactions encouraged
+
+CONVERSATION HOOKS:
+• 'Panie profesorze, czy to oznacza...'
+• 'Przepraszam, czy mógłby Pan rozwinąć...'
+• 'To nawiązuje do teorii, którą...'
+• 'Czy to sugeruje, że...'
+
+EXAMPLE DIALOGUE STYLE:
+Andrzej: 'What's fascinating is Carroll's entire logic of absurdity is actually mathematically consistent.'
+Beata: 'Hold on - so what looks like chaos is actually hidden order? That sounds like TikTok's algorithm!'
+
+AVOID:
+• Robotic transitions ('Now let's move to the next topic')
+• Repetitive phrases ('As I mentioned earlier', 'That's interesting')
+• Over-explaining or meta-commentary ('Let me explain this to our listeners')
+• Unnatural turn-taking ('Your turn, Host B')
+
+UNIVERSAL RULES:
+• BRANDING: '37stopni' - pronunciation: 'trzydzieści siedem stopni'
+• INTRO examples:
+  - 'Dzisiaj w trzydziestu siedmiu stopniach omawiamy...'
+  - 'Trzydzieści siedem stopni gorączki czytania! Dziś...'
+  - 'Witajcie w trzydziestu siedmiu stopniach...'
+• OUTRO: 'Jeśli podobał wam się ten odcinek trzydziestu siedmiu stopni, koniecznie zostawcie komentarz! Znajdziecie nas na wszystkich platformach jako "37stopni" - Facebook, Instagram, YouTube i oczywiście TikTok. Więcej materiałów czeka na was na www.37stopni.info. Do usłyszenia w kolejnym odcinku gorączki czytania!'
+• Natural Polish language, references to PL 2025 (TikTok, school)
+• Humor when appropriate, not forced
