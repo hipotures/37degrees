@@ -27,7 +27,6 @@ year: 1937
 5. **Legacy Trail**: References, quotes, parodies in other works
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_culture_impact.md`
 - Provide 50-60 specific examples of cultural impact
 - Give concrete names, titles, dates - not generalities
 - Show both positive and controversial impact
@@ -59,7 +58,6 @@ year: 1937
 5. **Digital Life**: How social media would change the book's plot
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_youth_digital.md`
 - Provide 30-40 specific connections with contemporary youth culture
 - **REQUIRED FRESHNESS**: only trends from last 24 months with popularity period
 - Provide specific hashtags, game names, influencer names
@@ -91,7 +89,6 @@ year: 1937
 5. **Academic Analysis**: Academic interpretations, different critical schools
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_symbols_meanings.md`
 - Provide 30-40 extensive interpretations and symbolic analyses
 - Present multiple perspectives for each main symbol
 - Connect classical interpretations with contemporary readings
@@ -123,7 +120,6 @@ year: 1937
 5. **Numbers & Records**: Print runs, translations, adaptations, statistics
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_facts_history.md`
 - Provide minimum 40-50 specific facts, anecdotes and statistics
 - Mark each fact as **FACT** (confirmed sources) or **RUMOR** (unconfirmed)
 - Focus on "wow moments" that will surprise podcast listeners
@@ -155,7 +151,6 @@ year: 1937
 5. **Practical Lessons**: Actionable wisdom for contemporary youth
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_reality_wisdom.md`
 - Provide 30-40 comparisons past vs contemporary
 - Give specific examples what came true and what didn't
 - Extract practical takeaways for youth
@@ -187,7 +182,6 @@ year: 1937
 5. **Industry Drama**: Conflicts with publishers, plagiarism accusations, rivalries
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_dark_drama.md`
 - Provide 40-50 controversial facts and theories
 - **MARK**: each information as **FACT** / **ACCUSATION** / **RUMOR**
 - DO NOT avoid difficult topics, but describe them reliably with educational context
@@ -219,7 +213,6 @@ year: 1937
 5. **Craft Mastery**: Techniques that became part of writing canon
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_writing_innovation.md`
 - Provide 30-40 specific techniques and literary innovations
 - Give examples of authors inspired by these techniques
 - Explain why these techniques were revolutionary in their time
@@ -244,8 +237,6 @@ year: 1937
 - [ ] Create final compliance checklist
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-content_warnings_assessment.md`
-- Analyze ALL documents from $CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_*.md
 - Create matrix: problematic topic vs each platform
 - Provide specific recommendations: AGE-RESTRICT / EDIT/OMIT / OK for each platform
 - Suggest alternative approaches for different audiences
@@ -278,7 +269,6 @@ year: 1937
 5. **Cultural Differences**: What Poles understand differently than others
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_local_pl_context.md`
 - Provide 20-30 facts about local reception and context
 - Focus on Poland, but include other countries if relevant
 - Give specific names of Polish translators, actors, directors
@@ -310,7 +300,6 @@ year: 1937
 5. **Literary Influence**: Impact on English-language writers and genres
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_local_en_context.md`
 - Provide 20-30 facts about English-speaking reception and context
 - Focus on UK/US but include Commonwealth countries if relevant
 - Provide specific names of critics, scholars, directors, actors
@@ -342,7 +331,6 @@ year: 1937
 5. **Cultural Adaptations**: Deutsches Theater, opera adaptations
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_local_de_context.md`
 - Provide 20-30 facts about German-speaking reception and context
 - Focus on Germany but include Austria and Switzerland
 - Provide specific names of translators, scholars, directors
@@ -374,7 +362,6 @@ year: 1937
 5. **Literary Influence**: Connection to French literary movements
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_local_fr_context.md`
 - Provide 20-30 facts about French-speaking reception and context
 - Focus on France but include Francophone perspectives
 - Provide specific names of translators, critics, theorists
@@ -406,7 +393,6 @@ year: 1937
 5. **Literary Influence**: Connection to boom latinoamericano, magical realism
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_local_es_context.md`
 - Provide 20-30 facts about Spanish-speaking reception and context
 - Balance Spain and Latin America perspectives
 - Provide specific names of translators, writers, directors
@@ -438,7 +424,6 @@ year: 1937
 5. **Literary Influence**: Connection to Brazilian literature movements
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_local_pt_context.md`
 - Provide 20-30 facts about Portuguese-speaking reception and context
 - Balance Brazilian and Portuguese perspectives
 - Provide specific names of translators, writers, directors
@@ -470,7 +455,6 @@ year: 1937
 5. **Pop Culture Impact**: Light novels, games, merchandise, cosplay culture
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_local_ja_context.md`
 - Provide 20-30 facts about Japanese reception and context
 - Focus on unique Japanese interpretations and adaptations
 - Provide specific names (romanized) of translators, mangaka, directors
@@ -502,7 +486,6 @@ year: 1937
 5. **Pop Culture Impact**: K-drama references, idol culture connections
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_local_ko_context.md`
 - Provide 20-30 facts about Korean reception and context
 - Focus on unique Korean interpretations and adaptations
 - Provide specific names (romanized) of translators, artists, directors
@@ -534,7 +517,6 @@ year: 1937
 5. **Literary Influence**: Connection to Indian English writers, postcolonial literature
 
 **Output Requirements:**
-- Create document in English: `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_local_hi_context.md`
 - Provide 20-30 facts about Indian reception and context
 - Include multiple Indian languages and regional perspectives
 - Provide specific names of translators, directors, scholars

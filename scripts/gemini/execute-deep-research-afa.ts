@@ -378,11 +378,11 @@ async function executeDeepResearchAFA(params: DeepResearchParams): Promise<DeepR
     // ========================================================================
 
     console.error('[7/11] Waiting for plan generation...');
-    console.error(`  → Waiting for "Start search" button (max ${CONFIG.planWait / 1000}s)...`);
+    console.error(`  → Waiting for "Start research" button (max ${CONFIG.planWait / 1000}s)...`);
 
-    // Look for "Start search" or "Zacznij wyszukiwanie" button
+    // Look for "Start research" or "Start search" or "Zacznij wyszukiwanie" button
     const startSearchButton = page.locator('button', {
-      hasText: /(Start search|Zacznij wyszukiwanie)/i
+      hasText: /(Start research|Start search|Zacznij wyszukiwanie)/i
     }).first();
 
     try {
@@ -399,7 +399,7 @@ async function executeDeepResearchAFA(params: DeepResearchParams): Promise<DeepR
       console.error('  ✓ Search started');
     } catch (error) {
       await takeScreenshot(page, 'timeout-waiting-for-plan');
-      throw new Error(`Start search button did not appear within ${CONFIG.planWait / 1000}s`);
+      throw new Error(`Start research button did not appear within ${CONFIG.planWait / 1000}s`);
     }
 
     await takeScreenshot(page, 'after-search-start');
