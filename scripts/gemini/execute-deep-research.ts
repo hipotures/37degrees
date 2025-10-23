@@ -57,7 +57,7 @@ const CONFIG = {
   navigationTimeout: 30000,  // 30 seconds
   actionTimeout: 15000,      // 15 seconds
   modelCheckWait: 3000,      // 3 seconds after navigation
-  planWait: 115000,          // 115 seconds for plan generation
+  planWait: 180000,          // 3 minutes max wait for plan (used in waitFor)
 
   // Screenshots
   screenshotDir: '/tmp',
@@ -248,19 +248,44 @@ async function executeDeepResearch(params: DeepResearchParams): Promise<DeepRese
     // PHASE 3: Check and change model to Gemini 2.5 Pro
     // ========================================================================
 
-    console.error('[3/10] Setting model to 2.5 Pro...');
+    console.error('[3/10] Verifying model...');
 
-    // Find model selector button "2.5 Flash" or similar
+    // Find model selector button "2.5 Flash" or "2.5 Pro"
     const modelButton = page.locator('button:has-text("2.5")').first();
-    await modelButton.click();
-    await page.waitForTimeout(1000);
 
-    // Click "2.5 Pro" option in dropdown
-    const proOption = page.locator('text=2.5 Pro').first();
-    await proOption.click();
-    await page.waitForTimeout(2000);
+    if (await modelButton.isVisible({ timeout: 5000 })) {
+      const modelText = await modelButton.textContent();
+      console.error(`  → Current model: ${modelText?.trim()}`);
 
-    console.error('  ✓ Model set to 2.5 Pro');
+      // ONLY change if NOT already 2.5 Pro
+      if (modelText?.includes('2.5 Pro')) {
+        console.error('  ✓ Already using 2.5 Pro - skipping change');
+      } else {
+        console.error('  → Changing to 2.5 Pro...');
+
+        try {
+          // Click model selector
+          await modelButton.click();
+          await page.waitForTimeout(1500);
+
+          // Click "2.5 Pro" option in dropdown
+          const proOption = page.locator('text=2.5 Pro').first();
+
+          if (await proOption.isVisible({ timeout: 3000 })) {
+            await proOption.click({ timeout: 10000 });
+            await page.waitForTimeout(2000);
+            console.error('  ✓ Model changed to 2.5 Pro');
+          } else {
+            console.error('  ⚠ 2.5 Pro option not found - continuing anyway');
+          }
+        } catch (error: any) {
+          console.error(`  ⚠ Failed to change model: ${error.message}`);
+          console.error('  → Continuing with current model...');
+        }
+      }
+    } else {
+      console.error('  ⚠ Model selector not found - continuing anyway');
+    }
 
     console.error('');
 
@@ -352,31 +377,32 @@ async function executeDeepResearch(params: DeepResearchParams): Promise<DeepRese
     console.error('');
 
     // ========================================================================
-    // PHASE 7: Wait for plan and start search
+    // PHASE 7: Wait for plan generation and start search
     // ========================================================================
 
     console.error('[7/10] Waiting for plan generation...');
-    console.error(`  → Waiting ${CONFIG.planWait / 1000} seconds...`);
-
-    await page.waitForTimeout(CONFIG.planWait);
-
-    console.error('  ✓ Plan should be ready');
-    await takeScreenshot(page, 'after-plan-generation');
-    console.error('');
-
-    console.error('[8/10] Starting search...');
+    console.error(`  → Waiting for "Start search" button (max ${CONFIG.planWait / 1000}s)...`);
 
     // Look for "Start search" or "Zacznij wyszukiwanie" button
     const startSearchButton = page.locator('button', {
       hasText: /(Start search|Zacznij wyszukiwanie)/i
     }).first();
 
-    if (await startSearchButton.isVisible({ timeout: 10000 })) {
+    try {
+      // Wait for button to appear (checks every ~500ms automatically)
+      await startSearchButton.waitFor({ state: 'visible', timeout: CONFIG.planWait });
+      console.error('  ✓ Plan ready, start button appeared');
+
+      await takeScreenshot(page, 'after-plan-generation');
+      console.error('');
+
+      console.error('[8/10] Starting search...');
       await startSearchButton.click();
       await page.waitForTimeout(3000);
       console.error('  ✓ Search started');
-    } else {
-      throw new Error('Start search button not found');
+    } catch (error) {
+      await takeScreenshot(page, 'timeout-waiting-for-plan');
+      throw new Error(`Start search button did not appear within ${CONFIG.planWait / 1000}s`);
     }
 
     await takeScreenshot(page, 'after-search-start');
@@ -399,33 +425,49 @@ async function executeDeepResearch(params: DeepResearchParams): Promise<DeepRese
     console.error('[10/10] Renaming chat...');
 
     try {
-      // Look for menu button (usually 3 dots or similar)
-      const menuButton = page.locator('[aria-label*="More"], button[aria-haspopup="menu"]').first();
+      // snap12: Look for "Open menu for conversation actions" button (3 dots)
+      // IMPORTANT: Must use exact aria-label to avoid clicking "Main menu" (hamburger)
+      const menuButton = page.locator('button[aria-label="Open menu for conversation actions"]').first();
 
       if (await menuButton.isVisible({ timeout: 5000 })) {
         await menuButton.click();
-        await page.waitForTimeout(1000);
+        await page.waitForTimeout(1500);
+        console.error('  → Menu opened');
 
-        // Look for "Rename" option
-        const renameOption = page.locator('[role="menuitem"]', { hasText: /Rename|Zmień nazwę/i }).first();
+        // snap13: Look for "Rename" button in menu
+        const renameOption = page.locator('button', { hasText: /^Rename$/i }).first();
 
         if (await renameOption.isVisible({ timeout: 3000 })) {
           await renameOption.click();
-          await page.waitForTimeout(1000);
+          await page.waitForTimeout(1500);
+          console.error('  → Rename dialog opened');
 
-          // Find input field and enter book folder name
-          const nameInput = page.locator('input[type="text"], textarea').first();
-          await nameInput.fill(params.sourceName);
-          await page.waitForTimeout(500);
+          // snap14: Find textbox "Enter new title" in rename dialog
+          const nameInput = page.getByRole('textbox', { name: /Enter new title/i });
 
-          // Confirm (look for button with "Rename" or similar)
-          const confirmButton = page.locator('button', { hasText: /Rename|Zmień nazwę|OK|Save/i }).first();
-          await confirmButton.click();
-          await page.waitForTimeout(1000);
+          if (await nameInput.isVisible({ timeout: 3000 })) {
+            // Clear existing text and type new name
+            await nameInput.click();
+            await nameInput.selectText();
+            await nameInput.fill(params.sourceName);
+            await page.waitForTimeout(500);
+            console.error(`  → Entered new name: ${params.sourceName}`);
 
-          console.error(`  ✓ Chat renamed to: ${params.sourceName}`);
+            // snap15: Click enabled Rename button
+            const confirmButton = page.locator('button:has-text("Rename"):not([disabled])').first();
+
+            if (await confirmButton.isVisible({ timeout: 3000 })) {
+              await confirmButton.click();
+              await page.waitForTimeout(1000);
+              console.error(`  ✓ Chat renamed to: ${params.sourceName}`);
+            } else {
+              console.error('  ⚠ Rename button not enabled');
+            }
+          } else {
+            console.error('  ⚠ Rename input not found');
+          }
         } else {
-          console.error('  ⚠ Rename option not found');
+          console.error('  ⚠ Rename option not found in menu');
         }
       } else {
         console.error('  ⚠ Menu button not found');
