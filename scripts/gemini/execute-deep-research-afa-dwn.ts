@@ -2,18 +2,19 @@
 /**
  * Standalone Playwright automation for downloading AFA Deep Research from Gemini
  *
- * Workflow (11 phases):
+ * Workflow (12 phases):
  * 1. Read GEMINI_AFA_URL from TODOIT
  * 2. Navigate to Gemini chat
  * 3. Export to Google Docs
  * 4. Switch to Docs tab
  * 5. Rename document
- * 6. Download as format (goes to /tmp/playwright-mcp-output/ - CDP path unreliable)
- * 7. Find downloaded file
- * 8. Move to books/{book}/docs/gemini-afa.{ext}
- * 9. Verify content (magic bytes)
- * 10. Close Docs tab
- * 11. Return to Gemini
+ * 6. Setup download directory (/tmp/playwright-mcp-output/{book_key})
+ * 7. Download as format
+ * 8. Find downloaded file
+ * 9. Move to books/{book}/docs/gemini-afa.{ext}
+ * 10. Verify content (magic bytes)
+ * 11. Close Docs tab
+ * 12. Return to Gemini
  *
  * Usage:
  *   npx ts-node scripts/gemini/execute-deep-research-afa-dwn.ts <sourceName> [headless]
@@ -413,10 +414,37 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     console.error('');
 
     // ========================================================================
-    // PHASE 6: Download as TXT
+    // PHASE 6: Setup download directory
     // ========================================================================
 
-    console.error('[6/11] Downloading as format...');
+    console.error('[6/12] Setting up download directory...');
+
+    // Create dedicated subfolder for this download
+    const downloadSubdir = path.join(CONFIG.downloadDir, params.sourceName);
+    fs.mkdirSync(downloadSubdir, { recursive: true });
+    console.error(`  → Download directory: ${downloadSubdir}`);
+
+    // Configure CDP download behavior (if using CDP)
+    if (useCDP && browser) {
+      try {
+        const cdpSession = await browser.newCDPSession(docsPage);
+        await cdpSession.send('Browser.setDownloadBehavior', {
+          behavior: 'allow',
+          downloadPath: downloadSubdir
+        });
+        console.error(`  ✓ CDP download path configured`);
+      } catch (cdpError: any) {
+        console.error(`  ⚠ Could not configure CDP download path: ${cdpError.message}`);
+      }
+    }
+
+    console.error('');
+
+    // ========================================================================
+    // PHASE 7: Download as format
+    // ========================================================================
+
+    console.error('[7/12] Downloading as format...');
     console.error(`  → Note: CDP setDownloadBehavior is unreliable, files go to ${CONFIG.downloadDir}`);
 
     try {
@@ -460,12 +488,12 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     console.error('');
 
     // ========================================================================
-    // PHASE 7: Find downloaded file
+    // PHASE 8: Find downloaded file
     // ========================================================================
 
-    console.error('[7/11] Locating downloaded file...');
+    console.error('[8/12] Locating downloaded file...');
 
-    const downloadedFile = findLatestDownload(CONFIG.downloadDir, format);
+    const downloadedFile = findLatestDownload(downloadSubdir, format);
 
     if (!downloadedFile) {
       await takeScreenshot(docsPage, 'download-not-found');
@@ -475,10 +503,10 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     console.error('');
 
     // ========================================================================
-    // PHASE 8: Move file to target location
+    // PHASE 9: Move file to target location
     // ========================================================================
 
-    console.error('[8/11] Moving file to project structure...');
+    console.error('[9/12] Moving file to project structure...');
 
     const fileExtension = getFileExtension(format);
     const targetPath = path.join(
@@ -504,10 +532,10 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     console.error('');
 
     // ========================================================================
-    // PHASE 9: Verify file content
+    // PHASE 10: Verify file content
     // ========================================================================
 
-    console.error('[9/11] Verifying file content...');
+    console.error('[10/12] Verifying file content...');
 
     const fileSize = fs.statSync(targetPath).size;
     console.error(`  → File size: ${fileSize} bytes`);
@@ -541,29 +569,29 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
 
     console.error(`  → Detected file type: ${fileType}`);
 
-    if (fileType !== 'TXT') {
-      throw new Error(`Wrong file format downloaded: ${fileType} (expected TXT). Check Google Docs download menu.`);
+    // Read first 10 lines for text-based formats
+    if (fileType === 'TXT') {
+      const content = fs.readFileSync(targetPath, 'utf-8');
+      const lines = content.split('\n');
+      const firstLines = lines.slice(0, 10).join('\n');
+
+      console.error('  → First 10 lines:');
+      console.error('  ' + '-'.repeat(60));
+      firstLines.split('\n').forEach(line => {
+        console.error('  ' + line.substring(0, 80));
+      });
+      console.error('  ' + '-'.repeat(60));
+    } else {
+      console.error(`  → Binary format - skipping content preview`);
     }
-
-    // Read first 10 lines for TXT
-    const content = fs.readFileSync(targetPath, 'utf-8');
-    const lines = content.split('\n');
-    const firstLines = lines.slice(0, 10).join('\n');
-
-    console.error('  → First 10 lines:');
-    console.error('  ' + '-'.repeat(60));
-    firstLines.split('\n').forEach(line => {
-      console.error('  ' + line.substring(0, 80));
-    });
-    console.error('  ' + '-'.repeat(60));
 
     console.error('');
 
     // ========================================================================
-    // PHASE 10: Close Google Docs tab
+    // PHASE 11: Close Google Docs tab
     // ========================================================================
 
-    console.error('[10/11] Closing Google Docs tab...');
+    console.error('[11/12] Closing Google Docs tab...');
 
     // Close the main Docs tab
     await docsPage.close();
@@ -591,10 +619,10 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     console.error('');
 
     // ========================================================================
-    // PHASE 11: Return to Gemini tab
+    // PHASE 12: Return to Gemini tab
     // ========================================================================
 
-    console.error('[11/11] Returning to Gemini tab...');
+    console.error('[12/12] Returning to Gemini tab...');
 
     await page.bringToFront();
     console.error('  ✓ Back to Gemini');
