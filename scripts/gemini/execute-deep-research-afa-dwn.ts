@@ -2,19 +2,18 @@
 /**
  * Standalone Playwright automation for downloading AFA Deep Research from Gemini
  *
- * Workflow (12 phases):
+ * Workflow (11 phases):
  * 1. Read GEMINI_AFA_URL from TODOIT
  * 2. Navigate to Gemini chat
  * 3. Export to Google Docs
  * 4. Switch to Docs tab
  * 5. Rename document
- * 6. Setup download directory (/tmp/playwright-mcp-output/{book_key})
- * 7. Download as TXT
- * 8. Find downloaded file
- * 9. Move to books/{book}/docs/gemini-afa.txt
- * 10. Verify content
- * 11. Close Docs tab
- * 12. Return to Gemini
+ * 6. Download as format (goes to /tmp/playwright-mcp-output/ - CDP path unreliable)
+ * 7. Find downloaded file
+ * 8. Move to books/{book}/docs/gemini-afa.{ext}
+ * 9. Verify content (magic bytes)
+ * 10. Close Docs tab
+ * 11. Return to Gemini
  *
  * Usage:
  *   npx ts-node scripts/gemini/execute-deep-research-afa-dwn.ts <sourceName> [headless]
@@ -68,7 +67,18 @@ const CONFIG = {
   actionTimeout: 15000,          // 15 seconds
   pageLoadWait: 3000,            // 3 seconds after navigation
   exportWait: 5000,              // 5 seconds after export click
-  downloadWait: 10000,           // 10 seconds for file download
+
+  // Download wait times by format (Markdown generation is slow)
+  downloadWaitTimes: {
+    'txt': 10000,
+    'pdf': 10000,
+    'docx': 10000,
+    'odt': 10000,
+    'rtf': 10000,
+    'html': 10000,
+    'epub': 10000,
+    'md': 120000     // Markdown generation takes ~120s
+  } as Record<string, number>,
 
   // Screenshots
   screenshotDir: '/tmp',
@@ -403,37 +413,11 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     console.error('');
 
     // ========================================================================
-    // PHASE 6: Setup download directory
+    // PHASE 6: Download as TXT
     // ========================================================================
 
-    console.error('[6/11] Setting up download directory...');
-
-    // Create dedicated subfolder for this download
-    const downloadSubdir = path.join(CONFIG.downloadDir, params.sourceName);
-    fs.mkdirSync(downloadSubdir, { recursive: true });
-    console.error(`  → Download directory: ${downloadSubdir}`);
-
-    // Configure CDP download behavior (if using CDP)
-    if (useCDP && browser) {
-      try {
-        const cdpSession = await browser.newCDPSession(docsPage);
-        await cdpSession.send('Browser.setDownloadBehavior', {
-          behavior: 'allow',
-          downloadPath: downloadSubdir
-        });
-        console.error(`  ✓ CDP download path configured`);
-      } catch (cdpError: any) {
-        console.error(`  ⚠ Could not configure CDP download path: ${cdpError.message}`);
-      }
-    }
-
-    console.error('');
-
-    // ========================================================================
-    // PHASE 7: Download as TXT
-    // ========================================================================
-
-    console.error('[7/11] Downloading as TXT...');
+    console.error('[6/11] Downloading as format...');
+    console.error(`  → Note: CDP setDownloadBehavior is unreliable, files go to ${CONFIG.downloadDir}`);
 
     try {
       // Open File menu with Alt+F
@@ -463,8 +447,9 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
       console.error(`  → Selecting format: ${menuText} (${shortcut})`);
       await docsPage.keyboard.press(shortcut);
 
-      console.error(`  → Waiting ${CONFIG.downloadWait / 1000}s for download...`);
-      await docsPage.waitForTimeout(CONFIG.downloadWait);
+      const downloadWait = CONFIG.downloadWaitTimes[format] || 10000;
+      console.error(`  → Waiting ${downloadWait / 1000}s for download...`);
+      await docsPage.waitForTimeout(downloadWait);
 
       console.error('  ✓ Download initiated');
 
@@ -475,25 +460,25 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     console.error('');
 
     // ========================================================================
-    // PHASE 8: Find downloaded file
+    // PHASE 7: Find downloaded file
     // ========================================================================
 
-    console.error('[8/12] Locating downloaded file...');
+    console.error('[7/11] Locating downloaded file...');
 
-    const downloadedFile = findLatestDownload(downloadSubdir, format);
+    const downloadedFile = findLatestDownload(CONFIG.downloadDir, format);
 
     if (!downloadedFile) {
       await takeScreenshot(docsPage, 'download-not-found');
-      throw new Error('Downloaded file not found in /tmp/playwright-mcp-output');
+      throw new Error(`Downloaded file not found in ${CONFIG.downloadDir}`);
     }
 
     console.error('');
 
     // ========================================================================
-    // PHASE 9: Move file to target location
+    // PHASE 8: Move file to target location
     // ========================================================================
 
-    console.error('[9/12] Moving file to project structure...');
+    console.error('[8/11] Moving file to project structure...');
 
     const fileExtension = getFileExtension(format);
     const targetPath = path.join(
@@ -519,15 +504,48 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     console.error('');
 
     // ========================================================================
-    // PHASE 10: Verify file content
+    // PHASE 9: Verify file content
     // ========================================================================
 
-    console.error('[10/12] Verifying file content...');
+    console.error('[9/11] Verifying file content...');
 
     const fileSize = fs.statSync(targetPath).size;
     console.error(`  → File size: ${fileSize} bytes`);
 
-    // Read first 10 lines
+    // Detect file type by magic bytes
+    const buffer = fs.readFileSync(targetPath);
+    const magicBytes = buffer.slice(0, 5).toString('latin1');
+
+    let fileType = 'unknown';
+
+    // PDF
+    if (magicBytes.startsWith('%PDF')) {
+      fileType = 'PDF';
+    }
+    // ZIP-based formats (DOCX, ODT, EPUB)
+    else if (magicBytes.startsWith('PK\x03\x04')) {
+      fileType = 'ZIP/DOCX/ODT/EPUB';
+    }
+    // RTF
+    else if (magicBytes.startsWith('{\\rt')) {
+      fileType = 'RTF';
+    }
+    // HTML
+    else if (magicBytes.startsWith('<!DO') || magicBytes.startsWith('<htm') || magicBytes.startsWith('<HTM') || magicBytes.startsWith('<?xm')) {
+      fileType = 'HTML';
+    }
+    // Plain text (including Markdown - no distinct magic bytes)
+    else {
+      fileType = 'TXT';
+    }
+
+    console.error(`  → Detected file type: ${fileType}`);
+
+    if (fileType !== 'TXT') {
+      throw new Error(`Wrong file format downloaded: ${fileType} (expected TXT). Check Google Docs download menu.`);
+    }
+
+    // Read first 10 lines for TXT
     const content = fs.readFileSync(targetPath, 'utf-8');
     const lines = content.split('\n');
     const firstLines = lines.slice(0, 10).join('\n');
@@ -542,10 +560,10 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     console.error('');
 
     // ========================================================================
-    // PHASE 11: Close Google Docs tabs
+    // PHASE 10: Close Google Docs tab
     // ========================================================================
 
-    console.error('[11/12] Closing Google Docs tabs...');
+    console.error('[10/11] Closing Google Docs tab...');
 
     // Close the main Docs tab
     await docsPage.close();
@@ -573,10 +591,10 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     console.error('');
 
     // ========================================================================
-    // PHASE 12: Return to Gemini tab
+    // PHASE 11: Return to Gemini tab
     // ========================================================================
 
-    console.error('[12/12] Returning to Gemini tab...');
+    console.error('[11/11] Returning to Gemini tab...');
 
     await page.bringToFront();
     console.error('  ✓ Back to Gemini');
