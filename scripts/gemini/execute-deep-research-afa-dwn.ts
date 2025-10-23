@@ -450,12 +450,13 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
       });
       await docsPage.waitForTimeout(1500);
 
-      // Click selected format (exact text match, no regex)
+      // Click selected format
       const menuText = getDownloadMenuText(format);
       console.error(`  → Selecting format: ${menuText}`);
 
-      // Use exact text match to avoid "Copy as X" items
-      await docsPage.click(`text="${menuText}"`, {
+      // Use menuitem role with partial text to match menu items (not "Copy as X")
+      // Menu items have format like "Markdown (.md) m" (with keyboard shortcut)
+      await docsPage.locator(`[role="menuitem"]:has-text("${menuText}")`).click({
         timeout: CONFIG.actionTimeout
       });
 
