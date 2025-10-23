@@ -436,29 +436,32 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     console.error('[7/11] Downloading as TXT...');
 
     try {
-      // Click File menu
-      console.error('  → Opening File menu');
-      await docsPage.click('text=/^(File|Plik)$/i', {
-        timeout: CONFIG.actionTimeout
-      });
-      await docsPage.waitForTimeout(1500);
+      // Open File menu with Alt+F
+      console.error('  → Opening File menu (Alt+F)');
+      await docsPage.keyboard.press('Alt+f');
+      await docsPage.waitForTimeout(1000);
 
-      // Click Download
-      console.error('  → Clicking Download');
-      await docsPage.click('text=/^(Download|Pobierz)$/i', {
-        timeout: CONFIG.actionTimeout
-      });
-      await docsPage.waitForTimeout(1500);
+      // Open Download submenu with 'd'
+      console.error('  → Opening Download submenu (d)');
+      await docsPage.keyboard.press('d');
+      await docsPage.waitForTimeout(1000);
 
-      // Click selected format
+      // Select format by keyboard shortcut
+      const shortcuts: Record<string, string> = {
+        'txt': 't',
+        'pdf': 'p',
+        'docx': 'x',
+        'odt': 'o',
+        'rtf': 'r',
+        'html': 'h',
+        'epub': 'e',
+        'md': 'm'
+      };
+
+      const shortcut = shortcuts[format] || 't';
       const menuText = getDownloadMenuText(format);
-      console.error(`  → Selecting format: ${menuText}`);
-
-      // Use menuitem role with partial text to match menu items (not "Copy as X")
-      // Menu items have format like "Markdown (.md) m" (with keyboard shortcut)
-      await docsPage.locator(`[role="menuitem"]:has-text("${menuText}")`).click({
-        timeout: CONFIG.actionTimeout
-      });
+      console.error(`  → Selecting format: ${menuText} (${shortcut})`);
+      await docsPage.keyboard.press(shortcut);
 
       console.error(`  → Waiting ${CONFIG.downloadWait / 1000}s for download...`);
       await docsPage.waitForTimeout(CONFIG.downloadWait);
