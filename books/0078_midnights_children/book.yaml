@@ -4,3 +4,188 @@ book_info:
   author: "Salman Rushdie"
   year: 1981
   genre: "Magical realism,Historical fiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-23T15:45:00"
+
+  scores:
+    controversy: 10
+    philosophical_depth: 9
+    cultural_phenomenon: 5
+    contemporary_reception: 6
+    relevance: 9
+    innovation: 9
+    structural_complexity: 9
+    social_roles: 7
+    total: 64
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 9.0
+      category: "high"
+    heat:
+      value: 7.0
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.95
+        content: "Fatwa ordering Rushdie's death (Feb 14, 1989) never withdrawn, translator murdered 1991, author stabbed 2022 - one of most famous literary controversies in history"
+        source: "dark_drama"
+      - id: "symbols_meanings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Multiple interpretive layers: Jungian archetypes, postcolonial identity, fragmentation metaphor, feminist readings - extensively studied in academia"
+        source: "symbols_meanings"
+      - id: "culture_impact_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Triple Booker winner (1981, 1993 Booker of Bookers, 2008 Best of Booker) - only book to achieve this distinction in prize's history"
+        source: "culture_impact"
+      - id: "writing_innovation_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "Coined 'chutnification' technique, pioneered historiographic metafiction, created 'post-Rushdie decade' in Indian English literature"
+        source: "writing_innovation"
+      - id: "reality_wisdom_4"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Eerily prophetic about rise of fundamentalism, authoritarianism, democracy collapse - warnings came true decades later"
+        source: "reality_wisdom"
+      - id: "facts_history_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Semi-autobiographical work written over 5 years, influenced by García Márquez's One Hundred Years of Solitude and Grass's The Tin Drum"
+        source: "facts_history"
+      - id: "youth_digital_6"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "BookTok 2.3M views, 15K+ Bookstagram posts, moderate Gen Z engagement primarily through postcolonial studies courses"
+        source: "youth_digital"
+      - id: "local_contexts_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Translated into 40+ languages, adapted across multiple cultures with distinctive local interpretations reflecting each culture's colonial history"
+        source: "local_contexts"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western literature, foundational postcolonial text studied in universities worldwide"
+        key_editions: ["Jonathan Cape (1981)", "Vintage", "Penguin Modern Classics"]
+        reception_notes: "Triple Booker winner, considered one of greatest 20th-century novels in English"
+        educational_status: "Core text in university postcolonial literature curricula across English-speaking world"
+        local_themes: ["Colonial discourse critique", "National identity formation", "Magical realism in English literature"]
+
+      pl:
+        cultural_impact: "Strong reception in post-communist Poland, themes of national trauma resonate with Polish partition history"
+        key_editions: ["PIW editions", "School reading editions"]
+        reception_notes: "Partition themes parallel Polish historical experience of division"
+        educational_status: "Studied in comparative literature programs, postcolonial studies"
+        local_themes: ["Post-communist readings", "National partition parallels", "Identity in divided nations"]
+
+      de:
+        cultural_impact: "German Romantic movement connections, strong philosophical and psychoanalytic interpretation tradition"
+        key_editions: ["Reclam editions", "Scholarly editions"]
+        reception_notes: "Strong academic tradition, philosophical analysis emphasized"
+        educational_status: "Studied in literature and philosophy departments"
+        local_themes: ["Philosophical interpretations", "Psychoanalytic readings (Deleuze)", "Bildungsroman connections"]
+
+      fr:
+        cultural_impact: "Recognition in French literary institutions (Rushdie: Commandeur des Arts et des Lettres 1999)"
+        key_editions: ["Stock (1983, 1987)", "Gallimard Folio (2010)", "Translator: Jean Guiloineau"]
+        reception_notes: "Translator Jean Guiloineau: Chevalier de la Légion d'honneur, academic analysis emphasizes poststructuralism"
+        educational_status: "Studied in postcolonial literature and world literatures curricula"
+        local_themes: ["Poststructuralist connections (Deleuze, Guattari)", "Intertextuality theory (Kristeva)", "Fanon and Négritude parallels"]
+
+      es:
+        cultural_impact: "Strong connection to Latin American magical realism tradition, studied alongside García Márquez and Borges"
+        key_editions: ["Alfaguara (Madrid, 1984)", "Plaza & Janés (Barcelona, 1997)", "Debolsillo (Barcelona, 2005)"]
+        reception_notes: "ABC called it 'Una de las grandes novelas del siglo', translator Miguel Sáenz (National Translation Prize 1992)"
+        educational_status: "Core text in magical realism and postcolonial literature courses"
+        local_themes: ["Latin American magical realism links", "Postcolonial parallels with Hispanic world", "Cultural synthesis themes"]
+
+      pt:
+        cultural_impact: "Strong presence in Brazil and Portugal, appreciated as postcolonial masterwork and magical realist text"
+        key_editions: ["Companhia das Letras (Brazil, 2006)", "Dom Quixote (Portugal, 2009)"]
+        reception_notes: "Translator Donaldson M. Garschagen, compared to Tolstoy's historical novels by Brazilian readers"
+        educational_status: "Key text in postcolonial literature programs in Lusophone world"
+        local_themes: ["Lusophone colonial memory", "African literature connections", "Brazilian independence narratives"]
+
+      ja:
+        cultural_impact: "Respected as 20th-century classic, published by prestigious Iwanami Bunko, academic recognition"
+        key_editions: ["Hayakawa Shobo (1989)", "Iwanami Bunko two-volume set (2020)"]
+        reception_notes: "'Greatest shock since One Hundred Years of Solitude' - challenging but valued by serious readers"
+        educational_status: "Studied in comparative literature and postcolonial studies at major universities"
+        local_themes: ["Buddhist philosophy connections", "Historical trauma parallels (WWII)", "Magical realism reception in Japan"]
+
+      ko:
+        cultural_impact: "Resonates strongly due to Korea's own partition (1947), colonial trauma parallels"
+        key_editions: ["Two-volume Korean set (Tsai Fong Books)", "Translator: Kim Jin Jun"]
+        reception_notes: "Studied in English literature departments, partition themes resonate with Korean division"
+        educational_status: "Included in Korea University curriculum, postcolonial literature programs"
+        local_themes: ["Korean division parallels (1947)", "Colonial trauma narratives", "Magical realism in Korean context"]
+
+      hi:
+        cultural_impact: "'Watershed in post-independence development of Indian English novel', created 'post-Rushdie decade'"
+        key_editions: ["Penguin India", "Hindi translation: Aadhi Raat Ki Santanen"]
+        reception_notes: "Initially embraced, later controversial, film shot in Sri Lanka due to fears of protests in India/Pakistan"
+        educational_status: "Extensively studied in Indian universities as key postcolonial text"
+        local_themes: ["Partition trauma and memory", "Indian independence narrative", "Hindu-Muslim relations", "Cultural syncretism"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "thesis"
+          lead: "host_a"
+          description: "Fragmentation and partition as central metaphor - introduces book's core themes of division (India-Pakistan partition 1947) reflected in narrative structure and protagonist's body"
+        - segment: 2
+          time_range: "03:30-06:50"
+          topic: "analysis"
+          lead: "host_b"
+          description: "Philosophical depth and multiple interpretive layers - explores Jungian archetypes, postcolonial identity theory, feminist readings, psychoanalytic frameworks"
+        - segment: 3
+          time_range: "06:50-10:10"
+          topic: "examples"
+          lead: "host_a"
+          description: "Chutnification technique and narrative innovations - examines Rushdie's unique 'pickling' of history, unreliable narrator, experimental structure"
+        - segment: 4
+          time_range: "10:10-13:30"
+          topic: "synthesis"
+          lead: "host_b"
+          description: "Prophetic relevance and contemporary resonance - discusses eerily accurate predictions about fundamentalism, authoritarianism, democracy collapse"
+        - segment: 5
+          time_range: "13:30-17:00"
+          topic: "conclusion"
+          lead: "host_a"
+          description: "Literary legacy and post-Rushdie impact - analyzes how book revolutionized postcolonial literature, influenced generation of writers, triple Booker winner status"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'Midnight's Children' with scholarly depth. Discuss structure, symbolism, postcolonial theory, and literary techniques. Academic but accessible. Focus on: Rushdie's revolutionary use of fragmentation and chutnification to represent India's partition trauma through the disintegrating body of narrator Saleem Sinai."
+        host_b: "You are {female_name}, a graduate student in postcolonial studies. Ask for clarification on complex theoretical concepts, request concrete examples from the text, connect to broader literary theories (Said, Bhabha, Spivak), and help make Rushdie's experimental techniques understandable to listeners new to postcolonial literature."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence (partition riots, war)", "religious conflict and fundamentalism", "sexual content references", "political controversy (fatwa)", "colonial trauma"]
+    educational_elements:
+      - "Postcolonial literature and theory (Said, Bhabha, Spivak)"
+      - "Magical realism as literary technique"
+      - "Indian partition history (1947) and aftermath"
+      - "Historiographic metafiction and unreliable narration"
+      - "Narrative innovation (chutnification technique)"
+      - "National allegory and political fiction"
+    production_notes:
+      intro_style: "Academic but engaging - begin with partition context and Booker Prize significance"
+      transitions: "Subtle academic transitions between theoretical concepts"
+      outro_style: "Reflective conclusion on literary legacy and contemporary relevance"
+
+  overall_confidence: 0.93
