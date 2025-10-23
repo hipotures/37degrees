@@ -151,20 +151,20 @@ function getFileExtension(format: string): string {
 }
 
 /**
- * Get Google Docs menu text for format
+ * Get Google Docs menu text for format (with file extension)
  */
 function getDownloadMenuText(format: string): string {
   const menuTexts: Record<string, string> = {
-    'txt': 'Plain text',
-    'pdf': 'PDF',
-    'docx': 'Microsoft Word',
-    'odt': 'OpenDocument',
-    'rtf': 'Rich Text',
-    'html': 'Web page',
-    'epub': 'EPUB',
-    'md': 'Markdown'
+    'txt': 'Plain text \\(\\.txt\\)',
+    'pdf': 'PDF Document \\(\\.pdf\\)',
+    'docx': 'Microsoft Word \\(\\.docx\\)',
+    'odt': 'OpenDocument Format \\(\\.odt\\)',
+    'rtf': 'Rich Text Format \\(\\.rtf\\)',
+    'html': 'Web Page \\(\\.html',
+    'epub': 'EPUB Publication \\(\\.epub\\)',
+    'md': 'Markdown \\(\\.md\\)'
   };
-  return menuTexts[format] || 'Plain text';
+  return menuTexts[format] || 'Plain text \\(\\.txt\\)';
 }
 
 /**
@@ -694,11 +694,11 @@ async function main() {
     if (arg === '--headless=false' || arg === 'false') {
       headless = false;
     } else if (arg.startsWith('--format=')) {
-      const formatValue = arg.split('=')[1] as DownloadParams['format'];
-      if (['txt', 'pdf', 'docx', 'odt', 'rtf', 'html', 'epub', 'md'].includes(formatValue)) {
-        format = formatValue;
+      const formatValue = arg.split('=')[1];
+      if (formatValue && ['txt', 'pdf', 'docx', 'odt', 'rtf', 'html', 'epub', 'md'].includes(formatValue)) {
+        format = formatValue as DownloadParams['format'];
       } else {
-        console.error(`Invalid format: ${formatValue}`);
+        console.error(`Invalid format: ${formatValue || '(empty)'}`);
         process.exit(1);
       }
     }
