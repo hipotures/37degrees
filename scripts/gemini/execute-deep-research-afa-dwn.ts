@@ -494,13 +494,34 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     console.error('');
 
     // ========================================================================
-    // PHASE 11: Close Google Docs tab
+    // PHASE 11: Close Google Docs tabs
     // ========================================================================
 
-    console.error('[11/12] Closing Google Docs tab...');
+    console.error('[11/12] Closing Google Docs tabs...');
 
+    // Close the main Docs tab
     await docsPage.close();
-    console.error('  ✓ Docs tab closed');
+    console.error('  ✓ Primary Docs tab closed');
+
+    // Check for any remaining docs.google.com tabs and close them
+    const remainingPages = browser.pages();
+    let docsTabsClosed = 0;
+
+    for (const p of remainingPages) {
+      const url = p.url();
+      if (url.includes('docs.google.com')) {
+        await p.close();
+        docsTabsClosed++;
+        console.error(`  ✓ Closed extra Docs tab: ${url.substring(0, 50)}...`);
+      }
+    }
+
+    if (docsTabsClosed > 0) {
+      console.error(`  → Closed ${docsTabsClosed} additional Docs tab(s)`);
+    }
+
+    const finalPages = browser.pages();
+    console.error(`  → Remaining tabs: ${finalPages.length}`);
     console.error('');
 
     // ========================================================================
