@@ -40,6 +40,7 @@ import * as net from 'net';
 interface DownloadParams {
   sourceName: string;
   headless?: boolean;
+  format?: 'txt' | 'pdf' | 'docx' | 'odt' | 'rtf' | 'html' | 'epub' | 'md';
 }
 
 interface DownloadResult {
@@ -133,19 +134,55 @@ function readGeminiAfaUrl(sourceName: string): string {
 }
 
 /**
+ * Get file extension for format
+ */
+function getFileExtension(format: string): string {
+  const extensions: Record<string, string> = {
+    'txt': '.txt',
+    'pdf': '.pdf',
+    'docx': '.docx',
+    'odt': '.odt',
+    'rtf': '.rtf',
+    'html': '.zip', // HTML is zipped
+    'epub': '.epub',
+    'md': '.md'
+  };
+  return extensions[format] || '.txt';
+}
+
+/**
+ * Get Google Docs menu text for format
+ */
+function getDownloadMenuText(format: string): string {
+  const menuTexts: Record<string, string> = {
+    'txt': 'Plain text',
+    'pdf': 'PDF',
+    'docx': 'Microsoft Word',
+    'odt': 'OpenDocument',
+    'rtf': 'Rich Text',
+    'html': 'Web page',
+    'epub': 'EPUB',
+    'md': 'Markdown'
+  };
+  return menuTexts[format] || 'Plain text';
+}
+
+/**
  * Find latest downloaded file in download directory
  */
-function findLatestDownload(downloadDir: string): string | null {
+function findLatestDownload(downloadDir: string, format: string): string | null {
   if (!fs.existsSync(downloadDir)) {
     console.error(`  ⚠ Download directory not found: ${downloadDir}`);
     return null;
   }
 
-  // Search for .txt files directly in the directory
+  const expectedExt = getFileExtension(format);
+
+  // Search for files with expected extension
   const files = fs.readdirSync(downloadDir)
     .filter(f => {
       const fullPath = path.join(downloadDir, f);
-      return !fs.statSync(fullPath).isDirectory() && f.endsWith('.txt');
+      return !fs.statSync(fullPath).isDirectory() && f.endsWith(expectedExt);
     })
     .sort((a, b) => {
       // Sort by modification time (newest first)
@@ -188,9 +225,12 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     // PHASE 0: Read GEMINI_AFA_URL from TODOIT
     // ========================================================================
 
-    console.error('[0/11] Reading GEMINI_AFA_URL from TODOIT...');
+    console.error('[0/12] Reading GEMINI_AFA_URL from TODOIT...');
     const geminiAfaUrl = readGeminiAfaUrl(params.sourceName);
     console.error(`  ✓ URL: ${geminiAfaUrl}`);
+
+    const format = params.format || 'txt';
+    console.error(`  ✓ Format: ${format} (${getDownloadMenuText(format)})`);
     console.error('');
 
     // ========================================================================
@@ -410,9 +450,10 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
       });
       await docsPage.waitForTimeout(1500);
 
-      // Click Plain text (.txt)
-      console.error('  → Selecting Plain text format');
-      await docsPage.click('text=/(Plain text|Zwykły tekst)/i', {
+      // Click selected format
+      const menuText = getDownloadMenuText(format);
+      console.error(`  → Selecting ${menuText} format`);
+      await docsPage.click(`text=/${menuText}/i`, {
         timeout: CONFIG.actionTimeout
       });
 
@@ -431,9 +472,9 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     // PHASE 8: Find downloaded file
     // ========================================================================
 
-    console.error('[8/11] Locating downloaded file...');
+    console.error('[8/12] Locating downloaded file...');
 
-    const downloadedFile = findLatestDownload(downloadSubdir);
+    const downloadedFile = findLatestDownload(downloadSubdir, format);
 
     if (!downloadedFile) {
       await takeScreenshot(docsPage, 'download-not-found');
@@ -448,12 +489,13 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
 
     console.error('[9/12] Moving file to project structure...');
 
+    const fileExtension = getFileExtension(format);
     const targetPath = path.join(
       CONFIG.projectRoot,
       'books',
       params.sourceName,
       'docs',
-      'gemini-afa.txt'
+      `gemini-afa${fileExtension}`
     );
 
     console.error(`  → Target: ${targetPath}`);
@@ -612,17 +654,60 @@ async function main() {
   const args = process.argv.slice(2);
 
   if (args.length < 1) {
-    console.error('Usage: npx ts-node execute-deep-research-afa-dwn.ts <sourceName> [headless]');
-    console.error('Example: npx ts-node execute-deep-research-afa-dwn.ts 0055_of_mice_and_men');
+    console.error('Usage: npx ts-node execute-deep-research-afa-dwn.ts <sourceName> [options]');
+    console.error('');
+    console.error('Arguments:');
+    console.error('  <sourceName>          Book folder name (e.g., 0055_of_mice_and_men)');
+    console.error('');
+    console.error('Options:');
+    console.error('  --headless=false      Run browser in visible mode');
+    console.error('  --format=<format>     Download format (default: txt)');
+    console.error('');
+    console.error('Formats:');
+    console.error('  txt      Plain text (.txt) - default');
+    console.error('  pdf      PDF document (.pdf)');
+    console.error('  docx     Microsoft Word (.docx)');
+    console.error('  odt      OpenDocument format (.odt)');
+    console.error('  rtf      Rich Text Format (.rtf)');
+    console.error('  html     Web page (.zip)');
+    console.error('  epub     EPUB publication (.epub)');
+    console.error('  md       Markdown (.md)');
     console.error('');
     console.error('Environment variables:');
     console.error('  GEMINI_AFA_URL - URL to Gemini chat (for testing without TODOIT)');
+    console.error('');
+    console.error('Examples:');
+    console.error('  npx ts-node execute-deep-research-afa-dwn.ts 0055_of_mice_and_men');
+    console.error('  npx ts-node execute-deep-research-afa-dwn.ts 0055_of_mice_and_men --format=pdf');
+    console.error('  npx ts-node execute-deep-research-afa-dwn.ts 0055_of_mice_and_men --headless=false --format=md');
     process.exit(1);
   }
 
+  // Parse arguments
+  const sourceName = args[0];
+  let headless = true;
+  let format: DownloadParams['format'] = 'txt';
+
+  // Parse optional arguments
+  for (let i = 1; i < args.length; i++) {
+    const arg = args[i];
+    if (arg === '--headless=false' || arg === 'false') {
+      headless = false;
+    } else if (arg.startsWith('--format=')) {
+      const formatValue = arg.split('=')[1] as DownloadParams['format'];
+      if (['txt', 'pdf', 'docx', 'odt', 'rtf', 'html', 'epub', 'md'].includes(formatValue)) {
+        format = formatValue;
+      } else {
+        console.error(`Invalid format: ${formatValue}`);
+        process.exit(1);
+      }
+    }
+  }
+
   const params: DownloadParams = {
-    sourceName: args[0],
-    headless: args[1] === 'false' ? false : true
+    sourceName,
+    headless,
+    format
   };
 
   const result = await downloadAfaResearch(params);
