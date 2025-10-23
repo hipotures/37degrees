@@ -473,8 +473,11 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     // Create directory if needed
     fs.mkdirSync(path.dirname(targetPath), { recursive: true });
 
-    // Move file (not copy!)
-    fs.renameSync(downloadedFile, targetPath);
+    // Copy file (renameSync doesn't work across filesystems)
+    fs.copyFileSync(downloadedFile, targetPath);
+
+    // Remove original file
+    fs.unlinkSync(downloadedFile);
 
     console.error('  ✓ File moved successfully');
     console.error('');
