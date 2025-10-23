@@ -600,17 +600,7 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     console.error('  ✓ Back to Gemini');
     console.error('');
 
-    // ========================================================================
-    // CLEANUP: Remove empty download directory
-    // ========================================================================
-
-    try {
-      // Try to remove the download subdirectory (will only work if empty)
-      fs.rmdirSync(downloadSubdir);
-      console.error(`  ✓ Cleaned up empty directory: ${downloadSubdir}`);
-    } catch (error) {
-      // Directory not empty or other error - ignore
-    }
+    await takeScreenshot(page, 'final-success');
 
     // ========================================================================
     // SUCCESS
