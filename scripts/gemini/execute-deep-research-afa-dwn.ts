@@ -262,8 +262,6 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     console.error('  ✓ Navigation complete');
     console.error('');
 
-    await takeScreenshot(page, 'after-navigation');
-
     // ========================================================================
     // PHASE 3: Export to Google Docs (blind click)
     // ========================================================================
@@ -278,8 +276,6 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
       });
       await page.waitForTimeout(2000);
       console.error('  ✓ Export menu opened');
-
-      await takeScreenshot(page, 'after-export-menu');
 
       // Click export to docs button
       console.error('  → Clicking export to docs button');
@@ -315,8 +311,6 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     await docsPage.bringToFront();
     console.error('  ✓ Switched to Google Docs tab');
     console.error('');
-
-    await takeScreenshot(docsPage, 'docs-opened');
 
     // ========================================================================
     // PHASE 5: Rename document
@@ -368,8 +362,6 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
 
     console.error('');
 
-    await takeScreenshot(docsPage, 'after-rename');
-
     // ========================================================================
     // PHASE 6: Setup download directory
     // ========================================================================
@@ -411,16 +403,12 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
       });
       await docsPage.waitForTimeout(1500);
 
-      await takeScreenshot(docsPage, 'file-menu-open');
-
       // Click Download
       console.error('  → Clicking Download');
       await docsPage.click('text=/^(Download|Pobierz)$/i', {
         timeout: CONFIG.actionTimeout
       });
       await docsPage.waitForTimeout(1500);
-
-      await takeScreenshot(docsPage, 'download-menu-open');
 
       // Click Plain text (.txt)
       console.error('  → Selecting Plain text format');
@@ -524,8 +512,6 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     await page.bringToFront();
     console.error('  ✓ Back to Gemini');
     console.error('');
-
-    await takeScreenshot(page, 'final-success');
 
     // ========================================================================
     // SUCCESS
