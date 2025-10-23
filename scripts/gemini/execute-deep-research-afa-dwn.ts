@@ -628,8 +628,6 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
     console.error('  ✓ Back to Gemini');
     console.error('');
 
-    await takeScreenshot(page, 'final-success');
-
     // ========================================================================
     // SUCCESS
     // ========================================================================
