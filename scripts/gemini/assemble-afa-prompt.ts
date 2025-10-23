@@ -131,11 +131,13 @@ function extractSection(content: string, header: string): string[] {
 
   if (!match) return [];
 
-  // Split by newlines, trim, filter empty lines
+  // Split by newlines, trim, filter empty lines and lines with variables
   return match[1]
     .split('\n')
     .map(line => line.trimEnd())
-    .filter(line => line.length > 0);
+    .filter(line => line.length > 0)
+    .filter(line => !line.includes('$CLAUDE_PROJECT_DIR'))
+    .filter(line => !line.includes('[BOOK_FOLDER]'));
 }
 
 /**
