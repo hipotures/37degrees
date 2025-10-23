@@ -155,16 +155,16 @@ function getFileExtension(format: string): string {
  */
 function getDownloadMenuText(format: string): string {
   const menuTexts: Record<string, string> = {
-    'txt': 'Plain text \\(\\.txt\\)',
-    'pdf': 'PDF Document \\(\\.pdf\\)',
-    'docx': 'Microsoft Word \\(\\.docx\\)',
-    'odt': 'OpenDocument Format \\(\\.odt\\)',
-    'rtf': 'Rich Text Format \\(\\.rtf\\)',
-    'html': 'Web Page \\(\\.html',
-    'epub': 'EPUB Publication \\(\\.epub\\)',
-    'md': 'Markdown \\(\\.md\\)'
+    'txt': 'Plain text (.txt)',
+    'pdf': 'PDF Document (.pdf)',
+    'docx': 'Microsoft Word (.docx)',
+    'odt': 'OpenDocument Format (.odt)',
+    'rtf': 'Rich Text Format (.rtf)',
+    'html': 'Web Page (.html, zipped)',
+    'epub': 'EPUB Publication (.epub)',
+    'md': 'Markdown (.md)'
   };
-  return menuTexts[format] || 'Plain text \\(\\.txt\\)';
+  return menuTexts[format] || 'Plain text (.txt)';
 }
 
 /**
@@ -450,10 +450,12 @@ async function downloadAfaResearch(params: DownloadParams): Promise<DownloadResu
       });
       await docsPage.waitForTimeout(1500);
 
-      // Click selected format
+      // Click selected format (exact text match, no regex)
       const menuText = getDownloadMenuText(format);
-      console.error(`  → Selecting ${menuText} format`);
-      await docsPage.click(`text=/${menuText}/i`, {
+      console.error(`  → Selecting format: ${menuText}`);
+
+      // Use exact text match to avoid "Copy as X" items
+      await docsPage.click(`text="${menuText}"`, {
         timeout: CONFIG.actionTimeout
       });
 
