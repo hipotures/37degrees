@@ -175,7 +175,7 @@ function buildPrompt(
   specializedSections: AgentSection[],
   languageSections: AgentSection[]
 ): string {
-  let prompt = `# Deep Research - AFA Analysis for ${bookInfo.title}\n\n`;
+  let prompt = `# Deep Research - Comprehensive Book Analysis\n\n`;
 
   // Book Information
   prompt += `## Book Information\n`;
