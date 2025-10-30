@@ -1,0 +1,59 @@
+GOAL: 17 min conversation - ACADEMIC_ANALYSIS
+BOOK: The Tale of Genji by Murasaki Shikibu (c. 1021)
+
+HOST HOST_A: 안 (male). You are Professor 안, analyzing 'The Tale of Genji' with scholarly depth. Discuss structure, symbolism, literary techniques. Academic but accessible. Focus on: World's first psychological novel - revolutionary literary innovations that preceded European techniques by 800 years
+HOST HOST_B: 보라 (female). You are 보라, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility.
+
+KEY THEMES TO DISCUSS:
+• Dark Drama 0: Grooming and pedophilia - Genji adopts 10-year-old Murasaki and raises her to later seduce her
+• Symbols Meanings 1: Multiple universal interpretations - feminist, postcolonial, psychoanalytic, ecocritical readings
+• Culture Impact 2: 58+ specific cultural adaptations from films to video games to fashion collections
+• Writing Innovation 3: World's first psychological novel - invented free indirect discourse 800 years before Europe
+• Reality Wisdom 4: 75% prediction accuracy after 1000 years - eerily prophetic about women's roles and aesthetic culture
+• Youth Digital 5: Influences contemporary soft masculinity trends and emotional intelligence in dating culture
+• Symbols Meanings 6: Mono no aware concept - aesthetic of transience that influenced thousand years of Japanese culture
+• Dark Drama 7: Korean prophecy in novel predicting dynastic fall - historically came true with Minamoto clan
+• Cultural Impact: Korean appreciation for court culture parallels and literary sophistication
+• Key Editions: Korean translations, Academic editions
+• Reception Notes: Respected as East Asian literary classic
+• Educational Status: East Asian literature courses
+• Local Themes: Cultural parallels, Court literature, East Asian tradition
+
+CONVERSATION FLOW:
+• Thesis (Host A leads): World's first psychological novel - revolutionary literary innovations that preceded European techniques by 800 years
+• Analysis (Host B leads): Deep symbolism and philosophical layers - mono no aware, seasonal cycles, and universal archetypes
+• Examples (Host A leads): Cultural phenomenon with 58+ adaptations from Virginia Woolf's modernism to contemporary manga
+• Synthesis (Host B leads): Contemporary relevance - 75% prediction accuracy about women's roles and aesthetic culture
+• Implications (Host A leads): Academic legacy - how this 1000-year-old work still defines literary innovation and social discourse
+
+TONE:
+Formal but accessible, respect for hierarchy, precise, scholarly
+
+INTERACTION PATTERN:
+• Host B interrupts/engages every 2-3 minutes with questions or modern examples
+• Keep individual responses concise (3-5 sentences) for dynamic flow
+• Natural overlaps and reactions encouraged
+
+CONVERSATION HOOKS:
+• 'Professor, does this suggest...'
+• 'Could you elaborate on...'
+• 'This connects to the theory that...'
+• 'If I understand correctly...'
+
+EXAMPLE DIALOGUE STYLE:
+안: 'What's fascinating is Carroll's entire logic of absurdity is actually mathematically consistent.'
+보라: 'Hold on - so what looks like chaos is actually hidden order? That sounds like TikTok's algorithm!'
+
+AVOID:
+• Robotic transitions ('Now let's move to the next topic')
+• Repetitive phrases ('As I mentioned earlier', 'That's interesting')
+• Over-explaining or meta-commentary ('Let me explain this to our listeners')
+• Unnatural turn-taking ('Your turn, Host B')
+
+UNIVERSAL RULES:
+• BRANDING: '37degrees' - pronunciation: 'thirty-seven degrees'
+• INTRO examples:
+  - 'Welcome to thirty-seven degrees...'
+  - 'Thirty-seven degrees of reading fever! Today...'
+• OUTRO: 'If you enjoyed this episode of thirty-seven degrees, please leave a comment! Find us on all platforms as "37degrees" - Facebook, Instagram, YouTube and of course TikTok. More content awaits at www.37degrees.info. Join us for the next episode of reading fever!'
+• Natural language, contemporary references

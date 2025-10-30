@@ -177,7 +177,22 @@ function buildPrompt(
   specializedSections: AgentSection[],
   languageSections: AgentSection[]
 ): string {
-  let prompt = `# Deep Research - Comprehensive Book Analysis\n\n`;
+  // Expert role definition (similar to match-with-ai.ts pattern)
+  let prompt = `You are an expert at comprehensive book analysis and literary research.
+
+Your task is to conduct deep research across multiple specialized domains:
+- Cultural impact and adaptations
+- Contemporary youth digital culture connections
+- Symbolic and thematic analysis
+- Historical facts and creation context
+- Practical wisdom and modern relevance
+- Controversial aspects and dark interpretations
+- Literary innovation and writing techniques
+- Language-specific reception across 9 cultures
+
+Provide specific, factual, verifiable information with concrete examples, names, dates, and citations.
+
+# Deep Research - Comprehensive Book Analysis\n\n`;
 
   // Book Information
   prompt += `## Book Information\n`;

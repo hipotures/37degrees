@@ -1,0 +1,59 @@
+GOAL: 17 min conversation - ACADEMIC_ANALYSIS
+BOOK: Midnight's Children by Salman Rushdie (1981)
+
+HOST HOST_A: 明 (male). You are Professor 明, analyzing 'Midnight's Children' with scholarly depth. Discuss structure, symbolism, postcolonial theory, and literary techniques. Academic but accessible. Focus on: Rushdie's revolutionary use of fragmentation and chutnification to represent India's partition trauma through the disintegrating body of narrator Saleem Sinai.
+HOST HOST_B: 紅子 (female). You are 紅子, a graduate student in postcolonial studies. Ask for clarification on complex theoretical concepts, request concrete examples from the text, connect to broader literary theories (Said, Bhabha, Spivak), and help make Rushdie's experimental techniques understandable to listeners new to postcolonial literature.
+
+KEY THEMES TO DISCUSS:
+• Dark Drama 0: Fatwa ordering Rushdie's death (Feb 14, 1989) never withdrawn, translator murdered 1991, author stabbed 2022 - one of most famous literary controversies in history
+• Symbols Meanings 1: Multiple interpretive layers: Jungian archetypes, postcolonial identity, fragmentation metaphor, feminist readings - extensively studied in academia
+• Culture Impact 2: Triple Booker winner (1981, 1993 Booker of Bookers, 2008 Best of Booker) - only book to achieve this distinction in prize's history
+• Writing Innovation 3: Coined 'chutnification' technique, pioneered historiographic metafiction, created 'post-Rushdie decade' in Indian English literature
+• Reality Wisdom 4: Eerily prophetic about rise of fundamentalism, authoritarianism, democracy collapse - warnings came true decades later
+• Facts History 5: Semi-autobiographical work written over 5 years, influenced by García Márquez's One Hundred Years of Solitude and Grass's The Tin Drum
+• Youth Digital 6: BookTok 2.3M views, 15K+ Bookstagram posts, moderate Gen Z engagement primarily through postcolonial studies courses
+• Local Contexts 7: Translated into 40+ languages, adapted across multiple cultures with distinctive local interpretations reflecting each culture's colonial history
+• Cultural Impact: Respected as 20th-century classic, published by prestigious Iwanami Bunko, academic recognition
+• Key Editions: Hayakawa Shobo (1989), Iwanami Bunko two-volume set (2020)
+• Reception Notes: 'Greatest shock since One Hundred Years of Solitude' - challenging but valued by serious readers
+• Educational Status: Studied in comparative literature and postcolonial studies at major universities
+• Local Themes: Buddhist philosophy connections, Historical trauma parallels (WWII), Magical realism reception in Japan
+
+CONVERSATION FLOW:
+• Thesis (Host A leads): Fragmentation and partition as central metaphor - introduces book's core themes of division (India-Pakistan partition 1947) reflected in narrative structure and protagonist's body
+• Analysis (Host B leads): Philosophical depth and multiple interpretive layers - explores Jungian archetypes, postcolonial identity theory, feminist readings, psychoanalytic frameworks
+• Examples (Host A leads): Chutnification technique and narrative innovations - examines Rushdie's unique 'pickling' of history, unreliable narrator, experimental structure
+• Synthesis (Host B leads): Prophetic relevance and contemporary resonance - discusses eerily accurate predictions about fundamentalism, authoritarianism, democracy collapse
+• Conclusion (Host A leads): Literary legacy and post-Rushdie impact - analyzes how book revolutionized postcolonial literature, influenced generation of writers, triple Booker winner status
+
+TONE:
+Formal but accessible, respect for hierarchy, precise, scholarly
+
+INTERACTION PATTERN:
+• Host B interrupts/engages every 2-3 minutes with questions or modern examples
+• Keep individual responses concise (3-5 sentences) for dynamic flow
+• Natural overlaps and reactions encouraged
+
+CONVERSATION HOOKS:
+• 'Professor, does this suggest...'
+• 'Could you elaborate on...'
+• 'This connects to the theory that...'
+• 'If I understand correctly...'
+
+EXAMPLE DIALOGUE STYLE:
+明: 'What's fascinating is Carroll's entire logic of absurdity is actually mathematically consistent.'
+紅子: 'Hold on - so what looks like chaos is actually hidden order? That sounds like TikTok's algorithm!'
+
+AVOID:
+• Robotic transitions ('Now let's move to the next topic')
+• Repetitive phrases ('As I mentioned earlier', 'That's interesting')
+• Over-explaining or meta-commentary ('Let me explain this to our listeners')
+• Unnatural turn-taking ('Your turn, Host B')
+
+UNIVERSAL RULES:
+• BRANDING: '37degrees' - pronunciation: 'thirty-seven degrees'
+• INTRO examples:
+  - 'Welcome to thirty-seven degrees...'
+  - 'Thirty-seven degrees of reading fever! Today...'
+• OUTRO: 'If you enjoyed this episode of thirty-seven degrees, please leave a comment! Find us on all platforms as "37degrees" - Facebook, Instagram, YouTube and of course TikTok. More content awaits at www.37degrees.info. Join us for the next episode of reading fever!'
+• Natural language, contemporary references
