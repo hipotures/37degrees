@@ -171,7 +171,7 @@ async function executeDeepResearchAFA(params: DeepResearchParams): Promise<DeepR
     // PHASE 0: Read book info
     // ========================================================================
 
-    console.error('[0/11] Reading book information...');
+    console.error('[0/12] Reading book information...');
     const bookInfo = readBookInfo(params.sourceName);
     console.error(`  ✓ Title: ${bookInfo.title}`);
     console.error(`  ✓ Author: ${bookInfo.author}`);
@@ -181,7 +181,7 @@ async function executeDeepResearchAFA(params: DeepResearchParams): Promise<DeepR
     // PHASE 0.5: Assemble AFA prompt from 17 agents
     // ========================================================================
 
-    console.error('[0.5/11] Assembling AFA research prompt...');
+    console.error('[0.5/12] Assembling AFA research prompt...');
 
     let promptPath: string;
     try {
@@ -211,7 +211,7 @@ async function executeDeepResearchAFA(params: DeepResearchParams): Promise<DeepR
     // PHASE 1: Browser Setup (with CDP support)
     // ========================================================================
 
-    console.error('[1/11] Launching browser...');
+    console.error('[1/12] Launching browser...');
 
     // Check if CDP port 9222 is open
     const cdpPort = 9222;
@@ -246,6 +246,11 @@ async function executeDeepResearchAFA(params: DeepResearchParams): Promise<DeepR
       console.error(`  → Launching new browser instance`);
       console.error(`  → Headless mode: ${headlessMode}`);
 
+      // CRITICAL: Gemini mobile/desktop mode boundary
+      // - < 960px  = MOBILE mode (shows "3 dots" menu for conversation actions)
+      // - >= 960px = DESKTOP mode (no "3 dots" menu, different UI layout)
+      // Note: This is DIFFERENT from NotebookLM which uses 1050px boundary
+      // Current viewport: 1920px = DESKTOP mode
       browser = await chromium.launchPersistentContext(CONFIG.userDataDir, {
         headless: headlessMode,
         viewport: { width: 1920, height: 1080 },
@@ -262,10 +267,50 @@ async function executeDeepResearchAFA(params: DeepResearchParams): Promise<DeepR
     console.error('');
 
     // ========================================================================
+    // PHASE 1.5: Force mobile mode (CRITICAL for menu access)
+    // ========================================================================
+
+    console.error('[1.5/12] Setting mobile viewport...');
+
+    // CRITICAL: Gemini mobile/desktop boundary is 960px
+    // - < 960px  = MOBILE mode (shows "3 dots" menu for conversation actions)
+    // - >= 960px = DESKTOP mode (no "3 dots" menu)
+    // We need mobile mode to access rename conversation menu
+
+    try {
+      const client = await page.context().newCDPSession(page);
+
+      // Get current window ID
+      const { windowId } = await client.send('Browser.getWindowForTarget');
+
+      // Set window to mobile size (Samsung Galaxy S24 Ultra - same as 9222-mobile.sh)
+      await client.send('Browser.setWindowBounds', {
+        windowId: windowId,
+        bounds: {
+          width: 412,
+          height: 915
+        }
+      });
+
+      await page.waitForTimeout(2000); // Wait for window to resize and UI to adjust
+
+      // Verify viewport
+      const actualWidth = await page.evaluate(() => window.innerWidth);
+      console.error(`  ✓ Mobile viewport set: ${actualWidth}x915 (< 960px = mobile mode)`);
+
+      await client.detach();
+    } catch (error: any) {
+      console.error(`  ⚠ Failed to set mobile viewport: ${error.message}`);
+      console.error('  → Continuing anyway (may fail at rename step)');
+    }
+
+    console.error('');
+
+    // ========================================================================
     // PHASE 2: Navigate to Gemini
     // ========================================================================
 
-    console.error('[2/11] Navigating to Gemini...');
+    console.error('[2/12] Navigating to Gemini...');
 
     await page.goto('https://gemini.google.com/', {
       timeout: CONFIG.navigationTimeout,
@@ -280,7 +325,7 @@ async function executeDeepResearchAFA(params: DeepResearchParams): Promise<DeepR
     // PHASE 3: Check and change model to Gemini 2.5 Pro
     // ========================================================================
 
-    console.error('[3/11] Verifying model...');
+    console.error('[3/12] Verifying model...');
 
     // Find model selector button "2.5 Flash" or "2.5 Pro"
     const modelButton = page.locator('button:has-text("2.5")').first();
@@ -325,7 +370,7 @@ async function executeDeepResearchAFA(params: DeepResearchParams): Promise<DeepR
     // PHASE 4: Activate Deep Research
     // ========================================================================
 
-    console.error('[4/11] Activating Deep Research...');
+    console.error('[4/12] Activating Deep Research...');
 
     // Look for Deep Research button
     const deepResearchButton = page.locator('button', { hasText: /Deep Research/i }).first();
@@ -345,7 +390,7 @@ async function executeDeepResearchAFA(params: DeepResearchParams): Promise<DeepR
     // PHASE 5: Load assembled prompt to clipboard
     // ========================================================================
 
-    console.error('[5/11] Loading AFA prompt to clipboard...');
+    console.error('[5/12] Loading AFA prompt to clipboard...');
     loadPromptToClipboard(promptPath);
     console.error('');
 
@@ -353,7 +398,7 @@ async function executeDeepResearchAFA(params: DeepResearchParams): Promise<DeepR
     // PHASE 6: Paste prompt directly (no manual header)
     // ========================================================================
 
-    console.error('[6/11] Entering prompt...');
+    console.error('[6/12] Entering prompt...');
 
     // Find text input area (textarea or contenteditable)
     const textArea = page.locator('textarea, [contenteditable="true"]').first();
@@ -377,7 +422,7 @@ async function executeDeepResearchAFA(params: DeepResearchParams): Promise<DeepR
     // PHASE 7: Wait for plan generation
     // ========================================================================
 
-    console.error('[7/11] Waiting for plan generation...');
+    console.error('[7/12] Waiting for plan generation...');
     console.error(`  → Waiting for "Start research" button (max ${CONFIG.planWait / 1000}s)...`);
 
     // Look for "Start research" or "Start search" or "Zacznij wyszukiwanie" button
@@ -393,7 +438,7 @@ async function executeDeepResearchAFA(params: DeepResearchParams): Promise<DeepR
       await takeScreenshot(page, 'after-plan-generation');
       console.error('');
 
-      console.error('[8/11] Starting search...');
+      console.error('[8/12] Starting search...');
       await startSearchButton.click();
       await page.waitForTimeout(3000);
       console.error('  ✓ Search started');
@@ -409,7 +454,7 @@ async function executeDeepResearchAFA(params: DeepResearchParams): Promise<DeepR
     // PHASE 9: Get chat URL
     // ========================================================================
 
-    console.error('[9/11] Getting chat URL...');
+    console.error('[9/12] Getting chat URL...');
 
     const chatUrl = page.url();
     console.error(`  ✓ URL: ${chatUrl}`);
@@ -419,7 +464,7 @@ async function executeDeepResearchAFA(params: DeepResearchParams): Promise<DeepR
     // PHASE 10: Rename chat to book folder
     // ========================================================================
 
-    console.error('[10/11] Renaming chat...');
+    console.error('[10/12] Renaming chat...');
 
     try {
       // Look for "Open menu for conversation actions" button (3 dots)

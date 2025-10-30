@@ -880,6 +880,20 @@ todoit item property get --list gemini-afa-research --item 0055_of_mice_and_men 
 ### Problem 4: Encoding issues (polskie znaki w agentach)
 **Rozwiązanie**: Zawsze czytać pliki z `utf-8` encoding
 
+### Problem 5: Viewport mobile/desktop mode boundary
+**Problem**: "Menu button not found" przy próbie zmiany nazwy czatu - przycisk "3 kropki" (conversation actions) nie jest widoczny
+**Przyczyna**: Gemini ma różne layouty dla mobile i desktop:
+- **< 960px** = MOBILE mode (widoczny przycisk "3 kropki" do menu)
+- **>= 960px** = DESKTOP mode (brak przycisku "3 kropki", inne menu)
+
+**WAŻNE**: Granica viewport w Gemini to **960px**, co jest INNE niż w NotebookLM (1050px)!
+
+**Rozwiązanie**:
+- Jeśli skrypt potrzebuje dostępu do menu mobile (3 kropki), trzeba zmienić viewport przed tą operacją
+- Metoda: `page.setViewportSize({ width: 959, height: 1080 })` - ale wymaga **reload strony** żeby Gemini wykrył nowy rozmiar
+- Alternatywa: Uruchomić browser od początku z mobile viewport (< 960px)
+- Dla operacji nie wymagających menu mobile - można pozostać w desktop mode (1920px)
+
 ## Metryki sukcesu
 
 - ✅ Prompt jest generowany automatycznie z 17 agentów
