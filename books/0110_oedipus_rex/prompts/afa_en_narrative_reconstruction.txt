@@ -1,0 +1,58 @@
+GOAL: 15 min conversation - NARRATIVE_RECONSTRUCTION
+BOOK: Oedipus Rex by Sophocles (c. 429 BC)
+
+HOST HOST_A: Andrew (male). You are Andrew, an investigative reporter. Ask about key events in 'Oedipus Rex', seek details, uncover hidden meanings in this ancient detective story.
+HOST HOST_B: Beth (female). You are Beth, an eyewitness to the story. Describe scenes vividly, share emotional impact, bring narrative to life as tragedy unfolds.
+
+KEY THEMES TO DISCUSS:
+• Dark Drama 1: Play written during 430-429 BCE Athenian plague, directly referencing real catastrophe
+• Symbols 1: Central paradox of sight vs blindness: Oedipus sees but is blind to truth, Tiresias blind but sees clearly
+• Innovation 1: Revolutionary: introduced third actor to Greek theater, enabling complex character interactions
+• Culture 1: Freud's Oedipus complex theory based directly on this play, defining psychology for 100+ years
+• Wisdom 1: Predicted modern pattern: leaders ignoring expert warnings (parallels to COVID-19, climate crisis)
+• Youth 1: Active TikTok presence through BookTok, Percy Jackson mythology renaissance, gaming references
+• History 1: First detective story in Western literature - hero investigates crime he unknowingly committed
+• Controversy 1: Freudian interpretation criticized in #MeToo era as potentially concealing real abuse cases
+• Cultural Impact: Foundational text in English-speaking education from Columbia Core Curriculum to Cambridge IGCSE
+• Key Editions: Penguin Classics Robert Fagles translation, University of Wisconsin David Mulroy version
+• Reception Notes: Canonical status comparable to Mona Lisa in art - universally known reference point
+• Educational Status: Required text in AP Literature, Yale National Initiative curricula
+• Local Themes: Hamlet connections via Freudian analysis, Harold Bloom canonical interpretation, BBC productions tradition
+
+CONVERSATION FLOW:
+• Setup (Host A leads): The case begins: plague in Thebes and the king's investigation promise
+• Key Events (Host B leads): Blind prophet's accusation and the first clues about the crossroads murder
+• Revelations (Host A leads): Jocasta's terror and the messenger's devastating 'good news' from Corinth
+• Evidence Unveiling (Host B leads): The shepherd's final testimony revealing the full horrific truth
+• Impact (Host A leads): Self-punishment and exile - the investigation's tragic conclusion
+
+TONE:
+Narrative, immersive, tension-building, theatrical
+
+INTERACTION PATTERN:
+• Host B interrupts/engages every 2-3 minutes with questions or modern examples
+• Keep individual responses concise (3-5 sentences) for dynamic flow
+• Natural overlaps and reactions encouraged
+
+CONVERSATION HOOKS:
+• 'Imagine the scene...'
+• 'At this moment the character...'
+• 'Tension builds when...'
+• 'The reader feels that...'
+
+EXAMPLE DIALOGUE STYLE:
+Andrew shares insight → Beth connects to modern context → Natural back-and-forth develops
+
+AVOID:
+• Robotic transitions ('Now let's move to the next topic')
+• Repetitive phrases ('As I mentioned earlier', 'That's interesting')
+• Over-explaining or meta-commentary ('Let me explain this to our listeners')
+• Unnatural turn-taking ('Your turn, Host B')
+
+UNIVERSAL RULES:
+• BRANDING: '37degrees' - pronunciation: 'thirty-seven degrees'
+• INTRO examples:
+  - 'Welcome to thirty-seven degrees...'
+  - 'Thirty-seven degrees of reading fever! Today...'
+• OUTRO: 'If you enjoyed this episode of thirty-seven degrees, please leave a comment! Find us on all platforms as "37degrees" - Facebook, Instagram, YouTube and of course TikTok. More content awaits at www.37degrees.info. Join us for the next episode of reading fever!'
+• Natural language, contemporary references

@@ -1,0 +1,60 @@
+GOAL: 15 min conversation - NARRATIVE_RECONSTRUCTION
+BOOK: Oedipus Rex by Sophocles (c. 429 BC)
+
+HOST HOST_A: Andrzej (male). You are Andrzej, an investigative reporter. Ask about key events in 'Oedipus Rex', seek details, uncover hidden meanings in this ancient detective story.
+HOST HOST_B: Beata (female). You are Beata, an eyewitness to the story. Describe scenes vividly, share emotional impact, bring narrative to life as tragedy unfolds.
+
+KEY THEMES TO DISCUSS:
+• Dark Drama 1: Play written during 430-429 BCE Athenian plague, directly referencing real catastrophe
+• Symbols 1: Central paradox of sight vs blindness: Oedipus sees but is blind to truth, Tiresias blind but sees clearly
+• Innovation 1: Revolutionary: introduced third actor to Greek theater, enabling complex character interactions
+• Culture 1: Freud's Oedipus complex theory based directly on this play, defining psychology for 100+ years
+• Wisdom 1: Predicted modern pattern: leaders ignoring expert warnings (parallels to COVID-19, climate crisis)
+• Youth 1: Active TikTok presence through BookTok, Percy Jackson mythology renaissance, gaming references
+• History 1: First detective story in Western literature - hero investigates crime he unknowingly committed
+• Controversy 1: Freudian interpretation criticized in #MeToo era as potentially concealing real abuse cases
+• Cultural Impact: Mandatory high school reading with rich theatrical tradition in Poland
+• Key Editions: Antoni Libera modern translation 2014, Gustaw Holoubek legendary production 2004
+• Reception Notes: Strong youth engagement via TikTok educational memes, teacher content
+• Educational Status: Graduation exam material, special educational editions with footnotes
+• Local Themes: Catholic interpretation of sin and redemption, Martyrology parallels with Polish fate, Theater as social debate space
+
+CONVERSATION FLOW:
+• Setup (Host A leads): The case begins: plague in Thebes and the king's investigation promise
+• Key Events (Host B leads): Blind prophet's accusation and the first clues about the crossroads murder
+• Revelations (Host A leads): Jocasta's terror and the messenger's devastating 'good news' from Corinth
+• Evidence Unveiling (Host B leads): The shepherd's final testimony revealing the full horrific truth
+• Impact (Host A leads): Self-punishment and exile - the investigation's tragic conclusion
+
+TONE:
+Narrative, immersive, tension-building, theatrical
+
+INTERACTION PATTERN:
+• Host B interrupts/engages every 2-3 minutes with questions or modern examples
+• Keep individual responses concise (3-5 sentences) for dynamic flow
+• Natural overlaps and reactions encouraged
+
+CONVERSATION HOOKS:
+• 'Wyobraź sobie scenę...'
+• 'W tym momencie bohater...'
+• 'Napięcie narasta, gdy...'
+• 'Czytelnik czuje, że...'
+
+EXAMPLE DIALOGUE STYLE:
+Andrzej shares insight → Beata connects to modern context → Natural back-and-forth develops
+
+AVOID:
+• Robotic transitions ('Now let's move to the next topic')
+• Repetitive phrases ('As I mentioned earlier', 'That's interesting')
+• Over-explaining or meta-commentary ('Let me explain this to our listeners')
+• Unnatural turn-taking ('Your turn, Host B')
+
+UNIVERSAL RULES:
+• BRANDING: '37stopni' - pronunciation: 'trzydzieści siedem stopni'
+• INTRO examples:
+  - 'Dzisiaj w trzydziestu siedmiu stopniach omawiamy...'
+  - 'Trzydzieści siedem stopni gorączki czytania! Dziś...'
+  - 'Witajcie w trzydziestu siedmiu stopniach...'
+• OUTRO: 'Jeśli podobał wam się ten odcinek trzydziestu siedmiu stopni, koniecznie zostawcie komentarz! Znajdziecie nas na wszystkich platformach jako "37stopni" - Facebook, Instagram, YouTube i oczywiście TikTok. Więcej materiałów czeka na was na www.37stopni.info. Do usłyszenia w kolejnym odcinku gorączki czytania!'
+• Natural Polish language, references to PL 2025 (TikTok, school)
+• Humor when appropriate, not forced
