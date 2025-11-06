@@ -284,6 +284,107 @@ Each of the 8 dialogue formats has unique host personalities and roles:
 - [ ] All 9 language versions generated
 - [ ] Character encoding is UTF-8
 - [ ] YAML structure is valid
+- [ ] Audio language matches filename code (use `check_lang.py`)
+
+## Audio Language Verification
+
+### Overview
+The `scripts/check_lang.py` tool verifies that audio files contain the language indicated by their filename. This helps detect mismatches between the expected language code in the filename and the actual spoken language in the audio.
+
+### File Naming Convention
+Audio files must follow this pattern:
+```
+NNNN_bookname_LANG.[m4a|mp4]
+```
+Where `LANG` is a two-letter ISO-639-1 language code matching the supported languages:
+- `pl` - Polski
+- `en` - English
+- `es` - Español
+- `pt` - Português
+- `hi` - हिन्दी
+- `ja` - 日本語
+- `ko` - 한국어
+- `de` - Deutsch
+- `fr` - Français
+
+### Usage
+
+**Basic verification** (shows only mismatches):
+```bash
+python scripts/check_lang.py --folder books/NNNN_bookname/audio --model turbo
+```
+
+**With debug information**:
+```bash
+python scripts/check_lang.py --folder books/NNNN_bookname/audio --model turbo --debug
+```
+
+**With transcription** (creates .txt/.vtt/.srt files):
+```bash
+python scripts/check_lang.py --folder books/NNNN_bookname/audio --model turbo --transcription --format srt
+```
+
+### Output Format
+
+**When mismatch detected**:
+```
+books/0100_book/audio/0100_book_pl.m4a	expected=pl	detected=en
+```
+
+For each mismatch, the script also creates a `.err` file in the same directory:
+```
+books/0100_book/audio/0100_book_pl.err
+```
+Content: Same as console output line
+
+**When all files match**: No output (silent success)
+
+### Model Selection
+Available Whisper models (accuracy vs speed):
+- `tiny` - Fastest, least accurate
+- `base` - Fast, basic accuracy
+- `small` - Balanced
+- `medium` - Good accuracy
+- `large` - Best accuracy, slow
+- `turbo` - Recommended (fast + accurate)
+
+### Common Scenarios
+
+**Verify all audio in a book folder**:
+```bash
+python scripts/check_lang.py --folder books/0100_bookname/audio --model turbo
+```
+
+**Check with GPU acceleration**:
+```bash
+python scripts/check_lang.py --folder books/0100_bookname/audio --model turbo --device cuda
+```
+
+**Generate transcriptions for all files**:
+```bash
+python scripts/check_lang.py --folder books/0100_bookname/audio --model turbo --transcription --format all
+```
+
+### Integration with Workflow
+
+1. **After NotebookLM download**: Run verification to ensure files weren't mislabeled
+2. **Before publishing**: Final check that all language codes are correct
+3. **Batch verification**: Check entire audio collection periodically
+4. **Error handling**: Review `.err` files to identify systematic issues
+
+### Troubleshooting
+
+**No CUDA available**: Script auto-falls back to CPU
+```bash
+python scripts/check_lang.py --folder path/to/audio --model turbo --device cpu
+```
+
+**Slow processing**: Use smaller model or limit threads
+```bash
+python scripts/check_lang.py --folder path/to/audio --model base --threads 4
+```
+
+**False positives**: Some mixed-language content may trigger mismatches - review manually
 
 ## Prompt Templates (Examples)
 
