@@ -1,0 +1,58 @@
+GOAL: 14 min conversation - SOCIAL_PERSPECTIVE
+BOOK: The Communist Manifesto by Karl Marx and Friedrich Engels (1848)
+
+HOST HOST_A: Andrés (male). You are Andrés, a social historian. Analyze 'The Communist Manifesto' through lens of power, gender, class. Historical context: 1848 revolutionary period with industrial transformation and mass movements.
+HOST HOST_B: Beatriz (female). You are Beatriz, examining contemporary relevance. Connect to current social debates, modern interpretations, Gen Z discourse on capitalism and social media activism.
+
+KEY THEMES TO DISCUSS:
+• Dark Drama 0: Banned for 165 years in various countries including Nazi Germany and Franco's Spain due to revolutionary content
+• Symbols 0: Dialectical materialism as narrative engine with specter metaphor establishing powerful spiritual framework
+• Culture 0: Over 100 cultural adaptations including films, theater, manga, and socialist realism movement
+• Youth 0: 4 million TikTok posts with #KarlMarxismyDaddy trend and viral Gen Z memes in 2024-2025
+• Reality 0: Accurately predicted globalization and automation 160 years before they occurred
+• Innovation 0: Created the modern manifesto genre influencing all subsequent political and artistic manifestos
+• Facts 0: First international workers' organization document establishing global class struggle framework
+• Content 0: High risk content including revolutionary calls and historical antisemitic statements requiring age restriction
+• Cultural Impact: Influenced liberation movements across Latin America from early translations
+• Key Editions: Primera traducción 1872 Madrid, Multiple Latin American publishers
+• Reception Notes: Revolutionary movements and educational integration
+• Educational Status: University political theory programs
+• Local Themes: National liberation, Revolutionary movements, Post-colonial analysis
+
+CONVERSATION FLOW:
+• Historical Context (Host A leads): 1848 revolutionary context and working class conditions that birthed the Manifesto
+• Power Dynamics (Host B leads): Class struggle analysis and bourgeoisie vs proletariat framework
+• Contemporary Relevance (Host A leads): Modern applications from Gen Z capitalism critique to global movements
+• Social Movements (Host B leads): Influence on liberation movements, labor organizing, and social justice
+• Future Implications (Host A leads): Contemporary relevance and continued influence on social analysis
+
+TONE:
+Socially conscious, engaged, contemporary, activist
+
+INTERACTION PATTERN:
+• Host B interrupts/engages every 2-3 minutes with questions or modern examples
+• Keep individual responses concise (3-5 sentences) for dynamic flow
+• Natural overlaps and reactions encouraged
+
+CONVERSATION HOOKS:
+• 'Socially this means...'
+• 'In today\'s reality...'
+• 'This impacts our...'
+• 'How does this translate to...'
+
+EXAMPLE DIALOGUE STYLE:
+Andrés shares insight → Beatriz connects to modern context → Natural back-and-forth develops
+
+AVOID:
+• Robotic transitions ('Now let's move to the next topic')
+• Repetitive phrases ('As I mentioned earlier', 'That's interesting')
+• Over-explaining or meta-commentary ('Let me explain this to our listeners')
+• Unnatural turn-taking ('Your turn, Host B')
+
+UNIVERSAL RULES:
+• BRANDING: '37degrees' - pronunciation: 'thirty-seven degrees'
+• INTRO examples:
+  - 'Welcome to thirty-seven degrees...'
+  - 'Thirty-seven degrees of reading fever! Today...'
+• OUTRO: 'If you enjoyed this episode of thirty-seven degrees, please leave a comment! Find us on all platforms as "37degrees" - Facebook, Instagram, YouTube and of course TikTok. More content awaits at www.37degrees.info. Join us for the next episode of reading fever!'
+• Natural language, contemporary references

@@ -9,6 +9,35 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"
 
 # =============================================================================
+# GNOME WINDOW FOCUS SETTINGS (prevent browser from stealing focus)
+# =============================================================================
+
+# Save original settings
+ORIGINAL_AUTO_RAISE=$(gsettings get org.gnome.desktop.wm.preferences auto-raise)
+ORIGINAL_RAISE_ON_CLICK=$(gsettings get org.gnome.desktop.wm.preferences raise-on-click)
+
+echo "Saving original Gnome settings..."
+echo "  auto-raise: $ORIGINAL_AUTO_RAISE"
+echo "  raise-on-click: $ORIGINAL_RAISE_ON_CLICK"
+
+# Set to false to prevent focus stealing
+gsettings set org.gnome.desktop.wm.preferences auto-raise false
+gsettings set org.gnome.desktop.wm.preferences raise-on-click false
+echo "✓ Gnome focus settings configured (no focus stealing)"
+echo ""
+
+# Restore settings on exit (even if script fails)
+restore_gnome_settings() {
+  echo ""
+  echo "Restoring original Gnome settings..."
+  gsettings set org.gnome.desktop.wm.preferences auto-raise $ORIGINAL_AUTO_RAISE
+  gsettings set org.gnome.desktop.wm.preferences raise-on-click $ORIGINAL_RAISE_ON_CLICK
+  echo "✓ Gnome settings restored"
+}
+
+trap restore_gnome_settings EXIT
+
+# =============================================================================
 # CONFIGURATION
 # =============================================================================
 
